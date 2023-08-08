@@ -917,6 +917,7 @@ adroitest
 adroitly
 adroitnesses
 adscript
+adscripts
 adsorb
 adsorbate
 adsorbates
@@ -2982,6 +2983,7 @@ anlages
 anlases
 annal
 annalist
+annalistic
 annalists
 annals
 annas
@@ -3302,6 +3304,7 @@ antifat
 antifatigue
 antifeminism
 antifeminist
+antifeminists
 antifilibuster
 antifoaming
 antifog
@@ -4172,6 +4175,7 @@ archeology
 archerfish
 archerfishes
 archers
+archery
 archesporia
 archesporial
 archesporium
@@ -8620,6 +8624,7 @@ bloaters
 bloats
 blob
 blobbing
+block
 blockading
 blockages
 blockers
@@ -9130,6 +9135,7 @@ boneheaded
 boneheadedness
 bonemeals
 boneset
+bonesets
 boneyest
 bonfire
 bong
@@ -17104,6 +17110,7 @@ consolation
 consolations
 consoled
 consoler
+consolidate
 consolidated
 consolidates
 consolidating
@@ -18959,6 +18966,7 @@ crimp
 crimping
 crimples
 crimpling
+crimps
 crimpy
 crimson
 crimsoned
@@ -21075,6 +21083,7 @@ defeated
 defeater
 defeaters
 defeatism
+defeatist
 defeatists
 defeatures
 defecated
@@ -23817,6 +23826,7 @@ dismantles
 dismantling
 dismasting
 dismay
+dismaying
 dismays
 disme
 dismembering
@@ -38331,6 +38341,7 @@ heretrixes
 hereunder
 hereunto
 heriot
+heriots
 heritabilities
 heritability
 heritages
@@ -42281,6 +42292,7 @@ inhalers
 inharmonious
 inharmoniously
 inharmony
+inhaul
 inhauler
 inhauls
 inhere
@@ -46654,6 +46666,7 @@ lazying
 lazyish
 lazzaroni
 lea
+leach
 leachabilities
 leachability
 leachate
@@ -47340,6 +47353,7 @@ lifters
 liftgates
 lifting
 liftmen
+lifts
 ligamentous
 ligaments
 ligan
@@ -51202,6 +51216,7 @@ micropunctures
 micropyle
 micropyles
 microradiograph
+microreaders
 microscope
 microscopes
 microscopical
@@ -55814,6 +55829,7 @@ nonirrigated
 nonirritant
 nonirritating
 nonissue
+nonjoinders
 nonjoiner
 nonjudgmental
 nonjuries
@@ -59479,6 +59495,7 @@ oversaturated
 oversaturates
 oversaturation
 oversaturations
+oversauced
 oversave
 oversaves
 oversaving
@@ -62225,6 +62242,7 @@ persuasible
 persuasions
 persuasively
 persuasiveness
+pertain
 pertained
 pertaining
 pertains
@@ -63431,6 +63449,7 @@ piolet
 piolets
 pion
 pioneering
+pionic
 pions
 piosity
 pious
@@ -63945,6 +63964,7 @@ plebs
 plecopterans
 plectrum
 pled
+pledgeor
 pledgers
 pledges
 pledget
@@ -65233,6 +65253,7 @@ pows
 powters
 powwowed
 powwows
+poxed
 poxes
 poxing
 poxvirus
@@ -69190,6 +69211,7 @@ ratooning
 ratoons
 ratos
 ratsbane
+ratsbanes
 rattail
 rattails
 ratteen
@@ -70553,6 +70575,7 @@ refined
 refinement
 refiner
 refiners
+refinery
 refinish
 refinishers
 refire
@@ -70913,6 +70936,7 @@ rehydrate
 rehydrates
 rehydration
 rehydrations
+rehypnotize
 rehypnotized
 rehypnotizes
 rehypnotizing
@@ -72326,6 +72350,7 @@ resprouting
 ressentiments
 restable
 restabled
+restables
 restabling
 restack
 restacked
@@ -80107,6 +80132,7 @@ sophist
 sophistic
 sophisticates
 sophisticating
+sophistications
 sophistries
 sophomore
 sophs
@@ -80732,6 +80758,7 @@ spiffiest
 spiffily
 spiffing
 spiffy
+spigot
 spik
 spike
 spiked
@@ -81761,6 +81788,7 @@ stealthier
 stealthily
 stealthiness
 stealthinesses
+steam
 steamboat
 steamboats
 steamed
@@ -82042,6 +82070,7 @@ stifles
 stifling
 stigmas
 stigmasterols
+stigmata
 stigmatically
 stigmatics
 stigmatist
@@ -82575,6 +82604,7 @@ strifes
 strigil
 strigils
 strike
+strikebound
 strikebreaker
 strikebreakers
 strikebreakings
@@ -86341,6 +86371,7 @@ terrepleins
 terrestrial
 terrestrials
 terret
+terribleness
 terriers
 terrific
 terrifies
@@ -90185,8 +90216,10 @@ unacerbic
 unacknowledged
 unactorish
 unaddressed
+unadept
 unadeptly
 unadjusted
+unadmired
 unadoptable
 unadulterated
 unadulteratedly
@@ -93586,6 +93619,7 @@ veto
 vetoes
 vets
 vetter
+vetters
 vetting
 vexation
 vexations
@@ -96084,6 +96118,7 @@ wondering
 wonderland
 wonderlands
 wonderwork
+wondrously
 wondrousness
 wonk
 wonkier
