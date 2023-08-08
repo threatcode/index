@@ -760,6 +760,7 @@ adequacies
 adequacy
 adequate
 adequatenesses
+adhere
 adherence
 adherences
 adherend
@@ -1420,6 +1421,7 @@ agnomen
 agnomina
 agnosia
 agnosias
+agnostic
 agnosticisms
 agnostics
 ago
@@ -5919,6 +5921,7 @@ badgered
 badgerly
 badinages
 badinaging
+badland
 badlands
 badly
 badman
@@ -13032,6 +13035,7 @@ certifiable
 certifiably
 certificate
 certificated
+certificates
 certification
 certifications
 certificatory
@@ -15833,6 +15837,7 @@ collected
 collectedly
 collectedness
 collectible
+collecting
 collective
 collectively
 collectives
@@ -17234,6 +17239,7 @@ consumed
 consumedly
 consumer
 consumerist
+consumeristic
 consumerists
 consumes
 consuming
@@ -21236,6 +21242,7 @@ defocus
 defocused
 defocussed
 defocusses
+defocussing
 defoliate
 defoliates
 defoliation
@@ -24956,6 +24963,7 @@ downswing
 downswings
 downthrows
 downtick
+downticks
 downtown
 downtowns
 downtrend
@@ -26244,6 +26252,7 @@ effrontery
 effs
 effulge
 effulgent
+effulges
 effulging
 effuse
 effused
@@ -32859,6 +32868,7 @@ freakinesses
 freakish
 freakishness
 freakout
+freakouts
 freaks
 freckles
 frecklier
@@ -33180,6 +33190,7 @@ frowns
 frows
 frowsier
 frowsiest
+frowsting
 frowsy
 frowziest
 frowzily
@@ -33356,6 +33367,7 @@ fumulus
 fumy
 fun
 funambulism
+funambulisms
 funambulist
 functional
 functionalisms
@@ -34446,6 +34458,7 @@ gentrifying
 gentry
 genua
 genuflect
+genuflection
 genuflections
 genuflects
 genuineness
@@ -37465,6 +37478,7 @@ hardier
 hardiest
 hardihoods
 hardily
+hardiments
 hardiness
 hardinesses
 hardinggrass
@@ -37899,6 +37913,7 @@ heartless
 heartlessly
 heartlessness
 heartlessnesses
+heartrending
 heartrendingly
 heartsick
 heartsickness
@@ -43233,6 +43248,7 @@ inters
 interscholastic
 interschool
 intersect
+intersecting
 intersection
 intersections
 intersegmental
@@ -43456,6 +43472,7 @@ introspection
 introspections
 introspectively
 introverts
+intruded
 intruders
 intrudes
 intruding
@@ -46016,6 +46033,7 @@ lackaday
 lacked
 lackered
 lackering
+lackeyed
 lacking
 lackluster
 lacklusters
@@ -46192,6 +46210,7 @@ lamby
 lame
 lamebrained
 lamebrains
+lamella
 lamellae
 lamellar
 lamellately
@@ -47812,6 +47831,7 @@ literalizes
 literalizing
 literalness
 literals
+literarily
 literariness
 literarinesses
 literately
@@ -49717,6 +49737,7 @@ marinade
 marinaded
 marinades
 marinading
+marinas
 marinating
 marination
 marinations
@@ -50559,6 +50580,7 @@ memorably
 memoranda
 memorandum
 memorial
+memorialise
 memorialised
 memorialises
 memorialising
@@ -52140,6 +52162,7 @@ mishandling
 mishanter
 mishanters
 mishearing
+mishears
 mishegaas
 mishits
 mishitting
@@ -61442,6 +61465,7 @@ peavy
 pebbling
 pebbly
 pecan
+pecans
 peccadillo
 peccadilloes
 peccadillos
@@ -64717,6 +64741,7 @@ pommee
 pommel
 pommeled
 pommelled
+pommelling
 pommels
 pommy
 pomo
@@ -64848,6 +64873,7 @@ popularization
 popularizations
 popularize
 popularized
+popularizers
 popularizes
 popularizing
 popularly
@@ -67696,6 +67722,7 @@ pugilists
 pugmark
 pugnacious
 pugnaciously
+pugnaciousness
 pugnacity
 pugrees
 puisne
@@ -67850,6 +67877,7 @@ punitiveness
 punji
 punk
 punka
+punkah
 punkas
 punkier
 punkinesses
@@ -80183,6 +80211,7 @@ sons
 sonship
 sonsie
 sonsier
+sonsiest
 sook
 sooks
 soonest
@@ -82500,6 +82529,7 @@ straighting
 straightjacket
 straightjackets
 straightly
+straightness
 strained
 strainer
 strainers
@@ -87542,6 +87572,7 @@ titanesses
 titania
 titanias
 titanic
+titaniferous
 titanism
 titanite
 titanium
@@ -88100,6 +88131,7 @@ touchstone
 touchtone
 touchtones
 touchy
+tough
 toughener
 toughens
 toughie
@@ -88199,6 +88231,7 @@ toxoids
 toxophilies
 toxophily
 toxoplasmic
+toxoplasmoses
 toxoplasmosis
 toy
 toyed
@@ -91362,6 +91395,7 @@ unguards
 unguenta
 unguents
 unguentum
+unguis
 ungula
 ungulae
 ungulate
@@ -95519,6 +95553,7 @@ whiners
 whines
 whingding
 whinger
+whingers
 whinges
 whinier
 whiniest
