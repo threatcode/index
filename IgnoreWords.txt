@@ -448,6 +448,7 @@ achievements
 achiever
 achieves
 achillea
+achilleas
 achiness
 achiote
 achiral
@@ -783,6 +784,7 @@ adieux
 adipoceres
 adipocyte
 adipose
+adiposes
 adiposis
 adiposity
 adipous
@@ -1778,6 +1780,7 @@ algid
 algidity
 algidnesses
 alginate
+algoid
 algolagnia
 algolagniac
 algolagniacs
@@ -2144,6 +2147,7 @@ althaea
 althea
 althorns
 although
+altimeter
 altimeters
 altimetries
 altimetry
@@ -8561,6 +8565,7 @@ bled
 bleed
 bleeding
 bleedings
+bleeds
 bleep
 bleeped
 bleepers
@@ -9221,6 +9226,7 @@ booed
 booger
 boogermen
 boogey
+boogeyed
 boogeying
 boogeyman
 boogied
@@ -12454,6 +12460,7 @@ cat
 catabolically
 catabolite
 catabolites
+catabolized
 catabolizes
 catabolizing
 catachresis
@@ -29093,6 +29100,7 @@ excretes
 excreting
 excretion
 excretory
+excruciated
 excruciating
 excruciation
 exculpate
@@ -30410,6 +30418,7 @@ fedayee
 federacies
 federacy
 federal
+federalese
 federalist
 federalized
 federalizing
@@ -35576,6 +35585,7 @@ gomphosis
 gonad
 gonadectomized
 gonadial
+gonadic
 gonadotropic
 gonadotropin
 gonadotropins
@@ -36987,6 +36997,7 @@ habitat
 habitation
 habitations
 habited
+habiting
 habitual
 habitualness
 habitualnesses
@@ -46710,6 +46721,7 @@ laundry
 laundryman
 laura
 lauras
+laureate
 laureated
 laureateship
 laureations
@@ -47565,6 +47577,7 @@ likableness
 like
 likeable
 likeliest
+likelihood
 likelihoods
 likely
 liken
@@ -51584,6 +51597,7 @@ militarising
 militarism
 militarist
 militaristic
+militarists
 militarizations
 militarize
 militarized
@@ -58509,6 +58523,7 @@ outgrins
 outgross
 outgrosses
 outgrossing
+outguess
 outguesses
 outguessing
 outguide
@@ -59084,6 +59099,7 @@ overbed
 overbejeweled
 overbet
 overbets
+overbetted
 overbetting
 overbidden
 overbilled
@@ -64140,6 +64156,7 @@ pleasurably
 pleasured
 pleasureless
 pleasures
+pleasuring
 pleaters
 pleather
 pleatless
@@ -65743,6 +65760,7 @@ precomputes
 preconceive
 preconceiving
 preconception
+preconceptions
 preconcerted
 preconcerts
 precondition
@@ -68210,6 +68228,7 @@ putters
 puttie
 puttier
 putts
+putty
 puttying
 puttylike
 puttyroot
@@ -69352,6 +69371,7 @@ ratanies
 ratans
 ratany
 rataplan
+rataplanning
 rataplans
 ratatat
 ratatats
@@ -69514,6 +69534,7 @@ razee
 razees
 razers
 razes
+razor
 razorback
 razorbill
 razorbills
@@ -71066,6 +71087,7 @@ regrettable
 regrettably
 regretted
 regretting
+regrind
 regrinds
 regroom
 regroomed
@@ -72148,6 +72170,7 @@ reputably
 reputational
 reputes
 reputing
+requalified
 requalify
 requalifying
 requesters
@@ -72429,6 +72452,7 @@ resit
 resite
 resited
 resiting
+resits
 resitting
 resittings
 resizes
@@ -76726,6 +76750,7 @@ semideserts
 semidiameter
 semidiameters
 semidivine
+semidome
 semidomed
 semidomes
 semidominant
@@ -78090,6 +78115,7 @@ shrimps
 shrine
 shrining
 shrink
+shrinkage
 shrinkages
 shrinking
 shrinks
@@ -81089,6 +81115,7 @@ spiritism
 spiritist
 spiritists
 spiritlessly
+spiritlessness
 spiritoso
 spirits
 spiritual
@@ -81410,6 +81437,7 @@ springers
 springes
 springier
 springinesses
+springing
 springings
 springlet
 springlike
@@ -83078,6 +83106,7 @@ styli
 styliform
 stylise
 stylises
+stylish
 stylising
 stylists
 stylite
@@ -84802,6 +84831,7 @@ swatches
 swathed
 swathers
 swathing
+swaths
 swatter
 swatting
 sway
@@ -85016,6 +85046,7 @@ sybaritisms
 syboes
 sycamines
 sycamore
+sycamores
 sycees
 syces
 sycomores
@@ -86887,6 +86918,7 @@ thence
 theobromines
 theocentric
 theocentrism
+theocratic
 theocratical
 theocrats
 theodolite
@@ -88040,6 +88072,7 @@ tootle
 tootled
 tootlers
 toots
+tootsy
 top
 topazes
 topazine
@@ -94351,6 +94384,7 @@ vittae
 vittate
 vittled
 vittles
+vittling
 vituline
 vituperate
 vituperated
@@ -97487,6 +97521,7 @@ zouks
 zounds
 zowie
 zuz
+zuzim
 zwitterion
 zwitterionic
 zygapophysis
