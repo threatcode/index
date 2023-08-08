@@ -14,7 +14,7 @@ IgnoreWords = []
 IgnoreLinks = []
 _Processed = []
 
-Formats = ["pdf", "manifest", "txt", "mkv", "mov", "avi", "docx", "pptx", "ogg", "msi", "appxbundle"]
+Formats = ["sql","txt"]
 
 _Key = {
     "WordList.txt": Words,
