@@ -1999,6 +1999,7 @@ allotment
 allotments
 allotrope
 allotropic
+allotropies
 allotropy
 allotter
 allotters
@@ -2116,6 +2117,7 @@ alsikes
 also
 altar
 altarpiece
+altazimuth
 alter
 alterabilities
 alterability
@@ -6941,6 +6943,7 @@ bedighting
 bedights
 bedimple
 bedimpled
+bedimpling
 bedims
 bedirtied
 bedizening
@@ -8403,6 +8406,7 @@ blacks
 blacksmithing
 blacksmithings
 blacksmiths
+blacktails
 blackthorn
 blacktop
 blacktopped
@@ -17775,6 +17779,7 @@ coralroot
 coralroots
 corals
 corantoes
+corban
 corbeil
 corbeille
 corbeilles
@@ -21643,6 +21648,7 @@ democratize
 democratized
 democratizer
 democratizers
+democratizes
 democrats
 demode
 demodulation
@@ -22693,6 +22699,7 @@ dialysate
 dialytic
 dialyzate
 dialyzates
+dialyzed
 dialyzers
 dialyzes
 dialyzing
@@ -24941,6 +24948,7 @@ downplays
 downpour
 downpours
 downrightness
+downrightnesses
 downriver
 downs
 downscale
@@ -26061,6 +26069,7 @@ economizer
 economizers
 economizes
 economizing
+economy
 ecophysiology
 ecospecies
 ecosphere
@@ -26976,6 +26985,7 @@ emulsifications
 emulsifiers
 emulsifying
 emulsion
+emulsoids
 emunctories
 emunctory
 emyd
@@ -30248,6 +30258,7 @@ fattiest
 fatuousness
 fatuousnesses
 fatwa
+fatwas
 fatwood
 faubourgs
 faucals
@@ -30705,6 +30716,7 @@ feudalization
 feudalizations
 feudalize
 feudalized
+feudalizes
 feudally
 feudatory
 feuded
@@ -33904,6 +33916,7 @@ gamodeme
 gamodemes
 gamp
 gamps
+gams
 gamut
 gan
 ganache
@@ -37469,6 +37482,7 @@ harbour
 harbouring
 hard
 hardasses
+hardback
 hardbacks
 hardboard
 hardboot
@@ -42194,6 +42208,7 @@ infiltrate
 infiltrations
 infiltrative
 infiltrator
+infinite
 infinitely
 infiniteness
 infinitenesses
@@ -42814,6 +42829,7 @@ insulations
 insulator
 insulators
 insulin
+insulted
 insulter
 insulting
 insultingly
@@ -46876,6 +46892,7 @@ lectern
 lectin
 lectins
 lection
+lectionary
 lections
 lectors
 lectotype
@@ -49643,6 +49660,7 @@ manufactures
 manufacturings
 manumission
 manumits
+manumitted
 manure
 manured
 manurer
@@ -50947,6 +50965,7 @@ metallist
 metallists
 metallizations
 metallize
+metallized
 metallizes
 metallizing
 metallographer
@@ -51059,6 +51078,7 @@ methodic
 methodical
 methodically
 methodised
+methodises
 methodising
 methodism
 methodist
@@ -58819,6 +58839,7 @@ outstroke
 outstrove
 outstudied
 outstudy
+outstudying
 outstunt
 outstunted
 outstunting
@@ -64590,6 +64611,7 @@ polyanthus
 polyanthuses
 polybrid
 polybutadiene
+polybutadienes
 polycarbonates
 polycarpies
 polycarpy
@@ -66088,6 +66110,7 @@ preponderancy
 preponderantly
 preponderated
 preponderately
+preponderating
 preponderations
 preportion
 preportioned
@@ -66557,6 +66580,7 @@ primitivists
 primitivities
 primitivity
 primly
+primmer
 primmest
 primness
 primnesses
@@ -70711,6 +70735,7 @@ refire
 refired
 refit
 refits
+refitted
 refitting
 refixed
 refixing
@@ -71547,6 +71572,7 @@ remitters
 remittor
 remix
 remixture
+remnantal
 remobilizations
 remobilize
 remobilizes
@@ -72286,6 +72312,7 @@ reshuffling
 resid
 resided
 residence
+residences
 residency
 resident
 residential
@@ -72884,6 +72911,7 @@ reutter
 reuttered
 reutters
 revaccinate
+revaccinates
 revaccinating
 revaccination
 revalidated
@@ -75523,6 +75551,7 @@ scat
 scatback
 scathe
 scathed
+scathing
 scatological
 scatology
 scats
@@ -76264,6 +76293,7 @@ seawares
 seawater
 seawaters
 seaweed
+seaworthier
 seaworthinesses
 seaworthy
 sebaceous
@@ -83172,6 +83202,7 @@ subduce
 subduced
 subduces
 subduct
+subducted
 subduction
 subducts
 subdue
@@ -83866,6 +83897,7 @@ sulks
 sullage
 sullen
 sullener
+sulliable
 sullies
 sully
 sulpha
@@ -86414,6 +86446,7 @@ tephra
 tephrite
 tephrites
 tepidity
+tepidly
 tepoy
 tepoys
 tequila
@@ -87882,6 +87915,7 @@ tonicities
 tonicity
 tonics
 tonier
+tonight
 toning
 tonishly
 tonnage
@@ -95662,6 +95696,7 @@ whitecombs
 whiteface
 whitefishes
 whiteflies
+whitehead
 whiteheads
 whiten
 whiteners
