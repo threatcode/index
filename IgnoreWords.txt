@@ -1767,6 +1767,7 @@ alfas
 alfilaria
 alfilarias
 alforjas
+alfresco
 algae
 algaecide
 algal
@@ -3355,6 +3356,7 @@ antihistaminics
 antihuman
 antihumanistic
 antihunter
+antihunting
 antihysteric
 antijam
 antijamming
@@ -5425,6 +5427,7 @@ autonomies
 autonomist
 autonomists
 autonomous
+autonomously
 autopen
 autophagies
 autophagy
@@ -7763,6 +7766,7 @@ bibliothecae
 bibliothecal
 bibliotherapy
 bibliotic
+bibliotics
 bibliotist
 biblist
 biblists
@@ -12206,6 +12210,7 @@ carnelians
 carnies
 carnified
 carnifies
+carnify
 carnitines
 carnivals
 carnivories
@@ -17838,6 +17843,7 @@ cordilleran
 cordilleras
 cordites
 cordlesses
+cordlike
 cordobas
 cordoned
 cordons
@@ -22044,6 +22050,7 @@ deprive
 deprived
 depriver
 deprivers
+deprives
 depriving
 deprogramed
 deprograming
@@ -22075,6 +22082,7 @@ deraigning
 derailing
 derailleur
 derailleurs
+derangements
 derangers
 deranging
 derat
@@ -22353,6 +22361,7 @@ desugaring
 desugars
 desulfuring
 desulfurized
+desulfurizes
 desulfurizing
 desulfurs
 desultoriness
@@ -22550,6 +22559,7 @@ deviltry
 devilwoods
 deviousnesses
 devisable
+devise
 devisee
 devisers
 devises
@@ -22884,6 +22894,7 @@ dickies
 dickiest
 dicking
 diclinism
+diclinisms
 diclinous
 dicot
 dicotyl
@@ -24193,6 +24204,7 @@ dissyllables
 dissymmetries
 distaff
 distaffs
+distain
 distained
 distains
 distal
@@ -26630,6 +26642,7 @@ eloigner
 eloigning
 eloiners
 eloinment
+eloinments
 eloins
 elongates
 elongation
@@ -33711,6 +33724,7 @@ gadroonings
 gadroons
 gadwall
 gadwalls
+gadzookeries
 gadzookery
 gadzooks
 gae
@@ -34586,6 +34600,7 @@ geometries
 geometrise
 geometrised
 geometrises
+geometrizations
 geomorphologies
 geophagia
 geophone
@@ -35611,6 +35626,7 @@ gonif
 goniff
 gonium
 gonococcal
+gonocyte
 gonocytes
 gonofs
 gonophore
@@ -38890,6 +38906,7 @@ hirudin
 his
 hisn
 hispanidads
+hispid
 hiss
 hisses
 hissier
@@ -40286,6 +40303,7 @@ hyperexcited
 hyperexcretion
 hyperexcretions
 hyperextend
+hyperextending
 hyperextensions
 hyperfine
 hyperfunction
@@ -49348,6 +49366,7 @@ malarkeys
 malarky
 malaromas
 malars
+malathions
 malcontentedly
 maldistribution
 male
@@ -52092,6 +52111,7 @@ miscomputations
 miscompute
 miscomputes
 misconceive
+misconceiver
 misconceivers
 misconceives
 misconceiving
@@ -54309,6 +54329,7 @@ myoglobin
 myographs
 myoinositol
 myoinositols
+myologic
 myologies
 myologist
 myologists
@@ -55622,6 +55643,7 @@ nonages
 nonaggressions
 nonagons
 nonagricultural
+nonalcoholic
 nonalignment
 nonambiguous
 nonanimal
@@ -60092,6 +60114,7 @@ paced
 pacemaking
 pacemakings
 pachadom
+pachalic
 pachalics
 pachas
 pachinko
@@ -65640,6 +65663,7 @@ prebendary
 prebiblical
 prebidden
 prebids
+prebilling
 prebinds
 prebiological
 prebirth
@@ -68918,6 +68942,7 @@ rackingly
 rackle
 rackwork
 rackworks
+raclette
 racon
 racons
 raconteur
@@ -71226,6 +71251,7 @@ reinduce
 reinduced
 reinduces
 reinducing
+reinducted
 reinducts
 reindustrialize
 reined
@@ -72455,6 +72481,7 @@ resiting
 resits
 resitting
 resittings
+resized
 resizes
 resizing
 resketch
@@ -83094,6 +83121,7 @@ sturts
 stutters
 styed
 styes
+stygian
 stylar
 stylate
 stylebook
@@ -84794,6 +84822,7 @@ swankily
 swankiness
 swankinesses
 swanking
+swanky
 swanned
 swannery
 swanpan
@@ -85152,6 +85181,7 @@ symphyseal
 symphyses
 symphysis
 sympodial
+sympodium
 symposiac
 symposiacs
 symposiarch
@@ -86191,6 +86221,7 @@ tegmentum
 tegminal
 tegua
 teguas
+tegument
 teguments
 tegumina
 teiglach
@@ -86908,6 +86939,7 @@ theistically
 theists
 thelitis
 thelitises
+thematically
 thematics
 theme
 themed
@@ -90566,6 +90598,7 @@ unanesthetized
 unanimity
 unanimous
 unanimously
+unannounced
 unannoyed
 unanswerability
 unanswerable
@@ -90790,6 +90823,7 @@ unchanging
 unchangingness
 unchanneled
 unchaperoned
+uncharge
 uncharged
 uncharges
 uncharging
@@ -95012,6 +95046,7 @@ warmongerings
 warmouth
 warms
 warmth
+warmup
 warmups
 warn
 warners
