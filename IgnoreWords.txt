@@ -2135,6 +2135,7 @@ altimetry
 altitude
 altitudinal
 altocumuli
+altocumulus
 altogether
 altogethers
 altoist
@@ -10867,6 +10868,7 @@ butchering
 butchers
 butchery
 butches
+butchness
 bute
 butene
 butenes
@@ -15659,6 +15661,7 @@ coinfected
 coinferred
 coinfers
 coinhere
+coinhered
 coinheres
 coinhering
 coining
@@ -19559,6 +19562,7 @@ cupelers
 cupeling
 cupellation
 cupelled
+cupeller
 cupferron
 cupfuls
 cupid
@@ -20565,6 +20569,7 @@ deaminases
 deaminated
 deaminating
 deamination
+deaminations
 deaminize
 deaminized
 deaminizes
@@ -22956,6 +22961,7 @@ dihedral
 dihedrals
 dihedron
 dihedrons
+dihybrids
 dikdiks
 diker
 dikey
@@ -23640,6 +23646,7 @@ disgrace
 disgraced
 disgraceful
 disgracefulness
+disgracers
 disgracing
 disgruntle
 disgruntlement
@@ -25680,6 +25687,7 @@ dysgenic
 dysgenics
 dyskinesia
 dyslectic
+dyslectics
 dyslexias
 dyslexic
 dyslexics
@@ -27449,6 +27457,7 @@ ensign
 ensigncies
 ensigncy
 ensigns
+ensilages
 ensiled
 ensiles
 ensiling
@@ -28607,6 +28616,7 @@ euphuisms
 euphuistic
 euphuistically
 euphuists
+euplastics
 euploids
 euploidy
 eupneas
@@ -29723,6 +29733,7 @@ factual
 factualism
 factualisms
 factualist
+factualists
 factually
 factualnesses
 facture
@@ -32948,6 +32959,7 @@ frightfully
 frightfulness
 frighting
 frights
+frigid
 frigidly
 frigidness
 frigidnesses
@@ -33476,6 +33488,7 @@ futurelessness
 futures
 futurism
 futurisms
+futurist
 futuristically
 futurities
 futurity
@@ -43166,6 +43179,7 @@ intertrial
 intertribal
 intertroop
 intertwine
+intertwinement
 intertwinements
 intertwines
 intertwining
@@ -47545,6 +47559,7 @@ linoleates
 linoleum
 linos
 linotype
+linotypes
 linotyping
 lins
 linsangs
@@ -52294,6 +52309,7 @@ mistiness
 mistinesses
 misting
 mistitle
+mistitled
 mistitles
 mistletoes
 mistook
@@ -53209,6 +53225,7 @@ motes
 motet
 motets
 mothball
+mothballs
 motherboard
 mothered
 motherfuckers
@@ -53896,6 +53913,7 @@ mustee
 mustees
 mustelid
 mustelids
+musteline
 muster
 mustering
 musters
@@ -57295,6 +57313,7 @@ oogamete
 oogamies
 oogamous
 oogenies
+oogeny
 oogonia
 oogonium
 ooh
@@ -60113,6 +60132,7 @@ palmations
 palmer
 palmers
 palmerworm
+palmerworms
 palmette
 palmettes
 palmetto
@@ -61959,6 +61979,7 @@ periphyton
 periphytons
 periplasm
 periplasms
+periplasts
 peripter
 periques
 peris
@@ -66969,6 +66990,7 @@ proscribes
 proscribing
 proscription
 proscriptions
+proscriptive
 prose
 prosect
 prosected
@@ -68600,6 +68622,7 @@ rackworks
 racon
 racons
 raconteur
+racoon
 racoons
 racquet
 racquetballs
@@ -70035,6 +70058,7 @@ redan
 redans
 redargued
 redarguing
+redate
 redated
 redates
 redating
@@ -76107,6 +76131,7 @@ secularize
 secularizer
 secularizing
 securances
+secured
 securely
 securement
 securements
@@ -78921,6 +78946,7 @@ slipsheeting
 slipsheets
 slipslop
 slipslops
+slipsole
 slipstreamed
 slipstreaming
 slipways
@@ -79479,6 +79505,7 @@ snout
 snouted
 snoutiest
 snouting
+snouts
 snouty
 snow
 snowbank
@@ -80058,6 +80085,7 @@ sords
 sorehead
 soreheaded
 soreheads
+sorel
 sorels
 sorely
 sorenesses
@@ -83653,6 +83681,7 @@ summerly
 summersault
 summersaulted
 summersaulting
+summerset
 summersets
 summersetting
 summertime
@@ -85220,6 +85249,7 @@ tallitim
 tallitoth
 tallits
 tallness
+tallnesses
 tallol
 tallols
 tallowed
@@ -87979,6 +88009,7 @@ toxophilies
 toxophily
 toxoplasmic
 toxoplasmosis
+toy
 toyed
 toyless
 toylike
@@ -91858,6 +91889,7 @@ unsettlements
 unsettlingly
 unsew
 unsewed
+unsewn
 unsews
 unsexes
 unsexing
@@ -95031,6 +95063,7 @@ weirdo
 weirds
 weisenheimer
 weisenheimers
+weka
 wekas
 welch
 welched
@@ -95198,6 +95231,7 @@ wheezer
 wheezier
 wheezinesses
 wheezy
+whelk
 whelkiest
 whelky
 whelm
@@ -97049,6 +97083,7 @@ zoospore
 zoospores
 zoosporic
 zoosterol
+zootiest
 zootomic
 zootomist
 zootomists
