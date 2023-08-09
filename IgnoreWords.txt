@@ -1340,6 +1340,7 @@ agency
 agendaless
 agendas
 agendums
+agene
 agenesis
 agenetic
 agenize
@@ -2707,6 +2708,7 @@ analytically
 analyzable
 analyzation
 analyzations
+analyzer
 analyzes
 analyzing
 anamneses
@@ -5062,6 +5064,7 @@ athrocytes
 athwartship
 athwartships
 atilt
+atingle
 atlantes
 atlatl
 atmas
@@ -9191,6 +9194,7 @@ bolides
 bolivar
 bolivars
 bolivia
+boliviano
 bolivianos
 bollard
 bollards
@@ -10757,6 +10761,7 @@ bump
 bumper
 bumpering
 bumpers
+bumpily
 bumpiness
 bumpinesses
 bumpkinly
@@ -12377,6 +12382,7 @@ carotenes
 carotenoid
 carotid
 carotidal
+carotinoids
 carotins
 carousal
 carousals
@@ -14361,6 +14367,7 @@ chromatography
 chromatolysis
 chromatophore
 chrome
+chromide
 chromides
 chromiest
 chrominance
@@ -20093,12 +20100,14 @@ cutaway
 cutaways
 cutback
 cutbank
+cutbanks
 cutchery
 cutches
 cutdowns
 cutely
 cuteness
 cutenesses
+cuter
 cutes
 cutesie
 cutest
@@ -22308,6 +22317,7 @@ derailleur
 derailleurs
 derangements
 derangers
+deranges
 deranging
 derat
 derate
@@ -22513,6 +22523,7 @@ despaired
 despairer
 despairers
 despatch
+despatching
 desperadoes
 desperados
 desperate
@@ -24653,6 +24664,7 @@ divisive
 divisiveness
 divisors
 divorcee
+divorcees
 divorcement
 divorcements
 divorcer
@@ -26228,6 +26240,7 @@ easterner
 easterners
 easters
 easting
+easts
 eastward
 easygoing
 easygoingness
@@ -36672,6 +36685,7 @@ grindstones
 gringa
 gringos
 grinner
+grinners
 grins
 griot
 griots
@@ -39085,6 +39099,7 @@ hiccups
 hick
 hickey
 hickeys
+hickie
 hickies
 hickories
 hid
@@ -46953,6 +46968,7 @@ larcenist
 larcenous
 larceny
 larch
+larchen
 larder
 lardiest
 lardlike
@@ -48624,6 +48640,7 @@ lockdown
 lockdowns
 locked
 locker
+locket
 lockets
 lockjaws
 lockkeepers
@@ -54732,6 +54749,7 @@ muting
 mutinied
 mutinies
 mutining
+mutinously
 mutinousnesses
 mutiny
 mutinying
@@ -56604,6 +56622,7 @@ nonmajor
 nonmalignant
 nonmalleable
 nonman
+nonmanagement
 nonmanual
 nonmarital
 nonmarket
@@ -62557,6 +62576,7 @@ pentaploids
 pentaploidy
 pentarchies
 pentarchs
+pentarchy
 pentathlete
 pentathletes
 pentathlon
@@ -67171,6 +67191,7 @@ preventer
 preventers
 preventible
 preventing
+preventions
 preventive
 preventiveness
 preventives
@@ -68956,6 +68977,7 @@ pyrethrins
 pyrethroid
 pyrethroids
 pyrethrums
+pyrex
 pyrexes
 pyrexia
 pyrexial
@@ -70788,6 +70810,7 @@ recognizing
 recoilless
 recoined
 recollections
+recolonization
 recolonizations
 recolonizes
 recolonizing
@@ -74097,6 +74120,7 @@ ribbed
 ribbers
 ribbing
 ribboned
+ribbonfish
 ribbonfishes
 ribboning
 ribbony
@@ -74306,6 +74330,7 @@ rimy
 rin
 rind
 rindless
+rinds
 ringbarks
 ringbolt
 ringbolts
@@ -79914,6 +79939,7 @@ sledding
 sleddings
 sledged
 sledgehammer
+sledgehammering
 sledgehammers
 sleek
 sleeken
@@ -79981,6 +80007,7 @@ slid
 slidable
 slides
 slideway
+slideways
 slier
 slieve
 slieves
@@ -81540,6 +81567,7 @@ speakerphone
 speakers
 speaking
 speakings
+speaks
 spean
 speaned
 speaning
@@ -81679,6 +81707,7 @@ spelter
 spelunk
 spelunked
 spelunking
+spelunkings
 spence
 spencer
 spences
@@ -84761,6 +84790,7 @@ sulfinpyrazones
 sulfinyl
 sulfite
 sulfitic
+sulfo
 sulfonamide
 sulfonamides
 sulfonate
@@ -85742,6 +85772,7 @@ swillers
 swilling
 swills
 swim
+swimmer
 swimmier
 swimmily
 swimmy
@@ -88532,6 +88563,7 @@ tints
 tintypes
 tinware
 tinwares
+tinwork
 tinworks
 tip
 tipcart
@@ -91176,6 +91208,7 @@ uglier
 uglies
 uglification
 uglifications
+uglified
 uglifier
 uglifiers
 uglifies
@@ -91732,6 +91765,7 @@ unclenches
 uncliched
 unclimbable
 unclinched
+unclinches
 unclinching
 unclip
 unclipped
@@ -94029,6 +94063,7 @@ vacate
 vacated
 vacates
 vacation
+vacationed
 vacationing
 vacationlands
 vaccinas
