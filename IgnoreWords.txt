@@ -294,6 +294,7 @@ accolade
 accoladed
 accolading
 accommodate
+accommodates
 accommodating
 accommodatingly
 accommodation
@@ -1560,6 +1561,7 @@ airbus
 airbuses
 airbusses
 airchecks
+aircoach
 airdate
 airdates
 airdrop
@@ -4898,6 +4900,7 @@ assures
 assuror
 assurors
 asswaged
+asswaging
 astarboard
 astasia
 astasias
@@ -5576,6 +5579,7 @@ aviatrix
 aviatrixes
 avicular
 aviculture
+avicultures
 aviculturist
 avid
 avifauna
@@ -10280,6 +10284,7 @@ broiler
 broilers
 broiling
 broils
+brokages
 broke
 brokenhearted
 brokenly
@@ -11938,6 +11943,7 @@ canzones
 canzonet
 canzonets
 caoutchoucs
+cap
 capabilities
 capability
 capable
@@ -13726,6 +13732,7 @@ cheeps
 cheer
 cheered
 cheerers
+cheerfuller
 cheerfully
 cheerfulness
 cheerier
@@ -27405,6 +27412,7 @@ encroachments
 encrustation
 encrusted
 encrusting
+encrypt
 encrypting
 encryption
 encryptions
@@ -28104,6 +28112,7 @@ eolopiles
 eon
 eonisms
 eosin
+eosine
 eosinic
 eosinophilia
 eosinophilias
@@ -28800,6 +28809,7 @@ eternise
 eternised
 eternities
 eternity
+eternization
 eternizations
 eternized
 eternizes
@@ -29852,6 +29862,7 @@ exteriorising
 exteriorities
 exteriority
 exteriorized
+exteriorizes
 exterminate
 exterminates
 exterminating
@@ -33277,6 +33288,7 @@ freelance
 freelancer
 freelancers
 freelances
+freeloaded
 freeloader
 freeloads
 freely
@@ -35644,6 +35656,7 @@ gluconeogenesis
 glucose
 glucosic
 glucosidase
+glucosidases
 glucoside
 glucuronide
 gluepot
@@ -41262,6 +41275,7 @@ imblaze
 imblazed
 imblazing
 imbodied
+imbodies
 imbody
 imbodying
 imbolden
@@ -41629,6 +41643,7 @@ implementor
 implementors
 impletion
 impletions
+implicate
 implicated
 implicates
 implicating
@@ -42451,6 +42466,7 @@ indurations
 indurative
 indusia
 indusial
+indusiate
 indusium
 industrial
 industrialism
@@ -53127,6 +53143,7 @@ mizen
 mizenmast
 mizuna
 mizunas
+mizzen
 mizzenmast
 mizzenmasts
 mizzle
@@ -58027,6 +58044,7 @@ onanists
 onboard
 once
 oncet
+onchocerciases
 oncidium
 oncidiums
 oncogene
@@ -58623,6 +58641,7 @@ oscitances
 oscitancies
 oscitant
 osculant
+oscular
 osculate
 oscule
 osculum
@@ -62611,6 +62630,7 @@ percale
 percales
 percaline
 percalines
+perceivable
 perceiver
 perceivers
 perceiving
@@ -64745,6 +64765,7 @@ plebe
 plebeianism
 plebeianisms
 plebeianly
+plebeians
 plebiscites
 plebs
 plecopterans
@@ -65589,6 +65610,7 @@ populism
 populisms
 populist
 populistic
+populousness
 populousnesses
 porcelain
 porcelainize
@@ -65678,6 +65700,7 @@ portrays
 portress
 portside
 portulaca
+portulacas
 posada
 posadas
 pose
@@ -69626,6 +69649,7 @@ radiolysis
 radiolytic
 radiomen
 radiometer
+radiometrically
 radiometries
 radiometry
 radiomimetic
@@ -70392,6 +70416,7 @@ reassembles
 reassemblies
 reassembling
 reassembly
+reassert
 reasserted
 reassertion
 reassertions
@@ -71745,6 +71770,7 @@ regulates
 regulating
 regulations
 regulator
+regulatory
 reguline
 regulus
 regurgitate
@@ -75209,6 +75235,7 @@ ruthful
 ruthless
 ruthlessness
 ruths
+rutilant
 rutile
 rutiles
 rutin
@@ -82056,6 +82083,7 @@ sporogenous
 sporophores
 sporophyl
 sporophyll
+sporophytes
 sporopollenins
 sporotrichoses
 sporozoa
@@ -90368,6 +90396,7 @@ trowths
 troy
 troys
 truancies
+truancy
 truanting
 truantly
 truantries
@@ -91068,6 +91097,7 @@ tyrannosaurs
 tyrannously
 tyranny
 tyrants
+tyre
 tyres
 tyro
 tyrocidin
@@ -91218,6 +91248,7 @@ ultrarealist
 ultrarealistic
 ultrared
 ultrareds
+ultrareliable
 ultrarich
 ultrarightist
 ultraromantic
@@ -93079,6 +93110,7 @@ unscrews
 unscripted
 unscriptural
 unscrupulously
+unseal
 unsealed
 unsealing
 unseam
@@ -95319,6 +95351,7 @@ vogued
 vogueings
 voguer
 voguers
+voguing
 voguishly
 voice
 voiceful
@@ -96591,6 +96624,7 @@ whinny
 whinnying
 whinstone
 whinstones
+whiny
 whip
 whipcord
 whipcords
@@ -97900,6 +97934,7 @@ yearlong
 yearn
 yearner
 yearners
+yearning
 yearningly
 yeasayer
 yeasayers
