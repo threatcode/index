@@ -738,6 +738,7 @@ adducer
 adduces
 adducible
 adducted
+adductions
 adductive
 adducts
 adeem
@@ -7947,6 +7948,7 @@ bilging
 bilharziases
 biliary
 bilinear
+bilingualism
 bilingually
 biliousness
 biliverdin
@@ -10805,6 +10807,7 @@ burgrave
 burgundies
 burgundy
 burial
+burier
 buriers
 burin
 burka
@@ -14604,6 +14607,7 @@ cistuses
 citadel
 citadels
 citation
+citations
 citatory
 cite
 cited
@@ -15303,6 +15307,7 @@ coappearing
 coappears
 coapt
 coaptation
+coaptations
 coarctation
 coarctations
 coarse
@@ -21384,6 +21389,7 @@ defraggers
 defraud
 defrauder
 defrauds
+defrayable
 defrayal
 defrayals
 defrayed
@@ -23752,6 +23758,7 @@ diseasing
 diseconomies
 diseconomy
 disembark
+disembarkation
 disembarkations
 disembarks
 disembarrass
@@ -23905,6 +23912,7 @@ disinfesting
 disinflationary
 disinflations
 disinform
+disinformed
 disinforming
 disinforms
 disingenuous
@@ -25604,6 +25612,7 @@ ducting
 ductwork
 duddy
 dude
+dudeens
 dudgeons
 dudishly
 due
@@ -28318,6 +28327,7 @@ ergastoplasm
 ergastoplasms
 ergate
 ergates
+ergative
 ergatives
 ergo
 ergodicities
@@ -29717,6 +29727,7 @@ extirpation
 extirpators
 extol
 extollers
+extolling
 extolls
 extolment
 extolments
@@ -31615,6 +31626,7 @@ flasks
 flatbeds
 flatboat
 flatboats
+flatcap
 flatcaps
 flatcar
 flatcars
@@ -31727,6 +31739,7 @@ fledgy
 flee
 fleeced
 fleecer
+fleeces
 fleeching
 fleecing
 fleecy
@@ -31954,6 +31967,7 @@ flosses
 flossie
 flossies
 flossy
+flota
 flotages
 flotas
 flotation
@@ -38345,6 +38359,7 @@ hellions
 hellish
 hellishly
 hellishness
+hellishnesses
 hellkite
 helloed
 helloes
@@ -39500,6 +39515,7 @@ honkers
 honkeys
 honkies
 honky
+honor
 honorability
 honorableness
 honorablenesses
@@ -44240,6 +44256,7 @@ isomorphic
 isomorphous
 isomorphs
 isoniazid
+isoniazids
 isooctane
 isooctanes
 isopachs
@@ -46448,6 +46465,7 @@ lambs
 lambskins
 lamby
 lame
+lamebrain
 lamebrained
 lamebrains
 lamella
@@ -46633,6 +46651,7 @@ lapdogs
 lapel
 lapeled
 lapful
+lapfuls
 lapidaries
 lapides
 lapidifies
@@ -49331,6 +49350,7 @@ magnanimous
 magnanimously
 magnesias
 magnesite
+magnesiums
 magnet
 magnetically
 magnetics
@@ -51675,6 +51695,7 @@ midsole
 midspace
 midsummer
 midsummers
+midterms
 midtown
 midtowns
 midwatch
@@ -52485,6 +52506,7 @@ misleadingly
 misleads
 misleared
 mislearned
+mislearns
 mislearnt
 mislight
 mislighted
@@ -55027,6 +55049,7 @@ needleworker
 needling
 needy
 neem
+neep
 neg
 negater
 negates
@@ -56561,6 +56584,7 @@ nonwar
 nonwhite
 nonwool
 nonword
+nonwords
 nonwork
 nonworking
 nonwoven
@@ -61611,6 +61635,7 @@ patronizing
 patronly
 patrons
 patronymic
+patronymics
 patroons
 pats
 patsies
@@ -67656,6 +67681,7 @@ protesters
 protests
 prothalamion
 prothalli
+prothallium
 prothallus
 prothalluses
 prothesis
@@ -67678,6 +67704,7 @@ protohistories
 protomartyr
 proton
 protonate
+protonated
 protonations
 protonema
 protonemata
@@ -67769,6 +67796,7 @@ provitamin
 provocateur
 provocation
 provocative
+provoke
 provoker
 provokers
 provokes
@@ -68231,6 +68259,7 @@ punishers
 punishing
 punishments
 punition
+punitive
 punitiveness
 punji
 punk
@@ -68280,6 +68309,7 @@ pupping
 puppy
 puppyhoods
 puppylike
+pups
 pur
 purana
 puranas
@@ -80032,6 +80062,7 @@ sneller
 snelling
 snells
 snibbing
+snickered
 snickerer
 snickerers
 snickering
@@ -83356,6 +83387,7 @@ stun
 stunk
 stunned
 stunner
+stunners
 stuns
 stunsails
 stunt
@@ -87475,6 +87507,7 @@ thoracal
 thoracically
 thoracotomies
 thoracotomy
+thorax
 thoria
 thoric
 thorites
@@ -89593,6 +89626,7 @@ triol
 triolets
 triols
 trios
+trioses
 trioxid
 trioxids
 trip
@@ -95469,6 +95503,7 @@ watchable
 watchables
 watchband
 watchcase
+watchcases
 watchdogged
 watchers
 watches
