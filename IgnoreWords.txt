@@ -930,6 +930,7 @@ adrenergic
 adrenochrome
 adroitest
 adroitly
+adroitness
 adroitnesses
 adscript
 adscripts
@@ -946,6 +947,7 @@ adulator
 adulterant
 adulterants
 adulterated
+adulterates
 adulterations
 adulterators
 adulterer
@@ -3236,6 +3238,7 @@ antiaircraft
 antialcohol
 antialcoholism
 antialien
+antianemia
 antianxiety
 antiaphrodisiac
 antiar
@@ -3420,6 +3423,7 @@ antimere
 antimeres
 antimeric
 antimetabolic
+antimetabolite
 antimetabolites
 antimilitarism
 antimilitary
@@ -4073,6 +4077,7 @@ aquaculturists
 aquae
 aquafarm
 aquafarming
+aqualungs
 aquanauts
 aquaplanes
 aquaplaning
@@ -4782,6 +4787,7 @@ assentive
 assentor
 assentors
 assents
+assert
 asserted
 asserter
 asserting
@@ -4857,6 +4863,7 @@ assortatively
 assorted
 assorter
 assortment
+assortments
 assorts
 assuage
 assuagement
@@ -5137,6 +5144,7 @@ attendant
 attended
 attendee
 attendees
+attender
 attending
 attends
 attent
@@ -10399,6 +10407,7 @@ browsed
 browsers
 browsing
 brr
+brrr
 brucellas
 brucelloses
 brucine
@@ -11945,6 +11954,7 @@ cape
 capelan
 capelin
 capelins
+caper
 capercaillies
 capercailzie
 capercailzies
@@ -19146,6 +19156,7 @@ crevasse
 crevassed
 crevice
 creviced
+crew
 crewcuts
 crewels
 crewing
@@ -33919,6 +33930,7 @@ fustics
 fustier
 fustiest
 fustigate
+fustigated
 fustigating
 fustigations
 fustinesses
@@ -38239,6 +38251,7 @@ headquartering
 headrest
 headrests
 headrooms
+headsail
 headsails
 headset
 headsets
@@ -39260,6 +39273,7 @@ historiography
 history
 histrionics
 hitcher
+hitchers
 hitches
 hitchhiker
 hitchhiking
@@ -43439,6 +43453,7 @@ interferential
 interferer
 interfering
 interferometry
+interferon
 interferons
 interfertility
 interfiber
@@ -46912,6 +46927,7 @@ larkers
 larkier
 larkiest
 larkinesses
+larks
 larksome
 larkspur
 larkspurs
@@ -48485,6 +48501,7 @@ lobber
 lobbers
 lobbied
 lobby
+lobbygows
 lobbyism
 lobbyists
 lobe
@@ -49880,6 +49897,7 @@ mammographies
 mammography
 mammon
 mammonist
+mammonists
 mammons
 mammoths
 mamzer
@@ -51051,6 +51069,7 @@ meloid
 meloids
 melon
 melongene
+melongenes
 melons
 melphalans
 melt
@@ -51675,6 +51694,7 @@ micrified
 micrify
 microampere
 microamperes
+microanalyses
 microanalysts
 microanalytic
 microanatomies
@@ -52504,6 +52524,7 @@ miscitations
 miscited
 misclaimed
 misclaiming
+misclass
 misclasses
 misclassified
 misclassifies
@@ -61436,6 +61457,7 @@ parenthesizes
 parenthesizing
 parenthetically
 parenthoods
+parenting
 parentings
 pareo
 parergon
@@ -70303,6 +70325,7 @@ reapproved
 reaps
 rear
 rearers
+rearguard
 rearguments
 rearm
 rearmament
@@ -80950,6 +80973,7 @@ somewhats
 somewhere
 somewheres
 somewhither
+somewise
 somital
 sommeliers
 somnambulates
@@ -81606,6 +81630,7 @@ sperrylites
 spessartines
 spessartite
 spessartites
+spewed
 spewer
 spewers
 spewing
@@ -83716,6 +83741,7 @@ studworks
 study
 studying
 stuff
+stuffed
 stuffier
 stuffiness
 stuffinesses
@@ -85322,6 +85348,7 @@ surnamers
 surnames
 surpasser
 surpassers
+surpasses
 surpassing
 surpassingly
 surpliced
@@ -89085,6 +89112,7 @@ towhead
 towheaded
 towie
 town
+townee
 townees
 townfolk
 townhome
@@ -90610,6 +90638,7 @@ tuque
 tuques
 turaco
 turacos
+turacou
 turacous
 turban
 turbaned
@@ -91165,6 +91194,7 @@ ultras
 ultrasecret
 ultrasharp
 ultrashort
+ultrasimple
 ultraslick
 ultrasmall
 ultrasmart
@@ -92819,6 +92849,7 @@ unpretending
 unpretentious
 unpretty
 unprincipled
+unprintable
 unprivileged
 unprized
 unproblematic
@@ -93633,6 +93664,7 @@ upstir
 upstirred
 upstirs
 upstood
+upstream
 upstroke
 upsurged
 upsurges
@@ -95890,6 +95922,7 @@ wastebasket
 wastefulness
 wastefulnesses
 wasteland
+wastelot
 wastelots
 wastepaper
 wastepapers
@@ -97790,6 +97823,7 @@ yashmak
 yasmak
 yasmaks
 yatagan
+yatter
 yattering
 yatters
 yaup
@@ -97798,6 +97832,7 @@ yauper
 yaupers
 yaupons
 yaups
+yautias
 yaw
 yawed
 yawing
