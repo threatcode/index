@@ -44,6 +44,7 @@ abroad
 abrogable
 abrogate
 abrogated
+abrogating
 abrogations
 abrogators
 abrosia
@@ -1703,6 +1704,7 @@ albuminurias
 albumoses
 albums
 alburnous
+alburnum
 alburnums
 alcades
 alcahests
@@ -5589,6 +5591,7 @@ awaken
 awakeners
 awakenings
 awakes
+awaking
 awardable
 awarded
 awardees
@@ -8757,6 +8760,7 @@ blossoms
 blot
 blotches
 blotchier
+blotchiest
 blotchily
 blotching
 blotless
@@ -14901,6 +14905,7 @@ cleave
 cleavers
 cleaves
 cleaving
+cleeking
 clef
 clefs
 cleft
@@ -15200,6 +15205,7 @@ clunkiest
 clunking
 clunks
 clunky
+clupeid
 clupeids
 clustered
 clustering
@@ -21115,6 +21121,7 @@ decrowned
 decry
 decrying
 decrypt
+decrypting
 decryption
 decryptions
 decrypts
@@ -22199,6 +22206,7 @@ derries
 derry
 dervish
 desacralized
+desalinate
 desalinated
 desalinates
 desalinating
@@ -24478,6 +24486,7 @@ divulger
 divulgers
 divulges
 divulse
+divulsed
 divulses
 divulsing
 divulsions
@@ -30852,6 +30861,7 @@ feus
 fever
 fevering
 feverish
+feverishly
 feverishness
 feverishnesses
 feverroot
@@ -34423,6 +34433,7 @@ geegaw
 geekdom
 geeked
 geekiest
+geekiness
 geekinesses
 geeky
 geepound
@@ -35022,6 +35033,7 @@ giraffes
 giraffish
 girandolas
 girandole
+girandoles
 girasole
 girasoles
 gird
@@ -39184,6 +39196,7 @@ holdovers
 holdup
 holdups
 hole
+holeless
 holey
 holibuts
 holiday
@@ -39647,6 +39660,7 @@ horrendously
 horrent
 horrible
 horriblenesses
+horribles
 horribly
 horrid
 horrider
@@ -39857,6 +39871,7 @@ housing
 houstonia
 houstonias
 hovel
+hoveled
 hovelling
 hovels
 hover
@@ -41018,6 +41033,7 @@ imbruting
 imbue
 imbued
 imbuement
+imbues
 imid
 imidazoles
 imide
@@ -44809,6 +44825,7 @@ joining
 joinings
 joint
 jointed
+jointedly
 jointednesses
 jointers
 jointless
@@ -47125,6 +47142,7 @@ legalized
 legalizers
 legally
 legals
+legatee
 legatees
 legates
 legateship
@@ -47490,6 +47508,7 @@ liberalising
 liberalism
 liberalisms
 liberalistic
+liberalists
 liberalization
 liberalizations
 liberalize
@@ -51022,6 +51041,7 @@ meshiest
 meshing
 meshugah
 meshugga
+meshugge
 meshworks
 mesial
 mesially
@@ -53948,6 +53968,7 @@ mullock
 mullocky
 multiagency
 multiaxial
+multiband
 multibank
 multibillion
 multibladed
@@ -56984,6 +57005,7 @@ obe
 obeah
 obeahism
 obeahisms
+obedience
 obeli
 obeliscal
 obelise
@@ -64975,6 +64997,7 @@ polyribosomal
 polyribosomes
 polys
 polysaccharide
+polysaccharides
 polysorbate
 polysorbates
 polystyrenes
@@ -73156,6 +73179,7 @@ retypes
 retyping
 reunification
 reunifies
+reunify
 reunions
 reunited
 reuniter
@@ -74040,6 +74064,7 @@ rockinesses
 rocking
 rockingly
 rocklike
+rockoon
 rockoons
 rockrose
 rockroses
@@ -75534,6 +75559,7 @@ satyrids
 satyrlike
 satyrs
 sauce
+sauceboat
 sauceboats
 sauceboxes
 sauced
@@ -78780,6 +78806,7 @@ simplistically
 simulacrum
 simulacrums
 simulant
+simulants
 simular
 simulated
 simulates
@@ -84091,6 +84118,7 @@ suffocatingly
 suffocation
 suffocations
 suffocative
+suffragans
 suffrage
 suffrages
 suffragettes
@@ -84259,6 +84287,7 @@ summersaulted
 summersaulting
 summerset
 summersets
+summersetted
 summersetting
 summertime
 summerwood
@@ -87576,6 +87605,7 @@ thumbholes
 thumbing
 thumbnut
 thumbnuts
+thumbscrews
 thumbtacking
 thumbwheel
 thump
@@ -88829,6 +88859,7 @@ transaction
 transactional
 transactions
 transactor
+transactors
 transacts
 transamination
 transaxle
@@ -89242,6 +89273,7 @@ triacids
 triadically
 triadism
 triadisms
+triage
 triaged
 triages
 triaging
@@ -89709,6 +89741,7 @@ trophallaxis
 trophic
 trophies
 trophoblast
+trophoblastic
 trophoblasts
 trophozoites
 trophy
@@ -90347,6 +90380,7 @@ twinge
 twinged
 twinges
 twinging
+twinier
 twining
 twinjet
 twinjets
@@ -93030,6 +93064,7 @@ uprating
 upreach
 upreached
 uprear
+uprearing
 uprears
 upright
 uprighting
