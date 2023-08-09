@@ -186,6 +186,7 @@ acalephs
 acantha
 acanthae
 acanthi
+acanthine
 acanthocephalan
 acanthoid
 acanthous
@@ -5727,6 +5728,7 @@ azoth
 azotised
 azotises
 azotize
+azotized
 azotizes
 azotobacters
 azoturia
@@ -8073,6 +8075,7 @@ bioactive
 bioassay
 bioassayed
 bioassaying
+biocenose
 biocenoses
 biochemically
 biochemist
@@ -13265,6 +13268,7 @@ challoth
 chalone
 chalot
 chaloth
+chalumeau
 chalumeaus
 chalupa
 chalupas
@@ -14180,6 +14184,7 @@ chops
 chopsockies
 chopsocky
 chopsticks
+choragic
 choragus
 choraguses
 choral
@@ -16254,6 +16259,7 @@ comitia
 comitial
 comities
 comity
+comix
 comma
 commandants
 commandeer
@@ -20800,6 +20806,7 @@ debacles
 debagged
 debagging
 debark
+debarkation
 debarked
 debarker
 debarkers
@@ -22661,6 +22668,7 @@ devisers
 devises
 devising
 devisor
+devitrification
 devitrified
 devitrifies
 devitrify
@@ -26085,6 +26093,7 @@ easies
 easiest
 easiness
 easinesses
+eastbound
 easter
 eastern
 easterner
@@ -27725,6 +27734,7 @@ enslaved
 enslavers
 enslaves
 ensnare
+ensnared
 ensnarer
 ensnares
 ensnaring
@@ -32896,6 +32906,7 @@ foster
 fosterage
 fosterages
 fosterers
+fosterlings
 fosters
 fou
 fouettes
@@ -41449,6 +41460,7 @@ impleaded
 impleader
 impleading
 impleads
+impledge
 impledged
 impledging
 implement
@@ -44079,6 +44091,7 @@ ironman
 ironmaster
 ironmen
 ironmongers
+ironnesses
 ironware
 ironweed
 ironwomen
@@ -49766,6 +49779,7 @@ mandioca
 mandiocas
 mandola
 mandoline
+mandolinists
 mandolins
 mandragora
 mandragoras
@@ -54092,6 +54106,7 @@ multicar
 multicarbon
 multicausal
 multicell
+multicelled
 multichain
 multichambered
 multicharacter
@@ -54164,6 +54179,7 @@ multipaned
 multiparae
 multiparameter
 multiparas
+multipartite
 multiparty
 multipath
 multipede
@@ -58387,6 +58403,7 @@ oscitances
 oscitancies
 oscitant
 osculant
+osculate
 oscule
 osculum
 ose
@@ -58938,6 +58955,7 @@ outpacing
 outpaint
 outpainted
 outpaints
+outpassed
 outpasses
 outpatient
 outpatients
@@ -64663,6 +64681,7 @@ plunder
 plundered
 plunderer
 plunderers
+plundering
 plunders
 plunger
 plungers
@@ -64688,6 +64707,7 @@ plush
 plushily
 plushiness
 plushinesses
+plushness
 plushy
 plussage
 plussages
@@ -66265,6 +66285,7 @@ preferments
 preferrer
 preferrers
 prefiguration
+prefiguratively
 prefigure
 prefigurement
 prefigures
@@ -66687,6 +66708,7 @@ presignaling
 presignalling
 presignifying
 preslaughter
+presleep
 presliced
 preslices
 presoak
@@ -72094,6 +72116,7 @@ rendition
 renditions
 rends
 renegading
+renegadoes
 renege
 reneged
 reneger
@@ -77669,6 +77692,7 @@ sewans
 sewed
 sewer
 sewerages
+sewering
 sewerless
 sewerlike
 sewings
@@ -78658,6 +78682,7 @@ sickling
 sickly
 sickness
 sicknesses
+sicko
 sickos
 sickouts
 sics
@@ -82069,6 +82094,7 @@ squirish
 squirm
 squirmer
 squirmers
+squirmier
 squirmiest
 squirms
 squirreled
@@ -83681,6 +83707,7 @@ subdeacon
 subdealer
 subdean
 subdeans
+subdeb
 subdebs
 subdecision
 subdecisions
@@ -85740,6 +85767,7 @@ syntagm
 syntagma
 syntagmas
 syntagms
+syntax
 syntaxes
 syntheses
 synthesis
@@ -87875,6 +87903,7 @@ thyrsus
 thysanurans
 tiara
 tiaras
+tibia
 tibiae
 tibiofibula
 tibiofibulae
@@ -89438,6 +89467,7 @@ trephining
 trepidant
 treponema
 treponemal
+treponemas
 treponematoses
 tres
 trespass
@@ -91415,8 +91445,10 @@ uncorrected
 uncorrupt
 uncorseted
 uncountable
+uncouple
 uncouplers
 uncouples
+uncoupling
 uncourageous
 uncouthnesses
 uncover
@@ -95341,6 +95373,7 @@ waled
 walers
 walkabout
 walkabouts
+walkathons
 walkaway
 walkaways
 walker
@@ -95362,6 +95395,7 @@ wallets
 walleye
 walleyes
 wallflower
+wallflowers
 walloped
 walloping
 wallopings
@@ -96708,6 +96742,7 @@ wirehaired
 wirehairs
 wirelessed
 wirelesses
+wirelike
 wireman
 wirephoto
 wirephotos
