@@ -2932,6 +2932,7 @@ angulation
 angulations
 anhedonias
 anhinga
+anhydride
 anhydrides
 anhydrite
 anhydrous
@@ -3599,6 +3600,7 @@ antitheft
 antithesis
 antithetic
 antithetically
+antithrombins
 antitoxic
 antitoxin
 antitoxins
@@ -5647,6 +5649,7 @@ awning
 awninged
 awnings
 awnless
+awns
 awny
 awoken
 awol
@@ -10499,6 +10502,7 @@ buckler
 bucklering
 bucklers
 buckles
+buckling
 bucko
 buckoes
 buckra
@@ -11705,6 +11709,7 @@ candent
 candescence
 candescences
 candidature
+candidatures
 candider
 candidest
 candidnesses
@@ -11825,6 +11830,7 @@ canonize
 canonized
 canonizer
 canonry
+canons
 canoodle
 canoodled
 canopic
@@ -12306,6 +12312,7 @@ caroch
 caroche
 caroches
 carol
+caroled
 carolers
 caroli
 caroling
@@ -13403,6 +13410,7 @@ chaotically
 chap
 chaparajos
 chaparejos
+chaparral
 chaparrals
 chapati
 chapatis
@@ -16557,6 +16565,7 @@ compliant
 complicacy
 complicate
 complicated
+complicates
 complicating
 complication
 complice
@@ -21703,6 +21712,7 @@ delocalize
 delocalizes
 delocalizing
 delouses
+delphically
 delphinia
 delphiniums
 deltic
@@ -23591,6 +23601,7 @@ disapproving
 disarmament
 disarmaments
 disarmer
+disarming
 disarmingly
 disarrangements
 disarrayed
@@ -26975,6 +26986,7 @@ embowering
 embows
 embrace
 embraceor
+embraceors
 embraceries
 embracers
 embracery
@@ -27750,6 +27762,7 @@ enshrinements
 enshrines
 enshrining
 enshroud
+enshrouds
 ensiform
 ensign
 ensigncies
@@ -29869,6 +29882,7 @@ extremeness
 extremenesses
 extremism
 extremisms
+extremist
 extremists
 extremities
 extremum
@@ -32954,6 +32968,7 @@ foulbrood
 foulbroods
 fouled
 fouler
+fouling
 foulings
 foully
 foulmouthed
@@ -33511,6 +33526,7 @@ fruitless
 fruitlessly
 fruitlessnesses
 fruitlet
+fruitwood
 fruitwoods
 frumenties
 frumpiest
@@ -40028,6 +40044,7 @@ howffs
 howfs
 howked
 howks
+howl
 howled
 howler
 howlingly
@@ -47029,6 +47046,7 @@ lavaliere
 lavaliers
 lavalike
 lavallieres
+lavas
 lavash
 lavashes
 lavation
@@ -54734,6 +54752,7 @@ mythologize
 mythologized
 mythology
 mythomaniacs
+mythopoetic
 mythopoetical
 mythos
 myxedematous
@@ -58344,6 +58363,7 @@ orles
 orlon
 orlons
 ormer
+ormolu
 ormolus
 ornament
 ornamental
@@ -60140,6 +60160,7 @@ oversoaks
 oversouls
 overspecializes
 overspeculate
+overspeculated
 overspender
 overspenders
 overspending
@@ -64830,6 +64851,7 @@ pococurante
 pocosens
 pocosin
 pocoson
+pocosons
 pod
 podagral
 podagric
@@ -69365,6 +69387,7 @@ racoon
 racoons
 racquet
 racquetballs
+racy
 rad
 radars
 radarscope
@@ -76238,6 +76261,7 @@ schlump
 schlumped
 schlumpier
 schmaltz
+schmaltzy
 schmalz
 schmalziest
 schmatte
@@ -76300,6 +76324,7 @@ schooners
 schorls
 schottisches
 schrik
+schriks
 schrod
 schtick
 schticks
@@ -76724,6 +76749,7 @@ scupper
 scuppered
 scuppernong
 scuppernongs
+scups
 scurfier
 scurfiest
 scurfs
@@ -76731,6 +76757,8 @@ scurfy
 scurried
 scurril
 scurrility
+scurrilous
+scurrilousness
 scurry
 scurrying
 scurviest
@@ -77245,6 +77273,7 @@ semidome
 semidomed
 semidomes
 semidominant
+semidry
 semidrying
 semidwarf
 semidwarfs
@@ -80327,6 +80356,7 @@ snookering
 snooking
 snool
 snools
+snooper
 snooping
 snoot
 snooted
@@ -83447,6 +83477,7 @@ strobe
 strobes
 strobila
 strobilae
+strobilar
 strobilation
 strobilations
 strobile
@@ -86387,6 +86418,7 @@ targes
 targetable
 targeted
 targeting
+targets
 tariff
 tariffed
 tariffing
@@ -90001,6 +90033,7 @@ trochoid
 trochophore
 trocked
 trocking
+trocks
 trod
 trode
 troffer
@@ -90736,6 +90769,7 @@ twitting
 twixt
 two
 twofer
+twofers
 twofold
 twofolds
 twoonie
@@ -97125,6 +97159,7 @@ woodwinds
 woodworkers
 woodworking
 woodworm
+woodworms
 woody
 wooer
 woof
