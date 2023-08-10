@@ -1564,6 +1564,7 @@ aiolis
 air
 airbag
 airbound
+airbrush
 airbrushed
 airbrushes
 airbrushing
@@ -2921,6 +2922,7 @@ angiograms
 angiographies
 angiologies
 angiology
+angioplasties
 angioplasty
 angiosperm
 angiospermous
@@ -3298,6 +3300,7 @@ antic
 anticaking
 antically
 anticancer
+anticapitalism
 anticapitalisms
 anticensorship
 antichlor
@@ -8036,6 +8039,7 @@ bijection
 bijective
 bijoux
 bijugate
+bijugous
 biked
 biker
 bikes
@@ -11081,6 +11085,7 @@ bushwas
 bushwhackers
 bushy
 busier
+busiest
 business
 businessman
 businessmen
@@ -13125,6 +13130,7 @@ cement
 cementa
 cementations
 cemented
+cementer
 cementers
 cementite
 cementitious
@@ -15116,6 +15122,7 @@ cleanness
 cleannesses
 cleanse
 cleanses
+cleanup
 cleanups
 clear
 clearance
@@ -15215,6 +15222,7 @@ climatologist
 climatologists
 climatology
 climax
+climaxed
 climaxes
 climaxing
 climbable
@@ -16147,6 +16155,7 @@ collateralized
 collateralizes
 collateralizing
 collaterally
+collates
 collation
 collations
 collator
@@ -18373,6 +18382,7 @@ corrode
 corroded
 corrodible
 corrodies
+corroding
 corrody
 corrosion
 corrosive
@@ -19270,6 +19280,7 @@ crenulation
 creodont
 creodonts
 creole
+creoles
 creolise
 creolised
 creolises
@@ -25351,6 +25362,7 @@ dovecots
 dovekey
 dovekie
 dovekies
+dovelike
 doven
 dovening
 doves
@@ -33135,6 +33147,7 @@ forklifted
 forklifting
 forklike
 forksful
+forky
 forlornest
 forlornness
 forlornnesses
@@ -33499,6 +33512,7 @@ freakishness
 freakout
 freakouts
 freaks
+freaky
 freckles
 frecklier
 freckliest
@@ -38145,6 +38159,7 @@ harassment
 harassments
 harbinger
 harbingers
+harborages
 harbored
 harborer
 harboring
@@ -41825,6 +41840,7 @@ impeachers
 impeaches
 impeaching
 impeachment
+impearls
 impeccabilities
 impeccably
 impeccant
@@ -43401,6 +43417,7 @@ insecure
 insecurely
 insecureness
 insecurities
+insecurity
 inseminate
 inseminated
 inseminating
@@ -44102,6 +44119,7 @@ intertwinement
 intertwinements
 intertwines
 intertwining
+intertwist
 intertwisted
 intertwists
 interuniversity
@@ -47382,6 +47400,7 @@ latened
 lateness
 latenesses
 latens
+latensification
 latent
 latently
 latents
@@ -50316,6 +50335,7 @@ managerially
 managers
 managership
 managerships
+manages
 manakin
 manakins
 mananas
@@ -56548,6 +56568,7 @@ nonagons
 nonagricultural
 nonalcoholic
 nonalignment
+nonalphabetic
 nonambiguous
 nonanimal
 nonanswer
@@ -57924,6 +57945,7 @@ observing
 observingly
 obsess
 obsesses
+obsessing
 obsession
 obsessional
 obsessions
@@ -59152,6 +59174,7 @@ ostinati
 ostlers
 ostomate
 ostomates
+ostomy
 ostosis
 ostosises
 ostraca
@@ -60772,6 +60795,7 @@ overstate
 overstatements
 overstates
 overstayed
+overstaying
 overstays
 oversteered
 oversteering
@@ -63954,6 +63978,7 @@ phoresy
 phoronid
 phoronids
 phosgene
+phosgenes
 phosphatase
 phosphates
 phosphatic
@@ -65705,6 +65730,7 @@ polity
 polka
 polkas
 pollack
+pollacks
 pollard
 pollarding
 polled
@@ -70440,6 +70466,7 @@ ransoms
 rant
 ranted
 ranters
+ranting
 rants
 ranular
 ranulas
@@ -71721,6 +71748,7 @@ redrive
 redriven
 redrives
 redroot
+redrove
 redry
 reds
 redshank
@@ -72511,6 +72539,7 @@ reiterations
 reive
 reived
 reives
+reiving
 rejacket
 rejacketed
 rejackets
@@ -74326,6 +74355,7 @@ reviling
 reviolating
 revisable
 revisals
+revise
 revised
 reviser
 revisers
@@ -79505,6 +79535,7 @@ shylocking
 shynesses
 shyster
 si
+sialagogues
 sialid
 sialidan
 sialidans
@@ -90014,6 +90045,7 @@ trajects
 tram
 tramcars
 tramell
+tramelled
 tramells
 tramels
 tramline
@@ -94621,6 +94653,7 @@ utilitarianism
 utilitarianisms
 utility
 utilizable
+utilization
 utilize
 utilizers
 utilizing
@@ -97852,6 +97885,7 @@ wispiness
 wisping
 wisplike
 wisps
+wispy
 wissed
 wisses
 wistarias
@@ -98937,6 +98971,7 @@ zemindary
 zemstvo
 zemstvos
 zenaida
+zenaidas
 zenanas
 zenith
 zeniths
