@@ -2173,6 +2173,7 @@ altercation
 alterers
 alterities
 alterity
+alternant
 alternants
 alternated
 alternating
@@ -3357,6 +3358,7 @@ antiderivative
 antiderivatives
 antidesiccant
 antidevelopment
+antidiarrheals
 antidogmatic
 antidotal
 antidoted
@@ -8036,6 +8038,7 @@ bigwig
 bigwigs
 bihourly
 bijection
+bijections
 bijective
 bijoux
 bijugate
@@ -10954,6 +10957,7 @@ burgess
 burgesses
 burgh
 burgher
+burghs
 burglar
 burglariously
 burglarized
@@ -13066,6 +13070,7 @@ ceilometers
 ceils
 ceintures
 cel
+celadons
 celandines
 celebrated
 celebratedness
@@ -13246,6 +13251,7 @@ cephalexin
 cephalically
 cephalins
 cephalizations
+cephalometry
 cephalopod
 cephaloridine
 cephaloridines
@@ -17243,6 +17249,7 @@ congenial
 congenialities
 congeniality
 conger
+congeries
 congest
 congesting
 congestion
@@ -21746,6 +21753,7 @@ degerm
 degermed
 degerms
 deglaciated
+deglaciations
 deglamorize
 deglamorized
 deglamorizes
@@ -23425,6 +23433,7 @@ diffusiveness
 diffusivenesses
 diffusor
 diffusors
+dig
 digamies
 digamists
 digamma
@@ -28688,6 +28697,7 @@ erase
 erasers
 erasing
 erasion
+erasions
 erbium
 ere
 erect
@@ -28746,6 +28756,7 @@ erodible
 eroding
 erogenic
 eros
+erose
 erosely
 eroses
 erosible
@@ -33473,6 +33484,7 @@ franknesses
 frankpledge
 franseria
 frantic
+frantically
 franticness
 franticnesses
 frapped
@@ -33774,6 +33786,7 @@ frolic
 frolicked
 frolicker
 frolickers
+frolicking
 frolicsome
 from
 fromage
@@ -34010,6 +34023,7 @@ fumigate
 fumigated
 fumigates
 fumigation
+fumigators
 fuming
 fumitories
 fumitory
@@ -35812,6 +35826,7 @@ glittery
 glitz
 glitzier
 glitziest
+glitzy
 gloaming
 gloamings
 gloams
@@ -36247,6 +36262,7 @@ goober
 goobers
 good
 goodby
+goodbye
 goodbyes
 goodbys
 goodie
@@ -38379,6 +38395,7 @@ hatmakers
 hatrack
 hatracks
 hatred
+hatreds
 hatsful
 hatted
 hatterias
@@ -49066,6 +49083,7 @@ logicalities
 logically
 logicalnesses
 logicians
+logicise
 logicised
 logicises
 logicising
@@ -51743,6 +51761,7 @@ merrymaker
 merrymakers
 merrythought
 merrythoughts
+mesalliances
 mesally
 mesarch
 mescal
@@ -52609,6 +52628,7 @@ mimicking
 mimicry
 mimics
 miming
+mimosas
 mina
 minacious
 minacity
@@ -58158,6 +58178,7 @@ oddballs
 odder
 oddest
 oddish
+oddities
 oddity
 oddly
 oddment
@@ -61403,6 +61424,7 @@ palletising
 palletization
 palletize
 palletizer
+palletizes
 palletizing
 pallets
 pallettes
@@ -62181,6 +62203,7 @@ parvis
 parvo
 parvolin
 parvolines
+parvoviruses
 pas
 pascal
 paseo
@@ -64301,6 +64324,7 @@ pia
 piacular
 piaffe
 piaffing
+pial
 pianissimi
 pianissimo
 pianist
@@ -66147,6 +66171,7 @@ porousnesses
 porphyria
 porphyrias
 porphyries
+porphyropsin
 porphyropsins
 porphyry
 porpoise
@@ -67676,6 +67701,7 @@ prevising
 previsional
 previsioning
 previsit
+previsited
 previsor
 prevued
 prevues
@@ -70589,6 +70615,7 @@ ratines
 rating
 ratings
 ratio
+ratiocinating
 ratiocination
 ratiocinations
 ratiocinative
@@ -77807,6 +77834,7 @@ sedum
 sedums
 see
 seeable
+seecatch
 seecatchie
 seed
 seedbed
@@ -87065,6 +87093,7 @@ tallaged
 tallaging
 tallaisim
 tallboy
+tallgrass
 tallied
 tallier
 tallies
@@ -87513,6 +87542,7 @@ teamster
 teamsters
 teamwork
 teapots
+teapoys
 tear
 tearaways
 teardrop
@@ -88391,6 +88421,7 @@ theocratical
 theocratically
 theocrats
 theodolite
+theodolites
 theogony
 theologic
 theologically
@@ -90076,6 +90107,7 @@ tramroads
 trams
 tramway
 tramways
+trance
 tranced
 trances
 tranche
@@ -92122,6 +92154,7 @@ unarrogant
 unarticulated
 unartistic
 unary
+unashamedly
 unaspirated
 unassailability
 unassailably
@@ -92501,6 +92534,7 @@ uncovers
 uncracked
 uncrate
 uncrated
+uncrates
 uncreates
 uncreating
 uncredited
@@ -96083,6 +96117,7 @@ voicings
 void
 voidablenesses
 voiding
+voiles
 volant
 volante
 volatile
