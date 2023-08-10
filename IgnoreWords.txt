@@ -994,6 +994,7 @@ adventives
 advents
 adventure
 adventurer
+adventuresome
 adventuresses
 adventurism
 adventurist
@@ -1240,6 +1241,7 @@ afford
 affordabilities
 affordable
 affordably
+affords
 afforested
 afforests
 affrayer
@@ -5735,6 +5737,7 @@ axils
 axiological
 axiologically
 axiologies
+axiology
 axiom
 axiomatic
 axiomatically
@@ -9762,6 +9765,7 @@ bowhead
 bowheads
 bowhunter
 bowhunters
+bowknots
 bowl
 bowleg
 bowlegged
@@ -14998,6 +15002,7 @@ clarionets
 clarions
 clarities
 clarkia
+clarkias
 claros
 clary
 clasher
@@ -18893,6 +18898,7 @@ cowflaps
 cowflop
 cowflops
 cowgirl
+cowhage
 cowhages
 cowherbs
 cowherds
@@ -22372,6 +22378,7 @@ deprecated
 deprecates
 deprecating
 deprecatingly
+deprecation
 deprecations
 deprecatorily
 depreciable
@@ -22805,6 +22812,7 @@ deters
 detersive
 detestable
 detestation
+detestations
 detesting
 dethatched
 dethatches
@@ -24880,6 +24888,7 @@ doctrinairisms
 docudrama
 docudramas
 documentable
+documental
 documentalist
 documentarian
 documentarians
@@ -25671,6 +25680,7 @@ driftage
 drifted
 drifter
 driftiest
+drifting
 driftingly
 drifty
 drill
@@ -25686,6 +25696,7 @@ drinkabilities
 drinkability
 drinkables
 drinkably
+drinkers
 drinkings
 drip
 dripped
@@ -34163,6 +34174,7 @@ fustigate
 fustigated
 fustigating
 fustigations
+fustily
 fustinesses
 fusulinids
 futharcs
@@ -34525,6 +34537,7 @@ ganglioside
 gangly
 gangplanks
 gangplow
+gangrels
 gangrene
 gangrenes
 gangstas
@@ -43369,6 +43382,7 @@ insentience
 insentiences
 insentient
 inseparables
+inserted
 inserter
 inserting
 inserts
@@ -43484,6 +43498,7 @@ instantiated
 instantiates
 instantly
 instantness
+instantnesses
 instants
 instarring
 instate
@@ -43883,6 +43898,7 @@ intermission
 intermitotic
 intermits
 intermittency
+intermittently
 intermixed
 intermixes
 intermixing
@@ -50286,6 +50302,7 @@ mandator
 mandatories
 mandators
 mandatory
+mandibular
 mandibulate
 mandioca
 mandiocas
@@ -54036,6 +54053,7 @@ mooned
 mooners
 mooneyes
 moonfishes
+moonflowers
 moonier
 moonily
 mooninesses
@@ -54295,6 +54313,7 @@ motherfuckers
 motherhood
 motherhoods
 motherhouse
+motherhouses
 mothering
 motherland
 motherlands
@@ -57136,6 +57155,7 @@ nonsmokers
 nonsocialist
 nonsocialists
 nonspeaker
+nonspecialist
 nonspecific
 nonspectacular
 nonspherical
@@ -58803,11 +58823,13 @@ organization
 organizational
 organizations
 organize
+organized
 organizers
 organizes
 organizing
 organochlorine
 organochlorines
+organogenetic
 organologies
 organomercurial
 organons
@@ -63274,6 +63296,7 @@ permeably
 permeance
 permeant
 permeate
+permeated
 permeates
 permeating
 permeation
@@ -66121,6 +66144,7 @@ posingly
 posited
 positing
 position
+positioned
 positions
 positive
 positiveness
@@ -67000,6 +67024,7 @@ prefunded
 prefunding
 pregenital
 preggers
+pregnability
 pregnable
 pregnancies
 pregnancy
@@ -69483,6 +69508,7 @@ quadraphonic
 quadrate
 quadrates
 quadratic
+quadratically
 quadratics
 quadrating
 quadrats
@@ -70291,6 +70317,7 @@ rampantly
 rampart
 ramparts
 ramped
+rampike
 rampikes
 rampion
 rampole
@@ -72175,6 +72202,7 @@ regreet
 regreeted
 regreeting
 regress
+regressed
 regressive
 regressiveness
 regressor
@@ -74143,6 +74171,7 @@ reveal
 revealable
 revealer
 revealers
+revealingly
 revealment
 revealments
 reveals
@@ -79036,6 +79065,7 @@ shirked
 shirkers
 shirking
 shirks
+shirr
 shirrings
 shirtdress
 shirtdresses
@@ -89397,6 +89427,7 @@ tonuses
 tony
 tool
 tooled
+toolers
 toolhead
 toolheads
 toolholder
@@ -89425,6 +89456,7 @@ toothless
 toothpaste
 toothpicks
 tooths
+toothsome
 toothsomely
 toothsomeness
 toothwort
@@ -89781,6 +89813,7 @@ trabeation
 trabecula
 trabeculae
 trabeculate
+trace
 traceabilities
 traceability
 traceable
@@ -92880,6 +92913,7 @@ unfitly
 unfitness
 unfitted
 unfix
+unfixes
 unfixing
 unflappability
 unflappable
@@ -95853,6 +95887,7 @@ vivider
 vividly
 vividnesses
 vivific
+vivifications
 vivified
 vivifier
 vivifies
