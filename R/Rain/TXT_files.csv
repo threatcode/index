@@ -1,0 +1,12 @@
+24 hr Totals (only if >0) - National Weather Service,https://www.weather.gov/source/lub/dynamic/misc/wrkwet.txt
+idz013.txt,https://tgftp.nws.noaa.gov/data/forecasts/zone/id/idz013.txt
+nowbox,https://tgftp.nws.noaa.gov/data/raw/fp/fpus71.kbox.now.box.txt
+Daily Precipitation Report - Maricopa County,https://alert.fcd.maricopa.gov/alert/Rain/htmlprec.txt
+Precipitation Report - Maricopa County,https://alert.fcd.maricopa.gov/alert/Rain/ev_rain.txt
+text only version - EPA,https://www3.epa.gov/acidrain/education/site_students/text_version.txt
+Rain,https://www.cs.cmu.edu/~mleone/gdead/dead-lyrics/Rain.txt
+R example (California rain data),https://people.stat.sc.edu/hitchcock/516_R_multREG_examp.txt
+All Day Rain,https://ag.arizona.edu/~steidl/GB/AllDayRain.txt
+fpak61.pafc.sft.aer.txt,https://tgftp.nws.noaa.gov/data/raw/fp/fpak61.pafc.sft.aer.txt
+fpus66.keka.sft.eka.txt,https://tgftp.nws.noaa.gov/data/forecasts/state/fpus66.keka.sft.eka.txt
+June 2003 Text,https://www.frostburg.edu/personal/latta/weather/jun03wx.txt
