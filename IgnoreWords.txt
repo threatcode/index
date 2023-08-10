@@ -4181,7 +4181,9 @@ arbiter
 arbiters
 arbitraged
 arbitragers
+arbitrages
 arbitrageur
+arbitrageurs
 arbitral
 arbitrament
 arbitrariness
@@ -5865,6 +5867,7 @@ baccae
 baccalaureate
 baccara
 baccaras
+baccate
 bacchanalia
 bacchanalian
 bacchanalians
@@ -11903,6 +11906,7 @@ cannels
 canner
 canneries
 canners
+cannibal
 cannibalisms
 cannibalistic
 cannibalization
@@ -12674,6 +12678,7 @@ castors
 castrate
 castrater
 castrates
+castrating
 castrato
 castrators
 castratory
@@ -13965,6 +13970,7 @@ chewiness
 chewing
 chews
 chewy
+chi
 chiaroscurist
 chiaroscurists
 chiaroscuro
@@ -14557,6 +14563,7 @@ chummiest
 chumminesses
 chump
 chumped
+chumping
 chumps
 chumship
 chumships
@@ -19015,6 +19022,7 @@ craftinesses
 crafting
 crafts
 craftsman
+craftsmanlike
 craftsmanship
 craftsmanships
 craftsmen
@@ -24325,6 +24333,7 @@ disorganize
 disorganized
 disorient
 disorientate
+disorientation
 disorientations
 disorienting
 disorients
@@ -24548,6 +24557,7 @@ dissimilarly
 dissimilated
 dissimilatory
 dissimilitudes
+dissimulate
 dissimulated
 dissimulates
 dissimulation
@@ -24639,6 +24649,7 @@ distort
 distorter
 distorters
 distorting
+distortion
 distortions
 distorts
 distractible
@@ -26237,6 +26248,7 @@ dyslexias
 dyslexic
 dyslexics
 dyslogistically
+dysmenorrhea
 dysmenorrheas
 dysmenorrheic
 dyspepsias
@@ -27382,6 +27394,7 @@ empanels
 empathetically
 empathic
 empathically
+empathise
 empathizes
 empathizing
 empathy
@@ -28836,6 +28849,7 @@ escarps
 eschalot
 eschalots
 eschar
+escharotic
 eschatology
 escheatable
 escheating
@@ -32103,6 +32117,7 @@ fleabag
 fleabags
 fleabane
 fleabanes
+fleabites
 fleahopper
 fleahoppers
 fleam
@@ -34320,6 +34335,7 @@ galactosemic
 galactoside
 galactosides
 galactosyls
+galago
 galagos
 galahs
 galangal
@@ -36535,6 +36551,7 @@ grants
 grantsmanships
 grantsmen
 granularities
+granularity
 granulate
 granulates
 granulation
@@ -40693,6 +40710,7 @@ hybridist
 hybridists
 hybridities
 hybridizations
+hybridize
 hybridizer
 hybridizers
 hybridizing
@@ -40916,6 +40934,7 @@ hypercatalectic
 hypercatalexes
 hypercautious
 hypercharge
+hypercharges
 hypercomplex
 hypercorrectly
 hypercritical
@@ -50857,6 +50876,7 @@ mastiche
 mastigophoran
 mastigophorans
 mastitic
+mastless
 mastlike
 mastodon
 mastodons
@@ -54753,6 +54773,7 @@ multipiston
 multiplayer
 multiples
 multiplet
+multiplets
 multiplex
 multiplexed
 multiplexor
@@ -58456,6 +58477,7 @@ onomatology
 onrush
 onshore
 onside
+onslaughts
 onstage
 onstream
 ontically
@@ -59169,6 +59191,7 @@ ouphs
 ourang
 ourari
 ourie
+ours
 ourself
 ousel
 ousels
@@ -61591,6 +61614,7 @@ papains
 papal
 paparazzi
 paparazzo
+papaws
 papaya
 papayan
 papayas
@@ -63561,6 +63585,7 @@ petrale
 petrales
 petrels
 petrifaction
+petrifactions
 petrifications
 petrifier
 petrifiers
@@ -63960,6 +63985,7 @@ photochemist
 photochemistry
 photochemists
 photochromic
+photochromism
 photochromisms
 photocompose
 photocomposed
@@ -65319,6 +65345,7 @@ plug
 plugger
 plugless
 plugola
+pluguglies
 plugugly
 plumb
 plumbable
@@ -69662,6 +69689,7 @@ quash
 quasi
 quasicrystal
 quasicrystals
+quasiparticle
 quasiparticles
 quasiperiodic
 quassia
@@ -79510,6 +79538,7 @@ siddurim
 siddurs
 side
 sideband
+sidebar
 sideboard
 sideboards
 sideburned
@@ -81867,6 +81896,7 @@ sowbelly
 sowcar
 sowcars
 sower
+sowers
 sowing
 soy
 soybean
@@ -83207,6 +83237,7 @@ starching
 stardom
 stardust
 stared
+starfish
 starfishes
 starflower
 stargaze
@@ -84392,6 +84423,7 @@ stupefier
 stupefying
 stupefyingly
 stupendous
+stupendously
 stupendousness
 stupes
 stupidities
@@ -94665,6 +94697,7 @@ valances
 valancing
 vale
 valedictions
+valedictorian
 valedictorians
 valences
 valencias
@@ -95482,6 +95515,7 @@ vicinages
 vicinities
 vicinity
 viciously
+viciousness
 vicissitudes
 vicissitudinous
 vicomte
@@ -96783,6 +96817,7 @@ waywardness
 waywardnesses
 wayworn
 wazoos
+we
 weaken
 weakeners
 weakens
