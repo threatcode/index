@@ -65,6 +65,7 @@ abseil
 abseiled
 abseils
 absence
+absences
 absentee
 absenters
 absenting
@@ -2258,6 +2259,7 @@ amasser
 amassers
 amasses
 amassing
+amassment
 amassments
 amateur
 amateurishly
@@ -2793,6 +2795,7 @@ anchovetas
 anchovettas
 anchovy
 anchusa
+anchusas
 anchylosed
 anchyloses
 anchylosing
@@ -3113,6 +3116,7 @@ anomalousness
 anomalousnesses
 anomaly
 anon
+anonym
 anonymously
 anonymousnesses
 anonyms
@@ -5077,6 +5081,7 @@ atheromatous
 atheroscleroses
 atherosclerotic
 athetoid
+athirst
 athletes
 athletically
 athleticism
@@ -5372,6 +5377,7 @@ austere
 austereness
 austerest
 austerity
+austral
 australs
 autacoid
 autacoids
@@ -5580,6 +5586,7 @@ average
 averagenesses
 averages
 averments
+averred
 averse
 averseness
 aversenesses
@@ -6485,6 +6492,7 @@ barguests
 barhop
 barhopped
 barhops
+bariatric
 baric
 baring
 baristas
@@ -6681,6 +6689,7 @@ basque
 basques
 basseted
 basseting
+bassetted
 bassetting
 bassetts
 bassi
@@ -9525,6 +9534,7 @@ boride
 boring
 boringnesses
 borings
+bork
 borked
 borking
 borks
@@ -12163,6 +12173,7 @@ carabiniers
 caracal
 caracals
 caracaras
+caracks
 caracoling
 caracolling
 caracols
@@ -16487,6 +16498,7 @@ comminutes
 comminuting
 comminution
 comminutions
+commiserated
 commiseratingly
 commiseration
 commissar
@@ -16869,6 +16881,7 @@ concentricities
 concentricity
 concept
 conceptacles
+conception
 conceptional
 concepts
 conceptualise
@@ -18698,6 +18711,7 @@ countersniper
 counterspells
 counterspy
 counterstaining
+counterstate
 counterstated
 counterstating
 countersteps
@@ -21205,6 +21219,7 @@ decidability
 decidable
 decide
 decided
+decidedly
 decides
 decidua
 deciduae
@@ -35154,6 +35169,7 @@ germander
 germanders
 germane
 germaniums
+germanization
 germanize
 germanizes
 germanizing
@@ -36214,6 +36230,7 @@ gorgeousnesses
 gorger
 gorgerin
 gorgers
+gorges
 gorgeted
 gorgon
 gorgonize
@@ -48225,6 +48242,7 @@ lighters
 lightfaced
 lightfaces
 lightfast
+lightfastnesses
 lightful
 lighthearted
 lightheartedly
@@ -48660,6 +48678,7 @@ lithotomies
 lithotomy
 lithotripter
 litigate
+litigating
 litigators
 litigiousness
 litigiousnesses
@@ -50120,6 +50139,7 @@ malleolar
 malleoli
 malleolus
 mallet
+mallets
 malleus
 mallow
 malmier
@@ -56027,6 +56047,7 @@ newswomen
 newsworthy
 newswriting
 newt
+newton
 newwavers
 nextdoor
 nexuses
@@ -59575,6 +59596,7 @@ outraced
 outraces
 outracing
 outrage
+outrageous
 outrageously
 outrageousness
 outrages
@@ -63567,6 +63589,7 @@ phantasmagoric
 phantasmal
 phantasmata
 phantasmic
+phantasms
 phantast
 phantasts
 phantasying
@@ -64067,6 +64090,7 @@ phylloids
 phyllome
 phyllomes
 phyllomic
+phyllopods
 phyllotactic
 phyllotaxes
 phyllotaxies
@@ -64482,6 +64506,7 @@ pinfishes
 pinfold
 pinfolded
 pinfolds
+ping
 pinger
 pinging
 pingoes
@@ -66881,6 +66906,7 @@ prefaded
 prefades
 prefading
 prefascist
+prefatory
 prefer
 preferable
 preferably
@@ -77264,6 +77290,7 @@ scrubwoman
 scruffiness
 scruffinesses
 scruffy
+scrum
 scrummaged
 scrummages
 scrummaging
@@ -83452,6 +83479,7 @@ stertorously
 stertors
 stet
 stethoscope
+stets
 stetsons
 stevedore
 stevedored
@@ -84867,6 +84895,7 @@ substructure
 subsume
 subsumes
 subsumption
+subsumptions
 subsurfaces
 subsystem
 subsystems
@@ -86855,6 +86884,7 @@ tall
 tallaged
 tallaging
 tallaisim
+tallboy
 tallied
 tallier
 tallies
@@ -90778,6 +90808,7 @@ trophy
 tropic
 tropical
 tropicalize
+tropicalized
 tropicalizes
 tropicals
 tropics
@@ -91869,6 +91900,7 @@ unamplified
 unamused
 unanchored
 unanchors
+unaneled
 unanesthetized
 unanimity
 unanimous
@@ -92724,6 +92756,7 @@ unevaded
 unevener
 unevenly
 uneventful
+uneventfully
 uneventfulness
 unevolved
 unexamined
@@ -97153,6 +97186,7 @@ whiskey
 whiskies
 whisking
 whisper
+whispered
 whisperers
 whispering
 whisperings
@@ -98303,6 +98337,7 @@ xysti
 xystoi
 yabber
 yabbered
+yabbers
 yabbie
 yabbies
 yabby
