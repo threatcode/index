@@ -490,6 +490,7 @@ acidity
 acidness
 acidnesses
 acidophil
+acidophile
 acidophilic
 acidophils
 acidosis
@@ -3410,6 +3411,7 @@ antigenically
 antigenicities
 antiglare
 antigraft
+antigravities
 antigrowth
 antigun
 antihelixes
@@ -3625,6 +3627,7 @@ antisocialist
 antisocialists
 antispasmodic
 antispasmodics
+antispeculation
 antispeculative
 antispending
 antistat
@@ -4034,6 +4037,7 @@ appraisees
 appraisements
 appraisers
 appraising
+appraisingly
 appraisive
 appreciable
 appreciated
@@ -7668,6 +7672,7 @@ besetter
 beshadowing
 beshames
 beshaming
+beshiver
 beshivers
 beshouted
 beshouts
@@ -10028,6 +10033,7 @@ braved
 bravely
 bravenesses
 braveries
+braves
 bravi
 braving
 bravo
@@ -14487,6 +14493,7 @@ chroming
 chromings
 chromite
 chromiums
+chromize
 chromo
 chromocenters
 chromodynamics
@@ -16053,6 +16060,7 @@ coinsured
 coinsurer
 coinsurers
 coinsures
+coinsuring
 cointer
 cointerring
 cointreau
@@ -19011,6 +19019,7 @@ crabgrasses
 crablike
 crabmeat
 crabmeats
+crabs
 crabstick
 crack
 crackajacks
@@ -24331,6 +24340,7 @@ disloyal
 disloyalty
 dismaler
 dismalest
+dismally
 dismals
 dismantle
 dismantled
@@ -25680,6 +25690,7 @@ dreary
 drecky
 dredge
 dredged
+dredger
 dredges
 drees
 dreg
@@ -25806,6 +25817,7 @@ dropforging
 drophead
 dropkick
 dropkicker
+dropkickers
 droplet
 dropout
 dropouts
@@ -27783,6 +27795,7 @@ endothelium
 endotherm
 endothermic
 endothermies
+endotherms
 endotoxic
 endotoxins
 endotrophic
@@ -29842,6 +29855,7 @@ exoticism
 exoticisms
 exoticist
 exoticnesses
+exotoxic
 exotoxin
 exotoxins
 exotropias
@@ -31560,6 +31574,7 @@ filliping
 fillisters
 fillo
 fillos
+film
 filmable
 filmcard
 filmdom
@@ -39965,6 +39980,7 @@ homologizing
 homologous
 homologs
 homologue
+homolyses
 homolytic
 homomorphic
 homomorphism
@@ -49811,6 +49827,7 @@ macadamized
 macadamizes
 macadamizing
 macaroni
+macaronic
 macaronies
 macaronis
 macaroon
@@ -50975,6 +50992,7 @@ matchstick
 matchsticks
 matchups
 matchwood
+mate
 mated
 matelasses
 matelot
@@ -51055,6 +51073,7 @@ matting
 mattings
 mattins
 mattock
+mattocks
 mattoids
 mattrass
 mattresses
@@ -52021,6 +52040,7 @@ methodising
 methodism
 methodist
 methodists
+methodize
 methodized
 methodologies
 methodologist
@@ -53447,6 +53467,7 @@ misters
 misthink
 misthinks
 misthought
+mistier
 mistiest
 mistily
 mistime
@@ -59352,6 +59373,7 @@ outbullies
 outbullying
 outburn
 outburned
+outburning
 outburns
 outburst
 outbuying
@@ -62254,6 +62276,7 @@ passionals
 passionless
 passivate
 passivating
+passivation
 passivations
 passive
 passively
@@ -63638,6 +63661,7 @@ petasuses
 petcocks
 petechia
 petechial
+peter
 petering
 petiolar
 petioles
@@ -65930,6 +65954,7 @@ polypide
 polyploidies
 polyploids
 polyploidy
+polypnea
 polypodies
 polypods
 polypores
@@ -70382,6 +70407,7 @@ rambla
 ramble
 rambled
 rambling
+ramblingly
 rambunctious
 rambunctiously
 rambutans
@@ -73608,6 +73634,7 @@ resewn
 resews
 resh
 reshapers
+reshapes
 resharpens
 reshave
 reshaven
@@ -76011,6 +76038,7 @@ safroles
 sag
 saga
 sagacious
+sagaciously
 sagacity
 sagamen
 sagamores
@@ -77181,6 +77209,7 @@ scirrhous
 scirrhus
 scissile
 scission
+scissions
 scissor
 scissors
 scissortail
@@ -77921,6 +77950,7 @@ seine
 seined
 seines
 seining
+seisable
 seise
 seised
 seiser
@@ -80093,6 +80123,7 @@ sitology
 sitosterol
 sitosterols
 sits
+sitten
 sitters
 sitting
 sittings
@@ -85557,6 +85588,7 @@ sundew
 sundews
 sundial
 sundogs
+sundown
 sundowners
 sundowning
 sundowns
@@ -85736,6 +85768,7 @@ supergood
 supergovernment
 supergravities
 supergroup
+supergroups
 supergrowth
 superharden
 superhardening
@@ -88410,6 +88443,7 @@ thematics
 theme
 themed
 themes
+themselves
 thenages
 thenars
 thence
@@ -96554,6 +96588,7 @@ wanderoo
 wands
 wane
 wangans
+wangle
 wangled
 wangler
 wangun
