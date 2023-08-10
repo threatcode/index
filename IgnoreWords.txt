@@ -3435,6 +3435,7 @@ antiman
 antimarket
 antimask
 antimatter
+antimechanist
 antimechanists
 antimere
 antimeres
@@ -4214,6 +4215,7 @@ arcadings
 arcana
 arcane
 arcanums
+arcature
 arcatures
 arccosine
 arced
@@ -7108,6 +7110,7 @@ bedsonias
 bedspring
 bedsprings
 bedstand
+bedstands
 bedstead
 bedsteads
 bedtick
@@ -7679,6 +7682,7 @@ bespangles
 bespangling
 bespatter
 bespattering
+bespeak
 bespeaks
 bespoken
 bespouses
@@ -8288,6 +8292,7 @@ biparous
 biparted
 bipartisanisms
 bipartisanship
+bipartite
 bipartitely
 biparty
 biped
@@ -9908,6 +9913,7 @@ branchline
 branchlines
 branchy
 brand
+branded
 brander
 branding
 brandings
@@ -11748,6 +11754,7 @@ camporee
 campos
 campstool
 campus
+campused
 campuses
 campusing
 campylobacters
@@ -14775,6 +14782,7 @@ cited
 citer
 citers
 cithara
+citherns
 cithren
 cithrens
 cities
@@ -27702,6 +27710,7 @@ energetically
 energies
 energise
 energised
+energising
 energize
 energized
 energizer
@@ -28433,6 +28442,7 @@ epithelialize
 epithelialized
 epithelializing
 epithelioid
+epithelioma
 epitheliomas
 epithelium
 epitheliums
@@ -38629,6 +38639,7 @@ heelpost
 heeltap
 heezing
 hefter
+hefters
 heftiness
 hefting
 hefts
@@ -39236,6 +39247,7 @@ hideousness
 hideousnesses
 hideout
 hideouts
+hiders
 hidings
 hidrosis
 hidrotic
@@ -40655,6 +40667,7 @@ hydrogel
 hydrogels
 hydrogen
 hydrogenate
+hydrogenated
 hydrogenations
 hydrogens
 hydrographer
@@ -40792,6 +40805,7 @@ hyperacid
 hyperacidities
 hyperacidity
 hyperactivities
+hyperactivity
 hyperacuity
 hyperaesthesias
 hyperalert
@@ -41541,6 +41555,7 @@ immobilizations
 immobilize
 immobilizer
 immobilizes
+immobilizing
 immoderation
 immodest
 immodesties
@@ -41833,6 +41848,7 @@ impoliticly
 imponderables
 imponderably
 impone
+impones
 import
 importance
 importances
@@ -44013,6 +44029,7 @@ intimas
 intimate
 intimated
 intimately
+intimateness
 intimatenesses
 intimates
 intimation
@@ -45159,6 +45176,7 @@ jezebel
 jezebels
 jiao
 jib
+jibb
 jibbed
 jibber
 jibbers
@@ -47719,6 +47737,7 @@ leistered
 leisure
 leisureliness
 leisurelinesses
+leitmotif
 leitmotifs
 leitmotiv
 leitmotivs
@@ -54598,6 +54617,7 @@ multimegawatts
 multimember
 multimetallic
 multimillion
+multimode
 multimolecular
 multination
 multinomial
@@ -55818,6 +55838,7 @@ neurilemmas
 neurine
 neuritic
 neuritis
+neuroanatomical
 neuroanatomies
 neuroanatomist
 neuroanatomists
@@ -59902,6 +59923,7 @@ overbidden
 overbilled
 overbills
 overbite
+overbites
 overbleach
 overbleaches
 overbleaching
@@ -62997,6 +63019,7 @@ perfuses
 perfusing
 perfusion
 perfusionist
+pergola
 pergolas
 perhapses
 peri
@@ -63533,6 +63556,7 @@ pharyngitis
 pharynx
 phaseouts
 phases
+phasic
 phasis
 phasmids
 phat
@@ -66017,6 +66041,7 @@ possibly
 post
 postabortion
 postage
+postages
 postals
 postanal
 postapocalyptic
@@ -68517,6 +68542,7 @@ pseudepigraphy
 pseudo
 pseudoclassic
 pseudocoel
+pseudocoelomate
 pseudocoels
 pseudocyesis
 pseudomonad
@@ -71610,6 +71636,7 @@ reemphasizing
 reemploy
 reemployment
 reemployments
+reenact
 reenacting
 reenactments
 reencounters
@@ -75521,6 +75548,7 @@ rustiest
 rustinesses
 rusting
 rustle
+rustled
 rustler
 rustlers
 rustles
@@ -77864,6 +77892,7 @@ semitonic
 semitonically
 semitrailers
 semitropic
+semitropics
 semitruck
 semitrucks
 semiurban
@@ -78320,6 +78349,7 @@ sex
 sexagenarians
 sexagesimal
 sexdecillion
+sexdecillions
 sexes
 sexiest
 sexily
@@ -80852,6 +80882,7 @@ snit
 snitcher
 snitchers
 snits
+sniveled
 sniveler
 snivelers
 sniveling
@@ -81554,6 +81585,7 @@ soth
 soths
 sotol
 sotols
+sots
 sotted
 sottishly
 sottishness
@@ -83706,6 +83738,7 @@ stormed
 stormier
 stormiest
 storminesses
+storming
 storms
 story
 storyboarded
@@ -87654,6 +87687,7 @@ tensor
 tensors
 tent
 tentacles
+tentages
 tentative
 tentativeness
 tentatives
@@ -88715,6 +88749,7 @@ tilefish
 tilefishes
 tilelike
 tiler
+tilers
 tiles
 tiling
 tillage
