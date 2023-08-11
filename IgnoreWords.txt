@@ -1029,6 +1029,7 @@ advertizing
 advisability
 advisableness
 advisably
+advisees
 advisements
 adviser
 advises
@@ -3269,6 +3270,7 @@ anthropometry
 anthropomorphs
 anthropopathism
 anthropophagies
+anthropophagy
 anthroposophies
 anthuriums
 anti
@@ -6201,6 +6203,7 @@ baleful
 balefulnesses
 baler
 balers
+baling
 balisaurs
 balkanization
 balkanizations
@@ -14413,6 +14416,7 @@ chop
 chophouse
 choplogic
 chopped
+choppered
 choppering
 choppier
 choppily
@@ -16239,6 +16243,7 @@ collegia
 collegial
 collegiality
 collegiately
+collegium
 collegiums
 collembolan
 collembolous
@@ -29648,6 +29653,7 @@ exclaims
 exclamations
 exclamatory
 exclave
+exclosure
 excludability
 excluded
 excluder
@@ -33920,6 +33926,7 @@ frouzier
 frouziest
 frowardness
 frowardnesses
+frowner
 frowningly
 frowns
 frows
@@ -38458,6 +38465,7 @@ hatch
 hatchabilities
 hatchable
 hatchback
+hatchbacks
 hatcheck
 hatchel
 hatcheling
@@ -41173,6 +41181,7 @@ hypertense
 hypertension
 hypertext
 hypertexts
+hyperthermia
 hyperthermias
 hyperthyroid
 hyperthyroidism
@@ -41573,6 +41582,7 @@ illation
 illations
 illative
 illatively
+illatives
 illaudably
 illegalities
 illegality
@@ -42163,6 +42173,7 @@ imprecise
 imprecisely
 impreciseness
 imprecision
+impregnability
 impregnableness
 impregnant
 impregnated
@@ -43648,6 +43659,7 @@ inspissators
 instabilities
 install
 installed
+installer
 installment
 installments
 installs
@@ -44166,6 +44178,7 @@ interrogated
 interrogatee
 interrogatees
 interrogating
+interrogation
 interrogational
 interrogations
 interrogative
@@ -47865,6 +47878,7 @@ lectionary
 lections
 lectors
 lectotype
+lectotypes
 lectured
 lecturer
 lecturers
@@ -53743,6 +53757,7 @@ modelers
 modelings
 models
 modem
+modemed
 moderately
 moderateness
 moderating
@@ -54125,6 +54140,7 @@ monometallist
 monometer
 monometers
 monomials
+monomolecularly
 monomorphemic
 monomorphisms
 mononuclear
@@ -56050,6 +56066,7 @@ nephrectomized
 nephrectomy
 nephridia
 nephridial
+nephrism
 nephrisms
 nephrite
 nephrites
@@ -57666,6 +57683,7 @@ novitiates
 novobiocins
 novocaine
 now
+nowhere
 nowheres
 nowise
 nows
@@ -58720,6 +58738,7 @@ ooralis
 oorie
 oosperms
 oosphere
+oospheres
 oospore
 oospores
 oothecae
@@ -63712,6 +63731,7 @@ pervasivenesses
 perverse
 perversely
 perverseness
+perversities
 perversity
 pervert
 pervertedly
@@ -64544,6 +64564,7 @@ pickups
 pickwicks
 picky
 piclorams
+picnic
 picnicked
 picnicker
 picnickers
@@ -65329,6 +65350,7 @@ platyhelminthic
 platypi
 platypus
 platyrrhine
+platyrrhines
 plausibilities
 plausibleness
 plausiblenesses
@@ -67827,6 +67849,7 @@ preventions
 preventive
 preventiveness
 preventives
+preverbs
 preview
 previewer
 previewers
@@ -69783,6 +69806,7 @@ quadrivia
 quadrivial
 quadroons
 quadrumvir
+quadrumvirate
 quadrumvirates
 quadrumvirs
 quadruped
@@ -71610,6 +71634,7 @@ reconvicts
 reconvincing
 recook
 recooked
+recopies
 recopy
 recopying
 recordation
@@ -74263,6 +74288,7 @@ retirees
 retiring
 retiringnesses
 retitle
+retitles
 retitling
 retold
 retook
@@ -74598,6 +74624,7 @@ revuists
 revulsed
 revulsive
 revving
+rewaked
 rewaken
 rewakening
 rewakens
@@ -74850,6 +74877,7 @@ ricin
 ricinuses
 rick
 ricketier
+ricketiest
 rickettsiae
 rickettsias
 rickety
@@ -76218,6 +76246,7 @@ sailed
 sailer
 sailfish
 sailing
+sailplaned
 sailplanes
 sailplaning
 sails
@@ -76258,6 +76287,7 @@ salamis
 salariats
 salaried
 salary
+salarying
 salchow
 sale
 saleable
@@ -88533,6 +88563,7 @@ thank
 thanked
 thanker
 thankers
+thankful
 thankfully
 thankfulness
 thanking
@@ -90091,6 +90122,7 @@ towpaths
 towplane
 towplanes
 towrope
+towropes
 towsack
 toxaemic
 toxaphene
@@ -95096,6 +95128,7 @@ vamps
 vampy
 van
 vanadiate
+vanadiates
 vanadium
 vanadiums
 vanadous
@@ -97643,6 +97676,7 @@ whispery
 whisted
 whisting
 whistled
+whistler
 whistlers
 whistlings
 white
@@ -98816,6 +98850,7 @@ yakitoris
 yakked
 yakking
 yaks
+yakuza
 yald
 yam
 yamen
