@@ -1009,10 +1009,12 @@ adverbials
 adversaries
 adversariness
 adversarinesses
+adversatively
 adversatives
 adverseness
 adversity
 adverted
+advertencies
 advertent
 adverting
 advertise
@@ -5244,6 +5246,7 @@ attitudinize
 attitudinizing
 attorn
 attorned
+attorney
 attorneys
 attorneyship
 attorneyships
@@ -8666,6 +8669,7 @@ blankly
 blankness
 blanks
 blare
+blared
 blares
 blaring
 blarneying
@@ -9416,6 +9420,7 @@ booby
 boocoos
 boodled
 boodler
+boodles
 boodling
 boody
 booed
@@ -13590,6 +13595,7 @@ chant
 chantable
 chanted
 chanterelle
+chanters
 chanteuse
 chanties
 chanting
@@ -13880,6 +13886,7 @@ cheerfuller
 cheerfully
 cheerfulness
 cheerier
+cheeriest
 cheerinesses
 cheering
 cheerios
@@ -25775,6 +25782,7 @@ drillings
 drillmaster
 drillmasters
 drills
+drily
 drink
 drinkabilities
 drinkability
@@ -28388,6 +28396,7 @@ eonisms
 eosin
 eosine
 eosinic
+eosinophil
 eosinophilia
 eosinophilias
 eosinophilic
@@ -34040,6 +34049,7 @@ fulgurates
 fulguration
 fulham
 fullback
+fullblood
 fullbloods
 fulled
 fulleries
@@ -37495,6 +37505,7 @@ gunks
 gunky
 gunlock
 gunlocks
+gunmen
 gunmetals
 gunned
 gunnel
@@ -38962,6 +38973,7 @@ helmless
 helms
 helmsmanships
 helmsmen
+helotages
 helotisms
 helotries
 helotry
@@ -41618,6 +41630,7 @@ illusorily
 illusoriness
 illusorinesses
 illusory
+illustrate
 illustrated
 illustrates
 illustrating
@@ -44834,6 +44847,7 @@ islanding
 isle
 isled
 isleless
+islets
 isling
 isms
 isoagglutinin
@@ -46265,6 +46279,7 @@ khaddar
 khadi
 khadis
 khafs
+khakilike
 khalif
 khalifa
 khalifas
@@ -50404,6 +50419,7 @@ mammogram
 mammographies
 mammography
 mammon
+mammonism
 mammonist
 mammonists
 mammons
@@ -50806,6 +50822,7 @@ markings
 markka
 markkas
 marksman
+marksmanship
 marksmanships
 markswoman
 markswomen
@@ -52092,6 +52109,7 @@ methionine
 methodic
 methodical
 methodically
+methodicalness
 methodised
 methodises
 methodising
@@ -53027,6 +53045,7 @@ miscasting
 miscasts
 miscatalog
 miscataloged
+miscatalogs
 miscegenation
 miscegenational
 miscegenations
@@ -53120,6 +53139,7 @@ misdemeanor
 misdescribe
 misdescribing
 misdescriptions
+misdevelop
 misdeveloping
 misdevelops
 misdiagnose
@@ -53728,6 +53748,7 @@ modernist
 modernities
 modernize
 modernizers
+modernizes
 modernizing
 modernly
 modernness
@@ -57384,6 +57405,7 @@ nontransferable
 nontreatments
 nontribal
 nontruths
+nontypical
 nonuniform
 nonunique
 nonuniqueness
@@ -66369,6 +66391,7 @@ possets
 possibilities
 possibility
 possible
+possibler
 possiblest
 possibly
 post
@@ -66436,6 +66459,7 @@ posteruptive
 postexperience
 postfaces
 postfault
+postfire
 postfix
 postfixal
 postform
@@ -68439,6 +68463,7 @@ properly
 propers
 prophages
 prophase
+prophases
 prophasic
 prophecy
 prophesied
@@ -69937,6 +69962,7 @@ querying
 quest
 questers
 question
+questionable
 questionary
 questioned
 questioner
@@ -74199,6 +74225,7 @@ retinted
 retinting
 retinue
 retinued
+retinula
 retirant
 retirants
 retire
@@ -78440,6 +78467,7 @@ seppukus
 sepses
 septage
 septal
+septaria
 septarium
 septenaries
 septennially
@@ -81748,6 +81776,7 @@ solvate
 solvated
 solvation
 solve
+solvencies
 solvent
 solventless
 solver
@@ -84827,6 +84856,7 @@ subdecision
 subdecisions
 subdepartment
 subdepot
+subdepots
 subdeputies
 subdermal
 subdevelopment
@@ -85219,6 +85249,7 @@ substructural
 substructure
 subsume
 subsumes
+subsuming
 subsumption
 subsumptions
 subsurfaces
@@ -85363,6 +85394,7 @@ succubi
 succubus
 succulence
 succulent
+succulently
 succumbs
 succussed
 succussing
@@ -91907,6 +91939,7 @@ typical
 typicalities
 typicality
 typically
+typicalnesses
 typier
 typiest
 typification
@@ -95951,6 +95984,7 @@ viperish
 viperously
 vipers
 virago
+viragoes
 virelay
 virelays
 viremia
@@ -98506,6 +98540,7 @@ wrassle
 wrassled
 wrastled
 wrath
+wrathfully
 wrathier
 wrathiest
 wrathily
