@@ -554,6 +554,7 @@ acquisitors
 acquit
 acquittals
 acquittance
+acquitter
 acquitting
 acrasias
 acre
@@ -1055,6 +1056,7 @@ ae
 aecia
 aecial
 aecidia
+aecidium
 aeciospores
 aecium
 aedes
@@ -7763,6 +7765,7 @@ bestiary
 besting
 bestirred
 bestowal
+bestowed
 bestowers
 bestows
 bestrew
@@ -8010,6 +8013,7 @@ bielding
 biennales
 biennia
 biennially
+biennials
 biennium
 biers
 biface
@@ -10845,6 +10849,7 @@ bullring
 bullrings
 bullrushes
 bulls
+bullshits
 bullshitting
 bullshot
 bullsnake
@@ -19551,6 +19556,7 @@ crocketed
 crockets
 crocking
 crockpot
+crocks
 crocodiles
 crocodilians
 crocoite
@@ -19765,6 +19771,7 @@ crunchinesses
 crunching
 crunode
 cruor
+cruors
 cruppers
 crural
 crus
@@ -24048,6 +24055,7 @@ discographic
 discography
 discoidal
 discoloration
+discolorations
 discoloring
 discolouring
 discolours
@@ -26927,6 +26935,7 @@ eigenmodes
 eight
 eighteen
 eighteens
+eighteenth
 eighteenths
 eightfold
 eighties
@@ -34924,6 +34933,7 @@ gatehouse
 gatekeepers
 gateless
 gatepost
+gateposts
 gaters
 gates
 gather
@@ -40866,6 +40876,7 @@ hyalines
 hyalins
 hyalite
 hyalites
+hyalogen
 hyaloplasm
 hyaloplasms
 hyaluronidases
@@ -40918,6 +40929,7 @@ hydrobiologists
 hydrobiology
 hydrocarbons
 hydrocast
+hydrocasts
 hydroceles
 hydrocephalus
 hydrocephaluses
@@ -41793,6 +41805,7 @@ immeasurable
 immediately
 immediateness
 immediatenesses
+immedicable
 immedicably
 immemorial
 immemorially
@@ -44778,6 +44791,7 @@ ironware
 ironweed
 ironwomen
 ironwoods
+ironwork
 ironworker
 ironworks
 irradiances
@@ -46856,6 +46870,7 @@ kowtower
 kowtows
 kraal
 kraals
+kraft
 kraken
 krakens
 krater
@@ -51460,6 +51475,7 @@ medicinal
 medicinals
 medicine
 medicined
+medicines
 medicining
 medick
 medico
@@ -52328,6 +52344,7 @@ microbus
 microcap
 microcassette
 microcassettes
+microcephalies
 microclimate
 microcline
 microclines
@@ -54011,6 +54028,7 @@ monaxial
 monaxon
 monaxons
 monazites
+monellin
 monellins
 monerans
 monetarily
@@ -58868,6 +58886,7 @@ ophites
 ophiuroid
 ophiuroids
 ophthalmic
+ophthalmologies
 ophthalmology
 ophthalmoscopic
 opiate
@@ -63037,6 +63056,7 @@ pellagrous
 pelletal
 pelleted
 pelletised
+pelletization
 pelletizations
 pelletize
 pelletized
@@ -63145,6 +63165,7 @@ penitence
 penitences
 penitent
 penitentially
+penitentiaries
 penitently
 penitents
 penknife
@@ -63380,6 +63401,7 @@ peregrinating
 peregrination
 peregrine
 pereion
+pereions
 pereiopod
 peremptory
 perennated
@@ -63785,6 +63807,7 @@ pervertedly
 pervertednesses
 perverter
 perverters
+perverting
 pervious
 pervs
 pesetas
@@ -63912,6 +63935,7 @@ pewterers
 peyote
 peyotes
 peytrel
+peytrels
 pfennige
 pfui
 phaeton
@@ -64838,6 +64862,7 @@ pinasters
 pinata
 pinballed
 pinballs
+pinbones
 pincer
 pinch
 pinchbecks
@@ -64922,6 +64947,7 @@ pinners
 pinning
 pinnulae
 pinnular
+pinnule
 pinnules
 pinny
 pinochles
@@ -66900,6 +66926,7 @@ prankster
 praos
 prase
 praseodymium
+prases
 prat
 prater
 praters
@@ -72105,6 +72132,7 @@ reembody
 reembrace
 reembraces
 reembroidering
+reembroiders
 reemerge
 reemerged
 reemergence
@@ -74969,6 +74997,7 @@ ridgeback
 ridgebacks
 ridged
 ridgel
+ridgeline
 ridgeling
 ridgelings
 ridgels
@@ -79304,6 +79333,7 @@ sherrises
 sherry
 shes
 shetland
+shetlands
 sheuch
 shewbreads
 shewed
@@ -82677,6 +82707,7 @@ spiel
 spieled
 spier
 spiers
+spiffed
 spiffier
 spiffies
 spiffiest
@@ -86109,6 +86140,7 @@ superovulates
 superovulating
 superoxide
 superoxides
+superpatriot
 superpatriotic
 superpatriotism
 superperson
@@ -91347,6 +91379,7 @@ tropotaxis
 trot
 troth
 trothplighting
+trothplights
 troths
 trotline
 trotter
@@ -94295,6 +94328,7 @@ unsteels
 unstemmed
 unsteps
 unsterilized
+unstick
 unstinting
 unstintingly
 unstitch
@@ -97001,6 +97035,7 @@ warthogs
 wartier
 wartiest
 wartime
+wartimes
 wartless
 wartlike
 warty
