@@ -4437,6 +4437,7 @@ armature
 armatured
 armatures
 armbands
+armchair
 armchairs
 armed
 armet
@@ -5790,6 +5791,7 @@ axite
 axites
 axled
 axles
+axletree
 axolotl
 axonal
 axonemal
@@ -8626,6 +8628,7 @@ blacks
 blacksmithing
 blacksmithings
 blacksmiths
+blacksnakes
 blacktails
 blackthorn
 blacktop
@@ -15193,6 +15196,7 @@ clearing
 clearinghouse
 clearings
 clearly
+clearness
 clearstories
 clearwings
 cleat
@@ -16063,6 +16067,7 @@ cohostess
 cohostesses
 cohosting
 cohousing
+cohousings
 coif
 coiffe
 coiffed
@@ -22987,6 +22992,7 @@ deuced
 deucedly
 deuteranope
 deuteranopes
+deuteranopic
 deuterating
 deuterations
 deuteric
@@ -23902,6 +23908,7 @@ disadvantages
 disadvantaging
 disaffected
 disaffecting
+disaffections
 disaffects
 disaffiliate
 disaffiliates
@@ -27521,6 +27528,7 @@ empathizes
 empathizing
 empathy
 empennages
+emperies
 emperor
 emperors
 emperorships
@@ -34802,6 +34810,7 @@ garland
 garlic
 garlickier
 garlickiest
+garlicking
 garlicky
 garment
 garmenting
@@ -36365,6 +36374,7 @@ gongs
 gonidic
 gonif
 goniff
+goniometries
 gonium
 gonococcal
 gonocyte
@@ -46810,6 +46820,7 @@ kolacky
 kolbasi
 kolbasis
 kolbassi
+kolhozes
 kolhozy
 kolinski
 kolkhos
@@ -48371,6 +48382,7 @@ liberalness
 liberalnesses
 liberals
 liberated
+liberating
 liberation
 liberationists
 libertarianism
@@ -49175,6 +49187,7 @@ locksmithings
 locksmiths
 lockstitches
 lockup
+loco
 locofoco
 locoing
 locoism
@@ -49574,6 +49587,7 @@ lowermost
 lowers
 lowery
 lowes
+lowings
 lowish
 lowlander
 lowlanders
@@ -49881,6 +49895,7 @@ lycra
 lyddites
 lye
 lyes
+lyingly
 lyings
 lymphadenitis
 lymphadenitises
@@ -50109,6 +50124,7 @@ madrassah
 madre
 madrepore
 madreporian
+madreporic
 madreporite
 madrigal
 madrigalian
@@ -50938,6 +50954,7 @@ marriageable
 marriages
 married
 marrieds
+marriers
 marrons
 marrowbone
 marrowfats
@@ -52213,6 +52230,7 @@ methoxyl
 methylals
 methylamines
 methylase
+methylases
 methylated
 methylation
 methylations
@@ -54728,6 +54746,7 @@ mousetrap
 mousetrapped
 mousetraps
 mousiest
+mousily
 mousiness
 mousings
 moussaka
@@ -56431,6 +56450,7 @@ nicotiana
 nicotianas
 nicotin
 nicotinamide
+nicotine
 nicotinic
 nicotins
 nictate
@@ -57847,6 +57867,7 @@ numbat
 numbats
 numbed
 number
+numberable
 numberer
 numberers
 numberless
@@ -64984,6 +65005,7 @@ pinto
 pintoes
 pintos
 pintsized
+pinups
 pinwale
 pinwales
 pinweeds
@@ -65253,6 +65275,7 @@ plaintively
 plaintiveness
 plaintivenesses
 plaister
+plaistered
 plaistering
 plaisters
 plait
@@ -65515,6 +65538,7 @@ plebeianly
 plebeians
 plebiscites
 plebs
+plecopteran
 plecopterans
 plectrum
 pled
@@ -66038,6 +66062,7 @@ polyamide
 polyamides
 polyamine
 polyamines
+polyandrous
 polyandry
 polyanthi
 polyanthus
@@ -72267,6 +72292,7 @@ referential
 referral
 referrals
 referrer
+refighting
 refights
 refigure
 refigured
@@ -73915,6 +73941,7 @@ residuary
 residue
 residuum
 residuums
+resifted
 resifting
 resight
 resighting
@@ -81312,6 +81339,7 @@ smutty
 snacked
 snacker
 snackers
+snacking
 snacks
 snaffles
 snafued
@@ -82725,6 +82753,7 @@ spikes
 spikily
 spiks
 spiky
+spiled
 spilings
 spillage
 spilled
@@ -83629,8 +83658,10 @@ stargaze
 stargazed
 stargazer
 stargazers
+stargazes
 stargazing
 stargazings
+staring
 staringly
 starker
 starkest
@@ -89705,6 +89736,7 @@ toggery
 toggled
 toggler
 togglers
+toggles
 toggling
 togue
 toil
@@ -93640,6 +93672,7 @@ uniquer
 uniques
 uniquest
 unironically
+unirradiated
 unirrigated
 unisex
 unisexual
@@ -95864,6 +95897,7 @@ vetivers
 vetivert
 veto
 vetoes
+vetoing
 vets
 vetter
 vetters
@@ -98601,6 +98635,7 @@ workman
 workmanlike
 workmanly
 workmanship
+workmanships
 workout
 workpiece
 workpieces
