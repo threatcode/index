@@ -5060,6 +5060,7 @@ asymmetry
 asymptotes
 asymptotic
 asymptotically
+asynapses
 asynapsis
 asynchronies
 asynchronously
@@ -6695,6 +6696,7 @@ basic
 basicity
 basidiomycetes
 basidiomycetous
+basidiospore
 basifier
 basifiers
 basifixed
@@ -8106,6 +8108,7 @@ bilge
 bilgier
 bilgiest
 bilging
+bilharzial
 bilharzias
 bilharziases
 biliary
@@ -8772,6 +8775,7 @@ blears
 bleary
 bleat
 bleated
+bleater
 bleats
 blebbings
 blebby
@@ -11527,6 +11531,7 @@ caisson
 caissons
 caitiff
 cajeput
+cajole
 cajoled
 cajolement
 cajoler
@@ -12699,6 +12704,7 @@ casques
 cassata
 cassation
 cassations
+cassavas
 cassenas
 cassenes
 casserole
@@ -17530,6 +17536,7 @@ considerably
 considerate
 consideration
 considerations
+considering
 considers
 consign
 consignable
@@ -20352,6 +20359,7 @@ cutinized
 cutinizes
 cutinizing
 cutins
+cutises
 cutlas
 cutlases
 cutler
@@ -21568,6 +21576,7 @@ deeming
 deemster
 deemsters
 deepener
+deepeners
 deepening
 deepest
 deepfreezes
@@ -25819,6 +25828,7 @@ drifty
 drill
 drillable
 driller
+drillers
 drilling
 drillings
 drillmaster
@@ -38129,6 +38139,7 @@ handaxes
 handbag
 handbags
 handballs
+handbarrow
 handbarrows
 handbasket
 handbaskets
@@ -39066,6 +39077,7 @@ hematics
 hematin
 hematine
 hematines
+hematinic
 hematinics
 hematins
 hematite
@@ -43773,6 +43785,7 @@ insufflated
 insufflation
 insufflations
 insufflator
+insufflators
 insulants
 insular
 insularism
@@ -43830,6 +43843,7 @@ integrand
 integrate
 integrating
 integration
+integrationist
 integrationists
 integrative
 integrator
@@ -46096,6 +46110,7 @@ karmic
 kaross
 karroo
 karst
+kart
 karting
 kartings
 karyogamies
@@ -46623,6 +46638,7 @@ kirs
 kirsch
 kis
 kishka
+kishkas
 kishke
 kishkes
 kismat
@@ -56413,6 +56429,7 @@ nibblers
 nibbling
 niblick
 niblicks
+nibs
 nicad
 nicads
 niccolite
@@ -56857,6 +56874,7 @@ nonbrand
 nonbreakable
 nonbreathing
 nonbreeding
+nonburnable
 noncabinet
 noncallable
 noncaloric
@@ -57270,6 +57288,7 @@ nonmodal
 nonmodern
 nonmolecular
 nonmonetarists
+nonmonogamous
 nonmoral
 nonmortal
 nonmotility
@@ -61137,6 +61156,7 @@ overtopping
 overtrades
 overtrading
 overtrain
+overtraining
 overtreat
 overtreating
 overtreatment
@@ -62946,6 +62966,7 @@ pedately
 peddle
 peddler
 peddlers
+peddlery
 peddles
 peddling
 pederastic
@@ -67102,6 +67123,7 @@ precenting
 precents
 preceptors
 preceptorship
+preceptorships
 precessed
 precesses
 precessing
@@ -67782,6 +67804,7 @@ preslaughter
 presleep
 presliced
 preslices
+preslicing
 presoak
 presoaked
 presoaks
@@ -69727,6 +69750,7 @@ pyknics
 pylorus
 pyoderma
 pyodermas
+pyodermic
 pyogenic
 pyoid
 pyorrhea
@@ -80782,6 +80806,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slatternly
 slattings
 slaughter
 slaughterer
@@ -81831,6 +81856,7 @@ solate
 solated
 solating
 soldan
+solder
 soldered
 solders
 soldiered
@@ -88555,6 +88581,7 @@ testamentary
 testate
 testates
 testators
+testatrix
 testatrixes
 testcross
 testee
@@ -88786,6 +88813,7 @@ theologue
 theomachies
 theomachy
 theonomous
+theophanic
 theophanies
 theophany
 theophylline
@@ -88943,6 +88971,7 @@ thinclad
 thinclads
 thindown
 thindowns
+thine
 thing
 thingamabob
 thingness
@@ -91661,6 +91690,7 @@ tufas
 tuff
 tuffaceous
 tuffet
+tuffs
 tufter
 tufters
 tuftier
@@ -93493,6 +93523,7 @@ ungraspable
 ungrateful
 ungratefulness
 ungreased
+ungroomed
 unground
 ungual
 unguard
@@ -94390,6 +94421,7 @@ unsubstantial
 unsubstantially
 unsubtle
 unsuccess
+unsuccesses
 unsuitabilities
 unsuitability
 unsullied
@@ -96862,6 +96894,7 @@ waking
 wale
 waled
 walers
+walkable
 walkabout
 walkabouts
 walkathons
@@ -97111,6 +97144,7 @@ wassails
 wast
 wastable
 wastage
+wastages
 wastebasket
 wastefulness
 wastefulnesses
@@ -98428,6 +98462,7 @@ wolfsbane
 wolvers
 womanhoods
 womanise
+womanised
 womanises
 womanish
 womanishly
