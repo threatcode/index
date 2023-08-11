@@ -287,6 +287,7 @@ acclimatises
 acclimatising
 acclimatization
 acclimatize
+acclimatized
 acclimatizer
 acclimatizes
 acclivities
@@ -1225,6 +1226,7 @@ affirmatives
 affirmed
 affirmer
 affirming
+affix
 affixable
 affixal
 affixation
@@ -5013,6 +5015,7 @@ astony
 astound
 astounded
 astounding
+astounds
 astrachan
 astrachans
 astraddle
@@ -5946,6 +5949,7 @@ backcountries
 backcourtmen
 backcourts
 backcrossed
+backcrosses
 backdate
 backdrop
 backdropping
@@ -9148,6 +9152,7 @@ boatbuildings
 boated
 boatel
 boater
+boaters
 boathooks
 boathouses
 boatings
@@ -9506,6 +9511,7 @@ bookoos
 bookplate
 bookracks
 books
+booksellers
 bookshelf
 bookshelves
 bookshop
@@ -11840,6 +11846,7 @@ campanili
 campanologies
 campanology
 campanula
+campanulate
 camped
 camper
 campers
@@ -13756,6 +13763,7 @@ charminger
 charmingest
 charmingly
 charnel
+charnels
 charpai
 charpoy
 charpoys
@@ -18150,6 +18158,7 @@ coprahs
 copremia
 copremias
 copremic
+copresented
 copresenting
 copresents
 copresident
@@ -19458,6 +19467,7 @@ cribs
 cribwork
 cribworks
 cricetid
+cricetids
 crick
 cricked
 cricket
@@ -27059,6 +27069,7 @@ elating
 elations
 elatives
 elbowing
+elderberry
 eldercare
 eldercares
 elderlies
@@ -29382,6 +29393,7 @@ euphemisms
 euphemist
 euphemistically
 euphemists
+euphemize
 euphemized
 euphemizers
 euphemizes
@@ -43336,6 +43348,7 @@ ingenuousness
 ingenuousnesses
 ingested
 ingestion
+ingestions
 ingestive
 ingests
 ingle
@@ -46583,6 +46596,7 @@ kiloton
 kilotons
 kilovolts
 kilowatt
+kilowatts
 kilt
 kiltie
 kilties
@@ -48633,6 +48647,7 @@ lightwood
 lignan
 lignans
 ligneous
+lignified
 lignifying
 lignite
 lignitic
@@ -52302,6 +52317,7 @@ methoxides
 methoxy
 methoxyflurane
 methoxyl
+meths
 methylals
 methylamines
 methylase
@@ -53906,6 +53922,7 @@ mode
 model
 modelers
 modelings
+modelist
 models
 modem
 modemed
@@ -56935,6 +56952,7 @@ nonbotanist
 nonbrand
 nonbreakable
 nonbreathing
+nonbreeder
 nonbreeding
 nonburnable
 noncabinet
@@ -58261,6 +58279,7 @@ observant
 observantly
 observants
 observation
+observations
 observatory
 observes
 observing
@@ -60290,6 +60309,7 @@ outthrust
 outtower
 outtowered
 outtowering
+outtowers
 outtrade
 outtrades
 outtrading
@@ -61230,6 +61250,7 @@ overtreating
 overtreatment
 overtreatments
 overtrimming
+overtrumped
 overtrumping
 overture
 overtures
@@ -61481,6 +61502,7 @@ pacifical
 pacifically
 pacification
 pacificators
+pacificism
 pacificist
 pacificists
 pacified
@@ -62614,6 +62636,7 @@ pasteurizations
 pasteurize
 pasteurizing
 pastiche
+pastiches
 pasticheurs
 pasties
 pastiest
@@ -67088,6 +67111,7 @@ preachified
 preachifying
 preachily
 preachiness
+preachinesses
 preaching
 preachingly
 preachment
@@ -71588,6 +71612,7 @@ recessions
 recessively
 recessivenesses
 rechallenge
+rechallenged
 rechallenges
 rechange
 rechanged
@@ -72003,6 +72028,7 @@ redecoration
 redecorator
 reded
 rededicate
+rededicated
 rededicates
 rededication
 redeemer
@@ -84417,6 +84443,7 @@ stoneware
 stonewares
 stonewashed
 stonework
+stoney
 stoniest
 stoninesses
 stonish
@@ -87363,6 +87390,7 @@ tabulating
 tabulations
 tabulator
 tabulators
+tabun
 tacamahac
 tach
 tachinid
@@ -88955,6 +88983,7 @@ thermionics
 thermistor
 thermit
 thermites
+thermits
 thermochemical
 thermochemist
 thermochemistry
@@ -89940,6 +89969,7 @@ toman
 tomans
 tomatillo
 tomatillos
+tomato
 tombac
 tombacks
 tombak
@@ -92170,6 +92200,7 @@ twirl
 twirled
 twirlers
 twirling
+twirls
 twirp
 twister
 twisters
@@ -93781,6 +93812,7 @@ unionise
 unionises
 unionism
 unionists
+unionizations
 unionized
 unionizer
 unionizers
@@ -95837,6 +95869,7 @@ verapamils
 veratrias
 veratridines
 veratrin
+veratrines
 veratrins
 veratrum
 veratrums
@@ -96959,6 +96992,7 @@ waistings
 waistless
 waists
 waitered
+waitering
 waiters
 waitlist
 waitlisted
@@ -99099,6 +99133,7 @@ xylophonist
 xylophonists
 xylose
 xyloses
+xylotomy
 xylyls
 xysti
 xystoi
