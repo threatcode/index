@@ -451,6 +451,7 @@ acetylcholines
 acetyls
 achalasias
 ache
+ached
 achenes
 achenial
 achier
@@ -3658,6 +3659,7 @@ antisnob
 antisocial
 antisocialist
 antisocialists
+antisolar
 antispasmodic
 antispasmodics
 antispeculation
@@ -4508,6 +4510,7 @@ aromatization
 aromatizations
 aromatizing
 arose
+around
 arousable
 arousals
 arouse
@@ -7023,6 +7026,7 @@ beastliness
 beasts
 beatable
 beaten
+beater
 beaters
 beatific
 beatifically
@@ -8572,6 +8576,7 @@ bitterweed
 bittier
 bittiest
 bittiness
+bittinesses
 bittock
 bittocks
 bitty
@@ -8824,6 +8829,7 @@ bleep
 bleeped
 bleepers
 blemish
+blemished
 blemishers
 blench
 blenched
@@ -9621,6 +9627,7 @@ boras
 borates
 borating
 borax
+boraxes
 borborygmi
 bordeaux
 bordel
@@ -9795,6 +9802,7 @@ bounders
 bounding
 boundlessness
 boundlessnesses
+boundnesses
 bounds
 bounteously
 bounteousness
@@ -11892,6 +11900,7 @@ camphire
 camphires
 camphol
 camphor
+camphoraceous
 camphorated
 campier
 campiest
@@ -12197,6 +12206,7 @@ capitalising
 capitalisms
 capitalist
 capitalistic
+capitalists
 capitalizations
 capitalized
 capitalizes
@@ -13523,6 +13533,7 @@ chaining
 chainmen
 chainsawed
 chainsaws
+chainwheels
 chaired
 chairing
 chairlifts
@@ -17018,6 +17029,7 @@ conation
 conations
 conative
 conatus
+concanavalin
 concatenate
 concatenated
 concatenating
@@ -32252,6 +32264,7 @@ flancards
 flanerie
 flanes
 flanger
+flangers
 flanging
 flank
 flanker
@@ -33518,6 +33531,7 @@ fortnights
 fortress
 fortressed
 fortresses
+fortressing
 fortuitous
 fortunatenesses
 fortune
@@ -36071,6 +36085,7 @@ glintiest
 glinting
 glioblastoma
 glioblastomas
+glioma
 gliomas
 gliomata
 glissade
@@ -40223,6 +40238,7 @@ homily
 hominess
 hominesses
 hominians
+hominids
 hominies
 hominoid
 hommocks
@@ -41481,6 +41497,7 @@ hypokalemic
 hypolimnion
 hypomagnesemia
 hypomagnesemias
+hypomania
 hypomanic
 hypomanics
 hypomorph
@@ -45303,6 +45320,7 @@ iterated
 iterating
 iteration
 iterations
+iterative
 itinerancy
 itinerantly
 itinerary
@@ -50657,6 +50675,7 @@ malmsey
 malmseys
 malmy
 malnutritions
+malocclusion
 malocclusions
 malodor
 malodors
@@ -58915,6 +58934,7 @@ ominousness
 ominousnesses
 omissible
 omission
+omissive
 omits
 omitted
 omitter
@@ -61485,6 +61505,7 @@ ovule
 ovum
 owe
 owed
+owl
 owlets
 owlish
 owls
@@ -61505,6 +61526,7 @@ oxalating
 oxalic
 oxalises
 oxaloacetate
+oxazines
 oxblood
 oxbloods
 oxbows
@@ -64714,6 +64736,7 @@ phreakers
 phreakings
 phreatic
 phreatophytic
+phrenitides
 phrenitis
 phrenologies
 phrenology
@@ -70450,6 +70473,7 @@ quillai
 quillaia
 quillais
 quillback
+quillbacks
 quills
 quillwork
 quillwort
@@ -73557,6 +73581,7 @@ reneged
 reneger
 renegers
 reneges
+reneging
 renegotiable
 renegotiate
 renegotiates
@@ -74224,6 +74249,7 @@ residents
 resider
 resides
 residua
+residually
 residuals
 residuary
 residue
@@ -74924,6 +74950,7 @@ reversibilities
 reversibility
 reversibly
 reversing
+reversion
 reversioner
 reverso
 reversos
@@ -77785,6 +77812,7 @@ scissile
 scission
 scissions
 scissor
+scissoring
 scissors
 scissortail
 scissortails
@@ -78228,6 +78256,7 @@ seagoing
 seagull
 seahorses
 seal
+sealable
 sealant
 sealeries
 sealers
@@ -79914,6 +79943,7 @@ shojis
 sholom
 shone
 shoo
+shooed
 shooflies
 shooks
 shool
@@ -87564,6 +87594,7 @@ tabletted
 taboo
 tabooing
 taboos
+taborets
 taboulehs
 tabouli
 taboulis
@@ -90790,6 +90821,7 @@ trammeling
 trammelled
 trammelling
 trammels
+tramming
 tramontane
 tramped
 tramper
@@ -92524,6 +92556,7 @@ tyrannize
 tyrannized
 tyrannizes
 tyrannosaurs
+tyrannosaurus
 tyrannously
 tyranny
 tyrants
@@ -94310,6 +94343,7 @@ unpastoral
 unpatched
 unpatentable
 unpeeled
+unpegged
 unpegging
 unpenned
 unpenning
@@ -98385,6 +98419,7 @@ wifelinesses
 wifes
 wifeys
 wifing
+wiftiest
 wifty
 wig
 wigeon
