@@ -1265,6 +1265,7 @@ affordable
 affordably
 affords
 afforested
+afforesting
 afforests
 affrayer
 affrayers
@@ -5099,6 +5100,7 @@ astronauts
 astronomer
 astronomers
 astronomical
+astronomically
 astrophotograph
 astrophysicist
 astrophysics
@@ -8001,6 +8003,7 @@ biathlete
 biaxal
 biaxial
 biaxially
+bib
 bibbed
 bibber
 bibberies
@@ -9866,6 +9869,7 @@ bouquets
 bourbon
 bourbonism
 bourbons
+bourdons
 bourg
 bourgeois
 bourgeoise
@@ -15896,6 +15900,7 @@ cockeyednesses
 cockfighting
 cockhorse
 cockhorses
+cockiest
 cockily
 cockiness
 cockinesses
@@ -17040,6 +17045,7 @@ compressed
 compressedly
 compresses
 compressible
+compression
 compressional
 compressions
 compressive
@@ -17794,6 +17800,7 @@ constrictors
 constricts
 constringe
 constringing
+construable
 construal
 construct
 construction
@@ -19345,6 +19352,7 @@ crankcases
 cranked
 cranker
 crankiest
+crankily
 crankinesses
 crankle
 crankled
@@ -26214,6 +26222,7 @@ drumble
 drumbled
 drumbling
 drumfire
+drumfires
 drumfishes
 drumheads
 drumlier
@@ -27799,6 +27808,7 @@ empiricist
 empirics
 emplace
 emplaced
+emplacement
 emplaces
 emplanes
 employ
@@ -28803,6 +28813,7 @@ epididymal
 epididymides
 epididymitis
 epidote
+epidurals
 epifaunas
 epifocal
 epigeal
@@ -31214,6 +31225,7 @@ fats
 fatshedera
 fatsoes
 fatsos
+fatstocks
 fatten
 fatteners
 fattens
@@ -32429,6 +32441,7 @@ flapjack
 flapjacks
 flapless
 flapped
+flapper
 flappers
 flappiest
 flapping
@@ -33255,6 +33268,7 @@ footlights
 footling
 footlocker
 footlockers
+footman
 footmarks
 footmen
 footnote
@@ -33605,6 +33619,7 @@ formica
 formicaries
 formicas
 formidabilities
+formidableness
 forming
 formlessly
 formlessness
@@ -34538,6 +34553,7 @@ furazolidone
 furbearer
 furbearers
 furbelowed
+furbelows
 furbished
 furbisher
 furbishers
@@ -34912,6 +34928,7 @@ galvanism
 galvanization
 galvanize
 galvanized
+galvanizer
 galvanizing
 galvanometer
 galvanometers
@@ -38079,6 +38096,7 @@ gyropilot
 gyroplane
 gyroplanes
 gyroscope
+gyroscopic
 gyroscopically
 gyrostabilizer
 gyrostabilizers
@@ -41554,6 +41572,7 @@ hypermeters
 hypermetropia
 hypermetropias
 hypermetropic
+hypermnesias
 hypermnesic
 hypermodernist
 hypermodernists
@@ -48748,6 +48767,7 @@ levulose
 levying
 lewd
 lewder
+lewdly
 lewises
 lewisite
 lewisson
@@ -51618,6 +51638,7 @@ matelot
 matelote
 matelotes
 matelots
+materfamiliases
 materialises
 materialising
 materialisms
@@ -52509,6 +52530,7 @@ mestizoes
 mestranol
 mestranols
 met
+metabolic
 metabolically
 metabolism
 metabolisms
@@ -55667,6 +55689,7 @@ murines
 murk
 murker
 murkier
+murkly
 murmured
 murmurer
 murmurers
@@ -57716,6 +57739,7 @@ nonlawyers
 nonlegume
 nonleguminous
 nonlevel
+nonlexical
 nonliable
 nonlibrarians
 nonlibrary
@@ -59280,6 +59304,7 @@ ontogenesis
 ontogenetically
 ontogenic
 ontogenies
+ontogeny
 ontological
 ontologically
 ontologies
@@ -60227,6 +60252,7 @@ outfeast
 outfeel
 outfelt
 outfence
+outfenced
 outfences
 outfencing
 outfield
@@ -72179,6 +72205,7 @@ reclusively
 recoal
 recoaled
 recoat
+recoated
 recoating
 recoats
 recocked
@@ -75558,6 +75585,7 @@ rhythms
 rhytidomes
 rhyton
 ria
+rial
 rials
 rialtos
 riantly
@@ -79565,6 +79593,7 @@ severally
 severalties
 severalty
 severance
+severances
 severe
 severely
 severeness
@@ -80426,6 +80455,7 @@ shrewmouse
 shrews
 shrieked
 shriekier
+shriekiest
 shrieks
 shrieval
 shrieve
@@ -82801,6 +82831,7 @@ soporiferous
 soporific
 sopped
 soppier
+soppiest
 soppinesses
 sopranino
 sopraninos
@@ -84231,6 +84262,7 @@ stakeout
 stakeouts
 stakes
 staking
+stalactite
 stalactites
 stalactitic
 stalag
@@ -94120,6 +94152,7 @@ unenjoyed
 unenlarged
 unenlightened
 unenriched
+unensured
 unentered
 unenterprising
 unenthusiastic
@@ -95346,6 +95379,7 @@ unvexed
 unviable
 unvisited
 unvocal
+unvoice
 unvoiced
 unwakened
 unwalled
@@ -96919,6 +96953,7 @@ villatic
 villein
 villeins
 villenages
+villiform
 villose
 villosity
 villous
