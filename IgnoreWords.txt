@@ -251,6 +251,7 @@ accepter
 accepting
 acceptive
 acceptor
+accessed
 accesses
 accessibility
 accessible
@@ -5459,6 +5460,7 @@ auscultating
 auscultations
 ausform
 ausforming
+auslander
 auspex
 auspicated
 auspicates
@@ -17084,6 +17086,7 @@ computists
 comrade
 comradeliness
 comradery
+comradeship
 comradeships
 comsymp
 comsymps
@@ -21594,6 +21597,7 @@ declaw
 declawing
 declaws
 declension
+declinable
 declinations
 decliner
 decliners
@@ -21661,6 +21665,7 @@ decontamination
 decontaminators
 decontrol
 decontrolled
+decontrolling
 decontrols
 decorate
 decorated
@@ -22438,6 +22443,7 @@ denaturations
 denature
 denatured
 denaturing
+denazification
 denazifies
 denazify
 dendrimer
@@ -23569,6 +23575,7 @@ dichromic
 dichroscopes
 diciest
 dicing
+dickcissel
 dickcissels
 dicked
 dickens
@@ -24825,6 +24832,7 @@ disseise
 disseisee
 disseisees
 disseising
+disseisors
 disseize
 disseized
 disseizes
@@ -25246,6 +25254,7 @@ dodecaphonist
 dodgeball
 dodgem
 dodgems
+dodger
 dodgers
 dodges
 dodginesses
@@ -25577,6 +25586,7 @@ dosses
 dosshouse
 dosshouses
 dossier
+dossiers
 dossil
 dost
 dotage
@@ -31875,6 +31885,7 @@ filarian
 filariases
 filariasis
 filbert
+filberts
 filch
 filched
 filches
@@ -39473,6 +39484,7 @@ hemostats
 hemotoxic
 hempen
 hempier
+hemplike
 hempseeds
 hempy
 hems
@@ -40342,6 +40354,7 @@ homeported
 homeporting
 homeroom
 homerooms
+homers
 homes
 homeschooler
 homeschoolers
@@ -41102,6 +41115,7 @@ humped
 humper
 humpers
 humph
+humphing
 humpiest
 humpiness
 humpless
@@ -43513,6 +43527,7 @@ infinitively
 infinitude
 infirm
 infirmed
+infirmity
 infirms
 infixation
 infixations
@@ -44965,6 +44980,7 @@ investitures
 investment
 investments
 investors
+inveteracies
 inveteracy
 inveterate
 inveterately
@@ -48377,6 +48393,7 @@ legalism
 legalist
 legalistically
 legalists
+legalities
 legalizations
 legalize
 legalized
@@ -49606,6 +49623,7 @@ locust
 locustae
 locution
 locutions
+locutories
 lode
 loden
 lodes
@@ -50861,6 +50879,7 @@ malteds
 maltier
 maltinesses
 maltols
+maltose
 maltoses
 maltreat
 maltreater
@@ -53377,6 +53396,7 @@ minus
 minuscule
 minuscules
 minute
+minuted
 minutely
 minuteman
 minuteness
@@ -54842,6 +54862,7 @@ morales
 moralised
 moralises
 moralising
+moralism
 moralist
 moralistically
 moralization
@@ -58197,6 +58218,7 @@ novelties
 novemdecillion
 novenae
 novercal
+novices
 novitiates
 novobiocins
 novocaine
@@ -61102,6 +61124,7 @@ overflows
 overfly
 overflying
 overfocus
+overfocuses
 overfocusses
 overfocussing
 overfond
@@ -66525,6 +66548,7 @@ pollens
 poller
 pollers
 pollex
+pollinate
 pollination
 pollinations
 pollinator
@@ -69216,6 +69240,7 @@ prorogated
 prorogates
 prorogations
 prorogue
+prorogued
 prosaic
 prosaical
 prosaism
@@ -72730,6 +72755,7 @@ reenlistment
 reenlistments
 reenroll
 reenrolling
+reenrolls
 reenslave
 reenslaves
 reenslaving
@@ -75575,6 +75601,7 @@ ridgeline
 ridgeling
 ridgelings
 ridgels
+ridgepoles
 ridgetops
 ridgiest
 ridgils
@@ -81371,6 +81398,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slats
 slatternly
 slattings
 slaughter
@@ -81443,6 +81471,7 @@ sleepier
 sleepiest
 sleepings
 sleepless
+sleeplike
 sleepovers
 sleeps
 sleepwalked
@@ -82653,6 +82682,7 @@ sonobuoy
 sonobuoys
 sonograms
 sonographies
+sonorants
 sonorities
 sonorous
 sonorousness
@@ -86631,6 +86661,7 @@ supercharges
 superchurch
 superchurches
 supercilious
+superciliously
 supercity
 supercivilized
 superclass
@@ -89607,6 +89638,7 @@ thingamabob
 thingness
 thingummies
 think
+thinkableness
 thinkably
 thinker
 thinkingness
@@ -94145,6 +94177,7 @@ unfroze
 unfrozen
 unfruitful
 unfunded
+unfurled
 unfurling
 unfurls
 unfurnished
@@ -97146,6 +97179,7 @@ vocal
 vocalese
 vocaleses
 vocalically
+vocalics
 vocalise
 vocalised
 vocalising
@@ -98493,6 +98527,7 @@ whippets
 whippier
 whippiest
 whipping
+whippings
 whippletrees
 whipray
 whiprays
