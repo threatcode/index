@@ -3934,6 +3934,7 @@ apologetics
 apologies
 apologise
 apologises
+apologising
 apologist
 apologists
 apologized
@@ -5563,6 +5564,7 @@ autodynes
 autoecious
 autoecism
 autoerotic
+autofocus
 autogamic
 autogamies
 autogamy
@@ -10609,6 +10611,7 @@ bronchoscopies
 bronchoscopists
 bronchospasms
 bronchospastic
+bronchus
 bronco
 broncobuster
 broncobusters
@@ -13240,6 +13243,7 @@ cavitary
 cavitating
 cavitations
 cavitied
+cavorted
 cavorters
 cavorts
 cavy
@@ -14431,6 +14435,7 @@ chirographic
 chiromancer
 chiromancers
 chiromancies
+chironomid
 chironomids
 chiropodist
 chiropody
@@ -16986,6 +16991,7 @@ compelling
 compend
 compendiousness
 compendium
+compends
 compensate
 compensated
 compensates
@@ -17138,6 +17144,7 @@ computabilities
 computable
 computation
 computations
+computed
 computer
 computerdoms
 computereses
@@ -17752,6 +17759,7 @@ conservatism
 conservatisms
 conservative
 conservatized
+conservatizes
 conservatizing
 conservatorial
 conservators
@@ -22196,6 +22204,7 @@ deiform
 deify
 deifying
 deigning
+deigns
 deil
 deils
 deindustrialize
@@ -23339,6 +23348,7 @@ devilfish
 devilfishes
 deviling
 devilish
+devilishly
 devilkin
 devilling
 devilment
@@ -24346,6 +24356,7 @@ dischargers
 discipled
 discipleship
 discipleships
+disciplinarily
 disciplinary
 discipline
 discipliner
@@ -36079,6 +36090,7 @@ gimmickries
 gimmicks
 gimmies
 gimp
+gimpiest
 gimping
 gimpy
 gin
@@ -42883,6 +42895,7 @@ inaccessibly
 inaccuracies
 inaccurately
 inactions
+inactivated
 inactivation
 inactive
 inactivities
@@ -43798,6 +43811,7 @@ infos
 infotainments
 infought
 infracting
+infractions
 infractor
 infractors
 infrahuman
@@ -45810,6 +45824,7 @@ jadednesses
 jadeite
 jadeites
 jades
+jading
 jadish
 jaditic
 jaeger
@@ -45868,6 +45883,7 @@ jane
 janes
 jangle
 jangler
+janglers
 jangles
 janglier
 jangly
@@ -48777,6 +48793,7 @@ lentils
 lentisks
 lentivirus
 lentiviruses
+lento
 lentoids
 leone
 leonine
@@ -49096,6 +49113,7 @@ lidding
 lido
 lidos
 lie
+liebfraumilch
 lief
 liefer
 liefest
@@ -51879,6 +51897,7 @@ matrimonies
 matrimony
 matrix
 matrixes
+matronal
 matronize
 matronized
 matronizes
@@ -54989,6 +55008,7 @@ monstrousness
 monstrousnesses
 montadales
 montagnard
+montagnards
 montanes
 monteith
 montero
@@ -57019,6 +57039,7 @@ neurosurgical
 neurotic
 neurotically
 neurotomy
+neurotoxicity
 neurotoxin
 neurotoxins
 neurotropic
@@ -64384,6 +64405,7 @@ peris
 perisarc
 periscope
 perish
+perishabilities
 perishables
 perished
 perishes
@@ -64635,6 +64657,8 @@ pervious
 pervs
 pesetas
 pesewa
+peskier
+peskiness
 pesos
 pessaries
 pessary
@@ -68355,6 +68379,7 @@ premiere
 premiered
 premieres
 premiering
+premiers
 premierships
 premigration
 premillenarian
@@ -71858,6 +71883,7 @@ ravel
 raveling
 ravelled
 raveller
+ravelling
 ravels
 raven
 ravened
@@ -73676,6 +73702,7 @@ reinject
 reinjecting
 reinjections
 reinjure
+reinjured
 reinjures
 reinked
 reinking
@@ -83466,6 +83493,7 @@ spasming
 spasmodic
 spasmodically
 spasmolytic
+spasmolytics
 spasms
 spastic
 spasticities
@@ -85319,6 +85347,7 @@ stomatopods
 stomatous
 stomodaea
 stomodaeal
+stomodaeum
 stomodaeums
 stomodeal
 stomodeum
@@ -86719,6 +86748,7 @@ sufficers
 sufficiencies
 sufficient
 sufficiently
+suffix
 suffixed
 suffixes
 suffixions
@@ -87924,6 +87954,7 @@ swopping
 swops
 swordfishes
 swordlike
+swordman
 swordmen
 swordplayer
 swordsmanship
@@ -92701,6 +92732,7 @@ trusts
 trusty
 truthful
 truthfully
+truthfulness
 truthfulnesses
 truthless
 trying
@@ -94530,6 +94562,7 @@ unfairness
 unfaith
 unfaithful
 unfaithfully
+unfaked
 unfalsifiable
 unfamiliarly
 unfamous
@@ -97542,6 +97575,7 @@ vitiator
 viticultural
 viticulturally
 viticulture
+viticulturist
 viticulturists
 vitiligos
 vitrains
@@ -99820,6 +99854,7 @@ work
 workableness
 workablenesses
 workaday
+workaholics
 workaholisms
 workbag
 workbags
