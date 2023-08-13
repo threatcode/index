@@ -1,0 +1,9 @@
+DbQuery.Sql Property (System.Data.Entity.Infrastructure),https://learn.microsoft.com/en-us/dotnet/api/system.data.entity.infrastructure.dbquery.sql%3Fview%3Dentity-framework-6.2.0
+scala-ddd-example/etc/infrastructure/mysql/init/01-databases.sql at ...,https://github.com/CodelyTV/scala-ddd-example/blob/master/etc/infrastructure/mysql/init/01-databases.sql
+bin/db_create.sql · master · Infrastructure / Stats Collection - GitLab,https://lab.civicrm.org/infra/stats-collection/-/blob/master/bin/db_create.sql
+https://cc.jlab.org/infrastructure/SWIS2.0/swisdat...,https://cc.jlab.org/infrastructure/SWIS2.0/swisdatabase.sql
+gitlab-pgrepack - lib - gitlab_repack - bloat_table.sql,https://gitlab.com/gitlab-com/gl-infra/gitlab-pgrepack/-/blob/master/lib/gitlab_repack/bloat_table.sql
+lib/gitlab_repack/bloat_btree.sql · master,https://gitlab.com/gitlab-com/gl-infra/gitlab-pgrepack/-/blob/master/lib/gitlab_repack/bloat_btree.sql
+CommservSurveyQuery_10257.sql,https://edc.commvault.com/downloads/SQLScripts/CommservSurveyQuery_10257.sql
+Projac.Sql 0.1.0 - NuGet Gallery,https://www.nuget.org/packages/Projac.Sql
+MachineManagement.Infrastructure - Sql - Create-MachineDb-mssql ...,https://gitlab.ericweissgerber.com/eweissge/machinemanagement/-/blob/develop/MachineManagement.Infrastructure/Sql/Create-MachineDb-mssql-nix.sql
