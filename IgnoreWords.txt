@@ -265,6 +265,7 @@ accessorize
 accessorized
 accessorizes
 acciaccatura
+accidence
 accidences
 accidentally
 accidentalness
@@ -536,6 +537,7 @@ aconitums
 acorned
 acorns
 acoustic
+acoustician
 acousticians
 acoustics
 acquaint
@@ -1947,6 +1949,7 @@ alkalifies
 alkalify
 alkalifying
 alkalimeter
+alkalimeters
 alkaline
 alkalinity
 alkalinization
@@ -4545,6 +4548,7 @@ arming
 armistice
 armistices
 armlets
+armload
 armlock
 armlocks
 armoire
@@ -10867,6 +10871,7 @@ bubbleheaded
 bubbleheads
 bubbler
 bubblers
+bubbliest
 bubbly
 bubby
 bubinga
@@ -14537,6 +14542,7 @@ chippy
 chips
 chiralities
 chirality
+chirimoya
 chirked
 chirkest
 chirmed
@@ -17106,6 +17112,7 @@ compassion
 compassionated
 compassionates
 compassionating
+compassionless
 compatibilities
 compatibility
 compatible
@@ -18938,6 +18945,7 @@ coshering
 coshers
 coshing
 cosie
+cosignatories
 cosigned
 cosigners
 cosigns
@@ -18968,6 +18976,7 @@ cosmoline
 cosmolined
 cosmolines
 cosmolining
+cosmological
 cosmologies
 cosmologist
 cosmologists
@@ -19219,6 +19228,7 @@ counterpunches
 counterpunching
 counterquestion
 counterrallies
+counterrally
 counterrallying
 counterreaction
 counterreformer
@@ -19882,6 +19892,7 @@ criminating
 criminations
 crimini
 criminis
+criminological
 criminologies
 criminologists
 criminy
@@ -21106,6 +21117,7 @@ dactylic
 dactylology
 dactyls
 dactylus
+dad
 dada
 dadaisms
 dadaist
@@ -21415,6 +21427,7 @@ dastardliness
 dastardlinesses
 dasyures
 data
+databank
 databanks
 databased
 databases
@@ -26599,6 +26612,7 @@ duchies
 duchy
 duci
 duck
+duckbill
 duckbills
 ducker
 duckers
@@ -26929,6 +26943,7 @@ dysgenesis
 dysgenic
 dysgenics
 dyskinesia
+dyskinetic
 dyslectic
 dyslectics
 dyslexias
@@ -35752,6 +35767,7 @@ gayness
 gaynesses
 gays
 gazabos
+gazania
 gazars
 gaze
 gazebos
@@ -50026,6 +50042,7 @@ litigiousnesses
 litmus
 litotic
 litres
+lits
 litten
 litter
 litterateur
@@ -52130,6 +52147,7 @@ masochistic
 masochistically
 masochists
 masoned
+masoning
 masonites
 masqueraded
 masquerader
@@ -53723,6 +53741,7 @@ migg
 miggs
 mightier
 mightily
+mightiness
 mightinesses
 mignonette
 mignonettes
@@ -56948,6 +56967,7 @@ nastily
 nasturtium
 natal
 natalities
+natation
 natations
 natatorium
 natatoriums
@@ -60068,6 +60088,7 @@ opacified
 opacifier
 opacifies
 opah
+opal
 opalesce
 opalescence
 opalescent
@@ -62142,6 +62163,7 @@ overpeopling
 overpersuade
 overpersuades
 overpersuasion
+overplaids
 overplanned
 overplanning
 overplans
@@ -64308,6 +64330,7 @@ pediments
 pedlar
 pedlary
 pedlers
+pedocal
 pedocalic
 pedocals
 pedogeneses
@@ -71535,6 +71558,7 @@ queenlinesses
 queenly
 queens
 queenside
+queensides
 queerer
 queerest
 queerish
@@ -77020,6 +77044,7 @@ rogers
 rogued
 rogueing
 rogueries
+roguery
 rogues
 roguing
 roguish
@@ -77145,6 +77170,7 @@ roothold
 rootholds
 rootiest
 rootiness
+rootles
 rootlessnesses
 rootlet
 rootlets
@@ -77788,6 +77814,7 @@ sachems
 sacheted
 sachets
 sack
+sackbut
 sackbuts
 sackcloths
 sacker
@@ -79206,6 +79233,7 @@ scotomas
 scotopia
 scotopic
 scotties
+scoundrel
 scour
 scoured
 scourer
@@ -80849,6 +80877,7 @@ shaven
 shaves
 shavetail
 shavetails
+shavie
 shavies
 shaving
 shavings
@@ -83955,6 +83984,7 @@ sources
 sourcing
 sourdine
 sourdines
+sourdoughs
 sourer
 sourest
 sourly
@@ -86919,6 +86949,7 @@ subjectivism
 subjectivisms
 subjectivist
 subjectivists
+subjectivize
 subjectivized
 subjectivizes
 subjectivizing
@@ -92457,6 +92488,7 @@ transistorise
 transistorize
 transistors
 transited
+transitional
 transitions
 transitive
 transitively
@@ -92810,6 +92842,7 @@ trialogue
 trialogues
 trials
 triangle
+triangled
 triangles
 triangular
 triangulate
@@ -96239,6 +96272,7 @@ unsnaps
 unsnarl
 unsnarled
 unsnarling
+unsnarls
 unsociabilities
 unsociability
 unsociable
@@ -100840,6 +100874,7 @@ writers
 writhen
 writhers
 writhes
+writing
 writings
 writs
 written
