@@ -3933,6 +3933,7 @@ apocalypses
 apocalyptic
 apocalyptical
 apocalyptically
+apocalypticisms
 apocalyptisms
 apocalyptists
 apocarp
@@ -5007,6 +5008,7 @@ assignors
 assimilability
 assimilable
 assimilated
+assimilates
 assimilationism
 assimilationist
 assimilative
@@ -8508,6 +8510,7 @@ biophysics
 biopic
 biopirate
 bioplasms
+biopsy
 bioptic
 bioreactor
 bioreactors
@@ -9782,6 +9785,7 @@ bootstrapped
 booty
 booze
 boozed
+boozer
 boozers
 boozes
 boozily
@@ -10424,6 +10428,7 @@ brede
 bredes
 bree
 breechblocks
+breechcloth
 breechclouts
 breeched
 breeches
@@ -14300,6 +14305,7 @@ chemosurgeries
 chemosynthesis
 chemosynthetic
 chemotactic
+chemotactically
 chemotaxis
 chemotaxonomies
 chemotaxonomist
@@ -14887,6 +14893,7 @@ chromocenters
 chromodynamics
 chromogen
 chromogens
+chromomere
 chromomeres
 chromomeric
 chromonema
@@ -15507,6 +15514,7 @@ clawhammer
 clawing
 clawlike
 clay
+claybanks
 clayey
 clayiest
 claying
@@ -15548,6 +15556,7 @@ clearings
 clearly
 clearness
 clearstories
+clearweed
 clearwings
 cleat
 cleats
@@ -19458,6 +19467,7 @@ cowmen
 coworker
 cowpat
 cowpats
+cowpea
 cowpeas
 cowpie
 cowpokes
@@ -23701,6 +23711,7 @@ diademed
 diademing
 diaereses
 diaeresis
+diaeretic
 diagenesis
 diagenetic
 diageotropic
@@ -26282,6 +26293,7 @@ drawbar
 drawbars
 drawbore
 drawdown
+drawdowns
 drawee
 drawer
 drawerful
@@ -30525,6 +30537,7 @@ exhorts
 exhumation
 exhume
 exhumed
+exhumers
 exigences
 exigencies
 exigent
@@ -31039,6 +31052,7 @@ exurb
 exurban
 exurbanite
 exurbanites
+exurbia
 exurbs
 exuviated
 exuviates
@@ -31967,6 +31981,7 @@ fermentations
 fermentative
 fermented
 fermenting
+fermentors
 ferments
 fermi
 fermis
@@ -32382,7 +32397,9 @@ filmdom
 filmdoms
 filmed
 filmgoer
+filmi
 filmically
+filmier
 filmiest
 filmily
 filming
@@ -34604,6 +34621,7 @@ fritterers
 fritz
 frivol
 frivoling
+frivolity
 frivolled
 frivolously
 frivolousness
@@ -35581,6 +35599,7 @@ garlickier
 garlickiest
 garlicking
 garlicky
+garlics
 garment
 garmenting
 garner
@@ -37608,6 +37627,7 @@ grasp
 graspable
 grasper
 graspers
+grasping
 graspingly
 graspingness
 graspingnesses
@@ -37981,6 +38001,7 @@ grog
 groggeries
 groggery
 groggiest
+grogginess
 grogginesses
 groggy
 grograms
@@ -44010,6 +44031,7 @@ inevitable
 inevitableness
 inevitably
 inexact
+inexactness
 inexactnesses
 inexcusableness
 inexcusably
@@ -53478,6 +53500,7 @@ mezzaluna
 mezzo
 mezzos
 mezzotinted
+mi
 miaou
 miaous
 miaowed
@@ -54169,6 +54192,7 @@ minutes
 minutest
 minutia
 minutiae
+minutial
 minx
 minyan
 minyanim
@@ -57358,6 +57382,7 @@ neoned
 neons
 neoorthodox
 neoorthodoxies
+neoorthodoxy
 neophilia
 neophiliac
 neophyte
@@ -61876,6 +61901,7 @@ overdocumented
 overdocuments
 overdoes
 overdog
+overdoing
 overdominances
 overdominant
 overdone
@@ -65782,6 +65808,7 @@ photog
 photogenic
 photogeologic
 photogeological
+photogeologies
 photogeologist
 photogeologists
 photogeology
@@ -67384,6 +67411,7 @@ pokable
 poke
 pokeberry
 poked
+pokeweed
 pokeweeds
 pokey
 pokeys
@@ -68969,6 +68997,7 @@ preludial
 preluding
 prelunch
 preluncheon
+prelusions
 prelusive
 prelusory
 preman
@@ -70752,6 +70781,7 @@ publically
 publication
 publications
 publicised
+publicising
 publicity
 publicize
 publicized
@@ -75186,6 +75216,7 @@ reposes
 reposit
 reposited
 repositioning
+repositions
 repositories
 repository
 reposits
@@ -81267,6 +81298,7 @@ shirtier
 shirting
 shirtmaker
 shirtmakers
+shirts
 shirtsleeved
 shirttail
 shirttailed
@@ -89697,6 +89729,7 @@ tastelessness
 tastelessnesses
 tastemakers
 tastes
+tastier
 tastiest
 tastily
 tastiness
@@ -92825,6 +92858,7 @@ treaty
 trebbiano
 trebbianos
 trebled
+trebles
 trebling
 trebuchets
 trecento
@@ -101551,6 +101585,7 @@ zedoary
 zeds
 zein
 zeins
+zeitgeber
 zek
 zeks
 zemindars
