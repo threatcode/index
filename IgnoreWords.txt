@@ -1885,6 +1885,7 @@ aliasing
 alibied
 alibies
 alibiing
+alible
 alicyclic
 alidad
 alien
@@ -4990,6 +4991,7 @@ assetless
 assets
 asseverated
 asseverates
+asseveration
 asseverative
 assiduous
 assiduously
@@ -6959,6 +6961,7 @@ bathwaters
 bathyal
 bathymetrically
 bathymetry
+bathypelagic
 bathyscaphes
 bathyscaphs
 bathysphere
@@ -7923,6 +7926,7 @@ bespangle
 bespangles
 bespangling
 bespatter
+bespattered
 bespattering
 bespeak
 bespeaks
@@ -9034,6 +9038,7 @@ blindness
 blindnesses
 blindsided
 blindsides
+blindworm
 blindworms
 blini
 blinis
@@ -11427,6 +11432,7 @@ busy
 busybody
 busying
 busynesses
+but
 butadiene
 butane
 butanes
@@ -12130,6 +12136,7 @@ canailles
 canakins
 canal
 canalboat
+canalboats
 canaled
 canaliculus
 canalising
@@ -13980,6 +13987,7 @@ char
 charabanc
 charabancs
 characid
+characins
 character
 charactered
 charactering
@@ -15584,6 +15592,7 @@ clergywomen
 clericalism
 clericalist
 clerically
+clericals
 clerid
 clerihews
 clerisy
@@ -16304,6 +16313,7 @@ coevolve
 coevolved
 coevolves
 coexecutor
+coexert
 coexerts
 coexisted
 coexistent
@@ -26448,6 +26458,7 @@ dromon
 drone
 droned
 drones
+drongo
 drongos
 droning
 droningly
@@ -40350,6 +40361,7 @@ hexed
 hexer
 hexereis
 hexers
+hexing
 hexobarbital
 hexobarbitals
 hexokinase
@@ -40849,6 +40861,7 @@ holotypic
 holozoic
 holp
 hols
+holstein
 holsteins
 holster
 holstered
@@ -42444,6 +42457,7 @@ ides
 idioblast
 idioblastic
 idiographic
+idiolects
 idiom
 idiomatic
 idiomatically
@@ -45648,6 +45662,7 @@ invoice
 invoke
 invoked
 invoker
+invoking
 involucel
 involucels
 involucra
@@ -49126,6 +49141,7 @@ legitimizers
 legitimizes
 legless
 legongs
+legroom
 legrooms
 legume
 legumes
@@ -50448,6 +50464,7 @@ longheadedness
 longheads
 longhorns
 longhouse
+longhouses
 longicorns
 longing
 longingly
@@ -51477,6 +51494,7 @@ malaise
 malamutes
 malanders
 malanga
+malangas
 malapert
 malapertness
 malapertnesses
@@ -53609,6 +53627,7 @@ microparticles
 microphages
 microphotometer
 microphotometry
+microphylls
 microphysics
 micropipet
 micropipets
@@ -55775,6 +55794,7 @@ moschatels
 mosey
 moseyed
 moseying
+moseys
 mosh
 moshav
 moshavim
@@ -56196,6 +56216,7 @@ multidiscipline
 multidomain
 multielectrode
 multiemployer
+multiemployers
 multiengine
 multienzyme
 multiethnics
@@ -56504,6 +56525,7 @@ muskits
 muskmelon
 muskmelons
 muskox
+muskoxen
 muskrat
 muskrats
 muskroot
@@ -61230,6 +61252,7 @@ outplayed
 outplodding
 outplot
 outplots
+outplotting
 outpoint
 outpointing
 outpoints
@@ -67116,6 +67139,7 @@ pluckiness
 plucking
 plug
 plugger
+plugging
 plugless
 plugola
 pluguglies
@@ -69198,8 +69222,10 @@ presented
 presentee
 presentees
 presentenced
+presentences
 presentencing
 presentient
+presentiment
 presentimental
 presentiments
 presenting
@@ -69614,6 +69640,7 @@ prioress
 prioresses
 prioritization
 prioritizations
+prioritize
 priority
 priors
 priorship
@@ -70814,6 +70841,7 @@ pulchritude
 pulchritudes
 pulchritudinous
 pule
+puled
 puler
 pules
 pulicide
@@ -76658,6 +76686,7 @@ ridgeling
 ridgelings
 ridgels
 ridgepoles
+ridgetop
 ridgetops
 ridgiest
 ridgils
@@ -77434,6 +77463,7 @@ roust
 roustabouts
 rousted
 rouster
+rout
 route
 routed
 routeman
@@ -80784,6 +80814,7 @@ shako
 shaled
 shaley
 shall
+shalloon
 shalloons
 shallot
 shallots
@@ -82645,6 +82676,7 @@ slewing
 slice
 sliceable
 slicers
+slices
 slicing
 slick
 slicken
@@ -82679,6 +82711,7 @@ slimeball
 slimeballs
 slimed
 slimier
+sliminess
 sliming
 slimly
 slimmed
@@ -90781,6 +90814,7 @@ thermoclines
 thermocouple
 thermocouples
 thermoduric
+thermodynamical
 thermodynamics
 thermoelectric
 thermoform
@@ -91470,6 +91504,7 @@ tinier
 tiniest
 tinily
 tininess
+tining
 tinker
 tinkered
 tinkerer
