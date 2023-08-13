@@ -5436,6 +5436,7 @@ audiometer
 audiometers
 audiometric
 audiometry
+audiotape
 audiotaped
 audiotapes
 audiotaping
@@ -8552,6 +8553,7 @@ bipods
 bipolar
 bipolarities
 bipolarity
+bipolarization
 bipolarizes
 bipolarizing
 bipropellant
@@ -12364,6 +12366,7 @@ capacity
 caparisons
 cape
 capelan
+capelets
 capelin
 capelins
 caper
@@ -15016,6 +15019,7 @@ ciders
 cig
 cigar
 cigaret
+cigarette
 cigarettes
 cigarillo
 cigarillos
@@ -17581,6 +17585,7 @@ confined
 confinement
 confiner
 confines
+confining
 confirm
 confirmand
 confirmands
@@ -22611,6 +22616,7 @@ democrats
 demode
 demodulation
 demodulations
+demodulator
 demoed
 demographer
 demographic
@@ -26329,6 +26335,7 @@ drifting
 driftingly
 drifty
 drill
+drillabilities
 drillable
 driller
 drillers
@@ -26387,6 +26394,7 @@ droller
 drollery
 drolling
 drollness
+drolls
 dromon
 drone
 droned
@@ -26512,6 +26520,7 @@ drupelets
 drupes
 druse
 druses
+dry
 dryable
 dryad
 dryades
@@ -28742,6 +28751,7 @@ ensnares
 ensnaring
 ensnarled
 ensorcel
+ensorceling
 ensorcelled
 ensorcelling
 ensorcellment
@@ -34023,6 +34033,7 @@ fortes
 forthcoming
 forthrightly
 forthwith
+fortifications
 fortified
 fortify
 fortifying
@@ -38679,6 +38690,7 @@ hairdressing
 hairdressings
 hairinesses
 hairless
+hairlessness
 hairlessnesses
 hairlike
 hairlines
@@ -46782,6 +46794,7 @@ jumpable
 jumped
 jumper
 jumpers
+jumpier
 jumpiest
 jumpiness
 jumping
@@ -47579,6 +47592,7 @@ kits
 kitsch
 kitschified
 kitschifies
+kitschify
 kitschifying
 kitted
 kittel
@@ -49518,6 +49532,7 @@ lightplane
 lightplanes
 lightship
 lightsome
+lightsomenesses
 lighttight
 lightwave
 lightweight
@@ -50136,6 +50151,7 @@ locator
 locators
 loch
 lochan
+lochans
 lochia
 lock
 lockable
@@ -54530,6 +54546,7 @@ mispatching
 mispenning
 misperceiving
 misperception
+misphrased
 misphrases
 misphrasing
 mispickel
@@ -55950,6 +55967,7 @@ mudholes
 mudlark
 mudpuppies
 mudpuppy
+mudra
 mudras
 mudrocks
 mudroom
@@ -57684,6 +57702,7 @@ nincompoopery
 ninebark
 ninebarks
 ninefold
+ninepin
 ninepins
 nines
 nineties
@@ -59183,6 +59202,7 @@ obeah
 obeahism
 obeahisms
 obedience
+obediently
 obeli
 obeliscal
 obelise
@@ -61686,6 +61706,7 @@ overdecorations
 overdemanding
 overdependence
 overdependent
+overdesign
 overdesigns
 overdetermined
 overdevelop
@@ -71773,6 +71794,7 @@ radarscope
 radarscopes
 radded
 raddle
+raddled
 raddles
 raddling
 radiable
@@ -72262,6 +72284,7 @@ ratines
 rating
 ratings
 ratio
+ratiocinates
 ratiocinating
 ratiocination
 ratiocinations
@@ -75467,6 +75490,7 @@ resoluteness
 resoluter
 resolutes
 resolutest
+resolution
 resolvable
 resolve
 resolvents
@@ -76506,6 +76530,7 @@ rids
 riesling
 rif
 rifampicin
+rifampicins
 rifampin
 rifampins
 rifamycin
@@ -76991,6 +77016,7 @@ rondel
 rondo
 rondos
 rondures
+ronion
 ronnel
 ronnels
 ronyon
@@ -79238,6 +79264,7 @@ scries
 scrieve
 scrieving
 scrimmage
+scrimmager
 scrimper
 scrimpers
 scrimpiest
@@ -83887,6 +83914,7 @@ sovrans
 sovranty
 sowable
 sowans
+sowar
 sowars
 sowbelly
 sowcar
@@ -85878,6 +85906,7 @@ stolidity
 stollens
 stolonate
 stolonic
+stoma
 stomachaches
 stomacher
 stomachic
@@ -87059,6 +87088,7 @@ substages
 substantially
 substantialness
 substantiate
+substantiation
 substantiative
 substantival
 substantivally
@@ -87298,6 +87328,7 @@ sufferably
 sufferances
 sufferer
 sufferers
+sufferings
 suffers
 sufficers
 sufficiencies
@@ -90130,6 +90161,7 @@ terephthalate
 terete
 terga
 tergal
+tergiversate
 tergiversates
 tergiversation
 tergiversations
@@ -90739,6 +90771,7 @@ thoracotomies
 thoracotomy
 thorax
 thoria
+thorianite
 thoric
 thorites
 thorium
@@ -91951,6 +91984,7 @@ tousling
 touter
 touting
 touts
+touzled
 tovarich
 tovarish
 tow
@@ -92005,6 +92039,7 @@ toxical
 toxically
 toxicant
 toxicants
+toxicities
 toxicologic
 toxicologies
 toxicologist
