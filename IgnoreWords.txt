@@ -1255,6 +1255,7 @@ affixment
 affixments
 affixtures
 afflatus
+afflatuses
 afflict
 afflicted
 afflicter
@@ -2726,6 +2727,7 @@ anadiplosis
 anadromous
 anaemia
 anaemic
+anaerobe
 anaerobia
 anaerobic
 anaerobioses
@@ -14701,6 +14703,7 @@ cholate
 cholecalciferol
 cholecystectomy
 cholecystitises
+cholelithiases
 cholelithiasis
 cholent
 cholents
@@ -15405,6 +15408,7 @@ clary
 clasher
 clashers
 clashes
+clashing
 clasp
 clasping
 clasps
@@ -17332,6 +17336,7 @@ conceived
 conceivers
 conceives
 concelebrant
+concelebrate
 concelebrates
 concelebration
 concent
@@ -17515,6 +17520,7 @@ conducting
 conduction
 conductive
 conductivity
+conductor
 conductorial
 conductors
 conductress
@@ -17869,6 +17875,7 @@ conscriptions
 conscripts
 consecrates
 consecration
+consecrative
 consecrators
 consecratory
 consecutive
@@ -18720,6 +18727,7 @@ cornflowers
 cornhusk
 cornhuskings
 corniced
+corniche
 cornicing
 cornify
 cornifying
@@ -19386,6 +19394,7 @@ covin
 covins
 cow
 cowage
+coward
 cowardliness
 cowbane
 cowbell
@@ -36985,6 +36994,7 @@ gobioid
 gobioids
 goblets
 goblin
+goblins
 gobo
 gobonee
 gobony
@@ -37045,6 +37055,7 @@ goglet
 goglets
 gogo
 gogos
+going
 goings
 goiters
 goitre
@@ -41374,6 +41385,7 @@ hotspots
 hotted
 hottie
 hotties
+hotting
 hottish
 houdah
 houdahs
@@ -42590,6 +42602,7 @@ illustriously
 illustriousness
 illuvial
 illuviate
+illuviates
 illuviating
 illuviums
 illy
@@ -42860,6 +42873,7 @@ imparters
 impartialities
 impartiality
 impartially
+impartible
 impartments
 imparts
 impassabilities
@@ -48471,6 +48485,7 @@ lapsable
 lapsers
 lapses
 lapsible
+lapsing
 laptop
 laptops
 lapwings
@@ -53504,6 +53519,7 @@ micrographs
 microgrooves
 microhabitats
 microhms
+microimage
 microimages
 microinch
 microinject
@@ -54564,6 +54580,7 @@ misnumbering
 miso
 misogamic
 misogamist
+misogamists
 misogamy
 misogynic
 misogynies
@@ -57117,6 +57134,7 @@ necrophiliacs
 necrophilic
 necrophilism
 necropoleis
+necropoles
 necrose
 necrosed
 necroses
@@ -57681,6 +57699,7 @@ nigglings
 nigh
 nighed
 nighest
+nighnesses
 nighs
 night
 nightcap
@@ -62675,6 +62694,7 @@ packabilities
 package
 packaged
 packager
+packagers
 packboards
 packed
 packer
@@ -63957,6 +63977,7 @@ patriarchal
 patriarchies
 patriarchs
 patriarchy
+patriates
 patrician
 patricians
 patriciate
@@ -64066,6 +64087,7 @@ pawnbrokings
 pawnee
 pawnees
 pawning
+pawns
 pawpaw
 pawpaws
 paws
@@ -72856,6 +72878,7 @@ rec
 recalculate
 recalculated
 recalculation
+recalculations
 recalibrate
 recalibrated
 recalibrates
@@ -74978,6 +75001,7 @@ replacer
 replacing
 replan
 replanned
+replans
 replant
 replantation
 replantations
@@ -77140,6 +77164,7 @@ ropedancings
 ropelike
 roper
 ropers
+ropery
 ropewalk
 ropewalkers
 ropewalks
@@ -78343,6 +78368,7 @@ saprolite
 saprolites
 sapropel
 sapropels
+saprophagous
 saprophyte
 saprophytic
 saprophytically
@@ -79160,6 +79186,7 @@ scorifiers
 scorifies
 scorifying
 scoring
+scorn
 scorned
 scorner
 scornfully
@@ -81163,6 +81190,7 @@ shlepping
 shleps
 shlimazels
 shlockier
+shlockiest
 shlocks
 shlocky
 shlub
@@ -83853,6 +83881,7 @@ sort
 sorta
 sortably
 sorter
+sortie
 sortied
 sortieing
 sortilege
@@ -84129,6 +84158,7 @@ spasms
 spastic
 spasticities
 spasticity
+spastics
 spat
 spate
 spates
@@ -84854,6 +84884,7 @@ springbok
 springer
 springers
 springes
+springhouse
 springier
 springily
 springinesses
@@ -85917,6 +85948,7 @@ stockier
 stockiest
 stockily
 stockinet
+stockinette
 stockinettes
 stocking
 stockinged
@@ -96565,6 +96597,7 @@ upchucks
 upclimbed
 upclimbing
 upclimbs
+upcoil
 upcoiling
 upcountries
 upcourt
@@ -97921,6 +97954,7 @@ viceroyships
 vices
 vicinage
 vicinages
+vicinal
 vicinities
 vicinity
 viciously
@@ -100980,6 +101014,7 @@ yakuza
 yald
 yam
 yamen
+yamens
 yammer
 yammered
 yammerers
