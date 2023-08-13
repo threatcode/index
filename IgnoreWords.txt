@@ -7030,6 +7030,7 @@ bazoo
 bazooka
 bazookas
 bazooms
+bazoos
 bdellium
 bdelliums
 be
@@ -14707,6 +14708,7 @@ choppy
 chops
 chopsockies
 chopsocky
+chopstick
 chopsticks
 choragic
 choragus
@@ -15770,6 +15772,7 @@ clubheads
 clubhouse
 clubhouses
 clubmen
+clubrooms
 clubroot
 clubs
 clubwoman
@@ -17756,6 +17759,7 @@ connectional
 connections
 connective
 connectivities
+connectors
 connects
 conner
 conners
@@ -26588,6 +26592,7 @@ dulias
 dull
 duller
 dulling
+dullishly
 dullness
 dulls
 dullsville
@@ -29993,6 +29998,7 @@ evensong
 evensongs
 event
 eventful
+eventfulnesses
 eventide
 eventides
 eventless
@@ -30603,6 +30609,7 @@ explicates
 explicating
 explication
 explications
+explicatory
 explicit
 explicits
 explode
@@ -35075,6 +35082,7 @@ gainfully
 gainfulness
 gainfulnesses
 gaingiving
+gaingivings
 gainless
 gainliest
 gainsaid
@@ -39119,6 +39127,7 @@ harpsichord
 harpsichordists
 harpy
 harquebus
+harquebusiers
 harridan
 harridans
 harries
@@ -39517,6 +39526,7 @@ heathlands
 heathless
 heathlike
 heaths
+heating
 heatproof
 heatstrokes
 heaumes
@@ -40492,6 +40502,7 @@ hoariness
 hoarinesses
 hoars
 hoarse
+hoarsen
 hoarsened
 hoarsenesses
 hoarsening
@@ -40636,6 +40647,7 @@ hollaed
 hollaing
 holler
 hollering
+hollers
 hollies
 holloaing
 holloed
@@ -41526,6 +41538,7 @@ hunger
 hungers
 hungrier
 hungrily
+hungriness
 hungry
 hunk
 hunkers
@@ -44656,6 +44669,7 @@ inteneration
 intenerations
 intense
 intenser
+intensification
 intensifiers
 intensifies
 intensional
@@ -51533,6 +51547,7 @@ manias
 manic
 manically
 manicotti
+manicottis
 manics
 manicured
 manicures
@@ -53875,6 +53890,7 @@ miniskirted
 miniskis
 ministates
 ministerial
+ministerially
 ministrant
 ministrants
 ministration
@@ -53904,6 +53920,7 @@ mintage
 mintages
 minters
 mintier
+minuends
 minuet
 minus
 minuscule
@@ -54992,6 +55009,7 @@ monastery
 monastically
 monasticism
 monasticisms
+monastics
 monatomic
 monaural
 monaxial
@@ -57585,6 +57603,7 @@ ninny
 ninnyhammers
 ninon
 ninons
+ninth
 niobic
 niobite
 niobium
@@ -59041,6 +59060,7 @@ oaken
 oakiest
 oaklike
 oakmoss
+oakmosses
 oaks
 oakums
 oaky
@@ -63394,6 +63414,7 @@ parodies
 parodistic
 parodoi
 parodos
+parodying
 parol
 paroled
 paroling
@@ -64828,6 +64849,7 @@ perses
 perseverance
 perseverances
 perseverated
+perseverates
 perseverating
 perseveration
 perseverative
@@ -65088,6 +65110,7 @@ phagocytose
 phagocytosed
 phagocytoses
 phagocytosing
+phalange
 phalangeal
 phalanges
 phalansteries
@@ -65817,6 +65840,7 @@ pictography
 pictorial
 pictorialism
 pictorialisms
+pictorialists
 pictorialized
 pictorializes
 pictorialness
@@ -72414,6 +72438,7 @@ reanalyze
 reanimate
 reanimated
 reanimation
+reannex
 reannexing
 reanoint
 reanoints
@@ -74428,6 +74453,7 @@ remissible
 remissibly
 remission
 remissions
+remissive
 remissness
 remit
 remitment
@@ -79802,6 +79828,7 @@ semipopular
 semiporcelains
 semipornography
 semipostal
+semipostals
 semiprecious
 semipro
 semiquaver
@@ -84387,6 +84414,7 @@ spodes
 spodosols
 spodumenes
 spoilage
+spoiler
 spoils
 spoilsman
 spoilsmen
@@ -85006,6 +85034,7 @@ stampless
 stamps
 stance
 stanch
+stancher
 stanchers
 stanchioned
 standardbred
@@ -86012,6 +86041,7 @@ strengthens
 strengths
 strenuosities
 strenuously
+strenuousnesses
 strep
 streptobacilli
 streptococcal
@@ -87580,6 +87610,7 @@ superinduction
 superinductions
 superinfect
 superinfected
+superinfecting
 superinfection
 superinfects
 superinsulated
@@ -88132,6 +88163,7 @@ swashed
 swatches
 swathed
 swathers
+swathes
 swathing
 swaths
 swatter
@@ -89598,6 +89630,7 @@ teleology
 teleonomic
 teleonomies
 teleost
+teleostean
 telepathic
 telepathically
 telephoned
@@ -97043,6 +97076,7 @@ vasectomizes
 vaselike
 vaselines
 vasoactivities
+vasoactivity
 vasoconstrictor
 vasodilatation
 vasodilatations
@@ -97387,6 +97421,7 @@ verifying
 verily
 verisimilarly
 verisimilitude
+verisimilitudes
 verismo
 verismos
 verisms
