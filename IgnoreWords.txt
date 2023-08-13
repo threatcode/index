@@ -235,6 +235,7 @@ accentless
 accentor
 accentually
 accentuate
+accentuating
 accentuation
 accept
 acceptabilities
@@ -6399,6 +6400,7 @@ ballistics
 ballonet
 ballonets
 ballonnes
+ballons
 ballooning
 balloonings
 balloted
@@ -7667,6 +7669,7 @@ bemoan
 bemoaned
 bemoans
 bemock
+bemocked
 bemocking
 bemocks
 bemuddle
@@ -8588,6 +8591,7 @@ birdbrain
 birdbrained
 birdcage
 birdcages
+birdcalls
 birddogged
 birddogging
 birded
@@ -14956,6 +14960,7 @@ chukkers
 chum
 chummier
 chummiest
+chumminess
 chumminesses
 chump
 chumped
@@ -25223,6 +25228,7 @@ dissociability
 dissociable
 dissocial
 dissociate
+dissociated
 dissociating
 dissoluble
 dissolute
@@ -27720,6 +27726,7 @@ element
 elementally
 elementals
 elementarily
+elementariness
 elementary
 elements
 elemi
@@ -30289,6 +30296,7 @@ exchangeability
 exchangeable
 exchanger
 exchangers
+exchanges
 exchanging
 excide
 excided
@@ -31100,6 +31108,7 @@ fabulists
 fabulous
 fabulously
 fabulousness
+facade
 facades
 faceable
 facecloth
@@ -31686,6 +31695,7 @@ fearlessness
 fearlessnesses
 fears
 fearsome
+fearsomely
 fearsomeness
 feasance
 feasances
@@ -33311,6 +33321,7 @@ fluish
 fluke
 flukes
 flukey
+flukiest
 flukily
 flukiness
 flukinesses
@@ -36917,6 +36928,7 @@ glycosyl
 glycosylated
 glycosylates
 glycosylating
+glycosylation
 glycosylations
 glyph
 gnar
@@ -50847,6 +50859,7 @@ lunkheaded
 lunkheads
 lunks
 lunt
+lunted
 lunting
 lunula
 lunulate
@@ -50914,6 +50927,7 @@ lusus
 lususes
 lutanist
 lutanists
+lutea
 luteal
 lutecium
 luteciums
@@ -56743,6 +56757,7 @@ myxomas
 myxomatoses
 myxomycete
 myxomycetes
+myxoviral
 myxoviruses
 na
 naans
@@ -59305,6 +59320,7 @@ obentos
 obese
 obesely
 obeseness
+obesenesses
 obesities
 obesity
 obey
@@ -59640,6 +59656,7 @@ oda
 odahs
 odalisque
 odalisques
+odd
 oddball
 oddballs
 odder
@@ -61348,6 +61365,7 @@ outserves
 outsets
 outshame
 outshames
+outshaming
 outshined
 outshining
 outshoot
@@ -61867,6 +61885,7 @@ overemphasizing
 overemphatic
 overencouraged
 overencourages
+overencouraging
 overenergetic
 overenrolled
 overentertained
@@ -64309,6 +64328,7 @@ pediatricians
 pedicab
 pedicabs
 pedicellate
+pedicels
 pedicle
 pedicles
 pedicular
@@ -64378,6 +64398,7 @@ peesweeps
 peetweet
 peetweets
 peeve
+peeves
 peevish
 peevishly
 peevishnesses
@@ -80709,6 +80730,7 @@ shaggily
 shagginess
 shagginesses
 shagging
+shaggy
 shagreen
 shagreens
 shags
@@ -83659,6 +83681,7 @@ solonets
 solonetses
 solonetz
 solonetzes
+sols
 solstice
 solstices
 solstitial
@@ -84519,6 +84542,7 @@ spindler
 spindles
 spindlier
 spindliest
+spindling
 spindrifts
 spined
 spinel
@@ -84541,6 +84565,7 @@ spinnies
 spinning
 spinny
 spinoff
+spinoffs
 spinor
 spinose
 spinosely
@@ -85045,6 +85070,7 @@ square
 squared
 squareness
 squarenesses
+squarer
 squares
 squaring
 squarishnesses
@@ -91041,6 +91067,7 @@ thromboplastin
 thromboplastins
 thrombosed
 thromboses
+thrombosing
 thrombosis
 thromboxane
 thromboxanes
@@ -92725,6 +92752,7 @@ treaters
 treatises
 treatment
 treatments
+treats
 treaty
 trebbiano
 trebbianos
@@ -95829,6 +95857,7 @@ unmelted
 unmemorable
 unmemorably
 unmended
+unmentionable
 unmentionables
 unmercifully
 unmerited
@@ -96136,6 +96165,7 @@ unroots
 unroped
 unround
 unrounded
+unrounds
 unruled
 unruliest
 unrulinesses
@@ -97630,6 +97660,7 @@ venetian
 venge
 vengeance
 vengeances
+vengefully
 vengefulness
 vengefulnesses
 venges
@@ -97858,6 +97889,7 @@ vesicates
 vesicating
 vesiculae
 vesicularities
+vesiculate
 vesiculation
 vesiculations
 vesperal
@@ -99594,6 +99626,7 @@ westerner
 westernisations
 westernised
 westernize
+westernized
 westerns
 westings
 westmost
@@ -100991,6 +101024,7 @@ xylan
 xylans
 xylem
 xylems
+xylene
 xylidin
 xylidine
 xylidines
@@ -101073,6 +101107,7 @@ yardarms
 yardbirds
 yarded
 yarder
+yarders
 yarding
 yardlands
 yardmasters
