@@ -764,6 +764,7 @@ adducts
 adeem
 adeems
 ademption
+ademptions
 adenine
 adenines
 adenitis
@@ -798,6 +799,7 @@ adherers
 adheres
 adhering
 adhesion
+adhesions
 adhesive
 adhesively
 adhesiveness
@@ -1309,6 +1311,7 @@ afterbirths
 afterburner
 aftercares
 afterclap
+afterdamp
 afterdeck
 afterdecks
 aftereffect
@@ -1415,6 +1418,7 @@ agglutinogenic
 agglutinogens
 aggrade
 aggraded
+aggrandises
 aggrandising
 aggrandize
 aggrandized
@@ -5833,6 +5837,7 @@ awkwardly
 awkwardnesses
 awlwort
 awlworts
+awned
 awning
 awninged
 awnings
@@ -6151,6 +6156,7 @@ bacons
 bacteremic
 bacteria
 bacterin
+bacterins
 bacteriocins
 bacteriological
 bacteriologist
@@ -8548,6 +8554,7 @@ birdings
 birdlife
 birdlike
 birdlimed
+birdlimes
 birdman
 birdmen
 birds
@@ -12895,6 +12902,7 @@ casky
 casque
 casqued
 casques
+cassaba
 cassata
 cassation
 cassations
@@ -18758,6 +18766,7 @@ corruptibility
 corruptible
 corruptionists
 corruptions
+corruptly
 corruptnesses
 corruptors
 corsacs
@@ -23548,6 +23557,7 @@ diagnosticians
 diagnostics
 diagonalizable
 diagonalization
+diagonalize
 diagonalizes
 diagonally
 diagonals
@@ -28132,6 +28142,7 @@ encoded
 encodes
 encoding
 encomiast
+encomiastic
 encomium
 encomiums
 encompass
@@ -29922,6 +29933,7 @@ event
 eventful
 eventide
 eventides
+eventless
 events
 eventuated
 eventuates
@@ -34782,6 +34794,7 @@ furless
 furling
 furlong
 furlongs
+furlough
 furmenties
 furmities
 furmity
@@ -36872,6 +36885,7 @@ goldenrod
 goldenrods
 goldenseal
 goldenseals
+golder
 goldeye
 goldeyes
 goldfinch
@@ -38803,6 +38817,7 @@ handyperson
 hang
 hangable
 hangar
+hangared
 hangbird
 hanged
 hanging
@@ -45965,6 +45980,7 @@ jammed
 jammer
 jammers
 jammies
+jammiest
 jammy
 jampacked
 jane
@@ -48051,6 +48067,7 @@ lampyrid
 lamsters
 lanai
 lanais
+lanate
 lancelet
 lancelets
 lancer
@@ -48386,6 +48403,7 @@ lattins
 latu
 lauan
 lauans
+laud
 laudableness
 laudablenesses
 laudably
@@ -49972,6 +49990,7 @@ lodestars
 lodestones
 lodged
 lodgement
+lodgements
 lodger
 lodging
 lodicule
@@ -52530,6 +52549,7 @@ memoriter
 memorizable
 memorizations
 memorizers
+memorizes
 mems
 memsahib
 memsahibs
@@ -56994,6 +57014,7 @@ nephrons
 nephropathies
 nephropathy
 nephrostome
+nephrotic
 nephrotoxic
 nephrotoxicity
 nepotism
@@ -57223,6 +57244,7 @@ newspapermen
 newspapers
 newspeak
 newspeople
+newsperson
 newspersons
 newsprint
 newsreader
@@ -58390,6 +58412,7 @@ nonurgent
 nonusers
 nonuses
 nonusing
+nonutilitarian
 nonutilities
 nonvacant
 nonvalid
@@ -60920,6 +60943,7 @@ outrowed
 outrowing
 outrows
 outrun
+outrunner
 outruns
 outrush
 outrushed
@@ -62000,6 +62024,7 @@ overtalk
 overtalkative
 overtalked
 overtalking
+overtalks
 overtame
 overtart
 overtasked
@@ -66085,6 +66110,7 @@ pisolitic
 pisser
 pisses
 pissing
+pissoir
 pistareen
 pistareens
 pistes
@@ -70351,6 +70377,7 @@ pullup
 pullups
 pulmonate
 pulmonic
+pulpal
 pulper
 pulpers
 pulpily
@@ -70744,6 +70771,7 @@ pyjamas
 pyknic
 pyknics
 pylons
+pylori
 pyloric
 pylorus
 pyoderma
@@ -74011,6 +74039,7 @@ relaxed
 relaxedness
 relaxers
 relaxing
+relayed
 relays
 relearn
 relearned
@@ -74370,6 +74399,7 @@ rennin
 renographic
 renography
 renominating
+renomination
 renotified
 renotifies
 renotify
@@ -74800,6 +74830,7 @@ requirements
 requires
 requisite
 requisitenesses
+requisites
 requisition
 requisitioning
 requite
@@ -78419,6 +78450,7 @@ schavs
 schedular
 schedule
 scheduled
+scheduler
 schedulers
 schedules
 scheelite
@@ -85974,6 +86006,7 @@ structurally
 structuration
 structurations
 structure
+structured
 structureless
 structures
 structuring
@@ -89395,6 +89428,7 @@ telescopies
 telescoping
 telescopy
 teleses
+teleshop
 teleshops
 telestich
 telestichs
@@ -97937,6 +97971,7 @@ volts
 volubilities
 volubility
 volubly
+volume
 volumed
 volumes
 volumeter
