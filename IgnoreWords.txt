@@ -1544,6 +1544,7 @@ agriculture
 agriculturist
 agriculturists
 agrimonies
+agrimony
 agrochemical
 agrochemicals
 agroforester
@@ -8865,6 +8866,7 @@ blastoff
 blastomycoses
 blastomycosis
 blastopore
+blastopores
 blastospore
 blastospores
 blastulae
@@ -9277,6 +9279,7 @@ boarts
 boas
 boaster
 boastful
+boastfulness
 boasting
 boasts
 boatable
@@ -10348,6 +10351,7 @@ brecciated
 brecciates
 brecciation
 brecciations
+brechams
 brechan
 brechans
 bred
@@ -12251,6 +12255,7 @@ cantilever
 cantilevered
 cantilevering
 cantilevers
+cantillate
 cantillating
 cantillation
 cantillations
@@ -13176,6 +13181,7 @@ cattlemen
 cattleyas
 catty
 catwalk
+caucus
 caucuses
 caucusing
 caucussing
@@ -15884,6 +15890,7 @@ coatees
 coati
 coatimundi
 coatimundis
+coatis
 coatless
 coats
 coattail
@@ -17695,6 +17702,7 @@ conjunctive
 conjuncture
 conjunctures
 conjuntos
+conjured
 conjurer
 conjurers
 conjuror
@@ -18145,6 +18153,7 @@ controllability
 controllable
 controlled
 controller
+controllership
 controlment
 controls
 controversial
@@ -20394,6 +20403,7 @@ cumulative
 cumulatively
 cumuliform
 cumulonimbi
+cumulonimbus
 cumulonimbuses
 cumulus
 cunctation
@@ -27338,6 +27348,7 @@ egocentrisms
 egoist
 egoistical
 egoless
+egomania
 egomaniac
 egomaniacally
 egomaniacs
@@ -27427,6 +27438,7 @@ elastase
 elastic
 elasticities
 elasticized
+elastins
 elastomeric
 elastomers
 elated
@@ -30786,6 +30798,7 @@ extravasate
 extravasated
 extravasates
 extravasating
+extravasations
 extravehicular
 extraversion
 extravert
@@ -31336,6 +31349,7 @@ fasciations
 fascicle
 fascicled
 fascicles
+fasciculate
 fasciculations
 fascicules
 fasciculus
@@ -32029,6 +32043,7 @@ fiddlehead
 fiddleheads
 fiddler
 fiddlestick
+fideism
 fideisms
 fideist
 fideistic
@@ -36466,6 +36481,7 @@ glider
 gliders
 glides
 gliff
+gliffs
 glim
 glimed
 glimes
@@ -41587,6 +41603,7 @@ hydrobiology
 hydrocarbons
 hydrocast
 hydrocasts
+hydrocele
 hydroceles
 hydrocephalus
 hydrocephaluses
@@ -50158,6 +50175,7 @@ lookdowns
 looker
 lookers
 lookism
+lookist
 lookout
 lookouts
 looks
@@ -55426,6 +55444,7 @@ mosser
 mossers
 mossiest
 mossinesses
+mosslike
 mossy
 mostest
 mostly
@@ -56217,6 +56236,7 @@ mutualistic
 mutualists
 mutualities
 mutuality
+mutualizations
 mutualize
 mutualizes
 mutular
@@ -57636,6 +57656,7 @@ nomism
 nomisms
 nomistic
 nomogram
+nomograms
 nomograph
 nomographic
 nomography
@@ -59677,6 +59698,7 @@ ontologists
 onus
 onuses
 onward
+onwards
 onyx
 onyxes
 oocytes
@@ -62810,6 +62832,7 @@ pans
 pansexualities
 pansexuality
 pansophies
+pansy
 pantalones
 pantaloon
 pantdress
@@ -67330,6 +67353,7 @@ poofter
 poofy
 poohed
 pooing
+pooled
 pooler
 poolers
 poolhall
@@ -68032,6 +68056,7 @@ preallotted
 preallotting
 prealter
 prealtering
+preambled
 preamplifier
 preamplifiers
 preanal
@@ -74353,6 +74378,7 @@ renaturations
 renature
 renatures
 renaturing
+rencontres
 rencountering
 rend
 rended
@@ -76742,6 +76768,7 @@ roquets
 rorquals
 rosacea
 rosaceas
+rosaceous
 rosanilin
 rosanilins
 rosaria
@@ -79847,6 +79874,7 @@ sepulchred
 sepulchres
 sequacious
 sequacities
+sequacity
 sequel
 sequelae
 sequelized
@@ -81478,6 +81506,7 @@ sinfonias
 sinfonie
 sinfoniettas
 sinfulness
+sinfulnesses
 singable
 singalongs
 singe
@@ -81549,6 +81578,7 @@ sinusoidal
 sinusoidally
 sinusoids
 sipe
+siped
 sipes
 siphon
 siphonage
@@ -82708,6 +82738,7 @@ sniveling
 snivellers
 snob
 snobbery
+snobbier
 snobbish
 snobby
 snog
@@ -85962,6 +85993,7 @@ stromatic
 stromatolite
 stromatolites
 stromatolitic
+strong
 strongboxes
 stronger
 strongest
@@ -86694,6 +86726,7 @@ substantive
 substantiveness
 substantives
 substantivize
+substantivized
 substantivizes
 substantivizing
 substate
@@ -88228,6 +88261,7 @@ symbiont
 symbionts
 symbiosis
 symbiote
+symbol
 symbolic
 symbolical
 symbolise
@@ -98514,6 +98548,7 @@ warty
 warwork
 warworks
 warworn
+wary
 wasabi
 wasabis
 wash
