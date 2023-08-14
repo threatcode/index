@@ -95,6 +95,7 @@ absorb
 absorbabilities
 absorbance
 absorbancies
+absorbancy
 absorbant
 absorbants
 absorbed
@@ -1843,6 +1844,7 @@ alexandrine
 alexandrites
 alexia
 alexin
+alexines
 alexins
 alfalfas
 alfaqui
@@ -2415,6 +2417,7 @@ ambry
 ambsace
 ambulacral
 ambulacrum
+ambulance
 ambulances
 ambulant
 ambulate
@@ -7808,6 +7811,7 @@ bequeathal
 bequeaths
 bequest
 bequests
+berake
 beraking
 berascal
 berascals
@@ -11266,6 +11270,7 @@ bureaucratized
 bureaucrats
 bureaux
 buret
+burets
 burgage
 burgee
 burgees
@@ -13761,6 +13766,7 @@ chabouk
 chabouks
 chachkas
 chacma
+chaconne
 chaconnes
 chadars
 chador
@@ -19066,6 +19072,7 @@ cote
 coteau
 coted
 cotenancies
+cotenant
 coteries
 coterminous
 coterminously
@@ -19627,6 +19634,7 @@ cranially
 craning
 craniocerebral
 craniologies
+craniology
 craniometries
 craniometry
 craniosacral
@@ -21864,6 +21872,7 @@ decertify
 dechlorinate
 dechlorinates
 dechlorination
+deciare
 deciares
 decidability
 decidable
@@ -23367,6 +23376,7 @@ destabilizes
 destained
 destaining
 destains
+destination
 destines
 destitute
 destituted
@@ -26442,6 +26452,7 @@ drinkabilities
 drinkability
 drinkables
 drinkably
+drinker
 drinkers
 drinkings
 drip
@@ -32996,6 +33007,7 @@ flavor
 flavorful
 flavorfully
 flavorings
+flavorless
 flavorous
 flavorsome
 flavour
@@ -34759,6 +34771,7 @@ frows
 frowsier
 frowsiest
 frowsting
+frowsty
 frowsy
 frowziest
 frowzily
@@ -36683,6 +36696,7 @@ glasswork
 glassworks
 glassworts
 glauconites
+glauconitic
 glaucous
 glaucousness
 glaucousnesses
@@ -36955,6 +36969,7 @@ glutaraldehyde
 glutaraldehydes
 glutei
 glutelin
+glutenin
 glutenous
 glutethimides
 gluteus
@@ -45569,6 +45584,7 @@ intwine
 intwined
 intwining
 intwisted
+intwisting
 inulase
 inulases
 inulin
@@ -48597,6 +48613,7 @@ lappeted
 lapping
 laps
 lapsable
+lapsed
 lapsers
 lapses
 lapsible
@@ -48892,6 +48909,7 @@ laws
 lawsuit
 lawyer
 lawyering
+lawyerly
 lawyers
 lax
 laxation
@@ -52142,6 +52160,7 @@ marque
 marques
 marquessate
 marquessates
+marquesses
 marqueteries
 marquetries
 marquis
@@ -52263,6 +52282,7 @@ masochists
 masoned
 masoning
 masonites
+masque
 masqueraded
 masquerader
 masqueraders
@@ -53192,6 +53212,7 @@ meseemeth
 meseems
 mesencephalic
 mesenchymal
+mesenchyme
 mesenchymes
 mesentera
 mesenteries
@@ -57666,6 +57687,7 @@ neutralizer
 neutrals
 neutrino
 neutrinoless
+neutrinos
 neutron
 neutrons
 neutrophil
@@ -59916,6 +59938,7 @@ oglers
 ogles
 ogre
 ogreish
+ogreishly
 ogreism
 ogres
 ogress
@@ -67648,6 +67671,7 @@ polycyclic
 polycystic
 polycythemia
 polycythemias
+polycythemic
 polydactyl
 polydactylies
 polydactyly
@@ -70323,6 +70347,7 @@ prosaist
 prosateur
 prosateurs
 prosauropods
+proscenium
 prosciutto
 prosciuttos
 proscribe
@@ -75251,6 +75276,7 @@ repolish
 repolishes
 repoll
 repolls
+repopularize
 repopularized
 repopularizes
 repopularizing
@@ -80448,6 +80474,7 @@ sentimentalized
 sentimentally
 sentimo
 sentimos
+sentineled
 sentineling
 sentinels
 sentries
@@ -81869,6 +81896,7 @@ sievert
 sieverts
 sieves
 sifakas
+sift
 sifted
 sifters
 sifting
@@ -82836,6 +82864,7 @@ slinky
 slip
 slipcase
 slipcased
+slipcases
 slipcover
 slipcovered
 slipcovering
@@ -85212,6 +85241,7 @@ squalid
 squalider
 squalidest
 squalidly
+squalled
 squallers
 squallier
 squalling
@@ -89591,6 +89621,7 @@ tangibilities
 tangibility
 tangible
 tangiblenesses
+tangibles
 tangier
 tanginess
 tangled
@@ -93024,6 +93055,7 @@ trevallys
 trevet
 trevets
 trews
+treys
 triac
 triacetates
 triacids
@@ -93220,6 +93252,7 @@ triglyph
 triglyphical
 triglyphs
 trignesses
+trigonometric
 trigonometrical
 trigonometries
 trigos
@@ -97983,6 +98016,7 @@ vermicelli
 vermicide
 vermicides
 vermiculate
+vermiculated
 vermifuge
 vermifuges
 vermilion
@@ -98794,6 +98828,7 @@ volutin
 volutins
 volvas
 volvox
+volvuli
 volvulus
 vomer
 vomerine
