@@ -2329,6 +2329,7 @@ amalgamations
 amalgamator
 amalgamators
 amalgams
+amanitas
 amanitin
 amanitins
 amanuenses
@@ -3631,6 +3632,7 @@ antiphonal
 antiphonals
 antiphonaries
 antiphons
+antiphrasis
 antipiracy
 antiplague
 antiplaque
@@ -9974,6 +9976,7 @@ bother
 botherations
 bothering
 bothersome
+bothria
 bothriums
 botonee
 botonnee
@@ -13089,6 +13092,7 @@ cassaba
 cassata
 cassation
 cassations
+cassava
 cassavas
 cassenas
 cassenes
@@ -14410,6 +14414,7 @@ chemurgies
 chenopod
 cheongsams
 cheque
+chequer
 chequered
 chequering
 chequers
@@ -26627,6 +26632,7 @@ drivelled
 drivellers
 drivels
 driven
+driver
 driverless
 driveshaft
 driveshafts
@@ -30934,6 +30940,7 @@ expertizing
 expertly
 expertness
 expertnesses
+experts
 expiate
 expiating
 expiation
@@ -35533,6 +35540,7 @@ galavants
 galax
 galaxies
 galbanum
+galbanums
 gale
 galeas
 galeate
@@ -37504,6 +37512,7 @@ goodness
 goods
 goodwife
 goodwives
+goody
 gooeyness
 goof
 goofballs
@@ -41803,6 +41812,7 @@ housemates
 housemen
 housemothers
 housepainters
+houseparents
 housepersons
 houseplants
 houser
@@ -44457,6 +44467,7 @@ infinitively
 infinitude
 infirm
 infirmed
+infirming
 infirmity
 infirms
 infixation
@@ -47723,6 +47734,7 @@ keyboardists
 keyboards
 keybutton
 keycards
+keyhole
 keyholes
 keying
 keyless
@@ -53676,6 +53688,7 @@ metalworks
 metamer
 metamere
 metameres
+metameric
 metamerically
 metamerism
 metamerisms
@@ -56827,6 +56840,7 @@ mural
 muralist
 muralists
 muralled
+muras
 murderee
 murderess
 murderesses
@@ -59534,6 +59548,7 @@ nubbly
 nubby
 nubias
 nubility
+nubilose
 nubilous
 nubs
 nubuck
@@ -62680,6 +62695,7 @@ overoptimisms
 overoptimistic
 overorchestrate
 overorganized
+overornament
 overornamented
 overpack
 overpackage
@@ -65845,6 +65861,7 @@ petrogeny
 petroglyph
 petrographer
 petrographic
+petrographical
 petrography
 petrolatum
 petrolatums
@@ -66134,6 +66151,7 @@ phonal
 phonate
 phonated
 phonates
+phonathons
 phonating
 phonation
 phonations
@@ -67898,6 +67916,7 @@ pokable
 poke
 pokeberry
 poked
+poker
 pokeweed
 pokeweeds
 pokey
@@ -69368,6 +69387,7 @@ preferences
 preferential
 preferment
 preferments
+preferred
 preferrer
 preferrers
 prefiguration
@@ -70575,6 +70595,7 @@ promisees
 promises
 promising
 promisors
+promissory
 promo
 promoing
 promontories
@@ -73641,6 +73662,7 @@ rechauffes
 recheat
 recheats
 rechecked
+rechew
 rechews
 rechoosing
 rechoreographs
@@ -76832,6 +76854,7 @@ reverb
 reverbed
 reverberant
 reverberantly
+reverberated
 reverberates
 reverberating
 reverberation
@@ -77445,6 +77468,7 @@ riotousness
 riotousnesses
 riots
 rip
+riparian
 ripcord
 ripcords
 riped
@@ -80404,6 +80428,7 @@ sectaries
 sectary
 sectile
 sectionalism
+sectionals
 sectioned
 sectioning
 sections
@@ -82148,6 +82173,7 @@ shrewlike
 shrewmouse
 shrews
 shrieked
+shriekers
 shriekier
 shriekiest
 shrieks
@@ -87348,6 +87374,7 @@ stuffy
 stuiver
 stuivers
 stulls
+stultification
 stultifies
 stultify
 stumbled
@@ -88250,6 +88277,7 @@ sugarier
 sugariest
 sugarless
 sugarlike
+sugarloaf
 sugarloaves
 sugars
 sugary
@@ -98483,6 +98511,7 @@ venire
 venireman
 venires
 venisons
+venogram
 venograms
 venographies
 venology
@@ -98510,6 +98539,7 @@ ventricular
 ventriculi
 ventriculus
 ventriloquial
+ventriloquially
 ventriloquies
 ventriloquism
 ventriloquist
@@ -98806,6 +98836,7 @@ vicarage
 vicarate
 vicarates
 vicarial
+vicariance
 vicariances
 vicariant
 vicariate
@@ -98892,6 +98923,7 @@ vied
 viewdata
 viewed
 viewer
+viewfinders
 viewiest
 viewing
 viewings
@@ -99786,6 +99818,7 @@ wamefuls
 wammuses
 wampished
 wampishing
+wampum
 wampumpeag
 wampumpeags
 wamuses
@@ -102253,6 +102286,7 @@ zagging
 zaibatsu
 zaikai
 zaikais
+zaire
 zamarra
 zamarras
 zamindar
@@ -102529,6 +102563,7 @@ zwitterion
 zwitterionic
 zygapophysis
 zygoid
+zygoma
 zygomas
 zygomata
 zygomatics
