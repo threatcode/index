@@ -3508,6 +3508,7 @@ antigenic
 antigenically
 antigenicities
 antiglare
+antiglobulins
 antigraft
 antigravities
 antigrowth
@@ -13441,6 +13442,7 @@ ceased
 ceasefires
 ceaselessly
 ceaselessness
+ceaselessnesses
 ceasing
 cebid
 cebids
@@ -16806,6 +16808,7 @@ colonization
 colonizationist
 colonized
 colonizers
+colonizes
 colonnade
 colonnaded
 colonnades
@@ -18351,6 +18354,7 @@ controversies
 controverter
 controverters
 controverts
+contumacious
 contumaciously
 contumacy
 contumelies
@@ -19282,6 +19286,7 @@ countermemos
 countermen
 countermines
 countermove
+countermovement
 countermyths
 counteroffer
 counteroffers
@@ -19768,6 +19773,7 @@ crazy
 crazyweeds
 creak
 creaked
+creakier
 creakiest
 creakily
 creakinesses
@@ -23694,6 +23700,7 @@ devoirs
 devolutionary
 devolutionist
 devolutions
+devolved
 devolves
 devolving
 devon
@@ -27949,6 +27956,7 @@ elucidating
 elucidative
 elucidators
 elucubrate
+elucubrated
 elucubrates
 elucubration
 elucubrations
@@ -30555,6 +30563,7 @@ execrator
 execs
 executant
 executants
+execute
 executer
 executers
 executes
@@ -30765,6 +30774,7 @@ expanders
 expanding
 expands
 expanse
+expanses
 expansibilities
 expansible
 expansional
@@ -36361,6 +36371,7 @@ gerontic
 gerontocratic
 gerontocrats
 gerontologists
+gerontology
 gerontomorphic
 gerrymandered
 gerund
@@ -37743,6 +37754,7 @@ granulomatous
 granulose
 granulosis
 granum
+grapefruit
 grapelike
 graperies
 grapevine
@@ -38739,6 +38751,7 @@ gyplures
 gypped
 gypper
 gyppers
+gyps
 gypseian
 gypseous
 gypsies
@@ -52846,6 +52859,7 @@ meddled
 meddler
 meddlers
 meddles
+medevaced
 medevacing
 medevacking
 medevacs
@@ -57662,6 +57676,7 @@ nephelometric
 nephelometry
 nephews
 nephogram
+nephograms
 nephologies
 nephoscopes
 nephrectomize
@@ -58419,6 +58434,7 @@ noncapitalist
 noncapitalists
 noncarcinogen
 noncarcinogenic
+noncarcinogens
 noncareer
 noncarriers
 noncash
@@ -59565,6 +59581,7 @@ nyctalopias
 nylghai
 nylghais
 nylghau
+nylons
 nymph
 nympha
 nymphalid
@@ -60548,6 +60565,7 @@ oppressing
 oppressively
 oppressor
 opprobrious
+opprobriously
 opprobriums
 oppugn
 oppugnant
@@ -64614,6 +64632,7 @@ pecky
 pecorini
 pecorino
 pecs
+pectates
 pecten
 pectens
 pectic
@@ -66336,6 +66355,7 @@ pibroch
 pica
 picacho
 picachos
+picadillo
 picadillos
 picador
 picadores
@@ -79918,6 +79938,7 @@ scull
 sculled
 sculler
 sculling
+scullion
 scullions
 sculls
 sculped
@@ -80826,6 +80847,7 @@ sered
 serein
 sereins
 serenade
+serenaders
 serenades
 serenading
 serenatas
@@ -80889,6 +80911,7 @@ seriousness
 seriousnesses
 serjeant
 serjeanties
+serjeants
 sermonettes
 sermonizer
 sermonizers
@@ -81102,6 +81125,7 @@ sexualizes
 sexually
 sexy
 sforzandi
+sforzando
 sforzandos
 sforzato
 sha
@@ -84967,6 +84991,7 @@ spikenards
 spikers
 spikes
 spikily
+spikiness
 spiks
 spiky
 spiled
@@ -85816,6 +85841,7 @@ stampers
 stampless
 stamps
 stance
+stances
 stanch
 stancher
 stanchers
@@ -87368,6 +87394,7 @@ subepidermal
 suberic
 suberins
 suberised
+suberises
 suberization
 suberize
 suberized
@@ -88123,6 +88150,7 @@ summary
 summate
 summated
 summating
+summation
 summational
 summative
 summed
@@ -88277,6 +88305,7 @@ superathlete
 superathletes
 superatoms
 superbank
+superbanks
 superbest
 superbitches
 superbness
@@ -88511,6 +88540,7 @@ superschool
 superschools
 superscout
 superscouts
+superscribed
 superscribes
 superscribing
 superscript
@@ -90042,6 +90072,7 @@ tarps
 tarradiddle
 tarragon
 tarragons
+tarred
 tarried
 tarrier
 tarriers
@@ -93073,6 +93104,7 @@ transplantable
 transplantation
 transplanter
 transplanters
+transponders
 transpontine
 transported
 transporter
@@ -101464,6 +101496,7 @@ wuss
 wusses
 wussier
 wussiest
+wussy
 wuther
 wuthering
 wuthers
@@ -101633,6 +101666,7 @@ yarder
 yarders
 yarding
 yardlands
+yardman
 yardmasters
 yardmen
 yards
@@ -101711,6 +101745,7 @@ yeasty
 yecch
 yecchs
 yechs
+yeelin
 yeelins
 yegg
 yeggs
