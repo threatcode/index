@@ -3909,6 +3909,7 @@ aphanite
 aphasia
 aphasiac
 aphasias
+aphasic
 aphasics
 aphelia
 aphelion
@@ -6498,6 +6499,7 @@ baloney
 baloneys
 bals
 balsa
+balsam
 balsamed
 balsamic
 balsaming
@@ -7525,6 +7527,7 @@ beget
 begets
 beggar
 beggaries
+beggarliness
 beggarly
 beggars
 begging
@@ -13358,6 +13361,7 @@ caterwaul
 caterwauling
 caterwauls
 cates
+catfacing
 catfight
 catfights
 catguts
@@ -14448,6 +14452,7 @@ cheloid
 cheloids
 chelonian
 chelonians
+chemics
 chemises
 chemisettes
 chemism
@@ -14905,6 +14910,7 @@ cholelithiasis
 cholent
 cholents
 choler
+cholera
 choleraic
 cholers
 cholestasis
@@ -15436,6 +15442,7 @@ citizenries
 citizenry
 citizens
 citizenships
+citola
 citolas
 citole
 citoles
@@ -16026,6 +16033,7 @@ clubhand
 clubhands
 clubhauled
 clubhauling
+clubhauls
 clubhead
 clubheads
 clubhouse
@@ -22907,6 +22915,7 @@ demises
 demising
 demission
 demissions
+demister
 demit
 demitasse
 demitasses
@@ -27017,6 +27026,7 @@ duma
 dumbbell
 dumbcanes
 dumbed
+dumbfounded
 dumbfounder
 dumbfoundered
 dumbfoundering
@@ -29139,6 +29149,7 @@ enskies
 enskyed
 enslave
 enslaved
+enslavement
 enslavers
 enslaves
 ensnare
@@ -32515,6 +32526,7 @@ fewer
 fewnesses
 fey
 feyest
+feynesses
 fez
 fezes
 fezzed
@@ -33244,6 +33256,7 @@ flapping
 flappy
 flaps
 flare
+flareback
 flared
 flares
 flareup
@@ -38321,6 +38334,7 @@ grifter
 grifts
 grig
 grigris
+grill
 grillades
 grillages
 grille
@@ -38624,6 +38638,7 @@ grungy
 grunions
 grunted
 grunter
+grunters
 gruntle
 gruntled
 gruntles
@@ -40490,6 +40505,7 @@ hemophiliacs
 hemophilias
 hemopoieses
 hemopoiesis
+hemopoietic
 hemorrhages
 hemorrhaging
 hemorrhoid
@@ -49748,6 +49764,7 @@ lekythos
 lekythus
 lemma
 lemmata
+lemmatize
 lemmatizes
 lemmatizing
 lemming
@@ -51202,6 +51219,7 @@ loudest
 loudlier
 loudliest
 loudmouthed
+loudnesses
 loudspeakers
 lough
 loughs
@@ -52662,6 +52680,7 @@ marlinspike
 marlite
 marls
 marlstone
+marlstones
 marmalade
 marmites
 marmots
@@ -53298,6 +53317,7 @@ medusoids
 meekest
 meekly
 meeknesses
+meerkat
 meerschaums
 meet
 meeter
@@ -53668,6 +53688,7 @@ mercuric
 mercuries
 mercy
 mere
+merely
 merengue
 merengues
 merer
@@ -58245,6 +58266,7 @@ neurotropic
 neurulae
 neurular
 neurulas
+neurulation
 neustic
 neuston
 neustonic
@@ -62760,6 +62782,7 @@ overgovern
 overgoverning
 overgrazed
 overgreat
+overgrow
 overgrown
 overgrows
 overgrowths
@@ -69375,6 +69398,7 @@ prebuy
 prebuying
 precalculi
 precalculus
+precalculuses
 precancel
 precanceled
 precancelled
@@ -69607,6 +69631,7 @@ preempt
 preempted
 preemptions
 preemptive
+preemptively
 preemptor
 preemptors
 preempts
@@ -70239,6 +70264,7 @@ pretrim
 pretrimming
 prettier
 pretties
+prettiest
 prettification
 prettifier
 prettifiers
@@ -73345,6 +73371,7 @@ ratites
 ratlike
 ratlins
 ratoon
+ratooners
 ratooning
 ratoons
 ratos
@@ -85748,6 +85775,7 @@ splake
 splanchnic
 splash
 splashboards
+splashdown
 splashdowns
 splasher
 splashers
@@ -86331,6 +86359,7 @@ stadtholder
 stadtholderate
 stadtholderates
 stadtholders
+staff
 staffer
 staffers
 staffing
@@ -88260,6 +88289,7 @@ subreptitiously
 subrogating
 subrogation
 subrogations
+subroutine
 subrule
 subs
 subsale
@@ -89152,6 +89182,7 @@ superpowers
 superpremium
 superprofit
 superprofits
+superquality
 superrace
 superreal
 superrealisms
@@ -95681,6 +95712,7 @@ unappealing
 unappealingly
 unappeasable
 unappeasably
+unappeased
 unappetizing
 unappetizingly
 unapplied
@@ -97581,6 +97613,7 @@ unstarred
 unstartling
 unstate
 unstated
+unstating
 unsteadied
 unsteadier
 unsteadies
@@ -101622,6 +101655,7 @@ wirra
 wis
 wise
 wiseasses
+wisecrack
 wiseguy
 wiselier
 wisely
@@ -101925,6 +101959,7 @@ woolman
 woolmen
 wools
 woolshed
+woolskins
 woolwork
 woolworks
 woomera
