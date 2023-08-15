@@ -662,6 +662,7 @@ actionable
 actionably
 actionless
 actions
+activated
 activating
 actively
 activeness
@@ -6214,6 +6215,7 @@ backloading
 backloads
 backlog
 backlogged
+backlogging
 backmost
 backout
 backouts
@@ -7726,6 +7728,7 @@ bellyache
 bellyached
 bellyacher
 bellyachers
+bellyaching
 bellyband
 bellybands
 bellying
@@ -13339,6 +13342,7 @@ catarrhines
 catarrhs
 catastrophe
 catastrophes
+catastrophism
 catastrophisms
 catastrophists
 catatonia
@@ -15552,6 +15556,7 @@ civilised
 civilises
 civilities
 civilizations
+civilizers
 civilizing
 civilly
 civilness
@@ -19709,6 +19714,7 @@ coverall
 coveralled
 coveralls
 covering
+coverlid
 covers
 coversine
 coverslips
@@ -23480,6 +23486,7 @@ derm
 derma
 dermabrasion
 dermas
+dermatitis
 dermatogens
 dermatoglyphics
 dermatological
@@ -25938,6 +25945,7 @@ dobsonfly
 dobsons
 doby
 docent
+docetic
 docile
 docilely
 docilities
@@ -29376,6 +29384,7 @@ entourages
 entozoa
 entozoan
 entozoans
+entozoic
 entrails
 entrained
 entrainer
@@ -34826,6 +34835,7 @@ frailer
 frailly
 frails
 frailty
+fraises
 fraktur
 frakturs
 framable
@@ -36317,6 +36327,7 @@ gauss
 gausses
 gauzier
 gauziest
+gauziness
 gauzy
 gave
 gavel
@@ -37114,6 +37125,7 @@ glade
 gladelike
 gladiate
 gladiator
+gladiatorial
 gladiola
 gladioluses
 gladlier
@@ -37208,6 +37220,7 @@ glauconitic
 glaucous
 glaucousness
 glaucousnesses
+glazed
 glazer
 glazers
 glazier
@@ -43935,6 +43948,7 @@ inactions
 inactivated
 inactivation
 inactive
+inactively
 inactivities
 inactivity
 inadequacies
@@ -46891,6 +46905,7 @@ jacketed
 jacketing
 jacketless
 jackets
+jackfish
 jackfishes
 jackfruit
 jackfruits
@@ -46903,6 +46918,7 @@ jackknifing
 jackknives
 jacklegs
 jacklight
+jacklighted
 jacklighting
 jacklights
 jackplane
@@ -56286,6 +56302,7 @@ monopolise
 monopolised
 monopolises
 monopolist
+monopolistic
 monopolists
 monopolizations
 monopolize
@@ -56991,6 +57008,7 @@ mugwump
 muhly
 mujahedeen
 mujahedin
+mujahideen
 mujiks
 muktuks
 mulatto
@@ -60318,6 +60336,7 @@ obligatorily
 obligatos
 obliged
 obligees
+obliger
 obligingness
 oblique
 obliqued
@@ -61661,6 +61680,7 @@ osteotome
 osteotomies
 ostiary
 ostinati
+ostiolar
 ostlers
 ostomate
 ostomates
@@ -63119,6 +63139,7 @@ overmedicating
 overmedication
 overmeek
 overmelt
+overmelted
 overmighty
 overmild
 overmilk
@@ -63184,6 +63205,7 @@ overplotting
 overpluses
 overply
 overplying
+overpopulates
 overpopulating
 overpopulation
 overpopulations
@@ -72273,6 +72295,7 @@ pushingly
 pushover
 pushovers
 pushpin
+pushpins
 pushrod
 pushup
 pushups
@@ -74745,6 +74768,7 @@ redlegs
 redlined
 redliner
 redliners
+redlines
 redlinings
 rednecks
 redo
@@ -75442,6 +75466,7 @@ rehumanizes
 rehung
 rehydrate
 rehydrates
+rehydrating
 rehydration
 rehydrations
 rehypnotize
@@ -80529,6 +80554,7 @@ scoring
 scorn
 scorned
 scorner
+scorners
 scornfully
 scornfulness
 scornfulnesses
@@ -80910,6 +80936,7 @@ seamanship
 seamanships
 seamark
 seamarks
+seamed
 seamlessness
 seamlike
 seamster
@@ -86337,6 +86364,7 @@ springalds
 springals
 springboard
 springbok
+springboks
 springer
 springers
 springes
@@ -86521,6 +86549,7 @@ squeegees
 squeezabilities
 squeezability
 squeezable
+squeeze
 squeezed
 squeezers
 squeezes
@@ -95272,6 +95301,7 @@ tunneler
 tunnelers
 tunneling
 tunnelings
+tunneller
 tunny
 tuns
 tupiks
@@ -97801,6 +97831,7 @@ unsealing
 unseam
 unseamed
 unseaming
+unsearchable
 unsearchably
 unseasonably
 unseat
@@ -98149,6 +98180,7 @@ unwariness
 unwarinesses
 unwarped
 unwarranted
+unwashedness
 unwasheds
 unwatched
 unwavering
@@ -101146,6 +101178,7 @@ weevily
 weeweed
 weft
 wefts
+weigela
 weigelas
 weigelias
 weigh
@@ -102138,6 +102171,7 @@ woefuller
 woefulnesses
 woful
 wofuller
+wog
 wogs
 woks
 wold
@@ -102892,6 +102926,7 @@ yeoman
 yeomanries
 yeomen
 yerbas
+yerk
 yerked
 yes
 yeshivahs
