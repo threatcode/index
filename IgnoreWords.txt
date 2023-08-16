@@ -234,6 +234,7 @@ acceleration
 accelerations
 accelerative
 accelerators
+accelerometer
 accented
 accenting
 accentless
@@ -530,6 +531,7 @@ acknowledged
 acknowledgedly
 acknowledgment
 acknowledgments
+aclinic
 acme
 acne
 acned
@@ -1691,6 +1693,7 @@ airmen
 airmobile
 airns
 airpark
+airparks
 airplanes
 airport
 airports
@@ -5865,6 +5868,7 @@ avaricious
 avariciously
 avariciousness
 avascularities
+avatar
 avatars
 avaunt
 ave
@@ -8056,6 +8060,7 @@ beslimes
 besliming
 besmear
 besmearers
+besmearing
 besmears
 besmiled
 besmiles
@@ -12277,6 +12282,7 @@ calmingly
 calmly
 calmness
 calmodulin
+calmodulins
 calomel
 calorically
 calorics
@@ -14066,6 +14072,7 @@ cessations
 cessed
 cessing
 cesspit
+cesspits
 cesspool
 cestas
 cesti
@@ -15467,6 +15474,7 @@ cinderous
 cinders
 cine
 cinema
+cinemas
 cinematheque
 cinematheques
 cinematic
@@ -15938,6 +15946,7 @@ clearings
 clearly
 clearness
 clearstories
+clearstory
 clearweed
 clearwings
 cleat
@@ -22232,6 +22241,7 @@ debouched
 debride
 debridement
 debriding
+debrief
 debriefed
 debriefs
 debris
@@ -22896,6 +22906,7 @@ degrades
 degranulation
 degranulations
 degrease
+degreaser
 degreasing
 degreed
 degrees
@@ -23637,6 +23648,7 @@ deraigning
 derailing
 derailleur
 derailleurs
+derailment
 derangements
 derangers
 deranges
@@ -26832,6 +26844,7 @@ draggled
 draggling
 draggy
 dragline
+draglines
 dragnet
 dragnets
 dragomen
@@ -27948,6 +27961,7 @@ ectosarc
 ectotherm
 ectothermic
 ectotherms
+ectozoon
 ectype
 ecumenically
 ecumenicism
@@ -28225,6 +28239,7 @@ ejected
 ejections
 ejective
 ejectives
+ejectments
 ejectors
 ejects
 eke
@@ -29383,6 +29398,7 @@ enneads
 ennoble
 ennoblements
 ennobler
+ennobles
 ennuye
 ennuyee
 enoki
@@ -33907,6 +33923,7 @@ flippest
 flipping
 flippy
 flir
+flirt
 flirtation
 flirtations
 flirtatious
@@ -36683,6 +36700,7 @@ gearwheels
 gecked
 gecko
 geckos
+gecks
 ged
 geds
 geed
@@ -38890,6 +38908,7 @@ grommeting
 grommets
 groom
 groomer
+grooms
 groomsmen
 groove
 grooved
@@ -41232,6 +41251,7 @@ heterologous
 heterologously
 heterolysis
 heteromorphic
+heteromorphisms
 heteronomous
 heteronomy
 heteronyms
@@ -48144,9 +48164,11 @@ kain
 kainites
 kainits
 kaiserdom
+kaiserdoms
 kaiserism
 kaiserisms
 kaisers
+kajeput
 kajeputs
 kakapo
 kaki
@@ -53101,6 +53123,7 @@ mapmaker
 mapped
 mapper
 mappers
+mapping
 maps
 maquis
 mar
@@ -56219,6 +56242,7 @@ mixer
 mixers
 mixes
 mixible
+mixologist
 mixture
 mixup
 mixups
@@ -56359,6 +56383,7 @@ mofette
 mofettes
 moffette
 mogged
+moggie
 moggies
 mogging
 moghul
@@ -58899,6 +58924,7 @@ neurotoxicity
 neurotoxin
 neurotoxins
 neurotropic
+neurula
 neurulae
 neurular
 neurulas
@@ -61668,6 +61694,7 @@ opsin
 opsins
 opsonic
 opsonified
+opsonify
 opsonin
 opsonins
 opsonize
@@ -68109,6 +68136,7 @@ piston
 pistons
 pistou
 pita
+pitahaya
 pitapat
 pitas
 pitayas
@@ -68455,6 +68483,7 @@ playacting
 playactings
 playacts
 playas
+playback
 playbill
 playbills
 playbook
@@ -71221,6 +71250,7 @@ primus
 primuses
 prince
 princedoms
+princelet
 princelets
 princelier
 princelings
@@ -74019,6 +74049,7 @@ ranted
 ranters
 ranting
 rants
+ranula
 ranular
 ranulas
 ranunculi
@@ -75593,6 +75624,7 @@ refallen
 refalling
 refashion
 refashioned
+refashioning
 refashions
 refastened
 refastens
@@ -91888,6 +91920,7 @@ taxation
 taxations
 taxemes
 taxemic
+taxer
 taxi
 taxicab
 taxicabs
@@ -103373,6 +103406,7 @@ wrung
 wry
 wryer
 wryest
+wryly
 wryneck
 wrynecks
 wryness
@@ -103746,6 +103780,7 @@ yodled
 yodler
 yodlers
 yodles
+yodling
 yods
 yoga
 yogas
