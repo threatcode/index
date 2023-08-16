@@ -2546,6 +2546,7 @@ amidogens
 amidol
 amidone
 amidones
+amids
 amidship
 amidst
 amie
@@ -5429,6 +5430,7 @@ attemper
 attempered
 attempering
 attempers
+attempt
 attemptable
 attempted
 attempters
@@ -8542,6 +8544,7 @@ binge
 binged
 bingeing
 bingers
+binges
 binging
 bingoes
 binit
@@ -16441,6 +16444,7 @@ cockily
 cockiness
 cockinesses
 cocking
+cockish
 cockle
 cockleburs
 cockles
@@ -17387,6 +17391,7 @@ communicant
 communicants
 communicated
 communicatee
+communicating
 communication
 communicational
 communicative
@@ -17620,6 +17625,7 @@ comprized
 comprizes
 compromiser
 compromising
+compted
 compting
 comptroller
 comptrollers
@@ -21880,6 +21886,7 @@ databased
 databases
 databasing
 dataries
+dateable
 datedly
 datedness
 datelines
@@ -31490,6 +31497,7 @@ extenuator
 extenuators
 extenuatory
 exteriorised
+exteriorises
 exteriorising
 exteriorities
 exteriority
@@ -34649,6 +34657,7 @@ forgivable
 forgivably
 forgiveness
 forgivenesses
+forgiver
 forgivingness
 forgivingnesses
 forgo
@@ -36689,6 +36698,7 @@ genet
 genetic
 genetical
 genetically
+geneticist
 geneticists
 genetics
 genets
@@ -38124,6 +38134,7 @@ grabbler
 grabblers
 grabbles
 grabby
+graben
 graceful
 gracefullest
 gracefully
@@ -47734,6 +47745,7 @@ judgements
 judgers
 judges
 judgeship
+judgeships
 judging
 judgmatical
 judgment
@@ -50679,6 +50691,7 @@ limbic
 limbier
 limbiest
 limbing
+limbless
 limbos
 limbus
 limbuses
@@ -55706,6 +55719,7 @@ misogynist
 misogynistic
 misogyny
 misologies
+misology
 misoneism
 misoneist
 misoneists
@@ -57132,6 +57146,7 @@ muckle
 muckluck
 mucklucks
 muckraked
+muckworms
 mucky
 mucluc
 muclucs
@@ -57420,6 +57435,7 @@ mumbler
 mumblers
 mumbles
 mumbling
+mumbly
 mummed
 mummeries
 mummied
@@ -61464,6 +61480,7 @@ optima
 optimal
 optimalities
 optime
+optimisation
 optimisations
 optimised
 optimises
@@ -68780,6 +68797,7 @@ politicises
 politicize
 politicizes
 politicked
+politickers
 politicking
 politicks
 politicly
@@ -74394,6 +74412,7 @@ reburial
 reburials
 reburied
 reburies
+rebury
 reburying
 rebut
 rebuts
@@ -74639,6 +74658,7 @@ recombinants
 recombinational
 recombing
 recombining
+recommenced
 recommencement
 recommences
 recommencing
@@ -77224,6 +77244,7 @@ respirator
 respirators
 respire
 respiring
+respiritualize
 respiritualized
 respiritualizes
 respirometer
@@ -79550,6 +79571,7 @@ sagger
 saggered
 saggering
 saggers
+saggier
 saggiest
 sagging
 sagier
@@ -79927,6 +79949,7 @@ sanidines
 sanitarians
 sanitaries
 sanitarily
+sanitariums
 sanitated
 sanitating
 sanitation
@@ -83589,6 +83612,7 @@ silverpoint
 silvers
 silverside
 silversides
+silversmithing
 silversmithings
 silversmiths
 silverware
@@ -83799,6 +83823,7 @@ sistered
 sisterhoods
 sistering
 sisters
+sistra
 sistroid
 sistrum
 sistrums
@@ -85245,6 +85270,7 @@ softheadedness
 softheads
 softhearted
 softheartedly
+softheartedness
 softies
 softish
 softnesses
@@ -87469,6 +87495,7 @@ stencilled
 stencillers
 stencilling
 stencils
+stenobath
 stenobaths
 stenographer
 stenographic
@@ -90264,6 +90291,7 @@ swainish
 swale
 swallow
 swallowable
+swallower
 swallowers
 swallowtail
 swam
@@ -94066,6 +94094,7 @@ townees
 townfolk
 townhome
 townhomes
+townhouse
 townies
 townish
 townless
@@ -95899,6 +95928,7 @@ twibill
 twibills
 twibils
 twiddle
+twiddled
 twiddler
 twiddlers
 twiddles
@@ -97420,6 +97450,7 @@ ungarbed
 ungarnished
 ungated
 ungazing
+ungenerosity
 ungenial
 ungentle
 ungently
@@ -100237,6 +100268,7 @@ violet
 violets
 violinistic
 violinists
+violins
 violoncellist
 violoncellists
 violone
@@ -100920,6 +100952,7 @@ waive
 waived
 waiver
 waivers
+waiving
 wakame
 wakames
 wake
@@ -101302,6 +101335,7 @@ waterweeds
 waterwork
 waterzoois
 wattage
+wattapes
 wattest
 watthour
 watthours
@@ -103253,6 +103287,7 @@ year
 yearbook
 yearbooks
 yearend
+yearends
 yearlong
 yearn
 yearner
