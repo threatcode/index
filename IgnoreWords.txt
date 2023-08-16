@@ -11845,6 +11845,7 @@ cabinmate
 cabins
 cable
 cablecasting
+cables
 cablets
 cabling
 cabman
@@ -12044,6 +12045,7 @@ calamary
 calamata
 calami
 calamine
+calamined
 calamint
 calamints
 calamite
@@ -12680,6 +12682,7 @@ capless
 caplet
 caplin
 caplins
+capmakers
 capo
 capoeira
 capoeiras
@@ -13086,6 +13089,7 @@ carpology
 carpooled
 carpooling
 carpools
+carpophore
 carpophores
 carpospore
 carps
@@ -13713,6 +13717,7 @@ cellarway
 cellarways
 cellblock
 cellblocks
+cellmate
 cello
 cellobiose
 cellophanes
@@ -17149,6 +17154,7 @@ comatula
 combat
 combatant
 combatants
+combating
 combative
 combatively
 combativeness
@@ -18714,6 +18720,7 @@ convokes
 convoking
 convolute
 convolutes
+convoluting
 convolved
 convolves
 convolving
@@ -19255,6 +19262,7 @@ cortically
 corticoid
 corticoids
 corticosterone
+corticosterones
 corticotrophin
 corticotrophins
 corticotropin
@@ -22065,6 +22073,7 @@ debauchees
 debaucher
 debauchers
 debauchery
+debauches
 debeak
 debeaked
 debeaking
@@ -24102,6 +24111,7 @@ diabetologist
 diablery
 diabolic
 diabolically
+diabolism
 diabolisms
 diabolist
 diabolists
@@ -25297,6 +25307,7 @@ dishing
 dishonesties
 dishonesty
 dishonorable
+dishonored
 dishonorer
 dishonoring
 dishonors
@@ -25486,6 +25497,7 @@ dispersion
 dispersive
 dispersively
 dispersiveness
+dispersoid
 dispersoids
 dispiritedly
 dispiriting
@@ -25767,6 +25779,7 @@ distorting
 distortion
 distortions
 distorts
+distract
 distractible
 distractingly
 distracts
@@ -26015,6 +26028,7 @@ dockhands
 docking
 docklands
 dockmasters
+dockworkers
 dockyard
 dockyards
 doctorates
@@ -26919,6 +26933,7 @@ drolls
 dromon
 drone
 droned
+droners
 drones
 drongo
 drongos
@@ -37530,6 +37545,7 @@ glucosidase
 glucosidases
 glucoside
 glucuronide
+glucuronides
 gluelike
 gluepot
 gluers
@@ -40629,6 +40645,7 @@ helpings
 helplessness
 helpmate
 helpmates
+helpmeet
 helpmeets
 helps
 helve
@@ -44982,6 +44999,7 @@ infrastructures
 infrequence
 infrequences
 infrequencies
+infrequency
 infrequent
 infringe
 infringed
@@ -46092,6 +46110,7 @@ intervalometer
 intervalometers
 intervals
 intervene
+intervened
 intervener
 intervenes
 intervening
@@ -46591,6 +46610,7 @@ ironbarks
 ironclad
 ironed
 ironer
+ironers
 irones
 ironhanded
 ironhearted
@@ -52848,6 +52868,7 @@ marbliest
 marbling
 marbly
 marcasites
+marcato
 marcellers
 marcels
 march
@@ -52866,6 +52887,7 @@ margarines
 margarites
 margays
 margented
+margenting
 margents
 margin
 marginal
@@ -58506,6 +58528,7 @@ neuroanatomists
 neurobiological
 neurobiologist
 neurobiology
+neuroblastomas
 neuroblastomata
 neurochemical
 neurochemistry
@@ -62515,6 +62538,7 @@ outsources
 outsourcings
 outspan
 outspans
+outsparkle
 outsparkled
 outspeaking
 outsped
@@ -64151,6 +64175,7 @@ pallium
 palm
 palmar
 palmary
+palmate
 palmated
 palmately
 palmation
@@ -69465,6 +69490,7 @@ potstones
 pottage
 pottages
 potteen
+potter
 pottered
 potterers
 potteries
@@ -70131,6 +70157,7 @@ preinterviewed
 preinterviews
 preinvasion
 preinvite
+preinvited
 prejudged
 prejudges
 prejudging
@@ -72576,6 +72603,7 @@ pyro
 pyrocatechol
 pyrocatechols
 pyroceram
+pyrocerams
 pyroclastic
 pyroelectric
 pyroelectricity
@@ -74013,6 +74041,7 @@ realize
 realized
 realizers
 realizes
+realizing
 reallocate
 reallocation
 reallocations
@@ -74249,6 +74278,7 @@ reburies
 reburying
 rebut
 rebuts
+rebuttals
 rebutted
 rebutter
 rebutters
@@ -76536,6 +76566,7 @@ reprehend
 reprehending
 reprehensible
 reprehensibly
+reprehensions
 reprehensive
 representer
 representers
@@ -83123,6 +83154,7 @@ sicced
 siccing
 sice
 sices
+sickbay
 sickbays
 sickbed
 sicked
@@ -100499,6 +100531,7 @@ voudons
 voudoun
 voussoir
 vow
+vowelizing
 vowers
 vowing
 vowless
@@ -102922,6 +102955,7 @@ xystoi
 ya
 yabber
 yabbered
+yabbering
 yabbers
 yabbie
 yabbies
@@ -103391,6 +103425,7 @@ zestier
 zestiest
 zesting
 zests
+zetas
 zettabyte
 zeugmas
 zibeline
