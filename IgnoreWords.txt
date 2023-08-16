@@ -934,6 +934,7 @@ adnexal
 adnouns
 ado
 adobe
+adobes
 adolescent
 adolescently
 adolescents
@@ -3351,6 +3352,7 @@ antepenultimas
 anterior
 anteriorly
 antetype
+antetypes
 anteverting
 anteverts
 anthelia
@@ -4781,6 +4783,7 @@ artemisia
 artemisias
 arterial
 arterials
+arteries
 arteriogram
 arteriography
 arteriolar
@@ -5579,6 +5582,7 @@ aughts
 augite
 augitic
 augment
+augmentations
 augmentative
 augmenting
 augmentor
@@ -8522,6 +8526,7 @@ bimetallists
 bimetals
 bimethyl
 bimethyls
+bimillennial
 bimodal
 bimodality
 bimolecular
@@ -12558,6 +12563,7 @@ canoe
 canoeable
 canoed
 canoeists
+canoer
 canoers
 canola
 canolas
@@ -12875,6 +12881,7 @@ carbolics
 carbolized
 carbolizing
 carbon
+carbonade
 carbonades
 carbonadoed
 carbonadoes
@@ -15944,6 +15951,7 @@ clerically
 clericals
 clerid
 clerihews
+clerisies
 clerisy
 clerkdoms
 clerkish
@@ -21616,6 +21624,7 @@ dads
 daedal
 daedalian
 daemon
+daemonic
 daemons
 daffed
 daffier
@@ -24821,6 +24830,7 @@ diopsidic
 dioptases
 dioptres
 diorama
+dioramas
 dioramic
 diorites
 dioritic
@@ -30039,6 +30049,7 @@ equipollent
 equipollently
 equiponderant
 equipped
+equipper
 equipping
 equiprobable
 equips
@@ -31314,6 +31325,7 @@ expectedly
 expectedness
 expecters
 expecting
+expectorants
 expectorated
 expectorating
 expectoration
@@ -40689,6 +40701,7 @@ hektare
 hektares
 hektograms
 held
+heldentenor
 heldentenors
 heliacally
 helically
@@ -42128,6 +42141,7 @@ hormogonium
 hormonal
 hormone
 hormones
+hormonic
 horn
 hornbeams
 hornbill
@@ -46842,6 +46856,7 @@ irreligious
 irremeable
 irremediable
 irremediably
+irremovable
 irremovably
 irreparableness
 irrepealable
@@ -48858,6 +48873,7 @@ knowingnesses
 knowledge
 knowns
 knubbier
+knubby
 knuckleballs
 knucklebones
 knuckled
@@ -52706,6 +52722,7 @@ mammality
 mammalogists
 mammals
 mammary
+mammate
 mammati
 mammatus
 mammer
@@ -54708,6 +54725,7 @@ micrograms
 micrograph
 micrographed
 micrographic
+micrographics
 micrographing
 micrographs
 microgrooves
@@ -55512,6 +55530,7 @@ misclassify
 misclassifying
 miscode
 miscodes
+miscoding
 miscoin
 miscoined
 miscolored
@@ -56984,6 +57003,7 @@ motes
 motet
 motets
 mothball
+mothballed
 mothballs
 motherboard
 motherboards
@@ -60814,6 +60834,7 @@ obviation
 obviations
 obviator
 obviators
+obvious
 obviously
 obviousnesses
 obvolute
@@ -62216,6 +62237,7 @@ outcheat
 outcheating
 outchidden
 outchide
+outchided
 outcities
 outcity
 outclimbing
@@ -66941,6 +66963,7 @@ philistinisms
 phillumenist
 phillumenists
 philodendron
+philodendrons
 philogyny
 philologically
 philologists
@@ -71979,6 +72002,7 @@ provincialisms
 provincialities
 provincialize
 provincialized
+provincializes
 provincializing
 provincially
 provincials
@@ -72797,6 +72821,7 @@ pyralidids
 pyralids
 pyramid
 pyramidal
+pyramidical
 pyramiding
 pyranoid
 pyranose
@@ -72993,6 +73018,7 @@ quads
 quaere
 quaestor
 quaffer
+quaffing
 quag
 quagga
 quaggas
@@ -74527,6 +74553,7 @@ rebuys
 rec
 recalculate
 recalculated
+recalculating
 recalculation
 recalculations
 recalibrate
@@ -76741,6 +76768,7 @@ replicable
 replicas
 replicases
 replicate
+replicates
 replication
 replications
 replicative
@@ -79508,6 +79536,7 @@ sabermetrics
 sabers
 sabes
 sabin
+sabines
 sabir
 sabirs
 sable
@@ -86570,6 +86599,7 @@ splattering
 splatters
 splayed
 splayfeet
+splayfoot
 splaying
 splays
 spleen
@@ -88713,6 +88743,7 @@ subbreeds
 subbureau
 subbureaus
 subcabinet
+subcapsular
 subcaste
 subcastes
 subcategories
@@ -91886,6 +91917,7 @@ teenaged
 teenager
 teenagers
 teener
+teeners
 teenier
 teensy
 teentsier
@@ -92809,6 +92841,7 @@ thermostatting
 thermotactic
 thermotaxis
 thermotropisms
+therms
 theroid
 theropods
 thesaural
@@ -100097,6 +100130,7 @@ vesturing
 vetch
 vetches
 vetchling
+vetchlings
 veterinarian
 veterinarians
 veterinary
@@ -102729,6 +102763,7 @@ wolfish
 wolfishly
 wolfishness
 wolflike
+wolfram
 wolframites
 wolframs
 wolfsbane
