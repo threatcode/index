@@ -3785,6 +3785,7 @@ antispeculative
 antispending
 antistat
 antistate
+antistatic
 antistories
 antistory
 antistress
@@ -4698,6 +4699,7 @@ arranges
 arranging
 arrased
 arrases
+arrayal
 arrayals
 arrayers
 arrays
@@ -4948,6 +4950,7 @@ asparagine
 asparagines
 asparkle
 aspartame
+aspartames
 aspartate
 aspartates
 aspect
@@ -5063,6 +5066,7 @@ asserts
 assess
 assessed
 assessment
+assessor
 asset
 assetless
 assets
@@ -11761,6 +11765,7 @@ buzzwords
 bwanas
 by
 bycatches
+bye
 byelaws
 byes
 bygones
@@ -21115,6 +21120,7 @@ cusp
 cuspate
 cuspated
 cusped
+cuspid
 cuspidal
 cuspidate
 cuspidation
@@ -22071,6 +22077,7 @@ debone
 deboned
 deboning
 debouch
+debouche
 debouched
 debride
 debridement
@@ -22557,6 +22564,7 @@ deferrables
 deferral
 deferred
 deferrer
+defers
 defervescences
 defiance
 defiances
@@ -23696,6 +23704,7 @@ desperateness
 desperatenesses
 despicable
 despiritualize
+despiritualizes
 despisals
 despised
 despisement
@@ -23970,6 +23979,7 @@ devils
 deviltries
 deviltry
 devilwoods
+deviously
 deviousnesses
 devisable
 devise
@@ -25252,6 +25262,7 @@ dish
 dishabille
 disharmonies
 disharmonious
+disharmonize
 disharmonizes
 disharmonizing
 dishclout
@@ -30866,6 +30877,7 @@ exclusionary
 exclusions
 exclusive
 exclusiveness
+exclusivenesses
 exclusives
 exclusivism
 exclusivist
@@ -31830,6 +31842,7 @@ falbala
 falbalas
 falcate
 falces
+falchion
 falciform
 falconer
 falconers
@@ -33484,6 +33497,7 @@ flatus
 flatuses
 flatwares
 flatwashes
+flatways
 flatwise
 flatworm
 flatworms
@@ -39907,6 +39921,7 @@ haring
 harissa
 harked
 harkeners
+harkens
 harking
 harl
 harlequin
@@ -41523,6 +41538,7 @@ holmic
 holmiums
 holoblastic
 holocaust
+holocausts
 holocene
 holoenzymes
 hologram
@@ -42922,6 +42938,7 @@ hypocritically
 hypocycloids
 hypoderm
 hypoderma
+hypodermas
 hypodermic
 hypodermically
 hypodermis
@@ -51831,6 +51848,7 @@ luxes
 luxuriance
 luxuriances
 luxuriate
+luxurious
 luxuriously
 lwei
 lyard
@@ -57952,6 +57970,7 @@ naseberry
 nasial
 nasion
 nasions
+nasopharynges
 nasopharynx
 nastier
 nastiest
@@ -58018,6 +58037,7 @@ naturopath
 naturopathic
 naturopathies
 naturopathy
+naugahyde
 naugahydes
 naughtier
 naughties
@@ -63318,6 +63338,7 @@ overreacher
 overreaches
 overreact
 overreactions
+overreacts
 overrefinements
 overregulate
 overregulated
@@ -66109,6 +66130,7 @@ perjures
 perjurious
 perjury
 perk
+perkier
 perkiest
 perkiness
 perkinesses
@@ -66641,6 +66663,7 @@ philhellenes
 philhellenic
 philhellenism
 philhellenisms
+philhellenist
 philhellenists
 philibeg
 philippics
@@ -66806,6 +66829,7 @@ phosphors
 phosphoryl
 phosphorylase
 phosphorylases
+phosphorylate
 phosphorylated
 phosphorylative
 phosphoryls
@@ -68360,6 +68384,7 @@ poaches
 poachier
 poachy
 poblano
+poblanos
 pochard
 pock
 pocked
@@ -69343,6 +69368,7 @@ potamic
 potash
 potashes
 potassiums
+potation
 potations
 potato
 potatobug
@@ -70033,6 +70059,7 @@ prefrozen
 prefund
 prefunded
 prefunding
+pregame
 pregenital
 preggers
 pregnability
@@ -70312,6 +70339,7 @@ prequalifying
 prequels
 preradio
 prerecession
+prerecord
 prerecorded
 prerecording
 prerectal
@@ -71770,6 +71798,7 @@ pseudoclassic
 pseudocoel
 pseudocoelomate
 pseudocoels
+pseudocyeses
 pseudocyesis
 pseudomonad
 pseudomonas
@@ -71803,6 +71832,7 @@ psilotic
 psis
 psittacine
 psittacines
+psittacoses
 psittacosis
 psoai
 psoas
@@ -86014,6 +86044,7 @@ spiffies
 spiffiest
 spiffily
 spiffing
+spiffs
 spiffy
 spigot
 spik
@@ -95281,6 +95312,7 @@ tubulose
 tubulure
 tubulures
 tuchun
+tuckahoes
 tuckered
 tuckers
 tucket
@@ -98156,6 +98188,7 @@ untanned
 untapped
 untarnished
 untasted
+untaught
 unteaches
 unteaching
 untechnical
@@ -101264,6 +101297,7 @@ weening
 weens
 weensiest
 weensy
+weeny
 weep
 weepie
 weepies
@@ -103456,6 +103490,7 @@ zoolatries
 zoologic
 zoologically
 zoologies
+zoologist
 zoomorph
 zoomorphic
 zoon
