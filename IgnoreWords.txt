@@ -908,6 +908,7 @@ admirations
 admirer
 admirers
 admissibilities
+admissible
 admission
 admits
 admittance
@@ -4861,6 +4862,7 @@ ascendancies
 ascendancy
 ascendantly
 ascendants
+ascended
 ascendence
 ascendencies
 ascendents
@@ -4879,6 +4881,7 @@ ascetics
 ascidia
 ascidians
 ascites
+ascitic
 asclepiad
 asclepiads
 ascocarp
@@ -5429,6 +5432,7 @@ attendee
 attendees
 attender
 attending
+attendings
 attends
 attent
 attentional
@@ -13898,6 +13902,7 @@ ceratopsian
 ceratopsians
 cercal
 cercaria
+cercariae
 cercarians
 cercises
 cere
@@ -18995,6 +19000,7 @@ cordelle
 cordelled
 corder
 corders
+cordial
 cordialities
 cordially
 cordialnesses
@@ -19072,6 +19078,7 @@ corncakes
 corncrakes
 corncrib
 corncribs
+cornea
 corneal
 corned
 cornelian
@@ -19093,6 +19100,7 @@ cornfields
 cornflakes
 cornflowers
 cornhusk
+cornhusking
 cornhuskings
 corniced
 corniche
@@ -19909,6 +19917,7 @@ cradled
 cradler
 cradlers
 cradles
+cradlesong
 craft
 crafter
 craftier
@@ -21714,6 +21723,7 @@ dandifies
 dandle
 dandler
 dandlers
+dandles
 dandling
 dandriffs
 dandruff
@@ -25545,6 +25555,7 @@ dispraiser
 dispraising
 dispraisingly
 dispread
+dispreading
 disprized
 disprizes
 disproof
@@ -26149,6 +26160,7 @@ doing
 doings
 doit
 doited
+doits
 dojo
 dolabrate
 dolce
@@ -29321,6 +29333,7 @@ ensiles
 ensiling
 enskied
 enskies
+ensky
 enskyed
 enslave
 enslaved
@@ -38572,6 +38585,7 @@ grilse
 grim
 grimaced
 grimacing
+grimalkins
 grime
 grimed
 grimes
@@ -47090,6 +47104,7 @@ jake
 jakes
 jalap
 jalapenos
+jalapic
 jalapin
 jalop
 jalopies
@@ -49532,6 +49547,7 @@ laterize
 laterized
 latest
 latewoods
+latexes
 lath
 lather
 latherer
@@ -49856,6 +49872,7 @@ leaving
 leavy
 lebensraum
 leched
+lecher
 lechered
 lecheries
 lechering
@@ -54132,6 +54149,7 @@ messengers
 messiah
 messiahship
 messiahships
+messianic
 messianism
 messier
 messiest
@@ -57624,6 +57642,7 @@ myalgia
 myalgic
 myases
 myasthenias
+myasthenic
 myasthenics
 myceles
 mycelia
@@ -58130,6 +58149,7 @@ navigationally
 navigations
 navigators
 navvies
+navvy
 navy
 naw
 nawabs
@@ -67912,6 +67932,7 @@ plaistered
 plaistering
 plaisters
 plait
+plaited
 plaiter
 plaiting
 plaitings
@@ -69692,6 +69713,7 @@ preaccuses
 preached
 preacher
 preaches
+preachiest
 preachified
 preachifying
 preachily
@@ -74890,6 +74912,7 @@ redintegrate
 redintegrates
 redintegration
 redip
+redipped
 redirected
 redirecting
 redirection
@@ -77825,6 +77848,7 @@ rework
 reworked
 reworking
 rewound
+rewove
 rewoven
 rewrapt
 rewrite
@@ -79813,6 +79837,7 @@ sanjak
 sanjaks
 sank
 sannop
+sannup
 sannups
 sannyasi
 sannyasin
@@ -80194,6 +80219,7 @@ sayeds
 sayers
 sayest
 sayid
+saying
 sayings
 sayonaras
 says
@@ -82971,6 +82997,7 @@ showily
 showiness
 showing
 showings
+showmanly
 showmanships
 showmen
 showpieces
@@ -83493,6 +83520,7 @@ simpatico
 simpered
 simperer
 simperers
+simpers
 simplemindedly
 simpleness
 simpler
@@ -89617,6 +89645,7 @@ superintend
 superintendence
 superintendency
 superintendents
+superintending
 superintends
 superintensity
 superior
@@ -91670,6 +91699,7 @@ teleman
 telemark
 telemarketers
 telemen
+telemetered
 telemetrically
 telemetry
 telencephala
@@ -91902,6 +91932,7 @@ tenet
 tenia
 teniae
 tenias
+teniases
 teniasis
 tenner
 tennis
@@ -92513,6 +92544,7 @@ thesauruses
 these
 theses
 thesp
+thespian
 thespians
 thetic
 thetical
@@ -98201,6 +98233,7 @@ unstoppers
 unstopping
 unstops
 unstrained
+unstrap
 unstrapped
 unstratified
 unstress
@@ -100028,6 +100061,7 @@ vine
 vineal
 vined
 vinedresser
+vinegar
 vinegarish
 vineries
 vinery
@@ -101927,6 +101961,7 @@ widest
 widgeon
 widget
 widowbirds
+widower
 widowered
 widowerhood
 widowerhoods
