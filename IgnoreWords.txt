@@ -2096,6 +2096,7 @@ alliteratively
 alloantibody
 allobar
 allobars
+allocable
 allocatable
 allocate
 allocates
@@ -2897,6 +2898,7 @@ anathematized
 anathematizes
 anathematizing
 anatomic
+anatomical
 anatomically
 anatomised
 anatomists
@@ -7233,6 +7235,7 @@ beamless
 beams
 bean
 beanbags
+beanball
 beaned
 beanie
 beaning
@@ -12513,6 +12516,7 @@ cannikin
 cannikins
 canniness
 canninesses
+canning
 cannings
 cannister
 cannoli
@@ -12586,6 +12590,7 @@ canthi
 canthitis
 cantic
 canticle
+canticles
 cantilena
 cantilenas
 cantilever
@@ -12644,6 +12649,7 @@ capably
 capaciousnesses
 capacitance
 capacitate
+capacitates
 capacitating
 capacitation
 capacities
@@ -14405,6 +14411,7 @@ chastities
 chat
 chatchkas
 chatchke
+chatchkes
 chateaubriand
 chateaus
 chatelain
@@ -22490,6 +22497,7 @@ deductibles
 deduction
 deducts
 deedier
+deediest
 deeding
 deedless
 deeds
@@ -23403,6 +23411,7 @@ deplorer
 deploring
 deploringly
 deployable
+deployed
 deployer
 deployers
 deployments
@@ -27689,6 +27698,7 @@ ebony
 ebooks
 ebullience
 ebulliences
+ebulliency
 ebullient
 ebulliently
 ebullitions
@@ -27787,6 +27797,7 @@ economises
 economising
 economist
 economists
+economize
 economizer
 economizers
 economizes
@@ -32852,6 +32863,7 @@ fictioneers
 fictionist
 fictionization
 fictionizations
+fictionizing
 fictitious
 fictitiousness
 fictively
@@ -35394,6 +35406,7 @@ frowsy
 frowziest
 frowzily
 froze
+frozen
 frozenly
 frozennesses
 fructified
@@ -36311,6 +36324,7 @@ garrulously
 garrulousness
 gartered
 garters
+gas
 gasaliers
 gasbag
 gascon
@@ -39391,6 +39405,7 @@ habu
 habus
 hacek
 hachures
+hachuring
 hacienda
 haciendado
 hack
@@ -39639,6 +39654,7 @@ hallucinator
 hallucinators
 hallucinatory
 hallucinogenic
+hallucinogenics
 hallucinogens
 hallucinosis
 hallux
@@ -44653,6 +44669,7 @@ indignant
 indignations
 indignities
 indignly
+indigo
 indigoid
 indigoids
 indigotin
@@ -44718,6 +44735,7 @@ indowed
 indowing
 indoxyl
 indraft
+indrafts
 indri
 indris
 indubitability
@@ -45214,6 +45232,7 @@ initializes
 initializing
 initialling
 initially
+initialness
 initialnesses
 initials
 initiated
@@ -51410,6 +51429,7 @@ longanimity
 longbow
 longe
 longeing
+longers
 longes
 longevous
 longhair
@@ -51542,6 +51562,7 @@ loriner
 loriners
 lornness
 losable
+losableness
 losablenesses
 loser
 loses
@@ -54360,6 +54381,7 @@ meter
 meterage
 meterages
 metering
+meters
 meterstick
 metersticks
 metes
@@ -57465,6 +57487,7 @@ muralist
 muralists
 muralled
 muras
+murder
 murderee
 murderess
 murderesses
@@ -62066,6 +62089,7 @@ outburst
 outbuying
 outbye
 outcall
+outcaper
 outcapered
 outcapering
 outcapers
@@ -71769,6 +71793,7 @@ protons
 protopathic
 protophloems
 protoplanet
+protoplasm
 protoplast
 protoplasts
 protopods
@@ -75315,6 +75340,7 @@ refer
 referable
 refereed
 refereeing
+reference
 references
 referenda
 referendum
@@ -76810,6 +76836,7 @@ requin
 requins
 requirements
 requires
+requiring
 requisite
 requisitenesses
 requisites
@@ -77655,6 +77682,7 @@ reunited
 reuniter
 reunites
 reupholstering
+reuptake
 reusabilities
 reusables
 reuse
@@ -83902,6 +83930,7 @@ skerry
 sketchbook
 sketchbooks
 sketchier
+sketchiness
 sketching
 sketchpads
 sketchy
@@ -86385,6 +86414,7 @@ splash
 splashboards
 splashdown
 splashdowns
+splashed
 splasher
 splashers
 splashier
@@ -89054,6 +89084,7 @@ subtenancies
 subtend
 subtended
 subtends
+subterfuge
 subterranean
 subterraneanly
 subtest
@@ -91670,6 +91701,7 @@ technological
 technologically
 technologies
 technologists
+technologize
 technologized
 technologizes
 technology
@@ -93365,6 +93397,7 @@ tirled
 tirls
 tiro
 tisane
+tisanes
 tissual
 tissue
 tissuey
@@ -95332,6 +95365,7 @@ truckle
 truckled
 truckler
 truckles
+truckline
 trucklines
 truckload
 truckman
@@ -95568,6 +95602,7 @@ tummler
 tumoral
 tumorigeneses
 tumorigenesis
+tumorigenicity
 tumorlike
 tumors
 tump
