@@ -1152,6 +1152,7 @@ aerodromes
 aeroduct
 aeroducts
 aerodynamically
+aerodyne
 aerodynes
 aeroelastic
 aeroelasticity
@@ -1499,6 +1500,7 @@ agiotage
 agiotages
 agisms
 agisted
+agists
 agita
 agitable
 agitate
@@ -6052,6 +6054,7 @@ axites
 axled
 axles
 axletree
+axmen
 axolotl
 axonal
 axonemal
@@ -6081,6 +6084,7 @@ azeotropies
 azeotropy
 azide
 azimuth
+azimuthal
 azimuths
 azines
 azlons
@@ -10561,6 +10565,7 @@ brawn
 brawnier
 brawniest
 brawniness
+brawns
 brayer
 braza
 braze
@@ -12331,6 +12336,7 @@ camber
 cambered
 cambering
 cambia
+cambisms
 cambist
 cambium
 cambiums
@@ -19044,6 +19050,7 @@ copygirl
 copying
 copyist
 copyists
+copyreader
 copyreading
 copyright
 copyrightable
@@ -27984,6 +27991,7 @@ edginesses
 edging
 edgings
 edibility
+ediblenesses
 edibles
 edictally
 edifications
@@ -29609,6 +29617,7 @@ entophytes
 entourage
 entourages
 entozoa
+entozoal
 entozoan
 entozoans
 entozoic
@@ -32149,6 +32158,7 @@ fanfarons
 fanfic
 fanfolding
 fangas
+fanged
 fangless
 fanglike
 fanlight
@@ -33598,6 +33608,7 @@ flancard
 flancards
 flanerie
 flanes
+flaneur
 flanger
 flangers
 flanging
@@ -39940,6 +39951,7 @@ handoff
 handout
 handover
 handpick
+handpicks
 handprint
 handrails
 handsaw
@@ -40928,6 +40940,7 @@ hemocytometers
 hemodialyses
 hemodialysis
 hemodilution
+hemodilutions
 hemodynamic
 hemoglobins
 hemoglobinurias
@@ -44367,6 +44380,7 @@ inbounding
 inbreathe
 inbreathed
 inbreathes
+inbreathing
 inbred
 inbreds
 inbreeder
@@ -44788,6 +44802,7 @@ indices
 indicia
 indicias
 indicium
+indict
 indictable
 indictees
 indicting
@@ -45426,6 +45441,7 @@ inkpot
 inkpots
 inkstands
 inkstone
+inkstones
 inkwell
 inkwells
 inky
@@ -46597,6 +46613,7 @@ invariables
 invariance
 invariants
 invasions
+invasive
 invasiveness
 invasivenesses
 invected
@@ -53196,6 +53213,7 @@ marinations
 marine
 mariner
 marionette
+mariposa
 mariposas
 marish
 marishes
@@ -55236,6 +55254,7 @@ minaudieres
 minced
 mincemeat
 mincemeats
+mincers
 minces
 mincier
 minciest
@@ -57149,6 +57168,7 @@ motorcycling
 motorcyclist
 motordoms
 motored
+motoric
 motorically
 motorings
 motorise
@@ -62070,6 +62090,7 @@ osmunds
 ossa
 ossature
 ossatures
+osseins
 osseous
 ossetra
 ossia
@@ -62275,6 +62296,7 @@ outbreedings
 outbreeds
 outbribe
 outbribes
+outbuild
 outbuilds
 outbuilt
 outbulge
@@ -66080,6 +66102,7 @@ penniless
 pennis
 pennon
 pennoncel
+pennoncels
 pennons
 penny
 pennycress
@@ -71214,6 +71237,7 @@ principle
 principled
 principles
 princox
+prinked
 prinks
 print
 printabilities
@@ -71555,6 +71579,7 @@ prohibitions
 prohibitive
 prohibitively
 prohibitiveness
+prohibitory
 prohibits
 proinsulin
 project
@@ -85132,6 +85157,7 @@ snatched
 snatcher
 snatches
 snatchier
+snatchiest
 snatching
 snath
 snathe
@@ -86587,6 +86613,7 @@ spinnerettes
 spinneries
 spinnery
 spinney
+spinneys
 spinnies
 spinning
 spinny
@@ -89003,6 +89030,7 @@ suberizing
 suberose
 subers
 subfamilies
+subfields
 subfile
 subfiles
 subfixes
@@ -89980,6 +90008,7 @@ supered
 supereffective
 superefficiency
 superefficient
+superegoist
 superegoists
 superegos
 superelevations
@@ -92638,6 +92667,7 @@ testifier
 testifiers
 testifies
 testifying
+testily
 testimonials
 testiness
 testinesses
@@ -95892,6 +95922,7 @@ tumblebugs
 tumbled
 tumbler
 tumblerful
+tumblerfuls
 tumblers
 tumblersful
 tumbrel
@@ -96627,6 +96658,7 @@ umiacks
 umiacs
 umiak
 umiaks
+umiaq
 umlaut
 umlauting
 umlauts
@@ -99037,6 +99069,7 @@ upkeep
 uplander
 uplanders
 uplands
+upleaping
 upleapt
 uplift
 uplifters
@@ -99819,6 +99852,7 @@ vaultiest
 vaulting
 vaultingly
 vaultings
+vaulty
 vaunt
 vaunted
 vaunters
@@ -100383,6 +100417,7 @@ victorious
 victoriously
 victoriousness
 victors
+victory
 victresses
 victual
 victualed
