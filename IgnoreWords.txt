@@ -8146,6 +8146,7 @@ betrayer
 betrayers
 betraying
 betrays
+betrothal
 betrotheds
 betroths
 betta
@@ -9805,6 +9806,7 @@ boneheadedness
 bonemeals
 boneset
 bonesets
+boney
 boneyer
 boneyest
 bonfire
@@ -11209,6 +11211,7 @@ buffaloed
 buffaloes
 buffalofish
 buffaloing
+buffalos
 buffer
 buffered
 buffering
@@ -12437,6 +12440,7 @@ candelabra
 candelabras
 candelabrum
 candelabrums
+candelas
 candent
 candescence
 candescences
@@ -13152,6 +13156,7 @@ carroches
 carromed
 carroms
 carronade
+carrotier
 carrotin
 carrotins
 carrots
@@ -14123,6 +14128,7 @@ chalices
 chalk
 chalkboard
 chalked
+chalkier
 chalkiest
 chalking
 chalks
@@ -14251,6 +14257,7 @@ chanters
 chanteuse
 chanties
 chanting
+chantor
 chantors
 chants
 chanty
@@ -19556,6 +19563,7 @@ countenancing
 counter
 counteracting
 counteractions
+counteracts
 counteragents
 counterargue
 counterargued
@@ -20006,6 +20014,7 @@ cramoisy
 cramp
 cramped
 crampfish
+crampfishes
 crampier
 crampiest
 cramping
@@ -21950,6 +21959,7 @@ dauntless
 dauntlessness
 dauphine
 dauphines
+dauphins
 dauting
 dauts
 daven
@@ -22081,6 +22091,7 @@ deals
 dealt
 deaminases
 deaminated
+deaminates
 deaminating
 deamination
 deaminations
@@ -25405,6 +25416,7 @@ disillusionment
 disincentive
 disincentives
 disinclination
+disincline
 disinclined
 disinclining
 disinfected
@@ -26044,6 +26056,7 @@ divorcive
 divulgated
 divulgates
 divulgating
+divulge
 divulgence
 divulgences
 divulger
@@ -31993,6 +32006,7 @@ fallbacks
 fallboard
 faller
 fallers
+fallfish
 fallibilities
 fallible
 fallibly
@@ -33956,6 +33970,7 @@ flossed
 flosses
 flossie
 flossies
+flossily
 flossy
 flota
 flotages
@@ -36056,6 +36071,7 @@ galleries
 gallery
 gallerygoer
 gallerygoers
+galleryites
 galleta
 galletas
 galleting
@@ -38238,6 +38254,7 @@ grail
 grain
 grainer
 grainers
+grainfield
 graininess
 graining
 gram
@@ -43233,6 +43250,7 @@ icehouses
 icekhanas
 icelike
 icemaker
+ices
 ich
 ichneumon
 ichneumons
@@ -44016,6 +44034,7 @@ imponderables
 imponderably
 impone
 impones
+imponing
 import
 importance
 importances
@@ -44825,6 +44844,7 @@ inductors
 indued
 indulge
 indulged
+indulgence
 indulgent
 indulgers
 indulin
@@ -50815,6 +50835,7 @@ linage
 linalols
 linalools
 lincomycins
+lindane
 lindanes
 linden
 lindens
@@ -59956,6 +59977,7 @@ nonsmokers
 nonsocialist
 nonsocialists
 nonspeaker
+nonspeakers
 nonspecialist
 nonspecific
 nonspectacular
@@ -71886,6 +71908,7 @@ protoplanet
 protoplasm
 protoplast
 protoplasts
+protopod
 protopods
 protoporphyrin
 protostar
@@ -73052,6 +73075,7 @@ quarryman
 quartan
 quarte
 quarter
+quarterbacked
 quarterbacking
 quarterbacks
 quarterdecks
@@ -76105,6 +76129,7 @@ relativisms
 relativistic
 relativists
 relativity
+relativize
 relativized
 relativizes
 relativizing
@@ -76842,6 +76867,7 @@ reprobes
 reprobing
 reprocess
 reprocessing
+reproduce
 reproducer
 reproduces
 reproducibility
@@ -77708,6 +77734,7 @@ retributory
 retries
 retrievability
 retrieved
+retrievers
 retrimmed
 retrimming
 retro
@@ -79272,6 +79299,7 @@ ruggedizing
 ruggedly
 ruggedness
 ruggers
+ruglike
 rugola
 rugolas
 rugosa
@@ -82903,6 +82931,7 @@ shin
 shinbone
 shindig
 shindigs
+shindy
 shindys
 shined
 shiner
@@ -84405,6 +84434,7 @@ sleeve
 sleeved
 sleighed
 sleigher
+sleighing
 sleighs
 sleight
 sleights
@@ -84912,6 +84942,7 @@ snakebirds
 snakebit
 snakebite
 snakebites
+snakebitten
 snakefishes
 snakeheads
 snakepit
@@ -92169,6 +92200,7 @@ tenebrous
 tenement
 tenesmic
 tenet
+tenfold
 tenia
 teniae
 tenias
@@ -93428,6 +93460,7 @@ tinged
 tinges
 tinging
 tingle
+tingler
 tingliest
 tingling
 tingly
@@ -94533,6 +94566,7 @@ transiently
 transients
 transilluminate
 transistorise
+transistorises
 transistorize
 transistors
 transited
@@ -103825,6 +103859,7 @@ zombielike
 zombies
 zombification
 zombifications
+zombified
 zombifies
 zombify
 zombiisms
