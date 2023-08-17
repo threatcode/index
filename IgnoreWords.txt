@@ -360,6 +360,7 @@ accredits
 accretes
 accreting
 accretion
+accretionary
 accretions
 accruable
 accruals
@@ -4451,6 +4452,7 @@ arbors
 arborvitae
 arborvitaes
 arbovirus
+arboviruses
 arbs
 arbuscle
 arbuscles
@@ -5249,6 +5251,7 @@ asteroidal
 asteroids
 asthenia
 asthenics
+asthenies
 asthenosphere
 asthenospheres
 asthenospheric
@@ -6987,6 +6990,7 @@ barricados
 barriers
 barring
 barrio
+barristers
 barrooms
 bars
 barstool
@@ -8155,6 +8159,7 @@ bested
 bestial
 bestialities
 bestiality
+bestialize
 bestialized
 bestializes
 bestializing
@@ -11217,6 +11222,7 @@ bubbleheaded
 bubbleheads
 bubbler
 bubblers
+bubblies
 bubbliest
 bubbly
 bubby
@@ -13071,6 +13077,7 @@ cardinalship
 cardings
 cardio
 cardiogenic
+cardiogram
 cardiograph
 cardiographies
 cardiographs
@@ -15077,6 +15084,7 @@ chittering
 chitties
 chivalrous
 chivalrously
+chivalry
 chivaree
 chivareed
 chivareeing
@@ -16853,6 +16861,7 @@ cofounder
 cofounders
 cofounding
 cofounds
+cofunctions
 cogeneration
 cogenerations
 cogent
@@ -19118,6 +19127,7 @@ copresident
 coprinces
 coprincipal
 coprincipals
+coprisoner
 coprocessor
 coprocessors
 coproduced
@@ -21332,6 +21342,7 @@ cursers
 cursing
 cursive
 cursively
+cursiveness
 cursivenesses
 cursives
 cursor
@@ -23468,6 +23479,7 @@ dendrological
 dendrologist
 dendrology
 denegations
+denervate
 denervates
 dengue
 deniabilities
@@ -30154,6 +30166,7 @@ epistemology
 episterna
 episternum
 epistle
+epistlers
 epistles
 epistolary
 epistolers
@@ -41021,6 +41034,7 @@ heists
 hejira
 hektare
 hektares
+hektogram
 hektograms
 held
 heldentenor
@@ -45126,6 +45140,7 @@ indigoids
 indigotin
 indinavir
 indirect
+indirection
 indirectly
 indirectness
 indiscernible
@@ -50694,6 +50709,7 @@ lentic
 lenticular
 lenticule
 lentigines
+lentigo
 lentil
 lentils
 lentisks
@@ -51763,6 +51779,7 @@ loch
 lochan
 lochans
 lochia
+loci
 lock
 lockable
 lockdown
@@ -52136,6 +52153,7 @@ loungy
 loupe
 louped
 loupen
+louping
 loups
 lour
 loured
@@ -54370,6 +54388,7 @@ meld
 melded
 melders
 melding
+melds
 melee
 melilot
 melilots
@@ -59192,6 +59211,7 @@ nettings
 nettle
 nettled
 nettlers
+nettlesome
 nettlier
 nettliest
 nettly
@@ -61089,6 +61109,7 @@ oarswomen
 oasthouses
 oatcake
 oatcakes
+oater
 oath
 oatmeals
 oats
@@ -65148,6 +65169,7 @@ pantisocratist
 pantisocratists
 panto
 pantoffles
+pantograph
 pantographic
 pantomime
 pantomimed
@@ -72005,6 +72027,7 @@ prognose
 prognosed
 prognoses
 prognosing
+prognosis
 prognosticate
 prognosticates
 prognosticating
@@ -73033,6 +73056,7 @@ pummels
 pump
 pumped
 pumper
+pumpernickel
 pumpernickels
 pumpers
 pumping
@@ -73089,6 +73113,7 @@ puninesses
 punishability
 punisher
 punishers
+punishes
 punishing
 punishments
 punition
@@ -78661,6 +78686,7 @@ revokers
 revoking
 revolter
 revolute
+revolution
 revolutionaries
 revolutionise
 revolutionised
@@ -90439,6 +90465,7 @@ sundowners
 sundowning
 sundowns
 sundresses
+sundries
 sundrops
 sunfishes
 sunflowers
@@ -93069,6 +93096,7 @@ terahertzes
 terai
 terais
 teraohm
+teraohms
 teratism
 teratisms
 teratocarcinoma
@@ -93422,6 +93450,7 @@ theatricality
 theatricalize
 theatricalized
 theatricalizes
+theatricalizing
 theatricals
 thebaine
 thebaines
@@ -97185,6 +97214,7 @@ ultramicroscope
 ultramicrotome
 ultramicrotomy
 ultramilitant
+ultramilitants
 ultraminiature
 ultramodern
 ultramodernist
@@ -97894,6 +97924,7 @@ underbudding
 underbudgeted
 underbuying
 underbuys
+undercard
 undercarriage
 undercharges
 undercharging
@@ -98042,6 +98073,7 @@ underscores
 underseas
 undersecretary
 undersell
+underselling
 undersells
 underset
 undershirt
@@ -98825,6 +98857,7 @@ unmistakable
 unmistakably
 unmiters
 unmitre
+unmitred
 unmitring
 unmix
 unmixable
@@ -100480,6 +100513,7 @@ vats
 vatting
 vatu
 vatus
+vau
 vaudevilles
 vaudevillians
 vault
@@ -100850,6 +100884,7 @@ veronica
 veronicas
 verruca
 verrucas
+verrucose
 versal
 versant
 versatileness
