@@ -1171,6 +1171,7 @@ aerolites
 aerolith
 aerolitic
 aerologic
+aerologies
 aerology
 aeromechanics
 aeromedical
@@ -3822,6 +3823,7 @@ antistory
 antistress
 antistrike
 antistrophe
+antistrophes
 antistrophic
 antistudent
 antisubmarine
@@ -5870,6 +5872,7 @@ autumn
 autumnal
 autunite
 autunites
+auxiliaries
 auxotrophic
 avadavat
 avadavats
@@ -10319,6 +10322,7 @@ bowhead
 bowheads
 bowhunter
 bowhunters
+bowingly
 bowings
 bowknots
 bowl
@@ -10458,6 +10462,7 @@ braillewriters
 brailling
 braincase
 braincases
+brainchild
 brained
 brainiac
 brainiacs
@@ -25258,6 +25263,7 @@ disclimaxes
 disclose
 disclosed
 discloses
+disclosure
 disclosures
 disco
 discographer
@@ -27862,6 +27868,7 @@ easting
 eastings
 easts
 eastward
+eastwards
 easygoing
 easygoingness
 eat
@@ -33041,6 +33048,7 @@ fiberizes
 fiberless
 fiberlike
 fiberscopes
+fibrannes
 fibreboard
 fibreboards
 fibrefill
@@ -39104,6 +39112,7 @@ groupthinks
 groupuscule
 groused
 grouses
+grout
 grouted
 grouters
 groutier
@@ -39134,6 +39143,7 @@ growth
 growthiest
 growthiness
 growthinesses
+growths
 growthy
 groyne
 groynes
@@ -39562,6 +39572,7 @@ gymnasts
 gymnosophist
 gymnosperm
 gymnospermies
+gymnospermy
 gynaecea
 gynaeceum
 gynaecia
@@ -41615,6 +41626,7 @@ himatia
 himations
 hims
 himself
+hind
 hindbrains
 hinder
 hindering
@@ -45008,6 +45020,7 @@ indissociably
 indissolubly
 indistinctness
 indite
+indited
 inditers
 indites
 indium
@@ -47175,6 +47188,7 @@ islanding
 isle
 isled
 isleless
+isles
 islets
 isling
 isms
@@ -50297,6 +50311,7 @@ leavier
 leaving
 leavy
 lebensraum
+lechayim
 leched
 lecher
 lechered
@@ -55928,6 +55943,7 @@ miseries
 miserliness
 miserlinesses
 miserly
+misery
 mises
 misesteem
 misesteemed
@@ -59128,6 +59144,7 @@ neutrinos
 neutron
 neutrons
 neutrophil
+neutrophilic
 neutrophils
 neve
 never
@@ -59166,6 +59183,7 @@ newshound
 newsie
 newsier
 newsiest
+newsiness
 newsinesses
 newsletter
 newsletters
@@ -64434,6 +64452,7 @@ pacifiable
 pacifical
 pacifically
 pacification
+pacificator
 pacificators
 pacificism
 pacificist
@@ -67065,6 +67084,7 @@ petroglyph
 petrographer
 petrographic
 petrographical
+petrographies
 petrography
 petrolatum
 petrolatums
@@ -68797,6 +68817,7 @@ plenaries
 plenarily
 plenches
 plenishes
+plenist
 plenists
 plenitude
 plenitudes
@@ -70682,6 +70703,7 @@ prefigurement
 prefigures
 prefile
 prefiled
+prefinanced
 prefinancing
 prefire
 prefired
@@ -75431,6 +75453,7 @@ redbaited
 redbaiter
 redbaiters
 redbaiting
+redbaits
 redbay
 redbird
 redbirds
@@ -77421,6 +77444,7 @@ rerent
 rerenting
 rerepeat
 rerepeats
+rereviewed
 rereviewing
 rereviews
 rereward
@@ -79061,6 +79085,7 @@ roadblocked
 roadblocking
 roadblocks
 roadeos
+roadholding
 roadhouse
 roadhouses
 roadies
@@ -84727,6 +84752,7 @@ slaggiest
 slagging
 slags
 slain
+slaked
 slaker
 slakers
 slakes
@@ -84980,6 +85006,7 @@ slipout
 slipouts
 slippage
 slipped
+slipper
 slippered
 slipperier
 slipperinesses
@@ -85521,6 +85548,7 @@ snippier
 snippiest
 snippily
 snit
+snitched
 snitcher
 snitchers
 snits
@@ -85600,6 +85628,7 @@ snowblower
 snowblowers
 snowboarded
 snowboarder
+snowboarders
 snowboarding
 snowbrushes
 snowbush
@@ -86881,6 +86910,7 @@ spindrift
 spindrifts
 spined
 spinel
+spineless
 spinelessness
 spinelessnesses
 spines
@@ -92437,6 +92467,7 @@ telefilms
 telegonic
 telegonies
 telegony
+telegrammed
 telegramming
 telegrapher
 telegraphers
@@ -99713,6 +99744,7 @@ username
 usernames
 ushered
 usherette
+usneas
 usquebae
 usquebaes
 usquebaugh
@@ -100031,6 +100063,7 @@ vaporizations
 vaporize
 vaporizes
 vaporizing
+vaporless
 vaporlike
 vaporous
 vaporousnesses
@@ -101956,6 +101989,7 @@ waterbeds
 waterbirds
 waterborne
 waterbus
+watercolor
 watercolorists
 watercooler
 watercoolers
@@ -103467,6 +103501,7 @@ wordplays
 words
 wordsmith
 wordsmithery
+wordy
 wore
 work
 workableness
