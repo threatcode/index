@@ -750,6 +750,7 @@ adapters
 adaptivities
 adaptivity
 adaptors
+addable
 addax
 addaxes
 addenda
@@ -3157,6 +3158,7 @@ animaliers
 animalism
 animalisms
 animalists
+animality
 animalize
 animalizing
 animally
@@ -3194,6 +3196,7 @@ aniseikonia
 anises
 anisette
 anisettes
+anisogamies
 anisogamous
 anisogamy
 anisole
@@ -8362,6 +8365,7 @@ bibliographer
 bibliographic
 bibliographies
 bibliolaters
+bibliolatrous
 bibliolatry
 bibliologies
 bibliology
@@ -8562,6 +8566,7 @@ bilker
 bilkers
 bilking
 bilks
+billable
 billabongs
 billboarded
 billboarding
@@ -9871,6 +9876,7 @@ bombasters
 bombastically
 bombasts
 bombazines
+bombed
 bomber
 bombesin
 bombinates
@@ -17391,6 +17397,7 @@ columnar
 columneas
 columniation
 columniations
+columnist
 columnistic
 columnists
 colure
@@ -23566,6 +23573,7 @@ denominates
 denomination
 denominations
 denominators
+denotation
 denotations
 denotative
 denoted
@@ -23604,6 +23612,7 @@ dentately
 dentation
 dentations
 denticle
+denticles
 denticulated
 denticulation
 denticulations
@@ -24499,6 +24508,7 @@ diagonalize
 diagonalizes
 diagonally
 diagonals
+diagram
 diagramed
 diagrammable
 diagrammatic
@@ -28185,6 +28195,7 @@ ectoblasts
 ectoderm
 ectodermal
 ectomeric
+ectomorph
 ectoparasites
 ectoparasitic
 ectopia
@@ -30624,6 +30635,7 @@ escolar
 escolars
 escorting
 escot
+escoted
 escoting
 escritoire
 escritoires
@@ -33597,6 +33609,7 @@ finless
 finlike
 finmark
 finnickier
+finnickiest
 finniest
 finning
 finnmark
@@ -33695,6 +33708,7 @@ firming
 firmness
 firmnesses
 firms
+firmwares
 firn
 firns
 firs
@@ -39593,6 +39607,7 @@ gulf
 gulfier
 gulfing
 gulfweed
+gulfy
 gullably
 gulled
 gullet
@@ -40819,6 +40834,7 @@ headachier
 headachiest
 headband
 headbands
+headboards
 headcheese
 headcheeses
 headcounts
@@ -41400,6 +41416,7 @@ hepatocyte
 hepatocytes
 hepatoma
 hepatomas
+hepatomata
 hepatomegalies
 hepatomegaly
 hepatotoxicity
@@ -52683,6 +52700,7 @@ lymphoblast
 lymphoblastic
 lymphocyte
 lymphocytic
+lymphocytoses
 lymphocytosis
 lymphographic
 lymphographies
@@ -55364,6 +55382,7 @@ microparticles
 microphages
 microphotometer
 microphotometry
+microphyllous
 microphylls
 microphysics
 micropipet
@@ -55500,6 +55519,7 @@ midsize
 midsized
 midsole
 midspace
+midstories
 midsts
 midsummer
 midsummers
@@ -56568,6 +56588,7 @@ missionizing
 missis
 missives
 missorted
+missorting
 missound
 missounded
 misspace
@@ -57096,6 +57117,7 @@ monistic
 monition
 monitions
 monitive
+monitor
 monitored
 monitories
 monitoring
@@ -60301,6 +60323,7 @@ nonforfeitures
 nonformal
 nonfreezing
 nonfulfillments
+nonfunctional
 nonfunded
 nongame
 nongay
@@ -67805,6 +67828,7 @@ phosphatic
 phosphatide
 phosphatides
 phosphatidyl
+phosphatidyls
 phosphatization
 phosphatize
 phosphatizes
@@ -78978,6 +79002,7 @@ rhaphae
 rhaphe
 rhaphes
 rhapsodical
+rhapsodist
 rhapsodize
 rhapsodizing
 rhapsody
@@ -82713,6 +82738,7 @@ semiaquatic
 semiarid
 semiaridities
 semiaridity
+semiautomatic
 semiautomatics
 semibald
 semibreves
@@ -85816,6 +85842,7 @@ smooshed
 smoothbores
 smoothen
 smoothens
+smoothes
 smoothest
 smoothies
 smoothing
@@ -88325,6 +88352,7 @@ starkest
 starkness
 starlet
 starlight
+starlights
 starling
 starlings
 starnose
@@ -90542,6 +90570,7 @@ sulfuretting
 sulfuring
 sulfurize
 sulfurized
+sulfurousness
 sulfurousnesses
 sulfurs
 sulfuryls
@@ -91767,6 +91796,7 @@ sylvine
 sylvines
 sylvinites
 sylvites
+symbions
 symbiont
 symbionts
 symbiosis
@@ -94352,6 +94382,7 @@ tiffining
 tiffins
 tiffs
 tigereye
+tigereyes
 tigerish
 tigerishly
 tigerishnesses
@@ -96674,6 +96705,7 @@ tsardoms
 tsarevnas
 tsarinas
 tsarism
+tsarisms
 tsarists
 tsaritza
 tsatske
@@ -97750,6 +97782,7 @@ unblooded
 unbloody
 unblushing
 unblushingly
+unbolt
 unbolted
 unbolting
 unbolts
@@ -100780,6 +100813,7 @@ vawards
 vawntie
 veal
 vealer
+vealier
 vealiest
 vealing
 veals
@@ -101848,6 +101882,7 @@ volatilenesses
 volatiles
 volatilised
 volatilities
+volatilization
 volatilizations
 volatilize
 volatilizes
