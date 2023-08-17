@@ -4139,6 +4139,7 @@ apothems
 apotheosize
 apotheosized
 apotheosizes
+apotheosizing
 app
 appal
 appall
@@ -4794,6 +4795,7 @@ arrowworms
 arrowy
 ars
 arsenals
+arsenate
 arsenates
 arsenics
 arsenide
@@ -7884,6 +7886,7 @@ bemuddled
 bemuddling
 bemurmur
 bemurmured
+bemurmuring
 bemuse
 bemusedly
 bemusements
@@ -13340,6 +13343,7 @@ casebooks
 cased
 casefies
 casefy
+casefying
 caseic
 casein
 caseinate
@@ -18376,6 +18380,7 @@ conniption
 connivances
 connivent
 conniver
+conniveries
 connivers
 connivery
 connives
@@ -25918,6 +25923,7 @@ dissentions
 dissents
 dissert
 dissertate
+dissertated
 dissertates
 dissertating
 dissertation
@@ -26142,6 +26148,7 @@ ditsy
 dittany
 dittoed
 dittoing
+dittos
 ditty
 ditz
 ditziest
@@ -26575,6 +26582,7 @@ doofuses
 doohickeys
 doolee
 doolees
+doolie
 doolies
 dooly
 doom
@@ -27197,6 +27205,7 @@ driveshafts
 drivetrain
 driving
 drivingly
+drizzles
 drizzlier
 drizzliest
 droid
@@ -28870,6 +28879,7 @@ emerald
 emeralds
 emerge
 emergences
+emergencies
 emergency
 emergent
 emergents
@@ -30130,6 +30140,7 @@ epitasis
 epitaxially
 epitaxic
 epitaxy
+epithalamion
 epithalamiums
 epithelia
 epithelial
@@ -35995,6 +36006,7 @@ furbearers
 furbelowed
 furbelowing
 furbelows
+furbish
 furbished
 furbisher
 furbishers
@@ -46349,6 +46361,7 @@ interlends
 interlibrary
 interline
 interlinear
+interlineation
 interlineations
 interlined
 interliner
@@ -48459,6 +48472,7 @@ karabiner
 karakul
 karat
 karate
+karates
 karats
 karma
 karmas
@@ -52541,6 +52555,7 @@ lysogeny
 lysolecithin
 lysosomal
 lysosome
+lysosomes
 lysozyme
 lysozymes
 lyssa
@@ -54099,6 +54114,7 @@ median
 medianly
 mediants
 mediastina
+mediate
 mediated
 mediates
 mediation
@@ -54334,6 +54350,7 @@ melodises
 melodising
 melodist
 melodizers
+melodizing
 melodramatises
 melodramatising
 melodramatist
@@ -55124,6 +55141,7 @@ micrometeorite
 micrometeorites
 micrometeoritic
 micrometer
+micrometers
 micromethods
 micromho
 microminis
@@ -57092,6 +57110,7 @@ monticules
 monument
 monumental
 monumentalities
+monumentalized
 monumentalizes
 monumentalizing
 monumentally
@@ -64964,6 +64983,7 @@ pandoors
 pandora
 pandoras
 pandore
+pandour
 pandours
 pandowdies
 pandying
@@ -67486,6 +67506,7 @@ phonemicist
 phonemics
 phones
 phonetically
+phonetics
 phonetist
 phoney
 phoneying
@@ -68627,6 +68648,7 @@ planate
 planation
 planations
 planch
+planche
 planchets
 planchettes
 planed
@@ -69049,6 +69071,7 @@ plumbism
 plumbness
 plumbs
 plumbums
+plumed
 plumelets
 plumerias
 plumes
@@ -71895,6 +71918,7 @@ progestational
 progesterone
 progestin
 progestins
+progged
 progger
 progging
 proglottid
@@ -72962,6 +72986,7 @@ punchy
 punctated
 punctation
 punctilio
+punctilios
 punctilious
 punctiliously
 punctually
@@ -74602,6 +74627,7 @@ rave
 raved
 ravel
 raveling
+ravelins
 ravelled
 raveller
 ravelling
@@ -76931,6 +76957,7 @@ remitters
 remittor
 remix
 remixed
+remixes
 remixture
 remixtures
 remnantal
@@ -81737,6 +81764,7 @@ scrimshaws
 scrip
 scripted
 scripter
+scriptorium
 scriptures
 scriptwriter
 scrive
@@ -87535,6 +87563,7 @@ spy
 spying
 squabble
 squabbled
+squabbler
 squabblers
 squabbles
 squabbling
@@ -88625,6 +88654,7 @@ stonemasonry
 stoner
 stoners
 stones
+stonewall
 stonewalled
 stonewallers
 stonewalling
@@ -90179,6 +90209,7 @@ sulfurized
 sulfurousnesses
 sulfurs
 sulfuryls
+sulk
 sulked
 sulker
 sulkers
@@ -91049,6 +91080,7 @@ swampers
 swampier
 swampiest
 swamping
+swampish
 swampland
 swamplands
 swanherd
@@ -95934,6 +95966,7 @@ trisomies
 trisomy
 tristate
 triste
+tristearins
 tristezas
 tristful
 tristfully
@@ -100089,6 +100122,7 @@ valorously
 valour
 valours
 valpolicellas
+valses
 valuable
 valuableness
 valuablenesses
@@ -100172,6 +100206,7 @@ vanpoolings
 vanpools
 vanquish
 vanquished
+vanquisher
 vanquishers
 vanquishes
 vanquishing
