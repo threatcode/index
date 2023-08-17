@@ -1662,6 +1662,7 @@ airchecks
 aircoach
 airdate
 airdates
+airdrome
 airdrop
 airdropped
 airdropping
@@ -8177,6 +8178,7 @@ betimes
 betise
 betokening
 beton
+betonies
 betons
 betray
 betrayer
@@ -14415,6 +14417,7 @@ charitable
 charitableness
 charitably
 charities
+charivariing
 charivaris
 chark
 charked
@@ -22594,6 +22597,7 @@ decremental
 decrepitate
 decrepitating
 decrepitations
+decrepitude
 decrepitudes
 decrescendo
 decrescent
@@ -25914,6 +25918,7 @@ dissuaded
 dissuader
 dissuaders
 dissuading
+dissuasion
 dissuasive
 dissuasively
 dissuasiveness
@@ -27802,6 +27807,7 @@ earthward
 earthwards
 earthworks
 earthworms
+earthy
 earwax
 earwig
 earwigging
@@ -28121,6 +28127,7 @@ eerinesses
 eery
 effaceable
 effacer
+effaces
 effacing
 effect
 effected
@@ -31353,6 +31360,7 @@ exogamies
 exogamous
 exogen
 exogenism
+exogenisms
 exogenously
 exogens
 exon
@@ -32866,6 +32874,7 @@ fervor
 fervors
 fervour
 fes
+fescue
 fescues
 fess
 fesse
@@ -41596,6 +41605,7 @@ hipbone
 hipbones
 hipless
 hiplike
+hipline
 hippieish
 hippienesses
 hippier
@@ -41828,6 +41838,7 @@ holdfast
 holdfasts
 holding
 holdings
+holdout
 holdouts
 holdovers
 holdup
@@ -45681,6 +45692,7 @@ inscribed
 inscribes
 inscribing
 inscriptional
+inscriptions
 inscriptively
 inscroll
 inscrolled
@@ -49811,6 +49823,7 @@ larrupers
 larruping
 lars
 larum
+larva
 larvae
 larvas
 larvicidal
@@ -50103,6 +50116,7 @@ lazily
 laziness
 lazing
 lazuli
+lazulis
 lazulite
 lazurite
 lazybones
@@ -50523,6 +50537,7 @@ leses
 lesion
 lesioning
 lesions
+lespedeza
 lessee
 lessen
 lessening
@@ -58095,6 +58110,7 @@ myelin
 myeline
 myelinic
 myelitides
+myeloblast
 myelofibroses
 myelofibrosis
 myelofibrotic
@@ -60780,6 +60796,7 @@ nymphet
 nymphets
 nympho
 nympholepsies
+nympholepsy
 nympholept
 nympholeptic
 nymphomaniacal
@@ -61018,6 +61035,7 @@ obtained
 obtainers
 obtains
 obtected
+obtest
 obtested
 obtesting
 obtests
@@ -63032,6 +63050,7 @@ outsteer
 outsteered
 outsteers
 outstood
+outstretch
 outstretching
 outstridden
 outstrides
@@ -63485,6 +63504,7 @@ overencouraged
 overencourages
 overencouraging
 overenergetic
+overengineering
 overenrolled
 overentertained
 overestimate
@@ -67002,6 +67022,7 @@ pettifoggings
 pettinesses
 pettish
 pettishness
+pettishnesses
 pettles
 petto
 petulances
@@ -67293,6 +67314,7 @@ phonier
 phonies
 phoniness
 phonocardiogram
+phonogram
 phonogramic
 phonogramically
 phonogrammic
@@ -68742,6 +68764,7 @@ pleurae
 pleuras
 pleuron
 pleuropneumonia
+pleuston
 pleustons
 plew
 plews
@@ -69974,6 +69997,7 @@ pothunter
 pothunters
 potiche
 potiches
+potion
 potions
 potlache
 potlatch
@@ -76477,6 +76501,7 @@ relends
 relent
 relented
 relenting
+relentlessness
 relets
 reletter
 relettering
@@ -79431,6 +79456,7 @@ roupiest
 rouse
 rouseabouts
 rousements
+rousing
 rousingly
 rousseau
 rousseaus
@@ -82979,6 +83005,7 @@ shariahs
 sharias
 sharif
 sharifs
+sharing
 sharked
 sharklike
 sharks
@@ -86176,6 +86203,7 @@ sough
 soughed
 sought
 souks
+soul
 souled
 soulful
 soulfully
@@ -92321,6 +92349,7 @@ telefax
 telefaxes
 telefilm
 telefilms
+telegonic
 telegonies
 telegony
 telegramming
@@ -96051,6 +96080,7 @@ tuberculoses
 tuberculosis
 tuberculous
 tuberoid
+tuberose
 tuberoses
 tuberosities
 tuberous
@@ -96602,6 +96632,7 @@ typy
 tyramine
 tyrannic
 tyrannical
+tyrannically
 tyrannicide
 tyrannicides
 tyrannise
@@ -97102,6 +97133,7 @@ unbruised
 unbrushed
 unbuckles
 unbudgeably
+unbudgeted
 unbudging
 unbudgingly
 unbuffered
@@ -98765,6 +98797,7 @@ unsentimental
 unserious
 unserved
 unserviceable
+unsets
 unsetting
 unsettle
 unsettled
@@ -100869,6 +100902,7 @@ virucide
 virulences
 virulencies
 virulency
+virulent
 virus
 viruses
 virusoid
@@ -101836,6 +101870,7 @@ waterflooding
 waterfloods
 waterfowler
 waterfowlers
+waterfowls
 waterhen
 waterhens
 waterier
