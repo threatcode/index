@@ -1968,6 +1968,7 @@ aliment
 alimentary
 alimentation
 alimented
+alimonies
 alimony
 aline
 alined
@@ -6073,6 +6074,7 @@ axisymmetries
 axisymmetry
 axite
 axites
+axle
 axled
 axles
 axletree
@@ -6374,6 +6376,7 @@ baculum
 badder
 baddest
 baddie
+bade
 badged
 badgeless
 badgered
@@ -9294,6 +9297,7 @@ blithers
 blithesome
 blithesomely
 blitzer
+blitzers
 blitzes
 blitzkrieg
 blizzards
@@ -12771,6 +12775,7 @@ capita
 capital
 capitalised
 capitalising
+capitalism
 capitalisms
 capitalist
 capitalistic
@@ -27665,6 +27670,7 @@ dynasts
 dynatron
 dyne
 dynein
+dyneins
 dynel
 dynes
 dynode
@@ -27787,6 +27793,7 @@ earphones
 earpiece
 earplug
 earplugs
+earring
 earringed
 earrings
 ears
@@ -29804,6 +29811,7 @@ envelops
 envenom
 envenomed
 envenoming
+envenomization
 envenomizations
 envenoms
 enviable
@@ -35479,6 +35487,7 @@ friers
 friezelike
 friezes
 frigates
+frigged
 frigging
 frighten
 frightened
@@ -35614,6 +35623,7 @@ frosteds
 frostfish
 frostfishes
 frostiness
+frostinesses
 frosting
 frostings
 frostline
@@ -36307,6 +36317,7 @@ galoshe
 galoshed
 galoshes
 galumph
+galumphed
 galumphing
 galumphs
 galvanic
@@ -38546,6 +38557,7 @@ granting
 grants
 grantsmanships
 grantsmen
+granular
 granularities
 granularity
 granulate
@@ -40732,6 +40744,7 @@ heathen
 heathendom
 heathendoms
 heathenish
+heathenism
 heathenisms
 heathenized
 heathenizes
@@ -43431,6 +43444,7 @@ hysterics
 hyte
 iamb
 iambi
+iambic
 iambus
 iambuses
 iatrical
@@ -45176,6 +45190,7 @@ inexcusableness
 inexcusably
 inexistence
 inexistences
+inexistent
 inexorabilities
 inexorability
 inexorableness
@@ -45471,6 +45486,7 @@ inhabitation
 inhabits
 inhalators
 inhalers
+inhaling
 inharmonies
 inharmonious
 inharmoniously
@@ -48365,6 +48381,7 @@ kaputt
 karabiner
 karakul
 karat
+karate
 karats
 karma
 karmas
@@ -48498,6 +48515,7 @@ kegling
 keglings
 kegs
 keiretsu
+keiretsus
 keirs
 keitloas
 kellies
@@ -49267,6 +49285,7 @@ kvasses
 kvell
 kvells
 kvetch
+kvetched
 kvetcher
 kvetches
 kvetchier
@@ -50686,6 +50705,7 @@ levigated
 levigating
 levins
 levirate
+levitated
 levitates
 levitation
 levitations
@@ -50718,6 +50738,7 @@ lexicalized
 lexically
 lexicographer
 lexicographers
+lexicographic
 lexicography
 lexicologies
 lexicologist
@@ -52103,6 +52124,7 @@ lucrativenesses
 lucubrate
 lucubrates
 lucubrating
+lucubration
 luculent
 luculently
 lude
@@ -52150,6 +52172,7 @@ lumbosacral
 lumbricals
 lumen
 lumenal
+lumens
 luminaires
 luminal
 luminance
@@ -65072,6 +65095,7 @@ paradoxes
 paradoxical
 paradrop
 paradropped
+paradrops
 paraesthesias
 paraffin
 paraffines
@@ -69548,6 +69572,7 @@ pons
 pontifex
 pontiffs
 pontifical
+pontifically
 pontificals
 pontificates
 pontificating
@@ -72581,6 +72606,7 @@ psywar
 psywars
 ptarmigan
 pteranodon
+pteranodons
 pteridine
 pteridines
 pteridological
@@ -75417,6 +75443,7 @@ redcaps
 redcoats
 redd
 redden
+reddened
 redder
 reddish
 reddishness
@@ -76337,6 +76364,7 @@ reinflates
 reinflating
 reinflations
 reinforce
+reinforceable
 reinforcement
 reinforces
 reinforcing
@@ -82524,6 +82552,7 @@ septet
 septets
 septette
 septettes
+septic
 septical
 septicemia
 septicemias
@@ -89833,6 +89862,7 @@ suctioning
 suctorian
 suctorians
 sudaries
+sudation
 sudations
 sudatories
 sudatorium
@@ -94253,6 +94283,7 @@ tombola
 tombolas
 tombolos
 tomboyishness
+tombs
 tombstone
 tombstones
 tomcatted
@@ -95103,6 +95134,7 @@ transparentness
 transpersonal
 transpierce
 transpierces
+transpiercing
 transpirational
 transpirations
 transpire
@@ -97572,6 +97604,7 @@ underclassmen
 underclays
 underclothes
 underclothing
+undercoat
 undercoating
 undercoatings
 undercoats
@@ -99677,6 +99710,7 @@ usefulness
 usefulnesses
 user
 username
+usernames
 ushered
 usherette
 usquebae
@@ -103716,6 +103750,7 @@ wynds
 wyte
 wytes
 wyting
+wyvern
 xanthan
 xanthate
 xanthein
