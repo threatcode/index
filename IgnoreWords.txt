@@ -2152,6 +2152,7 @@ allografts
 allometries
 allometry
 allomorph
+allomorphisms
 allomorphs
 allonge
 allonym
@@ -4379,6 +4380,7 @@ aquae
 aquafarm
 aquafarming
 aqualungs
+aquanaut
 aquanauts
 aquaplanes
 aquaplaning
@@ -7194,6 +7196,7 @@ bateau
 bateaux
 batfish
 batfishes
+batfowl
 batfowled
 batfowler
 batfowlers
@@ -16300,6 +16303,7 @@ clingfishes
 clingier
 clinging
 clingstone
+clingstones
 clingy
 clinical
 clinically
@@ -16832,6 +16836,7 @@ cocultivation
 coculture
 cocultures
 coculturing
+cocurator
 cocurators
 cod
 coda
@@ -18048,6 +18053,7 @@ concaves
 concaving
 concavities
 conceal
+concealer
 concealers
 concealing
 concealments
@@ -18488,6 +18494,7 @@ congruency
 congruently
 congruities
 congruously
+congruousness
 congruousnesses
 coni
 conic
@@ -19573,6 +19580,7 @@ corposants
 corps
 corpse
 corpses
+corpulences
 corpulently
 corpus
 corpuscle
@@ -19690,6 +19698,7 @@ coruscant
 coruscate
 coruscated
 coruscates
+coruscations
 corvette
 corvettes
 corvid
@@ -20644,6 +20653,7 @@ cressets
 crest
 crestal
 crestings
+crestless
 crests
 cresyl
 cresylic
@@ -24509,6 +24519,7 @@ devisers
 devises
 devising
 devisor
+devisors
 devitrification
 devitrified
 devitrifies
@@ -33204,6 +33215,7 @@ fennier
 fens
 fentanyl
 fentanyls
+fenthion
 fenthions
 fenugreek
 fenuron
@@ -33566,6 +33578,7 @@ fierinesses
 fiery
 fiesta
 fifer
+fifers
 fifes
 fifteen
 fifths
@@ -46853,6 +46866,7 @@ interlooping
 interloops
 interlope
 interloped
+interloper
 interlopers
 interloping
 interlude
@@ -47778,6 +47792,7 @@ isochronally
 isochrone
 isochrones
 isochronism
+isochronisms
 isochronous
 isochronously
 isochrons
@@ -51883,6 +51898,7 @@ lippers
 lippier
 lippiest
 lippiness
+lipping
 lipreaders
 lipreading
 lipreadings
@@ -55329,6 +55345,7 @@ metallizing
 metallographer
 metallographers
 metallographic
+metallophone
 metallophones
 metallurgical
 metallurgically
@@ -59314,6 +59331,7 @@ naugahydes
 naughtier
 naughties
 naughtily
+naughtiness
 naughtinesses
 naughts
 naumachia
@@ -60290,6 +60308,7 @@ nomads
 nomarch
 nomarchs
 nomas
+nombles
 nombrils
 nome
 nomen
@@ -63159,6 +63178,7 @@ ototoxicity
 ottar
 ottava
 ottavas
+ottoman
 ottomans
 ottos
 ouabain
@@ -66891,6 +66911,7 @@ pedimented
 pediments
 pedlar
 pedlary
+pedler
 pedlers
 pedocal
 pedocalic
@@ -67547,6 +67568,7 @@ peritrichs
 peritus
 periwig
 periwigs
+periwinkle
 periwinkles
 perjurer
 perjurers
@@ -67726,6 +67748,7 @@ persuades
 persuading
 persuasible
 persuasions
+persuasive
 persuasively
 persuasiveness
 pertain
@@ -72548,6 +72571,7 @@ procurer
 procuresses
 procuring
 prod
+prodder
 prodders
 prodigal
 prodigalities
@@ -74056,6 +74080,7 @@ pygmy
 pyic
 pyin
 pyins
+pyjama
 pyjamas
 pyknic
 pyknics
@@ -76949,6 +76974,7 @@ refrain
 refrained
 refrainer
 refrainment
+refrains
 reframe
 refrangibility
 refrangible
@@ -82119,6 +82145,7 @@ schemas
 schematic
 schematically
 schematics
+schematisms
 schematization
 schematize
 schematized
@@ -84761,6 +84788,7 @@ shrinking
 shrinks
 shris
 shrive
+shrived
 shriveled
 shriveling
 shrivelled
@@ -87695,6 +87723,7 @@ spectres
 spectrograms
 spectrographic
 spectrographies
+spectrographs
 spectrometer
 spectrometers
 spectrometries
@@ -92176,6 +92205,7 @@ swimmy
 swimsuit
 swindle
 swindled
+swindler
 swindles
 swindling
 swine
@@ -93005,6 +93035,7 @@ tang
 tanged
 tangelo
 tangelos
+tangence
 tangences
 tangency
 tangental
@@ -97145,6 +97176,7 @@ troublemaker
 troublemakers
 troublemaking
 troublemakings
+troubler
 troubles
 troubleshoot
 troubleshooters
@@ -99523,6 +99555,7 @@ uniquenesses
 uniquer
 uniques
 uniquest
+unironed
 unironically
 unirradiated
 unirrigated
@@ -100432,6 +100465,7 @@ unverifiable
 unversed
 unvested
 unvexed
+unvext
 unviable
 unvisited
 unvocal
@@ -102911,6 +102945,7 @@ walkabouts
 walkathons
 walkaway
 walkaways
+walked
 walker
 walking
 walkingstick
