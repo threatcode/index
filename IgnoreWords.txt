@@ -1206,6 +1206,7 @@ aerophytes
 aeroplane
 aerosat
 aerosats
+aeroscopes
 aerosolizations
 aerosolize
 aerosolizing
@@ -2728,6 +2729,7 @@ amphiprostyles
 amphisbaena
 amphisbaenas
 amphisbaenic
+amphitheater
 amphitheatrical
 amphora
 amphorae
@@ -2937,6 +2939,7 @@ anastrophe
 anastrophes
 anatases
 anathemas
+anathemata
 anathematize
 anathematized
 anathematizes
@@ -4616,6 +4619,7 @@ aretes
 arethusa
 arfs
 argala
+argent
 argental
 argentite
 argentums
@@ -7268,6 +7272,7 @@ bausond
 bauxite
 bauxites
 bauxitic
+bawbee
 bawcocks
 bawdier
 bawdies
@@ -7516,6 +7521,7 @@ bedchamber
 bedchambers
 bedcovering
 bedcovers
+beddable
 bedded
 bedding
 bedeafening
@@ -9894,6 +9900,7 @@ bolson
 bolsons
 bolster
 bolsters
+bolt
 bolted
 boltheads
 bolthole
@@ -11681,6 +11688,7 @@ burgee
 burgees
 burgeoned
 burgeons
+burgers
 burgess
 burgesses
 burgh
@@ -13269,6 +13277,7 @@ carnalities
 carnallite
 carnallites
 carnassial
+carnauba
 carnaubas
 carnelians
 carnies
@@ -13664,6 +13673,7 @@ catechising
 catechism
 catechismal
 catechisms
+catechists
 catechization
 catechizations
 catechized
@@ -21379,6 +21389,7 @@ curarizes
 curarizing
 curate
 curating
+curatively
 curatives
 curators
 curatorship
@@ -30515,6 +30526,7 @@ equiseta
 equitabilities
 equitability
 equitable
+equitablenesses
 equitation
 equites
 equities
@@ -31938,6 +31950,7 @@ expositions
 expositor
 expositors
 exposits
+expostulated
 expostulation
 expostulatory
 exposures
@@ -32091,6 +32104,7 @@ extolling
 extolls
 extolment
 extolments
+extols
 extorted
 extorter
 extortionary
@@ -32819,6 +32833,7 @@ fattens
 fatter
 fattest
 fattier
+fatties
 fattiest
 fattish
 fatuousness
@@ -38810,6 +38825,7 @@ gradients
 gradine
 gradines
 gradiometer
+gradiometers
 gradualism
 gradualnesses
 graduals
@@ -46425,6 +46441,7 @@ insular
 insularism
 insularisms
 insularity
+insulating
 insulation
 insulations
 insulator
@@ -52246,6 +52263,7 @@ lognormally
 logogram
 logogrammatic
 logograms
+logograph
 logographic
 logographically
 logographs
@@ -53524,6 +53542,7 @@ mammet
 mammets
 mammeys
 mammie
+mammies
 mammillary
 mammillated
 mammitides
@@ -55564,6 +55583,7 @@ microinjections
 microloan
 microloans
 microlux
+microluxes
 micromanage
 micromanaged
 micromanagement
@@ -57436,6 +57456,7 @@ monolayer
 monolayers
 monolingual
 monolith
+monolithic
 monolog
 monologging
 monologists
@@ -58818,6 +58839,7 @@ myotonias
 myotonic
 myriad
 myriapod
+myrica
 myriopod
 myriopods
 myrmecological
@@ -62377,6 +62399,7 @@ opencast
 opened
 opener
 openers
+openhandedness
 openheartedness
 opening
 openings
@@ -64918,6 +64941,7 @@ owed
 owl
 owlets
 owlish
+owllike
 owls
 owned
 owner
@@ -65506,6 +65530,7 @@ pandore
 pandour
 pandours
 pandowdies
+pandurate
 pandying
 pane
 paned
@@ -65608,6 +65633,7 @@ pantomimist
 pantos
 pantothenates
 pantoum
+pantoums
 pantries
 pantropic
 pantropical
@@ -68662,6 +68688,7 @@ pikes
 pikestaff
 pikestaffs
 pikestaves
+piki
 pilaf
 pilaffs
 pilar
@@ -69290,6 +69317,7 @@ plasticene
 plasticenes
 plasticities
 plasticity
+plasticizations
 plasticize
 plastidial
 plastisol
@@ -76879,6 +76907,7 @@ regental
 reges
 reggae
 regicide
+regicides
 regild
 regilding
 regilds
@@ -78493,6 +78522,7 @@ resonances
 resonantly
 resonated
 resonates
+resorb
 resorbing
 resorbs
 resorcinol
@@ -86507,6 +86537,7 @@ snuck
 snuff
 snuffbox
 snuffboxes
+snuffer
 snuffers
 snuffily
 snuffler
@@ -87969,6 +88000,7 @@ spokesmen
 spokespeople
 spokesperson
 spokespersons
+spokeswoman
 spokeswomen
 spoking
 spoliations
@@ -93031,6 +93063,7 @@ tastier
 tastiest
 tastily
 tastiness
+tasting
 tat
 tatami
 tatar
@@ -93902,6 +93935,7 @@ testifiers
 testifies
 testifying
 testily
+testimonial
 testimonials
 testiness
 testinesses
@@ -94124,6 +94158,7 @@ theologised
 theologises
 theologising
 theologize
+theologizer
 theologizes
 theologs
 theologue
