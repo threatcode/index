@@ -1738,6 +1738,7 @@ airshows
 airsicknesses
 airspace
 airspaces
+airspeeds
 airstream
 airstreams
 airstrike
@@ -10145,6 +10146,7 @@ bootable
 bootblack
 bootblacks
 booted
+bootery
 booties
 booting
 bootjacks
@@ -13451,6 +13453,7 @@ cartop
 cartopper
 cartridges
 carts
+cartularies
 cartulary
 cartwheel
 cartwheeling
@@ -14040,6 +14043,7 @@ celomata
 celosia
 celotex
 celotexes
+celt
 celts
 cembalo
 cembalos
@@ -14518,6 +14522,7 @@ chanties
 chanting
 chantor
 chantors
+chantry
 chants
 chanty
 chao
@@ -17060,6 +17065,7 @@ cognoscible
 cogs
 cogway
 cogwheel
+cohabit
 cohabitants
 cohabitation
 cohabiter
@@ -19144,6 +19150,7 @@ convulsion
 convulsionary
 convulsions
 convulsively
+convulsiveness
 cony
 coo
 cooch
@@ -20079,6 +20086,7 @@ countinghouse
 countinghouses
 countless
 countries
+countrified
 country
 countryfied
 countryman
@@ -21149,6 +21157,7 @@ cryptorchidisms
 cryptorchids
 cryptosporidium
 cryptozoologies
+cryptozoologist
 crypts
 crystal
 crystalize
@@ -22745,6 +22754,7 @@ decimation
 decimations
 decimator
 decimeter
+decimeters
 decipherable
 decipherers
 deciphering
@@ -24626,6 +24636,7 @@ diabetics
 diabetologist
 diablery
 diabolic
+diabolical
 diabolically
 diabolism
 diabolisms
@@ -26548,6 +26559,7 @@ dizziness
 dizzinesses
 dizzy
 dizzying
+dizzyingly
 djebels
 djellabah
 djellabahs
@@ -28216,6 +28228,7 @@ easygoing
 easygoingness
 eat
 eatable
+eatables
 eaten
 eater
 eateries
@@ -31487,6 +31500,7 @@ excavation
 excavator
 excavators
 exceed
+exceeded
 exceeder
 exceeding
 exceeds
@@ -37045,6 +37059,7 @@ garron
 garrote
 garroted
 garroter
+garroters
 garrotes
 garroting
 garrotte
@@ -37520,6 +37535,7 @@ geochemistry
 geochemists
 geochronologic
 geochronologies
+geocorona
 geocoronas
 geode
 geodes
@@ -40059,6 +40075,7 @@ gymnasts
 gymnosophist
 gymnosperm
 gymnospermies
+gymnospermous
 gymnospermy
 gynaecea
 gynaeceum
@@ -42304,6 +42321,7 @@ hoaxers
 hoaxing
 hob
 hobbed
+hobbers
 hobbit
 hobbits
 hobblebush
@@ -46906,6 +46924,7 @@ intermits
 intermittency
 intermittently
 intermitter
+intermitters
 intermixed
 intermixes
 intermixing
@@ -52454,6 +52473,7 @@ longjumps
 longleaves
 longline
 longly
+longnesses
 longship
 longshoremen
 longshoring
@@ -55107,6 +55127,7 @@ merchandisers
 merchandize
 merchandized
 merchandizes
+merchandizing
 merchandizings
 merchant
 merchantable
@@ -57421,6 +57442,7 @@ monaxons
 monazites
 monellin
 monellins
+moneran
 monerans
 monetarily
 monetarism
@@ -57487,6 +57509,7 @@ monkeypots
 monkeyshines
 monkfish
 monkfishes
+monkhood
 monkhoods
 monks
 monkshood
@@ -58749,6 +58772,7 @@ muskoxen
 muskrat
 muskrats
 muskroot
+musks
 musky
 muslin
 muspike
@@ -61540,6 +61564,7 @@ nuncupative
 nunlike
 nunnation
 nunnations
+nunneries
 nunnery
 nunnish
 nuptialities
@@ -75065,6 +75090,7 @@ rale
 rallentando
 rallied
 rallier
+ralliers
 rallies
 rally
 rallye
@@ -79464,6 +79490,7 @@ reweighed
 reweighing
 reweld
 rewelded
+rewelding
 rewelds
 rewets
 rewetted
@@ -82247,6 +82274,7 @@ scholium
 scholiums
 schoolbag
 schoolbags
+schoolbooks
 schoolboys
 schoolchildren
 schoolgirl
@@ -84594,6 +84622,7 @@ shofar
 shofars
 shofroth
 shog
+shogged
 shogi
 shogis
 shogs
@@ -88881,6 +88910,7 @@ stanzaic
 stanzas
 stapedectomies
 stapedial
+stapelias
 stapes
 staph
 staphs
@@ -90550,6 +90580,7 @@ sublieutenant
 sublieutenants
 sublimable
 sublimate
+sublimated
 sublimates
 sublimation
 sublime
@@ -95164,6 +95195,7 @@ tinniest
 tinnily
 tinninesses
 tinning
+tinnituses
 tinplate
 tinseled
 tinseling
@@ -97477,6 +97509,7 @@ tumidity
 tumidly
 tummies
 tummler
+tummlers
 tumoral
 tumorigeneses
 tumorigenesis
@@ -105297,6 +105330,7 @@ yearbook
 yearbooks
 yearend
 yearends
+yearlings
 yearlong
 yearn
 yearner
@@ -105496,6 +105530,7 @@ ytterbiums
 yttrias
 yttrium
 yuan
+yuans
 yuca
 yucas
 yuch
