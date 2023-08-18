@@ -1278,6 +1278,7 @@ affidavits
 affiliate
 affiliated
 affiliating
+affiliation
 affinal
 affine
 affinely
@@ -3367,6 +3368,7 @@ antecede
 anteceded
 antecedence
 antecedences
+antecedently
 antecedents
 anteceding
 antecessor
@@ -5475,6 +5477,7 @@ atrociously
 atrociousnesses
 atrocity
 atrophia
+atrophic
 atrophied
 atrophy
 atropisms
@@ -14218,6 +14221,7 @@ cervix
 cesareans
 cesarian
 cesarians
+cesium
 cesiums
 cess
 cessation
@@ -23368,6 +23372,7 @@ delphinia
 delphiniums
 dels
 delta
+deltaic
 deltic
 deltoidei
 deltoideus
@@ -27074,6 +27079,7 @@ downzones
 dowries
 dowry
 dowse
+dowsed
 dowser
 dowsers
 dowsing
@@ -28282,6 +28288,7 @@ ectothermic
 ectotherms
 ectozoon
 ectype
+ecumenicalism
 ecumenically
 ecumenicism
 ecumenicist
@@ -29382,6 +29389,7 @@ enculturate
 enculturated
 enculturation
 encumbered
+encumbers
 encumbrancer
 encumbrancers
 encyclic
@@ -29746,6 +29754,7 @@ enolase
 enolic
 enological
 enologies
+enologists
 enols
 enophiles
 enorm
@@ -33169,6 +33178,7 @@ ferruginous
 ferrule
 ferruled
 ferrules
+ferrum
 ferrums
 ferry
 ferryboat
@@ -35929,6 +35939,7 @@ frosted
 frosteds
 frostfish
 frostfishes
+frostily
 frostiness
 frostinesses
 frosting
@@ -47163,6 +47174,7 @@ invaluableness
 invariable
 invariables
 invariance
+invariances
 invariants
 invasions
 invasive
@@ -53047,6 +53059,7 @@ madrasahs
 madrassa
 madrassah
 madrassahs
+madrassas
 madre
 madrepore
 madreporian
@@ -59782,6 +59795,7 @@ nidifugous
 nidify
 nidifying
 niding
+niduses
 nieces
 niellist
 niellists
@@ -61206,6 +61220,7 @@ nudest
 nudge
 nudgers
 nudges
+nudging
 nudibranchs
 nudie
 nudies
@@ -61416,6 +61431,7 @@ oats
 oaves
 oba
 obas
+obbligati
 obconic
 obcordate
 obduracies
@@ -63839,6 +63855,7 @@ overarousals
 overarranged
 overarranges
 overarranging
+overarticulated
 overarticulates
 overassertion
 overassertions
@@ -72029,6 +72046,7 @@ primeval
 primevally
 primi
 primine
+primiparae
 primiparas
 primiparous
 primitive
@@ -76740,6 +76758,7 @@ regauged
 regeared
 regelate
 regelated
+regelates
 regelating
 regency
 regenerable
@@ -80165,6 +80184,7 @@ rouletted
 roulettes
 rouletting
 roundballs
+rounded
 roundednesses
 roundel
 roundelay
@@ -80195,6 +80215,7 @@ roupiest
 rouse
 rouseabouts
 rousements
+rouses
 rousing
 rousingly
 rousseau
@@ -89605,6 +89626,7 @@ strip
 striped
 stripeless
 stripier
+stripiest
 striping
 stripling
 striplings
@@ -90981,6 +91003,7 @@ superabundances
 superabundant
 superabundantly
 superachievers
+superactivities
 superactivity
 superadd
 superadditions
@@ -91411,6 +91434,7 @@ suprematists
 supreme
 supremely
 supremenesses
+supremer
 supremes
 supremest
 supremo
@@ -94104,6 +94128,7 @@ they
 thiamin
 thiamine
 thiamines
+thiazines
 thiazins
 thiazole
 thiazoles
@@ -94479,6 +94504,7 @@ thy
 thylacines
 thylakoids
 thyme
+thymectomize
 thymectomized
 thymectomizes
 thymectomizing
@@ -97751,6 +97777,7 @@ ultraviolence
 ultraviolences
 ultraviolent
 ultraviolet
+ultravirile
 ultravirilities
 ultravirility
 ululant
@@ -98041,6 +98068,7 @@ unbranded
 unbreakable
 unbred
 unbreech
+unbridged
 unbridle
 unbright
 unbroken
@@ -100023,6 +100051,7 @@ untwines
 untwist
 untwisted
 untwisting
+untwists
 untypically
 ununbium
 unununium
@@ -100856,6 +100885,7 @@ vapidities
 vapidity
 vapidness
 vapidnesses
+vapor
 vapored
 vaporer
 vaporetti
@@ -101162,6 +101192,7 @@ venae
 venal
 venalities
 venatical
+venations
 vend
 vendable
 vendables
@@ -102649,6 +102680,7 @@ warless
 warlike
 warlock
 warlordism
+warlordisms
 warm
 warmaker
 warmed
@@ -103902,6 +103934,7 @@ winged
 winger
 wingers
 wingless
+winglessness
 winglets
 winglike
 wingman
@@ -105216,6 +105249,7 @@ zigzagged
 zigzagger
 zigzaggers
 zigzaggy
+zikkurats
 zilch
 zillah
 zillahs
@@ -105336,6 +105370,7 @@ zoologic
 zoologically
 zoologies
 zoologist
+zoomania
 zoomorph
 zoomorphic
 zoon
