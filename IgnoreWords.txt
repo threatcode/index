@@ -578,6 +578,7 @@ acquit
 acquittals
 acquittance
 acquitter
+acquitters
 acquitting
 acrasias
 acre
@@ -6938,6 +6939,7 @@ baronet
 baronetage
 baronetcies
 baronies
+baronne
 baronnes
 barons
 baroque
@@ -7501,6 +7503,7 @@ bedesman
 bedevil
 bedevilled
 bedevilments
+bedew
 bedewed
 bedewing
 bedews
@@ -16096,6 +16099,7 @@ clearstory
 clearweed
 clearwings
 cleat
+cleated
 cleats
 cleavable
 cleavages
@@ -23822,6 +23826,7 @@ depressors
 depressurized
 depressurizes
 depressurizing
+deprival
 deprivals
 deprivation
 deprivations
@@ -24087,6 +24092,7 @@ desperately
 desperateness
 desperatenesses
 despicable
+despicableness
 despiritualize
 despiritualizes
 despisals
@@ -24370,6 +24376,7 @@ deviousnesses
 devisable
 devise
 devisee
+devisees
 devisers
 devises
 devising
@@ -24391,6 +24398,7 @@ devolved
 devolves
 devolving
 devon
+devote
 devoted
 devotedly
 devotedness
@@ -25312,6 +25320,7 @@ disapprobations
 disapproval
 disapprovals
 disapprove
+disapproved
 disapprover
 disapproves
 disapproving
@@ -26234,6 +26243,7 @@ disunity
 disuse
 disused
 disuses
+disusing
 disvalued
 disvaluing
 disyllabic
@@ -26708,6 +26718,7 @@ doolie
 doolies
 dooly
 doom
+doomed
 doomier
 doomily
 doomsayer
@@ -31577,6 +31588,7 @@ existent
 existential
 existentialists
 existentially
+existing
 exited
 exiting
 exitless
@@ -33745,6 +33757,7 @@ fiscally
 fiscals
 fiscs
 fish
+fishable
 fishbolts
 fished
 fisher
@@ -36936,6 +36949,7 @@ gates
 gather
 gatherers
 gatherings
+gathers
 gating
 gator
 gators
@@ -41457,6 +41471,7 @@ heraldic
 heralding
 heraldist
 heraldists
+heraldry
 herb
 herbage
 herbaged
@@ -41937,6 +41952,7 @@ hippocampi
 hippocrases
 hippodrome
 hippodromes
+hippogriff
 hippogriffs
 hippopotami
 hippy
@@ -42242,6 +42258,7 @@ holsteins
 holster
 holstered
 holstering
+holts
 holy
 holyday
 holydays
@@ -44201,6 +44218,7 @@ immemorial
 immemorially
 immense
 immensely
+immenser
 immensest
 immensities
 immensity
@@ -51096,6 +51114,7 @@ libellants
 libellee
 libellers
 libelling
+libelous
 libels
 liber
 liberalise
@@ -51415,6 +51434,7 @@ limpest
 limpet
 limpets
 limpid
+limpidities
 limpidity
 limpidness
 limpidnesses
@@ -53880,6 +53900,7 @@ martyrs
 martyry
 marvel
 marvelled
+marvellous
 marvelously
 marvelousnesses
 marvels
@@ -56555,6 +56576,7 @@ misrelates
 misrelies
 misremember
 misremembered
+misremembers
 misrendered
 misrendering
 misrenders
@@ -63918,6 +63940,7 @@ overdevelops
 overdid
 overdirect
 overdirecting
+overdiscount
 overdiscounted
 overdocument
 overdocumented
@@ -71865,6 +71888,7 @@ prill
 prilling
 prills
 prim
+primacy
 primage
 primages
 primal
@@ -71888,6 +71912,7 @@ primers
 primes
 primeval
 primevally
+primi
 primine
 primiparas
 primiparous
@@ -72505,6 +72530,7 @@ propman
 propmen
 propolis
 proponent
+proponents
 proponing
 proportion
 proportionable
@@ -78700,6 +78726,7 @@ retroreflective
 retroreflectors
 retrospecting
 retrospections
+retrospective
 retrospectively
 retrospects
 retrousse
@@ -84891,6 +84918,7 @@ siring
 sirloins
 sirocco
 siroccos
+sirrahs
 sirs
 siruped
 sirupier
@@ -86228,6 +86256,7 @@ snugs
 snye
 snyes
 so
+soakers
 soaks
 soapbark
 soapberries
@@ -89307,6 +89336,7 @@ streamlet
 streamlined
 streamliner
 streamliners
+streamlining
 streamside
 streamsides
 streek
@@ -91080,6 +91110,7 @@ supersedes
 superseding
 supersell
 superseller
+supersellers
 superselling
 supersells
 supersessions
@@ -91154,6 +91185,7 @@ supervisors
 supervisory
 superwaves
 superweapon
+superweapons
 superwide
 superwomen
 supes
@@ -91567,6 +91599,7 @@ sweatshirt
 sweatshirts
 sweatshop
 sweatsuit
+sweaty
 swede
 sweeney
 sweenies
@@ -103911,6 +103944,7 @@ wizes
 wizzen
 wizzens
 woaded
+woadwax
 woadwaxen
 woadwaxes
 woald
@@ -104836,6 +104870,7 @@ ytterbic
 ytterbium
 ytterbiums
 yttrias
+yttrium
 yuan
 yuca
 yucas
