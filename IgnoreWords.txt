@@ -1765,6 +1765,7 @@ ais
 aisles
 aitchbones
 aitches
+aivers
 ajee
 ajivas
 ajowan
@@ -12516,6 +12517,7 @@ calves
 calvities
 calx
 calxes
+calycinal
 calycle
 calycles
 calyculi
@@ -16887,6 +16889,7 @@ codfish
 codgers
 codices
 codicology
+codifiabilities
 codifiability
 codified
 codifiers
@@ -20397,6 +20400,7 @@ crampier
 crampiest
 cramping
 crampit
+crampits
 crampon
 crampons
 crampoon
@@ -32488,6 +32492,7 @@ faddish
 faddishness
 faddishnesses
 faddism
+faddisms
 faddist
 faddists
 fadeaway
@@ -32815,6 +32820,7 @@ farrago
 farrier
 farrieries
 farriers
+farrows
 farsides
 farsightedly
 fart
@@ -33004,6 +33010,7 @@ fazing
 fe
 fealties
 fear
+feared
 fearer
 fearers
 fearful
@@ -36258,6 +36265,7 @@ fugitivenesses
 fugled
 fuglemen
 fugles
+fugs
 fugu
 fugue
 fugues
@@ -36737,6 +36745,7 @@ galivanting
 galivants
 gall
 gallamine
+gallamines
 gallant
 gallanting
 gallantly
@@ -37287,6 +37296,7 @@ gazelles
 gazette
 gazetted
 gazetteer
+gazetteers
 gazettes
 gazetting
 gazillion
@@ -37500,6 +37510,7 @@ gentamicins
 genteel
 genteeler
 genteelest
+genteelism
 genteelisms
 genteelness
 genteelnesses
@@ -43907,6 +43918,7 @@ hypochondriacal
 hypochondrias
 hypochondriases
 hypocorism
+hypocorisms
 hypocotyls
 hypocrites
 hypocritical
@@ -45829,6 +45841,7 @@ infant
 infanta
 infantas
 infante
+infanticidal
 infanticide
 infantile
 infantilism
@@ -49393,6 +49406,7 @@ kidding
 kiddo
 kiddoes
 kiddos
+kiddushes
 kiddy
 kidlike
 kidnapee
@@ -55073,6 +55087,7 @@ menschen
 mense
 menseful
 menseless
+menservants
 mensh
 menshes
 mensing
@@ -60869,6 +60884,7 @@ nonluminous
 nonlyric
 nonmainstream
 nonmajor
+nonmajors
 nonmalignant
 nonmalleable
 nonman
@@ -60951,6 +60967,7 @@ nonofficials
 nonoily
 nonoperating
 nonoperative
+nonoptimal
 nonorthodox
 nonowner
 nonowners
@@ -61356,6 +61373,7 @@ notepad
 noter
 noters
 notes
+noteworthily
 noteworthiness
 nother
 nothing
@@ -62700,6 +62718,7 @@ opsonin
 opsonins
 opsonize
 opsonized
+opsonizing
 opt
 optatives
 opted
@@ -63683,6 +63702,7 @@ outpasses
 outpatient
 outpatients
 outpeopled
+outperformed
 outpitched
 outpitches
 outpitching
@@ -65174,6 +65194,7 @@ oxidizes
 oxidizing
 oxidoreductase
 oxidoreductases
+oxime
 oximes
 oximetry
 oxims
@@ -65683,6 +65704,7 @@ panatelas
 panatella
 panbroiled
 panbroils
+pancake
 pancaked
 pancetta
 pancettas
@@ -67903,6 +67925,7 @@ petasus
 petasuses
 petcocks
 petechia
+petechiae
 petechial
 peter
 petering
@@ -68946,6 +68969,7 @@ pilseners
 pilsners
 pilular
 pilules
+pima
 pimas
 pimento
 pimentos
@@ -69244,6 +69268,7 @@ pitas
 pitayas
 pitch
 pitcher
+pitcherfuls
 pitchers
 pitchforked
 pitchforking
@@ -69295,6 +69320,7 @@ pituitary
 pity
 pityingly
 piu
+pivot
 pivotable
 pivotal
 pivoted
@@ -74798,6 +74824,7 @@ racehorse
 racehorses
 racemates
 racemes
+racemism
 racemization
 racemizations
 racemized
@@ -79015,6 +79042,7 @@ retallies
 retally
 retallying
 retaped
+retard
 retardants
 retardates
 retardation
@@ -82256,6 +82284,7 @@ schlumpier
 schmaltz
 schmaltzy
 schmalz
+schmalzes
 schmalziest
 schmatte
 schmear
@@ -84099,6 +84128,7 @@ shamanistic
 shamble
 shambled
 shambles
+shambolic
 shame
 shameable
 shamefaced
@@ -92352,6 +92382,7 @@ swooningly
 swoons
 swoony
 swooped
+swooper
 swoopers
 swoopier
 swoopiest
@@ -100242,6 +100273,7 @@ unshift
 unshifted
 unshifting
 unshifts
+unshipping
 unshirted
 unshod
 unshrunk
@@ -103686,6 +103718,7 @@ weldment
 weldments
 weldor
 weldors
+welfare
 welfarism
 welfarist
 welfarists
@@ -103912,6 +103945,7 @@ whiffet
 whiffler
 whifflers
 whiffles
+whigmaleerie
 whigmaleeries
 whigs
 whiled
@@ -105837,6 +105871,7 @@ zooecium
 zoogamete
 zoogenic
 zoogenies
+zoogenous
 zoogeny
 zoogeographer
 zoogeographic
