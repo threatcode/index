@@ -1728,6 +1728,7 @@ airshow
 airshows
 airsicknesses
 airspace
+airspaces
 airstream
 airstreams
 airstrike
@@ -1848,6 +1849,7 @@ alcaydes
 alcazars
 alchemic
 alchemical
+alchemically
 alchemistic
 alchemize
 alchemizes
@@ -4593,6 +4595,7 @@ arene
 arenes
 arenite
 arenites
+areocentric
 areolate
 areolated
 areole
@@ -7477,6 +7480,7 @@ bedabbles
 bedarken
 bedarkened
 bedarkening
+bedaub
 bedazzle
 bedazzlement
 bedazzlements
@@ -8043,6 +8047,7 @@ berake
 beraking
 berascal
 berascals
+berate
 berated
 berating
 berberin
@@ -14518,6 +14523,7 @@ chargrilled
 chargrilling
 chargrills
 charier
+chariest
 charily
 chariness
 charinesses
@@ -15576,6 +15582,8 @@ ciborium
 ciboules
 cicada
 cicadas
+cicalas
+cicale
 cicatrice
 cicatrization
 cicatrize
@@ -15819,6 +15827,7 @@ citronellols
 citrons
 citrulline
 citrullines
+citrusy
 cittern
 city
 cityfied
@@ -22349,6 +22358,7 @@ deair
 deaired
 deairing
 deairs
+dealate
 dealated
 dealation
 dealations
@@ -22612,6 +22622,7 @@ decile
 deciliter
 deciliters
 decillion
+decimal
 decimalization
 decimalize
 decimate
@@ -25055,6 +25066,7 @@ dingbat
 dingdong
 dingdonged
 dingdonging
+dinge
 dinged
 dinger
 dingers
@@ -26699,6 +26711,7 @@ donnickers
 donnikers
 donning
 donnishly
+donnishnesses
 donnybrooks
 donor
 donors
@@ -29514,6 +29527,7 @@ endurances
 endure
 endured
 endurer
+endurers
 endures
 enduring
 enduringly
@@ -30061,6 +30075,7 @@ enwomb
 enwombing
 enwound
 enwrapping
+enwraps
 enwreathed
 enwreathes
 enzootics
@@ -31770,6 +31785,7 @@ expertness
 expertnesses
 experts
 expiate
+expiates
 expiating
 expiation
 expiator
@@ -34942,6 +34958,7 @@ forcefulnesses
 forceless
 forcemeat
 forcemeats
+forceps
 forcible
 forcibleness
 fordid
@@ -38776,6 +38793,7 @@ grandees
 grandest
 grandeurs
 grandfather
+grandfathered
 grandfathering
 grandfatherly
 grandfathers
@@ -46265,6 +46283,7 @@ institutionally
 institutors
 instrokes
 instruct
+instructional
 instructively
 instructiveness
 instructor
@@ -46736,6 +46755,7 @@ interpled
 interpoint
 interpolate
 interpolating
+interpolations
 interpolator
 interpose
 interposed
@@ -47712,6 +47732,7 @@ iterations
 iterative
 itinerancy
 itinerantly
+itineraries
 itinerary
 its
 itself
@@ -57835,6 +57856,7 @@ mounding
 mount
 mountaineer
 mountaineerings
+mountainousness
 mountains
 mountainside
 mountainsides
@@ -59845,6 +59867,7 @@ nippled
 nipples
 nippy
 nips
+nirvanas
 nirvanic
 nitchies
 nite
@@ -64097,6 +64120,7 @@ overfly
 overflying
 overfocus
 overfocuses
+overfocussed
 overfocusses
 overfocussing
 overfond
@@ -65281,6 +65305,7 @@ pamphleteered
 pamphleteering
 pamphleteers
 pams
+panacea
 panaceas
 panaches
 panada
@@ -67977,6 +68002,7 @@ photoelectric
 photoelectron
 photoelectronic
 photoelectrons
+photoemissions
 photoengrave
 photoengravers
 photoengraves
@@ -71064,6 +71090,7 @@ predevelopment
 prediabeteses
 prediabetic
 predial
+predicament
 predicaments
 predicate
 predicated
@@ -79001,6 +79028,7 @@ revs
 revues
 revuists
 revulsed
+revulsions
 revulsive
 revving
 rewaked
@@ -79237,6 +79265,7 @@ ribiers
 riblet
 riboflavins
 ribonuclease
+ribonucleases
 ribonucleoside
 ribonucleotide
 ribose
@@ -87808,6 +87837,7 @@ sporozoans
 sporozoic
 sporozoite
 sporozoites
+sporozoon
 sport
 sported
 sporter
@@ -89286,6 +89316,7 @@ strangle
 strangled
 strangleholds
 strangler
+stranglers
 strangles
 strangling
 strangulate
@@ -89694,6 +89725,7 @@ stupidity
 stupidly
 stupidnesses
 stupor
+stupors
 sturdier
 sturdies
 sturdiest
@@ -90296,6 +90328,7 @@ substantially
 substantialness
 substantiate
 substantiation
+substantiations
 substantiative
 substantival
 substantivally
@@ -94275,6 +94308,7 @@ throughputs
 throwaway
 throwback
 throwbacks
+thrower
 thrown
 throwsters
 thrummer
@@ -103471,6 +103505,7 @@ whoremongers
 whores
 whoresons
 whoring
+whorish
 whorishly
 whorled
 whortleberries
