@@ -4986,6 +4986,7 @@ ascomycetous
 ascorbate
 ascorbates
 ascorbic
+ascospore
 ascosporic
 ascot
 ascots
@@ -6197,6 +6198,7 @@ azuki
 azukis
 azulejos
 azure
+azygos
 azygoses
 ba
 baal
@@ -7182,6 +7184,7 @@ bastions
 bat
 batboys
 batch
+batched
 batcher
 batches
 bate
@@ -13404,6 +13407,7 @@ carryons
 carryout
 carryover
 carryovers
+cars
 cart
 carte
 carted
@@ -17822,6 +17826,7 @@ compatibles
 compatibly
 compatriot
 compeer
+compeered
 compeers
 compellable
 compellations
@@ -21581,6 +21586,7 @@ cuspides
 cuspidors
 cuspids
 cuspis
+cussedly
 cussednesses
 cusser
 cussers
@@ -22622,6 +22628,7 @@ decarbonations
 decarbonizer
 decarboxylase
 decarboxylases
+decarboxylates
 decarburization
 decarburizes
 decarburizing
@@ -29444,6 +29451,7 @@ encompassment
 encompassments
 encoring
 encountering
+encounters
 encourage
 encouragement
 encouragements
@@ -34099,6 +34107,7 @@ flambeing
 flambes
 flamboyances
 flamboyancy
+flamboyants
 flameless
 flamelike
 flamen
@@ -34388,6 +34397,7 @@ fliers
 flies
 fliest
 flight
+flighted
 flightiest
 flightily
 flightiness
@@ -34549,6 +34559,7 @@ floridness
 floridnesses
 floriferous
 florigenic
+florilegia
 florilegium
 florins
 florist
@@ -37125,6 +37136,7 @@ gatekeepers
 gateless
 gatepost
 gateposts
+gater
 gaters
 gates
 gather
@@ -45338,6 +45350,7 @@ inculcation
 inculcator
 inculcators
 inculpable
+inculpate
 inculpated
 inculpates
 inculpating
@@ -46535,6 +46548,7 @@ inswathing
 intact
 intaglio
 intaglioing
+intaglios
 intake
 intakes
 intangibilities
@@ -47806,6 +47820,7 @@ isoleucine
 isoleucines
 isoline
 isolines
+isolog
 isologs
 isologues
 isomerases
@@ -54401,6 +54416,7 @@ mature
 maturer
 maturers
 maturest
+maturities
 matutinally
 matza
 matzah
@@ -54698,6 +54714,7 @@ medusal
 medusan
 medusans
 medusas
+medusoid
 medusoids
 meekest
 meekly
@@ -60312,6 +60329,7 @@ nonadults
 nonaffiliated
 nonaffluent
 nonages
+nonaggression
 nonaggressions
 nonagons
 nonagricultural
@@ -64829,6 +64847,7 @@ overstocking
 overstocks
 overstrained
 overstrains
+overstressed
 overstresses
 overstressing
 overstretches
@@ -69339,6 +69358,7 @@ planishers
 planisphere
 planked
 planking
+planks
 plankters
 plankton
 planktons
@@ -69686,6 +69706,7 @@ plotlessness
 plotlines
 plotters
 plotties
+plotz
 plotzed
 plotzes
 plotzing
@@ -72080,6 +72101,7 @@ pretexts
 pretheater
 pretold
 pretorial
+pretorian
 pretors
 pretournament
 pretrain
@@ -72368,6 +72390,7 @@ privateering
 privateers
 privately
 privateness
+privatenesses
 privatest
 privation
 privatised
@@ -76551,6 +76574,7 @@ redwing
 redwood
 redye
 redyed
+redyes
 ree
 reearning
 reearns
@@ -78936,6 +78960,7 @@ retestifies
 retestify
 retestifying
 retesting
+retests
 retexture
 retextured
 retexturing
@@ -79033,6 +79058,7 @@ retrained
 retrainee
 retraining
 retral
+retransferred
 retransferring
 retransfers
 retransform
@@ -87190,6 +87216,7 @@ sorbose
 sorbs
 sorcerers
 sorceress
+sorceresses
 sorceries
 sorcerous
 sord
@@ -91405,6 +91432,7 @@ supergroups
 supergrowth
 superharden
 superhardening
+superhardens
 superheated
 superhelices
 superhelix
@@ -91838,6 +91866,7 @@ surveilled
 surveils
 survey
 surveying
+surveyings
 surveyor
 survivability
 survival
@@ -93969,6 +93998,7 @@ terrariums
 terras
 terrases
 terrazzo
+terrazzos
 terreen
 terrella
 terrenely
@@ -95422,6 +95452,7 @@ tonelessnesses
 tonemic
 toner
 toners
+tonetic
 tonetically
 tonetics
 tonette
@@ -95864,6 +95895,7 @@ toxoid
 toxoids
 toxophilies
 toxophily
+toxoplasma
 toxoplasmic
 toxoplasmoses
 toxoplasmosis
@@ -99975,6 +100007,7 @@ unrounded
 unrounds
 unruled
 unruliest
+unruliness
 unrulinesses
 unruly
 unrumpled
@@ -103430,6 +103463,7 @@ weedy
 weekday
 weekdays
 weekender
+weekenders
 weekending
 weekends
 weeklies
@@ -103680,6 +103714,7 @@ wheezed
 wheezer
 wheezier
 wheezinesses
+wheezing
 wheezy
 whelk
 whelkiest
