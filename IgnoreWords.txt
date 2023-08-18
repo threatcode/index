@@ -6408,6 +6408,7 @@ bacon
 bacons
 bacteremic
 bacteria
+bacterias
 bacterin
 bacterins
 bacteriocins
@@ -6462,6 +6463,7 @@ baffy
 bag
 bagasses
 bagatelle
+bagel
 bagful
 bagfuls
 baggages
@@ -6591,6 +6593,7 @@ balkily
 balkiness
 balking
 balklines
+balks
 ballad
 ballade
 balladeer
@@ -12025,6 +12028,7 @@ cabalism
 cabalist
 caballero
 caballeros
+cabana
 cabanas
 cabbages
 cabbageworms
@@ -15191,6 +15195,7 @@ chloral
 chloralose
 chloralosed
 chloraloses
+chlorals
 chloramines
 chlorate
 chlorates
@@ -15657,6 +15662,7 @@ cinderous
 cinders
 cine
 cinema
+cinemagoers
 cinemas
 cinematheque
 cinematheques
@@ -15962,6 +15968,7 @@ clamworms
 clan
 clandestine
 clandestinely
+clandestineness
 clandestinity
 clanged
 clanger
@@ -19359,6 +19366,7 @@ cordilleras
 cordites
 cordlesses
 cordlike
+cordoba
 cordobas
 cordoned
 cordons
@@ -20574,6 +20582,7 @@ crescent
 crescents
 crescive
 crescively
+cresol
 cresols
 cress
 cresset
@@ -20711,6 +20720,7 @@ cristate
 crit
 criteria
 criterial
+criterion
 criterions
 criterium
 critical
@@ -21210,6 +21220,7 @@ culm
 culmed
 culminant
 culminate
+culminated
 culminations
 culming
 culms
@@ -22194,6 +22205,7 @@ darners
 darnings
 darshans
 dart
+dartboard
 dartboards
 darted
 darter
@@ -23729,6 +23741,7 @@ deoxidizers
 deoxidizes
 deoxygenate
 deoxygenates
+deoxygenating
 deoxygenations
 depainted
 depainting
@@ -26558,6 +26571,7 @@ dogears
 dogedoms
 doges
 dogeships
+dogey
 dogeys
 dogface
 dogfought
@@ -26781,6 +26795,7 @@ dooly
 doom
 doomed
 doomier
+doomiest
 doomily
 doomsayer
 doomsayers
@@ -28241,6 +28256,7 @@ ecological
 ecologically
 ecologist
 ecology
+econoboxes
 econometrically
 econometrician
 econometrists
@@ -32649,6 +32665,7 @@ farewells
 farfal
 farfel
 farfetchedness
+farinaceous
 faring
 farinha
 farl
@@ -38608,6 +38625,7 @@ gooseberries
 goosed
 goosefishes
 goosefoots
+goosegrass
 goosegrasses
 gooseherds
 goosey
@@ -40591,6 +40609,7 @@ haranguer
 harangues
 harassed
 harassers
+harasses
 harassing
 harassment
 harassments
@@ -47804,6 +47823,7 @@ iterating
 iteration
 iterations
 iterative
+ither
 itinerancy
 itinerantly
 itineraries
@@ -47873,6 +47893,7 @@ jackhammers
 jackies
 jacking
 jackknife
+jackknifed
 jackknifing
 jackknives
 jacklegs
@@ -51423,6 +51444,7 @@ lightful
 lighthearted
 lightheartedly
 lighthouse
+lighthouses
 lighting
 lightings
 lightly
@@ -57573,6 +57595,7 @@ moonshine
 moonshined
 moonshiner
 moonshiners
+moonshiny
 moonshot
 moonshots
 moonstones
@@ -61985,6 +62008,7 @@ ogee
 ogees
 ogham
 oghamic
+ogival
 ogives
 ogle
 ogled
@@ -63630,6 +63654,7 @@ outsinned
 outsit
 outsits
 outsitting
+outsize
 outsized
 outsizes
 outskated
@@ -75752,6 +75777,7 @@ reciprocally
 reciprocals
 reciprocating
 reciprocations
+reciprocator
 reciprocators
 reciprocities
 reciprocity
@@ -76494,6 +76520,7 @@ reentrance
 reentrant
 reentries
 reentry
+reequipments
 reequipped
 reequipping
 reequips
@@ -79093,6 +79120,7 @@ revictuals
 review
 reviewable
 reviewal
+reviewals
 reviewed
 reviewers
 reviewing
@@ -81455,6 +81483,7 @@ satisfaction
 satisfactions
 satisfactory
 satisfiable
+satisfice
 satisficed
 satisfices
 satisficing
@@ -85556,6 +85585,7 @@ slapstick
 slash
 slashed
 slashers
+slashing
 slashings
 slatch
 slatches
@@ -85675,6 +85705,7 @@ slenderly
 slenderness
 slendernesses
 slept
+sleuth
 sleuthhounds
 slew
 slewed
@@ -89921,6 +89952,7 @@ stylise
 stylises
 stylish
 stylising
+stylistics
 stylists
 stylite
 stylites
@@ -94282,6 +94314,7 @@ thir
 thirams
 thirds
 thirled
+thirling
 thirls
 thirst
 thirster
@@ -103381,6 +103414,7 @@ whales
 whaling
 wham
 whammed
+whamming
 whang
 whangee
 whangees
@@ -104500,6 +104534,7 @@ worldlinesses
 worldlings
 worldly
 worldviews
+worldwide
 worm
 wormer
 wormers
