@@ -2130,6 +2130,7 @@ allocable
 allocatable
 allocate
 allocates
+allocating
 allocation
 allocations
 allocators
@@ -7444,6 +7445,7 @@ beclasped
 beclasping
 beclasps
 becloaks
+beclog
 beclogs
 beclothe
 beclothed
@@ -22195,6 +22197,7 @@ dasyures
 data
 databank
 databanks
+database
 databased
 databases
 databasing
@@ -25012,6 +25015,7 @@ diluvial
 diluvian
 diluvions
 diluvium
+dim
 dime
 dimenhydrinate
 dimenhydrinates
@@ -26269,6 +26273,7 @@ disvalued
 disvaluing
 disyllabic
 disyllables
+disyoke
 disyoked
 disyoking
 dit
@@ -29431,6 +29436,7 @@ endocrines
 endocytotic
 endoderm
 endoderms
+endodontic
 endodontically
 endodontics
 endodontists
@@ -31671,6 +31677,7 @@ exorcized
 exordia
 exoskeleton
 exoskeletons
+exosmotic
 exosphere
 exospheres
 exospheric
@@ -32963,6 +32970,7 @@ felinity
 fella
 fellable
 fellah
+fellahin
 fellated
 fellates
 fellating
@@ -43917,6 +43925,7 @@ ideologic
 ideological
 ideologically
 ideologies
+ideologize
 ideologizes
 ideologizing
 ideologue
@@ -45836,6 +45845,7 @@ inhabitants
 inhabitation
 inhabits
 inhalators
+inhaler
 inhalers
 inhaling
 inharmonies
@@ -48002,6 +48012,7 @@ jays
 jayvees
 jaywalked
 jaywalkers
+jaywalking
 jaywalks
 jazzed
 jazzer
@@ -50718,6 +50729,7 @@ leeches
 leek
 leeks
 leer
+leeriest
 leerily
 leeriness
 leerinesses
@@ -54972,6 +54984,7 @@ mesnes
 mesoblast
 mesocarp
 mesocarps
+mesocranies
 mesocyclone
 mesocyclones
 mesodermal
@@ -63436,6 +63449,7 @@ outrebounds
 outreckoned
 outreckoning
 outreproduce
+outreproduced
 outridden
 outrider
 outriding
@@ -64209,6 +64223,7 @@ overindulgence
 overindulges
 overindulging
 overinflate
+overinflated
 overinflation
 overinflations
 overinform
@@ -66647,6 +66662,7 @@ pegging
 peglike
 pegmatites
 pegmatitic
+peh
 pehs
 peignoir
 peignoirs
@@ -68493,6 +68509,7 @@ pika
 piked
 pikeman
 pikemen
+piker
 pikers
 pikes
 pikestaff
@@ -69611,6 +69628,7 @@ poesies
 poetaster
 poetasters
 poetess
+poetesses
 poetic
 poeticism
 poeticize
@@ -70884,6 +70902,7 @@ preattuned
 preattunes
 preaudit
 preaudits
+preaverred
 prebake
 prebend
 prebendaries
@@ -76677,6 +76696,7 @@ regency
 regenerable
 regeneracies
 regenerate
+regenerated
 regenerately
 regeneration
 regenerations
@@ -79031,6 +79051,7 @@ revulsed
 revulsions
 revulsive
 revving
+rewake
 rewaked
 rewaken
 rewakening
@@ -80205,6 +80226,7 @@ rubberlike
 rubberneck
 rubbernecked
 rubbers
+rubbies
 rubbings
 rubbish
 rubbishes
@@ -82200,6 +82222,7 @@ scrimshaws
 scrip
 scripted
 scripter
+scripters
 scriptorium
 scriptures
 scriptwriter
@@ -86410,6 +86433,7 @@ sockdolagers
 socket
 socketed
 socketing
+sockets
 sockeyes
 socle
 socles
@@ -89731,6 +89755,7 @@ sturdies
 sturdiest
 sturdiness
 sturdinesses
+sturgeon
 sturgeons
 sturt
 sturts
@@ -91097,6 +91122,7 @@ superminister
 supermodels
 supermoms
 supernal
+supernally
 supernatant
 supernates
 supernatural
@@ -92517,6 +92543,7 @@ tamashas
 tambac
 tambacs
 tambak
+tambaks
 tambala
 tambalas
 tambour
@@ -95769,6 +95796,7 @@ transhipped
 transhipping
 transhumance
 transience
+transiences
 transiencies
 transiency
 transient
@@ -96121,6 +96149,7 @@ tresses
 tressiest
 tressour
 tressures
+tressy
 trestle
 trestles
 trestleworks
@@ -96633,6 +96662,7 @@ trophies
 trophoblast
 trophoblastic
 trophoblasts
+trophozoite
 trophozoites
 trophy
 tropic
@@ -96756,6 +96786,7 @@ trudges
 true
 trueblues
 truebred
+trueheartedness
 truelove
 trueloves
 truenesses
@@ -98486,6 +98517,7 @@ undersign
 undersigned
 undersized
 underskirts
+undersoil
 undersold
 underspin
 underspins
@@ -98810,6 +98842,7 @@ unfrocked
 unfroze
 unfrozen
 unfruitful
+unfruitfully
 unfunded
 unfurled
 unfurling
@@ -101032,6 +101065,7 @@ velarizations
 velarized
 velarizing
 velate
+velcro
 velcros
 veld
 velds
@@ -102600,6 +102634,7 @@ warreners
 warrens
 warrigals
 warriors
+wars
 warsaw
 warsaws
 warship
