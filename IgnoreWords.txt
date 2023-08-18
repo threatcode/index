@@ -68,6 +68,7 @@ abseils
 absence
 absences
 absentee
+absenteeisms
 absentees
 absenters
 absenting
@@ -1215,6 +1216,7 @@ aesthetes
 aesthetic
 aesthetical
 aesthetically
+aestheticians
 aestheticism
 aestheticisms
 aestheticizing
@@ -6936,6 +6938,7 @@ barny
 barogram
 barograph
 barographic
+barographs
 barometries
 baron
 baronage
@@ -7796,6 +7799,7 @@ belaced
 beladied
 beladying
 belatedly
+belatednesses
 belaud
 belauds
 belay
@@ -8458,6 +8462,7 @@ bidets
 bidi
 bidialectalism
 bidirectional
+bidirectionally
 bidis
 bidonville
 bidonvilles
@@ -10923,6 +10928,7 @@ brindled
 brine
 brineless
 briner
+bringdown
 bringer
 bringers
 brings
@@ -16391,6 +16397,7 @@ cloy
 cloying
 cloyingly
 cloys
+clozapine
 clozapines
 club
 clubable
@@ -16724,6 +16731,7 @@ cocobolas
 cocobolo
 cocobolos
 cocomat
+cocomposer
 coconspirator
 coconspirators
 coconut
@@ -17155,6 +17163,7 @@ colistins
 colitic
 colitises
 collaborative
+collaborator
 collage
 collagenase
 collagenases
@@ -30082,6 +30091,7 @@ enwombing
 enwound
 enwrapping
 enwraps
+enwreathe
 enwreathed
 enwreathes
 enzootics
@@ -37485,6 +37495,7 @@ gesellschaft
 gesneriad
 gesneriads
 gesso
+gessoed
 gest
 gestalt
 gestalten
@@ -40360,6 +40371,7 @@ handcart
 handclaps
 handcrafting
 handcuffed
+handcuffing
 handcuffs
 handed
 handedness
@@ -45508,6 +45520,7 @@ ineligible
 ineligibles
 ineloquent
 ineluctability
+ineluctable
 ineluctably
 ineludible
 inenarrable
@@ -49670,6 +49683,7 @@ kvetcher
 kvetches
 kvetchier
 kvetchiest
+kvetchy
 kwacha
 kwachas
 kwashiorkor
@@ -49933,6 +49947,7 @@ lairdships
 laired
 lairing
 laitances
+laith
 laities
 laity
 lake
@@ -53506,6 +53521,7 @@ mangaby
 manganate
 manganese
 manganeses
+manganic
 manganin
 manganites
 manganous
@@ -57994,6 +58010,7 @@ muckluck
 mucklucks
 muckraked
 muckrakes
+muckraking
 muckworms
 mucky
 mucluc
@@ -59137,6 +59154,7 @@ neats
 nebbishy
 nebenkern
 nebenkerns
+nebular
 nebulas
 nebulising
 nebulize
@@ -61987,6 +62005,7 @@ oleins
 oleo
 oleograph
 oleographs
+oleoresin
 oleoresins
 oles
 olestras
@@ -66946,6 +66965,7 @@ pepino
 pepla
 peplos
 peplumed
+pepluses
 peponidas
 peponium
 pepos
@@ -68690,6 +68710,7 @@ pinned
 pinner
 pinners
 pinning
+pinnipeds
 pinnulae
 pinnular
 pinnule
@@ -68933,6 +68954,7 @@ pixels
 pixie
 pixieish
 pixies
+pixilation
 pixilations
 pixinesses
 pixyish
@@ -69107,6 +69129,7 @@ planuloid
 plashers
 plashiest
 plashing
+plashy
 plasma
 plasmagels
 plasmagene
@@ -69795,6 +69818,7 @@ politically
 politicians
 politicised
 politicises
+politicising
 politicize
 politicizes
 politicked
@@ -70726,6 +70750,7 @@ poyou
 poyous
 pozoles
 pozzolanas
+pozzolans
 praam
 praams
 practic
@@ -71238,6 +71263,7 @@ prefired
 prefires
 prefiring
 prefix
+prefixal
 prefixes
 prefixion
 prefixions
@@ -74213,6 +74239,7 @@ quillais
 quillaja
 quillback
 quillbacks
+quilling
 quillings
 quills
 quillwork
@@ -83282,6 +83309,7 @@ serging
 serial
 serialised
 serialist
+serialists
 serialization
 serialized
 serializes
@@ -90848,6 +90876,7 @@ sunburning
 sunburns
 sunburst
 sunchokes
+sundeck
 sundecks
 sunderer
 sunderers
@@ -91732,6 +91761,7 @@ swelling
 swellings
 swells
 swelter
+sweltered
 swelteringly
 swelters
 sweltrier
@@ -92610,6 +92640,7 @@ tanginess
 tangled
 tangles
 tanglier
+tangliest
 tangly
 tango
 tangoed
@@ -92882,6 +92913,7 @@ taverner
 tavs
 tawdries
 tawdriest
+tawed
 tawer
 tawers
 tawie
@@ -100791,6 +100823,7 @@ vapid
 vapidities
 vapidity
 vapidness
+vapidnesses
 vapored
 vaporer
 vaporetti
@@ -102191,6 +102224,7 @@ voudons
 voudoun
 voussoir
 vow
+vowelizes
 vowelizing
 vowers
 vowing
@@ -105253,6 +105287,7 @@ zoogeographical
 zoogeographies
 zoogeography
 zoogleae
+zoogleal
 zoogloea
 zoogloeae
 zoogloeic
