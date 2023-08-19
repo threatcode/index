@@ -182,6 +182,7 @@ abvolts
 abwatt
 aby
 abye
+abys
 abysm
 abysms
 abysses
@@ -2142,6 +2143,7 @@ alliterates
 alliterating
 alliteratively
 alloantibody
+alloantigen
 allobar
 allobars
 allocable
@@ -2151,6 +2153,7 @@ allocates
 allocating
 allocation
 allocations
+allocator
 allocators
 allocution
 allocutions
@@ -6514,6 +6517,7 @@ baffy
 bag
 bagasses
 bagatelle
+bagatelles
 bagel
 bagful
 bagfuls
@@ -8747,6 +8751,7 @@ binational
 binaural
 binaurally
 bind
+binders
 bindingly
 bindingness
 bindingnesses
@@ -12122,6 +12127,7 @@ cabalas
 cabaletta
 cabalism
 cabalist
+cabalists
 caballero
 caballeros
 cabana
@@ -20334,6 +20340,7 @@ cowhide
 cowhided
 cowier
 cowiest
+cowing
 cowinners
 cowled
 cowlicks
@@ -24554,6 +24561,7 @@ detritions
 detritus
 detrude
 detruded
+detruding
 detrusion
 detrusions
 detumescent
@@ -26822,6 +26830,7 @@ dognaper
 dognapers
 dognapped
 dognappers
+dognapping
 dognaps
 dogrobbers
 dogsledder
@@ -27836,6 +27845,7 @@ duckies
 ducking
 duckling
 ducklings
+duckpin
 ducks
 ducktail
 ducktails
@@ -33678,6 +33688,7 @@ fictionist
 fictionization
 fictionizations
 fictionizing
+fictions
 fictitious
 fictitiousness
 fictively
@@ -42363,6 +42374,7 @@ hinged
 hinger
 hinging
 hinkier
+hinkiest
 hinky
 hinnied
 hinnies
@@ -48799,6 +48811,7 @@ jones
 jonesed
 joneses
 jonesing
+jongleur
 jonnycake
 joram
 jordan
@@ -49236,6 +49249,7 @@ karyosomes
 karyotin
 karyotins
 karyotype
+karyotypes
 karyotypic
 karyotypically
 kasbahs
@@ -50314,6 +50328,7 @@ lacunes
 lacunose
 lacy
 lad
+ladanum
 laddered
 laddies
 laddish
@@ -52105,6 +52120,7 @@ lionesses
 lionfish
 lionfishes
 lionhearted
+lionised
 lionisers
 lionising
 lionize
@@ -53704,6 +53720,7 @@ mairs
 maisonette
 maisonettes
 maists
+maize
 maizes
 majagua
 majaguas
@@ -57851,6 +57868,7 @@ monogyny
 monohybrid
 monohybrids
 monohydroxy
+monoicous
 monolayer
 monolayers
 monolingual
@@ -60394,6 +60412,7 @@ nihilists
 nihility
 nil
 nilgai
+nilgau
 nilghai
 nilghais
 nill
@@ -61207,6 +61226,7 @@ nonpapists
 nonparasitic
 nonpareil
 nonpareils
+nonparent
 nonparents
 nonparticipant
 nonparticipants
@@ -62185,6 +62205,7 @@ obturating
 obturations
 obturator
 obturators
+obtuse
 obtuser
 obtusest
 obtusity
@@ -68250,6 +68271,7 @@ pettifoggeries
 pettifoggery
 pettifogging
 pettifoggings
+pettiness
 pettinesses
 pettish
 pettishness
@@ -75003,6 +75025,7 @@ quintuplicate
 quintuplicated
 quintuplicates
 quintupling
+quintuply
 quipped
 quippier
 quippiest
@@ -79095,6 +79118,7 @@ resounded
 resoundingly
 resounds
 resourcefulness
+resources
 resow
 resowed
 resowing
@@ -80089,6 +80113,7 @@ richens
 richer
 riches
 richest
+richly
 richnesses
 richweed
 ricin
@@ -81134,6 +81159,7 @@ ruin
 ruinable
 ruinate
 ruinated
+ruinations
 ruined
 ruiner
 ruiners
@@ -85396,6 +85422,7 @@ sideroses
 siderotic
 sides
 sideshows
+sideslip
 sideslipping
 sideslips
 sidespin
@@ -90268,6 +90295,7 @@ straws
 strawworm
 strawy
 stray
+strayed
 strayers
 straying
 strays
@@ -92062,6 +92090,7 @@ superquality
 superrace
 superreal
 superrealisms
+superregional
 superromantic
 supers
 supersales
@@ -92625,6 +92654,7 @@ sweltered
 swelteringly
 swelters
 sweltrier
+sweltriest
 sweltry
 swept
 sweptback
@@ -92868,6 +92898,7 @@ symmetrization
 symmetrizations
 symmetrize
 symmetrizes
+symmetry
 sympathectomies
 sympathetics
 sympathins
@@ -93623,6 +93654,7 @@ tardo
 tardy
 tardyon
 tared
+targe
 targes
 targetable
 targeted
@@ -98669,6 +98701,7 @@ umber
 umbering
 umbilical
 umbilicals
+umbilication
 umbilications
 umbilici
 umbilicus
@@ -105728,6 +105761,7 @@ yammering
 yammers
 yamulka
 yang
+yanquis
 yantra
 yantras
 yap
@@ -106288,6 +106322,7 @@ zoo
 zoochore
 zoochores
 zooecium
+zooey
 zoogamete
 zoogenic
 zoogenies
