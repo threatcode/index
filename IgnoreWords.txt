@@ -944,6 +944,7 @@ admitter
 admitters
 admitting
 admix
+admixed
 admixes
 admixt
 admixtures
@@ -1311,6 +1312,7 @@ affirmatively
 affirmatives
 affirmed
 affirmer
+affirmers
 affirming
 affix
 affixable
@@ -8365,6 +8367,7 @@ betrayer
 betrayers
 betraying
 betrays
+betroth
 betrothal
 betrotheds
 betroths
@@ -9216,6 +9219,7 @@ blackish
 blackjack
 blackjacked
 blackland
+blackleads
 blackleg
 blacklist
 blacklister
@@ -10702,6 +10706,7 @@ braking
 braky
 bramble
 brambled
+brambles
 brambling
 brambly
 bran
@@ -11513,6 +11518,7 @@ buffeting
 buffets
 buffi
 buffiest
+buffing
 buffo
 buffooneries
 buffoonery
@@ -23065,6 +23071,7 @@ decrypting
 decryption
 decryptions
 decrypts
+decumbent
 decupled
 decupling
 decuries
@@ -25666,6 +25673,7 @@ disbanded
 disbanding
 disbandments
 disbar
+disbarments
 disbars
 disbelief
 disbelieved
@@ -26651,6 +26659,7 @@ divesture
 dividable
 dividedly
 dividednesses
+dividend
 dividendless
 dividends
 divider
@@ -28459,6 +28468,7 @@ echelon
 echeloned
 echeloning
 echelons
+eches
 echeveria
 echidna
 echidnas
@@ -29006,6 +29016,7 @@ electuary
 eledoisins
 eleemosynary
 elegance
+elegances
 elegancies
 elegantly
 elegiacal
@@ -33350,6 +33361,7 @@ fellowshipped
 fellowships
 felon
 felonies
+felonious
 feloniousness
 felonries
 felonry
@@ -38980,6 +38992,7 @@ goose
 gooseberries
 goosed
 goosefishes
+goosefleshes
 goosefoots
 goosegrass
 goosegrasses
@@ -40573,6 +40586,7 @@ haircut
 haircuts
 haircutter
 haircutting
+haircuttings
 hairdo
 hairdressing
 hairdressings
@@ -47497,6 +47511,7 @@ intraday
 intradermally
 intrados
 intradoses
+intragenic
 intramolecular
 intramurally
 intranasal
@@ -48264,6 +48279,7 @@ itinerancy
 itinerantly
 itineraries
 itinerary
+itinerated
 its
 itself
 ivermectin
@@ -52588,6 +52604,7 @@ locksmithing
 locksmithings
 locksmiths
 lockstitch
+lockstitched
 lockstitches
 lockup
 loco
@@ -52952,6 +52969,7 @@ loups
 lour
 loured
 lours
+louse
 loused
 louses
 lousewort
@@ -61089,6 +61107,7 @@ nonforfeiture
 nonforfeitures
 nonformal
 nonfreezing
+nonfrozen
 nonfulfillments
 nonfunctional
 nonfunded
@@ -61358,6 +61377,7 @@ nonprofits
 nonprogram
 nonprogrammer
 nonprogrammers
+nonpros
 nonprosses
 nonprossing
 nonprotein
@@ -66184,6 +66204,7 @@ pantie
 pantile
 pantiles
 panting
+pantingly
 pantisocracy
 pantisocratical
 pantisocratist
@@ -68775,6 +68796,7 @@ photodiode
 photodiodes
 photodissociate
 photoduplicate
+photoduplicates
 photoed
 photoelectric
 photoelectron
@@ -71100,6 +71122,7 @@ portions
 portless
 portlier
 portliest
+portlinesses
 portmanteaux
 portraitists
 portraitures
@@ -71456,6 +71479,7 @@ pouchiest
 pouchy
 pouf
 poufed
+pouffe
 pouffed
 pouffes
 pouffs
@@ -72051,6 +72075,7 @@ prefixion
 prefixions
 preflight
 preflighted
+preflights
 prefocuses
 prefocusing
 prefocussed
@@ -76517,6 +76542,7 @@ recites
 reciting
 recked
 reckon
+reckoned
 reckoner
 reckoners
 reckoning
@@ -76694,6 +76720,7 @@ reconstruct
 reconstructed
 reconstructible
 reconstructive
+reconstructor
 reconstructors
 reconsult
 reconsulting
@@ -79940,6 +79967,7 @@ revolved
 revolver
 revolvers
 revolves
+revoted
 revotes
 revoting
 revs
@@ -80007,6 +80035,7 @@ reworking
 rewound
 rewove
 rewoven
+rewraps
 rewrapt
 rewrite
 rewritten
@@ -81417,6 +81446,7 @@ ruthful
 ruthfulness
 ruthless
 ruthlessness
+ruthlessnesses
 ruths
 rutilant
 rutile
@@ -88836,6 +88866,7 @@ sporicidal
 sporicides
 sporocarp
 sporocarps
+sporocysts
 sporogeneses
 sporogenesis
 sporogenic
@@ -89989,6 +90020,7 @@ stingos
 stingrays
 stink
 stinkards
+stinkbug
 stinkier
 stinkingly
 stinko
@@ -92524,6 +92556,7 @@ surveying
 surveyings
 surveyor
 survivability
+survivable
 survival
 survivalists
 survivals
@@ -98971,6 +99004,7 @@ unarguably
 unargued
 unarm
 unarmed
+unarrayed
 unarrogant
 unarticulated
 unartistic
@@ -103361,6 +103395,7 @@ voussoir
 vow
 vowelizes
 vowelizing
+vower
 vowers
 vowing
 vowless
