@@ -4373,6 +4373,7 @@ apriority
 aproning
 aprons
 apropos
+aprotic
 apse
 apses
 apsides
@@ -9302,6 +9303,7 @@ blastular
 blastulas
 blastulation
 blastulations
+blasty
 blatancies
 blatancy
 blatant
@@ -10688,6 +10690,7 @@ brandished
 brandishes
 brandishing
 brandlings
+brands
 brandy
 brandying
 branks
@@ -16037,6 +16040,7 @@ clambakes
 clambered
 clamberer
 clambering
+clambers
 clamlike
 clammed
 clammer
@@ -16211,6 +16215,7 @@ claymore
 claypan
 claystone
 claystones
+claytonia
 claytonias
 clayware
 claywares
@@ -16238,6 +16243,7 @@ clearer
 clearers
 clearest
 cleareyed
+clearheadedness
 clearing
 clearinghouse
 clearings
@@ -18601,6 +18607,7 @@ conjunctional
 conjunctions
 conjunctiva
 conjunctivae
+conjunctivas
 conjunctive
 conjuncture
 conjunctures
@@ -22632,6 +22639,7 @@ debits
 debonair
 debonairly
 debonairness
+debonairnesses
 debone
 deboned
 deboning
@@ -33882,6 +33890,7 @@ finer
 fineries
 finery
 fines
+finespun
 finesse
 finesses
 finessing
@@ -34089,6 +34098,7 @@ fishplates
 fishpole
 fishpond
 fishponds
+fishtail
 fishtailed
 fishtails
 fishway
@@ -34381,6 +34391,7 @@ flaunty
 flautists
 flavanol
 flavanone
+flavanones
 flavin
 flavine
 flavone
@@ -35233,6 +35244,7 @@ forbode
 forboded
 forbodes
 forbore
+forborne
 forby
 forbye
 force
@@ -41816,6 +41828,7 @@ heparin
 hepatics
 hepatitis
 hepatitises
+hepatize
 hepatizes
 hepatocyte
 hepatocytes
@@ -42376,6 +42389,7 @@ histogeneses
 histogenesis
 histogenetic
 histoid
+histologic
 histologically
 histologist
 histologists
@@ -45490,6 +45504,7 @@ incredulous
 incredulously
 incrementalism
 incrementalist
+incrementalists
 incrementally
 increscent
 incriminate
@@ -46133,6 +46148,7 @@ infused
 infuser
 infusibilities
 infusibleness
+infusorian
 ingate
 ingather
 ingatherings
@@ -50854,6 +50870,7 @@ laurels
 lav
 lava
 lavabo
+lavage
 lavages
 lavalier
 lavaliere
@@ -56481,6 +56498,7 @@ miracidium
 miracle
 miracles
 miraculous
+miraculousness
 miradors
 mirage
 mirages
@@ -57195,6 +57213,7 @@ mistouching
 mistrace
 mistraces
 mistracing
+mistrain
 mistrained
 mistrains
 mistrals
@@ -58666,6 +58685,7 @@ multipartite
 multiparty
 multipath
 multipede
+multipedes
 multipion
 multipiston
 multiplayer
@@ -63224,6 +63244,7 @@ oryx
 oryxes
 os
 osar
+oscillate
 oscillated
 oscillates
 oscillating
@@ -63244,6 +63265,7 @@ oscitant
 osculant
 oscular
 osculate
+osculating
 oscule
 oscules
 osculum
@@ -66396,6 +66418,7 @@ parliaments
 parling
 parlor
 parlors
+parlous
 parmesan
 parmesans
 parmigiana
@@ -67341,6 +67364,7 @@ peninsulas
 penitence
 penitences
 penitent
+penitential
 penitentially
 penitentiaries
 penitently
@@ -69561,6 +69585,7 @@ plainchant
 plainchants
 plainclothes
 plainclothesman
+plainclothesmen
 plained
 plainer
 plaining
@@ -73272,6 +73297,7 @@ prose
 prosect
 prosected
 prosects
+prosecute
 prosecution
 prosecutions
 prosecutor
@@ -82570,6 +82596,7 @@ schwarmerei
 schwarmereis
 schwas
 sciaenids
+sciaenoids
 sciamachy
 sciatica
 sciaticas
@@ -85064,6 +85091,7 @@ shrink
 shrinkage
 shrinkages
 shrinker
+shrinkers
 shrinking
 shrinks
 shris
@@ -86603,6 +86631,7 @@ smelts
 smerked
 smerks
 smew
+smidgen
 smidgeon
 smidges
 smidgin
@@ -87063,6 +87092,7 @@ soba
 sobas
 sobber
 sobbers
+sobbing
 sobbingly
 sobeit
 sober
@@ -88741,6 +88771,7 @@ spumy
 spunk
 spunkier
 spunkies
+spunkiest
 spunkily
 spunkiness
 spunks
@@ -89927,6 +89958,7 @@ stoppled
 stoppling
 stops
 stopwatch
+stopword
 storages
 storax
 storehouse
@@ -94193,6 +94225,7 @@ tenser
 tensible
 tensile
 tensilities
+tensiometer
 tensiometries
 tensiometry
 tensioned
@@ -100386,6 +100419,7 @@ unroll
 unrolled
 unrolls
 unromantically
+unromanticized
 unroofed
 unroofs
 unrooted
@@ -105261,6 +105295,7 @@ wovens
 wowsers
 wracked
 wrackful
+wracks
 wraithlike
 wrang
 wrangle
