@@ -2957,9 +2957,11 @@ anatomic
 anatomical
 anatomically
 anatomised
+anatomises
 anatomists
 anatomized
 anatomizing
+anatoxins
 anatropous
 anattos
 ancestored
@@ -3598,6 +3600,7 @@ antifatigue
 antifeminism
 antifeminist
 antifeminists
+antifertility
 antifilibuster
 antifoam
 antifoaming
@@ -12498,6 +12501,7 @@ calorically
 calorics
 calories
 calorimeters
+calorimetric
 calorimetry
 calorizes
 calory
@@ -13595,6 +13599,7 @@ castigations
 castigator
 castle
 castled
+castles
 castling
 castoff
 castoffs
@@ -14712,6 +14717,7 @@ chasses
 chasseurs
 chassis
 chastely
+chasten
 chastened
 chastener
 chasteners
@@ -14734,6 +14740,7 @@ chateaubriand
 chateaus
 chatelain
 chatelaine
+chatelaines
 chatelains
 chatoyant
 chatoyants
@@ -16090,6 +16097,7 @@ clarinets
 clarion
 clarioned
 clarionets
+clarioning
 clarions
 clarities
 clarkia
@@ -24702,6 +24710,7 @@ diaeresis
 diaeretic
 diagenesis
 diagenetic
+diagenetically
 diageotropic
 diagnosable
 diagnose
@@ -24796,6 +24805,7 @@ diapedesis
 diapering
 diapers
 diaphaneities
+diaphaneity
 diaphanous
 diaphanously
 diaphanousness
@@ -25786,6 +25796,7 @@ disemploy
 disemployed
 disemploying
 disenable
+disenchanted
 disenchanters
 disenchantingly
 disenchantment
@@ -30663,6 +30674,7 @@ equivocation
 equivocations
 equivocators
 equivoke
+equivokes
 equivoque
 equivoques
 er
@@ -32040,6 +32052,7 @@ exploitable
 exploitation
 exploitative
 exploited
+exploiter
 exploiters
 exploitive
 explorational
@@ -32187,6 +32200,7 @@ exteriorities
 exteriority
 exteriorized
 exteriorizes
+exteriorizing
 exteriorly
 exterminate
 exterminated
@@ -32496,6 +32510,7 @@ factories
 factorization
 factorizations
 factorize
+factorizing
 factors
 factorship
 factory
@@ -33339,6 +33354,7 @@ ferret
 ferreted
 ferreter
 ferreters
+ferretings
 ferrets
 ferriage
 ferriages
@@ -39036,6 +39052,7 @@ gramineous
 gramma
 grammarian
 grammarians
+grammars
 grammas
 grammatical
 grammaticality
@@ -40547,6 +40564,7 @@ halons
 haloperidols
 halophilic
 halophyte
+halothane
 halothanes
 halt
 halted
@@ -52370,6 +52388,7 @@ lockup
 loco
 locoed
 locofoco
+locofocos
 locoing
 locoism
 locoisms
@@ -55512,6 +55531,7 @@ metastasize
 metastasizes
 metastatic
 metastatically
+metatag
 metatarsal
 metatarsus
 metate
@@ -56612,6 +56632,7 @@ miscodes
 miscoding
 miscoin
 miscoined
+miscoining
 miscolored
 miscomputation
 miscomputations
@@ -61047,6 +61068,7 @@ nonpasserine
 nonpasts
 nonpayment
 nonpayments
+nonpeak
 nonperformance
 nonperformers
 nonperforming
@@ -62362,6 +62384,7 @@ oilway
 oinking
 oinks
 oinomel
+oinomels
 ointments
 oiticicas
 okapi
@@ -65583,6 +65606,7 @@ paleobiologies
 paleobiologist
 paleobiologists
 paleobiology
+paleocene
 paleoecologic
 paleoecological
 paleoecologist
@@ -67661,6 +67685,7 @@ peripetia
 peripetias
 peripeties
 peripety
+peripheral
 peripherally
 peripheries
 periphery
@@ -74794,6 +74819,7 @@ quippy
 quips
 quipster
 quipsters
+quipus
 quire
 quires
 quirkiest
@@ -77269,6 +77295,7 @@ regive
 regiven
 regiving
 reglazed
+reglazing
 reglorified
 reglorifies
 regloss
@@ -77364,6 +77391,7 @@ reharden
 rehardened
 rehardens
 rehashed
+rehashes
 rehashing
 rehear
 reheard
@@ -78469,6 +78497,7 @@ repugnantly
 repugning
 repugns
 repulser
+repulsers
 repulses
 repulsing
 repulsions
@@ -85260,6 +85289,7 @@ significant
 significantly
 signification
 significations
+significative
 significs
 signifieds
 signifiers
@@ -85541,6 +85571,7 @@ sinuately
 sinuates
 sinuating
 sinuations
+sinuosities
 sinuous
 sinuously
 sinuousness
@@ -98131,6 +98162,7 @@ typist
 typists
 typographed
 typographers
+typographical
 typographically
 typographs
 typography
@@ -99901,6 +99933,7 @@ unlovable
 unloved
 unlovelier
 unloveliest
+unloveliness
 unlovelinesses
 unlovely
 unloving
@@ -99963,6 +99996,7 @@ unmitering
 unmiters
 unmitre
 unmitred
+unmitres
 unmitring
 unmix
 unmixable
@@ -105958,6 +105992,7 @@ zombifies
 zombify
 zombiisms
 zona
+zonally
 zonary
 zonate
 zonated
