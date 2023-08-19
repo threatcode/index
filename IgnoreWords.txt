@@ -1206,6 +1206,7 @@ aerometers
 aeronaut
 aeronautic
 aeronautical
+aeronautically
 aeronautics
 aeronauts
 aeronomers
@@ -1911,6 +1912,7 @@ alertest
 alerting
 alertly
 alertnesses
+alerts
 ales
 aleuron
 aleuronic
@@ -5098,6 +5100,7 @@ aspect
 aspects
 aspen
 aspens
+asper
 asperate
 asperates
 asperating
@@ -16092,6 +16095,7 @@ clamoring
 clamorous
 clamorously
 clamors
+clamour
 clamoured
 clamours
 clamp
@@ -16250,6 +16254,7 @@ clayish
 claylike
 claymore
 claypan
+clays
 claystone
 claystones
 claytonia
@@ -16473,6 +16478,7 @@ cloggy
 clogs
 cloisonne
 cloistered
+cloistering
 cloisters
 cloistral
 clomb
@@ -20268,6 +20274,7 @@ couteaux
 couter
 couth
 couthest
+couthie
 couture
 coutures
 couturiers
@@ -21704,6 +21711,7 @@ curvet
 curveting
 curvetted
 curviest
+curvilinear
 curvy
 cuscuses
 cusec
@@ -22621,6 +22629,7 @@ dear
 dearest
 dearie
 dearies
+dearly
 dearness
 dears
 dearth
@@ -22945,6 +22954,7 @@ decolor
 decolorizations
 decolorized
 decolorizer
+decolors
 decolour
 decoloured
 decolouring
@@ -28008,6 +28018,7 @@ dunker
 dunkers
 dunlin
 dunlins
+dunnage
 dunnages
 dunner
 dunness
@@ -32161,6 +32172,7 @@ explorations
 explore
 explorers
 explores
+explosion
 explosions
 explosively
 explosiveness
@@ -32648,6 +32660,7 @@ fadednesses
 fadeless
 fadeout
 fadeouts
+fader
 fadging
 fading
 fadlike
@@ -36699,6 +36712,7 @@ fusillades
 fusillading
 fusilli
 fusillis
+fusing
 fusional
 fusionism
 fusionisms
@@ -37804,6 +37818,7 @@ geostrategic
 geostrategist
 geostrophically
 geosynclinal
+geosyncline
 geosynclines
 geotactic
 geotaxes
@@ -41912,6 +41927,7 @@ henting
 hents
 hep
 heparin
+hepaticas
 hepatics
 hepatitis
 hepatitises
@@ -42519,6 +42535,7 @@ hmm
 ho
 hoactzins
 hoagie
+hoagy
 hoar
 hoard
 hoarder
@@ -43351,6 +43368,7 @@ housebreaks
 housebroke
 housebroken
 houseclean
+housecleanings
 housecoat
 housecoats
 housedresses
@@ -47456,6 +47474,7 @@ intracardial
 intracardially
 intracellular
 intracellularly
+intracerebrally
 intracity
 intracompany
 intracranial
@@ -47666,6 +47685,7 @@ invertebrates
 inverted
 invertible
 inverting
+invertins
 invertor
 inverts
 invest
@@ -48886,6 +48906,7 @@ journeyman
 journeymen
 journo
 journos
+jousted
 jousting
 jousts
 jovialities
@@ -54180,6 +54201,7 @@ mansard
 mansarded
 mansards
 manse
+manservant
 manses
 mansion
 mansions
@@ -56411,6 +56433,7 @@ mimbar
 mimbars
 mime
 mimed
+mimeo
 mimeograph
 mimeographs
 mimeos
@@ -58620,6 +58643,7 @@ muddier
 muddiest
 muddily
 muddleheaded
+muddler
 muddly
 muddy
 muddying
@@ -59080,6 +59104,7 @@ muskoxen
 muskrat
 muskrats
 muskroot
+muskroots
 musks
 musky
 muslin
@@ -61499,6 +61524,7 @@ nonviolent
 nonvirgin
 nonvirile
 nonvisual
+nonvocal
 nonvoluntary
 nonvoters
 nonvoting
@@ -62100,6 +62126,7 @@ oblateness
 oblatenesses
 oblations
 oblatory
+obligate
 obligated
 obligately
 obligates
@@ -63329,6 +63356,7 @@ orpiment
 orpiments
 orpin
 orpine
+orpins
 orra
 orrery
 orrices
@@ -65333,6 +65361,7 @@ overtone
 overtop
 overtopped
 overtopping
+overtops
 overtrades
 overtrading
 overtrain
@@ -83518,6 +83547,7 @@ seditiousness
 seditiousnesses
 seduce
 seducer
+seducers
 seducive
 seduction
 seductive
@@ -91260,6 +91290,7 @@ subsequent
 subsequents
 subsere
 subseres
+subserve
 subserved
 subserves
 subserviences
@@ -91383,6 +91414,7 @@ subtilization
 subtilizations
 subtilize
 subtilizing
+subtilty
 subtitling
 subtlenesses
 subtler
@@ -95905,6 +95937,7 @@ today
 toddled
 toddlerhood
 toddlerhoods
+toddles
 tods
 tody
 toea
@@ -96752,6 +96785,7 @@ transaxles
 transceivers
 transcend
 transcended
+transcendence
 transcendent
 transcendently
 transcending
@@ -105973,6 +106007,7 @@ yente
 yeoman
 yeomanries
 yeomen
+yerba
 yerbas
 yerk
 yerked
