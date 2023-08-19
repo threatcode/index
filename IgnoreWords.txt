@@ -4825,6 +4825,7 @@ arrestee
 arresters
 arresting
 arrestive
+arrestment
 arrestments
 arrestor
 arrests
@@ -6515,6 +6516,7 @@ bagged
 bagger
 baggier
 baggies
+baggiest
 bagginess
 bagginesses
 baghouse
@@ -10552,6 +10554,7 @@ boyishness
 boyishnesses
 boyla
 boylas
+boyo
 boys
 boysenberry
 bozo
@@ -15650,6 +15653,7 @@ chumps
 chumship
 chumships
 chunk
+chunked
 chunkier
 chunkiest
 chunking
@@ -16514,6 +16518,7 @@ cloudscapes
 clough
 cloughs
 clours
+clout
 clouted
 clouters
 clove
@@ -18085,6 +18090,7 @@ computerize
 computerized
 computerizes
 computerizing
+computerless
 computerlike
 computernik
 computerphobe
@@ -26197,6 +26203,7 @@ disproved
 disproven
 disproving
 disputant
+disputations
 disputatious
 disputatiously
 dispute
@@ -26952,6 +26959,7 @@ doobies
 doodad
 doodads
 doodies
+doodle
 doodlebug
 doodled
 doodler
@@ -27486,6 +27494,7 @@ dreariest
 drearily
 dreariness
 dreary
+dreck
 drecky
 dredge
 dredged
@@ -31560,6 +31569,7 @@ examinable
 examinants
 examination
 examinational
+examinations
 examined
 examinee
 examinees
@@ -32868,6 +32878,7 @@ farfetchedness
 farinaceous
 faring
 farinha
+farkleberries
 farl
 farle
 farles
@@ -34595,6 +34606,7 @@ flites
 flits
 flitter
 flittered
+flittering
 flitting
 flivver
 flivvers
@@ -36116,6 +36128,7 @@ frittered
 fritterer
 fritterers
 fritz
+fritzes
 frivol
 frivoler
 frivolers
@@ -38640,6 +38653,7 @@ goannas
 goas
 goat
 goatee
+goatees
 goatfish
 goatherds
 goatish
@@ -40260,6 +40274,7 @@ gyrator
 gyrators
 gyrenes
 gyres
+gyro
 gyrocompasses
 gyrofrequency
 gyromagnetic
@@ -44439,6 +44454,7 @@ illimitableness
 illimitably
 illiquid
 illiquidities
+illiquidity
 illite
 illiteracy
 illiterately
@@ -46456,6 +46472,7 @@ inquisitorial
 inquisitorially
 inquisitors
 inroads
+inrush
 inrushing
 inrushings
 ins
@@ -51525,6 +51542,7 @@ lewises
 lewisite
 lewisson
 lewissons
+lex
 lexemic
 lexes
 lexica
@@ -52380,6 +52398,7 @@ lobsterers
 lobstering
 lobsterman
 lobstermen
+lobsters
 lobstick
 lobsticks
 lobular
@@ -52744,6 +52763,7 @@ lorgnons
 lorica
 loricae
 lories
+lorikeets
 loriner
 loriners
 lornness
@@ -57255,6 +57275,7 @@ misuser
 misuses
 misusing
 misutilization
+misutilizations
 misvalue
 misvalued
 misvalues
@@ -59615,6 +59636,7 @@ neater
 neath
 neatherds
 neatly
+neatness
 neatnik
 neats
 nebbishy
@@ -61514,6 +61536,7 @@ notated
 notating
 notation
 notational
+notations
 notch
 notchback
 notchbacks
@@ -61928,6 +61951,7 @@ obfuscating
 obfuscation
 obfuscations
 obfuscatory
+obi
 obiisms
 obis
 obit
@@ -68705,6 +68729,7 @@ photovoltaic
 photovoltaics
 phots
 phragmoplast
+phrasally
 phrase
 phrased
 phrasemaker
@@ -73570,6 +73595,7 @@ prowest
 prowl
 prowled
 prowlers
+prowls
 prows
 proxemic
 proxies
@@ -77135,6 +77161,7 @@ refiner
 refiners
 refinery
 refinish
+refinished
 refinishers
 refire
 refired
@@ -91424,6 +91451,7 @@ sughs
 suicidal
 suicided
 suicides
+suiciding
 suing
 suit
 suitability
@@ -91529,6 +91557,7 @@ sultry
 sulu
 sumach
 sumachs
+sumacs
 sumless
 summability
 summae
@@ -94735,6 +94764,7 @@ there
 thereabout
 thereafter
 thereat
+therefrom
 therein
 thereinafter
 theremin
@@ -98565,6 +98595,7 @@ umiaq
 umlaut
 umlauting
 umlauts
+umm
 umping
 umpirages
 umpire
@@ -99311,6 +99342,7 @@ underplayed
 underplays
 underplot
 underpowered
+underprice
 underpriced
 underproduction
 underproof
@@ -101988,6 +102020,7 @@ venetian
 venge
 vengeance
 vengeances
+venged
 vengefully
 vengefulness
 vengefulnesses
@@ -105363,6 +105396,7 @@ wries
 wriest
 wriggled
 wriggler
+wriggling
 wriggly
 wright
 wrights
@@ -105827,6 +105861,7 @@ yoks
 yolk
 yolkier
 yolks
+yom
 yomim
 yon
 yoni
