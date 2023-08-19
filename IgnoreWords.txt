@@ -3770,6 +3770,7 @@ antiplaque
 antipoaching
 antipodal
 antipodals
+antipode
 antipodean
 antipoetic
 antipolar
@@ -4302,6 +4303,7 @@ appointers
 appointing
 appointive
 appointor
+appointors
 appoints
 apportionable
 apportioned
@@ -4731,6 +4733,7 @@ arkose
 arm
 armada
 armadas
+armadillo
 armagnacs
 armament
 armamentaria
@@ -6885,6 +6888,7 @@ baobabs
 bap
 baps
 baptise
+baptises
 baptising
 baptismal
 baptismally
@@ -15484,6 +15488,7 @@ choral
 chorale
 chorals
 chordal
+chordate
 chording
 chords
 chorea
@@ -22783,6 +22788,7 @@ decarbonations
 decarbonizer
 decarboxylase
 decarboxylases
+decarboxylated
 decarboxylates
 decarburization
 decarburizes
@@ -29687,6 +29693,7 @@ encyclopaedic
 encyclopedia
 encyclopedias
 encyclopedism
+encyclopedists
 encysted
 encysting
 end
@@ -35831,6 +35838,7 @@ foxtrot
 foxtrotted
 foxtrotting
 foxy
+foy
 foys
 foziest
 foziness
@@ -35979,6 +35987,7 @@ freaky
 freckles
 frecklier
 freckliest
+freckling
 free
 freebaser
 freebasers
@@ -37352,6 +37361,7 @@ gastronomies
 gastronomists
 gastropod
 gastropods
+gastroscopic
 gastroscopies
 gastroscopist
 gastroscopy
@@ -44472,6 +44482,7 @@ ignescent
 ignescents
 ignified
 ignify
+ignifying
 ignitability
 ignitable
 ignite
@@ -44744,6 +44755,7 @@ immersible
 immersing
 immersion
 immersions
+immesh
 immeshes
 immeshing
 immies
@@ -45509,6 +45521,7 @@ incoherent
 incoherently
 incombustibles
 income
+incomer
 incomes
 incoming
 incommensurably
@@ -49332,6 +49345,7 @@ kavas
 kavass
 kayak
 kayaker
+kayakers
 kayaking
 kayakings
 kayaks
@@ -52397,6 +52411,7 @@ liveliest
 livelihood
 livelihoods
 liveliness
+livelong
 lively
 liven
 livened
@@ -55207,6 +55222,7 @@ meliorate
 meliorated
 meliorates
 meliorating
+melioration
 meliorations
 meliorator
 meliorism
@@ -57153,6 +57169,7 @@ misparses
 misparsing
 misparted
 misparting
+mispatch
 mispatches
 mispatching
 mispenning
@@ -60751,9 +60768,11 @@ nonarbitrary
 nonargument
 nonarguments
 nonaromatic
+nonartist
 nonartists
 nonarts
 nonas
+nonassertive
 nonastronomical
 nonatomic
 nonattachment
@@ -64529,6 +64548,7 @@ overbetted
 overbetting
 overbidden
 overbilled
+overbilling
 overbills
 overbite
 overbites
@@ -67200,6 +67220,7 @@ peasants
 peascod
 peascods
 pease
+peasen
 peases
 peashooter
 peashooters
@@ -79800,6 +79821,7 @@ reverences
 reverencing
 reverends
 reverential
+reverently
 reverers
 reverie
 reveries
@@ -81311,6 +81333,7 @@ rungless
 rungs
 runic
 runkled
+runkles
 runkling
 runless
 runlets
@@ -82070,6 +82093,7 @@ saponifier
 saponin
 saponine
 saponins
+saponites
 saporous
 sapors
 sapota
@@ -82440,6 +82464,7 @@ scalare
 scalares
 scalariform
 scalariformly
+scalars
 scalation
 scalations
 scalawag
@@ -87525,6 +87550,7 @@ soleplate
 soleprint
 soleret
 solerets
+soles
 soleus
 solfatara
 solfege
@@ -91271,6 +91297,7 @@ subscience
 subscribe
 subscribed
 subscriber
+subscribers
 subscribing
 subscription
 subscriptions
@@ -92518,6 +92545,7 @@ suspend
 suspended
 suspender
 suspenders
+suspending
 suspends
 suspense
 suspensefulness
@@ -92974,6 +93002,7 @@ symbiote
 symbol
 symbolic
 symbolical
+symboling
 symbolise
 symbolised
 symbolist
@@ -95703,6 +95732,7 @@ timpanum
 timpanums
 tinamou
 tinamous
+tincal
 tinct
 tincted
 tincting
@@ -95983,6 +96013,7 @@ toileted
 toileting
 toiletries
 toilets
+toilettes
 toils
 toilsomely
 toilsomenesses
@@ -100425,6 +100456,7 @@ unmyelinated
 unnail
 unnails
 unnameable
+unnamed
 unnatural
 unnaturalness
 unnaturalnesses
@@ -102019,6 +102051,7 @@ varyingly
 vas
 vasa
 vascula
+vascularities
 vascularity
 vascularization
 vasculature
@@ -102407,6 +102440,7 @@ veritableness
 veritablenesses
 verite
 verity
+verjuices
 vermeil
 vermeils
 vermes
@@ -104741,6 +104775,7 @@ wicking
 wickings
 wickiup
 wickiups
+wickless
 wicks
 wicopies
 wicopy
