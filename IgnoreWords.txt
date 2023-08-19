@@ -1620,6 +1620,7 @@ agrees
 agribusiness
 agribusinessman
 agribusinessmen
+agrichemicals
 agricultural
 agriculture
 agriculturist
@@ -2844,6 +2845,7 @@ anabasis
 anabatic
 anabioses
 anabiotic
+anableps
 anablepses
 anabranch
 anachronic
@@ -3724,6 +3726,7 @@ antimusical
 antimycin
 antimycins
 antinarrative
+antinational
 antinationalist
 antinatural
 antinepotism
@@ -7987,6 +7990,7 @@ belongingnesses
 belongings
 belongs
 belons
+beloved
 beloveds
 below
 belt
@@ -13306,6 +13310,7 @@ cardiopathies
 cardiopulmonary
 cardiotonic
 cardiotonics
+cardiovascular
 carditic
 carditises
 cardons
@@ -14687,6 +14692,7 @@ charade
 charases
 charbroil
 charbroiled
+charbroiler
 charbroilers
 charbroiling
 charbroils
@@ -15690,6 +15696,7 @@ chuddars
 chudders
 chufas
 chuff
+chuffest
 chuffs
 chug
 chugalugs
@@ -20835,6 +20842,7 @@ cribber
 cribbing
 cribbings
 cribriform
+cribrous
 cribs
 cribwork
 cribworks
@@ -24124,6 +24132,7 @@ depress
 depressed
 depresses
 depressing
+depression
 depressive
 depressively
 depressives
@@ -25425,6 +25434,7 @@ dinucleotides
 diobol
 diobolon
 diobolons
+diocesan
 diocesans
 diocese
 diodes
@@ -33694,6 +33704,7 @@ fib
 fibber
 fibbers
 fibbing
+fiber
 fiberboards
 fibered
 fiberfill
@@ -37513,6 +37524,7 @@ gayeties
 gayness
 gaynesses
 gays
+gazabo
 gazaboes
 gazabos
 gazania
@@ -44045,6 +44057,7 @@ hypercritics
 hypercube
 hyperefficient
 hyperemias
+hyperesthesia
 hyperesthetic
 hypereutectoid
 hyperexcited
@@ -46247,6 +46260,7 @@ inflectionally
 inflective
 inflector
 inflexibility
+inflexible
 inflexion
 inflexions
 inflicters
@@ -48009,6 +48023,7 @@ irredentas
 irreducibility
 irreflexive
 irreformability
+irreformable
 irrefragability
 irrefragable
 irrefragably
@@ -52208,6 +52223,7 @@ linoleates
 linoleum
 linos
 linotype
+linotyped
 linotypes
 linotyping
 lins
@@ -52375,6 +52391,7 @@ literarinesses
 literately
 literateness
 literatim
+literation
 literations
 literator
 literators
@@ -52384,6 +52401,7 @@ liters
 lithe
 lithely
 lithemia
+lithemias
 litheness
 lithenesses
 lither
@@ -54418,6 +54436,7 @@ marginals
 marginated
 marginating
 margination
+marginations
 margined
 margining
 margins
@@ -58069,6 +58088,7 @@ monopsony
 monorail
 monorails
 monorchid
+monorchidisms
 monorchids
 monorhyme
 monorhymed
@@ -58647,6 +58667,7 @@ moviegoing
 moviemaking
 moviemakings
 movieolas
+movies
 moving
 moviola
 mow
@@ -60488,6 +60509,7 @@ niffering
 nifties
 niftiest
 niftily
+nifty
 niggard
 niggarded
 niggarding
@@ -61893,6 +61915,7 @@ nucleation
 nucleations
 nuclein
 nucleins
+nucleoid
 nucleoids
 nucleoles
 nucleonics
@@ -63073,6 +63096,7 @@ opiate
 opiating
 opine
 opined
+opining
 opinion
 opinionated
 opinionative
@@ -67101,6 +67125,7 @@ patronal
 patronesses
 patronise
 patronised
+patronising
 patronization
 patronizations
 patronize
@@ -69625,6 +69650,7 @@ pipeline
 pipelined
 piper
 piperazine
+piperazines
 piperines
 piperonals
 pipes
@@ -72336,6 +72362,7 @@ preobtained
 preoccupancy
 preoccupied
 preoccupies
+preoccupy
 preopening
 preoperative
 preops
@@ -75139,6 +75166,7 @@ quillai
 quillaia
 quillais
 quillaja
+quillajas
 quillback
 quillbacks
 quilling
@@ -75784,6 +75812,7 @@ ranular
 ranulas
 ranunculi
 ranunculuses
+rapaciously
 rapacities
 rape
 raped
@@ -80506,6 +80535,7 @@ rin
 rind
 rindless
 rinds
+ringbark
 ringbarks
 ringbolt
 ringbolts
@@ -91604,6 +91634,7 @@ suburbanising
 suburbanites
 suburbanize
 suburbanized
+suburbed
 suburbs
 subvarieties
 subvassal
@@ -91624,6 +91655,7 @@ subverts
 subvicars
 subviruses
 subvocalize
+subvocalized
 subvocalizing
 subway
 subwayed
@@ -94056,6 +94088,7 @@ tautologously
 tautology
 tautomer
 tautomerism
+tautomerisms
 tautonym
 tautonyms
 tautonymy
@@ -95841,6 +95874,7 @@ timeservers
 timeserving
 timeservings
 timework
+timeworker
 timeworkers
 timeworn
 timid
@@ -96466,6 +96500,7 @@ tormentors
 torments
 torn
 tornado
+tornados
 tornillo
 toro
 toroid
