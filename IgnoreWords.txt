@@ -1635,6 +1635,7 @@ agrochemicals
 agroforester
 agroforestries
 agrologic
+agrologies
 agronomies
 agronomists
 agronomy
@@ -4314,6 +4315,7 @@ appliques
 apply
 applying
 appoggiatura
+appoggiaturas
 appoint
 appointers
 appointing
@@ -5545,6 +5547,7 @@ atones
 atonia
 atonias
 atonic
+atonicities
 atonicity
 atonics
 atoning
@@ -7174,6 +7177,7 @@ bashing
 bashings
 bashlyks
 basic
+basically
 basicity
 basidia
 basidial
@@ -7448,6 +7452,7 @@ beady
 beagles
 beak
 beaked
+beaker
 beakless
 beaklike
 beamed
@@ -7516,6 +7521,7 @@ beautifier
 beautifiers
 beautifies
 beautifullest
+beautifulness
 beautifulnesses
 beautify
 beautifying
@@ -12051,6 +12057,7 @@ butterburs
 buttered
 butterfat
 butterfats
+butterfingered
 butterfingers
 butterfish
 butterfishes
@@ -13025,6 +13032,7 @@ capablest
 capably
 capaciousnesses
 capacitance
+capacitances
 capacitate
 capacitates
 capacitating
@@ -13370,6 +13378,7 @@ careless
 carelessly
 carelessness
 carer
+carers
 caress
 caressed
 caressers
@@ -24865,6 +24874,7 @@ diabolist
 diabolists
 diabolize
 diabolizes
+diabolizing
 diabolo
 diabolos
 diachronically
@@ -27630,6 +27640,7 @@ dreamed
 dreamers
 dreamful
 dreamfully
+dreamfulnesses
 dreamily
 dreaminess
 dreaminesses
@@ -34972,6 +34983,7 @@ flowerpot
 flowery
 flowing
 flowingly
+flowmeters
 flown
 flows
 flowstone
@@ -35618,6 +35630,7 @@ forestages
 forestal
 forestaller
 forestallments
+forestalls
 forestaysail
 forestaysails
 forester
@@ -35849,6 +35862,7 @@ fortuning
 forty
 fortyish
 forum
+forums
 forward
 forwarded
 forwarder
@@ -39285,6 +39299,7 @@ graders
 gradients
 gradine
 gradines
+gradins
 gradiometer
 gradiometers
 gradualism
@@ -41798,6 +41813,7 @@ heightened
 heightening
 heightens
 heighth
+heightisms
 heights
 heil
 heiled
@@ -44584,6 +44600,7 @@ idle
 idleness
 idlenesses
 idler
+idlest
 idling
 idly
 idocrase
@@ -45420,6 +45437,7 @@ imputatively
 impute
 imputed
 imputer
+imputes
 inabilities
 inaccessibly
 inaccuracies
@@ -50420,6 +50438,7 @@ labanotations
 labarum
 labarums
 labdanum
+labdanums
 labeled
 labeler
 labelers
@@ -52792,6 +52811,7 @@ locules
 loculicidal
 locum
 locums
+locus
 locust
 locustae
 locution
@@ -55649,6 +55669,7 @@ merchantmen
 merchants
 mercifully
 mercilessly
+mercilessnesses
 mercs
 mercurated
 mercurating
@@ -56692,6 +56713,7 @@ mine
 minefields
 minelayer
 minelayers
+miner
 mineral
 mineralise
 mineralised
@@ -56893,6 +56915,7 @@ misagent
 misagents
 misaimed
 misalign
+misaligned
 misalignment
 misalignments
 misaligns
@@ -57999,6 +58022,7 @@ moneygrubbings
 moneylenders
 moneymaker
 moneymakers
+moneymaking
 moneymen
 moneys
 moneyworts
@@ -62491,6 +62515,7 @@ obtruder
 obtruders
 obtrusions
 obtrusive
+obtrusively
 obtrusivenesses
 obtund
 obtundents
@@ -68047,6 +68072,7 @@ peregrine
 pereion
 pereions
 pereiopod
+peremptorily
 peremptory
 perennated
 perennates
@@ -70074,6 +70100,7 @@ planch
 planche
 planchets
 planchettes
+plane
 planed
 planenesses
 planer
@@ -72918,6 +72945,7 @@ prevails
 prevalence
 prevalent
 prevalently
+prevalue
 prevaluing
 prevaricate
 prevaricated
@@ -77193,6 +77221,7 @@ redefeats
 redefect
 redefecting
 redefied
+redefined
 redefines
 redefining
 redefinition
@@ -82681,6 +82710,7 @@ savouring
 savoury
 savoy
 savoys
+savvied
 savvier
 savvies
 savviest
@@ -85862,6 +85892,7 @@ sidled
 sidlers
 siege
 sieged
+sieges
 sieging
 sienite
 sierozem
@@ -91732,6 +91763,7 @@ substrata
 substratum
 substructural
 substructure
+subsumable
 subsume
 subsumes
 subsuming
@@ -101210,6 +101242,7 @@ unshod
 unshrunk
 unsighted
 unsighting
+unsightlier
 unsights
 unsigned
 unsilent
@@ -102770,6 +102803,7 @@ verbosenesses
 verbosities
 verbosity
 verdancy
+verdantly
 verderor
 verderors
 verdin
@@ -102922,6 +102956,7 @@ vestas
 vested
 vestees
 vestiaries
+vestibular
 vestibule
 vestibuled
 vestibuling
