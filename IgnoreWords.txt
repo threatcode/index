@@ -585,6 +585,7 @@ acquires
 acquisitional
 acquisitions
 acquisitive
+acquisitiveness
 acquisitors
 acquit
 acquittals
@@ -1510,6 +1511,7 @@ aggrandizers
 aggrandizes
 aggravated
 aggravates
+aggregate
 aggregately
 aggregateness
 aggregatenesses
@@ -2465,6 +2467,7 @@ amatively
 amativeness
 amativenesses
 amatol
+amatols
 amaurosis
 amaurotic
 amaze
@@ -5843,6 +5846,7 @@ authenticate
 authenticating
 authenticators
 authenticity
+author
 authored
 authoress
 authoresses
@@ -12890,6 +12894,7 @@ cankering
 cankerous
 cankers
 cankerworm
+cankerworms
 cannabic
 cannabin
 cannabinoid
@@ -14345,6 +14350,7 @@ cephalexin
 cephalically
 cephalins
 cephalizations
+cephalometries
 cephalometry
 cephalopod
 cephaloridine
@@ -14880,6 +14886,7 @@ chatchkas
 chatchke
 chatchkes
 chateaubriand
+chateaubriands
 chateaus
 chatelain
 chatelaine
@@ -15305,6 +15312,7 @@ chining
 chinkapin
 chinkapins
 chinked
+chinkier
 chinking
 chinks
 chinned
@@ -18559,6 +18567,7 @@ confidences
 confident
 confidential
 confidentially
+confidently
 confides
 confiding
 confidingness
@@ -20879,6 +20888,7 @@ crepitate
 crepitated
 crepitates
 crepitations
+crepon
 crepuscles
 crepuscular
 crescendi
@@ -23175,6 +23185,7 @@ decrepitudes
 decrescendo
 decrescent
 decretive
+decrial
 decrials
 decried
 decries
@@ -24879,6 +24890,7 @@ dexterousnesses
 dextral
 dextran
 dextrans
+dextrines
 dextrins
 dextro
 dextrorotary
@@ -29614,6 +29626,7 @@ emperor
 emperors
 emperorship
 emperorships
+empery
 emphases
 emphasis
 emphasise
@@ -31341,6 +31354,7 @@ etceteras
 etcher
 eternal
 eternalized
+eternalizes
 eternalizing
 eternalness
 eternalnesses
@@ -37986,6 +38000,7 @@ geognosies
 geographer
 geographers
 geographic
+geographical
 geographically
 geography
 geohydrologic
@@ -43642,6 +43657,7 @@ housekeeps
 housekept
 housel
 houseled
+houselights
 houseling
 houselling
 housels
@@ -47398,6 +47414,7 @@ interlarded
 interlards
 interlayer
 interlayered
+interlaying
 interlays
 interleave
 interleaved
@@ -49122,6 +49139,7 @@ jole
 jollied
 jollier
 jollies
+jolliest
 jollified
 jollifies
 jollifying
@@ -49528,6 +49546,7 @@ kamaaina
 kamaainas
 kamacite
 kame
+kamik
 kamikaze
 kamikazes
 kampong
@@ -50109,6 +50128,7 @@ kinsfolk
 kinship
 kinsmen
 kiosks
+kip
 kippered
 kipperer
 kipperers
@@ -53859,6 +53879,7 @@ maculate
 maculated
 maculation
 macule
+macules
 macumba
 macumbas
 madam
@@ -63547,6 +63568,7 @@ orcin
 orcinol
 orcins
 ordain
+ordained
 ordainer
 ordainers
 ordaining
@@ -63671,6 +63693,7 @@ origin
 originalities
 originality
 originals
+originate
 origination
 originator
 orinasal
@@ -64102,6 +64125,7 @@ outcavils
 outcharge
 outcharged
 outcharges
+outcharging
 outcharm
 outcharmed
 outcharming
@@ -66199,6 +66223,7 @@ pair
 paired
 pairings
 paisa
+paisan
 paisana
 paisanos
 paisas
@@ -77615,6 +77640,7 @@ reefable
 reefer
 reefers
 reefier
+reefiest
 reefing
 reefs
 reefy
@@ -86292,6 +86318,7 @@ simarubas
 simas
 simazine
 simazines
+simian
 similarities
 similarity
 simile
@@ -92100,6 +92127,7 @@ succubus
 succulence
 succulent
 succulently
+succumb
 succumbs
 succussed
 succussing
@@ -92243,6 +92271,7 @@ suitcase
 suitcases
 suite
 suited
+suiter
 suiters
 suitings
 suitlike
@@ -92901,6 +92930,7 @@ supplicant
 supplicated
 supplications
 supplicatory
+supplier
 supplies
 supplying
 support
@@ -98991,6 +99021,7 @@ tweenies
 tweens
 tweet
 tweets
+tweeze
 tweezer
 tweezers
 tweezes
@@ -103140,6 +103171,7 @@ vesicants
 vesicate
 vesicates
 vesicating
+vesicle
 vesiculae
 vesicularities
 vesiculate
@@ -103528,6 +103560,7 @@ viricidal
 viricides
 virid
 viridescent
+viridian
 viridians
 viridities
 viridity
@@ -104026,6 +104059,7 @@ vulgarest
 vulgarian
 vulgarians
 vulgarised
+vulgarises
 vulgarising
 vulgarism
 vulgarisms
@@ -105656,6 +105690,7 @@ wingchairs
 winged
 winger
 wingers
+wingiest
 wingless
 winglessness
 winglets
