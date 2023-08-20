@@ -1413,6 +1413,7 @@ afterpieces
 afters
 aftershave
 aftershaves
+aftershocks
 aftertaste
 aftertastes
 aftertax
@@ -2681,6 +2682,7 @@ ammunition
 amnesia
 amnesiac
 amnesias
+amnesics
 amnestic
 amnestying
 amnia
@@ -9330,6 +9332,7 @@ blandishes
 blandishing
 blandishment
 blandly
+blank
 blanked
 blanker
 blankest
@@ -10748,6 +10751,7 @@ brainwash
 brainwasher
 brainwashers
 brainwashes
+brainy
 braise
 braised
 brakeless
@@ -11132,6 +11136,7 @@ brionies
 briquet
 briquette
 briquettes
+brisances
 brises
 brisked
 brisker
@@ -15296,6 +15301,7 @@ chinked
 chinking
 chinks
 chinned
+chinning
 chino
 chinoiserie
 chinoiseries
@@ -17357,6 +17363,7 @@ coinvent
 coinventor
 coinventors
 coinvestigator
+coinvestor
 coir
 coirs
 coistril
@@ -20107,6 +20114,7 @@ coulometries
 coulometry
 coulters
 coumaric
+coumarones
 coumarou
 coumarous
 council
@@ -20897,6 +20905,7 @@ crevice
 creviced
 crew
 crewcuts
+crewel
 crewels
 crewing
 crewman
@@ -22188,6 +22197,7 @@ czarevnas
 czarina
 czarism
 czarisms
+czarist
 czarists
 czaritzas
 czars
@@ -26444,6 +26454,7 @@ disruptors
 dissatisfaction
 dissatisfied
 dissatisfies
+dissatisfying
 dissave
 dissaves
 dissaving
@@ -32178,6 +32189,7 @@ exoticism
 exoticisms
 exoticist
 exoticists
+exoticness
 exoticnesses
 exotoxic
 exotoxin
@@ -34081,6 +34093,7 @@ filmsettings
 filmstrip
 filmy
 filo
+filoplume
 filoplumes
 filopodium
 filos
@@ -37630,6 +37643,7 @@ gavelocks
 gavials
 gavot
 gavotted
+gavottes
 gavotting
 gawk
 gawked
@@ -44094,6 +44108,7 @@ hydroxyapatite
 hydroxylapatite
 hydroxylase
 hydroxylases
+hydroxylate
 hydroxylated
 hydroxylates
 hydroxylations
@@ -46922,6 +46937,7 @@ insolents
 insoles
 insolubilities
 insolubility
+insolubilized
 insolubilizes
 insolubilizing
 insolubles
@@ -47534,6 +47550,7 @@ interrogatives
 interrogator
 interrogatories
 interrogatory
+interrow
 interrupted
 interrupters
 interruptible
@@ -52646,6 +52663,7 @@ liturgist
 liturgists
 livabilities
 livability
+livableness
 liveability
 lived
 liveliest
@@ -52825,6 +52843,7 @@ lockouts
 lockrams
 locks
 lockset
+locksets
 locksmith
 locksmithing
 locksmithings
@@ -53950,6 +53969,7 @@ magnifying
 magniloquence
 magniloquences
 magniloquent
+magnitude
 magnum
 magnums
 magot
@@ -55602,6 +55622,7 @@ mended
 mendelevium
 mendicancies
 mendicancy
+mendicant
 mendicants
 mendicity
 mending
@@ -58553,6 +58574,7 @@ morphometry
 morphophonemics
 morphos
 morphoses
+morphosis
 morphs
 morrions
 morris
@@ -62986,6 +63008,7 @@ oleographs
 oleoresin
 oleoresins
 oles
+olestra
 olestras
 olfaction
 olfactions
@@ -65556,6 +65579,7 @@ oversharp
 overshirt
 overshirts
 overshoe
+overshoes
 overshooting
 overshots
 overside
@@ -67840,6 +67864,7 @@ pendentives
 pending
 pends
 pendular
+pendulous
 pendulousnesses
 pendulum
 pendulums
@@ -70642,6 +70667,7 @@ plural
 pluralist
 pluralists
 pluralities
+pluralizations
 pluralize
 pluralized
 pluralizing
@@ -74162,6 +74188,7 @@ prudes
 prudishly
 pruinose
 prune
+pruned
 prunella
 prunelles
 prunello
@@ -77553,6 +77580,7 @@ reeker
 reekier
 reeking
 reel
+reelecting
 reelections
 reeled
 reeler
@@ -77699,6 +77727,7 @@ refeeds
 refeel
 refeeling
 refel
+refels
 refenced
 refences
 refencing
@@ -79659,6 +79688,7 @@ respirometries
 respirometry
 respites
 respiting
+resplendence
 resplendences
 resplendencies
 resplendency
@@ -92498,6 +92528,7 @@ superefficient
 superegoist
 superegoists
 superegos
+superelevates
 superelevations
 superelite
 supereminence
@@ -94555,6 +94586,7 @@ technetium
 technetiums
 technetronic
 technical
+technicalities
 technicality
 technicalize
 technicalized
@@ -98934,6 +98966,7 @@ twill
 twilling
 twillings
 twin
+twine
 twined
 twiner
 twiners
@@ -99490,6 +99523,7 @@ unaudited
 unaus
 unauthentic
 unautomated
+unavailable
 unavailingly
 unavenged
 unaverted
@@ -104764,6 +104798,7 @@ weft
 wefts
 weigela
 weigelas
+weigelia
 weigelias
 weigh
 weighable
