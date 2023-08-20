@@ -2935,6 +2935,7 @@ analysed
 analyser
 analyses
 analysing
+analyst
 analyte
 analytes
 analytic
@@ -16005,6 +16006,7 @@ cirque
 cirrate
 cirrhoses
 cirrhosis
+cirripede
 cirrocumulus
 cirrose
 cirrostratus
@@ -22823,6 +22825,7 @@ debs
 debt
 debtors
 debug
+debugged
 debuggers
 debugging
 debunk
@@ -27608,6 +27611,7 @@ drapeability
 drapeable
 draper
 draperied
+draperies
 drapery
 drastically
 dratted
@@ -29392,6 +29396,7 @@ embolies
 embolisms
 embolizations
 embonpoint
+embonpoints
 embordered
 embordering
 emborders
@@ -40624,6 +40629,7 @@ hachures
 hachuring
 hacienda
 haciendado
+haciendados
 hack
 hackable
 hackamore
@@ -45351,6 +45357,7 @@ impounders
 impoundment
 impoundments
 impounds
+impoverished
 impoverisher
 impoverishing
 impoverishment
@@ -50223,6 +50230,7 @@ knockless
 knockouts
 knocks
 knockwursts
+knoll
 knolled
 knollers
 knolly
@@ -50440,6 +50448,7 @@ kyak
 kyaks
 kyanise
 kyanised
+kyanises
 kyanite
 kyanize
 kyanized
@@ -51595,6 +51604,7 @@ legislature
 legists
 legit
 legitimacy
+legitimated
 legitimately
 legitimates
 legitimating
@@ -52122,6 +52132,7 @@ lighted
 lightener
 lightening
 lighterage
+lighterages
 lightered
 lighters
 lightface
@@ -53130,6 +53141,7 @@ lornness
 losable
 losableness
 losablenesses
+losel
 loser
 loses
 losingly
@@ -55406,6 +55418,7 @@ megaton
 megatonnage
 megatonnages
 megavitamin
+megavitamins
 megavolt
 megawatt
 megilla
@@ -55686,6 +55699,7 @@ mercer
 merceries
 mercerising
 mercerization
+mercerizations
 mercerize
 mercerized
 mercerizing
@@ -57340,6 +57354,7 @@ mislabor
 mislaboring
 mislain
 mislay
+mislays
 misleader
 misleading
 misleadingly
@@ -61220,6 +61235,7 @@ noncreative
 noncreativity
 noncredentialed
 noncredit
+noncrime
 noncrimes
 noncriminals
 noncrises
@@ -63289,6 +63305,7 @@ opiate
 opiating
 opine
 opined
+oping
 opining
 opinion
 opinionated
@@ -63309,6 +63326,7 @@ opponencies
 opponency
 opponent
 opponents
+opportune
 opportunely
 opportunenesses
 opportunisms
@@ -69569,6 +69587,7 @@ pigheadedness
 piglets
 pigment
 pigmentary
+pigmentation
 pigmentations
 pigmented
 pigments
@@ -69915,6 +69934,7 @@ piroplasma
 piroplasmata
 piroques
 pirouette
+pirouetted
 pirouettes
 pirouetting
 pirozhki
@@ -70414,6 +70434,7 @@ plecopteran
 plecopterans
 plectrum
 pled
+pledge
 pledgeor
 pledgers
 pledges
@@ -74276,6 +74297,7 @@ psychodrama
 psychodramas
 psychodramatic
 psychodynamic
+psychogeneses
 psychogenically
 psychographs
 psychohistorian
@@ -74457,6 +74479,7 @@ puissances
 puja
 pujah
 pujahs
+pujas
 puke
 pukes
 pukka
@@ -74559,6 +74582,7 @@ pumps
 pun
 puna
 punas
+punch
 punchball
 punchballs
 punchboard
@@ -75810,6 +75834,7 @@ ragmen
 ragouted
 ragouts
 ragpickers
+ragtags
 ragtime
 ragtimes
 ragtops
@@ -79250,6 +79275,7 @@ rereads
 rerebraces
 rerecorded
 rerecording
+rerecords
 reredos
 reregister
 reregistered
@@ -80179,6 +80205,7 @@ reverb
 reverbed
 reverberant
 reverberantly
+reverberate
 reverberated
 reverberates
 reverberating
@@ -81302,6 +81329,7 @@ rostella
 rostellar
 rostellum
 rostellums
+roster
 rostral
 rostrate
 rostrum
@@ -85610,6 +85638,7 @@ shorties
 shorting
 shortish
 shortlist
+shortlisted
 shortlists
 shortly
 shortness
@@ -86832,6 +86861,7 @@ slavocracy
 slavocrats
 slaw
 slaws
+slay
 slayable
 slayer
 slaying
@@ -97670,6 +97700,7 @@ trends
 trendsetter
 trendsetters
 trendsetting
+trendy
 trepan
 trepanation
 trepanations
@@ -100782,6 +100813,7 @@ unlearned
 unlearning
 unleased
 unleashed
+unleashes
 unleavened
 unlet
 unlettered
@@ -101162,6 +101194,7 @@ unrhymed
 unridable
 unriddle
 unriddlers
+unriddles
 unriddling
 unrig
 unrighteously
@@ -103027,6 +103060,7 @@ vestiaries
 vestibular
 vestibule
 vestibuled
+vestibules
 vestibuling
 vestige
 vestigia
@@ -103719,6 +103753,7 @@ volitive
 volkslied
 volkslieder
 volley
+volleyball
 volleyballs
 volleyed
 volleyer
