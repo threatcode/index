@@ -234,6 +234,7 @@ acceded
 accedence
 accedences
 acceder
+acceders
 accedes
 acceding
 accelerando
@@ -4178,6 +4179,7 @@ apomicts
 apomixes
 apomorphines
 aponeuroses
+aponeurotic
 apophases
 apophasis
 apophthegm
@@ -6546,6 +6548,7 @@ badman
 badmen
 badmintons
 badmouth
+badmouthed
 badmouths
 badnesses
 bads
@@ -7770,6 +7773,7 @@ beeped
 beeper
 beeping
 beeps
+beerier
 beeriest
 beeriness
 beerinesses
@@ -11456,6 +11460,7 @@ bryophyllums
 bryophytes
 bryozoans
 bubal
+bubale
 bubaline
 bubals
 bubba
@@ -16731,6 +16736,7 @@ clutches
 clutching
 clutter
 cluttering
+clutters
 cluttery
 clypeate
 clypeus
@@ -17141,6 +17147,7 @@ coenacted
 coenamor
 coenamored
 coenamors
+coendure
 coenduring
 coenobite
 coenocyte
@@ -20356,6 +20363,7 @@ courtesying
 courtezan
 courtezans
 courthouse
+courtiers
 courtlier
 courtliest
 courtlinesses
@@ -23226,6 +23234,7 @@ deer
 deerflies
 deerhounds
 deerlike
+deers
 deerskin
 deerskins
 deerstalker
@@ -26829,6 +26838,7 @@ divulse
 divulsed
 divulses
 divulsing
+divulsion
 divulsions
 divulsive
 divvy
@@ -33032,6 +33042,7 @@ fandom
 fane
 fanega
 fanegada
+fanegas
 fanes
 fanfare
 fanfaron
@@ -34276,6 +34287,7 @@ firefly
 firehall
 fireless
 firelight
+firelock
 firelocks
 fireman
 firemanic
@@ -35360,6 +35372,7 @@ followed
 follower
 followership
 followings
+follows
 followup
 followups
 foment
@@ -43462,6 +43475,7 @@ horsewoman
 horsinesses
 horst
 horste
+horstes
 hortatively
 horticultural
 horticultures
@@ -47009,6 +47023,7 @@ insteps
 instigate
 instigates
 instigation
+instigations
 instiller
 instillers
 instilling
@@ -57453,6 +57468,7 @@ mispages
 mispaging
 mispaint
 mispaints
+misparsed
 misparses
 misparsing
 misparted
@@ -57878,6 +57894,7 @@ modestly
 modicums
 modifiabilities
 modifiability
+modifiable
 modification
 modifications
 modified
@@ -60737,6 +60754,7 @@ niggarded
 niggarding
 niggardliness
 niggardlinesses
+niggards
 niggle
 niggler
 nigglers
@@ -64721,6 +64739,7 @@ outtrades
 outtrading
 outtraveled
 outtravelled
+outtravelling
 outtrick
 outtricking
 outtricks
@@ -68172,6 +68191,7 @@ perennial
 perennials
 pereon
 pereons
+pereopod
 peres
 perestroika
 perestroikas
@@ -69723,6 +69743,7 @@ pimplier
 pimpliest
 pimply
 pimpmobile
+pimpmobiles
 pimps
 pina
 pinaceous
@@ -70791,6 +70812,7 @@ poetasters
 poetess
 poetesses
 poetic
+poeticalness
 poeticism
 poeticize
 poeticized
@@ -77824,6 +77846,7 @@ reflies
 refloat
 refloating
 reflooding
+reflowed
 reflower
 reflowering
 reflows
@@ -78216,6 +78239,7 @@ reimpositions
 reimpression
 reincarnate
 reincarnates
+reincarnation
 reincarnations
 reincited
 reincorporates
@@ -81779,6 +81803,7 @@ runkling
 runless
 runlets
 runners
+runninesses
 running
 runoff
 runoffs
@@ -84406,6 +84431,7 @@ sempstresses
 sen
 senarii
 senarius
+senary
 senate
 senatorial
 senatorian
@@ -84510,6 +84536,7 @@ sensualized
 sensualizes
 sensually
 sensum
+sensuousness
 sent
 sentence
 sentencer
@@ -85011,6 +85038,7 @@ shaitans
 shakable
 shakeable
 shakedown
+shakedowns
 shaken
 shakeout
 shaker
@@ -86305,6 +86333,7 @@ sincerely
 sincerenesses
 sincipita
 sincipital
+sinciput
 sinciputs
 sinecure
 sines
@@ -90331,6 +90360,7 @@ stertorously
 stertors
 stet
 stethoscope
+stethoscopes
 stets
 stetsons
 stevedore
@@ -92969,6 +92999,7 @@ surpassing
 surpassingly
 surpliced
 surplus
+surplusage
 surplusages
 surpluses
 surplusing
@@ -93078,6 +93109,7 @@ susurrates
 susurrating
 susurration
 susurrations
+sutler
 sutlers
 sutra
 suttas
@@ -94423,6 +94455,7 @@ tauting
 tautness
 tautnesses
 tautogs
+tautological
 tautologically
 tautologies
 tautologously
@@ -96842,6 +96875,7 @@ tormented
 tormenters
 tormentil
 tormentils
+tormenting
 tormentors
 torments
 torn
@@ -101815,6 +101849,7 @@ upgaze
 upgazed
 upgird
 upgirded
+upgoing
 upgradabilities
 upgradable
 upgrade
