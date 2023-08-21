@@ -6986,6 +6986,7 @@ banter
 banteringly
 banties
 bantling
+bantlings
 banty
 banyan
 banyans
@@ -7498,6 +7499,7 @@ beach
 beachball
 beachballs
 beachcombed
+beachcomber
 beached
 beaches
 beachfront
@@ -11732,6 +11734,7 @@ bugler
 bugleweeds
 bugling
 bugloss
+bugs
 bugseed
 bugseeds
 buhl
@@ -11861,6 +11864,7 @@ bumelia
 bumfs
 bumfuzzle
 bumfuzzles
+bumfuzzling
 bumkin
 bummalo
 bummed
@@ -12448,6 +12452,7 @@ cacophony
 cactoid
 cactus
 cacuminal
+cacuminals
 cad
 cadastral
 cadastre
@@ -19212,6 +19217,7 @@ consuetudes
 consuetudinary
 consul
 consulates
+consuls
 consulships
 consultancies
 consultancy
@@ -19351,6 +19357,7 @@ contorting
 contortionists
 contorts
 contoured
+contouring
 contours
 contra
 contrabandist
@@ -20228,6 +20235,7 @@ costard
 costars
 costate
 costed
+coster
 costermongers
 costers
 costively
@@ -22637,6 +22645,7 @@ dampens
 damper
 dampers
 damping
+dampings
 dampnesses
 damps
 damselfish
@@ -23444,6 +23453,7 @@ dedicates
 dedicating
 deduced
 deduces
+deducible
 deducing
 deductibilities
 deductibility
@@ -30184,6 +30194,7 @@ endears
 endeavor
 endeavored
 endeavour
+endeavoured
 endeavouring
 endeavours
 ended
@@ -31252,6 +31263,7 @@ equitabilities
 equitability
 equitable
 equitablenesses
+equitably
 equitation
 equites
 equities
@@ -31288,6 +31300,7 @@ erasabilities
 erasability
 erasable
 erase
+eraser
 erasers
 erasing
 erasion
@@ -33632,6 +33645,7 @@ fauces
 faucet
 faucial
 faugh
+faulds
 fault
 faulted
 faultfinders
@@ -36908,6 +36922,7 @@ frowsty
 frowsy
 frowziest
 frowzily
+frowzy
 froze
 frozen
 frozenly
@@ -38807,6 +38822,7 @@ girted
 girthing
 girting
 gisarme
+gisarmes
 gismo
 gismos
 gists
@@ -43345,6 +43361,7 @@ hokey
 hokeynesses
 hokeypokey
 hokiest
+hokily
 hoking
 hokku
 hokums
@@ -60079,6 +60096,7 @@ musquash
 musquashes
 muss
 mussed
+musses
 mussily
 mussinesses
 mussy
@@ -64867,6 +64885,7 @@ outduelled
 outearned
 outearns
 outeat
+outeaten
 outeating
 outeats
 outecho
@@ -65505,6 +65524,7 @@ outwritten
 outwrought
 outyell
 outyelling
+outyelped
 outyield
 outyielding
 ouzels
@@ -69150,6 +69170,7 @@ perms
 permutable
 permutational
 permuted
+permutes
 permuting
 pernicious
 perniciousness
@@ -69272,6 +69293,7 @@ perspicuity
 perspicuously
 perspicuousness
 perspiration
+perspire
 persuadable
 persuade
 persuaded
@@ -72580,6 +72602,7 @@ potteries
 pottering
 potters
 pottery
+pottier
 potties
 pottiest
 pottinesses
@@ -73473,6 +73496,7 @@ preppies
 preppiest
 preppy
 preprandial
+prepreg
 preprice
 prepriced
 preprices
@@ -74024,6 +74048,7 @@ printing
 printmaker
 printmaking
 printmakings
+prints
 prion
 prions
 prioress
@@ -86475,6 +86500,7 @@ shoebill
 shoeblacks
 shoebox
 shoeboxes
+shoed
 shoehorning
 shoehorns
 shoeing
@@ -87928,6 +87954,7 @@ slimeballs
 slimed
 slimes
 slimier
+slimily
 sliminess
 sliming
 slimly
@@ -93072,6 +93099,7 @@ sudser
 sudsers
 sudses
 sudsier
+sudsiest
 sudsing
 sudsy
 sueded
@@ -94490,6 +94518,7 @@ symbionts
 symbiosis
 symbiote
 symbol
+symboled
 symbolic
 symbolical
 symboling
@@ -97153,6 +97182,7 @@ tigereye
 tigereyes
 tigerish
 tigerishly
+tigerishness
 tigerishnesses
 tigerlike
 tigers
@@ -98745,6 +98775,7 @@ treillages
 trekker
 trekking
 treks
+trellis
 trellises
 trellising
 trelliswork
@@ -101128,6 +101159,7 @@ underfund
 underfurs
 undergarment
 undergarments
+undergirded
 undergirds
 undergirt
 underglaze
@@ -101646,6 +101678,7 @@ unhallows
 unhalved
 unhand
 unhandier
+unhanding
 unhandled
 unhands
 unhandsome
@@ -102838,6 +102871,7 @@ unzipping
 unzips
 unzoned
 up
+upbear
 upbearers
 upbears
 upbeat
@@ -107356,6 +107390,7 @@ wreckful
 wrecking
 wreckings
 wrench
+wrenchers
 wrenches
 wrens
 wrested
