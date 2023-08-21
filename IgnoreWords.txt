@@ -1087,6 +1087,7 @@ adversarinesses
 adversatively
 adversatives
 adverseness
+adversenesses
 adversity
 adverted
 advertences
@@ -2623,6 +2624,7 @@ amiantuses
 amias
 amicable
 amicableness
+amicablenesses
 amicably
 amice
 amid
@@ -5611,6 +5613,7 @@ attackmen
 attacks
 attagirl
 attain
+attainabilities
 attainability
 attainable
 attainder
@@ -9941,6 +9944,7 @@ bode
 bodega
 bodegas
 bodement
+bodements
 bodes
 bodhisattva
 bodhisattvas
@@ -10289,6 +10293,7 @@ bookstore
 bookstores
 bookworm
 boom
+boombox
 boomboxes
 boomed
 boomer
@@ -14285,6 +14290,7 @@ cembalo
 cembalos
 cement
 cementa
+cementation
 cementations
 cemented
 cementer
@@ -14467,6 +14473,7 @@ cered
 cerements
 ceremonialism
 ceremonialisms
+ceremonialist
 ceremonialists
 ceremonially
 ceremonies
@@ -15660,6 +15667,7 @@ choreic
 choreiform
 choremen
 choreographed
+choreographer
 choreographers
 choreographic
 choreographies
@@ -16728,6 +16736,7 @@ cloudless
 cloudlessly
 cloudlessnesses
 cloudlets
+cloudlike
 cloudscape
 cloudscapes
 clough
@@ -19721,6 +19730,7 @@ corbelings
 corbelled
 corbelling
 corbels
+corbiculae
 corbie
 corbies
 corbina
@@ -20842,6 +20852,7 @@ creamer
 creamers
 creamery
 creamier
+creamiest
 creamily
 creaminess
 creaminesses
@@ -23021,6 +23032,7 @@ decarbonated
 decarbonates
 decarbonations
 decarbonizer
+decarbonizers
 decarboxylase
 decarboxylases
 decarboxylated
@@ -26481,6 +26493,7 @@ dispiteous
 displace
 displaced
 displacement
+displacers
 displant
 displanted
 displants
@@ -28308,6 +28321,7 @@ dunk
 dunked
 dunker
 dunkers
+dunks
 dunlin
 dunlins
 dunnage
@@ -30274,6 +30288,7 @@ engravers
 engraves
 engravings
 engross
+engrossers
 engrosses
 engrossing
 engrossment
@@ -34321,6 +34336,7 @@ financed
 financial
 financially
 financier
+financiered
 financiering
 financings
 finbacks
@@ -37131,6 +37147,7 @@ fustily
 fustinesses
 fusulinids
 futharcs
+futhorcs
 futhork
 futile
 futileness
@@ -37168,6 +37185,7 @@ fuzziness
 fuzzing
 fuzztones
 fyce
+fykes
 fylfot
 fylfots
 fynbos
@@ -42439,6 +42457,7 @@ herdsmen
 here
 hereabouts
 hereafters
+hereat
 hereaway
 heredes
 hereditament
@@ -49017,6 +49036,7 @@ jauntinesses
 jaunty
 jaup
 jauped
+jaups
 javas
 javascript
 javelin
@@ -52376,6 +52396,7 @@ lierne
 liers
 lies
 lieu
+lieutenant
 lieve
 liever
 lifeblood
@@ -56357,6 +56378,7 @@ metazoal
 metazoan
 metazoans
 metazoon
+mete
 metempsychoses
 metencephala
 metencephalon
@@ -59132,6 +59154,7 @@ mountaintops
 mountainy
 mountebank
 mountebankeries
+mountebankery
 mountebanks
 mounted
 mounter
@@ -71655,6 +71678,7 @@ pontifically
 pontificals
 pontificates
 pontificating
+pontifications
 pontificator
 pontificators
 pontils
@@ -74735,6 +74759,7 @@ psychopathics
 psychopathies
 psychopathy
 psychophysical
+psychos
 psychoses
 psychosexual
 psychosexuality
@@ -78046,6 +78071,7 @@ reenthroned
 reenthrones
 reentrance
 reentrant
+reentrants
 reentries
 reentry
 reequipments
@@ -78850,6 +78876,7 @@ relayed
 relays
 relearn
 relearned
+relearns
 relearnt
 releasable
 release
@@ -81687,6 +81714,7 @@ roothold
 rootholds
 rootiest
 rootiness
+rootled
 rootles
 rootlessnesses
 rootlet
@@ -86146,6 +86174,7 @@ showboat
 showboating
 showboats
 showbread
+showcase
 showcasing
 showdown
 showdowns
@@ -87292,6 +87321,7 @@ slated
 slatelike
 slaters
 slatey
+slather
 slathering
 slatier
 slatiest
@@ -88845,6 +88875,7 @@ sough
 soughed
 soughing
 sought
+soukouses
 souks
 soul
 souled
@@ -90865,6 +90896,7 @@ stiffie
 stiffish
 stiffness
 stiffnesses
+stiffs
 stifled
 stifler
 stifles
@@ -93840,6 +93872,7 @@ swither
 swithly
 swived
 swiveling
+swivelled
 swivels
 swives
 swivet
@@ -101009,6 +101042,7 @@ unfriendliness
 unfriendly
 unfrock
 unfrocked
+unfrocking
 unfroze
 unfrozen
 unfruitful
@@ -101741,6 +101775,7 @@ unrevolutionary
 unrewarding
 unrhetorical
 unrhymed
+unrhythmic
 unridable
 unriddle
 unriddlers
