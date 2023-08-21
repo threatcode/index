@@ -4976,6 +4976,7 @@ arterial
 arterials
 arteries
 arteriogram
+arteriographies
 arteriography
 arteriolar
 arteriovenous
@@ -5239,6 +5240,7 @@ assassination
 assassinator
 assassinators
 assassins
+assault
 assaulted
 assaulting
 assaultive
@@ -9737,6 +9739,7 @@ blotto
 blotty
 bloused
 blousier
+blousy
 bloviates
 bloviations
 blowback
@@ -14187,6 +14190,7 @@ caved
 cavefishes
 cavelike
 caveman
+cavendish
 cavendishes
 caver
 cavern
@@ -20992,6 +20996,7 @@ creditable
 creditableness
 credited
 creditors
+creditworthy
 credos
 creds
 credulities
@@ -23109,6 +23114,7 @@ decapitating
 decapitation
 decapitations
 decapitator
+decapitators
 decapod
 decapodal
 decapodan
@@ -25291,6 +25297,7 @@ diapositives
 diapsid
 diapsids
 diarchic
+diaries
 diarist
 diaristic
 diarists
@@ -26118,6 +26125,7 @@ disco
 discographer
 discographers
 discographic
+discographical
 discography
 discoidal
 discoloration
@@ -26781,6 +26789,7 @@ dissimilitudes
 dissimulate
 dissimulated
 dissimulates
+dissimulating
 dissimulation
 dissimulations
 dissimulator
@@ -36218,6 +36227,7 @@ fortepianos
 fortes
 forthcoming
 forthrightly
+forthrights
 forthwith
 fortifications
 fortified
@@ -37133,6 +37143,7 @@ funkily
 funkiness
 funks
 funky
+funned
 funnel
 funnelform
 funneling
@@ -41192,6 +41203,7 @@ hairstreak
 hairstyling
 hairstylings
 hairwork
+hairworm
 hairworms
 haj
 hajis
@@ -42509,6 +42521,7 @@ hemostats
 hemotoxic
 hempen
 hempier
+hempiest
 hemplike
 hempseeds
 hempy
@@ -42662,6 +42675,7 @@ hermeneutically
 hermeneutics
 hermetic
 hermetical
+hermetically
 hermeticism
 hermeticisms
 hermetism
@@ -42982,6 +42996,7 @@ highwaymen
 highways
 hijab
 hijack
+hijacked
 hijacker
 hijacking
 hijacks
@@ -44273,6 +44288,7 @@ hunched
 hunches
 hung
 hunger
+hungered
 hungers
 hungrier
 hungrily
@@ -49364,6 +49380,7 @@ jetsom
 jetsoms
 jetstreams
 jettied
+jettiness
 jettinesses
 jetting
 jettison
@@ -50340,6 +50357,7 @@ kiang
 kiangs
 kiaugh
 kibbe
+kibbeh
 kibbehs
 kibbi
 kibbis
@@ -51197,6 +51215,7 @@ laically
 laich
 laichs
 laicise
+laicised
 laicises
 laicism
 laicization
@@ -52772,6 +52791,7 @@ limitless
 limitlessly
 limitlessness
 limitlessnesses
+limitrophe
 limits
 limmer
 limmers
@@ -55047,6 +55067,7 @@ manubrium
 manubriums
 manufactories
 manufactory
+manufacture
 manufactured
 manufacturer
 manufactures
@@ -62979,6 +63000,7 @@ oarless
 oarlike
 oars
 oarsmanships
+oarsmen
 oarswomen
 oasthouses
 oatcake
@@ -63444,6 +63466,7 @@ oestrous
 oestrums
 oestrus
 oestruses
+oeuvres
 of
 ofay
 off
@@ -63753,6 +63776,7 @@ oneiromancy
 onenesses
 onerously
 onerousnesses
+ones
 ongoing
 ongoingnesses
 oniony
@@ -73935,6 +73959,7 @@ priorities
 prioritization
 prioritizations
 prioritize
+prioritizing
 priority
 priors
 priorship
@@ -75488,6 +75513,7 @@ purples
 purplest
 purplish
 purportedly
+purporting
 purpose
 purposed
 purposeful
@@ -83391,6 +83417,7 @@ sarment
 sarments
 sarode
 sarodes
+sarodist
 sarongs
 saroses
 sarracenia
@@ -84873,6 +84900,7 @@ seethe
 seethed
 seg
 segetal
+seggar
 segmental
 segmentary
 segmentation
@@ -87221,6 +87249,7 @@ sirloins
 sirocco
 siroccos
 sirrahs
+sirras
 sirs
 siruped
 sirupier
@@ -89962,6 +89991,7 @@ spitzes
 spiv
 spivs
 splake
+splakes
 splanchnic
 splash
 splashboards
@@ -96171,6 +96201,7 @@ tet
 tetanic
 tetanics
 tetanies
+tetanising
 tetanizations
 tetanizing
 tetchier
@@ -96290,6 +96321,7 @@ thankful
 thankfully
 thankfulness
 thanking
+thanklessly
 thanklessness
 thanksgiving
 thanksgivings
@@ -99457,6 +99489,7 @@ tubbier
 tubbiest
 tubbiness
 tubbinesses
+tube
 tubeless
 tuber
 tubercle
@@ -100270,6 +100303,7 @@ ulva
 ulvas
 umami
 umangite
+umangites
 umbel
 umbeled
 umbellate
@@ -105337,6 +105371,7 @@ warrantees
 warranter
 warrantied
 warranties
+warranting
 warrantor
 warrantors
 warrants
