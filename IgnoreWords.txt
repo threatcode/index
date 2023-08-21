@@ -801,6 +801,7 @@ addressers
 addresses
 addressing
 adduced
+adducent
 adducer
 adduces
 adducible
@@ -4940,6 +4941,7 @@ ars
 arsenals
 arsenate
 arsenates
+arsenicals
 arsenics
 arsenide
 arsenides
@@ -5297,6 +5299,7 @@ assimilability
 assimilable
 assimilated
 assimilates
+assimilation
 assimilationism
 assimilationist
 assimilative
@@ -7238,6 +7241,7 @@ basidial
 basidiomycetes
 basidiomycetous
 basidiospore
+basification
 basifier
 basifiers
 basifies
@@ -14590,6 +14594,7 @@ chaebol
 chaetae
 chaetopod
 chafed
+chafers
 chafes
 chaff
 chaffered
@@ -14701,6 +14706,7 @@ chammied
 chamois
 chamoised
 chamoises
+chamoix
 chamomiles
 champ
 champacas
@@ -23279,6 +23285,7 @@ deconstructs
 decontaminate
 decontaminating
 decontamination
+decontaminator
 decontaminators
 decontrol
 decontrolled
@@ -23298,6 +23305,7 @@ decorators
 decorous
 decorousness
 decorticate
+decorticates
 decorticating
 decortications
 decorticator
@@ -26009,6 +26017,7 @@ discarded
 discarder
 discarders
 discarding
+discarnate
 discased
 discases
 disced
@@ -29541,6 +29550,7 @@ embarkment
 embarkments
 embarrass
 embarrassable
+embarrassed
 embarrassedly
 embarrassment
 embarrassments
@@ -30984,6 +30994,7 @@ episomal
 epistases
 epistatic
 epistaxes
+epistaxis
 epistemically
 epistemological
 epistemologist
@@ -32383,6 +32394,7 @@ exorciser
 exorcisers
 exorcising
 exorcism
+exorcistic
 exorcistical
 exorcize
 exorcized
@@ -33413,6 +33425,7 @@ fascist
 fascistic
 fascistically
 fascists
+fash
 fashed
 fashes
 fashing
@@ -36797,6 +36810,7 @@ fruitcakes
 fruited
 fruiter
 fruiterer
+fruiterers
 fruiters
 fruitful
 fruitfuller
@@ -41312,6 +41326,7 @@ handicap
 handicapped
 handicapping
 handicaps
+handicraft
 handicrafter
 handicrafters
 handicrafts
@@ -42610,6 +42625,7 @@ hes
 hesitance
 hesitancy
 hesitant
+hesitater
 hesitaters
 hesitating
 hesitation
@@ -48940,6 +48956,7 @@ jaculated
 jaculates
 jacuzzis
 jade
+jaded
 jadedness
 jadednesses
 jadeite
@@ -50383,6 +50400,7 @@ kinetoplast
 kinetoscopes
 kinetosomes
 kinfolk
+king
 kingbirds
 kingbolts
 kingdom
@@ -56312,6 +56330,7 @@ messinesses
 messman
 messuage
 messuages
+messy
 mestees
 mestesos
 mestiza
@@ -62740,6 +62759,7 @@ nutraceuticals
 nutria
 nutrias
 nutrient
+nutrients
 nutriment
 nutritional
 nutritionally
@@ -72234,6 +72254,7 @@ potboys
 poteen
 potences
 potencies
+potency
 potent
 potentate
 potential
@@ -72685,6 +72706,7 @@ preclears
 precluded
 precluding
 preclusive
+preclusively
 precocious
 precociously
 precocities
@@ -73944,6 +73966,7 @@ producing
 productional
 productions
 productive
+productively
 productiveness
 productivity
 products
@@ -74723,6 +74746,7 @@ psalms
 psalter
 psalteria
 psalteries
+psammons
 pschent
 pschents
 psephite
@@ -76486,6 +76510,7 @@ rami
 ramie
 ramies
 ramification
+ramified
 ramiform
 ramifying
 ramilies
@@ -77779,6 +77804,7 @@ redacted
 redacting
 redactions
 redamage
+redamaging
 redan
 redans
 redargued
@@ -78741,6 +78767,7 @@ reindeers
 reindexes
 reindictment
 reindictments
+reindicts
 reinduce
 reinduced
 reinduces
@@ -80977,6 +81004,7 @@ rewrapt
 rewrite
 rewritten
 rewrote
+rexine
 reynard
 rezero
 rezeroes
@@ -82861,6 +82889,7 @@ samaras
 samaritan
 samaritans
 samarium
+samariums
 samarskites
 samba
 sambaed
@@ -89696,6 +89725,7 @@ spirituous
 spirochaetes
 spirochete
 spirochetes
+spirochetosis
 spirogyra
 spiroid
 spirometer
@@ -91081,6 +91111,7 @@ stinkbug
 stinkier
 stinkingly
 stinko
+stinkpots
 stinks
 stinky
 stinted
@@ -99397,6 +99428,7 @@ turbinate
 turbine
 turbit
 turbiths
+turbits
 turbocar
 turbocars
 turbocharged
@@ -100130,6 +100162,7 @@ unallocated
 unallowed
 unalterability
 unalterable
+unalterably
 unambiguous
 unambitious
 unambivalently
@@ -100479,6 +100512,7 @@ uncloud
 unclouded
 uncloudedly
 unclouding
+uncloudy
 uncloying
 unclutter
 unco
@@ -101945,6 +101979,7 @@ unround
 unrounded
 unrounds
 unruled
+unrulier
 unruliest
 unruliness
 unrulinesses
