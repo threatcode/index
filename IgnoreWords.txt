@@ -5557,6 +5557,7 @@ atheromas
 atheromata
 atheromatous
 atheroscleroses
+atherosclerosis
 atherosclerotic
 athetoid
 athirst
@@ -6151,6 +6152,7 @@ aviculture
 avicultures
 aviculturist
 avid
+avidnesses
 avifauna
 avifaunae
 avifaunas
@@ -11517,6 +11519,7 @@ brucines
 brugh
 bruised
 bruiser
+bruisers
 bruising
 bruited
 bruiters
@@ -14597,6 +14600,7 @@ ceruminous
 cerusite
 cerusites
 cerussite
+cerussites
 cervelas
 cervelases
 cervelats
@@ -23129,6 +23133,7 @@ decalcified
 decalcifying
 decaliter
 decaliters
+decalog
 decalogs
 decalogue
 decalogues
@@ -23462,6 +23467,7 @@ dedicated
 dedicatee
 dedicates
 dedicating
+dedifferentiate
 deduced
 deduces
 deducible
@@ -25779,6 +25785,7 @@ dinger
 dingers
 dingeys
 dinghies
+dinghy
 dingier
 dingies
 dingiest
@@ -29183,6 +29190,7 @@ efferents
 effervesce
 effervescences
 effervescent
+effervescently
 effervesces
 effervescing
 effete
@@ -32634,6 +32642,7 @@ expends
 expensed
 expensively
 experience
+experiencing
 experientially
 experiment
 experimentalism
@@ -37694,6 +37703,7 @@ gametocytes
 gametogenesis
 gametogenic
 gametogenous
+gametophytes
 gametophytic
 gamily
 gamin
@@ -38349,6 +38359,7 @@ gentleperson
 gentlepersons
 gentler
 gentlest
+gentlewoman
 gentlewomen
 gentling
 gently
@@ -41799,6 +41810,7 @@ harpooned
 harpooners
 harpooning
 harpoons
+harps
 harpsichord
 harpsichordists
 harpy
@@ -44656,6 +44668,7 @@ hylozoisms
 hylozoistic
 hylozoists
 hymen
+hymenal
 hymeneally
 hymeneals
 hymenia
@@ -45537,6 +45550,7 @@ immobility
 immobilizations
 immobilize
 immobilizer
+immobilizers
 immobilizes
 immobilizing
 immoderacy
@@ -45855,6 +45869,7 @@ imponderably
 impone
 impones
 imponing
+imporous
 import
 importance
 importances
@@ -48147,6 +48162,7 @@ interstratifies
 interstratify
 intersubjective
 intersystem
+interterm
 interterminal
 intertidally
 intertilling
@@ -48425,6 +48441,7 @@ invalidism
 invalidisms
 invalidities
 invalidity
+invalids
 invaluable
 invaluableness
 invariability
@@ -49870,6 +49887,7 @@ jumpiest
 jumpiness
 jumping
 jumpingly
+jumpoff
 jumpoffs
 jumps
 jumpsuits
@@ -50050,6 +50068,7 @@ kaliphs
 kalium
 kaliums
 kallidin
+kallidins
 kallikrein
 kallikreins
 kalmia
@@ -56420,6 +56439,7 @@ merino
 merinos
 merises
 merisis
+meristem
 meristic
 meristically
 merit
@@ -57390,6 +57410,7 @@ mimed
 mimeo
 mimeograph
 mimeographs
+mimeoing
 mimeos
 mimer
 mimers
@@ -59003,6 +59024,7 @@ monotonic
 monotonically
 monotonicity
 monotonies
+monotonously
 monotonousness
 monotremes
 monotype
@@ -63355,6 +63377,7 @@ obviousnesses
 obvolute
 oca
 ocarina
+ocas
 occasional
 occasioned
 occasions
@@ -66086,6 +66109,7 @@ overlearns
 overlearnt
 overlend
 overlending
+overlengthened
 overlengthening
 overlengthens
 overlet
@@ -70197,6 +70221,7 @@ piaffing
 pial
 pianissimi
 pianissimo
+pianissimos
 pianist
 pianistic
 pianistically
@@ -74048,6 +74073,7 @@ princelier
 princelings
 princes
 princeship
+princeships
 princesse
 principal
 principals
@@ -78789,6 +78815,7 @@ refrigerating
 refrigeration
 refront
 refroze
+refrying
 reft
 refuel
 refueled
@@ -86325,6 +86352,7 @@ shiftless
 shiftlessly
 shiftlessnesses
 shifts
+shifty
 shigellas
 shigelloses
 shigellosis
@@ -88656,6 +88684,7 @@ snottily
 snottiness
 snout
 snouted
+snoutier
 snoutiest
 snouting
 snouts
@@ -89971,6 +90000,7 @@ spigot
 spik
 spike
 spiked
+spikelet
 spikelets
 spikelike
 spikenards
@@ -93346,6 +93376,7 @@ summative
 summed
 summered
 summerhouse
+summerier
 summeriest
 summering
 summerlike
@@ -94917,6 +94948,7 @@ tachyons
 tacit
 tacitness
 tacitnesses
+taciturnities
 tack
 tackboards
 tacker
@@ -96264,6 +96296,7 @@ terret
 terribleness
 terriers
 terrific
+terrifically
 terrifies
 terrifyingly
 terrine
@@ -96475,6 +96508,7 @@ thankful
 thankfully
 thankfulness
 thanking
+thankless
 thanklessly
 thanklessness
 thanksgiving
@@ -97886,6 +97920,7 @@ topographs
 topological
 topologically
 topologists
+topology
 toponym
 toponymic
 toponymical
