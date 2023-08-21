@@ -484,6 +484,7 @@ acetyls
 achalasias
 ache
 ached
+achene
 achenes
 achenial
 achier
@@ -2428,6 +2429,7 @@ alumstone
 alumstones
 alunite
 alunites
+alveolar
 alveolarly
 alveolars
 alveolate
@@ -4574,6 +4576,7 @@ arborescent
 arboreta
 arboretums
 arboricultural
+arboricultures
 arborist
 arborization
 arborizations
@@ -5772,6 +5775,7 @@ audiocassette
 audiocassettes
 audiograms
 audiologic
+audiologies
 audiologist
 audiologists
 audiology
@@ -12117,6 +12121,7 @@ bushing
 bushland
 bushless
 bushman
+bushmasters
 bushmen
 bushpig
 bushpigs
@@ -20580,6 +20585,7 @@ courtsides
 couscous
 couscouses
 cousin
+cousinage
 cousinhood
 cousinly
 cousinry
@@ -25273,6 +25279,7 @@ diametric
 diamin
 diamins
 diamond
+diamondback
 diamondbacks
 diamonded
 diamondiferous
@@ -26191,6 +26198,7 @@ discontents
 discontinuances
 discontinuation
 discontinue
+discontinued
 discontinues
 discontinuing
 discontinuities
@@ -31860,6 +31868,7 @@ euphemistically
 euphemists
 euphemize
 euphemized
+euphemizer
 euphemizers
 euphemizes
 euphemizing
@@ -37209,6 +37218,7 @@ furculum
 furfurals
 furfuran
 furibund
+furious
 furiously
 furler
 furlers
@@ -38600,6 +38610,7 @@ gibbetted
 gibbing
 gibbons
 gibbosities
+gibbosity
 gibbous
 gibbously
 gibed
@@ -40856,6 +40867,7 @@ gurgling
 gurnard
 gurnards
 gurnet
+gurney
 gurshes
 guru
 gurus
@@ -44615,6 +44627,7 @@ hymeneals
 hymenia
 hymeniums
 hymenoptera
+hymenopterans
 hymenopteron
 hymenopterons
 hymenopterous
@@ -46131,6 +46144,7 @@ incautiously
 incendiaries
 incendiarism
 incendiary
+incense
 incensed
 incenses
 incensing
@@ -46341,6 +46355,7 @@ incredibleness
 incredibly
 incredulous
 incredulously
+increment
 incrementalism
 incrementalist
 incrementalists
@@ -51579,6 +51594,7 @@ larkers
 larkier
 larkiest
 larkinesses
+larking
 larks
 larksome
 larkspur
@@ -51837,6 +51853,7 @@ lawlessly
 lawlike
 lawmaker
 lawmaking
+lawmakings
 lawman
 lawmen
 lawns
@@ -52067,6 +52084,7 @@ leeboards
 leech
 leeched
 leeches
+leechlike
 leek
 leeks
 leer
@@ -57979,6 +57997,7 @@ mislabeling
 mislabelling
 mislabels
 mislabor
+mislabored
 mislaboring
 mislain
 mislay
@@ -63722,6 +63741,7 @@ ology
 ololiuqui
 ololiuquis
 oloroso
+olorosos
 olympiad
 olympiads
 omasa
@@ -64979,6 +64999,7 @@ outhustling
 outing
 outings
 outintrigue
+outintrigued
 outjinx
 outjinxed
 outjinxes
@@ -67838,6 +67859,7 @@ pasodoble
 pasqueflower
 pasquil
 pasquils
+pasquinade
 pasquinaded
 pasquinades
 pasquinading
@@ -68899,6 +68921,7 @@ perfecta
 perfected
 perfecters
 perfectest
+perfectibility
 perfectible
 perfection
 perfectionism
@@ -69606,6 +69629,7 @@ phenylephrine
 phenylic
 phenylketonuria
 phenylketonuric
+phenyls
 phenylthioureas
 phenytoin
 phenytoins
@@ -72002,6 +72026,7 @@ ponding
 pondweed
 pondweeds
 pone
+pong
 ponged
 pongee
 pongees
@@ -79933,6 +79958,7 @@ repotted
 repotting
 repour
 repoured
+repouring
 repousses
 repowering
 reprehend
@@ -89107,6 +89133,7 @@ songlike
 songsmith
 songster
 songsters
+songstresses
 songwriter
 songwriters
 songwriting
@@ -91226,6 +91253,7 @@ stereotypical
 stereotypically
 stereotypies
 stereotypy
+steres
 steric
 sterically
 sterigma
@@ -91354,6 +91382,7 @@ stigmatizations
 stigmatize
 stigmatized
 stigmatizing
+stilbene
 stilbenes
 stilbestrols
 stilbite
@@ -96355,6 +96384,7 @@ thalassic
 thalassocracies
 thalassocracy
 thalassocrat
+thalassocrats
 thalidomide
 thalidomides
 thallic
@@ -98504,6 +98534,7 @@ transplantable
 transplantation
 transplanter
 transplanters
+transplants
 transponders
 transpontine
 transported
@@ -101997,6 +102028,7 @@ unmingle
 unmingles
 unmistakable
 unmistakably
+unmitered
 unmitering
 unmiters
 unmitre
@@ -102864,6 +102896,7 @@ upfolded
 upfolds
 upfront
 upgathering
+upgathers
 upgaze
 upgazed
 upgird
@@ -105194,6 +105227,7 @@ wairs
 waist
 waistbands
 waistcoat
+waistcoats
 waister
 waisters
 waisting
@@ -105888,6 +105922,7 @@ weest
 weet
 weever
 weevers
+weevilly
 weevils
 weevily
 weeweed
