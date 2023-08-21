@@ -1235,6 +1235,7 @@ aeroscopes
 aerosolizations
 aerosolize
 aerosolizing
+aerosols
 aerospaces
 aerostatics
 aesthesia
@@ -3596,6 +3597,7 @@ anticline
 anticlines
 anticlockwise
 anticlotting
+anticly
 anticoagulant
 anticodon
 anticold
@@ -8063,6 +8065,7 @@ beltings
 beltless
 beltline
 beltlines
+belts
 beltways
 beluga
 belugas
@@ -11011,6 +11014,7 @@ breathiest
 breathily
 breathiness
 breathinesses
+breathings
 breathlessness
 breaths
 breathtaking
@@ -15139,6 +15143,7 @@ chemotherapist
 chemotropism
 chemurgic
 chemurgies
+chenilles
 chenopod
 cheongsams
 cheque
@@ -16080,6 +16085,7 @@ cirque
 cirrate
 cirrhoses
 cirrhosis
+cirriform
 cirripede
 cirrocumuli
 cirrocumulus
@@ -20782,6 +20788,7 @@ cravats
 craved
 cravened
 cravening
+cravenness
 craver
 craving
 cravings
@@ -22321,6 +22328,7 @@ dacoits
 dacoity
 dacquoises
 dacron
+dactyli
 dactylic
 dactylology
 dactyls
@@ -30327,6 +30335,7 @@ enneads
 ennoble
 ennoblements
 ennobler
+ennoblers
 ennobles
 ennuye
 ennuyee
@@ -30354,6 +30363,7 @@ enow
 enows
 enplane
 enplaned
+enquire
 enquired
 enquires
 enquiry
@@ -31488,6 +31498,7 @@ ethene
 ethenes
 ethephon
 ethereal
+etherealities
 ethereality
 etherealization
 etherealize
@@ -38087,6 +38098,7 @@ gentlemanlike
 gentlemanliness
 gentlemanly
 gentlemen
+gentleness
 gentlenesses
 gentleperson
 gentlepersons
@@ -43143,6 +43155,7 @@ hollowing
 hollowness
 hollownesses
 hollowware
+hollowwares
 holly
 hollyhock
 holmic
@@ -48517,6 +48530,7 @@ island
 islander
 islanders
 islanding
+islands
 isle
 isled
 isleless
@@ -48532,6 +48546,7 @@ isoantigen
 isoantigenic
 isoantigens
 isobar
+isobare
 isobaric
 isobarism
 isobars
@@ -49612,6 +49627,7 @@ justled
 justles
 justs
 jut
+jutes
 juts
 jutted
 juttied
@@ -51963,6 +51979,7 @@ lenites
 lenition
 lenitively
 lenity
+leno
 lens
 lense
 lenses
@@ -53717,6 +53734,7 @@ lungee
 lunger
 lunges
 lungfish
+lungful
 lungfuls
 lungi
 lungis
@@ -58599,6 +58617,7 @@ monotheistic
 monotheistical
 monotint
 monotints
+monotone
 monotonic
 monotonically
 monotonicity
@@ -63738,6 +63757,7 @@ opuscule
 opusculum
 opuses
 oquassa
+oquassas
 or
 ora
 oraches
@@ -64381,6 +64401,7 @@ outcoach
 outcoaching
 outcome
 outcomes
+outcompeted
 outcompetes
 outcook
 outcooking
@@ -66740,6 +66761,7 @@ pandemonium
 pandered
 panderer
 panderers
+pandering
 panders
 pandies
 pandit
@@ -77612,6 +77634,7 @@ recycling
 redacted
 redacting
 redactions
+redamage
 redan
 redans
 redargued
@@ -82007,6 +82030,7 @@ ruddock
 ruddocks
 rudds
 ruddy
+rudely
 rudeness
 rudenesses
 ruderals
@@ -85780,6 +85804,7 @@ shilling
 shills
 shily
 shim
+shimmed
 shimmer
 shimmered
 shimmers
@@ -85915,6 +85940,7 @@ shlump
 shlumped
 shlumping
 shlumpy
+shmaltzes
 shmaltzier
 shmaltziest
 shmear
@@ -87670,6 +87696,7 @@ smalt
 smaltines
 smaltite
 smalto
+smaltos
 smalts
 smaragde
 smaragdes
@@ -88368,6 +88395,7 @@ solarises
 solarism
 solarium
 solarizations
+solarizes
 solarizing
 solate
 solated
@@ -89751,6 +89779,7 @@ sportswomen
 sportswriter
 sportswritings
 sporular
+sporulated
 sporulates
 sporulating
 sporulative
@@ -96040,6 +96069,7 @@ thew
 thewiest
 they
 thiamin
+thiaminases
 thiamine
 thiamines
 thiazines
@@ -96201,6 +96231,7 @@ thoroughbraces
 thoroughbreds
 thorougher
 thoroughest
+thoroughfares
 thoroughly
 thoroughwort
 thorp
@@ -97533,6 +97564,7 @@ toxoplasmoses
 toxoplasmosis
 toy
 toyed
+toyish
 toyless
 toylike
 toyo
@@ -104894,6 +104926,7 @@ waspiest
 wasps
 waspy
 wassailer
+wassailers
 wassailing
 wassails
 wast
@@ -105878,6 +105911,7 @@ wiggery
 wiggier
 wiggiest
 wiggled
+wiggler
 wigglers
 wiggles
 wiggliest
@@ -105979,6 +106013,7 @@ winching
 wind
 windable
 windages
+windbags
 windbell
 windbells
 windblast
