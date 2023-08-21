@@ -578,6 +578,7 @@ acquiescences
 acquiescently
 acquiescing
 acquired
+acquirees
 acquirement
 acquirements
 acquirer
@@ -4563,6 +4564,7 @@ arboreta
 arboretums
 arboricultural
 arborist
+arborization
 arborizations
 arborize
 arborized
@@ -6355,6 +6357,7 @@ baboonish
 baboons
 baboos
 babu
+babul
 babus
 babushka
 babydoll
@@ -6463,6 +6466,7 @@ backlashing
 backless
 backlight
 backlighted
+backlighting
 backlist
 backlisted
 backlit
@@ -8526,6 +8530,7 @@ bezant
 bezants
 bezazz
 bezazzes
+bezel
 bezil
 bezique
 bezoar
@@ -11240,6 +11245,7 @@ brittled
 brittlenesses
 brittlest
 brittling
+brittly
 britts
 britzka
 britzkas
@@ -11924,6 +11930,7 @@ bureaucratise
 bureaucratize
 bureaucratized
 bureaucrats
+bureaus
 bureaux
 buret
 burets
@@ -12330,6 +12337,7 @@ cabman
 cabob
 cabobs
 caboched
+cabochon
 cabochons
 cabomba
 caboodle
@@ -15491,6 +15499,7 @@ chivareed
 chivareeing
 chivarees
 chivari
+chivaried
 chivariing
 chivied
 chivvy
@@ -17716,6 +17725,7 @@ colonials
 colonic
 colonies
 colonisation
+colonisations
 colonise
 colonised
 colonist
@@ -24913,6 +24923,7 @@ devesting
 deviances
 deviant
 deviants
+deviate
 deviated
 deviating
 deviation
@@ -38642,6 +38653,7 @@ give
 giveaway
 giveback
 given
+givens
 giver
 givers
 gives
@@ -43124,6 +43136,7 @@ hogtie
 hogtied
 hogwashes
 hoicking
+hoicks
 hoiden
 hoidened
 hoidens
@@ -43551,6 +43564,7 @@ hooknosed
 hooks
 hookup
 hookups
+hookworms
 hoolie
 hooligan
 hooliganisms
@@ -49110,6 +49124,7 @@ jejunities
 jellaba
 jellies
 jellified
+jellifies
 jellify
 jellifying
 jelling
@@ -51808,6 +51823,7 @@ lectern
 lectin
 lectins
 lection
+lectionaries
 lectionary
 lections
 lectors
@@ -52684,6 +52700,7 @@ lingo
 lingonberry
 lingua
 lingually
+linguals
 linguicas
 linguini
 linguinis
@@ -57862,6 +57879,7 @@ misquoting
 misraise
 misraises
 misraising
+misrate
 misrated
 misrating
 misread
@@ -57940,6 +57958,7 @@ missionizers
 missionizes
 missionizing
 missis
+missises
 missives
 missorted
 missorting
@@ -66560,6 +66579,7 @@ pairings
 paisa
 paisan
 paisana
+paisanas
 paisanos
 paisas
 paisley
@@ -66955,6 +66975,7 @@ pantsuit
 panty
 pantyhose
 pantywaist
+pantywaists
 panzer
 panzers
 pap
@@ -77464,6 +77485,7 @@ recompenses
 recompilations
 recompile
 recompiled
+recompiles
 recompositions
 recomputation
 recomputed
@@ -84289,6 +84311,7 @@ sealift
 sealifts
 seals
 seam
+seaman
 seamanship
 seamanships
 seamark
@@ -86386,6 +86409,7 @@ sialidan
 sialidans
 sials
 siamangs
+siameses
 sib
 sibbs
 sibilance
@@ -86825,6 +86849,7 @@ singlet
 singletons
 singletree
 singletrees
+singlets
 sings
 singsong
 singsongs
@@ -91248,6 +91273,7 @@ storying
 storytelling
 storytellings
 stoss
+stot
 stotin
 stotinka
 stotinki
@@ -94813,6 +94839,7 @@ tarbushes
 tardies
 tardiest
 tardigrade
+tardigrades
 tardily
 tardiness
 tardive
@@ -96353,6 +96380,7 @@ thralled
 thrash
 thrashed
 thrashes
+thrashing
 thrashings
 thrasonical
 thrasonically
@@ -96675,6 +96703,7 @@ tiercerons
 tiered
 tiering
 tiff
+tiffanies
 tiffining
 tiffins
 tiffs
@@ -97328,6 +97357,7 @@ topkick
 topkicks
 toplessness
 toplessnesses
+topline
 toplines
 toploftily
 toploftiness
@@ -97380,6 +97410,7 @@ tora
 torahs
 toras
 torchbearer
+torchbearers
 torched
 torchere
 torcheres
@@ -99346,6 +99377,7 @@ turmeric
 turmerics
 turmoiling
 turmoils
+turn
 turnabout
 turnaround
 turnarounds
@@ -102839,6 +102871,7 @@ uvulas
 uvulitis
 uxorially
 uxoricide
+uxoricides
 uxoriously
 uxoriousnesses
 vacant
@@ -102983,6 +103016,7 @@ valuates
 valuating
 valuation
 valuational
+valuations
 valuator
 value
 valueless
@@ -103687,6 +103721,7 @@ vestas
 vested
 vestees
 vestiaries
+vestiary
 vestibular
 vestibule
 vestibuled
