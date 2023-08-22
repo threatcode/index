@@ -1580,6 +1580,7 @@ agitations
 agitative
 agitators
 agitprop
+agitprops
 aglare
 agleam
 aglee
@@ -2681,6 +2682,7 @@ amie
 amies
 amiga
 amigos
+amin
 amines
 aminic
 aminities
@@ -3315,6 +3317,7 @@ anise
 aniseed
 aniseeds
 aniseikonia
+aniseikonic
 anises
 anisette
 anisettes
@@ -9647,6 +9650,7 @@ blights
 blimpishnesses
 blimps
 blimy
+blin
 blind
 blinder
 blindest
@@ -21157,6 +21161,7 @@ creditableness
 credited
 creditors
 creditworthy
+credo
 credos
 creds
 credulities
@@ -22096,6 +22101,7 @@ curetting
 curfew
 curfews
 curfs
+curiae
 curial
 curios
 curiosa
@@ -25146,6 +25152,7 @@ detribalized
 detribalizes
 detriment
 detrimental
+detrimentally
 detrimentals
 detriments
 detrition
@@ -29727,6 +29734,7 @@ elitists
 elixir
 elk
 elkhound
+elkhounds
 ellipse
 ellipsoid
 elliptic
@@ -32654,6 +32662,7 @@ exiguousnesses
 exile
 exiles
 exilic
+eximious
 exist
 existed
 existence
@@ -32973,6 +32982,7 @@ exquisite
 exquisitely
 exquisites
 exsanguinates
+exsanguinating
 exsanguination
 exsanguinations
 exscind
@@ -33590,6 +33600,7 @@ fanciness
 fancy
 fancywork
 fancyworks
+fandango
 fandangos
 fandom
 fane
@@ -37733,6 +37744,7 @@ galaxies
 galbanum
 galbanums
 gale
+galea
 galeas
 galeate
 galena
@@ -38602,6 +38614,7 @@ geocoronas
 geode
 geodes
 geodesic
+geodesics
 geodesies
 geodesists
 geodesy
@@ -45708,6 +45721,7 @@ imid
 imidazole
 imidazoles
 imide
+imides
 imidic
 imids
 imine
@@ -52162,6 +52176,7 @@ lavatories
 lave
 laved
 laveered
+laveers
 lavendering
 laverock
 laverocks
@@ -68270,6 +68285,7 @@ pashalik
 pashaliks
 pashas
 pashes
+pashing
 pashminas
 pasodoble
 pasqueflower
@@ -74136,6 +74152,7 @@ pressrooms
 pressruns
 pressured
 pressureless
+pressuring
 pressurise
 pressurised
 pressurises
@@ -74323,6 +74340,7 @@ prewar
 prewarm
 prewarmed
 prewarming
+prewarms
 prewarned
 prewarns
 prewashed
@@ -74477,6 +74495,7 @@ prinks
 print
 printabilities
 printability
+printable
 printed
 printer
 printeries
@@ -76823,6 +76842,7 @@ quitted
 quitters
 quitting
 quittor
+quittors
 quiverers
 quiveringly
 quivers
@@ -78350,6 +78370,7 @@ recondensing
 reconditely
 recondition
 reconditioned
+reconditioning
 reconduct
 reconducted
 reconducts
@@ -80177,6 +80198,7 @@ rentals
 rente
 rented
 renter
+renters
 rentes
 rentiers
 rents
@@ -84932,6 +84954,7 @@ scratchy
 scrawlers
 scrawling
 scrawls
+scrawly
 scrawniest
 scrawny
 screaked
@@ -89817,6 +89840,7 @@ sorns
 soroche
 soroches
 sororally
+sororate
 sorority
 soroses
 sorosis
@@ -89982,6 +90006,7 @@ sowcars
 sower
 sowers
 sowing
+sown
 soy
 soybean
 soymilk
@@ -90692,6 +90717,7 @@ splitters
 splitting
 splodged
 splodges
+sploshed
 sploshes
 splotch
 splotched
@@ -91751,6 +91777,7 @@ stenotic
 stenotype
 stenotyped
 stenotypist
+stenotypists
 stenotypy
 stents
 step
@@ -91947,6 +91974,7 @@ stiles
 stiletto
 stilettoes
 stilettos
+still
 stillbirth
 stillbirths
 stillborn
@@ -95072,6 +95100,7 @@ symbiont
 symbionts
 symbiosis
 symbiote
+symbiotically
 symbiots
 symbol
 symboled
@@ -98275,6 +98304,7 @@ tomtits
 ton
 tonal
 tonally
+tondi
 tondo
 tone
 tonearm
@@ -98527,6 +98557,7 @@ torrify
 torrifying
 torrs
 torsades
+torse
 torsi
 torsion
 torsional
@@ -103422,6 +103453,7 @@ unwetted
 unwhipped
 unwieldiest
 unwieldiness
+unwieldinesses
 unwifely
 unwilled
 unwillingly
@@ -103870,6 +103902,7 @@ urologists
 urology
 uropod
 uropodal
+uropygia
 uropygial
 uropygiums
 uroscopies
@@ -103945,6 +103978,7 @@ utilizable
 utilization
 utilize
 utilizers
+utilizes
 utilizing
 utmost
 utmosts
@@ -106529,6 +106563,7 @@ wedgelike
 wedgier
 wedgiest
 wedging
+wedgy
 wedlocks
 weds
 wee
