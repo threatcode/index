@@ -4575,6 +4575,7 @@ araucarias
 arb
 arbalest
 arbalests
+arbalist
 arbelest
 arbiter
 arbiters
@@ -8393,6 +8394,7 @@ berylliums
 bes
 bescorched
 bescorches
+bescoured
 bescours
 bescreen
 bescreening
@@ -11163,6 +11165,7 @@ breccias
 brecciate
 brecciated
 brecciates
+brecciating
 brecciation
 brecciations
 brechams
@@ -13879,6 +13882,7 @@ cascade
 cascaded
 cascading
 cascara
+caseases
 caseate
 caseation
 caseations
@@ -19844,6 +19848,7 @@ copperas
 copperases
 copperheads
 copperplates
+coppersmith
 coppersmiths
 coppery
 coppiced
@@ -22328,6 +22333,7 @@ cyanic
 cyanided
 cyanides
 cyaniding
+cyanids
 cyanin
 cyanine
 cyanines
@@ -23470,6 +23476,7 @@ decolonization
 decolonizations
 decolonizes
 decolor
+decoloring
 decolorizations
 decolorized
 decolorizer
@@ -23890,6 +23897,7 @@ degasser
 degassers
 degauss
 degaussed
+degausser
 degaussers
 degaussing
 degendered
@@ -25877,6 +25885,7 @@ dimercaprols
 dimeric
 dimerism
 dimerization
+dimerizes
 dimerizing
 dimers
 dimeter
@@ -27200,6 +27209,7 @@ diurnal
 diurnally
 diuron
 diurons
+diva
 divagation
 divalences
 divans
@@ -30041,6 +30051,7 @@ emissary
 emission
 emissions
 emissivity
+emit
 emits
 emitted
 emitting
@@ -35071,6 +35082,7 @@ flagon
 flagons
 flagpole
 flagrance
+flagrances
 flagrancy
 flagrant
 flagrantly
@@ -35493,6 +35505,7 @@ flogs
 flokati
 flong
 flongs
+flooded
 flooding
 floodlight
 floodlighted
@@ -42108,6 +42121,7 @@ hatchable
 hatchback
 hatchbacks
 hatcheck
+hatchecks
 hatchel
 hatcheled
 hatcheling
@@ -43409,6 +43423,7 @@ hirples
 hirselled
 hirselling
 hirsels
+hirsles
 hirsute
 hirsuteness
 hirsutenesses
@@ -46580,6 +46595,7 @@ inconsequently
 inconsiderable
 inconsiderably
 inconsiderate
+inconsiderately
 inconsistence
 inconsistencies
 inconsistency
@@ -46707,6 +46723,7 @@ incurvates
 incurvating
 incurvations
 incurvature
+incurved
 incurves
 incurving
 incus
@@ -49031,6 +49048,7 @@ irrepealable
 irreplaceable
 irrepressible
 irreproachable
+irreproachably
 irresistibility
 irresistibly
 irresolute
@@ -50830,6 +50848,7 @@ kilowatts
 kilt
 kiltie
 kilties
+kiltings
 kiltlike
 kilts
 kilty
@@ -51087,6 +51106,7 @@ knightly
 knishes
 knits
 knittable
+knitted
 knitter
 knitting
 knitwear
@@ -61208,6 +61228,7 @@ negatively
 negativeness
 negativenesses
 negatives
+negativism
 negativities
 negativity
 negaton
@@ -63866,6 +63887,7 @@ odoriferousness
 odorizes
 odorizing
 odorless
+odorous
 odorously
 odorousness
 odors
@@ -66716,6 +66738,7 @@ overspecialize
 overspecializes
 overspeculate
 overspeculated
+overspeculates
 overspender
 overspenders
 overspending
@@ -68826,6 +68849,7 @@ pedipalp
 pedlar
 pedlary
 pedler
+pedleries
 pedlers
 pedocal
 pedocalic
@@ -68839,6 +68863,7 @@ pedologist
 pedologists
 pedometer
 pedophiles
+pedophilia
 pedophilias
 pedorthic
 pedros
@@ -69295,6 +69320,7 @@ perdures
 perduring
 perdus
 perdy
+perea
 peregrin
 peregrinating
 peregrination
@@ -71985,6 +72011,7 @@ poetless
 pogey
 pogeys
 pogies
+pogonias
 pogonip
 pogonips
 pogonophorans
@@ -74206,6 +74233,7 @@ pretheater
 pretold
 pretorial
 pretorian
+pretorians
 pretors
 pretournament
 pretrain
@@ -75170,6 +75198,7 @@ prosperity
 prosperous
 prosperousness
 prospers
+pross
 prosses
 prossie
 prossies
@@ -80943,6 +80972,7 @@ resorbs
 resorcinol
 resorcinols
 resorption
+resorptive
 resort
 resorted
 resorter
@@ -89757,6 +89787,7 @@ sorcerous
 sord
 sordid
 sordidness
+sordidnesses
 sordines
 sordini
 sordino
@@ -92159,6 +92190,7 @@ stooges
 stooging
 stook
 stooker
+stooks
 stoolie
 stoolies
 stoop
@@ -93043,6 +93075,7 @@ subgoal
 subgovernment
 subgovernments
 subgrade
+subgrades
 subgraph
 subgroups
 subgum
@@ -93402,6 +93435,7 @@ subsumes
 subsuming
 subsumption
 subsumptions
+subsurface
 subsurfaces
 subsystem
 subsystems
@@ -96633,6 +96667,7 @@ tepefying
 tephra
 tephrite
 tephrites
+tephritic
 tepidity
 tepidly
 tepoy
