@@ -1511,6 +1511,7 @@ agger
 aggies
 aggiornamentos
 agglomerate
+agglomerated
 agglomerates
 agglomerating
 agglomerations
@@ -12829,6 +12830,7 @@ calkins
 calks
 call
 calla
+callable
 callaloo
 callaloos
 callan
@@ -13987,6 +13989,7 @@ cassimeres
 cassino
 cassinos
 cassis
+cassock
 cassocks
 cassoulet
 cassoulets
@@ -18383,6 +18386,7 @@ comparison
 comparted
 comparting
 compartment
+compartmented
 compartmenting
 compartments
 comparts
@@ -18957,6 +18961,7 @@ conflations
 conflict
 conflictions
 conflicts
+confluences
 confluent
 confluents
 conflux
@@ -21285,6 +21290,7 @@ crepitated
 crepitates
 crepitations
 crepon
+crepons
 crepuscles
 crepuscular
 crescendi
@@ -34212,6 +34218,7 @@ feminity
 feminizations
 feminized
 feminizes
+feminizing
 femora
 fems
 femtosecond
@@ -36687,6 +36694,7 @@ fourteeners
 fourth
 fourths
 fovea
+foveae
 foveas
 foveate
 foveated
@@ -42132,6 +42140,7 @@ harpoons
 harps
 harpsichord
 harpsichordists
+harpsichords
 harpy
 harquebus
 harquebusier
@@ -45691,6 +45700,7 @@ illogics
 illude
 illuded
 illuding
+illuminable
 illuminance
 illuminances
 illuminant
@@ -47317,6 +47327,7 @@ infirm
 infirmed
 infirming
 infirmity
+infirmly
 infirms
 infixation
 infixations
@@ -47377,6 +47388,7 @@ informality
 informally
 informant
 informants
+informatics
 information
 informational
 informations
@@ -50520,6 +50532,7 @@ karyogamies
 karyokineses
 karyokinesis
 karyokinetic
+karyological
 karyologies
 karyology
 karyosome
@@ -52752,6 +52765,7 @@ lens
 lense
 lenses
 lensless
+lensman
 lent
 lentando
 lenten
@@ -52882,6 +52896,7 @@ leukopenia
 leukopenias
 leukoplakia
 leukoplakias
+leukoplakic
 leukopoiesis
 leukopoietic
 leukorrhea
@@ -54675,6 +54690,7 @@ lycra
 lyddites
 lye
 lyes
+lying
 lyingly
 lyings
 lymphadenitis
@@ -56056,6 +56072,7 @@ materfamiliases
 material
 materialises
 materialising
+materialism
 materialisms
 materialist
 materialists
@@ -58589,6 +58606,7 @@ mispaints
 misparsed
 misparses
 misparsing
+mispart
 misparted
 misparting
 mispatch
@@ -62176,6 +62194,7 @@ noil
 noils
 noir
 noirish
+noirs
 noise
 noiseless
 noisemaker
@@ -70382,6 +70401,7 @@ phonographies
 phonography
 phonolite
 phonologic
+phonologically
 phonologies
 phonologists
 phonons
@@ -71937,6 +71957,7 @@ plisses
 plodded
 plodding
 ploidy
+plonked
 plop
 plopped
 plopping
@@ -76310,6 +76331,7 @@ pushers
 pushes
 pushiness
 pushinesses
+pushing
 pushingly
 pushover
 pushovers
@@ -76866,6 +76888,7 @@ queuer
 queuers
 queues
 quey
+queys
 quezales
 quibble
 quibbled
@@ -78525,6 +78548,7 @@ reconcentrate
 reconcentrated
 reconcentrates
 reconcentration
+reconception
 reconceptions
 reconceptualize
 reconcilability
@@ -79242,6 +79266,7 @@ referenda
 referendum
 referent
 referential
+referentially
 referral
 referrals
 referrer
@@ -79355,6 +79380,7 @@ reform
 reformability
 reformate
 reformates
+reformation
 reformational
 reformations
 reformatory
@@ -79397,6 +79423,7 @@ refracts
 refrain
 refrained
 refrainer
+refraining
 refrainment
 refrains
 reframe
@@ -84267,6 +84294,7 @@ satiably
 satiate
 satiates
 satiating
+satiation
 satiations
 satieties
 satiety
@@ -84339,6 +84367,7 @@ saucerlike
 saucers
 saucier
 sauciers
+saucinesses
 sauerbraten
 sauerkraut
 sauger
@@ -84576,6 +84605,7 @@ scandias
 scandium
 scanner
 scanning
+scannings
 scansion
 scansions
 scant
@@ -91079,6 +91109,7 @@ sportswomen
 sportswriter
 sportswritings
 sporular
+sporulate
 sporulated
 sporulates
 sporulating
@@ -93694,6 +93725,7 @@ subtherapeutic
 subthreshold
 subtile
 subtilenesses
+subtilest
 subtilin
 subtilins
 subtilisin
@@ -93707,6 +93739,7 @@ subtilized
 subtilizing
 subtilty
 subtitling
+subtle
 subtlenesses
 subtler
 subtlest
@@ -97173,6 +97206,7 @@ tetrameters
 tetramethyllead
 tetraploid
 tetraploidies
+tetraploidy
 tetrapod
 tetrapods
 tetrapyrrole
@@ -99115,6 +99149,7 @@ tragopan
 tragopans
 tragus
 traik
+traiked
 trail
 trailblazers
 trailed
