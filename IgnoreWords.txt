@@ -3968,6 +3968,7 @@ antiskid
 antislavery
 antisleep
 antislip
+antismog
 antismoke
 antismokers
 antismoking
@@ -5914,6 +5915,7 @@ auricle
 auricled
 auricula
 auriculae
+auriculas
 auriculate
 auris
 aurist
@@ -11682,6 +11684,7 @@ brusquer
 brusquerie
 brut
 brutal
+brutalised
 brutalises
 brutalising
 brutalities
@@ -18760,6 +18763,7 @@ conciliated
 conciliates
 conciliating
 conciliation
+conciliations
 conciliator
 conciliators
 concinnity
@@ -18799,6 +18803,7 @@ concreting
 concretion
 concretions
 concretisms
+concretist
 concretists
 concretize
 concretized
@@ -19732,6 +19737,7 @@ convertible
 convertibly
 converting
 convertiplane
+convertiplanes
 convertor
 convertors
 convex
@@ -20258,6 +20264,7 @@ corralling
 corrasion
 corrasions
 corrasive
+correct
 correctable
 correcter
 correctest
@@ -21129,6 +21136,7 @@ crapping
 craps
 crapshoots
 crases
+crash
 crashed
 crasher
 crashers
@@ -24889,6 +24897,7 @@ dermoids
 derms
 dernier
 derogate
+derogating
 derogative
 derogatorily
 derogatory
@@ -28249,6 +28258,7 @@ draughts
 draughtsman
 draughty
 drave
+draw
 drawable
 drawback
 drawbar
@@ -33084,6 +33094,7 @@ expressage
 expressages
 expressers
 expresses
+expressional
 expressionisms
 expressionist
 expressionistic
@@ -34859,6 +34870,7 @@ filterabilities
 filterability
 filterable
 filterers
+filtering
 filters
 filth
 filthier
@@ -36007,6 +36019,7 @@ foamed
 foamer
 foamflower
 foamflowers
+foamily
 foaminess
 foaming
 foamlike
@@ -38850,6 +38863,7 @@ geoprobe
 geoprobes
 georgette
 georgettes
+georgics
 geoscience
 geosciences
 geoscientist
@@ -48131,6 +48145,7 @@ inswathe
 inswathes
 inswathing
 intact
+intactly
 intaglio
 intaglioing
 intaglios
@@ -54984,6 +54999,7 @@ macroevolution
 macroevolutions
 macrofossil
 macrofossils
+macrogamete
 macroglobulin
 macroglobulins
 macromere
@@ -55451,6 +55467,7 @@ mammas
 mammate
 mammati
 mammatus
+mammees
 mammer
 mammered
 mammers
@@ -56637,6 +56654,7 @@ megalopolises
 megalopolitan
 megalops
 megalopses
+megaphone
 megaphonic
 megaphoning
 megaplex
@@ -58642,6 +58660,7 @@ mislabored
 mislaboring
 mislain
 mislay
+mislaying
 mislays
 misleader
 misleading
@@ -59398,6 +59417,7 @@ mongoose
 mongooses
 mongos
 mongrel
+mongrelization
 mongrelize
 mongrelized
 mongrelizes
@@ -61231,6 +61251,7 @@ narwhal
 narwhale
 narwhales
 narwhals
+nary
 nasal
 nasalise
 nasalised
@@ -63930,6 +63951,7 @@ obsolescent
 obsolesces
 obsoleting
 obstacle
+obstacles
 obstetrician
 obstetricians
 obstinacy
@@ -67715,6 +67737,7 @@ palimpsest
 palindromes
 palindromist
 palindromists
+paling
 palingeneses
 palingenesis
 palingenetic
@@ -73498,6 +73521,7 @@ pragmatical
 pragmatically
 pragmaticist
 pragmaticists
+pragmatics
 pragmatism
 pragmatisms
 pragmatist
@@ -78748,6 +78772,7 @@ reconnoitering
 reconnoiters
 reconnoitre
 reconnoitred
+reconnoitring
 reconquer
 reconquered
 reconquest
@@ -82581,6 +82606,7 @@ rimrocks
 rimy
 rin
 rind
+rinderpest
 rindless
 rinds
 ringbark
@@ -83477,6 +83503,7 @@ ruinousness
 ruinousnesses
 ruins
 rulable
+rule
 ruled
 ruleless
 rulership
@@ -83553,6 +83580,7 @@ runoff
 runoffs
 runout
 runovers
+runs
 runt
 runtier
 runtinesses
@@ -84431,6 +84459,7 @@ sashing
 sashless
 sasin
 saskatoons
+sasquatch
 sassaby
 sassafrases
 sasses
@@ -91103,6 +91132,7 @@ splenectomy
 splenetically
 splenetics
 splenii
+splenium
 splenius
 splenomegalies
 splents
@@ -91172,6 +91202,7 @@ spondee
 spondylitises
 sponge
 sponges
+spongeware
 spongewares
 spongily
 sponginess
@@ -91337,6 +91368,7 @@ spreadabilities
 spreader
 spreaders
 spreading
+spreadsheet
 sprees
 spriest
 sprig
@@ -101100,6 +101132,7 @@ twerps
 twibill
 twibills
 twibils
+twice
 twiddle
 twiddled
 twiddler
@@ -101288,6 +101321,7 @@ tyrannised
 tyrannising
 tyrannize
 tyrannized
+tyrannizers
 tyrannizes
 tyrannosaurs
 tyrannosaurus
@@ -105948,6 +105982,7 @@ vixens
 vizard
 vizarded
 vizcacha
+vizier
 vizierate
 vizierial
 vizir
