@@ -8060,6 +8060,7 @@ behavioral
 behaviorally
 beheadal
 beheadals
+beheaded
 beheader
 beheaders
 beheading
@@ -8309,6 +8310,7 @@ benes
 benevolence
 benevolences
 benevolentness
+benighted
 benightedness
 benignancies
 benignancy
@@ -12215,6 +12217,7 @@ burrs
 burry
 bursa
 bursae
+bursarial
 bursas
 burse
 burseed
@@ -20721,6 +20724,7 @@ counterreforms
 counterresponse
 countershading
 countershadings
+countershots
 countersign
 countersigned
 countersigning
@@ -26868,6 +26872,7 @@ dismays
 disme
 dismembering
 dismemberments
+dismissal
 dismissals
 dismissions
 dismissive
@@ -29597,6 +29602,7 @@ egoistical
 egoless
 egomania
 egomaniac
+egomaniacal
 egomaniacally
 egomaniacs
 egomanias
@@ -29884,6 +29890,7 @@ elixir
 elk
 elkhound
 elkhounds
+elks
 ellipse
 ellipsoid
 ellipsoidal
@@ -31994,6 +32001,7 @@ estoppages
 estoppels
 estops
 estovers
+estradiol
 estradiols
 estragon
 estragons
@@ -34075,6 +34083,7 @@ favorite
 favorites
 favors
 favourers
+favouring
 favours
 favus
 favuses
@@ -40293,6 +40302,7 @@ gramas
 gramercies
 gramercy
 gramicidin
+gramicidins
 gramineous
 gramma
 grammarian
@@ -43047,6 +43057,7 @@ hemorrhages
 hemorrhaging
 hemorrhoid
 hemorrhoidal
+hemorrhoidals
 hemorrhoids
 hemostases
 hemostasis
@@ -46585,6 +46596,7 @@ inapplicably
 inapposite
 inappositely
 inappreciably
+inappreciative
 inapproachable
 inappropriate
 inappropriately
@@ -47171,6 +47183,7 @@ indoles
 indomethacins
 indomitability
 indomitable
+indoor
 indophenol
 indophenols
 indorsed
@@ -48023,6 +48036,7 @@ inspans
 inspected
 inspection
 inspectorate
+inspectorates
 inspectors
 inspects
 insphere
@@ -57402,6 +57416,7 @@ methought
 methoxide
 methoxides
 methoxy
+methoxychlor
 methoxyflurane
 methoxyl
 meths
@@ -64294,6 +64309,7 @@ office
 officeholders
 officer
 officers
+offices
 official
 officialese
 officialeses
@@ -65210,6 +65226,7 @@ oscillational
 oscillations
 oscillatory
 oscillograms
+oscillograph
 oscillographies
 oscillography
 oscilloscopes
@@ -66310,6 +66327,7 @@ overall
 overalls
 overamplified
 overanalyses
+overanalysis
 overanalyzed
 overanalyzes
 overanalyzing
@@ -67503,6 +67521,7 @@ pacifistically
 pacify
 pacing
 packabilities
+packable
 package
 packaged
 packager
@@ -68018,6 +68037,7 @@ pantalones
 pantaloon
 pantdress
 pantdresses
+pantechnicon
 pantechnicons
 pantheism
 pantheist
@@ -69957,6 +69977,7 @@ peroneal
 perorated
 perorates
 perorating
+peroration
 perorational
 perorator
 perorators
@@ -70834,6 +70855,7 @@ phreakers
 phreakings
 phreatic
 phreatophytic
+phrenic
 phrenitides
 phrenitis
 phrenologies
@@ -76554,6 +76576,7 @@ pusslies
 pusslike
 pussycats
 pussyfoot
+pussyfooted
 pussyfooters
 pussyfooting
 pussyfoots
@@ -77211,6 +77234,7 @@ quintuplicates
 quintupling
 quintuply
 quipped
+quipper
 quippier
 quippiest
 quippus
@@ -81807,6 +81831,7 @@ retorn
 retorsion
 retorsions
 retort
+retorter
 retorting
 retortions
 retotal
@@ -84313,6 +84338,7 @@ sanitized
 sanitizes
 sanitizing
 sanitoria
+sanitoriums
 sanity
 sanjak
 sanjaks
@@ -90617,6 +90643,7 @@ sparrowlike
 sparrows
 sparse
 sparseness
+sparsest
 sparsities
 sparsity
 spartan
@@ -91145,6 +91172,7 @@ splayfoot
 splaying
 splays
 spleen
+spleenier
 spleens
 spleenwort
 spleenworts
@@ -95920,6 +95948,7 @@ taboo
 tabooing
 tabooleys
 taboos
+tabored
 taborets
 taborins
 taboulehs
@@ -97425,6 +97454,7 @@ tetchiness
 tether
 tetherball
 tetherballs
+tethered
 tethering
 tetotum
 tetotums
@@ -98490,6 +98520,7 @@ tipped
 tippers
 tippet
 tipping
+tippytoeing
 tipsily
 tipstaff
 tipstaves
@@ -102004,6 +102035,7 @@ unclarified
 unclarity
 unclasp
 unclasped
+unclasps
 unclassical
 unclassifiable
 unclassy
@@ -104982,6 +105014,7 @@ vaus
 vavasor
 vavasour
 vavasours
+vavassor
 vavassors
 vavs
 vaw
@@ -105725,6 +105758,7 @@ vineyard
 vineyardist
 vineyardists
 vinicultures
+vinier
 viniest
 vinifera
 viniferas
@@ -109106,6 +109140,7 @@ yolks
 yom
 yomim
 yon
+yond
 yoni
 yonic
 yonis
