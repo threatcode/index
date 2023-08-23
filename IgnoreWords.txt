@@ -1383,6 +1383,7 @@ afforests
 affrayer
 affrayers
 affraying
+affricate
 affricating
 affricative
 affright
@@ -4492,6 +4493,7 @@ approvals
 approver
 approves
 approving
+approvingly
 approximate
 approximated
 approximation
@@ -9665,6 +9667,7 @@ bleary
 bleat
 bleated
 bleater
+bleaters
 bleats
 blebbings
 blebby
@@ -11462,6 +11465,7 @@ broadbean
 broadbeans
 broadbill
 broadbills
+broadcast
 broadcasted
 broadcasters
 broadcasts
@@ -15342,6 +15346,7 @@ checkpoint
 checkpoints
 checkroom
 checkrooms
+checkrow
 checkrowing
 checkrows
 checks
@@ -16730,6 +16735,7 @@ clavichordist
 clavichords
 clavicle
 clavicles
+clavicorn
 clavicular
 clavier
 clavieristic
@@ -19639,6 +19645,7 @@ contrabassoon
 contrabassoons
 contraceptions
 contraceptive
+contract
 contracted
 contractibility
 contractilities
@@ -28716,6 +28723,7 @@ duci
 duck
 duckbill
 duckbills
+duckboards
 ducker
 duckers
 duckie
@@ -36180,6 +36188,7 @@ foh
 fohn
 foible
 foibles
+foilable
 foiling
 foils
 foilsman
@@ -37046,6 +37055,7 @@ fraternities
 fraternity
 fraternization
 fraternizations
+fraternize
 fraternizer
 fraternizers
 fraternizing
@@ -37200,6 +37210,7 @@ fresh
 freshed
 freshen
 freshened
+freshener
 freshening
 fresher
 freshes
@@ -43935,6 +43946,7 @@ hogshead
 hogtie
 hogtied
 hogwashes
+hoick
 hoicking
 hoicks
 hoiden
@@ -48655,6 +48667,7 @@ interning
 internist
 internment
 internments
+internodes
 interns
 internship
 internships
@@ -49641,6 +49654,7 @@ isospory
 isostacies
 isostacy
 isostatic
+isostatically
 isotach
 isotachs
 isotactic
@@ -51299,6 +51313,7 @@ king
 kingbirds
 kingbolts
 kingdom
+kingdoms
 kinged
 kingfish
 kingfisher
@@ -53227,6 +53242,7 @@ levying
 lewd
 lewder
 lewdly
+lewdness
 lewises
 lewisite
 lewisson
@@ -54500,6 +54516,7 @@ lories
 lorikeets
 loriner
 loriners
+lorises
 lornness
 losable
 losableness
@@ -55198,6 +55215,7 @@ maddeningly
 madder
 madders
 maddest
+maddish
 madeira
 madeiras
 madeleine
@@ -60983,6 +61001,7 @@ mutilating
 mutilations
 mutilators
 mutined
+mutineer
 mutineering
 mutineers
 muting
@@ -62472,6 +62491,7 @@ noctilucas
 noctuid
 noctuids
 noctules
+nocturnal
 nocturnally
 nocturnes
 nocturns
@@ -65920,6 +65940,7 @@ outjump
 outjumped
 outjumps
 outjuts
+outjutted
 outkeep
 outkeeps
 outkicked
@@ -69179,6 +69200,7 @@ payload
 paymaster
 paymasters
 payment
+payments
 paynims
 payoff
 payoffs
@@ -73471,6 +73493,7 @@ postposing
 postpositional
 postpositions
 postpositively
+postprison
 postproduction
 postproductions
 postrace
@@ -77766,6 +77789,7 @@ railing
 railings
 raillery
 railroad
+railroader
 railroads
 rails
 railways
@@ -78469,6 +78493,7 @@ reaps
 rear
 rearers
 rearguard
+reargument
 rearguments
 rearm
 rearmament
@@ -82670,6 +82695,7 @@ ricracs
 rictus
 rictuses
 rid
+ridable
 riddances
 ridded
 ridder
@@ -83880,6 +83906,7 @@ rusty
 rut
 rutabaga
 ruth
+ruthenium
 rutherfordium
 rutherfordiums
 ruthful
@@ -87964,6 +87991,7 @@ shunpikes
 shunpikings
 shuns
 shunt
+shunted
 shunter
 shush
 shushed
@@ -88997,6 +89025,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slatings
 slats
 slatted
 slatternly
@@ -96550,6 +96579,7 @@ tannins
 tanrec
 tanrecs
 tantalates
+tantalise
 tantalises
 tantalites
 tantalize
@@ -99619,6 +99649,7 @@ tradesmen
 trading
 traditional
 traditionalisms
+traditionalists
 traditionalized
 traditionalizes
 traditionally
@@ -99950,6 +99981,7 @@ transsexual
 transsexualism
 transsexuals
 transshape
+transshaped
 transshapes
 transshaping
 transship
@@ -106788,6 +106820,7 @@ walker
 walking
 walkingstick
 walkover
+walkovers
 walkup
 walkups
 walkway
@@ -107573,6 +107606,7 @@ wetness
 wetnesses
 wetproof
 wets
+wetsuit
 wetsuits
 wettabilities
 wettability
@@ -109617,6 +109651,7 @@ zigzaggers
 zigzaggy
 zikkurats
 zilch
+zill
 zillah
 zillahs
 zillion
