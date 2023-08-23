@@ -292,6 +292,7 @@ accidentalness
 accidentals
 accidently
 accidia
+accidias
 accidie
 accipiters
 accipitrine
@@ -19855,6 +19856,7 @@ convoking
 convolute
 convolutes
 convoluting
+convolution
 convolved
 convolves
 convolving
@@ -21011,6 +21013,7 @@ cowinners
 cowled
 cowlicks
 cowlings
+cowlstaves
 cowmen
 coworker
 cowpat
@@ -21384,6 +21387,7 @@ crenel
 crenelated
 crenelates
 crenelating
+crenelation
 crenelations
 creneled
 crenellated
@@ -24309,6 +24313,7 @@ delightsome
 delime
 delimed
 delimes
+deliming
 delimit
 delimited
 delimiter
@@ -25907,6 +25912,7 @@ dieselized
 dieselizes
 dieselizing
 diesels
+diesis
 diester
 diesters
 diestocks
@@ -26699,6 +26705,7 @@ diseconomy
 disembark
 disembarkation
 disembarkations
+disembarked
 disembarks
 disembarrass
 disembarrassed
@@ -31964,6 +31971,7 @@ escar
 escarole
 escarped
 escarping
+escarpment
 escarpments
 escarps
 eschalot
@@ -38236,6 +38244,7 @@ gamesmen
 gamesomeness
 gamesomenesses
 gamester
+gametangium
 gametic
 gametically
 gametocytes
@@ -41263,6 +41272,7 @@ gudes
 gudgeon
 gudgeoned
 gudgeoning
+gudgeons
 guenons
 guerdon
 guerdoned
@@ -42211,6 +42221,7 @@ hapaxes
 haphazardly
 haphazardness
 haphazardnesses
+haphazardry
 haphazards
 haphtara
 haphtarah
@@ -45751,6 +45762,7 @@ idealless
 ideally
 idealogies
 idealogue
+idealogues
 idealogy
 ideals
 ideas
@@ -50284,6 +50296,7 @@ jiveass
 jives
 jivey
 jiving
+jivy
 jnanas
 jo
 job
@@ -50311,6 +50324,7 @@ jocosenesses
 jocosities
 jocular
 jocularities
+jocularity
 jocund
 jocundity
 jocundly
@@ -50491,6 +50505,7 @@ jubile
 jubilee
 juco
 judas
+judder
 juddered
 juddering
 judged
@@ -52816,6 +52831,7 @@ leatherette
 leatherettes
 leathering
 leatherlike
+leathern
 leatherneck
 leathernecks
 leathers
@@ -53551,6 +53567,7 @@ lignans
 ligneous
 lignified
 lignifying
+lignin
 lignite
 lignitic
 lignocelluloses
@@ -55044,6 +55061,7 @@ lymphoid
 lymphoma
 lymphomatoses
 lymphomatosis
+lymphosarcomata
 lymphs
 lynched
 lynches
@@ -58729,6 +58747,7 @@ misdoubt
 misdoubting
 misdrawn
 misdrew
+misdrive
 misdriven
 misdrives
 misdriving
@@ -61774,6 +61793,7 @@ negativists
 negativities
 negativity
 negaton
+negatons
 negatron
 negatrons
 neglected
@@ -62167,6 +62187,7 @@ newsagent
 newsboys
 newsbreaks
 newscast
+newscasters
 newscasts
 newsdealers
 newsdesk
@@ -65105,6 +65126,7 @@ oraches
 oracularity
 oracularly
 oral
+oralisms
 oralists
 oralities
 orality
@@ -67526,6 +67548,7 @@ ovibos
 ovicide
 oviducal
 oviduct
+oviductal
 ovine
 ovipara
 oviparity
@@ -71617,6 +71640,7 @@ pinken
 pinkening
 pinkeye
 pinkings
+pinkish
 pinkishness
 pinkishnesses
 pinkness
@@ -72473,6 +72497,7 @@ plumped
 plumpen
 plumpened
 plumper
+plumping
 plumpish
 plums
 plumular
@@ -75805,6 +75830,7 @@ proscriptive
 prose
 prosect
 prosected
+prosecting
 prosectors
 prosects
 prosecute
@@ -79397,6 +79423,7 @@ redirection
 redirects
 redis
 rediscount
+rediscountable
 rediscounted
 rediscover
 rediscovered
@@ -84715,6 +84742,7 @@ sarcenets
 sarcinae
 sarcinas
 sarcocarps
+sarcoidoses
 sarcoids
 sarcolemma
 sarcolemmal
@@ -86190,6 +86218,7 @@ seducers
 seducive
 seduction
 seductive
+seductively
 seductiveness
 seductivenesses
 seductress
@@ -91803,6 +91832,7 @@ spumiest
 spumone
 spumoni
 spumonis
+spumous
 spumy
 spunk
 spunkier
@@ -95286,6 +95316,7 @@ supraorbital
 suprarational
 suprarenal
 suprarenals
+supravital
 supremacies
 supremacists
 suprematism
@@ -95762,6 +95793,7 @@ swipples
 swirl
 swirled
 swirlingly
+swish
 swisher
 swishers
 swishes
@@ -101017,6 +101049,7 @@ truster
 trustful
 trustfulness
 trustier
+trustily
 trustiness
 trustinesses
 trustingly
@@ -101189,6 +101222,7 @@ tumefactions
 tumefies
 tumefy
 tumefying
+tumesce
 tumesced
 tumescence
 tumesces
@@ -106679,6 +106713,7 @@ vulgarises
 vulgarising
 vulgarism
 vulgarisms
+vulgarities
 vulgarity
 vulgarization
 vulgarizations
