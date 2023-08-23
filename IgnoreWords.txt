@@ -4410,6 +4410,7 @@ applying
 appoggiatura
 appoggiaturas
 appoint
+appointee
 appointers
 appointing
 appointive
@@ -10163,6 +10164,7 @@ boehmites
 boff
 boffed
 boffin
+boffing
 boffins
 boffo
 boffola
@@ -14396,6 +14398,7 @@ caved
 cavefishes
 cavelike
 caveman
+cavemen
 cavendish
 cavendishes
 caver
@@ -16223,6 +16226,7 @@ cibols
 ciborium
 ciboules
 cicada
+cicadae
 cicadas
 cicalas
 cicale
@@ -19559,6 +19563,7 @@ contestants
 contested
 contester
 contesting
+context
 contextless
 contexts
 contextual
@@ -24543,6 +24548,7 @@ dendrogram
 dendrograms
 dendroid
 dendrological
+dendrologies
 dendrologist
 dendrology
 dendrons
@@ -25438,6 +25444,7 @@ devotements
 devoting
 devotion
 devotionally
+devotions
 devour
 devourers
 devouring
@@ -33393,6 +33400,7 @@ extrovert
 extroverts
 extrudabilities
 extrude
+extruded
 extruders
 extrusions
 extrusive
@@ -33704,6 +33712,7 @@ faithlessly
 faiths
 faitour
 fajita
+fakeer
 faker
 fakeries
 fakers
@@ -34960,6 +34969,7 @@ finale
 finales
 finalis
 finalised
+finalises
 finalism
 finalisms
 finalist
@@ -44345,6 +44355,7 @@ hoop
 hooped
 hooplas
 hoopless
+hooplike
 hoopoe
 hoopoos
 hoops
@@ -44445,6 +44456,7 @@ hornpipes
 hornpout
 horns
 hornstone
+hornstones
 hornswoggles
 horntail
 hornworm
@@ -46079,6 +46091,7 @@ immersions
 immesh
 immeshes
 immeshing
+immethodically
 immies
 immigrant
 immigrants
@@ -47170,6 +47183,7 @@ indigenize
 indigenized
 indigenizing
 indigenous
+indigenously
 indigenousness
 indigested
 indigestibility
@@ -50501,6 +50515,7 @@ juncoes
 junctional
 junctions
 jungle
+jungled
 junglegyms
 junglelike
 jungly
@@ -52967,6 +52982,7 @@ lengthier
 lengthiest
 lengthily
 lengthiness
+lengthways
 lengthwise
 lengthy
 leniences
@@ -54431,6 +54447,7 @@ lordlike
 lordliness
 lordlings
 lordly
+lordoma
 lordoses
 lords
 lordship
@@ -54901,6 +54918,7 @@ lyase
 lyases
 lycea
 lycee
+lycees
 lychees
 lyches
 lychnis
@@ -57501,6 +57519,7 @@ methylenes
 methylic
 methylphenidate
 methylxanthine
+methylxanthines
 methysergides
 meticais
 metical
@@ -57907,6 +57926,7 @@ mightier
 mightily
 mightiness
 mightinesses
+mignon
 mignonette
 mignonettes
 mignons
@@ -57999,6 +58019,7 @@ milkmaid
 milkman
 milkshakes
 milksop
+milksops
 milkwood
 milkwort
 milkworts
@@ -58233,6 +58254,7 @@ minimax
 minimaxes
 minimills
 minimise
+minimised
 minimising
 minimized
 minimizer
@@ -59252,6 +59274,7 @@ moderateness
 moderating
 moderation
 moderations
+moderato
 moderator
 moderators
 moderatorship
@@ -60810,6 +60833,7 @@ mushes
 mushier
 mushiest
 mushily
+mushiness
 mushinesses
 mushing
 mushroom
@@ -63207,6 +63231,7 @@ nonretractile
 nonretroactive
 nonreturnables
 nonrioters
+nonrioting
 nonrival
 nonroyal
 nonrubber
@@ -65243,6 +65268,7 @@ orrices
 orris
 orrises
 orrisroot
+ors
 orthicon
 orthicons
 ortho
@@ -81607,6 +81633,7 @@ response
 responsible
 responsions
 responsive
+responsively
 responsiveness
 responsories
 responsory
@@ -84050,6 +84077,7 @@ sail
 sailable
 sailboard
 sailboarded
+sailboarding
 sailboards
 sailboater
 sailboating
@@ -84351,6 +84379,7 @@ sandbagging
 sandbags
 sandbanks
 sandbar
+sandbars
 sandblasted
 sandblaster
 sandblasting
@@ -87939,6 +87968,7 @@ siameses
 sib
 sibbs
 sibilance
+sibilancies
 sibilancy
 sibilate
 sibilates
@@ -91513,6 +91543,7 @@ spraddle
 spraddled
 spraddles
 sprag
+sprags
 sprain
 sprained
 sprat
@@ -94557,6 +94588,7 @@ sunback
 sunbaked
 sunbath
 sunbathe
+sunbathed
 sunbathers
 sunbaths
 sunbeam
@@ -99148,6 +99180,7 @@ toques
 toquets
 tor
 tora
+torah
 torahs
 toras
 torchbearer
@@ -105320,6 +105353,7 @@ venging
 venial
 venialities
 venially
+venialness
 venine
 venins
 venipuncture
@@ -108725,6 +108759,7 @@ woundworts
 wove
 woven
 wovens
+wowed
 wowsers
 wrack
 wracked
