@@ -564,6 +564,7 @@ acnode
 acock
 acoelomate
 acoelomates
+acolyte
 acolytes
 aconite
 aconites
@@ -7032,6 +7033,7 @@ banishing
 banishments
 banister
 banistered
+banisters
 banjaxed
 banjaxes
 banjaxing
@@ -7539,6 +7541,7 @@ battlements
 battler
 battlers
 battles
+battleship
 battleships
 battling
 battue
@@ -11926,6 +11929,7 @@ builders
 builds
 buildups
 buirdly
+bulb
 bulbed
 bulbils
 bulblet
@@ -13167,6 +13171,7 @@ candent
 candescence
 candescences
 candid
+candidacy
 candidature
 candidatures
 candider
@@ -25870,6 +25875,7 @@ dictum
 dictums
 dictyosome
 dictyosomes
+dictyostele
 dictyosteles
 dicyclies
 dicycly
@@ -26235,6 +26241,7 @@ diolefins
 diols
 dionysiac
 dionysian
+diopside
 diopsides
 diopsidic
 dioptases
@@ -26526,6 +26533,7 @@ discarded
 discarder
 discarders
 discarding
+discards
 discarnate
 discased
 discases
@@ -33174,6 +33182,7 @@ explicating
 explication
 explications
 explicative
+explicatively
 explicatory
 explicit
 explicits
@@ -33734,6 +33743,7 @@ fagoter
 fagoters
 fagoting
 fagots
+fags
 faience
 fail
 failing
@@ -35969,6 +35979,7 @@ flowerpot
 flowery
 flowing
 flowingly
+flowmeter
 flowmeters
 flown
 flows
@@ -36422,6 +36433,7 @@ footstalks
 footstall
 footstalls
 footstep
+footsteps
 footstocks
 footstone
 footstones
@@ -40547,6 +40559,7 @@ grantees
 granter
 granters
 granting
+grantor
 grants
 grantsman
 grantsmanships
@@ -41812,6 +41825,7 @@ haggadahs
 haggadas
 haggadic
 haggadistic
+haggardly
 haggardness
 haggardnesses
 hagged
@@ -43409,6 +43423,7 @@ heroes
 heroic
 heroically
 heroicize
+heroicomic
 heroics
 heroin
 heroine
@@ -53079,6 +53094,7 @@ lemniscate
 lemniscates
 lemnisci
 lemon
+lemongrasses
 lemonish
 lemonlike
 lemons
@@ -58993,6 +59009,7 @@ misoneist
 misoneists
 misordered
 misordering
+misorientation
 misoriented
 mispackages
 mispackaging
@@ -61234,6 +61251,7 @@ myosotis
 myosotises
 myotic
 myotics
+myotome
 myotonias
 myotonic
 myriad
@@ -61544,6 +61562,7 @@ nasions
 nasopharyngeal
 nasopharynges
 nasopharynx
+nastic
 nastier
 nastiest
 nastily
@@ -62658,6 +62677,7 @@ nominals
 nominating
 nomination
 nominations
+nominator
 nominators
 nominee
 nominees
@@ -64305,6 +64325,7 @@ obviator
 obviators
 obvious
 obviously
+obviousness
 obviousnesses
 obvolute
 oca
@@ -71318,6 +71339,7 @@ picked
 picker
 pickerels
 pickerelweeds
+pickers
 picket
 picketboat
 picketboats
@@ -71624,6 +71646,7 @@ pinealectomized
 pineapple
 pinecone
 pinecones
+pined
 pineland
 pinelike
 pinene
@@ -71755,6 +71778,7 @@ piosities
 piosity
 pious
 piously
+piousness
 piousnesses
 pip
 pipage
@@ -73689,6 +73713,7 @@ pother
 potherb
 potherbs
 pothering
+pothers
 potholders
 pothole
 pothook
@@ -76426,6 +76451,7 @@ pudding
 puddle
 puddler
 puddlers
+puddles
 puddlier
 puddlings
 puddly
@@ -84087,6 +84113,7 @@ sabres
 sabring
 sacahuiste
 sacahuistes
+sacaton
 sacatons
 sacbuts
 saccade
@@ -84475,6 +84502,7 @@ salvages
 salvaging
 salvation
 salvational
+salvationist
 salvations
 salve
 salved
@@ -98232,6 +98260,7 @@ thinkingnesses
 thinks
 thinly
 thinned
+thinner
 thinners
 thinness
 thinnesses
@@ -99444,6 +99473,7 @@ toro
 toroid
 toroidal
 toroidally
+toros
 torosity
 toroth
 torous
@@ -99540,6 +99570,7 @@ totally
 totaquines
 toted
 totem
+totemism
 totemisms
 totemist
 totemites
@@ -102114,6 +102145,7 @@ unallowed
 unalterability
 unalterable
 unalterably
+unamassed
 unambiguous
 unambitious
 unambivalently
@@ -103541,6 +103573,7 @@ unlashed
 unlashes
 unlashing
 unlatch
+unlatched
 unlatching
 unlawfulnesses
 unlay
@@ -104902,6 +104935,7 @@ usage
 usages
 usaunces
 used
+useful
 usefulness
 usefulnesses
 user
@@ -109069,6 +109103,7 @@ wretch
 wretcheder
 wretchedest
 wretchedness
+wretches
 wricked
 wried
 wrier
