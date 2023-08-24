@@ -925,6 +925,7 @@ adjurors
 adjustable
 adjusted
 adjustive
+adjustment
 adjustmental
 adjustors
 adjusts
@@ -7128,6 +7129,7 @@ banns
 banqueted
 banqueters
 banquette
+banquettes
 banshie
 bantam
 bantams
@@ -9029,6 +9031,7 @@ billboarded
 billboarding
 billbug
 billbugs
+biller
 billers
 billet
 billeted
@@ -13749,6 +13752,7 @@ carbonizations
 carbonize
 carbonized
 carbonnade
+carbonous
 carbons
 carbonylations
 carbonylic
@@ -15936,6 +15940,7 @@ chivaried
 chivariing
 chivied
 chivies
+chivvied
 chivvy
 chivy
 chivying
@@ -19937,6 +19942,7 @@ conveniences
 conveniency
 convenient
 convening
+convenor
 convent
 conventicle
 conventicler
@@ -20134,6 +20140,7 @@ copals
 coparcenaries
 coparcenary
 coparent
+coparenting
 coparents
 copartner
 copartnering
@@ -21416,6 +21423,7 @@ craunching
 cravat
 cravats
 craved
+craven
 cravened
 cravening
 cravenness
@@ -31393,6 +31401,7 @@ entamebae
 entamebas
 entamoeba
 entamoebas
+entangle
 entangler
 entangles
 entasia
@@ -33644,6 +33653,7 @@ extinguisher
 extinguishing
 extinguishment
 extirpate
+extirpated
 extirpation
 extirpations
 extirpators
@@ -34524,6 +34534,7 @@ fearsomeness
 feasance
 feasances
 feased
+feasibly
 feasing
 feast
 feasted
@@ -34549,6 +34560,7 @@ featherweights
 featly
 feats
 featured
+features
 feaze
 feazes
 feazing
@@ -41499,6 +41511,7 @@ gruelling
 gruellings
 gruels
 grues
+gruesome
 gruesomeness
 gruesomenesses
 gruesomer
@@ -44986,6 +44999,7 @@ hosanna
 hosannaed
 hosannah
 hosannahs
+hosannas
 hose
 hosed
 hoselike
@@ -51205,6 +51219,7 @@ kalian
 kalifate
 kalifates
 kalimbas
+kaliphates
 kaliphs
 kalium
 kaliums
@@ -55656,6 +55671,7 @@ mack
 mackerel
 mackintoshes
 mackle
+mackled
 macle
 macled
 macles
@@ -58628,6 +58644,7 @@ millboards
 millcakes
 milldam
 milldams
+milled
 millefiori
 millefioris
 millefleur
@@ -68311,6 +68328,7 @@ pacification
 pacificator
 pacificators
 pacificism
+pacificisms
 pacificist
 pacificists
 pacified
@@ -75934,6 +75952,7 @@ proclaimed
 proclaimer
 proclaimers
 proclamation
+proclivity
 proconsul
 proconsular
 proconsulates
@@ -76051,6 +76070,7 @@ profitabilities
 profitable
 profitableness
 profitably
+profited
 profiteer
 profiteered
 profiteering
@@ -77268,6 +77288,7 @@ punties
 puntos
 punts
 punty
+pup
 pupa
 pupae
 pupal
@@ -77728,6 +77749,7 @@ quadrantes
 quadrants
 quadraphonic
 quadraphonics
+quadrat
 quadrate
 quadrates
 quadratic
@@ -78185,6 +78207,7 @@ quodlibets
 quods
 quohogs
 quoining
+quoit
 quoiting
 quoits
 quokka
@@ -79039,6 +79062,7 @@ reaccused
 reaccusing
 reach
 reachable
+reacher
 reachers
 reaches
 reacquaint
@@ -80768,6 +80792,7 @@ regressing
 regressive
 regressiveness
 regressor
+regressors
 regret
 regretfulness
 regretfulnesses
@@ -80811,6 +80836,7 @@ regurgitated
 regurgitating
 rehab
 rehabbed
+rehabber
 rehabilitant
 rehabilitants
 rehabilitates
@@ -83670,6 +83696,7 @@ rinsable
 rinse
 rinses
 rinsing
+riojas
 rioting
 riotously
 riotousness
@@ -88575,6 +88602,7 @@ shopboys
 shophar
 shophars
 shophroth
+shopkeeper
 shopkeepers
 shoplift
 shoplifted
@@ -89514,6 +89542,7 @@ skean
 skeane
 skeanes
 skeans
+skedaddler
 skedaddlers
 skedaddles
 skedaddling
@@ -98700,6 +98729,7 @@ thalidomide
 thalidomides
 thallic
 thallious
+thallium
 thallophyte
 thallophytes
 thallophytic
@@ -98736,6 +98766,7 @@ thataway
 thatch
 thatcher
 thatchers
+thatchier
 thatchiest
 thatching
 thaumaturge
@@ -98875,6 +98906,7 @@ thermionic
 thermionics
 thermistor
 thermit
+thermite
 thermites
 thermits
 thermochemical
@@ -106578,6 +106610,7 @@ veritableness
 veritablenesses
 verite
 verity
+verjuice
 verjuices
 vermeil
 vermeils
@@ -108125,6 +108158,7 @@ watchmen
 watchouts
 watchtowers
 watchword
+watchwords
 water
 waterages
 waterbeds
@@ -110712,6 +110746,7 @@ zircaloy
 zircaloys
 zirconias
 zirconium
+zit
 zitherist
 zitherists
 zithern
