@@ -1621,6 +1621,7 @@ agone
 agones
 agonic
 agonise
+agonises
 agonising
 agonist
 agonistes
@@ -9561,6 +9562,7 @@ blacksmithing
 blacksmithings
 blacksmiths
 blacksnakes
+blacktail
 blacktails
 blackthorn
 blacktop
@@ -9839,6 +9841,7 @@ bloats
 blob
 blobbing
 block
+blockable
 blockade
 blockades
 blockading
@@ -9983,6 +9986,7 @@ blubberer
 blubberers
 blubbering
 blubbers
+blubbing
 bluchers
 bludge
 bludgeon
@@ -16760,6 +16764,7 @@ clarionets
 clarioning
 clarions
 clarities
+clarity
 clarkia
 clarkias
 claros
@@ -17611,6 +17616,7 @@ codex
 codfish
 codgers
 codices
+codicils
 codicology
 codifiabilities
 codifiability
@@ -25049,6 +25055,7 @@ deputizes
 deracinate
 deracinated
 deracinating
+deraign
 deraigned
 deraigning
 derailing
@@ -29559,6 +29566,7 @@ ecologic
 ecological
 ecologically
 ecologist
+ecologists
 ecology
 econoboxes
 econometrically
@@ -29828,6 +29836,7 @@ eggar
 eggars
 eggcups
 egger
+eggers
 eggheaded
 eggheadedness
 eggless
@@ -30843,6 +30852,7 @@ endocarps
 endocast
 endochondral
 endocrines
+endocrinologies
 endocytotic
 endoderm
 endoderms
@@ -35177,6 +35187,7 @@ filmy
 filo
 filoplume
 filoplumes
+filopodia
 filopodium
 filos
 filovirus
@@ -37672,6 +37683,7 @@ frowns
 frows
 frowsier
 frowsiest
+frowstier
 frowsting
 frowsty
 frowsy
@@ -39804,6 +39816,7 @@ gleeked
 gleeks
 gleemen
 gleesome
+gleet
 gleetier
 gleetiest
 gleeting
@@ -42526,6 +42539,7 @@ hardiments
 hardiness
 hardinesses
 hardinggrass
+hardline
 hardly
 hardmouthed
 hardnose
@@ -43327,6 +43341,7 @@ hematite
 hematitic
 hematocrit
 hematogenous
+hematologic
 hematologist
 hematology
 hematomas
@@ -45179,6 +45194,7 @@ humified
 humiliate
 humiliated
 humiliates
+humiliating
 humiliation
 humiliations
 humility
@@ -45433,6 +45449,7 @@ hydrokinetic
 hydrologic
 hydrological
 hydrologists
+hydrology
 hydrolysate
 hydrolysates
 hydrolyte
@@ -45839,6 +45856,7 @@ hypostatizes
 hypostatizing
 hypostome
 hypostomes
+hypostyle
 hypotactic
 hypotensions
 hypotensive
@@ -60067,6 +60085,7 @@ monographing
 monographs
 monogynous
 monogyny
+monohull
 monohybrid
 monohybrids
 monohydroxy
@@ -61420,6 +61439,7 @@ mycobacterium
 mycoflorae
 mycologic
 mycologies
+mycologist
 mycologists
 mycophagist
 mycophagists
@@ -67679,6 +67699,7 @@ overspends
 overspice
 overspiced
 overspill
+overspilled
 overspills
 overspilt
 overspins
@@ -69247,6 +69268,7 @@ passaging
 passalong
 passband
 passbook
+passbooks
 passe
 passed
 passee
@@ -78747,6 +78769,7 @@ razorbills
 razoring
 razz
 razzamatazz
+razzberries
 razzberry
 razzed
 razzing
@@ -83159,6 +83182,7 @@ richly
 richnesses
 richweed
 ricin
+ricins
 ricinuses
 rick
 ricketier
@@ -88340,6 +88364,7 @@ shortstop
 shortstops
 shortwaved
 shorty
+shot
 shotgunned
 shotgunning
 shotguns
@@ -88666,6 +88691,7 @@ sidestepped
 sidesteppers
 sidestepping
 sidesteps
+sidestroke
 sidestrokes
 sideswipe
 sideswiping
@@ -89389,6 +89415,7 @@ skivvies
 skivvy
 skiwear
 sklent
+sklented
 sklenting
 sklents
 skoal
@@ -96249,6 +96276,7 @@ swipples
 swirl
 swirled
 swirlingly
+swirly
 swish
 swisher
 swishers
@@ -99370,6 +99398,7 @@ tirled
 tirls
 tiro
 tirrivee
+tis
 tisane
 tisanes
 tissual
@@ -103849,6 +103878,7 @@ uninfected
 uninflected
 uninformative
 uningratiating
+uninhabitable
 uninhibited
 uninhibitedly
 uninitiate
@@ -105377,6 +105407,7 @@ usefulnesses
 user
 username
 usernames
+users
 ushered
 usherette
 usneas
@@ -105849,6 +105880,7 @@ vastier
 vastitudes
 vastity
 vastly
+vastness
 vastnesses
 vasty
 vat
@@ -106544,6 +106576,7 @@ vigintillion
 vignerons
 vignette
 vignetted
+vignetter
 vignetters
 vignettes
 vignetting
@@ -106619,6 +106652,7 @@ vindicates
 vindicating
 vindication
 vindications
+vindicative
 vindicator
 vindicatory
 vindictive
@@ -106657,6 +106691,7 @@ vintagers
 vintners
 vinylic
 vinylidenes
+viola
 violable
 violableness
 violaceous
