@@ -2219,6 +2219,7 @@ allobars
 allocable
 allocatable
 allocate
+allocated
 allocates
 allocating
 allocation
@@ -3854,6 +3855,7 @@ antinucleon
 antinucleons
 antinuke
 antinuker
+antinukers
 antinukes
 antiobscenity
 antioxidant
@@ -6985,6 +6987,7 @@ bandana
 bandanna
 bandannas
 bandbox
+bandboxes
 bandeau
 banded
 banderillas
@@ -10762,6 +10765,7 @@ bottoms
 botts
 botulin
 botulinal
+botulins
 botulinuses
 boubou
 boucles
@@ -13031,6 +13035,7 @@ calvarian
 calvarias
 calvary
 calve
+calved
 calves
 calvities
 calx
@@ -16403,6 +16408,7 @@ circadian
 circinate
 circle
 circled
+circlers
 circlets
 circling
 circuit
@@ -18850,6 +18856,7 @@ concerns
 concert
 concertednesses
 concertgoer
+concertgoers
 concertino
 concertinos
 concertize
@@ -20303,6 +20310,7 @@ cornet
 cornetcies
 cornetcy
 cornetist
+cornetists
 cornettist
 cornettists
 cornfield
@@ -22435,6 +22443,7 @@ cursory
 curst
 curt
 curtail
+curtailed
 curtailers
 curtailment
 curtailments
@@ -26108,6 +26117,7 @@ dignifying
 dignitaries
 dignitary
 dignities
+digraphic
 digraphically
 digraphs
 digressing
@@ -34919,6 +34929,7 @@ fiddlehead
 fiddleheads
 fiddler
 fiddlestick
+fiddling
 fideism
 fideisms
 fideist
@@ -34933,6 +34944,7 @@ fidgeted
 fidgeter
 fidgeters
 fidgetiness
+fidgets
 fidgety
 fiducially
 fiduciaries
@@ -35784,6 +35796,7 @@ flemishes
 flemishing
 flench
 flenching
+flense
 flenser
 flensing
 flesh
@@ -45313,6 +45326,7 @@ hydrocephaluses
 hydrochloride
 hydrocolloid
 hydrocolloids
+hydrocrack
 hydrocracked
 hydrocracker
 hydrocrackings
@@ -47738,6 +47752,7 @@ infielder
 infielders
 infields
 infighters
+infighting
 infightings
 infights
 infill
@@ -50593,6 +50608,7 @@ journaleses
 journaling
 journalism
 journalist
+journalistic
 journalize
 journalized
 journalizer
@@ -53124,6 +53140,7 @@ legerity
 legers
 leges
 legged
+leggier
 leggiest
 legginess
 legging
@@ -58674,6 +58691,7 @@ misadvising
 misagent
 misagents
 misaimed
+misaiming
 misalign
 misaligned
 misalignment
@@ -65731,6 +65749,7 @@ osteologist
 osteologists
 osteoma
 osteomalacia
+osteomata
 osteomyelitis
 osteomyelitises
 osteopath
@@ -65781,6 +65800,7 @@ otiose
 otiosely
 otioseness
 otiosities
+otitides
 otitis
 otitises
 otocystic
@@ -66011,6 +66031,7 @@ outdesigned
 outdistanced
 outdistances
 outdistancing
+outdo
 outdodge
 outdodged
 outdodges
@@ -71199,6 +71220,7 @@ photoinduced
 photoinduction
 photoinductions
 photoionization
+photoionizes
 photoionizing
 photojournalism
 photojournalist
@@ -74650,6 +74672,7 @@ prelegal
 prelibation
 prelibations
 prelim
+preliminaries
 prelimit
 prelimiting
 preliterate
@@ -77260,6 +77283,7 @@ pyroninophilic
 pyrope
 pyrophoric
 pyrophosphate
+pyrophosphates
 pyrosises
 pyrostat
 pyrostats
@@ -79107,6 +79131,7 @@ rechanges
 rechanneled
 rechanneling
 rechannelling
+recharge
 rechargeable
 recharged
 recharger
@@ -79880,6 +79905,7 @@ reemploys
 reenact
 reenacting
 reenactments
+reencountering
 reencounters
 reendow
 reendowed
@@ -85044,6 +85070,7 @@ sarsars
 sarsen
 sarsenet
 sarsenets
+sarsens
 sartor
 sartorial
 sartors
@@ -91017,6 +91044,7 @@ sourly
 sournesses
 sourpuss
 sourpusses
+sours
 sourwood
 sourwoods
 sousaphones
@@ -93647,6 +93675,7 @@ stricture
 strictures
 stridden
 stride
+stridences
 strider
 striders
 stridor
@@ -94949,6 +94978,7 @@ sulphite
 sulphites
 sulphones
 sulphur
+sulphureous
 sulphuring
 sulphurise
 sulphurised
@@ -98023,6 +98053,7 @@ testable
 testaceans
 testaceous
 testacies
+testacy
 testae
 testament
 testamentary
@@ -99063,6 +99094,7 @@ timpanums
 tinamou
 tinamous
 tincal
+tincals
 tinct
 tincted
 tincting
@@ -102809,6 +102841,7 @@ uncontemplated
 uncontemporary
 uncontested
 uncontradicted
+uncontrollable
 uncontrollably
 uncontroversial
 unconventional
@@ -103599,6 +103632,7 @@ unhydrolyzed
 unhygienic
 unhyphenated
 unhysterically
+unialgal
 uniaxial
 unibody
 unicameral
@@ -104175,6 +104209,7 @@ unrepresented
 unrepressed
 unrequited
 unreserve
+unreserved
 unresistant
 unresolvable
 unresponsive
