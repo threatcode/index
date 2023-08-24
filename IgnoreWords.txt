@@ -2826,6 +2826,7 @@ amphibolites
 amphibologies
 amphibrach
 amphibrachic
+amphibrachs
 amphictyonic
 amphictyonies
 amphictyony
@@ -5674,6 +5675,7 @@ atomicities
 atomies
 atomisers
 atomising
+atomism
 atomisms
 atomist
 atomistic
@@ -6038,6 +6040,7 @@ autochthon
 autochthones
 autochthonous
 autochthonously
+autoclaving
 autocoid
 autocoids
 autocrat
@@ -7091,6 +7094,7 @@ bannisters
 bannock
 bannocks
 banns
+banqueted
 banqueters
 banquette
 banshie
@@ -12033,6 +12037,7 @@ bullied
 bullier
 bulling
 bullion
+bullish
 bullishly
 bullishness
 bullishnesses
@@ -14744,6 +14749,7 @@ centriole
 centrioles
 centripetal
 centripetally
+centrism
 centrisms
 centrist
 centrists
@@ -16689,6 +16695,7 @@ clangers
 clanging
 clangor
 clangoring
+clangorously
 clangors
 clangoured
 clangours
@@ -17312,6 +17319,7 @@ coappears
 coapt
 coaptation
 coaptations
+coarctate
 coarctation
 coarctations
 coarse
@@ -17670,6 +17678,7 @@ coerces
 coercible
 coercibly
 coercing
+coercion
 coercions
 coercivities
 coerecting
@@ -25001,6 +25010,7 @@ deputized
 deputizes
 deracinate
 deracinated
+deracinating
 deraigned
 deraigning
 derailing
@@ -28212,6 +28222,7 @@ dovetail
 dovetailed
 dovetailing
 dovetails
+dovish
 dovishness
 dow
 dowable
@@ -29538,6 +29549,7 @@ ecoterrorism
 ecoterrorisms
 ecoterrorist
 ecotone
+ecotourism
 ecotourisms
 ecotourists
 ecotours
@@ -30676,6 +30688,7 @@ encompassed
 encompasses
 encompassment
 encompassments
+encores
 encoring
 encountered
 encountering
@@ -38951,6 +38964,7 @@ generalizations
 generalize
 generalized
 generalizer
+generalizers
 generalizes
 generalizing
 generally
@@ -41754,6 +41768,7 @@ gypsyism
 gypsyisms
 gyrally
 gyrate
+gyrated
 gyrating
 gyrational
 gyrator
@@ -44431,6 +44446,7 @@ homospories
 homostylies
 homotaxes
 homothallic
+homothallisms
 homotransplants
 homozygoses
 homozygosis
@@ -49540,6 +49556,7 @@ irenic
 irenical
 irenics
 irides
+iridescence
 iridescences
 iridium
 iridologies
@@ -52344,6 +52361,7 @@ lamming
 lamp
 lampblack
 lampblacks
+lamped
 lampers
 lamperses
 lamping
@@ -65832,6 +65850,7 @@ ouch
 ouching
 oud
 ouds
+ought
 oughted
 oughting
 ouguiyas
@@ -72734,6 +72753,7 @@ plumosities
 plumped
 plumpen
 plumpened
+plumpening
 plumper
 plumping
 plumpish
@@ -74912,6 +74932,7 @@ prerinse
 prerinsed
 prerinsing
 preriot
+prerock
 prerogatived
 presa
 presaged
@@ -77469,6 +77490,7 @@ quantized
 quantizer
 quantizers
 quantizes
+quantizing
 quantong
 quantum
 quarantine
@@ -78893,6 +78915,7 @@ reassorts
 reassumed
 reassumes
 reassuming
+reassurance
 reassurances
 reassure
 reassured
@@ -79153,6 +79176,7 @@ rechoosing
 rechoreographs
 rechose
 rechosen
+rechromatograph
 recidivisms
 recidivist
 recidivistic
@@ -80521,6 +80545,7 @@ reimportation
 reimported
 reimports
 reimposed
+reimposes
 reimpositions
 reimpression
 reincarnate
@@ -84059,6 +84084,7 @@ rudimentarily
 rudimentariness
 rudimentary
 rudiments
+rueful
 ruefully
 ruefulness
 ruefulnesses
@@ -87852,6 +87878,7 @@ shes
 shetland
 shetlands
 sheuch
+sheugh
 shewbreads
 shewed
 shewer
@@ -90106,6 +90133,7 @@ snawing
 snazzier
 snazziest
 sneak
+sneaked
 sneaker
 sneakered
 sneakers
@@ -90421,6 +90449,7 @@ socialising
 socialisms
 socialist
 socialistic
+socialistically
 socialists
 socialite
 socialities
@@ -91872,6 +91901,7 @@ sponge
 sponges
 spongeware
 spongewares
+spongier
 spongily
 sponginess
 sponginesses
@@ -92720,6 +92750,7 @@ staumrels
 staunched
 staunchest
 staunching
+staunchness
 staurolite
 staurolitic
 staved
@@ -92886,6 +92917,7 @@ stenographies
 stenography
 stenokous
 stenos
+stenosed
 stenosis
 stenotherm
 stenotherms
@@ -96390,8 +96422,10 @@ syncretic
 syncretise
 syncretised
 syncretises
+syncretist
 syncretistic
 syncretists
+syncretize
 syncretizes
 syncretizing
 syncytia
@@ -96587,6 +96621,7 @@ tabooleys
 taboos
 tabored
 taborets
+taborines
 taborins
 taboulehs
 tabouli
