@@ -4173,6 +4173,7 @@ aphaereses
 aphaeretic
 aphagias
 aphanite
+aphanites
 aphasia
 aphasiac
 aphasias
@@ -18229,6 +18230,7 @@ colophonies
 colophons
 colophony
 color
+colorable
 colorably
 colorado
 colorant
@@ -23762,6 +23764,7 @@ decidable
 decide
 decided
 decidedly
+decider
 decides
 decidua
 deciduae
@@ -27436,6 +27439,7 @@ dissimulator
 dissimulators
 dissipate
 dissipated
+dissipatedly
 dissipatedness
 dissipater
 dissipaters
@@ -33800,6 +33804,7 @@ eyewitnesses
 eying
 eyne
 eyre
+eyres
 eyrie
 eyries
 eyrir
@@ -35377,6 +35382,7 @@ finlike
 finmark
 finnickier
 finnickiest
+finnier
 finniest
 finning
 finnmark
@@ -37662,6 +37668,7 @@ frogged
 froggier
 froggiest
 frogging
+froggy
 froghoppers
 froglets
 froglike
@@ -46136,6 +46143,7 @@ ideologizes
 ideologizing
 ideologue
 ideologues
+ideomotor
 ideophones
 ides
 idioblast
@@ -49728,6 +49736,7 @@ ireless
 irenic
 irenical
 irenics
+irid
 irides
 iridescence
 iridescences
@@ -50660,6 +50669,7 @@ jnanas
 jo
 job
 jobber
+jobberies
 jobbers
 jobbery
 jobholder
@@ -51893,6 +51903,7 @@ knars
 knave
 knavishly
 knawel
+knead
 kneader
 kneaders
 kneads
@@ -53078,6 +53089,7 @@ lazarettes
 lazaretto
 lazars
 laze
+lazed
 lazes
 lazied
 lazier
@@ -57459,6 +57471,7 @@ memes
 memetics
 memo
 memoir
+memoirists
 memoirs
 memorable
 memorablenesses
@@ -59188,6 +59201,7 @@ misenrolls
 misenrols
 misenters
 miser
+miserable
 miserableness
 miserablenesses
 miserere
@@ -59301,6 +59315,7 @@ misjoin
 misjoinders
 misjudging
 misjudgment
+miskals
 miskeep
 miskick
 misknew
@@ -59754,6 +59769,7 @@ moats
 mobbed
 mobber
 mobbers
+mobbing
 mobbishly
 mobbism
 mobcap
@@ -61872,6 +61888,7 @@ naprapathy
 naproxen
 naproxens
 naps
+narcein
 narceine
 narcism
 narcissism
@@ -62104,6 +62121,7 @@ nearshore
 nearside
 neaten
 neatening
+neatens
 neater
 neath
 neatherds
@@ -62587,6 +62605,7 @@ neutralize
 neutralized
 neutralizer
 neutralizing
+neutralnesses
 neutrals
 neutrino
 neutrinoless
@@ -62881,6 +62900,7 @@ ninons
 ninth
 niobic
 niobite
+niobites
 niobium
 niobiums
 niobous
@@ -64110,6 +64130,7 @@ notebook
 notebooks
 notecards
 notecase
+notedly
 notepad
 noter
 noters
@@ -66127,6 +66148,7 @@ outbackers
 outbacks
 outbaked
 outbakes
+outbalance
 outbalancing
 outbargaining
 outbargains
@@ -79416,6 +79438,7 @@ recessionals
 recessionary
 recessions
 recessively
+recessiveness
 recessivenesses
 rechallenge
 rechallenged
@@ -79799,6 +79822,7 @@ rectories
 rectors
 rectorships
 rectory
+rectos
 rectrix
 rectums
 rectus
@@ -83057,6 +83081,7 @@ revue
 revues
 revuists
 revulsed
+revulsion
 revulsions
 revulsive
 revving
@@ -84108,6 +84133,7 @@ rotos
 rototill
 rototillers
 rotted
+rotten
 rottener
 rottenest
 rottenly
@@ -84507,6 +84533,7 @@ running
 runoff
 runoffs
 runout
+runouts
 runovers
 runs
 runt
@@ -84733,6 +84760,7 @@ saddlebred
 saddlebreds
 saddlecloth
 saddlecloths
+saddler
 saddleries
 saddlers
 saddlery
@@ -87122,6 +87150,7 @@ semihobos
 semilegendary
 semilethal
 semilethals
+semiliquid
 semillon
 semillons
 semilog
@@ -88447,6 +88476,7 @@ shone
 shoo
 shooed
 shooflies
+shooing
 shooks
 shool
 shooled
@@ -91681,6 +91711,7 @@ speciates
 speciation
 specie
 species
+specifically
 specifications
 specified
 specifier
@@ -93065,6 +93096,7 @@ statoliths
 stator
 stators
 stats
+statuaries
 statuary
 statue
 statues
@@ -93280,6 +93312,7 @@ stercoraceous
 sterculia
 stere
 stereo
+stereochemical
 stereochemistry
 stereogram
 stereograms
@@ -98710,6 +98743,7 @@ theorize
 theorized
 theosophically
 theosophies
+theosophy
 therapeuses
 therapeutic
 therapies
@@ -104993,6 +105027,7 @@ untidy
 untidying
 untie
 untied
+untieing
 unties
 until
 untillable
