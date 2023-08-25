@@ -2016,6 +2016,7 @@ algal
 algarrobas
 algarrobo
 algebra
+algebraically
 algebraists
 algebras
 algicidal
@@ -7357,6 +7358,7 @@ barrelled
 barrelling
 barrels
 barren
+barrenly
 barrenness
 barres
 barret
@@ -11430,6 +11432,7 @@ briarwoods
 bribable
 bribed
 bribee
+bribers
 bribery
 bribes
 bribing
@@ -12904,6 +12907,7 @@ calaboose
 caladium
 caladiums
 calamander
+calamari
 calamaries
 calamaris
 calamary
@@ -15581,6 +15585,7 @@ chelatable
 chelated
 chelates
 chelating
+chelation
 chelations
 chelators
 chelicera
@@ -18666,6 +18671,7 @@ compactly
 compactness
 compactor
 compactors
+compacts
 companied
 companies
 companionate
@@ -19501,6 +19507,7 @@ conns
 connubial
 connubialism
 connubialisms
+connubialities
 connubiality
 connubially
 conodont
@@ -23797,6 +23804,7 @@ decennium
 decenniums
 decenter
 decentering
+decenters
 decentest
 decently
 decentralize
@@ -28680,6 +28688,7 @@ drawstrings
 drawtube
 drawtubes
 dray
+drayage
 drayages
 draying
 draymen
@@ -35591,6 +35600,7 @@ firms
 firmwares
 firn
 firns
+firriest
 firs
 first
 firstborns
@@ -40582,6 +40592,7 @@ goodmen
 goodness
 goods
 goodwife
+goodwill
 goodwives
 goody
 gooeyness
@@ -44081,7 +44092,9 @@ hieroglyphic
 hieroglyphical
 hieroglyphics
 hieroglyphs
+hierologies
 hierology
+hierophant
 hierophantic
 hierophants
 hierurgies
@@ -47362,6 +47375,7 @@ inchoateness
 inchoative
 inchoatives
 inchworm
+incidences
 incidental
 incidentally
 incidents
@@ -47985,6 +47999,7 @@ inexpedience
 inexpediency
 inexpediently
 inexpensive
+inexpensively
 inexpensiveness
 inexperiences
 inexpert
@@ -55032,6 +55047,7 @@ looies
 looing
 look
 lookalike
+lookdown
 lookdowns
 looked
 looker
@@ -55997,6 +56013,7 @@ mahzors
 maiasaur
 maiden
 maidenheads
+maidenly
 maidish
 maids
 maidservants
@@ -58356,6 +58373,7 @@ microcap
 microcapsules
 microcassette
 microcassettes
+microcephalic
 microcephalies
 microclimate
 microcline
@@ -61361,6 +61379,7 @@ multiplies
 multipolarities
 multipolarity
 multipole
+multipoles
 multipower
 multiproblem
 multiprocessor
@@ -62593,6 +62612,7 @@ nephropathies
 nephropathy
 nephrostome
 nephrotic
+nephrotics
 nephrotoxic
 nephrotoxicity
 nepotism
@@ -75251,6 +75271,7 @@ premixt
 premodern
 premodifies
 premodify
+premoisten
 premoistened
 premoistens
 premolar
@@ -77140,6 +77161,7 @@ pubescent
 pubis
 public
 publically
+publican
 publication
 publications
 publicised
@@ -81104,6 +81126,7 @@ reinfestation
 reinfestations
 reinflame
 reinflames
+reinflaming
 reinflates
 reinflating
 reinflations
@@ -81393,6 +81416,7 @@ relinked
 relinking
 relinks
 relinquish
+relinquishing
 relinquishment
 relique
 reliquefies
@@ -84922,6 +84946,7 @@ sabras
 sabred
 sabres
 sabring
+sac
 sacahuiste
 sacahuistes
 sacaton
@@ -85491,6 +85516,7 @@ sanitariums
 sanitated
 sanitating
 sanitation
+sanitations
 sanitised
 sanitises
 sanitizations
@@ -96831,6 +96857,7 @@ swooning
 swooningly
 swoons
 swoony
+swoop
 swooped
 swooper
 swoopers
@@ -99220,6 +99247,7 @@ thiocyanates
 thiol
 thiols
 thionate
+thionic
 thionin
 thionine
 thionines
@@ -100750,6 +100778,7 @@ trackmen
 trackpad
 tracks
 trackside
+trackwalkers
 trackway
 trackways
 tract
@@ -101310,6 +101339,7 @@ trehalas
 trehalose
 trehaloses
 treillages
+trek
 trekker
 trekking
 treks
@@ -103349,6 +103379,7 @@ uncanonical
 uncap
 uncapable
 uncapped
+uncapping
 uncaptioned
 uncapturable
 uncarpeted
@@ -103408,6 +103439,7 @@ unchewable
 unchic
 unchildlike
 unchilled
+unchivalrous
 unchivalrously
 unchlorinated
 unchoke
@@ -105101,6 +105133,7 @@ unshamed
 unshaped
 unshared
 unsharp
+unshaven
 unsheathe
 unsheathes
 unshell
@@ -106089,6 +106122,7 @@ vagrant
 vagrantly
 vagrants
 vagrom
+vaguely
 vagueness
 vaguer
 vagus
@@ -110059,6 +110093,7 @@ worthiness
 worthinesses
 worthing
 worthlessly
+worthlessnesses
 worths
 worthwhileness
 worthy
