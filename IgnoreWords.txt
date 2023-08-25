@@ -4995,6 +4995,7 @@ arpent
 arpents
 arquebus
 arquebuses
+arrack
 arracks
 arraigned
 arraigner
@@ -7574,6 +7575,7 @@ batteaux
 battement
 battements
 batten
+battened
 battener
 battens
 batter
@@ -7893,6 +7895,7 @@ bedesman
 bedevil
 bedeviled
 bedevilled
+bedevilling
 bedevilments
 bedew
 bedewed
@@ -16306,6 +16309,7 @@ chuff
 chuffest
 chuffs
 chug
+chugalugged
 chugalugging
 chugalugs
 chugger
@@ -27257,6 +27261,7 @@ dispersals
 dispersants
 dispersed
 dispersedly
+dispersers
 disperses
 dispersible
 dispersing
@@ -27712,6 +27717,7 @@ diversity
 diverted
 diverter
 diverters
+diverticula
 diverticulosis
 divertimenti
 divertimentos
@@ -28894,6 +28900,7 @@ druggists
 druggy
 drugmaker
 drugmakers
+drugs
 drugstore
 druid
 druidic
@@ -35050,6 +35057,7 @@ fibrillated
 fibrillating
 fibrillation
 fibrillations
+fibrils
 fibrin
 fibrinoid
 fibrinolyses
@@ -39811,6 +39819,7 @@ gladioluses
 gladlier
 gladliest
 gladness
+gladnesses
 glads
 gladsome
 gladsomely
@@ -40103,6 +40112,7 @@ glossarial
 glossarist
 glossarists
 glossary
+glossas
 glossator
 glossators
 glossed
@@ -42263,6 +42273,7 @@ halfbeak
 halfbeaks
 halfhearted
 halfheartedly
+halfheartedness
 halflives
 halfpence
 halfpennies
@@ -44899,6 +44910,7 @@ horned
 hornedness
 hornet
 hornets
+hornfels
 hornier
 horniest
 hornily
@@ -48938,6 +48950,7 @@ interfaculty
 interfaith
 interfamilial
 interfamily
+interference
 interferences
 interferential
 interferer
@@ -49472,6 +49485,7 @@ introspection
 introspections
 introspectively
 introverts
+intrude
 intruded
 intruders
 intrudes
@@ -54409,6 +54423,7 @@ listeria
 listerioses
 listeriosis
 listers
+listing
 listlessly
 listlessness
 listlessnesses
@@ -57024,7 +57039,9 @@ maudlin
 mauds
 mauger
 maul
+mauled
 mauler
+maulers
 maulsticks
 maumet
 maumetries
@@ -59488,6 +59505,7 @@ mispaged
 mispages
 mispaging
 mispaint
+mispainted
 mispaints
 misparsed
 misparses
@@ -61382,6 +61400,7 @@ mural
 muralist
 muralists
 muralled
+murals
 muras
 murder
 murdered
@@ -66256,6 +66275,7 @@ outblooming
 outblooms
 outbluff
 outbluffed
+outbluffing
 outbluffs
 outblushed
 outboard
@@ -67049,6 +67069,7 @@ outwhirls
 outwiling
 outwill
 outwilling
+outwills
 outwind
 outwinded
 outwinds
@@ -68336,6 +68357,7 @@ pacifier
 pacifism
 pacifist
 pacifistically
+pacifists
 pacify
 pacing
 packabilities
@@ -69510,6 +69532,7 @@ passee
 passel
 passementerie
 passenger
+passepieds
 passer
 passerine
 passerines
@@ -74850,6 +74873,7 @@ predominant
 predominates
 predominating
 predomination
+predominations
 predraft
 predried
 predrill
@@ -76222,6 +76246,7 @@ prologue
 prologued
 prologues
 prologuing
+prologuize
 prologuized
 prologuizes
 prologuizing
@@ -80732,6 +80757,7 @@ reginas
 regional
 regionalism
 regionalisms
+regionalist
 regionalists
 regionalized
 regionalizes
@@ -82646,6 +82672,7 @@ resurrectional
 resurrectionist
 resurrects
 resurveying
+resurveys
 resuscitated
 resuscitates
 resuscitating
@@ -84709,6 +84736,7 @@ rustless
 rustling
 rustproof
 rustproofed
+rustproofing
 rusty
 rut
 rutabaga
@@ -85204,6 +85232,7 @@ sambo
 sambos
 sambuca
 sambucas
+sambuke
 sambur
 samburs
 samech
@@ -85254,6 +85283,7 @@ sanction
 sanctionable
 sanctioning
 sanctions
+sanctuaries
 sanctuary
 sanctums
 sandable
@@ -85618,6 +85648,7 @@ saturniid
 saturniids
 saturnine
 saturnism
+saturnisms
 satyagraha
 satyriasis
 satyrical
@@ -87186,6 +87217,7 @@ semantic
 semantically
 semanticists
 semantics
+semaphore
 semaphored
 semaphoring
 semasiologies
@@ -91556,6 +91588,7 @@ southern
 southernmost
 southernnesses
 southernwood
+southernwoods
 southing
 southings
 southland
@@ -102976,6 +103009,7 @@ unanesthetized
 unanimity
 unanimous
 unanimously
+unannexed
 unannounced
 unannoyed
 unanswerability
@@ -107510,6 +107544,7 @@ voluted
 volutes
 volutin
 volutins
+volutions
 volva
 volvas
 volvox
