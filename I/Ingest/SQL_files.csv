@@ -1,0 +1,9 @@
+gdr-ingest/encode/explorer/db/changesets/01-init-tables.sql at ...,https://github.com/broadinstitute/gdr-ingest/blob/master/encode/explorer/db/changesets/01-init-tables.sql
+sfguide-twitter-auto-ingest/1_show_streaming_data.sql at main ...,https://github.com/Snowflake-Labs/sfguide-twitter-auto-ingest/blob/main/1_show_streaming_data.sql
+/ingest.sql - SITools2 - IDOC Redmine,https://idoc-projets.ias.u-psud.fr/redmine/projects/sitools2/repository/revisions/c516e8a4b1dbdeb810e50ee34a6d003cd65206a0/entry/ingest.sql
+/ingest.sql - Annotate - SITools2 - IDOC Redmine,https://idoc-projets.ias.u-psud.fr/redmine/projects/sitools2/repository/revisions/9791e4f396c8bd19e395947efa82d29913417afd/annotate/ingest.sql
+config/createDB.sql ... - gitlab,https://gitlab-ce.gwdg.de/dariah-de/kopal-library-of-retrieval-and-ingest/-/blob/b8831a33b889a7f26df913c76e72c770a0f8a8e6/config/createDB.sql
+config/clear_kolibriDbTest.sql ... - gitlab,https://gitlab-ce.gwdg.de/dariah-de/kopal-library-of-retrieval-and-ingest/-/blob/5563cc548eef7b10350352a4e9cd36cdf508796a/config/clear_kolibriDbTest.sql
+Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/bfceae7dfe2d8bb3dcd37e56b541a69b9a99738c/Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow-multiple-insert-streams.sql
+docker/single-process/init.sql · master · dul-its / DUL Huginn · GitLab,https://gitlab.oit.duke.edu/dul-its/dul-huginn/-/blob/master/docker/single-process/init.sql
+moodleinfo.sql - University of Malawi,http://cms.kcn.unima.mw:8002/moodle/downloads/moodleinfo.sql
