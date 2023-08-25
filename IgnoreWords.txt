@@ -2344,6 +2344,7 @@ almemar
 almes
 almightinesses
 almighty
+almners
 almond
 almoner
 almoners
@@ -6623,6 +6624,7 @@ backfilling
 backfire
 backfired
 backfires
+backfiring
 backfit
 backfitted
 backfitting
@@ -9957,6 +9959,7 @@ bloodlines
 bloodlust
 bloodlusts
 bloodmobile
+bloodred
 bloodroots
 bloods
 bloodshed
@@ -10881,6 +10884,7 @@ bougie
 bouillabaisse
 bouillabaisses
 bouillon
+boulder
 bouldered
 boulderer
 boulderers
@@ -11109,6 +11113,7 @@ brackishness
 brackishnesses
 braconid
 braconids
+bract
 bracteal
 bracted
 bracteoles
@@ -13122,6 +13127,7 @@ calomel
 calorically
 calorics
 calories
+calorimeter
 calorimeters
 calorimetric
 calorimetry
@@ -13213,6 +13219,7 @@ camions
 camisa
 camisade
 camisades
+camisado
 camisados
 camise
 camises
@@ -18246,6 +18253,7 @@ collogue
 collogued
 collogues
 colloguing
+colloid
 colloidal
 colloids
 collop
@@ -19043,6 +19051,7 @@ concert
 concertednesses
 concertgoer
 concertgoers
+concertgoing
 concertino
 concertinos
 concertize
@@ -25046,6 +25055,7 @@ deoxygenating
 deoxygenations
 depainted
 depainting
+depart
 departees
 departing
 department
@@ -27857,6 +27867,7 @@ divine
 divined
 diviners
 divines
+divining
 divinising
 divinize
 divinized
@@ -27946,6 +27957,7 @@ docilities
 docility
 dockage
 dockages
+docked
 docker
 dockers
 docketed
@@ -28054,6 +28066,7 @@ dogma
 dogmas
 dogmata
 dogmatical
+dogmatically
 dogmaticalness
 dogmatics
 dogmatism
@@ -29985,6 +29998,7 @@ effeminacy
 effendis
 efferents
 effervesce
+effervesced
 effervescences
 effervescent
 effervescently
@@ -30257,6 +30271,7 @@ electrolyzed
 electrolyzing
 electromagnet
 electrometer
+electrometers
 electromyogram
 electronic
 electronics
@@ -31394,6 +31409,7 @@ enological
 enologies
 enologists
 enols
+enophile
 enophiles
 enorm
 enormities
@@ -32771,6 +32787,7 @@ euphemise
 euphemism
 euphemisms
 euphemist
+euphemistic
 euphemistically
 euphemists
 euphemize
@@ -32901,6 +32918,7 @@ evasions
 evasive
 evasively
 evasivenesses
+evections
 even
 evened
 evener
@@ -37562,6 +37580,7 @@ franticnesses
 frapped
 frappes
 frapping
+frass
 frasses
 fraternal
 fraternalisms
@@ -49672,6 +49691,7 @@ intrinsical
 intrinsically
 intro
 introduce
+introduced
 introducers
 introductorily
 introfying
@@ -56941,6 +56961,7 @@ marrowfats
 marry
 marrying
 marsala
+marsalas
 marseille
 marseilles
 marses
@@ -57266,6 +57287,7 @@ mature
 maturer
 maturers
 maturest
+maturing
 maturities
 matutinally
 matza
@@ -59041,6 +59063,7 @@ minacious
 minacities
 minacity
 minae
+minaret
 minarets
 minas
 minatory
@@ -60790,6 +60813,7 @@ moose
 moosebird
 moosewood
 moot
+mooter
 mootnesses
 moots
 mopboard
@@ -64544,6 +64568,7 @@ nounally
 nounless
 nourished
 nourisher
+nourishes
 nourishing
 nourishment
 nourishments
@@ -68916,6 +68941,7 @@ palinode
 palisaded
 palisades
 palisading
+palish
 pall
 palladia
 palladium
@@ -72726,6 +72752,7 @@ pirojki
 piroplasm
 piroplasma
 piroplasmata
+piroplasms
 piroques
 pirouette
 pirouetted
@@ -85024,6 +85051,7 @@ runtier
 runtinesses
 runtishly
 runts
+runty
 runway
 runways
 rupee
@@ -88420,6 +88448,7 @@ shames
 shamisen
 shamisens
 shammed
+shammer
 shammers
 shammes
 shammied
@@ -94159,6 +94188,7 @@ stockpilers
 stockpot
 stockpots
 stockroom
+stockrooms
 stocktaking
 stocktakings
 stocky
@@ -94944,6 +94974,7 @@ suaver
 suavities
 sub
 subacid
+subacidness
 subacidnesses
 subacrid
 subadar
@@ -96992,6 +97023,7 @@ swig
 swigged
 swigging
 swill
+swilled
 swiller
 swillers
 swilling
@@ -99600,6 +99632,7 @@ thoughtfully
 thoughtless
 thoughtlessly
 thoughts
+thoughtway
 thouing
 thous
 thousand
@@ -108469,6 +108502,7 @@ warked
 warless
 warlike
 warlock
+warlocks
 warlordism
 warlordisms
 warm
@@ -111273,6 +111307,7 @@ zombifications
 zombified
 zombifies
 zombify
+zombiism
 zombiisms
 zona
 zonally
