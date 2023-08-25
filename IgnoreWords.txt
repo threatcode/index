@@ -2229,6 +2229,7 @@ allied
 allies
 alligator
 alligators
+alliterate
 alliterates
 alliterating
 alliteratively
@@ -4419,6 +4420,7 @@ appendicitises
 appendicular
 appending
 appendix
+appendixes
 appends
 apperceive
 apperceived
@@ -5242,6 +5244,7 @@ ascribed
 ascribes
 ascribing
 ascriptions
+ascriptive
 ascus
 asdic
 asdics
@@ -7469,6 +7472,7 @@ basilects
 basilicae
 basilical
 basilican
+basilisk
 basilisks
 basin
 basined
@@ -13203,6 +13207,7 @@ camel
 camelback
 cameleers
 camelhair
+camelhairs
 camelias
 camellia
 camellike
@@ -13820,6 +13825,7 @@ carbonizations
 carbonize
 carbonized
 carbonnade
+carbonnades
 carbonous
 carbons
 carbonylations
@@ -16762,6 +16768,7 @@ civilises
 civilities
 civilizations
 civilizers
+civilizes
 civilizing
 civilly
 civilness
@@ -24520,6 +24527,7 @@ deicides
 deicing
 deictics
 deifical
+deifications
 deifier
 deifiers
 deifies
@@ -36671,6 +36679,7 @@ focalize
 focalized
 focalizes
 focally
+focuser
 focusers
 focusless
 focusses
@@ -36857,6 +36866,7 @@ footfault
 footfaults
 foothill
 foothills
+foothold
 footholds
 footie
 footing
@@ -46542,6 +46552,7 @@ ignorantness
 ignorantnesses
 ignore
 ignoring
+iguana
 iguanian
 iguanians
 iguanid
@@ -48533,6 +48544,7 @@ initiatives
 initiatory
 injectables
 injected
+injecting
 injection
 injective
 injector
@@ -48805,6 +48817,7 @@ insipidities
 insipidity
 insipidly
 insisted
+insistence
 insistences
 insistency
 insistent
@@ -48883,6 +48896,7 @@ installs
 instals
 instance
 instances
+instancing
 instant
 instantaneity
 instantaneous
@@ -50853,6 +50867,7 @@ jesuitic
 jesuitical
 jesuitically
 jesuitisms
+jesuitry
 jesuits
 jet
 jetbead
@@ -58389,6 +58404,7 @@ methemoglobin
 methemoglobins
 methicillins
 methionine
+methionines
 methodic
 methodical
 methodically
@@ -60685,6 +60701,7 @@ monosaccharide
 monosaccharides
 monosome
 monosomic
+monostele
 monostely
 monostich
 monostichs
@@ -61716,6 +61733,7 @@ mure
 mured
 murein
 mures
+muriate
 muriates
 muricate
 muricated
@@ -65106,6 +65124,7 @@ obstinate
 obstinately
 obstinateness
 obstinatenesses
+obstreperously
 obstruct
 obstructed
 obstructionism
@@ -69919,6 +69938,7 @@ pasteurises
 pasteurising
 pasteurizations
 pasteurize
+pasteurizes
 pasteurizing
 pastiche
 pastiches
@@ -73127,6 +73147,7 @@ plastocyanins
 plastoquinone
 plastoquinones
 plastral
+plastrons
 plat
 platan
 platane
@@ -73437,6 +73458,7 @@ pluck
 plucked
 plucker
 pluckier
+pluckily
 pluckiness
 plucking
 plucks
@@ -73448,6 +73470,7 @@ plugless
 plugola
 pluguglies
 plugugly
+plum
 plumb
 plumbable
 plumbago
@@ -73847,6 +73870,7 @@ pollical
 pollices
 pollinate
 pollinated
+pollinating
 pollination
 pollinations
 pollinator
@@ -75175,6 +75199,7 @@ predesignate
 predesignated
 predesignates
 predesignating
+predestinarian
 predestinarians
 predestinate
 predestinated
@@ -78680,6 +78705,7 @@ racetrackers
 racetracks
 racewalk
 racewalked
+racewalker
 racewalkers
 racewalking
 racewalks
@@ -80221,6 +80247,7 @@ reconvicted
 reconvicting
 reconvictions
 reconvicts
+reconvinces
 reconvincing
 recook
 recooked
@@ -82909,6 +82936,7 @@ responsories
 responsory
 respool
 respooled
+respools
 respot
 respots
 resprang
@@ -87590,6 +87618,7 @@ selenological
 selenologist
 selenology
 selenoses
+selenous
 selfdom
 selfed
 selfheal
@@ -90729,6 +90758,7 @@ slummiest
 slummy
 slumpflations
 slumping
+slums
 slungshot
 slungshots
 slunk
@@ -96612,6 +96642,7 @@ suppressors
 suppurate
 suppurated
 suppurations
+suppurative
 supramolecular
 supraorbital
 suprarational
@@ -102684,6 +102715,7 @@ tunneler
 tunnelers
 tunneling
 tunnelings
+tunnelled
 tunneller
 tunnels
 tunny
@@ -106157,6 +106189,7 @@ upwelled
 upwelling
 upwellings
 upwind
+uracil
 uraei
 uraemia
 uraemias
@@ -109952,6 +109985,7 @@ wiretapper
 wiretappers
 wiretapping
 wiretaps
+wireway
 wireways
 wireworms
 wirier
@@ -110675,6 +110709,7 @@ xerographies
 xerography
 xerophilous
 xerophily
+xerophthalmia
 xerophthalmias
 xerophthalmic
 xerophyte
