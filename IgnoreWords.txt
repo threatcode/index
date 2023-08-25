@@ -707,6 +707,7 @@ actionable
 actionably
 actionless
 actions
+activate
 activated
 activating
 actively
@@ -1687,6 +1688,7 @@ agrimony
 agrochemical
 agrochemicals
 agroforester
+agroforesters
 agroforestries
 agrologic
 agrologies
@@ -2126,6 +2128,7 @@ alkalimeter
 alkalimeters
 alkalimetry
 alkaline
+alkalinities
 alkalinity
 alkalinization
 alkalinizes
@@ -4060,6 +4063,7 @@ antiterrorists
 antitheft
 antithesis
 antithetic
+antithetical
 antithetically
 antithrombins
 antithyroid
@@ -8198,6 +8202,7 @@ behinds
 behold
 beholder
 beholders
+beholding
 beholds
 behoove
 behooves
@@ -12795,6 +12800,7 @@ cachucha
 cachuchas
 caciquisms
 cackle
+cackled
 cacklers
 cacodemon
 cacodemonic
@@ -19017,6 +19023,7 @@ concealing
 concealments
 conceded
 concededly
+conceder
 conceders
 conceitedly
 conceitedness
@@ -23615,6 +23622,7 @@ deadliest
 deadlift
 deadlifted
 deadlight
+deadline
 deadlined
 deadliness
 deadlining
@@ -24112,6 +24120,7 @@ decreers
 decrement
 decremental
 decrepitate
+decrepitated
 decrepitating
 decrepitations
 decrepitude
@@ -32668,6 +32677,7 @@ ethnobotanies
 ethnobotanist
 ethnobotanists
 ethnobotany
+ethnocentric
 ethnocentrism
 ethnocentrisms
 ethnographer
@@ -36555,6 +36565,7 @@ fluorescer
 fluoresces
 fluoric
 fluoridate
+fluoridating
 fluoridation
 fluoridations
 fluorimeter
@@ -38038,6 +38049,7 @@ fructoses
 frugal
 frugality
 frugally
+frugivore
 frugivorous
 frugs
 fruit
@@ -40122,6 +40134,7 @@ glasswork
 glassworks
 glassworts
 glaucomas
+glauconite
 glauconites
 glauconitic
 glaucous
@@ -43585,6 +43598,7 @@ heirless
 heirlooms
 heirs
 heirship
+heirships
 heishi
 heisted
 heister
@@ -43677,6 +43691,7 @@ helmed
 helminth
 helminthiases
 helminthology
+helminths
 helmless
 helms
 helmsmanships
@@ -45525,6 +45540,7 @@ hulled
 huller
 hullo
 hulloa
+hulloaed
 hulloas
 hulloed
 hullooed
@@ -53911,6 +53927,7 @@ leprosariums
 leprosies
 leprously
 leptins
+leptocephali
 leptocephalus
 leptonic
 leptophos
@@ -56342,6 +56359,7 @@ maladies
 maladjusted
 maladjustive
 maladjustment
+maladminister
 maladministered
 maladministers
 maladroitly
@@ -56927,6 +56945,7 @@ marination
 marinations
 marine
 mariner
+marines
 marionette
 mariposa
 mariposas
@@ -60313,6 +60332,7 @@ modus
 mofette
 mofettes
 moffette
+mog
 mogged
 moggie
 moggies
@@ -63948,6 +63968,7 @@ nonfunded
 nongame
 nongay
 nongenetic
+nongenital
 nongeometrical
 nonghetto
 nonglamorous
@@ -65116,6 +65137,7 @@ observants
 observation
 observations
 observatory
+observers
 observes
 observing
 observingly
@@ -70991,6 +71013,7 @@ perfectiveness
 perfectives
 perfectivity
 perfectness
+perfectnesses
 perfecto
 perfects
 perfervid
@@ -72654,6 +72677,7 @@ pink
 pinken
 pinkening
 pinkeye
+pinkie
 pinkies
 pinkings
 pinkish
@@ -73077,6 +73101,7 @@ planetesimals
 planetoid
 planetoids
 planetological
+planetologist
 planetologists
 planetology
 planets
@@ -74464,6 +74489,7 @@ possible
 possibler
 possiblest
 possibly
+possum
 post
 postabortion
 postage
@@ -82594,6 +82620,7 @@ resaluted
 resaluting
 resamples
 resampling
+resat
 resaw
 resaws
 resaying
@@ -83095,6 +83122,7 @@ resumer
 resumers
 resuming
 resummon
+resummoning
 resummons
 resupinate
 resupine
@@ -84524,6 +84552,7 @@ romanticized
 romanticizes
 romanticizing
 romantics
+romeldale
 romeo
 romeos
 romped
@@ -86610,6 +86639,7 @@ schmoose
 schmoosed
 schmooses
 schmoosing
+schmooze
 schmoozed
 schmoozer
 schmoozers
@@ -96641,6 +96671,7 @@ suppliant
 suppliantly
 supplicant
 supplicated
+supplicating
 supplications
 supplicatory
 supplier
@@ -98440,6 +98471,7 @@ teased
 teasel
 teaseled
 teaseler
+teaseling
 teaselled
 teaselling
 teaser
@@ -99615,6 +99647,7 @@ thinner
 thinners
 thinness
 thinnesses
+thinnest
 thinning
 thinnish
 thiocyanate
@@ -100892,6 +100925,7 @@ tortile
 tortious
 tortoise
 tortoises
+tortoiseshells
 tortoni
 tortonis
 tortricid
@@ -106381,6 +106415,7 @@ users
 ushered
 usherette
 usneas
+usque
 usquebae
 usquebaes
 usquebaugh
