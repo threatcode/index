@@ -883,6 +883,7 @@ adhesiveness
 adhesivenesses
 adhibit
 adhibited
+adhibiting
 adiabatically
 adieu
 adieux
@@ -4574,6 +4575,7 @@ approving
 approvingly
 approximate
 approximated
+approximating
 approximation
 approximations
 approximative
@@ -6315,6 +6317,7 @@ averse
 aversely
 averseness
 aversenesses
+aversion
 aversions
 aversive
 aversiveness
@@ -6864,6 +6867,7 @@ bagginesses
 baggings
 baghouse
 baghouses
+baglike
 bagmen
 bagnio
 bagnios
@@ -9760,6 +9764,7 @@ blandishes
 blandishing
 blandishment
 blandly
+blandness
 blank
 blanked
 blanker
@@ -10760,6 +10765,7 @@ bootblack
 bootblacks
 booted
 bootery
+booth
 booties
 booting
 bootjacks
@@ -17332,6 +17338,7 @@ cliquishness
 clitellum
 cliticize
 cliticized
+cliticizes
 cliticizing
 clitics
 clitorectomy
@@ -18212,6 +18219,7 @@ coinvestor
 coir
 coirs
 coistril
+coistrils
 coition
 coitional
 coitions
@@ -18886,6 +18894,7 @@ compactors
 compacts
 companied
 companies
+companion
 companionate
 companioned
 companioning
@@ -21502,6 +21511,7 @@ cowy
 cox
 coxae
 coxalgia
+coxalgias
 coxalgies
 coxcombical
 coxcombry
@@ -22153,6 +22163,7 @@ croquets
 croquettes
 croquignoles
 croquis
+crore
 crosiers
 crossabilities
 crossable
@@ -25187,6 +25198,7 @@ densify
 densifying
 densitometers
 densitometric
+densitometries
 density
 dent
 dental
@@ -27244,6 +27256,7 @@ discriminatory
 discrown
 discrowned
 discrowns
+discs
 discursive
 discursively
 discursiveness
@@ -30205,6 +30218,7 @@ eek
 eel
 eelgrass
 eelgrasses
+eelier
 eeliest
 eelpout
 eelworm
@@ -31342,6 +31356,7 @@ endocardial
 endocarditises
 endocarps
 endocast
+endocasts
 endochondral
 endocrines
 endocrinologies
@@ -34012,6 +34027,7 @@ extemporaneity
 extemporaneous
 extemporarily
 extempore
+extemporisation
 extemporise
 extemporised
 extemporises
@@ -39578,6 +39594,7 @@ geminal
 geminate
 geminated
 geminations
+gemlike
 gemmae
 gemmate
 gemmated
@@ -42354,6 +42371,7 @@ gunshots
 gunslinger
 gunslinging
 gunslingings
+gunsmithing
 gunwale
 gunwales
 guppies
@@ -43044,6 +43062,7 @@ handsomenesses
 handspike
 handspring
 handsprings
+handstamp
 handstand
 handstands
 handwheel
@@ -44462,6 +44481,7 @@ hewed
 hewing
 hews
 hex
+hexachlorethane
 hexachords
 hexad
 hexade
@@ -46121,6 +46141,7 @@ hydrant
 hydranths
 hydras
 hydrase
+hydrases
 hydrastis
 hydrate
 hydrated
@@ -54788,6 +54809,7 @@ limba
 limbeck
 limbed
 limber
+limbered
 limberer
 limberest
 limbering
@@ -57986,6 +58008,7 @@ meddlers
 meddles
 medevaced
 medevacing
+medevacked
 medevacking
 medevacs
 medfly
@@ -60085,6 +60108,7 @@ misfiling
 misfire
 misfiring
 misfits
+misfocused
 misfocuses
 misfocusing
 misfocussed
@@ -66130,6 +66154,7 @@ oloroso
 olorosos
 olympiad
 olympiads
+om
 omasa
 omasum
 omber
@@ -78625,6 +78650,7 @@ pyrex
 pyrexes
 pyrexia
 pyrexial
+pyrexias
 pyrexic
 pyrheliometric
 pyric
@@ -86127,6 +86153,7 @@ salaried
 salaries
 salary
 salarying
+salarymen
 salchow
 sale
 saleable
@@ -88238,6 +88265,7 @@ seizin
 seizins
 seizure
 seizures
+selaginellas
 selahs
 selamliks
 selcouth
@@ -90024,6 +90052,7 @@ shuttler
 shuttles
 shvartze
 shvartzes
+shwa
 shwanpan
 shwanpans
 shwas
@@ -90445,6 +90474,7 @@ simplifiers
 simplifies
 simplifying
 simplisms
+simplistic
 simplistically
 simps
 simulacrum
@@ -93901,6 +93931,7 @@ squashers
 squashes
 squashier
 squashiest
+squashiness
 squashing
 squat
 squatly
@@ -94717,8 +94748,10 @@ sthenic
 stibial
 stibine
 stibiums
+stibnite
 stich
 stichomythia
+stichomythias
 stichomythic
 stichomythies
 stichomythy
@@ -99314,6 +99347,7 @@ telemark
 telemarketer
 telemarketers
 telemen
+telemeter
 telemetered
 telemeters
 telemetrically
@@ -100115,6 +100149,7 @@ theophany
 theophylline
 theorbo
 theorbos
+theorem
 theoretic
 theoretically
 theories
