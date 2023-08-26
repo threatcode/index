@@ -258,6 +258,7 @@ accentually
 accentuate
 accentuating
 accentuation
+accentuations
 accept
 acceptabilities
 acceptability
@@ -1680,6 +1681,7 @@ agreeably
 agreement
 agreements
 agrees
+agrestal
 agribusiness
 agribusinessman
 agribusinessmen
@@ -5376,6 +5378,7 @@ aspirations
 aspirator
 aspired
 aspirers
+aspires
 aspirin
 aspirins
 aspis
@@ -7195,6 +7198,7 @@ banqueted
 banqueters
 banquette
 banquettes
+banshees
 banshie
 bantam
 bantams
@@ -9407,6 +9411,7 @@ biphasic
 bipinnate
 bipinnately
 biplane
+biplanes
 bipods
 bipolar
 bipolarities
@@ -9723,6 +9728,7 @@ blameworthy
 blaming
 blanch
 blancher
+blanchers
 blanching
 blancmange
 bland
@@ -12427,6 +12433,7 @@ burked
 burker
 burkers
 burkites
+burl
 burladeros
 burlap
 burlaps
@@ -13625,6 +13632,7 @@ canvaser
 canvasers
 canvasing
 canvaslike
+canvass
 canvassed
 canvasser
 canvassers
@@ -15444,6 +15452,7 @@ chares
 charge
 charged
 chargehand
+chargehands
 charger
 chargers
 charging
@@ -19885,6 +19894,7 @@ consuetudes
 consuetudinary
 consul
 consular
+consulate
 consulates
 consuls
 consulships
@@ -23124,6 +23134,7 @@ cymbidiums
 cyme
 cymene
 cymenes
+cymlin
 cymling
 cymlings
 cymlins
@@ -29788,6 +29799,7 @@ earthmen
 earthmover
 earthmovings
 earthpeas
+earthquake
 earthquakes
 earthrise
 earths
@@ -32315,6 +32327,7 @@ equinoctials
 equinox
 equinoxes
 equip
+equipage
 equipages
 equipments
 equipoised
@@ -39501,6 +39514,7 @@ gemmier
 gemmiest
 gemmily
 gemminess
+gemminesses
 gemming
 gemmologies
 gemmologist
@@ -42378,6 +42392,7 @@ gyniatry
 gynoecia
 gynogeneses
 gynogenesis
+gynogenetic
 gynophobe
 gynophobes
 gynophore
@@ -43704,6 +43719,7 @@ hector
 hectors
 heddles
 heder
+hedge
 hedged
 hedgehog
 hedgehogs
@@ -45061,6 +45077,7 @@ homogamous
 homogenates
 homogeneities
 homogeneity
+homogeneous
 homogenies
 homogenisations
 homogenise
@@ -49420,6 +49437,7 @@ intercut
 intercuts
 intercutting
 interdealer
+interdental
 interdentally
 interdependence
 interdepending
@@ -49442,6 +49460,7 @@ interdivisional
 interelectrode
 interelectron
 interepidemic
+interestedly
 interesting
 interests
 interethnic
@@ -54368,6 +54387,7 @@ lianas
 liane
 lianes
 liangs
+liar
 liard
 liards
 liars
@@ -57829,6 +57849,7 @@ mechanics
 mechanisms
 mechanist
 mechanization
+mechanizations
 mechanize
 mechanized
 mechanizers
@@ -60092,6 +60113,7 @@ mismating
 mismeets
 mismove
 mismoved
+mismoves
 misname
 misnamed
 misnaming
@@ -64746,6 +64768,7 @@ nonwool
 nonword
 nonwords
 nonwork
+nonworkers
 nonworking
 nonwoven
 nonwovens
@@ -74617,6 +74640,7 @@ pop
 popcorns
 popedom
 popedoms
+popeless
 popelike
 poperies
 popes
@@ -76510,6 +76534,7 @@ prier
 priers
 priest
 priested
+priesting
 priestliest
 priestliness
 priestlinesses
@@ -77162,6 +77187,7 @@ propending
 propene
 propense
 propensities
+propenyl
 properdin
 properdins
 properer
@@ -81270,6 +81296,7 @@ reexportation
 reexported
 reexports
 reexpose
+reexposed
 reexposes
 reexposures
 reexpressed
@@ -85268,6 +85295,7 @@ roven
 rover
 rovers
 roving
+rovings
 row
 rowable
 rowan
@@ -89093,6 +89121,7 @@ shays
 she
 shea
 sheaf
+sheafed
 sheafing
 sheaflike
 sheafs
@@ -89154,6 +89183,7 @@ sheepwalks
 sheered
 sheerest
 sheering
+sheerlegs
 sheerly
 sheerness
 sheernesses
@@ -90428,6 +90458,7 @@ sitting
 sittings
 situate
 situated
+situates
 situating
 situation
 situational
@@ -91296,6 +91327,7 @@ smarminesses
 smarms
 smart
 smartass
+smartened
 smarter
 smarties
 smartness
@@ -98761,6 +98793,7 @@ tattoos
 tatty
 taught
 taunt
+taunting
 tauntingly
 tauon
 taurine
@@ -101153,6 +101186,7 @@ tonus
 tonuses
 tony
 tool
+toolbars
 tooled
 toolers
 toolhead
@@ -105200,6 +105234,7 @@ ungula
 ungulae
 ungulate
 ungulates
+unhackneyed
 unhailed
 unhairer
 unhairers
