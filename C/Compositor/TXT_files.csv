@@ -1,0 +1,9 @@
+compositor-touch-hit-rects-global-expected.txt - Google Git,https://chromium.googlesource.com/chromium/src/%2B/5b60affb655f38d871edae301eafe0ec13919bd4/third_party/blink/web_tests/flag-specific/enable-blink-features%3DCompositeAfterPaint/fast/events/touch/compositor-touch-hit-rects-global-expected.txt
+compositor-touch-hit-rects-fullscreen-video-controls-expected.txt,https://chromium.googlesource.com/chromium/src/%2B/0f427a5df3fe2d5ce5a8bad201ff2f859fd1589c/third_party/blink/web_tests/fullscreen/compositor-touch-hit-rects-fullscreen-video-controls-expected.txt
+image-compositor/CMakeLists.txt at master - GitHub,https://github.com/StanfordLegion/image-compositor/blob/master/CMakeLists.txt
+mutter/doc/compositor-control.txt at master · endlessm/mutter - GitHub,https://github.com/endlessm/mutter/blob/master/doc/compositor-control.txt
+"Composite Extension, Version 0.4 - X.Org",https://www.x.org/releases/X11R7.5/doc/compositeproto/compositeproto.txt
+EGL_EXT_compositor - Khronos Registry,https://registry.khronos.org/EGL/extensions/EXT/EGL_EXT_compositor.txt
+LayoutTests/fast/events/touch/compositor-touch-hit-rects-global ...,https://chromiumcodereview.appspot.com/22674007/diff/36001/LayoutTests/fast/events/touch/compositor-touch-hit-rects-global-expected.txt%3Fcontext%3D10%26column_width%3D80%26tab_spaces%3D8
+…/CMakeLists.txt · Gerrit Code Review,https://codereview.qt-project.org/c/qt/qtwayland/%2B/274195/21/examples/wayland/custom-extension/compositor/CMakeLists.txt
+LayoutTests/compositing/change-compositing-settings-expected.txt ...,https://codereview.chromium.org/779613002/diff/40001/LayoutTests/compositing/change-compositing-settings-expected.txt
