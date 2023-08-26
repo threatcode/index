@@ -2087,6 +2087,7 @@ alighting
 alightment
 alights
 align
+aligned
 aligner
 aligners
 alignment
@@ -5239,6 +5240,7 @@ ascendents
 ascenders
 ascendible
 ascending
+ascension
 ascensive
 ascent
 ascents
@@ -6671,6 +6673,7 @@ backfired
 backfires
 backfiring
 backfit
+backfits
 backfitted
 backfitting
 backflip
@@ -7374,6 +7377,7 @@ barogram
 barograph
 barographic
 barographs
+barometers
 barometries
 baron
 baronage
@@ -8490,6 +8494,7 @@ benempted
 benes
 benevolence
 benevolences
+benevolently
 benevolentness
 benighted
 benightedness
@@ -10582,6 +10587,7 @@ boneheaded
 boneheadedness
 bonemeals
 boners
+bones
 boneset
 bonesets
 bonesetter
@@ -10932,6 +10938,7 @@ bottles
 bottlings
 bottom
 bottomed
+bottomer
 bottoming
 bottomland
 bottomlands
@@ -13673,6 +13680,7 @@ capablenesses
 capabler
 capablest
 capably
+capacious
 capaciousnesses
 capacitance
 capacitances
@@ -18566,6 +18574,7 @@ columniations
 columnist
 columnistic
 columnists
+columns
 colure
 colures
 coly
@@ -26368,6 +26377,7 @@ dickie
 dickies
 dickiest
 dicking
+diclinies
 diclinism
 diclinisms
 diclinous
@@ -28289,6 +28299,7 @@ dognappers
 dognapping
 dognaps
 dogrobbers
+dogsbodies
 dogsledder
 dogsleds
 dogteeth
@@ -30789,6 +30800,7 @@ embodiments
 embody
 embodying
 embolden
+emboldening
 embolectomies
 emboli
 embolies
@@ -31184,6 +31196,7 @@ enclose
 enclosed
 encloser
 enclosers
+encloses
 enclosing
 enclosure
 encodable
@@ -33513,6 +33526,7 @@ exed
 exedra
 exedrae
 exegeses
+exegesis
 exegetic
 exegetics
 exegetist
@@ -41796,6 +41810,7 @@ grits
 gritted
 gritters
 grittiest
+grittily
 grittinesses
 gritting
 gritty
@@ -42191,6 +42206,7 @@ guinea
 guineas
 guipures
 guiro
+guiros
 guisard
 guise
 guised
@@ -42472,6 +42488,7 @@ gyrenes
 gyres
 gyro
 gyrocompasses
+gyrofrequencies
 gyrofrequency
 gyromagnetic
 gyron
@@ -46196,6 +46213,7 @@ hydrostatic
 hydrostatically
 hydrostats
 hydrotherapy
+hydrothermal
 hydrothermally
 hydrothoraxes
 hydrotropic
@@ -50432,6 +50450,7 @@ ironic
 ironical
 ironically
 ironicalnesses
+ironies
 ironings
 ironist
 ironists
@@ -54086,6 +54105,7 @@ legislates
 legislating
 legislative
 legislatives
+legislator
 legislators
 legislatorships
 legislature
@@ -56790,6 +56810,7 @@ malleolus
 mallet
 mallets
 malleus
+malling
 mallow
 malmier
 malmsey
@@ -61065,6 +61086,7 @@ monophthongs
 monophyletic
 monophylies
 monophyly
+monoplane
 monoplanes
 monoploids
 monopod
@@ -63269,6 +63291,7 @@ nervations
 nervature
 nerve
 nerved
+nerveless
 nervelessly
 nervelessnesses
 nerves
@@ -67149,6 +67172,7 @@ outcooks
 outcount
 outcounted
 outcounts
+outcrawl
 outcrawling
 outcrawls
 outcries
@@ -68781,6 +68805,7 @@ overstocking
 overstocks
 overstrained
 overstrains
+overstress
 overstressed
 overstresses
 overstressing
@@ -70401,6 +70426,7 @@ pasteurises
 pasteurising
 pasteurizations
 pasteurize
+pasteurizer
 pasteurizes
 pasteurizing
 pastiche
@@ -80735,6 +80761,7 @@ reconsidering
 reconsiders
 reconsigning
 reconsigns
+reconsoles
 reconsolidate
 reconsolidated
 reconsolidating
@@ -81022,6 +81049,7 @@ redeyes
 redfin
 redfish
 redhead
+redheads
 redhorse
 redhorses
 rediae
@@ -81971,6 +81999,7 @@ reinks
 reinless
 reinnervates
 reinnervation
+reinnervations
 reinoculated
 reinoculates
 reinoculating
@@ -94140,6 +94169,7 @@ standardly
 standby
 standbys
 standdowns
+standee
 stander
 standers
 standing
@@ -95668,6 +95698,7 @@ subalterns
 subantarctic
 subapical
 subaqueous
+subarachnoid
 subarachnoidal
 subarctic
 subarctics
@@ -105821,6 +105852,7 @@ unpalatability
 unpalatable
 unparalleled
 unpardonable
+unpasteurized
 unpastoral
 unpatched
 unpatentable
@@ -108486,6 +108518,7 @@ visual
 visualist
 visualists
 visualities
+visualization
 visualizations
 visualize
 visualized
@@ -110601,6 +110634,7 @@ wingman
 wingmen
 wingspan
 wingspans
+wingspread
 wingtip
 wingtips
 winier
@@ -110727,6 +110761,7 @@ wisps
 wispy
 wissed
 wisses
+wist
 wistarias
 wisteria
 wisterias
