@@ -1021,6 +1021,7 @@ adorableness
 adorably
 adorations
 adore
+adored
 adorer
 adores
 adoring
@@ -3553,6 +3554,7 @@ antecessor
 antecessors
 antechapel
 antechapels
+antechoir
 antechoirs
 anted
 antedate
@@ -12316,6 +12318,7 @@ buoyance
 buoyances
 buoyancy
 buoyant
+buoyed
 buoying
 bupkes
 bupkus
@@ -17491,6 +17494,7 @@ coagents
 coagula
 coagulabilities
 coagulability
+coagulant
 coagulants
 coagulase
 coagulases
@@ -17791,6 +17795,7 @@ codeless
 codependences
 codependencies
 codependent
+codependents
 coderive
 coderived
 coderives
@@ -19164,6 +19169,7 @@ concluding
 conclusion
 conclusiveness
 conclusory
+concoct
 concocted
 concocter
 concocting
@@ -20411,6 +20417,7 @@ copulatives
 copulatory
 copurified
 copurifies
+copurify
 copy
 copybook
 copybooks
@@ -21708,6 +21715,7 @@ credo
 credos
 creds
 credulities
+credulous
 creed
 creedal
 creeds
@@ -36016,6 +36024,7 @@ flaker
 flakers
 flakes
 flakier
+flakiest
 flakily
 flakiness
 flaking
@@ -36757,6 +36766,7 @@ flytrap
 flyway
 flyways
 flyweight
+flyweights
 flywheels
 foal
 foals
@@ -41516,6 +41526,7 @@ greylag
 greyness
 greynesses
 greys
+gribble
 gridded
 gridder
 gridders
@@ -45777,6 +45788,7 @@ hunkier
 hunky
 hunnish
 huns
+huntable
 hunted
 huntedly
 hunter
@@ -46588,6 +46600,7 @@ idiom
 idiomatic
 idiomatically
 idiomorphic
+idioms
 idiopathic
 idiopathies
 idioplasms
@@ -48387,6 +48400,7 @@ infidelic
 infielder
 infielders
 infields
+infighter
 infighters
 infighting
 infightings
@@ -48904,6 +48918,7 @@ insensitivity
 insentience
 insentiences
 insentient
+inseparable
 inseparables
 inserted
 inserter
@@ -49314,6 +49329,7 @@ interdictory
 interdiffuse
 interdiffused
 interdiffuses
+interdiffusing
 interdiffusion
 interdigitate
 interdigitates
@@ -50550,6 +50566,7 @@ isotonic
 isotonicities
 isotonicity
 isotope
+isotopes
 isotopic
 isotopically
 isotopies
@@ -54916,6 +54933,7 @@ lithographic
 lithographing
 lithographs
 lithography
+lithoid
 lithoidal
 lithological
 lithologically
@@ -58376,6 +58394,7 @@ messieurs
 messily
 messiness
 messinesses
+messing
 messman
 messuage
 messuages
@@ -60443,6 +60462,7 @@ mods
 modulability
 modularities
 modulars
+modulate
 modulates
 modulating
 modulation
@@ -61051,6 +61071,7 @@ moralises
 moralising
 moralism
 moralist
+moralistic
 moralistically
 moralities
 moralization
@@ -61186,6 +61207,7 @@ mortifications
 mortified
 mortifiers
 mortifies
+mortify
 mortifying
 mortiser
 mortisers
@@ -66266,6 +66288,7 @@ orchestra
 orchestral
 orchestras
 orchestrated
+orchestrater
 orchestraters
 orchestrates
 orchestrating
@@ -66394,6 +66417,7 @@ orientating
 orientationally
 orientations
 oriented
+orienteer
 orienteering
 orienteers
 orienter
@@ -66440,6 +66464,7 @@ orneriness
 ornerinesses
 ornery
 ornis
+ornithic
 ornithine
 ornithines
 ornithischian
@@ -70202,6 +70227,7 @@ patens
 patent
 patentabilities
 patentability
+patented
 patenting
 patently
 pater
@@ -70635,6 +70661,7 @@ pedlary
 pedler
 pedleries
 pedlers
+pedlery
 pedocal
 pedocalic
 pedocals
@@ -73746,6 +73773,7 @@ plutocracy
 plutocrat
 plutocrats
 plutonic
+plutonism
 plutonisms
 plutonium
 plutoniums
@@ -80682,6 +80710,7 @@ redepositing
 redeposits
 redescend
 redescending
+redescends
 redescribe
 redescribed
 redescribing
@@ -80926,6 +80955,7 @@ reeled
 reeler
 reelers
 reelevated
+reelevates
 reeligibility
 reeligible
 reelings
@@ -81003,6 +81033,7 @@ reequipments
 reequipped
 reequipping
 reequips
+reerected
 reerecting
 reerects
 rees
@@ -81924,6 +81955,7 @@ relives
 reliving
 reloaded
 reloaders
+reloads
 reloan
 reloaned
 reloaning
@@ -82570,6 +82602,7 @@ reprieved
 reprieves
 reprimand
 reprimands
+reprinter
 reprinters
 reprints
 reprisal
@@ -91397,6 +91430,7 @@ snobbery
 snobbier
 snobbish
 snobby
+snobs
 snog
 snogged
 snogging
@@ -94702,6 +94736,7 @@ strabismic
 strabismus
 strabismuses
 straddle
+straddler
 strafed
 strafers
 strafes
