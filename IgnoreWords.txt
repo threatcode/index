@@ -4217,6 +4217,7 @@ apetaly
 apex
 aphaereses
 aphaeretic
+aphagia
 aphagias
 aphanite
 aphanites
@@ -8201,6 +8202,7 @@ begging
 begin
 beginning
 begirded
+begirdled
 begirdling
 begirds
 begirt
@@ -8342,9 +8344,11 @@ believers
 believes
 belike
 beliquoring
+beliquors
 belittle
 belittlement
 belittlements
+belittler
 belive
 bell
 belladonna
@@ -11761,6 +11765,7 @@ brockages
 brocket
 brockets
 brocks
+brocolis
 brogan
 brogans
 brogueries
@@ -11951,6 +11956,7 @@ brunch
 bruncher
 brunchers
 brunches
+brunet
 brunets
 brunette
 brunettes
@@ -21386,6 +21392,7 @@ cousinhood
 cousinly
 cousinry
 cousins
+cousinship
 cousinships
 couteau
 couteaux
@@ -27517,6 +27524,7 @@ disking
 dislikable
 dislikeable
 disliked
+dislimn
 dislimned
 dislocate
 dislocated
@@ -29719,6 +29727,7 @@ dynamotors
 dynast
 dynastic
 dynasts
+dynasty
 dynatron
 dyne
 dynein
@@ -31385,6 +31394,7 @@ endogenously
 endogens
 endogeny
 endolymph
+endolymphs
 endometria
 endometrial
 endometrioses
@@ -32574,6 +32584,7 @@ err
 errable
 errancies
 errancy
+errand
 errantries
 errata
 erratic
@@ -38458,6 +38469,7 @@ fulgurate
 fulgurated
 fulgurates
 fulguration
+fulgurites
 fulham
 fullam
 fullback
@@ -41948,6 +41960,7 @@ grouch
 grouchier
 grouchiest
 grouchily
+grouching
 grouchy
 ground
 groundbreakers
@@ -43875,6 +43888,7 @@ heelpiece
 heelpieces
 heelplates
 heelpost
+heels
 heeltap
 heezing
 hefter
@@ -47104,6 +47118,7 @@ imbodies
 imbody
 imbodying
 imbolden
+imboldened
 imboldening
 imboldens
 imbosoming
@@ -49466,6 +49481,7 @@ intensifies
 intensional
 intensionally
 intensity
+intensive
 intensively
 intensivenesses
 intensives
@@ -49588,6 +49604,7 @@ interelectron
 interepidemic
 interestedly
 interesting
+interestingly
 interests
 interethnic
 interface
@@ -59030,6 +59047,7 @@ micklest
 micra
 micrified
 micrify
+micrifying
 microampere
 microamperes
 microanalyses
@@ -59391,6 +59409,7 @@ miler
 milers
 miles
 milesian
+milesimos
 milestone
 milestones
 milfoil
@@ -59825,6 +59844,7 @@ misaligns
 misalliances
 misallies
 misallocate
+misallocated
 misallocation
 misallocations
 misallots
@@ -61740,6 +61760,7 @@ mousebirds
 moused
 mouselike
 mousepad
+mouser
 mousers
 mousetail
 mousetrap
@@ -62565,6 +62586,7 @@ myology
 myoma
 myomata
 myomatous
+myopathies
 myope
 myopias
 myopically
@@ -63555,6 +63577,7 @@ neutrophils
 neve
 never
 neverminds
+nevertheless
 neves
 nevi
 nevoid
@@ -72434,6 +72457,7 @@ phoronids
 phosgene
 phosgenes
 phosphatase
+phosphate
 phosphates
 phosphatic
 phosphatide
@@ -73707,6 +73731,7 @@ plasmapheresis
 plasmasols
 plasmatic
 plasmic
+plasmid
 plasminogens
 plasmodesmas
 plasmodesmata
@@ -77673,6 +77698,7 @@ prothonotarial
 prothonotaries
 prothonotary
 prothoraces
+prothoracic
 prothorax
 prothoraxes
 protist
@@ -77723,6 +77749,7 @@ protoxid
 protoxids
 protoxylems
 protozoal
+protozoan
 protozoans
 protozoic
 protozoologies
@@ -86572,6 +86599,7 @@ sapodilla
 sapodillas
 sapogenin
 sapogenins
+saponaceous
 saponaceousness
 saponated
 saponifiable
@@ -86602,6 +86630,7 @@ sapremic
 saprobe
 saprobes
 saprogenic
+saprogenicity
 saprolite
 saprolites
 sapropel
@@ -89750,6 +89779,7 @@ shoddies
 shoddiest
 shoddily
 shoddiness
+shoddinesses
 shoe
 shoebill
 shoeblacks
@@ -91404,6 +91434,7 @@ slouchiest
 slouchily
 slouchinesses
 slouching
+slough
 sloughier
 sloughiest
 sloughs
@@ -94908,6 +94939,7 @@ stints
 stipe
 stipel
 stipels
+stipends
 stipes
 stipiform
 stipitate
@@ -98460,6 +98492,7 @@ tacitness
 tacitnesses
 taciturnities
 tack
+tackboard
 tackboards
 tacker
 tackers
@@ -108767,6 +108800,7 @@ vivisects
 vixens
 vizard
 vizarded
+vizards
 vizcacha
 vizier
 vizierate
@@ -111882,6 +111916,7 @@ yoctosecond
 yoctoseconds
 yodel
 yodelers
+yodeling
 yodelled
 yodeller
 yodellers
