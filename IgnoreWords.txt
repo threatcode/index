@@ -2815,6 +2815,7 @@ amoeba
 amoebas
 amoebean
 amoebiasis
+amoebocyte
 amoebocytes
 amoeboid
 amok
@@ -4939,6 +4940,7 @@ ariosos
 arise
 arisen
 arises
+arista
 aristae
 aristate
 aristo
@@ -14109,6 +14111,7 @@ cark
 carking
 carks
 carless
+carline
 carlines
 carling
 carlings
@@ -18718,6 +18721,7 @@ commendation
 commenders
 commending
 commends
+commensalism
 commensally
 commensurable
 commensurate
@@ -25244,6 +25248,7 @@ deodorization
 deontic
 deontological
 deontologist
+deontologists
 deontology
 deorbiting
 deoxidation
@@ -30385,6 +30390,7 @@ ejected
 ejections
 ejective
 ejectives
+ejectment
 ejectments
 ejectors
 ejects
@@ -31179,6 +31185,7 @@ enchantress
 enchants
 enchase
 enchaser
+enchases
 enchasing
 enchilada
 enchiladas
@@ -34862,6 +34869,7 @@ fatly
 fatness
 fats
 fatshedera
+fatshederas
 fatsoes
 fatsos
 fatstocks
@@ -34874,6 +34882,7 @@ fattier
 fatties
 fattiest
 fattish
+fatty
 fatuousness
 fatuousnesses
 fatwa
@@ -40513,6 +40522,7 @@ glittery
 glitz
 glitzier
 glitziest
+glitzing
 glitzy
 gloaming
 gloamings
@@ -42231,6 +42241,7 @@ guitars
 guitguit
 guitguits
 gulag
+gulags
 gular
 gulches
 guldens
@@ -47867,6 +47878,7 @@ incestuous
 incestuousness
 inched
 incher
+inching
 inchmeal
 inchoate
 inchoately
@@ -50416,6 +50428,7 @@ ipsilateral
 ipsilaterally
 iracund
 irade
+irades
 irascibilities
 irascibility
 irascible
@@ -51256,6 +51269,7 @@ jetsom
 jetsoms
 jetstreams
 jettied
+jetties
 jettiness
 jettinesses
 jetting
@@ -51941,6 +51955,7 @@ kart
 karting
 kartings
 karyogamies
+karyogamy
 karyokineses
 karyokinesis
 karyokinetic
@@ -52636,6 +52651,7 @@ knee
 kneecap
 kneecappings
 kneecaps
+kneeholes
 kneeing
 kneeled
 kneeler
@@ -53709,6 +53725,7 @@ launchers
 launching
 launchpad
 launchpads
+launder
 launderers
 launderette
 launderettes
@@ -54746,6 +54763,7 @@ likened
 likeness
 likenesses
 likening
+liker
 likers
 likest
 liking
@@ -54946,6 +54964,7 @@ linkup
 linkups
 linkwork
 linkworks
+linky
 linn
 linnet
 linns
@@ -55171,6 +55190,7 @@ lithophanes
 lithophytes
 lithopone
 lithopones
+lithops
 lithos
 lithosols
 lithospheres
@@ -57532,6 +57552,7 @@ massas
 massasaugas
 masscult
 masses
+masseter
 masseteric
 masseters
 masseur
@@ -59065,6 +59086,7 @@ microinjected
 microinjecting
 microinjection
 microinjections
+microlith
 microloan
 microloans
 microlux
@@ -60732,6 +60754,7 @@ mohair
 mohairs
 mohalim
 mohawk
+mohawks
 moidore
 moil
 moiled
@@ -69975,6 +69998,7 @@ parament
 paraments
 parameterized
 parameterizing
+parametrically
 parametrization
 parametrized
 parametrizes
@@ -77585,6 +77609,7 @@ proteomic
 proteoses
 protest
 protestant
+protestants
 protestation
 protestations
 protested
@@ -83359,6 +83384,7 @@ resigners
 resilience
 resiliences
 resiliency
+resilient
 resiling
 resilins
 resilvered
@@ -88013,6 +88039,7 @@ secularizer
 secularizing
 secund
 secundly
+securance
 securances
 secured
 securely
@@ -95687,6 +95714,7 @@ stymy
 stymying
 stypsis
 stypsises
+styptic
 styptics
 styrene
 styrenes
@@ -99329,6 +99357,7 @@ telescopy
 teleses
 teleshop
 teleshops
+telestic
 telestich
 telestichs
 teletext
@@ -100211,6 +100240,7 @@ thiamin
 thiaminases
 thiamine
 thiamines
+thiazide
 thiazines
 thiazins
 thiazole
@@ -102426,6 +102456,7 @@ tremulousnesses
 trenail
 trenails
 trenchancies
+trenchant
 trencher
 trenchers
 trenches
@@ -103562,6 +103593,7 @@ turpentined
 turpentines
 turpentining
 turpeth
+turpeths
 turpitudes
 turquois
 turquoises
@@ -104306,6 +104338,7 @@ unaudited
 unaus
 unauthentic
 unautomated
+unavailability
 unavailable
 unavailingly
 unavenged
@@ -107452,6 +107485,7 @@ var
 vara
 varactor
 varactors
+varas
 varia
 variability
 variable
@@ -111116,6 +111150,7 @@ wordbook
 wordier
 wordings
 wordless
+wordlessly
 wordlessness
 wordlessnesses
 wordmonger
