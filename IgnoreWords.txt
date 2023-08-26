@@ -999,6 +999,7 @@ adnouns
 ado
 adobe
 adobes
+adobos
 adolescent
 adolescently
 adolescents
@@ -3530,6 +3531,7 @@ answering
 anta
 antacid
 antae
+antagonism
 antagonisms
 antagonist
 antagonistic
@@ -5260,6 +5262,7 @@ ascribe
 ascribed
 ascribes
 ascribing
+ascription
 ascriptions
 ascriptive
 ascus
@@ -7608,6 +7611,7 @@ bathtubs
 bathwaters
 bathyal
 bathymetrically
+bathymetries
 bathymetry
 bathypelagic
 bathyscaphes
@@ -15832,6 +15836,7 @@ chica
 chicalote
 chicalotes
 chicaned
+chicaner
 chicaneries
 chicanes
 chicaning
@@ -23156,6 +23161,7 @@ cytidine
 cytochalasin
 cytochalasins
 cytochemical
+cytochemistry
 cytogenetic
 cytogeneticist
 cytogeneticists
@@ -23317,6 +23323,7 @@ daintily
 daintiness
 daintinesses
 dainty
+daiquiris
 dairies
 dairying
 dairyings
@@ -36743,6 +36750,7 @@ flutelike
 fluter
 fluting
 flutings
+flutist
 flutter
 flutterboard
 flutterboards
@@ -38678,6 +38686,7 @@ gadroon
 gadrooned
 gadroonings
 gadroons
+gads
 gadwall
 gadwalls
 gadzookeries
@@ -39145,6 +39154,7 @@ garrulity
 garrulous
 garrulously
 garrulousness
+garrulousnesses
 gartered
 garters
 gas
@@ -39810,6 +39820,7 @@ gestations
 gestative
 geste
 gesticulant
+gesticulate
 gesticulated
 gesticulations
 gesticulator
@@ -40050,6 +40061,7 @@ gingillis
 gingivae
 gingivectomies
 gingivitis
+gingivitises
 gingkoes
 ginkgo
 ginkgoes
@@ -40718,6 +40730,7 @@ gobshite
 goby
 god
 godchild
+godchildren
 goddammed
 goddamndest
 goddamned
@@ -41806,6 +41819,7 @@ groundmasses
 groundnut
 groundouts
 groundsels
+groundsheet
 groundsheets
 groundskeepers
 groundsman
@@ -44212,6 +44226,7 @@ hesitance
 hesitances
 hesitancy
 hesitant
+hesitantly
 hesitate
 hesitated
 hesitater
@@ -52915,6 +52930,7 @@ lacteal
 lacteally
 lacteals
 lactean
+lactic
 lactiferous
 lactobacillus
 lactogenic
@@ -54110,6 +54126,7 @@ leporine
 leprechaun
 leprechauns
 lepromatous
+leprosaria
 leprosarium
 leprosariums
 leprosies
@@ -54138,6 +54155,7 @@ lessens
 lessons
 lessor
 lessors
+let
 letch
 letched
 letching
@@ -57978,6 +57996,7 @@ melancholiacs
 melancholias
 melancholic
 melancholics
+melancholies
 melancholy
 melanges
 melanian
@@ -60900,6 +60919,7 @@ monometallist
 monometer
 monometers
 monomials
+monomolecular
 monomolecularly
 monomorphemic
 monomorphisms
@@ -62080,6 +62100,7 @@ musicalized
 musicalizing
 musician
 musick
+musicking
 musicks
 musicless
 musicological
@@ -64645,6 +64666,7 @@ nonutilitarian
 nonutilities
 nonvacant
 nonvalid
+nonvalidities
 nonvalidity
 nonvector
 nonvegetarian
@@ -67077,6 +67099,7 @@ outfawned
 outfawning
 outfeast
 outfeel
+outfeeling
 outfelt
 outfence
 outfenced
@@ -69745,6 +69768,7 @@ paramattas
 paramecia
 paramecium
 parameciums
+paramedic
 paramedical
 parament
 paraments
@@ -73155,6 +73179,7 @@ pitchier
 pitchiest
 pitchily
 pitching
+pitchman
 pitchmen
 pitchout
 pitchouts
@@ -73321,6 +73346,7 @@ planaria
 planarian
 planarias
 planarities
+planarity
 planate
 planation
 planations
@@ -75890,6 +75916,7 @@ prepack
 prepackage
 prepackaged
 prepackages
+prepacks
 preparation
 preparations
 preparative
@@ -82307,6 +82334,7 @@ rendible
 rendition
 renditions
 rends
+renegaded
 renegading
 renegadoes
 renege
@@ -94097,6 +94125,7 @@ staurolite
 staurolitic
 staved
 stavesacre
+stavudine
 stavudines
 stay
 staying
@@ -94993,6 +95022,7 @@ streeking
 streeks
 streel
 streeling
+street
 streetcar
 streetlamp
 streetlight
@@ -96985,6 +97015,7 @@ suppletory
 suppliant
 suppliantly
 supplicant
+supplicate
 supplicated
 supplicating
 supplications
@@ -98430,6 +98461,7 @@ tantalizes
 tantalizing
 tantalizingly
 tantalum
+tantalums
 tantaluses
 tantara
 tantaras
@@ -102618,6 +102650,7 @@ trocked
 trocking
 trocks
 trod
+trodden
 trode
 troffer
 troffers
@@ -106335,6 +106368,7 @@ upbuilds
 upby
 upbye
 upcasting
+upchuck
 upchucking
 upchucks
 upclimbed
@@ -109806,6 +109840,7 @@ whimpering
 whimpers
 whims
 whimsey
+whimseys
 whimsical
 whimsicalities
 whimsicality
