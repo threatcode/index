@@ -752,6 +752,7 @@ aculeate
 aculeated
 aculei
 aculeus
+acumen
 acuminates
 acuminous
 acupressure
@@ -2131,6 +2132,7 @@ aliyas
 aliyos
 aliyot
 alizarine
+alizarines
 alizarins
 alkahest
 alkahests
@@ -3749,6 +3751,7 @@ anticonvulsants
 anticonvulsives
 anticorrosives
 anticorruption
+anticrack
 anticrime
 anticruelty
 antics
@@ -4558,6 +4561,7 @@ apprises
 apprising
 apprizer
 apprizers
+apprizes
 approachable
 approached
 approaches
@@ -10487,6 +10491,7 @@ boilingly
 boils
 boing
 boinked
+boinking
 boinks
 boiserie
 boiseries
@@ -14293,6 +14298,7 @@ cartelising
 cartelizations
 cartelize
 cartelized
+cartelizes
 cartels
 carters
 cartes
@@ -16727,6 +16733,7 @@ cineraria
 cinerarias
 cinerary
 cinereous
+cinerin
 cingula
 cingular
 cingulate
@@ -17076,6 +17083,7 @@ clarify
 clarinet
 clarinetists
 clarinets
+clarinettist
 clarion
 clarioned
 clarionets
@@ -17266,6 +17274,7 @@ clergy
 clergymen
 clergywoman
 clergywomen
+clerical
 clericalism
 clericalist
 clerically
@@ -19212,6 +19221,7 @@ conceded
 concededly
 conceder
 conceders
+conceding
 conceitedly
 conceitedness
 conceiting
@@ -25710,6 +25720,7 @@ desirableness
 desirables
 desirably
 desired
+desirers
 desires
 desiring
 desirously
@@ -27735,6 +27746,7 @@ dispreading
 disprized
 disprizes
 disproof
+disproofs
 disproportion
 disproportional
 disprovable
@@ -41632,6 +41644,7 @@ gravitas
 gravitases
 gravitate
 gravitation
+gravitational
 gravitationally
 gravitations
 gravitino
@@ -46839,6 +46852,7 @@ icosahedral
 icosahedron
 icteric
 ictic
+ictuses
 id
 idea
 ideal
@@ -57018,6 +57032,7 @@ mamaliga
 mambas
 mambo
 mamboes
+mamboing
 mamelukes
 mamey
 mamies
@@ -60835,6 +60850,7 @@ modernised
 modernising
 modernist
 modernities
+modernity
 modernize
 modernizers
 modernizes
@@ -64930,6 +64946,7 @@ nonspeaker
 nonspeakers
 nonspecialist
 nonspecific
+nonspecifically
 nonspectacular
 nonspeculative
 nonspeech
@@ -65303,6 +65320,7 @@ nubbliest
 nubbly
 nubby
 nubias
+nubile
 nubility
 nubilose
 nubilous
@@ -74861,6 +74879,7 @@ poms
 ponce
 ponces
 poncho
+ponchoed
 ponchos
 poncing
 ponder
@@ -77976,6 +77995,7 @@ prussianising
 prussianization
 prussianize
 prussianized
+prussianizing
 prussiate
 prussic
 pruta
@@ -78215,6 +78235,7 @@ puckered
 puckerer
 puckerier
 puckeriest
+puckering
 puckish
 puckishly
 puckishness
@@ -81201,6 +81222,7 @@ redd
 redden
 reddened
 reddening
+reddens
 redder
 reddish
 reddishness
@@ -83349,6 +83371,7 @@ rerigs
 rerise
 rerises
 rerising
+reroll
 reroller
 rerollers
 rerolling
@@ -83524,6 +83547,7 @@ reshot
 reshow
 reshowed
 reshowered
+reshowering
 reshowers
 reshowing
 reshown
@@ -86329,6 +86353,7 @@ salesclerks
 salesgirls
 saleslady
 salesman
+salesmanship
 salesmanships
 salesperson
 salespersons
@@ -94692,6 +94717,7 @@ steatopygias
 steatopygic
 steatopygous
 steatorrhea
+steed
 steek
 steeked
 steeking
@@ -95403,6 +95429,7 @@ straightjacket
 straightjackets
 straightly
 straightness
+straightnesses
 strained
 strainer
 strainers
@@ -96371,6 +96398,7 @@ suboscines
 suboval
 subovate
 suboxide
+subpanels
 subparagraphs
 subparallel
 subpart
@@ -102481,6 +102509,7 @@ transuding
 transuranium
 transvaluated
 transvaluating
+transvaluation
 transvaluations
 transvalue
 transvalued
@@ -105415,6 +105444,7 @@ unearmarked
 unearned
 unearth
 unearthed
+unearthing
 unearthliest
 unearthliness
 unearthlinesses
@@ -105546,6 +105576,7 @@ unfitly
 unfitness
 unfitted
 unfix
+unfixed
 unfixes
 unfixing
 unflappability
@@ -105804,6 +105835,7 @@ uninjured
 uninspected
 uninstall
 uninstalling
+uninstalls
 uninstructed
 uninstructive
 uninsulated
@@ -110262,6 +110294,7 @@ wetting
 wettish
 wha
 whack
+whacked
 whackers
 whacks
 whale
@@ -111602,6 +111635,7 @@ wrestle
 wrestled
 wrestler
 wrestlers
+wrestling
 wrestlings
 wretch
 wretcheder
@@ -112306,6 +112340,7 @@ zeppoli
 zeptosecond
 zerk
 zerks
+zeroed
 zeroes
 zeros
 zeroth
