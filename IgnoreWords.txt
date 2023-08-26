@@ -3421,6 +3421,7 @@ ankylosaurs
 ankylosaurus
 ankylosauruses
 ankylose
+ankylosed
 ankyloses
 ankylosing
 ankylosis
@@ -4506,6 +4507,7 @@ apportions
 apposable
 appose
 apposed
+apposers
 apposes
 apposing
 appositely
@@ -8603,6 +8605,7 @@ beribboned
 beriberi
 beriberis
 berimbau
+berimed
 berimes
 berkelium
 berks
@@ -15409,6 +15412,7 @@ chanted
 chanterelle
 chanters
 chanteuse
+chanticleer
 chanties
 chanting
 chantor
@@ -17821,6 +17825,7 @@ cockneyfying
 cockneyisms
 cockneys
 cockpits
+cockroach
 cockscomb
 cockshies
 cockshuts
@@ -23318,6 +23323,7 @@ dacoit
 dacoities
 dacoits
 dacoity
+dacquoise
 dacquoises
 dacron
 dactyli
@@ -29103,6 +29109,7 @@ dries
 driest
 drift
 driftage
+driftages
 drifted
 drifter
 driftiest
@@ -29905,6 +29912,7 @@ easiness
 easinesses
 eastbound
 easter
+easterlies
 eastern
 easterner
 easterners
@@ -33932,6 +33940,7 @@ exportable
 exported
 exporter
 exporting
+exposable
 exposals
 expose
 exposed
@@ -43001,6 +43010,7 @@ handcuffs
 handed
 handedness
 handednesses
+hander
 handers
 handfasting
 handfasts
@@ -44275,6 +44285,7 @@ hereditarily
 hereditary
 heredity
 herein
+hereinabove
 hereinafter
 hereinbefore
 hereon
@@ -48686,6 +48697,7 @@ inflective
 inflector
 inflexibility
 inflexible
+inflexibly
 inflexion
 inflexions
 inflicters
@@ -50074,6 +50086,7 @@ intraspecific
 intrastate
 intrathecal
 intrathoracic
+intrauterine
 intravascularly
 intravenous
 intravitam
@@ -52448,6 +52461,7 @@ kimonoed
 kin
 kina
 kinara
+kinas
 kinases
 kinder
 kindergarten
@@ -57029,6 +57043,7 @@ maneuverable
 maneuvered
 maneuverer
 manful
+manfully
 manfulness
 manfulnesses
 mangabeys
@@ -63994,6 +64009,7 @@ noises
 noisette
 noisier
 noisily
+noisiness
 noising
 noisome
 noisy
@@ -65876,6 +65892,7 @@ odiums
 odograph
 odometers
 odometries
+odometry
 odonate
 odonates
 odontoblast
@@ -66029,6 +66046,7 @@ ohmic
 ohmmeter
 ohms
 oho
+oi
 oidia
 oidioid
 oilbird
@@ -66562,6 +66580,7 @@ oquassas
 or
 ora
 oraches
+oracle
 oracularity
 oracularly
 oral
@@ -73407,6 +73426,7 @@ pistareen
 pistareens
 piste
 pistes
+pistils
 pistol
 pistole
 pistoleer
@@ -76335,6 +76355,7 @@ prescribe
 prescribes
 prescribing
 prescription
+prescriptive
 prescripts
 prese
 preseason
@@ -76678,6 +76699,7 @@ priciest
 pricily
 pricing
 pricked
+prickers
 pricket
 prickets
 prickiest
@@ -78104,6 +78126,7 @@ puerperia
 puerperium
 puff
 puffer
+puffery
 puffier
 puffiest
 puffily
@@ -84327,6 +84350,7 @@ rewets
 rewetted
 rewiden
 rewidening
+rewidens
 rewind
 rewinded
 rewinder
@@ -92466,6 +92490,7 @@ sondes
 sone
 songbird
 songbirds
+songbooks
 songfest
 songfests
 songful
@@ -93233,6 +93258,7 @@ sphincter
 sphincteric
 sphincters
 sphinges
+sphingid
 sphingids
 sphingosine
 sphingosines
@@ -94710,6 +94736,7 @@ sternite
 sternly
 sternnesses
 sternocostal
+sternpost
 sternsons
 sternum
 sternutators
@@ -96729,6 +96756,7 @@ sulkers
 sulkiest
 sulkily
 sulks
+sulky
 sullage
 sullen
 sullener
@@ -98275,6 +98303,7 @@ syntagmas
 syntagms
 syntax
 syntaxes
+synth
 syntheses
 synthesis
 synthesist
@@ -98749,6 +98778,7 @@ tangibles
 tangier
 tanginess
 tangled
+tanglements
 tanglers
 tangles
 tanglier
@@ -99667,6 +99697,7 @@ tenuis
 tenuity
 tenuous
 tenuousnesses
+tenurable
 tenure
 tenures
 tenurial
@@ -105900,6 +105931,7 @@ unmoors
 unmoralities
 unmorality
 unmortised
+unmortises
 unmotivated
 unmourned
 unmovable
@@ -109847,6 +109879,7 @@ wedders
 wedel
 wedeled
 wedeling
+wedeln
 wedelns
 wedge
 wedgelike
@@ -110615,6 +110648,7 @@ willowy
 willy
 willyard
 willywaw
+willywaws
 wily
 wimbles
 wimmin
@@ -112265,6 +112299,7 @@ zoologically
 zoologies
 zoologist
 zoomania
+zooming
 zoomorph
 zoomorphic
 zoon
