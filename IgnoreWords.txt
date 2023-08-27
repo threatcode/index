@@ -1526,6 +1526,7 @@ agendaless
 agendas
 agendums
 agene
+ageneses
 agenesis
 agenetic
 agenize
@@ -5176,6 +5177,7 @@ arterial
 arterials
 arteries
 arteriogram
+arteriographic
 arteriographies
 arteriography
 arteriolar
@@ -9808,6 +9810,7 @@ blade
 bladed
 bladeless
 bladelike
+blader
 bladers
 blades
 blaeberries
@@ -11559,6 +11562,7 @@ breakup
 breakups
 breakwall
 breakwater
+breakwaters
 bream
 breaming
 breams
@@ -12253,6 +12257,7 @@ buggeries
 buggering
 buggier
 buggies
+buggiest
 buggy
 bughouses
 bugle
@@ -12683,6 +12688,7 @@ bushy
 busier
 busiest
 business
+businesses
 businessman
 businessmen
 businesspeople
@@ -19123,6 +19129,7 @@ compilations
 compile
 compilers
 compiles
+complacence
 complacences
 complacency
 complacently
@@ -20426,6 +20433,7 @@ convertor
 convertors
 convex
 convexes
+convexity
 convexly
 convey
 conveyancer
@@ -20763,6 +20771,7 @@ cordate
 cordately
 cordelle
 cordelled
+cordelles
 corder
 corders
 cordial
@@ -24150,6 +24159,7 @@ debugged
 debugger
 debuggers
 debugging
+debugs
 debunk
 debunker
 debunkers
@@ -25198,6 +25208,7 @@ demitasse
 demitasses
 demits
 demitted
+demitting
 demiurge
 demiurgic
 demiurgical
@@ -26990,6 +27001,7 @@ dinothere
 dinotheres
 dins
 dint
+dinted
 dints
 dinucleotides
 diobol
@@ -27111,6 +27123,7 @@ diquat
 diquats
 diram
 dirams
+direct
 directed
 directedness
 directer
@@ -35330,6 +35343,7 @@ feculences
 fecund
 fecundate
 fecundating
+fecundation
 fecundations
 fecundity
 fed
@@ -35543,6 +35557,7 @@ feoffment
 feoffments
 feoffor
 fer
+feracities
 feracity
 feral
 ferbam
@@ -43739,6 +43754,7 @@ hashheads
 hashing
 hashish
 hashishes
+haslet
 haslets
 hasp
 hasped
@@ -47088,6 +47104,7 @@ ichneumon
 ichneumons
 ichnite
 ichnolite
+ichnologies
 ichor
 ichorous
 ichthyofauna
@@ -48238,6 +48255,7 @@ incalescent
 incandesce
 incandescent
 incandescents
+incant
 incantation
 incantational
 incantations
@@ -52695,6 +52713,7 @@ keyster
 keysters
 keystone
 keystones
+keystrokes
 keyway
 keyways
 keyword
@@ -53773,6 +53792,7 @@ lamperses
 lamping
 lampion
 lamplight
+lamplighters
 lampoon
 lampooneries
 lampooners
@@ -61066,6 +61086,7 @@ miswrit
 miswrite
 miswrites
 miswriting
+miswritten
 misyoke
 misyoking
 mite
@@ -63769,6 +63790,7 @@ neologism
 neologist
 neologistic
 neologists
+neologize
 neologizing
 neology
 neomorphs
@@ -66304,6 +66326,7 @@ oceanographies
 oceanography
 oceanologies
 oceanologists
+oceans
 ocellate
 ocellated
 ocelli
@@ -68532,6 +68555,7 @@ outwriting
 outwritten
 outwrought
 outyell
+outyelled
 outyelling
 outyelped
 outyield
@@ -68971,6 +68995,7 @@ overgilding
 overgilds
 overgilt
 overgird
+overgirds
 overglad
 overglamorize
 overglamorized
@@ -69290,6 +69315,7 @@ overrepresented
 overrespond
 overridden
 override
+overrides
 overriding
 overrife
 overrigid
@@ -74683,6 +74709,7 @@ plumpening
 plumper
 plumping
 plumpish
+plumps
 plums
 plumular
 plumule
@@ -76222,6 +76249,7 @@ prebiological
 prebirth
 prebirths
 preblessed
+preblesses
 preblessing
 preboil
 preboiled
@@ -76514,6 +76542,7 @@ preerects
 prees
 preestablished
 preestablishes
+preestablishing
 preethical
 preexcites
 preexempt
@@ -86048,6 +86077,7 @@ rotis
 rotisseries
 rotls
 roto
+rotorcraft
 rotors
 rotos
 rototill
@@ -88253,6 +88283,7 @@ scouths
 scoutings
 scoutmaster
 scoutmasters
+scouts
 scow
 scowdered
 scowing
@@ -92065,6 +92096,7 @@ slipways
 slit
 slither
 slithered
+slithering
 slits
 slitted
 slitter
@@ -98249,6 +98281,7 @@ surfeiting
 surfer
 surfers
 surffishes
+surficial
 surfier
 surfings
 surfman
@@ -106738,6 +106771,7 @@ unmitring
 unmix
 unmixable
 unmixed
+unmixes
 unmixing
 unmixt
 unmodernized
@@ -107583,6 +107617,7 @@ upboiling
 upbore
 upbound
 upbow
+upbows
 upbraid
 upbraided
 upbraider
