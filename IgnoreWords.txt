@@ -4311,6 +4311,7 @@ aplombs
 apneas
 apnoea
 apnoeal
+apoapses
 apoapsis
 apocalypses
 apocalyptic
@@ -13589,6 +13590,7 @@ candlelights
 candlelit
 candlenuts
 candlepin
+candlepins
 candlepowers
 candler
 candlesnuffer
@@ -17968,6 +17970,7 @@ cockloft
 cocklofts
 cockney
 cockneyfying
+cockneyish
 cockneyisms
 cockneys
 cockpits
@@ -18040,6 +18043,7 @@ codebtors
 codecs
 coded
 codefendant
+codefendants
 codeinas
 codeine
 codeless
@@ -18960,6 +18964,7 @@ common
 commonage
 commonality
 commonalties
+commonalty
 commoner
 commonness
 commonnesses
@@ -19199,6 +19204,7 @@ complying
 compo
 compone
 component
+componential
 components
 compony
 comport
@@ -21568,6 +21574,7 @@ couthest
 couthie
 couture
 coutures
+couturiere
 couturiers
 couvades
 covalence
@@ -22644,6 +22651,7 @@ crystal
 crystalize
 crystalizes
 crystalizing
+crystalline
 crystallinities
 crystallinity
 crystallise
@@ -23680,6 +23688,7 @@ damneder
 damnedest
 damnedests
 damner
+damners
 damnified
 damnifying
 damning
@@ -31334,6 +31343,7 @@ empoison
 empoisoned
 empoisoning
 empoisons
+emporia
 emporium
 emporiums
 empowered
@@ -35328,6 +35338,7 @@ feazes
 feazing
 febricities
 febricity
+febrile
 febrilities
 febrility
 fecal
@@ -45578,6 +45589,7 @@ homogeneities
 homogeneity
 homogeneous
 homogenies
+homogenisation
 homogenisations
 homogenise
 homogenises
@@ -49262,6 +49274,7 @@ inhabitancy
 inhabitants
 inhabitation
 inhabits
+inhalational
 inhalators
 inhaler
 inhalers
@@ -57079,6 +57092,7 @@ magnet
 magnetically
 magnetics
 magnetise
+magnetised
 magnetises
 magnetising
 magnetisms
@@ -59528,6 +59542,7 @@ microanalytic
 microanatomies
 microbalance
 microbar
+microbarograph
 microbarographs
 microbe
 microbes
@@ -61630,6 +61645,7 @@ monolayers
 monolingual
 monolith
 monolithic
+monoliths
 monolog
 monologging
 monologists
@@ -63661,6 +63677,7 @@ needinesses
 needle
 needlefishes
 needlelike
+needlepoints
 needlers
 needles
 needless
@@ -67047,6 +67064,7 @@ opposers
 opposite
 oppositely
 oppositeness
+opposites
 opposition
 oppositionist
 oppositions
@@ -73549,6 +73567,7 @@ piddler
 piddlers
 piddly
 pidginization
+pidginizations
 pidginize
 pidginized
 pidginizes
@@ -75137,6 +75156,7 @@ polybutadienes
 polycarbonates
 polycarpies
 polycarpy
+polycentrism
 polychaete
 polychetes
 polychotomies
@@ -77070,6 +77090,7 @@ presignalling
 presignifying
 preslaughter
 presleep
+preslice
 presliced
 preslices
 preslicing
@@ -78269,6 +78290,7 @@ protector
 protectorate
 protectorates
 protectories
+protectors
 protectorship
 protectorships
 protectory
@@ -78582,6 +78604,7 @@ psoriatic
 psst
 pst
 psych
+psychasthenias
 psyche
 psyched
 psychedelia
@@ -79674,6 +79697,7 @@ quaysides
 qubit
 qubyte
 qubytes
+queasiest
 queasinesses
 queazy
 quebracho
@@ -79904,6 +79928,7 @@ quitters
 quitting
 quittor
 quittors
+quivered
 quiverers
 quiveringly
 quivers
@@ -82401,6 +82426,7 @@ refreshments
 refries
 refrigerant
 refrigerants
+refrigerate
 refrigerates
 refrigerating
 refrigeration
@@ -83268,6 +83294,7 @@ remonstrate
 remonstration
 remonstratively
 remonstrator
+remoras
 remorsefully
 remorsefulness
 remorseless
@@ -89304,6 +89331,7 @@ senecas
 senecio
 senecios
 senectitude
+senescences
 senescent
 seneschal
 sengi
@@ -91211,6 +91239,7 @@ similarities
 similarity
 simile
 similes
+similitude
 similitudes
 simioid
 simitar
@@ -93802,6 +93831,7 @@ spean
 speaned
 speaning
 speared
+spearer
 spearfish
 spearfished
 spearhead
@@ -98927,6 +98957,7 @@ symphonious
 symphoniously
 symphonist
 symphonists
+symphony
 symphyseal
 symphyses
 symphysis
@@ -99688,6 +99719,7 @@ tapper
 tapping
 taprooms
 taps
+tapsters
 taqueria
 taquerias
 taradiddle
@@ -105950,6 +105982,7 @@ understeering
 understood
 understory
 understrapper
+understrappers
 understrength
 understudies
 understudy
@@ -106661,6 +106694,7 @@ unleveling
 unlevels
 unlevied
 unliberated
+unlicensed
 unlikable
 unlikeliest
 unlikelihood
@@ -112642,6 +112676,7 @@ yawed
 yawing
 yawl
 yawling
+yawls
 yawn
 yawned
 yawner
