@@ -7259,6 +7259,7 @@ baptise
 baptises
 baptisia
 baptising
+baptism
 baptismal
 baptismally
 baptisms
@@ -14936,6 +14937,7 @@ cellmate
 cello
 cellobiose
 celloidin
+cellophane
 cellophanes
 cellphone
 cellphones
@@ -17736,6 +17738,7 @@ coatimundi
 coatimundis
 coatis
 coatless
+coatroom
 coats
 coattail
 coattails
@@ -18580,6 +18583,7 @@ colorful
 colorfulness
 colorfulnesses
 colorific
+colorimeter
 colorimeters
 colorimetric
 colorimetry
@@ -23559,6 +23563,7 @@ damndests
 damned
 damneder
 damnedest
+damnedests
 damner
 damnified
 damnifying
@@ -24838,6 +24843,7 @@ dejection
 dejects
 dejeuners
 dekagram
+dekagrams
 dekaliter
 dekalitres
 dekameter
@@ -27312,6 +27318,7 @@ discover
 discoverable
 discovered
 discoverer
+discoverers
 discoveries
 discovers
 discovert
@@ -27806,6 +27813,7 @@ disrelish
 disrelished
 disrelishes
 disremembered
+disremembering
 disremembers
 disreputability
 disreputable
@@ -31648,6 +31656,7 @@ engine
 engineer
 engineered
 engineering
+engineerings
 engineers
 engineries
 enginery
@@ -34729,6 +34738,7 @@ familism
 familisms
 familistic
 faming
+famished
 famishing
 famishment
 famously
@@ -40805,6 +40815,7 @@ gluelike
 gluepot
 gluers
 glues
+gluey
 glueyness
 glueynesses
 glug
@@ -42106,6 +42117,7 @@ groupers
 groupie
 groupies
 grouping
+groupoid
 groupoids
 groups
 groupthink
@@ -47306,6 +47318,7 @@ immaterializes
 immaterializing
 immature
 immatures
+immaturities
 immeasurable
 immediacy
 immediate
@@ -49666,6 +49679,7 @@ interchangeably
 interchanged
 interchanger
 interchangers
+interchannel
 interchurch
 intercity
 interclan
@@ -51290,6 +51304,7 @@ jauked
 jauking
 jauks
 jaunced
+jauncing
 jaundiced
 jaunt
 jaunted
@@ -54646,6 +54661,7 @@ lewd
 lewder
 lewdly
 lewdness
+lewis
 lewises
 lewisite
 lewisson
@@ -57483,6 +57499,7 @@ marchioness
 marchland
 marchlike
 marchpane
+marchpanes
 maremma
 margarine
 margarines
@@ -58278,6 +58295,7 @@ medusans
 medusas
 medusoid
 medusoids
+meed
 meeds
 meekest
 meekly
@@ -60634,6 +60652,7 @@ misspellings
 misspells
 misspend
 misspending
+misspends
 misstamp
 misstamped
 misstamping
@@ -61963,6 +61982,7 @@ movable
 movableness
 moveable
 moveables
+moveably
 moved
 moveless
 movelessly
@@ -63743,6 +63763,7 @@ nevoid
 nevus
 new
 newbies
+newborns
 newcomer
 newcomers
 newel
@@ -65126,6 +65147,7 @@ nonyl
 nonzero
 noo
 noodges
+noodled
 noodles
 noodling
 noogies
@@ -69684,6 +69706,7 @@ paleobiologies
 paleobiologist
 paleobiologists
 paleobiology
+paleobotanic
 paleocene
 paleoecologic
 paleoecological
@@ -70940,6 +70963,7 @@ pauperism
 pauperize
 pauperized
 pauperizing
+paupiettes
 pausal
 pause
 paused
@@ -72909,6 +72933,7 @@ phyllitic
 phyllo
 phylloclade
 phylloclades
+phyllode
 phyllodes
 phyllodium
 phylloid
@@ -76866,6 +76891,7 @@ previses
 prevising
 previsional
 previsioning
+previsions
 previsit
 previsited
 previsiting
@@ -77075,6 +77101,7 @@ prismoidal
 prisms
 prisoner
 prisoners
+prisoning
 priss
 prisses
 prissier
@@ -79337,6 +79364,7 @@ quiddity
 quids
 quiescence
 quiescent
+quiescently
 quiet
 quieteners
 quietens
@@ -80377,6 +80405,7 @@ reactively
 reactiveness
 reactivenesses
 reactivities
+reactivity
 reactor
 reactors
 readability
@@ -81145,6 +81174,7 @@ recounter
 recounters
 recounting
 recounts
+recoup
 recoupe
 recouped
 recouping
@@ -85846,6 +85876,7 @@ rubying
 rubylike
 ruches
 ruching
+ruck
 rucked
 ruckle
 ruckled
@@ -102211,6 +102242,7 @@ trackages
 trackball
 trackers
 tracking
+tracklayer
 tracklayers
 tracklaying
 trackman
@@ -103040,6 +103072,7 @@ triethyl
 trifacial
 trifacials
 trifectas
+trifid
 trifle
 trifled
 triflers
@@ -104360,6 +104393,7 @@ ukeleles
 ukulele
 ulama
 ulamas
+ulan
 ulans
 ulcer
 ulcerate
@@ -109401,6 +109435,7 @@ wabble
 wabbled
 wabbler
 wabblers
+wabbles
 wabblier
 wack
 wacke
