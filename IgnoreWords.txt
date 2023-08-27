@@ -5134,6 +5134,7 @@ arrowhead
 arrowing
 arrowless
 arrowlike
+arrowwood
 arrowwoods
 arrowworm
 arrowworms
@@ -7622,6 +7623,7 @@ bassness
 bassnesses
 basso
 bassoon
+bassoonists
 bassoons
 bassos
 bassy
@@ -11462,6 +11464,7 @@ brawest
 brawlier
 brawling
 brawls
+brawly
 brawn
 brawnier
 brawniest
@@ -16680,6 +16683,7 @@ churlishly
 churlishnesses
 churls
 churned
+churner
 churning
 churnings
 churns
@@ -19797,6 +19801,7 @@ conjunctivae
 conjunctival
 conjunctivas
 conjunctive
+conjunctives
 conjuncture
 conjunctures
 conjuntos
@@ -20130,6 +20135,7 @@ contemnor
 contemnors
 contemplate
 contemplation
+contemplative
 contemplatively
 contemplatives
 contemplators
@@ -29500,6 +29506,7 @@ dryland
 dryly
 drynesses
 dryopithecine
+dryopithecines
 drypoints
 drys
 drysalter
@@ -34000,6 +34007,7 @@ expatriations
 expatriatism
 expatriatisms
 expectably
+expectance
 expectative
 expected
 expectedly
@@ -36458,6 +36466,7 @@ flamingly
 flamingo
 flammabilities
 flammable
+flammables
 flamming
 flamy
 flan
@@ -41271,6 +41280,7 @@ gonocytes
 gonofs
 gonophore
 gonophores
+gonopores
 gonorrhea
 gonorrheal
 gonorrheas
@@ -42970,6 +42980,7 @@ haggled
 haggler
 hagglers
 haggles
+hagiarchies
 hagiarchy
 hagiographers
 hagiographical
@@ -44668,6 +44679,7 @@ hesitators
 hesperidin
 hesperidins
 hesperidium
+hessians
 hessonite
 hessonites
 hest
@@ -46931,6 +46943,7 @@ hypothesizing
 hypothetically
 hypothyroidism
 hypotonia
+hypotonias
 hypotonicity
 hypoxemia
 hypoxemic
@@ -47578,6 +47591,7 @@ immunogenetics
 immunogenic
 immunogenicity
 immunogens
+immunoglobulin
 immunologic
 immunologically
 immunologies
@@ -51182,6 +51196,7 @@ itemised
 itemises
 itemizations
 itemize
+itemized
 itemizer
 itemizers
 itemizes
@@ -51923,6 +51938,7 @@ joylessness
 joylessnesses
 joyous
 joyousnesses
+joypopped
 joypopper
 joypopping
 joypops
@@ -52674,6 +52690,7 @@ kickers
 kickier
 kicking
 kickoff
+kicks
 kickshaw
 kickstart
 kickstarted
@@ -59531,6 +59548,7 @@ micropipettes
 microplankton
 microplanktons
 micropore
+microporosities
 microporosity
 microprisms
 microprobes
@@ -62802,6 +62820,7 @@ muticous
 mutilated
 mutilating
 mutilations
+mutilator
 mutilators
 mutined
 mutineer
@@ -70627,6 +70646,7 @@ paretics
 pareve
 parfait
 parfleches
+parflesh
 parfocal
 parfocality
 parfocalized
@@ -72898,6 +72918,7 @@ phosphines
 phosphins
 phosphite
 phosphites
+phosphokinase
 phosphokinases
 phospholipase
 phospholipid
@@ -74335,6 +74356,7 @@ pleasers
 pleases
 pleasingly
 pleasingness
+pleasurability
 pleasurable
 pleasurableness
 pleasurably
@@ -74835,6 +74857,7 @@ poleis
 poleless
 polemically
 polemicist
+polemicize
 polemicized
 polemicizing
 polemics
@@ -75045,6 +75068,7 @@ polyhedroses
 polyhedrosis
 polyhistor
 polyhistoric
+polyimide
 polyimides
 polylysine
 polylysines
@@ -81573,6 +81597,7 @@ reddens
 redder
 reddish
 reddishness
+reddishnesses
 reddle
 reddled
 reddles
@@ -84152,6 +84177,7 @@ restage
 restaged
 restaging
 restamp
+restamping
 restamps
 restartable
 restarted
@@ -88591,6 +88617,7 @@ secret
 secretagogues
 secretariats
 secretary
+secretaryship
 secreted
 secretest
 secretin
@@ -91515,6 +91542,7 @@ skullcap
 skullcaps
 skullduggeries
 skulls
+skunk
 skunked
 skunkier
 skunking
@@ -92568,6 +92596,7 @@ snowmold
 snowmolds
 snowpacks
 snowplow
+snowplowed
 snowplowing
 snowplows
 snows
@@ -98998,6 +99027,7 @@ tableting
 tabletop
 tablets
 tabletted
+tabletting
 taboo
 tabooed
 tabooing
@@ -103814,6 +103844,7 @@ truanting
 truantly
 truantries
 truants
+truce
 truced
 truces
 trucing
@@ -107117,6 +107148,7 @@ unsuccess
 unsuccesses
 unsuitabilities
 unsuitability
+unsuitably
 unsuited
 unsullied
 unsunk
@@ -107918,6 +107950,7 @@ vacationist
 vacationlands
 vaccinas
 vaccinated
+vaccinates
 vaccinations
 vaccinator
 vaccinators
@@ -108065,6 +108098,7 @@ valuta
 valutas
 valvar
 valvate
+valve
 valveless
 valvelets
 valvelike
@@ -110793,6 +110827,7 @@ wheel
 wheelbarrow
 wheelbarrowed
 wheelbarrowing
+wheelbarrows
 wheelbase
 wheelchairs
 wheeled
