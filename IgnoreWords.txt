@@ -307,6 +307,7 @@ accipitrines
 acclaimed
 acclaimer
 acclaiming
+acclaims
 acclamation
 acclamations
 acclimated
@@ -4620,6 +4621,7 @@ approving
 approvingly
 approximate
 approximated
+approximately
 approximating
 approximation
 approximations
@@ -5355,6 +5357,7 @@ ashed
 ashen
 ashes
 ashfall
+ashfalls
 ashier
 ashiness
 ashinesses
@@ -10942,6 +10945,7 @@ borborygmi
 bordeaux
 bordel
 bordello
+bordellos
 border
 bordereaux
 bordering
@@ -13319,6 +13323,7 @@ caliper
 calipers
 caliph
 caliphal
+caliphates
 calisayas
 calisthenic
 calix
@@ -13632,6 +13637,7 @@ candlepin
 candlepins
 candlepowers
 candler
+candles
 candlesnuffer
 candlesnuffers
 candlestick
@@ -21385,6 +21391,7 @@ countenances
 countenancing
 counter
 counteracting
+counteraction
 counteractions
 counteracts
 counteragents
@@ -21755,6 +21762,7 @@ cowrites
 cowriting
 cowrote
 cows
+cowskin
 cowslip
 cowslips
 cowy
@@ -22185,6 +22193,7 @@ cresset
 cressets
 crest
 crestal
+crestfallenness
 crestings
 crestless
 crests
@@ -22297,6 +22306,7 @@ cripes
 crippled
 cripples
 crippling
+cripplingly
 cris
 crisic
 crisis
@@ -27689,6 +27699,7 @@ disfurnish
 disfurnished
 disfurnishes
 disfurnishing
+disfurnishment
 disfurnishments
 disgorged
 disgorging
@@ -32144,6 +32155,7 @@ ensign
 ensigncies
 ensigncy
 ensigns
+ensilage
 ensilages
 ensiled
 ensiles
@@ -36657,6 +36669,7 @@ flamingo
 flammabilities
 flammable
 flammables
+flammed
 flamming
 flamy
 flan
@@ -43318,6 +43331,7 @@ halflives
 halfpence
 halfpennies
 halfpenny
+halfpipe
 halfpipes
 halftimes
 halftone
@@ -43551,6 +43565,7 @@ handprints
 handrails
 handsaw
 handsaws
+handsel
 handseled
 handselled
 handselling
@@ -46361,6 +46376,7 @@ huckstered
 huckstering
 hucksterisms
 hucksters
+huddled
 huddler
 huddling
 hued
@@ -49615,6 +49631,7 @@ inoperable
 inoperative
 inoperativeness
 inoperculates
+inopportune
 inopportunely
 inorganic
 inorganically
@@ -50612,6 +50629,7 @@ intombs
 intonating
 intonational
 intonations
+intone
 intoner
 intoners
 intoning
@@ -54277,6 +54295,7 @@ latest
 latewoods
 latexes
 lath
+lathe
 lather
 latherer
 lathering
@@ -57110,6 +57129,7 @@ macroscopic
 macroscopically
 macrostructural
 macrostructure
+macrostructures
 macrural
 macruran
 macrurans
@@ -58752,6 +58772,7 @@ medleys
 medulla
 medullae
 medullar
+medullary
 medullas
 medullated
 medusa
@@ -62455,6 +62476,7 @@ mousy
 mouthbreeder
 mouthbreeders
 mouthed
+mouthers
 mouthfeel
 mouthfeels
 mouthfuls
@@ -62892,6 +62914,7 @@ mungooses
 municipalities
 municipality
 municipalize
+municipalized
 municipalizes
 municipalizing
 municipally
@@ -63747,6 +63770,7 @@ neap
 near
 nearby
 neared
+nearer
 nearest
 nearing
 nearlier
@@ -64574,6 +64598,7 @@ nipas
 nipped
 nippers
 nippiest
+nippily
 nippiness
 nippinesses
 nippingly
@@ -65681,6 +65706,7 @@ nookie
 nookies
 nooks
 noonday
+noonings
 noons
 noontide
 noontides
@@ -67515,6 +67541,7 @@ orientalism
 orientalisms
 orientalist
 orientalize
+orientalized
 orientalizes
 orientally
 orientals
@@ -68968,6 +68995,7 @@ overcolors
 overcomer
 overcomers
 overcommit
+overcommitment
 overcommits
 overcommitted
 overcommitting
@@ -75830,6 +75858,7 @@ portless
 portlier
 portliest
 portlinesses
+portly
 portmanteaux
 portraitist
 portraitists
@@ -76965,6 +76994,7 @@ prelunch
 preluncheon
 prelusions
 prelusive
+prelusively
 prelusory
 premade
 preman
@@ -85858,6 +85888,7 @@ riprapping
 ripraps
 rips
 ripsawed
+ripsawing
 ripsawn
 ripsnorter
 ripsnorters
@@ -98594,6 +98625,7 @@ surfier
 surfings
 surfman
 surfs
+surfside
 surged
 surgeon
 surgeries
@@ -99160,6 +99192,7 @@ syllables
 syllabling
 syllabub
 syllabubs
+syllabus
 syllabuses
 syllepses
 syllogisms
@@ -100014,6 +100047,7 @@ tarantism
 tarantisms
 tarantist
 tarantists
+tarantulas
 tarboosh
 tarbush
 tarbushes
@@ -100638,6 +100672,7 @@ temperances
 temperas
 temperate
 temperately
+temperateness
 temperature
 temperatures
 tempered
