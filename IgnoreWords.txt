@@ -1385,6 +1385,7 @@ affix
 affixable
 affixal
 affixation
+affixer
 affixers
 affixial
 affixing
@@ -5211,6 +5212,7 @@ arthralgia
 arthralgias
 arthralgic
 arthritic
+arthritically
 arthritis
 arthrodeses
 arthrodesis
@@ -14574,6 +14576,7 @@ casque
 casqued
 casques
 cassaba
+cassabas
 cassata
 cassation
 cassations
@@ -20155,6 +20158,7 @@ conspirators
 conspired
 conspirer
 conspirers
+conspiring
 constabularies
 constabulary
 constant
@@ -22973,6 +22977,7 @@ cumbrances
 cumbrous
 cumbrousnesses
 cumin
+cummerbund
 cummin
 cummins
 cumquat
@@ -25133,6 +25138,7 @@ dele
 delead
 deleading
 deleaved
+deleaving
 delectabilities
 delectability
 delectable
@@ -25663,6 +25669,7 @@ depicters
 depicting
 depictions
 depictor
+depictors
 depigmentation
 depilated
 depilator
@@ -25979,6 +25986,7 @@ deservings
 desexed
 desexualization
 desexualize
+desexualized
 desexualizes
 deshabille
 deshabilles
@@ -26854,6 +26862,7 @@ diestrum
 diestrums
 diestrus
 diestruses
+diet
 dietary
 dieted
 dieter
@@ -27694,6 +27703,7 @@ disenchants
 disencumbered
 disencumbering
 disencumbers
+disendow
 disendowed
 disendowers
 disendowing
@@ -31088,6 +31098,7 @@ elodeas
 eloigned
 eloigner
 eloigning
+eloined
 eloiners
 eloinment
 eloinments
@@ -31309,6 +31320,7 @@ embrittle
 embrittled
 embrittles
 embrocate
+embrocated
 embrocates
 embrocating
 embrocation
@@ -39572,6 +39584,7 @@ galyak
 galyaks
 gam
 gamay
+gamays
 gamb
 gamba
 gambades
@@ -39835,6 +39848,7 @@ garrulously
 garrulousness
 garrulousnesses
 gartered
+gartering
 garters
 gas
 gasaliers
@@ -43521,6 +43535,7 @@ hamadryades
 hamadryads
 hamadryases
 hamal
+hamantasch
 hamantaschen
 hamate
 hamauls
@@ -46484,6 +46499,7 @@ hugs
 huh
 huic
 huipil
+huipiles
 huisache
 huisaches
 hulk
@@ -54188,6 +54204,7 @@ lankier
 lankiest
 lankily
 lankiness
+lankinesses
 lankness
 lanknesses
 lanner
@@ -56260,6 +56277,7 @@ lodging
 lodgments
 lodicule
 lodicules
+loess
 loesses
 loessial
 lofted
@@ -64912,6 +64930,7 @@ nominals
 nominating
 nomination
 nominations
+nominatives
 nominator
 nominators
 nominee
@@ -66423,6 +66442,7 @@ objections
 objective
 objectiveness
 objectivenesses
+objectives
 objectivism
 objectivisms
 objectivist
@@ -70004,6 +70024,7 @@ overwrote
 overzeal
 overzealous
 overzealousness
+overzeals
 ovibos
 ovicide
 oviducal
@@ -79399,6 +79420,7 @@ puniest
 puniness
 puninesses
 punishability
+punished
 punisher
 punishers
 punishes
@@ -79410,6 +79432,7 @@ punitions
 punitive
 punitiveness
 punji
+punjis
 punk
 punka
 punkah
@@ -80136,6 +80159,7 @@ queens
 queenships
 queenside
 queensides
+queered
 queerer
 queerest
 queerish
@@ -83511,6 +83535,7 @@ relinked
 relinking
 relinks
 relinquish
+relinquishes
 relinquishing
 relinquishment
 relique
@@ -84995,6 +85020,7 @@ retaxing
 retched
 retches
 retching
+rete
 reteaching
 reteam
 reteamed
@@ -91099,6 +91125,7 @@ shorting
 shortish
 shortlist
 shortlisted
+shortlisting
 shortlists
 shortly
 shortness
@@ -92004,6 +92031,7 @@ skatol
 skatole
 skatoles
 skatols
+skats
 skean
 skeane
 skeanes
@@ -95247,6 +95275,7 @@ squashers
 squashes
 squashier
 squashiest
+squashily
 squashiness
 squashing
 squat
@@ -97571,6 +97600,7 @@ subraces
 subregion
 subrent
 subrents
+subreption
 subreptions
 subreptitiously
 subrogating
@@ -97760,6 +97790,7 @@ subtly
 subtone
 subtonic
 subtopia
+subtopias
 subtopic
 subtorrid
 subtotal
@@ -99892,6 +99923,7 @@ tailers
 tailfans
 tailfins
 tailgate
+tailgater
 tailing
 taillamps
 taille
@@ -104569,6 +104601,7 @@ troutiest
 trouty
 trouvere
 trouveres
+trouveur
 trove
 trowed
 trowel
@@ -112340,6 +112373,7 @@ wise
 wiseasses
 wisecrack
 wiseguy
+wiseguys
 wiselier
 wisely
 wisenheimer
@@ -113080,6 +113114,7 @@ xerophytisms
 xerosere
 xeroseres
 xeroses
+xerosis
 xerothermic
 xerox
 xeroxing
