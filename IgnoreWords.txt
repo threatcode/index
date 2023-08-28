@@ -3855,6 +3855,7 @@ antigene
 antigenic
 antigenically
 antigenicities
+antigens
 antiglare
 antiglobulins
 antigraft
@@ -9674,6 +9675,7 @@ biscotto
 biscuit
 bise
 bisect
+bisected
 bisecting
 bisection
 bisectional
@@ -19283,6 +19285,7 @@ completion
 completive
 complex
 complexations
+complexer
 complexes
 complexest
 complexified
@@ -21241,6 +21244,7 @@ coseismals
 coses
 coset
 cosey
+cosher
 coshered
 coshering
 coshers
@@ -26450,6 +26454,7 @@ dewars
 dewaterers
 dewaters
 dewax
+dewaxed
 dewaxes
 dewberries
 dewberry
@@ -36532,6 +36537,7 @@ firmer
 firmers
 firmest
 firming
+firmly
 firmness
 firmnesses
 firms
@@ -39388,6 +39394,7 @@ gadgets
 gadi
 gadid
 gadids
+gadje
 gadolinites
 gadoliniums
 gadroon
@@ -42348,6 +42355,7 @@ griddling
 gride
 griding
 gridiron
+gridironed
 gridironing
 gridlocking
 gridlocks
@@ -46715,6 +46723,7 @@ hurraying
 hurricane
 hurricanes
 hurried
+hurriedly
 hurriedness
 hurriers
 hurries
@@ -48640,6 +48649,7 @@ incising
 incisions
 incisive
 incisivenesses
+incisors
 incisory
 incisure
 incisures
@@ -50008,6 +50018,7 @@ instants
 instarring
 instate
 instated
+instates
 instating
 instauration
 instaurations
@@ -61767,6 +61778,7 @@ molybdous
 mom
 momenta
 momentarily
+momentarinesses
 momentary
 momently
 momentous
@@ -62396,6 +62408,7 @@ mortgagors
 mortice
 morticed
 mortices
+mortician
 mortification
 mortifications
 mortified
@@ -65332,6 +65345,7 @@ nonexpendable
 nonexperimental
 nonexpert
 nonexperts
+nonexplanatory
 nonexploitation
 nonexploitive
 nonexposed
@@ -66861,6 +66875,7 @@ odontoids
 odorant
 odorants
 odorful
+odoriferous
 odoriferously
 odoriferousness
 odorizes
@@ -67099,6 +67114,7 @@ olfactories
 olfactory
 olibanum
 olibanums
+oligarchic
 oligarchy
 oligochaete
 oligochaetes
@@ -70675,6 +70691,7 @@ palynologies
 palynologist
 palynologists
 palynology
+pam
 pampa
 pampas
 pampean
@@ -71752,6 +71769,7 @@ patty
 pattypans
 patulent
 patulous
+patzer
 paucities
 paucity
 paulin
@@ -72308,6 +72326,7 @@ pennis
 pennon
 pennoncel
 pennoncels
+pennoned
 pennons
 penny
 pennycress
@@ -73786,6 +73805,7 @@ phylogenetic
 phylogenies
 phylogeny
 phylon
+phylum
 physed
 physeds
 physiatries
@@ -80976,6 +80996,7 @@ rankish
 rankle
 rankled
 ranpike
+ransacked
 ransacking
 ransacks
 ransom
@@ -81515,6 +81536,7 @@ rearrested
 rearrests
 rears
 rearticulate
+rearticulated
 rearticulates
 reascend
 reascended
@@ -84028,6 +84050,7 @@ reparably
 reparation
 reparking
 reparks
+repartee
 repartees
 repartition
 repartitions
@@ -85225,6 +85248,7 @@ retreating
 retreats
 retrench
 retrenches
+retrenchment
 retrial
 retrials
 retributory
@@ -86699,6 +86723,7 @@ roulades
 rouletted
 roulettes
 rouletting
+roundaboutness
 roundballs
 rounded
 roundednesses
@@ -87352,6 +87377,7 @@ sagenesses
 sager
 saggar
 saggard
+saggards
 saggared
 saggaring
 saggars
@@ -89668,6 +89694,7 @@ selvedges
 selves
 semainiers
 semanteme
+semantemes
 semantic
 semantically
 semanticists
@@ -90124,6 +90151,7 @@ sergeant
 sergeants
 serged
 serger
+sergers
 serging
 serial
 serialised
@@ -97759,6 +97787,7 @@ subspecific
 substage
 substages
 substantial
+substantiality
 substantially
 substantialness
 substantiate
@@ -102251,6 +102280,7 @@ tictacked
 tictacking
 tictacs
 tictocking
+tidal
 tidally
 tidbit
 tiddledywinks
@@ -102559,6 +102589,7 @@ titanias
 titanic
 titaniferous
 titanism
+titanisms
 titanite
 titanium
 titaniums
@@ -106261,6 +106292,7 @@ uncomputerized
 unconcealed
 unconceivable
 unconcern
+unconcerned
 unconcernedly
 unconcernedness
 unconditional
@@ -107811,6 +107843,7 @@ unseamed
 unseaming
 unsearchable
 unsearchably
+unseared
 unseasonably
 unseat
 unseats
@@ -109988,6 +110021,7 @@ vinasses
 vinblastines
 vinca
 vincible
+vincibly
 vincula
 vinculum
 vinculums
@@ -113161,6 +113195,7 @@ xenophile
 xenophobe
 xenophobia
 xenophobic
+xenophobically
 xenopus
 xenopuses
 xenotropic
