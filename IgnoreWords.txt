@@ -1611,6 +1611,7 @@ aghas
 aghast
 agileness
 agilenesses
+agin
 aging
 agings
 aginners
@@ -6424,6 +6425,7 @@ aviculture
 avicultures
 aviculturist
 avid
+avidities
 avidnesses
 avifauna
 avifaunae
@@ -8302,6 +8304,7 @@ beggarly
 beggars
 begging
 begin
+beginners
 beginning
 begirded
 begirdled
@@ -12606,6 +12609,7 @@ burgher
 burghs
 burglar
 burglariously
+burglarize
 burglarized
 burglarizing
 burglarproof
@@ -15781,6 +15785,7 @@ chaseable
 chased
 chaser
 chasers
+chases
 chasings
 chasmal
 chasmed
@@ -15819,6 +15824,7 @@ chatelain
 chatelaine
 chatelaines
 chatelains
+chatoyancy
 chatoyant
 chatoyants
 chatrooms
@@ -16281,6 +16287,7 @@ chintzier
 chintziest
 chintzy
 chinwagging
+chinwags
 chionodoxa
 chionodoxas
 chip
@@ -23389,6 +23396,7 @@ cyberneticians
 cyberneticist
 cyberneticists
 cybernetics
+cyberporn
 cyberporns
 cyberpunk
 cyberpunks
@@ -37753,6 +37761,7 @@ forbearing
 forbears
 forbid
 forbidals
+forbidder
 forbids
 forbode
 forboded
@@ -37860,6 +37869,7 @@ forelegs
 forelimb
 forelocked
 forelocking
+foreman
 foremanship
 foremanships
 foremast
@@ -41257,6 +41267,7 @@ glutinous
 glutinously
 gluts
 glutted
+glutting
 gluttonies
 gluttons
 glycan
@@ -46828,6 +46839,7 @@ hydromechanics
 hydromedusa
 hydromel
 hydromels
+hydrometallurgy
 hydrometeor
 hydrometeors
 hydrometer
@@ -47617,6 +47629,7 @@ illogics
 illude
 illuded
 illuding
+illumed
 illuminable
 illuminance
 illuminances
@@ -48365,6 +48378,7 @@ inadequacy
 inadequateness
 inadmissibility
 inadmissible
+inadmissibly
 inadvertence
 inadvertences
 inadvertencies
@@ -51774,6 +51788,7 @@ jarheads
 jarina
 jarinas
 jarl
+jarldom
 jarlsberg
 jarosite
 jarovized
@@ -55801,6 +55816,7 @@ liquefying
 liqueur
 liqueurs
 liquid
+liquidambar
 liquidambars
 liquidates
 liquidating
@@ -58550,6 +58566,7 @@ maun
 maund
 maunder
 maundered
+maunderer
 maunderers
 maunders
 maundy
@@ -60976,6 +60993,7 @@ misjudging
 misjudgment
 miskals
 miskeep
+miskept
 miskick
 misknew
 misknow
@@ -62132,6 +62150,7 @@ moosebird
 moosewood
 moot
 mooter
+mooters
 mootnesses
 moots
 mopboard
@@ -64446,6 +64465,7 @@ newsrooms
 newsstand
 newsstands
 newsweeklies
+newswire
 newswomen
 newsworthy
 newswriting
@@ -73593,6 +73613,7 @@ phototaxis
 phototaxy
 phototelegraphy
 phototoxic
+phototoxicities
 phototubes
 phototype
 phototypes
@@ -73610,6 +73631,7 @@ phrasemaking
 phrasemakings
 phrasemonger
 phrasemongering
+phraseologists
 phrases
 phrasing
 phreaker
@@ -80003,6 +80025,7 @@ quartan
 quartans
 quarte
 quarter
+quarterback
 quarterbacked
 quarterbacking
 quarterbacks
@@ -80569,6 +80592,7 @@ radiotelephone
 radiotelephones
 radiotherapies
 radiotherapist
+radiotherapy
 radiothoriums
 radishes
 radiums
@@ -81087,6 +81111,7 @@ raunchiness
 raunchinesses
 rauwolfias
 ravaged
+ravagement
 ravagements
 ravager
 ravages
@@ -84044,6 +84069,7 @@ replot
 replots
 replow
 replowing
+replows
 replumbing
 replumbs
 replunges
@@ -84349,6 +84375,7 @@ resaws
 resaying
 rescale
 rescales
+rescaling
 reschedule
 rescheduling
 reschool
@@ -88905,6 +88932,7 @@ scrubbily
 scrubby
 scrublands
 scrubwoman
+scruffiest
 scruffiness
 scruffinesses
 scruffy
@@ -88919,6 +88947,7 @@ scrunchie
 scrunchies
 scrunching
 scruples
+scrupling
 scrupulosity
 scrupulousness
 scrutable
@@ -90863,6 +90892,7 @@ shitakes
 shitless
 shitloads
 shittah
+shittahs
 shittier
 shittims
 shittimwoods
@@ -94995,6 +95025,7 @@ sprawls
 sprawly
 sprayer
 sprayers
+spraying
 sprays
 spread
 spreadabilities
@@ -97276,6 +97307,7 @@ subgovernments
 subgrade
 subgrades
 subgraph
+subgrouping
 subgroups
 subgum
 subhead
@@ -105800,6 +105832,7 @@ unbelligerent
 unbelted
 unbelting
 unbelts
+unbendable
 unbending
 unbenign
 unbent
@@ -112619,6 +112652,7 @@ wooralis
 woorari
 woos
 woosh
+wooshed
 woozier
 woozily
 woozinesses
@@ -112818,6 +112852,7 @@ wreakers
 wreaking
 wreaks
 wreathe
+wreathed
 wreather
 wreathers
 wreathes
