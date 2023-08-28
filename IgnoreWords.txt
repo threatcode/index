@@ -250,6 +250,7 @@ accelerating
 acceleration
 accelerations
 accelerative
+accelerator
 accelerators
 accelerometer
 accented
@@ -7802,6 +7803,7 @@ bawcocks
 bawd
 bawdier
 bawdies
+bawdiest
 bawdric
 bawdrics
 bawdry
@@ -18505,6 +18507,7 @@ collaborator
 collage
 collagenase
 collagenases
+collagenous
 collagens
 collages
 collagist
@@ -20406,6 +20409,7 @@ controls
 controversial
 controversially
 controversies
+controversy
 controvert
 controverter
 controverters
@@ -26806,6 +26810,7 @@ differentness
 differs
 difficile
 difficulties
+difficulty
 diffidence
 diffident
 diffracted
@@ -27217,6 +27222,7 @@ directories
 directors
 directorship
 directory
+directress
 directrice
 directrices
 directrixes
@@ -27701,6 +27707,7 @@ dishabille
 disharmonies
 disharmonious
 disharmonize
+disharmonized
 disharmonizes
 disharmonizing
 dishclout
@@ -30568,6 +30575,7 @@ eerinesses
 eery
 effaceable
 effacer
+effacers
 effaces
 effacing
 effect
@@ -32477,6 +32485,7 @@ ephoral
 ephorates
 ephori
 ephors
+epiblast
 epiblastic
 epiblasts
 epibolies
@@ -37189,6 +37198,7 @@ fluidextracts
 fluidics
 fluidise
 fluidises
+fluidising
 fluidities
 fluidity
 fluidization
@@ -37585,6 +37595,7 @@ footles
 footlessness
 footlessnesses
 footlights
+footlike
 footling
 footlocker
 footlockers
@@ -38242,6 +38253,7 @@ fragile
 fragilely
 fragilities
 fragment
+fragmental
 fragmentally
 fragmentarily
 fragmentariness
@@ -48388,6 +48400,7 @@ incapacitation
 incapacitations
 incapacity
 incarcerate
+incarcerated
 incarcerates
 incarcerating
 incarceration
@@ -51247,6 +51260,7 @@ isochimes
 isochor
 isochores
 isochromosome
+isochromosomes
 isochronally
 isochrone
 isochrones
@@ -56494,6 +56508,7 @@ lovelocks
 lovelorn
 lovelornness
 lovely
+lovemakers
 lovemaking
 lovemakings
 lover
@@ -57525,6 +57540,7 @@ mama
 mamaliga
 mambas
 mambo
+mamboed
 mamboes
 mamboing
 mamelukes
@@ -58342,6 +58358,7 @@ mathematization
 mathematize
 mathematized
 mathematizes
+mathematizing
 maths
 matiest
 matilda
@@ -65119,6 +65136,7 @@ nonfluids
 nonfluorescent
 nonflying
 nonfocal
+nonforfeitable
 nonforfeiture
 nonforfeitures
 nonformal
@@ -65660,6 +65678,7 @@ norethindrones
 nori
 noria
 noris
+norite
 norites
 norland
 norlands
@@ -66831,8 +66850,10 @@ oleins
 oleo
 oleograph
 oleographs
+oleomargarine
 oleoresin
 oleoresins
+oleos
 oles
 olestra
 olestras
@@ -67930,6 +67951,7 @@ outburned
 outburning
 outburns
 outburst
+outbursts
 outbuying
 outbye
 outcall
@@ -69583,6 +69605,7 @@ oversoak
 oversoaked
 oversoaks
 oversoft
+oversoon
 oversoul
 oversouls
 overspecialize
@@ -73737,6 +73760,7 @@ pidginized
 pidginizes
 pidgins
 pie
+piebald
 piebalds
 piece
 pieced
@@ -74706,6 +74730,7 @@ pledgers
 pledges
 pledget
 pledgets
+pledging
 pledgor
 pledgors
 pleiad
@@ -75743,6 +75768,7 @@ portals
 portamenti
 portamento
 portance
+portances
 portapak
 portapaks
 portative
@@ -77562,6 +77588,7 @@ priggery
 prigging
 priggish
 priggishly
+priggishness
 priggism
 priggisms
 prigs
@@ -77674,6 +77701,7 @@ priorities
 prioritization
 prioritizations
 prioritize
+prioritizes
 prioritizing
 priority
 priors
@@ -79811,6 +79839,7 @@ quarries
 quarrying
 quarryings
 quarryman
+quart
 quartan
 quartans
 quarte
@@ -84332,6 +84361,7 @@ residuary
 residue
 residuum
 residuums
+resift
 resifted
 resifting
 resifts
@@ -99647,6 +99677,7 @@ takahe
 takahes
 take
 takeable
+takeaways
 takedown
 taken
 takeoff
@@ -101385,6 +101416,7 @@ thiazole
 thiazoles
 thiazols
 thick
+thicken
 thickened
 thickeners
 thickening
@@ -102384,6 +102416,7 @@ tolerant
 tolerantly
 tolerated
 toleration
+tolerative
 tolerators
 toles
 tolidin
@@ -112183,6 +112216,7 @@ woefulnesses
 woful
 wofuller
 wofullest
+wofully
 wog
 woggish
 wogs
@@ -112702,6 +112736,7 @@ wyte
 wytes
 wyting
 wyvern
+wyverns
 xanthan
 xanthate
 xanthein
