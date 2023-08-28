@@ -5106,6 +5106,7 @@ arrack
 arracks
 arraigned
 arraigner
+arraigning
 arraignment
 arraignments
 arrange
@@ -9697,6 +9698,7 @@ bistro
 bisulfate
 bisulfates
 bisulfide
+bisulfides
 bisulfites
 bit
 bitable
@@ -13003,6 +13005,7 @@ cabernets
 cabers
 cabestro
 cabestros
+cabezon
 cabezone
 cabezones
 cabezons
@@ -15282,6 +15285,7 @@ ceramist
 cerastes
 cerated
 cerates
+ceratins
 ceratodus
 ceratoduses
 ceratoid
@@ -16238,6 +16242,7 @@ chimerism
 chimerisms
 chimers
 chiming
+chimley
 chimleys
 chimney
 chimneylike
@@ -17324,6 +17329,7 @@ classons
 classy
 clast
 clastic
+clastics
 clasts
 clathrate
 clattered
@@ -24575,6 +24581,7 @@ decongestive
 decongests
 deconsecrate
 deconsecrated
+deconsecrates
 deconstruct
 deconstructing
 deconstructive
@@ -26741,6 +26748,7 @@ dichroite
 dichroites
 dichromat
 dichromates
+dichromatism
 dichromatisms
 dichromic
 dichroscopes
@@ -30448,6 +30456,7 @@ ecofeminisms
 ecologic
 ecological
 ecologically
+ecologies
 ecologist
 ecologists
 ecology
@@ -31118,6 +31127,7 @@ elute
 elutes
 eluting
 elution
+elutriates
 elutriating
 elutriation
 elutriations
@@ -37226,6 +37236,7 @@ flowerage
 flowered
 flowerer
 flowerers
+floweret
 flowerette
 flowerettes
 flowerful
@@ -39754,6 +39765,7 @@ gardenias
 gardens
 garderobe
 garderobes
+gardyloo
 garfish
 garganey
 gargantua
@@ -40258,6 +40270,7 @@ genoms
 genotype
 genre
 genres
+gens
 genseng
 gentamicins
 genteel
@@ -40329,6 +40342,7 @@ geodesies
 geodesists
 geodesy
 geodetic
+geodetical
 geodetics
 geognosies
 geographer
@@ -42808,6 +42822,7 @@ guiltiest
 guiltily
 guiltinesses
 guiltless
+guiltlessly
 guiltlessnesses
 guilty
 guimpe
@@ -48417,6 +48432,7 @@ inapproachable
 inappropriate
 inappropriately
 inaptitude
+inaptitudes
 inaptness
 inaptnesses
 inarable
@@ -50499,6 +50515,7 @@ interposed
 interposers
 interposes
 interposing
+interposition
 interpositions
 interpret
 interpretable
@@ -56043,6 +56060,7 @@ livres
 lixivia
 lixiviate
 lixiviated
+lixiviation
 lixiviations
 lixivium
 lixiviums
@@ -56368,6 +56386,7 @@ longan
 longanimities
 longanimity
 longbow
+longcloth
 longcloths
 longe
 longeing
@@ -56492,6 +56511,7 @@ loquaciously
 loquats
 loral
 loran
+lorans
 lorazepam
 lorazepams
 lordings
@@ -59029,6 +59049,7 @@ meliorisms
 meliorists
 melisma
 melismata
+melismatic
 mell
 mellific
 mellifluent
@@ -59598,6 +59619,7 @@ metathetic
 metathetical
 metathoraces
 metathoracic
+metathorax
 metaxylem
 metaxylems
 metazoa
@@ -68407,6 +68429,7 @@ outlain
 outlandish
 outlast
 outlasts
+outlaugh
 outlaughed
 outlaughing
 outlawed
@@ -77449,6 +77472,7 @@ presidentially
 presidentship
 presidentships
 presider
+presiders
 presidia
 presidial
 presidiary
@@ -78037,6 +78061,7 @@ procrastinate
 procrastinated
 procrastinates
 procrastinating
+procrastination
 procrastinator
 procrastinators
 procreate
@@ -79033,6 +79058,7 @@ psychohistorian
 psychohistories
 psychokineses
 psychokinetic
+psycholinguists
 psychologies
 psychologise
 psychologised
@@ -86388,6 +86414,7 @@ roosed
 rooser
 rooses
 roosing
+roosted
 roosts
 root
 rootages
@@ -90975,6 +91002,7 @@ shoehorns
 shoeing
 shoelace
 shoelaces
+shoeless
 shoemaker
 shoemakers
 shoepac
@@ -92070,6 +92098,7 @@ skies
 skiey
 skiffle
 skiffled
+skiffles
 skijorers
 skijoring
 skilful
@@ -93820,6 +93849,7 @@ sophies
 sophisms
 sophist
 sophistic
+sophistically
 sophisticates
 sophisticating
 sophistications
@@ -94710,6 +94740,7 @@ spirochetosis
 spirogyra
 spiroid
 spirometer
+spirometers
 spirometric
 spirometries
 spirometry
@@ -95859,6 +95890,7 @@ stegodon
 stegodons
 stegosaur
 stegosaurs
+stegosaurus
 stegosauruses
 stein
 stela
@@ -102233,6 +102265,7 @@ tils
 tilted
 tilters
 tilth
+tilths
 tiltmeter
 tiltmeters
 tiltrotor
@@ -104149,6 +104182,7 @@ trigrams
 trigraph
 trigraphs
 trigs
+trihalomethane
 trihalomethanes
 trihedra
 trihedrals
@@ -109374,6 +109408,7 @@ veratrums
 verb
 verbal
 verbalistic
+verbalization
 verbalizations
 verbalizers
 verbalizes
