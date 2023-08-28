@@ -5813,6 +5813,7 @@ atilt
 atingle
 atlantes
 atlatl
+atman
 atmas
 atmometers
 atmosphere
@@ -5962,6 +5963,7 @@ attorney
 attorneys
 attorneyship
 attorneyships
+attornment
 attornments
 attract
 attractance
@@ -6958,6 +6960,7 @@ bagpipes
 bagpiping
 baguet
 baguets
+baguette
 baguettes
 bagwig
 bagworms
@@ -10555,6 +10558,7 @@ boggiest
 bogginesses
 bogging
 boggish
+boggled
 boggler
 bogglers
 boggling
@@ -13246,6 +13250,7 @@ calcanei
 calcaneus
 calcar
 calcarate
+calcareously
 calcaria
 calceate
 calcedony
@@ -13395,6 +13400,7 @@ callused
 callusing
 calm
 calmatives
+calmed
 calmer
 calming
 calmingly
@@ -13649,6 +13655,7 @@ candlepin
 candlepins
 candlepowers
 candler
+candlers
 candles
 candlesnuffer
 candlesnuffers
@@ -24878,6 +24885,7 @@ defocussed
 defocusses
 defocussing
 defog
+defogged
 defoliate
 defoliates
 defoliation
@@ -33423,6 +33431,7 @@ euchre
 euchred
 euchromatin
 euclases
+euclidean
 eucrite
 eucritic
 eudaemonism
@@ -34845,6 +34854,7 @@ factories
 factorization
 factorizations
 factorize
+factorized
 factorizes
 factorizing
 factors
@@ -38618,6 +38628,7 @@ frightfulness
 frighting
 frights
 frigid
+frigidities
 frigidly
 frigidness
 frigidnesses
@@ -45182,6 +45193,7 @@ highballs
 highbinder
 highborn
 highboy
+highboys
 highbrowism
 highbrowisms
 highbrows
@@ -47316,6 +47328,7 @@ ickiest
 ickily
 icky
 icon
+icones
 iconical
 iconically
 iconicities
@@ -50391,6 +50404,7 @@ internalising
 internality
 internalization
 internalized
+internalizing
 internally
 internals
 internationals
@@ -54793,6 +54807,7 @@ legateships
 legating
 legation
 legato
+legator
 legatos
 legend
 legendaries
@@ -56602,6 +56617,7 @@ lowercase
 lowercases
 lowercasing
 lowered
+lowering
 lowermost
 lowers
 lowery
@@ -61752,6 +61768,7 @@ monished
 monishes
 monishing
 monistic
+monists
 monition
 monitions
 monitive
@@ -63928,6 +63945,7 @@ needleworks
 needling
 needy
 neem
+neems
 neep
 neeps
 nefarious
@@ -65963,6 +65981,7 @@ novelties
 novemdecillion
 novena
 novenae
+novenas
 novercal
 novices
 novitiates
@@ -70091,6 +70110,7 @@ ozonise
 ozonised
 ozonising
 ozonize
+ozonized
 ozonizer
 ozonizers
 ozonizes
@@ -72577,6 +72597,7 @@ periplasm
 periplasms
 periplasts
 peripter
+peripters
 periques
 peris
 perisarc
@@ -73962,6 +73983,7 @@ pigtailed
 pigweeds
 piing
 pika
+pikas
 piked
 pikeman
 pikemen
@@ -74175,6 +74197,7 @@ pinocytic
 pinocytoses
 pinocytosis
 pinocytotic
+pinocytotically
 pinoles
 pinon
 pinons
@@ -77983,6 +78006,7 @@ proctodaea
 proctodea
 proctodeums
 proctologic
+proctological
 proctologies
 proctologists
 proctology
@@ -89973,6 +89997,7 @@ serine
 serines
 seringa
 serins
+seriocomically
 seriousness
 seriousnesses
 serjeant
@@ -92899,6 +92924,7 @@ snakebit
 snakebite
 snakebites
 snakebitten
+snaked
 snakefishes
 snakeheads
 snakepit
@@ -94304,6 +94330,7 @@ speedinesses
 speeding
 speedings
 speedo
+speedometers
 speedos
 speedreading
 speeds
@@ -95124,6 +95151,7 @@ squarishly
 squarishnesses
 squark
 squarks
+squash
 squashed
 squasher
 squashers
@@ -96946,6 +96974,7 @@ stylises
 stylish
 stylising
 stylist
+stylistically
 stylistics
 stylists
 stylite
@@ -97393,6 +97422,7 @@ suboptimization
 suboptimize
 suboptimized
 suboptimizes
+suboptimizing
 suboptimum
 suborbicular
 suborbital
@@ -101263,6 +101293,7 @@ textual
 textuaries
 textuary
 texture
+textured
 textureless
 textures
 texturize
@@ -103218,6 +103249,7 @@ tradesman
 tradesmen
 trading
 traditional
+traditionalism
 traditionalisms
 traditionalists
 traditionalized
@@ -110660,6 +110692,7 @@ wamuses
 wand
 wandered
 wanderer
+wanderers
 wandering
 wanderings
 wanderlust
@@ -112255,6 +112288,7 @@ witchhoods
 witchier
 witching
 witchings
+witchlike
 witchweed
 witchweeds
 witchy
@@ -113584,6 +113618,7 @@ zithern
 zithers
 ziti
 zitis
+zits
 zizit
 zizzle
 zizzled
