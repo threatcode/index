@@ -1240,6 +1240,7 @@ aerobiosis
 aerobrake
 aerobraked
 aerobrakes
+aerobraking
 aerodrome
 aerodromes
 aeroduct
@@ -4300,6 +4301,7 @@ apian
 apiarian
 apiary
 apically
+apices
 apiculate
 apiculi
 apicultural
@@ -6602,6 +6604,7 @@ azimuth
 azimuthal
 azimuths
 azines
+azlon
 azlons
 azo
 azoic
@@ -8950,6 +8953,7 @@ bewilderedness
 bewildering
 bewilderingly
 bewilderment
+bewilderments
 bewilders
 bewinged
 bewitcher
@@ -9191,6 +9195,7 @@ bigos
 bigoses
 bigot
 bigotedly
+bigotries
 bigotry
 bigots
 bigtime
@@ -11630,6 +11635,7 @@ breathily
 breathiness
 breathinesses
 breathings
+breathless
 breathlessness
 breaths
 breathtaking
@@ -14351,6 +14357,7 @@ carouses
 carp
 carpaccio
 carpalia
+carpels
 carpentered
 carpentering
 carper
@@ -16116,6 +16123,7 @@ chicle
 chicly
 chicnesses
 chico
+chicories
 chicory
 chicos
 chided
@@ -25610,6 +25618,7 @@ deperming
 deperms
 depersonalize
 depersonalized
+depersonalizes
 depersonalizing
 depict
 depicters
@@ -26472,6 +26481,7 @@ diaconate
 diaconates
 diacritic
 diacritical
+diactinic
 diadelphous
 diademed
 diademing
@@ -26823,6 +26833,7 @@ differentia
 differentially
 differentials
 differentiated
+differentiates
 differentiating
 differentiation
 differently
@@ -27227,6 +27238,7 @@ direct
 directed
 directedness
 directer
+directing
 direction
 directionality
 directionless
@@ -30470,6 +30482,7 @@ ectosarcs
 ectotherm
 ectothermic
 ectotherms
+ectotrophic
 ectozoan
 ectozoon
 ectype
@@ -42584,6 +42597,7 @@ grumous
 grump
 grumphies
 grumphy
+grumpier
 grumpiest
 grumpily
 grumpiness
@@ -43814,6 +43828,7 @@ harmfulness
 harmine
 harmines
 harming
+harmins
 harmless
 harmlessly
 harmlessness
@@ -52662,6 +52677,7 @@ keas
 kebab
 kebars
 kebbie
+kebbies
 kebbocks
 kebbuck
 kebbucks
@@ -54882,6 +54898,7 @@ lemurine
 lemuroid
 lemurs
 lendable
+lender
 lenders
 lending
 lends
@@ -55340,6 +55357,7 @@ lifeworks
 lifeworld
 lifted
 lifters
+liftgate
 liftgates
 lifting
 liftmen
@@ -59199,6 +59217,7 @@ mercurially
 mercurialnesses
 mercuric
 mercuries
+mercurous
 mercy
 merde
 mere
@@ -62627,6 +62646,7 @@ mudslinger
 mudslingers
 mudslinging
 mudslingings
+mudstone
 mueddin
 muenster
 muensters
@@ -62710,6 +62730,7 @@ multicarbon
 multicausal
 multicell
 multicelled
+multicenter
 multichain
 multichambered
 multicharacter
@@ -64610,6 +64631,7 @@ nips
 nirvanas
 nirvanic
 niseis
+nitchie
 nitchies
 nite
 niter
@@ -68653,6 +68675,7 @@ outstood
 outstretch
 outstretching
 outstridden
+outstride
 outstrides
 outstripped
 outstripping
@@ -70718,6 +70741,7 @@ papillar
 papillary
 papillate
 papilloma
+papillomata
 papillomatous
 papillon
 papillote
@@ -74284,6 +74308,7 @@ pisolith
 pisoliths
 pisolitic
 pissant
+pissants
 pisser
 pisses
 pissing
@@ -75947,6 +75972,7 @@ postbase
 postbellum
 postbox
 postboxes
+postboys
 postcapitalist
 postcards
 postcava
@@ -87594,6 +87620,7 @@ sapanwoods
 sapheaded
 sapheads
 saphenae
+saphenas
 sapid
 sapiencies
 sapiency
@@ -89684,6 +89711,7 @@ sensitively
 sensitivenesses
 sensitives
 sensitivities
+sensitizations
 sensitize
 sensitized
 sensitizer
@@ -91165,6 +91193,7 @@ shylocking
 shynesses
 shyster
 si
+sialagogue
 sialagogues
 sialid
 sialidan
@@ -92862,6 +92891,7 @@ snappiness
 snappish
 snappishly
 snappishnesses
+snappy
 snaps
 snapshot
 snapshotted
@@ -93132,6 +93162,7 @@ snuffboxes
 snuffer
 snuffers
 snuffily
+snuffing
 snuffle
 snuffler
 snufflier
@@ -94317,6 +94348,7 @@ spermatozoid
 spermatozoids
 spermic
 spermicidal
+spermicide
 spermicides
 spermine
 spermines
@@ -96968,6 +97000,7 @@ subbases
 subbasin
 subbass
 subbasses
+subbed
 subbing
 subblocks
 subbranch
@@ -104269,6 +104302,7 @@ trommel
 trommels
 trompe
 tromped
+trompes
 tromping
 tromps
 trona
@@ -112363,6 +112397,7 @@ wonkiest
 wonky
 wonner
 wonners
+wons
 wont
 wonted
 wontedly
