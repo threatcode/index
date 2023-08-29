@@ -2379,6 +2379,7 @@ alluringly
 allusion
 allusive
 allusively
+allusiveness
 allusivenesses
 alluvia
 alluvial
@@ -6600,6 +6601,7 @@ axioms
 axion
 axions
 axis
+axised
 axises
 axisymmetric
 axisymmetrical
@@ -9507,6 +9509,7 @@ biologisms
 biologist
 biologistic
 biologists
+biolysis
 biolytic
 biomarkers
 biomass
@@ -9834,6 +9837,7 @@ blackamoor
 blackball
 blackballed
 blackballing
+blackballs
 blackberries
 blackbird
 blackbirded
@@ -11024,6 +11028,7 @@ border
 bordereaux
 bordering
 borderland
+borderlines
 bordure
 bordures
 boreas
@@ -12075,6 +12080,7 @@ broodinesses
 brooding
 broodless
 broodmares
+broods
 brooked
 brookie
 brookies
@@ -13225,6 +13231,7 @@ cafe
 cafes
 cafeterias
 cafetoria
+cafetorium
 caffein
 caffeinated
 caffeine
@@ -16976,6 +16983,7 @@ ciliation
 ciliolate
 cilium
 cimbalom
+cinch
 cinched
 cinching
 cinchona
@@ -20266,6 +20274,7 @@ constabulary
 constant
 constantan
 constantans
+constants
 constative
 constatives
 constellates
@@ -22291,6 +22300,7 @@ cremes
 cremini
 crenated
 crenately
+crenation
 crenature
 crenel
 crenelated
@@ -25521,6 +25531,7 @@ demolished
 demolisher
 demolishers
 demolishment
+demolition
 demolitionists
 demolitions
 demon
@@ -28087,6 +28098,7 @@ dismays
 disme
 dismembering
 dismemberments
+dismembers
 dismissal
 dismissals
 dismissions
@@ -35420,6 +35432,7 @@ farewells
 farfal
 farfalle
 farfel
+farfels
 farfetchedness
 farinaceous
 faring
@@ -35560,6 +35573,7 @@ fatigability
 fatigable
 fatigue
 fatigues
+fatiguing
 fatiguingly
 fatless
 fatlike
@@ -41051,6 +41065,7 @@ giver
 givers
 gives
 giving
+gizmo
 gizmos
 gjetost
 glabella
@@ -43231,6 +43246,7 @@ gusts
 gusty
 gut
 gutbucket
+gutbuckets
 gutlessness
 gutlike
 guts
@@ -46974,6 +46990,7 @@ husklike
 husks
 husky
 hussar
+hussy
 hustings
 hustle
 hustled
@@ -55209,6 +55226,7 @@ legitimatizing
 legitimator
 legitimised
 legitimises
+legitimism
 legitimisms
 legitimists
 legitimization
@@ -60349,6 +60367,7 @@ microtonality
 microtonally
 microtone
 microtones
+microtubular
 microtubule
 microvilli
 microvillus
@@ -63324,6 +63343,7 @@ multiunion
 multiunit
 multiuser
 multivalence
+multivalent
 multivariate
 multiversities
 multiversity
@@ -71767,6 +71787,7 @@ parvenue
 parvenues
 parvenus
 parvis
+parvise
 parvo
 parvolin
 parvolines
@@ -75949,6 +75970,7 @@ polyanthi
 polyanthus
 polyanthuses
 polybrid
+polybrids
 polybutadiene
 polybutadienes
 polycarbonates
@@ -76961,6 +76983,7 @@ pratfall
 pratfalls
 pratincole
 pratincoles
+pratique
 pratiques
 prattle
 prattlers
@@ -85552,6 +85575,7 @@ retinula
 retirant
 retirants
 retire
+retired
 retiredness
 retirednesses
 retiree
@@ -87071,6 +87095,7 @@ roughdry
 roughed
 roughen
 roughened
+roughening
 roughens
 roughers
 roughest
@@ -87255,6 +87280,7 @@ rubies
 rubiest
 rubigos
 rubles
+ruboff
 rubout
 rubouts
 rubric
@@ -87619,6 +87645,7 @@ saccharine
 saccharinities
 saccharinity
 saccharoidal
+saccharometer
 saccharometers
 sacculated
 sacculation
@@ -88958,6 +88985,7 @@ schmalziest
 schmatte
 schmear
 schmearing
+schmeered
 schmeering
 schmeers
 schmelze
@@ -89871,6 +89899,7 @@ seedcake
 seedcakes
 seedcase
 seedcases
+seedeater
 seeded
 seeder
 seedier
@@ -91065,6 +91094,7 @@ shaved
 shaveling
 shavelings
 shaven
+shaver
 shaves
 shavetail
 shavetails
@@ -94287,6 +94317,7 @@ songfulness
 songless
 songlessly
 songlike
+songs
 songsmith
 songster
 songsters
@@ -99500,6 +99531,7 @@ sussing
 sustain
 sustainable
 sustained
+sustainer
 sustaining
 sustenance
 sustenances
@@ -106875,6 +106907,7 @@ undelivered
 undeluded
 undemanding
 undemonstrative
+undeniable
 undependable
 underachieve
 underachieved
@@ -107534,6 +107567,7 @@ unhappiest
 unhappily
 unhappiness
 unhappinesses
+unhappy
 unharmed
 unharnessed
 unharnesses
@@ -109408,6 +109442,7 @@ valentines
 valerates
 valerians
 vales
+valet
 valeted
 valeting
 valets
