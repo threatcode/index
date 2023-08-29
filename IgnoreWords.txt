@@ -174,6 +174,7 @@ abundant
 abusable
 abuse
 abused
+abuser
 abusers
 abuses
 abusive
@@ -5875,6 +5876,7 @@ atomical
 atomically
 atomicities
 atomies
+atomiser
 atomisers
 atomising
 atomism
@@ -9423,6 +9425,7 @@ bimonthly
 bimorph
 bimorphemic
 bimorphs
+binaries
 binarism
 binarisms
 binary
@@ -9812,6 +9815,7 @@ bittered
 bittering
 bitterness
 bitternesses
+bitternut
 bitternuts
 bitterroots
 bittersweet
@@ -15037,6 +15041,7 @@ causalgic
 causally
 causals
 causation
+causations
 causatives
 cause
 caused
@@ -15578,6 +15583,7 @@ chained
 chaines
 chaining
 chainmen
+chains
 chainsaw
 chainsawed
 chainsaws
@@ -17162,6 +17168,7 @@ circumlocution
 circumlocutions
 circumlocutory
 circumlunar
+circumnavigate
 circumnavigated
 circumnavigates
 circumscissile
@@ -17456,6 +17463,7 @@ clasp
 clasping
 clasps
 claspt
+class
 classable
 classed
 classers
@@ -20082,6 +20090,7 @@ congregants
 congregate
 congregates
 congregating
+congregation
 congregational
 congregations
 congresses
@@ -20875,6 +20884,7 @@ cooperation
 cooperationist
 cooperationists
 cooperations
+cooperative
 cooperatively
 cooperativeness
 cooperatives
@@ -23309,6 +23319,7 @@ curatives
 curator
 curators
 curatorship
+curbable
 curbers
 curbing
 curbings
@@ -36747,6 +36758,7 @@ finishers
 finishes
 finishing
 finitely
+finitenesses
 finites
 finito
 finitude
@@ -37801,6 +37813,7 @@ flyby
 flybys
 flycatchers
 flyer
+flying
 flyings
 flyleaf
 flyless
@@ -43259,6 +43272,7 @@ gulag
 gulags
 gular
 gulches
+gulden
 guldens
 gulf
 gulfier
@@ -43541,6 +43555,7 @@ gyrons
 gyropilot
 gyroplane
 gyroplanes
+gyros
 gyroscope
 gyroscopes
 gyroscopic
@@ -48526,6 +48541,7 @@ impendent
 impends
 impenetrability
 impenetrable
+impenitences
 impenitent
 impenitently
 imperativeness
@@ -56591,6 +56607,7 @@ livestocks
 livetrap
 livetrapped
 livetrapping
+livid
 lividities
 lividly
 lividnesses
@@ -62999,6 +63016,7 @@ mosquito
 mosquitos
 moss
 mossback
+mossbacked
 mosser
 mossers
 mossiest
@@ -65791,6 +65809,7 @@ noncountry
 noncounty
 noncoverage
 noncreative
+noncreativities
 noncreativity
 noncredentialed
 noncredit
@@ -67374,6 +67393,7 @@ octanes
 octangle
 octangles
 octanols
+octant
 octantal
 octants
 octapeptide
@@ -67630,6 +67650,7 @@ oilstones
 oilway
 oinking
 oinks
+oinologies
 oinomel
 oinomels
 ointments
@@ -68076,6 +68097,7 @@ oppressively
 oppressor
 opprobrious
 opprobriously
+opprobrium
 opprobriums
 oppugn
 oppugnant
@@ -68534,6 +68556,7 @@ osmolality
 osmolar
 osmolarities
 osmolarity
+osmole
 osmols
 osmometer
 osmometric
@@ -68624,6 +68647,7 @@ ostracode
 ostracoderm
 ostracoderms
 ostracodes
+ostracon
 ostriches
 ostrichlike
 otalgia
@@ -70198,6 +70222,7 @@ overlove
 overloved
 overloving
 overly
+overmanage
 overmanages
 overmanned
 overmanning
@@ -76553,6 +76578,7 @@ poofter
 poofy
 pooh
 poohed
+poohing
 pooing
 pooled
 pooler
@@ -87144,6 +87170,7 @@ roisterers
 roistering
 roisterous
 roisters
+rolamite
 role
 roles
 rolfed
@@ -96798,6 +96825,7 @@ steepest
 steepish
 steeple
 steeplebush
+steeplebushes
 steeplechase
 steeplechaser
 steeplechasings
@@ -97050,6 +97078,7 @@ stickseeds
 stickum
 stickums
 stickups
+stickweed
 stickweeds
 stickwork
 stickworks
@@ -97869,6 +97898,7 @@ strumpet
 strumpets
 strung
 strunt
+strunted
 strunting
 strunts
 strut
@@ -101655,6 +101685,7 @@ tegmentum
 tegminal
 tegua
 teguas
+tegulated
 tegument
 teguments
 tegumina
@@ -103449,6 +103480,7 @@ tirewoman
 tirewomen
 tiring
 tirled
+tirling
 tirls
 tiro
 tirrivee
@@ -105036,6 +105068,7 @@ tribrachs
 tribulate
 tribulated
 tribulation
+tribulations
 tribunals
 tribunary
 tribunate
@@ -112715,6 +112748,7 @@ wheelchairs
 wheeled
 wheeler
 wheelhouse
+wheelie
 wheelies
 wheeling
 wheelless
@@ -113341,6 +113375,7 @@ wingers
 wingiest
 wingless
 winglessness
+winglet
 winglets
 winglike
 wingman
