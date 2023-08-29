@@ -8516,6 +8516,7 @@ believed
 believer
 believers
 believes
+believing
 belike
 beliquoring
 beliquors
@@ -16780,6 +16781,7 @@ chromaticisms
 chromaticity
 chromatid
 chromatids
+chromatogram
 chromatograms
 chromatograph
 chromatographed
@@ -24059,6 +24061,7 @@ dandruff
 dandyish
 dandyishly
 dandyisms
+danegelds
 danegelt
 danegelts
 daneweeds
@@ -26884,6 +26887,7 @@ diastatic
 diastemas
 diastemata
 diaster
+diastereomeric
 diastereomers
 diasters
 diastoles
@@ -32716,6 +32720,7 @@ enunciable
 enunciate
 enunciated
 enunciates
+enunciating
 enunciation
 enunciator
 enunciators
@@ -33709,6 +33714,7 @@ etna
 etoile
 etoiles
 etouffee
+etouffees
 etude
 etudes
 etui
@@ -35006,6 +35012,7 @@ exuviates
 exuviations
 exuvium
 eyases
+eyass
 eyeable
 eyeballed
 eyeballs
@@ -35542,6 +35549,7 @@ farmwives
 farmwork
 farmworker
 farmworkers
+farmworks
 farmyards
 farness
 farnesses
@@ -39132,6 +39140,7 @@ frothy
 frotteur
 frotteurs
 froufrou
+frounce
 frounced
 frounces
 frouncing
@@ -47150,6 +47159,7 @@ hydralazines
 hydrangea
 hydrant
 hydranths
+hydrants
 hydras
 hydrase
 hydrases
@@ -51262,6 +51272,7 @@ intumescent
 intumesces
 intumescing
 inturn
+inturned
 intussuscept
 intussuscepted
 intussuscepting
@@ -54769,6 +54780,7 @@ lassi
 lassitude
 lassitudes
 lasso
+lassoed
 lassoes
 lassoing
 last
@@ -59230,6 +59242,7 @@ meatus
 meatuses
 meaty
 mecamylamines
+mecca
 mechanical
 mechanically
 mechanicians
@@ -64805,6 +64818,7 @@ netty
 networked
 networker
 networkers
+networking
 networkings
 networks
 neuks
@@ -66543,6 +66557,7 @@ nourishes
 nourishing
 nourishment
 nourishments
+nouses
 nouvelle
 nouvelles
 nova
@@ -71911,6 +71926,7 @@ partition
 partitioned
 partitioners
 partitions
+partitively
 partlet
 partlets
 partnered
@@ -74140,6 +74156,7 @@ photolysis
 photolytic
 photolyzable
 photolyze
+photolyzed
 photolyzes
 photomap
 photomapped
@@ -75456,6 +75473,8 @@ playsuit
 playsuits
 plaything
 playthings
+playtime
+playtimes
 playwrighting
 playwrightings
 playwriting
@@ -75482,6 +75501,7 @@ please
 pleaser
 pleasers
 pleases
+pleasing
 pleasingly
 pleasingness
 pleasingnesses
@@ -77759,6 +77779,7 @@ premaxillae
 premaxillaries
 premaxillary
 premaxillas
+premeasure
 premeasuring
 premed
 premedieval
@@ -80633,6 +80654,7 @@ quanta
 quantal
 quantally
 quantification
+quantifications
 quantifiers
 quantifies
 quanting
@@ -83110,6 +83132,7 @@ reedbirds
 reedbuck
 reedbucks
 reeded
+reedier
 reedified
 reedifies
 reedifying
@@ -83568,6 +83591,7 @@ regaler
 regaling
 regality
 regally
+regalness
 regalnesses
 regardant
 regarded
@@ -85232,6 +85256,7 @@ reshows
 reshuffled
 reshuffling
 resid
+reside
 resided
 residence
 residences
@@ -90097,6 +90122,7 @@ seedcakes
 seedcase
 seedcases
 seedeater
+seedeaters
 seeded
 seeder
 seedier
@@ -92907,6 +92933,7 @@ skirmisher
 skirmishers
 skirr
 skirred
+skirret
 skirrs
 skirted
 skirter
@@ -93523,6 +93550,7 @@ sluttish
 sluttishnesses
 slutty
 sly
+slyboots
 slyer
 slyness
 slynesses
@@ -96588,6 +96616,7 @@ steamrolling
 steamship
 steamy
 stearates
+stearine
 steatite
 steatites
 steatopygia
@@ -98008,6 +98037,7 @@ subcults
 subcultural
 subculture
 subcultured
+subcultures
 subculturing
 subcurative
 subcutis
@@ -105401,6 +105431,7 @@ trouty
 trouvere
 trouveres
 trouveur
+trouveurs
 trove
 trowed
 trowel
@@ -107802,6 +107833,7 @@ unhappy
 unharmed
 unharnessed
 unharnesses
+unharried
 unharvested
 unhasty
 unhatched
@@ -110204,6 +110236,7 @@ venialness
 venine
 venins
 venipuncture
+venipunctures
 venire
 venireman
 venires
@@ -110959,6 +110992,7 @@ vising
 vision
 visional
 visionally
+visionaries
 visionary
 visionless
 visions
@@ -111626,6 +111660,7 @@ walkways
 walkyrie
 walkyries
 wall
+walla
 wallabies
 wallaby
 wallahs
