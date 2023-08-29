@@ -5160,6 +5160,7 @@ arrears
 arrest
 arrestee
 arrestees
+arrester
 arresters
 arresting
 arrestive
@@ -8342,6 +8343,7 @@ befriends
 befringe
 befringed
 befringes
+befringing
 befuddle
 befuddlement
 befuddlements
@@ -15322,6 +15324,7 @@ centrality
 centralization
 centralizations
 centralize
+centralizer
 centralizers
 centralizing
 centrally
@@ -16789,6 +16792,7 @@ chromings
 chromite
 chromiums
 chromize
+chromized
 chromo
 chromocenters
 chromodynamics
@@ -19753,6 +19757,7 @@ condensers
 condensing
 condescend
 condescended
+condescending
 condescends
 condescension
 condescensions
@@ -28220,6 +28225,7 @@ dispensers
 dispensing
 dispeople
 dispeopled
+dispeoples
 dispeopling
 dispersals
 dispersants
@@ -30447,6 +30453,7 @@ ear
 earache
 earaches
 earbuds
+eardrop
 eardrops
 eardrum
 eardrums
@@ -30736,6 +30743,7 @@ ecstatically
 ecstatics
 ectases
 ectatic
+ectoblast
 ectoblasts
 ectoderm
 ectodermal
@@ -31224,6 +31232,7 @@ electrotypes
 electrotyping
 electroweak
 electrowinning
+electrowinnings
 electrum
 electuaries
 electuary
@@ -34916,6 +34925,7 @@ extravasate
 extravasated
 extravasates
 extravasating
+extravasation
 extravasations
 extravascular
 extravehicular
@@ -41555,6 +41565,7 @@ glum
 glumes
 glummest
 glumness
+glumnesses
 glumpier
 glumpily
 glumpy
@@ -47472,6 +47483,7 @@ hypersthene
 hypersurface
 hypertense
 hypertension
+hypertensions
 hypertext
 hypertexts
 hyperthermia
@@ -53877,6 +53889,7 @@ knowledge
 known
 knowns
 knubbier
+knubbiest
 knubby
 knuckleballs
 knucklebones
@@ -59292,6 +59305,7 @@ medinas
 mediocre
 mediocrities
 meditated
+meditates
 meditating
 meditation
 meditations
@@ -63263,6 +63277,7 @@ mulcted
 muled
 muleteer
 muleteers
+muling
 mulishly
 mulishnesses
 mull
@@ -64200,6 +64215,7 @@ nasal
 nasalise
 nasalised
 nasalises
+nasalising
 nasalisms
 nasalities
 nasalization
@@ -65015,6 +65031,7 @@ nickeling
 nickelodeon
 nickelodeons
 nickelous
+nickels
 nicker
 nickered
 nickering
@@ -66588,6 +66605,7 @@ nucleate
 nucleates
 nucleation
 nucleations
+nucleators
 nuclei
 nuclein
 nucleins
@@ -66906,6 +66924,7 @@ obituary
 objected
 objectification
 objectifies
+objectify
 objectifying
 objection
 objectionable
@@ -68082,6 +68101,7 @@ orderliness
 orderlinesses
 orderly
 orders
+ordinal
 ordinances
 ordinand
 ordinarier
@@ -70843,6 +70863,7 @@ pageantry
 pageants
 pageboys
 paged
+pageful
 pagefuls
 pages
 paginate
@@ -71676,6 +71697,7 @@ paresthetic
 paretic
 paretics
 pareu
+pareus
 pareve
 parfait
 parfleches
@@ -72473,6 +72495,7 @@ pedalos
 pedantic
 pedantically
 pedantries
+pedantry
 pedants
 pedate
 pedately
@@ -72573,6 +72596,7 @@ peerages
 peered
 peerie
 peeries
+peering
 pees
 peesweep
 peesweeps
@@ -79128,6 +79152,7 @@ prorogation
 prorogations
 prorogue
 prorogued
+proroguing
 prosaic
 prosaical
 prosaism
@@ -81325,6 +81350,7 @@ raised
 raisers
 raises
 raisin
+raising
 raisings
 raisiny
 raisonne
@@ -83463,6 +83489,7 @@ refront
 refronts
 refroze
 refrying
+refs
 reft
 refuel
 refueled
@@ -86310,6 +86337,7 @@ rhumb
 rhumbaing
 rhumbas
 rhumbs
+rhuses
 rhymer
 rhymers
 rhymester
@@ -88146,6 +88174,7 @@ salubrious
 salubrity
 salukis
 saluretic
+salutariness
 salutarinesses
 salutary
 salutation
@@ -90417,6 +90446,7 @@ semiurban
 semivowels
 semiworks
 semiyearly
+semolinas
 sempervivum
 sempervivums
 sempiternally
@@ -92331,6 +92361,7 @@ sillies
 sillily
 sillimanite
 silliness
+sills
 silly
 silo
 siloed
@@ -99542,6 +99573,7 @@ surfside
 surged
 surgeon
 surgeries
+surgers
 surgery
 surgical
 surgically
@@ -101427,6 +101459,7 @@ tektitic
 tel
 tela
 telae
+telamones
 telangiectasias
 telangiectasis
 telangiectatic
@@ -109431,6 +109464,7 @@ ushered
 usherette
 using
 usneas
+usquabaes
 usque
 usquebae
 usquebaes
@@ -110160,6 +110194,7 @@ ventifact
 ventilate
 ventilated
 ventilating
+ventilation
 ventilators
 ventilatory
 venting
