@@ -1651,6 +1651,7 @@ aglycons
 agmas
 agnate
 agnates
+agnatic
 agnized
 agnomen
 agnomina
@@ -1709,6 +1710,7 @@ agreement
 agreements
 agrees
 agrestal
+agria
 agribusiness
 agribusinessman
 agribusinessmen
@@ -3527,6 +3529,7 @@ annunciate
 annunciated
 annunciates
 annunciating
+annunciators
 annunciatory
 anoa
 anoas
@@ -4414,6 +4417,7 @@ apoptoses
 apoptosis
 apoptotic
 aporias
+aport
 aposiopeses
 aposiopesis
 aposiopetic
@@ -5622,6 +5626,7 @@ assuagements
 assuages
 assuaging
 assumability
+assumable
 assumably
 assume
 assumed
@@ -5826,6 +5831,7 @@ athleticism
 athletics
 athodyd
 athodyds
+athrocyte
 athrocytes
 athwartship
 athwartships
@@ -6910,6 +6916,7 @@ bacteriolysis
 bacteriolytic
 bacteriophages
 bacteriophagy
+bacteriostases
 bacteriostasis
 bacteriostatic
 bacteriostats
@@ -15381,6 +15388,7 @@ cerite
 ceriums
 cermets
 cero
+cerotic
 cerotypes
 cerous
 certainer
@@ -18801,6 +18809,7 @@ colonisation
 colonisations
 colonise
 colonised
+colonises
 colonist
 colonists
 colonitis
@@ -19490,6 +19499,7 @@ concatenate
 concatenated
 concatenating
 concatenation
+concatenations
 concave
 concavely
 concaves
@@ -20040,6 +20050,7 @@ conjurors
 conk
 conker
 conking
+conks
 conky
 connate
 connately
@@ -27892,6 +27903,7 @@ disheartenments
 disheartens
 dished
 dishelmed
+dishelming
 dishelms
 disherit
 disherited
@@ -29867,6 +29879,7 @@ dubitable
 dubitably
 dubitation
 dubnium
+dubonnet
 dubonnets
 ducal
 ducally
@@ -32231,6 +32244,7 @@ ennuye
 ennuyee
 enoki
 enokidake
+enokidakes
 enokitake
 enokitakes
 enol
@@ -36861,6 +36875,7 @@ flaming
 flamingly
 flamingo
 flammabilities
+flammability
 flammable
 flammables
 flammed
@@ -39462,6 +39477,7 @@ gabbier
 gabble
 gabbled
 gabbler
+gabblers
 gabbles
 gabbro
 gabbroic
@@ -41422,6 +41438,7 @@ gluten
 glutenin
 glutenous
 glutens
+glutes
 glutethimides
 gluteus
 glutinous
@@ -50448,6 +50465,7 @@ interepidemic
 interestedly
 interesting
 interestingly
+interestingness
 interests
 interethnic
 interface
@@ -51982,6 +52000,7 @@ japonica
 japonicas
 jar
 jardiniere
+jardinieres
 jarfuls
 jargon
 jargoneer
@@ -55284,6 +55303,7 @@ lessee
 lessen
 lessening
 lessens
+lessoning
 lessons
 lessor
 lessors
@@ -60449,6 +60469,7 @@ militiamen
 milk
 milkers
 milkfish
+milkier
 milkily
 milkinesses
 milking
@@ -61276,6 +61297,7 @@ mislikers
 mislive
 mislived
 mislives
+misliving
 mislocate
 mislocated
 mislocations
@@ -65039,6 +65061,7 @@ nobblers
 nobbles
 nobby
 nobelium
+nobeliums
 nobiliary
 nobility
 noble
@@ -72042,6 +72065,7 @@ paymaster
 paymasters
 payment
 payments
+paynim
 paynims
 payoff
 payoffs
@@ -74973,6 +74997,7 @@ plantsmen
 planulae
 planular
 planuloid
+plaques
 plashers
 plashiest
 plashing
@@ -79919,6 +79944,7 @@ puslike
 puss
 pusses
 pussley
+pussleys
 pusslies
 pusslike
 pussycats
@@ -86312,6 +86338,7 @@ rinning
 rins
 rinsable
 rinse
+rinsed
 rinses
 rinsing
 riojas
@@ -90892,6 +90919,7 @@ shaughs
 shaul
 shauled
 shavable
+shave
 shaved
 shaveling
 shavelings
@@ -93820,6 +93848,7 @@ softbacks
 softball
 softballer
 softballers
+softballs
 softcore
 softcover
 soften
@@ -94089,6 +94118,7 @@ somnolences
 somnolent
 somnolently
 soms
+son
 sonance
 sonances
 sonantal
@@ -94158,6 +94188,7 @@ sonsiest
 sook
 sooks
 soonest
+sooth
 soothed
 soother
 soothers
@@ -102136,6 +102167,7 @@ thiosulfates
 thiotepas
 thiouracil
 thiouracils
+thiourea
 thioureas
 thir
 thirams
@@ -105143,6 +105175,7 @@ tubbier
 tubbiest
 tubbiness
 tubbinesses
+tubby
 tube
 tubeless
 tuber
@@ -108530,6 +108563,7 @@ unwisdoms
 unwise
 unwisely
 unwiser
+unwisest
 unwished
 unwishing
 unwits
@@ -113051,6 +113085,7 @@ woodtones
 woodwax
 woodwaxen
 woodwinds
+woodworker
 woodworkers
 woodworking
 woodworm
