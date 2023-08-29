@@ -5559,6 +5559,7 @@ assignable
 assignat
 assignats
 assignee
+assigners
 assigning
 assignments
 assignors
@@ -7695,6 +7696,7 @@ bassetted
 bassetting
 bassetts
 bassi
+bassinet
 bassinets
 bassly
 bassness
@@ -9222,6 +9224,7 @@ biggish
 biggy
 bighead
 bigheaded
+bighearted
 bigheartedness
 bighorn
 bighorns
@@ -14223,6 +14226,7 @@ carcinoid
 carcinoids
 carcinoma
 carcinomata
+carcinomatous
 carcinosarcoma
 card
 cardamoms
@@ -26545,6 +26549,7 @@ dextral
 dextran
 dextranase
 dextrans
+dextrine
 dextrines
 dextrins
 dextro
@@ -30275,6 +30280,7 @@ dysphasias
 dysphasic
 dysphemistic
 dysphonia
+dysphonias
 dysphonic
 dysphoric
 dysplasia
@@ -31058,6 +31064,7 @@ electrolyses
 electrolyte
 electrolytes
 electrolytic
+electrolyze
 electrolyzed
 electrolyzing
 electromagnet
@@ -32991,6 +32998,7 @@ equipping
 equiprobable
 equips
 equiseta
+equisetum
 equitabilities
 equitability
 equitable
@@ -37509,6 +37517,7 @@ flusters
 fluted
 flutelike
 fluter
+flutey
 fluting
 flutings
 flutist
@@ -44201,6 +44210,7 @@ hatrack
 hatracks
 hatred
 hatreds
+hats
 hatsful
 hatted
 hatteria
@@ -46175,6 +46185,7 @@ hook
 hookah
 hookas
 hooked
+hooker
 hookey
 hookeys
 hookier
@@ -55425,6 +55436,7 @@ lexicalities
 lexicalization
 lexicalizations
 lexicalized
+lexicalizes
 lexically
 lexicographer
 lexicographers
@@ -61985,6 +61997,7 @@ monaxial
 monaxon
 monaxons
 monazites
+mondes
 monellin
 monellins
 moneran
@@ -64248,6 +64261,7 @@ negatons
 negators
 negatron
 negatrons
+neglect
 neglected
 neglecter
 neglecters
@@ -66239,6 +66253,7 @@ nounally
 nounless
 nourished
 nourisher
+nourishers
 nourishes
 nourishing
 nourishment
@@ -67499,6 +67514,7 @@ oospheres
 oospore
 oospores
 oothecae
+oothecal
 ootids
 ooze
 oozed
@@ -67645,6 +67661,7 @@ oppositionist
 oppositions
 oppress
 oppressing
+oppressions
 oppressively
 oppressor
 opprobrious
@@ -70049,6 +70066,7 @@ overspreading
 overstaff
 overstaffed
 overstate
+overstatement
 overstatements
 overstates
 overstayed
@@ -72644,6 +72662,7 @@ peptides
 peptidic
 peptidoglycan
 peptidoglycans
+peptids
 peptize
 peptized
 peptizers
@@ -73589,6 +73608,7 @@ phlebotomy
 phlegmatically
 phlegmier
 phlegmiest
+phlegms
 phlegmy
 phloem
 phlogiston
@@ -73892,6 +73912,7 @@ phototypesetter
 photovoltaic
 photovoltaics
 phots
+phpht
 phragmoplast
 phrasally
 phrase
@@ -76599,6 +76620,7 @@ potlatch
 potlatches
 potlatching
 potline
+potometers
 potpies
 potpourri
 pots
@@ -79944,6 +79966,7 @@ putterers
 putters
 puttie
 puttier
+putties
 putting
 putts
 putty
@@ -82210,6 +82233,7 @@ reconditely
 recondition
 reconditioned
 reconditioning
+reconditions
 reconduct
 reconducted
 reconducts
@@ -83194,6 +83218,7 @@ regardant
 regarded
 regardfulnesses
 regardlessly
+regather
 regathered
 regathering
 regathers
@@ -91201,6 +91226,7 @@ shirks
 shirr
 shirred
 shirrings
+shirrs
 shirtdress
 shirtdresses
 shirtfront
@@ -94456,6 +94482,7 @@ spade
 spaded
 spadefish
 spadefuls
+spaders
 spadework
 spadeworks
 spadilles
@@ -94498,6 +94525,7 @@ spancelling
 spancels
 spandex
 spandrels
+spandrils
 spang
 spangle
 spangled
@@ -98184,6 +98212,7 @@ succorers
 succoring
 succors
 succotash
+succotashes
 succoth
 succour
 succouring
@@ -98263,6 +98292,7 @@ suers
 sues
 suets
 suety
+suffari
 suffer
 sufferable
 sufferableness
@@ -100805,6 +100835,7 @@ taxman
 taxmen
 taxol
 taxon
+taxonomic
 taxonomically
 taxonomy
 taxpayer
@@ -106871,6 +106902,7 @@ understates
 understating
 understeering
 understood
+understories
 understory
 understrapper
 understrappers
@@ -109957,6 +109989,7 @@ vesiculations
 vesperal
 vesperals
 vespertilian
+vespertine
 vespiaries
 vespid
 vessel
@@ -110924,6 +110957,7 @@ wabbles
 wabblier
 wack
 wacke
+wacker
 wackes
 wackest
 wackier
@@ -112927,6 +112961,7 @@ womera
 womeras
 wommera
 won
+wonder
 wonderer
 wonderful
 wonderfully
