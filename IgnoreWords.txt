@@ -6983,6 +6983,7 @@ bads
 baff
 baffies
 baffing
+baffle
 bafflegab
 bafflegabs
 bafflement
@@ -9734,6 +9735,8 @@ birthname
 birthplace
 birthplaces
 birthrate
+birthrates
+birthrights
 births
 birthstone
 birthstones
@@ -13501,6 +13504,7 @@ callings
 calliopes
 calliper
 callipering
+callipers
 callipygian
 callithump
 callithumpian
@@ -13621,6 +13625,7 @@ camelias
 camellia
 camellike
 camelopards
+cameo
 cameoed
 cameoing
 camerae
@@ -15472,6 +15477,7 @@ cering
 ceriphs
 cerises
 cerite
+cerites
 ceriums
 cermets
 cero
@@ -18866,6 +18872,7 @@ colloquial
 colloquiality
 colloquials
 colloquists
+colloquium
 colloquiums
 colloquy
 collotype
@@ -25595,6 +25602,7 @@ demineralizers
 demineralizes
 demineralizing
 demirep
+demireps
 demisable
 demise
 demisemiquaver
@@ -26934,6 +26942,7 @@ diarrhetic
 diarthroses
 diarthrosis
 diary
+diaspora
 diasporas
 diaspores
 diasporic
@@ -27156,6 +27165,7 @@ differentiating
 differentiation
 differently
 differentness
+differing
 differs
 difficile
 difficulties
@@ -28929,6 +28939,7 @@ documentations
 documented
 documenters
 documenting
+documents
 dodderer
 doddering
 dodders
@@ -29668,6 +29679,7 @@ dramshop
 dramshops
 drapabilities
 drapability
+drape
 drapeability
 drapeable
 draper
@@ -31327,6 +31339,7 @@ elegises
 elegising
 elegist
 elegists
+elegit
 elegized
 elegizes
 elegizing
@@ -41203,6 +41216,7 @@ girds
 girl
 girlfriend
 girlhoods
+girlier
 girlies
 girliest
 girls
@@ -43126,6 +43140,7 @@ guanays
 guanethidine
 guanethidines
 guanidine
+guanidines
 guanidins
 guanine
 guanines
@@ -49064,6 +49079,7 @@ incidents
 incinerate
 incinerated
 incinerates
+incinerating
 incinerations
 incinerator
 incipience
@@ -49795,6 +49811,7 @@ infidelic
 infielder
 infielders
 infields
+infight
 infighter
 infighters
 infighting
@@ -51540,6 +51557,7 @@ invisibles
 invisibly
 invitation
 invitational
+invitationals
 invitations
 invitatories
 invitatory
@@ -52398,6 +52416,7 @@ jaywalks
 jazzed
 jazzer
 jazzers
+jazzes
 jazzier
 jazziest
 jazzily
@@ -54930,6 +54949,7 @@ laterites
 laterize
 laterized
 latest
+latewood
 latewoods
 latexes
 lath
@@ -55909,6 +55929,7 @@ lichened
 lichenin
 lichening
 lichenins
+lichenologist
 lichenology
 lichenose
 lichenous
@@ -60674,6 +60695,7 @@ midiskirts
 midland
 midlands
 midlatitude
+midlatitudes
 midlegs
 midlife
 midline
@@ -61829,6 +61851,7 @@ misrepresenting
 misrepresents
 misroute
 misroutes
+misrouting
 misrule
 misrules
 misruling
@@ -70483,6 +70506,7 @@ oversleeping
 oversleeps
 overslipped
 overslipping
+overslips
 oversoak
 oversoaked
 oversoaks
@@ -82343,6 +82367,7 @@ reawoken
 reb
 rebait
 rebaiting
+rebalance
 rebalanced
 rebaptism
 rebaptisms
@@ -86744,6 +86769,7 @@ righteous
 righteously
 righteousness
 righter
+righters
 rightest
 rightful
 rightfully
@@ -87896,6 +87922,7 @@ russets
 russetting
 russettings
 russety
+russifying
 rustable
 rusted
 rustic
@@ -88973,6 +89000,7 @@ savourier
 savouries
 savouriest
 savouring
+savours
 savoury
 savoy
 savoys
@@ -89460,6 +89488,7 @@ schwa
 schwarmerei
 schwarmereis
 schwas
+sciaenid
 sciaenids
 sciaenoids
 sciamachy
@@ -92386,6 +92415,7 @@ sidewall
 sidewalls
 sideways
 sidewinders
+sidle
 sidled
 sidlers
 siege
@@ -92852,6 +92882,7 @@ sitarists
 sitars
 sitcom
 sitcoms
+sited
 sites
 sith
 sithence
@@ -108155,6 +108186,7 @@ uninstructed
 uninstructive
 uninsulated
 uninsurable
+uninsured
 unintellectual
 unintelligent
 unintelligently
@@ -109328,6 +109360,7 @@ updives
 updiving
 updove
 updraft
+updried
 upended
 upending
 upflinging
@@ -113807,6 +113840,7 @@ woolhats
 woolie
 woolies
 wooliness
+woolled
 woollier
 woollies
 woolliest
@@ -114834,6 +114868,7 @@ zincified
 zincites
 zincking
 zincky
+zincous
 zincy
 zine
 zines
