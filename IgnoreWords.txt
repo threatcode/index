@@ -4235,6 +4235,7 @@ anywhere
 anywheres
 anywise
 aorist
+aoristic
 aoristically
 aorists
 aorta
@@ -7635,6 +7636,7 @@ basaltic
 basaltine
 bascule
 bascules
+baseballs
 baseboards
 baseless
 baseliner
@@ -14766,6 +14768,7 @@ cataloes
 cataloged
 cataloger
 catalogers
+catalogs
 catalogued
 cataloguer
 cataloguers
@@ -15275,6 +15278,7 @@ centering
 centerings
 centerless
 centerline
+centerlines
 centerpiece
 centerpieces
 centers
@@ -15563,6 +15567,7 @@ chairwomen
 chais
 chaise
 chaises
+chakra
 chakras
 chalah
 chalaza
@@ -16176,6 +16181,7 @@ chessman
 chessmen
 chest
 chestful
+chestfuls
 chestier
 chestiest
 chestily
@@ -16865,6 +16871,7 @@ chuckles
 chuckling
 chucks
 chuckwalla
+chucky
 chuddah
 chuddahs
 chuddars
@@ -27603,6 +27610,7 @@ disapprovals
 disapprove
 disapproved
 disapprover
+disapprovers
 disapproves
 disapproving
 disarmament
@@ -27808,6 +27816,7 @@ discourse
 discoursed
 discourser
 discoursers
+discourteous
 discourtesies
 discourtesy
 discover
@@ -32152,6 +32161,7 @@ endwise
 enemata
 enemy
 energetically
+energid
 energies
 energise
 energised
@@ -35179,6 +35189,7 @@ fading
 fadlike
 fado
 fados
+fads
 faecal
 faerie
 faeries
@@ -43683,6 +43694,7 @@ halakahs
 halakha
 halakhah
 halakhic
+halakhist
 halakhists
 halakhot
 halakhoth
@@ -45921,6 +45933,7 @@ hoking
 hokku
 hokums
 hokypokies
+holard
 hold
 holdall
 holdalls
@@ -48345,6 +48358,7 @@ imparts
 impassabilities
 impassability
 impassable
+impassableness
 impassably
 impasses
 impassibilities
@@ -49673,6 +49687,7 @@ infinitesimals
 infinitive
 infinitively
 infinitude
+infinity
 infirm
 infirmed
 infirming
@@ -50686,6 +50701,7 @@ interiorization
 interiorize
 interiorized
 interiorizes
+interiorizing
 interiorly
 interiors
 interject
@@ -51185,6 +51201,7 @@ introspecting
 introspection
 introspections
 introspectively
+introvert
 introverts
 intrude
 intruded
@@ -52408,6 +52425,7 @@ jibed
 jibers
 jibes
 jibingly
+jicama
 jicamas
 jiff
 jiffs
@@ -53933,6 +53951,7 @@ kore
 korma
 korun
 koruna
+korunas
 koruny
 koshered
 koshering
@@ -55325,6 +55344,7 @@ leis
 leishmania
 leishmanial
 leishmaniases
+leishmaniasis
 leistered
 leisure
 leisureliness
@@ -55922,6 +55942,7 @@ likening
 liker
 likers
 likest
+likewise
 liking
 likings
 lilac
@@ -64228,6 +64249,7 @@ nationally
 nationals
 nationhood
 nationhoods
+nations
 native
 natively
 nativenesses
@@ -75010,6 +75032,7 @@ pitiless
 pitilessly
 pitilessness
 pitilessnesses
+pitman
 pitmans
 pitons
 pitsaw
@@ -79291,6 +79314,7 @@ protist
 protistan
 protistic
 protocol
+protocoled
 protocolled
 protocolling
 protoderm
@@ -80031,6 +80055,7 @@ purebreds
 puree
 pureed
 pureeing
+purees
 purely
 pureness
 purfle
@@ -88533,6 +88558,7 @@ satangs
 satanical
 satanically
 satanism
+satanist
 satanists
 sataras
 satay
@@ -88560,6 +88586,7 @@ satinpod
 satinwoods
 satiny
 satires
+satiric
 satirical
 satirically
 satirised
@@ -91356,6 +91383,7 @@ shelvier
 shelving
 shelvings
 shenanigans
+shent
 sheol
 shepherd
 shepherded
@@ -92708,6 +92736,7 @@ sketchbook
 sketchbooks
 sketchier
 sketchiness
+sketchinesses
 sketching
 sketchpads
 sketchy
@@ -103414,6 +103443,7 @@ tollbar
 tollbars
 tollbooths
 tollhouse
+tollhouses
 tolling
 tollman
 tollmen
@@ -103642,6 +103672,7 @@ topographical
 topographically
 topographies
 topographs
+topologic
 topological
 topologically
 topologies
@@ -103791,6 +103822,7 @@ torulae
 torulas
 torus
 tory
+tosh
 toshes
 tossed
 tosses
@@ -105390,6 +105422,7 @@ truncheon
 truncheoned
 truncheons
 trundle
+trundled
 trundling
 trunk
 trunkfish
@@ -108642,6 +108675,7 @@ unsteeling
 unsteels
 unstemmed
 unsteps
+unsterile
 unsterilized
 unstick
 unstinting
@@ -112336,6 +112370,7 @@ wetsuit
 wetsuits
 wettabilities
 wettability
+wetted
 wetter
 wettest
 wetting
