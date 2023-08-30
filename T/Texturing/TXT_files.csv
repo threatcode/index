@@ -1,0 +1,9 @@
+mvs-texturing/LICENSE.txt at master - nmoehrle - GitHub,https://github.com/nmoehrle/mvs-texturing/blob/master/LICENSE.txt
+mvs-texturing/CMakeLists.txt at master - GitHub,https://github.com/nmoehrle/mvs-texturing/blob/master/CMakeLists.txt
+detailed recipe for texture mapping,https://graphics.stanford.edu/courses/cs248-95/texturing.txt
+https://inst.eecs.berkeley.edu/~cs184/fa12/online/...,https://inst.eecs.berkeley.edu/~cs184/fa12/online/opengl2-texture.txt
+GL_OES_texture_cube_map - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/OES/OES_texture_cube_map.txt
+GL_EXT_texture_cube_map - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/EXT/EXT_texture_cube_map.txt
+EXT_texture_cube_map - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_EXT_texture_cube_map.txt
+ARB_stencil_texturing - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_stencil_texturing.txt
+splatting.txt - Intel,https://www.intel.com/content/dam/develop/external/us/en/text/splatting.txt
