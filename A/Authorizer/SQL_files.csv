@@ -1,0 +1,5 @@
+upgrade-3.0.0-to-3.1.0.postgres.sql - GitHub,https://github.com/apache/hive/blob/master/standalone-metastore/metastore-server/src/main/sql/postgres/upgrade-3.0.0-to-3.1.0.postgres.sql
+upgrade-3.0.0-to-3.1.0.mysql.sql - GitHub,https://github.com/apache/hive/blob/master/standalone-metastore/metastore-server/src/main/sql/mysql/upgrade-3.0.0-to-3.1.0.mysql.sql
+https://raw.githubusercontent.com/timschofield/web...,https://raw.githubusercontent.com/timschofield/webERP-svn/a75230b3f6d4be06ad27b93c1e0f981baf7324d9/sql/mysql/country_sql/demo.sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+zhanggyjp/CloudERP: 实现管理流程“客户关系管理-> 销售报价 ...,https://git.osiicn.com/zhanggyjp/CloudERP/src/1e384d35c5301d6b1c8c34706e4010bb04e317b5/src/sql/mysql/upgrade4.12.3-4.13.sql
