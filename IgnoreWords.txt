@@ -1724,6 +1724,7 @@ agreeabilities
 agreeable
 agreeablenesses
 agreeably
+agreed
 agreement
 agreements
 agrees
@@ -3679,6 +3680,7 @@ antennular
 antennules
 antenuptial
 antepasts
+antependia
 antependium
 antepenult
 antepenultimas
@@ -7691,6 +7693,7 @@ barware
 baryes
 baryon
 barytes
+barytic
 barytons
 bas
 basalt
@@ -8041,6 +8044,7 @@ bean
 beanbag
 beanbags
 beanball
+beanballs
 beaned
 beanie
 beaning
@@ -8579,6 +8583,7 @@ beliers
 believabilities
 believability
 believable
+believably
 believe
 believed
 believer
@@ -15852,6 +15857,7 @@ changeful
 changefully
 changefulnesses
 changeless
+changelessness
 changelings
 changeovers
 changer
@@ -26484,6 +26490,7 @@ despaired
 despairer
 despairers
 despatch
+despatched
 despatching
 desperadoes
 desperados
@@ -35090,6 +35097,7 @@ extenders
 extends
 extensibilities
 extension
+extensional
 extensionality
 extensions
 extensity
@@ -37204,6 +37212,7 @@ fittest
 fittingnesses
 fittings
 fivefold
+fivepins
 fiver
 fixate
 fixatif
@@ -43639,6 +43648,7 @@ gunplays
 gunpoint
 gunpowder
 gunroom
+gunrooms
 gunrunner
 gunrunning
 gunrunnings
@@ -43827,6 +43837,7 @@ gyroscope
 gyroscopes
 gyroscopic
 gyroscopically
+gyrose
 gyrostabilizer
 gyrostabilizers
 gyrostat
@@ -43924,6 +43935,7 @@ haddest
 haddock
 haddocks
 hade
+haded
 hades
 hading
 hadith
@@ -46779,6 +46791,7 @@ hooplike
 hoopoe
 hoopoos
 hoops
+hoopskirt
 hoopskirts
 hoopster
 hoopsters
@@ -49674,6 +49687,7 @@ indelicacy
 indelicate
 indemnification
 indemnifier
+indemnifies
 indemnities
 indemonstrable
 indemonstrably
@@ -49910,6 +49924,7 @@ indwellers
 indwelling
 indwelt
 inearth
+inearths
 inebriant
 inebriate
 inebriated
@@ -50134,6 +50149,7 @@ inflames
 inflaming
 inflammable
 inflammables
+inflammably
 inflammatorily
 inflammatory
 inflatables
@@ -50337,6 +50353,7 @@ inheritors
 inheritresses
 inheritrices
 inheritrix
+inhesion
 inhesions
 inhibin
 inhibins
@@ -52651,6 +52668,7 @@ jarl
 jarldom
 jarls
 jarlsberg
+jarlsbergs
 jarosite
 jarosites
 jarovized
@@ -54436,6 +54454,7 @@ kotowing
 kotows
 koumis
 koumises
+koumisses
 koumysses
 kouprey
 koupreys
@@ -54698,6 +54717,7 @@ lactalbumin
 lactalbumins
 lactams
 lactary
+lactase
 lactases
 lactate
 lactates
@@ -55888,6 +55908,7 @@ leniences
 leniencies
 lenient
 leniently
+lenis
 lenite
 lenites
 lenition
@@ -56050,6 +56071,7 @@ leukotic
 leukotomies
 leukotomy
 leukotriene
+lev
 levant
 levanter
 levanters
@@ -56701,6 +56723,7 @@ lipoids
 lipolyses
 lipolytic
 lipoma
+lipomas
 lipoproteins
 liposomal
 liposuction
@@ -59761,6 +59784,7 @@ medevacs
 medfly
 mediacy
 mediad
+mediae
 mediaeval
 medial
 medials
@@ -65799,6 +65823,7 @@ nitrating
 nitration
 nitrations
 nitres
+nitric
 nitrid
 nitride
 nitrided
@@ -68841,6 +68866,7 @@ orogenies
 orogeny
 orographic
 orographical
+orographies
 orography
 oroide
 orologists
@@ -72443,6 +72469,7 @@ parthenocarpic
 parthenocarpies
 parthenocarpy
 parthenogeneses
+parthenogenesis
 partial
 partialities
 partiality
@@ -75066,6 +75093,7 @@ picklocks
 pickoff
 pickoffs
 pickpocket
+pickpockets
 pickproof
 picks
 pickup
@@ -75568,6 +75596,7 @@ pirate
 pirated
 pirates
 piratic
+piratical
 piratically
 pirayas
 piriform
@@ -77076,6 +77105,7 @@ popovers
 poppadom
 poppadoms
 poppadums
+poppas
 popper
 poppet
 poppets
@@ -83886,6 +83916,7 @@ reengineering
 reengineers
 reengraves
 reenjoy
+reenjoyed
 reenjoying
 reenjoys
 reenlarge
@@ -111234,6 +111265,7 @@ verbified
 verbifies
 verbify
 verbigeration
+verbigerations
 verbiles
 verbless
 verbosely
@@ -113116,6 +113148,7 @@ weasands
 weasel
 weaseled
 weaselly
+weasely
 weasons
 weather
 weatherability
@@ -113703,6 +113736,7 @@ whitrack
 whitracks
 whits
 whitter
+whitters
 whittle
 whittler
 whittles
@@ -115465,6 +115499,7 @@ zealotries
 zealously
 zealousness
 zeals
+zeatin
 zeatins
 zebec
 zebecks

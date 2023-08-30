@@ -1,0 +1,20 @@
+security-analytics/backends/bigquery/sql ... - GitHub,https://github.com/GoogleCloudPlatform/security-analytics/blob/main/backends/bigquery/sql/3_01_logging_settings_modified.sql
+cortex-reporting/ValuationAreasMD.sql at main - GitHub,https://github.com/GoogleCloudPlatform/cortex-reporting/blob/main/ValuationAreasMD.sql
+https://training01-dcf.myflorida.com/student_cc/sa...,https://training01-dcf.myflorida.com/student_cc/samples/blocks/databases/schema.sql
+tools/devcloud4/prefill.sql ... - GitLab,https://gitlab.cc-asp.fraunhofer.de/fcs-public/apache-cloudstack/-/blob/edf0e2b26fefdca392d325879ebb5eb0afaaf75a/tools/devcloud4/prefill.sql
+src/main/java/org/apache/log4j/receivers/db/dialect/oracle.sql,https://apache.googlesource.com/log4j-extras/%2B/trunk/src/main/java/org/apache/log4j/receivers/db/dialect/oracle.sql
+Schema,http://publish.ucc.ie/samples/blocks/databases/schema.sql
+web.mit.edu/freebsd/head/contrib/subversion/subver...,http://web.mit.edu/freebsd/head/contrib/subversion/subversion/libsvn_wc/wc-checks.sql
+rep-cache-db.sql,http://web.mit.edu/freebsd/head/contrib/subversion/subversion/libsvn_fs_fs/rep-cache-db.sql
+synapse/storage/data_stores/main/schema/delta/33 ... - mau.dev,https://mau.dev/maunium/synapse/-/blob/e6fbb0c12112eafbd99f9a1284517d0ad7ef3f87/synapse/storage/data_stores/main/schema/delta/33/user_ips_index.sql
+create.sql · main - omnicrobe-database - ForgeMIA,https://forgemia.inra.fr/omnicrobe/omnicrobe-database/-/blob/main/create.sql
+zhihuigongdi.git - Gitblit,http://120.27.0.251:8060/blob/zhihuigongdi.git/cbbc2cd141649e8fc16d10edf583df2fc8de7715/nacos-server-2.0.3%252Fnacos%252Fconf%252F1.4.0-ipv6_support-update.sql
+https://raw.githubusercontent.com/apache/hive/mast...,https://raw.githubusercontent.com/apache/hive/master/metastore/scripts/upgrade/mysql/hive-txn-schema-2.3.0.mysql.sql
+mariadb_engine_7.10.0.sql - Gerrit Code Review,https://gerrit.onap.org/r/c/oom/%2B/96917/1/kubernetes/so/charts/so-mariadb/resources/config/docker-entrypoint-initdb.d/db-sql-scripts/mariadb_engine_7.10.0.sql
+instruments.sql · master - Riccardo Bruno - INFN,https://baltig.infn.it/brunor/instruments/-/blob/master/instruments.sql
+https://osm.etsi.org/gitlab/osm/openvim/-/raw/9f65...,https://osm.etsi.org/gitlab/osm/openvim/-/raw/9f6571090b203922cabb0382226be0fa48d6e046/database_utils/vim_db_structure.sql
+airflow/providers/google/cloud/example_dags/example_spanner.sql,https://community.opengroup.org/NikhilSingh/airflow/-/blob/9c0ba1b6abc593bad6fe51ed52d9c0963cd09b7c/airflow/providers/google/cloud/example_dags/example_spanner.sql
+https://api.pgxn.org/src/datasketches/datasketches...,https://api.pgxn.org/src/datasketches/datasketches-1.4.0/sql/datasketches_frequent_strings_sketch.sql
+android_startup.sql - Android Code Search,https://cs.android.com/android/platform/superproject/%2B/master:external/perfetto/src/trace_processor/metrics/sql/android/android_startup.sql
+Synapse ... - Fossies,https://fossies.org/linux/synapse/synapse/storage/schema/main/delta/65/03remove_hidden_devices_from_device_inbox.sql
+opensourcemirror/LibreNMS - Forgejo: Beyond coding. We forge.,https://git.furworks.de/opensourcemirror/LibreNMS/blame/commit/3fe083eed6b3a5d1855d86a783976223c67a7b3d/sql-schema/186.sql
