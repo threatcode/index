@@ -2948,6 +2948,7 @@ amphimixes
 amphioxus
 amphioxuses
 amphiphile
+amphiphilic
 amphiploid
 amphiploidies
 amphiploids
@@ -6319,6 +6320,7 @@ autolysed
 autolysin
 autolysing
 autolysins
+autolytic
 autolyzate
 autolyzed
 autolyzes
@@ -6746,6 +6748,7 @@ babul
 babus
 babushka
 babydoll
+babydolls
 babyhoods
 babying
 babyish
@@ -9453,6 +9456,7 @@ binders
 bindingly
 bindingness
 bindingnesses
+bindis
 bindle
 bindles
 bindweed
@@ -17546,6 +17550,7 @@ clauses
 claustra
 claustral
 claustrophobe
+claustrophobes
 claustrophobias
 claustrum
 clavate
@@ -17619,6 +17624,7 @@ clearer
 clearers
 clearest
 cleareyed
+clearheaded
 clearheadedness
 clearing
 clearinghouse
@@ -18130,6 +18136,7 @@ coastwards
 coat
 coatdresses
 coatees
+coater
 coati
 coatimundi
 coatimundis
@@ -26313,6 +26320,7 @@ desilver
 desilvered
 desilvering
 desilvers
+desinence
 desinences
 desinent
 desipramines
@@ -28463,6 +28471,7 @@ disrespecting
 disrespects
 disrobe
 disrobed
+disrober
 disrobers
 disrobes
 disrooting
@@ -30327,6 +30336,7 @@ duplex
 duplexers
 duplexes
 duplexities
+duplexity
 duplicated
 duplication
 duplications
@@ -33618,6 +33628,7 @@ essentialness
 essentialnesses
 essentials
 essoins
+essonite
 essonites
 establish
 establishable
@@ -41945,6 +41956,7 @@ godson
 godwit
 godwits
 goer
+goes
 goethites
 gofer
 goffered
@@ -46559,6 +46571,7 @@ hooliganisms
 hooligans
 hoop
 hooped
+hoopers
 hooplas
 hoopless
 hooplike
@@ -50143,6 +50156,7 @@ iniquitously
 iniquitousness
 iniquity
 initial
+initialed
 initialing
 initialism
 initialisms
@@ -51500,6 +51514,7 @@ invalidity
 invalids
 invaluable
 invaluableness
+invaluably
 invariability
 invariable
 invariables
@@ -52922,6 +52937,7 @@ joypopping
 joypops
 joyridden
 joyride
+joyrider
 joyriders
 joyriding
 joyrode
@@ -53379,6 +53395,7 @@ keckled
 keckles
 keckling
 kecks
+keddah
 keddahs
 kedged
 kedgerees
@@ -58033,6 +58050,7 @@ magnetization
 magnetizations
 magnetize
 magnetizers
+magnetizes
 magnetizing
 magnetographs
 magnetometers
@@ -58861,6 +58879,7 @@ marls
 marlstone
 marlstones
 marmalade
+marmalades
 marmites
 marmots
 marocains
@@ -61445,6 +61464,7 @@ miscellaneous
 miscellaneously
 miscellanies
 miscellanist
+mischance
 mischanneled
 mischannelled
 mischannels
@@ -64712,6 +64732,7 @@ necrotizes
 necrotizing
 nectar
 nectarean
+nectaries
 nectarine
 nectarines
 nectarous
@@ -74779,6 +74800,7 @@ pictorial
 pictorialism
 pictorialisms
 pictorialists
+pictorialize
 pictorialized
 pictorializes
 pictorialness
@@ -78135,6 +78157,7 @@ preparators
 prepare
 prepared
 preparedly
+preparednesses
 preparer
 preparers
 prepares
@@ -78444,6 +78467,7 @@ prests
 presumable
 presumably
 presume
+presumedly
 presumers
 presumes
 presuming
@@ -78484,6 +78508,7 @@ pretensioned
 pretensioning
 pretensionless
 pretensions
+preterit
 preterite
 preterits
 preterm
@@ -78801,6 +78826,7 @@ prism
 prismatic
 prismoidal
 prisms
+prison
 prisoner
 prisoners
 prisoning
@@ -87705,6 +87731,7 @@ rowdies
 rowdiest
 rowdily
 rowdinesses
+rowdy
 rowdyism
 rowed
 roweling
@@ -88642,6 +88669,7 @@ sandbar
 sandbars
 sandblasted
 sandblaster
+sandblasters
 sandblasting
 sandburr
 sandburrs
@@ -92547,6 +92575,7 @@ sieverts
 sieves
 sifakas
 siffleur
+siffleurs
 sift
 sifted
 sifters
@@ -94415,6 +94444,7 @@ snugs
 snye
 snyes
 so
+soak
 soakage
 soakers
 soaks
@@ -99139,6 +99169,7 @@ sughed
 sughing
 sughs
 suicidal
+suicide
 suicided
 suicides
 suiciding
@@ -103476,6 +103507,7 @@ timecard
 timekeeper
 timekeepers
 timekeepings
+timelessly
 timelessness
 timeliest
 timeline
@@ -103573,6 +103605,7 @@ tinnily
 tinniness
 tinninesses
 tinning
+tinnitus
 tinnituses
 tinplate
 tinseled
@@ -108664,6 +108697,7 @@ unpalatability
 unpalatable
 unparalleled
 unpardonable
+unparted
 unpasteurized
 unpastoral
 unpatched
@@ -115085,6 +115119,7 @@ zombify
 zombiism
 zombiisms
 zona
+zonae
 zonally
 zonary
 zonate
