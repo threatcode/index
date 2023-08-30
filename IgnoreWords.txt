@@ -1386,6 +1386,7 @@ affirmable
 affirmances
 affirmant
 affirmants
+affirmation
 affirmative
 affirmatively
 affirmatives
@@ -6374,6 +6375,7 @@ autophagy
 autophytes
 autopilot
 autopilots
+autopolyploid
 autopsic
 autopsied
 autopsies
@@ -6982,6 +6984,7 @@ badgeless
 badgered
 badgering
 badgerly
+badging
 badinage
 badinages
 badinaging
@@ -11195,6 +11198,7 @@ botanized
 botanizer
 botanizers
 botanizes
+botas
 botched
 botcher
 botchery
@@ -14000,6 +14004,7 @@ cantorial
 cantors
 cantos
 cantrap
+cants
 cantus
 canulae
 canular
@@ -21315,6 +21320,7 @@ coronel
 coroner
 coroners
 coroneted
+coronets
 coronographs
 coronoid
 corotate
@@ -21650,6 +21656,7 @@ coucher
 couchers
 couches
 couchette
+couchings
 coude
 cougar
 cougars
@@ -21799,6 +21806,7 @@ counterplea
 counterplot
 counterplots
 counterplotting
+counterpoint
 counterpointed
 counterpointing
 counterpoise
@@ -25431,6 +25439,7 @@ deke
 deked
 dekeing
 deking
+del
 delaine
 delaines
 delaminate
@@ -25762,6 +25771,7 @@ demultiplexers
 demur
 demurely
 demureness
+demurer
 demurest
 demurrages
 demurral
@@ -29100,6 +29110,7 @@ dogtrot
 dogtrots
 dogtrotting
 dogvanes
+dogwatch
 dogwatches
 dogy
 doiled
@@ -31706,6 +31717,7 @@ embranglements
 embrangles
 embrangling
 embrasure
+embrasures
 embrittle
 embrittled
 embrittles
@@ -33052,6 +33064,7 @@ epididymitis
 epidote
 epidotes
 epidurals
+epifauna
 epifaunas
 epifocal
 epigeal
@@ -41233,6 +41246,7 @@ gingellies
 gingellis
 gingelly
 ginger
+gingerbread
 gingerbreads
 gingerbready
 gingered
@@ -47929,6 +47943,7 @@ ichneumon
 ichneumons
 ichnite
 ichnolite
+ichnolites
 ichnologies
 ichor
 ichorous
@@ -48894,6 +48909,7 @@ impressment
 impressments
 impressures
 imprest
+imprests
 imprimis
 imprint
 imprinted
@@ -58238,6 +58254,7 @@ making
 mako
 malabsorption
 malabsorptions
+malacca
 malaccas
 malachite
 malachites
@@ -64803,6 +64820,7 @@ needlework
 needleworker
 needleworks
 needling
+needlings
 needy
 neem
 neems
@@ -67622,6 +67640,7 @@ odiously
 odiousness
 odiousnesses
 odist
+odium
 odiums
 odograph
 odometers
@@ -67933,6 +67952,7 @@ omened
 omening
 omenta
 omental
+omentum
 omer
 omicrons
 ominously
@@ -69844,6 +69864,7 @@ overadvertising
 overages
 overalert
 overall
+overalled
 overalls
 overamplified
 overanalyses
@@ -78015,6 +78036,7 @@ prehensility
 prehensions
 prehistorian
 prehistorians
+prehistorical
 prehistorically
 prehistories
 preholiday
@@ -80741,6 +80763,7 @@ pyranose
 pyranosides
 pyrans
 pyrargyrites
+pyrene
 pyrenes
 pyres
 pyrethrin
@@ -87701,6 +87724,7 @@ rouille
 rouilles
 roulade
 roulades
+rouleaus
 rouletted
 roulettes
 rouletting
@@ -90036,6 +90060,7 @@ scripted
 scripter
 scripters
 scriptorium
+scripture
 scriptures
 scriptwriter
 scrive
@@ -90291,6 +90316,7 @@ searobin
 searobins
 sears
 seas
+seascape
 seascouts
 seashells
 seashores
@@ -92770,6 +92796,7 @@ silicious
 silicium
 siliciums
 silicle
+silicon
 silicone
 siliconized
 silicons
@@ -96143,6 +96170,7 @@ spoony
 spoor
 spoors
 sporadically
+sporal
 sporangia
 sporangial
 sporangiophores
@@ -99950,6 +99978,7 @@ suppliantly
 supplicant
 supplicate
 supplicated
+supplicates
 supplicating
 supplications
 supplicatory
@@ -102179,6 +102208,7 @@ tenacious
 tenaciously
 tenaciousness
 tenacities
+tenacula
 tenaculum
 tenaculums
 tenail
@@ -102316,6 +102346,7 @@ tenues
 tenuis
 tenuity
 tenuous
+tenuously
 tenuousnesses
 tenurable
 tenure
@@ -105170,6 +105201,7 @@ treelawn
 treelawns
 treelike
 treen
+treenail
 treenails
 treenware
 treenwares
@@ -107081,6 +107113,7 @@ unamortized
 unamplified
 unamused
 unanalyzable
+unanchor
 unanchored
 unanchoring
 unanchors
@@ -107828,6 +107861,7 @@ underselling
 undersells
 underset
 undersets
+undersexed
 undershirt
 undershirts
 undershoot
@@ -113564,6 +113598,7 @@ windburns
 windburnt
 windchill
 windchills
+winders
 windfall
 windfalls
 windflaw
