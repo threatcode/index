@@ -3010,6 +3010,7 @@ amtrac
 amtrack
 amtracks
 amtracs
+amu
 amulet
 amus
 amuse
@@ -6593,6 +6594,7 @@ awes
 awesomely
 awesomeness
 awesomenesses
+awestricken
 awestruck
 awfuller
 awfullest
@@ -12039,6 +12041,7 @@ brittania
 brittanias
 brittled
 brittlenesses
+brittles
 brittlest
 brittling
 brittly
@@ -12945,6 +12948,7 @@ businessperson
 businesspersons
 businesswoman
 busk
+busked
 buskers
 buskin
 busking
@@ -25393,6 +25397,7 @@ deglamorizes
 deglamorizing
 deglazed
 deglazes
+deglutition
 degradable
 degradations
 degradative
@@ -25498,6 +25503,7 @@ dekaliter
 dekalitres
 dekameter
 dekametres
+dekametric
 dekare
 deke
 deked
@@ -31666,6 +31672,7 @@ embalmments
 embalms
 embank
 embanked
+embanking
 embankment
 embankments
 embanks
@@ -39357,6 +39364,7 @@ frondeurs
 frondose
 fronds
 front
+frontages
 frontally
 frontals
 frontcourt
@@ -39502,6 +39510,7 @@ fubbing
 fubs
 fubsy
 fuchsia
+fuchsias
 fuchsin
 fuchsine
 fuci
@@ -44249,6 +44258,7 @@ handbills
 handbreadths
 handcar
 handcart
+handclap
 handclaps
 handcrafting
 handcraftsman
@@ -50256,6 +50266,7 @@ inhabitancies
 inhabitancy
 inhabitants
 inhabitation
+inhabitations
 inhabiters
 inhabits
 inhalational
@@ -56622,6 +56633,7 @@ lionizing
 lions
 lip
 lipa
+lipases
 lipectomy
 lipid
 lipides
@@ -57210,6 +57222,7 @@ lolling
 lollingly
 lollipops
 lollop
+lolloped
 lollops
 lollopy
 lolls
@@ -59061,6 +59074,7 @@ markswomen
 markup
 marl
 marled
+marlin
 marline
 marlinespikes
 marling
@@ -60212,6 +60226,7 @@ merer
 meres
 merganser
 mergansers
+merged
 mergees
 mergence
 mergences
@@ -61205,6 +61220,7 @@ milliluces
 milliluxes
 millime
 millimes
+millimeter
 millimeters
 millimho
 millimhos
@@ -66335,6 +66351,7 @@ nonhomologous
 nonhormonal
 nonhospital
 nonhospitalized
+nonhostile
 nonhousing
 nonhuman
 nonhumans
@@ -69118,6 +69135,7 @@ outbluffed
 outbluffing
 outbluffs
 outblushed
+outblushing
 outboard
 outboast
 outboasted
@@ -72704,6 +72722,7 @@ patriarchies
 patriarchs
 patriarchy
 patriates
+patriating
 patrician
 patricians
 patriciate
@@ -81410,6 +81429,7 @@ quickset
 quicksilver
 quickstep
 quid
+quiddities
 quiddity
 quids
 quiescence
@@ -83315,6 +83335,7 @@ recrowns
 recrudesced
 recrudescence
 recrudescences
+recrudesces
 recrudescing
 recruit
 recruited
@@ -83721,6 +83742,7 @@ reeducating
 reeducations
 reedy
 reefable
+reefed
 reefer
 reefers
 reefier
@@ -87999,6 +88021,7 @@ routinists
 routinized
 routinizes
 routinizing
+routs
 rove
 roved
 roven
@@ -88322,6 +88345,7 @@ rushers
 rushes
 rushier
 rushiest
+rushing
 rushings
 rushlight
 rushlike
@@ -89925,6 +89949,7 @@ science
 sciences
 sciential
 scientific
+scientifically
 scientism
 scientisms
 scientist
@@ -100052,6 +100077,7 @@ superplane
 superplanes
 superplastic
 superplasticity
+superplayer
 superplayers
 superpolite
 superports
@@ -100609,6 +100635,7 @@ swatted
 swatter
 swatting
 sway
+swayable
 swaybacked
 swaybacks
 swayed
@@ -105560,6 +105587,7 @@ triacids
 triadically
 triadism
 triadisms
+triads
 triage
 triaged
 triages
@@ -108700,6 +108728,7 @@ unindexed
 uninfected
 uninflected
 uninformative
+uninformed
 uningratiating
 uninhabitable
 uninhibited
@@ -110733,6 +110762,7 @@ varnishy
 varoom
 varoomed
 varooms
+vars
 varsity
 varus
 varuses
@@ -111617,6 +111647,7 @@ vino
 vinosities
 vinosity
 vinous
+vintage
 vintager
 vintagers
 vintners
@@ -112383,6 +112414,7 @@ waitlisting
 waitperson
 waitpersons
 waitress
+waitressed
 waitresses
 waitron
 waits
@@ -112428,6 +112460,7 @@ walkaways
 walked
 walker
 walking
+walkings
 walkingstick
 walkover
 walkovers
@@ -114982,6 +115015,7 @@ yay
 yclad
 ycleped
 yclept
+ye
 yea
 yeahs
 yealing
@@ -115352,6 +115386,7 @@ zed
 zedoaries
 zedoary
 zeds
+zee
 zein
 zeins
 zeitgeber
