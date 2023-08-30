@@ -1597,6 +1597,7 @@ aggrandizement
 aggrandizer
 aggrandizers
 aggrandizes
+aggravate
 aggravated
 aggravates
 aggregate
@@ -2671,6 +2672,7 @@ ambitioned
 ambitionless
 ambitions
 ambitiously
+ambitiousness
 ambitiousnesses
 ambits
 ambivalence
@@ -3250,6 +3252,7 @@ androgen
 androgeneses
 androgenesis
 androgenic
+androgyne
 androgynies
 androgynous
 android
@@ -9024,6 +9027,7 @@ bevel
 beveling
 bevelled
 beveller
+beverage
 bevies
 bevomiting
 bevor
@@ -9824,6 +9828,7 @@ bittered
 bittering
 bitterness
 bitternesses
+bitterns
 bitternut
 bitternuts
 bitterroots
@@ -11175,6 +11180,7 @@ botanize
 botanized
 botanizer
 botanizers
+botanizes
 botched
 botcher
 botchery
@@ -13446,6 +13452,7 @@ calendric
 calendrical
 calends
 calendula
+calendulas
 calenture
 calesas
 calescent
@@ -14897,6 +14904,7 @@ catchwords
 catchy
 catclaw
 catecheses
+catechins
 catechise
 catechised
 catechises
@@ -16858,6 +16866,7 @@ chromomeric
 chromonema
 chromonematic
 chromophil
+chromophore
 chromoplasts
 chromoprotein
 chromoproteins
@@ -23901,6 +23910,7 @@ dacites
 dacker
 dackered
 dackering
+dackers
 dacoit
 dacoities
 dacoits
@@ -37911,6 +37921,7 @@ foddered
 fodders
 foe
 foehn
+foehns
 foeman
 foemen
 foes
@@ -43033,6 +43044,7 @@ grouting
 grouts
 grouty
 grove
+groved
 grovel
 groveled
 groveler
@@ -44695,6 +44707,7 @@ headgears
 headhunt
 headhunted
 headhunter
+headhunters
 headhunting
 headhunts
 headier
@@ -46635,6 +46648,7 @@ hornito
 hornitos
 hornless
 hornlessnesses
+hornpipe
 hornpipes
 hornpout
 hornpouts
@@ -50626,6 +50640,7 @@ integers
 integrability
 integral
 integralities
+integrality
 integrally
 integrals
 integrand
@@ -50873,6 +50888,7 @@ interiorise
 interiorised
 interiorises
 interiorising
+interiorities
 interiorization
 interiorize
 interiorized
@@ -57041,6 +57057,7 @@ longsighted
 longsightedness
 longsomely
 longsomeness
+longspur
 longueur
 longueurs
 longways
@@ -58747,6 +58764,7 @@ margravate
 margravates
 margraves
 margraviate
+margraviates
 margravine
 margravines
 marguerite
@@ -63548,6 +63566,7 @@ multifid
 multifilament
 multiflash
 multifoil
+multifold
 multiform
 multiformities
 multifrequency
@@ -65179,6 +65198,7 @@ newspapering
 newspaperman
 newspapermen
 newspapers
+newspaperwomen
 newspeak
 newspeople
 newsperson
@@ -66630,6 +66650,7 @@ noseguards
 noseless
 noselike
 nosepieces
+noses
 nosewheel
 nosewheels
 nosh
@@ -67462,6 +67483,7 @@ octavo
 octennial
 octets
 octillions
+octodecillion
 octogenarian
 octogenarians
 octopi
@@ -68105,6 +68127,7 @@ ophthalmologies
 ophthalmology
 ophthalmoscopic
 opiate
+opiated
 opiating
 opine
 opined
@@ -75236,6 +75259,7 @@ pisser
 pisses
 pissing
 pissoir
+pissoirs
 pistareen
 pistareens
 piste
@@ -77026,6 +77050,7 @@ postmillennial
 postmodern
 postmodernism
 postmodernists
+postmortem
 postmortems
 postnatal
 postnatally
@@ -82452,6 +82477,7 @@ reblent
 rebloom
 rebloomed
 reblooming
+reblooms
 reboant
 reboard
 reboarded
@@ -93863,6 +93889,7 @@ smatterings
 smatters
 smaze
 smazes
+smearcase
 smearer
 smearier
 smeariest
@@ -94566,6 +94593,7 @@ solanins
 solano
 solanum
 solanums
+solaria
 solarise
 solarises
 solarism
@@ -94715,6 +94743,7 @@ solutions
 solvability
 solvate
 solvated
+solvating
 solvation
 solve
 solvencies
@@ -99590,6 +99619,7 @@ supernatant
 supernates
 supernation
 supernatural
+supernaturalism
 supernaturalist
 supernature
 supernatures
@@ -104227,6 +104257,7 @@ totalizes
 totalizing
 totally
 totaquines
+toteable
 toted
 totem
 totemism
@@ -104952,6 +104983,7 @@ trawling
 trawlnet
 trawlnets
 trawls
+tray
 trayful
 trazodones
 treacheries
@@ -110746,6 +110778,7 @@ versatility
 verse
 verseman
 versemen
+verser
 versers
 verses
 versifications
@@ -111374,6 +111407,7 @@ vitric
 vitrics
 vitrification
 vitrifies
+vitriform
 vitrifying
 vitrine
 vitrines
@@ -113781,6 +113815,7 @@ womanliest
 womanlike
 womanliness
 womanly
+womannesses
 womans
 womb
 wombats
