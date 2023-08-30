@@ -1008,6 +1008,7 @@ admixes
 admixt
 admixture
 admixtures
+admonish
 admonisher
 admonishers
 admonishing
@@ -3933,6 +3934,7 @@ antilife
 antilifers
 antiliterate
 antilittering
+antilog
 antilogarithms
 antilogies
 antilogs
@@ -9505,6 +9507,7 @@ binnacle
 binnacles
 binning
 binocles
+binocs
 binocularities
 binoculars
 binomial
@@ -11992,6 +11995,7 @@ brioches
 brionies
 briquet
 briquette
+briquetted
 briquettes
 brisances
 brises
@@ -16865,6 +16869,7 @@ chowhounds
 chowing
 chows
 chowsed
+chowsing
 chowtimes
 chresard
 chresards
@@ -20817,6 +20822,7 @@ conventually
 conventuals
 converge
 converged
+convergence
 convergences
 convergencies
 convergent
@@ -21643,6 +21649,7 @@ cotillion
 cotillon
 cotillons
 cotinga
+cotingas
 cotoneasters
 cotquean
 cotqueans
@@ -22448,6 +22455,7 @@ credentialling
 credenza
 credenzas
 credible
+credibly
 credit
 creditabilities
 creditability
@@ -23488,6 +23496,7 @@ currejong
 currencies
 current
 currentness
+currentnesses
 curricle
 curricula
 curricular
@@ -24464,6 +24473,7 @@ deactivates
 deactivation
 deactivations
 deactivator
+deadbeats
 deadbolts
 deadened
 deadener
@@ -24578,6 +24588,7 @@ debarkers
 debarks
 debarment
 debarring
+debars
 debase
 debased
 debasements
@@ -28122,6 +28133,7 @@ disenthralled
 disenthralls
 disenthrals
 disentitled
+disentitles
 disentitling
 disequilibrated
 disequilibrates
@@ -33318,6 +33330,7 @@ equidistant
 equidistantly
 equids
 equilateral
+equilibrant
 equilibrants
 equilibrate
 equilibrated
@@ -34992,6 +35005,7 @@ exsertion
 exsiccated
 exsiccates
 exsiccation
+exsolution
 exstrophies
 exstrophy
 extant
@@ -39146,6 +39160,7 @@ freshly
 freshman
 freshmen
 freshnesses
+freshwater
 freshwaters
 fresnel
 fresnels
@@ -44498,6 +44513,7 @@ haricots
 haring
 harissa
 harissas
+hark
 harked
 harkeners
 harkening
@@ -45091,6 +45107,7 @@ heedful
 heedfulness
 heeding
 heedlessly
+heedlessness
 heedlessnesses
 heeds
 heehaw
@@ -48239,6 +48256,7 @@ ignorantness
 ignorantnesses
 ignore
 ignorer
+ignores
 ignoring
 iguana
 iguanian
@@ -50842,6 +50860,7 @@ intensifiers
 intensifies
 intensional
 intensionally
+intensities
 intensity
 intensive
 intensively
@@ -54477,6 +54496,7 @@ labdanums
 labeled
 labeler
 labelers
+labeling
 labella
 labelled
 labeller
@@ -56195,6 +56215,7 @@ lifeboat
 lifeboats
 lifecare
 lifecares
+lifeful
 lifeguarded
 lifeless
 lifelessness
@@ -56332,6 +56353,7 @@ limacine
 limacon
 limacons
 limans
+limas
 limb
 limba
 limbeck
@@ -57781,6 +57803,7 @@ luteotrophin
 luteotrophins
 luteotropic
 luteotropin
+luteotropins
 lutes
 lutestring
 lutestrings
@@ -78183,6 +78206,7 @@ prelatism
 prelatisms
 prelature
 prelatures
+prelaunch
 prelaunched
 prelaunching
 prelaw
@@ -78461,6 +78485,7 @@ presbyopics
 presbyter
 presbyterial
 presbyterially
+presbyterian
 presbyters
 presbytery
 preschedule
@@ -82930,6 +82955,7 @@ recircle
 recircled
 recircles
 recircling
+recirculate
 recirculated
 recirculates
 recirculating
@@ -87238,6 +87264,7 @@ ripcord
 ripcords
 ripe
 riped
+ripely
 ripen
 ripened
 ripener
@@ -87967,6 +87994,7 @@ royster
 roystered
 roystering
 roysters
+rozzers
 ruanas
 rub
 rubaboo
@@ -89505,6 +89533,7 @@ scandalize
 scandalized
 scandalizing
 scandalled
+scandalling
 scandalmonger
 scandalous
 scandalously
@@ -93927,6 +93956,7 @@ slipstream
 slipstreamed
 slipstreaming
 slipstreams
+slipups
 slipwares
 slipways
 slit
@@ -99754,6 +99784,7 @@ supercenter
 supercenters
 supercharger
 supercharges
+supercharging
 superchic
 superchurch
 superchurches
@@ -100573,6 +100604,7 @@ sweetbriar
 sweetbrier
 sweeten
 sweetened
+sweetener
 sweetenings
 sweetens
 sweetheart
@@ -103723,6 +103755,7 @@ tilled
 tiller
 tillered
 tillering
+tillerman
 tillermen
 tillites
 tills
@@ -105345,6 +105378,7 @@ treble
 trebled
 trebles
 trebling
+trebly
 trebuchet
 trebuchets
 trebucket
@@ -108848,6 +108882,7 @@ unmannerliness
 unmannish
 unmans
 unmapped
+unmarked
 unmarketable
 unmarried
 unmarrieds
