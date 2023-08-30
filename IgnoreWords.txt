@@ -2912,6 +2912,7 @@ amorphisms
 amorphous
 amorphously
 amorphousness
+amorphousnesses
 amortise
 amortization
 amortize
@@ -7593,6 +7594,7 @@ baronesses
 baronet
 baronetage
 baronetcies
+barong
 baronies
 baronne
 baronnes
@@ -20133,6 +20135,7 @@ confuses
 confusing
 confusion
 confutations
+confute
 confuter
 confutes
 confuting
@@ -22071,6 +22074,7 @@ coverall
 coveralled
 coveralls
 covering
+coverless
 coverlid
 covers
 coversine
@@ -24227,6 +24231,7 @@ dandies
 dandiest
 dandified
 dandifies
+dandifying
 dandle
 dandler
 dandlers
@@ -36835,6 +36840,7 @@ filter
 filterabilities
 filterability
 filterable
+filtered
 filterers
 filtering
 filters
@@ -43985,6 +43991,7 @@ haiku
 hail
 hails
 hailstone
+hailstones
 hailstorm
 hailstorms
 haimish
@@ -46677,6 +46684,7 @@ hooch
 hooches
 hoochie
 hoochies
+hooded
 hoodedness
 hoodednesses
 hoodie
@@ -47175,6 +47183,7 @@ hucksters
 huddled
 huddler
 huddling
+hue
 hued
 hueless
 hues
@@ -49327,6 +49336,7 @@ incinerations
 incinerator
 incipience
 incipiences
+incipiencies
 incipient
 incipiently
 incipit
@@ -49357,6 +49367,7 @@ inclasped
 inclasps
 inclemencies
 inclement
+inclemently
 inclined
 incliner
 incliners
@@ -52606,6 +52617,7 @@ jarina
 jarinas
 jarl
 jarldom
+jarls
 jarlsberg
 jarosite
 jarosites
@@ -53394,6 +53406,7 @@ kaiak
 kaiaks
 kaifs
 kail
+kails
 kailyard
 kain
 kainite
@@ -54004,6 +54017,7 @@ kindliness
 kindlinesses
 kindling
 kindnesses
+kindreds
 kinds
 kinemas
 kinematic
@@ -55037,6 +55051,7 @@ laparoscope
 laparoscopies
 laparoscopist
 laparoscopists
+laparoscopy
 laparotomies
 lapboard
 lapboards
@@ -56076,6 +56091,7 @@ lexically
 lexicographer
 lexicographers
 lexicographic
+lexicographical
 lexicography
 lexicologies
 lexicologist
@@ -77807,6 +77823,7 @@ preaudit
 preaudits
 preaverred
 prebake
+prebattle
 prebend
 prebendaries
 prebendary
@@ -78968,6 +78985,7 @@ priggism
 priggisms
 prigs
 prill
+prilled
 prilling
 prills
 prim
@@ -82749,6 +82767,7 @@ reattributes
 reattribution
 reauthorization
 reauthorized
+reauthorizing
 reavail
 reavails
 reave
@@ -85326,6 +85345,7 @@ rephrases
 rephrasing
 repigment
 repigmented
+repigments
 repinned
 repinning
 replace
@@ -86187,6 +86207,7 @@ restruck
 restructure
 restructured
 restructures
+restructuring
 rests
 restudied
 restudies
@@ -87678,6 +87699,7 @@ romanticises
 romanticism
 romanticisms
 romanticist
+romanticists
 romanticization
 romanticize
 romanticized
@@ -87722,6 +87744,7 @@ rookies
 rookiest
 room
 roomed
+roomer
 roomette
 roomettes
 roomful
@@ -91502,6 +91525,7 @@ serologically
 serologies
 serologists
 serology
+seronegative
 seronegativity
 seropurulent
 serosae
@@ -94409,6 +94433,7 @@ smothery
 smoulder
 smouldered
 smouldering
+smudged
 smudges
 smudgiest
 smudginess
@@ -97509,6 +97534,7 @@ sterigmas
 sterilant
 sterile
 sterilise
+sterilised
 sterilising
 sterilities
 sterilization
@@ -98510,6 +98536,7 @@ stunk
 stunned
 stunner
 stunners
+stunningly
 stuns
 stunsails
 stunt
@@ -99692,6 +99719,7 @@ summertimes
 summerwood
 summerwoods
 summery
+summing
 summit
 summital
 summited
@@ -101260,6 +101288,7 @@ ta
 tab
 tabanid
 tabanids
+tabard
 tabarded
 tabards
 tabbed
@@ -102088,6 +102117,7 @@ tearful
 tearfulnesses
 teargas
 teargassing
+teariness
 tearing
 tearless
 tearoom
@@ -102758,6 +102788,7 @@ terracing
 terrae
 terraform
 terraforming
+terraforms
 terrain
 terrains
 terranes
@@ -107878,6 +107909,7 @@ uncoupling
 uncourageous
 uncouthness
 uncouthnesses
+uncovenanted
 uncover
 uncovers
 uncracked
@@ -109481,6 +109513,7 @@ unskillfulness
 unslakable
 unsliced
 unslick
+unsling
 unslings
 unslung
 unsmart
@@ -112073,6 +112106,7 @@ volplanes
 volta
 voltage
 voltages
+voltaic
 voltaism
 voltmeter
 voltmeters
@@ -113133,6 +113167,7 @@ weest
 weet
 weever
 weevers
+weevil
 weevilly
 weevils
 weevily
