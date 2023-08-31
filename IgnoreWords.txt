@@ -2106,6 +2106,7 @@ algicidal
 algid
 algidities
 algidity
+algidness
 algidnesses
 alginate
 alginates
@@ -5546,6 +5547,7 @@ aspersive
 aspersors
 asphalt
 asphalted
+asphaltite
 asphalts
 aspherical
 asphodel
@@ -9733,6 +9735,7 @@ bioremediation
 biorhythm
 biorhythmic
 bios
+biosafeties
 biosafety
 bioscience
 bioscientific
@@ -10942,6 +10945,7 @@ bombards
 bombasters
 bombastically
 bombasts
+bombazine
 bombazines
 bombed
 bomber
@@ -11984,6 +11988,7 @@ brews
 brewski
 brewskies
 brewskis
+briar
 briard
 briards
 briarroot
@@ -14141,6 +14146,7 @@ cantharis
 canthaxanthins
 canthi
 canthitis
+canthitises
 cantic
 canticle
 canticles
@@ -18434,6 +18440,7 @@ cocaptaining
 cocaptains
 cocarboxylase
 cocarboxylases
+cocarcinogen
 cocarcinogenic
 cocarcinogens
 cocas
@@ -23271,6 +23278,7 @@ cryobiologists
 cryobiology
 cryogenic
 cryogenics
+cryogenies
 cryogens
 cryogeny
 cryonics
@@ -26853,6 +26861,7 @@ determinacy
 determinantal
 determinate
 determinateness
+determinative
 determinatives
 determinator
 determine
@@ -30841,6 +30850,7 @@ dyarchic
 dyarchy
 dybbukim
 dye
+dyeabilities
 dyeability
 dyeable
 dyeing
@@ -34182,6 +34192,7 @@ ethicals
 ethicians
 ethicists
 ethicize
+ethicizing
 ethinyls
 ethion
 ethionamide
@@ -35088,6 +35099,7 @@ expansible
 expansional
 expansionist
 expansionists
+expansions
 expansivenesses
 expansivity
 expat
@@ -40257,6 +40269,7 @@ futurity
 futurologies
 futurologist
 futurologists
+futurology
 futzed
 futzing
 fuze
@@ -44378,6 +44391,7 @@ hailstorm
 hailstorms
 haimish
 haint
+hair
 hairball
 hairballs
 hairbands
@@ -48513,6 +48527,7 @@ ichthyologies
 ichthyophagous
 ichthyosaur
 ichthyosaurian
+ichthyosaurians
 icicle
 iciest
 icinesses
@@ -48608,6 +48623,7 @@ ideogrammic
 ideograms
 ideographic
 ideographically
+ideographies
 ideography
 ideologic
 ideological
@@ -49216,6 +49232,7 @@ impede
 impeded
 impeder
 impedes
+impeding
 impellent
 impellents
 impeller
@@ -53350,6 +53367,7 @@ jimper
 jimpest
 jimply
 jimsonweed
+jingal
 jingall
 jingko
 jingkoes
@@ -67802,6 +67820,7 @@ numerary
 numerate
 numerated
 numerating
+numeration
 numerator
 numerators
 numeric
@@ -69160,6 +69179,7 @@ oratories
 oratorio
 oratorios
 orators
+oratory
 oratress
 oratresses
 oratrix
@@ -71017,6 +71037,7 @@ overfishing
 overfit
 overflew
 overflies
+overflight
 overflood
 overflooding
 overflow
@@ -71329,6 +71350,7 @@ overprizing
 overprocess
 overprocessed
 overprocessing
+overproduce
 overproduced
 overproduction
 overproductions
@@ -71781,6 +71803,7 @@ oxidases
 oxidasic
 oxidate
 oxidated
+oxidating
 oxidation
 oxidations
 oxidative
@@ -74794,6 +74817,7 @@ petrifactions
 petrifications
 petrifier
 petrifiers
+petrify
 petrifying
 petrochemicals
 petrodollar
@@ -76577,6 +76601,7 @@ platemaking
 platemakings
 platen
 plater
+plateresque
 platesful
 platform
 platforms
@@ -77060,6 +77085,7 @@ podgiest
 podgily
 podiatric
 podiatrist
+podiatrists
 podiatry
 podites
 poditic
@@ -83203,6 +83229,7 @@ reaccents
 reaccepted
 reaccepts
 reaccession
+reacclaim
 reacclaiming
 reacclimatize
 reacclimatizes
@@ -87477,6 +87504,7 @@ reviewing
 revile
 revilement
 revilements
+revilers
 reviles
 reviling
 reviolate
@@ -91471,6 +91499,7 @@ secretively
 secretly
 secretor
 secretors
+secretory
 secrets
 secs
 sect
@@ -94362,6 +94391,7 @@ skilful
 skilfully
 skill
 skilled
+skillessness
 skillet
 skillets
 skillful
@@ -95835,6 +95865,7 @@ solanum
 solanums
 solaria
 solarise
+solarised
 solarises
 solarism
 solarium
@@ -103417,6 +103448,7 @@ tenderization
 tenderizations
 tenderized
 tenderizer
+tenderizes
 tenderloin
 tenderly
 tenderometer
@@ -103778,6 +103810,7 @@ testosterone
 tests
 testudines
 testudo
+testy
 tet
 tetanic
 tetanics
@@ -111154,6 +111187,7 @@ urbanely
 urbaner
 urbanest
 urbanisation
+urbanisations
 urbanise
 urbanises
 urbanising
@@ -114267,6 +114301,7 @@ western
 westerner
 westernisations
 westernised
+westernises
 westernize
 westernized
 westerns
