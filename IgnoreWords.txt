@@ -611,6 +611,7 @@ acquiescences
 acquiescently
 acquiescing
 acquired
+acquiree
 acquirees
 acquirement
 acquirements
@@ -4977,6 +4978,7 @@ archines
 archings
 archipelagic
 archipelago
+architect
 architectonics
 architecture
 architrave
@@ -6907,6 +6909,7 @@ backdropping
 backdrops
 backdropt
 backers
+backfield
 backfields
 backfilled
 backfilling
@@ -9811,6 +9814,7 @@ bipropellant
 bipropellants
 bipyramid
 bipyramidal
+bipyramids
 biquadratic
 biquadratics
 biradial
@@ -13102,6 +13106,7 @@ butadiene
 butane
 butanes
 butanol
+butanols
 butanone
 butanones
 butch
@@ -22167,6 +22172,7 @@ coupledoms
 couplements
 couples
 couplet
+couplings
 coupon
 couponing
 couponings
@@ -26951,6 +26957,7 @@ detritions
 detritus
 detrude
 detruded
+detrudes
 detruding
 detrusion
 detrusions
@@ -27178,6 +27185,7 @@ diabolizes
 diabolizing
 diabolo
 diabolos
+diacetyls
 diachronically
 diachrony
 diacid
@@ -29395,6 +29403,7 @@ doffs
 dog
 dogbanes
 dogcart
+dogcarts
 dogdoms
 doge
 dogearing
@@ -30429,6 +30438,7 @@ drugs
 drugstore
 druid
 druidic
+druidical
 druidism
 druids
 drumbeater
@@ -30689,6 +30699,7 @@ dunghill
 dunghills
 dungiest
 dunging
+dungs
 dungy
 dunk
 dunked
@@ -31901,6 +31912,7 @@ elucubration
 elucubrations
 eluded
 eluder
+eluders
 eludes
 eluding
 eluents
@@ -34410,6 +34422,7 @@ euphuistically
 euphuists
 euplastic
 euplastics
+euploid
 euploids
 euploidy
 eupnea
@@ -35921,6 +35934,7 @@ fallboards
 faller
 fallers
 fallfish
+fallfishes
 fallibilities
 fallible
 fallibly
@@ -40537,6 +40551,7 @@ galumphing
 galumphs
 galvanic
 galvanically
+galvanise
 galvanises
 galvanising
 galvanism
@@ -44677,6 +44692,7 @@ handedness
 handednesses
 hander
 handers
+handfasted
 handfasting
 handfasts
 handful
@@ -49776,6 +49792,7 @@ incinerate
 incinerated
 incinerates
 incinerating
+incineration
 incinerations
 incinerator
 incipience
@@ -50597,6 +50614,7 @@ influentially
 influentials
 influents
 influenza
+influxes
 info
 infobahn
 infold
@@ -57418,6 +57436,7 @@ livener
 liveners
 liveness
 livening
+livens
 liver
 livered
 liveried
@@ -67396,6 +67415,7 @@ nonuniversity
 nonuple
 nonurban
 nonurgent
+nonusable
 nonusers
 nonuses
 nonusing
@@ -70724,6 +70744,7 @@ overbets
 overbetted
 overbetting
 overbidden
+overbids
 overbilled
 overbilling
 overbills
@@ -70854,6 +70875,7 @@ overcooling
 overcools
 overcorrected
 overcorrecting
+overcount
 overcounted
 overcounting
 overcoy
@@ -71728,6 +71750,7 @@ ovicide
 oviducal
 oviduct
 oviductal
+oviform
 ovine
 ovipara
 oviparity
@@ -73001,6 +73024,7 @@ parred
 parrels
 parricidal
 parricides
+parrier
 parriers
 parring
 parritches
@@ -75966,6 +75990,7 @@ pinangs
 pinas
 pinasters
 pinata
+pinball
 pinballed
 pinballs
 pinbones
@@ -88939,6 +88964,7 @@ rubrics
 rubus
 rubying
 rubylike
+ruche
 ruches
 ruching
 ruck
@@ -91271,6 +91297,7 @@ scurry
 scurrying
 scurvier
 scurviest
+scurvily
 scurvy
 scut
 scutages
@@ -95259,6 +95286,7 @@ smoothes
 smoothest
 smoothies
 smoothing
+smoothnesses
 smooths
 smorgasbord
 smote
@@ -96983,6 +97011,7 @@ spilt
 spilths
 spinach
 spinachy
+spinages
 spinally
 spinals
 spinate
@@ -97698,6 +97727,7 @@ squintingly
 squints
 squinty
 squirarchies
+squirarchy
 squire
 squirearchies
 squirearchy
@@ -100195,6 +100225,7 @@ subtract
 subtracter
 subtracters
 subtractions
+subtractive
 subtracts
 subtrahend
 subtreasury
@@ -103005,6 +103036,7 @@ teamwork
 teapots
 teapoys
 tear
+tearable
 tearaway
 tearaways
 teardown
@@ -107782,6 +107814,7 @@ tweaking
 tweaky
 tweed
 tweedier
+tweediest
 tweediness
 tweedinesses
 tweedled
@@ -110558,6 +110591,7 @@ unsteel
 unsteeling
 unsteels
 unstemmed
+unstepping
 unsteps
 unsterile
 unsterilized
@@ -110993,6 +111027,7 @@ uplinks
 uplit
 upload
 uploaded
+uploading
 uploads
 upmanships
 upped
