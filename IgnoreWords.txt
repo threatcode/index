@@ -430,6 +430,7 @@ accusation
 accusative
 accusatives
 accusatory
+accuser
 accusers
 accustom
 accustomation
@@ -7214,6 +7215,7 @@ balkanizations
 balkanize
 balkanized
 balkanizes
+balkanizing
 balked
 balker
 balkers
@@ -8161,6 +8163,7 @@ bebeerus
 beblood
 beblooded
 beblooding
+bebloods
 bebop
 bebopper
 bebops
@@ -9684,6 +9687,7 @@ biometricians
 biometrics
 biometries
 biomimetic
+biomimetics
 biomolecules
 biomorphic
 biomorphs
@@ -14767,6 +14771,7 @@ carte
 carted
 cartelise
 cartelised
+cartelises
 cartelising
 cartelization
 cartelizations
@@ -18637,6 +18642,7 @@ coelostats
 coembodied
 coembodies
 coembody
+coembodying
 coemploy
 coemployed
 coemploying
@@ -20680,6 +20686,7 @@ consuls
 consulships
 consultancies
 consultancy
+consultant
 consultants
 consultantship
 consultantships
@@ -22269,6 +22276,7 @@ cowiest
 cowing
 cowinners
 cowled
+cowlick
 cowlicks
 cowlings
 cowlstaffs
@@ -22527,6 +22535,7 @@ crawl
 crawled
 crawler
 crawlers
+crawliest
 crawling
 crawls
 crawlway
@@ -25670,6 +25679,7 @@ dekare
 deke
 deked
 dekeing
+dekes
 deking
 del
 delaine
@@ -26672,6 +26682,7 @@ despondencies
 despondency
 despondent
 despondently
+despot
 despotic
 despumate
 despumated
@@ -33066,6 +33077,7 @@ enticing
 enticingly
 entirely
 entireness
+entirenesses
 entirety
 entities
 entitle
@@ -35799,6 +35811,7 @@ falbalas
 falcate
 falces
 falchion
+falchions
 falciform
 falconer
 falconers
@@ -43113,6 +43126,7 @@ greatnesses
 greats
 greave
 greaves
+grebe
 grebes
 grecianizing
 grecize
@@ -51232,6 +51246,7 @@ intemperance
 intemperances
 intemperate
 intemperately
+intemperateness
 intend
 intendances
 intendants
@@ -53869,6 +53884,7 @@ karsts
 kart
 karting
 kartings
+karts
 karyogamies
 karyogamy
 karyokineses
@@ -68798,6 +68814,7 @@ opaquely
 opaqueness
 opaquenesses
 opaquer
+opaquest
 opaquing
 ope
 openabilities
@@ -71941,6 +71958,7 @@ paintable
 paintball
 paintballs
 paintbrush
+paintbrushes
 painterliness
 painterlinesses
 painterly
@@ -74835,6 +74853,7 @@ phencyclidines
 phenetic
 pheneticist
 pheneticists
+phenetics
 phenetol
 phenetole
 phenetoles
@@ -77940,6 +77959,7 @@ postsynaptic
 postsynced
 postsyncing
 postteen
+postteens
 posttensioned
 posttensioning
 posttensions
@@ -82211,6 +82231,7 @@ rabbit
 rabbitbrush
 rabbited
 rabbiter
+rabbiters
 rabbiting
 rabbitries
 rabbits
@@ -85139,6 +85160,7 @@ reintegrative
 reinter
 reinterpret
 reinterprets
+reinterred
 reinters
 reinterview
 reinterviewing
@@ -86952,6 +86974,7 @@ retia
 retiarii
 retiarius
 reticences
+reticencies
 reticency
 reticent
 reticently
@@ -87540,6 +87563,7 @@ rheumatics
 rheumatism
 rheumatisms
 rheumatiz
+rheumatizes
 rheumatoid
 rheumatologist
 rheumatologists
@@ -89410,6 +89434,7 @@ salmon
 salmonberries
 salmonberry
 salmonellae
+salmonellas
 salmonellosis
 salmonid
 salmonoid
@@ -90931,6 +90956,7 @@ scrip
 scripted
 scripter
 scripters
+scripting
 scriptorium
 scripture
 scriptures
@@ -90941,6 +90967,7 @@ scrives
 scrod
 scrofulas
 scrofulous
+scroggiest
 scroggy
 scrolled
 scrolling
@@ -95247,6 +95274,7 @@ snifter
 snifters
 snigger
 sniggered
+sniggerers
 sniggers
 sniggle
 sniggled
@@ -95818,6 +95846,7 @@ solvent
 solventless
 solver
 solves
+solving
 solvolysis
 solvolytic
 som
@@ -103697,6 +103726,7 @@ thairm
 thairms
 thalami
 thalamus
+thalassaemia
 thalassaemias
 thalassemias
 thalassic
@@ -107133,6 +107163,7 @@ tubbiness
 tubbinesses
 tubby
 tube
+tubed
 tubeless
 tuber
 tubercle
@@ -109325,6 +109356,7 @@ ungrateful
 ungratefully
 ungratefulness
 ungreased
+ungreedy
 ungroomed
 unground
 ungual
@@ -111296,6 +111328,7 @@ validness
 validnesses
 valises
 valkyr
+valkyries
 valkyrs
 vallate
 vallation
@@ -112491,6 +112524,7 @@ virilisms
 virility
 virilized
 virilizes
+virilizing
 virion
 virl
 virls
@@ -116096,6 +116130,7 @@ yuppified
 yuppifies
 yuppify
 yuppifying
+yuppy
 yurt
 yutz
 ywis
