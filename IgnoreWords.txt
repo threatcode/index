@@ -4559,6 +4559,7 @@ appeasable
 appease
 appeased
 appeasement
+appeasements
 appeasers
 appellation
 appellative
@@ -5125,6 +5126,7 @@ armhole
 armholes
 armies
 armiger
+armigeral
 armigerous
 armillae
 arming
@@ -5164,6 +5166,7 @@ arnattos
 arnicas
 aroid
 aroids
+arointing
 aroma
 aromas
 aromatherapies
@@ -8089,6 +8092,7 @@ bearbaitings
 bearberries
 bearcats
 beardedness
+beardednesses
 bearding
 beardtongue
 bearers
@@ -9876,6 +9880,7 @@ biserrate
 bises
 bisexuality
 bisexually
+bishop
 bishoprics
 bisks
 bismuth
@@ -16753,6 +16758,7 @@ chlorals
 chloramines
 chlorate
 chlorates
+chlordan
 chlordane
 chlordanes
 chlordans
@@ -22249,6 +22255,7 @@ cowinners
 cowled
 cowlicks
 cowlings
+cowlstaffs
 cowlstaves
 cowmen
 coworker
@@ -26131,6 +26138,7 @@ denture
 dentures
 denturist
 denturists
+denuclearize
 denuclearized
 denuclearizes
 denudate
@@ -27246,6 +27254,7 @@ diastrophisms
 diatessaron
 diathermanous
 diathermic
+diathermy
 diathesis
 diatom
 diatomaceous
@@ -29630,6 +29639,7 @@ dorsum
 dorty
 dory
 dos
+dose
 doser
 dosers
 doses
@@ -36635,6 +36645,7 @@ festoons
 fests
 fetal
 fetas
+fetations
 fetched
 fetchers
 fetching
@@ -37950,6 +37961,7 @@ floppier
 floppies
 floppiest
 floppiness
+floppinesses
 floppy
 flora
 florae
@@ -53936,6 +53948,7 @@ kegged
 kegger
 keggers
 kegging
+keglers
 kegling
 keglings
 kegs
@@ -57925,6 +57938,7 @@ lubricities
 lubricity
 lucarne
 lucarnes
+luce
 lucence
 lucences
 lucencies
@@ -61877,6 +61891,7 @@ mirkily
 mirks
 mirror
 mirrored
+mirroring
 mirth
 mirthful
 mirthfulness
@@ -62218,6 +62233,7 @@ misfiling
 misfire
 misfiring
 misfits
+misfocus
 misfocused
 misfocuses
 misfocusing
@@ -65390,6 +65406,7 @@ neglecting
 neglectors
 neglects
 negligee
+negligees
 negligences
 negligently
 negliges
@@ -65632,6 +65649,7 @@ netsukes
 nettable
 netted
 netter
+nettier
 netting
 nettings
 nettle
@@ -75775,6 +75793,7 @@ pinitol
 pink
 pinken
 pinkening
+pinkens
 pinkeye
 pinkie
 pinkies
@@ -75866,6 +75885,7 @@ pinyons
 piolet
 piolets
 pion
+pioneer
 pioneering
 pioneers
 pionic
@@ -78846,6 +78866,7 @@ preoccupies
 preoccupy
 preopening
 preoperative
+preoperatively
 preops
 preoption
 preordained
@@ -79789,6 +79810,7 @@ professorial
 professoriat
 professoriates
 professoriats
+proffer
 proffered
 profferer
 profferers
@@ -82129,6 +82151,7 @@ rabidnesses
 rabies
 rabietic
 raccoon
+raccoons
 race
 racecourse
 racehorse
@@ -86247,6 +86270,7 @@ resections
 resecured
 resecuring
 reseda
+resee
 reseed
 reseeking
 reseeks
@@ -86954,6 +86978,7 @@ retransmitted
 retransmitting
 retread
 retreaded
+retreading
 retreads
 retreat
 retreated
@@ -87901,6 +87926,7 @@ riskless
 risorgimento
 risotto
 rissole
+rissoles
 ristra
 ristras
 risus
@@ -88002,6 +88028,7 @@ roans
 roar
 roared
 roarers
+roarings
 roast
 roasted
 roaster
@@ -97912,6 +97939,7 @@ steeplebush
 steeplebushes
 steeplechase
 steeplechaser
+steeplechasing
 steeplechasings
 steepled
 steeplejack
@@ -98470,6 +98498,7 @@ stonishing
 stony
 stonyhearted
 stood
+stooged
 stooges
 stooging
 stook
@@ -102865,6 +102894,7 @@ telegonies
 telegony
 telegrammed
 telegramming
+telegraphed
 telegrapher
 telegraphers
 telegraphically
@@ -103544,6 +103574,7 @@ tevatrons
 tewed
 tewing
 textbook
+textbookish
 textbooks
 textile
 textiles
@@ -104924,6 +104955,7 @@ tombak
 tombed
 tombing
 tombless
+tomblike
 tombola
 tombolas
 tombolos
@@ -111267,6 +111299,7 @@ vanisher
 vanishers
 vanishes
 vanishing
+vanishingly
 vanitied
 vanities
 vanloads
@@ -112107,6 +112140,7 @@ victoriously
 victoriousness
 victors
 victory
+victress
 victresses
 victual
 victualed
@@ -112590,6 +112624,7 @@ vocables
 vocabs
 vocabular
 vocabularies
+vocabulary
 vocal
 vocalese
 vocaleses
