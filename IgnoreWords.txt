@@ -1092,6 +1092,7 @@ adulterant
 adulterants
 adulterated
 adulterates
+adulterating
 adulterations
 adulterators
 adulterer
@@ -1591,6 +1592,7 @@ agglutinability
 agglutinable
 agglutinate
 agglutinated
+agglutinates
 agglutination
 agglutinations
 agglutinogenic
@@ -3410,6 +3412,7 @@ anglicize
 anglicized
 anglicizing
 angling
+anglophone
 anglos
 angoras
 angosturas
@@ -6049,6 +6052,7 @@ attentional
 attentions
 attentive
 attentively
+attenuate
 attenuated
 attenuates
 attenuating
@@ -15150,6 +15154,7 @@ cathepsin
 catheptic
 catheterization
 catheterized
+catheterizes
 cathexes
 cathodally
 cathode
@@ -15445,6 +15450,7 @@ cellulites
 cellulitis
 cellulitises
 celluloid
+celluloids
 cellulolytic
 celluloses
 cellulous
@@ -24579,6 +24585,7 @@ daunter
 daunters
 dauntless
 dauntlessness
+dauntlessnesses
 dauphine
 dauphines
 dauphins
@@ -25107,6 +25114,7 @@ decolorizations
 decolorized
 decolorizer
 decolorizers
+decolorizes
 decolors
 decolour
 decoloured
@@ -32109,6 +32117,7 @@ emeries
 emerita
 emeritae
 emeriti
+emerods
 emeroid
 emersed
 emes
@@ -34438,6 +34447,7 @@ evaporations
 evaporators
 evaporite
 evaporitic
+evasion
 evasions
 evasive
 evasively
@@ -35867,6 +35877,7 @@ falseness
 falsenesses
 falser
 falsest
+falsetto
 falsettos
 falsework
 falseworks
@@ -37119,6 +37130,7 @@ filthily
 filthiness
 filthinesses
 filths
+filthy
 filtrated
 filtrating
 filtration
@@ -37183,6 +37195,7 @@ finfoot
 finfoots
 finger
 fingerboards
+fingered
 fingerer
 fingerers
 fingerhold
@@ -38336,6 +38349,7 @@ foamflowers
 foamily
 foaminess
 foaming
+foamless
 foamlike
 foams
 foamy
@@ -39481,6 +39495,7 @@ freshening
 fresher
 freshes
 freshet
+freshets
 freshing
 freshly
 freshman
@@ -47177,6 +47192,7 @@ horninesses
 horning
 hornings
 hornist
+hornists
 hornito
 hornitos
 hornless
@@ -51553,6 +51569,7 @@ interloper
 interlopers
 interloping
 interlude
+interlunar
 interlunary
 intermale
 intermarriage
@@ -55054,6 +55071,7 @@ laconisms
 lacquer
 lacquerer
 lacquering
+lacquers
 lacquerware
 lacquerwares
 lacqueyed
@@ -60497,6 +60515,7 @@ memorablenesses
 memorably
 memoranda
 memorandum
+memorandums
 memorial
 memorialise
 memorialised
@@ -61531,6 +61550,7 @@ mightier
 mightily
 mightiness
 mightinesses
+mighty
 mignon
 mignonette
 mignonettes
@@ -70979,6 +70999,7 @@ overgoads
 overgovern
 overgoverning
 overgrazed
+overgrazing
 overgreat
 overgrow
 overgrown
@@ -74252,6 +74273,7 @@ peridium
 peridotite
 peridotites
 perigeal
+perigean
 perigee
 perigees
 perigons
@@ -74487,6 +74509,7 @@ perseverates
 perseverating
 perseveration
 perseverative
+persevere
 persevered
 persevering
 persiflages
@@ -77558,6 +77581,7 @@ pooh
 poohed
 poohing
 pooing
+pool
 pooled
 pooler
 poolers
@@ -78221,6 +78245,7 @@ practicum
 practise
 practised
 practitioner
+praecipe
 praedial
 praefect
 praelect
@@ -78772,6 +78797,7 @@ prefixion
 prefixions
 preflight
 preflighted
+preflighting
 preflights
 prefocuses
 prefocusing
@@ -82192,6 +82218,7 @@ quitters
 quitting
 quittor
 quittors
+quiver
 quivered
 quiverers
 quivering
@@ -91736,6 +91763,7 @@ semideserts
 semidiameter
 semidiameters
 semidivine
+semidocumentary
 semidome
 semidomed
 semidomes
@@ -96480,6 +96508,7 @@ spatiotemporal
 spats
 spatted
 spattering
+spatular
 spatulate
 spatzle
 spavies
@@ -98102,6 +98131,7 @@ steeplejacks
 steeples
 steepness
 steepnesses
+steeps
 steer
 steerable
 steerageway
@@ -99846,6 +99876,7 @@ subrogating
 subrogation
 subrogations
 subroutine
+subroutines
 subrule
 subs
 subsale
@@ -105533,6 +105564,7 @@ touchpads
 touchstone
 touchtone
 touchtones
+touchups
 touchy
 tough
 toughener
@@ -108445,6 +108477,7 @@ uncap
 uncapable
 uncapped
 uncapping
+uncaps
 uncaptioned
 uncapturable
 uncarpeted
@@ -111841,6 +111874,7 @@ venenate
 venenates
 venenes
 venenose
+venerable
 venerableness
 venerablenesses
 venerably
@@ -113069,6 +113103,7 @@ vulcanite
 vulcanites
 vulcanizate
 vulcanizates
+vulcanizations
 vulcanized
 vulcanizer
 vulcanizers
