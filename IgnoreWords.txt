@@ -776,6 +776,7 @@ aculeus
 acumen
 acumens
 acuminates
+acuminating
 acuminous
 acupressure
 acupressures
@@ -1231,6 +1232,7 @@ aeneus
 aeon
 aeonian
 aeonic
+aeons
 aepyornises
 aequorin
 aequorins
@@ -1621,6 +1623,7 @@ aggrandizement
 aggrandizer
 aggrandizers
 aggrandizes
+aggrandizing
 aggravate
 aggravated
 aggravates
@@ -4785,6 +4788,7 @@ apsides
 apt
 apter
 apteral
+apteria
 apterous
 aptest
 aptitude
@@ -7089,6 +7093,7 @@ bacterin
 bacterins
 bacteriocins
 bacteriological
+bacteriologies
 bacteriologist
 bacteriolyses
 bacteriolysis
@@ -12092,6 +12097,7 @@ bribing
 brickbat
 brickfield
 brickier
+brickiest
 bricking
 bricklaying
 bricklayings
@@ -16497,6 +16503,7 @@ cheesinesses
 cheesy
 chefdom
 chefdoms
+chefed
 cheffed
 cheffing
 chefing
@@ -16725,6 +16732,7 @@ childlikenesses
 childly
 children
 chile
+chiles
 chili
 chiliadal
 chiliadic
@@ -21748,6 +21756,7 @@ corporally
 corporals
 corporates
 corporation
+corporatism
 corporative
 corporativism
 corporator
@@ -22804,6 +22813,7 @@ creams
 creamware
 creamwares
 creamy
+crease
 creased
 creaseless
 creaser
@@ -24853,6 +24863,7 @@ dawting
 day
 daybed
 daybeds
+daybook
 daybreaks
 daycares
 daydreamed
@@ -28129,6 +28140,7 @@ diploid
 diploidic
 diploidies
 diploidy
+diploma
 diplomacies
 diplomacy
 diplomata
@@ -30846,6 +30858,7 @@ dulcifying
 dulcimer
 dulcimers
 dulcimore
+dulcimores
 dulcinea
 dulcineas
 dulia
@@ -31986,6 +31999,7 @@ electronics
 electrophile
 electrophilic
 electrophorese
+electrophoresed
 electrophoreses
 electrophorus
 electroplate
@@ -35964,6 +35978,7 @@ facedown
 facedowns
 faceless
 facelessnesses
+facelift
 facelifted
 facelifting
 facelifts
@@ -42116,6 +42131,7 @@ girders
 girdingly
 girdle
 girdled
+girdler
 girdlers
 girdles
 girdling
@@ -45558,6 +45574,7 @@ hawklike
 hawkmoth
 hawkmoths
 hawknose
+hawknoses
 hawks
 hawkshaw
 hawkweed
@@ -55615,6 +55632,7 @@ lacy
 lad
 ladanum
 laddered
+ladderlike
 laddies
 laddish
 lade
@@ -58041,6 +58059,7 @@ locksmith
 locksmithing
 locksmithings
 locksmiths
+locksteps
 lockstitch
 lockstitched
 lockstitches
@@ -63602,6 +63621,7 @@ mogging
 moghul
 moghuls
 mogs
+mogul
 moguled
 mohair
 mohairs
@@ -67339,6 +67359,7 @@ nonelectronic
 nonelementary
 nonemergencies
 nonemergency
+nonemotional
 nonemployees
 nonemployment
 nonemployments
@@ -68485,6 +68506,7 @@ oars
 oarsmanships
 oarsmen
 oarswomen
+oast
 oasthouses
 oat
 oatcake
@@ -69500,6 +69522,7 @@ operativeness
 operativenesses
 operatives
 operator
+operatorless
 operators
 opercula
 opercular
@@ -70409,6 +70432,7 @@ outdazzled
 outdazzling
 outdebated
 outdebates
+outdebating
 outdeliver
 outdelivering
 outdelivers
@@ -78133,6 +78157,7 @@ polysyndetons
 polytechnic
 polytechnics
 polytene
+polytenies
 polytheism
 polytheisms
 polytheistic
@@ -79125,6 +79150,7 @@ prebid
 prebidden
 prebids
 prebilling
+prebills
 prebinds
 prebiological
 prebirth
@@ -80160,6 +80186,7 @@ prettifying
 prettily
 prettiness
 pretty
+prettyish
 pretype
 pretyped
 pretyping
@@ -85223,6 +85250,7 @@ reenjoyed
 reenjoying
 reenjoys
 reenlarge
+reenlarged
 reenlarges
 reenlarging
 reenlist
@@ -98918,6 +98946,7 @@ steaminess
 steaminesses
 steaming
 steamroll
+steamrolled
 steamroller
 steamrollered
 steamrolling
@@ -106924,6 +106953,7 @@ transgressor
 transhipped
 transhipping
 transhumance
+transhumances
 transience
 transiences
 transiencies
@@ -108058,6 +108088,7 @@ trustees
 trusteeship
 trusteeships
 truster
+trusters
 trustful
 trustfully
 trustfulness
@@ -110274,6 +110305,7 @@ unfoiled
 unfold
 unfolded
 unfolder
+unfolding
 unfoldment
 unfond
 unforced
@@ -113324,6 +113356,7 @@ videophone
 videophones
 videotaped
 videotaping
+videotex
 videotexes
 videotext
 videotexts
@@ -114976,6 +115009,7 @@ weeny
 weep
 weepie
 weepies
+weepiest
 weepiness
 weepinesses
 weeping
@@ -115160,6 +115194,7 @@ whaleback
 whaleboats
 whalebones
 whaleman
+whalemen
 whalers
 whales
 whaling
