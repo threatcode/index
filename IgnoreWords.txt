@@ -2403,6 +2403,7 @@ alloying
 alls
 allseed
 allseeds
+allsorts
 allspice
 allspices
 allude
@@ -3121,6 +3122,7 @@ anagrammatized
 anagrammatizes
 anagrammatizing
 anagrammed
+anagrams
 analcimic
 analcite
 analcites
@@ -3315,6 +3317,7 @@ anecdotally
 anecdote
 anecdotes
 anecdotic
+anecdotical
 anecdotically
 anecdotists
 anelasticity
@@ -5728,6 +5731,7 @@ assorts
 assuage
 assuagement
 assuagements
+assuager
 assuages
 assuaging
 assumability
@@ -8198,6 +8202,7 @@ bechalks
 bechamels
 bechance
 bechances
+bechancing
 becharm
 becharming
 becharms
@@ -8491,6 +8496,7 @@ begazes
 begazing
 beget
 begets
+begetters
 beggar
 beggared
 beggaries
@@ -17083,6 +17089,7 @@ chromatolysis
 chromatophore
 chrome
 chromed
+chromic
 chromide
 chromides
 chromiest
@@ -21312,6 +21319,7 @@ coproduct
 coproduction
 coproductions
 coproducts
+coprolite
 coprolites
 coprology
 copromoter
@@ -22611,6 +22619,7 @@ crayoners
 crayonist
 crayons
 craze
+crazes
 crazier
 crazies
 crazily
@@ -29705,6 +29714,7 @@ doped
 dopehead
 doper
 dopers
+dopesheet
 dopesheets
 dopester
 dopey
@@ -41338,6 +41348,7 @@ gentling
 gently
 gentoo
 gentrices
+gentries
 gentrification
 gentrifications
 gentrified
@@ -45768,6 +45779,7 @@ helpmeet
 helpmeets
 helps
 helve
+helved
 helving
 hem
 hemacytometer
@@ -50783,6 +50795,7 @@ inhauler
 inhauls
 inhere
 inhered
+inherence
 inherences
 inherent
 inhering
@@ -58895,6 +58908,7 @@ maidservants
 maieutic
 maigre
 maihem
+maihems
 mailable
 mailbag
 maile
@@ -62983,6 +62997,7 @@ mitochondrial
 mitochondrion
 mitogenic
 mitogenicities
+mitogens
 mitomycins
 mitosis
 mitotically
@@ -68106,6 +68121,7 @@ objets
 objurgate
 objurgated
 objurgates
+objurgatory
 oblast
 oblasti
 oblasts
@@ -68409,6 +68425,7 @@ octillions
 octodecillion
 octogenarian
 octogenarians
+octonary
 octopi
 octoploid
 octoploids
@@ -73369,6 +73386,7 @@ paternosters
 paters
 path
 pathbreaking
+pathetic
 pathetical
 pathetically
 pathfinders
@@ -79029,6 +79047,7 @@ prejudges
 prejudging
 prejudgment
 prejudgments
+prejudice
 prejudiced
 prejudices
 prejudicialness
@@ -80595,6 +80614,7 @@ prosily
 prosimians
 prosinesses
 prosit
+proso
 prosobranch
 prosobranchs
 prosodist
@@ -80659,6 +80679,7 @@ protamin
 protamines
 protases
 protasis
+protatic
 protea
 protean
 proteans
@@ -85275,6 +85296,7 @@ reimports
 reimpose
 reimposed
 reimposes
+reimposition
 reimpositions
 reimpression
 reincarnate
@@ -87186,6 +87208,7 @@ rethread
 rethreaded
 rethreads
 retia
+retial
 retiarii
 retiarius
 reticences
@@ -95452,6 +95475,7 @@ sneap
 sneaping
 sneaps
 snecks
+sned
 snedded
 snedding
 sneds
@@ -95632,6 +95656,7 @@ snowfields
 snowier
 snowily
 snowiness
+snowing
 snowland
 snowlands
 snowless
@@ -96832,6 +96857,7 @@ speedwells
 speeled
 speeling
 speels
+speer
 speered
 speering
 speers
@@ -97857,6 +97883,7 @@ stageable
 stagecoach
 stagecoaches
 stagecraft
+stagecrafts
 stageful
 stagefuls
 stagehand
@@ -98708,6 +98735,7 @@ stob
 stobbed
 stobbing
 stobs
+stoccados
 stoccata
 stoccatas
 stock
@@ -104316,6 +104344,7 @@ thingness
 thingummies
 think
 thinkableness
+thinkablenesses
 thinkably
 thinker
 thinkers
@@ -104774,6 +104803,7 @@ tidewater
 tideway
 tideways
 tidier
+tidiers
 tidiest
 tidily
 tidiness
@@ -108082,6 +108112,7 @@ tyrannizers
 tyrannizes
 tyrannosaurs
 tyrannosaurus
+tyrannosauruses
 tyrannously
 tyranny
 tyrant
@@ -108297,6 +108328,7 @@ ultraviolet
 ultravirile
 ultravirilities
 ultravirility
+ultrawide
 ululant
 ululated
 ululates
@@ -110388,6 +110420,7 @@ unrobed
 unroll
 unrolled
 unrolls
+unromantic
 unromantically
 unromanticized
 unroofed
@@ -114659,6 +114692,7 @@ whisperings
 whispery
 whisted
 whisting
+whistle
 whistled
 whistler
 whistlers
@@ -115208,6 +115242,7 @@ wiseguy
 wiseguys
 wiselier
 wisely
+wisenesses
 wisenheimer
 wisent
 wisents
