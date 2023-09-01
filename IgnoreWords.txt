@@ -539,6 +539,7 @@ achromatizing
 achromats
 achromic
 achromous
+acicula
 aciculum
 aciculums
 acidemia
@@ -4083,6 +4084,7 @@ antiphrasis
 antipiracy
 antiplague
 antiplaque
+antipleasure
 antipoaching
 antipodal
 antipodals
@@ -5902,6 +5904,7 @@ atamascos
 ataps
 ataractic
 ataractics
+ataraxia
 ataraxias
 ataraxic
 ataraxics
@@ -8116,6 +8119,7 @@ beaming
 beamishly
 beamless
 beams
+beamy
 bean
 beanbag
 beanbags
@@ -16858,6 +16862,7 @@ chloralose
 chloralosed
 chloraloses
 chlorals
+chloramine
 chloramines
 chlorate
 chlorates
@@ -20365,6 +20370,7 @@ confraternity
 confrere
 confront
 confrontal
+confrontation
 confrontational
 confrontations
 confronters
@@ -24243,6 +24249,7 @@ cytochemistry
 cytogenetic
 cytogeneticist
 cytogeneticists
+cytogenetics
 cytokines
 cytokineses
 cytokinesis
@@ -26760,6 +26767,7 @@ desirability
 desirableness
 desirables
 desirably
+desire
 desired
 desirers
 desires
@@ -36218,6 +36226,7 @@ farced
 farcers
 farcical
 farcicalities
+farcically
 farcy
 fard
 farded
@@ -47974,6 +47983,7 @@ huppah
 hurdies
 hurdled
 hurdles
+hurdling
 hurds
 hurl
 hurler
@@ -48696,6 +48706,7 @@ ichthyosaur
 ichthyosaurian
 ichthyosaurians
 icicle
+icier
 iciest
 icinesses
 icing
@@ -48826,6 +48837,7 @@ idiotype
 idiotypes
 idiotypic
 idle
+idled
 idleness
 idlenesses
 idler
@@ -55306,6 +55318,7 @@ lacewing
 lacewings
 lacewood
 lachrymal
+lachrymals
 lachrymator
 lachrymators
 lachrymose
@@ -57743,6 +57756,7 @@ localised
 localises
 localising
 localism
+localisms
 localists
 localities
 locality
@@ -58329,6 +58343,7 @@ lucences
 lucencies
 lucerne
 lucernes
+lucerns
 luces
 lucid
 lucidness
@@ -63136,6 +63151,7 @@ mither
 mithers
 mithridates
 miticidal
+miticide
 miticides
 mitier
 mitiest
@@ -63573,6 +63589,7 @@ monitorship
 monitorships
 monkery
 monkey
+monkeying
 monkeyish
 monkeypod
 monkeypots
@@ -65570,6 +65587,7 @@ natriureses
 natriuresis
 natriuretic
 natriuretics
+natrolite
 natron
 natrons
 natter
@@ -68628,6 +68646,7 @@ oculars
 oculi
 oculomotor
 oculus
+od
 oda
 odahs
 odalisque
@@ -68930,6 +68949,7 @@ oligosaccharide
 oliguria
 olingo
 olingos
+olio
 olivaceous
 olivary
 olive
@@ -69858,6 +69878,7 @@ ostracise
 ostracises
 ostracism
 ostracize
+ostracizing
 ostracode
 ostracoderm
 ostracoderms
@@ -77939,6 +77960,7 @@ poodles
 poods
 poof
 poofter
+poofters
 poofy
 pooh
 poohed
@@ -78232,6 +78254,7 @@ postcollege
 postcollegiate
 postcolonial
 postconception
+postconcert
 postconquest
 postconsonantal
 postcopulatory
@@ -82395,6 +82418,7 @@ quellable
 quelled
 queller
 quellers
+quench
 quenched
 quencher
 quenchers
@@ -83540,6 +83564,7 @@ reactionaries
 reactionary
 reactionaryisms
 reactions
+reactivate
 reactivating
 reactivation
 reactivations
@@ -89980,6 +90005,7 @@ salutatories
 salutatory
 salute
 saluter
+salvably
 salvage
 salvageability
 salvageable
@@ -91802,6 +91828,7 @@ secretin
 secretins
 secretion
 secretively
+secretivenesses
 secretly
 secretor
 secretors
@@ -93867,6 +93894,7 @@ shuns
 shunt
 shunted
 shunter
+shunting
 shush
 shushed
 shusher
@@ -95666,6 +95694,7 @@ snaps
 snapshot
 snapshotted
 snapweeds
+snare
 snared
 snarers
 snares
@@ -99777,6 +99806,7 @@ sturgeon
 sturgeons
 sturt
 sturts
+stuttered
 stutterer
 stutters
 styed
@@ -102073,6 +102103,7 @@ switchyard
 switchyards
 swithe
 swither
+swithering
 swithly
 swived
 swiveling
@@ -107591,6 +107622,7 @@ truing
 truism
 truistic
 trull
+truly
 trumeau
 trumeaux
 trump
@@ -109072,6 +109104,7 @@ uncivilized
 unclad
 unclaimed
 unclamp
+unclamped
 unclamping
 unclamps
 unclarified
@@ -109949,6 +109982,7 @@ unhackneyed
 unhailed
 unhairer
 unhairers
+unhairing
 unhairs
 unhallow
 unhallowed
@@ -115020,6 +115054,7 @@ whittret
 whity
 whiz
 whizbangs
+whizz
 whizzbang
 whizzed
 whizzer
