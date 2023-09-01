@@ -261,6 +261,7 @@ accented
 accenting
 accentless
 accentor
+accents
 accentually
 accentuate
 accentuating
@@ -1072,6 +1073,7 @@ adrenalins
 adrenalized
 adrenally
 adrenergic
+adrenergically
 adrenochrome
 adrenocortical
 adroit
@@ -4937,6 +4939,7 @@ arccosine
 arced
 arch
 archaeal
+archaean
 archaeans
 archaebacteria
 archaeologies
@@ -6618,6 +6621,7 @@ avocation
 avocational
 avocationally
 avocets
+avodire
 avodires
 avoid
 avoidance
@@ -8368,6 +8372,7 @@ bedquilts
 bedraggle
 bedraggled
 bedraggling
+bedrails
 bedrenches
 bedrid
 bedridden
@@ -9043,6 +9048,7 @@ besmear
 besmearers
 besmearing
 besmears
+besmile
 besmiled
 besmiles
 besmirch
@@ -10443,6 +10449,7 @@ blocking
 blockish
 blocs
 blog
+blogger
 bloggers
 bloggings
 blogs
@@ -11798,6 +11805,7 @@ brannigan
 branning
 branny
 brans
+brant
 brantail
 brantails
 brants
@@ -17857,6 +17865,7 @@ clasts
 clathrate
 clattered
 clatterer
+clatterers
 clatteringly
 clattery
 claucht
@@ -18750,6 +18759,7 @@ codriven
 codriver
 codrivers
 codriving
+codrove
 cods
 codswallop
 coedit
@@ -23879,6 +23889,7 @@ cursedly
 cursedness
 curser
 cursers
+curses
 cursing
 cursive
 cursively
@@ -26777,6 +26788,7 @@ desexualized
 desexualizes
 deshabille
 deshabilles
+desiccants
 desiccated
 desiccating
 desiccation
@@ -27899,6 +27911,7 @@ dimercaprols
 dimeric
 dimerism
 dimerization
+dimerizations
 dimerizes
 dimerizing
 dimers
@@ -28075,6 +28088,7 @@ diplomate
 diplomates
 diplomatic
 diplomatist
+diplomatists
 diplomats
 diplontic
 diplopias
@@ -33659,6 +33673,7 @@ epigram
 epigrammatic
 epigrammatist
 epigrammatists
+epigrammatize
 epigrammatized
 epigrammatizer
 epigrammatizes
@@ -34553,6 +34568,7 @@ euphausid
 euphausids
 euphausiids
 euphemise
+euphemised
 euphemism
 euphemisms
 euphemist
@@ -36775,6 +36791,7 @@ feminises
 feminising
 feminism
 feminisms
+feminist
 feministic
 feminities
 feminity
@@ -39184,6 +39201,7 @@ forgivably
 forgiveness
 forgivenesses
 forgiver
+forgives
 forgivingness
 forgivingnesses
 forgo
@@ -41714,6 +41732,7 @@ gerontologists
 gerontology
 gerontomorphic
 gerrymandered
+gerrymandering
 gerund
 gerundive
 gerunds
@@ -46085,6 +46104,7 @@ hemophilias
 hemopoieses
 hemopoiesis
 hemopoietic
+hemoproteins
 hemorrhaged
 hemorrhages
 hemorrhaging
@@ -52139,6 +52159,7 @@ interstellar
 intersterile
 intersterility
 interstice
+interstices
 interstitially
 interstrand
 interstratifies
@@ -52214,6 +52235,7 @@ inthrone
 inthroned
 inti
 intifadah
+intifadahs
 intifadehs
 intima
 intimacies
@@ -52627,6 +52649,7 @@ inwinds
 inwound
 inwove
 inwoven
+inwrap
 inwrapping
 inwrought
 iodate
@@ -73911,6 +73934,7 @@ payee
 payees
 payer
 paygrade
+paygrades
 paying
 payload
 paymaster
@@ -73968,6 +73992,7 @@ peak
 peakedness
 peakednesses
 peakiest
+peakish
 peakless
 peaklike
 peaks
@@ -74871,6 +74896,7 @@ perkiness
 perkinesses
 perking
 perkish
+perky
 perlite
 perlitic
 perm
@@ -81988,6 +82014,7 @@ purulence
 purulences
 purulencies
 purvey
+purveyance
 purveyances
 purveying
 purveyors
@@ -87780,6 +87807,7 @@ retunes
 retuning
 returnable
 returnables
+returnee
 returner
 returners
 returning
@@ -89447,6 +89475,7 @@ rueful
 ruefully
 ruefulness
 ruefulnesses
+ruer
 rues
 rufescent
 ruffed
@@ -92957,6 +92986,7 @@ severalty
 severance
 severances
 severe
+severed
 severely
 severeness
 severenesses
@@ -93645,6 +93675,7 @@ shirtmakers
 shirts
 shirtsleeve
 shirtsleeved
+shirtsleeves
 shirttail
 shirttailed
 shirttails
@@ -106649,6 +106680,7 @@ transects
 transept
 transepts
 transeunt
+transfect
 transfected
 transfecting
 transfections
@@ -113362,6 +113394,7 @@ viscidity
 viscidly
 viscoelastic
 viscoelasticity
+viscoidal
 viscometers
 viscometric
 viscometries
@@ -115067,6 +115100,7 @@ whiffing
 whiffler
 whifflers
 whiffles
+whiffs
 whigmaleerie
 whigmaleeries
 whigs
@@ -116092,6 +116126,7 @@ wordage
 wordages
 wordbook
 wordier
+wordily
 wordings
 wordless
 wordlessly
