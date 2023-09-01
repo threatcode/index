@@ -2573,6 +2573,7 @@ altimetries
 altimetry
 altitude
 altitudinal
+alto
 altocumuli
 altocumulus
 altogether
@@ -6605,6 +6606,7 @@ aviates
 aviations
 aviator
 aviators
+aviatrice
 aviatrix
 aviatrixes
 avicular
@@ -7727,6 +7729,7 @@ barracudas
 barrage
 barraged
 barraging
+barramunda
 barramundas
 barramundi
 barramundis
@@ -8139,6 +8142,7 @@ beaked
 beaker
 beakless
 beaklike
+beam
 beamed
 beamier
 beamily
@@ -10131,6 +10135,7 @@ blackgum
 blackhead
 blackheads
 blackheart
+blackings
 blackish
 blackjack
 blackjacked
@@ -12334,6 +12339,7 @@ brominations
 bromine
 brominisms
 bromisms
+bromized
 bromizes
 bromo
 bromocriptines
@@ -15909,6 +15915,7 @@ chaebol
 chaetae
 chaetopod
 chafed
+chafer
 chafers
 chafes
 chaff
@@ -18795,6 +18802,7 @@ coeducational
 coeducationally
 coeducations
 coeffect
+coeffects
 coefficient
 coelacanth
 coelacanths
@@ -20251,6 +20259,7 @@ condole
 condoled
 condolence
 condolent
+condoler
 condolers
 condoles
 condom
@@ -20847,6 +20856,7 @@ constringe
 constringing
 construable
 construal
+construals
 construct
 construction
 constructional
@@ -28068,6 +28078,7 @@ dioramic
 diorites
 dioritic
 diosgenin
+diosgenins
 dioxan
 dioxane
 dioxans
@@ -29003,6 +29014,7 @@ disprove
 disproved
 disproven
 disproving
+disputable
 disputant
 disputations
 disputatious
@@ -29151,6 +29163,7 @@ dissimulation
 dissimulations
 dissimulator
 dissimulators
+dissing
 dissipate
 dissipated
 dissipatedly
@@ -29659,6 +29672,7 @@ dognap
 dognaped
 dognaper
 dognapers
+dognaping
 dognapped
 dognapper
 dognappers
@@ -38717,6 +38731,7 @@ fogdog
 fogdogs
 fogey
 fogeyish
+fogeyism
 fogeyisms
 fogeys
 fogfruit
@@ -39307,6 +39322,7 @@ formats
 formatter
 formatters
 forme
+formed
 formee
 former
 formerly
@@ -45903,6 +45919,7 @@ heftiness
 hefting
 hefts
 hegaris
+hegemonic
 hegemonies
 hegemons
 hegemony
@@ -46725,6 +46742,7 @@ hilding
 hill
 hillbillies
 hillbilly
+hillcrests
 hilled
 hiller
 hillier
@@ -47684,6 +47702,7 @@ hortative
 hortatively
 hortatory
 horticultural
+horticulturally
 horticultures
 hos
 hosanna
@@ -50101,6 +50120,7 @@ incessancy
 incessant
 incessantly
 incest
+incests
 incestuous
 incestuousness
 inched
@@ -57551,6 +57571,7 @@ lionesses
 lionfish
 lionfishes
 lionhearted
+lionise
 lionised
 lionisers
 lionising
@@ -57575,6 +57596,7 @@ lipogeneses
 lipoid
 lipoidal
 lipoids
+lipolitic
 lipolyses
 lipolytic
 lipoma
@@ -72165,6 +72187,7 @@ overwarms
 overwary
 overwatch
 overwatched
+overwater
 overwatered
 overwatering
 overwaters
@@ -77418,6 +77441,7 @@ ploughers
 ploughing
 ploughs
 plowable
+plowback
 plowed
 plower
 plowhead
@@ -77852,6 +77876,7 @@ polkas
 pollack
 pollacks
 pollard
+pollarded
 pollarding
 polled
 pollees
@@ -82764,6 +82789,7 @@ quieters
 quietism
 quietistic
 quiets
+quietude
 quietudes
 quietuses
 quiff
@@ -88063,6 +88089,7 @@ reversibility
 reversibly
 reversing
 reversion
+reversionary
 reversioner
 reversions
 reverso
@@ -91266,6 +91293,7 @@ schlepp
 schlepped
 schlepping
 schleps
+schlockiest
 schlocks
 schlocky
 schlub
@@ -92145,6 +92173,7 @@ secularises
 secularism
 secularisms
 secularistic
+secularities
 secularization
 secularize
 secularizer
@@ -93246,6 +93275,7 @@ shaft
 shafted
 shafts
 shagbark
+shagbarks
 shaggiest
 shaggily
 shagginess
@@ -94776,6 +94806,7 @@ sinuously
 sinuousness
 sinuousnesses
 sinus
+sinusitis
 sinusitises
 sinuslike
 sinusoid
@@ -106370,6 +106401,7 @@ totem
 totemism
 totemisms
 totemist
+totemistic
 totemites
 totems
 toter
@@ -108502,6 +108534,7 @@ tweak
 tweakier
 tweaking
 tweaky
+twee
 tweed
 tweedier
 tweediest
@@ -116057,6 +116090,7 @@ wofully
 wog
 woggish
 wogs
+woken
 woks
 wold
 wolds
@@ -116755,6 +116789,7 @@ yapoks
 yapon
 yapons
 yapper
+yappers
 yaps
 yar
 yard

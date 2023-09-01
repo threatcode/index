@@ -1,0 +1,10 @@
+Threads: Semaphores - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-semaphores.txt
+Threads: Monitors - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-monitors.txt
+rt-mutex-design.txt,https://www.kernel.org/doc/Documentation/locking/rt-mutex-design.txt
+knfsd-stats.txt,https://www.kernel.org/doc/Documentation/filesystems/nfs/knfsd-stats.txt
+Documentation/filesystems/nfs/knfsd-stats.txt - kernel/common,https://android.googlesource.com/kernel/common/%2B/android-trusty-3.10/Documentation/filesystems/nfs/knfsd-stats.txt
+bcc/tools/wakeuptime_example.txt at master · iovisor/bcc - GitHub,https://github.com/iovisor/bcc/blob/master/tools/wakeuptime_example.txt
+tools/offwaketime_example.txt - platform/external/bcc - Git at Google,https://android.googlesource.com/platform/external/bcc/%2B/HEAD/tools/offwaketime_example.txt
+RFC 165 - IETF,https://www.ietf.org/rfc/rfc165.txt
+RFC 123 - IETF,https://www.ietf.org/rfc/rfc123.txt
+system-activation.txt - dbus - Freedesktop.org,https://dbus.freedesktop.org/doc/system-activation.txt
