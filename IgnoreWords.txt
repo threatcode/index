@@ -351,6 +351,7 @@ accompanists
 accompanying
 accomplice
 accomplices
+accomplisher
 accomplishment
 accomplishments
 accordance
@@ -378,6 +379,7 @@ accounting
 accountings
 accounts
 accoutered
+accouterment
 accouterments
 accouters
 accoutred
@@ -6630,6 +6632,7 @@ avocets
 avodire
 avodires
 avoid
+avoidably
 avoidance
 avoidances
 avoided
@@ -6828,6 +6831,7 @@ azuki
 azukis
 azulejos
 azure
+azurite
 azygos
 azygoses
 ba
@@ -12845,6 +12849,7 @@ bumpiest
 bumpily
 bumpiness
 bumpinesses
+bumpkinish
 bumpkinly
 bumpkins
 bumps
@@ -14261,6 +14266,7 @@ cantos
 cantrap
 cants
 cantus
+canty
 canulae
 canular
 canulas
@@ -17511,6 +17517,7 @@ circularization
 circularize
 circularness
 circulatable
+circulated
 circulates
 circulating
 circulation
@@ -23419,6 +23426,7 @@ crustless
 crustose
 crusty
 crutch
+crutched
 crutching
 crux
 cruzadoes
@@ -30888,6 +30896,7 @@ dunderheads
 dundrearies
 duneland
 dunelike
+dunes
 dung
 dungaree
 dungareed
@@ -39636,6 +39645,7 @@ frankfurts
 frankincense
 frankincenses
 franking
+franklins
 frankness
 franknesses
 frankpledge
@@ -40599,6 +40609,7 @@ gadders
 gaddi
 gadfly
 gadget
+gadgeteers
 gadgetries
 gadgetry
 gadgets
@@ -42812,6 +42823,7 @@ golconda
 goldarn
 goldbricked
 goldbricking
+goldbug
 goldbugs
 golden
 goldener
@@ -45354,6 +45366,7 @@ hartshorn
 hartshorns
 harumph
 harumphing
+haruspex
 haruspication
 haruspications
 haruspices
@@ -46174,6 +46187,7 @@ hemplike
 hempseeds
 hempy
 hems
+hemstitch
 hemstitched
 hemstitcher
 hemstitchers
@@ -48835,6 +48849,7 @@ ich
 ichneumon
 ichneumons
 ichnite
+ichnites
 ichnolite
 ichnolites
 ichnologies
@@ -52867,6 +52882,7 @@ irredenta
 irredentas
 irredentist
 irreducibility
+irreducibly
 irreflexive
 irreformability
 irreformable
@@ -52924,6 +52940,7 @@ irrigable
 irrigably
 irrigate
 irrigated
+irrigates
 irrigating
 irrigation
 irrigators
@@ -54139,6 +54156,7 @@ jupon
 jupons
 jura
 jurally
+juratory
 jurels
 juridic
 juridical
@@ -56127,6 +56145,7 @@ laticifer
 laticifers
 latifundio
 latifundios
+latifundium
 latillas
 latinas
 latinity
@@ -57431,6 +57450,7 @@ linens
 linerboard
 linerboards
 linerless
+liners
 lines
 linesman
 linesmen
@@ -61220,6 +61240,7 @@ meritoriousness
 merk
 merks
 merl
+merles
 merlin
 merlins
 merlon
@@ -70886,6 +70907,7 @@ outsources
 outsourcing
 outsourcings
 outspan
+outspanning
 outspans
 outsparkle
 outsparkled
@@ -75928,6 +75950,7 @@ phototaxy
 phototelegraphy
 phototoxic
 phototoxicities
+phototoxicity
 phototubes
 phototype
 phototypes
@@ -79105,6 +79128,7 @@ precensoring
 precensors
 precenting
 precents
+preceptorial
 preceptors
 preceptorship
 preceptorships
@@ -84740,6 +84764,7 @@ redamage
 redamaging
 redan
 redans
+redargue
 redargued
 redarguing
 redate
@@ -85469,6 +85494,7 @@ refugium
 refulgence
 refundabilities
 refundability
+refunders
 refunds
 refurbish
 refurbisher
@@ -89332,6 +89358,7 @@ roughnecks
 roughrider
 roughriders
 roughs
+roughy
 rouging
 rouille
 rouilles
@@ -93697,6 +93724,7 @@ shinleaves
 shinneries
 shinnery
 shinney
+shinneyed
 shinnied
 shinnies
 shinning
@@ -97723,6 +97751,7 @@ spirometries
 spirometry
 spirt
 spirting
+spirts
 spirula
 spirulae
 spirulina
@@ -98106,6 +98135,7 @@ sprints
 sprite
 sprites
 sprits
+spritsail
 spritsails
 spritzed
 spritzer
@@ -98156,6 +98186,7 @@ spurious
 spuriously
 spuriousness
 spurned
+spurner
 spurners
 spurns
 spurrer
@@ -99141,6 +99172,7 @@ stiff
 stiffed
 stiffen
 stiffened
+stiffeners
 stiffening
 stiffens
 stiffer
@@ -105496,6 +105528,7 @@ timberlines
 timberwork
 timbrel
 timbrelled
+timbrels
 time
 timecard
 timekeeper
@@ -106235,6 +106268,7 @@ torous
 torpedo
 torpedoed
 torpedoes
+torpedos
 torpid
 torpidly
 torpids
@@ -107037,6 +107071,7 @@ traumatizing
 travail
 travailing
 travails
+trave
 traveled
 traveler
 travelers
