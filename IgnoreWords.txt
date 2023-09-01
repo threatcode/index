@@ -1659,6 +1659,7 @@ agio
 agios
 agiotage
 agiotages
+agism
 agisms
 agisted
 agists
@@ -5895,6 +5896,7 @@ asyla
 asyllabic
 asylums
 asymmetry
+asymptote
 asymptotes
 asymptotic
 asymptotically
@@ -14608,6 +14610,7 @@ carcinoid
 carcinoids
 carcinoma
 carcinomata
+carcinomatosis
 carcinomatous
 carcinosarcoma
 card
@@ -15164,6 +15167,7 @@ cataractous
 catarrh
 catarrhal
 catarrhally
+catarrhine
 catarrhines
 catarrhs
 catastrophe
@@ -18948,6 +18952,7 @@ cohabit
 cohabitants
 cohabitation
 cohabiter
+cohabiting
 cohead
 coheaded
 coheading
@@ -21608,6 +21613,7 @@ corkinesses
 corklike
 corkscrew
 corkscrewed
+corkscrewing
 corkscrews
 corkwood
 corkwoods
@@ -23666,6 +23672,7 @@ cultism
 cultist
 cultivability
 cultivable
+cultivar
 cultivated
 cultivating
 cultivation
@@ -31102,6 +31109,7 @@ dynorphin
 dynorphins
 dysarthria
 dysarthrias
+dyscrasia
 dyscrasias
 dyscrasic
 dysenteries
@@ -32424,6 +32432,7 @@ emodin
 emodins
 emollient
 emollients
+emolument
 emote
 emoticon
 emoting
@@ -32444,6 +32453,7 @@ emotions
 emotive
 emotivity
 empale
+empaled
 empalers
 empales
 empaling
@@ -38175,6 +38185,7 @@ flexuose
 flexure
 fley
 fleying
+flibbertigibbet
 flichter
 flichtered
 flichters
@@ -39515,6 +39526,7 @@ foxtrotting
 foxy
 foy
 foys
+fozier
 foziest
 foziness
 fozinesses
@@ -40231,6 +40243,7 @@ fullfaces
 fulling
 fullmouthed
 fullness
+fulminant
 fulminated
 fulminates
 fulminating
@@ -41578,6 +41591,7 @@ gentries
 gentrification
 gentrifications
 gentrified
+gentrifier
 gentrifiers
 gentrify
 gentrifying
@@ -43329,6 +43343,7 @@ graphical
 graphically
 graphicnesses
 graphics
+graphing
 graphite
 graphites
 graphitic
@@ -44275,6 +44290,7 @@ gunning
 gunnings
 gunny
 gunnybag
+gunnybags
 gunnysack
 gunnysacks
 gunpaper
@@ -45710,6 +45726,7 @@ heartily
 heartiness
 heartinesses
 hearting
+heartland
 heartless
 heartlessly
 heartlessness
@@ -47458,6 +47475,7 @@ hooligans
 hoop
 hooped
 hoopers
+hoopla
 hooplas
 hoopless
 hooplike
@@ -57753,6 +57771,7 @@ liturgically
 liturgics
 liturgiologies
 liturgiologist
+liturgiologists
 liturgism
 liturgisms
 liturgist
@@ -58939,6 +58958,7 @@ macers
 mach
 maches
 machetes
+machicolation
 machicolations
 machinabilities
 machinability
@@ -64193,6 +64213,7 @@ morion
 morions
 morn
 morning
+mornings
 morocco
 moron
 moronic
@@ -71465,6 +71486,7 @@ overfear
 overfearing
 overfed
 overfeeding
+overfeeds
 overfertilize
 overfertilizes
 overfill
@@ -75198,6 +75220,7 @@ pesetas
 pesewa
 peskier
 peskiness
+peso
 pesos
 pessaries
 pessary
@@ -75673,6 +75696,7 @@ phonons
 phonos
 phonotactic
 phonotype
+phonotypes
 phonotypy
 phons
 phony
@@ -77083,6 +77107,7 @@ platforms
 platies
 platiest
 platina
+platinic
 platinize
 platinized
 platinizes
@@ -77273,6 +77298,7 @@ pleochroic
 pleochroisms
 pleomorphic
 pleomorphisms
+pleon
 pleonal
 pleonasm
 pleonasms
@@ -78423,6 +78449,7 @@ possibly
 possum
 post
 postabortion
+postadolescent
 postage
 postages
 postal
@@ -80301,6 +80328,7 @@ printer
 printeries
 printery
 printing
+printless
 printmaker
 printmaking
 printmakings
@@ -82542,6 +82570,7 @@ quarterlies
 quarterly
 quartermaster
 quartermasters
+quarterns
 quarters
 quarterstaff
 quarterstaves
@@ -87505,6 +87534,7 @@ restrictives
 restrikes
 restring
 restrive
+restriven
 restrives
 restriving
 restrooms
@@ -96913,6 +96943,7 @@ sough
 soughed
 soughing
 sought
+souk
 soukouses
 souks
 soul
@@ -97904,6 +97935,7 @@ sporangia
 sporangial
 sporangiophores
 sporangium
+spored
 spores
 sporicidal
 sporicide
@@ -102128,6 +102160,7 @@ swannery
 swanning
 swanpan
 swans
+swansdowns
 swanskins
 swap
 swapped
@@ -108603,6 +108636,7 @@ typescripts
 typeset
 typesets
 typesetter
+typesetters
 typesetting
 typesettings
 typestyle
@@ -111374,6 +111408,7 @@ untransformed
 untranslatable
 untrapped
 untraveled
+untraversed
 untread
 untreaded
 untreading
