@@ -3040,6 +3040,7 @@ amuse
 amused
 amusements
 amuser
+amusers
 amusia
 amusing
 amusingly
@@ -12126,6 +12127,7 @@ brinks
 brinksmanship
 brins
 brioches
+briolettes
 brionies
 briquet
 briquette
@@ -12240,6 +12242,7 @@ broils
 brokage
 brokages
 broke
+broken
 brokenhearted
 brokenly
 brokenness
@@ -13908,6 +13911,7 @@ camphires
 camphol
 camphor
 camphoraceous
+camphorate
 camphorated
 camphors
 campier
@@ -14340,6 +14344,7 @@ capsaicin
 capsids
 capsizing
 capsomer
+capsomeres
 capstan
 capstans
 capstone
@@ -16280,6 +16285,7 @@ chaunted
 chaunters
 chaunting
 chaunts
+chausses
 chaussures
 chauvinistic
 chawbacon
@@ -19780,6 +19786,7 @@ complexified
 complexifies
 complexify
 complexing
+complexion
 complexioned
 complexities
 complexity
@@ -20562,6 +20569,7 @@ conquistadores
 conquistadors
 cons
 consanguineous
+consanguinities
 consanguinity
 conscience
 conscientious
@@ -24648,6 +24656,7 @@ datto
 datum
 datura
 daturas
+daub
 daube
 daubed
 dauberies
@@ -29418,6 +29427,7 @@ doddery
 dodecagons
 dodecahedra
 dodecahedral
+dodecahedrons
 dodecaphonic
 dodecaphonies
 dodecaphonist
@@ -32702,6 +32712,7 @@ endoperoxides
 endoplasm
 endoplasms
 endopod
+endopolyploid
 endopolyploidy
 endoproct
 endorphins
@@ -38133,6 +38144,7 @@ floodplain
 floodplains
 floods
 floodtides
+floodwall
 floodwalls
 floodwaters
 flooey
@@ -38830,6 +38842,7 @@ foreboder
 forebodies
 forebodingly
 forebodingness
+forebodings
 foreboom
 forebooms
 forebrain
@@ -41699,6 +41712,7 @@ gibingly
 giblet
 giblets
 gibs
+gid
 giddied
 giddies
 giddiest
@@ -42545,6 +42559,7 @@ godding
 godetia
 godetias
 godets
+godfather
 godfathered
 godfathering
 godfathers
@@ -46484,6 +46499,7 @@ hilled
 hiller
 hillier
 hilliest
+hilliness
 hillinesses
 hilling
 hilloaing
@@ -50447,6 +50463,7 @@ inelegances
 inelegant
 inelegantly
 ineligibilities
+ineligibility
 ineligible
 ineligibles
 ineloquent
@@ -59688,6 +59705,7 @@ marjorams
 mark
 marka
 markas
+markdowns
 marked
 markedly
 markedness
@@ -61146,6 +61164,7 @@ metamorphically
 metamorphism
 metamorphose
 metamorphosed
+metamorphosis
 metanalyses
 metanalysis
 metanephroi
@@ -62580,6 +62599,7 @@ mishandles
 mishandling
 mishanter
 mishanters
+mishap
 mishearing
 mishears
 mishegaas
@@ -64615,6 +64635,7 @@ multiunion
 multiunit
 multiuser
 multivalence
+multivalences
 multivalent
 multivariate
 multiversities
@@ -67085,6 +67106,7 @@ noninfluences
 noninformation
 noninformations
 noninfringement
+noninitiate
 noninitiates
 noninsect
 noninsecticidal
@@ -69289,6 +69311,7 @@ orbed
 orbicular
 orbicularly
 orbiest
+orbing
 orbit
 orbiter
 orbiters
@@ -74631,6 +74654,7 @@ permissibleness
 permissibly
 permission
 permit
+permits
 permitted
 permitter
 permitting
@@ -75438,6 +75462,7 @@ photofinishers
 photofinishing
 photofinishings
 photoflashes
+photoflood
 photofloods
 photog
 photogenic
@@ -83157,6 +83182,7 @@ rater
 raters
 ratfinks
 ratfish
+ratfishes
 rathe
 rather
 rathole
@@ -88526,6 +88552,7 @@ rocs
 rodding
 rode
 rodent
+rodenticide
 rodenticides
 rodents
 rodeoed
@@ -96898,6 +96925,7 @@ speedballed
 speedboat
 speedboatings
 speedboats
+speeded
 speeder
 speeders
 speedier
@@ -97592,6 +97620,7 @@ springals
 springboard
 springbok
 springboks
+springe
 springer
 springers
 springes
@@ -99037,6 +99066,7 @@ stound
 stounded
 stounds
 stoup
+stoups
 stour
 stoure
 stoures
@@ -100147,6 +100177,7 @@ subrents
 subreption
 subreptions
 subreptitiously
+subrogates
 subrogating
 subrogation
 subrogations
@@ -102597,6 +102628,7 @@ talented
 talentless
 talents
 taler
+talers
 talesman
 talesmen
 taleysim
@@ -103361,6 +103393,7 @@ telefilms
 telegonic
 telegonies
 telegony
+telegram
 telegrammed
 telegramming
 telegraphed
@@ -113577,6 +113610,7 @@ waifish
 waifs
 wailed
 wailers
+wailful
 wailfully
 wailsome
 wain
@@ -115612,6 +115646,7 @@ woodsier
 woodsman
 woodsmen
 woodstoves
+woodsy
 woodtones
 woodwax
 woodwaxen
