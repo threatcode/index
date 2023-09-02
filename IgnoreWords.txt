@@ -1025,6 +1025,7 @@ admonisher
 admonishers
 admonishing
 admonishment
+admonishments
 admonitions
 admonitor
 admonitors
@@ -1061,6 +1062,7 @@ adorations
 adore
 adored
 adorer
+adorers
 adores
 adoring
 adoringly
@@ -1401,6 +1403,7 @@ affiliating
 affiliation
 affinal
 affine
+affined
 affinely
 affines
 affinity
@@ -4485,6 +4488,7 @@ apochromatic
 apocopate
 apocopated
 apocopates
+apocopic
 apocrine
 apocrypha
 apocryphal
@@ -7662,6 +7666,7 @@ barfed
 barfing
 barflies
 barfly
+barfs
 bargained
 bargaining
 barge
@@ -9545,6 +9550,7 @@ bikers
 bikes
 bikeways
 bikies
+biking
 bikini
 bikinis
 bilabial
@@ -13053,6 +13059,7 @@ burglar
 burglariously
 burglarize
 burglarized
+burglarizes
 burglarizing
 burglarproof
 burglars
@@ -18050,6 +18057,7 @@ cleanly
 cleanness
 cleannesses
 cleanse
+cleansed
 cleanser
 cleansers
 cleanses
@@ -18431,6 +18439,7 @@ clubwoman
 clubwomen
 clue
 clued
+clueing
 clueless
 clues
 cluing
@@ -35082,6 +35091,7 @@ exaltations
 exalter
 exalters
 exalting
+exalts
 exam
 examinable
 examinants
@@ -36465,6 +36475,7 @@ fangless
 fanglike
 fanlight
 fanlights
+fanlike
 fanned
 fanner
 fanners
@@ -39205,6 +39216,7 @@ forcible
 forcibleness
 forcing
 ford
+fordable
 fordid
 fording
 fordless
@@ -45242,6 +45254,7 @@ handing
 handiwork
 handkerchiefs
 handkerchieves
+handlebars
 handled
 handleless
 handler
@@ -46739,6 +46752,7 @@ heteroses
 heterosexual
 heterosexuals
 heterosis
+heterospory
 heterothallisms
 heterotic
 heterotopic
@@ -48354,6 +48368,7 @@ hungrily
 hungriness
 hungry
 hunk
+hunkered
 hunkers
 hunkey
 hunkeys
@@ -54945,6 +54960,7 @@ keypunchers
 keypunches
 keypunching
 keyset
+keysets
 keyster
 keysters
 keystone
@@ -63529,6 +63545,7 @@ missounded
 missounds
 missouts
 misspace
+misspaced
 misspaces
 misspeaking
 misspeaks
@@ -65375,6 +65392,7 @@ muras
 murder
 murdered
 murderee
+murderees
 murderer
 murderess
 murderesses
@@ -73278,6 +73296,7 @@ panfishes
 panfries
 panfry
 panfuls
+pangas
 pangen
 pangene
 pangenes
@@ -75399,6 +75418,7 @@ permitting
 perms
 permutable
 permutational
+permute
 permuted
 permutes
 permuting
@@ -76862,6 +76882,7 @@ pinballing
 pinballs
 pinbones
 pincer
+pincers
 pinch
 pinchbeck
 pinchbecks
@@ -82070,6 +82091,7 @@ publicizes
 publicizing
 publicnesses
 publics
+publishable
 published
 publisher
 publishes
@@ -82907,6 +82929,7 @@ quaigh
 quailed
 quailing
 quainter
+quaintest
 quaintly
 quaintness
 quaintnesses
@@ -84184,6 +84207,7 @@ rayas
 rayed
 raygrass
 rayless
+raylessnesses
 raze
 razee
 razeed
@@ -88645,6 +88669,7 @@ rewax
 rewaxed
 rewaxes
 rewaxing
+rewear
 rewearing
 reweaved
 reweaves
@@ -88820,6 +88845,7 @@ rhombical
 rhombohedra
 rhombohedron
 rhombohedrons
+rhomboid
 rhomboidal
 rhomboideus
 rhombs
@@ -89424,6 +89450,7 @@ rockroses
 rockshaft
 rockslides
 rockwork
+rockworks
 rocky
 rococo
 rocs
@@ -90382,6 +90409,7 @@ sacrarial
 sacrarium
 sacred
 sacredness
+sacrednesses
 sacrificer
 sacrificers
 sacrifices
@@ -91566,6 +91594,7 @@ scarp
 scarpered
 scarpering
 scarpers
+scarphed
 scarphs
 scarping
 scarred
@@ -94996,6 +95025,7 @@ silicons
 silicoses
 silicosis
 silicotic
+silicotics
 silicula
 siliculae
 siliqua
@@ -96115,6 +96145,7 @@ slubs
 sludge
 sludged
 sludges
+sludgiest
 sludging
 sludgy
 slue
@@ -99605,6 +99636,7 @@ stewarding
 stewards
 stewardships
 stewbum
+stewed
 stewing
 stews
 stewy
@@ -107989,6 +108021,7 @@ triggering
 triggerman
 triggermen
 triggers
+triggest
 trigly
 triglyceride
 triglycerides
@@ -111451,6 +111484,7 @@ unpropitious
 unprosperous
 unprotected
 unproved
+unproven
 unprovoked
 unpruned
 unpublishable
@@ -116233,6 +116267,7 @@ wimpier
 wimpiest
 wimping
 wimpish
+wimpishness
 wimples
 wimpling
 win
