@@ -295,6 +295,7 @@ accessioned
 accessioning
 accessories
 accessorise
+accessorised
 accessorises
 accessorize
 accessorized
@@ -1881,6 +1882,7 @@ airlike
 airline
 airliner
 airlines
+airmail
 airmailing
 airmails
 airman
@@ -4046,6 +4048,7 @@ antimonarchists
 antimonic
 antimonide
 antimonies
+antimonopolists
 antimonopoly
 antimosquito
 antimusic
@@ -4990,6 +4993,7 @@ archduchy
 archduke
 archdukes
 arched
+archegoniate
 archegonium
 archenemies
 archenteron
@@ -12271,6 +12275,7 @@ bro
 broach
 broached
 broacher
+broad
 broadbands
 broadbean
 broadbeans
@@ -12357,6 +12362,7 @@ bromated
 bromates
 bromating
 brome
+bromegrasses
 bromelain
 bromelains
 bromeliad
@@ -13611,6 +13617,7 @@ caftan
 caftaned
 caftans
 cage
+caged
 cageful
 cagefuls
 cagelike
@@ -14381,6 +14388,7 @@ capeskins
 capework
 capful
 caph
+caphs
 capias
 capiases
 capillaries
@@ -18563,6 +18571,7 @@ coatimundi
 coatimundis
 coatis
 coatless
+coatracks
 coatroom
 coats
 coattail
@@ -25675,6 +25684,7 @@ defendable
 defendants
 defended
 defender
+defenders
 defending
 defenestrate
 defenestrated
@@ -27146,6 +27156,7 @@ determinatives
 determinator
 determine
 determinedness
+determiners
 determines
 determinism
 determinisms
@@ -32483,6 +32494,7 @@ emend
 emendate
 emendated
 emendates
+emendation
 emendations
 emendators
 emended
@@ -38959,6 +38971,7 @@ fondued
 fondueing
 fondues
 fonduing
+fondus
 fons
 fontal
 fontanel
@@ -39264,6 +39277,7 @@ foreshank
 foresheet
 foreshock
 foreshocks
+foreshore
 foreshores
 foreshortens
 foreshowed
@@ -41014,6 +41028,7 @@ gamester
 gametangium
 gametic
 gametically
+gametocyte
 gametocytes
 gametogenesis
 gametogenic
@@ -44570,6 +44585,7 @@ gynandries
 gynandromorph
 gynandromorphic
 gynandromorphy
+gynarchic
 gynarchies
 gynecia
 gynecic
@@ -50199,6 +50215,7 @@ incant
 incantation
 incantational
 incantations
+incantatory
 incanted
 incapability
 incapable
@@ -61083,6 +61100,7 @@ melanistic
 melanitic
 melanization
 melanizations
+melanize
 melanoblast
 melanoblasts
 melanocyte
@@ -61391,6 +61409,7 @@ mercuries
 mercurous
 mercy
 merde
+merdes
 mere
 merely
 merengue
@@ -70468,6 +70487,7 @@ outbrawl
 outbrawls
 outbrazened
 outbrazening
+outbrazens
 outbreaks
 outbred
 outbreed
@@ -70536,6 +70556,7 @@ outcompete
 outcompeted
 outcompetes
 outcook
+outcooked
 outcooking
 outcooks
 outcount
@@ -71763,6 +71784,7 @@ overfussy
 overgeneralize
 overgeneralized
 overgeneralizes
+overgenerosity
 overgenerous
 overgenerously
 overgild
@@ -74457,6 +74479,7 @@ pedicabs
 pedicellate
 pedicels
 pedicle
+pedicled
 pedicles
 pedicular
 pediculate
@@ -74634,6 +74657,7 @@ pemmicans
 pemoline
 pemolines
 pemphigus
+pemphiguses
 pemphixes
 pen
 penal
@@ -78875,6 +78899,7 @@ postrace
 postretirement
 postriders
 postriot
+postromantic
 posts
 postseason
 postshow
@@ -81169,6 +81194,7 @@ propend
 propended
 propending
 propene
+propenes
 propense
 propensities
 propenyl
@@ -91575,6 +91601,7 @@ schmoozers
 schmoozier
 schmoozy
 schmos
+schmuck
 schmucks
 schnaps
 schnauzer
@@ -91938,6 +91965,7 @@ scrawls
 scrawly
 scrawniest
 scrawny
+screak
 screaked
 screaking
 screaks
@@ -100432,6 +100460,7 @@ styles
 stylets
 styli
 styliform
+stylings
 stylise
 stylises
 stylish
@@ -103294,6 +103323,7 @@ tactfully
 tactfulnesses
 tactic
 tactically
+tacticians
 tactics
 tactile
 tactility
@@ -103878,6 +103908,7 @@ taunting
 tauntingly
 tauon
 tauons
+taupe
 taurine
 taus
 taut
@@ -106706,6 +106737,7 @@ touchdown
 touchdowns
 touche
 touchers
+touches
 touchier
 touchiest
 touchiness
@@ -112743,6 +112775,7 @@ vapidnesses
 vapor
 vapored
 vaporer
+vaporers
 vaporetti
 vaporetto
 vaporettos
@@ -114692,6 +114725,7 @@ wappenschawings
 wapping
 warbled
 warbler
+warblers
 warbles
 warbonnet
 warbonnets
@@ -116786,6 +116820,7 @@ wrap
 wraparound
 wraparounds
 wrapped
+wrapper
 wrappers
 wrapping
 wrappings
