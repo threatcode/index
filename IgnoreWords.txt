@@ -9888,6 +9888,7 @@ bipolar
 bipolarities
 bipolarity
 bipolarization
+bipolarize
 bipolarizes
 bipolarizing
 bipropellant
@@ -11931,6 +11932,7 @@ brays
 braza
 braze
 brazed
+brazened
 brazening
 brazenness
 brazennesses
@@ -12284,6 +12286,7 @@ broadleaves
 broadloom
 broadly
 broads
+broadsheet
 broadside
 broadsided
 broadsword
@@ -14253,6 +14256,7 @@ canso
 cant
 cantal
 cantala
+cantaloup
 cantaloupes
 cantankerously
 cantatrice
@@ -18048,6 +18052,7 @@ cleistogamic
 cleistogamies
 cleistogamously
 cleistogamy
+clematis
 clematises
 clemencies
 clemency
@@ -23223,6 +23228,7 @@ crojiks
 cromlech
 cromlechs
 crone
+cronies
 cronish
 cronyism
 cronyisms
@@ -23769,6 +23775,7 @@ cumberers
 cumbers
 cumbersome
 cumbersomeness
+cumbia
 cumbias
 cumbrances
 cumbrous
@@ -31411,6 +31418,7 @@ ebbs
 ebon
 ebonics
 ebonies
+ebonise
 ebonised
 ebonises
 ebonising
@@ -33903,6 +33911,7 @@ epithelializing
 epithelioid
 epithelioma
 epitheliomas
+epitheliomata
 epithelium
 epitheliums
 epithelization
@@ -35007,6 +35016,7 @@ exanthema
 exanthemas
 exanthemata
 exanthematic
+exanthematous
 exanthems
 exapted
 exaptive
@@ -38389,6 +38399,7 @@ flocculations
 flocculator
 floccule
 flocculent
+flocculi
 flocculus
 flock
 flocked
@@ -43140,6 +43151,7 @@ gossiper
 gossipers
 gossiping
 gossipmonger
+gossipmongers
 gossippers
 gossipry
 gossipy
@@ -43309,6 +43321,7 @@ gramercy
 gramicidin
 gramicidins
 gramineous
+graminivorous
 gramma
 grammarian
 grammarians
@@ -50782,6 +50795,7 @@ industrial
 industrialise
 industrialism
 industrialisms
+industrialist
 industrialize
 industrializes
 industrializing
@@ -51298,6 +51312,7 @@ initiatives
 initiatory
 injectables
 injectant
+injectants
 injected
 injecting
 injection
@@ -52697,6 +52712,7 @@ inventively
 inventiveness
 inventivenesses
 inventorially
+inventoried
 inventories
 inventors
 inventorying
@@ -53344,6 +53360,7 @@ iteration
 iterations
 iterative
 ither
+itineracies
 itinerancy
 itinerantly
 itineraries
@@ -57980,6 +57997,7 @@ livingnesses
 livings
 livre
 livres
+livyers
 lixivia
 lixiviate
 lixiviated
@@ -61442,6 +61460,7 @@ mesially
 mesically
 mesmeric
 mesmerise
+mesmerises
 mesmerising
 mesmerisms
 mesmerist
@@ -61583,6 +61602,7 @@ metallographer
 metallographers
 metallographic
 metalloid
+metalloidal
 metallophone
 metallophones
 metallurgical
@@ -75454,6 +75474,7 @@ petasos
 petasoses
 petasus
 petasuses
+petcock
 petcocks
 petechia
 petechiae
@@ -75858,6 +75879,7 @@ phoneys
 phonic
 phonically
 phonics
+phonied
 phonier
 phonies
 phoniness
@@ -79720,6 +79742,7 @@ prelaunched
 prelaunching
 prelaw
 prelect
+prelected
 prelecting
 prelector
 prelects
@@ -82062,6 +82085,7 @@ punchy
 punctate
 punctated
 punctation
+punctations
 punctilio
 punctilios
 punctilious
@@ -84487,6 +84511,7 @@ recepts
 recertified
 recess
 recesses
+recession
 recessional
 recessionals
 recessionary
@@ -86027,6 +86052,7 @@ reinfections
 reinfestation
 reinfestations
 reinflame
+reinflamed
 reinflames
 reinflaming
 reinflates
@@ -91770,6 +91796,7 @@ scourging
 scouring
 scourings
 scours
+scouse
 scouses
 scout
 scoutcraft
@@ -94809,6 +94836,7 @@ silverwares
 silvex
 silvexes
 silvics
+silvicultural
 silviculturally
 silviculture
 sima
@@ -95803,6 +95831,7 @@ sloth
 slothful
 slothfully
 slothfulness
+sloths
 slotted
 slotter
 slotting
@@ -104285,6 +104314,7 @@ tempered
 temperer
 temperers
 tempers
+tempest
 tempested
 tempestuous
 tempestuousness
@@ -105220,6 +105250,7 @@ thioureas
 thir
 thirams
 third
+thirdhand
 thirds
 thirl
 thirled
@@ -107839,6 +107870,7 @@ triptyca
 triptycas
 triptych
 triptychs
+tripwire
 trireme
 triremes
 trisaccharide
@@ -107979,6 +108011,7 @@ troll
 trolled
 trollers
 trolley
+trolleybus
 trolleybuses
 trolleyed
 trolleying
@@ -117653,6 +117686,7 @@ zoomania
 zooming
 zoomorph
 zoomorphic
+zooms
 zoon
 zooning
 zoonoses
@@ -117707,6 +117741,7 @@ zwitterion
 zwitterionic
 zygapophyses
 zygapophysis
+zygodactylous
 zygoid
 zygoma
 zygomas
