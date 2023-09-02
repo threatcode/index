@@ -3742,6 +3742,7 @@ antefixae
 antefixal
 anteing
 antemortem
+antenatal
 antenatally
 antennae
 antennular
@@ -5212,6 +5213,7 @@ armoire
 armoires
 armonica
 armor
+armorial
 armories
 armoring
 armorless
@@ -5652,6 +5654,7 @@ assailing
 assails
 assais
 assassin
+assassinated
 assassinates
 assassinating
 assassination
@@ -7121,6 +7124,7 @@ bacteriolyses
 bacteriolysis
 bacteriolytic
 bacteriophages
+bacteriophagies
 bacteriophagy
 bacteriostases
 bacteriostasis
@@ -7585,6 +7589,7 @@ baptists
 baptize
 baptizer
 baptizers
+bar
 barb
 barbal
 barbarianism
@@ -10531,6 +10536,7 @@ bloodbaths
 bloodcurdling
 blooded
 bloodfin
+bloodfins
 bloodguilt
 bloodguiltiness
 bloodguilts
@@ -10825,6 +10831,7 @@ boating
 boatings
 boatlift
 boatlifted
+boatlifts
 boatloads
 boatman
 boatnecks
@@ -16713,6 +16720,7 @@ chiaroscuro
 chiaroscuros
 chias
 chiasm
+chiasma
 chiasmas
 chiasmata
 chiasmatic
@@ -18077,6 +18085,7 @@ clearheaded
 clearheadedness
 clearing
 clearinghouse
+clearinghouses
 clearings
 clearly
 clearness
@@ -21768,6 +21777,7 @@ corned
 cornelian
 cornelians
 corner
+cornerbacks
 cornerman
 cornerstone
 cornerstones
@@ -28686,6 +28696,7 @@ discrete
 discretely
 discreteness
 discretion
+discretionary
 discriminable
 discriminant
 discriminants
@@ -29348,6 +29359,7 @@ dissuasively
 dissuasiveness
 dissyllable
 dissyllables
+dissymmetric
 dissymmetries
 distaff
 distaffs
@@ -31024,6 +31036,7 @@ dumbwaiter
 dumbwaiters
 dumdums
 dumfounded
+dumfounding
 dumfounds
 dumka
 dumky
@@ -31216,6 +31229,7 @@ dweebish
 dweebs
 dweeby
 dwelled
+dwellers
 dwelling
 dwellings
 dwells
@@ -36617,6 +36631,7 @@ fascicled
 fascicles
 fascicular
 fasciculate
+fasciculation
 fasciculations
 fascicules
 fasciculus
@@ -38244,6 +38259,7 @@ flatworms
 flaunt
 flaunted
 flaunters
+flauntier
 flauntiest
 flauntily
 flaunting
@@ -50760,6 +50776,7 @@ indices
 indicia
 indicias
 indicium
+indiciums
 indict
 indictable
 indictees
@@ -55097,6 +55114,7 @@ kiester
 kifs
 kilderkin
 kilim
+kilims
 kill
 killable
 killdee
@@ -55753,6 +55771,7 @@ labium
 labor
 laboratories
 laboratory
+laboredly
 laborers
 laborious
 laboriously
@@ -60581,6 +60600,7 @@ masterpiece
 masterpieces
 masters
 mastersinger
+mastery
 masthead
 mastheaded
 mastheads
@@ -64290,6 +64310,7 @@ monoplanes
 monoploids
 monopod
 monopode
+monopodia
 monopodium
 monopody
 monopole
@@ -71872,6 +71893,7 @@ overfamiliarity
 overfar
 overfast
 overfastidious
+overfatigued
 overfatigues
 overfavor
 overfear
@@ -85569,6 +85591,7 @@ reembark
 reembarked
 reembarking
 reembody
+reembodying
 reembrace
 reembraces
 reembracing
@@ -87424,6 +87447,7 @@ reputable
 reputably
 reputational
 reputations
+reputedly
 reputes
 reputing
 requalified
@@ -88198,6 +88222,7 @@ reticula
 reticulate
 reticulately
 reticulates
+reticulating
 reticulation
 reticulocyte
 reticulum
@@ -88210,6 +88235,7 @@ retile
 retiled
 retiling
 retimed
+retimes
 retiming
 retina
 retinacula
@@ -88433,6 +88459,7 @@ revaluate
 revaluated
 revaluates
 revaluating
+revaluations
 revalue
 revaluing
 revamped
@@ -88821,6 +88848,7 @@ rhizome
 rhizomes
 rhizoplane
 rhizopus
+rhizosphere
 rhizospheres
 rho
 rhodamin
@@ -90727,6 +90755,7 @@ saltimboccas
 saltine
 saltiness
 saltings
+saltires
 saltish
 saltlike
 saltness
@@ -93196,6 +93225,7 @@ sensitize
 sensitized
 sensitizer
 sensitizers
+sensitizes
 sensitizing
 sensitometer
 sensitometric
@@ -98104,6 +98134,7 @@ spiegeleisens
 spiegels
 spiel
 spieled
+spieler
 spielers
 spiels
 spier
@@ -99101,6 +99132,7 @@ stances
 stanch
 stancher
 stanchers
+stanchest
 stanchion
 stanchioned
 standardbred
@@ -104446,6 +104478,7 @@ telegraphed
 telegrapher
 telegraphers
 telegraphese
+telegrapheses
 telegraphically
 telegraphies
 telegraphing
@@ -111195,6 +111228,7 @@ unleashed
 unleashes
 unleavened
 unlet
+unletted
 unlettered
 unleveled
 unleveling
@@ -114331,6 +114365,7 @@ vocationalism
 vocationalisms
 vocationalists
 vocationally
+vocative
 vocatives
 voces
 vociferate
