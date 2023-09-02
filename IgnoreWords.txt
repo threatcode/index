@@ -8532,6 +8532,7 @@ befit
 befits
 befitted
 beflag
+beflagged
 beflagging
 beflea
 befleaed
@@ -8770,6 +8771,7 @@ bellowers
 bellowing
 bellows
 bellpulls
+bells
 bellwethers
 bellworts
 belly
@@ -11294,6 +11296,7 @@ bootlegged
 bootlegger
 bootlegging
 bootless
+bootlessness
 bootlessnesses
 bootlick
 bootlicked
@@ -11499,6 +11502,7 @@ boudoirs
 bouffe
 bouffes
 bougainvillaea
+bougainvillea
 bough
 boughed
 boughless
@@ -14063,6 +14067,7 @@ canal
 canalboat
 canalboats
 canaled
+canalicular
 canaliculus
 canalising
 canalization
@@ -14295,6 +14300,7 @@ canthaxanthins
 canthi
 canthitis
 canthitises
+canthus
 cantic
 canticle
 canticles
@@ -15151,6 +15157,7 @@ castrates
 castrating
 castration
 castrato
+castrator
 castrators
 castratory
 castratos
@@ -21908,6 +21915,7 @@ corrody
 corrosion
 corrosive
 corrosively
+corrosiveness
 corrosivenesses
 corrugate
 corrugated
@@ -24516,6 +24524,7 @@ dadaist
 dadaistic
 dadas
 daddies
+daddled
 daddles
 daddling
 dado
@@ -25412,6 +25421,7 @@ declinists
 declivities
 declivitous
 deco
+decoct
 decocted
 decocting
 decoction
@@ -31858,6 +31868,7 @@ egestive
 eggar
 eggars
 eggcups
+egged
 egger
 eggers
 eggheaded
@@ -33084,6 +33095,7 @@ energies
 energise
 energised
 energising
+energizations
 energize
 energized
 energizer
@@ -35876,6 +35888,7 @@ extrados
 extragalactic
 extrahepatic
 extrajudicial
+extralegal
 extralimital
 extralinguistic
 extraliterary
@@ -37497,6 +37510,7 @@ filename
 filenames
 files
 filet
+fileted
 filets
 filial
 filiate
@@ -38827,6 +38841,7 @@ foams
 foamy
 fobbed
 fobs
+focaccia
 focal
 focalised
 focalises
@@ -39770,6 +39785,7 @@ franchise
 franchisee
 franchisees
 franchiser
+franchisers
 franchises
 franchisor
 francium
@@ -43701,6 +43717,7 @@ grecize
 grecized
 grecizes
 grecizing
+gree
 greed
 greedier
 greediest
@@ -45321,6 +45338,7 @@ haplopia
 haplopias
 haploses
 haplotypes
+haply
 happen
 happenchance
 happenchances
@@ -46204,6 +46222,7 @@ helmed
 helmets
 helminth
 helminthiases
+helminthiasis
 helminthology
 helminths
 helmless
@@ -50154,6 +50173,7 @@ inappreciative
 inapproachable
 inappropriate
 inappropriately
+inapt
 inaptitude
 inaptitudes
 inaptness
@@ -52801,6 +52821,7 @@ invertins
 invertor
 inverts
 invest
+investigated
 investigates
 investigating
 investigational
@@ -60045,6 +60066,7 @@ mantels
 mantelshelf
 mantelshelves
 mantes
+manticore
 mantids
 mantilla
 mantillas
@@ -60870,6 +60892,7 @@ mechanical
 mechanically
 mechanicians
 mechanics
+mechanism
 mechanisms
 mechanist
 mechanistic
@@ -62979,6 +63002,7 @@ miscounted
 miscounting
 miscounts
 miscreants
+miscreate
 miscreated
 miscreates
 miscreating
@@ -63094,6 +63118,7 @@ misfile
 misfiled
 misfiling
 misfire
+misfires
 misfiring
 misfits
 misfocus
@@ -65440,6 +65465,7 @@ musquash
 musquashes
 muss
 mussed
+mussel
 musses
 mussily
 mussinesses
@@ -65728,6 +65754,7 @@ mythologically
 mythologize
 mythologized
 mythology
+mythomaniac
 mythomaniacs
 mythopoeia
 mythopoeias
@@ -68859,6 +68886,7 @@ obsecrated
 obsecrates
 obsecrating
 obsequiousness
+observable
 observables
 observably
 observances
@@ -69561,6 +69589,7 @@ only
 onomastically
 onomastician
 onomastics
+onomatologists
 onomatology
 onomatopoetic
 onrush
@@ -74293,6 +74322,7 @@ paydays
 payee
 payees
 payer
+payers
 paygrade
 paygrades
 paying
@@ -77159,6 +77189,7 @@ pizzles
 placably
 placard
 placarding
+placards
 placated
 placaters
 placates
@@ -79431,6 +79462,7 @@ precharges
 precharging
 precheck
 prechecking
+prechecks
 prechill
 prechilling
 prechills
@@ -81765,6 +81797,7 @@ pseudocoels
 pseudocyeses
 pseudocyesis
 pseudomonad
+pseudomonads
 pseudomonas
 pseudomorph
 pseudomorphic
@@ -83896,6 +83929,7 @@ ratatat
 ratatats
 ratatouille
 ratbag
+ratchet
 ratcheted
 ratchets
 rate
@@ -87697,6 +87731,7 @@ resorter
 resorters
 resorting
 resought
+resound
 resounded
 resoundingly
 resounds
@@ -91549,6 +91584,7 @@ schematizing
 schemer
 scheming
 scherzando
+scherzi
 scherzo
 scherzos
 schiller
@@ -100582,6 +100618,7 @@ subatmospheric
 subatom
 subaural
 subaverage
+subaxial
 subbase
 subbasement
 subbasements
@@ -100716,6 +100753,7 @@ subdividers
 subdivision
 subdominant
 subdominants
+subduable
 subduably
 subdual
 subduals
@@ -101566,6 +101604,7 @@ sulliable
 sullies
 sully
 sulpha
+sulphate
 sulphates
 sulphating
 sulphid
@@ -103676,6 +103715,7 @@ tangos
 tangs
 tangy
 tanistry
+tanists
 tank
 tanka
 tankage
@@ -106322,6 +106362,7 @@ tollages
 tollbar
 tollbars
 tollbooths
+tollgates
 tollhouse
 tollhouses
 tolling
@@ -112901,6 +112942,7 @@ varletries
 varletry
 varmint
 varmints
+varna
 varnas
 varnish
 varnished
@@ -114168,6 +114210,7 @@ vodka
 vodkas
 vodou
 vodoun
+vodouns
 vodous
 vodun
 voe
