@@ -3115,6 +3115,7 @@ amyloplasts
 amylose
 amyloses
 amyls
+amylum
 amylums
 amyotonias
 ana
@@ -4076,6 +4077,7 @@ antimonopoly
 antimosquito
 antimusic
 antimusical
+antimusics
 antimycin
 antimycins
 antinarrative
@@ -4862,6 +4864,7 @@ aquarellists
 aquaria
 aquarian
 aquarians
+aquarist
 aquarists
 aquarium
 aquariums
@@ -13826,6 +13829,7 @@ calcific
 calcifications
 calcified
 calcifuge
+calcifugous
 calcifying
 calcimined
 calcimining
@@ -19506,6 +19510,7 @@ colloquy
 collotype
 collotypes
 collotypies
+collotypy
 collude
 colluded
 colluder
@@ -19730,6 +19735,7 @@ combustions
 combustive
 combustor
 combusts
+come
 comeback
 comebacks
 comedic
@@ -22772,6 +22778,7 @@ cox
 coxae
 coxalgia
 coxalgias
+coxalgic
 coxalgies
 coxcombical
 coxcombry
@@ -22928,6 +22935,7 @@ cranker
 crankiest
 crankily
 crankinesses
+crankish
 crankle
 crankled
 crankles
@@ -26883,6 +26891,7 @@ depreciator
 depreciators
 depredate
 depredates
+depredation
 depredations
 depredator
 depredators
@@ -28692,6 +28701,7 @@ dischargee
 dischargees
 discharger
 dischargers
+discharges
 disciple
 discipled
 discipleship
@@ -40247,6 +40257,7 @@ frere
 freres
 fresco
 frescoed
+frescoer
 frescoers
 frescoes
 frescoing
@@ -47821,6 +47832,7 @@ homonymies
 homonymy
 homoousian
 homoousians
+homophile
 homophobes
 homophobia
 homophonies
@@ -48382,6 +48394,7 @@ housewife
 housewifeliness
 housewifely
 housewiferies
+housewifey
 houseworks
 housing
 houstonia
@@ -54390,6 +54403,7 @@ jockeying
 jockeyish
 jockeys
 jockos
+jocks
 jockstrap
 jockstraps
 jocose
@@ -54851,6 +54865,7 @@ kahuna
 kahunas
 kaiak
 kaiaks
+kaif
 kaifs
 kail
 kails
@@ -58969,6 +58984,7 @@ lordliness
 lordlings
 lordly
 lordoma
+lordomas
 lordoses
 lords
 lordship
@@ -61111,6 +61127,7 @@ maul
 mauled
 mauler
 maulers
+maulstick
 maulsticks
 maumet
 maumetries
@@ -67620,6 +67637,7 @@ nodders
 noddies
 nodding
 noddingly
+noddle
 noddled
 noddles
 noddy
@@ -67995,6 +68013,7 @@ nondevelopments
 nondiabetic
 nondiabetics
 nondialyzable
+nondiapausing
 nondirectional
 nondisabled
 nondisclosure
@@ -70695,6 +70714,7 @@ orthodoxies
 orthodoxy
 orthoepic
 orthoepically
+orthoepy
 orthogenesis
 orthogenetic
 orthogonalities
@@ -74273,6 +74293,7 @@ paronomastic
 paronym
 paronymic
 paronymous
+paronyms
 paroquet
 paroquets
 parosmia
@@ -77461,6 +77482,7 @@ pintadas
 pintado
 pintadoes
 pintados
+pintail
 pintailed
 pintails
 pintano
@@ -79408,6 +79430,7 @@ posterity
 posterns
 posters
 posteruptive
+postexilic
 postexperience
 postfaces
 postfault
@@ -82647,6 +82670,7 @@ pugmark
 pugnacious
 pugnaciously
 pugnaciousness
+pugnacities
 pugnacity
 pugrees
 puisne
@@ -82998,6 +83022,7 @@ purser
 pursers
 purses
 pursier
+pursiest
 pursily
 pursiness
 pursinesses
@@ -83787,6 +83812,7 @@ quirkier
 quirkiest
 quirky
 quirted
+quirting
 quirts
 quislingism
 quislingisms
@@ -85181,6 +85207,7 @@ recarpets
 recarried
 recarry
 recarrying
+recasting
 recataloged
 recataloging
 recautioned
@@ -90230,6 +90257,7 @@ rostrate
 rostrum
 rosulate
 rotameter
+rotaries
 rotary
 rotas
 rotatable
@@ -90680,6 +90708,7 @@ rundle
 rundles
 rundlet
 rundlets
+rundown
 rundowns
 rune
 runelike
@@ -91072,6 +91101,7 @@ sails
 saimin
 sained
 sainfoin
+saining
 saint
 saintdom
 saintdoms
@@ -97746,6 +97776,7 @@ sombreros
 sombrous
 some
 somebodies
+somebody
 somedeal
 somehow
 someplaces
@@ -98765,6 +98796,7 @@ spirant
 spirants
 spire
 spirea
+spireas
 spired
 spirem
 spireme
@@ -109413,6 +109445,7 @@ tunesmith
 tunesmiths
 tuneups
 tung
+tungs
 tungstate
 tungstates
 tungstens
@@ -115026,6 +115059,7 @@ voicing
 voicings
 void
 voidablenesses
+voider
 voiding
 voiles
 volant
@@ -116128,6 +116162,7 @@ weediest
 weedily
 weediness
 weedinesses
+weeding
 weedless
 weedlike
 weedy
