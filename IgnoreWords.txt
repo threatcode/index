@@ -304,6 +304,7 @@ accessorizes
 acciaccatura
 accidence
 accidences
+accident
 accidentally
 accidentalness
 accidentals
@@ -3230,6 +3231,7 @@ analytes
 analytic
 analytical
 analytically
+analytics
 analyzable
 analyzation
 analyzations
@@ -6806,6 +6808,7 @@ awnings
 awnless
 awns
 awny
+awoke
 awoken
 awol
 awols
@@ -10146,6 +10149,7 @@ bitchery
 bitchier
 bitchiest
 bitchily
+bitchinesses
 bitching
 bite
 biteable
@@ -15042,6 +15046,7 @@ carpellate
 carpels
 carpentered
 carpentering
+carpentry
 carper
 carpers
 carpetbagged
@@ -15618,6 +15623,7 @@ cauterizations
 cauterize
 cauterizes
 cautery
+cautionary
 cautioned
 cautioner
 cautioners
@@ -17310,6 +17316,7 @@ chopper
 choppered
 choppering
 choppier
+choppiest
 choppily
 choppiness
 choppy
@@ -26041,6 +26048,7 @@ deflators
 deflea
 defleaed
 deflect
+deflectable
 deflected
 deflecting
 deflection
@@ -27033,6 +27041,7 @@ derailleur
 derailleurs
 derailment
 derangements
+deranger
 derangers
 deranges
 deranging
@@ -27964,6 +27973,7 @@ dibbling
 dibbuk
 dibbukim
 dibenzofuran
+dibenzofurans
 dibromide
 dibromides
 dibs
@@ -29796,6 +29806,7 @@ divebombs
 diver
 diverged
 divergence
+divergencies
 diverges
 diverging
 diversely
@@ -30839,6 +30850,7 @@ drecky
 dredge
 dredged
 dredger
+dredgers
 dredges
 drees
 dreg
@@ -31228,6 +31240,7 @@ duffer
 duffle
 duffles
 duffs
+dug
 dugong
 dugongs
 dugouts
@@ -31600,6 +31613,7 @@ dysrhythmias
 dystaxia
 dystaxias
 dysthymia
+dysthymias
 dysthymics
 dystocia
 dystocias
@@ -40105,6 +40119,7 @@ fractional
 fractionalize
 fractionalized
 fractionalizing
+fractionally
 fractionated
 fractionates
 fractionation
@@ -48746,6 +48761,7 @@ humorists
 humorlessly
 humorlessness
 humorlessnesses
+humorous
 humorously
 humorousness
 humorousnesses
@@ -49358,6 +49374,7 @@ hypocenter
 hypocentral
 hypochlorite
 hypochlorites
+hypochondria
 hypochondriacal
 hypochondrias
 hypochondriases
@@ -50432,6 +50449,7 @@ importation
 importer
 importers
 importing
+imports
 importunate
 importunateness
 importuned
@@ -55873,6 +55891,7 @@ knars
 knave
 knavishly
 knawel
+knawes
 knead
 kneader
 kneaders
@@ -64195,6 +64214,7 @@ mistraces
 mistracing
 mistrain
 mistrained
+mistraining
 mistrains
 mistrals
 mistranscribed
@@ -76325,6 +76345,7 @@ pesewa
 peskier
 peskiness
 peskinesses
+pesky
 peso
 pesos
 pessaries
@@ -81209,6 +81230,7 @@ pretelling
 pretence
 pretences
 pretendedly
+pretends
 pretense
 pretension
 pretensioned
@@ -81920,6 +81942,7 @@ prolapsed
 prolapses
 prolapsing
 prolate
+prolately
 proleg
 prolegomenon
 prolegomenous
@@ -82948,6 +82971,7 @@ puled
 puler
 pules
 pulicide
+puling
 pulingly
 pulings
 pulis
@@ -84315,6 +84339,7 @@ radiobiology
 radiocarbon
 radiochemical
 radiochemically
+radiochemist
 radiochemists
 radioecologies
 radioed
@@ -84690,6 +84715,7 @@ rape
 raped
 raper
 rapers
+rapeseed
 raphes
 raphia
 raphide
@@ -88716,6 +88742,7 @@ respring
 resprings
 resprouted
 resprouting
+resprung
 ressentiments
 restable
 restabled
@@ -89095,6 +89122,7 @@ retreaded
 retreading
 retreads
 retreat
+retreatants
 retreated
 retreater
 retreating
@@ -98660,6 +98688,7 @@ spatiotemporal
 spats
 spatted
 spattering
+spatting
 spatular
 spatulate
 spatzle
@@ -100774,6 +100803,7 @@ stockpile
 stockpiled
 stockpiler
 stockpilers
+stockpiles
 stockpot
 stockpots
 stockroom
@@ -104924,12 +104954,14 @@ tarp
 tarpaper
 tarpapers
 tarpon
+tarpons
 tarps
 tarradiddle
 tarradiddles
 tarragon
 tarragons
 tarred
+tarres
 tarriance
 tarried
 tarrier
@@ -107745,6 +107777,7 @@ tores
 toreutic
 torics
 tories
+torii
 torment
 tormented
 tormenters
@@ -111448,6 +111481,7 @@ understory
 understrapper
 understrappers
 understrength
+understudied
 understudies
 understudy
 undersupply
@@ -116844,6 +116878,7 @@ wherethrough
 whereto
 whereunto
 wherever
+wherewith
 wherewithal
 wherewiths
 wherried
