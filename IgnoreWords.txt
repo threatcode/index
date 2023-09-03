@@ -1325,6 +1325,7 @@ aerophobes
 aerophyte
 aerophytes
 aeroplane
+aeroplanes
 aerosat
 aerosats
 aeroscopes
@@ -12341,6 +12342,7 @@ brings
 brinier
 brinies
 briniest
+brininess
 brininesses
 brinish
 brinks
@@ -13845,6 +13847,7 @@ calcanei
 calcaneus
 calcar
 calcarate
+calcareous
 calcareously
 calcaria
 calceate
@@ -16410,6 +16413,7 @@ charcuteries
 chardonnay
 chards
 chare
+chared
 chares
 charge
 charged
@@ -16688,6 +16692,7 @@ cheerleading
 cheerled
 cheerless
 cheerlessness
+cheerly
 cheeros
 cheese
 cheeseburgers
@@ -16999,6 +17004,7 @@ chinbones
 chincapin
 chincapins
 chincherinchee
+chinches
 chinchier
 chinchiest
 chinchilla
@@ -20944,6 +20950,7 @@ conquer
 conquered
 conquerer
 conquerers
+conquering
 conqueror
 conquerors
 conquers
@@ -27055,6 +27062,7 @@ derivatively
 derivatives
 derivatization
 derivatizations
+derivatized
 derivatizes
 derivatizing
 derived
@@ -29209,6 +29217,7 @@ dislodges
 dislodgment
 dislodgments
 disloyal
+disloyalties
 disloyalty
 dismal
 dismaler
@@ -31584,6 +31593,7 @@ dysthymics
 dystocia
 dystocias
 dystonias
+dystopia
 dystopian
 dystopias
 dystrophic
@@ -34255,6 +34265,7 @@ epistles
 epistolaries
 epistolary
 epistolers
+epistome
 epistomes
 epistrophe
 epistyle
@@ -34656,6 +34667,7 @@ escapists
 escapologies
 escapologist
 escar
+escargot
 escarole
 escarped
 escarping
@@ -39310,6 +39322,7 @@ folksiest
 folksily
 folksiness
 folksinger
+folksingers
 folksinging
 folksong
 folktale
@@ -45902,6 +45915,7 @@ harmlessness
 harmlessnesses
 harmonic
 harmonically
+harmonicas
 harmonicists
 harmonics
 harmonies
@@ -51626,6 +51640,7 @@ inflight
 inflorescence
 inflorescences
 inflows
+influence
 influenceable
 influencing
 influent
@@ -52012,6 +52027,7 @@ inpatients
 inpour
 inpoured
 inpouring
+inpourings
 inpours
 input
 inputs
@@ -52149,6 +52165,7 @@ insinuators
 insipidities
 insipidity
 insipidly
+insist
 insisted
 insistence
 insistences
@@ -53512,6 +53529,7 @@ iridescences
 iridium
 iridologies
 iridologist
+iridologists
 iridology
 iridosmine
 iridosmines
@@ -53739,6 +53757,7 @@ isochor
 isochores
 isochromosome
 isochromosomes
+isochronal
 isochronally
 isochrone
 isochrones
@@ -54976,6 +54995,7 @@ kaddishim
 kadi
 kadis
 kae
+kaes
 kaf
 kaffeeklatsches
 kaffir
@@ -57086,6 +57106,7 @@ layaways
 layed
 layer
 layerages
+layering
 layers
 layettes
 laying
@@ -58451,6 +58472,7 @@ listener
 listeners
 listenership
 listening
+listens
 lister
 listeria
 listerioses
@@ -62551,6 +62573,7 @@ miauled
 miauling
 miauls
 mib
+mibs
 mica
 micaceous
 micawber
@@ -63322,6 +63345,7 @@ minters
 mintier
 minuends
 minuet
+minuets
 minus
 minuscule
 minuscules
@@ -63610,6 +63634,7 @@ miscreation
 miscreations
 miscued
 miscuing
+miscuts
 miscutting
 misdate
 misdated
@@ -69628,6 +69653,7 @@ obtund
 obtundents
 obtunding
 obtundities
+obtunds
 obturate
 obturated
 obturates
@@ -71005,6 +71031,7 @@ osteitides
 osteitis
 ostensibly
 ostensively
+ostensories
 ostensorium
 ostentation
 ostentations
@@ -73100,6 +73127,7 @@ overtnesses
 overtoil
 overtoiled
 overtone
+overtook
 overtop
 overtopped
 overtopping
@@ -73108,6 +73136,7 @@ overtrades
 overtrading
 overtrain
 overtraining
+overtrains
 overtreat
 overtreated
 overtreating
@@ -76106,6 +76135,7 @@ perpetuates
 perpetuation
 perpetuations
 perpetuator
+perpetuators
 perpetuities
 perpetuity
 perphenazines
@@ -77008,6 +77038,7 @@ phrasemakings
 phrasemonger
 phrasemongering
 phraseologists
+phraseology
 phrases
 phrasing
 phreaker
@@ -85552,6 +85583,7 @@ reclads
 reclaim
 reclaimer
 reclaimers
+reclaiming
 reclaims
 reclamation
 reclames
@@ -88334,6 +88366,7 @@ reseller
 resellers
 reselling
 resells
+resemblances
 resemblant
 resembled
 resemblers
@@ -90190,6 +90223,7 @@ rockoons
 rockrose
 rockroses
 rockshaft
+rockshafts
 rockslides
 rockwork
 rockworks
@@ -91401,6 +91435,7 @@ salifying
 salimetries
 salimetry
 salina
+saline
 salines
 salinization
 salinizations
@@ -92099,6 +92134,7 @@ saving
 savingly
 saviors
 savor
+savored
 savorer
 savorier
 savories
@@ -92930,6 +92966,7 @@ scree
 screech
 screecher
 screechers
+screeches
 screechiest
 screeching
 screed
@@ -97404,6 +97441,7 @@ sniggers
 sniggle
 sniggled
 sniggler
+sniggles
 sniglets
 snip
 snipe
@@ -99307,6 +99345,7 @@ sporogenesis
 sporogenic
 sporogenous
 sporogonia
+sporogonies
 sporophores
 sporophyl
 sporophyll
@@ -99574,6 +99613,7 @@ squalors
 squamate
 squamates
 squamation
+squamosal
 squamosals
 squamous
 squanderers
@@ -103430,6 +103470,7 @@ survival
 survivalist
 survivalists
 survivals
+surviver
 survivers
 survivors
 survivorship
@@ -105264,6 +105305,7 @@ tegmentum
 tegminal
 tegua
 teguas
+tegularly
 tegulated
 tegument
 teguments
@@ -106077,6 +106119,7 @@ thatchier
 thatchiest
 thatching
 thaumaturge
+thaumaturges
 thaumaturgies
 thaumaturgist
 thaumaturgists
@@ -106115,6 +106158,7 @@ thecodonts
 theelol
 theft
 thegnly
+thegns
 thein
 theine
 theins
@@ -106858,6 +106902,7 @@ tiercel
 tiercels
 tierceron
 tiercerons
+tierces
 tiered
 tiering
 ties
@@ -114399,6 +114444,7 @@ verbiages
 verbicide
 verbicides
 verbid
+verbids
 verbified
 verbifies
 verbify
@@ -115074,6 +115120,7 @@ viscosimeter
 viscosimeters
 viscosimetric
 viscosities
+viscountesses
 viscounties
 viscounts
 viscounty
@@ -115579,6 +115626,7 @@ vulva
 vulvar
 vulvate
 vulvitises
+vulvovaginitis
 vum
 vying
 vyingly
@@ -115975,6 +116023,7 @@ warpers
 warplane
 warplanes
 warpower
+warpowers
 warpwise
 warragal
 warrant
@@ -118018,6 +118067,7 @@ wrasse
 wrasses
 wrassle
 wrassled
+wrassling
 wrastled
 wrath
 wrathful
