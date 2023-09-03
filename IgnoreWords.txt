@@ -3696,6 +3696,7 @@ anorthic
 anorthitic
 anorthosite
 anorthosites
+anorthositic
 anosmias
 anosmic
 another
@@ -4698,6 +4699,7 @@ applejacks
 apples
 applesauce
 applesauces
+appliances
 applicabilities
 applicable
 applicant
@@ -10568,6 +10570,7 @@ blondined
 blondines
 blondining
 blondish
+blondnesses
 blonds
 bloodbath
 bloodbaths
@@ -11425,6 +11428,7 @@ borking
 borks
 born
 borneol
+borohydrides
 boron
 boronic
 borons
@@ -13794,6 +13798,7 @@ calceate
 calcedony
 calces
 calcic
+calcicole
 calcicoles
 calcicolous
 calciferol
@@ -14038,6 +14043,7 @@ cameleers
 camelhair
 camelhairs
 camelias
+camelid
 camellia
 camellike
 camelopards
@@ -18209,6 +18215,7 @@ clericals
 clerics
 clerid
 clerids
+clerihew
 clerihews
 clerisies
 clerisy
@@ -19712,6 +19719,7 @@ comelier
 comeliest
 comelily
 comeliness
+comelinesses
 comembers
 comer
 comestible
@@ -19786,6 +19794,7 @@ commensally
 commensurable
 commensurate
 commensuration
+commensurations
 commentaries
 commentates
 commentating
@@ -21423,6 +21432,7 @@ conveyorizes
 conveyors
 convict
 convicted
+convicting
 conviction
 convictions
 convicts
@@ -28131,6 +28141,7 @@ dilatator
 dilate
 dilated
 dilater
+dilates
 dilating
 dilation
 dilations
@@ -30873,6 +30884,7 @@ droughty
 drouk
 drouked
 drouks
+drouth
 drouthiest
 drouths
 drouthy
@@ -32242,6 +32254,7 @@ electromagnet
 electrometer
 electrometers
 electromyogram
+electronegative
 electronic
 electronics
 electrophile
@@ -37360,6 +37373,7 @@ festooneries
 festoonery
 festoons
 fests
+fet
 fetal
 fetas
 fetations
@@ -41820,6 +41834,7 @@ gemmologists
 gemmology
 gemmule
 gemmy
+gemological
 gemologies
 gemology
 gemot
@@ -43958,6 +43973,7 @@ greenfields
 greenfinch
 greenfinches
 greenfly
+greengage
 greengages
 greenheads
 greenheart
@@ -52446,6 +52462,7 @@ interlayered
 interlayering
 interlaying
 interlays
+interleaf
 interleave
 interleaved
 interleaves
@@ -56306,6 +56323,7 @@ lampoonery
 lampooning
 lamppost
 lamprey
+lampshade
 lampshell
 lampshells
 lampyrid
@@ -57707,6 +57725,7 @@ lifecares
 lifeful
 lifeguarded
 lifeless
+lifelessly
 lifelessness
 lifelessnesses
 lifelike
@@ -58413,6 +58432,7 @@ loaming
 loamless
 loams
 loamy
+loan
 loaner
 loaners
 loaning
@@ -62349,6 +62369,7 @@ microcurie
 microcuries
 microcyte
 microcytes
+microdot
 microearthquake
 microeconomics
 microelectrodes
@@ -67422,6 +67443,7 @@ nitrifications
 nitrified
 nitrifier
 nitrifiers
+nitrifies
 nitrify
 nitrifying
 nitrile
@@ -67537,6 +67559,7 @@ noirish
 noirs
 noise
 noiseless
+noiselessly
 noisemaker
 noisemakers
 noisemaking
@@ -68507,6 +68530,7 @@ nonwage
 nonwar
 nonwhite
 nonwinged
+nonwinning
 nonwool
 nonword
 nonwords
@@ -73075,6 +73099,7 @@ pachysandra
 pachytene
 pachytenes
 pacier
+paciest
 pacifiable
 pacifical
 pacifically
@@ -75255,6 +75280,7 @@ pentanes
 pentangle
 pentangles
 pentanol
+pentaploid
 pentaploidies
 pentaploids
 pentaploidy
@@ -78574,6 +78600,7 @@ pollenate
 pollenated
 pollenates
 pollenating
+pollened
 pollenizers
 pollenoses
 pollenosis
@@ -85265,6 +85292,7 @@ recommitting
 recompense
 recompensed
 recompenses
+recompilation
 recompilations
 recompile
 recompiled
@@ -88645,6 +88673,7 @@ retreating
 retreats
 retrench
 retrenches
+retrenching
 retrenchment
 retrial
 retrials
@@ -96855,6 +96884,7 @@ snapless
 snapped
 snappers
 snappier
+snappiest
 snappily
 snappiness
 snappish
@@ -98279,6 +98309,7 @@ speculum
 speculums
 sped
 speech
+speeches
 speechless
 speechlessly
 speechwriter
@@ -108145,6 +108176,7 @@ trellises
 trellising
 trelliswork
 trematode
+trematodes
 tremble
 trembled
 trembler
@@ -112866,6 +112898,7 @@ upsurging
 upsweep
 upsweeping
 upsweeps
+upswell
 upswelled
 upswells
 upswept
@@ -116909,6 +116942,7 @@ wire
 wired
 wiredraw
 wiredrawing
+wiredrawn
 wiredrew
 wiregrass
 wirehair
@@ -118162,6 +118196,7 @@ yuppifies
 yuppify
 yuppifying
 yuppy
+yups
 yurt
 yutz
 ywis
