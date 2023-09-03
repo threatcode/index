@@ -5131,6 +5131,7 @@ arenites
 arenose
 areocentric
 areolae
+areolas
 areolate
 areolated
 areole
@@ -5290,6 +5291,7 @@ aromaticities
 aromatics
 aromatization
 aromatizations
+aromatized
 aromatizes
 aromatizing
 arose
@@ -8658,6 +8660,7 @@ beggaries
 beggarliness
 beggarly
 beggars
+beggary
 begging
 begin
 beginners
@@ -9280,6 +9283,7 @@ betel
 betelnut
 betels
 beth
+bethank
 bethanked
 bethanking
 bethanks
@@ -9787,6 +9791,7 @@ binges
 binging
 bingo
 bingoes
+bingos
 binit
 binnacle
 binnacles
@@ -15521,6 +15526,7 @@ cationically
 catjang
 catkin
 catkinate
+catkins
 catlike
 catlin
 catling
@@ -17746,6 +17752,7 @@ circlet
 circlets
 circling
 circuit
+circuital
 circuitousness
 circuitries
 circuitry
@@ -22698,6 +22705,7 @@ couters
 couth
 couthest
 couthie
+couths
 couture
 coutures
 couturiere
@@ -23790,6 +23798,7 @@ cryoscopes
 cryoscopy
 cryostat
 cryostats
+cryosurgeon
 cryosurgery
 cryosurgical
 cryotherapies
@@ -26867,6 +26876,7 @@ deplete
 depleter
 depleting
 depletions
+depletive
 deplorably
 deplore
 deplored
@@ -28510,6 +28520,7 @@ dipnetting
 dipnoan
 dipnoans
 dipodic
+dipoles
 dippable
 dipped
 dipper
@@ -32220,6 +32231,7 @@ eigenmode
 eigenmodes
 eigenvalues
 eight
+eightball
 eighteen
 eighteens
 eighteenth
@@ -38915,6 +38927,7 @@ floristic
 floristries
 florists
 floruits
+floss
 flossed
 flosses
 flossie
@@ -39219,6 +39232,7 @@ focalize
 focalized
 focalizes
 focally
+focused
 focuser
 focusers
 focusless
@@ -45164,6 +45178,7 @@ habitude
 habitudes
 habitues
 habitus
+haboob
 haboobs
 habu
 habus
@@ -53811,6 +53826,7 @@ isohels
 isohyet
 isohyetal
 isolable
+isolatable
 isolate
 isolated
 isolates
@@ -56275,6 +56291,7 @@ lacertid
 lacewing
 lacewings
 lacewood
+lacework
 lachrymal
 lachrymals
 lachrymator
@@ -60464,6 +60481,7 @@ mandola
 mandolas
 mandoline
 mandolines
+mandolinist
 mandolinists
 mandolins
 mandragora
@@ -62486,6 +62504,7 @@ metiers
 metis
 metisse
 metonym
+metonymic
 metonymical
 metonymies
 metonyms
@@ -71095,6 +71114,7 @@ otalgia
 otalgias
 otalgic
 other
+otherguess
 otherness
 othernesses
 others
@@ -72060,6 +72080,7 @@ outwashes
 outwasted
 outwasting
 outwatched
+outwatches
 outwatching
 outwear
 outwearies
@@ -79622,6 +79643,7 @@ postcopulatory
 postcoronary
 postcoup
 postcranial
+postcranially
 postcrash
 postcrisis
 postdated
@@ -80138,6 +80160,7 @@ preadmitting
 preadolescence
 preadolescent
 preadolescents
+preadopt
 preadopted
 preadopting
 preadopts
@@ -84534,6 +84557,7 @@ ramees
 ramekin
 ramen
 ramentum
+ramet
 ramets
 rami
 ramie
@@ -87930,6 +87954,7 @@ replayed
 replaying
 replead
 repleader
+repleads
 repled
 repledge
 repledged
@@ -92638,6 +92663,7 @@ schoolworks
 schooner
 schooners
 schorls
+schottische
 schottisches
 schrik
 schriks
@@ -97064,6 +97090,7 @@ slyboots
 slyer
 slyness
 slynesses
+slype
 smack
 smacked
 smacking
@@ -99427,6 +99454,7 @@ sprag
 sprags
 sprain
 sprained
+sprangs
 sprat
 sprats
 sprattle
@@ -100048,6 +100076,7 @@ starchiness
 starchinesses
 starching
 stardom
+stardoms
 stardust
 stared
 starer
@@ -108524,6 +108553,7 @@ traps
 trapshooter
 trapshooting
 trapshootings
+trapt
 trapunto
 trapuntos
 trash
@@ -115065,6 +115095,7 @@ viroid
 viroids
 virologic
 virological
+virologies
 virologists
 virology
 virosis
@@ -115458,6 +115489,7 @@ voluntaryism
 voluntaryisms
 voluntaryist
 voluntaryists
+volunteer
 volunteering
 volunteerisms
 volunteers
@@ -116383,6 +116415,7 @@ wear
 wearabilities
 wearability
 wearable
+wearer
 wearers
 wearies
 wearifully
@@ -116577,6 +116610,7 @@ welching
 welcome
 welcomed
 welcomely
+welcomeness
 welcomenesses
 welcomers
 welcomes
@@ -117935,6 +117969,7 @@ workmanlike
 workmanly
 workmanship
 workmanships
+workmate
 workmen
 workout
 workouts
