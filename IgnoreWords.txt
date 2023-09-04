@@ -3884,6 +3884,7 @@ antiarmor
 antiarrhythmic
 antiars
 antiarthritic
+antiarthritis
 antiasthma
 antiauthority
 antiauxin
@@ -5688,6 +5689,7 @@ aspersers
 asperses
 aspersions
 aspersive
+aspersor
 aspersors
 asphalt
 asphalted
@@ -9597,6 +9599,7 @@ bidet
 bidets
 bidi
 bidialectalism
+bidialectalisms
 bidirectional
 bidirectionally
 bidis
@@ -9880,6 +9883,7 @@ bioassayed
 bioassaying
 biocenose
 biocenoses
+biocenosis
 biochemically
 biochemist
 biochemistries
@@ -9954,6 +9958,7 @@ biomaterials
 biomathematical
 biomathematics
 biome
+biomedicine
 biomes
 biometers
 biometric
@@ -12258,6 +12263,7 @@ bredes
 bree
 breechblocks
 breechcloth
+breechclout
 breechclouts
 breeched
 breeches
@@ -18832,6 +18838,7 @@ coappears
 coapt
 coaptation
 coaptations
+coapting
 coapts
 coarctate
 coarctation
@@ -21236,6 +21243,7 @@ constitute
 constitutes
 constituting
 constitution
+constitutional
 constitutionals
 constitutions
 constitutively
@@ -24826,6 +24834,7 @@ cytoskeleton
 cytoskeletons
 cytosol
 cytosols
+cytostatic
 cytostatically
 cytostatics
 cytotaxonomic
@@ -25252,6 +25261,7 @@ dato
 datos
 datto
 datum
+datums
 datura
 daturas
 daub
@@ -34195,6 +34205,7 @@ envyingly
 enwheel
 enwheeled
 enwheeling
+enwinding
 enwomb
 enwombing
 enwound
@@ -38077,6 +38088,7 @@ fileted
 filets
 filial
 filiate
+filiated
 filiates
 filiating
 filibeg
@@ -39158,6 +39170,7 @@ flourless
 flours
 flouted
 flouter
+flouts
 flow
 flowage
 flowages
@@ -40390,6 +40403,7 @@ franciums
 francize
 francized
 francolins
+francophone
 francs
 frangibilities
 frangible
@@ -43232,6 +43246,7 @@ globalisms
 globalist
 globalization
 globalize
+globalized
 globalizes
 globally
 globated
@@ -44144,6 +44159,7 @@ granting
 grantor
 grants
 grantsman
+grantsmanship
 grantsmanships
 grantsmen
 granular
@@ -55879,6 +55895,7 @@ kilns
 kilobars
 kilobase
 kilobyte
+kilocalorie
 kilocurie
 kilocuries
 kilocycle
@@ -56251,6 +56268,7 @@ knowingly
 knowingness
 knowingnesses
 knowledge
+knowledgeably
 known
 knowns
 knubbier
@@ -63417,6 +63435,7 @@ millimeter
 millimeters
 millimho
 millimhos
+millimicron
 millimicrons
 millimolar
 millimole
@@ -63729,6 +63748,7 @@ mirrored
 mirroring
 mirth
 mirthful
+mirthfully
 mirthfulness
 mirthless
 mirthlessly
@@ -68897,6 +68917,7 @@ nonoily
 nonoperating
 nonoperative
 nonoptimal
+nonorally
 nonorthodox
 nonowner
 nonowners
@@ -75411,6 +75432,7 @@ pawky
 pawl
 pawn
 pawnage
+pawnages
 pawnbroker
 pawnbrokers
 pawnbroking
@@ -83382,6 +83404,7 @@ pulpwoods
 pulques
 puls
 pulsant
+pulsar
 pulsars
 pulsate
 pulsated
@@ -90307,6 +90330,7 @@ righty
 rigid
 rigidification
 rigidifications
+rigidifies
 rigidifying
 rigidities
 rigidity
@@ -94762,6 +94786,7 @@ serovar
 serovars
 serow
 serows
+serpent
 serpentine
 serpentinely
 serpentines
@@ -98654,6 +98679,7 @@ soothingly
 soothingnesses
 soothly
 sooths
+soothsaid
 soothsay
 soothsayer
 soothsayers
@@ -101204,6 +101230,7 @@ stob
 stobbed
 stobbing
 stobs
+stoccado
 stoccados
 stoccata
 stoccatas
@@ -102602,6 +102629,7 @@ subscribe
 subscribed
 subscriber
 subscribers
+subscribes
 subscribing
 subscription
 subscriptions
@@ -104466,6 +104494,7 @@ syllabifying
 syllabism
 syllabisms
 syllabize
+syllabized
 syllabizes
 syllabizing
 syllabled
@@ -106426,6 +106455,7 @@ terseness
 tersenesses
 terser
 tertial
+tertians
 tertiaries
 tertiary
 tervalent
@@ -109903,6 +109933,7 @@ troubleshoot
 troubleshooters
 troubleshoots
 troubleshot
+troublesomeness
 troubling
 troublousnesses
 trough
@@ -111049,6 +111080,7 @@ umbellule
 umbellules
 umbels
 umber
+umbered
 umbering
 umbilical
 umbilicals
@@ -116313,6 +116345,7 @@ wagons
 wags
 wagsome
 wagtail
+wagtails
 wahconda
 wahcondas
 wahine
@@ -117984,6 +118017,7 @@ wingding
 winged
 winger
 wingers
+wingier
 wingiest
 wingless
 winglessness
@@ -118590,6 +118624,7 @@ worrywart
 worrywarts
 worse
 worsen
+worsened
 worsening
 worsens
 worses
