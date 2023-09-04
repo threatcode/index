@@ -1385,6 +1385,7 @@ affectable
 affectation
 affectations
 affected
+affectedness
 affecter
 affecters
 affecting
@@ -2292,6 +2293,7 @@ alkaloids
 alkaloses
 alkane
 alkanet
+alkanets
 alkenes
 alkie
 alkine
@@ -4645,6 +4647,7 @@ apothece
 apothecia
 apothecial
 apothecium
+apothegm
 apothegmatic
 apothegms
 apothems
@@ -5975,6 +5978,7 @@ astricting
 astricts
 astride
 astringe
+astringency
 astringent
 astringently
 astringents
@@ -6690,6 +6694,7 @@ avenger
 avenges
 avenging
 avenses
+aventail
 aventails
 aventurin
 aventurine
@@ -7223,6 +7228,7 @@ bacteriologist
 bacteriolyses
 bacteriolysis
 bacteriolytic
+bacteriophage
 bacteriophages
 bacteriophagies
 bacteriophagy
@@ -9375,6 +9381,7 @@ betroth
 betrothal
 betrotheds
 betroths
+bets
 betta
 betted
 better
@@ -21677,6 +21684,7 @@ convolute
 convolutes
 convoluting
 convolution
+convolutions
 convolve
 convolved
 convolves
@@ -24603,6 +24611,7 @@ cyanins
 cyanite
 cyanites
 cyanitic
+cyano
 cyanoacrylates
 cyanobacteria
 cyanobacterium
@@ -27549,6 +27558,7 @@ detaining
 detainments
 detains
 detassel
+detasselling
 detect
 detectabilities
 detectability
@@ -28935,6 +28945,7 @@ discarnate
 discased
 discases
 disced
+discepting
 discepts
 discern
 discernable
@@ -30585,6 +30596,7 @@ dottily
 dottiness
 dottinesses
 dottle
+dottrel
 dottrels
 double
 doubled
@@ -32940,6 +32952,7 @@ embosses
 embossing
 embossment
 embossments
+embouchure
 embouchures
 embow
 embowed
@@ -34992,6 +35005,7 @@ estancia
 estated
 estates
 estating
+esterases
 esterification
 esterifications
 esterifies
@@ -35349,6 +35363,7 @@ euploidy
 eupnea
 eupneas
 eupneic
+eupnoea
 eurhythmics
 eurhythmies
 eurokies
@@ -35408,6 +35423,7 @@ evaginate
 evaginated
 evaginates
 evaginating
+evagination
 evaluable
 evaluate
 evaluated
@@ -38023,6 +38039,7 @@ fiendishness
 fiendishnesses
 fiercely
 fierceness
+fiercenesses
 fiercer
 fieriest
 fierily
@@ -38373,6 +38390,7 @@ fireflies
 firefloods
 firefly
 firehall
+firehouses
 fireless
 firelight
 firelock
@@ -46998,6 +47016,7 @@ hematologist
 hematology
 hematomas
 hematomata
+hematophagous
 hematopoiesis
 hematopoietic
 hematoses
@@ -51005,6 +51024,7 @@ inbreedings
 inbreeds
 inbuilt
 inburst
+inby
 inbye
 incage
 incalculability
@@ -53367,6 +53387,7 @@ intomb
 intombed
 intombing
 intombs
+intonated
 intonating
 intonational
 intonations
@@ -54687,6 +54708,7 @@ jester
 jesters
 jestful
 jesting
+jestingly
 jestings
 jests
 jesuit
@@ -61612,6 +61634,7 @@ matte
 mattered
 matters
 mattery
+mattes
 mattin
 matting
 mattings
@@ -62334,6 +62357,7 @@ mentations
 mentee
 mentees
 menthene
+mentholated
 mentionable
 mentioned
 mentioner
@@ -69057,6 +69081,7 @@ nonreproductive
 nonresidence
 nonresidencies
 nonresidents
+nonresistants
 nonresonant
 nonrespondents
 nonresponder
@@ -86624,6 +86649,7 @@ redivorces
 redivorcing
 redleg
 redlegs
+redline
 redlined
 redliner
 redliners
@@ -90622,6 +90648,7 @@ roadeos
 roadholding
 roadhouse
 roadhouses
+roadie
 roadies
 roadkill
 roadkills
@@ -100118,6 +100145,7 @@ spurned
 spurner
 spurners
 spurns
+spurred
 spurrer
 spurrers
 spurriers
@@ -103157,6 +103185,7 @@ sulfur
 sulfurated
 sulfurates
 sulfurating
+sulfuret
 sulfureted
 sulfuretted
 sulfuretting
@@ -103901,6 +103930,7 @@ surbased
 surbases
 surceased
 surceasing
+surcharge
 surcharges
 surcingle
 surcingled
@@ -105610,6 +105640,7 @@ tautest
 tauting
 tautness
 tautnesses
+tautog
 tautogs
 tautological
 tautologically
@@ -108753,6 +108784,7 @@ trail
 trailblazers
 trailbreaker
 trailed
+trailer
 trailered
 trailering
 trailerings
@@ -116882,6 +116914,7 @@ waterspouts
 waterthrush
 waterthrushes
 watertightness
+waterway
 waterweed
 waterweeds
 waterwork
@@ -117643,6 +117676,7 @@ whitewasher
 whitewashing
 whitewashings
 whitey
+whither
 whithersoever
 whitherward
 whities
@@ -118782,6 +118816,7 @@ wretchedness
 wretches
 wricked
 wricking
+wricks
 wried
 wrier
 wries
