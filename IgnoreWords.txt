@@ -2814,6 +2814,7 @@ ambulators
 ambulatory
 ambulette
 ambulettes
+ambuscade
 ambuscader
 ambuscaders
 ambuscades
@@ -5164,6 +5165,7 @@ arena
 arenaceous
 arene
 arenes
+arenicolous
 arenite
 arenites
 arenose
@@ -9584,6 +9586,7 @@ bicron
 bicrons
 biculturalisms
 bicuspid
+bicuspids
 bicycle
 bicycled
 bicycles
@@ -13252,6 +13255,7 @@ buret
 burets
 burettes
 burgage
+burgages
 burgee
 burgees
 burgeoned
@@ -14415,6 +14419,7 @@ canikin
 canikins
 canine
 caninities
+caninity
 canistel
 canister
 canisters
@@ -17040,6 +17045,7 @@ chigger
 chiggers
 chignon
 chignoned
+chignons
 chigoe
 chigoes
 chilblain
@@ -17235,6 +17241,7 @@ chitchatting
 chitins
 chitling
 chitlings
+chitlins
 chiton
 chitons
 chitosan
@@ -18192,6 +18199,7 @@ claries
 clarification
 clarifications
 clarifier
+clarifiers
 clarifies
 clarify
 clarinet
@@ -21329,6 +21337,7 @@ consummators
 consumptions
 consumptively
 consumptives
+contact
 contacted
 contactee
 contacting
@@ -21511,6 +21520,7 @@ contrarinesses
 contrastable
 contrasted
 contrastive
+contrastively
 contrasts
 contrasty
 contravene
@@ -34926,6 +34936,7 @@ escritoires
 escrow
 escrows
 escuage
+escuages
 escudo
 escudos
 esculent
@@ -38471,6 +38482,7 @@ fished
 fisher
 fisherfolk
 fishermen
+fisherwomen
 fishery
 fishes
 fisheye
@@ -45988,6 +46000,7 @@ hangmen
 hangnail
 hangnails
 hangout
+hangover
 hangovers
 hangs
 hangtags
@@ -46487,6 +46500,7 @@ hazarding
 hazardous
 hazardously
 hazardousness
+hazards
 hazel
 hazelhen
 hazelnuts
@@ -47741,6 +47755,7 @@ hipbones
 hipless
 hiplike
 hipline
+hiplines
 hipness
 hippie
 hippieish
@@ -53476,6 +53491,7 @@ introduced
 introducers
 introductorily
 introfying
+introgressant
 introgressants
 introgression
 introit
@@ -55277,6 +55293,7 @@ justifiability
 justifiable
 justifiably
 justification
+justificative
 justificatory
 justifier
 justifying
@@ -55453,6 +55470,7 @@ kaput
 kaputt
 karabiner
 karakul
+karakuls
 karat
 karate
 karateist
@@ -55936,6 +55954,7 @@ kiln
 kilns
 kilobars
 kilobase
+kilobaud
 kilobyte
 kilocalorie
 kilocurie
@@ -60304,6 +60323,7 @@ madness
 madnesses
 madrasahs
 madrasas
+madrases
 madrassa
 madrassah
 madrassahs
@@ -60342,6 +60362,7 @@ maffia
 maffick
 mafficked
 mafficker
+maffickers
 mafficking
 mafficks
 mafia
@@ -64405,6 +64426,7 @@ misrated
 misrating
 misread
 misreads
+misreckon
 misreckoned
 misreckons
 misrecord
@@ -64455,6 +64477,7 @@ missense
 missenses
 missent
 misses
+misset
 missets
 misshaped
 misshapenly
@@ -65850,6 +65873,7 @@ mousebirds
 moused
 mouselike
 mousepad
+mousepads
 mouser
 mousers
 mousetail
@@ -66092,6 +66116,7 @@ mullen
 mullens
 mullers
 mullets
+mulligan
 mulligatawnies
 mulligatawny
 mulling
@@ -67038,6 +67063,7 @@ narky
 narrate
 narrated
 narrater
+narraters
 narrates
 narrating
 narration
@@ -76130,6 +76156,7 @@ pepino
 pepla
 peplos
 peplumed
+peplus
 pepluses
 peponidas
 peponium
@@ -76298,6 +76325,7 @@ perfections
 perfectiveness
 perfectives
 perfectivity
+perfectly
 perfectness
 perfectnesses
 perfecto
@@ -77375,6 +77403,7 @@ photographers
 photographic
 photographing
 photographs
+photogravures
 photoinduced
 photoinduction
 photoinductions
@@ -86533,6 +86562,7 @@ redefining
 redefinition
 redefinitions
 redefy
+redeliver
 redelivered
 redeliveries
 redelivering
@@ -93077,6 +93107,7 @@ schizophrenias
 schizophrenic
 schizophrenics
 schizopods
+schizos
 schizy
 schizzier
 schizziest
@@ -109680,6 +109711,7 @@ trimotors
 trinary
 trindled
 trindling
+trined
 trines
 trinitarian
 trinities
@@ -114954,6 +114986,7 @@ veloutes
 velum
 velure
 velures
+veluring
 velveret
 velverets
 velveted
@@ -116562,6 +116595,7 @@ wameful
 wamefuls
 wammuses
 wampished
+wampishes
 wampishing
 wampum
 wampumpeag
@@ -117336,6 +117370,7 @@ wert
 weskit
 weskits
 wessand
+west
 westbound
 wester
 westerlies
