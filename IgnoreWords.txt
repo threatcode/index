@@ -57,6 +57,7 @@ abruptnesses
 abs
 abscess
 abscessing
+abscise
 abscisin
 abscising
 abscisins
@@ -4573,6 +4574,7 @@ apocryphalness
 apod
 apodal
 apodictically
+apodoses
 apodosis
 apoenzyme
 apoenzymes
@@ -8408,6 +8410,7 @@ beautified
 beautifier
 beautifiers
 beautifies
+beautiful
 beautifullest
 beautifulness
 beautifulnesses
@@ -11358,6 +11361,7 @@ bongoes
 bongoist
 bongoists
 bongs
+bonhomie
 bonhomies
 bonhomous
 bonier
@@ -14871,6 +14875,7 @@ caravanned
 caravanning
 caravanserai
 caravel
+caravelle
 caravels
 caraway
 caraways
@@ -15143,6 +15148,7 @@ carnified
 carnifies
 carnify
 carnifying
+carnitine
 carnitines
 carnival
 carnivals
@@ -20057,6 +20063,7 @@ commemoratively
 commemoratives
 commemorator
 commencement
+commencements
 commencer
 commencers
 commences
@@ -22407,6 +22414,7 @@ coruscated
 coruscates
 coruscation
 coruscations
+corvet
 corvette
 corvettes
 corvid
@@ -24701,6 +24709,7 @@ cyanocobalamine
 cyanoethylate
 cyanoethylated
 cyanoethylating
+cyanoethylation
 cyanogen
 cyanogeneses
 cyanogenesis
@@ -27119,6 +27128,7 @@ depictions
 depictor
 depictors
 depigmentation
+depilate
 depilated
 depilator
 depilatories
@@ -29930,6 +29940,7 @@ distillery
 distils
 distinct
 distincter
+distinction
 distinctions
 distinctively
 distinctnesses
@@ -30391,6 +30402,7 @@ dolefully
 dolefulnesses
 dolerite
 dolerites
+dolichocephaly
 doling
 doll
 dollarize
@@ -32646,6 +32658,7 @@ electing
 election
 electioneer
 electioneered
+electioneerer
 electioneerers
 electioneering
 electively
@@ -36326,6 +36339,7 @@ exploitive
 exploits
 explorational
 explorations
+explorative
 explore
 explored
 explorers
@@ -37132,6 +37146,7 @@ fanfaronade
 fanfaronades
 fanfarons
 fanfic
+fanfolded
 fanfolding
 fangas
 fanged
@@ -39580,6 +39595,7 @@ flyway
 flyways
 flyweight
 flyweights
+flywheel
 flywheels
 foal
 foals
@@ -40976,6 +40992,7 @@ frontages
 frontally
 frontals
 frontcourt
+fronted
 frontenis
 frontes
 frontiers
@@ -44845,6 +44862,7 @@ grograms
 grogs
 grogshop
 groin
+groining
 groins
 grokked
 grokking
@@ -53665,6 +53683,7 @@ introspection
 introspections
 introspectively
 introvert
+introverted
 introverting
 introverts
 intrude
@@ -56462,6 +56481,7 @@ knoll
 knolled
 knoller
 knollers
+knolling
 knolly
 knop
 knopped
@@ -57820,6 +57840,7 @@ leathern
 leatherneck
 leathernecks
 leathers
+leatherwoods
 leathery
 leave
 leaved
@@ -58716,6 +58737,7 @@ limitedly
 limitedness
 limiter
 limiters
+limitingly
 limitless
 limitlessly
 limitlessness
@@ -63517,6 +63539,7 @@ miffy
 mig
 migg
 miggs
+might
 mightier
 mightily
 mightiness
@@ -67615,6 +67638,7 @@ negatively
 negativeness
 negativenesses
 negatives
+negativing
 negativism
 negativists
 negativities
@@ -68075,6 +68099,7 @@ newsless
 newsletter
 newsletters
 newsmagazine
+newsmagazines
 newsmaker
 newsmakers
 newsman
@@ -75711,6 +75736,7 @@ pavane
 pavans
 pave
 paved
+paveed
 pavement
 pavements
 pavers
@@ -91348,6 +91374,7 @@ rostellum
 rostellums
 roster
 rostral
+rostrally
 rostrate
 rostrum
 rosulate
@@ -92698,6 +92725,7 @@ saporous
 sapors
 sapota
 sapour
+sapours
 sappers
 sapphire
 sapphism
@@ -92969,6 +92997,7 @@ savagenesses
 savageries
 savagery
 savagest
+savaging
 savagism
 savannah
 savannahs
@@ -99065,6 +99094,7 @@ sonsier
 sonsiest
 sook
 sooks
+sooner
 soonest
 sooth
 soothed
@@ -108285,6 +108315,7 @@ toadying
 toadyish
 toadyisms
 toasted
+toaster
 toastier
 toasting
 toastmaster
@@ -111870,6 +111901,7 @@ unburden
 unburdened
 unburdening
 unburdens
+unbureaucratic
 unburied
 unburnable
 unburned
@@ -115207,6 +115239,7 @@ vaticinated
 vaticinates
 vaticinating
 vaticination
+vaticinations
 vaticinator
 vaticinators
 vats
@@ -116356,6 +116389,7 @@ viviparity
 viviparously
 vivisect
 vivisectional
+vivisectionist
 vivisectionists
 vivisections
 vivisectors
@@ -116999,6 +117033,7 @@ wangun
 wanguns
 waniest
 wanigan
+wanigans
 wanion
 wanions
 wanked
