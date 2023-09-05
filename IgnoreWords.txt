@@ -690,6 +690,7 @@ acrophobes
 acrophobia
 acropolis
 acrosomal
+acrosome
 acrosomes
 acrospire
 acrospires
@@ -2294,6 +2295,7 @@ alkalizing
 alkaloidal
 alkaloids
 alkaloses
+alkalotic
 alkane
 alkanet
 alkanets
@@ -3451,6 +3453,7 @@ aneuploid
 aneuploids
 aneuploidy
 aneurins
+aneurism
 aneurysm
 aneurysms
 anfractuosities
@@ -7398,6 +7401,7 @@ balbriggan
 balbriggans
 balconied
 balconies
+bald
 baldachin
 baldachino
 baldachinos
@@ -8671,6 +8675,7 @@ beeswax
 beeswaxes
 beeswing
 beeswings
+beet
 beetle
 beetlers
 beetles
@@ -9025,6 +9030,7 @@ benadryls
 benamed
 bench
 bencher
+benches
 benchland
 benchlands
 benchmark
@@ -16310,6 +16316,7 @@ chairmanning
 chairmans
 chairmanship
 chairmanships
+chairperson
 chairpersons
 chairwoman
 chairwomen
@@ -26495,6 +26502,7 @@ dejectedness
 dejectednesses
 dejecting
 dejection
+dejections
 dejects
 dejeuners
 dekagram
@@ -27546,6 +27554,7 @@ despondent
 despondently
 despot
 despotic
+despotism
 despumate
 despumated
 desquamated
@@ -31622,6 +31631,7 @@ dunted
 dunting
 dunts
 duo
+duodecillion
 duodecillions
 duodecimal
 duodecimals
@@ -31646,6 +31656,7 @@ duplexers
 duplexes
 duplexities
 duplexity
+duplicate
 duplicated
 duplication
 duplications
@@ -37304,6 +37315,7 @@ fastings
 fastness
 fastnesses
 fasts
+fatal
 fatalist
 fatalistic
 fatalistically
@@ -38776,6 +38788,7 @@ flamines
 flaming
 flamingly
 flamingo
+flamingoes
 flammabilities
 flammability
 flammable
@@ -41166,6 +41179,7 @@ fulguration
 fulgurations
 fulgurites
 fulham
+fulhams
 fullam
 fullback
 fullblood
@@ -41343,6 +41357,7 @@ furcular
 furculum
 furfurals
 furfuran
+furfurans
 furibund
 furious
 furiously
@@ -51949,6 +51964,7 @@ infantilize
 infantilizes
 infantilizing
 infantine
+infantries
 infantry
 infantryman
 infantrymen
@@ -55362,6 +55378,7 @@ junketeered
 junketeering
 junketer
 junketers
+junketing
 junkier
 junkies
 junking
@@ -62961,6 +62978,7 @@ metformin
 methacrylate
 methadone
 methamphetamine
+methanation
 methanations
 methane
 methanes
@@ -68403,6 +68421,7 @@ noctilucas
 noctuid
 noctuids
 noctules
+nocturn
 nocturnal
 nocturnally
 nocturne
@@ -71568,6 +71587,7 @@ oscillating
 oscillation
 oscillational
 oscillations
+oscillator
 oscillatory
 oscillogram
 oscillograms
@@ -71734,6 +71754,7 @@ otocysts
 otolaryngology
 otoliths
 otologies
+otology
 otoplasties
 otoplasty
 otoscleroses
@@ -76893,6 +76914,7 @@ pertain
 pertained
 pertaining
 pertains
+perter
 pertest
 pertinacious
 pertinaciously
@@ -77909,6 +77931,7 @@ pickaxe
 pickaxed
 pickaxes
 picked
+pickeering
 picker
 pickerels
 pickerelweeds
@@ -87469,6 +87492,7 @@ refute
 refutes
 refuting
 reg
+regain
 regainers
 regaining
 regains
@@ -89691,6 +89715,7 @@ retentively
 retentiveness
 retentivities
 retentivity
+retest
 retestified
 retestifies
 retestify
@@ -93375,6 +93400,7 @@ schnauzers
 schnecke
 schnecken
 schnitzels
+schnorkeled
 schnorkeling
 schnorkels
 schnorrer
@@ -95045,6 +95071,7 @@ series
 serif
 serifed
 seriffed
+serifs
 serigraphers
 serigraphies
 serigraphs
@@ -95136,6 +95163,7 @@ servicing
 serviette
 servile
 servilenesses
+serving
 servitors
 servitudes
 servo
@@ -100211,6 +100239,7 @@ sportfully
 sportfulness
 sportier
 sportiest
+sportiness
 sportinesses
 sportingly
 sportive
@@ -100851,6 +100880,7 @@ standups
 stanged
 stanhopes
 stanine
+stanines
 staning
 stank
 stanks
@@ -100930,6 +100960,7 @@ starters
 startle
 startled
 startlements
+startles
 startling
 startlingly
 starts
@@ -105321,6 +105352,7 @@ taekwondos
 tael
 taels
 taenia
+taeniae
 taeniasis
 taffarel
 taffarels
@@ -107093,6 +107125,7 @@ theocrats
 theodolite
 theodolites
 theogony
+theologians
 theologic
 theologically
 theologies
@@ -107343,6 +107376,7 @@ thionin
 thionine
 thionines
 thionyls
+thiopentals
 thiophen
 thiophene
 thiophens
@@ -115709,6 +115743,7 @@ vibrissa
 vibrissae
 vibrissal
 vibronic
+viburnums
 vicar
 vicarage
 vicarate
