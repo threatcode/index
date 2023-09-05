@@ -7176,6 +7176,7 @@ backlighted
 backlighting
 backlist
 backlisted
+backlisting
 backlit
 backloading
 backloads
@@ -12451,6 +12452,7 @@ briefing
 briefings
 briefless
 briefness
+briefnesses
 brierroot
 brierroots
 brierwood
@@ -13080,6 +13082,7 @@ bulgers
 bulges
 bulghurs
 bulgiest
+bulginess
 bulging
 bulgingly
 bulgur
@@ -14861,6 +14864,7 @@ carabiniers
 carabins
 caracal
 caracals
+caracara
 caracaras
 caracks
 caracole
@@ -15038,6 +15042,7 @@ cardiogram
 cardiograph
 cardiographies
 cardiographs
+cardioid
 cardioids
 cardiological
 cardiologies
@@ -30004,6 +30009,7 @@ distortion
 distortions
 distorts
 distract
+distractedly
 distractibility
 distractible
 distractingly
@@ -31299,6 +31305,7 @@ drivingly
 drizzles
 drizzlier
 drizzliest
+drizzlingly
 drizzly
 droid
 droids
@@ -35666,6 +35673,7 @@ eventide
 eventides
 eventless
 events
+eventually
 eventuated
 eventuates
 eventuating
@@ -37870,6 +37878,7 @@ fermenting
 fermentors
 ferments
 fermi
+fermionic
 fermis
 fermium
 fermiums
@@ -38107,6 +38116,7 @@ fiberizations
 fiberize
 fiberized
 fiberizes
+fiberizing
 fiberless
 fiberlike
 fiberscopes
@@ -51772,6 +51782,7 @@ indicts
 indie
 indies
 indifference
+indifferences
 indifferencies
 indifferent
 indifferentisms
@@ -52645,6 +52656,7 @@ inquisitorially
 inquisitors
 inroad
 inroads
+inrun
 inrush
 inrushes
 inrushing
@@ -55000,6 +55012,7 @@ jesuits
 jet
 jetbead
 jete
+jetes
 jetfoil
 jetfoils
 jetlags
@@ -55253,6 +55266,7 @@ jollifying
 jollily
 jolliness
 jollinesses
+jollities
 jolly
 jollyboat
 jollyboats
@@ -57307,6 +57321,7 @@ landsman
 landsmen
 landward
 landwards
+lane
 lang
 langbeinite
 langbeinites
@@ -57846,6 +57861,7 @@ leadworks
 leadworts
 leady
 leafage
+leafages
 leafed
 leafhopper
 leafhoppers
@@ -59487,6 +59503,7 @@ locksmith
 locksmithing
 locksmithings
 locksmiths
+lockstep
 locksteps
 lockstitch
 lockstitched
@@ -63191,6 +63208,7 @@ methyldopa
 methyldopas
 methylenes
 methylic
+methylmercuries
 methylphenidate
 methyls
 methylxanthine
@@ -68721,6 +68739,7 @@ nonaffluent
 nonages
 nonaggression
 nonaggressions
+nonaggressive
 nonagons
 nonagricultural
 nonalcoholic
@@ -69459,6 +69478,7 @@ nonrestrictive
 nonretractile
 nonretroactive
 nonreturnables
+nonrigid
 nonrioters
 nonrioting
 nonrival
@@ -72194,6 +72214,7 @@ outdraw
 outdrawn
 outdraws
 outdreaming
+outdress
 outdressed
 outdrew
 outdrink
@@ -74066,6 +74087,7 @@ oviduct
 oviductal
 oviform
 ovine
+ovines
 ovipara
 oviparity
 oviparous
@@ -78975,6 +78997,7 @@ planetariums
 planetary
 planetesimal
 planetesimals
+planetlike
 planetoid
 planetoids
 planetological
@@ -84277,6 +84300,7 @@ pussyfooting
 pussyfoots
 pussytoes
 pustulant
+pustulate
 pustulated
 pustulates
 pustulating
@@ -86320,6 +86344,7 @@ reboots
 rebop
 rebops
 rebored
+reboring
 reborn
 rebottles
 rebottling
@@ -86494,6 +86519,7 @@ recheats
 rechecked
 rechecks
 rechew
+rechewing
 rechews
 rechooses
 rechoosing
@@ -90170,6 +90196,7 @@ returns
 retuse
 retwist
 retwisting
+retwists
 retyped
 retypes
 retyping
@@ -91390,6 +91417,7 @@ rooflines
 roofs
 rooftop
 rooftops
+rooftrees
 rook
 rookeries
 rookery
@@ -97307,6 +97335,7 @@ sixty
 sizable
 sizableness
 sizablenesses
+sizar
 sizarship
 sizarships
 size
@@ -100012,6 +100041,7 @@ spheriest
 spheroidal
 spheroidally
 spherometer
+spherometers
 spheroplast
 spheroplasts
 spherular
@@ -102665,6 +102695,7 @@ stuttered
 stutterer
 stutterers
 stutters
+sty
 styed
 styes
 stygian
@@ -107169,6 +107200,7 @@ testudines
 testudo
 testy
 tet
+tetanal
 tetanic
 tetanics
 tetanies
@@ -107773,6 +107805,7 @@ thraldoms
 thralldom
 thralldoms
 thralled
+thralling
 thrash
 thrashed
 thrashes
@@ -113733,6 +113766,7 @@ unproved
 unproven
 unprovoked
 unpruned
+unpublicized
 unpublishable
 unpublished
 unpucker
@@ -118329,6 +118363,7 @@ whiter
 whites
 whitethroat
 whitewall
+whitewalls
 whitewash
 whitewasher
 whitewashing
