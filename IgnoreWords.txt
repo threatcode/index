@@ -1063,6 +1063,7 @@ adoptability
 adoptee
 adoptees
 adopters
+adopting
 adoptionism
 adoptionisms
 adoptionist
@@ -4920,6 +4921,7 @@ aquafarming
 aqualungs
 aquanaut
 aquanauts
+aquaplane
 aquaplanes
 aquaplaning
 aquarelle
@@ -16997,6 +16999,7 @@ chesty
 chetah
 chetahs
 cheth
+cheths
 chetrum
 chetrums
 chevalet
@@ -21437,6 +21440,7 @@ containerize
 containerizes
 containerless
 containerport
+containerports
 containership
 containerships
 containing
@@ -23035,6 +23039,7 @@ cowgirl
 cowhage
 cowhages
 cowherbs
+cowherd
 cowherds
 cowhide
 cowhided
@@ -25827,6 +25832,7 @@ deceptivenesses
 decerebrated
 decerebrations
 decerned
+decerns
 decertification
 decertified
 decertifies
@@ -31626,6 +31632,7 @@ dumpier
 dumpiest
 dumpily
 dumpinesses
+dumpings
 dumpling
 dumps
 dumpsite
@@ -31769,6 +31776,7 @@ dustlike
 dustman
 dustoff
 dustpan
+dustproof
 dustrags
 duststorm
 dustups
@@ -41964,6 +41972,7 @@ gangliar
 gangliate
 ganglier
 gangliest
+ganglion
 ganglionated
 ganglionic
 ganglioside
@@ -56643,6 +56652,7 @@ kotowing
 kotows
 koumis
 koumises
+koumiss
 koumisses
 koumysses
 kouprey
@@ -56868,6 +56878,7 @@ lacerations
 lacerative
 lacertid
 lacertids
+laces
 lacewing
 lacewings
 lacewood
@@ -62362,6 +62373,7 @@ meioses
 meiosis
 meiotically
 meitnerium
+meitneriums
 mel
 melamed
 melamine
@@ -68427,6 +68439,7 @@ niters
 nitery
 nites
 nitinol
+nitons
 nitpick
 nitpicked
 nitpicking
@@ -72036,6 +72049,7 @@ outchided
 outcities
 outcity
 outclass
+outclasses
 outclimbing
 outclimbs
 outclomb
@@ -72162,6 +72176,7 @@ outfasts
 outfawned
 outfawning
 outfeast
+outfeasted
 outfeel
 outfeeling
 outfelt
@@ -73614,6 +73629,7 @@ overprotect
 overprotected
 overprotecting
 overprotections
+overproud
 overpumping
 overpumps
 overqualified
@@ -74443,6 +74459,7 @@ paleobotanic
 paleocene
 paleoecologic
 paleoecological
+paleoecologies
 paleoecologist
 paleoecologists
 paleoecology
@@ -74716,6 +74733,7 @@ pangolin
 pangolins
 pangrams
 pangs
+panhandler
 panhandles
 panhandling
 panhuman
@@ -75596,6 +75614,7 @@ patchworks
 pate
 patellae
 patellar
+patellas
 patellate
 patelliform
 paten
@@ -77512,6 +77531,7 @@ phlyctenae
 phobia
 phobias
 phobic
+phocine
 phoebes
 phoebus
 phoebuses
@@ -82114,6 +82134,7 @@ preventions
 preventive
 preventiveness
 preventives
+prevents
 preverb
 preverbs
 preview
@@ -83941,6 +83962,7 @@ punkey
 punkier
 punkinesses
 punkins
+punkish
 punks
 punky
 punner
@@ -88972,6 +88994,7 @@ reprinters
 reprints
 reprisal
 reprisals
+reprised
 reprises
 reprising
 repristinated
@@ -89861,6 +89884,7 @@ retial
 retiarii
 retiarius
 retiary
+reticence
 reticences
 reticencies
 reticency
@@ -96892,6 +96916,7 @@ silverberry
 silverer
 silverfish
 silverfishes
+silveriness
 silverinesses
 silvering
 silverly
@@ -96956,6 +96981,7 @@ simpler
 simples
 simplest
 simpleton
+simplex
 simplexes
 simplices
 simplicial
@@ -98387,6 +98413,7 @@ sneezer
 sneezers
 sneezes
 sneezeweeds
+sneezier
 sneezing
 snell
 snelled
@@ -103079,6 +103106,7 @@ subperiod
 subperiods
 subphase
 subphases
+subphyla
 subphylar
 subphylum
 subplot
@@ -103481,6 +103509,7 @@ sudds
 sudor
 sudoral
 sudors
+suds
 sudsed
 sudser
 sudsers
@@ -105248,6 +105277,7 @@ synergistically
 synergy
 synesthesia
 synesthesias
+synesthetic
 synfuel
 synfuels
 syngamies
@@ -109758,6 +109788,7 @@ trebucket
 trebuckets
 trecento
 trecentos
+treddle
 treddles
 tredecillions
 treed
@@ -114748,6 +114779,7 @@ uropod
 uropodal
 uropygia
 uropygial
+uropygium
 uropygiums
 uroscopic
 uroscopies
@@ -115422,6 +115454,7 @@ veinlike
 veins
 veinule
 veinules
+veinulets
 veiny
 velamen
 velamina
@@ -117250,6 +117283,7 @@ warsler
 warsles
 warstle
 warstled
+warstler
 warstles
 warstling
 warted
@@ -119199,6 +119233,7 @@ wormroots
 worms
 wormwood
 wormwoods
+wormy
 worn
 worriedly
 worriers
