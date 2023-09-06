@@ -688,6 +688,7 @@ acronycal
 acronym
 acropetal
 acropetally
+acrophobe
 acrophobes
 acrophobia
 acropolis
@@ -823,6 +824,7 @@ adagios
 adamance
 adamances
 adamant
+adamantly
 adamants
 adamsites
 adapt
@@ -5338,6 +5340,7 @@ armaments
 armature
 armatured
 armatures
+armaturing
 armbands
 armchair
 armchairs
@@ -13192,6 +13195,7 @@ bullace
 bullaces
 bullate
 bullbaiting
+bullbats
 bullbrier
 bullbriers
 bulldog
@@ -19014,6 +19018,7 @@ coadapted
 coadjutor
 coadjutors
 coadjutrices
+coadjutrix
 coadmire
 coadmires
 coadmiring
@@ -22936,6 +22941,7 @@ countermove
 countermoved
 countermovement
 countermoving
+countermyth
 countermyths
 counteroffer
 counteroffers
@@ -24459,6 +24465,7 @@ cultches
 culti
 cultic
 cultigen
+cultish
 cultishly
 cultishness
 cultism
@@ -25404,6 +25411,7 @@ damper
 dampers
 damping
 dampings
+damply
 dampnesses
 damps
 dams
@@ -28014,6 +28022,7 @@ detractor
 detractors
 detracts
 detrain
+detrained
 detraining
 detrainment
 detrainments
@@ -28081,6 +28090,7 @@ developes
 development
 developmental
 developmentally
+develops
 devels
 deverbal
 deverbative
@@ -29842,6 +29852,7 @@ dispassionately
 dispatch
 dispatcher
 dispatchers
+dispatching
 dispel
 dispels
 dispended
@@ -34880,6 +34891,7 @@ epiphanies
 epiphenomena
 epiphenomenal
 epiphenomenon
+epiphragms
 epiphyseal
 epiphyses
 epiphysis
@@ -42676,6 +42688,7 @@ gauzy
 gave
 gavel
 gaveled
+gaveling
 gavelkind
 gavelling
 gavelock
@@ -43175,6 +43188,7 @@ gerontocratic
 gerontocrats
 gerontological
 gerontologies
+gerontologist
 gerontologists
 gerontology
 gerontomorphic
@@ -43703,6 +43717,7 @@ glaze
 glazed
 glazer
 glazers
+glazes
 glazier
 glazieries
 glaziers
@@ -48598,6 +48613,7 @@ hoke
 hokey
 hokeynesses
 hokeypokey
+hokeypokeys
 hokier
 hokiest
 hokily
@@ -48914,6 +48930,7 @@ homunculi
 homy
 hon
 honan
+honans
 honcho
 honchoed
 honchoing
@@ -62581,6 +62598,7 @@ mazily
 maziness
 mazing
 mazourkas
+mazurkas
 mazy
 mazzard
 mazzards
@@ -76664,6 +76682,7 @@ pectizes
 pectizing
 pectoral
 pectorals
+peculate
 peculates
 peculating
 peculations
@@ -76848,6 +76867,7 @@ pelecypods
 pelerine
 peles
 pelf
+pelican
 pelicans
 pelisse
 pelisses
@@ -82999,6 +83019,7 @@ primo
 primogenitor
 primogenitors
 primordia
+primordial
 primordially
 primp
 primped
@@ -86332,6 +86353,7 @@ rarer
 rareripes
 rares
 rarify
+rarifying
 raring
 rarities
 ras
@@ -87327,6 +87349,7 @@ recompiled
 recompiles
 recompositions
 recomputation
+recompute
 recomputed
 recomputes
 recomputing
@@ -88059,6 +88082,7 @@ reestablishment
 reested
 reestimate
 reestimates
+reestimating
 reesting
 reests
 reevaluated
@@ -88638,6 +88662,7 @@ reifying
 reign
 reigned
 reigning
+reignite
 reignited
 reigniting
 reignition
@@ -92498,6 +92523,7 @@ rubier
 rubies
 rubiest
 rubigos
+rubious
 rubles
 ruboff
 rubout
@@ -94521,6 +94547,7 @@ scolded
 scolder
 scolders
 scolding
+scolds
 scoleces
 scolecite
 scolices
@@ -95824,6 +95851,7 @@ sensory
 sensual
 sensualism
 sensualisms
+sensualist
 sensualists
 sensualities
 sensualization
@@ -101593,6 +101621,7 @@ squelchier
 squelchiest
 squelchy
 squeteague
+squib
 squibbed
 squibs
 squidded
@@ -106538,6 +106567,7 @@ talar
 talaria
 talced
 talcing
+talcked
 talcking
 talcose
 talcous
@@ -108505,6 +108535,7 @@ thistledowns
 thistliest
 thistly
 thither
+thitherto
 thitherward
 thitherwards
 thole
@@ -108513,6 +108544,7 @@ tholeiite
 tholeiitic
 tholepin
 tholepins
+tholes
 tholing
 tholoi
 tholos
@@ -112801,6 +112833,7 @@ unawake
 unawaked
 unawakened
 unawarded
+unawares
 unawed
 unawesome
 unbacked
@@ -117270,6 +117303,7 @@ virtuosic
 virtuosities
 virtuosity
 virtuoso
+virtuosos
 virtuous
 virtuously
 virtuousness
@@ -120954,6 +120988,7 @@ yowies
 yowing
 yowl
 yowled
+yowler
 yowlers
 yowling
 yowls
