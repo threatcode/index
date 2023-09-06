@@ -767,6 +767,7 @@ actomyosins
 actorish
 actorly
 actors
+actresses
 actressy
 acts
 actual
@@ -24833,6 +24834,7 @@ cyanoethylation
 cyanogen
 cyanogeneses
 cyanogenesis
+cyanogenetic
 cyanogenic
 cyanohydrin
 cyanotype
@@ -26975,6 +26977,7 @@ demonises
 demonising
 demonism
 demonisms
+demonize
 demonized
 demonizing
 demonological
@@ -28734,6 +28737,7 @@ dimensioned
 dimensioning
 dimensions
 dimer
+dimercaprol
 dimercaprols
 dimeric
 dimerism
@@ -30443,6 +30447,7 @@ doe
 doer
 doers
 doeskins
+doeth
 doff
 doffed
 doffers
@@ -30946,6 +30951,7 @@ doweling
 dowelled
 dowelling
 dowered
+doweries
 dowering
 dowerless
 dowers
@@ -40033,6 +40039,7 @@ footle
 footler
 footlers
 footles
+footlessly
 footlessness
 footlessnesses
 footlights
@@ -47163,6 +47170,7 @@ hectometers
 hector
 hectoring
 hectors
+heddle
 heddles
 heder
 hedge
@@ -52752,6 +52760,7 @@ inobservant
 inoculant
 inoculants
 inoculate
+inoculated
 inoculating
 inoculation
 inoculations
@@ -59969,6 +59978,7 @@ loos
 loosed
 loosely
 loosen
+loosened
 looseners
 looseness
 loosenesses
@@ -61902,6 +61912,7 @@ masa
 masala
 masalas
 masas
+mascara
 mascaraing
 mascarpones
 mascons
@@ -63472,6 +63483,7 @@ mezereons
 mezereum
 mezereums
 mezes
+mezquit
 mezquite
 mezquites
 mezuza
@@ -66471,6 +66483,7 @@ moved
 moveless
 movelessly
 movelessness
+mover
 moviedom
 moviedoms
 moviegoer
@@ -66866,6 +66879,7 @@ mummied
 mummies
 mummification
 mummifications
+mummified
 mummifies
 mummify
 mummifying
@@ -67730,6 +67744,7 @@ naturalized
 naturalizes
 naturally
 naturalness
+naturals
 natured
 natures
 naturism
@@ -69735,6 +69750,7 @@ nonskid
 nonslip
 nonsmoker
 nonsmokers
+nonsmoking
 nonsocialist
 nonsocialists
 nonsolar
@@ -70352,6 +70368,7 @@ nutrias
 nutrient
 nutrients
 nutriment
+nutriments
 nutritional
 nutritionally
 nutritionist
@@ -77808,6 +77825,7 @@ philosophised
 philosophises
 philosophising
 philosophize
+philosophized
 philosophizer
 philosophizers
 philosophizes
@@ -81538,6 +81556,7 @@ preconstructed
 precontact
 preconviction
 preconvictions
+precook
 precooked
 precooking
 precooks
@@ -87154,6 +87173,7 @@ rectitude
 rectitudinous
 recto
 rectocele
+rectoceles
 rector
 rectorate
 rectories
@@ -93797,6 +93817,7 @@ scenarists
 scenas
 scend
 scended
+scending
 scene
 scenery
 scenes
@@ -95685,6 +95706,7 @@ serpigos
 serranids
 serrano
 serranoid
+serranos
 serrating
 serration
 serratures
@@ -95712,6 +95734,7 @@ serviceberries
 serviceberry
 serviceman
 servicemen
+servicers
 services
 servicewoman
 servicewomen
@@ -99273,6 +99296,7 @@ sokes
 sokol
 sol
 solace
+solaced
 solacement
 solacements
 solacer
@@ -101651,6 +101675,7 @@ staving
 stavudine
 stavudines
 stay
+stayer
 staying
 stays
 staysail
@@ -101848,6 +101873,7 @@ stepdaughters
 stepfamilies
 stepfather
 stepfathers
+stephanotis
 stephanotises
 stepladder
 steplike
@@ -104118,6 +104144,7 @@ sullage
 sullen
 sullener
 sullenest
+sullenly
 sullenness
 sulliable
 sullies
@@ -105994,6 +106021,7 @@ tagging
 tagliatelles
 taglines
 tagmemes
+tagmemic
 tagmemics
 tagrag
 tagrags
@@ -111949,6 +111977,7 @@ ukases
 uke
 ukelele
 ukeleles
+ukes
 ukulele
 ulama
 ulamas
@@ -112245,6 +112274,7 @@ unamended
 unamortized
 unamplified
 unamused
+unamusing
 unanalyzable
 unanchor
 unanchored
@@ -116046,6 +116076,7 @@ venosities
 venosity
 vent
 ventage
+ventail
 venter
 ventifact
 ventilate
@@ -116180,6 +116211,7 @@ verist
 verists
 veritableness
 veritablenesses
+veritates
 verite
 verities
 verity
@@ -118967,6 +118999,7 @@ wildlings
 wildness
 wildwood
 wildwoods
+wiles
 wilfully
 wilier
 wiliest
@@ -119598,6 +119631,7 @@ woolman
 woolmen
 wools
 woolshed
+woolsheds
 woolskins
 woolwork
 woolworks
@@ -120799,6 +120833,7 @@ zoons
 zoophile
 zoophiles
 zoophilia
+zoophilic
 zoophilous
 zoophily
 zoophobia
