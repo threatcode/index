@@ -544,6 +544,7 @@ achondrites
 achondroplasia
 achondroplasias
 achromat
+achromatism
 achromatisms
 achromatize
 achromatizes
@@ -861,6 +862,7 @@ adding
 addition
 additionally
 additive
+additively
 additives
 addle
 addled
@@ -2165,6 +2167,7 @@ alexia
 alexin
 alexines
 alexins
+alfa
 alfalfas
 alfaqui
 alfaquin
@@ -2338,6 +2341,7 @@ alkyls
 alkyne
 all
 allanite
+allantoid
 allantoides
 allantoids
 allantoin
@@ -5883,6 +5887,7 @@ assertors
 asserts
 assess
 assessed
+assessing
 assessment
 assessor
 assessors
@@ -6100,6 +6105,7 @@ astuteness
 astutenesses
 astylar
 asunder
+aswarm
 aswirl
 asyla
 asyllabic
@@ -6535,6 +6541,7 @@ austenite
 austenites
 austere
 austereness
+austerenesses
 austerest
 austerity
 austral
@@ -14971,6 +14978,7 @@ captivator
 captivators
 captivities
 captopril
+captoprils
 captor
 captors
 captured
@@ -28916,6 +28924,7 @@ dime
 dimenhydrinate
 dimenhydrinates
 dimension
+dimensionality
 dimensioned
 dimensioning
 dimensions
@@ -36210,6 +36219,7 @@ exceeds
 excel
 excelled
 excellence
+excellences
 excellencies
 excellency
 excellently
@@ -49001,6 +49011,7 @@ homophony
 homophylies
 homophyly
 homoplasies
+homoplastic
 homoplasy
 homopolymers
 homopteran
@@ -50345,6 +50356,7 @@ hyperthyroid
 hyperthyroidism
 hypertonia
 hypertonias
+hypertonic
 hypertonicities
 hypertonicity
 hypertrophies
@@ -52483,6 +52495,7 @@ ineffableness
 ineffably
 ineffaceability
 ineffaceable
+ineffaceably
 ineffectiveness
 ineffectual
 ineffectuality
@@ -55503,6 +55516,7 @@ jerkies
 jerkiest
 jerkin
 jerkiness
+jerking
 jerkins
 jerks
 jerkwaters
@@ -55824,6 +55838,7 @@ josephs
 josh
 joshed
 joshers
+joshes
 joss
 josses
 jostle
@@ -58318,6 +58333,7 @@ lawmaking
 lawmakings
 lawman
 lawmen
+lawnmower
 lawns
 lawny
 laws
@@ -62348,6 +62364,7 @@ masque
 masqueraded
 masquerader
 masqueraders
+masquerades
 masquerading
 masquers
 masques
@@ -64484,6 +64501,7 @@ millrace
 millraces
 millruns
 mills
+millstone
 millstreams
 millwork
 millworks
@@ -66936,6 +66954,7 @@ mozzettas
 mridanga
 mridangams
 mu
+much
 muchachos
 muchly
 muchness
@@ -67879,6 +67898,7 @@ naething
 naethings
 naevi
 naevoid
+naevus
 naffed
 naffing
 naffs
@@ -73186,6 +73206,7 @@ outpainted
 outpaints
 outpassed
 outpasses
+outpassing
 outpatient
 outpatients
 outpeopled
@@ -87285,6 +87306,7 @@ receiverships
 receives
 receiving
 recement
+recementing
 recements
 recencies
 recency
@@ -93621,6 +93643,7 @@ sandblaster
 sandblasters
 sandblasting
 sandblasts
+sandbur
 sandburr
 sandburrs
 sandcrack
@@ -95685,6 +95708,7 @@ selectivenesses
 selectivities
 selectivity
 selectly
+selectmen
 selectnesses
 selector
 selectors
@@ -95763,6 +95787,7 @@ semblables
 semblably
 semeiologies
 semeiotics
+sememe
 sememes
 sememic
 semen
@@ -98006,6 +98031,7 @@ simitar
 simitars
 simlins
 simmer
+simmered
 simmering
 simmers
 simnel
@@ -98527,6 +98553,7 @@ skort
 skorts
 skreeghed
 skreeghs
+skreigh
 skreighed
 skreighing
 skulduggeries
@@ -102102,6 +102129,7 @@ standardise
 standardised
 standardises
 standardization
+standardize
 standardized
 standardizing
 standardless
@@ -104126,6 +104154,7 @@ submaxillaries
 submaxillary
 submediants
 submenu
+submenus
 submerged
 submergence
 submergences
@@ -104287,6 +104316,7 @@ subseizure
 subseizures
 subsense
 subsenses
+subsentence
 subsentences
 subsequences
 subsequent
@@ -106675,6 +106705,7 @@ taffeta
 taffetas
 taffia
 taffies
+taffrail
 taffrails
 tafia
 tafias
@@ -113395,6 +113426,7 @@ uncoercively
 uncoffined
 uncoffining
 uncoffins
+uncoil
 uncoiled
 uncoils
 uncoined
@@ -114874,6 +114906,7 @@ unquestioning
 unquestioningly
 unquiet
 unquietest
+unquietly
 unquietnesses
 unquiets
 unquoted
@@ -121124,6 +121157,7 @@ yirds
 yirr
 yirring
 yirrs
+yirth
 yirths
 ylem
 ylems
@@ -121507,6 +121541,7 @@ ziti
 zitis
 zits
 zizit
+zizith
 zizzle
 zizzled
 zizzles
