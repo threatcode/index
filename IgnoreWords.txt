@@ -2712,6 +2712,7 @@ amalgamations
 amalgamator
 amalgamators
 amalgams
+amanita
 amanitas
 amanitin
 amanitins
@@ -4999,6 +5000,7 @@ arabicas
 arabicization
 arabicize
 arabicized
+arabicizing
 arabilities
 arabinose
 arabinoses
@@ -7185,6 +7187,7 @@ backhand
 backhanded
 backhander
 backhanders
+backhands
 backhaul
 backhauls
 backhoeing
@@ -11277,6 +11280,7 @@ boiling
 boilingly
 boils
 boing
+boings
 boinked
 boinking
 boinks
@@ -11794,6 +11798,7 @@ bottle
 bottlebrushes
 bottled
 bottlefuls
+bottleneck
 bottlenecks
 bottler
 bottlers
@@ -17231,6 +17236,7 @@ chili
 chiliadal
 chiliadic
 chiliarchs
+chiliasms
 chiliast
 chilidog
 chilidogs
@@ -18546,6 +18552,7 @@ cleats
 cleavable
 cleavages
 cleave
+cleaver
 cleavers
 cleaves
 cleaving
@@ -21248,6 +21255,7 @@ connectional
 connections
 connective
 connectivities
+connectivity
 connectors
 connects
 conner
@@ -27231,6 +27239,7 @@ deontologists
 deontology
 deorbiting
 deoxidation
+deoxidations
 deoxidizer
 deoxidizers
 deoxidizes
@@ -31787,6 +31796,7 @@ dumortierite
 dumortierites
 dump
 dumpcart
+dumpcarts
 dumped
 dumper
 dumpier
@@ -33014,6 +33024,7 @@ elicit
 elicitation
 elicitations
 elicitors
+elide
 elided
 elides
 eligibilities
@@ -50721,6 +50732,7 @@ imbeds
 imbibe
 imbiber
 imbibers
+imbibition
 imbibitions
 imbitters
 imblaze
@@ -54151,6 +54163,7 @@ inventorially
 inventoried
 inventories
 inventors
+inventory
 inventorying
 inventress
 inventresses
@@ -54375,6 +54388,7 @@ irasciblenesses
 irascibly
 iratest
 ire
+ired
 irefully
 ireless
 irenic
@@ -55463,6 +55477,7 @@ joint
 jointed
 jointedly
 jointednesses
+jointer
 jointers
 jointless
 jointly
@@ -61559,6 +61574,7 @@ manipulatable
 manipulate
 manipulated
 manipulates
+manipulating
 manipulation
 manipulations
 manipulative
@@ -70027,6 +70043,7 @@ normals
 normande
 normative
 normativeness
+normed
 normless
 normotensive
 normotensives
@@ -70756,6 +70773,7 @@ obstructionists
 obstructions
 obstructive
 obstructives
+obstructor
 obstructors
 obstructs
 obstruent
@@ -71444,6 +71462,7 @@ ontogenetically
 ontogenic
 ontogenies
 ontogeny
+ontologic
 ontological
 ontologically
 ontologies
@@ -74248,6 +74267,7 @@ overstrode
 overstrung
 overstudied
 overstudies
+overstudying
 overstuff
 overstuffed
 oversubscribing
@@ -79428,6 +79448,7 @@ plasmogamies
 plasmogamy
 plasmoid
 plasmoids
+plasmolyses
 plasmolysis
 plasmolytic
 plasmolyze
@@ -80102,6 +80123,7 @@ poisonously
 poisons
 poisonwoods
 poitrel
+poitrels
 pokable
 poke
 pokeberry
@@ -81252,6 +81274,7 @@ poutines
 pouting
 powdered
 powderers
+powdering
 powderless
 power
 powerboat
@@ -81710,6 +81733,7 @@ predestine
 predestines
 predestining
 predetermine
+predetermined
 predeterminers
 predetermines
 predetermining
@@ -86083,6 +86107,7 @@ ras
 rasbora
 rasboras
 rascal
+rascality
 rascally
 rascals
 rased
@@ -90025,6 +90050,7 @@ resorting
 resought
 resound
 resounded
+resounding
 resoundingly
 resounds
 resourcefulness
@@ -90481,6 +90507,7 @@ retractor
 retrained
 retrainee
 retraining
+retrains
 retral
 retransfer
 retransferred
@@ -92669,6 +92696,7 @@ sacrings
 sacrist
 sacristan
 sacristans
+sacrists
 sacroiliacs
 sacrosanctities
 sacrosanctity
@@ -99926,6 +99954,7 @@ sound
 soundable
 soundalike
 soundboard
+soundboards
 soundboxes
 sounded
 sounder
@@ -107428,6 +107457,7 @@ tephra
 tephrite
 tephrites
 tephritic
+tepidities
 tepidity
 tepidly
 tepidnesses
@@ -107961,6 +107991,7 @@ thereunder
 therewith
 theriac
 theriacal
+theriacas
 therian
 therians
 therm
@@ -108615,6 +108646,7 @@ tiebreaker
 tiebreakers
 tiebreaks
 tieclasp
+tieclasps
 tied
 tieless
 tiemannite
@@ -112814,6 +112846,7 @@ uncoffined
 uncoffining
 uncoffins
 uncoiled
+uncoils
 uncoined
 uncollected
 uncollectible
@@ -117017,6 +117050,7 @@ visorless
 vista
 visual
 visualise
+visualising
 visualist
 visualists
 visualities
@@ -120343,6 +120377,7 @@ yatagan
 yatter
 yattering
 yatters
+yaud
 yaup
 yauped
 yauper
