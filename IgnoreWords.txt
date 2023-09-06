@@ -4402,6 +4402,7 @@ antiwear
 antiweed
 antiwelfare
 antiwhaling
+antiwhite
 antiwrinkle
 antler
 antlered
@@ -5502,6 +5503,7 @@ arsenides
 arsenious
 arsenite
 arsenites
+arsenopyrites
 arsenous
 arshin
 arshins
@@ -15849,6 +15851,7 @@ caudillismo
 caudillos
 cauld
 cauldrons
+caulds
 caulicle
 caulicles
 cauliflower
@@ -16283,6 +16286,7 @@ cere
 cereal
 cereals
 cerebella
+cerebellar
 cerebellum
 cerebellums
 cerebra
@@ -17607,6 +17611,7 @@ choosy
 chop
 chophouse
 chopin
+chopines
 chopins
 choplogic
 choplogics
@@ -19296,6 +19301,7 @@ cocounsel
 cocounseled
 cocounseling
 cocounselled
+cocounsels
 cocoyam
 cocoyams
 cocozelles
@@ -26142,6 +26148,7 @@ decompose
 decomposed
 decomposers
 decomposes
+decomposing
 decompositions
 decompound
 decompress
@@ -28990,6 +28997,7 @@ diplontic
 diplopias
 diplopic
 diplopods
+diploses
 diplotene
 dipnets
 dipnetted
@@ -31519,6 +31527,7 @@ droppings
 drops
 dropshot
 dropsical
+dropsied
 dropsies
 dropsonde
 dropsondes
@@ -37483,6 +37492,7 @@ farads
 farandoles
 farced
 farcers
+farci
 farcical
 farcicalities
 farcically
@@ -39530,6 +39540,7 @@ floods
 floodtides
 floodwall
 floodwalls
+floodwater
 floodwaters
 flooey
 floor
@@ -45094,6 +45105,7 @@ grinds
 grindstone
 grindstones
 gringa
+gringas
 gringos
 grinner
 grinners
@@ -49382,6 +49394,7 @@ howfs
 howitzers
 howk
 howked
+howking
 howks
 howl
 howled
@@ -60479,6 +60492,7 @@ lumped
 lumpen
 lumper
 lumpers
+lumpfishes
 lumpier
 lumpinesses
 lumping
@@ -70770,6 +70784,7 @@ observants
 observation
 observations
 observatory
+observer
 observers
 observes
 observing
@@ -70918,6 +70933,7 @@ occupants
 occupation
 occupational
 occupationally
+occupations
 occupied
 occupier
 occupiers
@@ -72642,6 +72658,7 @@ outfall
 outfast
 outfasted
 outfasts
+outfawn
 outfawned
 outfawning
 outfeast
@@ -80051,6 +80068,7 @@ pod
 podagral
 podagric
 podagrous
+podded
 podding
 podestas
 podgier
@@ -80472,6 +80490,7 @@ polymorphisms
 polymorphous
 polymorphously
 polymorphs
+polymyxins
 polyneuritises
 polynomials
 polynyi
@@ -85852,6 +85871,7 @@ railbus
 railbuses
 railbusses
 railcar
+railcars
 railed
 railer
 railhead
@@ -86038,6 +86058,7 @@ rancho
 ranchos
 rancidities
 rancidity
+rancidly
 rancidness
 rancidnesses
 rancor
@@ -87455,6 +87476,7 @@ reddles
 rede
 redear
 redecide
+redecides
 redecorate
 redecorated
 redecorates
@@ -90213,6 +90235,7 @@ restaging
 restamp
 restamping
 restamps
+restart
 restartable
 restarted
 restate
@@ -90845,6 +90868,7 @@ reviewable
 reviewal
 reviewals
 reviewed
+reviewer
 reviewers
 reviewing
 revile
@@ -93922,6 +93946,7 @@ scapulas
 scar
 scarab
 scarabaeus
+scarabaeuses
 scaramouches
 scarcer
 scarcity
@@ -96527,6 +96552,7 @@ shelvier
 shelving
 shelvings
 shenanigans
+shend
 shent
 sheol
 shepherd
@@ -101300,6 +101326,7 @@ squallish
 squalls
 squalor
 squalors
+squamae
 squamate
 squamates
 squamation
@@ -106479,6 +106506,7 @@ tamperproof
 tampers
 tampion
 tampions
+tampon
 tampons
 tams
 tanbarks
@@ -109591,6 +109619,7 @@ torrefy
 torrefying
 torrential
 torrentially
+torrents
 torrid
 torridities
 torridity
@@ -109911,6 +109940,7 @@ trackpad
 tracks
 trackside
 tracksides
+tracksuit
 trackwalkers
 trackway
 trackways
@@ -111289,6 +111319,7 @@ trucks
 truculencies
 truculency
 truculently
+trudged
 trudgen
 trudgeon
 trudgers
@@ -114955,6 +114986,7 @@ unusual
 unusualness
 unusualnesses
 unutilized
+unutterably
 unuttered
 unvaccinated
 unvalued
@@ -117985,6 +118017,7 @@ warmth
 warmup
 warmups
 warn
+warned
 warners
 warningly
 warnings
@@ -120224,6 +120257,7 @@ wyandotte
 wyandottes
 wyches
 wyes
+wyle
 wyles
 wyliecoat
 wyliecoats
@@ -121118,6 +121152,7 @@ zowie
 zoysia
 zoysias
 zucchini
+zugzwang
 zuz
 zuzim
 zwitterion
