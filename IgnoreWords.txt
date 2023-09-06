@@ -1939,6 +1939,7 @@ airpark
 airparks
 airplane
 airplanes
+airplay
 airport
 airports
 airpost
@@ -6531,6 +6532,7 @@ autarch
 autarchic
 autarchical
 autarchies
+autarkical
 autarkies
 autarkist
 autarkists
@@ -6698,6 +6700,7 @@ autophytes
 autopilot
 autopilots
 autopolyploid
+autopolyploidy
 autopsic
 autopsied
 autopsies
@@ -10765,6 +10768,7 @@ blinkards
 blinked
 blinker
 blinkered
+blinkering
 blinking
 blintz
 blintze
@@ -16693,6 +16697,7 @@ chapt
 chapter
 chapteral
 chaptered
+chaptering
 chaquetas
 char
 charabanc
@@ -20099,6 +20104,7 @@ colure
 colures
 coly
 colza
+colzas
 coma
 comae
 comake
@@ -24976,6 +24982,7 @@ cyclings
 cyclins
 cyclitol
 cyclitols
+cyclization
 cyclizations
 cyclize
 cyclized
@@ -26161,6 +26168,7 @@ decolorized
 decolorizer
 decolorizers
 decolorizes
+decolorizing
 decolors
 decolour
 decoloured
@@ -28771,6 +28779,7 @@ dilapidated
 dilapidates
 dilapidation
 dilapidations
+dilatabilities
 dilatability
 dilatable
 dilatably
@@ -32351,6 +32360,7 @@ eavesdrop
 eavesdropped
 eavesdropper
 eavesdropping
+ebbets
 ebbing
 ebbs
 ebon
@@ -33613,6 +33623,7 @@ empresses
 emprises
 emptied
 emptiers
+emptiest
 emptings
 emptins
 emptying
@@ -35751,6 +35762,7 @@ euphausids
 euphausiids
 euphemise
 euphemised
+euphemises
 euphemism
 euphemisms
 euphemist
@@ -35909,6 +35921,7 @@ evenfalls
 evenhanded
 evening
 evenings
+evenly
 evenness
 evens
 evensong
@@ -36864,6 +36877,7 @@ exteroceptive
 exteroceptors
 exterritorial
 extinct
+extincted
 extincting
 extinction
 extinctions
@@ -37547,6 +37561,7 @@ farads
 farandoles
 farced
 farcers
+farceur
 farci
 farcical
 farcicalities
@@ -43319,6 +43334,7 @@ gieing
 gien
 gies
 gift
+giftables
 giftedly
 giftednesses
 giftee
@@ -43966,6 +43982,7 @@ glugged
 glugging
 glugs
 gluhwein
+gluhweins
 gluiest
 gluily
 gluiness
@@ -44379,6 +44396,7 @@ goops
 goopy
 gooral
 goos
+goosander
 goosanders
 goose
 gooseberries
@@ -46382,6 +46400,7 @@ hamadryases
 hamal
 hamantasch
 hamantaschen
+hamartia
 hamate
 hamauls
 hamboned
@@ -51851,6 +51870,7 @@ incompletely
 incompressible
 incomputable
 incomputably
+inconceivable
 inconceivably
 inconclusive
 inconclusively
@@ -53212,6 +53232,7 @@ installer
 installment
 installments
 installs
+instalment
 instals
 instance
 instances
@@ -53468,6 +53489,7 @@ interceptors
 intercession
 intercessor
 intercessors
+interchain
 interchange
 interchangeable
 interchangeably
@@ -69199,6 +69221,7 @@ nonacidic
 nonacids
 nonacquisitive
 nonaction
+nonadaptive
 nonaddict
 nonaddicts
 nonadhesive
@@ -71889,6 +71912,7 @@ option
 optionalities
 optionality
 optionals
+optioned
 optionee
 options
 optoelectronic
@@ -75989,6 +76013,7 @@ participially
 participles
 particle
 particleboard
+particles
 particular
 particularise
 particularised
@@ -76653,6 +76678,7 @@ pedagogy
 pedaled
 pedaler
 pedalers
+pedalfers
 pedalier
 pedalled
 pedaller
@@ -77750,6 +77776,7 @@ pestered
 pesterer
 pesterers
 pestering
+pesters
 pesthole
 pestholes
 pesthouse
@@ -80694,6 +80721,7 @@ polyunsaturated
 polyurethanes
 polyuria
 polyvalence
+polyvalences
 polyvalent
 polyvinyl
 polywater
@@ -83080,6 +83108,7 @@ privatenesses
 privater
 privatest
 privation
+privatise
 privatised
 privatising
 privatisms
@@ -85790,6 +85819,7 @@ rackfuls
 racking
 rackingly
 rackle
+racks
 rackwork
 rackworks
 raclette
@@ -97671,6 +97701,7 @@ silkier
 silkies
 silkiest
 silkiness
+silkinesses
 silklike
 silkolines
 silkweed
@@ -109313,6 +109344,7 @@ toddled
 toddlerhood
 toddlerhoods
 toddles
+toddy
 tods
 tody
 toe
@@ -113854,6 +113886,7 @@ unfroze
 unfrozen
 unfruitful
 unfruitfully
+unfruitfulness
 unfunded
 unfurled
 unfurling
@@ -116642,6 +116675,7 @@ verist
 verists
 veritableness
 veritablenesses
+veritably
 veritates
 verite
 verities
@@ -116955,6 +116989,7 @@ victualed
 victualer
 victualers
 victualler
+victuallers
 victualling
 vicugnas
 vicuna
