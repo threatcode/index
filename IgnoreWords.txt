@@ -6481,6 +6481,7 @@ aurei
 aureolae
 aureolas
 aureoles
+aureoling
 aures
 auric
 auricle
@@ -10105,6 +10106,7 @@ biomolecules
 biomorphic
 biomorphs
 bionomic
+bionomist
 bionomists
 bionomy
 biont
@@ -13021,6 +13023,7 @@ buckeye
 buckeyes
 buckhounds
 bucking
+buckle
 buckled
 buckler
 bucklering
@@ -14451,6 +14454,7 @@ camporee
 campos
 campout
 campouts
+camps
 campsites
 campstool
 campus
@@ -16696,6 +16700,7 @@ charactered
 characterful
 charactering
 characteristics
+characterized
 characterizes
 characterizing
 characterless
@@ -18915,6 +18920,7 @@ clubbed
 clubber
 clubbiest
 clubbiness
+clubbinesses
 clubbing
 clubbish
 clubfeet
@@ -22665,6 +22671,7 @@ cosmolined
 cosmolines
 cosmolining
 cosmological
+cosmologically
 cosmologies
 cosmologist
 cosmologists
@@ -26962,6 +26969,7 @@ demeraran
 demeraras
 demerge
 demerger
+demergering
 demerit
 demerited
 demerits
@@ -29940,6 +29948,7 @@ disqualifying
 disquantities
 disquantity
 disquiet
+disquietingly
 disquietly
 disquiets
 disquietudes
@@ -31595,6 +31604,7 @@ drowsinesses
 drowsy
 drub
 drubbed
+drubber
 drubbers
 drubbing
 drubbings
@@ -31841,6 +31851,7 @@ dumbstruck
 dumbwaiter
 dumbwaiters
 dumdums
+dumfound
 dumfounded
 dumfounding
 dumfounds
@@ -33255,6 +33266,7 @@ embarrassment
 embarrassments
 embarred
 embarring
+embars
 embassage
 embassages
 embassies
@@ -36489,6 +36501,7 @@ expansionist
 expansionists
 expansions
 expansivenesses
+expansivities
 expansivity
 expat
 expatiate
@@ -36998,6 +37011,7 @@ exurbanites
 exurbia
 exurbias
 exurbs
+exuviate
 exuviated
 exuviates
 exuviating
@@ -41025,6 +41039,7 @@ freedwomen
 freeform
 freehand
 freehanded
+freehandedly
 freehearted
 freeheartedly
 freehold
@@ -47651,6 +47666,7 @@ hemophilias
 hemopoieses
 hemopoiesis
 hemopoietic
+hemoprotein
 hemoproteins
 hemorrhaged
 hemorrhages
@@ -48071,6 +48087,7 @@ hexokinase
 hexones
 hexosaminidase
 hexosan
+hexosans
 hexose
 hexoses
 hexyl
@@ -59412,6 +59429,7 @@ linty
 linums
 linuron
 linurons
+liny
 lioness
 lionesses
 lionfish
@@ -65720,6 +65738,7 @@ molluscs
 molluscum
 molluskan
 molluskans
+mollusks
 molly
 mollycoddle
 mollycoddled
@@ -66995,6 +67014,7 @@ multiparty
 multipath
 multipede
 multipedes
+multiphase
 multipiece
 multipion
 multipiston
@@ -67662,6 +67682,7 @@ nadas
 nadir
 nadirs
 nae
+naething
 naethings
 naevi
 naevoid
@@ -69788,6 +69809,7 @@ nonoccurrence
 nonoccurrences
 nonofficial
 nonofficials
+nonohmic
 nonoily
 nonoperating
 nonoperative
@@ -73492,6 +73514,7 @@ overarranges
 overarranging
 overarticulated
 overarticulates
+overasserting
 overassertion
 overassertions
 overassertive
@@ -78575,6 +78598,7 @@ phytosociology
 phytosterol
 phytotron
 phytotrons
+pi
 pia
 piacular
 piaffe
@@ -79201,6 +79225,7 @@ piquantnesses
 piquet
 piquets
 piquing
+piracetam
 piracies
 piracy
 piragua
@@ -82276,6 +82301,7 @@ prepack
 prepackage
 prepackaged
 prepackages
+prepacking
 prepacks
 prepaid
 preparation
@@ -85029,6 +85055,7 @@ pyrometer
 pyrometers
 pyrometric
 pyrometrically
+pyrometries
 pyromorphite
 pyromorphites
 pyrone
@@ -87023,6 +87050,7 @@ recent
 recenter
 recentest
 recently
+recentrifuge
 recentrifuged
 recentrifuging
 recept
@@ -101373,6 +101401,7 @@ spurrers
 spurriers
 spurry
 spurs
+spurt
 spurted
 spurtle
 spurtles
@@ -104183,6 +104212,7 @@ subverters
 subverting
 subverts
 subvicars
+subvirus
 subviruses
 subvisible
 subvocalize
@@ -105814,6 +105844,7 @@ sycophantish
 sycophantisms
 sycophants
 sycoses
+sycosis
 syenite
 syenites
 syenitic
@@ -117407,6 +117438,7 @@ vocalists
 vocalities
 vocality
 vocalization
+vocalizations
 vocalizers
 vocalizing
 vocally
@@ -118210,6 +118242,7 @@ washhouse
 washhouses
 washiest
 washing
+washout
 washouts
 washstand
 washstands
@@ -118482,6 +118515,7 @@ wealthily
 wealthiness
 wealths
 wealthy
+wean
 weaned
 weaner
 weaning
@@ -119450,6 +119484,7 @@ windburns
 windburnt
 windchill
 windchills
+winder
 winders
 windfall
 windfalls
