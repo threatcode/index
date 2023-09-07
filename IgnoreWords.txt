@@ -984,6 +984,7 @@ adjurations
 adjuratory
 adjured
 adjures
+adjuring
 adjuror
 adjurors
 adjust
@@ -3499,6 +3500,7 @@ anethol
 anetholes
 anethols
 aneuploid
+aneuploidies
 aneuploids
 aneuploidy
 aneurins
@@ -5591,6 +5593,7 @@ articulacies
 articulate
 articulated
 articulateness
+articulates
 articulating
 articulations
 articulators
@@ -7078,6 +7081,7 @@ azotemias
 azotemic
 azotes
 azoth
+azotic
 azotised
 azotises
 azotize
@@ -10020,6 +10024,7 @@ binaries
 binarism
 binarisms
 binary
+binate
 binately
 binational
 binaural
@@ -14428,6 +14433,7 @@ calyxes
 calzone
 calzones
 cam
+camail
 camailed
 camarilla
 camarillas
@@ -17755,6 +17761,7 @@ choral
 chorale
 chorals
 chordal
+chordamesoderms
 chordate
 chording
 chords
@@ -19597,6 +19604,7 @@ coesites
 coetaneous
 coeternal
 coeval
+coevally
 coevals
 coevolution
 coevolutionary
@@ -27530,6 +27538,7 @@ deployable
 deployed
 deployer
 deployers
+deploying
 deployment
 deployments
 deploys
@@ -33579,6 +33588,7 @@ embrasure
 embrasures
 embrittle
 embrittled
+embrittlement
 embrittles
 embrocate
 embrocated
@@ -38001,6 +38011,7 @@ favella
 favellas
 faveolate
 faves
+favism
 favisms
 favonian
 favorable
@@ -38078,6 +38089,7 @@ featheredging
 featherhead
 featherheaded
 feathering
+featherings
 feathers
 featherstitch
 featherstitched
@@ -45493,6 +45505,7 @@ grizzly
 groan
 groaned
 groaner
+groaning
 groans
 groat
 grocer
@@ -48886,6 +48899,7 @@ holey
 holibuts
 holiday
 holidayed
+holidayers
 holidaying
 holidaymaker
 holidaymakers
@@ -49612,6 +49626,7 @@ hothouse
 hothoused
 hothousing
 hotline
+hotlink
 hotlinks
 hotly
 hotness
@@ -51270,6 +51285,7 @@ immixed
 immixture
 immixtures
 immobile
+immobilism
 immobilisms
 immobilities
 immobility
@@ -53077,6 +53093,7 @@ inheritors
 inheritresses
 inheritrices
 inheritrix
+inherits
 inhesion
 inhesions
 inhibin
@@ -54051,6 +54068,7 @@ intermontane
 intermountain
 intern
 internal
+internalise
 internalised
 internalises
 internalising
@@ -54684,6 +54702,7 @@ invitations
 invitatories
 invitatory
 invite
+invitee
 invitees
 inviter
 inviters
@@ -54991,6 +55010,7 @@ irritants
 irritate
 irritated
 irritatingly
+irritation
 irritative
 irritator
 irritators
@@ -61809,6 +61829,7 @@ malposition
 malpositions
 malpractice
 malpractices
+malt
 maltases
 malteds
 maltier
@@ -64430,6 +64451,7 @@ midships
 midsize
 midsized
 midsole
+midsoles
 midspace
 midspaces
 midstories
@@ -72218,6 +72240,7 @@ opposers
 opposite
 oppositely
 oppositeness
+oppositenesses
 opposites
 opposition
 oppositionist
@@ -80333,6 +80356,7 @@ pleonastic
 pleonastically
 pleonic
 pleons
+pleopod
 pleopods
 plerocercoid
 plerocercoids
@@ -82511,6 +82535,7 @@ prefigurements
 prefigures
 prefile
 prefiled
+prefilled
 prefinanced
 prefinancing
 prefire
@@ -84142,6 +84167,7 @@ propositions
 propositus
 propound
 propounder
+propounding
 propounds
 propoxyphenes
 propped
@@ -85807,6 +85833,7 @@ quartz
 quartzes
 quartzites
 quartzous
+quasar
 quasars
 quash
 quasi
@@ -90357,6 +90384,7 @@ requite
 requiter
 requiters
 requites
+requiting
 rerack
 reracking
 reradiate
@@ -93128,6 +93156,7 @@ rummies
 rummiest
 rumor
 rumored
+rumoring
 rumormonger
 rumormongering
 rumormongerings
@@ -97812,6 +97841,7 @@ shuffle
 shuffleboard
 shuffleboards
 shuffled
+shuffler
 shufflers
 shuffles
 shuls
@@ -100075,6 +100105,7 @@ socialistic
 socialistically
 socialists
 socialite
+socialites
 socialities
 sociality
 socializations
@@ -106543,6 +106574,7 @@ sympathising
 sympathize
 sympathizer
 sympathizes
+sympathizing
 sympathy
 sympatico
 sympatric
@@ -107790,6 +107822,7 @@ techs
 techy
 tectal
 tectites
+tectonically
 tectonics
 tectrix
 tectum
@@ -110107,6 +110140,7 @@ tonearms
 toneless
 tonelessly
 tonelessnesses
+toneme
 tonemic
 toner
 toners
@@ -117159,6 +117193,7 @@ ventral
 ventrally
 ventrals
 ventricle
+ventricose
 ventricular
 ventriculi
 ventriculus
