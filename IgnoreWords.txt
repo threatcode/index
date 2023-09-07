@@ -2051,6 +2051,7 @@ alanine
 alanins
 alans
 alants
+alanyl
 alanyls
 alar
 alarm
@@ -3488,6 +3489,7 @@ anemophilous
 anemosis
 anencephalic
 anencephalies
+anencephaly
 anenst
 anent
 anergias
@@ -4676,6 +4678,7 @@ apologized
 apologizers
 apologizes
 apologues
+apolune
 apolunes
 apomict
 apomictic
@@ -11967,6 +11970,7 @@ boulevardier
 boulevardiers
 boulevards
 bouleversement
+bouleversements
 boulle
 boulles
 bounce
@@ -17229,6 +17233,7 @@ cherishable
 cherished
 cherishers
 cherishes
+chernozem
 chernozemic
 chernozems
 cheroots
@@ -23064,6 +23069,7 @@ countereffort
 counterexample
 counterexamples
 counterfeit
+counterfeited
 counterfeiters
 counterfeiting
 counterfeits
@@ -24067,6 +24073,7 @@ croaker
 croakiest
 croakily
 croaking
+croaks
 croaky
 croc
 croceine
@@ -34487,6 +34494,7 @@ ennoblements
 ennobler
 ennoblers
 ennobles
+ennuis
 ennuye
 ennuyee
 enoki
@@ -34741,6 +34749,7 @@ entity
 entoblast
 entoblasts
 entoderm
+entodermal
 entoiled
 entoiling
 entomb
@@ -39270,6 +39279,7 @@ fishwife
 fishwives
 fishworm
 fishworms
+fishy
 fissate
 fissile
 fissility
@@ -47108,6 +47118,7 @@ harlotries
 harlotry
 harlots
 harm
+harmattan
 harmful
 harmfully
 harmfulness
@@ -52326,6 +52337,7 @@ incrementalist
 incrementalists
 incrementally
 increscent
+incretions
 incriminate
 incriminates
 incrimination
@@ -59297,6 +59309,7 @@ lexica
 lexical
 lexicalisation
 lexicalities
+lexicality
 lexicalization
 lexicalizations
 lexicalized
@@ -65625,6 +65638,7 @@ mispatch
 mispatches
 mispatching
 mispenning
+misperceived
 misperceives
 misperceiving
 misperception
@@ -70220,6 +70234,7 @@ nonlandowner
 nonlanguage
 nonlanguages
 nonlawyers
+nonleague
 nonlegume
 nonleguminous
 nonlevel
@@ -73489,6 +73504,7 @@ outmanipulated
 outmanipulates
 outmanipulating
 outmanned
+outmanning
 outmarch
 outmarching
 outmastered
@@ -75587,6 +75603,7 @@ palatalizations
 palatalize
 palatalizes
 palatalizing
+palatally
 palate
 palates
 palatially
@@ -84084,6 +84101,7 @@ prom
 promenading
 promethium
 prometric
+promine
 prominences
 prominently
 promines
@@ -88990,6 +89008,7 @@ regalness
 regalnesses
 regardant
 regarded
+regardfulness
 regardfulnesses
 regardlessly
 regather
@@ -89877,6 +89896,7 @@ remotivates
 remotivating
 remotivations
 remoulade
+remount
 remounted
 removabilities
 removable
@@ -90321,6 +90341,7 @@ repotting
 repour
 repoured
 repouring
+repours
 repousses
 repowering
 repp
@@ -90650,6 +90671,7 @@ resee
 reseed
 reseeking
 reseeks
+reseen
 resees
 resegregated
 resegregating
@@ -94279,6 +94301,7 @@ sarcoidoses
 sarcoids
 sarcolemma
 sarcolemmal
+sarcolemmas
 sarcologies
 sarcology
 sarcomas
@@ -95751,6 +95774,7 @@ seasonally
 seasonals
 seasoned
 seasoner
+seasoners
 seasoning
 seasons
 seastrands
@@ -96740,6 +96764,7 @@ serosity
 serotinal
 serotine
 serotinies
+serotinous
 serotoninergic
 serotonins
 serotypes
@@ -98115,6 +98140,7 @@ sickles
 sicklied
 sicklier
 sickliest
+sicklily
 sickliness
 sickling
 sickly
@@ -101707,6 +101733,7 @@ spirulinas
 spit
 spitals
 spitball
+spitballs
 spite
 spited
 spitefullest
@@ -103958,6 +103985,7 @@ strongmen
 strongyles
 strongyloidoses
 strongyloidosis
+strongyls
 strontia
 strontian
 strontianite
@@ -110712,6 +110740,7 @@ toupee
 touraco
 touracos
 tourbillion
+tourbillions
 tourbillons
 toured
 tourer
@@ -114146,6 +114175,7 @@ underdeveloped
 underdo
 underdog
 underdone
+underdose
 underdosed
 underdosing
 undereaten
@@ -114254,6 +114284,7 @@ underpinned
 underpinnings
 underpins
 underplayed
+underplaying
 underplays
 underplot
 underpopulated
@@ -115558,6 +115589,7 @@ unrulinesses
 unruly
 unrumpled
 uns
+unsaddle
 unsaddled
 unsaddles
 unsafely
@@ -119360,6 +119392,7 @@ waxworms
 waybill
 waybills
 wayfarer
+wayfaring
 wayfarings
 waygoing
 waypoint
@@ -121810,6 +121843,7 @@ yuckinesses
 yucks
 yucky
 yuga
+yugas
 yuk
 yukkier
 yukkiest
@@ -122039,6 +122073,7 @@ zinky
 zinnia
 zinnias
 zipless
+zippered
 zippering
 zippers
 zippier
