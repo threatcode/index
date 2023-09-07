@@ -443,6 +443,7 @@ accusation
 accusative
 accusatives
 accusatory
+accuse
 accuser
 accusers
 accustom
@@ -5669,6 +5670,7 @@ ascensive
 ascent
 ascents
 ascertain
+ascertainable
 ascertainment
 ascetic
 ascetical
@@ -6764,6 +6766,7 @@ autotoxic
 autotoxins
 autotransformer
 autotypies
+autotypy
 autoworker
 autoworkers
 autoxidation
@@ -12939,6 +12942,7 @@ browsers
 browsing
 brr
 brrr
+brucella
 brucellae
 brucellas
 brucelloses
@@ -13667,6 +13671,7 @@ busmen
 buss
 bussed
 bussing
+bussings
 bust
 bustard
 bustards
@@ -14722,6 +14727,7 @@ canny
 canoe
 canoeable
 canoed
+canoeist
 canoeists
 canoer
 canoers
@@ -16827,6 +16833,7 @@ charisma
 charismas
 charismata
 charismatics
+charisms
 charitable
 charitableness
 charitably
@@ -25065,6 +25072,7 @@ cycleries
 cyclers
 cycles
 cycleways
+cyclical
 cyclicalities
 cyclicality
 cyclically
@@ -28079,6 +28087,7 @@ deticker
 detickers
 deticks
 detinue
+detinues
 detonabilities
 detonability
 detonable
@@ -28517,6 +28526,7 @@ diaphragming
 diaphyseal
 diaphysial
 diaphysis
+diapositive
 diapositives
 diapsid
 diapsids
@@ -32545,6 +32555,7 @@ echinate
 eching
 echini
 echinococci
+echinococcus
 echinoderm
 echinodermatous
 echinoderms
@@ -33214,6 +33225,7 @@ elemi
 elemis
 elenchi
 elenchic
+elenchtic
 elenchus
 eleoptenes
 elephant
@@ -34554,6 +34566,7 @@ entamebas
 entamoeba
 entamoebas
 entangle
+entanglement
 entangler
 entangles
 entases
@@ -34710,6 +34723,7 @@ entrusted
 entrustment
 entrustments
 entry
+entryway
 entryways
 entwined
 entwines
@@ -36196,6 +36210,7 @@ exaggerating
 exaggeration
 exaggerations
 exaggerator
+exaggerators
 exahertz
 exahertzes
 exaltation
@@ -36957,6 +36972,7 @@ extensible
 extension
 extensional
 extensionality
+extensionally
 extensions
 extensities
 extensity
@@ -40740,6 +40756,7 @@ forkless
 forklifted
 forklifting
 forklike
+forks
 forksful
 forky
 forlornest
@@ -41368,6 +41385,7 @@ fribblers
 fribbles
 fribbling
 fricandeaus
+fricandoes
 fricassee
 fricasseed
 fricasseeing
@@ -45059,6 +45077,7 @@ gravelling
 gravelly
 gravels
 graven
+graveness
 gravenesses
 graver
 gravers
@@ -47598,6 +47617,7 @@ heftily
 heftiness
 hefting
 hefts
+hegari
 hegaris
 hegemonic
 hegemonies
@@ -62169,6 +62189,7 @@ marchland
 marchlike
 marchpane
 marchpanes
+marcs
 maremma
 maremme
 marengo
@@ -67822,6 +67843,7 @@ mynahs
 mynas
 mynheer
 mynheers
+myoblasts
 myocardia
 myocardial
 myocarditises
@@ -69401,6 +69423,7 @@ noes
 noesises
 noetic
 nog
+nogg
 noggin
 noggings
 noggs
@@ -72128,6 +72151,7 @@ oppress
 oppressing
 oppressions
 oppressively
+oppressiveness
 oppressor
 opprobrious
 opprobriously
@@ -74338,6 +74362,7 @@ overladen
 overlades
 overlaid
 overlain
+overland
 overlands
 overlap
 overlaps
@@ -75016,6 +75041,7 @@ oxlike
 oxlip
 oxlips
 oxpeckers
+oxter
 oxters
 oxtongue
 oxtongues
@@ -78806,6 +78832,7 @@ phreakings
 phreatic
 phreatophyte
 phreatophytic
+phrenetic
 phrenic
 phrenitides
 phrenitis
@@ -85357,7 +85384,9 @@ pyrheliometric
 pyric
 pyridic
 pyridoxal
+pyridoxals
 pyridoxamine
+pyridoxamines
 pyridoxin
 pyridoxine
 pyridoxines
@@ -90764,6 +90793,7 @@ restiveness
 restivenesses
 restless
 restlessness
+restlessnesses
 restock
 restocked
 restocking
@@ -94261,6 +94291,7 @@ sawbucks
 sawdust
 sawdusty
 sawed
+sawfishes
 sawflies
 sawfly
 sawhorse
@@ -103390,6 +103421,7 @@ stratus
 stravage
 stravaging
 stravaig
+stravaiged
 stravaiging
 stravaigs
 straw
@@ -103682,6 +103714,7 @@ struggles
 struggling
 struma
 strumatic
+strummed
 strummer
 strummers
 strumose
@@ -109695,6 +109728,7 @@ titularly
 titulars
 titulary
 tivy
+tizzies
 tizzy
 tmeses
 toad
@@ -115729,6 +115763,7 @@ unzips
 unzoned
 up
 upas
+upases
 upbear
 upbearers
 upbears
