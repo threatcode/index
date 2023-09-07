@@ -581,6 +581,7 @@ acids
 acidulated
 acidulates
 acidulation
+acidulations
 acidurias
 acidy
 acierated
@@ -682,6 +683,7 @@ acrolects
 acrolein
 acrolith
 acroliths
+acromegalics
 acromegalies
 acromegaly
 acromia
@@ -754,6 +756,7 @@ actionless
 actions
 activate
 activated
+activates
 activating
 actively
 activeness
@@ -1938,6 +1941,7 @@ airiest
 airily
 airiness
 airings
+airlessnesses
 airlifted
 airlifting
 airlike
@@ -8112,6 +8116,7 @@ baryon
 baryte
 barytes
 barytic
+barytone
 barytons
 bas
 basalt
@@ -14817,6 +14822,7 @@ cantering
 canters
 canthal
 cantharidin
+cantharidins
 cantharis
 canthaxanthins
 canthi
@@ -15643,6 +15649,7 @@ casques
 cassaba
 cassabas
 cassata
+cassatas
 cassation
 cassations
 cassava
@@ -19745,6 +19752,7 @@ coherency
 coherent
 coherently
 coheres
+cohering
 cohesionless
 cohesions
 cohesive
@@ -27842,6 +27850,7 @@ desecrater
 desecraters
 desecrates
 desecrations
+desecrator
 desecrators
 desegregate
 desegregated
@@ -35786,6 +35795,7 @@ etherealities
 ethereality
 etherealization
 etherealize
+etherealized
 etherealizes
 etherealizing
 etherealnesses
@@ -58492,6 +58502,7 @@ laughlines
 laughs
 launce
 launces
+launch
 launched
 launcher
 launchers
@@ -59064,6 +59075,7 @@ lent
 lentando
 lenten
 lentic
+lenticel
 lenticular
 lenticule
 lentigines
@@ -61877,6 +61889,7 @@ mallet
 mallets
 malleus
 malling
+mallings
 mallow
 mallows
 malmier
@@ -65486,6 +65499,7 @@ misinterring
 misjoin
 misjoinder
 misjoinders
+misjudged
 misjudging
 misjudgment
 miskal
@@ -66873,6 +66887,7 @@ morrises
 morro
 morrow
 morrows
+mors
 morse
 morsel
 morseled
@@ -67254,6 +67269,7 @@ muckiest
 muckily
 mucking
 muckle
+muckles
 muckluck
 mucklucks
 muckraked
@@ -68859,6 +68875,7 @@ neostigmine
 neostigmines
 neotenic
 neoteny
+neoterics
 neotropic
 neotropics
 neotype
@@ -69114,6 +69131,7 @@ neutralize
 neutralized
 neutralizer
 neutralizing
+neutrally
 neutralnesses
 neutrals
 neutrino
@@ -69473,6 +69491,7 @@ nitinol
 nitons
 nitpick
 nitpicked
+nitpickier
 nitpicking
 nitpicks
 nitpicky
@@ -74986,6 +75005,7 @@ overtalking
 overtalks
 overtame
 overtart
+overtask
 overtasked
 overtasking
 overtaught
@@ -80062,6 +80082,7 @@ plainsongs
 plainspoken
 plaint
 plaintext
+plaintful
 plaintiff
 plaintively
 plaintiveness
@@ -84473,6 +84494,7 @@ protend
 protended
 protending
 protends
+protensive
 protensively
 proteoglycan
 proteolyses
@@ -86567,6 +86589,7 @@ ragouted
 ragouting
 ragouts
 ragpickers
+rags
 ragtags
 ragtime
 ragtimes
@@ -87815,6 +87838,7 @@ reclusively
 reclusiveness
 recoal
 recoaled
+recoaling
 recoat
 recoated
 recoating
@@ -89377,6 +89401,7 @@ reinvestments
 reinvigorate
 reinvigorated
 reinvigorating
+reinvigoration
 reinvigorators
 reinvites
 reinvoke
@@ -91198,6 +91223,7 @@ rete
 reteaching
 reteam
 reteamed
+reteaming
 reteams
 retear
 retearing
@@ -91881,6 +91907,7 @@ rhinestoned
 rhinestones
 rhino
 rhinoceri
+rhinoceroses
 rhinologies
 rhinoscopy
 rhinovirus
@@ -93551,6 +93578,7 @@ sacrist
 sacristan
 sacristans
 sacrists
+sacristy
 sacroiliacs
 sacrosanctities
 sacrosanctity
@@ -101099,6 +101127,7 @@ spareable
 spared
 sparely
 sparenesses
+sparer
 sparerib
 sparers
 spares
@@ -102397,6 +102426,7 @@ staffer
 staffers
 staffing
 stag
+stage
 stageable
 stagecoach
 stagecoaches
@@ -106697,6 +106727,7 @@ sympathise
 sympathised
 sympathising
 sympathize
+sympathized
 sympathizer
 sympathizes
 sympathizing
@@ -106884,6 +106915,7 @@ synonymity
 synonymize
 synonymizes
 synonymously
+synonyms
 synonymy
 synopses
 synopsis
@@ -108971,6 +109003,7 @@ there
 thereabout
 thereafter
 thereat
+therefore
 therefrom
 therein
 thereinafter
@@ -112794,6 +112827,7 @@ tutorages
 tutored
 tutoresses
 tutorials
+tutoring
 tutors
 tutorship
 tutorships
@@ -122061,6 +122095,7 @@ zombiism
 zombiisms
 zona
 zonae
+zonal
 zonally
 zonary
 zonate
