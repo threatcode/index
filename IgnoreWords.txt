@@ -1826,6 +1826,7 @@ agroforesters
 agroforestries
 agrologic
 agrologies
+agrology
 agronomies
 agronomists
 agronomy
@@ -1879,6 +1880,7 @@ ailurophobes
 aimful
 aiming
 aimless
+aimlessness
 aimlessnesses
 aims
 ain
@@ -3919,6 +3921,7 @@ anthropologist
 anthropologists
 anthropometries
 anthropometry
+anthropomorph
 anthropomorphic
 anthropomorphs
 anthropopathism
@@ -5623,6 +5626,7 @@ arugula
 arugulas
 arum
 aruspex
+arval
 arvo
 arvos
 aryls
@@ -9713,6 +9717,7 @@ bicameralism
 bicameralisms
 bicarb
 bicarbs
+bicaudal
 bice
 bicentenaries
 bicentenary
@@ -12344,6 +12349,7 @@ bravure
 braw
 brawest
 brawlier
+brawliest
 brawling
 brawls
 brawly
@@ -16202,6 +16208,7 @@ censual
 censure
 censured
 censuring
+census
 censused
 cental
 centals
@@ -16488,6 +16495,7 @@ chadri
 chads
 chaebol
 chaetae
+chaetognaths
 chaetopod
 chafed
 chafer
@@ -19196,6 +19204,7 @@ coatroom
 coats
 coattail
 coattails
+coattend
 coattended
 coattest
 coattested
@@ -22055,6 +22064,7 @@ cookable
 cookbook
 cooked
 cooker
+cookeries
 cookers
 cookey
 cookeys
@@ -22620,6 +22630,7 @@ corrugate
 corrugated
 corrugates
 corrupted
+corrupters
 corruptest
 corruptibility
 corruptible
@@ -23595,6 +23606,7 @@ craziness
 crazinesses
 crazing
 crazy
+crazyweed
 crazyweeds
 creak
 creaked
@@ -24911,6 +24923,7 @@ cutenesses
 cuter
 cutes
 cutesie
+cutesiest
 cutest
 cutey
 cuteys
@@ -28811,6 +28824,7 @@ diggers
 digging
 diggings
 dight
+dighted
 dights
 digital
 digitalin
@@ -34916,6 +34930,7 @@ epididymides
 epididymitis
 epidote
 epidotes
+epidural
 epidurals
 epifauna
 epifaunas
@@ -38975,6 +38990,7 @@ firebases
 firebird
 firebirds
 fireboard
+fireboats
 firebomb
 firebombing
 firebombs
@@ -39068,6 +39084,7 @@ firstborns
 firstfruits
 firsthand
 firstling
+firstlings
 firstly
 firstness
 firstnesses
@@ -39563,6 +39580,7 @@ fleshinesses
 fleshing
 fleshings
 fleshless
+fleshlier
 fleshliest
 fleshly
 fleshments
@@ -40391,6 +40409,7 @@ fops
 for
 fora
 foraged
+forager
 foramen
 foramens
 foramina
@@ -45339,6 +45358,7 @@ gripmen
 grippe
 gripped
 gripper
+grippers
 grippier
 grippiest
 grippingly
@@ -46979,6 +46999,7 @@ harquebusier
 harquebusiers
 harridan
 harridans
+harried
 harrier
 harries
 harrower
@@ -47780,6 +47801,7 @@ hemialgias
 hemic
 hemicellulose
 hemicelluloses
+hemichordate
 hemicycle
 hemihydrated
 hemihydrates
@@ -48655,6 +48677,7 @@ hobgoblin
 hobgoblins
 hoblike
 hobnail
+hobnailed
 hobnailing
 hobnob
 hobnobbed
@@ -50346,6 +50369,7 @@ hyperrational
 hyperreactive
 hyperreactor
 hyperreactors
+hyperrealism
 hyperresponsive
 hyperromantics
 hypersaline
@@ -51064,6 +51088,7 @@ imidazoles
 imide
 imides
 imidic
+imido
 imids
 imine
 imines
@@ -52014,6 +52039,7 @@ incomparable
 incomparably
 incompatibility
 incompatible
+incompatibles
 incompetence
 incompetences
 incompetency
@@ -53071,6 +53097,7 @@ inlier
 inly
 inlying
 inmate
+inmates
 inmesh
 inmeshed
 inmeshes
@@ -53510,6 +53537,7 @@ insusceptible
 inswathe
 inswathes
 inswathing
+inswept
 intact
 intactly
 intactness
@@ -54160,6 +54188,7 @@ interwoven
 interzone
 intestacy
 intestate
+intestinal
 intestinally
 intestine
 intestines
@@ -54313,6 +54342,7 @@ introgression
 introit
 introject
 introjecting
+introjection
 introjections
 intromission
 intromissions
@@ -56366,6 +56396,7 @@ kasha
 kasher
 kashered
 kashering
+kashmir
 kashrut
 kashruth
 kashruths
@@ -59498,6 +59529,7 @@ limy
 lin
 linable
 linage
+linalol
 linalols
 linalools
 lincomycins
@@ -59710,6 +59742,7 @@ liquefaction
 liquefied
 liquefier
 liquefiers
+liquefy
 liquefying
 liqueur
 liqueurs
@@ -60644,6 +60677,7 @@ lube
 lubed
 lubes
 lubing
+lubrical
 lubricants
 lubricated
 lubricates
@@ -60691,6 +60725,7 @@ lucubrated
 lucubrates
 lucubrating
 lucubration
+lucubrations
 luculent
 luculently
 lude
@@ -60896,6 +60931,7 @@ lustrates
 lustration
 lustrations
 lustred
+lustres
 lustring
 lustrings
 lustrous
@@ -61038,6 +61074,7 @@ lyricism
 lyricisms
 lyricists
 lyricize
+lyricizes
 lyricizing
 lyricons
 lyrics
@@ -61156,6 +61193,7 @@ mackerel
 mackintoshes
 mackle
 mackled
+mackles
 macks
 macle
 macled
@@ -62203,6 +62241,7 @@ marking
 markings
 markka
 markkas
+marks
 marksman
 marksmanship
 marksmanships
@@ -63088,6 +63127,7 @@ meitneriums
 mel
 melamed
 melamine
+melamines
 melancholia
 melancholiac
 melancholiacs
@@ -65769,6 +65809,7 @@ mockeries
 mockers
 mocking
 mockingbird
+mockingbirds
 mockingly
 mocks
 mocktail
@@ -67710,6 +67751,7 @@ mycophagists
 mycophagous
 mycophagy
 mycophile
+mycophiles
 mycoplasma
 mycoplasmal
 mycoplasmas
@@ -74211,6 +74253,7 @@ overhomogenizes
 overhonor
 overhoped
 overhopes
+overhot
 overhung
 overhunt
 overhunting
@@ -77863,6 +77906,7 @@ personalised
 personalising
 personalism
 personalities
+personality
 personalize
 personalized
 personalizes
@@ -78871,6 +78915,7 @@ pi
 pia
 piacular
 piaffe
+piaffer
 piaffing
 pial
 pianissimi
@@ -79682,6 +79727,7 @@ placard
 placarding
 placards
 placated
+placater
 placaters
 placates
 placatingly
@@ -81549,6 +81595,7 @@ potage
 potamic
 potash
 potashes
+potassic
 potassiums
 potation
 potations
@@ -88560,6 +88607,7 @@ refresher
 refreshers
 refreshes
 refreshing
+refreshingly
 refreshment
 refreshments
 refries
@@ -89022,6 +89070,7 @@ reintroduce
 reintroduced
 reintroduction
 reintroductions
+reinvaded
 reinvasion
 reinvent
 reinvented
@@ -93252,6 +93301,7 @@ safeguards
 safekeepings
 safelight
 safely
+safeness
 safenesses
 safer
 safest
@@ -94547,6 +94597,7 @@ schizocarps
 schizogonies
 schizogonous
 schizogony
+schizoids
 schizont
 schizonts
 schizophrenes
@@ -95038,6 +95089,7 @@ scribbly
 scribe
 scribed
 scriber
+scribers
 scribes
 scribing
 scries
@@ -95413,6 +95465,7 @@ seceding
 secern
 secerned
 secerning
+secessionisms
 secessionists
 seclude
 secluded
@@ -101079,6 +101132,7 @@ sphygmic
 sphygmographs
 sphygmus
 sphygmuses
+sphynx
 sphynxes
 spicas
 spicate
@@ -105272,6 +105326,7 @@ superiority
 superiorly
 superiors
 superjacent
+superjet
 superjets
 superjumbo
 superjumbos
@@ -106480,6 +106535,7 @@ synodical
 synoicous
 synonymes
 synonymic
+synonymist
 synonymists
 synonymity
 synonymize
@@ -108914,6 +108970,7 @@ threader
 threaders
 threadfin
 threadfins
+threadier
 threadiest
 threadinesses
 threading
@@ -110547,6 +110604,7 @@ trainmen
 trainway
 trainways
 traipse
+traipsed
 traipses
 traipsing
 trait
@@ -110831,6 +110889,7 @@ transpose
 transposition
 transpositional
 transpositions
+transposon
 transposons
 transsexual
 transsexualism
@@ -111077,6 +111136,7 @@ trenail
 trenails
 trenchancies
 trenchant
+trenchantly
 trencher
 trenchers
 trenches
@@ -111834,6 +111894,7 @@ trudgers
 trudges
 true
 trueblues
+trueborn
 truebred
 trueheartedness
 truelove
@@ -113395,6 +113456,7 @@ unclasped
 unclasps
 unclassical
 unclassifiable
+unclassified
 unclassy
 unclawed
 unclean
@@ -116126,6 +116188,7 @@ usualness
 usualnesses
 usuals
 usufruct
+usufructs
 usufructuaries
 usurers
 usurious
@@ -116675,6 +116738,7 @@ vaward
 vawards
 vawntie
 veal
+vealed
 vealer
 vealier
 vealiest
@@ -117096,6 +117160,7 @@ verst
 verste
 versts
 vertebra
+vertebral
 vertebrate
 vertebrates
 verticality
@@ -117906,6 +117971,7 @@ void
 voidablenesses
 voider
 voiding
+voidness
 voiles
 volant
 volante
@@ -121712,6 +121778,7 @@ zowie
 zoysia
 zoysias
 zucchini
+zucchinis
 zugzwang
 zuz
 zuzim
