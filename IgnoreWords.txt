@@ -856,6 +856,7 @@ adapters
 adaptions
 adaptive
 adaptively
+adaptiveness
 adaptivities
 adaptivity
 adaptors
@@ -1216,6 +1217,7 @@ adversariness
 adversarinesses
 adversatively
 adversatives
+adverse
 adverseness
 adversenesses
 adversity
@@ -3331,6 +3333,7 @@ analysed
 analyser
 analyses
 analysing
+analysis
 analyst
 analyte
 analytes
@@ -6587,6 +6590,7 @@ auricle
 auricled
 auricula
 auriculae
+auriculars
 auriculas
 auriculate
 auris
@@ -8460,6 +8464,7 @@ bayberry
 baying
 baymen
 bayonet
+bayoneted
 bayonetted
 bayonetting
 bayou
@@ -12498,6 +12503,7 @@ brazenness
 brazennesses
 brazens
 brazer
+brazers
 brazes
 brazier
 brazil
@@ -16372,6 +16378,7 @@ censored
 censorial
 censoring
 censorious
+censoriousness
 censors
 censorship
 censual
@@ -20732,6 +20739,7 @@ comparator
 comparators
 compare
 comparer
+comparers
 compares
 comparing
 comparison
@@ -32523,6 +32531,7 @@ duumvirates
 duumviri
 duumvirs
 duvet
+duvetine
 duvets
 duvetynes
 duxelles
@@ -36785,6 +36794,7 @@ excruciating
 excruciation
 exculpate
 exculpated
+exculpates
 exculpating
 exculpation
 excurrent
@@ -43069,6 +43079,7 @@ garish
 garishness
 garishnesses
 garland
+garlanding
 garlic
 garlickier
 garlickiest
@@ -43343,6 +43354,7 @@ gazabo
 gazaboes
 gazabos
 gazania
+gazanias
 gazars
 gaze
 gazebo
@@ -44547,6 +44559,7 @@ glorify
 glorioles
 glorious
 gloriously
+gloriousness
 glory
 glorying
 gloss
@@ -47504,6 +47517,7 @@ harmonicas
 harmonicists
 harmonics
 harmonies
+harmoniously
 harmoniousness
 harmonising
 harmonists
@@ -49158,6 +49172,7 @@ historiographic
 historiography
 history
 histrionics
+hitch
 hitcher
 hitchers
 hitches
@@ -50424,6 +50439,7 @@ hundredweights
 hung
 hunger
 hungered
+hungering
 hungers
 hungrier
 hungrily
@@ -51130,6 +51146,7 @@ hypothetically
 hypothyroidism
 hypotonia
 hypotonias
+hypotonic
 hypotonicity
 hypoxemia
 hypoxemic
@@ -56912,6 +56929,7 @@ kalamatas
 kalams
 kalanchoe
 kalanchoes
+kaleidoscope
 kaleidoscopes
 kaleidoscopic
 kalends
@@ -58588,6 +58606,7 @@ lane
 lang
 langbeinite
 langbeinites
+langlauf
 langlaufer
 langlaufers
 langley
@@ -76953,6 +76972,7 @@ pargeted
 pargets
 pargetted
 pargings
+pargo
 pargyline
 pargylines
 parhelion
@@ -77998,6 +78018,7 @@ pelters
 peltless
 pelts
 pelvic
+pelvics
 pelvises
 pelycosaur
 pelycosaurs
@@ -78784,6 +78805,7 @@ perspectively
 perspexes
 perspicacious
 perspicaciously
+perspicacities
 perspicacity
 perspicuities
 perspicuity
@@ -90074,6 +90096,7 @@ reiterating
 reiterations
 reive
 reived
+reiver
 reives
 reiving
 rejacket
@@ -91288,6 +91311,7 @@ resealed
 resealing
 research
 researchable
+researched
 researcher
 researches
 researching
@@ -92178,6 +92202,7 @@ reused
 reuses
 reusing
 reutilizations
+reutilize
 reutilizes
 reutilizing
 reutter
@@ -94610,6 +94635,7 @@ salutatories
 salutatory
 salute
 saluter
+salutes
 salvably
 salvage
 salvageability
@@ -95619,6 +95645,7 @@ schismatizes
 schismatizing
 schist
 schistose
+schistosity
 schistosomal
 schistosome
 schistosomes
@@ -96709,6 +96736,7 @@ seeling
 seels
 seely
 seem
+seemed
 seemers
 seemingly
 seemings
@@ -100206,6 +100234,7 @@ slouchiest
 slouchily
 slouchinesses
 slouching
+slouchy
 slough
 sloughier
 sloughiest
@@ -103072,6 +103101,7 @@ squinted
 squinter
 squinters
 squintest
+squintier
 squinting
 squintingly
 squints
@@ -108866,6 +108896,7 @@ telecaster
 telecasting
 telecasts
 telecom
+telecommute
 telecommuted
 telecommuters
 telecommutes
@@ -109979,6 +110010,7 @@ thing
 thingamabob
 thingamajigs
 thingness
+thingnesses
 thingumajigs
 thingummies
 think
@@ -111550,6 +111582,7 @@ towage
 toward
 towardliness
 towardlinesses
+towaway
 towboat
 towboats
 toweled
@@ -114997,6 +115030,7 @@ underestimated
 underestimates
 underestimating
 underestimation
+underexpose
 underexposed
 underexposes
 underexposure
@@ -116351,6 +116385,7 @@ unrestraints
 unrestricted
 unrests
 unretire
+unretired
 unretiring
 unretouched
 unreturnable
