@@ -1193,6 +1193,7 @@ advective
 advects
 advent
 adventitia
+adventitial
 adventitias
 adventitiously
 adventive
@@ -3019,6 +3020,7 @@ ammino
 ammo
 ammocete
 ammocetes
+ammonal
 ammoniac
 ammoniacal
 ammoniacs
@@ -11079,6 +11081,7 @@ blotching
 blotchy
 blotless
 blotted
+blotters
 blottier
 blotting
 blotto
@@ -14148,6 +14151,7 @@ cacophony
 cacti
 cactoid
 cactus
+cactuses
 cacuminal
 cacuminals
 cad
@@ -17211,6 +17215,7 @@ checkmarked
 checkmarking
 checkmarks
 checkmate
+checkmated
 checkmating
 checkoff
 checkoffs
@@ -21402,6 +21407,7 @@ conflagration
 conflagrations
 conflate
 conflates
+conflating
 conflation
 conflations
 conflict
@@ -25300,6 +25306,7 @@ cyanogenesis
 cyanogenetic
 cyanogenic
 cyanohydrin
+cyanosed
 cyanotype
 cyanotypes
 cyans
@@ -29967,6 +29974,7 @@ disembodied
 disembodies
 disembody
 disembodying
+disembogue
 disembogued
 disembogues
 disemboguing
@@ -30102,6 +30110,7 @@ disheriting
 dishevel
 disheveled
 disheveling
+dishevels
 dishful
 dishier
 dishiest
@@ -49334,6 +49343,7 @@ hogtie
 hogtied
 hogwashes
 hoick
+hoicked
 hoicking
 hoicks
 hoiden
@@ -51517,6 +51527,7 @@ illegals
 illegibility
 illegibly
 illegitimacies
+illegitimacy
 illegitimate
 illegitimately
 iller
@@ -53338,6 +53349,7 @@ inferrible
 inferring
 infers
 infertility
+infest
 infestant
 infestants
 infestation
@@ -53461,6 +53473,7 @@ informative
 informatively
 informativeness
 informatory
+informed
 informedly
 informer
 informs
@@ -54079,12 +54092,14 @@ instigates
 instigation
 instigations
 instigators
+instill
 instiller
 instillers
 instilling
 instillments
 instills
 instils
+instinct
 instincts
 institute
 instituter
@@ -54509,6 +54524,7 @@ interlined
 interliner
 interliners
 interlinings
+interlink
 interlinked
 interlinks
 interloan
@@ -65695,6 +65711,7 @@ misbegin
 misbeginning
 misbegot
 misbegotten
+misbehave
 misbehaved
 misbehaves
 misbehaving
@@ -66205,6 +66222,7 @@ misprizers
 misprizes
 misprogramed
 misprograms
+mispronounce
 mispronounced
 mispronounces
 mispronouncing
@@ -76826,6 +76844,7 @@ paramorphs
 paramos
 paramountly
 paramounts
+paramour
 paramours
 paramylum
 paramylums
@@ -77326,6 +77345,7 @@ pasteurising
 pasteurizations
 pasteurize
 pasteurizer
+pasteurizers
 pasteurizes
 pasteurizing
 pastiche
@@ -80174,6 +80194,7 @@ pillowed
 pillowing
 pillows
 pillowy
+pilocarpine
 pilonidal
 pilosities
 pilosity
@@ -83107,6 +83128,7 @@ preconviction
 preconvictions
 precook
 precooked
+precookers
 precooking
 precooks
 precool
@@ -86689,6 +86711,7 @@ queensides
 queered
 queerer
 queerest
+queering
 queerish
 queerly
 queerness
@@ -95924,6 +95947,7 @@ sclerotin
 sclerotizations
 sclerotized
 sclerous
+scoff
 scoffed
 scoffing
 scofflaws
@@ -96047,6 +96071,7 @@ scoutcraft
 scouter
 scouth
 scouther
+scouthered
 scouthering
 scouthers
 scouths
@@ -102920,6 +102945,7 @@ spruced
 sprucer
 spruces
 sprucest
+sprucier
 sprucing
 sprucy
 sprue
@@ -104229,6 +104255,7 @@ stolidest
 stolidities
 stolidity
 stollens
+stolon
 stolonate
 stolonic
 stoloniferous
@@ -104630,6 +104657,7 @@ stressed
 stressful
 stressfully
 stressless
+stresslessness
 stressor
 stressors
 stretch
@@ -105054,6 +105082,7 @@ suaver
 suavities
 sub
 subacid
+subacidly
 subacidness
 subacidnesses
 subacrid
@@ -109830,6 +109859,7 @@ theologs
 theologue
 theomachies
 theomachy
+theonomies
 theonomous
 theophanic
 theophanies
@@ -112000,6 +112030,7 @@ transferees
 transference
 transferential
 transferor
+transferors
 transferrable
 transferred
 transferrer
@@ -117086,6 +117117,7 @@ updove
 updraft
 updried
 updries
+upend
 upended
 upending
 upflinging
@@ -120125,6 +120157,7 @@ watchband
 watchcase
 watchcases
 watchdogged
+watcher
 watchers
 watches
 watcheye
@@ -120532,6 +120565,7 @@ weighted
 weighter
 weighters
 weightiest
+weightily
 weightiness
 weightinesses
 weightless
@@ -122233,6 +122267,7 @@ wrongly
 wrongness
 wrongnesses
 wrote
+wroth
 wrothful
 wrought
 wrung
