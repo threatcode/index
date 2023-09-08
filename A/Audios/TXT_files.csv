@@ -1,0 +1,10 @@
+android/docs/AUDIO.TXT - platform/external/qemu - Git at Google,https://android.googlesource.com/platform/external/qemu/%2B/emu-master-dev/android/docs/AUDIO.TXT
+Documentation/devicetree/bindings/sound/imx-audio-sgtl5000.txt,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/sound/imx-audio-sgtl5000.txt
+audio-graph-card.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/devicetree/bindings/sound/audio-graph-card.txt
+audio-graph-scu-card.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/devicetree/bindings/sound/audio-graph-scu-card.txt
+CMakeLists.txt - OpenShot/libopenshot-audio - GitHub,https://github.com/OpenShot/libopenshot-audio/blob/develop/CMakeLists.txt
+pyannote-audio/requirements.txt at develop - GitHub,https://github.com/pyannote/pyannote-audio/blob/develop/requirements.txt
+extract-audio-from-video/requirements.txt at master - GitHub,https://github.com/IBM/extract-audio-from-video/blob/master/requirements.txt
+Audio-EQ-Cookbook.txt,https://webaudio.github.io/Audio-EQ-Cookbook/Audio-EQ-Cookbook.txt
+RFC 2897 - Proposal for an MGCP Advanced Audio Package,https://datatracker.ietf.org/doc/html/rfc2897.txt
+RTP Payload for Redundant Audio Data - » RFC Editor,https://www.rfc-editor.org/rfc/rfc2198.txt

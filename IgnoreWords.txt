@@ -6489,6 +6489,7 @@ audiometer
 audiometers
 audiometric
 audiometry
+audios
 audiotape
 audiotaped
 audiotapes
@@ -18890,6 +18891,7 @@ climbdown
 climbed
 climber
 climbers
+climbing
 climbs
 clime
 clinal
@@ -19124,6 +19126,7 @@ clubbiness
 clubbinesses
 clubbing
 clubbish
+clubface
 clubfeet
 clubfoot
 clubfooted
@@ -19876,6 +19879,7 @@ coincidences
 coincidental
 coincides
 coinciding
+coiner
 coiners
 coinfect
 coinfected
@@ -20954,6 +20958,7 @@ concelebrating
 concelebration
 concent
 concenter
+concentrate
 concentrated
 concentrating
 concentrations
@@ -22782,6 +22787,7 @@ corrugate
 corrugated
 corrugates
 corrupted
+corrupter
 corrupters
 corruptest
 corruptibility
@@ -23124,6 +23130,7 @@ countercheck
 counterclaim
 counterclaimed
 counterclaiming
+counterclaims
 countercoups
 countercries
 countercry
@@ -24736,6 +24743,7 @@ culvers
 culvert
 culverts
 cumarin
+cumber
 cumberbund
 cumbered
 cumberer
@@ -28954,6 +28962,7 @@ diff
 differ
 differed
 difference
+differenced
 differences
 differentia
 differentially
@@ -31013,6 +31022,7 @@ dollybird
 dollying
 dolma
 dolman
+dolmans
 dolmens
 dolomite
 dolomites
@@ -31560,6 +31570,7 @@ draffy
 draft
 draftable
 drafted
+draftee
 drafters
 draftiest
 draftily
@@ -36724,6 +36735,7 @@ exertion
 exertive
 exerts
 exes
+exeunt
 exfoliants
 exfoliate
 exfoliated
@@ -36824,6 +36836,7 @@ exodoi
 exodontias
 exoduses
 exoenzyme
+exoenzymes
 exogamies
 exogamous
 exogamy
@@ -45275,6 +45288,7 @@ graphemic
 graphemically
 graphical
 graphically
+graphicness
 graphicnesses
 graphics
 graphing
@@ -47005,6 +47019,7 @@ handier
 handinesses
 handing
 handiwork
+handkerchief
 handkerchiefs
 handkerchieves
 handlebars
@@ -56628,6 +56643,7 @@ kabeljous
 kabiki
 kabikis
 kabobs
+kabs
 kabukis
 kachina
 kachinas
@@ -64695,6 +64711,7 @@ microwatt
 microwatts
 microwavable
 microwave
+microwaveable
 microwaves
 microwaving
 microworld
@@ -66604,6 +66621,7 @@ mongrelly
 mongst
 monicker
 moniker
+moniliases
 moniliform
 monished
 monishes
@@ -67599,6 +67617,7 @@ mug
 mugful
 mugfuls
 muggar
+muggars
 mugged
 muggee
 muggees
@@ -69305,6 +69324,7 @@ neurohumoral
 neurohypophyses
 neurohypophysis
 neuroid
+neuroleptic
 neuroleptics
 neurologic
 neurological
@@ -70978,6 +70998,7 @@ northing
 northings
 northmost
 norths
+northward
 northwards
 northwest
 northwester
@@ -71133,6 +71154,7 @@ novelise
 novelised
 novelises
 novelising
+novelistic
 novelizations
 novelized
 novelizer
@@ -71586,6 +71608,7 @@ obliger
 obligers
 obligingness
 obligingnesses
+obligor
 oblique
 obliqued
 obliquely
@@ -71595,6 +71618,7 @@ obliquing
 obliquities
 obliterate
 obliterated
+obliterating
 obliterative
 obliterator
 obliterators
@@ -75030,6 +75054,7 @@ overpromising
 overpromote
 overpromoted
 overpromoting
+overproportions
 overprotect
 overprotected
 overprotecting
@@ -76166,6 +76191,7 @@ panhandler
 panhandles
 panhandling
 panhuman
+panic
 panically
 panicked
 panickier
@@ -76182,6 +76208,7 @@ panjandrum
 panleukopenia
 panleukopenias
 panmixia
+panmixias
 panmixis
 panned
 panner
@@ -88512,6 +88539,7 @@ redbird
 redbirds
 redbone
 redbones
+redbreast
 redbreasts
 redbrick
 redbricks
@@ -91335,6 +91363,7 @@ restaff
 restaffed
 restage
 restaged
+restages
 restaging
 restamp
 restamping
@@ -91655,6 +91684,7 @@ retirer
 retiring
 retiringnesses
 retitle
+retitled
 retitles
 retitling
 retold
@@ -95334,6 +95364,7 @@ schmoozed
 schmoozer
 schmoozers
 schmoozier
+schmooziest
 schmoozy
 schmos
 schmuck
@@ -97881,6 +97912,7 @@ shinneries
 shinnery
 shinney
 shinneyed
+shinneying
 shinnied
 shinnies
 shinning
@@ -108057,6 +108089,7 @@ tartars
 tartest
 tartier
 tartiest
+tartily
 tartiness
 tartinesses
 tartly
@@ -112234,6 +112267,7 @@ trihydroxy
 trijet
 trijugate
 trijugous
+trike
 trikes
 trilateral
 trilbies
@@ -114779,6 +114813,7 @@ underweights
 underwent
 underwhelm
 underwhelmed
+underwhelming
 underwhelms
 underwings
 underwire
