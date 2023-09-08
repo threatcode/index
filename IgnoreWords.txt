@@ -584,6 +584,7 @@ acidotic
 acids
 acidulated
 acidulates
+acidulating
 acidulation
 acidulations
 aciduria
@@ -3805,6 +3806,7 @@ anomalously
 anomalousness
 anomalousnesses
 anomaly
+anomic
 anon
 anonym
 anonymously
@@ -6284,6 +6286,7 @@ atomisms
 atomist
 atomistic
 atomistically
+atomization
 atomizations
 atomize
 atomized
@@ -20154,6 +20157,7 @@ collimated
 collimates
 collimating
 collimations
+collimators
 collinearity
 collins
 collinsia
@@ -27293,6 +27297,7 @@ demagog
 demagogic
 demagogically
 demagogies
+demagoging
 demagogs
 demagogue
 demagogueries
@@ -27553,6 +27558,7 @@ denitrate
 denitrated
 denitrating
 denitrification
+denitrifier
 denitrifies
 denitrify
 denizening
@@ -35609,6 +35615,7 @@ erectilities
 erectility
 erecting
 erection
+erections
 erective
 erectly
 erects
@@ -47379,6 +47386,7 @@ hardinggrasses
 hardline
 hardly
 hardmouthed
+hardness
 hardnose
 hardnoses
 hardpack
@@ -50709,6 +50717,7 @@ hylozoistic
 hylozoists
 hymen
 hymenal
+hymeneal
 hymeneally
 hymeneals
 hymenia
@@ -51636,6 +51645,7 @@ immaterial
 immaterialism
 immaterialisms
 immaterialists
+immaterialize
 immaterializes
 immaterializing
 immature
@@ -54547,6 +54557,7 @@ interpellations
 interpellator
 interpellators
 interpenetrated
+interperceptual
 interpermeated
 interpermeates
 interpermeating
@@ -54943,6 +54954,7 @@ intuitivenesses
 intumesce
 intumesced
 intumescence
+intumescences
 intumescent
 intumesces
 intumescing
@@ -55178,6 +55190,7 @@ invulnerability
 invulnerably
 inwall
 inwalled
+inward
 inwardly
 inwardness
 inwardnesses
@@ -59392,6 +59405,7 @@ leitmotivs
 lek
 lekked
 leks
+leku
 lekvar
 lekythi
 lekythoi
@@ -64813,6 +64827,7 @@ microprisms
 microprobes
 microprocessor
 microprogram
+microprograms
 microprojectors
 micropublisher
 micropublishers
@@ -66205,6 +66220,7 @@ misspeaks
 misspell
 misspellings
 misspells
+misspelt
 misspend
 misspending
 misspends
@@ -66921,6 +66937,7 @@ monohull
 monohulls
 monohybrid
 monohybrids
+monohydric
 monohydroxy
 monoicous
 monolayer
@@ -68259,6 +68276,7 @@ musketeers
 musketry
 muskets
 muskie
+muskies
 muskit
 muskits
 muskmelon
@@ -69544,6 +69562,7 @@ neurotic
 neurotically
 neurotomy
 neurotoxic
+neurotoxicities
 neurotoxicity
 neurotoxin
 neurotoxins
@@ -70386,6 +70405,7 @@ noncrisis
 noncritical
 noncrossover
 noncrushable
+nonculinary
 noncultivated
 noncultivation
 noncultural
@@ -71798,6 +71818,7 @@ obliqueness
 obliquenesses
 obliquing
 obliquities
+obliquity
 obliterate
 obliterated
 obliterating
@@ -74426,6 +74447,7 @@ outweeping
 outweeps
 outweigh
 outwhirl
+outwhirled
 outwhirling
 outwhirls
 outwiling
@@ -81992,6 +82014,7 @@ porcelain
 porcelainize
 porcelainizes
 porcelainizing
+porcelains
 porcellaneous
 porches
 porcini
@@ -84978,6 +85001,7 @@ protea
 protean
 proteans
 proteas
+protease
 proteases
 protect
 protectant
@@ -85849,6 +85873,7 @@ purfles
 purflings
 purgative
 purgatives
+purgatorial
 purgatory
 purge
 purgeable
@@ -86944,6 +86969,7 @@ radars
 radarscope
 radarscopes
 radded
+radding
 raddle
 raddled
 raddles
@@ -99249,6 +99275,7 @@ sippers
 sippet
 sippets
 sips
+sir
 sirdar
 sirdars
 sire
@@ -108244,6 +108271,7 @@ tapsters
 taqueria
 taquerias
 taradiddle
+taradiddles
 tarama
 taramas
 tarantas
@@ -114969,6 +114997,7 @@ underplayed
 underplaying
 underplays
 underplot
+underplots
 underpopulated
 underpowered
 underprice
@@ -115099,6 +115128,7 @@ undesired
 undetectable
 undetected
 undeterminable
+undetermined
 undeterred
 undeveloped
 undeviating
@@ -115521,6 +115551,7 @@ unhitch
 unhitched
 unhitching
 unholier
+unholiest
 unholiness
 unholy
 unhomogenized
@@ -115951,6 +115982,7 @@ unmuffle
 unmuffled
 unmuffling
 unmusical
+unmuzzle
 unmuzzles
 unmuzzling
 unmyelinated
@@ -116159,6 +116191,7 @@ unreasonably
 unreasoningly
 unreasons
 unrebuked
+unreclaimable
 unreconcilable
 unreconciled
 unreconstructed
@@ -116707,6 +116740,7 @@ unutterably
 unuttered
 unvaccinated
 unvalued
+unvaried
 unvarnished
 unveil
 unveiled
@@ -120792,6 +120826,7 @@ whitewall
 whitewalls
 whitewash
 whitewasher
+whitewashes
 whitewashing
 whitewashings
 whitewood
