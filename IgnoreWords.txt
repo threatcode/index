@@ -75,6 +75,7 @@ abseiled
 abseils
 absence
 absences
+absented
 absentee
 absenteeisms
 absentees
@@ -209,6 +210,7 @@ academe
 academias
 academic
 academically
+academician
 academicians
 academicisms
 academism
@@ -5541,6 +5543,7 @@ arrhythmias
 arris
 arrises
 arrive
+arriver
 arrivers
 arrives
 arriviste
@@ -6703,6 +6706,7 @@ autoeciously
 autoecism
 autoerotic
 autoeroticism
+autoerotisms
 autofocus
 autogamic
 autogamies
@@ -8898,6 +8902,7 @@ beeyard
 beeyards
 beezer
 beezers
+befall
 befallen
 befalls
 befell
@@ -11855,6 +11860,7 @@ boreholes
 borer
 borers
 bores
+borescopes
 boric
 boride
 boring
@@ -12943,6 +12949,7 @@ bronchiectasis
 bronchiolar
 bronchioles
 bronchitic
+bronchitises
 broncho
 bronchogenic
 bronchos
@@ -16227,6 +16234,7 @@ cedarwood
 cedarwoods
 cedary
 ceders
+cedes
 cedi
 cedilla
 cedillas
@@ -17819,6 +17827,7 @@ cholecalciferol
 cholecyst
 cholecystectomy
 cholecystitises
+cholecystokinin
 cholelithiases
 cholelithiasis
 cholent
@@ -18414,6 +18423,7 @@ cirrate
 cirrhosed
 cirrhoses
 cirrhosis
+cirri
 cirriform
 cirripede
 cirrocumuli
@@ -20130,6 +20140,7 @@ collegiately
 collegium
 collegiums
 collembolan
+collembolans
 collembolous
 collenchymas
 collet
@@ -21828,6 +21839,7 @@ constructions
 constructively
 constructivism
 constructivisms
+construe
 construed
 construer
 construers
@@ -22563,6 +22575,7 @@ cordelled
 cordelles
 corder
 corders
+cordgrass
 cordial
 cordialities
 cordiality
@@ -30551,6 +30564,7 @@ dissuade
 dissuaded
 dissuader
 dissuaders
+dissuades
 dissuading
 dissuasion
 dissuasive
@@ -33635,6 +33649,7 @@ elopers
 elopes
 eloquence
 eloquences
+els
 eluant
 eluate
 elucidate
@@ -35844,6 +35859,7 @@ escoting
 escritoire
 escritoires
 escrow
+escrowed
 escrows
 escuage
 escuages
@@ -40992,6 +41008,7 @@ foreordaining
 foreordains
 foreordination
 foreparts
+forepassed
 forepast
 forepaw
 forepeak
@@ -44281,6 +44298,7 @@ glassies
 glassiest
 glassily
 glassine
+glassinesses
 glassing
 glassless
 glassmaker
@@ -44816,6 +44834,7 @@ godlings
 godly
 godmother
 godmothering
+godmothers
 godown
 godowns
 godroon
@@ -57447,6 +57466,7 @@ kilometer
 kilometers
 kilometre
 kilometres
+kilomoles
 kiloparsec
 kiloparsecs
 kilopascal
@@ -61509,6 +61529,7 @@ lurdans
 lure
 lured
 lurers
+lures
 lurexes
 luridly
 luridnesses
@@ -65225,6 +65246,7 @@ millwrights
 milneb
 milnebs
 milo
+milords
 milpa
 milreis
 milt
@@ -76419,6 +76441,7 @@ panleukopenias
 panmixia
 panmixias
 panmixis
+panne
 panned
 panner
 panners
@@ -79217,6 +79240,7 @@ phlebitises
 phlebogram
 phlebograms
 phlebographic
+phlebology
 phlebotomies
 phlebotomist
 phlebotomists
@@ -82320,6 +82344,7 @@ postmenopausal
 postmidnight
 postmillenarian
 postmillennial
+postmistress
 postmodern
 postmodernism
 postmodernist
@@ -83589,6 +83614,7 @@ presales
 presanctified
 presbyope
 presbyopes
+presbyopia
 presbyopias
 presbyopics
 presbyter
@@ -91147,6 +91173,7 @@ rerigged
 rerigging
 rerigs
 rerise
+rerisen
 rerises
 rerising
 reroll
@@ -93193,6 +93220,7 @@ roentgenogram
 roentgenography
 roentgenologic
 roentgenologies
+roentgenologist
 roentgenology
 roentgens
 roes
@@ -93267,6 +93295,7 @@ romanos
 romans
 romantic
 romanticise
+romanticised
 romanticises
 romanticising
 romanticism
@@ -101697,6 +101726,7 @@ spacial
 spacially
 spacier
 spaciest
+spaciness
 spacing
 spacings
 spaciously
@@ -102470,6 +102500,7 @@ splotches
 splotchier
 splotching
 splotchy
+splurged
 splurges
 splurgiest
 splurging
@@ -112278,6 +112309,7 @@ treponema
 treponemal
 treponemas
 treponematoses
+treponemes
 tres
 trespass
 trespassed
@@ -115095,6 +115127,7 @@ underutilizes
 underutilizing
 undervaluation
 undervaluations
+undervalue
 undervalued
 undervalues
 undervests
@@ -118215,6 +118248,7 @@ verbs
 verdancy
 verdant
 verdantly
+verderers
 verderor
 verderors
 verdin
@@ -122010,6 +122044,7 @@ wries
 wriest
 wriggled
 wriggler
+wriggliest
 wriggling
 wriggly
 wright
