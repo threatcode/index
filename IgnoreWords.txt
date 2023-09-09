@@ -2416,6 +2416,7 @@ allele
 alleles
 allelic
 allelism
+allelisms
 allelomorphisms
 allelomorphs
 allelopathic
@@ -2533,6 +2534,7 @@ allows
 alloxan
 alloxans
 alloy
+alloyed
 alloying
 alls
 allseed
@@ -6481,6 +6483,7 @@ attuning
 atwain
 atween
 atwitter
+atypical
 atypicalities
 atypically
 aubade
@@ -7599,6 +7602,7 @@ balancer
 balases
 balata
 balboa
+balboas
 balbriggan
 balbriggans
 balconied
@@ -13403,6 +13407,7 @@ bulging
 bulgingly
 bulgur
 bulgurs
+bulgy
 bulimia
 bulimiac
 bulimics
@@ -13597,6 +13602,7 @@ bunts
 bunya
 bunyas
 buoyage
+buoyages
 buoyance
 buoyances
 buoyancy
@@ -20090,6 +20096,7 @@ colead
 coleader
 coleaders
 coleading
+coleads
 colectomy
 coled
 colemanite
@@ -22260,6 +22267,7 @@ conversances
 conversancies
 conversancy
 conversant
+conversation
 conversational
 conversations
 conversazioni
@@ -29091,6 +29099,7 @@ didacticisms
 didacts
 didactyl
 diddle
+diddler
 diddlers
 diddles
 diddlies
@@ -34966,6 +34975,7 @@ enshrinements
 enshrines
 enshrining
 enshroud
+enshrouded
 enshrouds
 ensiform
 ensign
@@ -41560,6 +41570,7 @@ foveolate
 foveole
 foveoles
 foveolet
+fowler
 fowling
 fowlpox
 fowls
@@ -46721,6 +46732,7 @@ gynandromorphic
 gynandromorphy
 gynarchic
 gynarchies
+gynarchy
 gynecia
 gynecic
 gynecium
@@ -53805,6 +53817,7 @@ injure
 injurer
 injuries
 injuriousness
+injuriousnesses
 injury
 injustice
 injustices
@@ -59086,6 +59099,7 @@ laudableness
 laudablenesses
 laudably
 laudanum
+laudanums
 laudation
 laudations
 laudative
@@ -59733,6 +59747,7 @@ leprosarium
 leprosariums
 leprose
 leprosies
+leprotic
 leprous
 leprously
 lept
@@ -60433,6 +60448,7 @@ linguine
 linguini
 linguinis
 linguisa
+linguisas
 linguist
 linguistical
 linguistically
@@ -61132,6 +61148,7 @@ loin
 loincloth
 loincloths
 loins
+loiterers
 loll
 lolled
 loller
@@ -62993,6 +63010,7 @@ marc
 marcasites
 marcato
 marcel
+marceller
 marcellers
 marcelling
 marcels
@@ -63426,6 +63444,7 @@ matelotes
 matelots
 materfamiliases
 material
+materialise
 materialises
 materialising
 materialism
@@ -68280,6 +68299,7 @@ multitones
 multitowered
 multitrack
 multitudes
+multitudinous
 multitudinously
 multiunion
 multiunit
@@ -73626,6 +73646,7 @@ ossuary
 osteal
 osteitides
 osteitis
+ostensible
 ostensibly
 ostensively
 ostensoria
@@ -74855,6 +74876,7 @@ overbet
 overbets
 overbetted
 overbetting
+overbid
 overbidden
 overbids
 overbilled
@@ -74962,6 +74984,7 @@ overcommits
 overcommitted
 overcommitting
 overcompensate
+overcomplex
 overcompliance
 overcompliances
 overcomplicate
@@ -77070,6 +77093,7 @@ parataxes
 parataxis
 parathion
 parathions
+parathormones
 paratroop
 paratrooper
 paratroops
@@ -81645,6 +81669,7 @@ pogrom
 pogromed
 pogroming
 pogromist
+pogromists
 pogroms
 pogy
 poh
@@ -85356,6 +85381,7 @@ protested
 protester
 protesters
 protests
+proteuses
 prothalamia
 prothalamion
 prothalli
@@ -89865,6 +89891,7 @@ regain
 regainers
 regaining
 regains
+regal
 regale
 regaled
 regaler
@@ -92877,6 +92904,7 @@ rhombs
 rhombus
 rhonchi
 rhonchus
+rhotacism
 rhotic
 rhubarb
 rhumb
@@ -96303,6 +96331,7 @@ scrapers
 scrapes
 scrapheap
 scrapheaps
+scrapie
 scrapies
 scraping
 scrapings
@@ -97330,6 +97359,7 @@ semisolids
 semistiff
 semisubmersible
 semisynthetic
+semitist
 semitonal
 semitones
 semitonic
@@ -104860,6 +104890,7 @@ stressor
 stressors
 stretch
 stretchability
+stretched
 stretchering
 stretchers
 stretches
@@ -107467,6 +107498,7 @@ sweeney
 sweeneys
 sweenies
 sweeny
+sweepback
 sweepbacks
 sweeper
 sweepers
@@ -117377,6 +117409,7 @@ upgrade
 upgradeability
 upgradeable
 upgrades
+upgrading
 upgrew
 upgrowing
 upgrows
@@ -121618,6 +121651,7 @@ winders
 windfall
 windfalls
 windflaw
+windflaws
 windflowers
 windgall
 windgalls
@@ -122220,6 +122254,7 @@ wordsmiths
 wordy
 wore
 work
+workabilities
 workableness
 workablenesses
 workaday
