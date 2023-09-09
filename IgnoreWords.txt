@@ -7599,6 +7599,7 @@ baker
 bakeries
 bakers
 bakeshop
+bakeware
 bakewares
 baking
 bakings
@@ -14693,6 +14694,7 @@ camorrist
 camorrista
 camorristi
 camorrists
+camos
 camouflageable
 camouflaged
 camouflagic
@@ -18193,6 +18195,7 @@ chrysomelid
 chrysomelids
 chrysophyte
 chrysoprase
+chrysoprases
 chrysotiles
 chthonian
 chthonic
@@ -19689,6 +19692,7 @@ coconspirators
 coconut
 coconuts
 cocoon
+cocooned
 cocooning
 cocoons
 cocoplum
@@ -21420,6 +21424,7 @@ conferential
 conferment
 conferments
 conferrable
+conferral
 conferrals
 conferred
 conferrees
@@ -26262,6 +26267,7 @@ deair
 deaired
 deairing
 deairs
+deal
 dealate
 dealated
 dealates
@@ -30292,6 +30298,7 @@ disinforms
 disingenuous
 disingenuously
 disinherit
+disinheritance
 disinheritances
 disinherited
 disinheriting
@@ -33504,6 +33511,7 @@ eights
 eightvo
 eikons
 einkorn
+einkorns
 einstein
 einsteinium
 einsteiniums
@@ -39701,6 +39709,7 @@ firers
 fireship
 fireside
 firestone
+firestorm
 firestorms
 firethorn
 firethorns
@@ -40179,6 +40188,7 @@ flechettes
 flecked
 flecking
 fleckless
+flecks
 flecky
 flection
 fled
@@ -47645,6 +47655,7 @@ hardedge
 harden
 hardener
 hardeners
+hardening
 hardenings
 hardens
 harder
@@ -48391,6 +48402,7 @@ heiled
 heiling
 heinie
 heinies
+heinous
 heinously
 heinousness
 heirdoms
@@ -49223,6 +49235,7 @@ hijras
 hike
 hiker
 hikes
+hila
 hilar
 hilarious
 hilariousnesses
@@ -52334,6 +52347,7 @@ impledged
 impledging
 implement
 implementation
+implementations
 implementor
 implementors
 impletion
@@ -56436,6 +56450,7 @@ jellylike
 jellyroll
 jellyrolls
 jelutong
+jemadar
 jemidars
 jemmied
 jemmies
@@ -57014,6 +57029,7 @@ jun
 juncoes
 junctional
 junctions
+junctures
 jungle
 jungled
 junglegyms
@@ -57065,6 +57081,7 @@ jurist
 juristic
 jurists
 jurors
+jurying
 juryman
 jurymen
 jurywoman
@@ -58695,6 +58712,7 @@ lambada
 lambast
 lambaste
 lambasted
+lambastes
 lambasting
 lambda
 lambdas
@@ -59104,6 +59122,7 @@ latchet
 latching
 latchstring
 latchstrings
+late
 latecomer
 latecomers
 lated
@@ -59341,6 +59360,7 @@ lax
 laxation
 laxative
 laxer
+laxes
 laxest
 laxity
 laxly
@@ -65150,6 +65170,7 @@ microinjecting
 microinjection
 microinjections
 microlith
+microliths
 microloan
 microloans
 microluces
@@ -67498,6 +67519,7 @@ moodiest
 moodily
 moodiness
 moods
+moody
 mooed
 mooing
 mool
@@ -69265,6 +69287,7 @@ nasalizations
 nasalize
 nasalized
 nasally
+nascence
 nascencies
 nascency
 nascent
@@ -71438,6 +71461,7 @@ nonsugar
 nonsugars
 nonsuited
 nonsuiting
+nonsuits
 nonsupervisory
 nonsupport
 nonsurgical
@@ -71627,6 +71651,7 @@ nortriptylines
 nos
 nose
 nosebag
+nosebleed
 nosed
 nosedived
 nosedives
@@ -73244,6 +73269,7 @@ opposable
 opposed
 opposeless
 opposers
+opposing
 opposite
 oppositely
 oppositeness
@@ -91128,6 +91154,7 @@ renvoi
 renvois
 reobject
 reobjected
+reobjecting
 reobjects
 reobserve
 reobserving
@@ -92411,6 +92438,7 @@ reticulum
 reticulums
 retie
 retied
+retieing
 retighten
 retightens
 retile
@@ -92446,6 +92474,7 @@ retirant
 retirants
 retire
 retired
+retiredly
 retiredness
 retirednesses
 retiree
@@ -94483,6 +94512,7 @@ runkled
 runkles
 runkling
 runless
+runlet
 runlets
 runners
 runninesses
@@ -96928,6 +96958,7 @@ seas
 seascape
 seascapes
 seascouts
+seashell
 seashells
 seashores
 seasickness
@@ -102260,6 +102291,7 @@ soymilks
 soys
 soyuzes
 sozin
+sozine
 sozines
 sozins
 sozzled
@@ -109019,6 +109051,7 @@ taskbars
 tasked
 tasking
 taskmaster
+taskmistress
 taskwork
 taskworks
 tass
@@ -114854,6 +114887,7 @@ unaccounted
 unaccredited
 unaccrued
 unacculturated
+unaccustomed
 unaccustomedly
 unacerbic
 unacknowledged
@@ -117565,6 +117599,7 @@ upbear
 upbearers
 upbears
 upbeat
+upbind
 upbinds
 upboil
 upboiled
