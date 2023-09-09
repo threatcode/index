@@ -3842,6 +3842,7 @@ anonymousnesses
 anonyms
 anoopsia
 anopheles
+anopheline
 anopia
 anopias
 anorak
@@ -5698,6 +5699,7 @@ artistes
 artistically
 artistry
 artists
+artless
 artlessly
 artlessness
 arts
@@ -6271,6 +6273,7 @@ atheling
 athelings
 athenaeum
 atheoretical
+atherogeneses
 atherogenic
 atheroma
 atheromas
@@ -9695,6 +9698,7 @@ bettered
 bettering
 betterments
 betters
+bettor
 bettors
 between
 betweenness
@@ -9771,6 +9775,7 @@ bezel
 bezels
 bezil
 bezique
+beziques
 bezoar
 bezzant
 bezzants
@@ -10630,6 +10635,7 @@ bizzes
 blab
 blabber
 blabbermouths
+blabbers
 blabbing
 blabs
 black
@@ -19718,6 +19724,7 @@ codas
 codded
 codder
 codders
+coddled
 coddlers
 coddling
 code
@@ -25543,6 +25550,7 @@ cymbaler
 cymbalers
 cymbalist
 cymbalom
+cymbaloms
 cymbidium
 cymbidiums
 cymblings
@@ -28132,6 +28140,7 @@ dermatomes
 dermatophyte
 dermatoses
 dermatosis
+dermestid
 dermestids
 dermic
 dermises
@@ -33287,6 +33296,7 @@ education
 educational
 educationalist
 educationally
+educationese
 educationeses
 educationist
 educative
@@ -35878,6 +35888,7 @@ erlking
 erlkings
 ermine
 ermined
+erne
 eroded
 erodent
 erodes
@@ -43997,6 +44008,7 @@ german
 germander
 germanders
 germane
+germanely
 germanium
 germaniums
 germanization
@@ -46725,6 +46737,7 @@ gushingly
 gushy
 gusset
 gusseted
+gussets
 gussied
 gussies
 gussy
@@ -49027,6 +49040,7 @@ hexagonal
 hexagonally
 hexagons
 hexagram
+hexahedra
 hexahedron
 hexahedrons
 hexahydrates
@@ -49480,6 +49494,7 @@ hockshops
 hocus
 hocuses
 hocusing
+hocusses
 hocussing
 hod
 hodad
@@ -51970,6 +51985,7 @@ immies
 immigrant
 immigrants
 immigrates
+immigrating
 immigration
 immigrational
 immigrations
@@ -53353,6 +53369,7 @@ industriously
 industriousness
 industry
 indwell
+indweller
 indwellers
 indwelling
 indwelt
@@ -56313,6 +56330,7 @@ jaspers
 jasperware
 jasperwares
 jaspery
+jaspilite
 jaspilites
 jassid
 jato
@@ -59334,10 +59352,12 @@ layaway
 layaways
 layed
 layer
+layerage
 layerages
 layering
 layers
 layettes
+layin
 laying
 layman
 laymen
@@ -61386,6 +61406,7 @@ looseners
 looseness
 loosenesses
 loosening
+loosens
 looses
 loosestrife
 loosestrifes
@@ -64617,6 +64638,7 @@ mesoscale
 mesosome
 mesosomes
 mesospheric
+mesothelioma
 mesotheliomata
 mesothoracic
 mesothorax
@@ -69598,6 +69620,7 @@ negotiators
 negotiatory
 negritude
 negritudes
+negronis
 negrophils
 negrophobes
 negrophobias
@@ -81652,6 +81675,7 @@ plutocracy
 plutocrat
 plutocrats
 pluton
+plutonian
 plutonic
 plutonism
 plutonisms
@@ -86845,6 +86869,7 @@ quaere
 quaestor
 quaffer
 quaffing
+quaffs
 quag
 quagga
 quaggas
@@ -87594,6 +87619,7 @@ rafflers
 raffles
 rafflesia
 rafflesias
+raffling
 raft
 rafted
 raftered
@@ -99104,6 +99130,7 @@ shriekiest
 shrieking
 shrieks
 shrieval
+shrievalties
 shrieve
 shrieved
 shrieves
@@ -101451,6 +101478,7 @@ soccer
 soccers
 sociable
 sociableness
+sociablenesses
 sociables
 sociably
 social
@@ -104663,6 +104691,7 @@ stolonic
 stoloniferous
 stolons
 stoma
+stomachache
 stomachaches
 stomacher
 stomachic
@@ -110745,6 +110774,7 @@ thrive
 thrived
 thriven
 thrivers
+thrives
 thriving
 thrivingly
 thro
@@ -112753,6 +112783,7 @@ traverse
 traverser
 traversers
 traverses
+traversing
 travertine
 travertines
 travesties
@@ -113565,6 +113596,7 @@ troublemakings
 troubler
 troubles
 troubleshoot
+troubleshooter
 troubleshooters
 troubleshoots
 troubleshot
@@ -118247,6 +118279,7 @@ valleys
 valonia
 valor
 valorise
+valorised
 valorises
 valorising
 valorization
@@ -122400,6 +122433,7 @@ wooled
 woolen
 wooler
 woolers
+woolfell
 woolfells
 woolgatherers
 woolgathering
@@ -123288,6 +123322,7 @@ yperites
 ytterbic
 ytterbium
 ytterbiums
+ytterbous
 yttrias
 yttric
 yttrium
