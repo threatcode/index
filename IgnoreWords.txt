@@ -3311,6 +3311,7 @@ analgesics
 analgetics
 analities
 anality
+anally
 analog
 analogic
 analogical
@@ -8985,6 +8986,7 @@ beggars
 beggary
 begging
 begin
+beginner
 beginners
 beginning
 begins
@@ -10767,6 +10769,7 @@ blasting
 blastings
 blastment
 blastments
+blastocoel
 blastocoele
 blastocoeles
 blastocoelic
@@ -13485,6 +13488,7 @@ bumbling
 bumblingly
 bumboat
 bumelia
+bumf
 bumfs
 bumfuzzle
 bumfuzzles
@@ -17190,6 +17194,7 @@ cheapies
 cheapish
 cheapishly
 cheapjack
+cheaply
 cheapness
 cheapnesses
 cheapo
@@ -18400,6 +18405,7 @@ circulation
 circulative
 circulator
 circulators
+circulatory
 circumambient
 circumambulate
 circumambulated
@@ -18417,6 +18423,7 @@ circumference
 circumferences
 circumflex
 circumfluent
+circumfluous
 circumfuse
 circumfused
 circumfusing
@@ -20956,6 +20963,7 @@ compressors
 comprisals
 comprised
 comprising
+comprize
 comprized
 comprizes
 comprizing
@@ -26725,6 +26733,7 @@ deductibilities
 deductibility
 deductibles
 deduction
+deductively
 deducts
 dee
 deedier
@@ -27321,6 +27330,7 @@ delocalizations
 delocalize
 delocalizes
 delocalizing
+delouse
 deloused
 delouser
 delouses
@@ -32612,6 +32622,7 @@ dyeability
 dyeable
 dyeing
 dyer
+dyers
 dyestuff
 dyeweeds
 dyewood
@@ -33919,6 +33930,7 @@ embowelling
 embowels
 embower
 embowering
+embowing
 embows
 embrace
 embraceor
@@ -37156,6 +37168,7 @@ expediential
 expediently
 expedients
 expedite
+expedited
 expediter
 expediters
 expedites
@@ -52364,6 +52377,7 @@ impurenesses
 impurest
 impurities
 impurity
+imputability
 imputable
 imputably
 imputation
@@ -53744,6 +53758,7 @@ inkstone
 inkstones
 inkwell
 inkwells
+inkwoods
 inky
 inlace
 inlaces
@@ -55758,6 +55773,7 @@ isoprenaline
 isoprene
 isoprenes
 isoprenoid
+isopropyl
 isopropyls
 isoproterenol
 isoproterenols
@@ -62682,6 +62698,7 @@ manifestoed
 manifestoes
 manifestos
 manifests
+manifold
 manifoldness
 manifoldnesses
 manifolds
@@ -66128,6 +66145,7 @@ mislying
 mismake
 mismakes
 mismaking
+mismanage
 mismanaged
 mismanagement
 mismanagements
@@ -68746,6 +68764,7 @@ mythos
 myths
 myxameba
 myxamebae
+myxamebas
 myxedematous
 myxedemic
 myxocyte
@@ -69766,6 +69785,7 @@ newmarket
 newmarkets
 newmown
 newness
+news
 newsagent
 newsagents
 newsbeat
@@ -72820,6 +72840,7 @@ oosphere
 oospheres
 oospore
 oospores
+oosporic
 oothecae
 oothecal
 ootids
@@ -85019,6 +85040,7 @@ propulsions
 propulsive
 propyla
 propylaea
+propylaeum
 propylene
 propylenes
 propylic
@@ -88921,6 +88943,7 @@ recycling
 redacted
 redacting
 redactions
+redactor
 redacts
 redamage
 redamaging
@@ -92676,6 +92699,7 @@ rheumy
 rhigolene
 rhigolenes
 rhinal
+rhinencephala
 rhinencephalic
 rhinencephalon
 rhinestone
@@ -94039,6 +94063,7 @@ rule
 ruled
 ruleless
 rulership
+rulerships
 rules
 rulier
 ruling
@@ -95919,6 +95944,7 @@ scintillated
 scintillates
 scintillating
 scintillator
+scintillometer
 sciolism
 sciolisms
 sciolist
@@ -98253,6 +98279,7 @@ shetland
 shetlands
 sheuch
 sheugh
+sheughs
 shewbreads
 shewed
 shewer
@@ -102292,6 +102319,7 @@ spermiogenesis
 spermous
 sperrylite
 sperrylites
+spessartine
 spessartines
 spessartite
 spessartites
@@ -108062,6 +108090,7 @@ tael
 taels
 taenia
 taeniae
+taeniases
 taeniasis
 taffarel
 taffarels
@@ -108144,6 +108173,7 @@ tailspin
 tailspinned
 tailspinning
 tailspins
+tailstock
 tailwater
 tailwaters
 tailwind
@@ -110703,6 +110733,7 @@ timberlands
 timberline
 timberlines
 timberman
+timbermen
 timberwork
 timbery
 timbrel
@@ -111556,6 +111587,7 @@ tost
 tostada
 tostadas
 tostado
+tostados
 tot
 totable
 total
@@ -111629,6 +111661,7 @@ touchy
 tough
 toughened
 toughener
+tougheners
 toughens
 toughie
 toughing
@@ -115605,6 +115638,7 @@ unflinchingly
 unfluted
 unflyable
 unfocused
+unfocussed
 unfoiled
 unfold
 unfolded
@@ -123276,6 +123310,7 @@ zymogenic
 zymogens
 zymogram
 zymograms
+zymologic
 zymologies
 zymology
 zymolyses
