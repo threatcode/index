@@ -34,6 +34,7 @@ Wildlife
 Zoo
 abreact
 abreaction
+abreacts
 abri
 abridgement
 abridgements
@@ -1603,6 +1604,7 @@ agalloch
 agallochs
 agalwood
 agalwoods
+agama
 agamas
 agamete
 agametes
@@ -2081,6 +2083,7 @@ alarm
 alarmable
 alarmed
 alarmedly
+alarmingly
 alarmism
 alarmisms
 alarmist
@@ -5930,6 +5933,7 @@ assaulting
 assaultive
 assaultively
 assaults
+assay
 assayers
 assays
 assegai
@@ -8058,6 +8062,7 @@ barkers
 barkiest
 barking
 barkless
+barks
 barky
 barleduc
 barleycorns
@@ -11525,6 +11530,7 @@ boldness
 boldnesses
 bolds
 bole
+bolection
 bolections
 boles
 bolete
@@ -12917,6 +12923,7 @@ brocatelles
 brocatels
 broccoli
 broccolis
+broche
 brochette
 brochettes
 brochure
@@ -14128,6 +14135,7 @@ cabochons
 cabomba
 caboodle
 caboodles
+cabooses
 caboshed
 cabotage
 cabotages
@@ -20143,6 +20151,7 @@ colistins
 colitic
 colitises
 collaborated
+collaborations
 collaborative
 collaboratives
 collaborator
@@ -25778,6 +25787,7 @@ dalasi
 dalasis
 dale
 daledh
+daledhs
 dales
 dalesman
 dalesmen
@@ -26442,6 +26452,7 @@ decathlon
 decay
 decayed
 decayer
+decayers
 decaying
 decayless
 decays
@@ -30343,6 +30354,7 @@ dismount
 dismounted
 dismounting
 dismounts
+disobediences
 disobey
 disobeyer
 disobeying
@@ -34627,6 +34639,7 @@ endothecium
 endothelia
 endothelial
 endothelioma
+endotheliomata
 endothelium
 endotherm
 endothermic
@@ -36882,6 +36895,7 @@ exclusivists
 exclusivities
 exclusory
 excogitate
+excogitated
 excogitates
 excogitation
 excogitations
@@ -39032,6 +39046,7 @@ feu
 feuar
 feud
 feudal
+feudalism
 feudalist
 feudalistic
 feudalists
@@ -41286,6 +41301,7 @@ forgathers
 forge
 forgeabilities
 forgeability
+forged
 forger
 forgeries
 forgery
@@ -44130,6 +44146,7 @@ giftedly
 giftednesses
 giftee
 gifting
+gifts
 giftwares
 giftwrap
 giftwrapped
@@ -54080,6 +54097,7 @@ insheathing
 insheaths
 inshrine
 inshrined
+inshrines
 inside
 insider
 insiders
@@ -59801,6 +59819,7 @@ letched
 letching
 letdowns
 lethalities
+lethality
 lethally
 lethals
 lethargic
@@ -61883,6 +61902,7 @@ lyases
 lycea
 lycee
 lycees
+lych
 lychees
 lyches
 lychnis
@@ -66865,6 +66885,7 @@ mohairs
 mohalim
 mohawk
 mohawks
+mohelim
 moidore
 moiety
 moil
@@ -77754,6 +77775,7 @@ patted
 pattee
 pattens
 patter
+pattered
 patterer
 patterers
 pattering
@@ -81453,6 +81475,7 @@ plugola
 pluguglies
 plugugly
 plum
+plumage
 plumb
 plumbable
 plumbago
@@ -82741,6 +82764,7 @@ postworkshop
 pot
 potabilities
 potable
+potableness
 potablenesses
 potables
 potage
@@ -85128,6 +85152,7 @@ prophylaxis
 propine
 propines
 propinquities
+propinquity
 propionate
 propionates
 propitiate
@@ -85629,6 +85654,7 @@ pryers
 prying
 pryingly
 prythee
+psalmbook
 psalmbooks
 psalmed
 psalming
@@ -86222,6 +86248,7 @@ purenesses
 purfle
 purfled
 purfler
+purflers
 purfles
 purfling
 purflings
@@ -90256,6 +90283,7 @@ reinforcement
 reinforces
 reinforcing
 reinforming
+reinfused
 reinfuses
 reinfusing
 reinhabit
@@ -92485,6 +92513,7 @@ revaccinate
 revaccinates
 revaccinating
 revaccination
+revaccinations
 revalidated
 revalidating
 revalidation
@@ -98812,6 +98841,7 @@ shoran
 shore
 shorebird
 shorebirds
+shored
 shorefront
 shorefronts
 shoreless
@@ -101901,6 +101931,7 @@ sorptive
 sorrel
 sorrels
 sorrier
+sorrily
 sorrinesses
 sorrow
 sorrowed
@@ -106931,6 +106962,7 @@ supersales
 supersalesman
 supersalesmen
 supersaturated
+supersaturating
 supersaturation
 superschool
 superschools
@@ -110239,6 +110271,7 @@ thermoregulate
 thermoregulated
 thermoregulator
 thermoremanence
+thermoremanent
 thermoscopes
 thermoses
 thermoset
@@ -115971,6 +116004,7 @@ unguenta
 unguents
 unguentum
 ungues
+unguessable
 unguinous
 unguis
 ungula
@@ -117315,6 +117349,7 @@ unwishing
 unwits
 unwitted
 unwitting
+unwittingly
 unwomanly
 unwooded
 unwooed
