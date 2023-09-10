@@ -1777,6 +1777,7 @@ agita
 agitable
 agitate
 agitatedly
+agitates
 agitating
 agitation
 agitational
@@ -3806,6 +3807,7 @@ annas
 annates
 annatto
 annattos
+anneal
 annelid
 annelidan
 annelids
@@ -5446,6 +5448,7 @@ argumentative
 argumentatively
 argus
 arguses
+argyle
 argyll
 argylls
 arhat
@@ -5894,6 +5897,7 @@ asininities
 ask
 askance
 askant
+asked
 asker
 askers
 askew
@@ -6793,6 +6797,7 @@ autoclaves
 autoclaving
 autocoid
 autocoids
+autocorrelation
 autocracy
 autocrat
 autocratically
@@ -7657,6 +7662,7 @@ baited
 baiter
 baiters
 baitfishes
+baith
 baits
 baiza
 baizes
@@ -8033,6 +8039,7 @@ barbarizes
 barbarizing
 barbarous
 barbasco
+barbecue
 barbecuers
 barbecues
 barbecuing
@@ -10574,6 +10581,7 @@ biro
 birrettas
 birring
 birrotch
+birrs
 birse
 birses
 birth
@@ -11328,6 +11336,7 @@ bluejays
 blueline
 bluelines
 bluely
+blueness
 bluenose
 bluenosed
 bluenoses
@@ -11907,6 +11916,7 @@ bookracks
 bookrest
 books
 booksellers
+bookselling
 bookshelf
 bookshelves
 bookshop
@@ -15084,6 +15094,7 @@ cannonries
 cannonry
 cannot
 cannulas
+cannulate
 cannulated
 cannulates
 cannulating
@@ -21215,6 +21226,7 @@ compoundable
 compounded
 compounder
 compounders
+compounds
 comprador
 compradore
 compradores
@@ -37809,6 +37821,7 @@ expostulate
 expostulated
 expostulating
 expostulation
+expostulations
 expostulatory
 exposures
 expounders
@@ -38457,6 +38470,7 @@ faker
 fakeries
 fakers
 fakery
+fakir
 fakirs
 falafels
 falbala
@@ -47484,6 +47498,7 @@ haft
 haftarah
 haftarahs
 haftaras
+haftarot
 haftaroth
 hafted
 haftorah
@@ -47777,6 +47792,7 @@ hamantasch
 hamantaschen
 hamartia
 hamate
+hamates
 hamauls
 hamboned
 hambones
@@ -53882,6 +53898,7 @@ inebriates
 inebriating
 inebriations
 inebriety
+inedible
 inedibly
 ineducability
 ineducable
@@ -57195,6 +57212,7 @@ jobber
 jobberies
 jobbers
 jobbery
+jobbing
 jobholder
 jobless
 joblessness
@@ -61460,6 +61478,7 @@ liturgics
 liturgiologies
 liturgiologist
 liturgiologists
+liturgiology
 liturgism
 liturgisms
 liturgist
@@ -62292,6 +62311,7 @@ luges
 luggage
 luggages
 lugger
+luggie
 luggies
 lugging
 luging
@@ -65703,6 +65723,7 @@ microcurie
 microcuries
 microcyte
 microcytes
+microdissection
 microdot
 microearthquake
 microeconomics
@@ -69335,6 +69356,7 @@ mustaches
 mustachio
 mustachios
 mustang
+mustards
 mustardy
 mustee
 mustees
@@ -69850,6 +69872,7 @@ narcotizes
 narcotizing
 narcs
 nardine
+nares
 nargileh
 nargilehs
 naric
@@ -87709,6 +87732,7 @@ qualms
 quamash
 quamashes
 quandang
+quandary
 quandongs
 quango
 quangos
@@ -97107,6 +97131,7 @@ schusser
 schussers
 schusses
 schussing
+schvartze
 schvartzes
 schwa
 schwarmerei
@@ -98732,6 +98757,7 @@ serenenesses
 serener
 serenes
 serenest
+serer
 seres
 serest
 serf
@@ -103731,6 +103757,7 @@ spiky
 spile
 spiled
 spilings
+spill
 spillage
 spilled
 spiller
@@ -105464,6 +105491,7 @@ stinkards
 stinkbug
 stinkier
 stinkiest
+stinking
 stinkingly
 stinko
 stinkpots
@@ -108289,6 +108317,7 @@ surcingles
 surcingling
 surcoats
 surd
+surds
 sure
 surefire
 surefooted
@@ -109785,6 +109814,7 @@ tankship
 tankships
 tannable
 tannages
+tannate
 tannates
 tanned
 tanneries
@@ -112867,6 +112897,7 @@ tore
 toreador
 toreadors
 torero
+toreros
 tores
 toreutic
 torics
@@ -114477,6 +114508,7 @@ troffer
 troffers
 trog
 troglodyte
+troglodytes
 troglodytic
 trogs
 troikas
@@ -115681,6 +115713,7 @@ ultraexclusive
 ultrafamiliar
 ultrafast
 ultrafeminine
+ultrafiche
 ultrafiches
 ultrafiltration
 ultraglamorous
@@ -115813,6 +115846,7 @@ umbras
 umbrella
 umbrellaed
 umbrellaing
+umbrellas
 umbrettes
 umiac
 umiack
@@ -121796,6 +121830,7 @@ waterloos
 watermark
 watermarked
 watermarking
+watermarks
 waterpower
 waterproof
 waterproofers
