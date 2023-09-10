@@ -1914,6 +1914,7 @@ aiguillettes
 ail
 ailanthic
 ailanthus
+aileron
 ailing
 ailment
 ails
@@ -4960,6 +4961,7 @@ apposition
 appositions
 appositive
 appositively
+appraisal
 appraise
 appraisees
 appraisement
@@ -8637,6 +8639,7 @@ bearcats
 beardedness
 beardednesses
 bearding
+beardless
 beardtongue
 bearers
 beargrass
@@ -9419,6 +9422,7 @@ benni
 bennies
 benny
 bens
+bentgrasses
 benthic
 benthon
 benthonic
@@ -14079,6 +14083,7 @@ butyryl
 butyryls
 buxom
 buxomer
+buxomest
 buxomly
 buxomness
 buxomnesses
@@ -20313,6 +20318,7 @@ collectedness
 collectible
 collectibles
 collecting
+collections
 collective
 collectively
 collectives
@@ -21460,6 +21466,7 @@ conductorial
 conductors
 conductress
 conducts
+conduit
 conduplicate
 condyle
 condyles
@@ -23792,6 +23799,7 @@ cowled
 cowlick
 cowlicks
 cowlings
+cowlstaff
 cowlstaffs
 cowlstaves
 cowman
@@ -24038,6 +24046,7 @@ cratches
 crater
 cratering
 craterings
+craterlike
 craton
 cratonic
 cratons
@@ -35378,6 +35387,7 @@ entranceway
 entranceways
 entrant
 entrants
+entrap
 entrapment
 entrapments
 entrappers
@@ -46539,6 +46549,7 @@ grubbiness
 grubbing
 grubby
 grubstaker
+grubstakers
 grubstakes
 grubworm
 grudged
@@ -49191,6 +49202,7 @@ heterokaryon
 heterokaryons
 heterokaryoses
 heterokaryosis
+heterokaryotic
 heterologous
 heterologously
 heterolysis
@@ -50583,6 +50595,7 @@ housebreaking
 housebreaks
 housebroke
 housebroken
+housecarl
 housecarls
 houseclean
 housecleaned
@@ -59137,6 +59150,7 @@ langbeinites
 langlauf
 langlaufer
 langlaufers
+langlaufs
 langley
 langostinos
 langouste
@@ -64482,6 +64496,7 @@ meliorism
 meliorisms
 meliorists
 melisma
+melismas
 melismata
 melismatic
 mell
@@ -71335,6 +71350,7 @@ nonideal
 nonidentical
 nonidentities
 nonidentity
+nonideological
 nonimages
 nonimitative
 nonimmigrant
@@ -72831,6 +72847,7 @@ octarchies
 octavo
 octennial
 octets
+octette
 octillions
 octodecillion
 octogenarian
@@ -79873,6 +79890,7 @@ phatically
 phatter
 pheasant
 pheasants
+phellem
 phellems
 phelloderms
 phellogen
@@ -84374,6 +84392,7 @@ prepriced
 preprices
 prepricing
 preprimary
+preprint
 preprints
 preprocess
 preprocesses
@@ -85751,6 +85770,7 @@ prosaisms
 prosaist
 prosateur
 prosateurs
+prosauropod
 prosauropods
 proscenium
 prosciutto
@@ -89448,6 +89468,7 @@ reconquered
 reconquest
 reconquests
 recons
+reconsecrate
 reconsecrates
 reconsecrating
 reconsecration
@@ -99862,6 +99883,7 @@ siffleur
 siffleurs
 sift
 sifted
+sifter
 sifters
 sifting
 siftings
@@ -100124,6 +100146,7 @@ simonies
 simonist
 simonists
 simonized
+simony
 simoom
 simooms
 simoons
@@ -100830,6 +100853,7 @@ slaverer
 slaverers
 slaveries
 slavery
+slaves
 slavey
 slaveys
 slaving
@@ -102356,6 +102380,7 @@ sonicated
 sonicates
 sonication
 sonicator
+sonicators
 sonlike
 sonneted
 sonneteering
@@ -104784,6 +104809,7 @@ sterilant
 sterile
 sterilise
 sterilised
+sterilises
 sterilising
 sterilities
 sterilization
@@ -109096,6 +109122,7 @@ talismanically
 talismans
 talkable
 talkathon
+talkativeness
 talkback
 talked
 talker
@@ -109220,6 +109247,7 @@ tampion
 tampions
 tampon
 tampons
+tamps
 tams
 tanbarks
 tandem
@@ -111159,6 +111187,7 @@ thousandths
 thowless
 thraldom
 thraldoms
+thrall
 thralldom
 thralldoms
 thralled
@@ -113920,6 +113949,7 @@ trivet
 trivial
 trivialise
 trivialised
+trivialises
 trivialising
 trivialist
 trivialists
@@ -114136,6 +114166,7 @@ truanted
 truanting
 truantly
 truantries
+truantry
 truants
 truce
 truced
@@ -120694,6 +120725,7 @@ wadsetting
 wady
 wae
 waeful
+waenesses
 waesuck
 waesucks
 wafered
@@ -122648,6 +122680,7 @@ wisps
 wispy
 wissed
 wisses
+wissing
 wist
 wistarias
 wisteria
@@ -122739,6 +122772,7 @@ wittinesses
 wittingly
 wittols
 witty
+wiver
 wivern
 wiverns
 wivers
@@ -122994,6 +123028,7 @@ wooraris
 woos
 woosh
 wooshed
+wooshes
 woozier
 woozily
 woozinesses
