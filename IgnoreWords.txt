@@ -1428,6 +1428,7 @@ affably
 affair
 affaire
 affaires
+affect
 affectabilities
 affectability
 affectable
@@ -7355,6 +7356,7 @@ backgrounders
 backgrounds
 backhand
 backhanded
+backhandedly
 backhander
 backhanders
 backhands
@@ -14299,6 +14301,7 @@ cadging
 cadi
 cadis
 cadmium
+cadmiums
 cadre
 cadres
 cads
@@ -14756,6 +14759,7 @@ camped
 camper
 campers
 campesinos
+campestral
 campfire
 campfires
 campground
@@ -15229,6 +15233,7 @@ caprioling
 caprocks
 caprolactam
 capsaicin
+capsicin
 capsidal
 capsids
 capsizing
@@ -17626,6 +17631,7 @@ chiefships
 chieftain
 chieftaincy
 chieftains
+chieftainships
 chiel
 chield
 chields
@@ -23917,6 +23923,7 @@ crambos
 crammed
 crammer
 cramoisie
+cramoisies
 cramoisy
 cramp
 cramped
@@ -29861,6 +29868,7 @@ disagreeing
 disagreement
 disagreements
 disagrees
+disallowance
 disallowances
 disallowed
 disallowing
@@ -40401,6 +40409,7 @@ flichtered
 flichters
 flicked
 flickered
+flickering
 flickers
 flickery
 flicking
@@ -42308,6 +42317,7 @@ frocked
 frocking
 frocks
 frog
+frogeye
 frogeyed
 frogeyes
 frogfishes
@@ -43400,6 +43410,7 @@ garcon
 garcons
 gardai
 gardant
+garden
 gardened
 gardeners
 gardenful
@@ -44870,6 +44881,7 @@ globefishes
 globeflower
 globeflowers
 globelike
+globes
 globetrots
 globetrotted
 globing
@@ -46142,6 +46154,7 @@ grew
 grewsome
 grewsomer
 grewsomest
+greyest
 greyhound
 greyhounds
 greying
@@ -46959,6 +46972,7 @@ gymnosophist
 gymnosperm
 gymnospermies
 gymnospermous
+gymnosperms
 gymnospermy
 gyms
 gynaecea
@@ -54804,6 +54818,7 @@ interdominion
 interelectrode
 interelectron
 interepidemic
+interest
 interestedly
 interesting
 interestingly
@@ -55310,6 +55325,7 @@ intombed
 intombing
 intombs
 intonated
+intonates
 intonating
 intonational
 intonations
@@ -55808,6 +55824,7 @@ irid
 irides
 iridescence
 iridescences
+iridescently
 iridium
 iridologies
 iridologist
@@ -56905,6 +56922,7 @@ joinable
 joinder
 joinders
 joiner
+joiners
 joining
 joinings
 joint
@@ -62200,6 +62218,7 @@ lycopenes
 lycopodium
 lycopods
 lycra
+lyddite
 lyddites
 lye
 lyes
@@ -75289,6 +75308,7 @@ overboiled
 overboils
 overbold
 overbook
+overbooked
 overbooks
 overborn
 overborne
@@ -77815,6 +77835,7 @@ parvo
 parvolin
 parvoline
 parvolines
+parvolins
 parvoviruses
 pas
 pascal
@@ -79001,6 +79022,7 @@ percoids
 percolate
 percolated
 percolates
+percolating
 percolations
 percussed
 percusses
@@ -83103,6 +83125,7 @@ postposes
 postposing
 postpositional
 postpositions
+postpositive
 postpositively
 postprison
 postproduction
@@ -86840,6 +86863,7 @@ putoffs
 puton
 putonghua
 putonghuas
+putout
 putouts
 putrefaction
 putrefied
@@ -93255,6 +93279,7 @@ rewoven
 rewraps
 rewrapt
 rewrite
+rewriting
 rewritten
 rewrote
 rex
@@ -94240,6 +94265,7 @@ ropier
 ropiest
 roping
 roque
+roquelaure
 roquelaures
 roqueted
 roqueting
@@ -101859,6 +101885,7 @@ socioreligious
 sociosexual
 sock
 sockdolagers
+sockdologer
 socket
 socketed
 socketing
@@ -101886,6 +101913,7 @@ soddened
 soddenly
 soddenness
 soddennesses
+soddens
 soddies
 soddy
 sodic
@@ -105135,6 +105163,7 @@ stopword
 stopwords
 storages
 storax
+stored
 storehouse
 storekeeper
 storekeepers
@@ -107497,6 +107526,7 @@ superspecials
 superspectacle
 superspectacles
 superspies
+superstar
 superstardom
 superstars
 superstate
@@ -110723,6 +110753,7 @@ thermalization
 thermalize
 thermalized
 thermalizes
+thermals
 therme
 thermel
 thermes
@@ -112739,6 +112770,7 @@ trajection
 trajects
 tram
 tramcars
+trameling
 tramell
 tramelled
 tramells
@@ -114493,6 +114525,7 @@ turnbuckles
 turncoat
 turncoats
 turned
+turner
 turneries
 turners
 turnery
@@ -115193,6 +115226,7 @@ umteenth
 unabashed
 unabashedly
 unabated
+unabatedly
 unabating
 unabiding
 unabjured
@@ -119103,6 +119137,7 @@ velociraptor
 velocity
 velodromes
 velour
+velours
 veloutes
 velum
 velure
