@@ -448,6 +448,7 @@ accuratenesses
 accursed
 accursedly
 accursedness
+accursednesses
 accusable
 accusably
 accusant
@@ -3822,6 +3823,7 @@ annoy
 annoying
 annoys
 annualize
+annualizes
 annualizing
 annually
 annuitant
@@ -3949,6 +3951,7 @@ antefix
 antefixae
 antefixal
 anteing
+antelopes
 antemortem
 antenatal
 antenatally
@@ -6934,6 +6937,7 @@ avadavats
 avail
 availabilities
 availableness
+availed
 availing
 avails
 avalanche
@@ -13097,6 +13101,7 @@ brominated
 bromination
 brominations
 bromine
+brominism
 brominisms
 bromisms
 bromized
@@ -14216,6 +14221,7 @@ cabbed
 cabbie
 cabbies
 cabdrivers
+caber
 cabernets
 cabers
 cabestro
@@ -18143,6 +18149,7 @@ chordamesoderms
 chordate
 chording
 chords
+chore
 chorea
 choreal
 choreas
@@ -22723,6 +22730,7 @@ copperahs
 copperas
 copperases
 copperheads
+coppering
 copperplate
 copperplates
 coppersmith
@@ -26503,6 +26511,7 @@ deathlessly
 deathlessness
 deathlessnesses
 deathlike
+deaths
 deathtrap
 deathtraps
 deathwatch
@@ -38534,6 +38543,7 @@ fannies
 fanny
 fano
 fanon
+fanons
 fanos
 fans
 fantail
@@ -41149,6 +41159,7 @@ foist
 foisted
 folacin
 folates
+fold
 foldable
 foldaway
 foldaways
@@ -42469,6 +42480,7 @@ frizzles
 frizzlier
 frizzliest
 frizzling
+frizzly
 fro
 frock
 frocked
@@ -42931,6 +42943,7 @@ furfurans
 furibund
 furious
 furiously
+furlable
 furler
 furlers
 furless
@@ -43967,6 +43980,7 @@ gelatinously
 gelation
 gelations
 gelatis
+gelato
 gelatos
 gelcap
 gelcaps
@@ -50057,6 +50071,7 @@ homegrown
 homeland
 homelands
 homeless
+homelessness
 homelessnesses
 homelier
 homeliest
@@ -50834,6 +50849,7 @@ hoydenish
 hoyle
 hryvnas
 hryvnias
+huarache
 huaraches
 huaracho
 huarachos
@@ -51100,6 +51116,7 @@ hurtling
 hurts
 husband
 husbanders
+husbanding
 husbandly
 husbandman
 husbandmen
@@ -61795,6 +61812,7 @@ longwise
 looby
 looed
 looey
+looeys
 loof
 loofa
 loofahs
@@ -64404,6 +64422,7 @@ median
 medianly
 mediants
 mediastina
+mediastinum
 mediate
 mediated
 mediates
@@ -69435,6 +69454,7 @@ myrobalan
 myrrhic
 myrrhs
 myrtles
+myself
 mysid
 mysids
 mysost
@@ -69654,6 +69674,7 @@ naphthenic
 naphthols
 naphthous
 naphthyl
+naphthylamines
 naphtol
 napkin
 napkins
@@ -81527,6 +81548,7 @@ pivot
 pivotable
 pivotal
 pivoted
+pivotman
 pivotmen
 pixel
 pixels
@@ -83624,6 +83646,7 @@ pouter
 pouters
 poutier
 poutiest
+poutine
 poutines
 pouting
 powdered
@@ -92752,6 +92775,7 @@ responsories
 responsory
 respool
 respooled
+respooling
 respools
 respot
 respots
@@ -94703,6 +94727,7 @@ rottenstone
 rottenstones
 rotter
 rotters
+rottes
 rotting
 rottweiler
 rottweilers
@@ -94859,6 +94884,7 @@ rowdy
 rowdyism
 rowdyisms
 rowed
+rowel
 roweling
 rowelled
 rowels
@@ -97096,6 +97122,7 @@ scornful
 scornfully
 scornfulness
 scornfulnesses
+scorns
 scorpaenid
 scorpaenids
 scorpion
@@ -100085,6 +100112,7 @@ sidewall
 sidewalls
 sideways
 sidewinders
+sidings
 sidle
 sidled
 sidler
@@ -103002,6 +103030,7 @@ spadefuls
 spaders
 spadework
 spadeworks
+spadices
 spadilles
 spading
 spadixes
@@ -107486,6 +107515,7 @@ sunlights
 sunlike
 sunlit
 sunn
+sunnah
 sunnahs
 sunned
 sunnier
@@ -107904,6 +107934,7 @@ superstratum
 superstrength
 superstrengths
 superstrike
+superstrikes
 superstring
 superstrings
 superstrong
@@ -112240,6 +112271,7 @@ toenails
 toepieces
 toeplate
 toes
+toeshoes
 toff
 toffies
 tofts
@@ -115021,6 +115053,7 @@ tuts
 tutted
 tutties
 tutting
+tutty
 tutu
 tutus
 tuxedoed
@@ -117892,6 +117925,7 @@ unsettles
 unsettlingly
 unsew
 unsewed
+unsewing
 unsewn
 unsews
 unsexes
@@ -119604,6 +119638,7 @@ venge
 vengeance
 vengeances
 venged
+vengeful
 vengefully
 vengefulness
 vengefulnesses
