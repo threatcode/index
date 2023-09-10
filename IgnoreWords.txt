@@ -4976,6 +4976,7 @@ apposition
 appositions
 appositive
 appositively
+appositives
 appraisal
 appraise
 appraisees
@@ -5213,6 +5214,7 @@ arborizing
 arbors
 arborvitae
 arborvitaes
+arboured
 arboviral
 arbovirus
 arboviruses
@@ -13511,6 +13513,7 @@ bulbil
 bulbils
 bulblet
 bulbous
+bulbously
 bulbs
 bulbul
 bulbuls
@@ -15419,6 +15422,7 @@ carbaryls
 carbide
 carbides
 carbine
+carbineer
 carbineers
 carbines
 carbinol
@@ -18815,6 +18819,7 @@ clafouti
 clafoutis
 clag
 clagged
+clagging
 clags
 claimable
 claimant
@@ -27833,6 +27838,7 @@ demotes
 demotic
 demoting
 demotion
+demotist
 demotists
 demount
 demountable
@@ -29247,6 +29253,7 @@ dib
 dibasic
 dibbed
 dibber
+dibbers
 dibbing
 dibbled
 dibbler
@@ -34746,6 +34753,7 @@ encumber
 encumbered
 encumbering
 encumbers
+encumbrance
 encumbrancer
 encumbrancers
 encumbrances
@@ -38951,6 +38959,7 @@ federaleses
 federalist
 federalization
 federalized
+federalizes
 federalizing
 federals
 federate
@@ -39703,6 +39712,7 @@ filled
 filler
 filles
 fillet
+filleted
 filleting
 fillies
 filling
@@ -41520,6 +41530,7 @@ foremast
 foremasts
 foremilks
 foremost
+foremother
 foremothers
 forenamed
 forenoon
@@ -42392,6 +42403,7 @@ frillers
 frillier
 frilliest
 frillings
+fringier
 fringiest
 fringing
 frisbee
@@ -52970,6 +52982,7 @@ inaner
 inanes
 inanimate
 inanimately
+inanimateness
 inanimatenesses
 inanities
 inanition
@@ -54580,6 +54593,7 @@ insistent
 insistently
 insister
 insisters
+insnare
 insnared
 insnarers
 insnares
@@ -59412,6 +59426,7 @@ lardon
 lardoons
 laree
 largando
+large
 largehearted
 largemouth
 largenesses
@@ -62172,6 +62187,7 @@ lumbar
 lumbars
 lumber
 lumbered
+lumberer
 lumbering
 lumberjacks
 lumberman
@@ -62506,6 +62522,7 @@ lysine
 lysines
 lysing
 lysins
+lysis
 lysogen
 lysogenic
 lysogenicities
@@ -66670,6 +66687,7 @@ misestimating
 misestimation
 misevaluate
 misevaluated
+misevaluating
 misevaluation
 misevent
 misfaith
@@ -73813,6 +73831,7 @@ optioned
 optionee
 options
 optoelectronic
+optoelectronics
 optometers
 optometries
 optometrist
@@ -75429,6 +75448,7 @@ ovalities
 ovality
 ovally
 ovalness
+ovalnesses
 ovals
 ovarian
 ovariectomies
@@ -78062,6 +78082,7 @@ partridgeberry
 partridges
 parts
 parturient
+parturition
 parturitions
 partway
 party
@@ -79479,6 +79500,7 @@ peripherally
 peripherals
 peripheries
 periphery
+periphrases
 periphrasis
 periphrastic
 periphyton
@@ -88111,6 +88133,7 @@ radicate
 radicated
 radicates
 radicating
+radicchio
 radicchios
 radicel
 radicels
@@ -88207,6 +88230,7 @@ raffinate
 raffinates
 raffinose
 raffinoses
+raffish
 raffishly
 raffishness
 raffishnesses
@@ -88805,6 +88829,7 @@ rawinsonde
 rawinsondes
 rawish
 rawly
+rawness
 rawnesses
 rax
 raxed
@@ -91325,6 +91350,7 @@ religiose
 religiosity
 religious
 religiously
+religiousness
 religiousnesses
 relining
 relink
@@ -97238,6 +97264,7 @@ screwballs
 screwbean
 screwdriver
 screwdrivers
+screwed
 screwer
 screwers
 screwier
@@ -103591,6 +103618,7 @@ spirilla
 spirillum
 spiring
 spirited
+spiritedness
 spiritednesses
 spiritism
 spiritist
@@ -106297,6 +106325,7 @@ subclan
 subclans
 subclass
 subclassed
+subclassified
 subclassify
 subclassifying
 subclause
@@ -106860,6 +106889,7 @@ substitution
 substitutional
 substitutions
 substitutive
+substitutively
 substrata
 substratum
 substructural
@@ -107663,6 +107693,7 @@ superhelix
 superhero
 superheroes
 superheroines
+superheterodyne
 superhighway
 superhit
 superhits
@@ -107816,6 +107847,7 @@ superscribed
 superscribes
 superscribing
 superscript
+superscription
 superscriptions
 superscripts
 supersecrecies
@@ -107993,6 +108025,7 @@ suppressor
 suppressors
 suppurate
 suppurated
+suppurating
 suppurations
 suppurative
 supraliminal
@@ -108481,6 +108514,7 @@ swiftnesses
 swig
 swigged
 swigging
+swigs
 swill
 swilled
 swiller
@@ -113173,6 +113207,7 @@ tranquillized
 tranquillizer
 tranquillizers
 tranquillizes
+tranquillizing
 tranquilness
 tranquilnesses
 transact
