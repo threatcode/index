@@ -154,6 +154,7 @@ abstractional
 abstractionist
 abstractionists
 abstractions
+abstractly
 abstractnesses
 abstractor
 abstractors
@@ -297,6 +298,7 @@ accepted
 acceptees
 accepter
 accepting
+acceptingness
 acceptive
 acceptor
 accessary
@@ -4332,6 +4334,7 @@ antiphons
 antiphony
 antiphrases
 antiphrasis
+antipill
 antipiracy
 antiplague
 antiplaque
@@ -6677,6 +6680,7 @@ auscultations
 ausform
 ausforming
 auslander
+auslanders
 auspex
 auspicated
 auspicates
@@ -8525,6 +8529,7 @@ bawdiest
 bawdric
 bawdrics
 bawdry
+bawds
 bawdy
 bawl
 bawler
@@ -11692,6 +11697,7 @@ bombed
 bomber
 bombesin
 bombinates
+bombinating
 bombination
 bombinations
 bombing
@@ -12131,6 +12137,7 @@ bottlenecks
 bottler
 bottlers
 bottles
+bottling
 bottlings
 bottom
 bottomed
@@ -12160,6 +12167,7 @@ bouffe
 bouffes
 bougainvillaea
 bougainvillea
+bougainvilleas
 bough
 boughed
 boughless
@@ -20780,6 +20788,7 @@ commentator
 commentators
 commenter
 commenting
+commerce
 commerced
 commercial
 commercialised
@@ -25535,6 +25544,7 @@ cutty
 cutup
 cutups
 cutwork
+cutworks
 cutworm
 cuvette
 cuvettes
@@ -26569,6 +26579,7 @@ debs
 debt
 debtless
 debtors
+debts
 debug
 debugged
 debugger
@@ -28090,6 +28101,7 @@ depilatory
 deplaning
 deplete
 depleter
+depletes
 depleting
 depletions
 depletive
@@ -28747,6 +28759,7 @@ detoxifying
 detoxing
 detract
 detraction
+detractive
 detractively
 detractor
 detractors
@@ -29101,6 +29114,7 @@ dialoguers
 dials
 dialysate
 dialysates
+dialysed
 dialysers
 dialysing
 dialytic
@@ -37060,6 +37074,7 @@ exasperate
 exasperatedly
 exasperates
 exasperatingly
+exasperation
 excaudate
 excavate
 excavated
@@ -40162,6 +40177,7 @@ flaggers
 flaggier
 flaggingly
 flaggings
+flaggy
 flagitious
 flagitiously
 flagitiousness
@@ -42558,6 +42574,7 @@ fructoses
 frugal
 frugality
 frugally
+frugged
 frugivore
 frugivorous
 frugs
@@ -44714,6 +44731,7 @@ glacially
 glaciate
 glaciated
 glaciating
+glaciation
 glaciations
 glacier
 glaciered
@@ -44722,6 +44740,7 @@ glaciological
 glaciologies
 glaciologist
 glaciologists
+glaciology
 glacis
 glacises
 glad
@@ -50294,6 +50313,7 @@ hoodlumisms
 hoodlums
 hoodmold
 hoodooed
+hoodooing
 hoodooism
 hoodooisms
 hoodoos
@@ -50564,6 +50584,7 @@ hosey
 hoseyed
 hoseying
 hoseys
+hosier
 hosieries
 hosiers
 hosing
@@ -56618,6 +56639,7 @@ jangly
 janiform
 janisaries
 janisary
+janissaries
 janissary
 janitor
 janitorial
@@ -57293,6 +57315,7 @@ judos
 juga
 jugate
 jugful
+jugged
 juggernaut
 juggernauts
 juggle
@@ -59515,6 +59538,7 @@ laterization
 laterize
 laterized
 latest
+latests
 latewood
 latewoods
 latex
@@ -63384,6 +63408,7 @@ manoeuvres
 manoeuvring
 manometers
 manometries
+manor
 manorialism
 manorialisms
 manos
@@ -64098,6 +64123,7 @@ maunderer
 maunderers
 maunders
 maundies
+maunds
 maundy
 mausolea
 mausolean
@@ -66389,6 +66415,7 @@ misbehaving
 misbehavior
 misbehaviors
 misbelief
+misbelieved
 misbeliever
 misbelievers
 misbelieves
@@ -73295,6 +73322,7 @@ oligarchic
 oligarchy
 oligochaete
 oligochaetes
+oligoclases
 oligodendrocyte
 oligodendroglia
 oligogene
@@ -97018,6 +97046,7 @@ scorpaenid
 scorpaenids
 scorpion
 scorpions
+scot
 scotch
 scotched
 scotches
@@ -97820,6 +97849,7 @@ segregation
 segregationists
 segregative
 segs
+segued
 segueing
 seguidilla
 sei
@@ -105815,6 +105845,7 @@ stringybarks
 strip
 striped
 stripeless
+stripers
 stripier
 stripiest
 striping
@@ -116185,6 +116216,7 @@ undelegated
 undelivered
 undeluded
 undemanding
+undemocratic
 undemonstrative
 undeniable
 undependable
@@ -118507,6 +118539,7 @@ upstarting
 upstate
 upstater
 upstaters
+upstep
 upstepped
 upstepping
 upsteps
@@ -123280,6 +123313,7 @@ workprints
 worksheet
 worksheets
 workshops
+workspace
 workspaces
 workstation
 workstations
@@ -123878,6 +123912,7 @@ yelps
 yen
 yenned
 yenning
+yens
 yenta
 yentas
 yente
