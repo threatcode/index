@@ -2342,6 +2342,7 @@ aliquots
 alist
 alit
 aliteracies
+aliteracy
 aliterate
 aliterates
 alive
@@ -7264,6 +7265,7 @@ babbitt
 babbittries
 babbittry
 babbitts
+babble
 babbled
 babblement
 babblers
@@ -15343,6 +15345,7 @@ captioning
 captionless
 captions
 captiously
+captiousness
 captivate
 captivates
 captivations
@@ -16201,6 +16204,7 @@ catenas
 catenated
 catenates
 catenating
+catenations
 catenoid
 catenoids
 cater
@@ -21261,6 +21265,7 @@ computerizing
 computerless
 computerlike
 computernik
+computerniks
 computerphobe
 computerphobias
 computerphobic
@@ -22775,6 +22780,7 @@ coprincipals
 coprisoner
 coprocessor
 coprocessors
+coproduce
 coproduced
 coproducer
 coproduces
@@ -27074,6 +27080,7 @@ deepeners
 deepening
 deeper
 deepest
+deepfreeze
 deepfreezes
 deepfreezing
 deepfrozen
@@ -27727,6 +27734,7 @@ demeanor
 demeanours
 demeans
 dement
+demented
 dementedness
 dementednesses
 dementia
@@ -28140,6 +28148,7 @@ depilator
 depilatories
 depilators
 depilatory
+deplaned
 deplaning
 deplete
 depleter
@@ -31435,6 +31444,7 @@ doeskins
 doeth
 doff
 doffed
+doffer
 doffers
 doffing
 doffs
@@ -35610,6 +35620,7 @@ enviro
 environ
 environed
 environing
+environment
 environmental
 environmentally
 environments
@@ -37425,6 +37436,7 @@ exhume
 exhumed
 exhumer
 exhumers
+exhuming
 exigences
 exigencies
 exigency
@@ -47698,6 +47710,7 @@ halutzim
 halva
 halvah
 halvahs
+halvas
 halve
 halved
 halving
@@ -61220,6 +61233,7 @@ liquors
 lira
 liras
 lire
+liri
 liriope
 liriopes
 liripipe
@@ -66020,6 +66034,7 @@ mill
 millage
 millboard
 millboards
+millcake
 millcakes
 milldam
 milldams
@@ -77495,6 +77510,7 @@ pansophies
 pansy
 pantalones
 pantaloon
+pantaloons
 pantdress
 pantdresses
 pantechnicon
@@ -77676,6 +77692,7 @@ paradors
 paradoses
 paradoxes
 paradoxical
+paradoxicalness
 paradrop
 paradropped
 paradrops
@@ -80534,6 +80551,7 @@ photographic
 photographing
 photographs
 photogravures
+photogs
 photoinduced
 photoinduction
 photoinductions
@@ -81070,6 +81088,7 @@ pignut
 pigouts
 pigpen
 pigpens
+pigs
 pigskin
 pigskins
 pigsney
@@ -83415,6 +83434,7 @@ posties
 postimperial
 postin
 postindustrial
+postinfection
 posting
 postinjection
 postinoculation
@@ -84840,6 +84860,7 @@ preshrunken
 preside
 presidencies
 presidency
+president
 presidential
 presidentially
 presidentship
@@ -88179,6 +88200,7 @@ radiant
 radiantly
 radiants
 radiate
+radiated
 radiates
 radiating
 radiation
@@ -91654,6 +91676,7 @@ remodeling
 remodelled
 remodelling
 remodifies
+remodify
 remoisten
 remoistened
 remoistening
@@ -91706,6 +91729,7 @@ removeable
 removed
 removedly
 remover
+removes
 removing
 rems
 remudas
@@ -95734,6 +95758,7 @@ sallowing
 sallowish
 sallowly
 sallownesses
+sallows
 sallowy
 sally
 salmagundis
@@ -96995,6 +97020,7 @@ schvartzes
 schwa
 schwarmerei
 schwarmereis
+schwartzes
 schwas
 sciaenid
 sciaenids
@@ -99463,6 +99489,7 @@ shim
 shimmed
 shimmer
 shimmered
+shimmering
 shimmers
 shimmery
 shimmied
@@ -99883,6 +99910,7 @@ shrewish
 shrewishly
 shrewishness
 shrewlike
+shrewmice
 shrewmouse
 shrews
 shri
@@ -106834,6 +106862,7 @@ subreption
 subreptions
 subreptitious
 subreptitiously
+subring
 subrogates
 subrogating
 subrogation
@@ -107167,6 +107196,7 @@ succulences
 succulent
 succulently
 succumb
+succumbed
 succumbs
 succuss
 succussed
@@ -115147,6 +115177,7 @@ twangling
 twangy
 twankies
 twanky
+twas
 twasome
 twattle
 twattles
@@ -115967,6 +115998,7 @@ unboundedness
 unboundednesses
 unbowdlerized
 unbowed
+unbox
 unboxing
 unbrace
 unbraced
@@ -117579,6 +117611,7 @@ unnecessarily
 unnecessary
 unneeded
 unneedful
+unnerve
 unnerving
 unnervingly
 unnewsworthy
@@ -120789,6 +120822,7 @@ volatilities
 volatilization
 volatilizations
 volatilize
+volatilized
 volatilizes
 volatilizing
 volcanic
@@ -120840,6 +120874,7 @@ voltmeters
 volts
 volubilities
 volubility
+voluble
 volublenesses
 volubly
 volume
