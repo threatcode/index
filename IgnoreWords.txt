@@ -2145,6 +2145,7 @@ albedos
 albeit
 albertite
 albertites
+albicore
 albicores
 albinal
 albinic
@@ -2213,6 +2214,7 @@ aldosterone
 aldosterones
 aldosteronism
 aldrins
+ale
 aleatoric
 aleatory
 alec
@@ -6473,6 +6475,7 @@ atrophias
 atrophic
 atrophied
 atrophy
+atropine
 atropisms
 attaboy
 attach
@@ -6974,6 +6977,7 @@ autotoxic
 autotoxins
 autotransformer
 autotrophic
+autotype
 autotypies
 autotypy
 autoworker
@@ -11608,6 +11612,7 @@ bodings
 bodkin
 bodkins
 bods
+body
 bodyboard
 bodyboarded
 bodyboarding
@@ -12101,6 +12106,7 @@ borderlines
 bordure
 bordures
 boreas
+boreases
 bored
 boredoms
 boreen
@@ -12284,6 +12290,7 @@ boughpot
 boughs
 bought
 bougie
+bougies
 bouillabaisse
 bouillabaisses
 bouillon
@@ -18302,6 +18309,7 @@ choragus
 choraguses
 choral
 chorale
+chorales
 chorals
 chordal
 chordamesoderms
@@ -23170,6 +23178,7 @@ cornbraids
 cornbread
 corncake
 corncakes
+corncob
 corncrakes
 corncrib
 corncribs
@@ -28309,6 +28318,7 @@ depainted
 depainting
 depaints
 depart
+departed
 departees
 departing
 department
@@ -31377,6 +31387,7 @@ disulfiram
 disulfoton
 disunion
 disunions
+disunite
 disuniter
 disuniters
 disunities
@@ -32055,6 +32066,7 @@ dorsers
 dorsiventral
 dorsiventrality
 dorsiventrally
+dorsolateral
 dorsoventrality
 dorsum
 dorty
@@ -34720,6 +34732,7 @@ eminence
 eminency
 eminently
 emir
+emirate
 emirates
 emissaries
 emissary
@@ -38993,6 +39006,7 @@ farrago
 farrier
 farrieries
 farriers
+farriery
 farrow
 farrows
 farseeing
@@ -39337,6 +39351,7 @@ feeding
 feedlot
 feeds
 feedstocks
+feedstuff
 feedyards
 feeler
 feelers
@@ -41553,6 +41568,7 @@ folksiness
 folksinger
 folksingers
 folksinging
+folksingings
 folksong
 folktale
 folktales
@@ -41941,6 +41957,7 @@ foreshows
 foreside
 foresight
 foresighted
+foresightedly
 foresightedness
 foresightful
 foresights
@@ -50082,6 +50099,7 @@ hipless
 hiplike
 hipline
 hiplines
+hiply
 hipness
 hipparch
 hippie
@@ -54789,6 +54807,7 @@ inkjet
 inkle
 inkles
 inklike
+inkling
 inklings
 inkpot
 inkpots
@@ -56178,6 +56197,7 @@ inulase
 inulases
 inulin
 inulins
+inunctions
 inundate
 inundated
 inundates
@@ -66757,6 +66777,7 @@ minicabs
 minicam
 minicamps
 minicar
+minicars
 minicomputer
 minicourse
 minidisc
@@ -73767,6 +73788,7 @@ oes
 oesophagi
 oesophagus
 oestrin
+oestriols
 oestrogen
 oestrogens
 oestrone
@@ -85830,6 +85852,7 @@ prier
 priers
 priest
 priested
+priesthood
 priesting
 priestliest
 priestliness
@@ -87994,6 +88017,7 @@ pyramidal
 pyramided
 pyramidical
 pyramiding
+pyran
 pyranoid
 pyranose
 pyranosides
@@ -96857,6 +96881,7 @@ sapor
 saporous
 sapors
 sapota
+sapotes
 sapour
 sapours
 sappers
@@ -97276,6 +97301,7 @@ scaffolds
 scag
 scagliolas
 scalable
+scalados
 scalage
 scalages
 scalar
@@ -98936,6 +98962,7 @@ semicolony
 semicoma
 semicommercial
 semiconducting
+semiconductors
 semicured
 semicylindrical
 semideaf
@@ -99075,6 +99102,7 @@ senarii
 senarius
 senary
 senate
+senator
 senatorial
 senatorian
 senators
@@ -101911,6 +101939,7 @@ slaters
 slatey
 slather
 slathering
+slathers
 slatier
 slatiest
 slatiness
@@ -107594,6 +107623,7 @@ suborner
 suborners
 suborning
 suborns
+suboscine
 suboscines
 suboval
 subovate
@@ -110777,6 +110807,7 @@ tautologies
 tautologously
 tautology
 tautomer
+tautomeric
 tautomerism
 tautomerisms
 tautonym
@@ -112452,6 +112483,7 @@ thriftiness
 thriftinesses
 thriftless
 thriftlessly
+thrifty
 thrill
 thrilled
 thrillers
@@ -117498,6 +117530,7 @@ underskirt
 underskirts
 undersoil
 undersold
+undersongs
 underspin
 underspins
 understaffed
@@ -123082,6 +123115,7 @@ whacks
 whale
 whaleback
 whaleboats
+whalebone
 whalebones
 whalelike
 whaleman
@@ -123597,6 +123631,7 @@ wifehood
 wifehoods
 wifeless
 wifelier
+wifeliest
 wifelike
 wifelinesses
 wifely
