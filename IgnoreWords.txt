@@ -5513,6 +5513,7 @@ armies
 armiger
 armigeral
 armigerous
+armilla
 armillae
 arming
 armistice
@@ -14324,6 +14325,7 @@ cache
 cachepots
 caches
 cacheting
+cachets
 cachexia
 cachexias
 cachexic
@@ -18330,6 +18332,7 @@ chromo
 chromocenters
 chromodynamics
 chromogen
+chromogenic
 chromogens
 chromomere
 chromomeres
@@ -20476,6 +20479,7 @@ collegiums
 collembolan
 collembolans
 collembolous
+collenchyma
 collenchymas
 collet
 colleted
@@ -26727,6 +26731,7 @@ decampments
 decamps
 decane
 decantation
+decantations
 decanted
 decanter
 decanting
@@ -27635,6 +27640,7 @@ deliberate
 deliberately
 deliberateness
 deliberates
+deliberation
 deliberations
 deliberative
 deliberatively
@@ -30789,6 +30795,7 @@ dispersively
 dispersiveness
 dispersoid
 dispersoids
+dispirited
 dispiritedly
 dispiriting
 dispirits
@@ -31207,6 +31214,7 @@ disuse
 disused
 disuses
 disusing
+disvalue
 disvalued
 disvaluing
 disyllabic
@@ -32302,6 +32310,7 @@ drawings
 drawknives
 drawled
 drawler
+drawlers
 drawlier
 drawliest
 drawling
@@ -32835,6 +32844,7 @@ dumbfounds
 dumbhead
 dumbing
 dumbly
+dumbnesses
 dumbos
 dumbs
 dumbstruck
@@ -34453,6 +34463,7 @@ embryologies
 embryologist
 embryologists
 embryology
+embryonated
 embryonic
 embryons
 embryophyte
@@ -38736,6 +38747,7 @@ farkleberries
 farl
 farle
 farles
+farls
 farm
 farmed
 farmer
@@ -39476,6 +39488,7 @@ fetoprotein
 fetoproteins
 fetoscope
 fetoscopies
+fetoscopy
 fets
 fetter
 fetterer
@@ -40134,6 +40147,7 @@ firriest
 firry
 firs
 first
+firstborn
 firstborns
 firstfruits
 firsthand
@@ -45014,6 +45028,7 @@ glasspapers
 glassware
 glasswork
 glassworks
+glasswort
 glassworts
 glaucoma
 glaucomas
@@ -48504,6 +48519,7 @@ hazardousness
 hazards
 hazel
 hazelhen
+hazelhens
 hazelnuts
 hazer
 hazers
@@ -55035,6 +55051,7 @@ intensities
 intensity
 intensive
 intensively
+intensiveness
 intensivenesses
 intensives
 intent
@@ -55048,6 +55065,7 @@ intentness
 intents
 inter
 interabangs
+interactant
 interactants
 interacted
 interaction
@@ -65109,6 +65127,7 @@ merchanting
 merchantman
 merchantmen
 merchants
+merches
 mercifully
 mercilessly
 mercilessnesses
@@ -66227,6 +66246,7 @@ milliosmols
 milliped
 millipede
 millipedes
+millipeds
 milliradian
 milliradians
 millirems
@@ -71551,6 +71571,7 @@ nondisclosures
 nondiscursive
 nondisjunction
 nondisjunctions
+nondistinctive
 nondividing
 nondoctor
 nondoctrinaire
@@ -79185,6 +79206,7 @@ pencillings
 pencils
 pend
 pendant
+pendency
 pendentives
 pending
 pendragon
@@ -83296,6 +83318,7 @@ pored
 porgy
 poriferal
 poriferan
+poring
 porism
 porisms
 pork
@@ -91736,6 +91759,7 @@ remember
 rememberability
 rememberable
 remembered
+rememberer
 remembering
 remembers
 remembrance
@@ -95192,6 +95216,7 @@ rubricators
 rubrician
 rubricians
 rubrics
+rubs
 rubus
 rubying
 rubylike
@@ -98268,6 +98293,7 @@ selenoses
 selenous
 self
 selfdom
+selfdoms
 selfed
 selfheal
 selfheals
@@ -100565,6 +100591,7 @@ siloxanes
 silt
 siltation
 siltations
+silted
 siltier
 siltiest
 siltstone
@@ -108229,6 +108256,7 @@ superweapon
 superweapons
 superwide
 superwife
+superwoman
 superwomen
 supes
 supinated
@@ -112502,6 +112530,7 @@ tocsin
 tocsins
 tod
 today
+toddle
 toddled
 toddlerhood
 toddlerhoods
@@ -114516,6 +114545,7 @@ trochaics
 trochal
 trochanter
 trochanteral
+trochanteric
 trochanters
 trochar
 trochars
@@ -117064,6 +117094,7 @@ uneventful
 uneventfully
 uneventfulness
 unevolved
+unexalted
 unexamined
 unexampled
 unexcelled
@@ -117182,6 +117213,7 @@ unfree
 unfreed
 unfreedom
 unfreeing
+unfrees
 unfreeze
 unfreezes
 unfreezing
@@ -120446,6 +120478,7 @@ viga
 vigas
 vigesimal
 vigil
+vigilance
 vigilances
 vigilant
 vigilante
@@ -122945,6 +122978,7 @@ wildland
 wildlands
 wildlife
 wildlings
+wildly
 wildness
 wilds
 wildwood
@@ -123321,6 +123355,7 @@ withheld
 withhold
 withholder
 withholders
+withholding
 withholds
 withiest
 within
