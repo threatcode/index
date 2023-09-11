@@ -2900,6 +2900,7 @@ ambition
 ambitioned
 ambitionless
 ambitions
+ambitious
 ambitiously
 ambitiousness
 ambitiousnesses
@@ -10831,6 +10832,7 @@ blackings
 blackish
 blackjack
 blackjacked
+blackjacks
 blackland
 blackleads
 blackleg
@@ -12382,6 +12384,7 @@ bowdlerizing
 bowed
 bowel
 bowelled
+bowelless
 bowels
 bowerbirds
 bowered
@@ -15460,6 +15463,7 @@ capturer
 captures
 capuche
 capuched
+capuches
 capuchin
 capuchins
 caput
@@ -15730,6 +15734,7 @@ caretakings
 caretook
 careworn
 carex
+carfare
 carfares
 carful
 cargo
@@ -15895,6 +15900,7 @@ carrack
 carracks
 carrageen
 carrageenans
+carrageenin
 carrageenins
 carrageens
 carrefour
@@ -20951,6 +20957,7 @@ commending
 commends
 commensalism
 commensally
+commensals
 commensurable
 commensurate
 commensuration
@@ -25623,6 +25630,7 @@ cuscuses
 cusec
 cushat
 cushats
+cushaw
 cushaws
 cushily
 cushiness
@@ -28550,6 +28558,7 @@ dermatologist
 dermatome
 dermatomes
 dermatophyte
+dermatophytes
 dermatoses
 dermatosis
 dermestid
@@ -34466,6 +34475,7 @@ embayments
 embays
 embed
 embedded
+embeddings
 embedment
 embeds
 embellish
@@ -40910,6 +40920,7 @@ flintiest
 flintily
 flintiness
 flintinesses
+flinting
 flintlike
 flintlock
 flints
@@ -49520,6 +49531,7 @@ hereditaments
 hereditarians
 hereditarily
 hereditary
+heredities
 heredity
 herein
 hereinabove
@@ -53185,6 +53197,7 @@ imposts
 impostume
 impostumes
 imposture
+impostures
 impotences
 impotencies
 impotency
@@ -57244,6 +57257,7 @@ jeeringly
 jeers
 jees
 jefe
+jefes
 jehad
 jehads
 jehus
@@ -62307,6 +62321,7 @@ looseness
 loosenesses
 loosening
 loosens
+looser
 looses
 loosestrife
 loosestrifes
@@ -63300,6 +63315,7 @@ magnetize
 magnetizers
 magnetizes
 magnetizing
+magnetograph
 magnetographs
 magnetometer
 magnetometers
@@ -64841,6 +64857,7 @@ mechanizers
 mechanizes
 mechanizing
 mechanochemical
+mechanoreceptor
 mechitza
 mechitzot
 meclizine
@@ -65926,6 +65943,7 @@ metros
 mettle
 mettles
 mettlesome
+metumps
 meuniere
 mew
 mewed
@@ -71915,6 +71933,7 @@ noneducation
 noneducational
 noneffective
 nonego
+nonelect
 nonelected
 nonelection
 nonelections
@@ -72409,6 +72428,7 @@ nonselected
 nonselective
 nonsensational
 nonsense
+nonsenses
 nonsensically
 nonsensicalness
 nonsensuous
@@ -72630,6 +72650,7 @@ normally
 normals
 normande
 normative
+normatively
 normativeness
 normativenesses
 normed
@@ -74364,6 +74385,7 @@ optimised
 optimises
 optimisms
 optimist
+optimistic
 optimistically
 optimization
 optimizations
@@ -81750,6 +81772,7 @@ pinchbecks
 pinchbug
 pinchbugs
 pinchcock
+pinchcocks
 pinchecks
 pinched
 pinchers
@@ -86450,6 +86473,7 @@ propagandizer
 propagandizers
 propagandizes
 propagate
+propagation
 propagations
 propagative
 propagator
@@ -87004,6 +87028,7 @@ prussianized
 prussianizes
 prussianizing
 prussiate
+prussiates
 prussic
 pruta
 prutot
@@ -89198,6 +89223,7 @@ raper
 rapers
 rapes
 rapeseed
+raphae
 raphes
 raphia
 raphias
@@ -90789,6 +90815,7 @@ redrafts
 redraw
 redrawing
 redraws
+redream
 redreams
 redreamt
 redress
@@ -93030,6 +93057,7 @@ resalute
 resaluted
 resalutes
 resaluting
+resampled
 resamples
 resampling
 resat
@@ -97190,6 +97218,7 @@ scalawags
 scaldic
 scalding
 scale
+scaleless
 scalelike
 scalene
 scaleni
@@ -99753,6 +99782,7 @@ shandygaff
 shandygaffs
 shanghai
 shanghaied
+shanghaier
 shanghaiers
 shanghaiing
 shanghais
@@ -103369,6 +103399,7 @@ sonicator
 sonicators
 sonlike
 sonneted
+sonneteer
 sonneteering
 sonneteerings
 sonneteers
@@ -112590,6 +112621,7 @@ tides
 tidewater
 tideway
 tideways
+tidied
 tidier
 tidiers
 tidiest
@@ -117772,6 +117804,7 @@ ungarbed
 ungarnished
 ungated
 ungazing
+ungelded
 ungenerosity
 ungenial
 ungentle
@@ -124009,6 +124042,7 @@ wolfhound
 wolfish
 wolfishly
 wolfishness
+wolfishnesses
 wolflike
 wolfram
 wolframite
@@ -125071,6 +125105,7 @@ ytterbous
 yttrias
 yttric
 yttrium
+yttriums
 yuan
 yuans
 yuca
