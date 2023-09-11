@@ -1929,6 +1929,7 @@ ail
 ailanthic
 ailanthus
 aileron
+ailerons
 ailing
 ailment
 ails
@@ -2835,6 +2836,7 @@ amassing
 amassment
 amassments
 amateur
+amateurish
 amateurishly
 amateurishness
 amateurism
@@ -5307,6 +5309,7 @@ archegoniate
 archegoniates
 archegonium
 archenemies
+archenemy
 archenteron
 archenterons
 archeologies
@@ -7324,6 +7327,7 @@ babying
 babyish
 babyishly
 babyproofed
+babyproofing
 babyproofs
 babysit
 babysits
@@ -18238,6 +18242,7 @@ choreic
 choreiform
 choreman
 choremen
+choreograph
 choreographed
 choreographer
 choreographers
@@ -19834,6 +19839,7 @@ cochlea
 cochlear
 cochleas
 cochleate
+cocinera
 cocineras
 cockade
 cockaded
@@ -21526,6 +21532,7 @@ concretions
 concretisms
 concretist
 concretists
+concretizations
 concretize
 concretized
 concretizing
@@ -25379,6 +25386,7 @@ curators
 curatorship
 curatorships
 curbable
+curbed
 curbers
 curbing
 curbings
@@ -32454,6 +32462,7 @@ dribblet
 dribblets
 dribbling
 dribbly
+driblet
 driblets
 dribs
 driegh
@@ -32975,6 +32984,7 @@ duomi
 duomo
 duomos
 duopolies
+duopoly
 duopsonies
 dup
 dupe
@@ -35894,6 +35904,7 @@ epidemiologies
 epidemiologist
 epidemiologists
 epidemiology
+epidendrum
 epidendrums
 epiderm
 epidermic
@@ -38829,6 +38840,7 @@ farsightedly
 farsightedness
 fart
 farther
+farthermost
 farthest
 farthing
 farthingale
@@ -41016,6 +41028,7 @@ flubber
 flubdub
 flubs
 fluctuated
+fluctuates
 fluctuating
 fluctuation
 fluctuational
@@ -43164,6 +43177,7 @@ furtherances
 furthered
 furthering
 furthermost
+furthers
 furthest
 furtive
 furtively
@@ -44004,6 +44018,7 @@ gaudy
 gauffered
 gauffers
 gaugeable
+gauged
 gauges
 gauging
 gauleiters
@@ -46979,6 +46994,7 @@ guaranteed
 guarantied
 guaranties
 guarantor
+guarantors
 guaranty
 guarantying
 guarddog
@@ -50714,6 +50730,7 @@ horns
 hornstone
 hornstones
 hornswoggles
+hornswoggling
 horntail
 hornworm
 hornwort
@@ -53263,6 +53280,7 @@ inaugurator
 inaugurators
 inauspicious
 inauspiciously
+inauthentic
 inauthenticity
 inbeing
 inbeings
@@ -54907,6 +54925,7 @@ instant
 instantaneity
 instantaneous
 instantaneously
+instantiate
 instantiated
 instantiates
 instantiations
@@ -55580,6 +55599,7 @@ interrogatory
 interrogee
 interrow
 interrupted
+interrupter
 interrupters
 interruptible
 interrupting
@@ -70109,6 +70129,7 @@ nattiest
 nattily
 nattiness
 nattinesses
+natural
 naturalised
 naturalising
 naturalism
@@ -73374,6 +73395,7 @@ oddness
 oddnesses
 odds
 oddsmaker
+ode
 odeons
 odeums
 odic
@@ -77310,6 +77332,7 @@ painfully
 painfulness
 painfulnesses
 painkiller
+painkillers
 painkilling
 painless
 painlessness
@@ -84577,6 +84600,7 @@ prefades
 prefading
 prefascist
 prefatory
+prefectures
 prefer
 preferable
 preferably
@@ -86047,6 +86071,7 @@ prolong
 prolongation
 prolongations
 prolonged
+prolonger
 prolonging
 prolusion
 prolusory
@@ -90285,6 +90310,7 @@ redcap
 redcaps
 redcoats
 redd
+redded
 redden
 reddened
 reddening
@@ -92538,6 +92564,7 @@ reprographers
 reprographic
 reprographics
 reprographies
+reprography
 reproof
 reproofs
 reproval
@@ -96700,6 +96727,7 @@ sauropods
 saury
 sausage
 sausages
+saute
 sauted
 sauteed
 sauteing
@@ -99605,6 +99633,7 @@ sheesh
 sheet
 sheeted
 sheeter
+sheeters
 sheetfed
 sheeting
 sheetings
@@ -107659,6 +107688,7 @@ suicided
 suicides
 suiciding
 suing
+suint
 suints
 suit
 suitability
@@ -109395,6 +109425,7 @@ synod
 synodal
 synodic
 synodical
+synods
 synoicous
 synonymes
 synonymic
@@ -116981,6 +117012,7 @@ underspins
 understaffed
 understaffing
 understaffings
+understand
 understandable
 understanding
 understandingly
@@ -121053,6 +121085,7 @@ vivisectionists
 vivisections
 vivisectors
 vivisects
+vixenish
 vixens
 vizard
 vizarded
@@ -121985,6 +122018,7 @@ waterbeds
 waterbird
 waterbirds
 waterborne
+waterbuck
 waterbus
 waterbuses
 waterbusses
@@ -123263,6 +123297,7 @@ windway
 windways
 windy
 wine
+wined
 wineglass
 wineglasses
 winegrower
