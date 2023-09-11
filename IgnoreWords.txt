@@ -1394,6 +1394,7 @@ aeronomy
 aeropause
 aerophobe
 aerophobes
+aerophores
 aerophyte
 aerophytes
 aeroplane
@@ -9201,6 +9202,7 @@ behaviorally
 behaviorisms
 behaviorist
 behaviours
+behead
 beheadal
 beheadals
 beheaded
@@ -11243,6 +11245,7 @@ bloodworm
 bloodwort
 bloodworts
 bloody
+blooey
 blooie
 bloomers
 bloomery
@@ -13313,6 +13316,7 @@ brownshirts
 brownstones
 browridge
 browridges
+browsable
 browsed
 browsers
 browsing
@@ -16018,6 +16022,7 @@ casemate
 casemated
 casemates
 caseose
+caseoses
 caseous
 casern
 caserne
@@ -18040,6 +18045,7 @@ chiseler
 chiselers
 chiselled
 chiseller
+chiselling
 chisels
 chital
 chitchat
@@ -19829,6 +19835,7 @@ cobweb
 cobwebbier
 cobwebbiest
 cobwebbing
+cobwebby
 cobwebs
 cocain
 cocainism
@@ -30597,6 +30604,7 @@ disfurnishing
 disfurnishment
 disfurnishments
 disgorged
+disgorges
 disgorging
 disgrace
 disgraced
@@ -30954,6 +30962,7 @@ dispraising
 dispraisingly
 dispread
 dispreading
+dispreads
 disprize
 disprized
 disprizes
@@ -34792,6 +34801,7 @@ emulsifications
 emulsifiers
 emulsifying
 emulsion
+emulsions
 emulsive
 emulsoids
 emunctories
@@ -35115,6 +35125,7 @@ endoperoxides
 endoplasm
 endoplasms
 endopod
+endopods
 endopolyploid
 endopolyploidy
 endoproct
@@ -36644,6 +36655,7 @@ estancia
 estated
 estates
 estating
+esteemed
 esterases
 esterification
 esterifications
@@ -43843,6 +43855,7 @@ garble
 garbled
 garbler
 garblers
+garbles
 garbless
 garbling
 garboard
@@ -44151,6 +44164,7 @@ gawking
 gawkish
 gawkishly
 gawkishnesses
+gawped
 gawpers
 gawps
 gawsie
@@ -56701,6 +56715,7 @@ isoleucines
 isoline
 isolines
 isolog
+isologous
 isologs
 isologues
 isomerases
@@ -69536,6 +69551,7 @@ muscling
 muscly
 muscovados
 muscovite
+muscularity
 muscularly
 musculature
 musculatures
@@ -73392,6 +73408,7 @@ occiput
 occiputs
 occluded
 occluding
+occlusion
 occlusions
 occlusive
 occlusives
@@ -74114,6 +74131,7 @@ opened
 opener
 openers
 openest
+openhanded
 openhandedness
 openhearted
 openheartedness
@@ -77574,6 +77592,7 @@ paleal
 paleate
 paleface
 palefaces
+palely
 paleness
 paleobiologies
 paleobiologist
@@ -79999,6 +80018,7 @@ periphery
 periphrases
 periphrasis
 periphrastic
+periphytic
 periphyton
 periphytons
 periplasm
@@ -80113,6 +80133,7 @@ perorator
 perorators
 perovskite
 perovskites
+peroxid
 peroxidase
 peroxide
 peroxided
@@ -85874,6 +85895,7 @@ probang
 probangs
 probated
 probates
+probating
 probation
 probationally
 probationary
@@ -90666,6 +90688,7 @@ redocked
 redoes
 redoing
 redolences
+redolencies
 redolent
 redonning
 redons
@@ -91019,6 +91042,7 @@ referral
 referrals
 referrer
 referring
+refers
 refighting
 refights
 refigure
@@ -93017,6 +93041,7 @@ resemblances
 resemblant
 resembled
 resemblers
+resembles
 resembling
 resend
 resends
@@ -96990,6 +97015,7 @@ savviest
 savvily
 savviness
 savvinesses
+savvy
 saw
 sawbill
 sawbills
@@ -97222,6 +97248,7 @@ scarifiers
 scarifyingly
 scarily
 scariness
+scarinesses
 scariose
 scarious
 scarlatinal
@@ -99196,6 +99223,7 @@ serif
 serifed
 seriffed
 serifs
+serigrapher
 serigraphers
 serigraphies
 serigraphs
@@ -99296,6 +99324,7 @@ servile
 servilely
 servilenesses
 serving
+servitor
 servitors
 servitudes
 servo
@@ -103198,6 +103227,7 @@ somites
 sommeliers
 somnambulated
 somnambulates
+somnambulating
 somnambulation
 somnambulations
 somnambulisms
@@ -116456,6 +116486,7 @@ unarguably
 unargued
 unarm
 unarmed
+unaroused
 unarrayed
 unarrogant
 unarticulated
@@ -118903,6 +118934,7 @@ untimelier
 untimeliness
 untimely
 untimeous
+untinged
 untipped
 untiringly
 unto
@@ -123648,6 +123680,7 @@ wirable
 wire
 wired
 wiredraw
+wiredrawers
 wiredrawing
 wiredrawn
 wiredrew
@@ -124099,6 +124132,7 @@ workabilities
 workable
 workableness
 workablenesses
+workably
 workaday
 workaholics
 workaholisms
@@ -125244,6 +125278,7 @@ zonate
 zonated
 zoneless
 zoner
+zoners
 zonetimes
 zonk
 zonked
