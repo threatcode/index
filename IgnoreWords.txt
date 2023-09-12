@@ -8230,6 +8230,7 @@ barny
 barnyard
 baroceptor
 barogram
+barograms
 barograph
 barographic
 barographs
@@ -16408,6 +16409,7 @@ catholicos
 catholicoses
 catholics
 cathouse
+cation
 cationically
 catjang
 catkin
@@ -18113,6 +18115,7 @@ chitter
 chittered
 chittering
 chitties
+chivalric
 chivalrous
 chivalrously
 chivalry
@@ -21861,6 +21864,7 @@ confiscated
 confiscates
 confiscating
 confiscations
+confit
 confiteor
 confits
 conflagrant
@@ -28183,6 +28187,7 @@ denervated
 denervates
 denervation
 dengue
+deni
 deniabilities
 deniability
 deniable
@@ -32505,6 +32510,7 @@ drastically
 drat
 dratted
 dratting
+draught
 draughted
 draughtier
 draughtiest
@@ -36203,6 +36209,7 @@ epiphytology
 epiphytotic
 epiphytotics
 epirogeny
+episcia
 episcopacies
 episcopacy
 episcopal
@@ -36300,6 +36307,7 @@ epopoeias
 epos
 eposes
 epoxidation
+epoxidations
 epoxidized
 epoxidizing
 epoxied
@@ -37425,6 +37433,7 @@ exahertz
 exahertzes
 exaltation
 exaltations
+exaltedly
 exalter
 exalters
 exalting
@@ -40034,6 +40043,7 @@ figurehead
 figureheads
 figurer
 figurers
+figures
 figurine
 figwort
 figworts
@@ -41500,6 +41510,7 @@ focused
 focuser
 focusers
 focusless
+focussed
 focusses
 focussing
 fodder
@@ -45075,6 +45086,7 @@ gingellis
 gingelly
 ginger
 gingerbread
+gingerbreaded
 gingerbreads
 gingerbready
 gingered
@@ -49494,6 +49506,7 @@ hemostatics
 hemostats
 hemotoxic
 hemotoxins
+hemp
 hempen
 hempier
 hempiest
@@ -57303,6 +57316,7 @@ jaspery
 jaspilite
 jaspilites
 jassid
+jassids
 jato
 jauk
 jauked
@@ -57370,6 +57384,7 @@ jealousness
 jealousy
 jean
 jeaned
+jeans
 jee
 jeed
 jeepers
@@ -57391,6 +57406,7 @@ jejuna
 jejuneness
 jejunities
 jellaba
+jellabas
 jellies
 jellified
 jellifies
@@ -58031,6 +58047,7 @@ jupon
 jupons
 jura
 jurally
+jurassic
 juratory
 jurats
 jurels
@@ -60320,6 +60337,7 @@ laves
 laving
 lavish
 lavished
+lavishes
 lavishing
 lavrock
 lavrocks
@@ -65517,6 +65535,7 @@ mentioned
 mentioner
 mentioners
 mentioning
+mentions
 mentor
 mentored
 mentorship
@@ -69643,6 +69662,7 @@ mummifying
 mumming
 mumms
 mump
+mumped
 mumper
 mumping
 mums
@@ -79241,6 +79261,7 @@ paunchy
 paupered
 paupering
 pauperism
+pauperisms
 pauperize
 pauperized
 pauperizing
@@ -79500,6 +79521,7 @@ pedaler
 pedalers
 pedalfers
 pedalier
+pedaling
 pedalled
 pedaller
 pedalling
@@ -86586,6 +86608,7 @@ promotional
 promotions
 promotive
 promotiveness
+promotivenesses
 prompt
 promptbook
 promptbooks
@@ -87898,6 +87921,7 @@ purplish
 purported
 purportedly
 purporting
+purports
 purpose
 purposed
 purposeful
@@ -88695,10 +88719,12 @@ quinol
 quinoline
 quinolins
 quinolone
+quinolones
 quinols
 quinone
 quinonoid
 quinquennia
+quinquennially
 quinquennials
 quinquennium
 quins
@@ -91990,6 +92016,7 @@ reinstallations
 reinstalled
 reinstalling
 reinstate
+reinstated
 reinstatement
 reinstatements
 reinstates
@@ -101634,6 +101661,7 @@ sixty
 sizable
 sizableness
 sizablenesses
+sizably
 sizar
 sizarship
 sizarships
@@ -106361,6 +106389,7 @@ stockade
 stockaded
 stockading
 stockage
+stockbreeder
 stockbreeders
 stockbroker
 stockbrokerage
@@ -111056,6 +111085,7 @@ teardrops
 tearer
 tearers
 tearful
+tearfully
 tearfulnesses
 teargas
 teargassing
@@ -111814,6 +111844,7 @@ territ
 territorial
 territorialisms
 territorialist
+territorialists
 territorialize
 territorialized
 territorials
@@ -113790,6 +113821,7 @@ torpedoed
 torpedoes
 torpedos
 torpid
+torpidities
 torpidly
 torpids
 torpor
@@ -116663,6 +116695,7 @@ ultraslick
 ultrasmall
 ultrasmart
 ultrasmooth
+ultrasoft
 ultrasonic
 ultrasonically
 ultrasonics
@@ -122459,6 +122492,7 @@ wantoner
 wantoners
 wantonly
 wantonnesses
+wants
 wany
 wap
 wapentake
@@ -122762,6 +122796,7 @@ waterproofers
 waterproofings
 waterproofness
 waters
+watershed
 watersheds
 waterside
 watersides
