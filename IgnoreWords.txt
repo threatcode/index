@@ -2895,6 +2895,7 @@ ambers
 ambiance
 ambiances
 ambidexterities
+ambidexterity
 ambidextrous
 ambidextrously
 ambiences
@@ -3805,6 +3806,7 @@ anisotropisms
 anisotropy
 ankerite
 ankh
+anklebones
 ankled
 anklet
 ankling
@@ -9739,6 +9741,7 @@ besmoothed
 besmooths
 besmudge
 besmudges
+besmuts
 besmutting
 besnow
 besnowed
@@ -11435,6 +11438,7 @@ blueshifted
 blueshifts
 bluesman
 bluesmen
+bluest
 bluestem
 bluestocking
 bluestone
@@ -20143,6 +20147,7 @@ codevelops
 codex
 codfish
 codfishes
+codger
 codgers
 codices
 codicils
@@ -20768,6 +20773,7 @@ colonisations
 colonise
 colonised
 colonises
+colonising
 colonist
 colonists
 colonitis
@@ -22443,6 +22449,7 @@ contacting
 contactor
 contacts
 contagions
+contagious
 contagiousness
 contagium
 contain
@@ -23820,6 +23827,7 @@ countering
 counterinstance
 counterion
 counterirritant
+counterman
 countermanded
 countermanding
 countermarched
@@ -27980,6 +27988,7 @@ delved
 delver
 delvers
 demagnetization
+demagnetize
 demagnetized
 demagnetizer
 demagnetizing
@@ -30433,6 +30442,7 @@ disbranched
 disbranching
 disbudded
 disburden
+disburdened
 disbursal
 disbursals
 disburse
@@ -38336,6 +38346,7 @@ externalisation
 externalised
 externalisms
 externalities
+externalization
 externalize
 externalizes
 externalizing
@@ -44730,6 +44741,7 @@ genuses
 geobotanical
 geobotanies
 geobotanists
+geobotany
 geocentrically
 geochemical
 geochemically
@@ -46410,6 +46422,7 @@ grainers
 grainfield
 graininess
 graining
+grains
 gram
 grama
 gramaries
@@ -54321,6 +54334,7 @@ indomitability
 indomitable
 indomitableness
 indoor
+indoors
 indophenol
 indophenols
 indorsed
@@ -55033,6 +55047,7 @@ innkeepers
 innless
 innocency
 innocent
+innocenter
 innocentest
 innocently
 innocents
@@ -55866,6 +55881,7 @@ intermingle
 intermingled
 intermingles
 intermission
+intermit
 intermitotic
 intermits
 intermittences
@@ -58454,6 +58470,7 @@ kavakavas
 kavas
 kavass
 kayak
+kayaked
 kayaker
 kayakers
 kayaking
@@ -62549,6 +62566,7 @@ looies
 looing
 look
 lookalike
+lookalikes
 lookdown
 lookdowns
 looked
@@ -63573,6 +63591,7 @@ magnanimity
 magnanimous
 magnanimously
 magnanimousness
+magnates
 magnesia
 magnesian
 magnesias
@@ -64027,6 +64046,7 @@ mandamusing
 mandarinates
 mandarinic
 mandarins
+mandataries
 mandatary
 mandated
 mandating
@@ -71659,6 +71679,7 @@ ninepin
 ninepins
 nines
 nineteens
+nineteenth
 nineties
 ninety
 ninhydrin
@@ -72264,6 +72285,7 @@ nonencapsulated
 nonending
 nonenergy
 nonenforcement
+nonenforcements
 nonengagement
 nonentities
 nonentity
@@ -80406,6 +80428,7 @@ perilled
 perilling
 perilous
 perilousnesses
+perilune
 perilymph
 perilymphs
 perimeter
@@ -91666,6 +91689,7 @@ reformer
 reformisms
 reformist
 reformists
+reformulate
 reformulated
 reformulating
 reformulation
@@ -92701,6 +92725,7 @@ remonstrator
 remontant
 remontants
 remoras
+remorid
 remorsefully
 remorsefulness
 remorseless
@@ -95154,6 +95179,7 @@ rimers
 rimester
 rimfire
 rimfires
+rimier
 riminess
 riminesses
 riming
@@ -97960,6 +97986,7 @@ schlumped
 schlumpier
 schlumping
 schlumps
+schlumpy
 schmaltz
 schmaltziest
 schmaltzy
@@ -101398,6 +101425,7 @@ signification
 significations
 significative
 significs
+signified
 signifieds
 signifiers
 signifies
@@ -108713,6 +108741,7 @@ sump
 sumps
 sumpter
 sumpters
+sumptuary
 sumptuous
 sumptuously
 sumptuousnesses
@@ -109975,6 +110004,7 @@ sybarites
 sybaritic
 sybaritically
 sybaritisms
+sybo
 syboes
 sycamines
 sycamore
@@ -111684,6 +111714,7 @@ temporaries
 temporarily
 temporariness
 temporise
+temporised
 temporises
 temporization
 temporizations
@@ -112561,6 +112592,7 @@ thiaminases
 thiamine
 thiamines
 thiazide
+thiazin
 thiazine
 thiazines
 thiazins
@@ -118794,6 +118826,7 @@ unmake
 unmaker
 unmakers
 unmaking
+unmalicious
 unmaliciously
 unmanageable
 unmanageably
@@ -121090,6 +121123,7 @@ ventilate
 ventilated
 ventilating
 ventilation
+ventilations
 ventilators
 ventilatory
 venting
@@ -122196,6 +122230,7 @@ voltage
 voltages
 voltaic
 voltaism
+volte
 voltmeter
 voltmeters
 volts
