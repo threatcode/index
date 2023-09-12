@@ -1729,6 +1729,7 @@ agglutinogens
 aggradation
 aggrade
 aggraded
+aggrading
 aggrandised
 aggrandises
 aggrandising
@@ -3457,6 +3458,7 @@ anaphrodisiacs
 anaphylactoid
 anaphylaxis
 anaplasias
+anaplasmosis
 anaptyxes
 anarch
 anarchical
@@ -8121,6 +8123,7 @@ barbarically
 barbarism
 barbarities
 barbarizations
+barbarized
 barbarizes
 barbarizing
 barbarous
@@ -14641,6 +14644,7 @@ caiques
 cairds
 cairngorm
 cairngorms
+cairns
 cairny
 caisson
 caissons
@@ -16093,6 +16097,7 @@ carvacrols
 carve
 carvel
 carvings
+carwash
 carwashes
 caryatic
 caryatides
@@ -21330,6 +21335,7 @@ compellations
 compelled
 compeller
 compelling
+compels
 compend
 compendious
 compendiously
@@ -24314,6 +24320,7 @@ crackajacks
 crackback
 crackbacks
 crackbrained
+crackbrains
 crackdowns
 crackerjack
 crackerjacks
@@ -26482,6 +26489,7 @@ dandelions
 dander
 dandering
 dandiacal
+dandier
 dandies
 dandiest
 dandified
@@ -27149,6 +27157,7 @@ decigrams
 decile
 deciliter
 deciliters
+decilitres
 decillion
 decimal
 decimalization
@@ -28102,6 +28111,7 @@ dementedness
 dementednesses
 dementia
 demential
+dements
 demerara
 demeraran
 demeraras
@@ -35572,6 +35582,7 @@ engagements
 engagers
 engaging
 engagingly
+engarland
 engarlanding
 engarlands
 engender
@@ -38388,6 +38399,7 @@ extendable
 extendedness
 extendednesses
 extenders
+extending
 extends
 extensibilities
 extensible
@@ -39529,6 +39541,7 @@ feculae
 feculences
 fecund
 fecundate
+fecundated
 fecundating
 fecundation
 fecundations
@@ -40342,6 +40355,7 @@ filmographies
 filmography
 films
 filmsetter
+filmsetters
 filmsetting
 filmsettings
 filmstrip
@@ -48605,6 +48619,7 @@ hantaviruses
 hanted
 hanting
 hantle
+hantles
 hants
 hanuman
 hanumans
@@ -49465,6 +49480,7 @@ heights
 heil
 heiled
 heiling
+heimish
 heinie
 heinies
 heinous
@@ -59921,6 +59937,7 @@ laetrile
 laevo
 lag
 lagend
+lagends
 lager
 lagered
 lagers
@@ -72156,6 +72173,7 @@ nonagricultural
 nonalcoholic
 nonalignment
 nonalphabetic
+nonaluminum
 nonambiguous
 nonanimal
 nonanswer
@@ -72426,6 +72444,7 @@ nondiabetic
 nondiabetics
 nondialyzable
 nondiapausing
+nondiffusible
 nondirected
 nondirectional
 nondisabled
@@ -75330,6 +75349,7 @@ orthostatic
 orthotic
 orthotics
 orthotropous
+ortolan
 ortolans
 orts
 oryx
@@ -77110,6 +77130,7 @@ overheard
 overheat
 overheating
 overheats
+overhigh
 overhold
 overholds
 overholy
@@ -78786,6 +78807,7 @@ paradrops
 paraesthesias
 paraffin
 paraffine
+paraffined
 paraffines
 paraffining
 paraffins
@@ -87057,6 +87079,7 @@ pronominal
 pronominally
 pronota
 pronotum
+pronoun
 pronounce
 pronounceable
 pronounced
@@ -90042,6 +90065,7 @@ ratlike
 ratline
 ratlins
 ratoon
+ratooned
 ratooners
 ratooning
 ratoons
@@ -90076,6 +90100,7 @@ ratton
 rattons
 rattoon
 rattooned
+rattoons
 rattrap
 rattraps
 ratty
@@ -92957,6 +92982,7 @@ remoistening
 remoistens
 remolade
 remolades
+remold
 remolding
 remolds
 remonetized
@@ -103611,6 +103637,7 @@ snubbiness
 snubbing
 snubby
 snubness
+snubnesses
 snubs
 snuck
 snuff
@@ -105280,6 +105307,7 @@ splaying
 splays
 spleen
 spleenier
+spleeniest
 spleenish
 spleens
 spleenwort
@@ -106016,6 +106044,7 @@ stagy
 staid
 staider
 staidly
+staidness
 staig
 staigs
 stain
@@ -114023,6 +114052,7 @@ tollbar
 tollbars
 tollbooth
 tollbooths
+toller
 tollgates
 tollhouse
 tollhouses
@@ -114378,6 +114408,7 @@ torpids
 torpor
 torpors
 torquate
+torque
 torqued
 torquer
 torquers
@@ -115084,6 +115115,7 @@ transmittances
 transmitted
 transmitter
 transmitters
+transmitting
 transmogrified
 transmogrifies
 transmogrify
@@ -117641,6 +117673,7 @@ unbreeches
 unbridged
 unbridle
 unbright
+unbrilliant
 unbroiled
 unbroke
 unbroken
@@ -121347,6 +121380,7 @@ velocity
 velodromes
 velour
 velours
+veloute
 veloutes
 velum
 velure
@@ -121711,6 +121745,7 @@ vesicle
 vesiculae
 vesicular
 vesicularities
+vesicularity
 vesiculate
 vesiculates
 vesiculating
