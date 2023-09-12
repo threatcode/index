@@ -4246,6 +4246,7 @@ antigraft
 antigravities
 antigrowth
 antigun
+antihelices
 antihelixes
 antihero
 antiheroes
@@ -9784,6 +9785,7 @@ bestirred
 bestirring
 bestirs
 bestowal
+bestowals
 bestowed
 bestowers
 bestows
@@ -13720,6 +13722,7 @@ bulletined
 bulleting
 bulletining
 bullfight
+bullfighter
 bullfighters
 bullfighting
 bullfightings
@@ -19500,6 +19503,7 @@ cloaked
 cloaking
 cloakroom
 cloakrooms
+clobbered
 clobbering
 clochards
 cloches
@@ -26723,6 +26727,7 @@ deadlining
 deadlock
 deadlocked
 deadlocking
+deadlocks
 deadly
 deadmen
 deadnesses
@@ -31843,6 +31848,7 @@ dogteeth
 dogtooth
 dogtrot
 dogtrots
+dogtrotted
 dogtrotting
 dogvanes
 dogwatch
@@ -36182,6 +36188,7 @@ epigenetic
 epigenetically
 epigenist
 epigenists
+epigenous
 epigeous
 epiglottal
 epiglottic
@@ -40356,6 +40363,7 @@ finks
 finless
 finlike
 finmark
+finmarks
 finnickier
 finnickiest
 finnier
@@ -40583,6 +40591,7 @@ fitfully
 fitfulness
 fitfulnesses
 fitness
+fitnesses
 fits
 fittable
 fitters
@@ -43477,6 +43486,7 @@ further
 furtherance
 furtherances
 furthered
+furtherers
 furthering
 furthermost
 furthers
@@ -45752,6 +45762,7 @@ glutted
 glutting
 glutton
 gluttonies
+gluttonous
 gluttons
 glycan
 glycans
@@ -56441,6 +56452,7 @@ inversely
 inverses
 inversing
 inversions
+inversive
 invert
 invertase
 invertases
@@ -57883,6 +57895,7 @@ joual
 jouk
 jouking
 jouks
+joule
 joules
 jounced
 jouncier
@@ -61125,6 +61138,7 @@ leverages
 levered
 leveret
 leverets
+levers
 leviable
 leviathan
 leviathans
@@ -62140,6 +62154,7 @@ loanword
 loath
 loathed
 loather
+loathers
 loathes
 loathful
 loathing
@@ -63154,6 +63169,7 @@ lyard
 lyart
 lyase
 lyases
+lycanthropies
 lycea
 lycee
 lycees
@@ -64104,6 +64120,7 @@ manifestoes
 manifestos
 manifests
 manifold
+manifolded
 manifoldness
 manifoldnesses
 manifolds
@@ -67255,6 +67272,7 @@ miscalculation
 miscalculations
 miscall
 miscalled
+miscaller
 miscallers
 miscaptioned
 miscaptioning
@@ -70403,6 +70421,7 @@ nam
 namable
 namaycush
 namaycushes
+name
 nameable
 named
 namelessly
@@ -85145,6 +85164,7 @@ preelect
 preelected
 preelecting
 preelectric
+preembargo
 preemergence
 preemergent
 preemie
@@ -85355,6 +85375,7 @@ prelibations
 prelim
 preliminaries
 prelimit
+prelimited
 prelimiting
 preliterate
 prelives
@@ -86232,6 +86253,7 @@ priseres
 prises
 prism
 prismatic
+prismatically
 prismatoid
 prismoidal
 prisms
@@ -94121,6 +94143,7 @@ reticently
 reticle
 reticula
 reticulate
+reticulated
 reticulately
 reticulates
 reticulating
@@ -94576,6 +94599,7 @@ revoker
 revokers
 revoking
 revolter
+revolting
 revolute
 revolution
 revolutionaries
@@ -94936,6 +94960,7 @@ ricocheted
 ricocheting
 ricochets
 ricochetted
+ricochetting
 ricotta
 ricracs
 rictus
@@ -96610,6 +96635,7 @@ sahuaros
 saice
 said
 saids
+saiga
 saigas
 sail
 sailable
@@ -100727,6 +100753,7 @@ shoddy
 shoe
 shoebill
 shoebills
+shoeblack
 shoeblacks
 shoebox
 shoeboxes
@@ -101179,6 +101206,7 @@ sics
 siddurim
 siddurs
 side
+sidearms
 sideband
 sidebar
 sideboard
@@ -101695,6 +101723,7 @@ siphonophore
 siphonostele
 siphonosteles
 siping
+sipped
 sippers
 sippet
 sippets
@@ -105835,6 +105864,7 @@ stardoms
 stardust
 stared
 starer
+starets
 starfish
 starfishes
 starflower
@@ -112861,6 +112891,7 @@ throttling
 through
 throughither
 throughly
+throughout
 throughput
 throughputs
 throwaway
@@ -114933,6 +114964,7 @@ trebuckets
 trecento
 trecentos
 treddle
+treddled
 treddles
 tredecillions
 tree
@@ -119796,6 +119828,7 @@ upflowed
 upflung
 upfold
 upfolded
+upfolding
 upfolds
 upfront
 upgathering
@@ -120012,6 +120045,7 @@ uptearing
 uptears
 uptempo
 uptempos
+upthrow
 upthrown
 upthrows
 upthrust
@@ -121181,6 +121215,7 @@ vermilioned
 vermilioning
 vermillion
 vermillions
+vermin
 vermis
 vermoulu
 vermouth
