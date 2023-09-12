@@ -4076,6 +4076,7 @@ anthropoid
 anthropologies
 anthropologist
 anthropologists
+anthropometric
 anthropometries
 anthropometry
 anthropomorph
@@ -4870,6 +4871,7 @@ aposporic
 apospories
 aposporous
 apospory
+apostacy
 apostasies
 apostasy
 apostatised
@@ -17180,6 +17182,7 @@ chalcedony
 chalcid
 chalcids
 chalcocite
+chalcocites
 chalcogen
 chalcogenides
 chalcogens
@@ -18328,6 +18331,7 @@ cholents
 choler
 cholera
 choleraic
+choleric
 cholers
 cholestases
 cholestasis
@@ -19488,6 +19492,7 @@ clingfishes
 clingier
 clingiest
 clinging
+clings
 clingstone
 clingstones
 clingy
@@ -19761,6 +19766,7 @@ clung
 clunk
 clunked
 clunker
+clunkers
 clunkiest
 clunking
 clunks
@@ -28701,6 +28707,7 @@ derelicts
 derepresses
 derepression
 derepressions
+deride
 derided
 derider
 deriders
@@ -29530,6 +29537,7 @@ dialling
 diallist
 diallists
 dialog
+dialoger
 dialogers
 dialogic
 dialogical
@@ -30455,6 +30463,7 @@ disarmament
 disarmaments
 disarmed
 disarmer
+disarmers
 disarming
 disarmingly
 disarms
@@ -31715,6 +31724,7 @@ divorcement
 divorcements
 divorcer
 divorcers
+divorces
 divorcing
 divorcive
 divulgated
@@ -41007,6 +41017,7 @@ flavine
 flavone
 flavones
 flavonoid
+flavonoids
 flavonols
 flavoprotein
 flavoproteins
@@ -46830,6 +46841,7 @@ gravimetry
 gravitas
 gravitases
 gravitate
+gravitates
 gravitation
 gravitational
 gravitationally
@@ -49142,6 +49154,7 @@ headlessness
 headlessnesses
 headlight
 headliners
+headlining
 headlock
 headlong
 headman
@@ -58019,6 +58032,7 @@ jollier
 jolliers
 jollies
 jolliest
+jollification
 jollifications
 jollified
 jollifies
@@ -70318,6 +70332,7 @@ muzzled
 muzzler
 muzzles
 muzzling
+muzzy
 myalgia
 myalgias
 myalgic
@@ -71620,6 +71635,7 @@ newsstand
 newsstands
 newsweeklies
 newswire
+newswoman
 newswomen
 newsworthy
 newswriting
@@ -75183,6 +75199,7 @@ oriole
 orioles
 orisha
 orismological
+orismologies
 orismology
 orisons
 orle
@@ -76460,6 +76477,7 @@ outtowered
 outtowering
 outtowers
 outtrade
+outtraded
 outtrades
 outtrading
 outtravel
@@ -77784,6 +77802,7 @@ ovule
 ovum
 owe
 owed
+owes
 owl
 owlets
 owlish
@@ -82363,6 +82382,7 @@ pineapple
 pinecone
 pinecones
 pined
+pinedrops
 pineland
 pinelike
 pinene
@@ -83176,6 +83196,7 @@ pleasureless
 pleasures
 pleasuring
 pleat
+pleated
 pleaters
 pleather
 pleatless
@@ -84535,6 +84556,7 @@ posteriority
 posterities
 posterity
 posterns
+posterolateral
 posters
 posteruptive
 postexilic
@@ -84646,6 +84668,7 @@ postriot
 postromantic
 posts
 postseason
+postseasons
 postshow
 poststimulatory
 poststimulus
@@ -91447,6 +91470,7 @@ redrafting
 redrafts
 redraw
 redrawing
+redrawn
 redraws
 redream
 redreams
@@ -94250,6 +94274,7 @@ restyling
 resubject
 resubjects
 resubmission
+resubmissions
 resubmits
 resubmitted
 result
@@ -96546,6 +96571,7 @@ runless
 runlet
 runlets
 runners
+runniness
 runninesses
 running
 runny
@@ -98073,6 +98099,7 @@ scathingly
 scatological
 scatology
 scats
+scatt
 scatted
 scatter
 scatterbrain
@@ -100224,6 +100251,7 @@ severer
 severest
 severing
 severities
+severity
 severs
 seviche
 seviches
@@ -102353,6 +102381,7 @@ skirtless
 skirts
 skis
 skit
+skite
 skited
 skites
 skiting
@@ -109097,6 +109126,7 @@ sunshiny
 sunspot
 sunspots
 sunstones
+sunstroke
 sunstrokes
 sunstruck
 sunsuit
@@ -116385,6 +116415,7 @@ tuftings
 tufts
 tufty
 tug
+tugged
 tugger
 tugging
 tughriks
@@ -119587,6 +119618,7 @@ unscarred
 unscented
 unschooled
 unscientific
+unscramble
 unscrambler
 unscramblers
 unscrambles
@@ -120804,6 +120836,7 @@ vale
 valedictions
 valedictorian
 valedictorians
+valedictories
 valences
 valencia
 valencias
@@ -121664,6 +121697,7 @@ vertigos
 verts
 vertu
 vervain
+vervains
 verve
 vervet
 very
@@ -125659,6 +125693,7 @@ yaks
 yakuza
 yald
 yam
+yamalka
 yamen
 yamens
 yammer
