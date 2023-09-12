@@ -1967,6 +1967,7 @@ airbursts
 airbus
 airbuses
 airbusses
+aircheck
 airchecks
 aircoach
 aircoaches
@@ -7676,6 +7677,7 @@ bahadurs
 baht
 bahts
 bahuvrihis
+baidarkas
 bail
 bailed
 bailee
@@ -9948,6 +9950,7 @@ bheestie
 bheesties
 bheesty
 bhistie
+bhisties
 bhoot
 bhoots
 bhut
@@ -11649,6 +11652,7 @@ boffing
 boffins
 boffo
 boffola
+boffolas
 boffos
 bog
 bogan
@@ -13098,6 +13102,7 @@ bristlier
 bristliest
 bristling
 bristly
+bristol
 bristols
 britannias
 britches
@@ -15082,6 +15087,7 @@ candleberry
 candlefish
 candlefishes
 candleholder
+candleholders
 candlelight
 candlelighted
 candlelighter
@@ -15826,6 +15832,7 @@ carmaker
 carmakers
 carman
 carminative
+carminatives
 carmines
 carn
 carnages
@@ -24975,6 +24982,7 @@ crowd
 crowded
 crowdedly
 crowdedness
+crowdednesses
 crowder
 crowders
 crowdie
@@ -27099,6 +27107,7 @@ declaw
 declawing
 declaws
 declension
+declensional
 declinable
 declination
 declinational
@@ -29670,6 +29679,7 @@ diddling
 diddly
 didgeridoo
 didgeridoos
+didie
 didjeridoo
 didjeridoos
 didjeridu
@@ -40136,6 +40146,7 @@ filmdom
 filmdoms
 filmed
 filmgoer
+filmgoers
 filmi
 filmically
 filmier
@@ -42618,6 +42629,7 @@ freeboards
 freeboot
 freeboots
 freeborn
+freed
 freedman
 freedmen
 freedom
@@ -47196,6 +47208,7 @@ grumose
 grumous
 grump
 grumped
+grumphie
 grumphies
 grumphy
 grumpier
@@ -47520,6 +47533,7 @@ gunslingers
 gunslinging
 gunslingings
 gunsmithing
+gunstock
 gunstocks
 gunwale
 gunwales
@@ -49975,6 +49989,7 @@ hiddennesses
 hideaway
 hideaways
 hidebound
+hideosity
 hideous
 hideously
 hideousness
@@ -53152,6 +53167,7 @@ imperfectly
 imperfectness
 imperfects
 imperforate
+imperia
 imperial
 imperialism
 imperialist
@@ -54736,6 +54752,7 @@ ingulf
 ingulfing
 ingulfs
 ingurgitate
+ingurgitated
 ingurgitates
 ingurgitating
 ingurgitations
@@ -58854,6 +58871,7 @@ kinematics
 kines
 kinescope
 kinescopes
+kinescoping
 kineses
 kinesic
 kinesics
@@ -79429,6 +79447,7 @@ pearlites
 pearlitic
 pearlized
 pearls
+pearly
 pearmains
 peart
 pearter
@@ -80079,6 +80098,7 @@ perceptively
 perceptiveness
 perceptivities
 perceptivity
+percepts
 perceptual
 perceptually
 perched
@@ -92116,6 +92136,7 @@ rejoicings
 rejoin
 rejoining
 rejudge
+rejuggle
 rejuggled
 rejuggles
 rejuggling
@@ -93788,6 +93809,7 @@ restoring
 restrained
 restrainedly
 restrainer
+restrainers
 restraining
 restraints
 restrengthened
@@ -93940,6 +93962,7 @@ retched
 retches
 retching
 rete
+reteach
 reteaches
 reteaching
 reteam
@@ -95166,6 +95189,7 @@ riverbank
 riverbed
 riverbeds
 riverboat
+riverboats
 riverfront
 riverfronts
 riverhead
@@ -99150,6 +99174,7 @@ semimild
 semimoist
 semimonastic
 semimonthlies
+semimonthly
 semina
 seminal
 seminally
@@ -100476,6 +100501,7 @@ shipwrecked
 shipwrecking
 shipwright
 shipyards
+shire
 shires
 shirk
 shirked
@@ -104139,6 +104165,7 @@ sparked
 sparker
 sparkers
 sparkier
+sparking
 sparkish
 sparkle
 sparkled
@@ -104790,6 +104817,7 @@ splendors
 splendour
 splenectomies
 splenectomize
+splenectomizes
 splenectomy
 splenetically
 splenetics
@@ -111979,6 +112007,7 @@ tetralogies
 tetralogy
 tetramer
 tetrameric
+tetramerous
 tetramers
 tetrameter
 tetrameters
@@ -114633,6 +114662,7 @@ trapezial
 trapezist
 trapezists
 trapezium
+trapeziums
 trapezius
 trapezohedra
 trapezohedrons
@@ -114689,6 +114719,7 @@ traumatized
 traumatizes
 traumatizing
 travail
+travailed
 travailing
 travails
 trave
@@ -115537,6 +115568,7 @@ troubleshoots
 troubleshot
 troublesomeness
 troubling
+troublousness
 troublousnesses
 trough
 troughs
@@ -119234,6 +119266,7 @@ unsteeled
 unsteeling
 unsteels
 unstemmed
+unstep
 unstepping
 unsteps
 unsterile
@@ -122030,6 +122063,7 @@ voodooed
 voodooing
 voodooism
 voodooisms
+voodooist
 voodooistic
 voraciously
 voraciousness
@@ -122204,6 +122238,7 @@ waddling
 waddying
 wade
 waded
+wader
 waders
 wades
 wadi
