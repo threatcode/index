@@ -3192,6 +3192,7 @@ amperes
 amperometric
 ampersand
 amphetamine
+amphetamines
 amphibia
 amphibian
 amphibians
@@ -3982,6 +3983,7 @@ antecedence
 antecedences
 antecedently
 antecedents
+antecedes
 anteceding
 antecessor
 antecessors
@@ -15774,6 +15776,7 @@ cardsharper
 cardsharpers
 cared
 careen
+careened
 careening
 careens
 career
@@ -27855,6 +27858,7 @@ del
 delaine
 delaines
 delaminate
+delaminated
 delaminates
 delaminations
 delate
@@ -29022,6 +29026,7 @@ detailedness
 detailednesses
 detailer
 detailings
+detain
 detained
 detainees
 detainers
@@ -29605,6 +29610,7 @@ diatessaron
 diathermanous
 diathermic
 diathermy
+diatheses
 diathesis
 diatom
 diatomaceous
@@ -37848,6 +37854,7 @@ exhalant
 exhalants
 exhalation
 exhalations
+exhale
 exhaled
 exhalents
 exhaust
@@ -39191,6 +39198,7 @@ fas
 fascia
 fascial
 fascias
+fasciation
 fasciations
 fascicle
 fascicled
@@ -44647,6 +44655,7 @@ genealogists
 genealogy
 genera
 generable
+generalcies
 generalcy
 generalisation
 generalisations
@@ -48727,6 +48736,7 @@ harmonics
 harmonies
 harmoniously
 harmoniousness
+harmonise
 harmonising
 harmonists
 harmonium
@@ -52182,6 +52192,7 @@ hyperinvolution
 hyperirritable
 hyperkeratoses
 hyperkeratosis
+hyperkeratotic
 hyperkineses
 hyperkinesia
 hyperkinesias
@@ -52433,6 +52444,7 @@ hypothecations
 hypothecator
 hypothecators
 hypothecs
+hypothermia
 hypothermias
 hypothermic
 hypotheses
@@ -54183,6 +54195,7 @@ indecentest
 indecently
 indecipherable
 indecision
+indecisive
 indecisiveness
 indeclinable
 indecomposable
@@ -66215,6 +66228,7 @@ methanols
 methaqualone
 methaqualones
 methedrine
+metheglin
 metheglins
 methemoglobin
 methemoglobins
@@ -71768,6 +71782,7 @@ ninnyish
 ninon
 ninons
 ninth
+ninthly
 niobic
 niobite
 niobites
@@ -82806,6 +82821,7 @@ planispheric
 planked
 planking
 planks
+plankter
 plankters
 plankton
 planktons
@@ -83773,6 +83789,7 @@ polycarbonates
 polycarpies
 polycarpy
 polycentrism
+polycentrisms
 polychaete
 polychetes
 polychotomies
@@ -88405,6 +88422,7 @@ pyodermic
 pyogenic
 pyoid
 pyorrhea
+pyorrheal
 pyorrheas
 pyorrhoea
 pyorrhoeas
@@ -89484,6 +89502,7 @@ rainbird
 rainbirds
 rainbows
 raincheck
+raincoat
 raincoats
 rained
 rainfall
@@ -90257,6 +90276,7 @@ reapportionment
 reappraisals
 reappraise
 reappraised
+reappraises
 reappraising
 reappropriate
 reappropriated
@@ -90944,6 +90964,7 @@ recordings
 recordist
 recordists
 records
+recork
 recorking
 recorks
 recount
@@ -92774,6 +92795,7 @@ remit
 remitment
 remitments
 remittable
+remittal
 remittals
 remittance
 remittances
@@ -101309,6 +101331,7 @@ sibilancies
 sibilancy
 sibilantly
 sibilate
+sibilated
 sibilates
 sibilation
 sibilations
@@ -103610,6 +103633,7 @@ soda
 sodaless
 sodalist
 sodalities
+sodality
 sodamide
 sodamides
 sodas
@@ -103857,6 +103881,7 @@ solubilise
 solubilised
 solubilises
 solubilising
+solubility
 solubilize
 solubilizing
 solubles
@@ -106765,6 +106790,7 @@ stockpiled
 stockpiler
 stockpilers
 stockpiles
+stockpiling
 stockpot
 stockpots
 stockroom
@@ -107062,6 +107088,7 @@ stramonies
 stramony
 strand
 strandednesses
+strander
 stranders
 strandlines
 strands
@@ -109929,6 +109956,7 @@ sweetshops
 sweetsop
 sweetsops
 swell
+swelled
 sweller
 swellfishes
 swellhead
@@ -109962,6 +109990,7 @@ swiftness
 swiftnesses
 swig
 swigged
+swiggers
 swigging
 swigs
 swill
@@ -111257,6 +111286,7 @@ tatar
 tatars
 tate
 tater
+tates
 tatouay
 tatouays
 tats
@@ -114869,6 +114899,7 @@ transliteration
 translocate
 translocated
 translocates
+translocations
 translucence
 translucences
 translucencies
@@ -115413,6 +115444,7 @@ trickles
 tricklier
 trickling
 trickly
+tricks
 tricksier
 tricksiest
 tricksiness
@@ -120441,6 +120473,7 @@ usablenesses
 usage
 usages
 usance
+usaunce
 usaunces
 used
 useful
@@ -123384,6 +123417,7 @@ weary
 weasands
 weasel
 weaseled
+weaselling
 weaselly
 weasely
 weasons
@@ -124517,6 +124551,7 @@ winterize
 winterized
 winterizing
 winterkill
+winterkills
 winterly
 winters
 wintertide
