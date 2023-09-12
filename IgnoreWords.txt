@@ -2198,6 +2198,7 @@ alcids
 alcohol
 alcoholically
 alcoholisms
+alcoves
 alcyonarians
 aldehyde
 aldehydic
@@ -4560,6 +4561,7 @@ antityphoid
 antiunion
 antiuniversity
 antiurban
+antivenom
 antiviolence
 antiviral
 antiviruses
@@ -12256,6 +12258,7 @@ botryose
 botrytis
 bott
 bottle
+bottlebrush
 bottlebrushes
 bottled
 bottlefuls
@@ -13967,6 +13970,7 @@ burke
 burked
 burker
 burkers
+burking
 burkites
 burl
 burladero
@@ -15903,6 +15907,7 @@ carp
 carpaccio
 carpale
 carpalia
+carpals
 carpellate
 carpels
 carpentered
@@ -24539,6 +24544,7 @@ cremating
 cremation
 cremations
 cremator
+crematoria
 crematorium
 crematoriums
 cremators
@@ -31136,6 +31142,7 @@ disreputable
 disreputably
 disrepute
 disreputes
+disrespect
 disrespected
 disrespectfully
 disrespecting
@@ -33265,6 +33272,7 @@ dustheaps
 dustier
 dustily
 dusting
+dustings
 dustlike
 dustman
 dustoff
@@ -33645,6 +33653,7 @@ ecclesiologists
 ecclesiology
 ecdyses
 ecdysial
+ecdysiast
 ecdysis
 ecdyson
 ecdysone
@@ -49692,6 +49701,7 @@ heresy
 heretic
 heretically
 heretics
+hereto
 heretofore
 heretrices
 heretrixes
@@ -52977,6 +52987,7 @@ immortalising
 immortalities
 immortality
 immortalization
+immortalize
 immortalized
 immortalizer
 immortalizes
@@ -54237,6 +54248,7 @@ indivisible
 indocilities
 indocility
 indoctrinated
+indoctrinating
 indoctrination
 indoctrinations
 indoctrinators
@@ -54450,6 +54462,7 @@ inexplainable
 inexplicable
 inexplicit
 inexpressibly
+inexpressive
 inexpugnable
 inexpungible
 inextricability
@@ -56887,6 +56900,7 @@ isoclinic
 isoclinics
 isocracies
 isocracy
+isocyanate
 isocyanates
 isodose
 isoelectric
@@ -57974,6 +57988,7 @@ juggles
 juggling
 jugglings
 jughead
+jugheads
 jugs
 jugsful
 jugula
@@ -60215,6 +60230,7 @@ lathe
 lather
 lathered
 latherer
+latherers
 lathering
 lathers
 lathes
@@ -62495,6 +62511,7 @@ looninesses
 loons
 loony
 loop
+looped
 looper
 loophole
 loopholed
@@ -67468,6 +67485,7 @@ misguessing
 misguidance
 misguidances
 misguidedly
+misguidedness
 misguider
 misguiders
 misguides
@@ -68241,6 +68259,7 @@ moleskin
 moleskins
 molest
 molestation
+molestations
 molested
 molester
 molesters
@@ -73409,6 +73428,7 @@ oaves
 oba
 obas
 obbligati
+obbligatos
 obconic
 obconical
 obcordate
@@ -75395,6 +75415,7 @@ outchided
 outcities
 outcity
 outclass
+outclassed
 outclasses
 outclimbing
 outclimbs
@@ -76174,6 +76195,7 @@ outvalue
 outvaunt
 outvaunted
 outvaunting
+outvaunts
 outvie
 outvied
 outvoice
@@ -76498,6 +76520,7 @@ overcooling
 overcools
 overcorrected
 overcorrecting
+overcorrects
 overcount
 overcounted
 overcounting
@@ -78749,6 +78772,7 @@ parle
 parled
 parles
 parleyed
+parleyer
 parleying
 parleys
 parliament
@@ -90241,6 +90265,7 @@ rebury
 reburying
 rebut
 rebuts
+rebuttal
 rebuttals
 rebutted
 rebutter
@@ -90708,6 +90733,7 @@ recordists
 records
 recorking
 recorks
+recount
 recountals
 recounter
 recounters
@@ -102694,6 +102720,7 @@ smerks
 smew
 smidgen
 smidgeon
+smidgeons
 smidges
 smidgin
 smiercase
@@ -107978,6 +108005,7 @@ subsisted
 subsistence
 subsister
 subsisters
+subsite
 subsites
 subskill
 subskills
@@ -113667,6 +113695,7 @@ tonnish
 tonometer
 tonometers
 tonometries
+tonometry
 tonoplast
 tonoplasts
 tonsil
@@ -115681,6 +115710,7 @@ truculently
 trudged
 trudgen
 trudgeon
+trudger
 trudgers
 trudges
 true
@@ -117141,6 +117171,7 @@ unbroken
 unbrowned
 unbruised
 unbrushed
+unbuckle
 unbuckled
 unbuckles
 unbudgeably
@@ -118436,6 +118467,7 @@ uniquer
 uniques
 uniquest
 unironed
+unironic
 unironically
 unirradiated
 unirrigated
@@ -119003,6 +119035,7 @@ unrested
 unrestful
 unresting
 unrestored
+unrestrained
 unrestraints
 unrestricted
 unrests
@@ -125737,6 +125770,7 @@ zinkify
 zinky
 zinnia
 zinnias
+zins
 zipless
 zippered
 zippering
@@ -125776,6 +125810,7 @@ zoaria
 zoarium
 zocalo
 zocalos
+zodiac
 zodiacal
 zodiacs
 zoea
