@@ -3736,6 +3736,7 @@ anilities
 anils
 anima
 animacy
+animadvert
 animadverted
 animadverts
 animal
@@ -4984,6 +4985,7 @@ appetizingly
 applaudably
 applauded
 applauder
+applauding
 applauds
 applause
 applauses
@@ -6321,6 +6323,7 @@ asyla
 asyllabic
 asylums
 asymmetric
+asymmetrically
 asymmetry
 asymptote
 asymptotes
@@ -11144,6 +11147,7 @@ blets
 blew
 blights
 blimpishly
+blimpishness
 blimpishnesses
 blimps
 blimy
@@ -21645,6 +21649,7 @@ conchy
 concierge
 concierges
 conciliar
+conciliarly
 conciliate
 conciliated
 conciliates
@@ -23109,6 +23114,7 @@ coquetted
 coquettes
 coquetting
 coquettishly
+coquettishness
 coquille
 coquilles
 coquina
@@ -23363,6 +23369,7 @@ corposants
 corps
 corpse
 corpses
+corpulence
 corpulences
 corpulently
 corpus
@@ -23835,6 +23842,7 @@ counterirritant
 counterman
 countermanded
 countermanding
+countermands
 countermarched
 countermarching
 countermeasure
@@ -26206,6 +26214,7 @@ dacquoises
 dacron
 dactyli
 dactylic
+dactylologies
 dactylology
 dactyls
 dactylus
@@ -35341,6 +35350,7 @@ endopolyploid
 endopolyploidy
 endoproct
 endoprocts
+endorphin
 endorphins
 endorsable
 endorse
@@ -35846,6 +35856,7 @@ enterotoxins
 enteroviral
 enteroviruses
 enterprising
+enters
 entertainer
 entertaining
 entertainingly
@@ -39837,6 +39848,7 @@ fetichisms
 feticidal
 feticide
 feticides
+fetid
 fetidities
 fetidity
 fetidly
@@ -41053,6 +41065,7 @@ flexible
 flexile
 flexion
 flexitimes
+flexographies
 flexography
 flexor
 flexors
@@ -44465,6 +44478,7 @@ gazpacho
 gazpachos
 gazumper
 gazumping
+gazumps
 geanticlines
 gear
 gearbox
@@ -44487,6 +44501,7 @@ geckos
 gecks
 ged
 geds
+gee
 geed
 geegaw
 geegaws
@@ -57374,6 +57389,7 @@ jammies
 jammiest
 jammy
 jampacked
+jams
 jane
 janes
 jangle
@@ -58560,6 +58576,7 @@ keener
 keeners
 keening
 keenly
+keennesses
 keens
 keep
 keeper
@@ -59230,6 +59247,7 @@ kneepan
 kneepiece
 knees
 kneesies
+kneesock
 knell
 knelled
 knelling
@@ -62460,6 +62478,7 @@ logograph
 logographic
 logographically
 logographs
+logogriph
 logoi
 logomach
 logomachy
@@ -71438,6 +71457,7 @@ newshawks
 newshound
 newsie
 newsier
+newsies
 newsiest
 newsiness
 newsinesses
@@ -73152,6 +73172,7 @@ notifier
 notifiers
 notifies
 notifying
+noting
 notion
 notional
 notionalities
@@ -75692,6 +75713,7 @@ outfights
 outfigured
 outfiguring
 outfind
+outfinding
 outfired
 outfires
 outfished
@@ -76033,6 +76055,7 @@ outraved
 outraves
 outre
 outreached
+outreading
 outreads
 outreason
 outreasoned
@@ -78594,6 +78617,7 @@ paradors
 paradoses
 paradoxes
 paradoxical
+paradoxically
 paradoxicalness
 paradrop
 paradropped
@@ -83359,6 +83383,7 @@ pocking
 pockmarked
 pockmarks
 pocky
+poco
 pococurante
 pocosen
 pocosens
@@ -90575,6 +90600,7 @@ reciprocal
 reciprocally
 reciprocals
 reciprocate
+reciprocated
 reciprocating
 reciprocations
 reciprocator
@@ -94250,6 +94276,7 @@ retinitises
 retinoblastomas
 retinoid
 retinoids
+retinols
 retinopathy
 retinoscopies
 retinted
@@ -98828,6 +98855,7 @@ seasides
 seasonable
 seasonableness
 seasonal
+seasonalities
 seasonally
 seasonals
 seasoned
@@ -98883,6 +98911,7 @@ secateurs
 secco
 seccos
 seceded
+seceders
 secedes
 seceding
 secern
@@ -102042,6 +102071,7 @@ skiey
 skiffle
 skiffled
 skiffles
+skiffs
 skiing
 skijorers
 skijoring
@@ -110023,6 +110053,7 @@ swound
 swounded
 swounding
 swounds
+swouned
 swouning
 swouns
 swum
@@ -111653,6 +111684,7 @@ telfords
 telic
 telically
 teliospore
+teliospores
 telium
 tell
 tellable
@@ -113937,6 +113969,7 @@ toothy
 tootle
 tootled
 tootlers
+tootling
 toots
 tootsie
 tootsy
@@ -123447,6 +123480,7 @@ weiner
 weir
 weird
 weirded
+weirder
 weirdest
 weirdie
 weirdies
@@ -126138,6 +126172,7 @@ zorillas
 zorille
 zorilles
 zorillo
+zosters
 zouave
 zouaves
 zouk
