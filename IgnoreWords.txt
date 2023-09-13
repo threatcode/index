@@ -2207,6 +2207,7 @@ alchemist
 alchemistic
 alchemists
 alchemize
+alchemized
 alchemizes
 alchemizing
 alchemy
@@ -8834,6 +8835,7 @@ beardednesses
 bearding
 beardless
 beardtongue
+bearer
 bearers
 beargrass
 beargrasses
@@ -11951,6 +11953,7 @@ bondable
 bondages
 bonded
 bonder
+bonders
 bondholders
 bonding
 bondless
@@ -12976,6 +12979,7 @@ breastpin
 breastpins
 breastplate
 breasts
+breaststroke
 breaststroker
 breaststrokes
 breastwork
@@ -13894,6 +13898,7 @@ bulwarking
 bulwarks
 bumbershoot
 bumbershoots
+bumblebees
 bumbler
 bumblers
 bumbling
@@ -17254,6 +17259,7 @@ chairmanship
 chairmanships
 chairperson
 chairpersons
+chairs
 chairwoman
 chairwomen
 chais
@@ -22527,6 +22533,7 @@ constipate
 constipated
 constipates
 constipating
+constipation
 constipations
 constituencies
 constituency
@@ -28130,6 +28137,7 @@ delightedly
 delightedness
 delightednesses
 delighter
+delightful
 delightfully
 delightfulness
 delighting
@@ -28531,6 +28539,7 @@ denotative
 denote
 denoted
 denotement
+denotements
 denotive
 denouement
 denouements
@@ -30121,6 +30130,7 @@ digestor
 digestors
 digests
 digged
+digger
 diggers
 digging
 diggings
@@ -37945,6 +37955,7 @@ excises
 excision
 excisional
 excisions
+excitabilities
 excitable
 excitablenesses
 excitant
@@ -41404,6 +41415,7 @@ flexibility
 flexible
 flexile
 flexion
+flexional
 flexitimes
 flexographies
 flexography
@@ -43460,6 +43472,7 @@ frostnip
 frostwork
 frostworks
 froth
+frothed
 frothiest
 frothiness
 frothinesses
@@ -46991,6 +47004,7 @@ granulose
 granulosis
 granum
 grapefruit
+grapefruits
 grapelike
 graperies
 grapeshot
@@ -49195,6 +49209,7 @@ haslet
 haslets
 hasp
 hasped
+hasping
 hasps
 hassel
 hassels
@@ -51986,6 +52001,7 @@ humanenesses
 humaner
 humanest
 humanhoods
+humanises
 humanism
 humanist
 humanistically
@@ -53242,6 +53258,7 @@ illogicality
 illogicalness
 illogicalnesses
 illogics
+ills
 illude
 illuded
 illuding
@@ -61780,6 +61797,7 @@ liar
 liard
 liards
 liars
+lib
 libationary
 libations
 libbers
@@ -64217,6 +64235,7 @@ maiasaur
 maiasaurs
 maiden
 maidenheads
+maidenliness
 maidenly
 maidish
 maids
@@ -64457,6 +64476,7 @@ malmsey
 malmseys
 malmy
 malnourished
+malnutrition
 malnutritions
 malocclusion
 malocclusions
@@ -68735,6 +68755,7 @@ mobilization
 mobilizations
 mobilize
 mobilized
+mobilizing
 mobocracies
 mobocracy
 mobocrat
@@ -72711,6 +72732,7 @@ noncoincidences
 noncola
 noncolas
 noncollector
+noncollectors
 noncollege
 noncollinear
 noncolor
@@ -79643,6 +79665,7 @@ parry
 parrying
 pars
 parsable
+parse
 parsec
 parsers
 parses
@@ -82733,6 +82756,7 @@ pigtails
 pigweeds
 piing
 pika
+pikake
 pikakes
 pikas
 piked
@@ -86602,6 +86626,7 @@ presort
 presorted
 presorting
 presorts
+prespecified
 prespecify
 prespecifying
 presplit
@@ -86658,6 +86683,7 @@ presto
 prestorage
 prestore
 prestored
+prestores
 prestos
 prestress
 prestressed
@@ -90929,6 +90955,7 @@ reanimation
 reannex
 reannexing
 reanoint
+reanointed
 reanoints
 reap
 reaped
@@ -91915,6 +91942,7 @@ redeyes
 redfin
 redfish
 redhead
+redheaded
 redheads
 redhorse
 redhorses
@@ -93067,6 +93095,7 @@ reinvigorated
 reinvigorating
 reinvigoration
 reinvigorators
+reinvited
 reinvites
 reinvoke
 reinvokes
@@ -97355,6 +97384,7 @@ saccharometer
 saccharometers
 saccharomyces
 saccharomycetes
+sacculate
 sacculated
 sacculation
 sacculations
@@ -102935,6 +102965,7 @@ skimpiness
 skimpinesses
 skimping
 skimpy
+skin
 skinflick
 skinflicks
 skinflint
@@ -105060,6 +105091,7 @@ sournesses
 sourpuss
 sourpusses
 sours
+soursops
 sourwood
 sourwoods
 sousaphones
@@ -108404,6 +108436,7 @@ sturgeon
 sturgeons
 sturt
 sturts
+stutter
 stuttered
 stutterer
 stutterers
@@ -114038,6 +114071,7 @@ thymes
 thymey
 thymi
 thymic
+thymidine
 thymiest
 thymine
 thymines
@@ -123368,6 +123402,7 @@ vomica
 vomicae
 vomit
 vomiter
+vomiters
 vomiting
 vomitives
 vomito
