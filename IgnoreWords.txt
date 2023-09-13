@@ -411,6 +411,7 @@ accouterments
 accouters
 accoutred
 accoutrement
+accoutrements
 accoutres
 accoutring
 accredit
@@ -2949,6 +2950,7 @@ ambivert
 ambiverts
 amble
 ambles
+amblygonite
 amblygonites
 amblyopia
 amblyopias
@@ -8040,6 +8042,7 @@ baneful
 banefully
 banes
 bang
+banged
 banger
 bangers
 banging
@@ -12002,6 +12005,7 @@ bonkers
 bonking
 bonne
 bonnes
+bonnet
 bonnets
 bonnie
 bonnier
@@ -15502,6 +15506,7 @@ capercaillies
 capercailzie
 capercailzies
 capered
+caperer
 caperers
 capering
 capes
@@ -16266,6 +16271,7 @@ cassations
 cassava
 cassavas
 cassenas
+cassene
 cassenes
 casserole
 casseroles
@@ -22423,6 +22429,7 @@ conservatorial
 conservatories
 conservators
 conservatorship
+conservatory
 conserve
 conserver
 conservers
@@ -24497,6 +24504,7 @@ crambo
 crambos
 crammed
 crammer
+crammers
 cramming
 cramoisie
 cramoisies
@@ -24630,6 +24638,7 @@ craws
 crayfish
 crayfishes
 crayon
+crayoned
 crayoners
 crayonist
 crayons
@@ -27802,6 +27811,7 @@ defoaming
 defoams
 defocus
 defocused
+defocuses
 defocussed
 defocusses
 defocussing
@@ -28121,6 +28131,7 @@ delightedness
 delightednesses
 delighter
 delightfully
+delightfulness
 delighting
 delights
 delightsome
@@ -32727,6 +32738,7 @@ drabbest
 drabbing
 drabble
 drabbled
+drabbles
 drabness
 drabnesses
 drabs
@@ -34795,6 +34807,7 @@ elucidate
 elucidated
 elucidating
 elucidative
+elucidator
 elucidators
 elucubrate
 elucubrated
@@ -43947,6 +43960,7 @@ fustinesses
 fusulinid
 fusulinids
 futharcs
+futharks
 futhorc
 futhorcs
 futhork
@@ -45065,6 +45079,7 @@ genomic
 genomics
 genoms
 genotype
+genotypic
 genotypically
 genre
 genres
@@ -46202,6 +46217,7 @@ glycine
 glycines
 glycins
 glycogeneses
+glycogenolysis
 glycol
 glycolic
 glycolipid
@@ -46549,6 +46565,7 @@ goofier
 goofiest
 goofiness
 goofinesses
+goofing
 goofs
 goofy
 googlies
@@ -53448,6 +53465,7 @@ immethodically
 immies
 immigrant
 immigrants
+immigrate
 immigrates
 immigrating
 immigration
@@ -55199,6 +55217,7 @@ informants
 informatics
 information
 informational
+informationally
 informations
 informative
 informatively
@@ -56682,6 +56701,7 @@ intomb
 intombed
 intombing
 intombs
+intonate
 intonated
 intonates
 intonating
@@ -58922,6 +58942,7 @@ karyotyped
 karyotypes
 karyotypic
 karyotypically
+kasbah
 kasbahs
 kasha
 kasher
@@ -62109,6 +62130,7 @@ limbiest
 limbing
 limbless
 limbos
+limbs
 limbus
 limbuses
 limeades
@@ -67288,6 +67310,7 @@ milieux
 militance
 militances
 militancy
+militantness
 militants
 militaria
 militarily
@@ -69284,6 +69307,7 @@ monopolize
 monopolizer
 monopolizers
 monopolizing
+monopropellant
 monopsonies
 monopsonistic
 monopsony
@@ -71255,6 +71279,7 @@ nations
 native
 natively
 nativenesses
+natives
 nativism
 nativisms
 nativist
@@ -82394,6 +82419,7 @@ phytochemist
 phytochemistry
 phytochrome
 phytoflagellate
+phytogeny
 phytogeographic
 phytoid
 phytol
@@ -82723,6 +82749,7 @@ piki
 pikis
 pilaf
 pilaffs
+pilafs
 pilar
 pilasters
 pilau
@@ -86508,6 +86535,7 @@ preservative
 preservatives
 preserver
 preservers
+preserves
 preservice
 preserving
 presets
@@ -87135,6 +87163,7 @@ proboscidean
 proboscideans
 proboscides
 proboscidian
+proboscidians
 proboscis
 proboscises
 procambia
@@ -99405,6 +99434,7 @@ scrunchies
 scrunching
 scruples
 scrupling
+scrupulosities
 scrupulosity
 scrupulously
 scrupulousness
@@ -101061,6 +101091,7 @@ shaming
 shamisen
 shamisens
 shammas
+shammash
 shammasim
 shammed
 shammer
@@ -103921,6 +103952,7 @@ snark
 snarkiest
 snarkily
 snarks
+snarky
 snarl
 snarled
 snarler
@@ -107297,6 +107329,7 @@ stey
 sthenic
 stibial
 stibine
+stibines
 stibiums
 stibnite
 stibnites
@@ -113787,6 +113820,7 @@ threadfin
 threadfins
 threadier
 threadiest
+threadiness
 threadinesses
 threading
 threadless
@@ -117996,6 +118030,7 @@ umbonate
 umbones
 umbra
 umbrageously
+umbrages
 umbral
 umbras
 umbrella
