@@ -1,0 +1,10 @@
+mod_retract_rename.txt - - The Go Programming Language,https://go.dev/src/cmd/go/testdata/script/mod_retract_rename.txt
+mod_retract.txt - - The Go Programming Language,https://tip.golang.org/src/cmd/go/testdata/script/mod_retract.txt
+mod_get_retract.txt - - The Go Programming Language,https://go.dev/src/cmd/go/testdata/script/mod_get_retract.txt
+mod_retract_replace.txt,https://tip.golang.org/src/cmd/go/testdata/script/mod_retract_replace.txt%3Fm%3Dtext
+README file,ftp://dctdftp.nci.nih.gov/pub/pdm/README_SequenceFiles_Public.txt
+start_gcode_single.txt - 3D Universe,https://3duniverse.org/wp-content/uploads/2014/01/start_gcode_single.txt
+07-070.txt - NASA,https://www.nasa.gov/centers/marshall/news/news/releases/2007/07-070.txt
+text-only version of this release - NASA,https://www.nasa.gov/centers/johnson/news/station/2007/iss07-11.txt
+0006205.txt - VA.gov,https://www.va.gov/vetapp00/files1/0006205.txt
+retracted-pubmed-dois.txt - GitHub,https://github.com/CrossRef/retractions/blob/master/retracted-pubmed-dois.txt
