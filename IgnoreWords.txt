@@ -60,6 +60,7 @@ abruptness
 abruptnesses
 abs
 abscess
+abscessed
 abscessing
 abscise
 abscisin
@@ -205,6 +206,7 @@ abutter
 abutting
 abvolts
 abwatt
+abwatts
 aby
 abye
 abys
@@ -5396,6 +5398,7 @@ architect
 architectonics
 architecture
 architrave
+architraves
 archival
 archive
 archived
@@ -9719,6 +9722,7 @@ bescreening
 beseech
 beseeched
 beseecher
+beseechers
 beseeches
 beseeching
 beseem
@@ -11413,6 +11417,7 @@ blubberer
 blubberers
 blubbering
 blubbers
+blubbery
 blubbing
 blucher
 bluchers
@@ -14349,6 +14354,7 @@ buying
 buyoff
 buyout
 buys
+buzukia
 buzukis
 buzz
 buzzards
@@ -31184,6 +31190,7 @@ dispiteous
 displace
 displaced
 displacement
+displacements
 displacers
 displacing
 displant
@@ -33882,6 +33889,7 @@ eclipsis
 ecliptic
 ecliptics
 eclogite
+eclogites
 eclogues
 eclosion
 eclosions
@@ -35172,6 +35180,7 @@ encaenia
 encage
 encaged
 encages
+encamped
 encampment
 encampments
 encapsulate
@@ -35257,6 +35266,7 @@ enclosure
 encodable
 encode
 encoded
+encoders
 encodes
 encoding
 encomiast
@@ -36329,6 +36339,7 @@ epifaunas
 epifocal
 epigastric
 epigeal
+epigean
 epigeic
 epigenetic
 epigenetically
@@ -36372,6 +36383,7 @@ epilepsies
 epileptically
 epileptics
 epileptiform
+epileptogenic
 epileptoid
 epilimnia
 epilimnion
@@ -37933,6 +37945,7 @@ exfoliate
 exfoliated
 exfoliates
 exfoliating
+exfoliation
 exhalant
 exhalants
 exhalation
@@ -38712,6 +38725,7 @@ eyeshades
 eyeshine
 eyesights
 eyesore
+eyesores
 eyespot
 eyestalks
 eyestone
@@ -40191,6 +40205,7 @@ fidelismos
 fidelista
 fidelistas
 fidelities
+fidge
 fidget
 fidgeted
 fidgeter
@@ -45233,6 +45248,7 @@ giddyap
 giddying
 giddyup
 gie
+gied
 gieing
 gien
 gies
@@ -46916,6 +46932,7 @@ grazable
 graze
 grazeable
 grazer
+grazers
 grazier
 grazing
 grazings
@@ -51268,6 +51285,7 @@ horizontal
 horizontalities
 horizontality
 horizontally
+horizontals
 hormogonium
 hormonal
 hormone
@@ -55442,6 +55460,7 @@ insight
 insightful
 insights
 insigne
+insignia
 insignias
 insignificance
 insignificancy
@@ -58420,6 +58439,7 @@ justifiably
 justification
 justificative
 justificatory
+justified
 justifier
 justifying
 justle
@@ -66172,6 +66192,7 @@ messiness
 messinesses
 messing
 messman
+messmate
 messuage
 messuages
 messy
@@ -66357,6 +66378,7 @@ metes
 metestrus
 metestruses
 metformin
+meth
 methacrylate
 methadone
 methamphetamine
@@ -69924,6 +69946,7 @@ multimillion
 multimode
 multimolecular
 multination
+multinational
 multinomial
 multinomials
 multinuclear
@@ -86603,6 +86626,7 @@ prism
 prismatic
 prismatically
 prismatoid
+prismoid
 prismoidal
 prisms
 prison
@@ -88174,6 +88198,7 @@ pumicing
 pumicites
 pummelling
 pummelo
+pummelos
 pummels
 pump
 pumped
@@ -89255,6 +89280,7 @@ quints
 quintuple
 quintupled
 quintuplet
+quintuplets
 quintuplicate
 quintuplicated
 quintuplicates
@@ -92271,6 +92297,7 @@ regressors
 regret
 regretfulness
 regretfulnesses
+regrets
 regrettable
 regrettably
 regretted
@@ -94577,6 +94604,7 @@ retiree
 retirees
 retirer
 retiring
+retiringly
 retiringnesses
 retitle
 retitled
@@ -99909,6 +99937,7 @@ sensorial
 sensorially
 sensorimotor
 sensorineural
+sensoriums
 sensory
 sensual
 sensualism
@@ -107747,6 +107776,7 @@ studded
 studdie
 studdings
 studentships
+studhorses
 studied
 studiedness
 studier
@@ -113035,6 +113065,7 @@ thimblerigger
 thimbleriggers
 thimblerigging
 thimblerigs
+thimbles
 thimblesful
 thimbleweed
 thimbleweeds
@@ -114967,6 +114998,7 @@ trampier
 trampiest
 trampish
 trample
+trampler
 tramplers
 tramples
 trampoline
@@ -116629,6 +116661,7 @@ tunnelings
 tunnelled
 tunneller
 tunnellike
+tunnelling
 tunnels
 tunny
 tuns
@@ -119110,6 +119143,7 @@ unjoints
 unjoyful
 unjudged
 unjust
+unjustifiable
 unjustified
 unjustly
 unjustness
@@ -125055,6 +125089,7 @@ wobegone
 wodges
 woe
 woebegoneness
+woebegonenesses
 woefuller
 woefully
 woefulnesses
