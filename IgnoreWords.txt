@@ -3115,6 +3115,7 @@ aminic
 aminities
 aminity
 amino
+aminoaciduria
 aminoacidurias
 aminopeptidase
 aminophylline
@@ -6020,6 +6021,7 @@ ashtrays
 aside
 asinine
 asininities
+asininity
 ask
 askance
 askant
@@ -6500,6 +6502,7 @@ atingle
 atlantes
 atlatl
 atman
+atmans
 atmas
 atmometers
 atmosphere
@@ -7868,6 +7871,7 @@ baldaquin
 baldaquins
 balded
 balderdash
+baldest
 baldfaced
 baldhead
 baldheads
@@ -10576,6 +10580,7 @@ biofoulers
 biofouling
 biofoulings
 biofuels
+biogas
 biogases
 biogasses
 biogeneses
@@ -12551,6 +12556,7 @@ bourgeoisifying
 bourgeon
 bourgeoned
 bourgeoning
+bourgeons
 bourgs
 bourguignon
 bourguignonne
@@ -16655,6 +16661,7 @@ catholicos
 catholicoses
 catholics
 cathouse
+cathouses
 cation
 cationically
 catjang
@@ -29262,6 +29269,7 @@ despairer
 despairers
 despatch
 despatched
+despatches
 despatching
 desperadoes
 desperados
@@ -29990,6 +29998,7 @@ diatomaceous
 diatomite
 diatoms
 diatonic
+diatonically
 diatribe
 diatribes
 diatron
@@ -34234,6 +34243,7 @@ ecocatastrophes
 ecocides
 ecofeminism
 ecofeminisms
+ecofeminist
 ecofeminists
 ecologic
 ecological
@@ -35445,6 +35455,7 @@ emprises
 emptied
 emptiers
 emptiest
+emptily
 emptings
 emptins
 emptying
@@ -35510,6 +35521,7 @@ enamellers
 enamelling
 enamels
 enamelware
+enamine
 enamines
 enamored
 enamors
@@ -35944,6 +35956,7 @@ enfolds
 enforceability
 enforceable
 enforced
+enforcement
 enforcements
 enforcer
 enforcers
@@ -42663,6 +42676,7 @@ foreshock
 foreshocks
 foreshore
 foreshores
+foreshortened
 foreshortens
 foreshowed
 foreshowing
@@ -50050,6 +50064,7 @@ helicoids
 heliconia
 heliconias
 helicons
+helicopt
 helicopted
 helicopter
 helicoptered
@@ -51595,6 +51610,7 @@ honeymoon
 honeymooned
 honeymooners
 honeymoons
+honeypot
 honeypots
 honeys
 honeysuckle
@@ -52782,6 +52798,7 @@ hyperbolic
 hyperbolical
 hyperbolically
 hyperbolists
+hyperbolize
 hyperbolizing
 hyperboloid
 hyperboloidal
@@ -64605,6 +64622,7 @@ maize
 maizes
 majagua
 majaguas
+majestic
 majesties
 majesty
 majolica
@@ -65800,6 +65818,7 @@ maturates
 maturation
 maturational
 mature
+matured
 maturer
 maturers
 maturest
@@ -66383,6 +66402,7 @@ melodizers
 melodizing
 melodrama
 melodramas
+melodramatics
 melodramatises
 melodramatising
 melodramatist
@@ -79000,6 +79020,7 @@ pagurid
 pagurids
 pahoehoe
 paik
+paiked
 paiking
 paiks
 pail
@@ -80383,6 +80404,7 @@ pathogene
 pathogeneses
 pathogenesis
 pathogenetic
+pathogenicities
 pathogenies
 pathogens
 pathognomonic
@@ -81712,6 +81734,7 @@ perpends
 perpent
 perpents
 perpetrated
+perpetrates
 perpetrating
 perpetration
 perpetrations
@@ -83899,6 +83922,7 @@ plasminogens
 plasmodesma
 plasmodesmas
 plasmodesmata
+plasmodium
 plasmogamies
 plasmogamy
 plasmoid
@@ -86605,6 +86629,7 @@ preludial
 preluding
 prelunch
 preluncheon
+prelusion
 prelusions
 prelusive
 prelusively
@@ -92165,6 +92190,7 @@ recruitment
 recruitments
 recruits
 recrystallize
+recrystallized
 recrystallizes
 recrystallizing
 recta
@@ -94654,6 +94680,7 @@ repurposed
 repurposes
 repursue
 repursued
+repursues
 repursuing
 reputable
 reputably
@@ -98115,6 +98142,7 @@ saleswoman
 saleswomen
 salicin
 salicine
+salicines
 salicins
 salicylate
 salicylates
@@ -100666,6 +100694,7 @@ semicircles
 semicivilized
 semiclassic
 semiclassics
+semicolon
 semicolonial
 semicolons
 semicolony
@@ -102228,6 +102257,7 @@ shooling
 shools
 shootdown
 shooter
+shooters
 shootings
 shootout
 shoots
@@ -108840,6 +108870,7 @@ stuck
 stud
 studded
 studdie
+studding
 studdings
 studentships
 studhorses
@@ -114934,6 +114965,7 @@ tinning
 tinnitus
 tinnituses
 tinplate
+tins
 tinseled
 tinseling
 tinselling
@@ -115462,6 +115494,7 @@ toothsomely
 toothsomeness
 toothwort
 toothy
+tooting
 tootle
 tootled
 tootlers
@@ -119511,6 +119544,7 @@ underpass
 underpasses
 underpay
 underpayment
+underpayments
 underpays
 underpinned
 underpinnings
@@ -126482,6 +126516,7 @@ woodsy
 woodtones
 woodwax
 woodwaxen
+woodwaxens
 woodwinds
 woodworker
 woodworkers
