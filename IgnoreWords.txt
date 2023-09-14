@@ -2021,6 +2021,7 @@ airfield
 airfields
 airflow
 airfoil
+airframe
 airframes
 airfreight
 airfreighted
@@ -4286,6 +4287,7 @@ antifoam
 antifoaming
 antifog
 antiforeclosure
+antiforeign
 antiforeigner
 antiformalist
 antifouling
@@ -4789,6 +4791,7 @@ aphorized
 aphorizer
 aphorizers
 aphorizes
+aphotic
 aphrodisiac
 aphrodisiacal
 aphrodisiacs
@@ -6528,6 +6531,7 @@ atomisms
 atomist
 atomistic
 atomistically
+atomists
 atomization
 atomizations
 atomize
@@ -7756,6 +7760,7 @@ bafflingly
 baffs
 baffy
 bag
+bagasse
 bagasses
 bagatelle
 bagatelles
@@ -23572,6 +23577,7 @@ corned
 corneitis
 cornelian
 cornelians
+corneous
 corner
 cornerbacks
 cornering
@@ -26906,6 +26912,7 @@ darneder
 darnedests
 darnel
 darnels
+darner
 darners
 darnings
 darshans
@@ -34998,6 +35005,7 @@ eluant
 eluate
 elucidate
 elucidated
+elucidates
 elucidating
 elucidative
 elucidator
@@ -37221,6 +37229,7 @@ erythromycins
 erythron
 erythrons
 erythropoieses
+erythropoiesis
 erythropoietic
 erythropoietin
 erythropoietins
@@ -45427,6 +45436,7 @@ geoid
 geoidal
 geoids
 geologer
+geologers
 geologic
 geological
 geologically
@@ -57940,6 +57950,7 @@ issues
 issuing
 isthmi
 isthmian
+isthmic
 isthmoid
 isthmus
 isthmuses
@@ -66632,6 +66643,7 @@ mercantilists
 mercaptans
 mercapto
 mercaptopurine
+mercaptopurines
 mercenaries
 mercenarily
 mercenariness
@@ -72563,6 +72575,7 @@ nielloing
 niellos
 nieve
 nieves
+nifedipines
 niffer
 niffered
 niffering
@@ -73369,6 +73382,7 @@ nonfilial
 nonfilterable
 nonfinal
 nonfinancial
+nonfinite
 nonflammability
 nonfluencies
 nonfluid
@@ -73412,6 +73426,7 @@ nonguest
 nonguests
 nonguilt
 nonhalogenated
+nonhappenings
 nonharmonic
 nonhemolytic
 nonheroic
@@ -74824,6 +74839,7 @@ obtrusive
 obtrusively
 obtrusivenesses
 obtund
+obtunded
 obtundents
 obtunding
 obtundities
@@ -79050,6 +79066,7 @@ pailsful
 painches
 pained
 painful
+painfuller
 painfullest
 painfully
 painfulness
@@ -80221,6 +80238,7 @@ passacaglia
 passacaglias
 passade
 passado
+passadoes
 passados
 passage
 passages
@@ -81165,6 +81183,7 @@ pennons
 penny
 pennycress
 pennycresses
+pennyroyal
 pennyweight
 pennyweights
 pennywhistle
@@ -83653,6 +83672,7 @@ pitchouts
 pitchpole
 pitchpoles
 pitchpoling
+pitchy
 piteous
 piteously
 piteousness
@@ -84815,6 +84835,7 @@ pollinia
 pollinium
 pollinized
 pollinizers
+pollinoses
 pollist
 pollists
 polliwog
@@ -85959,6 +85980,7 @@ prankishness
 prankishnesses
 pranks
 prankster
+prao
 praos
 prase
 praseodymium
@@ -92855,6 +92877,7 @@ refences
 refencing
 refer
 referable
+referee
 refereed
 refereeing
 reference
@@ -93235,6 +93258,7 @@ regoliths
 regorge
 regorged
 regorging
+regosol
 regraded
 regrades
 regrading
@@ -94431,6 +94455,7 @@ replayed
 replaying
 replays
 replead
+repleaded
 repleader
 repleads
 repled
@@ -94468,6 +94493,7 @@ repliers
 replies
 replot
 replots
+replotted
 replow
 replowing
 replows
@@ -97649,6 +97675,7 @@ rumormongering
 rumormongerings
 rumormongers
 rumors
+rumoured
 rumouring
 rumours
 rump
@@ -101760,6 +101787,7 @@ shaveling
 shavelings
 shaven
 shaver
+shavers
 shaves
 shavetail
 shavetails
@@ -103056,6 +103084,7 @@ simpered
 simperer
 simperers
 simpers
+simple
 simplemindedly
 simpleness
 simpler
@@ -103813,6 +103842,7 @@ sleazinesses
 sleazo
 sleazoid
 sleazoids
+sled
 sledded
 sledder
 sledders
@@ -106873,6 +106903,7 @@ spudder
 spudders
 spudding
 spue
+spued
 spuing
 spumes
 spumiest
@@ -107727,6 +107758,7 @@ stemmata
 stemmatic
 stemmer
 stemmeries
+stemmers
 stemmery
 stemmiest
 stemming
@@ -112499,6 +112531,7 @@ tantalizers
 tantalizes
 tantalizing
 tantalizingly
+tantalous
 tantalum
 tantalums
 tantaluses
@@ -115346,6 +115379,7 @@ toluidines
 toluids
 toluol
 toluole
+toluoles
 toluols
 tolus
 toluyl
@@ -125954,6 +125988,7 @@ williwaw
 willow
 willower
 willowier
+willowiest
 willows
 willowwares
 willowy
