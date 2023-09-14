@@ -5468,6 +5468,7 @@ ardor
 ardors
 ardours
 arduously
+arduousness
 arduousnesses
 are
 area
@@ -7944,6 +7945,7 @@ ballyhooed
 ballyhooing
 ballyrag
 ballyragged
+ballyragging
 ballyrags
 balm
 balmacaan
@@ -10605,6 +10607,7 @@ biopic
 biopics
 biopiracies
 biopirate
+bioplasm
 bioplasms
 biopolymers
 biopsy
@@ -13474,6 +13477,7 @@ broughams
 brouhaha
 brouhahas
 brow
+browallia
 browallias
 browband
 browbeating
@@ -16200,6 +16204,7 @@ caruncles
 carvacrols
 carve
 carvel
+carvels
 carvings
 carwash
 carwashes
@@ -16208,6 +16213,7 @@ caryatides
 caryopses
 caryopsides
 caryotin
+caryotins
 casa
 casaba
 casabas
@@ -18326,6 +18332,7 @@ chivarees
 chivari
 chivaried
 chivariing
+chive
 chivied
 chivies
 chivvied
@@ -18926,6 +18933,7 @@ cinctured
 cinderous
 cinders
 cine
+cineaste
 cinema
 cinemagoers
 cinemas
@@ -19853,6 +19861,7 @@ club
 clubable
 clubbed
 clubber
+clubbier
 clubbiest
 clubbiness
 clubbinesses
@@ -22320,6 +22329,7 @@ conjunctives
 conjuncture
 conjunctures
 conjuntos
+conjurations
 conjured
 conjurer
 conjurers
@@ -32230,6 +32240,7 @@ dollishnesses
 dolloped
 dolloping
 dollops
+dolls
 dolly
 dollybird
 dollying
@@ -37137,6 +37148,7 @@ escritoire
 escritoires
 escrow
 escrowed
+escrowing
 escrows
 escuage
 escuages
@@ -40454,6 +40466,7 @@ fidgeted
 fidgeter
 fidgeters
 fidgetiness
+fidgeting
 fidgets
 fidgety
 fidos
@@ -41728,6 +41741,7 @@ flowage
 flowages
 flowchart
 flowchartings
+flowcharts
 flowed
 flowerage
 flowered
@@ -43091,6 +43105,7 @@ fraudster
 fraudsters
 fraudulence
 fraudulences
+fraudulent
 fraudulently
 fraudulentness
 fraught
@@ -43912,6 +43927,7 @@ furling
 furlong
 furlongs
 furlough
+furloughing
 furmenties
 furmenty
 furmities
@@ -54273,6 +54289,7 @@ incalescence
 incalescences
 incalescent
 incandesce
+incandescences
 incandescent
 incandescents
 incandesces
@@ -58033,6 +58050,7 @@ javas
 javascript
 javelin
 javelina
+javelinas
 javelined
 javelining
 javelins
@@ -60775,6 +60793,7 @@ larks
 larksome
 larkspur
 larkspurs
+larrigan
 larrigans
 larrikin
 larrikins
@@ -70850,6 +70869,7 @@ myasthenic
 myasthenics
 myceles
 mycelia
+mycelial
 mycelian
 mycelium
 myceloid
@@ -71150,6 +71170,7 @@ nalorphine
 nalorphines
 naloxone
 naloxones
+naltrexone
 naltrexones
 nam
 namable
@@ -72951,6 +72972,7 @@ nondestructive
 nondetachable
 nondevelopment
 nondevelopments
+nondeviant
 nondiabetic
 nondiabetics
 nondialyzable
@@ -74134,6 +74156,7 @@ nursemaid
 nursemaids
 nurseryman
 nurserymen
+nurses
 nursling
 nurtural
 nurturance
@@ -74513,6 +74536,7 @@ obtests
 obtruded
 obtruder
 obtruders
+obtrusion
 obtrusions
 obtrusive
 obtrusively
@@ -89059,6 +89083,7 @@ pushed
 pusher
 pushers
 pushes
+pushier
 pushiness
 pushinesses
 pushing
@@ -90215,6 +90240,7 @@ raft
 rafted
 raftered
 rafting
+rag
 raga
 ragamuffin
 ragamuffins
@@ -102661,6 +102687,7 @@ simulacrums
 simulant
 simulants
 simular
+simulars
 simulated
 simulates
 simulation
@@ -103633,6 +103660,7 @@ sloop
 sloops
 slop
 slope
+sloped
 sloper
 slopers
 slopes
@@ -105194,6 +105222,7 @@ sours
 soursops
 sourwood
 sourwoods
+sousaphone
 sousaphones
 souse
 sousliks
@@ -106288,6 +106317,7 @@ spotlighting
 spotlights
 spotlit
 spottable
+spotted
 spottily
 spottiness
 spotting
@@ -109954,6 +109984,7 @@ superadd
 superaddition
 superadditions
 superadds
+superagencies
 superagency
 superagent
 superagents
@@ -114228,6 +114259,7 @@ tibiofibulas
 tic
 ticals
 ticced
+ticcing
 tick
 ticked
 ticket
@@ -114967,6 +114999,7 @@ tongued
 tonguelike
 tongues
 tonguing
+tonguings
 tonic
 tonically
 tonicities
@@ -123219,6 +123252,7 @@ vitiate
 vitiated
 vitiates
 vitiating
+vitiation
 vitiations
 vitiator
 viticultural
@@ -124740,6 +124774,7 @@ welterweight
 welterweights
 weltings
 weltschmerz
+wen
 wench
 wenches
 wend
