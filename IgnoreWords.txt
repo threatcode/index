@@ -932,6 +932,7 @@ adduces
 adducible
 adducing
 adducted
+adduction
 adductions
 adductive
 adducts
@@ -2898,6 +2899,7 @@ amazedly
 amazement
 amazements
 amazes
+amazon
 amazonian
 amazonite
 amazonites
@@ -12746,6 +12748,7 @@ brainpower
 brainsick
 brainstems
 brainstorm
+brainstormer
 brainstormers
 brainstorming
 brainstormings
@@ -22277,6 +22280,7 @@ conjoined
 conjoiner
 conjoiners
 conjoining
+conjoint
 conjointly
 conjugal
 conjugalities
@@ -24318,6 +24322,7 @@ cow
 cowage
 coward
 cowardliness
+cowardlinesses
 cowards
 cowbane
 cowbell
@@ -30749,6 +30754,7 @@ discards
 discarnate
 discased
 discases
+discasing
 disced
 discepting
 discepts
@@ -42645,6 +42651,7 @@ formalizable
 formalization
 formalizations
 formalize
+formalized
 formalizer
 formalizers
 formalizes
@@ -42751,6 +42758,7 @@ fortifying
 fortis
 fortissimi
 fortissimos
+fortitude
 fortitudes
 fortnightlies
 fortnightly
@@ -43012,6 +43020,7 @@ frangibilities
 frangibility
 frangible
 frangipane
+frangipanes
 frangipani
 frangipanni
 franglais
@@ -48029,6 +48038,7 @@ gunites
 gunk
 gunkholed
 gunkholing
+gunkiest
 gunks
 gunky
 gunlock
@@ -52861,6 +52871,7 @@ hypothalamic
 hypothalamus
 hypothec
 hypothecate
+hypothecated
 hypothecates
 hypothecating
 hypothecation
@@ -53288,6 +53299,7 @@ illuminant
 illuminants
 illuminate
 illuminated
+illuminates
 illuminati
 illuminating
 illumination
@@ -56318,6 +56330,7 @@ interknitted
 interknitting
 interknot
 interknots
+interknotted
 interlace
 interlaced
 interlacements
@@ -62397,6 +62410,7 @@ lionfishes
 lionhearted
 lionise
 lionised
+lioniser
 lionisers
 lionises
 lionising
@@ -62746,6 +62760,7 @@ loadstar
 loadstars
 loaf
 loafed
+loafer
 loafing
 loam
 loamed
@@ -63118,6 +63133,7 @@ longjumping
 longjumps
 longleaves
 longline
+longlines
 longly
 longnesses
 longs
@@ -63357,6 +63373,7 @@ lovastatins
 lovat
 lovats
 love
+loveable
 loveably
 lovebird
 lovebirds
@@ -67326,6 +67343,7 @@ mildening
 mildens
 milder
 mildest
+mildewed
 milding
 mildness
 mildnesses
@@ -73972,6 +73990,7 @@ nudist
 nudists
 nudities
 nudity
+nudnick
 nudnicks
 nudzhed
 nudzhes
@@ -76863,6 +76882,7 @@ outsoaring
 outsoars
 outsole
 outsoles
+outsource
 outsources
 outsourcing
 outsourcings
@@ -80371,6 +80391,7 @@ pebbling
 pebbly
 pecan
 pecans
+peccable
 peccadillo
 peccadilloes
 peccadillos
@@ -86732,6 +86753,7 @@ presummits
 presumption
 presumptions
 presumptively
+presumptuous
 presumptuously
 presuppose
 presupposes
@@ -88050,6 +88072,7 @@ protohistorian
 protohistorians
 protohistories
 protohumans
+protolanguages
 protomartyr
 proton
 protonate
@@ -90224,6 +90247,7 @@ rain
 rainbands
 rainbird
 rainbirds
+rainbow
 rainbows
 raincheck
 raincoat
@@ -90888,6 +90912,7 @@ readjust
 readjusted
 readjustment
 readjustments
+readmission
 readmissions
 readmit
 readmitted
@@ -93897,6 +93922,7 @@ repeals
 repeat
 repeatability
 repeatable
+repeater
 repeaters
 repeating
 repeg
@@ -94605,6 +94631,7 @@ resister
 resisters
 resistibilities
 resistibility
+resistible
 resisting
 resistive
 resistively
@@ -98432,6 +98459,7 @@ savagery
 savagest
 savaging
 savagism
+savagisms
 savannah
 savannahs
 savannas
@@ -99097,6 +99125,7 @@ sclaffers
 sclaffing
 sclaffs
 sclera
+scleral
 sclereid
 sclerenchyma
 sclerenchymas
@@ -103182,6 +103211,7 @@ slagged
 slaggier
 slaggiest
 slagging
+slaggy
 slags
 slain
 slainte
@@ -108964,6 +108994,7 @@ subminiature
 subminimal
 subminister
 subministers
+submission
 submissions
 submit
 submits
@@ -114171,6 +114202,7 @@ ticklishnesses
 ticks
 tickseed
 tickseeds
+ticktacked
 ticktacktoe
 ticktock
 ticktocked
@@ -114408,6 +114440,7 @@ tinges
 tinging
 tingle
 tingler
+tingles
 tingliest
 tingling
 tingly
@@ -122405,6 +122438,7 @@ vermicide
 vermicides
 vermiculate
 vermiculated
+vermiculations
 vermiculites
 vermifuge
 vermifuges
@@ -123493,6 +123527,7 @@ vouchsafing
 voudon
 voudons
 voudoun
+voudouns
 voussoir
 vow
 vowelize
