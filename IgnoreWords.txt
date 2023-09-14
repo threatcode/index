@@ -3484,6 +3484,7 @@ anankes
 anapaest
 anapest
 anapestic
+anapestics
 anaphase
 anaphases
 anaphasic
@@ -4306,6 +4307,7 @@ antihelices
 antihelixes
 antihero
 antiheroes
+antiheroic
 antiheroine
 antiheroines
 antiherpes
@@ -15585,6 +15587,7 @@ capias
 capiases
 capillaries
 capillarities
+capillarity
 capita
 capital
 capitalised
@@ -15640,6 +15643,7 @@ cappuccinos
 capric
 capricci
 capriccio
+capriccios
 caprice
 caprices
 capricious
@@ -17627,6 +17631,7 @@ charism
 charisma
 charismas
 charismata
+charismatic
 charismatics
 charisms
 charitable
@@ -19037,6 +19042,7 @@ circlets
 circling
 circuit
 circuital
+circuitously
 circuitousness
 circuitries
 circuitry
@@ -19244,6 +19250,7 @@ civisms
 civvies
 civvy
 clabber
+clabbered
 clabbering
 clabbers
 clachan
@@ -22565,6 +22572,7 @@ consolations
 consolatory
 consoled
 consoler
+consolers
 consolidate
 consolidated
 consolidates
@@ -30374,6 +30382,7 @@ dimension
 dimensionality
 dimensioned
 dimensioning
+dimensionless
 dimensions
 dimer
 dimercaprol
@@ -31010,6 +31019,7 @@ discreeter
 discreetest
 discreetly
 discreetnesses
+discrepancies
 discrepantly
 discrete
 discretely
@@ -34900,6 +34910,7 @@ ellipticity
 ells
 elm
 elmier
+elmiest
 elms
 elmy
 elocution
@@ -35548,6 +35559,7 @@ encircle
 encircled
 encircles
 encircling
+enclasp
 enclasped
 enclasping
 enclasps
@@ -36829,6 +36841,7 @@ epos
 eposes
 epoxidation
 epoxidations
+epoxidize
 epoxidized
 epoxidizing
 epoxied
@@ -38561,6 +38574,7 @@ expiator
 expiatory
 expirations
 expiratory
+expire
 expired
 expirer
 expirers
@@ -39414,6 +39428,7 @@ familism
 familisms
 familistic
 famine
+famines
 faming
 famished
 famishes
@@ -41484,6 +41499,7 @@ fledgy
 flee
 fleeced
 fleecer
+fleecers
 fleeces
 fleeched
 fleeching
@@ -44401,6 +44417,7 @@ galliwasp
 galliwasps
 gallnut
 gallnuts
+gallon
 gallonage
 gallonages
 gallons
@@ -48167,6 +48184,7 @@ gunfought
 gunites
 gunk
 gunkholed
+gunkholes
 gunkholing
 gunkiest
 gunks
@@ -50676,6 +50694,7 @@ hibernating
 hibernation
 hibernations
 hibernators
+hibiscus
 hibiscuses
 hic
 hiccoughing
@@ -51631,6 +51650,7 @@ hookworm
 hookworms
 hoolie
 hooligan
+hooliganism
 hooliganisms
 hooligans
 hoop
@@ -52711,6 +52731,7 @@ hyperbolical
 hyperbolically
 hyperbolists
 hyperbolizing
+hyperboloid
 hyperboloidal
 hyperboloids
 hyperboreans
@@ -71672,6 +71693,7 @@ neaten
 neatening
 neatens
 neater
+neatest
 neath
 neatherds
 neatly
@@ -75548,6 +75570,7 @@ ophthalmia
 ophthalmias
 ophthalmic
 ophthalmologies
+ophthalmologist
 ophthalmology
 ophthalmoscopic
 opiate
@@ -77352,6 +77375,7 @@ overachieving
 overact
 overacted
 overacting
+overaction
 overactions
 overactivities
 overactivity
@@ -93057,6 +93081,7 @@ regnancy
 regnum
 regoliths
 regorge
+regorged
 regorging
 regraded
 regrades
@@ -94073,6 +94098,7 @@ reopens
 reoperate
 reoperated
 reoperates
+reoperating
 reopposes
 reopposing
 reorchestrated
@@ -98282,6 +98308,7 @@ sandpit
 sands
 sandshoe
 sandsoap
+sandsoaps
 sandstones
 sandstorm
 sandstorms
@@ -101815,6 +101842,7 @@ shikari
 shikarring
 shikars
 shikker
+shikkers
 shiksas
 shikse
 shikseh
@@ -103042,6 +103070,7 @@ sirups
 sirupy
 sirvente
 sirventes
+sis
 sisal
 sisals
 sises
@@ -103996,6 +104025,7 @@ slurp
 slurping
 slurps
 slurred
+slurries
 slurrying
 slurs
 slush
@@ -108274,6 +108304,7 @@ stranges
 strangest
 strangle
 strangled
+stranglehold
 strangleholds
 strangler
 stranglers
@@ -117164,6 +117195,7 @@ tropism
 tropisms
 tropistic
 tropocollagen
+tropocollagens
 tropologic
 tropological
 tropologically
@@ -119689,6 +119721,7 @@ unfaithful
 unfaithfully
 unfaiths
 unfaked
+unfallen
 unfalsifiable
 unfalteringly
 unfamiliarly
@@ -122142,6 +122175,7 @@ vanishingly
 vanitied
 vanities
 vanity
+vanload
 vanloads
 vanmen
 vanned
@@ -123818,6 +123852,7 @@ vorticists
 vorticities
 vorticity
 vorticose
+votable
 votaress
 votaresses
 votaries
