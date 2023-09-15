@@ -490,6 +490,7 @@ acephalous
 acequias
 acerate
 acerated
+acerbate
 acerbated
 acerbates
 acerbating
@@ -6599,6 +6600,7 @@ atoningly
 atony
 atop
 atopies
+atopy
 atrabilious
 atrabiliousness
 atresia
@@ -6619,6 +6621,7 @@ atrophic
 atrophied
 atrophy
 atropine
+atropism
 atropisms
 attaboy
 attach
@@ -7211,6 +7214,7 @@ avgolemono
 avianized
 avianizes
 aviaries
+aviarist
 aviarists
 aviary
 aviate
@@ -8781,6 +8785,7 @@ baud
 baudekin
 baudekins
 bauds
+bauhinia
 bauhinias
 baulk
 baulkier
@@ -13823,6 +13828,7 @@ buckytubes
 bucolic
 bucolically
 bucolics
+bud
 budder
 budders
 buddhas
@@ -15048,6 +15054,7 @@ calipers
 caliph
 caliphal
 caliphates
+calisaya
 calisayas
 calisthenic
 calix
@@ -17251,6 +17258,7 @@ ceramics
 ceramide
 ceramist
 cerastes
+cerate
 cerated
 cerates
 ceratins
@@ -19129,6 +19137,7 @@ cinnamyls
 cinquain
 cinquecentos
 cinquefoils
+cinques
 cion
 cions
 cioppino
@@ -27118,6 +27127,7 @@ dauntlessnesses
 dauphine
 dauphines
 dauphins
+dauted
 dauting
 dauts
 daven
@@ -30282,6 +30292,7 @@ didacticisms
 didacts
 didactyl
 diddle
+diddled
 diddler
 diddlers
 diddles
@@ -41485,6 +41496,7 @@ flagstick
 flagstone
 flail
 flailed
+flair
 flairs
 flake
 flaked
@@ -42745,6 +42757,7 @@ forebay
 forebays
 forebear
 forebears
+forebode
 foreboded
 foreboder
 forebodies
@@ -51487,6 +51500,7 @@ hokeypokeys
 hokier
 hokiest
 hokily
+hokiness
 hoking
 hokku
 hokums
@@ -55787,6 +55801,7 @@ infractor
 infractors
 infrahuman
 infrahumans
+infrangible
 infrared
 infraspecific
 infrastructure
@@ -57978,6 +57993,7 @@ isbas
 ischaemia
 ischaemias
 ischemia
+ischemias
 ischemic
 ischia
 ischiadic
@@ -69490,6 +69506,7 @@ modernities
 modernity
 modernize
 modernized
+modernizer
 modernizers
 modernizes
 modernizing
@@ -70359,6 +70376,7 @@ mortar
 mortarboard
 mortarboards
 mortared
+mortaring
 mortarless
 mortarman
 mortarmen
@@ -71292,6 +71310,7 @@ musicalizations
 musicalize
 musicalized
 musicalizing
+musically
 musician
 musicians
 musicianships
@@ -71397,6 +71416,7 @@ mutest
 muticous
 mutilated
 mutilating
+mutilation
 mutilations
 mutilator
 mutilators
@@ -73339,6 +73359,7 @@ nonattendances
 nonattenders
 nonauthors
 nonautomated
+nonautomatic
 nonautomotive
 nonautonomous
 nonavailability
@@ -77157,6 +77178,7 @@ outgnawed
 outgnawn
 outgo
 outgoes
+outgoingness
 outgoingnesses
 outgone
 outgrew
@@ -78582,6 +78604,7 @@ overpopulation
 overpopulations
 overpotent
 overpower
+overpowering
 overpoweringly
 overpraise
 overpraised
@@ -84567,6 +84590,7 @@ pleiads
 pleinairism
 pleinairists
 pleiocene
+pleiotaxies
 pleiotaxy
 pleiotropic
 pleiotropies
@@ -94730,6 +94754,7 @@ reovirus
 reoviruses
 reoxidation
 reoxidations
+reoxidize
 reoxidizes
 rep
 repacified
@@ -99650,6 +99675,7 @@ scarab
 scarabaeus
 scarabaeuses
 scaramouches
+scarce
 scarcely
 scarcenesses
 scarcer
@@ -101993,6 +102019,7 @@ shacklebone
 shacklebones
 shackler
 shacklers
+shackles
 shackling
 shacko
 shackoes
@@ -106762,6 +106789,7 @@ spieler
 spielers
 spiels
 spier
+spiered
 spiering
 spiers
 spiffed
@@ -112628,6 +112656,7 @@ taciturnity
 tack
 tackboard
 tackboards
+tacked
 tacker
 tackers
 tackets
@@ -113281,6 +113310,7 @@ tattiest
 tattily
 tattiness
 tattinesses
+tatting
 tattings
 tattle
 tattled
@@ -119266,6 +119296,7 @@ umlaut
 umlauting
 umlauts
 umm
+ump
 umping
 umpirages
 umpire
@@ -119910,6 +119941,7 @@ uncreates
 uncreating
 uncreative
 uncredited
+uncrippled
 uncritically
 uncropped
 uncrossed
@@ -121571,6 +121603,7 @@ unsavory
 unsavoury
 unsawed
 unsawn
+unsay
 unsayable
 unsayables
 unsaying
@@ -121919,6 +121952,7 @@ untilled
 untimed
 untimelier
 untimeliness
+untimelinesses
 untimely
 untimeous
 untinged
@@ -123543,6 +123577,7 @@ verdantly
 verderers
 verderor
 verderors
+verdigris
 verdin
 verdins
 verditers
