@@ -3973,6 +3973,7 @@ anomalousness
 anomalousnesses
 anomaly
 anomic
+anomy
 anon
 anonym
 anonymously
@@ -5111,6 +5112,7 @@ apposers
 apposes
 apposing
 appositely
+appositeness
 apposition
 appositions
 appositive
@@ -15173,6 +15175,7 @@ camelopards
 cameo
 cameoed
 cameoing
+cameos
 camerae
 cameramen
 camerapersons
@@ -19290,6 +19293,7 @@ civil
 civilian
 civilianization
 civilianize
+civilianized
 civilianizing
 civilisation
 civilisations
@@ -21782,6 +21786,7 @@ comprizing
 compromised
 compromiser
 compromising
+comps
 compted
 compting
 comptroller
@@ -23774,6 +23779,7 @@ corridor
 corrie
 corrigenda
 corrigendum
+corrigibilities
 corrigibility
 corrival
 corrivals
@@ -36875,6 +36881,7 @@ episomal
 episome
 episomes
 epistases
+epistasis
 epistatic
 epistaxes
 epistaxis
@@ -42638,6 +42645,7 @@ forecaddie
 forecaddies
 forecast
 forecastable
+forecasted
 forecaster
 forecasters
 forecasting
@@ -47435,6 +47443,7 @@ gravelled
 gravelling
 gravelly
 gravels
+gravely
 graven
 graveness
 gravenesses
@@ -52148,6 +52157,7 @@ houdahs
 hound
 hounded
 hounders
+hourglass
 hourglasses
 houri
 houris
@@ -55186,6 +55196,7 @@ individuates
 individuating
 individuations
 indivisible
+indivisibly
 indocilities
 indocility
 indoctrinated
@@ -64006,6 +64017,7 @@ lumpinesses
 lumping
 lumpingly
 lumpish
+lumpishness
 lumpishnesses
 lunacy
 lunar
@@ -68957,6 +68969,7 @@ missioners
 missioning
 missionization
 missionizations
+missionize
 missionized
 missionizer
 missionizers
@@ -71843,6 +71856,7 @@ naumachiae
 naumachias
 naumachies
 nauplial
+nauplii
 nauplius
 nausea
 nauseant
@@ -75174,6 +75188,7 @@ odist
 odium
 odiums
 odograph
+odometer
 odometers
 odometries
 odometry
@@ -76414,6 +76429,7 @@ ossify
 ossifying
 ossuary
 osteal
+osteitic
 osteitides
 osteitis
 ostensible
@@ -78695,6 +78711,7 @@ overtreatments
 overtreats
 overtrimmed
 overtrimming
+overtrims
 overtrumped
 overtrumping
 overtrumps
@@ -87055,6 +87072,7 @@ prereview
 prerevisionist
 prerinse
 prerinsed
+prerinses
 prerinsing
 preriot
 prerock
@@ -89187,6 +89205,7 @@ pullback
 pullbacks
 pulled
 pullets
+pulleys
 pulling
 pullman
 pullout
@@ -89441,6 +89460,7 @@ purgatorial
 purgatory
 purge
 purgeable
+purged
 purges
 purgings
 purification
@@ -95192,6 +95212,7 @@ resight
 resighted
 resighting
 resights
+resign
 resignations
 resigned
 resignedly
@@ -99596,6 +99617,7 @@ schmos
 schmuck
 schmucks
 schnappers
+schnapps
 schnaps
 schnauzer
 schnauzers
@@ -99819,6 +99841,7 @@ scoopable
 scooper
 scoopers
 scoopful
+scooping
 scoops
 scoopsful
 scoot
@@ -101468,6 +101491,7 @@ servable
 serval
 servals
 servanthood
+servanthoods
 servantless
 servants
 served
@@ -103014,6 +103038,7 @@ signalizing
 signalled
 signaller
 signalling
+signally
 signalman
 signalmen
 signalment
@@ -105978,6 +106003,7 @@ spancelling
 spancels
 spandex
 spandexes
+spandrel
 spandrels
 spandrils
 spang
@@ -108444,6 +108470,7 @@ stomodea
 stomodeal
 stomodeum
 stomp
+stomper
 stompers
 stomping
 stomps
@@ -112901,6 +112928,7 @@ tassets
 tassies
 tastable
 tasteable
+tasted
 tasteful
 tastefulness
 tastefulnesses
@@ -116641,6 +116669,7 @@ transparence
 transparencies
 transparency
 transparent
+transparentize
 transparentized
 transparentizes
 transparently
@@ -117426,6 +117455,7 @@ tristearins
 tristezas
 tristful
 tristfully
+tristfulness
 tristich
 tristichs
 tristimulus
@@ -122818,6 +122848,7 @@ vatu
 vatus
 vau
 vaudevilles
+vaudevillian
 vaudevillians
 vault
 vaulted
@@ -123342,6 +123373,7 @@ vesiculation
 vesiculations
 vesperal
 vesperals
+vespers
 vespertilian
 vespertine
 vespiaries
@@ -124588,6 +124620,7 @@ waitpersons
 waitress
 waitressed
 waitresses
+waitressing
 waitron
 waits
 waitstaff
@@ -125568,6 +125601,7 @@ whaleback
 whaleboats
 whalebone
 whalebones
+whaled
 whalelike
 whaleman
 whalemen
@@ -127916,6 +127950,7 @@ zested
 zester
 zesters
 zestfully
+zestfulness
 zestfulnesses
 zestier
 zestiest
