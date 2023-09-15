@@ -3658,6 +3658,7 @@ anelasticity
 anele
 aneled
 aneles
+aneling
 anemia
 anemias
 anemic
@@ -4208,6 +4209,7 @@ antichurch
 anticigarette
 anticipant
 anticipants
+anticipated
 anticipating
 anticipations
 anticipators
@@ -5748,6 +5750,7 @@ arraigning
 arraignment
 arraignments
 arrange
+arranged
 arrangements
 arranger
 arrangers
@@ -6053,6 +6056,7 @@ askant
 asked
 asker
 askers
+askeses
 askew
 askewness
 askewnesses
@@ -6722,6 +6726,7 @@ attrit
 attrite
 attrites
 attriting
+attritive
 attrits
 attritted
 attritting
@@ -7095,6 +7100,7 @@ autorotation
 autorotations
 autosomal
 autosome
+autosomes
 autostrada
 autostradas
 autostrade
@@ -11156,6 +11162,7 @@ blanketing
 blanketlike
 blankly
 blankness
+blanknesses
 blanks
 blanquette
 blanquettes
@@ -12653,6 +12660,7 @@ bowelled
 bowelless
 bowelling
 bowels
+bowerbird
 bowerbirds
 bowered
 boweries
@@ -21694,6 +21702,7 @@ complected
 complects
 complement
 complementarily
+complemented
 complementing
 complementizer
 complete
@@ -22465,6 +22474,7 @@ conjugal
 conjugalities
 conjugality
 conjugally
+conjugants
 conjugate
 conjugated
 conjugately
@@ -36351,6 +36361,7 @@ enslave
 enslaved
 enslavement
 enslavements
+enslaver
 enslavers
 enslaves
 enslaving
@@ -36589,6 +36600,7 @@ enumerability
 enumerable
 enumerate
 enumerated
+enumerates
 enumerating
 enumeration
 enumerations
@@ -38553,6 +38565,7 @@ exocytotic
 exodermises
 exodoi
 exodontias
+exodus
 exoduses
 exoenzyme
 exoenzymes
@@ -41312,6 +41325,7 @@ fitful
 fitfully
 fitfulness
 fitfulnesses
+fitment
 fitness
 fitnesses
 fits
@@ -47736,6 +47750,7 @@ gridlocking
 gridlocks
 grids
 grief
+grievances
 grievant
 grievants
 grieve
@@ -47925,6 +47940,7 @@ groped
 gropers
 gropes
 gropingly
+grosbeak
 groschen
 grosgrain
 grosgrains
@@ -49139,6 +49155,7 @@ hamulate
 hamulous
 hamulus
 hamza
+hamzah
 hamzahs
 hanaper
 hanapers
@@ -57818,6 +57835,7 @@ irreplaceable
 irrepressible
 irreproachable
 irreproachably
+irreproducible
 irresistibility
 irresistibly
 irresolute
@@ -64915,6 +64933,7 @@ malarky
 malaromas
 malars
 malates
+malathion
 malathions
 malcontented
 malcontentedly
@@ -67722,6 +67741,7 @@ midguts
 midi
 midinette
 midinettes
+midirons
 midis
 midiskirts
 midland
@@ -72311,6 +72331,7 @@ neotropic
 neotropics
 neotype
 neotypes
+nepenthe
 nepenthean
 nepeta
 nepetas
@@ -74060,6 +74081,7 @@ nonsteroidal
 nonsteroids
 nonstick
 nonsticky
+nonstop
 nonstory
 nonstructural
 nonstructured
@@ -74803,6 +74825,7 @@ obeisant
 obeli
 obeliscal
 obelise
+obelised
 obelising
 obelisk
 obelisks
@@ -79056,6 +79079,7 @@ ozocerite
 ozocerites
 ozokerite
 ozokerites
+ozonate
 ozonated
 ozonates
 ozonating
@@ -84620,6 +84644,7 @@ plumier
 plumiest
 pluming
 plumiped
+plumipeds
 plummet
 plummets
 plummiest
@@ -90973,6 +90998,7 @@ rajahs
 rajas
 rake
 raked
+rakee
 rakees
 rakehell
 rakehells
@@ -98194,6 +98220,7 @@ sacculation
 sacculations
 saccule
 sacerdotal
+sacerdotalist
 sacerdotalists
 sacerdotally
 sachem
@@ -104313,6 +104340,7 @@ slipes
 slipform
 slipformed
 slipforming
+slipforms
 slipknots
 slipless
 slipout
@@ -108825,6 +108853,7 @@ strandlines
 strands
 strange
 strangely
+strangeness
 stranger
 strangers
 stranges
@@ -110176,6 +110205,7 @@ subtotaled
 subtotally
 subtotals
 subtract
+subtracted
 subtracter
 subtracters
 subtractions
@@ -111378,6 +111408,7 @@ surnamer
 surnamers
 surnames
 surpass
+surpassable
 surpasser
 surpassers
 surpasses
@@ -113901,6 +113932,7 @@ teratologist
 teratoma
 teratomas
 teratomata
+terawatt
 terbias
 terbic
 terbium
@@ -114388,6 +114420,7 @@ theologizers
 theologizes
 theologs
 theologue
+theologues
 theomachies
 theomachy
 theonomies
@@ -124665,6 +124698,7 @@ waftage
 wafted
 wafter
 wafters
+wafting
 wafts
 wafture
 waftures
@@ -127102,6 +127136,7 @@ workplace
 workplaces
 workprint
 workprints
+works
 worksheet
 worksheets
 workshops
