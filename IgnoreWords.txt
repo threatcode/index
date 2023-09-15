@@ -207,6 +207,7 @@ abuttals
 abutted
 abutter
 abutting
+abuzz
 abvolts
 abwatt
 abwatts
@@ -1011,6 +1012,7 @@ adieus
 adieux
 adipoceres
 adipocyte
+adipocytes
 adipose
 adiposes
 adiposis
@@ -7731,6 +7733,7 @@ backyards
 baclofen
 bacon
 bacons
+bacteremias
 bacteremic
 bacteria
 bacterial
@@ -8368,6 +8371,7 @@ barista
 baristas
 barites
 baritone
+baritones
 barium
 bariums
 barked
@@ -8924,6 +8928,7 @@ beanie
 beanies
 beaning
 beano
+beanos
 beans
 beanstalk
 beanstalks
@@ -11356,6 +11361,7 @@ blethered
 blethers
 blets
 blew
+blighties
 blights
 blimpish
 blimpishly
@@ -14536,6 +14542,7 @@ buttonhooks
 buttons
 buttonwood
 buttonwoods
+buttress
 buttressed
 buttresses
 buttressing
@@ -15767,6 +15774,7 @@ capriole
 caprioled
 caprioles
 caprioling
+capris
 caprocks
 caprolactam
 capsaicin
@@ -23289,6 +23297,7 @@ cookhouses
 cookies
 cookless
 cookoff
+cookoffs
 cookout
 cookshack
 cookshacks
@@ -24756,6 +24765,7 @@ craftsmanship
 craftsmanships
 craftsmen
 craftspersons
+craftswomen
 craftwork
 craftworks
 crag
@@ -32045,6 +32055,7 @@ distressful
 distressfully
 distressfulness
 distressing
+distressingly
 distributary
 distribute
 distributed
@@ -36899,6 +36910,7 @@ epigenous
 epigeous
 epiglottal
 epiglottic
+epiglottis
 epigone
 epigonic
 epigonism
@@ -37869,6 +37881,7 @@ eulogias
 eulogise
 eulogises
 eulogising
+eulogist
 eulogistic
 eulogistically
 eulogists
@@ -47513,6 +47526,7 @@ grapline
 graplines
 graplins
 grapnels
+grappas
 grappler
 grapplers
 grapples
@@ -55229,6 +55243,7 @@ indexation
 indexations
 indexed
 indexer
+indexers
 indexicals
 indexing
 indican
@@ -55796,6 +55811,7 @@ infotainments
 infought
 infract
 infracting
+infraction
 infractions
 infractor
 infractors
@@ -58497,6 +58513,7 @@ jargoned
 jargoneer
 jargonel
 jargoning
+jargonish
 jargonist
 jargonistic
 jargonize
@@ -58584,6 +58601,7 @@ jaywalker
 jaywalkers
 jaywalking
 jaywalks
+jazzbo
 jazzed
 jazzer
 jazzers
@@ -60046,6 +60064,7 @@ kilopascals
 kilos
 kiloton
 kilotons
+kilovolt
 kilovolts
 kilowatt
 kilowatts
@@ -60646,6 +60665,7 @@ kyanise
 kyanised
 kyanises
 kyanite
+kyanites
 kyanize
 kyanized
 kyanizing
@@ -66433,6 +66453,7 @@ median
 medianly
 mediant
 mediants
+medias
 mediastina
 mediastinum
 mediate
@@ -67272,6 +67293,7 @@ metals
 metalsmith
 metalware
 metalwares
+metalwork
 metalworker
 metalworkers
 metalworking
@@ -70058,6 +70080,7 @@ monotonousness
 monotremes
 monotype
 monotypic
+monounsaturate
 monounsaturated
 monounsaturates
 monovalent
@@ -73036,6 +73059,7 @@ nineteenth
 nineties
 ninety
 ninhydrin
+ninhydrins
 ninnies
 ninny
 ninnyhammers
@@ -74495,6 +74519,7 @@ notebooks
 notecards
 notecase
 notedly
+notednesses
 notepad
 notepads
 notepaper
@@ -83278,6 +83303,7 @@ phytopathogens
 phytopathology
 phytophagous
 phytoplankter
+phytoplankters
 phytoplankton
 phytoplanktonic
 phytoplanktons
@@ -85633,6 +85659,7 @@ popelike
 poperies
 popery
 popes
+popeyed
 popgun
 popguns
 popinjays
@@ -89521,6 +89548,7 @@ pulser
 pulsers
 pulses
 pulsing
+pulsion
 pulsions
 pulsojets
 pulverable
@@ -90659,6 +90687,7 @@ quipper
 quippers
 quippier
 quippiest
+quipping
 quippus
 quippy
 quips
@@ -92187,6 +92216,7 @@ recaptured
 recaptures
 recapturing
 recarpet
+recarpeted
 recarpeting
 recarpets
 recarried
@@ -100073,6 +100103,7 @@ scissortail
 scissortails
 scissure
 scissures
+sciurid
 sciurine
 sciurines
 sciuroid
@@ -103733,6 +103764,7 @@ sipes
 siphon
 siphonage
 siphonal
+siphonic
 siphonophore
 siphonostele
 siphonosteles
@@ -103951,6 +103983,7 @@ skewbald
 skewbalds
 skewed
 skewer
+skewers
 skewing
 skewness
 skews
@@ -106859,6 +106892,7 @@ spinet
 spiniest
 spinifex
 spinifexes
+spininess
 spinless
 spinnaker
 spinnakers
@@ -111882,6 +111916,7 @@ swear
 swearer
 swearers
 swearing
+swearwords
 sweat
 sweatband
 sweatbands
