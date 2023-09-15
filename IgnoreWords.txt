@@ -1576,6 +1576,7 @@ affluence
 affluences
 affluencies
 affluent
+affluently
 affluents
 afflux
 afford
@@ -6236,6 +6237,7 @@ asseverates
 asseveration
 asseverative
 assholes
+assiduities
 assiduity
 assiduous
 assiduously
@@ -7745,6 +7747,7 @@ bacteremias
 bacteremic
 bacteria
 bacterial
+bacterials
 bacterias
 bacterin
 bacterins
@@ -8452,6 +8455,7 @@ baroreceptor
 barosaur
 barosaurs
 baroscopes
+barque
 barquentine
 barquentines
 barques
@@ -10464,6 +10468,7 @@ bilingualism
 bilingually
 biliously
 biliousness
+biliousnesses
 bilirubins
 biliverdin
 biliverdins
@@ -16041,6 +16046,7 @@ cardia
 cardigan
 cardigans
 cardinal
+cardinalate
 cardinalates
 cardinalities
 cardinality
@@ -21030,6 +21036,7 @@ collators
 colleague
 colleagueship
 collect
+collectables
 collectanea
 collected
 collectedly
@@ -23952,6 +23959,7 @@ corsetries
 corsets
 corslet
 corslets
+cortege
 cortex
 cortexes
 cortically
@@ -27659,6 +27667,7 @@ decimations
 decimator
 decimeter
 decimeters
+decimetre
 decipherable
 deciphered
 decipherers
@@ -29129,6 +29138,7 @@ deprecatory
 depreciable
 depreciated
 depreciates
+depreciating
 depreciatingly
 depreciation
 depreciations
@@ -37280,6 +37290,7 @@ erasers
 erasing
 erasion
 erasions
+erasure
 erasures
 erbium
 ere
@@ -40195,6 +40206,7 @@ feather
 featherbed
 featherbedded
 featherbedding
+featherbeds
 featherbrain
 featherbrains
 feathered
@@ -42455,6 +42467,7 @@ focalize
 focalized
 focalizes
 focally
+foci
 focused
 focuser
 focusers
@@ -45589,6 +45602,7 @@ genip
 genistein
 genisteins
 genitalic
+genitally
 genitals
 genitivally
 genitive
@@ -55483,6 +55497,7 @@ inducibilities
 inducibility
 inducing
 induct
+inductance
 inductances
 inducted
 inductee
@@ -57432,6 +57447,7 @@ intrauterine
 intravascularly
 intravenous
 intravitam
+intrazonal
 intreat
 intreated
 intreats
@@ -61156,6 +61172,7 @@ lampers
 lamperses
 lamping
 lampion
+lampions
 lamplight
 lamplighters
 lampoon
@@ -63977,6 +63994,7 @@ losings
 losses
 lossless
 lossy
+lost
 lostness
 lot
 lota
@@ -64344,6 +64362,7 @@ lunier
 lunies
 luniest
 lunitidal
+lunker
 lunkers
 lunkheaded
 lunkheads
@@ -64579,6 +64598,7 @@ lyrism
 lyrisms
 lyrist
 lysate
+lysates
 lysed
 lyses
 lysimeter
@@ -64993,6 +65013,7 @@ mailman
 mailmen
 mailroom
 mailrooms
+maim
 maimer
 maims
 mainframe
@@ -76324,6 +76345,7 @@ orangery
 oranges
 orangewood
 orangey
+orangish
 orangs
 orangutan
 orangutans
@@ -84679,6 +84701,7 @@ pleasures
 pleasuring
 pleat
 pleated
+pleater
 pleaters
 pleather
 pleatless
@@ -91224,6 +91247,7 @@ raillery
 railroad
 railroaded
 railroader
+railroadings
 railroads
 rails
 railways
@@ -91724,6 +91748,7 @@ rave
 raved
 ravel
 raveled
+raveler
 ravelin
 raveling
 ravelings
@@ -92392,6 +92417,7 @@ rechanged
 rechanges
 rechanneled
 rechanneling
+rechannelled
 rechannelling
 recharge
 rechargeable
@@ -95452,6 +95478,7 @@ rescinders
 rescinding
 rescindment
 rescindments
+rescinds
 rescission
 rescore
 rescoring
@@ -98103,6 +98130,7 @@ rubric
 rubrical
 rubricate
 rubricates
+rubrication
 rubrications
 rubricator
 rubricators
@@ -102557,6 +102585,7 @@ shellback
 shellbacks
 shellbark
 shellbarks
+shelled
 shellers
 shellfires
 shellfisheries
@@ -106377,6 +106406,7 @@ sowar
 sowars
 sowbellies
 sowbelly
+sowbreads
 sowcar
 sowcars
 sowens
@@ -115008,6 +115038,7 @@ thinkablenesses
 thinkably
 thinker
 thinkers
+thinkingly
 thinkingness
 thinkingnesses
 thinkings
@@ -115628,6 +115659,7 @@ timberman
 timbermen
 timberwork
 timbery
+timbral
 timbrel
 timbrelled
 timbrels
@@ -123945,6 +123977,7 @@ vestibuled
 vestibules
 vestibuling
 vestige
+vestiges
 vestigia
 vestigial
 vestigially
@@ -127034,6 +127067,7 @@ wiretapping
 wiretaps
 wireway
 wireways
+wireworks
 wireworms
 wirier
 wiriest
@@ -127425,6 +127459,7 @@ woollinesses
 woolly
 woolman
 woolmen
+woolpacks
 wools
 woolshed
 woolsheds
