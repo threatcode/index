@@ -196,6 +196,7 @@ abuser
 abusers
 abuses
 abusive
+abusively
 abusiveness
 abusivenesses
 abutment
@@ -623,6 +624,7 @@ acinar
 acing
 acini
 acinose
+acinous
 ackee
 ackees
 acknowledged
@@ -2989,6 +2991,7 @@ amblyopic
 amboinas
 ambones
 ambos
+amboyna
 amboynas
 ambries
 ambroid
@@ -4828,6 +4831,7 @@ apimania
 aping
 apiologies
 apish
+apishly
 apishness
 apishnesses
 apivorous
@@ -5503,6 +5507,7 @@ ardently
 ardor
 ardors
 ardours
+arduous
 arduously
 arduousness
 arduousnesses
@@ -7910,6 +7915,7 @@ baleen
 balefire
 balefires
 baleful
+balefulness
 balefulnesses
 baler
 balers
@@ -13191,6 +13197,7 @@ briary
 bribable
 bribed
 bribee
+briberies
 bribers
 bribery
 bribes
@@ -14806,6 +14813,7 @@ cafetorium
 caffein
 caffeinated
 caffeine
+caffeines
 caffeinic
 caffeins
 caffs
@@ -15915,6 +15923,7 @@ carbuncles
 carburet
 carbureted
 carburetion
+carburetions
 carburetor
 carburetted
 carburetter
@@ -19838,6 +19847,7 @@ clodpates
 clodpole
 clodpoll
 clods
+clofibrate
 clofibrates
 clog
 clogged
@@ -29430,6 +29440,7 @@ desugar
 desugared
 desugaring
 desugars
+desulfur
 desulfured
 desulfuring
 desulfurize
@@ -39351,6 +39362,7 @@ factualisms
 factualist
 factualists
 factualities
+factuality
 factually
 factualnesses
 facture
@@ -41613,6 +41625,7 @@ flaxes
 flaxier
 flaxiest
 flaxseed
+flaxseeds
 flaxy
 flay
 flayer
@@ -48227,6 +48240,7 @@ guideways
 guideword
 guiding
 guidon
+guidons
 guids
 guidwillie
 guild
@@ -50829,6 +50843,7 @@ hexameter
 hexamethoniums
 hexamine
 hexamines
+hexanes
 hexapla
 hexaplar
 hexaplas
@@ -52160,6 +52175,7 @@ hotrods
 hotshot
 hotspot
 hotspots
+hotspur
 hotted
 hotter
 hottie
@@ -55650,6 +55666,7 @@ informs
 infos
 infotainments
 infought
+infract
 infracting
 infractions
 infractor
@@ -58085,6 +58102,7 @@ italicizes
 italics
 itch
 itchiest
+itchily
 itchinesses
 itching
 itchings
@@ -61195,6 +61213,7 @@ laryngoscopes
 laryngoscopies
 laryngoscopy
 larynx
+larynxes
 lasagna
 lasagne
 lasagnes
@@ -62154,6 +62173,7 @@ levee
 leveled
 leveler
 levelheaded
+levelheadedness
 leveling
 levelled
 leveller
@@ -65358,6 +65378,7 @@ maple
 maplelike
 maplike
 mapmaker
+mapmakers
 mapped
 mapper
 mappers
@@ -66303,6 +66324,7 @@ medievalists
 medievally
 medievals
 medigap
+medigaps
 medii
 medina
 medinas
@@ -80481,6 +80503,7 @@ pastille
 pastilles
 pastils
 pastime
+pastimes
 pastina
 pastinas
 pastiness
@@ -82925,6 +82948,7 @@ phrenetic
 phrenic
 phrenitides
 phrenitis
+phrenological
 phrenologies
 phrenology
 phrensies
@@ -88630,6 +88654,7 @@ protestations
 protested
 protester
 protesters
+protestor
 protests
 proteuses
 prothalamia
@@ -89402,6 +89427,7 @@ punks
 punky
 punner
 punnet
+punnets
 punniest
 punningly
 punny
@@ -90567,6 +90593,7 @@ racewalks
 raceway
 raceways
 rachet
+racheting
 rachets
 rachial
 rachides
@@ -92644,6 +92671,7 @@ redintegrate
 redintegrates
 redintegration
 redintegrations
+redintegrative
 redip
 redipped
 redips
@@ -100262,6 +100290,7 @@ sculptures
 sculpturesque
 scultches
 scumbag
+scumbags
 scumbled
 scumbles
 scumbling
@@ -100386,6 +100415,7 @@ sealers
 sealery
 sealift
 sealifts
+seallike
 seals
 sealskins
 seam
@@ -110852,6 +110882,7 @@ superinfected
 superinfecting
 superinfection
 superinfects
+supering
 superinsulated
 superintend
 superintendence
@@ -113069,6 +113100,7 @@ tawnily
 tawniness
 tawninesses
 tawpie
+tawpies
 tawse
 tawsed
 tawsing
@@ -121118,6 +121150,7 @@ unrealized
 unreally
 unreason
 unreasonably
+unreasoned
 unreasoningly
 unreasons
 unrebuked
@@ -121871,6 +121904,7 @@ upcurving
 updart
 updarts
 update
+updated
 updater
 updates
 updating
@@ -125333,6 +125367,7 @@ weatherize
 weatherized
 weatherizes
 weatherly
+weatherman
 weathermen
 weatherperson
 weatherpersons
