@@ -847,6 +847,7 @@ actuate
 actuated
 actuates
 actuator
+actuators
 acuities
 aculeate
 aculeated
@@ -8629,6 +8630,7 @@ basins
 basion
 basions
 basipetally
+basis
 bask
 basked
 basketballs
@@ -10871,6 +10873,7 @@ birdman
 birdmen
 birds
 birdseed
+birdseeds
 birdseye
 birdseyes
 birdsong
@@ -14748,6 +14751,7 @@ cabrettas
 cabrillas
 cabriole
 cabrioles
+cabriolet
 cabs
 cabstands
 cacaos
@@ -19166,6 +19170,7 @@ cinematographer
 cinematographic
 cinematographs
 cinematography
+cineol
 cineole
 cineoles
 cinephile
@@ -22786,6 +22791,7 @@ consolidation
 consolidator
 consolidators
 consoling
+consolingly
 consols
 consomme
 consonances
@@ -24177,6 +24183,7 @@ cotrustee
 cottae
 cottage
 cottager
+cottagers
 cottages
 cottagey
 cottar
@@ -30979,6 +30986,7 @@ disabusals
 disabuse
 disabuses
 disaccharidase
+disaccharidases
 disaccharides
 disaccord
 disaccorded
@@ -40264,6 +40272,7 @@ feazing
 febricities
 febricity
 febrific
+febrifuges
 febrile
 febrilities
 febrility
@@ -41405,6 +41414,7 @@ fiscally
 fiscals
 fiscs
 fish
+fishability
 fishable
 fishbolt
 fishbolts
@@ -42105,6 +42115,7 @@ floodwaters
 flooey
 floor
 floorage
+floorages
 floorcloth
 floorcloths
 floored
@@ -42318,6 +42329,7 @@ flunkey
 flunkeys
 flunking
 flunks
+flunky
 flunkyism
 fluorene
 fluorenes
@@ -43160,6 +43172,7 @@ formalised
 formalising
 formalism
 formalisms
+formalist
 formalistic
 formalists
 formality
@@ -43968,6 +43981,7 @@ from
 fromage
 fromages
 fromenty
+frond
 frondeurs
 frondose
 fronds
@@ -45887,6 +45901,7 @@ germproof
 gerontic
 gerontocratic
 gerontocrats
+gerontologic
 gerontological
 gerontologies
 gerontologist
@@ -45899,6 +45914,7 @@ gerund
 gerundive
 gerunds
 gesellschaft
+gesneria
 gesneriad
 gesneriads
 gesso
@@ -47351,6 +47367,7 @@ grabbles
 grabby
 graben
 graceful
+gracefuller
 gracefullest
 gracefully
 gracefulness
@@ -50479,6 +50496,7 @@ hellboxes
 hellbroth
 helldiver
 helldivers
+hellebore
 hellebores
 helled
 hellenization
@@ -50612,6 +50630,7 @@ hemins
 hemiola
 hemiolas
 hemiolia
+hemiolias
 hemiplegia
 hemiplegic
 hemiplegics
@@ -53205,6 +53224,7 @@ hypercorrect
 hypercorrection
 hypercorrectly
 hypercritical
+hypercritically
 hypercriticisms
 hypercritics
 hypercube
@@ -53528,6 +53548,7 @@ hyraces
 hyracoids
 hysons
 hyssop
+hyssops
 hysterectomies
 hysterectomized
 hysterectomy
@@ -55896,6 +55917,7 @@ influxes
 info
 infobahn
 infold
+infolded
 infolder
 infolders
 infolding
@@ -56852,6 +56874,7 @@ intercortical
 intercostal
 intercostals
 intercounty
+intercouple
 intercourse
 intercourses
 intercrater
@@ -60084,6 +60107,7 @@ kicked
 kicker
 kickers
 kickier
+kickiest
 kicking
 kickoff
 kicks
@@ -66383,6 +66407,7 @@ maximise
 maximised
 maximises
 maximising
+maximite
 maximites
 maximization
 maximizers
@@ -80969,6 +80994,7 @@ paternal
 paternalisms
 paternalist
 paternalistic
+paternalists
 paternally
 paternity
 paternoster
@@ -87935,6 +87961,7 @@ prewarns
 prewashed
 preweaning
 preweigh
+prewire
 prewiring
 prework
 preworked
@@ -94116,6 +94143,7 @@ reincarnation
 reincarnations
 reincite
 reincited
+reincorporate
 reincorporates
 reincorporation
 reincur
@@ -101645,6 +101673,7 @@ senhoritas
 senile
 senilely
 senilities
+seniority
 senna
 sennachies
 sennet
@@ -102687,6 +102716,7 @@ sheqalim
 sheqel
 sheqels
 sherberts
+sherbets
 sherd
 sherds
 shereef
@@ -120536,6 +120566,7 @@ understrength
 understudied
 understudies
 understudy
+undersupplies
 undersupply
 undersurface
 undersurfaces
@@ -122754,6 +122785,7 @@ uraemias
 uraemic
 uraeus
 uraeuses
+uralite
 uralites
 uralitic
 urania
@@ -123065,6 +123097,7 @@ vacuously
 vacuousness
 vacuousnesses
 vacuumed
+vacuums
 vadose
 vagabond
 vagabondages
@@ -123738,6 +123771,7 @@ venomousnesses
 venoms
 venosities
 venosity
+venously
 vent
 ventage
 ventail
@@ -125949,6 +125983,7 @@ weatherglass
 weatherglasses
 weathering
 weatherization
+weatherizations
 weatherize
 weatherized
 weatherizes
