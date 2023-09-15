@@ -725,6 +725,7 @@ acrolects
 acrolein
 acrolith
 acroliths
+acromegalic
 acromegalics
 acromegalies
 acromegaly
@@ -3080,6 +3081,7 @@ americium
 americiums
 amesace
 amethyst
+amethysts
 ametropia
 ami
 amia
@@ -6128,6 +6130,7 @@ aspises
 aspish
 asquint
 asrama
+asramas
 assagai
 assagais
 assai
@@ -9813,6 +9816,7 @@ berimes
 berk
 berkelium
 berks
+berlin
 berlines
 berme
 bermes
@@ -21401,6 +21405,7 @@ commenting
 commerce
 commerced
 commercial
+commercialise
 commercialised
 commercialises
 commercialisms
@@ -21748,6 +21753,7 @@ comported
 comportment
 comportments
 compos
+compose
 composedly
 composedness
 composednesses
@@ -22934,6 +22940,7 @@ continuingly
 continuities
 continuo
 continuos
+continuously
 continuousness
 continuum
 continuums
@@ -23828,6 +23835,7 @@ corrupters
 corruptest
 corruptibility
 corruptible
+corruptibly
 corruption
 corruptionists
 corruptions
@@ -35954,6 +35962,7 @@ endotherm
 endothermic
 endothermies
 endotherms
+endothermy
 endotoxic
 endotoxin
 endotoxins
@@ -38700,6 +38709,7 @@ expensed
 expensive
 expensively
 experience
+experiences
 experiencing
 experientially
 experiment
@@ -39110,6 +39120,7 @@ extremities
 extremity
 extremum
 extricate
+extricated
 extricating
 extrications
 extrinsic
@@ -42438,6 +42449,7 @@ fondled
 fondler
 fondles
 fondling
+fondlings
 fondly
 fondness
 fondnesses
@@ -47613,6 +47625,7 @@ greenhorn
 greenhorns
 greenhouses
 greenie
+greenier
 greenies
 greening
 greenishness
@@ -55487,6 +55500,7 @@ infarctions
 infare
 infares
 infatuated
+infatuates
 infatuations
 infaunae
 infaunal
@@ -61531,6 +61545,7 @@ laying
 layman
 laymen
 layoff
+layoffs
 layout
 layouts
 layover
@@ -70106,6 +70121,7 @@ morbidities
 morbidity
 morbidness
 morbidnesses
+morbific
 morbilli
 morceau
 mordacities
@@ -76745,6 +76761,7 @@ outcaper
 outcapered
 outcapering
 outcapers
+outcast
 outcaste
 outcastes
 outcatches
@@ -79997,6 +80014,7 @@ paraphrases
 paraphrasing
 paraphs
 paraphyses
+paraplegias
 paraplegic
 paraplegics
 parapodium
@@ -80733,6 +80751,7 @@ patulous
 patzer
 paucities
 paucity
+pauldron
 paulin
 paulins
 paulownia
@@ -92780,6 +92799,7 @@ redressors
 redrew
 redried
 redrill
+redrilled
 redrilling
 redrive
 redriven
@@ -97581,6 +97601,7 @@ roupier
 roupiest
 rouse
 rouseabouts
+roused
 rousements
 rouser
 rouses
@@ -97697,6 +97718,7 @@ rubbishy
 rubble
 rubblier
 rubbling
+rubboard
 rubby
 rubdown
 rubdowns
@@ -97885,6 +97907,7 @@ ruminating
 ruminations
 ruminative
 ruminators
+rummage
 rummaged
 rummagers
 rummages
@@ -99262,6 +99285,7 @@ sayeds
 sayers
 sayest
 sayid
+sayids
 saying
 sayings
 sayonaras
@@ -100225,6 +100249,7 @@ scrummage
 scrummaged
 scrummages
 scrummaging
+scrummed
 scrunch
 scrunches
 scrunchie
@@ -100843,6 +100868,7 @@ seizers
 seizes
 seizin
 seizing
+seizings
 seizins
 seizor
 seizure
@@ -102157,6 +102183,7 @@ shellacking
 shellackings
 shellacks
 shellback
+shellbacks
 shellbark
 shellbarks
 shellers
@@ -103345,6 +103372,7 @@ simplistic
 simplistically
 simply
 simps
+simulacra
 simulacrum
 simulacrums
 simulant
@@ -106188,6 +106216,7 @@ spawn
 spawners
 spawning
 spawns
+spays
 spazzes
 speak
 speakable
@@ -108217,6 +108246,7 @@ sticked
 sticker
 stickers
 stickfuls
+stickhandle
 stickhandled
 stickhandler
 stickhandlers
@@ -108953,6 +108983,7 @@ striatum
 stricken
 strickle
 strickled
+strickles
 strickling
 stricks
 strict
@@ -116116,6 +116147,7 @@ totipotencies
 totipotent
 tots
 totted
+totter
 tottered
 totterer
 totterers
@@ -122708,6 +122740,7 @@ vanishing
 vanishingly
 vanitied
 vanities
+vanitories
 vanity
 vanload
 vanloads
@@ -123209,6 +123242,7 @@ venule
 venules
 venulose
 venulous
+venuses
 vera
 veracious
 veraciousness
@@ -126879,6 +126913,7 @@ woodlot
 woodman
 woodmen
 woodnote
+woodnotes
 woodpecker
 woodpiles
 woodruff
