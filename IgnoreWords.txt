@@ -3911,6 +3911,7 @@ ankerite
 ankh
 anklebones
 ankled
+ankles
 anklet
 ankling
 ankus
@@ -7480,6 +7481,7 @@ azeotropes
 azeotropies
 azeotropy
 azide
+azidothymidines
 azimuth
 azimuthal
 azimuths
@@ -11345,6 +11347,7 @@ blazered
 blazers
 blazes
 blazing
+blazingly
 blazon
 blazoned
 blazoners
@@ -11835,6 +11838,7 @@ boards
 boardsailing
 boardsailings
 boardsailors
+boardwalk
 boardwalks
 boarfish
 boarfishes
@@ -14908,6 +14912,7 @@ cades
 cadet
 cadets
 cadetship
+cadetships
 cadge
 cadged
 cadger
@@ -16832,6 +16837,7 @@ cates
 catface
 catfacing
 catfacings
+catfalls
 catfight
 catfights
 catguts
@@ -25287,6 +25293,7 @@ crepitant
 crepitate
 crepitated
 crepitates
+crepitation
 crepitations
 crepon
 crepons
@@ -36357,6 +36364,7 @@ enervations
 enervator
 enervators
 enface
+enfaces
 enfacing
 enfeeble
 enfeeblements
@@ -36848,6 +36856,7 @@ entrainments
 entrains
 entrance
 entranced
+entrancement
 entrancements
 entrances
 entranceway
@@ -37434,6 +37443,7 @@ equiprobable
 equips
 equiseta
 equisetum
+equisetums
 equitabilities
 equitability
 equitable
@@ -37919,6 +37929,7 @@ eternal
 eternalized
 eternalizes
 eternalizing
+eternally
 eternalness
 eternalnesses
 eternals
@@ -40385,12 +40396,14 @@ fayalite
 faying
 fays
 faze
+fazed
 fazenda
 fazendas
 fazes
 fazing
 fe
 fealties
+fealty
 fear
 feared
 fearer
@@ -43385,6 +43398,7 @@ formalizing
 formalness
 formalnesses
 formals
+formamide
 formamides
 format
 formates
@@ -48514,6 +48528,7 @@ grubworm
 grudged
 grudges
 grudging
+grudgingly
 grue
 gruel
 grueled
@@ -50951,6 +50966,7 @@ henbit
 henbits
 hence
 henceforth
+henceforward
 henchman
 henchmen
 hencoop
@@ -52853,6 +52869,7 @@ huffily
 huffiness
 huffing
 huffish
+huffishly
 huffs
 huffy
 hugely
@@ -63459,6 +63476,7 @@ lionizations
 lionize
 lionizes
 lionizing
+lionlike
 lions
 lip
 lipa
@@ -71910,6 +71928,7 @@ mutable
 mutagen
 mutagenesis
 mutagenic
+mutagenically
 mutagenicities
 mutagenicity
 mutagens
@@ -72625,6 +72644,7 @@ navicerts
 naviculars
 navigabilities
 navigability
+navigates
 navigating
 navigation
 navigational
@@ -74139,6 +74159,7 @@ nondiabetics
 nondialyzable
 nondiapausing
 nondiffusible
+nondiplomatic
 nondirected
 nondirectional
 nondisabled
@@ -77800,6 +77821,7 @@ outjockeyed
 outjockeying
 outjockeys
 outjuggle
+outjuggled
 outjuggles
 outjump
 outjumped
@@ -78553,6 +78575,7 @@ overbrowses
 overbrowsing
 overbrutal
 overbuild
+overbuilding
 overbuilt
 overburdened
 overburdening
@@ -79799,6 +79822,7 @@ ozonides
 ozonise
 ozonised
 ozonising
+ozonizations
 ozonize
 ozonized
 ozonizer
@@ -80778,6 +80802,7 @@ paraphrases
 paraphrasing
 paraphs
 paraphyses
+paraplegia
 paraplegias
 paraplegic
 paraplegics
@@ -84586,6 +84611,7 @@ pirouetting
 pirozhki
 pirozhok
 pis
+piscator
 piscatorial
 piscatory
 pisciform
@@ -86316,6 +86342,7 @@ porcelainize
 porcelainizes
 porcelainizing
 porcelains
+porcelaneous
 porcellaneous
 porches
 porcini
@@ -88725,6 +88752,7 @@ procession
 processionals
 processioning
 processors
+prochain
 prochein
 prochoice
 prochurch
@@ -98013,6 +98041,7 @@ robotically
 robotics
 robotism
 robotization
+robotizations
 robotize
 robotries
 robotry
@@ -99049,6 +99078,7 @@ sablefish
 sablefishes
 sabot
 sabotage
+sabotaged
 sabotages
 saboteur
 saboteurs
@@ -110268,6 +110298,7 @@ studiously
 studiousness
 studiousnesses
 studlier
+studliest
 studly
 studs
 studworks
@@ -119775,6 +119806,7 @@ typestyles
 typewrite
 typewriter
 typewrites
+typewriting
 typewritten
 typewrote
 typey
@@ -122160,6 +122192,7 @@ unpasteurized
 unpastoral
 unpatched
 unpatentable
+unpaved
 unpedantic
 unpeeled
 unpegged
@@ -125110,6 +125143,7 @@ virosis
 virtu
 virtualities
 virtuality
+virtually
 virtue
 virtueless
 virtues
@@ -127180,6 +127214,7 @@ whitefishes
 whiteflies
 whitehead
 whiteheads
+whitely
 whiten
 whitened
 whiteners
