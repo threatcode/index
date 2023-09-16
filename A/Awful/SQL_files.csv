@@ -1,0 +1,4 @@
+generator/core/mybatis-generator-systests-common/src/main ...,https://github.com/mybatis/generator/blob/master/core/mybatis-generator-systests-common/src/main/resources/mbg/test/common/scripts/CreateDB.sql
+SQL-Server-First-Responder-Kit/sp_DatabaseRestore.sql at master,https://github.com/zmking888/SQL-Server-First-Responder-Kit/blob/master/sp_DatabaseRestore.sql
+ITS System Information,http://139.59.45.243:8081/login/inc/cmses/install/8000.sql
+TWIG,http://139.59.45.243:37215/login/inc/header.php/wwwroot/includes/5984..sql
