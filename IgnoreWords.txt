@@ -1311,6 +1311,7 @@ advertises
 advertising
 advertize
 advertized
+advertizement
 advertizements
 advertizes
 advertizing
@@ -1743,6 +1744,7 @@ agenize
 agenizing
 agent
 agential
+agenting
 agentings
 agentival
 agentive
@@ -9723,6 +9725,7 @@ bemuse
 bemused
 bemusedly
 bemusements
+bemuses
 bemusing
 bemuzzled
 bemuzzles
@@ -14848,6 +14851,7 @@ caciquisms
 cackle
 cackled
 cacklers
+cackling
 cacodemon
 cacodemonic
 cacodemons
@@ -15820,6 +15824,7 @@ capitalized
 capitalizes
 capitally
 capitals
+capitate
 capitated
 capitation
 capitations
@@ -21090,6 +21095,7 @@ colewort
 coleworts
 colic
 colicin
+colicine
 colicines
 colickiest
 colicky
@@ -24127,6 +24133,7 @@ coruscation
 coruscations
 corves
 corvet
+corvets
 corvette
 corvettes
 corvid
@@ -26664,6 +26671,7 @@ cyclizations
 cyclize
 cyclized
 cyclizes
+cyclizine
 cyclizing
 cyclo
 cycloaddition
@@ -27060,6 +27068,7 @@ damar
 damars
 damascene
 damascened
+damascenes
 damascening
 damaskeen
 damaskeened
@@ -29270,6 +29279,7 @@ deportments
 deports
 deposable
 deposal
+depose
 deposed
 deposer
 deposers
@@ -36199,6 +36209,7 @@ endnotes
 endobiotic
 endocardia
 endocardial
+endocarditis
 endocarditises
 endocarps
 endocast
@@ -37729,6 +37740,7 @@ eschar
 escharotic
 eschatology
 escheatable
+escheated
 escheating
 escheator
 escheators
@@ -40278,6 +40290,7 @@ fatherless
 fatherlike
 fatherliness
 fatherlinesses
+fatherly
 fathers
 fathomed
 fathomless
@@ -40542,6 +40555,7 @@ feeling
 feelingly
 feelingnesses
 feelings
+feels
 fees
 feetfirst
 feeze
@@ -46990,6 +47004,7 @@ gluiness
 gluinesses
 glum
 glumes
+glumly
 glummer
 glummest
 glumness
@@ -47149,6 +47164,7 @@ goatee
 goateed
 goatees
 goatfish
+goatherd
 goatherds
 goatish
 goatishly
@@ -48487,6 +48503,7 @@ grovelingly
 grovellers
 grovelling
 grovels
+groves
 grow
 grower
 growers
@@ -52189,6 +52206,7 @@ homoplasies
 homoplastic
 homoplasy
 homopolar
+homopolymer
 homopolymers
 homopteran
 homopterans
@@ -56279,6 +56297,7 @@ ingestive
 ingests
 ingle
 inglenooks
+ingloriously
 ingloriousness
 ingoing
 ingot
@@ -72916,6 +72935,7 @@ nematological
 nematologist
 nematologists
 nematology
+nemertean
 nemerteans
 nemertine
 nemertines
@@ -78176,6 +78196,7 @@ outslicked
 outslicking
 outslicks
 outsmart
+outsmarting
 outsmarts
 outsmell
 outsmelling
@@ -87551,6 +87572,7 @@ preface
 prefaced
 prefacers
 prefaces
+prefade
 prefaded
 prefades
 prefading
@@ -92149,6 +92171,7 @@ ratable
 ratably
 ratafees
 ratafia
+ratafias
 ratals
 ratanies
 ratans
@@ -99756,6 +99779,7 @@ sanitarily
 sanitariums
 sanitary
 sanitated
+sanitates
 sanitating
 sanitation
 sanitations
@@ -101335,6 +101359,7 @@ scutage
 scutages
 scutch
 scutched
+scutcheon
 scutcheons
 scutcher
 scutchers
@@ -106347,6 +106372,7 @@ softish
 softly
 softnesses
 softshell
+softshells
 software
 softwares
 sogged
@@ -106646,6 +106672,7 @@ sonde
 sonders
 sondes
 sone
+song
 songbird
 songbirds
 songbooks
@@ -109431,6 +109458,7 @@ stingrays
 stink
 stinkards
 stinkbug
+stinkhorn
 stinkier
 stinkiest
 stinking
@@ -113426,6 +113454,7 @@ tables
 tablesful
 tablespoon
 tablespoonfuls
+tablespoons
 tablespoonsful
 tablet
 tableted
@@ -116789,6 +116818,7 @@ tolls
 tollways
 toluate
 toluates
+toluene
 toluenes
 toluic
 toluid
@@ -116868,6 +116898,7 @@ tonality
 tonally
 tondi
 tondo
+tondos
 tone
 tonearm
 tonearms
@@ -118232,6 +118263,7 @@ trespassing
 tress
 tressel
 tresses
+tressier
 tressiest
 tressour
 tressours
@@ -121923,6 +121955,7 @@ unkissed
 unknit
 unknits
 unknitting
+unknot
 unknots
 unknotted
 unknotting
@@ -125394,6 +125427,7 @@ vocabulary
 vocal
 vocalese
 vocaleses
+vocalic
 vocalically
 vocalics
 vocalise
@@ -128295,6 +128329,7 @@ workspace
 workspaces
 workstation
 workstations
+worktable
 worktables
 workup
 workups
