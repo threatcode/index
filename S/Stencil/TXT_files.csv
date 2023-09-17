@@ -1,0 +1,9 @@
+GL_OES_texture_stencil8 - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/OES/OES_texture_stencil8.txt
+GL_ARB_texture_stencil8 - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/ARB/ARB_texture_stencil8.txt
+CMakeLists.txt - Jean-Michel Gorius / stencil-dsl - GitLab,https://spclgitlab.ethz.ch/jmgorius/stencil-dsl/-/blob/stencils/CMakeLists.txt
+Download technique's instructions - Paolo Cirio,https://paolocirio.net/work/hd-stencils/SCRIPT_HD_STENCILS-README.txt
+stencil-dsl - lib - Transforms - CMakeLists.txt - GitLab,https://spclgitlab.ethz.ch/jmgorius/stencil-dsl/-/blob/7560b1c98b148aebab7463d30bca4a3e2540731e/lib/Transforms/CMakeLists.txt
+"Full text of ""Stencil catalogs: cut stencils for the use of practical men.""",https://archive.org/stream/StencilCatalogsCutStencilsForTheUseOfPracticalMen/StencilCatalog0001_djvu.txt
+ARB_texture_stencil8 - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_texture_stencil8.txt
+ARB_stencil_texturing - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_stencil_texturing.txt
+context-attributes-alpha-depth-stencil-antialias-expected.txt - GitHub,https://github.com/intel/pa-blink/blob/master/LayoutTests/fast/canvas/webgl/context-attributes-alpha-depth-stencil-antialias-expected.txt
