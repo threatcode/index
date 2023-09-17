@@ -5815,6 +5815,7 @@ arraigner
 arraigning
 arraignment
 arraignments
+arraigns
 arrange
 arranged
 arrangement
@@ -17497,6 +17498,7 @@ cero
 cerotic
 cerotypes
 cerous
+certain
 certainer
 certainest
 certainties
@@ -23611,6 +23613,7 @@ copals
 coparcenaries
 coparcenary
 coparcener
+coparceners
 coparent
 coparenting
 coparents
@@ -29890,6 +29893,7 @@ deterged
 detergencies
 detergency
 detergent
+deterger
 detergers
 deterges
 deterging
@@ -30308,6 +30312,7 @@ diagnostics
 diagonalizable
 diagonalization
 diagonalize
+diagonalized
 diagonalizes
 diagonally
 diagonals
@@ -31858,6 +31863,7 @@ disked
 diskette
 diskettes
 disking
+disklike
 dislikable
 dislikeable
 disliked
@@ -31917,6 +31923,7 @@ disobeyer
 disobeying
 disobeys
 disobliges
+disobliging
 disorder
 disorderedly
 disorderedness
@@ -40580,6 +40587,7 @@ feazing
 febricities
 febricity
 febrific
+febrifuge
 febrifuges
 febrile
 febrilities
@@ -40664,6 +40672,7 @@ feezed
 feezes
 feh
 fehs
+feign
 feigned
 feignedly
 feigner
@@ -43782,6 +43791,7 @@ foziest
 foziness
 fozinesses
 fozy
+frabjous
 fracas
 fracases
 fractal
@@ -46393,6 +46403,7 @@ gibbetted
 gibbing
 gibbon
 gibbons
+gibbose
 gibbosities
 gibbosity
 gibbous
@@ -64653,6 +64664,7 @@ lowballs
 lowborn
 lowboys
 lowbred
+lowbrow
 lowbrows
 lowdowns
 lowed
@@ -71681,6 +71693,7 @@ multiform
 multiformities
 multiformity
 multifrequency
+multifunction
 multifunctional
 multigenic
 multigerm
@@ -77337,6 +77350,7 @@ orthoscopic
 orthostatic
 orthotic
 orthotics
+orthotists
 orthotropous
 ortolan
 ortolans
@@ -81021,6 +81035,7 @@ paraquet
 paraquets
 pararosaniline
 pararosanilines
+paras
 parasail
 parasailed
 parasailing
@@ -85300,6 +85315,7 @@ platyfish
 platyfishes
 platyhelminth
 platyhelminthic
+platyhelminths
 platypi
 platypus
 platyrrhine
@@ -87349,6 +87365,7 @@ preallotting
 prealter
 prealtered
 prealtering
+prealters
 preambled
 preamplifier
 preamplifiers
@@ -90014,6 +90031,7 @@ psalter
 psalteria
 psalteries
 psaltry
+psammite
 psammon
 psammons
 pschent
@@ -92692,6 +92710,7 @@ readdicts
 readdress
 readdressed
 readdresses
+reader
 readerly
 readers
 readership
@@ -96004,6 +96023,7 @@ representers
 represents
 repress
 represser
+repressers
 represses
 repressible
 repressing
@@ -96634,6 +96654,7 @@ respectful
 respectfully
 respectfulness
 respecting
+respective
 respectively
 respell
 respelling
@@ -98742,6 +98763,7 @@ roughen
 roughened
 roughening
 roughens
+rougher
 roughers
 roughest
 roughhew
@@ -101628,6 +101650,7 @@ scuzz
 scuzzball
 scuzzballs
 scuzzier
+scuzziest
 scuzzy
 scyphate
 scyphi
@@ -104800,6 +104823,7 @@ sirdar
 sirdars
 sire
 siree
+sirenian
 sirenians
 sirens
 siring
@@ -107143,6 +107167,7 @@ sorus
 sos
 sostenuti
 sostenuto
+sostenutos
 sot
 soteriological
 soteriologies
@@ -107707,6 +107732,7 @@ spellbind
 spellbinder
 spellbinders
 spellbinds
+spellbound
 spelldowns
 spelled
 spellers
@@ -111844,6 +111870,7 @@ sulfur
 sulfurated
 sulfurates
 sulfurating
+sulfured
 sulfuret
 sulfureted
 sulfuretted
@@ -112864,6 +112891,7 @@ susurrates
 susurrating
 susurration
 susurrations
+susurrus
 sutler
 sutlers
 sutra
@@ -116338,6 +116366,7 @@ thumbhole
 thumbholes
 thumbing
 thumbkins
+thumbless
 thumbnut
 thumbnuts
 thumbprint
@@ -120828,6 +120857,7 @@ unbuilds
 unbuilt
 unbulky
 unbundle
+unbundles
 unburden
 unburdened
 unburdening
@@ -124702,6 +124732,7 @@ venisons
 venogram
 venograms
 venographies
+venologies
 venology
 venomed
 venomers
@@ -128240,6 +128271,7 @@ witherers
 witheringly
 witherite
 witherites
+witherod
 witherods
 withers
 withes
@@ -128566,6 +128598,7 @@ wordages
 wordbook
 wordier
 wordily
+wordiness
 wording
 wordings
 wordless
@@ -129040,6 +129073,7 @@ xyloid
 xylol
 xylols
 xylophage
+xylophages
 xylophone
 xylophones
 xylophonist
@@ -129637,6 +129671,7 @@ zestiest
 zesting
 zestless
 zests
+zesty
 zetas
 zettabyte
 zeugma
