@@ -641,6 +641,7 @@ ackee
 ackees
 acknowledged
 acknowledgedly
+acknowledges
 acknowledgment
 acknowledgments
 aclinic
@@ -4393,6 +4394,7 @@ antiheroic
 antiheroine
 antiheroines
 antiherpes
+antihijack
 antihistamine
 antihistaminics
 antihomosexual
@@ -7067,6 +7069,7 @@ autocoids
 autocorrelation
 autocracy
 autocrat
+autocratic
 autocratically
 autocrine
 autocross
@@ -7198,6 +7201,7 @@ autosuggested
 autosuggesting
 autosuggestions
 autotetraploid
+autotetraploids
 autotetraploidy
 autotomic
 autotomies
@@ -17185,6 +17189,7 @@ celadon
 celadons
 celandines
 celebrant
+celebrants
 celebrate
 celebrated
 celebratedness
@@ -25854,6 +25859,7 @@ cruller
 crullers
 crumbers
 crumbier
+crumbing
 crumbles
 crumblier
 crumbliest
@@ -38548,6 +38554,7 @@ evictee
 evictees
 eviction
 evictor
+evictors
 evicts
 evidence
 evidenced
@@ -47411,6 +47418,7 @@ godmothers
 godown
 godowns
 godroon
+godroons
 gods
 godsend
 godship
@@ -55022,6 +55030,7 @@ implicatively
 implicativeness
 implicitly
 implicitness
+implicitnesses
 implied
 implode
 imploded
@@ -59950,6 +59959,7 @@ jupon
 jupons
 jura
 jurally
+jurants
 jurassic
 juratory
 jurats
@@ -65171,6 +65181,7 @@ lynching
 lynxes
 lyophile
 lyophiled
+lyophilic
 lyophilise
 lyophilises
 lyophilizations
@@ -70165,6 +70176,7 @@ mixer
 mixers
 mixes
 mixible
+mixing
 mixologist
 mixt
 mixture
@@ -72654,6 +72666,7 @@ naphthenic
 naphthols
 naphthous
 naphthyl
+naphthylamine
 naphthylamines
 naphtol
 napiform
@@ -76599,6 +76612,7 @@ ombres
 ombudsman
 ombudsmanship
 ombudsmen
+omega
 omegas
 omelet
 omelets
@@ -77346,6 +77360,7 @@ orography
 oroide
 orologists
 orology
+orometers
 oropharyngeal
 oropharynx
 oropharynxes
@@ -77692,6 +77707,7 @@ outages
 outargue
 outargues
 outarguing
+outask
 outasked
 outasking
 outasks
@@ -80666,6 +80682,7 @@ pancratium
 pancratiums
 pancreas
 pancreases
+pancreatic
 pancreatin
 pancreatins
 pancreatitis
@@ -81518,6 +81535,7 @@ pasquinades
 pasquinading
 pass
 passable
+passably
 passacaglia
 passacaglias
 passade
@@ -81642,6 +81660,7 @@ pastorium
 pastoriums
 pastorly
 pastors
+pastorship
 pastrami
 pastramis
 pastries
@@ -83455,6 +83474,7 @@ phage
 phagedena
 phagedenas
 phages
+phagocyte
 phagocytic
 phagocytize
 phagocytized
@@ -84057,6 +84077,7 @@ photovoltaics
 phots
 phpht
 phragmoplast
+phragmoplasts
 phrasally
 phrase
 phrased
@@ -84549,6 +84570,7 @@ pileous
 piles
 pileum
 pileup
+pileups
 pileus
 pilfer
 pilferable
@@ -86569,6 +86591,7 @@ poolsides
 poons
 poontangs
 poop
+pooping
 poops
 poor
 poorer
@@ -88130,6 +88153,7 @@ premonish
 premonishes
 premonishing
 premonitions
+premonitory
 premoral
 premune
 premunitions
@@ -96413,6 +96437,7 @@ rescindment
 rescindments
 rescinds
 rescission
+rescissions
 rescore
 rescoring
 rescreened
@@ -99611,6 +99636,7 @@ safariing
 safaris
 safe
 safecracking
+safeguarded
 safeguarding
 safeguards
 safekeepings
@@ -99745,6 +99771,7 @@ salability
 salable
 salably
 salacious
+salaciously
 salaciousness
 salacity
 saladangs
@@ -102998,6 +103025,7 @@ sesquicentenary
 sesquiterpene
 sessilities
 sessility
+sessional
 sesspool
 sesspools
 sesterces
@@ -110894,6 +110922,7 @@ suavenesses
 suaver
 suavities
 sub
+suba
 subabbot
 subacid
 subacidly
@@ -117057,6 +117086,7 @@ tittle
 tittles
 tittup
 tittuped
+tittuping
 tittupped
 tittuppy
 titty
@@ -117239,6 +117269,7 @@ tollbar
 tollbars
 tollbooth
 tollbooths
+tolled
 toller
 tollers
 tollgates
@@ -118376,6 +118407,7 @@ transplantation
 transplanted
 transplanter
 transplanters
+transplanting
 transplants
 transponders
 transpontine
@@ -119674,6 +119706,7 @@ tubulate
 tubulated
 tubulates
 tubulating
+tubulator
 tubulators
 tubule
 tubulins
@@ -125412,6 +125445,7 @@ viewing
 viewings
 viewpoint
 viewpoints
+views
 viewy
 viga
 vigas
@@ -128807,6 +128841,7 @@ workprints
 works
 worksheet
 worksheets
+workshop
 workshops
 workspace
 workspaces
