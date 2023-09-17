@@ -2735,6 +2735,7 @@ almsgiver
 almsgivings
 almsman
 almud
+almude
 almuds
 almug
 almugs
@@ -3601,6 +3602,7 @@ ancestry
 ancho
 anchor
 anchorages
+anchored
 anchoress
 anchoresses
 anchoret
@@ -4442,6 +4444,7 @@ antimilitarists
 antimilitary
 antimine
 antimissile
+antimitotic
 antimitotics
 antimodernist
 antimodernists
@@ -9919,6 +9922,7 @@ bergamots
 bergeres
 berhyme
 berhymes
+berhyming
 beribboned
 beriberi
 beriberis
@@ -11745,6 +11749,7 @@ bluegills
 bluegrass
 bluegrasses
 bluegum
+bluegums
 blueheads
 blueish
 bluejack
@@ -12819,6 +12824,7 @@ bowlful
 bowlfuls
 bowlike
 bowline
+bowlines
 bowling
 bowman
 bowpot
@@ -19022,6 +19028,7 @@ chromoplasts
 chromoprotein
 chromoproteins
 chromosomal
+chromosphere
 chromospheres
 chromospheric
 chromy
@@ -22524,6 +22531,7 @@ confiscations
 confit
 confiteor
 confits
+confiture
 conflagrant
 conflagration
 conflagrations
@@ -25243,6 +25251,7 @@ creditabilities
 creditability
 creditable
 creditableness
+creditably
 credited
 creditors
 creditworthy
@@ -27759,6 +27768,7 @@ decarbonates
 decarbonations
 decarbonizer
 decarbonizers
+decarbonizing
 decarboxylase
 decarboxylases
 decarboxylated
@@ -42812,6 +42822,7 @@ foetor
 foetors
 foetus
 foetuses
+fog
 fogbound
 fogdog
 fogdogs
@@ -59872,6 +59883,7 @@ justificative
 justificatory
 justified
 justifier
+justifiers
 justifying
 justle
 justled
@@ -64875,6 +64887,7 @@ lurk
 lurked
 lurker
 lurkers
+lurking
 luscious
 lusciously
 lusciousnesses
@@ -73839,6 +73852,7 @@ nocked
 nocking
 nocks
 noctambulist
+noctambulists
 noctiluca
 noctilucas
 noctuid
@@ -75791,6 +75805,7 @@ obsecrate
 obsecrated
 obsecrates
 obsecrating
+obsequies
 obsequiousness
 observability
 observable
@@ -75832,6 +75847,7 @@ obsolesces
 obsoleting
 obstacle
 obstacles
+obstetrical
 obstetrician
 obstetricians
 obstetrics
@@ -79323,6 +79339,7 @@ overplanting
 overplants
 overplayed
 overplied
+overplies
 overplotting
 overpluses
 overply
@@ -81619,6 +81636,7 @@ patriliny
 patrimonial
 patrimonies
 patrimony
+patriot
 patriotically
 patriotism
 patriotisms
@@ -83623,6 +83641,7 @@ phonotactic
 phonotactics
 phonotype
 phonotypes
+phonotypies
 phonotypy
 phons
 phony
@@ -85481,6 +85500,7 @@ plosives
 plotless
 plotlessness
 plotlines
+plottage
 plotters
 plottier
 plotties
@@ -85993,6 +86013,7 @@ pollical
 pollices
 pollinate
 pollinated
+pollinates
 pollinating
 pollination
 pollinations
@@ -87037,6 +87058,7 @@ pourboires
 poured
 pourer
 pouring
+pourparler
 pourpoint
 pourpoints
 pours
@@ -90085,6 +90107,7 @@ psychosomatics
 psychosurgeon
 psychosurgeons
 psychosurgery
+psychosurgical
 psychosyntheses
 psychosynthesis
 psychotherapies
@@ -90759,6 +90782,7 @@ puttered
 putterer
 putterers
 putters
+putti
 puttie
 puttier
 puttiers
@@ -94155,6 +94179,7 @@ refashions
 refastened
 refastens
 refect
+refected
 refection
 refections
 refects
@@ -104173,6 +104198,7 @@ sidelining
 sidelong
 sideman
 sidemen
+sidepiece
 sidepieces
 sidereal
 siderite
@@ -111473,6 +111499,7 @@ succeeds
 success
 successes
 successful
+successfulness
 succession
 successional
 successionally
@@ -112559,6 +112586,7 @@ surfboarders
 surfboarding
 surfboards
 surfed
+surfeit
 surfeited
 surfeiting
 surfeits
@@ -116345,6 +116373,7 @@ ticklers
 tickles
 tickling
 ticklish
+ticklishly
 ticklishnesses
 ticks
 tickseed
@@ -118891,6 +118920,7 @@ tritheists
 trithings
 triticale
 triticales
+triticums
 tritium
 tritoma
 tritomas
@@ -122429,6 +122459,7 @@ unplayed
 unpleasant
 unpleasantly
 unpleased
+unpleasing
 unpledged
 unpliable
 unpliant
@@ -123589,6 +123620,7 @@ uralite
 uralites
 uralitic
 urania
+uranias
 uranic
 uranides
 uraninite
@@ -126011,6 +126043,7 @@ waesucks
 wafered
 wafering
 waff
+waffed
 waffie
 waffies
 waffing
@@ -127021,6 +127054,7 @@ wellie
 wellies
 wellness
 wellsites
+wellspring
 wellsprings
 welly
 welsh
@@ -127107,6 +127141,7 @@ wettish
 wha
 whack
 whacked
+whacker
 whackers
 whackiest
 whacking
