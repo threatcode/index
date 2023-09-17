@@ -2525,6 +2525,7 @@ allees
 allegedly
 alleger
 allegers
+allegiance
 allegiants
 allegoric
 allegorical
@@ -4103,6 +4104,7 @@ antecede
 anteceded
 antecedence
 antecedences
+antecedent
 antecedently
 antecedents
 antecedes
@@ -5177,6 +5179,7 @@ appoggiatura
 appoggiaturas
 appoint
 appointee
+appointer
 appointers
 appointing
 appointive
@@ -5964,6 +5967,7 @@ articulateness
 articulates
 articulating
 articulations
+articulative
 articulators
 artier
 artifacts
@@ -11076,6 +11080,7 @@ bitable
 bitartrate
 bitched
 bitchen
+bitcheries
 bitchery
 bitchier
 bitchiest
@@ -14222,6 +14227,7 @@ bulwarks
 bumbershoot
 bumbershoots
 bumblebees
+bumbled
 bumbler
 bumblers
 bumbling
@@ -17368,6 +17374,7 @@ centra
 central
 centraler
 centralest
+centralised
 centralises
 centralising
 centralism
@@ -29037,6 +29044,7 @@ demonstrable
 demonstrably
 demonstrate
 demonstrates
+demonstrating
 demonstration
 demonstrational
 demonstratively
@@ -32190,6 +32198,7 @@ disruptively
 disruptiveness
 disruptor
 disruptors
+disrupts
 dissatisfaction
 dissatisfied
 dissatisfies
@@ -33213,6 +33222,7 @@ dotal
 dotard
 dotards
 dotation
+dotations
 dote
 doted
 doter
@@ -42050,6 +42060,7 @@ flanerie
 flaneries
 flanes
 flaneur
+flange
 flanged
 flanger
 flangers
@@ -49469,6 +49480,7 @@ haet
 haffets
 haffit
 haffits
+hafiz
 hafizes
 hafniums
 haft
@@ -51261,6 +51273,7 @@ heptane
 heptanes
 heptarchs
 heptarchy
+heptose
 heptoses
 her
 herald
@@ -56879,6 +56892,7 @@ insaneness
 insanest
 insanitation
 insanitations
+insanity
 insatiability
 insatiable
 insatiably
@@ -62370,6 +62384,7 @@ laws
 lawsuit
 lawyer
 lawyering
+lawyerlike
 lawyerly
 lawyers
 lax
@@ -67965,6 +67980,7 @@ messinesses
 messing
 messman
 messmate
+messmates
 messuage
 messuages
 messy
@@ -72420,6 +72436,7 @@ myomatous
 myopathic
 myopathies
 myope
+myopes
 myopias
 myopically
 myopies
@@ -72758,6 +72775,7 @@ narrates
 narrating
 narration
 narrational
+narrations
 narrative
 narratological
 narratologies
@@ -75615,6 +75633,7 @@ numerable
 numerably
 numeracy
 numeral
+numerally
 numerals
 numerary
 numerate
@@ -77414,6 +77433,7 @@ orrices
 orris
 orrises
 orrisroot
+orrisroots
 ors
 orthicon
 orthicons
@@ -80890,6 +80910,7 @@ papacy
 papadam
 papadams
 papadom
+papadoms
 papadum
 papadums
 papain
@@ -81415,6 +81436,7 @@ pars
 parsable
 parse
 parsec
+parser
 parsers
 parses
 parsimonies
@@ -82445,6 +82467,7 @@ pencillings
 pencils
 pend
 pendant
+pendantly
 pendency
 pendentives
 pendently
@@ -84032,6 +84055,7 @@ photonic
 photonics
 photonuclear
 photooxidations
+photooxidative
 photooxidized
 photooxidizes
 photooxidizing
@@ -87473,6 +87497,7 @@ preadaptation
 preadaptations
 preadapting
 preadaptive
+preadjust
 preadjusted
 preadjusting
 preadmission
@@ -90092,6 +90117,7 @@ prowesses
 prowest
 prowl
 prowled
+prowler
 prowlers
 prowls
 prows
@@ -91054,6 +91080,7 @@ pygmean
 pygmies
 pygmoid
 pygmy
+pygmyish
 pyic
 pyin
 pyins
@@ -96325,6 +96352,7 @@ repursue
 repursued
 repursues
 repursuing
+reputability
 reputable
 reputably
 reputational
@@ -102267,6 +102295,7 @@ seism
 seismal
 seismic
 seismical
+seismically
 seismicities
 seismicity
 seismism
@@ -113675,6 +113704,7 @@ synchro
 synchromeshes
 synchronal
 synchroneities
+synchroneity
 synchronic
 synchronical
 synchronically
@@ -115603,6 +115633,7 @@ terrier
 terriers
 terrific
 terrifically
+terrified
 terrifies
 terrifyingly
 terrigenous
@@ -118219,6 +118250,7 @@ tranquilizer
 tranquilizers
 tranquilizes
 tranquilizing
+tranquillest
 tranquillize
 tranquillized
 tranquillizer
@@ -122790,6 +122822,7 @@ unpledged
 unpliable
 unpliant
 unplowed
+unplug
 unplugged
 unplugs
 unplumbed
@@ -124488,6 +124521,7 @@ vanload
 vanloads
 vanmen
 vanned
+vanner
 vanners
 vanpool
 vanpoolings
@@ -124983,6 +125017,7 @@ venture
 venturer
 venturesomely
 venturesomeness
+venturing
 venturis
 venturously
 venturousness
