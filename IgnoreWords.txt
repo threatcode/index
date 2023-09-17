@@ -2644,6 +2644,7 @@ allosteries
 allostery
 allotetraploid
 allotetraploids
+allotetraploidy
 allotment
 allotments
 allotrope
@@ -8281,6 +8282,7 @@ banksias
 bankside
 banksides
 bannable
+banned
 banner
 banneret
 bannerets
@@ -8571,6 +8573,7 @@ barreling
 barrelled
 barrelling
 barrels
+barrelsful
 barren
 barrenly
 barrenness
@@ -28434,6 +28437,7 @@ defogged
 defogging
 defoliant
 defoliate
+defoliated
 defoliates
 defoliation
 defoliators
@@ -28571,6 +28575,7 @@ degringolades
 degum
 degummed
 degums
+degust
 degustation
 degustations
 degusting
@@ -31366,6 +31371,7 @@ disbarments
 disbarred
 disbars
 disbelief
+disbeliefs
 disbelieved
 disbeliever
 disbelieves
@@ -34067,6 +34073,7 @@ dude
 duded
 dudeen
 dudeens
+dudes
 dudgeons
 dudishly
 duds
@@ -45327,6 +45334,7 @@ gametocytes
 gametogenesis
 gametogenic
 gametogenous
+gametophore
 gametophores
 gametophytes
 gametophytic
@@ -45958,6 +45966,7 @@ gemstones
 gemutlichkeit
 gen
 gendarme
+gendarmerie
 gendarmery
 gendarmes
 gender
@@ -48429,6 +48438,7 @@ grimy
 grinches
 grind
 grindelia
+grindelias
 grinder
 grinderies
 grinders
@@ -50964,6 +50974,7 @@ helluva
 helm
 helmed
 helmet
+helmeted
 helmets
 helminth
 helminthiases
@@ -58878,6 +58889,7 @@ italianized
 italianizes
 italianizing
 italic
+italicise
 italicised
 italicising
 italicizations
@@ -59499,6 +59511,7 @@ jinked
 jinker
 jinkers
 jinks
+jinn
 jinnee
 jinni
 jinnis
@@ -69541,6 +69554,7 @@ misesteem
 misesteemed
 misesteeming
 misestimate
+misestimated
 misestimates
 misestimating
 misestimation
@@ -72629,6 +72643,7 @@ napalming
 napalms
 napas
 nape
+naperies
 napery
 naphtha
 naphthalene
@@ -78687,6 +78702,7 @@ outwrestled
 outwrestles
 outwrit
 outwrite
+outwrites
 outwriting
 outwritten
 outwrought
@@ -78796,6 +78812,7 @@ overbake
 overbakes
 overbaking
 overbalanced
+overbalances
 overbalancing
 overbear
 overbearing
@@ -82101,6 +82118,7 @@ peculates
 peculating
 peculations
 peculator
+peculators
 peculiar
 peculiarities
 peculiarity
@@ -93952,6 +93970,7 @@ rediscounts
 rediscover
 rediscovered
 rediscoveries
+rediscovering
 rediscovery
 rediscuss
 rediscussed
@@ -97907,6 +97926,7 @@ ricercar
 ricercare
 ricercari
 ricers
+rices
 rich
 richen
 richened
@@ -97983,6 +98003,7 @@ ridiculer
 ridiculers
 ridicules
 ridiculing
+ridiculous
 ridiculously
 ridiculousness
 riding
@@ -99080,6 +99101,7 @@ ruck
 rucked
 ruckle
 ruckled
+ruckles
 ruckling
 rucks
 rucksack
@@ -99497,6 +99519,7 @@ sackbut
 sackbuts
 sackcloths
 sacker
+sackers
 sackfuls
 sacking
 sackings
@@ -99983,6 +100006,7 @@ samsaras
 samshu
 samshus
 samurai
+sanatoria
 sanatorium
 sanatoriums
 sanbenito
@@ -102673,6 +102697,7 @@ sentry
 sepaline
 sepalled
 sepaloid
+sepals
 separability
 separable
 separableness
@@ -109309,6 +109334,7 @@ statue
 statues
 statuesque
 statuesquely
+statuettes
 status
 statusy
 statutable
@@ -115114,6 +115140,7 @@ temped
 tempeh
 tempehs
 temper
+tempera
 temperable
 temperament
 temperances
@@ -115541,6 +115568,7 @@ terrorizations
 terrorizing
 terrorless
 terrors
+terry
 tersely
 terseness
 tersenesses
@@ -116783,6 +116811,7 @@ timeserver
 timeservers
 timeserving
 timeservings
+timetable
 timework
 timeworker
 timeworkers
@@ -116909,6 +116938,7 @@ tippytoeing
 tippytoes
 tipsily
 tipstaff
+tipstaffs
 tipstaves
 tipster
 tipsters
@@ -116980,6 +117010,7 @@ titians
 titillate
 titillates
 titillating
+titillatingly
 titillation
 titillations
 titillative
@@ -120312,6 +120343,7 @@ tyramine
 tyrannic
 tyrannical
 tyrannically
+tyrannicalness
 tyrannicide
 tyrannicides
 tyrannise
@@ -124220,6 +124252,7 @@ valedictions
 valedictorian
 valedictorians
 valedictories
+valence
 valences
 valencia
 valencias
@@ -124257,6 +124290,7 @@ validnesses
 valise
 valises
 valkyr
+valkyrie
 valkyries
 valkyrs
 vallate
@@ -124479,6 +124513,7 @@ variegate
 variegated
 variegates
 variegating
+variegation
 variegators
 varier
 variers
