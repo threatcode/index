@@ -2757,6 +2757,7 @@ almost
 alms
 almsgiver
 almsgivings
+almshouses
 almsman
 almsmen
 almud
@@ -5112,6 +5113,7 @@ apparatchiki
 apparats
 apparatus
 apparel
+appareled
 appareling
 apparelled
 apparelling
@@ -5410,6 +5412,7 @@ arabicas
 arabicization
 arabicize
 arabicized
+arabicizes
 arabicizing
 arabilities
 arabinose
@@ -6650,6 +6653,7 @@ atherosclerosis
 atherosclerotic
 athetoid
 athetoses
+athetosis
 athirst
 athletes
 athletically
@@ -15811,6 +15815,7 @@ cannonries
 cannonry
 cannot
 cannula
+cannulae
 cannulas
 cannulate
 cannulated
@@ -28366,6 +28371,7 @@ decreasingly
 decree
 decreed
 decreers
+decrees
 decrement
 decremental
 decrements
@@ -29929,6 +29935,7 @@ deshabille
 deshabilles
 desiccant
 desiccants
+desiccate
 desiccated
 desiccating
 desiccation
@@ -30371,6 +30378,7 @@ deviation
 deviationism
 deviationisms
 deviationist
+deviationists
 deviations
 deviative
 deviators
@@ -34929,6 +34937,7 @@ earthworms
 earthy
 earwax
 earwig
+earwigged
 earwigging
 earwigs
 earwitness
@@ -35902,6 +35911,7 @@ elvers
 elvishly
 elytra
 elytroid
+elytrous
 elytrum
 em
 emaciate
@@ -39515,6 +39525,7 @@ expecter
 expecters
 expecting
 expectorants
+expectorate
 expectorated
 expectorates
 expectorating
@@ -40711,6 +40722,7 @@ fascist
 fascistic
 fascistically
 fascists
+fascitis
 fash
 fashed
 fashes
@@ -52502,6 +52514,7 @@ hogans
 hogback
 hogbacks
 hogfish
+hogg
 hogger
 hoggers
 hogget
@@ -54976,6 +54989,7 @@ imaginativeness
 imagine
 imagined
 imaginer
+imaginers
 imagines
 imaging
 imagining
@@ -57356,6 +57370,7 @@ insanest
 insanitation
 insanitations
 insanity
+insatiabilities
 insatiability
 insatiable
 insatiably
@@ -60808,6 +60823,7 @@ kayaking
 kayakings
 kayaks
 kayles
+kayoes
 kayoing
 kays
 kazachki
@@ -62037,6 +62053,7 @@ laconism
 laconisms
 lacquer
 lacquerer
+lacquerers
 lacquering
 lacquers
 lacquerware
@@ -64423,6 +64440,7 @@ listlessness
 listlessnesses
 lists
 lit
+litanies
 litany
 litas
 lite
@@ -71498,6 +71516,7 @@ monounsaturates
 monovalent
 monovular
 monoxide
+monozygotic
 monseigneur
 monsieur
 monsignor
@@ -74360,6 +74379,7 @@ nicotiana
 nicotianas
 nicotin
 nicotinamide
+nicotinamides
 nicotine
 nicotinic
 nicotins
@@ -74623,6 +74643,7 @@ nitromethanes
 nitroparaffins
 nitros
 nitrosamine
+nitrosamines
 nitrosyl
 nitrosyls
 nitrous
@@ -75345,6 +75366,7 @@ noninstallment
 noninstallments
 noninstrumental
 nonintegral
+nonintegrated
 nonintellectual
 noninteracting
 noninteractive
@@ -78987,6 +79009,7 @@ outplotting
 outpoint
 outpointing
 outpoints
+outpolitick
 outpoliticking
 outpoliticks
 outpoll
@@ -83160,6 +83183,7 @@ penalty
 penanced
 penancing
 penang
+penangs
 penates
 pencel
 pencels
@@ -85517,6 +85541,7 @@ pinken
 pinkened
 pinkening
 pinkens
+pinkers
 pinkeye
 pinkie
 pinkies
@@ -86468,6 +86493,7 @@ plopping
 plops
 plosion
 plosions
+plosive
 plosives
 plotless
 plotlessness
@@ -89080,6 +89106,7 @@ preposterously
 prepotency
 prepotent
 prepotently
+prepped
 preppier
 preppies
 preppiest
@@ -93651,6 +93678,7 @@ reacted
 reaction
 reactionaries
 reactionary
+reactionaryism
 reactionaryisms
 reactions
 reactivate
@@ -98242,6 +98270,7 @@ retroreflection
 retroreflective
 retroreflectors
 retros
+retrospected
 retrospecting
 retrospections
 retrospective
@@ -100208,6 +100237,7 @@ rumpled
 rumples
 rumpless
 rumplier
+rumpling
 rumps
 rumpus
 rumpuses
@@ -106307,6 +106337,7 @@ skulduggeries
 skulduggery
 skulk
 skulked
+skulker
 skulkers
 skulks
 skullcap
@@ -106889,6 +106920,7 @@ sluggishness
 sluggishnesses
 sluice
 sluiced
+sluices
 sluicing
 sluicy
 sluing
@@ -109966,6 +109998,7 @@ stables
 stablest
 stablings
 stablish
+stablished
 stablishes
 stablishing
 stablishment
@@ -114082,6 +114115,7 @@ sustained
 sustainer
 sustainers
 sustaining
+sustains
 sustenance
 sustenances
 sustentation
@@ -130604,6 +130638,7 @@ yawns
 yawp
 yawpers
 yawpings
+yawps
 yaws
 yay
 yclad
