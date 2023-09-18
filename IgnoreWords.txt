@@ -2066,6 +2066,7 @@ airfields
 airflow
 airflows
 airfoil
+airfoils
 airframe
 airframes
 airfreight
@@ -6313,6 +6314,7 @@ assertor
 assertors
 asserts
 assess
+assessable
 assessed
 assessing
 assessment
@@ -8541,6 +8543,7 @@ barnstorms
 barny
 barnyard
 baroceptor
+baroceptors
 barogram
 barograms
 barograph
@@ -9763,6 +9766,7 @@ beluga
 belugas
 belying
 bema
+bemadam
 bemadams
 bemadden
 bemaddening
@@ -27757,6 +27761,7 @@ dears
 dearth
 dearths
 deary
+deash
 deashed
 deashing
 deasil
@@ -27884,6 +27889,7 @@ decadent
 decadently
 decades
 decaf
+decagon
 decagram
 decagrams
 decahedra
@@ -32953,6 +32959,7 @@ doggoner
 doggonest
 doggrel
 doggy
+doghanged
 dogie
 dogleg
 doglegged
@@ -34376,6 +34383,7 @@ dungiest
 dunging
 dungs
 dungy
+dunite
 dunk
 dunked
 dunker
@@ -35869,6 +35877,7 @@ embitters
 emblazed
 emblazer
 emblazers
+emblazes
 emblazing
 emblazon
 emblazoned
@@ -36063,6 +36072,7 @@ emissaries
 emissary
 emission
 emissions
+emissivities
 emissivity
 emit
 emits
@@ -36802,6 +36812,7 @@ enjoined
 enjoiner
 enjoiners
 enjoins
+enjoy
 enjoyed
 enjoyers
 enjoyments
@@ -37952,6 +37963,7 @@ erupted
 eruptible
 erupting
 eruption
+eruptions
 eruptive
 eruptively
 eruptives
@@ -44140,6 +44152,7 @@ frankest
 frankfort
 frankforts
 frankfurt
+frankfurters
 frankfurts
 frankincense
 frankincenses
@@ -48440,6 +48453,7 @@ greasing
 greasy
 great
 greatcoats
+greaten
 greatened
 greatening
 greatens
@@ -61923,6 +61937,7 @@ laky
 laliques
 lallan
 lalland
+lallands
 lallans
 lallation
 lallations
@@ -62843,6 +62858,7 @@ lechwes
 lecithin
 lecithinase
 lecithinases
+lecithins
 lectern
 lecterns
 lectin
@@ -68838,6 +68854,7 @@ microstructures
 microsurgeries
 microsurgical
 microswitch
+microswitches
 microtechnic
 microtechnics
 microtechnique
@@ -71926,6 +71943,7 @@ mudsill
 mudsills
 mudskippers
 mudslide
+mudslides
 mudslinger
 mudslingers
 mudslinging
@@ -78800,6 +78818,7 @@ outshouts
 outside
 outsider
 outsidernesses
+outsides
 outsight
 outsights
 outsin
@@ -91803,6 +91822,7 @@ quarterbacking
 quarterbacks
 quarterdecks
 quartered
+quarterer
 quarterers
 quarterfinal
 quarterfinalist
@@ -93982,6 +94002,7 @@ reconferred
 reconferring
 reconfers
 reconfigure
+reconfigured
 reconfigures
 reconfiguring
 reconfine
@@ -103976,6 +103997,7 @@ sheeny
 sheepberries
 sheepberry
 sheepcot
+sheepcote
 sheepcotes
 sheepcots
 sheepdog
@@ -106517,6 +106539,7 @@ smelters
 smeltery
 smelts
 smerked
+smerking
 smerks
 smew
 smidgen
@@ -106914,6 +106937,7 @@ snorters
 snorting
 snorts
 snot
+snots
 snottily
 snottiness
 snottinesses
@@ -107543,6 +107567,7 @@ sone
 song
 songbird
 songbirds
+songbook
 songbooks
 songfest
 songfests
@@ -109902,6 +109927,7 @@ steamroll
 steamrolled
 steamroller
 steamrollered
+steamrollers
 steamrolling
 steamrolls
 steamship
@@ -110551,6 +110577,7 @@ stomps
 stone
 stonechat
 stonechats
+stonecrop
 stonecrops
 stonecutting
 stoned
@@ -112209,6 +112236,7 @@ subvicars
 subvirus
 subviruses
 subvisible
+subvocal
 subvocalize
 subvocalized
 subvocalizes
@@ -120037,6 +120065,7 @@ trumpery
 trumpet
 trumpeted
 trumpeter
+trumpeting
 trumpetlike
 trumpets
 trumping
@@ -124234,6 +124263,7 @@ upleaping
 upleaps
 upleapt
 uplift
+uplifted
 uplifters
 uplifting
 uplifts
@@ -125150,6 +125180,7 @@ vasodilation
 vasodilations
 vasodilator
 vasomotor
+vasopressin
 vasopressins
 vasospasm
 vasospasms
@@ -127195,6 +127226,7 @@ wardress
 wardrobes
 wardship
 wardships
+wared
 warehouse
 warehoused
 warehouseman
@@ -127315,6 +127347,7 @@ wasabi
 wasabis
 wash
 washabilities
+washability
 washable
 washables
 washateria
@@ -128978,6 +129011,7 @@ wite
 wited
 witenagemot
 witenagemote
+witenagemotes
 witenagemots
 wites
 withdrawable
@@ -129143,6 +129177,7 @@ womanlike
 womanliness
 womanly
 womannesses
+womanpower
 womans
 womb
 wombats
