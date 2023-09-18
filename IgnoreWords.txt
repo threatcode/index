@@ -6322,6 +6322,7 @@ asserts
 assess
 assessable
 assessed
+assesses
 assessing
 assessment
 assessor
@@ -8674,6 +8675,7 @@ baryonic
 baryte
 barytes
 barytic
+baryton
 barytone
 barytons
 bas
@@ -9727,6 +9729,7 @@ bellies
 belligerence
 belligerences
 belligerency
+belling
 bellmen
 bellow
 bellowed
@@ -11860,6 +11863,7 @@ bluesman
 bluesmen
 bluest
 bluestem
+bluestems
 bluestocking
 bluestone
 bluestones
@@ -12823,6 +12827,7 @@ bourg
 bourgeois
 bourgeoise
 bourgeoises
+bourgeoisie
 bourgeoisies
 bourgeoisified
 bourgeoisifies
@@ -20038,6 +20043,7 @@ clept
 clerestories
 clergies
 clergy
+clergyman
 clergymen
 clergywoman
 clergywomen
@@ -20074,6 +20080,7 @@ clew
 clewed
 cliche
 cliched
+cliches
 clicker
 clickers
 clicking
@@ -21952,6 +21959,7 @@ comp
 compact
 compacted
 compacter
+compacters
 compactest
 compactible
 compacting
@@ -30291,6 +30299,7 @@ devilry
 devils
 deviltries
 deviltry
+devilwood
 devilwoods
 devious
 deviously
@@ -30720,6 +30729,7 @@ dichogamous
 dichogamy
 dichondras
 dichotic
+dichotically
 dichotomies
 dichotomist
 dichotomization
@@ -35216,6 +35226,7 @@ effaces
 effacing
 effect
 effected
+effecter
 effecting
 effectively
 effectiveness
@@ -42629,6 +42640,7 @@ flirtiest
 flirty
 flit
 flitch
+flitched
 flitches
 flite
 flited
@@ -45145,6 +45157,7 @@ fusser
 fusses
 fussily
 fussiness
+fusspot
 fussy
 fustics
 fustier
@@ -46068,6 +46081,7 @@ gazillion
 gazillions
 gazogene
 gazogenes
+gazoos
 gazpacho
 gazpachos
 gazumper
@@ -46367,6 +46381,7 @@ gentrifying
 gentry
 genua
 genuflect
+genuflected
 genuflecting
 genuflection
 genuflections
@@ -47281,6 +47296,7 @@ globing
 globoid
 globose
 globosely
+globosity
 globous
 globs
 globulars
@@ -48182,6 +48198,7 @@ grandfathering
 grandfatherly
 grandfathers
 grandiflora
+grandifloras
 grandiloquent
 grandiloquently
 grandiose
@@ -48432,6 +48449,7 @@ gravity
 gravlaks
 gravlax
 gravure
+gravures
 gravy
 gray
 grayback
@@ -53643,6 +53661,7 @@ hustings
 hustle
 hustled
 hustles
+huswife
 huswifes
 hutch
 hutched
@@ -54013,6 +54032,7 @@ hyperhidrosis
 hyperimmunize
 hyperimmunizes
 hyperimmunizing
+hyperinflated
 hyperinflations
 hyperinsulinism
 hyperinvolution
@@ -59738,6 +59758,7 @@ jewelling
 jewelries
 jewelry
 jewelweed
+jewelweeds
 jewfish
 jewfishes
 jewing
@@ -62072,6 +62093,7 @@ lammergeyer
 lammergeyers
 lamming
 lamp
+lampads
 lampases
 lampblack
 lampblacks
@@ -65367,6 +65389,7 @@ lushly
 lushnesses
 lust
 lusted
+lustered
 lustering
 lusterless
 lusters
@@ -66021,6 +66044,7 @@ majestic
 majesties
 majesty
 majolica
+major
 majordomos
 majored
 majorette
@@ -83559,6 +83583,7 @@ perplexer
 perplexes
 perplexing
 perplexity
+perquisites
 perries
 perron
 perrons
@@ -85653,6 +85678,7 @@ plaisters
 plait
 plaited
 plaiter
+plaiters
 plaiting
 plaitings
 plaits
@@ -93113,6 +93139,7 @@ rattlebrain
 rattlebrains
 rattled
 rattler
+rattlers
 rattles
 rattlesnakes
 rattletrap
@@ -94154,6 +94181,7 @@ reconveyance
 reconveyances
 reconveyed
 reconveys
+reconvict
 reconvicted
 reconvicting
 reconvictions
@@ -96468,6 +96496,7 @@ repeopling
 repercussion
 repercussions
 repercussive
+reperk
 reperked
 reperking
 reperks
@@ -108446,6 +108475,7 @@ spells
 spelt
 spelter
 spelters
+speltzes
 spelunk
 spelunked
 spelunking
@@ -113373,6 +113403,7 @@ suppurated
 suppurating
 suppurations
 suppurative
+supra
 supraliminal
 supramolecular
 supraoptic
@@ -119793,6 +119824,7 @@ triskele
 triskeles
 triskelia
 triskelion
+triskelions
 trismic
 trismus
 trismuses
@@ -121087,6 +121119,7 @@ uglify
 uglifying
 uglily
 ugliness
+uglinesses
 ugly
 ugsome
 uhlans
@@ -122540,6 +122573,7 @@ unenvied
 unequaled
 unequally
 unequals
+unequivocably
 unerotic
 unerring
 unerringly
@@ -128403,6 +128437,7 @@ whirries
 whirring
 whirrs
 whirry
+whirrying
 whirs
 whishes
 whisht
