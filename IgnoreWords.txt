@@ -1217,6 +1217,7 @@ adscripts
 adsorb
 adsorbate
 adsorbates
+adsorbed
 adsorbent
 adsorber
 adsorbers
@@ -20065,6 +20066,7 @@ clerihews
 clerisies
 clerisy
 clerk
+clerkdom
 clerkdoms
 clerkish
 clerklier
@@ -21780,6 +21782,7 @@ commendam
 commendams
 commendation
 commendations
+commended
 commenders
 commending
 commends
@@ -26636,6 +26639,7 @@ curtest
 curtilage
 curtilages
 curtly
+curtness
 curtnesses
 curtsey
 curtseyed
@@ -31259,6 +31263,7 @@ dioxane
 dioxanes
 dioxans
 dioxid
+dioxide
 dioxides
 dioxin
 dioxins
@@ -31894,6 +31899,7 @@ disfigurements
 disfigures
 disfiguring
 disfranchises
+disfranchising
 disfrock
 disfrocks
 disfunction
@@ -36343,6 +36349,7 @@ encashments
 encasing
 encaustic
 encaustics
+encephala
 encephalitides
 encephalitogen
 encephalitogens
@@ -39740,6 +39747,7 @@ externalization
 externalize
 externalizes
 externalizing
+externally
 externals
 externe
 externes
@@ -42840,6 +42848,7 @@ flowchartings
 flowcharts
 flowed
 flowerage
+flowerages
 flowered
 flowerer
 flowerers
@@ -48611,6 +48620,7 @@ greenwash
 greenwashes
 greenways
 greenwing
+greenwings
 greenwoods
 greeny
 grees
@@ -50519,6 +50529,7 @@ harridan
 harridans
 harried
 harrier
+harriers
 harries
 harrower
 harrowers
@@ -51996,6 +52007,7 @@ highbrowed
 highbrowism
 highbrowisms
 highbrows
+highbush
 highchair
 highchairs
 highest
@@ -56148,6 +56160,7 @@ indelicacies
 indelicacy
 indelicate
 indemnification
+indemnified
 indemnifier
 indemnifiers
 indemnifies
@@ -56793,6 +56806,7 @@ infringements
 infringer
 infringers
 infringes
+infringing
 infrugal
 infundibular
 infundibulum
@@ -59297,6 +59311,7 @@ ivories
 ivory
 ivorybill
 ivorybills
+ivorylike
 ivylike
 ixias
 ixodid
@@ -60077,6 +60092,7 @@ journalese
 journaleses
 journaling
 journalism
+journalisms
 journalist
 journalistic
 journalize
@@ -61481,6 +61497,7 @@ knowingnesses
 knowings
 knowledge
 knowledgeably
+knowledges
 known
 knowns
 knubbier
@@ -67379,6 +67396,7 @@ maxims
 maximumly
 maximums
 maxing
+maxis
 maxixe
 maxixes
 maxwell
@@ -67496,6 +67514,7 @@ measurable
 measurably
 measure
 measured
+measuredly
 measureless
 measurements
 measurer
@@ -70953,6 +70972,7 @@ monarchists
 monarchs
 monarchy
 monarda
+monas
 monasteries
 monastery
 monastically
@@ -74391,6 +74411,7 @@ nitroglycerines
 nitroglycerins
 nitrolic
 nitromethanes
+nitroparaffins
 nitros
 nitrosamine
 nitrosyl
@@ -82570,6 +82591,7 @@ peasoupers
 peat
 peatier
 peatiest
+peavey
 peaveys
 peavies
 peavy
@@ -82910,6 +82932,7 @@ penciled
 penciler
 penciling
 pencilings
+pencilled
 pencillers
 pencilling
 pencillings
@@ -88832,6 +88855,7 @@ prepuberty
 prepubes
 prepubescences
 prepubescent
+prepubescents
 prepubis
 prepublication
 prepublications
@@ -93144,6 +93168,7 @@ rationality
 rationalizable
 rationalization
 rationalized
+rationalizers
 rationalizes
 rationalizing
 rationalness
@@ -96942,6 +96967,7 @@ rerecorded
 rerecording
 rerecords
 reredos
+reredoses
 reregister
 reregistered
 reregistration
@@ -100006,6 +100032,7 @@ rusticities
 rustics
 rustier
 rustiest
+rustily
 rustinesses
 rusting
 rustle
@@ -100439,6 +100466,7 @@ salinometer
 saliva
 salivary
 salivas
+salivated
 salivates
 salivating
 salivation
@@ -105442,6 +105470,7 @@ simulant
 simulants
 simular
 simulars
+simulate
 simulated
 simulates
 simulation
@@ -114108,6 +114137,7 @@ swoopy
 swoosh
 swooshes
 swooshing
+swop
 swopping
 swops
 swordfishes
@@ -118256,6 +118286,7 @@ topologic
 topological
 topologically
 topologies
+topologist
 topologists
 topology
 toponym
@@ -118567,6 +118598,7 @@ towage
 toward
 towardliness
 towardlinesses
+towardly
 towaway
 towboat
 towboats
@@ -124798,6 +124830,7 @@ urokinases
 urolith
 urolithiases
 urolithiasis
+urolithic
 uroliths
 urological
 urologies
@@ -129381,6 +129414,7 @@ womanlier
 womanliest
 womanlike
 womanliness
+womanlinesses
 womanly
 womannesses
 womanpower
@@ -129701,6 +129735,7 @@ worsen
 worsened
 worsening
 worsens
+worser
 worses
 worset
 worsets
