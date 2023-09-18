@@ -1,0 +1,5 @@
+pg_similarity--unpackaged - 1.0.sql at master - GitHub,https://github.com/eulerto/pg_similarity/blob/master/pg_similarity--unpackaged--1.0.sql
+eulerto/pg_similarity - 1.0.sql at master - GitHub,https://github.com/eulerto/pg_similarity/blob/master/pg_similarity--1.0.sql
+image_making/server_configs/docker-entrypoint-initdb.d ...,https://gitlab.inria.fr/DYLISS/samifier-docker/blob/71f7e96c254996e7f4046463c4d11aecd62de73a/image_making/server_configs/docker-entrypoint-initdb.d/03_pg_similarity.sql
+https://raw.githubusercontent.com/mecdcme/is2/mast...,https://raw.githubusercontent.com/mecdcme/is2/master/db/is2-dump.sql
+https://raw.githubusercontent.com/aroute/db2books/...,https://raw.githubusercontent.com/aroute/db2books/master/data.sql
