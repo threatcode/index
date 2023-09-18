@@ -598,6 +598,7 @@ achromats
 achromic
 achromous
 acicula
+aciculas
 aciculum
 aciculums
 acidemia
@@ -9485,6 +9486,7 @@ beflagged
 beflagging
 beflea
 befleaed
+befleaing
 befleas
 befleck
 beflecked
@@ -13277,6 +13279,7 @@ braw
 brawest
 brawled
 brawler
+brawlers
 brawlier
 brawliest
 brawling
@@ -17361,6 +17364,7 @@ cellarway
 cellarways
 cellblock
 cellblocks
+cellists
 cellmate
 cello
 cellobiose
@@ -22135,6 +22139,7 @@ complainant
 complainants
 complained
 complainers
+complainingly
 complains
 complaint
 complaints
@@ -28108,6 +28113,7 @@ deceptiveness
 deceptivenesses
 decerebrate
 decerebrated
+decerebrates
 decerebrations
 decerned
 decerns
@@ -33535,6 +33541,7 @@ doum
 douma
 doumas
 doums
+doupioni
 doupionis
 douppioni
 douppionis
@@ -34373,6 +34380,7 @@ duff
 duffel
 duffels
 duffer
+duffers
 duffle
 duffles
 duffs
@@ -41866,6 +41874,7 @@ finalization
 finalizations
 finalize
 finalized
+finalizers
 finalizes
 finally
 finals
@@ -54436,6 +54445,7 @@ hypotensions
 hypotensive
 hypotenuse
 hypotenuses
+hypothalami
 hypothalamic
 hypothalamus
 hypothec
@@ -61938,6 +61948,7 @@ labouring
 labours
 labra
 labrador
+labradorite
 labradorites
 labradors
 labret
@@ -64337,6 +64348,7 @@ liquifies
 liquifying
 liquor
 liquored
+liquorice
 liquorish
 liquors
 lira
@@ -66112,6 +66124,7 @@ magnific
 magnificat
 magnifications
 magnificats
+magnificence
 magnificences
 magnificently
 magnifier
@@ -67244,6 +67257,7 @@ mastabah
 mastabas
 mastectomies
 mastectomy
+masted
 master
 masterdom
 masterdoms
@@ -67662,6 +67676,7 @@ measureless
 measurements
 measurer
 measures
+meat
 meated
 meathead
 meatier
@@ -68539,6 +68554,7 @@ metacarpi
 metacarpus
 metacenter
 metacenters
+metacentrics
 metacercaria
 metacercariae
 metacercarial
@@ -72017,6 +72033,7 @@ mounters
 mounting
 mountings
 mourned
+mourner
 mourners
 mournful
 mournfuller
@@ -75155,6 +75172,7 @@ nonexempts
 nonexistences
 nonexistent
 nonexistential
+nonexotic
 nonexpendable
 nonexperimental
 nonexpert
@@ -79327,6 +79345,7 @@ outvaunts
 outvie
 outvied
 outvoice
+outvoiced
 outvoices
 outvoicing
 outvotes
@@ -91163,6 +91182,7 @@ publisher
 publishes
 publishing
 publishings
+pubs
 puccoons
 puces
 pucker
@@ -92724,6 +92744,7 @@ radiale
 radialia
 radially
 radiancies
+radiancy
 radiant
 radiantly
 radiants
@@ -94630,6 +94651,7 @@ redactions
 redactor
 redacts
 redamage
+redamages
 redamaging
 redan
 redans
@@ -96549,6 +96571,7 @@ renew
 renewabilities
 renewability
 renewable
+renewables
 renewably
 renewals
 renewed
@@ -106131,6 +106154,7 @@ skinflints
 skinful
 skinfuls
 skinhead
+skinheads
 skink
 skinked
 skinker
@@ -106412,6 +106436,7 @@ slaveholder
 slaveholders
 slaveholding
 slaveholdings
+slaver
 slavered
 slaverer
 slaverers
@@ -106674,6 +106699,7 @@ sliver
 slivered
 sliverer
 sliverers
+slivering
 slivovic
 slivovices
 slivovitz
@@ -107301,6 +107327,7 @@ snitched
 snitcher
 snitchers
 snits
+snivel
 sniveled
 sniveler
 snivelers
@@ -111361,6 +111388,7 @@ streamiest
 streaming
 streamings
 streamlet
+streamlets
 streamlined
 streamliner
 streamliners
@@ -113400,6 +113428,7 @@ superhumanness
 superhype
 superhyped
 superimposable
+superimposed
 superimposes
 superimposing
 superimposition
@@ -113470,6 +113499,7 @@ supernally
 supernatant
 supernates
 supernation
+supernations
 supernatural
 supernaturalism
 supernaturalist
@@ -117856,6 +117886,7 @@ timocratical
 timolols
 timorously
 timorousness
+timothies
 timothy
 timpani
 timpanists
@@ -125138,6 +125169,7 @@ urticating
 urtications
 urus
 uruses
+urushiol
 urushiols
 us
 usable
@@ -129503,6 +129535,7 @@ wistaria
 wistarias
 wisteria
 wisterias
+wistful
 wistfulness
 wistfulnesses
 wisting
@@ -129532,6 +129565,7 @@ witenagemote
 witenagemotes
 witenagemots
 wites
+withal
 withdrawable
 withdrawal
 withdrawals
@@ -129710,6 +129744,7 @@ womenkind
 womera
 womeras
 wommera
+wommeras
 won
 wonder
 wonderer
