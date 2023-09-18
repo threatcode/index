@@ -4642,6 +4642,7 @@ antireform
 antiregulatory
 antirejection
 antireligious
+antirheumatic
 antiriot
 antiritualism
 antiritualisms
@@ -11429,6 +11430,7 @@ blastocoels
 blastocyst
 blastocysts
 blastoderms
+blastodisc
 blastodiscs
 blastoff
 blastomata
@@ -13993,6 +13995,7 @@ bryonies
 bryophyllums
 bryophytes
 bryozoans
+bub
 bubal
 bubale
 bubaline
@@ -17949,6 +17952,7 @@ channelizes
 channelizing
 channelled
 channelling
+channels
 chanoyus
 chanson
 chansonniers
@@ -19650,6 +19654,7 @@ citer
 citers
 cithara
 cither
+cithern
 citherns
 cithren
 cithrens
@@ -20485,6 +20490,7 @@ clysters
 cnidae
 cnidarian
 cnidarians
+coacervate
 coacervates
 coacervations
 coach
@@ -21521,6 +21527,7 @@ colombards
 colon
 colone
 colonelcies
+colonelcy
 colones
 coloni
 colonial
@@ -22805,6 +22812,7 @@ congealed
 congealer
 congealers
 congealing
+congealment
 congealments
 congeals
 congee
@@ -26700,6 +26708,7 @@ curvatures
 curve
 curveball
 curveballed
+curveballing
 curveballs
 curved
 curvedly
@@ -36719,6 +36728,7 @@ endozoic
 endpapers
 endplates
 endplaying
+endplays
 endpoint
 endrin
 endrins
@@ -38781,6 +38791,7 @@ evensongs
 event
 eventful
 eventfully
+eventfulness
 eventfulnesses
 eventide
 eventides
@@ -38839,6 +38850,7 @@ evidences
 evidencing
 evident
 evidently
+evil
 evildoer
 evildoers
 evildoing
@@ -40140,6 +40152,7 @@ facileness
 facilenesses
 facilitate
 facilitated
+facilitates
 facilitation
 facilitations
 facilitative
@@ -44747,6 +44760,7 @@ frostlines
 frostnip
 frostwork
 frostworks
+frosty
 froth
 frothed
 frothiest
@@ -45958,6 +45972,7 @@ gaskin
 gaskings
 gaskins
 gaslight
+gaslights
 gaslit
 gasman
 gasmen
@@ -49203,6 +49218,7 @@ guano
 guanos
 guanosine
 guanosines
+guans
 guaranies
 guaranis
 guarantee
@@ -49979,6 +49995,7 @@ halavahs
 halazone
 halazones
 halberd
+halberds
 halbert
 halcyons
 hale
@@ -55698,6 +55715,7 @@ inadvertences
 inadvertencies
 inadvertency
 inadvisability
+inadvisable
 inalienability
 inalienable
 inalienably
@@ -57897,6 +57915,7 @@ intergeneration
 intergeneric
 interglacial
 interglacials
+intergradations
 intergrade
 intergraded
 intergrades
@@ -64517,6 +64536,7 @@ livetrapping
 livetraps
 livid
 lividities
+lividity
 lividly
 lividnesses
 livier
@@ -71399,6 +71419,7 @@ monounsaturated
 monounsaturates
 monovalent
 monovular
+monoxide
 monseigneur
 monsieur
 monsignor
@@ -72136,6 +72157,7 @@ muddier
 muddiest
 muddily
 muddiness
+mudding
 muddleheaded
 muddler
 muddlers
@@ -83929,6 +83951,7 @@ pervertednesses
 perverter
 perverters
 perverting
+perverts
 pervious
 perviousness
 pervs
@@ -84521,6 +84544,7 @@ phosphorolytic
 phosphorous
 phosphors
 phosphorus
+phosphoruses
 phosphoryl
 phosphorylase
 phosphorylases
@@ -90101,6 +90125,7 @@ prolificness
 prolificnesses
 proline
 prolines
+prolix
 prolixities
 prolixity
 prolocutors
@@ -90876,6 +90901,7 @@ pseudomorph
 pseudomorphic
 pseudomorphism
 pseudomorphisms
+pseudomorphous
 pseudomorphs
 pseudonymities
 pseudonymity
@@ -91019,6 +91045,7 @@ psychotropics
 psychrometer
 psychrometers
 psychrometries
+psychrometry
 psychs
 psyllid
 psyllids
@@ -96550,6 +96577,7 @@ reobserving
 reobtained
 reobtaining
 reobtains
+reoccupation
 reoccupations
 reoccupied
 reoccupies
@@ -101356,6 +101384,7 @@ savin
 savine
 saving
 savingly
+savings
 saviors
 savor
 savored
@@ -103757,6 +103786,7 @@ serranids
 serrano
 serranoid
 serranos
+serrate
 serrating
 serration
 serratures
@@ -104371,6 +104401,7 @@ sheetrocking
 sheetrocks
 sheets
 sheeves
+sheik
 sheikdoms
 sheikh
 sheikhdom
@@ -107623,6 +107654,7 @@ soilless
 soilures
 soiree
 soja
+sojas
 sojourners
 sojourns
 soke
@@ -119465,6 +119497,7 @@ traveller
 travelogs
 travels
 traversable
+traversal
 traversals
 traverse
 traverser
@@ -123578,6 +123611,7 @@ unmolded
 unmolds
 unmolten
 unmonitored
+unmoor
 unmoored
 unmooring
 unmoors
@@ -126274,6 +126308,7 @@ vibraphones
 vibraphonist
 vibrate
 vibrated
+vibrating
 vibration
 vibrational
 vibrationless
