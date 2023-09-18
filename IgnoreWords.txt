@@ -2064,6 +2064,7 @@ airfares
 airfield
 airfields
 airflow
+airflows
 airfoil
 airframe
 airframes
@@ -4343,6 +4344,7 @@ antidiarrheals
 antidogmatic
 antidora
 antidotal
+antidotally
 antidote
 antidoted
 antidotes
@@ -9041,6 +9043,7 @@ beaklike
 beam
 beamed
 beamier
+beamiest
 beamily
 beaming
 beamingly
@@ -16591,6 +16594,7 @@ cartoning
 cartoon
 cartooned
 cartoonish
+cartoonishly
 cartoonist
 cartoonists
 cartoonlike
@@ -18592,6 +18596,7 @@ chilliest
 chilliness
 chilling
 chillis
+chillnesses
 chillum
 chillums
 chilly
@@ -25938,6 +25943,7 @@ cruddy
 crude
 crudely
 crudeness
+crudenesses
 cruder
 crudest
 crudites
@@ -26948,6 +26954,7 @@ cymbalom
 cymbaloms
 cymbidium
 cymbidiums
+cymbling
 cymblings
 cyme
 cymene
@@ -27226,6 +27233,7 @@ daisied
 daisies
 dak
 dakerhen
+dakerhens
 dakoit
 dakoities
 dakoits
@@ -29649,6 +29657,7 @@ deridingly
 deringer
 deringers
 derisible
+derision
 derisively
 derisiveness
 derisivenesses
@@ -30129,6 +30138,7 @@ detoxicants
 detoxicate
 detoxicated
 detoxicates
+detoxicating
 detoxication
 detoxications
 detoxification
@@ -41370,6 +41380,7 @@ fibroblasts
 fibrocystic
 fibroid
 fibroids
+fibroins
 fibroma
 fibromas
 fibromata
@@ -45196,6 +45207,7 @@ gable
 gabled
 gablelike
 gables
+gabling
 gabs
 gaby
 gadabouts
@@ -51139,6 +51151,7 @@ heliotropisms
 heliotype
 heliotyped
 heliotypes
+heliotypies
 heliotyping
 heliotypy
 heliozoans
@@ -53093,6 +53106,7 @@ hotdogged
 hotdogger
 hotdoggers
 hotdogging
+hotdogs
 hotel
 hoteldoms
 hotelier
@@ -58731,6 +58745,7 @@ ironhearted
 ironic
 ironical
 ironically
+ironicalness
 ironicalnesses
 ironies
 ironings
@@ -59639,6 +59654,7 @@ jetfoils
 jetlags
 jetlike
 jetliner
+jetliners
 jeton
 jetons
 jetport
@@ -59849,6 +59865,7 @@ johnnycake
 johnnycakes
 johns
 johnsongrass
+johnsongrasses
 johnsons
 joinable
 joinder
@@ -78801,6 +78818,7 @@ outskates
 outskating
 outskirt
 outskirts
+outslept
 outslick
 outslicked
 outslicking
@@ -80584,6 +80602,7 @@ paddocks
 paddywack
 paddywacked
 paddywacking
+paddywacks
 padis
 padishah
 padishahs
@@ -80915,6 +80934,7 @@ palmtops
 palmyra
 palmyras
 palominos
+palooka
 paloverde
 paloverdes
 palpability
@@ -87143,6 +87163,7 @@ portliest
 portlinesses
 portly
 portmanteaux
+portobellos
 portraitist
 portraitists
 portraits
@@ -88587,6 +88608,7 @@ prepasting
 prepaving
 prepay
 prepaying
+prepayment
 prepayments
 prepays
 prepense
@@ -91094,6 +91116,7 @@ puppies
 pupping
 puppy
 puppydom
+puppyhood
 puppyhoods
 puppylike
 pups
@@ -95968,6 +95991,7 @@ remitted
 remittent
 remitter
 remitters
+remitting
 remittor
 remittors
 remix
@@ -98400,6 +98424,7 @@ riderless
 riders
 riderships
 rides
+ridge
 ridgeback
 ridgebacks
 ridged
@@ -99698,6 +99723,7 @@ rumpuses
 rumrunner
 rumrunners
 rums
+run
 runabout
 runabouts
 runaround
@@ -102489,6 +102515,7 @@ sedimentations
 sedimenting
 sedimentologic
 sedimentologies
+sedimentologist
 sedimentology
 sediments
 sedition
@@ -106250,6 +106277,7 @@ slosh
 sloshed
 sloshiest
 sloshing
+slot
 slotback
 slotbacks
 sloth
@@ -106563,6 +106591,7 @@ smokily
 smokiness
 smokinesses
 smoking
+smoldered
 smolt
 smooch
 smoocher
@@ -109436,6 +109465,7 @@ stagflations
 staggard
 staggards
 staggart
+stagged
 staggerbush
 staggerbushes
 staggerer
@@ -110940,6 +110970,7 @@ striae
 striata
 striate
 striates
+striating
 striations
 striatum
 stricken
@@ -113220,6 +113251,7 @@ suppressants
 suppressible
 suppressing
 suppression
+suppressiveness
 suppressor
 suppressors
 suppurate
@@ -113455,6 +113487,7 @@ suspensories
 suspensors
 suspensory
 suspicion
+suspicioning
 suspicions
 suspicious
 suspiciously
@@ -121900,6 +121933,7 @@ underachieves
 underachieving
 underact
 underacted
+underacts
 underage
 underages
 underarm
@@ -126202,6 +126236,7 @@ virulency
 virulent
 virus
 viruses
+viruslike
 virusoid
 virusoids
 vis
