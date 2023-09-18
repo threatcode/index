@@ -477,6 +477,7 @@ accusative
 accusatives
 accusatory
 accuse
+accused
 accuser
 accusers
 accuses
@@ -6197,6 +6198,7 @@ aspersor
 aspersors
 asphalt
 asphalted
+asphalting
 asphaltite
 asphalts
 aspherical
@@ -10979,6 +10981,7 @@ birdcage
 birdcages
 birdcall
 birdcalls
+birddog
 birddogged
 birddogging
 birded
@@ -15960,6 +15963,7 @@ caponata
 caponatas
 caponier
 caponiers
+caponized
 caponizing
 capons
 caporal
@@ -22672,6 +22676,7 @@ conform
 conformal
 conformance
 conformation
+conformations
 conformer
 conformers
 conformism
@@ -35159,6 +35164,7 @@ eerinesses
 eery
 ef
 eff
+effable
 efface
 effaceable
 effacer
@@ -36649,6 +36655,7 @@ enfeoffment
 enfeoffs
 enfetter
 enfettered
+enfettering
 enfever
 enfevered
 enfevering
@@ -37176,6 +37183,7 @@ entropies
 entropion
 entropions
 entrusted
+entrusting
 entrustment
 entrustments
 entry
@@ -37343,6 +37351,7 @@ ephedrins
 ephemerae
 ephemeral
 ephemeralities
+ephemerality
 ephemerally
 ephemerals
 ephemeras
@@ -39282,6 +39291,7 @@ expands
 expanse
 expanses
 expansibilities
+expansibility
 expansible
 expansion
 expansional
@@ -40630,6 +40640,7 @@ faultiness
 faultinesses
 faultless
 faultlessly
+faultlessness
 faultlessnesses
 fauna
 faunal
@@ -41827,6 +41838,7 @@ fired
 firedamp
 firedamps
 firedogs
+firedrakes
 firefang
 firefanged
 firefanging
@@ -41917,6 +41929,7 @@ fiscally
 fiscals
 fiscs
 fish
+fishabilities
 fishability
 fishable
 fishbolt
@@ -42581,6 +42594,7 @@ floating
 floatplane
 floats
 floaty
+floc
 flocced
 flocci
 floccing
@@ -45673,6 +45687,7 @@ gargles
 gargoyle
 gargoyled
 gargoyles
+garibaldi
 garibaldis
 garigues
 garish
@@ -46513,6 +46528,7 @@ gesticulatory
 gests
 gestural
 gesturally
+gestured
 gesturer
 gesturers
 gestures
@@ -49927,6 +49943,7 @@ hamals
 hamantasch
 hamantaschen
 hamartia
+hamartias
 hamate
 hamates
 hamauls
@@ -54153,6 +54170,7 @@ hypopyon
 hypopyons
 hyposensitize
 hyposensitizes
+hyposensitizing
 hypospadias
 hypospadiases
 hypostatic
@@ -68501,6 +68519,7 @@ metumps
 meuniere
 mew
 mewed
+mewing
 mewl
 mewled
 mewler
@@ -68820,6 +68839,7 @@ midcap
 midcourse
 midcult
 midcults
+middays
 midden
 middens
 middle
@@ -70160,6 +70180,7 @@ missays
 misseat
 misseating
 misseats
+missels
 missend
 missending
 missends
@@ -71016,6 +71037,7 @@ monomorphisms
 mononuclear
 mononucleate
 mononucleoses
+mononucleosis
 mononucleotide
 monophagies
 monophagy
@@ -82585,6 +82607,7 @@ pegless
 peglike
 pegmatites
 pegmatitic
+pegs
 peh
 pehs
 peignoir
@@ -86375,6 +86398,7 @@ polarimetries
 polariscope
 polariscopes
 polariscopic
+polarise
 polarised
 polarises
 polarising
@@ -88126,6 +88150,7 @@ predominance
 predominances
 predominancy
 predominant
+predominantly
 predominately
 predominates
 predominating
@@ -88740,6 +88765,7 @@ preservationist
 preservations
 preservative
 preservatives
+preserved
 preserver
 preservers
 preserves
@@ -89503,6 +89529,7 @@ producers
 produces
 producible
 producing
+product
 productional
 productions
 productive
@@ -91949,6 +91976,7 @@ quillworts
 quilt
 quilter
 quilting
+quilts
 quinacrines
 quinaries
 quinate
@@ -116362,6 +116390,7 @@ theorizes
 theosophical
 theosophically
 theosophies
+theosophist
 theosophists
 theosophy
 therapeuses
@@ -120236,6 +120265,7 @@ tunable
 tunableness
 tunablenesses
 tunably
+tunas
 tundishes
 tundra
 tune
@@ -120782,6 +120812,7 @@ typp
 typps
 typy
 tyramine
+tyramines
 tyrannic
 tyrannical
 tyrannically
@@ -125029,6 +125060,7 @@ vascularities
 vascularity
 vascularization
 vasculature
+vasculitides
 vasculitis
 vasculums
 vase
@@ -126179,6 +126211,7 @@ viselike
 vises
 visibilities
 visible
+visibleness
 visiblenesses
 visibly
 vising
@@ -127176,6 +127209,7 @@ warren
 warreners
 warrens
 warrigals
+warring
 warriors
 wars
 warsaw
@@ -127228,6 +127262,7 @@ washerman
 washermen
 washers
 washerwomen
+washes
 washeteria
 washeterias
 washhouse
