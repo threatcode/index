@@ -858,6 +858,7 @@ actuary
 actuate
 actuated
 actuates
+actuating
 actuator
 actuators
 acuities
@@ -3469,6 +3470,7 @@ anacoluthic
 anacoluthons
 anaconda
 anacondas
+anacreontic
 anacreontics
 anacruses
 anadems
@@ -5579,6 +5581,7 @@ archipelagic
 archipelago
 architect
 architectonics
+architectural
 architecture
 architrave
 architraves
@@ -6135,6 +6138,7 @@ aseptic
 aseptically
 asexualities
 asexuality
+asexually
 ash
 ashamedly
 ashcake
@@ -7531,6 +7535,7 @@ axle
 axled
 axles
 axletree
+axletrees
 axmen
 axolotl
 axonal
@@ -8433,6 +8438,7 @@ barbershops
 barbet
 barbicans
 barbicel
+barbicels
 barbie
 barbies
 barbing
@@ -9251,6 +9257,7 @@ bedabble
 bedabbles
 bedamned
 bedamning
+bedamns
 bedarken
 bedarkened
 bedarkening
@@ -9914,6 +9921,7 @@ bennies
 benny
 bens
 bentgrasses
+benthal
 benthic
 benthon
 benthonic
@@ -14601,6 +14609,7 @@ busgirls
 bush
 bushbuck
 bushbucks
+bushed
 bushel
 busheler
 bushelers
@@ -16574,6 +16583,7 @@ carroming
 carroms
 carronade
 carrotier
+carrotiest
 carrotin
 carrotins
 carrots
@@ -18860,6 +18870,7 @@ chlorids
 chlorin
 chlorinate
 chlorinated
+chlorinating
 chlorinations
 chlorinator
 chlorinators
@@ -22736,6 +22747,7 @@ conform
 conformal
 conformance
 conformation
+conformational
 conformations
 conformer
 conformers
@@ -23285,6 +23297,7 @@ containerised
 containerising
 containerize
 containerizes
+containerizing
 containerless
 containerport
 containerports
@@ -38795,6 +38808,7 @@ evicted
 evictee
 evictees
 eviction
+evictions
 evictor
 evictors
 evicts
@@ -44667,6 +44681,7 @@ frontals
 frontcourt
 fronted
 frontenis
+frontenises
 frontes
 frontiers
 frontiersmen
@@ -45183,6 +45198,7 @@ fusibility
 fusible
 fusibly
 fusil
+fusile
 fusileer
 fusileers
 fusiliers
@@ -47980,6 +47996,7 @@ goring
 gorm
 gormandise
 gormandised
+gormandises
 gormandising
 gormandize
 gormandizer
@@ -53919,6 +53936,7 @@ hydrostat
 hydrostatic
 hydrostatically
 hydrostats
+hydrotherapies
 hydrotherapy
 hydrothermal
 hydrothermally
@@ -54070,6 +54088,7 @@ hyperesthetic
 hypereutectoid
 hyperexcitable
 hyperexcited
+hyperexcitement
 hyperexcretion
 hyperexcretions
 hyperextend
@@ -65272,6 +65291,7 @@ lucubrations
 luculent
 luculently
 lude
+ludes
 ludicrous
 ludicrousness
 ludicrousnesses
@@ -81920,6 +81940,7 @@ parquet
 parqueted
 parqueting
 parquetry
+parquets
 parr
 parrakeet
 parral
@@ -87308,6 +87329,7 @@ porkpies
 porks
 porky
 pornier
+porniest
 porno
 pornographer
 pornographers
@@ -87797,6 +87819,7 @@ potterer
 potterers
 potteries
 pottering
+potteringly
 potters
 pottery
 pottier
@@ -97723,6 +97746,7 @@ retakers
 retakes
 retaking
 retaliate
+retaliates
 retaliating
 retaliation
 retaliative
@@ -108961,6 +108985,7 @@ spirulae
 spirulina
 spirulinas
 spit
+spital
 spitals
 spitball
 spitballs
@@ -109760,6 +109785,7 @@ staggerbushes
 staggerer
 staggeringly
 staggers
+staggery
 staggie
 staggiest
 stagging
@@ -109950,6 +109976,7 @@ stapedectomies
 stapedectomy
 stapedes
 stapedial
+stapelia
 stapelias
 stapes
 staph
@@ -114543,6 +114570,7 @@ synonymist
 synonymists
 synonymity
 synonymize
+synonymized
 synonymizes
 synonymously
 synonyms
@@ -114705,6 +114733,7 @@ taborers
 taborets
 taborines
 taborins
+tabors
 taboulehs
 tabouli
 taboulis
@@ -115396,12 +115425,14 @@ tasteless
 tastelessness
 tastelessnesses
 tastemakers
+tasters
 tastes
 tastier
 tastiest
 tastily
 tastiness
 tasting
+tasty
 tat
 tatami
 tatar
@@ -118334,6 +118365,7 @@ toploftily
 toploftiness
 toploftinesses
 toplofty
+topmast
 topmasts
 topminnow
 topminnows
@@ -118670,6 +118702,7 @@ towardly
 towaway
 towboat
 towboats
+towel
 toweled
 towelette
 towelettes
@@ -125594,6 +125627,7 @@ vegetal
 vegetally
 vegetant
 vegetarian
+vegetarianism
 vegetarianisms
 vegetarians
 vegetate
@@ -126243,6 +126277,7 @@ victimising
 victimization
 victimizations
 victimized
+victimizer
 victimizes
 victimless
 victimologies
