@@ -1790,6 +1790,7 @@ agglutinable
 agglutinate
 agglutinated
 agglutinates
+agglutinating
 agglutination
 agglutinations
 agglutinogenic
@@ -12629,6 +12630,7 @@ bordure
 bordures
 boreas
 boreases
+borecole
 bored
 boredoms
 boreen
@@ -20575,6 +20577,7 @@ coagulated
 coagulating
 coagulations
 coal
+coala
 coalas
 coalbins
 coalbox
@@ -21191,6 +21194,7 @@ coherent
 coherently
 coheres
 cohering
+cohesion
 cohesionless
 cohesions
 cohesive
@@ -22822,6 +22826,7 @@ confound
 confounded
 confoundedly
 confounder
+confounders
 confounds
 confraternities
 confraternity
@@ -23837,6 +23842,7 @@ cooping
 coops
 coopt
 coopted
+coopting
 cooption
 coopts
 coordinated
@@ -30895,6 +30901,7 @@ dickie
 dickies
 dickiest
 dicking
+dicky
 diclinies
 diclinism
 diclinisms
@@ -32389,6 +32396,7 @@ dispossessed
 dispossesses
 dispossessing
 dispossession
+dispossessions
 dispossessors
 disposure
 disposures
@@ -36361,12 +36369,14 @@ empoison
 empoisoned
 empoisoning
 empoisonment
+empoisonments
 empoisons
 emporia
 emporium
 emporiums
 empowered
 empowerment
+empowers
 empress
 empressement
 empressements
@@ -43013,6 +43023,7 @@ floweret
 flowerette
 flowerettes
 flowerful
+flowerier
 floweriest
 flowerily
 floweriness
@@ -49237,6 +49248,7 @@ gruffnesses
 gruffs
 gruffy
 grugru
+gruiform
 grum
 grumbled
 grumblers
@@ -50383,6 +50395,7 @@ handprints
 handrails
 handsaw
 handsaws
+handsbreadth
 handsel
 handseled
 handselled
@@ -58912,6 +58925,7 @@ involucres
 involuntariness
 involuntary
 involute
+involuted
 involutes
 involuting
 involutional
@@ -59418,6 +59432,7 @@ isoproterenols
 isopycnic
 isosceles
 isosmotically
+isospin
 isospins
 isospories
 isospory
@@ -60362,6 +60377,7 @@ joylessness
 joylessnesses
 joyous
 joyousnesses
+joypop
 joypopped
 joypopper
 joypoppers
@@ -64412,6 +64428,7 @@ lipsticked
 lipsticks
 liquated
 liquates
+liquating
 liquation
 liquations
 liquefaction
@@ -66200,6 +66217,7 @@ magnetites
 magnetization
 magnetizations
 magnetize
+magnetizer
 magnetizers
 magnetizes
 magnetizing
@@ -68210,6 +68228,7 @@ memo
 memoir
 memoirists
 memoirs
+memorabilia
 memorable
 memorablenesses
 memorably
@@ -69574,6 +69593,7 @@ millimicron
 millimicrons
 millimolar
 millimole
+millimoles
 milline
 milliner
 millineries
@@ -77317,6 +77337,7 @@ olefinic
 olefins
 oleic
 oleine
+oleines
 oleins
 oleo
 oleograph
@@ -79689,6 +79710,7 @@ overbred
 overbreeds
 overbrief
 overbriefed
+overbriefing
 overbright
 overbrowsed
 overbrowses
@@ -83731,6 +83753,7 @@ peridial
 peridium
 peridotite
 peridotites
+peridots
 perigeal
 perigean
 perigee
@@ -85273,6 +85296,7 @@ picturesque
 picturesqueness
 picturizations
 picturized
+picturizes
 picturizing
 piculs
 piddle
@@ -89039,6 +89063,7 @@ premies
 premigration
 premillenarian
 premillenarians
+premillennial
 premise
 premised
 premises
@@ -92281,6 +92306,7 @@ qualities
 qualm
 qualmier
 qualmish
+qualmishly
 qualmishness
 qualms
 quamash
@@ -92705,6 +92731,7 @@ quixotisms
 quixotries
 quixotry
 quizmaster
+quizmasters
 quizzers
 quizzical
 quizzicalities
@@ -94086,6 +94113,7 @@ rebelling
 rebellion
 rebellious
 rebid
+rebidden
 rebidding
 rebill
 rebilled
@@ -95344,6 +95372,7 @@ reexploring
 reexport
 reexportation
 reexported
+reexporting
 reexports
 reexpose
 reexposed
@@ -110355,6 +110384,7 @@ starch
 starched
 starches
 starchier
+starchiest
 starchiness
 starchinesses
 starching
@@ -116070,6 +116100,7 @@ technicians
 technics
 technique
 techniques
+technobabbles
 technocrat
 technocratic
 technologic
@@ -116678,6 +116709,7 @@ tergiversates
 tergiversation
 tergiversations
 tergiversator
+tergiversators
 teriyaki
 teriyakis
 term
@@ -124590,6 +124622,7 @@ unswept
 unswerving
 unswore
 unsworn
+unsymmetrical
 unsymmetrically
 unsynchronized
 untack
@@ -125478,6 +125511,7 @@ uvulars
 uvulas
 uvulitis
 uvulitises
+uxorial
 uxorially
 uxoricide
 uxoricides
@@ -125921,6 +125955,7 @@ vasodilator
 vasomotor
 vasopressin
 vasopressins
+vasopressor
 vasospasm
 vasospasms
 vasospastic
