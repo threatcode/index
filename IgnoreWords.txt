@@ -1590,6 +1590,7 @@ affixal
 affixation
 affixer
 affixers
+affixes
 affixial
 affixing
 affixment
@@ -1992,6 +1993,7 @@ ahchoo
 ahead
 ahed
 ahem
+ahi
 ahimsas
 ahing
 ahis
@@ -4306,6 +4308,7 @@ antically
 anticancer
 anticapitalism
 anticapitalisms
+anticapitalist
 anticensorship
 antichlor
 antichoice
@@ -11924,6 +11927,7 @@ bluegrasses
 bluegum
 bluegums
 blueheads
+blueings
 blueish
 bluejack
 bluejacket
@@ -14493,6 +14497,7 @@ buntlines
 bunts
 bunya
 bunyas
+buoy
 buoyage
 buoyages
 buoyance
@@ -15605,6 +15610,7 @@ camisa
 camisade
 camisades
 camisado
+camisadoes
 camisados
 camisas
 camise
@@ -17662,6 +17668,7 @@ cephalothin
 cephalothorax
 cephalothoraxes
 cephalous
+cepheid
 cepheids
 ceps
 ceraceous
@@ -24229,6 +24236,7 @@ corked
 corker
 corkier
 corkiest
+corkiness
 corkinesses
 corking
 corklike
@@ -25882,6 +25890,7 @@ crispers
 crispest
 crisphead
 crispiness
+crispinesses
 crisply
 crispness
 crispnesses
@@ -33796,6 +33805,7 @@ downgraded
 downgrades
 downhaul
 downhauls
+downhearted
 downheartedness
 downhiller
 downier
@@ -35215,6 +35225,7 @@ echinate
 eching
 echini
 echinococci
+echinococcosis
 echinococcus
 echinoderm
 echinodermatous
@@ -38441,6 +38452,7 @@ espiegleries
 espionages
 esplanades
 espousal
+espousals
 espouse
 espouser
 espouses
@@ -47165,6 +47177,7 @@ gilded
 gilder
 gilders
 gildhall
+gildhalls
 gilding
 gilds
 gill
@@ -48268,6 +48281,7 @@ goosefoots
 goosegrass
 goosegrasses
 gooseherds
+goosenecks
 goosey
 goosier
 goosiest
@@ -50460,6 +50474,7 @@ hamminess
 hamminesses
 hamming
 hammock
+hammocks
 hammy
 hamper
 hampering
@@ -50532,6 +50547,7 @@ handicrafters
 handicrafts
 handicraftsman
 handier
+handiness
 handinesses
 handing
 handiwork
@@ -59318,6 +59334,7 @@ irradiates
 irradiation
 irradiative
 irradiators
+irradicable
 irradicably
 irrational
 irrationalism
@@ -66447,6 +66464,7 @@ magnifications
 magnificats
 magnificence
 magnificences
+magnificent
 magnificently
 magnifier
 magnify
@@ -66691,6 +66709,7 @@ malic
 malice
 malices
 malicious
+maliciously
 maliciousness
 maliciousnesses
 malignance
@@ -73162,6 +73181,7 @@ muster
 mustering
 musters
 musth
+musths
 mustier
 mustiest
 mustily
@@ -75415,6 +75435,7 @@ nondairy
 nondancer
 nondancers
 nondances
+nondeceptive
 nondecisions
 nondecreasing
 nondeforming
@@ -78978,6 +78999,7 @@ outdesign
 outdesigned
 outdesigns
 outdid
+outdistance
 outdistanced
 outdistances
 outdistancing
@@ -79651,6 +79673,7 @@ outstriving
 outstroke
 outstrove
 outstudied
+outstudies
 outstudy
 outstudying
 outstunt
@@ -80439,6 +80462,7 @@ overlade
 overladed
 overladen
 overlades
+overlading
 overlaid
 overlain
 overland
@@ -81082,6 +81106,7 @@ ovoviviparously
 ovulary
 ovulate
 ovulated
+ovulates
 ovulations
 ovulatory
 ovule
@@ -84987,6 +85012,7 @@ phoronids
 phosgene
 phosgenes
 phosphatase
+phosphatases
 phosphate
 phosphates
 phosphatic
@@ -86617,6 +86643,7 @@ playact
 playacted
 playacting
 playactings
+playactor
 playacts
 playas
 playback
@@ -88491,6 +88518,7 @@ powerlessly
 powerlessnesses
 powers
 pows
+powter
 powters
 powwow
 powwowed
@@ -95173,6 +95201,7 @@ redbreasts
 redbrick
 redbricks
 redbud
+redbuds
 redcap
 redcaps
 redcoats
@@ -109559,6 +109588,7 @@ spiffier
 spiffies
 spiffiest
 spiffily
+spiffiness
 spiffing
 spiffs
 spiffy
@@ -112582,6 +112612,7 @@ subclans
 subclass
 subclassed
 subclassified
+subclassifies
 subclassify
 subclassifying
 subclause
@@ -114134,6 +114165,7 @@ superpatriotism
 superperson
 superpersons
 superphenomenon
+superphosphate
 superphosphates
 superpimp
 superpimps
@@ -116676,6 +116708,7 @@ telepath
 telepathic
 telepathically
 telepathies
+telepathy
 telephoned
 telephoner
 telephones
@@ -128424,6 +128457,7 @@ wants
 wany
 wap
 wapentake
+wapentakes
 wapiti
 wapitis
 wappenschawing
@@ -129249,6 +129283,7 @@ wettability
 wettable
 wetted
 wetter
+wetters
 wettest
 wetting
 wettish
