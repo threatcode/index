@@ -1471,6 +1471,7 @@ aerophyte
 aerophytes
 aeroplane
 aeroplanes
+aeropulses
 aerosat
 aerosats
 aeroscopes
@@ -4309,6 +4310,7 @@ anticipant
 anticipants
 anticipated
 anticipating
+anticipation
 anticipations
 anticipators
 anticity
@@ -6342,6 +6344,7 @@ assents
 assert
 asserted
 asserter
+asserters
 asserting
 assertion
 assertions
@@ -6430,6 +6433,7 @@ assoiling
 assoilment
 assoilments
 assoils
+assonances
 assonant
 assonantal
 assort
@@ -15267,6 +15271,7 @@ calamints
 calamite
 calamites
 calamities
+calamitous
 calamondin
 calamondins
 calamus
@@ -20378,6 +20383,7 @@ cloques
 closable
 close
 closeable
+closed
 closedown
 closedowns
 closefisted
@@ -25409,6 +25415,7 @@ crashers
 crashes
 crashing
 crashworthiness
+crasis
 crass
 crassitude
 crassitudes
@@ -26071,6 +26078,7 @@ crowdies
 crowding
 crowds
 crowdy
+crowed
 crower
 crowers
 crowfeet
@@ -32087,6 +32095,7 @@ disgraced
 disgraceful
 disgracefully
 disgracefulness
+disgracer
 disgracers
 disgracing
 disgruntle
@@ -37215,6 +37224,7 @@ enshrines
 enshrining
 enshroud
 enshrouded
+enshrouding
 enshrouds
 ensiform
 ensign
@@ -42100,6 +42110,7 @@ finniest
 finning
 finnmark
 finnmarks
+fino
 finocchio
 finocchios
 finochios
@@ -46175,6 +46186,7 @@ gastightnesses
 gasting
 gastness
 gastnesses
+gastraea
 gastral
 gastreas
 gastrectomies
@@ -50031,6 +50043,7 @@ hagadists
 hagberries
 hagberry
 hagborn
+hagbush
 hagbushes
 hagbut
 hagbuts
@@ -51602,6 +51615,7 @@ hemagglutinate
 hemagglutinated
 hemagglutinates
 hemagglutinin
+hemagog
 hemagogs
 hemal
 hemangioma
@@ -54069,6 +54083,7 @@ hydrocast
 hydrocasts
 hydrocele
 hydroceles
+hydrocephalic
 hydrocephalics
 hydrocephalies
 hydrocephalus
@@ -58364,6 +58379,7 @@ interpolating
 interpolation
 interpolations
 interpolator
+interpopulation
 interpose
 interposed
 interposers
@@ -59179,6 +59195,7 @@ ironmongery
 ironness
 ironnesses
 irons
+ironsmith
 ironsmiths
 ironstones
 ironware
@@ -65035,6 +65052,7 @@ loge
 loges
 loggats
 logged
+logger
 loggerhead
 loggets
 loggia
@@ -71081,6 +71099,7 @@ modemed
 modems
 moderately
 moderateness
+moderatenesses
 moderating
 moderation
 moderations
@@ -73884,6 +73903,7 @@ necropoleis
 necropoles
 necropolis
 necropsies
+necropsying
 necrose
 necrosed
 necroses
@@ -77096,6 +77116,7 @@ octillions
 octodecillion
 octogenarian
 octogenarians
+octonaries
 octonary
 octopi
 octoploid
@@ -79633,6 +79654,7 @@ outwore
 outwork
 outworker
 outworn
+outwrestle
 outwrestled
 outwrestles
 outwrit
@@ -84462,6 +84484,7 @@ phalangeal
 phalanges
 phalansteries
 phalanstery
+phalanx
 phalanxes
 phalli
 phallic
@@ -84490,6 +84513,7 @@ phantasying
 phantom
 phantoms
 pharaoh
+pharaohs
 pharaonic
 pharisaic
 pharisaically
@@ -85730,6 +85754,7 @@ pinkened
 pinkening
 pinkens
 pinkers
+pinkest
 pinkeye
 pinkie
 pinkies
@@ -87758,6 +87783,7 @@ portabello
 portabilities
 portable
 portably
+portage
 portaged
 portages
 portal
@@ -96671,6 +96697,7 @@ remigrate
 remigrated
 remigrates
 remigrating
+remigration
 remigrations
 remilitarize
 remilitarized
@@ -99458,6 +99485,7 @@ riser
 risers
 rishis
 risibilities
+risibility
 risible
 risibles
 rising
@@ -102861,6 +102889,7 @@ scrutinise
 scrutinised
 scrutinises
 scrutinising
+scrutinize
 scrutinized
 scrying
 scuba
@@ -115179,6 +115208,7 @@ syringas
 syringe
 syringed
 syringing
+syringomyelias
 syringomyelic
 syrinx
 syrinxes
@@ -116727,6 +116757,7 @@ tensile
 tensilities
 tensing
 tensiometer
+tensiometric
 tensiometries
 tensiometry
 tensioned
@@ -120073,6 +120104,7 @@ treillages
 trek
 trekked
 trekker
+trekkers
 trekking
 treks
 trellis
@@ -125846,6 +125878,7 @@ valuable
 valuableness
 valuablenesses
 valuably
+valuate
 valuated
 valuates
 valuating
@@ -126656,6 +126689,7 @@ vertebral
 vertebrate
 vertebrates
 vertex
+vertexes
 verticality
 vertically
 verticalness
@@ -127919,6 +127953,7 @@ wagonages
 wagoned
 wagoners
 wagonette
+wagonettes
 wagoning
 wagonload
 wagonloads
