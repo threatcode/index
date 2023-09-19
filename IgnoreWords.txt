@@ -1602,6 +1602,7 @@ afflicted
 afflicter
 afflicters
 afflicting
+affliction
 afflictions
 afflictive
 afflictively
@@ -4044,6 +4045,7 @@ annulation
 annulations
 annulet
 annulets
+annulling
 annulment
 annuls
 annulus
@@ -6417,6 +6419,7 @@ assister
 assisting
 assistive
 assistor
+assistors
 assists
 assize
 assizes
@@ -11940,6 +11943,7 @@ bluepoint
 blueprint
 blueprinted
 blueprints
+bluer
 blues
 blueshifted
 blueshifts
@@ -12722,6 +12726,7 @@ boscage
 boschbok
 boschboks
 boschvarks
+boshbok
 boshes
 boshvark
 boshvarks
@@ -14708,6 +14713,7 @@ bushing
 bushings
 bushland
 bushless
+bushlike
 bushman
 bushmasters
 bushmen
@@ -18860,6 +18866,7 @@ chiral
 chiralities
 chirality
 chirimoya
+chirimoyas
 chirked
 chirkest
 chirm
@@ -22283,6 +22290,7 @@ complexness
 compliance
 compliancies
 compliant
+complicacies
 complicacy
 complicate
 complicated
@@ -39642,6 +39650,7 @@ exoticist
 exoticists
 exoticness
 exoticnesses
+exotics
 exotoxic
 exotoxin
 exotoxins
@@ -44315,6 +44324,7 @@ fouling
 foulings
 foully
 foulmouthed
+foulness
 foundation
 foundationally
 foundationless
@@ -51615,6 +51625,7 @@ hellbent
 hellbox
 hellboxes
 hellbroth
+hellbroths
 helldiver
 helldivers
 hellebore
@@ -56897,6 +56908,7 @@ inequality
 inequitable
 inequity
 inequivalve
+inequivalved
 ineradicability
 ineradicable
 ineradicably
@@ -58077,6 +58089,7 @@ intercaste
 intercede
 interceders
 intercedes
+interceding
 intercensal
 intercept
 intercepted
@@ -69181,6 +69194,7 @@ mewing
 mewl
 mewled
 mewler
+mews
 mezcal
 meze
 mezereon
@@ -72241,6 +72255,7 @@ motific
 motifs
 motile
 motiles
+motilities
 motion
 motioned
 motioner
@@ -72697,6 +72712,7 @@ multicolors
 multicolumn
 multicomponent
 multiconductor
+multicopy
 multicounty
 multicourse
 multicurie
@@ -78792,6 +78808,7 @@ outbids
 outbitch
 outbitches
 outblaze
+outblazed
 outbleated
 outbleating
 outbleats
@@ -78971,6 +78988,7 @@ outdodges
 outdoer
 outdoers
 outdoes
+outdoor
 outdoorsmen
 outdoorsy
 outdrag
@@ -79412,6 +79430,7 @@ outraving
 outre
 outreach
 outreached
+outreaching
 outreading
 outreads
 outreason
@@ -82394,6 +82413,7 @@ parking
 parkings
 parkinsonian
 parkinsonisms
+parklands
 parklike
 parkway
 parkways
@@ -83642,6 +83662,7 @@ penpoints
 pens
 pensee
 pensil
+pensile
 pensils
 pensionable
 pensionaries
@@ -84250,6 +84271,7 @@ perrons
 perry
 persalt
 persalts
+perse
 persecute
 persecutee
 persecutees
@@ -92468,6 +92490,7 @@ quaalude
 quack
 quacked
 quackery
+quackiest
 quacking
 quackish
 quackism
@@ -97465,6 +97488,7 @@ reprehensible
 reprehensibly
 reprehensions
 reprehensive
+represent
 representable
 represented
 representer
@@ -97734,6 +97758,7 @@ rerun
 reruns
 res
 resaddle
+resaddled
 resaddling
 resaid
 resail
@@ -98510,6 +98535,7 @@ retina
 retinacula
 retinae
 retinal
+retinals
 retinas
 retine
 retinenes
@@ -99372,6 +99398,7 @@ ridgepoles
 ridgetop
 ridgetops
 ridgiest
+ridgil
 ridgils
 ridging
 ridglings
@@ -102383,6 +102410,7 @@ schilling
 schipperke
 schipperkes
 schism
+schismatic
 schismatical
 schismatics
 schismatize
@@ -106630,6 +106658,7 @@ skiddoo
 skiddoos
 skiddy
 skidoo
+skidooing
 skidproof
 skids
 skidway
@@ -109132,6 +109161,7 @@ sparsest
 sparsities
 sparsity
 spartan
+sparteine
 sparteines
 spasm
 spasming
@@ -111635,6 +111665,7 @@ stonewort
 stoneworts
 stoney
 stoniest
+stoniness
 stoninesses
 stoning
 stonish
@@ -125254,6 +125285,7 @@ unwooded
 unwooed
 unworkabilities
 unworkability
+unworkable
 unworked
 unworldlier
 unworldliest
@@ -126026,6 +126058,7 @@ valeted
 valeting
 valets
 valetudinarian
+valetudinarians
 valetudinaries
 valetudinary
 valgoid
@@ -126521,6 +126554,7 @@ velaria
 velarium
 velarization
 velarizations
+velarize
 velarized
 velarizing
 velate
@@ -131227,6 +131261,7 @@ yearningly
 yeas
 yeasayer
 yeasayers
+yeast
 yeasted
 yeastiest
 yeastily
