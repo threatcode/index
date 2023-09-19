@@ -1037,6 +1037,7 @@ adiposity
 adipous
 adit
 adits
+adjacence
 adjacencies
 adjacent
 adjacently
@@ -3682,6 +3683,7 @@ ancipital
 ancon
 anconal
 ancone
+anconoid
 ancresses
 ancylostomiases
 ancylostomiasis
@@ -15874,6 +15876,7 @@ canonizations
 canonize
 canonized
 canonizer
+canonizers
 canonries
 canonry
 canons
@@ -16852,6 +16855,7 @@ castigation
 castigations
 castigator
 castigators
+castings
 castle
 castled
 castles
@@ -19181,6 +19185,7 @@ chresard
 chresards
 chrestomathies
 chrism
+chrismations
 chrismon
 chrismons
 chrisom
@@ -21567,6 +21572,7 @@ collyria
 collyrium
 collyriums
 collywobbles
+colobi
 coloboma
 colobomata
 colobus
@@ -26089,6 +26095,7 @@ crucifies
 crucifix
 crucifixes
 crucifixion
+crucifixions
 cruciform
 cruciforms
 crucify
@@ -31853,6 +31860,7 @@ discontent
 discontented
 discontentedly
 discontentment
+discontentments
 discontents
 discontinuances
 discontinuation
@@ -34570,6 +34578,7 @@ dunderhead
 dunderheaded
 dunderheads
 dundrearies
+dune
 duneland
 dunelike
 dunes
@@ -35560,6 +35569,7 @@ eidos
 eigenmode
 eigenmodes
 eigenvalues
+eigenvector
 eight
 eightball
 eighteen
@@ -41087,6 +41097,7 @@ federalese
 federaleses
 federalist
 federalization
+federalizations
 federalized
 federalizes
 federalizing
@@ -45109,6 +45120,7 @@ fullfaces
 fulling
 fullmouthed
 fullness
+fulmars
 fulminant
 fulminated
 fulminates
@@ -45415,6 +45427,7 @@ futharks
 futhorc
 futhorcs
 futhork
+futhorks
 futile
 futileness
 futilitarian
@@ -49930,6 +49943,7 @@ hackly
 hackman
 hackmatack
 hackmatacks
+hackmen
 hackney
 hackneying
 hackneys
@@ -53273,6 +53287,7 @@ hornito
 hornitos
 hornless
 hornlessnesses
+hornlike
 hornpipe
 hornpipes
 hornpout
@@ -58081,6 +58096,7 @@ interfluvial
 interfold
 interfolding
 interfolds
+interfuses
 interfusing
 interfusions
 intergalactic
@@ -65484,6 +65500,7 @@ loyaler
 loyalest
 loyalism
 loyalist
+loyalists
 loyally
 lozenges
 luau
@@ -70818,6 +70835,7 @@ misting
 mistitle
 mistitled
 mistitles
+mistitling
 mistletoe
 mistletoes
 mistook
@@ -72482,6 +72500,7 @@ muleteers
 muleys
 muling
 mulishly
+mulishness
 mulishnesses
 mull
 mulla
@@ -74559,6 +74578,7 @@ niftier
 nifties
 niftiest
 niftily
+niftinesses
 nifty
 nigellas
 niggard
@@ -74804,6 +74824,7 @@ nobility
 noble
 nobleman
 nobleness
+nobler
 noblesse
 noblesses
 noblest
@@ -93774,6 +93795,7 @@ rayahs
 rayas
 rayed
 raygrass
+raying
 rayless
 raylessness
 raylessnesses
@@ -94837,6 +94859,7 @@ rectifiers
 rectify
 rectifying
 rectilinear
+rectilinearly
 rectitude
 rectitudinous
 recto
@@ -98141,6 +98164,7 @@ retackle
 retackled
 retackles
 retacks
+retag
 retagged
 retagging
 retags
@@ -100035,6 +100059,7 @@ roughnecks
 roughrider
 roughriders
 roughs
+roughshod
 roughy
 rouging
 rouille
@@ -103214,6 +103239,7 @@ sedan
 sedans
 sedarim
 sedate
+sedated
 sedately
 sedateness
 sedates
@@ -104538,6 +104564,7 @@ shams
 shamus
 shamuses
 shanachies
+shandies
 shandygaff
 shandygaffs
 shanghai
@@ -104874,6 +104901,7 @@ shielder
 shielders
 shielding
 shields
+shielings
 shier
 shiers
 shies
@@ -107907,6 +107935,7 @@ sociohistorical
 sociolects
 sociolinguistic
 sociolinguists
+sociologically
 sociologies
 sociologists
 sociometries
@@ -117007,6 +117036,7 @@ tetchier
 tetchiest
 tetchily
 tetchiness
+tetchinesses
 tether
 tetherball
 tetherballs
@@ -118954,6 +118984,7 @@ torero
 toreros
 tores
 toreutic
+toreutics
 torics
 tories
 torii
@@ -125205,6 +125236,7 @@ uprooting
 uproots
 uprose
 uprouse
+uprouses
 uprousing
 uprush
 uprushed
@@ -129386,6 +129418,7 @@ wickedness
 wickednesses
 wicker
 wickers
+wickerwork
 wickerworks
 wickets
 wicking
@@ -130302,6 +130335,7 @@ workforce
 workhorse
 workhorses
 workhour
+workhours
 workhouse
 working
 workingmen
@@ -130767,6 +130801,7 @@ yachts
 yachtsman
 yachtsmen
 yacked
+yacks
 yaff
 yaffed
 yaffing
