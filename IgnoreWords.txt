@@ -3580,6 +3580,7 @@ anapaest
 anapest
 anapestic
 anapestics
+anapests
 anaphase
 anaphases
 anaphasic
@@ -12926,6 +12927,7 @@ bouzoukis
 bovid
 bovids
 bovine
+bovinely
 bovines
 bovinity
 bowdlerise
@@ -13380,6 +13382,7 @@ breakfasted
 breakfaster
 breakfasts
 breakfront
+breakfronts
 breakings
 breakneck
 breakout
@@ -13998,6 +14001,7 @@ brutalised
 brutalises
 brutalising
 brutalities
+brutalization
 brutalizations
 brutalize
 brutalized
@@ -14832,6 +14836,7 @@ buttonholing
 buttonhooked
 buttonhooking
 buttonhooks
+buttoning
 buttons
 buttonwood
 buttonwoods
@@ -24601,6 +24606,7 @@ coteau
 coteaux
 coted
 cotenancies
+cotenancy
 cotenant
 cotenants
 coterie
@@ -26322,6 +26328,7 @@ cubical
 cubically
 cubicities
 cubicity
+cubicle
 cubicles
 cubics
 cubicula
@@ -28966,6 +28973,7 @@ delaines
 delaminate
 delaminated
 delaminates
+delaminating
 delaminations
 delate
 delated
@@ -30313,6 +30321,7 @@ detoxify
 detoxifying
 detoxing
 detract
+detracted
 detraction
 detractive
 detractively
@@ -31903,6 +31912,7 @@ discretenesses
 discretion
 discretionary
 discriminable
+discriminably
 discriminant
 discriminants
 discriminate
@@ -38247,6 +38257,7 @@ escapologist
 escar
 escargot
 escarole
+escaroles
 escarped
 escarping
 escarpment
@@ -43157,6 +43168,7 @@ fluorimetries
 fluorimetry
 fluorinate
 fluorinates
+fluorinating
 fluorination
 fluorine
 fluorines
@@ -45431,6 +45443,7 @@ fuzzily
 fuzziness
 fuzzing
 fuzztones
+fuzzy
 fyce
 fykes
 fylfot
@@ -51713,6 +51726,7 @@ henequins
 henge
 henges
 henhouse
+henhouses
 heniquens
 henley
 henleys
@@ -54199,6 +54213,7 @@ hyoidal
 hyoidean
 hyoids
 hyoscine
+hyoscines
 hyoscyamine
 hyoscyamines
 hyp
@@ -62036,6 +62051,7 @@ labia
 labial
 labiality
 labializations
+labialized
 labializes
 labializing
 labials
@@ -71575,6 +71591,7 @@ monosaccharides
 monosome
 monosomic
 monostele
+monosteles
 monostelic
 monostely
 monostich
@@ -75554,6 +75571,7 @@ nonmetals
 nonmetameric
 nonmetaphorical
 nonmetric
+nonmetrical
 nonmetro
 nonmetropolitan
 nonmicrobial
@@ -81308,6 +81326,7 @@ pale
 paleae
 paleal
 paleate
+paled
 paleface
 palefaces
 palely
@@ -82742,6 +82761,7 @@ patzer
 paucities
 paucity
 pauldron
+pauldrons
 paulin
 paulins
 paulownia
@@ -87675,6 +87695,7 @@ portabella
 portabellas
 portabello
 portabilities
+portable
 portably
 portaged
 portages
@@ -87984,6 +88005,7 @@ postprison
 postproduction
 postproductions
 postrace
+postrecession
 postretirement
 postriders
 postriot
@@ -88439,6 +88461,7 @@ preapproves
 prearm
 prearming
 prearms
+prearrange
 prearranged
 prearrangement
 prearrangements
@@ -94640,6 +94663,7 @@ reconsiders
 reconsigned
 reconsigning
 reconsigns
+reconsoled
 reconsoles
 reconsolidate
 reconsolidated
@@ -95422,6 +95446,7 @@ refect
 refected
 refection
 refections
+refective
 refects
 refeed
 refeeding
@@ -98004,6 +98029,7 @@ restrictiveness
 restrictives
 restrikes
 restring
+restringing
 restrive
 restriven
 restrives
@@ -108246,6 +108272,7 @@ sonar
 sonarman
 sonarmen
 sonars
+sonata
 sonatas
 sonatinas
 sonde
@@ -108381,6 +108408,7 @@ sopranos
 sops
 sora
 soras
+sorb
 sorbabilities
 sorbability
 sorbent
@@ -113539,6 +113567,7 @@ superbugs
 superbureaucrat
 supercabinet
 supercabinets
+supercalenders
 supercargo
 supercargoes
 supercarriers
@@ -120874,6 +120903,7 @@ trustability
 trustable
 trustbusters
 trusted
+trusteeing
 trustees
 trusteeship
 trusteeships
@@ -122611,6 +122641,7 @@ unconfuses
 unconfusing
 uncongenial
 uncongeniality
+unconnected
 unconquerably
 unconscionable
 unconscionably
@@ -126255,6 +126286,7 @@ venges
 venging
 venial
 venialities
+veniality
 venially
 venialness
 venine
@@ -126619,6 +126651,7 @@ vetivers
 vetivert
 vetiverts
 veto
+vetoer
 vetoers
 vetoes
 vetoing
@@ -129057,6 +129090,7 @@ whinged
 whinger
 whingers
 whinges
+whinging
 whinier
 whiniest
 whininesses
@@ -129763,6 +129797,7 @@ wis
 wisdom
 wise
 wiseacre
+wiseass
 wiseasses
 wisecrack
 wisecracker
