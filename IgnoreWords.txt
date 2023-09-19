@@ -268,6 +268,7 @@ acaudal
 acaudate
 acaulescent
 acaulose
+acaulous
 acceded
 accedence
 accedences
@@ -7439,6 +7440,7 @@ avouchments
 avow
 avowable
 avowably
+avowal
 avowals
 avowed
 avower
@@ -10087,6 +10089,7 @@ berretta
 berrettas
 berried
 berries
+berry
 berrying
 berryless
 berrylike
@@ -15834,6 +15837,7 @@ canner
 canneries
 canners
 cannibal
+cannibalise
 cannibalised
 cannibalises
 cannibalising
@@ -18495,6 +18499,7 @@ chemoautotrophy
 chemokine
 chemokines
 chemoreception
+chemoreceptive
 chemoreceptor
 chemoreceptors
 chemos
@@ -19070,6 +19075,7 @@ cholestases
 cholestasis
 cholestatic
 cholesterol
+cholesterols
 cholestyramine
 choline
 cholines
@@ -23639,6 +23645,7 @@ contriver
 contrivers
 contrives
 contriving
+control
 controllability
 controllable
 controlled
@@ -25912,6 +25919,7 @@ croaking
 croaks
 croaky
 croc
+crocein
 croceine
 croceines
 crocheted
@@ -30057,6 +30065,7 @@ desiderata
 desiderate
 desiderated
 desiderating
+desideration
 desiderations
 desiderative
 desideratum
@@ -36529,6 +36538,7 @@ enabler
 enablers
 enables
 enabling
+enact
 enacted
 enacting
 enactive
@@ -39321,6 +39331,7 @@ excoriates
 excoriating
 excoriation
 excoriations
+excrement
 excrements
 excrescence
 excrescency
@@ -39970,6 +39981,7 @@ extensors
 extent
 extents
 extenuate
+extenuated
 extenuates
 extenuating
 extenuation
@@ -43536,6 +43548,7 @@ folktales
 folkway
 folkways
 folky
+folles
 follicles
 follicular
 folliculitis
@@ -45809,6 +45822,7 @@ gallous
 gallowglass
 gallowglasses
 gallows
+gallstones
 gallus
 gallused
 galluses
@@ -52549,6 +52563,7 @@ histidin
 histidine
 histidins
 histiocytes
+histiocytic
 histochemical
 histochemically
 histochemistry
@@ -61764,6 +61779,7 @@ klutzinesses
 klystrons
 knacked
 knacker
+knackered
 knackeries
 knackery
 knacking
@@ -61910,6 +61926,7 @@ knuckleballs
 knucklebones
 knuckled
 knucklehead
+knuckleheaded
 knuckler
 knucklers
 knuckles
@@ -67331,6 +67348,7 @@ marplot
 marplots
 marque
 marquee
+marquees
 marques
 marquessate
 marquessates
@@ -74254,6 +74272,7 @@ nephrotoxic
 nephrotoxicity
 nepotism
 nepotisms
+nepotistic
 nepotists
 neptunium
 nerd
@@ -75247,6 +75266,7 @@ noncolored
 noncolorfast
 noncolors
 noncombat
+noncombatants
 noncombative
 noncommercial
 noncommitment
@@ -76950,6 +76970,7 @@ observants
 observation
 observationally
 observations
+observatories
 observatory
 observer
 observers
@@ -80097,6 +80118,7 @@ overdries
 overdrink
 overdrinking
 overdrinks
+overdrive
 overdriven
 overdrives
 overdriving
@@ -88966,6 +88988,7 @@ prednisolone
 prednisolones
 prednisone
 prednisones
+predoctoral
 predominance
 predominances
 predominancy
@@ -92561,6 +92584,7 @@ quant
 quanta
 quantal
 quantally
+quantic
 quantification
 quantifications
 quantifiers
@@ -96606,6 +96630,7 @@ reliefs
 relier
 reliers
 relies
+relieved
 reliever
 relievers
 relieves
@@ -99186,6 +99211,7 @@ rhyolitic
 rhyta
 rhythm
 rhythmic
+rhythmically
 rhythmics
 rhythmists
 rhythmized
@@ -102171,6 +102197,7 @@ scarce
 scarcely
 scarcenesses
 scarcer
+scarcities
 scarcity
 scare
 scarecrow
@@ -107400,6 +107427,7 @@ smalt
 smaltine
 smaltines
 smaltite
+smaltites
 smalto
 smaltos
 smalts
@@ -108064,6 +108092,7 @@ socagers
 socages
 soccer
 soccers
+sociability
 sociable
 sociableness
 sociablenesses
@@ -117464,6 +117493,7 @@ theocentric
 theocentricity
 theocentrism
 theocracies
+theocracy
 theocratic
 theocratical
 theocratically
@@ -118313,6 +118343,7 @@ tilaks
 tilapia
 tilbury
 tilde
+tile
 tilefish
 tilefishes
 tilelike
@@ -119887,6 +119918,7 @@ transistorise
 transistorises
 transistorising
 transistorize
+transistorizing
 transistors
 transited
 transitional
@@ -123213,6 +123245,7 @@ underpays
 underpinned
 underpinnings
 underpins
+underplay
 underplayed
 underplaying
 underplays
@@ -124845,6 +124878,7 @@ unsphere
 unsphered
 unsphering
 unspilled
+unspilt
 unspiritual
 unspoilt
 unspoke
@@ -126494,6 +126528,7 @@ velvety
 venae
 venal
 venalities
+venality
 venatical
 venations
 vend
