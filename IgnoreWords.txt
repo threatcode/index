@@ -959,9 +959,11 @@ addressee
 addressers
 addresses
 addressing
+addressors
 adduced
 adducent
 adducer
+adducers
 adduces
 adducible
 adducing
@@ -10741,6 +10743,7 @@ billiard
 billiards
 billie
 billies
+billing
 billings
 billingsgate
 billingsgates
@@ -21741,6 +21744,7 @@ colors
 colorways
 colossal
 colossi
+colossuses
 colostomies
 colostomy
 colostral
@@ -22684,6 +22688,7 @@ condescends
 condescension
 condescensions
 condign
+condignly
 condiment
 condiments
 conditionable
@@ -22828,6 +22833,7 @@ confidently
 confider
 confides
 confiding
+confidingly
 confidingness
 confidingnesses
 configuration
@@ -34813,6 +34819,7 @@ dustpan
 dustpans
 dustproof
 dustrags
+dusts
 duststorm
 duststorms
 dustups
@@ -40377,6 +40384,7 @@ faceting
 facetious
 facetiousness
 facets
+facetted
 facetting
 facia
 faciae
@@ -42022,6 +42030,7 @@ filmically
 filmier
 filmiest
 filmily
+filminesses
 filming
 filmis
 filmland
@@ -42337,6 +42346,7 @@ firth
 fisc
 fiscal
 fiscalist
+fiscalists
 fiscally
 fiscals
 fiscs
@@ -45481,6 +45491,7 @@ furtive
 furtively
 furuncle
 furuncles
+furunculoses
 fury
 furze
 furzes
@@ -46242,6 +46253,7 @@ gaskets
 gaskin
 gaskings
 gaskins
+gasless
 gaslight
 gaslights
 gaslit
@@ -57255,6 +57267,7 @@ infusibleness
 infusion
 infusorian
 ingate
+ingates
 ingather
 ingathered
 ingatherings
@@ -75915,6 +75928,7 @@ nonphotographic
 nonphysician
 nonplanar
 nonplastic
+nonplastics
 nonplay
 nonplayer
 nonplaying
@@ -76783,6 +76797,7 @@ nympha
 nymphae
 nymphalid
 nymphet
+nymphetic
 nymphets
 nympho
 nympholepsies
@@ -82728,6 +82743,7 @@ passively
 passivenesses
 passives
 passivisms
+passivists
 passivities
 passivity
 passkey
@@ -87915,6 +87931,7 @@ porcellaneous
 porches
 porcini
 porcinis
+porcino
 porcupine
 porcupines
 pore
@@ -88616,6 +88633,7 @@ prankishness
 prankishnesses
 pranks
 prankster
+pranksters
 prao
 praos
 prase
@@ -90543,6 +90561,7 @@ profound
 profoundly
 profoundness
 profounds
+profundities
 profuse
 profusely
 profuseness
@@ -90766,6 +90785,7 @@ pronated
 pronates
 pronating
 pronation
+pronator
 pronatores
 prone
 pronely
@@ -94956,6 +94976,7 @@ reconsider
 reconsidered
 reconsidering
 reconsiders
+reconsign
 reconsigned
 reconsigning
 reconsigns
@@ -99250,6 +99271,7 @@ rhodochrosite
 rhododendron
 rhododendrons
 rhodolite
+rhodomontade
 rhodomontades
 rhodonite
 rhodopsin
@@ -102698,6 +102720,7 @@ sclerenchymas
 sclerites
 scleritic
 scleritis
+scleritises
 scleroderma
 scleroid
 scleroma
@@ -104046,6 +104069,7 @@ senecas
 senecio
 senecios
 senectitude
+senectitudes
 senescences
 senescent
 seneschal
@@ -107306,6 +107330,7 @@ slobby
 slobs
 sloes
 sloganeered
+sloganeers
 sloganize
 sloganized
 sloganizes
@@ -109036,6 +109061,7 @@ spacer
 spaces
 spaceship
 spacesuit
+spacewalk
 spacewalked
 spacewalker
 spacewalkers
@@ -113312,6 +113338,7 @@ suburbanising
 suburbanites
 suburbanize
 suburbanized
+suburbanizing
 suburbed
 suburbia
 suburbs
@@ -115600,6 +115627,7 @@ tachist
 tachiste
 tachistes
 tachistoscopic
+tachists
 tachometer
 tachometers
 tachyarrhythmia
@@ -116080,6 +116108,7 @@ tapeless
 tapeline
 tapelines
 tapenades
+taper
 tapered
 taperer
 taperers
@@ -119355,6 +119384,7 @@ torrential
 torrentially
 torrents
 torrid
+torrider
 torridities
 torridity
 torridly
@@ -120078,6 +120108,7 @@ transmountain
 transmutable
 transmutations
 transmutative
+transmute
 transmutes
 transmuting
 transnational
@@ -121753,6 +121784,7 @@ turtlers
 turtles
 turtling
 turtlings
+turves
 tusche
 tusches
 tush
@@ -122941,6 +122973,7 @@ unclogging
 unclogs
 unclose
 unclosed
+uncloses
 unclosing
 unclothe
 unclothed
@@ -129443,6 +129476,7 @@ whetstone
 whetstones
 whetted
 whetter
+whetting
 whey
 wheyey
 wheyface
@@ -131705,6 +131739,7 @@ zenanas
 zenith
 zeniths
 zeolite
+zeolitic
 zep
 zephyr
 zeppelin
