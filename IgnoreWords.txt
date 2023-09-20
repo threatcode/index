@@ -129,6 +129,7 @@ absorbed
 absorbencies
 absorbency
 absorbents
+absorbing
 absorptances
 absorption
 absorptions
@@ -334,6 +335,7 @@ accessorized
 accessorizes
 accessory
 acciaccatura
+acciaccaturas
 accidence
 accidences
 accident
@@ -5376,6 +5378,7 @@ apraxias
 apres
 apricot
 apricots
+apriorities
 apriority
 aproning
 aprons
@@ -5389,6 +5392,7 @@ apter
 apteral
 apteria
 apterous
+apteryx
 aptest
 aptitude
 aptitudes
@@ -6911,6 +6915,7 @@ attornment
 attornments
 attract
 attractance
+attractances
 attractancy
 attractants
 attracter
@@ -11157,6 +11162,7 @@ birdlife
 birdlike
 birdlimed
 birdlimes
+birdliming
 birdman
 birdmen
 birds
@@ -14410,6 +14416,7 @@ bullhorn
 bullhorns
 bullied
 bullier
+bullies
 bulling
 bullion
 bullions
@@ -17164,6 +17171,7 @@ catechus
 categorical
 categorically
 categories
+categorise
 categorised
 categorises
 categorising
@@ -17437,6 +17445,7 @@ cazique
 caziques
 ceanothus
 ceanothuses
+cease
 ceased
 ceasefires
 ceaselessly
@@ -20916,6 +20925,7 @@ cocarcinogens
 cocas
 cocatalyst
 cocatalysts
+coccal
 cocci
 coccic
 coccidia
@@ -32094,6 +32104,7 @@ discordant
 discordantly
 discorded
 discording
+discords
 discos
 discotheque
 discotheques
@@ -33179,6 +33190,7 @@ division
 divisional
 divisionism
 divisionisms
+divisionist
 divisionists
 divisions
 divisive
@@ -33287,6 +33299,7 @@ doctorates
 doctored
 doctorial
 doctoring
+doctorless
 doctors
 doctorships
 doctrinaire
@@ -33622,6 +33635,7 @@ doodled
 doodler
 doodlers
 doodles
+doodoo
 doodoos
 doody
 doofus
@@ -38606,6 +38620,7 @@ espousal
 espousals
 espouse
 espouser
+espousers
 espouses
 espresso
 espressos
@@ -42735,6 +42750,7 @@ flamboyances
 flamboyancies
 flamboyancy
 flamboyants
+flame
 flameless
 flamelike
 flamen
@@ -43733,6 +43749,7 @@ folio
 folioed
 folioing
 foliose
+foliums
 folk
 folkie
 folkishness
@@ -47057,6 +47074,7 @@ geoscientist
 geostationary
 geostrategic
 geostrategist
+geostrategy
 geostrophically
 geosynclinal
 geosyncline
@@ -49435,6 +49453,7 @@ groovers
 grooves
 groovier
 grooviest
+grooving
 groovy
 grope
 groped
@@ -59402,6 +59421,7 @@ iodate
 iodating
 iodation
 iodations
+iodic
 iodid
 iodide
 iodids
@@ -64507,6 +64527,7 @@ lightwood
 lignan
 lignans
 ligneous
+lignifications
 lignified
 lignify
 lignifying
@@ -68326,6 +68347,7 @@ mechitza
 mechitzot
 meclizine
 meclizines
+meconiums
 med
 medaillon
 medaillons
@@ -68402,6 +68424,7 @@ medicining
 medick
 medico
 medicolegal
+medicos
 medics
 medievalism
 medievalisms
@@ -68433,6 +68456,7 @@ mediums
 mediumship
 medius
 medivac
+medivaced
 medivacked
 medivacking
 medivacs
@@ -70565,6 +70589,7 @@ misbranded
 misbranding
 misbrands
 misbuild
+misbuilding
 misbuilds
 misbuilt
 misbuttoned
@@ -75136,6 +75161,7 @@ nimbostrati
 nimbostratus
 nimbus
 nimbused
+nimbuses
 nimbyness
 nimieties
 nimious
@@ -79641,6 +79667,7 @@ outpitched
 outpitches
 outpitching
 outpitied
+outpities
 outpitying
 outplace
 outplacement
@@ -83420,6 +83447,7 @@ paycheck
 paychecks
 payday
 paydays
+payed
 payee
 payees
 payer
@@ -84312,6 +84340,7 @@ performances
 performative
 performatives
 performed
+performers
 performing
 performs
 perfume
@@ -90945,6 +90974,7 @@ programmes
 programming
 programmings
 programs
+progress
 progressed
 progression
 progressional
@@ -98090,6 +98120,7 @@ requiescat
 requiescats
 requin
 requins
+require
 required
 requirements
 requirer
@@ -107995,6 +108026,7 @@ smearier
 smeariest
 smearing
 smears
+smeary
 smectite
 smeddum
 smeek
@@ -108813,6 +108845,7 @@ solderability
 soldered
 soldering
 solders
+soldier
 soldiered
 soldiering
 soldierings
@@ -115987,6 +116020,7 @@ tablas
 tablature
 tablatures
 table
+tableau
 tableaus
 tableaux
 tablecloth
@@ -116842,6 +116876,7 @@ taxicab
 taxicabs
 taxidermic
 taxidermies
+taxidermist
 taxidermy
 taxies
 taximen
