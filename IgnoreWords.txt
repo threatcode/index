@@ -4827,6 +4827,7 @@ antonymic
 antonymies
 antonymous
 antonyms
+antonymy
 antra
 antre
 antrorse
@@ -5766,6 +5767,7 @@ argufied
 argufier
 argufiers
 argufying
+argument
 argumenta
 argumentation
 argumentations
@@ -8179,6 +8181,7 @@ baldpated
 baldpates
 baldric
 baldrick
+baldricks
 baldrics
 bale
 baleen
@@ -8285,6 +8288,7 @@ balminess
 balminesses
 balmlike
 balmoral
+balmorals
 balneology
 baloney
 baloneys
@@ -8900,6 +8904,7 @@ basque
 basques
 bass
 basses
+basset
 basseted
 basseting
 bassets
@@ -11724,6 +11729,7 @@ blinds
 blindside
 blindsided
 blindsides
+blindsiding
 blindworm
 blindworms
 blini
@@ -14121,6 +14127,7 @@ brutalised
 brutalises
 brutalising
 brutalities
+brutality
 brutalization
 brutalizations
 brutalize
@@ -16358,6 +16365,7 @@ caravanned
 caravanners
 caravanning
 caravanserai
+caravanserais
 caravel
 caravelle
 caravels
@@ -16829,6 +16837,7 @@ cartography
 carton
 cartoned
 cartoning
+cartons
 cartoon
 cartooned
 cartoonish
@@ -20954,6 +20963,7 @@ coccyx
 coccyxes
 cochair
 cochaired
+cochairing
 cochairman
 cochairmen
 cochairperson
@@ -28535,6 +28545,7 @@ decollete
 decolletes
 decolonization
 decolonizations
+decolonize
 decolonized
 decolonizes
 decolonizing
@@ -34417,6 +34428,7 @@ drivels
 driven
 driver
 driverless
+drives
 driveshaft
 driveshafts
 drivetrain
@@ -40449,6 +40461,7 @@ eyeblacks
 eyeblink
 eyeblinks
 eyebolts
+eyebrights
 eyebrows
 eyecup
 eyecups
@@ -53535,6 +53548,7 @@ hoofer
 hoofers
 hoofing
 hoofless
+hooflike
 hoofprint
 hoofprints
 hook
@@ -66304,6 +66318,7 @@ luxate
 luxated
 luxates
 luxating
+luxation
 luxations
 luxe
 luxes
@@ -67233,6 +67248,7 @@ mandrake
 mandrakes
 mandrel
 mandrels
+mandril
 mandrill
 mandrils
 manducate
@@ -68207,6 +68223,7 @@ maximising
 maximite
 maximites
 maximization
+maximizations
 maximizers
 maximizing
 maxims
@@ -75638,6 +75655,7 @@ noncharacter
 noncharacters
 noncharismatics
 nonchemical
+nonchemicals
 nonchurchgoer
 nonchurchgoers
 noncitizens
@@ -80931,6 +80949,7 @@ overmix
 overmixed
 overmixing
 overmodest
+overmodestly
 overmuch
 overmuches
 overmuscled
@@ -99120,6 +99139,7 @@ retrainee
 retraining
 retrains
 retral
+retrally
 retransfer
 retransferred
 retransferring
@@ -99708,6 +99728,7 @@ rhizoid
 rhizoidal
 rhizoids
 rhizoma
+rhizomatous
 rhizome
 rhizomes
 rhizopi
@@ -102355,6 +102376,7 @@ satays
 satcheled
 satchelfuls
 satchels
+sate
 sateen
 sateens
 satem
@@ -102759,6 +102781,7 @@ scaphopods
 scaping
 scapose
 scapula
+scapulae
 scapular
 scapulars
 scapulary
@@ -102799,6 +102822,7 @@ scariness
 scarinesses
 scariose
 scarious
+scarlatina
 scarlatinal
 scarlatinas
 scarless
@@ -108752,6 +108776,7 @@ sociopolitical
 socioreligious
 sociosexual
 sock
+sockdolager
 sockdolagers
 sockdologer
 socket
@@ -115033,6 +115058,7 @@ surfers
 surffishes
 surficial
 surfier
+surfiest
 surfings
 surfman
 surfmen
@@ -116599,6 +116625,7 @@ tanrecs
 tantalates
 tantalic
 tantalise
+tantalised
 tantalises
 tantalising
 tantalites
@@ -117984,6 +118011,7 @@ tets
 tetters
 teuch
 teutonize
+tevatron
 tevatrons
 tewed
 tewing
@@ -123498,6 +123526,7 @@ unclassy
 unclawed
 unclean
 uncleaned
+uncleanest
 uncleanlier
 uncleanliness
 uncleanlinesses
@@ -126150,6 +126179,7 @@ uprear
 uprearing
 uprears
 upright
+uprighted
 uprighting
 uprightly
 uprightnesses
@@ -128448,6 +128478,7 @@ voidablenesses
 voider
 voiding
 voidness
+voids
 voiles
 volant
 volante
@@ -129520,6 +129551,7 @@ wayworn
 wazoo
 wazoos
 we
+weak
 weaken
 weakeners
 weakening
@@ -129851,6 +129883,7 @@ wending
 wends
 wennier
 wenniest
+wennish
 wenny
 went
 wentletrap
@@ -131811,6 +131844,7 @@ yanquis
 yantra
 yantras
 yap
+yapocks
 yapok
 yapoks
 yapon
@@ -132442,6 +132476,7 @@ zirconia
 zirconias
 zirconic
 zirconium
+zircons
 zit
 zither
 zitherist
