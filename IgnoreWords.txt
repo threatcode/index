@@ -437,6 +437,7 @@ accreditation
 accreditations
 accredited
 accredits
+accrete
 accretes
 accreting
 accretion
@@ -1745,6 +1746,7 @@ agape
 agapeic
 agar
 agaric
+agarics
 agarose
 agaroses
 agars
@@ -1864,6 +1866,7 @@ aggressively
 aggressiveness
 aggressor
 aggressors
+aggrieved
 aggrievedly
 aggrievements
 aggrieves
@@ -3702,6 +3705,7 @@ anchorite
 anchorites
 anchoritically
 anchorless
+anchorman
 anchorpeople
 anchorperson
 anchorpersons
@@ -10727,6 +10731,7 @@ bifidly
 bifilar
 bifilarly
 biflagellate
+biflex
 bifocaled
 bifocals
 bifoliate
@@ -14428,6 +14433,7 @@ buggiest
 buggy
 bughouses
 bugle
+bugled
 bugler
 bugleweeds
 bugling
@@ -26680,6 +26686,7 @@ cryptogamic
 cryptogamous
 cryptogams
 cryptogenic
+cryptogram
 cryptograms
 cryptograph
 cryptographer
@@ -27037,6 +27044,7 @@ curacoa
 curagh
 curaghs
 curandera
+curanderas
 curanderos
 curaras
 curares
@@ -29451,6 +29459,7 @@ delations
 delator
 delay
 delayed
+delayer
 dele
 delead
 deleading
@@ -43213,6 +43222,7 @@ flatfooted
 flatfoots
 flathead
 flatiron
+flatlanders
 flatlands
 flatlet
 flatline
@@ -43242,6 +43252,7 @@ flatteries
 flatteringly
 flatters
 flattery
+flattest
 flattish
 flattop
 flatulencies
@@ -45450,6 +45461,7 @@ fritillary
 frits
 frittata
 frittatas
+fritted
 frittered
 fritterer
 fritterers
@@ -47587,6 +47599,7 @@ getup
 geum
 gewgaw
 gewgawed
+gewgaws
 gey
 geyserites
 gharials
@@ -50863,6 +50876,7 @@ hairwork
 hairworm
 hairworms
 haj
+haji
 hajis
 hajj
 hajji
@@ -51999,6 +52013,7 @@ heartstrings
 heartthrob
 heartthrobs
 heartwarming
+heartwoods
 heartworms
 hearty
 heat
@@ -52981,6 +52996,7 @@ hiddennesses
 hideaway
 hideaways
 hidebound
+hided
 hideless
 hideosity
 hideous
@@ -53265,6 +53281,7 @@ histologic
 histologically
 histologist
 histologists
+histology
 histolyses
 histolysis
 histone
@@ -57035,6 +57052,7 @@ incompetence
 incompetences
 incompetency
 incompetent
+incompetently
 incompetents
 incomplete
 incompletely
@@ -62341,9 +62359,11 @@ kindlers
 kindles
 kindlessly
 kindlier
+kindliest
 kindliness
 kindlinesses
 kindling
+kindlings
 kindnesses
 kindreds
 kinds
@@ -64543,6 +64563,7 @@ lesioned
 lesioning
 lesions
 lespedeza
+lespedezas
 less
 lessee
 lessen
@@ -66707,6 +66728,7 @@ lusher
 lushes
 lushing
 lushly
+lushness
 lushnesses
 lust
 lusted
@@ -68091,6 +68113,7 @@ marginalization
 marginalize
 marginalizes
 marginalizing
+marginally
 marginals
 marginated
 marginating
@@ -86398,6 +86421,7 @@ physicalisms
 physicalist
 physicalists
 physicality
+physically
 physicalness
 physicals
 physician
@@ -90208,6 +90232,7 @@ preexempting
 preexempts
 preexilic
 preexist
+preexisted
 preexistences
 preexists
 preexperiment
@@ -91804,6 +91829,7 @@ prolonged
 prolonger
 prolonging
 prolusion
+prolusions
 prolusory
 prom
 promenading
@@ -98767,6 +98793,7 @@ reproachingly
 reprobance
 reprobate
 reprobated
+reprobates
 reprobating
 reprobation
 reprobations
@@ -106010,6 +106037,7 @@ shaft
 shafted
 shaftings
 shafts
+shag
 shagbark
 shagbarks
 shaggier
@@ -114875,6 +114903,7 @@ sufficient
 sufficiently
 suffix
 suffixation
+suffixations
 suffixed
 suffixes
 suffixions
@@ -118012,6 +118041,7 @@ teenier
 teensy
 teentsier
 teentsiest
+teentsy
 teenybop
 teenyboppers
 tees
@@ -120604,6 +120634,7 @@ toonie
 toonies
 toons
 toot
+tooted
 tooter
 tooters
 tooth
@@ -121962,6 +121993,7 @@ triangular
 triangularly
 triangulate
 triangulated
+triangulates
 triangulating
 triangulation
 triangulations
@@ -124583,6 +124615,7 @@ uncredited
 uncrippled
 uncritically
 uncropped
+uncrossable
 uncrossed
 uncrosses
 uncrossing
@@ -130092,6 +130125,7 @@ warming
 warmish
 warmly
 warmness
+warmnesses
 warmonger
 warmongerings
 warmouth
@@ -130599,6 +130633,7 @@ webers
 webfed
 webfeet
 webfoot
+webless
 weblike
 weblog
 webmaster
