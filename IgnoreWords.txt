@@ -2185,6 +2185,7 @@ airy
 ais
 aisled
 aisles
+aisleways
 aitchbone
 aitchbones
 aitches
@@ -2425,6 +2426,7 @@ algorithmic
 algorithms
 algors
 algums
+alias
 aliases
 aliasing
 alibi
@@ -9154,6 +9156,7 @@ bayonetting
 bayou
 bays
 baywood
+baywoods
 bazaars
 bazar
 bazars
@@ -12990,6 +12993,7 @@ botulisms
 boubou
 bouchee
 bouchees
+boucle
 boucles
 boudins
 boudoirs
@@ -19397,6 +19401,7 @@ chorial
 choriamb
 choriambs
 choric
+chorine
 chorines
 choring
 chorioallantois
@@ -20692,6 +20697,7 @@ clots
 clotted
 cloture
 clotured
+clotures
 cloturing
 cloud
 cloudberries
@@ -24325,6 +24331,7 @@ copublishing
 copula
 copulae
 copular
+copulas
 copulate
 copulates
 copulating
@@ -26831,6 +26838,7 @@ cultist
 cultivability
 cultivable
 cultivar
+cultivate
 cultivated
 cultivating
 cultivation
@@ -33061,6 +33069,7 @@ dissociative
 dissoluble
 dissolute
 dissolutely
+dissoluteness
 dissolutenesses
 dissolution
 dissolutions
@@ -38572,6 +38581,7 @@ ergograph
 ergographs
 ergometric
 ergometries
+ergonomically
 ergonomics
 ergonomist
 ergonovines
@@ -41607,6 +41617,7 @@ federacy
 federal
 federalese
 federaleses
+federalisms
 federalist
 federalization
 federalizations
@@ -51318,6 +51329,7 @@ harebells
 hared
 hareem
 hareems
+harelike
 harelip
 harem
 harems
@@ -53073,6 +53085,7 @@ hired
 hirees
 hireling
 hirelings
+hirer
 hirers
 hires
 hirple
@@ -53432,6 +53445,7 @@ holsteins
 holster
 holstered
 holstering
+holsters
 holts
 holy
 holyday
@@ -54948,6 +54962,7 @@ hypercatalexes
 hypercautious
 hypercharge
 hypercharges
+hypercivilized
 hypercomplex
 hyperconscious
 hypercorrect
@@ -63437,6 +63452,7 @@ larders
 lardiest
 lardlike
 lardon
+lardoon
 lardoons
 laree
 largando
@@ -64479,6 +64495,7 @@ leukotriene
 leukotrienes
 lev
 levant
+levanted
 levanter
 levanters
 levantine
@@ -66069,6 +66086,7 @@ lorazepam
 lorazepams
 lordings
 lordlier
+lordliest
 lordlike
 lordliness
 lordlings
@@ -75639,6 +75657,7 @@ niters
 nitery
 nites
 nitinol
+nitinols
 nitons
 nitpick
 nitpicked
@@ -79830,6 +79849,7 @@ outfawned
 outfawning
 outfeast
 outfeasted
+outfeasts
 outfeel
 outfeeling
 outfelt
@@ -83559,6 +83579,7 @@ pasteurizer
 pasteurizers
 pasteurizes
 pasteurizing
+pasticcios
 pastiche
 pastiches
 pasticheur
@@ -84363,6 +84384,7 @@ penalize
 penalized
 penalizes
 penalizing
+penalties
 penalty
 penanced
 penancing
@@ -87879,6 +87901,7 @@ plushness
 plushy
 plussage
 plussages
+plusses
 plutocracies
 plutocracy
 plutocrat
@@ -91718,6 +91741,7 @@ propellants
 propelled
 propellent
 propelling
+propellor
 propellors
 propels
 propend
@@ -92413,6 +92437,7 @@ psychics
 psyching
 psycho
 psychoacoustic
+psychoactive
 psychoanalyses
 psychoanalyst
 psychoanalysts
@@ -94802,6 +94827,7 @@ ration
 rational
 rationale
 rationales
+rationalism
 rationalist
 rationalistic
 rationalists
@@ -96156,6 +96182,7 @@ redefeats
 redefect
 redefected
 redefecting
+redefects
 redefied
 redefine
 redefined
@@ -96903,6 +96930,7 @@ refrigerates
 refrigerating
 refrigeration
 refront
+refronted
 refronts
 refroze
 refrozen
@@ -103277,6 +103305,7 @@ scarfers
 scarfing
 scarfpin
 scarfpins
+scarfs
 scarfskin
 scarfskins
 scarification
@@ -104880,6 +104909,7 @@ semicommercial
 semiconducting
 semiconductor
 semiconductors
+semicrystalline
 semicured
 semicylindrical
 semideaf
@@ -104985,6 +105015,7 @@ semiraw
 semireligious
 semiretired
 semiretirement
+semirigid
 semiround
 semirounds
 semirural
@@ -107968,6 +107999,7 @@ slaking
 slalom
 slalomed
 slalomer
+slam
 slamdanced
 slamdances
 slamdancing
@@ -110506,6 +110538,7 @@ spermatia
 spermatic
 spermatids
 spermatium
+spermatocyte
 spermatocytes
 spermatogeneses
 spermatogenesis
@@ -119524,6 +119557,7 @@ tiebreaks
 tieclasp
 tieclasps
 tied
+tieing
 tieless
 tiemannite
 tiemannites
@@ -119669,6 +119703,7 @@ timetable
 timework
 timeworker
 timeworkers
+timeworks
 timeworn
 timid
 timidities
