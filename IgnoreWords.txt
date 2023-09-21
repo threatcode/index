@@ -10254,6 +10254,7 @@ beryline
 beryllium
 berylliums
 bes
+bescorch
 bescorched
 bescorches
 bescoured
@@ -10877,6 +10878,7 @@ billet
 billeted
 billeter
 billeters
+billeting
 billets
 billfish
 billfishes
@@ -14984,6 +14986,7 @@ busticate
 busticated
 busticates
 bustics
+bustiers
 bustiest
 bustiness
 busting
@@ -16170,6 +16173,7 @@ cantal
 cantala
 cantaloup
 cantaloupes
+cantaloups
 cantankerously
 cantatrice
 cantdog
@@ -16623,6 +16627,7 @@ carcinomata
 carcinomatosis
 carcinomatous
 carcinosarcoma
+carcinosarcomas
 card
 cardamoms
 cardamon
@@ -21598,6 +21603,7 @@ cohost
 cohosted
 cohostess
 cohostesses
+cohostessing
 cohosting
 cohosts
 cohousing
@@ -22991,6 +22997,7 @@ condemning
 condemnor
 condemnors
 condemns
+condensable
 condensate
 condensations
 condenser
@@ -29131,6 +29138,7 @@ defibrillations
 defibrillators
 defibrinates
 defibrinating
+defibrinations
 deficiencies
 deficient
 deficiently
@@ -32397,6 +32405,7 @@ discontinuing
 discontinuities
 discophile
 discophiles
+discordances
 discordancy
 discordant
 discordantly
@@ -35364,6 +35373,7 @@ dyers
 dyestuff
 dyeweeds
 dyewood
+dyewoods
 dying
 dyings
 dyked
@@ -37628,6 +37638,7 @@ engulfment
 engulfments
 engulfs
 enhalo
+enhaloed
 enhaloes
 enhalos
 enhance
@@ -37641,6 +37652,7 @@ enigma
 enigmas
 enigmatic
 enigmatical
+enigmatically
 enisle
 enisled
 enisles
@@ -48214,6 +48226,7 @@ gleys
 glia
 gliadin
 gliadins
+glial
 glib
 glibber
 glibbest
@@ -48722,6 +48735,7 @@ godwit
 godwits
 goer
 goes
+goethite
 goethites
 gofer
 gofers
@@ -50394,6 +50408,7 @@ gunfire
 gunfires
 gunflints
 gunfought
+gunite
 gunites
 gunk
 gunkholed
@@ -55253,6 +55268,7 @@ hyperparasitism
 hyperphagia
 hyperphysical
 hyperpigmented
+hyperpituitary
 hyperplane
 hyperplanes
 hyperplasia
@@ -58369,6 +58385,7 @@ inquired
 inquirer
 inquirers
 inquires
+inquiries
 inquiring
 inquiringly
 inquiry
@@ -58963,6 +58980,7 @@ interdigitated
 interdigitates
 interdigitating
 interdigitation
+interdistrict
 interdivisional
 interdominion
 interelectrode
@@ -59020,6 +59038,7 @@ intergeneration
 intergeneric
 interglacial
 interglacials
+intergradation
 intergradations
 intergrade
 intergraded
@@ -62897,6 +62916,7 @@ kraits
 kraken
 krakens
 krater
+kraters
 krauts
 kreep
 kreeps
@@ -64399,6 +64419,7 @@ legionary
 legionnaire
 legionnaires
 legions
+legislate
 legislated
 legislates
 legislating
@@ -66612,6 +66633,7 @@ lugging
 luging
 lugs
 lugsail
+lugsails
 lugubrious
 lugubriously
 lugubriousness
@@ -67785,6 +67807,7 @@ mandamused
 mandamuses
 mandamusing
 mandarin
+mandarinate
 mandarinates
 mandarinic
 mandarinisms
@@ -71366,6 +71389,7 @@ misdate
 misdated
 misdeal
 misdealer
+misdealers
 misdealing
 misdeals
 misdealt
@@ -76529,6 +76553,7 @@ nonenforcement
 nonenforcements
 nonengagement
 nonengagements
+nonengineering
 nonentities
 nonentity
 nonentries
@@ -80251,6 +80276,7 @@ outhouses
 outhowl
 outhowled
 outhowls
+outhumored
 outhumoring
 outhumors
 outhunt
@@ -86942,6 +86968,7 @@ pillar
 pillaring
 pillarless
 pillars
+pillbox
 pillboxes
 pilling
 pillion
@@ -91850,6 +91877,7 @@ projection
 projectional
 projectionist
 projectionists
+projective
 projectively
 projects
 projet
@@ -93630,6 +93658,7 @@ pyrexia
 pyrexial
 pyrexias
 pyrexic
+pyrheliometer
 pyrheliometric
 pyric
 pyridic
@@ -98361,6 +98390,7 @@ renaissances
 renal
 rename
 renamed
+renames
 renaming
 renascence
 renascences
@@ -110186,6 +110216,7 @@ sootily
 sootinesses
 soots
 sooty
+sop
 sopaipilla
 sopaipillas
 sopapilla
@@ -113817,6 +113848,7 @@ strummed
 strummer
 strummers
 strumose
+strumous
 strumpet
 strumpets
 strums
@@ -129282,6 +129314,7 @@ viscounts
 viscounty
 viscous
 viscously
+viscousness
 viscousnesses
 viscus
 vise
@@ -132306,6 +132339,7 @@ woodlarks
 woodless
 woodlores
 woodlot
+woodlots
 woodman
 woodmen
 woodnote
@@ -133771,6 +133805,7 @@ zygomas
 zygomata
 zygomatic
 zygomatics
+zygomorphy
 zygose
 zygosities
 zygospore
