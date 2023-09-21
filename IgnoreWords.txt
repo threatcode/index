@@ -1060,6 +1060,7 @@ adjective
 adjectively
 adjoin
 adjoined
+adjoining
 adjoins
 adjoint
 adjourned
@@ -10896,6 +10897,7 @@ bimodal
 bimodality
 bimolecular
 bimolecularly
+bimonthlies
 bimonthly
 bimorph
 bimorphemic
@@ -17774,6 +17776,7 @@ centrally
 centrals
 centre
 centred
+centres
 centric
 centrically
 centricities
@@ -20861,6 +20864,7 @@ coalescent
 coalesces
 coalescing
 coalfield
+coalfish
 coalfishes
 coalhole
 coalholes
@@ -29166,6 +29170,7 @@ degausser
 degaussers
 degausses
 degaussing
+degender
 degendered
 degendering
 degenders
@@ -30039,6 +30044,7 @@ deportation
 deportations
 deported
 deportee
+deportees
 deporter
 deporting
 deportment
@@ -32325,6 +32331,7 @@ discusser
 discusses
 discussible
 discussing
+discussion
 discussions
 disdain
 disdainfully
@@ -38825,6 +38832,7 @@ establishable
 established
 establisher
 establishers
+establishing
 establishment
 establishments
 estaminets
@@ -47546,6 +47554,7 @@ gigabytes
 gigacycles
 gigahertzes
 gigantic
+gigantically
 gigantism
 gigantisms
 gigatons
@@ -55518,6 +55527,7 @@ igniter
 ignites
 ignition
 ignitions
+ignitor
 ignitors
 ignitron
 ignobilities
@@ -56904,6 +56914,7 @@ incorruptibly
 incorruption
 incorruptions
 incorruptly
+incorruptness
 incorruptnesses
 increasable
 increased
@@ -61778,6 +61789,7 @@ kerchoo
 kerf
 kerfed
 kerfing
+kerflooey
 kerfs
 kerfuffles
 kermesses
@@ -62217,6 +62229,7 @@ kirned
 kirns
 kirs
 kirsch
+kirsches
 kirtle
 kis
 kishka
@@ -63399,6 +63412,7 @@ larum
 larums
 larva
 larvae
+larval
 larvas
 larvicidal
 larvicide
@@ -63654,6 +63668,7 @@ lavabo
 lavage
 lavages
 lavalava
+lavalavas
 lavalier
 lavaliere
 lavalieres
@@ -63886,6 +63901,7 @@ leariest
 learn
 learned
 learnedly
+learnedness
 learners
 learning
 learnings
@@ -65020,6 +65036,7 @@ lingonberry
 lingua
 lingually
 linguals
+linguica
 linguicas
 linguine
 linguini
@@ -65446,6 +65463,7 @@ lixivia
 lixivial
 lixiviate
 lixiviated
+lixiviates
 lixiviating
 lixiviation
 lixiviations
@@ -67766,6 +67784,7 @@ maraud
 marauders
 marauding
 marauds
+maravedi
 maravedis
 marbelize
 marbelized
@@ -69159,6 +69178,7 @@ mentee
 mentees
 menthene
 mentholated
+menthols
 mentionable
 mentioned
 mentioner
@@ -71032,6 +71052,7 @@ misdiagnoses
 misdiagnosis
 misdid
 misdirect
+misdirected
 misdirection
 misdirections
 misdirects
@@ -72377,6 +72398,7 @@ monopolizer
 monopolizers
 monopolizing
 monopropellant
+monopropellants
 monopsonies
 monopsonistic
 monopsony
@@ -72392,6 +72414,7 @@ monosaccharide
 monosaccharides
 monosome
 monosomic
+monospecific
 monostele
 monosteles
 monostelic
@@ -74948,6 +74971,7 @@ neritic
 nerol
 neroli
 nertz
+nervate
 nervations
 nervature
 nerve
@@ -80012,6 +80036,7 @@ outpoint
 outpointing
 outpoints
 outpolitick
+outpoliticked
 outpoliticking
 outpoliticks
 outpoll
@@ -90144,6 +90169,7 @@ premolar
 premold
 premolded
 premolding
+premolt
 premonish
 premonishes
 premonishing
@@ -96346,6 +96372,7 @@ reeker
 reekier
 reeking
 reel
+reelect
 reelecting
 reelection
 reelections
@@ -97915,6 +97942,7 @@ renigs
 renin
 renins
 renitence
+renitencies
 renitency
 renitent
 rennase
@@ -100834,6 +100862,7 @@ romaine
 romaines
 romajis
 roman
+romance
 romancers
 romances
 romancing
@@ -113646,6 +113675,7 @@ subduct
 subducted
 subducting
 subduction
+subductions
 subducts
 subdue
 subdued
@@ -119381,6 +119411,7 @@ tiering
 ties
 tiff
 tiffanies
+tiffing
 tiffining
 tiffins
 tiffs
@@ -124414,6 +124445,7 @@ undersized
 underskirt
 underskirts
 undersoil
+undersoils
 undersold
 undersongs
 underspin
@@ -127398,6 +127430,7 @@ variolated
 variolates
 variole
 varioles
+variolite
 variolites
 varioloid
 varioloids
@@ -128225,6 +128258,7 @@ vicinity
 vicious
 viciously
 viciousness
+viciousnesses
 vicissitudes
 vicissitudinous
 vicomte
@@ -133055,6 +133089,7 @@ zounds
 zowie
 zoysia
 zoysias
+zucchetto
 zucchini
 zucchinis
 zugzwang
