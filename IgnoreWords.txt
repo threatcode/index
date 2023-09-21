@@ -968,6 +968,7 @@ addressers
 addresses
 addressing
 addressors
+adduce
 adduced
 adducent
 adducer
@@ -6070,6 +6071,7 @@ arteriolar
 arteriovenous
 arteritis
 artful
+artfully
 artfulness
 artfulnesses
 arthralgia
@@ -7719,6 +7721,7 @@ azotises
 azotize
 azotized
 azotizes
+azotizing
 azotobacters
 azoturia
 azoturias
@@ -14743,6 +14746,7 @@ burgomasters
 burgonets
 burgoos
 burgout
+burgouts
 burgrave
 burgundies
 burgundy
@@ -17994,6 +17998,7 @@ cesspools
 cestas
 cesti
 cestodes
+cestoi
 cestoid
 cestos
 cestus
@@ -18658,6 +18663,7 @@ cheerless
 cheerlessness
 cheerly
 cheeros
+cheers
 cheese
 cheeseburgers
 cheesecake
@@ -36674,6 +36680,7 @@ embrutes
 embryo
 embryogeneses
 embryogenesis
+embryogenies
 embryoid
 embryological
 embryologically
@@ -48232,6 +48239,7 @@ glove
 gloved
 glover
 glovers
+glowed
 glowered
 glowering
 glowers
@@ -48858,6 +48866,7 @@ gourmandizes
 gourmandizing
 gourmet
 gourmets
+gout
 goutier
 goutily
 goutiness
@@ -50040,6 +50049,7 @@ guest
 guested
 guesting
 guests
+guffaw
 guffaws
 guffs
 guggle
@@ -56789,6 +56799,7 @@ incising
 incisions
 incisive
 incisivenesses
+incisor
 incisors
 incisory
 incisure
@@ -58414,6 +58425,7 @@ instillations
 instiller
 instillers
 instilling
+instillment
 instillments
 instills
 instils
@@ -59447,6 +59459,7 @@ intuitionists
 intuitions
 intuitively
 intuitivenesses
+intuits
 intumesce
 intumesced
 intumescence
@@ -64474,6 +64487,7 @@ levants
 levatores
 levators
 levee
+leveeing
 leveled
 leveler
 levelheaded
@@ -64623,6 +64637,7 @@ liberate
 liberated
 liberating
 liberation
+liberationist
 liberationists
 libertarian
 libertarianism
@@ -65648,6 +65663,7 @@ localize
 localized
 localizer
 localizers
+localizes
 localizing
 locally
 locals
@@ -66763,6 +66779,7 @@ maars
 mabes
 mac
 macabre
+macabrely
 macacos
 macadamia
 macadamias
@@ -77129,6 +77146,7 @@ notifiable
 notifier
 notifiers
 notifies
+notify
 notifying
 noting
 notion
@@ -82139,6 +82157,7 @@ padding
 paddleball
 paddleballs
 paddleboard
+paddleboat
 paddlefish
 paddlefishes
 paddler
@@ -89594,6 +89613,7 @@ preavers
 prebade
 prebake
 prebaking
+prebasal
 prebattle
 prebend
 prebendaries
@@ -90367,6 +90387,7 @@ prepped
 preppier
 preppies
 preppiest
+prepping
 preppy
 preprandial
 prepreg
@@ -91416,6 +91437,7 @@ progestogenic
 progestogens
 progged
 progger
+proggers
 progging
 proglottid
 prognathism
@@ -92827,6 +92849,7 @@ punishments
 punition
 punitions
 punitive
+punitively
 punitiveness
 punji
 punjis
@@ -95101,6 +95124,7 @@ realignments
 realigns
 realise
 realised
+realisers
 realises
 realising
 realisms
@@ -103097,6 +103121,7 @@ scaffolds
 scag
 scagliolas
 scalable
+scalades
 scalados
 scalage
 scalages
@@ -104277,6 +104302,7 @@ seams
 seamster
 seamsters
 seamstress
+seamy
 seances
 seapiece
 seapieces
@@ -105749,6 +105775,7 @@ shakiness
 shakinesses
 shaking
 shako
+shakos
 shaky
 shaled
 shales
@@ -111297,6 +111324,7 @@ spuriousness
 spurned
 spurner
 spurners
+spurning
 spurns
 spurred
 spurrer
@@ -114249,6 +114277,7 @@ substantivizing
 substate
 substates
 substation
+substitutable
 substitute
 substituted
 substitutes
@@ -116183,6 +116212,7 @@ sykes
 syli
 sylis
 syllabaries
+syllabary
 syllabi
 syllabic
 syllabically
@@ -122286,6 +122316,7 @@ trouveres
 trouveur
 trouveurs
 trove
+trover
 trowed
 trowel
 troweler
@@ -125898,6 +125929,7 @@ unripest
 unripped
 unripping
 unrivaled
+unrivalled
 unroasted
 unrobe
 unrobed
@@ -130426,6 +130458,7 @@ weltings
 weltschmerz
 wen
 wench
+wencher
 wenches
 wend
 wended
@@ -131099,6 +131132,7 @@ wilded
 wilder
 wildered
 wildering
+wilderment
 wilderments
 wilderness
 wildernesses
@@ -132577,6 +132611,7 @@ yerked
 yerks
 yes
 yeses
+yeshiva
 yeshivahs
 yeshivas
 yeshivot
