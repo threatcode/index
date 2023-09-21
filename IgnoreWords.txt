@@ -964,6 +964,7 @@ address
 addressable
 addressed
 addressee
+addresser
 addressers
 addresses
 addressing
@@ -5850,6 +5851,7 @@ arista
 aristae
 aristate
 aristo
+aristocracies
 aristocracy
 aristocrat
 aristocratic
@@ -6999,6 +7001,7 @@ atween
 atwitter
 atypical
 atypicalities
+atypicality
 atypically
 aubade
 aubades
@@ -10270,6 +10273,7 @@ beshivering
 beshivers
 beshouted
 beshouts
+beshrew
 beshrewed
 beshrewing
 beshrews
@@ -13320,6 +13324,7 @@ braggier
 braggiest
 bragging
 braggy
+brags
 brahma
 brahmas
 braided
@@ -13750,6 +13755,7 @@ bridges
 bridging
 bridgings
 bridle
+bridled
 bridler
 bridles
 bridling
@@ -14115,6 +14121,7 @@ browless
 browned
 browner
 brownest
+brownfield
 brownfields
 brownie
 brownier
@@ -14157,6 +14164,7 @@ bruisers
 bruising
 bruit
 bruited
+bruiter
 bruiters
 bruiting
 bruits
@@ -15793,6 +15801,7 @@ camerae
 cameramen
 camerapersons
 cameras
+camerawoman
 camerawomen
 camerlengo
 camerlengos
@@ -24299,6 +24308,7 @@ coplotted
 copolymer
 copolymeric
 copolymerize
+copolymerizes
 copolymers
 copout
 copouts
@@ -26641,6 +26651,7 @@ cryostatic
 cryostats
 cryosurgeon
 cryosurgeons
+cryosurgeries
 cryosurgery
 cryosurgical
 cryotherapies
@@ -28200,6 +28211,7 @@ dayflower
 dayflowers
 dayfly
 dayglow
+dayglows
 daylight
 daylighted
 daylighting
@@ -34728,6 +34740,7 @@ dropout
 dropouts
 droppable
 dropper
+dropperful
 dropperfuls
 droppers
 droppersful
@@ -38639,6 +38652,7 @@ erepsins
 erethic
 erethism
 erethitic
+erewhile
 erg
 ergastoplasm
 ergastoplasms
@@ -40448,6 +40462,7 @@ exsertion
 exsiccated
 exsiccates
 exsiccation
+exsiccations
 exsolution
 exstrophies
 exstrophy
@@ -41220,6 +41235,7 @@ fangas
 fanged
 fangless
 fanglike
+fanjet
 fanlight
 fanlights
 fanlike
@@ -41704,6 +41720,7 @@ federate
 federated
 federates
 federating
+federation
 federative
 federatively
 federator
@@ -51281,6 +51298,7 @@ hapless
 haplessly
 haplessnesses
 haplite
+haplites
 haploid
 haploidic
 haploids
@@ -53241,6 +53259,7 @@ histolysis
 histone
 histopathology
 histoplasmosis
+historian
 historic
 historical
 historically
@@ -58864,6 +58883,7 @@ interdiffuses
 interdiffusing
 interdiffusion
 interdigitate
+interdigitated
 interdigitates
 interdigitating
 interdigitation
@@ -65158,6 +65178,7 @@ lin
 linable
 linacs
 linage
+linages
 linalol
 linalols
 linalools
@@ -65538,6 +65559,7 @@ lithological
 lithologically
 lithologies
 lithology
+lithophane
 lithophanes
 lithophytes
 lithopone
@@ -69134,6 +69156,7 @@ melanocyte
 melanocytes
 melanogeneses
 melanoid
+melanoids
 melanoma
 melanomas
 melanomata
@@ -90240,6 +90263,7 @@ preformations
 preformats
 preformatted
 preformatting
+preformed
 preforming
 preforms
 preformulated
@@ -90562,6 +90586,7 @@ prepped
 preppier
 preppies
 preppiest
+preppinesses
 prepping
 preppy
 preprandial
@@ -93602,6 +93627,7 @@ quacksalver
 quacksalvers
 quacky
 quad
+quadded
 quadding
 quadplex
 quadplexes
@@ -97928,6 +97954,7 @@ relucting
 relucts
 relume
 relumes
+relumine
 relumined
 relumines
 reluming
@@ -100910,6 +100937,7 @@ ritualize
 ritualized
 ritualizing
 ritually
+rituals
 ritzes
 ritzier
 ritziest
@@ -106115,6 +106143,7 @@ shareabilities
 shareability
 shareable
 sharecropper
+sharecropping
 sharecrops
 shareholder
 shareholders
@@ -110221,6 +110250,7 @@ sousaphones
 souse
 soused
 sousliks
+soutache
 soutanes
 souters
 south
@@ -110869,6 +110899,7 @@ spiffies
 spiffiest
 spiffily
 spiffiness
+spiffinesses
 spiffing
 spiffs
 spiffy
@@ -113579,6 +113610,7 @@ stroying
 stroys
 struck
 strucken
+structural
 structuralism
 structuralisms
 structuralist
@@ -114840,6 +114872,7 @@ suffusive
 sugar
 sugarberries
 sugarbush
+sugarbushes
 sugarcane
 sugarcanes
 sugarcoat
@@ -122616,6 +122649,7 @@ truckline
 trucklines
 truckload
 truckman
+truckmaster
 truckmasters
 truckmen
 trucks
@@ -130898,6 +130932,7 @@ wheeping
 wheeple
 wheepled
 wheeples
+wheepling
 wheeps
 wheezed
 wheezer
