@@ -1545,6 +1545,7 @@ affectation
 affectations
 affected
 affectedness
+affectednesses
 affecter
 affecters
 affecting
@@ -4333,6 +4334,7 @@ antibiosis
 antibiotic
 antibiotically
 antibiotics
+antiblack
 antiblackism
 antiblackisms
 antibodies
@@ -5686,6 +5688,7 @@ archival
 archive
 archived
 archiving
+archivist
 archivists
 archivolt
 archly
@@ -8129,6 +8132,7 @@ bahts
 bahuvrihis
 baidarkas
 bail
+bailable
 bailed
 bailee
 bailees
@@ -9963,6 +9967,7 @@ belugas
 belying
 bema
 bemadam
+bemadamed
 bemadams
 bemadden
 bemaddened
@@ -14973,6 +14978,7 @@ butchered
 butcherers
 butcheries
 butchering
+butcherly
 butchers
 butchery
 butches
@@ -25703,6 +25709,7 @@ craniometries
 craniometry
 craniosacral
 craniotomy
+cranium
 craniums
 crank
 crankcase
@@ -31733,6 +31740,7 @@ dimmer
 dimmers
 dimness
 dimnesses
+dimorph
 dimorphic
 dimouts
 dimple
@@ -33274,6 +33282,7 @@ ditchdigger
 ditchdiggers
 ditched
 ditchers
+ditches
 ditching
 dite
 ditheism
@@ -40106,6 +40115,7 @@ expansible
 expansion
 expansional
 expansionism
+expansionisms
 expansionist
 expansionists
 expansions
@@ -48434,6 +48444,7 @@ gnathal
 gnathic
 gnathions
 gnathite
+gnathonic
 gnatlike
 gnats
 gnattier
@@ -48944,6 +48955,7 @@ gox
 goy
 goyim
 goyish
+graal
 graals
 grabbable
 grabbed
@@ -51413,6 +51425,7 @@ harmoniums
 harmonizations
 harmonize
 harmonized
+harmonizes
 harmonizing
 harmony
 harness
@@ -54815,6 +54828,7 @@ hydrometeors
 hydrometer
 hydrometric
 hydromorphic
+hydronic
 hydropath
 hydropathies
 hydropaths
@@ -67189,6 +67203,7 @@ maiasaurs
 maiden
 maidenhair
 maidenheads
+maidenhood
 maidenliness
 maidenly
 maidens
@@ -68714,6 +68729,7 @@ meanness
 meannesses
 meant
 meantime
+meanwhile
 meany
 measle
 measled
@@ -71490,6 +71506,7 @@ misordering
 misorient
 misorientation
 misoriented
+mispackaged
 mispackages
 mispackaging
 mispaged
@@ -75947,6 +75964,7 @@ nonadult
 nonadults
 nonaffiliated
 nonaffluent
+nonagenarian
 nonages
 nonaggression
 nonaggressions
@@ -80935,6 +80953,7 @@ overcounting
 overcoy
 overcram
 overcrammed
+overcrams
 overcredulous
 overcritical
 overcrop
@@ -88751,6 +88770,7 @@ poos
 pop
 popcorn
 popcorns
+pope
 popedom
 popedoms
 popeless
@@ -91139,6 +91159,7 @@ printed
 printer
 printeries
 printery
+printheads
 printing
 printless
 printmaker
@@ -93798,6 +93819,7 @@ quenches
 quenching
 quenchless
 quenelle
+quenelles
 quercetin
 quercetins
 quercitrons
@@ -102903,6 +102925,7 @@ sasses
 sassier
 sassies
 sassiest
+sassily
 sassinesses
 sassy
 sassywood
@@ -103177,6 +103200,7 @@ sayyid
 sayyids
 scab
 scabbarded
+scabbards
 scabbier
 scabbiest
 scabbily
@@ -103439,6 +103463,7 @@ scenas
 scend
 scended
 scending
+scends
 scene
 scenery
 scenes
@@ -112920,6 +112945,7 @@ storeships
 storewide
 storey
 storeys
+stories
 stork
 storks
 storksbills
@@ -113282,6 +113308,7 @@ stridor
 stridors
 stridulate
 stridulated
+stridulates
 stridulating
 stridulation
 stridulations
@@ -114801,6 +114828,7 @@ sulfurating
 sulfured
 sulfuret
 sulfureted
+sulfureting
 sulfuretted
 sulfuretting
 sulfuring
@@ -116800,6 +116828,7 @@ tachistoscopic
 tachists
 tachometer
 tachometers
+tachs
 tachyarrhythmia
 tachycardias
 tachylites
@@ -120015,6 +120044,7 @@ tittuping
 tittupped
 tittuppy
 titty
+titubant
 titular
 titularies
 titularly
@@ -120448,6 +120478,7 @@ toping
 topis
 topkick
 topkicks
+topknot
 topknots
 toplessness
 toplessnesses
@@ -122579,6 +122610,7 @@ trypanosome
 trypanosomes
 trypanosomiases
 trypanosomiasis
+trypsinogen
 trypsinogens
 trypsins
 tryptamine
@@ -125756,6 +125788,7 @@ unpalatability
 unpalatable
 unparalleled
 unpardonable
+unparliamentary
 unparted
 unpassable
 unpasteurized
@@ -130075,6 +130108,7 @@ waterhens
 waterier
 wateriest
 waterily
+wateriness
 waterinesses
 waterings
 waterish
@@ -131052,6 +131086,7 @@ whoopla
 whooplas
 whoops
 whoosh
+whooshed
 whooshes
 whooshing
 whoosis
