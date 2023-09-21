@@ -3165,6 +3165,8 @@ amendatory
 amended
 amender
 amendment
+amendments
+amends
 amenities
 amenorrhea
 amenorrheic
@@ -4055,6 +4057,7 @@ annotate
 annotates
 annotation
 annotative
+annotator
 annotators
 announcements
 announcer
@@ -5501,6 +5504,7 @@ arabizing
 arable
 arables
 araceous
+aragonite
 aragonites
 aragonitic
 arak
@@ -5974,6 +5978,7 @@ arrayed
 arrayers
 arrays
 arrear
+arrearage
 arrearages
 arrears
 arrest
@@ -9105,6 +9110,7 @@ bauxite
 bauxites
 bauxitic
 bawbee
+bawbees
 bawcock
 bawcocks
 bawd
@@ -11233,6 +11239,7 @@ birdwatch
 birdwatching
 birefringences
 birefringent
+bireme
 biremes
 biretta
 biriani
@@ -11494,6 +11501,7 @@ blacksmith
 blacksmithing
 blacksmithings
 blacksmiths
+blacksnake
 blacksnakes
 blacktail
 blacktails
@@ -11947,6 +11955,7 @@ blotching
 blotchy
 blotless
 blotted
+blotter
 blotters
 blottier
 blotting
@@ -18911,6 +18920,7 @@ chignons
 chigoe
 chigoes
 chilblain
+child
 childbearings
 childbed
 childbirths
@@ -25623,6 +25633,7 @@ craggier
 craggily
 cragginess
 craggy
+cragsman
 cragsmen
 crake
 cram
@@ -31676,6 +31687,7 @@ dimetric
 dimidiate
 dimidiating
 diminish
+diminishable
 diminished
 diminishing
 diminuendo
@@ -33287,6 +33299,7 @@ divebomb
 divebombed
 divebombing
 divebombs
+dived
 diver
 diverged
 divergence
@@ -33432,6 +33445,7 @@ dobie
 dobies
 dobla
 doblas
+doblon
 doblones
 doblons
 dobras
@@ -38791,6 +38805,7 @@ esophagus
 esoteric
 esotericism
 esotericisms
+esotropia
 espadrilles
 espalier
 espaliered
@@ -39102,6 +39117,7 @@ etuis
 etwee
 etwees
 etyma
+etymological
 etymologise
 etymologised
 etymologises
@@ -45602,6 +45618,7 @@ fugally
 fugato
 fugatos
 fuggier
+fuggiest
 fuggily
 fugging
 fugio
@@ -48864,6 +48881,7 @@ governmentese
 governmenteses
 governments
 governor
+governorate
 governorates
 governors
 governorship
@@ -52217,6 +52235,7 @@ hematoid
 hematologic
 hematologist
 hematology
+hematoma
 hematomas
 hematomata
 hematophagous
@@ -56262,6 +56281,7 @@ impleaded
 impleader
 impleading
 impleads
+impled
 impledge
 impledged
 impledging
@@ -66299,6 +66319,7 @@ lucrative
 lucratively
 lucrativeness
 lucrativenesses
+lucre
 lucubrate
 lucubrated
 lucubrates
@@ -71298,6 +71319,7 @@ misknown
 misknows
 mislabel
 mislabeling
+mislabelled
 mislabelling
 mislabels
 mislabor
@@ -71698,6 +71720,7 @@ mists
 mistune
 mistuned
 mistunes
+mistuning
 mistutor
 mistutors
 misty
@@ -77963,6 +77986,7 @@ octants
 octapeptide
 octarchies
 octavo
+octavos
 octennial
 octets
 octette
@@ -79275,6 +79299,7 @@ oscule
 oscules
 osculum
 ose
+oses
 osetra
 osier
 osiered
@@ -80579,6 +80604,7 @@ ovarian
 ovariectomies
 ovariectomized
 ovariectomy
+ovaries
 ovariole
 ovarioles
 ovariotomies
@@ -83738,6 +83764,7 @@ patronymics
 patroons
 pats
 patsies
+patsy
 pattamar
 patted
 pattee
@@ -86333,6 +86360,7 @@ picogram
 picolin
 picoline
 picometer
+picometres
 picomole
 picomoles
 picornavirus
@@ -87125,6 +87153,7 @@ placentation
 placentations
 placers
 places
+placets
 placid
 placidness
 placidnesses
@@ -95831,6 +95860,7 @@ reconstitutions
 reconstruct
 reconstructed
 reconstructible
+reconstruction
 reconstructive
 reconstructor
 reconstructors
@@ -98550,6 +98580,7 @@ repump
 repumped
 repumps
 repunctuation
+repurchase
 repurchased
 repurchases
 repurify
@@ -105981,6 +106012,7 @@ sheepherder
 sheepherding
 sheepherdings
 sheepish
+sheepishly
 sheepishnesses
 sheepmen
 sheepshank
@@ -106617,6 +106649,7 @@ shredders
 shredding
 shreds
 shrew
+shrewd
 shrewder
 shrewdie
 shrewdly
@@ -121242,6 +121275,7 @@ transuded
 transudes
 transuding
 transuranic
+transuranics
 transuranium
 transvaluated
 transvaluating
@@ -128405,6 +128439,7 @@ viewed
 viewer
 viewers
 viewership
+viewerships
 viewfinders
 viewiest
 viewing
