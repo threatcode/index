@@ -5142,6 +5142,7 @@ apophony
 apophthegm
 apophthegms
 apophyllite
+apophyseal
 apophyses
 apophysis
 apoplectically
@@ -8345,6 +8346,7 @@ ballpark
 ballparks
 ballplayer
 ballpoint
+ballpoints
 balls
 ballsiest
 ballsy
@@ -10653,6 +10655,7 @@ bibliotist
 biblist
 biblists
 bibulous
+bibulously
 bibulousness
 bibulousnesses
 bicameralism
@@ -17305,6 +17308,7 @@ catastrophes
 catastrophic
 catastrophism
 catastrophisms
+catastrophist
 catastrophists
 catatonia
 catatonic
@@ -17438,6 +17442,7 @@ catholically
 catholicate
 catholicates
 catholicity
+catholicize
 catholicized
 catholicizing
 catholicoi
@@ -21935,6 +21940,7 @@ collimates
 collimating
 collimations
 collimators
+collinear
 collinearity
 collins
 collinsia
@@ -26250,6 +26256,7 @@ criminological
 criminologies
 criminologists
 criminy
+crimmer
 crimp
 crimped
 crimpers
@@ -29073,6 +29080,7 @@ deewan
 deewans
 def
 deface
+defaced
 defacements
 defacer
 defacers
@@ -31100,6 +31108,7 @@ devout
 devouter
 devoutest
 devoutnesses
+devs
 dew
 dewan
 dewans
@@ -31210,6 +31219,7 @@ diabolizes
 diabolizing
 diabolo
 diabolos
+diacetyl
 diacetyls
 diachronically
 diachrony
@@ -38781,6 +38791,7 @@ erepsin
 erepsins
 erethic
 erethism
+erethisms
 erethitic
 erewhile
 erg
@@ -42269,6 +42280,7 @@ fetidly
 fetidness
 fetidnesses
 fetish
+fetishes
 fetishisms
 fetishist
 fetishistic
@@ -44168,6 +44180,7 @@ foetus
 foetuses
 fog
 fogbound
+fogbows
 fogdog
 fogdogs
 fogey
@@ -51751,6 +51764,7 @@ hasenpfeffers
 hashed
 hasheeshes
 hashes
+hashhead
 hashheads
 hashing
 hashish
@@ -57219,6 +57233,7 @@ incomputable
 incomputably
 inconceivable
 inconceivably
+inconcinnity
 inconclusive
 inconclusively
 incondite
@@ -60601,6 +60616,7 @@ isthmoid
 isthmus
 isthmuses
 istle
+it
 italianated
 italianates
 italianised
@@ -62260,6 +62276,7 @@ kexes
 keyboard
 keyboarded
 keyboarders
+keyboarding
 keyboardists
 keyboards
 keybutton
@@ -65059,6 +65076,7 @@ lichened
 lichenin
 lichening
 lichenins
+lichenological
 lichenologies
 lichenologist
 lichenology
@@ -66423,6 +66441,7 @@ lopsidedness
 lopsidednesses
 lopstick
 lopsticks
+loquacious
 loquaciously
 loquaciousness
 loquat
@@ -68791,6 +68810,7 @@ matriarchates
 matriarchs
 matriarchy
 matrices
+matricide
 matricides
 matriculant
 matriculants
@@ -68835,6 +68855,7 @@ mattocks
 mattoid
 mattoids
 mattrass
+mattrasses
 mattress
 mattresses
 matts
@@ -68968,6 +68989,7 @@ mayoral
 mayoralties
 mayoralty
 mayoress
+mayoresses
 mayors
 mayorship
 mayorships
@@ -79883,6 +79905,7 @@ ostrichlike
 otalgia
 otalgias
 otalgic
+otalgies
 otalgy
 other
 otherguess
@@ -85203,6 +85226,7 @@ perdy
 perea
 peregrin
 peregrinate
+peregrinates
 peregrinating
 peregrination
 peregrine
@@ -85260,6 +85284,7 @@ perforating
 perforation
 perforations
 perforator
+perforators
 perform
 performability
 performance
@@ -87542,6 +87567,7 @@ pitchy
 piteous
 piteously
 piteousness
+pitfall
 pithead
 pithecanthropi
 pithecoid
@@ -99374,6 +99400,7 @@ resecuring
 reseda
 resee
 reseed
+reseeding
 reseeking
 reseeks
 reseen
@@ -103129,6 +103156,7 @@ sandy
 sane
 saned
 sanely
+saneness
 sanenesses
 sanes
 sanest
@@ -103858,6 +103886,7 @@ scareder
 scareheads
 scaremonger
 scaremongers
+scarers
 scarey
 scarf
 scarfed
@@ -110208,6 +110237,7 @@ solvolyses
 solvolysis
 solvolytic
 som
+somans
 somas
 somata
 somatic
@@ -111970,6 +112000,7 @@ spurrer
 spurrers
 spurrey
 spurriers
+spurries
 spurry
 spurs
 spurt
@@ -114194,6 +114225,7 @@ stylise
 styliser
 stylises
 stylish
+stylishly
 stylising
 stylist
 stylistic
@@ -116156,6 +116188,7 @@ suppressants
 suppressible
 suppressing
 suppression
+suppressive
 suppressiveness
 suppressor
 suppressors
@@ -120249,6 +120282,7 @@ tightwad
 tightwads
 tightwire
 tightwires
+tiglons
 tigon
 tigons
 tigress
@@ -127647,6 +127681,7 @@ uranite
 uranographies
 uranologies
 uranology
+uranous
 uranylic
 uranyls
 urare
