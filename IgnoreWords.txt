@@ -313,6 +313,7 @@ acceptances
 acceptant
 acceptations
 accepted
+acceptee
 acceptees
 accepter
 accepting
@@ -10795,6 +10796,7 @@ biflex
 bifocaled
 bifocals
 bifoliate
+biforate
 biform
 biformed
 bifunctional
@@ -15570,6 +15572,7 @@ cajoleries
 cajolers
 cajoles
 cajones
+cajuput
 caked
 cakes
 cakewalked
@@ -19254,6 +19257,7 @@ chirality
 chirimoya
 chirimoyas
 chirked
+chirker
 chirkest
 chirm
 chirmed
@@ -19956,6 +19960,7 @@ cinchona
 cinchonas
 cinchonic
 cinchonine
+cinchonines
 cinchonisms
 cincture
 cinctured
@@ -20744,6 +20749,7 @@ cliticizes
 cliticizing
 clitics
 clitoral
+clitorectomies
 clitorectomy
 clitoridectomy
 clitoris
@@ -21047,6 +21053,7 @@ coadmitted
 coadmitting
 coadunate
 coaeval
+coaevals
 coagencies
 coagency
 coagent
@@ -22456,6 +22463,7 @@ commissioners
 commissioning
 commissions
 commissural
+commissure
 commissures
 commit
 commits
@@ -30137,6 +30145,7 @@ denote
 denoted
 denotement
 denotements
+denotes
 denotive
 denouement
 denouements
@@ -31970,6 +31979,7 @@ dimeric
 dimerism
 dimerization
 dimerizations
+dimerized
 dimerizes
 dimerizing
 dimers
@@ -36231,6 +36241,7 @@ effervescently
 effervesces
 effervescing
 effete
+effetely
 effetenesses
 efficaciousness
 efficacities
@@ -39136,6 +39147,7 @@ escorting
 escot
 escoted
 escoting
+escots
 escritoire
 escritoires
 escrow
@@ -41672,6 +41684,7 @@ fascicules
 fasciculus
 fasciitis
 fasciitises
+fascinatingly
 fascination
 fascinations
 fascinator
@@ -49488,6 +49501,7 @@ grandbabies
 grandchild
 grandchildren
 granddad
+granddaddies
 granddaddy
 granddads
 granddams
@@ -53654,6 +53668,7 @@ hoarder
 hoarders
 hoardings
 hoards
+hoarfrosts
 hoarier
 hoariest
 hoarily
@@ -54702,6 +54717,7 @@ housemasters
 housemate
 housemates
 housemen
+housemother
 housemothers
 housepainters
 houseparents
@@ -54772,6 +54788,7 @@ hoydenish
 hoydens
 hoyle
 hryvnas
+hryvnia
 hryvnias
 huarache
 huaraches
@@ -58217,6 +58234,7 @@ inflorescences
 inflows
 influence
 influenceable
+influenced
 influencing
 influent
 influentially
@@ -59870,6 +59888,7 @@ intransitivity
 intrant
 intraocular
 intraocularly
+intraperitoneal
 intrapersonal
 intrapopulation
 intrapreneur
@@ -72268,6 +72287,7 @@ misstates
 missteer
 missteered
 missteering
+missteers
 misstep
 misstepping
 misstop
@@ -73851,6 +73871,7 @@ mozzetta
 mozzettas
 mridanga
 mridangams
+mridangas
 mu
 much
 muchachos
@@ -75445,6 +75466,7 @@ needing
 needle
 needlefishes
 needlelike
+needlepoint
 needlepoints
 needlers
 needles
@@ -76295,6 +76317,7 @@ niteries
 niters
 nitery
 nites
+nitid
 nitinol
 nitinols
 nitons
@@ -77246,6 +77269,7 @@ nonobjective
 nonobjectivism
 nonobjectivisms
 nonobjectivist
+nonobjectivists
 nonobscene
 nonobservance
 nonobvious
@@ -80126,6 +80150,7 @@ ostracism
 ostracize
 ostracized
 ostracizing
+ostracod
 ostracode
 ostracoderm
 ostracoderms
@@ -85890,6 +85915,7 @@ personable
 personableness
 personae
 personage
+personages
 personal
 personalise
 personalised
@@ -98176,6 +98202,7 @@ reinflame
 reinflamed
 reinflames
 reinflaming
+reinflated
 reinflates
 reinflating
 reinflation
@@ -99041,6 +99068,7 @@ reoviruses
 reoxidation
 reoxidations
 reoxidize
+reoxidized
 reoxidizes
 rep
 repacified
@@ -104699,6 +104727,7 @@ scorepad
 scorepads
 scorer
 scores
+scoria
 scoriae
 scorifiers
 scorifies
@@ -108446,6 +108475,7 @@ sirras
 sirree
 sirrees
 sirs
+sirup
 siruped
 sirupier
 siruping
@@ -110475,6 +110505,7 @@ soliloquise
 soliloquised
 soliloquises
 soliloquising
+soliloquize
 soliloquized
 soliloquizer
 soliloquizers
@@ -116233,6 +116264,7 @@ supermen
 supermilitants
 supermind
 superminds
+supermini
 superminister
 superministers
 supermodel
@@ -119097,6 +119129,7 @@ tendered
 tenderer
 tenderest
 tenderfoot
+tenderheartedly
 tendering
 tenderization
 tenderizations
@@ -125588,6 +125621,7 @@ underlain
 underlap
 underlapped
 underlay
+underlayment
 underlayments
 underlays
 underlets
@@ -133522,6 +133556,7 @@ xerox
 xeroxing
 xeruses
 xi
+xiphisterna
 xiphisternum
 xiphoid
 xiphoids
