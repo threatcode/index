@@ -4512,6 +4512,7 @@ antigravities
 antigrowth
 antigun
 antihelices
+antihelix
 antihelixes
 antihero
 antiheroes
@@ -4879,6 +4880,7 @@ antonyms
 antonymy
 antra
 antre
+antres
 antrorse
 antrum
 ants
@@ -7081,6 +7083,7 @@ auditees
 audition
 auditioning
 auditions
+auditor
 auditoria
 auditories
 auditorily
@@ -12498,6 +12501,7 @@ bollixes
 bollixing
 bolloxed
 bolloxes
+bolloxing
 bolo
 bologna
 bolognas
@@ -12990,6 +12994,7 @@ botanizing
 botas
 botched
 botcher
+botcheries
 botchery
 botches
 botchier
@@ -17043,6 +17048,7 @@ carwash
 carwashes
 caryatic
 caryatides
+caryatids
 caryopses
 caryopsides
 caryotin
@@ -18342,6 +18348,7 @@ changeovers
 changer
 changers
 changeup
+changeups
 changing
 changs
 channel
@@ -19874,6 +19881,7 @@ ciliated
 ciliately
 ciliates
 ciliation
+ciliations
 ciliolate
 cilium
 cimbalom
@@ -22548,6 +22556,7 @@ compass
 compassable
 compasses
 compassion
+compassionate
 compassionated
 compassionates
 compassionating
@@ -33172,6 +33181,7 @@ dissension
 dissensions
 dissensus
 dissensuses
+dissent
 dissented
 dissentient
 dissentions
@@ -35153,6 +35163,7 @@ dulness
 dulse
 dulses
 duma
+dumb
 dumbbell
 dumbcane
 dumbcanes
@@ -37155,6 +37166,7 @@ enalapril
 enalaprils
 enamel
 enameled
+enameler
 enamelers
 enamelists
 enamelled
@@ -45483,6 +45495,7 @@ friarly
 friars
 friary
 fribble
+fribbled
 fribbler
 fribblers
 fribbles
@@ -52706,6 +52719,7 @@ henting
 hents
 hep
 heparin
+hepatectomies
 hepatectomy
 hepatic
 hepaticas
@@ -60987,6 +61001,7 @@ jeaned
 jeans
 jee
 jeed
+jeeped
 jeepers
 jeeping
 jeepneys
@@ -62129,6 +62144,7 @@ kench
 kenches
 kendos
 kennel
+kenneled
 kenneling
 kennelled
 kennelling
@@ -63346,6 +63362,7 @@ ladyfingers
 ladyfish
 ladyfishes
 ladyhood
+ladyhoods
 ladyish
 ladykin
 ladykins
@@ -75024,6 +75041,7 @@ navicerts
 naviculars
 navigabilities
 navigability
+navigable
 navigates
 navigating
 navigation
@@ -75824,6 +75842,7 @@ nicotine
 nicotinic
 nicotins
 nictate
+nictated
 nictates
 nictation
 nictations
@@ -92882,6 +92901,7 @@ psoatic
 psocid
 psoralea
 psoraleas
+psoralens
 psoriases
 psoriasis
 psoriatic
@@ -93387,6 +93407,7 @@ pupas
 pupate
 pupated
 pupates
+pupating
 pupation
 pupfish
 pupfishes
@@ -94226,6 +94247,7 @@ quenching
 quenchless
 quenelle
 quenelles
+quercetic
 quercetin
 quercetins
 quercitrons
@@ -98648,6 +98670,7 @@ reobjected
 reobjecting
 reobjects
 reobserve
+reobserves
 reobserving
 reobtained
 reobtaining
@@ -103682,6 +103705,7 @@ scaffoldings
 scaffolds
 scag
 scagliolas
+scags
 scalable
 scalades
 scalados
@@ -104361,6 +104385,7 @@ scornful
 scornfully
 scornfulness
 scornfulnesses
+scorning
 scorns
 scorpaenid
 scorpaenids
@@ -104890,6 +104915,7 @@ searchers
 searches
 searchingly
 searchlights
+searer
 searest
 searobin
 searobins
@@ -109245,6 +109271,7 @@ smirk
 smirked
 smirker
 smirkers
+smirkier
 smirkily
 smirking
 smirks
@@ -115023,6 +115050,7 @@ suburbanise
 suburbanised
 suburbanising
 suburbanites
+suburbanization
 suburbanize
 suburbanized
 suburbanizing
@@ -116734,6 +116762,7 @@ swishing
 swishingly
 swishy
 swiss
+swisses
 switchable
 switchbacked
 switchbacking
@@ -119193,6 +119222,7 @@ tetrodotoxin
 tetrodotoxins
 tetroxid
 tetroxide
+tetroxides
 tetryl
 tetryls
 tets
@@ -121786,6 +121816,7 @@ transferrer
 transferrers
 transferring
 transferrins
+transfers
 transfiguration
 transfiguring
 transfinite
@@ -125949,6 +125980,7 @@ unionisations
 unionise
 unionised
 unionises
+unionising
 unionism
 unionists
 unionizations
@@ -129286,6 +129318,7 @@ vinculums
 vindaloos
 vindicable
 vindicate
+vindicated
 vindicates
 vindicating
 vindication
@@ -129975,6 +130008,7 @@ vrouws
 vrow
 vug
 vuggier
+vuggiest
 vuggs
 vuggy
 vugh
@@ -131347,6 +131381,7 @@ wheezed
 wheezer
 wheezes
 wheezier
+wheeziest
 wheeziness
 wheezinesses
 wheezing
