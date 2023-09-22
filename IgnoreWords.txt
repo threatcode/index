@@ -6900,6 +6900,7 @@ attaching
 attachment
 attacked
 attacker
+attackers
 attackman
 attackmen
 attacks
@@ -7386,6 +7387,7 @@ autophytes
 autopilot
 autopilots
 autopolyploid
+autopolyploids
 autopolyploidy
 autopsic
 autopsied
@@ -10237,6 +10239,7 @@ beriberis
 berimbau
 berimed
 berimes
+beriming
 berk
 berkelium
 berks
@@ -13350,6 +13353,7 @@ braconid
 braconids
 bract
 bracteal
+bracteate
 bracted
 bracteoles
 bractless
@@ -19893,6 +19897,7 @@ ciliations
 ciliolate
 cilium
 cimbalom
+cimbaloms
 cinch
 cinched
 cinching
@@ -22772,6 +22777,7 @@ comprizing
 compromise
 compromised
 compromiser
+compromises
 compromising
 comps
 compted
@@ -33078,6 +33084,7 @@ disproves
 disproving
 disputable
 disputant
+disputants
 disputations
 disputatious
 disputatiously
@@ -35732,6 +35739,7 @@ eats
 eau
 eaux
 eaved
+eaves
 eavesdrop
 eavesdropped
 eavesdropper
@@ -37892,6 +37900,7 @@ ensanguines
 ensanguining
 ensconce
 ensconced
+ensconces
 ensconcing
 enscroll
 enscrolled
@@ -38679,6 +38688,7 @@ equilibrants
 equilibrate
 equilibrated
 equilibrating
+equilibration
 equilibrations
 equilibrator
 equilibrators
@@ -44502,6 +44512,7 @@ forbearers
 forbearing
 forbears
 forbid
+forbidal
 forbidals
 forbiddance
 forbidden
@@ -45375,6 +45386,7 @@ freelanced
 freelancer
 freelancers
 freelances
+freelancing
 freeload
 freeloaded
 freeloader
@@ -46376,6 +46388,7 @@ gaddi
 gadflies
 gadfly
 gadget
+gadgeteer
 gadgeteers
 gadgetries
 gadgetry
@@ -51172,6 +51185,7 @@ hallway
 hallways
 halm
 halma
+halms
 halo
 halobiont
 halobionts
@@ -53438,6 +53452,7 @@ hissiest
 hissing
 hissy
 histamine
+histaminergic
 histamines
 histamins
 histidin
@@ -55994,6 +56009,7 @@ illative
 illatively
 illatives
 illaudably
+illegal
 illegalities
 illegality
 illegalization
@@ -59024,6 +59040,7 @@ interceptions
 interceptor
 interceptors
 intercession
+intercessions
 intercessor
 intercessors
 interchain
@@ -66565,6 +66582,7 @@ louping
 loups
 lour
 loured
+louring
 lours
 louse
 loused
@@ -69070,6 +69088,7 @@ mealybugs
 mealymouthed
 mean
 meander
+meandering
 meanders
 meaners
 meanest
@@ -82227,6 +82246,7 @@ overtop
 overtopped
 overtopping
 overtops
+overtraded
 overtrades
 overtrading
 overtrain
@@ -89139,6 +89159,7 @@ ponged
 pongee
 pongees
 pongid
+ponging
 pongs
 poniard
 poniarding
@@ -89885,6 +89906,7 @@ poussettes
 poussetting
 poussie
 poussies
+pout
 pouted
 pouter
 pouters
@@ -92546,6 +92568,7 @@ prostrating
 prostration
 prostrations
 prostyle
+prosy
 protagonist
 protamin
 protamines
@@ -105355,6 +105378,7 @@ seismicity
 seismism
 seismisms
 seismogram
+seismograms
 seismographic
 seismographies
 seismographs
@@ -106463,6 +106487,7 @@ shaman
 shamanic
 shamanism
 shamanistic
+shamans
 shamas
 shamble
 shambled
@@ -112223,6 +112248,7 @@ squirming
 squirms
 squirreled
 squirreling
+squirrelling
 squirrelly
 squirter
 squirters
@@ -118151,6 +118177,7 @@ tattletales
 tattling
 tattoo
 tattooed
+tattooer
 tattooers
 tattooing
 tattooist
@@ -118885,6 +118912,7 @@ tensor
 tensorial
 tensors
 tent
+tentacle
 tentacled
 tentacles
 tentages
@@ -120629,6 +120657,7 @@ titivating
 titivations
 titlark
 titlarks
+title
 titled
 titleholder
 titleholders
@@ -121453,6 +121482,7 @@ tovarish
 tow
 towable
 towage
+towages
 toward
 towardliness
 towardlinesses
@@ -123785,6 +123815,7 @@ twanky
 twas
 twasome
 twattle
+twattled
 twattles
 tweak
 tweakier
@@ -125352,6 +125383,7 @@ undersigns
 undersized
 underskirt
 underskirts
+underslung
 undersoil
 undersoils
 undersold
@@ -125702,6 +125734,7 @@ unfit
 unfitly
 unfitness
 unfitted
+unfitting
 unfix
 unfixed
 unfixes
@@ -130251,6 +130284,7 @@ waggled
 waggles
 waggliest
 waggling
+waggly
 waggon
 waggoner
 waggoners
@@ -133344,6 +133378,7 @@ yawn
 yawned
 yawner
 yawners
+yawning
 yawningly
 yawns
 yawp
