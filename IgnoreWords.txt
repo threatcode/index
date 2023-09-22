@@ -671,6 +671,7 @@ acnode
 acock
 acoelomate
 acoelomates
+acoelous
 acolyte
 acolytes
 aconite
@@ -793,6 +794,7 @@ acrylonitrile
 acrylonitriles
 act
 acta
+actabilities
 actability
 actable
 acted
@@ -837,6 +839,7 @@ activate
 activated
 activates
 activating
+active
 actively
 activeness
 activenesses
@@ -6247,6 +6250,7 @@ ascents
 ascertain
 ascertainable
 ascertainment
+ascertains
 asceses
 ascetic
 ascetical
@@ -7514,6 +7518,7 @@ aversenesses
 aversion
 aversions
 aversive
+aversively
 aversiveness
 aversives
 avertable
@@ -7527,6 +7532,7 @@ avgases
 avgolemono
 avianized
 avianizes
+avianizing
 aviaries
 aviarist
 aviarists
@@ -11626,6 +11632,7 @@ blader
 bladers
 blades
 blaeberries
+blaeberry
 blaff
 blagging
 blaggings
@@ -12624,6 +12631,7 @@ bonanzas
 bonbon
 bonbons
 bondable
+bondage
 bondages
 bonded
 bonder
@@ -20451,6 +20459,7 @@ clastic
 clastics
 clasts
 clathrate
+clatter
 clattered
 clatterer
 clatterers
@@ -21817,6 +21826,7 @@ cojoins
 cojones
 coked
 cokeheads
+cokelike
 coking
 coky
 col
@@ -23365,6 +23375,7 @@ conformance
 conformation
 conformational
 conformations
+conformed
 conformer
 conformers
 conformism
@@ -23958,6 +23969,7 @@ contemplators
 contemporaneity
 contemporaries
 contemporarily
+contemporize
 contemporized
 contemporizes
 contemporizing
@@ -24063,6 +24075,7 @@ contrabasses
 contrabassists
 contrabassoon
 contrabassoons
+contraception
 contraceptions
 contraceptive
 contract
@@ -28758,6 +28771,7 @@ decayers
 decaying
 decayless
 decays
+decease
 deceased
 deceases
 decedent
@@ -38682,6 +38696,7 @@ epitaxic
 epitaxy
 epithalamia
 epithalamion
+epithalamium
 epithalamiums
 epithelia
 epithelial
@@ -42493,6 +42508,7 @@ fevers
 feverweeds
 feverwort
 feverworts
+few
 fewer
 fewness
 fewnesses
@@ -44420,6 +44436,7 @@ folkway
 folkways
 folky
 folles
+follicle
 follicles
 follicular
 folliculitis
@@ -45798,6 +45815,7 @@ frocked
 frocking
 frocks
 froe
+froes
 frog
 frogeye
 frogeyed
@@ -49217,6 +49235,7 @@ gorgerin
 gorgerins
 gorgers
 gorges
+gorget
 gorgeted
 gorgets
 gorgon
@@ -50105,6 +50124,7 @@ grits
 gritted
 gritter
 gritters
+grittier
 grittiest
 grittily
 grittiness
@@ -52738,6 +52758,7 @@ hematuric
 hemelytra
 hemelytron
 hemelytrum
+hemerocallises
 hemerythrin
 hemerythrins
 hemiacetal
@@ -55282,6 +55303,7 @@ hydroperoxide
 hydroperoxides
 hydrophane
 hydrophilic
+hydrophobia
 hydrophobic
 hydrophobicity
 hydrophone
@@ -64807,6 +64829,7 @@ leishmanias
 leishmaniases
 leishmaniasis
 leistered
+leisters
 leisure
 leisured
 leisureliness
@@ -75096,6 +75119,7 @@ nardine
 nares
 nargileh
 nargilehs
+nargiles
 naric
 narine
 nark
@@ -77104,6 +77128,7 @@ noninformations
 noninfringement
 noninitiate
 noninitiates
+noninjury
 noninsect
 noninsecticidal
 noninstallment
@@ -80750,6 +80775,7 @@ outline
 outlined
 outliner
 outliners
+outlines
 outlining
 outlive
 outlived
@@ -83274,6 +83300,7 @@ palpus
 pals
 palsgrave
 palship
+palships
 palsied
 palsies
 palsy
@@ -91342,6 +91369,7 @@ preselecting
 preselection
 preselects
 presell
+preselling
 presence
 present
 presentable
@@ -101744,6 +101772,7 @@ robotism
 robotization
 robotizations
 robotize
+robotized
 robotries
 robotry
 robots
@@ -104017,6 +104046,7 @@ saxophonists
 saxtuba
 saxtubas
 say
+sayable
 sayed
 sayeds
 sayers
@@ -104518,6 +104548,7 @@ schoolrooms
 schools
 schoolteacher
 schoolteachers
+schooltime
 schooltimes
 schoolwork
 schoolworks
@@ -109340,6 +109371,7 @@ slogging
 slogs
 sloid
 slojd
+slojds
 sloop
 sloops
 slop
@@ -118691,6 +118723,7 @@ teasingly
 teaspoonful
 teaspoonfuls
 teaspoons
+teat
 teataster
 teatasters
 teatime
@@ -130493,6 +130526,7 @@ vulgarization
 vulgarizations
 vulgarize
 vulgarized
+vulgarizer
 vulgarizes
 vulgarly
 vulgars
@@ -131672,6 +131706,7 @@ werewolves
 wergelds
 wergelts
 wergild
+wergilds
 wernerites
 wert
 weskit
