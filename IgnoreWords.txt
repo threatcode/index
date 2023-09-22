@@ -2384,6 +2384,7 @@ alertnesses
 alerts
 ales
 aleuron
+aleurone
 aleuronic
 aleurons
 alevin
@@ -7738,6 +7739,7 @@ axolotl
 axolotls
 axonal
 axonemal
+axoneme
 axonemes
 axones
 axons
@@ -7973,6 +7975,7 @@ backhanders
 backhands
 backhaul
 backhauled
+backhauling
 backhauls
 backhoeing
 backhoes
@@ -8764,6 +8767,7 @@ barkless
 barks
 barky
 barleduc
+barleducs
 barleycorns
 barleys
 barlow
@@ -12805,6 +12809,7 @@ bookmarker
 bookmarkers
 bookmarking
 bookmarks
+bookmen
 bookmobiles
 bookoo
 bookoos
@@ -19750,6 +19755,7 @@ chronographies
 chronologer
 chronologers
 chronologic
+chronological
 chronologically
 chronologies
 chronologist
@@ -21561,6 +21567,7 @@ coenamor
 coenamored
 coenamors
 coendure
+coendured
 coenduring
 coenobite
 coenocyte
@@ -23121,6 +23128,7 @@ concordances
 concordant
 concordantly
 concordats
+concords
 concours
 concourse
 concourses
@@ -27414,6 +27422,7 @@ curtains
 curtalax
 curtalaxes
 curtals
+curtate
 curter
 curtesies
 curtest
@@ -35310,6 +35319,7 @@ duit
 duits
 duke
 duked
+dukedom
 dukedoms
 dulcet
 dulcetly
@@ -36715,6 +36725,7 @@ elevon
 elevons
 elf
 elfin
+elfins
 elfish
 elflike
 elflock
@@ -48535,6 +48546,7 @@ glenoid
 glens
 gley
 gleyed
+gleying
 gleyings
 gleys
 glia
@@ -49960,6 +49972,7 @@ greenlights
 greenlit
 greenly
 greenmail
+greenmailed
 greenmailer
 greenmailers
 greenmails
@@ -56675,6 +56688,7 @@ impalement
 impalements
 impales
 impaling
+impalpabilities
 impalpability
 impalpable
 impalpably
@@ -58571,6 +58585,7 @@ initially
 initialness
 initialnesses
 initials
+initiate
 initiated
 initiating
 initiative
@@ -66765,6 +66780,7 @@ lore
 loreal
 lores
 lorgnette
+lorgnettes
 lorgnon
 lorgnons
 lorica
@@ -68868,6 +68884,7 @@ masculinised
 masculinises
 masculinising
 masculinist
+masculinists
 masculinities
 masculinity
 masculinize
@@ -72324,6 +72341,7 @@ misshod
 missies
 missile
 missileman
+missileries
 missilery
 missilry
 missing
@@ -72988,6 +73006,7 @@ mongers
 mongo
 mongoe
 mongol
+mongolian
 mongolism
 mongoloid
 mongoloids
@@ -90188,6 +90207,7 @@ potshots
 potshotting
 potsie
 potsies
+potstone
 potstones
 potsy
 pottage
@@ -93909,6 +93929,7 @@ purflers
 purfles
 purfling
 purflings
+purgations
 purgative
 purgatives
 purgatorial
@@ -97078,6 +97099,7 @@ recycled
 recycler
 recycles
 recycling
+red
 redacted
 redacting
 redactions
@@ -99846,6 +99868,7 @@ reseeking
 reseeks
 reseen
 resees
+resegregate
 resegregated
 resegregating
 resegregation
@@ -99872,6 +99895,7 @@ resends
 resensitize
 resensitized
 resensitizes
+resensitizing
 resent
 resented
 resentence
@@ -100966,6 +100990,7 @@ revises
 revising
 revision
 revisionary
+revisionism
 revisionisms
 revisionist
 revisionists
@@ -106050,6 +106075,7 @@ semiologies
 semiologists
 semiology
 semiopaque
+semiopen
 semioses
 semiosis
 semiotic
@@ -108484,6 +108510,7 @@ sinfonias
 sinfonie
 sinfoniettas
 sinful
+sinfully
 sinfulness
 sinfulnesses
 singable
@@ -109560,6 +109587,7 @@ slubs
 sludge
 sludged
 sludges
+sludgier
 sludgiest
 sludging
 sludgy
@@ -110420,6 +110448,7 @@ sockeyes
 sockless
 sockman
 socko
+socks
 socle
 socles
 socman
@@ -111093,6 +111122,7 @@ soundable
 soundalike
 soundboard
 soundboards
+soundbox
 soundboxes
 sounded
 sounder
@@ -120597,6 +120627,7 @@ thump
 thumped
 thumpers
 thumps
+thunder
 thunderbird
 thunderbirds
 thunderbolts
@@ -125870,6 +125901,7 @@ underset
 undersets
 undersexed
 undershirt
+undershirted
 undershirts
 undershoot
 undershorts
@@ -130101,6 +130133,7 @@ visaing
 visard
 visas
 viscacha
+viscachas
 viscera
 viscerally
 viscid
@@ -131320,6 +131353,7 @@ waterer
 waterers
 waterfall
 waterfalls
+waterflood
 waterflooded
 waterflooding
 waterfloods
@@ -134417,6 +134451,7 @@ zillahs
 zillion
 zillions
 zillionth
+zills
 zin
 zinc
 zincate
