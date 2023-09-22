@@ -1157,6 +1157,7 @@ admitting
 admix
 admixed
 admixes
+admixing
 admixt
 admixture
 admixtures
@@ -3955,6 +3956,7 @@ anilinguses
 anilities
 anils
 anima
+animacies
 animacy
 animadvert
 animadverted
@@ -7404,6 +7406,7 @@ autopsying
 autoradiogram
 autoradiograms
 autoradiographs
+autoradiography
 autorotated
 autorotates
 autorotation
@@ -9487,6 +9490,7 @@ bedazzles
 bedazzling
 bedboard
 bedboards
+bedbug
 bedbugs
 bedchair
 bedchairs
@@ -13914,6 +13918,7 @@ briquet
 briquette
 briquetted
 briquettes
+briquetting
 brisances
 brises
 brisked
@@ -15277,6 +15282,7 @@ cabbage
 cabbages
 cabbageworms
 cabbaging
+cabbala
 cabbalahs
 cabbalas
 cabbalism
@@ -15615,6 +15621,7 @@ calcinosis
 calcite
 calcites
 calcitonin
+calcium
 calcspar
 calcspars
 calctufa
@@ -23880,6 +23887,7 @@ containments
 contains
 contaminant
 contaminants
+contaminate
 contaminated
 contaminates
 contaminating
@@ -24392,6 +24400,7 @@ copastor
 copastors
 copatron
 copay
+copayment
 copays
 cope
 copeck
@@ -28815,6 +28824,7 @@ deckhands
 deckhouse
 deckhouses
 decking
+deckings
 deckles
 decks
 declaim
@@ -29669,6 +29679,7 @@ delineations
 delineator
 delineators
 delinquencies
+delinquency
 delinquent
 delinquently
 delinquents
@@ -43853,6 +43864,7 @@ florilegium
 florins
 florist
 floristic
+floristically
 floristries
 florists
 floruits
@@ -53294,6 +53306,7 @@ highlighting
 highly
 highness
 highnesses
+highrises
 highroad
 highroads
 highspot
@@ -55700,6 +55713,7 @@ iambi
 iambic
 iambus
 iambuses
+iatric
 iatrical
 iatrogenic
 ibex
@@ -56813,6 +56827,7 @@ imprecisely
 impreciseness
 imprecision
 imprecisions
+impregn
 impregnability
 impregnable
 impregnableness
@@ -62021,6 +62036,7 @@ karma
 karmas
 karmic
 karn
+karoo
 kaross
 karosses
 karroo
@@ -62802,6 +62818,7 @@ klick
 klicks
 klik
 kliks
+klister
 klisters
 klondike
 klongs
@@ -64706,6 +64723,7 @@ lender
 lenders
 lending
 lends
+lenes
 length
 lengthen
 lengthened
@@ -67929,6 +67947,7 @@ mammering
 mammers
 mammet
 mammets
+mammey
 mammeys
 mammie
 mammies
@@ -75478,6 +75497,7 @@ neoplastic
 neoplasticism
 neoplasticisms
 neoplasticist
+neoplasticists
 neoplasties
 neoplasty
 neoprene
@@ -81717,6 +81737,7 @@ overhomogenize
 overhomogenizes
 overhonor
 overhonored
+overhonors
 overhoped
 overhopes
 overhot
@@ -82031,6 +82052,7 @@ overreport
 overreported
 overrepresented
 overrespond
+overresponding
 overridden
 override
 overrides
@@ -84378,6 +84400,7 @@ paunch
 paunched
 paunches
 paunchier
+paunchiest
 paunchiness
 paunchinesses
 paunchy
@@ -91601,6 +91624,7 @@ primatal
 primatals
 primates
 primateship
+primateships
 primatial
 primatologies
 primatology
@@ -92810,6 +92834,7 @@ provenience
 proventriculi
 proverb
 proverbed
+proverbing
 proverbs
 provers
 proves
@@ -99534,6 +99559,7 @@ resentence
 resentencing
 resentful
 resentfully
+resentive
 resentment
 resentments
 resents
@@ -112368,6 +112394,7 @@ stablishing
 stablishment
 stablishments
 stably
+stabs
 staccati
 staccato
 staccatos
@@ -112726,6 +112753,7 @@ statecrafts
 statedly
 statehood
 statehoods
+statehouse
 statehouses
 statelessness
 stateliest
@@ -114290,6 +114318,7 @@ stupendousness
 stupes
 stupid
 stupider
+stupidest
 stupidities
 stupidity
 stupidly
@@ -116981,6 +117010,7 @@ swordplayer
 swordplayers
 swordplays
 swordsmanship
+swordsmanships
 swordtails
 swore
 sworn
@@ -117239,6 +117269,7 @@ syncretic
 syncretise
 syncretised
 syncretises
+syncretising
 syncretism
 syncretist
 syncretistic
@@ -118188,9 +118219,11 @@ tasset
 tassets
 tassies
 tastable
+taste
 tasteable
 tasted
 tasteful
+tastefully
 tastefulness
 tastefulnesses
 tasteless
@@ -123731,6 +123764,7 @@ turnery
 turnhall
 turnhalls
 turning
+turnings
 turnips
 turnoff
 turnoffs
@@ -133178,6 +133212,7 @@ wussier
 wussiest
 wussy
 wuther
+wuthered
 wuthering
 wuthers
 wyandotte
