@@ -7105,6 +7105,7 @@ audiotaping
 audiovisuals
 auditable
 audited
+auditee
 auditees
 audition
 auditioning
@@ -9727,6 +9728,7 @@ befleas
 befleck
 beflecked
 beflecks
+beflowered
 beflowers
 befog
 befogging
@@ -11197,6 +11199,7 @@ biopirate
 bioplasm
 bioplasms
 biopolymers
+biopsied
 biopsy
 bioptic
 bioreactor
@@ -11523,6 +11526,7 @@ bizarrerie
 bizarreries
 bizarres
 bizarro
+bize
 bizes
 biznaga
 biznagas
@@ -13930,6 +13934,7 @@ brimstony
 brindle
 brindled
 brine
+brined
 brineless
 briner
 bringdown
@@ -16747,6 +16752,7 @@ carder
 carders
 cardholders
 cardia
+cardias
 cardigan
 cardigans
 cardinal
@@ -19494,6 +19500,7 @@ cholesterol
 cholesterols
 cholestyramine
 choline
+cholinergically
 cholines
 cholinesterase
 cholinesterases
@@ -27900,6 +27907,7 @@ dabbers
 dabble
 dabbled
 dabbler
+dabblers
 dabbles
 dabbling
 dabchick
@@ -30522,6 +30530,7 @@ deranges
 deranging
 derat
 derate
+derated
 derates
 derating
 derats
@@ -32909,6 +32918,7 @@ disinfect
 disinfected
 disinfecting
 disinfection
+disinfections
 disinfects
 disinfest
 disinfestant
@@ -35233,6 +35243,7 @@ ducting
 ductings
 ductless
 ductule
+ductules
 ductwork
 dud
 duddy
@@ -54800,6 +54811,7 @@ hovercraft
 hovercrafts
 hovered
 hoverer
+hoverers
 hoverfly
 hovering
 hovers
@@ -60675,6 +60687,7 @@ isocheims
 isochime
 isochimes
 isochor
+isochore
 isochores
 isochromosome
 isochromosomes
@@ -66826,6 +66839,7 @@ louses
 lousewort
 louseworts
 lousier
+lousiest
 lousily
 lousinesses
 lout
@@ -80562,6 +80576,7 @@ outdrawing
 outdrawn
 outdraws
 outdreaming
+outdreams
 outdreamt
 outdress
 outdressed
@@ -83883,6 +83898,7 @@ parashioth
 parashot
 parashoth
 parasites
+parasitical
 parasiticidal
 parasiticide
 parasiticides
@@ -87150,6 +87166,7 @@ picarooned
 picarooning
 picaroons
 picaros
+picas
 picayune
 picayunes
 picayunish
@@ -93485,6 +93502,7 @@ puces
 pucker
 puckered
 puckerer
+puckerers
 puckerier
 puckeriest
 puckering
@@ -94100,6 +94118,7 @@ putting
 putts
 putty
 puttying
+puttyless
 puttylike
 puttyroot
 puttyroots
@@ -95770,6 +95789,7 @@ rattails
 rattans
 ratteen
 ratten
+rattened
 rattener
 ratteners
 rattening
@@ -96535,6 +96555,7 @@ rechartered
 rechartering
 recharters
 recharts
+rechauffe
 rechauffes
 recheat
 recheats
@@ -97230,6 +97251,7 @@ redissolving
 redistill
 redistillations
 redistilled
+redistilling
 redistills
 redistributed
 redistributing
@@ -103224,6 +103246,7 @@ salesroom
 salesrooms
 saleswoman
 saleswomen
+salic
 salicin
 salicine
 salicines
@@ -103660,6 +103683,7 @@ sapanwoods
 saphead
 sapheaded
 sapheads
+saphena
 saphenae
 saphenas
 saphenous
@@ -109454,6 +109478,7 @@ sloth
 slothful
 slothfully
 slothfulness
+slothfulnesses
 sloths
 slots
 slotted
@@ -110242,6 +110267,7 @@ soakers
 soaks
 soapbark
 soapberries
+soapberry
 soapbox
 soapboxed
 soapboxing
@@ -110457,6 +110483,7 @@ soiling
 soilless
 soilures
 soiree
+soirees
 soja
 sojas
 sojourners
@@ -112673,6 +112700,7 @@ stabilised
 stabilises
 stabilising
 stabilities
+stability
 stabilization
 stabilizations
 stabilize
@@ -118646,6 +118674,7 @@ tawney
 tawneys
 tawnier
 tawnies
+tawniest
 tawnily
 tawniness
 tawninesses
@@ -119183,6 +119212,8 @@ tempter
 tempters
 tempting
 temptingly
+temptress
+temptresses
 tempts
 tempura
 tempuras
@@ -124823,6 +124854,7 @@ umlauts
 umm
 ump
 umping
+umpirage
 umpirages
 umpire
 umpired
@@ -128321,6 +128353,7 @@ urps
 ursa
 ursid
 ursids
+ursiform
 ursine
 urticant
 urticants
@@ -129906,6 +129939,7 @@ vintager
 vintagers
 vintners
 viny
+vinyl
 vinylic
 vinylidenes
 viol
@@ -132338,6 +132372,7 @@ widebodies
 widebody
 widely
 widen
+widened
 widener
 wideners
 wideness
