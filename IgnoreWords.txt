@@ -3486,6 +3486,7 @@ amylase
 amylases
 amylenes
 amylogen
+amylogens
 amyloid
 amyloidoses
 amyloidosis
@@ -3493,6 +3494,7 @@ amyloids
 amylolytic
 amylopectin
 amylopectins
+amyloplast
 amyloplasts
 amylose
 amyloses
@@ -3733,6 +3735,7 @@ ancientries
 ancillae
 ancillaries
 ancillary
+ancillas
 ancipital
 ancon
 anconal
@@ -14667,6 +14670,7 @@ bung
 bungalow
 bungalows
 bunged
+bungees
 bunghole
 bungholes
 bunging
@@ -23234,6 +23238,7 @@ confluxes
 confocal
 confocally
 conform
+conformably
 conformal
 conformance
 conformation
@@ -23662,6 +23667,7 @@ conspired
 conspirer
 conspirers
 conspiring
+constables
 constabularies
 constabulary
 constant
@@ -27412,6 +27418,7 @@ cuvette
 cuvettes
 cwms
 cyan
+cyanamid
 cyanamide
 cyanamides
 cyanamids
@@ -29322,6 +29329,7 @@ degases
 degassed
 degasser
 degassers
+degasses
 degassing
 degauss
 degaussed
@@ -32302,6 +32310,7 @@ discepting
 discepts
 discern
 discernable
+discerned
 discerner
 discernible
 discernibly
@@ -42251,6 +42260,7 @@ feudalizations
 feudalize
 feudalized
 feudalizes
+feudalizing
 feudally
 feudaries
 feudatories
@@ -42268,12 +42278,14 @@ feuilletons
 feuing
 feus
 fever
+fevered
 fevering
 feverish
 feverishly
 feverishness
 feverishnesses
 feverroot
+fevers
 feverweeds
 feverwort
 feverworts
@@ -47014,6 +47026,7 @@ gaudier
 gaudies
 gaudiest
 gaudily
+gaudiness
 gaudinesses
 gauds
 gaudy
@@ -50540,6 +50553,7 @@ guttated
 guttations
 gutter
 guttered
+gutterings
 gutters
 guttersnipes
 guttery
@@ -52699,6 +52713,7 @@ herbarium
 herbariums
 herbicidal
 herbicidally
+herbicide
 herbicides
 herbier
 herbiest
@@ -67239,6 +67254,7 @@ madman
 madmen
 madness
 madnesses
+madonna
 madonnas
 madrasahs
 madrasas
@@ -68910,6 +68926,7 @@ mazily
 maziness
 mazing
 mazourkas
+mazurka
 mazurkas
 mazy
 mazzard
@@ -72118,6 +72135,7 @@ mitomycins
 mitosis
 mitotic
 mitotically
+mitral
 mitred
 mitres
 mitrewort
@@ -83562,6 +83580,7 @@ pariahs
 parians
 paries
 parietal
+paring
 parings
 paris
 parises
@@ -83592,6 +83611,7 @@ parlays
 parle
 parled
 parles
+parley
 parleyed
 parleyer
 parleying
@@ -86168,6 +86188,7 @@ phonographer
 phonographers
 phonographic
 phonographies
+phonographs
 phonography
 phonolite
 phonolites
@@ -89147,6 +89168,7 @@ porcelains
 porcelaneous
 porcellaneous
 porches
+porcine
 porcini
 porcinis
 porcino
@@ -89194,6 +89216,7 @@ porpoises
 porpoising
 porrect
 porridges
+porridgy
 porringer
 porringers
 port
@@ -93477,6 +93500,7 @@ pursuits
 pursuivant
 pursuivants
 pursy
+purtenance
 purtenances
 purtiest
 purty
@@ -95021,6 +95045,7 @@ rankle
 rankled
 rankles
 ranpike
+ransack
 ransacked
 ransacking
 ransacks
@@ -100253,6 +100278,7 @@ reveling
 revelled
 reveller
 revellers
+revelling
 revelments
 revelrous
 revels
@@ -108129,6 +108155,7 @@ skeletonised
 skeletonises
 skeletonising
 skeletonize
+skeletonized
 skeletonizer
 skeletonizing
 skeletons
@@ -109168,6 +109195,7 @@ smokehouse
 smokehouses
 smokejack
 smokejacks
+smokeless
 smokelike
 smokepot
 smokepots
@@ -117845,6 +117873,7 @@ tarsia
 tarsometatarsi
 tarsometatarsus
 tarsus
+tartana
 tartanas
 tartar
 tartare
@@ -122648,6 +122677,7 @@ triumphantly
 triumphed
 triumphs
 triumvirates
+triumvirs
 triune
 triunes
 triunities
@@ -125589,6 +125619,7 @@ ungluing
 ungodlier
 ungodliest
 ungodliness
+ungodlinesses
 ungodly
 ungotten
 ungovernable
@@ -125997,6 +126028,7 @@ unlevels
 unlevied
 unliberated
 unlicensed
+unlighted
 unlikable
 unlikeliest
 unlikelihood
@@ -126269,6 +126301,7 @@ unpledged
 unpliable
 unpliant
 unplowed
+unplucked
 unplug
 unplugged
 unplugs
@@ -128116,6 +128149,7 @@ variegated
 variegates
 variegating
 variegation
+variegator
 variegators
 varier
 variers
@@ -129682,6 +129716,7 @@ volosts
 volplane
 volplaned
 volplanes
+volplaning
 volta
 voltage
 voltages
