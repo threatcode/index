@@ -950,6 +950,7 @@ adders
 addible
 addicting
 addiction
+addictions
 addictive
 adding
 addition
@@ -1303,6 +1304,7 @@ advent
 adventitia
 adventitial
 adventitias
+adventitious
 adventitiously
 adventive
 adventives
@@ -3627,6 +3629,7 @@ analytes
 analytic
 analytical
 analytically
+analyticities
 analytics
 analyzabilities
 analyzability
@@ -9565,6 +9568,7 @@ bedquilts
 bedraggle
 bedraggled
 bedraggling
+bedrail
 bedrails
 bedrench
 bedrenches
@@ -9574,6 +9578,7 @@ bedrivel
 bedriveled
 bedriveling
 bedrivelled
+bedrivelling
 bedrivels
 bedrock
 bedrocks
@@ -9973,6 +9978,7 @@ bellies
 belligerence
 belligerences
 belligerency
+belligerently
 belling
 bellmen
 bellow
@@ -14006,6 +14012,7 @@ broadsheet
 broadsheets
 broadside
 broadsided
+broadsiding
 broadsword
 broadswords
 broadtail
@@ -14081,6 +14088,7 @@ bromes
 bromid
 bromide
 brominated
+brominates
 bromination
 brominations
 bromine
@@ -18809,6 +18817,7 @@ cheerled
 cheerless
 cheerlessness
 cheerly
+cheero
 cheeros
 cheers
 cheery
@@ -20631,6 +20640,7 @@ cliffs
 cliffy
 clift
 clifts
+climacteric
 climactically
 climate
 climates
@@ -22911,6 +22921,7 @@ conceived
 conceivers
 conceives
 concelebrant
+concelebrants
 concelebrate
 concelebrates
 concelebrating
@@ -28854,6 +28865,7 @@ declarations
 declarative
 declaratively
 declaratory
+declare
 declared
 declarers
 declares
@@ -32969,6 +32981,7 @@ disorderedly
 disorderedness
 disordering
 disorderliness
+disorderly
 disorganization
 disorganize
 disorganized
@@ -34487,6 +34500,7 @@ downtrodden
 downturn
 downturns
 downwardly
+downwardness
 downwardnesses
 downwind
 downy
@@ -42077,6 +42091,7 @@ felspars
 felstone
 felstones
 felt
+felted
 felting
 feltings
 felucca
@@ -49232,6 +49247,7 @@ gourami
 gouramis
 gourd
 gourdes
+gourds
 gourmand
 gourmandises
 gourmandisms
@@ -49778,6 +49794,7 @@ greegree
 greeing
 greek
 green
+greenback
 greenbacker
 greenbackism
 greenbackisms
@@ -56238,6 +56255,7 @@ imbibe
 imbiber
 imbibers
 imbibition
+imbibitional
 imbibitions
 imbittered
 imbitters
@@ -59232,6 +59250,7 @@ interferons
 interfertility
 interfiber
 interfile
+interfiled
 interfiles
 interfiling
 interfirm
@@ -67684,6 +67703,7 @@ mailrooms
 maim
 maimer
 maims
+main
 mainframe
 mainframes
 mainlander
@@ -70333,6 +70353,7 @@ methylamines
 methylase
 methylases
 methylated
+methylates
 methylation
 methylations
 methylators
@@ -72999,6 +73020,7 @@ monophagies
 monophagy
 monophonically
 monophonies
+monophthong
 monophthongal
 monophthongs
 monophyletic
@@ -79985,6 +80007,7 @@ osteoarthritis
 osteoblast
 osteoblastic
 osteoblasts
+osteoclast
 osteoclasts
 osteocyte
 osteocytes
@@ -80809,6 +80832,7 @@ outranged
 outranges
 outranging
 outrank
+outranked
 outranks
 outrated
 outrates
@@ -87091,6 +87115,7 @@ piddlers
 piddling
 piddly
 piddock
+piddocks
 pidginization
 pidginizations
 pidginize
@@ -88406,6 +88431,7 @@ plotless
 plotlessness
 plotlines
 plottage
+plottages
 plotters
 plottier
 plotties
@@ -89004,6 +89030,7 @@ polychotomous
 polychotomy
 polychrome
 polychromies
+polychroming
 polychromy
 polycistronic
 polyclinic
@@ -91517,6 +91544,7 @@ prevalued
 prevaluing
 prevaricate
 prevaricated
+prevaricates
 prevaricating
 prevarication
 prevarications
@@ -96240,6 +96268,7 @@ recarpeted
 recarpeting
 recarpets
 recarried
+recarries
 recarry
 recarrying
 recasting
@@ -102038,6 +102067,7 @@ roues
 rouge
 rouged
 rouges
+rough
 roughage
 roughages
 roughback
@@ -108880,6 +108910,7 @@ slatinesses
 slatings
 slats
 slatted
+slattern
 slatternliness
 slatternly
 slattings
@@ -114335,6 +114366,7 @@ stultified
 stultifies
 stultify
 stumble
+stumblebum
 stumblebums
 stumbled
 stumbling
@@ -115590,6 +115622,7 @@ sulfonate
 sulfonated
 sulfonates
 sulfonating
+sulfonation
 sulfonations
 sulfone
 sulfones
@@ -116437,6 +116470,7 @@ surceasing
 surcharge
 surcharged
 surcharges
+surcharging
 surcingle
 surcingled
 surcingles
@@ -129206,6 +129240,7 @@ vesical
 vesicant
 vesicants
 vesicate
+vesicated
 vesicates
 vesicating
 vesicle
