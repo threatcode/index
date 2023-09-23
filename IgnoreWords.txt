@@ -1219,6 +1219,7 @@ adoring
 adoringly
 adorn
 adorned
+adorner
 adorning
 adornments
 ados
@@ -2191,6 +2192,7 @@ airthed
 airthing
 airtight
 airtightness
+airtightnesses
 airtime
 airting
 airts
@@ -23994,6 +23996,7 @@ contained
 containerboard
 containerboards
 containerised
+containerises
 containerising
 containerize
 containerizes
@@ -29545,6 +29548,7 @@ defuelled
 defunct
 defund
 defunds
+defuse
 defused
 defuser
 defusers
@@ -32092,6 +32096,7 @@ diminish
 diminishable
 diminished
 diminishing
+diminishments
 diminuendo
 diminuendos
 diminutive
@@ -34533,6 +34538,7 @@ dowager
 dowagers
 dowdier
 dowdies
+dowdiest
 dowdyish
 dowed
 dowel
@@ -43825,6 +43831,7 @@ fletched
 fletchers
 fleuron
 fleury
+flew
 flews
 flex
 flexagon
@@ -44523,6 +44530,7 @@ foliose
 foliums
 folk
 folkie
+folkier
 folkishness
 folkishnesses
 folklives
@@ -47093,6 +47101,7 @@ gapped
 gappier
 gappiest
 gapping
+gappy
 gapy
 gar
 garage
@@ -54343,6 +54352,7 @@ honeycreepers
 honeydew
 honeydews
 honeyeater
+honeyeaters
 honeyed
 honeyful
 honeyguide
@@ -55431,6 +55441,7 @@ hydrometallurgy
 hydrometeor
 hydrometeors
 hydrometer
+hydrometers
 hydrometric
 hydromorphic
 hydronic
@@ -57741,6 +57752,7 @@ incuriously
 incuriousness
 incurrence
 incurrent
+incurring
 incurs
 incursion
 incursions
@@ -57886,6 +57898,7 @@ indictees
 indicter
 indicting
 indictments
+indictor
 indictors
 indicts
 indie
@@ -62961,6 +62974,7 @@ kinetosomes
 kinfolk
 kinfolks
 king
+kingbird
 kingbirds
 kingbolts
 kingdom
@@ -63347,6 +63361,7 @@ konked
 konking
 konks
 koodoo
+koodoos
 kook
 kookaburra
 kookie
@@ -64551,6 +64566,7 @@ lawrenciums
 laws
 lawsuit
 lawyer
+lawyered
 lawyering
 lawyerlike
 lawyerly
@@ -65837,6 +65853,7 @@ linebackers
 linebacking
 linebackings
 linebred
+linebreeding
 linebreedings
 linecastings
 linecut
@@ -74020,6 +74037,7 @@ mouthlike
 mouthpart
 mouthparts
 mouthpiece
+mouthpieces
 mouths
 mouthwash
 mouthwashes
@@ -83344,6 +83362,7 @@ paleobiologists
 paleobiology
 paleobotanic
 paleobotanies
+paleobotanist
 paleocene
 paleoecologic
 paleoecological
@@ -83567,6 +83586,7 @@ panbroiled
 panbroils
 pancake
 pancaked
+pancakes
 pancetta
 pancettas
 panchax
@@ -85531,6 +85551,7 @@ pentanes
 pentangle
 pentangles
 pentanol
+pentapeptides
 pentaploid
 pentaploidies
 pentaploids
@@ -85559,6 +85580,7 @@ pentoses
 pentosides
 pentoxide
 pentstemon
+penuches
 penuchi
 penuchis
 penuchle
@@ -91868,6 +91890,7 @@ prettier
 pretties
 prettiest
 prettification
+prettifications
 prettifier
 prettifiers
 prettifies
@@ -99385,6 +99408,7 @@ repartee
 repartees
 repartition
 repartitions
+repass
 repassage
 repassed
 repasses
@@ -101282,6 +101306,7 @@ rewritten
 rewrote
 rex
 rexine
+rexines
 reynard
 rezero
 rezeroed
@@ -106773,6 +106798,7 @@ sesspools
 sesterces
 sestertia
 sestertium
+sestet
 sestets
 sestina
 sestine
@@ -108961,6 +108987,7 @@ skepticisms
 skeptics
 skerries
 skerry
+sketch
 sketchbook
 sketchbooks
 sketchier
@@ -115085,6 +115112,7 @@ subcommission
 subcommissioned
 subcommunities
 subcommunity
+subcompact
 subcompacts
 subcomponents
 subconsciouses
@@ -118655,6 +118683,7 @@ taradiddles
 tarama
 taramas
 tarantas
+tarantases
 tarantella
 tarantism
 tarantisms
@@ -125592,6 +125621,7 @@ uncleanlier
 uncleanliness
 uncleanlinesses
 uncleanly
+uncleanness
 uncleannesses
 unclear
 uncleared
@@ -126179,6 +126209,7 @@ underwrite
 underwriters
 underwrites
 undescended
+undeserved
 undeserving
 undesignated
 undesirability
@@ -130939,6 +130970,7 @@ waddler
 waddlers
 waddles
 waddling
+waddly
 waddying
 wade
 waded
@@ -132406,6 +132438,7 @@ whisked
 whiskered
 whiskery
 whiskey
+whiskeys
 whiskies
 whisking
 whisks
@@ -132792,6 +132825,7 @@ willywaw
 willywaws
 wilting
 wily
+wimble
 wimbles
 wimbling
 wimmin
@@ -134869,6 +134903,7 @@ zygose
 zygoses
 zygosis
 zygosities
+zygosity
 zygospore
 zygospores
 zygote
