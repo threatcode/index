@@ -5588,6 +5588,7 @@ arapaimas
 araroba
 ararobas
 araucaria
+araucarian
 araucarias
 arb
 arbalest
@@ -6290,6 +6291,7 @@ asclepiad
 asclepiads
 ascocarp
 ascocarpic
+ascogonium
 ascomycete
 ascomycetes
 ascomycetous
@@ -9458,6 +9460,7 @@ becalm
 becalmed
 becalming
 becalms
+becapped
 becapping
 becaps
 becarpeted
@@ -13568,6 +13571,7 @@ branch
 branches
 branchia
 branchiae
+branchial
 branchier
 branchiest
 branching
@@ -16843,6 +16847,7 @@ cardings
 cardio
 cardiogenic
 cardiogram
+cardiograms
 cardiograph
 cardiographies
 cardiographs
@@ -18067,6 +18072,7 @@ centre
 centred
 centres
 centric
+centrical
 centrically
 centricities
 centricity
@@ -18192,6 +18198,7 @@ ceremonialists
 ceremonially
 ceremonies
 ceremoniousness
+ceremony
 cereus
 cereuses
 cerias
@@ -24324,6 +24331,7 @@ convalesces
 convalescing
 convect
 convecting
+convection
 convectional
 convections
 convective
@@ -33460,6 +33468,7 @@ disseisees
 disseises
 disseisin
 disseising
+disseisins
 disseisor
 disseisors
 disseize
@@ -41129,6 +41138,7 @@ extraliterary
 extralogical
 extramarital
 extranet
+extranets
 extranuclear
 extraordinaire
 extraordinarily
@@ -49821,6 +49831,7 @@ grandsires
 grandsirs
 grandson
 grandstanded
+grandstanding
 grandstands
 granduncle
 grange
@@ -52601,6 +52612,7 @@ heartiness
 heartinesses
 hearting
 heartland
+heartlands
 heartless
 heartlessly
 heartlessness
@@ -54183,6 +54195,7 @@ hologram
 holograms
 holographed
 holographers
+holographies
 holographing
 holography
 hologynic
@@ -54492,6 +54505,7 @@ hongied
 hongies
 hongiing
 honied
+honing
 honk
 honked
 honkers
@@ -56940,6 +56954,7 @@ impassibly
 impassion
 impassioned
 impassioning
+impassions
 impassively
 impassiveness
 impassivenesses
@@ -58617,6 +58632,7 @@ infringes
 infringing
 infrugal
 infundibular
+infundibuliform
 infundibulum
 infuriate
 infuriates
@@ -62076,6 +62092,7 @@ jubilation
 jubilations
 jubile
 jubilee
+jubiles
 juco
 judas
 judases
@@ -62496,6 +62513,7 @@ karmas
 karmic
 karn
 karoo
+karoos
 kaross
 karosses
 karroo
@@ -64234,6 +64252,7 @@ langshan
 langshans
 langsyne
 langsynes
+language
 languages
 langue
 langues
@@ -67472,6 +67491,7 @@ lunks
 lunt
 lunted
 lunting
+lunts
 lunula
 lunulae
 lunulate
@@ -70226,6 +70246,7 @@ meno
 menologies
 menology
 menorah
+menorahs
 menorrhagia
 menorrhagias
 menorrhea
@@ -73370,6 +73391,7 @@ monoclinic
 monoclonal
 monocoque
 monocoques
+monocot
 monocots
 monocotyl
 monocotyledon
@@ -77481,6 +77503,7 @@ nonhistorical
 nonhome
 nonhomogeneous
 nonhomologous
+nonhomosexuals
 nonhormonal
 nonhospital
 nonhospitalized
@@ -89944,6 +89967,7 @@ poolsides
 poons
 poontangs
 poop
+pooped
 pooping
 poops
 poor
@@ -95527,6 +95551,7 @@ radiating
 radiation
 radiational
 radiationless
+radiations
 radiative
 radical
 radicalise
@@ -99026,6 +99051,7 @@ relentlessness
 relet
 relets
 reletter
+relettered
 relettering
 reletters
 reletting
@@ -103180,6 +103206,7 @@ runabout
 runabouts
 runaround
 runarounds
+runaways
 runback
 rundle
 rundles
@@ -104075,6 +104102,7 @@ sanitaries
 sanitarily
 sanitariums
 sanitary
+sanitate
 sanitated
 sanitates
 sanitating
@@ -115550,6 +115578,7 @@ subinfeudated
 subinfeudates
 subinfeudating
 subinfeudation
+subinfeudations
 subinfeuded
 subinfeuding
 subinfeuds
@@ -115959,6 +115988,7 @@ substitutions
 substitutive
 substitutively
 substrata
+substrate
 substratum
 substructural
 substructure
@@ -117181,6 +117211,7 @@ suppositories
 suppress
 suppressants
 suppresses
+suppressibility
 suppressible
 suppressing
 suppression
@@ -117998,6 +118029,7 @@ symbologies
 symbology
 symbols
 symmetrical
+symmetrically
 symmetricalness
 symmetries
 symmetrization
@@ -120709,6 +120741,7 @@ thigmotropism
 thigmotropisms
 thill
 thimble
+thimbleberries
 thimbleful
 thimblefuls
 thimblerigged
@@ -133472,6 +133505,7 @@ witenagemote
 witenagemotes
 witenagemots
 wites
+with
 withal
 withdrawable
 withdrawal
@@ -134666,6 +134700,7 @@ yogini
 yoginis
 yogins
 yogis
+yogurt
 yogurts
 yohimbe
 yohimbes
