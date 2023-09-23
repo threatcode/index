@@ -2452,6 +2452,7 @@ algor
 algorisms
 algorithm
 algorithmic
+algorithmically
 algorithms
 algors
 algums
@@ -6380,6 +6381,7 @@ asperate
 asperates
 asperating
 asperges
+aspergill
 aspergilla
 aspergills
 aspergillus
@@ -8218,6 +8220,7 @@ bahadurs
 baht
 bahts
 bahuvrihis
+baidarka
 baidarkas
 bail
 bailable
@@ -8746,6 +8749,7 @@ barflies
 barfly
 barfs
 bargained
+bargainers
 bargaining
 barge
 bargeboard
@@ -12708,6 +12712,7 @@ bonesets
 bonesetter
 bonesetters
 boney
+boneyard
 boneyards
 boneyer
 boneyest
@@ -13291,6 +13296,7 @@ bowdlerizes
 bowdlerizing
 bowed
 bowel
+boweling
 bowelled
 bowelless
 bowelling
@@ -18505,6 +18511,7 @@ chansonniers
 chant
 chantable
 chantage
+chantages
 chanted
 chanterelle
 chanters
@@ -22482,6 +22489,7 @@ commemorative
 commemoratively
 commemoratives
 commemorator
+commemorators
 commencement
 commencements
 commencer
@@ -27075,6 +27083,7 @@ cuckooed
 cuckooflower
 cuckooflowers
 cuckooing
+cuckoopints
 cucullate
 cucumbers
 cucurbit
@@ -32328,6 +32337,7 @@ dipnetting
 dipnoan
 dipnoans
 dipodic
+dipole
 dipoles
 dippable
 dipped
@@ -38991,6 +39001,7 @@ equipollent
 equipollently
 equipollents
 equiponderant
+equipotential
 equipped
 equipper
 equippers
@@ -39217,6 +39228,7 @@ eryngos
 erysipelas
 erysipelases
 erythema
+erythemic
 erythorbate
 erythorbates
 erythremia
@@ -41497,6 +41509,7 @@ fairs
 fairway
 fairy
 fairyhood
+fairyism
 fairyisms
 fairyland
 fairylands
@@ -42747,6 +42760,7 @@ fibromas
 fibromata
 fibromatous
 fibromyalgia
+fibromyalgias
 fibronectin
 fibronectins
 fibrosarcoma
@@ -44292,6 +44306,7 @@ flunking
 flunks
 flunky
 flunkyism
+flunkyisms
 fluorene
 fluorenes
 fluoresce
@@ -50425,6 +50440,7 @@ grouchily
 grouching
 grouchy
 ground
+groundbreaker
 groundbreakers
 groundbreaking
 groundburst
@@ -56774,6 +56790,7 @@ immunodiagnosis
 immunodiffusion
 immunogen
 immunogeneses
+immunogenetic
 immunogenetics
 immunogenic
 immunogenicity
@@ -61379,6 +61396,7 @@ jarsful
 jarvey
 jarveys
 jasmin
+jasmine
 jasmins
 jasper
 jaspers
@@ -69800,6 +69818,7 @@ megacycles
 megadeal
 megadeals
 megadeath
+megadeaths
 megadose
 megadoses
 megadyne
@@ -71588,6 +71607,7 @@ mingled
 mingler
 minglers
 mingles
+mingling
 mini
 miniature
 miniaturistic
@@ -71676,6 +71696,7 @@ ministration
 ministrations
 ministries
 ministry
+minitower
 minitowers
 minitrack
 minium
@@ -73533,6 +73554,7 @@ mony
 monzonite
 moo
 mooch
+moocher
 moochers
 mooches
 mooching
@@ -92825,6 +92847,7 @@ promotabilities
 promotable
 promoted
 promoter
+promoters
 promotes
 promoting
 promotional
@@ -96782,6 +96805,7 @@ recataloged
 recataloging
 recautioned
 recautioning
+recautions
 recce
 recces
 recede
@@ -104480,6 +104504,7 @@ scabby
 scabietic
 scabious
 scabiouses
+scabland
 scablands
 scablike
 scabrously
@@ -106390,6 +106415,7 @@ semiround
 semirounds
 semirural
 semis
+semisacred
 semisecret
 semisedentary
 semises
@@ -109471,6 +109497,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slating
 slatings
 slats
 slatted
@@ -113178,6 +113205,7 @@ stairs
 stairstep
 stairstepped
 stairstepping
+stairsteps
 stairwell
 stairwells
 staithe
@@ -113715,6 +113743,7 @@ stengah
 stenobath
 stenobaths
 stenographer
+stenographers
 stenographic
 stenographies
 stenography
@@ -118770,6 +118799,7 @@ taper
 tapered
 taperer
 taperers
+tapering
 tapers
 taperstick
 tapersticks
@@ -118858,6 +118888,7 @@ tarnishable
 tarnishes
 tarnishing
 tarns
+taro
 taroc
 tarocs
 taroks
@@ -120578,6 +120609,7 @@ thingamabob
 thingamajigs
 thingness
 thingnesses
+thingumajig
 thingumajigs
 thingummies
 think
@@ -130021,6 +130053,7 @@ vexillologists
 vexing
 vexingly
 vext
+via
 viability
 viable
 viaduct
@@ -130044,6 +130077,7 @@ vibraharp
 vibraharpist
 vibrancies
 vibrant
+vibrantly
 vibraphone
 vibraphones
 vibraphonist
@@ -132888,6 +132922,7 @@ wildcats
 wildcatted
 wildcatter
 wildcatters
+wildebeest
 wildebeests
 wilded
 wilder
