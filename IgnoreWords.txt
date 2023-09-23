@@ -2707,6 +2707,7 @@ allogeneic
 allografts
 allograph
 allographic
+allometric
 allometries
 allometry
 allomorph
@@ -10235,6 +10236,7 @@ benthon
 benthonic
 benthons
 benthos
+benthoses
 bento
 bentonites
 bentonitic
@@ -11289,6 +11291,7 @@ biostrome
 biostromes
 biosyntheses
 biosynthesis
+biosynthetic
 biosystematic
 biosystematics
 biosystematist
@@ -13227,6 +13230,7 @@ bound
 boundable
 boundaries
 bounded
+boundedness
 boundednesses
 bounden
 bounder
@@ -16088,6 +16092,7 @@ camphorate
 camphorated
 camphorates
 camphors
+campi
 campier
 campiest
 campily
@@ -17511,6 +17516,7 @@ catchword
 catchwords
 catchy
 catclaw
+catclaws
 catecheses
 catechetical
 catechins
@@ -18340,6 +18346,7 @@ chagrins
 chai
 chained
 chaines
+chainfalls
 chaining
 chainmen
 chains
@@ -18874,6 +18881,7 @@ chebec
 chechako
 chechakos
 check
+checkable
 checkbook
 checkbooks
 checker
@@ -24025,6 +24033,7 @@ consular
 consulate
 consulates
 consuls
+consulship
 consulships
 consultancies
 consultancy
@@ -27479,6 +27488,7 @@ curlpaper
 curls
 curlycue
 curlycues
+curmudgeon
 curmudgeonly
 curn
 curns
@@ -45623,6 +45633,7 @@ frailness
 frails
 frailties
 frailty
+fraise
 fraises
 fraktur
 frakturs
@@ -50508,6 +50519,7 @@ grosze
 groszy
 grot
 grotesque
+grotesquely
 grotesqueness
 grotesquenesses
 grotesques
@@ -52142,6 +52154,7 @@ harmlessly
 harmlessness
 harmlessnesses
 harmonic
+harmonica
 harmonically
 harmonicas
 harmonicist
@@ -54141,6 +54154,7 @@ hokypokies
 holard
 holards
 hold
+holdable
 holdall
 holdalls
 holdbacks
@@ -57879,6 +57893,7 @@ incriminates
 incrimination
 incriminatory
 incross
+incrossed
 incrossing
 incrustations
 incrusted
@@ -65029,6 +65044,7 @@ lecturer
 lecturers
 lectures
 lectureship
+lectureships
 lecturing
 lecythi
 lecythus
@@ -71037,6 +71053,7 @@ microbial
 microbic
 microbiologic
 microbiological
+microbiologies
 microbiologist
 microbiologists
 microbiology
@@ -78215,6 +78232,7 @@ nortriptylines
 nos
 nose
 nosebag
+nosebands
 nosebleed
 nosed
 nosedived
@@ -78735,6 +78753,7 @@ oars
 oarsmanships
 oarsmen
 oarswomen
+oases
 oast
 oasthouse
 oasthouses
@@ -80447,6 +80466,7 @@ orthoclase
 orthoclases
 orthodontia
 orthodontias
+orthodontic
 orthodontically
 orthodontics
 orthodontist
@@ -80658,6 +80678,7 @@ ostracoderm
 ostracoderms
 ostracodes
 ostracon
+ostraka
 ostrakon
 ostriches
 ostrichlike
@@ -83775,6 +83796,7 @@ palpal
 palpate
 palpated
 palpates
+palpating
 palpation
 palpator
 palpators
@@ -84966,6 +84988,7 @@ pathogenicities
 pathogenies
 pathogens
 pathognomonic
+pathological
 pathologies
 pathologist
 pathologists
@@ -92235,6 +92258,7 @@ preverb
 preverbs
 previable
 preview
+previewed
 previewer
 previewers
 previewing
@@ -99398,6 +99422,7 @@ remobilizations
 remobilize
 remobilizes
 remobilizing
+remodel
 remodeled
 remodeler
 remodelers
@@ -106702,6 +106727,7 @@ sensa
 sensate
 sensately
 sensating
+sensation
 sensational
 sensationalise
 sensationalised
@@ -110667,6 +110693,7 @@ snools
 snooper
 snoopier
 snooping
+snoopy
 snoot
 snooted
 snootier
@@ -115584,6 +115611,7 @@ suberins
 suberise
 suberised
 suberises
+suberising
 suberization
 suberize
 suberized
@@ -118470,6 +118498,7 @@ tabor
 tabored
 taborers
 taborets
+taborin
 taborines
 taborins
 tabors
@@ -120538,6 +120567,7 @@ thegns
 thein
 theine
 theins
+their
 theirs
 theirself
 theirselves
@@ -122516,6 +122546,7 @@ touchstone
 touchtone
 touchtones
 touchups
+touchwoods
 touchy
 tough
 toughened
@@ -126660,6 +126691,7 @@ undotted
 undouble
 undoubled
 undoubles
+undoubtable
 undoubted
 undoubtedly
 undoubting
@@ -128435,6 +128467,7 @@ unweaves
 unweaving
 unwed
 unwedded
+unweeded
 unweetingly
 unweighed
 unweight
@@ -132550,6 +132583,7 @@ whack
 whacked
 whacker
 whackers
+whackier
 whackiest
 whacking
 whacks
@@ -134440,6 +134474,7 @@ xylyls
 xyster
 xysti
 xystoi
+xystos
 ya
 yabber
 yabbered
