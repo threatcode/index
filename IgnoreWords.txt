@@ -3929,6 +3929,7 @@ anglicization
 anglicizations
 anglicize
 anglicized
+anglicizes
 anglicizing
 angling
 anglo
@@ -5934,6 +5935,7 @@ armigeral
 armigerous
 armilla
 armillae
+armillary
 arming
 armistice
 armistices
@@ -11978,6 +11980,7 @@ blobbing
 block
 blockable
 blockade
+blockader
 blockaders
 blockades
 blockading
@@ -12271,6 +12274,7 @@ blunted
 blunter
 bluntest
 blunting
+bluntness
 blunts
 blurbed
 blurbing
@@ -17719,6 +17723,7 @@ cavers
 cavetti
 cavetto
 caviar
+caviare
 caviares
 caviars
 cavicorn
@@ -25124,6 +25129,7 @@ corvette
 corvettes
 corvid
 corvids
+corvina
 corvinas
 corvine
 corybantes
@@ -34297,6 +34303,7 @@ doornail
 doornails
 doorpost
 doors
+doorsill
 doorsills
 doorstep
 doorstop
@@ -36907,6 +36914,7 @@ eluviation
 eluvium
 elver
 elvers
+elvish
 elvishly
 elytra
 elytroid
@@ -38226,6 +38234,7 @@ entamebas
 entamoeba
 entamoebas
 entangle
+entangled
 entanglement
 entangler
 entanglers
@@ -42253,6 +42262,7 @@ fellowing
 fellowly
 fellowman
 fellowmen
+fellowship
 fellowshiping
 fellowshipped
 fellowships
@@ -43258,6 +43268,7 @@ firmly
 firmness
 firmnesses
 firms
+firmware
 firmwares
 firn
 firns
@@ -47320,6 +47331,7 @@ gastrocnemii
 gastrocnemius
 gastrolith
 gastroliths
+gastronome
 gastronomic
 gastronomical
 gastronomically
@@ -49544,6 +49556,7 @@ graciously
 graciousness
 graciousnesses
 grackle
+grackles
 grad
 gradable
 gradate
@@ -60031,6 +60044,7 @@ intown
 intoxicant
 intoxicants
 intoxicate
+intoxicatedly
 intoxicates
 intoxicating
 intoxications
@@ -61043,6 +61057,7 @@ iterative
 iterum
 ither
 itineracies
+itinerancies
 itinerancy
 itinerantly
 itinerants
@@ -62503,6 +62518,7 @@ keets
 keeve
 keeves
 kef
+keffiyah
 keffiyahs
 keffiyeh
 kefir
@@ -64756,6 +64772,7 @@ leased
 leaseholders
 leaser
 leasers
+leases
 leashed
 leashing
 leasing
@@ -65413,6 +65430,7 @@ liberalized
 liberalizer
 liberalizers
 liberalizes
+liberalizing
 liberally
 liberalness
 liberalnesses
@@ -66603,6 +66621,7 @@ logia
 logic
 logical
 logicalities
+logicality
 logically
 logicalness
 logicalnesses
@@ -73962,6 +73981,7 @@ moundbirds
 mounded
 mounding
 mount
+mountain
 mountaineer
 mountaineerings
 mountaineers
@@ -74696,6 +74716,7 @@ musical
 musicale
 musicalise
 musicalised
+musicalises
 musicality
 musicalizations
 musicalize
@@ -75858,6 +75879,7 @@ neomorphs
 neomycin
 neomycins
 neonatal
+neonatally
 neonatologies
 neonatology
 neoned
@@ -76299,6 +76321,7 @@ nicely
 niceness
 nicenesses
 nicer
+nicest
 niceties
 nicety
 niche
@@ -78093,6 +78116,7 @@ nougat
 nought
 noughts
 noumenon
+noun
 nounal
 nounally
 nounless
@@ -80788,6 +80812,7 @@ outfasts
 outfawn
 outfawned
 outfawning
+outfawns
 outfeast
 outfeasted
 outfeasts
@@ -81226,6 +81251,7 @@ outrocking
 outrocks
 outrode
 outroll
+outrolled
 outrolling
 outrolls
 outrooted
@@ -90920,6 +90946,7 @@ predation
 predations
 predatism
 predators
+predawn
 predebate
 predeceased
 predeceases
@@ -100148,6 +100175,7 @@ residentially
 residents
 resider
 resides
+residing
 resids
 residua
 residually
@@ -100710,6 +100738,7 @@ reticulates
 reticulating
 reticulation
 reticulocyte
+reticulocytes
 reticulum
 reticulums
 retie
@@ -114073,6 +114102,7 @@ stokers
 stokes
 stokesias
 stole
+stoled
 stolen
 stolid
 stolider
@@ -114782,6 +114812,7 @@ strutters
 strutting
 strychnic
 strychnine
+stub
 stubbed
 stubbier
 stubbiest
@@ -118343,6 +118374,7 @@ takeups
 takin
 taking
 takins
+tala
 talapoins
 talar
 talaria
@@ -122388,6 +122420,7 @@ tradescantia
 tradescantias
 tradesman
 tradesmen
+tradespeople
 trading
 traditional
 traditionalism
@@ -133266,6 +133299,7 @@ woebegoneness
 woebegonenesses
 woefuller
 woefully
+woefulness
 woefulnesses
 woenesses
 woesome
@@ -134044,6 +134078,7 @@ yaff
 yaffed
 yaffing
 yaffs
+yag
 yags
 yah
 yahoo
