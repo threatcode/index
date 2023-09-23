@@ -1757,6 +1757,7 @@ agapanthus
 agapanthuses
 agape
 agapeic
+agapes
 agar
 agaric
 agarics
@@ -4278,6 +4279,7 @@ anteriorly
 antes
 antetype
 antetypes
+antevert
 anteverting
 anteverts
 anthelia
@@ -8957,6 +8959,7 @@ bascule
 bascules
 base
 baseballs
+baseboard
 baseboards
 baseless
 baseliner
@@ -10413,6 +10416,7 @@ besmokes
 besmoking
 besmooth
 besmoothed
+besmoothing
 besmooths
 besmudge
 besmudges
@@ -12979,6 +12983,7 @@ borderline
 borderlines
 bordure
 bordures
+bore
 boreas
 boreases
 borecole
@@ -14765,6 +14770,7 @@ bumfuzzle
 bumfuzzles
 bumfuzzling
 bumkin
+bumkins
 bummalo
 bummed
 bummest
@@ -16084,6 +16090,7 @@ campus
 campused
 campuses
 campusing
+campy
 campylobacters
 campylotropous
 camshaft
@@ -16457,6 +16464,7 @@ capelets
 capelin
 capelins
 caper
+capercaillie
 capercaillies
 capercailzie
 capercailzies
@@ -22796,6 +22804,7 @@ compere
 compering
 compete
 competence
+competencies
 competent
 competently
 competing
@@ -29739,6 +29748,7 @@ deil
 deils
 deindustrialize
 deinonychuses
+deionizations
 deionized
 deionizer
 deionizers
@@ -39195,6 +39205,7 @@ errants
 errata
 erratic
 erratical
+erratically
 erraticisms
 errhines
 erring
@@ -56915,6 +56926,7 @@ impatience
 impatiences
 impatiens
 impatient
+impatiently
 impavid
 impawned
 impawns
@@ -61430,6 +61442,7 @@ jauks
 jaunce
 jaunced
 jauncing
+jaundice
 jaundiced
 jaunt
 jaunted
@@ -65771,6 +65784,7 @@ lignifying
 lignin
 lignite
 lignitic
+lignocellulose
 lignocelluloses
 lignocellulosic
 lignosulfonate
@@ -74249,6 +74263,7 @@ mucklucks
 muckraked
 muckrakes
 muckraking
+mucks
 muckworm
 muckworms
 mucky
@@ -76693,6 +76708,7 @@ nitrated
 nitrating
 nitration
 nitrations
+nitrators
 nitre
 nitres
 nitric
@@ -77411,6 +77427,7 @@ nongrowing
 nonguest
 nonguests
 nonguilt
+nonguilts
 nonhalogenated
 nonhappenings
 nonharmonic
@@ -78465,6 +78482,7 @@ numskull
 numskulls
 nun
 nunatak
+nunataks
 nunchakus
 nunciature
 nunciatures
@@ -79114,6 +79132,7 @@ ocular
 ocularist
 oculars
 oculi
+oculists
 oculomotor
 oculus
 od
@@ -81530,6 +81549,7 @@ outstates
 outstating
 outstation
 outstay
+outstayed
 outstaying
 outsteer
 outsteered
@@ -85104,6 +85124,7 @@ peachier
 peaching
 peachy
 peacing
+peacoats
 peacock
 peacocked
 peacockiest
@@ -94074,6 +94095,7 @@ punchiest
 punchily
 punchinello
 punchinellos
+punchless
 punchy
 punctate
 punctated
@@ -98750,6 +98772,7 @@ reintroducing
 reintroduction
 reintroductions
 reinvaded
+reinvading
 reinvasion
 reinvent
 reinvented
@@ -103219,6 +103242,7 @@ rustproof
 rustproofed
 rustproofing
 rustproofs
+rusts
 rusty
 rut
 rutabaga
@@ -106450,6 +106474,7 @@ semisoft
 semisolids
 semistiff
 semisubmersible
+semisweet
 semisynthetic
 semitist
 semitonal
@@ -107738,6 +107763,7 @@ shingler
 shinglers
 shingles
 shingling
+shingly
 shiniest
 shinily
 shininess
@@ -110226,6 +110252,7 @@ smouldered
 smouldering
 smudged
 smudges
+smudgier
 smudgiest
 smudginess
 smudging
@@ -113569,6 +113596,7 @@ staunched
 stauncher
 staunchest
 staunching
+staunchly
 staunchness
 staurolite
 staurolitic
@@ -117090,6 +117118,7 @@ supposititious
 suppositories
 suppress
 suppressants
+suppresses
 suppressible
 suppressing
 suppression
@@ -117499,6 +117528,7 @@ swashbuckler
 swashbucklers
 swashbuckles
 swashed
+swasher
 swashing
 swasticas
 swastikas
@@ -117676,6 +117706,7 @@ swingling
 swings
 swingy
 swinish
+swinishly
 swinishness
 swinishnesses
 swink
@@ -123538,6 +123569,7 @@ trifurcating
 trig
 trigeminal
 trigeminals
+trigged
 triggered
 triggerfish
 triggerfishes
@@ -128345,6 +128377,7 @@ upbuilding
 upbuilds
 upby
 upbye
+upcast
 upcasting
 upchuck
 upchucking
@@ -133331,6 +133364,7 @@ wispish
 wisplike
 wisps
 wispy
+wiss
 wissed
 wisses
 wissing
@@ -133591,6 +133625,7 @@ woodblocks
 woodborer
 woodborers
 woodbox
+woodchat
 woodchats
 woodchopper
 woodchoppers
