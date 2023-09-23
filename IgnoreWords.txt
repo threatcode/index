@@ -2104,6 +2104,7 @@ airchecks
 aircoach
 aircoaches
 aircraft
+aircrews
 airdate
 airdates
 airdrome
@@ -2160,6 +2161,7 @@ airparks
 airplane
 airplanes
 airplay
+airplays
 airport
 airports
 airpost
@@ -2653,6 +2655,7 @@ allergists
 allergy
 allethrin
 allethrins
+alleviant
 alleviants
 alleviate
 alleviations
@@ -14504,6 +14507,7 @@ buckshees
 buckshot
 buckskins
 buckteeth
+buckthorn
 bucktooth
 bucktoothed
 buckwheat
@@ -16505,6 +16509,7 @@ capitations
 capitella
 capitellum
 capitols
+capitula
 capitularies
 capitulary
 capitulate
@@ -17377,6 +17382,7 @@ catachrestical
 cataclysm
 cataclysmic
 cataclysmically
+cataclysms
 catacomb
 catadioptric
 catadromous
@@ -22440,6 +22446,7 @@ comer
 comestible
 comestibles
 comet
+cometary
 cometh
 comether
 comethers
@@ -25627,6 +25634,7 @@ countertendency
 countertenors
 counterterror
 counterterrors
+counterthreat
 counterthrusts
 countertrade
 countertrades
@@ -26887,6 +26895,7 @@ crumpliest
 crumpling
 crumply
 crumps
+crunch
 crunchable
 crunched
 cruncher
@@ -33856,6 +33865,7 @@ divines
 divinest
 diving
 divining
+divinised
 divinising
 divinize
 divinized
@@ -42085,6 +42095,7 @@ fawningly
 fawnlike
 fawns
 fawny
+fax
 faxed
 faxes
 faxing
@@ -45627,6 +45638,7 @@ franknesses
 frankpledge
 franks
 franseria
+franserias
 frantic
 frantically
 franticly
@@ -47970,6 +47982,7 @@ geophysicist
 geophysics
 geophytes
 geophytic
+geopolitical
 geopolitically
 geopolitician
 geopolitics
@@ -51088,6 +51101,7 @@ gynaecologies
 gynandries
 gynandromorph
 gynandromorphic
+gynandromorphs
 gynandromorphy
 gynandry
 gynarchic
@@ -55286,6 +55300,7 @@ hunkeys
 hunkie
 hunkier
 hunkies
+hunks
 hunky
 hunnish
 huns
@@ -56417,6 +56432,7 @@ ileum
 ileus
 ileuses
 ilex
+ilexes
 ilia
 iliac
 ilial
@@ -57595,6 +57611,7 @@ incises
 incising
 incisions
 incisive
+incisiveness
 incisivenesses
 incisor
 incisors
@@ -66875,6 +66892,7 @@ longly
 longnesses
 longs
 longship
+longshoreman
 longshoremen
 longshoring
 longsighted
@@ -77229,6 +77247,7 @@ nondeforming
 nondegenerate
 nondegradable
 nondegree
+nondelegate
 nondelegates
 nondelinquents
 nondeliveries
@@ -78875,6 +78894,7 @@ obsolesced
 obsolescence
 obsolescent
 obsolesces
+obsolete
 obsoletely
 obsoleting
 obstacle
@@ -88368,6 +88388,7 @@ placatingly
 placation
 placative
 placatory
+place
 placeable
 placebo
 placeboes
@@ -89928,6 +89949,7 @@ popes
 popeyed
 popgun
 popguns
+popinjay
 popinjays
 poplar
 poplin
@@ -92752,6 +92774,7 @@ progressives
 progressivism
 progressivisms
 progressivist
+progressivistic
 progressivists
 progressivities
 progressivity
@@ -93328,6 +93351,7 @@ protensively
 proteoglycan
 proteolyses
 proteolysis
+proteolytic
 proteolytically
 proteome
 proteomes
@@ -93383,6 +93407,7 @@ protonations
 protonema
 protonemata
 protonematal
+protonic
 protonotaries
 protonotary
 protons
@@ -96888,6 +96913,7 @@ recentrifuging
 recept
 reception
 receptionist
+receptionists
 receptions
 receptive
 receptively
@@ -99706,6 +99732,7 @@ replays
 replead
 repleaded
 repleader
+repleading
 repleads
 repled
 repledge
@@ -108412,6 +108439,7 @@ sicklily
 sickliness
 sickling
 sickly
+sicklying
 sickness
 sicknesses
 sicko
@@ -114470,6 +114498,7 @@ stoutest
 stoutish
 stoutly
 stoutness
+stoutnesses
 stouts
 stove
 stovepipes
@@ -116392,6 +116421,7 @@ sultans
 sultrier
 sultrily
 sultriness
+sultrinesses
 sultry
 sulu
 sulus
@@ -118876,6 +118906,7 @@ taphonomists
 taphonomy
 taphouse
 taphouses
+taping
 tapiocas
 tapir
 tapirs
@@ -122385,6 +122416,7 @@ tourisms
 tourista
 touristic
 touristically
+tourists
 touristy
 tourmaline
 tourmalines
@@ -123930,6 +123962,7 @@ trombonist
 trombonists
 trommel
 trommels
+tromp
 trompe
 tromped
 trompes
@@ -130153,6 +130186,7 @@ vibrating
 vibration
 vibrational
 vibrationless
+vibrations
 vibratoless
 vibrator
 vibrators
@@ -133722,6 +133756,7 @@ woollen
 woollier
 woollies
 woolliest
+woollike
 woollily
 woolliness
 woollinesses
