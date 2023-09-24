@@ -908,6 +908,7 @@ acutes
 acutest
 acyclic
 acyclovir
+acyl
 acylate
 acylated
 acylates
@@ -6301,6 +6302,7 @@ ascendants
 ascended
 ascendence
 ascendencies
+ascendent
 ascendents
 ascenders
 ascendible
@@ -8062,6 +8064,7 @@ backhauls
 backhoeing
 backhoes
 backhouse
+backhouses
 backing
 backings
 backland
@@ -8094,6 +8097,7 @@ backpacks
 backpedal
 backpedaled
 backpedalled
+backpedalling
 backpedals
 backrest
 backroom
@@ -9017,6 +9021,7 @@ baryton
 barytone
 barytons
 bas
+basal
 basalt
 basaltes
 basaltic
@@ -11640,6 +11645,7 @@ bituminous
 biunique
 biuniqueness
 biuniquenesses
+bivalences
 bivalencies
 bivalency
 bivalent
@@ -15553,6 +15559,7 @@ cablecasting
 cabled
 cables
 cablets
+cableways
 cabling
 cabman
 cabob
@@ -18214,6 +18221,7 @@ centrifugals
 centrifugation
 centrifugations
 centrifuge
+centrifuged
 centrifuges
 centrifuging
 centring
@@ -18617,6 +18625,7 @@ chancellory
 chancels
 chancer
 chanceries
+chancery
 chancier
 chanciest
 chancily
@@ -25107,6 +25116,7 @@ cornea
 corneal
 corned
 corneitis
+cornel
 cornelian
 cornelians
 corneous
@@ -26972,6 +26982,7 @@ crossways
 crosswind
 crosswinds
 crosswise
+crosswords
 crostini
 crotch
 crotched
@@ -27123,6 +27134,7 @@ crunched
 cruncher
 crunches
 crunchier
+crunchiness
 crunchinesses
 crunching
 crunode
@@ -39050,6 +39062,7 @@ epidiascope
 epidiascopes
 epididymal
 epididymides
+epididymis
 epididymitis
 epidote
 epidotes
@@ -43404,6 +43417,7 @@ filmcard
 filmdom
 filmdoms
 filmed
+filmer
 filmgoer
 filmgoers
 filmgoing
@@ -43667,6 +43681,7 @@ fireman
 firemanic
 firemen
 firepan
+firepinks
 fireplace
 fireplaces
 fireplug
@@ -46746,6 +46761,7 @@ fumarase
 fumarate
 fumarates
 fumaric
+fumarole
 fumaroles
 fumarolic
 fumatories
@@ -49133,6 +49149,7 @@ glial
 glib
 glibber
 glibbest
+glibly
 glibness
 glibnesses
 glide
@@ -55199,6 +55216,7 @@ horrifies
 horrifying
 horrifyingly
 horror
+horrors
 horse
 horseback
 horsebacks
@@ -57466,6 +57484,7 @@ impenitent
 impenitently
 imperative
 imperativeness
+imperatives
 imperatorial
 imperceivable
 imperceptible
@@ -58980,6 +58999,7 @@ inflammatorily
 inflammatory
 inflatables
 inflate
+inflaters
 inflates
 inflating
 inflationary
@@ -62152,6 +62172,7 @@ jete
 jetes
 jetfoil
 jetfoils
+jetlag
 jetlags
 jetlike
 jetliner
@@ -67728,6 +67749,7 @@ lovemakers
 lovemaking
 lovemakings
 lover
+loverly
 loves
 loveseats
 lovesick
@@ -72656,6 +72678,7 @@ miscoining
 miscoins
 miscolored
 miscoloring
+miscolors
 miscomputation
 miscomputations
 miscompute
@@ -75897,6 +75920,7 @@ nabis
 nabob
 naboberies
 nabobery
+nabobess
 nabobesses
 nabobish
 nabobism
@@ -78563,6 +78587,7 @@ nonsupport
 nonsurgical
 nonsyllabic
 nonsymbolic
+nonsymmetric
 nonsymmetrical
 nonsynchronous
 nonsystem
@@ -80288,6 +80313,7 @@ one
 onefold
 oneiric
 oneirically
+oneiromancies
 oneiromancy
 onenesses
 onerier
@@ -80762,6 +80788,7 @@ ordaining
 ordainment
 ordainments
 ordains
+ordeal
 ordeals
 order
 orderable
@@ -81735,6 +81762,7 @@ outgross
 outgrossed
 outgrosses
 outgrossing
+outgroup
 outgroups
 outgrowing
 outgrows
@@ -83684,6 +83712,7 @@ overwithhold
 overwithholding
 overwithholds
 overword
+overwords
 overwore
 overwork
 overworked
@@ -83854,6 +83883,7 @@ oxyhemoglobin
 oxyhemoglobins
 oxyhydrogen
 oxymora
+oxymoronic
 oxymoronically
 oxymorons
 oxyphil
@@ -96745,6 +96775,7 @@ rankles
 ranpike
 ransack
 ransacked
+ransackers
 ransacking
 ransacks
 ransom
@@ -97394,6 +97425,7 @@ rears
 rearticulate
 rearticulated
 rearticulates
+rearticulating
 rearward
 reascend
 reascended
@@ -99280,6 +99312,7 @@ regrade
 regraded
 regrades
 regrading
+regraft
 regrafted
 regrafting
 regrafts
@@ -100183,6 +100216,7 @@ removes
 removing
 rems
 remudas
+remunerated
 remunerates
 remunerating
 remuneration
@@ -128707,6 +128741,7 @@ unreasoningly
 unreasons
 unrebuked
 unreclaimable
+unreclaimed
 unrecognized
 unreconcilable
 unreconciled
