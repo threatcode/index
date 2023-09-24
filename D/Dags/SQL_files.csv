@@ -1,0 +1,9 @@
+bitcoin-etl-airflow/dags/resources/stages/enrich/sqls/inputs.sql at ...,https://github.com/blockchain-etl/bitcoin-etl-airflow/blob/master/dags/resources/stages/enrich/sqls/inputs.sql
+ethereum-etl-airflow/dags/resources/stages/enrich/sqls/transactions ...,https://github.com/blockchain-etl/ethereum-etl-airflow/blob/master/dags/resources/stages/enrich/sqls/transactions.sql
+gopalsinghal/Bookdata-tools ... - DagsHub,https://dagshub.com/gopalsinghal/Bookdata-tools/commits/e4e93c4e4262cb1df851ab1e1b87d1e03d7d9139/common-schema.sql
+puneethp/Bookdata-tools - DagsHub,https://dagshub.com/puneethp/Bookdata-tools/src/797b407b0305c339b01fa0092ba03f32f6668c2c/ol-explore.sql
+databaseformler/hvor-mange-aktive-almene-vandforsyninger-dags ...,https://geusgitlab.geus.dk/dataudtraek/data-faq/-/blob/79be786c60991636e7ddd0e8c8830101cbae5ca2/databaseformler/hvor-mange-aktive-almene-vandforsyninger-dags-dato.sql
+Nobel - SQLZOO,https://sqlzoo.net/nobel.sql
+CheckCommServerUpgradeAss...,https://edc.commvault.com/downloads/SQLScripts/UpgradeReadiness/CheckCommServerUpgradeAssociations_9_0.sql
+https://sbclter.msi.ucsb.edu/external/InformationM...,https://sbclter.msi.ucsb.edu/external/InformationManagement/LTER_IMC/tmp_lter_core_metabase/4_load_sample_sbc_datasets.sql
+graphs_schema.sql,http://hansolav.net/sql/graphs_schema.sql

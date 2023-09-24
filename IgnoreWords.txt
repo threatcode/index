@@ -5782,6 +5782,7 @@ archpriests
 archrival
 archrivals
 archway
+archways
 arcing
 arcked
 arcking
@@ -7497,6 +7498,7 @@ autotomy
 autotoxic
 autotoxins
 autotransformer
+autotroph
 autotrophic
 autotrophy
 autotype
@@ -8137,6 +8139,7 @@ bacteremias
 bacteremic
 bacteria
 bacterial
+bacterially
 bacterials
 bacterias
 bactericide
@@ -10176,6 +10179,7 @@ benches
 benchland
 benchlands
 benchmark
+benchmarked
 benchmarking
 benchmarks
 benchwarmer
@@ -11586,6 +11590,7 @@ bituminizes
 bituminous
 biunique
 biuniqueness
+biuniquenesses
 bivalencies
 bivalency
 bivalent
@@ -12048,6 +12053,7 @@ blockage
 blockages
 blockbust
 blockbusted
+blockbuster
 blockbusters
 blockbustings
 blocked
@@ -15171,6 +15177,7 @@ busiest
 busily
 business
 businesses
+businesslike
 businessman
 businessmen
 businesspeople
@@ -18096,6 +18103,7 @@ centimos
 centipede
 centipedes
 centner
+cento
 centones
 centra
 central
@@ -23826,6 +23834,7 @@ connoisseurship
 connotation
 connotational
 connotations
+connotative
 connotatively
 connote
 connoted
@@ -25017,6 +25026,7 @@ cornflowers
 cornhusk
 cornhusking
 cornhuskings
+cornhusks
 corniced
 cornices
 corniche
@@ -28216,6 +28226,7 @@ dagoba
 dagobas
 dagoes
 dagos
+dags
 daguerreotyped
 daguerreotypies
 daguerreotyping
@@ -37381,6 +37392,7 @@ emendators
 emended
 emender
 emenders
+emending
 emends
 emerald
 emeralds
@@ -37699,6 +37711,7 @@ enchantments
 enchantress
 enchants
 enchase
+enchased
 enchaser
 enchases
 enchasing
@@ -40373,6 +40386,7 @@ excess
 excessing
 excessive
 excessively
+excessiveness
 exchange
 exchangeability
 exchangeable
@@ -41754,6 +41768,7 @@ fallibly
 falling
 falloff
 falloffs
+fallout
 fallouts
 fallow
 fallownesses
@@ -46685,6 +46700,7 @@ furfurals
 furfuran
 furfurans
 furibund
+furies
 furious
 furiously
 furl
@@ -47580,6 +47596,7 @@ gastritides
 gastritises
 gastrocnemii
 gastrocnemius
+gastroenteritis
 gastrolith
 gastroliths
 gastronome
@@ -54130,6 +54147,7 @@ hoariness
 hoarinesses
 hoars
 hoarse
+hoarsely
 hoarsen
 hoarsened
 hoarseness
@@ -56071,6 +56089,7 @@ hypersthenes
 hypersthenic
 hyperstimulated
 hypersurface
+hypersurfaces
 hypertense
 hypertension
 hypertensions
@@ -59431,6 +59450,7 @@ instances
 instancing
 instancy
 instant
+instantaneities
 instantaneity
 instantaneous
 instantaneously
@@ -66839,6 +66859,7 @@ locating
 location
 locations
 locative
+locatives
 locator
 locators
 loch
@@ -72428,6 +72449,7 @@ misemphasis
 misemphasize
 misemphasized
 misemploy
+misemployed
 misemploying
 misemployment
 misemployments
@@ -81134,6 +81156,7 @@ outcrowding
 outcrowds
 outcrowed
 outcrowing
+outcrows
 outcry
 outcrying
 outcursed
@@ -84986,6 +85009,7 @@ passional
 passionals
 passionately
 passionateness
+passionflowers
 passionless
 passions
 passivate
@@ -87753,6 +87777,7 @@ phytochemistry
 phytochrome
 phytochromes
 phytoflagellate
+phytogenies
 phytogeny
 phytogeographer
 phytogeographic
@@ -91853,6 +91878,7 @@ premixes
 premixing
 premixt
 premodern
+premodified
 premodifies
 premodify
 premodifying
@@ -106433,6 +106459,7 @@ seductiveness
 seductivenesses
 seductress
 seductresses
+sedulous
 sedulously
 sedulousness
 sedulousnesses
@@ -109720,6 +109747,7 @@ skipped
 skipper
 skippered
 skippering
+skippers
 skippet
 skippets
 skipping
@@ -114356,6 +114384,7 @@ sternums
 sternutator
 sternutators
 sternward
+sternwards
 sternway
 steroid
 steroidal
@@ -116011,6 +116040,7 @@ sublimenesses
 sublimer
 sublimers
 sublimes
+sublimest
 subliminally
 subliming
 sublimit
@@ -119572,6 +119602,7 @@ tautomer
 tautomeric
 tautomerism
 tautomerisms
+tautomers
 tautonym
 tautonyms
 tautonymy
@@ -120861,6 +120892,7 @@ thenages
 thenars
 thence
 thenceforth
+thenceforwards
 thens
 theobromines
 theocentric
@@ -126426,6 +126458,7 @@ unconcernedly
 unconcernedness
 unconditional
 unconditionally
+unconfessed
 unconfined
 unconformable
 unconformably
@@ -130340,6 +130373,7 @@ verbids
 verbified
 verbifies
 verbify
+verbifying
 verbigeration
 verbigerations
 verbiles
@@ -132846,6 +132880,7 @@ wert
 weskit
 weskits
 wessand
+wessands
 west
 westbound
 wester
