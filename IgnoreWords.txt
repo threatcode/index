@@ -415,6 +415,7 @@ accordions
 accost
 accosting
 accosts
+accouchement
 accoucheurs
 accountability
 accountableness
@@ -423,6 +424,7 @@ accountancies
 accountant
 accountants
 accountantships
+accounted
 accounting
 accountings
 accounts
@@ -1871,6 +1873,7 @@ aggregateness
 aggregatenesses
 aggregates
 aggregating
+aggregation
 aggregational
 aggregations
 aggregative
@@ -12596,6 +12599,7 @@ bogwood
 bogwoods
 bogy
 bogyism
+bogyisms
 bogyman
 bogymen
 bohea
@@ -16878,6 +16882,7 @@ carcajou
 carcanet
 carcanets
 carcases
+carcass
 carcasses
 carcel
 carcels
@@ -19497,6 +19502,7 @@ chirping
 chirps
 chirre
 chirred
+chirren
 chirres
 chirring
 chirrs
@@ -19672,6 +19678,7 @@ cholates
 cholecalciferol
 cholecyst
 cholecystectomy
+cholecystitis
 cholecystitises
 cholecystokinin
 cholecysts
@@ -20268,6 +20275,7 @@ circularising
 circularity
 circularization
 circularize
+circularly
 circularness
 circularnesses
 circulatable
@@ -25831,6 +25839,7 @@ courageousness
 courages
 courant
 courante
+courantes
 courantoes
 courantos
 courants
@@ -29159,6 +29168,7 @@ decider
 decides
 decidua
 deciduae
+decidual
 deciduas
 deciduate
 deciduous
@@ -30134,6 +30144,7 @@ deluded
 deluders
 deludes
 deluding
+deluge
 deluged
 deluging
 delusional
@@ -34265,6 +34276,7 @@ doggers
 doggiest
 dogging
 doggish
+doggishness
 doggishnesses
 doggone
 doggoneder
@@ -38955,6 +38967,7 @@ epidotes
 epidural
 epidurals
 epifauna
+epifaunae
 epifaunas
 epifocal
 epigastric
@@ -40892,6 +40905,7 @@ expansionist
 expansionists
 expansions
 expansive
+expansively
 expansiveness
 expansivenesses
 expansivities
@@ -44062,6 +44076,7 @@ flavours
 flavoury
 flaw
 flawier
+flawiest
 flawing
 flawless
 flawlessly
@@ -47893,6 +47908,7 @@ geegaw
 geegaws
 geeing
 geekdom
+geekdoms
 geeked
 geekiest
 geekiness
@@ -49977,6 +49993,7 @@ grafts
 graham
 grahams
 grail
+grails
 grain
 grained
 grainer
@@ -50750,6 +50767,7 @@ grottiest
 grotto
 grottoed
 grottoes
+grottos
 grotty
 grouch
 grouchier
@@ -52079,6 +52097,7 @@ handpick
 handpicks
 handprint
 handprints
+handrail
 handrails
 handsaw
 handsaws
@@ -52311,6 +52330,7 @@ hardness
 hardnose
 hardnoses
 hardpack
+hardpacks
 hardpan
 hardpans
 hardscrabble
@@ -54915,6 +54935,7 @@ hoosgow
 hoosgows
 hoot
 hootches
+hootenannies
 hootenanny
 hooter
 hooters
@@ -58443,6 +58464,7 @@ indivisible
 indivisibly
 indocilities
 indocility
+indoctrinate
 indoctrinated
 indoctrinating
 indoctrination
@@ -61720,6 +61742,7 @@ janissary
 janitor
 janitorial
 janitors
+janizaries
 janizary
 japan
 japanize
@@ -65603,6 +65626,7 @@ lentigo
 lentil
 lentils
 lentisks
+lentissimo
 lentivirus
 lentiviruses
 lento
@@ -80108,6 +80132,7 @@ onomastics
 onomatologist
 onomatologists
 onomatology
+onomatopoeias
 onomatopoeic
 onomatopoetic
 onos
@@ -81044,6 +81069,7 @@ otherwhiles
 otherwise
 otherworld
 otherworldly
+otherworlds
 otic
 otiose
 otiosely
@@ -86055,6 +86081,7 @@ penciler
 penciling
 pencilings
 pencilled
+penciller
 pencillers
 pencilling
 pencillings
@@ -87763,6 +87790,7 @@ photospheres
 photospheric
 photostat
 photostated
+photostating
 photostatting
 photosynthate
 photosyntheses
@@ -88879,6 +88907,7 @@ placated
 placater
 placaters
 placates
+placating
 placatingly
 placation
 placations
@@ -98694,6 +98723,7 @@ reflection
 reflectional
 reflections
 reflectively
+reflectiveness
 reflectivities
 reflectivity
 reflectometers
@@ -101040,6 +101070,7 @@ resolution
 resolvable
 resolve
 resolvents
+resolver
 resolves
 resolving
 resonance
@@ -105120,6 +105151,7 @@ sawlogs
 sawmills
 sawn
 sawney
+saws
 sawteeth
 sawtimber
 sawtimbers
@@ -110912,6 +110944,7 @@ smugness
 smugnesses
 smush
 smushed
+smut
 smutch
 smutched
 smutchier
@@ -121570,6 +121603,7 @@ thrawn
 thrawnly
 thraws
 thread
+threadbare
 threadbareness
 threader
 threaders
@@ -124214,6 +124248,7 @@ tricing
 trick
 tricked
 tricker
+trickeries
 trickers
 trickery
 trickie
