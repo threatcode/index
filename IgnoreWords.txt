@@ -3660,6 +3660,7 @@ analysands
 analyse
 analysed
 analyser
+analysers
 analyses
 analysing
 analysis
@@ -5023,6 +5024,7 @@ apatosauruses
 ape
 aped
 apeek
+apelike
 aper
 apercu
 apercus
@@ -9265,6 +9267,7 @@ baubles
 baud
 baudekin
 baudekins
+baudronses
 bauds
 bauhinia
 bauhinias
@@ -17084,6 +17087,7 @@ carnaubas
 carnelians
 carnets
 carney
+carneys
 carnies
 carnified
 carnifies
@@ -20719,6 +20723,7 @@ clavations
 claver
 clavered
 clavers
+claves
 clavi
 clavichord
 clavichordist
@@ -26623,6 +26628,7 @@ crickey
 cricking
 cricks
 cricoid
+cricoids
 cried
 crier
 criers
@@ -28303,6 +28309,7 @@ dah
 dahabeah
 dahabeahs
 dahabiah
+dahabiahs
 dahabieh
 dahabiehs
 dahabiya
@@ -37660,6 +37667,7 @@ emptiers
 empties
 emptiest
 emptily
+emptinesses
 emptings
 emptins
 emptying
@@ -38061,6 +38069,7 @@ endoskeletal
 endoskeletons
 endosmos
 endosmoses
+endosome
 endosperms
 endospore
 endospores
@@ -40049,6 +40058,7 @@ eupepsy
 eupeptic
 euphausid
 euphausids
+euphausiid
 euphausiids
 euphemise
 euphemised
@@ -40645,6 +40655,7 @@ executioner
 executioners
 executions
 executives
+executorial
 executors
 executory
 executrices
@@ -54823,6 +54834,7 @@ honied
 honing
 honk
 honked
+honker
 honkers
 honkeys
 honkies
@@ -55475,6 +55487,7 @@ hulkier
 hulkiest
 hulks
 hulky
+hullabaloo
 hullabaloos
 hulled
 huller
@@ -57741,6 +57754,7 @@ inadvertence
 inadvertences
 inadvertencies
 inadvertency
+inadvertent
 inadvisability
 inadvisable
 inalienability
@@ -62333,6 +62347,7 @@ joseph
 josephs
 josh
 joshed
+josher
 joshers
 joshes
 joss
@@ -65873,6 +65888,7 @@ lewdnesses
 lewis
 lewises
 lewisite
+lewisites
 lewisson
 lewissons
 lex
@@ -69025,6 +69041,7 @@ manhunt
 manhunts
 mania
 maniac
+maniacal
 maniacally
 maniacs
 manias
@@ -77615,6 +77632,7 @@ noncompatible
 noncompetition
 noncompetitive
 noncompetitor
+noncomplex
 noncompliance
 noncompliances
 noncomplicated
@@ -86879,6 +86897,7 @@ perseveration
 perseverative
 persevere
 persevered
+perseveres
 persevering
 persiflage
 persiflages
@@ -93912,6 +93931,7 @@ protectorships
 protectory
 protectress
 protectresses
+protects
 protegees
 proteges
 protei
@@ -94808,6 +94828,7 @@ pupfish
 pupfishes
 pupil
 pupilage
+pupilar
 pupilary
 pupillages
 pupillary
@@ -99541,6 +99562,7 @@ relapser
 relapsers
 relapses
 relapsing
+relatable
 relate
 related
 relatedly
@@ -101705,6 +101727,7 @@ retroactions
 retroactive
 retroactively
 retroactivities
+retroactivity
 retrocede
 retroceded
 retrocedes
@@ -104133,6 +104156,7 @@ safariing
 safaris
 safe
 safecracking
+safecrackings
 safeguard
 safeguarded
 safeguarding
@@ -105840,6 +105864,7 @@ sclerotia
 sclerotial
 sclerotic
 sclerotin
+sclerotization
 sclerotizations
 sclerotized
 sclerous
@@ -105991,6 +106016,7 @@ scouts
 scow
 scowder
 scowdered
+scowed
 scowing
 scowled
 scowler
@@ -106286,6 +106312,7 @@ scullions
 sculls
 sculped
 sculping
+sculps
 sculpt
 sculpted
 sculptor
@@ -107029,6 +107056,7 @@ semicircle
 semicircles
 semicivilized
 semiclassic
+semiclassical
 semiclassics
 semicolon
 semicolonial
@@ -110105,6 +110133,7 @@ skycap
 skycaps
 skydive
 skydived
+skydivers
 skydives
 skydiving
 skydove
@@ -111520,6 +111549,7 @@ sock
 sockdolager
 sockdolagers
 sockdologer
+socked
 socket
 socketed
 socketing
@@ -112299,6 +112329,7 @@ sovereign
 sovereignly
 sovereigns
 sovereignties
+soviet
 sovietism
 sovietization
 sovietizations
@@ -119937,6 +119968,7 @@ taxicabs
 taxidermic
 taxidermies
 taxidermist
+taxidermists
 taxidermy
 taxies
 taximen
@@ -125945,6 +125977,7 @@ ulcerous
 ulcers
 ulemas
 ulexite
+ulexites
 ullage
 ullages
 ulna
@@ -132560,6 +132593,7 @@ washings
 washout
 washouts
 washrag
+washroom
 washstand
 washstands
 washup
@@ -135434,6 +135468,7 @@ yocked
 yocking
 yoctosecond
 yoctoseconds
+yod
 yodel
 yodeled
 yodelers
