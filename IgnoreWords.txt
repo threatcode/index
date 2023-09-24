@@ -400,6 +400,7 @@ accomplisher
 accomplishers
 accomplishment
 accomplishments
+accord
 accordance
 accordances
 accordant
@@ -1007,6 +1008,7 @@ adenoids
 adenoma
 adenomas
 adenomata
+adenomatous
 adenoses
 adenosine
 adenosines
@@ -7525,6 +7527,7 @@ avadavats
 avail
 availabilities
 availableness
+availably
 availed
 availing
 avails
@@ -13041,6 +13044,7 @@ bore
 boreas
 boreases
 borecole
+borecoles
 bored
 boredoms
 boreen
@@ -15829,6 +15833,7 @@ calendal
 calendared
 calendaring
 calendars
+calender
 calendered
 calenderers
 calendering
@@ -19728,6 +19733,7 @@ choral
 chorale
 chorales
 chorals
+chord
 chordal
 chordamesoderms
 chordate
@@ -20756,6 +20762,7 @@ clearstories
 clearstory
 clearweed
 clearweeds
+clearwing
 clearwings
 cleat
 cleated
@@ -23151,6 +23158,7 @@ concealable
 concealer
 concealers
 concealing
+concealment
 concealments
 conceded
 concededly
@@ -28308,6 +28316,7 @@ daleth
 daleths
 dalles
 dalliance
+dallied
 dallier
 dally
 dallying
@@ -38328,6 +38337,7 @@ enrobe
 enrobed
 enrober
 enrobers
+enrobes
 enrobing
 enrol
 enroll
@@ -39684,6 +39694,7 @@ estuarine
 esurience
 esurient
 esuriently
+et
 eta
 etageres
 etalon
@@ -39860,6 +39871,7 @@ etymologising
 etymologist
 etymologize
 etymologized
+etymologizes
 etymologizing
 etymons
 eucaines
@@ -41293,6 +41305,7 @@ extrasensory
 extrasystole
 extrasystoles
 extravagance
+extravagances
 extravagancy
 extravagant
 extravaganzas
@@ -58179,6 +58192,7 @@ indemnifier
 indemnifiers
 indemnifies
 indemnify
+indemnifying
 indemnities
 indemonstrable
 indemonstrably
@@ -63377,6 +63391,7 @@ kingless
 kinglet
 kinglets
 kingliest
+kingliness
 kinglinesses
 kingly
 kingmakers
@@ -67390,6 +67405,7 @@ lousier
 lousiest
 lousily
 lousinesses
+lousy
 lout
 louted
 louting
@@ -67542,6 +67558,7 @@ lucidness
 lucifer
 luciferase
 luciferin
+luciferous
 lucifers
 lucite
 lucites
@@ -73365,6 +73382,7 @@ moisturised
 moisturises
 moisturising
 moisturize
+moisturized
 moisturizer
 moisturizes
 moisturizing
@@ -73789,6 +73807,7 @@ monopolies
 monopolise
 monopolised
 monopolises
+monopolising
 monopolist
 monopolistic
 monopolists
@@ -80571,6 +80590,7 @@ originalities
 originality
 originals
 originate
+originated
 originates
 origination
 originative
@@ -84513,6 +84533,7 @@ parameciums
 paramedic
 paramedical
 parament
+paramenta
 paraments
 parameterized
 parameterizing
@@ -88739,6 +88760,7 @@ placaters
 placates
 placatingly
 placation
+placations
 placative
 placatory
 place
@@ -89372,6 +89394,7 @@ plucked
 plucker
 pluckers
 pluckier
+pluckiest
 pluckily
 pluckiness
 plucking
@@ -89441,6 +89464,7 @@ plundered
 plunderer
 plunderers
 plundering
+plunderous
 plunders
 plunge
 plunger
@@ -93376,6 +93400,7 @@ propagandizer
 propagandizers
 propagandizes
 propagate
+propagated
 propagates
 propagation
 propagations
@@ -105122,6 +105147,7 @@ scanner
 scanners
 scanning
 scannings
+scans
 scansion
 scansions
 scant
@@ -110915,6 +110941,7 @@ sniffed
 sniffer
 sniffers
 sniffier
+sniffiest
 sniffiness
 sniffinesses
 sniffish
@@ -115448,6 +115475,7 @@ structureless
 structures
 structuring
 strudel
+strudels
 struggle
 struggled
 struggler
@@ -115730,6 +115758,7 @@ subas
 subastral
 subatmospheric
 subatom
+subatoms
 subaudition
 subaural
 subaverage
@@ -117677,6 +117706,7 @@ surcingled
 surcingles
 surcingling
 surcoats
+surculose
 surd
 surds
 sure
@@ -118598,6 +118628,7 @@ syndesises
 syndesmoses
 syndesmosis
 syndetic
+syndetically
 syndets
 syndic
 syndical
@@ -122667,6 +122698,7 @@ tora
 torah
 torahs
 toras
+torc
 torchbearer
 torchbearers
 torched
@@ -122940,6 +122972,7 @@ touters
 touting
 touts
 touzled
+touzles
 tovarich
 tovariches
 tovarish
@@ -125984,6 +126017,7 @@ unalike
 unallayed
 unalleged
 unalleviated
+unallied
 unallocated
 unallowed
 unalluring
@@ -128163,6 +128197,7 @@ unreal
 unrealistically
 unrealities
 unreality
+unrealizable
 unrealized
 unreally
 unreason
