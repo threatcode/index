@@ -4305,6 +4305,7 @@ antepasts
 antependia
 antependium
 antepenult
+antepenultima
 antepenultimas
 anterior
 anteriorly
@@ -19537,6 +19538,7 @@ chital
 chitchat
 chitchats
 chitchatting
+chitinous
 chitins
 chitling
 chitlings
@@ -20438,6 +20440,7 @@ citric
 citriculture
 citriculturist
 citriculturists
+citrin
 citrine
 citrinin
 citrinins
@@ -28147,6 +28150,7 @@ cytochalasins
 cytochemical
 cytochemistries
 cytochemistry
+cytochromes
 cytogenetic
 cytogenetical
 cytogenetically
@@ -42426,6 +42430,7 @@ feather
 featherbed
 featherbedded
 featherbedding
+featherbeddings
 featherbeds
 featherbrain
 featherbrained
@@ -44227,6 +44232,7 @@ flexible
 flexile
 flexion
 flexional
+flexitime
 flexitimes
 flexographies
 flexography
@@ -46517,6 +46523,7 @@ frustrated
 frustrates
 frustrating
 frustratingly
+frustration
 frustules
 frustum
 frustums
@@ -55485,6 +55492,7 @@ hulk
 hulked
 hulkier
 hulkiest
+hulking
 hulks
 hulky
 hullabaloo
@@ -61711,6 +61719,7 @@ jaggy
 jaguar
 jaguarondi
 jaguarondis
+jaguarundis
 jail
 jailbait
 jailbird
@@ -65575,6 +65584,7 @@ leitmotiv
 leitmotivs
 lek
 lekked
+lekking
 leks
 leku
 lekvar
@@ -67330,6 +67340,7 @@ longshoremen
 longshoring
 longsighted
 longsightedness
+longsome
 longsomely
 longsomeness
 longsomenesses
@@ -73037,6 +73048,7 @@ misreporting
 misreports
 misrepresenting
 misrepresents
+misrhymed
 misroute
 misrouted
 misroutes
@@ -77646,6 +77658,7 @@ noncoms
 nonconcern
 nonconcerns
 nonconclusions
+nonconcur
 nonconcurred
 nonconcurrence
 nonconcurrences
@@ -78676,6 +78689,7 @@ nostoc
 nostologies
 nostril
 nostrils
+nostrum
 nostrums
 nosy
 not
@@ -79127,6 +79141,7 @@ nympholepsy
 nympholept
 nympholeptic
 nymphomania
+nymphomaniac
 nymphomaniacal
 nymphomaniacs
 nymphomanias
@@ -82999,6 +83014,7 @@ overmaster
 overmastered
 overmastering
 overmasters
+overmatched
 overmatching
 overmature
 overmaturity
@@ -86804,6 +86820,7 @@ permuted
 permutes
 permuting
 pernicious
+perniciously
 perniciousness
 pernio
 perniones
@@ -90281,6 +90298,7 @@ polyparies
 polyparium
 polypary
 polypeds
+polypeptides
 polypeptidic
 polyphagia
 polyphagias
@@ -91138,6 +91156,7 @@ pottiness
 pottinesses
 pottle
 pottles
+potto
 potty
 potzer
 potzers
@@ -91427,6 +91446,7 @@ preambled
 preamp
 preamplifier
 preamplifiers
+preamps
 preanal
 preannounce
 preannounced
@@ -92724,6 +92744,7 @@ preventible
 preventing
 preventions
 preventive
+preventively
 preventiveness
 preventives
 prevents
@@ -97437,6 +97458,7 @@ rebuy
 rebuying
 rebuys
 rec
+recalcitrancies
 recalculate
 recalculated
 recalculating
@@ -97808,6 +97830,7 @@ reconciliation
 reconciliations
 reconciliatory
 reconciling
+recondensed
 recondenses
 recondensing
 reconditely
@@ -101934,6 +101957,7 @@ reveries
 reverified
 reverifying
 revering
+revers
 reversal
 reversals
 reverse
@@ -102193,6 +102217,7 @@ rhabdoviruses
 rhachis
 rhachises
 rhadamanthine
+rhamnose
 rhamnus
 rhaphae
 rhaphe
@@ -104638,6 +104663,7 @@ sandgrouse
 sandgrouses
 sandhis
 sandhog
+sandhogs
 sandier
 sandiest
 sandinesses
@@ -105527,6 +105553,7 @@ sceneshifter
 sceneshifters
 scenic
 scenical
+scenically
 scenics
 scenographer
 scenographers
@@ -111646,6 +111673,7 @@ soignee
 soil
 soilage
 soilborne
+soiled
 soiling
 soilless
 soilures
@@ -111830,6 +111858,7 @@ solonets
 solonetses
 solonetz
 solonetzes
+solonetzic
 solons
 sols
 solstice
@@ -113591,6 +113620,7 @@ sprouted
 sprouting
 spruce
 spruced
+spruceness
 sprucer
 spruces
 sprucest
@@ -117866,6 +117896,7 @@ supples
 supplest
 suppletion
 suppletions
+suppletive
 suppletory
 suppliant
 suppliantly
@@ -124844,6 +124875,7 @@ trotline
 trotter
 trotters
 trotting
+trotyl
 trotyls
 troubadour
 troubadours
@@ -127318,6 +127350,7 @@ undisciplined
 undisclosed
 undiscouraged
 undiscovered
+undiscussed
 undisguised
 undisguisedly
 undismayed
@@ -128510,6 +128543,7 @@ unrelenting
 unrelentingly
 unreliabilities
 unreliability
+unreliable
 unrelieved
 unreluctant
 unremarkable
@@ -131958,6 +131992,7 @@ vouvray
 vow
 vowed
 vowelize
+vowelized
 vowelizes
 vowelizing
 vower
