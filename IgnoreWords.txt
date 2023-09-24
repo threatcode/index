@@ -5602,6 +5602,7 @@ arabicizing
 arabilities
 arabinose
 arabinoses
+arabinosides
 arabize
 arabizes
 arabizing
@@ -7003,6 +7004,7 @@ attainable
 attainder
 attainders
 attained
+attainer
 attainers
 attaining
 attainment
@@ -14709,6 +14711,7 @@ bugler
 bugleweeds
 bugling
 bugloss
+buglosses
 bugouts
 bugs
 bugseed
@@ -16219,6 +16222,7 @@ canalboats
 canaled
 canalicular
 canaliculus
+canalises
 canalising
 canalization
 canalizations
@@ -16773,6 +16777,7 @@ carambolas
 caramel
 caramelise
 caramelises
+caramelising
 caramelize
 caramelized
 caramelizes
@@ -16902,6 +16907,7 @@ carburized
 carburizes
 carburizing
 carcajou
+carcajous
 carcanet
 carcanets
 carcases
@@ -21004,6 +21010,7 @@ clippings
 clips
 clipsheet
 clipt
+clique
 cliques
 cliquier
 cliquiest
@@ -22547,6 +22554,7 @@ comatulids
 combat
 combatant
 combatants
+combated
 combating
 combative
 combatively
@@ -22934,6 +22942,7 @@ compassionated
 compassionates
 compassionating
 compassionless
+compassions
 compatibilities
 compatibility
 compatible
@@ -30978,6 +30987,7 @@ derringers
 derris
 derry
 dervish
+dervishes
 desacralize
 desacralized
 desacralizing
@@ -40963,6 +40973,7 @@ expansional
 expansionism
 expansionisms
 expansionist
+expansionistic
 expansionists
 expansions
 expansive
@@ -43110,6 +43121,7 @@ fibroblasts
 fibrocystic
 fibroid
 fibroids
+fibroin
 fibroins
 fibroma
 fibromas
@@ -49639,6 +49651,7 @@ goitrogens
 goitrous
 golconda
 golcondas
+gold
 goldarn
 goldbricked
 goldbricking
@@ -49841,6 +49854,7 @@ gorges
 gorget
 gorgeted
 gorgets
+gorging
 gorgon
 gorgonize
 gorgonized
@@ -51816,6 +51830,7 @@ hairless
 hairlessness
 hairlessnesses
 hairlike
+hairline
 hairlines
 hairlock
 hairlocks
@@ -53408,6 +53423,7 @@ hemicelluloses
 hemichordate
 hemichordates
 hemicycle
+hemicycles
 hemihydrated
 hemihydrates
 hemimetabolous
@@ -54322,6 +54338,7 @@ hive
 hived
 hiveless
 hives
+hiving
 hizzoner
 hm
 hmm
@@ -56407,6 +56424,7 @@ hypoglycemic
 hypoglycemics
 hypogynies
 hypogynous
+hypogyny
 hypoing
 hypokalemia
 hypokalemias
@@ -57431,6 +57449,7 @@ imperfective
 imperfectives
 imperfectly
 imperfectness
+imperfectnesses
 imperfects
 imperforate
 imperia
@@ -57964,6 +57983,7 @@ incarnates
 incarnating
 incarnations
 incase
+incased
 incases
 incasing
 incaution
@@ -61436,6 +61456,7 @@ isoglossal
 isoglossic
 isogon
 isogonal
+isogonals
 isogone
 isogones
 isogonic
@@ -63205,6 +63226,7 @@ kermis
 kern
 kerne
 kerned
+kernel
 kerneling
 kernelly
 kernes
@@ -70095,6 +70117,7 @@ mayos
 maypole
 maypop
 maypops
+mayst
 mayvin
 mayvins
 mayweed
@@ -74215,6 +74238,7 @@ moonshine
 moonshined
 moonshiner
 moonshiners
+moonshining
 moonshiny
 moonshot
 moonshots
@@ -76163,6 +76187,7 @@ nativistic
 nativists
 nativities
 natrium
+natriums
 natriureses
 natriuresis
 natriuretic
@@ -83743,6 +83768,7 @@ oxidise
 oxidised
 oxidiser
 oxidisers
+oxidising
 oxidizable
 oxidized
 oxidizer
@@ -87689,6 +87715,7 @@ phony
 phonying
 phorate
 phorates
+phoresies
 phoresy
 phoronid
 phoronids
@@ -102163,6 +102190,7 @@ revokers
 revoking
 revolter
 revolting
+revoltingly
 revolts
 revolute
 revolution
@@ -106124,6 +106152,7 @@ scouts
 scow
 scowder
 scowdered
+scowders
 scowed
 scowing
 scowled
@@ -106877,6 +106906,7 @@ seediest
 seedily
 seediness
 seedinesses
+seeding
 seedless
 seedling
 seedlings
@@ -109574,6 +109604,7 @@ silvas
 silverbacks
 silverberry
 silverer
+silverers
 silverfish
 silverfishes
 silveriness
@@ -121110,6 +121141,7 @@ tetrachords
 tetracid
 tetracycline
 tetracyclines
+tetrad
 tetradic
 tetradrachm
 tetrads
@@ -128679,6 +128711,7 @@ unrestricted
 unrests
 unretire
 unretired
+unretires
 unretiring
 unretouched
 unreturnable
@@ -131084,6 +131117,7 @@ vestry
 vestrymen
 vests
 vesturing
+vet
 vetch
 vetches
 vetchling
@@ -135971,6 +136005,7 @@ zincate
 zinced
 zincic
 zincified
+zincifying
 zincites
 zincking
 zincky
