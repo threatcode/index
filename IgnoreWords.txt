@@ -1941,6 +1941,7 @@ agnatic
 agnized
 agnizing
 agnomen
+agnomens
 agnomina
 agnosia
 agnosias
@@ -3226,6 +3227,7 @@ amenorrheic
 amens
 ament
 amentia
+amentiferous
 aments
 amerce
 amerced
@@ -6415,6 +6417,7 @@ asperating
 asperges
 aspergill
 aspergilla
+aspergilloses
 aspergills
 aspergillus
 asperities
@@ -7507,6 +7510,7 @@ autotoxins
 autotransformer
 autotroph
 autotrophic
+autotrophies
 autotrophy
 autotype
 autotypies
@@ -11635,6 +11639,7 @@ bizones
 bizzes
 blab
 blabber
+blabbering
 blabbermouths
 blabbers
 blabbing
@@ -15275,6 +15280,7 @@ butlery
 butles
 buts
 butt
+buttals
 butte
 butted
 butter
@@ -20403,6 +20409,7 @@ citole
 citoles
 citrals
 citrate
+citrated
 citreous
 citric
 citriculture
@@ -26440,6 +26447,7 @@ creepiest
 creepily
 creepiness
 creese
+creeses
 creeshed
 creeshes
 creeshing
@@ -38306,6 +38314,7 @@ enneads
 enneagon
 enneagons
 ennoble
+ennoblement
 ennoblements
 ennobler
 ennoblers
@@ -38331,6 +38340,7 @@ enophiles
 enorm
 enormities
 enormously
+enormousness
 enormousnesses
 enosis
 enosises
@@ -39426,6 +39436,7 @@ erst
 erstwhile
 eruct
 eructated
+eructates
 eructating
 eructation
 eructations
@@ -43990,6 +44001,7 @@ flatulently
 flatus
 flatuses
 flatwares
+flatwash
 flatwashes
 flatways
 flatwise
@@ -58980,6 +58992,7 @@ ingredients
 ingress
 ingresses
 ingression
+ingressions
 ingressive
 ingressiveness
 ingroup
@@ -63630,6 +63643,7 @@ knaps
 knapsack
 knapsacked
 knapsacks
+knapweed
 knapweeds
 knarry
 knars
@@ -64735,6 +64749,7 @@ laryngoscopy
 larynx
 larynxes
 lasagna
+lasagnas
 lasagne
 lasagnes
 lascar
@@ -67222,6 +67237,7 @@ longingly
 longings
 longish
 longitudes
+longitudinal
 longitudinally
 longjumped
 longjumping
@@ -68451,6 +68467,7 @@ maidenhood
 maidenliness
 maidenly
 maidens
+maidhood
 maidish
 maids
 maidservants
@@ -69492,6 +69509,7 @@ masculinist
 masculinists
 masculinities
 masculinity
+masculinization
 masculinize
 masculinizing
 maser
@@ -70858,6 +70876,7 @@ mesophyte
 mesoscale
 mesosome
 mesosomes
+mesospheres
 mesospheric
 mesothelioma
 mesotheliomata
@@ -73067,6 +73086,7 @@ misteuk
 misthink
 misthinks
 misthought
+misthrew
 mistier
 mistiest
 mistily
@@ -78632,6 +78652,7 @@ noticed
 noticers
 notices
 notifiable
+notifications
 notifier
 notifiers
 notifies
@@ -80036,6 +80057,7 @@ oncovirus
 ondogram
 ondograms
 one
+onefold
 oneiric
 oneirically
 oneiromancy
@@ -80809,6 +80831,7 @@ orthopteroids
 orthoptic
 orthorhombic
 orthoscopic
+orthoses
 orthostatic
 orthotic
 orthotics
@@ -88992,6 +89015,7 @@ planks
 plankter
 plankters
 plankton
+planktonic
 planktons
 planless
 planlessly
@@ -92049,6 +92073,7 @@ preoccupation
 preoccupied
 preoccupies
 preoccupy
+preop
 preopening
 preoperative
 preoperatively
@@ -101614,6 +101639,7 @@ retroflexes
 retroflexion
 retroflexions
 retrogradation
+retrograde
 retrograded
 retrogradely
 retrograding
@@ -102386,6 +102412,7 @@ riffs
 rifle
 riflebird
 riflebirds
+rifleman
 riflemen
 rifler
 rifleries
@@ -103358,6 +103385,7 @@ row
 rowable
 rowan
 rowanberry
+rowans
 rowboat
 rowboats
 rowdier
@@ -105370,6 +105398,7 @@ scavenged
 scavengers
 scavenges
 scavenging
+scena
 scenario
 scenarios
 scenarists
@@ -115028,6 +115057,7 @@ storeship
 storeships
 storewide
 storey
+storeyed
 storeys
 stories
 stork
@@ -118830,6 +118860,7 @@ synths
 syntonic
 syntony
 synura
+syph
 sypher
 syphers
 syphilises
@@ -122844,6 +122875,7 @@ toro
 toroid
 toroidal
 toroidally
+toroids
 toros
 torosities
 torosity
@@ -126428,6 +126460,7 @@ unceded
 uncelebrated
 unceremonious
 unceremoniously
+uncertain
 uncertainly
 uncertainness
 uncertainnesses
@@ -127271,6 +127304,7 @@ unemployment
 unemployments
 unenchanted
 unenclosed
+unencouraging
 unendearing
 unending
 unendingly
@@ -130582,6 +130616,7 @@ vergers
 verging
 verglas
 verglases
+veridic
 veridicalities
 veridically
 verier
