@@ -4146,6 +4146,7 @@ announcers
 announces
 announcing
 annoy
+annoyance
 annoyed
 annoying
 annoys
@@ -8895,6 +8896,7 @@ baronetage
 baronetcies
 baronets
 barong
+barongs
 baronies
 baronne
 baronnes
@@ -10204,6 +10206,7 @@ benadryls
 benamed
 bench
 bencher
+benchers
 benches
 benchland
 benchlands
@@ -14043,6 +14046,7 @@ brigadiers
 brigading
 brigand
 brigandage
+brigandine
 brigandines
 brigands
 brigantine
@@ -16974,6 +16978,7 @@ cared
 careen
 careened
 careener
+careeners
 careening
 careens
 career
@@ -18547,6 +18552,7 @@ chamisas
 chamise
 chamiso
 chammied
+chammy
 chamois
 chamoised
 chamoises
@@ -20279,6 +20285,7 @@ circling
 circuit
 circuital
 circuiting
+circuitous
 circuitously
 circuitousness
 circuitries
@@ -22789,6 +22796,7 @@ commonwealth
 commotions
 commove
 commoves
+commoving
 communalism
 communalist
 communalists
@@ -27628,6 +27636,7 @@ curlews
 curlicued
 curlicues
 curlicuing
+curlier
 curliest
 curlily
 curliness
@@ -32879,6 +32888,7 @@ disciple
 discipled
 discipleship
 discipleships
+disciplinable
 disciplinal
 disciplinarians
 disciplinarily
@@ -34953,6 +34963,7 @@ downtrod
 downtrodden
 downturn
 downturns
+downward
 downwardly
 downwardness
 downwardnesses
@@ -40778,6 +40789,7 @@ exhilaration
 exhilarations
 exhilarative
 exhort
+exhortation
 exhortations
 exhortative
 exhorted
@@ -44886,6 +44898,7 @@ fohn
 foible
 foibles
 foilable
+foiled
 foiling
 foils
 foilsman
@@ -47267,6 +47280,7 @@ gallicizes
 gallicizing
 gallied
 gallimaufry
+gallinaceous
 galling
 gallingly
 gallinipper
@@ -54575,6 +54589,7 @@ holystone
 holystoned
 holystones
 holystoning
+holytide
 holytides
 homager
 homagers
@@ -57058,6 +57073,7 @@ imitates
 imitating
 imitation
 imitative
+imitativeness
 imitativenesses
 imitator
 imitators
@@ -60048,6 +60064,7 @@ interflowing
 interfluve
 interfluvial
 interfold
+interfolded
 interfolding
 interfolds
 interfuses
@@ -63686,6 +63703,7 @@ klatsches
 klavern
 klaxon
 klebsiella
+klebsiellas
 kleenex
 kleenexes
 klepht
@@ -63743,6 +63761,7 @@ knapweeds
 knarry
 knars
 knave
+knavery
 knaves
 knavish
 knavishly
@@ -64783,6 +64802,7 @@ laree
 largando
 large
 largehearted
+largely
 largemouth
 largenesses
 larger
@@ -73400,6 +73420,7 @@ mobilization
 mobilizations
 mobilize
 mobilized
+mobilizer
 mobilizing
 mobocracies
 mobocracy
@@ -82907,6 +82928,7 @@ overhunting
 overhuntings
 overhunts
 overhype
+overhyped
 overhyping
 overidealize
 overidealized
@@ -84413,6 +84435,7 @@ panettoni
 panfishes
 panfries
 panfry
+panfrying
 panfuls
 pang
 pangas
@@ -90788,6 +90811,7 @@ positiveness
 positivenesses
 positiver
 positivisms
+positivist
 positivistic
 positivists
 positron
@@ -91294,6 +91318,7 @@ practicum
 practise
 practised
 practises
+practising
 practitioner
 practitioners
 praecipe
@@ -95230,6 +95255,7 @@ pyorrheas
 pyorrhoea
 pyorrhoeas
 pyoses
+pyosis
 pyracantha
 pyracanthas
 pyralid
@@ -100448,6 +100474,7 @@ replica
 replicabilities
 replicable
 replicas
+replicase
 replicases
 replicate
 replicates
@@ -109629,6 +109656,7 @@ simultaneities
 simultaneity
 simultaneous
 simultaneously
+sinapism
 since
 sincere
 sincerely
@@ -111454,6 +111482,7 @@ snuffers
 snuffily
 snuffing
 snuffle
+snuffled
 snuffler
 snufflier
 snuffliest
@@ -117124,6 +117153,7 @@ suits
 sukiyaki
 sukiyakis
 sukkah
+sukkot
 sukkoth
 sulcal
 sulcated
@@ -118854,6 +118884,7 @@ synagogal
 synagogue
 synalepha
 synalephas
+synaloepha
 synaloephas
 synanon
 synanons
@@ -120939,6 +120970,7 @@ terrorisms
 terrorist
 terroristic
 terrorists
+terrorization
 terrorizations
 terrorizing
 terrorless
@@ -131321,6 +131353,7 @@ villein
 villeins
 villenage
 villenages
+villi
 villiform
 villose
 villosity
@@ -133260,6 +133293,7 @@ weltering
 welters
 welterweight
 welterweights
+welting
 weltings
 weltschmerz
 wen
@@ -134625,6 +134659,7 @@ woodlands
 woodlark
 woodlarks
 woodless
+woodlore
 woodlores
 woodlot
 woodlots
