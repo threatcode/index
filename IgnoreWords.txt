@@ -6399,6 +6399,7 @@ ashes
 ashfall
 ashfalls
 ashier
+ashiest
 ashiness
 ashinesses
 ashing
@@ -10325,6 +10326,7 @@ benevolences
 benevolently
 benevolentness
 benighted
+benightedly
 benightedness
 benignancies
 benignancy
@@ -15833,6 +15835,7 @@ cajuput
 caked
 cakes
 cakewalked
+cakewalker
 cakewalkers
 cakewalking
 cakewalks
@@ -19828,6 +19831,7 @@ chondrocrania
 chondrocranium
 chondrocraniums
 chondroitin
+chondroitins
 chondroma
 chondromas
 chondromata
@@ -20073,6 +20077,7 @@ chrysalids
 chrysalises
 chrysanthemum
 chrysarobin
+chrysarobins
 chrysoberyl
 chrysoberyls
 chrysolite
@@ -24202,6 +24207,7 @@ constative
 constatives
 constellates
 constellating
+constellation
 constellations
 constellatory
 consternate
@@ -29167,6 +29173,7 @@ debuted
 debuting
 debuts
 debye
+decadal
 decadence
 decadences
 decadencies
@@ -31830,6 +31837,7 @@ dhow
 dhows
 dhurna
 dhurnas
+dhutis
 diabase
 diabasic
 diabetes
@@ -34792,6 +34800,7 @@ dopey
 dopeyness
 dopier
 dopiest
+dopily
 doping
 dopings
 doppelganger
@@ -40230,6 +40239,7 @@ eulogia
 eulogiae
 eulogias
 eulogise
+eulogised
 eulogises
 eulogising
 eulogist
@@ -41277,6 +41287,7 @@ explications
 explicative
 explicatively
 explicator
+explicators
 explicatory
 explicit
 explicitly
@@ -43072,6 +43083,7 @@ fervor
 fervors
 fervour
 fes
+fescennine
 fescue
 fescues
 fess
@@ -57108,6 +57120,7 @@ illiberalities
 illiberality
 illiberally
 illiberalness
+illiberalnesses
 illicit
 illicitly
 illimitable
@@ -64529,6 +64542,7 @@ lackered
 lackering
 lackey
 lackeyed
+lackeying
 lacking
 lackluster
 lacklusters
@@ -66715,6 +66729,7 @@ lindens
 lindies
 lindy
 lineable
+lineal
 linealities
 lineality
 lineally
@@ -67852,6 +67867,7 @@ loughs
 louie
 louies
 louis
+louma
 loumas
 lounge
 lounged
@@ -69040,6 +69056,7 @@ malariology
 malarious
 malarkey
 malarkeys
+malarkies
 malarky
 malaromas
 malars
@@ -70675,6 +70692,7 @@ megagametophyte
 megahertz
 megahit
 megahits
+megakaryocyte
 megakaryocytes
 megakaryocytic
 megaliths
@@ -74806,6 +74824,7 @@ mosts
 mot
 mote
 motel
+motels
 motes
 motet
 motets
@@ -77921,6 +77940,7 @@ nonbreakable
 nonbreathing
 nonbreeder
 nonbreeding
+nonbroadcast
 nonbuilding
 nonburnable
 noncabinet
@@ -83394,6 +83414,7 @@ overmaster
 overmastered
 overmastering
 overmasters
+overmatch
 overmatched
 overmatching
 overmature
@@ -83451,6 +83472,7 @@ overorganizes
 overorganizing
 overornament
 overornamented
+overornaments
 overpack
 overpackage
 overpackaged
@@ -89111,6 +89133,7 @@ pipe
 pipeage
 pipeages
 piped
+pipefish
 pipefishes
 pipeful
 pipefuls
@@ -92453,6 +92476,7 @@ preinvited
 preinviting
 prejudge
 prejudged
+prejudger
 prejudges
 prejudging
 prejudgment
@@ -96347,6 +96371,7 @@ quiring
 quirked
 quirkier
 quirkiest
+quirkinesses
 quirky
 quirted
 quirting
@@ -97613,6 +97638,7 @@ reamer
 reamers
 reaming
 reanalyses
+reanalysis
 reanalyze
 reanimate
 reanimated
@@ -102207,6 +102233,7 @@ retries
 retrievability
 retrieval
 retrieved
+retriever
 retrievers
 retrieves
 retrimmed
@@ -104046,6 +104073,7 @@ roystered
 roystering
 roysters
 rozzers
+ruana
 ruanas
 rub
 rubaboo
@@ -109563,6 +109591,7 @@ shutes
 shuteye
 shuteyes
 shuting
+shutoff
 shutoffs
 shutout
 shutouts
@@ -111622,6 +111651,7 @@ snappy
 snaps
 snapshooter
 snapshot
+snapshots
 snapshotted
 snapshotting
 snapweeds
@@ -113168,6 +113198,7 @@ spearmints
 spearwort
 spearworts
 spec
+specced
 speccing
 specialer
 specialest
@@ -121225,6 +121256,7 @@ tentacles
 tentages
 tentative
 tentativeness
+tentativenesses
 tentatives
 tented
 tenter
@@ -127263,6 +127295,7 @@ unchristian
 unchronicled
 unchurch
 unchurched
+unchurches
 unchurching
 unchurchly
 uncia
@@ -127320,6 +127353,7 @@ unclenches
 unclenching
 uncliched
 unclimbable
+unclinch
 unclinched
 unclinches
 unclinching
@@ -134277,6 +134311,7 @@ whitewasher
 whitewashes
 whitewashing
 whitewashings
+whitewing
 whitewood
 whitey
 whither
