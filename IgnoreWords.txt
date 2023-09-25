@@ -137,6 +137,7 @@ absorptions
 absorptive
 absorptivities
 absorptivity
+abstain
 abstained
 abstainer
 abstainers
@@ -227,6 +228,7 @@ abysms
 abysses
 acacia
 academe
+academes
 academia
 academias
 academic
@@ -2949,6 +2951,7 @@ alternant
 alternants
 alternated
 alternately
+alternates
 alternating
 alternation
 alternative
@@ -8742,6 +8745,7 @@ baptized
 baptizer
 baptizers
 baptizes
+baptizing
 bar
 barb
 barbal
@@ -18955,6 +18959,7 @@ chaster
 chastest
 chastise
 chastised
+chastisement
 chastisements
 chastiser
 chastises
@@ -29066,6 +29071,7 @@ debased
 debasements
 debaser
 debases
+debasing
 debatable
 debate
 debated
@@ -31101,6 +31107,7 @@ desalted
 desalters
 desalts
 desand
+desanded
 desands
 descant
 descanted
@@ -39802,6 +39809,7 @@ esnes
 esophagi
 esophagus
 esoteric
+esoterically
 esotericism
 esotericisms
 esotropia
@@ -39969,6 +39977,7 @@ etatist
 etcetera
 etceteras
 etcher
+etchings
 eternal
 eternalized
 eternalizes
@@ -41913,6 +41922,7 @@ fados
 fads
 faecal
 faena
+faenas
 faerie
 faeries
 faery
@@ -43908,6 +43918,7 @@ fissural
 fissured
 fissures
 fissuring
+fisted
 fistfight
 fistfights
 fistful
@@ -45666,6 +45677,7 @@ forgoers
 forgoes
 forgoing
 forgot
+forgotten
 forint
 forjudges
 fork
@@ -47778,6 +47790,7 @@ garishnesses
 garland
 garlanding
 garlic
+garlicked
 garlickier
 garlickiest
 garlicking
@@ -47965,6 +47978,7 @@ gatefold
 gatefolds
 gatehouse
 gatekeepers
+gatekeeping
 gateless
 gateman
 gatemen
@@ -54278,6 +54292,7 @@ hikes
 hila
 hilar
 hilarious
+hilariousness
 hilariousnesses
 hilarities
 hilarity
@@ -60072,6 +60087,7 @@ intensifiers
 intensifies
 intensional
 intensionally
+intensions
 intensities
 intensity
 intensive
@@ -62322,6 +62338,7 @@ jettying
 jetway
 jetways
 jeu
+jeux
 jew
 jewed
 jewel
@@ -66113,6 +66130,7 @@ levelly
 levelness
 levelnesses
 levels
+leverage
 leverages
 leveraging
 levered
@@ -71879,6 +71897,7 @@ microscale
 microscales
 microscope
 microscopes
+microscopic
 microscopical
 microscopies
 microscopists
@@ -73865,6 +73884,7 @@ molder
 moldered
 molders
 moldier
+moldiest
 moldiness
 moldinesses
 molding
@@ -73877,6 +73897,7 @@ molecularly
 molecule
 molecules
 molehill
+molehills
 moles
 moleskin
 moleskins
@@ -74347,6 +74368,7 @@ monstrosity
 monstrousness
 monstrousnesses
 montadales
+montaged
 montages
 montaging
 montagnard
@@ -74738,6 +74760,7 @@ mossiest
 mossinesses
 mosslike
 mossy
+most
 moste
 mostest
 mostests
@@ -75173,6 +75196,7 @@ mughal
 mughals
 mugworts
 mugwump
+mugwumps
 muhly
 mujahedeen
 mujahedin
@@ -78069,6 +78093,7 @@ nondepleting
 nondeposition
 nondepositions
 nondepressed
+nonderivative
 nondescript
 nondescriptive
 nondescripts
@@ -86964,6 +86989,7 @@ pericopal
 pericope
 pericopes
 pericrania
+pericranial
 pericranium
 pericycle
 pericycles
@@ -102158,6 +102184,7 @@ retrofired
 retrofires
 retrofiring
 retrofit
+retrofits
 retrofitted
 retrofitting
 retroflection
@@ -102628,6 +102655,7 @@ rhapsodizing
 rhapsody
 rhatany
 rhea
+rheas
 rheboks
 rhematic
 rheme
@@ -104397,6 +104425,7 @@ rye
 ryegrass
 ryegrasses
 rykes
+ryokan
 ryot
 ryots
 sab
@@ -111792,6 +111821,7 @@ snowfall
 snowfalls
 snowfield
 snowfields
+snowflake
 snowflakes
 snowier
 snowiest
@@ -112749,6 +112779,7 @@ sousaphone
 sousaphones
 souse
 soused
+souslik
 sousliks
 soutache
 soutanes
@@ -113737,6 +113768,7 @@ spodosol
 spodosols
 spodumenes
 spoil
+spoilable
 spoilage
 spoilages
 spoiler
@@ -114408,6 +114440,7 @@ staff
 staffer
 staffers
 staffing
+staffs
 stag
 stage
 stageable
@@ -124010,6 +124043,7 @@ trained
 trainee
 trainees
 traineeship
+traineeships
 trainer
 trainers
 trainful
@@ -135093,6 +135127,7 @@ woodenheads
 woodenness
 woodennesses
 woodenware
+woodgrain
 woodgrains
 woodhen
 woodie
