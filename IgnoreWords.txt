@@ -1203,6 +1203,7 @@ adonis
 adopt
 adoptabilities
 adoptability
+adoptable
 adoptee
 adoptees
 adopters
@@ -6132,6 +6133,7 @@ arroba
 arrobas
 arrogance
 arrogances
+arrogancy
 arrogant
 arrogantly
 arrogate
@@ -7951,6 +7953,7 @@ babul
 babuls
 babus
 babushka
+babushkas
 babydoll
 babydolls
 babyhoods
@@ -13262,6 +13265,7 @@ bottlebrushes
 bottled
 bottlefuls
 bottleneck
+bottlenecked
 bottlenecks
 bottler
 bottlers
@@ -13964,6 +13968,7 @@ breeks
 brees
 breezed
 breezeless
+breezes
 breezier
 breeziest
 breezily
@@ -25132,6 +25137,7 @@ corncrib
 corncribs
 cornea
 corneal
+corneas
 corned
 corneitis
 cornel
@@ -29734,6 +29740,7 @@ defibrillating
 defibrillation
 defibrillations
 defibrillators
+defibrinated
 defibrinates
 defibrinating
 defibrinations
@@ -30041,6 +30048,7 @@ deils
 deindustrialize
 deinonychuses
 deionizations
+deionize
 deionized
 deionizer
 deionizers
@@ -30779,6 +30787,7 @@ deplore
 deplored
 deplorer
 deplorers
+deplores
 deploring
 deploringly
 deploy
@@ -33650,6 +33659,7 @@ disposures
 dispraise
 dispraised
 dispraiser
+dispraisers
 dispraising
 dispraisingly
 dispread
@@ -38967,6 +38977,7 @@ eosinophil
 eosinophilia
 eosinophilias
 eosinophilic
+eosinophils
 eosins
 epacts
 eparch
@@ -39291,6 +39302,7 @@ epochs
 epode
 epodes
 eponym
+eponymous
 eponyms
 epopee
 epopees
@@ -48566,6 +48578,7 @@ gestative
 gestatory
 geste
 gestes
+gestical
 gesticulant
 gesticulate
 gesticulated
@@ -55668,6 +55681,7 @@ humaner
 humanest
 humanhoods
 humanises
+humanising
 humanism
 humanist
 humanistically
@@ -56092,6 +56106,7 @@ hydrophones
 hydrophyte
 hydrophytes
 hydropic
+hydroplane
 hydroplanes
 hydroplaning
 hydroponic
@@ -60853,6 +60868,7 @@ intruder
 intruders
 intrudes
 intruding
+intrusion
 intrusions
 intrusively
 intrusiveness
@@ -64037,6 +64053,7 @@ knucklebones
 knuckled
 knucklehead
 knuckleheaded
+knuckleheads
 knuckler
 knucklers
 knuckles
@@ -66603,6 +66620,7 @@ linearities
 linearity
 linearize
 linearized
+linearizes
 linearizing
 linearly
 lineate
@@ -73342,6 +73360,7 @@ misstopped
 misstopping
 misstops
 misstricken
+misstrikes
 misstriking
 misstruck
 misstyle
@@ -73832,6 +73851,7 @@ mollycoddlers
 mollycoddles
 mollymawks
 mols
+molt
 moltenly
 molter
 molters
@@ -78708,6 +78728,7 @@ nonvacant
 nonvalid
 nonvalidities
 nonvalidity
+nonvanishing
 nonvector
 nonvectors
 nonvegetarian
@@ -84343,6 +84364,7 @@ paleologies
 paleology
 paleomagnetic
 paleomagnetism
+paleomagnetisms
 paleomagnetists
 paleontologic
 paleontological
@@ -89669,6 +89691,7 @@ plebiscites
 plebs
 plecopteran
 plecopterans
+plectra
 plectrum
 pled
 pledge
@@ -94648,6 +94671,7 @@ psychologized
 psychologizing
 psychology
 psychometric
+psychometrician
 psychometrics
 psychometries
 psychometry
@@ -95056,6 +95080,7 @@ punk
 punka
 punkah
 punkas
+punkers
 punkey
 punkeys
 punkier
@@ -98521,6 +98546,7 @@ redigestions
 redigests
 redigress
 redigressed
+redigressing
 reding
 redingotes
 redintegrate
@@ -102771,6 +102797,7 @@ ridgiest
 ridgil
 ridgils
 ridging
+ridgling
 ridglings
 ridgy
 ridicule
@@ -107408,6 +107435,7 @@ semilethal
 semilethals
 semiliquid
 semiliquids
+semiliterate
 semiliterates
 semillon
 semillons
@@ -115544,6 +115572,7 @@ stotinov
 stott
 stotted
 stotting
+stotts
 stound
 stounded
 stounding
@@ -120636,6 +120665,7 @@ telemetrically
 telemetry
 telencephala
 telencephalic
+teleologic
 teleological
 teleologically
 teleologies
@@ -121266,6 +121296,7 @@ testamentary
 testaments
 testate
 testates
+testator
 testators
 testatrix
 testatrixes
@@ -121640,6 +121671,7 @@ thereon
 theres
 theretofore
 thereunder
+thereunto
 therewith
 theriac
 theriacal
@@ -123960,6 +123992,7 @@ transactions
 transactor
 transactors
 transacts
+transalpine
 transaminase
 transamination
 transaminations
@@ -128210,6 +128243,7 @@ unimportant
 unimposing
 unimpressed
 unimpressive
+unimproved
 unincorporated
 unindexed
 uninfected
@@ -131578,6 +131612,7 @@ vignettist
 vignettists
 vigorishes
 vigoroso
+vigorous
 vigorously
 vigorousness
 vigors
