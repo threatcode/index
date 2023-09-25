@@ -18383,6 +18383,7 @@ cerebrations
 cerebroside
 cerebrosides
 cerebrospinal
+cerebrovascular
 cerebrum
 cerebrums
 cerecloths
@@ -19612,6 +19613,7 @@ chiropters
 chirp
 chirped
 chirper
+chirpers
 chirpier
 chirpily
 chirping
@@ -20225,6 +20227,7 @@ chutzpahs
 chutzpas
 chyle
 chyles
+chylomicron
 chylous
 chymes
 chymist
@@ -21727,6 +21730,7 @@ cocktail
 cocktailed
 cocktailing
 cockup
+coco
 cocoa
 cocoanuts
 cocoas
@@ -22220,6 +22224,7 @@ coldhearted
 coldheartedly
 coldheartedness
 coldish
+coldly
 coldness
 coldnesses
 colds
@@ -23468,6 +23473,7 @@ concluder
 concluders
 concluding
 conclusion
+conclusive
 conclusiveness
 conclusory
 concoct
@@ -29332,6 +29338,7 @@ dechlorinates
 dechlorination
 deciare
 deciares
+decibel
 decidabilities
 decidability
 decidable
@@ -33646,12 +33653,14 @@ dispels
 dispended
 dispending
 dispends
+dispensability
 dispensable
 dispensaries
 dispensary
 dispensation
 dispensational
 dispensations
+dispensatories
 dispensatory
 dispense
 dispenser
@@ -35075,6 +35084,7 @@ downhiller
 downier
 downiness
 downinesses
+downland
 downlands
 downless
 downlight
@@ -40193,6 +40203,7 @@ eucalyptus
 eucalyptuses
 eucaryotes
 eucharises
+eucharistic
 euchre
 euchred
 euchres
@@ -40622,6 +40633,7 @@ exahertz
 exahertzes
 exaltation
 exaltations
+exalted
 exaltedly
 exalter
 exalters
@@ -47032,6 +47044,7 @@ funneled
 funnelform
 funneling
 funnelled
+funnelling
 funnels
 funner
 funnest
@@ -56251,6 +56264,7 @@ hydrospheric
 hydrostat
 hydrostatic
 hydrostatically
+hydrostatics
 hydrostats
 hydrotherapies
 hydrotherapy
@@ -59323,6 +59337,7 @@ ingatherings
 ingathers
 ingeniously
 ingeniousness
+ingeniousnesses
 ingenue
 ingenuities
 ingenuity
@@ -59501,6 +59516,7 @@ initiative
 initiatives
 initiator
 initiatory
+injectable
 injectables
 injectant
 injectants
@@ -64573,6 +64589,7 @@ lacquers
 lacquerware
 lacquerwares
 lacquerworks
+lacquey
 lacqueyed
 lacrimal
 lacrimals
@@ -68072,6 +68089,7 @@ lucites
 luck
 lucked
 luckie
+luckier
 luckies
 luckiness
 luckinesses
@@ -69258,6 +69276,7 @@ mammonists
 mammons
 mammoth
 mammoths
+mammy
 mamzer
 mamzers
 man
@@ -69943,6 +69962,7 @@ mascaraing
 mascarpones
 mascons
 mascot
+mascots
 masculine
 masculines
 masculinise
@@ -71242,6 +71262,7 @@ merrymaker
 merrymakers
 merrythought
 merrythoughts
+mesa
 mesalliance
 mesalliances
 mesally
@@ -72802,6 +72823,7 @@ misbehaving
 misbehavior
 misbehaviors
 misbelief
+misbeliefs
 misbelieved
 misbeliever
 misbelievers
@@ -73754,6 +73776,7 @@ mobilizations
 mobilize
 mobilized
 mobilizer
+mobilizers
 mobilizing
 mobocracies
 mobocracy
@@ -75201,6 +75224,7 @@ muddying
 mudfish
 mudfishes
 mudflap
+mudflaps
 mudflat
 mudflow
 mudguard
@@ -75974,6 +75998,7 @@ myelin
 myeline
 myelinic
 myelitides
+myelitis
 myeloblast
 myeloblasts
 myelocyte
@@ -79331,6 +79356,7 @@ nudity
 nudnick
 nudnicks
 nudnik
+nudzh
 nudzhed
 nudzhes
 nudzhing
@@ -84809,6 +84835,7 @@ panegyrically
 panegyrist
 panel
 paneling
+panelings
 panelist
 panelists
 panelized
@@ -87189,6 +87216,7 @@ peritoneums
 peritonitis
 peritonitises
 peritrich
+peritricha
 peritrichous
 peritrichously
 peritrichs
@@ -91072,6 +91100,7 @@ populistic
 populously
 populousness
 populousnesses
+porbeagle
 porcelain
 porcelainize
 porcelainizes
@@ -98216,6 +98245,7 @@ reclothes
 reclothing
 recluses
 reclusion
+reclusions
 reclusively
 reclusiveness
 recoal
@@ -104928,6 +104958,7 @@ salinizations
 salinizes
 salinizing
 salinometer
+salinometers
 saliva
 salivary
 salivas
@@ -105123,6 +105154,7 @@ samoyed
 samoyeds
 samp
 sampan
+sampans
 samphires
 sample
 sampled
@@ -108682,6 +108714,7 @@ shapeup
 shapeups
 shapewear
 shaping
+shard
 shards
 shareabilities
 shareability
@@ -112238,6 +112271,7 @@ softshell
 softshells
 software
 softwares
+softwood
 softwoods
 sogged
 soggiest
@@ -133648,6 +133682,7 @@ wearish
 wearisome
 wearisomenesses
 weary
+wearying
 weasand
 weasands
 weasel
