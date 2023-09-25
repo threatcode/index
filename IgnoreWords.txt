@@ -7073,6 +7073,7 @@ attitudinally
 attitudinise
 attitudinised
 attitudinises
+attitudinising
 attitudinize
 attitudinizing
 attorn
@@ -7792,6 +7793,7 @@ axiology
 axiom
 axiomatic
 axiomatically
+axiomatisation
 axiomatisations
 axiomatization
 axiomatizations
@@ -27407,6 +27409,7 @@ culexes
 culices
 culicid
 culicids
+culicine
 culicines
 culinarian
 culinarians
@@ -31016,6 +31019,7 @@ derrieres
 derries
 derringers
 derris
+derrises
 derry
 dervish
 dervishes
@@ -31846,6 +31850,7 @@ dialogic
 dialogical
 dialogically
 dialoging
+dialogist
 dialogistic
 dialogs
 dialogue
@@ -32464,6 +32469,7 @@ dimouts
 dimple
 dimples
 dimpling
+dims
 dimwits
 dimwitted
 din
@@ -33197,6 +33203,7 @@ disengages
 disengaging
 disentail
 disentailed
+disentailing
 disentails
 disentangle
 disentanglement
@@ -33430,6 +33437,7 @@ dislimned
 dislimns
 dislocate
 dislocated
+dislocates
 dislocating
 dislocation
 dislocations
@@ -34796,6 +34804,7 @@ dots
 dotted
 dottel
 dottels
+dotter
 dotterels
 dottier
 dottily
@@ -34850,6 +34859,7 @@ doughnut
 doughnutlike
 doughnuts
 doughs
+dought
 doughtier
 doughtiest
 doughtily
@@ -35449,6 +35459,7 @@ droops
 droopy
 drop
 dropcloth
+dropforge
 dropforged
 dropforges
 dropforging
@@ -36853,6 +36864,7 @@ egression
 egressions
 egret
 egrets
+egyptians
 eh
 eicosanoid
 eide
@@ -52932,6 +52944,7 @@ headpiece
 headpieces
 headpin
 headpins
+headquarter
 headquartered
 headquartering
 headrace
@@ -55668,6 +55681,7 @@ humbugging
 humbugs
 humdinger
 humdingers
+humdrums
 humectant
 humectants
 humeral
@@ -58650,6 +58664,7 @@ indorsements
 indorsers
 indorsing
 indorsor
+indorsors
 indowed
 indowing
 indows
@@ -67022,6 +67037,7 @@ livid
 lividities
 lividity
 lividly
+lividness
 lividnesses
 livier
 liviers
@@ -67956,6 +67972,7 @@ luminesced
 luminescence
 luminescences
 luminescent
+luminesces
 luminiferous
 luminisms
 luminist
@@ -71766,6 +71783,7 @@ microspores
 microsporocyte
 microsporocytes
 microsporophyll
+microsporous
 microstates
 microstructural
 microstructure
@@ -74366,6 +74384,7 @@ moquettes
 mor
 mora
 morae
+morainal
 moraine
 moraines
 morainic
@@ -77695,6 +77714,7 @@ nonbinary
 nonbiographical
 nonbiological
 nonbiologically
+nonbiologist
 nonbiologists
 nonbiting
 nonblack
@@ -79851,6 +79871,7 @@ oddnesses
 odds
 oddsmaker
 ode
+odeon
 odeons
 odeum
 odeums
@@ -87516,6 +87537,7 @@ phat
 phatic
 phatically
 phatter
+phattest
 pheasant
 pheasants
 phellem
@@ -96514,6 +96536,7 @@ raided
 raider
 raiders
 raids
+rail
 railbus
 railbuses
 railbusses
@@ -99443,6 +99466,7 @@ rehired
 rehiring
 rehoboams
 rehospitalize
+rehospitalized
 rehospitalizing
 rehouse
 rehouses
@@ -107486,6 +107510,7 @@ senhoritas
 senile
 senilely
 senilities
+senior
 seniority
 senna
 sennachies
@@ -110233,6 +110258,7 @@ skimpinesses
 skimping
 skimps
 skimpy
+skims
 skin
 skinflick
 skinflicks
@@ -111631,6 +111657,7 @@ snuffbox
 snuffboxes
 snuffer
 snuffers
+snuffier
 snuffily
 snuffing
 snuffle
@@ -117320,6 +117347,7 @@ sulcus
 suldan
 sulfa
 sulfadiazine
+sulfadiazines
 sulfas
 sulfatase
 sulfatases
@@ -119418,6 +119446,7 @@ tachyons
 tacit
 tacitness
 tacitnesses
+taciturn
 taciturnities
 taciturnity
 tack
@@ -121475,6 +121504,7 @@ theocentricity
 theocentrism
 theocracies
 theocracy
+theocrat
 theocratic
 theocratical
 theocratically
@@ -122871,6 +122901,7 @@ tolerate
 tolerated
 toleration
 tolerative
+tolerator
 tolerators
 toles
 tolidin
@@ -128132,6 +128163,7 @@ uninoculated
 uninspected
 uninspiring
 uninstall
+uninstalled
 uninstalling
 uninstalls
 uninstructed
@@ -129123,6 +129155,7 @@ unsteadier
 unsteadies
 unsteadily
 unsteadiness
+unsteady
 unsteadying
 unsteel
 unsteeled
@@ -129980,6 +130013,7 @@ urologists
 urology
 uropod
 uropodal
+uropodous
 uropygia
 uropygial
 uropygium
@@ -132392,6 +132426,7 @@ waesuck
 waesucks
 wafered
 wafering
+wafers
 waff
 waffed
 waffie
