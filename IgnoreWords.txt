@@ -2616,6 +2616,7 @@ alkyls
 alkyne
 all
 allanite
+allantoic
 allantoid
 allantoides
 allantoids
@@ -6108,6 +6109,7 @@ arrearage
 arrearages
 arrears
 arrest
+arrested
 arrestee
 arrestees
 arrester
@@ -7022,6 +7024,7 @@ attainer
 attainers
 attaining
 attainment
+attainments
 attains
 attainted
 attainting
@@ -8450,6 +8453,7 @@ ballasting
 ballcarrier
 ballcarriers
 balled
+baller
 ballerina
 ballerinas
 ballers
@@ -12258,6 +12262,7 @@ bloviates
 bloviating
 bloviation
 bloviations
+blow
 blowback
 blowball
 blowby
@@ -19223,6 +19228,7 @@ cherimoyas
 cherish
 cherishable
 cherished
+cherisher
 cherishers
 cherishes
 cherishing
@@ -19278,6 +19284,7 @@ cheviot
 cheviots
 chevre
 chevres
+chevret
 chevrets
 chevrons
 chevy
@@ -25954,6 +25961,7 @@ courlans
 coursed
 courseware
 coursing
+coursings
 court
 courted
 courteously
@@ -26990,6 +26998,7 @@ crossjack
 crossjacks
 crosslet
 crosslets
+crossly
 crossness
 crossover
 crossovers
@@ -29978,6 +29987,7 @@ degradedly
 degrader
 degraders
 degrades
+degradingly
 degranulation
 degranulations
 degrease
@@ -31568,6 +31578,7 @@ devaluation
 devaluations
 devalue
 devalues
+devaluing
 devas
 devastate
 devastated
@@ -31844,6 +31855,7 @@ diagonally
 diagonals
 diagram
 diagramed
+diagraming
 diagrammable
 diagrammatic
 diagrammed
@@ -32979,6 +32991,7 @@ dischargees
 discharger
 dischargers
 discharges
+disci
 disciple
 discipled
 discipleship
@@ -36291,6 +36304,7 @@ earning
 earphone
 earphones
 earpiece
+earpieces
 earplug
 earplugs
 earring
@@ -47316,6 +47330,7 @@ galactosemia
 galactosemias
 galactosemic
 galactosidase
+galactosidases
 galactoside
 galactosides
 galactosyls
@@ -58894,6 +58909,7 @@ inexactness
 inexactnesses
 inexcusableness
 inexcusably
+inexhaustible
 inexistence
 inexistences
 inexistent
@@ -60839,6 +60855,7 @@ intro
 introduce
 introduced
 introducers
+introduces
 introductorily
 introductory
 introfy
@@ -61867,6 +61884,7 @@ jackrolled
 jackrolls
 jacks
 jackscrew
+jackshaft
 jackshafts
 jacksmelts
 jacksnipes
@@ -77643,6 +77661,7 @@ noisy
 nolos
 nom
 noma
+nomadic
 nomadism
 nomads
 nomarch
@@ -80766,6 +80785,7 @@ optimizes
 optimum
 optimums
 option
+optional
 optionalities
 optionality
 optionals
@@ -83134,6 +83154,7 @@ overhold
 overholds
 overholy
 overhomogenize
+overhomogenized
 overhomogenizes
 overhonor
 overhonored
@@ -84762,6 +84783,7 @@ pantomime
 pantomimed
 pantomimes
 pantomimic
+pantomiming
 pantomimist
 pantomimists
 pantos
@@ -86106,6 +86128,7 @@ pectin
 pectinaceous
 pectination
 pectinesterase
+pectinesterases
 pectins
 pectize
 pectized
@@ -86257,6 +86280,7 @@ peephole
 peeping
 peeps
 peepshows
+peepuls
 peer
 peerages
 peered
@@ -86485,6 +86509,7 @@ penitents
 penknife
 penknives
 penlight
+penlights
 penlites
 penman
 penmanship
@@ -90855,6 +90880,7 @@ popper
 poppet
 poppets
 poppied
+poppies
 popping
 poppled
 poppy
@@ -91379,6 +91405,7 @@ potentilla
 potentillas
 potentiometers
 potentiometric
+potently
 potful
 potfuls
 potheads
@@ -91512,6 +91539,7 @@ poutines
 pouting
 poverties
 poverty
+pow
 powdered
 powderer
 powderers
@@ -107383,6 +107411,7 @@ semblable
 semblables
 semblably
 semeiologies
+semeiotic
 semeiotics
 sememe
 sememes
@@ -123855,6 +123884,7 @@ traditional
 traditionalism
 traditionalisms
 traditionalists
+traditionalize
 traditionalized
 traditionalizes
 traditionally
@@ -127328,6 +127358,7 @@ uncurls
 uncursed
 uncustomarily
 uncustomary
+uncut
 uncute
 uncynical
 uncynically
@@ -129804,6 +129835,7 @@ uploads
 upmanships
 upmost
 upo
+upon
 upped
 upper
 uppercase
@@ -133724,6 +133756,7 @@ whacking
 whacks
 whale
 whaleback
+whaleboat
 whaleboats
 whalebone
 whalebones
@@ -134228,6 +134261,7 @@ widdershins
 widdie
 widdies
 widdle
+widdled
 wide
 wideawake
 wideawakes
@@ -135780,6 +135814,7 @@ yearbook
 yearbooks
 yearend
 yearends
+yearling
 yearlings
 yearlong
 yearn
