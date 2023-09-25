@@ -2953,6 +2953,7 @@ alternating
 alternation
 alternative
 alternativeness
+alternatives
 alternator
 alternators
 alters
@@ -21760,6 +21761,7 @@ coddles
 coddling
 code
 codebook
+codebtor
 codebtors
 codecs
 coded
@@ -22476,6 +22478,7 @@ colonizationist
 colonized
 colonizers
 colonizes
+colonizing
 colonnade
 colonnaded
 colonnades
@@ -26844,6 +26847,7 @@ criterial
 criterion
 criterions
 criterium
+criteriums
 critical
 criticalities
 critically
@@ -27090,6 +27094,7 @@ crowning
 crownless
 crows
 crowsfeet
+crowstep
 crowstepped
 croze
 crozer
@@ -28448,6 +28453,7 @@ daimen
 daimio
 daimios
 daimon
+daimonic
 daimons
 daimyo
 daimyos
@@ -29594,6 +29600,7 @@ deductibilities
 deductibility
 deductible
 deductibles
+deducting
 deduction
 deductions
 deductively
@@ -30239,6 +30246,7 @@ deliriousnesses
 delirium
 deliriums
 delis
+delish
 delist
 delisting
 delists
@@ -35214,6 +35222,7 @@ drainpipe
 drainpipes
 drains
 drake
+dram
 drama
 dramadies
 dramady
@@ -37046,6 +37055,7 @@ elaters
 elates
 elating
 elations
+elative
 elatives
 elbowing
 elderberries
@@ -40953,6 +40963,7 @@ exiguousness
 exiguousnesses
 exilable
 exile
+exiler
 exiles
 exilic
 exiling
@@ -47161,6 +47172,7 @@ futurisms
 futurist
 futuristic
 futuristically
+futurists
 futurities
 futurity
 futurological
@@ -48546,6 +48558,7 @@ germander
 germanders
 germane
 germanely
+germanic
 germanium
 germaniums
 germanization
@@ -50964,6 +50977,7 @@ grosbeaks
 groschen
 grosgrain
 grosgrains
+grossed
 grosser
 grossers
 grosses
@@ -52227,6 +52241,7 @@ hamstringing
 hamstrings
 hamulate
 hamuli
+hamulose
 hamulous
 hamulus
 hamza
@@ -56006,6 +56021,7 @@ hybridists
 hybridities
 hybridizations
 hybridize
+hybridized
 hybridizer
 hybridizers
 hybridizes
@@ -56507,6 +56523,7 @@ hypnology
 hypnopompic
 hypnoses
 hypnosis
+hypnotherapies
 hypnotherapist
 hypnotherapists
 hypnotherapy
@@ -73851,6 +73868,7 @@ moldier
 moldiness
 moldinesses
 molding
+moldings
 molds
 moldwarp
 moldwarps
@@ -76337,6 +76355,7 @@ natant
 natantly
 natation
 natations
+natatorial
 natatorium
 natatoriums
 natatory
@@ -76535,6 +76554,7 @@ nebular
 nebulas
 nebule
 nebulised
+nebulises
 nebulising
 nebulize
 nebulized
@@ -80516,6 +80536,7 @@ onychophoran
 onychophorans
 onyx
 onyxes
+oocysts
 oocytes
 oodles
 oodlins
@@ -89124,6 +89145,7 @@ pirozhok
 pis
 piscator
 piscatorial
+piscators
 piscatory
 pisciform
 piscina
@@ -90968,6 +90990,7 @@ porisms
 pork
 porked
 porker
+porkers
 porkies
 porkiest
 porkpie
@@ -98350,6 +98373,7 @@ recreancy
 recreant
 recreants
 recreate
+recreated
 recreates
 recreating
 recreationists
@@ -98461,6 +98485,7 @@ recyclables
 recycle
 recycled
 recycler
+recyclers
 recycles
 recycling
 red
@@ -103217,6 +103242,7 @@ rive
 riven
 river
 riverbank
+riverbanks
 riverbed
 riverbeds
 riverboat
@@ -103245,6 +103271,7 @@ rivieras
 riviere
 riving
 rivulets
+rivulose
 riyal
 roach
 roached
@@ -109902,6 +109929,7 @@ silversmiths
 silverware
 silverwares
 silverweed
+silvery
 silvex
 silvexes
 silvics
@@ -117942,6 +117970,7 @@ supererogation
 supererogations
 supererogatory
 superette
+superettes
 superexpensive
 superexpress
 superexpresses
@@ -119510,6 +119539,7 @@ tabanids
 tabard
 tabarded
 tabards
+tabaret
 tabarets
 tabbed
 tabbises
@@ -120410,6 +120440,7 @@ tawsed
 tawsing
 tax
 taxa
+taxable
 taxables
 taxably
 taxation
@@ -123077,6 +123108,7 @@ tolerabilities
 tolerability
 tolerable
 tolerably
+tolerance
 tolerances
 tolerant
 tolerantly
@@ -125079,6 +125111,7 @@ trisecting
 trisection
 trisector
 trisectors
+trisects
 triseme
 trisemic
 trishaw
@@ -129823,6 +129856,7 @@ upheavers
 upheaves
 upheaving
 upheld
+uphill
 uphills
 uphoard
 uphoarded
@@ -130217,6 +130251,7 @@ uropygium
 uropygiums
 uroscopic
 uroscopies
+uroscopy
 urostyle
 urostyles
 urp
