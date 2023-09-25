@@ -6794,6 +6794,7 @@ astrobiology
 astrocyte
 astrocytes
 astrocytoma
+astrocytomata
 astrodomes
 astrolabe
 astrologer
@@ -10921,6 +10922,7 @@ bicycled
 bicycles
 bicyclic
 bicycling
+bicyclist
 bicyclists
 bid
 bidarka
@@ -11335,6 +11337,7 @@ biologist
 biologistic
 biologists
 bioluminescence
+bioluminescent
 biolyses
 biolysis
 biolytic
@@ -23135,6 +23138,7 @@ completion
 completions
 completive
 complex
+complexation
 complexations
 complexed
 complexer
@@ -24266,6 +24270,7 @@ construable
 construal
 construals
 construct
+constructing
 construction
 constructional
 constructionist
@@ -27890,6 +27895,7 @@ curvetted
 curvetting
 curviest
 curvilinear
+curving
 curvy
 cuscuses
 cusec
@@ -32440,6 +32446,7 @@ digressed
 digressing
 digressional
 digressively
+digs
 dihedral
 dihedrals
 dihedron
@@ -33345,6 +33352,7 @@ diseurs
 diseuse
 diseuses
 disfavored
+disfavoring
 disfavors
 disfavour
 disfavoured
@@ -36940,6 +36948,7 @@ egesting
 egestive
 eggar
 eggars
+eggcup
 eggcups
 egged
 egger
@@ -38221,6 +38230,7 @@ endodontics
 endodontists
 endoenzymes
 endoergic
+endogamic
 endogamy
 endogenic
 endogenies
@@ -38486,6 +38496,7 @@ engrosser
 engrossers
 engrosses
 engrossing
+engrossingly
 engrossment
 engrossments
 engs
@@ -50806,6 +50817,7 @@ gremlins
 gremmie
 gremmies
 gremmy
+grenade
 grenades
 grenadier
 grenadiers
@@ -58360,6 +58372,7 @@ incognita
 incognitas
 incognito
 incognitos
+incognizances
 incognizant
 incogs
 incoherent
@@ -62126,6 +62139,7 @@ japanizing
 japanned
 japanner
 japanners
+japanning
 japans
 jape
 japed
@@ -68226,6 +68240,7 @@ lunchboxes
 lunched
 luncheon
 luncheonette
+luncheonettes
 lunchers
 lunches
 lunching
@@ -69380,6 +69395,7 @@ manganate
 manganates
 manganese
 manganeses
+manganesian
 manganic
 manganin
 manganite
@@ -70774,6 +70790,7 @@ megatheres
 megaton
 megatonnage
 megatonnages
+megatons
 megavitamin
 megavitamins
 megavolt
@@ -77874,6 +77891,7 @@ nonacceptance
 nonacceptances
 nonaccredited
 nonaccrual
+nonachievement
 nonachievements
 nonacid
 nonacidic
@@ -84255,6 +84273,7 @@ paces
 pacesetter
 pacesetters
 pacesetting
+pacey
 pachadom
 pachadoms
 pachalic
@@ -84851,6 +84870,7 @@ panettone
 panettones
 panettoni
 panfishes
+panfried
 panfries
 panfry
 panfrying
@@ -89916,6 +89936,7 @@ plebs
 plecopteran
 plecopterans
 plectra
+plectron
 plectrum
 pled
 pledge
@@ -90789,6 +90810,7 @@ polyparies
 polyparium
 polypary
 polypeds
+polypeptide
 polypeptides
 polypeptidic
 polyphagia
@@ -91674,6 +91696,7 @@ poufs
 poulard
 poularde
 poulardes
+poulards
 poult
 poulter
 poulterer
@@ -94589,6 +94612,7 @@ protozoologist
 protozoologists
 protozoology
 protozoon
+protozoons
 protract
 protracted
 protractile
@@ -95228,6 +95252,7 @@ puma
 pumas
 pumelo
 pumice
+pumiced
 pumicer
 pumicers
 pumicing
@@ -97693,6 +97718,7 @@ reaming
 reanalyses
 reanalysis
 reanalyze
+reanalyzed
 reanimate
 reanimated
 reanimates
@@ -97725,6 +97751,7 @@ reapply
 reapplying
 reappointed
 reappointing
+reappointment
 reappointments
 reappoints
 reapportioned
@@ -100464,6 +100491,7 @@ reminted
 reminting
 remints
 remise
+remised
 remises
 remising
 remissible
@@ -102776,6 +102804,7 @@ rhamnus
 rhaphae
 rhaphe
 rhaphes
+rhapsode
 rhapsodic
 rhapsodical
 rhapsodies
@@ -106766,6 +106795,7 @@ scribes
 scribing
 scries
 scrieve
+scrieves
 scrieving
 scrim
 scrimmage
@@ -114346,6 +114376,7 @@ squalidly
 squalled
 squallers
 squallier
+squalliest
 squalling
 squallish
 squalls
@@ -118060,6 +118091,7 @@ superalloys
 superalterns
 superambitious
 superannuate
+superannuated
 superannuates
 superannuating
 superannuation
@@ -130336,6 +130368,7 @@ urbanest
 urbanisation
 urbanisations
 urbanise
+urbanised
 urbanises
 urbanising
 urbanisms
@@ -135868,6 +135901,7 @@ xeriscapes
 xeroderma
 xerodermae
 xerodermas
+xerographic
 xerographically
 xerographies
 xerography
@@ -136679,6 +136713,7 @@ zoeal
 zoecia
 zoic
 zoisite
+zoisites
 zombie
 zombielike
 zombies
