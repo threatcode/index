@@ -1280,6 +1280,7 @@ adulterated
 adulterates
 adulterating
 adulterations
+adulterator
 adulterators
 adulterer
 adulterers
@@ -4144,6 +4145,7 @@ annona
 annonas
 annotate
 annotates
+annotating
 annotation
 annotative
 annotator
@@ -10245,6 +10247,7 @@ benchmark
 benchmarked
 benchmarking
 benchmarks
+benchtop
 benchwarmer
 benchwarmers
 bend
@@ -12203,6 +12206,7 @@ bloodstream
 bloodstreams
 bloodsucker
 bloodsuckers
+bloodsucking
 bloodthirstily
 bloodthirsty
 bloodworm
@@ -12944,6 +12948,7 @@ book
 bookable
 bookbinder
 bookbinderies
+bookbinders
 bookbindery
 bookbinding
 bookcase
@@ -23388,6 +23393,7 @@ conchoid
 conchoidal
 conchoidally
 conchoids
+conchologies
 conchologists
 conchology
 conchos
@@ -25242,6 +25248,7 @@ corotation
 corotations
 corpora
 corporal
+corporalities
 corporality
 corporally
 corporals
@@ -30744,6 +30751,7 @@ dependence
 dependences
 dependency
 dependent
+dependently
 dependents
 depending
 depeople
@@ -35144,6 +35152,7 @@ dragee
 dragees
 dragged
 dragger
+draggers
 draggier
 draggiest
 dragging
@@ -41748,6 +41757,7 @@ facecloths
 facedown
 facedowns
 faceless
+facelessness
 facelessnesses
 facelift
 facelifted
@@ -43008,6 +43018,7 @@ festally
 fester
 festers
 festinate
+festinated
 festinates
 festinating
 festivals
@@ -52336,6 +52347,7 @@ hangbirds
 hangdogs
 hanged
 hanger
+hangfire
 hangfires
 hanging
 hangings
@@ -60870,6 +60882,7 @@ intrudes
 intruding
 intrusion
 intrusions
+intrusive
 intrusively
 intrusiveness
 intrusives
@@ -65282,6 +65295,7 @@ laveers
 lavender
 lavendered
 lavendering
+lavenders
 laverock
 laverocks
 laves
@@ -69545,6 +69559,7 @@ mares
 margarine
 margarines
 margarins
+margarita
 margarites
 margays
 margented
@@ -79857,6 +79872,7 @@ octahedral
 octahedron
 octahedrons
 octal
+octameters
 octan
 octanes
 octangle
@@ -79984,6 +80000,7 @@ odyles
 odyls
 odysseys
 oecologies
+oecumenical
 oedema
 oedemas
 oedemata
@@ -81314,6 +81331,7 @@ osteopathy
 osteoplasties
 osteoplasty
 osteoporoses
+osteoporosis
 osteoporotic
 osteosarcomas
 osteosarcomata
@@ -81609,6 +81627,7 @@ outcomes
 outcompete
 outcompeted
 outcompetes
+outcompeting
 outcook
 outcooked
 outcooking
@@ -83288,6 +83307,7 @@ overmuscled
 overnear
 overneat
 overnew
+overnice
 overnight
 overnighted
 overnighter
@@ -86584,6 +86604,7 @@ pentoses
 pentosides
 pentoxide
 pentstemon
+penuche
 penuches
 penuchi
 penuchis
@@ -88296,6 +88317,7 @@ phytoid
 phytol
 phytoliths
 phytologies
+phytology
 phytols
 phyton
 phytonic
@@ -90375,6 +90397,7 @@ pollinator
 polling
 pollinia
 pollinium
+pollinize
 pollinized
 pollinizers
 pollinoses
@@ -90496,6 +90519,7 @@ polyglottisms
 polygon
 polygonally
 polygonies
+polygons
 polygonums
 polygony
 polygraph
@@ -93110,6 +93134,7 @@ pricks
 pricky
 pricy
 prided
+prideful
 pridefulnesses
 prides
 priding
@@ -95793,6 +95818,7 @@ quantally
 quantic
 quantification
 quantifications
+quantifier
 quantifiers
 quantifies
 quantify
@@ -98289,6 +98315,7 @@ recriminatory
 recrosses
 recrossing
 recrown
+recrowned
 recrowning
 recrowns
 recrudesced
@@ -98485,6 +98512,7 @@ redemptioner
 redemptioners
 redemptions
 redemptive
+redenied
 redenies
 redeny
 redenying
@@ -109678,6 +109706,7 @@ signior
 signiories
 signiors
 signiory
+signor
 signora
 signoras
 signore
@@ -113251,6 +113280,7 @@ spicated
 spiccato
 spiccatos
 spice
+spicebush
 spicebushes
 spiceless
 spicer
@@ -122159,6 +122189,7 @@ thrones
 thronged
 thronging
 throning
+throstle
 throttled
 throttlehold
 throttler
@@ -126114,6 +126145,7 @@ twitchers
 twitches
 twitchier
 twitchiest
+twitching
 twitchy
 twitted
 twitter
@@ -132897,6 +132929,7 @@ warmnesses
 warmonger
 warmongerings
 warmouth
+warmouths
 warms
 warmth
 warmup
@@ -133017,6 +133050,7 @@ washy
 waspier
 waspiest
 waspinesses
+waspishly
 wasps
 waspy
 wassailer
@@ -136195,6 +136229,7 @@ zerks
 zero
 zeroed
 zeroes
+zeroing
 zeros
 zeroth
 zest
