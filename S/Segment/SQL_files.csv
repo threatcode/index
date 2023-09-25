@@ -1,0 +1,19 @@
+segment/models/sessionization/segment_web_sessions.sql at main,https://github.com/fishtown-analytics/segment/blob/master/models/sessionization/segment_web_sessions.sql
+segment/analysis/mode_queries/audience_overview.sql at main,https://github.com/fishtown-analytics/segment/blob/master/analysis/mode_queries/audience_overview.sql
+run_parameter_details.sql,https://docs.oracle.com/cd/E92920_01/PDF/8.0.6.0.0/run_parameter_details.sql
+run_parameters_lov.sql,https://docs.oracle.com/cd/E92920_01/PDF/8.0.6.0.0/run_parameters_lov.sql
+web.mit.edu/ops/services/moira.old/oracle/crdb2moi...,http://web.mit.edu/ops/services/moira.old/oracle/crdb2moira.sql
+dba_extents.sql,http://people.umass.edu/bikehara/dbanotes/dba_extents.sql
+db2/segment.sql · 1.1.0 · Adam Mercer / python-ligo-lw ... - LIGO GitLab,https://git.ligo.org/adam-mercer/python-ligo-lw/-/blob/1.1.0/db2/segment.sql
+sql/schema.sql - Národní technická knihovna,https://code.gov.cz/techlib/indoktrinator/blob/d69a84266bc843246fb47e0403e5fd25270e2b0f/sql/schema.sql
+schema.sql - indoktrinator,https://code.gov.cz/techlib/indoktrinator/blob/a33e65223f1fa057693a155fe5e896cce23a4e69/sql/schema.sql
+trantbl.sql,https://dw.hanbit.co.kr/exam/9237/Chap11/trantbl.sql
+OracleBusinessIntelligenceEnter...,https://resources.oreilly.com/examples/9781786464712/blob/93a99256aab54081959b348b41a76dfc491e2255/OracleBusinessIntelligenceEnterpriseEdition12c_Code/Chapter02/script_systemLoad.sql
+JSOC/base/export/scripts/export-db-functions.sql - annotate - 1.3,http://jsoc.stanford.edu/cvs/JSOC/base/export/scripts/export-db-functions.sql%3Fannotate%3D1.3%26logsort%3Dcvs%26diff_format%3Dl%26sortby%3Ddate
+tools/queries/54.sql · main · Christian Winter / artifacts-vldb-2022 ...,https://gitlab.db.in.tum.de/ChrisWint/artifacts-vldb-2022/-/blob/main/tools/queries/54.sql
+Alter-User-Tables.sql – PPwiki,https://wiki.pplant.de/Alter-User-Tables.sql
+metabase.query-processor.middleware.parameters.sql - cljdoc,https://cljdoc.org/d/metabase-core/metabase-core/1.0.0-SNAPSHOT/api/metabase.query-processor.middleware.parameters.sql
+GitList,http://uisgplprod1.uis.edu/gitlist/CDM/blame/dcf258d1a0c147e91f2558230a903b74b00f111d/all/delta_all_sem_stu_enrollment.sql
+https://www.cs.put.poznan.pl/rwrembel/smdim.sql,https://www.cs.put.poznan.pl/rwrembel/smdim.sql
+king/greenplum-db @ 57ae0d66ac21afbb53bb571c4aaff1fe67b44d48,https://gitclone.com/gogs/king/greenplum-db/src/57ae0d66ac21afbb53bb571c4aaff1fe67b44d48/gpcontrib/pxf_fdw/pxf_fdw--1.0.sql
+https://raw.githubusercontent.com/microsoft/sql-se...,https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/features/in-memory-database/in-memory-oltp/t-sql-scripts/clustered_columnstore_sample_queries.sql
