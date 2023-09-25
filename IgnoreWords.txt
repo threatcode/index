@@ -128,6 +128,7 @@ absorbants
 absorbed
 absorbencies
 absorbency
+absorbent
 absorbents
 absorbing
 absorptances
@@ -930,6 +931,7 @@ adamantly
 adamants
 adamsites
 adapt
+adaptability
 adaptable
 adaptation
 adaptational
@@ -3978,6 +3980,7 @@ angrinesses
 angry
 angst
 angstrom
+angsts
 anguine
 anguish
 anguished
@@ -5765,6 +5768,7 @@ arches
 archesporia
 archesporial
 archesporium
+archetypal
 archetypally
 archetypes
 archetypical
@@ -8023,6 +8027,7 @@ backdate
 backdated
 backdraft
 backdrop
+backdropped
 backdropping
 backdrops
 backdropt
@@ -11271,6 +11276,7 @@ biogenies
 biogenous
 biogeny
 biogeochemical
+biogeochemicals
 biogeochemistry
 biogeographer
 biogeographers
@@ -28944,6 +28950,7 @@ dealings
 deals
 dealt
 deaminases
+deaminate
 deaminated
 deaminates
 deaminating
@@ -32415,6 +32422,7 @@ diluvial
 diluvian
 diluvions
 diluvium
+diluviums
 dim
 dime
 dimenhydrinate
@@ -32586,6 +32594,7 @@ dioxin
 dioxins
 dip
 dipeptidase
+dipeptidases
 dipeptides
 diphase
 diphasic
@@ -42878,6 +42887,7 @@ ferociousness
 ferociousnesses
 ferocities
 ferocity
+ferrate
 ferrates
 ferredoxin
 ferredoxins
@@ -44571,6 +44581,7 @@ florigenic
 florigens
 florilegia
 florilegium
+florin
 florins
 florist
 floristic
@@ -46474,6 +46485,7 @@ fromages
 fromenties
 fromenty
 frond
+frondeur
 frondeurs
 frondose
 fronds
@@ -50572,6 +50584,7 @@ greenfinches
 greenfly
 greengage
 greengages
+greengrocery
 greenheads
 greenheart
 greenhorn
@@ -53828,6 +53841,7 @@ herried
 herries
 herring
 herringbone
+herringboned
 herringbones
 herringboning
 herry
@@ -61639,6 +61653,7 @@ isotopies
 isotropies
 isotropy
 isotype
+isotypes
 isotypic
 isozymes
 isozymic
@@ -61875,6 +61890,7 @@ jalap
 jalapenos
 jalapic
 jalapin
+jalapins
 jalaps
 jalop
 jalopies
@@ -64244,6 +64260,7 @@ kymographic
 kymographies
 kymographs
 kymography
+kyphoses
 kyphosis
 kyrie
 kyries
@@ -67667,6 +67684,7 @@ lotting
 lotto
 lottos
 lotus
+lotuses
 lotuslands
 louche
 loud
@@ -69760,6 +69778,7 @@ masers
 mash
 mashed
 masher
+mashes
 mashgiach
 mashgichim
 mashie
@@ -73881,6 +73900,7 @@ monellin
 monellins
 moneran
 monerans
+monestrous
 monetarily
 monetarism
 monetarisms
@@ -75977,6 +75997,7 @@ naggingly
 naggy
 nags
 nah
+naiad
 naiades
 naiads
 naifs
@@ -84807,6 +84828,7 @@ paraboloidal
 paraboloids
 parachor
 parachors
+parachute
 parachuted
 parachutes
 parachutic
@@ -86093,6 +86115,7 @@ pedicled
 pedicles
 pedicular
 pediculate
+pediculates
 pediculosis
 pediculous
 pedicure
@@ -96782,6 +96805,7 @@ rangers
 rangier
 ranginess
 ranging
+rangy
 ranid
 ranis
 rank
@@ -97376,6 +97400,7 @@ reanimated
 reanimates
 reanimation
 reannex
+reannexations
 reannexes
 reannexing
 reanoint
@@ -98658,6 +98683,7 @@ reduviids
 redware
 redwares
 redwing
+redwings
 redwood
 redwoods
 redye
@@ -102992,6 +103018,7 @@ ripstop
 ripstops
 riptide
 riptides
+rise
 riser
 risers
 rishis
@@ -109325,6 +109352,7 @@ sialagogues
 sialid
 sialidan
 sialidans
+sialids
 sialoid
 sials
 siamang
@@ -111240,6 +111268,7 @@ smorgasbord
 smote
 smother
 smothered
+smotherer
 smotherers
 smothering
 smothers
@@ -117593,6 +117622,7 @@ sunkets
 sunlamp
 sunlamps
 sunlands
+sunless
 sunlight
 sunlights
 sunlike
@@ -120426,6 +120456,7 @@ technos
 technostructure
 techs
 techy
+tecta
 tectal
 tectites
 tectonically
@@ -125264,6 +125295,7 @@ truing
 truism
 truistic
 trull
+trulls
 truly
 trumeau
 trumeaux
@@ -125965,6 +125997,7 @@ twill
 twilling
 twillings
 twin
+twinberry
 twine
 twined
 twiner
@@ -131442,6 +131475,7 @@ videocassette
 videocassettes
 videoconference
 videodisc
+videodiscs
 videodisk
 videodisks
 videographer
@@ -134993,6 +135027,7 @@ workableness
 workablenesses
 workably
 workaday
+workaholic
 workaholics
 workaholisms
 workbag
