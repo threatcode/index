@@ -2216,6 +2216,7 @@ airted
 airth
 airthed
 airthing
+airths
 airtight
 airtightness
 airtightnesses
@@ -2381,6 +2382,7 @@ alder
 alderflies
 alderman
 aldermanic
+aldermen
 alders
 alderwomen
 aldolases
@@ -3623,6 +3625,7 @@ anageneses
 anagenesis
 anaglyph
 anaglyphic
+anaglyphs
 anagnorises
 anagnorisis
 anagoge
@@ -4005,6 +4008,7 @@ anguished
 anguishes
 anguishing
 angular
+angularity
 angularly
 angulate
 angulates
@@ -17585,6 +17589,7 @@ casuistic
 casuistical
 casuistries
 casuists
+casus
 cat
 catabolically
 catabolisms
@@ -25559,6 +25564,7 @@ cosmeticians
 cosmeticize
 cosmeticized
 cosmeticizing
+cosmetologies
 cosmetologist
 cosmetologists
 cosmic
@@ -37344,6 +37350,7 @@ elhi
 elicit
 elicitation
 elicitations
+eliciting
 elicitors
 elide
 elided
@@ -39843,6 +39850,7 @@ eschalot
 eschalots
 eschar
 escharotic
+eschatologies
 eschatology
 escheatable
 escheated
@@ -45989,6 +45997,7 @@ foster
 fosterage
 fosterages
 fosterers
+fostering
 fosterlings
 fosters
 fou
@@ -49961,6 +49970,7 @@ gomerils
 gomers
 gomphosis
 gonad
+gonadal
 gonadectomies
 gonadectomized
 gonadectomy
@@ -50049,6 +50059,7 @@ goofs
 goofy
 googlies
 googly
+googol
 googolplex
 googolplexes
 googols
@@ -53337,6 +53348,7 @@ hebephrenics
 hebes
 hebetate
 hebetation
+hebetations
 hebetic
 hebetude
 hebetudes
@@ -55871,6 +55883,7 @@ humanizes
 humanizing
 humankind
 humanlike
+humanness
 humannesses
 humanoid
 humanoids
@@ -56060,6 +56073,7 @@ hurtfulness
 hurtfulnesses
 hurting
 hurtle
+hurtled
 hurtless
 hurtling
 hurts
@@ -57637,6 +57651,7 @@ impartially
 impartible
 impartibly
 imparting
+impartment
 impartments
 imparts
 impassabilities
@@ -62373,6 +62388,7 @@ jeopardizes
 jeopards
 jequirities
 jequirity
+jerboa
 jereed
 jeremiads
 jerid
@@ -84701,6 +84717,7 @@ palletizations
 palletize
 palletized
 palletizer
+palletizers
 palletizes
 palletizing
 pallets
@@ -91820,6 +91837,7 @@ poyou
 poyous
 pozole
 pozoles
+pozzolan
 pozzolanas
 pozzolanic
 pozzolans
@@ -92206,6 +92224,7 @@ preclearances
 preclears
 precluded
 precluding
+preclusion
 preclusive
 preclusively
 precocial
@@ -95029,6 +95048,7 @@ psychrometers
 psychrometries
 psychrometry
 psychs
+psylla
 psyllid
 psyllids
 psyllium
@@ -96947,6 +96967,7 @@ raillery
 railroad
 railroaded
 railroader
+railroading
 railroadings
 railroads
 rails
@@ -106094,6 +106115,7 @@ scar
 scarab
 scarabaeus
 scarabaeuses
+scaramouche
 scaramouches
 scarce
 scarcely
@@ -108856,6 +108878,7 @@ shatterer
 shatterers
 shattering
 shatteringly
+shatters
 shaugh
 shaughs
 shaul
@@ -110286,6 +110309,7 @@ simultaneity
 simultaneous
 simultaneously
 sinapism
+sinapisms
 since
 sincere
 sincerely
@@ -111684,6 +111708,7 @@ smoothbores
 smoothed
 smoothen
 smoothens
+smoother
 smoothes
 smoothest
 smoothies
@@ -118215,6 +118240,7 @@ superconduct
 superconducted
 superconducting
 superconductive
+superconductor
 superconductors
 superconducts
 superconfident
@@ -127277,6 +127303,7 @@ unbolts
 unboned
 unbonnet
 unbonneted
+unbonneting
 unbonnets
 unbookish
 unbooted
@@ -130597,6 +130624,7 @@ usherette
 usherettes
 ushers
 using
+usnea
 usneas
 usquabaes
 usque
@@ -130889,6 +130917,7 @@ valval
 valvar
 valvate
 valve
+valved
 valveless
 valvelets
 valvelike
@@ -131827,6 +131856,7 @@ vexers
 vexil
 vexilla
 vexillar
+vexillaries
 vexillologic
 vexillological
 vexillologist
@@ -132613,6 +132643,7 @@ voicings
 void
 voidable
 voidablenesses
+voidance
 voider
 voiding
 voidness
@@ -133393,6 +133424,7 @@ warstled
 warstler
 warstles
 warstling
+wart
 warted
 warthog
 warthogs
@@ -134878,6 +134910,7 @@ windjammers
 windjamming
 windlassed
 windlasses
+windlassing
 windle
 windless
 windlessly
@@ -136051,6 +136084,7 @@ yachtman
 yachts
 yachtsman
 yachtsmen
+yack
 yacked
 yacks
 yaff
@@ -136070,6 +136104,7 @@ yak
 yakitoris
 yakked
 yakker
+yakkers
 yakking
 yaks
 yakuza
