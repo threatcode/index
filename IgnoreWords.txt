@@ -160,6 +160,7 @@ abstract
 abstractable
 abstracted
 abstractedly
+abstracters
 abstractest
 abstracting
 abstractional
@@ -1071,6 +1072,7 @@ adipocytes
 adipose
 adiposes
 adiposis
+adiposities
 adiposity
 adipous
 adit
@@ -3994,6 +3996,7 @@ angioplasty
 angiosperm
 angiospermous
 angiosperms
+angiotensins
 angle
 angled
 anglepod
@@ -4129,6 +4132,7 @@ anisoles
 anisometropia
 anisometropias
 anisometropic
+anisotropic
 anisotropically
 anisotropism
 anisotropisms
@@ -5027,6 +5031,7 @@ anurans
 anuretic
 anuria
 anuric
+anurous
 anuses
 anvil
 anviled
@@ -11395,6 +11400,7 @@ biogeographers
 biogeographies
 biogeography
 biographee
+biographers
 biographic
 biographical
 biographically
@@ -16014,6 +16020,7 @@ calcific
 calcifications
 calcified
 calcifuge
+calcifuges
 calcifugous
 calcifying
 calcimine
@@ -19722,6 +19729,7 @@ chirkest
 chirm
 chirmed
 chirming
+chirms
 chirographers
 chirographic
 chiromancer
@@ -23507,6 +23515,7 @@ conceitedness
 conceitednesses
 conceiting
 conceivability
+conceivable
 conceive
 conceived
 conceivers
@@ -40711,6 +40720,7 @@ evaporation
 evaporations
 evaporators
 evaporite
+evaporites
 evaporitic
 evasion
 evasions
@@ -40824,6 +40834,7 @@ evited
 evites
 eviting
 evocable
+evocation
 evocations
 evocative
 evocatively
@@ -42528,6 +42539,7 @@ fanons
 fanos
 fans
 fantail
+fantailed
 fantails
 fantasia
 fantasias
@@ -47796,6 +47808,7 @@ galletas
 galleting
 gallets
 galleys
+gallflies
 gallfly
 galliard
 galliards
@@ -56506,6 +56519,7 @@ hydrides
 hydrids
 hydrilla
 hydrillas
+hydro
 hydrobiological
 hydrobiologies
 hydrobiologists
@@ -59626,6 +59640,7 @@ influentially
 influentials
 influents
 influenza
+influenzas
 influx
 influxes
 info
@@ -62886,6 +62901,7 @@ jill
 jillion
 jillions
 jills
+jilt
 jilted
 jiminy
 jimjams
@@ -65239,6 +65255,7 @@ lame
 lamebrain
 lamebrained
 lamebrains
+lamedhs
 lameds
 lamella
 lamellae
@@ -72699,6 +72716,7 @@ miladi
 miladies
 miladis
 milady
+milage
 milages
 milch
 milchig
@@ -82094,6 +82112,7 @@ ostium
 ostlers
 ostomate
 ostomates
+ostomies
 ostomy
 ostosis
 ostosises
@@ -82310,6 +82329,7 @@ outbuilt
 outbulge
 outbulged
 outbulges
+outbulging
 outbulk
 outbulked
 outbulking
@@ -83024,6 +83044,7 @@ outside
 outsider
 outsiderness
 outsidernesses
+outsiders
 outsides
 outsight
 outsights
@@ -84830,6 +84851,7 @@ pacemaker
 pacemakers
 pacemaking
 pacemakings
+pacer
 pacers
 paces
 pacesetter
@@ -90736,6 +90758,7 @@ plugging
 plugless
 plugola
 plugolas
+plugs
 pluguglies
 plugugly
 plum
@@ -98286,6 +98309,7 @@ readopting
 readopts
 readorn
 readorning
+readorns
 readouts
 ready
 readying
@@ -102582,6 +102606,7 @@ restitched
 restitches
 restitching
 restitute
+restituted
 restitutes
 restitutions
 restive
@@ -102638,6 +102663,7 @@ restriven
 restrives
 restriving
 restrooms
+restrove
 restruck
 restructure
 restructured
@@ -104437,6 +104463,7 @@ rooftop
 rooftops
 rooftrees
 rook
+rooked
 rookeries
 rookery
 rookie
@@ -109966,6 +109993,7 @@ shitake
 shitakes
 shitheads
 shitless
+shitlist
 shitload
 shitloads
 shits
@@ -115890,6 +115918,7 @@ steamy
 steapsin
 steapsins
 stearates
+stearin
 stearine
 stearines
 stearins
@@ -119714,6 +119743,7 @@ swabbed
 swabbie
 swabbies
 swabby
+swabs
 swacked
 swaddle
 swaddled
@@ -121389,6 +121419,7 @@ tattering
 tatters
 tattersall
 tattie
+tattier
 tatties
 tattiest
 tattily
@@ -122502,6 +122533,7 @@ tetanising
 tetanization
 tetanizations
 tetanizing
+tetanoid
 tetchier
 tetchiest
 tetchily
@@ -123262,6 +123294,7 @@ threshers
 threshes
 thresholds
 thrift
+thriftier
 thriftiest
 thriftily
 thriftiness
@@ -123699,6 +123732,7 @@ timbrelled
 timbrels
 time
 timecard
+timecards
 timekeeper
 timekeepers
 timekeepings
@@ -124577,6 +124611,7 @@ torous
 torpedo
 torpedoed
 torpedoes
+torpedoing
 torpedos
 torpid
 torpidities
