@@ -1636,6 +1636,7 @@ affines
 affinity
 affirm
 affirmable
+affirmance
 affirmances
 affirmant
 affirmants
@@ -4957,6 +4958,7 @@ antistrophic
 antistudent
 antistyles
 antisubmarine
+antisubversion
 antisubversive
 antisuicide
 antisyphilitic
@@ -9823,6 +9825,7 @@ bedraggles
 bedraggling
 bedrail
 bedrails
+bedrapes
 bedrench
 bedrenches
 bedrid
@@ -10817,6 +10820,7 @@ bewared
 bewares
 bewearied
 bewearies
+beweary
 bewearying
 beweep
 beweeping
@@ -12244,6 +12248,7 @@ bloated
 bloater
 bloaters
 bloats
+bloatware
 blob
 blobbing
 block
@@ -15390,6 +15395,7 @@ busheller
 bushellers
 bushelling
 bushelmen
+bushers
 bushes
 bushfires
 bushgoat
@@ -18069,6 +18075,7 @@ cautionary
 cautioned
 cautioner
 cautioners
+cautioning
 cautions
 cautious
 cautiousnesses
@@ -23313,6 +23320,7 @@ complects
 complement
 complemental
 complementarily
+complementarity
 complemented
 complementing
 complementizer
@@ -31115,6 +31123,7 @@ deplanes
 deplaning
 deplete
 depleter
+depleters
 depletes
 depleting
 depletion
@@ -42052,6 +42061,7 @@ exudative
 exude
 exuded
 exuding
+exult
 exultance
 exultances
 exultancy
@@ -45624,6 +45634,7 @@ fooled
 fooleries
 foolfish
 foolhardier
+foolhardiest
 foolhardiness
 foolhardinesses
 foolhardy
@@ -50022,6 +50033,7 @@ glyceryls
 glycine
 glycines
 glycins
+glycogen
 glycogeneses
 glycogenolysis
 glycol
@@ -53706,6 +53718,7 @@ heavyhearted
 heavyheartedly
 heavyweight
 heavyweights
+hebdomadal
 hebdomads
 hebe
 hebephrenia
@@ -53942,6 +53955,7 @@ helled
 hellenization
 hellenizations
 hellenize
+hellenized
 hellenizes
 heller
 helleris
@@ -56877,6 +56891,7 @@ hyperemotional
 hyperendemic
 hyperenergetic
 hyperesthesia
+hyperesthesias
 hyperesthetic
 hypereutectoid
 hyperexcitable
@@ -60592,6 +60607,7 @@ integrally
 integrals
 integrand
 integrands
+integrants
 integrate
 integrated
 integrating
@@ -64715,6 +64731,7 @@ knouts
 knowable
 knower
 knowing
+knowinger
 knowingest
 knowingly
 knowingness
@@ -66424,6 +66441,7 @@ legitimately
 legitimates
 legitimating
 legitimation
+legitimations
 legitimatized
 legitimatizing
 legitimator
@@ -67137,6 +67155,7 @@ lignify
 lignifying
 lignin
 lignite
+lignites
 lignitic
 lignocellulose
 lignocelluloses
@@ -68983,6 +69002,7 @@ lycanthropies
 lycea
 lycee
 lycees
+lyceum
 lych
 lychee
 lychees
@@ -69482,6 +69502,7 @@ mahouts
 mahzor
 mahzors
 maiasaur
+maiasauras
 maiasaurs
 maiden
 maidenhair
@@ -75085,6 +75106,7 @@ monstrosity
 monstrousness
 monstrousnesses
 montadales
+montage
 montaged
 montages
 montaging
@@ -79480,6 +79502,7 @@ nonsmoking
 nonsocialist
 nonsocialists
 nonsolar
+nonsolid
 nonsolution
 nonspeaker
 nonspeakers
@@ -88464,6 +88487,7 @@ peyote
 peyotes
 peyotls
 peytral
+peytrals
 peytrel
 peytrels
 pfennige
@@ -91818,6 +91842,7 @@ popgun
 popguns
 popinjay
 popinjays
+popishly
 poplar
 poplin
 poplins
@@ -103159,6 +103184,7 @@ retrieved
 retriever
 retrievers
 retrieves
+retrim
 retrimmed
 retrimming
 retro
@@ -106316,6 +106342,7 @@ sapour
 sapours
 sappers
 sapphire
+sapphirine
 sapphism
 sapphisms
 sapphists
@@ -106405,6 +106432,7 @@ sardonyxes
 sards
 saree
 sarees
+sargassos
 sargassums
 sargo
 sargos
@@ -111718,6 +111746,7 @@ skyjacks
 skylark
 skylarked
 skylarker
+skylarkers
 skylarking
 skylarks
 skylights
@@ -118751,6 +118780,7 @@ sulfations
 sulfhydryls
 sulfid
 sulfides
+sulfids
 sulfinpyrazone
 sulfinpyrazones
 sulfinyl
@@ -122682,6 +122712,7 @@ tetanal
 tetanic
 tetanics
 tetanies
+tetanised
 tetanises
 tetanising
 tetanization
@@ -125588,6 +125619,7 @@ transplanter
 transplanters
 transplanting
 transplants
+transpolar
 transponders
 transpontine
 transport
@@ -128126,6 +128158,7 @@ unarmed
 unaroused
 unarrayed
 unarrogant
+unartful
 unarticulated
 unartistic
 unary
@@ -132370,6 +132403,7 @@ velverets
 velveted
 velveteen
 velveteens
+velvetier
 velvetiest
 velvets
 velvety
@@ -135622,6 +135656,7 @@ whorish
 whorishly
 whorl
 whorled
+whortle
 whortleberries
 whortleberry
 whortles
