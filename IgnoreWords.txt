@@ -3644,6 +3644,7 @@ anagogically
 anagogy
 anagram
 anagrammatic
+anagrammatical
 anagrammatize
 anagrammatized
 anagrammatizes
@@ -5446,6 +5447,7 @@ appointer
 appointers
 appointing
 appointive
+appointments
 appointor
 appointors
 appoints
@@ -20089,6 +20091,7 @@ chromium
 chromiums
 chromize
 chromized
+chromizing
 chromo
 chromocenters
 chromodynamics
@@ -22161,6 +22164,7 @@ coherencies
 coherency
 coherent
 coherently
+coherer
 coheres
 cohering
 cohesion
@@ -25862,6 +25866,7 @@ counteracted
 counteracting
 counteraction
 counteractions
+counteractive
 counteracts
 counteragents
 counterargue
@@ -30946,6 +30951,7 @@ dependents
 depending
 depeople
 depeoples
+deperm
 depermed
 deperming
 deperms
@@ -33256,6 +33262,7 @@ disconcerted
 disconcertingly
 disconcertments
 disconcerts
+disconfirm
 disconfirmed
 disconformities
 disconformity
@@ -33760,6 +33767,7 @@ disparaging
 disparagingly
 disparate
 disparately
+disparateness
 disparatenesses
 disparities
 disparity
@@ -35320,6 +35328,7 @@ dozy
 drab
 drabbed
 drabbest
+drabbet
 drabbing
 drabble
 drabbled
@@ -37067,6 +37076,7 @@ egers
 egesta
 egested
 egesting
+egestion
 egestive
 eggar
 eggars
@@ -37223,6 +37233,7 @@ elasticities
 elasticized
 elastics
 elastins
+elastomer
 elastomeric
 elastomers
 elated
@@ -46386,6 +46397,7 @@ fraternizer
 fraternizers
 fraternizing
 fraters
+fratricidal
 fratricide
 frauds
 fraudster
@@ -50810,6 +50822,7 @@ gravy
 gray
 grayback
 graybeard
+graybeards
 grayed
 grayest
 grayfishes
@@ -54108,6 +54121,7 @@ heritor
 heritors
 heritrices
 heritrix
+heritrixes
 herls
 herm
 herma
@@ -59093,6 +59107,7 @@ inductive
 inductively
 inductor
 inductors
+indue
 indued
 induing
 indulge
@@ -75742,6 +75757,7 @@ multiparae
 multiparameter
 multiparas
 multipart
+multiparticle
 multipartite
 multiparty
 multipath
@@ -76008,6 +76024,7 @@ muscling
 muscly
 muscovados
 muscovite
+muscular
 muscularity
 muscularly
 musculature
@@ -77354,6 +77371,7 @@ nervings
 nervosities
 nervosity
 nervous
+nervously
 nervousness
 nervousnesses
 nervules
@@ -78621,6 +78639,7 @@ nonfamily
 nonfan
 nonfarmer
 nonfarmers
+nonfatal
 nonfattening
 nonfatty
 nonfeasance
@@ -79996,6 +80015,7 @@ objectionable
 objectionably
 objections
 objective
+objectively
 objectiveness
 objectivenesses
 objectives
@@ -88267,6 +88287,7 @@ philander
 philandered
 philanderer
 philanderers
+philandering
 philanders
 philanthropic
 philanthropical
@@ -89864,6 +89885,7 @@ plagiarisms
 plagiarist
 plagiaristic
 plagiarized
+plagiarizers
 plagiarizes
 plagiarizing
 plagiary
@@ -100324,6 +100346,7 @@ reinforces
 reinforcing
 reinform
 reinforming
+reinforms
 reinfused
 reinfuses
 reinfusing
@@ -102310,6 +102333,7 @@ restoral
 restorals
 restorative
 restoratives
+restored
 restorers
 restores
 restoring
@@ -121615,6 +121639,7 @@ temper
 tempera
 temperable
 temperament
+temperance
 temperances
 temperas
 temperate
@@ -123499,6 +123524,7 @@ tinwork
 tinworks
 tip
 tipcart
+tipcat
 tipcats
 tipis
 tipoff
@@ -123895,6 +123921,7 @@ tombola
 tombolas
 tombolos
 tomboy
+tomboyish
 tomboyishness
 tombs
 tombstone
@@ -125145,6 +125172,7 @@ trapunto
 trapuntos
 trash
 trashed
+trasher
 trashers
 trashes
 trashiest
@@ -126001,6 +126029,7 @@ trooper
 troopers
 troopial
 troopials
+trooping
 troostite
 troostites
 trop
@@ -126789,6 +126818,7 @@ tutties
 tutting
 tutty
 tutu
+tutued
 tutus
 tuxedoed
 tuxedoes
@@ -127221,6 +127251,7 @@ ultimata
 ultimate
 ultimated
 ultimately
+ultimateness
 ultimatenesses
 ultimates
 ultimating
@@ -127388,6 +127419,7 @@ umbo
 umbonate
 umbones
 umbonic
+umbos
 umbra
 umbrage
 umbrageously
@@ -129580,6 +129612,7 @@ unpierced
 unpile
 unpiled
 unpiles
+unpiling
 unpinned
 unpins
 unpitied
@@ -131892,6 +131925,7 @@ venously
 vent
 ventage
 ventail
+vented
 venter
 ventifact
 ventilate
@@ -136028,6 +136062,7 @@ workingmen
 workings
 workingwoman
 workingwomen
+workless
 worklessness
 workload
 workloads
