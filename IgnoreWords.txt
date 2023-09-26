@@ -1486,6 +1486,7 @@ aeroelasticity
 aeroembolism
 aeroembolisms
 aerofoil
+aerofoils
 aerogel
 aerogels
 aerogram
@@ -3845,6 +3846,7 @@ andantinos
 andesites
 andesitic
 andesytes
+andiron
 andirons
 andouilles
 andouillette
@@ -4455,6 +4457,7 @@ antiars
 antiarthritic
 antiarthritis
 antiasthma
+antiatoms
 antiauthority
 antiauxin
 antiauxins
@@ -4735,6 +4738,7 @@ antinode
 antinodes
 antinoise
 antinome
+antinomes
 antinomian
 antinomianism
 antinomians
@@ -5291,6 +5295,7 @@ apostate
 apostatised
 apostatises
 apostatising
+apostatize
 apostatizes
 apostatizing
 apostil
@@ -7248,6 +7253,7 @@ audiotapes
 audiotaping
 audiovisuals
 audiphones
+audit
 auditable
 audited
 auditee
@@ -19677,6 +19683,7 @@ chippered
 chippering
 chippers
 chippier
+chippies
 chippiest
 chipping
 chippy
@@ -21303,6 +21310,7 @@ clonidines
 clonings
 clonism
 clonisms
+clonked
 clonks
 clons
 clonuses
@@ -32758,6 +32766,7 @@ dinar
 dinars
 dindled
 dindling
+dine
 dined
 diner
 dineric
@@ -32988,6 +32997,7 @@ directivity
 directness
 director
 directorate
+directorates
 directorial
 directories
 directors
@@ -40139,6 +40149,7 @@ estated
 estates
 estating
 esteemed
+esterase
 esterases
 esterification
 esterifications
@@ -42449,6 +42460,7 @@ fanfaronade
 fanfaronades
 fanfarons
 fanfic
+fanfics
 fanfolded
 fanfolding
 fangas
@@ -44574,6 +44586,7 @@ flawiest
 flawing
 flawless
 flawlessly
+flawlessness
 flaws
 flawy
 flax
@@ -49876,6 +49889,7 @@ glycerins
 glycerol
 glycerols
 glyceryl
+glyceryls
 glycine
 glycines
 glycins
@@ -53195,6 +53209,7 @@ hautbois
 hautboy
 haute
 hauteur
+hauteurs
 havarti
 havartis
 havdalah
@@ -53267,6 +53282,7 @@ haylofts
 haymakers
 haymow
 haymows
+hayracks
 hayrick
 hayricks
 hayride
@@ -56096,6 +56112,7 @@ humanistically
 humanists
 humanitarian
 humanitarianism
+humanitarians
 humanities
 humanity
 humanization
@@ -57113,6 +57130,7 @@ ichnolites
 ichnologies
 ichor
 ichorous
+ichors
 ichthyofauna
 ichthyofaunae
 ichthyofaunal
@@ -68830,6 +68848,7 @@ lynchers
 lynches
 lynching
 lynchpins
+lynx
 lynxes
 lyophile
 lyophiled
@@ -70277,6 +70296,7 @@ martagons
 marted
 martello
 martellos
+marten
 martens
 martensite
 martensites
@@ -78810,6 +78830,7 @@ nonhalogenated
 nonhappenings
 nonharmonic
 nonhemolytic
+nonhereditary
 nonheroic
 nonhierarchical
 nonhistone
@@ -82517,6 +82538,7 @@ outguides
 outguiding
 outgun
 outguns
+outgush
 outgushed
 outgushes
 outgushing
@@ -87347,6 +87369,7 @@ pepperiness
 pepperinesses
 peppering
 peppermint
+pepperminty
 pepperoni
 peppers
 peppertree
@@ -88071,6 +88094,7 @@ pests
 pesty
 petabyte
 petabytes
+petahertzes
 petal
 petaline
 petalled
@@ -90573,6 +90597,7 @@ plotted
 plotters
 plottier
 plotties
+plottiest
 plotting
 plotty
 plotz
@@ -107583,6 +107608,7 @@ scurviest
 scurvily
 scurvy
 scut
+scuta
 scutage
 scutages
 scutch
@@ -108577,6 +108603,7 @@ sensualizations
 sensualize
 sensualized
 sensualizes
+sensualizing
 sensually
 sensum
 sensuosity
@@ -110126,6 +110153,7 @@ showrings
 showroom
 showstopper
 showstoppers
+showstopping
 showtimes
 showy
 shoyu
@@ -114538,6 +114566,7 @@ splitting
 splodge
 splodged
 splodges
+splore
 splores
 sploshed
 sploshes
@@ -118140,6 +118169,7 @@ subverting
 subverts
 subvicar
 subvicars
+subviral
 subvirus
 subviruses
 subvisible
@@ -120828,6 +120858,7 @@ tamarillo
 tamarillos
 tamarind
 tamarinds
+tamarins
 tamarisk
 tamarisks
 tamashas
@@ -121734,6 +121765,7 @@ telex
 telexes
 telexing
 telfer
+telfering
 telford
 telfords
 telic
@@ -127692,6 +127724,7 @@ unagile
 unaging
 unagreed
 unai
+unaided
 unaidedly
 unais
 unakite
@@ -131991,6 +132024,7 @@ veluring
 velveret
 velverets
 velveted
+velveteen
 velveteens
 velvetiest
 velvets
@@ -134143,6 +134177,7 @@ watchcases
 watchcries
 watchcry
 watchdogged
+watched
 watcher
 watchers
 watches
