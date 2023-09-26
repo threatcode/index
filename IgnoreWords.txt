@@ -2129,6 +2129,7 @@ airchecks
 aircoach
 aircoaches
 aircraft
+aircrew
 aircrews
 airdate
 airdates
@@ -4316,6 +4317,7 @@ antecedes
 anteceding
 antecessor
 antecessors
+antechamber
 antechapel
 antechapels
 antechoir
@@ -10525,6 +10527,7 @@ beseechers
 beseeches
 beseeching
 beseem
+beseemed
 beseeming
 beseems
 beses
@@ -11171,6 +11174,7 @@ billion
 billionaire
 billionaires
 billions
+billionths
 billon
 billons
 billow
@@ -11224,6 +11228,7 @@ bimorph
 bimorphemic
 bimorphs
 bin
+binal
 binaries
 binarism
 binarisms
@@ -14069,12 +14074,14 @@ brevities
 brevity
 brew
 brewages
+brewer
 breweries
 brewers
 brewery
 brewing
 brewings
 brewises
+brewpub
 brews
 brewski
 brewskies
@@ -19412,6 +19419,7 @@ chicaners
 chicanes
 chicaning
 chicanos
+chicas
 chiccories
 chicer
 chicest
@@ -20158,6 +20166,7 @@ chubbily
 chubbiness
 chubbinesses
 chubby
+chubs
 chuck
 chuckawalla
 chuckawallas
@@ -22810,6 +22819,7 @@ coming
 comingle
 comingled
 comingles
+comings
 comitia
 comitial
 comities
@@ -31928,6 +31938,7 @@ dharna
 dharnas
 dhobi
 dhobis
+dhole
 dholes
 dhoolies
 dhoora
@@ -36498,6 +36509,7 @@ earthly
 earthman
 earthmen
 earthmover
+earthmoving
 earthmovings
 earthpeas
 earthquake
@@ -49548,6 +49560,7 @@ globeflower
 globeflowers
 globelike
 globes
+globetrot
 globetrots
 globetrotted
 globetrotting
@@ -52970,6 +52983,7 @@ hassium
 hassiums
 hassle
 hassled
+hassles
 hassling
 hast
 hastately
@@ -56069,6 +56083,7 @@ humorousnesses
 humour
 humoured
 humouring
+humours
 hump
 humpbacks
 humped
@@ -62032,6 +62047,7 @@ istle
 it
 italianated
 italianates
+italianise
 italianised
 italianises
 italianising
@@ -62779,6 +62795,7 @@ joggled
 jogglers
 joggles
 johannes
+john
 johnboat
 johnboats
 johnnie
@@ -64380,6 +64397,7 @@ knowingness
 knowingnesses
 knowings
 knowledge
+knowledgeable
 knowledgeably
 knowledges
 known
@@ -67344,6 +67362,7 @@ lithotomies
 lithotomy
 lithotripter
 lithotripters
+lithotriptors
 litigable
 litigant
 litigate
@@ -71733,6 +71752,7 @@ metaplasm
 metaplasms
 metaplastic
 metapsychology
+metasequoia
 metasequoias
 metasomatic
 metastabilities
@@ -72955,6 +72975,7 @@ misadjusted
 misadjusting
 misadventure
 misadventures
+misadvice
 misadvise
 misadvising
 misagent
@@ -76603,6 +76624,7 @@ narcein
 narceine
 narceins
 narcism
+narcissi
 narcissism
 narcissisms
 narcissist
@@ -83496,6 +83518,7 @@ overflying
 overfocus
 overfocused
 overfocuses
+overfocusing
 overfocussed
 overfocusses
 overfocussing
@@ -87751,6 +87774,7 @@ perter
 pertest
 pertinacious
 pertinaciously
+pertinacity
 pertinence
 pertinences
 pertinencies
@@ -92340,6 +92364,7 @@ precative
 precaution
 precautionary
 precava
+precavae
 precaval
 precede
 preceded
@@ -96434,6 +96459,7 @@ quasar
 quasars
 quash
 quasher
+quashers
 quashing
 quasi
 quasicrystal
@@ -99937,6 +99963,7 @@ regionalism
 regionalisms
 regionalist
 regionalists
+regionalization
 regionalize
 regionalized
 regionalizes
@@ -102245,6 +102272,7 @@ restressed
 restretch
 restretched
 restretches
+restretching
 restricken
 restricted
 restrictedly
@@ -111931,6 +111959,7 @@ smocked
 smocking
 smockings
 smocks
+smog
 smoggier
 smoggiest
 smogless
@@ -114927,6 +114956,7 @@ stabilizations
 stabilize
 stabilized
 stabilizer
+stabilizers
 stabilizing
 stableboy
 stableboys
@@ -115216,6 +115246,7 @@ staphylococcic
 staphylococcus
 staple
 stapled
+stapler
 staples
 stapling
 star
@@ -115966,6 +115997,7 @@ stipuled
 stipules
 stir
 stirabout
+stirabouts
 stirk
 stirp
 stirred
@@ -121563,6 +121595,7 @@ temporizes
 temporizing
 temps
 tempt
+temptable
 temptation
 temptations
 tempted
@@ -123553,6 +123586,7 @@ tivy
 tizzies
 tizzy
 tmeses
+tmesis
 toad
 toadeater
 toadeaters
@@ -127492,6 +127526,7 @@ unattended
 unattenuated
 unattested
 unattired
+unattractive
 unattractively
 unattributable
 unau
