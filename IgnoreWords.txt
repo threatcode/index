@@ -399,6 +399,7 @@ accompaniment
 accompaniments
 accompanist
 accompanists
+accompany
 accompanying
 accomplice
 accomplices
@@ -722,6 +723,7 @@ acquires
 acquisitional
 acquisitions
 acquisitive
+acquisitively
 acquisitiveness
 acquisitors
 acquit
@@ -5592,6 +5594,7 @@ apropos
 aprotic
 apse
 apses
+apsidal
 apsides
 apt
 apter
@@ -13931,6 +13934,7 @@ bravo
 bravoed
 bravoes
 bravoing
+bravos
 bravuras
 bravure
 braw
@@ -20494,6 +20498,7 @@ cinnamyl
 cinnamyls
 cinquain
 cinquecentists
+cinquecento
 cinquecentos
 cinquefoils
 cinques
@@ -23332,6 +23337,7 @@ complicities
 complier
 compliers
 complies
+compliment
 complimentarily
 complimentary
 complimented
@@ -34710,6 +34716,7 @@ dogcarts
 dogdoms
 doge
 dogear
+dogeared
 dogearing
 dogears
 dogedoms
@@ -43660,6 +43667,7 @@ fictionists
 fictionization
 fictionizations
 fictionize
+fictionizes
 fictionizing
 fictions
 fictitious
@@ -44304,6 +44312,7 @@ fittings
 fivefold
 fivepins
 fiver
+fives
 fixate
 fixatif
 fixatifs
@@ -54992,6 +55001,7 @@ hobnobbed
 hobnobber
 hobnobbers
 hobnobbing
+hobo
 hoboed
 hoboes
 hoboing
@@ -56598,6 +56608,7 @@ hydrometric
 hydromorphic
 hydronic
 hydropath
+hydropathic
 hydropathies
 hydropaths
 hydroperoxide
@@ -57728,6 +57739,7 @@ imine
 imines
 imino
 imipramine
+imipramines
 imitable
 imitate
 imitated
@@ -59253,6 +59265,7 @@ indris
 indubitability
 indubitable
 indubitableness
+indubitably
 induce
 induced
 inducement
@@ -61492,6 +61505,7 @@ inurements
 inures
 inuring
 inurn
+inurned
 inurning
 inurnment
 inurnments
@@ -67661,6 +67675,7 @@ livabilities
 livability
 livable
 livableness
+liveabilities
 liveability
 liveable
 lived
@@ -69551,6 +69566,7 @@ malapportioned
 malaprop
 malapropism
 malapropisms
+malapropist
 malapropists
 malar
 malaria
@@ -74128,6 +74144,7 @@ mistreatments
 mistreats
 mistress
 mistresses
+mistrials
 mistrust
 mistrusted
 mistrustful
@@ -76413,6 +76430,7 @@ mutilation
 mutilations
 mutilator
 mutilators
+mutine
 mutined
 mutineer
 mutineered
@@ -83417,6 +83435,7 @@ overarranges
 overarranging
 overarticulated
 overarticulates
+overasserted
 overasserting
 overassertion
 overassertions
@@ -83656,6 +83675,7 @@ overdiscounted
 overdiscounting
 overdocument
 overdocumented
+overdocumenting
 overdocuments
 overdoer
 overdoes
@@ -100365,6 +100385,7 @@ regnal
 regnancies
 regnancy
 regnum
+regolith
 regoliths
 regorge
 regorged
@@ -102885,6 +102906,7 @@ retightens
 retile
 retiled
 retiling
+retime
 retimed
 retimes
 retiming
@@ -105150,6 +105172,7 @@ rums
 run
 runabout
 runabouts
+runagates
 runaround
 runarounds
 runaways
@@ -111772,6 +111795,7 @@ sleave
 sleaved
 sleaves
 sleaving
+sleaze
 sleazebag
 sleazebags
 sleazeball
@@ -112011,6 +112035,7 @@ slivered
 sliverer
 sliverers
 slivering
+slivers
 slivovic
 slivovices
 slivovitz
@@ -113765,6 +113790,7 @@ southerlies
 southern
 southernmost
 southernnesses
+southerns
 southernwood
 southernwoods
 southers
@@ -115379,6 +115405,7 @@ stabilized
 stabilizer
 stabilizers
 stabilizing
+stable
 stableboy
 stableboys
 stabled
@@ -117289,6 +117316,7 @@ studdie
 studding
 studdings
 studentships
+studfishes
 studhorses
 studied
 studiedness
@@ -117607,6 +117635,7 @@ subcontinent
 subcontinental
 subcontinents
 subcontract
+subcontracted
 subcontracting
 subcontractor
 subcontractors
@@ -126300,6 +126329,7 @@ trivialists
 triviality
 trivialization
 trivialize
+trivialized
 trivializing
 trivially
 triweekly
@@ -126667,6 +126697,7 @@ truthless
 trying
 tryingly
 tryma
+trymata
 tryout
 tryouts
 trypanosome
@@ -131064,6 +131095,7 @@ upraise
 upraised
 upraises
 upraising
+uprate
 uprated
 uprates
 uprating
@@ -131869,6 +131901,7 @@ vapourer
 vapourers
 vapours
 vaquero
+vaqueros
 var
 vara
 varactor
@@ -133771,6 +133804,7 @@ wackes
 wackest
 wackier
 wackiest
+wackily
 wackiness
 wacko
 wacks
@@ -135441,6 +135475,7 @@ whoremasters
 whoremonger
 whoremongers
 whores
+whoreson
 whoresons
 whoring
 whorish
