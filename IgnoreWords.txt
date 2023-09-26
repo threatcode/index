@@ -3862,6 +3862,7 @@ andesitic
 andesytes
 andiron
 andirons
+andouille
 andouilles
 andouillette
 andouillettes
@@ -8353,6 +8354,7 @@ bafflingly
 baffs
 baffy
 bag
+bagass
 bagasse
 bagasses
 bagatelle
@@ -11370,6 +11372,7 @@ biodegrade
 biodegraded
 biodegrades
 biodiversities
+biodiversity
 biodynamic
 bioelectric
 bioelectrical
@@ -16887,6 +16890,7 @@ caprocks
 caprolactam
 capsaicin
 capsicin
+capsicins
 capsidal
 capsids
 capsizing
@@ -18147,6 +18151,7 @@ ceanothus
 ceanothuses
 cease
 ceased
+ceasefire
 ceasefires
 ceaselessly
 ceaselessness
@@ -24646,6 +24651,7 @@ continue
 continued
 continuer
 continues
+continuing
 continuingly
 continuities
 continuo
@@ -29578,6 +29584,7 @@ deciduousnesses
 decigram
 decigrams
 decile
+deciles
 deciliter
 deciliters
 decilitres
@@ -31095,6 +31102,7 @@ deplete
 depleter
 depletes
 depleting
+depletion
 depletions
 depletive
 deplorable
@@ -43304,6 +43312,7 @@ feral
 ferals
 ferbam
 feres
+feretories
 feretory
 feria
 feriae
@@ -47022,6 +47031,7 @@ frostings
 frostline
 frostlines
 frostnip
+frosts
 frostwork
 frostworks
 frosty
@@ -55834,6 +55844,7 @@ horsemint
 horsemints
 horseplay
 horseplayer
+horseplayers
 horsepower
 horsepowers
 horsepox
@@ -58132,6 +58143,7 @@ imperforate
 imperia
 imperial
 imperialism
+imperialisms
 imperialist
 imperialistic
 imperialists
@@ -58411,6 +58423,7 @@ improbably
 improbities
 impromptu
 impromptus
+improper
 improperly
 improperness
 impropernesses
@@ -58764,6 +58777,7 @@ inclemencies
 inclement
 inclemently
 inclinable
+incline
 inclined
 incliner
 incliners
@@ -59118,6 +59132,7 @@ indeterminism
 indeterminisms
 indeterminist
 indeterministic
+indevout
 index
 indexable
 indexation
@@ -63658,6 +63673,7 @@ kamaainas
 kamacite
 kamacites
 kame
+kames
 kamik
 kamikaze
 kamikazes
@@ -65687,6 +65703,7 @@ lasagnes
 lascar
 lascars
 lascivious
+lasciviously
 lasciviousness
 lased
 laser
@@ -68073,6 +68090,7 @@ logicless
 logics
 logier
 logiest
+loginess
 loginesses
 logins
 logions
@@ -89267,6 +89285,7 @@ piaster
 piastre
 piastres
 piazzas
+piazze
 pibroch
 pic
 pica
@@ -89725,6 +89744,7 @@ pineland
 pinelike
 pinene
 pineries
+pines
 pinesap
 pinesaps
 pinewood
@@ -90531,6 +90551,7 @@ playdowns
 played
 player
 players
+playfellow
 playfield
 playfields
 playful
@@ -96320,6 +96341,7 @@ purveying
 purveyor
 purveyors
 purveys
+pus
 puses
 push
 pushball
@@ -96622,6 +96644,7 @@ pyrrols
 pyruvate
 pyruvates
 python
+pythoness
 pythonesses
 pythonic
 pythons
@@ -100937,6 +100960,7 @@ relations
 relationship
 relationships
 relative
+relatively
 relatives
 relativisms
 relativist
@@ -106952,6 +106976,7 @@ scaups
 scaur
 scaurs
 scavenged
+scavenger
 scavengers
 scavenges
 scavenging
@@ -110049,6 +110074,7 @@ shirking
 shirks
 shirr
 shirred
+shirring
 shirrings
 shirrs
 shirt
@@ -114886,6 +114912,7 @@ sponsons
 sponsor
 sponsored
 sponsoring
+sponsors
 sponsorship
 sponsorships
 spontaneities
@@ -118208,6 +118235,7 @@ subsidization
 subsidize
 subsidized
 subsidizer
+subsidizers
 subsidizes
 subsidy
 subsist
@@ -121622,6 +121650,7 @@ taximeter
 taximeters
 taxingly
 taxis
+taxite
 taxitic
 taxiways
 taxless
@@ -123415,6 +123444,7 @@ thro
 throat
 throated
 throatier
+throatiest
 throatily
 throatiness
 throating
@@ -126396,6 +126426,7 @@ triviality
 trivialization
 trivialize
 trivialized
+trivializes
 trivializing
 trivially
 triweekly
@@ -129154,6 +129185,7 @@ uneaten
 uneccentric
 uneconomic
 uneconomical
+unedifying
 uneducable
 uneducated
 uneffaced
@@ -129690,6 +129722,7 @@ unite
 unitedly
 uniter
 uniters
+unites
 unities
 uniting
 unitive
@@ -131765,6 +131798,7 @@ validate
 validated
 validating
 validation
+validations
 validities
 validity
 validly
@@ -133471,6 +133505,7 @@ viziers
 vizir
 vizirate
 vizirates
+vizirial
 vizor
 vizored
 vizoring
