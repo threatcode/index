@@ -1386,6 +1386,7 @@ advisability
 advisable
 advisableness
 advisably
+advised
 advisedly
 advisees
 advisement
@@ -2455,6 +2456,7 @@ alfaquis
 alfas
 alfilaria
 alfilarias
+alfileria
 alfilerias
 alforjas
 alfresco
@@ -5285,6 +5287,7 @@ apoptotic
 aporia
 aporias
 aport
+apos
 aposiopeses
 aposiopesis
 aposiopetic
@@ -8492,6 +8495,7 @@ bales
 baling
 balisaur
 balisaurs
+balk
 balkanization
 balkanizations
 balkanize
@@ -16873,6 +16877,7 @@ capsular
 capsulate
 capsulated
 capsule
+capsuled
 capsules
 capsulize
 capsulized
@@ -19816,6 +19821,7 @@ chlordane
 chlordanes
 chlordans
 chlorella
+chlorellas
 chlorenchyma
 chlorenchymas
 chloric
@@ -21902,6 +21908,7 @@ cocultivate
 cocultivated
 cocultivating
 cocultivation
+cocultivations
 coculture
 cocultures
 coculturing
@@ -27130,6 +27137,7 @@ crookedness
 crookednesses
 crookeries
 crookery
+crookest
 crooking
 crookneck
 crooknecks
@@ -27652,6 +27660,7 @@ cuittled
 cuittles
 cuittling
 cuke
+cukes
 culch
 culet
 culets
@@ -37395,6 +37404,7 @@ electrodes
 electrodialyses
 electrodialysis
 electrodialytic
+electrodynamic
 electrodynamics
 electroed
 electrofishings
@@ -38475,6 +38485,7 @@ endonucleases
 endonucleolytic
 endoparasites
 endoparasitism
+endoparasitisms
 endopeptidases
 endoperoxide
 endoperoxides
@@ -39813,6 +39824,7 @@ erects
 eremites
 eremitism
 eremitisms
+eremuri
 eremurus
 eremuruses
 erenow
@@ -48353,6 +48365,7 @@ gauges
 gauging
 gauleiters
 gault
+gaults
 gaum
 gaumed
 gauming
@@ -49957,6 +49970,7 @@ gnars
 gnash
 gnashes
 gnat
+gnatcatcher
 gnatcatchers
 gnathal
 gnathic
@@ -52220,6 +52234,7 @@ haem
 haemal
 haematal
 haematic
+haematics
 haematin
 haematins
 haematite
@@ -52864,6 +52879,7 @@ haptoglobins
 harangue
 harangued
 haranguer
+haranguers
 harangues
 harass
 harassed
@@ -53709,6 +53725,7 @@ hegemons
 hegemony
 hegira
 hegiras
+hegumene
 hegumenes
 hegumenies
 hegumenoses
@@ -56177,6 +56194,7 @@ humbugging
 humbugs
 humdinger
 humdingers
+humdrum
 humdrums
 humectant
 humectants
@@ -59828,6 +59846,7 @@ inhumers
 inhumes
 inhuming
 inia
+inimical
 inimically
 inimitable
 inimitableness
@@ -63955,6 +63974,7 @@ keystone
 keystones
 keystroke
 keystrokes
+keystroking
 keyway
 keyways
 keyword
@@ -64031,6 +64051,7 @@ kibitzing
 kibla
 kiblah
 kiblahs
+kiblas
 kibosh
 kiboshed
 kiboshing
@@ -65559,6 +65580,7 @@ laryngectomized
 larynges
 laryngitic
 laryngitis
+laryngitises
 laryngologies
 laryngology
 laryngoscope
@@ -68981,6 +69003,7 @@ macaroon
 macaroons
 macaw
 maccabaw
+maccabaws
 macchia
 maccoboys
 mace
@@ -71046,6 +71069,7 @@ medicate
 medicated
 medicates
 medication
+medicide
 medicinable
 medicinal
 medicinals
@@ -75198,6 +75222,7 @@ morphological
 morphologically
 morphologies
 morphologist
+morphologists
 morphology
 morphometric
 morphometries
@@ -87148,6 +87173,7 @@ penancing
 penang
 penangs
 penates
+pence
 pencel
 pencels
 penchant
@@ -94011,6 +94037,7 @@ primiparas
 primiparous
 primitive
 primitively
+primitivenesses
 primitives
 primitivism
 primitivisms
@@ -105166,6 +105193,7 @@ rustically
 rusticals
 rusticate
 rusticated
+rusticates
 rusticating
 rustication
 rusticator
@@ -105813,6 +105841,7 @@ samisens
 samite
 samites
 samizdat
+samizdats
 samlet
 samosas
 samovar
@@ -107805,6 +107834,7 @@ seaside
 seasides
 seasonable
 seasonableness
+seasonably
 seasonal
 seasonalities
 seasonally
@@ -109946,6 +109976,7 @@ shlub
 shlump
 shlumped
 shlumping
+shlumps
 shlumpy
 shmaltzes
 shmaltzier
@@ -111825,6 +111856,7 @@ slimeballs
 slimed
 slimes
 slimier
+slimiest
 slimily
 sliminess
 sliming
@@ -116816,6 +116848,7 @@ stravaiged
 stravaiging
 stravaigs
 straw
+strawberries
 strawberry
 strawflower
 strawhat
@@ -119964,6 +119997,7 @@ swishy
 swiss
 swisses
 switchable
+switchback
 switchbacked
 switchbacking
 switchbacks
@@ -120609,6 +120643,7 @@ tachylites
 tachylyte
 tachylytes
 tachyon
+tachyonic
 tachyons
 tacit
 tacitness
