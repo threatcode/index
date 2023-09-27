@@ -1334,6 +1334,7 @@ advantages
 advantaging
 advect
 advection
+advections
 advective
 advects
 advent
@@ -5395,6 +5396,7 @@ apparelling
 apparels
 apparent
 apparently
+apparentness
 apparentnesses
 apparitions
 appeal
@@ -10369,6 +10371,7 @@ bemuddling
 bemurmur
 bemurmured
 bemurmuring
+bemurmurs
 bemuse
 bemused
 bemusedly
@@ -15843,6 +15846,7 @@ cachets
 cachexia
 cachexias
 cachexic
+cachexies
 cachexy
 caching
 cachinnate
@@ -25405,6 +25409,7 @@ cordlike
 cordoba
 cordobas
 cordoned
+cordoning
 cordonnet
 cordons
 cordovans
@@ -28502,6 +28507,7 @@ cyclonically
 cyclonite
 cyclonites
 cycloolefin
+cycloolefinic
 cyclopaedia
 cyclopaedias
 cycloparaffin
@@ -35213,6 +35219,7 @@ doozers
 doozie
 doozies
 dopa
+dopamine
 dopamines
 dopants
 dopas
@@ -35356,6 +35363,7 @@ doublethink
 doublethinks
 doubletons
 doublets
+doubling
 doubloon
 doubloons
 doublures
@@ -35972,6 +35980,7 @@ drolling
 drollness
 drollnesses
 drolls
+dromedaries
 dromedary
 dromon
 dromonds
@@ -41533,6 +41542,7 @@ exocytosis
 exocytotic
 exodermises
 exodoi
+exodontia
 exodontias
 exodus
 exoduses
@@ -44752,6 +44762,7 @@ flask
 flasket
 flaskets
 flasks
+flat
 flatbeds
 flatboat
 flatboats
@@ -47262,6 +47273,7 @@ fructify
 fructifying
 fructose
 fructoses
+frug
 frugal
 frugality
 frugally
@@ -54104,6 +54116,7 @@ heliports
 helistop
 helium
 hellacious
+hellaciously
 hellbender
 hellbenders
 hellbent
@@ -60336,6 +60349,7 @@ inoculant
 inoculants
 inoculate
 inoculated
+inoculates
 inoculating
 inoculation
 inoculations
@@ -60602,6 +60616,7 @@ inspirationally
 inspirator
 inspirators
 inspire
+inspired
 inspirers
 inspires
 inspiring
@@ -61557,6 +61572,7 @@ intolerability
 intolerableness
 intolerably
 intolerance
+intolerant
 intolerantly
 intolerantness
 intomb
@@ -62368,6 +62384,7 @@ isobutenes
 isobutyl
 isobutylene
 isobutylenes
+isobutyls
 isocaloric
 isocarboxazid
 isocarboxazids
@@ -66438,6 +66455,7 @@ leashed
 leashes
 leashing
 leasing
+leasings
 least
 leasts
 leastways
@@ -68594,6 +68612,7 @@ loran
 lorans
 lorazepam
 lorazepams
+lord
 lordings
 lordless
 lordlier
@@ -71994,6 +72013,7 @@ merchantmen
 merchants
 merches
 mercifully
+mercifulness
 mercilessly
 mercilessnesses
 mercs
@@ -72797,6 +72817,7 @@ microphotometer
 microphotometry
 microphyllous
 microphylls
+microphysically
 microphysics
 micropipet
 micropipets
@@ -79569,6 +79590,7 @@ nonpayment
 nonpayments
 nonpeak
 nonperformance
+nonperformances
 nonperformers
 nonperforming
 nonperishable
@@ -80945,6 +80967,7 @@ oceanaut
 oceangoing
 oceanic
 oceanographer
+oceanographers
 oceanographic
 oceanographical
 oceanographies
@@ -81781,6 +81804,7 @@ opiated
 opiating
 opine
 opined
+opines
 oping
 opining
 opinion
@@ -82216,6 +82240,7 @@ orneriness
 ornerinesses
 ornery
 ornis
+ornithes
 ornithic
 ornithine
 ornithines
@@ -82863,6 +82888,7 @@ outdreams
 outdreamt
 outdress
 outdressed
+outdressing
 outdrew
 outdrink
 outdrinking
@@ -97659,6 +97685,7 @@ rabic
 rabid
 rabidity
 rabidly
+rabidness
 rabidnesses
 rabies
 rabietic
@@ -98545,6 +98572,7 @@ ravelled
 raveller
 ravellers
 ravelling
+ravelment
 ravels
 raven
 ravened
@@ -111724,6 +111752,7 @@ size
 sizeable
 sizeably
 sized
+sizers
 sizes
 siziest
 siziness
@@ -112118,6 +112147,7 @@ slags
 slain
 slainte
 slakable
+slake
 slaked
 slaker
 slakers
@@ -120204,6 +120234,7 @@ suspired
 suspires
 suspiring
 suss
+sussed
 susses
 sussing
 sustain
@@ -130856,6 +130887,7 @@ unsayable
 unsayables
 unsaying
 unsays
+unscalable
 unscaled
 unscanned
 unscarred
@@ -131242,6 +131274,7 @@ untowardness
 untowardnesses
 untraceable
 untraced
+untracked
 untraditional
 untraditionally
 untrained
@@ -134388,6 +134421,7 @@ wadmol
 wadmoll
 wadmols
 wads
+wadsets
 wadsetted
 wadsetting
 wady
@@ -137392,6 +137426,7 @@ xanthins
 xanthomas
 xanthomata
 xanthone
+xanthones
 xanthophyll
 xanthophylls
 xanthous
