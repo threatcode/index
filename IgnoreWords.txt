@@ -5487,6 +5487,7 @@ applications
 applicatively
 applicator
 applicatory
+appliers
 applies
 applique
 appliqued
@@ -5650,6 +5651,7 @@ aquamarines
 aquanaut
 aquanauts
 aquaplane
+aquaplaned
 aquaplaner
 aquaplanes
 aquaplaning
@@ -7996,6 +7998,7 @@ azoic
 azole
 azoles
 azon
+azonic
 azons
 azoospermia
 azoted
@@ -9840,6 +9843,7 @@ bedizens
 bedlam
 bedlamite
 bedless
+bedlike
 bedmaker
 bedmate
 bedmates
@@ -10528,6 +10532,7 @@ bepimples
 bepimpling
 bequeath
 bequeathal
+bequeathals
 bequeathed
 bequeathing
 bequeaths
@@ -17576,6 +17581,7 @@ cartogram
 cartograms
 cartographer
 cartographers
+cartographic
 cartographies
 cartography
 carton
@@ -25736,6 +25742,7 @@ corruptions
 corruptive
 corruptively
 corruptly
+corruptness
 corruptnesses
 corruptor
 corruptors
@@ -29084,6 +29091,7 @@ darkening
 darkens
 darkest
 darkey
+darkeys
 darkies
 darking
 darkle
@@ -30847,6 +30855,7 @@ democratized
 democratizer
 democratizers
 democratizes
+democratizing
 democrats
 demode
 demodulated
@@ -32594,6 +32603,7 @@ diclinisms
 diclinous
 dicliny
 dicot
+dicots
 dicotyl
 dicotyledon
 dicotyledonous
@@ -43824,6 +43834,7 @@ fibrinoid
 fibrinolyses
 fibrinolysin
 fibrinolysis
+fibrinolytic
 fibrinopeptide
 fibrinopeptides
 fibrinous
@@ -46045,6 +46056,7 @@ foredoing
 foreface
 forefaces
 forefather
+forefathers
 forefeel
 forefeeling
 forefeels
@@ -52699,6 +52711,7 @@ halacha
 halachas
 halachic
 halachist
+halachoth
 halakahs
 halakha
 halakhah
@@ -55169,6 +55182,7 @@ histolyses
 histolysis
 histone
 histopathology
+histoplasmoses
 histoplasmosis
 historian
 historians
@@ -55186,6 +55200,7 @@ historiographic
 historiography
 history
 histrionics
+hists
 hit
 hitch
 hitcher
@@ -57744,6 +57759,7 @@ ignoble
 ignobleness
 ignoblenesses
 ignobly
+ignominies
 ignominious
 ignominiously
 ignominiousness
@@ -76500,6 +76516,7 @@ mummifying
 mumming
 mumms
 mummy
+mummying
 mump
 mumped
 mumper
@@ -78946,6 +78963,7 @@ noncaking
 noncallable
 noncaloric
 noncampus
+noncancelable
 noncancerous
 noncandidacies
 noncandidacy
@@ -79903,6 +79921,7 @@ nonverbal
 nonverbally
 nonvested
 nonveterans
+nonviable
 nonviewer
 nonviewers
 nonviolence
@@ -81966,6 +81985,7 @@ opuntia
 opus
 opuscula
 opuscule
+opuscules
 opusculum
 opuses
 oquassa
@@ -83088,6 +83108,7 @@ outhearing
 outhears
 outhits
 outhitting
+outhomer
 outhomered
 outhomering
 outhomers
@@ -83963,6 +83984,7 @@ overchilled
 overchilling
 overchills
 overcivil
+overcivilized
 overclaimed
 overclaiming
 overclaims
@@ -87430,6 +87452,7 @@ pediatricians
 pediatrics
 pedicab
 pedicabs
+pedicel
 pedicellate
 pedicels
 pedicle
@@ -89368,6 +89391,7 @@ photooxidative
 photooxidized
 photooxidizes
 photooxidizing
+photoperiodic
 photoperiodism
 photoperiodisms
 photoperiods
@@ -94709,6 +94733,7 @@ privatists
 privative
 privatively
 privatives
+privatization
 privatizations
 privatize
 privatized
@@ -100770,6 +100795,7 @@ regathers
 regatta
 regauge
 regauged
+regauges
 regauging
 regeared
 regearing
@@ -106810,6 +106836,7 @@ sarsen
 sarsenet
 sarsenets
 sarsens
+sarsnets
 sartor
 sartorial
 sartorius
@@ -110455,6 +110482,7 @@ shipbuilders
 shipbuilding
 shipbuildings
 shipfitter
+shipfitters
 shiplap
 shiplaps
 shipless
@@ -113195,6 +113223,7 @@ sniggle
 sniggled
 sniggler
 sniggles
+sniglet
 sniglets
 snip
 snipe
@@ -113657,6 +113686,7 @@ sokeman
 sokes
 sokol
 sol
+sola
 solace
 solaced
 solacement
@@ -117840,6 +117870,7 @@ stubbornness
 stubbornnesses
 stubby
 stucco
+stuccoed
 stuccoer
 stuccoers
 stuccoes
@@ -122967,6 +122998,7 @@ terpinols
 terpolymer
 terpsichorean
 terra
+terrace
 terraces
 terracing
 terrae
@@ -125595,6 +125627,7 @@ trackless
 trackman
 trackmen
 trackpad
+trackpads
 tracks
 trackside
 tracksides
@@ -128902,6 +128935,7 @@ unchurching
 unchurchly
 uncia
 unciae
+uncial
 uncially
 uncials
 unciform
@@ -138440,6 +138474,7 @@ zorillas
 zorille
 zorilles
 zorillo
+zorils
 zoster
 zosters
 zouave
