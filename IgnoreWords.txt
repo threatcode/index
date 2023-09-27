@@ -439,6 +439,7 @@ accoutered
 accouterment
 accouterments
 accouters
+accoutre
 accoutred
 accoutrement
 accoutrements
@@ -1442,6 +1443,7 @@ aediles
 aegises
 aeneous
 aeneus
+aeolian
 aeon
 aeonian
 aeonic
@@ -1874,6 +1876,7 @@ agglutinates
 agglutinating
 agglutination
 agglutinations
+agglutinins
 agglutinogenic
 agglutinogens
 aggradation
@@ -3553,6 +3556,7 @@ amputate
 amputated
 amputates
 amputating
+amputation
 amputator
 amputators
 amputee
@@ -4233,6 +4237,7 @@ annuitants
 annuities
 annuity
 annularly
+annulated
 annulation
 annulations
 annulet
@@ -12263,6 +12268,7 @@ bloater
 bloaters
 bloats
 bloatware
+bloatwares
 blob
 blobbing
 block
@@ -13584,6 +13590,7 @@ bovids
 bovine
 bovinely
 bovines
+bovinities
 bovinity
 bowdlerise
 bowdlerised
@@ -13830,6 +13837,7 @@ brainwash
 brainwasher
 brainwashers
 brainwashes
+brainwashing
 brainwashings
 brainy
 braise
@@ -14221,6 +14229,7 @@ bridewells
 bridge
 bridgeable
 bridged
+bridgehead
 bridgeless
 bridges
 bridging
@@ -18447,6 +18456,7 @@ centrically
 centricities
 centricity
 centrifugal
+centrifugally
 centrifugals
 centrifugation
 centrifugations
@@ -25826,6 +25836,7 @@ cosmopolitisms
 cosmos
 cosmoses
 cosmotron
+cosmotrons
 cosponsor
 cosponsored
 cosponsoring
@@ -27581,6 +27592,7 @@ cryotron
 crypt
 cryptal
 cryptanalysis
+cryptanalysts
 cryptanalytical
 cryptarithm
 cryptarithms
@@ -28864,6 +28876,7 @@ damner
 damners
 damnified
 damnifies
+damnify
 damnifying
 damning
 damningly
@@ -32102,6 +32115,7 @@ dewormed
 dewormer
 dewormers
 dews
+dewy
 dex
 dexamethasone
 dexes
@@ -32784,6 +32798,7 @@ dilatation
 dilatational
 dilatations
 dilatator
+dilatators
 dilate
 dilated
 dilater
@@ -33829,6 +33844,7 @@ disinterred
 disinterring
 disinters
 disintoxicated
+disintoxicates
 disintoxicating
 disintoxication
 disinvest
@@ -35691,6 +35707,7 @@ drawls
 drawly
 drawn
 drawnwork
+drawnworks
 drawplate
 drawplates
 draws
@@ -39416,6 +39433,7 @@ enzym
 enzymatically
 enzyme
 enzymes
+enzymic
 enzymologies
 enzymologist
 enzymologists
@@ -44670,6 +44688,7 @@ flatcar
 flatcars
 flatfeet
 flatfooted
+flatfooting
 flatfoots
 flathead
 flatiron
@@ -45319,6 +45338,7 @@ fluorescent
 fluorescer
 fluoresces
 fluoric
+fluorid
 fluoridate
 fluoridating
 fluoridation
@@ -48149,6 +48169,7 @@ gangbusters
 ganged
 ganger
 gangers
+ganging
 gangland
 ganglands
 ganglia
@@ -56725,6 +56746,7 @@ hydrologists
 hydrology
 hydrolysate
 hydrolysates
+hydrolysis
 hydrolyte
 hydrolytes
 hydrolytic
@@ -66060,6 +66082,7 @@ lavashes
 lavation
 lavations
 lavatories
+lavatory
 lave
 laved
 laveered
@@ -70647,6 +70670,7 @@ masculinities
 masculinity
 masculinization
 masculinize
+masculinized
 masculinizing
 maser
 masers
@@ -72388,6 +72412,7 @@ metricates
 metricating
 metrication
 metricisms
+metricize
 metricized
 metricizes
 metricizing
@@ -75805,6 +75830,7 @@ mousselines
 moussing
 moustache
 moustaches
+moustachio
 moustachios
 mousy
 mouth
@@ -78671,6 +78697,7 @@ nonallelic
 nonalphabetic
 nonaluminum
 nonambiguous
+nonanatomic
 nonanimal
 nonanswer
 nonantagonistic
@@ -89713,6 +89740,7 @@ pigsneys
 pigsticked
 pigsticker
 pigsticking
+pigsties
 pigsty
 pigtail
 pigtailed
@@ -96531,6 +96559,7 @@ pusslike
 pussycats
 pussyfoot
 pussyfooted
+pussyfooter
 pussyfooters
 pussyfooting
 pussyfoots
@@ -112242,6 +112271,7 @@ slipknots
 slipless
 slipout
 slipouts
+slipovers
 slippage
 slipped
 slipper
@@ -121588,6 +121618,7 @@ tarletans
 tarmacadam
 tarmacked
 tarmacs
+tarn
 tarnal
 tarnation
 tarnations
@@ -121668,6 +121699,7 @@ taskbars
 tasked
 tasking
 taskmaster
+taskmasters
 taskmistress
 taskwork
 taskworks
@@ -123957,6 +123989,7 @@ tightknit
 tightly
 tightness
 tightrope
+tights
 tightwad
 tightwads
 tightwire
@@ -126169,6 +126202,7 @@ tribrachic
 tribrachs
 tribulate
 tribulated
+tribulating
 tribulation
 tribulations
 tribunals
@@ -135449,6 +135483,7 @@ whelming
 whelp
 whelped
 whelping
+whelps
 whenas
 whence
 whencesoever
