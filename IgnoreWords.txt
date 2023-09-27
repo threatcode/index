@@ -698,6 +698,7 @@ acorn
 acorned
 acorns
 acoustic
+acoustical
 acoustician
 acousticians
 acoustics
@@ -4096,6 +4097,7 @@ animals
 animas
 animate
 animatedly
+animately
 animatenesses
 animaters
 animates
@@ -5163,6 +5165,7 @@ aphorized
 aphorizer
 aphorizers
 aphorizes
+aphorizing
 aphotic
 aphrodisiac
 aphrodisiacal
@@ -11475,6 +11478,7 @@ biont
 bionts
 biophilia
 biophilias
+biophysicists
 biophysics
 biopic
 biopics
@@ -22321,6 +22325,7 @@ coiffure
 coiffures
 coiffuring
 coifs
+coign
 coigne
 coigned
 coignes
@@ -24279,6 +24284,7 @@ consanguineous
 consanguinities
 consanguinity
 conscience
+consciences
 conscientious
 conscientiously
 conscionable
@@ -28950,6 +28956,7 @@ dappling
 daps
 dapsone
 dapsones
+darb
 darbar
 darbars
 darbies
@@ -37760,6 +37767,7 @@ elytrous
 elytrum
 em
 emaciate
+emaciated
 emaciates
 emaciations
 email
@@ -40460,6 +40468,7 @@ ethnohistory
 ethnologic
 ethnologies
 ethnologist
+ethnologists
 ethnology
 ethnomusicology
 ethnonym
@@ -41812,6 +41821,7 @@ exsolution
 exstrophies
 exstrophy
 extant
+extemporal
 extemporally
 extemporaneity
 extemporaneous
@@ -42708,6 +42718,7 @@ farle
 farles
 farls
 farm
+farmable
 farmed
 farmer
 farmerette
@@ -45511,6 +45522,7 @@ foils
 foilsman
 foilsmen
 foin
+foined
 foining
 foins
 foison
@@ -46631,6 +46643,7 @@ frayed
 fraying
 frayings
 frays
+frazil
 frazils
 frazzled
 frazzles
@@ -46947,6 +46960,7 @@ frivolers
 frivoling
 frivolity
 frivolled
+frivollers
 frivolling
 frivolously
 frivolousness
@@ -48258,6 +48272,7 @@ garnered
 garners
 garnetiferous
 garnets
+garnierites
 garnished
 garnishee
 garnisheed
@@ -55860,6 +55875,7 @@ horrific
 horrifically
 horrified
 horrifies
+horrify
 horrifying
 horrifyingly
 horror
@@ -58077,6 +58093,7 @@ imparked
 imparking
 imparks
 impart
+impartation
 imparted
 imparters
 impartial
@@ -60551,6 +60568,7 @@ insular
 insularism
 insularisms
 insularity
+insulars
 insulated
 insulating
 insulation
@@ -69219,6 +69237,7 @@ machree
 machrees
 machs
 machzor
+machzorim
 machzors
 macintosh
 macintoshes
@@ -71851,6 +71870,7 @@ meritocratic
 meritocrats
 meritoriously
 meritoriousness
+merits
 merk
 merks
 merl
@@ -73885,6 +73905,7 @@ mislaying
 mislays
 mislead
 misleader
+misleaders
 misleading
 misleadingly
 misleads
@@ -75938,6 +75959,7 @@ muffineer
 muffineers
 muffing
 muffins
+muffle
 muffled
 muffler
 mufflers
@@ -76886,6 +76908,7 @@ nacres
 nada
 nadas
 nadir
+nadiral
 nadirs
 nae
 naething
@@ -100807,6 +100830,7 @@ reinflations
 reinforce
 reinforceable
 reinforcement
+reinforcer
 reinforcers
 reinforces
 reinforcing
@@ -109437,6 +109461,7 @@ sextarius
 sextets
 sextile
 sextillion
+sextillions
 sexto
 sextodecimo
 sextodecimos
@@ -112875,6 +112900,7 @@ sniveled
 sniveler
 snivelers
 sniveling
+sniveller
 snivellers
 snob
 snobbery
@@ -114895,6 +114921,7 @@ splenium
 splenius
 splenomegalies
 splents
+spleuchan
 spleuchans
 splice
 spliced
@@ -115927,6 +115954,7 @@ starships
 starstruck
 start
 starters
+starting
 startle
 startled
 startlements
@@ -124584,6 +124612,7 @@ tonnage
 tonnages
 tonne
 tonneau
+tonneaux
 tonner
 tonners
 tonnish
@@ -127655,6 +127684,7 @@ typhoidal
 typhoids
 typhon
 typhons
+typhoon
 typhoons
 typhose
 typhous
@@ -129343,6 +129373,7 @@ unevaded
 unevener
 unevenly
 unevenness
+unevennesses
 uneventful
 uneventfully
 uneventfulness
@@ -130932,6 +130963,7 @@ untrod
 untrodden
 untrue
 untruest
+untruly
 untrusses
 untrusting
 untrustworthy
@@ -134686,6 +134718,7 @@ waterproofings
 waterproofness
 waters
 waterscape
+waterscapes
 watershed
 watersheds
 waterside
@@ -135291,6 +135324,7 @@ whee
 wheedle
 wheedled
 wheedler
+wheedlers
 wheedles
 wheedling
 wheel
@@ -135659,6 +135693,7 @@ whoopees
 whooper
 whoopers
 whoopie
+whoopies
 whoopla
 whooplas
 whoops
