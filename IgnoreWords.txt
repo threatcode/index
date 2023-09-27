@@ -639,6 +639,7 @@ acidimetries
 acidimetry
 acidities
 acidity
+acidly
 acidness
 acidnesses
 acidophil
@@ -2742,6 +2743,7 @@ alliteratively
 allium
 alloantibody
 alloantigen
+alloantigens
 allobar
 allobars
 allocable
@@ -7620,6 +7622,7 @@ autostrade
 autosuggest
 autosuggested
 autosuggesting
+autosuggestion
 autosuggestions
 autotetraploid
 autotetraploids
@@ -9911,6 +9914,7 @@ beefily
 beefiness
 beefing
 beefs
+beefwood
 beefwoods
 beefy
 beehive
@@ -13220,6 +13224,7 @@ boozer
 boozers
 boozes
 boozier
+booziest
 boozily
 booziness
 boozinesses
@@ -14819,6 +14824,7 @@ bucktooth
 bucktoothed
 buckwheat
 buckwheats
+buckyball
 buckyballs
 buckytube
 buckytubes
@@ -19963,6 +19969,7 @@ chokes
 chokey
 chokier
 choking
+chokingly
 choky
 chola
 cholangiogram
@@ -25033,6 +25040,7 @@ coomb
 coombe
 coombs
 cooncan
+cooncans
 coonhound
 coonhounds
 coons
@@ -25135,6 +25143,7 @@ coplanar
 coplanarity
 coplots
 coplotted
+coplotting
 copolymer
 copolymeric
 copolymerize
@@ -26482,6 +26491,7 @@ cozey
 cozeys
 cozie
 cozied
+cozies
 coziest
 cozily
 coziness
@@ -26929,6 +26939,7 @@ crepitant
 crepitate
 crepitated
 crepitates
+crepitating
 crepitation
 crepitations
 crepon
@@ -26954,6 +26965,7 @@ cresset
 cressets
 crest
 crestal
+crested
 crestfallenness
 crestings
 crestless
@@ -29625,6 +29637,7 @@ decimal
 decimalization
 decimalize
 decimalizing
+decimals
 decimate
 decimated
 decimates
@@ -35339,6 +35352,7 @@ dovetailing
 dovetails
 dovish
 dovishness
+dovishnesses
 dow
 dowable
 dowager
@@ -38632,6 +38646,7 @@ endostyle
 endostyles
 endosymbiont
 endosymbioses
+endosymbiotic
 endothecia
 endothecium
 endothelia
@@ -43164,6 +43179,7 @@ feetless
 feeze
 feezed
 feezes
+feezing
 feh
 fehs
 feign
@@ -43899,6 +43915,7 @@ filer
 files
 filet
 fileted
+fileting
 filets
 filial
 filiate
@@ -54914,6 +54931,7 @@ hippienesses
 hippier
 hippies
 hippinesses
+hipping
 hippish
 hippo
 hippocampal
@@ -58502,6 +58520,7 @@ improvident
 improvidently
 improving
 improvisation
+improvisational
 improvisations
 improvisatori
 improvisatorial
@@ -62656,6 +62675,7 @@ jams
 jane
 janes
 jangle
+jangled
 jangler
 janglers
 jangles
@@ -80280,6 +80300,7 @@ nuzzled
 nuzzler
 nuzzlers
 nuzzles
+nyala
 nyalas
 nyctalopia
 nyctalopias
@@ -80889,6 +80910,7 @@ odometry
 odonate
 odonates
 odontoblast
+odontoblastic
 odontoblasts
 odontoglossum
 odontoglossums
@@ -82976,6 +82998,7 @@ outpaint
 outpainted
 outpainting
 outpaints
+outpass
 outpassed
 outpasses
 outpassing
@@ -94441,6 +94464,7 @@ privatized
 privatizes
 privatizing
 privet
+privier
 privies
 priviest
 privilege
@@ -99612,6 +99636,7 @@ rededicate
 rededicated
 rededicates
 rededication
+redeemed
 redeemer
 redeemers
 redeeming
@@ -99933,6 +99958,7 @@ reeditions
 reedits
 reedlike
 reedlings
+reedman
 reedmen
 reeds
 reeducate
@@ -100799,6 +100825,7 @@ reindeer
 reindeers
 reindexes
 reindicted
+reindicting
 reindictment
 reindictments
 reindicts
@@ -101612,6 +101639,7 @@ renounces
 renouncing
 renovascular
 renovated
+renovates
 renovating
 renovation
 renovations
@@ -108219,6 +108247,7 @@ secreted
 secreter
 secretest
 secretin
+secreting
 secretins
 secretion
 secretively
@@ -113601,6 +113630,7 @@ somewhither
 somewise
 somital
 somites
+sommelier
 sommeliers
 somnambulate
 somnambulated
@@ -118014,6 +118044,7 @@ subinfeuds
 subinterval
 subintervals
 subirrigate
+subirrigated
 subirrigates
 subirrigating
 subirrigation
@@ -130320,6 +130351,7 @@ unprogrammed
 unprogressive
 unprompted
 unpronounceable
+unpronounced
 unpropitious
 unprosperous
 unprotected
@@ -131123,6 +131155,7 @@ unwrap
 unwrapped
 unwraps
 unwreathe
+unwreathes
 unwrinkle
 unwrinkled
 unwrinkles
@@ -132801,6 +132834,7 @@ versemen
 verser
 versers
 verses
+versification
 versifications
 versified
 versifier
@@ -136240,6 +136274,7 @@ wisenheimer
 wisent
 wisents
 wiser
+wises
 wisest
 wisewomen
 wish
