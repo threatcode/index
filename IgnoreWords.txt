@@ -4291,6 +4291,7 @@ anonyms
 anoopsia
 anopheles
 anopheline
+anophelines
 anopia
 anopias
 anorak
@@ -6101,6 +6102,7 @@ armlet
 armlets
 armlike
 armload
+armloads
 armlock
 armlocks
 armoire
@@ -9576,6 +9578,7 @@ beanbags
 beanball
 beanballs
 beaned
+beanery
 beanie
 beanies
 beaning
@@ -10867,6 +10870,7 @@ bewilderment
 bewilderments
 bewilders
 bewinged
+bewitched
 bewitcher
 bewitcheries
 bewitchery
@@ -11524,6 +11528,7 @@ bioregions
 bioremediation
 biorhythm
 biorhythmic
+biorhythms
 bios
 biosafeties
 biosafety
@@ -13031,6 +13036,7 @@ bongo
 bongoes
 bongoist
 bongoists
+bongos
 bongs
 bonhomie
 bonhomies
@@ -18635,6 +18641,7 @@ certifier
 certifiers
 certify
 certifying
+certiorari
 certitude
 certitudes
 cerulean
@@ -19410,6 +19417,7 @@ chelonian
 chelonians
 chemical
 chemics
+chemise
 chemises
 chemisette
 chemisettes
@@ -22188,6 +22196,7 @@ coercivities
 coercivity
 coerected
 coerecting
+coesite
 coesites
 coetaneous
 coeternal
@@ -29694,6 +29703,7 @@ decimal
 decimalization
 decimalize
 decimalizing
+decimally
 decimals
 decimate
 decimated
@@ -29928,6 +29938,7 @@ decrepitudes
 decrescendo
 decrescent
 decretal
+decretals
 decretive
 decrial
 decrials
@@ -33175,6 +33186,7 @@ directed
 directedness
 directednesses
 directer
+directest
 directing
 direction
 directionality
@@ -34886,6 +34898,7 @@ doggoneder
 doggoner
 doggonest
 doggrel
+doggrels
 doggy
 doghanged
 dogie
@@ -36656,6 +36669,7 @@ dyslectics
 dyslexias
 dyslexic
 dyslexics
+dyslogistic
 dyslogistically
 dysmenorrhea
 dysmenorrheas
@@ -40656,6 +40670,7 @@ eudaimonism
 eudaimons
 eudemon
 eudemonia
+eudemonias
 eudemons
 eudiometer
 eudiometers
@@ -45958,6 +45973,7 @@ forebode
 foreboded
 foreboder
 forebodies
+foreboding
 forebodingly
 forebodingness
 forebodings
@@ -56521,6 +56537,7 @@ humoured
 humouring
 humours
 hump
+humpback
 humpbacks
 humped
 humper
@@ -58851,6 +58868,7 @@ incarcerating
 incarceration
 incarcerations
 incardination
+incardinations
 incarnadine
 incarnadining
 incarnated
@@ -59865,6 +59883,7 @@ inflects
 inflexibilities
 inflexibility
 inflexible
+inflexibleness
 inflexibly
 inflexion
 inflexions
@@ -61037,6 +61056,7 @@ intergraded
 intergrades
 intergrading
 intergraft
+intergrafted
 intergrafting
 intergrafts
 intergroup
@@ -61636,6 +61656,7 @@ intrinsically
 intro
 introduce
 introduced
+introducer
 introducers
 introduces
 introductorily
@@ -63862,6 +63883,7 @@ kalpacs
 kalpak
 kalpaks
 kalpas
+kalsomine
 kalsomined
 kalsomines
 kalyptra
@@ -71602,6 +71624,7 @@ melanisms
 melanist
 melanistic
 melanite
+melanites
 melanitic
 melanization
 melanizations
@@ -82001,6 +82024,7 @@ ordinariest
 ordinarily
 ordinariness
 ordinary
+ordinate
 ordinates
 ordinations
 ordines
@@ -85875,6 +85899,7 @@ pansexuals
 pansies
 pansophic
 pansophies
+pansophy
 pansy
 pantalones
 pantaloon
@@ -93118,6 +93143,7 @@ precieux
 precincts
 preciosities
 preciosity
+preciously
 preciousnesses
 precipe
 precipes
@@ -100119,6 +100145,7 @@ reeducate
 reeducates
 reeducating
 reeducations
+reeducative
 reedy
 reefable
 reefed
@@ -102272,6 +102299,7 @@ reproduces
 reproducibility
 reproducible
 reproducibles
+reproducibly
 reproducing
 reproduction
 reproductive
@@ -107038,6 +107066,7 @@ scag
 scagliolas
 scags
 scalable
+scalade
 scalades
 scalados
 scalage
@@ -107230,6 +107259,7 @@ scarpers
 scarphed
 scarphs
 scarping
+scarps
 scarred
 scarrier
 scarriest
@@ -111515,6 +111545,7 @@ sinter
 sinterabilities
 sinterability
 sintered
+sintering
 sinters
 sinuate
 sinuately
@@ -122695,6 +122726,7 @@ tenures
 tenurial
 tenurially
 tenuring
+tenuti
 tenuto
 tenutos
 teocallis
@@ -132808,6 +132840,7 @@ ventage
 ventail
 vented
 venter
+venters
 ventifact
 ventilate
 ventilated
@@ -133091,6 +133124,7 @@ vesicated
 vesicates
 vesicating
 vesicle
+vesicles
 vesiculae
 vesicular
 vesicularities
@@ -134464,6 +134498,7 @@ wakame
 wakames
 wakanda
 wake
+wakeboard
 wakeboarder
 wakeboarding
 wakeboardings
