@@ -5296,6 +5296,7 @@ apologizers
 apologizes
 apologizing
 apologues
+apology
 apolune
 apolunes
 apomict
@@ -5888,6 +5889,7 @@ archfiends
 archfoe
 archfoes
 archicarp
+archidiaconal
 archiepiscopal
 archiepiscopate
 archil
@@ -7690,6 +7692,7 @@ auxesis
 auxiliaries
 auxiliary
 auxin
+auxinic
 auxotrophic
 auxotrophies
 avadavat
@@ -13092,6 +13095,7 @@ bonneted
 bonnets
 bonnie
 bonnier
+bonniest
 bonnily
 bonniness
 bonninesses
@@ -24498,6 +24502,7 @@ consigner
 consigners
 consigning
 consignment
+consignor
 consignors
 consigns
 consist
@@ -26434,6 +26439,7 @@ couters
 couth
 couthest
 couthie
+couthier
 couths
 couture
 coutures
@@ -27996,6 +28002,7 @@ cumbrances
 cumbrous
 cumbrousnesses
 cumin
+cummer
 cummerbund
 cummin
 cummins
@@ -35266,6 +35273,7 @@ dooly
 doom
 doomed
 doomful
+doomfully
 doomier
 doomiest
 doomily
@@ -40367,6 +40375,7 @@ escar
 escargot
 escarole
 escaroles
+escarp
 escarped
 escarping
 escarpment
@@ -41881,6 +41890,7 @@ explanations
 explanative
 explanatively
 explanatorily
+explant
 explantation
 explantations
 explanted
@@ -46048,6 +46058,7 @@ forams
 foray
 forayer
 forayers
+foraying
 forays
 forbad
 forbade
@@ -49748,6 +49759,7 @@ giro
 girolles
 giron
 giros
+girosol
 girosols
 girsh
 girshes
@@ -52686,6 +52698,7 @@ hafted
 hafter
 hafters
 haftorah
+haftoros
 haftorot
 haftoroth
 hafts
@@ -52726,6 +52739,7 @@ hagiarchy
 hagiographers
 hagiographic
 hagiographical
+hagiographies
 hagiologic
 hagiology
 hagioscope
@@ -62067,6 +62081,7 @@ invertebrates
 inverted
 inverters
 invertible
+invertin
 inverting
 invertins
 invertor
@@ -64935,6 +64950,7 @@ klatsch
 klatsches
 klavern
 klaxon
+klaxons
 klebsiella
 klebsiellas
 kleenex
@@ -64945,6 +64961,7 @@ klephts
 kleptomania
 kleptomaniac
 kleptomaniacs
+kleptomanias
 kleptos
 klezmer
 klezmers
@@ -65240,6 +65257,7 @@ koupreys
 kouroi
 kouros
 koussos
+kowtow
 kowtower
 kowtows
 kraal
@@ -70291,6 +70309,7 @@ manacled
 manacles
 manacling
 manage
+manageability
 manageable
 manageably
 managed
@@ -72797,6 +72816,7 @@ mezuza
 mezuzah
 mezuzahs
 mezuzas
+mezuzot
 mezuzoth
 mezzaluna
 mezzalunas
@@ -80395,6 +80415,7 @@ novelising
 novelistic
 novelistically
 novelizations
+novelize
 novelized
 novelizer
 novelizers
@@ -85541,6 +85562,7 @@ package
 packaged
 packager
 packagers
+packaging
 packboards
 packed
 packer
@@ -91706,6 +91728,7 @@ poh
 poi
 poignance
 poignancies
+poignancy
 poignantly
 poikilotherm
 poikilothermic
@@ -92381,6 +92404,7 @@ poppadums
 poppas
 popped
 popper
+poppers
 poppet
 poppets
 poppied
@@ -92769,6 +92793,7 @@ postmarks
 postmastectomy
 postmaster
 postmasters
+postmastership
 postmasterships
 postmating
 postmedieval
@@ -97514,6 +97539,7 @@ quartzous
 quasar
 quasars
 quash
+quashed
 quasher
 quashers
 quashing
@@ -98284,6 +98310,7 @@ rainbows
 raincheck
 raincoat
 raincoats
+raindrop
 rained
 rainfall
 rainfalls
@@ -99754,6 +99781,7 @@ recomputes
 recomputing
 recon
 reconceived
+reconceives
 reconceiving
 reconcentrate
 reconcentrated
@@ -106200,6 +106228,7 @@ sacrosanctities
 sacrosanctity
 sacrums
 sad
+sadden
 saddened
 saddening
 saddhus
@@ -106593,6 +106622,7 @@ salvarsan
 salvation
 salvational
 salvationist
+salvationists
 salvations
 salve
 salved
@@ -109286,6 +109316,7 @@ seminally
 seminar
 seminarian
 seminaries
+seminarist
 seminarists
 seminars
 seminary
@@ -117218,6 +117249,7 @@ stinkpot
 stinkpots
 stinks
 stinkweed
+stinkwood
 stinkwoods
 stinky
 stinted
@@ -119385,6 +119417,7 @@ suggestions
 suggestive
 suggestiveness
 suggests
+sugh
 sughed
 sughing
 sughs
@@ -123839,6 +123872,7 @@ thespians
 thesps
 thetic
 thetical
+thetically
 theurgic
 theurgical
 theurgist
@@ -129125,6 +129159,7 @@ uncases
 uncashed
 uncasing
 uncast
+uncastrated
 uncataloged
 uncatchable
 uncatchy
