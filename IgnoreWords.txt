@@ -3272,6 +3272,7 @@ amenability
 amenable
 amenably
 amend
+amendable
 amendatory
 amended
 amender
@@ -4301,6 +4302,7 @@ anorexies
 anorexigenic
 anorexy
 anorthic
+anorthites
 anorthitic
 anorthosite
 anorthosites
@@ -7126,6 +7128,7 @@ attaining
 attainment
 attainments
 attains
+attaint
 attainted
 attainting
 attars
@@ -7664,6 +7667,7 @@ autunites
 auxeses
 auxesis
 auxiliaries
+auxiliary
 auxin
 auxotrophic
 auxotrophies
@@ -9313,6 +9317,7 @@ bastinado
 bastinadoed
 bastinadoing
 basting
+bastings
 bastioned
 bastions
 bat
@@ -13057,6 +13062,7 @@ bonobos
 bonsai
 bonspell
 bonspells
+bonspiel
 bonspiels
 bonteboks
 bonus
@@ -19822,6 +19828,7 @@ chirped
 chirper
 chirpers
 chirpier
+chirpiest
 chirpily
 chirping
 chirps
@@ -21947,6 +21954,7 @@ cockroaches
 cockscomb
 cockscombs
 cockshies
+cockshut
 cockshuts
 cockshy
 cockspur
@@ -25798,6 +25806,7 @@ coshes
 coshing
 cosie
 cosies
+cosiest
 cosignatories
 cosigned
 cosigners
@@ -31183,6 +31192,7 @@ depilator
 depilatories
 depilators
 depilatory
+deplane
 deplaned
 deplanes
 deplaning
@@ -33616,6 +33626,7 @@ disdaining
 disdains
 disease
 diseased
+diseases
 diseasing
 diseconomies
 diseconomy
@@ -40043,6 +40054,7 @@ erlkings
 ermine
 ermined
 erne
+erode
 eroded
 erodent
 erodes
@@ -41791,6 +41803,7 @@ exposals
 expose
 exposed
 exposer
+exposers
 exposes
 exposing
 exposit
@@ -48158,6 +48171,7 @@ gamma
 gammadion
 gammas
 gammed
+gammers
 gammier
 gammiest
 gamming
@@ -50294,6 +50308,7 @@ god
 godchild
 godchildren
 goddammed
+goddamming
 goddamndest
 goddamned
 goddamnedest
@@ -53767,6 +53782,7 @@ heartstrings
 heartthrob
 heartthrobs
 heartwarming
+heartwood
 heartwoods
 heartworms
 hearty
@@ -57007,6 +57023,7 @@ hyperenergetic
 hyperesthesia
 hyperesthesias
 hyperesthetic
+hypereutectic
 hypereutectoid
 hyperexcitable
 hyperexcited
@@ -58949,6 +58966,7 @@ inclosing
 inclosure
 inclosures
 includable
+include
 included
 includes
 includible
@@ -60538,6 +60556,7 @@ inspirationally
 inspirator
 inspirators
 inspire
+inspirers
 inspires
 inspiring
 inspirit
@@ -63471,6 +63490,7 @@ judases
 judder
 juddered
 juddering
+judge
 judged
 judgement
 judgements
@@ -67061,6 +67081,7 @@ liberty
 libidinal
 libidinally
 libidinously
+libidinousness
 libido
 libidos
 liblab
@@ -84487,6 +84508,7 @@ overprices
 overpricing
 overprint
 overprints
+overprivileged
 overprize
 overprized
 overprizing
@@ -90731,6 +90753,7 @@ plats
 platted
 platter
 platterful
+platterfuls
 plattersful
 platting
 platy
@@ -96289,6 +96312,7 @@ punctilios
 punctilious
 punctiliously
 punctiliousness
+punctualities
 punctuality
 punctually
 punctuate
@@ -100383,9 +100407,11 @@ reflectivities
 reflectivity
 reflectometers
 reflectometries
+reflectometry
 reflector
 reflectorized
 reflectorizes
+reflectorizing
 reflectors
 reflects
 reflet
@@ -105500,6 +105526,7 @@ runabouts
 runagates
 runaround
 runarounds
+runaway
 runaways
 runback
 rundle
@@ -106661,6 +106688,7 @@ sashless
 sasin
 saskatoons
 sasquatch
+sasquatches
 sassabies
 sassaby
 sassafrases
@@ -109838,6 +109866,7 @@ shanks
 shannies
 shanny
 shantey
+shanteys
 shanti
 shanties
 shantihs
@@ -125599,6 +125628,7 @@ tranquiler
 tranquilest
 tranquilities
 tranquilize
+tranquilized
 tranquilizer
 tranquilizers
 tranquilizes
@@ -126204,6 +126234,7 @@ triable
 triac
 triacetate
 triacetates
+triacid
 triacids
 triacs
 triadically
@@ -131237,6 +131268,7 @@ unwept
 unwet
 unwetted
 unwhipped
+unwhite
 unwieldiest
 unwieldiness
 unwieldinesses
@@ -131297,6 +131329,7 @@ unwrinkled
 unwrinkles
 unwrinkling
 unwritten
+unwrung
 unyeaned
 unyieldingly
 unyoke
@@ -134787,6 +134820,7 @@ wasts
 wat
 watap
 watape
+watapes
 watch
 watchable
 watchables
@@ -136970,6 +137004,7 @@ wormwood
 wormwoods
 wormy
 worn
+wornness
 worried
 worriedly
 worriers
