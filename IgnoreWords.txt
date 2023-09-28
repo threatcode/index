@@ -8492,6 +8492,7 @@ bailable
 bailed
 bailee
 bailees
+bailer
 bailers
 bailey
 baileys
@@ -9257,6 +9258,7 @@ basement
 basements
 basenesses
 basenji
+basenjis
 baseplate
 baseplates
 baser
@@ -9553,6 +9555,7 @@ baying
 baymen
 bayonet
 bayoneted
+bayoneting
 bayonets
 bayonetted
 bayonetting
@@ -9863,6 +9866,7 @@ bedcovers
 beddable
 bedded
 bedding
+bedeafened
 bedeafening
 bedeafens
 bedeck
@@ -13816,6 +13820,7 @@ boycotter
 boycotters
 boyfriends
 boyhood
+boyhoods
 boyishly
 boyishness
 boyishnesses
@@ -21431,6 +21436,7 @@ clicking
 clicks
 clickwrap
 client
+clientage
 clientages
 cliental
 clientele
@@ -31025,6 +31031,7 @@ demilunes
 demimondaine
 demimonde
 demimondes
+demineralize
 demineralizer
 demineralizers
 demineralizes
@@ -34499,6 +34506,7 @@ disrupt
 disrupted
 disrupter
 disrupters
+disrupting
 disruption
 disruptions
 disruptive
@@ -39193,6 +39201,7 @@ enginery
 engines
 enginous
 engirded
+engirding
 engirdle
 engirdles
 engirds
@@ -43056,6 +43065,7 @@ fanfic
 fanfics
 fanfolded
 fanfolding
+fanga
 fangas
 fanged
 fangless
@@ -43305,6 +43315,7 @@ fatback
 fatbacks
 fatbird
 fatbirds
+fated
 fatefully
 fatefulness
 fatefulnesses
@@ -48167,6 +48178,7 @@ futurologies
 futurologist
 futurologists
 futurology
+futz
 futzed
 futzing
 fuze
@@ -53131,6 +53143,7 @@ halfbeaks
 halfhearted
 halfheartedly
 halfheartedness
+halflife
 halflives
 halfpence
 halfpennies
@@ -58655,6 +58668,7 @@ immutablenesses
 immutably
 immy
 imp
+impacted
 impacter
 impacters
 impactful
@@ -58867,6 +58881,7 @@ impetrated
 impetrates
 impetrating
 impetration
+impetrations
 impetuosity
 impetuous
 impetuously
@@ -59115,6 +59130,7 @@ improvisation
 improvisational
 improvisations
 improvisator
+improvisatore
 improvisatori
 improvisatorial
 improvisators
@@ -65000,6 +65016,7 @@ kilobars
 kilobase
 kilobaud
 kilobit
+kilobits
 kilobyte
 kilocalorie
 kilocurie
@@ -66397,6 +66414,7 @@ largess
 largesse
 largesses
 largest
+larghettos
 largo
 largos
 lari
@@ -66557,6 +66575,7 @@ latherer
 latherers
 lathering
 lathers
+lathery
 lathes
 lathi
 lathier
@@ -72070,6 +72089,7 @@ medullar
 medullary
 medullas
 medullated
+medulloblastoma
 medusa
 medusae
 medusal
@@ -72374,6 +72394,7 @@ memorialist
 memorialists
 memorialize
 memorialized
+memorializing
 memorially
 memorise
 memorised
@@ -74477,6 +74498,7 @@ misdoings
 misdoubt
 misdoubted
 misdoubting
+misdraw
 misdrawn
 misdrew
 misdrive
@@ -85393,6 +85415,7 @@ oversewing
 oversewn
 overshaded
 overshades
+overshadow
 overshadowed
 overshadows
 oversharp
@@ -87047,6 +87070,7 @@ pardi
 pardie
 pardner
 pardners
+pardon
 pardonable
 pardonableness
 pardoner
@@ -87155,6 +87179,7 @@ parleyers
 parleying
 parleys
 parliament
+parliamentarian
 parliamentary
 parliaments
 parling
@@ -91157,6 +91182,7 @@ pitilessness
 pitilessnesses
 pitman
 pitmans
+piton
 pitons
 pitsaw
 pitsaws
@@ -100130,6 +100156,7 @@ reciters
 recites
 reciting
 recked
+reckless
 recklessly
 recklessness
 reckon
@@ -104241,6 +104268,7 @@ retracer
 retraces
 retracing
 retrack
+retracked
 retracks
 retract
 retractable
@@ -108256,6 +108284,7 @@ schematizes
 schematizing
 scheme
 schemer
+schemers
 scheming
 scherzando
 scherzandos
@@ -112153,6 +112182,7 @@ silences
 silencing
 sileni
 silent
+silentest
 silently
 silentness
 silents
@@ -118817,6 +118847,7 @@ sturdied
 sturdier
 sturdies
 sturdiest
+sturdily
 sturdiness
 sturdinesses
 sturdy
@@ -128317,6 +128348,7 @@ tuberosities
 tuberous
 tubes
 tubeworks
+tubeworms
 tubfuls
 tubifex
 tubifexes
@@ -128399,6 +128431,7 @@ tulipwoods
 tullibee
 tullibees
 tumble
+tumblebug
 tumblebugs
 tumbled
 tumbledown
@@ -130041,6 +130074,7 @@ uncontrolled
 uncontroversial
 unconventional
 unconverted
+unconvinced
 unconvincing
 unconvincingly
 unconvoyed
@@ -139421,6 +139455,7 @@ zoophiles
 zoophilia
 zoophilias
 zoophilic
+zoophilies
 zoophilous
 zoophily
 zoophobe
