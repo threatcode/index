@@ -327,6 +327,7 @@ acceptees
 accepter
 accepting
 acceptingness
+acceptingnesses
 acceptive
 acceptor
 accessary
@@ -3283,6 +3284,7 @@ ameliorate
 ameliorates
 ameliorating
 ameliorative
+ameliorators
 amelioratory
 ameloblast
 ameloblasts
@@ -14347,6 +14349,7 @@ bricklaying
 bricklayings
 bricks
 brickwork
+brickworks
 bricky
 brickyards
 bricolage
@@ -16424,6 +16427,7 @@ calquing
 calthrop
 calthrops
 caltrap
+caltrops
 calumets
 calumniate
 calumniated
@@ -17763,6 +17767,7 @@ cascaded
 cascades
 cascading
 cascara
+cascarilla
 cascarillas
 case
 casease
@@ -18147,6 +18152,7 @@ catholicates
 catholicity
 catholicize
 catholicized
+catholicizes
 catholicizing
 catholicoi
 catholicon
@@ -19520,6 +19526,7 @@ cheerfulness
 cheerfulnesses
 cheerier
 cheeriest
+cheerily
 cheerinesses
 cheering
 cheerios
@@ -20731,6 +20738,7 @@ cinematic
 cinematically
 cinematizes
 cinematizing
+cinematograph
 cinematographer
 cinematographic
 cinematographs
@@ -21213,6 +21221,7 @@ classifications
 classified
 classify
 classifying
+classinesses
 classing
 classis
 classism
@@ -22351,6 +22360,7 @@ coenamored
 coenamors
 coendure
 coendured
+coendures
 coenduring
 coenobite
 coenocyte
@@ -24842,6 +24852,7 @@ containerizing
 containerless
 containerport
 containerports
+containers
 containership
 containerships
 containing
@@ -24896,6 +24907,7 @@ contentedly
 contentedness
 contentednesses
 contention
+contentions
 contentious
 contentiously
 contentments
@@ -28803,6 +28815,7 @@ cymblings
 cyme
 cymene
 cymenes
+cymes
 cymlin
 cymling
 cymlings
@@ -38918,6 +38931,7 @@ endbrains
 endear
 endeared
 endearing
+endearingly
 endearment
 endearments
 endears
@@ -53731,6 +53745,7 @@ harlotry
 harlots
 harm
 harmattan
+harmed
 harmers
 harmful
 harmfully
@@ -54246,6 +54261,7 @@ heartening
 heartens
 heartfelt
 heartfree
+hearth
 hearths
 hearthstone
 hearthstones
@@ -67818,6 +67834,7 @@ lieutenants
 lieve
 liever
 lifeblood
+lifebloods
 lifeboat
 lifeboats
 lifecare
@@ -75623,6 +75640,7 @@ monaurally
 monaxial
 monaxon
 monaxons
+monazite
 monazites
 monde
 mondes
@@ -77140,6 +77158,7 @@ mungo
 mungoes
 mungoose
 mungooses
+mungos
 municipal
 municipalities
 municipality
@@ -82805,6 +82824,7 @@ organizational
 organizations
 organize
 organized
+organizer
 organizers
 organizes
 organizing
@@ -85487,6 +85507,7 @@ overspeculate
 overspeculated
 overspeculates
 overspeculating
+overspeculation
 overspender
 overspenders
 overspending
@@ -88339,6 +88360,7 @@ pelvics
 pelvises
 pelycosaur
 pelycosaurs
+pembina
 pembinas
 pemican
 pemmican
@@ -92095,6 +92117,7 @@ poachy
 poblano
 poblanos
 poboy
+poboys
 pochard
 pock
 pocked
@@ -96735,6 +96758,7 @@ psilocin
 psilocins
 psilocybins
 psilophyte
+psilophytes
 psilophytic
 psiloses
 psilosis
@@ -116927,6 +116951,7 @@ staggeringly
 staggers
 staggery
 staggie
+staggies
 staggiest
 stagging
 staghound
@@ -124337,6 +124362,7 @@ theme
 themed
 themes
 themselves
+thenage
 thenages
 thenars
 thence
@@ -125493,6 +125519,7 @@ tiptop
 tiptops
 tirades
 tiramisu
+tiramisus
 tire
 tired
 tireder
@@ -125871,6 +125898,7 @@ tombstones
 tomcatted
 tomcatting
 tomcod
+tome
 tomenta
 tomentose
 tomentum
@@ -128113,6 +128141,7 @@ trouveur
 trouveurs
 trove
 trover
+trow
 trowed
 trowel
 troweler
@@ -129892,6 +129921,7 @@ uncharitable
 uncharming
 uncharted
 unchartered
+unchary
 unchaste
 unchastenesses
 unchaster
@@ -132619,6 +132649,7 @@ upend
 upended
 upending
 upends
+upfield
 upflinging
 upflings
 upflow
@@ -133251,6 +133282,7 @@ vacuolar
 vacuolate
 vacuolated
 vacuolations
+vacuole
 vacuoles
 vacuous
 vacuously
@@ -133943,6 +133975,7 @@ venerabilities
 venerable
 venerableness
 venerablenesses
+venerables
 venerably
 venerated
 venerates
@@ -134741,6 +134774,7 @@ violation
 violations
 violative
 violators
+violently
 violet
 violets
 violin
@@ -134919,6 +134953,7 @@ visitors
 visits
 visor
 visored
+visoring
 visorless
 vista
 visual
