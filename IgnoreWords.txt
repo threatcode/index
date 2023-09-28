@@ -3666,6 +3666,7 @@ anaemic
 anaerobe
 anaerobia
 anaerobic
+anaerobically
 anaerobioses
 anaerobiosis
 anaesthesia
@@ -15514,6 +15515,7 @@ bushelmen
 bushels
 bushers
 bushes
+bushfire
 bushfires
 bushgoat
 bushido
@@ -16871,6 +16873,7 @@ canulating
 canvas
 canvasback
 canvasbacks
+canvased
 canvaser
 canvasers
 canvasing
@@ -17451,6 +17454,7 @@ carn
 carnages
 carnal
 carnalities
+carnality
 carnallite
 carnallites
 carnally
@@ -18473,6 +18477,7 @@ censual
 censurable
 censure
 censured
+censurer
 censures
 censuring
 census
@@ -23616,7 +23621,9 @@ compression
 compressional
 compressions
 compressive
+compressively
 compressors
+comprisal
 comprisals
 comprised
 comprising
@@ -29164,6 +29171,7 @@ daphne
 daphnes
 daphnias
 dapped
+dapperer
 dapperest
 dapperly
 dapping
@@ -33220,6 +33228,7 @@ diopsides
 diopsidic
 dioptase
 dioptases
+dioptral
 dioptre
 dioptres
 dioptric
@@ -37490,6 +37499,7 @@ effete
 effetely
 effeteness
 effetenesses
+efficacies
 efficaciousness
 efficacities
 efficacity
@@ -48497,6 +48507,7 @@ ganglioside
 gangly
 gangplanks
 gangplow
+gangplows
 gangrels
 gangrene
 gangrenes
@@ -49211,6 +49222,7 @@ genres
 gens
 genseng
 gensengs
+gentamicin
 gentamicins
 genteel
 genteeler
@@ -53750,6 +53762,7 @@ haughtier
 haughtiest
 haughtily
 haughtiness
+haughtinesses
 haughty
 haul
 haulage
@@ -57477,6 +57490,7 @@ hypertense
 hypertension
 hypertensions
 hypertensive
+hypertensives
 hypertext
 hypertexts
 hyperthermia
@@ -58872,6 +58886,7 @@ impregnated
 impregnates
 impregnating
 impregnation
+impregnator
 impregnators
 impregned
 impregning
@@ -59556,6 +59571,7 @@ indebted
 indecencies
 indecency
 indecent
+indecenter
 indecentest
 indecently
 indecipherable
@@ -69911,6 +69927,7 @@ mafia
 mafias
 mafiosi
 mafiosos
+maftir
 maftirs
 mag
 magalogs
@@ -71827,6 +71844,7 @@ medium
 mediumistic
 mediums
 mediumship
+mediumships
 medius
 medivac
 medivaced
@@ -73997,6 +74015,7 @@ misassayed
 misassaying
 misassays
 misassemble
+misassembles
 misassembling
 misassign
 misassigned
@@ -78553,6 +78572,7 @@ newcomer
 newcomers
 newel
 newer
+newest
 newfangled
 newfound
 newie
@@ -81169,6 +81189,7 @@ obsidians
 obsolesce
 obsolesced
 obsolescence
+obsolescences
 obsolescent
 obsolesces
 obsolete
@@ -81768,6 +81789,7 @@ oleos
 oles
 olestra
 olestras
+oleum
 olfaction
 olfactions
 olfactive
@@ -83696,6 +83718,7 @@ outrageously
 outrageousness
 outrages
 outraise
+outraises
 outraising
 outran
 outrance
@@ -87591,6 +87614,7 @@ peacefully
 peacefulnesses
 peacekeeper
 peacekeepers
+peacekeeping
 peacekeepings
 peacemaker
 peacemakers
@@ -91080,6 +91104,7 @@ planimetrically
 planish
 planisher
 planishers
+planishing
 planisphere
 planispheric
 plank
@@ -104310,6 +104335,7 @@ revoked
 revoker
 revokers
 revoking
+revolted
 revolter
 revolting
 revoltingly
@@ -104857,6 +104883,7 @@ rigor
 rigorism
 rigorisms
 rigorist
+rigoristic
 rigorists
 rigorousness
 rigorousnesses
@@ -104961,6 +104988,7 @@ rinsing
 riojas
 rioter
 rioting
+riotous
 riotously
 riotousness
 riotousnesses
@@ -106337,6 +106365,7 @@ sacculation
 sacculations
 saccule
 sacerdotal
+sacerdotalisms
 sacerdotalist
 sacerdotalists
 sacerdotally
@@ -114487,6 +114516,7 @@ sonograms
 sonographies
 sonorants
 sonorities
+sonority
 sonorous
 sonorousness
 sonorousnesses
@@ -115117,6 +115147,7 @@ specialises
 specialising
 specialism
 specialisms
+specialist
 specialities
 speciality
 specialization
@@ -115640,6 +115671,7 @@ spitball
 spitballs
 spite
 spited
+spitefuller
 spitefullest
 spitefully
 spitefulnesses
@@ -123911,6 +123943,7 @@ theologizes
 theologs
 theologue
 theologues
+theology
 theomachies
 theomachy
 theonomies
@@ -135443,6 +135476,7 @@ warsles
 warstle
 warstled
 warstler
+warstlers
 warstles
 warstling
 wart
@@ -135735,6 +135769,7 @@ wawls
 waws
 wax
 waxable
+waxberries
 waxbill
 waxbills
 waxed
