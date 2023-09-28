@@ -858,6 +858,7 @@ actins
 action
 actionable
 actionably
+actioner
 actionless
 actions
 activate
@@ -3885,6 +3886,7 @@ ancresses
 ancylostomiases
 ancylostomiasis
 and
+andalusite
 andalusites
 andante
 andantes
@@ -14062,6 +14064,7 @@ brat
 brattice
 bratticed
 brattices
+bratticing
 brattier
 brattiest
 brattinesses
@@ -16082,6 +16085,7 @@ caesuras
 caesuric
 cafe
 cafes
+cafeteria
 cafeterias
 cafetoria
 cafetorium
@@ -16405,6 +16409,7 @@ calpacks
 calpacs
 calpain
 calpains
+calque
 calqued
 calques
 calquing
@@ -19966,6 +19971,7 @@ chirm
 chirmed
 chirming
 chirms
+chiro
 chirographers
 chirographic
 chiromancer
@@ -20384,6 +20390,7 @@ chromatolysis
 chromatophore
 chrome
 chromed
+chromes
 chromic
 chromide
 chromides
@@ -20929,6 +20936,7 @@ citifications
 citified
 citifies
 citify
+citifying
 citizeness
 citizenesses
 citizenly
@@ -23160,6 +23168,7 @@ comfiest
 comfiness
 comfinesses
 comfit
+comfits
 comfort
 comfortableness
 comfortably
@@ -24629,6 +24638,7 @@ consistently
 consisting
 consistorial
 consistory
+consists
 consociate
 consociating
 consociational
@@ -27821,6 +27831,7 @@ cryophytes
 cryopreserve
 cryopreserved
 cryopreserves
+cryopreserving
 cryoprobes
 cryoprotectant
 cryoprotectants
@@ -33834,6 +33845,7 @@ discoursers
 discourses
 discoursing
 discourteous
+discourteously
 discourtesies
 discourtesy
 discover
@@ -34941,6 +34953,7 @@ divines
 divinest
 diving
 divining
+divinise
 divinised
 divinising
 divinize
@@ -42907,6 +42920,7 @@ fallacious
 fallaciously
 fallaciousness
 fallacy
+fallal
 fallaleries
 fallalery
 fallals
@@ -43943,6 +43957,7 @@ festinate
 festinated
 festinates
 festinating
+festival
 festivals
 festive
 festively
@@ -44901,6 +44916,7 @@ flabelliform
 flabellum
 flabs
 flaccid
+flaccidities
 flaccidity
 flack
 flacked
@@ -49505,6 +49521,7 @@ georgics
 geoscience
 geosciences
 geoscientist
+geoscientists
 geostationary
 geostrategic
 geostrategist
@@ -51800,6 +51817,7 @@ griddled
 griddles
 griddling
 gride
+grides
 griding
 gridiron
 gridironed
@@ -60024,6 +60042,7 @@ indulging
 indulin
 induline
 indulines
+indulins
 indult
 indults
 indurate
@@ -67072,6 +67091,7 @@ legalistic
 legalistically
 legalists
 legalities
+legality
 legalization
 legalizations
 legalize
@@ -67163,6 +67183,7 @@ legitimizer
 legitimizers
 legitimizes
 legless
+leglike
 legman
 legongs
 legroom
@@ -67464,6 +67485,7 @@ levatores
 levators
 levee
 leveeing
+levees
 leveled
 leveler
 levelheaded
@@ -69664,6 +69686,7 @@ lustrously
 lustrousness
 lustrousnesses
 lustrum
+lusts
 lusty
 lusus
 lususes
@@ -73008,6 +73031,7 @@ methodic
 methodical
 methodically
 methodicalness
+methodise
 methodised
 methodises
 methodising
@@ -73111,6 +73135,7 @@ metronidazole
 metronidazoles
 metronomes
 metronomical
+metronomically
 metroplex
 metroplexes
 metropolis
@@ -74896,6 +74921,7 @@ missent
 misses
 misset
 missets
+misshape
 misshaped
 misshapenly
 misshaper
@@ -83549,6 +83575,7 @@ outfable
 outfables
 outfabling
 outface
+outfaced
 outfaces
 outfall
 outfalls
@@ -84044,6 +84071,7 @@ outscored
 outscores
 outscoring
 outscorn
+outscorned
 outscorning
 outscorns
 outscream
@@ -87187,6 +87215,7 @@ parrals
 parred
 parrels
 parricidal
+parricide
 parricides
 parried
 parrier
@@ -112747,6 +112776,7 @@ skilful
 skilfully
 skill
 skilled
+skilless
 skillessness
 skillet
 skillets
@@ -122123,6 +122153,7 @@ tace
 taces
 tacet
 tach
+taches
 tachinid
 tachisme
 tachismes
@@ -123876,6 +123907,7 @@ terriers
 terrific
 terrifically
 terrified
+terrifiers
 terrifies
 terrifyingly
 terrigenous
@@ -126659,6 +126691,7 @@ tramper
 trampers
 trampier
 trampiest
+tramping
 trampish
 trample
 trampler
@@ -128396,6 +128429,7 @@ tumidly
 tummies
 tummler
 tummlers
+tumor
 tumoral
 tumorigeneses
 tumorigenesis
@@ -136410,6 +136444,7 @@ weeweeing
 weewees
 weft
 wefts
+weftwise
 weigela
 weigelas
 weigelia
