@@ -2446,6 +2446,7 @@ alembic
 alembics
 alencons
 aleph
+alephs
 alert
 alerted
 alertest
@@ -7856,6 +7857,7 @@ awaits
 awake
 awaked
 awaken
+awakened
 awakener
 awakeners
 awakenings
@@ -16414,6 +16416,7 @@ camber
 cambered
 cambering
 cambia
+cambial
 cambism
 cambisms
 cambist
@@ -16588,6 +16591,7 @@ canceller
 cancellers
 cancelling
 cancellous
+cancels
 cancerous
 cancerously
 cancers
@@ -18893,6 +18897,7 @@ challenged
 challenges
 challenging
 challie
+challis
 challot
 challoth
 chalone
@@ -20254,6 +20259,7 @@ chortling
 chorused
 choruses
 chorusing
+chorusses
 chorussing
 chosen
 choses
@@ -23985,6 +23991,7 @@ conducting
 conduction
 conductions
 conductive
+conductivities
 conductivity
 conductometric
 conductor
@@ -25211,6 +25218,7 @@ coonhound
 coonhounds
 coons
 coonskin
+coonskins
 coontie
 coonties
 coop
@@ -28803,6 +28811,7 @@ cytostatic
 cytostatically
 cytostatics
 cytotaxonomic
+cytotaxonomies
 cytotaxonomy
 cytotechnology
 cytotoxic
@@ -33109,6 +33118,7 @@ dimorph
 dimorphic
 dimouts
 dimple
+dimpled
 dimples
 dimpling
 dims
@@ -39151,6 +39161,7 @@ enjoy
 enjoyably
 enjoyed
 enjoyers
+enjoyment
 enjoyments
 enkephalin
 enkephalins
@@ -39912,6 +39923,7 @@ epimysium
 epinaoi
 epinaos
 epinasties
+epinephrin
 epinephrine
 epineuria
 epineurium
@@ -44556,6 +44568,7 @@ fireproofed
 fireproofing
 fireproofs
 firer
+fireroom
 firers
 fireship
 fireside
@@ -47377,6 +47390,7 @@ front
 frontage
 frontages
 frontal
+frontalities
 frontally
 frontals
 frontcourt
@@ -47912,6 +47926,7 @@ furtively
 furuncle
 furuncles
 furunculoses
+furunculosis
 fury
 furze
 furzes
@@ -48235,6 +48250,7 @@ gallanting
 gallantly
 gallantries
 gallants
+gallates
 gallbladder
 gallbladders
 galleasses
@@ -54368,6 +54384,7 @@ hellenizations
 hellenize
 hellenized
 hellenizes
+hellenizing
 heller
 helleris
 hellers
@@ -58993,6 +59010,7 @@ inactivities
 inactivity
 inadequacies
 inadequacy
+inadequately
 inadequateness
 inadmissibility
 inadmissible
@@ -64306,6 +64324,7 @@ kauri
 kauries
 kauris
 kaury
+kava
 kavakava
 kavakavas
 kavas
@@ -68221,6 +68240,7 @@ lithopones
 lithops
 lithos
 lithosols
+lithosphere
 lithospheres
 lithospheric
 lithotomies
@@ -69952,6 +69972,7 @@ magnetise
 magnetised
 magnetises
 magnetising
+magnetism
 magnetisms
 magnetites
 magnetization
@@ -80382,6 +80403,7 @@ nosey
 nosh
 noshed
 nosher
+noshers
 noshes
 nosier
 nosiest
@@ -86240,6 +86262,7 @@ panetellas
 panettone
 panettones
 panettoni
+panfish
 panfishes
 panfried
 panfries
@@ -86271,6 +86294,7 @@ panicked
 panickier
 panickiest
 panicking
+panicky
 panicles
 panics
 paniculate
@@ -91864,6 +91888,7 @@ poinded
 poinding
 poinds
 poinsettia
+point
 pointable
 pointe
 pointed
@@ -93491,6 +93516,7 @@ prebirths
 preblessed
 preblesses
 preblessing
+preboard
 preboards
 preboil
 preboiled
@@ -93500,6 +93526,7 @@ prebook
 prebooked
 prebooking
 preboom
+prebought
 prebound
 prebreakfast
 prebudget
@@ -95492,6 +95519,7 @@ proliferations
 proliferative
 prolific
 prolificacies
+prolificacy
 prolificity
 prolificness
 prolificnesses
@@ -104009,6 +104037,7 @@ retuning
 returnable
 returnables
 returnee
+returnees
 returner
 returners
 returning
@@ -108985,6 +109014,7 @@ sectoring
 secular
 secularise
 secularises
+secularising
 secularism
 secularisms
 secularistic
@@ -109121,6 +109151,7 @@ seels
 seely
 seem
 seemed
+seemer
 seemers
 seemingly
 seemings
@@ -112814,6 +112845,7 @@ sleety
 sleeve
 sleeved
 sleevelet
+sleeves
 sleeving
 sleighed
 sleigher
@@ -123981,6 +124013,7 @@ thermoformable
 thermograms
 thermograph
 thermographers
+thermographic
 thermographs
 thermography
 thermohaline
@@ -124426,6 +124459,7 @@ throned
 thrones
 thronged
 thronging
+throngs
 throning
 throstle
 throttled
@@ -125166,6 +125200,7 @@ tocsin
 tocsins
 tod
 today
+toddies
 toddle
 toddled
 toddlerhood
