@@ -2973,6 +2973,7 @@ alsikes
 also
 altar
 altarpiece
+altarpieces
 altars
 altazimuth
 alter
@@ -5541,6 +5542,7 @@ appraising
 appraisingly
 appraisive
 appreciable
+appreciate
 appreciated
 appreciating
 appreciation
@@ -6267,6 +6269,7 @@ arrowhead
 arrowing
 arrowless
 arrowlike
+arrows
 arrowwood
 arrowwoods
 arrowworm
@@ -6775,6 +6778,7 @@ assoils
 assonances
 assonant
 assonantal
+assonants
 assort
 assortative
 assortatively
@@ -8719,6 +8723,7 @@ bandeau
 banded
 bander
 banderillas
+banderillero
 banderilleros
 banderol
 banderoles
@@ -22188,6 +22193,7 @@ codrove
 cods
 codswallop
 codswallops
+coed
 coedit
 coedited
 coediting
@@ -26255,6 +26261,7 @@ counterplays
 counterplea
 counterplot
 counterplots
+counterplotted
 counterplotting
 counterploys
 counterpoint
@@ -28228,6 +28235,7 @@ currieries
 curriery
 currijong
 currijongs
+currish
 currishly
 currs
 curry
@@ -31258,6 +31266,7 @@ deoxygenates
 deoxygenating
 deoxygenations
 deoxyriboses
+depaint
 depainted
 depainting
 depaints
@@ -32093,6 +32102,7 @@ deuced
 deucedly
 deuces
 deucing
+deuteragonists
 deuteranomalies
 deuteranope
 deuteranopes
@@ -36696,6 +36706,7 @@ dwarfest
 dwarfish
 dwarfishly
 dwarfishness
+dwarfishnesses
 dwarfism
 dwarfisms
 dwarfness
@@ -36800,6 +36811,7 @@ dyskinesias
 dyskinetic
 dyslectic
 dyslectics
+dyslexia
 dyslexias
 dyslexic
 dyslexics
@@ -39021,6 +39033,7 @@ engirded
 engirdle
 engirdles
 engirds
+engirt
 english
 englishes
 englishing
@@ -47460,6 +47473,7 @@ fruitwoods
 frumenties
 frumpiest
 frumps
+frumpy
 frusta
 frustrate
 frustrated
@@ -54936,6 +54950,7 @@ hexahedron
 hexahedrons
 hexahydrates
 hexameter
+hexamethonium
 hexamethoniums
 hexamine
 hexamines
@@ -58131,6 +58146,7 @@ imbed
 imbedding
 imbeds
 imbibe
+imbibed
 imbiber
 imbibers
 imbibition
@@ -60888,6 +60904,7 @@ institutes
 institution
 institutional
 institutionally
+institutions
 institutors
 instrokes
 instruct
@@ -61126,6 +61143,7 @@ intercepting
 interceptions
 interceptor
 interceptors
+intercepts
 intercession
 intercessions
 intercessor
@@ -62622,6 +62640,7 @@ isoform
 isoforms
 isogamete
 isogametic
+isogamies
 isogamous
 isogamy
 isogeneic
@@ -67578,6 +67597,7 @@ lightwood
 lignan
 lignans
 ligneous
+lignification
 lignifications
 lignified
 lignify
@@ -74386,6 +74406,7 @@ mismanages
 mismanaging
 mismarked
 mismarking
+mismarks
 mismarriage
 mismarriages
 mismatched
@@ -80818,6 +80839,7 @@ oatcakes
 oaten
 oater
 oath
+oaths
 oatmeals
 oats
 oaves
@@ -86126,6 +86148,7 @@ pane
 paned
 panegyric
 panegyrically
+panegyrics
 panegyrist
 panel
 paneling
@@ -87190,6 +87213,7 @@ paternalist
 paternalistic
 paternalists
 paternally
+paternities
 paternity
 paternoster
 paternosters
@@ -92036,6 +92060,7 @@ polychotomies
 polychotomous
 polychotomy
 polychrome
+polychromes
 polychromies
 polychroming
 polychromy
@@ -96144,6 +96169,7 @@ prunellos
 pruner
 pruning
 prunus
+prunuses
 prurience
 pruriences
 pruriencies
@@ -96266,6 +96292,7 @@ psoatic
 psocid
 psoralea
 psoraleas
+psoralen
 psoralens
 psoriases
 psoriasis
@@ -107368,6 +107395,7 @@ sawbucks
 sawdust
 sawdusty
 sawed
+sawers
 sawfishes
 sawflies
 sawfly
@@ -110313,6 +110341,7 @@ shanghais
 shank
 shanked
 shankpiece
+shankpieces
 shanks
 shannies
 shanny
@@ -113411,6 +113440,7 @@ snarliest
 snarls
 snarly
 snash
+snashes
 snatched
 snatcher
 snatches
@@ -119763,6 +119793,7 @@ sunroof
 sunroofs
 sunroom
 sunrooms
+sunscald
 sunscalds
 sunscreen
 sunscreening
@@ -122861,6 +122892,7 @@ telfer
 telfering
 telford
 telfords
+telial
 telic
 telically
 teliospore
@@ -128651,6 +128683,7 @@ ultramarathon
 ultramarathoner
 ultramarathons
 ultramarine
+ultramarines
 ultramasculine
 ultramicro
 ultramicroscope
@@ -132396,6 +132429,7 @@ urostyle
 urostyles
 urp
 urped
+urping
 urps
 ursa
 ursid
@@ -133064,6 +133098,7 @@ vaunts
 vaunty
 vaus
 vavasor
+vavasors
 vavasour
 vavasours
 vavassor
