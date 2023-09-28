@@ -3708,6 +3708,7 @@ analects
 analemma
 analemmas
 analemmata
+analemmatic
 analeptic
 analgesias
 analgesic
@@ -8060,6 +8061,7 @@ azoturia
 azoturias
 azuki
 azukis
+azulejo
 azulejos
 azure
 azurite
@@ -11857,6 +11859,7 @@ biting
 bitingly
 bitmap
 bitmapped
+bits
 bitsiest
 bitstock
 bitstream
@@ -15147,6 +15150,7 @@ bullhead
 bullheaded
 bullheadedly
 bullheadedness
+bullheads
 bullhorn
 bullhorns
 bullied
@@ -21522,6 +21526,7 @@ clobbered
 clobbering
 clochards
 cloches
+clock
 clocked
 clocker
 clocking
@@ -25302,6 +25307,7 @@ coordinately
 coordinateness
 coordinates
 coordinating
+coordination
 coordinations
 coordinative
 coordinators
@@ -36388,6 +36394,7 @@ dryish
 dryland
 drylot
 dryly
+dryness
 drynesses
 dryopithecine
 dryopithecines
@@ -44059,6 +44066,7 @@ fibered
 fiberfill
 fiberglass
 fiberglassed
+fiberglasses
 fiberglassing
 fiberization
 fiberizations
@@ -45057,6 +45065,7 @@ flatcaps
 flatcar
 flatcars
 flatfeet
+flatfishes
 flatfooted
 flatfooting
 flatfoots
@@ -48864,6 +48873,7 @@ gastritides
 gastritises
 gastrocnemii
 gastrocnemius
+gastroduodenal
 gastroenteritis
 gastrolith
 gastroliths
@@ -50938,6 +50948,7 @@ goosander
 goosanders
 goose
 gooseberries
+gooseberry
 goosed
 goosefishes
 gooseflesh
@@ -53698,6 +53709,7 @@ harpsichords
 harpy
 harpylike
 harquebus
+harquebuses
 harquebusier
 harquebusiers
 harridan
@@ -59104,6 +59116,7 @@ imputer
 imputers
 imputes
 inabilities
+inaccessible
 inaccessibly
 inaccuracies
 inaccuracy
@@ -62293,6 +62306,7 @@ inversed
 inversely
 inverses
 inversing
+inversion
 inversions
 inversive
 invert
@@ -63787,6 +63801,7 @@ joker
 jokers
 jokes
 jokester
+jokesters
 jokey
 jokier
 jokiest
@@ -66321,6 +66336,7 @@ largest
 largo
 largos
 lari
+lariat
 lariating
 lariats
 larine
@@ -68928,6 +68944,7 @@ longness
 longnesses
 longs
 longship
+longships
 longshoreman
 longshoremen
 longshoring
@@ -69451,6 +69468,7 @@ lumpinesses
 lumping
 lumpingly
 lumpish
+lumpishly
 lumpishness
 lumpishnesses
 lunacies
@@ -69712,6 +69730,7 @@ lymphography
 lymphoid
 lymphokines
 lymphoma
+lymphomas
 lymphomatoses
 lymphomatosis
 lymphosarcomata
@@ -80194,6 +80213,7 @@ nonregulation
 nonrelative
 nonrelatives
 nonrelativistic
+nonrelevant
 nonreligious
 nonrenewable
 nonreproductive
@@ -93692,6 +93712,7 @@ prebidden
 prebids
 prebilling
 prebills
+prebinding
 prebinds
 prebiological
 prebiotic
@@ -97078,6 +97099,7 @@ punkers
 punkey
 punkeys
 punkier
+punkies
 punkiness
 punkinesses
 punkins
@@ -97106,6 +97128,7 @@ pupa
 pupae
 pupal
 puparia
+puparial
 pupas
 pupate
 pupated
@@ -105399,6 +105422,7 @@ robins
 roble
 roborant
 roborants
+robot
 robotic
 robotically
 robotics
@@ -106753,6 +106777,7 @@ sailable
 sailboard
 sailboarded
 sailboarding
+sailboardings
 sailboards
 sailboater
 sailboating
@@ -109249,6 +109274,7 @@ secund
 secundly
 securance
 securances
+secure
 secured
 securely
 securement
@@ -114147,6 +114173,7 @@ soapstones
 soapsuds
 soapsudsy
 soapwort
+soapworts
 soapy
 soar
 soared
@@ -118549,6 +118576,7 @@ stub
 stubbed
 stubbier
 stubbiest
+stubbily
 stubbing
 stubble
 stubbled
@@ -125068,6 +125096,7 @@ tiltrotor
 tiltrotors
 tilts
 tiltyard
+tiltyards
 timarau
 timbal
 timbale
@@ -125546,6 +125575,7 @@ toking
 tokologies
 tokology
 tokomak
+tokomaks
 tokonoma
 tokonomas
 tolan
@@ -130238,6 +130268,7 @@ undersecretary
 undersell
 underselling
 undersells
+underserved
 underset
 undersets
 undersexed
@@ -132031,6 +132062,7 @@ unsworn
 unsymmetrical
 unsymmetrically
 unsynchronized
+unsystematic
 untack
 untacked
 untacking
@@ -132145,6 +132177,7 @@ untrusty
 untruth
 untruthful
 untruthfully
+untruthfulness
 untruths
 untuck
 untucked
@@ -134549,6 +134582,7 @@ virginally
 virginals
 virginities
 virgulate
+virgule
 virgules
 viricidal
 viricides
@@ -137028,6 +137062,7 @@ wield
 wieldable
 wielder
 wielders
+wieldier
 wieldiest
 wields
 wieldy
