@@ -5524,6 +5524,7 @@ appointments
 appointor
 appointors
 appoints
+apportion
 apportionable
 apportioned
 apportionment
@@ -25976,6 +25977,7 @@ cosmeticians
 cosmeticize
 cosmeticized
 cosmeticizing
+cosmetics
 cosmetologies
 cosmetologist
 cosmetologists
@@ -43140,6 +43142,7 @@ fascicules
 fasciculus
 fasciitis
 fasciitises
+fascinate
 fascinatingly
 fascination
 fascinations
@@ -43965,6 +43968,7 @@ feuing
 feus
 fever
 fevered
+feverfews
 fevering
 feverish
 feverishly
@@ -44511,6 +44515,7 @@ finnmarks
 fino
 finocchio
 finocchios
+finochio
 finochios
 fioratura
 fioraturae
@@ -46655,6 +46660,7 @@ fortepianos
 fortes
 forth
 forthcoming
+forthright
 forthrightly
 forthrightness
 forthrights
@@ -53898,6 +53904,7 @@ hayride
 hayrides
 hays
 hayseed
+haystacks
 hayward
 haywards
 haywire
@@ -56651,6 +56658,7 @@ hoydening
 hoydenish
 hoydens
 hoyle
+hoys
 hryvnas
 hryvnia
 hryvnias
@@ -61651,6 +61659,7 @@ interpolate
 interpolating
 interpolation
 interpolations
+interpolative
 interpolator
 interpopulation
 interpose
@@ -66945,6 +66954,7 @@ legatees
 legates
 legateship
 legateships
+legatine
 legating
 legation
 legato
@@ -69613,6 +69623,7 @@ lymphadenitises
 lymphadenopathy
 lymphangiogram
 lymphangiograms
+lymphatic
 lymphatically
 lymphatics
 lymphoblast
@@ -70215,6 +70226,7 @@ makeweight
 makimonos
 making
 mako
+makos
 malabsorption
 malabsorptions
 malacca
@@ -74449,6 +74461,7 @@ misimpression
 misimpressions
 misinferred
 misinferring
+misinfers
 misinform
 misinformation
 misinformations
@@ -81441,6 +81454,7 @@ octagon
 octagonal
 octagonally
 octahedral
+octahedrally
 octahedron
 octahedrons
 octal
@@ -82588,6 +82602,7 @@ orgiast
 orgiastic
 orgiastically
 orgiasts
+orgic
 orgone
 orgulous
 orgy
@@ -87087,6 +87102,7 @@ particularisms
 particularists
 particularities
 particularity
+particularized
 particularizes
 particularly
 particulars
@@ -95402,6 +95418,7 @@ professedly
 professes
 professing
 professional
+professionalism
 professionalize
 professionally
 professionals
@@ -96513,6 +96530,7 @@ psychobabbles
 psychobiography
 psychobiologic
 psychobiologies
+psychochemicals
 psychodrama
 psychodramas
 psychodramatic
@@ -98566,6 +98584,7 @@ rainspouts
 rainsquall
 rainsqualls
 rainstorm
+rainstorms
 rainwash
 rainwashed
 rainwashes
@@ -98920,6 +98939,7 @@ rasters
 rasures
 rat
 ratable
+ratables
 ratably
 ratafees
 ratafia
@@ -103182,6 +103202,7 @@ resegregate
 resegregated
 resegregating
 resegregation
+resegregations
 reseized
 reseizes
 reseizing
@@ -103250,9 +103271,11 @@ resewing
 resewn
 resews
 resh
+reshape
 reshapers
 reshapes
 reshaping
+resharpening
 resharpens
 reshave
 reshaved
@@ -103636,6 +103659,7 @@ restoral
 restorals
 restorative
 restoratives
+restore
 restored
 restorers
 restores
@@ -110353,6 +110377,7 @@ shabbier
 shabbiest
 shabbily
 shabbiness
+shabbinesses
 shabby
 shack
 shacked
@@ -110411,6 +110436,7 @@ shadrachs
 shads
 shaft
 shafted
+shafting
 shaftings
 shafts
 shag
@@ -111385,6 +111411,7 @@ shoyu
 shrank
 shred
 shredded
+shredder
 shredders
 shredding
 shreds
@@ -116613,6 +116640,7 @@ stainabilities
 stainability
 stainer
 stainers
+staining
 stainless
 stainlesses
 stainlessly
@@ -121641,6 +121669,7 @@ synodic
 synodical
 synods
 synoicous
+synonym
 synonymes
 synonymic
 synonymies
@@ -122244,6 +122273,7 @@ tampons
 tamps
 tams
 tanagers
+tanbark
 tanbarks
 tandem
 tandems
@@ -122927,6 +122957,7 @@ teetering
 teethe
 teether
 teethers
+teethes
 teething
 teethings
 teethless
@@ -123297,6 +123328,7 @@ tendon
 tendonitis
 tendons
 tendresse
+tendresses
 tendril
 tendriled
 tendrilled
@@ -129996,6 +130028,7 @@ underlays
 underlets
 underlie
 underline
+underlined
 underlines
 underling
 underlining
@@ -130842,6 +130875,7 @@ unissued
 unit
 unitages
 unitards
+unitarian
 unitarianism
 unitarianisms
 unitarians
@@ -136964,6 +136998,7 @@ willemites
 willer
 willers
 willet
+willets
 willful
 willfully
 willfulness
