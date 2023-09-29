@@ -1598,6 +1598,7 @@ aethereal
 aetheric
 aethers
 aetiologies
+aetiology
 afar
 afars
 afeard
@@ -3051,6 +3052,7 @@ altimetries
 altimetry
 altiplano
 altitude
+altitudes
 altitudinal
 alto
 altocumuli
@@ -11239,6 +11241,7 @@ biennium
 bienniums
 biers
 biface
+bifaces
 bifacially
 bifarious
 biff
@@ -14009,6 +14012,7 @@ braillewriters
 brailling
 braillist
 braillists
+brain
 braincase
 braincases
 brainchild
@@ -18648,6 +18652,7 @@ censored
 censorial
 censoring
 censorious
+censoriously
 censoriousness
 censors
 censorship
@@ -26024,6 +26029,7 @@ corrasions
 corrasive
 correct
 correctable
+corrected
 correcter
 correctest
 correcting
@@ -26513,6 +26519,7 @@ counterexample
 counterexamples
 counterfeit
 counterfeited
+counterfeiter
 counterfeiters
 counterfeiting
 counterfeits
@@ -32936,6 +32943,7 @@ diatheses
 diathesis
 diatom
 diatomaceous
+diatomic
 diatomite
 diatomites
 diatoms
@@ -36756,6 +36764,7 @@ ducktails
 duckwalk
 duckwalked
 duckwalking
+duckwalks
 duckweed
 duckweeds
 ducky
@@ -38486,6 +38495,7 @@ embarrass
 embarrassable
 embarrassed
 embarrassedly
+embarrassing
 embarrassment
 embarrassments
 embarred
@@ -50599,6 +50609,7 @@ glia
 gliadin
 gliadins
 glial
+glias
 glib
 glibber
 glibbest
@@ -52817,6 +52828,7 @@ gullably
 gulled
 gullet
 gullets
+gulley
 gulleys
 gullibility
 gullied
@@ -54092,6 +54104,7 @@ harmonies
 harmoniously
 harmoniousness
 harmonise
+harmonises
 harmonising
 harmonist
 harmonists
@@ -54518,6 +54531,7 @@ headstay
 headstays
 headstocks
 headstone
+headstones
 headstream
 headstreams
 headwaiter
@@ -58760,6 +58774,7 @@ imagining
 imagism
 imagisms
 imagist
+imagistic
 imagists
 imago
 imagoes
@@ -63870,6 +63885,7 @@ javelinas
 javelined
 javelining
 javelins
+jaw
 jawan
 jawans
 jawbone
@@ -64410,6 +64426,7 @@ journeymen
 journeyworks
 journo
 journos
+joust
 jousted
 jousters
 jousting
@@ -70625,6 +70642,7 @@ mag
 magalogs
 magalogues
 magazine
+magazines
 magazinists
 magdalen
 magdalene
@@ -71555,6 +71573,7 @@ marchen
 marcher
 marchers
 marches
+marchesa
 marchese
 marchesi
 marching
@@ -75959,6 +75978,7 @@ mojarra
 mojarras
 mojo
 mokes
+mol
 mola
 molal
 molalities
@@ -76951,6 +76971,7 @@ motivators
 motive
 motived
 motivelessly
+motives
 motivic
 motivity
 motley
@@ -78047,6 +78068,7 @@ mycorhizas
 mycorrhizae
 mycorrhizal
 mycotic
+mycotoxin
 mycotoxins
 mycoviruses
 mycs
@@ -81668,6 +81690,7 @@ nutrient
 nutrients
 nutriment
 nutriments
+nutrition
 nutritional
 nutritionally
 nutritionist
@@ -83619,6 +83642,7 @@ osculant
 oscular
 osculate
 osculated
+osculates
 osculating
 osculation
 osculations
@@ -87594,6 +87618,7 @@ parasitologies
 parasitologist
 parasitologists
 parasitology
+parasitoses
 parasitosis
 parasol
 parasympathetic
@@ -96168,6 +96193,7 @@ processed
 processer
 processers
 processes
+processibility
 processible
 procession
 processionals
@@ -96597,6 +96623,7 @@ pronephric
 pronephros
 pronephroses
 pronged
+pronghorn
 pronghorns
 pronging
 prongs
@@ -98835,6 +98862,7 @@ quibble
 quibbled
 quibblers
 quibbling
+quiches
 quicken
 quickened
 quickener
@@ -108615,6 +108643,7 @@ sawbucks
 sawdust
 sawdusty
 sawed
+sawer
 sawers
 sawfishes
 sawflies
@@ -109598,6 +109627,7 @@ screwups
 screwworm
 screwworms
 screwy
+scribble
 scribbler
 scribblers
 scribbles
@@ -116316,6 +116346,7 @@ speciation
 specie
 species
 speciesism
+specific
 specifically
 specifications
 specified
@@ -116375,6 +116406,7 @@ specula
 specular
 specularities
 specularity
+specularly
 speculate
 speculated
 speculates
@@ -116646,6 +116678,7 @@ spikelets
 spikelike
 spikenard
 spikenards
+spiker
 spikers
 spikes
 spikey
@@ -129071,6 +129104,7 @@ trunkfishes
 trunkfuls
 trunks
 trunnel
+trunnions
 truss
 trussed
 trusser
@@ -131854,6 +131888,7 @@ ungulates
 unhackneyed
 unhailed
 unhair
+unhaired
 unhairer
 unhairers
 unhairing
