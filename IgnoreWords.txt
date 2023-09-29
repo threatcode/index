@@ -7999,6 +7999,7 @@ axil
 axile
 axilla
 axillae
+axillar
 axillaries
 axillars
 axillary
@@ -10211,6 +10212,7 @@ begrime
 begrimes
 begriming
 begrimmed
+begrimming
 begrims
 begroan
 begroaning
@@ -13433,6 +13435,7 @@ boracic
 boracite
 boracites
 borage
+borages
 boral
 borals
 borane
@@ -14408,6 +14411,7 @@ bricking
 bricklayers
 bricklaying
 bricklayings
+bricklike
 bricks
 brickwork
 brickworks
@@ -16221,6 +16225,7 @@ caitiff
 caitiffs
 cajaput
 cajeput
+cajeputs
 cajole
 cajoled
 cajolement
@@ -17122,6 +17127,7 @@ capitulations
 capitulum
 capless
 caplet
+caplets
 caplin
 caplins
 capmakers
@@ -17323,6 +17329,7 @@ carbines
 carbinol
 carbinols
 carbo
+carbocyclic
 carbohydrase
 carbohydrases
 carbohydrate
@@ -31724,6 +31731,7 @@ deposition
 depositional
 depositions
 depositor
+depositories
 depositors
 depository
 depot
@@ -37757,6 +37765,7 @@ eelier
 eeliest
 eelpout
 eelpouts
+eels
 eelworm
 eelworms
 eely
@@ -41094,6 +41103,7 @@ ethionamide
 ethionamides
 ethionine
 ethionines
+ethions
 ethmoid
 ethmoidal
 ethmoids
@@ -42969,6 +42979,7 @@ factoidal
 factoids
 factor
 factorable
+factorage
 factorages
 factored
 factorials
@@ -48507,6 +48518,7 @@ gabs
 gaby
 gadabouts
 gadarene
+gadded
 gadders
 gaddi
 gaddis
@@ -55410,6 +55422,7 @@ heterodyned
 heterodynes
 heterodyning
 heteroecism
+heterogamete
 heterogametes
 heterogameties
 heterogamety
@@ -61035,6 +61048,7 @@ injectants
 injected
 injecting
 injection
+injections
 injective
 injector
 injectors
@@ -65197,6 +65211,7 @@ keypal
 keypals
 keypunch
 keypunched
+keypuncher
 keypunchers
 keypunches
 keypunching
@@ -65989,6 +66004,7 @@ kreplech
 kreutzers
 kreuzer
 krill
+krills
 krimmer
 krimmers
 kris
@@ -70540,6 +70556,7 @@ maestosos
 maestri
 maestros
 maffia
+maffias
 maffick
 mafficked
 mafficker
@@ -72829,6 +72846,7 @@ memsahib
 memsahibs
 men
 menace
+menaced
 menacer
 menacers
 menacing
@@ -75766,6 +75784,7 @@ modernes
 modernisation
 modernise
 modernised
+modernises
 modernising
 modernism
 modernist
@@ -78751,6 +78770,7 @@ necrotizing
 necrotomies
 nectar
 nectarean
+nectarial
 nectaries
 nectarine
 nectarines
@@ -89229,6 +89249,7 @@ percussiveness
 percussor
 percutaneously
 perdie
+perdition
 perditions
 perdu
 perdue
@@ -94440,6 +94461,7 @@ precenting
 precentor
 precentorship
 precents
+precept
 preceptorial
 preceptorials
 preceptories
@@ -99527,6 +99549,7 @@ rampageousness
 rampager
 rampagers
 rampages
+rampaging
 rampancies
 rampancy
 rampant
@@ -101195,6 +101218,7 @@ redan
 redans
 redargue
 redargued
+redargues
 redarguing
 redate
 redated
@@ -109355,6 +109379,7 @@ scouts
 scow
 scowder
 scowdered
+scowdering
 scowders
 scowed
 scowing
@@ -109434,6 +109459,7 @@ scratchiness
 scratchinesses
 scratching
 scratchy
+scrawled
 scrawlers
 scrawliest
 scrawling
@@ -117761,6 +117787,7 @@ standups
 staned
 stang
 stanged
+stanhope
 stanhopes
 stanine
 stanines
@@ -124060,6 +124087,7 @@ telegraphing
 telegraphist
 telegraphs
 telegraphy
+telekineses
 telekinesis
 telekinetic
 teleman
@@ -126837,6 +126865,7 @@ torah
 torahs
 toras
 torc
+torch
 torchbearer
 torchbearers
 torched
@@ -128100,6 +128129,7 @@ triacetates
 triacid
 triacids
 triacs
+triad
 triadically
 triadics
 triadism
@@ -128269,6 +128299,7 @@ tricorne
 tricornered
 tricornes
 tricorns
+tricot
 tricotine
 tricotines
 tricots
@@ -129210,6 +129241,7 @@ tumor
 tumoral
 tumorigeneses
 tumorigenesis
+tumorigenic
 tumorigenicity
 tumorlike
 tumors
@@ -134735,6 +134767,7 @@ venosity
 venously
 vent
 ventage
+ventages
 ventail
 vented
 venter
@@ -135698,6 +135731,7 @@ vitalists
 vitalities
 vitality
 vitalization
+vitalizations
 vitalize
 vitalized
 vitalizer
@@ -138087,6 +138121,7 @@ wigwams
 wikiup
 wilco
 wild
+wildcard
 wildcat
 wildcats
 wildcatted
