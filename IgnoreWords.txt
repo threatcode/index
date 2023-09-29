@@ -7486,6 +7486,7 @@ auspiciously
 auspiciousness
 austenite
 austenites
+austenitic
 austere
 austerely
 austereness
@@ -9819,6 +9820,7 @@ beclasp
 beclasped
 beclasping
 beclasps
+becloak
 becloaked
 becloaking
 becloaks
@@ -11320,6 +11322,7 @@ bilboas
 bilbos
 bilby
 bildungsroman
+bildungsromans
 bile
 bilection
 bilections
@@ -16256,6 +16259,7 @@ calathi
 calcanea
 calcaneal
 calcanei
+calcaneum
 calcaneus
 calcar
 calcarate
@@ -20229,6 +20233,7 @@ choirgirls
 choiring
 choirs
 choke
+chokeable
 chokeberries
 chokeberry
 chokebore
@@ -22897,6 +22902,7 @@ collenchyma
 collenchymas
 collet
 colleted
+colleting
 collets
 collide
 collided
@@ -23029,6 +23035,7 @@ colonitises
 colonization
 colonizationist
 colonized
+colonizer
 colonizers
 colonizes
 colonizing
@@ -23690,6 +23697,7 @@ complexifies
 complexify
 complexing
 complexion
+complexional
 complexioned
 complexions
 complexities
@@ -23957,6 +23965,7 @@ conceptuses
 concern
 concerned
 concerning
+concernment
 concernments
 concerns
 concert
@@ -27445,6 +27454,7 @@ crimmer
 crimp
 crimped
 crimpers
+crimpiest
 crimping
 crimple
 crimpled
@@ -27799,6 +27809,7 @@ crucifixions
 cruciform
 cruciforms
 crucify
+crud
 crudded
 cruddier
 crudding
@@ -35607,6 +35618,7 @@ doors
 doorsill
 doorsills
 doorstep
+doorsteps
 doorstop
 doorway
 doorways
@@ -40966,6 +40978,7 @@ eternized
 eternizes
 eternizing
 etesians
+eth
 ethambutols
 ethane
 ethanol
@@ -43723,6 +43736,7 @@ federalisms
 federalist
 federalization
 federalizations
+federalize
 federalized
 federalizes
 federalizing
@@ -44565,6 +44579,7 @@ filles
 fillet
 filleted
 filleting
+fillets
 fillies
 filling
 fillings
@@ -47223,6 +47238,7 @@ framing
 framings
 franc
 franchise
+franchised
 franchisee
 franchisees
 franchiser
@@ -52722,6 +52738,7 @@ gunboats
 guncotton
 guncottons
 gundogs
+gunfighter
 gunfighters
 gunfights
 gunfire
@@ -56929,6 +56946,7 @@ housemates
 housemen
 housemother
 housemothers
+housepainter
 housepainters
 houseparents
 housepersons
@@ -66149,6 +66167,7 @@ lacteals
 lactean
 lactic
 lactiferous
+lactobacilli
 lactobacillus
 lactogenic
 lactoglobulins
@@ -72389,6 +72408,7 @@ meets
 meg
 mega
 megabar
+megabit
 megabuck
 megabucks
 megacorporation
@@ -85342,6 +85362,7 @@ overhopes
 overhot
 overhung
 overhunt
+overhunted
 overhunting
 overhuntings
 overhunts
@@ -88837,6 +88858,7 @@ penstemon
 penstemons
 penster
 penstock
+pent
 pentacle
 pentacles
 pentad
@@ -90977,6 +90999,7 @@ pika
 pikake
 pikakes
 pikas
+pike
 piked
 pikeman
 pikemen
@@ -93652,6 +93675,7 @@ postops
 postorbital
 postorgasmic
 postpaid
+postpartum
 postpollination
 postponable
 postpone
@@ -98994,6 +99018,7 @@ radicels
 radices
 radicle
 radicles
+radicular
 radii
 radio
 radioactive
@@ -102528,6 +102553,7 @@ relates
 relating
 relation
 relational
+relationally
 relations
 relationship
 relationships
@@ -109986,6 +110012,7 @@ seesawed
 seesawing
 seethe
 seethed
+seething
 seg
 segetal
 seggar
@@ -112875,6 +112902,7 @@ singles
 singlestick
 singlesticks
 singlet
+singleton
 singletons
 singletree
 singletrees
@@ -119168,6 +119196,7 @@ struggler
 strugglers
 struggles
 struggling
+strum
 struma
 strumatic
 strummed
@@ -120135,6 +120164,7 @@ substrate
 substratum
 substructural
 substructure
+substructures
 subsumable
 subsume
 subsumes
@@ -120581,6 +120611,7 @@ sulfureting
 sulfurets
 sulfuretted
 sulfuretting
+sulfuric
 sulfuring
 sulfurize
 sulfurized
@@ -122857,6 +122888,7 @@ taints
 taipan
 taipans
 taj
+taka
 takable
 takahe
 takahes
@@ -123178,6 +123210,7 @@ tapadero
 tapaderos
 tapalo
 tapas
+tapeable
 taped
 tapeless
 tapeline
@@ -129664,6 +129697,7 @@ ufologies
 ufologists
 ufology
 ugh
+ughs
 uglier
 uglies
 ugliest
@@ -135304,6 +135338,7 @@ viridians
 viridities
 viridity
 virile
+virilely
 virilism
 virilisms
 virilities
