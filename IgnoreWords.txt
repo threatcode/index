@@ -1656,6 +1656,7 @@ affine
 affined
 affinely
 affines
+affinities
 affinity
 affirm
 affirmable
@@ -3541,6 +3542,7 @@ amphidiploids
 amphigories
 amphimacer
 amphimixes
+amphioxi
 amphioxus
 amphioxuses
 amphiphile
@@ -7228,6 +7230,7 @@ attending
 attendings
 attends
 attent
+attention
 attentional
 attentions
 attentive
@@ -13622,6 +13625,7 @@ boucle
 boucles
 boudins
 boudoirs
+bouffant
 bouffe
 bouffes
 bougainvillaea
@@ -14493,6 +14497,7 @@ brinish
 brinkmanships
 brinks
 brinksmanship
+brinksmanships
 brins
 briny
 brio
@@ -19494,6 +19499,8 @@ cheapo
 cheaps
 cheapskate
 cheapskates
+cheat
+cheatable
 cheated
 cheater
 cheaters
@@ -21144,6 +21151,7 @@ clammiest
 clammily
 clamminesses
 clamming
+clammy
 clamor
 clamorers
 clamoring
@@ -22017,6 +22025,7 @@ coastguardsman
 coastguardsmen
 coasting
 coastings
+coastland
 coastlands
 coastline
 coastlines
@@ -26153,6 +26162,7 @@ cosmogenic
 cosmogonic
 cosmogonical
 cosmogonies
+cosmogonists
 cosmogony
 cosmographer
 cosmographical
@@ -46960,6 +46970,7 @@ fortuitous
 fortuitously
 fortuitousness
 fortunate
+fortunately
 fortunatenesses
 fortune
 fortuned
@@ -47576,6 +47587,7 @@ frillings
 fringier
 fringiest
 fringing
+frippery
 frisbee
 frisbees
 frise
@@ -53650,6 +53662,7 @@ hangar
 hangared
 hangbird
 hangbirds
+hangdog
 hangdogs
 hanged
 hanger
@@ -53891,6 +53904,7 @@ harlequins
 harlotries
 harlotry
 harlots
+harls
 harm
 harmattan
 harmed
@@ -59565,6 +59579,7 @@ incarnadining
 incarnated
 incarnates
 incarnating
+incarnation
 incarnations
 incase
 incased
@@ -65647,6 +65662,7 @@ knockabouts
 knockdown
 knockdowns
 knocked
+knocker
 knockless
 knockoff
 knockoffs
@@ -65977,6 +65993,7 @@ labarum
 labarums
 labdanum
 labdanums
+label
 labeled
 labeler
 labelers
@@ -67283,6 +67300,7 @@ lectureship
 lectureships
 lecturing
 lecythi
+lecythis
 lecythus
 led
 lederhosen
@@ -75459,6 +75477,7 @@ mitre
 mitred
 mitres
 mitrewort
+mitreworts
 mitring
 mitsvah
 mitsvoth
@@ -75878,6 +75897,7 @@ monazite
 monazites
 monde
 mondes
+mondos
 monellin
 monellins
 moneran
@@ -78242,6 +78262,7 @@ narrative
 narratological
 narratologies
 narratologist
+narratologists
 narratology
 narrator
 narrow
@@ -94153,6 +94174,7 @@ preatomic
 preattune
 preattuned
 preattunes
+preattuning
 preaudit
 preaudits
 preaver
@@ -109583,6 +109605,7 @@ seal
 sealable
 sealant
 sealants
+sealer
 sealeries
 sealers
 sealery
@@ -110577,6 +110600,7 @@ separations
 separatisms
 separatist
 separatistic
+separatists
 separative
 separator
 separators
@@ -114884,6 +114908,7 @@ sodomized
 sodomizes
 sodomizing
 sodoms
+sodomy
 sods
 soever
 sofa
@@ -115093,6 +115118,7 @@ soliloquized
 soliloquizer
 soliloquizers
 soliloquizes
+soliloquy
 soling
 solion
 solions
@@ -117267,6 +117293,7 @@ stablenesses
 stabler
 stables
 stablest
+stabling
 stablings
 stablish
 stablished
@@ -122736,6 +122763,7 @@ taffias
 taffies
 taffrail
 taffrails
+taffy
 tafia
 tafias
 tag
@@ -125701,6 +125729,7 @@ tillered
 tillering
 tillerman
 tillermen
+tilling
 tillite
 tillites
 tills
@@ -126740,6 +126769,7 @@ totalism
 totalisms
 totalists
 totalitarianism
+totalitarianize
 totalitarians
 totality
 totalizator
@@ -130216,6 +130246,7 @@ unbraked
 unbrakes
 unbranched
 unbranded
+unbreachable
 unbreakable
 unbred
 unbreech
@@ -132255,6 +132286,7 @@ unrecognized
 unreconcilable
 unreconciled
 unreconstructed
+unrecorded
 unrecoverable
 unrecovered
 unrecyclable
@@ -135170,6 +135202,7 @@ vinegar
 vinegared
 vinegarish
 vinegars
+vinegary
 vineries
 vinery
 vines
@@ -136084,6 +136117,7 @@ wailers
 wailful
 wailfully
 wailing
+wailingly
 wails
 wailsome
 wain
@@ -137729,6 +137763,7 @@ wides
 widespread
 widest
 widgeon
+widgeons
 widget
 widish
 widowbird
