@@ -1385,6 +1385,7 @@ adverseness
 adversenesses
 adversities
 adversity
+advert
 adverted
 advertences
 advertencies
@@ -4797,6 +4798,7 @@ antinationalist
 antinatural
 antinature
 antinepotism
+antineutrino
 antineutrinos
 antineutron
 antineutrons
@@ -22874,6 +22876,7 @@ collimations
 collimator
 collimators
 collinear
+collinearities
 collinearity
 collins
 collinsia
@@ -26258,6 +26261,7 @@ coughs
 couldest
 couldst
 coulee
+coulees
 coulibiac
 coulibiacs
 coulis
@@ -28632,6 +28636,7 @@ cutups
 cutwork
 cutworks
 cutworm
+cuvees
 cuvette
 cuvettes
 cwms
@@ -29175,6 +29180,7 @@ damaskeen
 damaskeened
 damaskeening
 damaskeens
+damasking
 damasks
 dames
 dameworts
@@ -34322,6 +34328,7 @@ disorderedness
 disordering
 disorderliness
 disorderly
+disorders
 disorganization
 disorganize
 disorganized
@@ -38458,6 +38465,7 @@ embryogenesis
 embryogenic
 embryogenies
 embryoid
+embryoids
 embryological
 embryologically
 embryologies
@@ -47509,6 +47517,7 @@ fritillarias
 fritillaries
 fritillary
 frits
+fritt
 frittata
 frittatas
 fritted
@@ -47818,6 +47827,7 @@ fugal
 fugally
 fugato
 fugatos
+fugged
 fuggier
 fuggiest
 fuggily
@@ -50878,6 +50888,7 @@ gofferings
 goffers
 goggle
 goggler
+gogglers
 goggles
 gogglier
 goggling
@@ -51954,6 +51965,7 @@ griminesses
 griming
 grimly
 grimmer
+grimness
 grimnesses
 grimy
 grinches
@@ -55643,6 +55655,7 @@ histiocytic
 histochemical
 histochemically
 histochemistry
+histogen
 histogeneses
 histogenesis
 histogenetic
@@ -62804,6 +62817,7 @@ irrefragable
 irrefragably
 irrefutability
 irrefutable
+irrefutably
 irregularities
 irregularity
 irregularly
@@ -62865,6 +62879,7 @@ irrigated
 irrigates
 irrigating
 irrigation
+irrigator
 irrigators
 irriguous
 irritability
@@ -66272,6 +66287,7 @@ landaulet
 landaulets
 landed
 lander
+landers
 landfall
 landfalls
 landfill
@@ -73186,6 +73202,7 @@ methylphenidate
 methyls
 methylxanthine
 methylxanthines
+methysergide
 methysergides
 meticais
 metical
@@ -81844,6 +81861,7 @@ oddsmaker
 ode
 odeon
 odeons
+odes
 odeum
 odeums
 odic
@@ -81958,6 +81976,7 @@ offhand
 offhanded
 offhandedness
 office
+officeholder
 officeholders
 officer
 officers
@@ -89569,6 +89588,7 @@ petulancy
 petulant
 petuntse
 petuntses
+petuntze
 petuntzes
 pew
 pewee
@@ -93609,6 +93629,7 @@ pouffe
 pouffed
 pouffes
 pouffs
+pouffy
 poufs
 poulard
 poularde
@@ -96325,6 +96346,7 @@ prosecutor
 prosecutorial
 prosecutors
 proselyte
+proselyted
 proselytes
 proselyting
 proselytise
@@ -98543,6 +98565,7 @@ rabato
 rabatos
 rabbet
 rabbeted
+rabbets
 rabbies
 rabbin
 rabbinate
@@ -99134,6 +99157,7 @@ randier
 randies
 randiness
 randinesses
+random
 randomization
 randomizations
 randomize
@@ -106750,6 +106774,7 @@ ruttier
 ruttily
 ruttiness
 ruttinesses
+rutting
 ruttish
 ruttishly
 ruttishnesses
@@ -112409,6 +112434,7 @@ silvae
 silvan
 silvans
 silvas
+silver
 silverbacks
 silverberry
 silverer
@@ -113950,6 +113976,7 @@ smooches
 smooching
 smoochy
 smooshed
+smooth
 smoothbore
 smoothbores
 smoothed
@@ -114091,6 +114118,7 @@ snarl
 snarled
 snarler
 snarlers
+snarlier
 snarliest
 snarls
 snarly
@@ -115194,6 +115222,7 @@ sorters
 sortie
 sortied
 sortieing
+sorties
 sortilege
 sortileges
 sorting
@@ -115711,6 +115740,7 @@ spectatorship
 specters
 spectinomycin
 spectinomycins
+spectral
 spectrally
 spectre
 spectres
@@ -130039,6 +130069,7 @@ unchoke
 unchoked
 unchokes
 unchoreographed
+unchosen
 unchristened
 unchristian
 unchronicled
@@ -132606,6 +132637,7 @@ unwet
 unwetted
 unwhipped
 unwhite
+unwieldier
 unwieldiest
 unwieldiness
 unwieldinesses
@@ -133405,6 +133437,7 @@ vagariously
 vagary
 vagi
 vagile
+vagilities
 vagility
 vaginal
 vaginas
@@ -135230,6 +135263,7 @@ vocalically
 vocalics
 vocalise
 vocalised
+vocalises
 vocalising
 vocalisms
 vocalist
@@ -135314,6 +135348,7 @@ volante
 volatile
 volatilenesses
 volatiles
+volatilise
 volatilised
 volatilities
 volatilization
