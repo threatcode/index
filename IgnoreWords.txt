@@ -722,6 +722,7 @@ acquiescences
 acquiescent
 acquiescently
 acquiescing
+acquirable
 acquired
 acquiree
 acquirees
@@ -1884,6 +1885,7 @@ agglomerated
 agglomerates
 agglomerating
 agglomerations
+agglomerative
 agglutinability
 agglutinable
 agglutinate
@@ -10508,6 +10510,7 @@ bendy
 bendys
 bene
 beneath
+benedicks
 benedict
 benediction
 benedictions
@@ -11611,6 +11614,7 @@ biont
 bionts
 biophilia
 biophilias
+biophysical
 biophysicists
 biophysics
 biopic
@@ -18207,6 +18211,7 @@ catnips
 catoptric
 catrigged
 cats
+catspaw
 catspaws
 catsuit
 catsuits
@@ -24787,6 +24792,7 @@ constrainedly
 constraining
 constrains
 constraint
+constrict
 constricted
 constricting
 constriction
@@ -27467,6 +27473,7 @@ crisps
 crispy
 crissa
 crissal
+crisscross
 crisscrosses
 crisscrossing
 crissum
@@ -40876,6 +40883,7 @@ esurient
 esuriently
 et
 eta
+etagere
 etageres
 etalon
 etalons
@@ -49149,6 +49157,7 @@ gaur
 gaurs
 gauss
 gausses
+gauzelike
 gauzier
 gauziest
 gauziness
@@ -50259,6 +50268,7 @@ glanced
 glancer
 glancers
 glances
+glancing
 glancingly
 glandered
 glanders
@@ -51725,6 +51735,7 @@ gravitative
 gravitino
 gravitinos
 graviton
+gravitons
 gravity
 gravlaks
 gravlax
@@ -55024,6 +55035,7 @@ herbier
 herbiest
 herbivore
 herbivories
+herbivorous
 herbivory
 herbless
 herbologies
@@ -59876,6 +59888,7 @@ indamine
 indamines
 indamins
 indebted
+indebtedness
 indecencies
 indecency
 indecent
@@ -61851,6 +61864,7 @@ intermingle
 intermingled
 intermingles
 intermission
+intermissions
 intermit
 intermitotic
 intermits
@@ -61920,6 +61934,7 @@ interorbital
 interorgan
 interpandemic
 interparish
+interparoxysmal
 interparticle
 interparty
 interpellated
@@ -65711,6 +65726,7 @@ korun
 koruna
 korunas
 koruny
+kos
 koshered
 koshering
 koshers
@@ -67040,6 +67056,7 @@ leafages
 leafed
 leafhopper
 leafhoppers
+leafier
 leafiest
 leafinesses
 leafing
@@ -68184,6 +68201,7 @@ limits
 limmer
 limmers
 limn
+limned
 limner
 limners
 limnetic
@@ -72168,6 +72186,7 @@ mediates
 mediation
 mediations
 mediatize
+mediatized
 mediatizes
 mediatizing
 mediator
@@ -76836,6 +76855,7 @@ mridangams
 mridangas
 mu
 much
+muchacho
 muchachos
 muchly
 muchness
@@ -82098,6 +82118,7 @@ oftest
 ogam
 ogams
 ogdoad
+ogdoads
 ogee
 ogees
 ogham
@@ -82404,6 +82425,7 @@ oneiric
 oneirically
 oneiromancies
 oneiromancy
+oneness
 onenesses
 onerier
 onerous
@@ -83241,6 +83263,7 @@ oscitant
 osculant
 oscular
 osculate
+osculated
 osculating
 osculation
 osculations
@@ -83816,6 +83839,7 @@ outfishes
 outfit
 outfits
 outfitted
+outfitter
 outfitters
 outfitting
 outflank
@@ -86042,6 +86066,7 @@ oxyacid
 oxyacids
 oxycodone
 oxycodones
+oxygen
 oxygenate
 oxygenated
 oxygenates
@@ -92972,6 +92997,7 @@ poniard
 poniarding
 poniards
 ponied
+ponies
 pons
 pontifex
 pontiffs
@@ -93696,6 +93722,7 @@ pouchiest
 pouchy
 pouf
 poufed
+pouff
 pouffe
 pouffed
 pouffes
@@ -97887,6 +97914,7 @@ pyridoxines
 pyridoxins
 pyriform
 pyrimethamine
+pyrimidine
 pyrimidines
 pyrite
 pyrites
@@ -102050,6 +102078,7 @@ reignitions
 reigns
 reimage
 reimaged
+reimages
 reimagine
 reimagines
 reimaging
@@ -105176,6 +105205,7 @@ rhombs
 rhombus
 rhonchi
 rhonchus
+rhos
 rhotacism
 rhotacisms
 rhotic
@@ -114905,6 +114935,7 @@ solidify
 solidity
 solidly
 solidnesses
+solidus
 solifluction
 solifluctions
 soliloquies
@@ -118400,6 +118431,7 @@ storey
 storeyed
 storeys
 stories
+storing
 stork
 storks
 storksbills
@@ -122449,6 +122481,7 @@ tace
 taces
 tacet
 tach
+tache
 taches
 tachinid
 tachisme
@@ -130961,6 +130994,7 @@ uneasinesses
 uneasy
 uneaten
 uneccentric
+unecological
 uneconomic
 uneconomical
 unedifying
@@ -132411,6 +132445,7 @@ unspoilt
 unspoke
 unspoken
 unspool
+unspooled
 unsportsmanlike
 unsprayed
 unsprung
