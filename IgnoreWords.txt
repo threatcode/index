@@ -1009,6 +1009,7 @@ addresser
 addressers
 addresses
 addressing
+addressor
 addressors
 adduce
 adduced
@@ -13213,6 +13214,7 @@ boob
 boobed
 boobie
 boobies
+boobing
 boobird
 boobish
 booboisie
@@ -25096,6 +25098,7 @@ contrapuntally
 contrapuntist
 contrapuntists
 contrarian
+contrarians
 contraries
 contrarieties
 contrariety
@@ -29303,6 +29306,7 @@ dandiest
 dandified
 dandifies
 dandifying
+dandily
 dandle
 dandler
 dandlers
@@ -32629,6 +32633,7 @@ diadems
 diaereses
 diaeresis
 diaeretic
+diageneses
 diagenesis
 diagenetic
 diagenetically
@@ -37595,6 +37600,7 @@ ediles
 edit
 editable
 edited
+edition
 editions
 editor
 editorial
@@ -45472,6 +45478,7 @@ fleshpots
 fleshy
 fletched
 fletchers
+fletches
 fleuron
 fleury
 flew
@@ -50730,6 +50737,7 @@ glutting
 glutton
 gluttonies
 gluttonous
+gluttonously
 gluttons
 glycan
 glycans
@@ -55964,6 +55972,7 @@ hokily
 hokiness
 hoking
 hokku
+hokum
 hokums
 hokypokies
 holandric
@@ -57045,6 +57054,7 @@ hullabaloo
 hullabaloos
 hulled
 huller
+hulling
 hullo
 hulloa
 hulloaed
@@ -61252,6 +61262,7 @@ insolubles
 insolvable
 insolvencies
 insolvent
+insolvents
 insomnia
 insomniac
 insomniacs
@@ -64502,6 +64513,7 @@ juxtaposed
 juxtaposes
 juxtaposing
 juxtapositional
+juxtapositions
 ka
 kaas
 kab
@@ -66738,6 +66750,7 @@ late
 latecomer
 latecomers
 lated
+lateen
 lateener
 lateens
 lately
@@ -68465,6 +68478,7 @@ lionises
 lionising
 lionizations
 lionize
+lionized
 lionizes
 lionizing
 lionlike
@@ -71486,6 +71500,7 @@ marrier
 marriers
 marries
 marrons
+marrow
 marrowbone
 marrowbones
 marrowed
@@ -71838,6 +71853,7 @@ matilda
 matildas
 matinee
 matinees
+matiness
 matinesses
 mating
 matings
@@ -75026,6 +75042,7 @@ misoneist
 misoneists
 misordered
 misordering
+misorders
 misorient
 misorientation
 misoriented
@@ -75761,6 +75778,7 @@ mollycoddles
 mollymawks
 mols
 molt
+molten
 moltenly
 molter
 molters
@@ -77057,6 +77075,7 @@ muggurs
 muggy
 mughal
 mughals
+mugs
 mugworts
 mugwump
 mugwumps
@@ -77533,6 +77552,7 @@ musicale
 musicalise
 musicalised
 musicalises
+musicalising
 musicality
 musicalizations
 musicalize
@@ -78231,6 +78251,7 @@ nasalise
 nasalised
 nasalises
 nasalising
+nasalism
 nasalisms
 nasalities
 nasalization
@@ -88041,6 +88062,7 @@ pattypans
 patulent
 patulous
 patzer
+patzers
 paucities
 paucity
 pauldron
@@ -88709,6 +88731,7 @@ penknife
 penknives
 penlight
 penlights
+penlite
 penlites
 penman
 penmanship
@@ -92934,6 +92957,7 @@ polyptychs
 polypus
 polypuses
 polyrhythm
+polyrhythmic
 polyrhythms
 polyribosomal
 polyribosomes
@@ -93066,6 +93090,7 @@ poniards
 ponied
 ponies
 pons
+pontes
 pontifex
 pontiffs
 pontific
@@ -94556,6 +94581,7 @@ preferred
 preferrer
 preferrers
 prefiguration
+prefigurative
 prefiguratively
 prefigure
 prefigurement
@@ -100883,6 +100909,7 @@ recultivate
 recultivated
 recultivating
 recumbencies
+recumbency
 recumbent
 recuperate
 recuperated
@@ -103355,6 +103382,7 @@ repopularizing
 repopulate
 repopulated
 repopulates
+repopulating
 repopulation
 repopulations
 reportable
@@ -109712,6 +109740,7 @@ secreting
 secretins
 secretion
 secretively
+secretiveness
 secretivenesses
 secretly
 secretor
@@ -112055,6 +112084,7 @@ shreds
 shrew
 shrewd
 shrewder
+shrewdest
 shrewdie
 shrewdly
 shrewdness
@@ -116501,6 +116531,7 @@ splenii
 splenium
 splenius
 splenomegalies
+splent
 splents
 spleuchan
 spleuchans
@@ -117368,6 +117399,7 @@ stalled
 stallholder
 stalling
 stallion
+stallions
 stalls
 stalwartly
 stalwartness
@@ -117897,6 +117929,7 @@ stenotherms
 stenotic
 stenotype
 stenotyped
+stenotypes
 stenotypies
 stenotypist
 stenotypists
@@ -138000,6 +138033,7 @@ winners
 winning
 winningly
 winnings
+winnock
 winnocks
 winnow
 winnowed
@@ -139351,6 +139385,7 @@ yill
 yills
 yince
 yins
+yip
 yipe
 yipes
 yipped
