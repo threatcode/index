@@ -2279,6 +2279,7 @@ airwomen
 airworthinesses
 airy
 ais
+aisle
 aisled
 aisles
 aisleways
@@ -8865,6 +8866,7 @@ bankcard
 bankcards
 banked
 bankers
+bankings
 bankit
 bankits
 banknote
@@ -9137,6 +9139,7 @@ baroness
 baronesses
 baronet
 baronetage
+baronetages
 baronetcies
 baronets
 barong
@@ -17968,6 +17971,7 @@ cataclysmic
 cataclysmically
 cataclysms
 catacomb
+catacombs
 catadioptric
 catadromous
 catafalques
@@ -19659,6 +19663,7 @@ chemurgies
 chenille
 chenilles
 chenopod
+cheongsam
 cheongsams
 cheque
 chequer
@@ -20958,6 +20963,7 @@ cisterns
 cistron
 cistronic
 cistrons
+cists
 cistus
 cistuses
 citadel
@@ -23267,6 +23273,7 @@ commandingly
 commandment
 commandments
 commando
+commandos
 commands
 commas
 commata
@@ -24043,6 +24050,7 @@ concubine
 concubines
 concupiscence
 concupiscences
+concupiscible
 concur
 concurred
 concurrence
@@ -27145,6 +27153,7 @@ creating
 creatinine
 creatinines
 creatins
+creation
 creationism
 creationisms
 creationist
@@ -32215,6 +32224,7 @@ determinisms
 determinist
 deterministic
 determinists
+deterrabilities
 deterrability
 deterred
 deterrence
@@ -53593,6 +53603,7 @@ handwritten
 handwrote
 handwrought
 handy
+handyman
 handymen
 handyperson
 hang
@@ -54991,6 +55002,7 @@ hepatotoxicity
 hepcat
 hepcats
 hepper
+heppest
 heptachlor
 heptad
 heptagon
@@ -60912,6 +60924,7 @@ innages
 innards
 innate
 innateness
+innerly
 innermost
 innermosts
 innerness
@@ -62150,6 +62163,7 @@ interworkings
 interworks
 interwove
 interwoven
+interzonal
 interzone
 intestacies
 intestacy
@@ -65663,6 +65677,7 @@ kohls
 koi
 koine
 kois
+koji
 kokanees
 kola
 kolacky
@@ -67037,6 +67052,7 @@ leaderships
 leadiest
 leading
 leadings
+leadless
 leadman
 leadmen
 leadoff
@@ -75154,6 +75170,7 @@ missionizer
 missionizers
 missionizes
 missionizing
+missions
 missis
 missises
 missive
@@ -93248,6 +93265,7 @@ porterage
 portered
 porteress
 porteresses
+porterhouse
 porterhouses
 portering
 portfolio
@@ -93402,6 +93420,7 @@ postdeadline
 postdebate
 postdelivery
 postdepression
+postdevaluation
 postdiluvian
 postdive
 postdivestiture
@@ -96827,6 +96846,7 @@ prudentially
 pruderies
 prudes
 prudishly
+prudishness
 pruinose
 prunable
 prune
@@ -97580,6 +97600,7 @@ purifies
 purify
 purifying
 purin
+purine
 purines
 purins
 puris
@@ -99505,6 +99526,7 @@ rationality
 rationalizable
 rationalization
 rationalized
+rationalizer
 rationalizers
 rationalizes
 rationalizing
@@ -100680,6 +100702,7 @@ reconvinces
 reconvincing
 recook
 recooked
+recooking
 recopies
 recopy
 recopying
@@ -102520,6 +102543,7 @@ reliquaries
 relique
 reliquefied
 reliquefies
+reliquefy
 reliquefying
 reliques
 reliquiae
@@ -102892,6 +102916,7 @@ renegotiable
 renegotiate
 renegotiated
 renegotiates
+renegotiating
 renegotiation
 renegotiations
 renest
@@ -109398,6 +109423,7 @@ scutworks
 scuzz
 scuzzball
 scuzzballs
+scuzzes
 scuzzier
 scuzziest
 scuzzy
@@ -109595,6 +109621,7 @@ seclusiveness
 seclusivenesses
 secobarbital
 secobarbitals
+seconal
 seconals
 second
 secondaries
@@ -110420,6 +110447,7 @@ sentry
 sepaline
 sepalled
 sepaloid
+sepalous
 sepals
 separability
 separable
@@ -110649,6 +110677,7 @@ serology
 seronegative
 seronegativity
 seropurulent
+serosa
 serosae
 serosal
 serosas
@@ -111470,6 +111499,7 @@ shift
 shiftable
 shifted
 shifter
+shifters
 shiftiest
 shiftily
 shiftiness
@@ -122621,6 +122651,7 @@ tailbones
 tailcoat
 tailcoated
 tailcoats
+tailender
 tailenders
 tailer
 tailers
@@ -123848,6 +123879,7 @@ temporariness
 temporise
 temporised
 temporises
+temporising
 temporization
 temporizations
 temporize
@@ -124398,6 +124430,7 @@ tetrahedra
 tetrahedral
 tetrahedrally
 tetrahedrite
+tetrahedrites
 tetrahedron
 tetrahedrons
 tetrahydrofuran
@@ -126713,6 +126746,7 @@ toward
 towardliness
 towardlinesses
 towardly
+towards
 towaway
 towboat
 towboats
@@ -139824,6 +139858,7 @@ zoospore
 zoospores
 zoosporic
 zoosterol
+zoosterols
 zootiest
 zootomic
 zootomist
