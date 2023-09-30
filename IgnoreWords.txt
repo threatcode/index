@@ -1087,6 +1087,7 @@ adhesivenesses
 adhibit
 adhibited
 adhibiting
+adhibits
 adiabatically
 adieu
 adieus
@@ -3866,6 +3867,7 @@ anatomised
 anatomises
 anatomists
 anatomized
+anatomizes
 anatomizing
 anatomy
 anatoxins
@@ -4078,6 +4080,7 @@ angiographies
 angiography
 angiologies
 angiology
+angioma
 angiomas
 angioplasties
 angioplasty
@@ -5208,6 +5211,7 @@ aperiodicity
 apers
 aperture
 apertures
+apery
 apes
 apetalies
 apetalous
@@ -10250,6 +10254,7 @@ begorrah
 begot
 begotten
 begrime
+begrimed
 begrimes
 begriming
 begrimmed
@@ -12434,6 +12439,7 @@ blindfish
 blindfold
 blindfolded
 blindfolds
+blindgut
 blindguts
 blindingly
 blindly
@@ -13409,6 +13415,7 @@ boombox
 boomboxes
 boomed
 boomer
+boomerang
 boomeranged
 boomeranging
 boomerangs
@@ -19210,6 +19217,7 @@ champagnes
 champaign
 champaigns
 champak
+champaks
 champed
 champer
 champers
@@ -23152,6 +23160,7 @@ cologarithm
 cologarithms
 cologne
 colognes
+cologs
 colombards
 colon
 colone
@@ -23552,6 +23561,7 @@ commissural
 commissure
 commissures
 commit
+commitments
 commits
 committals
 committee
@@ -23748,6 +23758,7 @@ compeer
 compeered
 compeering
 compeers
+compel
 compellable
 compellation
 compellations
@@ -26955,6 +26966,7 @@ cowered
 cowers
 cowfish
 cowfishes
+cowflap
 cowflaps
 cowflop
 cowflops
@@ -32493,6 +32505,7 @@ dethatched
 dethatches
 dethatching
 dethroned
+dethronement
 dethronements
 dethroner
 dethroners
@@ -39987,6 +40000,7 @@ enterprises
 enterprising
 enters
 entertainer
+entertainers
 entertaining
 entertainingly
 entertainment
@@ -40219,6 +40233,7 @@ enwraps
 enwreathe
 enwreathed
 enwreathes
+enwreathing
 enzootic
 enzootics
 enzym
@@ -43222,6 +43237,7 @@ faddism
 faddisms
 faddist
 faddists
+fade
 fadeaway
 fadeaways
 faded
@@ -43353,6 +43369,7 @@ falces
 falchion
 falchions
 falciform
+falcon
 falconer
 falconers
 falconet
@@ -43619,6 +43636,7 @@ farfetchedness
 farinaceous
 faring
 farinha
+farinhas
 farkleberries
 farl
 farle
@@ -44570,6 +44588,7 @@ fiascoes
 fiascos
 fiat
 fib
+fibbed
 fibber
 fibbers
 fibbing
@@ -59509,6 +59528,7 @@ impetus
 impetuses
 imphee
 imphees
+impieties
 imping
 impingement
 impingements
@@ -63144,6 +63164,7 @@ invoicing
 invoke
 invoked
 invoker
+invokers
 invokes
 invoking
 involucel
@@ -71662,6 +71683,7 @@ manoeuvred
 manoeuvres
 manoeuvring
 manometers
+manometric
 manometrically
 manometries
 manor
@@ -76029,6 +76051,7 @@ mizzle
 mizzled
 mizzling
 mizzly
+mnemonic
 mnemonically
 moaned
 moaner
@@ -84271,6 +84294,7 @@ outbragged
 outbrags
 outbrave
 outbraved
+outbraves
 outbrawl
 outbrawled
 outbrawling
@@ -87709,6 +87733,7 @@ papule
 papules
 papulose
 papyral
+papyri
 papyrian
 papyrine
 papyrologies
@@ -88696,6 +88721,7 @@ patty
 pattypans
 patulent
 patulous
+paty
 patzer
 patzers
 paucities
@@ -96688,6 +96714,7 @@ professorial
 professoriat
 professoriates
 professoriats
+professorship
 proffer
 proffered
 profferer
@@ -101081,6 +101108,7 @@ recces
 recede
 receded
 receipt
+receipted
 receipts
 receivable
 receivables
@@ -107863,6 +107891,7 @@ sackbuts
 sackcloths
 sacker
 sackers
+sackful
 sackfuls
 sacking
 sackings
@@ -113828,6 +113857,7 @@ sixths
 sixties
 sixtieths
 sixty
+sixtyish
 sizable
 sizableness
 sizablenesses
@@ -121284,6 +121314,7 @@ sugarplums
 sugars
 sugary
 suggest
+suggested
 suggester
 suggesters
 suggestibility
@@ -123821,6 +123852,7 @@ tamaraus
 tamari
 tamarillo
 tamarillos
+tamarin
 tamarind
 tamarinds
 tamarins
@@ -126371,6 +126403,7 @@ thymosins
 thymus
 thymuses
 thymy
+thyratron
 thyratrons
 thyreoid
 thyristor
@@ -134611,6 +134644,7 @@ vaccinator
 vaccinators
 vaccine
 vaccinee
+vaccinees
 vaccinia
 vaccinial
 vacillate
@@ -134654,6 +134688,7 @@ vaginal
 vaginas
 vaginate
 vaginated
+vaginismus
 vaginitis
 vaginitises
 vaginoses
