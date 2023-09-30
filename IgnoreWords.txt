@@ -6467,6 +6467,7 @@ artilleryman
 artillerymen
 artiness
 artiodactyl
+artisan
 artisanal
 artisans
 artisanships
@@ -8752,6 +8753,7 @@ ballparks
 ballplayer
 ballpoint
 ballpoints
+ballroom
 balls
 ballsiest
 ballsy
@@ -11286,6 +11288,7 @@ bifaces
 bifacially
 bifarious
 biff
+biffies
 biffing
 biffins
 biffs
@@ -12465,6 +12468,7 @@ blinkers
 blinking
 blintz
 blintze
+blipped
 blipping
 bliss
 blissed
@@ -13229,6 +13233,7 @@ bondmaids
 bondman
 bondmen
 bonds
+bondsman
 bondsmen
 bondstones
 bonduc
@@ -13822,6 +13827,7 @@ bourrees
 bourride
 bourrides
 bourse
+bourses
 boursin
 boursins
 bourtree
@@ -20938,6 +20944,7 @@ cinders
 cine
 cineaste
 cinema
+cinemagoer
 cinemagoers
 cinemas
 cinematheque
@@ -21944,6 +21951,7 @@ cloven
 clover
 clovered
 cloverleaf
+cloverleafs
 cloverleaves
 cloves
 clowder
@@ -24209,12 +24217,14 @@ conclusory
 concoct
 concocted
 concocter
+concocters
 concocting
 concoctive
 concoctors
 concocts
 concomitance
 concomitances
+concomitant
 concomitantly
 concomitants
 concord
@@ -25232,6 +25242,7 @@ conto
 contort
 contorted
 contorting
+contortion
 contortionist
 contortionists
 contortions
@@ -25725,6 +25736,7 @@ copresented
 copresenting
 copresents
 copresident
+copresidents
 coprince
 coprinces
 coprincipal
@@ -31783,6 +31795,7 @@ depersonalizes
 depersonalizing
 dephosphorylate
 depict
+depicted
 depicter
 depicters
 depicting
@@ -32000,6 +32013,7 @@ derbies
 derealizations
 deregulate
 deregulates
+deregulation
 derelict
 dereliction
 derelicts
@@ -35834,6 +35848,7 @@ doomily
 dooms
 doomsayer
 doomsayers
+doomsaying
 doomsayings
 doomsdayer
 doomsdayers
@@ -41638,6 +41653,7 @@ evadable
 evaded
 evader
 evades
+evading
 evaginate
 evaginated
 evaginates
@@ -53446,6 +53462,7 @@ hack
 hackable
 hackamore
 hackberries
+hackbut
 hacked
 hackee
 hackees
@@ -55122,6 +55139,7 @@ heliosphere
 heliospheres
 heliostat
 heliotrope
+heliotropes
 heliotropic
 heliotropism
 heliotropisms
@@ -58249,6 +58267,7 @@ hyperploid
 hyperploidies
 hyperploids
 hyperploidy
+hyperpnea
 hyperpneas
 hyperpneic
 hyperpolarized
@@ -62022,6 +62041,7 @@ intense
 intensely
 intenseness
 intenser
+intensest
 intensification
 intensifier
 intensifiers
@@ -65165,6 +65185,7 @@ kaoline
 kaolines
 kaolinic
 kaolinite
+kaolinites
 kaolinitic
 kaolins
 kaon
@@ -67171,6 +67192,7 @@ larks
 larksome
 larkspur
 larkspurs
+larky
 larrigan
 larrigans
 larrikin
@@ -67913,6 +67935,7 @@ legislate
 legislated
 legislates
 legislating
+legislations
 legislative
 legislatively
 legislatives
@@ -67987,6 +68010,7 @@ leitmotifs
 leitmotiv
 leitmotivs
 lek
+leke
 lekked
 lekking
 leks
@@ -70658,6 +70682,7 @@ lysogenize
 lysogenized
 lysogenizes
 lysogenizing
+lysogens
 lysogeny
 lysolecithin
 lysosomal
@@ -74146,6 +74171,7 @@ micrographic
 micrographics
 micrographing
 micrographs
+microgravity
 microgroove
 microgrooves
 microhabitats
@@ -83511,6 +83537,7 @@ opulency
 opulent
 opulently
 opuntia
+opuntias
 opus
 opuscula
 opuscule
@@ -100424,6 +100451,7 @@ raunchier
 raunchiest
 raunchiness
 raunchinesses
+raunchy
 rauwolfias
 ravage
 ravaged
@@ -102860,6 +102888,7 @@ rehanged
 rehanging
 reharden
 rehardened
+rehardening
 rehardens
 rehashed
 rehashes
@@ -104766,6 +104795,7 @@ resinoid
 resinoids
 resiny
 resist
+resistance
 resistances
 resistants
 resisted
@@ -109772,6 +109802,7 @@ scolding
 scolds
 scoleces
 scolecite
+scolecites
 scolices
 scolioma
 scoliomas
@@ -120065,6 +120096,7 @@ studlier
 studliest
 studly
 studs
+studwork
 studworks
 study
 studying
@@ -121155,6 +121187,7 @@ succorers
 succories
 succoring
 succors
+succory
 succotash
 succotashes
 succoth
@@ -137555,6 +137588,7 @@ waterflooding
 waterfloods
 waterfowler
 waterfowlers
+waterfowling
 waterfowls
 waterheads
 waterhen
@@ -138447,6 +138481,7 @@ whisk
 whisked
 whisker
 whiskered
+whiskers
 whiskery
 whiskey
 whiskeys
