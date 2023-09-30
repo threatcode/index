@@ -10788,6 +10788,7 @@ beseemed
 beseeming
 beseems
 beses
+beset
 besetment
 besetments
 besets
@@ -11581,6 +11582,7 @@ biocide
 biocides
 biocoenoses
 biocoenosis
+biocontrol
 bioconversions
 biocycle
 biodegradable
@@ -16008,6 +16010,7 @@ caballeros
 cabana
 cabanas
 cabbage
+cabbaged
 cabbages
 cabbageworms
 cabbaging
@@ -16329,6 +16332,7 @@ calamite
 calamites
 calamities
 calamitous
+calamitously
 calamondin
 calamondins
 calamus
@@ -31622,6 +31626,7 @@ dentils
 dentin
 dentinal
 dentine
+dentines
 dentins
 dentist
 dentistry
@@ -33338,6 +33343,7 @@ digitalizations
 digitalized
 digitalizing
 digitally
+digitals
 digitate
 digitated
 digitately
@@ -33513,6 +33519,7 @@ dimness
 dimnesses
 dimorph
 dimorphic
+dimorphism
 dimouts
 dimple
 dimpled
@@ -35012,6 +35019,7 @@ distending
 distends
 distensibility
 distensible
+distension
 distensions
 distention
 distentions
@@ -35864,6 +35872,7 @@ dors
 dorsa
 dorsad
 dorsal
+dorsally
 dorsals
 dorsel
 dorsels
@@ -37586,6 +37595,7 @@ eches
 echeveria
 echeverias
 echidna
+echidnae
 echidnas
 echinacea
 echinaceas
@@ -38366,6 +38376,7 @@ elevateds
 elevating
 elevation
 elevations
+elevator
 elevators
 eleven
 elevens
@@ -41897,6 +41908,7 @@ excide
 excided
 excides
 exciding
+excimer
 excimers
 excipient
 excipients
@@ -45081,6 +45093,7 @@ firehouses
 fireless
 firelight
 firelights
+firelit
 firelock
 firelocks
 fireman
@@ -45428,6 +45441,7 @@ flammable
 flammables
 flammed
 flamming
+flams
 flamy
 flan
 flancard
@@ -51295,6 +51309,7 @@ goldener
 goldenest
 goldeneye
 goldeneyes
+goldenly
 goldenness
 goldennesses
 goldenrod
@@ -53601,6 +53616,7 @@ hale
 haled
 halenesses
 haler
+halers
 haleru
 hales
 halest
@@ -57287,6 +57303,7 @@ howe
 howes
 however
 howf
+howff
 howffs
 howfs
 howitzer
@@ -60784,6 +60801,7 @@ infantrymen
 infants
 infarcted
 infarctions
+infarcts
 infare
 infares
 infatuate
@@ -64136,6 +64154,7 @@ jequirities
 jequirity
 jerboa
 jereed
+jeremiad
 jeremiads
 jerid
 jerids
@@ -67001,6 +67020,7 @@ lard
 larder
 larders
 lardiest
+larding
 lardlike
 lardon
 lardoon
@@ -75518,6 +75538,7 @@ mispointed
 mispointing
 mispoise
 mispoised
+mispoises
 mispoising
 mispositioned
 mispositioning
@@ -76185,6 +76206,7 @@ mollified
 mollifier
 mollifiers
 mollifies
+mollify
 mollifying
 molls
 mollusc
@@ -80036,6 +80058,7 @@ nocturne
 nocturnes
 nocturns
 nocuous
+nocuously
 nod
 nodal
 nodalities
@@ -81166,6 +81189,7 @@ nonstory
 nonstructural
 nonstructured
 nonstudent
+nonstudents
 nonstyles
 nonsubject
 nonsubjective
@@ -87526,6 +87550,7 @@ paperweights
 paperwork
 paperworks
 papeterie
+papeteries
 paphian
 paphians
 papilla
@@ -87583,6 +87608,7 @@ parables
 parabola
 parabolas
 parabolic
+parabolically
 paraboloid
 paraboloidal
 paraboloids
@@ -92045,6 +92071,7 @@ pizzazzy
 pizzelle
 pizzelles
 pizzeria
+pizzerias
 pizzicati
 pizzicato
 pizzle
@@ -93514,6 +93541,7 @@ polytypic
 polyunsaturated
 polyurethanes
 polyuria
+polyuric
 polyvalence
 polyvalences
 polyvalent
@@ -95540,6 +95568,7 @@ prepupal
 prepupas
 prepurchased
 prepurchases
+prepurchasing
 preputial
 prequalified
 prequalify
@@ -104730,6 +104759,7 @@ respiritualize
 respiritualized
 respiritualizes
 respirometer
+respirometers
 respirometric
 respirometries
 respirometry
@@ -111369,6 +111399,7 @@ serjeants
 sermonette
 sermonettes
 sermonic
+sermonize
 sermonizer
 sermonizers
 sermonizes
@@ -112019,6 +112050,7 @@ shedding
 sheds
 sheen
 sheened
+sheeneys
 sheenier
 sheeniest
 sheening
@@ -122642,6 +122674,7 @@ swipples
 swirl
 swirled
 swirliest
+swirling
 swirlingly
 swirls
 swirly
@@ -135592,6 +135625,7 @@ vibists
 vibracula
 vibraharp
 vibraharpist
+vibrance
 vibrancies
 vibrant
 vibrantly
@@ -136221,6 +136255,7 @@ vivacities
 vivacity
 vivandiere
 vivaria
+vivaries
 vivarium
 vivary
 vive
