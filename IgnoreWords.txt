@@ -2472,6 +2472,7 @@ alehouse
 alehouses
 alembic
 alembics
+alencon
 alencons
 aleph
 alephs
@@ -13370,6 +13371,7 @@ bookshelf
 bookshelves
 bookshop
 bookshops
+bookstall
 bookstalls
 bookstand
 bookstore
@@ -15151,6 +15153,7 @@ buffi
 buffier
 buffiest
 buffing
+buffleheads
 buffo
 buffooneries
 buffoonery
@@ -16769,6 +16772,7 @@ canceled
 cancelers
 canceling
 cancellable
+cancellation
 canceller
 cancellers
 cancelling
@@ -22132,6 +22136,7 @@ coasts
 coastwards
 coat
 coatdresses
+coated
 coatees
 coater
 coaters
@@ -25744,6 +25749,7 @@ copywriter
 copywriters
 coquet
 coquetries
+coquetry
 coquets
 coquette
 coquetted
@@ -31561,6 +31567,7 @@ denseness
 densenesses
 denser
 densest
+densification
 densifications
 densified
 densifies
@@ -37150,6 +37157,7 @@ duumviri
 duumvirs
 duvet
 duvetine
+duvetines
 duvets
 duvetyn
 duvetyne
@@ -40473,6 +40481,7 @@ epitomise
 epitomised
 epitomises
 epitomize
+epitomized
 epitomizing
 epitope
 epitopes
@@ -52420,6 +52429,7 @@ groggeries
 groggery
 groggier
 groggiest
+groggily
 grogginess
 grogginesses
 groggy
@@ -52428,6 +52438,7 @@ grogs
 grogshop
 grogshops
 groin
+groined
 groining
 groins
 grokked
@@ -56304,6 +56315,7 @@ holks
 holla
 hollaed
 hollaing
+hollandaises
 holler
 hollered
 hollering
@@ -64267,6 +64279,7 @@ jingko
 jingkoes
 jingle
 jingled
+jinglers
 jinglier
 jingliest
 jingling
@@ -65823,6 +65836,7 @@ klatsches
 klavern
 klaxon
 klaxons
+kleagle
 klebsiella
 klebsiellas
 kleenex
@@ -68696,6 +68710,7 @@ lineless
 linelike
 lineman
 linemen
+linen
 linens
 lineny
 linerboard
@@ -71712,6 +71727,7 @@ margravate
 margravates
 margrave
 margraves
+margravial
 margraviate
 margraviates
 margravine
@@ -77130,6 +77146,7 @@ motorways
 mott
 motte
 mottes
+mottled
 mottler
 mottlers
 mottling
@@ -81684,6 +81701,7 @@ numbnesses
 numbs
 numbskull
 numbskulls
+numchuck
 numchucks
 numerable
 numerably
@@ -84228,6 +84246,7 @@ outdo
 outdodge
 outdodged
 outdodges
+outdodging
 outdoer
 outdoers
 outdoes
@@ -89717,6 +89736,7 @@ perjures
 perjuries
 perjuring
 perjurious
+perjuriously
 perjury
 perk
 perked
@@ -98765,6 +98785,7 @@ quantifier
 quantifiers
 quantifies
 quantify
+quantile
 quanting
 quantitate
 quantitated
@@ -99836,6 +99857,7 @@ rancorously
 rancors
 rancour
 rancoured
+rand
 randan
 randans
 randier
@@ -104280,6 +104302,7 @@ resculpts
 resealable
 resealed
 resealing
+reseals
 research
 researchable
 researched
@@ -106118,6 +106141,7 @@ riley
 rilievi
 rilievo
 riling
+rill
 rille
 rillettes
 rilling
@@ -106548,6 +106572,7 @@ roil
 roiled
 roiliest
 roiling
+roily
 roister
 roistered
 roisterers
@@ -112606,6 +112631,7 @@ showplace
 showring
 showrings
 showroom
+shows
 showstopper
 showstoppers
 showstopping
@@ -114196,6 +114222,7 @@ slept
 sleuth
 sleuthed
 sleuthhounds
+sleuthing
 sleuths
 slew
 slewed
@@ -114796,6 +114823,7 @@ smugness
 smugnesses
 smush
 smushed
+smushes
 smut
 smutch
 smutched
@@ -116274,6 +116302,7 @@ spale
 spall
 spallable
 spallation
+spallations
 spaller
 spallers
 spalling
@@ -116794,6 +116823,7 @@ spiderworts
 spidery
 spied
 spiegel
+spiegeleisen
 spiegeleisens
 spiegels
 spiel
@@ -121046,6 +121076,7 @@ suitlike
 suitor
 suitors
 suits
+suk
 sukiyaki
 sukiyakis
 sukkah
@@ -122223,6 +122254,7 @@ sutured
 sutures
 suturing
 suzerain
+suzerains
 suzerainties
 suzerainty
 svaraj
@@ -123114,6 +123146,7 @@ tabbouleh
 tabboulehs
 tabby
 taber
+tabered
 tabering
 tabernacle
 tabernacles
@@ -129786,6 +129819,7 @@ tusches
 tush
 tushed
 tushery
+tushes
 tushie
 tushies
 tushy
@@ -136583,6 +136617,7 @@ wadable
 wadded
 wadder
 wadders
+waddie
 waddies
 wadding
 waddled
