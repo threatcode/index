@@ -13195,6 +13195,7 @@ bolus
 boluses
 bomb
 bombable
+bombard
 bombarded
 bombarder
 bombarders
@@ -24056,6 +24057,7 @@ computerising
 computerist
 computerists
 computerizable
+computerization
 computerize
 computerized
 computerizes
@@ -32166,6 +32168,7 @@ descanters
 descants
 descend
 descendant
+descendants
 descendent
 descender
 descenders
@@ -37106,6 +37109,7 @@ dumfounds
 dumka
 dumky
 dummies
+dummkopf
 dummkopfs
 dummy
 dummying
@@ -43121,6 +43125,7 @@ eyeopeners
 eyepieces
 eyepoint
 eyepoints
+eyepopper
 eyepoppers
 eyer
 eyers
@@ -47463,6 +47468,7 @@ founded
 foundered
 founders
 founding
+foundling
 foundlings
 foundries
 foundry
@@ -47768,6 +47774,7 @@ freeboard
 freeboards
 freeboot
 freebooted
+freebooting
 freeboots
 freeborn
 freed
@@ -49077,6 +49084,7 @@ gallous
 gallowglass
 gallowglasses
 gallows
+gallstone
 gallstones
 gallus
 gallused
@@ -53059,6 +53067,7 @@ guile
 guiled
 guileful
 guilefully
+guilefulness
 guilefulnesses
 guilelessly
 guilelessness
@@ -57954,6 +57963,7 @@ hydrillas
 hydro
 hydrobiological
 hydrobiologies
+hydrobiologist
 hydrobiologists
 hydrobiology
 hydrocarbons
@@ -60314,6 +60324,7 @@ inconsiderable
 inconsiderably
 inconsiderate
 inconsiderately
+inconsideration
 inconsistence
 inconsistencies
 inconsistency
@@ -63777,6 +63788,7 @@ isometrics
 isometries
 isometry
 isomorphic
+isomorphically
 isomorphous
 isomorphs
 isoniazid
@@ -64031,6 +64043,7 @@ jaconet
 jaconets
 jacquard
 jacquards
+jacquerie
 jactation
 jactations
 jactitation
@@ -68669,6 +68682,7 @@ lifelike
 lifelikenesses
 lifeline
 lifelines
+lifelong
 lifemanship
 lifers
 lifesavers
@@ -69584,6 +69598,7 @@ localist
 localists
 localities
 locality
+localizability
 localizable
 localization
 localizations
@@ -72851,6 +72866,7 @@ mechitza
 mechitzot
 meclizine
 meclizines
+meconium
 meconiums
 med
 medaillon
@@ -75236,6 +75252,7 @@ misbuilds
 misbuilt
 misbuttoned
 misbuttoning
+misbuttons
 miscalculate
 miscalculated
 miscalculates
@@ -75875,6 +75892,7 @@ misshaped
 misshapenly
 misshaper
 misshapers
+misshaping
 misshod
 missies
 missile
@@ -82388,6 +82406,7 @@ oblivious
 obliviously
 obliviousness
 oblong
+oblongs
 obloquies
 obnoxious
 obnoxiousnesses
@@ -83028,6 +83047,7 @@ oke
 okeh
 okehs
 okeydoke
+okeydokey
 okra
 okras
 olden
@@ -83435,6 +83455,7 @@ operagoings
 operand
 operant
 operas
+operate
 operates
 operatic
 operatically
@@ -84411,6 +84432,7 @@ outboast
 outboasted
 outboasting
 outboasts
+outbought
 outbound
 outboxed
 outboxing
@@ -87431,6 +87453,7 @@ pallettes
 pallia
 palliasse
 palliasses
+palliated
 palliation
 palliations
 palliative
@@ -89687,6 +89710,7 @@ peoples
 pep
 peperomia
 peperomias
+peperonis
 pepino
 pepla
 peplos
@@ -94813,6 +94837,7 @@ praline
 pralines
 pram
 prams
+prance
 pranced
 prancer
 prancers
@@ -98066,6 +98091,7 @@ pteridophytes
 pteridosperm
 pterin
 pterins
+pterodactyl
 pterodactyls
 pteropod
 pteropods
@@ -109302,6 +109328,7 @@ scad
 scads
 scaffold
 scaffolded
+scaffolding
 scaffoldings
 scaffolds
 scag
@@ -118739,6 +118766,7 @@ statuesque
 statuesquely
 statuette
 statuettes
+statures
 status
 statuses
 statusy
@@ -127907,6 +127935,7 @@ toughener
 tougheners
 toughening
 toughens
+tougher
 toughest
 toughie
 toughies
@@ -134186,6 +134215,7 @@ upclimbed
 upclimbing
 upclimbs
 upcoil
+upcoiled
 upcoiling
 upcoming
 upcountries
@@ -135596,6 +135626,7 @@ venologies
 venology
 venom
 venomed
+venomer
 venomers
 venomously
 venomousness
@@ -136214,6 +136245,7 @@ vignettes
 vignetting
 vignettist
 vignettists
+vigorish
 vigorishes
 vigoroso
 vigorous
@@ -136546,6 +136578,7 @@ visored
 visoring
 visorless
 vista
+vistaed
 visual
 visualise
 visualising
@@ -140923,6 +140956,7 @@ zemstvo
 zemstvos
 zenaida
 zenaidas
+zenana
 zenanas
 zenith
 zeniths
@@ -141158,6 +141192,7 @@ zoomorphic
 zoomorphs
 zooms
 zoon
+zooned
 zooning
 zoonoses
 zoonosis
