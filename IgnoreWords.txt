@@ -858,6 +858,7 @@ actinomyces
 actinomycete
 actinomycetes
 actinomycetous
+actinomycin
 actinomycosis
 actinomycotic
 actinon
@@ -3986,6 +3987,7 @@ anemia
 anemias
 anemic
 anemically
+anemograph
 anemographs
 anemologies
 anemology
@@ -9446,6 +9448,7 @@ baste
 baster
 basters
 bastes
+bastile
 bastille
 bastinade
 bastinaded
@@ -12021,6 +12024,7 @@ bivouacking
 bivouacks
 bivouacs
 biweeklies
+biweekly
 biyearly
 biz
 bizarre
@@ -12564,6 +12568,7 @@ bloodworts
 bloody
 blooey
 blooie
+bloomeries
 bloomers
 bloomery
 bloomier
@@ -12796,6 +12801,7 @@ blurter
 blurters
 blurting
 blushed
+blusher
 blushers
 blushes
 blushful
@@ -16018,6 +16024,7 @@ cabildos
 cabin
 cabined
 cabinet
+cabinetmakers
 cabinetmakings
 cabinetries
 cabinetry
@@ -18694,6 +18701,7 @@ centenarian
 centenarians
 centenaries
 centennial
+centennially
 centerboard
 centerboards
 centered
@@ -19937,6 +19945,7 @@ chieftainships
 chiel
 chield
 chields
+chiffchaff
 chiffchaffs
 chiffon
 chiffonades
@@ -31949,6 +31958,7 @@ derive
 derived
 deriver
 derives
+deriving
 derm
 derma
 dermabrasion
@@ -34476,6 +34486,7 @@ diskettes
 disking
 disklike
 dislikable
+dislike
 dislikeable
 disliked
 dislikers
@@ -38026,6 +38037,7 @@ eigenmode
 eigenmodes
 eigenvalues
 eigenvector
+eigenvectors
 eight
 eightball
 eighteen
@@ -40160,6 +40172,7 @@ epauletted
 epaulettes
 epazotes
 epee
+epeeists
 epees
 epeirogenic
 epeirogenically
@@ -50566,6 +50579,7 @@ glassblower
 glassblowing
 glassfuls
 glasshouse
+glasshouses
 glassie
 glassies
 glassiest
@@ -52885,6 +52899,7 @@ gullet
 gullets
 gulley
 gulleys
+gullibilities
 gullibility
 gullied
 gulling
@@ -53446,6 +53461,7 @@ hailstorm
 hailstorms
 haimish
 haint
+haints
 hair
 hairball
 hairballs
@@ -65751,6 +65767,7 @@ kissed
 kissers
 kissing
 kissy
+kist
 kistful
 kistfuls
 kists
@@ -75069,6 +75086,7 @@ misdiagnose
 misdiagnosed
 misdiagnoses
 misdiagnosis
+misdialed
 misdialling
 misdials
 misdid
@@ -75333,6 +75351,7 @@ mislocate
 mislocated
 mislocating
 mislocations
+mislodge
 mislodged
 mislodges
 mislying
@@ -75550,6 +75569,7 @@ misshapers
 misshod
 missies
 missile
+missileer
 missileman
 missileries
 missilery
@@ -77987,6 +78007,7 @@ mustachios
 mustang
 mustards
 mustardy
+musted
 mustee
 mustees
 mustelid
@@ -85981,6 +86002,7 @@ overpromising
 overpromote
 overpromoted
 overpromoting
+overproof
 overproportions
 overprotect
 overprotected
@@ -92525,6 +92547,7 @@ plews
 plex
 plexal
 plexor
+plexors
 plexus
 plexuses
 pliabilities
@@ -92891,6 +92914,7 @@ poetically
 poeticalness
 poeticalnesses
 poeticism
+poeticisms
 poeticize
 poeticized
 poeticizes
@@ -93884,6 +93908,7 @@ postbourgeois
 postbox
 postboxes
 postboys
+postburn
 postcapitalist
 postcards
 postcava
@@ -94530,6 +94555,7 @@ preamps
 preanal
 preannounce
 preannounced
+preannounces
 preannouncing
 preapplied
 preapplies
@@ -102198,6 +102224,7 @@ reformates
 reformation
 reformational
 reformations
+reformative
 reformatory
 reformats
 reformatted
@@ -104656,6 +104683,7 @@ responsively
 responsiveness
 responsories
 responsory
+responsum
 respool
 respooled
 respooling
@@ -104812,6 +104840,7 @@ restyle
 restyles
 restyling
 resubject
+resubjecting
 resubjects
 resubmission
 resubmissions
@@ -110014,6 +110043,7 @@ scuzzy
 scyphate
 scyphi
 scyphistoma
+scyphistomas
 scyphozoan
 scyphozoans
 scyphus
@@ -111024,6 +111054,7 @@ sentimentality
 sentimentalize
 sentimentalized
 sentimentally
+sentiments
 sentimo
 sentimos
 sentinel
@@ -111626,6 +111657,7 @@ shahdom
 shahdoms
 shahs
 shaird
+shairds
 shairn
 shairns
 shaitan
@@ -115559,6 +115591,7 @@ solidarist
 solidaristic
 solidarists
 solidarities
+solidary
 solider
 solidest
 solidi
@@ -117938,6 +117971,7 @@ stalls
 stalwartly
 stalwartness
 stalwartnesses
+stalworth
 stalworths
 stamen
 stamened
@@ -122110,6 +122144,7 @@ susceptibility
 susceptible
 susceptibleness
 susceptibly
+susceptive
 susceptiveness
 susceptivities
 sushi
