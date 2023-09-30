@@ -188,6 +188,7 @@ abstrusity
 absurd
 absurder
 absurdest
+absurdism
 absurdisms
 absurdist
 absurdists
@@ -1912,6 +1913,7 @@ agglutinates
 agglutinating
 agglutination
 agglutinations
+agglutinin
 agglutinins
 agglutinogenic
 agglutinogens
@@ -6492,6 +6494,7 @@ artsiness
 artsinesses
 artsy
 artwork
+artworks
 arty
 arugola
 arugolas
@@ -13156,6 +13159,7 @@ bollixing
 bolloxed
 bolloxes
 bolloxing
+bollworms
 bolo
 bologna
 bolognas
@@ -17244,6 +17248,7 @@ capitularies
 capitulary
 capitulate
 capitulates
+capitulating
 capitulation
 capitulations
 capitulum
@@ -17509,6 +17514,7 @@ carboxyls
 carboyed
 carboys
 carbuncles
+carbuncular
 carburet
 carbureted
 carburetion
@@ -22231,6 +22237,7 @@ coastwards
 coat
 coatdresses
 coated
+coatee
 coatees
 coater
 coaters
@@ -28316,6 +28323,7 @@ cubicle
 cubicles
 cubics
 cubicula
+cubiculum
 cubiform
 cubing
 cubisms
@@ -28733,6 +28741,7 @@ currish
 currishly
 currs
 curry
+currycomb
 currycombing
 currycombs
 currying
@@ -37764,6 +37773,7 @@ echolocation
 echolocations
 echoviruses
 echt
+eclaircissement
 eclairs
 eclampsia
 eclampsias
@@ -44490,6 +44500,7 @@ fervency
 fervidities
 fervidity
 fervidly
+fervidness
 fervidnesses
 fervor
 fervors
@@ -45722,6 +45733,7 @@ flattery
 flattest
 flattish
 flattop
+flatulence
 flatulencies
 flatulency
 flatulent
@@ -47394,6 +47406,7 @@ fortuitously
 fortuitousness
 fortunate
 fortunately
+fortunateness
 fortunatenesses
 fortune
 fortuned
@@ -49178,6 +49191,7 @@ gamesomeness
 gamesomenesses
 gamest
 gamester
+gametangia
 gametangium
 gametic
 gametically
@@ -50565,6 +50579,7 @@ gingivectomies
 gingivitis
 gingivitises
 gingkoes
+gink
 ginkgo
 ginkgoes
 ginks
@@ -64387,6 +64402,7 @@ jerkinesses
 jerking
 jerkins
 jerks
+jerkwater
 jerkwaters
 jerky
 jeroboams
@@ -69235,6 +69251,7 @@ lisp
 lisped
 lisper
 lispers
+lisping
 lisps
 lissom
 lissome
@@ -74493,6 +74510,7 @@ midrib
 midriff
 midriffs
 midsagittal
+midsection
 midsections
 midship
 midshipman
@@ -78342,6 +78360,7 @@ mustache
 mustached
 mustaches
 mustachio
+mustachioed
 mustachios
 mustang
 mustards
@@ -82551,6 +82570,7 @@ obtrusively
 obtrusivenesses
 obtund
 obtunded
+obtundent
 obtundents
 obtunding
 obtundities
@@ -89318,6 +89338,7 @@ peepuls
 peer
 peerages
 peered
+peeress
 peeresses
 peerie
 peeries
@@ -89803,6 +89824,7 @@ perceives
 perceiving
 percent
 percentage
+percentages
 percental
 percentile
 percentiles
@@ -96121,6 +96143,7 @@ pressurize
 pressurizer
 pressurizers
 pressurizes
+pressurizing
 presswork
 pressworks
 prest
@@ -107303,6 +107326,7 @@ rotgut
 rotguts
 roti
 rotiferan
+rotiferans
 rotifers
 rotiform
 rotis
@@ -109951,6 +109975,7 @@ sclerotized
 sclerous
 scoff
 scoffed
+scoffers
 scoffing
 scofflaws
 scoffs
@@ -112512,6 +112537,7 @@ shellfishes
 shellier
 shelliest
 shelling
+shellproof
 shells
 shellwork
 shellworks
@@ -113463,6 +113489,7 @@ sieved
 sievert
 sieverts
 sieves
+sieving
 sifaka
 sifakas
 siffleur
@@ -113509,6 +113536,7 @@ sigmoid
 sigmoidal
 sigmoidally
 sigmoidoscopies
+sigmoidoscopy
 sigmoids
 signage
 signages
@@ -119816,6 +119844,7 @@ strappado
 strappadoes
 strappados
 strapped
+strappers
 strappier
 strappiest
 strapping
@@ -124473,6 +124502,7 @@ tatsois
 tatter
 tatterdemalion
 tatterdemalions
+tattered
 tattering
 tatters
 tattersall
@@ -127270,6 +127300,7 @@ togate
 togated
 togaviruses
 together
+togetherness
 togethernesses
 togged
 toggeries
@@ -130740,6 +130771,7 @@ tzar
 tzardom
 tzardoms
 tzarevna
+tzarevnas
 tzarism
 tzarisms
 tzarist
@@ -138283,6 +138315,7 @@ wellie
 wellies
 wellness
 wellnesses
+wellsite
 wellsites
 wellspring
 wellsprings
@@ -141012,6 +141045,7 @@ zigzag
 zigzagged
 zigzagger
 zigzaggers
+zigzagging
 zigzaggy
 zigzags
 zikkurats
@@ -141186,6 +141220,7 @@ zoologist
 zoologists
 zoom
 zoomania
+zoomanias
 zooming
 zoomorph
 zoomorphic
