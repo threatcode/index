@@ -912,6 +912,7 @@ actuate
 actuated
 actuates
 actuating
+actuations
 actuator
 actuators
 acuities
@@ -5487,6 +5488,7 @@ appealers
 appealing
 appealingly
 appeals
+appear
 appearance
 appearances
 appeared
@@ -14220,6 +14222,7 @@ braveness
 bravenesses
 braveries
 bravers
+bravery
 braves
 bravi
 braving
@@ -14333,6 +14336,7 @@ bream
 breaming
 breams
 breastbones
+breastfed
 breastfeed
 breastfeeds
 breasting
@@ -16455,6 +16459,7 @@ calicos
 calif
 califate
 califates
+californium
 californiums
 califs
 caliginous
@@ -16727,6 +16732,7 @@ camphines
 camphire
 camphires
 camphol
+camphols
 camphor
 camphoraceous
 camphorate
@@ -19701,6 +19707,7 @@ cheerfulnesses
 cheerier
 cheeriest
 cheerily
+cheeriness
 cheerinesses
 cheering
 cheerios
@@ -20768,6 +20775,7 @@ chunter
 chuntered
 chunters
 chuppa
+chuppah
 chuppahs
 chuppas
 church
@@ -22461,6 +22469,7 @@ codesigning
 codesigns
 codetermination
 codeveloper
+codevelopers
 codeveloping
 codevelops
 codex
@@ -24215,6 +24224,7 @@ concretists
 concretizations
 concretize
 concretized
+concretizes
 concretizing
 concubinage
 concubinages
@@ -26883,6 +26893,7 @@ coverages
 coverall
 coveralled
 coveralls
+coverer
 covering
 coverless
 coverlid
@@ -34775,6 +34786,7 @@ disproven
 disproves
 disproving
 disputable
+disputably
 disputant
 disputants
 disputations
@@ -36701,6 +36713,7 @@ drownds
 drowners
 drowning
 drowns
+drowse
 drowses
 drowsiest
 drowsily
@@ -38085,6 +38098,7 @@ egrets
 egyptians
 eh
 eicosanoid
+eicosanoids
 eide
 eider
 eiderdown
@@ -41258,6 +41272,7 @@ ethicians
 ethicists
 ethicize
 ethicized
+ethicizes
 ethicizing
 ethinyls
 ethion
@@ -46503,6 +46518,7 @@ folio
 folioed
 folioing
 foliose
+folious
 foliums
 folk
 folkie
@@ -51848,6 +51864,7 @@ granddaughters
 grandee
 grandees
 grandest
+grandeur
 grandeurs
 grandfather
 grandfathered
@@ -56942,6 +56959,7 @@ hopscotched
 hopscotching
 hoptoad
 hoptoads
+horahs
 horary
 horas
 horded
@@ -60306,6 +60324,7 @@ incuriosity
 incurious
 incuriously
 incuriousness
+incuriousnesses
 incurrence
 incurrent
 incurring
@@ -70760,6 +70779,7 @@ maculation
 macule
 maculed
 macules
+maculing
 macumba
 macumbas
 madam
@@ -71750,6 +71770,7 @@ marathoning
 marathonings
 marathons
 maraud
+marauded
 marauders
 marauding
 marauds
@@ -71977,6 +71998,7 @@ marrowed
 marrowfat
 marrowfats
 marrows
+marrowy
 marry
 marrying
 marsala
@@ -74020,6 +74042,7 @@ microcode
 microcodes
 microcomputer
 microcomputers
+microcopies
 microcopy
 microcosm
 microcosmic
@@ -85936,6 +85959,7 @@ overlaps
 overlate
 overlavish
 overlay
+overlaying
 overlays
 overleaf
 overleap
@@ -90797,6 +90821,7 @@ phosphites
 phosphokinase
 phosphokinases
 phospholipase
+phospholipases
 phospholipid
 phospholipids
 phosphoniums
@@ -92862,6 +92887,7 @@ plumiest
 pluming
 plumiped
 plumipeds
+plummest
 plummet
 plummets
 plummiest
@@ -95383,6 +95409,7 @@ prelusive
 prelusively
 prelusory
 premade
+premalignant
 preman
 premanufactured
 premanufactures
@@ -104736,6 +104763,7 @@ resocializes
 resod
 resods
 resoften
+resoftened
 resoftening
 resoftens
 resojet
@@ -104897,6 +104925,7 @@ resprouts
 resprung
 ressentiments
 rest
+restabilized
 restable
 restabled
 restables
@@ -111053,6 +111082,7 @@ semisubmersible
 semisweet
 semisynthetic
 semitist
+semitists
 semitonal
 semitones
 semitonic
@@ -112081,6 +112111,7 @@ shaving
 shavings
 shawed
 shawing
+shawled
 shawls
 shawm
 shawn
@@ -119279,6 +119310,7 @@ stoninesses
 stoning
 stonish
 stonished
+stonishes
 stonishing
 stony
 stonyhearted
@@ -120679,6 +120711,7 @@ subphyla
 subphylar
 subphylum
 subplot
+subplots
 subpoena
 subpoenaed
 subpoenaing
@@ -140685,6 +140718,7 @@ zincic
 zincified
 zincify
 zincifying
+zincing
 zincites
 zincking
 zincky
@@ -140796,6 +140830,7 @@ zonked
 zonks
 zonula
 zonulae
+zonulas
 zonules
 zoo
 zoochore
