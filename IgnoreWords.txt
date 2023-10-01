@@ -6645,6 +6645,7 @@ ashlared
 ashlaring
 ashlars
 ashler
+ashlers
 ashless
 ashman
 ashmen
@@ -14047,6 +14048,7 @@ boys
 boysenberry
 bozo
 bozos
+bra
 brabble
 brabbled
 brabbler
@@ -14483,6 +14485,7 @@ bree
 breech
 breechblocks
 breechcloth
+breechcloths
 breechclout
 breechclouts
 breeched
@@ -15760,6 +15763,7 @@ burrow
 burrowed
 burrower
 burrowers
+burrowing
 burrows
 burrs
 burry
@@ -27338,6 +27342,7 @@ cranberry
 cranch
 cranched
 cranching
+crane
 craned
 cranes
 cranesbill
@@ -30395,6 +30400,7 @@ decertify
 decertifying
 dechlorinate
 dechlorinates
+dechlorinating
 dechlorination
 deciare
 deciares
@@ -30695,6 +30701,7 @@ decuries
 decurion
 decurions
 decurrent
+decurve
 decury
 decussate
 decussated
@@ -30799,6 +30806,7 @@ defames
 defaming
 defang
 defanged
+defanging
 defangs
 defat
 defats
@@ -33528,6 +33536,7 @@ diffusions
 diffusive
 diffusiveness
 diffusivenesses
+diffusivity
 diffusor
 diffusors
 difs
@@ -34534,6 +34543,7 @@ disenthrals
 disentitled
 disentitles
 disentitling
+disequilibrate
 disequilibrated
 disequilibrates
 disequilibria
@@ -44938,6 +44948,7 @@ fictivenesses
 ficus
 ficuses
 fid
+fiddle
 fiddleback
 fiddled
 fiddlehead
@@ -45094,6 +45105,7 @@ filiations
 filibeg
 filibegs
 filibuster
+filibustered
 filibusterer
 filibusterers
 filibustering
@@ -46906,6 +46918,7 @@ footbag
 footbags
 football
 footballer
+footballers
 footballs
 footbaths
 footboard
@@ -50911,6 +50924,7 @@ glairy
 glaive
 glaived
 glam
+glamor
 glamorise
 glamorised
 glamorising
@@ -51342,6 +51356,7 @@ glumnesses
 glumpier
 glumpily
 glumpy
+glums
 glunched
 glunches
 glunching
@@ -53283,6 +53298,7 @@ guitarists
 guitars
 guitguit
 guitguits
+gul
 gulag
 gulags
 gular
@@ -62794,6 +62810,7 @@ interpleaders
 interpleading
 interpleads
 interpled
+interpluvial
 interpoint
 interpolate
 interpolating
@@ -64668,6 +64685,7 @@ jeweler
 jewelers
 jeweller
 jewelleries
+jewellike
 jewelling
 jewelries
 jewelry
@@ -71215,6 +71233,7 @@ madreporic
 madreporite
 madrigal
 madrigalian
+madrigalist
 madrilene
 madrilenes
 madrona
@@ -74023,6 +74042,7 @@ metagenetic
 metal
 metalanguage
 metalanguages
+metalhead
 metalheads
 metaling
 metalinguistic
@@ -81794,6 +81814,7 @@ nonuses
 nonusing
 nonutilitarian
 nonutilities
+nonutopian
 nonvacant
 nonvalid
 nonvalidities
@@ -88117,6 +88138,7 @@ paperweight
 paperweights
 paperwork
 paperworks
+papery
 papeterie
 papeteries
 paphian
@@ -88871,6 +88893,7 @@ passwords
 pasta
 pastalike
 pastas
+paste
 pasteboard
 pastedowns
 pastel
@@ -90024,6 +90047,7 @@ peppering
 peppermint
 pepperminty
 pepperoni
+pepperonis
 peppers
 peppertree
 peppertrees
@@ -94026,6 +94050,7 @@ polymathies
 polymaths
 polymathy
 polymer
+polymerase
 polymerases
 polymeric
 polymerisation
@@ -99121,6 +99146,7 @@ putz
 putzed
 putzes
 puzzle
+puzzled
 puzzledly
 puzzleheaded
 puzzlement
@@ -100102,6 +100128,7 @@ racket
 racketed
 racketeered
 racketeering
+racketeers
 racketier
 racketing
 rackets
@@ -101329,6 +101356,7 @@ reassailed
 reassailing
 reassails
 reassemblage
+reassemblages
 reassemble
 reassembles
 reassemblies
@@ -104203,6 +104231,7 @@ remunerated
 remunerates
 remunerating
 remuneration
+remunerations
 remunerators
 remuneratory
 remythologize
@@ -113376,6 +113405,7 @@ shots
 shotten
 shotting
 shotts
+should
 shoulder
 shouldering
 shoulders
@@ -115682,6 +115712,7 @@ snafu
 snafued
 snafuing
 snag
+snagged
 snaggier
 snaggleteeth
 snaggletoothed
@@ -118140,6 +118171,7 @@ sporadically
 sporal
 sporangia
 sporangial
+sporangiophore
 sporangiophores
 sporangium
 spored
@@ -120826,6 +120858,7 @@ suably
 suasion
 suasions
 suasive
+suasively
 suasiveness
 suasivenesses
 suasory
@@ -121976,6 +122009,7 @@ sulfatases
 sulfate
 sulfated
 sulfates
+sulfating
 sulfation
 sulfations
 sulfhydryls
@@ -135514,6 +135548,7 @@ vamosed
 vamp
 vamped
 vamper
+vampers
 vampiest
 vamping
 vampire
