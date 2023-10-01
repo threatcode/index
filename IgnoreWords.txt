@@ -7186,6 +7186,7 @@ athwartships
 atilt
 atingle
 atlantes
+atlas
 atlatl
 atman
 atmans
@@ -14870,6 +14871,7 @@ brokenly
 brokenness
 brokennesses
 broker
+brokerage
 brokerages
 brokered
 brokering
@@ -17916,6 +17918,7 @@ carpaccio
 carpale
 carpalia
 carpals
+carped
 carpellate
 carpels
 carpenter
@@ -20529,6 +20532,7 @@ choired
 choirgirl
 choirgirls
 choiring
+choirmaster
 choirmasters
 choirs
 choke
@@ -20855,6 +20859,7 @@ chrysarobins
 chrysoberyl
 chrysoberyls
 chrysolite
+chrysolites
 chrysomelid
 chrysomelids
 chrysophyte
@@ -21799,6 +21804,7 @@ clerisy
 clerk
 clerkdom
 clerkdoms
+clerked
 clerkish
 clerklier
 clerkly
@@ -27073,6 +27079,7 @@ coutures
 couturiere
 couturieres
 couturiers
+couvade
 couvades
 covalence
 covalences
@@ -33495,6 +33502,7 @@ diehards
 dieing
 diel
 dieldrins
+dielectric
 dielectrics
 diemaker
 diencephalon
@@ -37706,6 +37714,7 @@ eagers
 eagle
 eagles
 eaglewoods
+eagling
 eagre
 eagres
 eanling
@@ -40356,6 +40365,7 @@ entomologists
 entomophagous
 entomophily
 entophytes
+entoprocts
 entourage
 entourages
 entozoa
@@ -40851,6 +40861,7 @@ epithelia
 epithelial
 epithelialize
 epithelialized
+epithelializes
 epithelializing
 epithelioid
 epithelioma
@@ -41243,6 +41254,7 @@ erythremia
 erythremias
 erythrism
 erythrismal
+erythristic
 erythrite
 erythrites
 erythroblast
@@ -43972,6 +43984,7 @@ farmwork
 farmworker
 farmworkers
 farmworks
+farmyard
 farmyards
 farness
 farnesses
@@ -44632,6 +44645,7 @@ fermentors
 ferments
 fermi
 fermionic
+fermions
 fermis
 fermium
 fermiums
@@ -46528,6 +46542,7 @@ fluffiness
 fluffinesses
 fluffs
 fluffy
+flugelhornist
 flugelhornists
 flugelhorns
 fluid
@@ -48329,6 +48344,7 @@ frizettes
 frizing
 frizz
 frizzed
+frizzers
 frizzier
 frizzies
 frizziest
@@ -49395,6 +49411,7 @@ gambadoes
 gambados
 gambas
 gambe
+gambes
 gambeson
 gambesons
 gambias
@@ -55907,6 +55924,7 @@ hereafter
 hereafters
 hereat
 hereaway
+hereby
 heredes
 hereditament
 hereditaments
@@ -65942,6 +65960,7 @@ ketogenesis
 ketogenic
 ketol
 ketonemia
+ketonemias
 ketones
 ketonuria
 ketose
@@ -66528,6 +66547,7 @@ kneeing
 kneel
 kneeled
 kneeler
+kneelers
 kneeling
 kneels
 kneepad
@@ -72897,6 +72917,7 @@ matriculated
 matriculates
 matriculating
 matriculation
+matrilineal
 matrilineally
 matrimonially
 matrimonies
@@ -78221,6 +78242,7 @@ mullen
 mullens
 muller
 mullers
+mullet
 mullets
 mulligan
 mulligatawnies
@@ -81368,6 +81390,7 @@ nongraduate
 nongraduates
 nongrammatical
 nongranular
+nongreasy
 nongreen
 nongregarious
 nongrowing
@@ -81906,6 +81929,7 @@ nontheists
 nontherapeutic
 nonthermal
 nonthreatening
+nontitle
 nontobacco
 nontonal
 nontonic
@@ -83191,6 +83215,7 @@ oddness
 oddnesses
 odds
 oddsmaker
+oddsmakers
 ode
 odea
 odeon
@@ -83669,6 +83694,7 @@ oncology
 oncoming
 oncomings
 oncornavirus
+oncornaviruses
 oncovirus
 ondogram
 ondograms
@@ -91064,6 +91090,7 @@ peytrals
 peytrel
 peytrels
 pfennige
+pfft
 pfui
 phaeton
 phaetons
@@ -96190,6 +96217,7 @@ prenoon
 prenotification
 prenotified
 prenotifies
+prenotify
 prenotifying
 prenotion
 prenotions
@@ -104302,6 +104330,7 @@ remodelers
 remodeling
 remodelled
 remodelling
+remodified
 remodifies
 remodify
 remodifying
@@ -105771,6 +105800,7 @@ restrengthened
 restrengthening
 restrengthens
 restressed
+restressing
 restretch
 restretched
 restretches
@@ -119273,6 +119303,7 @@ stasis
 stat
 statable
 statant
+state
 stateable
 statecraft
 statecrafts
@@ -129520,6 +129551,7 @@ trenchant
 trenchantly
 trencher
 trencherman
+trenchermen
 trenchers
 trenches
 trenching
@@ -131654,6 +131686,7 @@ umbonic
 umbos
 umbra
 umbrage
+umbrageous
 umbrageously
 umbrageousness
 umbrages
@@ -134133,6 +134166,7 @@ unrestful
 unresting
 unrestored
 unrestrained
+unrestraint
 unrestraints
 unrestricted
 unrests
@@ -139014,6 +139048,7 @@ wergild
 wergilds
 wernerites
 wert
+werwolf
 weskit
 weskits
 wessand
