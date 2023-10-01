@@ -922,6 +922,7 @@ actuating
 actuations
 actuator
 actuators
+acuate
 acuities
 aculeate
 aculeated
@@ -5758,6 +5759,7 @@ aptest
 aptitude
 aptitudes
 aptitudinal
+aptitudinally
 aptness
 aptnesses
 apyrase
@@ -6852,6 +6854,7 @@ assiduity
 assiduous
 assiduously
 assign
+assignabilities
 assignability
 assignable
 assignat
@@ -11284,6 +11287,7 @@ bickerer
 bickering
 bicoastal
 bicolor
+bicolors
 bicolours
 bicomponent
 biconcavities
@@ -11684,6 +11688,7 @@ biodynamic
 bioelectric
 bioelectrical
 bioelectricity
+bioenergetic
 bioengineer
 bioengineered
 bioengineering
@@ -17964,6 +17969,7 @@ carrots
 carrottop
 carrottopped
 carroty
+carrousels
 carry
 carryall
 carryalls
@@ -18776,6 +18782,7 @@ cellarway
 cellarways
 cellblock
 cellblocks
+celling
 cellist
 cellists
 cellmate
@@ -24035,6 +24042,7 @@ complimentarily
 complimentary
 complimented
 complimenting
+compliments
 complin
 compline
 complines
@@ -31455,6 +31463,7 @@ deluging
 delusional
 delusions
 delusive
+delusiveness
 delusivenesses
 delusory
 deluster
@@ -33913,6 +33922,7 @@ diphenylamine
 diphenylamines
 diphenyls
 diphosgene
+diphosgenes
 diphosphates
 diphtheria
 diphtherias
@@ -34952,6 +34962,7 @@ displanted
 displants
 display
 displayable
+displayed
 displayer
 displayers
 displaying
@@ -36457,6 +36468,7 @@ dowse
 dowsed
 dowser
 dowsers
+dowses
 dowsing
 doxie
 doxies
@@ -37176,6 +37188,7 @@ duennaships
 dues
 duet
 dueting
+duetted
 duetting
 duettist
 duff
@@ -46070,6 +46083,7 @@ flense
 flensed
 flenser
 flensers
+flenses
 flensing
 flesh
 flesher
@@ -46239,6 +46253,7 @@ floatier
 floatiest
 floating
 floatplane
+floatplanes
 floats
 floaty
 floc
@@ -48064,6 +48079,7 @@ freneticism
 freneticisms
 frenetics
 frenula
+frenular
 frenulum
 frenulums
 frenum
@@ -49547,6 +49563,7 @@ garbless
 garbling
 garboard
 garboards
+garboil
 garboils
 garbology
 garbs
@@ -57995,6 +58012,7 @@ hungover
 hungrier
 hungrily
 hungriness
+hungrinesses
 hungry
 hunk
 hunkered
@@ -62860,6 +62878,7 @@ interpret
 interpretable
 interpretations
 interpreted
+interpreter
 interpreters
 interpretive
 interpretively
@@ -70541,6 +70560,7 @@ loyalist
 loyalists
 loyally
 loyalties
+lozenge
 lozenges
 luau
 lubber
@@ -71700,6 +71720,7 @@ malingerers
 malingering
 malingers
 malison
+malkin
 malkins
 mall
 mallard
@@ -80363,6 +80384,7 @@ nigglings
 nigh
 nighed
 nighest
+nighing
 nighnesses
 nighs
 night
@@ -94128,6 +94150,7 @@ polyolefin
 polyolefins
 polyoma
 polyonymies
+polyonymous
 polyonymy
 polyp
 polyparies
@@ -104883,6 +104906,7 @@ reproduction
 reproductive
 reproductively
 reproductives
+reprograming
 reprogrammable
 reprogrammed
 reprogramming
@@ -107419,6 +107443,7 @@ rogues
 roguing
 roguish
 roguishly
+roguishness
 roguishnesses
 roil
 roiled
@@ -110429,6 +110454,7 @@ scooting
 scoots
 scop
 scoped
+scopes
 scoping
 scopolamine
 scopolamines
@@ -115890,6 +115916,7 @@ sneeriest
 sneering
 sneers
 sneesh
+sneeshes
 sneeze
 sneezed
 sneezer
@@ -117386,6 +117413,7 @@ spatzle
 spavies
 spaviet
 spavin
+spavined
 spavins
 spawn
 spawners
@@ -126734,6 +126762,7 @@ thirstily
 thirstiness
 thirsts
 thirsty
+thirteen
 thirteens
 thirteenth
 thirteenths
@@ -127745,6 +127774,7 @@ toecaps
 toed
 toehold
 toeholds
+toeing
 toeless
 toelike
 toenail
@@ -128470,6 +128500,7 @@ touristy
 tourmaline
 tourmalines
 tournament
+tournedos
 tourney
 tourneyed
 tourneying
@@ -131500,6 +131531,7 @@ umbel
 umbeled
 umbellar
 umbellate
+umbelled
 umbellet
 umbellets
 umbellifer
@@ -133478,6 +133510,7 @@ unlabored
 unlace
 unlaced
 unlaces
+unlacing
 unlade
 unladen
 unlades
@@ -138061,6 +138094,7 @@ warders
 warding
 wardless
 wardress
+wardrobe
 wardrobes
 wardrooms
 wards
@@ -138610,6 +138644,7 @@ weathermen
 weatherperson
 weatherpersons
 weatherproof
+weatherproofed
 weatherproofing
 weathers
 weatherworn
