@@ -329,6 +329,7 @@ accepted
 acceptee
 acceptees
 accepter
+accepters
 accepting
 acceptingness
 acceptingnesses
@@ -4204,6 +4205,7 @@ animas
 animate
 animatedly
 animately
+animateness
 animatenesses
 animaters
 animates
@@ -5591,6 +5593,7 @@ appetizingly
 applaudably
 applauded
 applauder
+applauders
 applauding
 applauds
 applause
@@ -9399,6 +9402,7 @@ baseliner
 baseliners
 baselines
 basely
+baseman
 basemen
 basement
 basements
@@ -10066,6 +10070,7 @@ bedizenments
 bedizens
 bedlam
 bedlamite
+bedlamp
 bedless
 bedlike
 bedmaker
@@ -13448,6 +13453,7 @@ booked
 bookend
 bookends
 booker
+bookers
 bookful
 bookfuls
 bookies
@@ -13738,6 +13744,7 @@ botanizers
 botanizes
 botanizing
 botas
+botch
 botched
 botcher
 botcheries
@@ -13784,6 +13791,7 @@ bottlings
 bottom
 bottomed
 bottomer
+bottomers
 bottoming
 bottomland
 bottomlands
@@ -25181,6 +25189,7 @@ construable
 construal
 construals
 construct
+constructed
 constructing
 construction
 constructional
@@ -26988,6 +26997,7 @@ courlan
 courlans
 course
 coursed
+coursers
 courseware
 coursing
 coursings
@@ -46671,6 +46681,7 @@ flying
 flyings
 flyleaf
 flyless
+flyman
 flymen
 flyoff
 flyoffs
@@ -47176,6 +47187,7 @@ foredid
 foredo
 foredoes
 foredoing
+foredoomed
 foreface
 forefaces
 forefather
@@ -50363,6 +50375,7 @@ geoprobe
 geoprobes
 georgette
 georgettes
+georgic
 georgics
 geoscience
 geosciences
@@ -52244,6 +52257,7 @@ grandnephews
 grandness
 grandnesses
 grandniece
+grandnieces
 grandpapa
 grandpapas
 grandparent
@@ -55122,6 +55136,7 @@ hear
 hearable
 hearer
 hearers
+hearing
 hearings
 hearken
 hearkeners
@@ -75008,6 +75023,7 @@ millefleur
 millenarian
 millenarianisms
 millenarians
+millenaries
 millenary
 millennia
 millennial
@@ -78142,6 +78158,7 @@ muled
 muletas
 muleteer
 muleteers
+muley
 muleys
 muling
 mulishly
@@ -79646,6 +79663,7 @@ needlefishes
 needlelike
 needlepoint
 needlepoints
+needler
 needlers
 needles
 needless
@@ -84493,6 +84511,7 @@ osmometries
 osmometry
 osmoregulation
 osmoregulations
+osmoregulatory
 osmose
 osmosed
 osmoses
@@ -85804,6 +85823,7 @@ outwile
 outwiled
 outwiling
 outwill
+outwilled
 outwilling
 outwills
 outwind
@@ -89644,6 +89664,7 @@ pedologist
 pedologists
 pedology
 pedometer
+pedometers
 pedophiles
 pedophilia
 pedophilias
@@ -99567,6 +99588,7 @@ quaker
 quakers
 quakier
 quakiest
+quakily
 quakiness
 quakinesses
 quaking
@@ -100159,6 +100181,7 @@ racewalks
 raceway
 raceways
 rachet
+racheted
 racheting
 rachets
 rachial
@@ -104292,6 +104315,7 @@ removeable
 removed
 removedly
 remover
+removers
 removes
 removing
 rems
@@ -106735,6 +106759,7 @@ rhythmic
 rhythmically
 rhythmics
 rhythmists
+rhythmize
 rhythmized
 rhythmizing
 rhythms
@@ -109822,6 +109847,7 @@ scallion
 scallop
 scalloped
 scalloper
+scallopers
 scalloping
 scallopini
 scallopinis
@@ -110977,6 +111003,7 @@ scythes
 scything
 sea
 seabag
+seabags
 seabeach
 seabeaches
 seabed
@@ -115930,6 +115957,7 @@ sneezing
 snell
 snelled
 sneller
+snellest
 snelling
 snells
 snib
@@ -116958,6 +116986,7 @@ soroches
 sororally
 sororate
 sororates
+sororities
 sorority
 soroses
 sorosis
@@ -118778,6 +118807,7 @@ sradha
 sri
 sris
 stab
+stabbed
 stabber
 stabbers
 stabile
@@ -119669,6 +119699,7 @@ sthenic
 stibial
 stibine
 stibines
+stibium
 stibiums
 stibnite
 stibnites
@@ -131817,6 +131848,7 @@ unbarricaded
 unbarring
 unbasted
 unbated
+unbe
 unbearable
 unbearably
 unbeared
@@ -132396,6 +132428,7 @@ underacted
 underactivity
 underacts
 underage
+underaged
 underages
 underarm
 underarms
@@ -138605,6 +138638,7 @@ wearing
 wearingly
 wearish
 wearisome
+wearisomely
 wearisomenesses
 weary
 wearying
@@ -140709,6 +140743,7 @@ wright
 wrights
 wring
 wringer
+wringers
 wringing
 wrings
 wrinkle
