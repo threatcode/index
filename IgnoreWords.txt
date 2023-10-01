@@ -606,6 +606,7 @@ achier
 achiest
 achievable
 achieve
+achieved
 achievement
 achievements
 achiever
@@ -5298,6 +5299,7 @@ apicultures
 apiculturist
 apiculturists
 apiculus
+apiece
 apimania
 apimanias
 aping
@@ -7895,6 +7897,7 @@ aviary
 aviate
 aviated
 aviates
+aviatic
 aviations
 aviator
 aviators
@@ -14114,6 +14117,7 @@ brainiac
 brainiacs
 brainier
 brainiest
+brainily
 braininess
 braininesses
 braining
@@ -14172,6 +14176,7 @@ branchial
 branchier
 branchiest
 branching
+branchiopod
 branchiopods
 branchless
 branchlet
@@ -18536,6 +18541,7 @@ cavalry
 cavalryman
 cavalrymen
 cavatina
+cavatinas
 cavatine
 cave
 caveat
@@ -20370,6 +20376,7 @@ chlorids
 chlorin
 chlorinate
 chlorinated
+chlorinates
 chlorinating
 chlorinations
 chlorinator
@@ -30134,11 +30141,13 @@ debrides
 debriding
 debrief
 debriefed
+debriefer
 debriefers
 debriefs
 debris
 debruise
 debruises
+debruising
 debs
 debt
 debtless
@@ -32816,6 +32825,7 @@ devour
 devoured
 devourers
 devouring
+devours
 devout
 devouter
 devoutest
@@ -35653,6 +35663,7 @@ doggoneder
 doggoner
 doggones
 doggonest
+doggoning
 doggrel
 doggrels
 doggy
@@ -38229,6 +38240,7 @@ eider
 eiderdown
 eiders
 eidetic
+eidetically
 eidola
 eidolic
 eidos
@@ -38326,6 +38338,7 @@ elastic
 elasticities
 elasticized
 elastics
+elastin
 elastins
 elastomer
 elastomeric
@@ -38336,6 +38349,7 @@ elatedness
 elatednesses
 elater
 elaterids
+elaterin
 elaterins
 elaterite
 elaterites
@@ -40006,6 +40020,7 @@ ensnares
 ensnaring
 ensnarled
 ensnarling
+ensnarls
 ensorcel
 ensorceling
 ensorcelled
@@ -52932,6 +52947,7 @@ grumblingly
 grumbly
 grume
 grumes
+grummest
 grummet
 grummets
 grumose
@@ -53943,6 +53959,7 @@ haloid
 haloids
 haloing
 halolike
+halon
 halons
 haloperidols
 halophilic
@@ -72067,6 +72084,7 @@ marginalizes
 marginalizing
 marginally
 marginals
+marginate
 marginated
 marginating
 margination
@@ -79848,6 +79866,7 @@ neurulation
 neustic
 neuston
 neustonic
+neustons
 neuter
 neutering
 neuters
@@ -85930,6 +85949,7 @@ overdyer
 overdyers
 overeager
 overeagerness
+overeagernesses
 overeasy
 overeaten
 overeater
@@ -87534,6 +87554,7 @@ palliest
 palling
 pallium
 pallor
+pallors
 palm
 palmar
 palmary
@@ -88717,6 +88738,7 @@ pastoralist
 pastoralists
 pastorally
 pastoralnesses
+pastorals
 pastorate
 pastorates
 pastored
@@ -89169,6 +89191,7 @@ peasants
 peascod
 peascods
 pease
+peasecods
 peasen
 peases
 peashooter
@@ -90200,6 +90223,7 @@ perlitic
 perm
 permafrost
 permafrosts
+permalloy
 permanences
 permanency
 permanent
@@ -95954,6 +95978,7 @@ prepupa
 prepupae
 prepupal
 prepupas
+prepurchase
 prepurchased
 prepurchases
 prepurchasing
@@ -101640,6 +101665,7 @@ recompile
 recompiled
 recompiles
 recompose
+recomposition
 recompositions
 recomputation
 recompute
@@ -103567,6 +103593,7 @@ relenting
 relentless
 relentlessly
 relentlessness
+relents
 relet
 relets
 reletter
@@ -105196,6 +105223,7 @@ resplendencies
 resplendency
 resplendent
 resplice
+respliced
 resplices
 resplicing
 resplit
@@ -106974,6 +107002,7 @@ robotic
 robotically
 robotics
 robotism
+robotisms
 robotization
 robotizations
 robotize
@@ -110509,6 +110538,7 @@ sculpture
 sculptured
 sculptures
 sculpturesque
+scultch
 scultches
 scumbag
 scumbags
@@ -115239,6 +115269,7 @@ smelter
 smelteries
 smelters
 smeltery
+smelting
 smelts
 smerk
 smerked
@@ -126667,6 +126698,7 @@ thunderstricken
 thunderstrike
 thunderstruck
 thunk
+thunked
 thunking
 thunks
 thurible
@@ -129027,6 +129059,7 @@ trespassers
 trespasses
 trespassing
 tress
+tressed
 tressel
 tressels
 tresses
@@ -131873,6 +131906,7 @@ uncuffed
 uncuffing
 uncuffs
 uncultivable
+uncultured
 uncurable
 uncurably
 uncurb
@@ -140425,6 +140459,7 @@ xylidine
 xylidines
 xylidins
 xylitol
+xylitols
 xylocarp
 xylocarps
 xylograph
