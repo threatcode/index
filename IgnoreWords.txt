@@ -2562,6 +2562,7 @@ algoid
 algolagnia
 algolagniac
 algolagniacs
+algolagnias
 algological
 algologist
 algologists
@@ -12960,6 +12961,7 @@ boardrooms
 boards
 boardsailing
 boardsailings
+boardsailor
 boardsailors
 boardwalk
 boardwalks
@@ -16253,6 +16255,7 @@ cacciatore
 cachalot
 cachalots
 cache
+cachectic
 cachepot
 cachepots
 caches
@@ -22933,6 +22936,7 @@ coheiress
 coheiresses
 coheirs
 cohere
+cohered
 coherence
 coherences
 coherencies
@@ -41557,6 +41561,7 @@ etatisms
 etatist
 etcetera
 etceteras
+etch
 etcher
 etchings
 eternal
@@ -42421,6 +42426,7 @@ excursions
 excursiveness
 excursivenesses
 excursuses
+excusable
 excusableness
 excusably
 excusatory
@@ -43119,6 +43125,7 @@ extermination
 exterminations
 exterminator
 exterminators
+exterminatory
 extermined
 extermines
 extermining
@@ -46814,6 +46821,7 @@ fodder
 foddered
 foddering
 fodders
+fodgel
 foe
 foehn
 foehns
@@ -50516,6 +50524,7 @@ germinated
 germinates
 germinating
 germinations
+germinative
 germiness
 germinesses
 germplasm
@@ -53746,6 +53755,7 @@ gyrator
 gyrators
 gyratory
 gyred
+gyrene
 gyrenes
 gyres
 gyring
@@ -54585,6 +54595,7 @@ harborer
 harborful
 harboring
 harborless
+harbormaster
 harborside
 harbour
 harboured
@@ -57619,6 +57630,7 @@ hosta
 hostage
 hostages
 hostas
+hosted
 hostel
 hosteled
 hostelers
@@ -59041,6 +59053,7 @@ iconolatry
 iconological
 iconology
 iconoscopes
+iconostases
 iconostasis
 icons
 icosahedra
@@ -61303,6 +61316,7 @@ inexperts
 inexpiable
 inexpiably
 inexplainable
+inexplicability
 inexplicable
 inexplicit
 inexpressibly
@@ -71099,6 +71113,7 @@ lymphoma
 lymphomas
 lymphomatoses
 lymphomatosis
+lymphomatous
 lymphosarcomata
 lymphs
 lynched
@@ -75067,6 +75082,7 @@ militarize
 militarized
 militarizing
 military
+militated
 militates
 militia
 militiaman
@@ -78217,6 +78233,7 @@ muggily
 mugginesses
 mugging
 muggins
+muggs
 muggurs
 muggy
 mughal
@@ -84900,6 +84917,7 @@ outbound
 outboxed
 outboxing
 outbragged
+outbragging
 outbrags
 outbrave
 outbraved
@@ -88926,6 +88944,7 @@ parting
 partisan
 partisanship
 partisanships
+partita
 partitas
 partite
 partition
@@ -90003,6 +90022,7 @@ penetrated
 penetrates
 penetrating
 penetratingly
+penetration
 penetrations
 penetrative
 penetrometer
@@ -93283,6 +93303,7 @@ playgoers
 playgoings
 playground
 playgrounds
+playgroup
 playgroups
 playhouse
 playhouses
@@ -100337,6 +100358,7 @@ racks
 rackwork
 rackworks
 raclette
+raclettes
 racon
 racons
 raconteur
@@ -103207,6 +103229,7 @@ refolds
 reforest
 reforestation
 reforestations
+reforested
 reforesting
 reforests
 reforge
@@ -105505,6 +105528,7 @@ resinates
 resinating
 resined
 resinified
+resinifies
 resinify
 resinifying
 resining
@@ -111496,6 +111520,7 @@ seedmen
 seedpod
 seedpods
 seeds
+seedsman
 seedsmen
 seedstock
 seedstocks
@@ -112380,6 +112405,7 @@ serologists
 serology
 seronegative
 seronegativity
+seropositivity
 seropurulent
 serosa
 serosae
@@ -113743,6 +113769,7 @@ shrieved
 shrieves
 shrift
 shrike
+shrill
 shriller
 shrillest
 shrilling
@@ -116158,6 +116185,7 @@ snob
 snobbery
 snobbier
 snobbish
+snobbishness
 snobbishnesses
 snobbism
 snobby
@@ -124860,6 +124888,7 @@ tankless
 tankship
 tankships
 tannable
+tannage
 tannages
 tannate
 tannates
@@ -125459,6 +125488,7 @@ tee
 teed
 teel
 teem
+teemed
 teemer
 teemers
 teeming
@@ -132608,6 +132638,8 @@ undercoatings
 undercoats
 undercooking
 undercool
+undercooled
+undercooling
 undercools
 undercount
 undercounted
@@ -138012,6 +138044,7 @@ wahoos
 waif
 waifed
 waifish
+waiflike
 waifs
 wailed
 wailers
@@ -141349,6 +141382,7 @@ yentas
 yente
 yentes
 yeoman
+yeomanly
 yeomanries
 yeomanry
 yeomen
@@ -141479,6 +141513,7 @@ yokozuna
 yokozunas
 yoks
 yolk
+yolked
 yolkier
 yolkiest
 yolks
