@@ -2685,6 +2685,7 @@ alkaloids
 alkaloses
 alkalotic
 alkane
+alkanes
 alkanet
 alkanets
 alkenes
@@ -4328,6 +4329,7 @@ annulets
 annulled
 annulling
 annulment
+annulose
 annuls
 annulus
 annuluses
@@ -10830,6 +10832,7 @@ besetment
 besetments
 besets
 besetter
+beshadow
 beshadowing
 beshame
 beshames
@@ -12113,6 +12116,7 @@ blackballed
 blackballing
 blackballs
 blackberries
+blackberry
 blackbird
 blackbirded
 blackbirder
@@ -13711,6 +13715,7 @@ botryoid
 botryoidal
 botryose
 botrytis
+botrytises
 bott
 bottle
 bottlebrush
@@ -17500,6 +17505,7 @@ carbonnade
 carbonnades
 carbonous
 carbons
+carbonylation
 carbonylations
 carbonylic
 carbonyls
@@ -19799,6 +19805,7 @@ cheesiness
 cheesinesses
 cheesing
 cheesy
+cheetahs
 chefdom
 chefdoms
 chefed
@@ -28636,6 +28643,7 @@ curarizes
 curarizing
 curassow
 curate
+curates
 curating
 curative
 curatively
@@ -32357,6 +32365,7 @@ desperation
 despicable
 despicableness
 despiritualize
+despiritualized
 despiritualizes
 despisals
 despised
@@ -37667,6 +37676,7 @@ eatables
 eaten
 eater
 eateries
+eaters
 eatery
 eath
 eating
@@ -42285,6 +42295,7 @@ exertive
 exerts
 exes
 exeunt
+exfoliant
 exfoliants
 exfoliate
 exfoliated
@@ -42538,6 +42549,7 @@ expats
 expect
 expectably
 expectance
+expectantly
 expectants
 expectative
 expected
@@ -42994,6 +43006,7 @@ extraordinary
 extrapolate
 extrapolated
 extrapolates
+extrapolation
 extrapolations
 extrapolative
 extrapolator
@@ -52800,6 +52813,7 @@ groupers
 groupie
 groupies
 grouping
+groupings
 groupoid
 groupoids
 groups
@@ -62163,6 +62177,7 @@ intensifier
 intensifiers
 intensifies
 intensional
+intensionality
 intensionally
 intensions
 intensities
@@ -63671,6 +63686,7 @@ ischium
 iseikonia
 iseikonic
 isentropic
+isentropically
 isinglass
 isinglasses
 island
@@ -66735,6 +66751,7 @@ lackluster
 lacklusters
 lacks
 laconic
+laconically
 laconism
 laconisms
 lacquer
@@ -68332,6 +68349,7 @@ lettered
 letterers
 letterforms
 letterhead
+letterheads
 letterings
 letterman
 lettermen
@@ -70020,6 +70038,7 @@ looping
 loops
 loopy
 loos
+loose
 loosed
 loosely
 loosen
@@ -70078,6 +70097,7 @@ lordlier
 lordliest
 lordlike
 lordliness
+lordling
 lordlings
 lordly
 lordoma
@@ -80862,6 +80882,7 @@ nondomestic
 nondominant
 nondormant
 nondramatic
+nondrinkers
 nondrinking
 nondrip
 nondrivers
@@ -87529,6 +87550,7 @@ palmette
 palmettes
 palmetto
 palmettoes
+palmier
 palmiest
 palming
 palmist
@@ -91851,6 +91873,7 @@ pileum
 pileup
 pileups
 pileus
+pilewort
 pilfer
 pilferable
 pilferage
@@ -92982,6 +93005,7 @@ plesiosaurs
 plessor
 plessors
 plethora
+plethoras
 plethoric
 plethysmogram
 plethysmograms
@@ -95201,6 +95225,7 @@ precises
 precisest
 precisian
 precisians
+precising
 precision
 precisionist
 precisionists
@@ -114475,6 +114500,7 @@ skyphos
 skyrocket
 skyrocketed
 skyrocketing
+skyrockets
 skysail
 skysails
 skyscraper
@@ -115296,6 +115322,7 @@ smokily
 smokiness
 smokinesses
 smoking
+smolder
 smoldered
 smolt
 smooch
@@ -115684,6 +115711,7 @@ snowboards
 snowbound
 snowbrushes
 snowbush
+snowbushes
 snowcap
 snowcapped
 snowcaps
@@ -116395,6 +116423,7 @@ sonorants
 sonorities
 sonority
 sonorous
+sonorously
 sonorousness
 sonorousnesses
 sonovox
@@ -120905,6 +120934,7 @@ sublimest
 subliminally
 subliming
 sublimit
+sublimities
 sublimits
 sublimity
 subline
@@ -132773,6 +132803,7 @@ unhusks
 unhydrolyzed
 unhygienic
 unhyphenated
+unhysterical
 unhysterically
 unialgal
 uniaxial
@@ -133150,6 +133181,7 @@ unmask
 unmasked
 unmasking
 unmasks
+unmatched
 unmated
 unmatted
 unmatured
@@ -134149,6 +134181,7 @@ unwaveringly
 unwaxed
 unweaned
 unwearable
+unwearied
 unweariedly
 unweary
 unweathered
@@ -139934,6 +139967,7 @@ worker
 workers
 workfares
 workflow
+workflows
 workfolk
 workforce
 workhorse
@@ -140270,6 +140304,7 @@ wuthering
 wuthers
 wyandotte
 wyandottes
+wych
 wyches
 wye
 wyes
