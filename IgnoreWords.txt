@@ -4664,12 +4664,14 @@ anticlockwise
 anticlotting
 anticly
 anticoagulant
+anticoagulants
 anticodon
 anticold
 anticollision
 anticolonial
 anticolonialism
 anticolonialist
+anticommercial
 anticommunisms
 anticommunist
 anticommunists
@@ -5830,6 +5832,7 @@ arabicized
 arabicizes
 arabicizing
 arabilities
+arability
 arabinose
 arabinoses
 arabinosides
@@ -17395,6 +17398,7 @@ captioned
 captioning
 captionless
 captions
+captious
 captiously
 captiousness
 captivate
@@ -23653,6 +23657,7 @@ commercials
 commie
 commies
 commination
+comminatory
 commingle
 commingles
 commingling
@@ -25750,6 +25755,7 @@ coopt
 coopted
 coopting
 cooption
+cooptions
 coopts
 coordinated
 coordinately
@@ -34785,6 +34791,7 @@ dismantles
 dismantling
 dismasted
 dismasting
+dismasts
 dismay
 dismaying
 dismays
@@ -35721,6 +35728,7 @@ dogface
 dogfaces
 dogfight
 dogfights
+dogfish
 dogfought
 dogged
 doggedly
@@ -38691,6 +38699,7 @@ elks
 ellipse
 ellipsoid
 ellipsoidal
+ellipsoids
 elliptic
 elliptical
 ellipticals
@@ -49782,6 +49791,7 @@ gauffered
 gauffers
 gaugeable
 gauged
+gauger
 gauges
 gauging
 gauleiters
@@ -54729,6 +54739,7 @@ hatchel
 hatcheled
 hatcheling
 hatchelled
+hatcher
 hatcheries
 hatchers
 hatchery
@@ -58200,6 +58211,7 @@ hydrolyzates
 hydrolyzed
 hydrolyzes
 hydrolyzing
+hydromagnetic
 hydromancies
 hydromancy
 hydromechanical
@@ -61113,6 +61125,7 @@ inevitable
 inevitableness
 inevitably
 inexact
+inexactitudes
 inexactness
 inexactnesses
 inexcusableness
@@ -62217,6 +62230,7 @@ insurgence
 insurgences
 insurgencies
 insurgency
+insurgent
 insurgents
 insuring
 insurmountably
@@ -64944,6 +64958,7 @@ joss
 josses
 jostle
 jostled
+jostler
 jostlers
 jostling
 jota
@@ -65033,6 +65048,7 @@ joyrider
 joyriders
 joyrides
 joyriding
+joyridings
 joyrode
 joys
 joystick
@@ -71022,6 +71038,7 @@ macaronis
 macaroon
 macaroons
 macaw
+macaws
 maccabaw
 maccabaws
 macchia
@@ -72051,6 +72068,7 @@ mantels
 mantelshelf
 mantelshelves
 mantes
+mantic
 manticore
 manticores
 mantids
@@ -82046,6 +82064,7 @@ noticers
 notices
 notifiable
 notifications
+notified
 notifier
 notifiers
 notifies
@@ -85380,6 +85399,7 @@ outrush
 outrushed
 outrushes
 outsaid
+outsail
 outsailed
 outsailing
 outsails
@@ -95346,6 +95366,7 @@ precast
 precasting
 precasts
 precative
+precatory
 precaution
 precautionary
 precava
@@ -98633,6 +98654,7 @@ pulverizing
 pulverulent
 pulvillar
 pulvillus
+pulvinar
 pulvinate
 pulvini
 puma
@@ -102652,6 +102674,7 @@ reemployments
 reemploys
 reenact
 reenacting
+reenactment
 reenactments
 reenactors
 reencounter
@@ -104469,6 +104492,7 @@ repeals
 repeat
 repeatability
 repeatable
+repeated
 repeater
 repeaters
 repeating
@@ -106826,6 +106850,7 @@ rigaudons
 rigged
 rigger
 riggers
+riggings
 right
 righted
 righteous
@@ -110698,6 +110723,7 @@ scrutinises
 scrutinising
 scrutinize
 scrutinized
+scrutinizing
 scrying
 scuba
 scubaed
@@ -113988,6 +114014,7 @@ silkweed
 silkweeds
 silkworm
 sill
+sillabub
 sillabubs
 siller
 sillers
@@ -114724,6 +114751,7 @@ skydivers
 skydives
 skydiving
 skydove
+skyed
 skyhook
 skying
 skyjacked
@@ -117681,6 +117709,7 @@ spiker
 spikers
 spikes
 spikey
+spikier
 spikiest
 spikily
 spikiness
@@ -121275,6 +121304,7 @@ subnasal
 subnational
 subnet
 subnets
+subnetwork
 subnetworked
 subnetworking
 subnetworks
@@ -122288,6 +122318,7 @@ superbanks
 superbest
 superbitch
 superbitches
+superblocks
 superbness
 superbnesses
 superboard
@@ -124896,6 +124927,7 @@ tautogs
 tautological
 tautologically
 tautologies
+tautologous
 tautologously
 tautology
 tautomer
@@ -126547,6 +126579,7 @@ thinkablenesses
 thinkably
 thinker
 thinkers
+thinking
 thinkingly
 thinkingness
 thinkingnesses
@@ -130636,6 +130669,7 @@ turistas
 turk
 turkey
 turkeys
+turkois
 turkoises
 turks
 turmeric
@@ -140999,6 +141033,7 @@ yens
 yenta
 yentas
 yente
+yentes
 yeoman
 yeomanries
 yeomanry
