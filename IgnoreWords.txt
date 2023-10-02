@@ -2480,6 +2480,7 @@ aldermanic
 aldermen
 alders
 alderwomen
+aldicarb
 aldicarbs
 aldolases
 aldolization
@@ -3049,6 +3050,7 @@ alphyls
 alpine
 alpinisms
 alpinist
+alpinists
 als
 alsike
 alsikes
@@ -5185,6 +5187,7 @@ antsinesses
 anural
 anuran
 anurans
+anuresis
 anuretic
 anuria
 anuric
@@ -6894,6 +6897,7 @@ assignat
 assignation
 assignats
 assignee
+assignees
 assigners
 assigning
 assignments
@@ -7756,6 +7760,7 @@ autohypnoses
 autohypnosis
 autohypnotic
 autoimmune
+autoimmunities
 autoimmunity
 autoinfections
 autoing
@@ -8369,6 +8374,7 @@ backcloths
 backcountries
 backcountry
 backcourt
+backcourtman
 backcourtmen
 backcourts
 backcrossed
@@ -11880,6 +11886,7 @@ biosphere
 biospheres
 biospheric
 biostatistical
+biostatistician
 biostrome
 biostromes
 biosyntheses
@@ -14032,6 +14039,7 @@ bowerbirds
 bowered
 boweries
 bowers
+bowery
 bowfin
 bowfins
 bowfront
@@ -20170,6 +20178,7 @@ chicaneries
 chicaners
 chicanes
 chicaning
+chicano
 chicanos
 chicas
 chiccories
@@ -20943,6 +20952,7 @@ chrysotile
 chrysotiles
 chthonian
 chthonic
+chub
 chubasco
 chubascos
 chubbier
@@ -26145,6 +26155,7 @@ cord
 cordages
 cordate
 cordately
+corded
 cordelle
 cordelled
 cordelles
@@ -26395,6 +26406,7 @@ corposants
 corps
 corpse
 corpses
+corpsman
 corpulence
 corpulences
 corpulently
@@ -30223,6 +30235,7 @@ deadpan
 deadpanned
 deadpanner
 deadpanners
+deadpanning
 deadpans
 deadweights
 deadwoods
@@ -33693,6 +33706,7 @@ difficulty
 diffidence
 diffidences
 diffident
+diffract
 diffracted
 diffracting
 diffraction
@@ -33800,6 +33814,7 @@ digraphs
 digress
 digressed
 digressing
+digression
 digressional
 digressively
 digs
@@ -34574,6 +34589,7 @@ discountenances
 discounters
 discounting
 discounts
+discourage
 discouraged
 discouragement
 discouragements
@@ -35916,6 +35932,7 @@ doffers
 doffing
 doffs
 dog
+dogbane
 dogbanes
 dogcart
 dogcarts
@@ -37173,6 +37190,7 @@ drugmaker
 drugmakers
 drugs
 drugstore
+drugstores
 druid
 druidess
 druidic
@@ -40423,6 +40441,7 @@ enterogastrone
 enterogastrones
 enterokinase
 enterokinases
+enteron
 enterons
 enteropathy
 enterostomal
@@ -60329,6 +60348,7 @@ impregnable
 impregnableness
 impregnant
 impregnants
+impregnate
 impregnated
 impregnates
 impregnating
@@ -62485,6 +62505,7 @@ instillments
 instills
 instils
 instinct
+instinctive
 instincts
 instinctually
 institute
@@ -69536,6 +69557,7 @@ limpingly
 limpkin
 limpkins
 limps
+limpsey
 limpsier
 limpsiest
 limpsy
@@ -86195,6 +86217,7 @@ outwilling
 outwills
 outwind
 outwinded
+outwinding
 outwinds
 outwish
 outwished
@@ -88776,6 +88799,7 @@ paramedical
 parament
 paramenta
 paraments
+parameter
 parameterized
 parameterizing
 parametrically
@@ -92948,6 +92972,7 @@ piquances
 piquancies
 piquancy
 piquantly
+piquantness
 piquantnesses
 pique
 piques
@@ -94097,6 +94122,7 @@ podsols
 podzol
 podzolization
 podzolizations
+podzolize
 podzolized
 podzolizes
 podzolizing
@@ -95753,6 +95779,7 @@ preadmits
 preadmitted
 preadmitting
 preadolescence
+preadolescences
 preadolescent
 preadolescents
 preadopt
@@ -96856,6 +96883,7 @@ preships
 preshow
 preshowing
 preshown
+preshows
 preshrink
 preshrinking
 preshrinks
@@ -111714,6 +111742,7 @@ sectaries
 sectary
 sectile
 sectilities
+sectional
 sectionalism
 sectionalisms
 sectionals
@@ -116308,6 +116337,7 @@ snaffles
 snafu
 snafued
 snafuing
+snafus
 snag
 snagged
 snaggier
@@ -131236,6 +131266,7 @@ tunableness
 tunablenesses
 tunably
 tunas
+tundish
 tundishes
 tundra
 tune
@@ -133742,6 +133773,7 @@ unguents
 unguentum
 ungues
 unguessable
+unguided
 unguinous
 unguis
 ungula
@@ -134122,6 +134154,7 @@ unlays
 unlead
 unleaded
 unleading
+unleads
 unlearned
 unlearning
 unleased
@@ -134673,6 +134706,7 @@ unrobe
 unrobed
 unroll
 unrolled
+unrolling
 unrolls
 unromantic
 unromantically
@@ -137833,6 +137867,7 @@ vitreouses
 vitric
 vitrics
 vitrification
+vitrified
 vitrifies
 vitriform
 vitrify
