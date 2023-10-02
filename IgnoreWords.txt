@@ -2640,6 +2640,7 @@ align
 aligned
 aligner
 aligners
+aligning
 alignment
 alignments
 aligns
@@ -2758,6 +2759,7 @@ allaying
 allays
 allee
 allees
+alleged
 allegedly
 alleger
 allegers
@@ -7119,6 +7121,7 @@ astronomers
 astronomical
 astronomically
 astrophotograph
+astrophysical
 astrophysicist
 astrophysics
 astute
@@ -10033,6 +10036,7 @@ beclothing
 becloud
 beclouded
 beclouding
+beclouds
 beclowned
 beclowning
 beclowns
@@ -19385,6 +19389,7 @@ chained
 chaines
 chainfalls
 chaining
+chainman
 chainmen
 chains
 chainsaw
@@ -20847,6 +20852,7 @@ chorography
 choroid
 choroidal
 choroids
+chorten
 chortle
 chortled
 chortler
@@ -23185,6 +23191,7 @@ coinmates
 coins
 coinsurance
 coinsurances
+coinsure
 coinsured
 coinsurer
 coinsurers
@@ -24007,6 +24014,7 @@ communitarian
 communitarians
 communities
 community
+communization
 communizations
 communize
 communizes
@@ -26494,6 +26502,7 @@ corpses
 corpsman
 corpulence
 corpulences
+corpulency
 corpulently
 corpus
 corpuscle
@@ -29005,6 +29014,7 @@ curbsides
 curbstone
 curch
 curches
+curculios
 curcuma
 curd
 curdiest
@@ -30059,6 +30069,7 @@ darkey
 darkeys
 darkies
 darking
+darkish
 darkle
 darkles
 darklier
@@ -35195,6 +35206,7 @@ dispatch
 dispatched
 dispatcher
 dispatchers
+dispatches
 dispatching
 dispel
 dispellers
@@ -39149,6 +39161,7 @@ elvish
 elvishly
 elytra
 elytroid
+elytron
 elytrous
 elytrum
 em
@@ -47657,6 +47670,7 @@ forepaws
 forepeak
 forequarter
 forequarters
+foreran
 forerank
 foreranks
 forereach
@@ -51489,6 +51503,7 @@ glaziness
 glazinesses
 glazing
 glazings
+glazy
 gleam
 gleamed
 gleamer
@@ -57811,6 +57826,7 @@ hordes
 hording
 horehound
 horehounds
+horizon
 horizonal
 horizonless
 horizons
@@ -73543,6 +73559,7 @@ maxes
 maxi
 maxicoat
 maxilla
+maxillae
 maxillaries
 maxillary
 maxillas
@@ -74069,6 +74086,7 @@ melastome
 melatonin
 meld
 melded
+melder
 melders
 melding
 melds
@@ -86760,6 +86778,7 @@ overcolors
 overcome
 overcomer
 overcomers
+overcoming
 overcommit
 overcommitment
 overcommitments
@@ -92327,6 +92346,7 @@ photoresist
 photoresists
 photos
 photoscan
+photoscanned
 photoscanning
 photosensitive
 photosensitized
@@ -95437,6 +95457,7 @@ possibly
 possum
 post
 postabortion
+postaccident
 postadolescent
 postage
 postages
@@ -96451,6 +96472,7 @@ predicates
 predicating
 predication
 predicative
+predicatively
 predictability
 predictable
 predictably
@@ -99289,6 +99311,7 @@ pub
 puberal
 pubertal
 puberties
+puberty
 puberulent
 pubescence
 pubescences
@@ -102736,6 +102759,7 @@ recolonizing
 recolor
 recolored
 recoloring
+recolors
 recomb
 recombed
 recombinant
@@ -105482,6 +105506,7 @@ replaces
 replacing
 replan
 replanned
+replanning
 replans
 replant
 replantation
@@ -110988,6 +111013,7 @@ schistosity
 schistosomal
 schistosome
 schistosomes
+schistosomiasis
 schistous
 schizier
 schiziest
@@ -118437,6 +118463,7 @@ specking
 speckle
 speckled
 speckles
+specks
 specs
 spectacle
 spectacled
@@ -120631,6 +120658,7 @@ stichomythias
 stichomythic
 stichomythies
 stichomythy
+stichs
 stick
 stickable
 stickball
@@ -122400,6 +122428,7 @@ suboptimized
 suboptimizes
 suboptimizing
 suboptimum
+suboral
 suborbicular
 suborbital
 suborder
@@ -124138,6 +124167,7 @@ survival
 survivalist
 survivalists
 survivals
+survivance
 survived
 surviver
 survivers
@@ -125379,6 +125409,7 @@ tailgaters
 tailgates
 tailgating
 tailing
+taillamp
 taillamps
 taille
 tailles
@@ -128082,6 +128113,7 @@ thumbtacks
 thumbwheel
 thump
 thumped
+thumper
 thumpers
 thumps
 thunder
@@ -129124,6 +129156,7 @@ toothy
 tooting
 tootle
 tootled
+tootler
 tootlers
 tootling
 toots
@@ -130455,6 +130488,7 @@ trendiest
 trendiness
 trendinesses
 trendoid
+trendoids
 trends
 trendsetter
 trendsetters
@@ -140834,6 +140868,7 @@ windflower
 windflowers
 windgall
 windgalls
+windhover
 windhovers
 windigo
 windily
