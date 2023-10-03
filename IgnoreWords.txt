@@ -2458,6 +2458,7 @@ alcahests
 alcaic
 alcaics
 alcaide
+alcalde
 alcaldes
 alcayde
 alcaydes
@@ -2950,6 +2951,7 @@ allspice
 allspices
 allude
 alluded
+alludes
 alluding
 allured
 allurement
@@ -9789,6 +9791,7 @@ bawdry
 bawds
 bawdy
 bawl
+bawled
 bawler
 bawlers
 bawling
@@ -10420,6 +10423,7 @@ beglamors
 beglamoured
 beglamouring
 beglamours
+begloom
 begloomed
 beglooming
 begoggled
@@ -15049,6 +15053,7 @@ bromated
 bromates
 bromating
 brome
+bromegrass
 bromegrasses
 bromelain
 bromelains
@@ -15066,6 +15071,7 @@ brominations
 bromine
 brominism
 brominisms
+bromins
 bromisms
 bromize
 bromized
@@ -17275,6 +17281,7 @@ cannier
 canniest
 cannikin
 cannikins
+cannily
 canniness
 canninesses
 canning
@@ -19807,6 +19814,7 @@ charitable
 charitableness
 charitably
 charities
+charivari
 charivaried
 charivariing
 charivaris
@@ -21494,6 +21502,7 @@ cirrate
 cirrhosed
 cirrhoses
 cirrhosis
+cirrhotics
 cirri
 cirriform
 cirriped
@@ -26711,6 +26720,7 @@ corsets
 corslet
 corslets
 cortege
+corteges
 cortex
 cortexes
 cortical
@@ -30700,6 +30710,7 @@ decarbonizers
 decarbonizing
 decarboxylase
 decarboxylases
+decarboxylate
 decarboxylated
 decarboxylates
 decarburization
@@ -31093,6 +31104,7 @@ decurion
 decurions
 decurrent
 decurve
+decurves
 decury
 decussate
 decussated
@@ -34441,6 +34453,7 @@ directives
 directivities
 directivity
 directness
+directnesses
 director
 directorate
 directorates
@@ -36302,6 +36315,7 @@ dollars
 dolled
 dollhouse
 dollhouses
+dollied
 dollies
 dolling
 dollishly
@@ -38938,6 +38952,7 @@ elateriums
 elaters
 elates
 elating
+elation
 elations
 elative
 elatives
@@ -39263,6 +39278,7 @@ elute
 elutes
 eluting
 elution
+elutriate
 elutriated
 elutriates
 elutriating
@@ -43654,6 +43670,7 @@ extraliterary
 extralogical
 extramarital
 extramural
+extramurally
 extraneous
 extranet
 extranets
@@ -46065,6 +46082,7 @@ fisher
 fisherfolk
 fisheries
 fishermen
+fishers
 fisherwomen
 fishery
 fishes
@@ -46743,6 +46761,7 @@ flippantly
 flippest
 flipping
 flippy
+flips
 flir
 flirs
 flirt
@@ -48779,6 +48798,7 @@ frillers
 frillier
 frilliest
 frillings
+fringes
 fringier
 fringiest
 fringing
@@ -54195,6 +54215,7 @@ gybed
 gybes
 gym
 gymkhana
+gymkhanas
 gymnasia
 gymnasium
 gymnast
@@ -57138,6 +57159,7 @@ hispanidad
 hispanidads
 hispanism
 hispid
+hispidities
 hispidity
 hiss
 hissed
@@ -64188,6 +64210,7 @@ inviably
 invidious
 invidiously
 invidiousness
+invidiousnesses
 invigilate
 invigilated
 invigilates
@@ -84119,6 +84142,7 @@ oedipal
 oedipally
 oedipean
 oeillade
+oeillades
 oenology
 oenomel
 oenophile
@@ -85851,6 +85875,7 @@ outcurse
 outcursed
 outcurses
 outcursing
+outcurves
 outdance
 outdanced
 outdances
@@ -90522,6 +90547,7 @@ pectorals
 peculate
 peculates
 peculating
+peculation
 peculations
 peculator
 peculators
@@ -90917,6 +90943,7 @@ penman
 penmanship
 penmanships
 penmen
+pennae
 pennames
 pennant
 pennants
@@ -94602,6 +94629,7 @@ plutonism
 plutonisms
 plutonium
 plutoniums
+plutons
 pluvials
 pluvian
 pluviose
@@ -110837,6 +110865,7 @@ savageness
 savagenesses
 savageries
 savagery
+savages
 savagest
 savaging
 savagism
@@ -116191,6 +116220,7 @@ slack
 slacked
 slacken
 slackened
+slackener
 slackeners
 slackening
 slackens
@@ -119877,6 +119907,7 @@ sputum
 spy
 spyglasses
 spying
+spymaster
 spymasters
 squab
 squabbier
@@ -123186,6 +123217,7 @@ succedanea
 succedaneous
 succedaneums
 succedent
+succeed
 succeeders
 succeeding
 succeeds
@@ -128515,6 +128547,7 @@ thunks
 thurible
 thuribles
 thurifers
+thurl
 thurls
 thus
 thusly
@@ -138876,6 +138909,7 @@ vocation
 vocational
 vocationalism
 vocationalisms
+vocationalist
 vocationalists
 vocationally
 vocative
@@ -140078,6 +140112,7 @@ waypoints
 ways
 wayside
 waysides
+wayward
 waywardness
 waywardnesses
 wayworn
