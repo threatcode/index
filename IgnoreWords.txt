@@ -378,6 +378,7 @@ acclaiming
 acclaims
 acclamation
 acclamations
+acclimate
 acclimated
 acclimates
 acclimating
@@ -627,6 +628,7 @@ achiote
 achiotes
 achiral
 achlorhydria
+achlorhydrias
 acholias
 achondrite
 achondrites
@@ -3136,6 +3138,7 @@ altricial
 altruism
 altruisms
 altruist
+altruistic
 altruists
 alts
 aludel
@@ -5640,6 +5643,7 @@ appetizer
 appetizers
 appetizing
 appetizingly
+applaud
 applaudably
 applauded
 applauder
@@ -7850,6 +7854,7 @@ autonomists
 autonomous
 autonomously
 autonomy
+autonym
 autonyms
 autopen
 autopens
@@ -15312,6 +15317,7 @@ bubingas
 bubkes
 bubo
 buboed
+bubonic
 bubu
 buccal
 buccaneer
@@ -29929,6 +29935,7 @@ damming
 dammit
 damnableness
 damnably
+damnation
 damnations
 damndest
 damndests
@@ -30444,6 +30451,7 @@ deathlessnesses
 deathlike
 deathly
 deaths
+deathsman
 deathsmen
 deathtrap
 deathtraps
@@ -32045,6 +32053,7 @@ denazify
 denazifying
 dendrimer
 dendrimers
+dendrites
 dendritic
 dendrogram
 dendrograms
@@ -39614,6 +39623,7 @@ emplaces
 emplacing
 emplaned
 emplanes
+emplaning
 employ
 employability
 employable
@@ -45172,6 +45182,7 @@ fetidness
 fetidnesses
 fetish
 fetishes
+fetishism
 fetishisms
 fetishist
 fetishistic
@@ -51075,6 +51086,7 @@ gibbered
 gibberellins
 gibbering
 gibberishes
+gibbet
 gibbeted
 gibbeting
 gibbetted
@@ -51737,7 +51749,9 @@ gloomier
 gloomiest
 gloomily
 gloominess
+gloominesses
 glooming
+gloomings
 glooms
 gloomy
 glop
@@ -52759,6 +52773,7 @@ granny
 granodiorite
 granodiorites
 granola
+granolas
 granolith
 granolithic
 granoliths
@@ -53346,6 +53361,7 @@ groaner
 groaning
 groans
 groat
+groats
 grocer
 groceries
 grocers
@@ -62974,6 +62990,7 @@ intentness
 intentnesses
 intents
 inter
+interabang
 interabangs
 interactant
 interactants
@@ -64501,6 +64518,7 @@ isoantigenic
 isoantigens
 isobar
 isobare
+isobares
 isobaric
 isobarism
 isobars
@@ -68167,6 +68185,7 @@ lariating
 lariats
 larine
 lark
+larked
 larker
 larkers
 larkier
@@ -69218,6 +69237,7 @@ leucines
 leucite
 leucites
 leucitic
+leucocidin
 leucocidins
 leucocyte
 leucocytes
@@ -71367,6 +71387,7 @@ lumpish
 lumpishly
 lumpishness
 lumpishnesses
+lums
 lunacies
 lunacy
 lunar
@@ -92196,6 +92217,7 @@ phosphatidyl
 phosphatidyls
 phosphatization
 phosphatize
+phosphatized
 phosphatizes
 phosphatizing
 phosphaturia
@@ -96634,6 +96656,7 @@ preestablishing
 preethical
 preexcite
 preexcites
+preexciting
 preexempt
 preexempted
 preexempting
@@ -97014,6 +97037,7 @@ preparatives
 preparator
 preparatorily
 preparators
+preparatory
 prepare
 prepared
 preparedly
@@ -108731,6 +108755,7 @@ rotundness
 rotundnesses
 roturier
 roturiers
+rouble
 roubles
 rouche
 rouches
@@ -110433,6 +110458,7 @@ sastruga
 sat
 satang
 satangs
+satanic
 satanical
 satanically
 satanism
@@ -110923,6 +110949,7 @@ scarfpins
 scarfs
 scarfskin
 scarfskins
+scarier
 scarification
 scarified
 scarifier
@@ -112205,6 +112232,7 @@ sectilities
 sectional
 sectionalism
 sectionalisms
+sectionally
 sectionals
 sectioned
 sectioning
@@ -113604,6 +113632,7 @@ shakedowns
 shaken
 shakeout
 shaker
+shakes
 shakeup
 shakeups
 shakier
@@ -114951,6 +114980,7 @@ siganids
 sigh
 sighed
 sigher
+sighing
 sighless
 sighlike
 sighs
@@ -127471,6 +127501,7 @@ theatergoers
 theatergoing
 theatergoings
 theaters
+theatre
 theatres
 theatric
 theatricalism
@@ -134483,6 +134514,7 @@ unilateral
 unilaterally
 unilinear
 unilingual
+unilluminating
 unillusioned
 unilobed
 unilocular
@@ -134814,6 +134846,7 @@ unmanly
 unmanned
 unmannered
 unmannerliness
+unmanning
 unmannish
 unmans
 unmapped
@@ -139259,6 +139292,7 @@ wangle
 wangled
 wangler
 wanglers
+wangles
 wangling
 wangun
 wanguns
@@ -139811,6 +139845,7 @@ weaner
 weaning
 weanling
 weanlings
+weapon
 weaponed
 weaponeer
 weaponeers
