@@ -69,6 +69,7 @@ abscise
 abscisin
 abscising
 abscisins
+abscissa
 abscissas
 abscissions
 abscond
@@ -4432,6 +4433,7 @@ anomalousnesses
 anomaly
 anomic
 anomie
+anomies
 anomy
 anon
 anonym
@@ -4885,6 +4887,7 @@ antimechanist
 antimechanists
 antimere
 antimeres
+antimerger
 antimeric
 antimetabolic
 antimetabolite
@@ -6182,6 +6185,7 @@ argalas
 argali
 argent
 argental
+argentine
 argentines
 argentite
 argents
@@ -7191,6 +7195,7 @@ atavism
 atavisms
 atavistic
 atavistically
+atavists
 ataxias
 ataxic
 ataxies
@@ -16746,6 +16751,7 @@ calesas
 calescent
 calflike
 calfs
+caliber
 calibers
 calibrating
 calibration
@@ -17273,6 +17279,7 @@ cannoneers
 cannoning
 cannonries
 cannonry
+cannons
 cannot
 cannula
 cannulae
@@ -22312,6 +22319,7 @@ clout
 clouted
 clouter
 clouters
+clouts
 clove
 cloven
 clover
@@ -23922,6 +23930,7 @@ commercialistic
 commercialists
 commercialities
 commerciality
+commercialize
 commercialized
 commercializing
 commercially
@@ -33597,6 +33606,7 @@ diarist
 diaristic
 diarists
 diarrhea
+diarrheas
 diarrheic
 diarrhetic
 diarthroses
@@ -34650,6 +34660,7 @@ discernment
 discernments
 discharge
 dischargeable
+discharged
 dischargee
 dischargees
 discharger
@@ -36977,6 +36988,7 @@ drain
 drainable
 drainage
 drainages
+drainer
 drainers
 draining
 drainpipe
@@ -48339,6 +48351,7 @@ fragrancy
 fragrant
 frags
 frailer
+frailest
 frailly
 frailness
 frails
@@ -49237,6 +49250,7 @@ fundraising
 funds
 fundus
 funeral
+funerals
 funerary
 funereally
 funest
@@ -60184,6 +60198,7 @@ immolates
 immolating
 immolations
 immolator
+immoral
 immoralism
 immoralisms
 immoralists
@@ -60783,6 +60798,7 @@ impulsing
 impulsion
 impulsions
 impulsive
+impulsively
 impulsiveness
 impulsivenesses
 impulsivities
@@ -79314,6 +79330,7 @@ murker
 murkier
 murkiest
 murkiness
+murkinesses
 murkly
 murmur
 murmured
@@ -86610,6 +86627,7 @@ outtrades
 outtrading
 outtravel
 outtraveled
+outtraveling
 outtravelled
 outtravelling
 outtrick
@@ -88734,6 +88752,7 @@ palmister
 palmisters
 palmistries
 palmitates
+palmitin
 palmitins
 palmlike
 palms
@@ -90479,6 +90498,7 @@ peddles
 peddling
 pederastic
 pederasties
+pederasts
 pederasty
 pedes
 pedestal
@@ -98169,6 +98189,7 @@ proctologist
 proctologists
 proctology
 proctored
+proctorial
 proctors
 proctorships
 procumbent
@@ -106426,6 +106447,7 @@ resilvered
 resilvering
 resilvers
 resin
+resinate
 resinated
 resinates
 resinating
@@ -107183,6 +107205,7 @@ retrocession
 retrocessions
 retrodicted
 retrodictions
+retrodictive
 retrodicts
 retrofired
 retrofires
@@ -108430,6 +108453,7 @@ robustiousness
 robustly
 robustness
 robustnesses
+roc
 rocaille
 rocailles
 rocambole
@@ -113126,6 +113150,7 @@ sentimos
 sentinel
 sentineled
 sentineling
+sentinelled
 sentinelling
 sentinels
 sentries
@@ -121492,6 +121517,7 @@ straitnesses
 straits
 strake
 straked
+strakes
 stramashes
 stramonies
 stramony
@@ -123496,6 +123522,7 @@ summoned
 summoner
 summoners
 summoning
+summons
 summonses
 summonsing
 sumoist
@@ -126047,6 +126074,7 @@ taphonomy
 taphouse
 taphouses
 taping
+tapioca
 tapiocas
 tapir
 tapirs
@@ -126410,6 +126438,7 @@ teacupsful
 teahouse
 teahouses
 teak
+teakettle
 teakettles
 teaks
 teakwood
@@ -130298,6 +130327,7 @@ transfuses
 transfusional
 transfusions
 transgendered
+transgene
 transgress
 transgressed
 transgresses
@@ -131313,6 +131343,7 @@ triumphalisms
 triumphalists
 triumphantly
 triumphed
+triumphing
 triumphs
 triumvirates
 triumvirs
@@ -132639,6 +132670,7 @@ udons
 udos
 ufological
 ufologies
+ufologist
 ufologists
 ufology
 ugh
@@ -133579,6 +133611,7 @@ unconstricted
 unconstructed
 unconsumed
 unconsummated
+uncontainable
 uncontemplated
 uncontemporary
 uncontentious
@@ -135327,6 +135360,7 @@ unrecoverable
 unrecovered
 unrecyclable
 unredeemable
+unredeemed
 unreel
 unreeled
 unreeler
@@ -142704,6 +142738,7 @@ yoga
 yogas
 yogee
 yogees
+yogh
 yoghourts
 yoghs
 yoghurt
