@@ -2249,6 +2249,7 @@ airframes
 airfreight
 airfreighted
 airfreighting
+airfreights
 airglow
 airhead
 airheaded
@@ -5800,6 +5801,7 @@ appulses
 appurtenance
 appurtenances
 appurtenant
+appurtenants
 apraxias
 apres
 apricot
@@ -10195,6 +10197,7 @@ bedraggles
 bedraggling
 bedrail
 bedrails
+bedraped
 bedrapes
 bedrench
 bedrenches
@@ -10759,6 +10762,7 @@ bendier
 bendiest
 bending
 bends
+bendways
 bendwise
 bendy
 bendys
@@ -12325,6 +12329,7 @@ blackfins
 blackfish
 blackfishes
 blackflies
+blackfly
 blackguard
 blackguarded
 blackguarding
@@ -13894,6 +13899,7 @@ botanizing
 botas
 botch
 botched
+botchedly
 botcher
 botcheries
 botchery
@@ -14762,6 +14768,7 @@ bridal
 bridally
 bride
 bridegroom
+bridegrooms
 brides
 bridesmaid
 bridesmaids
@@ -16870,6 +16877,7 @@ calorimeters
 calorimetric
 calorimetries
 calorimetry
+calorize
 calorizes
 calory
 calos
@@ -21667,6 +21675,7 @@ clairvoyances
 clairvoyantly
 clairvoyants
 clam
+clamant
 clambakes
 clamber
 clambered
@@ -27451,6 +27460,7 @@ cowherd
 cowherds
 cowhide
 cowhided
+cowhides
 cowier
 cowiest
 cowing
@@ -28669,6 +28679,7 @@ cryptical
 cryptically
 cryptococcal
 cryptococci
+cryptococcoses
 cryptococcosis
 cryptogam
 cryptogamic
@@ -29540,6 +29551,7 @@ cyclohexane
 cyclohexanes
 cyclohexanones
 cycloheximides
+cyclohexylamine
 cycloid
 cycloidal
 cycloids
@@ -33896,6 +33908,7 @@ differences
 differentia
 differentially
 differentials
+differentiate
 differentiated
 differentiates
 differentiating
@@ -39613,6 +39626,7 @@ emolument
 emoluments
 emote
 emoted
+emotes
 emoticon
 emoting
 emotion
@@ -45146,6 +45160,7 @@ ferromanganeses
 ferrosilicon
 ferrosilicons
 ferrotype
+ferrotypes
 ferrotyping
 ferrous
 ferruginous
@@ -47625,6 +47640,7 @@ force
 forceable
 forced
 forcedly
+forceful
 forcefully
 forcefulnesses
 forceless
@@ -53903,6 +53919,7 @@ guiltinesses
 guiltless
 guiltlessly
 guiltlessnesses
+guilts
 guilty
 guimpe
 guimpes
@@ -56500,6 +56517,7 @@ heriot
 heriots
 heritabilities
 heritability
+heritable
 heritages
 heritor
 heritors
@@ -59438,6 +59456,7 @@ hypostomes
 hypostyle
 hypotactic
 hypotaxes
+hypotension
 hypotensions
 hypotensive
 hypotenuse
@@ -66666,12 +66685,14 @@ khalifates
 khalifs
 khamseens
 khamsin
+khamsins
 khan
 khanate
 khanates
 khans
 khaph
 khaphs
+khat
 khats
 khazen
 khazenim
@@ -67028,6 +67049,7 @@ kirs
 kirsch
 kirsches
 kirtle
+kirtles
 kis
 kishka
 kishkas
@@ -81463,6 +81485,7 @@ nitty
 nitwit
 nitwits
 niveous
+nix
 nixe
 nixes
 nixie
@@ -84194,6 +84217,7 @@ ogees
 ogham
 oghamic
 oghamist
+oghamists
 oghams
 ogival
 ogive
@@ -88260,6 +88284,7 @@ oxytones
 oxyuriases
 oxyuriasis
 oyer
+oyers
 oyes
 oyez
 oyezes
@@ -91630,6 +91655,7 @@ personality
 personalize
 personalized
 personalizes
+personalizing
 personally
 personals
 personalties
@@ -100685,6 +100711,7 @@ quarries
 quarrying
 quarryings
 quarryman
+quarrymen
 quart
 quartan
 quartans
@@ -105511,6 +105538,7 @@ renown
 renowned
 renowning
 renowns
+rent
 rentabilities
 rentability
 rentable
@@ -112161,6 +112189,7 @@ seaboot
 seaboots
 seaborgium
 seaborgiums
+seaborne
 seacoast
 seacock
 seacocks
@@ -119358,6 +119387,7 @@ splintering
 splintery
 splints
 split
+splitter
 splitters
 splitting
 splodge
@@ -123530,6 +123560,7 @@ summerly
 summersault
 summersaulted
 summersaulting
+summersaults
 summerset
 summersets
 summersetted
@@ -127305,6 +127336,7 @@ ternate
 ternately
 terne
 terneplates
+ternes
 ternion
 ternions
 terns
@@ -132749,6 +132781,7 @@ ulcering
 ulcerogenic
 ulcerous
 ulcers
+ulema
 ulemas
 ulexite
 ulexites
@@ -139762,6 +139795,7 @@ wastelots
 wastepaper
 wastepapers
 waster
+wasteries
 wasters
 wastes
 wastewater
@@ -141680,6 +141714,7 @@ womanishly
 womanishness
 womanishnesses
 womanising
+womanism
 womanisms
 womanist
 womanize
