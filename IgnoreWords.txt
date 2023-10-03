@@ -2777,6 +2777,7 @@ allegorists
 allegorization
 allegorizations
 allegorize
+allegorized
 allegorizers
 allegorizes
 allegory
@@ -8682,6 +8683,7 @@ baguets
 baguette
 baguettes
 bagwig
+bagwigs
 bagworms
 bah
 bahadur
@@ -13003,6 +13005,7 @@ blunted
 blunter
 bluntest
 blunting
+bluntly
 bluntness
 bluntnesses
 blunts
@@ -14113,6 +14116,7 @@ bowlike
 bowline
 bowlines
 bowling
+bowllike
 bowman
 bowpot
 bows
@@ -24662,6 +24666,7 @@ condescensions
 condign
 condignly
 condiment
+condimental
 condiments
 conditionable
 conditional
@@ -28150,6 +28155,7 @@ criticises
 criticising
 criticism
 criticisms
+criticizable
 criticize
 criticized
 criticizers
@@ -30274,6 +30280,7 @@ dazed
 dazedness
 dazednesses
 dazes
+dazing
 dazzle
 dazzler
 dazzling
@@ -32808,6 +32815,7 @@ despumated
 desquamated
 desquamates
 desquamation
+desquamations
 dessert
 desserts
 dessertspoon
@@ -33222,6 +33230,7 @@ devours
 devout
 devouter
 devoutest
+devoutly
 devoutness
 devoutnesses
 devs
@@ -37078,6 +37087,7 @@ dressage
 dressages
 dressed
 dresses
+dressiest
 dressiness
 dressing
 dressmaker
@@ -39473,6 +39483,7 @@ emic
 emigrant
 emigrants
 emigrate
+emigrated
 emigrating
 emigration
 emigrations
@@ -57381,6 +57392,7 @@ homeliest
 homelike
 homeliness
 homelinesses
+homely
 homemade
 homemaker
 homemakers
@@ -57747,6 +57759,7 @@ hooly
 hoop
 hooped
 hoopers
+hooping
 hoopla
 hooplas
 hoopless
@@ -60385,6 +60398,7 @@ impingements
 impinger
 impingers
 impinges
+impinging
 impings
 impiously
 impis
@@ -66312,6 +66326,7 @@ kelpie
 kelpies
 kelping
 kelps
+kelpy
 kelsons
 kelt
 kelter
@@ -72979,6 +72994,7 @@ market
 marketabilities
 marketability
 marketable
+marketed
 marketeer
 marketeers
 marketer
@@ -76585,6 +76601,7 @@ mislaid
 mislain
 mislay
 mislayer
+mislayers
 mislaying
 mislays
 mislead
@@ -85769,6 +85786,7 @@ outfound
 outfoxed
 outfoxes
 outfrown
+outfrowned
 outfrowning
 outfrowns
 outfumbles
@@ -86770,6 +86788,7 @@ overclouds
 overcoach
 overcoached
 overcoaches
+overcoaching
 overcoat
 overcold
 overcolored
@@ -88347,6 +88366,7 @@ paintworks
 pair
 paired
 pairings
+pairs
 paisa
 paisan
 paisana
@@ -91748,6 +91768,7 @@ phagocytosed
 phagocytoses
 phagocytosing
 phagocytosis
+phagocytotic
 phagosomes
 phalange
 phalangeal
@@ -96597,6 +96618,7 @@ preface
 prefaced
 prefacers
 prefaces
+prefacing
 prefade
 prefaded
 prefades
@@ -101576,6 +101598,7 @@ rapidly
 rapidness
 rapids
 rapier
+rapine
 rapini
 rapist
 rapists
@@ -102404,6 +102427,7 @@ rebounders
 rebounding
 rebounds
 rebozos
+rebranch
 rebranching
 rebred
 rebreed
@@ -105323,6 +105347,7 @@ reoperate
 reoperated
 reoperates
 reoperating
+reoperations
 reopposed
 reopposes
 reopposing
@@ -106805,6 +106830,7 @@ retighten
 retightens
 retile
 retiled
+retiles
 retiling
 retime
 retimed
@@ -109133,6 +109159,7 @@ rums
 run
 runabout
 runabouts
+runagate
 runagates
 runaround
 runarounds
@@ -109967,6 +109994,7 @@ sanctum
 sanctums
 sand
 sandable
+sandal
 sandaling
 sandalled
 sandals
@@ -113460,6 +113488,7 @@ shades
 shadiest
 shadiness
 shadinesses
+shading
 shadings
 shadkhans
 shadoof
@@ -128291,6 +128320,7 @@ tidiest
 tidily
 tidiness
 tiding
+tidings
 tidy
 tidying
 tidytips
@@ -129274,6 +129304,7 @@ torahs
 toras
 torc
 torch
+torchable
 torchbearer
 torchbearers
 torched
@@ -130904,6 +130935,7 @@ trinocular
 trinodal
 trinomials
 trinucleotide
+trinucleotides
 trio
 triode
 triodes
@@ -132761,6 +132793,7 @@ unaltered
 unamassed
 unambiguous
 unambitious
+unambivalent
 unambivalently
 unamended
 unamortized
@@ -141102,6 +141135,7 @@ wisecracker
 wiseguy
 wiseguys
 wiselier
+wiseliest
 wisely
 wisenesses
 wisenheimer
@@ -142128,6 +142162,7 @@ yakuza
 yald
 yam
 yamalka
+yamalkas
 yamen
 yamens
 yammer
