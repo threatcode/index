@@ -1323,6 +1323,7 @@ adsorption
 adularia
 adularias
 adulate
+adulated
 adulates
 adulating
 adulation
@@ -2527,12 +2528,14 @@ alerts
 ales
 aleuron
 aleurone
+aleurones
 aleuronic
 aleurons
 alevin
 alevins
 alewife
 alewives
+alexanders
 alexandrine
 alexandrines
 alexandrite
@@ -3880,6 +3883,7 @@ anaphases
 anaphasic
 anaphor
 anaphora
+anaphoras
 anaphorically
 anaphors
 anaphrodisiac
@@ -7731,6 +7735,7 @@ autochthon
 autochthones
 autochthonous
 autochthonously
+autoclave
 autoclaved
 autoclaves
 autoclaving
@@ -19658,6 +19663,7 @@ chapes
 chapfallen
 chapiter
 chapiters
+chaplain
 chaplaincies
 chaplaincy
 chaplains
@@ -20403,6 +20409,7 @@ chimerism
 chimerisms
 chimers
 chimichanga
+chimichangas
 chiming
 chimlas
 chimley
@@ -28298,6 +28305,7 @@ crosses
 crossest
 crosshair
 crosshatch
+crosshatched
 crosshatching
 crosshead
 crossheads
@@ -30427,6 +30435,7 @@ deathlessly
 deathlessness
 deathlessnesses
 deathlike
+deathly
 deaths
 deathsmen
 deathtrap
@@ -36438,6 +36447,7 @@ dopesheets
 dopester
 dopey
 dopeyness
+dopeynesses
 dopier
 dopiest
 dopily
@@ -44356,6 +44366,7 @@ fasces
 fascia
 fascial
 fascias
+fasciate
 fasciation
 fasciations
 fascicle
@@ -44831,6 +44842,7 @@ fellies
 felling
 fellmonger
 fellmongered
+fellmongeries
 fellmongering
 fellmongerings
 fellmongers
@@ -56936,6 +56948,7 @@ hippish
 hippo
 hippocampal
 hippocampi
+hippocampus
 hippocras
 hippocrases
 hippodrome
@@ -67823,6 +67836,7 @@ lamias
 lamina
 laminable
 laminal
+laminals
 laminar
 laminaria
 laminarian
@@ -69197,6 +69211,7 @@ leucoplasts
 leudes
 leuds
 leukaemias
+leukaemogenesis
 leukemia
 leukemias
 leukemic
@@ -71233,6 +71248,7 @@ luculently
 lude
 ludes
 ludicrous
+ludicrously
 ludicrousness
 ludicrousnesses
 lues
@@ -86414,6 +86430,7 @@ outswept
 outswim
 outswims
 outswinging
+outswings
 outswore
 outsworn
 outswum
@@ -87796,6 +87813,7 @@ overtreats
 overtrimmed
 overtrimming
 overtrims
+overtrump
 overtrumped
 overtrumping
 overtrumps
@@ -88734,6 +88752,7 @@ panegyrics
 panegyrist
 panegyrists
 panel
+paneless
 paneling
 panelings
 panelist
@@ -90038,6 +90057,7 @@ pavings
 pavins
 pavior
 paviors
+pavis
 pavise
 paviser
 pavisers
@@ -93008,6 +93028,7 @@ pilots
 pilous
 pilsener
 pilseners
+pilsner
 pilsners
 pilular
 pilules
@@ -102528,6 +102549,7 @@ recarrying
 recasting
 recataloged
 recataloging
+recatalogs
 recaution
 recautioned
 recautioning
@@ -104994,6 +105016,7 @@ remediless
 remedy
 remedying
 remeeting
+remeets
 remelt
 remelted
 remelts
@@ -105462,6 +105485,7 @@ repeater
 repeaters
 repeating
 repeats
+repechage
 repeg
 repegged
 repegging
@@ -110987,6 +111011,7 @@ sceptring
 schadenfreudes
 schappes
 schatchen
+schatchens
 schav
 schavs
 schedular
@@ -119142,6 +119167,7 @@ spoilable
 spoilage
 spoilages
 spoiler
+spoilers
 spoils
 spoilsman
 spoilsmen
@@ -124190,6 +124216,7 @@ surveying
 surveyings
 surveyor
 surveys
+survivabilities
 survivability
 survivable
 survival
@@ -124278,6 +124305,7 @@ sutlers
 sutra
 sutta
 suttas
+suttee
 suttees
 suturally
 suture
@@ -127797,6 +127825,7 @@ thiopental
 thiopentals
 thiophen
 thiophene
+thiophenes
 thiophens
 thioridazine
 thioridazines
@@ -128319,6 +128348,7 @@ tidiers
 tidiest
 tidily
 tidiness
+tidinesses
 tiding
 tidings
 tidy
@@ -129521,6 +129551,7 @@ touched
 touchers
 touches
 touchhole
+touchholes
 touchier
 touchiest
 touchily
@@ -135335,6 +135366,7 @@ unsettled
 unsettlednesses
 unsettlements
 unsettles
+unsettling
 unsettlingly
 unsew
 unsewed
@@ -136306,6 +136338,7 @@ urds
 urea
 ureal
 ureas
+urease
 uredia
 uredial
 uredinia
@@ -139013,6 +139046,7 @@ wailingly
 wails
 wailsome
 wain
+wains
 wainscot
 wainscoting
 wainscotings
@@ -141798,6 +141832,7 @@ wrangled
 wrangler
 wrangles
 wrangling
+wrangs
 wrap
 wraparound
 wraparounds
