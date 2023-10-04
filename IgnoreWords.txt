@@ -1162,6 +1162,7 @@ adjudges
 adjudging
 adjudicate
 adjudicated
+adjudicates
 adjudicating
 adjudication
 adjudications
@@ -2976,6 +2977,7 @@ alloxans
 alloy
 alloyed
 alloying
+alloys
 alls
 allseed
 allseeds
@@ -3914,6 +3916,7 @@ analyzation
 analyzations
 analyze
 analyzer
+analyzers
 analyzes
 analyzing
 anamneses
@@ -11714,6 +11717,7 @@ bilevel
 bilevels
 bilge
 bilged
+bilges
 bilgier
 bilgiest
 bilging
@@ -18875,6 +18879,7 @@ catling
 catlings
 catlins
 catnap
+catnapers
 catnapper
 catnapping
 catnip
@@ -21667,6 +21672,7 @@ circumspection
 circumspections
 circumspectly
 circumstance
+circumstances
 circumstantiate
 circumvallate
 circumvallated
@@ -24092,6 +24098,7 @@ comity
 comix
 comma
 command
+commandable
 commandants
 commandeer
 commandeered
@@ -26876,6 +26883,7 @@ correspondence
 correspondences
 correspondency
 correspondent
+correspondents
 corresponding
 corresponds
 corresponsive
@@ -28805,6 +28813,7 @@ crullers
 crumbers
 crumbier
 crumbing
+crumbled
 crumbles
 crumblier
 crumbliest
@@ -29441,6 +29450,7 @@ curmudgeonly
 curn
 curns
 curr
+currach
 curragh
 currajong
 currajongs
@@ -37402,6 +37412,7 @@ draught
 draughted
 draughtier
 draughtiest
+draughting
 draughts
 draughtsman
 draughtsmen
@@ -37533,6 +37544,7 @@ dressmaking
 dressmakings
 dressy
 drest
+drew
 drib
 dribbed
 dribbing
@@ -40397,6 +40409,7 @@ ended
 endemial
 endemic
 endemical
+endemically
 endemicities
 endemics
 endemism
@@ -43895,6 +43908,7 @@ extending
 extends
 extensibilities
 extensible
+extensile
 extension
 extensional
 extensionality
@@ -49017,6 +49031,7 @@ freeways
 freewheel
 freewheeled
 freewheelers
+freewheels
 freewill
 freewrite
 freewrites
@@ -49510,6 +49525,7 @@ fuchsia
 fuchsias
 fuchsin
 fuchsine
+fuchsines
 fuci
 fuckers
 fuckoffs
@@ -53893,6 +53909,7 @@ grisons
 grist
 grister
 gristers
+gristles
 gristlier
 gristliest
 gristliness
@@ -54295,6 +54312,7 @@ guardrooms
 guards
 guardsman
 guars
+guayabera
 guayaberas
 guayule
 guayules
@@ -54782,6 +54800,7 @@ gyrostabilizers
 gyrostat
 gyrostats
 gyrus
+gyttjas
 gyve
 gyved
 gyves
@@ -55922,6 +55941,7 @@ hatchways
 hated
 hateful
 hatefulness
+hatefulnesses
 hater
 haters
 hates
@@ -57908,6 +57928,7 @@ holdings
 holdout
 holdouts
 holdovers
+holds
 holdup
 holdups
 hole
@@ -60046,6 +60067,7 @@ hysterias
 hysteric
 hysterically
 hysterics
+hysteroid
 hysterotomies
 hyte
 iamb
@@ -63321,6 +63343,7 @@ insolating
 insolation
 insolations
 insolences
+insolent
 insolently
 insolents
 insoles
@@ -76300,6 +76323,7 @@ midspace
 midspaces
 midstories
 midstory
+midstream
 midstreams
 midsts
 midsummer
@@ -84992,6 +85016,7 @@ oilcan
 oilcans
 oilcloth
 oilcloths
+oilcup
 oilcups
 oiled
 oilers
@@ -86168,6 +86193,7 @@ osmundas
 osmundine
 osmundines
 osmunds
+osprey
 ospreys
 ossa
 ossature
@@ -87965,6 +87991,7 @@ overexaggerates
 overexcite
 overexcited
 overexcites
+overexciting
 overexercised
 overexercising
 overexert
@@ -88810,6 +88837,7 @@ overwarms
 overwary
 overwatch
 overwatched
+overwatches
 overwater
 overwatered
 overwatering
@@ -94719,6 +94747,7 @@ planetesimal
 planetesimals
 planetlike
 planetoid
+planetoidal
 planetoids
 planetological
 planetologist
@@ -119423,6 +119452,7 @@ southpaws
 southron
 souths
 southward
+southwards
 southwesterly
 southwestern
 southwesters
@@ -119690,6 +119720,7 @@ spats
 spatted
 spatter
 spatterdock
+spatterdocks
 spattering
 spatting
 spatular
@@ -126209,6 +126240,7 @@ symbolling
 symbologies
 symbology
 symbols
+symmetallisms
 symmetrical
 symmetrically
 symmetricalness
@@ -128604,6 +128636,7 @@ tetanizations
 tetanize
 tetanizing
 tetanoid
+tetanuses
 tetched
 tetchier
 tetchiest
@@ -136135,6 +136168,7 @@ unleading
 unleads
 unlearned
 unlearning
+unlearnt
 unleased
 unleashed
 unleashes
@@ -136281,6 +136315,7 @@ unmistakably
 unmitered
 unmitering
 unmiters
+unmitigated
 unmitigatedness
 unmitre
 unmitred
