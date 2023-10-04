@@ -536,6 +536,7 @@ aceldamas
 acentric
 acephalic
 acephalous
+acequia
 acequias
 acerate
 acerated
@@ -3951,6 +3952,7 @@ anatomical
 anatomically
 anatomised
 anatomises
+anatomising
 anatomists
 anatomized
 anatomizes
@@ -9792,6 +9794,7 @@ baubles
 baud
 baudekin
 baudekins
+baudrons
 baudronses
 bauds
 bauhinia
@@ -21257,6 +21260,7 @@ churchgoing
 churchgoings
 churchianities
 churchianity
+churchiest
 churching
 churchings
 churchless
@@ -24352,6 +24356,7 @@ complement
 complemental
 complementarily
 complementarity
+complementary
 complemented
 complementing
 complementizer
@@ -25631,6 +25636,7 @@ consumptives
 contact
 contacted
 contactee
+contactees
 contacting
 contactor
 contacts
@@ -26977,6 +26983,7 @@ costivenesses
 costlessly
 costliest
 costlinesses
+costmaries
 costmary
 costrels
 costs
@@ -28542,6 +28549,7 @@ croupy
 crouse
 crousely
 croustades
+croute
 croutes
 croutons
 crow
@@ -38933,6 +38941,7 @@ egregiously
 egregiousness
 egress
 egressed
+egressing
 egression
 egressions
 egret
@@ -40327,6 +40336,7 @@ endothermy
 endotoxic
 endotoxin
 endotoxins
+endotracheal
 endotrophic
 endowed
 endower
@@ -43806,6 +43816,7 @@ extramarital
 extramural
 extramurally
 extraneous
+extraneously
 extranet
 extranets
 extranuclear
@@ -47552,6 +47563,7 @@ folklores
 folkloric
 folklorist
 folkloristic
+folkmoots
 folkmote
 folkmotes
 folkmots
@@ -50612,6 +50624,7 @@ gaur
 gaurs
 gauss
 gausses
+gauze
 gauzelike
 gauzier
 gauziest
@@ -62989,6 +63002,7 @@ insofar
 insolate
 insolates
 insolating
+insolation
 insolations
 insolences
 insolently
@@ -74006,6 +74020,7 @@ maverick
 mavericks
 mavie
 mavies
+mavin
 mavins
 mavis
 mavises
@@ -82196,6 +82211,7 @@ nonconcurring
 nonconcurs
 noncondensable
 nonconditioned
+nonconducting
 nonconduction
 nonconductive
 nonconductor
@@ -88344,6 +88360,7 @@ overurged
 overurges
 overurging
 overuse
+overused
 overuses
 overusing
 overutilization
@@ -88383,6 +88400,7 @@ overweeningly
 overweigh
 overweighed
 overweighs
+overweight
 overweighted
 overweighting
 overweights
@@ -90143,6 +90161,7 @@ paschals
 pase
 paseo
 paseos
+pases
 pash
 pasha
 pashadom
@@ -94277,6 +94296,7 @@ planisher
 planishers
 planishing
 planisphere
+planispheres
 planispheric
 plank
 planked
@@ -97449,6 +97469,7 @@ premeditation
 premeditations
 premeditative
 premeditator
+premeditators
 premeds
 premeet
 premeiotic
@@ -99215,6 +99236,7 @@ prosaical
 prosaism
 prosaisms
 prosaist
+prosaists
 prosateur
 prosateurs
 prosauropod
@@ -99888,6 +99910,7 @@ psychotropic
 psychotropics
 psychrometer
 psychrometers
+psychrometric
 psychrometries
 psychrometry
 psychs
@@ -100041,6 +100064,7 @@ pugaree
 pugarees
 puggaree
 puggarees
+puggier
 pugginess
 pugginesses
 puggish
@@ -103601,6 +103625,7 @@ recordation
 recordations
 recorded
 recorder
+recorders
 recordings
 recordist
 recordists
@@ -104895,6 +104920,7 @@ regroups
 regrown
 regrows
 regrowths
+regs
 regulable
 regular
 regularities
@@ -105843,6 +105869,7 @@ rending
 rendition
 renditions
 rends
+rendzina
 rendzinas
 renegade
 renegaded
@@ -118205,6 +118232,7 @@ solecisms
 solecist
 solecistic
 solecists
+solecize
 solecized
 solecizes
 solecizing
@@ -119845,6 +119873,7 @@ splurging
 splurgy
 splutter
 spluttered
+splutterer
 splutterers
 spluttering
 splutters
@@ -120984,6 +121013,7 @@ statolith
 statoliths
 stator
 stators
+statoscope
 statoscopes
 stats
 statuaries
@@ -123021,6 +123051,7 @@ subjacency
 subjacent
 subjacently
 subject
+subjected
 subjecting
 subjection
 subjections
@@ -128343,6 +128374,7 @@ thermalizations
 thermalize
 thermalized
 thermalizes
+thermally
 thermals
 therme
 thermel
@@ -130838,6 +130870,7 @@ transferring
 transferrins
 transfers
 transfiguration
+transfigure
 transfigures
 transfiguring
 transfinite
@@ -140612,6 +140645,7 @@ wear
 wearabilities
 wearability
 wearable
+wearables
 wearer
 wearers
 wearies
@@ -143234,6 +143268,7 @@ yeomanly
 yeomanries
 yeomanry
 yeomen
+yep
 yeps
 yerba
 yerbas
