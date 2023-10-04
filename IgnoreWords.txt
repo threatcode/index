@@ -746,6 +746,7 @@ acquiescence
 acquiescences
 acquiescent
 acquiescently
+acquiesces
 acquiescing
 acquirable
 acquire
@@ -1386,6 +1387,7 @@ advanced
 advancement
 advancements
 advances
+advancing
 advantage
 advantaged
 advantageous
@@ -7999,6 +8001,7 @@ autunite
 autunites
 auxeses
 auxesis
+auxetics
 auxiliaries
 auxiliary
 auxin
@@ -10181,6 +10184,7 @@ becudgelling
 becursing
 becurst
 bedabble
+bedabbled
 bedabbles
 bedamned
 bedamning
@@ -12208,6 +12212,7 @@ birles
 birlings
 biro
 biros
+birr
 birred
 birretta
 birrettas
@@ -16913,6 +16918,7 @@ calibrating
 calibration
 calibrations
 calibrator
+calibrators
 calibre
 calibred
 calibres
@@ -19845,6 +19851,7 @@ chanters
 chanteuse
 chantey
 chanticleer
+chanticleers
 chanties
 chanting
 chantor
@@ -22366,6 +22373,7 @@ cloaked
 cloaking
 cloakroom
 cloakrooms
+cloaks
 clobbered
 clobbering
 clochards
@@ -29224,6 +29232,7 @@ cumquat
 cumquats
 cumshaw
 cumulate
+cumulated
 cumulates
 cumulating
 cumulation
@@ -31533,6 +31542,7 @@ defenses
 defensibilities
 defensibility
 defensible
+defensibly
 defensive
 defensiveness
 defensives
@@ -39117,6 +39127,7 @@ egregiously
 egregiousness
 egress
 egressed
+egresses
 egressing
 egression
 egressions
@@ -39784,6 +39795,7 @@ embowering
 embowing
 embows
 embrace
+embracement
 embraceor
 embraceors
 embraceries
@@ -41072,6 +41084,7 @@ enthused
 enthuses
 enthusiasm
 enthusiasms
+enthusiastic
 enthusing
 enthymemes
 enticed
@@ -47215,6 +47228,7 @@ floodwater
 floodwaters
 floodway
 flooey
+flooie
 floor
 floorage
 floorages
@@ -48605,6 +48619,7 @@ foully
 foulmouthed
 foulness
 foundation
+foundational
 foundationally
 foundationless
 foundations
@@ -51785,6 +51800,7 @@ gingkoes
 gink
 ginkgo
 ginkgoes
+ginkgos
 ginks
 ginned
 ginner
@@ -54410,6 +54426,7 @@ gulleys
 gullibilities
 gullibility
 gullied
+gullies
 gulling
 gulls
 gullwing
@@ -57758,6 +57775,7 @@ hobs
 hock
 hocked
 hocker
+hockers
 hockey
 hockeys
 hocks
@@ -65590,6 +65608,7 @@ jaggheries
 jagghery
 jaggies
 jaggiest
+jaggs
 jaggy
 jaguar
 jaguarondi
@@ -67698,6 +67717,7 @@ kliks
 klister
 klisters
 klondike
+klondikes
 klongs
 kloof
 kloofs
@@ -72998,6 +73018,7 @@ maladministers
 maladroit
 maladroitly
 maladroitness
+maladroitnesses
 maladroits
 malady
 malaguena
@@ -76217,6 +76238,7 @@ midland
 midlands
 midlatitude
 midlatitudes
+midleg
 midlegs
 midlife
 midline
@@ -76354,6 +76376,7 @@ milder
 mildest
 mildewed
 mildews
+mildewy
 milding
 mildness
 mildnesses
@@ -80009,6 +80032,7 @@ muricated
 murid
 murine
 murines
+muring
 murk
 murker
 murkier
@@ -93868,6 +93892,7 @@ pigmentations
 pigmented
 pigments
 pigmies
+pigmy
 pignoli
 pignolias
 pignolis
@@ -96947,6 +96972,7 @@ powters
 powwow
 powwowed
 powwows
+pox
 poxed
 poxes
 poxing
@@ -102823,6 +102849,7 @@ ration
 rational
 rationale
 rationales
+rationalised
 rationalism
 rationalist
 rationalistic
@@ -109331,6 +109358,7 @@ roam
 roamed
 roamer
 roamers
+roaming
 roan
 roans
 roar
@@ -111582,6 +111610,7 @@ satirically
 satirise
 satirised
 satirising
+satirist
 satirists
 satirize
 satirizers
@@ -115473,6 +115502,7 @@ shockingly
 shockproof
 shocks
 shod
+shodden
 shoddier
 shoddies
 shoddiest
@@ -116069,6 +116099,7 @@ sidle
 sidled
 sidler
 sidlers
+sidlingly
 siege
 sieged
 sieges
@@ -117054,6 +117085,7 @@ skylarker
 skylarkers
 skylarking
 skylarks
+skylight
 skylights
 skylike
 skyline
@@ -138407,6 +138439,7 @@ variolites
 varioloid
 varioloids
 variolous
+variorum
 variorums
 various
 variously
@@ -139362,6 +139395,7 @@ videographer
 videographers
 videographies
 videography
+videoland
 videolands
 videophile
 videophiles
@@ -140867,6 +140901,7 @@ washboards
 washbowl
 washbowls
 washcloth
+washcloths
 washdays
 washed
 washer
