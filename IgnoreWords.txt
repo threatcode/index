@@ -2103,6 +2103,7 @@ agons
 agora
 agorae
 agoraphobe
+agoraphobes
 agoraphobia
 agoraphobias
 agoraphobics
@@ -5729,6 +5730,7 @@ applications
 applicatively
 applicator
 applicatory
+applied
 applier
 appliers
 applies
@@ -7761,6 +7763,7 @@ autarkist
 autarkists
 autecious
 autecism
+autecological
 autecology
 auteur
 auteurisms
@@ -9821,6 +9824,7 @@ battiness
 battinesses
 batting
 battings
+battle
 battled
 battlefield
 battlefields
@@ -13601,6 +13605,7 @@ bondmen
 bonds
 bondsman
 bondsmen
+bondstone
 bondstones
 bonduc
 bonducs
@@ -16416,6 +16421,7 @@ buyers
 buying
 buyoff
 buyout
+buyouts
 buys
 buzuki
 buzukia
@@ -20902,6 +20908,7 @@ chlorohydrin
 chlorophyll
 chlorophyllous
 chlorophylls
+chloropicrin
 chloropicrins
 chloroplast
 chloroplastic
@@ -25224,6 +25231,7 @@ confrontal
 confrontation
 confrontational
 confrontations
+confronted
 confronters
 confronting
 confronts
@@ -34348,6 +34356,7 @@ dignifying
 dignitaries
 dignitary
 dignities
+digraph
 digraphic
 digraphically
 digraphs
@@ -44940,6 +44949,7 @@ fastened
 fastener
 fasteners
 fastening
+fastenings
 faster
 fastest
 fastidious
@@ -50239,6 +50249,7 @@ gallants
 gallates
 gallbladder
 gallbladders
+galleass
 galleasses
 gallein
 galleins
@@ -51351,6 +51362,7 @@ geologist
 geologize
 geologized
 geologizing
+geology
 geomagnetically
 geomagnetism
 geomagnetisms
@@ -53502,6 +53514,7 @@ gratuity
 gratulate
 gratulated
 gratulates
+gratulating
 gratulations
 gratulatory
 graupel
@@ -58759,6 +58772,7 @@ hotdoggers
 hotdogging
 hotdogs
 hotel
+hoteldom
 hoteldoms
 hotelier
 hoteliers
@@ -66797,6 +66811,7 @@ kaiserisms
 kaisers
 kajeput
 kajeputs
+kaka
 kakapo
 kakapos
 kakemonos
@@ -72117,6 +72132,7 @@ lumberly
 lumberman
 lumbermen
 lumberyard
+lumberyards
 lumbosacral
 lumbricals
 lumen
@@ -78776,6 +78792,7 @@ monotonously
 monotonousness
 monotremes
 monotype
+monotypes
 monotypic
 monounsaturate
 monounsaturated
@@ -83431,6 +83448,7 @@ nonsteroids
 nonstick
 nonsticky
 nonstop
+nonstops
 nonstories
 nonstory
 nonstructural
@@ -88666,6 +88684,7 @@ oversteered
 oversteering
 overstep
 overstepping
+oversteps
 overstimulate
 overstimulated
 overstimulates
@@ -89291,6 +89310,7 @@ pagandoms
 paganised
 paganises
 paganising
+paganisms
 paganist
 paganists
 paganize
@@ -90365,6 +90385,7 @@ parings
 paris
 parises
 parish
+parishioner
 parishioners
 parities
 park
@@ -96718,6 +96739,7 @@ postmidnight
 postmillenarian
 postmillennial
 postmistress
+postmistresses
 postmodern
 postmodernism
 postmodernisms
@@ -97604,6 +97626,7 @@ predigests
 predilections
 predinner
 predischarge
+prediscoveries
 prediscovery
 predisposed
 predisposes
@@ -101584,6 +101607,7 @@ quantizers
 quantizes
 quantizing
 quantong
+quantongs
 quantum
 quarantine
 quarantined
@@ -101703,6 +101727,7 @@ queans
 queasiest
 queasiness
 queasinesses
+queasy
 queazier
 queazy
 quebracho
@@ -113600,6 +113625,7 @@ seersucker
 seersuckers
 seesawed
 seesawing
+seesaws
 seethe
 seethed
 seething
@@ -118357,6 +118383,7 @@ snoring
 snorkeler
 snorkelers
 snorkeling
+snorkels
 snort
 snorted
 snorters
@@ -119037,6 +119064,7 @@ somewise
 somital
 somite
 somites
+somitic
 sommelier
 sommeliers
 somnambulate
@@ -121873,6 +121901,7 @@ stepbrother
 stepbrothers
 stepdame
 stepdames
+stepdaughter
 stepdaughters
 stepfamilies
 stepfamily
@@ -123275,6 +123304,7 @@ styli
 styliform
 stylings
 stylise
+stylised
 styliser
 stylises
 stylish
@@ -125038,6 +125068,7 @@ superiors
 superjacent
 superjet
 superjets
+superjocks
 superjumbo
 superjumbos
 superlarge
@@ -131611,6 +131642,7 @@ transmigrated
 transmigrates
 transmigrating
 transmigration
+transmigrations
 transmigrator
 transmigrators
 transmigratory
@@ -132725,6 +132757,7 @@ tropologically
 tropologies
 tropology
 tropomyosin
+tropomyosins
 troponin
 troponins
 tropopause
@@ -140861,6 +140894,7 @@ warlock
 warlocks
 warlordism
 warlordisms
+warlords
 warm
 warmaker
 warmed
@@ -141750,6 +141784,7 @@ wharf
 wharfage
 wharfages
 wharfed
+wharfing
 wharfinger
 wharfmaster
 wharfmasters
