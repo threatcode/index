@@ -233,6 +233,7 @@ abysm
 abysmally
 abysms
 abyss
+abyssal
 abysses
 acacia
 academe
@@ -11625,6 +11626,7 @@ biked
 biker
 bikers
 bikes
+bikeway
 bikeways
 bikies
 biking
@@ -12532,6 +12534,7 @@ blastemal
 blastemas
 blastemata
 blastematic
+blastemic
 blaster
 blasties
 blastiest
@@ -13140,6 +13143,7 @@ bo
 board
 boarded
 boarder
+boarders
 boardinghouse
 boardinghouses
 boardlike
@@ -14267,6 +14271,7 @@ boy
 boyar
 boyard
 boyards
+boyarism
 boyarisms
 boyars
 boychicks
@@ -24470,6 +24475,7 @@ composters
 composting
 composure
 composures
+compote
 compound
 compoundable
 compounded
@@ -29092,6 +29098,7 @@ cumbrous
 cumbrousness
 cumbrousnesses
 cumin
+cumins
 cummer
 cummerbund
 cummerbunds
@@ -30317,6 +30324,7 @@ darnel
 darnels
 darner
 darners
+darning
 darnings
 darns
 darshans
@@ -34758,6 +34766,7 @@ disavowed
 disavower
 disavowers
 disavowing
+disavows
 disbanded
 disbanding
 disbandments
@@ -43287,6 +43296,7 @@ exorciser
 exorcisers
 exorcising
 exorcism
+exorcist
 exorcistic
 exorcistical
 exorcize
@@ -44136,6 +44146,7 @@ factionalisms
 factionally
 factions
 factious
+factiously
 factiousness
 factitious
 factitiously
@@ -46750,6 +46761,7 @@ fleckless
 flecks
 flecky
 flection
+flections
 fled
 fledge
 fledged
@@ -49603,6 +49615,7 @@ furling
 furlong
 furlongs
 furlough
+furloughed
 furloughing
 furloughs
 furmenties
@@ -52483,6 +52496,7 @@ goggler
 gogglers
 goggles
 gogglier
+goggliest
 goggling
 goggly
 goglet
@@ -53672,6 +53686,7 @@ grittiness
 grittinesses
 gritting
 gritty
+grivet
 grivets
 grizzle
 grizzled
@@ -55266,6 +55281,7 @@ hansas
 hanse
 hanseatic
 hansel
+hanseling
 hanselled
 hanselling
 hansels
@@ -61375,6 +61391,7 @@ incinerator
 incipience
 incipiences
 incipiencies
+incipiency
 incipient
 incipiently
 incipit
@@ -61766,6 +61783,7 @@ independence
 independences
 independencies
 independency
+independent
 independents
 indescribable
 indescribably
@@ -66605,6 +66623,7 @@ karyogamy
 karyokineses
 karyokinesis
 karyokinetic
+karyologic
 karyological
 karyologies
 karyology
@@ -71777,6 +71796,7 @@ lumber
 lumbered
 lumberer
 lumbering
+lumberjack
 lumberjacks
 lumberly
 lumberman
@@ -79045,6 +79065,7 @@ mountainy
 mountebank
 mountebankeries
 mountebankery
+mountebanking
 mountebanks
 mounted
 mounter
@@ -81363,6 +81384,7 @@ neutralism
 neutralisms
 neutralist
 neutralistic
+neutralities
 neutrality
 neutralize
 neutralized
@@ -85573,6 +85595,7 @@ orle
 orles
 orlon
 orlons
+orlop
 ormer
 ormolu
 ormolus
@@ -88801,6 +88824,7 @@ packs
 packsack
 packsacks
 packsaddle
+packsaddles
 packthread
 packthreads
 packwax
@@ -91276,6 +91300,7 @@ penile
 peninsula
 peninsular
 peninsulas
+penises
 penitence
 penitences
 penitent
@@ -93598,6 +93623,7 @@ pilferers
 pilfering
 pilgarlic
 pilgarlics
+pilgrim
 pilgrimages
 pilgrimaging
 pilgrims
@@ -104269,6 +104295,7 @@ reejects
 reek
 reeked
 reeker
+reekers
 reekier
 reekiest
 reeking
@@ -117218,6 +117245,7 @@ sluggishnesses
 sluice
 sluiced
 sluices
+sluiceways
 sluicing
 sluicy
 sluing
@@ -117380,6 +117408,7 @@ smellers
 smellier
 smelliest
 smelly
+smelt
 smelted
 smelter
 smelteries
@@ -131150,7 +131179,9 @@ transversely
 transverses
 transvestism
 transvestisms
+transvestite
 transvestites
+trap
 trapanned
 trapanning
 trapans
@@ -136151,6 +136182,7 @@ uns
 unsaddle
 unsaddled
 unsaddles
+unsafe
 unsafely
 unsafeties
 unsafety
@@ -139520,6 +139552,7 @@ volatilenesses
 volatiles
 volatilise
 volatilised
+volatilising
 volatilities
 volatilization
 volatilizations
@@ -140046,6 +140079,7 @@ walkaway
 walkaways
 walked
 walker
+walkers
 walking
 walkings
 walkingstick
@@ -141903,6 +141937,7 @@ windrower
 windrowers
 windrowing
 windrows
+winds
 windscreen
 windscreens
 windshield
