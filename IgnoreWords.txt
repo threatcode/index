@@ -2318,6 +2318,7 @@ airproofed
 airproofing
 airs
 airscape
+airscapes
 airscrew
 airscrews
 airshed
@@ -2347,6 +2348,7 @@ airtight
 airtightness
 airtightnesses
 airtime
+airtimes
 airting
 airts
 airward
@@ -13696,6 +13698,7 @@ boogiemen
 boogies
 boogy
 boogying
+boohooed
 boohooing
 boohoos
 booing
@@ -18586,6 +18589,7 @@ casual
 casually
 casualnesses
 casualties
+casualty
 casuarina
 casuarinas
 casuist
@@ -25244,6 +25248,7 @@ conglobation
 conglobations
 conglobe
 conglobed
+conglobes
 conglobing
 conglomerated
 conglomerateurs
@@ -27533,6 +27538,7 @@ courteousness
 courteousnesses
 courter
 courtesan
+courtesans
 courtesied
 courtesies
 courtesying
@@ -28913,6 +28919,7 @@ cryptarithms
 cryptic
 cryptical
 cryptically
+crypto
 cryptococcal
 cryptococci
 cryptococcoses
@@ -39593,6 +39600,7 @@ emanating
 emanation
 emanative
 emanator
+emanators
 emancipate
 emancipated
 emancipates
@@ -43190,6 +43198,7 @@ execrative
 execrator
 execrators
 execs
+executable
 executant
 executants
 execute
@@ -45866,6 +45875,7 @@ fidgetinesses
 fidgeting
 fidgets
 fidgety
+fido
 fidos
 fids
 fiducially
@@ -50020,6 +50030,7 @@ gadzookeries
 gadzookery
 gadzooks
 gae
+gaed
 gaen
 gaff
 gaffed
@@ -50533,6 +50544,7 @@ gargle
 gargled
 garglers
 gargles
+gargling
 gargoyle
 gargoyled
 gargoyles
@@ -51210,6 +51222,7 @@ genuflecting
 genuflection
 genuflections
 genuflects
+genuine
 genuineness
 genuinenesses
 genus
@@ -53466,6 +53479,7 @@ gravitational
 gravitationally
 gravitations
 gravitative
+gravities
 gravitino
 gravitinos
 graviton
@@ -53849,6 +53863,7 @@ grizzles
 grizzlier
 grizzlies
 grizzliest
+grizzling
 grizzly
 groan
 groaned
@@ -55364,6 +55379,7 @@ handsome
 handsomely
 handsomeness
 handsomenesses
+handsomer
 handsomest
 handspike
 handspikes
@@ -59130,6 +59146,7 @@ huntsmen
 huppah
 hurdies
 hurdled
+hurdlers
 hurdles
 hurdling
 hurds
@@ -68505,6 +68522,7 @@ lamiae
 lamias
 lamina
 laminable
+laminae
 laminal
 laminals
 laminar
@@ -76272,6 +76290,7 @@ mikado
 mikados
 mike
 miked
+miking
 mikra
 mikron
 mikrons
@@ -77262,6 +77281,7 @@ misgivings
 misgoverned
 misgovernments
 misgoverns
+misgrade
 misgraded
 misgrades
 misgrading
@@ -80749,6 +80769,7 @@ narratologist
 narratologists
 narratology
 narrator
+narrators
 narrow
 narrowcasting
 narrowed
@@ -94589,6 +94610,7 @@ planchets
 planchettes
 plane
 planed
+planeloads
 planenesses
 planer
 planers
@@ -102872,6 +102894,7 @@ ravenousnesses
 ravens
 ravers
 raves
+ravigote
 ravigotes
 ravigotte
 ravigottes
@@ -104133,6 +104156,7 @@ recusant
 recusants
 recuse
 recused
+recuses
 recusing
 recut
 recuts
@@ -105702,6 +105726,7 @@ relabelled
 relabelling
 relabels
 relace
+relaced
 relacing
 relacquer
 relacquered
@@ -108761,6 +108786,7 @@ richer
 riches
 richest
 richly
+richness
 richnesses
 richweed
 ricin
@@ -111781,6 +111807,7 @@ scags
 scalable
 scalade
 scalades
+scalado
 scalados
 scalage
 scalages
@@ -112066,6 +112093,7 @@ sceptered
 sceptering
 scepters
 sceptic
+sceptical
 scepticism
 sceptics
 sceptral
@@ -113227,6 +113255,7 @@ secretin
 secreting
 secretins
 secretion
+secretionary
 secretive
 secretively
 secretiveness
@@ -123356,6 +123385,7 @@ subdivided
 subdivider
 subdividers
 subdivision
+subdivisions
 subdominant
 subdominants
 subduable
@@ -125490,6 +125520,7 @@ susurrus
 sutler
 sutlers
 sutra
+sutras
 sutta
 suttas
 suttee
@@ -128726,6 +128757,7 @@ theocrats
 theodolite
 theodolites
 theogony
+theolog
 theologians
 theologic
 theological
@@ -128778,6 +128810,7 @@ theosophist
 theosophists
 theosophy
 therapeuses
+therapeusis
 therapeutic
 therapeutically
 therapies
@@ -137774,6 +137807,7 @@ user
 username
 usernames
 users
+usher
 ushered
 usherette
 usherettes
@@ -139512,6 +139546,7 @@ virga
 virgas
 virgate
 virgates
+virgin
 virginalist
 virginalists
 virginally
