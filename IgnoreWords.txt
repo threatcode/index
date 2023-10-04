@@ -2040,6 +2040,7 @@ aglare
 agleam
 aglee
 aglet
+agley
 aglitter
 aglow
 agly
@@ -2349,6 +2350,7 @@ aisle
 aisled
 aisles
 aisleways
+ait
 aitchbone
 aitchbones
 aitches
@@ -9752,6 +9754,7 @@ battener
 battening
 battens
 batter
+battered
 batterie
 batteries
 battering
@@ -9907,6 +9910,7 @@ beadman
 beadmen
 beadroll
 beadrolls
+beads
 beadsmen
 beadwork
 beadworks
@@ -10294,6 +10298,7 @@ beechmasts
 beechnut
 beechnuts
 beechwood
+beechwoods
 beechy
 beedi
 beedies
@@ -12823,6 +12828,7 @@ bloodiness
 bloodinesses
 blooding
 bloodings
+bloodless
 bloodlessness
 bloodlessnesses
 bloodletting
@@ -16433,6 +16439,7 @@ cabins
 cable
 cablecasted
 cablecasting
+cablecasts
 cabled
 cablegram
 cables
@@ -18155,6 +18162,7 @@ caroused
 carousel
 carousels
 carouser
+carousers
 carouses
 carp
 carpaccio
@@ -18562,6 +18570,7 @@ catamenia
 catamenial
 catamite
 catamites
+catamount
 catamounts
 cataphora
 cataphoras
@@ -22805,6 +22814,7 @@ cockalorums
 cockamamie
 cockamamy
 cockapoo
+cockapoos
 cockatoo
 cockatoos
 cockatrice
@@ -33876,6 +33886,7 @@ dickenses
 dicker
 dickered
 dickering
+dickers
 dickey
 dickie
 dickies
@@ -34503,6 +34514,7 @@ dippiness
 dipping
 dippy
 dipsades
+dipsas
 dipshits
 dipso
 dipsomania
@@ -40528,6 +40540,7 @@ enisling
 enjambed
 enjambement
 enjambements
+enjambments
 enjoinder
 enjoinders
 enjoined
@@ -45610,6 +45623,7 @@ ficin
 ficins
 fickleness
 ficklenesses
+fickler
 ficklest
 fickly
 fico
@@ -50970,6 +50984,7 @@ gentlenesses
 gentleperson
 gentlepersons
 gentler
+gentles
 gentlest
 gentlewoman
 gentlewomen
@@ -51264,6 +51279,7 @@ gewgaws
 gewurztraminers
 gey
 geyserites
+geysers
 gharials
 gharri
 gharries
@@ -53963,6 +53979,8 @@ guanos
 guanosine
 guanosines
 guans
+guaranas
+guarani
 guaranies
 guaranis
 guarantee
@@ -54702,6 +54720,7 @@ haika
 haiks
 haiku
 hail
+hailed
 hails
 hailstone
 hailstones
@@ -60590,6 +60609,7 @@ impassion
 impassioned
 impassioning
 impassions
+impassive
 impassively
 impassiveness
 impassivenesses
@@ -63549,6 +63569,7 @@ interiorizes
 interiorizing
 interiorly
 interiors
+interisland
 interject
 interjected
 interjecting
@@ -63591,6 +63612,7 @@ interleaf
 interleave
 interleaved
 interleaves
+interlending
 interlends
 interlent
 interleukins
@@ -64922,6 +64944,7 @@ isogonic
 isogonics
 isogonies
 isogons
+isogony
 isografted
 isografting
 isografts
@@ -65198,6 +65221,7 @@ jackies
 jacking
 jackknife
 jackknifed
+jackknifes
 jackknifing
 jackknives
 jacklegs
@@ -75117,6 +75141,7 @@ mestees
 mesteso
 mestesos
 mestino
+mestinoes
 mestinos
 mestiza
 mestizas
@@ -78039,6 +78064,7 @@ mongrelization
 mongrelize
 mongrelized
 mongrelizes
+mongrelizing
 mongrelly
 mongrels
 mongst
@@ -89565,6 +89591,7 @@ paraforms
 paragenesis
 paragenetic
 paraglide
+paraglided
 paraglides
 paragliding
 paragoge
@@ -102552,6 +102579,7 @@ reabsorbing
 reabsorbs
 reaccede
 reacceded
+reaccedes
 reacceding
 reaccelerate
 reaccelerated
@@ -118196,6 +118224,7 @@ solemnization
 solemnizations
 solemnize
 solemnized
+solemnly
 solemnness
 solemnnesses
 solenodon
@@ -119657,6 +119686,7 @@ spirochaete
 spirochaetes
 spirochete
 spirochetes
+spirochetoses
 spirochetosis
 spirogyra
 spirogyras
@@ -120717,6 +120747,7 @@ stanchest
 stanchion
 stanchioned
 stanchions
+stand
 standard
 standardbred
 standardbreds
@@ -130785,6 +130816,7 @@ transeunt
 transfect
 transfected
 transfecting
+transfection
 transfections
 transfer
 transferable
@@ -132024,6 +132056,7 @@ trot
 troth
 trothed
 trothing
+trothplighted
 trothplighting
 trothplights
 troths
@@ -134181,6 +134214,7 @@ uncreative
 uncredentialed
 uncredited
 uncrippled
+uncritical
 uncritically
 uncropped
 uncrossable
@@ -135809,6 +135843,7 @@ unpublishable
 unpublished
 unpucker
 unpuckers
+unpunctualities
 unpunctuality
 unpunctuated
 unpunished
