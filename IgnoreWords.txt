@@ -5760,6 +5760,7 @@ appraise
 appraisees
 appraisement
 appraisements
+appraiser
 appraisers
 appraises
 appraising
@@ -6408,6 +6409,7 @@ aroma
 aromas
 aromatase
 aromatherapies
+aromatically
 aromaticities
 aromatics
 aromatization
@@ -11222,6 +11224,7 @@ betaine
 betake
 betaken
 betaking
+betas
 betatter
 betattered
 betattering
@@ -13145,6 +13148,7 @@ bluntly
 bluntness
 bluntnesses
 blunts
+blurb
 blurbed
 blurbing
 blurbist
@@ -18686,6 +18690,7 @@ catbirds
 catboat
 catboats
 catbrier
+catbriers
 catcall
 catcalled
 catcalling
@@ -22559,6 +22564,7 @@ clubs
 clubwoman
 clubwomen
 cluck
+clucks
 clue
 clued
 clueing
@@ -26337,6 +26343,7 @@ coplotting
 copolymer
 copolymeric
 copolymerize
+copolymerized
 copolymerizes
 copolymerizing
 copolymers
@@ -29313,6 +29320,7 @@ curches
 curculios
 curcuma
 curd
+curded
 curdiest
 curding
 curdled
@@ -36387,6 +36395,7 @@ dodecaphonic
 dodecaphonies
 dodecaphonist
 dodgeball
+dodged
 dodgem
 dodgems
 dodger
@@ -37373,6 +37382,7 @@ drayman
 draymen
 drays
 dread
+dreaded
 dreadfully
 dreadfulnesses
 dreadfuls
@@ -37446,6 +37456,7 @@ dresses
 dressiest
 dressiness
 dressing
+dressings
 dressmaker
 dressmakers
 dressmaking
@@ -37711,6 +37722,7 @@ drumheads
 drumlier
 drumliest
 drumlike
+drumlins
 drumly
 drummed
 drummer
@@ -39703,6 +39715,7 @@ embosks
 embosom
 embosoming
 embossable
+embossed
 embosses
 embossing
 embossment
@@ -41184,6 +41197,7 @@ envied
 enviers
 envies
 envious
+enviousness
 enviousnesses
 enviro
 environ
@@ -43036,6 +43050,7 @@ excite
 excitedly
 excitement
 excitements
+exciter
 exciters
 excites
 excitingly
@@ -60948,6 +60963,7 @@ imphee
 imphees
 impieties
 imping
+impinged
 impingement
 impingements
 impinger
@@ -61547,6 +61563,7 @@ inciting
 incivil
 incivilities
 incivility
+inclasp
 inclasped
 inclasps
 inclemencies
@@ -63508,6 +63525,7 @@ intensification
 intensifier
 intensifiers
 intensifies
+intensifying
 intension
 intensional
 intensionality
@@ -65868,6 +65886,7 @@ jetsoms
 jetstream
 jetstreams
 jettied
+jettier
 jetties
 jettiness
 jettinesses
@@ -67834,6 +67853,7 @@ kolkhoznik
 kolkhozniki
 kolkhozniks
 kolkhozy
+kolkozes
 kolkozy
 kolos
 komatiks
@@ -69487,6 +69507,7 @@ legalizing
 legally
 legals
 legate
+legated
 legatee
 legatees
 legates
@@ -69960,6 +69981,7 @@ lexicalization
 lexicalizations
 lexicalized
 lexicalizes
+lexicalizing
 lexically
 lexicographer
 lexicographers
@@ -76613,6 +76635,7 @@ minimizers
 minimizes
 minimizing
 minims
+minimum
 minimums
 mining
 minion
@@ -79456,6 +79479,7 @@ mudslinging
 mudslingings
 mudstone
 mueddin
+mueddins
 muenster
 muensters
 muesli
@@ -92199,6 +92223,7 @@ perplexes
 perplexing
 perplexities
 perplexity
+perquisite
 perquisites
 perries
 perron
@@ -100957,6 +100982,7 @@ pycnometers
 pycnoses
 pycnosis
 pycnotic
+pyelitic
 pyelitis
 pyelitises
 pyelogram
@@ -111012,6 +111038,7 @@ sandburr
 sandburrs
 sandcrack
 sandcracks
+sanddab
 sanddabs
 sander
 sanderling
@@ -115362,6 +115389,7 @@ shool
 shooled
 shooling
 shools
+shoos
 shootdown
 shooter
 shooters
@@ -117521,6 +117549,7 @@ slurping
 slurps
 slurred
 slurries
+slurry
 slurrying
 slurs
 slush
@@ -120743,6 +120772,7 @@ squeamish
 squeamishly
 squeamishness
 squeamishnesses
+squeegee
 squeegeed
 squeegeeing
 squeegees
@@ -121314,6 +121344,7 @@ stationed
 stationer
 stationeries
 stationers
+stationery
 stationing
 stationmaster
 stationmasters
@@ -124051,6 +124082,7 @@ sucroses
 suction
 suctional
 suctioning
+suctions
 suctorial
 suctorian
 suctorians
@@ -126471,6 +126503,7 @@ tacrines
 tact
 tactful
 tactfully
+tactfulness
 tactfulnesses
 tactic
 tactically
@@ -133253,6 +133286,7 @@ twattle
 twattled
 twattles
 twayblade
+twayblades
 tweak
 tweakier
 tweakiest
@@ -141630,6 +141664,7 @@ whiners
 whines
 whingding
 whinged
+whingeing
 whinger
 whingers
 whinges
