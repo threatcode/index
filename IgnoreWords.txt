@@ -1466,6 +1466,7 @@ advertizing
 advertorial
 adverts
 advices
+advisabilities
 advisability
 advisable
 advisableness
@@ -8084,6 +8085,7 @@ aventurine
 aventurines
 aventurins
 average
+averageness
 averagenesses
 averages
 averment
@@ -17430,6 +17432,7 @@ canebrakes
 caned
 canella
 canellas
+canephor
 canephors
 caners
 canes
@@ -23536,6 +23539,7 @@ coinfect
 coinfected
 coinfecting
 coinfects
+coinfer
 coinferred
 coinfers
 coinhere
@@ -25360,6 +25364,7 @@ conglobed
 conglobes
 conglobing
 conglomerated
+conglomerates
 conglomerateurs
 conglomeratic
 conglomerating
@@ -27310,6 +27315,7 @@ couchers
 couches
 couchette
 couchettes
+couching
 couchings
 coude
 cougar
@@ -29903,6 +29909,7 @@ cyclicalities
 cyclicality
 cyclically
 cyclicities
+cyclicity
 cyclicly
 cyclin
 cycling
@@ -37238,6 +37245,7 @@ downbursts
 downcast
 downcasts
 downcome
+downcomes
 downcourt
 downdraft
 downdrafts
@@ -42721,6 +42729,7 @@ eugenists
 eugenols
 eugeosynclinal
 eugeosyncline
+eugeosynclines
 euglena
 euglenas
 euglenid
@@ -47195,6 +47204,7 @@ fleshments
 fleshpot
 fleshpots
 fleshy
+fletch
 fletched
 fletchers
 fletches
@@ -47959,6 +47969,7 @@ folklores
 folkloric
 folklorist
 folkloristic
+folkmoot
 folkmoots
 folkmote
 folkmotes
@@ -56833,6 +56844,7 @@ helminth
 helminthiases
 helminthiasis
 helminthic
+helminthologies
 helminthology
 helminths
 helmless
@@ -59413,6 +59425,7 @@ hunts
 huntsman
 huntsmen
 huppah
+huppahs
 hurdies
 hurdled
 hurdlers
@@ -60877,6 +60890,7 @@ immanentists
 immaterial
 immaterialism
 immaterialisms
+immaterialist
 immaterialists
 immaterialize
 immaterializes
@@ -67038,6 +67052,7 @@ kalifate
 kalifates
 kalifs
 kalimbas
+kaliph
 kaliphates
 kaliphs
 kalium
@@ -70148,6 +70163,7 @@ leptosomes
 leptospiral
 leptospires
 leptospiroses
+leptospirosis
 leptotene
 les
 lesbianism
@@ -72031,6 +72047,7 @@ lotahs
 loth
 lothario
 lotharios
+lothsome
 loti
 lotic
 lotions
@@ -83134,6 +83151,7 @@ nonexploitative
 nonexploitive
 nonexposed
 nonextant
+nonfact
 nonfactor
 nonfactors
 nonfactual
@@ -88318,6 +88336,7 @@ overfastidious
 overfatigued
 overfatigues
 overfavor
+overfavored
 overfear
 overfeared
 overfearing
@@ -91171,6 +91190,7 @@ pathlessnesses
 pathobiologies
 pathogen
 pathogene
+pathogenes
 pathogeneses
 pathogenesis
 pathogenetic
@@ -95441,6 +95461,7 @@ plenteous
 plenteously
 plenteousness
 plenteousnesses
+plentiful
 plentifully
 plentifulness
 plentifulnesses
@@ -95492,6 +95513,7 @@ plexus
 plexuses
 pliabilities
 pliability
+pliable
 pliableness
 pliably
 pliant
@@ -100582,6 +100604,7 @@ pseudonymous
 pseudopod
 pseudopodal
 pseudopodia
+pseudopodial
 pseudopods
 pseudopregnancy
 pseudopregnant
@@ -103186,6 +103209,7 @@ ratably
 ratafees
 ratafia
 ratafias
+ratal
 ratals
 ratanies
 ratans
@@ -109181,6 +109205,7 @@ rhotacisms
 rhotic
 rhubarb
 rhumb
+rhumba
 rhumbaing
 rhumbas
 rhumbs
@@ -110473,6 +110498,7 @@ ruanas
 rub
 rubaboo
 rubaboos
+rubace
 rubaiyat
 rubasse
 rubasses
@@ -112033,6 +112059,7 @@ satirising
 satirist
 satirists
 satirize
+satirizer
 satirizers
 satirizes
 satis
@@ -118722,6 +118749,7 @@ snootily
 snootiness
 snootinesses
 snoots
+snooty
 snooze
 snoozed
 snoozer
@@ -121199,6 +121227,7 @@ spritzers
 spritzes
 spritzing
 sprocket
+sprockets
 sprout
 sprouted
 sprouting
@@ -121572,6 +121601,7 @@ stackup
 stackups
 stacte
 stactes
+staddle
 stade
 stades
 stadia
@@ -126871,6 +126901,7 @@ synesthetic
 synfuel
 synfuels
 syngamies
+syngamy
 syngas
 syngases
 syngasses
@@ -127808,6 +127839,7 @@ tarts
 tartufe
 tartufes
 tartuffe
+tartuffes
 tarty
 tarweed
 tarweeds
@@ -136122,6 +136154,7 @@ unfoldment
 unfond
 unforced
 unforeseeable
+unforeseen
 unforgettable
 unforgivable
 unforgiving
@@ -142973,6 +143006,7 @@ windgall
 windgalls
 windhover
 windhovers
+windiest
 windigo
 windily
 windiness
@@ -143206,6 +143240,7 @@ wiseasses
 wisecrack
 wisecracker
 wisecracking
+wisecracks
 wiseguy
 wiseguys
 wiselier
