@@ -1544,6 +1544,7 @@ aerialist
 aerials
 aerie
 aeried
+aeries
 aeriest
 aerified
 aerify
@@ -24243,6 +24244,7 @@ commencer
 commencers
 commences
 commencing
+commend
 commendably
 commendam
 commendams
@@ -30798,6 +30800,7 @@ daysman
 daysmen
 daytime
 daytimes
+daywork
 dayworker
 daze
 dazed
@@ -38757,6 +38760,7 @@ easies
 easiest
 easiness
 easinesses
+east
 eastbound
 easter
 easterlies
@@ -40572,6 +40576,7 @@ endanger
 endangered
 endangering
 endangerments
+endangers
 endarch
 endarchies
 endarchy
@@ -40833,6 +40838,7 @@ enfettering
 enfever
 enfevered
 enfevering
+enfilade
 enfiladed
 enflame
 enflamed
@@ -45700,6 +45706,7 @@ feracity
 feral
 ferals
 ferbam
+fere
 feres
 feretories
 feretory
@@ -54714,6 +54721,7 @@ gulling
 gulls
 gullwing
 gullying
+gulosity
 gulped
 gulpers
 gulpier
@@ -57897,6 +57905,7 @@ hirseled
 hirselled
 hirselling
 hirsels
+hirsle
 hirsles
 hirsute
 hirsuteness
@@ -64161,6 +64170,7 @@ interferer
 interferes
 interfering
 interferogram
+interferometer
 interferometers
 interferometry
 interferon
@@ -66635,6 +66645,7 @@ jolted
 jolter
 joltier
 joltiest
+joltily
 joltingly
 jolts
 jolty
@@ -75261,6 +75272,7 @@ meiotically
 meitnerium
 meitneriums
 mel
+melaleuca
 melaleucas
 melamed
 melamine
@@ -85161,6 +85173,7 @@ oculomotor
 oculus
 od
 oda
+odah
 odahs
 odalisque
 odalisques
@@ -87348,6 +87361,7 @@ outliver
 outlivers
 outlives
 outliving
+outlooks
 outloved
 outloves
 outman
@@ -91004,6 +91018,7 @@ partitively
 partitives
 partlet
 partlets
+partly
 partnered
 partnering
 partnerless
@@ -94791,6 +94806,7 @@ pipingly
 pipings
 pipistrel
 pipistrels
+pipit
 pipits
 pipkin
 pipkins
@@ -96367,6 +96383,7 @@ polyesters
 polyestrous
 polyethylenes
 polygala
+polygalas
 polygamic
 polygamies
 polygamists
@@ -99193,6 +99210,7 @@ prier
 priers
 priest
 priested
+priestesses
 priesthood
 priesting
 priestliest
@@ -99717,6 +99735,7 @@ progeria
 progerias
 progestational
 progesterone
+progesterones
 progestin
 progestins
 progestogenic
@@ -100410,6 +100429,7 @@ prothoraxes
 prothrombins
 protist
 protistan
+protistans
 protistic
 protium
 protiums
@@ -100603,6 +100623,7 @@ proximately
 proximateness
 proximities
 proximity
+proximo
 proxy
 prude
 prudence
@@ -103942,6 +103963,7 @@ reattained
 reattaining
 reattains
 reattempted
+reattempting
 reattempts
 reattribute
 reattributed
@@ -106346,6 +106368,7 @@ rekindled
 rekindles
 reknit
 reknits
+reknitted
 reknitting
 reknots
 reknotted
@@ -107996,6 +108019,7 @@ reslates
 reslating
 resmelt
 resmelted
+resmelting
 resmelts
 resmooth
 resmoothing
@@ -114761,6 +114785,7 @@ separation
 separationist
 separationists
 separations
+separatism
 separatisms
 separatist
 separatistic
@@ -119059,6 +119084,7 @@ snyes
 so
 soak
 soakage
+soakages
 soakers
 soaks
 soapbark
@@ -120821,6 +120847,7 @@ spired
 spirem
 spireme
 spiremes
+spirems
 spires
 spirier
 spiriest
@@ -130043,6 +130070,7 @@ threeps
 threesome
 threesomes
 threnode
+threnodes
 threnodic
 threnodies
 threnodist
@@ -130693,6 +130721,7 @@ tippets
 tippier
 tippiest
 tipping
+tippled
 tipplers
 tippy
 tippytoeing
@@ -131612,6 +131641,7 @@ touchmarks
 touchpad
 touchpads
 touchstone
+touchstones
 touchtone
 touchtones
 touchups
@@ -132198,6 +132228,7 @@ transistorizing
 transistors
 transit
 transited
+transition
 transitional
 transitionally
 transitions
@@ -138738,6 +138769,7 @@ uvea
 uveas
 uveitic
 uveitis
+uveous
 uvula
 uvular
 uvularly
@@ -139174,6 +139206,7 @@ varioloid
 varioloids
 variolous
 variometer
+variometers
 variorum
 variorums
 various
@@ -143005,6 +143038,7 @@ wiftier
 wiftiest
 wifty
 wig
+wigan
 wigeon
 wigeons
 wigged
@@ -143329,6 +143363,7 @@ winterberries
 winterberry
 wintered
 winterer
+winterers
 winterfeeding
 winterfeeds
 wintergreens
