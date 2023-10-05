@@ -772,6 +772,7 @@ acquits
 acquittal
 acquittals
 acquittance
+acquittances
 acquitted
 acquitter
 acquitters
@@ -3043,6 +3044,7 @@ almighty
 almner
 almners
 almond
+almondy
 almoner
 almoners
 almonries
@@ -9546,6 +9548,7 @@ barrelling
 barrels
 barrelsful
 barren
+barrener
 barrenest
 barrenly
 barrenness
@@ -16770,6 +16773,7 @@ caeomas
 caesar
 caesarian
 caesarians
+caesarism
 caesarisms
 caesars
 caespitose
@@ -20419,6 +20423,7 @@ chemisms
 chemisorb
 chemisorbing
 chemisorptions
+chemist
 chemistries
 chemists
 chemo
@@ -26129,6 +26134,7 @@ contriteness
 contritenesses
 contrition
 contritions
+contrivance
 contrivances
 contrive
 contrived
@@ -27236,6 +27242,7 @@ coster
 costermongers
 costers
 costing
+costive
 costively
 costivenesses
 costlessly
@@ -30525,6 +30532,7 @@ danseuses
 dap
 daphne
 daphnes
+daphnia
 daphnias
 dapped
 dapperer
@@ -33639,6 +33647,7 @@ dev
 deva
 devaluated
 devaluates
+devaluating
 devaluation
 devaluations
 devalue
@@ -35405,6 +35414,7 @@ disencumbering
 disencumbers
 disendow
 disendowed
+disendower
 disendowers
 disendowing
 disendowment
@@ -45776,6 +45786,7 @@ fertile
 fertilenesses
 fertilities
 fertility
+fertilizable
 fertilization
 fertilizations
 fertilize
@@ -58705,6 +58716,7 @@ hop
 hope
 hoped
 hopeful
+hopefully
 hopefuls
 hopelessly
 hopelessness
@@ -58932,6 +58944,7 @@ hospitalise
 hospitalised
 hospitalises
 hospitalising
+hospitalities
 hospitality
 hospitalize
 hospitalized
@@ -63497,6 +63510,7 @@ inseminate
 inseminated
 inseminating
 insemination
+inseminator
 inseminators
 insensately
 insensibilities
@@ -64299,6 +64313,7 @@ intermeshing
 intermezzi
 intermezzos
 interminable
+interminably
 intermingle
 intermingled
 intermingles
@@ -64544,6 +64559,7 @@ intertrial
 intertribal
 intertroop
 intertwine
+intertwined
 intertwinement
 intertwinements
 intertwines
@@ -65045,6 +65061,7 @@ invigoration
 invigorations
 invigorator
 invigorators
+invincibilities
 invincible
 invincibleness
 invincibly
@@ -77917,6 +77934,7 @@ misphrased
 misphrases
 misphrasing
 mispickel
+mispickels
 misplace
 misplaced
 misplacement
@@ -78368,6 +78386,7 @@ mobcap
 mobcaps
 mobile
 mobiles
+mobilise
 mobilises
 mobilising
 mobilities
@@ -80633,6 +80652,7 @@ mutineer
 mutineered
 mutineering
 mutineers
+mutines
 muting
 mutinied
 mutinies
@@ -83627,6 +83647,7 @@ nonreactive
 nonreaders
 nonreading
 nonrealistic
+nonreceipts
 nonreciprocal
 nonrecognition
 nonrecognitions
@@ -85434,6 +85455,7 @@ olefines
 olefinic
 olefins
 oleic
+olein
 oleine
 oleines
 oleins
@@ -88099,6 +88121,7 @@ overcautious
 overcentralized
 overcharge
 overcharged
+overcheap
 overchill
 overchilled
 overchilling
@@ -94704,6 +94727,7 @@ pipelines
 piper
 piperazine
 piperazines
+piperidine
 piperidines
 piperine
 piperines
@@ -102424,6 +102448,7 @@ quods
 quohogs
 quoin
 quoining
+quoins
 quoit
 quoited
 quoiting
@@ -108283,6 +108308,7 @@ resummon
 resummoned
 resummoning
 resummons
+resumption
 resumptions
 resupinate
 resupine
@@ -112515,6 +112541,7 @@ scantinesses
 scantling
 scantlings
 scantly
+scantnesses
 scants
 scanty
 scape
@@ -112622,6 +112649,7 @@ scats
 scatt
 scatted
 scatter
+scatteration
 scatterbrain
 scatterbrained
 scatterbrains
@@ -113614,6 +113642,7 @@ scyphistomas
 scyphozoan
 scyphozoans
 scyphus
+scythe
 scythed
 scythes
 scything
@@ -113835,6 +113864,7 @@ secrecy
 secret
 secretagogue
 secretagogues
+secretariat
 secretariats
 secretaries
 secretary
@@ -118479,6 +118509,7 @@ smoothed
 smoothen
 smoothens
 smoother
+smoothers
 smoothes
 smoothest
 smoothies
@@ -123699,6 +123730,7 @@ stunk
 stunned
 stunner
 stunners
+stunning
 stunningly
 stuns
 stunsails
@@ -126059,6 +126091,7 @@ surrebutter
 surrebutters
 surrejoinder
 surrendered
+surrendering
 surrenders
 surreptitious
 surrey
@@ -126683,6 +126716,7 @@ syllabize
 syllabized
 syllabizes
 syllabizing
+syllable
 syllabled
 syllables
 syllabling
@@ -132936,6 +132970,7 @@ trinketer
 trinketing
 trinketries
 trinketry
+trinkets
 trinocular
 trinodal
 trinomial
