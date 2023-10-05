@@ -1053,6 +1053,7 @@ addresses
 addressing
 addressor
 addressors
+addrest
 adds
 adduce
 adduced
@@ -13166,6 +13167,7 @@ bluet
 bluetick
 bluetongues
 bluets
+blueweed
 blueweeds
 bluewood
 bluey
@@ -15619,6 +15621,7 @@ budding
 buddings
 buddle
 buddleia
+buddleias
 buddles
 buddy
 buddying
@@ -16901,6 +16904,7 @@ calcicole
 calcicoles
 calcicolous
 calciferol
+calciferols
 calciferous
 calcific
 calcifications
@@ -17831,6 +17835,7 @@ captains
 captainship
 captainships
 captans
+caption
 captioned
 captioning
 captionless
@@ -18219,6 +18224,7 @@ caritases
 carjack
 carjacked
 carjacker
+carjackers
 carjacking
 carjackings
 carjacks
@@ -19776,6 +19782,7 @@ chamades
 chamaephyte
 chamaephytes
 chamber
+chambered
 chambering
 chamberlain
 chamberlains
@@ -22106,6 +22113,7 @@ classlessnesses
 classon
 classons
 classrooms
+classwork
 classy
 clast
 clastic
@@ -22374,6 +22382,7 @@ clinch
 clincher
 clinches
 clinching
+clines
 cling
 clinger
 clingers
@@ -33485,6 +33494,7 @@ detersive
 detersives
 detest
 detestable
+detestably
 detestation
 detestations
 detested
@@ -39256,6 +39266,7 @@ egomanias
 egos
 egotistic
 egotistically
+egotists
 egregious
 egregiously
 egregiousness
@@ -40606,6 +40617,7 @@ endoparasite
 endoparasites
 endoparasitism
 endoparasitisms
+endopeptidase
 endopeptidases
 endoperoxide
 endoperoxides
@@ -43577,6 +43589,7 @@ exocytoses
 exocytosing
 exocytosis
 exocytotic
+exodermis
 exodermises
 exodoi
 exodontia
@@ -44200,6 +44213,7 @@ extravagance
 extravagances
 extravagancy
 extravagant
+extravagantly
 extravaganzas
 extravagate
 extravagated
@@ -53835,6 +53849,7 @@ greenlets
 greenlight
 greenlighting
 greenlights
+greenlings
 greenlit
 greenly
 greenmail
@@ -56123,6 +56138,7 @@ haul
 haulage
 haulages
 hauler
+haulers
 hauling
 haulm
 haulmiest
@@ -56751,6 +56767,7 @@ heliotypes
 heliotypies
 heliotyping
 heliotypy
+heliozoan
 heliozoans
 heliozoic
 helipad
@@ -56882,6 +56899,7 @@ hematoma
 hematomas
 hematomata
 hematophagous
+hematopoieses
 hematopoiesis
 hematopoietic
 hematoses
@@ -60151,6 +60169,7 @@ hypoplasias
 hypoplastic
 hypopnea
 hypopneas
+hypopneic
 hypopyon
 hypopyons
 hyposensitize
@@ -61083,6 +61102,7 @@ impanelling
 imparadise
 imparadised
 imparadises
+imparadising
 imparities
 imparked
 imparking
@@ -62631,6 +62651,7 @@ inexorableness
 inexpedience
 inexpediences
 inexpediency
+inexpedient
 inexpediently
 inexpensive
 inexpensively
@@ -63830,6 +63851,7 @@ intendances
 intendants
 intended
 intendedly
+intender
 intending
 intenerate
 intenerated
@@ -70679,6 +70701,7 @@ lignosulfonate
 lignosulfonates
 ligroine
 ligroines
+ligula
 ligulae
 ligular
 ligulas
@@ -71187,6 +71210,7 @@ literalize
 literalized
 literalizes
 literalizing
+literally
 literalness
 literalnesses
 literals
@@ -74854,6 +74878,7 @@ mechanization
 mechanizations
 mechanize
 mechanized
+mechanizer
 mechanizers
 mechanizes
 mechanizing
@@ -75006,6 +75031,7 @@ medusoid
 medusoids
 meed
 meeds
+meeker
 meekest
 meekly
 meeknesses
@@ -89545,6 +89571,7 @@ paedomorphisms
 paedomorphosis
 paella
 paellas
+paeon
 paeons
 paesan
 paesani
@@ -92238,6 +92265,7 @@ percentile
 percentiles
 percents
 percept
+perceptible
 perceptibly
 perception
 perceptional
@@ -99094,6 +99122,7 @@ primitives
 primitivism
 primitivisms
 primitivist
+primitivistic
 primitivists
 primitivities
 primitivity
@@ -121877,6 +121906,7 @@ startle
 startled
 startlements
 startler
+startlers
 startles
 startling
 startlingly
@@ -122121,6 +122151,7 @@ steepened
 steepening
 steepens
 steepest
+steeping
 steepish
 steeple
 steeplebush
@@ -122624,6 +122655,7 @@ stitchworts
 stithy
 stithying
 stivers
+stoa
 stoae
 stoai
 stoas
@@ -125067,6 +125099,7 @@ sumptuously
 sumptuousnesses
 sumpweed
 sumpweeds
+sums
 sun
 sunback
 sunbaked
@@ -142098,6 +142131,7 @@ went
 wentletrap
 wentletraps
 wept
+were
 weregild
 weregilds
 werewolf
@@ -143989,6 +144023,7 @@ wrongfulness
 wrongfulnesses
 wrongheaded
 wrongheadedly
+wronging
 wrongly
 wrongness
 wrongnesses
