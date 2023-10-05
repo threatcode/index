@@ -581,6 +581,7 @@ acetanilids
 acetate
 acetates
 acetazolamide
+acetazolamides
 acetic
 acetification
 acetifications
@@ -648,6 +649,7 @@ achromat
 achromatism
 achromatisms
 achromatize
+achromatized
 achromatizes
 achromatizing
 achromats
@@ -1277,6 +1279,7 @@ adnexal
 adnouns
 ado
 adobe
+adobelike
 adobes
 adobos
 adolescence
@@ -5098,6 +5101,7 @@ antiquarians
 antiquark
 antiquarks
 antiquary
+antiquate
 antiquated
 antiquates
 antiquation
@@ -15872,6 +15876,7 @@ bullterrier
 bullweed
 bullweeds
 bullwhip
+bullwhipped
 bullwhips
 bully
 bullyboy
@@ -16704,6 +16709,7 @@ cactuses
 cacuminal
 cacuminals
 cad
+cadasters
 cadastral
 cadastrally
 cadastre
@@ -17396,6 +17402,7 @@ candescent
 candid
 candida
 candidacy
+candidate
 candidature
 candidatures
 candider
@@ -18875,6 +18882,7 @@ catenas
 catenated
 catenates
 catenating
+catenation
 catenations
 catenoid
 catenoids
@@ -21937,6 +21945,7 @@ clachan
 clachans
 clachs
 clacker
+clackers
 clacking
 clacks
 clad
@@ -21967,6 +21976,7 @@ clags
 claimable
 claimant
 claimants
+claimed
 claimer
 claimers
 claiming
@@ -24585,6 +24595,7 @@ complainingly
 complains
 complaint
 complaints
+complaisance
 complaisances
 complaisant
 complaisantly
@@ -33835,6 +33846,7 @@ dexterously
 dexterousness
 dexterousnesses
 dextral
+dextrally
 dextran
 dextranase
 dextranases
@@ -36460,6 +36472,7 @@ divinize
 divinized
 divinizes
 divisibility
+divisible
 divisibly
 division
 divisional
@@ -46141,6 +46154,7 @@ fidgetinesses
 fidgeting
 fidgets
 fidgety
+fidging
 fido
 fidos
 fids
@@ -52306,6 +52320,7 @@ glassware
 glasswares
 glasswork
 glassworks
+glassworm
 glasswort
 glassworts
 glaucoma
@@ -52526,6 +52541,7 @@ glomeruli
 glomerulus
 glommed
 glomming
+glomus
 glonoin
 gloom
 gloomed
@@ -54901,6 +54917,7 @@ guv
 guy
 guyed
 guyline
+guylines
 guyots
 guzzle
 guzzler
@@ -61925,6 +61942,7 @@ inchoative
 inchoatives
 inchworm
 inchworms
+incidence
 incidences
 incident
 incidental
@@ -73364,6 +73382,7 @@ makimonos
 making
 mako
 makos
+makuta
 malabsorption
 malabsorptions
 malacca
@@ -76772,6 +76791,7 @@ miler
 milers
 miles
 milesian
+milesimo
 milesimos
 milestone
 milestones
@@ -89361,6 +89381,7 @@ owns
 owse
 owsen
 ox
+oxacillin
 oxacillins
 oxalacetates
 oxalated
@@ -91367,6 +91388,7 @@ patrollers
 patrolling
 patrolman
 patrolmen
+patron
 patronages
 patronal
 patronesses
@@ -105818,6 +105840,7 @@ registers
 registrable
 registrant
 registrants
+registrar
 registration
 registrations
 registry
@@ -110283,6 +110306,7 @@ roselle
 roselles
 rosemalings
 rosemary
+roseolar
 roseolas
 roseries
 roseroot
@@ -117601,6 +117625,7 @@ skoals
 skookum
 skort
 skorts
+skosh
 skreeghed
 skreeghs
 skreigh
@@ -119159,6 +119184,7 @@ sock
 sockdolager
 sockdolagers
 sockdologer
+sockdologers
 socked
 socket
 socketed
@@ -122697,6 +122723,7 @@ stilly
 stilt
 stilted
 stiltedly
+stilting
 stilts
 stime
 stimes
@@ -127777,6 +127804,7 @@ tanto
 tantra
 tantric
 tantrism
+tantrum
 tantrums
 tanuki
 tanukis
@@ -127825,6 +127853,7 @@ tapioca
 tapiocas
 tapir
 tapirs
+tapis
 tapises
 tappable
 tapped
@@ -128493,6 +128522,7 @@ telemetrically
 telemetry
 telencephala
 telencephalic
+telencephalon
 teleologic
 teleological
 teleologically
@@ -131956,6 +131986,7 @@ traject
 trajected
 trajecting
 trajection
+trajections
 trajects
 tram
 tramcar
@@ -137880,6 +137911,7 @@ unurged
 unusable
 unused
 unusual
+unusually
 unusualness
 unusualnesses
 unutilized
@@ -141013,6 +141045,7 @@ vulcanite
 vulcanites
 vulcanizate
 vulcanizates
+vulcanization
 vulcanizations
 vulcanize
 vulcanized
@@ -142287,6 +142320,7 @@ weltschmerz
 wen
 wench
 wencher
+wenchers
 wenches
 wend
 wended
@@ -144558,6 +144592,7 @@ yearlies
 yearling
 yearlings
 yearlong
+yearly
 yearn
 yearner
 yearners
