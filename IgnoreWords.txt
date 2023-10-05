@@ -661,6 +661,7 @@ aciculums
 acidemia
 acidhead
 acidic
+acidification
 acidifier
 acidifiers
 acidifies
@@ -2911,6 +2912,7 @@ allogamies
 allogamy
 allogeneic
 allogenic
+allografting
 allografts
 allograph
 allographic
@@ -6650,6 +6652,7 @@ artilleryman
 artillerymen
 artiness
 artiodactyl
+artiodactyls
 artisan
 artisanal
 artisans
@@ -10188,6 +10191,7 @@ becrime
 becrimed
 becrimes
 becriming
+becrowd
 becrowded
 becrowding
 becrowds
@@ -13438,6 +13442,7 @@ bohemianisms
 bohemians
 bohemias
 boho
+bohos
 bohrium
 bohriums
 bohunks
@@ -38277,6 +38282,7 @@ dustcovers
 dusted
 duster
 dusters
+dustheap
 dustheaps
 dustier
 dustily
@@ -40294,6 +40300,7 @@ enchainment
 enchainments
 enchains
 enchant
+enchanted
 enchanter
 enchanters
 enchanting
@@ -45154,6 +45161,7 @@ favours
 favus
 favuses
 fawn
+fawned
 fawners
 fawnier
 fawniest
@@ -46575,6 +46583,7 @@ fishy
 fissate
 fissile
 fissility
+fission
 fissionability
 fissionable
 fissionables
@@ -50872,6 +50881,7 @@ gastrulae
 gastrular
 gastrulas
 gastrulate
+gastrulated
 gastrulating
 gastrulation
 gastrulations
@@ -55200,6 +55210,7 @@ halbert
 halcyons
 hale
 haled
+haleness
 halenesses
 haler
 halers
@@ -56675,6 +56686,7 @@ helipads
 heliports
 helistop
 helium
+helix
 hellacious
 hellaciously
 hellbender
@@ -59251,6 +59263,7 @@ humpless
 humpy
 hums
 humungous
+humus
 humuses
 humvee
 humvees
@@ -66871,6 +66884,7 @@ kains
 kaiser
 kaiserdom
 kaiserdoms
+kaiserins
 kaiserism
 kaiserisms
 kaisers
@@ -71501,6 +71515,7 @@ lodged
 lodgement
 lodgements
 lodger
+lodges
 lodging
 lodgments
 lodicule
@@ -81840,6 +81855,7 @@ neutralism
 neutralisms
 neutralist
 neutralistic
+neutralists
 neutralities
 neutrality
 neutralize
@@ -85771,6 +85787,7 @@ optionee
 options
 optoelectronic
 optoelectronics
+optokinetic
 optometers
 optometries
 optometrist
@@ -86001,6 +86018,7 @@ orgasms
 orgastic
 orgeat
 orgeats
+orgiac
 orgiast
 orgiastic
 orgiastically
@@ -94762,6 +94780,7 @@ places
 placet
 placets
 placid
+placidities
 placidity
 placidly
 placidness
@@ -102113,6 +102132,7 @@ quislingisms
 quit
 quitch
 quitclaim
+quitclaims
 quite
 quitrent
 quitrents
@@ -104070,6 +104090,7 @@ recoiling
 recoilless
 recoinage
 recoined
+recoins
 recollect
 recollected
 recollecting
@@ -115934,6 +115955,7 @@ showers
 showery
 showgirl
 showier
+showiest
 showily
 showiness
 showinesses
@@ -119050,6 +119072,7 @@ solidify
 solidity
 solidly
 solidnesses
+solids
 solidus
 solifluction
 solifluctions
@@ -119132,6 +119155,7 @@ solvencies
 solvency
 solvent
 solventless
+solvents
 solver
 solvers
 solves
@@ -122315,6 +122339,7 @@ stillness
 stillroom
 stillrooms
 stills
+stilly
 stilt
 stilted
 stiltedly
@@ -127568,6 +127593,7 @@ tartufes
 tartuffe
 tarty
 tarweed
+tarweeds
 tarzan
 tarzans
 tas
@@ -129124,6 +129150,7 @@ theorbos
 theorem
 theoretic
 theoretically
+theoretician
 theories
 theorise
 theorised
@@ -130017,6 +130044,7 @@ til
 tilak
 tilaks
 tilapia
+tilapias
 tilbury
 tilde
 tile
@@ -130239,6 +130267,7 @@ tip
 tipcart
 tipcat
 tipcats
+tipi
 tipis
 tipoff
 tippable
@@ -130752,6 +130781,7 @@ tonoplast
 tonoplasts
 tons
 tonsil
+tonsillectomies
 tonsils
 tonsorial
 tonsure
@@ -133043,6 +133073,7 @@ trucks
 truculences
 truculencies
 truculency
+truculent
 truculently
 trudged
 trudgen
@@ -134247,6 +134278,7 @@ ultraradical
 ultrarapid
 ultrarare
 ultrararefied
+ultrarealism
 ultrarealisms
 ultrarealist
 ultrarealistic
@@ -138254,6 +138286,7 @@ utriculi
 utriculus
 uts
 utter
+utterable
 utterance
 utterances
 uttered
@@ -142026,6 +142059,7 @@ wheepled
 wheeples
 wheepling
 wheeps
+wheeze
 wheezed
 wheezer
 wheezers
@@ -144127,6 +144161,7 @@ yeasts
 yeasty
 yecch
 yecchs
+yech
 yechs
 yechy
 yeelin
