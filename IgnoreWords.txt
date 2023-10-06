@@ -1454,6 +1454,7 @@ advert
 adverted
 advertences
 advertencies
+advertency
 advertent
 adverting
 advertise
@@ -1471,6 +1472,7 @@ advertizes
 advertizing
 advertorial
 adverts
+advice
 advices
 advisabilities
 advisability
@@ -8956,6 +8958,7 @@ baldfaced
 baldhead
 baldheads
 baldies
+balding
 baldish
 baldly
 baldnesses
@@ -9436,6 +9439,7 @@ bargello
 bargellos
 barges
 barghest
+barghests
 barging
 barguest
 barguests
@@ -10454,6 +10458,7 @@ beefiest
 beefily
 beefiness
 beefing
+beefless
 beefs
 beefwood
 beefwoods
@@ -12904,6 +12909,7 @@ blissful
 blissfully
 blissfulnesses
 blissing
+blissless
 blister
 blistered
 blistering
@@ -14656,6 +14662,7 @@ brandying
 branks
 branned
 branners
+brannier
 brannigan
 branning
 branny
@@ -14764,6 +14771,7 @@ brawniness
 brawns
 brawny
 braws
+braxies
 brayer
 brayers
 braying
@@ -18498,6 +18506,7 @@ carryover
 carryovers
 cars
 carse
+carses
 cart
 cartable
 cartage
@@ -19758,6 +19767,7 @@ chaffinches
 chaffing
 chaffs
 chafing
+chagrin
 chagrined
 chagrining
 chagrinning
@@ -23872,6 +23882,7 @@ colliding
 collie
 collied
 collier
+collieries
 colliers
 colliery
 collies
@@ -26121,6 +26132,7 @@ contoured
 contouring
 contours
 contra
+contraband
 contrabandist
 contrabands
 contrabass
@@ -34328,6 +34340,7 @@ dickered
 dickering
 dickers
 dickey
+dickeys
 dickie
 dickies
 dickiest
@@ -39498,6 +39511,7 @@ ejaculatory
 eject
 ejecta
 ejected
+ejecting
 ejection
 ejections
 ejective
@@ -42406,6 +42420,7 @@ escalop
 escalope
 escalopes
 escaloping
+escalops
 escapable
 escapade
 escapades
@@ -46152,6 +46167,7 @@ fibreboard
 fibreboards
 fibrefill
 fibrefills
+fibreglasses
 fibres
 fibril
 fibrilla
@@ -50309,6 +50325,7 @@ fussing
 fusspot
 fusspots
 fussy
+fustian
 fustics
 fustier
 fustiest
@@ -50761,6 +50778,7 @@ gamekeepers
 gamelan
 gamely
 gamenesses
+gamer
 gamers
 gamesmanship
 gamesmanships
@@ -51679,6 +51697,7 @@ geochemists
 geochronologic
 geochronologies
 geochronologist
+geochronology
 geocorona
 geocoronas
 geode
@@ -53133,6 +53152,7 @@ golconda
 golcondas
 gold
 goldarn
+goldbrick
 goldbricked
 goldbricking
 goldbricks
@@ -55418,6 +55438,7 @@ haiks
 haiku
 hail
 hailed
+hailers
 hails
 hailstone
 hailstones
@@ -64925,6 +64946,7 @@ intragenic
 intramolecular
 intramural
 intramurally
+intramuscular
 intramuscularly
 intranasal
 intranet
@@ -65218,6 +65240,7 @@ invertin
 inverting
 invertins
 invertor
+invertors
 inverts
 invest
 investigated
@@ -74731,6 +74754,7 @@ mastoidectomies
 mastoidectomy
 mastoiditis
 mastoiditises
+mastoids
 mastopexies
 mastopexy
 masts
@@ -81274,6 +81298,7 @@ nailed
 nailer
 nailers
 nailfold
+nailfolds
 nailheads
 nailing
 nails
@@ -85178,6 +85203,7 @@ obturations
 obturator
 obturators
 obtuse
+obtusely
 obtuseness
 obtusenesses
 obtuser
@@ -87636,6 +87662,7 @@ outpatient
 outpatients
 outpeopled
 outpeopling
+outperform
 outperformed
 outpitch
 outpitched
@@ -95787,6 +95814,7 @@ plectron
 plectrum
 pled
 pledge
+pledged
 pledgeor
 pledgeors
 pledgers
@@ -107364,6 +107392,7 @@ repainting
 repaints
 repairability
 repaired
+repairers
 repairing
 repairman
 repairmen
@@ -112226,6 +112255,7 @@ santoors
 santour
 santur
 santurs
+sap
 sapajou
 sapajous
 sapanwoods
@@ -113252,6 +113282,7 @@ schoolmaster
 schoolmasterish
 schoolmasterly
 schoolmasters
+schoolmate
 schoolmistress
 schoolroom
 schoolrooms
@@ -119660,6 +119691,7 @@ solder
 solderabilities
 solderability
 soldered
+solderer
 soldering
 solders
 soldier
@@ -123417,6 +123449,7 @@ stories
 storing
 stork
 storks
+storksbill
 storksbills
 stormbound
 stormed
@@ -125143,6 +125176,7 @@ subvocalizes
 subvocalizing
 subway
 subwayed
+subways
 subwoofer
 subwoofers
 subwriter
@@ -137495,6 +137529,7 @@ unpitied
 unpitted
 unpitying
 unplaced
+unplait
 unplaited
 unplaiting
 unplaits
