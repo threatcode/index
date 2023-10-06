@@ -1198,6 +1198,7 @@ adjust
 adjustability
 adjustable
 adjusted
+adjuster
 adjustive
 adjustment
 adjustmental
@@ -7629,6 +7630,7 @@ attuning
 atwain
 atween
 atwitter
+atypic
 atypical
 atypicalities
 atypicality
@@ -12350,6 +12352,7 @@ birthwort
 birthworts
 biryani
 biryanis
+bis
 biscotti
 biscotto
 biscuit
@@ -16371,6 +16374,7 @@ busman
 busmen
 buss
 bussed
+busses
 bussing
 bussings
 bust
@@ -18699,6 +18703,7 @@ cassene
 cassenes
 casserole
 casseroles
+cassette
 cassia
 cassias
 cassimere
@@ -18708,6 +18713,7 @@ cassingles
 cassino
 cassinos
 cassis
+cassiterite
 cassock
 cassocks
 cassoulet
@@ -22144,6 +22150,7 @@ claptraps
 claque
 claquer
 claqueur
+claqueurs
 clarence
 clarences
 claret
@@ -23162,6 +23169,7 @@ cockeyedly
 cockeyedness
 cockeyednesses
 cockeyes
+cockfight
 cockfighting
 cockhorse
 cockhorses
@@ -29129,6 +29137,7 @@ crustiest
 crustily
 crustiness
 crustinesses
+crusting
 crustless
 crustose
 crusty
@@ -30490,6 +30499,7 @@ daleth
 daleths
 dalles
 dalliance
+dalliances
 dallied
 dallier
 dalliers
@@ -35633,6 +35643,7 @@ disgracefully
 disgracefulness
 disgracer
 disgracers
+disgraces
 disgracing
 disgruntle
 disgruntled
@@ -38786,6 +38797,7 @@ earless
 earlier
 earliness
 earlinesses
+earlobe
 earlock
 earls
 earlship
@@ -40487,6 +40499,7 @@ enacting
 enactive
 enactment
 enactments
+enactor
 enactors
 enactory
 enacts
@@ -45578,6 +45591,7 @@ fecial
 fecials
 feckless
 fecklessness
+fecklessnesses
 feckly
 fecks
 fecula
@@ -61034,6 +61048,7 @@ illuviating
 illuvium
 illuviums
 illy
+ilmenite
 ilmenites
 image
 imaged
@@ -64214,6 +64229,7 @@ interactants
 interacted
 interacting
 interaction
+interactional
 interactions
 interacts
 interage
@@ -68759,6 +68775,7 @@ kyanizes
 kyanizing
 kyar
 kyars
+kyat
 kybosh
 kyboshed
 kyboshes
@@ -70499,6 +70516,7 @@ lepton
 leptonic
 leptons
 leptophos
+leptophoses
 leptosome
 leptosomes
 leptospiral
@@ -88167,6 +88185,7 @@ outtrick
 outtricking
 outtricks
 outtrot
+outtrots
 outtrotting
 outtrump
 outtrumped
@@ -90182,6 +90201,7 @@ paleface
 palefaces
 palely
 paleness
+palenesses
 paleobiologies
 paleobiologist
 paleobiologists
@@ -92068,6 +92088,7 @@ peculiarly
 peculiars
 pecuniarily
 pecuniary
+pedagogic
 pedagogically
 pedagogy
 pedaled
@@ -98829,6 +98850,7 @@ preoccupation
 preoccupied
 preoccupies
 preoccupy
+preoccupying
 preop
 preopening
 preoperative
@@ -100090,6 +100112,7 @@ prognostics
 program
 programed
 programer
+programings
 programmability
 programmable
 programmables
@@ -102703,6 +102726,7 @@ quinidine
 quinidines
 quiniela
 quinielas
+quinin
 quinina
 quininas
 quinines
@@ -106675,6 +106699,7 @@ rejoices
 rejoicingly
 rejoicings
 rejoin
+rejoinder
 rejoined
 rejoining
 rejudge
@@ -109159,6 +109184,7 @@ reunite
 reunited
 reuniter
 reunites
+reuniting
 reupholstered
 reupholstering
 reupholsters
@@ -110592,6 +110618,7 @@ rooses
 roosing
 roost
 roosted
+roosters
 roosts
 root
 rootages
@@ -111711,6 +111738,7 @@ saggards
 saggared
 saggaring
 saggars
+sagged
 sagger
 saggered
 saggering
@@ -115310,6 +115338,7 @@ serging
 serial
 serialise
 serialised
+serialising
 serialism
 serialist
 serialists
@@ -115844,6 +115873,7 @@ shampooer
 shampooers
 shampooing
 shampoos
+shamrock
 shamrocks
 shams
 shamus
@@ -121255,6 +121285,7 @@ spiritualism
 spiritualisms
 spiritualist
 spiritualistic
+spiritualists
 spiritualities
 spirituality
 spiritualize
@@ -126933,6 +126964,7 @@ sweetsops
 swell
 swelled
 sweller
+swellfish
 swellfishes
 swellhead
 swellheaded
@@ -131413,6 +131445,7 @@ togues
 toil
 toile
 toiled
+toiler
 toilet
 toileted
 toileting
@@ -139502,6 +139535,7 @@ vandalised
 vandalises
 vandalish
 vandalisms
+vandalistic
 vandalization
 vandalized
 vandalizing
@@ -140794,6 +140828,7 @@ vines
 vineyard
 vineyardist
 vineyardists
+vineyards
 viniculture
 vinicultures
 vinier
