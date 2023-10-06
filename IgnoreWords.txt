@@ -5212,6 +5212,7 @@ antistat
 antistate
 antistatic
 antistats
+antistick
 antistories
 antistory
 antistress
@@ -7191,6 +7192,7 @@ astonies
 astonish
 astonished
 astonishes
+astonishing
 astonishingly
 astonishments
 astony
@@ -8718,6 +8720,7 @@ backyards
 baclofen
 bacon
 bacons
+bacteremia
 bacteremias
 bacteremic
 bacteria
@@ -15070,6 +15073,7 @@ brimfully
 brimless
 brimmed
 brimmer
+brimming
 brims
 brimstone
 brimstones
@@ -18758,6 +18762,7 @@ cataloger
 catalogers
 cataloging
 catalogs
+catalogue
 catalogued
 cataloguer
 cataloguers
@@ -21386,6 +21391,7 @@ chrysalid
 chrysalids
 chrysalises
 chrysanthemum
+chrysanthemums
 chrysarobin
 chrysarobins
 chrysoberyl
@@ -22808,6 +22814,7 @@ coacting
 coactions
 coactive
 coactors
+coacts
 coadaptations
 coadapted
 coadjutor
@@ -27671,6 +27678,7 @@ countrified
 country
 countryfied
 countryman
+countryseat
 countryside
 countrysides
 countrywide
@@ -30378,6 +30386,7 @@ dainty
 daiquiri
 daiquiris
 dairies
+dairy
 dairying
 dairyings
 dairyman
@@ -32369,6 +32378,7 @@ demasts
 dematerialize
 dematerialized
 deme
+demean
 demeaned
 demeaning
 demeanor
@@ -41998,6 +42008,7 @@ equationally
 equations
 equatorial
 equatorward
+equerries
 equerry
 equestrian
 equestrians
@@ -42193,6 +42204,7 @@ erode
 eroded
 erodent
 erodes
+erodibilities
 erodibility
 erodible
 eroding
@@ -45054,6 +45066,7 @@ fardels
 farding
 fards
 fare
+farebox
 fareboxes
 fared
 farers
@@ -47580,6 +47593,7 @@ florences
 florescence
 florescences
 florescent
+floret
 floriated
 floriations
 floricane
@@ -60327,6 +60341,7 @@ hyposensitizes
 hyposensitizing
 hypospadias
 hypospadiases
+hypostases
 hypostasis
 hypostatic
 hypostatically
@@ -60890,6 +60905,7 @@ imaged
 imager
 imageries
 imagers
+imagery
 images
 imaginable
 imaginably
@@ -63634,6 +63650,7 @@ insets
 insetter
 insheath
 insheathe
+insheathed
 insheathes
 insheathing
 insheaths
@@ -67848,6 +67865,7 @@ killdees
 killed
 killers
 killick
+killicks
 killies
 killifish
 killing
@@ -68119,6 +68137,7 @@ kittenishness
 kittenishnesses
 kittens
 kitties
+kitting
 kittiwake
 kittiwakes
 kittled
@@ -69604,6 +69623,7 @@ launching
 launchpad
 launchpads
 launder
+launderer
 launderers
 launderette
 launderettes
@@ -71724,6 +71744,7 @@ localizers
 localizes
 localizing
 locally
+localness
 localnesses
 locals
 locatable
@@ -78587,6 +78608,7 @@ moderne
 moderner
 modernes
 modernisation
+modernisations
 modernise
 modernised
 modernises
@@ -82637,6 +82659,7 @@ nitpicking
 nitpicks
 nitpicky
 nitrated
+nitrates
 nitrating
 nitration
 nitrations
@@ -86144,6 +86167,7 @@ optimized
 optimizer
 optimizers
 optimizes
+optimizing
 optimum
 optimums
 option
@@ -87407,6 +87431,7 @@ outlanders
 outlandish
 outlandishly
 outlast
+outlasted
 outlasts
 outlaugh
 outlaughed
@@ -96208,6 +96233,7 @@ poitrel
 poitrels
 pokable
 poke
+pokeberries
 pokeberry
 poked
 poker
@@ -113128,6 +113154,7 @@ schvartzes
 schwa
 schwarmerei
 schwarmereis
+schwartze
 schwartzes
 schwas
 sciaenid
@@ -114952,6 +114979,7 @@ septupling
 sepulcher
 sepulchered
 sepulchral
+sepulchrally
 sepulchred
 sepulchres
 sepulture
@@ -115738,6 +115766,7 @@ shealing
 shealings
 sheals
 sheared
+shearer
 shearers
 shearing
 shearings
@@ -116398,6 +116427,7 @@ shotting
 shotts
 should
 shoulder
+shouldered
 shouldering
 shoulders
 shout
@@ -121989,6 +122019,7 @@ stairwells
 staithe
 staithes
 staked
+stakeholder
 stakeholders
 stakeout
 stakeouts
@@ -123211,6 +123242,7 @@ stops
 stopwatch
 stopword
 stopwords
+storable
 storables
 storages
 storax
@@ -128585,6 +128617,7 @@ teffs
 tefillin
 teflon
 teg
+tegmen
 tegmenta
 tegmentum
 tegmina
@@ -129814,6 +129847,7 @@ thermojunction
 thermojunctions
 thermolabile
 thermometers
+thermometric
 thermometry
 thermoperiodism
 thermophile
@@ -136424,6 +136458,7 @@ unfavored
 unfavorite
 unfeared
 unfearing
+unfeasible
 unfeeling
 unfeelingly
 unfeelingness
