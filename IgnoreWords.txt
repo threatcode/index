@@ -2546,6 +2546,7 @@ alcids
 alcohol
 alcoholically
 alcoholisms
+alcohols
 alcove
 alcoves
 alcyonarian
@@ -12001,6 +12002,7 @@ bingos
 binit
 binnacle
 binnacles
+binned
 binning
 binocle
 binocles
@@ -16928,6 +16930,7 @@ caginesses
 caging
 cagy
 cahier
+cahiers
 cahoots
 cahows
 caid
@@ -19155,6 +19158,7 @@ causal
 causalgia
 causalgias
 causalgic
+causalities
 causally
 causals
 causation
@@ -21208,6 +21212,7 @@ cholers
 cholestases
 cholestasis
 cholestatic
+cholesteric
 cholesterol
 cholesterols
 cholestyramine
@@ -41794,6 +41799,7 @@ eparch
 eparchial
 eparchies
 eparchy
+epaulet
 epaulets
 epaulette
 epauletted
@@ -44320,6 +44326,7 @@ exserted
 exsertile
 exserting
 exsertion
+exserts
 exsiccated
 exsiccates
 exsiccation
@@ -47497,6 +47504,7 @@ fleetly
 fleetness
 fleetnesses
 fleets
+flehmen
 flehmened
 flehmening
 flehmens
@@ -59306,6 +59314,7 @@ hospitalizes
 hospitia
 hospitium
 hospodar
+hospodars
 host
 hosta
 hostage
@@ -60241,6 +60250,7 @@ hyper
 hyperacid
 hyperacidities
 hyperacidity
+hyperactive
 hyperactives
 hyperactivities
 hyperactivity
@@ -64520,6 +64530,7 @@ interferometers
 interferometry
 interferon
 interferons
+interfertile
 interfertility
 interfiber
 interfile
@@ -65735,6 +65746,7 @@ irrationally
 irrationals
 irrealities
 irreality
+irreclaimable
 irreclaimably
 irreconcilable
 irreconcilably
@@ -65945,6 +65957,7 @@ isocracies
 isocracy
 isocyanate
 isocyanates
+isocyclic
 isodose
 isoelectric
 isoelectronic
@@ -72837,6 +72850,7 @@ lugubrious
 lugubriously
 lugubriousness
 lugworm
+lukewarm
 lukewarmly
 lukewarmness
 lukewarmnesses
@@ -78519,6 +78533,7 @@ missaid
 missay
 missays
 misseat
+misseated
 misseating
 misseats
 missel
@@ -78599,6 +78614,7 @@ misstamping
 misstamps
 misstarted
 misstarting
+misstarts
 misstate
 misstated
 misstates
@@ -81755,6 +81771,7 @@ nasturtium
 nasty
 natal
 natalities
+natality
 natant
 natantly
 natation
@@ -84455,6 +84472,7 @@ norethindrone
 norethindrones
 nori
 noria
+norias
 noris
 norite
 norites
@@ -85316,6 +85334,7 @@ observationally
 observations
 observatories
 observatory
+observe
 observed
 observer
 observers
@@ -85762,6 +85781,7 @@ offertory
 offhand
 offhanded
 offhandedness
+offhandednesses
 office
 officeholder
 officeholders
@@ -86671,6 +86691,7 @@ ordinaries
 ordinariest
 ordinarily
 ordinariness
+ordinarinesses
 ordinary
 ordinate
 ordinates
@@ -101443,6 +101464,7 @@ pterosaur
 pterygial
 pterygium
 pterygoid
+pterygoids
 pterylae
 ptisan
 ptisans
@@ -107497,6 +107519,7 @@ renewing
 renews
 reniform
 renigged
+renigging
 renigs
 renin
 renins
@@ -117278,6 +117301,7 @@ siderites
 siderolite
 siderolites
 sideroses
+siderosis
 siderotic
 sides
 sidesaddle
@@ -118274,6 +118298,7 @@ skullcap
 skullcaps
 skullduggeries
 skullduggery
+skulled
 skulling
 skulls
 skunk
@@ -120381,6 +120406,7 @@ sophist
 sophistic
 sophistically
 sophisticate
+sophisticated
 sophisticates
 sophisticating
 sophistications
@@ -123388,6 +123414,7 @@ stimulate
 stimulated
 stimulates
 stimulating
+stimulation
 stimulations
 stimulator
 stimulators
@@ -130607,6 +130634,7 @@ thong
 thonged
 thongs
 thoracal
+thoraces
 thoracic
 thoracically
 thoracotomies
@@ -133878,6 +133906,7 @@ tristimulus
 trisubstituted
 trisulfide
 trisulfides
+trisyllabic
 trisyllables
 trite
 tritely
@@ -134281,6 +134310,7 @@ trunk
 trunked
 trunkfish
 trunkfishes
+trunkful
 trunkfuls
 trunks
 trunnel
@@ -135094,6 +135124,7 @@ tympanies
 tympanist
 tympanists
 tympanites
+tympanitic
 tympano
 tympanums
 tympany
@@ -135648,6 +135679,7 @@ unalterable
 unalterably
 unaltered
 unamassed
+unamazed
 unambiguous
 unambitious
 unambivalent
@@ -139514,6 +139546,7 @@ vacated
 vacates
 vacation
 vacationed
+vacationer
 vacationers
 vacationing
 vacationist
@@ -143188,6 +143221,7 @@ whang
 whanged
 whangee
 whangees
+whanging
 whangs
 whap
 whapped
@@ -145947,6 +145981,7 @@ zither
 zitherist
 zitherists
 zithern
+zitherns
 zithers
 ziti
 zitis
