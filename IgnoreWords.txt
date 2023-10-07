@@ -319,6 +319,7 @@ accentor
 accents
 accentually
 accentuate
+accentuated
 accentuating
 accentuation
 accentuations
@@ -2395,6 +2396,7 @@ airwave
 airwaves
 airway
 airways
+airwise
 airwoman
 airwomen
 airworthiest
@@ -7600,6 +7602,7 @@ attestation
 attestations
 attested
 attester
+attesters
 attesting
 attestor
 attestors
@@ -11798,6 +11801,7 @@ bigeyes
 bigfeet
 bigfooted
 bigfooting
+bigfoots
 bigger
 biggety
 biggie
@@ -15560,6 +15564,7 @@ browsable
 browsables
 browse
 browsed
+browser
 browsers
 browses
 browsing
@@ -16259,6 +16264,7 @@ burgoos
 burgout
 burgouts
 burgrave
+burgraves
 burgs
 burgundies
 burgundy
@@ -16676,6 +16682,7 @@ bynames
 bypass
 bypassed
 bypast
+bypath
 bypaths
 byplays
 byproduct
@@ -19866,6 +19873,7 @@ chador
 chadri
 chads
 chaebol
+chaebols
 chaeta
 chaetae
 chaetal
@@ -24700,6 +24708,7 @@ comparably
 comparatists
 comparative
 comparatively
+comparativeness
 comparatives
 comparativists
 comparator
@@ -30842,6 +30851,7 @@ daredeviltry
 dareful
 darers
 dares
+daresay
 daric
 daringly
 daringness
@@ -36012,6 +36022,8 @@ dismal
 dismaler
 dismalest
 dismally
+dismalness
+dismalnesses
 dismals
 dismantle
 dismantled
@@ -41092,6 +41104,7 @@ endowment
 endowments
 endows
 endozoic
+endpaper
 endpapers
 endplates
 endplayed
@@ -42881,6 +42894,7 @@ estrual
 estrum
 estrums
 estrus
+estruses
 estuarial
 estuaries
 estuarine
@@ -43286,6 +43300,7 @@ eustasy
 eustatic
 eustele
 eusteles
+eutaxies
 eutaxy
 eutectic
 eutectics
@@ -43489,6 +43504,7 @@ evocativeness
 evocativenesses
 evocator
 evocators
+evoked
 evoker
 evokers
 evokes
@@ -48927,6 +48943,7 @@ forestations
 forestays
 forestaysail
 forestaysails
+forested
 forester
 foresters
 forestial
@@ -64401,6 +64418,7 @@ insuring
 insurmountably
 insurrection
 insurrectional
+insurrectionist
 insurrections
 insusceptible
 inswathe
@@ -65685,6 +65703,7 @@ involucra
 involucral
 involucrate
 involucres
+involuntarily
 involuntariness
 involuntary
 involute
@@ -72119,6 +72138,7 @@ loadmasters
 loads
 loadstar
 loadstars
+loadstone
 loaf
 loafed
 loafer
@@ -73792,6 +73812,7 @@ magnetometer
 magnetometers
 magnetometry
 magneton
+magnetons
 magnetopauses
 magnetos
 magnetosphere
@@ -76931,6 +76952,7 @@ mib
 mibs
 mica
 micaceous
+micas
 micawber
 mice
 micell
@@ -88026,6 +88048,7 @@ outlawry
 outlaws
 outlead
 outleading
+outleap
 outleaped
 outleaping
 outleaps
@@ -88487,6 +88510,7 @@ outstrive
 outstriven
 outstrives
 outstriving
+outstrode
 outstroke
 outstrove
 outstudied
@@ -95241,6 +95265,7 @@ pilonidal
 pilose
 pilosities
 pilosity
+pilot
 pilotage
 pilotages
 piloted
@@ -95359,6 +95384,7 @@ pingrass
 pingrasses
 pinguid
 pinhead
+pinheaded
 pinheadedness
 pinheadednesses
 pinheads
@@ -104038,6 +104064,7 @@ rapidness
 rapids
 rapier
 rapine
+raping
 rapini
 rapist
 rapists
@@ -106692,6 +106719,7 @@ reglazes
 reglazing
 reglorified
 reglorifies
+reglorifying
 regloss
 reglossed
 reglossing
@@ -118586,6 +118614,7 @@ skunk
 skunked
 skunkier
 skunking
+skunks
 skunkweed
 skunkweeds
 skunky
@@ -121495,6 +121524,7 @@ spermaries
 spermary
 spermatia
 spermatic
+spermatid
 spermatids
 spermatium
 spermatocyte
@@ -129047,6 +129077,7 @@ tasteless
 tastelessness
 tastelessnesses
 tastemakers
+taster
 tasters
 tastes
 tastier
@@ -129496,6 +129527,7 @@ telecasts
 telecom
 telecommute
 telecommuted
+telecommuter
 telecommuters
 telecommutes
 telecommuting
@@ -130270,6 +130302,7 @@ tetanising
 tetanization
 tetanizations
 tetanize
+tetanized
 tetanizing
 tetanoid
 tetanuses
@@ -134553,6 +134586,7 @@ truckmaster
 truckmasters
 truckmen
 trucks
+truculence
 truculences
 truculencies
 truculency
@@ -134956,6 +134990,7 @@ tuners
 tunes
 tunesmith
 tunesmiths
+tuneup
 tuneups
 tung
 tungs
