@@ -71,6 +71,7 @@ abscisin
 abscising
 abscisins
 abscissa
+abscissae
 abscissas
 abscissions
 abscond
@@ -4379,6 +4380,7 @@ animations
 animatism
 animatisms
 animatist
+animato
 animator
 animators
 animatronic
@@ -16692,6 +16694,7 @@ bylining
 bynames
 bypass
 bypassed
+bypasses
 bypast
 bypath
 bypaths
@@ -16772,6 +16775,7 @@ cabined
 cabinet
 cabinetmaker
 cabinetmakers
+cabinetmaking
 cabinetmakings
 cabinetries
 cabinetry
@@ -26511,6 +26515,7 @@ conversion
 conversional
 converso
 conversos
+convert
 convertaplane
 convertaplanes
 converted
@@ -37908,6 +37913,7 @@ drapeable
 draper
 draperied
 draperies
+drapers
 drapery
 draping
 drastically
@@ -40491,6 +40497,7 @@ emeriti
 emerods
 emeroid
 emersed
+emersion
 emersions
 emes
 emeses
@@ -42455,6 +42462,7 @@ erasions
 erasure
 erasures
 erbium
+erbiums
 ere
 erect
 erected
@@ -43544,6 +43552,7 @@ evolutionism
 evolutionist
 evolutionists
 evolutions
+evolvable
 evolve
 evolved
 evolvement
@@ -44888,6 +44897,7 @@ fables
 fabliau
 fabliaux
 fabling
+fabric
 fabricant
 fabricants
 fabricate
@@ -47900,6 +47910,7 @@ flong
 flongs
 flooded
 flooders
+floodgate
 flooding
 floodlight
 floodlighted
@@ -49157,6 +49168,7 @@ formica
 formicaries
 formicas
 formidabilities
+formidable
 formidableness
 forming
 formless
@@ -54265,6 +54277,7 @@ gravenesses
 graver
 gravers
 graves
+graveside
 gravesides
 gravesite
 gravesites
@@ -62868,6 +62881,7 @@ indecomposable
 indecorous
 indecorously
 indecorousness
+indecorum
 indecorums
 indeed
 indefatigable
@@ -63164,6 +63178,7 @@ induing
 indulge
 indulged
 indulgence
+indulgences
 indulgent
 indulger
 indulgers
@@ -65570,6 +65585,7 @@ invalids
 invaluable
 invaluableness
 invaluably
+invar
 invariability
 invariable
 invariables
@@ -71932,6 +71948,7 @@ listening
 listens
 lister
 listeria
+listerias
 listerioses
 listeriosis
 listers
@@ -75648,6 +75665,7 @@ meaty
 mecamylamine
 mecamylamines
 mecca
+mechanic
 mechanical
 mechanically
 mechanicals
@@ -80562,6 +80580,7 @@ movability
 movable
 movableness
 movables
+movably
 move
 moveable
 moveables
@@ -82444,10 +82463,12 @@ neist
 neither
 nektonic
 nellie
+nellies
 nelson
 nelsons
 nelumbium
 nelumbiums
+nelumbo
 nelumbos
 nema
 nematic
@@ -84530,6 +84551,7 @@ nonsocialists
 nonsolar
 nonsolid
 nonsolution
+nonspatial
 nonspeaker
 nonspeakers
 nonspeaking
@@ -91487,6 +91509,7 @@ parcel
 parceled
 parceling
 parcelled
+parcelling
 parcels
 parcenaries
 parcenary
@@ -99140,6 +99163,7 @@ prehominid
 prehominids
 prehumans
 preignition
+preignitions
 preimplantation
 preimposed
 preimposes
@@ -99475,6 +99499,7 @@ prepubertal
 prepuberties
 prepuberty
 prepubes
+prepubescence
 prepubescences
 prepubescent
 prepubescents
@@ -105421,6 +105446,7 @@ reconfiguring
 reconfine
 reconfined
 reconfines
+reconfirm
 reconfirmation
 reconfirmations
 reconfirmed
@@ -107660,6 +107686,7 @@ remissness
 remit
 remitment
 remitments
+remits
 remittable
 remittal
 remittals
@@ -108866,6 +108893,7 @@ resigner
 resigners
 resigns
 resile
+resiles
 resilience
 resiliences
 resiliency
@@ -123888,6 +123916,7 @@ stitches
 stitching
 stitchwort
 stitchworts
+stithies
 stithy
 stithying
 stivers
@@ -124796,6 +124825,7 @@ studentships
 studfishes
 studhorses
 studied
+studiedly
 studiedness
 studier
 studiers
@@ -130514,6 +130544,7 @@ thallophytic
 thallous
 thallus
 thalluses
+thalweg
 thalwegs
 thanage
 thanages
@@ -132736,6 +132767,7 @@ tottery
 toucan
 toucans
 touch
+touchback
 touchbacks
 touchdown
 touchdowns
@@ -133117,6 +133149,7 @@ training
 trainings
 trainload
 trainloads
+trainman
 trainmen
 trains
 trainway
@@ -133159,6 +133192,7 @@ trammelling
 trammels
 tramming
 tramontane
+tramontanes
 tramp
 tramped
 tramper
@@ -134888,6 +134922,7 @@ tubificids
 tubiform
 tubing
 tubings
+tubist
 tubists
 tubocurarine
 tubocurarines
