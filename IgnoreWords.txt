@@ -921,6 +921,7 @@ activated
 activates
 activating
 activation
+activations
 active
 actively
 activeness
@@ -2934,6 +2935,7 @@ alliterate
 alliterates
 alliterating
 alliteration
+alliterations
 alliteratively
 allium
 alloantibody
@@ -7781,6 +7783,7 @@ augers
 aught
 aughts
 augite
+augites
 augitic
 augment
 augmentations
@@ -10364,6 +10367,7 @@ becudgelled
 becudgelling
 becursing
 becurst
+bed
 bedabble
 bedabbled
 bedabbles
@@ -18179,6 +18183,7 @@ caraway
 caraways
 carb
 carbachols
+carbamate
 carbamates
 carbamic
 carbamides
@@ -18323,6 +18328,7 @@ cardholders
 cardia
 cardiac
 cardiacs
+cardiae
 cardias
 cardigan
 cardigans
@@ -18759,6 +18765,7 @@ cascaded
 cascades
 cascading
 cascara
+cascaras
 cascarilla
 cascarillas
 case
@@ -19472,6 +19479,7 @@ celebs
 celeriac
 celeriacs
 celeries
+celerity
 celery
 celesta
 celeste
@@ -25144,6 +25152,7 @@ conceivability
 conceivable
 conceive
 conceived
+conceiver
 conceivers
 conceives
 conceiving
@@ -30670,6 +30679,7 @@ daiker
 daikered
 daikering
 daikers
+daikons
 dailies
 dailiness
 dailinesses
@@ -36908,6 +36918,7 @@ divulsing
 divulsion
 divulsions
 divulsive
+divvied
 divvies
 divvy
 divvying
@@ -41409,6 +41420,7 @@ enisling
 enjambed
 enjambement
 enjambements
+enjambment
 enjambments
 enjoinder
 enjoinders
@@ -46133,6 +46145,7 @@ feminized
 feminizes
 feminizing
 femme
+femmes
 femora
 fems
 femtosecond
@@ -46436,6 +46449,7 @@ feuar
 feud
 feudal
 feudalism
+feudalisms
 feudalist
 feudalistic
 feudalists
@@ -48207,6 +48221,7 @@ fluidizers
 fluidizes
 fluidizing
 fluidly
+fluidness
 fluidnesses
 fluidram
 fluish
@@ -64196,6 +64211,7 @@ inscriber
 inscribers
 inscribes
 inscribing
+inscription
 inscriptional
 inscriptions
 inscriptive
@@ -64709,6 +64725,7 @@ interarches
 interarching
 interbank
 interbasin
+interbedded
 interbedding
 interbeds
 interbehavioral
@@ -65679,6 +65696,7 @@ invalidate
 invalidates
 invalidation
 invalidations
+invalidator
 invalidators
 invalided
 invaliding
@@ -70579,6 +70597,7 @@ learn
 learned
 learnedly
 learnedness
+learnednesses
 learners
 learning
 learnings
@@ -80843,6 +80862,7 @@ muddleheadedly
 muddler
 muddlers
 muddles
+muddling
 muddly
 muddy
 muddying
@@ -82081,6 +82101,7 @@ narcissist
 narcissistic
 narcissists
 narcissus
+narcist
 narcistic
 narcists
 narcolepsies
@@ -82579,6 +82600,7 @@ negritudes
 negronis
 negrophils
 negrophobes
+negrophobia
 negrophobias
 negs
 negus
@@ -82791,6 +82813,7 @@ nerve
 nerved
 nerveless
 nervelessly
+nervelessness
 nervelessnesses
 nerves
 nervier
@@ -90652,6 +90675,7 @@ padronisms
 pads
 padshah
 padshahs
+paduasoy
 paduasoys
 paean
 paeanism
@@ -91605,6 +91629,7 @@ parasang
 parasangs
 parasexual
 parasexuality
+parashah
 parashahs
 parashioth
 parashot
@@ -100176,6 +100201,7 @@ prewashed
 preweaning
 preweigh
 preweighing
+preweighs
 prewire
 prewiring
 prework
@@ -105161,6 +105187,7 @@ rebounder
 rebounders
 rebounding
 rebounds
+rebozo
 rebozos
 rebranch
 rebranching
@@ -106075,6 +106102,7 @@ redigestions
 redigests
 redigress
 redigressed
+redigresses
 redigressing
 reding
 redingotes
@@ -106758,6 +106786,7 @@ refractions
 refractive
 refractively
 refractiveness
+refractivities
 refractometer
 refractometers
 refractometric
@@ -110877,6 +110906,7 @@ rinser
 rinses
 rinsing
 riojas
+riot
 rioted
 rioter
 rioting
@@ -111444,6 +111474,7 @@ roping
 roque
 roquelaure
 roquelaures
+roques
 roquet
 roqueted
 roqueting
@@ -115933,6 +115964,7 @@ sentimental
 sentimentalised
 sentimentalises
 sentimentalism
+sentimentalisms
 sentimentalist
 sentimentalists
 sentimentality
@@ -123136,6 +123168,7 @@ stairwell
 stairwells
 staithe
 staithes
+stake
 staked
 stakeholder
 stakeholders
@@ -131611,6 +131644,7 @@ thunderstones
 thunderstorm
 thunderstricken
 thunderstrike
+thunderstriking
 thunderstruck
 thunk
 thunked
@@ -140113,6 +140147,7 @@ useful
 usefully
 usefulness
 usefulnesses
+uselessly
 uselessness
 uselessnesses
 user
