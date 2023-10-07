@@ -4126,6 +4126,7 @@ androecia
 androgen
 androgeneses
 androgenesis
+androgenetic
 androgenic
 androgyne
 androgynes
@@ -4527,6 +4528,7 @@ anodize
 anodized
 anodizes
 anodizing
+anodyne
 anodynes
 anodynic
 anoint
@@ -11389,6 +11391,7 @@ beta
 betaine
 betake
 betaken
+betakes
 betaking
 betas
 betatrons
@@ -19452,6 +19455,7 @@ cellulitises
 celluloid
 celluloids
 cellulolytic
+cellulose
 celluloses
 cellulosic
 cellulosics
@@ -19874,6 +19878,7 @@ chagrining
 chagrinning
 chagrins
 chai
+chain
 chained
 chaines
 chainfalls
@@ -20867,6 +20872,7 @@ chilidogs
 chilies
 chilis
 chill
+chilled
 chiller
 chillers
 chillest
@@ -30349,6 +30355,7 @@ cysteins
 cystic
 cysticerci
 cysticercoid
+cysticercoids
 cysticercoses
 cysticercosis
 cysticercus
@@ -38523,6 +38530,7 @@ dumpers
 dumpier
 dumpiest
 dumpily
+dumpiness
 dumpinesses
 dumpings
 dumpish
@@ -42174,6 +42182,7 @@ epithelioid
 epithelioma
 epitheliomas
 epitheliomata
+epitheliomatous
 epithelium
 epitheliums
 epithelization
@@ -42415,6 +42424,7 @@ erethitic
 erewhile
 erewhiles
 erg
+ergastic
 ergastoplasm
 ergastoplasms
 ergate
@@ -47660,6 +47670,7 @@ flibbertigibbet
 flic
 flichter
 flichtered
+flichtering
 flichters
 flickable
 flicked
@@ -50823,6 +50834,7 @@ galenical
 galenicals
 galenite
 galenites
+galere
 galeres
 gales
 galette
@@ -59999,6 +60011,7 @@ hurtless
 hurtling
 hurts
 husband
+husbander
 husbanders
 husbanding
 husbandly
@@ -64964,6 +64977,7 @@ interpretations
 interpreted
 interpreter
 interpreters
+interpreting
 interpretive
 interpretively
 interprets
@@ -72962,6 +72976,7 @@ luffing
 luftmenschen
 lug
 luge
+luged
 lugeing
 luger
 luges
@@ -82829,6 +82844,7 @@ newsprint
 newsreader
 newsreaders
 newsreel
+newsreels
 newsroom
 newsrooms
 newsstand
@@ -84538,6 +84554,7 @@ nonvectors
 nonvegetarian
 nonvegetarians
 nonvenomous
+nonvenous
 nonverbal
 nonverbally
 nonvested
@@ -86623,6 +86640,7 @@ oppositionists
 oppositions
 oppress
 oppressing
+oppression
 oppressions
 oppressive
 oppressively
@@ -90147,6 +90165,7 @@ oxysalt
 oxysalts
 oxysomes
 oxytetracycline
+oxytocics
 oxytocin
 oxytocins
 oxytone
@@ -94514,6 +94533,7 @@ photophore
 photophores
 photopia
 photopias
+photopic
 photoplay
 photoplays
 photopolymer
@@ -99174,6 +99194,7 @@ premune
 premunition
 premunitions
 premycotic
+prename
 prenames
 prenatal
 prenomen
@@ -101848,6 +101869,7 @@ pulpits
 pulpous
 pulps
 pulpwoods
+pulque
 pulques
 puls
 pulsant
@@ -107090,6 +107112,7 @@ rejoin
 rejoinder
 rejoined
 rejoining
+rejoins
 rejudge
 rejuggle
 rejuggled
@@ -107719,6 +107742,7 @@ rennin
 renographic
 renographies
 renography
+renominated
 renominating
 renomination
 renominations
@@ -110274,6 +110298,7 @@ ridgelings
 ridgels
 ridgepole
 ridgepoles
+ridges
 ridgetop
 ridgetops
 ridgiest
@@ -110805,6 +110830,7 @@ rockiness
 rockinesses
 rocking
 rockingly
+rockless
 rocklike
 rockoon
 rockoons
@@ -111749,6 +111775,7 @@ runrounds
 runs
 runt
 runtier
+runtiest
 runtiness
 runtinesses
 runtishly
@@ -119592,6 +119619,7 @@ sneakily
 sneakiness
 sneakinesses
 sneaking
+sneakingly
 sneaks
 sneaky
 sneap
@@ -122176,6 +122204,7 @@ spriggers
 spriggiest
 sprigging
 sprightful
+sprightfully
 sprightfulness
 sprightliest
 sprightliness
@@ -122441,6 +122470,7 @@ squeaked
 squeaker
 squeakers
 squeakier
+squeakily
 squeal
 squealed
 squealer
@@ -124695,6 +124725,7 @@ stuntmen
 stunts
 stuntwoman
 stupa
+stupas
 stupe
 stupefaction
 stupefactions
@@ -130461,6 +130492,7 @@ theodolite
 theodolites
 theogony
 theolog
+theologian
 theologians
 theologic
 theological
@@ -132961,6 +132993,7 @@ tramline
 tramlines
 trammed
 trammel
+trammeled
 trammeler
 trammelers
 trammeling
@@ -142390,6 +142423,7 @@ wall
 walla
 wallabies
 wallaby
+wallah
 wallahs
 wallas
 wallboards
@@ -145343,6 +145377,7 @@ xanthein
 xantheins
 xanthene
 xanthenes
+xanthic
 xanthin
 xanthine
 xanthines
