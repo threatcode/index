@@ -135,6 +135,7 @@ absorbencies
 absorbency
 absorbent
 absorbents
+absorber
 absorbing
 absorptances
 absorption
@@ -1999,6 +2000,7 @@ agglutinins
 agglutinogenic
 agglutinogens
 aggradation
+aggradations
 aggrade
 aggraded
 aggrading
@@ -5711,6 +5713,7 @@ apparent
 apparently
 apparentness
 apparentnesses
+apparition
 apparitions
 appeal
 appealable
@@ -5912,6 +5915,7 @@ appropriation
 appropriations
 appropriative
 appropriator
+appropriators
 approvable
 approvably
 approval
@@ -9875,6 +9879,7 @@ bathed
 bathers
 bathes
 bathetic
+bathhouse
 bathhouses
 bathless
 bathmat
@@ -14651,6 +14656,7 @@ braininesses
 braining
 brainless
 brainlessly
+brainlessness
 brainlessnesses
 brainpan
 brainpans
@@ -20821,6 +20827,7 @@ chigoes
 chilblain
 chilblains
 child
+childbearing
 childbearings
 childbed
 childbirths
@@ -21387,6 +21394,7 @@ choused
 chousers
 choush
 choushes
+chousing
 chowchow
 chowchows
 chowderhead
@@ -24294,6 +24302,7 @@ combinable
 combination
 combinations
 combinative
+combinatorially
 combinatorics
 combinatory
 combine
@@ -28006,6 +28015,7 @@ coverup
 coves
 covet
 covetable
+coveted
 coveter
 coveters
 coveting
@@ -29926,6 +29936,7 @@ cushat
 cushats
 cushaw
 cushaws
+cushiest
 cushily
 cushiness
 cushinesses
@@ -34260,6 +34271,7 @@ dialogue
 dialogued
 dialoguer
 dialoguers
+dialoguing
 dials
 dialysate
 dialysates
@@ -35370,6 +35382,7 @@ disbranch
 disbranched
 disbranches
 disbranching
+disbud
 disbudded
 disburden
 disburdened
@@ -36243,6 +36256,7 @@ disrober
 disrobers
 disrobes
 disroot
+disrooted
 disrooting
 disroots
 disrupt
@@ -40901,6 +40915,7 @@ endives
 endleaf
 endleafs
 endleaves
+endlessly
 endlessness
 endlessnesses
 endlong
@@ -46569,6 +46584,7 @@ filament
 filamentary
 filamentous
 filaments
+filaree
 filarees
 filaria
 filariae
@@ -48160,6 +48176,7 @@ fluxional
 fluxions
 fluyt
 fluyts
+fly
 flyaway
 flyaways
 flybelt
@@ -48371,6 +48388,7 @@ folklorist
 folkloristic
 folkmoot
 folkmoots
+folkmot
 folkmote
 folkmotes
 folkmots
@@ -48692,6 +48710,7 @@ forecasting
 forecasts
 forechecked
 forechecker
+forechecking
 forechecks
 foreclose
 foreclosed
@@ -56675,6 +56694,7 @@ havocker
 havockers
 havocking
 havocs
+haw
 hawala
 hawalas
 hawed
@@ -60277,6 +60297,7 @@ hygrophytes
 hygroscopic
 hygroscopicity
 hygrostats
+hying
 hyla
 hylas
 hylozoic
@@ -60805,6 +60826,7 @@ icebreaker
 icebreakers
 icecap
 icecaps
+iced
 icefall
 icehouse
 icehouses
@@ -75948,6 +75970,7 @@ membership
 memberships
 membranal
 membrane
+membraned
 membranes
 membranous
 membranously
@@ -80788,6 +80811,7 @@ multiparticle
 multipartite
 multiparty
 multipath
+multiped
 multipede
 multipedes
 multiphase
@@ -81351,6 +81375,7 @@ mycoplasmata
 mycorhiza
 mycorhizae
 mycorhizas
+mycorrhiza
 mycorrhizae
 mycorrhizal
 mycotic
@@ -84209,6 +84234,7 @@ nonplays
 nonpliant
 nonplus
 nonplused
+nonpluses
 nonplussed
 nonplusses
 nonpoetic
@@ -92182,6 +92208,7 @@ paynim
 paynims
 payoff
 payoffs
+payolas
 payor
 payors
 payout
@@ -99995,6 +100022,7 @@ princox
 princoxes
 prink
 prinked
+prinker
 prinkers
 prinks
 print
@@ -117515,6 +117543,7 @@ sifter
 sifters
 sifting
 siftings
+sifts
 siganid
 siganids
 sigh
@@ -120962,6 +120991,7 @@ spamming
 spams
 span
 spanakopita
+spanakopitas
 spancel
 spanceled
 spanceling
@@ -128087,6 +128117,7 @@ tablemates
 tables
 tablesful
 tablespoon
+tablespoonful
 tablespoonfuls
 tablespoons
 tablespoonsful
@@ -128800,6 +128831,7 @@ taros
 tarot
 tarots
 tarp
+tarpan
 tarpaper
 tarpapers
 tarpaulin
@@ -137946,6 +137978,7 @@ unmuffled
 unmuffling
 unmusical
 unmuzzle
+unmuzzled
 unmuzzles
 unmuzzling
 unmyelinated
@@ -139364,6 +139397,7 @@ upwaft
 upwafted
 upwafts
 upward
+upwardly
 upwardness
 upwardnesses
 upwards
@@ -142485,6 +142519,7 @@ wareroom
 warerooms
 wares
 warfares
+warfarins
 warhead
 warheads
 warhorse
