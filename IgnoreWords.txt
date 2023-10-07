@@ -2890,6 +2890,7 @@ alleviant
 alleviants
 alleviate
 alleviated
+alleviates
 alleviations
 alleviator
 alleviators
@@ -2939,6 +2940,7 @@ allogamies
 allogamy
 allogeneic
 allogenic
+allograft
 allografting
 allografts
 allograph
@@ -7578,6 +7580,7 @@ attestations
 attested
 attester
 attesting
+attestor
 attestors
 attic
 atticism
@@ -7925,6 +7928,7 @@ autocracies
 autocracy
 autocrat
 autocratic
+autocratical
 autocratically
 autocrats
 autocrine
@@ -16271,6 +16275,7 @@ burnishers
 burnishings
 burnoose
 burnoosed
+burnooses
 burnous
 burnouses
 burnout
@@ -20550,6 +20555,7 @@ cheloid
 cheloids
 chelonian
 chelonians
+chemic
 chemical
 chemics
 chemise
@@ -21394,6 +21400,7 @@ christianias
 christies
 christy
 chroma
+chromaffin
 chromas
 chromate
 chromates
@@ -22309,6 +22316,7 @@ claughted
 claughting
 claughts
 clausal
+clause
 clauses
 claustra
 claustral
@@ -29667,6 +29675,7 @@ curacao
 curacaos
 curacies
 curacoa
+curacoas
 curagh
 curaghs
 curandera
@@ -32721,6 +32730,7 @@ demountable
 demounting
 demounts
 dempster
+dempsters
 demulsified
 demulsifies
 demulsifying
@@ -38606,6 +38616,7 @@ durocs
 durometer
 duros
 durr
+durra
 durras
 durrie
 durries
@@ -43489,6 +43500,7 @@ examples
 exampling
 exams
 exanimate
+exanthem
 exanthema
 exanthemas
 exanthemata
@@ -48048,6 +48060,7 @@ fluorocarbons
 fluorochromes
 fluorographic
 fluorographies
+fluorometer
 fluorometers
 fluorometric
 fluorometries
@@ -48181,6 +48194,7 @@ foamflower
 foamflowers
 foamily
 foaminess
+foaminesses
 foaming
 foamless
 foamlike
@@ -48397,6 +48411,7 @@ fontanels
 fontina
 fontinas
 fonts
+food
 foodie
 foodies
 foodless
@@ -50403,6 +50418,7 @@ furriness
 furrinesses
 furring
 furrings
+furrow
 furrowed
 furrower
 furrowers
@@ -55456,6 +55472,7 @@ hackable
 hackamore
 hackberries
 hackbut
+hackbuts
 hacked
 hackee
 hackees
@@ -65289,6 +65306,7 @@ intuitionisms
 intuitionist
 intuitionists
 intuitions
+intuitive
 intuitively
 intuitivenesses
 intuits
@@ -68080,6 +68098,7 @@ kibbis
 kibbitz
 kibbitzed
 kibbitzer
+kibbitzers
 kibbitzes
 kibbitzing
 kibble
@@ -69299,6 +69318,7 @@ lallygags
 lam
 lama
 lamas
+lamaseries
 lamasery
 lamb
 lambada
@@ -74526,6 +74546,7 @@ marcellers
 marcelling
 marcels
 march
+marched
 marchen
 marcher
 marchers
@@ -85609,6 +85630,7 @@ octahedrons
 octal
 octameters
 octan
+octane
 octanes
 octangle
 octangles
@@ -92717,6 +92739,7 @@ pennywhistles
 pennywise
 pennywort
 pennyworth
+pennyworths
 pennyworts
 penoche
 penoches
@@ -98231,6 +98254,7 @@ preadaptive
 preadjust
 preadjusted
 preadjusting
+preadjusts
 preadmission
 preadmissions
 preadmit
@@ -109184,6 +109208,7 @@ retinal
 retinals
 retinas
 retine
+retinene
 retinenes
 retines
 retinite
@@ -111867,6 +111892,7 @@ sacrists
 sacristy
 sacroiliac
 sacroiliacs
+sacrosanct
 sacrosanctities
 sacrosanctity
 sacrums
@@ -112554,6 +112580,7 @@ sansculottisms
 sansei
 sanseis
 sanserif
+sanserifs
 sansevierias
 santalic
 santalol
@@ -126409,6 +126436,7 @@ supernations
 supernatural
 supernaturalism
 supernaturalist
+supernaturals
 supernature
 supernatures
 supernormal
@@ -132356,6 +132384,7 @@ tottered
 totterer
 totterers
 tottering
+totteringly
 totters
 tottery
 toucan
@@ -136234,6 +136263,7 @@ uncollectibles
 uncolored
 uncombative
 uncombed
+uncombined
 uncomely
 uncomfortable
 uncomfortably
@@ -136252,6 +136282,7 @@ uncompelling
 uncompensated
 uncompetitive
 uncomplacent
+uncomplaining
 uncomplainingly
 uncompleted
 uncomplicated
@@ -141718,6 +141749,7 @@ voluntarism
 voluntarisms
 voluntarist
 voluntaristic
+voluntarists
 voluntary
 voluntaryism
 voluntaryisms
@@ -141758,6 +141790,7 @@ vomito
 vomitories
 vomitos
 vomitous
+vomits
 vomitus
 vomituses
 voodoo
@@ -142464,6 +142497,7 @@ warwork
 warworks
 warworn
 wary
+was
 wasabi
 wasabis
 wash
@@ -144682,6 +144716,7 @@ woolman
 woolmen
 woolpacks
 wools
+woolsack
 woolshed
 woolsheds
 woolskins
