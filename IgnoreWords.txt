@@ -8670,6 +8670,7 @@ backer
 backers
 backfield
 backfields
+backfill
 backfilled
 backfilling
 backfills
@@ -15108,6 +15109,7 @@ brewing
 brewings
 brewises
 brewpub
+brewpubs
 brews
 brewski
 brewskies
@@ -20022,6 +20024,7 @@ challa
 challahs
 challas
 challenged
+challenger
 challenges
 challenging
 challie
@@ -27233,6 +27236,7 @@ corporally
 corporals
 corporates
 corporation
+corporations
 corporatism
 corporative
 corporativism
@@ -34205,6 +34209,7 @@ dewools
 dewormed
 dewormer
 dewormers
+deworms
 dews
 dewy
 dex
@@ -34582,6 +34587,7 @@ dichotic
 dichotically
 dichotomies
 dichotomist
+dichotomists
 dichotomization
 dichotomize
 dichotomized
@@ -55103,6 +55109,7 @@ guanases
 guanays
 guanethidine
 guanethidines
+guanidin
 guanidine
 guanidines
 guanidins
@@ -57326,6 +57333,7 @@ heeders
 heedful
 heedfully
 heedfulness
+heedfulnesses
 heeding
 heedlessly
 heedlessness
@@ -58762,6 +58770,7 @@ hogshead
 hogsheads
 hogtie
 hogtied
+hogtieing
 hogwashes
 hoick
 hoicked
@@ -59598,6 +59607,7 @@ hosiers
 hosing
 hospice
 hospices
+hospitably
 hospital
 hospitalise
 hospitalised
@@ -61741,6 +61751,7 @@ immortalization
 immortalize
 immortalized
 immortalizer
+immortalizers
 immortalizes
 immortalizing
 immortally
@@ -62884,6 +62895,7 @@ incudate
 incudes
 inculcate
 inculcated
+inculcating
 inculcation
 inculcations
 inculcator
@@ -68245,6 +68257,7 @@ kernes
 kerning
 kernite
 kerogen
+kerosene
 kerosenes
 kerosine
 kerplunk
@@ -70541,6 +70554,7 @@ leakproof
 leaky
 leal
 lealties
+lealty
 leaned
 leaner
 leanest
@@ -71058,6 +71072,7 @@ letterboxing
 letterboxings
 lettered
 letterers
+letterform
 letterforms
 letterhead
 letterheads
@@ -73845,6 +73860,7 @@ madrepores
 madreporian
 madreporic
 madreporite
+madres
 madrigal
 madrigalian
 madrigalist
@@ -79672,6 +79688,7 @@ moneyman
 moneymen
 moneys
 moneyworts
+mongeese
 monger
 mongered
 mongers
@@ -86768,6 +86785,7 @@ openworks
 opera
 operabilities
 operable
+operably
 operagoer
 operagoing
 operagoings
@@ -87477,6 +87495,7 @@ osmeteria
 osmeterium
 osmically
 osmics
+osmious
 osmiridiums
 osmium
 osmol
@@ -89014,6 +89033,7 @@ overbidden
 overbidding
 overbids
 overbig
+overbill
 overbilled
 overbilling
 overbills
@@ -89079,6 +89099,7 @@ overcame
 overcapacity
 overcapitalize
 overcapitalized
+overcapitalizes
 overcast
 overcasted
 overcasting
@@ -89420,6 +89441,7 @@ overfocussing
 overfond
 overfoul
 overfrank
+overfree
 overfulfill
 overfulfilled
 overfulfilling
@@ -93674,6 +93696,7 @@ periwig
 periwigs
 periwinkle
 periwinkles
+perjure
 perjurer
 perjurers
 perjures
@@ -93753,6 +93776,7 @@ pernod
 pernods
 peroneal
 peroral
+perorally
 perorated
 perorates
 perorating
@@ -93977,6 +94001,7 @@ pervades
 pervading
 pervasion
 pervasions
+pervasive
 pervasively
 pervasiveness
 pervasivenesses
@@ -97263,6 +97288,7 @@ pollinating
 pollination
 pollinations
 pollinator
+pollinators
 polling
 pollinia
 pollinium
@@ -101554,6 +101580,7 @@ protuberances
 protuberant
 protuberantly
 protyl
+protyle
 protyls
 proudest
 proudful
@@ -111160,6 +111187,7 @@ rockrose
 rockroses
 rockshaft
 rockshafts
+rockslide
 rockslides
 rockweeds
 rockwork
@@ -111303,6 +111331,7 @@ roms
 rondeaux
 rondel
 rondelle
+rondels
 rondo
 rondos
 rondures
@@ -117910,6 +117939,7 @@ sieges
 sieging
 siemens
 sienite
+sienites
 sierozem
 sierozems
 sierra
@@ -118651,6 +118681,7 @@ skerry
 sketch
 sketchbook
 sketchbooks
+sketcher
 sketches
 sketchier
 sketchiest
@@ -125711,6 +125742,7 @@ suborbital
 suborder
 suborders
 subordinate
+subordinated
 subordinately
 subordinateness
 subordinates
@@ -129150,6 +129182,7 @@ taped
 tapeless
 tapeline
 tapelines
+tapenade
 tapenades
 taper
 tapered
@@ -142128,6 +142161,7 @@ vivific
 vivifications
 vivified
 vivifier
+vivifiers
 vivifies
 vivify
 vivipara
@@ -142264,6 +142298,7 @@ voiders
 voiding
 voidness
 voids
+voile
 voiles
 volant
 volante
