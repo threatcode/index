@@ -346,6 +346,7 @@ acceptingness
 acceptingnesses
 acceptive
 acceptor
+accepts
 accessary
 accessed
 accesses
@@ -355,6 +356,7 @@ accessibly
 accessing
 accessioned
 accessioning
+accessions
 accessorial
 accessories
 accessorise
@@ -3862,6 +3864,7 @@ anableps
 anablepses
 anabolic
 anabolism
+anabolisms
 anabranch
 anachronic
 anachronism
@@ -5768,6 +5771,7 @@ appendage
 appendages
 appendants
 appendectomies
+appendectomy
 appended
 appendent
 appendents
@@ -6788,6 +6792,7 @@ arythmia
 arythmias
 arythmic
 as
+asafetida
 asafetidas
 asafoetidas
 asana
@@ -7111,6 +7116,7 @@ assignable
 assignat
 assignation
 assignats
+assigned
 assignee
 assignees
 assigners
@@ -10563,6 +10569,7 @@ been
 beep
 beeped
 beeper
+beepers
 beeping
 beeps
 beer
@@ -11370,6 +11377,7 @@ besprinkle
 besprinkled
 besprinkles
 besprinkling
+bestead
 besteaded
 besteading
 bested
@@ -16104,6 +16112,7 @@ bumptious
 bumptiousness
 bumptiousnesses
 bumpy
+bums
 bun
 bunas
 bunch
@@ -22262,6 +22271,7 @@ clandestine
 clandestinely
 clandestineness
 clandestinity
+clang
 clanged
 clanger
 clangers
@@ -24415,6 +24425,7 @@ comelinesses
 comember
 comembers
 comer
+comers
 comestible
 comestibles
 comet
@@ -29868,6 +29879,7 @@ curler
 curlers
 curlew
 curlews
+curlicue
 curlicued
 curlicues
 curlicuing
@@ -30237,6 +30249,7 @@ cycasin
 cyclamate
 cyclamates
 cyclamen
+cyclamens
 cyclases
 cyclazocine
 cyclazocines
@@ -37890,6 +37903,7 @@ dramatics
 dramatisation
 dramatisations
 dramatised
+dramatises
 dramatising
 dramatist
 dramatists
@@ -45544,6 +45558,7 @@ fasciculus
 fasciitis
 fasciitises
 fascinate
+fascinating
 fascinatingly
 fascination
 fascinations
@@ -50961,6 +50976,7 @@ gallanting
 gallantly
 gallantries
 gallants
+gallate
 gallates
 gallbladder
 gallbladders
@@ -59153,6 +59169,7 @@ honeypots
 honeys
 honeysuckle
 honeysuckles
+hong
 hongi
 hongied
 hongies
@@ -59887,6 +59904,7 @@ hulls
 hum
 human
 humane
+humanely
 humaneness
 humanenesses
 humaner
@@ -77098,6 +77116,7 @@ microcassettes
 microcephalic
 microcephalies
 microchips
+microcircuit
 microcircuitry
 microclimate
 microclimates
@@ -78324,6 +78343,7 @@ miscutting
 misdate
 misdated
 misdates
+misdating
 misdeal
 misdealer
 misdealers
@@ -78343,6 +78363,7 @@ misdemeanors
 misdescribe
 misdescribes
 misdescribing
+misdescription
 misdescriptions
 misdevelop
 misdeveloping
@@ -79115,6 +79136,7 @@ mittened
 mittens
 mittimus
 mittimuses
+mitts
 mity
 mitzvah
 mitzvahs
@@ -79641,6 +79663,7 @@ monkey
 monkeying
 monkeyish
 monkeypod
+monkeypods
 monkeypot
 monkeypots
 monkeyshine
@@ -83141,6 +83164,7 @@ niftiest
 niftily
 niftinesses
 nifty
+nigella
 nigellas
 niggard
 niggarded
@@ -91303,6 +91327,7 @@ parachutist
 parachutists
 paracletes
 paracrine
+parade
 paraded
 parader
 paraders
@@ -93687,6 +93712,7 @@ perpending
 perpends
 perpent
 perpents
+perpetrate
 perpetrated
 perpetrates
 perpetrating
@@ -100671,6 +100697,7 @@ prognosed
 prognoses
 prognosing
 prognosis
+prognostic
 prognosticate
 prognosticates
 prognosticating
@@ -107614,6 +107641,7 @@ remanned
 remanning
 remans
 remanufacture
+remanufactured
 remanufacturer
 remanufacturers
 remanufactures
@@ -108766,6 +108794,7 @@ resectability
 resectable
 resected
 resecting
+resection
 resections
 resecured
 resecures
@@ -111531,6 +111560,7 @@ roundheel
 roundhouse
 roundhouses
 rounding
+roundish
 roundlet
 roundlets
 roundness
@@ -113230,6 +113260,7 @@ satirical
 satirically
 satirise
 satirised
+satirises
 satirising
 satirist
 satirists
@@ -116295,6 +116326,7 @@ sextarii
 sextarius
 sextets
 sextette
+sextettes
 sextile
 sextillion
 sextillions
@@ -116450,6 +116482,7 @@ shaled
 shales
 shaley
 shalier
+shaliest
 shall
 shalloon
 shalloons
@@ -134332,6 +134365,7 @@ triplications
 triplicities
 triplicity
 triplite
+triplites
 triploblastic
 triploid
 triploidies
@@ -134976,6 +135010,7 @@ tuberous
 tubers
 tubes
 tubeworks
+tubeworm
 tubeworms
 tubfuls
 tubifex
