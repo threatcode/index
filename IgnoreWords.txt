@@ -2821,6 +2821,7 @@ alkies
 alkine
 alkines
 alkoxide
+alkoxides
 alkoxy
 alkyd
 alkyds
@@ -10132,6 +10133,7 @@ beak
 beaked
 beaker
 beakers
+beakiest
 beakless
 beaklike
 beaks
@@ -13071,6 +13073,7 @@ blockier
 blocking
 blockish
 blocks
+blocky
 blocs
 blog
 blogger
@@ -41453,6 +41456,7 @@ enoughs
 enounce
 enounced
 enounces
+enouncing
 enow
 enows
 enplane
@@ -42115,6 +42119,7 @@ epigonic
 epigonism
 epigonisms
 epigonous
+epigons
 epigram
 epigrammatic
 epigrammatist
@@ -51224,6 +51229,7 @@ gangplows
 gangrels
 gangrene
 gangrenes
+gangrenous
 gangs
 gangstas
 gangsterdom
@@ -54483,6 +54489,7 @@ greenstuff
 greenstuffs
 greensward
 greenswards
+greenth
 greenths
 greenwash
 greenwashes
@@ -56265,6 +56272,7 @@ handwoven
 handwringer
 handwringers
 handwrit
+handwrite
 handwrites
 handwriting
 handwritings
@@ -60029,6 +60037,7 @@ hunchbacks
 hunched
 hunches
 hunching
+hundreds
 hundredth
 hundredths
 hundredweight
@@ -62565,6 +62574,7 @@ incises
 incising
 incisions
 incisive
+incisively
 incisiveness
 incisivenesses
 incisor
@@ -64915,6 +64925,7 @@ interlocked
 interlocking
 interlocutor
 interlocutors
+interlocutory
 interloop
 interlooped
 interlooping
@@ -67206,6 +67217,7 @@ johns
 johnsongrass
 johnsongrasses
 johnsons
+join
 joinable
 joinder
 joinders
@@ -72078,6 +72090,7 @@ litigated
 litigating
 litigations
 litigators
+litigiously
 litigiousness
 litigiousnesses
 litmus
@@ -74029,6 +74042,7 @@ maintop
 maintops
 maiolica
 maiolicas
+mair
 mairs
 maisonette
 maisonettes
@@ -76617,6 +76631,7 @@ messuages
 messy
 mestees
 mesteso
+mestesoes
 mestesos
 mestino
 mestinoes
@@ -79550,6 +79565,7 @@ monetary
 monetise
 monetised
 monetises
+monetising
 monetization
 monetizations
 monetize
@@ -80419,6 +80435,7 @@ motorbiked
 motorbiking
 motorboated
 motorboater
+motorboating
 motorboatings
 motorbus
 motorbuses
@@ -81016,6 +81033,7 @@ multiprocessors
 multiproduct
 multipronged
 multipurpose
+multiracial
 multiracialism
 multiracialisms
 multirange
@@ -87364,6 +87382,7 @@ osetra
 osier
 osiered
 osiers
+osmeteria
 osmeterium
 osmically
 osmics
@@ -94976,6 +94995,7 @@ piastre
 piastres
 piazzas
 piazze
+pibals
 pibroch
 pic
 pica
@@ -101019,6 +101039,7 @@ propmen
 propolis
 proponent
 proponents
+propones
 proponing
 proportion
 proportionable
@@ -107505,6 +107526,7 @@ relished
 relishes
 relishing
 relist
+relisted
 relisting
 relists
 relit
@@ -111657,6 +111679,7 @@ rubbernecks
 rubbers
 rubbery
 rubbies
+rubbing
 rubbings
 rubbish
 rubbishes
@@ -114627,6 +114650,7 @@ scultch
 scultches
 scumbag
 scumbags
+scumble
 scumbled
 scumbles
 scumbling
@@ -116089,6 +116113,7 @@ servers
 serves
 service
 serviceable
+serviceableness
 serviceably
 serviceberries
 serviceberry
@@ -116676,6 +116701,7 @@ sheaved
 sheaves
 sheaving
 shebang
+shebangs
 shebean
 shebeans
 shebeens
@@ -121055,6 +121081,7 @@ sourdine
 sourdines
 sourdough
 sourdoughs
+soured
 sourer
 sourest
 sourly
@@ -125031,6 +125058,7 @@ stypsises
 styptic
 styptical
 styptics
+styrax
 styraxes
 styrene
 styrenes
@@ -126699,6 +126727,7 @@ superfluous
 superfluously
 superfluousness
 superfund
+superfunds
 supergene
 supergenes
 supergiant
@@ -126926,6 +126955,7 @@ superseller
 supersellers
 superselling
 supersells
+supersensible
 supersensitive
 supersensory
 supersessions
@@ -129370,6 +129400,7 @@ teaberries
 teaberry
 teaboards
 teabowl
+teabowls
 teabox
 teaboxes
 teacakes
@@ -133193,6 +133224,7 @@ traitoress
 traitorously
 traitors
 traitress
+traits
 traject
 trajected
 trajecting
@@ -133639,6 +133671,7 @@ trashy
 trass
 trasses
 trattoria
+trattorias
 trauchled
 trauchles
 trauchling
@@ -136209,6 +136242,7 @@ unappreciative
 unappropriated
 unaptly
 unaptness
+unarguable
 unarguably
 unargued
 unarm
@@ -143492,6 +143526,7 @@ weepings
 weeps
 weest
 weet
+weeting
 weever
 weevers
 weevil
