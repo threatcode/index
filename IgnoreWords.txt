@@ -7611,6 +7611,7 @@ attentional
 attentions
 attentive
 attentively
+attentivenesses
 attenuate
 attenuated
 attenuates
@@ -14855,6 +14856,7 @@ brattices
 bratticing
 brattier
 brattiest
+brattiness
 brattinesses
 brattish
 brattle
@@ -17725,6 +17727,7 @@ cannibalisms
 cannibalistic
 cannibalization
 cannibalized
+cannibalizes
 cannibalizing
 cannibals
 cannie
@@ -25276,6 +25279,7 @@ concisions
 conclave
 conclaves
 conclude
+concluded
 concluder
 concluders
 concludes
@@ -26588,6 +26592,7 @@ convey
 conveyancer
 conveyancers
 conveyances
+conveyancing
 conveyancings
 conveyed
 conveying
@@ -26712,6 +26717,7 @@ coolths
 cooly
 coomb
 coombe
+coombes
 coombs
 cooncan
 cooncans
@@ -33533,6 +33539,7 @@ descants
 descend
 descendant
 descendants
+descended
 descendent
 descender
 descenders
@@ -36833,6 +36840,7 @@ diverted
 diverter
 diverters
 diverticula
+diverticulitis
 diverticulosis
 divertimenti
 divertimento
@@ -39368,6 +39376,7 @@ ecologist
 ecologists
 ecology
 econoboxes
+econometric
 econometrically
 econometrician
 econometrics
@@ -40067,6 +40076,7 @@ elegance
 elegances
 elegancies
 elegancy
+elegant
 elegantly
 elegiac
 elegiacal
@@ -41442,6 +41452,7 @@ enkindlers
 enkindles
 enkindling
 enlace
+enlacement
 enlacements
 enlaces
 enlarge
@@ -43596,6 +43607,7 @@ evilness
 evils
 evince
 evinced
+evinces
 evincible
 evincing
 evincive
@@ -48399,6 +48411,7 @@ flypapers
 flypasts
 flyrodders
 flysch
+flysheet
 flysheets
 flyspecked
 flyspecking
@@ -54131,6 +54144,7 @@ grandfatherly
 grandfathers
 grandiflora
 grandifloras
+grandiloquence
 grandiloquences
 grandiloquent
 grandiloquently
@@ -55042,6 +55056,7 @@ gruesomeness
 gruesomenesses
 gruesomer
 gruesomest
+gruff
 gruffer
 gruffest
 gruffiest
@@ -56489,6 +56504,7 @@ harangued
 haranguer
 haranguers
 harangues
+haranguing
 harass
 harassed
 harassers
@@ -58672,6 +58688,7 @@ hoarseness
 hoarsenesses
 hoarsening
 hoarsens
+hoarser
 hoarsest
 hoary
 hoatzin
@@ -63968,6 +63985,7 @@ initiative
 initiatives
 initiator
 initiatory
+inject
 injectable
 injectables
 injectant
@@ -64975,6 +64993,7 @@ interlaced
 interlacements
 interlaces
 interlacing
+interlacustrine
 interlaid
 interlapping
 interlaps
@@ -65144,6 +65163,7 @@ interorbital
 interorgan
 interpandemic
 interparish
+interparochial
 interparoxysmal
 interparticle
 interparty
@@ -70115,6 +70135,7 @@ lashkar
 lasing
 lasses
 lassi
+lassie
 lassitude
 lassitudes
 lasso
@@ -71747,6 +71768,7 @@ limpets
 limpid
 limpidities
 limpidity
+limpidly
 limpidness
 limpidnesses
 limpingly
@@ -73606,6 +73628,7 @@ lyophiled
 lyophilic
 lyophilise
 lyophilises
+lyophilization
 lyophilizations
 lyophilize
 lyophilizer
@@ -77796,6 +77819,7 @@ millionaire
 millionaires
 millionairess
 millionairesses
+millionfold
 millions
 millionth
 millionths
@@ -85623,6 +85647,7 @@ obey
 obeyable
 obeyed
 obeyer
+obeyers
 obeying
 obeys
 obfuscate
@@ -100263,6 +100288,7 @@ pricy
 prided
 prideful
 pridefully
+pridefulness
 pridefulnesses
 prides
 priding
@@ -102718,6 +102744,7 @@ putter
 puttered
 putterer
 putterers
+puttering
 putters
 putti
 puttie
@@ -105331,6 +105358,7 @@ recent
 recenter
 recentest
 recently
+recentnesses
 recentrifuge
 recentrifuged
 recentrifuging
@@ -105544,6 +105572,7 @@ recognizing
 recoilers
 recoiling
 recoilless
+recoin
 recoinage
 recoined
 recoins
@@ -111941,6 +111970,7 @@ rudderpost
 rudderposts
 rudders
 ruddier
+ruddiest
 ruddily
 ruddiness
 ruddinesses
@@ -113667,6 +113697,7 @@ scabbles
 scabbling
 scabby
 scabietic
+scabiosa
 scabious
 scabiouses
 scabland
@@ -118623,6 +118654,7 @@ sizzler
 sizzlers
 sizzles
 sizzling
+sjambok
 sjamboks
 skag
 skags
@@ -129549,6 +129581,7 @@ taxables
 taxably
 taxation
 taxations
+taxeme
 taxemes
 taxemic
 taxer
@@ -134058,6 +134091,7 @@ trended
 trendier
 trendies
 trendiest
+trendily
 trendiness
 trendinesses
 trendoid
@@ -142667,6 +142701,7 @@ wadders
 waddie
 waddies
 wadding
+waddle
 waddled
 waddler
 waddlers
