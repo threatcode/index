@@ -2864,6 +2864,7 @@ allegorize
 allegorized
 allegorizers
 allegorizes
+allegorizing
 allegory
 allegretto
 allegrettos
@@ -3725,6 +3726,7 @@ amphigories
 amphigory
 amphimacer
 amphimixes
+amphimixis
 amphioxi
 amphioxus
 amphioxuses
@@ -4177,6 +4179,7 @@ anemologies
 anemology
 anemometer
 anemometry
+anemone
 anemones
 anemophilous
 anemoses
@@ -6632,6 +6635,7 @@ ars
 arsenals
 arsenate
 arsenates
+arsenic
 arsenical
 arsenicals
 arsenics
@@ -7303,6 +7307,7 @@ astronomer
 astronomers
 astronomical
 astronomically
+astronomies
 astrophotograph
 astrophysical
 astrophysicist
@@ -8263,6 +8268,7 @@ avowably
 avowal
 avowals
 avowed
+avowedly
 avower
 avowing
 avows
@@ -14104,6 +14110,7 @@ borescopes
 boric
 boride
 boring
+boringly
 boringnesses
 borings
 bork
@@ -23381,6 +23388,7 @@ code
 codebook
 codebtor
 codebtors
+codec
 codecs
 coded
 codefendant
@@ -27119,6 +27127,7 @@ coronal
 coronally
 coronals
 coronary
+coronas
 coronate
 coronates
 coronating
@@ -38400,6 +38409,7 @@ dudeens
 dudes
 dudgeon
 dudgeons
+duding
 dudish
 dudishly
 duds
@@ -38991,6 +39001,7 @@ earstones
 earth
 earthborn
 earthbound
+earthed
 earthier
 earthiest
 earthiness
@@ -48801,6 +48812,7 @@ foreknown
 foreknows
 foreladies
 forelady
+foreland
 foreleg
 forelegs
 forelimb
@@ -49644,6 +49656,7 @@ freewriting
 freewritings
 freewritten
 freezable
+freeze
 freezer
 freezers
 freezes
@@ -53775,6 +53788,7 @@ gowns
 gownsman
 gownsmen
 gox
+goxes
 goy
 goyim
 goyish
@@ -59766,6 +59780,7 @@ hulloaing
 hulloas
 hulloed
 hulloes
+hulloing
 hullooed
 hullooing
 hulloos
@@ -74134,6 +74149,7 @@ malteds
 malthas
 maltier
 maltiest
+maltiness
 maltinesses
 maltols
 maltose
@@ -75311,6 +75327,7 @@ maul
 mauled
 mauler
 maulers
+mauls
 maulstick
 maulsticks
 maumet
@@ -77647,6 +77664,7 @@ mindfulnesses
 minding
 mindless
 mindlessly
+mindlessness
 mindlessnesses
 minds
 mindset
@@ -83171,6 +83189,7 @@ niton
 nitons
 nitpick
 nitpicked
+nitpicker
 nitpickier
 nitpicking
 nitpicks
@@ -97667,6 +97686,7 @@ portrayers
 portraying
 portrays
 portress
+portresses
 portside
 portulaca
 portulacas
@@ -99978,6 +99998,7 @@ primatological
 primatologies
 primatologists
 primatology
+primaveras
 prime
 primed
 primely
@@ -100594,6 +100615,7 @@ proliferative
 prolific
 prolificacies
 prolificacy
+prolificities
 prolificity
 prolificness
 prolificnesses
@@ -100638,6 +100660,7 @@ promethiums
 prometric
 promine
 prominences
+prominent
 prominently
 promines
 promiscuity
@@ -102160,6 +102183,7 @@ purisms
 purist
 puristic
 puristically
+purists
 puritan
 puritanic
 puritanical
@@ -105914,6 +105938,7 @@ reducibilities
 reducibly
 reducing
 reductant
+reductants
 reductase
 reductional
 reductionism
@@ -108107,6 +108132,7 @@ repolarizing
 repolish
 repolished
 repolishes
+repolishing
 repoll
 repolled
 repolling
@@ -110604,6 +110630,7 @@ risible
 risibles
 rising
 risings
+risk
 risker
 riskers
 riskier
@@ -116624,6 +116651,7 @@ shelvings
 shenanigan
 shenanigans
 shend
+shends
 shent
 sheol
 shepherd
@@ -120543,6 +120571,7 @@ songwriter
 songwriters
 songwriting
 songwritings
+sonhood
 sonhoods
 sonic
 sonically
@@ -128069,6 +128098,7 @@ syntony
 synura
 syph
 sypher
+syphering
 syphers
 syphilises
 syphilitic
@@ -128503,6 +128533,7 @@ talismanically
 talismans
 talkable
 talkathon
+talkathons
 talkativeness
 talkback
 talkbacks
@@ -134979,6 +135010,7 @@ turbomachinery
 turboprop
 turboprops
 turbos
+turboshafts
 turbot
 turbulence
 turbulencies
@@ -135795,6 +135827,7 @@ umbilici
 umbilicus
 umbles
 umbo
+umbonal
 umbonate
 umbones
 umbonic
@@ -143887,6 +143920,7 @@ whodunits
 whodunnit
 whodunnits
 whoever
+whole
 wholehearted
 wholeheartedly
 wholemeal
@@ -144215,6 +144249,7 @@ win
 wince
 winced
 wincer
+wincers
 winces
 winch
 winched
