@@ -3836,6 +3836,7 @@ amygdales
 amygdalin
 amygdaloid
 amygdule
+amygdules
 amyl
 amylase
 amylases
@@ -4868,6 +4869,7 @@ anticly
 anticoagulant
 anticoagulants
 anticodon
+anticodons
 anticold
 anticollision
 anticolonial
@@ -6340,6 +6342,7 @@ areaway
 areaways
 areca
 arecas
+arecoline
 areic
 arena
 arenaceous
@@ -11362,6 +11365,7 @@ besmoothed
 besmoothing
 besmooths
 besmudge
+besmudged
 besmudges
 besmut
 besmuts
@@ -12211,6 +12215,7 @@ bioluminescent
 biolyses
 biolysis
 biolytic
+biomarker
 biomarkers
 biomass
 biomasses
@@ -12319,6 +12324,7 @@ bioterrors
 biotic
 biotical
 biotics
+biotin
 biotins
 biotite
 biotites
@@ -20319,6 +20325,7 @@ chare
 chared
 chares
 charge
+chargeable
 charged
 chargehand
 chargehands
@@ -20568,6 +20575,7 @@ checkerboards
 checkered
 checkering
 checkers
+checking
 checklisting
 checklists
 checkmark
@@ -28414,6 +28422,7 @@ craggy
 cragsman
 cragsmen
 crake
+crakes
 cram
 crambe
 crambo
@@ -31158,6 +31167,7 @@ dawted
 dawtie
 dawties
 dawting
+dawts
 day
 daybed
 daybeds
@@ -34864,6 +34874,7 @@ diffusionist
 diffusionists
 diffusions
 diffusive
+diffusively
 diffusiveness
 diffusivenesses
 diffusivity
@@ -36768,6 +36779,7 @@ disunions
 disunite
 disuniter
 disuniters
+disunites
 disunities
 disuniting
 disunity
@@ -43043,6 +43055,7 @@ estragons
 estral
 estrange
 estranged
+estrangement
 estrangements
 estranger
 estrangers
@@ -47364,6 +47377,7 @@ fitfully
 fitfulness
 fitfulnesses
 fitment
+fitments
 fitness
 fitnesses
 fits
@@ -50918,6 +50932,7 @@ gabbroid
 gabbros
 gabby
 gabelle
+gabelled
 gabelles
 gaberdine
 gaberdines
@@ -52939,6 +52954,7 @@ glancers
 glances
 glancing
 glancingly
+gland
 glandered
 glanders
 glandes
@@ -57862,6 +57878,7 @@ henge
 henges
 henhouse
 henhouses
+heniquen
 heniquens
 henley
 henleys
@@ -68381,6 +68398,7 @@ kerogen
 kerosene
 kerosenes
 kerosine
+kerosines
 kerplunk
 kerplunked
 kerplunking
@@ -72638,6 +72656,7 @@ locule
 loculed
 locules
 loculicidal
+loculus
 locum
 locums
 locus
@@ -75150,6 +75169,7 @@ marksmanships
 markswoman
 markswomen
 markup
+markups
 marl
 marled
 marlin
@@ -75421,6 +75441,7 @@ master
 masterdom
 masterdoms
 mastered
+masterfully
 masterfulnesses
 masteries
 mastering
@@ -79407,6 +79428,7 @@ mobbed
 mobber
 mobbers
 mobbing
+mobbish
 mobbishly
 mobbism
 mobbisms
@@ -85009,6 +85031,7 @@ nonwovens
 nonwriters
 nonyellowing
 nonyl
+nonyls
 nonzero
 noo
 noodges
@@ -95557,6 +95580,7 @@ pignolis
 pignora
 pignut
 pignuts
+pigout
 pigouts
 pigpen
 pigpens
@@ -96565,6 +96589,7 @@ platted
 platter
 platterful
 platterfuls
+platters
 plattersful
 platting
 platy
@@ -101756,6 +101781,7 @@ proudful
 proudness
 proudnesses
 proustites
+provable
 provableness
 provablenesses
 provably
@@ -105867,6 +105893,7 @@ reconstructs
 reconsult
 reconsulting
 reconsults
+recontact
 recontacted
 recontacting
 recontacts
@@ -106304,6 +106331,7 @@ redistillations
 redistilled
 redistilling
 redistills
+redistribute
 redistributed
 redistributing
 redistribution
@@ -109843,6 +109871,7 @@ rethinks
 rethought
 rethread
 rethreaded
+rethreading
 rethreads
 retia
 retial
@@ -113969,6 +113998,7 @@ scantiest
 scantily
 scantiness
 scantinesses
+scanting
 scantling
 scantlings
 scantly
@@ -120708,6 +120738,7 @@ sofa
 sofabed
 sofabeds
 sofar
+sofars
 soffit
 softa
 softback
@@ -123903,6 +123934,7 @@ stems
 stemson
 stemware
 stemwares
+stench
 stenches
 stenchful
 stenchier
@@ -141945,6 +141977,7 @@ vilifications
 vilified
 vilifier
 vilifiers
+vilifies
 vilipend
 vilipended
 vill
@@ -144964,6 +144997,7 @@ windlassing
 windle
 windless
 windlessly
+windlestraw
 windlestraws
 windling
 windlings
@@ -145593,6 +145627,7 @@ wooler
 woolers
 woolfell
 woolfells
+woolgatherer
 woolgatherers
 woolgathering
 woolgatherings
