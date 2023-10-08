@@ -435,6 +435,7 @@ accomplice
 accomplices
 accomplisher
 accomplishers
+accomplishing
 accomplishment
 accomplishments
 accord
@@ -2374,6 +2375,7 @@ airpowers
 airproof
 airproofed
 airproofing
+airproofs
 airs
 airscape
 airscapes
@@ -3489,6 +3491,7 @@ ameban
 amebas
 amebiases
 amebiasis
+amebic
 amebocyte
 amebocytes
 ameboid
@@ -6322,6 +6325,7 @@ archons
 archosaur
 archosaurian
 archosaurs
+archpriest
 archpriests
 archrival
 archrivals
@@ -8880,6 +8884,7 @@ bacterially
 bacterials
 bacterias
 bactericide
+bactericides
 bacterin
 bacterins
 bacteriocins
@@ -12563,6 +12568,7 @@ bisques
 bister
 bistered
 bisters
+bistorts
 bistoury
 bistre
 bistred
@@ -13464,6 +13470,7 @@ bluntly
 bluntness
 bluntnesses
 blunts
+blur
 blurb
 blurbed
 blurbing
@@ -20037,6 +20044,7 @@ chaffered
 chafferer
 chafferers
 chaffering
+chaffers
 chaffiest
 chaffinches
 chaffing
@@ -21511,6 +21519,7 @@ chord
 chordal
 chordamesoderms
 chordate
+chordates
 chorded
 chording
 chords
@@ -23292,6 +23301,7 @@ coastline
 coastlines
 coasts
 coastwards
+coastwise
 coat
 coatdresses
 coated
@@ -28790,6 +28800,7 @@ creditableness
 creditably
 credited
 crediting
+creditor
 creditors
 creditworthy
 credo
@@ -36511,6 +36522,7 @@ disprovals
 disprove
 disproved
 disproven
+disprovers
 disproves
 disproving
 disputable
@@ -41342,6 +41354,7 @@ endopeptidases
 endoperoxide
 endoperoxides
 endophytes
+endophytic
 endoplasm
 endoplasms
 endopod
@@ -41896,6 +41909,7 @@ entanglement
 entangler
 entanglers
 entangles
+entangling
 entases
 entasia
 entasis
@@ -41998,6 +42012,7 @@ entoblast
 entoblasts
 entoderm
 entodermal
+entoil
 entoiled
 entoiling
 entoils
@@ -60004,6 +60019,7 @@ hotness
 hotnesses
 hotpress
 hotpresses
+hotrod
 hotrods
 hotshot
 hotspot
@@ -61407,6 +61423,7 @@ iconoclasm
 iconoclasms
 iconoclast
 iconoclastic
+iconoclasts
 iconographers
 iconographic
 iconographies
@@ -64486,6 +64503,7 @@ inquisitor
 inquisitorial
 inquisitorially
 inquisitors
+inro
 inroad
 inroads
 inrun
@@ -68428,6 +68446,7 @@ kedge
 kedged
 kedgerees
 kedges
+kedging
 keef
 keefs
 keek
@@ -70848,6 +70867,7 @@ leader
 leaderless
 leaders
 leaderships
+leadier
 leadiest
 leading
 leadings
@@ -72232,6 +72252,7 @@ liniments
 linin
 lining
 linings
+link
 linkable
 linkage
 linker
@@ -75761,6 +75782,7 @@ matchmade
 matchmake
 matchmaker
 matchmakers
+matchmaking
 matchmakings
 matchmark
 matchmarking
@@ -80214,6 +80236,7 @@ monocular
 monocularly
 monoculars
 monocultural
+monocultures
 monocycle
 monocycles
 monocyclic
@@ -101253,6 +101276,7 @@ profiter
 profiterole
 profiteroles
 profiters
+profiting
 profits
 profitwise
 profligacies
@@ -101264,6 +101288,7 @@ proforma
 profound
 profoundly
 profoundness
+profoundnesses
 profounds
 profundities
 profuse
@@ -104929,6 +104954,7 @@ rassles
 rassling
 raster
 rasters
+rasure
 rasures
 rat
 ratable
@@ -107397,6 +107423,7 @@ refutes
 refuting
 reg
 regain
+regainer
 regainers
 regaining
 regains
@@ -111896,6 +111923,7 @@ rood
 roods
 roofed
 roofer
+roofers
 roofie
 roofies
 roofing
@@ -112315,6 +112343,7 @@ rowdily
 rowdiness
 rowdinesses
 rowdy
+rowdyish
 rowdyism
 rowdyisms
 rowed
@@ -118467,6 +118496,7 @@ sidelight
 sidelights
 sideliner
 sideliners
+sidelines
 sidelining
 sidelong
 sideman
@@ -119509,6 +119539,7 @@ skycap
 skycaps
 skydive
 skydived
+skydiver
 skydivers
 skydives
 skydiving
@@ -123029,6 +123060,7 @@ spoor
 spoored
 spooring
 spoors
+sporadic
 sporadically
 sporal
 sporangia
@@ -133261,6 +133293,7 @@ tonoplast
 tonoplasts
 tons
 tonsil
+tonsillar
 tonsillectomies
 tonsils
 tonsorial
@@ -144374,6 +144407,7 @@ wedlock
 wedlocks
 weds
 wee
+weeded
 weeder
 weeders
 weedier
@@ -144668,6 +144702,7 @@ whap
 whapped
 whapper
 whappers
+whapping
 whaps
 wharf
 wharfage
