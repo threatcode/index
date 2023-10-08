@@ -1654,6 +1654,7 @@ aeroscopes
 aerosolizations
 aerosolize
 aerosolized
+aerosolizes
 aerosolizing
 aerosols
 aerospaces
@@ -15494,6 +15495,7 @@ bronchiolar
 bronchiole
 bronchioles
 bronchitic
+bronchitis
 bronchitises
 broncho
 bronchogenic
@@ -18804,6 +18806,7 @@ casein
 caseinate
 caseinates
 caseins
+caseload
 caseloads
 casemate
 casemated
@@ -20497,6 +20500,7 @@ chauffeur
 chauffeured
 chaulmoogra
 chaulmoogras
+chaunt
 chaunted
 chaunter
 chaunters
@@ -21928,6 +21932,7 @@ cinerin
 cingula
 cingular
 cingulate
+cingulum
 cinnabar
 cinnabarine
 cinnabars
@@ -22893,6 +22898,7 @@ clot
 cloth
 clothbound
 clothe
+clothes
 clotheshorses
 clothesline
 clotheslined
@@ -29510,6 +29516,7 @@ crystallization
 crystallize
 crystallized
 crystallizer
+crystallizers
 crystallizes
 crystallography
 crystalloid
@@ -36789,6 +36796,7 @@ dithiocarbamate
 dithyrambically
 dithyrambs
 ditransitives
+ditsier
 ditsiness
 ditsinesses
 ditsy
@@ -46434,6 +46442,7 @@ fetiales
 fetialis
 fetials
 fetich
+fetiches
 fetichism
 fetichisms
 feticidal
@@ -47934,6 +47943,7 @@ flintinesses
 flinting
 flintlike
 flintlock
+flintlocks
 flints
 flinty
 flip
@@ -48642,6 +48652,7 @@ follies
 follow
 followed
 follower
+followers
 followership
 followerships
 following
@@ -54275,6 +54286,7 @@ granulomas
 granulomata
 granulomatous
 granulose
+granuloses
 granulosis
 granum
 grape
@@ -58298,6 +58310,7 @@ hic
 hiccoughed
 hiccoughing
 hiccoughs
+hiccuping
 hiccupped
 hiccupping
 hiccups
@@ -59720,6 +59733,7 @@ hotboxes
 hotcake
 hotcakes
 hotch
+hotched
 hotches
 hotching
 hotchpot
@@ -62008,6 +62022,7 @@ impedances
 impede
 impeded
 impeder
+impeders
 impedes
 impedimenta
 impediments
@@ -63262,6 +63277,7 @@ individuating
 individuations
 indivisibility
 indivisible
+indivisibles
 indivisibly
 indocile
 indocilities
@@ -71510,6 +71526,7 @@ lidars
 lidding
 lidless
 lido
+lidocaines
 lidos
 lie
 liebfraumilch
@@ -74394,6 +74411,7 @@ malingerers
 malingering
 malingers
 malison
+malisons
 malkin
 malkins
 mall
@@ -81123,6 +81141,7 @@ multifarious
 multifid
 multifilament
 multiflash
+multifocal
 multifoil
 multifold
 multiform
@@ -93672,6 +93691,7 @@ peridial
 peridium
 peridotite
 peridotites
+peridotitic
 peridots
 perigeal
 perigean
@@ -95482,6 +95502,7 @@ pigmentary
 pigmentation
 pigmentations
 pigmented
+pigmenting
 pigments
 pigmies
 pigmy
@@ -102347,6 +102368,7 @@ pumicer
 pumicers
 pumicing
 pumicites
+pummeled
 pummelling
 pummelo
 pummelos
@@ -104080,6 +104102,7 @@ ragtimes
 ragtop
 ragtops
 ragweeds
+ragwort
 ragworts
 rah
 rai
@@ -105596,6 +105619,7 @@ recoating
 recoats
 recock
 recocked
+recocking
 recocks
 recode
 recoded
@@ -108476,6 +108500,7 @@ replant
 replantation
 replantations
 replanted
+replanting
 replants
 replaster
 replastered
@@ -117922,6 +117947,7 @@ sibs
 sibyl
 sibylic
 sibyllic
+sibyls
 sic
 siccan
 siccative
@@ -125623,6 +125649,7 @@ suberous
 subers
 subfamilies
 subfamily
+subfield
 subfields
 subfile
 subfiles
@@ -129449,6 +129476,7 @@ tars
 tarsals
 tarsi
 tarsia
+tarsiers
 tarsometatarsi
 tarsometatarsus
 tarsus
@@ -131622,6 +131650,7 @@ thrombosed
 thromboses
 thrombosing
 thrombosis
+thrombotic
 thromboxane
 thromboxanes
 thrombus
@@ -132415,6 +132444,7 @@ toccata
 toccatas
 toccate
 tocher
+tochered
 tochering
 tocopherol
 tocsin
@@ -135913,6 +135943,7 @@ twopenny
 twos
 twosome
 twosomes
+twyer
 twyers
 tycoon
 tycoons
@@ -137822,6 +137853,7 @@ unfailingly
 unfair
 unfairer
 unfairest
+unfairly
 unfairness
 unfairnesses
 unfaith
@@ -137835,6 +137867,7 @@ unfalteringly
 unfamiliarly
 unfamous
 unfancy
+unfashionably
 unfasten
 unfastened
 unfastening
@@ -142327,6 +142360,7 @@ vizir
 vizirate
 vizirates
 vizirial
+vizirs
 vizor
 vizored
 vizoring
@@ -146834,6 +146868,7 @@ zinnia
 zinnias
 zins
 zipless
+zipper
 zippered
 zippering
 zippers
