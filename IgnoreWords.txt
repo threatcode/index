@@ -477,6 +477,7 @@ accoutrements
 accoutres
 accoutring
 accredit
+accreditable
 accreditation
 accreditations
 accredited
@@ -4294,6 +4295,7 @@ angiologies
 angiology
 angioma
 angiomas
+angiomatous
 angioplasties
 angioplasty
 angiosperm
@@ -11319,6 +11321,7 @@ bes
 bescorch
 bescorched
 bescorches
+bescorching
 bescoured
 bescouring
 bescours
@@ -17837,6 +17840,7 @@ canoeist
 canoeists
 canoer
 canoers
+canoes
 canola
 canolas
 canon
@@ -19113,6 +19117,7 @@ catbrier
 catbriers
 catcall
 catcalled
+catcallers
 catcalling
 catcalls
 catch
@@ -27917,6 +27922,7 @@ counterfeits
 counterfire
 counterfires
 counterflow
+counterflows
 counterfoil
 counterfoils
 counterforces
@@ -31566,6 +31572,7 @@ decadent
 decadently
 decades
 decaf
+decaffeinated
 decafs
 decagon
 decagram
@@ -33024,6 +33031,7 @@ demotist
 demotists
 demount
 demountable
+demounted
 demounting
 demounts
 dempster
@@ -33346,6 +33354,7 @@ deplane
 deplaned
 deplanes
 deplaning
+depletable
 deplete
 depleter
 depleters
@@ -41340,6 +41349,7 @@ endoskeletons
 endosmos
 endosmoses
 endosome
+endosperm
 endosperms
 endospore
 endospores
@@ -65380,6 +65390,7 @@ internationally
 internationals
 interne
 internecine
+interned
 internee
 internees
 interneuron
@@ -67214,6 +67225,7 @@ jealousy
 jean
 jeaned
 jeans
+jebels
 jee
 jeed
 jeeped
@@ -71103,6 +71115,7 @@ leghorn
 legibilities
 legibility
 legible
+legion
 legionary
 legionnaire
 legionnaires
@@ -72877,6 +72890,7 @@ lofty
 log
 logan
 loganberry
+logania
 logaoedic
 logaoedics
 logarithmic
@@ -75369,6 +75383,7 @@ marmalade
 marmalades
 marmites
 marmoreally
+marmorean
 marmoset
 marmosets
 marmots
@@ -78684,6 +78699,7 @@ mischoosing
 mischose
 mischosen
 miscibilities
+miscible
 miscitation
 miscitations
 miscite
@@ -79544,6 +79560,7 @@ mitogen
 mitogenic
 mitogenicities
 mitogens
+mitomycin
 mitomycins
 mitosis
 mitotic
@@ -82938,6 +82955,7 @@ negritude
 negritudes
 negronis
 negrophils
+negrophobe
 negrophobes
 negrophobia
 negrophobias
@@ -88525,6 +88543,7 @@ outglares
 outglaring
 outgleam
 outgleamed
+outgleaming
 outglitter
 outglitters
 outglowing
@@ -88631,6 +88650,7 @@ outlander
 outlanders
 outlandish
 outlandishly
+outlandishness
 outlast
 outlasted
 outlasts
@@ -90065,6 +90085,7 @@ overmatch
 overmatched
 overmatching
 overmature
+overmaturities
 overmaturity
 overmedicate
 overmedicating
@@ -92443,6 +92464,7 @@ pashing
 pashminas
 pasodoble
 pasqueflower
+pasqueflowers
 pasquil
 pasquils
 pasquinade
@@ -96910,6 +96932,7 @@ playwritings
 plaza
 plazas
 plea
+pleached
 pleaches
 pleaching
 plead
@@ -105548,6 +105571,7 @@ rebeginning
 rebegins
 rebel
 rebeldom
+rebeldoms
 rebelled
 rebelling
 rebellion
@@ -111342,6 +111366,7 @@ rinsed
 rinser
 rinses
 rinsing
+rinsings
 riojas
 riot
 rioted
@@ -116245,6 +116270,7 @@ sempervivums
 sempiternal
 sempiternally
 sempiternities
+sempiternity
 semple
 sempre
 sempstresses
@@ -117277,6 +117303,7 @@ shatterer
 shatterers
 shattering
 shatteringly
+shatterproof
 shatters
 shaugh
 shaughs
@@ -117560,6 +117587,7 @@ shiftable
 shifted
 shifter
 shifters
+shiftier
 shiftiest
 shiftily
 shiftiness
@@ -121384,6 +121412,7 @@ somnambulist
 somnambulists
 somnifacient
 somnifacients
+somniferous
 somnolence
 somnolences
 somnolent
@@ -124493,6 +124522,7 @@ stiffs
 stifle
 stifled
 stifler
+stiflers
 stifles
 stifling
 stiflingly
@@ -127163,6 +127193,7 @@ sunburning
 sunburns
 sunburnt
 sunburst
+sunbursts
 sunchokes
 sundae
 sundeck
@@ -127302,6 +127333,7 @@ superblocks
 superbness
 superbnesses
 superboard
+superbomb
 superbomber
 superbombers
 superbombs
@@ -135693,6 +135725,7 @@ tubby
 tube
 tubed
 tubeless
+tubelike
 tubenose
 tuber
 tubercle
@@ -136055,6 +136088,7 @@ turnoff
 turnoffs
 turnon
 turnons
+turnout
 turnouts
 turnover
 turnovers
@@ -141574,6 +141608,7 @@ vended
 vendee
 vendees
 vender
+venders
 vendetta
 vendettas
 vendeuse
