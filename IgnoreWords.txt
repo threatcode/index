@@ -349,6 +349,7 @@ acceptingnesses
 acceptive
 acceptor
 accepts
+accessaries
 accessary
 accessed
 accesses
@@ -9320,6 +9321,7 @@ banditos
 banditries
 banditry
 banditti
+bandleader
 bandmaster
 bandmasters
 bandmate
@@ -10432,6 +10434,7 @@ becrust
 becrusted
 becrusting
 becrusts
+becudgel
 becudgeled
 becudgeling
 becudgelled
@@ -24226,6 +24229,7 @@ collectorships
 collects
 colleens
 college
+colleger
 collegers
 colleges
 collegia
@@ -26871,6 +26875,7 @@ cooktops
 cookware
 cookwares
 cooky
+cool
 coolant
 coolants
 cooldowns
@@ -37525,6 +37530,7 @@ domicil
 domicile
 domiciles
 domiciliate
+domiciliating
 domiciliations
 domiciling
 dominance
@@ -41930,6 +41936,7 @@ ensnarling
 ensnarls
 ensorcel
 ensorceling
+ensorcell
 ensorcelled
 ensorcelling
 ensorcellment
@@ -51312,6 +51319,7 @@ galactose
 galactosemia
 galactosemias
 galactosemic
+galactoses
 galactosidase
 galactosidases
 galactoside
@@ -56097,6 +56105,7 @@ hachuring
 hacienda
 haciendado
 haciendados
+haciendas
 hack
 hackable
 hackamore
@@ -59283,6 +59292,7 @@ hollyhock
 holmic
 holmium
 holmiums
+holms
 holoblastic
 holocaust
 holocausts
@@ -59899,6 +59909,7 @@ horoscopy
 horrendously
 horrent
 horrible
+horribleness
 horriblenesses
 horribles
 horribly
@@ -67866,6 +67877,7 @@ jounce
 jounced
 jounces
 jouncier
+jounciest
 jouncing
 jouncy
 journal
@@ -68935,6 +68947,7 @@ kiddush
 kiddushes
 kiddy
 kidlike
+kidnap
 kidnapee
 kidnapees
 kidnaper
@@ -74895,6 +74908,7 @@ mambo
 mamboed
 mamboes
 mamboing
+mameluke
 mamelukes
 mamey
 mameyes
@@ -78434,6 +78448,7 @@ mineralizable
 mineralizations
 mineralize
 mineralized
+mineralizer
 mineralizing
 mineralogic
 mineralogical
@@ -84077,6 +84092,7 @@ nobbled
 nobbler
 nobblers
 nobbles
+nobbling
 nobby
 nobelium
 nobeliums
@@ -90824,6 +90840,7 @@ overvote
 overvoted
 overvotes
 overwarmed
+overwarming
 overwarms
 overwary
 overwatch
@@ -95613,6 +95630,7 @@ phyleses
 phylesis
 phylesises
 phyletically
+phylic
 phyllaries
 phyllite
 phyllitic
@@ -102561,6 +102579,7 @@ psychogenically
 psychographs
 psychohistorian
 psychohistories
+psychohistory
 psychokineses
 psychokinesis
 psychokinetic
@@ -104347,6 +104366,7 @@ racehorse
 racehorses
 racemate
 racemates
+racemed
 racemes
 racemism
 racemisms
@@ -107586,6 +107606,7 @@ regaled
 regaler
 regales
 regaling
+regalities
 regality
 regally
 regalness
@@ -114987,6 +115008,7 @@ scimitars
 scimiter
 scincoid
 scincoids
+scintigraphic
 scintigraphy
 scintilla
 scintillas
@@ -115241,6 +115263,7 @@ scraggliest
 scraggly
 scraggy
 scrags
+scraiched
 scraiching
 scraichs
 scraigh
@@ -115728,6 +115751,7 @@ seamster
 seamsters
 seamstress
 seamy
+seance
 seances
 seapiece
 seapieces
@@ -116886,6 +116910,7 @@ seres
 serest
 serf
 serfage
+serfages
 serfdom
 serfdoms
 serfhood
@@ -117097,6 +117122,7 @@ setoffs
 setons
 setose
 setous
+setout
 setouts
 sets
 setscrew
@@ -126069,6 +126095,7 @@ suavity
 sub
 suba
 subabbot
+subabbots
 subacid
 subacidly
 subacidness
@@ -128948,6 +128975,7 @@ syllabication
 syllabications
 syllabicity
 syllabics
+syllabification
 syllabified
 syllabifies
 syllabify
@@ -134158,6 +134186,7 @@ tractable
 tractableness
 tractably
 tractates
+traction
 tractional
 tractions
 tractive
@@ -134211,6 +134240,7 @@ trafficked
 trafficker
 traffickers
 trafficking
+tragacanth
 tragacanths
 tragedians
 tragediennes
@@ -135105,6 +135135,7 @@ trichogyne
 trichogynes
 trichoid
 trichologies
+trichologist
 trichologists
 trichology
 trichome
@@ -140246,6 +140277,7 @@ untipped
 untiring
 untiringly
 unto
+untogether
 untouchable
 untouched
 untoward
@@ -142860,6 +142892,7 @@ virilized
 virilizes
 virilizing
 virion
+virions
 virl
 virls
 viroid
@@ -143632,6 +143665,7 @@ waffle
 waffled
 waffler
 wafflers
+waffles
 wafflier
 waffliest
 waffling
@@ -147569,6 +147603,7 @@ zeolite
 zeolitic
 zep
 zephyr
+zephyrs
 zeppelin
 zeppelins
 zeppole
