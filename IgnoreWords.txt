@@ -967,6 +967,7 @@ actuate
 actuated
 actuates
 actuating
+actuation
 actuations
 actuator
 actuators
@@ -8353,6 +8354,7 @@ avoided
 avoiders
 avoids
 avos
+avoset
 avosets
 avouched
 avoucher
@@ -13428,6 +13430,7 @@ bluejay
 bluejays
 bluejeans
 blueline
+blueliner
 bluelines
 bluely
 blueness
@@ -17403,6 +17406,7 @@ callboys
 called
 callee
 callees
+callet
 callets
 calligrapher
 calligraphers
@@ -17753,6 +17757,7 @@ candied
 candies
 candleberries
 candleberry
+candled
 candlefish
 candlefishes
 candleholder
@@ -22368,6 +22373,7 @@ clacking
 clacks
 clad
 claddagh
+cladded
 claddings
 clade
 clades
@@ -23992,6 +23998,7 @@ coiffing
 coiffure
 coiffures
 coiffuring
+coifing
 coifs
 coign
 coigne
@@ -31353,6 +31360,7 @@ daybook
 daybreaks
 daycare
 daycares
+daydream
 daydreamed
 daydreaming
 daydreamlike
@@ -35475,6 +35483,7 @@ diplexer
 diplexers
 diploblastic
 diplococci
+diplococcus
 diplodocus
 diplodocuses
 diploe
@@ -36039,6 +36048,7 @@ discus
 discuses
 discuss
 discussable
+discussant
 discussants
 discussed
 discusser
@@ -37153,6 +37163,7 @@ divinising
 divinize
 divinized
 divinizes
+divinizing
 divisibility
 divisible
 divisibly
@@ -43002,6 +43013,7 @@ errs
 ers
 ersatz
 ersatzes
+erses
 erst
 erstwhile
 eruct
@@ -49047,6 +49059,7 @@ footboy
 footboys
 footbridge
 footbridges
+footcloth
 footcloths
 footdraggers
 footer
@@ -49260,6 +49273,7 @@ forecloses
 foreclosing
 foreclosure
 foreclosures
+forecourt
 foredate
 foredated
 foredating
@@ -49943,6 +49957,7 @@ fragmenting
 fragmentize
 fragmentized
 fragmentizing
+fragments
 fragrance
 fragrances
 fragrancy
@@ -55219,6 +55234,7 @@ grommet
 grommeted
 grommeting
 grommets
+gromwell
 gromwells
 groom
 groomed
@@ -57347,6 +57363,7 @@ hawses
 hawthorn
 hay
 haycock
+haycocks
 hayed
 hayer
 hayers
@@ -63559,6 +63576,7 @@ indifferent
 indifferentism
 indifferentisms
 indifferentist
+indifferentists
 indifferently
 indigen
 indigences
@@ -65869,6 +65887,7 @@ intimations
 intime
 intimidate
 intimidated
+intimidates
 intimidating
 intimidatingly
 intimidation
@@ -78471,6 +78490,7 @@ minds
 mindset
 mindsets
 mine
+minefield
 minefields
 minelayer
 minelayers
@@ -78573,6 +78593,7 @@ minims
 minimum
 minimums
 mining
+minings
 minion
 minions
 minipark
@@ -90943,6 +90964,7 @@ overzealous
 overzealousness
 overzeals
 ovibos
+ovicidal
 ovicide
 oviducal
 oviduct
@@ -91616,6 +91638,7 @@ pallia
 palliasse
 palliasses
 palliated
+palliates
 palliation
 palliations
 palliative
@@ -95449,6 +95472,7 @@ photoflashes
 photoflood
 photofloods
 photog
+photogenes
 photogenic
 photogeologic
 photogeological
@@ -99470,6 +99494,7 @@ prearrangements
 prearranges
 prearranging
 preassembled
+preassign
 preassigned
 preassigning
 preassigns
@@ -100431,6 +100456,7 @@ preregistering
 preregisters
 preregistration
 prerehearsal
+prerelease
 prereleased
 prereleases
 prereleasing
@@ -102389,6 +102415,7 @@ provocateur
 provocation
 provocative
 provocatively
+provocativeness
 provocatives
 provoke
 provoker
@@ -109431,6 +109458,7 @@ reprovers
 reproving
 reprovingly
 reprovisioned
+reprovisions
 reps
 reptant
 reptile
@@ -119242,6 +119270,7 @@ singletons
 singletree
 singletrees
 singlets
+singling
 singly
 sings
 singsong
@@ -119408,6 +119437,7 @@ sitosterol
 sitosterols
 sits
 sitten
+sitter
 sitters
 sitting
 sittings
@@ -121389,6 +121419,7 @@ sofabed
 sofabeds
 sofar
 sofars
+sofas
 soffit
 softa
 softback
@@ -124691,6 +124722,7 @@ stereoisomerism
 stereoisomers
 stereological
 stereologically
+stereologies
 stereology
 stereophonic
 stereophonies
@@ -136306,6 +136338,7 @@ tundishes
 tundra
 tune
 tuneable
+tuneably
 tuned
 tunefully
 tunefulness
@@ -136569,6 +136602,7 @@ tussur
 tut
 tutee
 tutees
+tutelage
 tutelages
 tutelaries
 tutelars
@@ -141328,6 +141362,7 @@ vacuousness
 vacuousnesses
 vacuum
 vacuumed
+vacuuming
 vacuums
 vadose
 vagabond
