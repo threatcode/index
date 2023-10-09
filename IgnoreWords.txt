@@ -4083,6 +4083,7 @@ anastomosis
 anastomotic
 anastrophe
 anastrophes
+anatase
 anatases
 anathemas
 anathemata
@@ -4925,6 +4926,7 @@ anticompetitive
 anticonsumer
 anticonvulsant
 anticonvulsants
+anticonvulsive
 anticonvulsives
 anticorrosion
 anticorrosives
@@ -19506,6 +19508,7 @@ cauteries
 cauterization
 cauterizations
 cauterize
+cauterized
 cauterizes
 cauterizing
 cautery
@@ -21403,6 +21406,7 @@ chivvying
 chivy
 chivying
 chlamydes
+chlamydia
 chlamydiae
 chlamydial
 chlamydospore
@@ -21483,6 +21487,7 @@ choanocyte
 choanocytes
 chock
 chockablock
+chocked
 chockful
 chockfull
 chocking
@@ -27800,6 +27805,7 @@ cosmogonists
 cosmogony
 cosmographer
 cosmographers
+cosmographic
 cosmographical
 cosmographies
 cosmography
@@ -27933,6 +27939,7 @@ cottiers
 cotton
 cottoned
 cottonmouth
+cottonmouths
 cottons
 cottonseed
 cottonseeds
@@ -28180,6 +28187,7 @@ counterreaction
 counterreformer
 counterreforms
 counterresponse
+counters
 countershading
 countershadings
 countershots
@@ -34414,6 +34422,7 @@ deutoplasm
 deutoplasms
 dev
 deva
+devaluate
 devaluated
 devaluates
 devaluating
@@ -36311,6 +36320,7 @@ disguisers
 disguises
 disgust
 disgusted
+disgustedly
 disgustful
 disgusting
 disgustingly
@@ -37669,6 +37679,7 @@ domically
 domicil
 domicile
 domiciles
+domiciliary
 domiciliate
 domiciliating
 domiciliations
@@ -45080,6 +45091,7 @@ extendible
 extending
 extends
 extensibilities
+extensibility
 extensible
 extensile
 extension
@@ -46141,6 +46153,7 @@ fastener
 fasteners
 fastening
 fastenings
+fastens
 faster
 fastest
 fastidious
@@ -50948,6 +50961,7 @@ fullback
 fullblood
 fullbloods
 fulled
+fuller
 fullered
 fulleries
 fullery
@@ -60050,6 +60064,7 @@ hoptoads
 horahs
 horary
 horas
+horde
 horded
 hordein
 hordeins
@@ -61348,6 +61363,7 @@ hyperons
 hyperopes
 hyperopias
 hyperopic
+hyperostosis
 hyperostotic
 hyperparasite
 hyperparasites
@@ -66670,6 +66686,7 @@ ipecac
 ipecacuanha
 ipomoea
 ipomoeas
+iproniazid
 iproniazids
 ipsilateral
 ipsilaterally
@@ -68837,6 +68854,7 @@ keepings
 keeps
 keepsake
 keepsakes
+keeshond
 keeshonden
 keeshonds
 keester
@@ -69524,6 +69542,7 @@ kiva
 kiwi
 kiwifruit
 kiwis
+klatch
 klatches
 klatsch
 klatsches
@@ -77739,6 +77758,7 @@ metestruses
 metformin
 meth
 methacrylate
+methacrylates
 methadon
 methadone
 methadones
@@ -77814,6 +77834,7 @@ methylene
 methylenes
 methylic
 methylmercuries
+methylmercury
 methylphenidate
 methyls
 methylxanthine
@@ -80802,6 +80823,7 @@ monopolizer
 monopolizers
 monopolizes
 monopolizing
+monopoly
 monopropellant
 monopropellants
 monopsonies
@@ -84626,6 +84648,7 @@ nonartist
 nonartists
 nonarts
 nonas
+nonascetic
 nonassertive
 nonassociated
 nonastronomical
@@ -92523,6 +92546,7 @@ paramyxoviruses
 parang
 parangs
 paranoeas
+paranoia
 paranoiac
 paranoiacs
 paranoias
@@ -94034,6 +94058,7 @@ pend
 pendant
 pendantly
 pendants
+pended
 pendency
 pendentive
 pendentives
@@ -95005,6 +95030,7 @@ perversely
 perverseness
 perversenesses
 perversion
+perversions
 perversities
 perversity
 perversive
@@ -97383,6 +97409,7 @@ platforms
 platies
 platiest
 platina
+plating
 platinic
 platinize
 platinized
@@ -103276,6 +103303,7 @@ pulsate
 pulsated
 pulsates
 pulsating
+pulsation
 pulsations
 pulsative
 pulsators
@@ -104295,6 +104323,7 @@ quash
 quashed
 quasher
 quashers
+quashes
 quashing
 quasi
 quasicrystal
@@ -107753,6 +107782,7 @@ refitted
 refitting
 refix
 refixed
+refixes
 refixing
 reflag
 reflagged
@@ -115745,6 +115775,7 @@ scratching
 scratchy
 scrawled
 scrawlers
+scrawlier
 scrawliest
 scrawling
 scrawls
@@ -121706,6 +121737,7 @@ sociolinguistic
 sociolinguists
 sociologically
 sociologies
+sociologist
 sociologists
 sociology
 sociometric
@@ -126637,6 +126669,7 @@ subcellular
 subcenter
 subcenters
 subcentral
+subcentrally
 subchapter
 subchapters
 subchaser
@@ -132125,6 +132158,7 @@ thalassocracies
 thalassocracy
 thalassocrat
 thalassocrats
+thaler
 thalers
 thalidomide
 thalidomides
@@ -132343,6 +132377,7 @@ thereabouts
 thereafter
 thereat
 thereby
+therefor
 therefore
 therefrom
 therein
