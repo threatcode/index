@@ -140,6 +140,7 @@ absorbent
 absorbents
 absorber
 absorbing
+absorbs
 absorptances
 absorption
 absorptions
@@ -5384,6 +5385,7 @@ antivenoms
 antiviolence
 antiviral
 antiviruses
+antivitamin
 antivitamins
 antivivisection
 antiwar
@@ -7916,6 +7918,7 @@ auriculae
 auriculars
 auriculas
 auriculate
+auriform
 auris
 aurist
 aurists
@@ -9198,6 +9201,7 @@ baller
 ballerina
 ballerinas
 ballers
+ballet
 balletic
 balletomane
 balletomanes
@@ -11464,6 +11468,7 @@ besoothing
 besot
 besots
 besotted
+besotting
 bespake
 bespangle
 bespangles
@@ -14025,6 +14030,7 @@ bonspell
 bonspells
 bonspiel
 bonspiels
+bontebok
 bonteboks
 bonus
 bonuses
@@ -23808,6 +23814,7 @@ coequal
 coequalities
 coequality
 coequals
+coequate
 coequated
 coequates
 coequating
@@ -28959,6 +28966,7 @@ crenelling
 crenels
 crenshaw
 crenshaws
+crenulate
 crenulated
 crenulation
 crenulations
@@ -33972,6 +33980,7 @@ desmosomes
 desolated
 desolately
 desolateness
+desolater
 desolaters
 desolating
 desolatingly
@@ -35962,6 +35971,7 @@ disconnected
 disconnectedly
 disconnecting
 disconnection
+disconnections
 disconnects
 disconsolate
 disconsolately
@@ -36477,6 +36487,7 @@ disorders
 disorganization
 disorganize
 disorganized
+disorganizing
 disorient
 disorientate
 disorientated
@@ -36639,6 +36650,7 @@ disproof
 disproofs
 disproportion
 disproportional
+disproportions
 disprovable
 disprovals
 disprove
@@ -36825,6 +36837,7 @@ dissimilating
 dissimilation
 dissimilations
 dissimilatory
+dissimilitude
 dissimilitudes
 dissimulate
 dissimulated
@@ -44270,6 +44283,7 @@ excoriating
 excoriation
 excoriations
 excrement
+excrementitious
 excrements
 excrescence
 excrescencies
@@ -46424,6 +46438,7 @@ feint
 feinted
 feirie
 feist
+feistier
 feistiest
 feistily
 feists
@@ -49597,6 +49612,7 @@ forgoing
 forgot
 forgotten
 forint
+forjudged
 forjudges
 forjudging
 fork
@@ -51892,6 +51908,7 @@ garnered
 garners
 garnetiferous
 garnets
+garni
 garnierite
 garnierites
 garnished
@@ -69427,6 +69444,7 @@ klondikes
 klongs
 kloof
 kloofs
+kludge
 kludged
 kludges
 kludgey
@@ -71727,6 +71745,7 @@ leukemogeneses
 leukemogenesis
 leukemogenic
 leukemoid
+leukocyte
 leukocytes
 leukocytic
 leukocytoses
@@ -76738,6 +76757,7 @@ meitneriums
 mel
 melaleuca
 melaleucas
+melamdim
 melamed
 melamine
 melamines
@@ -80051,6 +80071,7 @@ modernist
 modernists
 modernities
 modernity
+modernization
 modernizations
 modernize
 modernized
@@ -87953,6 +87974,7 @@ organon
 organons
 organophosphate
 organosol
+organosols
 organs
 organum
 organums
@@ -93752,6 +93774,7 @@ pellagrins
 pellagrous
 pelletal
 pelleted
+pelleting
 pelletised
 pelletises
 pelletising
@@ -94248,6 +94271,7 @@ perdy
 perea
 peregrin
 peregrinate
+peregrinated
 peregrinates
 peregrinating
 peregrination
@@ -98703,6 +98727,7 @@ pornographer
 pornographers
 pornographies
 porny
+poromeric
 poromerics
 porose
 porosities
@@ -102327,6 +102352,7 @@ protester
 protesters
 protesting
 protestor
+protestors
 protests
 proteuses
 prothalamia
@@ -104299,6 +104325,7 @@ quillworks
 quillwort
 quillworts
 quilt
+quilted
 quilter
 quilting
 quilts
@@ -105734,6 +105761,7 @@ realignments
 realigns
 realise
 realised
+realiser
 realisers
 realises
 realising
@@ -106869,6 +106897,7 @@ reddles
 rede
 redear
 redecide
+redecided
 redecides
 redeciding
 redecorate
@@ -109441,6 +109470,7 @@ reprehend
 reprehending
 reprehensible
 reprehensibly
+reprehension
 reprehensions
 reprehensive
 represent
@@ -112345,6 +112375,7 @@ roosted
 roosters
 roosts
 root
+rootage
 rootages
 rootcaps
 rooted
@@ -117310,6 +117341,7 @@ sestine
 set
 seta
 setae
+setal
 setback
 setbacks
 setenant
@@ -129730,6 +129762,7 @@ tabuli
 tabulis
 tabun
 tabuns
+tabus
 tacamahac
 tacamahacs
 tace
@@ -129964,6 +129997,7 @@ takeups
 takin
 taking
 takingly
+takings
 takins
 tala
 talapoins
@@ -137580,6 +137614,7 @@ unappreciative
 unappropriated
 unaptly
 unaptness
+unarched
 unarguable
 unarguably
 unargued
