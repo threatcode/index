@@ -8409,6 +8409,7 @@ awaken
 awakened
 awakener
 awakeners
+awakening
 awakenings
 awakens
 awakes
@@ -15820,6 +15821,7 @@ brushier
 brushiest
 brushing
 brushlands
+brushless
 brushoff
 brushoffs
 brushup
@@ -16614,6 +16616,7 @@ bushinesses
 bushing
 bushings
 bushland
+bushlands
 bushless
 bushlike
 bushman
@@ -17844,6 +17847,7 @@ canfuls
 cangue
 cangues
 canicular
+canid
 canids
 canikin
 canikins
@@ -27567,6 +27571,7 @@ correspondency
 correspondent
 correspondents
 corresponding
+correspondingly
 corresponds
 corresponsive
 corrida
@@ -31664,6 +31669,7 @@ debit
 debiting
 debits
 debonair
+debonaire
 debonairly
 debonairness
 debonairnesses
@@ -41158,6 +41164,7 @@ emulous
 emulously
 emulousness
 emulsible
+emulsifiable
 emulsification
 emulsifications
 emulsified
@@ -52539,6 +52546,7 @@ genotypic
 genotypically
 genre
 genres
+genro
 gens
 genseng
 gensengs
@@ -54624,6 +54632,7 @@ granddaughter
 granddaughters
 grandee
 grandees
+grander
 grandest
 grandeur
 grandeurs
@@ -71605,6 +71614,7 @@ lenition
 lenitions
 lenitive
 lenitively
+lenitives
 lenity
 leno
 lenos
@@ -72128,6 +72138,7 @@ lieutenant
 lieutenants
 lieve
 liever
+life
 lifeblood
 lifebloods
 lifeboat
@@ -73376,6 +73387,7 @@ lonesomely
 lonesomeness
 lonesomenesses
 lonesomes
+long
 longan
 longanimities
 longanimity
@@ -74541,6 +74553,7 @@ madness
 madnesses
 madonna
 madonnas
+madrasa
 madrasahs
 madrasas
 madrases
@@ -74584,6 +74597,7 @@ maenades
 maenadic
 maenadism
 maenadisms
+maenads
 maes
 maestosos
 maestri
@@ -77178,6 +77192,7 @@ merch
 merchandise
 merchandised
 merchandisers
+merchandises
 merchandize
 merchandized
 merchandizes
@@ -78700,6 +78715,7 @@ minikin
 minikins
 minilab
 minilabs
+minim
 minima
 minimal
 minimalism
@@ -82380,6 +82396,7 @@ muzzler
 muzzles
 muzzling
 muzzy
+my
 myalgia
 myalgias
 myalgic
@@ -87753,6 +87770,7 @@ optative
 optatives
 opted
 optic
+optical
 optician
 opticians
 opticist
@@ -88227,6 +88245,7 @@ orthogenetic
 orthogonalities
 orthogonality
 orthogonalize
+orthogonalizes
 orthogonalizing
 orthogonally
 orthographic
@@ -91195,6 +91214,7 @@ oxaloacetate
 oxaloacetates
 oxazepam
 oxazepams
+oxazine
 oxazines
 oxblood
 oxbloods
@@ -93733,6 +93753,7 @@ peepers
 peephole
 peeping
 peeps
+peepshow
 peepshows
 peepuls
 peer
@@ -99983,6 +100004,7 @@ predevelopment
 prediabetes
 prediabeteses
 prediabetic
+prediabetics
 predial
 predicables
 predicament
@@ -109083,6 +109105,7 @@ rennases
 rennet
 rennets
 rennin
+renograms
 renographic
 renographies
 renography
@@ -119189,6 +119212,7 @@ signpost
 signposted
 signposts
 signs
+sikas
 sike
 siker
 sikes
@@ -121725,6 +121749,7 @@ solarise
 solarised
 solarises
 solarism
+solarisms
 solarium
 solarizations
 solarized
@@ -125278,6 +125303,7 @@ stirrup
 stirrups
 stirs
 stitch
+stitched
 stitcher
 stitcheries
 stitchery
@@ -128354,6 +128380,7 @@ superstructure
 superstructures
 superstuds
 supersubtle
+supersubtleties
 supersurgeon
 supersurgeons
 supersweet
@@ -129368,6 +129395,7 @@ symbolling
 symbologies
 symbology
 symbols
+symmetallism
 symmetallisms
 symmetrical
 symmetrically
@@ -130333,6 +130361,7 @@ tannin
 tanning
 tannins
 tannish
+tannoys
 tanrec
 tanrecs
 tantalates
@@ -131273,6 +131302,7 @@ tempering
 tempers
 tempest
 tempested
+tempesting
 tempestuous
 tempestuousness
 tempi
@@ -135727,6 +135757,7 @@ tripacks
 tripart
 tripartite
 tripe
+tripedal
 triphase
 triphosphate
 triphosphates
@@ -144532,6 +144563,7 @@ waspiest
 waspinesses
 waspish
 waspishly
+waspishnesses
 wasps
 waspy
 wassail
@@ -144895,6 +144927,7 @@ weaseling
 weaselled
 weaselling
 weaselly
+weasels
 weasely
 weasons
 weather
@@ -145610,6 +145643,7 @@ whitefaces
 whitefish
 whitefishes
 whiteflies
+whitefly
 whitehead
 whiteheads
 whitely
@@ -146792,6 +146826,7 @@ workaholics
 workaholisms
 workbag
 workbags
+workbasket
 workbaskets
 workbenches
 workboat
