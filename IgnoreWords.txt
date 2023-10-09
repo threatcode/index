@@ -102,6 +102,7 @@ absinths
 absolute
 absolutely
 absoluteness
+absolutenesses
 absolutes
 absolutest
 absolution
@@ -4130,6 +4131,7 @@ anchylosed
 anchyloses
 anchylosing
 ancient
+ancienter
 ancientest
 anciently
 ancientness
@@ -5419,6 +5421,7 @@ anurous
 anuses
 anvil
 anviled
+anviling
 anvilled
 anvils
 anviltop
@@ -7578,6 +7581,7 @@ atoning
 atoningly
 atony
 atop
+atopic
 atopies
 atopy
 atrabilious
@@ -13881,6 +13885,7 @@ bombardiers
 bombardment
 bombardons
 bombards
+bombast
 bombasters
 bombastically
 bombasts
@@ -16176,6 +16181,7 @@ bullring
 bullrings
 bullrushes
 bulls
+bullshat
 bullshits
 bullshitted
 bullshitting
@@ -16831,6 +16837,7 @@ buzzwords
 bwana
 bwanas
 by
+bycatch
 bycatches
 bye
 byelaw
@@ -19788,6 +19795,7 @@ centimos
 centipede
 centipedes
 centner
+centners
 cento
 centones
 centra
@@ -20665,6 +20673,7 @@ cheatable
 cheated
 cheater
 cheaters
+cheating
 cheats
 chebec
 chechako
@@ -29280,6 +29289,7 @@ crore
 crores
 crosiers
 crossabilities
+crossability
 crossable
 crossarm
 crossarms
@@ -30987,6 +30997,7 @@ damaskeening
 damaskeens
 damasking
 damasks
+dame
 dames
 dameworts
 damiana
@@ -42647,6 +42658,7 @@ epitomised
 epitomises
 epitomize
 epitomized
+epitomizes
 epitomizing
 epitope
 epitopes
@@ -47946,6 +47958,7 @@ flattish
 flattop
 flattops
 flatulence
+flatulences
 flatulencies
 flatulency
 flatulent
@@ -48398,6 +48411,7 @@ floriated
 floriations
 floricane
 floricanes
+floricultural
 floriculture
 floricultures
 floriculturist
@@ -50301,6 +50315,7 @@ friendlily
 friendliness
 friendlinesses
 friendly
+friends
 friendship
 frier
 friers
@@ -51109,6 +51124,7 @@ fustinesses
 fusulinid
 fusulinids
 futharcs
+futhark
 futharks
 futhorc
 futhorcs
@@ -68425,6 +68441,7 @@ kapellmeister
 kapellmeisters
 kaph
 kaphs
+kapoks
 kappa
 kappas
 kaput
@@ -72576,6 +72593,7 @@ listened
 listener
 listeners
 listenership
+listenerships
 listening
 listens
 lister
@@ -89363,6 +89381,7 @@ outstrives
 outstriving
 outstrode
 outstroke
+outstrokes
 outstrove
 outstudied
 outstudies
@@ -99979,6 +99998,7 @@ prefrank
 prefranked
 prefranking
 prefranks
+prefreeze
 prefrozen
 prefund
 prefunded
@@ -104619,6 +104639,7 @@ radiosensitive
 radiosonde
 radiosondes
 radiostrontium
+radiostrontiums
 radiotelegraph
 radiotelemetric
 radiotelemetry
@@ -106539,6 +106560,7 @@ recreations
 recreative
 recrement
 recrements
+recriminate
 recriminated
 recriminates
 recriminating
@@ -108934,6 +108956,7 @@ reoperate
 reoperated
 reoperates
 reoperating
+reoperation
 reoperations
 reopposed
 reopposes
@@ -110721,6 +110744,7 @@ reunited
 reuniter
 reunites
 reuniting
+reupholster
 reupholstered
 reupholstering
 reupholsters
@@ -118030,6 +118054,7 @@ shippers
 shipping
 shippings
 shippon
+shippons
 ships
 shipshape
 shipside
@@ -119068,6 +119093,7 @@ silvics
 silvicultural
 silviculturally
 silviculture
+silvicultures
 silviculturist
 sima
 simar
@@ -119131,6 +119157,7 @@ simplicia
 simplicial
 simplicities
 simplicity
+simplification
 simplifications
 simplified
 simplifier
@@ -121295,6 +121322,7 @@ sociologically
 sociologies
 sociologists
 sociology
+sociometric
 sociometries
 sociometry
 sociopaths
@@ -121445,6 +121473,7 @@ solanine
 solanines
 solanins
 solano
+solans
 solanum
 solanums
 solar
@@ -122109,6 +122138,7 @@ soursop
 soursops
 sourwood
 sourwoods
+sous
 sousaphone
 sousaphones
 souse
@@ -134297,6 +134327,7 @@ trail
 trailblazer
 trailblazers
 trailbreaker
+trailbreakers
 trailed
 trailer
 trailered
@@ -138662,6 +138693,7 @@ unexercised
 unexotic
 unexpected
 unexpended
+unexpert
 unexpired
 unexplainable
 unexploded
@@ -140208,8 +140240,10 @@ unsung
 unsunk
 unsupervised
 unsupportable
+unsure
 unsurpassable
 unsurpassed
+unsurprised
 unsurprising
 unsurprisingly
 unsusceptible
@@ -146332,6 +146366,7 @@ woodier
 woodies
 woodiest
 woodiness
+woodinesses
 wooding
 woodland
 woodlander
