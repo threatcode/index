@@ -1,0 +1,10 @@
+Message Authentication Code using Universal Hashing - IETF,https://www.ietf.org/rfc/rfc4418.txt
+RFC 2104 - HMAC: Keyed Hashing for Message Authentication - IETF,https://www.ietf.org/rfc/rfc2104.txt
+requirements.txt - microsoft/lsprotocol - GitHub,https://github.com/microsoft/lsprotocol/blob/main/requirements.txt
+hash-iocs.txt - Neo23x0/signature-base - GitHub,https://github.com/Neo23x0/signature-base/blob/master/iocs/hash-iocs.txt
+RFC 6273,https://www.rfc-editor.org/rfc/rfc6273.txt
+RFC 4270: Attacks on Cryptographic Hashes in Internet Protocols,https://www.rfc-editor.org/rfc/rfc4270.txt
+scaling.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/networking/scaling.txt
+Nefilim-Yara-Rules.txt - Trend Micro,https://documents.trendmicro.com/assets/Nefilim-Yara-Rules.txt
+fireeye-cve-hashes.txt,https://www.qualys.com/docs/fireeye-cve-hashes.txt
+oldfaith.txt,https://users.phhp.ufl.edu/pqiu/teaching/stat8051/fall12/data/oldfaith.txt

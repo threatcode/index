@@ -5048,6 +5048,7 @@ antilittering
 antilock
 antilog
 antilogarithms
+antilogical
 antilogies
 antilogs
 antilogy
@@ -7847,6 +7848,7 @@ augite
 augites
 augitic
 augment
+augmentation
 augmentations
 augmentative
 augmentatives
@@ -11883,6 +11885,7 @@ biennials
 biennium
 bienniums
 biers
+biestings
 biface
 bifaces
 bifacially
@@ -16906,6 +16909,7 @@ cabanas
 cabbage
 cabbaged
 cabbages
+cabbageworm
 cabbageworms
 cabbaging
 cabbagy
@@ -21162,6 +21166,7 @@ chimneys
 chimp
 chimpanzees
 chimps
+chin
 china
 chinaberries
 chinaberry
@@ -28899,6 +28904,7 @@ creepiness
 creeping
 creese
 creeses
+creesh
 creeshed
 creeshes
 creeshing
@@ -33398,6 +33404,7 @@ deoxidations
 deoxidizer
 deoxidizers
 deoxidizes
+deoxy
 deoxygenate
 deoxygenates
 deoxygenating
@@ -34773,6 +34780,7 @@ diastem
 diastema
 diastemas
 diastemata
+diastems
 diaster
 diastereoisomer
 diastereomer
@@ -39069,6 +39077,7 @@ dupping
 dups
 durabilities
 durability
+durable
 durableness
 durablenesses
 durably
@@ -39740,6 +39749,7 @@ ectopically
 ectoplasm
 ectoplasmic
 ectoplasms
+ectoproct
 ectoprocts
 ectosarc
 ectosarcs
@@ -41044,6 +41054,7 @@ empressements
 empresses
 emprises
 emptied
+emptier
 emptiers
 empties
 emptiest
@@ -42917,6 +42928,7 @@ ergonomist
 ergonovine
 ergonovines
 ergosterol
+ergosterols
 ergot
 ergotamine
 ergotic
@@ -51388,6 +51400,7 @@ galea
 galeae
 galeas
 galeate
+galeated
 galena
 galenas
 galenic
@@ -54502,6 +54515,7 @@ granadilla
 granaries
 granary
 grand
+grandad
 grandaddies
 grandads
 grandam
@@ -55128,6 +55142,7 @@ griots
 grip
 gripe
 griped
+griper
 gripers
 gripier
 gripiest
@@ -57161,6 +57176,7 @@ harvesttimes
 has
 hasenpfeffer
 hasenpfeffers
+hash
 hashed
 hasheeshes
 hashes
@@ -58272,6 +58288,7 @@ heraldic
 heralding
 heraldist
 heraldists
+heraldries
 heraldry
 herb
 herbaceous
@@ -77893,6 +77910,7 @@ micromeres
 micrometeorite
 micrometeorites
 micrometeoritic
+micrometeoroid
 micrometer
 micrometers
 micromethods
@@ -78828,6 +78846,7 @@ misatones
 misatoning
 misattribute
 misattributes
+misattributing
 misattribution
 misattributions
 misaverring
@@ -79662,6 +79681,7 @@ mistend
 mistended
 mistending
 mistends
+misterm
 misterming
 misterms
 misters
@@ -87847,6 +87867,7 @@ organismal
 organismic
 organismically
 organisms
+organist
 organists
 organizable
 organization
@@ -89569,6 +89590,7 @@ outwore
 outwork
 outworker
 outworkers
+outworks
 outworn
 outwrestle
 outwrestled
@@ -94113,6 +94135,7 @@ perceptivity
 percepts
 perceptual
 perceptually
+perch
 perched
 percher
 perchers
@@ -96033,6 +96056,7 @@ piedmonts
 piefort
 pieforts
 piehole
+pieholes
 pieing
 pieplant
 pier
@@ -101341,6 +101365,7 @@ prochain
 prochein
 prochoice
 prochurch
+proclaim
 proclaimed
 proclaimer
 proclaimers
@@ -109894,6 +109919,7 @@ resighted
 resighting
 resights
 resign
+resignation
 resignations
 resigned
 resignedly
@@ -112190,6 +112216,7 @@ roofie
 roofies
 roofing
 roofings
+roofless
 rooflines
 roofs
 rooftop
@@ -116742,6 +116769,7 @@ sensitisations
 sensitise
 sensitised
 sensitises
+sensitising
 sensitive
 sensitively
 sensitiveness
@@ -117399,6 +117427,7 @@ shadeless
 shader
 shades
 shadflies
+shadier
 shadiest
 shadiness
 shadinesses
@@ -123162,6 +123191,7 @@ spleeny
 splendent
 splendider
 splendidest
+splendidly
 splendidness
 splendidnesses
 splendiferous
@@ -125668,6 +125698,7 @@ stress
 stressed
 stressful
 stressfully
+stressing
 stressless
 stresslessness
 stressor
@@ -128935,6 +128966,7 @@ switchbacked
 switchbacking
 switchbacks
 switchblade
+switchboard
 switchboards
 switched
 switcher
@@ -139123,6 +139155,7 @@ unincorporated
 unindexed
 uninfected
 uninflected
+uninfluenced
 uninformative
 uninformed
 uningratiating
@@ -139896,6 +139929,7 @@ unriddling
 unrifled
 unrig
 unrigging
+unrighteous
 unrighteously
 unrighteousness
 unrigs
@@ -140281,6 +140315,7 @@ unsurprised
 unsurprising
 unsurprisingly
 unsusceptible
+unsuspected
 unsuspecting
 unsustainable
 unswathe
