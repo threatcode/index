@@ -4192,6 +4192,7 @@ andradite
 andro
 androcentric
 androecia
+androecium
 androgen
 androgeneses
 androgenesis
@@ -4316,6 +4317,7 @@ angered
 angering
 angers
 angina
+anginose
 anginous
 angiogeneses
 angiogenesis
@@ -5257,6 +5259,7 @@ antiradar
 antiradars
 antiradical
 antiradicalism
+antiradicalisms
 antirape
 antirational
 antirationalism
@@ -5556,6 +5559,7 @@ aphelions
 apheresis
 apheretic
 apheses
+aphesis
 aphetic
 aphid
 aphides
@@ -8999,6 +9003,7 @@ badgerly
 badges
 badging
 badinage
+badinaged
 badinages
 badinaging
 badland
@@ -13652,6 +13657,7 @@ boasting
 boasts
 boatable
 boatbills
+boatbuilder
 boatbuilders
 boatbuilding
 boatbuildings
@@ -15679,6 +15685,7 @@ bromo
 bromocriptines
 bromos
 bromouracil
+bromouracils
 bronc
 bronchi
 bronchia
@@ -16944,6 +16951,7 @@ bylined
 byliners
 bylines
 bylining
+byname
 bynames
 bypass
 bypassed
@@ -21572,6 +21580,7 @@ chokebores
 chokecherries
 chokecherry
 choked
+chokedamp
 chokehold
 chokeholds
 choker
@@ -34444,6 +34453,7 @@ detoxing
 detract
 detracted
 detraction
+detractions
 detractive
 detractively
 detractor
@@ -38155,6 +38165,7 @@ douras
 dourer
 dourest
 dourine
+dourines
 dourly
 dourness
 dournesses
@@ -43172,6 +43183,7 @@ ergotic
 ergotism
 ergotized
 ergots
+ergs
 erica
 ericaceous
 ericas
@@ -49323,6 +49335,7 @@ foolhardy
 fooling
 foolish
 foolisher
+foolishest
 foolishly
 foolishness
 foolishnesses
@@ -52478,6 +52491,7 @@ gazillion
 gazillions
 gazogene
 gazogenes
+gazoo
 gazoos
 gazpacho
 gazpachos
@@ -65020,6 +65034,7 @@ insalubrities
 insalubrity
 insanely
 insaneness
+insaner
 insanest
 insanitation
 insanitations
@@ -67114,6 +67129,7 @@ islets
 isling
 isms
 isoagglutinin
+isoalloxazine
 isoalloxazines
 isoantibodies
 isoantibody
@@ -69512,6 +69528,7 @@ kindliness
 kindlinesses
 kindling
 kindlings
+kindly
 kindnesses
 kindreds
 kinds
@@ -71808,6 +71825,7 @@ lekythi
 lekythoi
 lekythos
 lekythus
+leman
 lemans
 lemma
 lemmata
@@ -71887,6 +71905,7 @@ lentic
 lenticel
 lenticular
 lenticule
+lenticules
 lentigines
 lentigo
 lentil
@@ -83339,6 +83358,7 @@ naturalism
 naturalisms
 naturalistic
 naturalists
+naturalization
 naturalizations
 naturalize
 naturalized
@@ -87928,6 +87948,7 @@ operagoing
 operagoings
 operand
 operant
+operants
 operas
 operate
 operates
@@ -88620,6 +88641,7 @@ oscinine
 oscitances
 oscitancies
 oscitant
+oscula
 osculant
 oscular
 osculate
@@ -90389,6 +90411,7 @@ overcrowding
 overcrowds
 overcultivation
 overcure
+overcured
 overcuring
 overcut
 overcuts
@@ -95790,6 +95813,7 @@ phlyctenae
 phobia
 phobias
 phobic
+phobics
 phocine
 phoebes
 phoebus
@@ -99678,6 +99702,7 @@ potometers
 potpie
 potpies
 potpourri
+potpourris
 pots
 potshard
 potshards
@@ -100224,6 +100249,7 @@ precising
 precision
 precisionist
 precisionists
+precisions
 precited
 preclean
 precleaned
@@ -100271,6 +100297,7 @@ preconcerting
 preconcerts
 preconciliar
 precondition
+preconditioned
 preconditioning
 preconditions
 preconize
@@ -103425,6 +103452,7 @@ puffball
 puffballs
 puffer
 pufferies
+puffers
 puffery
 puffier
 puffiest
@@ -107799,6 +107827,7 @@ reenactment
 reenactments
 reenactor
 reenactors
+reenacts
 reencounter
 reencountering
 reencounters
@@ -108760,6 +108789,7 @@ reinsurance
 reinsurances
 reinsures
 reinsuring
+reintegrate
 reintegrated
 reintegration
 reintegrations
@@ -110129,6 +110159,7 @@ repunctuation
 repurchase
 repurchased
 repurchases
+repurifies
 repurify
 repurpose
 repurposed
@@ -116465,6 +116496,7 @@ seamark
 seamarks
 seamed
 seamers
+seamier
 seamiest
 seaminesses
 seamless
@@ -118438,6 +118470,7 @@ sheepishnesses
 sheepmen
 sheepshank
 sheepshanks
+sheepsheads
 sheepshearer
 sheepshearers
 sheepshearings
@@ -121439,6 +121472,7 @@ smushes
 smut
 smutch
 smutched
+smutches
 smutchier
 smutchiest
 smutching
@@ -135014,6 +135048,7 @@ tractability
 tractable
 tractableness
 tractably
+tractate
 tractates
 traction
 tractional
