@@ -8961,6 +8961,7 @@ backswings
 backswords
 backtrack
 backtracked
+backtracking
 backups
 backward
 backwardly
@@ -12162,6 +12163,7 @@ bilking
 bilks
 billable
 billabongs
+billboard
 billboarded
 billboarding
 billboards
@@ -17600,6 +17602,7 @@ callose
 calloses
 callosities
 callosity
+callous
 calloused
 callouses
 callousing
@@ -18939,6 +18942,7 @@ carpologies
 carpology
 carpool
 carpooled
+carpooler
 carpooling
 carpools
 carpophore
@@ -21221,6 +21225,7 @@ chicks
 chickweeds
 chicle
 chicly
+chicness
 chicnesses
 chico
 chicories
@@ -25799,6 +25804,7 @@ condensing
 condescend
 condescended
 condescendence
+condescendences
 condescending
 condescends
 condescension
@@ -28659,6 +28665,7 @@ cowflops
 cowgirl
 cowhage
 cowhages
+cowhand
 cowherb
 cowherbs
 cowherd
@@ -30061,6 +30068,7 @@ cuckoopints
 cucullate
 cucumbers
 cucurbit
+cucurbits
 cud
 cudbears
 cuddies
@@ -30403,6 +30411,7 @@ curetted
 curettement
 curettes
 curetting
+curf
 curfew
 curfews
 curfs
@@ -31425,6 +31434,7 @@ dankest
 dankness
 danknesses
 dans
+danseur
 danseurs
 danseuses
 dap
@@ -36255,6 +36265,7 @@ discomfort
 discomfortable
 discomforted
 discomforting
+discomforts
 discommend
 discommends
 discommode
@@ -62599,6 +62610,7 @@ imaums
 imbalance
 imbalances
 imbalm
+imbalmed
 imbalmers
 imbalming
 imbalms
@@ -67227,6 +67239,7 @@ irreality
 irreclaimable
 irreclaimably
 irreconcilable
+irreconcilables
 irreconcilably
 irrecoverable
 irrecoverably
@@ -70125,6 +70138,7 @@ knitter
 knitting
 knittings
 knitwear
+knives
 knobbed
 knobbier
 knobbiest
@@ -73809,6 +73823,7 @@ lofts
 lofty
 log
 logan
+loganberries
 loganberry
 logania
 logaoedic
@@ -75652,6 +75667,7 @@ malpractices
 malpractitioner
 malt
 maltases
+malted
 malteds
 malthas
 maltier
@@ -76169,6 +76185,7 @@ marbly
 marc
 marcasites
 marcato
+marcatos
 marcel
 marceller
 marcellers
@@ -89748,6 +89765,7 @@ outkicking
 outkicks
 outkilled
 outkilling
+outkills
 outkiss
 outkissed
 outkisses
@@ -90584,6 +90602,7 @@ overboils
 overbold
 overbook
 overbooked
+overbooking
 overbooks
 overborn
 overborne
@@ -95758,6 +95777,7 @@ petrodollars
 petrogeneses
 petrogenesis
 petrogenetic
+petrogenies
 petrogeny
 petroglyph
 petrographer
@@ -100598,6 +100618,7 @@ precipitation
 precipitative
 precipitator
 precipitin
+precipitinogen
 precipitinogens
 precipitins
 precipitous
@@ -102288,6 +102309,7 @@ processers
 processes
 processibility
 processible
+processing
 procession
 processionals
 processioning
@@ -104791,6 +104813,7 @@ quadruplication
 quadruplicities
 quadruplicity
 quadrupling
+quadruply
 quadrupole
 quadrupoles
 quads
@@ -105802,6 +105825,7 @@ rainbands
 rainbird
 rainbirds
 rainbow
+rainbowlike
 rainbows
 raincheck
 raincoat
@@ -106262,6 +106286,7 @@ ratines
 rating
 ratings
 ratio
+ratiocinated
 ratiocinates
 ratiocinating
 ratiocination
@@ -118276,6 +118301,7 @@ serviette
 servile
 servilely
 servilenesses
+servility
 serving
 servings
 servitor
@@ -120782,6 +120808,7 @@ skiffled
 skiffles
 skiffs
 skiing
+skijorer
 skijorers
 skijoring
 skijorings
@@ -123041,6 +123068,7 @@ sooner
 soonest
 soot
 sooth
+soothe
 soothed
 soother
 soothers
@@ -123327,6 +123355,7 @@ souslik
 sousliks
 soutache
 soutanes
+souter
 souters
 south
 southbound
@@ -125442,6 +125471,7 @@ staringly
 stark
 starker
 starkest
+starkly
 starkness
 starknesses
 starless
@@ -128865,6 +128895,7 @@ sunsuit
 sunsuits
 suntan
 suntanned
+suntanning
 suntans
 sunup
 sunups
@@ -131945,6 +131976,7 @@ tedded
 teddered
 teddering
 tedders
+teddies
 tedding
 teddy
 tedious
@@ -132931,6 +132963,7 @@ tets
 tetter
 tetters
 teuch
+teughly
 teutonize
 tevatron
 tevatrons
@@ -141279,6 +141312,7 @@ unsalably
 unsalaried
 unsalted
 unsalvageable
+unsampled
 unsanctioned
 unsated
 unsatisfactory
@@ -144807,6 +144841,7 @@ voltages
 voltaic
 voltaism
 volte
+volti
 voltmeter
 voltmeters
 volts
