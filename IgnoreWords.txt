@@ -129,6 +129,7 @@ absorbabilities
 absorbability
 absorbable
 absorbance
+absorbances
 absorbancies
 absorbancy
 absorbant
@@ -6616,6 +6617,7 @@ aroma
 aromas
 aromatase
 aromatherapies
+aromatherapist
 aromatically
 aromaticities
 aromatics
@@ -7731,6 +7733,7 @@ atticists
 atticize
 atticizes
 atticizing
+attics
 attired
 attires
 attiring
@@ -13836,6 +13839,7 @@ boho
 bohos
 bohrium
 bohriums
+bohunk
 bohunks
 boil
 boilable
@@ -14306,6 +14310,7 @@ borals
 borane
 boranes
 boras
+borate
 borated
 borates
 borating
@@ -16707,6 +16712,7 @@ businessperson
 businesspersons
 businesswoman
 businesswomen
+busing
 busings
 busk
 busked
@@ -20943,6 +20949,7 @@ chemoautotrophy
 chemokine
 chemokines
 chemoreception
+chemoreceptions
 chemoreceptive
 chemoreceptor
 chemoreceptors
@@ -23654,6 +23661,7 @@ cocking
 cockish
 cockle
 cockleburs
+cockled
 cockles
 cockleshell
 cockleshells
@@ -29978,6 +29986,7 @@ cuittling
 cuke
 cukes
 culch
+culches
 culet
 culets
 culexes
@@ -31161,6 +31170,7 @@ damianas
 dammar
 dammars
 dammed
+dammer
 dammers
 damming
 dammit
@@ -35454,6 +35464,7 @@ dimenhydrinate
 dimenhydrinates
 dimension
 dimensionality
+dimensionally
 dimensioned
 dimensioning
 dimensionless
@@ -37436,6 +37447,7 @@ djinns
 djins
 doated
 doating
+doats
 dobbin
 dobbins
 dobby
@@ -39850,6 +39862,7 @@ eclats
 eclectic
 eclecticism
 eclecticisms
+eclectics
 eclipse
 eclipser
 eclipsis
@@ -41671,6 +41684,7 @@ endopeptidase
 endopeptidases
 endoperoxide
 endoperoxides
+endophyte
 endophytes
 endophytic
 endoplasm
@@ -45335,6 +45349,7 @@ extralinguistic
 extraliterary
 extralogical
 extramarital
+extramundane
 extramural
 extramurally
 extraneous
@@ -46267,6 +46282,7 @@ fatalistic
 fatalistically
 fatalists
 fatalities
+fatality
 fatally
 fatalness
 fatalnesses
@@ -51566,6 +51582,7 @@ gaed
 gaeing
 gaen
 gaff
+gaffe
 gaffed
 gaffer
 gaffers
@@ -52404,6 +52421,7 @@ gawkers
 gawkier
 gawkies
 gawkily
+gawkinesses
 gawking
 gawkish
 gawkishly
@@ -64389,6 +64407,7 @@ infinitively
 infinitude
 infinity
 infirm
+infirmary
 infirmed
 infirming
 infirmities
@@ -72843,6 +72862,7 @@ lionising
 lionizations
 lionize
 lionized
+lionizers
 lionizes
 lionizing
 lionlike
@@ -79446,6 +79466,7 @@ misdiagnosed
 misdiagnoses
 misdiagnosis
 misdialed
+misdialled
 misdialling
 misdials
 misdid
@@ -86865,6 +86886,7 @@ observes
 observing
 observingly
 obsess
+obsessed
 obsesses
 obsessing
 obsession
@@ -87883,6 +87905,7 @@ operabilities
 operable
 operably
 operagoer
+operagoers
 operagoing
 operagoings
 operand
@@ -89939,6 +89962,7 @@ outtrumps
 outturn
 outturns
 outvalue
+outvalued
 outvaunt
 outvaunted
 outvaunting
@@ -92466,6 +92490,7 @@ papally
 paparazzi
 paparazzo
 papas
+papaverines
 papaws
 papaya
 papayan
@@ -93312,6 +93337,7 @@ pasteurises
 pasteurising
 pasteurizations
 pasteurize
+pasteurized
 pasteurizer
 pasteurizers
 pasteurizes
@@ -97723,6 +97749,7 @@ plead
 pleadable
 pleader
 pleaders
+pleading
 pleadingly
 pleadings
 pleads
@@ -98182,6 +98209,7 @@ pocketknife
 pockets
 pocketsful
 pockier
+pockiest
 pockily
 pocking
 pockmark
@@ -104937,6 +104965,7 @@ rabbinical
 rabbinically
 rabbinisms
 rabbins
+rabbis
 rabbit
 rabbitbrush
 rabbited
@@ -117788,6 +117817,7 @@ sessility
 sessional
 sesspool
 sesspools
+sesterce
 sesterces
 sestertia
 sestertium
@@ -122088,6 +122118,7 @@ soilborne
 soiled
 soiling
 soilless
+soils
 soilures
 soiree
 soirees
@@ -129351,6 +129382,7 @@ swashbucklers
 swashbuckles
 swashed
 swasher
+swashers
 swashing
 swasticas
 swastikas
@@ -130072,6 +130104,7 @@ synth
 syntheses
 synthesis
 synthesist
+synthesists
 synthesize
 synthesized
 synthesizer
@@ -135902,6 +135935,7 @@ trichite
 trichites
 trichlorfons
 trichlorphon
+trichlorphons
 trichocyst
 trichocysts
 trichogyne
@@ -136072,6 +136106,7 @@ trihedra
 trihedrals
 trihedron
 trihybrid
+trihybrids
 trihydroxy
 trijet
 trijets
