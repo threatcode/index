@@ -1992,6 +1992,7 @@ agenesias
 agenesis
 agenetic
 agenize
+agenizes
 agenizing
 agent
 agented
@@ -2300,6 +2301,7 @@ aimful
 aimfully
 aiming
 aimless
+aimlessly
 aimlessness
 aimlessnesses
 aims
@@ -6543,6 +6545,7 @@ arithmetic
 arithmetical
 arithmetically
 arithmetician
+arithmeticians
 ark
 arkose
 arkoses
@@ -9276,6 +9279,7 @@ balloonists
 balloons
 ballot
 balloted
+balloters
 balloting
 ballots
 ballpark
@@ -10124,6 +10128,7 @@ battered
 batterie
 batteries
 battering
+batters
 battiest
 battik
 battiks
@@ -11414,6 +11419,7 @@ berrying
 berryless
 berrylike
 berseem
+berseems
 berserk
 berserker
 berserkers
@@ -11570,6 +11576,7 @@ bestowal
 bestowals
 bestowed
 bestowers
+bestowing
 bestows
 bestrew
 bestrewed
@@ -14081,6 +14088,7 @@ bonitos
 bonked
 bonkers
 bonking
+bonks
 bonne
 bonnes
 bonnet
@@ -18848,6 +18856,7 @@ carpels
 carpenter
 carpentered
 carpentering
+carpentries
 carpentry
 carper
 carpers
@@ -23787,6 +23796,7 @@ coddles
 coddling
 code
 codebook
+codebooks
 codebtor
 codebtors
 codec
@@ -26402,6 +26412,7 @@ consoling
 consolingly
 consols
 consomme
+consommes
 consonance
 consonances
 consonant
@@ -29619,6 +29630,7 @@ crowing
 crowkeeper
 crowkeepers
 crown
+crowned
 crowner
 crownet
 crownets
@@ -33255,6 +33267,7 @@ demobbed
 demobbing
 demobilization
 demobilize
+demobilized
 demobilizes
 demobilizing
 democracies
@@ -38128,6 +38141,7 @@ double
 doubled
 doubleheader
 doubleheaders
+doubleness
 doublenesses
 doubler
 doubles
@@ -61384,6 +61398,7 @@ hygrometers
 hygrometric
 hygrophilous
 hygrophytes
+hygrophytic
 hygroscopic
 hygroscopicity
 hygrostats
@@ -63223,6 +63238,7 @@ improvisers
 improvises
 improvising
 improvisor
+improvisors
 improvs
 imprudence
 imprudently
@@ -67251,6 +67267,7 @@ isocracy
 isocyanate
 isocyanates
 isocyclic
+isodiametric
 isodose
 isoelectric
 isoelectronic
@@ -67914,6 +67931,7 @@ jellify
 jellifying
 jelling
 jello
+jellos
 jells
 jelly
 jellybeans
@@ -70019,6 +70037,7 @@ knuckly
 knurl
 knurled
 knurlier
+knurliest
 knurling
 knurls
 knurly
@@ -74251,6 +74270,7 @@ ludicrousnesses
 lues
 luetic
 luetics
+luff
 luffed
 luffing
 luftmenschen
@@ -75484,6 +75504,7 @@ mammalians
 mammalities
 mammality
 mammalogists
+mammalogy
 mammals
 mammary
 mammas
@@ -76045,6 +76066,7 @@ marinading
 marinas
 marinate
 marinated
+marinates
 marinating
 marination
 marinations
@@ -81684,6 +81706,7 @@ motleyest
 motleys
 motlier
 motliest
+motmot
 motmots
 motocross
 motoneuron
@@ -89980,6 +90003,7 @@ outstayed
 outstaying
 outsteer
 outsteered
+outsteering
 outsteers
 outstood
 outstretch
@@ -94627,6 +94651,7 @@ peopleless
 peopler
 peoplers
 peoples
+peopling
 pep
 peperomia
 peperomias
@@ -98386,6 +98411,7 @@ podocarp
 podomere
 podomeres
 podophyllin
+podophyllins
 podophyllum
 podophyllums
 pods
@@ -118315,6 +118341,7 @@ shamas
 shamble
 shambled
 shambles
+shambling
 shambolic
 shame
 shameable
@@ -127797,6 +127824,7 @@ subsystem
 subsystems
 subtask
 subtasks
+subtaxa
 subtaxon
 subtaxons
 subteens
@@ -136565,6 +136593,7 @@ triunity
 trivalve
 trivet
 trivets
+trivia
 trivial
 trivialise
 trivialised
@@ -141242,6 +141271,7 @@ unsymmetrical
 unsymmetrically
 unsynchronized
 unsystematic
+unsystematized
 untack
 untacked
 untacking
@@ -143087,6 +143117,7 @@ venomousnesses
 venoms
 venosities
 venosity
+venous
 venously
 vent
 ventage
@@ -146216,6 +146247,7 @@ whiner
 whiners
 whines
 whingding
+whinge
 whinged
 whingeing
 whinger
@@ -146716,9 +146748,11 @@ willows
 willowware
 willowwares
 willowy
+willpower
 willpowers
 willy
 willyard
+willying
 willywaw
 willywaws
 wilt
@@ -148584,6 +148618,7 @@ zamindari
 zamindaris
 zamindars
 zanana
+zander
 zanders
 zanier
 zanies
