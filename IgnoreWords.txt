@@ -563,6 +563,7 @@ acequia
 acequias
 acerate
 acerated
+acerb
 acerbate
 acerbated
 acerbates
@@ -3638,6 +3639,7 @@ amis
 amitoses
 amitosis
 amitotic
+amitotically
 amitriptylines
 ammeters
 ammine
@@ -5392,6 +5394,7 @@ antitype
 antitypes
 antityphoid
 antitypic
+antiulcer
 antiunion
 antiuniversity
 antiurban
@@ -8626,6 +8629,7 @@ azulejos
 azure
 azures
 azurite
+azurites
 azygos
 azygoses
 ba
@@ -14202,6 +14206,7 @@ boomerang
 boomeranged
 boomeranging
 boomerangs
+boomers
 boomier
 boomiest
 booming
@@ -24617,6 +24622,7 @@ colugos
 columbaria
 columbaries
 columbarium
+columbary
 columbine
 columbines
 columbium
@@ -27288,6 +27294,7 @@ coracle
 coracles
 coracoid
 coracoids
+coral
 coralbells
 coralberries
 coralberry
@@ -27960,6 +27967,7 @@ cotransfer
 cotransfers
 cotransported
 cotransporting
+cotransports
 cotrustee
 cots
 cottae
@@ -30378,6 +30386,7 @@ curtseys
 curtsied
 curtsy
 curule
+curvaceous
 curvacious
 curvature
 curvatures
@@ -31366,6 +31375,7 @@ dash
 dashboard
 dashboards
 dashed
+dasheen
 dasheens
 dasher
 dashi
@@ -34172,6 +34182,7 @@ despotism
 despots
 despumate
 despumated
+despumates
 desquamated
 desquamates
 desquamation
@@ -37659,6 +37670,7 @@ doles
 dolichocephaly
 doling
 doll
+dollar
 dollarize
 dollarized
 dollarizes
@@ -43291,6 +43303,7 @@ escalades
 escalate
 escalated
 escalates
+escalating
 escalation
 escalations
 escalator
@@ -51625,6 +51638,7 @@ galangal
 galangas
 galantine
 galantines
+galas
 galatea
 galateas
 galavanted
@@ -55003,6 +55017,7 @@ gratingly
 gratings
 gratitude
 gratitudes
+gratuitous
 gratuitously
 gratuitousness
 gratuity
@@ -64745,6 +64760,7 @@ injects
 injudiciously
 injudiciousness
 injunction
+injunctions
 injunctive
 injurable
 injure
@@ -65852,6 +65868,7 @@ intermissions
 intermit
 intermitotic
 intermits
+intermittence
 intermittences
 intermittency
 intermittent
@@ -69629,6 +69646,7 @@ kitties
 kitting
 kittiwake
 kittiwakes
+kittle
 kittled
 kittler
 kittles
@@ -71625,6 +71643,7 @@ legendaries
 legendarily
 legendize
 legendized
+legendizes
 legendizing
 legendries
 legends
@@ -83093,6 +83112,7 @@ narcoleptic
 narcoleptics
 narcoma
 narcomas
+narcomata
 narcos
 narcose
 narcoses
@@ -85906,6 +85926,7 @@ nonyl
 nonyls
 nonzero
 noo
+noodge
 noodges
 noodging
 noodled
@@ -93091,6 +93112,7 @@ particulate
 particulates
 partied
 partier
+parties
 parting
 partisan
 partisanship
@@ -93280,6 +93302,7 @@ pastiche
 pastiches
 pasticheur
 pasticheurs
+pastie
 pasties
 pastiest
 pastil
@@ -103552,6 +103575,7 @@ punctuates
 punctuating
 punctuation
 punctuations
+punctuator
 punctuators
 puncture
 puncturing
@@ -107492,6 +107516,7 @@ redoxes
 redpoll
 redpolls
 redraft
+redrafted
 redrafting
 redrafts
 redraw
@@ -109598,6 +109623,7 @@ repaves
 repaving
 repay
 repayable
+repaying
 repayments
 repays
 repeal
@@ -115340,6 +115366,7 @@ scepters
 sceptic
 sceptical
 scepticism
+scepticisms
 sceptics
 sceptral
 sceptred
@@ -124565,6 +124592,7 @@ stagged
 staggerbush
 staggerbushes
 staggerer
+staggering
 staggeringly
 staggers
 staggery
@@ -125613,6 +125641,7 @@ stipulating
 stipulations
 stipulator
 stipulatory
+stipule
 stipuled
 stipules
 stir
@@ -137160,6 +137189,7 @@ turpeths
 turpitude
 turpitudes
 turquois
+turquoise
 turquoises
 turret
 turreted
@@ -138534,6 +138564,7 @@ uncoalesce
 uncoalesced
 uncoalesces
 uncoalescing
+uncoated
 uncoating
 uncoatings
 uncock
@@ -140302,6 +140333,7 @@ unplowed
 unplucked
 unplug
 unplugged
+unplugging
 unplugs
 unplumbed
 unpoetic
@@ -142221,6 +142253,7 @@ vandalise
 vandalised
 vandalises
 vandalish
+vandalism
 vandalisms
 vandalistic
 vandalization
@@ -142527,6 +142560,7 @@ vaw
 vaward
 vawards
 vawntie
+vaws
 veal
 vealed
 vealer
@@ -145874,6 +145908,7 @@ whig
 whigmaleerie
 whigmaleeries
 whigs
+while
 whiled
 whiles
 whiling
