@@ -327,6 +327,7 @@ accents
 accentually
 accentuate
 accentuated
+accentuates
 accentuating
 accentuation
 accentuations
@@ -359,6 +360,7 @@ accessed
 accesses
 accessibility
 accessible
+accessibleness
 accessibly
 accessing
 accessioned
@@ -939,6 +941,7 @@ activates
 activating
 activation
 activations
+activator
 active
 actively
 activeness
@@ -3713,6 +3716,7 @@ amoeban
 amoebas
 amoebean
 amoebiasis
+amoebic
 amoebocyte
 amoebocytes
 amoeboid
@@ -11650,6 +11654,7 @@ bethinks
 bethorn
 bethorned
 bethorning
+bethorns
 bethought
 beths
 bethump
@@ -16923,6 +16928,7 @@ buttstocks
 butty
 butut
 bututs
+butyl
 butylate
 butylated
 butylates
@@ -21716,6 +21722,7 @@ chop
 chophouse
 chophouses
 chopin
+chopine
 chopines
 chopins
 choplogic
@@ -22655,6 +22662,7 @@ clangour
 clangoured
 clangours
 clangs
+clank
 clankier
 clanking
 clankingly
@@ -22720,6 +22728,7 @@ clashers
 clashes
 clashing
 clasp
+clasped
 clasping
 clasps
 claspt
@@ -35064,6 +35073,7 @@ diasporas
 diaspore
 diaspores
 diasporic
+diastase
 diastasic
 diastatic
 diastem
@@ -38177,6 +38187,7 @@ doters
 dotes
 doth
 dotier
+dotiest
 doting
 dotingly
 dots
@@ -40393,6 +40404,7 @@ eglatere
 eglateres
 eglomise
 ego
+egocentric
 egocentrically
 egocentricities
 egocentricity
@@ -47074,6 +47086,7 @@ ferruginous
 ferrule
 ferruled
 ferrules
+ferruling
 ferrum
 ferrums
 ferry
@@ -47632,6 +47645,7 @@ filming
 filmis
 filmland
 filmlands
+filmless
 filmlike
 filmmaker
 filmmakers
@@ -49093,6 +49107,7 @@ fluorometries
 fluorometry
 fluoroscopes
 fluoroscopic
+fluoroscopies
 fluoroscoping
 fluoroscopist
 fluoroscopists
@@ -52060,6 +52075,7 @@ gamester
 gametal
 gametangia
 gametangium
+gamete
 gametic
 gametically
 gametocyte
@@ -53198,6 +53214,7 @@ gestative
 gestatory
 geste
 gestes
+gestic
 gestical
 gesticulant
 gesticulate
@@ -55564,6 +55581,7 @@ grillwork
 grilse
 grim
 grimaced
+grimacer
 grimacers
 grimaces
 grimacing
@@ -63850,6 +63868,7 @@ incorruptnesses
 increasable
 increased
 increaser
+increases
 increasing
 increasingly
 increate
@@ -64248,6 +64267,7 @@ indoxyls
 indraft
 indrafts
 indraughts
+indrawn
 indri
 indris
 indubitability
@@ -69226,6 +69246,7 @@ kef
 keffiyah
 keffiyahs
 keffiyeh
+keffiyehs
 kefir
 keg
 kegeler
@@ -93189,6 +93210,7 @@ parentless
 pareo
 pareos
 parergon
+parers
 pares
 pareses
 paresis
@@ -93451,6 +93473,7 @@ partitions
 partitive
 partitively
 partitives
+partizan
 partlet
 partlets
 partly
@@ -93508,6 +93531,7 @@ pashalics
 pashalik
 pashaliks
 pashas
+pashed
 pashes
 pashing
 pashminas
@@ -94843,6 +94867,7 @@ peptized
 peptizer
 peptizers
 peptizes
+peptizing
 peptone
 peptonic
 peptonize
@@ -97377,6 +97402,7 @@ pirayas
 piriform
 pirn
 pirns
+pirog
 pirogen
 piroghi
 pirogi
@@ -105455,6 +105481,7 @@ radicalize
 radicalized
 radicalizes
 radicalizing
+radicalness
 radicalnesses
 radicals
 radicand
@@ -106791,6 +106818,7 @@ rebelling
 rebellion
 rebellions
 rebellious
+rebelliously
 rebelliousness
 rebels
 rebid
@@ -126692,6 +126720,7 @@ streps
 streptobacilli
 streptococcal
 streptococcic
+streptokinase
 streptokinases
 streptolysin
 streptolysins
@@ -127560,6 +127589,7 @@ subjections
 subjective
 subjectively
 subjectiveness
+subjectives
 subjectivise
 subjectivised
 subjectivising
@@ -130297,6 +130327,7 @@ synapse
 synapsed
 synapses
 synapsid
+synapsids
 synapsing
 synapsis
 synaptic
@@ -134268,6 +134299,7 @@ tithable
 tithe
 tithed
 tithers
+tithes
 tithing
 tithings
 tithonia
@@ -137615,6 +137647,7 @@ turkoises
 turks
 turmeric
 turmerics
+turmoil
 turmoiling
 turmoils
 turn
@@ -140042,6 +140075,7 @@ ungarnished
 ungated
 ungazing
 ungelded
+ungenerosities
 ungenerosity
 ungenerously
 ungenial
@@ -145364,6 +145398,7 @@ warmups
 warn
 warned
 warners
+warning
 warningly
 warnings
 warns
