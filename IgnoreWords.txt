@@ -4264,6 +4264,7 @@ anemographs
 anemologies
 anemology
 anemometer
+anemometers
 anemometry
 anemone
 anemones
@@ -4307,6 +4308,7 @@ aneurism
 aneurysm
 aneurysmal
 aneurysms
+anew
 anfractuosities
 anfractuosity
 anfractuous
@@ -11576,6 +11578,7 @@ bespoken
 bespoused
 bespouses
 bespousing
+bespread
 bespreading
 besprent
 besprinkle
@@ -12715,6 +12718,7 @@ bisques
 bister
 bistered
 bisters
+bistort
 bistorts
 bistoury
 bistre
@@ -13719,6 +13723,7 @@ boatlift
 boatlifted
 boatlifts
 boatlike
+boatload
 boatloads
 boatman
 boatneck
@@ -24886,6 +24891,7 @@ comfy
 comic
 comical
 comicality
+comically
 comics
 coming
 comingle
@@ -24928,6 +24934,7 @@ commemoratively
 commemoratives
 commemorator
 commemorators
+commenced
 commencement
 commencements
 commencer
@@ -28351,6 +28358,7 @@ counterpuncher
 counterpunches
 counterpunching
 counterquestion
+counterraid
 counterrallied
 counterrallies
 counterrally
@@ -31213,6 +31221,7 @@ dairies
 dairy
 dairying
 dairyings
+dairymaids
 dairyman
 dairymen
 dais
@@ -33371,6 +33380,7 @@ demoiselles
 demolished
 demolisher
 demolishers
+demolishes
 demolishment
 demolition
 demolitionists
@@ -35852,6 +35862,7 @@ dipnetting
 dipnoan
 dipnoans
 dipodic
+dipodies
 dipole
 dipoles
 dippable
@@ -39597,6 +39608,7 @@ dying
 dyings
 dyked
 dykes
+dyking
 dynameter
 dynameters
 dynamic
@@ -42777,6 +42789,7 @@ ephebic
 ephebos
 ephedra
 ephedras
+ephedrin
 ephedrine
 ephedrines
 ephedrins
@@ -46257,6 +46270,7 @@ faquirs
 far
 farad
 faradaic
+faraday
 faradays
 faradic
 faradised
@@ -49856,6 +49870,7 @@ forereach
 forereached
 forereaches
 forereaching
+forerun
 forerunners
 forerunning
 fores
@@ -71596,6 +71611,7 @@ layerages
 layering
 layerings
 layers
+layette
 layettes
 layin
 laying
@@ -72298,6 +72314,7 @@ leucoplast
 leucoplasts
 leudes
 leuds
+leukaemia
 leukaemias
 leukaemogenesis
 leukemia
@@ -74228,6 +74245,7 @@ loutish
 loutishness
 loutishnesses
 louts
+louver
 louvered
 louvers
 louvre
@@ -80339,6 +80357,7 @@ misstarts
 misstate
 misstated
 misstates
+misstating
 missteer
 missteered
 missteering
@@ -89448,6 +89467,7 @@ outdoes
 outdoing
 outdone
 outdoor
+outdoorsman
 outdoorsmen
 outdoorsy
 outdrag
@@ -93225,6 +93245,7 @@ pards
 parecism
 parecisms
 pared
+paregoric
 paregorics
 pareira
 pareiras
@@ -93613,6 +93634,7 @@ passenger
 passengers
 passepieds
 passer
+passerby
 passerine
 passerines
 passers
@@ -98574,6 +98596,7 @@ pocking
 pockmark
 pockmarked
 pockmarks
+pocks
 pocky
 poco
 pococurante
@@ -106558,6 +106581,7 @@ reaffirmed
 reaffirming
 reaffirms
 reaffix
+reaffixed
 reaffixing
 reafforestation
 reafforested
@@ -106811,6 +106835,7 @@ reavails
 reave
 reaver
 reavers
+reaves
 reaving
 reavowing
 reavows
@@ -113343,6 +113368,7 @@ roselike
 roselle
 roselles
 rosemalings
+rosemaries
 rosemary
 roseolar
 roseolas
@@ -114012,6 +114038,7 @@ runty
 runway
 runways
 rupee
+rupees
 rupiah
 rupiahs
 ruptured
@@ -114439,6 +114466,7 @@ sailcloth
 sailcloths
 sailed
 sailer
+sailers
 sailfish
 sailfishes
 sailing
@@ -118147,6 +118175,7 @@ serosa
 serosae
 serosal
 serosas
+serosities
 serosity
 serotinal
 serotine
@@ -124879,6 +124908,7 @@ squawk
 squawked
 squawkers
 squawking
+squawks
 squawroot
 squawroots
 squaws
@@ -129177,6 +129207,7 @@ superrealism
 superrealisms
 superregional
 superrich
+superroad
 superroads
 superromantic
 supers
@@ -134857,6 +134888,7 @@ toothsomely
 toothsomeness
 toothsomenesses
 toothwort
+toothworts
 toothy
 tooting
 tootle
@@ -137189,6 +137221,7 @@ truffles
 trug
 truing
 truism
+truisms
 truistic
 trull
 trulls
@@ -137418,6 +137451,7 @@ tubulous
 tubulure
 tubulures
 tuchun
+tuck
 tuckahoe
 tuckahoes
 tucked
@@ -140319,6 +140353,7 @@ unicycled
 unicycles
 unicycling
 unicyclist
+unicyclists
 unideaed
 unidentified
 unideological
