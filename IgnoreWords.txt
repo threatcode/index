@@ -1192,6 +1192,7 @@ adjoined
 adjoining
 adjoins
 adjoint
+adjourn
 adjourned
 adjourning
 adjournment
@@ -2140,6 +2141,7 @@ agnates
 agnatic
 agnations
 agnized
+agnizes
 agnizing
 agnomen
 agnomens
@@ -18060,6 +18062,7 @@ cantaloupes
 cantaloups
 cantankerous
 cantankerously
+cantatas
 cantatrice
 cantatrices
 cantatrici
@@ -22614,6 +22617,7 @@ clapboard
 clapboarded
 clapboarding
 clapboards
+clapperclaw
 clapperclawed
 clapperclawing
 clapperclaws
@@ -26626,6 +26630,7 @@ contention
 contentions
 contentious
 contentiously
+contentment
 contentments
 conterminously
 contes
@@ -29839,6 +29844,7 @@ cryptographer
 cryptographers
 cryptographic
 cryptographies
+cryptographs
 cryptography
 cryptologic
 cryptological
@@ -31903,7 +31909,9 @@ decapitators
 decapod
 decapodal
 decapodan
+decapodans
 decapodous
+decarbonate
 decarbonated
 decarbonates
 decarbonations
@@ -33337,6 +33345,7 @@ demounting
 demounts
 dempster
 dempsters
+demulcent
 demulsified
 demulsifies
 demulsifying
@@ -36120,6 +36129,7 @@ discommends
 discommode
 discommoded
 discommodes
+discommoding
 discompose
 discomposed
 discomposes
@@ -38706,6 +38716,7 @@ drinkables
 drinkably
 drinker
 drinkers
+drinking
 drinkings
 drip
 dripped
@@ -44272,6 +44283,7 @@ exactitude
 exactly
 exactness
 exactnesses
+exactor
 exactors
 exacts
 exaggerate
@@ -48061,6 +48073,7 @@ flagmen
 flagon
 flagons
 flagpole
+flagpoles
 flagrance
 flagrances
 flagrancy
@@ -52814,6 +52827,7 @@ gentrifies
 gentrify
 gentrifying
 gentry
+genu
 genua
 genuflect
 genuflected
@@ -57333,6 +57347,7 @@ hardscrabble
 hardset
 hardship
 hardships
+hardstand
 hardstanding
 hardstandings
 hardstands
@@ -57704,6 +57719,7 @@ hawser
 hawsers
 hawses
 hawthorn
+hawthorny
 hay
 haycock
 haycocks
@@ -58912,6 +58928,7 @@ heterotic
 heterotopic
 heterotroph
 heterotrophic
+heterotrophies
 heterotrophs
 heterotrophy
 heterotypic
@@ -60578,6 +60595,7 @@ housekeeps
 housekept
 housel
 houseled
+houseleeks
 houselessness
 houselessnesses
 houselights
@@ -61340,6 +61358,7 @@ hymeneal
 hymeneally
 hymeneals
 hymenia
+hymenium
 hymeniums
 hymenoptera
 hymenopteran
@@ -73350,6 +73369,7 @@ lobos
 lobotomise
 lobotomised
 lobotomises
+lobotomising
 lobotomize
 lobotomized
 lobotomizes
@@ -75059,6 +75079,7 @@ maidenliness
 maidenly
 maidens
 maidhood
+maidhoods
 maidish
 maids
 maidservant
@@ -77447,6 +77468,7 @@ meoued
 meouing
 meous
 meow
+meowed
 meowing
 meows
 meperidine
@@ -78124,6 +78146,7 @@ mewing
 mewl
 mewled
 mewler
+mewling
 mews
 mezcal
 meze
@@ -81892,6 +81915,7 @@ mucoproteins
 mucor
 mucors
 mucosa
+mucosae
 mucosal
 mucosas
 mucous
@@ -88523,6 +88547,7 @@ orotundities
 orotundity
 orphan
 orphanage
+orphanages
 orphaned
 orphanhood
 orphanhoods
@@ -94797,6 +94822,7 @@ perfusionist
 perfusions
 pergola
 pergolas
+perhaps
 perhapses
 peri
 perianths
@@ -102965,6 +102991,7 @@ proverbing
 proverbs
 provers
 proves
+provide
 providence
 providences
 provident
@@ -106109,6 +106136,7 @@ reaccession
 reacclaim
 reacclaimed
 reacclaiming
+reacclaims
 reacclimatize
 reacclimatized
 reacclimatizes
@@ -106842,6 +106870,7 @@ recitals
 recitation
 recitative
 recitatives
+recitativos
 recite
 recited
 reciter
@@ -107811,6 +107840,7 @@ reemerges
 reemerging
 reemission
 reemissions
+reemit
 reemits
 reemitted
 reemphasis
@@ -132793,6 +132823,7 @@ thermojunction
 thermojunctions
 thermolabile
 thermolability
+thermometer
 thermometers
 thermometric
 thermometry
@@ -135040,6 +135071,7 @@ tracks
 trackside
 tracksides
 tracksuit
+tracksuits
 trackwalkers
 trackway
 trackways
@@ -137565,6 +137597,7 @@ twirlers
 twirliest
 twirling
 twirls
+twirly
 twirp
 twist
 twistable
@@ -144858,6 +144891,7 @@ wanders
 wands
 wane
 waned
+waney
 wangans
 wangle
 wangled
@@ -148376,6 +148410,7 @@ yuckier
 yuckiest
 yuckiness
 yuckinesses
+yucking
 yucks
 yucky
 yuga
