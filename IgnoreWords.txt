@@ -788,6 +788,7 @@ acquirements
 acquirer
 acquirers
 acquires
+acquisition
 acquisitional
 acquisitions
 acquisitive
@@ -2418,6 +2419,7 @@ airshows
 airsicknesses
 airspace
 airspaces
+airspeed
 airspeeds
 airstream
 airstreams
@@ -5663,6 +5665,7 @@ apochromatic
 apocopate
 apocopated
 apocopates
+apocopating
 apocope
 apocopes
 apocopic
@@ -16272,6 +16275,7 @@ bullhorns
 bullied
 bullier
 bullies
+bulliest
 bulling
 bullion
 bullions
@@ -16850,6 +16854,7 @@ buttering
 butterless
 buttermilk
 buttermilks
+butternuts
 butters
 butterscotch
 butterweeds
@@ -17032,6 +17037,7 @@ cabbala
 cabbalahs
 cabbalas
 cabbalism
+cabbalisms
 cabbalist
 cabbalists
 cabbed
@@ -18071,6 +18077,7 @@ canso
 cansos
 canst
 cant
+cantabile
 cantal
 cantala
 cantaloup
@@ -23707,6 +23714,7 @@ cockling
 cockloft
 cocklofts
 cockney
+cockneyfied
 cockneyfying
 cockneyish
 cockneyisms
@@ -25079,6 +25087,7 @@ commutativity
 commutator
 commute
 commuted
+commuter
 commuters
 commutes
 commuting
@@ -26136,6 +26145,7 @@ conifers
 coniine
 coniines
 conine
+coning
 conioses
 coniosis
 conium
@@ -28059,6 +28069,7 @@ cottonwoods
 coturnix
 coturnixes
 cotyledon
+cotyledonary
 cotyledons
 cotyloid
 cotylosaurs
@@ -29960,6 +29971,7 @@ cubistic
 cubists
 cubit
 cubital
+cubits
 cubitus
 cuboid
 cuboidal
@@ -30102,6 +30114,7 @@ cultishnesses
 cultism
 cultisms
 cultist
+cultists
 cultivabilities
 cultivability
 cultivable
@@ -33784,6 +33797,7 @@ depositors
 depository
 depot
 depravation
+depravations
 deprave
 depraved
 depravedly
@@ -37175,6 +37189,7 @@ distillery
 distils
 distinct
 distincter
+distinctest
 distinction
 distinctions
 distinctively
@@ -45007,6 +45022,7 @@ expense
 expensed
 expensive
 expensively
+expensiveness
 expensivenesses
 experience
 experiences
@@ -45574,6 +45590,7 @@ eyednesses
 eyedropper
 eyedroppers
 eyedrops
+eyefold
 eyefolds
 eyeful
 eyefuls
@@ -64905,6 +64922,7 @@ injurable
 injure
 injured
 injurer
+injurers
 injuries
 injuring
 injurious
@@ -66113,6 +66131,7 @@ interpled
 interpluvial
 interpoint
 interpolate
+interpolates
 interpolating
 interpolation
 interpolations
@@ -71010,6 +71029,7 @@ larceny
 larch
 larchen
 lard
+larded
 larder
 larders
 lardiest
@@ -75099,6 +75119,7 @@ magnificences
 magnificent
 magnificently
 magnifier
+magnifies
 magnify
 magnifying
 magniloquence
@@ -82517,6 +82538,7 @@ murines
 muring
 murk
 murker
+murkest
 murkier
 murkiest
 murkiness
@@ -106742,6 +106764,7 @@ rebuying
 rebuys
 rec
 recalcitrancies
+recalcitrancy
 recalcitrant
 recalcitrants
 recalculate
@@ -116143,6 +116166,7 @@ scrabbling
 scrabbly
 scrag
 scragged
+scraggier
 scraggily
 scragglier
 scraggliest
@@ -118817,6 +118841,7 @@ shilingi
 shill
 shillalah
 shillalahs
+shillalas
 shillelagh
 shillelaghs
 shillelah
@@ -123811,6 +123836,7 @@ spinelessly
 spinelessness
 spinelessnesses
 spinelike
+spinelle
 spinels
 spines
 spinet
@@ -131975,6 +132001,7 @@ temporals
 temporaries
 temporarily
 temporariness
+temporary
 temporise
 temporised
 temporises
@@ -135852,6 +135879,7 @@ trays
 trazodones
 treacheries
 treacherous
+treacherously
 treachery
 treacle
 treaclier
@@ -141235,6 +141263,7 @@ unsubstantiated
 unsubtle
 unsuccess
 unsuccesses
+unsuccessful
 unsuitabilities
 unsuitability
 unsuitable
@@ -143961,6 +143990,7 @@ virginalists
 virginally
 virginals
 virginities
+virginity
 virgulate
 virgule
 virgules
@@ -144375,6 +144405,7 @@ voiding
 voidness
 voidnesses
 voids
+voila
 voile
 voiles
 volant
@@ -146520,6 +146551,7 @@ whump
 whumped
 whumping
 whumps
+whup
 whupped
 whupping
 whups
@@ -147176,6 +147208,7 @@ withstanding
 withstands
 withstood
 withy
+witing
 witless
 witlessly
 witlessness
@@ -147289,6 +147322,7 @@ wolfs
 wolfsbane
 wollastonites
 wolverine
+wolverines
 wolvers
 wolves
 woman
@@ -149024,6 +149058,7 @@ zowie
 zoysia
 zoysias
 zucchetto
+zucchettos
 zucchini
 zucchinis
 zugzwang
