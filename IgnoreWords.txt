@@ -13530,6 +13530,7 @@ bluestones
 bluesy
 bluet
 bluetick
+bluetongue
 bluetongues
 bluets
 blueweed
@@ -17544,6 +17545,7 @@ calming
 calmingly
 calmly
 calmness
+calmnesses
 calmodulin
 calmodulins
 calo
@@ -21081,6 +21083,7 @@ chiaroscuros
 chias
 chiasm
 chiasma
+chiasmal
 chiasmas
 chiasmata
 chiasmatic
@@ -28772,6 +28775,7 @@ cranberries
 cranberry
 cranch
 cranched
+cranches
 cranching
 crane
 craned
@@ -30096,6 +30100,7 @@ cumbia
 cumbias
 cumbrances
 cumbrous
+cumbrously
 cumbrousness
 cumbrousnesses
 cumin
@@ -37382,6 +37387,7 @@ divisionist
 divisionists
 divisions
 divisive
+divisively
 divisiveness
 divisivenesses
 divisor
@@ -47614,6 +47620,7 @@ fingernail
 fingernails
 fingerpick
 fingerpicked
+fingerpicking
 fingerpickings
 fingerposts
 fingerprinted
@@ -50386,6 +50393,7 @@ freaking
 freakish
 freakishly
 freakishness
+freakishnesses
 freakout
 freakouts
 freaks
@@ -50735,6 +50743,7 @@ frizzing
 frizzle
 frizzled
 frizzler
+frizzlers
 frizzles
 frizzlier
 frizzliest
@@ -56161,6 +56170,7 @@ gunsel
 gunsels
 gunship
 gunships
+gunshot
 gunshots
 gunslinger
 gunslingers
@@ -63545,6 +63555,7 @@ incommodities
 incommodity
 incommunicable
 incommunicably
+incommunicado
 incommunicative
 incommutable
 incommutably
@@ -69121,6 +69132,7 @@ kerfed
 kerfing
 kerflooey
 kerfs
+kerfuffle
 kerfuffles
 kermess
 kermesses
@@ -71941,6 +71953,7 @@ leptospires
 leptospiroses
 leptospirosis
 leptotene
+leptotenes
 les
 lesbianism
 lesbians
@@ -73509,6 +73522,7 @@ loggats
 logged
 logger
 loggerhead
+loggers
 loggets
 loggia
 loggias
@@ -73539,6 +73553,7 @@ logicless
 logics
 logier
 logiest
+logily
 loginess
 loginesses
 logins
@@ -76432,6 +76447,7 @@ matless
 matrass
 matrasses
 matres
+matriarch
 matriarchal
 matriarchate
 matriarchates
@@ -77123,6 +77139,7 @@ melding
 melds
 melee
 melena
+melenas
 melic
 melilite
 melilites
@@ -80868,6 +80885,7 @@ monogamies
 monogamist
 monogamists
 monogamous
+monogamy
 monogastric
 monogeneans
 monogenesis
@@ -88576,6 +88594,7 @@ ortolans
 orts
 oryx
 oryxes
+orzo
 os
 osar
 oscillate
@@ -91190,6 +91209,7 @@ overspilt
 overspins
 overspread
 overspreading
+overstabilities
 overstability
 overstaff
 overstaffed
@@ -97500,6 +97520,7 @@ plantigrade
 plantigrades
 planting
 plantings
+plantlets
 plantlike
 plantocracies
 plantocracy
@@ -107353,6 +107374,7 @@ reded
 rededicate
 rededicated
 rededicates
+rededicating
 rededication
 rededications
 redeem
@@ -109493,6 +109515,7 @@ renotify
 renounce
 renounced
 renouncement
+renouncements
 renouncer
 renouncers
 renounces
@@ -118444,6 +118467,7 @@ sheetrocked
 sheetrocking
 sheetrocks
 sheets
+sheeve
 sheeves
 sheik
 sheikdom
@@ -122289,6 +122313,7 @@ soliloquized
 soliloquizer
 soliloquizers
 soliloquizes
+soliloquizing
 soliloquy
 soling
 solion
@@ -125640,6 +125665,7 @@ stimuli
 stimulus
 stimy
 sting
+stingaree
 stingarees
 stingers
 stingier
@@ -127120,6 +127146,7 @@ subfloors
 subfossil
 subfossils
 subframe
+subframes
 subfreezing
 subfusc
 subfuscs
@@ -127325,6 +127352,7 @@ submucosa
 submucosae
 submucosal
 submultiple
+submultiples
 submunition
 subnasal
 subnational
@@ -128883,6 +128911,7 @@ supplemented
 supplementer
 supplementers
 supplementing
+supplements
 supplenesses
 suppler
 supples
@@ -129624,6 +129653,7 @@ switching
 switchmen
 switchyard
 switchyards
+swith
 swithe
 swither
 swithering
@@ -139895,9 +139925,11 @@ uninteresting
 uninterests
 uninterruptedly
 unintimidated
+uninucleate
 uninventive
 uninvited
 uninvoked
+uninvolved
 unionisation
 unionisations
 unionise
@@ -141606,6 +141638,7 @@ upsetters
 upsetting
 upshift
 upshifted
+upshifting
 upshifts
 upshoot
 upshooting
@@ -141876,6 +141909,7 @@ urolithiases
 urolithiasis
 urolithic
 uroliths
+urologic
 urological
 urologies
 urologist
@@ -145012,6 +145046,7 @@ washbowl
 washbowls
 washcloth
 washcloths
+washday
 washdays
 washed
 washer
