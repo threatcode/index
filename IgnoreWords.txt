@@ -767,6 +767,7 @@ acquaint
 acquaintance
 acquaintances
 acquainting
+acquaints
 acquest
 acquests
 acquiesce
@@ -5875,6 +5876,7 @@ appends
 apperceive
 apperceived
 apperceiving
+appertain
 appertained
 appertaining
 appertains
@@ -8734,6 +8736,7 @@ bacchant
 bacchante
 bacchantes
 bacchants
+bacchic
 bacciform
 bach
 bached
@@ -21799,6 +21802,7 @@ chrism
 chrismations
 chrismon
 chrismons
+chrisms
 chrisom
 christen
 christened
@@ -24503,6 +24507,7 @@ colluvial
 colluvium
 colluviums
 colly
+collying
 collyria
 collyrium
 collyriums
@@ -27537,6 +27542,7 @@ corniches
 cornicing
 cornicle
 cornicles
+cornier
 cornified
 cornify
 cornifying
@@ -28763,6 +28769,7 @@ craggier
 craggily
 cragginess
 craggy
+crags
 cragsman
 cragsmen
 crake
@@ -39228,6 +39235,7 @@ dumpish
 dumpling
 dumps
 dumpsite
+dumpsites
 dumpster
 dumptruck
 dumptrucks
@@ -42793,6 +42801,7 @@ epigonous
 epigons
 epigram
 epigrammatic
+epigrammatism
 epigrammatist
 epigrammatists
 epigrammatize
@@ -43702,6 +43711,7 @@ etherified
 etherifies
 etherify
 etherifying
+etherish
 etherization
 etherizations
 etherize
@@ -53147,6 +53157,7 @@ gharry
 ghast
 ghastful
 ghastfully
+ghastlier
 ghastliness
 ghastlinesses
 ghastly
@@ -58485,6 +58496,7 @@ hemispheric
 hemispherical
 hemitrope
 hemitropes
+hemizygous
 hemline
 hemlines
 hemlock
@@ -59919,6 +59931,7 @@ homogenates
 homogeneities
 homogeneity
 homogeneous
+homogeneously
 homogenies
 homogenisation
 homogenisations
@@ -68480,6 +68493,7 @@ judgeships
 judging
 judgmatic
 judgmatical
+judgmatically
 judgment
 judgmental
 judgmentally
@@ -68889,6 +68903,7 @@ kanteles
 kanzu
 kaoliang
 kaoliangs
+kaolin
 kaoline
 kaolines
 kaolinic
@@ -70849,6 +70864,7 @@ langoustines
 langrage
 langrel
 langrels
+langridge
 langridges
 langshan
 langshans
@@ -74217,6 +74233,7 @@ lucratively
 lucrativeness
 lucrativenesses
 lucre
+lucres
 lucubrate
 lucubrated
 lucubrates
@@ -82673,6 +82690,7 @@ musty
 mutability
 mutable
 mutagen
+mutageneses
 mutagenesis
 mutagenic
 mutagenically
@@ -91439,6 +91457,7 @@ overtop
 overtopped
 overtopping
 overtops
+overtrade
 overtraded
 overtrades
 overtrading
@@ -96325,6 +96344,7 @@ phyletically
 phyletics
 phylic
 phyllaries
+phyllary
 phyllite
 phyllitic
 phyllo
@@ -104147,6 +104167,7 @@ puttering
 putters
 putti
 puttie
+puttied
 puttier
 puttiers
 putties
@@ -104250,6 +104271,7 @@ pyrargyrites
 pyre
 pyrene
 pyrenes
+pyrenoid
 pyrenoids
 pyres
 pyrethrin
@@ -108876,6 +108898,7 @@ reintegrations
 reintegrative
 reinter
 reinterpret
+reinterpreted
 reinterprets
 reinterred
 reinters
@@ -112214,6 +112237,7 @@ ridgepoles
 ridges
 ridgetop
 ridgetops
+ridgier
 ridgiest
 ridgil
 ridgils
@@ -113902,6 +113926,7 @@ sabred
 sabres
 sabring
 sac
+sacahuista
 sacahuiste
 sacahuistes
 sacaton
@@ -118194,6 +118219,7 @@ shadowgraphies
 shadowgraphs
 shadowier
 shadowiest
+shadowily
 shadowiness
 shadowinesses
 shadowing
@@ -119151,6 +119177,7 @@ shorty
 shot
 shote
 shotes
+shotgun
 shotgunned
 shotgunner
 shotgunning
@@ -124128,6 +124155,7 @@ spooky
 spooled
 spooler
 spoolers
+spooling
 spoolings
 spools
 spoon
@@ -124376,6 +124404,7 @@ sprites
 sprits
 spritsail
 spritsails
+spritz
 spritzed
 spritzer
 spritzers
@@ -131481,6 +131510,7 @@ teashop
 teashops
 teasing
 teasingly
+teaspoon
 teaspoonful
 teaspoonfuls
 teaspoons
@@ -131905,6 +131935,7 @@ temple
 templed
 temples
 templet
+tempo
 temporal
 temporality
 temporalize
@@ -137235,6 +137266,7 @@ tungstate
 tungstates
 tungstens
 tungstic
+tungstites
 tunic
 tunica
 tunicae
@@ -143303,6 +143335,7 @@ versemen
 verser
 versers
 verses
+versets
 versicles
 versification
 versifications
@@ -144961,6 +144994,7 @@ wanders
 wands
 wane
 waned
+wanes
 waney
 wangans
 wangle
@@ -148328,6 +148362,7 @@ yirth
 yirths
 ylem
 ylems
+yo
 yob
 yobboes
 yobbos
