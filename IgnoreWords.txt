@@ -11242,6 +11242,7 @@ bengalines
 benighted
 benightedly
 benightedness
+benightednesses
 benignancies
 benignancy
 benignities
@@ -15948,6 +15949,7 @@ buboes
 bubonic
 bubs
 bubu
+bubus
 buccal
 buccally
 buccaneer
@@ -16753,6 +16755,7 @@ butanones
 butch
 butcher
 butchered
+butcherer
 butcherers
 butcheries
 butchering
@@ -19278,6 +19281,7 @@ catchiest
 catching
 catchment
 catchments
+catchpenny
 catchphrase
 catchphrases
 catchpole
@@ -20916,6 +20920,7 @@ chemisms
 chemisorb
 chemisorbing
 chemisorbs
+chemisorption
 chemisorptions
 chemist
 chemistries
@@ -27730,6 +27735,7 @@ corticotrophins
 corticotropin
 corticotropins
 cortin
+cortina
 cortinas
 cortins
 cortisols
@@ -31238,6 +31244,7 @@ dangerousness
 dangerousnesses
 dangers
 dangle
+dangled
 dangler
 danglers
 dangles
@@ -32671,6 +32678,7 @@ defuzing
 defy
 defying
 degage
+degames
 degami
 degamis
 degas
@@ -39663,6 +39671,7 @@ easies
 easiest
 easiness
 easinesses
+easing
 east
 eastbound
 easter
@@ -46082,6 +46091,7 @@ farinaceous
 faring
 farinha
 farinhas
+farinose
 farkleberries
 farl
 farle
@@ -47549,6 +47559,7 @@ finfishes
 finfoot
 finfoots
 finger
+fingerboard
 fingerboards
 fingered
 fingerer
@@ -53161,6 +53172,7 @@ gigabyte
 gigabytes
 gigacycle
 gigacycles
+gigaflop
 gigahertzes
 gigantesque
 gigantic
@@ -55536,6 +55548,7 @@ grotesque
 grotesquely
 grotesqueness
 grotesquenesses
+grotesquery
 grotesques
 grots
 grottier
@@ -56816,6 +56829,7 @@ halvers
 halves
 halving
 halyard
+halyards
 ham
 hamada
 hamadas
@@ -63304,6 +63318,7 @@ incarcerations
 incardination
 incardinations
 incarnadine
+incarnadines
 incarnadining
 incarnated
 incarnates
@@ -64983,6 +64998,7 @@ inseam
 inseams
 insectan
 insectaries
+insectary
 insecticidal
 insecticidally
 insecticide
@@ -72944,6 +72960,7 @@ lit
 litanies
 litany
 litas
+litchi
 litchis
 lite
 liteness
@@ -73196,6 +73213,7 @@ loaned
 loaner
 loaners
 loaning
+loanings
 loans
 loanshifts
 loanword
@@ -85208,6 +85226,7 @@ nonfrozen
 nonfuel
 nonfulfillments
 nonfunctional
+nonfunctioning
 nonfunded
 nongame
 nongay
@@ -86782,6 +86801,7 @@ obsecrated
 obsecrates
 obsecrating
 obsequies
+obsequiously
 obsequiousness
 obsequy
 observability
@@ -96581,6 +96601,7 @@ pilaf
 pilaffs
 pilafs
 pilar
+pilaster
 pilasters
 pilau
 pilaus
@@ -96939,6 +96960,7 @@ pipet
 pipets
 pipette
 pipetted
+pipettes
 pipetting
 pipier
 pipiest
@@ -97142,6 +97164,7 @@ pitilessness
 pitilessnesses
 pitman
 pitmans
+pitmen
 piton
 pitons
 pitsaw
@@ -98514,6 +98537,7 @@ polycarbonate
 polycarbonates
 polycarpies
 polycarpy
+polycentric
 polycentrism
 polycentrisms
 polychaete
@@ -98928,6 +98952,7 @@ popgun
 popguns
 popinjay
 popinjays
+popish
 popishly
 poplar
 poplars
@@ -101215,6 +101240,7 @@ pretensioning
 pretensionless
 pretensions
 pretentiously
+pretentiousness
 preterit
 preterite
 preterits
@@ -101783,6 +101809,7 @@ proclaimed
 proclaimer
 proclaimers
 proclaiming
+proclaims
 proclamation
 proclises
 proclisis
@@ -107782,6 +107809,7 @@ reexhibited
 reexhibiting
 reexhibits
 reexpel
+reexpelled
 reexpelling
 reexpels
 reexperience
@@ -111391,6 +111419,7 @@ reverie
 reveries
 reverified
 reverifies
+reverify
 reverifying
 revering
 revers
@@ -112620,6 +112649,7 @@ romajis
 roman
 romance
 romanced
+romancer
 romancers
 romances
 romancing
@@ -117321,6 +117351,7 @@ sentiently
 sentients
 sentiment
 sentimental
+sentimentalise
 sentimentalised
 sentimentalises
 sentimentalism
@@ -129693,6 +129724,7 @@ symbolist
 symbolists
 symbolization
 symbolized
+symbolizer
 symbolizers
 symbolizes
 symbolled
@@ -132672,6 +132704,7 @@ thiaminases
 thiamine
 thiamines
 thiazide
+thiazides
 thiazin
 thiazine
 thiazines
@@ -137651,6 +137684,7 @@ ulcerates
 ulceration
 ulcerations
 ulcerative
+ulcered
 ulcering
 ulcerogenic
 ulcerous
@@ -143711,6 +143745,7 @@ visionaries
 visionariness
 visionary
 visioned
+visioning
 visionless
 visions
 visit
