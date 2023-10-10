@@ -1410,6 +1410,7 @@ adulterants
 adulterated
 adulterates
 adulterating
+adulteration
 adulterations
 adulterator
 adulterators
@@ -2575,6 +2576,7 @@ albums
 alburnous
 alburnum
 alburnums
+albuterols
 alcade
 alcades
 alcahest
@@ -3868,6 +3870,7 @@ amtracs
 amu
 amuck
 amulet
+amulets
 amus
 amuse
 amused
@@ -4681,6 +4684,7 @@ ansae
 ansate
 ansated
 anserine
+anserous
 answer
 answerable
 answered
@@ -5248,6 +5252,7 @@ antipyrines
 antiquarian
 antiquarianisms
 antiquarians
+antiquaries
 antiquark
 antiquarks
 antiquary
@@ -14024,6 +14029,7 @@ bombproofs
 bombs
 bombshell
 bombshells
+bombsight
 bombsights
 bombycid
 bombycids
@@ -22501,6 +22507,7 @@ cityscape
 cityscapes
 cityward
 citywide
+civetlike
 civets
 civic
 civically
@@ -32027,6 +32034,7 @@ deceitfulness
 deceitfulnesses
 deceive
 deceived
+deceiver
 deceivers
 deceives
 deceiving
@@ -33439,6 +33447,7 @@ demy
 demyelinating
 demyelinations
 demystification
+demystified
 demystifying
 demythologize
 demythologized
@@ -35179,6 +35188,7 @@ dichromats
 dichromic
 dichroscope
 dichroscopes
+dicier
 diciest
 dicing
 dickcissel
@@ -39140,6 +39150,7 @@ ductal
 ducted
 ductile
 ductilities
+ductility
 ducting
 ductings
 ductless
@@ -47701,6 +47712,7 @@ finalizes
 finally
 finals
 financed
+finances
 financial
 financially
 financier
@@ -53372,6 +53384,7 @@ gigabytes
 gigacycle
 gigacycles
 gigaflop
+gigahertz
 gigahertzes
 gigantesque
 gigantic
@@ -67869,6 +67882,7 @@ jarosite
 jarosites
 jarovized
 jarovizing
+jarrah
 jarrahs
 jarred
 jarring
@@ -68698,6 +68712,7 @@ jumpier
 jumpiest
 jumpily
 jumpiness
+jumpinesses
 jumping
 jumpingly
 jumpoff
@@ -82903,6 +82918,7 @@ muumuu
 muumuus
 muzhik
 muzhiks
+muzjik
 muzjiks
 muzziest
 muzziness
@@ -87387,6 +87403,7 @@ octantal
 octants
 octapeptide
 octarchies
+octarchy
 octavo
 octavos
 octennial
@@ -87408,6 +87425,7 @@ octopodes
 octopods
 octopus
 octopuses
+octoroon
 octoroons
 octosyllabic
 octosyllabics
@@ -87967,6 +87985,7 @@ onerously
 onerousness
 onerousnesses
 ones
+oneself
 onetime
 ongoing
 ongoingnesses
@@ -88698,6 +88717,7 @@ ornithine
 ornithines
 ornithischian
 ornithischians
+ornithologic
 ornithological
 ornithologies
 ornithologist
@@ -91664,6 +91684,7 @@ overweights
 overwets
 overwetted
 overwetting
+overwhelm
 overwhelmed
 overwhelmingly
 overwhelms
@@ -94478,6 +94499,7 @@ pen
 penal
 penalise
 penalised
+penalising
 penalities
 penality
 penalization
@@ -99968,6 +99990,7 @@ pottinesses
 pottle
 pottles
 potto
+pottos
 potty
 potzer
 potzers
@@ -102085,6 +102108,7 @@ proband
 probands
 probang
 probangs
+probate
 probated
 probates
 probating
@@ -108779,6 +108803,7 @@ rehabbing
 rehabilitant
 rehabilitants
 rehabilitate
+rehabilitated
 rehabilitates
 rehabilitating
 rehabilitation
@@ -110718,6 +110743,7 @@ reshape
 reshapers
 reshapes
 reshaping
+resharpened
 resharpening
 resharpens
 reshave
@@ -113625,6 +113651,7 @@ rubied
 rubier
 rubies
 rubiest
+rubigo
 rubigos
 rubious
 rubles
@@ -116932,6 +116959,7 @@ secretaryship
 secretaryships
 secreted
 secreter
+secretes
 secretest
 secretin
 secreting
@@ -118612,6 +118640,7 @@ sharpers
 sharpest
 sharpie
 sharpies
+sharping
 sharply
 sharpness
 sharpnesses
@@ -118638,6 +118667,7 @@ shaughs
 shaul
 shauled
 shauling
+shauls
 shavable
 shave
 shaved
@@ -123479,6 +123509,7 @@ spavin
 spavined
 spavins
 spawn
+spawner
 spawners
 spawning
 spawns
@@ -131029,6 +131060,7 @@ tambouras
 tamboured
 tambourer
 tambourers
+tambourin
 tambourine
 tambourines
 tambouring
@@ -133957,6 +133989,7 @@ timbals
 timber
 timberdoodle
 timberdoodles
+timbered
 timberhead
 timberheads
 timbering
@@ -143290,6 +143323,7 @@ venters
 ventifact
 ventilate
 ventilated
+ventilates
 ventilating
 ventilation
 ventilations
@@ -144076,6 +144110,7 @@ violations
 violative
 violators
 violence
+violent
 violently
 violet
 violets
