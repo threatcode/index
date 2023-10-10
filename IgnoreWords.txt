@@ -3315,6 +3315,7 @@ aluminum
 aluminums
 alumna
 alumnae
+alumni
 alumnus
 alumroot
 alumroots
@@ -17831,6 +17832,7 @@ canalboats
 canaled
 canalicular
 canaliculus
+canalised
 canalises
 canalising
 canalization
@@ -20036,6 +20038,7 @@ cephalin
 cephalins
 cephalization
 cephalizations
+cephalometric
 cephalometries
 cephalometry
 cephalopod
@@ -22858,6 +22861,7 @@ cleanups
 clear
 clearable
 clearance
+clearances
 clearcut
 clearcutting
 clearer
@@ -29754,6 +29758,7 @@ crumpet
 crumpets
 crumple
 crumpled
+crumples
 crumplier
 crumpliest
 crumpling
@@ -40024,6 +40029,7 @@ ecoterrorist
 ecotonal
 ecotone
 ecotones
+ecotour
 ecotourism
 ecotourisms
 ecotourist
@@ -44863,6 +44869,7 @@ exogens
 exon
 exonerate
 exonerated
+exonerates
 exonerating
 exoneration
 exonerative
@@ -46887,6 +46894,7 @@ fenagle
 fenagled
 fenagles
 fence
+fenced
 fenceless
 fencelessness
 fencelessnesses
@@ -47429,6 +47437,7 @@ fieldfare
 fieldfares
 fielding
 fieldpieces
+fields
 fieldsman
 fieldstone
 fieldstripping
@@ -47657,6 +47666,7 @@ finable
 finagle
 finagled
 finagler
+finaglers
 finagles
 finagling
 final
@@ -51058,6 +51068,7 @@ fruition
 fruitions
 fruitless
 fruitlessly
+fruitlessness
 fruitlessnesses
 fruitlet
 fruitlets
@@ -60114,6 +60125,7 @@ honesty
 honewort
 honeworts
 honey
+honeybee
 honeybees
 honeybun
 honeybuns
@@ -65985,6 +65997,7 @@ interlineations
 interlined
 interliner
 interliners
+interlines
 interlinings
 interlink
 interlinked
@@ -68798,6 +68811,7 @@ jutting
 juttingly
 jutty
 juvenal
+juvenals
 juvenescence
 juvenescent
 juvenile
@@ -76817,6 +76831,7 @@ maydays
 mayed
 mayest
 mayflies
+mayflower
 mayflowers
 mayfly
 mayhap
@@ -78781,6 +78796,7 @@ mikado
 mikados
 mike
 miked
+mikes
 miking
 mikra
 mikron
@@ -88161,6 +88177,7 @@ operose
 operosely
 operoseness
 operosenesses
+ophidian
 ophidians
 ophiolite
 ophiolites
@@ -95036,6 +95053,7 @@ perilled
 perilling
 perilous
 perilously
+perilousness
 perilousnesses
 perilune
 perilunes
@@ -95701,6 +95719,7 @@ phalansteries
 phalanstery
 phalanx
 phalanxes
+phalarope
 phalli
 phallic
 phallically
@@ -96924,6 +96943,7 @@ pilferages
 pilfered
 pilferers
 pilfering
+pilfers
 pilgarlic
 pilgarlics
 pilgrim
@@ -98679,6 +98699,7 @@ polemics
 polemist
 polemize
 polemized
+polemizes
 polemizing
 polemonium
 polemoniums
@@ -99092,6 +99113,7 @@ pomatums
 pome
 pomegranate
 pomegranates
+pomelo
 pomelos
 pomes
 pomfret
@@ -105154,6 +105176,7 @@ quizzers
 quizzical
 quizzicalities
 quizzicality
+quizzically
 quizzing
 quod
 quodlibet
@@ -107928,6 +107951,7 @@ reedier
 reediest
 reedified
 reedifies
+reedify
 reedifying
 reedily
 reediness
@@ -112317,6 +112341,7 @@ ridded
 ridder
 riddled
 riddler
+riddlers
 riddles
 riddling
 ride
@@ -128293,6 +128318,7 @@ sughed
 sughing
 sughs
 suicidal
+suicidally
 suicide
 suicided
 suicides
@@ -135494,6 +135520,7 @@ tranquil
 tranquiler
 tranquilest
 tranquilities
+tranquility
 tranquilize
 tranquilized
 tranquilizer
@@ -136299,6 +136326,7 @@ trickishly
 trickishness
 trickishnesses
 trickle
+trickled
 trickles
 tricklier
 trickling
@@ -136368,6 +136396,7 @@ trifles
 trifling
 trifluoperazine
 trifluralin
+trifluralins
 trifocals
 trifold
 trifoliate
@@ -136632,6 +136661,7 @@ tristezas
 tristful
 tristfully
 tristfulness
+tristfulnesses
 tristich
 tristichs
 tristimulus
@@ -142238,6 +142268,7 @@ urticant
 urticants
 urticarial
 urticarias
+urticate
 urticated
 urticates
 urticating
@@ -143484,6 +143515,7 @@ verst
 verste
 versts
 versus
+vert
 vertebra
 vertebral
 vertebrate
@@ -145022,6 +145054,7 @@ waking
 wale
 waled
 walers
+wales
 walies
 waling
 walkable
@@ -146463,6 +146496,7 @@ whit
 white
 whitebait
 whitebeards
+whitecap
 whitecomb
 whitecombs
 whiteface
@@ -147442,6 +147476,7 @@ wommeras
 womyn
 won
 wonder
+wondered
 wonderer
 wonderful
 wonderfully
