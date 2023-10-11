@@ -1,0 +1,6 @@
+welcome to netware * - Novell Web Services,http://61.62.173.159/login.sql
+inc.,http://185.14.187.205:84/login/install/dbconnect.inc/db.sql
+admin panel,http://185.14.187.205:84/login/administrator/%2522plog/page.cfm/db.sql
+Index,http://37.235.48.144:5984/mysql.sql
+mywebftp,http://151.236.18.54:9200/login/wp-mail.php/mysqldump.sql
+Remote Desktop Web Connection,http://139.59.45.243:9090/login/inc/header.php/editor/inc/default.asp/8888.sql

@@ -1224,6 +1224,7 @@ adjunct
 adjunctions
 adjunctive
 adjunctly
+adjuncts
 adjuration
 adjurations
 adjuratory
@@ -4035,6 +4036,7 @@ analogies
 analogism
 analogisms
 analogist
+analogize
 analogized
 analogizes
 analogizing
@@ -6546,6 +6548,7 @@ argufier
 argufiers
 argufies
 argufying
+arguing
 argument
 argumenta
 argumentation
@@ -18722,6 +18725,7 @@ card
 cardamoms
 cardamon
 cardamons
+cardamum
 cardamums
 cardboards
 cardcase
@@ -23171,6 +23175,7 @@ clinal
 clinally
 clinch
 clincher
+clinchers
 clinches
 clinching
 clines
@@ -30370,6 +30375,7 @@ cummins
 cumquat
 cumquats
 cumshaw
+cumshaws
 cumulate
 cumulated
 cumulates
@@ -41458,6 +41464,7 @@ emeries
 emerita
 emeritae
 emeriti
+emerod
 emerods
 emeroid
 emersed
@@ -47533,6 +47540,7 @@ fiacres
 fiancee
 fiancees
 fiances
+fianchetto
 fianchettoed
 fianchettoing
 fianchettos
@@ -54702,6 +54710,7 @@ godfathered
 godfathering
 godfathers
 godforsaken
+godhead
 godhoods
 godless
 godlessly
@@ -55895,6 +55904,7 @@ griminesses
 griming
 grimly
 grimmer
+grimmest
 grimness
 grimnesses
 grimy
@@ -56723,6 +56733,7 @@ guts
 gutsier
 gutsiest
 gutsily
+gutsiness
 gutsinesses
 gutsy
 gutta
@@ -65550,6 +65561,7 @@ inquiring
 inquiringly
 inquiry
 inquisition
+inquisitional
 inquisitions
 inquisitive
 inquisitor
@@ -65657,6 +65669,7 @@ inserter
 inserting
 insertion
 insertional
+insertions
 inserts
 inset
 insets
@@ -67302,6 +67315,7 @@ involvements
 involver
 involvers
 involves
+involving
 invulnerability
 invulnerable
 invulnerably
@@ -73586,6 +73600,7 @@ liquidized
 liquidizes
 liquidizing
 liquidly
+liquidness
 liquidnesses
 liquids
 liquified
@@ -77381,6 +77396,7 @@ mealinesses
 mealless
 mealtime
 mealtimes
+mealworm
 mealworms
 mealybug
 mealybugs
@@ -81668,6 +81684,7 @@ mononucleate
 mononucleoses
 mononucleosis
 mononucleotide
+mononucleotides
 monophagies
 monophagous
 monophagy
@@ -82778,6 +82795,7 @@ multichambered
 multichannel
 multicharacter
 multicity
+multiclient
 multicoated
 multicolor
 multicolored
@@ -92181,6 +92199,7 @@ overvalues
 overvaluing
 overviews
 overviolent
+overvivid
 overvoltage
 overvoltages
 overvote
@@ -96677,6 +96696,7 @@ phonologic
 phonological
 phonologically
 phonologies
+phonologist
 phonologists
 phonology
 phonons
@@ -100113,6 +100133,7 @@ portresses
 portside
 portulaca
 portulacas
+posable
 posada
 posadas
 pose
@@ -101717,6 +101738,7 @@ preoral
 preordained
 preordaining
 preordainments
+preordains
 preorder
 preordered
 preordering
@@ -108976,6 +108998,7 @@ refixing
 reflag
 reflagged
 reflagging
+reflags
 reflate
 reflated
 reflates
@@ -112251,6 +112274,7 @@ retrieving
 retrim
 retrimmed
 retrimming
+retrims
 retro
 retroact
 retroacted
@@ -113496,6 +113520,7 @@ roadblocks
 roadeo
 roadeos
 roadholding
+roadholdings
 roadhouse
 roadhouses
 roadie
@@ -114811,6 +114836,7 @@ sacculations
 saccule
 saccules
 sacerdotal
+sacerdotalism
 sacerdotalisms
 sacerdotalist
 sacerdotalists
@@ -121882,6 +121908,7 @@ slicker
 slickers
 slickest
 slicking
+slickly
 slickness
 slicknesses
 slickrock
@@ -132501,6 +132528,7 @@ teaspoon
 teaspoonful
 teaspoonfuls
 teaspoons
+teaspoonsful
 teat
 teataster
 teatasters
@@ -133904,6 +133932,7 @@ thermoformed
 thermoforms
 thermograms
 thermograph
+thermographer
 thermographers
 thermographic
 thermographs
@@ -136591,6 +136620,7 @@ transmigrator
 transmigrators
 transmigratory
 transmissible
+transmissions
 transmissive
 transmissivity
 transmissometer
@@ -138383,6 +138413,7 @@ turbos
 turboshafts
 turbot
 turbulence
+turbulences
 turbulencies
 turbulent
 turbulently
@@ -140867,6 +140898,7 @@ ungazing
 ungelded
 ungenerosities
 ungenerosity
+ungenerous
 ungenerously
 ungenial
 ungentle
@@ -142085,6 +142117,7 @@ unshockable
 unshod
 unshowy
 unshrunk
+unshut
 unsicker
 unsighted
 unsighting
@@ -144041,6 +144074,7 @@ veloute
 veloutes
 velum
 velure
+velured
 velures
 veluring
 velveret
@@ -149785,6 +149819,7 @@ zee
 zein
 zeins
 zeitgeber
+zeitgeist
 zeitgeists
 zek
 zeks
