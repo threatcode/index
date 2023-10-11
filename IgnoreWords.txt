@@ -2152,6 +2152,7 @@ aglycon
 aglycone
 aglycones
 aglycons
+agma
 agmas
 agnail
 agnate
@@ -3918,6 +3919,7 @@ amyl
 amylase
 amylases
 amylenes
+amylic
 amylogen
 amylogens
 amyloid
@@ -5068,6 +5070,7 @@ antifungals
 antifur
 antigambling
 antigang
+antigay
 antigen
 antigene
 antigenic
@@ -7518,6 +7521,7 @@ asymmetric
 asymmetrical
 asymmetrically
 asymmetry
+asymptomatic
 asymptote
 asymptotes
 asymptotic
@@ -8039,6 +8043,7 @@ auscultated
 auscultating
 auscultation
 auscultations
+auscultatory
 ausform
 ausforming
 auslander
@@ -8600,6 +8605,7 @@ axillar
 axillaries
 axillars
 axillary
+axillas
 axils
 axing
 axiological
@@ -9262,6 +9268,7 @@ baldies
 balding
 baldish
 baldly
+baldness
 baldnesses
 baldpate
 baldpated
@@ -17236,6 +17243,7 @@ cabriolet
 cabs
 cabstands
 cacaos
+cacas
 cacciatore
 cachalot
 cachalots
@@ -17359,6 +17367,7 @@ cads
 caducean
 caducei
 caduceus
+caducities
 caducity
 caducous
 caeca
@@ -23720,6 +23729,7 @@ coauthors
 coauthorship
 coauthorships
 coax
+coaxal
 coaxed
 coaxer
 coaxers
@@ -30173,6 +30183,7 @@ cubistic
 cubists
 cubit
 cubital
+cubiti
 cubits
 cubitus
 cuboid
@@ -34226,6 +34237,7 @@ dermoids
 derms
 dernier
 derogate
+derogates
 derogating
 derogative
 derogatorily
@@ -38650,6 +38662,7 @@ downward
 downwardly
 downwardness
 downwardnesses
+downwash
 downwind
 downy
 downzones
@@ -39656,6 +39669,7 @@ duress
 duresses
 durians
 durion
+durions
 durmast
 durmasts
 durn
@@ -41726,6 +41740,7 @@ enamine
 enamines
 enamor
 enamored
+enamoring
 enamors
 enamour
 enamoured
@@ -54968,6 +54983,7 @@ goosegrass
 goosegrasses
 gooseherd
 gooseherds
+gooseneck
 goosenecks
 gooses
 goosey
@@ -70001,6 +70017,7 @@ kiers
 kieselguhr
 kieselgurs
 kieserite
+kieserites
 kiester
 kif
 kifs
@@ -71639,6 +71656,7 @@ lassos
 last
 lastborn
 lastborns
+laster
 lasters
 lasting
 lastingness
@@ -73473,6 +73491,7 @@ linoleums
 linos
 linotype
 linotyped
+linotypers
 linotypes
 linotyping
 lins
@@ -74229,6 +74248,7 @@ logomachs
 logomachy
 logon
 logons
+logophiles
 logorrhea
 logorrheic
 logos
@@ -82339,6 +82359,7 @@ motoric
 motorically
 motorings
 motorise
+motorised
 motorises
 motorising
 motorist
@@ -90153,6 +90174,7 @@ outings
 outintrigue
 outintrigued
 outintrigues
+outintriguing
 outjinx
 outjinxed
 outjinxes
@@ -91019,6 +91041,7 @@ overbook
 overbooked
 overbooking
 overbooks
+overbore
 overborn
 overborne
 overborrow
@@ -93208,6 +93231,7 @@ panier
 panini
 panjandra
 panjandrum
+panjandrums
 panleukopenia
 panleukopenias
 panmictic
@@ -101928,6 +101952,7 @@ presa
 presage
 presaged
 presageful
+presager
 presages
 presaging
 presale
@@ -102619,6 +102644,7 @@ prioritize
 prioritizes
 prioritizing
 priority
+priorly
 priors
 priorship
 priorships
@@ -103708,6 +103734,7 @@ prothallium
 prothallus
 prothalluses
 prothesis
+prothetic
 prothonotarial
 prothonotaries
 prothonotary
@@ -108144,6 +108171,7 @@ recrown
 recrowned
 recrowning
 recrowns
+recrudesce
 recrudesced
 recrudescence
 recrudescences
@@ -108599,6 +108627,7 @@ reducing
 reductant
 reductants
 reductase
+reduction
 reductional
 reductionism
 reductionisms
@@ -113132,6 +113161,7 @@ rife
 rifely
 rifeness
 rifenesses
+rifest
 riff
 riffed
 riffing
@@ -117928,6 +117958,7 @@ seguidillas
 sei
 seicento
 seiche
+seiches
 seidel
 seidels
 seif
@@ -121739,6 +121770,7 @@ slatted
 slattern
 slatternliness
 slatternly
+slatting
 slattings
 slaughter
 slaughtered
@@ -122843,6 +122875,7 @@ snots
 snottily
 snottiness
 snottinesses
+snotty
 snout
 snouted
 snoutier
@@ -123235,6 +123268,7 @@ soiree
 soirees
 soja
 sojas
+sojourned
 sojourners
 sojourns
 soke
@@ -134349,6 +134383,7 @@ thriftiness
 thriftinesses
 thriftless
 thriftlessly
+thriftlessness
 thrifts
 thrifty
 thrill
