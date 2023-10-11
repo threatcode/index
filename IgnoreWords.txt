@@ -4825,6 +4825,7 @@ anthoid
 anthologies
 anthologist
 anthologists
+anthologize
 anthologized
 anthologizer
 anthologizers
@@ -15111,6 +15112,7 @@ brand
 branded
 brander
 branders
+brandied
 branding
 brandings
 brandish
@@ -25542,6 +25544,7 @@ comprehensively
 compressed
 compressedly
 compresses
+compressibility
 compressible
 compression
 compressional
@@ -27704,6 +27707,7 @@ cornelians
 corneous
 corner
 cornerbacks
+cornered
 cornering
 cornerman
 cornermen
@@ -30806,6 +30810,7 @@ cutoff
 cutout
 cutouts
 cutover
+cutovers
 cutpurse
 cutpurses
 cuts
@@ -33358,6 +33363,7 @@ demagnetization
 demagnetize
 demagnetized
 demagnetizer
+demagnetizes
 demagnetizing
 demagog
 demagogic
@@ -34937,6 +34943,7 @@ dewclaw
 dewclawed
 dewclaws
 dewdrop
+dewdrops
 dewed
 dewfall
 dewfalls
@@ -46297,6 +46304,7 @@ falter
 faltered
 falterer
 falterers
+falteringly
 falters
 fame
 famed
@@ -49562,6 +49570,7 @@ foison
 foisons
 foist
 foisted
+foists
 folacin
 folacins
 folate
@@ -50825,6 +50834,7 @@ freeform
 freehand
 freehanded
 freehandedly
+freehandedness
 freehearted
 freeheartedly
 freehold
@@ -54926,6 +54936,7 @@ goosegrasses
 gooseherd
 gooseherds
 goosenecks
+gooses
 goosey
 goosier
 goosiest
@@ -61240,6 +61251,7 @@ humaner
 humanest
 humanhoods
 humanise
+humanised
 humanises
 humanising
 humanism
@@ -66419,6 +66431,7 @@ intermeshed
 intermeshing
 intermetallics
 intermezzi
+intermezzo
 intermezzos
 interminable
 interminably
@@ -69493,6 +69506,7 @@ kebabs
 kebars
 kebbie
 kebbies
+kebbock
 kebbocks
 kebbuck
 kebbucks
@@ -70524,6 +70538,7 @@ kolkhoznik
 kolkhozniki
 kolkhozniks
 kolkhozy
+kolkoz
 kolkozes
 kolkozy
 kolos
@@ -75400,6 +75415,7 @@ madder
 madders
 maddest
 maddish
+made
 madeira
 madeiras
 madeleine
@@ -82009,6 +82025,7 @@ morosenesses
 morosities
 morph
 morphactin
+morphactins
 morphed
 morpheme
 morphemes
@@ -84149,6 +84166,7 @@ nebulise
 nebulised
 nebulises
 nebulising
+nebulization
 nebulize
 nebulized
 nebulizer
@@ -94604,6 +94622,7 @@ peartnesses
 pearwood
 pearwoods
 peas
+peasant
 peasantries
 peasants
 peascod
@@ -104053,6 +104072,7 @@ psychologisms
 psychologists
 psychologize
 psychologized
+psychologizes
 psychologizing
 psychology
 psychometric
@@ -105715,6 +105735,7 @@ quirkiest
 quirkily
 quirkiness
 quirkinesses
+quirkish
 quirks
 quirky
 quirted
@@ -106131,6 +106152,7 @@ raffling
 raffs
 raft
 rafted
+rafter
 raftered
 rafters
 rafting
@@ -116254,6 +116276,7 @@ scarification
 scarified
 scarifier
 scarifiers
+scarify
 scarifyingly
 scarily
 scariness
@@ -122531,6 +122554,7 @@ snath
 snathe
 snathes
 snaw
+snawed
 snawing
 snazzier
 snazziest
@@ -127014,6 +127038,7 @@ stopword
 stopwords
 storable
 storables
+storage
 storages
 storax
 storaxes
@@ -129075,6 +129100,7 @@ sukkah
 sukkot
 sukkoth
 sulcal
+sulcate
 sulcated
 sulcation
 sulcations
@@ -129927,6 +129953,7 @@ supplanter
 supplanters
 supplanting
 supplants
+supple
 suppled
 supplejack
 supplely
@@ -130337,6 +130364,7 @@ swaddles
 swaddling
 swag
 swage
+swager
 swagers
 swages
 swagged
@@ -130431,6 +130459,7 @@ swarth
 swarthier
 swarthiest
 swarthily
+swarthiness
 swarthinesses
 swarths
 swartness
@@ -134035,6 +134064,7 @@ thirstiest
 thirstily
 thirstiness
 thirstinesses
+thirsting
 thirsts
 thirsty
 thirteen
@@ -136348,6 +136378,7 @@ transducing
 transductant
 transductants
 transduction
+transductional
 transductions
 transect
 transected
@@ -144455,6 +144486,7 @@ vexatiously
 vexatiousness
 vexatiousnesses
 vexed
+vexedly
 vexedness
 vexednesses
 vexer
@@ -147902,6 +147934,7 @@ winked
 winker
 winkers
 winking
+winkingly
 winkle
 winkled
 winkles
@@ -148016,6 +148049,7 @@ wirra
 wiry
 wis
 wisdom
+wisdoms
 wise
 wiseacre
 wiseacres
@@ -149312,6 +149346,7 @@ yerba
 yerbas
 yerk
 yerked
+yerking
 yerks
 yes
 yeses
