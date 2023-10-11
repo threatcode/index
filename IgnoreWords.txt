@@ -1271,6 +1271,7 @@ administrations
 administrator
 administratrix
 admirabilities
+admirability
 admirable
 admirableness
 admirablenesses
@@ -8427,6 +8428,7 @@ aviators
 aviatress
 aviatresses
 aviatrice
+aviatrices
 aviatrix
 aviatrixes
 avicular
@@ -11548,6 +11550,7 @@ besetter
 beshadow
 beshadowing
 beshame
+beshamed
 beshames
 beshaming
 beshiver
@@ -19666,6 +19669,7 @@ caudillismo
 caudillo
 caudillos
 caudles
+caught
 caul
 cauld
 cauldron
@@ -23678,6 +23682,7 @@ coastward
 coastwards
 coastwise
 coat
+coatdress
 coatdresses
 coated
 coatee
@@ -25737,6 +25742,7 @@ concernment
 concernments
 concerns
 concert
+concertedly
 concertednesses
 concertgoer
 concertgoers
@@ -31587,6 +31593,7 @@ darers
 dares
 daresay
 daric
+darics
 daringly
 daringness
 daringnesses
@@ -40077,6 +40084,7 @@ eaves
 eavesdrop
 eavesdropped
 eavesdropper
+eavesdroppers
 eavesdropping
 eavesdrops
 ebbed
@@ -49130,6 +49138,7 @@ florists
 floruits
 floss
 flossed
+flosser
 flosses
 flossie
 flossies
@@ -51466,6 +51475,7 @@ fugue
 fugued
 fugues
 fuguing
+fuguist
 fuguists
 fugus
 fuhrer
@@ -52995,6 +53005,7 @@ gelders
 geldings
 gelds
 gelee
+gelid
 gelidities
 gelidly
 gelidness
@@ -58666,6 +58677,7 @@ heliacally
 helical
 helically
 helices
+helicities
 helicity
 heliclines
 helicoidal
@@ -73240,6 +73252,7 @@ limned
 limner
 limners
 limnetic
+limnic
 limning
 limnological
 limnologies
@@ -74709,6 +74722,7 @@ lucence
 lucences
 lucencies
 lucency
+lucent
 lucently
 lucern
 lucerne
@@ -74819,6 +74833,7 @@ lumbermen
 lumberyard
 lumberyards
 lumbosacral
+lumbrical
 lumbricals
 lumen
 lumenal
@@ -75502,6 +75517,7 @@ magalogue
 magalogues
 magazine
 magazines
+magazinist
 magazinists
 magdalen
 magdalene
@@ -80191,6 +80207,7 @@ misemployed
 misemploying
 misemployment
 misemployments
+misenrol
 misenroll
 misenrolled
 misenrolling
@@ -80234,6 +80251,7 @@ misevent
 misevents
 misfaith
 misfeasance
+misfeasances
 misfeasors
 misfed
 misfeed
@@ -80936,6 +80954,7 @@ mixup
 mixups
 mizen
 mizenmast
+mizenmasts
 mizens
 mizuna
 mizunas
@@ -83271,6 +83290,7 @@ mutagenically
 mutagenicities
 mutagenicity
 mutagens
+mutant
 mutants
 mutase
 mutases
@@ -83938,6 +83958,7 @@ nasions
 nasopharyngeal
 nasopharynges
 nasopharynx
+nasopharynxes
 nastic
 nastier
 nastiest
@@ -90530,6 +90551,7 @@ outsnore
 outsnored
 outsnores
 outsnoring
+outsoar
 outsoared
 outsoaring
 outsoars
@@ -92568,6 +92590,7 @@ padis
 padishah
 padishahs
 padle
+padles
 padlock
 padlocking
 padlocks
@@ -94467,6 +94490,7 @@ pawing
 pawkier
 pawkiest
 pawkily
+pawkiness
 pawkinesses
 pawky
 pawl
@@ -98292,6 +98316,7 @@ planned
 planner
 planners
 planning
+planographies
 planography
 planosol
 planosols
@@ -100072,6 +100097,7 @@ posers
 poses
 poseur
 poseurs
+posh
 poshest
 poshly
 poshness
@@ -102735,6 +102761,7 @@ proclaims
 proclamation
 proclises
 proclisis
+proclivities
 proclivity
 proconsul
 proconsular
@@ -103535,6 +103562,7 @@ prostituting
 prostitutions
 prostitutor
 prostitutors
+prostomia
 prostomium
 prostrate
 prostrated
@@ -104380,6 +104408,7 @@ pulsars
 pulsate
 pulsated
 pulsates
+pulsatile
 pulsating
 pulsation
 pulsations
@@ -107578,6 +107607,7 @@ receptor
 recepts
 recertification
 recertified
+recertifies
 recertify
 recertifying
 recess
@@ -112799,6 +112829,7 @@ rhizomes
 rhizopi
 rhizoplane
 rhizopod
+rhizopods
 rhizopus
 rhizosphere
 rhizospheres
@@ -120163,6 +120194,7 @@ shrimpers
 shrimpier
 shrimpiest
 shrimping
+shrimplike
 shrimps
 shrine
 shrined
@@ -128100,6 +128132,7 @@ subdepartments
 subdepot
 subdepots
 subdeputies
+subdeputy
 subdermal
 subdermally
 subdevelopment
@@ -132266,6 +132299,7 @@ tawed
 tawer
 tawers
 tawie
+tawing
 tawney
 tawneys
 tawnier
@@ -145693,6 +145727,7 @@ wadded
 wadder
 wadders
 waddie
+waddied
 waddies
 wadding
 waddle
