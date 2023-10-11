@@ -140,6 +140,7 @@ absorbency
 absorbent
 absorbents
 absorber
+absorbers
 absorbing
 absorbs
 absorptances
@@ -1566,6 +1567,7 @@ aecial
 aecidia
 aecidial
 aecidium
+aeciospore
 aeciospores
 aecium
 aedes
@@ -2614,6 +2616,7 @@ alcidine
 alcids
 alcohol
 alcoholically
+alcoholism
 alcoholisms
 alcohols
 alcove
@@ -3277,6 +3280,7 @@ althorn
 althorns
 although
 altigraph
+altigraphs
 altimeter
 altimeters
 altimetries
@@ -4356,6 +4360,7 @@ angiologies
 angiology
 angioma
 angiomas
+angiomata
 angiomatous
 angioplasties
 angioplasty
@@ -4587,6 +4592,7 @@ announcing
 annoy
 annoyance
 annoyed
+annoyer
 annoying
 annoys
 annual
@@ -6120,6 +6126,7 @@ apyrase
 apyrases
 apyretic
 aqua
+aquacade
 aquacades
 aquacultural
 aquaculture
@@ -8855,6 +8862,7 @@ backfitted
 backfitting
 backflip
 backflipped
+backflipping
 backflips
 backflow
 backflows
@@ -10603,6 +10611,7 @@ beddable
 bedded
 bedder
 bedding
+bedeafen
 bedeafened
 bedeafening
 bedeafens
@@ -14678,6 +14687,7 @@ bouncing
 bound
 boundable
 boundaries
+boundary
 bounded
 boundedness
 boundednesses
@@ -34733,6 +34743,7 @@ devastatingly
 devastation
 devastations
 devein
+deveining
 develing
 develop
 develope
@@ -35054,6 +35065,7 @@ dialings
 dialist
 diallages
 dialled
+diallel
 dialler
 diallers
 dialling
@@ -45792,6 +45804,7 @@ eyeing
 eyelash
 eyelashes
 eyeless
+eyelet
 eyelets
 eyeletted
 eyeletting
@@ -52517,6 +52530,7 @@ garths
 garvey
 garveys
 gas
+gasalier
 gasaliers
 gasbag
 gasbags
@@ -53074,6 +53088,7 @@ genotypically
 genre
 genres
 genro
+genros
 gens
 genseng
 gensengs
@@ -59179,6 +59194,7 @@ hetaerisms
 hetaira
 hetairai
 hetairas
+hetairisms
 hetero
 heteroatom
 heteroatoms
@@ -59230,6 +59246,7 @@ heterologous
 heterologously
 heterolysis
 heteromorphic
+heteromorphism
 heteromorphisms
 heteronomous
 heteronomy
@@ -74840,6 +74857,7 @@ lush
 lushed
 lusher
 lushes
+lushest
 lushing
 lushly
 lushness
@@ -78371,6 +78389,7 @@ metastably
 metastases
 metastasis
 metastasize
+metastasized
 metastasizes
 metastasizing
 metastatic
@@ -81655,6 +81674,7 @@ moolahs
 moolas
 mooleys
 mools
+moonbeam
 moonblind
 moonbow
 moonbows
@@ -90285,6 +90305,7 @@ outscream
 outscreaming
 outscreams
 outseeing
+outseen
 outsees
 outsell
 outsells
@@ -94031,6 +94052,7 @@ patchworked
 patchworking
 patchworks
 pate
+pated
 patellae
 patellar
 patellas
@@ -100658,6 +100680,7 @@ preapprove
 preapproved
 preapproves
 prearm
+prearmed
 prearming
 prearms
 prearrange
@@ -101788,6 +101811,7 @@ preshrinks
 preshrunk
 preshrunken
 preside
+presided
 presidencies
 presidency
 president
@@ -101928,6 +101952,7 @@ presumptuously
 presuppose
 presupposes
 presupposing
+presupposition
 presuppositions
 presurgery
 presurvey
@@ -102514,6 +102539,7 @@ proceeding
 proceedings
 proceeds
 procephalic
+procercoids
 processability
 processable
 processed
@@ -103491,6 +103517,7 @@ protoplasts
 protopod
 protopods
 protoporphyrin
+protoporphyrins
 protostar
 protostars
 protostele
@@ -110867,6 +110894,7 @@ requisitioning
 requisitions
 requital
 requite
+requited
 requiter
 requiters
 requites
@@ -116607,6 +116635,7 @@ scorchers
 scorches
 scorching
 scorchingly
+score
 scoreboard
 scorecard
 scorecards
@@ -124423,6 +124452,7 @@ spiniest
 spinifex
 spinifexes
 spininess
+spininesses
 spinless
 spinnaker
 spinnakers
@@ -125337,6 +125367,7 @@ squirming
 squirms
 squirreled
 squirreling
+squirrelled
 squirrelling
 squirrelly
 squirrels
@@ -128473,6 +128504,7 @@ subtherapeutic
 subthreshold
 subtile
 subtilenesses
+subtiler
 subtilest
 subtilin
 subtilins
@@ -132072,6 +132104,7 @@ taxonomists
 taxonomy
 taxpayer
 taxpaying
+taxpayings
 taxus
 taxwise
 tazza
@@ -136270,6 +136303,7 @@ transmissivity
 transmissometer
 transmits
 transmittable
+transmittal
 transmittance
 transmittances
 transmitted
@@ -142766,6 +142800,7 @@ uricotelic
 uricotelisms
 uridine
 uridines
+urinal
 urinalyses
 urinalysis
 urinaries
