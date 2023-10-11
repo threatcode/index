@@ -2507,6 +2507,7 @@ alands
 alang
 alanin
 alanine
+alanines
 alanins
 alans
 alants
@@ -5005,6 +5006,7 @@ antielectron
 antielectrons
 antielitisms
 antielitist
+antiemetic
 antiemetics
 antiepilepsy
 antiepileptic
@@ -5465,6 +5467,7 @@ antre
 antres
 antrorse
 antrum
+antrums
 ants
 antsiest
 antsiness
@@ -7325,6 +7328,7 @@ assuager
 assuagers
 assuages
 assuaging
+assumabilities
 assumability
 assumable
 assumably
@@ -17046,6 +17050,7 @@ byssinosis
 byssus
 byssuses
 bystander
+bystanders
 bystreet
 bystreets
 bytalk
@@ -18594,6 +18599,7 @@ carbureted
 carburetion
 carburetions
 carburetor
+carburets
 carburetted
 carburetter
 carburetters
@@ -26480,6 +26486,7 @@ console
 consoled
 consoler
 consolers
+consoles
 consolidate
 consolidated
 consolidates
@@ -35058,6 +35065,7 @@ diamondback
 diamondbacks
 diamonded
 diamondiferous
+diamonding
 diandrous
 dianthus
 dianthuses
@@ -39207,6 +39215,7 @@ ducky
 ductal
 ducted
 ductile
+ductilely
 ductilities
 ductility
 ducting
@@ -46559,6 +46568,7 @@ fattest
 fattier
 fatties
 fattiest
+fatting
 fattish
 fatty
 fatuities
@@ -52625,6 +52635,7 @@ gauntleting
 gauntlets
 gauntly
 gauntnesses
+gauntries
 gauntry
 gaur
 gaurs
@@ -56135,6 +56146,7 @@ guarder
 guarders
 guardhouse
 guardhouses
+guardian
 guardians
 guardianship
 guardianships
@@ -57193,6 +57205,7 @@ hamsters
 hamstring
 hamstringing
 hamstrings
+hamstrung
 hamulate
 hamuli
 hamulose
@@ -60966,6 +60979,7 @@ huffy
 huge
 hugely
 hugeness
+hugenesses
 hugeous
 hugeously
 hugest
@@ -68447,6 +68461,7 @@ jog
 jogged
 jogger
 joggers
+jogging
 joggle
 joggled
 jogglers
@@ -74954,6 +74969,7 @@ maar
 maars
 mabes
 mac
+macaber
 macabre
 macabrely
 macacos
@@ -75086,6 +75102,7 @@ macrophotograph
 macrophyte
 macrophytes
 macrophytic
+macropterous
 macros
 macroscales
 macroscopic
@@ -75733,6 +75750,7 @@ mammey
 mammeys
 mammie
 mammies
+mammilla
 mammillae
 mammillary
 mammillated
@@ -87483,6 +87501,7 @@ ocherous
 ochers
 ochlocracies
 ochlocracy
+ochlocratic
 ochlocrats
 ochone
 ochre
@@ -92894,6 +92913,7 @@ paparazzi
 paparazzo
 papas
 papaverines
+papaw
 papaws
 papaya
 papayan
@@ -112413,6 +112433,7 @@ rhymers
 rhymester
 rhymesters
 rhyming
+rhyolite
 rhyolitic
 rhyta
 rhythm
@@ -112620,6 +112641,7 @@ riffs
 rifle
 riflebird
 riflebirds
+rifled
 rifleman
 riflemen
 rifler
@@ -114544,6 +114566,7 @@ saint
 saintdom
 saintdoms
 sainted
+sainthood
 sainthoods
 sainting
 saintlier
@@ -115016,6 +115039,7 @@ sanidine
 sanidines
 saning
 sanious
+sanitarian
 sanitarians
 sanitaries
 sanitarily
@@ -118681,6 +118705,7 @@ shamisen
 shamisens
 shammas
 shammash
+shammashim
 shammasim
 shammed
 shammer
@@ -126754,6 +126779,7 @@ stratified
 stratifies
 stratiform
 stratify
+stratigraphic
 stratigraphies
 stratigraphy
 stratocracies
@@ -129632,6 +129658,7 @@ surmount
 surmountable
 surmounted
 surmullet
+surmullets
 surname
 surnamer
 surnamers
@@ -130728,6 +130755,7 @@ systematicness
 systematics
 systematise
 systematised
+systematising
 systematism
 systematist
 systematists
@@ -136648,6 +136676,7 @@ trifocals
 trifold
 trifoliate
 trifoliolate
+trifolium
 trifoliums
 triforia
 triforium
@@ -139421,6 +139450,7 @@ uncultured
 uncurable
 uncurably
 uncurb
+uncurbed
 uncurbing
 uncurbs
 uncured
@@ -140849,6 +140879,7 @@ unmitered
 unmitering
 unmiters
 unmitigated
+unmitigatedly
 unmitigatedness
 unmitre
 unmitred
@@ -143179,6 +143210,7 @@ vasodilatations
 vasodilation
 vasodilations
 vasodilator
+vasodilators
 vasomotor
 vasopressin
 vasopressins
@@ -143972,6 +144004,7 @@ vibrators
 vibratory
 vibratos
 vibrio
+vibrioid
 vibrionic
 vibrions
 vibrios
@@ -148604,6 +148637,7 @@ yarn
 yarned
 yarners
 yarning
+yarns
 yarrow
 yarrows
 yashmac
@@ -148616,6 +148650,7 @@ yatagans
 yataghan
 yataghans
 yatter
+yattered
 yattering
 yatters
 yaud
