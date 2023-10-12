@@ -5633,6 +5633,7 @@ apheretic
 apheses
 aphesis
 aphetic
+aphetically
 aphid
 aphides
 aphidian
@@ -13828,6 +13829,7 @@ boatman
 boatneck
 boatnecks
 boats
+boatsman
 boatsmen
 boatswains
 boatyard
@@ -21172,6 +21174,7 @@ chemisorption
 chemisorptions
 chemist
 chemistries
+chemistry
 chemists
 chemo
 chemoautotrophy
@@ -24187,6 +24190,7 @@ coercion
 coercions
 coercivities
 coercivity
+coerect
 coerected
 coerecting
 coesite
@@ -30885,6 +30889,7 @@ cutlets
 cutline
 cutlines
 cutoff
+cutoffs
 cutout
 cutouts
 cutover
@@ -33926,6 +33931,7 @@ deontological
 deontologist
 deontologists
 deontology
+deorbited
 deorbiting
 deoxidation
 deoxidations
@@ -34658,6 +34664,7 @@ detailedly
 detailedness
 detailednesses
 detailer
+detailing
 detailings
 detain
 detained
@@ -41763,6 +41770,7 @@ emulsifying
 emulsion
 emulsions
 emulsive
+emulsoidal
 emulsoids
 emunctories
 emunctory
@@ -42093,6 +42101,7 @@ endoenzyme
 endoenzymes
 endoergic
 endogamic
+endogamies
 endogamy
 endogenic
 endogenies
@@ -42427,6 +42436,7 @@ enjoiners
 enjoins
 enjoy
 enjoyable
+enjoyablenesses
 enjoyably
 enjoyed
 enjoyers
@@ -48425,6 +48435,7 @@ fistnotes
 fists
 fistula
 fistulae
+fistular
 fistulas
 fistulate
 fistulous
@@ -50163,6 +50174,7 @@ foremanship
 foremanships
 foremast
 foremasts
+foremilk
 foremilks
 foremost
 foremother
@@ -58595,6 +58607,7 @@ heathlike
 heaths
 heathy
 heating
+heatless
 heatproof
 heatstroke
 heatstrokes
@@ -59089,6 +59102,7 @@ hemopoiesis
 hemopoietic
 hemoprotein
 hemoproteins
+hemoptysis
 hemorrhage
 hemorrhaged
 hemorrhages
@@ -86236,6 +86250,7 @@ nonguests
 nonguilt
 nonguilts
 nonhalogenated
+nonhappening
 nonhappenings
 nonharmonic
 nonhemolytic
@@ -91410,6 +91425,7 @@ overdrafts
 overdramatize
 overdramatizing
 overdrank
+overdraw
 overdrawing
 overdrawn
 overdraws
@@ -94959,6 +94975,7 @@ peculiars
 pecuniarily
 pecuniary
 pedagogic
+pedagogical
 pedagogically
 pedagogy
 pedaled
@@ -99759,6 +99776,7 @@ polygraphic
 polygraphing
 polygraphist
 polygraphists
+polygraphs
 polygynies
 polygynous
 polyhedra
@@ -100260,6 +100278,7 @@ portative
 portcullis
 portcullises
 portend
+portended
 portending
 portent
 portentous
@@ -100292,6 +100311,7 @@ portions
 portless
 portlier
 portliest
+portliness
 portlinesses
 portly
 portmanteaux
@@ -100868,6 +100888,7 @@ powwows
 pox
 poxed
 poxes
+poxiest
 poxing
 poxvirus
 poxviruses
@@ -105313,6 +105334,7 @@ pyrolize
 pyrolized
 pyrolizes
 pyrolizing
+pyrologies
 pyrology
 pyrolusite
 pyrolusites
@@ -105797,6 +105819,7 @@ quester
 questers
 question
 questionable
+questionably
 questionary
 questioned
 questioner
@@ -108008,6 +108031,7 @@ reclothe
 reclothed
 reclothes
 reclothing
+recluse
 recluses
 reclusion
 reclusions
@@ -108679,6 +108703,7 @@ redistributed
 redistributing
 redistribution
 redistributions
+redistributive
 redistrict
 redistricted
 redistricting
@@ -121418,6 +121443,7 @@ sixes
 sixfold
 sixmos
 sixpence
+sixpences
 sixpenny
 sixteenmo
 sixteenmos
@@ -122143,6 +122169,7 @@ slickster
 slicksters
 slid
 slidable
+slidden
 slide
 slider
 slides
@@ -133055,6 +133082,7 @@ telerans
 teles
 telescope
 telescoped
+telescopes
 telescopic
 telescopically
 telescopies
@@ -138585,6 +138613,7 @@ tungstate
 tungstates
 tungstens
 tungstic
+tungstite
 tungstites
 tunic
 tunica
@@ -141370,6 +141399,7 @@ uniformnesses
 unify
 unifying
 unignorable
+unijugate
 unilateral
 unilaterally
 unilinear
@@ -141847,6 +141877,7 @@ unnewsworthy
 unnilhexium
 unnilhexiums
 unnilpentium
+unnilpentiums
 unnilquadiums
 unnoisy
 unnoted
@@ -143970,6 +144001,7 @@ vaporizable
 vaporization
 vaporizations
 vaporize
+vaporized
 vaporizer
 vaporizers
 vaporizes
@@ -145295,6 +145327,7 @@ virally
 virelay
 virelays
 viremia
+viremias
 viremic
 vireo
 vireonine
@@ -146544,6 +146577,7 @@ warpower
 warpowers
 warpwise
 warragal
+warragals
 warrant
 warrantable
 warrantableness
@@ -149033,6 +149067,7 @@ wormier
 wormiest
 wormil
 wormils
+worminess
 worminesses
 worming
 wormish
