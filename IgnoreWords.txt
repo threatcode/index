@@ -210,6 +210,7 @@ absurdist
 absurdists
 absurdities
 absurdly
+absurdness
 absurdnesses
 absurds
 abuilding
@@ -2861,6 +2862,7 @@ alizarine
 alizarines
 alizarins
 alkahest
+alkahestic
 alkahests
 alkalic
 alkalies
@@ -2935,6 +2937,7 @@ allaying
 allays
 allee
 allees
+allegation
 alleged
 allegedly
 alleger
@@ -15732,6 +15735,7 @@ bristling
 bristly
 bristol
 bristols
+brit
 britannias
 britches
 brith
@@ -23540,6 +23544,7 @@ cloudy
 clough
 cloughs
 cloured
+clouring
 clours
 clout
 clouted
@@ -28029,6 +28034,7 @@ corrective
 correctively
 correctives
 correctly
+correctness
 correctnesses
 corrector
 correctors
@@ -28456,6 +28462,7 @@ coumarous
 council
 councillor
 councillors
+councillorships
 councilman
 councilmanic
 councilmen
@@ -39546,6 +39553,7 @@ duck
 duckbill
 duckbills
 duckboards
+ducked
 ducker
 duckers
 duckie
@@ -40148,6 +40156,7 @@ earflap
 earflaps
 earful
 earfuls
+earing
 earl
 earlap
 earlaps
@@ -41284,6 +41293,7 @@ elocutions
 elodeas
 eloigned
 eloigner
+eloigners
 eloigning
 eloigns
 eloined
@@ -42832,6 +42842,7 @@ entangles
 entangling
 entases
 entasia
+entasias
 entasis
 entastic
 entelluses
@@ -55208,6 +55219,7 @@ goombahs
 goombay
 goon
 gooney
+goonies
 goony
 goop
 goopier
@@ -64060,6 +64072,7 @@ inactivities
 inactivity
 inadequacies
 inadequacy
+inadequate
 inadequately
 inadequateness
 inadmissibility
@@ -67220,6 +67233,7 @@ intransigeances
 intransigeant
 intransigeantly
 intransigeants
+intransigence
 intransigences
 intransigent
 intransigently
@@ -81189,6 +81203,7 @@ mistaker
 mistakers
 mistakes
 mistaking
+mistaught
 mistbow
 mistbows
 misteaches
@@ -82836,6 +82851,7 @@ mournful
 mournfuller
 mournfullest
 mournfully
+mournfulness
 mournfulnesses
 mourning
 mourningly
@@ -83964,6 +83980,7 @@ myopically
 myopies
 myoscopes
 myoses
+myosin
 myosis
 myositis
 myositises
@@ -86056,6 +86073,7 @@ nonbody
 nonbonded
 nonbonding
 nonbook
+nonbooks
 nonbotanist
 nonbrand
 nonbreakable
@@ -92390,6 +92408,7 @@ overservicing
 oversets
 oversetting
 oversew
+oversewed
 oversewing
 oversewn
 overshaded
@@ -96244,6 +96263,7 @@ periwigs
 periwinkle
 periwinkles
 perjure
+perjured
 perjurer
 perjurers
 perjures
@@ -105720,6 +105740,7 @@ qaid
 qaids
 qanat
 qanats
+qat
 qats
 qi
 qindar
@@ -109880,6 +109901,7 @@ regiving
 reglazed
 reglazes
 reglazing
+reglet
 reglorified
 reglorifies
 reglorify
@@ -115314,6 +115336,7 @@ ryked
 rykes
 ryking
 rynd
+rynds
 ryokan
 ryot
 ryots
@@ -116992,6 +117015,7 @@ scattering
 scatters
 scattershot
 scattier
+scattiest
 scatting
 scaup
 scauper
@@ -118033,6 +118057,7 @@ seacrafts
 seadogs
 seadrome
 seadromes
+seafarer
 seafarers
 seafaring
 seafarings
@@ -118046,6 +118071,7 @@ seafront
 seagirt
 seagoing
 seagull
+seagulls
 seahorses
 seal
 sealable
@@ -121995,6 +122021,7 @@ skimboards
 skimmed
 skimmer
 skimmers
+skimming
 skimobile
 skimobiled
 skimobiles
@@ -124661,6 +124688,7 @@ spaciest
 spaciness
 spacing
 spacings
+spacious
 spaciously
 spaciousness
 spaciousnesses
@@ -127863,6 +127891,7 @@ straighted
 straightedge
 straightedges
 straighten
+straightened
 straightener
 straighteners
 straightens
@@ -134432,6 +134461,7 @@ theobromines
 theocentric
 theocentricity
 theocentrism
+theocentrisms
 theocracies
 theocracy
 theocrat
@@ -137570,6 +137600,7 @@ treatable
 treated
 treater
 treaters
+treatise
 treatises
 treatment
 treatments
@@ -137660,6 +137691,7 @@ trenchermen
 trenchers
 trenches
 trenching
+trend
 trended
 trendier
 trendies
@@ -145380,6 +145412,7 @@ vicariants
 vicariate
 vicarious
 vicariously
+vicariousness
 vicariousnesses
 vicarly
 vicars
@@ -147197,6 +147230,7 @@ waterfowler
 waterfowlers
 waterfowling
 waterfowls
+waterfronts
 waterheads
 waterhen
 waterhens
@@ -148433,6 +148467,7 @@ wieldiest
 wields
 wieldy
 wieners
+wienerwurst
 wienerwursts
 wienie
 wienies
