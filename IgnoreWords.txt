@@ -5932,6 +5932,7 @@ appeasing
 appellants
 appellation
 appellative
+appellatively
 appellees
 appellor
 appellors
@@ -7843,6 +7844,7 @@ atticize
 atticizes
 atticizing
 attics
+attire
 attired
 attires
 attiring
@@ -8079,6 +8081,7 @@ auscultations
 auscultatory
 ausform
 ausforming
+ausforms
 auslander
 auslanders
 auspex
@@ -9814,6 +9817,7 @@ baritone
 baritones
 barium
 bariums
+bark
 barked
 barkeep
 barkeeper
@@ -18696,6 +18700,7 @@ carbohydrates
 carbolics
 carbolize
 carbolized
+carbolizes
 carbolizing
 carbon
 carbonade
@@ -21630,6 +21635,7 @@ chiralities
 chirality
 chirimoya
 chirimoyas
+chirk
 chirked
 chirker
 chirkest
@@ -25765,6 +25771,7 @@ concatenating
 concatenation
 concatenations
 concave
+concaved
 concavely
 concaves
 concaving
@@ -25906,6 +25913,7 @@ conciliative
 conciliator
 conciliators
 conciliatory
+concinnities
 concinnity
 concise
 concisely
@@ -44257,6 +44265,7 @@ ethnocentrism
 ethnocentrisms
 ethnographer
 ethnographers
+ethnographical
 ethnographies
 ethnography
 ethnohistorian
@@ -49130,6 +49139,7 @@ flimsinesses
 flimsy
 flinch
 flinched
+flinchers
 flinches
 flinching
 fling
@@ -50927,6 +50937,7 @@ francium
 franciums
 francize
 francized
+francizing
 francolin
 francolins
 francophone
@@ -58283,6 +58294,7 @@ hatefulnesses
 hater
 haters
 hates
+hatful
 hatfuls
 hath
 hating
@@ -62084,6 +62096,7 @@ hylas
 hylozoic
 hylozoism
 hylozoisms
+hylozoist
 hylozoistic
 hylozoists
 hymen
@@ -62671,6 +62684,7 @@ ickinesses
 icky
 icon
 icones
+iconic
 iconical
 iconically
 iconicities
@@ -66777,6 +66791,7 @@ internist
 internists
 internment
 internments
+internode
 internodes
 interns
 internship
@@ -69125,6 +69140,7 @@ jostle
 jostled
 jostler
 jostlers
+jostles
 jostling
 jota
 jotas
@@ -70437,6 +70453,7 @@ kingless
 kinglet
 kinglets
 kingliest
+kinglike
 kingliness
 kinglinesses
 kingly
@@ -75239,6 +75256,7 @@ lunge
 lungee
 lungees
 lunger
+lungers
 lunges
 lungfish
 lungfishes
@@ -76761,6 +76779,7 @@ mappers
 mapping
 maps
 maquette
+maquettes
 maqui
 maquila
 maquiladora
@@ -79562,6 +79581,7 @@ miffing
 miffy
 mig
 migg
+miggles
 miggs
 might
 mightier
@@ -80080,6 +80100,7 @@ minorcas
 minored
 minorities
 minority
+minors
 minoxidil
 minoxidils
 minster
@@ -82364,6 +82385,7 @@ morganatic
 morganatically
 morganite
 morganites
+morgen
 morgens
 morgue
 morgues
@@ -90932,6 +90954,7 @@ outsmells
 outsmelt
 outsmile
 outsmiles
+outsmiling
 outsmoke
 outsmoked
 outsmokes
@@ -91663,6 +91686,7 @@ overencouraged
 overencourages
 overencouraging
 overenergetic
+overengineer
 overengineering
 overenrolled
 overentertained
@@ -93568,6 +93592,7 @@ panicum
 panicums
 panier
 panini
+panino
 panjandra
 panjandrum
 panjandrums
@@ -95379,6 +95404,7 @@ pellagrous
 pelletal
 pelleted
 pelleting
+pelletise
 pelletised
 pelletises
 pelletising
@@ -102389,6 +102415,7 @@ presentably
 presentation
 presentational
 presentations
+presentative
 presented
 presentee
 presentees
@@ -103008,6 +103035,7 @@ prior
 priorates
 prioress
 prioresses
+priories
 priorities
 prioritization
 prioritizations
@@ -107519,6 +107547,7 @@ readjusts
 readmission
 readmissions
 readmit
+readmits
 readmitted
 readmitting
 readopted
@@ -124166,6 +124195,7 @@ sootiest
 sootily
 sootiness
 sootinesses
+sooting
 soots
 sooty
 sop
@@ -137221,6 +137251,7 @@ transpolar
 transponders
 transpontine
 transport
+transportable
 transportation
 transportations
 transported
@@ -143688,6 +143719,7 @@ urger
 urgers
 urges
 urging
+urgingly
 urial
 urials
 uric
@@ -143996,6 +144028,7 @@ vaginismus
 vaginitis
 vaginitises
 vaginoses
+vagotomies
 vagotomy
 vagotonia
 vagotonic
@@ -144102,6 +144135,7 @@ valorization
 valorizations
 valorized
 valorizes
+valorizing
 valorous
 valorously
 valors
@@ -144161,6 +144195,7 @@ vamp
 vamped
 vamper
 vampers
+vampier
 vampiest
 vamping
 vampire
