@@ -2958,12 +2958,14 @@ allegorizing
 allegory
 allegretto
 allegrettos
+allegro
 allegros
 allele
 alleles
 allelic
 allelism
 allelisms
+allelomorphic
 allelomorphisms
 allelomorphs
 allelopathic
@@ -17599,6 +17601,7 @@ calcimining
 calcination
 calcinations
 calcine
+calcined
 calcines
 calcining
 calcinoses
@@ -18413,6 +18416,7 @@ capered
 caperer
 caperers
 capering
+capers
 capes
 capeskin
 capeskins
@@ -24006,6 +24010,7 @@ cocobolo
 cocobolos
 cocomat
 cocomposer
+cocomposers
 coconspirator
 coconspirators
 coconut
@@ -25250,6 +25255,7 @@ commixture
 commixtures
 commode
 commodes
+commodification
 commodified
 commodify
 commodifying
@@ -33312,6 +33318,7 @@ delaminations
 delate
 delated
 delates
+delating
 delation
 delations
 delator
@@ -35940,6 +35947,7 @@ dimidiating
 diminish
 diminishable
 diminished
+diminishes
 diminishing
 diminishment
 diminishments
@@ -36690,6 +36698,7 @@ discrimination
 discriminations
 discriminative
 discriminator
+discriminators
 discriminatory
 discrown
 discrowned
@@ -39330,6 +39339,7 @@ drowners
 drowning
 drowns
 drowse
+drowsed
 drowses
 drowsiest
 drowsily
@@ -45832,6 +45842,7 @@ extinguished
 extinguisher
 extinguishing
 extinguishment
+extinguishments
 extirpate
 extirpated
 extirpation
@@ -51087,6 +51098,7 @@ freeways
 freewheel
 freewheeled
 freewheelers
+freewheeling
 freewheels
 freewill
 freewrite
@@ -52451,6 +52463,7 @@ galores
 galoshe
 galoshed
 galoshes
+gals
 galumph
 galumphed
 galumphing
@@ -58303,6 +58316,7 @@ haunter
 haunting
 hauntingly
 haunts
+hausen
 hausens
 hausfrau
 hausfrauen
@@ -71326,7 +71340,9 @@ lagunas
 lagune
 lagunes
 lahar
+lahars
 laic
+laical
 laically
 laich
 laichs
@@ -72825,6 +72841,7 @@ leptophoses
 leptosome
 leptosomes
 leptospiral
+leptospire
 leptospires
 leptospiroses
 leptospirosis
@@ -83793,6 +83810,7 @@ myelomata
 myelomatous
 myelopathic
 myelopathies
+myelopathy
 myiases
 myiasis
 mylars
@@ -86263,6 +86281,7 @@ nonessential
 nonessentials
 nonestablished
 nonesterified
+nonesuch
 nonesuches
 nonet
 nonethical
@@ -91552,6 +91571,7 @@ overdoses
 overdraft
 overdrafts
 overdramatize
+overdramatizes
 overdramatizing
 overdrank
 overdraw
@@ -91692,6 +91712,7 @@ overfear
 overfeared
 overfearing
 overfed
+overfeed
 overfeeding
 overfeeds
 overfertilize
@@ -92929,6 +92950,7 @@ padder
 padders
 paddies
 padding
+paddings
 paddleball
 paddleballs
 paddleboard
@@ -98706,6 +98728,7 @@ plantable
 plantain
 plantains
 plantar
+plantation
 plantations
 planted
 planter
@@ -101297,6 +101320,7 @@ prebiblical
 prebid
 prebidden
 prebids
+prebill
 prebilling
 prebills
 prebinding
@@ -101651,6 +101675,7 @@ predraft
 predried
 predrill
 predrilled
+predrilling
 predrills
 predry
 predrying
@@ -106253,6 +106278,7 @@ quotha
 quotidian
 quotidians
 quotient
+quotients
 quoting
 qurush
 qwerty
@@ -114003,6 +114029,7 @@ rock
 rockabies
 rockabilly
 rockable
+rockaby
 rockabye
 rockabyes
 rockaway
@@ -119017,6 +119044,7 @@ sepulchral
 sepulchrally
 sepulchred
 sepulchres
+sepulchring
 sepulture
 sequacious
 sequacities
@@ -123527,6 +123555,7 @@ sociohistorical
 sociolects
 sociolinguistic
 sociolinguists
+sociological
 sociologically
 sociologies
 sociologist
@@ -123794,6 +123823,7 @@ solicitousness
 solicits
 solicitude
 solicitudes
+solid
 solidago
 solidagos
 solidarism
@@ -129386,6 +129416,7 @@ succeeds
 success
 successes
 successful
+successfully
 successfulness
 succession
 successional
@@ -130546,6 +130577,7 @@ supposes
 supposing
 suppositional
 suppositions
+suppositious
 supposititious
 suppositories
 suppository
@@ -135167,6 +135199,7 @@ tieing
 tieless
 tiemannite
 tiemannites
+tiepin
 tiepins
 tier
 tierce
@@ -137962,6 +137995,7 @@ triplites
 triploblastic
 triploid
 triploidies
+triploids
 triploidy
 triply
 tripod
@@ -142991,6 +143025,7 @@ unveiling
 unveilings
 unveils
 unveined
+unverbalized
 unverifiable
 unversed
 unvested
