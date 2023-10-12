@@ -1844,6 +1844,7 @@ affluent
 affluently
 affluents
 afflux
+affluxes
 afford
 affordabilities
 affordability
@@ -3453,6 +3454,7 @@ ambeers
 amber
 ambergris
 ambergrises
+amberies
 amberinas
 amberjack
 amberjacks
@@ -7239,6 +7241,7 @@ assays
 assegai
 assegaied
 assegaiing
+assegais
 assemblage
 assemblages
 assemblagist
@@ -13144,6 +13147,7 @@ blastemata
 blastematic
 blastemic
 blaster
+blastier
 blasties
 blastiest
 blasting
@@ -18117,6 +18121,7 @@ canes
 caneware
 canewares
 canfield
+canfields
 canful
 canfuls
 cangue
@@ -22224,6 +22229,7 @@ chugalugs
 chugger
 chuggers
 chugging
+chugs
 chukar
 chukka
 chukkar
@@ -27593,6 +27599,7 @@ copyediting
 copyedits
 copygirl
 copygirls
+copyhold
 copying
 copyist
 copyists
@@ -29024,6 +29031,7 @@ cracklier
 crackling
 cracknel
 cracknels
+crackpot
 crackpots
 cracks
 cracksman
@@ -30856,6 +30864,7 @@ customshouse
 custumal
 custumals
 cut
+cutabilities
 cutability
 cutaneous
 cutaway
@@ -33192,6 +33201,7 @@ dehydration
 dehydrations
 dehydrator
 dehydrators
+dehydrogenases
 dehydrogenate
 dehydrogenated
 dehydrogenates
@@ -35598,6 +35608,7 @@ dienes
 dieoff
 dieoffs
 diereses
+dieresis
 dieretic
 dies
 diesel
@@ -42437,6 +42448,7 @@ enhancements
 enhancer
 enhancers
 enhances
+enharmonic
 enigma
 enigmas
 enigmatic
@@ -46116,6 +46128,7 @@ fabulousness
 fabulousnesses
 facade
 facades
+face
 faceable
 facecloth
 facecloths
@@ -49181,6 +49194,7 @@ flocks
 flocky
 flocs
 floe
+floes
 flog
 floggable
 flogged
@@ -61690,6 +61704,7 @@ hurtless
 hurtling
 hurts
 husband
+husbanded
 husbander
 husbanders
 husbanding
@@ -64845,6 +64860,7 @@ indults
 indurate
 indurated
 indurates
+indurating
 induration
 indurations
 indurative
@@ -70399,6 +70415,7 @@ kinship
 kinships
 kinsman
 kinsmen
+kinswoman
 kinswomen
 kiosk
 kiosks
@@ -71244,6 +71261,7 @@ ladylike
 ladylove
 ladyloves
 ladypalm
+ladypalms
 ladyship
 ladyships
 laetrile
@@ -76755,6 +76773,7 @@ marching
 marchioness
 marchionesses
 marchland
+marchlands
 marchlike
 marchpane
 marchpanes
@@ -78190,6 +78209,7 @@ menace
 menaced
 menacer
 menacers
+menaces
 menacing
 menad
 menadione
@@ -78298,6 +78318,7 @@ mentalists
 mentalities
 mentality
 mentally
+mentation
 mentations
 mentee
 mentees
@@ -82776,6 +82797,7 @@ mu
 much
 muchacho
 muchachos
+muches
 muchly
 muchness
 muchnesses
@@ -84405,6 +84427,7 @@ nazi
 nazification
 nazifications
 nazified
+nazifies
 nazify
 nazifying
 nazis
@@ -84829,6 +84852,7 @@ nephrotoxic
 nephrotoxicity
 nepotism
 nepotisms
+nepotist
 nepotistic
 nepotists
 neptunium
@@ -89067,6 +89091,7 @@ oppressive
 oppressively
 oppressiveness
 oppressor
+oppressors
 opprobrious
 opprobriously
 opprobrium
@@ -89506,6 +89531,7 @@ orographical
 orographies
 orography
 oroide
+oroides
 orologies
 orologist
 orologists
@@ -95619,6 +95645,7 @@ peplumed
 peplus
 pepluses
 pepo
+peponida
 peponidas
 peponium
 pepos
@@ -115914,6 +115941,7 @@ sannyasin
 sannyasis
 sans
 sansar
+sansculotte
 sansculottes
 sansculottic
 sansculottish
@@ -127199,6 +127227,7 @@ stipulate
 stipulated
 stipulates
 stipulating
+stipulation
 stipulations
 stipulator
 stipulators
@@ -129591,6 +129620,7 @@ sulfonic
 sulfonium
 sulfoniums
 sulfonyl
+sulfonyls
 sulfonylurea
 sulfonylureas
 sulfoxide
@@ -132384,6 +132414,7 @@ tantrum
 tantrums
 tanuki
 tanukis
+tanyard
 tanzanite
 tanzanites
 tao
@@ -133587,6 +133618,7 @@ terabyte
 terabytes
 teraflop
 teraflops
+terahertz
 terahertzes
 terai
 terais
@@ -143595,6 +143627,7 @@ ursid
 ursids
 ursiform
 ursine
+urtext
 urtexts
 urticant
 urticants
@@ -147971,6 +148004,7 @@ whomped
 whomping
 whomps
 whomsoever
+whoof
 whoofed
 whoofing
 whoofs
@@ -148621,6 +148655,7 @@ wissing
 wist
 wistaria
 wistarias
+wisted
 wisteria
 wisterias
 wistful
