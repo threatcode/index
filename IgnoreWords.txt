@@ -246,6 +246,7 @@ abwatt
 abwatts
 aby
 abye
+abying
 abys
 abysm
 abysmally
@@ -7133,6 +7134,7 @@ ash
 ashamedly
 ashcake
 ashcakes
+ashcan
 ashcans
 ashed
 ashen
@@ -9792,6 +9794,7 @@ barbequed
 barbeques
 barbequing
 barber
+barbered
 barbering
 barberries
 barberry
@@ -10179,6 +10182,7 @@ basket
 basketballs
 basketful
 basketfuls
+basketlike
 basketry
 baskets
 basketwork
@@ -19567,6 +19571,7 @@ casuistries
 casuists
 casus
 cat
+catabolic
 catabolically
 catabolisms
 catabolite
@@ -20530,6 +20535,7 @@ cervelas
 cervelases
 cervelats
 cerveza
+cervezas
 cervical
 cervices
 cervicitis
@@ -20866,6 +20872,7 @@ chanterelle
 chanters
 chanteuse
 chantey
+chanteys
 chanticleer
 chanticleers
 chanties
@@ -25051,6 +25058,7 @@ colorcast
 colorcasted
 colorcasting
 colorcasts
+colorectal
 colored
 colorer
 colorers
@@ -33450,6 +33458,7 @@ dehorting
 dehorts
 dehumanization
 dehumanizations
+dehumanized
 dehumanizes
 dehumanizing
 dehumidified
@@ -35309,11 +35318,13 @@ devotements
 devotes
 devoting
 devotion
+devotional
 devotionally
 devotionals
 devotions
 devour
 devoured
+devourer
 devourers
 devouring
 devours
@@ -38425,6 +38436,7 @@ doldrums
 dole
 doled
 doleful
+dolefullest
 dolefully
 dolefulness
 dolefulnesses
@@ -48709,6 +48721,7 @@ fireroom
 firers
 fires
 fireship
+fireships
 fireside
 firestone
 firestones
@@ -53031,6 +53044,7 @@ gangsterdom
 gangsterdoms
 gangsterish
 gangsterism
+gangsterisms
 gangsters
 gangue
 gangues
@@ -54157,6 +54171,7 @@ ghazies
 ghee
 ghees
 gherao
+gheraoed
 gheraoes
 gheraoing
 gherkin
@@ -55256,6 +55271,7 @@ goatsuckers
 gob
 goban
 gobang
+gobangs
 gobans
 gobbed
 gobbet
@@ -59330,6 +59346,7 @@ held
 heldentenor
 heldentenors
 heliacally
+heliast
 helical
 helically
 helices
@@ -70553,6 +70570,7 @@ kex
 kexes
 keyboard
 keyboarded
+keyboarder
 keyboarders
 keyboarding
 keyboardist
@@ -74272,6 +74290,7 @@ linstock
 linstocks
 linted
 lintel
+lintels
 linter
 linters
 lintier
@@ -83124,6 +83143,7 @@ motels
 motes
 motet
 motets
+moth
 mothball
 mothballed
 mothballs
@@ -106377,6 +106397,7 @@ quadraphonic
 quadraphonics
 quadrat
 quadrate
+quadrated
 quadrates
 quadratic
 quadratically
@@ -107643,6 +107664,7 @@ ramtillas
 ramtils
 ramulose
 ramulous
+ramus
 ran
 rance
 rances
@@ -112160,6 +112182,7 @@ reprises
 reprising
 repristinate
 repristinated
+repristinates
 repristinating
 repristination
 repristinations
@@ -114025,6 +114048,7 @@ rheologies
 rheologist
 rheology
 rheometer
+rheometers
 rheophil
 rheophiles
 rheostat
@@ -114100,6 +114124,7 @@ rhodamins
 rhodic
 rhodium
 rhodochrosite
+rhodochrosites
 rhododendron
 rhododendrons
 rhodolite
@@ -114248,6 +114273,7 @@ ricketiest
 rickets
 rickettsia
 rickettsiae
+rickettsial
 rickettsias
 rickety
 rickeys
@@ -114418,6 +114444,7 @@ rigid
 rigidification
 rigidifications
 rigidifies
+rigidify
 rigidifying
 rigidities
 rigidity
@@ -114538,6 +114565,7 @@ rinser
 rinses
 rinsing
 rinsings
+rioja
 riojas
 riot
 rioted
@@ -117361,6 +117389,7 @@ saxonies
 saxony
 saxophone
 saxophones
+saxophonic
 saxophonist
 saxophonists
 saxtuba
@@ -127141,6 +127170,7 @@ staggart
 stagged
 staggerbush
 staggerbushes
+staggered
 staggerer
 staggering
 staggeringly
@@ -128886,6 +128916,7 @@ striata
 striate
 striates
 striating
+striation
 striations
 striatum
 stricken
@@ -132429,6 +132460,7 @@ symmetrizes
 symmetrizing
 symmetry
 sympathectomies
+sympathetic
 sympathetics
 sympathin
 sympathins
@@ -135608,6 +135640,7 @@ thirtyish
 this
 thisaway
 thistledowns
+thistles
 thistlier
 thistliest
 thistly
@@ -149765,6 +149798,7 @@ wiseguys
 wiselier
 wiseliest
 wisely
+wiseness
 wisenesses
 wisenheimer
 wisent
@@ -151726,6 +151760,7 @@ zoospores
 zoosporic
 zoosterol
 zoosterols
+zootechnics
 zootiest
 zootomic
 zootomist
