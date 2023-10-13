@@ -746,6 +746,7 @@ acknowledges
 acknowledgment
 acknowledgments
 aclinic
+acmatic
 acme
 acmes
 acmic
@@ -3308,6 +3309,7 @@ alternates
 alternating
 alternation
 alternative
+alternatively
 alternativeness
 alternatives
 alternator
@@ -4485,6 +4487,7 @@ anhydrides
 anhydrite
 anhydrous
 ani
+anil
 anile
 anilin
 anilinctus
@@ -6081,6 +6084,7 @@ appositively
 appositives
 appraisal
 appraise
+appraised
 appraisees
 appraisement
 appraisements
@@ -7801,6 +7805,7 @@ atropisms
 attaboy
 attach
 attachable
+attache
 attached
 attacher
 attachers
@@ -13150,6 +13155,7 @@ blaff
 blagging
 blaggings
 blah
+blain
 blains
 blam
 blamable
@@ -13720,6 +13726,7 @@ bluebird
 bluebirds
 blueblood
 bluebloods
+bluebonnet
 bluebonnets
 bluebooks
 bluebottle
@@ -14949,6 +14956,7 @@ bowdlerization
 bowdlerizations
 bowdlerized
 bowdlerizer
+bowdlerizers
 bowdlerizes
 bowdlerizing
 bowed
@@ -15699,6 +15707,7 @@ brigantines
 bright
 brighten
 brighteners
+brightening
 brightens
 brighter
 brightest
@@ -25709,6 +25718,7 @@ complicacies
 complicacy
 complicate
 complicated
+complicatedness
 complicates
 complicating
 complication
@@ -37959,6 +37969,7 @@ divans
 divaricate
 divaricated
 divaricates
+divaricating
 divarication
 divarications
 divas
@@ -41137,6 +41148,7 @@ elastases
 elastic
 elastically
 elasticities
+elasticity
 elasticized
 elastics
 elastin
@@ -41846,6 +41858,7 @@ emeses
 emesis
 emetic
 emetically
+emetics
 emetine
 emetines
 emetins
@@ -51059,6 +51072,7 @@ foxiest
 foxily
 foxiness
 foxinesses
+foxing
 foxings
 foxlike
 foxskin
@@ -52067,6 +52081,7 @@ fumigation
 fumigator
 fumigators
 fuming
+fumingly
 fumitories
 fumitory
 fumuli
@@ -60526,6 +60541,7 @@ hobnobbed
 hobnobber
 hobnobbers
 hobnobbing
+hobnobs
 hobo
 hoboed
 hoboes
@@ -61573,6 +61589,7 @@ houdahs
 hound
 hounded
 hounders
+hounding
 hounds
 hour
 hourglass
@@ -63391,6 +63408,7 @@ illuviate
 illuviated
 illuviates
 illuviating
+illuviation
 illuvium
 illuviums
 illy
@@ -64487,6 +64505,7 @@ incardinations
 incarnadine
 incarnadines
 incarnadining
+incarnate
 incarnated
 incarnates
 incarnating
@@ -74246,6 +74265,7 @@ liquidates
 liquidating
 liquidation
 liquidator
+liquidators
 liquidity
 liquidized
 liquidizes
@@ -74857,6 +74877,7 @@ loginesses
 logins
 logion
 logions
+logistic
 logistical
 logistically
 logistician
@@ -76934,6 +76955,7 @@ manics
 manicured
 manicures
 manicuring
+manicurist
 manicurists
 manifest
 manifestant
@@ -77710,6 +77732,7 @@ matchbox
 matchboxes
 matched
 matcher
+matchers
 matching
 matchless
 matchlessly
@@ -82928,6 +82951,7 @@ mosh
 moshav
 moshavim
 moshed
+mosher
 moshers
 moshes
 moshing
@@ -89379,6 +89403,7 @@ oohs
 oolachan
 oolachans
 oolite
+oolites
 oolith
 ooliths
 oolitic
@@ -89742,6 +89767,7 @@ orangutans
 orangy
 orate
 orated
+orates
 orating
 orations
 orator
@@ -91091,6 +91117,7 @@ outpasses
 outpassing
 outpatient
 outpatients
+outpeople
 outpeopled
 outpeopling
 outperform
@@ -97345,6 +97372,7 @@ phenomenons
 phenoms
 phenothiazine
 phenothiazines
+phenotype
 phenotypes
 phenotypic
 phenotypical
@@ -134703,6 +134731,7 @@ tethers
 tetotum
 tetotums
 tetra
+tetracaine
 tetrachlorides
 tetrachords
 tetracid
@@ -135694,6 +135723,7 @@ thunderbolts
 thunderclap
 thunderclaps
 thunderclouds
+thundered
 thunderer
 thunderers
 thunderhead
@@ -136584,6 +136614,7 @@ toluenes
 toluic
 toluid
 toluides
+toluidide
 toluidides
 toluidin
 toluidine
@@ -136779,6 +136810,7 @@ toothbrushings
 toothed
 toothier
 toothiest
+toothily
 toothing
 toothless
 toothpaste
@@ -138451,6 +138483,7 @@ tricksiness
 trickster
 tricksters
 tricksy
+triclad
 triclads
 triclinia
 triclinic
@@ -147665,6 +147698,7 @@ washrooms
 washstand
 washstands
 washtub
+washtubs
 washup
 washups
 washwoman
@@ -151184,6 +151218,7 @@ zest
 zested
 zester
 zesters
+zestful
 zestfully
 zestfulness
 zestfulnesses
