@@ -2919,6 +2919,7 @@ alkines
 alkoxide
 alkoxides
 alkoxy
+alky
 alkyd
 alkyds
 alkyl
@@ -3268,6 +3269,7 @@ alphanumerics
 alphas
 alphorn
 alphosis
+alphosises
 alphyl
 alphyls
 alpine
@@ -9584,6 +9586,7 @@ bandog
 bandogs
 bandoleer
 bandoleers
+bandolier
 bandoliers
 bandoneon
 bandoneons
@@ -16425,6 +16428,7 @@ bugbears
 bugeye
 bugeyes
 bugged
+bugger
 buggered
 buggeries
 buggering
@@ -26042,6 +26046,7 @@ conchologies
 conchologists
 conchology
 conchos
+conchs
 conchy
 concierge
 concierges
@@ -32908,6 +32913,7 @@ decurions
 decurrent
 decurve
 decurves
+decurving
 decury
 decussate
 decussated
@@ -34466,6 +34472,7 @@ derailleur
 derailleurs
 derailment
 derange
+derangement
 derangements
 deranger
 derangers
@@ -38237,6 +38244,7 @@ dodgems
 dodger
 dodgeries
 dodgers
+dodgery
 dodges
 dodgier
 dodginesses
@@ -42827,6 +42835,7 @@ enolase
 enolic
 enological
 enologies
+enologist
 enologists
 enology
 enols
@@ -48613,6 +48622,7 @@ fireflies
 firefloods
 firefly
 firehall
+firehalls
 firehouse
 firehouses
 fireless
@@ -49098,6 +49108,7 @@ flatfoots
 flathead
 flatheads
 flatiron
+flatlander
 flatlanders
 flatlands
 flatlet
@@ -49326,6 +49337,7 @@ fletcher
 fletchers
 fletches
 fleuron
+fleurons
 fleury
 flew
 flews
@@ -49660,6 +49672,7 @@ flourishers
 flourishing
 flourless
 flours
+flout
 flouted
 flouter
 flouting
@@ -54333,6 +54346,7 @@ gingillis
 gingiva
 gingivae
 gingivectomies
+gingivectomy
 gingivitis
 gingivitises
 gingkoes
@@ -55073,6 +55087,7 @@ glycosylation
 glycosylations
 glycosyls
 glycyl
+glycyls
 glyph
 glyphs
 glyptic
@@ -55394,6 +55409,7 @@ gongs
 gonia
 gonidia
 gonidic
+gonidium
 gonif
 goniff
 goniffs
@@ -77542,6 +77558,7 @@ marvel
 marveled
 marveling
 marvelled
+marvelling
 marvellous
 marvelous
 marvelously
@@ -78479,6 +78496,7 @@ megrim
 megrims
 megs
 mehndi
+mehndis
 meikle
 meinies
 meiny
@@ -80399,6 +80417,7 @@ mingler
 minglers
 mingles
 mingling
+mingy
 mini
 miniature
 miniatures
@@ -86452,6 +86471,7 @@ nonbreeding
 nonbroadcast
 nonbuilding
 nonburnable
+nonbuying
 noncabinet
 noncaking
 noncallable
@@ -89291,6 +89311,7 @@ omophagy
 omphali
 omphalos
 omphaloskepses
+omphaloskepsis
 oms
 on
 onager
@@ -94379,6 +94400,7 @@ paragons
 paragraph
 paragraphed
 paragrapher
+paragraphers
 paragraphic
 paragraphing
 paragraphs
@@ -96912,6 +96934,7 @@ persons
 perspectival
 perspective
 perspectively
+perspectives
 perspexes
 perspicacious
 perspicaciously
@@ -107555,6 +107578,7 @@ rangelands
 ranger
 rangers
 rangier
+rangiest
 ranginess
 ranging
 rangy
@@ -108494,6 +108518,7 @@ rebounds
 rebozo
 rebozos
 rebranch
+rebranches
 rebranching
 rebred
 rebreed
@@ -112901,6 +112926,7 @@ restrengthen
 restrengthened
 restrengthening
 restrengthens
+restress
 restressed
 restresses
 restressing
@@ -118358,6 +118384,7 @@ scrunches
 scrunchie
 scrunchies
 scrunching
+scruple
 scrupled
 scruples
 scrupling
@@ -118869,6 +118896,7 @@ sedations
 sedative
 sedatives
 sedentary
+seder
 seders
 sederunt
 sederunts
@@ -126739,6 +126767,7 @@ squeaked
 squeaker
 squeakers
 squeakier
+squeakiest
 squeakily
 squeal
 squealed
@@ -128574,6 +128603,7 @@ strawberries
 strawberry
 strawflower
 strawhat
+strawiest
 strawing
 straws
 strawworm
@@ -131098,6 +131128,7 @@ supersale
 supersales
 supersalesman
 supersalesmen
+supersaturate
 supersaturated
 supersaturating
 supersaturation
@@ -132892,6 +132923,7 @@ tailpieces
 tailplane
 tailplanes
 tailrace
+tailraces
 tails
 tailskid
 tailskids
@@ -138221,6 +138253,7 @@ treetop
 treetops
 tref
 trefoil
+trefoils
 trehala
 trehalas
 trehalose
@@ -142965,6 +142998,7 @@ unpens
 unpeople
 unpeopled
 unpeoples
+unpeopling
 unperceived
 unperceptive
 unperfect
@@ -142985,6 +143019,7 @@ unpiled
 unpiles
 unpiling
 unpinned
+unpinning
 unpins
 unpitied
 unpitted
