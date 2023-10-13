@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/regulator/regulator.txt - Google Git,https://android.googlesource.com/kernel/tegra.git/%2B/2ce2576c4a8fb4942cc3c75d4f81a32138a98f0e/Documentation/devicetree/bindings/regulator/regulator.txt
+Documentation/devicetree/bindings/regulator/stub-regulator.txt,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.0.2_r0.1/Documentation/devicetree/bindings/regulator/stub-regulator.txt
+mcp16502-regulator.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/regulator/mcp16502-regulator.txt
+regulator-max77620.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/regulator/regulator-max77620.txt
+"nvidia,tegra-regulators-coupling.txt - GitHub",https://github.com/torvalds/linux/blob/master/Documentation/devicetree/bindings/regulator/nvidia%252Ctegra-regulators-coupling.txt
+"qcom,rpmh-regulator.txt - OpenChannelSSD/linux - GitHub",https://github.com/OpenChannelSSD/linux/blob/master/Documentation/devicetree/bindings/regulator/qcom%252Crpmh-regulator.txt
+consumer.rst,http://sources.buildroot.org/linux/git/Documentation/power/regulator/consumer.txt
+Regulators - USGenWeb Archives,http://files.usgwarchives.net/nc/orange/military/revwar/regulatr.txt
+regulator.txt - Documentation/devicetree/bindings ... - Elixir Bootlin,https://elixir.bootlin.com/linux/v4.0/source/Documentation/devicetree/bindings/regulator/regulator.txt
+download,https://homes.cs.washington.edu/~suinlee/lirnet/reguls-lirnet.txt
