@@ -2715,6 +2715,7 @@ alexin
 alexines
 alexins
 alfa
+alfaki
 alfakis
 alfalfas
 alfaqui
@@ -3880,6 +3881,7 @@ amping
 ample
 ampleness
 ampler
+amplest
 amplexus
 amplidyne
 amplidynes
@@ -5807,6 +5809,7 @@ apologist
 apologists
 apologize
 apologized
+apologizer
 apologizers
 apologizes
 apologizing
@@ -9739,6 +9742,7 @@ barbarizing
 barbarous
 barbasco
 barbascoes
+barbate
 barbe
 barbecue
 barbecued
@@ -18398,6 +18402,7 @@ cantilevered
 cantilevering
 cantilevers
 cantillate
+cantillated
 cantillating
 cantillation
 cantillations
@@ -19198,6 +19203,7 @@ carrageenans
 carrageenin
 carrageenins
 carrageens
+carragheens
 carrefour
 carrell
 carrells
@@ -19866,6 +19872,7 @@ causally
 causals
 causation
 causations
+causatively
 causatives
 cause
 caused
@@ -20825,6 +20832,7 @@ chaparrals
 chapati
 chapatis
 chapatti
+chapattis
 chapbook
 chapbooks
 chape
@@ -23606,6 +23614,7 @@ cloudscapes
 cloudy
 clough
 cloughs
+clour
 cloured
 clouring
 clours
@@ -25542,6 +25551,7 @@ compassions
 compatibilities
 compatibility
 compatible
+compatibleness
 compatibles
 compatibly
 compatriot
@@ -27440,6 +27450,7 @@ convulsants
 convulse
 convulsed
 convulses
+convulsing
 convulsion
 convulsionary
 convulsions
@@ -36920,6 +36931,7 @@ disenables
 disenabling
 disenchant
 disenchanted
+disenchanter
 disenchanters
 disenchanting
 disenchantingly
@@ -39480,6 +39492,7 @@ drossy
 drought
 droughtier
 droughtiness
+droughts
 droughty
 drouk
 drouked
@@ -46158,6 +46171,7 @@ extreme
 extremely
 extremeness
 extremenesses
+extremer
 extremes
 extremest
 extremism
@@ -50420,6 +50434,7 @@ forefending
 forefends
 forefinger
 forefingers
+forefoot
 forefront
 foregather
 foregathered
@@ -66743,6 +66758,7 @@ interdental
 interdentally
 interdepend
 interdependence
+interdependency
 interdepending
 interdepends
 interdict
@@ -70272,6 +70288,7 @@ kerbing
 kerbs
 kerchief
 kerchiefed
+kerchiefs
 kerchieves
 kerchoo
 kerf
@@ -71751,6 +71768,7 @@ lame
 lamebrain
 lamebrained
 lamebrains
+lamed
 lamedhs
 lameds
 lamella
@@ -86601,12 +86619,14 @@ nonearning
 noneconomic
 noneconomist
 noneconomists
+nonedible
 nonedibles
 noneditorial
 noneducation
 noneducational
 noneffective
 nonego
+nonelastic
 nonelect
 nonelected
 nonelection
@@ -88167,6 +88187,7 @@ obelizes
 obelus
 obento
 obentos
+obes
 obese
 obesely
 obeseness
@@ -88627,6 +88648,7 @@ octets
 octette
 octillions
 octodecillion
+octodecillions
 octogenarian
 octogenarians
 octonaries
@@ -91761,6 +91783,7 @@ overbuild
 overbuilding
 overbuilds
 overbuilt
+overburden
 overburdened
 overburdening
 overburdens
@@ -92897,6 +92920,7 @@ overtreating
 overtreatment
 overtreatments
 overtreats
+overtrick
 overtricks
 overtrimmed
 overtrimming
@@ -100629,6 +100653,7 @@ pontine
 ponton
 pontons
 pontoon
+pontoons
 pony
 ponying
 ponytail
@@ -101184,6 +101209,7 @@ postponed
 postponement
 postponements
 postponer
+postponers
 postpones
 postponing
 postpose
@@ -102067,6 +102093,7 @@ predictable
 predictably
 predicted
 predicting
+predictions
 predictive
 predictively
 predictor
@@ -111006,6 +111033,7 @@ remanufactured
 remanufacturer
 remanufacturers
 remanufactures
+remanufacturing
 remap
 remapping
 remaps
@@ -112287,6 +112315,7 @@ resewn
 resews
 resh
 reshape
+reshaped
 reshapers
 reshapes
 reshaping
@@ -118557,6 +118586,7 @@ secessionists
 seclude
 secluded
 secludedly
+secludednesses
 secludes
 secluding
 seclusion
@@ -121767,6 +121797,7 @@ siltstone
 siltstones
 silty
 silurid
+silurids
 siluroids
 silva
 silvae
@@ -127738,6 +127769,7 @@ stiles
 stiletto
 stilettoed
 stilettoes
+stilettoing
 stilettos
 still
 stillbirth
@@ -132689,6 +132721,7 @@ taillamps
 taille
 tailles
 tailless
+tailleur
 tailleurs
 taillights
 taillike
@@ -135849,6 +135882,7 @@ tillites
 tills
 tils
 tilted
+tilter
 tilters
 tilth
 tilths
@@ -136726,6 +136760,7 @@ topocentric
 topograph
 topographer
 topographers
+topographic
 topographical
 topographically
 topographies
