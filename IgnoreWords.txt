@@ -776,6 +776,7 @@ acoustics
 acquaint
 acquaintance
 acquaintances
+acquainted
 acquainting
 acquaints
 acquest
@@ -4362,6 +4363,7 @@ aneuploidy
 aneurin
 aneurins
 aneurism
+aneurisms
 aneurysm
 aneurysmal
 aneurysms
@@ -4446,6 +4448,7 @@ anglos
 angoras
 angosturas
 angriest
+angrily
 angriness
 angrinesses
 angry
@@ -11791,6 +11794,7 @@ beswarms
 bet
 beta
 betaine
+betaines
 betake
 betaken
 betakes
@@ -19135,6 +19139,7 @@ carousels
 carouser
 carousers
 carouses
+carousing
 carp
 carpaccio
 carpal
@@ -26530,6 +26535,7 @@ coniferous
 conifers
 coniine
 coniines
+conin
 conine
 coning
 conioses
@@ -27167,6 +27173,7 @@ contractional
 contractionary
 contractive
 contractor
+contractors
 contracts
 contractual
 contracture
@@ -29547,6 +29554,7 @@ cremation
 cremations
 cremator
 crematoria
+crematories
 crematorium
 crematoriums
 cremators
@@ -33311,6 +33319,7 @@ degradedly
 degrader
 degraders
 degrades
+degrading
 degradingly
 degranulation
 degranulations
@@ -33462,6 +33471,7 @@ delators
 delay
 delayed
 delayer
+delayers
 delaying
 dele
 delead
@@ -41833,6 +41843,7 @@ emitted
 emitter
 emitters
 emitting
+emmenagogue
 emmenagogues
 emmers
 emmet
@@ -46955,6 +46966,7 @@ farthings
 farting
 fartlek
 fartleks
+farts
 fas
 fasces
 fascia
@@ -49512,6 +49524,7 @@ florescent
 floret
 floriated
 floriations
+floribunda
 floricane
 floricanes
 floricultural
@@ -59769,6 +59782,7 @@ hessians
 hessonite
 hessonites
 hest
+hests
 het
 hetaerae
 hetaeras
@@ -61297,6 +61311,7 @@ horrors
 horse
 horseback
 horsebacks
+horsebean
 horsebeans
 horsecars
 horsefeathers
@@ -69465,6 +69480,7 @@ jows
 joyances
 joyed
 joyful
+joyfuller
 joyfullest
 joyfully
 joyfulness
@@ -73379,6 +73395,7 @@ liane
 lianes
 liang
 liangs
+lianoid
 liar
 liard
 liards
@@ -83657,6 +83674,7 @@ mumped
 mumper
 mumpers
 mumping
+mumps
 mums
 mumu
 mumus
@@ -87768,6 +87786,7 @@ nuchal
 nuchals
 nucleal
 nuclear
+nuclease
 nucleases
 nucleate
 nucleates
@@ -92401,6 +92420,7 @@ overnourished
 overnourishing
 overnutrition
 overnutritions
+overobvious
 overoperate
 overoperated
 overoperating
@@ -93133,6 +93153,7 @@ oxycodone
 oxycodones
 oxygen
 oxygenase
+oxygenases
 oxygenate
 oxygenated
 oxygenates
@@ -96594,6 +96615,7 @@ perorates
 perorating
 peroration
 perorational
+perorations
 perorator
 perorators
 perovskite
@@ -97771,6 +97793,7 @@ phreakings
 phreaks
 phreatic
 phreatophyte
+phreatophytes
 phreatophytic
 phrenetic
 phrenic
@@ -98763,6 +98786,7 @@ pisiforms
 pismire
 pismires
 piso
+pisolite
 pisolites
 pisolith
 pisoliths
@@ -110877,6 +110901,7 @@ relinquishing
 relinquishment
 relinquishments
 reliquaries
+reliquary
 relique
 reliquefied
 reliquefies
@@ -119802,6 +119827,7 @@ sestertium
 sestet
 sestets
 sestina
+sestinas
 sestine
 set
 seta
@@ -121736,6 +121762,7 @@ siltations
 silted
 siltier
 siltiest
+silts
 siltstone
 siltstones
 silty
@@ -121936,6 +121963,7 @@ singsong
 singsongs
 singsongy
 singspiel
+singspiels
 singularities
 singularity
 singularize
@@ -129906,6 +129934,7 @@ subwayed
 subways
 subwoofer
 subwoofers
+subworlds
 subwriter
 subwriters
 subzero
@@ -130432,6 +130461,7 @@ sundials
 sundog
 sundogs
 sundown
+sundowned
 sundowners
 sundowning
 sundowns
@@ -131921,6 +131951,7 @@ syllabary
 syllabi
 syllabic
 syllabically
+syllabicate
 syllabicated
 syllabicates
 syllabication
@@ -142821,6 +142852,7 @@ unprofitably
 unprogrammable
 unprogrammed
 unprogressive
+unpromisingly
 unprompted
 unpronounceable
 unpronounced
@@ -143886,6 +143918,7 @@ uplighted
 uplighting
 uplights
 uplink
+uplinked
 uplinking
 uplinks
 uplit
@@ -146245,6 +146278,7 @@ viscometric
 viscometries
 viscometry
 viscose
+viscoses
 viscosimeter
 viscosimeters
 viscosimetric
@@ -149620,6 +149654,7 @@ wons
 wont
 wonted
 wontedly
+wontedness
 wonting
 wontons
 woo
