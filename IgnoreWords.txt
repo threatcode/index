@@ -1290,6 +1290,7 @@ admirability
 admirable
 admirableness
 admirablenesses
+admirably
 admiral
 admirals
 admiralties
@@ -3165,6 +3166,7 @@ allusiveness
 allusivenesses
 alluvia
 alluvial
+alluvials
 alluvion
 alluvium
 alluviums
@@ -9529,6 +9531,7 @@ bamboo
 bamboos
 bamboozle
 bamboozled
+bamboozlement
 bamboozlements
 bamboozles
 bamboozling
@@ -14921,6 +14924,7 @@ bourguignon
 bourguignonne
 bourn
 bournes
+bourns
 bourree
 bourrees
 bourride
@@ -19293,6 +19297,7 @@ cartage
 cartages
 carte
 carted
+cartel
 cartelise
 cartelised
 cartelises
@@ -25017,6 +25022,7 @@ colonnades
 colons
 colonus
 colony
+colophon
 colophonies
 colophons
 colophony
@@ -30438,6 +30444,7 @@ crystallized
 crystallizer
 crystallizers
 crystallizes
+crystallizing
 crystallography
 crystalloid
 crystalloidal
@@ -33288,6 +33295,7 @@ defrags
 defraud
 defrauded
 defrauder
+defrauding
 defrauds
 defray
 defrayable
@@ -34978,6 +34986,7 @@ detention
 detentions
 detentists
 detents
+deter
 deterge
 deterged
 detergencies
@@ -37037,6 +37046,7 @@ disequilibrate
 disequilibrated
 disequilibrates
 disequilibria
+disequilibrium
 disequilibriums
 disestablish
 disestablished
@@ -37855,6 +37865,7 @@ distraint
 distraints
 distrait
 distraught
+distraughtly
 distress
 distressed
 distresses
@@ -41993,6 +42004,7 @@ emphases
 emphasis
 emphasise
 emphasises
+emphasising
 emphasize
 emphasizes
 emphasizing
@@ -42161,6 +42173,7 @@ encaenia
 encage
 encaged
 encages
+encaging
 encamped
 encamping
 encampment
@@ -45571,6 +45584,7 @@ exocytosis
 exocytotic
 exodermis
 exodermises
+exoderms
 exodoi
 exodontia
 exodontias
@@ -48274,6 +48288,7 @@ filament
 filamentary
 filamentous
 filaments
+filar
 filaree
 filarees
 filaria
@@ -59263,6 +59278,7 @@ heirs
 heirship
 heirships
 heishi
+heist
 heisted
 heister
 heisting
@@ -69999,6 +70015,7 @@ kail
 kails
 kailyard
 kain
+kainit
 kainite
 kainites
 kainits
@@ -72441,6 +72458,7 @@ latifundio
 latifundios
 latifundium
 latigo
+latilla
 latillas
 latina
 latinas
@@ -80693,6 +80711,7 @@ misalliances
 misallies
 misallocate
 misallocated
+misallocates
 misallocating
 misallocation
 misallocations
@@ -89611,6 +89630,7 @@ operculum
 operetta
 operettas
 operettist
+operon
 operons
 operose
 operosely
@@ -90974,6 +90994,7 @@ outglaring
 outgleam
 outgleamed
 outgleaming
+outgleams
 outglitter
 outglitters
 outglowing
@@ -95097,6 +95118,7 @@ passus
 passuses
 password
 passwords
+past
 pasta
 pastalike
 pastas
@@ -96904,6 +96926,7 @@ persiflage
 persiflages
 persimmon
 persimmons
+persist
 persistence
 persistences
 persistencies
@@ -100312,6 +100335,7 @@ polemically
 polemicist
 polemicize
 polemicized
+polemicizes
 polemicizing
 polemics
 polemist
@@ -103191,6 +103215,7 @@ prests
 presumable
 presumably
 presume
+presumed
 presumedly
 presumers
 presumes
@@ -114517,6 +114542,7 @@ risibilities
 risibility
 risible
 risibles
+risibly
 rising
 risings
 risk
@@ -116604,6 +116630,7 @@ sanddab
 sanddabs
 sander
 sanderling
+sanderlings
 sanders
 sandfish
 sandflies
@@ -123661,6 +123688,7 @@ smokinesses
 smoking
 smolder
 smoldered
+smoldering
 smolt
 smooch
 smoocher
@@ -125121,6 +125149,7 @@ soundstage
 soundstages
 soup
 soupcon
+soupcons
 souped
 soupier
 soupiest
@@ -128483,6 +128512,7 @@ stragglers
 stragglier
 straggliest
 straggling
+straggly
 straight
 straightaway
 straightaways
@@ -130173,6 +130203,7 @@ subviral
 subvirus
 subviruses
 subvisible
+subvisual
 subvocal
 subvocalization
 subvocalize
@@ -130699,6 +130730,7 @@ sundae
 sundaes
 sundeck
 sundecks
+sunder
 sundered
 sunderer
 sunderers
@@ -135073,6 +135105,7 @@ theistically
 theists
 thelitis
 thelitises
+thematic
 thematically
 thematics
 theme
@@ -142911,6 +142944,7 @@ unmitring
 unmix
 unmixable
 unmixed
+unmixedly
 unmixes
 unmixing
 unmixt
@@ -145647,6 +145681,7 @@ vents
 venture
 ventured
 venturer
+venturers
 venturesomely
 venturesomeness
 venturing
