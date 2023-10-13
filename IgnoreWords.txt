@@ -3736,6 +3736,7 @@ ammonoid
 ammonoids
 ammos
 ammunition
+ammunitions
 amnesia
 amnesiac
 amnesiacs
@@ -5086,6 +5087,7 @@ antifashionable
 antifashions
 antifat
 antifatigue
+antifemale
 antifeminine
 antifeminism
 antifeminisms
@@ -8139,6 +8141,7 @@ autarkical
 autarkies
 autarkist
 autarkists
+autarky
 autecious
 autecism
 autecological
@@ -8285,6 +8288,7 @@ automakers
 automan
 automat
 automatable
+automated
 automates
 automatic
 automatically
@@ -11633,6 +11637,7 @@ besetments
 besets
 besetter
 beshadow
+beshadowed
 beshadowing
 beshame
 beshamed
@@ -13937,6 +13942,7 @@ bocaccios
 bocce
 bocces
 boccia
+boccias
 boccie
 boccies
 boccis
@@ -15909,6 +15915,7 @@ brominating
 bromination
 brominations
 bromine
+bromines
 brominism
 brominisms
 bromins
@@ -18490,6 +18497,7 @@ capillarities
 capillarity
 capita
 capital
+capitalise
 capitalised
 capitalises
 capitalising
@@ -23046,6 +23054,7 @@ classified
 classifier
 classify
 classifying
+classily
 classinesses
 classing
 classis
@@ -25953,6 +25962,7 @@ concessive
 conch
 concha
 conchae
+conchal
 conchas
 conchie
 conchies
@@ -35930,6 +35940,7 @@ digressing
 digression
 digressional
 digressively
+digressiveness
 digs
 dihedral
 dihedrals
@@ -36398,6 +36409,7 @@ dis
 disabilities
 disability
 disabled
+disablements
 disablers
 disables
 disabling
@@ -40681,6 +40693,7 @@ ediles
 edit
 editable
 edited
+editing
 edition
 editions
 editor
@@ -53556,6 +53569,7 @@ genocidal
 genocide
 genocides
 genogram
+genograms
 genoise
 genom
 genome
@@ -53719,6 +53733,7 @@ geomorphologist
 geophagia
 geophagias
 geophagies
+geophagy
 geophone
 geophones
 geophysical
@@ -56047,6 +56062,7 @@ greave
 greaves
 grebe
 grebes
+grecianize
 grecianized
 grecianizes
 grecianizing
@@ -58056,6 +58072,7 @@ hapkido
 hapkidos
 hapless
 haplessly
+haplessness
 haplessnesses
 haplite
 haplites
@@ -65447,6 +65464,7 @@ inflectionally
 inflections
 inflective
 inflector
+inflectors
 inflects
 inflexibilities
 inflexibility
@@ -77142,6 +77160,7 @@ mariposa
 mariposas
 marish
 marishes
+marital
 maritally
 maritime
 marjoram
@@ -84660,6 +84679,7 @@ naturopathies
 naturopathy
 naugahyde
 naugahydes
+naught
 naughtier
 naughties
 naughtiest
@@ -84852,6 +84872,7 @@ necrophilism
 necrophilisms
 necropoleis
 necropoles
+necropoli
 necropolis
 necropolises
 necropsies
@@ -85265,6 +85286,7 @@ nettliest
 nettling
 nettly
 netty
+network
 networked
 networker
 networkers
@@ -87519,6 +87541,7 @@ notebook
 notebooks
 notecards
 notecase
+notecases
 noted
 notedly
 notedness
@@ -88338,6 +88361,7 @@ obtundent
 obtundents
 obtunding
 obtundities
+obtundity
 obtunds
 obturate
 obturated
@@ -90003,6 +90027,7 @@ osculates
 osculating
 osculation
 osculations
+osculatory
 oscule
 oscules
 osculum
@@ -99219,6 +99244,7 @@ playacted
 playacting
 playactings
 playactor
+playactors
 playacts
 playas
 playback
@@ -100223,6 +100249,7 @@ polygenes
 polygeneses
 polygenesis
 polygenetic
+polygenic
 polyglot
 polyglotism
 polyglotisms
@@ -115249,6 +115276,7 @@ ruin
 ruinable
 ruinate
 ruinated
+ruinates
 ruinating
 ruinations
 ruined
@@ -115300,6 +115328,7 @@ ruminating
 rumination
 ruminations
 ruminative
+ruminatively
 ruminators
 rummage
 rummaged
@@ -121359,6 +121388,7 @@ sidle
 sidled
 sidler
 sidlers
+sidles
 sidlingly
 siege
 sieged
@@ -127287,6 +127317,7 @@ stencillers
 stencilling
 stencils
 stengah
+steno
 stenobath
 stenobaths
 stenographer
@@ -128388,6 +128419,7 @@ stridden
 stride
 stridence
 stridences
+stridency
 strident
 stridently
 strider
@@ -128885,6 +128917,7 @@ subaltern
 subalterns
 subantarctic
 subapical
+subaquatic
 subaqueous
 subarachnoid
 subarachnoidal
@@ -131621,6 +131654,7 @@ swingles
 swingletree
 swingletrees
 swingling
+swingman
 swings
 swingy
 swinish
@@ -138963,6 +138997,7 @@ tryptamine
 tryptamines
 tryptic
 tryptophan
+tryptophane
 tryptophanes
 trysail
 trysails
