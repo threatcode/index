@@ -985,6 +985,7 @@ actualize
 actualizes
 actually
 actuarial
+actuarially
 actuaries
 actuary
 actuate
@@ -7702,6 +7703,7 @@ atingle
 atlantes
 atlas
 atlatl
+atlatls
 atman
 atmans
 atmas
@@ -9070,6 +9072,7 @@ backspace
 backspaced
 backspacing
 backspin
+backspins
 backsplashes
 backstabbed
 backstabber
@@ -13215,6 +13218,7 @@ blasphemers
 blasphemes
 blasphemies
 blaspheming
+blasphemous
 blasphemously
 blasphemy
 blast
@@ -19059,6 +19063,7 @@ carl
 carle
 carles
 carless
+carlin
 carline
 carlines
 carling
@@ -20802,6 +20807,7 @@ channel
 channeled
 channeler
 channelers
+channeling
 channelize
 channelized
 channelizes
@@ -21749,6 +21755,7 @@ chirms
 chiro
 chirographers
 chirographic
+chirographies
 chiromancer
 chiromancers
 chiromancies
@@ -22009,6 +22016,7 @@ cholinesterases
 cholla
 chollas
 cholo
+cholos
 chomp
 chomped
 chomper
@@ -24614,6 +24622,7 @@ cointers
 cointreau
 cointreaus
 coinvent
+coinvented
 coinventor
 coinventors
 coinvents
@@ -30364,6 +30373,7 @@ cryptological
 cryptologies
 cryptologist
 cryptomeria
+cryptomerias
 cryptonym
 cryptonyms
 cryptorchid
@@ -43412,6 +43422,7 @@ epicedium
 epicene
 epicenes
 epicenism
+epicenter
 epicenters
 epicentra
 epicentral
@@ -46102,6 +46113,7 @@ extortionists
 extortions
 extortive
 extorts
+extra
 extrabold
 extrabolds
 extracellular
@@ -46770,6 +46782,7 @@ famousness
 famousnesses
 famulus
 fan
+fanatic
 fanatical
 fanaticalness
 fanaticalnesses
@@ -50493,6 +50506,7 @@ forejudges
 forejudging
 foreknew
 foreknow
+foreknowing
 foreknowledge
 foreknowledges
 foreknown
@@ -56307,6 +56321,7 @@ greyness
 greynesses
 greys
 gribble
+gribbles
 gridded
 gridder
 gridders
@@ -57958,6 +57973,7 @@ handbasket
 handbaskets
 handbill
 handbills
+handbooks
 handbreadth
 handbreadths
 handcar
@@ -66472,6 +66488,7 @@ instrument
 instrumental
 instrumentalism
 instrumentality
+instrumentally
 instrumentation
 instrumented
 instrumenting
@@ -67457,6 +67474,7 @@ intractable
 intractably
 intracutaneous
 intraday
+intradermal
 intradermally
 intrados
 intradoses
@@ -73868,6 +73886,7 @@ limbus
 limbuses
 limby
 lime
+limeade
 limeades
 limekiln
 limekilns
@@ -82880,6 +82899,7 @@ mortises
 mortising
 mortmain
 mortmains
+morts
 mortuaries
 mortuary
 morulae
@@ -87443,6 +87463,7 @@ nonvenous
 nonverbal
 nonverbally
 nonvested
+nonveteran
 nonveterans
 nonviable
 nonviewer
@@ -90304,6 +90325,7 @@ ostia
 ostiaries
 ostiary
 ostinati
+ostinato
 ostinatos
 ostiolar
 ostiole
@@ -90781,6 +90803,7 @@ outfields
 outfight
 outfights
 outfigured
+outfigures
 outfiguring
 outfind
 outfinding
@@ -93625,6 +93648,7 @@ palatalizing
 palatally
 palate
 palates
+palatial
 palatially
 palatialness
 palatialnesses
@@ -105130,6 +105154,7 @@ pterygial
 pterygium
 pterygoid
 pterygoids
+pteryla
 pterylae
 ptisan
 ptisans
@@ -114244,6 +114269,7 @@ rimosities
 rimous
 rimpled
 rimples
+rimpling
 rimrock
 rimrocks
 rimshot
@@ -114326,6 +114352,7 @@ ripener
 ripeners
 ripeness
 ripenesses
+ripening
 ripens
 riper
 ripes
@@ -114799,6 +114826,7 @@ roofies
 roofing
 roofings
 roofless
+roofline
 rooflines
 roofs
 rooftop
@@ -116232,6 +116260,7 @@ salpian
 salpians
 salpids
 salpiform
+salpiglossis
 salpinges
 salpingitis
 salpingitises
@@ -122394,6 +122423,7 @@ skewer
 skewers
 skewing
 skewness
+skewnesses
 skews
 ski
 skiagraph
@@ -123862,6 +123892,7 @@ snookering
 snookers
 snooking
 snool
+snooling
 snools
 snooper
 snoopier
@@ -124291,6 +124322,7 @@ soigne
 soignee
 soil
 soilage
+soilages
 soilborne
 soiled
 soiling
@@ -125072,6 +125104,7 @@ sovranly
 sovrans
 sovranties
 sovranty
+sow
 sowable
 sowans
 sowar
@@ -136947,6 +136980,7 @@ torpedoing
 torpedos
 torpid
 torpidities
+torpidity
 torpidly
 torpids
 torpor
@@ -138786,6 +138820,7 @@ triumph
 triumphal
 triumphalism
 triumphalisms
+triumphalist
 triumphalists
 triumphant
 triumphantly
