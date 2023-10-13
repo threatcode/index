@@ -8624,6 +8624,7 @@ awakenings
 awakens
 awakes
 awaking
+award
 awardable
 awarded
 awardee
@@ -12144,6 +12145,7 @@ bicuspid
 bicuspids
 bicycle
 bicycled
+bicycler
 bicyclers
 bicycles
 bicyclic
@@ -16095,6 +16097,7 @@ brow
 browallia
 browallias
 browband
+browbands
 browbeat
 browbeating
 browbeats
@@ -32003,6 +32006,7 @@ dashed
 dasheen
 dasheens
 dasher
+dashes
 dashi
 dashier
 dashiest
@@ -32044,6 +32048,7 @@ datelines
 dater
 dates
 dating
+dative
 datively
 dato
 datos
@@ -32387,6 +32392,7 @@ debeards
 debilitated
 debilitates
 debilitation
+debilitations
 debilities
 debility
 debit
@@ -34725,6 +34731,7 @@ desideration
 desiderations
 desiderative
 desideratum
+design
 designate
 designated
 designates
@@ -39605,6 +39612,7 @@ drubber
 drubbers
 drubbing
 drubbings
+drubs
 drudger
 drudgeries
 drudgery
@@ -41763,6 +41771,7 @@ embowelled
 embowelling
 embowels
 embower
+embowered
 embowering
 embowing
 embows
@@ -42818,6 +42827,7 @@ enlistee
 enlistees
 enlister
 enlisters
+enlisting
 enlistments
 enlists
 enliven
@@ -44651,6 +44661,7 @@ eudaemonism
 eudaemonisms
 eudaemonist
 eudaemonistic
+eudaemonists
 eudaimon
 eudaimonism
 eudaimons
@@ -45758,6 +45769,7 @@ expediting
 expedition
 expeditionary
 expeditions
+expeditious
 expeditiously
 expeditiousness
 expeditor
@@ -48364,6 +48376,7 @@ filling
 fillings
 filliped
 filliping
+fillips
 fillister
 fillisters
 fillo
@@ -55942,6 +55955,7 @@ granger
 grangerism
 grangerisms
 grangers
+granges
 granita
 granitas
 granitelike
@@ -56191,6 +56205,7 @@ grayed
 grayest
 grayfishes
 grayhound
+graying
 graylag
 graylings
 grayly
@@ -62221,6 +62236,7 @@ hyaloplasm
 hyaloplasms
 hyaluronidases
 hybrid
+hybridism
 hybridisms
 hybridist
 hybridists
@@ -67960,6 +67976,7 @@ invocational
 invocations
 invoice
 invoiced
+invoices
 invoicing
 invoke
 invoked
@@ -75619,6 +75636,7 @@ lumberjacks
 lumberly
 lumberman
 lumbermen
+lumbers
 lumberyard
 lumberyards
 lumbosacral
@@ -78418,6 +78436,7 @@ medusoid
 medusoids
 meed
 meeds
+meek
 meeker
 meekest
 meekly
@@ -83797,6 +83816,7 @@ multistoried
 multistory
 multistranded
 multisyllabic
+multisystem
 multitalented
 multitask
 multitasking
@@ -85118,6 +85138,7 @@ necklike
 necklines
 neckpiece
 neckpieces
+necks
 necktie
 neckties
 necrological
@@ -92535,6 +92556,7 @@ overlengthened
 overlengthening
 overlengthens
 overlengths
+overlent
 overlet
 overlets
 overletting
@@ -98577,6 +98599,7 @@ pilis
 pill
 pillage
 pillaged
+pillager
 pillagers
 pillages
 pillaging
@@ -115544,6 +115567,7 @@ ruddiest
 ruddily
 ruddiness
 ruddinesses
+ruddle
 ruddled
 ruddleman
 ruddlemen
@@ -116456,6 +116480,7 @@ saltwort
 salty
 salubrious
 salubriousness
+salubrities
 salubrity
 saluki
 salukis
@@ -117324,6 +117349,7 @@ scabiouses
 scabland
 scablands
 scablike
+scabrous
 scabrously
 scabrousness
 scabrousnesses
@@ -119199,6 +119225,7 @@ selachian
 selachians
 seladang
 selaginellas
+selah
 selahs
 selamliks
 selcouth
@@ -121529,6 +121556,7 @@ shuffler
 shufflers
 shuffles
 shul
+shuln
 shuls
 shun
 shunnable
@@ -124630,6 +124658,7 @@ solidifications
 solidified
 solidifies
 solidify
+solidities
 solidity
 solidly
 solidnesses
@@ -125172,6 +125201,7 @@ sourdoughs
 soured
 sourer
 sourest
+souring
 sourly
 sourness
 sournesses
@@ -135111,6 +135141,7 @@ thematics
 theme
 themed
 themes
+theming
 themselves
 thenage
 thenages
@@ -136646,6 +136677,7 @@ toil
 toile
 toiled
 toiler
+toiles
 toilet
 toileted
 toileting
@@ -142825,6 +142857,7 @@ unlivable
 unlive
 unlived
 unlively
+unlives
 unload
 unloaded
 unloader
@@ -143154,6 +143187,7 @@ unprivileged
 unprized
 unprobed
 unproblematic
+unprocessed
 unproduced
 unprofessed
 unprofessionals
@@ -146315,6 +146349,7 @@ vilifiers
 vilifies
 vilipend
 vilipended
+vilipending
 vill
 villa
 villadom
