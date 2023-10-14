@@ -1894,6 +1894,7 @@ aficionadas
 aficionado
 aficionados
 afield
+afire
 aflame
 aflatoxin
 aflatoxins
@@ -12163,6 +12164,7 @@ biconcavities
 biconditional
 biconditionals
 biconvex
+biconvexities
 bicorn
 bicorne
 bicornes
@@ -29475,6 +29477,7 @@ crashers
 crashes
 crashing
 crashworthiness
+crashworthy
 crasis
 crass
 crassest
@@ -29871,6 +29874,7 @@ criminis
 criminological
 criminologies
 criminologists
+criminous
 criminy
 crimmer
 crimp
@@ -36443,6 +36447,7 @@ diphthongizing
 diphthongs
 diphyletic
 diphyodont
+diplegia
 diplegic
 diplex
 diplexer
@@ -37519,6 +37524,7 @@ dispersively
 dispersiveness
 dispersoid
 dispersoids
+dispirit
 dispirited
 dispiritedly
 dispiriting
@@ -40428,6 +40434,7 @@ eaglewoods
 eagling
 eagre
 eagres
+ealdormen
 eanling
 eanlings
 ear
@@ -42097,6 +42104,7 @@ empery
 emphases
 emphasis
 emphasise
+emphasised
 emphasises
 emphasising
 emphasize
@@ -44495,6 +44503,7 @@ estranger
 estrangers
 estranges
 estrayed
+estrays
 estreat
 estreated
 estreating
@@ -55853,12 +55862,14 @@ goxes
 goy
 goyim
 goyish
+goys
 graal
 graals
 grabbable
 grabbed
 grabber
 grabbier
+grabbiest
 grabbing
 grabble
 grabbled
@@ -56738,6 +56749,7 @@ groggily
 grogginess
 grogginesses
 groggy
+grogram
 grograms
 grogs
 grogshop
@@ -68069,6 +68081,7 @@ invigilations
 invigilator
 invigilators
 invigorate
+invigorated
 invigorates
 invigoration
 invigorations
@@ -72000,6 +72013,7 @@ laity
 lake
 laked
 lakefront
+lakefronts
 lakelike
 lakeports
 laker
@@ -75237,6 +75251,7 @@ longers
 longes
 longevous
 longhair
+longhaired
 longhairs
 longhand
 longhead
@@ -77050,6 +77065,7 @@ managed
 management
 managemental
 managements
+manager
 manageress
 manageresses
 managerial
@@ -77512,6 +77528,7 @@ margays
 margented
 margenting
 margents
+marges
 margin
 marginal
 marginalia
@@ -77685,6 +77702,7 @@ marrieds
 marrier
 marriers
 marries
+marring
 marron
 marrons
 marrow
@@ -77776,6 +77794,7 @@ marvelously
 marvelousness
 marvelousnesses
 marvels
+maryjane
 maryjanes
 marzipans
 mas
@@ -78923,6 +78942,7 @@ memorises
 memorising
 memoriter
 memorizable
+memorization
 memorizations
 memorize
 memorized
@@ -83757,6 +83777,7 @@ mulcting
 mulcts
 mule
 muled
+mules
 muletas
 muleteer
 muleteers
@@ -88948,6 +88969,7 @@ occupy
 occupying
 occur
 occurred
+occurrence
 occurrent
 occurrents
 occurring
@@ -93154,6 +93176,7 @@ overspeculated
 overspeculates
 overspeculating
 overspeculation
+overspend
 overspender
 overspenders
 overspending
@@ -96536,6 +96559,7 @@ peonism
 peonisms
 peons
 people
+peopled
 peoplehood
 peopleless
 peopler
@@ -99419,6 +99443,7 @@ placeboes
 placebos
 placeholder
 placeholders
+placekicked
 placekicker
 placekickers
 placekicking
@@ -99732,6 +99757,7 @@ platinizing
 platinocyanide
 platinocyanides
 platinoid
+platinoids
 platinous
 platinum
 platitude
@@ -108360,6 +108386,7 @@ reachable
 reacher
 reachers
 reaches
+reaching
 reacquaint
 reacquainted
 reacquainting
@@ -112028,6 +112055,7 @@ repasted
 repasting
 repasts
 repatch
+repatched
 repatches
 repatching
 repatriate
@@ -114516,6 +114544,7 @@ ridleys
 ridotto
 ridottos
 rids
+riel
 riels
 riesling
 rieslings
@@ -119205,6 +119234,7 @@ securement
 securements
 secureness
 securenesses
+securer
 securers
 secures
 securest
@@ -120097,6 +120127,7 @@ sequelizes
 sequelizing
 sequels
 sequencer
+sequences
 sequencies
 sequencing
 sequency
@@ -124307,6 +124338,7 @@ snobbish
 snobbishness
 snobbishnesses
 snobbism
+snobbisms
 snobby
 snobs
 snog
@@ -131752,6 +131784,7 @@ suprematist
 suprematists
 supreme
 supremely
+supremeness
 supremenesses
 supremer
 supremes
@@ -147565,6 +147598,7 @@ vulturous
 vulva
 vulval
 vulvar
+vulvas
 vulvate
 vulvitises
 vulvovaginitis
@@ -152017,6 +152051,7 @@ zygomas
 zygomata
 zygomatic
 zygomatics
+zygomorphies
 zygomorphy
 zygose
 zygoses
