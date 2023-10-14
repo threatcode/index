@@ -12627,6 +12627,7 @@ biohazards
 bioherm
 biological
 biologically
+biologicals
 biologies
 biologism
 biologisms
@@ -15826,6 +15827,7 @@ briquette
 briquetted
 briquettes
 briquetting
+bris
 brisance
 brisances
 brises
@@ -20197,6 +20199,7 @@ cellmate
 cello
 cellobiose
 celloidin
+celloidins
 cellophane
 cellophanes
 cellos
@@ -23020,6 +23023,7 @@ clairvoyantly
 clairvoyants
 clam
 clamant
+clambake
 clambakes
 clamber
 clambered
@@ -24025,6 +24029,7 @@ coaxing
 coaxingly
 cob
 cobalamins
+cobalt
 cobaltic
 cobaltines
 cobaltite
@@ -24190,6 +24195,7 @@ cockroaches
 cocks
 cockscomb
 cockscombs
+cocksfoots
 cockshies
 cockshut
 cockshuts
@@ -37899,6 +37905,7 @@ distinctest
 distinction
 distinctions
 distinctively
+distinctly
 distinctnesses
 distingue
 distinguish
@@ -40796,6 +40803,7 @@ ectomeric
 ectomorph
 ectomorphic
 ectomorphs
+ectoparasite
 ectoparasites
 ectoparasitic
 ectopia
@@ -42248,6 +42256,7 @@ enantiomorphs
 enate
 enatic
 enation
+enations
 encaenia
 encage
 encaged
@@ -44044,6 +44053,7 @@ erewhiles
 erg
 ergastic
 ergastoplasm
+ergastoplasmic
 ergastoplasms
 ergate
 ergates
@@ -47136,6 +47146,7 @@ faros
 farouche
 farraginous
 farrago
+farragoes
 farrier
 farrieries
 farriers
@@ -47182,6 +47193,7 @@ fasciculus
 fasciitis
 fasciitises
 fascinate
+fascinated
 fascinating
 fascinatingly
 fascination
@@ -48244,6 +48256,7 @@ fictionizing
 fictions
 fictitious
 fictitiousness
+fictive
 fictively
 fictiveness
 fictivenesses
@@ -48354,6 +48367,7 @@ figulines
 figurable
 figurants
 figurate
+figuration
 figurative
 figuratively
 figure
@@ -66015,6 +66029,7 @@ inhabited
 inhabiter
 inhabiters
 inhabits
+inhalant
 inhalation
 inhalational
 inhalations
@@ -70835,6 +70850,7 @@ kielbasy
 kier
 kiers
 kieselguhr
+kieselgur
 kieselgurs
 kieserite
 kieserites
@@ -76635,6 +76651,7 @@ mailroom
 mailrooms
 mails
 maim
+maimed
 maimer
 maims
 main
@@ -84678,6 +84695,7 @@ myxomatosis
 myxomycete
 myxomycetes
 myxoviral
+myxovirus
 myxoviruses
 na
 naan
@@ -87752,6 +87770,7 @@ nonvisual
 nonvital
 nonvocal
 nonvocational
+nonvolatile
 nonvolcanic
 nonvoluntary
 nonvoter
@@ -87806,6 +87825,7 @@ nooser
 noosing
 noosphere
 noospheres
+nootropic
 nopal
 nopalito
 nopals
@@ -88497,6 +88517,7 @@ obconic
 obconical
 obcordate
 obduracies
+obduracy
 obdurate
 obdurately
 obdurateness
@@ -90427,6 +90448,7 @@ orthopedically
 orthopedics
 orthopedist
 orthophosphate
+orthoptera
 orthopteran
 orthopterist
 orthopterists
@@ -98334,6 +98356,7 @@ phytogeographer
 phytogeographic
 phytogeography
 phytohormone
+phytohormones
 phytoid
 phytol
 phytoliths
@@ -98533,6 +98556,7 @@ pictorialists
 pictorialize
 pictorialized
 pictorializes
+pictorializing
 pictorially
 pictorialness
 pictorialnesses
@@ -100635,6 +100659,7 @@ pollinoses
 pollist
 pollists
 polliwog
+polliwogs
 pollocks
 polls
 pollster
@@ -116200,6 +116225,7 @@ sacculation
 sacculations
 saccule
 saccules
+sacculus
 sacerdotal
 sacerdotalism
 sacerdotalisms
@@ -124199,6 +124225,7 @@ snigger
 sniggered
 sniggerer
 sniggerers
+sniggering
 sniggers
 sniggle
 sniggled
@@ -125141,6 +125168,7 @@ soothed
 soother
 soothers
 soothes
+soothest
 soothfast
 soothing
 soothingly
@@ -129766,6 +129794,7 @@ subechoes
 subeconomies
 subedit
 subedited
+subediting
 subeditor
 subeditorial
 subeditors
@@ -131222,6 +131251,7 @@ superfirms
 superfix
 superfixes
 superflack
+superflacks
 superfluid
 superfluidities
 superfluidity
@@ -131412,6 +131442,7 @@ superposable
 superpose
 superposed
 superposes
+superposition
 superpositions
 superpower
 superpowered
@@ -134252,6 +134283,7 @@ tefillin
 teflon
 teg
 tegg
+teggs
 tegmen
 tegmenta
 tegmentum
@@ -139142,6 +139174,7 @@ tripos
 triposes
 tripped
 tripper
+trippers
 trippet
 trippets
 trippier
@@ -148137,6 +148170,7 @@ wastage
 wastages
 waste
 wastebasket
+wastebaskets
 wastefulness
 wastefulnesses
 wasteland
@@ -149006,6 +149040,7 @@ whereabout
 whereabouts
 whereas
 whereases
+whereat
 wherefore
 wherefores
 wherefrom
