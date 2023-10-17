@@ -18,3 +18,12 @@ words.txt (big),https://ranger.uta.edu/~alex/courses/1310/data/words.txt
 dictionary-large-rand.txt,http://homepages.math.uic.edu/~leon/mcs360-f07/projects/3-4/dictionary-large-rand.txt
 titlewords.txt - Apache's svn,https://svn.apache.org/repos/asf/jena/Experimental/JenaPerf/trunk/Benchmarks/BSBM/titlewords.txt
 scowl_utf-8.txt - Cornell CS,https://www.cs.cornell.edu/courses/cs1110/2014sp/labs/lab06/scowl_utf-8.txt
+RFC 3754,https://www.rfc-editor.org/rfc/rfc3754.txt
+00179.txt - UFDC Image Array 2,https://ufdcimages.uflib.ufl.edu/AA/00/05/68/97/00001/00179.txt
+damnatory wiethe broguery goodies - CDC,https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt
+www.cs.cmu.edu/afs/cs.cmu.edu/project/fgdata/OldFi...,http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fgdata/OldFiles/DICT/UCLAshoup/ip1.txt
+merriam-webster.txt - Systems and Computer Engineering,http://www.sce.carleton.ca/faculty/coll/seminar/Labs/5-WebForms/solution/SpellCheck/merriam-webster.txt
+The dictionary,https://users.cs.fiu.edu/~weiss/cop3337_sum99/dict.txt
+dictionary.txt - Department of Computer Science,http://www.cs.ucf.edu/~dmarino/ucf/dictionary.txt
+36442-8.txt - Project Gutenberg,https://www.gutenberg.org/files/36442/36442-8.txt
+multi0page.txt - World Bank Documents,https://documents1.worldbank.org/curated/en/703431468758403764/text/multi0page.txt
