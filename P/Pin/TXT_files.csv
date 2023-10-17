@@ -1,0 +1,9 @@
+pinctrl-bindings.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/pinctrl/pinctrl-bindings.txt
+samsung-pinctrl.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/pinctrl/samsung-pinctrl.txt
+CUI32pinTest5.txt,https://www.sparkfun.com/datasheets/DevTools/PIC/CUI32pinTest5.txt
+[PDF] EPF10K50 Device Pin-Outs ver. 1.0 - Intel,https://www.intel.ca/content/dam/altera-www/global/en_US/pdfs/literature/dp/flex10k/archives/epf10k50.txt
+[PDF] EP1K30 Device Pin-Outs - Intel,https://www.intel.com.au/content/dam/altera-www/global/en_US/pdfs/literature/dp/acex/archives/ep1k30.txt
+Clarifications on [Diff Pin] Parameters - IBIS Open Forum,https://ibis.org/birds/bird94.2.txt
+[PDF] EPF10K30 Device Pin-Outs - Intel,https://www.altera.com.cn/content/dam/altera-www/global/en_US/pdfs/literature/dp/flex10k/archives/epf10k30.txt
+[PDF] Pin Information for HardCopy III HC335FF1517 - Intel,https://www.intel.la/content/dam/altera-www/global/en_US/pdfs/literature/dp/hardcopy-iii/hc335ff1517.txt
+Documentation/devicetree/bindings/pinctrl/pinctrl-bindings.txt,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/pinctrl/pinctrl-bindings.txt
