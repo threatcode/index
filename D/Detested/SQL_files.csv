@@ -8,3 +8,9 @@ remote assessment,http://139.59.45.243:9090/login/textpattern/cgi-bin/81.sql
 SFXAdmin - sfx_global,https://139.59.45.243/login/wwwroot/admin/typo3/main.php/mysqldump.sql
 F-Secure Policy Manager Server Welcome Page - Password,http://202.144.213.141/login/jax_guestbook.php/data.sql
 open-xchange,https://31.220.45.118/login_admin/pass.dat/db_backup.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
+shakespeare.sql - GitHub,https://raw.githubusercontent.com/catherinedevlin/opensourceshakespeare/master/shakespeare.sql
+https://raw.githubusercontent.com/mozz100/bardofav...,https://raw.githubusercontent.com/mozz100/bardofavon/master/db/normalised_data_1.sql
+dhtmlx-connector/samples/dump.sql at master - GitHub,https://github.com/xsanisty/dhtmlx-connector/blob/master/samples/dump.sql
+F-Secure Policy Manager Server Welcome Page - Password,http://202.144.213.141/login/jax_guestbook.php/data.sql
+open-xchange,https://31.220.45.118/login_admin/pass.dat/db_backup.sql
