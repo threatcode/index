@@ -7,3 +7,12 @@ sources/core/database/pg_structure_upgrade_2.3.1 ... - GitLab Inria,https://gitl
 https://wikimedi.ca/extensions/BounceHandler/media...,https://wikimedi.ca/extensions/BounceHandler/mediawiki-extensions-BounceHandler/sql/alter_user_column.sql
 Changeset 37 for trunk/models/base/base_structure_swiss.sql ...,https://trac.crealp.ch/datamodel/changeset/37/trunk/models/base/base_structure_swiss.sql
 PostRestoreSteps.sql - dwentzel - GitLab,https://git.davewentzel.com/dwentzel/sqlscripts/-/blob/580591f47a9cf96c16c75e2cfb40215a4ce22846/PostRestoreSteps.sql
+get_column_values.sql - dbt-labs/dbt-utils - GitHub,https://github.com/dbt-labs/dbt-utils/blob/main/macros/sql/get_column_values.sql
+MySQL-cheatsheet/ddl-commands.sql at master - GitHub,https://github.com/Cheatsheet-lang/MySQL-cheatsheet/blob/master/ddl-commands.sql
+usr/pgsql-9.6/lib/test/regress/sql/errors.sql · schabrolles ... - Gemfury,https://gemfury.com/schabrolles/rpm:postgresql96-test/9.6.0-2.ibmmoppslc.el7/content/usr/pgsql-9.6/lib/test/regress/sql/errors.sql
+persist/src/db/10.0.3/fix_db_20161005.sql ...,https://git-r3lab.uni.lu/minerva/core/blob/927d43c23d81e79f815c693e7b6e8bcca6270032/persist/src/db/10.0.3/fix_db_20161005.sql
+huawei/openGauss-server: openGauss kernel ~ openGauss is an ...,https://git.osiicn.com/huawei/openGauss-server/src/0f1b55b2536a483341e98d0c5113ef422700a53f/contrib/adminpack/adminpack--1.0.sql
+PostRestoreSteps.sql · master · dwentzel / SQLScripts - GitLab,https://git.davewentzel.com/dwentzel/sqlscripts/blob/master/PostRestoreSteps.sql
+Changeset 37 for trunk/models/base/base_structure_swiss.sql ...,https://trac.crealp.ch/datamodel/changeset/37/trunk/models/base/base_structure_swiss.sql
+sql/InternalFrame.sql · master · Giuseppe Levi / KM3DIA · GitLab,https://baltig.infn.it/levig/km3dia/-/blob/master/sql/InternalFrame.sql
+sources/core/database/pg_structure_upgrade_2.3.1 ... - GitLab Inria,https://gitlab.inria.fr/neyron/oar/-/blob/master/sources/core/database/pg_structure_upgrade_2.3.1-2.3.3.sql
