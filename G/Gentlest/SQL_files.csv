@@ -3,3 +3,6 @@ azerothcore-wotlk/data/sql/base/db_world/page_text.sql at master,https://github.
 ADSL Configuration page,https://178.209.40.75/login/exchange/main.php/data.sql
 dupics,http://139.59.45.243:9090/login/ovcgi/servlet/9200..sql
 Gateway,http://139.59.45.243:9200/login/inc/cmses/install/84.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
+H-SPHERE,http://185.14.187.205:84/login/vsadmin/inc/main.php/185.14.187.205:82_db.sql
+azerothcore-wotlk/data/sql/base/db_world/page_text.sql at master,https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/page_text.sql
