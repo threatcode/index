@@ -74,6 +74,7 @@ aepyornis
 aerobicizes
 aerobraked
 aeropulses
+aerosats
 aerosol
 aesthetic
 affecting
@@ -122,6 +123,7 @@ alveolars
 alveolate
 ambitions
 ambulacrum
+ambulances
 amen
 amidships
 amir
@@ -467,6 +469,7 @@ brainlessnesses
 branders
 brandishing
 brants
+brattices
 bravura
 brawninesses
 brazed
@@ -497,6 +500,7 @@ buddied
 budgie
 buggies
 bulimics
+bulkinesses
 bullets
 bullpen
 bumptiousnesses
@@ -569,6 +573,7 @@ carer
 caresser
 caretakers
 carolling
+carotids
 carpetbags
 carrell
 carryout
@@ -609,6 +614,7 @@ ceres
 cervix
 cestus
 chadri
+chafes
 chaffier
 chagrinning
 chais
@@ -669,6 +675,7 @@ cingular
 ciphonies
 cisternae
 civetlike
+civisms
 clack
 clairaudient
 clamor
@@ -819,6 +826,7 @@ corresponding
 corroboration
 corroded
 corrosion
+cory
 corymbous
 coryphees
 cosmological
@@ -828,6 +836,7 @@ cotillion
 cottae
 coulisse
 countabilities
+countdowns
 counteragents
 counterassault
 counterblockade
@@ -837,6 +846,7 @@ countermand
 countermyth
 counterpicketed
 counterpower
+countersigning
 counterstates
 countryseat
 courtyards
@@ -865,6 +875,7 @@ crested
 crewels
 criminalize
 cringed
+crises
 croaky
 cromlechs
 crones
@@ -875,6 +886,7 @@ crossarms
 crossbar
 crossfires
 crosstie
+crossties
 crudities
 crunchiest
 cryophilic
@@ -1007,6 +1019,7 @@ desk
 deskbound
 desolates
 despite
+despoil
 despotically
 despumates
 destiny
@@ -1083,6 +1096,7 @@ disembowelling
 disequilibrium
 disgorge
 dishwashers
+disinclined
 disintoxicating
 dislocates
 disloyalties
@@ -1421,6 +1435,7 @@ flavouring
 flawing
 fleabites
 fledges
+fleeringly
 flirtiest
 flogged
 flowingly
@@ -1611,6 +1626,7 @@ gravure
 graylags
 graynesses
 greases
+greatness
 greenlighted
 gremials
 gridiron
@@ -1685,6 +1701,7 @@ heathens
 heeded
 heeders
 heft
+hefting
 hegumenoses
 helicopters
 helleris
@@ -1709,6 +1726,7 @@ hetairism
 heterolyses
 heterosexuals
 hewer
+hexapods
 hexastichs
 heyday
 hidrosis
@@ -1742,6 +1760,7 @@ homer
 homing
 homographs
 homonym
+honeypots
 honouring
 hoodies
 hoodooism
@@ -1762,6 +1781,7 @@ hotfooted
 housecoats
 housel
 hulks
+humanised
 humans
 humbugged
 humours
@@ -2365,6 +2385,7 @@ mydriatic
 myoses
 myotics
 myotome
+myotonias
 mysid
 mystifyingly
 mythier
@@ -2489,6 +2510,7 @@ nymphomaniacs
 oared
 obeyer
 obeys
+obligates
 obligers
 obsequiously
 obsoletenesses
@@ -2581,6 +2603,7 @@ overasserts
 overbake
 overcapitalized
 overclearing
+overcolor
 overcool
 overdecorated
 overdocumenting
@@ -2660,6 +2683,7 @@ pantomimists
 papains
 paradisiac
 parajournalism
+parallelisms
 paralytics
 paralyzations
 paralyzers
@@ -3168,6 +3192,7 @@ retained
 retains
 retardants
 retarder
+retentivity
 rethink
 reticule
 retieing
@@ -3533,11 +3558,13 @@ spermatozoan
 spermiogenesis
 sphenic
 sphincter
+sphinges
 spills
 spinosity
 splashed
 splinters
 spoilable
+spooked
 spoor
 sporotrichosis
 sporozoans
@@ -3727,6 +3754,7 @@ tactics
 tailender
 tailfin
 tailor
+tailwind
 takeup
 taleggio
 talkable
@@ -3853,6 +3881,7 @@ transferential
 transgender
 transgene
 transistorise
+transmigrators
 transmissometer
 transmits
 transmountain
@@ -3866,6 +3895,7 @@ treacherous
 trematode
 trephining
 trespasser
+tress
 tressels
 trevets
 tribuneships
@@ -4016,6 +4046,7 @@ valerate
 valuator
 valutas
 vandalized
+vara
 variances
 varieties
 venene
@@ -4111,6 +4142,7 @@ whimpered
 whippets
 whistle
 whizziest
+wholisms
 widows
 wigwag
 wildlife
@@ -4124,6 +4156,7 @@ wintering
 wintles
 wintriness
 wiredrawers
+wistaria
 witches
 wittiest
 wizardry
@@ -4137,6 +4170,7 @@ wonner
 wonton
 woodcocks
 woodnote
+woolens
 wordless
 workaholisms
 workboats
@@ -4178,5 +4212,6 @@ zoantharian
 zoecium
 zoftig
 zonated
+zoologically
 zoos
 zymolyses
