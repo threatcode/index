@@ -1,0 +1,2 @@
+citus/src/test/regress/sql/multi_subquery_complex_reference_clause ...,https://github.com/citusdata/citus/blob/master/src/test/regress/sql/multi_subquery_complex_reference_clause.sql
+redshift-roles/pr_migrate_groups_to_roles.sql at main - GitHub,https://github.com/aws-samples/redshift-roles/blob/main/pr_migrate_groups_to_roles.sql
