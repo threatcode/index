@@ -416,6 +416,7 @@ barflies
 bargain
 barging
 barhopped
+bark
 barkeep
 barometrically
 barrage
@@ -509,6 +510,7 @@ bioassaying
 biochemicals
 biochip
 biofoulings
+biogenous
 biogeographical
 biolytic
 biomaterials
@@ -832,6 +834,7 @@ cephalothoraces
 cepheid
 ceres
 certioraris
+ceruses
 cervine
 cervix
 cestus
@@ -998,6 +1001,7 @@ coif
 coiffes
 coiffeurs
 coigned
+coincided
 coinciding
 coinventor
 coleaders
@@ -1363,6 +1367,7 @@ demobilize
 demodulators
 demyelinations
 demythologize
+demythologizing
 denaturation
 denazification
 dendrite
@@ -1632,6 +1637,7 @@ ectypes
 ecu
 edge
 edition
+editresses
 editrix
 educationally
 educationeses
@@ -1689,6 +1695,7 @@ enclitic
 encourages
 encrimsons
 enculturation
+encyclicals
 encyclopaedia
 endamoebae
 endomorphism
@@ -2618,12 +2625,14 @@ inequivalve
 inertia
 inescapably
 inestimable
+inexactness
 inexperience
 infancy
 infantilism
 infantine
 infestant
 infighters
+infighting
 infightings
 infinites
 inflows
@@ -2684,6 +2693,7 @@ intermarries
 intermediary
 intermediately
 intermittences
+intermitters
 internally
 interpermeating
 interpersonally
@@ -2747,6 +2757,7 @@ ivorybill
 jacking
 jacobins
 jaggs
+jams
 jangliest
 janisaries
 japanizing
@@ -2775,6 +2786,7 @@ joltiest
 jomon
 jorum
 jowar
+juggles
 jungled
 jural
 juster
@@ -2862,8 +2874,10 @@ lari
 larval
 laryngitic
 laryngoscope
+lastborn
 laterad
 latexes
+latimerias
 latrines
 laudation
 launce
@@ -3235,6 +3249,7 @@ moisturising
 mollah
 mollifies
 mollymawk
+mols
 monadal
 monardas
 monochromat
@@ -3555,6 +3570,7 @@ orcin
 ordained
 ordinance
 ordination
+organism
 organization
 organum
 origans
@@ -3715,6 +3731,7 @@ palliator
 pallid
 palls
 palpates
+pamphlet
 panbroiled
 pandered
 panegyric
@@ -3729,6 +3746,7 @@ pantomiming
 pantomimists
 papains
 paradisiac
+paradisiacal
 paragraphic
 parajournalism
 parallelisms
@@ -3736,6 +3754,7 @@ parallelograms
 paralytics
 paralyzations
 paralyzers
+parangs
 paranymph
 parasitologist
 parboils
@@ -3744,6 +3763,7 @@ paresis
 paretic
 parlous
 parries
+parring
 parsing
 parthenocarpies
 particles
@@ -4105,6 +4125,7 @@ proofread
 propels
 propended
 propines
+propitiousness
 propounding
 proprietors
 proprioception
@@ -4194,6 +4215,7 @@ quadruplicities
 quaggier
 quags
 quahog
+quaiches
 quaigh
 quaintnesses
 quakily
@@ -4205,6 +4227,7 @@ quicklime
 quiddities
 quieted
 quillworks
+quintessence
 quippu
 quixotism
 quomodos
@@ -4427,6 +4450,7 @@ resinlike
 resmelted
 resolutenesses
 respaced
+respectful
 respited
 respread
 ressentiments
@@ -4528,6 +4552,7 @@ rubbishes
 rubboard
 rubescent
 ruddier
+ruers
 ruffly
 ruggedize
 ruinously
@@ -4558,6 +4583,7 @@ safecrackings
 sagos
 sakes
 sale
+salesladies
 salesmanships
 salesmen
 saline
@@ -4739,6 +4765,7 @@ shindy
 shipfitters
 shippons
 shipyard
+shirrs
 shitted
 shlepping
 shoehorn
@@ -4769,6 +4796,7 @@ sideways
 sieges
 sift
 sighlike
+sights
 signally
 signalment
 signor
@@ -5104,6 +5132,7 @@ substituted
 subtility
 subtilizations
 subtopics
+subulate
 subvassals
 subviral
 subvocalize
@@ -5184,6 +5213,7 @@ switcheroos
 swivet
 swizzlers
 swizzles
+swooning
 swordsmen
 sycoses
 syli
@@ -5213,6 +5243,7 @@ tabletted
 taboo
 tachistoscopic
 tachyon
+tactically
 tactics
 tactile
 tael
@@ -5306,6 +5337,7 @@ theoretic
 theoretically
 theorise
 theorized
+theriacs
 thermographies
 thievishnesses
 thindown
@@ -5370,7 +5402,9 @@ tomboyish
 tomfool
 tongas
 tongmen
+tonnes
 tonsorial
+tooter
 tootsy
 topstone
 toquets
@@ -5797,6 +5831,7 @@ whiteness
 whizziest
 wholes
 wholisms
+whop
 wiccas
 widows
 wigmaker
