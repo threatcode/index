@@ -28,3 +28,11 @@ otcwl-not-ospd5-all - Seattle Scrabble Club,http://www.seattlescrabble.org/data/
 000228.txt - Apache Tika Corpora,https://corpora.tika.apache.org/base/docs/govdocs1/000/000228.txt
 sno_edited.txt - PhysioNet,https://physionet.org/files/deid/1.1/dict/sno_edited.txt%3Fdownload
 bes4de4.pdf.txt,https://www.tdx.cat/bitstream/10803/3726/5/bes4de4.pdf.txt
+HematopoieticStemCellNiche_2...,https://repisalud.isciii.es/bitstream/handle/20.500.12105/5165/HematopoieticStemCellNiche_2017.txt%3Fsequence%3D18
+https://www.informatics.jax.org/reference/report.t...,https://www.informatics.jax.org/reference/report.txt%3FphenoMarkerId%3DMGI:98284%26results%3D21%26startIndex%3D0%26sort%3Dyear%26dir%3Ddesc%26typeFilter%3DLiterature
+epigenetics.txt - the Cui Lab,https://www.cuilab.cn/static/hmdd3/data/epigenetics.txt
+P100VZFM.txt - epa nepis,https://nepis.epa.gov/Exe/ZyNET.exe/P100VZFM.txt%3FZyActionW%3DDownload%26Client%3DEPA%26Index%3D2016%2520Thru%25202020%257C2011%2520Thru%25202015%257C2000%2520Thru%25202005%257C2006%2520Thru%25202010%257CPrior%2520to%25201976%257C1976%2520Thru%25201980%257C1981%2520Thru%25201985%257C1986%2520Thru%25201990%257C1991%2520Thru%25201994%257C1995%2520Thru%25201999%257CHardcopy%2520Publications%26Docs%3D%26Query%3Dleukemia%2520leukemias%2520myeloid%2520lymphoma%2520iarc%26Time%3D%26EndTime%3D%26SearchMethod%3D2%26TocRestrict%3Dn%26Toc%3D%26TocEntry%3D%26QField%3D%26QFieldYear%3D%26QFieldMonth%3D%26QFieldDay%3D%26UseQField%3D%26IntQFieldOp%3D0%26ExtQFieldOp%3D0%26XmlQuery%3D%26File%3DD%253A%255CZYFILES%255CINDEX%2520DATA%255C06THRU10%255CTXT%255C00000041%255CP100VZFM.txt%26User%3DANONYMOUS%26Password%3Danonymous%26SortMethod%3Dh%257C-%26MaximumDocuments%3D15%26FuzzyDegree%3D0%26ImageQuality%3Dr85g16/r85g16/x150y150g16/i500%26Display%3Dhpfr%26DefSeekPage%3Dx%26SearchBack%3DZyActionL%26Back%3DZyActionS%26BackDesc%3DResults%2520page
+https://open.library.ubc.ca/media/download/rdf-ntr...,https://open.library.ubc.ca/media/download/rdf-ntriples/24/1.0167309/0.txt
+007054-1.txt - bioRxiv,https://www.biorxiv.org/content/biorxiv/suppl/2014/07/11/007054.DC1/007054-1.txt
+https://data.lhncbc.nlm.nih.gov/public/ii/informat...,https://data.lhncbc.nlm.nih.gov/public/ii/information/MBR/Download/MetaMapped_Medline/2019/MEDLINE/pubmed19n0916.txt
+TXT Format,http://lifeome.net/database/oncomirdb/oncomirdb.v-1.1-20131217_download.txt
