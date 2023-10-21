@@ -3,3 +3,5 @@ oracle-maintained-roles.sql - GitHub,https://github.com/ReneNyffenegger/oracle-p
 opensource_with_apsaradb/apache-airflow/northwind_data_target ...,https://github.com/alibabacloud-howto/opensource_with_apsaradb/blob/main/apache-airflow/northwind_data_target.sql
 alasql - UNPKG,https://unpkg.com/browse/alasql%400.1.0/test-sql/northwind/Northwind.sql
 paracora.ro/admin1234/import/other/mysqldemo.sql,http://paracora.ro/admin1234/import/other/mysqldemo.sql
+oracle-maintained-roles.sql - GitHub,https://github.com/ReneNyffenegger/oracle-patterns/blob/master/Installed/data-dictionary/roles/oracle-maintained-roles.sql
+openidm.sql - hmcts/sscs-docker - GitHub,https://github.com/hmcts/sscs-docker/blob/master/openidm.sql
