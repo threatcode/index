@@ -37,3 +37,13 @@ Connection Status,https://31.220.45.118/loginerror/index.php/database.sql
 wbem - VMware Management Interface:,http://175.96.14.179/login/ovcgi/.sql
 https://forge.ircam.fr/p/manifeste2014/source/file...,https://forge.ircam.fr/p/manifeste2014/source/file/ee105f4206e8aa91867c06ada36ee21feb0856b3/fixtures/wordpress_2014-02-07.sql
 wbem - b2evo > Login form,http://163.29.187.148/__zep__/js.sql
+idle-sessions-histogram.sql - jkstill/oracle-script-lib - GitHub,https://github.com/jkstill/oracle-script-lib/blob/master/sql/idle-sessions-histogram.sql
+SQL-scripts/postgres_idle_sessions_kill.sql at master - GitHub,https://github.com/HariSekhon/SQL-scripts/blob/master/postgres_idle_sessions_kill.sql
+dba_waits.sql,http://people.umass.edu/bikehara/dbanotes/dba_waits.sql
+sql/sitevars-create.sql · portal-css · Sriram Selvam / emulab-devel ...,https://gitlab.flux.utah.edu/srirams/emulab-devel/-/blob/portal-css/sql/sitevars-create.sql
+Source of pgsql.query.time.sql - Zabbix - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.query.time.sql%3Fat%3Dc0f6625aa69%26until%3Dc0f6625aa698f4de7ddc77f5119760141e6bfae6
+Source of pgsql.transactions.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.transactions.sql
+sql/sitevars-create.sql · gtw-protogeni-config-origin - Explore projects,https://gitlab.flux.utah.edu/cecchet/emulab-devel/-/blob/gtw-protogeni-config-origin/sql/sitevars-create.sql
+Repo 4 waitgroups2.sql - DB Optimizer - Embarcadero DocWiki,https://docwiki.embarcadero.com/DBOptimizer/en/Repo_4_waitgroups2.sql
+Snapper - GitHub,https://raw.githubusercontent.com/tanelpoder/tpt-oracle/master/snapper.sql
+wait.sql - [종료]대용량 데이터베이스 스터디 - 구루비 지식창고,http://wiki.gurubee.net/display/DBSTUDY/wait.sql
