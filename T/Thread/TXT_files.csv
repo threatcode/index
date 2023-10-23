@@ -1,0 +1,10 @@
+POSIX Threads Programming | LLNL HPC Tutorials,http://kom.aau.dk/~jdn/edu/doc/rt/llnl/man/pthread_mutexattr_init.txt
+Threads: Semaphores - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-semaphores.txt
+Threads: Intro - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-intro.txt
+memcached/doc/threads.txt at master - GitHub,https://github.com/memcached/memcached/blob/master/doc/threads.txt
+RPC and Threads - MIT PDOS,https://pdos.csail.mit.edu/6.824/notes/l-rpc.txt
+Enable fast and efficient threading on the web,https://www.w3.org/2018/12/games-workshop/papers/threading-on-the-web.txt
+threads.txt,https://www.cs.cmu.edu/afs/cs/project/clisp/hackers/wlott/work/threads.txt
+Virtualizing processors: threads,https://web.mit.edu/6.033/2012/wwwdocs/lec/l7.txt
+Thread Structure,https://mthamilton.ucolick.org/techdocs/techref/poco/thread_structure.txt
+EXT_thread_local_context - OpenAL Soft,https://openal-soft.org/openal-extensions/EXT_thread_local_context.txt
