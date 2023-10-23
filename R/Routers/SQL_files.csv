@@ -17,3 +17,11 @@ sql/schema.sql - Národní technická knihovna,https://code.gov.cz/techlib/indok
 freediameter - extensions - app_diameap - diameap.sql,https://gitlab.eurecom.fr/oai/freediameter/-/blob/8b0290988d1e43c2d23e161ddb2279ac2378dffb/extensions/app_diameap/diameap.sql
 pop.diverstech.com/images/softechc_diverstech.sql,http://pop.diverstech.com/images/softechc_diverstech.sql
 emulab-devel - sql - database-create.sql - Explore projects,https://gitlab.flux.utah.edu/grubb/emulab-devel/-/blob/32569e18e8fdc1b06023e006577c1237fe60de3e/sql/database-create.sql
+mas/router/admin/db/init.sql at master · gspandy/mas - GitHub,https://github.com/gspandy/mas/blob/master/router/admin/db/init.sql
+DCache/src/Router/create_table_new.sql at master - GitHub,https://github.com/Tencent/DCache/blob/master/src/Router/create_table_new.sql
+README.sql in src/router/snmp - Timeline - DD-WRT,https://svn.dd-wrt.com/browser/src/router/snmp/README.sql%3Frev%3D52896
+mysql_config.sql in src/router/asterisk/contrib/realtime/mysql - Timeline,https://svn.dd-wrt.com/browser/src/router/asterisk/contrib/realtime/mysql/mysql_config.sql%3Frev%3D26679
+https://raw.githubusercontent.com/OpenBMP/openbmp-...,https://raw.githubusercontent.com/OpenBMP/openbmp-mysql-consumer/master/database/stored_procs/mysql-openbmp-proc-deleterouter.sql
+Source of images.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/database/mysql/images.sql
+MarcusCom/switch-ztp: EEM-based Bootstrapping solution for Cisco ...,https://www.marcuscom.com/git/MarcusCom/switch-ztp/src/1f250eac9af1cbf596c9b4a9b0520dbd6527491e/bootstrap.sql%3Flang%3Dgl-ES
+https://docs.mitigator.ru/kb/update2206/update2206.sql,https://docs.mitigator.ru/kb/update2206/update2206.sql
