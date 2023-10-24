@@ -418,6 +418,7 @@ assisters
 associated
 associateship
 assonantal
+assurer
 asswaged
 asswages
 astasia
@@ -756,6 +757,7 @@ bloc
 bloodhounds
 bloodiness
 bloodstain
+bloodworts
 blotters
 blowback
 blowpipes
@@ -983,6 +985,7 @@ cadavers
 caducous
 cajeputs
 cajolers
+caked
 cakewalks
 calaboose
 calamary
@@ -1032,6 +1035,7 @@ cantered
 canthus
 cantrips
 canzonets
+capacitance
 capacitor
 capes
 capillary
@@ -1092,6 +1096,7 @@ casebearer
 caseload
 cashaw
 cashes
+casimire
 casita
 cassette
 cataclysmically
@@ -1635,6 +1640,7 @@ criminalize
 cringed
 crises
 crisper
+criticaster
 croaky
 crocodile
 crojik
@@ -1973,6 +1979,7 @@ diapering
 diaphorase
 diapir
 diarists
+diarrheas
 diastatic
 diastereomeric
 diazine
@@ -2175,6 +2182,7 @@ dreadnought
 dreamboats
 dreamers
 dreamfulnesses
+dreamlands
 drearinesses
 drecks
 drifted
@@ -3151,6 +3159,7 @@ gyres
 gyron
 habdalahs
 habitan
+habitue
 hackworks
 hadarim
 hades
@@ -3159,11 +3168,13 @@ hadrons
 haematin
 hagborn
 haggler
+haggling
 hagioscope
 hailstorm
 hair
 haircut
 hairdresser
+hairworms
 halal
 halfpenny
 halid
@@ -3227,6 +3238,7 @@ heartsick
 heater
 heathenizes
 heathens
+hebetating
 hebetic
 hectograph
 heeded
@@ -3365,6 +3377,7 @@ horoscopes
 horrifyingly
 horticultural
 hospitalise
+hospitalized
 hospitals
 hosteler
 hostelries
@@ -3944,6 +3957,7 @@ lawless
 lawn
 laxatives
 laxnesses
+laypersons
 laze
 lazinesses
 lazurites
@@ -4100,6 +4114,7 @@ ludes
 luge
 luggies
 lullabying
+lumberyards
 luminousnesses
 lunies
 lustier
@@ -4345,6 +4360,7 @@ militiamen
 milkwood
 milky
 millerites
+millesimals
 milligals
 millimole
 millwrights
@@ -4403,6 +4419,7 @@ mismarked
 mismoving
 misphrases
 misquotations
+misseat
 misshape
 missioning
 missionizer
@@ -4441,6 +4458,7 @@ mollymawk
 mols
 monachal
 monadal
+monads
 monardas
 monastically
 monasticism
@@ -4537,6 +4555,7 @@ musicalize
 musjids
 muskits
 muskmelon
+muskroots
 mustangs
 mutant
 mutate
@@ -4676,6 +4695,7 @@ nonastronomical
 nonbacterial
 nonbelligerents
 nonbotanists
+noncardiac
 noncash
 noncausal
 noncelebrity
@@ -4736,6 +4756,7 @@ noodging
 nope
 normalizers
 northbound
+northerlies
 nosh
 notarizations
 notarize
@@ -4962,6 +4983,7 @@ outthrob
 outtravels
 outvoicing
 outwilling
+ovenwares
 overacted
 overalert
 overapplication
@@ -5160,6 +5182,7 @@ patcher
 paten
 pater
 pathetic
+pathogene
 pathogenies
 patient
 patriot
@@ -5534,6 +5557,7 @@ preordainments
 preparedly
 prepares
 preplan
+preponderating
 prepossessing
 prepotency
 preprimaries
@@ -5839,6 +5863,7 @@ reason
 reasonably
 reassert
 reassure
+reattributes
 rebeldom
 rebodying
 reboot
@@ -6217,6 +6242,7 @@ rouse
 routers
 royalisms
 rubasse
+rubati
 rubbishes
 rubboard
 rubescent
@@ -6746,6 +6772,7 @@ sottedly
 sottish
 souffles
 soughing
+soulmate
 sounder
 soundless
 sourly
@@ -6851,6 +6878,7 @@ staidest
 staigs
 stained
 staining
+stalls
 stampeder
 standard
 standfast
@@ -6871,6 +6899,7 @@ stealing
 steamfitter
 steamships
 steelwork
+steelyard
 steelyards
 steepening
 steepens
@@ -6895,6 +6924,7 @@ stingrays
 stinkeroos
 stinking
 stinters
+stirpes
 stirrer
 stockades
 stockbrokings
@@ -7140,8 +7170,10 @@ switcheroos
 swivet
 swizzlers
 swizzles
+swooners
 swooning
 swoopers
+swoopy
 swordsmen
 sycoses
 syli
@@ -7703,6 +7735,7 @@ unintegrated
 unintentional
 unionised
 uniquenesses
+unitedly
 unitization
 unjustly
 unjustness
@@ -7792,6 +7825,7 @@ urbanite
 urediniospores
 urethritis
 urged
+urogenital
 usableness
 uses
 usualness
@@ -8087,6 +8121,7 @@ woolpack
 wooshes
 wordier
 wordless
+wordsmitheries
 workaholisms
 workboats
 workmanly
