@@ -268,6 +268,7 @@ analcites
 analogist
 analogists
 analogizing
+analogy
 analyzer
 analyzing
 anaphoras
@@ -467,6 +468,7 @@ asymptotes
 atherogeneses
 atherosclerotic
 atilt
+atmospherically
 atomists
 atonalisms
 atrabilious
@@ -1530,6 +1532,7 @@ combinable
 combinations
 combine
 comblike
+combs
 comedown
 coming
 commanderships
@@ -1592,6 +1595,7 @@ conferees
 confess
 confessor
 conflux
+confuted
 congestion
 conglobate
 congou
@@ -1625,6 +1629,7 @@ contemporaries
 contest
 contestant
 contextualized
+contingent
 contingents
 continuities
 contortion
@@ -1673,6 +1678,7 @@ copyedit
 copyreader
 coracoids
 corbies
+corby
 cordelled
 corecipient
 cored
@@ -2058,6 +2064,7 @@ departees
 departmentalize
 dependable
 depict
+depigmentation
 deplete
 depleting
 deplorable
@@ -2158,6 +2165,7 @@ diastereomeric
 diazine
 dibbles
 dichotomizing
+dichromats
 dickcissels
 diclinous
 didacticisms
@@ -2259,6 +2267,7 @@ dislocated
 dislocates
 dislodgments
 disloyalties
+dismounting
 disorientation
 dispatching
 dispended
@@ -2298,6 +2307,8 @@ disyllable
 dits
 ditto
 diurnally
+dive
+diver
 divergencies
 dividedness
 divinized
@@ -2387,6 +2398,7 @@ drongo
 droop
 droopiest
 dropkickers
+dropout
 dropt
 drownd
 drowns
@@ -2473,6 +2485,7 @@ effecters
 effectuating
 effervescing
 efflorescent
+effluviums
 efts
 egests
 eglateres
@@ -2749,10 +2762,12 @@ expelled
 expensivenesses
 expiring
 explantations
+explicable
 exploiter
 exploiters
 exponent
 expositors
+expressionism
 expressiveness
 expunction
 expunging
@@ -2762,6 +2777,7 @@ extended
 extensively
 extensivenesses
 extensometer
+extenuation
 extolments
 extortioner
 extortive
@@ -2847,6 +2863,7 @@ featurette
 febrifuges
 federalism
 federalist
+federalists
 federators
 fedexing
 feeders
@@ -3237,6 +3254,7 @@ gilly
 gilts
 gimleting
 gimping
+gingal
 gingals
 gingerbready
 gingiva
@@ -3485,6 +3503,7 @@ handiwork
 handleless
 handsels
 handwritten
+hangable
 hanselled
 harbingers
 harbor
@@ -3790,11 +3809,13 @@ ideologic
 idioms
 idiotype
 idles
+idolizations
 idolizes
 iglus
 ignobility
 ignoramuses
 ignored
+illegalizes
 illuded
 illuminated
 illuminisms
@@ -4635,6 +4656,7 @@ mathematics
 matrilineally
 mattedly
 maturer
+mauled
 maulers
 maunderers
 maunds
@@ -4898,6 +4920,7 @@ monotypic
 monounsaturate
 monumentalized
 mooches
+moodinesses
 moonlighters
 moorish
 moraine
@@ -5442,6 +5465,7 @@ outsmart
 outsparkle
 outsprung
 outstanding
+outstaying
 outstudying
 outthrob
 outtravels
@@ -5877,6 +5901,7 @@ pinocytic
 pinwork
 pinwrench
 piny
+piped
 pipeline
 piperidine
 piracetam
@@ -6225,6 +6250,7 @@ proximateness
 prunable
 prunella
 pruning
+pryingly
 psalm
 psalmic
 psalmists
@@ -6303,6 +6329,7 @@ pyrocerams
 pyrophyllite
 pyrrhotites
 pyrrole
+pyxes
 qaids
 quadraphonics
 quadrifid
@@ -6433,6 +6460,7 @@ rebodying
 reboot
 rebury
 recalcitrances
+recalibrate
 recalibrating
 recaned
 recapitalizing
@@ -6603,6 +6631,7 @@ renaming
 rencontre
 renderings
 renegaded
+renegotiation
 renest
 renested
 renews
@@ -6680,6 +6709,7 @@ resinates
 resinlike
 resiny
 resmelted
+resodding
 resoluteness
 resolutenesses
 resow
@@ -7611,6 +7641,7 @@ storm
 storytelling
 stoves
 straggly
+straightbreds
 straighter
 strang
 strangely
@@ -7808,6 +7839,7 @@ superstrike
 superthriller
 superwide
 supper
+supplest
 supplying
 supportable
 supported
@@ -8173,6 +8205,7 @@ torsions
 torture
 totalisator
 totters
+touchiest
 tougheners
 tourneying
 tousles
@@ -8247,6 +8280,7 @@ triads
 trialogue
 triangulating
 triazines
+tribological
 tribuneships
 trichroic
 trickly
@@ -8683,6 +8717,7 @@ vincas
 vindictive
 vinyl
 violable
+violation
 violinist
 vireo
 virgules
