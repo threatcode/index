@@ -691,6 +691,7 @@ betaxed
 betelnut
 betrothed
 betta
+betweenness
 beverages
 bewared
 bewigging
@@ -1050,6 +1051,7 @@ callowness
 calluses
 calm
 calmnesses
+caloric
 calorically
 calques
 caltrap
@@ -1434,6 +1436,7 @@ colicweed
 colinearity
 colins
 collaborated
+collapsibility
 collaterals
 colleague
 collectives
@@ -1581,6 +1584,7 @@ convolutes
 cooees
 cookbook
 cooking
+cooldown
 cooncans
 cooptions
 coordinations
@@ -1728,6 +1732,7 @@ crumped
 crunchiest
 crusados
 cryophilic
+cryptarithm
 cryptogam
 cryptographies
 cryptological
@@ -2169,8 +2174,10 @@ dispensable
 dispersal
 dispiriting
 displaces
+disprizes
 disrelished
 disrepair
+disreputable
 disreputes
 disrupt
 dissatisfaction
@@ -2497,6 +2504,7 @@ ephebe
 ephedra
 epiblasts
 epicardial
+epicenism
 epicentra
 epicontinental
 epicrania
@@ -2933,6 +2941,7 @@ foziness
 fractals
 fractioned
 fragmental
+framers
 framework
 franks
 frass
@@ -3764,6 +3773,7 @@ infightings
 infinites
 infinities
 infix
+inflictors
 inflows
 influxes
 informality
@@ -3889,6 +3899,7 @@ inverts
 investigational
 investment
 inviably
+invidiousnesses
 invigilators
 inwards
 inweave
@@ -4329,6 +4340,7 @@ maffickers
 magically
 magistracies
 magnanimously
+magnesia
 magnesic
 magnetize
 magnetron
@@ -4469,6 +4481,7 @@ mention
 mercenaries
 mercenarily
 merchant
+merchantable
 mercurated
 mere
 merengue
@@ -4745,6 +4758,7 @@ mureins
 murk
 murky
 murmured
+murre
 muscarine
 muscats
 muscovite
@@ -5084,6 +5098,7 @@ opera
 operators
 operettas
 operettist
+ophitic
 ophthalmologic
 ophthalmologist
 opinionatedly
@@ -5091,6 +5106,7 @@ opinionative
 opportunist
 opposes
 oppressively
+oppressiveness
 optimizer
 optometric
 oracular
@@ -5100,6 +5116,7 @@ orchestrate
 orcin
 ordained
 ordinance
+ordinaries
 ordination
 ordinations
 orfray
@@ -5133,6 +5150,7 @@ osmunda
 ossifrages
 osteitis
 osteopathies
+osteopathy
 osteoporoses
 ostinati
 otalgy
@@ -5212,6 +5230,7 @@ overclaimed
 overclearing
 overcolor
 overcolored
+overcommits
 overcool
 overdecking
 overdecorated
@@ -5225,6 +5244,7 @@ overeducating
 overelaboration
 overemphasis
 overexpanding
+overexpands
 overexposed
 overfavor
 overflowed
@@ -5309,6 +5329,7 @@ paddings
 paddle
 pagandoms
 paged
+paginates
 paillard
 painlessness
 pair
@@ -5520,6 +5541,7 @@ pettable
 pettifoggeries
 pettles
 petulance
+phalangeal
 phantast
 pharmacognosy
 pharmacopeia
@@ -5698,6 +5720,7 @@ polyphonously
 polypore
 polysorbates
 polystyrene
+polysyllabic
 polyzoaries
 pommelled
 pommy
@@ -6285,6 +6308,7 @@ remeasurements
 remediable
 remediations
 remediless
+remilitarizing
 remises
 remissions
 remitment
@@ -6577,6 +6601,7 @@ salpinges
 salsa
 saltest
 saltpans
+salutatorians
 salutatories
 sameks
 sameness
@@ -6635,6 +6660,7 @@ scalares
 scalariformly
 scalper
 scaly
+scan
 scapegraces
 scapula
 scapulas
@@ -7036,6 +7062,7 @@ solderabilities
 solecistic
 solicitorship
 solicitousness
+solifluctions
 solitarily
 solo
 soloistic
@@ -7218,6 +7245,7 @@ steepens
 steeping
 steers
 stellar
+stellify
 stem
 stenotopic
 stepfathers
@@ -7227,6 +7255,7 @@ sternal
 sternites
 sternums
 steroidal
+stibines
 stichomythic
 stickballs
 stickhandling
@@ -7292,6 +7321,7 @@ stronghold
 strongmen
 strontic
 strop
+strophic
 struck
 structuralizes
 stud
@@ -7590,6 +7620,7 @@ tates
 tattooing
 taught
 taurine
+tautomer
 taxably
 taxless
 taxying
@@ -7668,6 +7699,7 @@ tetrahymenas
 tetraploids
 tetrapod
 tetroxides
+tew
 textuary
 thallious
 thanatoses
@@ -8082,6 +8114,7 @@ unhooked
 unhusks
 unicellular
 uniformity
+unilobed
 unimaginative
 uninspected
 unintegrated
@@ -8187,6 +8220,7 @@ urethritis
 urged
 urogenital
 usableness
+usaunces
 users
 uses
 usualness
@@ -8309,6 +8343,7 @@ voidances
 voided
 volcanologies
 voluntarist
+vortices
 vorticism
 votaries
 voter
