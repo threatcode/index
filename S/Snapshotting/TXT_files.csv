@@ -7,3 +7,12 @@ Documentation/filesystems/nilfs2.txt - kernel/common - Git at Google,https://and
 advisory-427.txt - Xen Project,https://xenbits.xen.org/xsa/advisory-427.txt
 nilfs2 - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/filesystems/nilfs2.txt
 dm-thin,https://www.kernel.org/doc/Documentation/device-mapper/thin-provisioning.txt
+direct-heap-snapshotting/report.txt at master - LudwikJaniuk - GitHub,https://github.com/LudwikJaniuk/direct-heap-snapshotting/blob/master/report.txt
+ludvig-diff-05-14.txt - LudwikJaniuk/direct-heap-snapshotting - GitHub,https://github.com/LudwikJaniuk/direct-heap-snapshotting/blob/master/ludvig-diff-05-14.txt
+https://kashyapc.fedorapeople.org/virt/snapshots-n...,https://kashyapc.fedorapeople.org/virt/snapshots-notes/snapshots-with-virsh-for-qcow2.txt
+x264-snapshot-20191218-README.txt - VideoLAN,http://download.videolan.org/x264/snapshots/x264-snapshot-20191218-README.txt
+nilfs2 - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/filesystems/nilfs2.txt
+https://awsdocs-neuron.readthedocs-hosted.com/en/v...,https://awsdocs-neuron.readthedocs-hosted.com/en/v2.9.1/_sources/frameworks/torch/torch-neuronx/programming-guide/training/pytorch-neuron-debug.rst.txt
+Documentation/filesystems/nilfs2.txt - kernel/common - Git at Google,https://android.googlesource.com/kernel/common/%2B/bcmdhd-3.10/Documentation/filesystems/nilfs2.txt
+git-basics.rst.txt - Geo-Python,https://geo-python-site.readthedocs.io/en/2021.0/_sources/lessons/L2/git-basics.rst.txt
+advisory-427.txt - Xen Project,https://xenbits.xen.org/xsa/advisory-427.txt
