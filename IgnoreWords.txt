@@ -332,6 +332,7 @@ antechoir
 antennules
 anthemic
 anthemion
+anthems
 anthill
 anthodia
 anthological
@@ -437,6 +438,7 @@ archon
 arctangent
 ardency
 are
+arecoline
 arenite
 areolar
 arginines
@@ -511,6 +513,7 @@ attack
 attainders
 attainer
 attempered
+attempter
 attendant
 attended
 attenuated
@@ -723,6 +726,7 @@ begrudges
 behalves
 behaviorally
 behaviorists
+behaviors
 behoove
 bejeebers
 beknighted
@@ -962,6 +966,7 @@ bottlers
 bottom
 bottomland
 botulinums
+botulism
 boubou
 bougainvillaea
 bouncer
@@ -1227,6 +1232,7 @@ carbonium
 carbonizes
 carbonous
 carburetted
+carburettors
 carburises
 carcinogenic
 carcinoma
@@ -1325,6 +1331,7 @@ cervix
 cesspits
 cestus
 chadri
+chads
 chafe
 chafers
 chafes
@@ -1872,6 +1879,7 @@ crag
 cranch
 crannogs
 crapshooters
+crapulous
 cratering
 craterings
 craunches
@@ -2374,6 +2382,7 @@ disappointingly
 disapprove
 disapproves
 disbelieve
+disbosoms
 disbowelling
 disburser
 discants
@@ -2693,6 +2702,7 @@ emblazonment
 emblazonry
 embodiments
 embodying
+embolies
 embowels
 embraceors
 embracery
@@ -2761,6 +2771,7 @@ enravished
 enravishing
 enriches
 ensanguining
+enscroll
 ensiles
 enskies
 ensure
@@ -2772,6 +2783,7 @@ enterer
 enterobacterium
 enterocoelous
 enterprisers
+enthrall
 entires
 entireties
 entitlement
@@ -3289,6 +3301,7 @@ foziness
 fractals
 fractionate
 fractioned
+fragilities
 fragmental
 framers
 framework
@@ -3308,6 +3321,7 @@ fresnel
 friedcake
 friendlinesses
 frieze
+frightfully
 frigidly
 frijol
 frijole
@@ -3695,6 +3709,7 @@ gweducs
 gynecocratic
 gyniatry
 gypsydoms
+gyrate
 gyrates
 gyres
 gyron
@@ -4261,6 +4276,7 @@ inosculates
 inpoured
 inquietude
 inrushings
+insatiableness
 inscrolled
 insculping
 inseams
@@ -4496,6 +4512,7 @@ kaiserdom
 kalewives
 kalifs
 kallikreins
+kalongs
 kalyptras
 kaolines
 kaolinitic
@@ -4878,6 +4895,7 @@ magnanimously
 magnesia
 magnesic
 magnetize
+magnetospheres
 magnetron
 magnificences
 magnifico
@@ -4990,6 +5008,7 @@ maulers
 maunderers
 maunds
 mauts
+maximalist
 maximizes
 mazaedium
 mazedly
@@ -5044,6 +5063,7 @@ mercurated
 mere
 merengue
 meringues
+merits
 merlin
 mermen
 merrymakings
@@ -5527,6 +5547,7 @@ noncausal
 noncelebrity
 noncollinear
 noncombat
+nonconformance
 nonconformity
 nonculinary
 nondependent
@@ -6389,6 +6410,7 @@ plumberies
 plumbism
 plumed
 plumpers
+plunger
 plutei
 pneumococcus
 poachers
@@ -6398,6 +6420,7 @@ pocking
 pod
 podgiest
 podophyllins
+poetaster
 pogroming
 poignantly
 pointelle
@@ -6527,6 +6550,7 @@ predictions
 predilections
 preeminence
 preemptive
+preexcite
 preexistence
 prefaced
 preferrer
@@ -6793,12 +6817,14 @@ quaiches
 quaigh
 quaintnesses
 quakily
+quantic
 quantity
 quantong
 quartics
 quartiers
 quebrachos
 queers
+queriers
 querulously
 queue
 quibbler
@@ -7040,6 +7066,7 @@ regulations
 regurgitate
 regurgitates
 rehearsers
+rehearsing
 rehem
 rehydration
 reimaged
@@ -7649,8 +7676,10 @@ sensationalized
 sensed
 sensiblest
 sensitize
+sensitizes
 sensualization
 sententiousness
+sentiency
 sentimentalisms
 sentimos
 separably
@@ -7848,6 +7877,7 @@ sleekiest
 sleeking
 sleekness
 sleeks
+sleepovers
 sleepwalked
 slender
 slenderized
@@ -9018,6 +9048,7 @@ unabashedly
 unacceptability
 unaccredited
 unacidic
+unacquainted
 unadmitted
 unadventurous
 unaffectedly
@@ -9349,6 +9380,7 @@ vignettes
 villainous
 villainously
 villainy
+villeins
 vinaigrette
 vincas
 vindictive
@@ -9533,6 +9565,7 @@ whistle
 whiteners
 whiteness
 whitens
+whiteout
 whites
 whizziest
 wholes
@@ -9541,6 +9574,7 @@ wholisms
 whop
 whopping
 wiccas
+wicked
 wide
 widows
 wieldiest
@@ -9610,6 +9644,7 @@ woodsy
 woolens
 woolpack
 wooshes
+woozier
 wordier
 wordless
 wordsmitheries
