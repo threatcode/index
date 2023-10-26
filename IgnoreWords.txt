@@ -654,6 +654,7 @@ barbies
 barbing
 barcarolles
 barefacedly
+barefacednesses
 barflies
 bargain
 barging
@@ -810,6 +811,7 @@ bimetallisms
 bimodal
 bimorph
 binding
+biner
 bingoes
 binit
 binomial
@@ -837,6 +839,7 @@ bioweapons
 bipartisanship
 biplanes
 bipropellant
+bipropellants
 biradial
 birlers
 birr
@@ -881,6 +884,7 @@ blissfully
 blithers
 blizzard
 bloc
+blond
 bloodhounds
 bloodiness
 bloodlike
@@ -1160,6 +1164,7 @@ calculous
 calfs
 calibrators
 calicos
+calipee
 caliper
 calkings
 calkins
@@ -1180,6 +1185,7 @@ camas
 cambism
 cameo
 camouflage
+campfire
 camphorating
 camporees
 camps
@@ -2019,6 +2025,7 @@ cypres
 cyst
 cysticercoid
 cytoplasmic
+cytoplasms
 dactylus
 dadaisms
 daffiness
@@ -2045,6 +2052,7 @@ dandyism
 daneworts
 dangerous
 dappled
+dares
 dark
 darkie
 darlingness
@@ -2197,6 +2205,7 @@ demiurgical
 demobilize
 demodulators
 demographers
+demolisher
 demonisms
 demyelinations
 demythologize
@@ -2517,6 +2526,7 @@ dossils
 dotages
 dotier
 dotting
+doubtlessness
 doubts
 doughboys
 dourer
@@ -3162,6 +3172,7 @@ fishermen
 fishery
 fishhooks
 fishworm
+fissuring
 fistfight
 fisticuff
 fistular
@@ -3307,6 +3318,7 @@ forzandi
 fosterer
 fosters
 founders
+fountain
 fountained
 fourdriniers
 foziness
@@ -3343,6 +3355,7 @@ froggiest
 frolicky
 frostbitten
 frostfishes
+frostinesses
 fruitarian
 fruitier
 fucoidal
@@ -4120,6 +4133,7 @@ illuminated
 illuminisms
 illusiveness
 illustrators
+imager
 imagistic
 imbalmer
 imbecilities
@@ -5034,6 +5048,7 @@ mazedly
 mazuma
 meager
 meanings
+meatier
 mechanical
 mechanicians
 mechanistically
@@ -5130,6 +5145,7 @@ microbial
 microcap
 microcapsules
 microcephalic
+microcomputer
 microcomputers
 microcosmos
 microcytic
@@ -5239,6 +5255,7 @@ missounded
 misspace
 misspent
 misstamps
+missteering
 misstep
 misstopping
 mistend
@@ -5400,6 +5417,7 @@ muskmelon
 muskroots
 muss
 mustangs
+mustering
 mutant
 mutate
 mutining
@@ -5541,6 +5559,7 @@ nipped
 nitpick
 nitrobenzenes
 nitrogen
+nitrous
 nits
 nittier
 nitwits
@@ -6146,6 +6165,7 @@ pater
 pathetic
 pathogene
 pathogenies
+paths
 patient
 patriot
 patristical
@@ -6519,6 +6539,7 @@ postcrash
 posteens
 postepileptic
 postheats
+posthumous
 postlanding
 postmasters
 postpunk
@@ -6989,6 +7010,7 @@ recidivistic
 recipient
 reciprocates
 recluses
+recoats
 recodifies
 recognizably
 recoined
@@ -7154,6 +7176,7 @@ remediations
 remediless
 remilitarizing
 remises
+remissibly
 remissions
 remitment
 remonstratively
@@ -7204,6 +7227,7 @@ replying
 reportages
 reposing
 reposit
+reprehended
 representations
 repressive
 reprieve
@@ -7446,6 +7470,7 @@ runlets
 runnel
 runt
 runty
+ruralising
 ruralists
 rustication
 rustled
@@ -7595,6 +7620,7 @@ scorpion
 scotias
 scottie
 scoundrel
+scourgers
 scouses
 scowlingly
 scraigh
@@ -8123,6 +8149,7 @@ spirier
 spirting
 spitefullest
 splashed
+splashy
 spleeny
 splendiferous
 spliced
@@ -8387,6 +8414,7 @@ subtopics
 subtribe
 subulate
 suburbanise
+suburbanites
 subvassals
 subventionary
 subviral
@@ -8450,6 +8478,7 @@ superminis
 supernation
 supernaturally
 supernova
+supernovae
 supernutrition
 superposing
 superreal
@@ -8603,6 +8632,7 @@ tamoxifens
 tanbark
 tandoori
 tangibleness
+tanginess
 tangolike
 tanrec
 tantalite
@@ -8905,12 +8935,14 @@ transcriptional
 transduces
 transducing
 transductions
+transference
 transferential
 transgender
 transgene
 transiently
 transistorise
 transmigrators
+transmissive
 transmissometer
 transmits
 transmogrified
@@ -9005,6 +9037,7 @@ trunkfish
 trypsinogens
 tsaddik
 tsade
+tsadi
 tsardom
 tsars
 tubae
@@ -9224,6 +9257,7 @@ unpinned
 unpuckers
 unpuzzle
 unquestioned
+unquotes
 unreached
 unreadiness
 unreasonable
@@ -9309,6 +9343,7 @@ uranites
 urates
 urbanite
 urediniospores
+uremias
 urethritis
 urged
 urogenital
