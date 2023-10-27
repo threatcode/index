@@ -28,3 +28,12 @@ text-only version of this release - NASA,https://www.nasa.gov/home/hqnews/2005/m
 CMakeCache.txt,https://www.phy.bnl.gov/~yuhw/Pytorch-UNet/cpp/build/CMakeCache.txt
 eigendecomposition.rst.txt,http://www.d2l.ai/_sources/chapter_appendix-mathematics-for-deep-learning/eigendecomposition.rst.txt
 codet5.txt · qa_handoff · suchiths / CS5814 - Code Generation from ...,https://git.cs.vt.edu/suchiths/cs5814-codegen/-/blob/qa_handoff/codet5.txt
+torch-fidelity/requirements.txt at master - GitHub,https://github.com/toshas/torch-fidelity/blob/master/requirements.txt
+quantization.rst.txt - PyTorch,https://pytorch.org/docs/1.10/_sources/quantization.rst.txt
+requirements.txt · frgfm/torch-cam at main - Hugging Face,https://huggingface.co/spaces/frgfm/torch-cam/blob/main/requirements.txt
+fx.rst.txt - PyTorch,https://pytorch.org/docs/2.0/_sources/fx.rst.txt
+numerical_accuracy.rst.txt - PyTorch,https://pytorch.org/docs/stable/_sources/notes/numerical_accuracy.rst.txt
+transforms.rst.txt - PyTorch,https://pytorch.org/vision/stable/_sources/transforms.rst.txt
+ddp_comm_hooks.rst.txt - PyTorch,https://pytorch.org/docs/stable/_sources/ddp_comm_hooks.rst.txt
+pytorch-install-cxx11.rst.txt - AWS Neuron,https://awsdocs-neuron.readthedocs-hosted.com/en/v2.8.0/_sources/frameworks/torch/torch-neuron/setup/pytorch-install-cxx11.rst.txt
+leds-lm3556.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/leds/leds-lm3556.txt
