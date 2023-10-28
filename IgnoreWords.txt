@@ -249,6 +249,7 @@ alter
 alterers
 alternatives
 althorns
+altigraphs
 altimetries
 altocumuli
 aluminosilicate
@@ -274,6 +275,7 @@ amen
 amianthus
 amicablenesses
 amidine
+amidol
 amidships
 amir
 ammonia
@@ -357,6 +359,7 @@ annihilations
 annually
 annuitant
 annulet
+annunciator
 anodic
 anodynic
 anorexias
@@ -595,6 +598,7 @@ augers
 augmentative
 augural
 augury
+auk
 auld
 aures
 auricles
@@ -625,6 +629,7 @@ avouched
 avouchment
 awes
 awesomely
+awls
 awlwort
 awnings
 axes
@@ -765,6 +770,7 @@ batts
 bawd
 baying
 bazaars
+beachballs
 beadier
 beadledom
 beadlike
@@ -934,6 +940,7 @@ bistros
 bitt
 bitterbrushes
 bitty
+bivalves
 blacker
 blackest
 blacking
@@ -1346,6 +1353,7 @@ capitalism
 capitalization
 capitalized
 capitula
+capitulate
 caponized
 cappelletti
 cappers
@@ -1819,6 +1827,7 @@ combinations
 combine
 comblike
 combs
+comedies
 comedown
 comeliest
 coming
@@ -2228,6 +2237,7 @@ cyclecar
 cycled
 cyclicals
 cyclonal
+cycloolefin
 cyclorama
 cycloserine
 cyclostome
@@ -2555,6 +2565,7 @@ develops
 devels
 devests
 deviate
+deviatory
 deviling
 devilled
 devilling
@@ -2877,6 +2888,7 @@ droop
 droopiest
 dropkickers
 dropout
+dropshots
 dropt
 drownd
 drowns
@@ -2949,6 +2961,7 @@ earthen
 easterlies
 easterly
 eastern
+easts
 ebbs
 ebonics
 ebonites
@@ -3219,6 +3232,7 @@ essayers
 established
 esteemed
 ester
+esthetes
 estoppels
 estreat
 estuarial
@@ -3881,6 +3895,7 @@ gauffering
 gaur
 gawkiness
 gawkishness
+gawkishnesses
 gawks
 gawper
 gaydars
@@ -4345,6 +4360,7 @@ hermaphrodites
 hermetical
 hermetisms
 heroicomic
+heroin
 heroism
 heroisms
 heros
@@ -4361,6 +4377,7 @@ hexamethoniums
 hexaplas
 hexapods
 hexastichs
+hexer
 hexosan
 heyday
 hidalgo
@@ -4617,7 +4634,9 @@ iglus
 ignobility
 ignoramuses
 ignored
+ihrams
 illegalizes
+illiberalness
 illuded
 illuminated
 illuminisms
@@ -5528,6 +5547,7 @@ malaroma
 malemutes
 malfed
 malformation
+malihinis
 malingers
 malkin
 malmseys
@@ -6215,6 +6235,7 @@ nightlifes
 nightmarish
 nightstick
 nightwear
+nigrosine
 nigrosins
 nihil
 nihilistic
@@ -6439,6 +6460,7 @@ oeuvre
 offed
 offences
 offense
+officially
 offload
 offscourings
 offscreen
@@ -6827,6 +6849,7 @@ panoramas
 pant
 pantalones
 panted
+pantingly
 pantofles
 pantograph
 pantographic
@@ -6847,6 +6870,7 @@ paradisiacal
 paragon
 paragraphic
 parajournalism
+paralanguages
 parallelisms
 parallelograms
 paralyse
@@ -7636,6 +7660,7 @@ punctuate
 punditries
 pungencies
 puninesses
+punishers
 punishes
 punishment
 punster
@@ -8208,6 +8233,7 @@ retints
 retooled
 retort
 retotalled
+retotalling
 retouch
 retracer
 retractions
@@ -8713,6 +8739,7 @@ serology
 serotines
 serum
 sesames
+sesquicarbonate
 sew
 sewars
 sewer
@@ -8863,6 +8890,7 @@ singling
 singspiel
 singularities
 sinker
+sinlessness
 sinology
 sins
 sinterability
@@ -8935,6 +8963,7 @@ slivovic
 slobbering
 slogger
 slopping
+slopworks
 sloshes
 slotback
 slouch
@@ -8991,6 +9020,7 @@ snobbish
 snobs
 snookers
 snoop
+snoopily
 snooziest
 snottinesses
 snowbell
@@ -9119,6 +9149,7 @@ sparriest
 sparsest
 sparsities
 spawned
+speakerphone
 speared
 spearfish
 specialties
@@ -9225,6 +9256,7 @@ stablished
 stacker
 stacks
 stagelike
+stagnance
 staidest
 staigs
 stained
@@ -9509,6 +9541,7 @@ sunburned
 sundrily
 sunglass
 sunlands
+sunniness
 sunset
 superabounded
 superabsorbent
@@ -9900,6 +9933,7 @@ thraldom
 thralls
 thread
 threadier
+threepence
 threepences
 thresholds
 throb
@@ -10925,6 +10959,7 @@ woolfells
 woolpack
 wooshes
 woozier
+wordbook
 wordier
 wordless
 wordsmitheries
