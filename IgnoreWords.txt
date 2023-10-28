@@ -554,6 +554,7 @@ assess
 assesses
 asseveration
 assignabilities
+assignability
 assignee
 assigning
 assisters
@@ -777,6 +778,7 @@ basketfuls
 basswood
 bastardies
 bastardised
+baster
 bastinaded
 bastioned
 bathless
@@ -1058,6 +1060,7 @@ boilable
 boilers
 boink
 bola
+bolete
 boletuses
 bolometric
 bolsheviks
@@ -1883,6 +1886,7 @@ combinations
 combine
 comblike
 combs
+comebacks
 comedies
 comedown
 comeliest
@@ -1981,6 +1985,7 @@ congratulatory
 congruity
 connecter
 connectible
+connexions
 connivery
 connoisseurs
 cons
@@ -2477,6 +2482,7 @@ defibrinating
 deficiencies
 defiers
 definite
+definitely
 deflater
 deflationary
 defloration
@@ -3404,6 +3410,7 @@ excitants
 excites
 exclusionist
 exclusions
+exculpation
 execution
 executioner
 executrixes
@@ -3588,6 +3595,7 @@ feistiest
 felicitous
 feline
 felled
+felonries
 felons
 feminazis
 feminineness
@@ -3728,6 +3736,7 @@ flirtier
 flirtiest
 flocci
 flocculates
+flock
 flogged
 flong
 floodgate
@@ -3823,6 +3832,7 @@ forereaching
 foresaid
 foreshank
 foreshowing
+foreshown
 foreshows
 forest
 forethought
@@ -4478,6 +4488,7 @@ helper
 helves
 hemateins
 hematinic
+hematitic
 hemiplegias
 hemolyzes
 hemoproteins
@@ -4534,6 +4545,7 @@ hierarchs
 hierophants
 hifalutin
 highlighting
+highspot
 highted
 highwayman
 hijacking
@@ -5133,6 +5145,7 @@ investment
 inviably
 invidiousnesses
 invigilators
+invoiced
 inwards
 inweave
 inwove
@@ -5314,6 +5327,7 @@ kickup
 kicky
 kiddos
 kidnap
+kidnaps
 kiester
 kif
 killdees
@@ -5547,6 +5561,7 @@ linkboys
 lint
 linter
 linters
+lionhearted
 lionizer
 lipases
 lipins
@@ -5885,6 +5900,7 @@ mendeleviums
 meninges
 mentalese
 mention
+mephitis
 mercenaries
 mercenarily
 mercerises
@@ -6144,6 +6160,7 @@ monasticism
 monishes
 monistic
 monocarboxylic
+monochords
 monochromat
 monochromats
 monocrat
@@ -7491,6 +7508,7 @@ pleasantness
 pleiotropies
 plenist
 plenties
+pleonasms
 plethysmography
 plexus
 pliability
@@ -7744,6 +7762,7 @@ prespecify
 prestissimo
 prestrike
 presymptomatic
+pretence
 pretender
 pretorians
 prettied
@@ -8011,6 +8030,7 @@ quieted
 quillbacks
 quillworks
 quinquennials
+quinta
 quintessence
 quintin
 quippu
@@ -8029,6 +8049,7 @@ raceway
 racialist
 raconteur
 racquetball
+radarscope
 raddled
 radiances
 radiation
@@ -8172,6 +8193,7 @@ recoined
 recolonized
 recommencements
 recommences
+recommissioned
 recommittals
 reconcilers
 recondensed
@@ -8217,6 +8239,7 @@ redigestions
 redintegrated
 redip
 redips
+redirected
 redivided
 redliner
 redness
@@ -9014,6 +9037,7 @@ sensiblenesses
 sensiblest
 sensitize
 sensitizes
+sensualities
 sensualization
 sententiousness
 sentiency
@@ -9294,6 +9318,7 @@ sluttiest
 sluttishnesses
 slypes
 smalts
+smartasses
 smatter
 smazes
 smeary
@@ -9366,6 +9391,7 @@ softcovers
 softheaded
 softheartedness
 softly
+softshells
 softwares
 softy
 sokes
@@ -9778,9 +9804,11 @@ subfix
 subframe
 subfreezing
 subgenerations
+subgenres
 subglacial
 subhumid
 subinterval
+subjectivises
 subjugations
 subjunctions
 subleasing
@@ -10050,6 +10078,7 @@ tag
 tailender
 tailfin
 tailgater
+tailing
 tailor
 tailorbirds
 tailorings
@@ -10100,6 +10129,7 @@ tartly
 tartuffe
 tasked
 tasters
+tasting
 tates
 tatties
 tattlers
@@ -10390,6 +10420,7 @@ tornado
 tornillo
 torpedos
 torsions
+torsk
 torture
 total
 totalisator
@@ -10644,6 +10675,7 @@ unacquainted
 unadmitted
 unadventurous
 unaffectedly
+unaimed
 unaneled
 unanimous
 unappeased
@@ -10692,6 +10724,7 @@ unconstricted
 uncontrolled
 uncooled
 uncounted
+uncourageous
 uncropped
 uncross
 uncrumpled
@@ -10707,6 +10740,7 @@ undercharged
 underclad
 underclassman
 undercools
+underdrawers
 undereat
 underemployed
 underfed
@@ -10930,6 +10964,7 @@ usualness
 usuals
 ute
 utiliser
+utilizes
 utopians
 utopistic
 utterable
