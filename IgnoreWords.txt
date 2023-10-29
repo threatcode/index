@@ -224,6 +224,7 @@ airframe
 airpark
 airplanes
 airposts
+airscape
 airsicknesses
 airspeeds
 airways
@@ -702,6 +703,7 @@ awes
 awesomely
 awls
 awlwort
+awninged
 awnings
 axes
 axillas
@@ -1300,6 +1302,7 @@ brouhahas
 brown
 brownfield
 brownies
+browning
 brownish
 brownnoser
 brucines
@@ -1937,6 +1940,7 @@ codlings
 codominant
 codswallop
 codswallops
+coeds
 coenzymes
 coevalities
 coexerting
@@ -2145,6 +2149,7 @@ constitution
 constitutive
 constrainedly
 constraints
+constringed
 consultive
 consumeristic
 consummates
@@ -2401,6 +2406,7 @@ crudity
 crumped
 crumply
 crunchiest
+cruppers
 crusados
 cryogeny
 cryophilic
@@ -3348,6 +3354,7 @@ eligible
 elmy
 eloigner
 elongating
+elongations
 elopers
 eluate
 eluates
@@ -3545,6 +3552,7 @@ ergometer
 ericaceous
 erodible
 erotized
+erotizing
 errorless
 eructing
 erumpent
@@ -4657,9 +4665,11 @@ haggling
 hagioscope
 hailstorm
 hair
+haircaps
 haircut
 hairdresser
 hairworms
+halachas
 halal
 halers
 halfpenny
@@ -4846,6 +4856,7 @@ heyday
 hidalgo
 hidebound
 hiders
+hidroses
 hidrosis
 hierarchs
 hierophants
@@ -4990,6 +5001,7 @@ humanized
 humanoid
 humans
 humbugged
+humbuggeries
 humidified
 humidifier
 humidify
@@ -5137,6 +5149,7 @@ imbecilities
 imbedded
 imbolden
 imitativeness
+immaterialism
 immaterialists
 immaterializing
 immerged
@@ -5164,6 +5177,7 @@ immutabilities
 impainted
 impanels
 impartations
+imparters
 impartiality
 impeached
 impeded
@@ -5710,6 +5724,7 @@ knotweed
 knower
 knuckler
 kolkhosy
+kolkhozniks
 kookinesses
 korma
 kosher
@@ -5774,6 +5789,7 @@ langlaufs
 laniard
 lanosities
 lanosity
+lap
 laparoscopy
 lapidary
 lapidifying
@@ -6748,6 +6764,7 @@ mystifyingly
 mythicizer
 mythicizes
 mythier
+mythologer
 mythological
 myxedema
 myxomatoses
@@ -6976,6 +6993,7 @@ nonleafy
 nonlegumes
 nonlexical
 nonliterary
+nonmechanical
 nonmemberships
 nonmoral
 nonnecessity
@@ -7230,6 +7248,7 @@ orientalize
 orientation
 orienteers
 orients
+origamis
 origans
 origins
 orlops
@@ -7535,6 +7554,7 @@ palladium
 palletises
 palletize
 palletizing
+pallets
 palliating
 palliations
 palliator
@@ -7578,6 +7598,7 @@ papermakings
 paperweight
 papillote
 papyrology
+papyruses
 para
 paradisiac
 paradisiacal
@@ -7939,6 +7960,7 @@ piny
 pioneered
 piped
 pipeline
+pipelining
 piperidine
 pipit
 piqued
@@ -8035,6 +8057,7 @@ pod
 podgiest
 podophyllins
 poetaster
+poetesses
 pogonia
 pogroming
 poignantly
@@ -8374,6 +8397,7 @@ prosceniums
 prosciuttos
 proscribes
 proselytized
+proselytizer
 proseminar
 prosiest
 prosobranchs
@@ -9604,6 +9628,7 @@ selfnesses
 sell
 selle
 selsyn
+seltzer
 selvages
 selvedge
 semainier
@@ -9646,6 +9671,7 @@ sensiblest
 sensitize
 sensitizer
 sensitizes
+sensitometer
 sensualities
 sensualization
 sententiousness
@@ -9874,6 +9900,7 @@ skene
 sketcher
 sketches
 skewbald
+skewer
 skibob
 skiddier
 skidways
@@ -11106,6 +11133,7 @@ tonsorial
 tontine
 tooter
 tooths
+tootled
 tootsy
 topcoats
 topdressing
@@ -11376,6 +11404,7 @@ ultramarathon
 ultraorthodox
 ultrasonics
 ultrastructures
+ultravacua
 ulu
 ululating
 umbered
@@ -11481,6 +11510,7 @@ undersecretary
 understand
 understatement
 understudied
+undertaken
 undertakers
 undertakes
 undertaking
@@ -11663,6 +11693,7 @@ upholsterer
 upholsterers
 uphroes
 upleaped
+upon
 upped
 uppercased
 uppings
@@ -11849,6 +11880,7 @@ vitiates
 vitiations
 vitrines
 vitriol
+vittled
 vituperating
 vituperatory
 vivisection
@@ -11981,6 +12013,7 @@ weathercock
 weatherperson
 weatherproof
 weaver
+webbings
 webcast
 weblike
 webmasters
@@ -12002,6 +12035,7 @@ welsh
 wendigos
 wenny
 werwolves
+westerly
 wethers
 whacks
 whaled
@@ -12249,6 +12283,7 @@ zodiacs
 zoecium
 zoftig
 zonated
+zone
 zonetime
 zonking
 zoologically
