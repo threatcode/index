@@ -217,6 +217,7 @@ ailerons
 ailurophobes
 aiolis
 aircoach
+airframe
 airpark
 airplanes
 airposts
@@ -609,6 +610,7 @@ astrometries
 astrophotograph
 asymptotes
 atabals
+atap
 athanasies
 atherogeneses
 atherosclerotic
@@ -1112,6 +1114,7 @@ boilable
 boilers
 boink
 bola
+bolection
 bolete
 boletuses
 bolometric
@@ -1360,6 +1363,7 @@ butterfish
 butterworts
 buttocks
 butyrates
+butyryl
 buybacks
 buzzcuts
 buzzword
@@ -2157,6 +2161,7 @@ cookbook
 cooking
 cooldown
 cooncans
+cooption
 cooptions
 coordinate
 coordinations
@@ -3198,6 +3203,7 @@ dybbuks
 dying
 dynamos
 dynatron
+dynorphin
 dysenteric
 dysfunctional
 dysmenorrheas
@@ -3302,6 +3308,7 @@ elongating
 elopers
 eluate
 eluates
+elucidative
 eluding
 eluvia
 eluviation
@@ -4336,6 +4343,7 @@ glided
 glidepath
 glim
 glimpsed
+glioblastoma
 glistering
 glitchier
 glitters
@@ -4603,6 +4611,7 @@ hallucinations
 halogeton
 haloids
 halophytic
+haltingly
 halvers
 ham
 hamantaschen
@@ -5033,6 +5042,7 @@ iconographic
 iconology
 icterus
 ideogramic
+ideogrammic
 ideographic
 ideography
 ideologic
@@ -5447,6 +5457,7 @@ isomorphism
 isospin
 isothermal
 isotropies
+italianate
 italicization
 itchier
 itchily
@@ -5549,6 +5560,7 @@ kalifs
 kallikreins
 kalongs
 kalpas
+kalsomined
 kalyptras
 kaolines
 kaolinitic
@@ -5570,6 +5582,7 @@ kerygmatic
 keyboardists
 keynotes
 keynoting
+keypuncher
 keystroking
 khaddar
 khalifs
@@ -5874,11 +5887,13 @@ lobulated
 locale
 locals
 lockbox
+lockboxes
 locomotive
 locoweed
 loculed
 locustae
 locutories
+lodes
 lodge
 loesses
 loggier
@@ -6131,6 +6146,7 @@ mathematics
 matinee
 matrilineally
 mattedly
+mattered
 maturer
 matzas
 mauled
@@ -7045,6 +7061,7 @@ oligarchs
 oligoclase
 olympiad
 omelet
+omelettes
 omentums
 omer
 omikrons
@@ -7099,6 +7116,7 @@ orbier
 orca
 orchardist
 orchestrate
+orchestrated
 orchestrational
 orcin
 ordained
@@ -7649,6 +7667,7 @@ periti
 permitted
 permittee
 permitters
+permuting
 pernod
 pernods
 peroxisomes
@@ -8087,6 +8106,7 @@ prefreezes
 prehandle
 prehandles
 preheadache
+prejudge
 prelimits
 preload
 preludial
@@ -8184,6 +8204,7 @@ procarps
 proceeders
 processible
 procession
+proclaimer
 procreative
 procurers
 proems
@@ -8275,6 +8296,7 @@ psalm
 psalmic
 psalmists
 pseudoalleles
+pseudomorphic
 pseudonymities
 pseudonymous
 pseudopodium
@@ -8300,6 +8322,7 @@ puddlier
 pudgiest
 pudginess
 puffed
+puffily
 puggiest
 pugginesses
 pugnacities
@@ -8609,6 +8632,7 @@ reconsult
 recontacting
 reconvenes
 reconverted
+recopied
 recounters
 recoveries
 recreant
@@ -8927,6 +8951,7 @@ restful
 restimulates
 restitched
 restitution
+restored
 restrain
 restraining
 restruck
@@ -9235,6 +9260,7 @@ sanitaria
 sanitarians
 sanitary
 sanitating
+sannyasin
 sannyasis
 sansar
 sansculottic
@@ -9721,6 +9747,7 @@ skittish
 skittles
 skoal
 skoshes
+skulkers
 skulling
 skyline
 skywards
@@ -9768,6 +9795,7 @@ sloughiest
 sloven
 slovenlier
 slovenliness
+slovenly
 slugabed
 slum
 slumber
@@ -10196,6 +10224,7 @@ stranders
 strang
 strangely
 stranger
+stranglers
 straphang
 straphung
 strappadoes
@@ -10709,6 +10738,7 @@ tendus
 tenge
 tenner
 tenors
+tenseness
 tensest
 tensible
 tension
@@ -10899,6 +10929,7 @@ tokers
 tokes
 tolarjev
 tolbutamide
+tolerated
 toller
 toluidine
 tomalleys
@@ -11174,6 +11205,7 @@ uitlanders
 uke
 ukes
 ulcer
+ulnad
 ultrabasics
 ultraexclusive
 ultraheating
@@ -11372,6 +11404,7 @@ unnaturalnesses
 unneeded
 unornamented
 unorthodoxy
+unparted
 unpiled
 unpiling
 unpinned
@@ -11549,6 +11582,7 @@ veena
 vegetated
 vegetations
 vegging
+vegies
 vehemently
 veinstones
 velarize
@@ -11849,6 +11883,7 @@ whopping
 wiccas
 wicked
 wide
+widget
 widows
 wieldiest
 wigmaker
