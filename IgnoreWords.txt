@@ -131,6 +131,7 @@ adjustors
 adman
 admen
 administrant
+admissibilities
 admonishers
 adobo
 adobos
@@ -639,6 +640,7 @@ assaultively
 assemblage
 assentors
 assertions
+asserts
 assess
 assesses
 asseveration
@@ -1285,6 +1287,7 @@ botulism
 boubou
 bougainvillaea
 bouncer
+boundednesses
 bounder
 bounds
 bounteously
@@ -1928,6 +1931,7 @@ churns
 chute
 chymous
 ciborium
+cicale
 cicatrices
 cicatrix
 cicerones
@@ -2460,6 +2464,7 @@ counterassault
 counterblockade
 counterchange
 counterchecks
+countercoup
 counterdemand
 counterefforts
 counterfeiter
@@ -3357,6 +3362,7 @@ dotations
 dotier
 dotting
 doublers
+doubleton
 doubtlessness
 doubts
 doughboy
@@ -3787,6 +3793,7 @@ epicontinental
 epicrania
 epidemiologies
 epididymitises
+epifaunae
 epifaunas
 epigonism
 epigraphies
@@ -3936,6 +3943,7 @@ exculpation
 execution
 executioner
 executrixes
+exempt
 exempted
 exemption
 exercisers
@@ -4577,6 +4585,7 @@ gallantry
 galleting
 gallicas
 gallicize
+gallies
 gallimaufry
 gallinipper
 gallooned
@@ -4648,15 +4657,18 @@ gawsy
 gaydars
 gazebos
 gearchange
+gearwheels
 geeked
 geishas
 gelate
+gelates
 gelatine
 gelatinize
 gelations
 gelato
 gelding
 gelidly
+gelignites
 gelsemia
 gemminess
 gemminesses
@@ -5172,6 +5184,7 @@ henchmen
 henpecking
 henries
 heparinized
+hepatics
 hepatitises
 hepatizes
 heptarch
@@ -5652,6 +5665,7 @@ indelible
 indent
 independents
 indeterminism
+index
 indexations
 indicatively
 indictment
@@ -5738,6 +5752,7 @@ initiated
 initiating
 inkblot
 inkjet
+inkle
 inmesh
 innermost
 innkeepers
@@ -6194,6 +6209,7 @@ lagunes
 lahar
 laic
 laicises
+lairdship
 lakeshores
 lallan
 lallygags
@@ -6631,8 +6647,10 @@ manilas
 manille
 manipular
 manipulator
+manitous
 manlier
 manlily
+mannequins
 mannerisms
 manning
 mannish
@@ -6686,6 +6704,7 @@ maskers
 masonic
 masquerader
 masscults
+masse
 masses
 massiness
 massy
@@ -7175,6 +7194,7 @@ mudrock
 mudsill
 muffles
 mughal
+mugs
 mugworts
 muhly
 muletas
@@ -7449,6 +7469,7 @@ nonacids
 nonactor
 nonactors
 nonagenarian
+nonagonal
 nonagons
 nonagricultural
 nonartistic
@@ -8499,6 +8520,7 @@ phrasing
 phthalocyanine
 phylacteries
 phyletic
+phyllo
 phyllotaxies
 physicalism
 physicality
@@ -9177,6 +9199,7 @@ pyric
 pyridoxal
 pyrimethamines
 pyrocerams
+pyrometers
 pyrophoric
 pyrophyllite
 pyrrhics
@@ -9589,6 +9612,7 @@ rejudges
 rejuvenating
 rejuvenator
 rejuvenescences
+relacquering
 relands
 relandscape
 relatedly
@@ -9667,6 +9691,7 @@ reopposed
 reorganizes
 reorientated
 reoriented
+rep
 repacified
 repack
 repaints
@@ -10110,6 +10135,7 @@ sandbagger
 sandbar
 sandbur
 sandlike
+sandlot
 sandpits
 sandspurs
 saner
@@ -10526,6 +10552,8 @@ showerless
 showring
 shrewmouse
 shri
+shrieker
+shrinkable
 shrived
 shriven
 shroud
@@ -11495,6 +11523,7 @@ swimmy
 swingers
 swingled
 switcheroos
+swived
 swivels
 swivet
 swizzlers
@@ -11627,6 +11656,7 @@ tarmacs
 tarnations
 tarns
 taro
+taroks
 tarpans
 tarriers
 tarriest
@@ -12172,6 +12202,7 @@ tsardom
 tsardoms
 tsars
 tubae
+tuberculoses
 tubeworks
 tubocurarine
 tubulous
@@ -12211,6 +12242,7 @@ tuxedoes
 twains
 twangler
 twangles
+twangs
 tweenesses
 tweeters
 twerps
@@ -12552,6 +12584,7 @@ upboils
 upbuilt
 upcountry
 upcurve
+updives
 upfold
 upgazing
 upgrown
@@ -12879,6 +12912,7 @@ waterways
 wattage
 watthour
 wattlebird
+wattless
 wauchts
 wavelength
 wavering
@@ -13084,6 +13118,7 @@ workboats
 workflow
 workflows
 workless
+worklessness
 workmanly
 workmanship
 workshop
