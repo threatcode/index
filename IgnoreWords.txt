@@ -89,6 +89,7 @@ acnode
 acock
 acold
 acquests
+acquiesced
 acquiescence
 acquiescences
 acrid
@@ -418,6 +419,7 @@ animes
 animi
 animuses
 anise
+anisettes
 anlaces
 anlagen
 annalistic
@@ -585,6 +587,7 @@ archivists
 archon
 arctangent
 ardency
+ardour
 are
 arecoline
 arenite
@@ -1196,6 +1199,7 @@ bluepoints
 bluetongues
 blueweeds
 bluewood
+blunge
 blunged
 blunt
 blunted
@@ -1289,6 +1293,7 @@ bothies
 botryoid
 bots
 bottle
+bottlebrushes
 bottlefuls
 bottlers
 bottom
@@ -2239,6 +2244,7 @@ complainant
 complexified
 complicates
 comportment
+composted
 compotes
 comprized
 compromisers
@@ -2305,6 +2311,7 @@ connectible
 connexions
 connivery
 connoisseurs
+connoisseurship
 cons
 consanguine
 conscience
@@ -2443,6 +2450,7 @@ correctitude
 correlate
 correlated
 correlations
+correlators
 corresponding
 corresponsive
 corroboration
@@ -2612,6 +2620,7 @@ crumply
 crunchiest
 cruppers
 crusados
+cryogen
 cryogeny
 cryophilic
 cryoprobe
@@ -4299,6 +4308,7 @@ fisticuff
 fistular
 fistulas
 fitchews
+fitfully
 fitnesses
 fitter
 fivefold
@@ -4447,6 +4457,7 @@ forebay
 foreboders
 foreboom
 forecastles
+foreclose
 foredecks
 forefronts
 foregoing
@@ -4806,6 +4817,7 @@ globe
 globefish
 globetrots
 globing
+globose
 glockenspiels
 glomeruli
 glommed
@@ -4830,6 +4842,7 @@ glutenin
 glutethimides
 glycans
 glyceride
+glycerinates
 glycerinating
 glycerines
 glycosurias
@@ -4892,6 +4905,7 @@ governor
 gowns
 goyim
 goyish
+grabens
 grace
 graceful
 gradates
@@ -5371,6 +5385,7 @@ hoodooisms
 hoofprint
 hookier
 hooknoses
+hoopster
 hoorahing
 hoosgow
 hootenannies
@@ -5758,6 +5773,7 @@ infant
 infantilism
 infantine
 infantries
+infares
 infatuation
 infection
 infectiousness
@@ -6720,6 +6736,7 @@ mantel
 mantids
 mantlet
 manumits
+manurial
 manyplies
 map
 marabouts
@@ -6863,6 +6880,7 @@ menaced
 menadione
 menage
 mendeleviums
+mendings
 meninges
 mentalese
 mention
@@ -7225,6 +7243,7 @@ mossy
 moth
 motherboard
 motherhood
+motherings
 motherland
 motilities
 motivities
@@ -8724,6 +8743,7 @@ plasmolyze
 plasmolyzes
 plasterers
 plasticizations
+plasticizer
 platens
 platesful
 platinoids
@@ -8847,6 +8867,7 @@ poplitic
 poppling
 popularises
 popularizing
+porcupine
 porkier
 porks
 porky
@@ -8866,6 +8887,7 @@ portraitures
 portraying
 portrays
 posers
+positiver
 posologies
 posse
 possess
@@ -9358,6 +9380,7 @@ quomodos
 quorum
 quotes
 quoth
+quotients
 rabat
 racehorses
 raceway
@@ -9560,6 +9583,7 @@ recreation
 recrosses
 recrudesced
 recs
+rectangularity
 recti
 rectifiability
 rectocele
@@ -9800,6 +9824,7 @@ repatterning
 repentantly
 repertoires
 repetitional
+rephotographs
 rephrase
 repigment
 repine
@@ -10192,6 +10217,7 @@ sacrificers
 sacristy
 sacrosanctities
 saddlebag
+sade
 sadist
 sadists
 sadness
@@ -10611,9 +10637,11 @@ sheikhdoms
 shellackings
 shelled
 sheller
+shellworks
 shelty
 sheriff
 sheriffdoms
+sheriffs
 sherifs
 shied
 shiers
@@ -10900,6 +10928,7 @@ snathe
 snaw
 sneezing
 sniggles
+snip
 snipers
 snippily
 snippy
@@ -11397,6 +11426,7 @@ subcomponent
 subconscious
 subconsul
 subcontracting
+subcool
 subcooled
 subcooling
 subcostals
@@ -11968,6 +11998,7 @@ thiazide
 thiazides
 thickener
 thievishnesses
+thighed
 thimbleriggers
 thindown
 thingness
@@ -12454,6 +12485,7 @@ unbosoming
 unboundednesses
 unbraces
 unbright
+unbulky
 unbusy
 uncalcined
 uncanniness
@@ -12464,6 +12496,7 @@ uncase
 uncertainties
 unchaining
 unchallenging
+uncharming
 unchary
 unchastely
 unchlorinated
@@ -12865,6 +12898,7 @@ versing
 vertus
 vesicle
 vesiculations
+vespiary
 vestiges
 vestigium
 vexatiousnesses
@@ -13154,6 +13188,7 @@ whop
 whopping
 wiccas
 wicked
+wicking
 wide
 widget
 widows
