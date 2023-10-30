@@ -896,6 +896,7 @@ beautifies
 beautify
 becudgeling
 bedcovering
+bedemen
 bedeviling
 bedframe
 bediapered
@@ -1313,6 +1314,7 @@ bribing
 brickyards
 briefing
 brier
+brightening
 brightest
 brightly
 brilliantly
@@ -1604,6 +1606,7 @@ carrell
 carriages
 carrion
 carryout
+cars
 cartable
 cartelise
 cartooned
@@ -1715,6 +1718,7 @@ chalked
 challenger
 chalutzim
 cham
+chambray
 chambrays
 chamfering
 chamoised
@@ -3409,6 +3413,7 @@ eels
 eerie
 eerier
 effaced
+effacements
 effecters
 effectuating
 effervescing
@@ -3884,12 +3889,14 @@ fairground
 fairleaders
 fairyhood
 faithfully
+faithfulnesses
 faithfuls
 faithlessnesses
 faker
 fakey
 faking
 fakir
+fallacious
 fallaways
 fallible
 falsest
@@ -3989,6 +3996,7 @@ fesswise
 fest
 festal
 festinately
+festivity
 fet
 fetchers
 fetials
@@ -4033,6 +4041,7 @@ filariasis
 filching
 filially
 filibeg
+filigreed
 filigrees
 filing
 filister
@@ -5148,6 +5157,7 @@ humanoid
 humans
 humbugged
 humbuggeries
+humbugs
 humidified
 humidifier
 humidify
@@ -5288,6 +5298,7 @@ illuminates
 illuminisms
 illusiveness
 illustrators
+illuviates
 illy
 imager
 imagistic
@@ -5400,6 +5411,7 @@ incorporate
 incorporations
 incorrupted
 incredulities
+incrust
 incubi
 inculpated
 incurious
@@ -5521,6 +5533,7 @@ inserts
 insightful
 insignificances
 insolations
+insolence
 insolubilize
 insolvencies
 insomnias
@@ -5701,6 +5714,7 @@ isospin
 isothermal
 isotropies
 italianate
+italianating
 italicization
 itchier
 itchily
@@ -5763,6 +5777,7 @@ jins
 jitterier
 jiveass
 jivy
+jockstraps
 jocosity
 jog
 joggers
@@ -5809,11 +5824,13 @@ kalongs
 kalpas
 kalsomined
 kalyptras
+kami
 kaolines
 kaolinitic
 karakul
 karmic
 karsts
+karyotins
 katsura
 kazatskies
 kecking
@@ -5951,6 +5968,7 @@ lanosities
 lanosity
 lap
 laparoscopy
+lapboards
 lapidary
 lapidifying
 lapper
@@ -6361,6 +6379,7 @@ manumits
 manyplies
 map
 marabouts
+marascas
 marbelize
 marbelizes
 marbelizing
@@ -6676,6 +6695,7 @@ misdefines
 misdemeanor
 misdialled
 misdirect
+misdirected
 misdirecting
 misdivision
 misdoubts
@@ -6738,6 +6758,7 @@ mobocrats
 mockingly
 mocs
 modeled
+modeler
 modelings
 modelling
 modestest
@@ -7810,6 +7831,7 @@ pangolins
 panics
 panmixes
 panochas
+panoplies
 panoramas
 pant
 pantalones
@@ -8109,6 +8131,7 @@ phonating
 phones
 phonetics
 phonically
+phonies
 phoninesses
 phonographer
 phonologies
@@ -8248,6 +8271,7 @@ planktonic
 plantains
 plasmagels
 plasmagene
+plasmodesma
 plasmodia
 plasmolytic
 plasmolyze
@@ -9271,6 +9295,7 @@ renunciative
 reobtains
 reoccupying
 reoil
+reopposed
 reorganizes
 reorientated
 reoriented
@@ -9987,6 +10012,7 @@ sepiolites
 septette
 septicemias
 septum
+sepulchring
 sequestrations
 sequoias
 sered
@@ -10112,6 +10138,7 @@ shrunken
 shticks
 shunpike
 shuttlecocks
+shuttlers
 sialagogue
 sialoid
 sibilators
@@ -10121,6 +10148,7 @@ sicklemia
 sicklier
 sidebar
 sideling
+sidepiece
 siderolite
 sideshows
 sideslipping
@@ -10387,6 +10415,7 @@ solicitude
 solidaristic
 solifluctions
 solitarily
+solitude
 solo
 soloistic
 sols
@@ -11446,6 +11475,7 @@ toadfish
 toddle
 toddlerhood
 toeholds
+tofutti
 tog
 togaed
 togas
@@ -11895,11 +11925,13 @@ unelectable
 unenthusiastic
 unequals
 unexalted
+unexpectedly
 unexposed
 unfading
 unfastening
 unfavorite
 unfeignedly
+unfence
 unfilial
 unfilially
 unfit
@@ -12123,6 +12155,7 @@ valves
 vanadous
 vandalizations
 vandalized
+vandals
 vandas
 vanillas
 vanillins
@@ -12377,6 +12410,7 @@ waws
 waxiness
 waxworks
 wayside
+wazoo
 weaklier
 weaner
 weaponing
@@ -12495,6 +12529,7 @@ winglets
 wingy
 winish
 winless
+winnable
 winoes
 winsomenesses
 winter
