@@ -7,3 +7,12 @@ www.seattlescrabble.org/data/ThemeLists/punctuatio...,http://www.seattlescrabble
 https://www.sys.kth.se/docs/texlive/texmf-dist/doc...,https://www.sys.kth.se/docs/texlive/texmf-dist/doc/fonts/ly1/texnansi.txt
 PropList.txt - Unicode,https://www.unicode.org/Public/UCD/latest/ucd/PropList.txt
 https://www.cl.cam.ac.uk/~mgk25/ucs/cp1252.txt,https://www.cl.cam.ac.uk/~mgk25/ucs/cp1252.txt
+02349-em-dash.txt - Unicode,http://www.unicode.org/L2/L2002/02349-em-dash.txt
+02353-ken-dashes.txt - Unicode,http://www.unicode.org/L2/L2002/02353-ken-dashes.txt
+wordtest.txt,https://www.miravista.com/wordtest.txt
+Sub PunctuationToNonBreakingEnDash() - Word Macro Tools,https://www.wordmacrotools.com/macros/P/PunctuationToNonBreakingEnDash.txt
+index-windows-1250.txt,https://www.w3.org/TR/2015/CR-encoding-20151020/indexes/index-windows-1250.txt
+index-windows-1254.txt,https://www.w3.org/TR/2015/CR-encoding-20151020/indexes/index-windows-1254.txt
+https://www.cl.cam.ac.uk/~mgk25/ucs/cp1252.txt,https://www.cl.cam.ac.uk/~mgk25/ucs/cp1252.txt
+Technique codes and names - Particle Data Group,https://pdg.lbl.gov/rpp/encoders/technique.txt
+Canola-full/subset.txt at master · metapolator/Canola-full · GitHub,https://github.com/metapolator/Canola-full/blob/master/subset.txt
