@@ -8,3 +8,12 @@ db2 - quartz_tables_db2.sql - INFN,https://baltig.infn.it/OCP-PAAS/ocp-service-f
 caraway-branch.sql - Frosty Factory,https://frostyfactory.club/caraway-branch.sql
 https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
 pop.diverstech.com/images/softechc_diverstech.sql,http://pop.diverstech.com/images/softechc_diverstech.sql
+Source of asterisk.sql - framework - FreePBX GIT,https://git.freepbx.org/projects/FREEPBX/repos/framework/browse/installlib/SQL/asterisk.sql
+https://raw.githubusercontent.com/apache/guacamole...,https://raw.githubusercontent.com/apache/guacamole-client/0.9.10-incubating/extensions/guacamole-auth-jdbc/modules/guacamole-auth-jdbc-postgresql/schema/001-create-schema.sql
+create-schema.sql - GoogleCloudPlatform/guacamole-on-gcp - GitHub,https://github.com/GoogleCloudPlatform/guacamole-on-gcp/blob/main/create-schema.sql
+TSQLBeginners/3_SelectAndAlias_Solutions.sql at master - GitHub,https://github.com/LitKnd/TSQLBeginners/blob/master/3_SelectAndAlias_Solutions.sql
+Create-StoreSubscriptionsDB-2016.sql - GitHub,https://raw.githubusercontent.com/citrix/sample-scripts/master/storefront/Create-StoreSubscriptionsDB-2016.sql
+hr_test_110622.sql - OpenMRS Wiki,https://wiki.openmrs.org/download/attachments/15139153/hr_test_110622.sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+pop.diverstech.com/images/softechc_diverstech.sql,http://pop.diverstech.com/images/softechc_diverstech.sql
+caraway-branch.sql - Frosty Factory,https://frostyfactory.club/caraway-branch.sql

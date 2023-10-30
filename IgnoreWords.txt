@@ -303,6 +303,7 @@ altimetries
 altocumuli
 alumine
 aluminosilicate
+alumni
 alumroot
 alveolars
 alveolate
@@ -467,6 +468,7 @@ antics
 anticult
 antidandruff
 antidepression
+antieconomic
 antiepileptic
 antifascisms
 antifeminisms
@@ -1747,6 +1749,7 @@ cautiousness
 cavalero
 cavaliers
 cavendishes
+cavernicolous
 cavernously
 caviars
 cavil
@@ -2550,6 +2553,7 @@ crawler
 crawlers
 creakiest
 creaky
+cream
 creamier
 creationism
 creativenesses
@@ -2906,6 +2910,7 @@ defrauds
 defrocking
 defter
 deftnesses
+degendering
 degerming
 degerms
 deglamorizes
@@ -3147,6 +3152,7 @@ dickens
 diclinous
 dicot
 dicta
+dictate
 didacticisms
 didjeridoo
 die
@@ -3356,6 +3362,7 @@ dock
 docked
 dockside
 doctorial
+documentaries
 documents
 doers
 doffs
@@ -3854,6 +3861,7 @@ epizoisms
 epoch
 epochally
 eponymy
+epopee
 epopoeias
 epoxidation
 epsilons
@@ -4262,6 +4270,7 @@ figurativeness
 figured
 fil
 filariasis
+filariid
 filching
 filially
 filibeg
@@ -4367,6 +4376,7 @@ flocculus
 flock
 flogged
 flong
+floodable
 floodgate
 floodwaters
 floosie
@@ -5036,6 +5046,7 @@ gummas
 gummose
 gumweed
 gunites
+gunman
 gunnings
 gunnysack
 gunrunner
@@ -5122,6 +5133,7 @@ handiwork
 handleless
 handlist
 handoff
+handovers
 hands
 handsels
 handwheels
@@ -5436,6 +5448,7 @@ howff
 howlets
 hubbies
 huckstering
+huddler
 hueless
 hues
 hulks
@@ -6046,6 +6059,7 @@ jabbering
 jackal
 jacking
 jackrolling
+jacks
 jacobins
 jaggs
 jake
@@ -6245,6 +6259,7 @@ krafts
 kremlinologies
 krises
 krubi
+kudo
 kukri
 kumquat
 kunzite
@@ -6287,6 +6302,7 @@ lambaste
 lambent
 lambie
 laminas
+laminated
 lammergeyers
 lamp
 lampooning
@@ -6308,6 +6324,7 @@ lapidifying
 lapper
 lappers
 lapse
+largest
 lari
 larval
 laryngitic
@@ -6404,6 +6421,7 @@ leprose
 leprosy
 leptocephalus
 leptophos
+lethal
 lethean
 letterings
 leukaemogenesis
@@ -6809,6 +6827,7 @@ mattered
 mattress
 maturer
 matzas
+matzot
 mauled
 maulers
 maunderers
@@ -7396,6 +7415,7 @@ nakedly
 nakedness
 name
 namelessnesses
+nandina
 nankeen
 nanoteslas
 naphtha
@@ -7626,6 +7646,7 @@ nonleafy
 nonlegumes
 nonlexical
 nonlinearities
+nonliquid
 nonliterary
 nonmechanical
 nonmemberships
@@ -7860,6 +7881,7 @@ openable
 opencast
 openmouthedness
 opera
+operands
 operant
 operatically
 operators
@@ -7957,6 +7979,7 @@ otalgy
 othernesses
 others
 otherwhere
+otherworld
 ourari
 oust
 outachieved
@@ -7977,6 +8000,7 @@ outcompeting
 outcook
 outcooks
 outcried
+outcrowds
 outcrowing
 outcrying
 outcursed
@@ -8093,6 +8117,7 @@ overdevelop
 overdirects
 overdocumenting
 overdominant
+overdosages
 overdoses
 overdramatizing
 overdraw
@@ -8948,6 +8973,7 @@ preadaptive
 preadolescents
 preadopted
 prearms
+preassigned
 preatomic
 prebade
 prebilled
@@ -9108,6 +9134,7 @@ procession
 proclaimer
 procreative
 procurers
+producers
 productivity
 proems
 profanations
@@ -9599,9 +9626,11 @@ redcoats
 reddens
 reddishnesses
 reddles
+redds
 redeemable
 redefeat
 redemanded
+redemptioners
 redeny
 redeploys
 redescribe
@@ -10134,6 +10163,7 @@ ropes
 ropeways
 rosewater
 roshi
+rostrate
 rotation
 rote
 rotors
@@ -11711,6 +11741,7 @@ synchronisation
 synchs
 syncoms
 syncopal
+syncopated
 syncretising
 syncretized
 syndesis
@@ -12303,6 +12334,7 @@ trimmest
 trinket
 trio
 triodes
+triphase
 triplicated
 triplicity
 tripos
@@ -12692,6 +12724,7 @@ unsealed
 unseaming
 unsearchable
 unserious
+unserved
 unsettledness
 unshackle
 unshaded
@@ -13306,6 +13339,7 @@ wraps
 wrasse
 wrigglers
 wringing
+wrinkled
 wrinkles
 wristbands
 writhen
@@ -13329,6 +13363,7 @@ xerographies
 xerothermic
 xeruses
 xylenes
+yachted
 yachts
 yack
 yahooism
