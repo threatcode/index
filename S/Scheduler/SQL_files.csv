@@ -7,3 +7,13 @@ Source of update.sql - scheduler - Bitbucket,https://open.catalyst.harvard.edu/s
 kettle-scheduler-oracle.sql - chenxiao,http://git.dashitech.com/chenxiao/kettle-scheduler/src/f3edf8b7fafc4dab8ee33b4772cab814a39a711f/kettle-scheduler-oracle.sql
 tests/scheduler/data ... - GitLab Inria,https://gitlab.inria.fr/neyron/oar/-/blob/b939a51c9fb04fa9787fa398c807cbbf5e8fb717/tests/scheduler/data/001_advance_reservation_with_absent_resource.sql
 Download - JitPack,https://jitpack.io/p/kagkarlsson/b-scheduler/src/test/resources/postgresql_tables.sql
+oracle_tables.sql - kagkarlsson/db-scheduler - GitHub,https://github.com/kagkarlsson/db-scheduler/blob/master/db-scheduler/src/test/resources/oracle_tables.sql
+mssql_tables.sql - kagkarlsson/db-scheduler - GitHub,https://github.com/kagkarlsson/db-scheduler/blob/master/db-scheduler/src/test/resources/mssql_tables.sql
+people.umass.edu/bikehara/dbanotes/dba_jobs.sql,http://people.umass.edu/bikehara/dbanotes/dba_jobs.sql
+scheduler.quartz-h2.sql Maven / Gradle / Ivy,https://jar-download.com/artifacts/org.commonjava.indy/indy-core/1.2.1/source-code/scheduler/quartz-h2.sql
+Source of update.sql - scheduler - Bitbucket,https://open.catalyst.harvard.edu/stash/projects/HCCRCSCHEDULER/repos/scheduler/browse/data/src/main/sql/update.sql%3Fat%3D3b4ec3c276f9084b64e63b69dbfe596d8539d2c2
+qcitr.com/docs/events_demo.sql,http://qcitr.com/docs/events_demo.sql
+Shuttle.Esb.Scheduling.Sql 13.0.4 - NuGet Gallery,https://www.nuget.org/packages/Shuttle.Esb.Scheduling.Sql
+Commit History · chenxiao/kettle-scheduler - Gogs,http://git.dashitech.com/chenxiao/kettle-scheduler/commits/master/kettle-scheduler.sql
+Download - JitPack,https://jitpack.io/p/kagkarlsson/b-scheduler/src/test/resources/postgresql_tables.sql
+Source of test-queries.sql - scheduler - Bitbucket,https://open.catalyst.harvard.edu/stash/projects/HCCRCSCHEDULER/repos/scheduler/browse/subject-data-cleaner/src/test/sql/test-queries.sql%3Fat%3D6626c85453f0410f0dedc5343977b313765d8ffd
