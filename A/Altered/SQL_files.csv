@@ -28,3 +28,13 @@ geolabs.fr/dl/mmdb.sql,http://geolabs.fr/dl/mmdb.sql
 training.sql - CENN,http://drm.cenn.org/Trainings/Introduction%2520to%2520WEB%2520services%2520and%2520PostGIS%2520intro/Lectures/Day%25201/training.sql
 Other (PostgreSQL empty database - Durham e-Theses,http://etheses.dur.ac.uk/14524/5/DB_structureOnly.sql%3FDDD6%2B
 Untitled,https://www.provincia.cremona.it/avcp-repo/patch/patch-Avcp-xml-0.4.4.sql
+gh-ost/localtests/alter-charset/create.sql at master - GitHub,https://github.com/github/gh-ost/blob/master/localtests/alter-charset/create.sql
+tpch-dbgen/tpch-alter.sql at master - GitHub,https://github.com/dragansah/tpch-dbgen/blob/master/tpch-alter.sql
+…/translate_cache-alter-varbinary.sql · Gerrit Code Review,https://gerrit.wikimedia.org/r/c/mediawiki/extensions/Translate/%2B/735613/8/sql/mysql/translate_cache-alter-varbinary.sql
+https://access13.com/sites/rh/rhcal/install/sql/up...,https://access13.com/sites/rh/rhcal/install/sql/upgrade-mysql.sql
+Oracle changelog - Broadleaf Dev Central,https://developer.broadleafcommerce.com/sql/paymenttransaction.oracle.changelog-master-1.0.0.sql
+Create Service User with permissions.sql - Manula.com,https://cdn.manula.com/user/17978/docs/create-service-user-with-permissions.sql
+hr.sql,https://docs.oracle.com/en/database/oracle/oracle-database/18/obesp/files/hr.sql
+ddl,https://docs.oracle.com/cd/E82085_01/160030/EnterpriseIntegration/BDI/bdi-interface-data-contracts/ddl/ItSupCtryDim_Fnd_Item_Sup_Cty_Dim_Out.sql
+Source of httptest.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/upgrades/dbpatches/2.0/oracle/patch/httptest.sql%3Fat%3D991b3a9f223%26until%3D991b3a9f223617c7e563fad4b653374bc3570e98
+geolabs.fr/dl/mmdb.sql,http://geolabs.fr/dl/mmdb.sql
