@@ -19,3 +19,10 @@ dictionary.txt - Amazon S3,https://s3-us-west-2.amazonaws.com/s.cdpn.io/111863/d
 American words complete.txt,https://www.sumac.com/assetswp/misc-docs/American%2520words%2520complete.txt
 here - Rose-Hulman,https://www.rose-hulman.edu/class/cs/binaries/csse230/Doublets/english.cleaned.all.95.txt
 ScrabbleWords.txt - Temple CIS,https://cis.temple.edu/~pwang/3203-AI/Project/2004/Goldfarb/Scrabble-AI_203/ScrabbleWords.txt
+www.seattlescrabble.org/data/ThemeLists/fabric.txt,http://www.seattlescrabble.org/data/ThemeLists/fabric.txt
+web.stanford.edu/class/archive/cs/cs106x/cs106x.11...,http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1174/lectures/9-RecursiveBacktracking1/code/reducible/res/dictionary.txt
+file,https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/678ff0b0153fc3dd5280587679fd84d8_words.txt
+fast-boggle-solver/results.txt at master - GitHub,https://github.com/machineboy2045/fast-boggle-solver/blob/master/results.txt
+More 8-letter words - TJ CompSci,https://compsci.sites.tjhsst.edu/ai/wordladder_2016/words_08.txt
+This list has been compiled by Solar Designer of,http://db.cs.duke.edu/courses/spring13/compsci101/slides/lowerSmall.txt
+wordlist-d.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzzle/wordlist-d.txt
