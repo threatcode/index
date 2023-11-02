@@ -145,6 +145,7 @@ adequatenesses
 adhere
 adhesional
 adieu
+adjacence
 adjournments
 adjuration
 adjuratory
@@ -605,6 +606,7 @@ apathies
 aperient
 apertural
 apery
+apes
 aphanitic
 aphetic
 aphetically
@@ -1147,6 +1149,7 @@ bedlam
 bedmates
 bedouin
 bedplate
+bedsit
 bedstand
 bedtimes
 beduins
@@ -1493,6 +1496,7 @@ boneheads
 bonemeal
 boniato
 bontebok
+boobird
 boogey
 bookbindings
 bookers
@@ -1961,6 +1965,7 @@ capsulizing
 captan
 captive
 capturing
+carabin
 carabinieri
 caracolled
 carageens
@@ -2039,6 +2044,7 @@ casque
 cassette
 cassoulet
 casual
+cat
 cataclysmically
 catalases
 catalysis
@@ -2258,6 +2264,7 @@ chillies
 chilling
 chillis
 chimaeras
+chimerical
 chimers
 chiming
 chimneypiece
@@ -2384,6 +2391,7 @@ clampdowns
 clamshell
 clandestinity
 clangour
+clangouring
 clanked
 clannishness
 clapboarded
@@ -2978,6 +2986,7 @@ countermand
 countermands
 countermyth
 counterpicketed
+counterplea
 counterpleas
 counterplotted
 counterposing
@@ -3853,6 +3862,7 @@ disappointed
 disappointingly
 disapprove
 disapproves
+disassembles
 disavowing
 disbelieve
 disbenefit
@@ -3956,6 +3966,7 @@ distillers
 distortions
 distracted
 distractibility
+distrainers
 distressed
 distressfulness
 distributes
@@ -4011,6 +4022,7 @@ dogteeth
 dogtrot
 doit
 dollishnesses
+dolmens
 dolorousnesses
 dolphinfish
 domicil
@@ -4357,6 +4369,7 @@ eligible
 elmy
 eloigner
 elongating
+elongation
 elongations
 elopers
 eluate
@@ -4974,6 +4987,7 @@ federates
 federations
 federators
 fedexing
+feedbag
 feeders
 feedstock
 feelingnesses
@@ -6946,6 +6960,7 @@ instrumentation
 insubstantial
 insufferable
 insufferably
+insufficient
 insulate
 insurant
 insurgence
@@ -7185,6 +7200,7 @@ jake
 jalop
 jambalaya
 jambeau
+jambes
 jammier
 jams
 jangliest
@@ -7930,6 +7946,7 @@ maladapted
 maladaptive
 maladroits
 malady
+malapertness
 malapertnesses
 malaroma
 malemutes
@@ -8070,6 +8087,7 @@ masterdoms
 masterful
 masterfulness
 masterminds
+mastic
 mastiche
 mastics
 mastigophorans
@@ -8633,6 +8651,7 @@ mousetrapped
 mousetrapping
 moussing
 mouthwateringly
+moved
 movelessness
 movement
 moviedoms
@@ -8785,6 +8804,7 @@ naive
 naivest
 nakedly
 nakedness
+naled
 name
 namelessnesses
 nandina
@@ -9097,6 +9117,7 @@ nonrubber
 nonsegregations
 nonselected
 nonsequential
+nonserials
 nonshrink
 nonshrinkable
 nonsignificant
@@ -9169,6 +9190,7 @@ nucleolar
 nucleole
 nucleonic
 nucleophile
+nucleotidases
 nudenesses
 nudie
 nuke
@@ -9343,6 +9365,7 @@ operettist
 operosenesses
 ophiolites
 ophitic
+ophthalmias
 ophthalmologic
 ophthalmologist
 opinionatedly
@@ -9519,6 +9542,7 @@ outnumbers
 outorganize
 outpeopling
 outplacing
+outplanned
 outplod
 outplods
 outpost
@@ -10085,6 +10109,7 @@ perigean
 perionychia
 periphytic
 perique
+peristalsis
 peristomes
 peristyles
 perithecium
@@ -10227,6 +10252,7 @@ photopic
 photoproduction
 photoreceptors
 photoresist
+photoresists
 photosensitized
 photostating
 photostatting
@@ -10435,6 +10461,7 @@ pochards
 pocketful
 pocking
 pockmark
+pocks
 pod
 podgiest
 podophyllins
@@ -10871,6 +10898,7 @@ propman
 proposition
 propounding
 proprietary
+proprietorial
 proprietors
 proprioception
 proprioceptors
@@ -11374,6 +11402,7 @@ rectocele
 rectory
 rectos
 recursivenesses
+recusancies
 recycler
 recycling
 redacted
@@ -11584,6 +11613,7 @@ remarketing
 rematerializing
 remeasurements
 remediable
+remedially
 remediations
 remediless
 remeet
@@ -13807,6 +13837,7 @@ surgically
 surimi
 surmises
 surname
+surnamed
 surpassed
 surpassing
 surreptitiously
@@ -13817,6 +13848,7 @@ survivers
 susceptibility
 susceptible
 suspenser
+suspenses
 suspires
 suss
 sustainability
@@ -15374,6 +15406,7 @@ vituperatory
 vividness
 vivisection
 vizierate
+vocable
 vocaleses
 vocalists
 vocals
@@ -15564,6 +15597,7 @@ weskits
 westerly
 westernisation
 wethers
+wha
 whacks
 whaled
 whalelike
@@ -15869,6 +15903,7 @@ zigs
 zigzag
 zigzags
 zikkurat
+zincate
 zincking
 zingani
 zingare
