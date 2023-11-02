@@ -36,6 +36,7 @@ IHT-MATS Nursing Admission Requirements IHT-MATS Nursing Admission Process IHT-M
 abreaction
 abrogable
 abrupter
+absentees
 absolution
 absolvers
 absolves
@@ -1314,6 +1315,7 @@ bivalves
 blackamoors
 blackbirded
 blackboards
+blackened
 blacker
 blackest
 blacking
@@ -1536,6 +1538,7 @@ braes
 braggarts
 bragger
 braider
+brailing
 brails
 brain
 brainiac
@@ -1921,6 +1924,7 @@ caricaturing
 carillonned
 carinated
 caritases
+carnaubas
 carnelian
 carneys
 carnivorously
@@ -2339,6 +2343,7 @@ clinical
 clink
 cliometrician
 cliometricians
+clipped
 cliticizes
 clodhopping
 clods
@@ -2900,6 +2905,7 @@ crabber
 crabbily
 crabgrasses
 cracking
+crackle
 cracks
 crag
 cragginesses
@@ -3256,6 +3262,7 @@ declaration
 declaratory
 declasses
 declension
+declinable
 declination
 declinational
 decline
@@ -3383,6 +3390,7 @@ demiurgical
 demobilizations
 demobilize
 democratic
+democratizers
 demodulators
 demographers
 demolisher
@@ -4119,6 +4127,7 @@ eels
 eerie
 eerier
 effaced
+effacement
 effacements
 effecters
 effectualness
@@ -4360,6 +4369,7 @@ eolopiles
 eonism
 eosinophils
 eparchs
+epaulette
 epees
 ephebe
 ephedra
@@ -4419,6 +4429,7 @@ erective
 ergates
 ergometer
 ergometry
+ergosterol
 ericaceous
 erodible
 erotized
@@ -5604,6 +5615,7 @@ gramme
 grampa
 grandeur
 grandiloquence
+grandness
 grandpapa
 grandparent
 grands
@@ -5872,6 +5884,7 @@ hasenpfeffer
 hatchings
 hatfuls
 hatmakers
+hatpin
 hatred
 hatteria
 haulier
@@ -6066,6 +6079,7 @@ hitman
 hoagie
 hoaxer
 hobbits
+hobbyhorse
 hobbyists
 hobgoblins
 hobnob
@@ -6218,6 +6232,7 @@ hurley
 hurleys
 hurly
 hurries
+hurters
 hurtless
 hurts
 husbanding
@@ -6423,6 +6438,7 @@ impolitely
 impolitical
 imponderably
 imporous
+impose
 imposted
 imposter
 imposthume
@@ -7200,6 +7216,7 @@ lastborn
 latchkeys
 later
 laterad
+laterally
 laterizing
 latexes
 lathering
@@ -7290,6 +7307,7 @@ lentils
 leones
 leopard
 lepidolites
+lepidopterist
 lepidotes
 leprechaunish
 leprose
@@ -7719,6 +7737,7 @@ marvelous
 marvelousnesses
 mascaras
 mascon
+masculinises
 maser
 mashers
 mask
@@ -7877,6 +7896,7 @@ mesophyls
 mesosphere
 mesquit
 mess
+messan
 mestino
 met
 metabolizing
@@ -8254,6 +8274,7 @@ motorises
 motortrucks
 mottes
 moulds
+mountainous
 mountebankery
 mountebanking
 mourn
@@ -8439,9 +8460,11 @@ nathless
 natriuresis
 naturalists
 nature
+naturopathies
 naugahyde
 naughts
 nauseatingly
+nauseousness
 navelwort
 navette
 navvies
@@ -8487,6 +8510,7 @@ neogene
 neologizes
 neology
 neonate
+neonatologist
 neoplasticist
 neostigmine
 nephelites
@@ -9336,6 +9360,7 @@ pacer
 pachyderm
 pacific
 packability
+packagers
 packhorse
 packnesses
 packthread
@@ -9492,6 +9517,7 @@ passade
 passaged
 passageways
 passalong
+passerby
 passerines
 passersby
 passim
@@ -10034,6 +10060,7 @@ pollinia
 pollists
 polluting
 polonium
+polyanthi
 polycarbonates
 polychete
 polyesters
@@ -10969,6 +10996,7 @@ reestablishes
 reestimating
 reexhibited
 refective
+refereed
 referrals
 refigures
 refiltered
@@ -11153,6 +11181,7 @@ repaving
 repentantly
 repertoires
 repetitional
+rephotograph
 rephotographs
 rephrase
 repigment
@@ -11289,6 +11318,7 @@ reticles
 reticule
 retieing
 retightened
+retightens
 retine
 retinitises
 retinoid
@@ -12762,6 +12792,7 @@ starfish
 stark
 starkest
 starry
+starship
 stashing
 stat
 statelessnesses
@@ -13189,6 +13220,7 @@ supported
 suppose
 supposititious
 suppressed
+suppressiveness
 suprarenal
 supremacy
 suprematisms
@@ -13588,6 +13620,7 @@ theatricalizing
 thecal
 theft
 theism
+them
 theme
 theobromine
 theoretic
@@ -14979,9 +15012,11 @@ wicked
 wicking
 wide
 widget
+widowerhoods
 widows
 wielder
 wieldiest
+wienies
 wiggly
 wigmaker
 wigwag
