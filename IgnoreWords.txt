@@ -958,6 +958,7 @@ backflip
 backgammons
 backhand
 backhoe
+backlist
 backlisted
 backloaded
 backloads
@@ -981,12 +982,14 @@ badmen
 baffle
 baffs
 bagasse
+baggier
 baggy
 bagnios
 bagpiped
 bagsful
 bahts
 baidarka
+bailers
 bailey
 baiting
 baits
@@ -1065,6 +1068,7 @@ barraging
 barratry
 barricado
 barristers
+barstool
 bartended
 barterer
 bartisans
@@ -1984,6 +1988,7 @@ caricaturing
 carillonned
 carinated
 caritases
+carnal
 carnaubas
 carnelian
 carneys
@@ -2485,6 +2490,7 @@ coccidioses
 coccus
 cochampion
 cochleae
+cockamamie
 cockatrices
 cockboat
 cockiness
@@ -2789,6 +2795,7 @@ contenting
 contest
 contestant
 contextualized
+continents
 contingent
 contingents
 continuate
@@ -3657,6 +3664,7 @@ detritus
 detumescence
 deuced
 deuterostome
+deva
 devalued
 devalues
 deveined
@@ -3714,6 +3722,7 @@ diarists
 diarrheas
 diastatic
 diastereomeric
+diastereomers
 diasters
 diatribes
 diazine
@@ -3776,6 +3785,7 @@ dimensionality
 dimensioning
 dimercaprol
 dimerisms
+diminuendo
 dimmable
 dimmed
 dimmers
@@ -4066,6 +4076,7 @@ draftspersons
 drag
 draggers
 dragging
+draggle
 dragon
 dramadies
 dramatises
@@ -4875,6 +4886,7 @@ familiarise
 familiarising
 familiars
 famish
+famously
 fan
 fancifies
 fancying
@@ -5771,6 +5783,7 @@ gorgeousness
 gorilla
 gory
 gospellers
+gossips
 gossoon
 gossypol
 gothicized
@@ -6438,6 +6451,7 @@ hurleys
 hurly
 hurries
 hurters
+hurtles
 hurtless
 hurts
 husbanding
@@ -6724,6 +6738,7 @@ inconsonant
 incontinences
 incorporate
 incorporations
+incorrigibles
 incorrupted
 incredibly
 incredulities
@@ -6764,6 +6779,7 @@ inditers
 inditing
 indium
 individuating
+indivisibility
 indivisible
 indoctrinator
 indomethacin
@@ -6856,6 +6872,7 @@ inkle
 inmesh
 inned
 innermost
+innerved
 innkeepers
 innocent
 innocentest
@@ -7177,6 +7194,7 @@ jerking
 jesuitry
 jetons
 jetport
+jeu
 jibbing
 jiber
 jibs
@@ -7376,6 +7394,7 @@ kunzites
 kurtas
 kwashiorkor
 kyacks
+kyanite
 kyboshes
 kylix
 labarums
@@ -8031,6 +8050,7 @@ matchmarking
 matchstick
 mater
 materialises
+materialness
 materials
 mathematics
 matinee
@@ -8168,6 +8188,7 @@ mesosphere
 mesquit
 mess
 messan
+messy
 mestino
 met
 metabolize
@@ -8911,6 +8932,7 @@ noblemen
 nobleness
 noblewoman
 nobs
+nocturn
 nods
 noisomeness
 noisy
@@ -9044,6 +9066,7 @@ nonshrinkable
 nonsignificant
 nonsked
 nonskiers
+nonsocial
 nonsynchronous
 nontalkers
 nonthinking
@@ -10204,6 +10227,7 @@ piggies
 piggishnesses
 pikeperches
 piker
+pikestaves
 pikis
 pilchards
 pilgrimaging
@@ -10655,6 +10679,7 @@ presbyterate
 prescience
 prescind
 prescinding
+prescoring
 prescribers
 presence
 presentable
@@ -12283,6 +12308,7 @@ screechiest
 screener
 screenlands
 screwbeans
+screwworms
 scribble
 scrieve
 scrieves
@@ -12452,6 +12478,7 @@ septette
 septicemias
 septum
 septupled
+septuples
 sepulchring
 sequelae
 sequestrations
@@ -12507,6 +12534,7 @@ shaley
 sham
 shamanic
 shamas
+shame
 shamefacedness
 shammes
 shamosim
@@ -12977,6 +13005,7 @@ somewhat
 somewhen
 sommeliers
 somnambulists
+somniferous
 somoni
 son
 sonance
@@ -12988,6 +13017,7 @@ sonicated
 sonlike
 sonnet
 sonority
+soothed
 soothes
 sootiest
 sooty
@@ -13047,6 +13077,7 @@ spambot
 spammed
 spanakopitas
 spancel
+spandexes
 spangled
 spanning
 spanokopita
@@ -13262,6 +13293,7 @@ stavudines
 staw
 staysail
 steaded
+steady
 stealing
 steamfitter
 steamily
@@ -14134,6 +14166,7 @@ thinkings
 thiotepa
 thirl
 thirsty
+thirteens
 thirty
 thistle
 thistledowns
@@ -14193,6 +14226,7 @@ ticklish
 tictac
 tictoc
 tictocked
+tictocs
 tideland
 tidewaters
 tideways
@@ -14731,6 +14765,7 @@ unclarities
 unclarity
 unclinch
 uncloak
+unclothed
 uncloudy
 unclutters
 uncoffin
