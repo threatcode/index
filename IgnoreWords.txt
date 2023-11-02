@@ -349,6 +349,7 @@ alps
 alter
 altered
 alterers
+alternations
 alternatives
 althorns
 altigraphs
@@ -844,6 +845,7 @@ augural
 augury
 auk
 auld
+aureole
 aures
 auricles
 aurum
@@ -1426,6 +1428,7 @@ boehmites
 boffola
 bogbean
 bogeyman
+bogged
 bogginess
 bogie
 bogies
@@ -1724,6 +1727,7 @@ burred
 bursars
 bursitis
 burster
+bushbucks
 bushelmen
 bushgoat
 bushinesses
@@ -1737,6 +1741,7 @@ busses
 busters
 bustiest
 bustline
+bustlingly
 butanols
 butles
 butterballs
@@ -1826,6 +1831,7 @@ caltrap
 calvarial
 calyculi
 calypsos
+cam
 camails
 camas
 cambism
@@ -2152,6 +2158,7 @@ checkpoint
 cheddar
 cheder
 cheerleader
+cheesecloths
 cheesy
 chefdom
 cheffing
@@ -2646,6 +2653,7 @@ condor
 condylar
 condylomas
 conepate
+confectioner
 conferees
 conferments
 confess
@@ -2818,6 +2826,7 @@ cornfields
 cornhusk
 corniche
 cornicle
+cornuted
 coronae
 coronaries
 coroner
@@ -2889,6 +2898,7 @@ counterefforts
 counterfeiter
 counterimages
 countermand
+countermands
 countermyth
 counterpicketed
 counterpleas
@@ -3907,6 +3917,7 @@ doodad
 doohickeys
 doomsayings
 doomsdayers
+doorways
 doozer
 doozie
 dope
@@ -4506,6 +4517,7 @@ ester
 esthetes
 estoppels
 estreat
+estrone
 estuarial
 esurient
 etamins
@@ -4765,6 +4777,7 @@ famish
 fan
 fancifies
 fancying
+fanfaronades
 fanfold
 fanfolded
 fang
@@ -4950,11 +4963,13 @@ finning
 fino
 finochios
 fique
+fireballs
 firebombs
 firebrands
 firehouse
 firelock
 firemen
+fireside
 firewalls
 firn
 firstly
@@ -4969,6 +4984,7 @@ fistfight
 fisticuff
 fistular
 fistulas
+fitchet
 fitchets
 fitchews
 fitfully
@@ -5333,6 +5349,7 @@ gaffes
 gaffs
 gaillardias
 gaining
+gala
 galenical
 galettes
 galiot
@@ -5765,6 +5782,7 @@ gruffish
 grumble
 grumblingly
 grummest
+grummeted
 grungier
 grunions
 grutching
@@ -6524,6 +6542,7 @@ impulsively
 imputative
 imputers
 inaccurately
+inactivates
 inactivating
 inadmissibly
 inadvisable
@@ -7266,6 +7285,7 @@ lapper
 lappers
 lapse
 lapstreak
+lapsus
 larcenies
 largest
 lari
@@ -7565,6 +7585,7 @@ lording
 lordlier
 lorgnon
 lories
+lorises
 lornnesses
 lostnesses
 lotuses
@@ -7971,6 +7992,7 @@ mess
 messan
 mestino
 met
+metabolize
 metabolizing
 metacarpus
 metachromatic
@@ -8178,6 +8200,7 @@ mispackages
 misphrases
 mispointing
 misprint
+misprisions
 mispronounced
 misquotations
 misquoter
@@ -8405,6 +8428,7 @@ multiparae
 multiparameter
 multiparous
 multiple
+multiplexer
 multiplicands
 multiplied
 multiplies
@@ -9404,6 +9428,7 @@ overstocking
 overstrews
 overstrode
 overstudying
+oversudsed
 overtake
 overtaxations
 overtopping
@@ -9630,6 +9655,7 @@ paten
 patentable
 pater
 pathetic
+pathobiology
 pathogen
 pathogene
 pathogenies
@@ -9673,6 +9699,7 @@ pecuniary
 pedagogics
 pedagogs
 pedaller
+pedestaling
 pedestrian
 pedestrians
 pedicles
@@ -10411,6 +10438,7 @@ pretermits
 pretermitting
 pretorians
 prettied
+prettying
 pretype
 prevenient
 preveniently
@@ -10561,6 +10589,7 @@ protonema
 protoplast
 protostelic
 prototype
+prototypes
 protozoology
 protract
 protyle
@@ -11092,6 +11121,7 @@ reequipments
 reescalates
 reestablishes
 reestimating
+reexecuting
 reexhibited
 refective
 refereed
@@ -11797,6 +11827,7 @@ sandalled
 sandbagger
 sandbar
 sandbur
+sandhogs
 sandlike
 sandlot
 sandpapered
@@ -12808,6 +12839,7 @@ spliffs
 splintering
 splinters
 split
+splutter
 spoilable
 spontaneities
 spoofery
@@ -13530,6 +13562,7 @@ talmudism
 tamale
 tamarau
 tambac
+tambouring
 tambur
 tameins
 tameless
@@ -14060,6 +14093,7 @@ transported
 transposing
 transverse
 trapan
+trapezist
 trapeziuses
 traplike
 trattorias
@@ -14890,6 +14924,7 @@ vitiations
 vitrifications
 vitrines
 vitriol
+vitriolling
 vittled
 vituperating
 vituperatory
