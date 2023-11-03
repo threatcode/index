@@ -714,6 +714,7 @@ areolar
 areole
 areoles
 arepas
+argents
 arginines
 argufied
 argument
@@ -1167,6 +1168,7 @@ beedi
 beefing
 beehives
 beelines
+beelining
 beerier
 beeriness
 beers
@@ -1679,6 +1681,7 @@ brittler
 brittling
 broadening
 broadlooms
+broccoli
 broccolis
 brocolis
 brogan
@@ -1689,6 +1692,7 @@ bromeliads
 bromid
 bromide
 bromocriptines
+bronchial
 bronchogenic
 bronchoscopies
 bronzy
@@ -1761,6 +1765,7 @@ bungee
 bunkmates
 bunn
 bunraku
+buns
 bunyas
 buoy
 buoyage
@@ -2219,6 +2224,7 @@ charms
 charnels
 charpai
 charqui
+charquis
 chartists
 chasmic
 chassepot
@@ -3498,6 +3504,7 @@ defrocking
 defter
 deftnesses
 defusers
+defuses
 degendering
 degenerateness
 degerming
@@ -3755,6 +3762,7 @@ diagenetically
 diagnose
 dial
 dialectologists
+diallages
 diallel
 diallists
 dialogists
@@ -4135,6 +4143,7 @@ dragging
 draggle
 dragon
 dramadies
+dramatised
 dramatises
 dramatists
 dramatizable
@@ -4443,6 +4452,7 @@ embruting
 embryo
 embryogeny
 emcees
+emdash
 emendating
 emergencies
 emergent
@@ -4634,6 +4644,7 @@ epoxidation
 epsilons
 equaliser
 equalize
+equals
 equated
 equestrian
 equiangular
@@ -4942,6 +4953,7 @@ faking
 fakir
 fallacious
 fallaciousness
+fallalery
 fallaways
 fallible
 falsest
@@ -5378,6 +5390,7 @@ forgot
 forjudging
 forker
 formalism
+formalizing
 formate
 formations
 formed
@@ -7628,6 +7641,7 @@ leanness
 learned
 learners
 learnings
+lears
 leaseback
 leaser
 leastwise
@@ -7873,6 +7887,7 @@ lorded
 lording
 lordlier
 lorgnon
+loricate
 lories
 lorises
 lornnesses
@@ -8087,6 +8102,7 @@ map
 marabouts
 maras
 marascas
+marasmuses
 marathoners
 marbelize
 marbelizes
@@ -8419,6 +8435,7 @@ millimole
 millions
 milliosmol
 millponds
+millruns
 millwrights
 milpa
 milt
@@ -8592,6 +8609,7 @@ moistnesses
 moisture
 moisturises
 moisturising
+molasses
 moldinesses
 moldings
 molest
@@ -9982,6 +10000,7 @@ parenthesize
 parenthetic
 parenting
 paresis
+paresthesias
 paretic
 parkings
 parkways
@@ -10268,6 +10287,7 @@ phallist
 phantasmagoric
 phantast
 pharmacognosies
+pharmacognostic
 pharmacognosy
 pharmacopeia
 pharmacopoeias
@@ -10341,6 +10361,7 @@ photoresist
 photoresists
 photosensitized
 photostating
+photostatted
 photostatting
 photosynthate
 photosynthesize
@@ -11366,6 +11387,7 @@ rawish
 raygrasses
 raylessnesses
 razzes
+reaccessions
 reacclimatize
 reacquisition
 reacquisitions
@@ -11484,6 +11506,7 @@ reconverted
 recook
 recopied
 recounters
+recoupe
 recoveries
 recreance
 recreant
@@ -11543,6 +11566,7 @@ redpolls
 redraft
 redrafting
 redrilled
+redrilling
 redroots
 redry
 reds
@@ -13306,6 +13330,7 @@ speakerphone
 speared
 spearfish
 spearheading
+specializations
 specials
 specialties
 speciation
@@ -13389,6 +13414,7 @@ spookeries
 spookiest
 spookiness
 spooks
+spooler
 spooned
 spoonsful
 spoor
@@ -13424,6 +13450,7 @@ sprucing
 spumes
 spumous
 spunk
+spunkiest
 spurner
 spurting
 squalling
@@ -14204,11 +14231,13 @@ teabox
 teachable
 teacupful
 teakwood
+tealike
 teammates
 teared
 tearer
 tearier
 tearily
+tearing
 teasable
 tease
 teashops
@@ -14308,6 +14337,7 @@ terns
 terpineols
 terrane
 terrapins
+terret
 terribleness
 terrifically
 terrifying
@@ -14479,6 +14509,7 @@ timeworn
 timidly
 timidness
 timothies
+tinder
 tine
 tineids
 tinglers
@@ -14925,6 +14956,7 @@ umbonate
 umbral
 umbras
 umbrellaed
+unabashed
 unabashedly
 unabating
 unabetted
@@ -15255,6 +15287,7 @@ unthroning
 until
 untimely
 untrapped
+untruly
 untucked
 untufted
 unturned
@@ -15536,6 +15569,7 @@ vitriolling
 vittled
 vituperating
 vituperatory
+vive
 vividness
 vivisection
 vizierate
@@ -15895,6 +15929,7 @@ womera
 wommeras
 won
 wondered
+wonderer
 wonderwork
 wonderworks
 wonner
