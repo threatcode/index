@@ -1,0 +1,4 @@
+Admin login,http://178.73.210.84:5984/login/gs/m2f/view/layout.php/install/froxlor.sql
+Retina Report,http://54.37.17.101:83/login-redirect/5984.sql
+Big,http://185.14.187.205:8000/login/install/dbconnect.inc/185.14.187.205:84.sql
+VitalQIP,"http://192.252.223.46:5984/login,asp/shopping.php/192.252.223.46:37215_db.sql"
