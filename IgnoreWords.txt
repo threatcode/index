@@ -175,6 +175,7 @@ admen
 administrant
 admissibilities
 admonished
+admonisher
 admonishers
 admonishment
 adobo
@@ -649,6 +650,7 @@ antimonopolist
 antinomy
 antioxidants
 antipiracy
+antipope
 antipot
 antiquated
 antiqued
@@ -1423,6 +1425,7 @@ bibliotherapy
 biblists
 bicameralism
 bicarb
+bichromates
 bickerer
 bicolors
 bicycler
@@ -1850,6 +1853,7 @@ brickyards
 briefcases
 briefing
 brier
+brierroot
 brigaded
 brightening
 brightest
@@ -2238,6 +2242,7 @@ carpals
 carpentered
 carpetbaggers
 carpetbags
+carpi
 carr
 carrel
 carrell
@@ -3040,6 +3045,7 @@ condottieri
 condylar
 condylomas
 conepate
+confabulators
 confectioner
 conferees
 conferments
@@ -3914,6 +3920,7 @@ demarches
 demark
 demarking
 demasting
+dematerialize
 dematerializes
 dement
 dementednesses
@@ -4231,6 +4238,7 @@ dimpliest
 dims
 dineric
 dinettes
+dingers
 dinghy
 dinitrophenols
 dinnertime
@@ -4370,6 +4378,7 @@ disprizes
 disputer
 disquiets
 disrates
+disrelated
 disrelish
 disrelished
 disrepair
@@ -4454,6 +4463,7 @@ doggedness
 dogger
 doggerels
 doggers
+doggishness
 doggy
 dogsledder
 dogteeth
@@ -5466,6 +5476,7 @@ familiars
 famish
 famishing
 famously
+famuli
 fan
 fancifies
 fanciful
@@ -6000,6 +6011,7 @@ frequentation
 frescoes
 frescos
 freshet
+freshly
 fresnel
 friarbirds
 fricassees
@@ -6330,6 +6342,7 @@ glaring
 glassblowing
 glasshouses
 glassines
+glassless
 glassmakings
 glassware
 glaucousnesses
@@ -6844,6 +6857,7 @@ headwaiter
 headwater
 headwaters
 heady
+healthiness
 hearers
 hearings
 hearkener
@@ -8853,6 +8867,7 @@ mandrills
 manducating
 maneuverer
 manful
+manganites
 manganous
 mangas
 mangiest
@@ -8906,6 +8921,7 @@ marcher
 marchioness
 margaric
 margarins
+marginalize
 marginally
 marginate
 marginations
@@ -9065,6 +9081,7 @@ melty
 memes
 memorably
 memorialize
+memorializes
 memorializing
 memorizers
 menaced
@@ -9994,6 +10011,7 @@ noncollegiate
 noncollinear
 noncolor
 noncombat
+noncompetitor
 noncompliance
 noncomputer
 nonconductor
@@ -10345,6 +10363,7 @@ onomatology
 onomatopoeic
 onos
 onshore
+onslaught
 ontically
 onuses
 onward
@@ -11204,6 +11223,7 @@ pernods
 perovskite
 peroxidase
 peroxide
+peroxiding
 peroxisomes
 perpetrated
 perpetration
@@ -12086,6 +12106,7 @@ prosciutto
 prosciuttos
 proscribes
 prosecutes
+prosecution
 proselytized
 proselytizer
 proselytizers
@@ -12517,6 +12538,7 @@ reanimated
 reanimates
 reannex
 reannexation
+reanoint
 reappointments
 reapportions
 reapproving
@@ -12629,9 +12651,11 @@ rectifiability
 rectocele
 rectory
 rectos
+rectum
 recursivenesses
 recurve
 recusancies
+recutting
 recycler
 recycling
 redacted
@@ -13057,6 +13081,7 @@ restful
 restimulates
 restitched
 restitution
+restoke
 restoked
 restored
 restrain
@@ -13114,6 +13139,7 @@ retrainees
 retransmission
 retransmit
 retread
+retriever
 retrievers
 retrieving
 retrogradation
@@ -13762,6 +13788,7 @@ scutages
 scutate
 scutches
 scute
+scutiform
 scuzzes
 scyphistomas
 scythe
@@ -13860,6 +13887,7 @@ seme
 sememes
 semi
 semiarid
+semiaridity
 semicircle
 semicolonial
 semiconductor
@@ -14600,6 +14628,7 @@ sparriest
 sparser
 sparsest
 sparsities
+spatiotemporal
 spatzle
 spawned
 speakerphone
@@ -14679,6 +14708,7 @@ splashing
 splashy
 splatter
 spleeny
+splendidest
 splendiferous
 spliced
 spliffs
@@ -14990,6 +15020,7 @@ strips
 strobilae
 strobilar
 strode
+strollers
 stronghold
 strongmen
 strontic
@@ -15165,6 +15196,7 @@ succubas
 succulently
 suchness
 sucked
+suckering
 suckle
 sucks
 suctions
@@ -16109,6 +16141,7 @@ travelling
 trayfuls
 treacheries
 treacherous
+treadling
 treatability
 treble
 trecentos
@@ -16343,6 +16376,7 @@ ultimata
 ultimogeniture
 ultrabasics
 ultraexclusive
+ultrahazardous
 ultraheating
 ultraleft
 ultramarathon
@@ -16932,6 +16966,7 @@ verites
 verities
 vermilion
 vermilioned
+vermin
 verminous
 vernal
 vernalizing
