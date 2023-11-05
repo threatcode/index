@@ -1,0 +1,9 @@
+Documentation/features/locking/queued-spinlocks/arch-support.txt ...,https://coral.googlesource.com/linux-imx/%2B/refs/tags/2/Documentation/features/locking/queued-spinlocks/arch-support.txt%3Fautodive%3D0%252F%252F%252F
+Documentation/features/locking/queued-rwlocks/arch-support.txt ...,https://coral.googlesource.com/linux-imx/%2B/refs/heads/codeaurora-linux-4.19.y/Documentation/features/locking/queued-rwlocks/arch-support.txt%3Fautodive%3D0%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F
+RFC 1046,https://www.rfc-editor.org/rfc/rfc1046.txt
+https://docs.openstack.org/glance/ocata/_sources/s...,https://docs.openstack.org/glance/ocata/_sources/statuses.txt
+RFC 938 - IETF,https://www.ietf.org/rfc/rfc0938.txt
+www.ada-auth.org/cgi-bin/cvsweb.cgi/ais/ai-00045.t...,http://www.ada-auth.org/cgi-bin/cvsweb.cgi/ais/ai-00045.txt%3Frev%3D1.1.1.1
+noqueue - Linux-tc-notes Notes on the Linux Traffic Control Engine,https://linux-tc-notes.sourceforge.net/tc/doc/sch_noqueue.txt
+https://www.kernel.org/doc/html/v4.12/_sources/cor...,https://www.kernel.org/doc/html/v4.12/_sources/core-api/workqueue.rst.txt
+log_dest.txt - NetApp Community,https://community.netapp.com/fukiw75442/attachments/fukiw75442/data-ontap-discussions/36224/1/log_dest.txt
