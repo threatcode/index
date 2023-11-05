@@ -374,6 +374,7 @@ aliennesses
 align
 alimental
 alimented
+aliteracy
 aliterates
 alkahest
 alkali
@@ -1011,6 +1012,7 @@ authoritative
 autochthon
 autochthonously
 autocracy
+autogenous
 autogenously
 autograph
 autography
@@ -1089,6 +1091,7 @@ bacchantes
 bacchants
 baches
 backbitings
+backbone
 backchat
 backcourtman
 backcourts
@@ -2813,6 +2816,7 @@ clue
 clueing
 clump
 clumsier
+clumsily
 clumsiness
 clunkier
 clunkiest
@@ -2930,6 +2934,7 @@ coinsurers
 cointer
 coinventor
 coital
+colby
 colchicum
 colcothars
 coldhearted
@@ -2941,6 +2946,7 @@ colicweed
 colinearity
 colins
 collaborated
+collaborations
 collaboratives
 collaborator
 collage
@@ -3053,6 +3059,7 @@ complainant
 complainants
 complained
 complexed
+complexer
 complexified
 complicatedly
 complicates
@@ -4407,6 +4414,7 @@ disciplinarians
 discipliner
 discolored
 discolouring
+discomforting
 discommended
 discomposures
 disconnecting
@@ -4658,6 +4666,7 @@ doxycyclines
 drabbling
 drabnesses
 draftee
+drafter
 draftspersons
 drag
 draggers
@@ -4818,6 +4827,7 @@ dwarfnesses
 dweebs
 dwelled
 dwells
+dybbuk
 dybbuks
 dyeweed
 dying
@@ -4842,6 +4852,7 @@ earache
 earbud
 eardrop
 earfuls
+earliness
 earlinesses
 earns
 earringed
@@ -6560,6 +6571,7 @@ glycerinates
 glycerinating
 glycerines
 glycoproteins
+glycosidic
 glycosidically
 glycosurias
 glycosylate
@@ -6594,6 +6606,7 @@ goffers
 goggle
 goldbricked
 goldener
+goldsmiths
 golliwog
 golliwogs
 gomphoses
@@ -7314,6 +7327,7 @@ hosepipe
 hospitalise
 hospitalized
 hospitals
+hosta
 hosteler
 hostelers
 hostelries
@@ -8333,6 +8347,7 @@ karsts
 karyotins
 katcina
 katsura
+kaury
 kayo
 kazatskies
 kebars
@@ -8524,6 +8539,7 @@ landlines
 landslides
 landward
 lane
+lang
 langlaufs
 laniard
 lanosities
@@ -8598,6 +8614,7 @@ laywomen
 laze
 lazies
 lazinesses
+lazurite
 lazurites
 leached
 leacher
@@ -8683,6 +8700,7 @@ leukoplakic
 leukopoiesis
 leukosis
 levanters
+level
 leveled
 leveret
 leviathans
@@ -9459,6 +9477,7 @@ midmosts
 midnightly
 midnoons
 midsagittal
+midspaces
 midterms
 midweekly
 midwifes
@@ -9750,6 +9769,7 @@ monotypic
 monounsaturate
 monounsaturated
 monovalent
+montagnards
 montane
 monteith
 monumentalize
@@ -10361,6 +10381,7 @@ nonskid
 nonskiers
 nonsocial
 nonsynchronous
+nonsystemic
 nontalkers
 nontemporal
 nontheoretical
@@ -10455,6 +10476,7 @@ nuncupative
 nunnation
 nursery
 nursing
+nurture
 nurtured
 nurtures
 nutmeat
@@ -11981,6 +12003,7 @@ pornos
 porphyria
 porphyric
 porphyry
+portabilities
 portability
 portal
 portamenti
@@ -12338,6 +12361,7 @@ proletarian
 proletarianised
 proletarianize
 prolifically
+prolixity
 prologist
 prologuized
 prolonges
@@ -12413,6 +12437,7 @@ prostrations
 prostyles
 prosy
 protegee
+proteges
 proteids
 proteolysis
 prothallium
@@ -12631,6 +12656,7 @@ quartiers
 quaternaries
 quaylike
 quebrachos
+queendom
 queenliest
 queers
 queriers
@@ -13009,6 +13035,7 @@ redubbing
 redubs
 reducers
 reductionist
+reductivenesses
 redundantly
 reduplicate
 reduplicatively
@@ -13546,6 +13573,7 @@ ridings
 ridley
 rids
 rievers
+rifamycin
 rife
 riffle
 rigadoons
@@ -13957,6 +13985,7 @@ scandalized
 scandalmonger
 scapegoatisms
 scapegraces
+scapolites
 scapula
 scapulary
 scapulas
@@ -14958,6 +14987,7 @@ sparsities
 spatiotemporal
 spatzle
 spawned
+spawners
 speakerphone
 speared
 spearfish
@@ -16194,6 +16224,7 @@ threadworm
 threaps
 threepence
 threepences
+threnodist
 threshing
 thresholds
 thrillingly
@@ -16903,6 +16934,7 @@ undermanned
 undermining
 underpaintings
 underplays
+underpricing
 undersaturated
 undersecretary
 understand
@@ -17297,6 +17329,7 @@ velarize
 velarized
 velarizing
 velcro
+velociraptors
 velour
 velveted
 vendable
@@ -17455,6 +17488,7 @@ voiced
 voicings
 voidances
 voided
+voiders
 voile
 voiles
 volatileness
@@ -17634,6 +17668,7 @@ weblike
 webmasters
 webpages
 wedlocks
+weeded
 weeks
 weensier
 weepier
