@@ -210,6 +210,7 @@ adrift
 adroitnesses
 adscripts
 adsorbable
+adsorbers
 adularia
 adult
 adulterant
@@ -1349,6 +1350,7 @@ beaneries
 bearcat
 bearcats
 beardtongue
+bearer
 beastliest
 beat
 beatniks
@@ -1681,6 +1683,7 @@ blearily
 blears
 blemishing
 blenders
+blennioid
 blesbucks
 bless
 blessedest
@@ -1831,6 +1834,7 @@ border
 boreen
 boresome
 boride
+borosilicates
 boroughs
 borscht
 borts
@@ -2322,6 +2326,7 @@ capacitance
 capacitor
 capelan
 capelans
+capering
 capes
 capillary
 capitalism
@@ -4179,6 +4184,7 @@ defter
 deftnesses
 defusers
 defuses
+defuzing
 degaussing
 degendering
 degenerateness
@@ -4628,6 +4634,7 @@ disallows
 disappointed
 disappointingly
 disapprove
+disapprovers
 disapproves
 disassembles
 disavowable
@@ -4813,6 +4820,7 @@ dodgem
 dodoisms
 doer
 doers
+doffing
 doffs
 dogbane
 dogfight
@@ -5275,6 +5283,7 @@ embezzled
 emblazoner
 emblazonment
 emblazonry
+emblemize
 embodiments
 embodying
 embolden
@@ -6012,6 +6021,7 @@ felicitous
 feline
 felled
 fellmongerings
+fellows
 felonious
 felonries
 felons
@@ -6153,6 +6163,7 @@ finochios
 fique
 fireballs
 firebombs
+fireboxes
 firebrands
 firefang
 firehouse
@@ -6997,6 +7008,7 @@ goosiest
 gorbelly
 gorgeousness
 gorilla
+gorily
 gory
 gospellers
 gossipped
@@ -7270,6 +7282,7 @@ hadrosaur
 haematal
 haematin
 haemins
+haets
 hafiz
 haft
 haftarah
@@ -8440,6 +8453,7 @@ internally
 internationally
 interned
 internee
+interpellating
 interpermeating
 interpersonally
 interpleading
@@ -8890,6 +8904,7 @@ kistfuls
 kit
 kitchenettes
 kiting
+kitschify
 kittenishnesses
 kitty
 kiwifruits
@@ -9260,6 +9275,7 @@ lingo
 linguistician
 linkboys
 lint
+lintels
 linter
 linters
 linty
@@ -9542,6 +9558,7 @@ maidenlinesses
 mailbox
 mailing
 mailings
+mainsail
 mainsails
 maisonettes
 make
@@ -9960,6 +9977,7 @@ microelectrode
 microelectronic
 microelements
 microfilmed
+microfilmer
 microfungi
 microgametocyte
 microgram
@@ -10025,6 +10043,7 @@ millimole
 millions
 milliosmol
 millirem
+millirems
 milliroentgen
 millponds
 millruns
@@ -10867,6 +10886,7 @@ nondrivers
 nondrug
 noneconomic
 noneconomist
+noneditorial
 noneducation
 nonelect
 nonelections
@@ -11088,6 +11108,7 @@ oblanceolate
 obligable
 obligately
 obligates
+obligations
 obligers
 obligingness
 obliqued
@@ -12551,6 +12572,7 @@ podiums
 podophyllins
 poetaster
 poetesses
+poetiser
 pogonia
 pogromed
 pogroming
@@ -12791,6 +12813,7 @@ prearranges
 preassigned
 preatomic
 prebade
+prebidden
 prebilled
 prebilling
 prebiologic
@@ -13834,6 +13857,7 @@ refunded
 refusable
 refuseniks
 refuser
+refutably
 regalities
 regarded
 regearing
@@ -13980,6 +14004,7 @@ renaissances
 rename
 renaming
 rencontre
+rended
 renderings
 renegade
 renegaded
@@ -14230,6 +14255,7 @@ returned
 retypes
 reunionist
 reused
+reutilizations
 reutilizing
 revampers
 revarnishes
@@ -14895,6 +14921,7 @@ scrotums
 scrouge
 scrounged
 scrubwomen
+scrummage
 scrummed
 scruples
 sculches
@@ -15197,6 +15224,7 @@ sheriff
 sheriffdoms
 sheriffs
 sherifs
+sheugh
 shewed
 shewer
 shied
@@ -15344,6 +15372,7 @@ silicoses
 silken
 silkier
 silkily
+silking
 sillabubs
 siltier
 silts
@@ -15496,6 +15525,7 @@ sleepwalked
 sleepy
 slender
 slenderized
+slenderizing
 slewing
 slickness
 slickrock
@@ -15928,6 +15958,7 @@ spoonsful
 spoor
 sporotrichosis
 sporozoans
+sporozoite
 sportfully
 sportive
 sportsmanly
@@ -17140,6 +17171,7 @@ threshing
 thresholds
 thrillingly
 thrills
+throatily
 throb
 throes
 thromboses
@@ -17648,6 +17680,7 @@ turnings
 turnspit
 turnup
 turpeth
+turquois
 turrets
 turtler
 tushes
@@ -18532,6 +18565,7 @@ waist
 waistbands
 waister
 waisters
+waists
 waitering
 waiting
 waitlisted
@@ -18881,6 +18915,7 @@ wommeras
 won
 wondered
 wonderer
+wonderments
 wonderwork
 wonderworks
 wonner
