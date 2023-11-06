@@ -266,6 +266,7 @@ affinities
 affinity
 affirmants
 affirmation
+affirmed
 affirms
 afflatus
 afflicting
@@ -1110,6 +1111,7 @@ baaing
 baals
 baasskap
 babble
+babbler
 babblings
 babu
 babying
@@ -1260,6 +1262,7 @@ barrage
 barraging
 barratry
 barred
+barrennesses
 barricado
 barristers
 barrooms
@@ -2597,6 +2600,7 @@ chatted
 chatterers
 chaunting
 chauvinisms
+cheapie
 cheapskates
 chebec
 checkable
@@ -3354,6 +3358,7 @@ conventions
 conversancies
 convert
 converters
+convertibles
 convertiplane
 conveyer
 convict
@@ -3644,6 +3649,7 @@ crinolines
 crises
 crisis
 crispening
+crispens
 crisper
 crispier
 criticaster
@@ -3897,6 +3903,7 @@ darkie
 darking
 darky
 darlingness
+darndest
 dartle
 dasheens
 dastards
@@ -4091,6 +4098,7 @@ defter
 deftnesses
 defusers
 defuses
+degaussing
 degendering
 degenerateness
 degerming
@@ -4561,6 +4569,7 @@ discordantly
 discountenances
 discourteously
 discrediting
+discrepancy
 discriminated
 discus
 discuses
@@ -4673,6 +4682,7 @@ dittoing
 diurnally
 divan
 dive
+divebombs
 diver
 divergencies
 diversionist
@@ -4686,6 +4696,7 @@ divinized
 divisive
 divisiveness
 divorcements
+divots
 divulse
 divvied
 djebels
@@ -4963,6 +4974,7 @@ durion
 durmasts
 durning
 durries
+duskier
 dustcover
 dustcovers
 dusters
@@ -5294,6 +5306,7 @@ enkindler
 enlace
 enlacement
 enlightening
+enlistees
 enlisters
 enneagon
 ennoblement
@@ -5480,6 +5493,7 @@ ester
 esterases
 esthetes
 estoppels
+estradiols
 estreat
 estrone
 estuarial
@@ -5606,6 +5620,7 @@ exercisers
 exerting
 exfoliates
 exhale
+exhalent
 exhaustive
 exhedrae
 exhibiting
@@ -5668,6 +5683,7 @@ expressionism
 expressive
 expressiveness
 expressmen
+expresso
 expunction
 expunctions
 expunges
@@ -5988,6 +6004,7 @@ filovirus
 filthiest
 filtrate
 filtrating
+filtrations
 finalisms
 finalize
 finals
@@ -7700,6 +7717,7 @@ hypermutability
 hyperons
 hyperope
 hyperopic
+hyperparasite
 hyperphagic
 hyperpneic
 hyperpolarizes
@@ -10400,6 +10418,7 @@ neatherd
 neatherds
 neatniks
 nebula
+nebulise
 nebulize
 nebulized
 necessitate
@@ -11215,6 +11234,7 @@ outproduce
 outrageously
 outraised
 outrance
+outrated
 outrating
 outrebound
 outrider
@@ -11374,6 +11394,7 @@ overplayed
 overplots
 overpotent
 overpowering
+overpraises
 overprecise
 overprescribed
 overpricing
@@ -11597,6 +11618,7 @@ parasitical
 parasitoid
 parasitologist
 parathormones
+paratyphoid
 parboiling
 parboils
 parceled
@@ -12228,6 +12250,7 @@ pleasingness
 pleats
 pledged
 pledging
+pleiotaxy
 pleiotropies
 plenist
 plenties
@@ -12802,6 +12825,7 @@ propensity
 prophecies
 propines
 propining
+propionates
 propitiousness
 propman
 proposals
@@ -13293,6 +13317,7 @@ reascent
 reason
 reasonably
 reasoner
+reassembles
 reassert
 reassertion
 reassigned
@@ -13399,6 +13424,7 @@ rectocele
 rectory
 rectos
 rectum
+recurrence
 recursivenesses
 recurve
 recusancies
@@ -13577,6 +13603,7 @@ reinjured
 reink
 reinsertions
 reinspections
+reinstallation
 reinstallations
 reinstituting
 reinsurance
@@ -13764,6 +13791,7 @@ requiescats
 required
 requisite
 requiting
+reraising
 reread
 reregister
 reregisters
@@ -13987,6 +14015,7 @@ rhyolites
 rhythmization
 rhytidomes
 ribaldries
+ribalds
 ribband
 ribbing
 ribbonfishes
@@ -14364,6 +14393,7 @@ sapota
 sapour
 sapphism
 sapphisms
+sappily
 sappiness
 saprogenicity
 saprophagous
@@ -14952,6 +14982,7 @@ sicklier
 sickos
 sidebar
 sideboard
+sidelights
 sideling
 sidepiece
 siderites
@@ -15647,6 +15678,7 @@ staggier
 staghounds
 stagnance
 staidest
+staidly
 staigs
 stainable
 stained
@@ -17217,6 +17249,7 @@ tubeworks
 tubificids
 tubocurarine
 tubulous
+tuck
 tucket
 tucks
 tuitional
@@ -18116,6 +18149,7 @@ wainscot
 wainscotted
 wainscottings
 wairing
+waist
 waistbands
 waister
 waisters
@@ -18584,6 +18618,7 @@ yirred
 yobboes
 yock
 yocks
+yoctoseconds
 yodles
 yogic
 yogurts
