@@ -856,6 +856,7 @@ archegonium
 archesporia
 archetypes
 archfiends
+archfoe
 archil
 archine
 architectures
@@ -1412,6 +1413,7 @@ bedeviling
 bedevilments
 bedframe
 bediapered
+bediapers
 bedighted
 bedimpling
 bedizen
@@ -1799,6 +1801,7 @@ blurt
 blurted
 blusher
 blushes
+blypes
 bo
 boar
 boarders
@@ -2216,6 +2219,7 @@ busses
 busters
 busticating
 bustiest
+busting
 bustline
 bustlingly
 busywork
@@ -3248,6 +3252,7 @@ colorcasting
 colorers
 colorfast
 colorfastness
+colorfulness
 colorists
 colostrum
 colpitis
@@ -4062,6 +4067,7 @@ czarism
 dabbed
 dacquoises
 dactyli
+dactylology
 dactylus
 dadaisms
 daffed
@@ -4235,6 +4241,7 @@ declaimed
 declarants
 declaration
 declaratory
+declarers
 declasses
 declaw
 declension
@@ -5005,6 +5012,7 @@ domiciliates
 domicils
 dominative
 dominicker
+dominiques
 donga
 donnas
 donnees
@@ -5163,6 +5171,7 @@ dropsy
 dropt
 drosses
 drossy
+drought
 droughtiest
 drownd
 drowned
@@ -5213,6 +5222,7 @@ dumbfounders
 dumbing
 dumbly
 dumbwaiters
+dumfounded
 dummying
 dumpcart
 dumpiest
@@ -5446,6 +5456,7 @@ embeds
 embellished
 embellisher
 embezzled
+embitterment
 emblazoner
 emblazonment
 emblazonry
@@ -7005,6 +7016,7 @@ gentrifiers
 geobotanic
 geobotanists
 geochemistries
+geochronologic
 geocoronas
 geodes
 geodesic
@@ -8050,6 +8062,7 @@ hunter
 hurley
 hurleys
 hurly
+hurrays
 hurriedness
 hurriednesses
 hurries
@@ -8227,6 +8240,7 @@ illation
 illegalizes
 illiberalness
 illicitly
+illinium
 illiquidities
 illiteracy
 illuded
@@ -8506,6 +8520,7 @@ infatuates
 infatuation
 infection
 infectiousness
+infecund
 infelicities
 inferior
 inferrible
@@ -10260,6 +10275,7 @@ mezuzoth
 miasmically
 miasms
 miaul
+micklest
 micks
 micrify
 micrifying
@@ -10312,6 +10328,7 @@ microseismicity
 microspore
 microtechnic
 microtubule
+microwatt
 microworld
 mics
 midguts
@@ -10521,6 +10538,7 @@ mistook
 mistouched
 mistouches
 mistranscribing
+mistranslation
 mistresses
 misusers
 misvalues
@@ -10717,6 +10735,7 @@ motorist
 motortrucks
 mottes
 moulds
+moundbirds
 mountain
 mountainous
 mountainously
@@ -11133,6 +11152,7 @@ nitchie
 nitpick
 nitrated
 nitric
+nitrifies
 nitrobenzenes
 nitrogen
 nitrous
@@ -12201,6 +12221,7 @@ paperweight
 papillote
 papooses
 pappose
+papule
 papyrology
 papyruses
 para
@@ -12917,6 +12938,7 @@ pliability
 plications
 plies
 plighting
+plink
 plinths
 pliofilms
 pliskie
@@ -13051,6 +13073,7 @@ ponce
 ponchos
 poncing
 pones
+ponged
 pontiffs
 pontificating
 pontification
@@ -13270,6 +13293,7 @@ preferrer
 prefigurement
 prefigurements
 prefilled
+prefinances
 preflight
 preflights
 preforming
@@ -15043,6 +15067,7 @@ sabbaticals
 sabbed
 sabed
 sabines
+sabins
 sabre
 sabres
 saccharase
@@ -15323,6 +15348,7 @@ scissions
 scissortail
 scissortails
 scissure
+sciurids
 sciurine
 sclerosis
 sclerotic
@@ -16779,6 +16805,7 @@ strongmen
 strontic
 strook
 strop
+strophe
 strophic
 stroudings
 struck
@@ -17301,6 +17328,7 @@ tachyon
 tacitness
 tacitnesses
 tacks
+tacnodes
 taconites
 tactfulness
 tactically
@@ -17692,6 +17720,7 @@ thrawed
 thread
 threadier
 threadlike
+threads
 threadworm
 threaps
 threated
@@ -18321,6 +18350,7 @@ umbonate
 umbral
 umbras
 umbrellaed
+umiac
 umlauted
 umpire
 unabashed
@@ -18475,6 +18505,7 @@ undermining
 underpaintings
 underplays
 underpricing
+underpropped
 undersaturated
 undersecretary
 underskirts
@@ -18673,6 +18704,7 @@ unshaded
 unshifts
 unshowy
 unsight
+unslaked
 unsmiling
 unsnag
 unsociabilities
@@ -19168,6 +19200,7 @@ wallowers
 wallowing
 wallydrags
 waltzer
+waltzes
 wampish
 wand
 wandered
@@ -19602,6 +19635,7 @@ yah
 yahooism
 yahooisms
 yak
+yamen
 yard
 yarmulke
 yarns
@@ -19658,6 +19692,7 @@ zaire
 zamia
 zanies
 zanyish
+zaps
 zas
 zeal
 zebecs
