@@ -7,3 +7,12 @@ Tailored normalization forms - Unicode,https://www.unicode.org/review/pr-7.txt
 https://perldoc.perl.org/5.18.4/Unicode::Normalize.txt,https://perldoc.perl.org/5.18.4/Unicode::Normalize.txt
 struct_dnnl_layer_normalization...,https://oneapi-src.github.io/oneDNN/_sources/struct_dnnl_layer_normalization_forward.rst.txt
 https://oneapi-src.github.io/oneDNN/v2.6/_sources/...,https://oneapi-src.github.io/oneDNN/v2.6/_sources/struct_dnnl_layer_normalization_backward_primitive_desc.rst.txt
+powspec.txt - HEASARC,https://heasarc.gsfc.nasa.gov/lheasoft/ftools/fhelp/powspec.txt
+Uniform Resource Identifier (URI): Generic Syntax - IETF,https://www.ietf.org/rfc/rfc3986.txt
+draft-duerst-i18n-norm-04.txt - IETF,https://www.ietf.org/archive/id/draft-duerst-i18n-norm-04.txt
+https://genomics.ur.de/software/NMR/normalisation/...,https://genomics.ur.de/software/NMR/normalisation/Readme.txt
+wfst_text_normalization.rst.txt - NVIDIA Docs,https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/v1.10.0/_sources/nlp/text_normalization/wfst/wfst_text_normalization.rst.txt
+libunistring.txt - GNU.org,https://www.gnu.org/software/libunistring/manual/libunistring.txt
+RFC 6365,https://www.rfc-editor.org/rfc/rfc6365.txt
+swsmake.txt - UNC Physics,https://users.physics.unc.edu/~gcsloan/library/swsatlas/swsmake.txt
+Internationalized Resource Identifiers (IRIs) - W3C,https://www.w3.org/International/iri-edit/draft-duerst-iri-11.txt

@@ -1,0 +1,9 @@
+database-schema-examples/postgres/mastodon/schema.sql at main,https://github.com/prisma/database-schema-examples/blob/master/postgres/mastodon/schema.sql
+tcpz-mastodon/instances_v01.sql at v4.1.5 - Codeberg,https://codeberg.org/jayfloof/tcpz-mastodon/src/tag/v4.1.5/db/views/instances_v01.sql
+tcpz-mastodon/account_summaries_v01.sql at v4.1.5 - Codeberg,https://codeberg.org/jayfloof/tcpz-mastodon/src/tag/v4.1.5/db/views/account_summaries_v01.sql
+Mastodon: db/views/instances_v01.sql | Fossies,https://fossies.org/linux/mastodon/db/views/instances_v01.sql
+Mastodon: .../global_follow_recommendations_v01.sql | Fossies,https://fossies.org/linux/mastodon/db/views/global_follow_recommendations_v01.sql
+mastodon/instances_v01.sql at ... - Freak University Computer Lab,https://lab.freak.university/FreakU/mastodon/src/commit/f32c2de6af730d0a0bf0297cc0772e8a60361d81/db/views/instances_v01.sql
+mastodon/follow_recommendations_v01.sql at ...,https://lab.freak.university/FreakU/mastodon/src/commit/c4568e3b606cc4007739f881c334bdfe8dc77745/db/views/follow_recommendations_v01.sql
+mastodon/account_summaries_v02.sql at ... - Base.LC,https://git.base.lc/uc/mastodon/src/commit/82eb7a7db7c912b65a2c679633a192168c5d5987/db/views/account_summaries_v02.sql
+PortableApps.com Releases and News | Page 3 | PortableApps.com,https://portableapps.com/News/com.sql%3Fpage%3D2
