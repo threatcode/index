@@ -1,0 +1,10 @@
+supabase/docker/volumes/db/roles.sql at master - GitHub,https://github.com/supabase/supabase/blob/master/docker/volumes/db/roles.sql
+ddl,https://docs.oracle.com/cd/E82085_01/160030/EnterpriseIntegration/BDI/bdi-interface-data-contracts/ddl/ItSupCtryDim_Fnd_Item_Sup_Cty_Dim_Out.sql
+Schema.sql - GitHub,https://github.com/duplicati/duplicati/blob/master/Duplicati/Library/Main/Database/Database%2520schema/Schema.sql
+catalog_timestamp_mso_db.sql - Gerrit Code Review,https://gerrit.onap.org/r/c/so/docker-config/%2B/14071/1/volumes/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/sub-sql-files/catalog_timestamp_mso_db.sql
+examples/sample-query.sql - Bacula - Fossies,https://fossies.org/linux/bacula/examples/sample-query.sql
+CheckForMAWithIdxCacheAndD...,https://edc.commvault.com/downloads/SQLScripts/UpgradeReadiness/CheckForMAWithIdxCacheAndDDBOnSameVolume.sql
+usp_AnalyzeSpaceCapacity - GitHub,https://raw.githubusercontent.com/imajaydwivedi/Space-Capacity-Automation/master/Space-Capacity-Procedure/dbo.usp_AnalyzeSpaceCapacity.sql
+tajo-core/tajo-core-backend/benchmark/tpch/q8.sql,https://apache.googlesource.com/tajo/%2B/release-0.2.0-rc0/tajo-core/tajo-core-backend/benchmark/tpch/q8.sql
+sql/db_apiato_insert_values.sql · apiato · db / dbod ... - CERN GitLab,https://gitlab.cern.ch/db/dbod-api/-/blob/apiato/sql/db_apiato_insert_values.sql
+lemmy/down.sql at main - lemmy - git.join-lemmy.org,https://git.join-lemmy.org/LemmyNet/lemmy/src/branch/main/migrations/2020-03-06-202329_add_post_iframely_data/down.sql
