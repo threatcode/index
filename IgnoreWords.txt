@@ -306,6 +306,7 @@ affirmants
 affirmation
 affirmed
 affirms
+affixable
 afflatus
 afflicting
 affluences
@@ -2193,6 +2194,7 @@ brans
 brants
 brash
 brasileins
+brassica
 brassicas
 brassies
 brassiest
@@ -3383,6 +3385,7 @@ coagulable
 coagulants
 coagulate
 coagulation
+coagulum
 coalbox
 coaled
 coalesced
@@ -3662,6 +3665,7 @@ comportment
 composted
 composting
 compotes
+compresses
 compressions
 comprized
 compromisers
@@ -3967,6 +3971,7 @@ coroneted
 coronographs
 corotate
 corporal
+corporates
 corporeality
 corraded
 corrading
@@ -4702,6 +4707,7 @@ deficiencies
 defiers
 definite
 definitely
+definitions
 deflater
 deflationary
 defleaing
@@ -5961,6 +5967,7 @@ embroidering
 embroil
 embroiled
 embroilers
+embroilments
 embrowning
 embruting
 embryo
@@ -6071,6 +6078,7 @@ endurer
 enduringness
 enduringnesses
 enface
+enfeeblement
 enfever
 enfiladed
 enfolder
@@ -6156,6 +6164,7 @@ entourage
 entozoan
 entrainers
 entrains
+entrancing
 entrap
 entraps
 entrechat
@@ -6371,6 +6380,7 @@ eupeptic
 euphemist
 euphenic
 euphoria
+euphorically
 eurhythmic
 eurhythmy
 euro
@@ -7219,6 +7229,7 @@ foreswears
 forethought
 foretopman
 foretops
+forevers
 foreword
 forewords
 forfeiting
@@ -7852,6 +7863,7 @@ goggle
 goldbricked
 goldener
 goldsmiths
+golfing
 golliwog
 golliwogs
 gomphoses
@@ -8258,6 +8270,7 @@ handoff
 handovers
 handrails
 hands
+handseled
 handsels
 handsets
 handsomer
@@ -8302,6 +8315,7 @@ hart
 harumphed
 harvestman
 hasenpfeffer
+hashes
 hatchings
 hatfuls
 hatmakers
@@ -9126,6 +9140,7 @@ incinerations
 incipience
 incipit
 incitement
+incline
 inclined
 inclining
 inclosed
@@ -9581,6 +9596,7 @@ iodids
 iodism
 iodizing
 iodopsin
+ionogenic
 ionosonde
 ionospherically
 ipecac
@@ -9980,6 +9996,7 @@ kistfuls
 kit
 kitchenettes
 kiting
+kitsch
 kitschify
 kittenishnesses
 kitty
@@ -10976,6 +10993,7 @@ mazaedium
 maze
 mazedly
 maziness
+mazourka
 mazuma
 meager
 meanderer
@@ -11837,6 +11855,7 @@ myelograms
 mylonite
 myocardia
 myocardium
+myoclonuses
 myofibril
 myoglobin
 myographs
@@ -12062,6 +12081,7 @@ newspapering
 newspersons
 newsroom
 ngwee
+nib
 nibbing
 nibble
 nibbles
@@ -12738,6 +12758,7 @@ ortolans
 oryx
 orzos
 oscillates
+oscillating
 oscillograph
 oscilloscope
 oses
@@ -12756,6 +12777,7 @@ osteitis
 osteopathies
 osteopathy
 osteoporoses
+ostia
 ostinati
 ostium
 ostracised
@@ -12787,7 +12809,9 @@ outburst
 outbye
 outcaste
 outcavil
+outcaviled
 outchid
+outchidden
 outcoached
 outcompete
 outcompetes
@@ -13487,6 +13511,7 @@ peeping
 peepuls
 peerie
 peeries
+peering
 peers
 peetweet
 peevishness
@@ -13529,6 +13554,7 @@ pensiones
 pensiveness
 penstocks
 pentacle
+pentad
 pentagonally
 pentaploidies
 pentaploidy
@@ -14559,6 +14585,7 @@ priggery
 prill
 primary
 primatals
+primate
 primatial
 prime
 primed
@@ -15380,6 +15407,7 @@ recycler
 recycling
 redacted
 redacting
+redactors
 redargues
 redbait
 redbird
@@ -15517,6 +15545,7 @@ reformatories
 reformist
 refractometries
 refractorily
+refrained
 refreshen
 refuelling
 refulgence
@@ -16071,6 +16100,7 @@ ribaldries
 ribalds
 ribband
 ribbing
+ribbon
 ribbonfishes
 ribboning
 ribier
@@ -17102,6 +17132,7 @@ shippens
 shippons
 shipway
 shipyard
+shirker
 shirkers
 shirking
 shirrs
@@ -19035,6 +19066,7 @@ tenail
 tenancies
 tendances
 tenderizers
+tenderometers
 tendinitis
 tendinitises
 tendinous
@@ -19532,6 +19564,7 @@ trailless
 trainability
 trainee
 training
+tram
 tramelling
 tramels
 trammeling
@@ -19635,6 +19668,7 @@ triazines
 tribally
 tribals
 tribesman
+triboelectric
 tribological
 tribulations
 tribunes
@@ -21120,6 +21154,7 @@ windup
 windway
 wined
 winepress
+wineshop
 wineskins
 wingback
 winglets
