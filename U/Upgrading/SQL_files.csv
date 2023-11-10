@@ -68,3 +68,22 @@ www.lundachups.nlk.nf/sw/Office%202K/SQL/INSTALL/R...,http://www.lundachups.nlk.
 dump_mysql_native.sql · master · CARLYSSON ANDREY ... - GitLab,https://git.ifspguarulhos.edu.br/gu1661019/lds/-/blob/master/dump_mysql_native.sql
 portal.sql - Index of / - ELTE,http://nevtudphd.elte.hu/portal.sql
 DataBase/psql/UPDATE-a2billing-v1.3.4-to-v1.4.0.sql - GitLab,https://gitlab.linux.community/awit-a2billing/awit-a2billing/blob/cd3f5424df3e8c4fde03bd1133d52c004c316c5e/DataBase/psql/UPDATE-a2billing-v1.3.4-to-v1.4.0.sql
+upgrade-3.0.0-to-3.1.0.hive.sql - GitHub,https://github.com/apache/hive/blob/master/metastore/scripts/upgrade/hive/upgrade-3.0.0-to-3.1.0.hive.sql
+upgrade-3.0.0-to-3.1.0.postgres.sql - GitHub,https://github.com/apache/hive/blob/master/standalone-metastore/metastore-server/src/main/sql/postgres/upgrade-3.0.0-to-3.1.0.postgres.sql
+upgrade-0.14.0-to-1.1.0.mysql.sql - Google Git,https://apache.googlesource.com/hive/%2B/trunk/metastore/scripts/upgrade/mysql/upgrade-0.14.0-to-1.1.0.mysql.sql%3Fautodive%3D0%252F%252F%252F
+metastore/scripts/upgrade/mysql/001-HIVE-972.mysql.sql - Google Git,https://apache.googlesource.com/hive/%2B/branch-0.10/metastore/scripts/upgrade/mysql/001-HIVE-972.mysql.sql
+OFS_DGS_PREINSTALL_SEED...,https://docs.oracle.com/cd/F38446_01/books/Scripts/8.1/OFS_DGS_PREINSTALL_SEEDER.sql
+Upgrade to 3.2.1 failed with timeout on rep_DPS_10919.sql,https://knowledge.exlibrisgroup.com/Rosetta/Knowledge_Articles/Upgrade_to_3.2.1_failed_with_timeout_on_rep_DPS_10919.sql
+PacketFence: db/upgrade-12.1-12.2.sql - Fossies,https://fossies.org/linux/packetfence/db/upgrade-12.1-12.2.sql
+Open-ILS/src/sql/Pg/upgrade/0556 ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/4bd5e0b84af5c14cd9e4edbe631e193df4de4274/Open-ILS/src/sql/Pg/upgrade/0556.unnest_biblio_extract_metabib_field_entry.sql
+vendor/radio/qcril_database/upgrade/24_version_update_ecc_table ...,https://dumps.tadiphone.dev/dumps/qti/qssi/-/blob/b575bcd2ddf0aeb6b0667a906ccf2541850e471d/vendor/radio/qcril_database/upgrade/24_version_update_ecc_table.sql
+org.activiti.db.upgrade.activiti.mysql.upgradestep.514.to.515.engine ...,https://jar-download.com/artifacts/org.activiti/activiti-engine/5.22.0/source-code/org/activiti/db/upgrade/activiti.mysql.upgradestep.514.to.515.engine.sql
+org.flowable.common.db.upgrade.flowable.all.upgradestep.6505.to ...,https://jar-download.com/artifacts/org.flowable/flowable-engine-common/6.5.0/source-code/org/flowable/common/db/upgrade/flowable.all.upgradestep.6505.to.6506.common.sql
+upgrade-mysq.sql - Agenda Rede Fiocruz,https://agenda.fiocruz.br/install/sql/upgrade-mysql.sql
+CheckCommServerUpgradeAss...,https://edc.commvault.com/downloads/SQLScripts/UpgradeReadiness/CheckCommServerUpgradeAssociations_9_0.sql
+https://raw.githubusercontent.com/apache/hive/mast...,https://raw.githubusercontent.com/apache/hive/master/metastore/scripts/upgrade/mysql/hive-txn-schema-2.3.0.mysql.sql
+surya/proprietary/vendor/radio/qcril_database/upgrade ... - GitLab,https://gitlab.com/the-muppets/proprietary_vendor_xiaomi/-/blob/188d9c9ca8b1709b5100797f082f5223b1920787/surya/proprietary/vendor/radio/qcril_database/upgrade/4_version_update_ecc_table.sql
+schema/obsolete/upgrade-1.1-1.1.1-pgsql.sql - Zachary Seguin,https://git.zacharyseguin.ca/server/tt-rss/blob/e8ef3b971566ad5d99fa04ce9ee058542bc8d33d/schema/obsolete/upgrade-1.1-1.1.1-pgsql.sql
+distro/sql/upgrade/common/flowable.mysql.upgradestep.6.1.2.to.6.2 ...,https://g.civnet.cn:8443/ZhengYue/flowable-engine/blob/8d81d15b08a30ec8766138ee32c2cacc1ecd4d9e/distro/sql/upgrade/common/flowable.mysql.upgradestep.6.1.2.to.6.2.0.common.sql
+…/patch-up_property.sql · Gerrit Code Review,https://gerrit.wikimedia.org/r/c/mediawiki/core/%2B/662628/2/maintenance/archives/patch-up_property.sql
+usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql ...,https://gemfury.com/agriconnect/deb:timescaledb-1.7.2-postgresql-9.6/-/content/usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql
