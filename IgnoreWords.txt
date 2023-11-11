@@ -2605,6 +2605,7 @@ bylining
 byname
 byrling
 byrnie
+bystreet
 bytes
 cab
 cabana
@@ -2950,6 +2951,7 @@ casual
 cat
 cataclysmically
 catalases
+catalogues
 catalysis
 catalyst
 catamites
@@ -3742,6 +3744,7 @@ colicin
 colicweed
 colinearity
 colins
+colitises
 collaborate
 collaborated
 collaborations
@@ -4840,6 +4843,7 @@ dazes
 de
 deacidify
 deaconry
+deadbolt
 deadeye
 deadline
 deadlined
@@ -5075,6 +5079,7 @@ delaminated
 deleave
 delectability
 delectable
+delegable
 delegatees
 deleted
 delicatessen
@@ -5104,6 +5109,7 @@ demandingness
 demarches
 demark
 demarking
+demast
 demasting
 dematerialize
 dematerializes
@@ -5873,6 +5879,7 @@ doughboys
 doughiest
 doughtier
 doughtily
+doughtinesses
 doupioni
 dourer
 doused
@@ -7214,6 +7221,7 @@ featured
 featurette
 febrifuges
 fecklessness
+feckly
 federacy
 federal
 federalism
@@ -8020,6 +8028,7 @@ ganef
 ganefs
 gangbanged
 ganglia
+gangplanks
 gangrening
 gangsterdoms
 gangways
@@ -8300,6 +8309,7 @@ globate
 globe
 globed
 globefish
+globes
 globetrots
 globing
 globose
@@ -8664,6 +8674,7 @@ guiled
 guileful
 guilefulness
 guilt
+guiltiest
 guimpe
 guiro
 guiros
@@ -8856,6 +8867,7 @@ harborside
 hardback
 hardboards
 hardcores
+hardgoods
 hardpack
 hardpan
 hardships
@@ -9545,6 +9557,7 @@ ichthyosaurs
 icicle
 icier
 icky
+iconical
 iconically
 iconoclasts
 iconographic
@@ -9552,6 +9565,7 @@ iconographies
 iconology
 iconoscope
 iconoscopes
+iconostasis
 icons
 icterus
 idealists
@@ -10748,6 +10762,7 @@ knower
 knowingest
 knuckler
 knuckles
+knuckling
 kolkhos
 kolkhosy
 kolkhozniks
@@ -12091,6 +12106,7 @@ midterms
 midweekly
 midwifes
 midwinter
+mien
 miffs
 mightiest
 mightiness
@@ -12144,6 +12160,7 @@ mindlessly
 mindset
 mine
 mineable
+minelayer
 miner
 mineral
 mineralizer
@@ -12220,6 +12237,7 @@ miscolors
 misconceives
 misconducting
 misconducts
+misconnect
 miscount
 miscues
 miscut
@@ -12440,6 +12458,7 @@ monohydric
 monologists
 monomaniac
 monomolecular
+mononuclears
 mononucleated
 monophthongal
 monopoles
@@ -13394,6 +13413,7 @@ obliqued
 obliterator
 obloquies
 obnoxiously
+obnoxiousness
 obnubilated
 oboe
 obscener
@@ -13512,6 +13532,7 @@ olfactometers
 oligarchs
 oligoclase
 ologists
+ololiuquis
 olympiad
 omasum
 ombres
@@ -13543,6 +13564,7 @@ onos
 onshore
 onslaught
 ontically
+ontogenetically
 onuses
 onward
 onwards
@@ -13704,6 +13726,7 @@ ostia
 ostinati
 ostium
 ostracised
+ostraka
 ostrichlike
 otalgies
 otalgy
@@ -14968,6 +14991,7 @@ pisco
 pisiform
 pisiforms
 pissants
+pistaches
 pistoled
 pistoleer
 pistolier
@@ -15646,6 +15670,7 @@ priorates
 prioress
 priors
 priory
+prise
 prismatically
 prismoid
 private
@@ -16638,6 +16663,7 @@ reformat
 reformative
 reformatories
 reformist
+refractivities
 refractometries
 refractorily
 refractory
@@ -17523,6 +17549,7 @@ rutherfordiums
 ruthlessnesses
 rutiles
 rutins
+ruts
 ruttiest
 rutting
 ruttish
@@ -17951,6 +17978,7 @@ sculp
 sculpins
 sculpted
 sculptor
+scumbags
 scumbled
 scunnered
 scuppernongs
@@ -18397,6 +18425,7 @@ shrouds
 shrub
 shrubberies
 shrunken
+shtetl
 shticks
 shuffling
 shunpike
@@ -19432,6 +19461,7 @@ stockading
 stockbrokings
 stockholder
 stockholders
+stockings
 stockjobber
 stockkeeper
 stockman
@@ -19773,6 +19803,7 @@ sudser
 suede
 sufferable
 sufferers
+sufflate
 suffocate
 sugarberry
 sugarbushes
@@ -20302,6 +20333,7 @@ taxonomies
 taxying
 tazza
 tazze
+tchotchke
 teabox
 teachable
 teacupful
@@ -20445,6 +20477,7 @@ terga
 tergites
 teriyaki
 terminableness
+termination
 terminatively
 terminator
 terminuses
@@ -21223,6 +21256,7 @@ tunic
 tunicates
 tunics
 tunneled
+tunneler
 turbidimeter
 turbidly
 turbinal
@@ -22937,6 +22971,7 @@ zirconiums
 zits
 zizit
 zizzling
+zlotych
 zoantharian
 zoarium
 zodiacs
