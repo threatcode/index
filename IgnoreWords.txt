@@ -222,6 +222,7 @@ admeasured
 admen
 administered
 administrant
+administrators
 admiralties
 admirations
 admire
@@ -785,6 +786,7 @@ anthologized
 anthozoic
 anthracene
 anthracite
+anthracitic
 anthropologies
 anthropometries
 anthropophagous
@@ -1128,6 +1130,7 @@ assesses
 assessments
 asseveration
 asseverations
+assign
 assignabilities
 assignability
 assignation
@@ -1152,6 +1155,7 @@ astatines
 asteroid
 asthenies
 asthmatics
+astilbes
 astir
 astonishes
 astoundingly
@@ -2033,6 +2037,7 @@ blipping
 blissfully
 blithers
 blizzard
+blob
 bloc
 blockers
 blockheads
@@ -3091,6 +3096,7 @@ chairwomen
 chais
 chaise
 chakra
+chakras
 chalcocite
 chaldrons
 chalkboard
@@ -4311,6 +4317,7 @@ counterposing
 counterpower
 counterpowers
 countersigning
+countersink
 countersinking
 counterstates
 counterstream
@@ -4789,6 +4796,7 @@ datively
 dauber
 daubery
 daubiest
+daubry
 daubs
 daundered
 dauntlessnesses
@@ -5908,6 +5916,7 @@ drawshaves
 drayed
 dreadlocks
 dreadnought
+dreads
 dreamboats
 dreamers
 dreamfulness
@@ -6192,6 +6201,7 @@ efts
 egalitarian
 egests
 egghead
+egging
 eglateres
 egocentricity
 egocentrism
@@ -6707,6 +6717,7 @@ estragon
 estragons
 estranges
 estranging
+estraying
 estreat
 estrone
 estuarial
@@ -6990,6 +7001,7 @@ extrudability
 extruders
 extrusive
 extubated
+exudations
 exultant
 exultantly
 exulted
@@ -7040,6 +7052,7 @@ factoid
 factoids
 factor
 factorization
+factors
 facts
 factualists
 faddy
@@ -7096,6 +7109,7 @@ fanfaronades
 fanfold
 fanfolded
 fang
+fanged
 fanning
 fanos
 fantail
@@ -7715,6 +7729,7 @@ fowlings
 fowls
 foxhole
 foxhound
+foxhunters
 foxtails
 foziness
 fractals
@@ -7860,6 +7875,7 @@ furless
 furlong
 furloughed
 furmenties
+furmety
 furmity
 furores
 furosemide
@@ -8482,6 +8498,7 @@ greatcoat
 greatened
 greatness
 greaved
+grecize
 grecized
 grecizes
 greek
@@ -8495,6 +8512,7 @@ greenlighted
 greenly
 greenmailers
 greenockite
+greenshanks
 greenwash
 greeting
 greetings
@@ -8650,6 +8668,7 @@ guttle
 gutturalism
 guzzled
 gweducs
+gybing
 gymnasium
 gymnast
 gynaecium
@@ -8804,6 +8823,7 @@ haring
 harkening
 harkens
 harlotry
+harmer
 harmoniousness
 harmonizers
 harpings
@@ -8833,6 +8853,7 @@ haunts
 havartis
 havdalah
 haven
+havens
 haver
 hawala
 hawfinch
@@ -9830,10 +9851,12 @@ inebriations
 inedible
 ineffablenesses
 ineffective
+ineffectively
 inefficaciously
 inelasticities
 inelasticity
 inequalities
+inequitable
 inequitably
 inequivalve
 inerrancies
@@ -11087,6 +11110,7 @@ liminesses
 limiteds
 limitlessly
 limnetic
+limpidity
 limpkins
 linage
 lincomycins
@@ -11505,6 +11529,7 @@ managerial
 manas
 manatees
 mandalas
+mandamuses
 mandarin
 mandarinate
 mandarinic
@@ -13059,6 +13084,7 @@ nonhome
 nonhomologous
 nonhostile
 nonideal
+nonimmune
 nonimplication
 nonimplications
 noninert
@@ -14934,6 +14960,7 @@ plasticity
 plasticizations
 plasticizer
 plasticky
+plat
 plateau
 platemaking
 platemakings
@@ -17026,6 +17053,7 @@ retuned
 returned
 retypes
 reunionist
+reusabilities
 reused
 reutilizations
 reutilizing
@@ -18258,6 +18286,7 @@ shortfall
 shorthands
 shortheads
 shortlisting
+shortlists
 shortnesses
 shortsighted
 shote
@@ -18652,6 +18681,7 @@ snails
 snakebird
 snakebite
 snakier
+snakinesses
 snapdragons
 snapped
 snappers
@@ -19265,6 +19295,7 @@ sterlet
 sterna
 sternal
 sternites
+sternness
 sternums
 sternutation
 steroidal
@@ -20271,6 +20302,7 @@ tempering
 templar
 templates
 templed
+temporalizes
 temporals
 temporariness
 temporise
@@ -21432,6 +21464,7 @@ undulates
 undulation
 undulations
 undulators
+unearned
 unearthing
 uneases
 uneffaced
@@ -22220,6 +22253,7 @@ warmheartedness
 warmnesses
 warmth
 warnings
+warns
 warpages
 warpers
 warrener
@@ -22433,6 +22467,7 @@ whiter
 whites
 whithersoever
 whitracks
+whittled
 whittling
 whizzbangs
 whizziest
