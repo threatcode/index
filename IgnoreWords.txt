@@ -772,6 +772,7 @@ answerers
 antacid
 antagonizing
 anteaters
+antecede
 antechambers
 antechoir
 antefixa
@@ -1773,6 +1774,7 @@ benzanthracenes
 benzidines
 benzocaine
 benzodiazepine
+bepaints
 bepimple
 bepimpled
 bequeaths
@@ -1833,6 +1835,7 @@ bezzant
 bharal
 bhut
 bhuts
+biacetyls
 bialys
 biasnesses
 biassedly
@@ -2830,6 +2833,7 @@ carabin
 carabinieri
 caracara
 carack
+caracol
 caracole
 caracoles
 caracolled
@@ -3186,9 +3190,11 @@ chastely
 chasteness
 chastenesses
 chastities
+chatchke
 chateaubriand
 chatted
 chatterers
+chauffeur
 chaunting
 chauvinisms
 chawer
@@ -3218,6 +3224,7 @@ cheffing
 chefing
 chela
 chelae
+chelators
 chelicerae
 chelipeds
 cheloid
@@ -3450,6 +3457,7 @@ civisms
 clack
 cladding
 cladistic
+cladistics
 cladodes
 cladogenetic
 claimable
@@ -4153,6 +4161,7 @@ cookstoves
 cooldown
 coombs
 cooncans
+cooperages
 coopting
 cooption
 cooptions
@@ -4356,6 +4365,7 @@ countryman
 countryseat
 couplement
 coupling
+courage
 courageous
 courantes
 courgettes
@@ -4564,6 +4574,7 @@ cryogeny
 cryophilic
 cryophytes
 cryoprobe
+cryoprotectant
 cryptarithm
 cryptococcoses
 cryptogam
@@ -5153,6 +5164,7 @@ dendrite
 dendrological
 deniably
 denies
+denigrates
 denitrify
 denned
 denominate
@@ -7797,6 +7809,7 @@ frat
 fraudster
 fraulein
 fraying
+freakiest
 freaking
 freakishness
 freakouts
@@ -8442,6 +8455,7 @@ gossipped
 gossips
 gossoon
 gossypol
+gothicisms
 gothicized
 gothics
 gouache
@@ -9370,6 +9384,7 @@ humans
 humbugged
 humbuggeries
 humbugs
+humdrum
 humeri
 humidified
 humidifier
@@ -9857,6 +9872,7 @@ indemnifying
 indemonstrably
 indent
 indentations
+indention
 independents
 indeterminism
 indeterminists
@@ -10521,6 +10537,7 @@ jokier
 jokiest
 joles
 jollies
+jolliest
 jolters
 joltiest
 jomon
@@ -10598,6 +10615,7 @@ kalifs
 kallikreins
 kalmia
 kalongs
+kalpaks
 kalpas
 kalsomined
 kalyptra
@@ -10612,6 +10630,7 @@ karakul
 karaoke
 karmic
 karsts
+karyogamies
 karyokinetic
 karyological
 karyotins
@@ -12477,6 +12496,7 @@ monotypic
 monounsaturate
 monounsaturated
 monovalent
+monsoons
 montages
 montagnards
 montane
@@ -12896,6 +12916,7 @@ nellie
 nelson
 nelumbium
 nelumbo
+nematocysts
 nematode
 nene
 neoclassicist
@@ -13488,6 +13509,7 @@ offal
 offbeat
 offed
 offences
+offended
 offense
 offhanded
 offhandednesses
@@ -13945,6 +13967,7 @@ overclassified
 overclearing
 overcolor
 overcolored
+overcomers
 overcommits
 overcompensated
 overconsumption
@@ -14333,6 +14356,7 @@ paresis
 paresthesias
 paretic
 parfleches
+parkettes
 parkings
 parkways
 parlaying
@@ -14723,6 +14747,7 @@ petite
 petitioners
 petrifications
 petroglyph
+petrographer
 petrographies
 petrolatum
 petrolatums
@@ -14886,6 +14911,7 @@ pickier
 pickled
 pickoff
 picky
+picloram
 picometers
 picotee
 picquet
@@ -15058,6 +15084,7 @@ plasticizer
 plasticky
 plat
 plateau
+plateauing
 platemaking
 platemakings
 platens
@@ -16899,6 +16926,7 @@ repatterning
 repave
 repaving
 repentantly
+repenting
 repeopling
 repertoires
 repetitional
@@ -17124,6 +17152,7 @@ retightens
 retine
 retinitises
 retinoid
+retinoscopy
 retinting
 retints
 retitle
@@ -19063,6 +19092,7 @@ spancel
 spancelling
 spandexes
 spangled
+spaniels
 spanking
 spanning
 spanokopita
@@ -19090,6 +19120,7 @@ speakerphone
 speared
 spearfish
 spearheading
+specialise
 specializations
 specials
 specialties
@@ -19570,6 +19601,7 @@ striplings
 stripper
 strips
 stript
+stripteases
 strobilae
 strobilar
 strode
@@ -20074,6 +20106,7 @@ swizzles
 swoon
 swooners
 swooning
+swoons
 swooper
 swoopers
 swoopy
@@ -22744,6 +22777,7 @@ womanizer
 womanizers
 womanizing
 womankind
+wombed
 wombs
 womenfolks
 womera
@@ -22903,6 +22937,7 @@ yock
 yocks
 yoctoseconds
 yodles
+yogees
 yoghourts
 yoghs
 yogi
