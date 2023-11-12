@@ -893,6 +893,7 @@ antisexist
 antisexuality
 antispeculation
 antistory
+antisubsidy
 antitarnish
 antiterrorism
 antithesis
@@ -1179,6 +1180,7 @@ assess
 assesses
 assessments
 asset
+asseverates
 asseveration
 asseverations
 assign
@@ -2835,6 +2837,7 @@ camporees
 camps
 campshirt
 campusing
+campylotropous
 camshafts
 can
 canal
@@ -3383,6 +3386,7 @@ chilblains
 childhood
 childlikeness
 childlikenesses
+children
 chile
 chiliads
 chilidogs
@@ -3854,6 +3858,7 @@ coheads
 cohesiveness
 cohesivenesses
 coholders
+cohosh
 cohostessing
 coif
 coiffe
@@ -3888,6 +3893,7 @@ coleopteran
 coleorhizae
 colessors
 colicin
+colicky
 colicweed
 colinearity
 colins
@@ -4563,6 +4569,7 @@ coxae
 coydog
 coydogs
 coying
+cozied
 coziness
 crabapple
 crabber
@@ -4788,6 +4795,7 @@ cunctation
 cundum
 cunnilinctuses
 cunningest
+cunnings
 cupboards
 cupellation
 cupeller
@@ -5969,6 +5977,7 @@ disulfates
 disulfid
 disulfide
 disulfirams
+disunions
 disunities
 disyllable
 dits
@@ -6534,6 +6543,7 @@ electrodialyses
 electroformed
 electrogram
 electrology
+electrolyses
 electromagnetic
 electrometers
 electroosmotic
@@ -7220,6 +7230,7 @@ exorbitance
 exorcises
 exorcising
 exorcists
+exosmic
 exothermal
 exothermic
 exothermicity
@@ -7359,6 +7370,7 @@ fabricant
 fabricants
 fabrications
 fabricators
+fabulists
 faceless
 facelifted
 facers
@@ -7569,6 +7581,7 @@ ferredoxin
 ferrelled
 ferret
 ferriages
+ferrimagnetism
 ferrites
 ferrous
 fertilenesses
@@ -8392,6 +8405,7 @@ garrons
 garrotted
 garrulously
 gascons
+gashes
 gasifiers
 gaskins
 gaslights
@@ -8877,10 +8891,12 @@ gravesides
 gravest
 graveyard
 graveyards
+gravid
 gravimeter
 gravities
 gravitinos
 gravitons
+gravity
 gravlax
 gravure
 gravures
@@ -8966,6 +8982,7 @@ grounders
 grounding
 groundlessly
 groundlings
+groundouts
 groundswells
 groupoids
 groups
@@ -11209,6 +11226,7 @@ knuckled
 knuckler
 knuckles
 knuckling
+kob
 kolkhos
 kolkhosy
 kolkhozniks
@@ -11633,6 +11651,7 @@ limeade
 limeades
 limericks
 liminesses
+limitative
 limiteds
 limitlessly
 limnetic
@@ -12873,6 +12892,7 @@ mizzenmast
 mizzle
 mizzly
 mo
+moat
 moatlike
 mobbers
 mobility
@@ -14602,6 +14622,7 @@ overmaster
 overmatches
 overmelts
 overmilked
+overmuch
 overnight
 overnighters
 overnighting
@@ -16299,6 +16320,7 @@ primatial
 prime
 primed
 primely
+primiparous
 primitivist
 primo
 primordia
@@ -16711,6 +16733,7 @@ pygidial
 pygmy
 pygmyisms
 pyins
+pyknotic
 pylon
 pylons
 pyloric
@@ -18557,6 +18580,7 @@ scarious
 scarlatina
 scarlatinal
 scarper
+scarphing
 scarring
 scarves
 scary
@@ -18719,6 +18743,7 @@ sculptor
 scumbags
 scumbled
 scunnered
+scuppernong
 scuppernongs
 scurf
 scurfier
@@ -19410,6 +19435,7 @@ skyline
 skywards
 slabbering
 slabbery
+slabbing
 slags
 slakable
 slalomed
@@ -20077,6 +20103,7 @@ stableboys
 stableman
 stablemen
 stablished
+stackable
 stacker
 stacks
 stackup
@@ -20284,6 +20311,7 @@ stooped
 stopes
 stoplight
 stopoff
+stopped
 stopwatches
 storables
 storage
@@ -20385,6 +20413,7 @@ strophe
 strophic
 stroudings
 strow
+strown
 struck
 structuralism
 structuralizes
@@ -20859,6 +20888,7 @@ sweeping
 sweepingnesses
 sweepings
 sweetenings
+sweetens
 sweetheart
 sweeting
 sweetly
@@ -21725,6 +21755,7 @@ torchbearers
 torching
 torchwoods
 torics
+torn
 tornado
 tornillo
 torpedoed
@@ -22091,6 +22122,7 @@ tsardom
 tsardoms
 tsaritzas
 tsars
+tsetse
 tsked
 tsktsk
 tsunamic
@@ -22207,6 +22239,7 @@ tzarevnas
 tzarina
 ubiety
 udons
+udos
 uglifier
 ugliness
 uintahites
@@ -22389,6 +22422,7 @@ uncynically
 undated
 undauntable
 undeniably
+underbake
 underbid
 underboss
 underbosses
@@ -22439,6 +22473,7 @@ underserved
 undershirted
 undershot
 underside
+undersized
 underskirts
 understand
 understatement
