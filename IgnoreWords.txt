@@ -678,6 +678,7 @@ analogizing
 analogs
 analogy
 analyzer
+analyzers
 analyzes
 analyzing
 anapaests
@@ -1324,6 +1325,7 @@ automatizations
 automatizes
 automats
 autonyms
+autophagies
 autopsies
 autopsy
 autorotation
@@ -2515,6 +2517,7 @@ brusher
 brushfires
 brushing
 brushwood
+brusque
 brutalizations
 brutalizing
 bruted
@@ -4883,6 +4886,7 @@ daimen
 daimio
 daimios
 daimon
+daimones
 daimyos
 daiquiris
 dairying
@@ -6892,6 +6896,7 @@ ergot
 ergotic
 ergotized
 ericaceous
+eringo
 erodible
 erosivity
 erotica
@@ -8476,6 +8481,7 @@ gimping
 gingal
 gingals
 gingelli
+gingerbreads
 gingerbready
 gingham
 gingilis
@@ -8685,6 +8691,7 @@ gorilla
 gorily
 gormandizer
 gory
+gospeller
 gospellers
 gossipped
 gossips
@@ -9006,6 +9013,7 @@ habitualnesses
 habitue
 habus
 hacker
+hacking
 hackmatack
 hackworks
 hadarim
@@ -9068,6 +9076,7 @@ halogeton
 haloids
 halomorphic
 halophytic
+halos
 halting
 haltingly
 haltless
@@ -9182,6 +9191,7 @@ haze
 hazing
 he
 headache
+headed
 header
 headfuls
 headhunter
@@ -9192,6 +9202,7 @@ headlocks
 headmen
 headquarter
 headset
+headships
 headsmen
 headstall
 headwaiter
@@ -9378,6 +9389,7 @@ hibernating
 hiccups
 hickey
 hickory
+hidable
 hidalgo
 hidebound
 hideous
@@ -9744,6 +9756,7 @@ hyperacidity
 hyperactives
 hyperacute
 hyperawareness
+hyperbolas
 hyperbolically
 hyperbolist
 hyperbolists
@@ -11176,6 +11189,7 @@ lamebrained
 lamentably
 laminas
 laminated
+lamisters
 lammergeyers
 lamp
 lampblack
@@ -12335,6 +12349,7 @@ metallurgist
 metals
 metamerically
 metamorphically
+metamorphisms
 metanalyses
 metaphysical
 metasequoia
@@ -12818,6 +12833,7 @@ monopolised
 monopolization
 monopolizing
 monopsony
+monorchidisms
 monosteles
 monostelic
 monostich
@@ -12830,6 +12846,7 @@ monounsaturate
 monounsaturated
 monovalent
 monsoons
+monster
 montages
 montagnards
 montane
@@ -13012,6 +13029,7 @@ multisystem
 multitask
 multitiered
 multitowered
+multitudinous
 multiuse
 multivalences
 multivitamin
@@ -14735,6 +14753,7 @@ paresis
 paresthesias
 paretic
 parfleches
+pargylines
 parkettes
 parkings
 parkways
@@ -15113,6 +15132,7 @@ pertly
 perturbation
 perturbing
 perusable
+perusal
 peruse
 pervasions
 perversities
@@ -15980,6 +16000,7 @@ premier
 premiere
 premigration
 premises
+premolars
 prenotions
 preoccupied
 preopening
@@ -16587,6 +16608,7 @@ quieting
 quietude
 quillbacks
 quillworks
+quillworts
 quinacrine
 quinces
 quindecillions
@@ -16622,6 +16644,7 @@ quotients
 qurushes
 rabat
 rabbi
+rabbinates
 rabbiting
 rabbitry
 rabbity
@@ -17094,6 +17117,7 @@ reequipments
 reescalates
 reestablishes
 reestimating
+reeve
 reevokes
 reexaminations
 reexecuting
@@ -19133,6 +19157,7 @@ skiddier
 skidway
 skidways
 skill
+skillfulnesses
 skimmed
 skimming
 skimobiles
@@ -19229,6 +19254,7 @@ slippages
 slipper
 slippier
 slippily
+slipslop
 slipstreamed
 slithers
 slivovic
@@ -19294,6 +19320,7 @@ smit
 smites
 smithies
 smoggiest
+smoggy
 smokeable
 smoker
 smooched
@@ -19867,6 +19894,7 @@ stanzaed
 stapedial
 staple
 starbursts
+starched
 starchiest
 starchily
 starching
@@ -21591,6 +21619,7 @@ transmittable
 transmogrified
 transmountain
 transmutable
+transmutes
 transparent
 transplant
 transplanted
@@ -21863,6 +21892,7 @@ turgite
 turgites
 turmoils
 turnbuckles
+turndown
 turndowns
 turnings
 turnip
@@ -22105,6 +22135,7 @@ undeniably
 underbid
 underboss
 underbosses
+underbrim
 underbrush
 undercharged
 undercharges
@@ -22655,6 +22686,7 @@ vaudevillians
 vaunter
 vealier
 vealiest
+veals
 vectorially
 vedette
 vedettes
@@ -22755,6 +22787,7 @@ vestlike
 vex
 vexatiousness
 vexatiousnesses
+vexedly
 vexes
 vexillologist
 vexillologists
@@ -23047,6 +23080,7 @@ watermelon
 watermelons
 waterproofer
 waterproofing
+watershed
 watertight
 waterway
 waterways
@@ -23388,6 +23422,7 @@ woodblocks
 woodchat
 woodchoppers
 woodcocks
+woodcutter
 wooded
 woodenly
 woodlore
