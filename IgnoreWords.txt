@@ -1792,6 +1792,7 @@ begladding
 beglamored
 beglooming
 begorra
+begot
 begrimming
 begroaned
 begrudger
@@ -3564,8 +3565,10 @@ cinders
 cine
 cinema
 cinematheque
+cinematized
 cinematograph
 cineraria
+cinerary
 cinerins
 cines
 cingular
@@ -4045,6 +4048,7 @@ communicate
 communicatee
 communised
 commutate
+commutative
 commutator
 commutators
 commuter
@@ -4108,6 +4112,7 @@ concentering
 concentrating
 concentration
 concents
+concepti
 concepts
 conceptualities
 conceptualizers
@@ -4684,6 +4689,7 @@ crested
 crestings
 cresylic
 cretinism
+crevalle
 crevasse
 crewcut
 crewels
@@ -5838,6 +5844,7 @@ disagreements
 disagrees
 disallows
 disappeared
+disappears
 disappointed
 disappointedly
 disappointingly
@@ -6242,6 +6249,7 @@ drawlingly
 drawls
 drawplate
 drawshaves
+drawtubes
 drayed
 drays
 dread
@@ -6330,6 +6338,7 @@ drywall
 drywells
 dualities
 dualized
+dualizes
 dubiousnesses
 dubitations
 duckboard
@@ -6487,6 +6496,7 @@ echoing
 echolalia
 echolocation
 eclampsia
+eclat
 eclectic
 eclectics
 eclipsed
@@ -7186,6 +7196,7 @@ evidentially
 evildoer
 eviller
 evillest
+evilly
 evinced
 evincible
 eviscerate
@@ -11045,6 +11056,7 @@ jobname
 jockey
 jockstraps
 jocosity
+jocundity
 jog
 joggers
 joggler
@@ -11444,6 +11456,7 @@ lang
 langlaufer
 langlaufs
 langrels
+langues
 laniard
 lankiest
 lanosities
@@ -12650,6 +12663,7 @@ meze
 mezereon
 mezuzahs
 mezuzoth
+mezzalunas
 miasmically
 miasms
 miaul
@@ -12740,6 +12754,7 @@ mignons
 migraine
 migrators
 mikvot
+milded
 mildened
 mildly
 miliarias
@@ -12810,6 +12825,7 @@ minings
 minischools
 miniscule
 miniscules
+minishing
 ministered
 ministerial
 ministering
@@ -14127,6 +14143,7 @@ obsessors
 obsolescent
 obsoletenesses
 obstruct
+obstruction
 obstructionist
 obstructions
 obstructive
@@ -14308,6 +14325,7 @@ opinionatedly
 opinionative
 opioids
 opisthobranch
+opponents
 opportunist
 opportunists
 opposeless
@@ -16662,6 +16680,7 @@ protheses
 protocol
 protohistorian
 protohuman
+proton
 protonated
 protonema
 protonemata
@@ -16863,6 +16882,7 @@ pustulating
 putlog
 putonghua
 putridities
+putridly
 puttered
 putterer
 puttyroot
@@ -17259,6 +17279,7 @@ rebuild
 rebury
 rebutting
 recalcitrances
+recalculate
 recalibrate
 recalibrates
 recalibrating
@@ -17338,6 +17359,7 @@ reconstructed
 reconstructible
 reconsult
 recontacting
+recontextualize
 reconvenes
 reconverted
 reconvicts
@@ -17385,6 +17407,7 @@ redeemable
 redefeat
 redefeated
 redefying
+redelivered
 redemanded
 redemands
 redemptioners
@@ -18002,6 +18025,7 @@ retinoscopy
 retinting
 retints
 retitle
+retook
 retooled
 retort
 retortion
@@ -18413,6 +18437,7 @@ rumba
 rumbaing
 rumbling
 rumbustiously
+rummage
 rummager
 rummier
 rummy
@@ -19005,6 +19030,7 @@ selections
 selectmen
 selects
 selenides
+selenologist
 selfdoms
 selfnesses
 selfward
@@ -19338,6 +19364,7 @@ shortlists
 shortnesses
 shortsighted
 shote
+shots
 shouldered
 shouted
 shovelling
@@ -20247,6 +20274,7 @@ squeaks
 squealers
 squeegee
 squeezer
+squeezers
 squeezing
 squelches
 squib
@@ -20339,6 +20367,7 @@ stavudines
 staw
 staysail
 steaded
+steadies
 steady
 stealing
 stealthiness
@@ -20692,6 +20721,7 @@ subfreezing
 subgenerations
 subgenres
 subglacial
+subheads
 subhumid
 subinfeuded
 subinterval
@@ -21611,6 +21641,7 @@ theatergoings
 theatricalizing
 thecal
 theft
+theine
 theism
 them
 theme
@@ -22101,6 +22132,7 @@ transshipment
 transverse
 trapan
 trapball
+trapezia
 trapezist
 trapeziuses
 traplike
@@ -22943,6 +22975,7 @@ unsuited
 unsurpassed
 unsusceptible
 unsuspecting
+unswerving
 unsystematic
 untacked
 untacks
@@ -23420,6 +23453,7 @@ vociferant
 vociferates
 vociferously
 vodun
+voe
 voguish
 voiced
 voicings
@@ -24070,6 +24104,7 @@ yawping
 yay
 yclept
 yeahs
+yealing
 yeaned
 yearbook
 yearend
