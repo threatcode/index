@@ -731,6 +731,7 @@ anchoress
 anchoritic
 anchormen
 anchorwomen
+ancients
 ancilla
 anconoid
 ancylostomiasis
@@ -963,6 +964,7 @@ aphetic
 aphetically
 aphorise
 aphorised
+aphrodite
 apiarian
 apiarians
 apically
@@ -1618,6 +1620,7 @@ bandeau
 bandeaus
 bandeaux
 banderol
+banderole
 bandies
 banditries
 bandoras
@@ -4089,6 +4092,7 @@ collaboratives
 collaborator
 collage
 collaging
+collagist
 collapsibility
 collateralize
 collaterals
@@ -4966,6 +4970,7 @@ crustily
 cruzado
 cruzados
 cryogen
+cryogens
 cryogeny
 cryophilic
 cryophytes
@@ -5264,6 +5269,7 @@ dawsonites
 day
 daydreamed
 dayglows
+daylights
 daylong
 dayroom
 daywork
@@ -5852,11 +5858,13 @@ diacritic
 diademing
 diagenetically
 diagnose
+diagrammatic
 dial
 dialectologists
 diallages
 diallel
 diallists
+dialogist
 dialogists
 dialogue
 dialogues
@@ -6861,6 +6869,7 @@ elementals
 elementarily
 elenchi
 eleoptene
+elephant
 elephantiases
 elfishly
 elicited
@@ -7765,6 +7774,7 @@ famously
 famousness
 famuli
 fan
+fanatic
 fanciest
 fancifies
 fanciful
@@ -8297,6 +8307,7 @@ focuses
 focusless
 foehn
 foeman
+foes
 foetor
 fogey
 foggier
@@ -8612,6 +8623,7 @@ fundamentally
 funders
 fundus
 funereal
+funfair
 fungals
 fungicidal
 fungicidally
@@ -8831,6 +8843,7 @@ gearchange
 gearwheels
 geegaws
 geeked
+geez
 geishas
 gelate
 gelates
@@ -9648,6 +9661,7 @@ hankered
 hankerer
 hanselled
 haphazards
+haphtarah
 haphtaras
 haploidy
 happiest
@@ -11109,6 +11123,7 @@ intersex
 interspaced
 interspecies
 interspersed
+interstate
 interstates
 intersterile
 interstimulus
@@ -12621,6 +12636,7 @@ mammer
 mammeys
 mammillated
 mammonism
+mammy
 manacled
 manageabilities
 manager
@@ -12680,6 +12696,7 @@ manners
 manning
 mannish
 mannitic
+manometric
 mansion
 manslayers
 mantel
@@ -13383,6 +13400,7 @@ misphrases
 mispointing
 misprint
 misprisions
+misprogram
 mispronounced
 misquotation
 misquotations
@@ -15045,6 +15063,7 @@ outings
 outjinxing
 outjuggles
 outkissing
+outlast
 outlawed
 outleaped
 outlearn
@@ -15575,6 +15594,7 @@ parametrizes
 parametrizing
 parangs
 paranoea
+paranormals
 paranymph
 paraplegia
 paraquat
@@ -16495,6 +16515,7 @@ pockmark
 pockmarking
 pocks
 pocosens
+pocosin
 pod
 podgiest
 podgy
@@ -16875,6 +16896,7 @@ prefigurement
 prefigurements
 prefilled
 prefinances
+prefixing
 preflight
 preflights
 preforming
@@ -17576,6 +17598,7 @@ quintains
 quintar
 quintessence
 quintiles
+quintillionths
 quintin
 quintuple
 quintuplicating
@@ -19241,6 +19264,7 @@ sandbagger
 sandbar
 sandbars
 sandbur
+sandburrs
 sandhogs
 sandlike
 sandlot
@@ -19378,6 +19402,7 @@ scandalized
 scandalmonger
 scant
 scanties
+scapegoating
 scapegoatisms
 scapegraces
 scapolites
@@ -19977,6 +20002,7 @@ shirttailed
 shitted
 shittimwoods
 shive
+shivering
 shlep
 shlepping
 shmear
@@ -21994,6 +22020,7 @@ taleggio
 taler
 talipeds
 talipot
+talismans
 talk
 talkable
 talkbacks
@@ -22080,6 +22107,7 @@ tarsi
 tartarous
 tarted
 tarter
+tartest
 tartier
 tartish
 tartlets
@@ -22852,6 +22880,7 @@ transmissive
 transmissometer
 transmits
 transmittable
+transmitter
 transmogrified
 transmountain
 transmutable
@@ -23058,6 +23087,7 @@ troutier
 trowel
 trows
 truant
+truckable
 truckfuls
 truckman
 trueing
@@ -23833,6 +23863,7 @@ upreached
 uprootals
 uprush
 uprushing
+ups
 upsent
 upshifted
 upshooting
@@ -24099,6 +24130,7 @@ vestiges
 vestigium
 vestless
 vestlike
+vetoers
 vex
 vexatiousness
 vexatiousnesses
@@ -24213,6 +24245,7 @@ vitellines
 vitiates
 vitiations
 vitrifications
+vitrifies
 vitrine
 vitrines
 vitriol
@@ -24614,6 +24647,7 @@ wholisms
 whooped
 whop
 whopping
+whoso
 whump
 whumps
 wiccas
@@ -24876,6 +24910,7 @@ xylan
 xylenes
 xylographs
 xylotomy
+xylyl
 xylyls
 xyst
 xystos
