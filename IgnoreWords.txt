@@ -809,6 +809,7 @@ antechoir
 antefixa
 antelope
 antennules
+antepenult
 anteverted
 anthemic
 anthemion
@@ -1615,6 +1616,7 @@ barned
 barnier
 barnyards
 baroceptors
+barograph
 barometrically
 barometry
 baronne
@@ -3103,6 +3105,7 @@ catalases
 catalogues
 catalysis
 catalyst
+catalytically
 catamites
 cataractous
 catarrhally
@@ -3453,6 +3456,7 @@ chirren
 chitchatting
 chitin
 chitins
+chiton
 chitosan
 chittered
 chivalrous
@@ -3894,6 +3898,7 @@ cohesivenesses
 coholders
 cohosh
 cohostessing
+cohune
 coif
 coiffe
 coiffes
@@ -4269,6 +4274,7 @@ contagious
 contagium
 containable
 contemn
+contemplatives
 contemplators
 contemporaries
 contemporary
@@ -4622,6 +4628,7 @@ cracked
 cracking
 crackle
 cracks
+craftinesses
 crag
 craggier
 cragginesses
@@ -4691,6 +4698,7 @@ cresylic
 cretinism
 crevalle
 crevasse
+creviced
 crewcut
 crewels
 crewing
@@ -5848,6 +5856,7 @@ disappears
 disappointed
 disappointedly
 disappointingly
+disappoints
 disapprove
 disapprovers
 disapproves
@@ -6555,6 +6564,7 @@ efflorescent
 effluviums
 effluxes
 effluxion
+effortlessness
 efts
 egalitarian
 egests
@@ -7691,6 +7701,7 @@ fewness
 fey
 fiance
 fiances
+fiasco
 fibber
 fiberboard
 fibered
@@ -8364,6 +8375,7 @@ futilitarian
 futtocks
 futuristically
 futzing
+fuzee
 fuzees
 fuzz
 fuzzes
@@ -8695,6 +8707,7 @@ glasses
 glasshouses
 glassine
 glassines
+glassinesses
 glassless
 glassmakings
 glassware
@@ -8795,6 +8808,7 @@ glycosyls
 glyphs
 glyptic
 gnarred
+gnarrs
 gnashing
 gnattiest
 gneissose
@@ -9076,6 +9090,7 @@ gruel
 gruffest
 gruffish
 grumble
+grumbling
 grumblingly
 grumbly
 grummest
@@ -10642,6 +10657,7 @@ integrabilities
 integrand
 integrators
 intellectualist
+intellectuals
 intendant
 intends
 intenerates
@@ -11025,6 +11041,7 @@ jeroboams
 jerry
 jerrycan
 jesuitry
+jetfoils
 jetons
 jetport
 jeu
@@ -11200,6 +11217,7 @@ keir
 kelly
 kelts
 kelvins
+kennels
 kenspeckle
 kent
 keratinophilic
@@ -11564,6 +11582,7 @@ lazying
 leachabilities
 leached
 leacher
+leachy
 leadplants
 leadscrews
 leafiness
@@ -12182,6 +12201,7 @@ malemutes
 malevolent
 malfed
 malformation
+malicious
 malign
 malignance
 malignancies
@@ -12213,6 +12233,7 @@ mammillated
 mammonism
 manacled
 manageabilities
+manager
 manageresses
 managerial
 manas
@@ -12486,6 +12507,7 @@ megacorporation
 megafaunal
 megaloblastic
 megaparsecs
+megapixels
 megapods
 megaproject
 megaprojects
@@ -12991,6 +13013,7 @@ mistouches
 mistranscribing
 mistranslation
 mistresses
+mistrustful
 mistrusting
 mistruths
 misunions
@@ -13075,6 +13098,7 @@ mollah
 mollie
 mollies
 mollifies
+mollusc
 molluscans
 mollymawk
 mollymawks
@@ -13308,6 +13332,7 @@ multilingual
 multimegawatt
 multimodal
 multimode
+multipage
 multiparae
 multiparameter
 multiparous
@@ -13395,6 +13420,7 @@ mustangs
 muster
 mustering
 mustier
+musty
 mutably
 mutageneses
 mutagenically
@@ -14202,6 +14228,7 @@ odorizes
 odyl
 odysseys
 oecumenical
+oenology
 oeuvre
 offal
 offbeat
@@ -16346,6 +16373,7 @@ prelatures
 prelecting
 prelector
 prelibations
+preliminarily
 prelimiting
 prelimits
 preload
@@ -19465,6 +19493,7 @@ signors
 signposts
 sika
 silane
+silencers
 silences
 silentest
 silently
@@ -20433,6 +20462,7 @@ sternites
 sternness
 sternums
 sternutation
+steroid
 steroidal
 steroidogenesis
 stibines
@@ -21527,6 +21557,7 @@ tenebrists
 tenement
 tenfolds
 tenge
+tenia
 tenner
 tenon
 tenors
@@ -22401,6 +22432,7 @@ turndown
 turndowns
 turnings
 turnip
+turnkeys
 turnspit
 turnup
 turpeth
@@ -23342,6 +23374,7 @@ vicar
 vicarates
 vicariate
 vicariously
+vicarly
 vicarships
 vice
 vicegerent
@@ -23350,6 +23383,7 @@ viceroyalty
 vichies
 vichy
 vicinages
+victimologists
 victorious
 victual
 victualer
@@ -23586,6 +23620,7 @@ warns
 warpages
 warpers
 warrantableness
+warrantying
 warrener
 warrigals
 warsaws
