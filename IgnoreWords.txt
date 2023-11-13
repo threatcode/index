@@ -101,6 +101,7 @@ accessories
 accessorizes
 acclimated
 acclimatised
+acclivities
 accommodations
 accompanist
 accompanists
@@ -450,6 +451,7 @@ airinesses
 airing
 airings
 airlifted
+airmailing
 airpark
 airplanes
 airposts
@@ -1011,6 +1013,7 @@ apperceived
 apperception
 apperceptive
 appestats
+appetency
 appetiser
 applauders
 apples
@@ -1962,6 +1965,7 @@ bespread
 besprinkled
 besprinkling
 besteading
+bested
 bestially
 bestiary
 bestowal
@@ -2518,6 +2522,7 @@ braes
 braggarts
 bragger
 braider
+brailed
 brailing
 brails
 brain
@@ -2926,6 +2931,7 @@ callouses
 callousing
 callousness
 callowness
+callus
 calluses
 calm
 calmness
@@ -3449,6 +3455,7 @@ charivaried
 charivaris
 charkha
 charking
+charlotte
 charms
 charnels
 charpai
@@ -4110,6 +4117,7 @@ colognes
 colombard
 colonising
 colonists
+colonitis
 colonized
 colonizer
 coloratura
@@ -4140,6 +4148,7 @@ combers
 combinable
 combinational
 combinations
+combinatorially
 combine
 combings
 comblike
@@ -4213,6 +4222,7 @@ comparatists
 comparing
 comparison
 comparting
+compartmenting
 compassionate
 compassionately
 compatibles
@@ -6106,6 +6116,7 @@ disenchant
 disenchantingly
 disenchants
 disendowment
+disenfranchises
 disengages
 disentangling
 disequilibrium
@@ -7301,9 +7312,11 @@ escallops
 escaloped
 escapade
 escapes
+escapologies
 escapologists
 escargot
 escarping
+eschar
 eschatologies
 escheated
 eschewer
@@ -7416,6 +7429,7 @@ evaluative
 evaluators
 evanescence
 evangelistic
+evasive
 evasively
 eveners
 evenhandedness
@@ -7709,6 +7723,7 @@ faerie
 faeries
 faggier
 fagins
+fagotings
 fagots
 failure
 faineance
@@ -8674,6 +8689,7 @@ gal
 gala
 galago
 galas
+galenic
 galenical
 galettes
 galiot
@@ -8693,6 +8709,7 @@ gallooned
 galloots
 gallstone
 galoot
+galops
 galvanic
 galvanised
 galvanising
@@ -9882,6 +9899,7 @@ heroism
 heroisms
 heros
 herpetological
+herrenvolks
 herringboning
 hertz
 hesitances
@@ -11136,6 +11154,7 @@ introductions
 intruding
 intrusivenesses
 intrusted
+intubates
 intuitable
 intuitional
 intuitions
@@ -11807,6 +11826,7 @@ lambent
 lambie
 lambkill
 lamebrained
+lamentable
 lamentably
 laminas
 laminated
@@ -11891,6 +11911,7 @@ latrine
 latrines
 latterly
 lattes
+lattins
 latu
 laudably
 laudation
@@ -12634,6 +12655,7 @@ mangonels
 mangy
 manhandle
 manhole
+manholes
 manhunt
 manias
 manicottis
@@ -14557,6 +14579,7 @@ obelias
 obelising
 obesely
 obeyer
+obeying
 obeys
 obfuscations
 obis
@@ -15209,6 +15232,7 @@ overfill
 overflowed
 overfulfilling
 overfulfills
+overgeneralize
 overgenerosity
 overgenerously
 overgilt
@@ -15658,6 +15682,7 @@ patcher
 patchiest
 patchily
 patchinesses
+patchoulies
 patchouly
 patellate
 paten
@@ -17145,6 +17170,7 @@ proofer
 proofread
 proofreading
 propellent
+propellor
 propels
 propended
 propensity
@@ -19090,6 +19116,7 @@ sabbed
 sabed
 sabines
 sabins
+sabotages
 sabre
 sabres
 sabulous
@@ -19644,6 +19671,7 @@ sejant
 sel
 seldomly
 selection
+selectionist
 selections
 selectmen
 selects
@@ -21128,6 +21156,7 @@ stipple
 stipular
 stipulate
 stipulation
+stipulators
 stirpes
 stirrer
 stitchworts
@@ -21516,6 +21545,7 @@ sufferable
 sufferers
 sufflate
 suffocate
+suffragist
 sugarberry
 sugarbushes
 sugarhouses
@@ -23697,6 +23727,7 @@ unsprung
 unstablenesses
 unstacks
 unstained
+unstalked
 unstate
 unsteels
 unstinted
@@ -23795,6 +23826,7 @@ uppercased
 uppings
 uppishness
 uppitiness
+uppity
 uppropping
 upreach
 upreached
@@ -24048,6 +24080,7 @@ vermouth
 vernal
 vernalized
 vernalizing
+vernicle
 vernixes
 versatile
 verses
@@ -24113,6 +24146,7 @@ viewiest
 views
 vigesimal
 vigilant
+vignetter
 vignetters
 vignettes
 vilifies
@@ -24256,6 +24290,7 @@ wacker
 wackest
 wackily
 waddles
+waddly
 waddy
 wadeable
 waded
