@@ -1,0 +1,12 @@
+snowflake.snowpark.Session.sql,https://docs.snowflake.com/en/developer-guide/snowpark/reference/python/latest/api/snowflake.snowpark.Session.sql
+snowflake-starter/utils/case_sensitivity.sql at master - GitHub,https://github.com/mattarderne/snowflake-starter/blob/master/utils/case_sensitivity.sql
+adapters.sql - dbt-labs/dbt-snowflake - GitHub,https://github.com/dbt-labs/dbt-snowflake/blob/main/dbt/include/snowflake/macros/adapters.sql
+lab-snowflake-powerbi-load-to-snowflake.sql - GitHub,https://raw.githubusercontent.com/sfc-gh-ccollier/sfquickstart-samples/main/samples/snowflake-powerbi-retail-vhol/scripts/lab-snowflake-powerbi-load-to-snowflake.sql
+transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql,https://gitlab.com/gitlab-data/analytics/-/blob/48e7ef194be084b13d8091d3c97ca2c4ca89cf6d/transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql
+mirrors_Flipboard/dbt-date - Gitee,https://gitee.com/mirrors_Flipboard/dbt-date/blob/fix/dbt-0.20-compatibility/macros/calendar_date/day_name.sql
+Captcheck/database.sql at master - Netsyms Technologies,https://source.netsyms.com/Netsyms/Captcheck/src/branch/master/database.sql
+Pansynchro.SQL 0.6.1 on NuGet - Libraries.io,https://libraries.io/nuget/Pansynchro.SQL
+files.max99x.com/repos.sql,http://files.max99x.com/repos.sql
+~admin/kidgrow-microservices-platform.git - Gitblit,http://101.132.172.96:7070/blame/~admin%252Fkidgrow-microservices-platform.git/8bf6fe1f580d132991ac13ba156716ea8ddd9c7c/kidgrow-doc%252Fsql%252Fuser_center.sql
+原始文档,https://www.mooho.com.cn:8443/raw/WMS_2.0.git/74a38f87f0c6fab5855c421042eebfd7bd2d701c/WMS.Database.SqlServer!StoredProcedure!usp_finish_inbound.sql
+Untitled,https://www.mooho.com.cn:8443/patch/WMS_2.0.git/0191b7c35ffecc6c932ca686219a0b8f647136b9/WMS.Database.SqlServer%252FStoredProcedure%252Fusp_package_out.sql%3Fhb%3Dcba7a59f158a984fcc2d42c064e3a87daa2107ac
