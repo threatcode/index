@@ -623,6 +623,7 @@ ambulances
 ambulate
 ambuscaded
 ambusher
+ameban
 amebic
 amelcorn
 ameliorating
@@ -1230,6 +1231,7 @@ aspartate
 aspartates
 aspectual
 aspergilli
+aspergillums
 asperities
 asperse
 asphaltite
@@ -3147,6 +3149,7 @@ carburizations
 carcinogenic
 carcinoma
 carcinosarcoma
+carcinosarcomas
 card
 cardiac
 cardio
@@ -3562,6 +3565,7 @@ cherries
 cherrylike
 cherrystone
 cherty
+chessmen
 chested
 cheths
 chevelures
@@ -3735,6 +3739,7 @@ cicatrix
 cicerones
 ciceros
 cicisbeos
+cicorees
 cigaret
 cigarets
 cilia
@@ -3916,6 +3921,7 @@ closet
 clostridial
 closuring
 clotheslining
+clothespin
 cloudlessly
 cloured
 clout
@@ -4485,6 +4491,7 @@ contagions
 contagious
 contagium
 containable
+containerizes
 contemn
 contemplatives
 contemplators
@@ -4711,6 +4718,7 @@ cossacks
 cosseting
 costal
 costally
+costar
 coster
 costermongers
 costers
@@ -5112,6 +5120,7 @@ currency
 curriculums
 currie
 currijong
+curring
 currycombed
 currying
 curseder
@@ -6064,6 +6073,7 @@ dinosaurs
 dints
 diodes
 dionysiac
+dioptrics
 dioramas
 diorite
 dioritic
@@ -7500,6 +7510,7 @@ eurhythmy
 euro
 euroky
 europium
+eurythmic
 eurythmy
 eustasy
 eutherian
@@ -8041,6 +8052,7 @@ feudatories
 feuded
 fever
 feverishnesses
+feverous
 feverweed
 feverwort
 fewness
@@ -11606,6 +11618,7 @@ jowlinesses
 joyride
 jubas
 jubhahs
+jubilating
 judder
 judicious
 judo
@@ -12311,6 +12324,7 @@ limnetic
 limo
 limpidity
 limpkins
+linacs
 linage
 lincomycins
 lindy
@@ -12403,6 +12417,7 @@ loach
 loadmaster
 loadstars
 loafer
+loamy
 loaner
 loanshift
 loath
@@ -13000,6 +13015,7 @@ mazedness
 maziness
 mazourka
 mazuma
+mbaqangas
 mead
 meager
 meanderer
@@ -15460,6 +15476,7 @@ overnighting
 overnutritions
 overopinionated
 overoptimists
+overorchestrate
 overornaments
 overpackages
 overpassing
@@ -15992,6 +16009,7 @@ pekepoo
 pelage
 pelagial
 pelagics
+pellagras
 pelletizations
 pelletizer
 peloria
@@ -16118,6 +16136,7 @@ perimeters
 periodontics
 perionychia
 periosteal
+periosteum
 periphrastic
 periphytic
 peripter
@@ -16447,6 +16466,7 @@ pimplier
 pin
 pinaster
 pinata
+pinbone
 pincerlike
 pincers
 pincher
@@ -16866,6 +16886,7 @@ portraitures
 portraying
 portrays
 posers
+posher
 posit
 positing
 positiver
@@ -17381,6 +17402,7 @@ prophethood
 propines
 propining
 propionates
+propitiate
 propitiousness
 propman
 propone
@@ -17519,6 +17541,7 @@ psychogeneses
 psychographs
 psychohistory
 psycholinguist
+psychological
 psychologise
 psychologisms
 psychologizing
@@ -17822,6 +17845,7 @@ rachises
 racialist
 rackfuls
 rackingly
+rackwork
 racons
 raconteur
 raconteurs
@@ -18465,6 +18489,7 @@ rejuvenator
 rejuvenescences
 rekeyboards
 reknitted
+relabel
 relacquering
 relands
 relandscape
@@ -19196,6 +19221,7 @@ rosewater
 roshi
 roster
 rostrate
+rostrums
 rotating
 rotation
 rotche
@@ -21298,6 +21324,7 @@ steamily
 steamships
 steatopygias
 steatorrhea
+steeliness
 steelwork
 steelyard
 steelyards
@@ -22011,6 +22038,7 @@ suspiration
 suspires
 suss
 sustainability
+sustentations
 sustentative
 susurruses
 sutured
@@ -22130,6 +22158,7 @@ synchronical
 synchronically
 synchronisation
 synchronism
+synchronizes
 synchronously
 synchs
 synclinal
@@ -22644,7 +22673,9 @@ thermalized
 thermistor
 thermocouple
 thermodynamics
+thermoform
 thermographies
+thermojunction
 thermojunctions
 thermomagnetic
 thermoreceptors
@@ -23118,6 +23149,7 @@ transmutes
 transparent
 transplant
 transplanted
+transpolar
 transponder
 transponders
 transportation
@@ -23498,6 +23530,7 @@ ultramarathons
 ultramasculine
 ultraorthodox
 ultrapractical
+ultrarealistic
 ultraslick
 ultrasoft
 ultrasonics
@@ -24625,6 +24658,7 @@ wallydrags
 waltzer
 waltzes
 wampish
+wamuses
 wand
 wandered
 waniest
@@ -25265,6 +25299,7 @@ zigzag
 zigzags
 zikkurat
 zikurat
+zikurats
 zincate
 zincking
 zingani
