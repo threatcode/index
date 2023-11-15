@@ -252,6 +252,7 @@ admen
 administered
 administrant
 administrators
+admirals
 admiralties
 admirations
 admire
@@ -1102,6 +1103,7 @@ apprized
 approbation
 appropriation
 approvals
+aprotic
 apsidal
 apsis
 apteral
@@ -1338,6 +1340,7 @@ asswaged
 asswages
 astasia
 astatines
+asterisks
 asteroid
 asthenies
 asthmatics
@@ -3188,6 +3191,7 @@ canola
 canoness
 canonesses
 canonicals
+canonization
 canonize
 canonries
 canoodled
@@ -3927,6 +3931,7 @@ circularities
 circularity
 circulated
 circumambulates
+circumcircle
 circumcised
 circumfluent
 circumfused
@@ -4317,6 +4322,7 @@ colleagues
 collectives
 collectivising
 collectivisms
+colleger
 collegia
 collembolans
 collembolous
@@ -4470,6 +4476,7 @@ complexified
 complicated
 complicatedly
 complicates
+complimenting
 compliments
 comportment
 composted
@@ -5284,6 +5291,7 @@ cud
 cuddliest
 cuestas
 cuff
+cuittle
 cuittles
 culinarians
 cullays
@@ -5331,6 +5339,7 @@ curium
 curler
 curlicue
 curlicued
+curliest
 curlily
 curn
 currans
@@ -6219,6 +6228,7 @@ diarrheas
 diarrhetic
 diarthroses
 diary
+diastases
 diastatic
 diaster
 diastereomeric
@@ -6920,6 +6930,7 @@ drownd
 drowned
 drowns
 drowsier
+drowsiness
 drowsy
 drudgeries
 druggets
@@ -7387,6 +7398,7 @@ employers
 empoisonments
 emporium
 emprise
+emprizes
 empty
 empyemas
 empyemic
@@ -7884,6 +7896,7 @@ evinced
 evincible
 eviscerate
 eviscerates
+eviscerations
 evited
 evocativeness
 evoke
@@ -8040,6 +8053,7 @@ expressiveness
 expressivities
 expressmen
 expresso
+expressways
 expunction
 expunctions
 expunges
@@ -8508,6 +8522,7 @@ finical
 finicking
 finish
 finished
+finishers
 finishing
 fink
 finking
@@ -8819,6 +8834,7 @@ footsies
 footslogger
 footsore
 footsy
+footwalls
 foozler
 foozling
 fop
@@ -9821,6 +9837,7 @@ gratitudes
 gratulate
 gratulation
 gravelled
+gravelling
 gravesides
 gravest
 graveyard
@@ -10736,6 +10753,7 @@ horseshits
 horseshoers
 horsetail
 horsiest
+horsiness
 hortatively
 horticultural
 hosannaing
@@ -11719,6 +11737,7 @@ intermittences
 intermittently
 intermitters
 intermitting
+internality
 internally
 internationally
 interned
@@ -13417,6 +13436,7 @@ mannerist
 manners
 manning
 mannish
+mannishness
 mannitic
 manometric
 mansion
@@ -13633,6 +13653,7 @@ medicant
 medicares
 medicks
 medigap
+medii
 mediocrity
 meditate
 meditation
@@ -13703,6 +13724,7 @@ memorialize
 memorializes
 memorializing
 memorizers
+memos
 menaced
 menacing
 menad
@@ -14174,6 +14196,7 @@ mispointing
 misprint
 misprisions
 misprogram
+misprograming
 mispronounced
 misquotation
 misquotations
@@ -15956,6 +15979,7 @@ outprayed
 outpreaching
 outprices
 outproduce
+outpunching
 outputs
 outrageously
 outraised
@@ -16592,6 +16616,7 @@ passings
 passivities
 passless
 past
+pastelists
 pastellists
 pasterns
 pasters
@@ -17665,6 +17690,7 @@ posses
 possess
 possessedly
 possession
+possessiveness
 postaccident
 postadolescent
 postals
@@ -17968,6 +17994,7 @@ preservability
 preservable
 presettled
 presidencies
+president
 presidios
 presidiums
 presignalled
@@ -21402,6 +21429,7 @@ skaldship
 skateboarder
 skateboardings
 skeanes
+skedaddling
 skeed
 skeeters
 skeletonising
@@ -23018,6 +23046,7 @@ surpassing
 surreptitiously
 surround
 surtax
+surveilling
 survey
 survivalists
 surviver
@@ -24285,6 +24314,7 @@ trices
 trichiasis
 trichina
 trichinas
+trichites
 trichomoniases
 trichroic
 trichromatisms
@@ -24458,6 +24488,7 @@ tugless
 tuitional
 tumblers
 tumbles
+tumbleset
 tumbleweed
 tumbleweeds
 tumefied
@@ -24977,6 +25008,7 @@ unintentional
 unintimidated
 unionisations
 unionised
+unionized
 unionizes
 uniparental
 uniquenesses
@@ -25807,6 +25839,7 @@ warlordism
 warmheartedness
 warmnesses
 warmth
+warn
 warnings
 warns
 warpages
@@ -26235,6 +26268,7 @@ woodnote
 woodruff
 woodruffs
 woodsy
+woof
 woolens
 woolfells
 woolgatherers
@@ -26510,3 +26544,4 @@ zymograms
 zymolyses
 zymosan
 zymurgies
+zymurgy
