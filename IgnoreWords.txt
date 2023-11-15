@@ -255,6 +255,7 @@ administrators
 admiralties
 admirations
 admire
+admiring
 admissibilities
 admittance
 admittee
@@ -641,6 +642,7 @@ amazon
 ambassadorial
 ambiguousnesses
 ambitions
+ambivalence
 ambiversions
 ambles
 amblygonite
@@ -1708,6 +1710,7 @@ bananas
 banco
 band
 bandaged
+bandaid
 bandanas
 bandeau
 bandeaus
@@ -2137,6 +2140,7 @@ biconvex
 bicycler
 bid
 biddably
+bidden
 biddy
 biennia
 biennials
@@ -2351,6 +2355,7 @@ blighty
 blinders
 blinis
 blinkards
+blinked
 blinkered
 blipping
 blissed
@@ -2734,6 +2739,7 @@ brier
 brierroot
 brigaded
 brigading
+brigandines
 brightened
 brightening
 brightest
@@ -5331,6 +5337,7 @@ curtailing
 curtailment
 curtate
 curtseying
+curveball
 curvilinearity
 curving
 cuspal
@@ -5427,6 +5434,7 @@ czarisms
 czars
 dab
 dabbed
+dabbers
 dacoits
 dacquoises
 dactyli
@@ -6566,6 +6574,7 @@ distortions
 distracted
 distractibility
 distrainers
+distraining
 distress
 distressed
 distressfulness
@@ -6588,6 +6597,7 @@ disyllable
 dits
 ditto
 dittoing
+ditty
 diurnally
 divan
 dive
@@ -7118,6 +7128,7 @@ edentulous
 edge
 edgers
 edibility
+edify
 edition
 editorializing
 editresses
@@ -8506,6 +8517,7 @@ firetraps
 firewalls
 firewaters
 firkins
+firms
 firn
 firstly
 firstnesses
@@ -8912,6 +8924,7 @@ fragmental
 fragmentate
 framers
 framework
+francize
 francs
 frankers
 frankincense
@@ -9275,6 +9288,7 @@ gateways
 gats
 gaucheries
 gaudery
+gauds
 gauffering
 gaur
 gawked
@@ -9917,6 +9931,7 @@ grumblingly
 grumbly
 grummest
 grummeted
+grummets
 grumpily
 grumpiness
 grumpish
@@ -12192,6 +12207,7 @@ kebars
 keblahs
 kecking
 keddahs
+keelless
 keelson
 keen
 keeners
@@ -12966,6 +12982,7 @@ lodes
 lodge
 loesses
 loft
+lofted
 loftier
 loftiness
 loganberries
@@ -13895,6 +13912,7 @@ mignons
 migraine
 migrators
 mikvot
+miladis
 milded
 mildened
 mildly
@@ -14068,6 +14086,7 @@ misdoubts
 misdrawing
 misdrew
 misdrive
+miseducates
 misemphasize
 misemphasized
 misemployment
@@ -14350,9 +14369,11 @@ mopery
 moppet
 moquette
 moraine
+moralists
 moralize
 moratoria
 morbidly
+morbific
 mordants
 morelles
 morellos
@@ -15331,6 +15352,7 @@ numeration
 numerical
 numerousnesses
 numina
+numinousness
 numismatically
 nummary
 nummular
@@ -17463,6 +17485,7 @@ pollinator
 pollinia
 pollists
 polluter
+pollutes
 polluting
 polonium
 poltroon
@@ -17814,6 +17837,7 @@ prejudges
 prejudgments
 prelatic
 prelatures
+prelect
 prelecting
 prelector
 prelibations
@@ -18426,6 +18450,7 @@ pyrethroids
 pyric
 pyridoxal
 pyrimethamines
+pyroceram
 pyrocerams
 pyroelectricity
 pyrola
@@ -19388,6 +19413,7 @@ repanels
 reparably
 repasts
 repatriates
+repatriating
 repatterning
 repave
 repaving
@@ -21686,6 +21712,7 @@ solecist
 solecistic
 solecized
 solemnizes
+soleness
 solenoid
 soleplate
 solicited
@@ -22186,6 +22213,7 @@ steamfitter
 steamfitters
 steamily
 steamships
+stearins
 steatopygias
 steatorrhea
 steeliness
@@ -22597,6 +22625,7 @@ submissively
 submucosas
 submultiple
 subnasal
+subniches
 subnormally
 subnormals
 subnucleuses
@@ -22852,6 +22881,7 @@ superscouts
 superscribing
 superseders
 supersedure
+supersellers
 supersells
 supersensible
 supersession
@@ -23013,6 +23043,7 @@ swooper
 swoopers
 swoopy
 swops
+swordman
 swordplayer
 swordsmen
 swouns
@@ -24104,6 +24135,7 @@ transposition
 transsexualism
 transshipment
 transvalues
+transversals
 transverse
 trapan
 trapball
@@ -24603,6 +24635,7 @@ uncarded
 uncase
 uncast
 uncaught
+unceasingly
 uncertainnesses
 uncertainties
 unchaining
@@ -24672,6 +24705,7 @@ uncute
 uncynically
 undated
 undauntable
+undeluded
 undeniably
 underbake
 underbid
@@ -25413,6 +25447,7 @@ vesicle
 vesiculations
 vespiary
 vestal
+vestee
 vestiges
 vestigium
 vestless
