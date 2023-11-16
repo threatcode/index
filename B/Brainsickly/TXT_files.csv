@@ -15,3 +15,18 @@ porter-stemmer 0.1.0 - Docs.rs,https://docs.rs/crate/porter-stemmer/0.1.0/source
 output.txt - Computer Science,http://cs.indstate.edu/~jkinne/cs559-f2013/code/output.txt
 smallwords.txt,https://michael.cadilhac.name/private/csc301/smallwords.txt
 10-15-20030401.txt,http://www.scrabbleplayers.org/words/10-15-20030401.txt
+macbeth.txt,http://www.cs.uni.edu/~wallingf/teaching/cs1510/sessions/session23/hw09/macbeth.txt
+https://tile.loc.gov/storage-services/public/gdcma...,https://tile.loc.gov/storage-services/public/gdcmassbookdig/tragedyofmacbeth23shak/tragedyofmacbeth23shak_djvu.txt
+https://tile.loc.gov/storage-services/public/gdcma...,https://tile.loc.gov/storage-services/public/gdcmassbookdig/shakespearesmacb01shak/shakespearesmacb01shak_djvu.txt
+macbeth.txt - University of Notre Dame,http://www.nd.edu/~ccl/software/tutorials/ccgrid13/mf-hw/macbeth.txt
+https://ia902807.us.archive.org/18/items/shakespea...,https://ia902807.us.archive.org/18/items/shakespearestra59shakgoog/shakespearestra59shakgoog_djvu.txt
+www.seattlescrabble.org/data/ThemeLists/nonsense.txt,http://www.seattlescrabble.org/data/ThemeLists/nonsense.txt
+https://ia800602.us.archive.org/3/items/shakespear...,https://ia800602.us.archive.org/3/items/shakespearestra00shak/shakespearestra00shak_djvu.txt
+www.seattlescrabble.org/data/ThemeLists/disease.txt,http://www.seattlescrabble.org/data/ThemeLists/disease.txt
+bigfile.txt,http://www.cs.rpi.edu/courses/fall99/cs2/bigfile.txt
+All Shakespeare's Tragedies (one text file) - GWU SEAS,https://www2.seas.gwu.edu/~rhyspj/shakespeare/alltragedies.txt
+books.cs.umass.edu/mellon/data/alignment/ENG/urn:c...,http://books.cs.umass.edu/mellon/data/alignment/ENG/urn:cts:englishLit:shakespeare.mac/playsofshakespea05shak_align.txt
+https://inst.eecs.berkeley.edu/~cs61a/fa07/library...,https://inst.eecs.berkeley.edu/~cs61a/fa07/library/python_modules/python_modules/shakespeare/king_lear.txt
+dictionary.txt 0.1.0-Preview1 - PowerShell Gallery,https://www.powershellgallery.com/packages/Microsoft.PowerShell.TextUtility/0.1.0-Preview1/Content/dictionary.txt
+porter-stemmer 0.1.0 - Docs.rs,https://docs.rs/crate/porter-stemmer/0.1.0/source/input.txt
+10-15-20030401.txt,http://www.scrabbleplayers.org/words/10-15-20030401.txt
