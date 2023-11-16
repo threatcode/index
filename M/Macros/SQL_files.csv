@@ -1,0 +1,9 @@
+dbt-utils-sqlserver/macros/sql/get_column_values.sql at master,https://github.com/mikaelene/dbt-utils-sqlserver/blob/master/macros/sql/get_column_values.sql
+dbt-labs-experimental-features/snapshot-testing/macros/test_is_null ...,https://github.com/fishtown-analytics/dbt-labs-experimental-features/blob/master/snapshot-testing/macros/test_is_null.sql
+transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql,https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/macros/sensitive/hash_sensitive_columns.sql
+mirrors_Flipboard/dbt-date - Gitee,https://gitee.com/mirrors_Flipboard/dbt-date/blob/main/macros/calendar_date/month_name.sql
+mirrors_Flipboard/dbt-date - Gitee,https://gitee.com/mirrors_Flipboard/dbt-date/blob/fix/dbt-0.20-compatibility/macros/calendar_date/day_name.sql
+FireDAC.Comp.Client.TFDCustomQuery.SQL - RAD Studio API ...,https://docwiki.embarcadero.com/Libraries/Sydney/en/FireDAC.Comp.Client.TFDCustomQuery.SQL
+Source of data_test.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/diff/ui/tests/api_json/data/data_test.sql%3FautoSincePath%3Dfalse%26until%3D343647cb01c1e07588a09cc8a9889b4c588f51a2%26at%3D343647cb01c
+https://raw.githubusercontent.com/macrozheng/mall-...,https://raw.githubusercontent.com/macrozheng/mall-learning/master/document/sql/mall_tiny.sql
+queries.sql - Ankit Gusain - DCU,https://gitlab.computing.dcu.ie/gusaina2/ca675_cloud_technology_assignment_1/-/blob/e611692c48af491e4056c2ccc5acc17615841596/queries.sql
