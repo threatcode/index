@@ -834,6 +834,7 @@ angiosperms
 angled
 anglerfishes
 anglers
+anglicising
 anglicization
 anglicize
 angriness
@@ -987,6 +988,7 @@ antimicrobials
 antimitotics
 antimonopolist
 antinomes
+antinomic
 antinomy
 antioxidants
 antiparallel
@@ -3813,6 +3815,7 @@ cheapish
 cheapskates
 chebec
 checkable
+checkbook
 checkbooks
 checklisting
 checkmarks
@@ -4222,6 +4225,7 @@ cloak
 clocker
 clodhopping
 clods
+clofibrates
 cloggers
 cloggiest
 cloisters
@@ -5027,6 +5031,7 @@ cornbraided
 corncribs
 cornering
 corners
+cornerstone
 cornfield
 cornfields
 cornhusk
@@ -5300,6 +5305,7 @@ crawlway
 crayoning
 crayonist
 crazily
+creakier
 creakiest
 creaky
 cream
@@ -7754,6 +7760,8 @@ endoscopy
 endoskeletal
 endospores
 endostea
+endosymbionts
+endothelium
 endower
 endowing
 endrin
@@ -7990,6 +7998,7 @@ equipollences
 equipper
 equivalent
 equivocation
+eradicated
 erasability
 erasable
 erases
@@ -8825,6 +8834,7 @@ finalisms
 finalize
 finals
 finders
+finds
 fines
 finfoot
 fingerboard
@@ -8832,6 +8842,7 @@ fingerhold
 fingerings
 fingerpicking
 fingerpickings
+fingertip
 fingertips
 finical
 finicking
@@ -9770,6 +9781,7 @@ geometer
 geometrician
 geometrid
 geometrization
+geometrized
 geomorphic
 geomorphology
 geophysics
@@ -10459,6 +10471,7 @@ habaneras
 habdalahs
 habitability
 habitan
+habited
 habitualnesses
 habitue
 habus
@@ -11993,6 +12006,7 @@ innuendoing
 innuendos
 innumerable
 inosculates
+inosites
 inpoured
 inquietude
 inquisitively
@@ -13412,6 +13426,7 @@ lipper
 lippiness
 lippinesses
 lipping
+lipreader
 lipreaders
 lipreading
 lips
@@ -15432,6 +15447,7 @@ negativistic
 negator
 neglect
 negligence
+negligences
 negliges
 negotiations
 negotiators
@@ -17041,6 +17057,7 @@ panetelas
 pangeneses
 pangens
 pangolins
+panhandled
 panhandles
 panhandling
 panics
@@ -17129,6 +17146,7 @@ paras
 parashoth
 parasitical
 parasitises
+parasitize
 parasitoid
 parasitologist
 parasitosis
@@ -17195,6 +17213,7 @@ parvolins
 pas
 pashalic
 pashalik
+pasodobles
 pass
 passable
 passably
@@ -17867,6 +17886,7 @@ pincerlike
 pincers
 pinchbeck
 pincher
+pinching
 pinchpenny
 pine
 pineapples
@@ -18944,6 +18964,7 @@ protecters
 protegee
 proteges
 proteids
+proteinases
 proteinurias
 proteoglycan
 proteolysis
@@ -19396,6 +19417,7 @@ radiophone
 radiophoto
 radios
 radiosensitive
+radiosondes
 radiostrontiums
 radiotelephone
 radiotherapist
@@ -19687,6 +19709,7 @@ recoats
 recocked
 recodifies
 recodifying
+recognises
 recognizably
 recoiler
 recoined
@@ -19861,6 +19884,7 @@ reeky
 reelection
 reelevates
 reelevating
+reeligibilities
 reembarks
 reembody
 reembracing
@@ -20086,6 +20110,7 @@ relinquishment
 reliquary
 reliquefied
 reliquefying
+reliquiae
 relish
 relished
 relisting
@@ -20598,6 +20623,7 @@ rhemes
 rhenium
 rheobases
 rheologically
+rheometer
 rheostatic
 rheostats
 rhetor
@@ -20800,6 +20826,7 @@ rolfing
 rollicky
 romaines
 romanises
+romanising
 romanization
 romano
 romantically
@@ -21080,6 +21107,7 @@ salliers
 sallies
 sallowest
 sally
+salmi
 salmons
 salols
 salons
@@ -21539,6 +21567,7 @@ seatbelt
 seatbelts
 seated
 seating
+seatworks
 seawans
 seawater
 sebacic
@@ -21568,6 +21597,7 @@ securitize
 securitized
 sedatenesses
 sedater
+sedilia
 sedimentations
 seditions
 sedulity
@@ -21872,6 +21902,7 @@ sheepwalk
 sheer
 sheerest
 sheesh
+sheeted
 sheetings
 sheik
 sheikdoms
@@ -21965,6 +21996,7 @@ shopman
 shoppe
 shopped
 shoppers
+shoppings
 shorans
 shoreward
 shorings
@@ -24597,6 +24629,7 @@ thickener
 thicket
 thicketed
 thickheads
+thieves
 thievishnesses
 thighed
 thigmotaxes
@@ -24968,6 +25001,7 @@ touchiest
 touchup
 tough
 tougheners
+toughens
 toughing
 tourings
 touristas
@@ -26848,6 +26882,7 @@ waxily
 waxiness
 waxworks
 waxworms
+waypoint
 wayside
 waywardly
 wazoo
