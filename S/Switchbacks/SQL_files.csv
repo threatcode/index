@@ -1,0 +1,3 @@
+nosql-db - docker - postgres - examples - movies_data.sql - GitLab,https://git.cs.du.edu/sanrober/nosql-db/blob/3b44955d7942736c09a702db170782696abcaea4/docker/postgres/examples/movies_data.sql
+breweries.sql - GitHub,https://github.com/dcos/demos/blob/master/beer-demo/1.10/database/sql/breweries.sql
+data-hsqldb.sql - GitHub,https://github.com/keithsjohnson/spring-cloud-polyglot-persistence-example/blob/master/movie-microservice/src/main/resources/data-hsqldb.sql
