@@ -644,6 +644,7 @@ alma
 almagest
 almahs
 almandine
+almas
 almner
 almoners
 almsgiving
@@ -660,6 +661,7 @@ altazimuths
 alter
 altered
 alterers
+alterities
 alternants
 alternations
 alternatives
@@ -1897,6 +1899,7 @@ barnyards
 baroceptors
 barogram
 barograph
+barographic
 barometrically
 barometry
 baronne
@@ -2098,6 +2101,7 @@ begazing
 beggardom
 begged
 begird
+begirds
 begladded
 begladding
 beglamored
@@ -2915,6 +2919,7 @@ breechblocks
 breechloaders
 breezing
 bregmate
+brent
 breve
 brevetcy
 brevier
@@ -3204,6 +3209,7 @@ cabbalahs
 cabinetmakers
 cabinetry
 cabining
+cabins
 cabled
 cableways
 cabob
@@ -4174,6 +4180,7 @@ cigaret
 cigarets
 cigarillos
 cilia
+cilice
 cimbalom
 cimex
 cinchonic
@@ -4666,6 +4673,7 @@ coltishness
 colugo
 columellae
 columellar
+columnistic
 columns
 comanagements
 comanaging
@@ -5423,6 +5431,7 @@ crabapple
 crabber
 crabbier
 crabbily
+crabeater
 crabgrasses
 crabmeats
 crack
@@ -5574,6 +5583,7 @@ crossarms
 crossbar
 crossbones
 crossbowmen
+crossbreeding
 crosse
 crosses
 crossfires
@@ -5615,6 +5625,7 @@ cruiser
 crullers
 crumbled
 crumblinesses
+crumbs
 crummiest
 crumped
 crumply
@@ -5675,6 +5686,7 @@ culls
 cullying
 culmed
 culminant
+cultic
 cultishly
 cultists
 cultivability
@@ -6428,6 +6440,7 @@ deprecatory
 depreciate
 depreciates
 depreciation
+depreciations
 depreciatory
 depredation
 depredatory
@@ -6903,6 +6916,7 @@ discomforting
 discommended
 discommodes
 discomposures
+disconnect
 disconnecting
 discontinuation
 discontinuously
@@ -7058,6 +7072,7 @@ dissuader
 distanced
 distantness
 distantnesses
+distichous
 distil
 distillation
 distilleries
@@ -8897,6 +8912,7 @@ febrility
 feces
 fecklessness
 feckly
+fecund
 federacy
 federal
 federalism
@@ -9891,6 +9907,7 @@ gamesmen
 gamester
 gamesters
 gametangia
+gametogeneses
 gamey
 gamic
 gamily
@@ -10145,6 +10162,7 @@ gills
 gilly
 gilts
 gimbaling
+gimcrackery
 gimleting
 gimmicked
 gimping
@@ -11336,6 +11354,7 @@ hobnob
 hobnobs
 hocus
 hodaddies
+hodden
 hoed
 hoer
 hogger
@@ -11437,6 +11456,7 @@ hoods
 hoofprint
 hookier
 hooklike
+hooknosed
 hooknoses
 hoopla
 hoopster
@@ -11780,6 +11800,7 @@ iatrogenically
 ibises
 ibogaine
 iceboatings
+icebreakers
 icecap
 icehouses
 icemaker
@@ -11907,6 +11928,7 @@ immortalising
 immortalize
 immortalizer
 immortalizers
+immovability
 immovably
 immune
 immunes
@@ -13098,6 +13120,7 @@ kayo
 kayos
 kazatskies
 kebars
+kebbock
 kebbucks
 keblahs
 kecking
@@ -15318,6 +15341,7 @@ molybdous
 mome
 momentousnesses
 momes
+mommies
 momser
 monachal
 monadal
@@ -16468,6 +16492,7 @@ nudenesses
 nudie
 nudities
 nuke
+nulled
 nullifies
 nulliparae
 nullipore
@@ -17047,6 +17072,7 @@ outlawed
 outleaped
 outlearn
 outlearning
+outlets
 outlived
 outlives
 outmanipulated
@@ -18245,6 +18271,7 @@ philtres
 phlebitis
 phlebitises
 phlebograms
+phlebographic
 phlebography
 phlegmier
 phlegmiest
@@ -18313,6 +18340,7 @@ photosynthate
 photosynthesize
 phototubes
 phototypes
+photovoltaics
 phots
 phrasemaker
 phrasemakings
@@ -18387,6 +18415,7 @@ pig
 pigeonholer
 piggies
 piggishnesses
+piggybacked
 pigstick
 pigtail
 pikeperches
@@ -20725,6 +20754,7 @@ relocatee
 relooks
 relubricate
 relubrication
+reluct
 reluctated
 reluctates
 reluctating
@@ -21265,6 +21295,7 @@ rhomboidal
 rhomboideus
 rhotacisms
 rhotic
+rhyme
 rhymer
 rhyming
 rhyolites
@@ -25055,6 +25086,7 @@ teacupful
 teacups
 teakwood
 tealike
+team
 teammates
 teardrop
 teared
@@ -25445,6 +25477,7 @@ threshers
 threshing
 thresholds
 thriftier
+thrifty
 thrillingly
 thrills
 thriver
@@ -27521,6 +27554,7 @@ vulturine
 vulturous
 vulvitis
 vum
+wabbling
 wacker
 wackest
 wackily
@@ -27632,6 +27666,7 @@ wartimes
 wartlike
 wash
 washable
+washables
 washaterias
 washbowls
 washcloths
