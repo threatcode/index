@@ -1,0 +1,3 @@
+airflow-provider-anomaly-detection/airflow_anomaly_detection ...,https://github.com/andrewm4894/airflow-provider-anomaly-detection/blob/main/airflow_anomaly_detection/example_dags/bigquery_anomaly_detection_dag/sql/alert_status.sql
+sql_analytics/RBF_kernel_smoothing.sql at master · chris-kelly ...,https://github.com/chris-kelly/sql_analytics/blob/master/RBF_kernel_smoothing.sql
+https://raw.githubusercontent.com/pedrogit/postgis...,https://raw.githubusercontent.com/pedrogit/postgisaddons/master/postgis_addons.sql
