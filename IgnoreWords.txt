@@ -624,6 +624,7 @@ allicin
 allies
 alliterating
 allobars
+allocator
 allod
 allodial
 allografted
@@ -1603,6 +1604,7 @@ automats
 automobile
 autonyms
 autophagies
+autopolyploids
 autopsies
 autopsy
 autoradiogram
@@ -1653,6 +1655,7 @@ aweather
 awes
 awesomely
 awesomenesses
+awfulness
 awkwardness
 awkwardnesses
 awls
@@ -2544,6 +2547,7 @@ blithers
 blizzard
 blob
 bloc
+blockades
 blockbusted
 blockers
 blockheads
@@ -3375,6 +3379,7 @@ canailles
 canal
 canalised
 canalising
+canaries
 canasta
 canceler
 cancellations
@@ -3429,6 +3434,7 @@ canoodled
 canopying
 cantala
 cantals
+cantankerous
 canteens
 cantered
 canthal
@@ -3526,6 +3532,7 @@ carcinosarcomas
 card
 cardiac
 cardio
+cardiographs
 cardioid
 cardiologies
 cardiology
@@ -6971,6 +6978,7 @@ disentangles
 disentangling
 disequilibrium
 disestablish
+disestablishes
 disesteems
 diseurs
 disfrock
@@ -7236,6 +7244,7 @@ dominicker
 dominion
 dominiques
 donates
+donators
 donga
 donjons
 donnas
@@ -7316,6 +7325,7 @@ dowdinesses
 dowdy
 dowelling
 dowered
+dowering
 downbeats
 downdrafts
 downgrades
@@ -7628,6 +7638,7 @@ earsplitting
 earstone
 earthen
 earthmovers
+earthnuts
 earthrise
 earthrises
 easement
@@ -9961,6 +9972,7 @@ garaged
 garageman
 garages
 garblers
+garbless
 garbs
 garcons
 gardened
@@ -10229,6 +10241,7 @@ glamorised
 glamorousness
 glamoured
 glamourizing
+glands
 glares
 glarier
 glaring
@@ -10455,6 +10468,7 @@ gougers
 gourmandises
 gourmandize
 gourmet
+governessy
 governing
 governmentalism
 governmentally
@@ -10970,6 +10984,7 @@ haphtarah
 haphtaras
 haplessly
 haploidy
+haplotype
 happiest
 haptene
 haptenic
@@ -11404,6 +11419,7 @@ holding
 holed
 holeless
 holidaymaker
+holistic
 holked
 hollaed
 holloas
@@ -12622,6 +12638,7 @@ interrelatedly
 interrogatee
 interrupters
 interruptible
+interruptors
 intersecting
 intersects
 intersensory
@@ -12981,6 +12998,7 @@ jewfish
 jibbing
 jiber
 jibs
+jiggier
 jigsawed
 jigsawing
 jill
@@ -13216,6 +13234,7 @@ khedah
 khedives
 kheth
 khi
+khis
 ki
 kibbitzes
 kiboshing
@@ -14302,6 +14321,7 @@ malacology
 maladaptations
 maladapted
 maladaptive
+maladjustments
 maladroit
 maladroits
 malady
@@ -14689,6 +14709,7 @@ melanomata
 melanophore
 melanotic
 melanous
+melaphyre
 meld
 melds
 melee
@@ -15448,6 +15469,7 @@ montages
 montagnards
 montane
 monteith
+monthlong
 monticule
 monumentalize
 monumentalized
@@ -15466,6 +15488,7 @@ moonlighters
 moonports
 moonrise
 moonsail
+moonsets
 moonshined
 moonshiners
 moonward
@@ -15937,6 +15960,7 @@ neat
 neatens
 neatherd
 neatherds
+neatness
 neatniks
 nebbishy
 nebula
@@ -18109,6 +18133,7 @@ pergolas
 peri
 periapt
 periapts
+periblems
 pericardia
 pericarditis
 perichondral
@@ -19910,6 +19935,7 @@ quadrifid
 quadriga
 quadriphonic
 quadrivalent
+quadrumvir
 quadruples
 quadruplication
 quadruplicities
@@ -21032,6 +21058,7 @@ reseeing
 reseizing
 reseizure
 reselected
+resellers
 resembles
 resensitized
 reserpines
@@ -21489,6 +21516,7 @@ rivulets
 riyals
 roached
 roadbeds
+roadblocked
 roadblocking
 roadrunners
 roadstead
@@ -22147,6 +22175,7 @@ scorched
 scoreboard
 scorekeeper
 scorepad
+scorers
 scoria
 scoriae
 scorpaenids
@@ -22650,6 +22679,7 @@ shelled
 sheller
 shellworks
 shelta
+shelters
 shelty
 shelviest
 shepherding
@@ -23644,6 +23674,7 @@ spessartite
 sphagnums
 sphenic
 sphenopsids
+sphericities
 spheroidally
 spherular
 spherulitic
@@ -24031,6 +24062,7 @@ stickums
 stiffie
 stifled
 stigmatization
+stigmatizing
 stilbene
 stillmen
 stillness
@@ -24524,6 +24556,7 @@ sulfations
 sulfides
 sulfids
 sulfonylurea
+sulfuring
 sulfurizes
 sulk
 sulkinesses
@@ -26993,6 +27026,7 @@ unstalked
 unstate
 unsteels
 unstepped
+unstepping
 unstinted
 unstops
 unstringing
@@ -28379,6 +28413,7 @@ yummiest
 zabaiones
 zaddikim
 zaffars
+zag
 zagged
 zaire
 zamia
