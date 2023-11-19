@@ -537,6 +537,7 @@ ails
 ailurophobes
 aiolis
 airbag
+airboat
 aircoach
 aircoaches
 airdates
@@ -1246,6 +1247,7 @@ approbation
 appropriation
 approvals
 apraxia
+apres
 aprotic
 apsidal
 apsis
@@ -1702,6 +1704,7 @@ autostradas
 autosuggestion
 autosuggests
 autotetraploids
+autotomic
 autotoxins
 autotrophic
 autotypies
@@ -2056,6 +2059,7 @@ basinful
 basinlike
 basketfuls
 basking
+basmatis
 basophilia
 basseted
 basseting
@@ -2147,6 +2151,7 @@ becaps
 becarpet
 becarpets
 bechalking
+bechancing
 becked
 beclogged
 becloud
@@ -2660,6 +2665,7 @@ blatters
 blaws
 blazer
 blazoning
+bleach
 bleaches
 blearier
 blearily
@@ -2963,6 +2969,7 @@ bouillon
 bouncer
 bounded
 boundednesses
+bounden
 bounder
 bounders
 bounds
@@ -3674,6 +3681,8 @@ cappers
 cappings
 capricci
 caprifig
+caprifigs
+capriole
 caprioled
 capsicum
 capsid
@@ -3856,6 +3865,7 @@ castrati
 castrator
 casual
 casually
+casus
 cat
 cataclysmically
 catalases
@@ -4408,6 +4418,7 @@ chumped
 chumping
 chunkiest
 chunks
+chunky
 church
 churched
 churches
@@ -7521,6 +7532,7 @@ disunities
 disused
 disyllable
 dithyrambically
+dithyrambs
 dits
 dittanies
 ditto
@@ -10925,6 +10937,7 @@ goaltendings
 goanna
 goas
 goat
+goatee
 goatfish
 goatskin
 goatskins
@@ -12823,6 +12836,7 @@ incontinences
 incontinencies
 incontinency
 inconvenience
+inconvertibly
 incorporate
 incorporated
 incorporations
@@ -12946,6 +12960,7 @@ inefficaciously
 inelasticities
 inelasticity
 inelegant
+ineligibles
 inequalities
 inequitable
 inequitably
@@ -15365,6 +15380,7 @@ matador
 matchboards
 matchlock
 matchmakers
+matchmark
 matchmarking
 matchstick
 matelots
@@ -15408,6 +15424,7 @@ maximalists
 maximizations
 maximizes
 maximumly
+maybe
 mayflies
 mayflower
 mayonnaises
@@ -18413,6 +18430,7 @@ oversubtle
 oversudsed
 overswinging
 overtake
+overtalks
 overtasked
 overtaxations
 overteaches
@@ -18488,6 +18506,7 @@ ozonated
 ozonides
 ozonize
 ozonized
+pablums
 pace
 pacemaker
 pacer
@@ -18650,6 +18669,7 @@ papered
 papergirls
 papermakings
 paperweight
+papilla
 papillomatous
 papillote
 papooses
@@ -19822,6 +19842,7 @@ poisoned
 poisonous
 pokier
 pokies
+pokiest
 poky
 pol
 polarize
@@ -20579,6 +20600,7 @@ promise
 promises
 promo
 promoed
+promontories
 promote
 promoted
 promoting
@@ -21313,6 +21335,7 @@ ravaging
 rave
 ravelled
 ravels
+ravenlike
 ravenousnesses
 raves
 ravined
@@ -23108,11 +23131,13 @@ saponine
 saponites
 sapota
 sapour
+sapphire
 sapphism
 sapphisms
 sappily
 sappiness
 saprogenicity
+saprolite
 saprophagous
 saps
 sapsago
@@ -25407,6 +25432,7 @@ storm
 stormbound
 storybook
 storytelling
+storytellings
 stotin
 stotts
 stounds
@@ -25713,6 +25739,7 @@ subpubic
 subregion
 subrogate
 subroutine
+subroutines
 subsamples
 subsampling
 subsaturations
@@ -25895,6 +25922,7 @@ superabounded
 superabsorbent
 superadded
 superagencies
+superannuates
 superannuating
 superbank
 superbanks
@@ -25989,6 +26017,7 @@ superstrings
 supersubtleties
 supersubtlety
 supersymmetric
+supersymmetries
 supertanker
 superthick
 superthin
@@ -26053,6 +26082,7 @@ surnamed
 surpassed
 surpassing
 surplussed
+surprizing
 surreptitiously
 surround
 surtax
@@ -27329,6 +27359,7 @@ traits
 trajection
 trajectories
 tram
+tramcars
 tramelling
 tramels
 trammeling
@@ -28000,6 +28031,7 @@ uncoffin
 uncollected
 uncollectibles
 uncombed
+uncommonest
 uncommunicative
 unconcealed
 unconceivable
@@ -28256,6 +28288,7 @@ unintentional
 unintimidated
 unionisations
 unionised
+unionize
 unionized
 unionizes
 uniparental
@@ -28423,6 +28456,7 @@ unsophisticated
 unspecifiable
 unspecific
 unsphered
+unspheres
 unspoiled
 unsprung
 unstablenesses
@@ -29886,6 +29920,7 @@ zamia
 zanders
 zanies
 zanyish
+zanzas
 zaps
 zas
 zastruga
