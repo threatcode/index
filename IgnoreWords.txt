@@ -647,6 +647,7 @@ allegories
 allegorist
 allegorists
 allegorizations
+allegory
 allegrettos
 allegros
 allethrin
@@ -1120,6 +1121,7 @@ antitoxin
 antitumors
 antitussives
 antiulcer
+antivirus
 antonomasias
 antonymy
 antsiness
@@ -1956,6 +1958,7 @@ banshee
 banshies
 banterers
 banties
+bantling
 banzais
 baobabs
 baps
@@ -2512,6 +2515,7 @@ biogasses
 biogenesis
 biogenetic
 biogenous
+biogens
 biogeographical
 biologistic
 biolyses
@@ -2552,6 +2556,7 @@ bipropellant
 bipropellants
 bipyramid
 biquadratics
+biracial
 biracialism
 biracialisms
 biradial
@@ -3624,6 +3629,7 @@ canzonas
 canzonets
 capablenesses
 capaciousness
+capaciousnesses
 capacitance
 capacitor
 capelan
@@ -4506,6 +4512,7 @@ clamor
 clamors
 clampdowns
 clamper
+clamps
 clamshell
 clan
 clandestinity
@@ -6751,6 +6758,7 @@ deplore
 deployer
 deploying
 deployments
+deplumed
 depluming
 depolarized
 depolarizing
@@ -7137,6 +7145,7 @@ dimensioning
 dimercaprol
 dimeric
 dimerisms
+dimers
 dimidiating
 diminuendo
 dimmable
@@ -8631,6 +8640,7 @@ epigyny
 epileptiform
 epileptogenic
 epilog
+epimere
 epimeres
 epimers
 epinephrine
@@ -8734,6 +8744,7 @@ erythrosin
 erythrosines
 escaladed
 escalated
+escalating
 escallops
 escaloped
 escapade
@@ -9120,6 +9131,7 @@ externe
 externes
 extirpate
 extirpates
+extirpations
 extolls
 extolment
 extolments
@@ -9966,6 +9978,7 @@ forbodes
 forby
 forbye
 forcemeat
+forcibleness
 forcing
 fording
 forebay
@@ -10114,6 +10127,7 @@ frass
 frat
 fraternity
 fraternizer
+fratricide
 frauds
 fraudster
 fraulein
@@ -11428,6 +11442,7 @@ hallo
 halloing
 halloo
 hallowed
+hallower
 hallucinated
 hallucinations
 hallucinators
@@ -11516,6 +11531,7 @@ harborside
 hardback
 hardboards
 hardcores
+harder
 hardest
 hardgoods
 hardpack
@@ -13053,6 +13069,7 @@ inselbergs
 inseminating
 insensibly
 insensitivity
+inserted
 inserting
 inserts
 insets
@@ -13095,6 +13112,7 @@ instillers
 instillment
 instillments
 instinctively
+instituted
 institutionally
 institutions
 institutors
@@ -13135,6 +13153,7 @@ intendant
 intends
 intenerates
 intenerations
+intense
 intensely
 intensified
 intensities
@@ -13453,6 +13472,7 @@ islands
 isle
 isled
 ism
+isms
 isobarisms
 isobars
 isobutylene
@@ -13605,6 +13625,7 @@ jeroboams
 jerry
 jerrycan
 jerrycans
+jessed
 jesuitry
 jetfoils
 jetons
@@ -15734,6 +15755,7 @@ miliarias
 milieu
 militant
 militantnesses
+militarised
 militarises
 militarist
 militarized
@@ -15749,6 +15771,7 @@ millepores
 millerites
 millesimals
 milligals
+millihenry
 millilux
 millimeters
 millimole
@@ -15879,6 +15902,7 @@ misciting
 misclaim
 misclaimed
 misclassifying
+miscoin
 miscolors
 misconceived
 misconceives
@@ -17690,6 +17714,7 @@ optatively
 optimalities
 optimes
 optimizer
+optimizes
 optionality
 optionally
 optoelectronics
@@ -18140,6 +18165,7 @@ overdocumented
 overdocumenting
 overdominant
 overdosages
+overdosed
 overdoses
 overdramatizes
 overdramatizing
@@ -18598,6 +18624,7 @@ parasitoid
 parasitologist
 parasitosis
 parataxes
+parathions
 parathormones
 paratyphoid
 paratyphoids
@@ -18922,6 +18949,7 @@ pentosides
 pentoxides
 pentyl
 penuchis
+penuckle
 penuckles
 penult
 penumbra
@@ -20442,6 +20470,7 @@ prolifically
 prolixity
 prologist
 prologuized
+prolonger
 prolonges
 promenades
 promenading
@@ -22261,6 +22290,7 @@ reutilizing
 reuttering
 revalorizations
 revampers
+revanchists
 revarnishes
 reveal
 revealments
@@ -22718,6 +22748,7 @@ runless
 runlets
 runnel
 runnels
+runners
 runniness
 runouts
 runt
@@ -23535,6 +23566,7 @@ sentiency
 sentimentalisms
 sentiments
 sentimos
+sentinel
 sentinels
 sepal
 sepalled
@@ -28037,6 +28069,7 @@ unfulfillable
 ungated
 ungenteel
 ungifted
+ungimmicky
 ungirded
 unglazed
 ungloved
@@ -28171,6 +28204,7 @@ unpiled
 unpiles
 unpiling
 unpinned
+unpinning
 unpledged
 unplugs
 unposed
@@ -28699,6 +28733,7 @@ vestigium
 vestless
 vestlike
 vestrymen
+vesturing
 vetoers
 vex
 vexatiousness
