@@ -589,6 +589,7 @@ alb
 albacores
 albatrosses
 albertites
+albinisms
 albino
 albitic
 album
@@ -1174,6 +1175,7 @@ aphetically
 aphorise
 aphorised
 aphrodite
+aphthous
 apiarian
 apiarians
 apiarist
@@ -1277,6 +1279,7 @@ apsis
 apteral
 aptness
 aquacades
+aquacultural
 aquafarm
 aqualungs
 aquamarines
@@ -2171,6 +2174,7 @@ bearcats
 beardtongue
 bearer
 bearings
+beast
 beastliest
 beat
 beaten
@@ -3811,6 +3815,7 @@ carcinosarcomas
 card
 cardiac
 cardio
+cardiograms
 cardiographs
 cardioid
 cardiologies
@@ -5381,6 +5386,7 @@ consenters
 consents
 consequence
 consequently
+conservancy
 conservation
 conservatized
 conservatorial
@@ -7734,6 +7740,7 @@ dodecaphony
 dodgem
 dodgems
 dodgiest
+dodging
 dodoism
 dodoisms
 doer
@@ -9261,6 +9268,7 @@ expediency
 expeditious
 expellable
 expelled
+expellee
 expeller
 expendabilities
 expensivenesses
@@ -10524,6 +10532,7 @@ fungoes
 funkier
 funnest
 furbelowing
+furcately
 furcates
 furless
 furlong
@@ -12586,6 +12595,7 @@ hyp
 hyperacidity
 hyperactives
 hyperacute
+hyperaesthetic
 hyperarousals
 hyperawareness
 hyperbolas
@@ -13215,6 +13225,7 @@ infestant
 infesters
 infidelic
 infielder
+infighter
 infighters
 infighting
 infightings
@@ -13734,6 +13745,7 @@ irreparableness
 irrepressible
 irresistibility
 irresoluble
+irresolutely
 irresolutions
 irreverent
 irrigable
@@ -14129,6 +14141,7 @@ kefir
 kegger
 keir
 kelly
+kelped
 kelts
 kelvins
 kenafs
@@ -14754,6 +14767,7 @@ lez
 liable
 liaises
 liaison
+lianoid
 liard
 lib
 libations
@@ -14801,6 +14815,7 @@ lifemanships
 lifeway
 lift
 liftable
+lifted
 lifter
 liftman
 ligamentous
@@ -15490,6 +15505,7 @@ marascas
 marasmuses
 marathon
 marathoners
+marauding
 marauds
 marbelize
 marbelizes
@@ -16718,6 +16734,7 @@ mournfullest
 mournfulness
 mournings
 mousepad
+mousers
 mouses
 mousetrap
 mousetrapped
@@ -17115,6 +17132,7 @@ nebulise
 nebulize
 nebulized
 nebulizers
+necessitarian
 necessitate
 necessitated
 necessities
@@ -18380,6 +18398,7 @@ outpourer
 outpourers
 outpouring
 outpower
+outpowers
 outpray
 outprayed
 outpreaching
@@ -19662,6 +19681,7 @@ phobias
 phonal
 phonated
 phonating
+phonemes
 phones
 phonetics
 phonically
@@ -20162,6 +20182,7 @@ pokes
 pokier
 pokies
 pokiest
+pokinesses
 poky
 pol
 polarize
@@ -20669,6 +20690,7 @@ preprinted
 prepueblo
 prepunch
 prepunches
+prepupa
 prepupae
 prepupas
 prepurchase
@@ -21383,6 +21405,7 @@ quarterstaff
 quartics
 quartiers
 quasicrystal
+quasicrystals
 quasses
 quatercentenary
 quaternaries
@@ -22932,6 +22955,7 @@ rids
 rievers
 rifamycin
 rife
+rifeness
 riffle
 riffles
 riflebird
@@ -23468,6 +23492,7 @@ sanitarians
 sanitaries
 sanitary
 sanitating
+sanitization
 sanjaks
 sannops
 sannyasin
@@ -25397,6 +25422,7 @@ splits
 splores
 splosh
 splurgers
+splurging
 splutter
 splutterers
 spoilable
@@ -25480,6 +25506,7 @@ squabbled
 squalid
 squalidness
 squalling
+squally
 squamosals
 squamose
 squamulose
@@ -25807,6 +25834,7 @@ stopes
 stoplight
 stopoff
 stopped
+stoppling
 stopwatches
 stopword
 stopwords
@@ -26843,6 +26871,7 @@ tapelines
 tapers
 taperstick
 tapestried
+tapeworm
 taphole
 tapholes
 tapioca
@@ -26876,6 +26905,7 @@ tarriers
 tarriest
 tars
 tarsi
+tartans
 tartarous
 tarted
 tarter
@@ -27508,6 +27538,7 @@ tither
 titillations
 titivating
 titivation
+title
 titled
 titlist
 titrant
@@ -27707,6 +27738,7 @@ towies
 towmonds
 towmonts
 townhouse
+townies
 towplanes
 towrope
 toxemias
@@ -28763,6 +28795,7 @@ unloosening
 unlooses
 unlovelier
 unmagnified
+unmaking
 unmanful
 unmatted
 unmeaning
@@ -29937,7 +29970,9 @@ whitens
 whiteout
 whiter
 whites
+whitewalls
 whithersoever
+whitings
 whitracks
 whittled
 whittling
