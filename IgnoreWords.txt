@@ -112,6 +112,7 @@ accessions
 accessories
 accessorizes
 accessorizing
+accipiter
 acclaimers
 acclimated
 acclimatised
@@ -631,6 +632,7 @@ alchymies
 alchymy
 alcoholic
 alcoved
+aldehyde
 alder
 alderfly
 alderman
@@ -2677,6 +2679,7 @@ biogenetic
 biogenous
 biogens
 biogeographical
+biographers
 biologistic
 bioluminescent
 biolyses
@@ -3180,6 +3183,7 @@ bowllike
 bowpots
 bowse
 bowsed
+bowshot
 bowstringing
 bowwowed
 bowwowing
@@ -3560,6 +3564,7 @@ bushtits
 bushveld
 bushwas
 busies
+busily
 business
 businesslike
 businessman
@@ -4137,6 +4142,7 @@ cates
 catfight
 cathead
 catheads
+catheptic
 catheters
 catholic
 catholicates
@@ -5074,6 +5080,7 @@ codebtor
 codeines
 codependency
 codependent
+coderived
 codesign
 codesigns
 codfish
@@ -5152,6 +5159,7 @@ coiffuring
 coigned
 coigns
 coil
+coilability
 coiled
 coin
 coincided
@@ -11508,6 +11516,7 @@ glossarist
 glossator
 glossed
 glossier
+glottal
 glottis
 glovers
 glowered
@@ -12119,6 +12128,7 @@ haggling
 hagiological
 hagioscope
 hagridden
+hagriders
 hails
 hailstorm
 hair
@@ -12559,6 +12569,7 @@ hesitater
 hesitaters
 hesitatingly
 hesperidia
+hessites
 hessonite
 hetaera
 hetaerae
@@ -12666,6 +12677,7 @@ histing
 histochemical
 histologies
 histology
+histolysis
 histones
 histopathologic
 historicism
@@ -12731,6 +12743,7 @@ holistic
 holked
 hollaed
 hollered
+holloa
 holloas
 hollowares
 hollowly
@@ -13413,6 +13426,7 @@ implementor
 impletion
 implicating
 implies
+implodes
 implosion
 impolitely
 impolitical
@@ -15235,6 +15249,7 @@ leatherlike
 leaven
 leaves
 leaviest
+leavy
 leben
 leched
 lecherousnesses
@@ -15782,6 +15797,7 @@ ludes
 lues
 luge
 luggies
+lugs
 lullabying
 luller
 lumberer
@@ -15845,6 +15861,7 @@ lymphocytosis
 lymphokine
 lymphomas
 lymphs
+lyncean
 lynched
 lynching
 lyophile
@@ -15995,6 +16012,7 @@ malapropian
 malariologists
 malarious
 malaroma
+malathions
 malemiut
 malemiuts
 malemutes
@@ -16575,6 +16593,7 @@ metalliferous
 metallike
 metallization
 metallophones
+metallurgies
 metallurgist
 metalmark
 metals
@@ -17207,6 +17226,7 @@ moneymaker
 moneymen
 mongos
 mongrel
+mongrelization
 monickers
 moniliases
 monishes
@@ -17289,6 +17309,7 @@ mooneyes
 moonlighters
 moonports
 moonrise
+moons
 moonsail
 moonsets
 moonshined
@@ -19144,6 +19165,7 @@ outplanned
 outplayed
 outplod
 outplods
+outplot
 outpolitick
 outpopulating
 outport
@@ -20023,6 +20045,7 @@ payrolls
 pazazz
 pe
 peaced
+peacefullest
 peacefully
 peacekeeper
 peached
@@ -20031,6 +20054,7 @@ peacing
 peacoat
 peacocking
 peag
+peal
 pealike
 peals
 peanuts
@@ -21616,6 +21640,7 @@ pretaped
 pretasting
 pretence
 pretender
+pretentiousness
 pretermits
 pretermitting
 pretexts
@@ -21877,6 +21902,7 @@ propylon
 prorogating
 prorogation
 prosaically
+prosaists
 prosceniums
 prosciutto
 prosciuttos
@@ -23224,6 +23250,7 @@ relaxer
 relays
 release
 relends
+relettered
 relettering
 relevance
 relevancies
@@ -24649,6 +24676,7 @@ scatterbrains
 scatterers
 scattergood
 scatteringly
+scatters
 scatty
 scaupers
 scavenges
@@ -24745,6 +24773,7 @@ scorepad
 scorers
 scoria
 scoriae
+scorns
 scorpaenids
 scorpioid
 scorpion
@@ -25015,6 +25044,7 @@ selvedge
 semainier
 semanteme
 semantical
+semanticists
 semaphored
 semblable
 semblables
@@ -25813,6 +25843,7 @@ slickness
 slickrock
 slickrocks
 slickster
+slicksters
 slidden
 slides
 slideway
@@ -28111,6 +28142,7 @@ teapot
 teardrop
 teared
 tearer
+teargassing
 tearier
 tearily
 tearing
@@ -29789,6 +29821,7 @@ undermanned
 undermining
 underpainting
 underpaintings
+underpinnings
 underplays
 underpricing
 underpropped
@@ -30580,6 +30613,7 @@ verboten
 verderers
 verderor
 verdin
+verditer
 vergences
 verger
 verging
@@ -30730,6 +30764,7 @@ virilely
 virilizes
 virtuality
 virtue
+virtuously
 virus
 viruslike
 visa
