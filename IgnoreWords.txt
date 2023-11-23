@@ -864,6 +864,7 @@ amorousnesses
 amorphisms
 amorphous
 amorphousnesses
+amortised
 amotion
 amount
 amounted
@@ -1227,6 +1228,7 @@ antithrombin
 antitobacco
 antitoxic
 antitoxin
+antitumoral
 antitumors
 antitussives
 antiulcer
@@ -3554,6 +3556,7 @@ buboed
 buckeen
 bucket
 buckeye
+bucklered
 buckos
 buckramed
 buckshot
@@ -4011,6 +4014,7 @@ cantonments
 cantrip
 cantrips
 cantus
+canulate
 canulates
 canvasbacks
 canyons
@@ -4201,6 +4205,7 @@ cartel
 cartelise
 cartelization
 cartilaginous
+cartographical
 cartography
 cartons
 cartooned
@@ -5094,6 +5099,7 @@ cleverly
 clewing
 clews
 cliched
+clickers
 clicking
 clientages
 cliental
@@ -7351,6 +7357,7 @@ delightfulness
 delimes
 delimit
 delimited
+delineated
 delineative
 delinquencies
 delinquency
@@ -7984,6 +7991,7 @@ diphthongs
 diphyletic
 diphyodont
 diploblastic
+diplodocus
 diploid
 diploidies
 diplomacy
@@ -11291,6 +11299,7 @@ frieze
 frigate
 frightfully
 frigid
+frigidities
 frigidly
 frijol
 frijole
@@ -11758,6 +11767,7 @@ genotypes
 genotypically
 gentamicin
 genteelest
+gentil
 gentlefolks
 gentlemanlike
 gentlemen
@@ -12742,6 +12752,7 @@ handy
 handymen
 hangable
 hanger
+hangovers
 hankered
 hankerer
 hanselled
@@ -13067,6 +13078,7 @@ hermetical
 hermetisms
 herms
 heroical
+heroicizing
 heroicomic
 heroin
 heroism
@@ -13094,6 +13106,7 @@ heteroclite
 heteroclites
 heterocyclics
 heterodyning
+heterogameties
 heterogamy
 heterogeneity
 heterolyses
@@ -13578,6 +13591,7 @@ hyaloids
 hyaloplasm
 hybridists
 hybridity
+hybridizations
 hybridizer
 hybridomas
 hybrids
@@ -13981,6 +13995,7 @@ impolitely
 impolitical
 imponderably
 imporous
+important
 importunateness
 importunely
 impose
@@ -14028,6 +14043,7 @@ improvisers
 imprudence
 imps
 impudencies
+impudency
 impugner
 impulsing
 impulsively
@@ -15866,6 +15882,7 @@ learners
 learnings
 lears
 leaseback
+leaseholder
 leaser
 leashed
 leashes
@@ -17524,6 +17541,7 @@ mineral
 mineralise
 mineralizer
 mineralizes
+mineralizing
 mines
 mineshaft
 minestrones
@@ -17919,6 +17937,7 @@ monecian
 monetarists
 moneymaker
 moneymen
+mongols
 mongos
 mongrel
 mongrelization
@@ -18425,6 +18444,7 @@ mystified
 mystifies
 mystifyingly
 mythically
+mythicized
 mythicizer
 mythicizes
 mythier
@@ -22554,6 +22574,7 @@ pries
 priestesses
 prigged
 priggery
+priggism
 prill
 primage
 primary
@@ -22694,6 +22715,7 @@ projector
 projectors
 prokaryotes
 prolamines
+prolapsed
 prolapses
 prolate
 prole
@@ -23268,6 +23290,7 @@ quinquennials
 quinsy
 quinta
 quintains
+quintals
 quintar
 quintessence
 quintiles
@@ -23661,6 +23684,7 @@ recapitalizing
 recapitulate
 recapitulation
 recaps
+recaptures
 recarpet
 recarries
 recataloging
@@ -24075,6 +24099,7 @@ rehearsing
 reheated
 rehem
 rehemmed
+rehinge
 rehospitalize
 rehousing
 rehydratable
@@ -24411,6 +24436,7 @@ repudiator
 repugnances
 repugnancies
 repugning
+repulsiveness
 reputed
 requalifies
 requesters
@@ -24859,6 +24885,7 @@ richweed
 rickety
 rickshas
 ricocheting
+ricochets
 ricochetting
 ricotta
 riddances
@@ -25024,6 +25051,7 @@ roiled
 roils
 roister
 roistering
+roisterously
 rolfed
 rolfers
 rolfing
@@ -27069,6 +27097,7 @@ snowbirds
 snowblinks
 snowboard
 snowboarded
+snowboarders
 snowboards
 snowbush
 snowcap
@@ -27453,6 +27482,7 @@ spelldowns
 spelunk
 spenses
 spermatogeneses
+spermatogonial
 spermatophytic
 spermatozoan
 spermatozoans
@@ -28961,6 +28991,7 @@ sysops
 systematic
 systematized
 systematizers
+systemizes
 systemizing
 syzygy
 tabbied
@@ -30626,6 +30657,7 @@ twa
 twains
 twangiest
 twangler
+twanglers
 twangles
 twangs
 tweaks
@@ -31050,6 +31082,7 @@ undiplomatic
 undiscoverable
 undissociated
 undistinguished
+undocked
 undoubles
 undoubling
 undrained
@@ -32290,6 +32323,7 @@ watersheds
 watertight
 waterway
 waterways
+waterweed
 waterwheel
 wattage
 watthour
@@ -32997,6 +33031,7 @@ zanies
 zanyish
 zanzas
 zaps
+zaribas
 zas
 zastruga
 zeal
