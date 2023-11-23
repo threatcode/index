@@ -2,3 +2,7 @@ postgres/contrib/postgres_fdw/sql/postgres_fdw.sql at master - GitHub,https://gi
 fred-db/upgrades/2.32.0-2.33.0-2-migrate-without-mail-archive.sql at ...,https://github.com/CZ-NIC/fred-db/blob/master/upgrades/2.32.0-2.33.0-2-migrate-without-mail-archive.sql
 upgrades/2.21.0-2.21.2.sql - fred / db - CZ.NIC Gitlab,https://gitlab.nic.cz/fred/db/-/blob/5ebb938b2677b0be9d8d289278166053e465e6d4/upgrades/2.21.0-2.21.2.sql
 database.sql · 0d3a41ad88c0fd1a0b869df97aaf6f5deb82a972 ...,https://projects.sucs.org/vectre/sucs-site/-/blob/0d3a41ad88c0fd1a0b869df97aaf6f5deb82a972/database.sql
+fred-db/upgrades/2.32.0-2.33.0-2-migrate-without-mail-archive.sql at ...,https://github.com/CZ-NIC/fred-db/blob/master/upgrades/2.32.0-2.33.0-2-migrate-without-mail-archive.sql
+postgres/contrib/postgres_fdw/sql/postgres_fdw.sql at master - GitHub,https://github.com/postgres/postgres/blob/master/contrib/postgres_fdw/sql/postgres_fdw.sql
+upgrades/2.21.0-2.21.2.sql ... - CZ.NIC Gitlab,https://gitlab.nic.cz/fred/db/-/blob/5ebb938b2677b0be9d8d289278166053e465e6d4/upgrades/2.21.0-2.21.2.sql
+database.sql · 0d3a41ad88c0fd1a0b869df97aaf6f5deb82a972 ...,https://projects.sucs.org/vectre/sucs-site/-/blob/0d3a41ad88c0fd1a0b869df97aaf6f5deb82a972/database.sql
