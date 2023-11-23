@@ -235,6 +235,7 @@ actionless
 actives
 activisms
 activize
+activizing
 actomyosins
 actor
 actorish
@@ -1655,6 +1656,7 @@ assonantal
 assuagers
 assurance
 assurer
+assurers
 assurgent
 asswaged
 asswages
@@ -2278,6 +2280,7 @@ basophilia
 basseted
 basseting
 bassets
+bassetted
 bassoon
 bassos
 basswood
@@ -2899,6 +2902,7 @@ blackness
 blacknesses
 blacksmith
 blackthorn
+blacktop
 blacktopped
 blacktopping
 blackwaters
@@ -2920,6 +2924,7 @@ blanks
 blared
 blaring
 blarneying
+blasphemous
 blasphemy
 blastie
 blastings
@@ -3603,6 +3608,7 @@ bulla
 bulldogger
 bulldozing
 bulleted
+bulletin
 bullets
 bullfighting
 bullfightings
@@ -4000,6 +4006,7 @@ canonesses
 canonicals
 canonization
 canonize
+canonizers
 canonries
 canoodled
 canopying
@@ -4518,6 +4525,7 @@ chalones
 chalutzim
 cham
 chamberlains
+chambermaids
 chambers
 chambray
 chambrays
@@ -9093,6 +9101,7 @@ electrodialysis
 electroformed
 electrogeneses
 electrogram
+electroless
 electrology
 electrolyses
 electromagnetic
@@ -9862,6 +9871,7 @@ evacuative
 evaginate
 evaginated
 evaluated
+evaluation
 evaluations
 evaluative
 evaluators
@@ -10399,6 +10409,7 @@ fawn
 fawniest
 fax
 faxes
+fayalite
 fealty
 fearlessness
 fearsomely
@@ -16142,6 +16153,7 @@ limbi
 limbic
 limbiest
 limbing
+limbos
 limeade
 limeades
 limelight
@@ -16765,6 +16777,7 @@ mandarinate
 mandarinic
 mandate
 mandates
+mandating
 mandolines
 mandolins
 mandrakes
@@ -19518,6 +19531,7 @@ ogees
 ogham
 ogive
 ogling
+oh
 ohing
 ohmages
 ohmmeters
@@ -20136,6 +20150,7 @@ overcapacities
 overcapitalized
 overcasted
 overcastings
+overcasts
 overcautions
 overcharges
 overclaimed
@@ -20577,6 +20592,7 @@ pandered
 panderer
 pandoor
 pandore
+pandying
 panegyric
 panegyrical
 panegyrically
@@ -21152,6 +21168,7 @@ perigean
 perihelion
 perilunes
 perimeters
+perimysium
 periodically
 periodicals
 periodontics
@@ -21797,9 +21814,11 @@ pleasureless
 pleated
 pleats
 pledged
+pledgee
 pledgeor
 pledgets
 pledging
+pleinairisms
 pleiocene
 pleiotaxy
 pleiotropies
@@ -22178,6 +22197,7 @@ postmistress
 postmortem
 postpartum
 postponements
+postpositive
 postproductions
 postpubescent
 postpunk
@@ -23456,6 +23476,7 @@ rains
 rainspout
 rainwashes
 rainwashing
+rainy
 rajahs
 rake
 rakee
@@ -24130,6 +24151,7 @@ rehemmed
 rehinge
 rehospitalize
 rehousing
+rehumanizing
 rehydratable
 rehydrate
 rehydrates
@@ -24755,6 +24777,7 @@ reuses
 reutilizations
 reutilizing
 reuttering
+revalidations
 revalorizations
 revampers
 revanchists
@@ -24817,6 +24840,7 @@ revolving
 revoted
 revulsions
 revved
+rewaken
 rewakened
 rewakes
 rewarded
@@ -25039,6 +25063,7 @@ roadblocking
 roadrunners
 roadsides
 roadstead
+roadsteads
 roadster
 roadworthiness
 roaming
@@ -25787,6 +25812,7 @@ scoliotic
 sconcheon
 scone
 scooched
+scoop
 scooped
 scope
 scoped
@@ -26325,6 +26351,7 @@ shamefacedness
 shammes
 shamosim
 shampoo
+shamuses
 shandies
 shandy
 shanking
@@ -27553,6 +27580,7 @@ spikey
 spikiness
 spiks
 spill
+spilled
 spillers
 spills
 spinach
@@ -28881,6 +28909,7 @@ swimmer
 swimmily
 swimmingly
 swimmy
+swindler
 swine
 swinepoxes
 swingers
@@ -29339,6 +29368,7 @@ teemer
 teemingness
 teenagers
 teenybopper
+teenyboppers
 tees
 teethed
 teethers
@@ -30801,6 +30831,7 @@ ultraviolet
 ulu
 ululating
 ululations
+umbellifer
 umbellules
 umber
 umbered
@@ -30987,6 +31018,7 @@ unconvinced
 uncooled
 uncoordinated
 uncorking
+uncorrectable
 uncounted
 uncourageous
 uncreative
@@ -31183,6 +31215,7 @@ unfix
 unflagging
 unflinching
 unfoiled
+unfoldments
 unforeseeable
 unforked
 unformulated
@@ -31451,6 +31484,7 @@ unstained
 unstalked
 unstarred
 unstate
+unsteadying
 unsteels
 unstepped
 unstepping
@@ -32523,6 +32557,7 @@ when
 whencesoever
 whereas
 whereases
+whereby
 wherefore
 wherein
 whereunto
