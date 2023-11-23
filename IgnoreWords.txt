@@ -150,6 +150,7 @@ accumulators
 accusable
 accusant
 accuse
+accusingly
 accustomations
 accustoms
 aced
@@ -1276,6 +1277,7 @@ apiarian
 apiarians
 apiarist
 apically
+apiculate
 apicultural
 apiculture
 apiculturist
@@ -2837,6 +2839,7 @@ biotelemetries
 biotins
 biotope
 bioturbed
+biotypic
 bioweapons
 bipartisanship
 bipartisanships
@@ -3501,6 +3504,7 @@ broadsheets
 broadsiding
 brocatelle
 brocatelles
+brocatels
 broccoli
 broccolis
 brocolis
@@ -4250,6 +4254,7 @@ carvels
 carvers
 caryopsides
 casbahs
+cascable
 cascade
 cascaded
 cascaras
@@ -5673,6 +5678,7 @@ complicated
 complicatedly
 complicatedness
 complicates
+complies
 complimenting
 compliments
 complins
@@ -5707,6 +5713,7 @@ conation
 concatenation
 concealable
 concealment
+conceders
 conceiting
 concelebrate
 concent
@@ -5803,6 +5810,7 @@ confining
 confirmands
 confirmations
 confiscated
+confiscating
 confiscators
 confiteor
 conflating
@@ -6398,6 +6406,7 @@ cowboyed
 cowfish
 cowhide
 cowled
+cowpats
 cowpoxes
 cowrote
 cowslips
@@ -7760,6 +7769,7 @@ deviancy
 deviant
 deviate
 deviatory
+deviled
 deviling
 devilish
 devilled
@@ -9851,6 +9861,7 @@ ethylated
 ethylating
 ethylenes
 ethyne
+ethynyls
 etiologic
 etiquettes
 etwees
@@ -9870,6 +9881,7 @@ eudaemonistic
 eudaemonists
 eudaimonism
 eudaimonisms
+eudemonia
 eugenicists
 eugenics
 euglenoid
@@ -10512,6 +10524,7 @@ felicitator
 felicitators
 felicitous
 feline
+fellahin
 felled
 fellmonger
 fellmongerings
@@ -11136,6 +11149,7 @@ forbids
 forbodes
 forby
 forbye
+force
 forcedly
 forcemeat
 forcibleness
@@ -11701,6 +11715,7 @@ gargety
 gargle
 gargler
 garishness
+garlands
 garlickiest
 garlicky
 garlics
@@ -12086,6 +12101,7 @@ glossier
 glottal
 glottis
 glovers
+glow
 glowered
 glowers
 glows
@@ -12455,6 +12471,7 @@ grimace
 grimacer
 grimacers
 grimalkins
+grimmest
 grindelias
 grinding
 grinner
@@ -14260,6 +14277,7 @@ inconvertibly
 incorporate
 incorporated
 incorporations
+incorporeal
 incorporeally
 incorpse
 incorrigibles
@@ -15749,6 +15767,7 @@ ladanums
 laddered
 laddies
 lade
+ladens
 ladinos
 ladlers
 ladrons
@@ -16235,6 +16254,7 @@ limbing
 limbos
 limeade
 limeades
+limed
 limelight
 limericks
 liminesses
@@ -18530,6 +18550,7 @@ myelopathy
 mylonite
 myna
 myoblast
+myoblasts
 myocardia
 myocardium
 myoclonuses
@@ -19793,6 +19814,7 @@ oracular
 oracularity
 orality
 orang
+orangs
 orations
 oratories
 orbed
@@ -22503,6 +22525,7 @@ preexistence
 preexpose
 preexposes
 prefabbing
+prefabrication
 prefaced
 prefaded
 prefades
@@ -22673,6 +22696,7 @@ pretaped
 pretasting
 pretence
 pretender
+pretentiously
 pretentiousness
 pretermits
 pretermitting
@@ -22787,6 +22811,7 @@ probangs
 probated
 probationers
 probed
+probiotic
 probity
 problematically
 proboscidean
@@ -23356,6 +23381,7 @@ quahog
 quaiches
 quaigh
 quails
+quaintly
 quaintnesses
 quaked
 quakily
@@ -23841,6 +23867,7 @@ recarries
 recataloging
 recaution
 recce
+recedes
 receding
 receipted
 receiptors
@@ -23901,6 +23928,7 @@ recommences
 recommencing
 recommissioned
 recommissioning
+recommissions
 recommittals
 recomposes
 recomputations
@@ -25065,6 +25093,7 @@ riding
 ridings
 ridley
 rids
+riesling
 rievers
 rifamycin
 rife
@@ -25180,6 +25209,7 @@ roared
 roars
 roband
 robbers
+robbins
 robe
 robes
 robotic
@@ -26981,6 +27011,7 @@ skoshes
 skreighing
 skreighs
 skua
+skulked
 skulkers
 skulling
 skunk
@@ -28954,6 +28985,7 @@ survival
 survivalists
 surviver
 survivers
+survivorships
 susceptibility
 susceptible
 susceptive
@@ -29268,6 +29300,7 @@ talapoin
 talar
 talaria
 talas
+talcing
 talcking
 talcose
 talcous
@@ -30627,6 +30660,7 @@ triptanes
 triptyca
 tripwires
 trisaccharides
+trisectors
 trisects
 trishaw
 trishaws
@@ -31908,6 +31942,7 @@ vane
 vanguardism
 vanillas
 vanillins
+vanquished
 vanquisher
 vans
 vaporetti
