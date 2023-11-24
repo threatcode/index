@@ -3144,6 +3144,7 @@ boardinghouses
 boardlike
 boardsailors
 boarfishes
+boaster
 boat
 boatlifting
 boatload
@@ -6341,6 +6342,7 @@ coryzal
 cosecants
 coses
 coshed
+cosiest
 cosignatory
 cosmetically
 cosmeticians
@@ -7264,6 +7266,7 @@ debeaked
 debeaking
 debeaks
 debilitates
+debonair
 debonairnesses
 debones
 debridements
@@ -7474,6 +7477,7 @@ defraud
 defrauds
 defrayals
 defraying
+defrays
 defrocking
 defter
 deftness
@@ -7636,6 +7640,7 @@ dendrite
 dendroid
 dendrological
 denegation
+denervated
 denes
 deniably
 denied
@@ -8111,6 +8116,7 @@ digested
 digestibilities
 digestibility
 digestive
+digestor
 dighting
 dights
 digital
@@ -9056,6 +9062,7 @@ dutchmen
 duteous
 duties
 dutifulnesses
+duumvir
 duumviri
 duvetines
 dwarfing
@@ -11005,6 +11012,7 @@ fissuring
 fistfight
 fistic
 fisticuff
+fistula
 fistular
 fistulas
 fitchet
@@ -11171,6 +11179,7 @@ flocci
 floccing
 flocculants
 flocculates
+flocculent
 flocculus
 flock
 flog
@@ -11182,6 +11191,7 @@ floodable
 floodgate
 flooding
 floodwaters
+floorage
 floors
 floosie
 floosy
@@ -12274,6 +12284,7 @@ gleamy
 gleaners
 glede
 glee
+gleefulnesses
 gleeking
 gleeks
 gleetiest
@@ -12293,6 +12304,7 @@ glimpses
 glinting
 glioblastoma
 glissaded
+glistered
 glistering
 glitch
 glitchier
@@ -12981,6 +12993,7 @@ hailstorm
 hair
 haircaps
 haircut
+haircuts
 hairdresser
 hairdressers
 hairlike
@@ -14580,6 +14593,7 @@ indecorously
 indefatigable
 indefeasibility
 indefensibility
+indefensibly
 indefinability
 indefiniteness
 indefinites
@@ -14787,6 +14801,7 @@ ingot
 ingoting
 ingrafted
 ingrafts
+ingrained
 ingrains
 ingression
 ingressiveness
@@ -14989,6 +15004,7 @@ intensely
 intensified
 intensities
 intensity
+intensive
 interaction
 interarches
 interarching
@@ -15083,6 +15099,7 @@ interoffice
 interoperable
 interpellating
 interpenetrated
+interpermeate
 interpermeating
 interpersonally
 interpleading
@@ -15353,6 +15370,7 @@ isobarisms
 isobars
 isobutylene
 isobutylenes
+isocaloric
 isochors
 isochromosome
 isoclinal
@@ -17762,6 +17780,7 @@ metallurgist
 metalmark
 metals
 metamerically
+metamerism
 metamorphically
 metamorphisms
 metanalyses
@@ -18275,6 +18294,7 @@ mistend
 misthrows
 mistier
 mistimed
+mistiming
 mistook
 mistouched
 mistouches
@@ -19016,6 +19036,7 @@ nards
 narks
 narky
 narrations
+narratives
 narrators
 narrowest
 narrownesses
@@ -19930,6 +19951,7 @@ oceans
 ocellate
 ochered
 ochlocrat
+ochrea
 ochres
 ochring
 ochroid
@@ -19985,6 +20007,7 @@ offense
 offhand
 offhanded
 offhandednesses
+official
 officialdom
 officialisms
 officially
@@ -20061,6 +20084,7 @@ ominously
 omissive
 omits
 omitters
+omitting
 omniarchs
 omnibus
 omnicompetence
@@ -20293,6 +20317,7 @@ oscillating
 oscillograph
 oscilloscope
 osculatory
+oscule
 oses
 osiered
 osiers
@@ -22733,6 +22758,7 @@ postpositive
 postproductions
 postpubescent
 postpunk
+postrider
 postromantic
 poststimulation
 poststrike
@@ -22744,6 +22770,7 @@ postulation
 postulations
 posturer
 postures
+potable
 potableness
 potages
 potboiled
@@ -23825,6 +23852,7 @@ quantongs
 quantum
 quarantine
 quarterback
+quarterers
 quarterfinal
 quarterstaff
 quartics
@@ -24736,6 +24764,7 @@ reignite
 reimaged
 reimagines
 reimbursing
+reimplantation
 reimportations
 reimported
 reimposed
@@ -25733,6 +25762,7 @@ roofs
 rooftree
 rookery
 rooking
+roomie
 roommates
 roorback
 roose
@@ -27795,6 +27825,7 @@ snow
 snowbank
 snowbell
 snowbirds
+snowblink
 snowblinks
 snowboard
 snowboarded
@@ -30437,6 +30468,7 @@ though
 thought
 thoughtless
 thoughtlessness
+thoughtway
 thousand
 thousandth
 thowless
@@ -30658,6 +30690,7 @@ tittuppy
 tivy
 tizzies
 toadfish
+toadless
 toadstool
 tobies
 toboggan
@@ -33641,6 +33674,7 @@ wordsmithery
 work
 workaday
 workaholisms
+workbag
 workboat
 workboats
 workbox
@@ -33965,3 +33999,4 @@ zymolyses
 zymosan
 zymurgies
 zymurgy
+zyzzyvas
