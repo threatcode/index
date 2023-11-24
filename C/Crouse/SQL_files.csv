@@ -1,0 +1,7 @@
+dotnet templates,https://dotnetnew.azurewebsites.net/template/CleanArchitecture.Templates/CleanArchitecture.Solution.Template.Sql
+https://raw.githubusercontent.com/nickmancol/cube_...,https://raw.githubusercontent.com/nickmancol/cube_budibase/main/sql/fill_tables.sql
+https://jira.mariadb.org/secure/attachment/36317/s...,https://jira.mariadb.org/secure/attachment/36317/sakila-data.sql
+https://raw.githubusercontent.com/johnnywalls/Arch...,https://raw.githubusercontent.com/johnnywalls/Archivos-Laboratorios/master/PostgreSQL/dvdrental.sql
+CMSDEV/db.sql at master · Nycil/CMSDEV - GitHub,https://github.com/Nycil/CMSDEV/blob/master/db.sql
+https://www.fer.unizg.hr/_download/repository/dvdr...,https://www.fer.unizg.hr/_download/repository/dvdrent%5B4%5D.sql
+alasql - UNPKG,https://unpkg.com/browse/alasql%400.1.0/test-sql/sakila/sakila-spatial-data.sql
