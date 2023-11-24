@@ -1215,6 +1215,7 @@ anting
 antinomes
 antinomic
 antinomy
+antinuclear
 antinuke
 antioxidants
 antiparallel
@@ -2693,6 +2694,7 @@ bespeaks
 bespectacled
 bespouses
 bespread
+besprinkle
 besprinkled
 besprinkling
 besteaded
@@ -2958,6 +2960,7 @@ bistros
 bitartrate
 bitchiness
 bite
+bitmap
 bitt
 bitterbrushes
 bittering
@@ -4200,6 +4203,7 @@ capsizing
 capsomere
 capstone
 capsular
+capsulize
 capsulizing
 captain
 captan
@@ -5074,6 +5078,7 @@ cicerones
 ciceros
 cicisbeos
 cicorees
+cig
 cigaret
 cigarets
 cigarillos
@@ -6821,6 +6826,7 @@ crusaders
 crusading
 crusados
 cruse
+crushes
 crushproof
 crustily
 crustose
@@ -8262,6 +8268,7 @@ diploic
 diploid
 diploidies
 diplomacy
+diplontic
 diplophases
 diplopod
 diplotenes
@@ -8571,6 +8578,7 @@ distraint
 distress
 distressed
 distressfulness
+distributaries
 distributee
 distributes
 districted
@@ -9966,6 +9974,7 @@ equipollence
 equipollences
 equiponderant
 equipper
+equips
 equivalent
 equivocation
 equivocators
@@ -11578,11 +11587,13 @@ foul
 foulbrood
 fouled
 founded
+foundering
 founders
 fountain
 fountained
 founts
 fourdriniers
+fourteeners
 foveole
 fowlings
 fowls
@@ -11673,6 +11684,7 @@ fresnel
 fret
 fretsaws
 fretter
+fretwork
 friarbirds
 fricassees
 friedcake
@@ -12545,6 +12557,7 @@ goofball
 goofily
 goofing
 gooiest
+gooks
 goon
 gooney
 goops
@@ -12781,6 +12794,7 @@ grievous
 griffes
 griffins
 griller
+grilles
 grills
 grilse
 grimace
@@ -13286,6 +13300,7 @@ hayrides
 hays
 hayseeds
 hazanim
+hazardousness
 haze
 hazing
 hazzans
@@ -13352,6 +13367,7 @@ heavenlinesses
 heavenward
 heavyhearted
 heavyheartedly
+hebdomads
 hebetates
 hebetating
 hebetic
@@ -13934,6 +13950,7 @@ housesat
 housewifely
 hovercrafts
 hovering
+howdied
 howdy
 howff
 howking
@@ -16482,6 +16499,7 @@ lengthen
 lengthened
 lengthier
 lenis
+lenitive
 lenity
 lens
 lensing
@@ -18067,6 +18085,7 @@ militiamen
 milium
 milkier
 milkshake
+milkweed
 milkwood
 milkworts
 milky
@@ -19452,6 +19471,7 @@ nixing
 nizam
 nizamates
 nobbier
+nobbler
 nobblers
 nobiliary
 nobility
@@ -20189,6 +20209,7 @@ omnibus
 omnicompetence
 omnicompetences
 omnifarious
+omnific
 omnificent
 omnimode
 omnipotences
@@ -21474,6 +21495,7 @@ patchoulies
 patchouly
 patellate
 paten
+patentabilities
 patentable
 pater
 paternally
@@ -21557,6 +21579,7 @@ peag
 peal
 pealike
 peals
+peans
 peanuts
 pearlashes
 pearlescence
@@ -21578,6 +21601,7 @@ pecking
 pecky
 pectin
 pectines
+pectinesterases
 pectorals
 peculators
 peculiar
@@ -25676,6 +25700,7 @@ ribless
 riblet
 riblets
 riboflavin
+ribonucleases
 ribonucleoside
 ribonucleotides
 ribozymes
@@ -26845,6 +26870,7 @@ segment
 segmentally
 segmenting
 segs
+segued
 segues
 seguidilla
 seifs
@@ -27029,6 +27055,7 @@ sered
 serenade
 serenading
 serendipities
+serfage
 serfages
 serfdoms
 serfhoods
@@ -27552,6 +27579,7 @@ sings
 singsongs
 singspiel
 singularities
+singularizing
 singulars
 sinhs
 sinicize
@@ -28290,6 +28318,7 @@ spanner
 spanning
 spanokopita
 spar
+sparables
 spare
 spareable
 spares
@@ -28554,6 +28583,7 @@ spumes
 spumous
 spunk
 spunkiest
+spurge
 spuriously
 spurner
 spurting
@@ -29436,6 +29466,7 @@ sulliable
 sullied
 sulpha
 sulphates
+sulphating
 sulphid
 sulphones
 sulphur
@@ -30154,6 +30185,7 @@ tasting
 tatamis
 taters
 tates
+tatsois
 tatterdemalion
 tatties
 tattinesses
@@ -32372,6 +32404,7 @@ unsampled
 unsatisfied
 unsaturated
 unsavory
+unsawn
 unscrambles
 unsealed
 unseaming
@@ -32474,6 +32507,7 @@ unununium
 unununiums
 unusual
 unusualnesses
+unvalued
 unverbalized
 unvext
 unvisited
@@ -33972,6 +34006,7 @@ yanqui
 yard
 yardarms
 yarder
+yare
 yarmulke
 yarns
 yashmaks
