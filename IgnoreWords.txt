@@ -1134,6 +1134,7 @@ anthill
 anthodia
 anthological
 anthologized
+anthologizers
 anthozoic
 anthracene
 anthracite
@@ -2375,6 +2376,7 @@ bathyscaph
 bathyspheres
 batiste
 battailous
+battalion
 batteau
 batteaux
 battement
@@ -4940,6 +4942,7 @@ choked
 chokers
 chokier
 choking
+cholecystectomy
 cholecystitis
 cholecystitises
 cholecystokinin
@@ -4959,6 +4962,7 @@ chondromas
 choosers
 chopine
 chopins
+chopped
 chopper
 choppier
 choppinesses
@@ -6141,6 +6145,7 @@ contribution
 contributive
 contrived
 contriver
+contriving
 controller
 controlling
 controlments
@@ -6861,6 +6866,7 @@ cuesta
 cuestas
 cuff
 cuisinarts
+cuisine
 cuittle
 cuittles
 culinarians
@@ -8472,6 +8478,7 @@ disparately
 disparatenesses
 dispassionately
 dispatch
+dispatched
 dispatching
 dispels
 dispended
@@ -9280,6 +9287,7 @@ effectuated
 effectuates
 effectuating
 effeminacy
+effeminate
 effeminates
 effervesced
 effervescing
@@ -9383,6 +9391,7 @@ electrostatic
 electrothermal
 electrotonic
 electrotonuses
+electrotype
 electrotyping
 electrum
 electrums
@@ -11136,6 +11145,7 @@ flatirons
 flatland
 flatlanders
 flatlings
+flatnesses
 flattener
 flattish
 flattop
@@ -11463,6 +11473,7 @@ foresaid
 foreseeable
 foreshank
 foresheets
+foreshores
 foreshowing
 foreshown
 foreshows
@@ -13500,6 +13511,7 @@ heros
 herpetological
 herrenvolks
 herringboning
+herstory
 hertz
 hesitances
 hesitancy
@@ -14203,6 +14215,7 @@ hyte
 iambs
 iambus
 iatrogenically
+ibidem
 ibises
 ibogaine
 iceboat
@@ -15465,6 +15478,7 @@ itchier
 itchily
 itching
 itemising
+itemizations
 itemized
 itemizers
 iterance
@@ -16286,6 +16300,7 @@ laterizing
 latexes
 lathering
 lathers
+lathis
 lathyritic
 latifundio
 latigo
@@ -18791,8 +18806,10 @@ mulching
 mule
 muled
 muletas
+muliebrity
 mulish
 mulla
+mulled
 mulleys
 mulligatawnies
 mullion
@@ -19938,6 +19955,7 @@ obligingness
 obligors
 obliqued
 obliterates
+obliterative
 obliterator
 oblivious
 obloquial
@@ -19967,6 +19985,7 @@ obsessors
 obsolescent
 obsoleted
 obsoletenesses
+obstetricians
 obstruct
 obstruction
 obstructionist
@@ -20874,6 +20893,7 @@ overpassing
 overpedal
 overpersuaded
 overpersuasion
+overplanting
 overplayed
 overplots
 overpotent
@@ -21742,6 +21762,7 @@ perfecters
 perfectionists
 perfectiveness
 perfectly
+perfecto
 perfidies
 perforce
 performative
@@ -23321,6 +23342,7 @@ probable
 proband
 probangs
 probated
+probates
 probationers
 probed
 probiotic
@@ -23747,6 +23769,7 @@ punishable
 punishers
 punishes
 punishment
+punitions
 punji
 punkas
 punkin
@@ -24463,6 +24486,7 @@ recommence
 recommencements
 recommences
 recommencing
+recommends
 recommissioned
 recommissioning
 recommissions
@@ -24499,6 +24523,7 @@ recontours
 reconvened
 reconvenes
 reconverted
+reconveys
 reconvicts
 recook
 recopied
@@ -24875,6 +24900,7 @@ reinsure
 reintegrates
 reinterpreted
 reinterprets
+reinters
 reinterviewing
 reinterviews
 reinvaded
@@ -25421,6 +25447,7 @@ retitle
 retook
 retooled
 retort
+retorters
 retortion
 retotal
 retotalled
@@ -26516,6 +26543,7 @@ scimitars
 scincoid
 scintillas
 scintillates
+scintillations
 scintillator
 sciolistic
 sciroccos
@@ -28532,6 +28560,7 @@ squeezing
 squelches
 squib
 squiffy
+squiggles
 squillae
 squinches
 squinching
@@ -28660,6 +28689,7 @@ steadies
 steading
 steady
 stealing
+stealthier
 stealthiness
 steamfitter
 steamfitters
@@ -29479,6 +29509,7 @@ supergraphics
 superharden
 superheating
 superhot
+superhumanness
 superhypes
 superhyping
 superimposed
@@ -31143,6 +31174,7 @@ transmogrified
 transmountain
 transmutable
 transmutes
+transparency
 transparent
 transpierced
 transplant
@@ -31156,6 +31188,7 @@ transposing
 transposition
 transposons
 transsexualism
+transshaping
 transshipment
 transuranic
 transuranics
@@ -33091,6 +33124,7 @@ vulcanize
 vulcanizers
 vulcanizes
 vulcanizing
+vulgarisms
 vulgarities
 vulgarize
 vulgate
@@ -33421,6 +33455,7 @@ westernizations
 wether
 wethers
 wha
+whacked
 whackers
 whacks
 whalebacks
