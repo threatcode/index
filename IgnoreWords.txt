@@ -328,6 +328,7 @@ admonitions
 admonitor
 admonitors
 adnexal
+adnouns
 adobo
 adobos
 adonis
@@ -659,6 +660,7 @@ alder
 alderfly
 alderman
 aldolases
+aleuron
 alewife
 alexines
 alfaquis
@@ -3825,6 +3827,7 @@ cachexies
 cachinnated
 cachinnation
 cackles
+cackling
 cacodyl
 cacomixls
 caconym
@@ -3900,6 +3903,7 @@ calipee
 caliper
 caliph
 caliphal
+calisthenic
 calix
 calkings
 calkins
@@ -4476,6 +4480,7 @@ centupled
 centuples
 cephalexins
 cephalically
+cephalins
 cephaloridine
 cephalothoraces
 cephalothoraxes
@@ -5179,6 +5184,7 @@ clitoral
 clitorectomy
 clitorides
 clivers
+clivia
 clivias
 cloak
 clocker
@@ -5675,6 +5681,7 @@ compellingly
 competencies
 competently
 compilations
+compiler
 compiling
 comping
 complacences
@@ -6425,6 +6432,7 @@ cowhide
 cowled
 cowpats
 cowpoxes
+cowritten
 cowrote
 cowslips
 cowy
@@ -6636,6 +6644,7 @@ crouton
 crow
 crowded
 crowdedly
+crowfoots
 crowing
 crowkeepers
 crows
@@ -6741,6 +6750,7 @@ cultivate
 cultivator
 culverin
 culvert
+culverts
 cumbering
 cumbers
 cumin
@@ -8263,6 +8273,7 @@ disintoxicates
 disintoxicating
 disjecting
 disjoined
+diskette
 dislike
 dislikeable
 dislikers
@@ -10243,6 +10254,7 @@ extrality
 extramurally
 extrapolative
 extravaganza
+extravagate
 extremenesses
 extremes
 extremism
@@ -11506,6 +11518,7 @@ fulcrums
 fulfillments
 fulfilments
 fulgently
+fulgid
 fulgurates
 fulgurite
 fuliginously
@@ -14691,6 +14704,7 @@ instigates
 instigating
 instigations
 instil
+instillations
 instillers
 instillment
 instillments
@@ -14953,6 +14967,7 @@ inutilities
 invader
 invaginations
 invalidate
+invalidated
 invaluable
 invar
 invariably
@@ -15412,6 +15427,7 @@ jurisdictions
 jurisprudences
 jurying
 juster
+justers
 justice
 justiciars
 justle
@@ -15810,6 +15826,7 @@ lads
 ladyfinger
 ladyhoods
 ladypalms
+lagan
 lagend
 laggardness
 laggards
@@ -19671,6 +19688,7 @@ offhandednesses
 officialdom
 officialisms
 officially
+officiaries
 officiates
 offishness
 offload
@@ -20383,6 +20401,7 @@ overextensions
 overfast
 overfastidious
 overfavor
+overfeared
 overfearing
 overfertilizing
 overfill
@@ -20485,6 +20504,7 @@ overripe
 overrule
 overruns
 oversale
+oversalting
 oversaturations
 oversauces
 oversaves
@@ -23387,6 +23407,7 @@ pyrolysate
 pyrometer
 pyrometers
 pyrometrically
+pyromorphite
 pyrones
 pyrophoric
 pyrophyllite
@@ -23939,6 +23960,7 @@ recharger
 rechart
 recharted
 rechauffe
+rechauffes
 rechew
 rechristens
 recidivisms
@@ -24288,6 +24310,7 @@ regauges
 regearing
 regenerately
 regenerators
+regimentation
 regimenting
 reginae
 registering
@@ -25190,6 +25213,7 @@ rimosities
 rimous
 rimples
 rin
+rinds
 ringbarks
 ringbone
 ringbones
@@ -25292,6 +25316,7 @@ rococo
 rodeoed
 rodomontade
 rods
+roentgenograms
 roentgenology
 roes
 rogation
@@ -25725,6 +25750,7 @@ sandpile
 sandpits
 sandspur
 sandspurs
+sanenesses
 saner
 sanes
 sanga
@@ -26108,6 +26134,7 @@ scrofulas
 scroggiest
 scrolls
 scrooch
+scrootches
 scrota
 scrotums
 scrouge
@@ -26785,6 +26812,7 @@ shuffles
 shuffling
 shunpike
 shunter
+shunting
 shusher
 shut
 shutdowns
@@ -26875,6 +26903,7 @@ significative
 signifying
 signiori
 signor
+signore
 signorinas
 signors
 signposted
@@ -28004,6 +28033,7 @@ stackup
 stagecoaches
 stagelike
 stagflation
+staggards
 staggeringly
 staggier
 staghounds
@@ -28687,6 +28717,7 @@ subskills
 subspaces
 subspecialized
 substantially
+substantiation
 substantiations
 substantive
 substation
@@ -29280,6 +29311,7 @@ systematizers
 systemizes
 systemizing
 systole
+systoles
 syzygy
 tabbied
 tabbises
@@ -30175,6 +30207,7 @@ titled
 titlist
 titrant
 titrants
+titrimetric
 titter
 tittie
 tittivates
@@ -30745,6 +30778,7 @@ triturated
 triumvir
 triumvirate
 triumvirs
+triunes
 trivalves
 trivial
 trivialising
@@ -31393,6 +31427,7 @@ undramatic
 undrawing
 undressed
 undrest
+undrinkable
 undulated
 undulates
 undulation
