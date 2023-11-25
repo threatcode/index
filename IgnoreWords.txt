@@ -1231,6 +1231,7 @@ antinuclear
 antinuke
 antioxidants
 antiparallel
+antiphonals
 antiphonies
 antipiracy
 antipode
@@ -1643,6 +1644,7 @@ ascidia
 ascidian
 ascidians
 ascomycetes
+ascosporic
 ascus
 aseptically
 asexual
@@ -2711,6 +2713,7 @@ beshouts
 beshrewing
 beshrouds
 besieging
+besmirching
 besmoking
 besmudge
 besmutting
@@ -3222,6 +3225,7 @@ bodybuildings
 bodychecked
 bodychecking
 bodyguarding
+bodyworks
 boehmites
 boffola
 bogarting
@@ -7530,6 +7534,7 @@ deductible
 deediest
 deejay
 deem
+deemed
 deepnesses
 deer
 deerhound
@@ -8105,6 +8110,7 @@ diachronies
 diaconal
 diaconates
 diacritic
+diacritical
 diademing
 diagenetically
 diagnose
@@ -9332,6 +9338,7 @@ eclectics
 eclipsed
 eclogites
 eclogue
+eclogues
 eclosion
 ecocide
 ecocides
@@ -10063,6 +10070,7 @@ equals
 equated
 equestrian
 equiangular
+equicaloric
 equid
 equilibrating
 equilibrator
@@ -10158,6 +10166,7 @@ esculents
 escutcheon
 esker
 esophageal
+esotropia
 esotropic
 espalier
 espanoles
@@ -10458,6 +10467,7 @@ exobiologist
 exobiologists
 exocarp
 exoderms
+exodontia
 exodontists
 exodus
 exoenzymes
@@ -12766,6 +12776,7 @@ graduand
 graduands
 graduses
 graecizing
+graffitiing
 grafted
 grafter
 grahams
@@ -15682,6 +15693,7 @@ itinerate
 itinerates
 ivory
 ivorybill
+ivorylike
 ixodid
 jabbered
 jabbering
@@ -16191,6 +16203,7 @@ klepto
 kleptomania
 kleptomanias
 klick
+klister
 kloofs
 kludgey
 klutziness
@@ -16650,6 +16663,7 @@ legitimizing
 leglike
 legworks
 lehayims
+leishmania
 lekvars
 lemans
 lemmatized
@@ -19740,6 +19754,7 @@ noncausal
 noncelebration
 noncelebrities
 noncelebrity
+nonchalance
 nonchalances
 nonchemicals
 nonchromosomal
@@ -19975,6 +19990,7 @@ nonvoting
 nonwhites
 nonwinged
 nonwinning
+nonwool
 nonwords
 nonwriter
 noodge
@@ -20525,6 +20541,7 @@ orations
 oratories
 orbed
 orbier
+orbiter
 orbiting
 orca
 orceins
@@ -20955,6 +20972,7 @@ overacted
 overactive
 overacts
 overalert
+overanxiety
 overapplication
 overarching
 overarm
@@ -22097,6 +22115,7 @@ perniones
 pernod
 pernods
 perorates
+peroration
 perovskite
 peroxidase
 peroxide
@@ -22920,6 +22939,7 @@ polydipsic
 polydispersity
 polyesters
 polygamies
+polygamizes
 polygenesis
 polyglot
 polyglotisms
@@ -23356,6 +23376,7 @@ preforming
 preforms
 preformulate
 prefreezes
+prefreezing
 preganglionic
 prehandle
 prehandled
@@ -23600,6 +23621,7 @@ priorate
 priorates
 prioress
 priories
+prioritization
 prioritizations
 priors
 priory
@@ -24118,6 +24140,7 @@ pushers
 pushiest
 pushy
 pusleys
+puslike
 pussleys
 pusslies
 pussyfooted
@@ -24591,6 +24614,7 @@ razes
 razored
 razzes
 reacceded
+reaccelerating
 reaccessions
 reacclaim
 reacclimatize
@@ -25824,6 +25848,7 @@ revenues
 reverberated
 reverberating
 reverberations
+revere
 revered
 reverencer
 reverend
@@ -27482,6 +27507,7 @@ shave
 shaved
 shaving
 shawled
+shawling
 shays
 shearlings
 shearwaters
@@ -27601,6 +27627,7 @@ shoats
 shocks
 shoddy
 shoehorn
+shoelace
 shoers
 shoeshines
 shogunate
@@ -29058,6 +29085,7 @@ steelhead
 steeliest
 steeliness
 steelmakers
+steelmaking
 steelmakings
 steelwork
 steely
@@ -29239,6 +29267,7 @@ stomachache
 stomacher
 stomaching
 stomata
+stomatitis
 stomatopods
 stomodea
 stomped
@@ -30796,6 +30825,7 @@ testees
 testers
 testimony
 testiness
+teston
 tetanic
 tetanies
 tetanised
@@ -32112,6 +32142,7 @@ ululating
 ululations
 umbellifer
 umbellules
+umbels
 umber
 umbered
 umbilical
@@ -32526,6 +32557,7 @@ ungracious
 ungraciousness
 ungratefulness
 ungreedy
+ungues
 unguessable
 ungulate
 unhailed
@@ -33085,6 +33117,7 @@ vanillins
 vanquished
 vanquisher
 vans
+vapor
 vaporer
 vaporetti
 vaporetto
@@ -33827,12 +33860,14 @@ weigelia
 weight
 weighted
 weightlessness
+weighty
 weiners
 weirder
 weirdly
 weirdness
 weirdo
 weirs
+weisenheimers
 welcher
 welcomer
 welcomers
