@@ -187,6 +187,7 @@ achromat
 achromatized
 achy
 acicular
+acid
 acidimetric
 acidimetry
 acidities
@@ -966,6 +967,7 @@ analogous
 analogs
 analogy
 analysing
+analyst
 analyticity
 analyzer
 analyzers
@@ -1299,6 +1301,7 @@ apery
 apes
 apetaly
 aphanitic
+aphelia
 aphelions
 aphetic
 aphetically
@@ -1829,6 +1832,7 @@ attractancy
 attractant
 attractants
 attraction
+attributes
 attribution
 attrit
 attritional
@@ -2349,6 +2353,7 @@ basics
 basidiomycete
 basidium
 basified
+basifier
 basify
 basilic
 basils
@@ -4254,6 +4259,7 @@ carbonizes
 carbonless
 carbonnade
 carbonous
+carbonylation
 carboxylate
 carboxylating
 carboxyls
@@ -4720,6 +4726,7 @@ chapfallen
 chapmen
 chaptering
 char
+characids
 characin
 charactered
 charactering
@@ -5592,6 +5599,7 @@ coldheartedness
 coldly
 colds
 coleaders
+coleading
 colectomy
 colemanites
 coleopteran
@@ -7319,6 +7327,7 @@ deathlessness
 deathsman
 deathwatches
 deave
+deaving
 debarkation
 debarker
 debarring
@@ -8538,6 +8547,7 @@ dispraises
 disprizes
 disputer
 disquiets
+disquisitions
 disrates
 disrelated
 disrelish
@@ -9333,6 +9343,7 @@ effeminate
 effeminates
 effervesced
 effervescing
+effete
 effetely
 efficacity
 efficacy
@@ -9747,6 +9758,7 @@ enigma
 enisling
 enjambements
 enjoining
+enjoyable
 enjoyed
 enjoyers
 enkindled
@@ -10381,6 +10393,7 @@ exobiologists
 exocarp
 exoderms
 exodontists
+exoenzymes
 exoergic
 exogamy
 exonerate
@@ -10692,6 +10705,8 @@ fantasies
 fantasised
 fantasized
 fantasticality
+fantasticate
+fantasticating
 fantastication
 fantasyland
 fanums
@@ -12012,6 +12027,7 @@ gamelike
 gameness
 gamenesses
 gamer
+gamers
 gamesmen
 gamester
 gamesters
@@ -12593,6 +12609,7 @@ goody
 goofball
 goofily
 goofing
+googly
 gooiest
 gooks
 goon
@@ -14460,6 +14477,7 @@ immunotherapies
 immured
 immutabilities
 impacters
+impacting
 impacts
 impainted
 impainting
@@ -16085,6 +16103,7 @@ kludgey
 klutziness
 klystron
 knackwursts
+knappers
 knaur
 knave
 kneecapping
@@ -20614,6 +20633,7 @@ outdraws
 outdressing
 outdrinks
 outdriving
+outdrop
 outearns
 outeating
 outechoing
@@ -21107,6 +21127,7 @@ overweening
 overweens
 overwetted
 overwhelms
+overwintered
 overwithhold
 overwithholding
 overwore
@@ -22217,6 +22238,7 @@ phrasemaker
 phrasemakings
 phraseological
 phrasing
+phratries
 phrensied
 phthalin
 phthalocyanine
@@ -24309,6 +24331,7 @@ ramtil
 ramtils
 rancherias
 ranchlike
+rancours
 randiest
 randiness
 randomizes
@@ -25800,6 +25823,7 @@ ricotta
 riddances
 ridden
 riddle
+riddling
 ride
 rideable
 riderless
@@ -25838,6 +25862,7 @@ rightness
 rigidity
 rigidness
 rigidnesses
+rigorism
 rigorous
 rigour
 rijsttafels
@@ -26254,6 +26279,7 @@ sacrist
 sacristy
 sacrosanctities
 sacrums
+sacs
 saddlebag
 saddled
 saddlery
@@ -26475,6 +26501,7 @@ sarkiest
 sarmentum
 sarodes
 sarongs
+saroses
 sarsaparillas
 sarsnet
 sartor
@@ -26589,6 +26616,7 @@ scarcity
 scarecrows
 scareheads
 scares
+scarfing
 scarifications
 scarifiers
 scarious
@@ -27039,6 +27067,7 @@ seminal
 seminars
 seminomads
 seminomas
+seminude
 seminudities
 semiologically
 semioticians
@@ -28192,6 +28221,7 @@ soldering
 soldiering
 soldierings
 soldierly
+soldiership
 solecist
 solecistic
 solecized
@@ -28695,6 +28725,7 @@ squandering
 squared
 squareness
 squark
+squarks
 squashes
 squats
 squatter
@@ -30210,6 +30241,7 @@ tantalite
 tantalizers
 tantaluses
 tantivy
+tantrum
 tanyards
 tanzanites
 taos
@@ -31426,6 +31458,7 @@ tret
 trevets
 triacid
 triacids
+triad
 triads
 trialogue
 triamcinolone
@@ -32038,6 +32071,7 @@ unclarity
 unclasped
 uncleaner
 uncleanest
+uncleanliness
 uncleft
 uncles
 uncliched
@@ -33245,6 +33279,7 @@ voguish
 voiced
 voicelessness
 voicings
+voidablenesses
 voidances
 voided
 voiders
