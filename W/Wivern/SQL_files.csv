@@ -1,0 +1,2 @@
+WebAPI/src/main/resources/db/migration/oracle/V2.7.0 ... - GitHub,https://github.com/OHDSI/WebAPI/blob/master/src/main/resources/db/migration/oracle/V2.7.0.20190312164953__fix_permission_id_seq_value.sql
+WebAPI/src/main/resources/db/migration/oracle/V2.8.0 ... - GitHub,https://github.com/OHDSI/WebAPI/blob/master/src/main/resources/db/migration/oracle/V2.8.0.20190326180601__add-cc-download-permission.sql
