@@ -2166,6 +2166,7 @@ backwoods
 backwraps
 bacons
 bacteremias
+bacteriophage
 bacterizing
 bacula
 baculum
@@ -2343,6 +2344,7 @@ barebacked
 barefaced
 barefacedly
 barefacednesses
+barege
 baresark
 barfing
 barflies
@@ -3388,6 +3390,7 @@ bookshop
 bookstores
 bookworms
 boomed
+boomerangs
 boomiest
 boomlets
 boomtowns
@@ -4010,6 +4013,7 @@ cabbalahs
 cabbie
 cabby
 caber
+cabildos
 cabin
 cabinetmakers
 cabinetries
@@ -6825,6 +6829,7 @@ crania
 craniate
 craniofacial
 crankling
+cranks
 crankshafts
 crannogs
 cranreuchs
@@ -7228,6 +7233,7 @@ cutoffs
 cutover
 cutovers
 cuttage
+cutter
 cuttings
 cuttled
 cuttlefish
@@ -9117,6 +9123,7 @@ downbeats
 downcourt
 downdrafts
 downgrades
+downiness
 downinesses
 downlinks
 downloadable
@@ -10059,6 +10066,7 @@ enological
 enologies
 enormities
 enormousnesses
+enosises
 enplane
 enplaning
 enquired
@@ -11254,6 +11262,7 @@ feudatories
 feuded
 feuilletonism
 fever
+feverish
 feverishnesses
 feverous
 feverweed
@@ -12870,6 +12879,7 @@ glycolipid
 glycoproteins
 glycosidic
 glycosidically
+glycosuria
 glycosurias
 glycosylate
 glycosylations
@@ -12968,6 +12978,7 @@ goofing
 googly
 gooiest
 gooks
+goombahs
 goon
 gooney
 goops
@@ -13244,6 +13255,7 @@ grizzlier
 grizzly
 grocer
 groceries
+grocery
 groin
 groomers
 groomsman
@@ -15880,6 +15892,7 @@ iridescent
 iris
 irk
 irks
+irksomeness
 iroko
 irokos
 ironbark
@@ -16552,6 +16565,7 @@ klepto
 kleptomania
 kleptomanias
 klick
+klicks
 klister
 kloofs
 kludgey
@@ -17008,6 +17022,7 @@ leger
 legginesses
 legging
 leggy
+legislatorial
 legislatorship
 legitimacies
 legitimatized
@@ -17117,6 +17132,7 @@ lez
 liable
 liaises
 liaison
+liaisons
 lianoid
 liard
 lib
@@ -19226,6 +19242,7 @@ mooncalves
 mooner
 mooners
 mooneyes
+moonless
 moonlighters
 moonports
 moonrise
@@ -20221,6 +20238,7 @@ nonelect
 nonelections
 nonelectronic
 nonemergency
+nonemphatic
 nonenergy
 nonenforcement
 nonentity
@@ -20583,6 +20601,7 @@ oaken
 oakier
 oared
 oarlock
+oarsmanship
 oarswomen
 oases
 oat
@@ -20665,6 +20684,7 @@ obstruction
 obstructionist
 obstructions
 obstructive
+obstructors
 obtainabilities
 obtainer
 obtains
@@ -20885,6 +20905,7 @@ oomiack
 oophorectomy
 oophyte
 oophytes
+ooralis
 oosperm
 oospore
 oospores
@@ -23312,6 +23333,7 @@ poetically
 poeticized
 poetise
 poetiser
+poetless
 pogonia
 pogromed
 pogroming
@@ -23670,6 +23692,7 @@ powering
 powerless
 powers
 powter
+powwow
 powwowed
 pox
 poxier
@@ -25323,6 +25346,7 @@ reconcilable
 reconcilers
 recondensed
 reconfigure
+reconfigured
 reconfining
 reconfirmations
 reconfirmed
@@ -25379,6 +25403,7 @@ rectifying
 rectilinearly
 rectitudinous
 rectocele
+rectoceles
 rectory
 rectos
 rectum
@@ -25952,6 +25977,7 @@ repeat
 repentantly
 repenting
 repents
+repeople
 repeopling
 repercussive
 reperk
@@ -27606,6 +27632,7 @@ sea
 seabag
 seabags
 seabeach
+seabirds
 seaboot
 seacoast
 seacraft
@@ -29649,6 +29676,7 @@ stealing
 stealthier
 stealthiness
 steamed
+steamers
 steamfitter
 steamfitters
 steamily
@@ -30467,6 +30495,7 @@ supercoiling
 superconductor
 supercontinents
 superconvenient
+supercritical
 supered
 superefficiency
 superegos
@@ -31856,6 +31885,7 @@ todays
 toddle
 toddled
 toddlerhood
+todies
 toed
 toeholds
 toeing
@@ -33341,6 +33371,7 @@ unmounted
 unmuffled
 unnaturalnesses
 unneeded
+unneedful
 unnoisy
 unobtrusively
 unornamented
@@ -34063,6 +34094,7 @@ villainy
 villanella
 villas
 villeins
+villose
 villosities
 vims
 vina
@@ -34548,11 +34580,13 @@ weirdo
 weirs
 weisenheimers
 welcher
+welcomed
 welcomer
 welcomers
 welded
 welder
 weldment
+weldor
 welfares
 wellaway
 wellaways
@@ -35128,6 +35162,7 @@ yen
 yeomanries
 yerked
 yesses
+yestern
 yews
 yikes
 yin
