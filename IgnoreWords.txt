@@ -196,6 +196,7 @@ acid
 acidimetric
 acidimetry
 acidities
+acidnesses
 acidulate
 acidurias
 acierates
@@ -617,6 +618,7 @@ airdrome
 airfield
 airflow
 airframe
+airfreighting
 airheads
 airinesses
 airing
@@ -2458,6 +2460,7 @@ batteau
 batteaux
 battement
 battening
+batterie
 batting
 battings
 battle
@@ -2596,6 +2599,7 @@ beelining
 beerier
 beeriness
 beers
+beery
 beetroots
 beeves
 befalls
@@ -2791,6 +2795,7 @@ bestowals
 bestrew
 bestrewn
 bestud
+bestuds
 beswarmed
 betaxed
 betelnut
@@ -3794,6 +3799,7 @@ bubbleheaded
 bubbly
 bubby
 buboed
+buccaneer
 buckeen
 bucket
 buckeye
@@ -5378,6 +5384,7 @@ clapping
 clapt
 claqueur
 claret
+clarinets
 clarioning
 clarkia
 clashers
@@ -5845,6 +5852,7 @@ colorfast
 colorfastness
 colorfulness
 colorists
+colorlessly
 colorlessnesses
 colostrum
 colostrums
@@ -10262,6 +10270,7 @@ epitaphic
 epitaxial
 epitaxially
 epitaxies
+epithalamia
 epithelia
 epitheliums
 epithelization
@@ -11486,6 +11495,7 @@ flagellating
 flagellation
 flagellum
 flaggers
+flaggings
 flagman
 flagon
 flagpole
@@ -11656,6 +11666,7 @@ flossed
 flossies
 flossing
 flota
+flouncy
 floundering
 flour
 flourishers
@@ -12233,6 +12244,7 @@ funkier
 funnest
 furbearer
 furbelowing
+furcated
 furcately
 furcates
 furfurans
@@ -13196,6 +13208,7 @@ greenskeepers
 greenstone
 greenstuff
 greenwash
+grees
 greet
 greeting
 greetings
@@ -13779,6 +13792,7 @@ heady
 healed
 healthfulness
 healthiness
+healthy
 heap
 heapers
 hearers
@@ -16468,6 +16482,7 @@ kickballs
 kickboard
 kickboards
 kickbox
+kickboxing
 kickboxings
 kicked
 kickstarts
@@ -16497,6 +16512,7 @@ kilo
 kilocalories
 kilocycle
 kilograms
+kilohertz
 kiloliter
 kilometers
 kilovolt
@@ -17395,6 +17411,7 @@ lobar
 lobate
 lobbied
 lobbying
+lobelia
 lobotomising
 lobster
 lobsterlike
@@ -17489,6 +17506,7 @@ longsomeness
 longspurs
 longways
 loo
+lookdowns
 looksisms
 loonies
 loonily
@@ -17835,6 +17853,7 @@ malevolent
 malfed
 malformation
 malfunction
+malfunctioned
 malicious
 malign
 malignance
@@ -20016,6 +20035,7 @@ nicotinamides
 nictitant
 nidation
 nidering
+nidicolous
 nieces
 niellist
 niellists
@@ -20870,6 +20890,7 @@ omnipotences
 omnipotently
 omnirange
 omniscience
+omniscient
 omophagia
 onagri
 oncet
@@ -21533,6 +21554,7 @@ overfeared
 overfearing
 overfertilizing
 overfill
+overfilling
 overflowed
 overfoul
 overfulfilling
@@ -21597,6 +21619,7 @@ overmelts
 overmilked
 overmilking
 overmuch
+overnice
 overnight
 overnighters
 overnighting
@@ -21865,6 +21888,7 @@ paleal
 paleobiological
 paleobiologies
 paleobotanical
+paleobotanists
 paleoecologic
 paleoecological
 paleogene
@@ -22190,6 +22214,7 @@ patchoulies
 patchoulis
 patchouly
 patellate
+patelliform
 paten
 patentabilities
 patentable
@@ -23811,6 +23836,7 @@ predeceased
 prededucted
 predeparture
 predesignated
+predestinarians
 predestinated
 predestinators
 predeterminers
@@ -24894,6 +24920,7 @@ racetracker
 racetrackers
 racewalkers
 raceway
+rachillae
 rachis
 rachises
 racialist
@@ -25882,6 +25909,7 @@ reminiscers
 reminiscing
 remised
 remises
+remissible
 remissibly
 remissions
 remitment
@@ -26984,6 +27012,7 @@ saber
 sabin
 sabines
 sabins
+sablefishes
 sabotages
 saboteur
 sabre
@@ -27517,6 +27546,7 @@ scouthered
 scouthering
 scoutmaster
 scowder
+scowed
 scowlers
 scowlingly
 scrabbly
@@ -28549,6 +28579,7 @@ sketchiness
 sketchpad
 skewbald
 skewer
+skiascopies
 skibob
 skibobber
 skibobbers
@@ -28671,6 +28702,7 @@ sleighed
 slender
 slenderized
 slenderizing
+slenderly
 sleuthhounds
 slewing
 slickeners
@@ -30278,6 +30310,7 @@ subserviences
 subserviency
 subserving
 subset
+subshaft
 subsiders
 subsidies
 subsiding
@@ -30457,6 +30490,7 @@ sundries
 sundrily
 sung
 sunglass
+sunglow
 sunlands
 sunlike
 sunniness
@@ -32732,6 +32766,7 @@ tympany
 tyning
 typebars
 typecast
+typesetting
 typestyles
 typewrite
 typewrote
