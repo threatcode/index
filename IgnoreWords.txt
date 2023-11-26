@@ -950,6 +950,7 @@ ana
 anabaenas
 anablepses
 anachronic
+anachronisms
 anachronous
 anaclisis
 anaclitic
@@ -1540,6 +1541,7 @@ ardour
 ardours
 arduousness
 are
+area
 areally
 areaways
 arecoline
@@ -1733,6 +1735,7 @@ assigners
 assigning
 assimilable
 assimilated
+assimilationist
 assimilative
 assimilators
 assisters
@@ -2665,6 +2668,7 @@ bellybands
 bellyful
 bellylike
 belongingnesses
+belongs
 beloved
 beloveds
 below
@@ -3896,6 +3900,7 @@ burnings
 burnishing
 burping
 burps
+burr
 burred
 burrower
 burrstones
@@ -4688,6 +4693,7 @@ centimo
 centipedes
 cento
 centones
+centos
 central
 centraler
 centrality
@@ -5445,11 +5451,13 @@ clivias
 cloak
 clocker
 clodhopping
+clodpate
 clods
 clofibrates
 cloggers
 cloggiest
 cloggy
+cloister
 cloisters
 clone
 cloned
@@ -5486,6 +5494,7 @@ clubhouses
 clubrooms
 clubs
 clubwoman
+clubwomen
 clucks
 clue
 clueing
@@ -7675,6 +7684,7 @@ deferred
 deferrer
 deffer
 defi
+defibrillations
 defibrillators
 defibrinating
 defibrinations
@@ -7907,6 +7917,7 @@ denticle
 dentins
 dentists
 dentitions
+denturists
 denudate
 denudement
 denudements
@@ -8234,6 +8245,7 @@ diagonalizes
 diagrammatic
 dial
 dialectic
+dialectics
 dialectologists
 dialects
 diallages
@@ -10089,6 +10101,7 @@ entrap
 entraps
 entreatment
 entrechat
+entrechats
 entrenching
 entrenchments
 entresol
@@ -11470,6 +11483,7 @@ flatwash
 flatwashes
 flaunter
 flauntier
+flauntingly
 flaunty
 flavanol
 flavine
@@ -13679,6 +13693,7 @@ headstall
 headwaiter
 headwater
 headwaters
+headwind
 headwinds
 heady
 healed
@@ -13917,6 +13932,7 @@ heterodyning
 heterogameties
 heterogamy
 heterogeneity
+heterokaryoses
 heterolyses
 heterophylly
 heterosexuals
@@ -14935,6 +14951,7 @@ inaugurated
 inaugurating
 inauspicious
 inauthentic
+inauthenticity
 inbeings
 inborn
 inbound
@@ -15905,6 +15922,7 @@ italic
 italicise
 italicization
 italics
+itch
 itchier
 itchily
 itching
@@ -18051,6 +18069,7 @@ maximizes
 maxims
 maximumly
 maybe
+maydays
 mayflies
 mayflower
 mayonnaises
@@ -19598,6 +19617,7 @@ namelessnesses
 nana
 nancified
 nandina
+nandins
 nankeen
 nannie
 nannies
@@ -19979,6 +19999,7 @@ nocturne
 nocturnes
 nodder
 nodders
+noddy
 nodosity
 nods
 nodule
@@ -21105,6 +21126,7 @@ outglitters
 outglow
 outgoings
 outhear
+outhomers
 outhunting
 outings
 outjinxing
@@ -21646,6 +21668,7 @@ pace
 paced
 pacemaker
 pacer
+pachoulis
 pachyderm
 pachyderms
 pachytene
@@ -21906,6 +21929,7 @@ parathormones
 paratroops
 paratyphoid
 paratyphoids
+parbake
 parboiled
 parboiling
 parboils
@@ -23037,6 +23061,7 @@ platonic
 platonism
 platooned
 platterfuls
+plattersful
 platting
 platyhelminthic
 plausibility
@@ -23159,6 +23184,7 @@ pocosens
 pocosin
 pod
 podesta
+podgier
 podgiest
 podgy
 podiatric
@@ -23411,6 +23437,7 @@ portraitures
 portraying
 portrays
 posers
+poseurs
 posher
 posit
 positing
@@ -23975,6 +24002,7 @@ prize
 prizefighter
 prizefights
 proa
+probabilisms
 probable
 proband
 probangs
@@ -25022,6 +25050,7 @@ reargues
 rearms
 rearousals
 rearranging
+rearrests
 rears
 reascending
 reascends
@@ -27399,6 +27428,7 @@ scrubwomen
 scrummage
 scrummed
 scrunchy
+scruple
 scruples
 scrupulosities
 scrutinising
@@ -27633,6 +27663,7 @@ semigroups
 semihobos
 semilegendary
 semillon
+semimatte
 semimystical
 seminal
 seminars
@@ -30140,6 +30171,7 @@ suchness
 sucked
 suckering
 suckle
+suckler
 sucks
 suction
 suctioning
@@ -31004,6 +31036,7 @@ teases
 teashops
 teatasters
 teated
+teazelling
 teched
 techiest
 technetium
@@ -31954,6 +31987,7 @@ tramcars
 trameling
 tramelling
 tramels
+trammeled
 trammeling
 tramming
 tramontanes
@@ -32723,6 +32757,7 @@ uncharming
 unchary
 unchastely
 unchastest
+unchildlike
 unchlorinated
 unchoking
 unchurch
