@@ -216,6 +216,7 @@ acquests
 acquiesced
 acquiescence
 acquiescences
+acquiescent
 acquiesces
 acquirers
 acquisitions
@@ -923,6 +924,7 @@ amorphisms
 amorphous
 amorphousnesses
 amortised
+amortising
 amortizable
 amotion
 amount
@@ -1010,6 +1012,7 @@ analyzes
 analyzing
 anankes
 anapaests
+anapest
 anaphoras
 anaphoric
 anaphorically
@@ -2287,6 +2290,7 @@ ballpoint
 balls
 ballyard
 ballyhooed
+ballyhooing
 balmier
 baloney
 balsam
@@ -2379,6 +2383,7 @@ barflies
 barfs
 bargain
 bargeboard
+barghest
 barging
 barhop
 barhopped
@@ -6752,6 +6757,7 @@ counterclaimed
 countercoup
 counterdemand
 counterefforts
+counterfactual
 counterfeiter
 counterimage
 counterimages
@@ -6804,6 +6810,7 @@ coupling
 courage
 courageous
 courantes
+couranto
 courgettes
 courlan
 courser
@@ -11282,6 +11289,7 @@ feint
 feinted
 feinting
 feistiest
+feistiness
 feldscher
 feldshers
 felicitator
@@ -12749,6 +12757,7 @@ geologized
 geologizes
 geologizing
 geomagnetically
+geomancer
 geometer
 geometrician
 geometrid
@@ -15069,6 +15078,7 @@ impassable
 impassibility
 impeached
 impeachers
+impeaching
 impeachments
 impecuniosity
 impede
@@ -15735,6 +15745,7 @@ insularism
 insularisms
 insulars
 insulate
+insulates
 insulted
 insupportable
 insurable
@@ -16446,6 +16457,7 @@ juicy
 jujuists
 jujutsu
 jukeboxes
+juku
 juliennes
 jumbles
 jumbos
@@ -17301,6 +17313,7 @@ levity
 levodopa
 levodopas
 levogyre
+levulins
 levuloses
 lewises
 lewissons
@@ -17695,6 +17708,7 @@ loppering
 lopping
 lopsidedness
 loquacity
+loquats
 lorazepams
 lord
 lorded
@@ -18061,6 +18075,7 @@ mamboing
 mamelukes
 mamey
 mammalian
+mammary
 mammas
 mammees
 mammer
@@ -20916,6 +20931,7 @@ obtrusive
 obturated
 obturating
 obtusity
+obverse
 obverses
 obversion
 obverting
@@ -21490,6 +21506,7 @@ outjinxing
 outjuggles
 outkissing
 outlast
+outlaughs
 outlawed
 outlawing
 outlay
@@ -21874,6 +21891,7 @@ overrespond
 overresponding
 overrich
 overripe
+overroast
 overrule
 overruns
 overs
@@ -22190,6 +22208,7 @@ paniculate
 panjandrum
 panmixes
 panmixia
+panmixis
 panniered
 panocha
 panochas
@@ -22441,6 +22460,7 @@ pater
 paternally
 pathbreaking
 pathetic
+pathfinder
 pathobiology
 pathogen
 pathogene
@@ -22715,6 +22735,7 @@ peponida
 peponidas
 pepos
 pepperbox
+peppering
 pepperonis
 peppers
 peppertrees
@@ -23061,11 +23082,13 @@ phosphatase
 phosphatic
 phosphatize
 phosphaturia
+phosphokinases
 phospholipase
 phosphonium
 phosphorescence
 phosphori
 phosphorolytic
+phosphoruses
 photoautotrophs
 photochemically
 photochemist
@@ -25004,6 +25027,7 @@ pyxes
 pyxidia
 qaids
 qintar
+qophs
 quacked
 quackiest
 quacking
@@ -28359,6 +28383,7 @@ shaly
 sham
 shamably
 shamanic
+shamans
 shamas
 shambled
 shame
@@ -28528,6 +28553,7 @@ shoers
 shoeshines
 shogunate
 shojis
+shone
 shool
 shootdown
 shooter
@@ -30179,6 +30205,7 @@ stocked
 stockholder
 stockholders
 stockings
+stockish
 stockjobber
 stockkeeper
 stockman
@@ -30796,6 +30823,7 @@ sung
 sunglass
 sunglow
 sunlands
+sunlights
 sunlike
 sunniness
 sunrays
@@ -32512,6 +32540,7 @@ trailside
 trainability
 trainee
 training
+trainload
 trainman
 trainways
 traitorous
@@ -32802,6 +32831,7 @@ tripwires
 trisaccharides
 trisectors
 trisects
+trisemic
 trishaw
 trishaws
 trisoctahedra
@@ -33338,6 +33368,7 @@ uncoffin
 uncollected
 uncollectibles
 uncombed
+uncomely
 uncomfortably
 uncommonest
 uncommunicative
@@ -33796,6 +33827,7 @@ unrestraint
 unretired
 unretires
 unretouched
+unrewarded
 unriddler
 unriddlers
 unriddles
@@ -33830,6 +33862,7 @@ unserious
 unserved
 unsettledness
 unshackle
+unshackling
 unshaded
 unshaven
 unshifts
@@ -34427,6 +34460,7 @@ viceroyalty
 vichies
 vichy
 vicinages
+vicious
 victimise
 victimologists
 victorious
@@ -34845,6 +34879,7 @@ waterproofer
 waterproofing
 watershed
 watersheds
+waterspouts
 watertight
 waterway
 waterways
