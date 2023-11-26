@@ -1,0 +1,9 @@
+standard resistor,https://faculty.washington.edu/dbp/sauts/Data/resistor.txt
+Documentation/devicetree/bindings/i2c/ina2xx.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/i2c/ina2xx.txt
+Introduction-to-Internet-of-Things/Current limiting resistor.txt at master,https://github.com/PacktPublishing/Introduction-to-Internet-of-Things/blob/master/Current%2520limiting%2520resistor.txt
+hw03.txt - SMU Physics,http://www.physics.smu.edu/~ryszard/1314sp98/hw03.txt
+Open Collector Output FAQ Datasheet - Quasar Electronics,https://quasarelectronics.co.uk/kit-files/datasheets/open_collector_output_info.txt
+"brcm,nsp-gpio.txt",https://www.kernel.org/doc/Documentation/devicetree/bindings/pinctrl/brcm%252Cnsp-gpio.txt
+Text - W1GHZ,http://www.w1ghz.org/10g/pad.txt
+ltc2941.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/power/supply/ltc2941.txt
+Power_voltage_ind_alt.txt,https://ctools.ece.utah.edu/_Outreach/Outreach_PwrBd/Power_voltage_ind_alt.txt

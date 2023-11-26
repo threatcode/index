@@ -669,6 +669,7 @@ albatrosses
 albertites
 albinisms
 albino
+albites
 albitic
 album
 albuminuric
@@ -2151,6 +2152,7 @@ backflip
 backflipped
 backgammons
 backhand
+backhauled
 backhoe
 backhouse
 backings
@@ -2242,6 +2244,7 @@ bakshishes
 balaclavas
 balancing
 balas
+balases
 balconied
 balconies
 balded
@@ -4679,6 +4682,7 @@ cavalero
 cavaliered
 cavaliers
 cavallas
+cavalletti
 cavallies
 cave
 caveator
@@ -6031,6 +6035,7 @@ compart
 comparting
 compartmenting
 comparts
+compass
 compassionate
 compassionately
 compatibles
@@ -10858,6 +10863,7 @@ expunctions
 expunges
 expunging
 expurgate
+expurgation
 exsanguinated
 exsanguinations
 exsect
@@ -11910,6 +11916,7 @@ forbidal
 forbiddingly
 forbids
 forbodes
+forboding
 forby
 forbye
 force
@@ -13558,6 +13565,7 @@ gyttjas
 haars
 habaneras
 habdalahs
+habile
 habitability
 habitan
 habited
@@ -13774,6 +13782,7 @@ harmoniousness
 harmonized
 harmonizers
 harper
+harpers
 harpings
 harpins
 harpist
@@ -14138,6 +14147,7 @@ hexereis
 hexobarbitals
 hexosan
 heyday
+heydays
 hibernacula
 hibernated
 hibernates
@@ -14521,6 +14531,7 @@ howff
 howking
 howlets
 hoya
+hoydening
 hoydens
 hryvnias
 hubbies
@@ -14806,6 +14817,7 @@ hypothecated
 hypothecator
 hypothenuses
 hypothermal
+hypothermia
 hypotonia
 hypotonias
 hypoxemia
@@ -14919,6 +14931,7 @@ illusional
 illusively
 illusiveness
 illustration
+illustrational
 illustrations
 illustrators
 illuviates
@@ -15624,6 +15637,7 @@ inspecting
 inspective
 inspectorate
 inspectors
+insphere
 inspirationally
 inspirations
 inspirators
@@ -15877,6 +15891,7 @@ intone
 intoners
 intones
 intorting
+intoxicant
 intoxicate
 intoxications
 intracompany
@@ -16036,6 +16051,7 @@ irreducibility
 irrefragability
 irregardless
 irregular
+irrelative
 irrelatively
 irrelevant
 irreligion
@@ -17103,6 +17119,7 @@ leaves
 leaviest
 leavy
 leben
+lech
 leched
 lecherousnesses
 lechers
@@ -21321,6 +21338,7 @@ outbrawled
 outbrawling
 outbrazen
 outbred
+outbullies
 outbullying
 outburst
 outbursts
@@ -21377,6 +21395,7 @@ outfeasted
 outfeasting
 outfeels
 outfield
+outfighting
 outfights
 outfire
 outflank
@@ -21439,6 +21458,7 @@ outpolitick
 outpopulating
 outport
 outpost
+outpour
 outpourer
 outpourers
 outpouring
@@ -21717,6 +21737,7 @@ overindulgent
 overinflate
 overinflated
 overing
+overingenious
 overingenuity
 overjoying
 overlabor
@@ -25925,6 +25946,7 @@ reindict
 reindicted
 reinducts
 reinfections
+reinfects
 reinflated
 reinforcements
 reinformed
@@ -26231,6 +26253,7 @@ repristination
 reprivatizes
 reproachable
 reproacher
+reproachfully
 reprobation
 reprobative
 reprobing
@@ -26360,8 +26383,10 @@ resinating
 resinified
 resinlike
 resiny
+resisters
 resistive
 resistless
+resistor
 resite
 resizing
 reslated
@@ -26834,6 +26859,7 @@ ripper
 rippers
 rippled
 ripplier
+rippling
 ripply
 ripsaw
 ripstop
@@ -28642,6 +28668,7 @@ similarities
 simoleons
 simonists
 simonizes
+simoom
 simooms
 simpatico
 simpered
@@ -31844,6 +31871,7 @@ thirteens
 thirtieth
 thirty
 this
+thisaway
 thistle
 thistledowns
 thistly
@@ -32635,6 +32663,7 @@ trifurcating
 trifurcations
 triggerfishes
 triggers
+triglyph
 trigon
 trigonally
 trigos
@@ -32821,6 +32850,7 @@ tugboat
 tugless
 tuitional
 tumbledown
+tumblerfuls
 tumblers
 tumbles
 tumbleset
@@ -33536,6 +33566,7 @@ universalist
 universalistic
 universalists
 universalize
+universally
 universalness
 univocally
 unjustly
@@ -33835,6 +33866,7 @@ upbraids
 upbringing
 upbuilt
 upchucks
+upcoast
 upcountry
 upcurve
 upcurves
@@ -34524,6 +34556,8 @@ wacker
 wackest
 wackier
 wackily
+waddie
+wadding
 waddle
 waddles
 waddly
@@ -35518,6 +35552,7 @@ zirconias
 zirconiums
 zits
 zizit
+zizzles
 zizzling
 zlotych
 zoantharian
