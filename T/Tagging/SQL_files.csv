@@ -7,3 +7,13 @@ awswordpress-brownlr4 - files - wordpress.sql - GitLab,https://gitlab.csi.miamio
 tblScriptDBUAll.sql - Commvault Metrics Reporting,https://edc.commvault.com/downloads/SQLScripts/UpgradeReadiness/tblScriptDBUAll.sql
 docker/single-process/init.sql · master · dul-its / DUL Huginn · GitLab,https://gitlab.oit.duke.edu/dul-its/dul-huginn/-/blob/master/docker/single-process/init.sql
 liquid_feedback_core: 3e28fd842354 core.sql - Public Software Group,https://www.public-software-group.org/mercurial/liquid_feedback_core/file/3e28fd842354/core.sql
+Step2_Tagging.sql - microsoft/r-server-fraud-detection - GitHub,https://github.com/microsoft/r-server-fraud-detection/blob/master/SQLR/Step2_Tagging.sql
+yellowgrass-migration-since-tagging.sql - GitHub,https://github.com/webdsl/yellowgrass/blob/master/yellowgrass-migration-since-tagging.sql
+tags/release-1_5_2/install/phpwebgallery_structure.sql (log) – piwigo,https://piwigo.org/dev/log/tags/release-1_5_2/install/phpwebgallery_structure.sql%3Frev%3D11699
+http://www.chi2006.org/docs/sql/backup.sql,http://www.chi2006.org/docs/sql/backup.sql
+Oracle Application Express 4.2 Sample Database Application,https://docs.oracle.com/en/database/oracle/application-express/18/migrating_app_1/files/sample_db_app_4.2.sql
+openDCIM: db-2.0-to-2.1.sql | Fossies,https://fossies.org/linux/openDCIM/db-2.0-to-2.1.sql
+awswordpress-brownlr4 - files - wordpress.sql - GitLab,https://gitlab.csi.miamioh.edu/brownlr4/awswordpress-brownlr4/-/blob/dev/files/wordpress.sql
+tblScriptDBUAll.sql - Commvault Metrics Reporting,https://edc.commvault.com/downloads/SQLScripts/UpgradeReadiness/tblScriptDBUAll.sql
+Raw file,https://code.imphub.org/projects/OP/repos/oc-docker/raw/oc-database-preconigured.sql%3Fat%3Drefs%252Fheads%252Fmaster
+memos-mysql.sql in trunk/de.ugoe.cs.swe.memos/schema – Memos,https://projects.swe.informatik.uni-goettingen.de/memos/browser/trunk/de.ugoe.cs.swe.memos/schema/memos-mysql.sql
