@@ -38,6 +38,7 @@ abreactions
 abridger
 abrogable
 abrupter
+abruptest
 abruptnesses
 abscesses
 abscessing
@@ -866,6 +867,7 @@ ambiguities
 ambiguousnesses
 ambition
 ambitions
+ambitiousnesses
 ambivalence
 ambiversions
 amblers
@@ -1221,6 +1223,7 @@ antiaging
 antiaircraft
 antialien
 antiallergenic
+antianemia
 antiaphrodisiac
 antiarthritic
 antiarthritics
@@ -3000,6 +3003,7 @@ billet
 billeted
 billeters
 billies
+billionths
 billow
 billycock
 bilsted
@@ -3476,6 +3480,7 @@ booked
 bookend
 booker
 bookers
+bookish
 bookishly
 bookishnesses
 booklore
@@ -4093,6 +4098,7 @@ buttonhooked
 buttress
 buttressing
 butylated
+butyral
 butyraldehyde
 butyrates
 butyryl
@@ -7042,6 +7048,7 @@ crayoning
 crayonist
 craze
 crazily
+creaked
 creakier
 creakiest
 creaky
@@ -8114,6 +8121,7 @@ demodulators
 demographers
 demolisher
 demolitionist
+demonised
 demonisms
 demons
 demonstrably
@@ -8424,6 +8432,7 @@ deuteragonist
 deuterated
 deuterations
 deuterostome
+deutoplasms
 deva
 devalue
 devalued
@@ -9015,6 +9024,7 @@ displeases
 disploding
 disposable
 disposes
+dispossess
 dispraises
 disprizes
 disputer
@@ -10041,6 +10051,7 @@ embarring
 embattlement
 embay
 embedded
+embedding
 embeddings
 embeds
 embellished
@@ -10316,6 +10327,7 @@ enlace
 enlacement
 enlargeable
 enlargements
+enlargers
 enlightened
 enlightening
 enlistees
@@ -11968,6 +11980,7 @@ flossed
 flossies
 flossing
 flota
+flounce
 flouncy
 floundering
 flour
@@ -12568,6 +12581,7 @@ furless
 furlong
 furloughed
 furloughing
+furls
 furmenties
 furmety
 furmity
@@ -12697,6 +12711,7 @@ galvanoscopes
 galyak
 gamba
 gambado
+gambadoes
 gambias
 gambir
 gambit
@@ -14103,6 +14118,7 @@ havoc
 havocker
 hawala
 hawfinch
+hawk
 hawkishly
 hawkmoths
 hawknoses
@@ -14229,6 +14245,7 @@ heiresses
 heirships
 held
 heliast
+heliasts
 helical
 helically
 helicoids
@@ -14314,6 +14331,7 @@ hepatoma
 hepatomegalies
 heptagon
 heptameter
+heptameters
 heptarch
 heptarchies
 heralded
@@ -15926,6 +15944,7 @@ insists
 insolations
 insole
 insolence
+insolents
 insolubilities
 insolubilize
 insolvencies
@@ -19796,6 +19815,7 @@ moorhen
 mooring
 moorish
 moorwort
+mooted
 mooters
 mooting
 moots
@@ -22197,6 +22217,7 @@ overmannered
 overmantels
 overmaster
 overmatches
+overmedicate
 overmedicates
 overmedicating
 overmeek
@@ -25855,6 +25876,7 @@ ravined
 rawish
 rawnesses
 raya
+rayahs
 rayas
 raygrasses
 raylessnesses
@@ -28356,6 +28378,7 @@ screwworms
 scribble
 scribbled
 scribbly
+scribe
 scribing
 scrieve
 scrieves
@@ -28874,6 +28897,7 @@ shareabilities
 shareware
 shariah
 sharif
+sharing
 sharker
 sharking
 sharkskin
@@ -29026,6 +29050,7 @@ shool
 shootdown
 shooter
 shootouts
+shopboy
 shopboys
 shophars
 shoplift
@@ -30572,6 +30597,7 @@ steeving
 stegosaur
 stegosaurs
 stela
+stele
 stellar
 stellate
 stellated
@@ -32450,6 +32476,7 @@ thereinafter
 thereon
 thereto
 theriacs
+thermalizations
 thermalized
 thermes
 thermistor
@@ -33104,6 +33131,7 @@ tranches
 trancing
 trank
 tranqs
+tranquiler
 tranquilities
 tranquillize
 tranquillized
@@ -33808,6 +33836,7 @@ unaware
 unawed
 unbalance
 unbalanced
+unbarbed
 unbearable
 unbearded
 unbears
@@ -33958,6 +33987,7 @@ uncrumpled
 uncrumples
 unction
 unctions
+uncultured
 uncurable
 uncurl
 uncurrent
@@ -33999,6 +34029,7 @@ underfeeds
 underfunded
 undergirded
 undergirt
+undergods
 undergrounder
 undergrowth
 undergrowths
@@ -34414,6 +34445,7 @@ unseaming
 unsearchable
 unseated
 unseats
+unsecured
 unseemliest
 unselfishly
 unsells
@@ -34919,6 +34951,7 @@ verandah
 veratrines
 veratrins
 veratrum
+verbalization
 verbalizations
 verbalize
 verbals
@@ -35792,6 +35825,7 @@ wimps
 win
 winceys
 windable
+windage
 windbags
 windblasts
 winded
@@ -36157,6 +36191,7 @@ yeastless
 yeastlike
 yecchs
 yegg
+yeggman
 yeggs
 yeller
 yellowfins
