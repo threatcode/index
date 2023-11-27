@@ -1107,6 +1107,7 @@ anglicize
 angosturas
 angriness
 angst
+angstrom
 angsts
 anguine
 angularity
@@ -1580,6 +1581,7 @@ archaizes
 archangelic
 archbishops
 archdeacon
+archducal
 archduchies
 archegonium
 archery
@@ -2235,6 +2237,7 @@ backslider
 backsliders
 backsliding
 backspaced
+backspin
 backstabbed
 backstabbings
 backstamped
@@ -2813,6 +2816,7 @@ benefice
 beneficed
 beneficence
 benefices
+beneficial
 beneficialness
 beneficiaries
 beneficiate
@@ -6456,6 +6460,7 @@ consensus
 consenters
 consents
 consequence
+consequent
 consequently
 conservancy
 conservation
@@ -8065,6 +8070,7 @@ dehumidifying
 dehydrates
 dehydrating
 dehydration
+dehydrogenase
 dehydrogenate
 dehydrogenates
 dehydrogenation
@@ -8487,6 +8493,7 @@ detumescence
 deuced
 deucedly
 deuteragonist
+deuteranomalous
 deuterated
 deuterations
 deuterostome
@@ -9969,6 +9976,7 @@ egocentrically
 egocentricities
 egocentricity
 egocentrism
+egoist
 egoistical
 egomaniacally
 egomaniacs
@@ -12116,6 +12124,7 @@ fluoroscoping
 fluoxetine
 fluphenazines
 flurry
+flushable
 flushest
 fluster
 flustered
@@ -12700,6 +12709,7 @@ fuss
 fusses
 fussiness
 fussing
+fussy
 fustier
 fustiest
 fustigated
@@ -14136,6 +14146,7 @@ harasses
 harbingered
 harbingers
 harbor
+harboring
 harborous
 harborside
 hardass
@@ -14175,6 +14186,7 @@ harriers
 harries
 harshnesses
 hart
+hartebeests
 harumphed
 haruspex
 haruspication
@@ -16216,6 +16228,7 @@ interlapping
 interlard
 interleaf
 interleave
+interliner
 interlining
 interlobular
 interlooped
@@ -16645,6 +16658,7 @@ jailbreak
 jailers
 jake
 jalapeno
+jalapic
 jalop
 jalousies
 jambalaya
@@ -16709,6 +16723,7 @@ jellied
 jellos
 jelutong
 jemadars
+jemidars
 jemmied
 jemmies
 jeoparded
@@ -17529,6 +17544,7 @@ lavendered
 lavenders
 laverock
 laverocks
+laves
 lavishes
 lavrock
 lavs
@@ -17911,6 +17927,7 @@ linter
 linters
 lintier
 linty
+liny
 lion
 lionfishes
 lionhearted
@@ -18490,6 +18507,7 @@ malemutes
 malevolent
 malfed
 malformation
+malformed
 malfunction
 malfunctioned
 malicious
@@ -20742,6 +20760,7 @@ nibble
 nibbles
 niblicks
 niccolite
+nicenesses
 nick
 nickel
 nickers
@@ -21458,6 +21477,7 @@ obtruders
 obtrusive
 obturated
 obturating
+obtuse
 obtusity
 obverse
 obverses
@@ -22854,6 +22874,7 @@ parameters
 parametrization
 parametrizes
 parametrizing
+paramilitary
 parang
 parangs
 paranoea
@@ -23863,6 +23884,7 @@ pinbone
 pincerlike
 pincers
 pinchbeck
+pinchbug
 pinchecks
 pincher
 pinching
@@ -24547,6 +24569,7 @@ postures
 pot
 potable
 potableness
+potablenesses
 potages
 potboiled
 potency
@@ -24691,6 +24714,7 @@ precipice
 precipitantness
 precipitations
 precipitative
+precipitousness
 preciseness
 precisionists
 precluding
@@ -25062,6 +25086,7 @@ proa
 probabilisms
 probabilists
 probable
+probables
 proband
 probangs
 probated
@@ -25582,6 +25607,7 @@ pushcarts
 pushchair
 pushers
 pushiest
+pushpin
 pushy
 pusleys
 puslike
@@ -25751,6 +25777,7 @@ quickened
 quickest
 quicklime
 quickly
+quicks
 quicksands
 quicksets
 quiddities
@@ -26176,6 +26203,7 @@ reawaked
 reawoke
 reawoken
 rebaptizing
+rebarbative
 rebater
 rebaters
 rebatos
@@ -27564,6 +27592,7 @@ riddling
 ride
 rideable
 riderless
+ridgel
 ridgels
 ridgetop
 ridgier
@@ -29036,6 +29065,7 @@ setaceous
 setenant
 setiform
 settleable
+settler
 settlings
 setups
 sever
@@ -29328,6 +29358,7 @@ showcase
 showcased
 showdown
 showerhead
+showering
 showerless
 showgirl
 showman
@@ -29606,6 +29637,7 @@ sizableness
 sizer
 sizers
 sizzled
+sizzler
 sizzlers
 sjamboks
 skaldship
@@ -30502,6 +30534,7 @@ spit
 spitefullest
 spiting
 spittles
+splanchnic
 splash
 splashboard
 splashed
@@ -32179,6 +32212,7 @@ taler
 talers
 tali
 talipeds
+talipes
 talipot
 talismans
 talk
@@ -34074,6 +34108,7 @@ unanalyzable
 unanchor
 unaneled
 unanimous
+unanimously
 unannotated
 unapologetic
 unappeased
