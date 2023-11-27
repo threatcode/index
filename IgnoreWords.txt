@@ -655,6 +655,7 @@ airs
 airscape
 airshows
 airsicknesses
+airspaces
 airspeeds
 airth
 airward
@@ -926,6 +927,7 @@ amirate
 amiss
 amitrole
 amitroles
+ammines
 ammonia
 ammoniating
 ammoniation
@@ -1969,6 +1971,7 @@ audiotapes
 audiphone
 audiphones
 auditable
+audition
 auditioned
 auditions
 auditives
@@ -3757,6 +3760,7 @@ breadstuff
 breadstuffs
 breadth
 breadwinners
+breakable
 breakeven
 breakfront
 breakup
@@ -3950,6 +3954,7 @@ budgie
 buds
 budworms
 buffaloes
+buffalos
 buffeter
 buffoonish
 buffs
@@ -4897,6 +4902,7 @@ centum
 centums
 centupled
 centuples
+cephalexin
 cephalexins
 cephalically
 cephalins
@@ -5536,6 +5542,7 @@ cladogenetic
 claimable
 claimers
 clairaudient
+clairvoyants
 clambake
 clammers
 clammiest
@@ -7967,6 +7974,7 @@ defecate
 defecated
 defectivenesses
 defeminize
+defeminized
 defence
 defences
 defend
@@ -8748,6 +8756,7 @@ dimensions
 dimercaprol
 dimeric
 dimerisms
+dimerize
 dimers
 dimidiating
 diminuendo
@@ -10781,6 +10790,7 @@ estreat
 estrone
 estrones
 estuarial
+esurience
 esurient
 etamins
 etapes
@@ -11329,8 +11339,10 @@ faithfully
 faithfulnesses
 faithfuls
 faithless
+faithlessly
 faithlessnesses
 fajita
+fakeer
 faker
 fakey
 faking
@@ -12081,6 +12093,7 @@ flugelhorn
 flugelhornist
 fluidize
 fluish
+flukinesses
 flumped
 flunkeys
 flunky
@@ -13090,6 +13103,7 @@ gestaltists
 gestates
 gestational
 gestes
+gestical
 gesticulators
 gesticulatory
 gesturing
@@ -13117,6 +13131,7 @@ giddies
 giddyap
 gieing
 gifted
+giftless
 gigabyte
 gigas
 gigglingly
@@ -15781,6 +15796,7 @@ indulges
 induration
 industrialised
 industrialisms
+industrialist
 industrialized
 industrially
 inearth
@@ -17943,6 +17959,7 @@ listlessnesses
 litai
 litany
 liteness
+literacy
 literalisms
 literalizations
 literary
@@ -18815,6 +18832,7 @@ mauger
 mauled
 maulers
 maumet
+maumets
 maunderers
 maunds
 mausolea
@@ -19281,6 +19299,7 @@ micrurgy
 mics
 micturate
 micturating
+midair
 middled
 middler
 midfields
@@ -19792,6 +19811,7 @@ molecules
 molehills
 molest
 molested
+molesters
 molesting
 mollah
 mollahs
@@ -19972,6 +19992,7 @@ moratoria
 morbidity
 morbidly
 morbific
+morceau
 mordants
 morelles
 morellos
@@ -21488,6 +21509,7 @@ octonary
 octopi
 octoploid
 octothorp
+octroi
 octupled
 octuplex
 octuply
@@ -23173,6 +23195,7 @@ peewits
 pegboards
 pegbox
 pegged
+pegmatite
 peignoir
 pein
 peke
@@ -24165,6 +24188,7 @@ pneumococcus
 pneumonitises
 poached
 poachers
+poaching
 pochards
 pock
 pocked
@@ -25036,6 +25060,7 @@ prizefighter
 prizefights
 proa
 probabilisms
+probabilists
 probable
 proband
 probangs
@@ -26110,6 +26135,7 @@ reanimates
 reannex
 reannexation
 reanoint
+reappeared
 reappointments
 reapportionment
 reapportions
@@ -27092,6 +27118,7 @@ reserver
 reservice
 reserviced
 reserving
+resetter
 resettled
 resettlement
 resewed
@@ -28452,6 +28479,7 @@ schuit
 schuits
 schusser
 schvartzes
+sciamachy
 sciaticas
 scientists
 scientizes
@@ -28608,6 +28636,7 @@ scrupulosities
 scrutinising
 scudo
 scuffled
+scuffler
 scufflers
 sculches
 sculked
@@ -29573,6 +29602,7 @@ sixteenmos
 sixtieths
 sixtyish
 sizable
+sizableness
 sizer
 sizers
 sizzled
@@ -29689,6 +29719,7 @@ slantways
 slapper
 slashed
 slat
+slate
 slated
 slater
 slathering
@@ -30122,6 +30153,7 @@ solstitial
 solubilized
 solubly
 solvable
+solvated
 solvations
 solvencies
 solvency
@@ -30576,6 +30608,7 @@ springhouse
 springiness
 springtail
 springwater
+springy
 sprinting
 sprite
 sprout
@@ -32638,6 +32671,7 @@ textuary
 thairm
 thalassaemias
 thallious
+thanage
 thanages
 thanatologists
 thanatoses
@@ -35265,6 +35299,7 @@ vexatiousnesses
 vexedly
 vexes
 vexillar
+vexillologic
 vexillologist
 vexillologists
 vexils
