@@ -1217,6 +1217,7 @@ antechoir
 antefixa
 antelope
 antennal
+antennule
 antennules
 antependiums
 antepenult
@@ -1830,6 +1831,7 @@ assesses
 assessments
 asset
 asseverates
+asseverating
 asseveration
 asseverations
 assign
@@ -3962,6 +3964,7 @@ brownies
 browning
 brownish
 brownnoser
+brownnosers
 brownnoses
 brownstones
 browsed
@@ -5311,6 +5314,7 @@ children
 chile
 chili
 chiliads
+chiliarch
 chilidogs
 chilled
 chiller
@@ -5698,6 +5702,7 @@ clayey
 clayier
 claying
 claymore
+claypans
 claytonia
 clayware
 cleaned
@@ -6326,6 +6331,7 @@ complained
 complaisantly
 complecting
 complementaries
+complementary
 completenesses
 complexed
 complexer
@@ -8113,6 +8119,7 @@ deferrer
 deffer
 defi
 defibrillations
+defibrillator
 defibrillators
 defibrinating
 defibrinations
@@ -8960,6 +8967,7 @@ diploic
 diploid
 diploidies
 diplomacy
+diplomatic
 diplontic
 diplophases
 diplopod
@@ -11626,6 +11634,7 @@ fascism
 fascistic
 fashionableness
 fashionistas
+fashionmongers
 fastballer
 fastballs
 fastest
@@ -17833,6 +17842,7 @@ laymen
 layout
 laypeople
 laypersons
+lays
 laywomen
 laze
 lazies
@@ -17971,6 +17981,7 @@ leprose
 leprosy
 leprotic
 leprously
+lepta
 leptin
 leptins
 leptocephalus
@@ -19982,6 +19993,7 @@ missenses
 misshape
 misshaper
 missilemen
+missileries
 missioning
 missionize
 missionizer
@@ -20238,6 +20250,7 @@ monostich
 monosyllabicity
 monotints
 monotone
+monotones
 monotonicities
 monotonously
 monotypic
@@ -21326,6 +21339,7 @@ nonexecutives
 nonexempts
 nonexistences
 nonexploitative
+nonfact
 nonfactor
 nonfactors
 nonfamilial
@@ -21398,6 +21412,7 @@ nonmonogamous
 nonmoral
 nonmortal
 nonmusical
+nonmystical
 nonnecessity
 nonnegotiables
 nonneural
@@ -22068,6 +22083,7 @@ opposer
 opposes
 opposite
 oppositeness
+oppression
 oppressively
 oppressiveness
 opsonic
@@ -22269,6 +22285,7 @@ othernesses
 others
 otherwhere
 otherworld
+otiose
 otiosenesses
 otitis
 otters
@@ -23272,6 +23289,7 @@ parlando
 parlaying
 parley
 parlous
+parlously
 parodists
 parolable
 paroled
@@ -23923,6 +23941,7 @@ pewholders
 peyote
 peyotes
 peyotls
+peytrel
 pfennigs
 phaeton
 phalangeal
@@ -24046,6 +24065,7 @@ photochromism
 photocomposer
 photocurrent
 photodiodes
+photoed
 photoelectronic
 photoelectrons
 photoengraver
@@ -24376,6 +24396,7 @@ plackets
 placoids
 plage
 plagiotropic
+plaguey
 plaice
 plaid
 plaining
@@ -24992,6 +25013,7 @@ practicalness
 practicals
 practicers
 practices
+practitioner
 praecipes
 praenomina
 praesidia
@@ -25152,6 +25174,7 @@ prefer
 preferences
 preferment
 preferrer
+preferring
 prefigurement
 prefigurements
 prefilled
@@ -25750,6 +25773,7 @@ provocativeness
 provoker
 provokes
 provokingly
+prowled
 proximateness
 prudently
 prudish
@@ -26447,6 +26471,7 @@ raspiest
 rassle
 rasure
 ratafees
+ratal
 rataplanning
 ratatats
 ratch
@@ -26502,6 +26527,7 @@ raylessnesses
 razee
 razes
 razored
+razzamatazzes
 razzes
 razzmatazzes
 reacceded
@@ -31091,6 +31117,7 @@ springhouse
 springiness
 springtail
 springwater
+springwaters
 springy
 sprinting
 sprite
@@ -32611,6 +32638,7 @@ tabular
 tabulate
 tabulated
 tabulates
+tabulating
 tabulation
 tabulis
 tabuns
@@ -33208,6 +33236,7 @@ thecal
 thecodont
 theft
 thefts
+thegnly
 theine
 theirself
 theism
@@ -34185,6 +34214,7 @@ trishaws
 trisoctahedra
 trisoctahedron
 tristearin
+tristearins
 tristich
 trisubstituted
 trite
@@ -34525,6 +34555,7 @@ ultimogeniture
 ultrabasics
 ultraenergetic
 ultraexclusive
+ultrafine
 ultrahazardous
 ultraheating
 ultraleft
@@ -36041,6 +36072,7 @@ vodun
 voe
 voguish
 voiced
+voiceful
 voicelessness
 voicings
 voidablenesses
@@ -36506,6 +36538,7 @@ whereat
 whereby
 wherefore
 wherein
+whereinto
 whereunto
 wherry
 wherrying
@@ -36550,6 +36583,7 @@ whirl
 whirled
 whirlier
 whirlpools
+whirls
 whirries
 whirring
 whishting
@@ -36715,6 +36749,7 @@ wiriest
 wiriness
 wirinesses
 wirings
+wirra
 wisecracker
 wisecracking
 wised
