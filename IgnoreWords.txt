@@ -734,6 +734,7 @@ alderfly
 alderman
 aldolases
 aleuron
+aleuronic
 alewife
 alexias
 alexines
@@ -1729,6 +1730,7 @@ aromatizes
 aroused
 aroynt
 aroynting
+arpen
 arpens
 arpent
 arquebuses
@@ -1749,6 +1751,7 @@ arrogance
 arrogances
 arrogancies
 arrogating
+arrogator
 arrowheads
 arrowing
 arsenate
@@ -5894,6 +5897,7 @@ clipped
 clippings
 clipsheets
 cliquish
+cliquy
 cliticizes
 cliticizing
 clitoral
@@ -7424,6 +7428,7 @@ creosotic
 crepiest
 crepitate
 crepons
+crepuscles
 crescendoing
 crescentic
 crescive
@@ -8393,6 +8398,7 @@ deifications
 deify
 deinonychus
 deionized
+deistic
 deists
 deixis
 deixises
@@ -9809,6 +9815,7 @@ downgrades
 downiness
 downinesses
 downlinks
+download
 downloadable
 downplayed
 downs
@@ -10843,6 +10850,7 @@ ensanguining
 enscroll
 enscrolled
 enserfed
+enserfment
 ensheathes
 enshrouded
 ensiform
@@ -11708,6 +11716,7 @@ eyra
 eyras
 eyry
 fable
+fabliau
 fabricant
 fabricants
 fabrications
@@ -12528,6 +12537,7 @@ florets
 floriations
 floridities
 florigens
+florilegium
 floristic
 flossed
 flossies
@@ -13985,6 +13995,7 @@ gory
 gospeller
 gospellers
 gossipped
+gossipper
 gossips
 gossoon
 gossypol
@@ -14160,6 +14171,7 @@ greatcoat
 greatened
 greatness
 greaved
+greaves
 grebes
 grecianizes
 grecize
@@ -14749,6 +14761,7 @@ haul
 haulage
 haulier
 hauliers
+hauls
 haulyard
 haulyards
 haunts
@@ -14769,6 +14782,7 @@ hawkmoths
 hawknoses
 hawkshaws
 hawkweed
+hawthorn
 hay
 haying
 hayrides
@@ -17582,6 +17596,7 @@ kaolins
 kaput
 karakul
 karaoke
+karateist
 karates
 karats
 karmas
@@ -17867,6 +17882,7 @@ kolkhos
 kolkhosy
 kolkhozniks
 kolkozy
+kombus
 konks
 kookinesses
 kop
@@ -19379,6 +19395,7 @@ marchland
 maremme
 mares
 margaric
+margarin
 margarins
 margarita
 margaritas
@@ -19817,6 +19834,7 @@ mesically
 mesmerising
 mesmerized
 mesmerizes
+mesnalties
 mesnes
 mesogleal
 mesogleas
@@ -23121,6 +23139,7 @@ overdaring
 overdecking
 overdecks
 overdecorated
+overdecorating
 overdecoration
 overdecorations
 overdesigns
@@ -24299,9 +24318,11 @@ permissions
 permitted
 permittee
 permitters
+permittivity
 permuted
 permuting
 pernicious
+pernio
 perniones
 pernod
 pernods
@@ -25114,6 +25135,7 @@ podgier
 podgiest
 podgy
 podiatric
+podite
 poditic
 podiums
 podophyllins
@@ -26500,6 +26522,7 @@ purchase
 purdah
 purdahs
 purdas
+pure
 purebreds
 purees
 purenesses
@@ -26538,6 +26561,7 @@ purvey
 purview
 pushcarts
 pushchair
+pushdowns
 pushers
 pushiest
 pushingly
@@ -28038,6 +28062,7 @@ reprehends
 representations
 repression
 repressive
+repressors
 reprieval
 reprieve
 reprimand
@@ -29139,6 +29164,7 @@ sahiwals
 sailable
 sailboarded
 sailboards
+sailboat
 sailboats
 sailfish
 sailfishes
@@ -29420,6 +29446,7 @@ saxhorn
 saxifrages
 saxonies
 saxophone
+say
 sayst
 sayyids
 scab
@@ -29971,6 +29998,7 @@ semidesert
 semidiurnal
 semidome
 semidomes
+semiempirical
 semifinals
 semigroups
 semihobos
@@ -30006,6 +30034,7 @@ senarii
 senatorian
 sended
 sends
+senecios
 senectitude
 senegas
 senescences
@@ -30125,6 +30154,7 @@ serpentine
 serranids
 serration
 serriednesses
+serries
 serum
 servant
 serve
@@ -30189,6 +30219,7 @@ shader
 shadier
 shadkhan
 shadowers
+shadowiest
 shadrachs
 shaduf
 shagbark
@@ -30905,6 +30936,7 @@ slipcase
 slipcased
 slipformed
 slipforms
+sliping
 slipknots
 slipless
 slippages
@@ -32697,6 +32729,7 @@ suddens
 sudser
 suede
 sufferable
+sufferableness
 sufferers
 suffixing
 sufflate
@@ -33121,6 +33154,7 @@ swimmer
 swimmily
 swimmingly
 swimmy
+swims
 swindler
 swine
 swinepoxes
@@ -36099,6 +36133,7 @@ until
 untilted
 untimeliest
 untimely
+untinged
 untiring
 untransformed
 untranslatable
