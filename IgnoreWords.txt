@@ -1745,6 +1745,7 @@ arrestive
 arrestment
 arrived
 arriving
+arrogance
 arrogances
 arrogancies
 arrogating
@@ -2989,6 +2990,7 @@ bestiary
 bestowal
 bestowals
 bestrew
+bestrewing
 bestrewn
 bestud
 bestuds
@@ -5904,6 +5906,7 @@ clogging
 cloggy
 cloister
 cloisters
+clomb
 clone
 cloned
 cloner
@@ -7076,6 +7079,7 @@ coses
 coshed
 cosiest
 cosignatory
+cosigning
 cosmetically
 cosmeticians
 cosmetics
@@ -7380,6 +7384,7 @@ creaturehoods
 creatures
 creches
 credence
+credences
 credent
 credenzas
 creditability
@@ -8949,6 +8954,7 @@ dibbled
 dibblers
 dibbles
 dibbling
+dibbuks
 dibromide
 diced
 dicentrics
@@ -9860,6 +9866,7 @@ drawn
 drawplate
 drawplates
 drawshaves
+drawstring
 drawtubes
 drayage
 drayed
@@ -11245,6 +11252,7 @@ eugenics
 eugenols
 euglenoid
 euglobulin
+eukaryotic
 eulogise
 eulogist
 eulogistic
@@ -11825,6 +11833,7 @@ faqir
 faqirs
 faquirs
 farad
+faradized
 farads
 farcer
 farcers
@@ -13824,6 +13833,7 @@ glycosylations
 glycosyls
 glyphs
 glyptic
+gnar
 gnarred
 gnarring
 gnarrs
@@ -15448,6 +15458,7 @@ housewifely
 housewifery
 hovercrafts
 hovering
+howbeit
 howdied
 howdy
 however
@@ -15625,6 +15636,7 @@ hydroxyzines
 hydrozoans
 hyena
 hygeists
+hygrophilous
 hygrostats
 hylas
 hylozoists
@@ -16335,6 +16347,7 @@ induces
 inducibilities
 inducing
 inductances
+inducted
 inducting
 inductively
 inducts
@@ -17507,6 +17520,7 @@ kairomones
 kaiserdom
 kaiserins
 kajeput
+kakemonos
 kalewives
 kaleyard
 kalifs
@@ -20021,6 +20035,7 @@ milieu
 militant
 militantly
 militantnesses
+militaries
 militarily
 militarised
 militarises
@@ -21374,6 +21389,7 @@ nerd
 nereides
 nereis
 nerol
+nervelessnesses
 nerviest
 nervously
 nervousness
@@ -22235,6 +22251,7 @@ occurring
 oceanauts
 oceanfronts
 oceanic
+oceanographers
 oceanographies
 oceans
 ocellate
@@ -23402,6 +23419,7 @@ pacier
 pacific
 pacifical
 pacifisms
+packabilities
 packability
 packable
 package
@@ -23974,6 +23992,7 @@ pedological
 pedro
 pedros
 peduncles
+peduncular
 pedunculate
 pee
 peed
@@ -24863,6 +24882,7 @@ plasmasols
 plasmatic
 plasmodesma
 plasmodia
+plasmoids
 plasmolysis
 plasmolytic
 plasmolyze
@@ -25829,6 +25849,7 @@ previsioned
 prevocational
 prewarmed
 prewarming
+prewarns
 preweighing
 preweighs
 prewires
@@ -26578,6 +26599,7 @@ quandong
 quantic
 quantics
 quantitates
+quantitations
 quantity
 quantizations
 quantized
@@ -26776,6 +26798,7 @@ radiosensitive
 radiosondes
 radiostrontiums
 radiotelephone
+radiotelephony
 radiotherapist
 radiotherapy
 radiothorium
@@ -26957,6 +26980,7 @@ raucousness
 raucousnesses
 raunchiest
 raunchinesses
+ravagement
 ravagements
 ravaging
 rave
@@ -28937,6 +28961,7 @@ rustled
 rustlers
 rustles
 rustproof
+rusts
 rutabaga
 rutherfordiums
 ruthlessnesses
@@ -29521,6 +29546,7 @@ scorpioid
 scorpion
 scotch
 scotias
+scotomata
 scotopias
 scots
 scottie
@@ -29640,6 +29666,7 @@ scuppernongs
 scurf
 scurfier
 scurfy
+scurried
 scurril
 scurvier
 scurviest
@@ -29732,6 +29759,7 @@ secretagogue
 secretarial
 secretariat
 secretaries
+secretionary
 secrets
 sectarianisms
 sectarianized
@@ -29938,6 +29966,7 @@ sensualization
 sensualizations
 sensualize
 sensualizes
+sentence
 sententiae
 sententiousness
 sentiency
@@ -31060,6 +31089,7 @@ snuggles
 snyes
 soaked
 soapboxes
+soapiness
 soaping
 soapstones
 soapworts
@@ -31694,6 +31724,7 @@ squawking
 squaws
 squeaks
 squeaky
+squealed
 squealers
 squeegee
 squeezer
@@ -33339,6 +33370,7 @@ tanneries
 tannic
 tannin
 tanrec
+tans
 tantalate
 tantalates
 tantalite
@@ -36080,6 +36112,7 @@ uprating
 upreach
 upreached
 uprearing
+uprisen
 uprisings
 uprootals
 uprush
@@ -36191,6 +36224,7 @@ uts
 utterable
 uttermost
 uveal
+uvulae
 uvular
 uvularly
 uxorial
@@ -37303,6 +37337,7 @@ willowier
 willowiest
 willowware
 willpower
+willywaws
 wimpier
 wimpiest
 wimpinesses
