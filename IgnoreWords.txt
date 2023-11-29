@@ -479,6 +479,7 @@ aestheticizes
 aestivation
 aether
 aetheric
+aethers
 aetiologies
 aetiology
 afebrile
@@ -1411,6 +1412,7 @@ antonymy
 antre
 antsiness
 anurans
+anuria
 anvilled
 anviltops
 anxiolytics
@@ -5335,6 +5337,7 @@ cheloids
 chemics
 chemiosmotic
 chemisorbed
+chemoautotrophy
 chemoreceptors
 chemos
 chemosorb
@@ -5656,6 +5659,7 @@ cinnamic
 cions
 cipher
 ciphonies
+circles
 circuit
 circuities
 circuiting
@@ -6906,6 +6910,7 @@ copremia
 copresented
 coproducer
 coproduct
+coproduction
 coprolitic
 coprophagies
 coprophagous
@@ -7049,6 +7054,7 @@ corymbous
 corynebacterial
 coryphees
 coryzal
+coscripting
 cosecants
 coses
 coshed
@@ -9083,6 +9089,7 @@ dinnertimes
 dino
 dinosaurs
 dints
+dinucleotide
 diobolons
 diode
 diodes
@@ -10419,6 +10426,7 @@ elicited
 eligible
 eliminate
 ellipsoids
+ells
 elmier
 elmy
 eloigner
@@ -11252,6 +11260,7 @@ eutherian
 evacuates
 evacuating
 evacuative
+evacuators
 evaginate
 evaginated
 evaginating
@@ -12124,6 +12133,7 @@ filefishes
 filename
 filial
 filially
+filiated
 filibeg
 filigreed
 filigrees
@@ -15699,6 +15709,7 @@ hypomorphic
 hyponasties
 hyponasty
 hyponea
+hyponymy
 hypopharynxes
 hypophysectomy
 hypophyses
@@ -15883,6 +15894,7 @@ immobilization
 immobilizations
 immobilized
 immobilizes
+immolated
 immolating
 immoralities
 immorality
@@ -16092,6 +16104,7 @@ incendiarism
 incent
 incenter
 inceptions
+inceptively
 incepts
 incessancies
 incessancy
@@ -16559,6 +16572,7 @@ insetters
 inshrined
 insight
 insightful
+insightfully
 insignificances
 insignificantly
 insinuate
@@ -17464,6 +17478,7 @@ kalewives
 kaleyard
 kalifs
 kalium
+kallikrein
 kallikreins
 kalmia
 kalongs
@@ -18375,6 +18390,7 @@ lienable
 lienal
 liens
 lieve
+lifecare
 lifecares
 lifeguards
 lifelike
@@ -18878,6 +18894,7 @@ lususes
 lutanist
 lutanists
 luteinize
+lutenists
 lutetiums
 luthern
 luthiers
@@ -21215,6 +21232,7 @@ neatens
 neatherd
 neatherds
 neatness
+neatnesses
 neatniks
 nebbishy
 nebula
@@ -22171,6 +22189,7 @@ occultisms
 occultist
 occultly
 occupations
+occupied
 occupies
 occupy
 occurring
@@ -22264,6 +22283,7 @@ ogees
 ogham
 ogive
 ogling
+ogreish
 oh
 ohing
 ohmages
@@ -22445,6 +22465,7 @@ optoelectronics
 optokinetic
 optometric
 opts
+opulences
 opuntias
 opusculum
 oquassa
@@ -24411,6 +24432,7 @@ phosphatase
 phosphatic
 phosphatize
 phosphaturia
+phosphocreatine
 phosphokinases
 phospholipase
 phosphonium
@@ -25906,6 +25928,7 @@ proem
 proems
 profanations
 profanatory
+profane
 profanes
 professor
 professorates
@@ -28271,6 +28294,7 @@ reverencer
 reverend
 reverently
 reveres
+reverify
 revers
 reversed
 reversers
@@ -28627,6 +28651,7 @@ rolfing
 rollicky
 romaines
 roman
+romancing
 romanises
 romanising
 romanization
@@ -30167,6 +30192,7 @@ shirtfronts
 shirtiest
 shirtmaker
 shirttailed
+shitake
 shitheads
 shitted
 shittimwoods
@@ -30348,6 +30374,7 @@ sidestrokes
 sideswipe
 sideswipes
 sideswiping
+sidetracking
 sideways
 sidh
 sidler
@@ -30594,6 +30621,7 @@ skiplanes
 skipped
 skippet
 skirl
+skirls
 skirmishers
 skitter
 skitteriest
@@ -31428,8 +31456,10 @@ spiracle
 spirality
 spirea
 spirier
+spiring
 spirited
 spiriting
+spiritualisms
 spiritualistic
 spiritualize
 spiritually
@@ -32604,6 +32634,7 @@ superabounded
 superabsorbent
 superadded
 superagencies
+superagent
 superannuated
 superannuates
 superannuating
@@ -33397,6 +33428,7 @@ teashops
 teatasters
 teated
 teazelling
+teazels
 teched
 techiest
 technetium
@@ -33623,6 +33655,7 @@ terrorizes
 terrorizing
 terry
 terseness
+tertials
 tertiary
 teslas
 tesselate
@@ -34302,6 +34335,7 @@ towardlinesses
 towards
 towelette
 towelettes
+toweling
 towelled
 toweriest
 towering
@@ -35430,6 +35464,7 @@ undeserved
 undesirability
 undetermined
 undeveloped
+undigestible
 undiplomatic
 undiscoverable
 undissociated

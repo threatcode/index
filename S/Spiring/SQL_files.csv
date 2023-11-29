@@ -2,3 +2,10 @@ devstats/scripts/all/repo_groups.sql at master - GitHub,https://github.com/cncf/
 database-classic/areatrigger_teleport.sql at master · azerothcore ...,https://github.com/azerothcore/database-classic/blob/master/World/Setup/FullDB/areatrigger_teleport.sql
 https://raw.githubusercontent.com/ShinDarth/TC-JSO...,https://raw.githubusercontent.com/ShinDarth/TC-JSON-API/master/storage/database/achievements.sql
 3d-scene.hu/olcsopc.hu/sql/alfaold_20110126_1516.sql,http://3d-scene.hu/olcsopc.hu/sql/alfaold_20110126_1516.sql
+devstats/scripts/all/repo_groups.sql at master - GitHub,https://github.com/cncf/devstats/blob/master/scripts/all/repo_groups.sql
+sql/old/2.4.3/00133_world_scripts.sql ... - GitLab,http://git.qyh.name/snet-dev-group/TrinityCore/-/blob/08d5290080aaef2b8f0c06122c158c2d238f4885/sql/old/2.4.3/00133_world_scripts.sql
+https://raw.githubusercontent.com/netdisco/upstrea...,https://raw.githubusercontent.com/netdisco/upstream-sources/master/ieee/oui.sql
+https://raw.githubusercontent.com/Sarjuuk/aowow/ma...,https://raw.githubusercontent.com/Sarjuuk/aowow/master/setup/db_structure.sql
+mangos-classic/sql/scriptdev2/scriptdev2.sql at master - GitHub,https://github.com/cmangos/mangos-classic/blob/master/sql/scriptdev2/scriptdev2.sql
+f430d2fd31ca04ee3c36baf7948...,https://gitlab.com/trinitycore/TrinityCore_434/blob/f430d2fd31ca04ee3c36baf794803caec8f2721b/sql/old/4.3.4/TDB01_to_TDB02_updates/world/006_quest_template.sql
+http://3d-scene.hu/olcsopc.hu/sql/alfaold_20110126...,http://3d-scene.hu/olcsopc.hu/sql/alfaold_20110126_1516.sql
