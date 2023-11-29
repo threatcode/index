@@ -849,6 +849,7 @@ almightiness
 almner
 almoners
 almsgiving
+almshouse
 almuce
 almudes
 alnico
@@ -1726,6 +1727,7 @@ armory
 armpits
 armure
 aromatics
+aromatizations
 aromatizes
 aroused
 aroynt
@@ -3432,6 +3434,7 @@ blocks
 blogs
 blond
 blondining
+blondness
 bloodguilts
 bloodhounds
 bloodiness
@@ -4090,6 +4093,7 @@ brutified
 brutifies
 brutish
 bruxed
+bryophyllums
 bryophytic
 bubba
 bubbas
@@ -5346,6 +5350,7 @@ cheddar
 cheder
 chedites
 cheekful
+cheekinesses
 cheeking
 cheeped
 cheeps
@@ -6368,6 +6373,7 @@ comforts
 comicalities
 coming
 comitial
+comma
 commandant
 commanderships
 commanding
@@ -7304,6 +7310,7 @@ covert
 coverts
 coverup
 covetousness
+covey
 coveys
 covins
 cowardices
@@ -8405,6 +8412,7 @@ deice
 deiced
 deifical
 deifications
+deiform
 deify
 deinonychus
 deionized
@@ -9197,6 +9205,7 @@ dipped
 dippier
 dippiness
 dipping
+dippy
 diprotic
 dipsomaniac
 dipsomaniacal
@@ -10454,6 +10463,7 @@ electrolyze
 electromagnetic
 electrometers
 electromyograph
+electrons
 electroosmoses
 electroosmotic
 electrophoresed
@@ -11847,6 +11857,7 @@ famousness
 famuli
 fan
 fanatic
+fanaticalnesses
 fanciest
 fancifies
 fanciful
@@ -14113,6 +14124,7 @@ granules
 granulocyte
 granulocytic
 granulomata
+granuloses
 granum
 grapes
 graphemes
@@ -14812,6 +14824,7 @@ hazing
 hazzans
 he
 headache
+headbands
 headcheeses
 headed
 header
@@ -15016,6 +15029,7 @@ heptameters
 heptarch
 heptarchies
 heralded
+heraldically
 heralds
 herbalisms
 herbalist
@@ -17552,6 +17566,7 @@ juntos
 jupe
 jupon
 jupons
+jura
 jural
 jurat
 juried
@@ -17609,6 +17624,7 @@ kalyptra
 kalyptras
 kami
 kamsins
+kanamycins
 kaolin
 kaolines
 kaolinitic
@@ -21238,6 +21254,7 @@ myxoedemas
 myxomatoses
 myxomatous
 naans
+nab
 nabbing
 nabis
 nabobisms
@@ -21810,10 +21827,12 @@ nondeviant
 nondisclosure
 nondisruptive
 nondiversified
+nondoctor
 nondormant
 nondrip
 nondrivers
 nondrug
+none
 noneconomic
 noneconomist
 noneditorial
@@ -22284,6 +22303,7 @@ obscures
 obscurest
 obscurity
 obsecrated
+obsecrating
 obsequiously
 observability
 observables
@@ -22347,6 +22367,7 @@ oceanographers
 oceanographies
 oceans
 ocellate
+oceloid
 ochered
 ochlocrat
 ochrea
@@ -24672,6 +24693,7 @@ phraseological
 phrasing
 phratries
 phrensied
+phthalates
 phthalin
 phthalocyanine
 phthises
@@ -24731,6 +24753,7 @@ pickwick
 picky
 picloram
 picogram
+picolin
 picometers
 picotee
 picquet
@@ -24848,6 +24871,7 @@ pinwrench
 piny
 pinyon
 pioneered
+pions
 piosities
 piousness
 pipal
@@ -25952,6 +25976,7 @@ prevenient
 preveniently
 prevented
 preventively
+previable
 previewed
 previewer
 previewers
@@ -27367,6 +27392,7 @@ reconcilers
 recondensed
 recondition
 reconduct
+reconferred
 reconfigure
 reconfigured
 reconfining
@@ -28145,6 +28171,7 @@ requiescat
 requiescats
 required
 requisite
+requisites
 requisitions
 requiting
 rerack
@@ -28252,6 +28279,7 @@ resistive
 resistless
 resistor
 resite
+resiting
 resizing
 reslated
 resmelted
@@ -28374,6 +28402,7 @@ retained
 retains
 retaken
 retaker
+retallies
 retallying
 retardants
 retarder
@@ -29775,6 +29804,7 @@ scrounged
 scrubbily
 scrubbing
 scrubwomen
+scruffiness
 scrummage
 scrummed
 scrunches
@@ -30733,6 +30763,7 @@ singleness
 singlenesses
 singletons
 singling
+singly
 sings
 singsongs
 singspiel
@@ -32073,6 +32104,7 @@ stegosaurs
 stela
 stele
 stellar
+stellas
 stellate
 stellated
 stellify
@@ -35326,6 +35358,7 @@ uglifier
 ugliness
 uintahites
 uitlanders
+ukases
 uke
 ukes
 ukuleles
@@ -35551,6 +35584,7 @@ uncleft
 uncles
 uncliched
 unclinch
+unclipped
 uncloak
 unclogging
 unclothed
@@ -36223,6 +36257,7 @@ unworkabilities
 unworldlinesses
 unworthily
 unwrap
+unyoke
 unyoung
 unzipped
 unzipping
