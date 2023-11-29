@@ -567,6 +567,7 @@ aggrades
 aggrandise
 aggrandised
 aggrandized
+aggravate
 aggravated
 aggravation
 aggregate
@@ -1889,6 +1890,7 @@ assignation
 assignee
 assigners
 assigning
+assignment
 assimilable
 assimilated
 assimilationist
@@ -2905,6 +2907,7 @@ belongs
 beloved
 beloveds
 below
+bels
 belted
 belting
 belts
@@ -3544,6 +3547,7 @@ boars
 boaster
 boastfully
 boat
+boatlift
 boatlifting
 boatload
 boatman
@@ -3840,6 +3844,7 @@ boy
 boyarism
 boychik
 boycott
+boycotter
 boycotters
 boycotts
 boyishnesses
@@ -3947,6 +3952,7 @@ breastbones
 breasted
 breasts
 breaststroker
+breaststrokers
 breath
 breathabilities
 breathy
@@ -4025,6 +4031,7 @@ broadlooms
 broadsheet
 broadsheets
 broadsiding
+broadsword
 brocade
 brocatel
 brocatelle
@@ -4204,6 +4211,7 @@ bullyragged
 bulwarking
 bumblebees
 bumbler
+bumblers
 bumelia
 bumelias
 bummers
@@ -6443,6 +6451,7 @@ committeeman
 committeemen
 committeewoman
 committing
+commodify
 commodiousness
 commodity
 commonalities
@@ -6536,6 +6545,7 @@ complies
 complimenting
 compliments
 complins
+complotting
 components
 comportment
 composes
@@ -7051,6 +7061,7 @@ coredeems
 coreligionist
 corepressor
 coresearchers
+coriander
 corkier
 corkiness
 corking
@@ -9916,6 +9927,7 @@ drafted
 draftee
 drafter
 draftiness
+drafts
 draftspersons
 drag
 dragee
@@ -11505,6 +11517,7 @@ excerptor
 exchangeability
 excide
 excimer
+excises
 excising
 excitability
 excitable
@@ -11839,6 +11852,7 @@ factotum
 facts
 factualism
 factualists
+factualness
 facultative
 faddy
 fadeaways
@@ -12555,6 +12569,7 @@ flense
 fleshinesses
 fleshing
 fleshments
+fleshy
 flew
 flexed
 flexions
@@ -13564,6 +13579,7 @@ gazebos
 gazpachos
 gazump
 gazumping
+gear
 gearbox
 gearchange
 gearings
@@ -14765,6 +14781,7 @@ hangfire
 hangovers
 hankered
 hankerer
+hankie
 hanseling
 hanselled
 hanselling
@@ -14937,6 +14954,7 @@ heartening
 hearths
 heartinesses
 heartless
+heartlessness
 heartsease
 heartsick
 heartsicknesses
@@ -15363,6 +15381,7 @@ hokypokies
 holard
 holden
 holding
+holdings
 holdup
 holed
 holeless
@@ -16470,6 +16489,7 @@ indigo
 indigoes
 indigoid
 indigoids
+indirectnesses
 indiscreetness
 indiscretions
 indiscriminate
@@ -17449,6 +17469,7 @@ jasperware
 jasperwares
 jaspilites
 jato
+jaunce
 jaunced
 jauncing
 jauntier
@@ -18248,6 +18269,7 @@ larghetto
 larghettos
 largo
 lari
+larkish
 larruper
 larums
 larval
@@ -20788,6 +20810,7 @@ monocotyledon
 monocotyledons
 monocrat
 monocular
+monocultural
 monocycles
 monocytic
 monodic
@@ -22347,6 +22370,7 @@ obdurate
 obdurately
 obeah
 obeahism
+obeisance
 obeisantly
 obelias
 obelising
@@ -22447,6 +22471,7 @@ obviousnesses
 ocarina
 occasioned
 occidentalized
+occidentalizing
 occipital
 occluded
 occluding
@@ -25895,6 +25920,7 @@ preformulate
 prefreezes
 prefreezing
 preganglionic
+preguide
 prehandle
 prehandled
 prehandles
@@ -27179,6 +27205,7 @@ ranter
 rants
 raped
 rapers
+rapeseed
 rapeseeds
 raphae
 raphias
@@ -27600,6 +27627,7 @@ redaction
 redactors
 redargues
 redbait
+redbaited
 redbaiter
 redbird
 redcoat
@@ -29076,6 +29104,7 @@ roshi
 rosily
 rosiny
 rostellum
+rostellums
 roster
 rostra
 rostral
@@ -30770,6 +30799,7 @@ sideshows
 sideslipping
 sideslips
 sidespins
+sidesplittingly
 sidestroke
 sidestrokes
 sideswipe
@@ -31626,6 +31656,7 @@ sorry
 sorta
 sortied
 sorties
+sortilege
 sostenuto
 soteriologies
 sots
@@ -33489,6 +33520,7 @@ syncopated
 syncopators
 syncretises
 syncretising
+syncretize
 syncretized
 syndesis
 syndets
@@ -34955,6 +34987,7 @@ transmutes
 transparency
 transparent
 transpierced
+transpirations
 transplant
 transplanted
 transpolar
@@ -35478,6 +35511,7 @@ twoonies
 tye
 tyee
 tyers
+tyke
 tykes
 tylosin
 tympanites
@@ -37127,6 +37161,7 @@ voltaic
 voltaisms
 volubilities
 volumes
+voluntarily
 voluntarist
 voluptuary
 volvate
