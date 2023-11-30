@@ -1,0 +1,3 @@
+snowplow/5-data-modeling/deduplication-queries/sql/01-events.sql ...,https://github.com/snowplow/snowplow/blob/master/5-data-modeling/deduplication-queries/sql/01-events.sql
+dbt-snowplow-web/models/base/manifest ... - GitHub,https://github.com/snowplow/dbt-snowplow-web/blob/main/models/base/manifest/snowplow_web_base_sessions_lifecycle_manifest.sql
+https://raw.githubusercontent.com/snowplow/snowplo...,https://raw.githubusercontent.com/snowplow/snowplow/master/4-storage/redshift-storage/sql/manifest-def.sql
