@@ -1581,6 +1581,7 @@ approaches
 approbation
 appropriation
 approvals
+approve
 approvers
 apraxia
 apres
@@ -4042,6 +4043,7 @@ brioche
 brisances
 brisses
 bristle
+bristling
 bristol
 brit
 britannias
@@ -5243,6 +5245,7 @@ chablis
 chabuks
 chachka
 chachkas
+chacmas
 chad
 chadri
 chads
@@ -5325,6 +5328,7 @@ chaperon
 chaperons
 chapfallen
 chaplaincies
+chaplaincy
 chapmen
 chaptering
 char
@@ -6317,6 +6321,7 @@ coleorhizae
 coleseed
 colessees
 colessors
+coleuses
 colicin
 colickiest
 colicky
@@ -6344,6 +6349,7 @@ collaterals
 colleague
 colleagues
 collect
+collected
 collectives
 collectivising
 collectivisms
@@ -6620,6 +6626,7 @@ comradelinesses
 comraderies
 comte
 conation
+conatus
 concatenation
 concealable
 concealing
@@ -7438,6 +7445,7 @@ crabber
 crabbier
 crabbiest
 crabbily
+crabbing
 crabeater
 crabgrasses
 crabmeats
@@ -9863,6 +9871,7 @@ dominies
 dominion
 dominiques
 dominoes
+dominos
 donate
 donates
 donators
@@ -11059,6 +11068,7 @@ enterobacterium
 enterocoeles
 enterocoelous
 enterokinase
+enterotoxin
 enterovirus
 enterprisers
 entertained
@@ -11085,6 +11095,7 @@ entombment
 entombs
 entomofauna
 entomofaunas
+entomologist
 entophyte
 entopic
 entourage
@@ -11102,6 +11113,7 @@ entraps
 entreatment
 entrechat
 entrechats
+entrees
 entrenching
 entrenchments
 entresol
@@ -12085,6 +12097,7 @@ fasces
 fasciae
 fasciculate
 fasciculations
+fascicule
 fasciculus
 fascinated
 fascinatingly
@@ -13306,6 +13319,7 @@ frumps
 frustrates
 frustules
 frustum
+fruticose
 frypan
 fubs
 fuchsin
@@ -14941,6 +14955,7 @@ hardhead
 hardline
 hardpack
 hardpan
+hardship
 hardships
 hardstands
 hardwire
@@ -15911,6 +15926,7 @@ hydrogenase
 hydrogenates
 hydrogenations
 hydrographic
+hydrologic
 hydrologist
 hydrologists
 hydrolyzed
@@ -15975,6 +15991,7 @@ hyperborean
 hypercatabolism
 hypercautious
 hypercivilized
+hypercritical
 hypercriticism
 hypercriticisms
 hypercritics
@@ -16293,6 +16310,7 @@ impaled
 impalers
 impalpability
 impaneled
+impanelling
 impanels
 impart
 impartations
@@ -17235,6 +17253,7 @@ intimists
 intis
 intitles
 intitule
+intolerable
 intolerances
 intonated
 intone
@@ -21879,6 +21898,7 @@ newscast
 newscaster
 newscasts
 newsgroup
+newshound
 newshounds
 newsie
 newsies
@@ -24043,6 +24063,7 @@ panmixes
 panmixia
 panmixis
 panniered
+panning
 panocha
 panochas
 panoplies
@@ -26151,6 +26172,7 @@ preforms
 preformulate
 prefreezes
 prefreezing
+prefunding
 preganglionic
 preguide
 prehandle
@@ -26201,6 +26223,7 @@ premix
 premolars
 premold
 premolded
+premolds
 premoral
 premycotic
 prenotification
@@ -26978,6 +27001,7 @@ purities
 purl
 purlines
 puromycin
+purplehearts
 purplest
 purply
 purportedly
@@ -27507,6 +27531,7 @@ rating
 ratiocinates
 ratiocination
 ratiocinator
+rationalising
 rationality
 rationally
 ratios
@@ -28005,6 +28030,7 @@ reembarks
 reembody
 reembracing
 reemission
+reemphases
 reemploying
 reenacting
 reenactment
@@ -29767,6 +29793,7 @@ sandbar
 sandbars
 sandbur
 sandburrs
+sander
 sandhogs
 sandinesses
 sandlike
@@ -30700,6 +30727,7 @@ sexploitation
 sext
 sextette
 sextile
+sextodecimos
 sextos
 sexts
 sextupled
@@ -31524,6 +31552,7 @@ slur
 slurb
 slurred
 slurried
+slushing
 sluttiest
 sluttishness
 sluttishnesses
@@ -32416,6 +32445,7 @@ stacker
 stacks
 stackup
 stagecoaches
+stageful
 stagelike
 stagflation
 staggards
@@ -33272,6 +33302,7 @@ suddens
 sudser
 sued
 suede
+suety
 sufferable
 sufferableness
 sufferers
@@ -35462,6 +35493,7 @@ triduums
 triennially
 trienniums
 trientes
+trier
 trierarch
 trierarchy
 tries
@@ -36407,6 +36439,7 @@ unhand
 unhang
 unhangs
 unhappiness
+unharmed
 unhats
 unhealed
 unhealthiness
@@ -38564,6 +38597,7 @@ yuga
 yuk
 yukkier
 yummiest
+yummy
 yuppiedoms
 yuppy
 zabaiones
@@ -38656,6 +38690,7 @@ zoogeographical
 zooglea
 zoogloeal
 zooid
+zoolatry
 zoological
 zoologically
 zoologist
