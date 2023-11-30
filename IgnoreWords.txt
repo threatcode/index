@@ -798,6 +798,7 @@ allaying
 alleges
 allegorical
 allegories
+allegorises
 allegorist
 allegorists
 allegorizations
@@ -1562,6 +1563,7 @@ appositively
 appraise
 appraisements
 appreciates
+appreciation
 apprehending
 apprehends
 apprehensions
@@ -2198,6 +2200,7 @@ aviatic
 aviatresses
 avidities
 avifaunas
+avigator
 avirulent
 avisos
 avitaminoses
@@ -4452,6 +4455,7 @@ cahier
 cahows
 caiques
 caird
+cairns
 cajeputs
 cajoler
 cajolers
@@ -7218,6 +7222,7 @@ cotidal
 cotillion
 cotillions
 coting
+cotinine
 cotinines
 cotqueans
 cotransport
@@ -8236,6 +8241,7 @@ decalogue
 decameters
 decampment
 decampments
+decanal
 decane
 decantations
 decarbonations
@@ -9766,6 +9772,7 @@ doggers
 doggier
 doggish
 doggishness
+doggishnesses
 doggrel
 doggy
 dogies
@@ -10702,6 +10709,7 @@ embryonated
 embryons
 emcees
 emdash
+emdashes
 eme
 emendating
 emended
@@ -11321,6 +11329,7 @@ essentializes
 established
 establishment
 estaminets
+estated
 esteem
 esteemed
 esteeming
@@ -12804,6 +12813,7 @@ folium
 folkier
 folkish
 folklives
+folklorish
 folksily
 folksingings
 folktale
@@ -14443,6 +14453,7 @@ grotesque
 grotesquely
 grotto
 grouched
+grouches
 grouchily
 grouchy
 grounders
@@ -15302,6 +15313,7 @@ hierarchizes
 hierarchs
 hieratically
 hieroglyphic
+hieroglyphics
 hierologies
 hierology
 hierophants
@@ -16905,6 +16917,7 @@ install
 installers
 installs
 instals
+instancies
 instant
 instantaneities
 instantiated
@@ -17096,6 +17109,7 @@ interpolates
 interpolators
 interposed
 interposers
+interposes
 interposing
 interposition
 interpretable
@@ -17417,6 +17431,7 @@ isomerase
 isomerases
 isomorphically
 isomorphism
+isomorphous
 isomorphs
 isophotes
 isopycnic
@@ -18223,6 +18238,7 @@ lagan
 lagend
 laggardness
 laggards
+lagged
 laggings
 lagnappes
 lags
@@ -18525,6 +18541,7 @@ leets
 leewards
 left
 leftisms
+leftmost
 leftward
 legalistic
 legalistically
@@ -20643,6 +20660,7 @@ misparsing
 misparts
 misphrases
 misplacement
+misplanning
 misplanting
 mispointing
 mispoised
@@ -20660,6 +20678,7 @@ misraises
 misrate
 misrated
 misreckoned
+misreckons
 misrecorded
 misreferences
 misreferred
@@ -22319,6 +22338,7 @@ notedly
 notes
 nothingness
 nothingnesses
+notice
 noticeably
 noticed
 noticers
@@ -23381,6 +23401,7 @@ overbuilding
 overburn
 overburning
 overbuys
+overcall
 overcalls
 overcapacities
 overcapitalized
@@ -24442,6 +24463,7 @@ pennywise
 penoches
 penpoints
 pensees
+pensils
 pensionaries
 pensionary
 pensiones
@@ -24761,6 +24783,7 @@ peytrel
 pfennigs
 phaeton
 phalangeal
+phallicisms
 phallisms
 phallist
 phalluses
@@ -29265,6 +29288,7 @@ roughage
 roughdry
 roughened
 roughhewn
+roughhews
 roughhoused
 roughnecked
 roughnecks
@@ -29885,6 +29909,7 @@ scenarios
 scend
 scenery
 scenography
+sceptered
 scepters
 scepticism
 scepticisms
@@ -30186,6 +30211,7 @@ searer
 searest
 searobins
 seascape
+seasickness
 seasicknesses
 seasides
 seasonable
@@ -30707,6 +30733,7 @@ shifters
 shifts
 shifty
 shigellas
+shiitake
 shiitakes
 shikar
 shikaris
@@ -30846,6 +30873,7 @@ shri
 shrieker
 shriekiest
 shrieving
+shrifts
 shrikes
 shrilled
 shrillness
@@ -31272,6 +31300,7 @@ sleekier
 sleekiest
 sleeking
 sleekness
+sleeknesses
 sleeks
 sleepiness
 sleeping
@@ -34392,6 +34421,7 @@ thermalizations
 thermalized
 thermes
 thermistor
+thermites
 thermocouple
 thermodynamic
 thermodynamics
@@ -36574,6 +36604,7 @@ untranslated
 untrapped
 untrims
 untruly
+untruth
 untruthful
 untuck
 untucked
@@ -37214,6 +37245,7 @@ vireo
 virgules
 viridescent
 virilely
+virilities
 virilizes
 virtuality
 virtue
@@ -37561,6 +37593,7 @@ waterbuck
 waterbucks
 waterbuses
 watercourse
+waterer
 waterers
 waterfall
 waterfront
@@ -37569,6 +37602,7 @@ waterjets
 waterlessness
 waterlily
 waterline
+waterlog
 waterlogging
 waterloo
 watermark
@@ -38162,6 +38196,7 @@ workshop
 worldlinesses
 worldling
 worldlings
+worldviews
 worldwide
 wormgears
 wormier
