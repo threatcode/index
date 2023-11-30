@@ -663,6 +663,7 @@ airboat
 airbrush
 aircoach
 aircoaches
+aircrew
 airdates
 airdrome
 airfield
@@ -1317,6 +1318,7 @@ antic
 anticar
 antichlor
 antichoicer
+anticipatable
 anticipations
 anticity
 anticlerical
@@ -1777,6 +1779,7 @@ arras
 arrases
 arrayers
 arrays
+arresting
 arrestive
 arrestment
 arrived
@@ -2332,6 +2335,7 @@ backcourts
 backdates
 backdoor
 backdraft
+backdrafts
 backdropping
 backdrops
 backfield
@@ -3677,6 +3681,7 @@ bolster
 bolsterers
 bolsters
 bolt
+bolters
 boltholes
 boltrope
 bolus
@@ -4660,6 +4665,7 @@ canape
 canaries
 canasta
 canceler
+cancelers
 cancellations
 cancelled
 cancellous
@@ -4776,6 +4782,7 @@ capitular
 capitulate
 capizes
 capless
+capoeira
 caponier
 caponize
 caponized
@@ -5753,6 +5760,7 @@ chuckhole
 chuckle
 chuckler
 chucklingly
+chuckwallas
 chucky
 chuddar
 chufas
@@ -5960,6 +5968,7 @@ classy
 clasts
 clattery
 claudications
+claustrophobe
 claustrophobias
 claustrophobic
 clavation
@@ -6235,6 +6244,7 @@ cocounsels
 cocreators
 cocurator
 coda
+coddled
 codebtor
 codeinas
 codeines
@@ -7014,6 +7024,7 @@ contraveners
 contravening
 contribution
 contributive
+contritions
 contrived
 contriver
 contriving
@@ -9537,6 +9548,7 @@ discrepancy
 discriminably
 discriminants
 discriminated
+discriminative
 discriminator
 discus
 discuses
@@ -11043,6 +11055,7 @@ enemies
 enface
 enfeebled
 enfeeblement
+enfeoffed
 enfeoffment
 enfeoffments
 enfettering
@@ -11578,6 +11591,7 @@ eugenics
 eugenols
 euglenoid
 euglobulin
+euhemerism
 eukaryotic
 eulogise
 eulogist
@@ -11868,6 +11882,7 @@ expiates
 expiring
 explantations
 explicable
+explicating
 explicatively
 explicator
 explicatory
@@ -13579,6 +13594,7 @@ futzed
 futzing
 fuzee
 fuzees
+fuzils
 fuzz
 fuzzes
 fuzziness
@@ -14438,6 +14454,7 @@ grammaticalness
 gramme
 gramophones
 grampa
+grand
 granddads
 grandeur
 grandfathering
@@ -15832,6 +15849,7 @@ horns
 hornstones
 hornwort
 horny
+horologers
 horoscopes
 horrid
 horridnesses
@@ -16383,6 +16401,7 @@ imbody
 imbolden
 imbosomed
 imbricating
+imbrown
 imbrowned
 imide
 imipramines
@@ -17121,6 +17140,7 @@ insolence
 insolents
 insolubilities
 insolubilize
+insolvably
 insolvencies
 insomniac
 insomnias
@@ -17325,6 +17345,7 @@ internationally
 interned
 internee
 internucleonic
+internuncios
 interoffice
 interoperable
 interpellating
@@ -18147,6 +18168,7 @@ kewpies
 kex
 kexes
 key
+keyboard
 keyboarded
 keyboarder
 keyboardists
@@ -20097,6 +20119,7 @@ maybe
 maydays
 mayflies
 mayflower
+mayfly
 mayonnaises
 mayoralty
 mayoress
@@ -21149,6 +21172,7 @@ mommies
 momser
 mon
 monachal
+monachism
 monadal
 monadical
 monadism
@@ -21235,6 +21259,7 @@ monopolizing
 monopropellants
 monopsony
 monorchidisms
+monorhymes
 monosteles
 monostelic
 monostich
@@ -24610,6 +24635,7 @@ pawnshops
 pawpaws
 paxwaxes
 payably
+payloads
 paymasters
 payors
 payrolls
@@ -24642,6 +24668,7 @@ peartnesses
 peasantry
 peashooters
 peat
+peatier
 peatiest
 peavey
 pebbled
@@ -26587,6 +26614,7 @@ pretype
 preunion
 prevailer
 prevailing
+prevalence
 prevalent
 prevaricating
 prevenient
@@ -26978,6 +27006,7 @@ protozoologies
 protozoology
 protract
 protrade
+protrude
 protrusion
 protrusive
 protrusively
@@ -27421,6 +27450,7 @@ queened
 queenliest
 queenside
 queensides
+queerer
 queers
 quells
 quenched
@@ -28197,6 +28227,7 @@ redlined
 redliner
 redly
 redness
+redocks
 redoing
 redolencies
 redolent
@@ -30911,6 +30942,7 @@ seriffed
 sering
 seringas
 serious
+seriousness
 serjeanties
 sermonizers
 sermonizes
@@ -33485,6 +33517,7 @@ subspaces
 subspecialize
 subspecialized
 substantially
+substantiated
 substantiation
 substantiations
 substantive
@@ -36187,6 +36220,7 @@ tzarina
 tzigane
 ubiety
 ubiquinone
+udometer
 udons
 udos
 uglier
@@ -37139,6 +37173,7 @@ upbow
 upbraids
 upbringing
 upbuilt
+upcast
 upchucks
 upcoast
 upcountry
