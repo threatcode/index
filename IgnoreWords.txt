@@ -1256,6 +1256,7 @@ antechoir
 antefixa
 antelope
 antennal
+antennas
 antennule
 antennules
 antependiums
@@ -2817,6 +2818,7 @@ beerier
 beeriness
 beers
 beery
+beetler
 beetroots
 beeves
 befalls
@@ -4267,6 +4269,7 @@ burble
 burbled
 burbly
 burdened
+burdock
 bureaucracies
 bureaucratese
 bureaucratises
@@ -7450,6 +7453,7 @@ cranks
 crankshafts
 crannogs
 cranreuchs
+crapelike
 crapper
 crapshoot
 crapshooters
@@ -8947,6 +8951,7 @@ devalued
 devalues
 deveined
 develop
+developer
 developmentally
 develops
 devels
@@ -9426,6 +9431,7 @@ discus
 discuses
 discussant
 discussed
+discusser
 discusses
 discussing
 diseased
@@ -9796,6 +9802,7 @@ dogsledder
 dogteeth
 dogtrot
 dogwood
+dogwoods
 doing
 doit
 dol
@@ -11539,6 +11546,7 @@ exacerbations
 exactingnesses
 exactitude
 exactitudes
+exactly
 exaggerations
 exaggerator
 exaggerators
@@ -12213,6 +12221,7 @@ feoffee
 feoffor
 feoffors
 feracities
+feracity
 feres
 feriae
 ferial
@@ -12968,6 +12977,7 @@ foretopmen
 foretops
 forevernesses
 forevers
+forewarned
 forewarning
 foreword
 forewords
@@ -13088,6 +13098,8 @@ fragilities
 fragmental
 fragmentary
 fragmentate
+fragmented
+fraises
 framers
 framework
 franchised
@@ -14178,6 +14190,7 @@ gorilla
 gorily
 gormandizer
 gory
+gosh
 gospeller
 gospellers
 gossipped
@@ -15502,6 +15515,7 @@ holster
 holt
 holyday
 holytides
+homage
 homager
 homages
 hombres
@@ -15988,6 +16002,7 @@ hypervelocities
 hyperventilates
 hypha
 hyphemia
+hyphenate
 hyphenations
 hyphening
 hyphenless
@@ -17001,6 +17016,7 @@ intellectualist
 intellectuals
 intelligences
 intelligentsias
+intemperance
 intendant
 intends
 intenerates
@@ -17519,6 +17535,7 @@ jacobins
 jacquards
 jacquerie
 jaculate
+jaculated
 jacuzzis
 jaded
 jadedness
@@ -19198,6 +19215,7 @@ lucarne
 lucidly
 lucifer
 luck
+lucrative
 lucratively
 lucubrated
 lucubrating
@@ -19672,6 +19690,7 @@ marginate
 marginations
 margining
 margrave
+margravial
 margraviates
 marigolds
 marijuana
@@ -21894,6 +21913,7 @@ nigrosins
 nihil
 nihilism
 nihilistic
+nihility
 nilgai
 nills
 nils
@@ -22468,6 +22488,7 @@ nurseries
 nursery
 nurseryman
 nursing
+nursling
 nurture
 nurtured
 nurtures
@@ -22573,6 +22594,7 @@ observationally
 observes
 observingly
 obsession
+obsessor
 obsessors
 obsolescent
 obsoleted
@@ -23072,6 +23094,7 @@ ostia
 ostinati
 ostiole
 ostium
+ostler
 ostosis
 ostracised
 ostracisms
@@ -26259,6 +26282,7 @@ pretermination
 pretermits
 pretermitting
 pretexted
+pretexting
 pretexts
 pretorians
 pretrain
@@ -27472,6 +27496,7 @@ razee
 razes
 razored
 razzamatazzes
+razzberries
 razzes
 razzmatazzes
 reacceded
@@ -27513,6 +27538,7 @@ reality
 realized
 realizer
 reallocate
+reallocations
 reallot
 realpolitik
 realpolitiks
@@ -28434,6 +28460,7 @@ replying
 repolished
 repopularize
 repopulated
+report
 reportages
 reporters
 reposedly
@@ -28956,6 +28983,7 @@ rhetorically
 rhetoricians
 rhetors
 rheumatically
+rheumatics
 rheumatology
 rhinitides
 rhinologies
@@ -30412,6 +30440,7 @@ semigroups
 semihobos
 semilegendary
 semillon
+semillons
 semimatte
 semimystical
 seminal
@@ -30677,6 +30706,7 @@ sharif
 sharing
 sharker
 sharking
+sharklike
 sharkskin
 sharkskins
 sharpening
@@ -32102,6 +32132,7 @@ spinulae
 spiracle
 spirality
 spirea
+spireas
 spirier
 spiring
 spirited
@@ -32290,6 +32321,7 @@ squeezing
 squelches
 squelching
 squib
+squiffed
 squiffy
 squiggles
 squill
@@ -33001,6 +33033,7 @@ subkingdoms
 sublanguages
 sublated
 sublation
+subleases
 subleasing
 sublethal
 sublevel
@@ -33626,6 +33659,7 @@ swived
 swivel
 swivels
 swivet
+swivets
 swizzler
 swizzlers
 swizzles
@@ -33663,6 +33697,7 @@ syllogizing
 sylphs
 sylvans
 sylvas
+sylvin
 sylvinites
 sylvites
 symbionts
