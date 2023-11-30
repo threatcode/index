@@ -1,0 +1,2 @@
+smp-mobiliser-template/service/src/main/schema/scripts/common ...,https://github.com/SAP-samples/smp_mobiliser_template/blob/master/service/src/main/schema/scripts/common/002_BASIC_DATA/011_MONEY_DATA.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
