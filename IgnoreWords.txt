@@ -434,6 +434,7 @@ adversatively
 adversenesses
 adversity
 advertency
+advertise
 advertisers
 advertize
 advice
@@ -693,6 +694,7 @@ airsicknesses
 airspaces
 airspeeds
 airth
+airtime
 airward
 airwave
 airways
@@ -1018,6 +1020,7 @@ amoxicillins
 amoxycillin
 ampere
 amperes
+amperometric
 ampersand
 amphibole
 amphiboles
@@ -2011,6 +2014,7 @@ atherogeneses
 atheromas
 atheroscleroses
 atherosclerotic
+athetotic
 athwartships
 atilt
 atlas
@@ -2949,6 +2953,7 @@ beleap
 beleaped
 beleaping
 belfried
+beliers
 believably
 belittlers
 belittling
@@ -4460,6 +4465,7 @@ byline
 byliners
 bylining
 byname
+bypass
 bypath
 byres
 byrled
@@ -4469,6 +4475,7 @@ bystreet
 bytes
 cab
 cabaletta
+cabals
 cabana
 cabbageworms
 cabbalahs
@@ -4481,6 +4488,7 @@ cabin
 cabinetmakers
 cabinetries
 cabinetry
+cabinets
 cabinetwork
 cabining
 cabins
@@ -8121,6 +8129,7 @@ cytochalasin
 cytochrome
 cytogeneticists
 cytogenetics
+cytokine
 cytokinin
 cytologic
 cytological
@@ -10068,6 +10077,7 @@ dorsally
 dorsoventral
 dosimeters
 dosimetric
+dosimetries
 dosimetry
 dosing
 doss
@@ -13067,6 +13077,7 @@ folates
 fold
 folder
 foldup
+folia
 foliage
 foliation
 folic
@@ -16489,6 +16500,7 @@ imbrown
 imbrowned
 imide
 imipramines
+imitations
 imitativeness
 imitators
 immaculacy
@@ -17440,6 +17452,7 @@ interpellating
 interpellations
 interpellators
 interpenetrated
+interpenetrates
 interpermeate
 interpermeating
 interpersonally
@@ -19448,6 +19461,7 @@ longhair
 longhand
 longies
 longingly
+longish
 longitudinal
 longjumping
 longleaves
@@ -20492,6 +20506,7 @@ mesophyls
 mesosome
 mesosomes
 mesosphere
+mesothelium
 mesotron
 mesotrons
 mesozoans
@@ -20672,6 +20687,7 @@ micronizes
 micronuclei
 microorganism
 microphage
+microphonic
 microphotometer
 microphotometry
 microphyllous
@@ -21228,6 +21244,7 @@ moggies
 mogging
 moguls
 mohair
+mohelim
 moil
 moiled
 moist
@@ -21753,6 +21770,7 @@ murderousnesses
 mureins
 mures
 murex
+muriated
 murices
 murk
 murker
@@ -22282,6 +22300,7 @@ nightglow
 nightglows
 nightgown
 nighthawk
+nighties
 nightlife
 nightlifes
 nightlives
@@ -23366,6 +23385,7 @@ ordinary
 ordinates
 ordination
 ordinations
+ordnances
 ordos
 ordurous
 oreads
@@ -23718,6 +23738,7 @@ outreproduces
 outrider
 outrides
 outrig
+outrigger
 outrivals
 outroars
 outrock
@@ -24723,6 +24744,7 @@ patriot
 patriotic
 patriotism
 patristical
+patroller
 patron
 patroness
 patronising
@@ -26969,6 +26991,7 @@ proletarian
 proletarianised
 proletarianize
 proletarians
+proletaries
 proliferation
 prolificacy
 prolifically
@@ -27028,6 +27051,7 @@ prophasic
 prophecies
 prophethood
 propine
+propined
 propines
 propining
 propionates
@@ -29046,6 +29070,7 @@ res
 resaddles
 resaddling
 resampled
+resat
 resaw
 resawed
 resay
@@ -29535,6 +29560,7 @@ riboflavin
 ribonucleases
 ribonucleoside
 ribonucleotides
+ribozyme
 ribozymes
 ribwort
 ribworts
@@ -30689,6 +30715,7 @@ scrota
 scrotums
 scrouge
 scrounged
+scroungier
 scrubbily
 scrubbing
 scrubwomen
@@ -31068,6 +31095,7 @@ sequelae
 sequelize
 sequelizes
 sequence
+sequestrated
 sequestrations
 sequining
 sequins
@@ -31108,6 +31136,7 @@ serologies
 serology
 serosal
 serosity
+serotine
 serotines
 serotinies
 serotyped
@@ -33492,6 +33521,7 @@ subadar
 subaerial
 subagents
 subahdar
+suballocation
 suballocations
 subapical
 subarctic
@@ -33801,6 +33831,7 @@ suggestiveness
 sughed
 sughs
 suicide
+suint
 suitabilities
 suitability
 suitable
@@ -34204,6 +34235,7 @@ swelteringly
 sweptwings
 swervers
 swerves
+swevens
 swift
 swifter
 swiftness
@@ -35924,6 +35956,7 @@ trepidations
 tres
 trespassed
 trespasser
+trespassing
 tress
 tressed
 tressels
@@ -37618,6 +37651,7 @@ vaporetto
 vaporised
 vaporishnesses
 vaporizable
+vaporizer
 vaporless
 vapourers
 vaquero
@@ -38643,6 +38677,7 @@ wicking
 wickiups
 wickyup
 widder
+widdling
 wide
 widget
 widowerhoods
