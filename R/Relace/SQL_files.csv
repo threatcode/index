@@ -1,2 +1,4 @@
 benchmark/setup_oracle_db.sql ... - CZ.NIC Gitlab,https://gitlab.nic.cz/fred/db/-/blob/609116b4f032fc6bf71e54d13fcbd61f0d26fae0/benchmark/setup_oracle_db.sql
 benchmark/setup_db.sql ... - CZ.NIC Gitlab,https://gitlab.nic.cz/fred/db/-/blob/5a696a9cd1243b2ce656f94f3fac3d7992b1f725/benchmark/setup_db.sql
+benchmark/setup_db.sql ... - CZ.NIC Gitlab,https://gitlab.nic.cz/fred/db/-/blob/5a696a9cd1243b2ce656f94f3fac3d7992b1f725/benchmark/setup_db.sql
+sql/error.sql · 49e57091f7f1b48ba67a2f776ca506f3fc4b4fc5 · fred ...,https://gitlab.nic.cz/fred/db/-/blob/49e57091f7f1b48ba67a2f776ca506f3fc4b4fc5/sql/error.sql
