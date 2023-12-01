@@ -203,6 +203,7 @@ achinesses
 achiote
 achromat
 achromatized
+achromous
 achy
 acicular
 acid
@@ -1064,6 +1065,7 @@ amusingnesses
 amygdale
 amygdalin
 amygdaloid
+amygdaloidal
 amygdaloids
 amyl
 amylase
@@ -1560,6 +1562,7 @@ apostle
 apotheosized
 appal
 appalled
+appals
 apparat
 apparatchiki
 appareled
@@ -2382,6 +2385,7 @@ backhand
 backhauled
 backhoe
 backhouse
+backing
 backings
 backlasher
 backlist
@@ -2520,6 +2524,7 @@ ballyard
 ballyhooed
 ballyhooing
 balmier
+balmy
 baloney
 balsam
 balsaming
@@ -4464,6 +4469,7 @@ bustline
 bustlingly
 busywork
 butanols
+butanone
 butles
 butterballs
 butterfat
@@ -6368,6 +6374,7 @@ coercions
 coercive
 coercivenesses
 coesites
+coeval
 coevalities
 coevally
 coexerting
@@ -7231,6 +7238,7 @@ cops
 copses
 copublishing
 copulae
+copulated
 copulating
 copulative
 copulatives
@@ -7598,6 +7606,7 @@ cowards
 cowbird
 cowboyed
 cowfish
+cowgirls
 cowhide
 cowled
 cowpats
@@ -7892,6 +7901,7 @@ cruppers
 crusaders
 crusades
 crusading
+crusadoes
 crusados
 cruse
 crushes
@@ -9836,6 +9846,7 @@ disregard
 disrelated
 disrelish
 disrelished
+disrelishes
 disrelishing
 disrepair
 disrepairs
@@ -9845,6 +9856,7 @@ disrespect
 disrobes
 disroot
 disrupt
+disrupters
 disrupting
 dissatisfaction
 dissaving
@@ -10639,6 +10651,7 @@ easts
 easy
 eaves
 eavesdroppers
+ebbets
 ebbs
 ebonics
 ebonises
@@ -11423,6 +11436,7 @@ ephedrins
 ephemera
 ephemerality
 ephemerons
+epiblast
 epiblasts
 epicalyxes
 epicardial
@@ -12080,6 +12094,7 @@ expressmen
 expresso
 expressways
 expropriation
+expulses
 expunction
 expunctions
 expunges
@@ -12093,6 +12108,7 @@ exserted
 exsertile
 exserting
 exsiccated
+exsiccation
 extemporise
 extemporizers
 extemporizes
@@ -13429,6 +13445,7 @@ fountain
 fountained
 founts
 fourdriniers
+fourpences
 fourteeners
 foveole
 fowlings
@@ -14258,9 +14275,11 @@ gips
 gipsy
 girandola
 girandolas
+girders
 girdingly
 girdle
 girdling
+girlier
 girosols
 girshes
 girthed
@@ -15045,6 +15064,7 @@ gutsily
 guttate
 gutters
 guttle
+guttles
 gutturalism
 gutty
 guy
@@ -16605,6 +16625,7 @@ imaged
 imager
 imaginarinesses
 imaginative
+imagisms
 imagistic
 imagistically
 imamate
@@ -17604,6 +17625,7 @@ interrogatories
 interrupters
 interruptible
 interruptors
+interschool
 intersecting
 intersection
 intersects
@@ -19127,6 +19149,7 @@ leprose
 leprosy
 leprotic
 leprously
+lept
 lepta
 leptin
 leptins
@@ -19286,6 +19309,7 @@ lightwood
 lignifying
 lignocellulose
 lignocellulosic
+lignosulfonate
 ligroin
 ligula
 ligulae
@@ -19369,6 +19393,7 @@ lintels
 linter
 linters
 lintier
+lintwhite
 linty
 linums
 liny
@@ -23686,6 +23711,7 @@ osteomata
 osteopathies
 osteopathy
 osteoporoses
+osteoporotic
 ostia
 ostinati
 ostiole
@@ -27018,6 +27044,7 @@ primaries
 primary
 primatals
 primate
+primates
 primatial
 prime
 primed
@@ -27278,6 +27305,7 @@ prorogating
 prorogation
 prosaically
 prosaists
+prosauropods
 prosceniums
 prosciutto
 prosciuttos
@@ -28883,6 +28911,7 @@ reinjected
 reinjection
 reinjured
 reink
+reinked
 reinsertions
 reinspecting
 reinspections
@@ -32871,6 +32900,7 @@ spelldowns
 spelled
 spelunk
 spenses
+spermacetis
 spermary
 spermatogeneses
 spermatogonial
@@ -33173,6 +33203,7 @@ stagflation
 staggards
 staggeringly
 staggier
+staghound
 staghounds
 stagiest
 stagnance
@@ -33399,6 +33430,7 @@ stick
 stickable
 stickballs
 stickers
+stickhandled
 stickhandler
 stickhandling
 stickiest
@@ -36299,6 +36331,7 @@ trifurcate
 trifurcates
 trifurcating
 trifurcations
+trigger
 triggerfishes
 triggers
 triglyph
@@ -38409,6 +38442,7 @@ votaries
 voted
 voter
 votive
+votively
 votiveness
 vouchsafe
 vouchsafed
@@ -39321,6 +39355,7 @@ xenon
 xenophiles
 xenophobe
 xenopuses
+xeroderma
 xerodermas
 xerographies
 xerothermic
