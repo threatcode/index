@@ -237,6 +237,7 @@ acquiescence
 acquiescences
 acquiescent
 acquiesces
+acquire
 acquirers
 acquisitions
 acquisitiveness
@@ -326,6 +327,7 @@ additions
 addled
 addressability
 addresser
+addressing
 addressor
 adducer
 adduces
@@ -1037,6 +1039,7 @@ ammonium
 amnesia
 amnesics
 amnion
+amnionic
 amok
 amoretti
 amoretto
@@ -3350,6 +3353,7 @@ billionths
 billow
 billowy
 billycock
+bilobated
 bilsted
 biltong
 biltongs
@@ -4454,6 +4458,7 @@ bullheads
 bullied
 bulliest
 bulling
+bullmastiffs
 bullnoses
 bullpen
 bullpout
@@ -5554,6 +5559,7 @@ challenged
 challenger
 challengers
 challenging
+chalone
 chalones
 chalutzim
 cham
@@ -6963,6 +6969,7 @@ comraderies
 comte
 conation
 conatus
+concatenating
 concatenation
 concealable
 concealing
@@ -7597,6 +7604,7 @@ cosmochemists
 cosmogenic
 cosmogony
 cosmography
+cosmolined
 cosmological
 cosmologist
 cosmopolitanism
@@ -7771,6 +7779,7 @@ couscous
 cousin
 cousinage
 cousinhood
+cousinry
 cousins
 couteau
 couteaux
@@ -8192,6 +8201,7 @@ cuittled
 cuittles
 culinarians
 cullays
+cullender
 cullion
 cullions
 culls
@@ -13349,9 +13359,11 @@ flense
 fleshinesses
 fleshing
 fleshments
+fleshpots
 fleshy
 flew
 flexed
+flexes
 flexions
 flextime
 flexural
@@ -16499,6 +16511,7 @@ hormonal
 hormones
 hornbeam
 hornednesses
+horniest
 hornists
 hornlessnesses
 horns
@@ -17062,6 +17075,7 @@ illustrious
 illuviates
 illuviation
 illy
+ilmenites
 imaged
 imager
 imaginarinesses
@@ -21295,6 +21309,7 @@ meteorologists
 metered
 meterstick
 metestrus
+meth
 methadone
 methenamine
 methinks
@@ -21469,6 +21484,7 @@ midrashot
 midrib
 midsagittal
 midspaces
+midstreams
 midterms
 midweekly
 midwife
@@ -22399,6 +22415,7 @@ mudflows
 mudguard
 mudguards
 mudhens
+mudpacks
 mudpuppies
 mudrock
 mudsill
@@ -23448,6 +23465,7 @@ nonparticipants
 nonpartisan
 nonpasserine
 nonpassive
+nonpasts
 nonpayment
 nonperformer
 nonperishables
@@ -23956,6 +23974,7 @@ offed
 offences
 offended
 offense
+offered
 offering
 offhand
 offhanded
@@ -25222,6 +25241,7 @@ paleobotanies
 paleobotanists
 paleoecologic
 paleoecological
+paleoecologist
 paleogene
 paleogeography
 paleographic
@@ -25645,6 +25665,7 @@ paughty
 pauldron
 paulownias
 paunched
+paunchier
 paupered
 paupering
 pauperism
@@ -25809,6 +25830,7 @@ pelargonium
 pelerines
 pelite
 pellagras
+pelletization
 pelletizations
 pelletized
 pelletizer
@@ -26666,6 +26688,7 @@ pixiness
 pixyish
 pizazzes
 pizazzy
+pizzalike
 placability
 placable
 placarded
@@ -28706,6 +28729,7 @@ quomodo
 quomodos
 quorum
 quoted
+quoter
 quotes
 quoth
 quotients
@@ -29458,6 +29482,7 @@ reduplicated
 reduplicates
 reduplicatively
 reduviid
+reduviids
 redux
 reearns
 reedbirds
@@ -31410,6 +31435,7 @@ sarcastically
 sarcoma
 sarcomata
 sarcomeres
+sarcophagi
 sarcophaguses
 sarcoplasmic
 sard
@@ -32776,6 +32802,7 @@ silicoses
 silicosis
 silique
 siliquous
+silkaline
 silken
 silkier
 silkiest
@@ -36530,6 +36557,7 @@ throws
 thruput
 thrusted
 thug
+thuggees
 thuggery
 thujas
 thumbnuts
@@ -37545,6 +37573,7 @@ tugless
 tuitional
 tularemia
 tumbledown
+tumblerful
 tumblerfuls
 tumblers
 tumbles
@@ -38345,6 +38374,7 @@ unific
 unifies
 uniformity
 unilateral
+unilaterally
 unilobed
 unimaginable
 unimaginably
@@ -38398,6 +38428,7 @@ unknowingly
 unknown
 unlabeled
 unlade
+unlawful
 unlawfully
 unleads
 unlearnt
@@ -39292,6 +39323,7 @@ viewfinders
 viewier
 viewiest
 views
+viewy
 vigesimal
 vigilant
 vigintillions
@@ -39387,6 +39419,7 @@ visitation
 visiters
 visiting
 visits
+visive
 visored
 visoring
 vista
@@ -40218,6 +40251,7 @@ witness
 witted
 wittiest
 wittily
+wittinesses
 wittol
 witty
 wivern
@@ -40503,6 +40537,7 @@ year
 yearbook
 yearend
 yearends
+yearners
 yearningly
 yearnings
 years
