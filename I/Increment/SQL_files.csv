@@ -7,3 +7,13 @@ scripts/bbdd/oracle/01_create_schema.sql · master - GitLab,https://git.caib.es/
 catalogue/postgres_catalogue_schema_header.sql ...,https://gitlab.desy.de/dcache/cta/-/blob/dbef6e69236aed035a3c2f6d52da756897a48202/catalogue/postgres_catalogue_schema_header.sql
 catalogue/postgres_catalogue_schema_header.sql · 1036-better ...,https://gitlab.desy.de/dcache/cta/-/blob/1036-better-error-reporting-in-cta-admin-tools/catalogue/postgres_catalogue_schema_header.sql
 smid_olap.sql in intercambio/BD – Mapa Industrial: Intercambio de ...,https://mpv.cenditel.gob.ve/intercambio/browser/intercambio/BD/smid_olap.sql%3Frev%3Db165cb306178f1a43b88d503affbe9d966e0797a%26order%3Dsize%26desc%3D1
+utilities/counter.sql at master - oracle-developer - GitHub,https://github.com/oracle-developer/utilities/blob/master/counter.sql
+DBMS_Examples/Q17.sql at master - GitHub,https://github.com/NLPpupil/DBMS_Examples/blob/master/Q17.sql
+ddl.sql - Gentoo,https://gitweb.gentoo.org/proj/collagen.git/plain/doc/ddl.sql
+http://people.umass.edu/bikehara/dbanotes/sp_seqre...,http://people.umass.edu/bikehara/dbanotes/sp_seqreset.sql
+http://geolabs.fr/dl/mmdb.sql,http://geolabs.fr/dl/mmdb.sql
+echo.sql « Echo - sites/wiki/extensions.git - wiki.gentoo.org,https://gitweb.gentoo.org/sites/wiki/extensions.git/tree/Echo/echo.sql
+https://raw.githubusercontent.com/xivSolutions/Chi...,https://raw.githubusercontent.com/xivSolutions/ChinookDb_Pg_Modified/pg_names/chinook_pg_serial_pk_proper_naming.sql
+catalogue/postgres_catalogue_schema_header.sql ...,https://gitlab.desy.de/dcache/cta/-/blob/870883d95a0231ee3a1cfebcc24c481cb7eb7531/catalogue/postgres_catalogue_schema_header.sql
+https://is.muni.cz/th/zihz6/10236449/ResponsibleCa...,https://is.muni.cz/th/zihz6/10236449/ResponsibleCareSQL.sql
+https://raw.githubusercontent.com/gousiosg/github-...,https://raw.githubusercontent.com/gousiosg/github-mirror/master/sql/pg_schema.sql
