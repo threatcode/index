@@ -1,0 +1,4 @@
+admin panel,http://185.14.187.205:84/login/administrator/%2522plog/page.cfm/db.sql
+supervisioncam,http://37.235.48.144:5984/login/servlet/administrator/components/com_comprofiler/plugin.class.php/db_backup.sql
+Novell Web Services,http://31.220.45.118:8080/login_admin/exchange/template.asp/mysql.sql
+English-Dictionary-Mysql/english_app.sql at master - GitHub,https://github.com/onur-yuksekkaya/English-Dictionary-Mysql/blob/master/english_app.sql

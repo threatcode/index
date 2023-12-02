@@ -62,6 +62,7 @@ absorbants
 absorbed
 absorbent
 absorbers
+absorptance
 absorptions
 absorptive
 absorptivities
@@ -1236,6 +1237,7 @@ animated
 animately
 animatenesses
 animates
+animation
 animator
 animatronic
 animes
@@ -1312,6 +1314,7 @@ antalkalis
 antarctic
 anteaters
 antecede
+antecedents
 antechambers
 antechoir
 antefixa
@@ -2463,6 +2466,7 @@ backstamped
 backstop
 backstreet
 backstretch
+backswept
 backup
 backwardly
 backwardness
@@ -2803,6 +2807,7 @@ battier
 batting
 battings
 battle
+battleships
 batts
 battue
 batty
@@ -5107,6 +5112,7 @@ caritases
 carjacker
 carle
 carline
+carling
 carnal
 carnallite
 carnations
@@ -7921,6 +7927,7 @@ crested
 crestfallenness
 crestings
 cresylic
+cresyls
 cretinism
 cretonnes
 crevalle
@@ -8255,6 +8262,7 @@ curtest
 curtseying
 curve
 curveball
+curves
 curvilinearity
 curving
 cuspal
@@ -9201,6 +9209,7 @@ depurated
 deputizations
 deputize
 deputized
+deputy
 deracinations
 derailed
 derailing
@@ -9835,6 +9844,7 @@ disbelieves
 disbenefit
 disbosoms
 disbowelling
+disbowels
 disbranch
 disburdening
 disburdens
@@ -10816,6 +10826,7 @@ dysfunctional
 dysmenorrheas
 dyspepsias
 dyspepsy
+dyspeptically
 dysphagias
 dysphasics
 dysphemism
@@ -11457,6 +11468,7 @@ enflamed
 enfolded
 enfolder
 enforced
+enforcement
 enframe
 enframement
 enframing
@@ -11942,6 +11954,7 @@ etatisms
 etched
 etches
 eternal
+eternalize
 eternalizing
 eternise
 eternising
@@ -12754,6 +12767,7 @@ featherheaded
 featheriest
 featherlight
 featherstitches
+featherweights
 featliest
 featured
 featurette
@@ -13495,6 +13509,7 @@ fomentation
 fomenting
 fomites
 fondest
+fondled
 fondler
 fondlers
 fondlings
@@ -13515,6 +13530,7 @@ foot
 footballer
 footbridges
 footfault
+footfaults
 footings
 footlamberts
 footle
@@ -14021,6 +14037,7 @@ funking
 funneled
 funnest
 funniness
+funning
 furbearer
 furbelowing
 furcated
@@ -15434,6 +15451,7 @@ gyron
 gyrons
 gyropilot
 gyros
+gyrostabilizers
 gyttjas
 haars
 habaneras
@@ -17146,6 +17164,7 @@ imposthume
 imposting
 impostures
 impotencies
+impotency
 impotent
 impotently
 impounder
@@ -18121,6 +18140,7 @@ invariance
 invariances
 invasions
 invective
+inveigle
 inveiglers
 inventers
 inventresses
@@ -20916,6 +20936,7 @@ meditative
 meditator
 mediumships
 medius
+medivacing
 medusoids
 meeds
 meekest
@@ -22674,6 +22695,7 @@ narrowest
 narrownesses
 narthex
 narwal
+narwhale
 nasally
 naseberries
 naseberry
@@ -22827,6 +22849,7 @@ neonatologist
 neonatology
 neoplasticist
 neoplasty
+neoprene
 neostigmine
 neoteny
 nepenthean
@@ -24623,6 +24646,7 @@ overcasts
 overcautions
 overcharges
 overchilling
+overclaim
 overclaimed
 overclassified
 overclassify
@@ -25273,6 +25297,7 @@ paramagnetism
 paramagnetisms
 paramattas
 parameciums
+paramedic
 paramenta
 parameters
 parametrization
@@ -26070,6 +26095,7 @@ phallocentric
 phalluses
 phanerophytes
 phantasmagoric
+phantasmal
 phantasmata
 phantasms
 phantast
@@ -26777,6 +26803,7 @@ podite
 poditic
 podiums
 podophyllins
+podsolizations
 podzolized
 poetaster
 poetesses
@@ -27786,6 +27813,7 @@ profundity
 profusely
 progenies
 progeny
+progesterones
 progestogen
 progestogenic
 progging
@@ -27837,6 +27865,7 @@ promiscuity
 promise
 promisee
 promises
+promising
 promo
 promoed
 promontories
@@ -31277,6 +31306,7 @@ saskatoon
 sasquatch
 sassabies
 sassiness
+sastruga
 satanist
 satanists
 satays
@@ -32394,6 +32424,7 @@ shopped
 shopper
 shoppers
 shoppings
+shopwindow
 shopworn
 shorans
 shorefront
@@ -34924,6 +34955,7 @@ summitry
 summits
 summonable
 summoned
+sumpters
 sumpweeds
 sun
 sunbather
@@ -35887,6 +35919,7 @@ telephoning
 telephotos
 teleportation
 teleprocessing
+teleran
 telescope
 telescopic
 telescopies
@@ -39065,6 +39098,7 @@ vicereine
 vicereines
 viceroyalty
 viceroyships
+vices
 vichies
 vichy
 vicinages
@@ -39910,6 +39944,7 @@ windigo
 windles
 windlestraw
 windling
+windmills
 windowpanes
 windowsills
 windrow
