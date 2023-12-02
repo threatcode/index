@@ -352,6 +352,7 @@ adjudicating
 adjudicative
 adjuration
 adjuratory
+adjurer
 adjuring
 adjurors
 adjusted
@@ -3417,6 +3418,7 @@ biometer
 biometric
 biometricians
 biometries
+biometry
 bionic
 bionomies
 biophilias
@@ -5194,6 +5196,7 @@ cartooned
 cartoons
 cartouche
 cartularies
+cartulary
 cartwheeling
 cartwheels
 caruncle
@@ -6102,6 +6105,7 @@ circumpolar
 circumscissile
 circumscribe
 circumscribes
+circumscription
 circumspect
 circumspections
 circumspectly
@@ -6442,6 +6446,7 @@ coasted
 coastguardmen
 coastguards
 coastlines
+coatdress
 coater
 coati
 coating
@@ -7296,6 +7301,7 @@ contrapuntist
 contraries
 contrarieties
 contrarinesses
+contrarious
 contras
 contrasting
 contrastive
@@ -7808,6 +7814,7 @@ cowgirls
 cowhide
 cowier
 cowled
+cowlstaffs
 cowpats
 cowpoxes
 cowritten
@@ -10346,6 +10353,7 @@ dollied
 dollies
 dollishly
 dollishnesses
+dollybird
 dolma
 dolman
 dolmans
@@ -13662,6 +13670,7 @@ forereaching
 fores
 foresaid
 foreseeable
+foreshadowed
 foreshank
 foresheets
 foreshores
@@ -15002,12 +15011,14 @@ goyim
 goyish
 graal
 grabbing
+grabble
 grabblers
 graben
 grabens
 grace
 graceful
 gracefulness
+gracelessnesses
 graces
 gracious
 graciousness
@@ -20098,6 +20109,7 @@ logistics
 logjam
 logjams
 lognormal
+lognormality
 logogram
 logographs
 logons
@@ -20273,6 +20285,7 @@ lunarian
 lunatic
 lunation
 lunch
+lunching
 lunchmeat
 lunchtime
 lunes
@@ -20641,6 +20654,7 @@ manifestoing
 manihot
 manilas
 manille
+manipulable
 manipular
 manipulation
 manipulator
@@ -21186,6 +21200,7 @@ mescals
 mesdemoiselles
 mesentery
 mesh
+meshes
 meshuga
 meshugaas
 meshugah
@@ -22189,6 +22204,7 @@ moots
 mopboards
 mopery
 mopiest
+mopinesses
 mopishly
 moppet
 moquette
@@ -23666,6 +23682,7 @@ nuggets
 nuke
 nullah
 nulled
+nullifications
 nullifies
 nulliparae
 nullipore
@@ -25959,6 +25976,7 @@ performing
 perfunctoriness
 perfuses
 perfusionist
+perfusionists
 pergolas
 peri
 periapt
@@ -27203,6 +27221,7 @@ postanal
 postatomic
 postattack
 postbiblical
+postcodes
 postcoital
 postcolonial
 postcoup
@@ -27914,6 +27933,7 @@ profundity
 profusely
 progenies
 progeny
+progestational
 progesterones
 progestogen
 progestogenic
@@ -29766,6 +29786,7 @@ relaundering
 relaxant
 relaxer
 relaxers
+relaxin
 relays
 release
 relends
@@ -30058,6 +30079,7 @@ repudiator
 repugnances
 repugnancies
 repugnantly
+repugned
 repugning
 repulsing
 repulsiveness
@@ -30728,6 +30750,7 @@ ripstops
 risibilities
 risibility
 risibly
+risings
 riskers
 riskily
 risks
@@ -33254,6 +33277,7 @@ sneakinesses
 sneaky
 sneck
 snedded
+sneered
 sneeshes
 sneezing
 snell
@@ -33277,6 +33301,7 @@ sniglets
 snip
 snipers
 sniperscopes
+snipped
 snippersnappers
 snippetiest
 snippets
@@ -33789,6 +33814,7 @@ spermophile
 spermous
 spessartite
 sphagnums
+sphenes
 sphenic
 sphenopsids
 spheric
@@ -34290,6 +34316,7 @@ stereoisomerism
 stereoisomers
 stereological
 stereologically
+stereopticon
 stereopticons
 stereotyped
 stereotypic
@@ -36024,6 +36051,7 @@ tele
 telecaster
 telecommuted
 telecommutes
+telefacsimile
 telefax
 telefilms
 telegenic
@@ -37081,6 +37109,7 @@ transference
 transferential
 transferred
 transfers
+transformations
 transfusable
 transgender
 transgene
@@ -37541,6 +37570,7 @@ tundras
 tuneable
 tuneably
 tuneless
+tuner
 tuneups
 tung
 tungstites
@@ -38327,6 +38357,7 @@ uninstructive
 uninsurable
 unintegrated
 unintentional
+uninterest
 unintimidated
 unionisations
 unionise
@@ -38602,6 +38633,7 @@ unsurpassed
 unsusceptible
 unsuspecting
 unswerving
+unsworn
 unsystematic
 untack
 untacked
@@ -39200,6 +39232,7 @@ vexatiousnesses
 vexedly
 vexes
 vexillar
+vexillary
 vexillologic
 vexillologist
 vexillologists
@@ -39601,6 +39634,7 @@ wanders
 wandle
 wangun
 waniest
+waning
 wanker
 wankers
 wannabe
@@ -39930,6 +39964,7 @@ whiffled
 whiffletrees
 whigs
 whiled
+whiles
 whimper
 whimpered
 whimsicalities
