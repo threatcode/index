@@ -2327,6 +2327,7 @@ awaits
 awake
 awaken
 awardee
+awash
 awayness
 aweather
 awes
@@ -3715,6 +3716,7 @@ blurt
 blurted
 blushed
 blusher
+blushers
 blushes
 blustered
 blypes
@@ -4895,6 +4897,7 @@ canonization
 canonize
 canonizers
 canonries
+canons
 canoodle
 canoodled
 canopy
@@ -4922,6 +4925,7 @@ cantus
 canulate
 canulates
 canvasbacks
+canvases
 canyons
 canzonas
 canzonets
@@ -7712,6 +7716,7 @@ courted
 courter
 courtesans
 courtesies
+courtlier
 courtliness
 courtroom
 courtrooms
@@ -7828,6 +7833,7 @@ crases
 crasher
 crashworthy
 crassest
+cratches
 cratering
 craterings
 cratonic
@@ -9272,6 +9278,7 @@ desks
 desman
 desmid
 desolately
+desolater
 desolaters
 desolates
 desolators
@@ -10721,6 +10728,7 @@ dupery
 duping
 duplexities
 duplicate
+duplicated
 duplications
 duplicative
 dupped
@@ -10735,6 +10743,7 @@ durned
 durning
 durra
 durras
+durrie
 durries
 duskier
 dustcover
@@ -10865,6 +10874,7 @@ ebonize
 ebonized
 ebonizing
 ebony
+ebullience
 ebulliency
 ecartes
 ecbolics
@@ -13548,6 +13558,7 @@ forecheckers
 foreclose
 forecourt
 foredate
+foredeck
 foredecks
 foredoes
 forefaces
@@ -13945,6 +13956,7 @@ fulgently
 fulgid
 fulgurates
 fulgurite
+fulgurites
 fuliginously
 full
 fullerene
@@ -13974,6 +13986,7 @@ functionality
 fundamentalism
 fundamentalist
 fundamentally
+fundamentals
 fundaments
 funders
 fundic
@@ -14246,6 +14259,7 @@ garroters
 garrotted
 garrulous
 garrulously
+garrulousnesses
 garveys
 gasalier
 gascons
@@ -14575,6 +14589,7 @@ gladdening
 gladiator
 gladiolus
 gladness
+gladsomer
 gladsomest
 glair
 glamorised
@@ -14615,6 +14630,7 @@ gleamed
 gleamiest
 gleamy
 gleaners
+glebeless
 glede
 glee
 gleefulnesses
@@ -14977,6 +14993,7 @@ grantees
 grantor
 grantsmanship
 granulator
+granule
 granules
 granulocyte
 granulocytic
@@ -17844,6 +17861,7 @@ interceding
 intercell
 intercepters
 interceptor
+intercessions
 intercessory
 interclass
 intercollegiate
@@ -18108,6 +18126,7 @@ investment
 investments
 inveterately
 inviably
+invidiousness
 invidiousnesses
 invigilated
 invigilator
@@ -18853,6 +18872,7 @@ kiloliter
 kilometers
 kilometre
 kilovolt
+kilovolts
 kilowatt
 kilowatts
 kilt
@@ -19943,6 +19963,7 @@ lodes
 lodestone
 lodge
 lodger
+lodgments
 loesses
 loft
 lofted
@@ -20804,6 +20825,7 @@ mayfly
 mayonnaises
 mayoralty
 mayoress
+mayvin
 mazaedium
 mazards
 maze
@@ -25476,6 +25498,7 @@ pauperize
 pauperizing
 paupers
 pausal
+pause
 paused
 pauser
 pave
@@ -26086,6 +26109,7 @@ philomelas
 philosophe
 philosopher
 philosophises
+philosophizers
 philosophizes
 philters
 philtre
@@ -27883,6 +27907,7 @@ proselytizers
 proselytizing
 proseminar
 prosiest
+prosiness
 prosobranchs
 prosodical
 prosomas
@@ -28305,12 +28330,14 @@ pyrolized
 pyrolysate
 pyrolysis
 pyrolyzable
+pyrolyzates
 pyromaniacal
 pyrometer
 pyrometers
 pyrometrically
 pyromorphite
 pyrones
+pyronine
 pyrophoric
 pyrophyllite
 pyrophyllites
@@ -28336,6 +28363,7 @@ quad
 quadrans
 quadrantal
 quadraphonics
+quadrates
 quadratic
 quadrennial
 quadricep
@@ -30579,6 +30607,7 @@ roaming
 roared
 roars
 roasts
+robalos
 roband
 robbers
 robbins
@@ -30970,6 +30999,7 @@ safecrackings
 safely
 safeness
 safflower
+safflowers
 saffrons
 safrol
 sagaciousnesses
@@ -31989,6 +32019,7 @@ sered
 serenade
 serenading
 serendipities
+serf
 serfage
 serfages
 serfdoms
@@ -32919,6 +32950,7 @@ slugabed
 slugabeds
 slugfest
 slugger
+slugging
 sluiceways
 sluing
 slum
@@ -34083,6 +34115,7 @@ sterilizations
 sterilizer
 sterilizers
 sterlet
+sterlingnesses
 sterna
 sternal
 sternites
@@ -35098,6 +35131,7 @@ surfy
 surgeonfishes
 surgeons
 surger
+surgers
 surges
 surgically
 surimi
@@ -35822,6 +35856,7 @@ teleportation
 teleprocessing
 telescope
 telescopic
+telescopies
 telestic
 telestics
 teletext
