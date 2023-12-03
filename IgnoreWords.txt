@@ -351,6 +351,7 @@ adieu
 adieus
 adjacence
 adjacency
+adjectivally
 adjournments
 adjudicating
 adjudicative
@@ -1287,6 +1288,7 @@ annexationists
 annihilates
 annihilations
 annotate
+annotated
 annotation
 annotations
 annotators
@@ -1853,6 +1855,7 @@ armigeros
 armillas
 arming
 armloads
+armlock
 armorials
 armoring
 armory
@@ -4805,6 +4808,7 @@ calf
 calfs
 calfskin
 calibrated
+calibrates
 calibrations
 calibrators
 calices
@@ -6429,6 +6433,7 @@ cloudlessly
 cloured
 clout
 clouted
+clouters
 clove
 clowders
 clownery
@@ -6586,6 +6591,7 @@ codependent
 coderived
 codesign
 codesigns
+codevelops
 codfish
 codifications
 codirections
@@ -7789,6 +7795,7 @@ counterplayers
 counterplea
 counterpleas
 counterplotted
+counterpoise
 counterpoised
 counterposes
 counterposing
@@ -7928,6 +7935,7 @@ crack
 cracked
 cracking
 crackle
+crackleware
 cracklewares
 cracks
 cracksman
@@ -8162,6 +8170,7 @@ crow
 crowded
 crowdedly
 crowder
+crowds
 crowfoots
 crowing
 crowkeepers
@@ -8846,6 +8855,7 @@ deciding
 deciduous
 decigram
 decile
+deciles
 decilitres
 decillions
 decimals
@@ -10326,6 +10336,7 @@ ditto
 dittoing
 ditty
 diurnally
+diva
 divan
 divarications
 dive
@@ -10507,10 +10518,12 @@ doomier
 dooms
 doomsayings
 doomsdayers
+doomsters
 doorjambs
 doorkeepers
 doorless
 doorsteps
+doorway
 doorways
 doozer
 doozie
@@ -11754,6 +11767,7 @@ enterobacterium
 enterocoeles
 enterocoelous
 enterokinase
+enteropathy
 enterotoxin
 enterovirus
 enterprisers
@@ -12523,6 +12537,7 @@ exposited
 exposition
 expositive
 expositors
+expostulated
 expostulations
 exposure
 expounding
@@ -14452,6 +14467,7 @@ gardeners
 gardenful
 gardenfuls
 gardenias
+gardening
 garfish
 garganeys
 gargantua
@@ -20975,6 +20991,7 @@ margrave
 margravial
 margraviates
 maria
+maricultures
 marigolds
 marijuana
 marinaded
@@ -21156,6 +21173,7 @@ mavies
 maw
 mawn
 maxes
+maxilla
 maximal
 maximalist
 maximalists
@@ -21662,6 +21680,7 @@ microscopist
 microsecond
 microseismicity
 microspherical
+microsporangia
 microspore
 microsporophyll
 microsurgery
@@ -24344,6 +24363,7 @@ onychophoran
 oocytes
 oogamy
 oogenies
+oogonial
 oogoniums
 oohs
 oolong
@@ -25598,6 +25618,7 @@ pantomimists
 pantropical
 pantsuited
 panty
+pantywaist
 papa
 papacies
 papadam
@@ -25645,6 +25666,7 @@ paradrops
 paraffining
 paragenetically
 paragon
+paragraphers
 paragraphic
 paragraphing
 paragraphs
@@ -28037,6 +28059,7 @@ prevalent
 prevaricating
 prevenient
 preveniently
+preventative
 prevented
 preventively
 previable
@@ -28680,6 +28703,7 @@ pupate
 pupating
 pupil
 puppeteering
+puppetries
 pupu
 pur
 purana
@@ -28936,6 +28960,7 @@ quickened
 quicker
 quickest
 quicklime
+quicklimes
 quickly
 quicks
 quicksands
@@ -29890,6 +29915,7 @@ refuelling
 refugium
 refulgence
 refunded
+refunds
 refurnished
 refurnishing
 refusable
@@ -30364,6 +30390,7 @@ reproacher
 reproachfully
 reprobation
 reprobative
+reprobed
 reprobing
 reproduce
 reproduced
@@ -32506,6 +32533,7 @@ sepalled
 separability
 separably
 separated
+separates
 separating
 separationist
 sepia
@@ -32985,6 +33013,7 @@ shutout
 shutouts
 shuttering
 shutterless
+shutters
 shutting
 shuttlecocks
 shuttler
@@ -33570,6 +33599,7 @@ smuggles
 smushed
 smutchiest
 smutchy
+smuttiest
 smuttiness
 snacking
 snaffling
@@ -34571,6 +34601,7 @@ stealing
 stealthier
 stealthiness
 steamed
+steamer
 steamers
 steamfitter
 steamfitters
@@ -34756,6 +34787,7 @@ stirrer
 stirring
 stitchworts
 stithies
+stithying
 stiver
 stobbing
 stoccatas
@@ -35347,6 +35379,7 @@ succubas
 succulence
 succulent
 succulently
+succuss
 succussed
 suchness
 sucked
@@ -38683,6 +38716,7 @@ ungloved
 ungloves
 unglued
 ungodlinesses
+ungraceful
 ungracious
 ungraciousness
 ungratefulness
@@ -39377,6 +39411,7 @@ vane
 vanguardism
 vanillas
 vanillins
+vanquish
 vanquished
 vanquisher
 vans
