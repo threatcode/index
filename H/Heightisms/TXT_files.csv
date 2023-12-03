@@ -21,3 +21,12 @@ dict-en.txt - ports,http://ports.gnu-darwin.org/textproc/scim-openvanilla/work/o
 heb_wikipedia_2016_1M-sentences.txt,https://svn.apache.org/repos/bigdata/opennlp/tags/langdetect-183_RC1/leipzig/data/heb_wikipedia_2016_1M-sentences.txt
 words.txt - Mod9 ASR Engine,https://mod9.io/opt/mod9-asr/models/asr/en-US_phone/graph/words.txt
 https://rtrb.org/wordlists/rtrb-wordlist.txt,https://rtrb.org/wordlists/rtrb-wordlist.txt
+wordlist_long.txt - Sonoma State University,https://blue.cs.sonoma.edu/cs115/S17/proj/p3-files/wordlist_long.txt
+0112AM.txt,https://faculty.ncssm.edu/~morrison/JTerm2021/12Jan21/0112AM.txt
+otcwl-not-ospd5-all - Seattle Scrabble Club,http://www.seattlescrabble.org/data/ThemeLists/otcwl-not-ospd5-all-len.txt
+http://file.dreye.com/pub/newword/y/ec2008.txt,http://file.dreye.com/pub/newword/y/ec2008.txt
+words-scrambled.txt - Computer Science,https://cs.carleton.edu/faculty/jadrian/cs201/2014.1/hw/hw10-timing-collections/words-scrambled.txt
+"Full text of ""Removing the blind spots : raising awareness and ...",https://archive.org/stream/2019davisrobinedgell/2019-Davis-Robin-Edgell_djvu.txt
+OpenEnglishWordList.txt - UNM CS,https://www.cs.unm.edu/~joel/cs351/lab/OpenEnglishWordList.txt
+HERE - Computer Science,https://home.cs.colorado.edu/~jrblack/class/csci3104/f13/hw/wordlst.txt
+3,http://capybara.ijs.si/janez/teaching/textgarden/podatki/news.003.txt

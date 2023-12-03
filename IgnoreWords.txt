@@ -1558,6 +1558,7 @@ aphelions
 aphetic
 aphetically
 aphides
+aphis
 aphonia
 aphorise
 aphorised
@@ -3007,6 +3008,7 @@ befittingly
 beflag
 beflagged
 befleck
+befog
 befogged
 befogging
 befool
@@ -5196,6 +5198,7 @@ carolling
 carotids
 carotins
 carousals
+carouse
 carouses
 carp
 carpal
@@ -5620,6 +5623,7 @@ champaca
 champerties
 champertous
 champerty
+champignons
 champleve
 chams
 chance
@@ -6419,6 +6423,7 @@ cloy
 cloying
 clozapine
 cloze
+club
 clubable
 clubbers
 clubbish
@@ -7659,6 +7664,7 @@ cosmography
 cosmolined
 cosmological
 cosmologist
+cosmologists
 cosmopolitanism
 cosmos
 cosmotrons
@@ -8276,6 +8282,7 @@ culvert
 culverts
 cumbering
 cumbers
+cumbrances
 cumin
 cummerbund
 cummins
@@ -9180,6 +9187,7 @@ denationalized
 denaturants
 denaturation
 denazification
+denazifies
 dendriform
 dendrite
 dendroid
@@ -10136,6 +10144,7 @@ disoblige
 disordered
 disorderedness
 disorderly
+disorganization
 disorganized
 disorganizing
 disorientating
@@ -10579,6 +10588,7 @@ downstream
 downstroke
 downthrows
 downtime
+downtowner
 downtowns
 downwardness
 dowry
@@ -12152,6 +12162,7 @@ euglenid
 euglenoid
 euglobulin
 euhemerism
+euhemerist
 eukaryotic
 eulogise
 eulogist
@@ -16062,6 +16073,7 @@ hehs
 height
 heightening
 heightens
+heightisms
 heights
 heil
 heiling
@@ -16783,6 +16795,7 @@ humifications
 humiliating
 humiliation
 humilities
+humitures
 hummer
 hummers
 hummuses
@@ -17891,6 +17904,7 @@ injurers
 injustice
 inkberry
 inkblot
+inkier
 inkinesses
 inkjet
 inkle
@@ -18180,6 +18194,7 @@ intermedins
 intermetallic
 intermezzo
 interminable
+intermingling
 intermittences
 intermittency
 intermittently
@@ -18411,6 +18426,7 @@ iodism
 iodize
 iodizing
 iodopsin
+ioniums
 ionogenic
 ionogens
 ionone
@@ -18427,6 +18443,7 @@ irefully
 iridescent
 iris
 irk
+irking
 irks
 irksomeness
 iroko
@@ -19952,6 +19969,7 @@ lightening
 lighterage
 lightest
 lightfaced
+lightfaces
 lightfastnesses
 lighting
 lightly
@@ -20184,6 +20202,7 @@ loathful
 loathing
 loathnesses
 loathsomeness
+lob
 lobar
 lobate
 lobbied
@@ -20349,6 +20368,7 @@ loti
 lotic
 lotted
 lotter
+lotteries
 lottos
 lotuses
 loud
@@ -21852,6 +21872,7 @@ misassembling
 misassumptions
 misattributed
 misbalance
+misbalancing
 misbecame
 misbecome
 misbecomes
@@ -23244,6 +23265,7 @@ niccolite
 nicenesses
 nick
 nickel
+nickelodeons
 nickers
 nickled
 nickname
@@ -25925,6 +25947,7 @@ pecky
 pectin
 pectines
 pectinesterases
+pectins
 pectorals
 peculators
 peculiar
@@ -26579,6 +26602,7 @@ photosynthate
 photosynthesize
 phototubes
 phototypes
+phototypesetter
 photovoltaics
 phots
 phrasemaker
@@ -33054,6 +33078,7 @@ silviculture
 silviculturist
 simarubas
 similarities
+simmered
 simoleons
 simonists
 simonizes
@@ -35843,6 +35868,7 @@ synaloephas
 synanon
 synanons
 synapsed
+synapsid
 synaptosomal
 synaptosomes
 synarthrosis
@@ -37961,6 +37987,7 @@ twenty
 twerps
 twibills
 twiddle
+twiddler
 twiddly
 twigging
 twigless
@@ -38044,6 +38071,7 @@ ukuleles
 ulama
 ulcer
 ulcers
+ulexites
 ulnad
 ulnae
 ulpanim
@@ -38150,6 +38178,7 @@ unappreciated
 unappreciation
 unappreciations
 unappropriated
+unargued
 unarming
 unarms
 unasked
@@ -38680,6 +38709,7 @@ universalist
 universalistic
 universalists
 universalize
+universalizing
 universally
 universalness
 universities
@@ -38771,6 +38801,7 @@ unparliamentary
 unparted
 unpastoral
 unpaying
+unpeeled
 unpegged
 unpegs
 unpens
@@ -40145,6 +40176,7 @@ wedgie
 wedgy
 wedlocks
 weeded
+weediness
 weedlike
 weeks
 weens
@@ -40601,9 +40633,11 @@ wooded
 woodenly
 woodennesses
 woodgrain
+woodhens
 woodie
 woodiest
 woodlore
+woodlot
 woodman
 woodnote
 woodruff
@@ -40665,6 +40699,7 @@ wormwood
 wornnesses
 worriedly
 worrier
+worriers
 worrisomeness
 worrit
 worrits
