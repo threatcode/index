@@ -16,3 +16,12 @@ Hardness Ratio (txt),https://www.swift.psu.edu/monitoring/data_new/S51803%2B784/
 config.txt,http://bioinfo-out.curie.fr/projects/freec/src/config.txt
 minutesOct9-03.txt - Physics,http://physics.bu.edu/~brower/SciDAC/doc/minutesOct9-03.txt
 JAPIAU-93-11-9282-1.pdf.txt - University of Michigan Library,https://deepblue.lib.umich.edu/bitstream/2027.42/70350/3/JAPIAU-93-11-9282-1.pdf.txt
+NA12878_normal40x.gatk.pileup.txt - GitHub,https://github.com/nygenome/Conpair/blob/master/data/example/pileup/NA12878_normal40x.gatk.pileup.txt
+NA12878_normal40x.gatk.pileup.10lines.txt - GitHub,https://github.com/nygenome/Conpair/blob/master/data/example/pileup/NA12878_normal40x.gatk.pileup.10lines.txt
+DelphesTutorial_PileUp.txt - CERN Indico,https://indico.cern.ch/event/315979/attachments/606726/834935/DelphesTutorial_PileUp.txt
+https://space.mit.edu/cxc/docs/model_spatial_pileu...,https://space.mit.edu/cxc/docs/model_spatial_pileup_notes.txt
+samtools.txt,http://mtweb.cs.ucl.ac.uk/mus/mus/wei/applications/samtools-0.1.12a/samtools.txt
+https://space.mit.edu/home/dd/CasA/CasA_zo_pileup.txt,https://space.mit.edu/home/dd/CasA/CasA_zo_pileup.txt
+https://raw.githubusercontent.com/magicDGS/PoolHMM...,https://raw.githubusercontent.com/magicDGS/PoolHMM/master/README.txt
+https://heasarc.gsfc.nasa.gov/ftools/caldb/help/xi...,https://heasarc.gsfc.nasa.gov/ftools/caldb/help/xisgtigen.txt
+http://home.cc.umanitoba.ca/~psgendb/birchhomedir/...,http://home.cc.umanitoba.ca/~psgendb/birchhomedir/R/x86_64-redhat-linux-gnu-library/3.4/Rsamtools/unitTests/cases/pileup-no-stars.txt
