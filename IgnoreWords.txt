@@ -38,6 +38,7 @@ abreactions
 abreast
 abridger
 abrogable
+abrogating
 abrogation
 abrupter
 abruptest
@@ -5039,6 +5040,7 @@ candlelight
 candlelights
 candlepower
 candlestick
+candours
 candyfloss
 candying
 canebrake
@@ -5414,6 +5416,7 @@ castrator
 casual
 casually
 casuarinas
+casuistries
 casus
 cat
 catabolize
@@ -7313,6 +7316,7 @@ confiscating
 confiscators
 confiteor
 conflagrant
+conflated
 conflating
 conflations
 conflict
@@ -7482,6 +7486,7 @@ contemporizing
 contemptibility
 contemptuous
 contenting
+contentiousness
 contest
 contestant
 contextless
@@ -7760,6 +7765,7 @@ corporal
 corporates
 corporeality
 corpulency
+corpus
 corpuscle
 corpuscles
 corpuses
@@ -8119,6 +8125,7 @@ crankshafts
 crannogs
 cranreuchs
 crapelike
+craping
 crapper
 crappier
 crapshoot
@@ -9194,6 +9201,7 @@ deforce
 deforcement
 deforcer
 deforces
+deforests
 deformable
 deformalizes
 deformation
@@ -11733,6 +11741,7 @@ enables
 enactable
 enactments
 enalaprils
+enamelers
 enameller
 enamored
 enamors
@@ -13697,6 +13706,7 @@ flashtubes
 flatbreads
 flatfeet
 flatfish
+flatfishes
 flatirons
 flatland
 flatlanders
@@ -14782,6 +14792,7 @@ garrotted
 garrulous
 garrulously
 garrulousnesses
+garters
 garveys
 gasalier
 gascons
@@ -15513,6 +15524,7 @@ gramme
 gramophones
 grampa
 grams
+granary
 grand
 granddad
 granddads
@@ -16193,6 +16205,7 @@ hantles
 haphazards
 haphtarah
 haphtaras
+hapless
 haplessly
 haplessness
 haplessnesses
@@ -19583,6 +19596,7 @@ kilty
 kimchi
 kindergarten
 kindergartner
+kindest
 kindle
 kindled
 kindler
@@ -19600,6 +19614,7 @@ kingfisher
 kinghood
 kinglinesses
 kings
+kingship
 kingwood
 kingwoods
 kinkajous
@@ -20389,6 +20404,7 @@ lifelikeness
 lifelines
 lifemanship
 lifemanships
+lifesaver
 lifeway
 lift
 liftable
@@ -20802,6 +20818,7 @@ lordlings
 lords
 lorgnette
 lorgnon
+lorica
 loricate
 lories
 lorimer
@@ -20980,6 +20997,7 @@ lyes
 lying
 lyingly
 lymphangiogram
+lymphatics
 lymphoblast
 lymphoblastic
 lymphocytoses
@@ -22110,6 +22128,7 @@ microtonal
 microtonalities
 microtubule
 microwatt
+microwaves
 microworld
 micrurgy
 mics
@@ -22353,6 +22372,7 @@ misassemble
 misassembling
 misassumptions
 misattributed
+misaver
 misbalance
 misbalancing
 misbecame
@@ -23255,6 +23275,7 @@ murphy
 murr
 murrain
 murre
+murrey
 murreys
 murrha
 murries
@@ -23399,6 +23420,7 @@ mythopoeic
 myxamebas
 myxamoeba
 myxedema
+myxedemic
 myxoedemas
 myxomatoses
 myxomatous
@@ -23761,6 +23783,7 @@ newsroom
 newswire
 newsworthiness
 newsy
+ngultrums
 ngwee
 nib
 nibbing
@@ -25614,6 +25637,7 @@ overfearing
 overfertilizing
 overfill
 overfilling
+overflooded
 overflowed
 overfocussing
 overfoul
@@ -26050,6 +26074,7 @@ palmettos
 palmists
 palmitin
 palookas
+paloverde
 palpates
 palpators
 palpebrae
@@ -26883,6 +26908,7 @@ perp
 perpend
 perpetrate
 perpetrated
+perpetrating
 perpetration
 perpetuate
 perpetuated
@@ -27670,6 +27696,7 @@ pleonasms
 pleonastic
 pleonastically
 pleonic
+pleopods
 plesiosaur
 plethysmograms
 plethysmography
@@ -28395,6 +28422,7 @@ preexposes
 prefabbing
 prefabrication
 prefaced
+prefaces
 prefaded
 prefades
 prefatory
@@ -31126,6 +31154,7 @@ resewed
 resewn
 resews
 resharpen
+reshaven
 reshaves
 reshining
 reships
@@ -32608,6 +32637,7 @@ schizocarps
 schizogonous
 schizoid
 schizont
+schizophrenes
 schizophrenia
 schizos
 schlemihls
@@ -32818,6 +32848,7 @@ scruffiness
 scrummage
 scrummed
 scrunches
+scrunchie
 scrunching
 scrunchy
 scruple
@@ -33010,6 +33041,7 @@ seigneuries
 seigniories
 seigniory
 seignorial
+seiner
 seining
 seised
 seisins
@@ -33207,6 +33239,7 @@ sequacities
 sequelae
 sequelize
 sequelizes
+sequels
 sequence
 sequestered
 sequestrated
@@ -33558,6 +33591,7 @@ shockable
 shocks
 shoddy
 shoehorn
+shoehorned
 shoelace
 shoepacks
 shoepacs
@@ -37009,6 +37043,7 @@ tarried
 tarriers
 tarriest
 tars
+tarsal
 tarsi
 tartans
 tartarous
