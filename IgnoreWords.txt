@@ -779,6 +779,7 @@ alba
 albacores
 albatrosses
 albertites
+albinal
 albinisms
 albino
 albites
@@ -850,6 +851,7 @@ aliennesses
 alifs
 alightment
 align
+aligns
 aliment
 alimental
 alimented
@@ -1000,6 +1002,7 @@ amazes
 amazing
 amazon
 amazonians
+ambages
 ambassadorial
 ambassadresses
 ambergris
@@ -1293,6 +1296,7 @@ animalizes
 animated
 animately
 animatenesses
+animaters
 animates
 animation
 animator
@@ -1914,6 +1918,7 @@ armlock
 armorials
 armoring
 armory
+armourers
 armpits
 armure
 arnatto
@@ -3467,10 +3472,12 @@ bighted
 bigmouths
 bigness
 bignesses
+bigs
 bigstick
 bihourly
 bijective
 bike
+biker
 bikes
 bilanders
 bilbies
@@ -4263,6 +4270,7 @@ brachycephalic
 bracing
 bracket
 bracketing
+bracteole
 bracteoles
 bractless
 bractlet
@@ -4509,6 +4517,7 @@ broomcorns
 broomrapes
 brotherhoods
 brothering
+brotherlinesses
 brought
 brouhaha
 brouhahas
@@ -5185,6 +5194,7 @@ capaciousnesses
 capacitance
 capacitive
 capacitor
+caped
 capelan
 capelans
 capelet
@@ -9771,6 +9781,7 @@ desolators
 desorbs
 despaired
 despairs
+despatches
 despatching
 desperado
 desperados
@@ -9780,6 +9791,7 @@ despiritualized
 despite
 despitefully
 despiteous
+despiteously
 despiting
 despoil
 despoiled
@@ -11595,6 +11607,7 @@ eidetic
 eidetically
 eidola
 eidolic
+eigenvalues
 eightball
 eighteenths
 eighths
@@ -13372,6 +13385,7 @@ feased
 feasibilities
 feaster
 feastless
+feat
 featherbed
 featherbedding
 featheredging
@@ -13995,6 +14009,7 @@ flock
 flog
 floggable
 flogged
+flokati
 flong
 flood
 floodable
@@ -14199,6 +14214,7 @@ footrest
 footrests
 footsie
 footsies
+footslogged
 footslogger
 footsore
 footstalls
@@ -14733,6 +14749,7 @@ furmenties
 furmety
 furmity
 furnishers
+furnishing
 furores
 furors
 furosemide
@@ -19964,6 +19981,7 @@ knuckled
 knuckler
 knuckles
 knuckling
+knurlier
 knurs
 koalas
 kob
@@ -20662,6 +20680,7 @@ lifelines
 lifemanship
 lifemanships
 lifesaver
+lifetime
 lifeway
 lift
 liftable
@@ -22141,6 +22160,7 @@ mermaids
 mermen
 meropic
 merrymakings
+merrythought
 merrythoughts
 mesalliance
 mesas
@@ -24637,6 +24657,7 @@ nosedived
 nosedives
 noseguard
 noses
+nosewheel
 nosewheels
 nosh
 nosher
@@ -25087,6 +25108,7 @@ oldsquaws
 oleandomycins
 oleates
 olecranal
+olecranon
 olefins
 oleographs
 olestras
@@ -26421,6 +26443,7 @@ panbroils
 pancake
 pancetta
 pancratiums
+pancreozymins
 pandanus
 pandered
 panderer
@@ -27619,6 +27642,7 @@ pibal
 pibals
 pibroch
 pibrochs
+picadillos
 picador
 picaresque
 picaresques
@@ -31247,6 +31271,7 @@ remonstratively
 remontant
 remorid
 remoteness
+remotenesses
 remotivating
 remotivations
 remounting
@@ -31463,6 +31488,7 @@ repugning
 repulsing
 repulsiveness
 repurchases
+repurposed
 repursue
 reputably
 reputed
@@ -31760,6 +31786,7 @@ reticulation
 reticule
 retieing
 retightened
+retightening
 retightens
 retile
 retina
@@ -32924,6 +32951,7 @@ savouries
 savoys
 savvier
 savviest
+savvily
 savviness
 sawed
 sawflies
@@ -33284,6 +33312,7 @@ scuffles
 scuffs
 sculches
 sculked
+sculking
 sculks
 scullers
 scullery
@@ -34702,6 +34731,7 @@ smartens
 smartie
 smashing
 smatter
+smatterer
 smatterers
 smatters
 smazes
@@ -35989,6 +36019,7 @@ stobbing
 stoccatas
 stockades
 stockading
+stockbreeder
 stockbrokings
 stocked
 stockholder
@@ -37725,6 +37756,7 @@ telestic
 telestics
 teletext
 teletypewriter
+teletyping
 televangelism
 televangelist
 televiewer
@@ -38271,6 +38303,7 @@ tiepins
 tiercerons
 tiffanies
 tiffany
+tiffin
 tiffined
 tiffins
 tiger
@@ -38340,6 +38373,7 @@ tinstones
 tint
 tinter
 tinters
+tints
 tinwork
 tipcat
 tipcats
@@ -41152,6 +41186,7 @@ virilities
 virilizes
 virtuality
 virtue
+virtuous
 virtuously
 virus
 viruslike
