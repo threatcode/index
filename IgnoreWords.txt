@@ -1747,6 +1747,7 @@ aquafarm
 aqualungs
 aquamarines
 aquanauts
+aquaplanes
 aquaplaning
 aquarellists
 aquarian
@@ -2790,6 +2791,7 @@ barflies
 barfs
 bargain
 bargeboard
+barges
 barghest
 barging
 barhop
@@ -4212,6 +4214,7 @@ bowse
 bowsed
 bowshot
 bowstringing
+bowstrung
 bowwowed
 bowwowing
 bowwows
@@ -4695,6 +4698,7 @@ burgh
 burghers
 burglarize
 burglarized
+burglarizing
 burgled
 burgonets
 burgoos
@@ -5135,6 +5139,7 @@ canter
 cantered
 canthal
 canthus
+canticle
 cantilever
 cantillate
 cantillating
@@ -5952,6 +5957,7 @@ cheekinesses
 cheeking
 cheeky
 cheeped
+cheeping
 cheeps
 cheerer
 cheerers
@@ -6080,6 +6086,7 @@ chines
 chinky
 chinned
 chinoiseries
+chintzes
 chintzy
 chionodoxa
 chionodoxas
@@ -7346,6 +7353,7 @@ confabulatory
 confecting
 confectioner
 confectionery
+confederacy
 confederal
 confederated
 conferees
@@ -9154,6 +9162,7 @@ decommissions
 decompensated
 decompensates
 decompensation
+decompress
 decompression
 decompressions
 deconditioning
@@ -9425,6 +9434,7 @@ dematerializes
 deme
 dement
 dementednesses
+dementia
 dementing
 demerge
 demerged
@@ -11144,6 +11154,7 @@ duetted
 duetting
 duettists
 dufuses
+dugong
 duikers
 duit
 duked
@@ -12457,6 +12468,7 @@ estuarial
 esurience
 esurient
 etamins
+etape
 etapes
 etatisms
 etched
@@ -12978,6 +12990,7 @@ extruders
 extrusive
 extubate
 extubated
+exuberantly
 exuberated
 exudations
 exudative
@@ -13963,6 +13976,7 @@ flowerless
 flowingly
 flown
 flows
+flowstone
 flubber
 flubdubs
 fluctuates
@@ -15526,6 +15540,7 @@ goofball
 goofily
 goofing
 goofs
+googlies
 googly
 gooiest
 gooks
@@ -18179,6 +18194,7 @@ indexations
 indexer
 indexers
 indicate
+indicates
 indicating
 indicatively
 indict
@@ -19364,6 +19380,7 @@ jinking
 jinrikisha
 jinriksha
 jins
+jipijapa
 jitterier
 jiujitsus
 jiveass
@@ -20043,6 +20060,7 @@ lambent
 lambie
 lambiest
 lambkill
+lamblike
 lambskins
 lamebrained
 lamedhs
@@ -23866,6 +23884,7 @@ nescient
 nesses
 nestable
 nesters
+nesting
 nestler
 nestor
 nests
@@ -26674,6 +26693,7 @@ pavilioned
 pavins
 paviour
 paviours
+paviser
 pavisses
 pavlova
 pawed
@@ -26704,6 +26724,7 @@ peacekeeping
 peachblow
 peached
 peachier
+peaching
 peacing
 peacoat
 peacockiest
@@ -31269,6 +31290,7 @@ reptilian
 republicanisms
 republicanize
 republicanized
+republicanizing
 republicans
 republished
 republisher
@@ -31631,6 +31653,7 @@ retriever
 retrievers
 retrieving
 retroactions
+retrocession
 retrodict
 retrodictions
 retrofits
@@ -32048,6 +32071,7 @@ rockling
 rockroses
 rockshafts
 rococo
+rocs
 rodeoed
 rodmen
 rodomontade
@@ -32187,6 +32211,7 @@ roundish
 roundlet
 roundly
 roundsmen
+roundtrip
 roundup
 rouped
 roupier
@@ -32383,6 +32408,7 @@ saccharomyces
 sacculate
 sacerdotalist
 sachem
+sachems
 sackbuts
 sackers
 sackful
@@ -33015,6 +33041,7 @@ scrappiest
 scrapping
 scratchboard
 scratched
+scratches
 scratchiness
 scrawliest
 scrawny
@@ -33446,6 +33473,7 @@ sentimos
 sentinel
 sentinels
 sepal
+sepaline
 sepalled
 separability
 separably
@@ -35867,6 +35895,7 @@ storytellings
 stotin
 stotts
 stound
+stounding
 stounds
 stoures
 stouter
@@ -36964,6 +36993,7 @@ sympetaly
 symphonious
 symphoniously
 symposiarch
+symptoms
 syn
 synaereses
 synaestheses
@@ -37393,6 +37423,7 @@ teamworks
 teapot
 tearable
 tearaway
+teardowns
 teardrop
 teared
 tearer
@@ -39810,6 +39841,7 @@ ungracious
 ungraciousness
 ungratefulness
 ungreedy
+ungrouped
 unguents
 ungues
 unguessable
@@ -41765,6 +41797,7 @@ wiriness
 wirinesses
 wirings
 wirra
+wiseasses
 wisecracker
 wisecracking
 wised
@@ -41954,6 +41987,7 @@ worrit
 worrits
 worser
 worset
+worsets
 worshiper
 worshipless
 worshipper
@@ -42307,6 +42341,7 @@ zoos
 zoosporangium
 zoosporic
 zootier
+zootomists
 zooxanthellae
 zorilla
 zorillas
