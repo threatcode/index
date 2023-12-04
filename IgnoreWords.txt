@@ -374,6 +374,7 @@ admeasured
 admen
 administered
 administrant
+administrated
 administrators
 admirals
 admiralties
@@ -483,6 +484,7 @@ aegis
 aeonian
 aeonic
 aepyornis
+aepyornises
 aequorins
 aerated
 aerator
@@ -594,6 +596,7 @@ agatized
 agaves
 agaze
 agednesses
+ageism
 agelong
 agemate
 agencies
@@ -1813,6 +1816,7 @@ archiving
 archivists
 archivolt
 archon
+archons
 archosaurs
 archrival
 arcing
@@ -3269,6 +3273,7 @@ bespangle
 bespattering
 bespeaks
 bespectacled
+bespouse
 bespouses
 bespread
 besprinkle
@@ -3642,6 +3647,7 @@ blackdamps
 blackened
 blacker
 blackest
+blackhander
 blacking
 blackish
 blackjack
@@ -4630,6 +4636,7 @@ burans
 burble
 burbled
 burbly
+burbs
 burdened
 burdock
 bureaucracies
@@ -9324,6 +9331,7 @@ demerge
 demerged
 demerger
 demerit
+demes
 demesnes
 demeton
 demilune
@@ -10225,6 +10233,7 @@ discusses
 discussing
 diseased
 diseases
+disembark
 disembarked
 disembarking
 disembarrass
@@ -10373,6 +10382,7 @@ displeasure
 disploding
 displumed
 disposable
+disposed
 disposes
 dispossess
 dispossessions
@@ -10561,6 +10571,7 @@ dock
 docked
 docker
 dockhand
+dockmaster
 docks
 dockside
 doctoral
@@ -11008,6 +11019,7 @@ duckboard
 duckers
 ducktail
 ducktails
+duckwalked
 duckweed
 ductal
 ducted
@@ -11070,6 +11082,7 @@ dunged
 dungeon
 dungeoned
 dungeoning
+dunghill
 dungier
 dunked
 dunker
@@ -14803,6 +14816,7 @@ gauds
 gauffering
 gauged
 gault
+gaunt
 gaur
 gauziest
 gawked
@@ -17231,6 +17245,7 @@ hydrogen
 hydrogenase
 hydrogenates
 hydrogenating
+hydrogenation
 hydrogenations
 hydrographic
 hydrologic
@@ -24351,6 +24366,7 @@ nudenesses
 nudes
 nudie
 nudities
+nudity
 nudzhing
 nuggets
 nuke
@@ -24637,6 +24653,7 @@ offbeat
 offed
 offences
 offended
+offending
 offense
 offered
 offering
@@ -25116,6 +25133,7 @@ outbrawled
 outbrawling
 outbrazen
 outbred
+outbuilding
 outbullies
 outbullying
 outburnt
@@ -25895,6 +25913,7 @@ paddleballs
 paddleboard
 paddleboats
 paddocks
+paddy
 paddywacks
 padis
 padroni
@@ -26248,6 +26267,7 @@ parthenocarpies
 partial
 partials
 partibility
+participant
 participator
 particles
 particularly
@@ -27049,6 +27069,7 @@ phonated
 phonating
 phone
 phonemes
+phonemically
 phones
 phonetics
 phonically
@@ -28028,6 +28049,7 @@ postdiluvian
 postdivorce
 posteens
 postepileptic
+posterities
 posterity
 postern
 postexperience
@@ -29287,6 +29309,7 @@ pustular
 pustulating
 put
 putlog
+putlogs
 putonghua
 putons
 putridities
@@ -30545,6 +30568,7 @@ reichsmarks
 reif
 reigned
 reignite
+reignition
 reimaged
 reimagines
 reimaging
@@ -31162,6 +31186,7 @@ restages
 restamping
 restamps
 restartable
+restarting
 restated
 restatements
 resters
@@ -33263,6 +33288,7 @@ shadowiest
 shadrachs
 shaduf
 shagbark
+shagreen
 shahdoms
 shakeable
 shakeup
@@ -33891,6 +33917,7 @@ skibobbers
 skibobbing
 skidders
 skiddier
+skids
 skidway
 skidways
 skiffs
@@ -35361,6 +35388,7 @@ stickpins
 sticktight
 sticktights
 stickums
+stickweeds
 stiffie
 stifled
 stifler
@@ -35688,6 +35716,7 @@ stupidly
 stupor
 stuporous
 stupors
+sturdied
 sturdier
 sturgeons
 sturts
@@ -38145,6 +38174,7 @@ trammeling
 tramming
 tramontanes
 trampers
+trampiest
 trampler
 trampling
 trampoline
@@ -38389,6 +38419,7 @@ tricotine
 tricrotic
 trictrac
 trictracs
+tridactyl
 tridental
 triduums
 triennially
@@ -40685,6 +40716,7 @@ vulvitis
 vum
 vying
 wabbling
+wabbly
 wacker
 wackest
 wackier
@@ -41064,6 +41096,7 @@ whack
 whacked
 whackers
 whacks
+whaleback
 whalebacks
 whaled
 whalelike
@@ -41307,6 +41340,7 @@ windup
 windway
 windways
 wined
+winegrowers
 winepress
 wineshop
 wineskins
@@ -41619,6 +41653,7 @@ xenopuses
 xeroderma
 xerodermas
 xerographies
+xerophilies
 xerothermic
 xerotic
 xeroxes
