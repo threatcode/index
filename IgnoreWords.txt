@@ -422,6 +422,7 @@ adorned
 adorns
 adrenal
 adrenalectomies
+adrenalectomy
 adrenalin
 adrenalized
 adrenally
@@ -872,6 +873,7 @@ alkane
 alkenes
 alkine
 alkyd
+alkylating
 alkynes
 allayer
 allaying
@@ -922,6 +924,7 @@ allosauruses
 allosterically
 allosteries
 allostery
+allotetraploids
 allotropes
 allotters
 allotype
@@ -1356,6 +1359,7 @@ anoretic
 anorexias
 anorexic
 anorexics
+anorexy
 anorthite
 anorthitic
 anorthositic
@@ -3833,6 +3837,7 @@ blondness
 bloodfins
 bloodguilts
 bloodhounds
+bloodied
 bloodiness
 bloodinesses
 blooding
@@ -4447,6 +4452,7 @@ brininesses
 brins
 briny
 brioche
+briony
 brisances
 brisses
 bristle
@@ -7678,6 +7684,7 @@ controverter
 contumelies
 contumeliously
 contumely
+contuses
 contusions
 contusive
 conundrums
@@ -11676,6 +11683,7 @@ electrocutes
 electrodialyses
 electrodialysis
 electrofishing
+electrofishings
 electroform
 electroformed
 electrogeneses
@@ -13314,6 +13322,7 @@ farle
 farles
 farmhouses
 farmwife
+farmwives
 farmworks
 farnesses
 farraginous
@@ -15686,6 +15695,7 @@ gorier
 gorilla
 gorily
 goring
+gormand
 gormandizer
 gory
 gosh
@@ -16864,6 +16874,7 @@ hermeneutical
 hermetical
 hermetisms
 herms
+hern
 herniates
 herniation
 herniations
@@ -16901,6 +16912,7 @@ heterodyning
 heterogameties
 heterogamy
 heterogeneity
+heterogeneous
 heterokaryoses
 heterolyses
 heteronomies
@@ -17839,6 +17851,7 @@ ikebanas
 ileal
 ileitides
 ileostomies
+ilks
 ill
 illation
 illegalization
@@ -19031,6 +19044,7 @@ intraspecific
 intrauterine
 intravascularly
 intravitam
+intrenched
 intrepidity
 intrigue
 intro
@@ -22675,6 +22689,7 @@ mirror
 mirs
 mirthless
 mirthlessly
+misacted
 misacts
 misadapted
 misadding
@@ -22845,6 +22860,7 @@ mismanages
 mismarked
 mismoved
 mismoving
+misnomers
 misnumber
 misogamies
 misogynist
@@ -22911,6 +22927,7 @@ missounded
 misspace
 misspending
 misspent
+misspoke
 misstamps
 misstarts
 missteering
@@ -22924,6 +22941,7 @@ missy
 mistakable
 mistend
 misthrow
+misthrown
 misthrows
 mistier
 mistimed
@@ -23248,6 +23266,7 @@ moony
 moorfowl
 moorhen
 mooring
+moorings
 moorish
 moorwort
 mooted
@@ -23845,6 +23864,7 @@ narcisms
 narcissisms
 narcissistic
 narcissus
+narcists
 narcoleptics
 narcomata
 narcoses
@@ -24027,6 +24047,7 @@ neoplasticist
 neoplasty
 neoprene
 neostigmine
+neotenic
 neoteny
 nepenthean
 nephelines
@@ -25471,6 +25492,7 @@ oscillates
 oscillating
 oscillograph
 oscilloscope
+oscitant
 osculate
 osculatory
 oscule
@@ -26643,6 +26665,7 @@ parasitically
 parasitises
 parasitize
 parasitoid
+parasitoids
 parasitological
 parasitologist
 parasitosis
@@ -26745,6 +26768,7 @@ partridges
 parturients
 parvenu
 parvenus
+parvoline
 parvolins
 pas
 pase
@@ -28783,6 +28807,7 @@ preclusively
 precocious
 precocities
 precoded
+precoding
 precognitive
 precompute
 preconditioning
@@ -29837,6 +29862,7 @@ putridly
 putter
 puttered
 putterer
+putts
 puttylike
 puttyroot
 puzzlers
@@ -30913,6 +30939,7 @@ reendowed
 reendows
 reenforcing
 reengagement
+reengagements
 reengaging
 reengrave
 reengraved
@@ -31061,6 +31088,7 @@ regorges
 regorging
 regosol
 regrade
+regrades
 regreet
 regression
 regressivities
@@ -33651,6 +33679,7 @@ seminudities
 semiofficial
 semiologically
 semiology
+semioses
 semioticians
 semioticists
 semipros
@@ -35697,6 +35726,7 @@ squatter
 squattier
 squattiest
 squattily
+squatty
 squawbushes
 squawking
 squaws
@@ -37221,6 +37251,7 @@ swordplayer
 swordsmanship
 swordsmen
 swouns
+swung
 sybaritically
 sybaritism
 sybo
@@ -37367,6 +37398,7 @@ taber
 tabernacular
 tabers
 tabes
+table
 tablecloth
 tableless
 tablemates
@@ -38012,6 +38044,7 @@ tetracaine
 tetrachlorides
 tetrad
 tetradrachm
+tetradrachms
 tetradynamous
 tetragon
 tetrahedron
@@ -39329,6 +39362,7 @@ tubocurarine
 tubulating
 tubulator
 tubulin
+tubulins
 tubulose
 tubulous
 tuck
@@ -41044,6 +41078,7 @@ verbigeration
 verboseness
 verboten
 verdancy
+verdant
 verderers
 verderor
 verdin
