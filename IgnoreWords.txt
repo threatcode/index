@@ -118,6 +118,7 @@ accelerator
 accelerometers
 accented
 accenting
+accentor
 accents
 accentually
 accentuate
@@ -1536,6 +1537,7 @@ antipersonnel
 antiphonals
 antiphonies
 antipiracy
+antipleasure
 antipode
 antipole
 antipope
@@ -1968,6 +1970,7 @@ arrases
 arrayers
 arrays
 arrearages
+arrest
 arresting
 arrestive
 arrestment
@@ -2844,6 +2847,7 @@ bareness
 baresark
 barfing
 barflies
+barfly
 barfs
 bargain
 bargeboard
@@ -4197,6 +4201,7 @@ borneols
 borosilicates
 boroughs
 borrow
+borrowed
 borrowers
 borscht
 borts
@@ -4536,6 +4541,7 @@ brittler
 brittling
 britzskas
 broacher
+broadbeans
 broadbills
 broadcaster
 broadening
@@ -7417,6 +7423,7 @@ comraderies
 comte
 conation
 conatus
+concanavalin
 concatenating
 concatenation
 concealable
@@ -8020,6 +8027,7 @@ corral
 corralled
 corrals
 corrasion
+correct
 correctable
 corrections
 correctitude
@@ -8053,6 +8061,7 @@ corset
 corsetries
 corteges
 cortex
+cortically
 corticoid
 corticoids
 corticosteroids
@@ -8140,6 +8149,7 @@ couch
 couched
 couchers
 couchettes
+couchings
 cough
 coughed
 coughers
@@ -8530,6 +8540,7 @@ crisscrossing
 criteria
 criterions
 critical
+criticalities
 criticaster
 croakiest
 croakily
@@ -9292,6 +9303,7 @@ decedent
 deceitfulness
 deceivable
 deceived
+decelerated
 deceleration
 decemviral
 decemvirs
@@ -12279,6 +12291,7 @@ engulfment
 enhanced
 enhancers
 enigma
+enigmata
 enisle
 enisling
 enjambements
@@ -12307,6 +12320,7 @@ enmities
 enneagon
 ennoblement
 ennoblements
+ennoblers
 ennuye
 ennuyee
 enokitakes
@@ -12314,6 +12328,7 @@ enological
 enologies
 enols
 enormities
+enormousness
 enormousnesses
 enosises
 enounced
@@ -13113,6 +13128,7 @@ exorcising
 exorcists
 exorcizing
 exosmic
+exospheres
 exosporia
 exothermal
 exothermic
@@ -14163,6 +14179,7 @@ flatulency
 flatuses
 flatwash
 flatwashes
+flatwork
 flatworms
 flaunted
 flaunter
@@ -14996,6 +15013,7 @@ funniness
 funning
 furbearer
 furbelowing
+furbelows
 furcated
 furcately
 furcates
@@ -19380,6 +19398,7 @@ invar
 invariably
 invariance
 invariances
+invasion
 invasions
 invective
 inveigher
@@ -19921,6 +19940,7 @@ juggling
 jughead
 jugheads
 jugulum
+juice
 juicers
 juicy
 jujubes
@@ -22735,6 +22755,7 @@ microcopies
 microcosmos
 microcrystal
 microcultural
+microculture
 microcultures
 microcuries
 microcyte
@@ -23567,6 +23588,7 @@ monoxides
 monsoons
 monster
 monstrousnesses
+montadale
 montages
 montagnards
 montane
@@ -27478,6 +27500,7 @@ pelargonium
 pelerines
 pelite
 pellagras
+pellagrin
 pelletization
 pelletizations
 pelletized
@@ -29539,6 +29562,7 @@ pretermitting
 pretexted
 pretexting
 pretexts
+pretor
 pretorians
 pretrain
 pretreatments
@@ -29937,6 +29961,7 @@ prostacyclins
 prostatic
 prostheses
 prosthesis
+prosthetics
 prosthetist
 prosthodontics
 prostitutes
@@ -30834,7 +30859,9 @@ ratafees
 ratal
 rataplanning
 ratatats
+ratbag
 ratch
+ratcheted
 ratchets
 ratemeter
 ratepayer
@@ -30955,6 +30982,7 @@ realters
 realtor
 reamed
 reamers
+reanalyzed
 reanimate
 reanimated
 reanimates
@@ -32037,6 +32065,7 @@ reproduction
 reproductions
 reprogrammable
 reprograms
+reprographer
 reprographic
 reprographies
 reproofs
@@ -33585,6 +33614,7 @@ scalariformly
 scalations
 scalawags
 scald
+scalded
 scaldic
 scales
 scaleups
@@ -35156,6 +35186,7 @@ skua
 skulduggeries
 skulked
 skulkers
+skulks
 skulling
 skunk
 skunkier
@@ -37927,6 +37958,7 @@ synchronism
 synchronistic
 synchronizes
 synchronously
+synchrony
 synchs
 synclinal
 syncoms
@@ -40028,6 +40060,7 @@ tump
 tumping
 tumuli
 tumulose
+tumults
 tumulus
 tumuluses
 tun
@@ -40273,6 +40306,7 @@ ultraorthodox
 ultrapractical
 ultrarealistic
 ultrarightist
+ultrasharp
 ultraslick
 ultrasmall
 ultrasoft
@@ -42099,6 +42133,7 @@ vomitous
 voodooists
 voraciousness
 voraciousnesses
+vortically
 vorticellae
 vortices
 vorticism
