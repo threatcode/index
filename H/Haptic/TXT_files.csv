@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/platform/msm/qpnp-haptic.txt,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.1.1_r0.6/Documentation/devicetree/bindings/platform/msm/qpnp-haptic.txt
+regulator-haptic.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/input/regulator-haptic.txt
+samples/demo/haptic-assessment/README.txt - Google Git,https://android.googlesource.com/platform/frameworks/base/%2B/refs/heads/android14-s1-release/samples/demo/haptic-assessment/README.txt
+qti-haptics.txt - GitHub,https://github.com/BeastRoms-Devices/kernel_realme_RMX1927/blob/master/Documentation/devicetree/bindings/input/qti-haptics.txt
+https://web.stanford.edu/group/resna/Tidbits/2014/...,https://web.stanford.edu/group/resna/Tidbits/2014/haptic-target.txt
+draft-ietf-mediaman-haptics-05.txt,https://www.ietf.org/archive/id/draft-ietf-mediaman-haptics-05.txt
+leds-qpnp-haptics.txt - GitHub,https://github.com/arter97/android_kernel_realme_sdm710/blob/master/Documentation/devicetree/bindings/leds/leds-qpnp-haptics.txt
+https://www.ietf.org/id/draft-hsyang-avtcore-rtp-h...,https://www.ietf.org/id/draft-hsyang-avtcore-rtp-haptics-00.txt
+Documentation/devicetree/bindings/input/regulator-haptic.txt ...,https://gerrit.aospa.co/plugins/gitiles/AOSPA/android_kernel_oneplus_sm8250/%2B/73b4f63aebd6d57db4ca1d31fa6f8516651207b0/Documentation/devicetree/bindings/input/regulator-haptic.txt
+demo instructions. - Carnegie Mellon Computer Graphics,http://graphics.cs.cmu.edu/projects/defoContact/demo/instructions.txt
