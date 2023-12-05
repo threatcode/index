@@ -363,6 +363,7 @@ adiposis
 adjacence
 adjacency
 adjectivally
+adjoined
 adjournments
 adjudicating
 adjudicative
@@ -2635,6 +2636,7 @@ baffy
 bagasse
 bagful
 baggers
+baggie
 baggier
 bagginesses
 baggy
@@ -4466,6 +4468,7 @@ briny
 brioche
 briony
 brisances
+brislings
 brisses
 bristle
 bristling
@@ -9936,6 +9939,7 @@ deva
 devalue
 devalued
 devalues
+devastate
 deveined
 develop
 developer
@@ -10311,6 +10315,7 @@ diplotenes
 dipnetting
 dipnoans
 dipodies
+dipolar
 dipped
 dippier
 dippiness
@@ -10684,6 +10689,7 @@ distantnesses
 distastefulness
 distenders
 distensible
+distich
 distichous
 distil
 distillation
@@ -11046,6 +11052,7 @@ downtime
 downtowner
 downtowns
 downwardness
+downzones
 dowry
 dowsing
 doxology
@@ -12811,6 +12818,7 @@ exampled
 exampling
 exanimate
 exanthema
+exanthemata
 exapted
 exarchal
 exarchy
@@ -13228,6 +13236,7 @@ facultative
 faddy
 fadeaways
 fadging
+fading
 fadings
 fadlike
 fads
@@ -14213,6 +14222,7 @@ foehn
 foeman
 foes
 foetor
+fogbows
 fogey
 foggier
 foggiest
@@ -16227,6 +16237,7 @@ gunships
 gunshot
 gunslingers
 gurged
+gurgle
 gurnard
 gurneys
 gursh
@@ -16323,6 +16334,7 @@ haematal
 haematin
 haemins
 haems
+haes
 haets
 haffits
 hafiz
@@ -16585,6 +16597,7 @@ hashes
 haslet
 hassled
 hassles
+hasten
 hastes
 hatcheck
 hatchecks
@@ -16631,6 +16644,7 @@ hawkshaws
 hawkweed
 hawsers
 hawthorn
+hawthorny
 hay
 haying
 hayrides
@@ -16720,6 +16734,7 @@ hebetating
 hebetic
 hebraizations
 hebraized
+hebraizes
 heckling
 hecticly
 hectograph
@@ -16829,6 +16844,7 @@ hemispherical
 hemmer
 hemocytes
 hemodialysis
+hemoflagellates
 hemoglobin
 hemoglobinurias
 hemolymphs
@@ -21594,6 +21610,7 @@ malihinis
 malingers
 malison
 malkin
+malleus
 mallows
 malls
 malmseys
@@ -23589,6 +23606,7 @@ multifold
 multigenic
 multigrade
 multijet
+multilayer
 multilayered
 multilingual
 multimegawatt
@@ -26154,6 +26172,7 @@ overloaded
 overlooks
 overlording
 overlordship
+overlush
 overmanages
 overmannered
 overmantels
@@ -26495,6 +26514,7 @@ palatial
 palaver
 palavering
 palazzi
+paleae
 paleal
 paleobiological
 paleobiologies
@@ -28080,6 +28100,7 @@ planers
 planeside
 planet
 planetoid
+planetological
 planets
 planetwide
 plangent
@@ -29149,6 +29170,7 @@ presynaptically
 pretaped
 pretaping
 pretasting
+pretell
 pretence
 pretences
 pretender
@@ -31735,6 +31757,7 @@ resharpen
 reshaven
 reshaves
 reshining
+reshippers
 reships
 reshod
 reshoed
@@ -31897,6 +31920,7 @@ resurgences
 resurrectional
 resurveying
 resuscitating
+resuscitators
 resuspend
 resuspends
 reswallows
@@ -32939,6 +32963,7 @@ sandalled
 sandbagger
 sandbar
 sandbars
+sandboxes
 sandbur
 sandburrs
 sandcracks
@@ -33665,6 +33690,7 @@ seismically
 seismographers
 seismographs
 seismography
+seismological
 seisor
 seitans
 seized
@@ -33903,6 +33929,7 @@ sermonizes
 seroconversion
 serologically
 serologies
+serologists
 serology
 serosal
 serosity
@@ -33987,6 +34014,7 @@ shackles
 shacko
 shad
 shadchans
+shade
 shaded
 shader
 shadier
@@ -35025,6 +35053,7 @@ snippets
 snippety
 snippily
 snippy
+snitched
 snitchers
 snits
 snivelers
@@ -36542,6 +36571,7 @@ subclinical
 subclinically
 subclustering
 subcollections
+subcommissions
 subcommittee
 subcomponent
 subconscious
@@ -38298,6 +38328,7 @@ thingummy
 think
 thinkable
 thinkings
+thionic
 thiotepa
 thiourea
 thioureas
@@ -39171,6 +39202,7 @@ triangulates
 triangulating
 triangulation
 triathlete
+triathlons
 triaxial
 triaxialities
 triaxiality
@@ -39472,6 +39504,7 @@ tugboat
 tugless
 tuitional
 tularemia
+tularemias
 tumbledown
 tumblerful
 tumblerfuls
@@ -39645,6 +39678,7 @@ tyning
 typebars
 typecast
 typefounding
+typesetters
 typesetting
 typestyles
 typewrite
@@ -42101,6 +42135,7 @@ whomso
 whoofing
 whooped
 whoopie
+whooplas
 whoosh
 whoosis
 whop
