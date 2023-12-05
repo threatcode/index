@@ -27,3 +27,13 @@ svn.kolmisoft.com/mor/install_script/trunk/x9/db/m...,http://svn.kolmisoft.com/m
 NetXMS: sql/dbinit_sqlite.sql - Fossies,https://fossies.org/linux/netxms/sql/dbinit_sqlite.sql
 47.95.231.203:8082/shared/hospital_gangchang.sql,http://47.95.231.203:8082/shared/hospital_gangchang.sql
 jgouari.free.fr/phpshop/db/phpshop.sql,http://jgouari.free.fr/phpshop/db/phpshop.sql
+iso-country-codes.sql - GitHub,https://github.com/snowplow/snowplow/blob/master/5-data-modeling/reference-data/redshift/iso-country-codes.sql
+iso-3166-country-codes/countries.sql at master - GitHub,https://github.com/Svish/iso-3166-country-codes/blob/master/countries.sql
+http://svn.apache.org/repos/asf/sis/data/non-free/...,http://svn.apache.org/repos/asf/sis/data/non-free/sis-epsg/src/main/resources/org/apache/sis/referencing/factory/sql/epsg/Data.sql
+https://kg-hub.berkeleybop.io/kg-idg/20211207/raw/...,https://kg-hub.berkeleybop.io/kg-idg/20211207/raw/tcrd.sql
+http://svn.kolmisoft.com/mor/install_script/trunk/...,http://svn.kolmisoft.com/mor/install_script/trunk/x9/db/mor.sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+09 Database scripts/M4EU DB/E-myb schema myb v2020.3/03 ...,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/5b58cd7260bf866eabb1c2182604e624dd8addb3/09%2520Database%2520scripts/M4EU%2520DB/E-myb%2520schema%2520myb%2520v2020.3/03%2520emyb%2520myb%2520codelist%2520v2020.3.sql
+Source de migration_collab.sql - collaboratif - Bitbucket Kosmos,https://git.kosmos.fr/projects/EXTENSION/repos/collaboratif/browse/migration/migration_collab.sql%3Fat%3D2655cd8b42079d4b3e62762815d05ceffd7f36f1
+static-info-tables/ext_tables_static+adt.sql at php-8 - static-info ...,https://codeberg.org/websi/static-info-tables/src/branch/php-8/ext_tables_static%2Badt.sql
+http://www.dcs.fmph.uniba.sk/~rjasko/db/db6/world.sql,http://www.dcs.fmph.uniba.sk/~rjasko/db/db6/world.sql
