@@ -918,6 +918,7 @@ allodial
 allodium
 allografted
 allometry
+allomorph
 allomorphs
 allophones
 allopolyploid
@@ -1160,6 +1161,7 @@ an
 ana
 anabaenas
 anablepses
+anabolic
 anachronic
 anachronisms
 anachronous
@@ -2945,6 +2947,7 @@ batch
 batches
 bateau
 bathetic
+bathhouse
 bathless
 bathtub
 bathymetric
@@ -3386,6 +3389,7 @@ bethumps
 betrayed
 betrothed
 betta
+bettas
 better
 betterment
 betterments
@@ -3850,6 +3854,7 @@ blockbusted
 blockers
 blockheads
 blocks
+blog
 blogs
 blond
 blondining
@@ -8434,6 +8439,7 @@ cringed
 cringers
 crinites
 crinkle
+crinkled
 crinklier
 crinoidal
 crinolined
@@ -9184,6 +9190,7 @@ debuting
 decadently
 decagonal
 decahedron
+decal
 decalcifying
 decalcomania
 decalcomanias
@@ -11811,6 +11818,7 @@ elicitations
 elicited
 eligible
 eliminate
+eliminations
 eliminators
 ellipsoids
 ells
@@ -13464,6 +13472,7 @@ fattens
 fatter
 fatuities
 fatwood
+faucal
 faucial
 fauld
 fault
@@ -13746,6 +13755,7 @@ fierier
 fieriest
 fierinesses
 fiery
+fifteenth
 fifth
 fifthly
 fifths
@@ -16964,6 +16974,7 @@ heresiarchs
 heretically
 heretrices
 hereunto
+herewith
 heriot
 heritabilities
 heritably
@@ -17091,6 +17102,7 @@ hifalutin
 higgle
 high
 highballed
+highboys
 highbrows
 highlands
 highlighted
@@ -17520,6 +17532,7 @@ hryvnias
 hub
 hubbies
 hubbub
+hubcap
 hubris
 hucks
 huckster
@@ -18278,6 +18291,7 @@ incardinations
 incarnadines
 incarnate
 incarnates
+incarnating
 incarnations
 incases
 incasing
@@ -18289,6 +18303,7 @@ incent
 incenter
 inceptions
 inceptively
+inceptor
 incepts
 incessancies
 incessancy
@@ -18316,6 +18331,7 @@ incited
 incitement
 inciters
 incivilities
+inclemency
 inclement
 inclinations
 incline
@@ -18763,6 +18779,7 @@ inosites
 inpatients
 inpour
 inpoured
+inquiets
 inquietude
 inquietudes
 inquilines
@@ -20548,6 +20565,7 @@ layup
 laywomen
 lazarettes
 laze
+lazes
 lazies
 lazinesses
 lazurite
@@ -21305,6 +21323,7 @@ lovesick
 lovesickness
 lovingly
 lovingness
+lovingnesses
 lowborn
 lowboys
 lowercased
@@ -22882,6 +22901,7 @@ misconceives
 misconducting
 misconducts
 misconnect
+misconnections
 misconstruction
 misconstrued
 miscount
@@ -23957,6 +23977,7 @@ nakedness
 nakednesses
 naled
 nalorphines
+namaycushes
 name
 nameable
 namelessnesses
@@ -24012,6 +24033,7 @@ narrownesses
 narthex
 narwal
 narwhale
+nasalized
 nasally
 nascent
 naseberries
@@ -25408,6 +25430,7 @@ oozing
 op
 opacified
 opah
+opalescently
 opalesces
 opaque
 opaquenesses
@@ -26702,6 +26725,7 @@ pant
 pantalones
 pantdresses
 panted
+panties
 pantingly
 pantoffles
 pantofles
@@ -26767,6 +26791,7 @@ paragraphic
 paragraphing
 paragraphs
 parainfluenza
+parainfluenzas
 parajournalism
 paralanguages
 paralinguistics
@@ -26811,6 +26836,7 @@ parasitic
 parasitical
 parasitically
 parasitises
+parasitism
 parasitize
 parasitoid
 parasitoids
@@ -31859,6 +31885,7 @@ reshot
 reshuffle
 resid
 residence
+resident
 resider
 residers
 residua
@@ -32073,6 +32100,7 @@ retinoid
 retinoscopy
 retinting
 retints
+retired
 retirednesses
 retitle
 retook
@@ -32367,6 +32395,7 @@ rifeness
 rifer
 riffle
 riffles
+riffraffs
 riflebird
 riflemen
 rifleries
@@ -33179,6 +33208,7 @@ satchelsful
 satem
 satiate
 satirists
+satis
 satisficed
 satisfied
 satrap
@@ -34093,6 +34123,7 @@ sextarii
 sextette
 sextettes
 sextile
+sexto
 sextodecimos
 sextos
 sexts
@@ -40041,6 +40072,7 @@ unburnt
 unbusy
 unbutton
 uncages
+uncaging
 uncalcined
 uncalibrated
 uncanniest
@@ -40791,11 +40823,13 @@ untainted
 untaken
 untangling
 untarnished
+untaught
 unteach
 untempered
 untenability
 untended
 untenured
+untestable
 untethers
 unthanked
 untheoretical
@@ -42692,6 +42726,7 @@ xenogeny
 xenon
 xenophiles
 xenophobe
+xenophobes
 xenopuses
 xeroderma
 xerodermas
