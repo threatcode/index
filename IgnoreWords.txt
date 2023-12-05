@@ -2884,6 +2884,7 @@ barytas
 baryton
 basalt
 basaltic
+basaltine
 baseboard
 baseborn
 based
@@ -4061,6 +4062,7 @@ bonk
 bonneting
 bonnily
 bonnocks
+bonspells
 bontebok
 bonze
 bonzes
@@ -4491,6 +4493,7 @@ brochette
 brocolis
 brogan
 broiling
+brokages
 brokenhearted
 brokennesses
 brokerage
@@ -4956,6 +4959,7 @@ cahows
 caiques
 caird
 cairns
+caitiffs
 cajeputs
 cajoler
 cajolers
@@ -5066,6 +5070,7 @@ camarilla
 camas
 camass
 cambism
+cambist
 camellia
 cameo
 cameral
@@ -6578,6 +6583,7 @@ cleaves
 cleek
 cleeked
 cleeking
+cleistogamic
 clemency
 clement
 clench
@@ -6698,6 +6704,7 @@ clubable
 clubbers
 clubbish
 clubfaces
+clubhauled
 clubhauls
 clubheads
 clubhouses
@@ -8248,6 +8255,7 @@ craftiness
 craftinesses
 craftsmanly
 craftswomen
+craftworks
 crag
 craggier
 cragginesses
@@ -10272,6 +10280,7 @@ diphtheroid
 diphtheroids
 diphthong
 diphthongize
+diphthongizing
 diphthongs
 diphyletic
 diphyodont
@@ -10334,6 +10343,7 @@ disadvantage
 disadvantaging
 disaffect
 disaffection
+disaffects
 disaffiliation
 disaffirmance
 disaffirmances
@@ -11056,6 +11066,7 @@ dragon
 dragonet
 dragonflies
 dragonheads
+dragooning
 drainage
 drained
 drainer
@@ -12804,6 +12815,7 @@ exceedingly
 exceeds
 excels
 excepting
+exception
 exceptionable
 exceptional
 exceptionalisms
@@ -13373,6 +13385,7 @@ fatalistic
 fatefully
 fates
 fathead
+fatheaded
 fathered
 fatherlike
 fatherliness
@@ -16707,6 +16720,7 @@ heedless
 heeds
 heehaw
 heel
+heelpieces
 heelplates
 heezes
 heezing
@@ -17300,6 +17314,7 @@ hopelessnesses
 hophead
 hoplites
 hopper
+hopping
 hoppings
 hopsack
 hopsacking
@@ -19187,6 +19202,7 @@ irateness
 iratenesses
 ired
 irefully
+iridescence
 iridescent
 iridic
 iris
@@ -20644,6 +20660,7 @@ leukoplakic
 leukopoiesis
 leukosis
 levanters
+levanting
 levatores
 levee
 level
@@ -21531,6 +21548,7 @@ maladjustments
 maladroit
 maladroits
 malady
+malanders
 malapertness
 malapertnesses
 malapropian
@@ -22140,6 +22158,7 @@ memorialists
 memorialize
 memorializes
 memorializing
+memorials
 memorizers
 memorizes
 memos
@@ -23803,6 +23822,7 @@ myxamebas
 myxamoeba
 myxedema
 myxedemic
+myxocytes
 myxoedemas
 myxomatoses
 myxomatous
@@ -23819,6 +23839,7 @@ naething
 naff
 naffing
 nag
+nagana
 naggers
 naggier
 nags
@@ -23872,6 +23893,7 @@ napoleon
 napper
 nappes
 nappy
+narc
 narcein
 narceine
 narcisms
@@ -24375,6 +24397,7 @@ nonbelief
 nonbeliever
 nonbelievers
 nonbelligerents
+nonbiographical
 nonbonding
 nonbotanists
 nonbreeders
@@ -25422,6 +25445,7 @@ organization
 organizational
 organs
 organum
+organza
 orgic
 orgulous
 orientalisms
@@ -26070,6 +26094,7 @@ overgrows
 overhand
 overhanding
 overhanging
+overharvest
 overharvests
 overhasty
 overhates
@@ -26364,6 +26389,7 @@ ozonize
 ozonized
 ozonospheres
 pablums
+paca
 pacas
 pace
 paced
@@ -26722,6 +26748,7 @@ paretics
 parfleches
 parfocal
 pargylines
+paries
 parishioner
 parkettes
 parkings
@@ -27625,6 +27652,7 @@ photochemist
 photochromic
 photochromism
 photocomposer
+photocomposing
 photocurrent
 photodiodes
 photodissociate
@@ -29072,6 +29100,7 @@ presignalled
 preslice
 presoaks
 presolving
+presong
 presort
 presorting
 prespecify
@@ -35347,6 +35376,7 @@ sown
 sox
 soy
 soyas
+soyuz
 sozine
 spacecrafts
 spaced
@@ -38868,6 +38898,7 @@ tractions
 tractive
 tradecraft
 trademark
+trademarked
 tradeoffs
 tradescantias
 tradespeople
@@ -39482,6 +39513,7 @@ turgency
 turgite
 turgites
 turmoils
+turnabout
 turnbuckles
 turndown
 turndowns
@@ -39862,6 +39894,7 @@ unchokes
 unchoking
 unchurch
 unchurching
+unchurchly
 uncia
 unciae
 unciform
@@ -40815,6 +40848,7 @@ usage
 usaunces
 useably
 useful
+username
 users
 uses
 usquabae
@@ -41172,6 +41206,7 @@ vestee
 vestees
 vestiaries
 vestiary
+vestibules
 vestiges
 vestigial
 vestigium
