@@ -872,6 +872,7 @@ aliments
 aliquant
 aliteracy
 aliterates
+alizarin
 alkahest
 alkali
 alkalies
@@ -879,6 +880,7 @@ alkalified
 alkalifies
 alkalinities
 alkalis
+alkalotic
 alkane
 alkenes
 alkine
@@ -1059,6 +1061,7 @@ ameliorates
 ameliorating
 ameliorator
 amen
+amenable
 amenably
 amended
 amenities
@@ -3853,6 +3856,7 @@ blastocoel
 blastocoels
 blastomycosis
 blastospores
+blasts
 blastulation
 blat
 blatant
@@ -5597,6 +5601,7 @@ cartulary
 cartwheeling
 cartwheels
 caruncle
+carvacrols
 carvels
 carven
 carvers
@@ -6174,6 +6179,7 @@ cheeriness
 cheerleader
 cheerleading
 cheesecloths
+cheesed
 cheeses
 cheesinesses
 cheesy
@@ -6586,6 +6592,7 @@ circumspect
 circumspections
 circumspectly
 circumventing
+circumvents
 cirques
 cirrus
 ciscoes
@@ -10233,6 +10240,7 @@ dextranase
 dextrans
 dextro
 dextrous
+dexy
 dezinced
 dezincs
 dhaks
@@ -10474,6 +10482,7 @@ dimers
 dimidiating
 diminuendo
 diminutive
+diminutively
 dimmable
 dimmed
 dimmers
@@ -10963,6 +10972,7 @@ distress
 distressed
 distressfulness
 distributaries
+distribute
 distributee
 distributes
 districted
@@ -11498,6 +11508,7 @@ drupelet
 dryad
 dryads
 dryasdusts
+dryer
 dryers
 dryest
 dryish
@@ -12056,6 +12067,7 @@ eligible
 eliminate
 eliminations
 eliminators
+elint
 ellipsoids
 ells
 elmier
@@ -12197,6 +12209,7 @@ emmers
 emmet
 emmetrope
 emmets
+emodin
 emoted
 emoticons
 emotionalist
@@ -12741,6 +12754,7 @@ equipollence
 equipollences
 equiponderant
 equipper
+equipping
 equips
 equitant
 equitations
@@ -13833,6 +13847,7 @@ feel
 feelers
 feelingnesses
 feetfirst
+feetless
 feigners
 feint
 feinted
@@ -14996,6 +15011,7 @@ fritillaries
 frittatas
 fritts
 frivol
+frivolities
 frivolling
 frivolously
 frivols
@@ -16196,6 +16212,7 @@ grainless
 grainy
 gramicidin
 graminivorous
+grammatically
 grammaticalness
 gramme
 gramophones
@@ -19681,6 +19698,7 @@ iridescent
 iridic
 iris
 irk
+irked
 irking
 irks
 irksomeness
@@ -21200,6 +21218,7 @@ lexicalize
 lexicalized
 lexicalizing
 lexically
+lexicographers
 lexicon
 lez
 liable
@@ -21347,6 +21366,7 @@ limiteds
 limitlessly
 limits
 limnetic
+limnic
 limnology
 limo
 limousines
@@ -21692,6 +21712,7 @@ lorded
 lording
 lordlier
 lordlings
+lordotic
 lords
 lorgnette
 lorgnon
@@ -22061,6 +22082,7 @@ majorly
 make
 makefast
 makeovers
+makeready
 makeweight
 makeweights
 makimonos
@@ -24927,6 +24949,7 @@ noblewoman
 noblewomen
 nobodies
 nobs
+noctambulist
 noctambulists
 noctuids
 nocturn
@@ -25091,6 +25114,7 @@ nonenergy
 nonenforcement
 nonengineering
 nonentity
+nonenzymatic
 nonequilibriums
 nonestablished
 nonesuch
@@ -27178,6 +27202,7 @@ palpators
 palpebrae
 palpebral
 palped
+palpitations
 palter
 paltered
 paltrily
@@ -27416,6 +27441,7 @@ parodists
 parody
 parolable
 paroled
+paroling
 parols
 paronymous
 parosmia
@@ -29290,6 +29316,7 @@ posses
 possess
 possessedly
 possession
+possessional
 possessiveness
 possessory
 possiblest
@@ -33244,6 +33271,7 @@ rondeaux
 rondelets
 rondels
 rondo
+rondures
 ronion
 ronnels
 roofed
@@ -34620,6 +34648,7 @@ sensationalized
 sensed
 senseful
 sensei
+senselessness
 sensiblenesses
 sensibles
 sensiblest
@@ -35602,6 +35631,7 @@ sleeking
 sleekness
 sleeknesses
 sleeks
+sleepier
 sleepiness
 sleeping
 sleepings
@@ -38084,6 +38114,7 @@ surreptitiously
 surrey
 surround
 surtax
+surtaxes
 surtitles
 surveilling
 survey
@@ -38326,6 +38357,7 @@ synchronism
 synchronistic
 synchronizes
 synchronously
+synchronousness
 synchrony
 synchs
 synclinal
@@ -41460,6 +41492,7 @@ unpretty
 unpriced
 unprivileged
 unproduced
+unproductive
 unprofessionals
 unprogrammable
 unprovable
@@ -41948,6 +41981,7 @@ vaguest
 vainglorious
 vainglory
 vainnesses
+valanced
 valances
 valedictorian
 valedictories
@@ -42789,6 +42823,7 @@ waterbuck
 waterbucks
 waterbuses
 watercourse
+watercourses
 waterer
 waterers
 waterfall
