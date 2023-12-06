@@ -367,6 +367,7 @@ adjacency
 adjectivally
 adjoined
 adjournments
+adjudges
 adjudicating
 adjudicative
 adjuration
@@ -1984,6 +1985,7 @@ arrest
 arresting
 arrestive
 arrestment
+arrestments
 arrived
 arrivers
 arriving
@@ -2749,6 +2751,7 @@ balletomanias
 ballhandlings
 ballista
 ballistae
+ballistically
 ballonets
 ballonne
 ballonnes
@@ -3560,6 +3563,7 @@ bike
 biked
 biker
 bikes
+bikie
 bilanders
 bilbies
 bilbo
@@ -6009,6 +6013,7 @@ chandlery
 change
 changeable
 changeful
+changefully
 changefulness
 changeling
 changes
@@ -8185,6 +8190,7 @@ cottar
 cottars
 cotterless
 cottoning
+cottonmouth
 cottony
 coturnixes
 cotyledons
@@ -9912,6 +9918,7 @@ depthless
 depths
 depurated
 depurator
+deputed
 deputizations
 deputize
 deputized
@@ -10157,6 +10164,7 @@ devoices
 devolutions
 devolve
 devotees
+devour
 devoured
 devouter
 devoutest
@@ -12229,6 +12237,7 @@ enclosers
 encoder
 encomia
 encomiast
+encore
 encored
 encoring
 encounter
@@ -14483,6 +14492,7 @@ focusless
 foehn
 foeman
 foes
+foetal
 foetor
 fogbows
 fogey
@@ -15660,6 +15670,7 @@ gillnet
 gills
 gilly
 gilts
+gimbal
 gimbaling
 gimballed
 gimcrackery
@@ -15734,6 +15745,7 @@ glarier
 glaring
 glaringnesses
 glassblower
+glassblowers
 glassblowing
 glasses
 glasshouses
@@ -16021,6 +16033,7 @@ gooseneck
 goosiest
 gorbelly
 gorcock
+gore
 gored
 gorgeousness
 gorgets
@@ -16121,6 +16134,7 @@ granary
 grand
 granddad
 granddads
+granddaughter
 grandeur
 grandfathering
 grandfatherly
@@ -19103,6 +19117,7 @@ insincerities
 insinuate
 insinuative
 insinuator
+insipidly
 insistent
 insists
 insolations
@@ -22422,6 +22437,7 @@ maziness
 mazing
 mazourka
 mazuma
+mazumas
 mazy
 mbaqangas
 mead
@@ -22504,6 +22520,7 @@ megacycle
 megafauna
 megafaunal
 megafaunas
+megalithic
 megaloblastic
 megaloblasts
 megalomaniac
@@ -26062,6 +26079,7 @@ osteal
 osteitis
 ostensoria
 ostensorium
+osteologies
 osteologist
 osteology
 osteoma
@@ -26178,6 +26196,7 @@ outdebating
 outdeliver
 outdesign
 outdoers
+outdoing
 outdone
 outdrags
 outdraws
@@ -27316,6 +27335,7 @@ partial
 partials
 partibility
 participant
+participates
 participator
 particles
 particularly
@@ -28286,6 +28306,7 @@ pian
 pianic
 pians
 piasava
+piasavas
 piassavas
 pibal
 pibals
@@ -28485,6 +28506,7 @@ piquets
 piracetam
 piracy
 piraguas
+pirana
 piranas
 pirate
 piratic
@@ -31333,6 +31355,7 @@ recommissions
 recommitment
 recommittals
 recompenses
+recompose
 recomposes
 recomputations
 recompute
@@ -32085,6 +32108,7 @@ renunciative
 renunciatory
 reobjects
 reobtains
+reoccupations
 reoccupies
 reoccupying
 reoccurrence
@@ -32778,6 +32802,7 @@ rhizoma
 rhizomata
 rhizomes
 rhizopuses
+rhodamin
 rhodamins
 rhodolites
 rhodomontade
@@ -32899,6 +32924,7 @@ riled
 rille
 rillet
 rillettes
+rills
 rime
 rimer
 rimester
@@ -33691,6 +33717,7 @@ satchelsful
 satem
 satiate
 satirists
+satirizers
 satis
 satisficed
 satisfied
@@ -33917,6 +33944,7 @@ schoolgirl
 schoolhouse
 schoolmarmish
 schrods
+schtik
 schuit
 schuits
 schusser
@@ -36469,6 +36497,7 @@ spumes
 spumous
 spunk
 spunkiest
+spurgalls
 spurge
 spuriously
 spurner
@@ -37138,6 +37167,7 @@ strum
 strumas
 strumming
 strums
+strutter
 strychnines
 stubbed
 stubby
@@ -39343,6 +39373,7 @@ titfer
 tithable
 tithe
 tither
+titi
 titillation
 titillations
 titivating
@@ -40827,6 +40858,7 @@ undercrofts
 undercutting
 underdrawers
 undereat
+underemphases
 underemphasize
 underemployed
 underestimated
@@ -41638,6 +41670,7 @@ urbanise
 urbanism
 urbanistically
 urbanite
+urbanologist
 urbanologists
 urbs
 urediniospores
@@ -42198,6 +42231,7 @@ virilities
 virilizes
 virtuality
 virtue
+virtuosa
 virtuous
 virtuously
 virus
@@ -43415,6 +43449,7 @@ yawey
 yawmeter
 yawner
 yawningly
+yawns
 yawping
 yaws
 yay
