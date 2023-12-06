@@ -742,6 +742,7 @@ aircoaches
 aircrew
 airdates
 airdrome
+aired
 airfield
 airflow
 airframe
@@ -831,6 +832,7 @@ aldehydic
 alder
 alderfly
 alderman
+aldol
 aldolases
 aldolizations
 aleatory
@@ -889,6 +891,7 @@ alkali
 alkalies
 alkalified
 alkalifies
+alkalifying
 alkalinities
 alkalis
 alkalotic
@@ -1213,6 +1216,7 @@ anagrammatic
 anagrammatical
 analcimes
 analcites
+analecta
 analemmata
 analgesias
 analgetics
@@ -1226,6 +1230,7 @@ analogous
 analogs
 analogy
 analyse
+analysers
 analysing
 analyst
 analytically
@@ -6068,6 +6073,7 @@ chamfering
 chamise
 chamoised
 chamomiles
+champac
 champaca
 champerties
 champertous
@@ -6101,6 +6107,7 @@ channelizations
 channelizing
 chanoyus
 chantage
+chanteys
 chanticleers
 chanting
 chantor
@@ -7167,6 +7174,7 @@ cognominal
 cogon
 cogways
 cohabit
+cohabitant
 cohabitation
 cohabitations
 cohabited
@@ -11192,6 +11200,7 @@ dodecaphony
 dodgeball
 dodgem
 dodgems
+dodgery
 dodgiest
 dodginess
 dodging
@@ -11257,6 +11266,7 @@ doloroso
 dolorousnesses
 dolors
 dolphinfish
+dolt
 domal
 dome
 domes
@@ -13006,6 +13016,7 @@ esteeming
 esteems
 ester
 esterases
+estheses
 esthete
 esthetes
 estheticisms
@@ -15839,6 +15850,7 @@ getaway
 geum
 geums
 gharry
+ghastlinesses
 ghauts
 ghazis
 gheraoed
@@ -16463,6 +16475,7 @@ graywaters
 grazable
 graze
 grazier
+grazingly
 greaseless
 greaseproofs
 greaser
@@ -16861,6 +16874,7 @@ hadarim
 hades
 hadjee
 hadjees
+hadronic
 hadrons
 hadrosaur
 haematal
@@ -17619,6 +17633,7 @@ hijacking
 hijacks
 hike
 hilar
+hilarious
 hillbilly
 hilled
 hillers
@@ -20058,6 +20073,7 @@ jackrabbits
 jackrolling
 jacks
 jacksmelts
+jackstays
 jacky
 jacobins
 jacquards
@@ -20275,6 +20291,7 @@ jorum
 joshed
 jottings
 jouals
+jouk
 journal
 journalists
 journals
@@ -23692,6 +23709,7 @@ misplanting
 mispointing
 mispoised
 misprice
+mispricing
 misprint
 misprisions
 misprizing
@@ -25376,6 +25394,7 @@ noninsect
 noninsurance
 nonintegral
 noninterference
+nonintersecting
 noninvolvements
 nonionic
 nonirritant
@@ -27407,6 +27426,7 @@ palliations
 palliator
 pallid
 pallidness
+pallor
 palls
 palm
 palmation
@@ -28216,6 +28236,7 @@ perichondral
 perichondria
 pericopal
 pericranial
+periderm
 peridotic
 peridotite
 perigean
@@ -29676,6 +29697,7 @@ poundage
 pourer
 pourparlers
 poussetted
+poussettes
 poussies
 pouters
 poutingly
@@ -30245,6 +30267,7 @@ prismatically
 prismatoids
 prismoid
 prissily
+prissy
 prithee
 private
 privateer
@@ -31192,6 +31215,7 @@ quokkas
 quomodo
 quomodos
 quorum
+quota
 quoted
 quoter
 quotes
@@ -31511,6 +31535,7 @@ rayahs
 rayas
 raygrasses
 raying
+rayless
 raylessnesses
 razee
 razes
@@ -31875,6 +31900,7 @@ recut
 recuts
 recutting
 recycler
+recyclers
 recycling
 redacted
 redacting
@@ -32039,6 +32065,7 @@ reenactors
 reencounter
 reendowed
 reendows
+reenergizing
 reenforcing
 reengage
 reengagement
@@ -37040,6 +37067,7 @@ squirming
 squirreled
 squirts
 squished
+squishinesses
 squishing
 squooshed
 squooshes
@@ -37648,6 +37676,7 @@ strums
 strutter
 strychnines
 stubbed
+stubbier
 stubby
 stuck
 stud
@@ -38733,6 +38762,7 @@ systole
 systoles
 syzygy
 tabbied
+tabbis
 tabbises
 tabboulehs
 taber
@@ -38788,6 +38818,7 @@ tactile
 tactilities
 tactlessness
 tactlessnesses
+tactual
 tad
 tadpole
 tads
@@ -39008,6 +39039,7 @@ taskmaster
 taskwork
 taskworks
 tassels
+tassets
 tassies
 tastable
 tasted
@@ -41671,6 +41703,7 @@ unimaginably
 unimaginative
 unimbued
 unimmunized
+unimpeded
 unimpressed
 uninspected
 uninstructive
@@ -42582,6 +42615,7 @@ vermeil
 vermes
 vermiculate
 vermiculated
+vermiculite
 vermilion
 vermilioned
 vermin
@@ -44193,6 +44227,7 @@ zlotych
 zoantharian
 zoarial
 zoarium
+zocalo
 zodiacs
 zoeae
 zoecium
