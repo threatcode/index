@@ -1901,6 +1901,7 @@ areally
 areaways
 arecoline
 arenite
+arenous
 areolar
 areole
 areoles
@@ -2613,6 +2614,7 @@ backhand
 backhauled
 backhoe
 backhouse
+backhouses
 backing
 backings
 backlasher
@@ -4748,6 +4750,7 @@ bugbears
 bugeyes
 buggered
 buggeries
+buggering
 buggers
 buggies
 buggiest
@@ -5797,6 +5800,7 @@ ceil
 ceiled
 ceilers
 ceilidh
+celandine
 celebrate
 celebrations
 celebrities
@@ -7637,6 +7641,7 @@ conge
 congealed
 congealers
 congener
+congeneric
 congeners
 congers
 congestion
@@ -9823,6 +9828,7 @@ densitometries
 densitometry
 dent
 dentality
+dentaliums
 dentations
 denticle
 dentine
@@ -10396,6 +10402,7 @@ diglyceride
 diglycerides
 dignifies
 dignities
+digressional
 digressive
 digs
 dihedrals
@@ -12005,6 +12012,8 @@ elephantiases
 elephants
 elevated
 elevateds
+elevators
+elevenses
 eleventh
 elevons
 elfishly
@@ -12331,6 +12340,7 @@ enduringness
 enduringnesses
 enemies
 energizations
+energumens
 enervating
 enervation
 enface
@@ -12753,6 +12763,7 @@ erring
 erroneous
 error
 errorless
+errors
 erst
 erstwhile
 eructates
@@ -13660,6 +13671,7 @@ fascioliases
 fascism
 fascistic
 fashionableness
+fashionables
 fashionistas
 fashionmongers
 fastballer
@@ -13792,6 +13804,7 @@ feinted
 feinting
 feistiest
 feistiness
+feists
 feldscher
 feldshers
 felicitator
@@ -14391,6 +14404,7 @@ floppinesses
 florets
 floriations
 floridities
+floriferous
 florigens
 florilegium
 floristic
@@ -17370,6 +17384,7 @@ hideously
 hideout
 hider
 hiders
+hides
 hidroses
 hidrosis
 hie
@@ -17846,6 +17861,7 @@ humanises
 humanising
 humanist
 humanists
+humanitarianism
 humanized
 humanizers
 humanlike
@@ -20656,6 +20672,7 @@ laid
 lair
 laird
 lairdship
+lairdships
 laired
 laith
 laities
@@ -21321,6 +21338,7 @@ linkboys
 linkwork
 linocut
 linsangs
+linseeds
 lint
 lintels
 linter
@@ -21604,6 +21622,7 @@ loosestrife
 loosing
 looted
 looting
+lop
 lopers
 lopped
 loppering
@@ -22238,6 +22257,7 @@ margining
 margrave
 margravial
 margraviates
+margravines
 maria
 maricultures
 marigolds
@@ -24104,6 +24124,7 @@ multisystem
 multitask
 multiterminal
 multitiered
+multiton
 multitowered
 multitudinous
 multiuse
@@ -26757,6 +26778,7 @@ overrife
 overripe
 overroast
 overrule
+overrunning
 overruns
 overs
 oversale
@@ -28995,6 +29017,7 @@ polydipsic
 polydispersity
 polyesters
 polygamies
+polygamist
 polygamizes
 polygenesis
 polyglot
@@ -30538,6 +30561,7 @@ putlog
 putlogs
 putonghua
 putons
+putout
 putridities
 putridly
 putter
@@ -30635,6 +30659,7 @@ quadrilaterals
 quadriphonic
 quadrivalent
 quadrumvir
+quadrumvirate
 quadruples
 quadruplicates
 quadruplication
@@ -30775,6 +30800,7 @@ quintiles
 quintillionths
 quintin
 quintuple
+quintuplicate
 quintuplicated
 quintuplicating
 quipped
@@ -31008,6 +31034,7 @@ rankly
 ranknesses
 ranter
 rants
+ranular
 raped
 rapers
 rapeseed
@@ -31433,6 +31460,7 @@ recordists
 recork
 recounter
 recounters
+recounts
 recoupe
 recouped
 recoverer
@@ -34684,6 +34712,7 @@ sextuples
 sextuplicate
 sextuplicates
 sferics
+shabbatot
 shabbily
 shabbiness
 shabby
@@ -36394,6 +36423,7 @@ splashed
 splashing
 splashy
 splatter
+splatters
 splaying
 spleen
 spleeniest
@@ -36882,6 +36912,7 @@ sticklike
 stickling
 stickman
 stickmen
+stickout
 stickouts
 stickpin
 stickpins
@@ -38945,6 +38976,7 @@ tetraploids
 tetrapod
 tetrarch
 tetrarchs
+tetrarchy
 tetrazolium
 tetrode
 tetrodes
@@ -39460,6 +39492,7 @@ toilworn
 toiting
 toits
 tokamaks
+toke
 toked
 token
 tokers
@@ -39741,6 +39774,7 @@ trademarked
 tradeoffs
 tradescantias
 tradespeople
+traditionalisms
 traditionalized
 traditions
 traduced
@@ -40726,6 +40760,7 @@ uncages
 uncaging
 uncalcined
 uncalibrated
+uncandid
 uncanniest
 uncanniness
 uncanninesses
