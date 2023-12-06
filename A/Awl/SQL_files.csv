@@ -10,3 +10,21 @@ README_FILES/README.sql · master · amavis / amavis · GitLab,https://gitlab.co
 sa-update_3.3.0_20080604085105 · mirrors / apache / spamassassin,https://119.3.229.170/mirrors/apache/spamassassin/-/blob/sa-update_3.3.0_20080604085105/sql/awl_pg.sql
 sa-update_3.3.0_20070708085211 · mirrors / apache / spamassassin,https://119.3.229.170/mirrors/apache/spamassassin/-/blob/sa-update_3.3.0_20070708085211/sql/awl_mysql.sql
 crystalro.free.fr/Bookingv2/bookings/SQL/data.sql,http://crystalro.free.fr/Bookingv2/bookings/SQL/data.sql
+sql/awl_pg.sql - spamassassin - Git at Google,https://apache.googlesource.com/spamassassin/%2B/refs/tags/sa-update_3.4.4_20210319083043/sql/awl_pg.sql
+SpamAssassin: sql/awl_pg.sql | Fossies,https://fossies.org/linux/Mail-SpamAssassin/sql/awl_pg.sql
+sql/awl_mysql.sql - spamassassin - Git at Google,https://apache.googlesource.com/spamassassin/%2B/refs/tags/sa-update_3.4.2_20181102083136/sql/awl_mysql.sql
+SpamAssassin: sql/awl_mysql.sql | Fossies,https://fossies.org/linux/Mail-SpamAssassin/sql/awl_mysql.sql
+https://directadmin.spd.co.il/9/temp/Mail-SpamAssa...,https://directadmin.spd.co.il/9/temp/Mail-SpamAssassin-3.2.5/sql/awl_pg.sql
+contrib/davical/dba/windows/awl-tables.sql (log),http://trac.expressolivre.org/log/contrib/davical/dba/windows/awl-tables.sql%3Frev%3D3733
+ansible-role-spamassassin/awl_pg.sql at master - Gitea,https://gitea-s2i2s.isti.cnr.it/adellam/ansible-role-spamassassin/src/branch/master/files/awl_pg.sql
+ansible-role-spamassassin - Gitea,https://gitea-s2i2s.isti.cnr.it/ISTI-ansible-roles/ansible-role-spamassassin/src/commit/6a7c9ebd0b62a37019a89687dc83badda5cd2487/files/spamassassin-pg-3.4.sql
+maia_mailguard/maia-mysql.sql at master - GitHub,https://github.com/technion/maia_mailguard/blob/master/maia-mysql.sql
+/usr/share/awl/dba/awl-tables.sql - APT Browse,https://www.apt-browse.org/browse/ubuntu/xenial/universe/all/libawl-php/0.56-1ubuntu1/file/usr/share/awl/dba/awl-tables.sql
+https://mta.org.ua/exim-4.88-conf/contrib/awl/awl-...,https://mta.org.ua/exim-4.88-conf/contrib/awl/awl-mysql.sql
+README_FILES/README.sql · master · amavis / amavis · GitLab,https://gitlab.com/amavis/amavis/-/blob/master/README_FILES/README.sql
+/usr/share/awl/dba/schema-management.sql - APT Browse,https://www.apt-browse.org/browse/ubuntu/xenial/universe/all/libawl-php/0.56-1ubuntu1/file/usr/share/awl/dba/schema-management.sql
+amavisd-new/README_FILES/README.sql at master - GitHub,https://github.com/srault95/amavisd-new/blob/master/README_FILES/README.sql
+sql/awl_mysql.sql · sa-update_3.3.0_20070708085211 ... - GitCode,https://119.3.229.170/mirrors/apache/spamassassin/-/blob/sa-update_3.3.0_20070708085211/sql/awl_mysql.sql
+sql/awl_mysql.sql ... - GitCode,https://119.3.229.170/mirrors/apache/spamassassin/-/blob/180035f20e91396dcbc7b2215b57ca6dc9408d68/sql/awl_mysql.sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+http://crystalro.free.fr/Bookingv2/bookings/SQL/da...,http://crystalro.free.fr/Bookingv2/bookings/SQL/data.sql
