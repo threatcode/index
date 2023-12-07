@@ -657,6 +657,7 @@ aggregative
 aggresses
 aggressing
 aggressive
+aggressivities
 agilenesses
 agilities
 agin
@@ -1318,6 +1319,7 @@ angelicas
 angelology
 anger
 anginas
+angiologies
 angioma
 angiomas
 angiosperms
@@ -1511,6 +1513,7 @@ anticoagulants
 anticommercial
 anticommunism
 anticommunist
+anticompetitive
 anticorporate
 anticorrosive
 anticorrosives
@@ -1562,6 +1565,7 @@ antimacassars
 antimalaria
 antimale
 antiman
+antimere
 antimeres
 antimerger
 antimicrobials
@@ -2804,6 +2808,7 @@ baldfaced
 baldhead
 balding
 baldpated
+baldricks
 baldy
 balefulness
 balkanization
@@ -3279,6 +3284,7 @@ befogged
 befogging
 befool
 befouler
+befretting
 befriend
 befringed
 befringing
@@ -7642,6 +7648,7 @@ composes
 composted
 composting
 compotes
+compoundable
 compounders
 compounding
 comprehend
@@ -8943,6 +8950,7 @@ crusading
 crusadoes
 crusados
 cruse
+crusets
 crush
 crushes
 crushing
@@ -10065,6 +10073,7 @@ denominate
 denominational
 denominative
 denotation
+denotative
 denote
 denotements
 denotes
@@ -10879,6 +10888,7 @@ disarray
 disarticulated
 disassembles
 disassociates
+disassociation
 disavowable
 disavowing
 disbelieve
@@ -11182,6 +11192,7 @@ dissipated
 dissipatedly
 dissipaters
 dissoluteness
+dissolution
 dissolve
 dissonance
 dissonances
@@ -11247,6 +11258,7 @@ disyoked
 ditas
 ditcher
 ditchers
+dites
 dithyrambically
 dithyrambs
 ditransitives
@@ -11272,6 +11284,7 @@ diverse
 diversionist
 diversionists
 diverted
+diverticula
 diverticular
 diverticulitis
 diverticulosis
@@ -13699,6 +13712,7 @@ exteriorizing
 exteriorly
 exterminate
 extermines
+externalise
 externalises
 externalism
 externalize
@@ -16332,6 +16346,7 @@ glycogenesis
 glycogenolysis
 glycolipid
 glycoproteins
+glycosidase
 glycosidic
 glycosidically
 glycosuria
@@ -18982,6 +18997,7 @@ impressionists
 impressiveness
 impressments
 impressure
+imprimis
 imprint
 imprinted
 imprinters
@@ -19930,6 +19946,7 @@ interweaves
 interworking
 interworkings
 intestacy
+intestinally
 intestines
 inthrone
 inthroned
@@ -21943,6 +21960,7 @@ literateness
 literates
 literatim
 literatures
+lithemia
 lithemias
 lithenesses
 lithiasis
@@ -22128,6 +22146,7 @@ longhand
 longies
 longingly
 longish
+longitude
 longitudinal
 longjumping
 longleaves
@@ -22160,6 +22179,7 @@ loppering
 lopping
 lopsidedness
 loquacity
+loquat
 loquats
 lorazepams
 lord
@@ -22547,6 +22567,7 @@ majestic
 majority
 majorly
 make
+makebate
 makefast
 makeovers
 makeready
@@ -23150,6 +23171,7 @@ melanotic
 melanous
 melaphyre
 meld
+melders
 melding
 melds
 melee
@@ -24409,6 +24431,7 @@ mopery
 mopiest
 mopinesses
 mopishly
+mopokes
 moppet
 moquette
 moquettes
@@ -25136,6 +25159,7 @@ neckcloths
 neckerchieves
 necklaced
 neckline
+necrological
 necrologists
 necromancer
 necromancies
@@ -30119,6 +30143,7 @@ praetorial
 praetorian
 praetors
 pragmatic
+pragmatism
 pragmatist
 pragmatistic
 pragmatists
@@ -30339,6 +30364,7 @@ preholiday
 preimposing
 preinduction
 preinform
+preinforms
 preinterview
 prejudge
 prejudges
@@ -30658,6 +30684,7 @@ prismatoids
 prismoid
 prissily
 prissy
+pristane
 prithee
 private
 privateer
@@ -32058,6 +32085,7 @@ reassert
 reassertion
 reassigned
 reassume
+reassurance
 reassure
 reassuring
 reattack
@@ -33655,6 +33683,7 @@ rewashed
 rewaxes
 rewearing
 rewears
+rewedding
 reweds
 reweighs
 rewidens
@@ -36709,6 +36738,7 @@ snits
 snivelers
 snobberies
 snobbery
+snobbier
 snobbiest
 snobbily
 snobbish
@@ -37220,6 +37250,7 @@ spectrometric
 spectroscopes
 spectroscopic
 speculated
+speculation
 speculative
 speculatively
 speculum
@@ -37527,6 +37558,7 @@ squatter
 squattier
 squattiest
 squattily
+squatting
 squatty
 squawbushes
 squawking
@@ -39482,6 +39514,7 @@ tanneries
 tannest
 tannic
 tannin
+tannins
 tanrec
 tans
 tantalate
@@ -41316,6 +41349,7 @@ tryptophanes
 tryptophans
 trysail
 tryst
+tryster
 trystes
 tsaddik
 tsade
@@ -44245,6 +44279,7 @@ wineshop
 wineskins
 wingback
 wingbows
+wingding
 wingdings
 winglets
 wingy
