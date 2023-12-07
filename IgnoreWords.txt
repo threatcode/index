@@ -3616,6 +3616,7 @@ bighted
 bigmouths
 bigness
 bignesses
+bigoses
 bigs
 bigstick
 bihourly
@@ -3631,6 +3632,7 @@ bilbo
 bilboas
 biliary
 bilingual
+bilingualism
 bilingualisms
 biliousnesses
 biliverdins
@@ -3661,6 +3663,7 @@ bimbos
 bimester
 bimetallisms
 bimetallists
+bimillenary
 bimodal
 bimorph
 binarism
@@ -4018,6 +4021,7 @@ blousier
 blousily
 blousing
 bloviated
+bloviations
 blowback
 blowball
 blowballs
@@ -4572,6 +4576,7 @@ bredes
 breechblocks
 breechcloths
 breechclouts
+breeched
 breeches
 breechloaders
 breeding
@@ -5461,6 +5466,7 @@ cappers
 cappings
 cappuccino
 capricci
+caprice
 caprification
 caprifig
 caprifigs
@@ -6299,6 +6305,7 @@ chemotaxonomy
 chemotherapists
 chemurgic
 chenopods
+chequered
 cherimoya
 cheroots
 cherries
@@ -8645,6 +8652,7 @@ credences
 credenda
 credent
 credenzas
+credibility
 creditability
 creditable
 creditor
@@ -9563,6 +9571,7 @@ decisioned
 decisioning
 decisions
 decisively
+deckel
 deckels
 decker
 deckhand
@@ -10275,6 +10284,7 @@ detickers
 detinues
 detonations
 detouring
+detoxes
 detoxification
 detoxify
 detract
@@ -10338,6 +10348,7 @@ devoices
 devoirs
 devolutions
 devolve
+devonian
 devotees
 devour
 devoured
@@ -10808,6 +10819,7 @@ discolours
 discombobulated
 discomfiting
 discomfiture
+discomfitures
 discomforting
 discommended
 discommodes
@@ -13001,6 +13013,7 @@ escapologists
 escargot
 escarp
 escarping
+escarpment
 eschalots
 eschar
 eschatologies
@@ -14030,6 +14043,7 @@ felonious
 felonries
 felons
 felsites
+felstone
 felt
 feminazi
 feminazis
@@ -15135,6 +15149,7 @@ frenziedly
 frenzying
 frequentation
 frequentatives
+frequenting
 frescoes
 frescoist
 frescos
@@ -18036,6 +18051,7 @@ hospitals
 hospodar
 hosta
 hostas
+hosted
 hostel
 hosteler
 hostelers
@@ -18862,6 +18878,7 @@ incage
 incaging
 incalculably
 incalescences
+incandesce
 incandesced
 incandescence
 incants
@@ -21505,6 +21522,7 @@ lichee
 lichees
 lichenins
 lichenous
+liches
 licitly
 licitness
 licitnesses
@@ -22475,6 +22493,7 @@ manifestoes
 manifestoing
 manifoldly
 manihot
+manihots
 manikin
 manilas
 manille
@@ -27215,6 +27234,7 @@ oversteering
 overstepped
 overstepping
 oversteps
+overstimulated
 overstocking
 overstocks
 overstrain
@@ -28310,6 +28330,7 @@ peridotite
 perigean
 perihelion
 perilunes
+perilymphs
 perimeters
 perimysium
 perineuria
@@ -28445,6 +28466,7 @@ perturbational
 perturbed
 perturber
 perturbing
+pertussises
 perusable
 perusal
 peruse
@@ -29141,6 +29163,7 @@ platan
 plateau
 plateaued
 plateauing
+platelets
 platemaking
 platemakings
 platens
@@ -30396,6 +30419,7 @@ proclaimer
 proclitics
 proconsulships
 procrastinated
+procrastinating
 procreates
 procreation
 procreative
@@ -31981,6 +32005,7 @@ recurs
 recursivenesses
 recurve
 recusancies
+recuses
 recut
 recuts
 recutting
@@ -32477,6 +32502,7 @@ relaxant
 relaxer
 relaxers
 relaxin
+relaxing
 relays
 release
 relends
@@ -32757,6 +32783,7 @@ repps
 reprehended
 reprehends
 representations
+repressed
 repressing
 repression
 repressive
@@ -33441,6 +33468,7 @@ rifeness
 rifer
 riffle
 riffles
+riffling
 riffraffs
 riflebird
 riflemen
@@ -35619,6 +35647,7 @@ sialagogue
 sialidan
 sialidans
 sialoid
+siamang
 sib
 sibb
 sibilance
@@ -35697,6 +35726,7 @@ sigils
 siglos
 sigma
 sigmas
+sigmoids
 signalise
 signalling
 signally
@@ -36520,6 +36550,7 @@ solitaires
 solitarily
 solitude
 solleret
+solmization
 solo
 soloistic
 solons
@@ -37512,6 +37543,7 @@ stinky
 stinters
 stiped
 stipels
+stipiform
 stipple
 stipular
 stipulate
@@ -38528,6 +38560,7 @@ surely
 surety
 suretyship
 surface
+surfaced
 surfacers
 surfboarder
 surfeiting
@@ -40268,6 +40301,7 @@ tother
 toting
 totted
 totterers
+totteringly
 totters
 totting
 touchbacks
@@ -42958,6 +42992,7 @@ viscidities
 viscometric
 viscometry
 viscose
+viscosities
 viscosity
 viscount
 viscountess
