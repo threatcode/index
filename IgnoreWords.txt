@@ -972,6 +972,7 @@ allophones
 allopolyploid
 allopurinol
 allosauruses
+allosteric
 allosterically
 allosteries
 allostery
@@ -2886,6 +2887,7 @@ balls
 ballyard
 ballyhooed
 ballyhooing
+ballyragging
 balmier
 balmy
 baloney
@@ -3330,6 +3332,7 @@ befall
 befalls
 befinger
 befingered
+befingers
 befitted
 befittingly
 beflag
@@ -3352,6 +3355,7 @@ begalls
 begat
 begazing
 beggardom
+beggarlinesses
 begged
 beginners
 beginning
@@ -3703,6 +3707,7 @@ bigarade
 bigeminies
 biggest
 biggety
+biggin
 biggings
 biggins
 biggy
@@ -4791,6 +4796,7 @@ brochette
 brocolis
 brogan
 broiling
+broils
 brokages
 brokenhearted
 brokennesses
@@ -5831,6 +5837,7 @@ carvacrols
 carvels
 carven
 carvers
+caryopses
 caryopsides
 casava
 casbahs
@@ -8656,6 +8663,7 @@ countersigning
 countersink
 countersinking
 countersnipers
+counterspies
 counterstain
 counterstate
 counterstates
@@ -12111,6 +12119,7 @@ durrie
 durries
 duskier
 duskiness
+dusking
 dustcover
 dustcovers
 dusters
@@ -13448,6 +13457,7 @@ etherealness
 etherealnesses
 etherifying
 ethicalities
+ethically
 ethicalnesses
 ethician
 ethicizes
@@ -14977,6 +14987,7 @@ fling
 flinger
 flinging
 flintheads
+flintinesses
 flinting
 flintlike
 flipflop
@@ -15234,6 +15245,7 @@ footstools
 footsy
 footwall
 footwalls
+footwork
 footy
 foozler
 foozling
@@ -15438,6 +15450,7 @@ foulbrood
 fouled
 foulnesses
 fouls
+foundationally
 founded
 foundering
 founders
@@ -16050,6 +16063,7 @@ garnishes
 garnishment
 garote
 garotters
+garottes
 garred
 garreted
 garring
@@ -17133,6 +17147,7 @@ groused
 grouter
 groved
 groveled
+grovelers
 grovelled
 grovellers
 grovels
@@ -17723,6 +17738,7 @@ hays
 hayseeds
 hazanim
 hazarders
+hazardous
 hazardousness
 haze
 hazes
@@ -19151,6 +19167,7 @@ immingle
 immiscibilities
 immix
 immixed
+immobilism
 immobilisms
 immobilization
 immobilizations
@@ -23481,6 +23498,7 @@ medial
 mediants
 mediated
 mediates
+mediatize
 mediatory
 medic
 medicals
@@ -29195,6 +29213,7 @@ personalizes
 personalizing
 personally
 personalty
+personates
 personative
 personator
 personhood
@@ -30207,6 +30226,7 @@ policyholders
 poling
 poliomyelitis
 polis
+polished
 polishes
 politburo
 polite
@@ -32780,6 +32800,7 @@ reconfining
 reconfirmations
 reconfirmed
 reconfirms
+reconnaissance
 reconnected
 reconnection
 reconquering
@@ -32827,6 +32848,7 @@ recoveries
 recovers
 recrated
 recreance
+recreances
 recreant
 recreation
 recreationist
@@ -33461,6 +33483,7 @@ remedially
 remediate
 remediation
 remediations
+remedies
 remediless
 remeet
 remelt
@@ -33572,6 +33595,7 @@ reorganizes
 reorientated
 reoriented
 reoutfit
+reoutfits
 reoutfitted
 reoutfitting
 reoviruses
@@ -36522,6 +36546,7 @@ showbreads
 showcase
 showcased
 showdown
+showerer
 showerhead
 showering
 showerless
@@ -36531,6 +36556,7 @@ showring
 showtime
 shoyu
 shredder
+shredders
 shrewdness
 shrewed
 shrewmouse
@@ -37414,6 +37440,7 @@ socialist
 socialistic
 socialistically
 socialites
+socialized
 socializing
 socially
 societies
@@ -38052,6 +38079,7 @@ sporozoites
 sported
 sportfishermen
 sportfully
+sportiness
 sportive
 sportscaster
 sportsmanly
@@ -39225,6 +39253,7 @@ sufferable
 sufferableness
 sufferers
 sufficers
+sufficient
 suffixing
 suffixion
 sufflate
@@ -39713,6 +39742,7 @@ sweetens
 sweetheart
 sweeting
 sweetly
+sweetsop
 sweller
 swellhead
 swellheads
@@ -40067,6 +40097,7 @@ talismans
 talk
 talkable
 talkbacks
+talkiness
 talks
 talky
 taller
@@ -40866,6 +40897,7 @@ thrash
 thrashing
 thrasonical
 thrasonically
+thraves
 thrawed
 thread
 threadbareness
@@ -41550,6 +41582,7 @@ transferal
 transference
 transferential
 transferred
+transferrers
 transfers
 transformations
 transfusable
@@ -42926,6 +42959,7 @@ unhang
 unhangs
 unhappiness
 unharmed
+unhatched
 unhats
 unhealed
 unhealthiness
@@ -43799,6 +43833,7 @@ vegies
 vehemences
 vehemently
 vehicle
+veiledly
 veiling
 veinier
 veining
