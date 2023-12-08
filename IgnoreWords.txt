@@ -2905,6 +2905,7 @@ bandoras
 bands
 bandsaw
 bandsaws
+bandstand
 bandwagons
 bandwidths
 baneful
@@ -3943,6 +3944,7 @@ blacker
 blackest
 blackfishes
 blackhander
+blackhanders
 blacking
 blackish
 blackjack
@@ -5430,6 +5432,7 @@ cancellous
 cancerous
 cancerously
 cancroid
+candela
 candent
 candescent
 candidest
@@ -8896,6 +8899,7 @@ crinolined
 crinolines
 crinum
 cripe
+cripes
 cripple
 cripples
 crises
@@ -9001,6 +9005,7 @@ crucifixions
 crucify
 cruck
 crudded
+crudding
 cruddy
 crudely
 crudeness
@@ -9450,6 +9455,7 @@ dalmatics
 daltonism
 damage
 damagers
+daman
 damans
 damascene
 damascening
@@ -10093,6 +10099,7 @@ demeriting
 demes
 demesnes
 demeton
+demetons
 demilune
 demimondaine
 demirep
@@ -10329,6 +10336,7 @@ desalinated
 desalinized
 descant
 descendant
+descents
 describer
 descried
 descrier
@@ -11252,6 +11260,7 @@ disrespect
 disrobers
 disrobes
 disroot
+disrooting
 disrupt
 disrupters
 disrupting
@@ -13616,6 +13625,7 @@ excursionists
 excuse
 excuser
 excusing
+execrator
 executer
 execution
 executioner
@@ -15016,6 +15026,7 @@ foamless
 foamlike
 foams
 focaccia
+focalising
 focuses
 focusing
 focusless
@@ -15372,6 +15383,7 @@ frangipanni
 frank
 frankable
 frankers
+frankfurt
 frankincense
 franking
 franknesses
@@ -16215,6 +16227,7 @@ ghostwrote
 ghoulishly
 giantesses
 giantism
+giantlike
 gibbered
 gibbering
 gibberishes
@@ -16542,6 +16555,7 @@ godchild
 goddammed
 goddaughter
 godded
+godet
 godfathers
 godhood
 godless
@@ -18114,6 +18128,7 @@ hobnob
 hobnobbers
 hobnobs
 hockers
+hockey
 hocus
 hodaddies
 hodaddy
@@ -18679,6 +18694,7 @@ hypercalcemias
 hypercatabolism
 hypercautious
 hypercivilized
+hyperconscious
 hypercritical
 hypercriticism
 hypercriticisms
@@ -19170,6 +19186,7 @@ improvements
 improver
 improvisations
 improvisatores
+improvise
 improvised
 improvisers
 imprudence
@@ -21449,6 +21466,7 @@ langridge
 langues
 languidly
 languished
+languishers
 languishment
 laniard
 lankiest
@@ -22581,6 +22599,7 @@ lyophiled
 lyophilise
 lyophilising
 lyophilizations
+lyophilizes
 lyophobic
 lyrate
 lyre
@@ -22891,6 +22910,7 @@ manhandle
 manhole
 manholes
 manhunt
+manhunts
 mania
 maniac
 manias
@@ -23930,6 +23950,7 @@ mingles
 miniaturizes
 minibikers
 minibus
+minicam
 minicamps
 minilab
 minimaxes
@@ -24304,6 +24325,7 @@ misword
 miswritten
 misyoking
 miters
+miterwort
 miterworts
 mitigate
 mitigations
@@ -24603,6 +24625,7 @@ moonrise
 moonroofs
 moons
 moonsail
+moonseed
 moonsets
 moonshined
 moonshiners
@@ -27592,6 +27615,7 @@ overlade
 overladed
 overland
 overlapped
+overlaps
 overlarge
 overlate
 overleaf
@@ -29049,6 +29073,7 @@ petrologically
 petrologists
 petronel
 pettable
+petticoats
 pettiest
 pettifoggeries
 pettifoggers
@@ -31123,6 +31148,7 @@ proofreading
 propagandizes
 propagandizing
 propagate
+propagated
 propellent
 propellor
 propels
@@ -34807,6 +34833,7 @@ sandbars
 sandblast
 sandboxes
 sandbur
+sandburr
 sandburrs
 sandcracks
 sander
@@ -35958,6 +35985,7 @@ shame
 shamefacedness
 shames
 shammes
+shammies
 shamosim
 shampoo
 shamuses
@@ -38376,6 +38404,7 @@ stravage
 stravaging
 stravaiged
 stravaigs
+strawed
 strawflower
 strawworm
 streakiest
@@ -38821,6 +38850,7 @@ subtileness
 subtilisin
 subtility
 subtilizations
+subtilizes
 subtitled
 subtleness
 subtlest
@@ -39205,6 +39235,7 @@ supplants
 supple
 suppler
 supplest
+suppletory
 suppliance
 suppliants
 supplicatory
@@ -42552,6 +42583,7 @@ ungloved
 ungloves
 unglued
 ungodlinesses
+ungotten
 ungraceful
 ungracious
 ungraciousness
@@ -42661,6 +42693,7 @@ unkempt
 unkennel
 unkept
 unkindled
+unkingly
 unknot
 unknotting
 unknowingly
@@ -43281,6 +43314,7 @@ valanced
 valances
 valedictorian
 valedictories
+valentine
 valerate
 valerians
 valeting
@@ -45197,6 +45231,7 @@ zodiacs
 zoeae
 zoecium
 zoftig
+zombify
 zombifying
 zombiism
 zombiisms
