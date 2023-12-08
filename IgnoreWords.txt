@@ -498,6 +498,7 @@ advice
 advisably
 advise
 advisements
+advising
 advisories
 advisory
 advocacy
@@ -1259,6 +1260,7 @@ analyzing
 anankes
 anapaests
 anapest
+anaphasic
 anaphoras
 anaphoric
 anaphorically
@@ -1764,6 +1766,7 @@ apophyses
 apoplectic
 aposiopeses
 aposporic
+apostates
 apostatise
 apostatised
 apostatizing
@@ -2987,6 +2990,7 @@ barium
 bark
 barkeep
 barkentines
+barker
 barkier
 barkiest
 barky
@@ -3953,6 +3957,7 @@ blackwoods
 bladderlike
 bladdernut
 bladderworts
+bladed
 bladers
 bladings
 blain
@@ -4969,6 +4974,7 @@ bumf
 bummers
 bummest
 bumpered
+bumph
 bumpier
 bumping
 bumpkinly
@@ -5431,6 +5437,7 @@ candlelight
 candlelights
 candlepower
 candlestick
+candlewick
 candours
 candyfloss
 candying
@@ -6638,6 +6645,7 @@ chromatograms
 chromatograph
 chromatographic
 chromatolyses
+chromatophores
 chromier
 chrominance
 chromo
@@ -7754,6 +7762,7 @@ conceives
 concelebrate
 concent
 concenter
+concentered
 concentering
 concentrating
 concentration
@@ -7842,9 +7851,11 @@ conenoses
 conepate
 conepates
 confabbing
+confabs
 confabulators
 confabulatory
 confecting
+confectionary
 confectioner
 confectionery
 confederacy
@@ -8115,6 +8126,7 @@ contraveners
 contravening
 contribution
 contributive
+contributory
 contritions
 contrived
 contriver
@@ -10516,6 +10528,7 @@ devoirs
 devolutions
 devolve
 devonian
+devotee
 devotees
 devour
 devoured
@@ -13709,6 +13722,7 @@ experimenting
 expert
 experted
 expertize
+expertness
 expiates
 expirers
 expiring
@@ -13984,6 +13998,7 @@ fainest
 fainter
 faints
 fairer
+fairgoers
 fairground
 fairleaders
 fairnesses
@@ -14415,6 +14430,7 @@ fibroins
 fibromas
 fibronectins
 fibrosarcomas
+fibrosarcomata
 fibrosis
 fibrositises
 fibrovascular
@@ -15384,6 +15400,7 @@ freelanced
 freeloading
 freeman
 freemartin
+freemasonries
 frees
 freestanding
 freethinker
@@ -17728,6 +17745,7 @@ helmeting
 helmets
 helminth
 helminthic
+helminthology
 helmsmen
 helotage
 helper
@@ -18189,6 +18207,7 @@ homocercy
 homoerotic
 homoeroticism
 homoeroticisms
+homogeneously
 homogenisations
 homogenising
 homogenizations
@@ -20689,6 +20708,7 @@ jole
 joles
 jollies
 jolliest
+jollifies
 jolliness
 jolters
 joltiest
@@ -22171,6 +22191,7 @@ loanable
 loaner
 loanshift
 loath
+loathers
 loathful
 loathing
 loathnesses
@@ -22671,6 +22692,7 @@ magnetizes
 magnetographs
 magnetometries
 magnetospheres
+magnetostatic
 magnetron
 magnificences
 magnifico
@@ -26642,6 +26664,7 @@ omnisciently
 omophagia
 omphalos
 onagri
+once
 oncet
 oncogenicity
 oncologic
@@ -27670,6 +27693,7 @@ oversimplifying
 overslaughing
 oversmoked
 oversmoking
+oversoft
 overspeculation
 overspender
 overspending
@@ -28449,6 +28473,7 @@ pawnbrokings
 pawnee
 pawnshops
 pawpaws
+paxwax
 paxwaxes
 payably
 paydays
@@ -29187,6 +29212,7 @@ photolyzed
 photolyzing
 photomapping
 photometric
+photomosaics
 photomurals
 photon
 photonics
@@ -29615,6 +29641,7 @@ planishing
 plank
 planking
 planktonic
+planlessnesses
 planner
 planography
 plantain
@@ -32149,6 +32176,7 @@ rattlebrain
 rattlebrains
 rattlesnake
 rattlesnakes
+rattlings
 raucous
 raucousness
 raucousnesses
@@ -36195,6 +36223,7 @@ shrilled
 shrillness
 shrills
 shrimper
+shrink
 shrinkable
 shrinker
 shrinking
@@ -40919,6 +40948,7 @@ tornillos
 torosities
 torosity
 torot
+toroth
 torpedoed
 torpedos
 torpidities
@@ -41375,6 +41405,7 @@ trickster
 tricksters
 triclinia
 triclosan
+triclosans
 tricolette
 tricolored
 tricolour
@@ -43105,6 +43136,7 @@ urbanite
 urbanologist
 urbanologists
 urbs
+ureas
 urediniospores
 urediospores
 uredium
@@ -43678,6 +43710,7 @@ viridescent
 virilely
 virilities
 virilizes
+virion
 virtuality
 virtue
 virtuosa
@@ -44775,6 +44808,7 @@ worldviews
 worldwide
 wormgears
 wormier
+wormiest
 wormwood
 wornnesses
 worriedly
@@ -44986,6 +45020,7 @@ yock
 yocks
 yoctoseconds
 yodles
+yods
 yogees
 yoghourt
 yoghourts
