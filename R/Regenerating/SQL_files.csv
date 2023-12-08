@@ -3,3 +3,7 @@ hazardland/app.sql: PostgreSQL database template for ... - GitHub,https://github
 import.sql - GitHub,https://github.com/kenglxn/seam-maven-refimpl/blob/master/samples/jboss-seam/examples/dvdstore/ejb/src/main/resources/import.sql
 https://www.bcgsc.ca/downloads/schz_db.2004-07-07/...,https://www.bcgsc.ca/downloads/schz_db.2004-07-07/schz_db.2004-07-07.11:30/schz_db.ens_db.sql
 https://raw.githubusercontent.com/Thinkful-Ed/star...,https://raw.githubusercontent.com/Thinkful-Ed/starter-postgresql/main/products.sql
+listenbrainz-server/admin/sql/create_tables.sql at master ... - GitHub,https://github.com/metabrainz/listenbrainz-server/blob/master/admin/sql/create_tables.sql
+coxibVsNonselVsGiBleed.sql - OHDSI/CohortMethod · GitHub,https://github.com/OHDSI/CohortMethod/blob/master/inst/sql/sql_server/coxibVsNonselVsGiBleed.sql
+https://www.bcgsc.ca/downloads/schz_db.2004-07-07/...,https://www.bcgsc.ca/downloads/schz_db.2004-07-07/schz_db.2004-07-07.11:30/schz_db.ens_db.sql
+https://raw.githubusercontent.com/Thinkful-Ed/star...,https://raw.githubusercontent.com/Thinkful-Ed/starter-postgresql/main/products.sql
