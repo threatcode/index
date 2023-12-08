@@ -760,6 +760,7 @@ aircoaches
 aircrew
 airdates
 airdrome
+airdrop
 aired
 airfield
 airflow
@@ -903,6 +904,7 @@ aliment
 alimental
 alimented
 aliments
+aliped
 aliquant
 alit
 aliteracy
@@ -1034,6 +1036,7 @@ althaeas
 althorns
 altigraphs
 altimetries
+altiplanos
 altitudinous
 altocumuli
 altoist
@@ -2332,6 +2335,7 @@ atheromatous
 atheroscleroses
 atherosclerotic
 athetotic
+athwartship
 athwartships
 atilt
 atlas
@@ -4059,6 +4063,7 @@ blennioid
 blepharoplast
 blepharoplasty
 blesbok
+blesbuck
 blesbucks
 bless
 blessedest
@@ -4449,6 +4454,7 @@ bossisms
 bossy
 bot
 botanic
+botanica
 botanical
 botanised
 botanist
@@ -5537,6 +5543,7 @@ canopy
 canopying
 canorousnesses
 canso
+cantabile
 cantala
 cantaloupes
 cantals
@@ -5788,6 +5795,7 @@ carpals
 carpentered
 carpentries
 carpetbagged
+carpetbaggeries
 carpetbaggers
 carpetbaggery
 carpetbags
@@ -6324,6 +6332,7 @@ charactering
 characteristic
 characterized
 characterizes
+charbroils
 charcuteries
 chards
 charge
@@ -7107,6 +7116,7 @@ clobbers
 cloche
 clocked
 clocker
+clocking
 clodhopping
 clodpate
 clods
@@ -8827,6 +8837,7 @@ crane
 crania
 craniate
 craniofacial
+crankcase
 crankcases
 crankily
 crankling
@@ -9945,6 +9956,7 @@ defeaters
 defeating
 defecate
 defecated
+defecations
 defectiveness
 defectivenesses
 defeminize
@@ -10724,6 +10736,7 @@ diametric
 diamide
 diamines
 diamins
+diamondback
 diamonds
 diandrous
 diapason
@@ -11623,6 +11636,7 @@ doloroso
 dolorousnesses
 dolors
 dolphinfish
+dolphinfishes
 dolt
 domal
 dome
@@ -11834,6 +11848,7 @@ dramatises
 dramatising
 dramatists
 dramatizable
+dramaturg
 drammed
 drammock
 drapable
@@ -14163,6 +14178,7 @@ fallaciousness
 fallalery
 fallaways
 faller
+fallfish
 fallible
 falling
 fallowed
@@ -15837,6 +15853,7 @@ fusain
 fuscous
 fuse
 fusible
+fusibly
 fusiform
 fusile
 fusileers
@@ -16256,6 +16273,7 @@ genteelest
 gentil
 gentilesse
 gentility
+gentlefolk
 gentlefolks
 gentlemanlike
 gentlemen
@@ -16300,6 +16318,7 @@ geomorphologies
 geomorphologist
 geomorphology
 geophagy
+geophysical
 geophysicists
 geophysics
 geoponics
@@ -16360,6 +16379,7 @@ ghoulishly
 giantesses
 giantism
 giantlike
+gib
 gibbered
 gibbering
 gibberishes
@@ -18172,6 +18192,7 @@ highspot
 hightail
 hightails
 highted
+highting
 highwayman
 highwaymen
 hijab
@@ -20312,6 +20333,7 @@ intitles
 intitule
 intolerable
 intolerances
+intombs
 intonated
 intone
 intoner
@@ -20694,6 +20716,7 @@ jackrolling
 jacks
 jacksmelts
 jackstays
+jackstones
 jacky
 jacobins
 jacquards
@@ -21009,6 +21032,7 @@ justice
 justiciars
 justle
 justnesses
+justs
 juttingly
 juttying
 juvenilia
@@ -23987,6 +24011,7 @@ microtonal
 microtonalities
 microtubule
 microwatt
+microwatts
 microwaves
 microworld
 micrurgy
@@ -28327,6 +28352,7 @@ pangenetic
 pangens
 pangolins
 pangrams
+panhandle
 panhandled
 panhandles
 panhandling
@@ -29137,6 +29163,7 @@ peristyles
 perithecium
 periti
 peritonea
+peritonitises
 peritrichous
 peritus
 perjurer
@@ -30760,6 +30787,7 @@ precocities
 precoded
 precoding
 precognitive
+precommitment
 precompute
 preconditioning
 preconize
@@ -31771,6 +31799,7 @@ pulvinar
 pulvini
 pumelo
 pumiced
+pumper
 pumpkinseeds
 pumpless
 puna
@@ -32561,6 +32590,7 @@ reaginic
 reagins
 real
 reales
+realignments
 reality
 realized
 realizer
@@ -35350,6 +35380,7 @@ scalper
 scalps
 scaly
 scam
+scamming
 scammonies
 scamp
 scamper
@@ -39767,6 +39798,7 @@ swimmily
 swimmingly
 swimmy
 swims
+swindled
 swindler
 swine
 swinepoxes
@@ -39911,6 +39943,7 @@ syncretising
 syncretize
 syncretized
 syncretizing
+syncytial
 syndactylies
 syndesis
 syndets
@@ -40603,6 +40636,7 @@ termtime
 tern
 terne
 terns
+terpenes
 terpenoid
 terpineols
 terpinols
@@ -44038,6 +44072,7 @@ vicarly
 vicarships
 vice
 vicegerencies
+vicegerency
 vicegerent
 vicereine
 vicereines
