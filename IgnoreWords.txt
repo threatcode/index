@@ -90,6 +90,7 @@ abutilons
 abuts
 abuttal
 abutter
+abuzz
 abvolt
 abys
 abyssal
@@ -493,6 +494,7 @@ adventurists
 adverbial
 adverbially
 adversarial
+adversative
 adversatively
 adversenesses
 adversity
@@ -1542,6 +1544,7 @@ anticipatable
 anticipations
 anticity
 anticlerical
+anticlericals
 anticlimactical
 anticlines
 anticoagulants
@@ -3927,6 +3930,7 @@ birler
 birlers
 birr
 birred
+birrettas
 birthed
 birthings
 birthright
@@ -4791,6 +4795,7 @@ brittanias
 brittle
 brittler
 brittling
+britzska
 britzskas
 broacher
 broadbeans
@@ -5181,6 +5186,7 @@ butle
 butles
 butte
 butterballs
+buttered
 butterfat
 butterfingered
 butterfingers
@@ -6704,6 +6710,7 @@ choreography
 choriamb
 choric
 chorine
+chorioids
 chorion
 chorister
 chorographies
@@ -6736,6 +6743,7 @@ chromatolyses
 chromatophores
 chromier
 chrominance
+chromite
 chromo
 chromocenters
 chromogens
@@ -9327,6 +9335,7 @@ curlicue
 curlicued
 curliest
 curlily
+curliness
 curls
 curn
 currans
@@ -9940,6 +9949,7 @@ decrements
 decrepitations
 decrescent
 decried
+decrier
 decrown
 decrowned
 decrying
@@ -10580,6 +10590,7 @@ detections
 detectives
 detectors
 detentes
+detentions
 deterged
 detergents
 deterges
@@ -10935,6 +10946,7 @@ dilates
 dilative
 dilatometers
 dilatometries
+dilatometry
 dilatoriness
 dilators
 dilemmas
@@ -10965,6 +10977,7 @@ diminutive
 diminutively
 dimmable
 dimmed
+dimmer
 dimmers
 dimming
 dimnesses
@@ -12623,6 +12636,7 @@ eluate
 eluates
 elucidate
 elucidates
+elucidating
 elucidative
 elucubration
 elude
@@ -15043,6 +15057,7 @@ flinders
 fling
 flinger
 flinging
+flinthead
 flintheads
 flintinesses
 flinting
@@ -15139,6 +15154,7 @@ flugelhornist
 fluidize
 fluidizing
 fluish
+fluke
 flukey
 flukiest
 flukinesses
@@ -15618,6 +15634,7 @@ freethinker
 freeways
 freewheeled
 freewheelers
+freewritings
 freewrote
 freezable
 freezers
@@ -16544,6 +16561,7 @@ glaringnesses
 glassblower
 glassblowers
 glassblowing
+glassed
 glasses
 glasshouses
 glassine
@@ -18191,6 +18209,7 @@ hexobarbitals
 hexosaminidase
 hexosaminidases
 hexosan
+hexoses
 heyday
 heydays
 heydey
@@ -18670,6 +18689,7 @@ houseparents
 housesat
 housewares
 housewifely
+housewiferies
 housewifery
 housing
 hovercrafts
@@ -19746,6 +19766,7 @@ indulins
 induration
 indusial
 industrialised
+industrialises
 industrialisms
 industrialist
 industrialized
@@ -19892,6 +19913,7 @@ infusorian
 ingate
 ingathered
 ingatherings
+ingathers
 ingeniousness
 ingeniousnesses
 ingenuity
@@ -23868,6 +23890,7 @@ metacarpus
 metacenter
 metacentric
 metachromatic
+metafictionist
 metages
 metalanguage
 metalhead
@@ -31037,6 +31060,7 @@ prenominated
 prenotification
 prenotion
 prenotions
+preoccupancy
 preoccupations
 preoccupied
 preopening
@@ -31903,6 +31927,7 @@ pungle
 pungled
 punily
 puninesses
+punishability
 punishable
 punishers
 punishes
@@ -32005,6 +32030,7 @@ pussyfooter
 pussytoes
 pustulant
 pustular
+pustulated
 pustulating
 put
 putlog
@@ -33703,6 +33729,7 @@ reoccupations
 reoccupies
 reoccupying
 reoccurrence
+reoccurring
 reoil
 reopen
 reoperates
@@ -34259,6 +34286,7 @@ retroflections
 retrogradation
 retrogress
 retrogressing
+retrogression
 retropacks
 retroreflective
 retroreflectors
@@ -38378,6 +38406,7 @@ stagecraft
 stageful
 stagelike
 stagflation
+staggard
 staggards
 staggeringly
 staggier
@@ -39306,6 +39335,7 @@ subteens
 subtemperate
 subtenancies
 subtended
+subtending
 subtends
 subterfuges
 subterraneanly
@@ -39503,6 +39533,7 @@ sunbirds
 sunblocks
 sunburned
 sunchoke
+sundecks
 sunders
 sundial
 sundog
@@ -40545,6 +40576,7 @@ teethridges
 teetotaled
 teetotaling
 teetotalism
+teetotalisms
 teetotalists
 teetotalled
 teetotally
@@ -43138,12 +43170,14 @@ unhooded
 unhooding
 unhoods
 unhooked
+unhorses
 unhorsing
 unhouseled
 unhouses
 unhurried
 unhusked
 unhusks
+unhygienic
 unhyphenated
 uniaxial
 unicellular
@@ -45592,6 +45626,7 @@ yaups
 yautia
 yawed
 yawey
+yawled
 yawmeter
 yawner
 yawningly
