@@ -4,3 +4,5 @@ SQL - GitHub,https://raw.githubusercontent.com/lavary/lyrics-crud/master/storage
 https://madata.bib.uni-mannheim.de/238/3/enron.sql,https://madata.bib.uni-mannheim.de/238/3/enron.sql
 Admin login,http://178.73.210.84:5984/login/gs/m2f/view/layout.php/install/froxlor.sql
 Anderes (Datengrundlage (SQL-Datei) zum Datenbankimport),https://data.ub.uni-muenchen.de/110/1/20190308_hsozkult.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
+GRE-Syns-/QueryBuilder/gloss.sql at master - GitHub,https://github.com/jitendra29/GRE-Syns-/blob/master/QueryBuilder/gloss.sql
