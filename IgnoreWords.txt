@@ -917,6 +917,7 @@ aliteracy
 aliterates
 alizarin
 alkahest
+alkahests
 alkali
 alkalies
 alkalified
@@ -1317,6 +1318,7 @@ anchoritically
 anchormen
 anchors
 anchorwomen
+anchovetta
 ancientest
 ancients
 ancilla
@@ -3628,6 +3630,7 @@ bethumped
 bethumps
 betons
 betrayed
+betroth
 betrothed
 betta
 bettas
@@ -4286,6 +4289,7 @@ bodyboarded
 bodybuilders
 bodybuilding
 bodybuildings
+bodycheck
 bodychecked
 bodychecking
 bodyguarding
@@ -5404,6 +5408,7 @@ calibrations
 calibrators
 calices
 calicos
+calif
 califates
 californium
 califs
@@ -6729,6 +6734,7 @@ cholos
 chomp
 chompers
 chondromas
+chondromata
 choosers
 choosey
 chopine
@@ -7645,6 +7651,7 @@ colorfast
 colorfastness
 colorfully
 colorfulness
+colorings
 colorists
 colorlessly
 colorlessnesses
@@ -10833,6 +10840,7 @@ dialyser
 dialysing
 dialytic
 dialyzable
+dialyzates
 dialyze
 diamagnetisms
 diamantes
@@ -11528,6 +11536,7 @@ distensible
 distich
 distichous
 distil
+distill
 distillation
 distilleries
 distillers
@@ -12363,6 +12372,7 @@ earstone
 earthborn
 earthen
 earthenware
+earthiness
 earthlight
 earthmovers
 earthnuts
@@ -12504,6 +12514,7 @@ effacements
 effacing
 effecters
 effectors
+effectualities
 effectually
 effectualness
 effectuated
@@ -13375,6 +13386,7 @@ epopee
 epopoeias
 eposes
 epoxidation
+epoxides
 epoxidize
 epoxies
 epsilons
@@ -14770,6 +14782,7 @@ fifth
 fifthly
 fifths
 fig
+figeater
 fighter
 figurant
 figurate
@@ -16397,6 +16410,7 @@ generational
 generators
 generatrices
 generatrix
+generic
 genericness
 genericnesses
 generousnesses
@@ -16907,6 +16921,7 @@ golliwogs
 gombo
 gomphoses
 gomutis
+gonadal
 gonadial
 gonadotrophins
 gondolier
@@ -21337,6 +21352,7 @@ keffiyeh
 kefir
 kegger
 keir
+keitloa
 kelep
 kelim
 kelly
@@ -22018,6 +22034,7 @@ lavs
 lawbooks
 lawbreaking
 lawed
+lawings
 lawless
 lawlessnesses
 lawlike
@@ -25120,6 +25137,7 @@ morbidity
 morbidly
 morbific
 morceau
+mordacity
 mordants
 morel
 morelles
@@ -27102,6 +27120,7 @@ oghams
 ogive
 ogling
 ogreish
+ogrism
 oh
 ohing
 ohmages
@@ -30833,6 +30852,7 @@ postmedieval
 postmillennial
 postmistress
 postmistresses
+postmodernisms
 postmortem
 postoral
 postpartum
@@ -31390,6 +31410,7 @@ prettified
 prettying
 pretype
 preunion
+preunions
 prevailer
 prevailing
 prevalence
@@ -31410,6 +31431,7 @@ prevising
 previsional
 previsioned
 prevocational
+prevuing
 prewarmed
 prewarming
 prewarns
@@ -31824,6 +31846,7 @@ proteins
 proteinurias
 proteoglycan
 proteolysis
+proteome
 proteomes
 protest
 protestant
@@ -32362,6 +32385,7 @@ quantum
 quarantine
 quarantines
 quarrelling
+quarrier
 quarriers
 quart
 quarterback
@@ -33419,6 +33443,7 @@ refection
 refective
 refectory
 refeeds
+refenced
 refereed
 referenced
 referendums
@@ -34140,6 +34165,7 @@ resay
 rescinder
 rescinders
 rescission
+rescoring
 rescue
 rescuing
 resealable
@@ -35514,6 +35540,7 @@ santero
 santeros
 santimi
 santims
+sapanwoods
 saphena
 saphenas
 sapidity
@@ -36352,6 +36379,7 @@ semiology
 semioses
 semioticians
 semioticists
+semiotics
 semipros
 semipublic
 semiquavers
@@ -38511,6 +38539,7 @@ sprouts
 sprucely
 sprucier
 sprucing
+spudded
 spumes
 spumous
 spunk
@@ -39097,6 +39126,7 @@ stratigraphic
 stratocracies
 stratocracy
 stratovolcano
+stratovolcanoes
 stravage
 stravaging
 stravaiged
@@ -39553,6 +39583,7 @@ subtends
 subterfuges
 subterraneanly
 subtextual
+subtilely
 subtileness
 subtilisin
 subtility
@@ -41068,6 +41099,7 @@ tetrad
 tetradrachm
 tetradrachms
 tetradynamous
+tetrafluoride
 tetragon
 tetrahedron
 tetrahedrons
@@ -42095,6 +42127,7 @@ traumatically
 traumatised
 traumatization
 travail
+travailing
 travails
 trave
 travel
@@ -42230,6 +42263,7 @@ triclosans
 tricolette
 tricolored
 tricolour
+tricot
 tricotine
 tricrotic
 trictrac
@@ -44427,6 +44461,7 @@ vesiculating
 vesiculations
 vesper
 vespiary
+vesseled
 vestal
 vestee
 vestees
