@@ -488,6 +488,7 @@ advantageously
 advantages
 adventitia
 adventitias
+adventitious
 adventive
 adventives
 adventure
@@ -1429,6 +1430,7 @@ anisotropies
 anisotropy
 ankhs
 anklebone
+anklebones
 ankled
 ankylosauruses
 ankylose
@@ -3159,6 +3161,7 @@ basils
 basined
 basinful
 basinlike
+bask
 basketfuls
 basking
 basmatis
@@ -5045,6 +5048,7 @@ buffalos
 buffed
 buffer
 buffeter
+buffeters
 buffeting
 buffoonish
 buffos
@@ -5462,6 +5466,7 @@ calipee
 caliper
 caliph
 caliphal
+caliphates
 calisthenic
 calix
 calked
@@ -6303,6 +6308,7 @@ certiorari
 certioraris
 certitudes
 cerulean
+ceruleans
 cerumen
 ceruses
 cerusites
@@ -7310,6 +7316,7 @@ clozapine
 cloze
 club
 clubable
+clubbable
 clubbers
 clubbish
 clubfaces
@@ -9076,6 +9083,7 @@ credenda
 credent
 credenzas
 credibility
+credible
 creditability
 creditable
 creditor
@@ -13180,6 +13188,7 @@ enharmonically
 enigma
 enigmas
 enigmata
+enigmatically
 enisle
 enisling
 enjambements
@@ -14290,6 +14299,7 @@ exurban
 exurbanite
 exurbia
 exuvia
+exuviation
 exuviations
 eye
 eyeball
@@ -16449,6 +16459,7 @@ gauchos
 gaudery
 gauds
 gauffering
+gauffers
 gauged
 gault
 gaumed
@@ -17043,6 +17054,7 @@ goitre
 goldarns
 goldbricked
 goldener
+goldenness
 goldenrod
 goldsmiths
 goldstone
@@ -17812,6 +17824,7 @@ halfpenny
 halftrack
 halid
 halide
+halitoses
 halituses
 hallah
 hallelujah
@@ -18538,6 +18551,7 @@ hilarious
 hillbilly
 hilled
 hillers
+hillo
 hilloaing
 hillocky
 hilloes
@@ -23528,6 +23542,7 @@ maneless
 maneuverer
 maneuvering
 manful
+manga
 manganic
 manganites
 manganous
@@ -26578,6 +26593,7 @@ nondepressed
 nondescript
 nondescriptive
 nondescripts
+nondestructive
 nondeviant
 nondisclosure
 nondisruptive
@@ -27193,6 +27209,7 @@ obtruders
 obtrusive
 obturated
 obturating
+obturators
 obtuse
 obtusity
 obverse
@@ -27481,6 +27498,7 @@ opaquenesses
 opaquest
 openable
 opencast
+openings
 openmouthedness
 opennesses
 opera
@@ -28007,6 +28025,7 @@ outraced
 outrageously
 outraised
 outrance
+outrange
 outrate
 outrated
 outrates
@@ -28186,6 +28205,7 @@ overblowing
 overboiled
 overbooked
 overbought
+overbred
 overbrief
 overbright
 overbroad
@@ -28416,6 +28436,7 @@ overplant
 overplanting
 overplayed
 overplots
+overplus
 overpopulating
 overpopulations
 overpotent
@@ -29044,6 +29065,7 @@ parishioner
 parkettes
 parkings
 parkinsonian
+parkinsonisms
 parkways
 parlando
 parlaying
@@ -30847,6 +30869,7 @@ polygynous
 polyhedroses
 polyhistors
 polymathic
+polymathies
 polymaths
 polymathy
 polymer
@@ -33030,6 +33053,7 @@ rarefactional
 rarefied
 rarefiers
 rarefies
+rares
 rarified
 rarifies
 raring
@@ -33452,6 +33476,7 @@ recounts
 recoupe
 recouped
 recoverer
+recoverers
 recoveries
 recovers
 recrated
@@ -34005,6 +34030,7 @@ relandscapes
 relapsers
 relapses
 relatedly
+relatedness
 relating
 relation
 relationally
@@ -34937,6 +34963,7 @@ rhizomata
 rhizomes
 rhizopuses
 rhodamin
+rhodamines
 rhodamins
 rhodolites
 rhodomontade
@@ -36902,6 +36929,7 @@ shabby
 shackle
 shacklebone
 shackles
+shackling
 shacko
 shad
 shadchans
@@ -38937,6 +38965,7 @@ stagecoaches
 stagecraft
 stageful
 stagelike
+stager
 stagflation
 staggard
 staggards
@@ -39927,6 +39956,7 @@ succeed
 succeeded
 succeeder
 succeeding
+succession
 successional
 successionally
 successively
@@ -40073,6 +40103,7 @@ sunbathes
 sunbathing
 sunbaths
 sunbeam
+sunbird
 sunbirds
 sunblocks
 sunburned
@@ -41022,6 +41053,7 @@ tauon
 taupes
 taurine
 tauten
+tautened
 tautogs
 tautological
 tautologous
@@ -42372,6 +42404,7 @@ transliterate
 translucence
 translucences
 translucent
+translucently
 transmembrane
 transmigrate
 transmigrating
@@ -42509,6 +42542,7 @@ tressure
 tressy
 trestleworks
 tret
+tretinoin
 trevets
 triacid
 triacids
@@ -45877,6 +45911,7 @@ winterizes
 wintles
 wintriness
 winze
+winzes
 wipeout
 wipeouts
 wiredraw
