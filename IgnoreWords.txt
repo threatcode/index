@@ -2325,6 +2325,7 @@ astir
 astonishes
 astonishing
 astonishingly
+astounded
 astoundingly
 astrachan
 astrakhans
@@ -4623,6 +4624,7 @@ bovinely
 bowdlerizer
 bowdlerizers
 bowed
+bowelling
 bowerbirds
 bowered
 bowers
@@ -5186,6 +5188,7 @@ burgled
 burgonets
 burgoos
 burials
+buried
 burier
 buries
 burins
@@ -5805,6 +5808,7 @@ carbolic
 carbolizes
 carbolizing
 carbonara
+carbonate
 carbonating
 carbonium
 carbonizations
@@ -7294,6 +7298,7 @@ cloot
 closable
 closers
 closet
+closeted
 closets
 clostridial
 closures
@@ -7560,6 +7565,7 @@ cogitation
 cogitator
 cogitos
 cognacs
+cognates
 cognised
 cognising
 cognitional
@@ -8960,6 +8966,7 @@ cowards
 cowbird
 cowboy
 cowboyed
+cowers
 cowfish
 cowgirls
 cowhide
@@ -9640,6 +9647,7 @@ cynics
 cynosural
 cynosure
 cyphered
+cyphers
 cypres
 cypreses
 cypresses
@@ -11406,6 +11414,7 @@ disembarking
 disembarrass
 disembarrassing
 disembodies
+disembogued
 disembogues
 disemboweled
 disembowelling
@@ -12082,6 +12091,7 @@ dramatises
 dramatising
 dramatists
 dramatizable
+dramatizing
 dramaturg
 drammed
 drammock
@@ -14884,6 +14894,7 @@ fibrositises
 fibrovascular
 fice
 fickle
+fickler
 fickly
 fictile
 fictionalities
@@ -15486,6 +15497,7 @@ folates
 fold
 folder
 foldup
+foldups
 folia
 foliage
 foliation
@@ -15831,6 +15843,7 @@ frangipani
 frangipanni
 frank
 frankable
+franked
 frankers
 frankfurt
 frankincense
@@ -15918,6 +15931,7 @@ fretsaws
 fretter
 fretty
 fretwork
+friabilities
 friarbirds
 fribblers
 fricasseeing
@@ -17151,6 +17165,7 @@ gossypol
 gothicisms
 gothicize
 gothicized
+gothicizes
 gothicizing
 gothics
 gothites
@@ -20729,6 +20744,7 @@ intolerable
 intolerances
 intombs
 intonated
+intonating
 intone
 intoner
 intoners
@@ -20901,6 +20917,7 @@ irk
 irked
 irking
 irks
+irksomely
 irksomeness
 irksomenesses
 iroko
@@ -23069,6 +23086,7 @@ loupes
 loups
 lours
 lout
+loutishly
 louvered
 louvres
 lovablenesses
@@ -24166,6 +24184,7 @@ merceries
 mercerises
 mercerized
 mercerizing
+merchandisings
 merchant
 merchantable
 merchanted
@@ -26324,6 +26343,7 @@ nexuses
 ngultrums
 ngwee
 nib
+nibbed
 nibbing
 nibble
 nibbler
@@ -26948,6 +26968,7 @@ notched
 notcher
 notebooks
 notedly
+noteless
 notepapers
 notes
 nother
@@ -27535,6 +27556,7 @@ opercula
 operculated
 opercules
 operculum
+operculums
 operettas
 operettist
 operoseness
@@ -28974,6 +28996,7 @@ paraded
 parader
 paraders
 paradigm
+paradises
 paradisiac
 paradisiacal
 paradisiacally
@@ -31564,6 +31587,7 @@ preplanned
 preplant
 preponderately
 preponderating
+prepositions
 prepossessed
 prepossessing
 preposterously
@@ -36233,6 +36257,7 @@ scolded
 scoleces
 scolex
 scoliotic
+scollops
 sconcheon
 sconcheons
 scone
@@ -38977,6 +39002,7 @@ stabilize
 stabilized
 stabilizers
 stabilizing
+stable
 stableboy
 stableboys
 stableman
@@ -41603,6 +41629,7 @@ thermostability
 thermostable
 thermostat
 thermostated
+thermostatic
 thermostating
 thermostats
 thermotropic
@@ -41935,6 +41962,7 @@ tippled
 tippler
 tippytoeing
 tipsy
+tiptoed
 tireder
 tirednesses
 tireless
@@ -42910,6 +42938,7 @@ tuftily
 tuftings
 tugboat
 tugless
+tuille
 tuitional
 tularemia
 tularemias
@@ -44414,6 +44443,7 @@ uranites
 uranitic
 uranium
 uraniums
+uraris
 urase
 urates
 urbanise
@@ -44686,6 +44716,7 @@ vedettes
 veena
 veepee
 veers
+vegan
 veganisms
 veges
 vegetal
@@ -45587,7 +45618,9 @@ weight
 weighted
 weightlessness
 weighty
+weiner
 weiners
+weirded
 weirder
 weirdly
 weirdness
@@ -45746,6 +45779,7 @@ whir
 whirl
 whirled
 whirlier
+whirling
 whirlpools
 whirls
 whirries
@@ -46305,6 +46339,7 @@ yam
 yamalkas
 yamen
 yamun
+yanks
 yanqui
 yapped
 yard
