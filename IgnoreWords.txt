@@ -2112,6 +2112,7 @@ ares
 aretes
 argala
 argentite
+argentous
 argents
 argil
 argillite
@@ -3430,6 +3431,7 @@ bedeafening
 bedeck
 bedehouse
 bedehouses
+bedel
 bedemen
 bedeviling
 bedevilments
@@ -3462,6 +3464,7 @@ bedside
 bedsit
 bedsits
 bedstand
+bedstands
 bedstead
 bedtimes
 beduins
@@ -6596,6 +6599,7 @@ channelers
 channelizations
 channelizing
 chanoyus
+chant
 chantage
 chanteys
 chanticleers
@@ -7375,6 +7379,7 @@ clerisy
 clerk
 clerkdom
 clerkdoms
+clerking
 clerkly
 clerkships
 clever
@@ -8588,6 +8593,7 @@ contravening
 contredanse
 contribution
 contributive
+contributor
 contributory
 contritions
 contrived
@@ -9350,6 +9356,7 @@ crested
 crestfallenness
 cresting
 crestings
+crestless
 crests
 cresylic
 cresyls
@@ -10390,6 +10397,7 @@ defeasances
 defeat
 defeaters
 defeating
+defeats
 defecate
 defecated
 defecation
@@ -11041,6 +11049,7 @@ detested
 detesting
 dethatches
 dethroned
+dethroner
 detick
 detickers
 detinues
@@ -11516,6 +11525,7 @@ diprotic
 dipsomaniac
 dipsomaniacal
 dipt
+dipterans
 dipterocarp
 dipteron
 diptycas
@@ -11831,6 +11841,7 @@ dispersal
 disperser
 dispersion
 dispiriting
+dispiteous
 displaceable
 displaced
 displaces
@@ -12449,6 +12460,7 @@ dribbed
 dribblets
 dribbling
 driegh
+drier
 drifted
 drifter
 drifters
@@ -13183,6 +13195,7 @@ embaying
 embedded
 embedding
 embeddings
+embedment
 embeds
 embellished
 embellisher
@@ -15072,6 +15085,7 @@ feinting
 feistiest
 feistiness
 feists
+felafel
 feldscher
 feldshers
 felicitator
@@ -15769,6 +15783,7 @@ fluffs
 fluffy
 flugelhorn
 flugelhornist
+fluidal
 fluidize
 fluidizing
 fluish
@@ -17511,6 +17526,7 @@ gonadotrophins
 gondolier
 gonenesses
 gonfalon
+gonfalons
 gonfanon
 gonfanons
 gonging
@@ -17990,6 +18006,7 @@ gruntled
 grutching
 grutten
 gruyere
+gryphons
 guacamole
 guacharo
 guacharoes
@@ -20646,6 +20663,7 @@ infantilizes
 infantine
 infantries
 infantry
+infarctions
 infares
 infatuates
 infatuation
@@ -22281,6 +22299,7 @@ kip
 kipper
 kippered
 kipperers
+kippers
 kipping
 kipskin
 kirigami
@@ -22676,6 +22695,7 @@ lapstreak
 lapsus
 larcenies
 larcenists
+larceny
 larder
 lardier
 lardiest
@@ -24418,6 +24438,7 @@ masterdoms
 masterful
 masterfulness
 mastermind
+masterminded
 masterminds
 mastersingers
 masterstroke
@@ -24442,6 +24463,7 @@ masturbations
 masturbator
 mat
 matador
+matambala
 match
 matchboards
 matchless
@@ -26029,6 +26051,7 @@ morphemes
 morphemic
 morphemically
 morphemics
+morphine
 morphins
 morphologic
 morphological
@@ -27534,6 +27557,7 @@ nonsystemic
 nontalkers
 nontemporal
 nonterminals
+nontheatrical
 nontheoretical
 nonthermal
 nonthinking
@@ -30469,6 +30493,7 @@ permafrosts
 permalloys
 permanences
 permanent
+permanentnesses
 permeably
 permeates
 permillage
@@ -33555,6 +33580,7 @@ quenched
 quenchers
 quenches
 quenching
+quenelle
 queridas
 queriers
 querists
@@ -35677,6 +35703,7 @@ retrenches
 retrenching
 retrenchment
 retrievable
+retrieved
 retriever
 retrievers
 retrieving
@@ -36780,6 +36807,7 @@ sapour
 sapphire
 sapphism
 sapphisms
+sappiest
 sappily
 sappiness
 saprobes
@@ -38869,6 +38897,7 @@ slurb
 slurred
 slurried
 slurs
+slushily
 slushing
 sluttiest
 sluttishness
@@ -40205,6 +40234,7 @@ stepparents
 stepstool
 stepstools
 stereograph
+stereographing
 stereographs
 stereoisomer
 stereoisomerism
@@ -40281,6 +40311,7 @@ stigmatically
 stigmatists
 stigmatization
 stigmatize
+stigmatized
 stigmatizing
 stilbene
 stilbestrol
@@ -45611,6 +45642,7 @@ usurers
 usurpations
 usurped
 usury
+ut
 ute
 utilidors
 utilised
@@ -46310,6 +46342,7 @@ voltaic
 voltaisms
 volubilities
 volumes
+voluming
 voluntarily
 voluntarinesses
 voluntarist
@@ -47559,6 +47592,7 @@ yippie
 yirds
 yirred
 yob
+yobbo
 yobboes
 yock
 yocks
@@ -47667,6 +47701,7 @@ zestiest
 zestily
 zests
 zeugmas
+zeugmatic
 zibelines
 zibelline
 zibellines
