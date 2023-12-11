@@ -10,3 +10,9 @@ ext_tables_static+adt.sql - Die Netzmacher,https://gitlab.die-netzmacher.de/typo
 https://raw.githubusercontent.com/TrinityCore/Trin...,https://raw.githubusercontent.com/TrinityCore/TrinityCore/60c214e99cf0351868dd4a75f1753ad6bec972a9/sql/updates/world/2014_04_21_07_world_locales_item.sql
 https://raw.githubusercontent.com/1eez/103976/mast...,https://raw.githubusercontent.com/1eez/103976/master/SQLQuery.sql
 www.yamagata-sake.jp/cgi-bin/lib/zizake-backup.sql,http://www.yamagata-sake.jp/cgi-bin/lib/zizake-backup.sql
+postgre_sample_data.sql · master · examples / SQL Pocket Guide ...,https://resources.oreilly.com/examples/0636920013471/blob/master/postgre_sample_data.sql
+09 Database scripts/M4EU DB/E-myb schema myb v2020.3/03 ...,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/5b58cd7260bf866eabb1c2182604e624dd8addb3/09%2520Database%2520scripts/M4EU%2520DB/E-myb%2520schema%2520myb%2520v2020.3/03%2520emyb%2520myb%2520codelist%2520v2020.3.sql
+vorp_pre-made/MariaDB.sql at main - GitHub,https://github.com/VORPCORE/vorp_pre-made/blob/main/MariaDB.sql
+09 Database scripts/E-MineralYearBook/03 codelist schema yb v1 ...,https://geusgitlab.geus.dk/m4eu/2019-ORAMA-v2.xx/-/blob/0ab8aa4d51f1f190572a75ea62edd1ddb6a82e12/09%2520Database%2520scripts/E-MineralYearBook/03%2520codelist%2520schema%2520yb%2520v1.00.sql
+Other (PostgreSQL complete database) - Durham e-Theses,http://etheses.dur.ac.uk/14524/3/DB_all.sql%3FDDD6%2B
+CommunityServer/build/sql/onlyoffice.data.sql at master - GitHub,https://github.com/ONLYOFFICE/CommunityServer/blob/master/build/sql/onlyoffice.data.sql
