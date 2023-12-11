@@ -223,6 +223,7 @@ acetophenetidin
 acetyl
 acetylating
 acetylation
+acetylenic
 acetylic
 acetyls
 achieves
@@ -672,6 +673,7 @@ agapeic
 agapes
 agateware
 agatized
+agatoid
 agaves
 agaze
 agednesses
@@ -949,6 +951,7 @@ align
 aligns
 aliment
 alimental
+alimentations
 alimented
 aliments
 aliped
@@ -2429,6 +2432,7 @@ astrometries
 astronomical
 astrophotograph
 astrophysical
+astrophysicist
 astutely
 astuteness
 aswarm
@@ -2611,6 +2615,7 @@ auscultate
 auscultated
 auscultating
 auscultation
+ausforms
 auspice
 auspices
 austerely
@@ -3253,6 +3258,7 @@ basely
 baseman
 basemen
 baseness
+basenji
 baserunnings
 bashes
 bashfully
@@ -3534,6 +3540,7 @@ befuddling
 begalling
 begalls
 begat
+begazed
 begazing
 beggardom
 beggarlinesses
@@ -4249,6 +4256,7 @@ bleach
 bleacher
 bleaches
 bleakest
+bleakly
 bleaknesses
 blearier
 blearily
@@ -5072,6 +5080,7 @@ bronchoscopes
 bronchoscopic
 bronchoscopies
 bronchoscopy
+bronchospasm
 broncobusters
 broncs
 bronziest
@@ -5698,6 +5707,7 @@ camases
 camass
 cambism
 cambist
+camelid
 camellia
 cameo
 camerae
@@ -7280,6 +7290,7 @@ clairaudient
 clairvoyantly
 clairvoyants
 clambake
+clammed
 clammers
 clammier
 clammiest
@@ -9811,6 +9822,7 @@ cuteys
 cuticula
 cutie
 cutin
+cutinised
 cutins
 cutis
 cutlass
@@ -12931,6 +12943,7 @@ ectodermal
 ectomeric
 ectomorph
 ectomorphic
+ectoparasitic
 ectopically
 ectoproct
 ectozoa
@@ -13053,6 +13066,7 @@ eidetically
 eidola
 eidolic
 eidos
+eigenmodes
 eigenvalues
 eightball
 eighteenths
@@ -13182,6 +13196,7 @@ ells
 elmier
 elmy
 elocution
+elodeas
 eloigner
 eloigners
 eloin
@@ -14383,6 +14398,7 @@ exchangeability
 exchanged
 excide
 excimer
+excipients
 excises
 excising
 excitability
@@ -15153,6 +15169,7 @@ felstone
 felt
 feminazi
 feminazis
+femininely
 feminineness
 feminise
 feminises
@@ -15335,6 +15352,7 @@ fidgety
 fidging
 fido
 fiduciaries
+fief
 fiefdoms
 fielding
 fieldstone
@@ -16265,6 +16283,7 @@ fragmental
 fragmentary
 fragmentate
 fragmented
+frailer
 fraises
 framers
 frameshifts
@@ -18833,6 +18852,7 @@ helmsmen
 helotage
 helper
 helpful
+helpfully
 helps
 helves
 hemagglutinate
@@ -19558,6 +19578,7 @@ hucks
 huckster
 huckstering
 hucksterisms
+hucksters
 huddler
 huddlers
 huddles
@@ -22329,6 +22350,7 @@ kilted
 kiltie
 kiltings
 kilty
+kimchee
 kimchi
 kindergarten
 kindergartner
@@ -22349,6 +22371,7 @@ kingbirds
 kingfish
 kingfisher
 kinghood
+kinghoods
 kinglinesses
 kings
 kingship
@@ -24315,6 +24338,7 @@ manses
 mansion
 manslaughter
 manslayers
+mansuetudes
 mantel
 mantelet
 manticore
@@ -26143,6 +26167,7 @@ morsel
 morseling
 mortadellas
 mortal
+mortarboard
 mortarboards
 mortared
 mortarman
@@ -30174,6 +30199,7 @@ pawpaws
 paxwax
 paxwaxes
 payably
+paybacks
 paydays
 payer
 payloads
@@ -31612,6 +31638,7 @@ pockmark
 pockmarked
 pockmarking
 pocks
+poco
 pococurantism
 pocosens
 pocosin
@@ -36520,6 +36547,7 @@ ruiner
 ruinously
 ruinousness
 ruinousnesses
+ruled
 rules
 rulings
 rumba
@@ -36605,6 +36633,7 @@ sabbaticals
 sabbed
 sabed
 saber
+sabering
 sabin
 sabines
 sabins
@@ -37131,6 +37160,7 @@ scarious
 scarlatina
 scarlatinal
 scarper
+scarphed
 scarphing
 scarping
 scarring
@@ -38496,6 +38526,7 @@ sigmoids
 signalise
 signalizations
 signalize
+signalizing
 signalling
 signally
 signalment
@@ -40021,6 +40052,7 @@ spurrey
 spurt
 spurting
 sputniks
+sputtered
 sputtering
 sputters
 spymasters
@@ -40214,6 +40246,7 @@ statehoods
 statehouse
 stateless
 statelessnesses
+stateliness
 statelinesses
 stately
 states
@@ -43989,6 +44022,7 @@ trivialising
 trivialist
 trivialities
 trivialized
+troaks
 trocar
 trochal
 trochanter
@@ -46498,6 +46532,7 @@ votable
 votaress
 votaries
 votarist
+votarists
 voted
 voter
 votive
