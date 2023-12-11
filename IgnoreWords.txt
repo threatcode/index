@@ -246,6 +246,7 @@ acidities
 acidnesses
 acids
 acidulate
+acidulating
 acidurias
 acierate
 acierates
@@ -1138,6 +1139,7 @@ amboina
 amboinas
 ambones
 amboynas
+ambries
 ambroid
 ambrosially
 ambsaces
@@ -1553,6 +1555,7 @@ antarctic
 anteaters
 antecede
 antecedents
+anteceding
 antechambers
 antechoir
 antefixa
@@ -2161,6 +2164,7 @@ armillas
 arming
 armloads
 armlock
+armorial
 armorials
 armoring
 armory
@@ -8528,6 +8532,7 @@ contagions
 contagious
 contagium
 containable
+containerize
 containerized
 containerizes
 contaminating
@@ -9449,6 +9454,7 @@ croaky
 crocein
 croceines
 croceins
+croci
 crocidolites
 crocine
 crockets
@@ -10584,6 +10590,7 @@ deked
 dekes
 dekkos
 delaminated
+delation
 delaying
 deleading
 deleave
@@ -12471,6 +12478,7 @@ drearinesses
 drecks
 dredged
 dredges
+dredging
 dreggish
 dreich
 dreidls
@@ -13499,6 +13507,7 @@ endothelium
 endotoxins
 endower
 endowing
+endowments
 endplayed
 endrin
 endrins
@@ -15959,6 +15968,7 @@ foolery
 foolfish
 foolfishes
 foolhardier
+fooling
 foolish
 foolishly
 foolscaps
@@ -17242,6 +17252,7 @@ gipons
 gipped
 gips
 gipsy
+giraffe
 girandola
 girandolas
 girandoles
@@ -18271,6 +18282,7 @@ hadronic
 hadrons
 hadrosaur
 haematal
+haematics
 haematin
 haemins
 haems
@@ -19288,6 +19300,7 @@ homeworks
 homiletical
 homilist
 homilists
+hominess
 homing
 hominids
 hominies
@@ -19688,6 +19701,7 @@ hydrobiology
 hydrocarbon
 hydrocast
 hydrocephalics
+hydrocephaluses
 hydrochlorides
 hydrocolloid
 hydrocolloids
@@ -19897,6 +19911,7 @@ hypothecator
 hypothenuses
 hypothermal
 hypothermia
+hypothetically
 hypotonia
 hypotonias
 hypotonic
@@ -21523,6 +21538,7 @@ irradiances
 irradiation
 irradiative
 irradiators
+irradicable
 irradicably
 irrational
 irrationalism
@@ -22923,6 +22939,7 @@ leafleting
 leafletting
 leafy
 leagued
+leaked
 lealties
 leaners
 leanings
@@ -23021,6 +23038,7 @@ lehr
 lei
 leishmania
 leistering
+leisure
 leitmotifs
 leku
 lekvars
@@ -25816,6 +25834,7 @@ moduli
 mofette
 moggies
 mogging
+moguled
 moguls
 mohair
 mohelim
@@ -26177,6 +26196,7 @@ mothy
 motilities
 motioning
 motivationally
+motivations
 motivic
 motivities
 motivity
@@ -26557,6 +26577,7 @@ mutular
 mutule
 muzhik
 muzjik
+muzzler
 muzzles
 myalgias
 myalgic
@@ -26843,6 +26864,7 @@ necessitarians
 necessitate
 necessitated
 necessities
+necessitousness
 necessity
 neckband
 neckcloths
@@ -30929,6 +30951,7 @@ photoperiodism
 photoperiodisms
 photophobia
 photophobias
+photophobic
 photopias
 photopic
 photoproduction
@@ -31764,6 +31787,7 @@ polymorphically
 polymorphisms
 polynomial
 polynucleotides
+polynya
 polynyi
 polyolefin
 polyolefins
@@ -34085,6 +34109,7 @@ ravined
 rawest
 rawhide
 rawin
+rawinsonde
 rawish
 rawnesses
 raya
@@ -36031,6 +36056,7 @@ richweed
 ricins
 ricketier
 rickety
+ricksha
 rickshas
 ricocheting
 ricochets
@@ -37950,6 +37976,7 @@ sewered
 sewering
 sexagesimals
 sexdecillion
+sexed
 sexes
 sexier
 sexiest
@@ -38206,6 +38233,7 @@ shirtiest
 shirtmaker
 shirtsleeve
 shirttailed
+shirttailing
 shirttails
 shitake
 shitheads
@@ -40658,6 +40686,7 @@ strikebound
 strikebreakings
 strikeouts
 strikes
+strikingly
 stringcourses
 stringency
 stringhalts
@@ -40856,6 +40885,7 @@ subcordate
 subcortex
 subcortexes
 subcostals
+subcults
 subcutis
 subdealer
 subdealers
@@ -41764,6 +41794,7 @@ sycophantisms
 sycoses
 syli
 syllabic
+syllabicating
 syllabicity
 syllabics
 syllabification
@@ -42191,6 +42222,7 @@ tars
 tarsal
 tarsi
 tart
+tartan
 tartans
 tartarous
 tarted
@@ -42492,6 +42524,7 @@ tendrilled
 tends
 tendus
 tenebrionid
+tenebrisms
 tenebrists
 tenement
 tenfolds
@@ -43378,6 +43411,7 @@ tortuousnesses
 torture
 torturers
 tortures
+torturous
 torula
 tory
 tosser
@@ -47428,6 +47462,7 @@ woos
 wooshed
 wooshes
 woozier
+wooziest
 wops
 wordbook
 wordier
