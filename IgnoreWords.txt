@@ -7087,6 +7087,7 @@ chrominance
 chromite
 chromo
 chromocenters
+chromogenic
 chromogens
 chromomeric
 chromophores
@@ -8354,6 +8355,7 @@ condylar
 condyles
 condyloid
 condylomas
+conelrads
 conenoses
 conepate
 conepates
@@ -8525,6 +8527,7 @@ consolatory
 console
 consoled
 consoling
+consomme
 consonance
 consonances
 consortia
@@ -8975,6 +8978,7 @@ corybantic
 corymbous
 corymbs
 corynebacterial
+coryneform
 coryphees
 coryzal
 coscripting
@@ -9238,6 +9242,7 @@ covers
 coversines
 coverslip
 covert
+covertness
 coverts
 coverup
 covetousness
@@ -11188,6 +11193,7 @@ deveined
 deveining
 deveins
 develop
+develope
 developer
 developmentally
 develops
@@ -11267,6 +11273,7 @@ dhobi
 dhobis
 dhole
 dhoora
+dhooras
 dhotis
 dhurnas
 dhuti
@@ -12545,6 +12552,7 @@ dreamtime
 dreamtimes
 dreamworlds
 drearinesses
+drears
 drecks
 dredged
 dredges
@@ -13660,6 +13668,7 @@ enjambements
 enjoining
 enjoy
 enjoyable
+enjoyablenesses
 enjoyed
 enjoyers
 enkephalin
@@ -14637,6 +14646,7 @@ experted
 expertize
 expertness
 expiates
+expiator
 expirers
 expiring
 explantations
@@ -15069,6 +15079,7 @@ fascinatingly
 fascioliases
 fascism
 fascistic
+fashed
 fashionableness
 fashionables
 fashionistas
@@ -15170,6 +15181,7 @@ featured
 featureless
 featurette
 featurettes
+feazed
 feazing
 febrifuges
 febrility
@@ -16020,6 +16032,7 @@ foldup
 foldups
 folia
 foliage
+foliated
 foliation
 folic
 folioing
@@ -16652,6 +16665,7 @@ fumettes
 fumigant
 fumigants
 fumigating
+fumy
 funambulist
 functionalist
 functionalists
@@ -17668,6 +17682,7 @@ goliard
 golliwog
 golliwogs
 gombo
+gomeral
 gomphoses
 gomutis
 gonadal
@@ -18315,6 +18330,7 @@ gymnasia
 gymnasium
 gymnast
 gymnospermy
+gynaecia
 gynaecium
 gynaecologies
 gynandries
@@ -18404,6 +18420,7 @@ hagborn
 hagbuts
 hagdon
 haggardnesses
+haggis
 haggises
 haggler
 haggling
@@ -18513,6 +18530,7 @@ hammy
 hamulate
 hamulous
 hamza
+hamzas
 hanaper
 hances
 hand
@@ -18914,6 +18932,7 @@ heliozoan
 helistop
 helium
 hellacious
+hellaciously
 hellbox
 hellboxes
 helldiver
@@ -19461,6 +19480,7 @@ honeworts
 honeycombing
 honeydews
 honeyed
+honeyful
 honeyguide
 honeymooning
 honeypot
@@ -20282,6 +20302,7 @@ immunogens
 immunoglobulins
 immunologies
 immunology
+immunomodulator
 immunosorbent
 immunosuppress
 immunotherapies
@@ -22258,6 +22279,7 @@ karmic
 karns
 karoo
 karsts
+karts
 karyogamies
 karyokinetic
 karyological
@@ -22583,6 +22605,7 @@ knocker
 knockers
 knocking
 knopped
+knotlike
 knotter
 knottiest
 knotweed
@@ -23320,6 +23343,7 @@ liberalists
 liberalize
 liberally
 liberalnesses
+liberating
 liberation
 liberationists
 libertarianism
@@ -24484,6 +24508,7 @@ maquillage
 mar
 marabouts
 maraca
+maranta
 maras
 marascas
 maraschinos
@@ -29136,6 +29161,7 @@ outthanking
 outthrob
 outthrobs
 outthrowing
+outthrown
 outtowers
 outtravel
 outtravels
@@ -29520,6 +29546,7 @@ overshoe
 overshot
 oversides
 oversimplifying
+oversimplistic
 overslaughing
 oversmoked
 oversmoking
@@ -33365,6 +33392,7 @@ psammite
 psammitic
 psephitic
 psephologists
+pseud
 pseudepigrapha
 pseudepigraphs
 pseudo
@@ -41114,6 +41142,7 @@ subcommissions
 subcommittee
 subcomponent
 subconscious
+subconsciouses
 subconsul
 subcontracting
 subcontraoctave
@@ -41697,6 +41726,7 @@ supersafe
 supersalesman
 supersaturate
 supersaturated
+supersaurs
 superschools
 superscout
 superscouts
@@ -42287,6 +42317,7 @@ tailraces
 tailskids
 tailslides
 tailspin
+tailspins
 tailstocks
 tailwind
 taintless
@@ -42844,6 +42875,7 @@ termination
 terminatively
 terminator
 terming
+terminologies
 terminuses
 termitary
 termites
@@ -45088,6 +45120,7 @@ underexpose
 underfed
 underfeeds
 underfunded
+underfurs
 undergirded
 undergirt
 undergods
@@ -47163,10 +47196,12 @@ wedeln
 wedelns
 wedgie
 wedgy
+wedlock
 wedlocks
 weeded
 weediness
 weedlike
+weekdays
 weeks
 weens
 weensier
