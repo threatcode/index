@@ -1,0 +1,10 @@
+version-control-tools/ansible/roles/hg-ssh-server/files/requirements ...,https://github.com/mozilla/version-control-tools/blob/master/ansible/roles/hg-ssh-server/files/requirements-pash.txt
+https://tgftp.nws.noaa.gov/data/observations/metar...,https://tgftp.nws.noaa.gov/data/observations/metar/decoded/PASH.TXT
+https://tgftp.nws.noaa.gov/data/observations/metar...,https://tgftp.nws.noaa.gov/data/observations/metar//decoded/PASH.TXT
+https://www.jrheum.org/content/45/11/1605.3.full.txt,https://www.jrheum.org/content/45/11/1605.3.full.txt
+19101937.txt - VA.gov,https://www.va.gov/vetapp19/Files1/19101937.txt
+https://www.va.gov/vetapp09/files1/0908408.txt,https://www.va.gov/vetapp09/files1/0908408.txt
+oggathi.txt,https://www.rrc.state.tx.us/media/eqmd2r5a/oggathi.txt
+oggathi.txt,https://www.rrc.state.tx.us/media/0b2nrore/oggathi.txt
+https://www.rrc.texas.gov/media/uzniwes0/ogpurchi.txt,https://www.rrc.texas.gov/media/uzniwes0/ogpurchi.txt
+https://www.rrc.texas.gov/media/10ed4ygv/ogpurchi.txt,https://www.rrc.texas.gov/media/10ed4ygv/ogpurchi.txt
