@@ -805,6 +805,7 @@ aimless
 aiolis
 airbag
 airboat
+airborne
 airbrush
 aircoach
 aircoaches
@@ -3334,6 +3335,7 @@ bastinaded
 bastings
 bastion
 bastioned
+basts
 batch
 batches
 bateau
@@ -9324,6 +9326,7 @@ cowy
 coxae
 coxalgia
 coxed
+coxitides
 coxitis
 coxswaining
 coxswains
@@ -9988,6 +9991,7 @@ cycloaddition
 cycloaliphatic
 cyclodiene
 cyclodienes
+cycloids
 cyclonal
 cyclonites
 cycloolefin
@@ -10581,6 +10585,7 @@ deferrer
 defervescence
 deffer
 defi
+defibrillate
 defibrillates
 defibrillations
 defibrillator
@@ -11078,6 +11083,7 @@ desecraters
 desecrating
 desecrators
 desensitizer
+desensitizers
 desensitizes
 desensitizing
 desertion
@@ -11491,6 +11497,7 @@ dido
 die
 diebacks
 dieffenbachias
+dielectrics
 dienes
 dieoffs
 dies
@@ -15683,6 +15690,7 @@ firebug
 fireclay
 firedog
 firefang
+firefight
 fireflies
 firehouse
 firelight
@@ -16616,6 +16624,7 @@ fringier
 frisbees
 frisees
 frisk
+friskets
 friskiness
 fritillaries
 frittatas
@@ -19625,6 +19634,7 @@ hooded
 hoodies
 hooding
 hoodless
+hoodlumish
 hoodlums
 hoodmold
 hoodooing
@@ -20571,6 +20581,7 @@ imprinting
 improbable
 impropernesses
 impropriety
+improvabilities
 improvable
 improvement
 improvements
@@ -21804,6 +21815,7 @@ ironed
 ironhearted
 ironical
 ironicalness
+ironies
 ironings
 ironized
 ironman
@@ -22231,6 +22243,7 @@ jointured
 jointures
 jointweed
 jointworm
+joist
 joists
 jojoba
 joked
@@ -22733,6 +22746,7 @@ kneelers
 kneels
 kneepiece
 kneesies
+knelling
 knickerbockers
 knife
 knifing
@@ -24160,6 +24174,7 @@ lungans
 lunge
 lunger
 lungers
+lunges
 lungfish
 lungi
 lunging
@@ -24552,6 +24567,7 @@ mandate
 mandates
 mandating
 mandiocas
+mandolas
 mandolines
 mandolinists
 mandolins
@@ -24721,6 +24737,7 @@ marigolds
 marijuana
 marinaded
 marinaras
+marination
 marinations
 marionette
 marionettes
@@ -25298,6 +25315,7 @@ mestizas
 mestizo
 mestizoes
 met
+meta
 metabolite
 metabolizable
 metabolize
@@ -28785,6 +28803,7 @@ orations
 orator
 oratorical
 oratories
+oratorio
 oratresses
 oratrix
 orbed
@@ -30402,6 +30421,7 @@ pashas
 pashminas
 pasodobles
 pasqueflower
+pasquil
 pass
 passable
 passably
@@ -33568,6 +33588,7 @@ provokingly
 prowess
 prowled
 proxemic
+proximally
 proximateness
 prude
 prudence
@@ -35288,6 +35309,7 @@ regalities
 regarded
 regardfulnesses
 regathering
+regathers
 regauge
 regauges
 regauging
@@ -35744,6 +35766,7 @@ repeater
 repegged
 repel
 repellers
+repentant
 repentantly
 repenting
 repents
@@ -36710,6 +36733,7 @@ roamer
 roaming
 roan
 roared
+roarer
 roars
 roasts
 robalos
@@ -36926,6 +36950,7 @@ rowboat
 rowdiest
 roweled
 rowens
+rowings
 rows
 royalism
 royalisms
@@ -37484,6 +37509,7 @@ satyrlike
 sauce
 saucebox
 saucepans
+saucily
 saucinesses
 sauerkrauts
 sauger
@@ -37918,6 +37944,7 @@ scrunchy
 scruple
 scruples
 scrupulosities
+scrutinise
 scrutinising
 scudo
 scuffled
@@ -37997,6 +38024,7 @@ seamlike
 seamounts
 seams
 seamster
+seamsters
 seamstress
 seance
 seapieces
@@ -40208,6 +40236,7 @@ spearheaded
 spearheading
 spearing
 spears
+spearwort
 specialise
 specialities
 specializations
@@ -41929,6 +41958,7 @@ superharden
 superhardened
 superhardening
 superheating
+superhero
 superhot
 superhumanness
 superhypes
@@ -44286,6 +44316,7 @@ transverse
 transverses
 transvestisms
 trapan
+trapanned
 trapball
 trapezia
 trapezist
@@ -44327,6 +44358,7 @@ trawlers
 trayfuls
 treacheries
 treacherous
+treachery
 treacles
 treaclier
 treacliest
@@ -44597,6 +44629,7 @@ tromping
 troop
 troopial
 troopials
+troopships
 troostites
 trooz
 tropaeola
@@ -46470,6 +46503,7 @@ valves
 valvula
 valvules
 vambrace
+vamosed
 vampirish
 vampirism
 vanadiates
@@ -47885,6 +47919,7 @@ winglets
 wingmen
 wingtip
 wingy
+wining
 winish
 winked
 winkingly
