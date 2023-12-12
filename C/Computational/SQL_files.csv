@@ -8,3 +8,22 @@ setup-database.sql · master · cosc349 / vagrant-multivm · GitLab,https://cspa
 partons - database - sql_schema - sqlite3_observable_layer.sql,https://drf-gitlab.cea.fr/partons/core/partons/-/blob/a1f504e12aecedbb6d2fbe33c5dc34424e32249a/database/sql_schema/sqlite3_observable_layer.sql
 database/sql_schema/mysql5_common.sql - partons - GitLab,https://drf-gitlab.cea.fr/partons/core/partons/-/blob/c9f3bfa199a1ccc9e20f974e16a579adb1e61501/database/sql_schema/mysql5_common.sql
 https://git.jhink.org/jacob/nancy/raw/commit/68584...,https://git.jhink.org/jacob/nancy/raw/commit/6858489b0b4ddfe751d63a986caf97f929bb36d7/dprov/store/schema.sql
+hw3-queries.sql - kush4agarwal/CSE-414-Database-Systems - GitHub,https://github.com/kush4agarwal/CSE-414-Database-Systems/blob/master/Homework%25203/hw3-queries.sql
+HW4.sql - donaldrshade/Databases - GitHub,https://github.com/donaldrshade/Databases/blob/master/HW4.sql
+CLCBooksSQL.sql ... - Gitlab @ CCI,https://gitlab.cci.drexel.edu/gdb53/CI101Week56Lab/-/blob/f6d57c6109ce3f3b0001d59abcca54b655e0f615/CLCBooksSQL.sql
+src/org/hsqldb/resources/information-schema.sql - platform/external ...,https://android.googlesource.com/platform/external/hsqldb/%2B/fe8cd37122dc94d0220b738e0db4867e5dd4488b/src/org/hsqldb/resources/information-schema.sql
+setup-database.sql · focal · cosc349 / vagrant-multivm · GitLab,https://cspages.otago.ac.nz/cosc349/vagrant-multivm/-/blob/focal/setup-database.sql
+SQL DDL script to create the university database from the textbook,http://cs.iit.edu/~glavic/cs425/14fall/files/university_db.sql
+database/sql_schema/mysql5_common.sql - partons - GitLab,https://drf-gitlab.cea.fr/partons/core/partons/-/blob/c9f3bfa199a1ccc9e20f974e16a579adb1e61501/database/sql_schema/mysql5_common.sql
+https://raw.githubusercontent.com/aroute/db2books/...,https://raw.githubusercontent.com/aroute/db2books/master/data.sql
+base.sql - merchise / odoo - GitLab,https://gitlab.merchise.org/merchise/odoo/blob/4977bceda9b57941a943742a970aa8cee5717e23/odoo/addons/base/base.sql
+academics-mysql.sql - BrainMass,https://brainmass.com/file/175952/academics-mysql.sql
+konference.sql,https://users.fit.cvut.cz/~fiserp/dip/2013/Zdrubecky/konference.sql
+http://web.mit.edu/medoh/Desktop/medoh/MacData/afs...,http://web.mit.edu/medoh/Desktop/medoh/MacData/afs/sipb/user/ssen/src/BitchX/dll/europa/knowledgebase.sql
+https://people.vts.su.ac.rs/~simon/bp2/biblio.sql,https://people.vts.su.ac.rs/~simon/bp2/biblio.sql
+robotlaw.sql - ServoyForge,https://www.servoyforge.net/attachments/download/332/robotlaw.sql
+Exercises.sql · master · examples / Training Kit Exam 70461 ...,https://resources.oreilly.com/examples/9780735666054-files/blob/master/Chapter%252013/Chapter%252013%2520-%2520Exercises.sql
+http://www.chi2006.org/docs/sql/backup.sql,http://www.chi2006.org/docs/sql/backup.sql
+geoelectoral-datos - dumps - geoelectoral_0.3.sql - GitLab,https://gitlab.agetic.gob.bo/adsib/geoelectoral-datos/-/blob/275a7cdc6c6d5c19c07779098c48d1f87e3cf066/dumps/geoelectoral_0.3.sql
+https://rdc.ub.ac.id:9999/rizalespe/simas-app/raw/...,https://rdc.ub.ac.id:9999/rizalespe/simas-app/raw/7cd63ef26aacecf22156ddf56d7954aa8cea6732/pkmsimas.sql
+http://www.arpahelp.it/js/js_cheese/dhtmlx5_2/samp...,http://www.arpahelp.it/js/js_cheese/dhtmlx5_2/samples/dhtmlxForm/common/dump.sql
