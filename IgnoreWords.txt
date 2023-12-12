@@ -197,6 +197,7 @@ accurately
 accusable
 accusant
 accuse
+accusing
 accusingly
 accustomations
 accustoms
@@ -4281,6 +4282,7 @@ blain
 blameful
 blamefully
 blamelessnesses
+blamers
 blames
 blameworthy
 blanching
@@ -4408,9 +4410,11 @@ blooie
 bloomless
 bloomy
 blooper
+bloopers
 bloops
 blotched
 blotchiest
+blotchily
 blotters
 blotto
 blotty
@@ -9469,6 +9473,7 @@ creasers
 creasier
 create
 creationism
+creations
 creative
 creatively
 creativeness
@@ -9890,6 +9895,7 @@ cure
 cureless
 curers
 cures
+curfews
 curia
 curio
 curium
@@ -10421,6 +10427,7 @@ decarbonations
 decarbonizer
 decarboxylate
 decarboxylation
+decarburize
 decathletes
 decayed
 decaying
@@ -10657,6 +10664,7 @@ defoamer
 defoams
 defocus
 defocused
+defocuses
 defocusses
 defoliant
 defoliators
@@ -13615,6 +13623,7 @@ emulsoids
 emydes
 enables
 enactable
+enactive
 enactments
 enalaprils
 enamelers
@@ -13905,6 +13914,7 @@ entangled
 entanglement
 entanglements
 entangling
+entases
 entelechies
 entelluses
 enter
@@ -15957,6 +15967,7 @@ fleecing
 fleecy
 fleered
 fleeringly
+fleet
 fleeter
 fleeting
 flench
@@ -16243,6 +16254,7 @@ foolish
 foolishly
 foolscaps
 foot
+footages
 footballer
 footboard
 footboards
@@ -16995,6 +17007,7 @@ gaited
 gaiting
 gal
 gala
+galabieh
 galabiya
 galabiyas
 galactorrhea
@@ -17260,6 +17273,7 @@ gear
 gearbox
 gearcases
 gearchange
+gearheads
 gearings
 gearwheels
 geck
@@ -18521,6 +18535,7 @@ gynecocratic
 gynecological
 gynecologies
 gynecologists
+gynecology
 gynecomastias
 gyniatry
 gynophobe
@@ -19855,6 +19870,7 @@ houselessness
 housemates
 housemen
 housepainters
+houseparent
 houseparents
 housesat
 housewares
@@ -22889,6 +22905,7 @@ kraters
 kreeps
 kremlinologies
 kremlinology
+kreplach
 krewe
 krises
 krubi
@@ -24001,6 +24018,7 @@ loggier
 loggy
 logician
 logicians
+logicize
 logicizes
 logicizing
 logicless
@@ -24440,6 +24458,7 @@ madwomen
 maelstroms
 maestoso
 maestri
+maestro
 maffia
 maffickers
 mafioso
@@ -25334,6 +25353,7 @@ mesalliance
 mesas
 mescalines
 mescals
+mesdames
 mesdemoiselles
 mesenchyme
 mesentery
@@ -30452,6 +30472,7 @@ paronymous
 parosmia
 parosmias
 parotitic
+parotitis
 parquetry
 parral
 parred
@@ -31685,6 +31706,7 @@ pincers
 pinchbeck
 pinchbug
 pinchecks
+pinched
 pincher
 pinches
 pinching
@@ -33096,6 +33118,7 @@ presignalled
 preslice
 preslices
 presoaks
+presolve
 presolving
 presong
 presort
@@ -33316,6 +33339,7 @@ probity
 problematically
 problematics
 proboscidean
+proboscides
 proboscis
 procaine
 procambia
@@ -35201,6 +35225,7 @@ redraft
 redrafted
 redrafting
 redreamt
+redresser
 redresses
 redressing
 redrilled
@@ -35692,6 +35717,7 @@ relumed
 relumine
 remainders
 remaining
+remaker
 remakers
 remaking
 remarker
@@ -37106,6 +37132,7 @@ rudimentary
 rudiments
 ruefulness
 ruefulnesses
+ruer
 ruers
 rufescent
 ruff
@@ -37121,6 +37148,7 @@ rugged
 ruggeder
 ruggedest
 ruggedize
+ruggedness
 ruggednesses
 ruglike
 ruinable
@@ -38860,6 +38888,7 @@ shirker
 shirkers
 shirking
 shirrs
+shirtdress
 shirtdresses
 shirtfronts
 shirtiest
@@ -39840,6 +39869,7 @@ snobbish
 snobs
 snogged
 snogs
+snook
 snookers
 snooling
 snoop
@@ -40760,6 +40790,7 @@ squishinesses
 squishing
 squooshed
 squooshes
+squush
 sradhas
 sri
 sris
@@ -42404,6 +42435,7 @@ sweetly
 sweetsop
 sweller
 swellest
+swellfishes
 swellhead
 swellheads
 swelter
@@ -42803,6 +42835,7 @@ tambouras
 tambourine
 tambouring
 tambur
+tameable
 tameins
 tameless
 tamely
@@ -43507,6 +43540,7 @@ thermistor
 thermites
 thermocouple
 thermodynamic
+thermodynamical
 thermodynamics
 thermoform
 thermoforms
@@ -48725,6 +48759,7 @@ zoophobias
 zooplankter
 zooplanktonic
 zoos
+zoosporangia
 zoosporangium
 zoospore
 zoosporic
