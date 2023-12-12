@@ -1088,6 +1088,7 @@ alps
 alsike
 altazimuths
 alter
+alterabilities
 altercations
 altered
 alterers
@@ -1820,6 +1821,7 @@ anxious
 anxiousness
 anybody
 anyons
+anyplace
 aorist
 aortal
 apanages
@@ -2956,6 +2958,7 @@ bacteriologists
 bacteriolysis
 bacteriophage
 bacteriostat
+bacteriuria
 bacterizing
 bacula
 baculum
@@ -3456,6 +3459,7 @@ beckoned
 beclogged
 becloud
 beclouding
+becomings
 becowards
 becrawled
 becrowds
@@ -3918,6 +3922,7 @@ biconditionals
 biconvex
 bicuspid
 bicycler
+bicyclers
 bid
 biddably
 bidden
@@ -6416,6 +6421,7 @@ ceasefire
 ceasefires
 ceboid
 ceca
+cecally
 cecity
 cecum
 cedarbird
@@ -12237,6 +12243,7 @@ dobber
 dobbers
 dobbies
 dobie
+dobla
 doblon
 dobra
 docent
@@ -21227,6 +21234,7 @@ inseminators
 insensate
 insensibly
 insensitivity
+insentiences
 inserted
 inserting
 insertional
@@ -21791,6 +21799,7 @@ irokos
 ironbark
 ironbarks
 ironbound
+irone
 ironed
 ironhearted
 ironical
@@ -23684,6 +23693,7 @@ liny
 lion
 lionfishes
 lionhearted
+lionises
 lionization
 lionizer
 lionizing
@@ -24329,6 +24339,7 @@ madnesses
 madrasa
 madrasah
 madrasahs
+madrasas
 madrases
 madrassah
 madrassahs
@@ -27161,6 +27172,7 @@ naugahyde
 naughties
 naughts
 nauplii
+nauseant
 nauseated
 nauseatingly
 nauseousness
@@ -28533,6 +28545,7 @@ ogrism
 oh
 ohing
 ohmages
+ohmically
 ohmmeters
 ohs
 oi
@@ -28676,6 +28689,7 @@ opacifies
 opah
 opalescently
 opalesces
+opals
 opaque
 opaquenesses
 opaquest
@@ -28809,6 +28823,7 @@ ordination
 ordinations
 ordnances
 ordos
+ordure
 ordurous
 oreads
 oreides
@@ -29883,6 +29898,7 @@ oxysome
 oxysomes
 oxytetracycline
 oxytocin
+oxytone
 oy
 oyers
 oyezes
@@ -30447,6 +30463,7 @@ patamar
 patamars
 patch
 patcher
+patchier
 patchiest
 patchily
 patchiness
@@ -32090,6 +32107,7 @@ policewomen
 policyholder
 policyholders
 poling
+polio
 poliomyelitis
 polis
 polished
@@ -33598,6 +33616,7 @@ pseudonymity
 pseudonymous
 pseudopodial
 pseudopodium
+pseudopregnant
 pseudosciences
 pseudoscientist
 pseudoscorpion
@@ -33666,6 +33685,7 @@ ptoses
 ptyalins
 ptyalism
 puberulent
+pubes
 pubescence
 pubescences
 publically
@@ -34007,6 +34027,7 @@ quadriga
 quadrilaterals
 quadriphonic
 quadrivalent
+quadrivial
 quadrumvir
 quadrumvirate
 quadrupled
@@ -34725,6 +34746,7 @@ recalibration
 recallabilities
 recallable
 recaned
+recanes
 recantations
 recanted
 recants
@@ -36236,6 +36258,7 @@ retracked
 retracks
 retractile
 retractilities
+retraction
 retractions
 retrained
 retrainees
@@ -36410,6 +36433,7 @@ rhabdomeres
 rhachis
 rhamnose
 rhamnoses
+rhamnus
 rhaphae
 rhaphe
 rhapsodes
@@ -41301,6 +41325,7 @@ sturdier
 sturgeons
 sturts
 stuttered
+stutterer
 stutters
 sty
 styes
@@ -43389,8 +43414,10 @@ thingumajig
 thingummy
 think
 thinkable
+thinker
 thinkings
 thins
+thiols
 thionic
 thiotepa
 thiourea
@@ -44613,6 +44640,7 @@ trows
 trowth
 truancy
 truant
+truants
 truckable
 truckful
 truckfuls
@@ -44998,6 +45026,7 @@ ultrafine
 ultrahazardous
 ultraheating
 ultraleft
+ultraleftisms
 ultraleftist
 ultraleftists
 ultraliberal
@@ -46439,6 +46468,7 @@ valve
 valvelet
 valves
 valvula
+valvules
 vambrace
 vampirish
 vampirism
@@ -46571,6 +46601,7 @@ vegies
 vehemences
 vehemently
 vehicle
+vehicles
 veiledly
 veiling
 veinal
@@ -47270,6 +47301,7 @@ warmth
 warmup
 warn
 warner
+warning
 warnings
 warns
 warpages
@@ -47767,6 +47799,7 @@ wifey
 wigans
 wiggeries
 wiggles
+wiggling
 wiggly
 wiglike
 wigmaker
@@ -47867,6 +47900,7 @@ winter
 wintered
 winterfed
 wintering
+winterish
 winterizations
 winterize
 winterized
@@ -48415,6 +48449,7 @@ zax
 zeal
 zealot
 zealously
+zeatins
 zebecs
 zebrafish
 zebrano
