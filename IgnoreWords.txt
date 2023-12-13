@@ -2433,6 +2433,7 @@ assess
 assesses
 assessments
 asset
+assetless
 asseverates
 asseverating
 asseveration
@@ -3649,6 +3650,7 @@ befog
 befogged
 befogging
 befool
+befouled
 befouler
 befretting
 befriend
@@ -4650,6 +4652,7 @@ bogies
 bogwoods
 bogyman
 boheas
+bohemians
 bohemias
 boho
 bohunk
@@ -4998,6 +5001,7 @@ brailler
 brailles
 brails
 brain
+braincase
 brainiac
 brainiest
 braininesses
@@ -5898,6 +5902,7 @@ cambism
 cambist
 camelid
 camellia
+camelopards
 cameo
 camerae
 cameral
@@ -6126,6 +6131,7 @@ capsidal
 capsize
 capsizes
 capsizing
+capsomer
 capsomere
 capstone
 capsular
@@ -7658,6 +7664,7 @@ clerk
 clerkdom
 clerkdoms
 clerking
+clerklier
 clerkly
 clerkships
 clever
@@ -8617,6 +8624,7 @@ conelrads
 conenoses
 conepate
 conepates
+conepatls
 confabbing
 confabs
 confabulators
@@ -10074,6 +10082,7 @@ curacoa
 curacoas
 curaghs
 curanderos
+curares
 curarine
 curarize
 curarized
@@ -15371,6 +15380,7 @@ faddy
 fadeaways
 fadedly
 fadedness
+fadeouts
 fadging
 fading
 fadings
@@ -17153,6 +17163,7 @@ fulgurite
 fulgurites
 fuliginously
 full
+fullam
 fullback
 fullerene
 fulleries
@@ -20354,6 +20365,7 @@ hummuses
 humoresque
 humorists
 humorless
+humorlessly
 humours
 humpbacked
 humpbacks
@@ -22060,6 +22072,7 @@ interpreters
 interpsychic
 interregnum
 interrelatedly
+interrelating
 interrogatee
 interrogating
 interrogatively
@@ -23297,6 +23310,7 @@ knocker
 knockers
 knocking
 knopped
+knot
 knotlike
 knotter
 knottiest
@@ -23753,6 +23767,7 @@ lawman
 lawmen
 lawn
 laws
+lawyerings
 laxations
 laxative
 laxatives
@@ -24380,6 +24395,7 @@ livens
 liveried
 liverymen
 livestock
+livetrap
 livetrapped
 livetrapping
 lividnesses
@@ -24433,6 +24449,7 @@ lobulose
 locale
 localise
 localised
+localises
 localize
 localizer
 locals
@@ -25510,6 +25527,7 @@ mauled
 maulers
 maumet
 maumets
+maund
 maunderers
 maunders
 maunds
@@ -27365,6 +27383,7 @@ multidomain
 multielement
 multiethnic
 multiethnics
+multifarious
 multifid
 multifoils
 multifold
@@ -27404,6 +27423,7 @@ multipoles
 multipotential
 multiprocessing
 multipronged
+multiracialism
 multiracialisms
 multirange
 multireligious
@@ -33266,6 +33286,7 @@ pounced
 pound
 poundage
 poundages
+pounders
 pourer
 pourparlers
 poussetted
@@ -33872,6 +33893,7 @@ primage
 primages
 primaries
 primary
+primas
 primatals
 primate
 primates
@@ -34410,6 +34432,7 @@ psilophytes
 psilophytic
 psiloses
 psittacoses
+psittacosis
 psoatic
 psocid
 psoralens
@@ -35332,6 +35355,7 @@ ratoons
 rattailed
 rattan
 rattans
+ratted
 ratteen
 ratteens
 rattish
@@ -38143,6 +38167,7 @@ saltimboccas
 saltines
 saltiness
 saltless
+saltlike
 saltpans
 saltpeters
 saltpetre
@@ -38286,6 +38311,7 @@ sapwoods
 sarape
 sarcasm
 sarcastically
+sarcocarps
 sarcoma
 sarcomata
 sarcomeres
@@ -38405,6 +38431,7 @@ savvily
 savviness
 sawed
 sawflies
+sawfly
 sawhorse
 sawlike
 sawmills
@@ -40531,6 +40558,7 @@ smuggled
 smuggler
 smuggles
 smushed
+smutchier
 smutchiest
 smutchy
 smuttiest
@@ -40957,6 +40985,7 @@ sords
 sore
 sorgho
 sorghums
+sorgos
 soricine
 sorn
 soroches
@@ -41101,6 +41130,7 @@ sparest
 spargers
 sparids
 sparker
+sparkier
 sparkle
 sparklets
 sparkliest
@@ -41590,6 +41620,7 @@ stackable
 stacker
 stacks
 stackup
+staff
 stagecoaches
 stagecraft
 stageful
@@ -44568,6 +44599,7 @@ throne
 throttle
 throttleholds
 throttles
+throttling
 throughither
 throwaway
 thrower
@@ -44614,6 +44646,7 @@ thymocytes
 thymol
 thymols
 thymosins
+thyratrons
 thyreoid
 thyristors
 thyroid
@@ -45102,6 +45135,7 @@ towhees
 towies
 towmonds
 towmonts
+townee
 townhouse
 townies
 townswomen
@@ -49494,6 +49528,7 @@ yelped
 yelping
 yen
 yeomanries
+yerba
 yerbas
 yerked
 yesses
