@@ -867,6 +867,7 @@ airplanes
 airposts
 airs
 airscape
+airscrew
 airshows
 airsicknesses
 airspaces
@@ -3112,6 +3113,7 @@ baggier
 bagginesses
 baggy
 baghouse
+baghouses
 bagnios
 bagpiped
 bagpipers
@@ -4022,6 +4024,7 @@ bewilderingly
 bewilders
 bewitch
 bewormed
+beworries
 bewrap
 bewrays
 beyonds
@@ -4078,6 +4081,7 @@ bickerer
 bickers
 bicolors
 bicolours
+biconcave
 biconditionals
 biconvex
 bicuspid
@@ -5517,6 +5521,7 @@ bulbed
 bulbils
 bulgier
 bulginess
+bulginesses
 bulgingly
 bulgurs
 bulimia
@@ -6928,6 +6933,7 @@ challenger
 challengers
 challenging
 challises
+challoth
 chalone
 chalones
 chalutzim
@@ -9054,6 +9060,7 @@ contiguities
 contiguously
 continently
 continents
+contingence
 contingencies
 contingent
 contingents
@@ -13430,6 +13437,7 @@ durablenesses
 duramen
 duramens
 duration
+duratives
 dure
 dured
 dures
@@ -13589,6 +13597,7 @@ easts
 easy
 eaves
 eavesdroppers
+ebb
 ebbets
 ebbs
 ebonics
@@ -15712,6 +15721,7 @@ falcon
 falconine
 falcons
 falderal
+falderols
 faldstools
 fallacious
 fallaciously
@@ -16692,6 +16702,7 @@ flossing
 flota
 flotage
 flounce
+flounces
 flouncy
 floundering
 flour
@@ -17413,6 +17424,7 @@ fruiting
 fruitions
 fruitwoods
 frumenty
+frumpiest
 frumps
 frustrated
 frustrates
@@ -20412,6 +20424,7 @@ homologate
 homologation
 homologations
 homologies
+homologized
 homology
 homolyses
 homolytic
@@ -21026,6 +21039,7 @@ hypopharynxes
 hypophysectomy
 hypophyses
 hypopneas
+hypopyon
 hyposensitized
 hyposensitizing
 hypospadias
@@ -21195,6 +21209,7 @@ illuminates
 illuminatingly
 illuminative
 illuminators
+illumines
 illuminisms
 illusional
 illusionistic
@@ -24775,6 +24790,7 @@ lissome
 lissomely
 listable
 listee
+listenerships
 listening
 lister
 listerioses
@@ -26964,6 +26980,7 @@ mischannelling
 mischannels
 mischarge
 mischoosing
+mischose
 mischosen
 miscibilities
 miscibility
@@ -27766,6 +27783,7 @@ mousses
 moussing
 moustache
 moustaches
+mouthers
 mouthfeel
 mouthwash
 mouthwashes
@@ -29558,6 +29576,7 @@ obligate
 obligately
 obligates
 obligations
+obligatory
 obligers
 obliges
 obligingness
@@ -29961,6 +29980,7 @@ operatic
 operatically
 operationalisms
 operationists
+operations
 operative
 operatives
 operators
@@ -32029,6 +32049,7 @@ peed
 peeing
 peekaboo
 peelable
+peen
 peens
 peephole
 peepholes
@@ -32521,6 +32542,7 @@ pfennigs
 phaeton
 phages
 phagocytizing
+phagocytosing
 phalangeal
 phallicisms
 phallisms
@@ -33315,6 +33337,7 @@ plexuses
 pliabilities
 pliability
 pliant
+plicae
 plicate
 plications
 plier
@@ -33344,6 +33367,7 @@ plowhead
 plowman
 ploying
 plucked
+plucker
 pluckier
 pluckinesses
 plugging
@@ -34295,6 +34319,7 @@ prenticing
 preoccupancy
 preoccupations
 preoccupied
+preoccupies
 preopening
 preops
 preoptions
@@ -36128,6 +36153,7 @@ reaffirmations
 reaffix
 reafforest
 reaggregation
+reaggregations
 reagin
 reaginic
 reagins
@@ -36781,6 +36807,7 @@ refloats
 reflood
 reflooding
 refloods
+reflowering
 refluences
 refluent
 refocussed
@@ -40788,6 +40815,7 @@ silverer
 silverinesses
 silverings
 silvern
+silverpoint
 silvers
 silverside
 silversides
@@ -40829,6 +40857,7 @@ simulate
 simulates
 simulating
 simulative
+simulator
 simulcast
 simultaneity
 sin
@@ -41385,6 +41414,7 @@ snare
 snared
 snares
 snark
+snarkiest
 snarls
 snashes
 snatchier
@@ -42560,6 +42590,7 @@ stator
 stators
 statue
 statuses
+statutable
 statutory
 staumrel
 staumrels
@@ -43337,6 +43368,7 @@ subline
 sublingual
 subliteracy
 subliterature
+subliteratures
 submanager
 submariner
 submarines
@@ -46781,6 +46813,7 @@ tuque
 turbans
 turbid
 turbidimeter
+turbidimetries
 turbidite
 turbidly
 turbinal
@@ -48397,6 +48430,7 @@ urination
 urinations
 urinative
 urine
+urinometer
 urns
 urochord
 urogenital
@@ -49678,6 +49712,7 @@ weldment
 weldor
 welfares
 welfarisms
+welladay
 wellaway
 wellaways
 wellcurbs
