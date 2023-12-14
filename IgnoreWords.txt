@@ -745,6 +745,7 @@ aggressive
 aggressivities
 agilenesses
 agilities
+agility
 agin
 aging
 agings
@@ -1007,6 +1008,7 @@ alkalies
 alkalified
 alkalifies
 alkalifying
+alkalimetries
 alkalinities
 alkalis
 alkalizes
@@ -2006,6 +2008,7 @@ appeases
 appel
 appellant
 appellative
+append
 appendages
 appendant
 appendectomy
@@ -4333,6 +4336,7 @@ bishop
 bishoping
 bishops
 bisks
+bismuthic
 bismuths
 bisnagas
 bisques
@@ -4384,6 +4388,7 @@ blackenings
 blacker
 blackest
 blackfishes
+blackguardly
 blackhander
 blackhanders
 blacking
@@ -5755,6 +5760,7 @@ byroads
 byssal
 bystreet
 bytes
+byzants
 cab
 cabaletta
 cabalettas
@@ -10451,6 +10457,7 @@ cytosolic
 cytostatically
 cytostatics
 cytotaxonomies
+cytotechnology
 cytotoxicity
 cytotoxins
 czardases
@@ -11243,6 +11250,7 @@ demodulated
 demodulators
 demographers
 demolisher
+demolishments
 demolitionist
 demolitionists
 demoness
@@ -11581,6 +11589,7 @@ desquamate
 dessertspoonful
 destabilizes
 destabilizing
+destaining
 destiny
 destituted
 destituteness
@@ -13734,6 +13743,7 @@ ejects
 eking
 ekpwele
 elaborateness
+elaborating
 elaborative
 eland
 elapsed
@@ -14091,9 +14101,11 @@ encapsuled
 encashable
 encashing
 encashments
+encaustic
 encephalitic
 encephalitides
 encephalograms
+encephalograph
 encephalography
 enchaining
 enchainments
@@ -14813,6 +14825,7 @@ esterases
 esterifying
 esters
 estheses
+esthesias
 esthete
 esthetes
 estheticisms
@@ -14944,6 +14957,7 @@ euphemizers
 euphemizes
 euphenic
 euphonies
+euphonium
 euphonizing
 euphorbia
 euphoria
@@ -15012,6 +15026,7 @@ everglades
 evergreen
 everlastingly
 everlastingness
+evertor
 evertors
 everybody
 everyplace
@@ -19387,6 +19402,7 @@ handwrote
 handy
 handymen
 hangable
+hangar
 hanger
 hangfire
 hangings
@@ -21215,6 +21231,7 @@ impassable
 impassibility
 impassibly
 impastes
+impasto
 impastoed
 impeached
 impeachers
@@ -23871,6 +23888,7 @@ languidly
 languished
 languishers
 languishment
+languorously
 laniard
 lankest
 lankiest
@@ -28031,6 +28049,7 @@ nabobisms
 nacelle
 nacho
 nacres
+nadiral
 nadirs
 naething
 naff
@@ -28187,6 +28206,7 @@ navigator
 navvies
 naw
 naysaid
+naysayer
 naysaying
 nazi
 nazifications
@@ -29031,6 +29051,7 @@ nonstories
 nonstructured
 nonsubsidized
 nonsuccesses
+nonsuches
 nonsugar
 nonsuited
 nonsynchronous
@@ -30754,6 +30775,7 @@ overornaments
 overpack
 overpackages
 overpackaging
+overpaid
 overpassing
 overpaying
 overpedal
@@ -31577,6 +31599,7 @@ pasties
 pastina
 pastinas
 pastinesses
+pasting
 pastitsios
 pastness
 pastnesses
@@ -31756,6 +31779,7 @@ pechan
 pechans
 peckier
 pecking
+peckishly
 pecky
 pectin
 pectinate
@@ -33944,6 +33968,7 @@ preemptive
 preemptively
 preemptor
 preempts
+preenact
 preeners
 preestablish
 preestablishing
@@ -34778,6 +34803,7 @@ protyles
 protyls
 prouder
 proudhearted
+proustites
 provable
 provably
 provenders
@@ -37095,6 +37121,7 @@ repine
 repiner
 repines
 repining
+repinned
 replace
 replaced
 replacement
@@ -38158,6 +38185,7 @@ rondo
 rondures
 ronion
 ronnels
+rood
 roofed
 roofline
 roofs
@@ -38861,6 +38889,7 @@ satirizes
 satirizing
 satis
 satisficed
+satisficing
 satisfied
 satisfiers
 satrap
@@ -42983,6 +43012,7 @@ subdeb
 subdepartments
 subdialect
 subdiscipline
+subdividers
 subdivides
 subdividing
 subdivision
@@ -43867,6 +43897,7 @@ swimming
 swimmingly
 swimmy
 swims
+swimsuits
 swindled
 swindler
 swine
@@ -44414,6 +44445,7 @@ tasted
 tastelessly
 tastelessness
 tastelessnesses
+taster
 tasters
 tastiness
 tasting
@@ -45377,6 +45409,7 @@ tippler
 tippytoeing
 tipsy
 tiptoed
+tiptops
 tiramisu
 tireder
 tirednesses
@@ -45924,6 +45957,7 @@ transmigrate
 transmigrating
 transmigrations
 transmigrators
+transmigratory
 transmissive
 transmissometer
 transmits
@@ -48523,6 +48557,7 @@ versatile
 versatility
 versers
 verses
+versets
 versicle
 versifiers
 versify
