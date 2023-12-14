@@ -983,6 +983,7 @@ alienness
 aliennesses
 aliform
 alifs
+alight
 alightment
 align
 aligns
@@ -1140,6 +1141,7 @@ althorns
 altigraphs
 altimetries
 altiplanos
+altitudinal
 altitudinous
 altocumuli
 altoist
@@ -3550,6 +3552,7 @@ beaten
 beaters
 beatified
 beatifying
+beatnik
 beatniks
 beats
 beaucoups
@@ -8272,6 +8275,7 @@ collied
 colligation
 collimate
 collimations
+collimator
 collinearity
 collins
 collision
@@ -8715,6 +8719,7 @@ condos
 condottiere
 condottieri
 conducer
+conductances
 conductions
 conductivities
 conductivity
@@ -12044,6 +12049,7 @@ dineric
 dinettes
 ding
 dingbats
+dingdonging
 dinge
 dingers
 dingey
@@ -12702,6 +12708,7 @@ dockhand
 dockmaster
 docks
 dockside
+dockyard
 doctoral
 doctorates
 doctored
@@ -13118,6 +13125,7 @@ drifter
 drifters
 driftier
 drillabilities
+drillable
 driller
 drilling
 drills
@@ -13591,6 +13599,7 @@ edginesses
 edibilities
 edibility
 edictally
+edificial
 edify
 edited
 editing
@@ -14920,6 +14929,7 @@ euphausiids
 euphemises
 euphemisms
 euphemist
+euphemizers
 euphemizes
 euphenic
 euphonies
@@ -17993,6 +18003,7 @@ gerontocratic
 gerontologies
 gerontology
 gerontomorphic
+gerrymander
 gerundive
 gerundives
 gestalten
@@ -18876,6 +18887,7 @@ grounding
 groundings
 groundlessly
 groundlings
+groundnut
 groundouts
 grounds
 groundskeepers
@@ -20090,6 +20102,7 @@ histidines
 histing
 histochemical
 histologies
+histologist
 histology
 histolyses
 histolysis
@@ -21823,6 +21836,7 @@ infra
 infract
 infrahuman
 infrangibility
+infrared
 infrequence
 infrequences
 infrequently
@@ -27391,6 +27405,7 @@ moraine
 moralises
 moralism
 moralists
+morality
 moralization
 moralize
 moralizing
@@ -28279,6 +28294,7 @@ neoconservatism
 neocortexes
 neogene
 neoliberalisms
+neoliberals
 neologies
 neologisms
 neologized
@@ -29570,6 +29586,7 @@ ohmmeters
 ohs
 oi
 oil
+oilbird
 oilcamp
 oilcamps
 oilcan
@@ -30485,6 +30502,7 @@ overbrief
 overbright
 overbroad
 overbrowse
+overbrowsing
 overbuilding
 overburden
 overburdens
@@ -30866,6 +30884,7 @@ overtreatments
 overtricks
 overtrump
 overtrumped
+overtrumping
 overturing
 overturn
 overurged
@@ -31181,6 +31200,7 @@ panderer
 pandies
 pandoor
 pandoors
+pandoras
 pandore
 pandying
 panegyric
@@ -32653,6 +32673,7 @@ pili
 pilings
 pillager
 pillagers
+pillages
 pillaging
 pillar
 pillbox
@@ -34182,6 +34203,7 @@ pretaping
 pretasted
 pretasting
 pretell
+pretelling
 pretells
 pretence
 pretences
@@ -35204,6 +35226,7 @@ pyrophosphate
 pyrophyllite
 pyrophyllites
 pyros
+pyrosises
 pyrostats
 pyrotechnic
 pyrotechnics
@@ -35437,6 +35460,7 @@ quizzers
 quizzing
 quohog
 quohogs
+quoins
 quoits
 quokka
 quokkas
@@ -35757,6 +35781,7 @@ rationally
 ratios
 ratooning
 ratoons
+rats
 rattailed
 rattan
 rattans
@@ -39438,6 +39463,7 @@ sectoral
 sectoring
 secularise
 secularisms
+secularistic
 secularity
 secularizations
 secularizers
@@ -40753,6 +40779,7 @@ slakable
 slaking
 slalomed
 slalomer
+slalomers
 slaloming
 slamdancing
 slammings
@@ -41504,6 +41531,7 @@ soulmate
 soulmates
 souls
 sound
+soundalike
 sounder
 sounders
 sounding
@@ -42355,6 +42383,7 @@ stepladders
 stepparent
 stepparentings
 stepparents
+stepped
 stepstool
 stepstools
 stereograph
@@ -43377,6 +43406,7 @@ suntanned
 suntanning
 superable
 superabounded
+superabounding
 superabsorbent
 superadded
 superagencies
@@ -45148,6 +45178,7 @@ thundering
 thunderous
 thunderstrikes
 thunderstriking
+thunderstruck
 thurl
 thuya
 thwacked
@@ -45806,6 +45837,7 @@ tranquillize
 tranquillized
 tranquillizer
 tranquillizes
+tranquilnesses
 transacted
 transactional
 transaminases
@@ -48876,6 +48908,7 @@ vulgarizations
 vulgarize
 vulgarizers
 vulgate
+vulnerability
 vulnerary
 vulture
 vulturine
@@ -49235,6 +49268,7 @@ weaverbird
 web
 webbier
 webbings
+webcam
 webcast
 webcasting
 weber
@@ -50045,6 +50079,7 @@ yachts
 yack
 yacks
 yaffed
+yag
 yagi
 yah
 yahooism
