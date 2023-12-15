@@ -777,6 +777,7 @@ agitator
 agitators
 aglet
 aglimmer
+aglow
 agly
 aglycones
 aglycons
@@ -4697,6 +4698,7 @@ blueball
 bluebeard
 bluebeards
 bluebells
+bluebill
 bluebills
 bluefins
 bluefishes
@@ -5243,6 +5245,7 @@ brassieres
 brassies
 brassiest
 brat
+bratticed
 brattices
 brattinesses
 brattish
@@ -6470,6 +6473,7 @@ carcinosarcoma
 carcinosarcomas
 card
 cardboards
+cardcases
 carder
 cardiac
 cardiae
@@ -8718,6 +8722,7 @@ compactnesses
 compadres
 companied
 companionate
+companionships
 companionway
 companying
 comparability
@@ -9259,6 +9264,7 @@ contradictor
 contradictories
 contradictors
 contrail
+contraindicate
 contralti
 contrapositions
 contrapositives
@@ -10730,6 +10736,7 @@ daffiness
 daffing
 dagga
 daggering
+daggerlike
 daggles
 dagoes
 dags
@@ -11431,6 +11438,7 @@ delisting
 deliverable
 delivered
 delivers
+delivery
 deliverymen
 dellies
 delocalize
@@ -12845,6 +12853,7 @@ dissimilars
 dissimulate
 dissimulating
 dissimulators
+dissipate
 dissipated
 dissipatedly
 dissipaters
@@ -13350,6 +13359,7 @@ drainage
 drained
 drainer
 drains
+drake
 dram
 dramadies
 dramatic
@@ -13939,6 +13949,7 @@ editing
 edition
 editor
 editorializing
+editorships
 editresses
 editrix
 editrixes
@@ -19653,6 +19664,7 @@ hadrosaur
 haematal
 haematics
 haematin
+haematite
 haemins
 haems
 haes
@@ -20926,6 +20938,7 @@ horselike
 horsemanship
 horsemen
 horsemint
+horseplay
 horsepower
 horsepox
 horses
@@ -21754,6 +21767,7 @@ imperceptibly
 imperfectly
 imperfects
 imperial
+imperialists
 imperiling
 imperilled
 imperilling
@@ -22128,6 +22142,7 @@ indentations
 indention
 independencies
 independents
+indescribably
 indestructible
 indeterminism
 indeterminist
@@ -22890,6 +22905,7 @@ interrogatively
 interrogatories
 interrupters
 interruptible
+interrupting
 interruptors
 interschool
 intersecting
@@ -23696,6 +23712,7 @@ jujubes
 jujuists
 jujutsu
 jukeboxes
+jukes
 juking
 juku
 juliennes
@@ -29022,6 +29039,8 @@ neonate
 neonatologist
 neonatology
 neoned
+neoorthodoxy
+neoplasm
 neoplasticist
 neoplasty
 neoprene
@@ -29337,6 +29356,7 @@ nodosities
 nodosity
 nods
 nodule
+noels
 noesises
 noggings
 nogs
@@ -29424,6 +29444,7 @@ noncelebrity
 noncertificated
 nonchalance
 nonchalances
+nonchemical
 nonchemicals
 nonchromosomal
 noncitizen
@@ -32613,6 +32634,7 @@ peers
 pees
 peetweet
 peeves
+peevish
 peevishness
 peewees
 peewits
@@ -33111,6 +33133,7 @@ phantasmata
 phantasms
 phantast
 phantasy
+pharaoh
 pharisaically
 pharisees
 pharmaceuticals
@@ -33334,6 +33357,7 @@ phylacteries
 phylactery
 phyletic
 phyletically
+phyllary
 phyllo
 phylloclade
 phylloids
@@ -37700,6 +37724,7 @@ rejoiced
 rejoicer
 rejoicing
 rejoinder
+rejoinders
 rejoins
 rejudge
 rejudges
@@ -38667,6 +38692,7 @@ revival
 revivalisms
 revivalist
 revivalists
+revived
 revives
 revivifications
 revivified
@@ -39749,6 +39775,7 @@ saprogenicity
 saprolite
 sapropels
 saprophagous
+saprophyte
 saprophytes
 saprophytically
 saps
@@ -41152,6 +41179,7 @@ shirtdress
 shirtdresses
 shirtfronts
 shirtiest
+shirtings
 shirtmaker
 shirtsleeve
 shirttailed
@@ -42828,6 +42856,7 @@ spessartite
 sphagnums
 sphenes
 sphenic
+sphenodons
 sphenoid
 sphenopsids
 sphere
@@ -43469,6 +43498,7 @@ stereotypically
 sterical
 sterically
 sterigma
+sterilely
 sterilised
 sterilities
 sterilizations
@@ -43695,6 +43725,7 @@ stound
 stounding
 stounds
 stoups
+stour
 stoures
 stouter
 stoutest
@@ -48217,6 +48248,7 @@ uncrumpled
 uncrumples
 unction
 unctions
+uncultivable
 uncultured
 uncurable
 uncured
@@ -49921,6 +49953,7 @@ virtue
 virtuosa
 virtuous
 virtuously
+virucides
 virus
 viruslike
 visa
@@ -50381,6 +50414,7 @@ watchtower
 watchtowers
 water
 waterbed
+waterbird
 waterbuck
 waterbucks
 waterbuses
@@ -51510,6 +51544,7 @@ zaffres
 zag
 zagged
 zaire
+zaires
 zamarra
 zamia
 zamindar
