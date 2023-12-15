@@ -805,6 +805,7 @@ agreement
 agreements
 agrias
 agribusinessman
+agribusinessmen
 agriculture
 agrochemical
 agroforestries
@@ -1930,6 +1931,7 @@ apetalous
 apetaly
 apex
 aphanitic
+aphasiac
 aphasics
 aphelia
 aphelions
@@ -1962,6 +1964,7 @@ apishnesses
 aplasias
 aplastic
 aplite
+aplomb
 aplombs
 apo
 apoapsis
@@ -1993,6 +1996,7 @@ apomictically
 apomixis
 aponeuroses
 aponeurosis
+aponeurotic
 apophasis
 apophthegm
 apophyge
@@ -2631,6 +2635,7 @@ atopies
 atrabilious
 atretic
 atrocious
+atrociousnesses
 atrocity
 atrophied
 attacher
@@ -4113,6 +4118,7 @@ bicyclers
 bicycles
 bid
 bidarkee
+biddability
 biddably
 bidden
 biddy
@@ -4520,6 +4526,7 @@ blearier
 blearily
 blearing
 blears
+bleated
 bleating
 bleeding
 bleedings
@@ -5842,6 +5849,7 @@ byzants
 cab
 cabaletta
 cabalettas
+cabalists
 cabals
 cabana
 cabarets
@@ -7070,6 +7078,7 @@ charactering
 characteristic
 characterized
 characterizes
+charas
 charbroils
 charcuterie
 charcuteries
@@ -8029,6 +8038,7 @@ clupeid
 clupeids
 clupeoid
 clustering
+clutch
 cluttering
 clutters
 clypeal
@@ -8779,6 +8789,7 @@ concessionary
 concessions
 conch
 conchie
+conchs
 conciliarly
 conciliate
 conciliated
@@ -13097,6 +13108,7 @@ doting
 dotingly
 dotted
 dotterel
+dotterels
 dottiest
 dottiness
 dottinesses
@@ -13354,6 +13366,7 @@ droop
 droopiest
 droops
 dropforges
+dropheads
 dropkickers
 dropout
 dropouts
@@ -13678,6 +13691,7 @@ earworms
 easement
 easiest
 easiness
+east
 eastbound
 easterlies
 easterly
@@ -14188,6 +14202,7 @@ emissions
 emissive
 emitted
 emitters
+emitting
 emmenagogues
 emmer
 emmers
@@ -14838,6 +14853,7 @@ equips
 equitant
 equitations
 equities
+equity
 equivalent
 equivocating
 equivocation
@@ -17286,6 +17302,7 @@ fourdriniers
 fourpences
 fourteeners
 fourthly
+foveae
 foveate
 foveolae
 foveole
@@ -18113,6 +18130,7 @@ gemmily
 gemminess
 gemminesses
 gemmologists
+gemmule
 gemmules
 gemologies
 gemutlich
@@ -18275,6 +18293,7 @@ ghazis
 gheraoed
 gherkin
 gherkins
+ghettoed
 ghettoizations
 ghettoizing
 ghiblis
@@ -18532,6 +18551,7 @@ glossator
 glossed
 glossier
 glossily
+glossolalists
 glost
 glottal
 glottis
@@ -18566,6 +18586,7 @@ glumpier
 glumpily
 glumpy
 glunched
+gluons
 glutamate
 glutaminase
 glutaraldehydes
@@ -19064,6 +19085,7 @@ gridiron
 gridirons
 gridlocked
 grievants
+grieved
 grievous
 griffes
 griffins
@@ -24058,6 +24080,7 @@ lacking
 lacklusters
 lacks
 laconic
+laconically
 lacquer
 lacquerer
 lacquey
@@ -24077,6 +24100,7 @@ lactonic
 lactoses
 lacunaria
 lacunars
+lacunas
 lacunate
 ladanums
 laddered
@@ -24651,6 +24675,7 @@ levers
 leviathans
 levied
 leviers
+levies
 levigate
 levigated
 levin
@@ -24765,6 +24790,7 @@ liftgate
 lifting
 liftman
 liftmen
+lifts
 ligamentous
 ligaments
 ligan
@@ -26046,6 +26072,7 @@ marseilles
 marsh
 marshlike
 marshmallows
+marshy
 marsupial
 marsupials
 martagons
@@ -26660,6 +26687,7 @@ meteoritic
 meteoriticists
 meteorologist
 meteorologists
+metepa
 metered
 meterstick
 metestrus
@@ -27498,6 +27526,7 @@ modelling
 moderates
 moderating
 moderation
+moderatos
 modernises
 modernists
 modernness
@@ -27968,6 +27997,7 @@ mousses
 moussing
 moustache
 moustaches
+mouthed
 mouthers
 mouthfeel
 mouthwash
@@ -29736,6 +29766,7 @@ obelize
 obento
 obesely
 obeseness
+obeyed
 obeyer
 obeyers
 obeying
@@ -30328,6 +30359,7 @@ orgic
 orgulous
 orientalisms
 orientalize
+orientalizes
 orientalizing
 orientally
 orientates
@@ -32429,6 +32461,7 @@ peppers
 peppertrees
 peppiest
 peppily
+peppiness
 peps
 pepsinating
 pepsines
@@ -34514,10 +34547,12 @@ preluders
 preludial
 prelunch
 prelusions
+prelusive
 premade
 premarkets
 prematureness
 prematurenesses
+prematures
 premaxilla
 premaxillary
 premaxillas
@@ -39541,6 +39576,7 @@ scan
 scandalised
 scandalises
 scandalized
+scandalled
 scandalmonger
 scandals
 scandia
@@ -40852,6 +40888,7 @@ showering
 showerless
 showgirl
 showman
+showplace
 showring
 showtime
 shoyu
@@ -41786,6 +41823,7 @@ snotty
 snouted
 snoutier
 snow
+snowball
 snowbank
 snowbell
 snowbirds
@@ -42271,6 +42309,7 @@ sparsities
 sparsity
 spartan
 sparteines
+spasm
 spasming
 spasms
 spasticities
@@ -42391,6 +42430,7 @@ sphenes
 sphenic
 sphenoid
 sphenopsids
+sphere
 spheric
 spherical
 sphericities
@@ -43556,6 +43596,7 @@ subclinical
 subclinically
 subclustering
 subcollections
+subcolonies
 subcommissions
 subcommittee
 subcomponent
@@ -43962,6 +44003,7 @@ sulphones
 sulphur
 sulphurise
 sulphurised
+sulphurs
 sultanate
 sultanates
 sultanic
@@ -44862,6 +44904,7 @@ tamale
 tamals
 tamarack
 tamarau
+tamari
 tamaris
 tamasha
 tambac
@@ -46517,6 +46560,7 @@ transduction
 transductional
 transductions
 transections
+transfect
 transfecting
 transferal
 transference
@@ -48274,6 +48318,7 @@ unpiling
 unpinned
 unpinning
 unplait
+unplausible
 unpledged
 unplugs
 unpolled
@@ -49546,6 +49591,7 @@ volcanologies
 volcanos
 volery
 volitions
+volleyballs
 volleyed
 volost
 voltaic
@@ -50009,6 +50055,7 @@ wedlocks
 weeded
 weediness
 weedlike
+week
 weekdays
 weeks
 weens
@@ -50382,6 +50429,7 @@ windrow
 windrowing
 windscreens
 windshields
+windstorms
 windsurf
 windsurfed
 windsurfing
