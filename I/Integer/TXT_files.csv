@@ -1,0 +1,9 @@
+RFC 1212 - IETF,https://www.ietf.org/rfc/rfc1212.txt
+Long integer data type,https://fortran.bcs.org/2005/newreqs/long_integer.txt
+arrays.dtypes.txt - Numpy and Scipy Documentation,https://docs.scipy.org/doc/numpy-1.3.x/_sources/reference/arrays.dtypes.txt
+Serial Number Arithmetic - » RFC Editor,https://www.rfc-editor.org/rfc/rfc1982.txt
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+EXT_texture_integer - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/EXT/EXT_texture_integer.txt
+RFC 4049,https://www.rfc-editor.org/rfc/rfc4049.txt
+output_format.txt,https://www.kernel.org/doc/Documentation/acpi/apei/output_format.txt
+Z_fprintf.txt,https://web.njit.edu/~alexg/courses/cs101/solutions/matlab/Subject_Code/Z_fprintf.txt
