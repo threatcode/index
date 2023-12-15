@@ -429,6 +429,7 @@ adjournments
 adjudges
 adjudicating
 adjudicative
+adjunction
 adjuration
 adjuratory
 adjurer
@@ -999,6 +1000,7 @@ alimental
 alimentations
 alimented
 aliments
+alines
 aliped
 aliquant
 alit
@@ -2380,6 +2382,7 @@ artisanships
 artiste
 artistries
 artlessly
+artlessnesses
 artsiest
 artsiness
 arugola
@@ -4000,6 +4003,7 @@ beth
 bethanked
 bethink
 bethought
+bethump
 bethumped
 bethumps
 beton
@@ -5104,6 +5108,7 @@ brachiations
 brachiopod
 brachycephalic
 bracing
+braciole
 bracket
 bracketing
 bracteole
@@ -5475,6 +5480,7 @@ buccinator
 buckeen
 bucket
 bucketed
+buckets
 buckeye
 buckhounds
 bucklered
@@ -10642,6 +10648,7 @@ daman
 damans
 damascene
 damascening
+damask
 damasked
 damasking
 dames
@@ -11940,6 +11947,7 @@ dialogists
 dialogue
 dialogues
 dialoguing
+dialysed
 dialyser
 dialysing
 dialytic
@@ -14163,6 +14171,7 @@ emmet
 emmetrope
 emmets
 emodin
+emoluments
 emoted
 emoticons
 emotionalist
@@ -14659,6 +14668,7 @@ ephedrins
 ephemera
 ephemeral
 ephemerality
+ephemerids
 ephemerons
 ephor
 ephoral
@@ -16124,6 +16134,7 @@ fending
 fenlands
 fennec
 fennecs
+fennels
 fenniest
 feoffee
 feoffor
@@ -17876,6 +17887,7 @@ gappy
 garaged
 garageman
 garages
+garbanzos
 garblers
 garbless
 garbology
@@ -20845,6 +20857,7 @@ hunkered
 hunkeys
 hunkie
 hunkier
+hunkies
 hunks
 hunky
 hunted
@@ -25989,6 +26002,7 @@ martin
 martingal
 martinis
 martins
+martlets
 marts
 martyrdom
 martyring
@@ -27802,6 +27816,7 @@ moshings
 mosque
 mosquitoey
 mosquitos
+moss
 mossers
 mossgrown
 mossier
@@ -28041,6 +28056,7 @@ multimillion
 multimodal
 multimode
 multination
+multinucleated
 multipacks
 multipage
 multipaned
@@ -29521,6 +29537,7 @@ nubbins
 nubble
 nubblier
 nubbliest
+nubucks
 nucha
 nucleal
 nuclear
@@ -29834,6 +29851,7 @@ octaval
 octaves
 octillion
 octodecillions
+octogenarians
 octonary
 octopi
 octoploid
@@ -30288,6 +30306,7 @@ orometer
 oropharyngeal
 oropharynx
 oropharynxes
+orphanage
 orphaned
 orphaning
 orphans
@@ -35420,6 +35439,7 @@ punchballs
 punchboard
 punchier
 punchinellos
+punching
 punchless
 punctate
 punctated
@@ -36532,6 +36552,7 @@ recognised
 recognises
 recognitions
 recognizably
+recognizes
 recoiler
 recoils
 recoin
@@ -36748,6 +36769,7 @@ redial
 redictates
 redigestion
 redigestions
+reding
 redingotes
 redintegrated
 redintegrates
@@ -37430,6 +37452,7 @@ renographies
 renotified
 renotifying
 renounce
+renouncement
 renouncer
 renovascular
 renovate
@@ -37667,6 +37690,7 @@ requite
 requiting
 rerack
 reracking
+reradiated
 reradiating
 reradiations
 reraising
@@ -37841,6 +37865,7 @@ resows
 respaced
 respade
 respades
+respeak
 respecifies
 respecifying
 respectability
@@ -41848,6 +41873,7 @@ solicitousness
 solicitude
 solidaristic
 solider
+solidifying
 solidity
 solidnesses
 solifluctions
@@ -43358,6 +43384,7 @@ stuporous
 stupors
 sturdied
 sturdier
+sturdiest
 sturgeons
 sturts
 stuttered
@@ -45808,6 +45835,7 @@ tile
 tilelike
 tiler
 tiles
+tilings
 tiller
 tillered
 tillite
@@ -48694,6 +48722,7 @@ uts
 utterable
 uttered
 uttermost
+uttermosts
 uveal
 uveitis
 uvula
@@ -48870,6 +48899,7 @@ vatical
 vaticides
 vaticinated
 vaticinator
+vats
 vatting
 vaudevillians
 vaultings
@@ -49168,6 +49198,7 @@ victimhoods
 victimise
 victimologists
 victorious
+victory
 victual
 victualer
 vicugnas
@@ -50003,6 +50034,7 @@ whelmed
 whelps
 when
 whencesoever
+whens
 whereabout
 whereas
 whereases
@@ -50284,6 +50316,7 @@ winsomenesses
 winsomest
 winter
 wintered
+winterer
 winterfed
 winteriest
 wintering
@@ -50961,6 +50994,7 @@ zoonotic
 zoons
 zoophobias
 zooplankter
+zooplankters
 zooplanktonic
 zoos
 zoosporangia
@@ -50971,6 +51005,7 @@ zootier
 zootomists
 zooxanthella
 zooxanthellae
+zori
 zorilla
 zorillas
 zorillo
