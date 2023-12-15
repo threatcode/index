@@ -55,6 +55,7 @@ absentees
 absents
 absinthes
 absinths
+absolute
 absoluteness
 absolutenesses
 absolution
@@ -379,6 +380,7 @@ adaptable
 adaptations
 adapted
 adapting
+adaptively
 adaptivenesses
 adaptivities
 adaptivity
@@ -3331,6 +3333,7 @@ baptising
 baptism
 baptisteries
 baptists
+baptize
 baptized
 baptizer
 baptizing
@@ -6464,6 +6467,7 @@ caressively
 caretaker
 caretakers
 carets
+carex
 carfuls
 cargoes
 caribe
@@ -8743,6 +8747,7 @@ comprehended
 compresses
 compressions
 compressive
+compressors
 comprisals
 comprises
 comprising
@@ -14088,6 +14093,7 @@ eliminate
 eliminations
 eliminators
 elint
+elitisms
 elixir
 ellipsoids
 ells
@@ -14501,6 +14507,7 @@ engines
 engining
 engirded
 englacial
+english
 englut
 engorgements
 engrafted
@@ -16353,6 +16360,7 @@ fibered
 fiberglassed
 fiberize
 fiberless
+fiberscope
 fibrillates
 fibrillation
 fibrillations
@@ -18486,6 +18494,7 @@ glamourizing
 glamourless
 glancing
 glancingly
+glanders
 glandless
 glands
 glandular
@@ -19643,6 +19652,7 @@ halophytic
 halos
 halothanes
 halterbreak
+halterbreaks
 halterbroken
 halteres
 halters
@@ -21477,6 +21487,7 @@ imagistically
 imago
 imamate
 imaret
+imbalm
 imbalmer
 imbarks
 imbeciles
@@ -22963,6 +22974,7 @@ involve
 involvers
 involves
 invulnerability
+invulnerable
 inwardly
 inwardness
 inwardnesses
@@ -25151,6 +25163,7 @@ lividnesses
 livingly
 livres
 livyers
+lixivia
 lixiviated
 lixiviates
 lixiviation
@@ -26604,6 +26617,7 @@ mention
 mentionable
 mentoring
 mentum
+menu
 meou
 meouing
 meow
@@ -28572,6 +28586,7 @@ nainsooks
 nairu
 naissance
 naive
+naively
 naiveness
 naivest
 naivetes
@@ -30822,6 +30837,7 @@ outlawed
 outlawing
 outlay
 outleading
+outleads
 outleaped
 outlearn
 outlearning
@@ -30883,6 +30899,7 @@ outrageously
 outraised
 outrance
 outrange
+outranks
 outrate
 outrated
 outrates
@@ -31047,6 +31064,7 @@ overachieving
 overacted
 overactive
 overacts
+overage
 overalert
 overamplified
 overanxieties
@@ -32697,6 +32715,7 @@ perkiest
 perkiness
 perkinesses
 perkish
+perlite
 permafrosts
 permalloys
 permanences
@@ -33685,9 +33704,11 @@ plenished
 plenist
 plenitudes
 plenties
+plentifulnesses
 plentitudes
 plenty
 plenums
+pleomorphic
 pleomorphism
 pleonasm
 pleonasms
@@ -34084,6 +34105,7 @@ poornesses
 popcorn
 popery
 popgun
+popish
 popliteal
 poplitic
 poppa
@@ -34623,6 +34645,7 @@ prehardens
 preheadache
 preheats
 prehensions
+prehiring
 prehistorian
 prehistorically
 preholiday
@@ -35562,6 +35585,7 @@ ptarmigans
 pteranodons
 pteridines
 pteridologies
+pterins
 pterodactyls
 pterylae
 ptisan
@@ -37072,6 +37096,7 @@ redshifted
 redshirting
 redskins
 redstart
+redtops
 redubbing
 redubs
 reducers
@@ -40099,6 +40124,7 @@ scutiform
 scuttered
 scuttlebutts
 scuttled
+scuttling
 scuzzes
 scyphistoma
 scyphistomas
@@ -41620,6 +41646,7 @@ sleepwalked
 sleepwalkers
 sleepwear
 sleepy
+sleeted
 sleeve
 sleevelets
 sleeving
@@ -42343,6 +42370,7 @@ sourpuss
 sours
 sousaphone
 souses
+souters
 south
 southeast
 southeastward
@@ -43203,6 +43231,7 @@ stereopticons
 stereotyped
 stereotypes
 stereotypic
+stereotypically
 sterical
 sterically
 sterigma
@@ -46537,6 +46566,7 @@ tousled
 tousles
 touzles
 tovarich
+tovarish
 tow
 towable
 towage
@@ -46669,6 +46699,7 @@ tram
 tramcars
 trameling
 tramelling
+tramells
 tramels
 trammed
 trammeled
@@ -46933,6 +46964,8 @@ tribesman
 triboelectric
 tribological
 tribologies
+tribologists
+tribology
 tribulations
 tribune
 tribunes
@@ -47668,6 +47701,7 @@ unacted
 unadmired
 unadmitted
 unadopted
+unadorned
 unadventurous
 unadvertised
 unaffectedly
@@ -48751,6 +48785,7 @@ unweariedly
 unweary
 unweathered
 unweaving
+unwedded
 unweeting
 unweighed
 unweighted
