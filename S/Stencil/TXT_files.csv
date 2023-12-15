@@ -7,3 +7,14 @@ stencil-dsl - lib - Transforms - CMakeLists.txt - GitLab,https://spclgitlab.ethz
 ARB_texture_stencil8 - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_texture_stencil8.txt
 ARB_stencil_texturing - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_stencil_texturing.txt
 context-attributes-alpha-depth-stencil-antialias-expected.txt - GitHub,https://github.com/intel/pa-blink/blob/master/LayoutTests/fast/canvas/webgl/context-attributes-alpha-depth-stencil-antialias-expected.txt
+ARB_texture_stencil8 - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/ARB/ARB_texture_stencil8.txt
+OES_texture_stencil8 - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/OES/OES_texture_stencil8.txt
+Download technique's instructions - Paolo Cirio,https://paolocirio.net/work/hd-stencils/SCRIPT_HD_STENCILS-README.txt
+ionic-stencil-conference-app/src/robots.txt at master - GitHub,https://github.com/ionic-team/ionic-stencil-conference-app/blob/master/src/robots.txt
+"Full text of ""Stencil catalogs: cut stencils for the use of practical men.""",https://archive.org/stream/StencilCatalogsCutStencilsForTheUseOfPracticalMen/StencilCatalog0001_djvu.txt
+AWS-OmniGraffle-Stencils/meta.txt at main - GitHub,https://github.com/davidfsmith/AWS-OmniGraffle-Stencils/blob/main/meta.txt
+"Stencils for 1937 created by Stencil Specialty Co,. Inc.",https://bvrnstream.blackvaultradio.com/stream/StencilSpecialtyCo/Stencil%2520Specialty%2520Co_djvu.txt
+robots.txt - Stencil.js,https://stenciljs.com/robots.txt
+hw4sol.txt - UCSD CSE,http://cseweb.ucsd.edu/classes/sp04/cse160/Lectures/Lec12/hw4sol.txt
+ARB_texture_stencil8 - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_texture_stencil8.txt
+ARB_stencil_texturing - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_ARB_stencil_texturing.txt
