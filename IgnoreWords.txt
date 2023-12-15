@@ -908,6 +908,7 @@ akene
 akinesia
 akinesias
 akvavit
+al
 alacrity
 alamos
 alants
@@ -994,6 +995,7 @@ aliasing
 aliasings
 alibiing
 alidads
+alienability
 alienate
 alienates
 alienee
@@ -1951,6 +1953,7 @@ aphasiac
 aphasics
 aphelia
 aphelions
+apheresis
 aphetic
 aphetically
 aphides
@@ -1990,6 +1993,7 @@ apocarpies
 apocarpy
 apochromatic
 apocopate
+apocopates
 apocrine
 apocrypha
 apodeictic
@@ -3259,6 +3263,7 @@ balls
 ballyard
 ballyhooed
 ballyhooing
+ballyragged
 ballyragging
 balmier
 balmy
@@ -6826,6 +6831,7 @@ ceil
 ceiled
 ceilers
 ceilidh
+ceiling
 ceinture
 celandine
 celebrate
@@ -8835,6 +8841,7 @@ concepti
 conceptive
 concepts
 conceptualist
+conceptualistic
 conceptualities
 conceptualizers
 concern
@@ -12889,6 +12896,7 @@ disyoked
 ditas
 ditcher
 ditchers
+ditches
 dites
 dithyrambically
 dithyrambs
@@ -13218,6 +13226,7 @@ doughtily
 doughtinesses
 doupioni
 doupionis
+dourah
 dourer
 dourine
 doused
@@ -19405,6 +19414,7 @@ guffaws
 guidebook
 guidebooks
 guided
+guider
 guids
 guilds
 guildsmen
@@ -19559,6 +19569,7 @@ gyron
 gyrons
 gyropilot
 gyros
+gyroscopically
 gyrostabilizer
 gyrostabilizers
 gyttjas
@@ -19920,6 +19931,7 @@ hatcheck
 hatchecks
 hatchels
 hatcheries
+hatchery
 hatchet
 hatching
 hatchings
@@ -20535,6 +20547,7 @@ histamins
 histidin
 histidine
 histidines
+histidins
 histing
 histochemical
 histologies
@@ -20635,6 +20648,7 @@ holey
 holiday
 holidaying
 holidaymaker
+holidaymakers
 holiest
 holistic
 holistically
@@ -21283,6 +21297,7 @@ hyperreactivity
 hyperreactor
 hyperrealism
 hyperrealist
+hyperrealistic
 hypersalinities
 hypersecretion
 hypersensitized
@@ -21698,7 +21713,9 @@ imperiling
 imperilled
 imperilling
 imperiousnesses
+imperishable
 impermanences
+impermeable
 impermissible
 impersonal
 impersonalities
@@ -25988,6 +26005,7 @@ mammalogists
 mammary
 mammas
 mammati
+mammatus
 mammees
 mammer
 mammering
@@ -27170,6 +27188,7 @@ millimoles
 milline
 millineries
 milliners
+millionairess
 millionfold
 millions
 milliosmol
@@ -31368,6 +31387,7 @@ overinforms
 overing
 overingenious
 overingenuity
+overintensities
 overissue
 overjoying
 overlabor
@@ -31608,6 +31628,7 @@ overwore
 overwork
 overworking
 overworn
+overwriting
 overwritten
 overwrote
 overzealous
@@ -33990,6 +34011,7 @@ polarimetric
 polarises
 polarities
 polarize
+polarized
 polarizers
 polars
 pole
@@ -34280,6 +34302,7 @@ pose
 posers
 poseurs
 posher
+poshness
 posies
 posing
 posit
@@ -35473,6 +35496,7 @@ protactiniums
 protagonist
 protatic
 protean
+proteans
 protectants
 protecters
 protective
@@ -36892,6 +36916,7 @@ recitative
 recits
 reck
 recladding
+reclaimed
 reclaimer
 reclaims
 reclames
@@ -37816,6 +37841,7 @@ renesting
 renewer
 renews
 renitence
+renitencies
 rennets
 rennins
 renographies
@@ -38003,6 +38029,7 @@ reproduced
 reproducible
 reproduction
 reproductions
+reprogramed
 reprogrammable
 reprogramming
 reprograms
@@ -41560,6 +41587,7 @@ skeanes
 skedaddled
 skedaddling
 skeed
+skeeter
 skeeters
 skeigh
 skeined
@@ -44177,6 +44205,7 @@ subvocalize
 subvocalizing
 subworld
 subwriter
+subzone
 succeed
 succeeded
 succeeder
@@ -44579,6 +44608,7 @@ supple
 supplementing
 suppler
 supplest
+suppletive
 suppletory
 suppliance
 suppliants
@@ -44743,6 +44773,7 @@ swankest
 swanking
 swannery
 swanskins
+swapper
 swapping
 swaps
 swaraj
@@ -46145,6 +46176,7 @@ thromboplastic
 thromboses
 thromboxanes
 throne
+throned
 throttle
 throttleholds
 throttles
@@ -46452,6 +46484,7 @@ tokamaks
 toke
 toked
 token
+toker
 tokers
 tokes
 tolarjev
@@ -48521,6 +48554,7 @@ universalness
 universals
 universities
 univocally
+univocals
 unjustifiably
 unjustly
 unjustness
@@ -51119,6 +51153,7 @@ wrinkled
 wrinkles
 wrinkliest
 wrinkly
+wrist
 wristband
 wristbands
 writhe
