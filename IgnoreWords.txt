@@ -2701,6 +2701,7 @@ audibling
 audients
 audings
 audiobooks
+audiocassette
 audiocassettes
 audiogenic
 audiograms
@@ -3264,6 +3265,7 @@ bandore
 bands
 bandsaw
 bandsaws
+bandshells
 bandstand
 bandwagons
 bandwidths
@@ -4119,6 +4121,7 @@ biface
 bifacial
 bifarious
 biff
+biffing
 biffs
 bifid
 bifidities
@@ -5778,6 +5781,7 @@ buttes
 butting
 buttocks
 button
+buttonholer
 buttonhooked
 buttons
 buttonwoods
@@ -6212,6 +6216,7 @@ canulate
 canulates
 canvasbacks
 canvases
+canvassers
 canvasses
 canyons
 canzonas
@@ -6474,9 +6479,11 @@ carpogonia
 carpogonial
 carpooled
 carpoolers
+carports
 carpospore
 carr
 carrack
+carrageenans
 carrel
 carrell
 carrells
@@ -6872,6 +6879,7 @@ cereus
 ceriph
 cerise
 cerite
+cermet
 cermets
 cerotic
 cerotypes
@@ -8105,6 +8113,7 @@ cockamamie
 cockatrices
 cockboat
 cockboats
+cockerel
 cockiest
 cockiness
 cocking
@@ -8364,6 +8373,7 @@ collenchymas
 colliding
 collie
 collied
+colligating
 colligation
 collimate
 collimations
@@ -9511,6 +9521,7 @@ cosmologies
 cosmologist
 cosmologists
 cosmopolitanism
+cosmopolitans
 cosmos
 cosmotrons
 cosponsor
@@ -10382,6 +10393,7 @@ cushionless
 cuspal
 cuspate
 cuspid
+cussed
 cussedly
 cusser
 cussers
@@ -10801,6 +10813,7 @@ deafens
 deafness
 deafnesses
 deaired
+dealation
 dealer
 dealership
 dealerships
@@ -12076,6 +12089,7 @@ differentness
 differs
 difficulties
 diffracting
+diffracts
 diffusenesses
 diffuser
 diffusers
@@ -12979,6 +12993,7 @@ donnees
 donnicker
 donniker
 donnishly
+donnishness
 donnybrooks
 donut
 donzel
@@ -14448,6 +14463,7 @@ ennoblers
 ennobling
 ennuye
 ennuyee
+enokidakes
 enokitakes
 enological
 enologies
@@ -19593,6 +19609,7 @@ hantles
 hanumans
 haphazards
 haphtarah
+haphtarahs
 haphtaras
 hapless
 haplessly
@@ -19771,6 +19788,7 @@ he
 headache
 headachey
 headbands
+headcheese
 headcheeses
 headcounts
 headed
@@ -19842,6 +19860,7 @@ heathbirds
 heathendoms
 heathenized
 heathenizes
+heathenries
 heathens
 heather
 heathlike
@@ -20951,6 +20970,7 @@ hydrotropic
 hydrous
 hydroxy
 hydroxyapatites
+hydroxylase
 hydroxylases
 hydroxylated
 hydroxylating
@@ -22799,6 +22819,7 @@ inwraps
 iodating
 iodide
 iodids
+iodised
 iodism
 iodize
 iodizing
@@ -25136,6 +25157,7 @@ lookdown
 lookdowns
 looked
 looksisms
+looms
 loonies
 loonily
 looninesses
@@ -30148,6 +30170,7 @@ oracularities
 oracularity
 orality
 orang
+orangerie
 orangiest
 orangs
 orations
@@ -32889,6 +32912,7 @@ phylloids
 phyllopod
 phyllotaxies
 phylloxera
+physiatrist
 physicalism
 physicalities
 physicality
@@ -33286,6 +33310,7 @@ planar
 planarian
 planarity
 planche
+planches
 planchette
 planed
 planers
@@ -33609,6 +33634,7 @@ pol
 polarimeters
 polarimetric
 polarises
+polarities
 polarize
 polarizers
 polars
@@ -33931,6 +33957,7 @@ postcodes
 postcoital
 postcolonial
 postconsonantal
+postcoronary
 postcoup
 postcrash
 postdating
@@ -34126,6 +34153,7 @@ prase
 praseodymium
 prat
 prater
+pratincole
 pratincoles
 pratique
 prawned
@@ -35012,6 +35040,7 @@ proprioceptor
 proprioceptors
 proptoses
 propulsive
+propylaea
 propylene
 propylic
 propylon
@@ -35722,6 +35751,7 @@ quartiers
 quartz
 quasicrystal
 quasicrystals
+quasiparticles
 quasses
 quate
 quatercentenary
@@ -36249,6 +36279,7 @@ reactants
 reactivates
 reactivation
 reactively
+reactiveness
 reactivenesses
 reactors
 read
@@ -39242,6 +39273,7 @@ sarodes
 sarongs
 saroses
 sarsaparillas
+sarsenet
 sarsnet
 sartor
 sartors
@@ -45846,6 +45878,7 @@ tipple
 tippled
 tippler
 tippytoeing
+tipsier
 tipsy
 tiptoed
 tiptops
@@ -49446,6 +49479,7 @@ vulcanize
 vulcanizers
 vulcanizes
 vulcanizing
+vulgar
 vulgarian
 vulgarisms
 vulgarities
@@ -50046,6 +50080,7 @@ whirlpools
 whirls
 whirries
 whirring
+whishing
 whishting
 whishts
 whiskery
