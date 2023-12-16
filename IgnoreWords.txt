@@ -218,6 +218,7 @@ accustoms
 aced
 aceldamas
 acellular
+acequia
 acequias
 acerated
 acerbate
@@ -736,6 +737,7 @@ agenizes
 agentings
 agentries
 agents
+ager
 ageratums
 agger
 aggies
@@ -3112,6 +3114,7 @@ backlisted
 backloaded
 backloads
 backlogs
+backpack
 backpedal
 backpedaled
 backpedaling
@@ -3594,6 +3597,7 @@ baudekins
 baudrons
 baudronses
 bauds
+baulkier
 baulkiest
 bawd
 bawdiness
@@ -4875,6 +4879,7 @@ bolas
 bolases
 boldface
 boldfaced
+boldfacing
 boldly
 bolds
 bolection
@@ -5000,6 +5005,7 @@ boosts
 bootblacks
 bootery
 booth
+booths
 bootlaces
 bootlegged
 bootlegger
@@ -5028,6 +5034,7 @@ borers
 boresome
 boride
 boring
+borne
 borneols
 bornite
 borohydrides
@@ -5325,6 +5332,7 @@ breaststrokers
 breath
 breathabilities
 breathed
+breathinesses
 breathy
 breccial
 brecciating
@@ -5674,6 +5682,7 @@ bulldogger
 bulldozed
 bulldozing
 bulldykes
+bulled
 bullet
 bulleted
 bulletin
@@ -8549,6 +8558,7 @@ collisionally
 collocating
 collodion
 colloidal
+colloids
 collop
 colloquial
 colloquist
@@ -10358,6 +10368,7 @@ crushproof
 crustal
 crustily
 crustinesses
+crustless
 crustose
 crutch
 cruzado
@@ -11104,6 +11115,7 @@ decarbonizer
 decarboxylate
 decarboxylation
 decarburize
+decasyllabic
 decathletes
 decayed
 decaying
@@ -13448,6 +13460,7 @@ drapers
 drastic
 drat
 dratting
+draughted
 draughting
 draughtsmen
 draw
@@ -14525,6 +14538,7 @@ enchainments
 enchant
 enchanters
 enchanting
+enchantment
 enchantress
 encinas
 encircle
@@ -15100,6 +15114,7 @@ ere
 erectilities
 erective
 erectors
+erects
 eremitisms
 eremurus
 erewhile
@@ -15794,6 +15809,7 @@ expostulations
 exposure
 expounding
 expounds
+expressers
 expressible
 expressionism
 expressive
@@ -16169,6 +16185,7 @@ farad
 faradaic
 faradized
 farads
+farandoles
 farcer
 farcers
 farceur
@@ -20049,6 +20066,7 @@ harmine
 harmines
 harmlessness
 harmonicas
+harmonious
 harmoniousness
 harmonized
 harmonizers
@@ -23003,6 +23021,7 @@ interpenetrates
 interpermeate
 interpermeating
 interpersonally
+interplayed
 interpleading
 interpleads
 interpolates
@@ -25434,6 +25453,7 @@ littermates
 littery
 littlenecks
 litu
+liturgical
 liturgies
 liturgiologies
 liturgiologist
@@ -26434,6 +26454,7 @@ marka
 markas
 markdown
 markdowns
+marked
 markednesses
 marketability
 marketable
@@ -27748,6 +27769,7 @@ mislayer
 mislead
 misleader
 misleared
+mislies
 mislighting
 mislikes
 mislives
@@ -32279,6 +32301,7 @@ parabiotically
 parachors
 parachutist
 paraclete
+paracrine
 paraded
 parader
 paraders
@@ -37821,6 +37844,7 @@ rehung
 rehydratable
 rehydrate
 rehydrates
+rehydrating
 rehydration
 rehypnotizes
 reichsmarks
@@ -38156,6 +38180,7 @@ renouncer
 renovascular
 renovate
 renovates
+renovative
 renovator
 renowns
 rentability
@@ -39675,6 +39700,7 @@ saccharomyces
 saccular
 sacculate
 saccules
+sacerdotal
 sacerdotalisms
 sacerdotalist
 sachem
@@ -39793,6 +39819,7 @@ salesmen
 salespersons
 saleswoman
 saleswomen
+salicylates
 saliency
 saliently
 salients
@@ -41867,6 +41894,7 @@ sinuosities
 sinuousness
 sinusitises
 sinuslike
+sinusoidal
 siphonage
 siphonages
 siphonophore
@@ -43072,6 +43100,7 @@ spenders
 spenses
 spermacetis
 spermary
+spermatheca
 spermatocyte
 spermatogeneses
 spermatogonial
@@ -46586,6 +46615,7 @@ thundering
 thunderous
 thunderstrikes
 thunderstriking
+thunderstrokes
 thunderstruck
 thurl
 thuya
@@ -47542,6 +47572,7 @@ trickishnesses
 tricklier
 trickly
 tricks
+tricksier
 tricksinesses
 trickster
 tricksters
@@ -48193,6 +48224,7 @@ ultrasmall
 ultrasoft
 ultrasonics
 ultrasonography
+ultrasounds
 ultrastructure
 ultrastructures
 ultratiny
@@ -48483,6 +48515,7 @@ unconfounded
 unconfusing
 unconquerably
 unconsciously
+unconsecrated
 unconsolidated
 unconstrained
 unconstricted
@@ -50153,6 +50186,7 @@ vigorously
 vigours
 vilifiers
 vilifies
+vilifying
 villagers
 villainous
 villainously
@@ -51783,6 +51817,7 @@ yourself
 yous
 youthening
 youthful
+youthquakes
 yow
 yowe
 yowed
