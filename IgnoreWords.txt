@@ -2312,6 +2312,7 @@ arguing
 argument
 argumenta
 argumentative
+argumentatively
 argus
 argyll
 arhatships
@@ -3963,6 +3964,7 @@ ben
 bename
 benamed
 benaming
+benched
 benchmarkings
 benchwarmer
 bended
@@ -4723,6 +4725,7 @@ bloops
 blotched
 blotchiest
 blotchily
+blotchy
 blotters
 blotto
 blotty
@@ -8262,6 +8265,7 @@ coadaptations
 coadjutor
 coadjutors
 coadmire
+coadmitting
 coagency
 coagulability
 coagulable
@@ -9028,6 +9032,7 @@ concoctor
 concoctors
 concomitant
 concomitantly
+concomitants
 concord
 concordal
 concordances
@@ -9913,6 +9918,7 @@ countermove
 countermovement
 countermyth
 counteroffer
+counteroffers
 counterpane
 counterparts
 counterpicketed
@@ -11353,6 +11359,7 @@ decryption
 decryptions
 decumbent
 decuple
+decurrent
 decurving
 decussates
 dedans
@@ -11376,6 +11383,7 @@ deer
 deerhound
 dees
 def
+defacements
 defalcated
 defalcating
 defamation
@@ -14005,6 +14013,7 @@ earlinesses
 earlobe
 earlock
 earmarks
+earmuff
 earned
 earnestnesses
 earns
@@ -14711,6 +14720,7 @@ endamoebae
 endangerments
 endarchy
 endash
+endeavouring
 endemicities
 enders
 endexines
@@ -16043,6 +16053,7 @@ extravagate
 extraversions
 extremenesses
 extremes
+extremest
 extremism
 extremist
 extremists
@@ -17732,6 +17743,7 @@ foveolae
 foveole
 fowlings
 fowls
+foxgloves
 foxhole
 foxhound
 foxhunter
@@ -18057,6 +18069,7 @@ fullery
 fullmouthed
 fullnesses
 fulmar
+fulmars
 fulminates
 fulminating
 fulmines
@@ -18707,6 +18720,7 @@ germanders
 germanic
 germanization
 germans
+germens
 germicide
 germinally
 germplasm
@@ -19559,6 +19573,7 @@ griffes
 griffins
 grigri
 grigs
+grille
 grilled
 griller
 grilleries
@@ -20855,6 +20870,7 @@ hilarious
 hillbilly
 hilled
 hillers
+hilliness
 hillo
 hilloaing
 hillocky
@@ -21053,6 +21069,7 @@ homebreds
 homegirls
 homelessness
 homeliness
+homelinesses
 homeomorphic
 homeomorphisms
 homeopath
@@ -27348,6 +27365,7 @@ metatarsus
 metathetic
 metathetically
 metathoracic
+metaxylem
 metazoal
 meted
 metempsychoses
@@ -29737,6 +29755,7 @@ nitro
 nitrobenzenes
 nitrogen
 nitrogens
+nitroglycerin
 nitroglycerins
 nitros
 nitrosamine
@@ -33335,6 +33354,7 @@ perfumes
 perfunctoriness
 perfused
 perfuses
+perfusion
 perfusionist
 perfusionists
 pergolas
@@ -35750,6 +35770,7 @@ priseres
 prismatically
 prismatoids
 prismoid
+prisoned
 prisses
 prissily
 prissy
@@ -36810,6 +36831,7 @@ querists
 querulously
 query
 quester
+questions
 quests
 queue
 queued
@@ -38785,6 +38807,7 @@ reroute
 res
 resaddles
 resaddling
+resaluting
 resampled
 resat
 resaw
@@ -39312,6 +39335,7 @@ rewrites
 rezeros
 rezoned
 rezoning
+rhabdom
 rhabdomal
 rhabdomancies
 rhabdomeres
@@ -39879,6 +39903,7 @@ rucking
 ruckle
 ruckus
 ruckuses
+rudbeckias
 rudder
 rudders
 ruddier
@@ -39938,6 +39963,7 @@ rumination
 rummage
 rummager
 rummier
+rummies
 rummy
 rump
 rumply
@@ -40007,6 +40033,7 @@ sab
 sabadillas
 sabal
 sabaton
+sabatons
 sabbath
 sabbaths
 sabbatical
@@ -40315,6 +40342,7 @@ sanitate
 sanitating
 sanitation
 sanitization
+sanitoriums
 sanjaks
 sank
 sannop
@@ -40442,7 +40470,9 @@ satraps
 satrapy
 saturant
 saturants
+saturated
 saturating
+saturations
 saturnism
 satyagrahas
 satyriases
@@ -42463,6 +42493,7 @@ slalomer
 slalomers
 slaloming
 slamdancing
+slammed
 slammings
 slams
 slanderous
@@ -42852,6 +42883,7 @@ snobbier
 snobbiest
 snobbily
 snobbish
+snobbishnesses
 snobbisms
 snobs
 snogged
@@ -45863,6 +45895,7 @@ syphoned
 syringas
 syrphid
 syrup
+sysadmin
 sysop
 sysops
 systematic
@@ -45888,6 +45921,7 @@ table
 tablecloth
 tableless
 tablemates
+tables
 tablet
 tableting
 tabletops
@@ -50593,6 +50627,7 @@ victorious
 victory
 victual
 victualer
+victualled
 vicugnas
 vicuna
 vicunas
