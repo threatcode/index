@@ -5963,6 +5963,7 @@ cabining
 cabins
 cabled
 cablegram
+cablegrams
 cableway
 cableways
 cabob
@@ -6006,6 +6007,7 @@ cadavers
 caddice
 caddises
 caddish
+cadets
 cadetship
 caducean
 caducous
@@ -13789,6 +13791,7 @@ dyed
 dyeweed
 dying
 dykey
+dynameter
 dynamic
 dynamically
 dynamics
@@ -15532,6 +15535,7 @@ exception
 exceptionable
 exceptional
 exceptionalisms
+excerpter
 excerpting
 excerptor
 excerptors
@@ -15612,6 +15616,7 @@ exfoliations
 exhale
 exhalent
 exhauster
+exhausting
 exhaustive
 exhaustivity
 exhaustlessness
@@ -16573,6 +16578,7 @@ fiduciaries
 fief
 fiefdoms
 fielding
+fields
 fieldstone
 fieldwork
 fiend
@@ -16975,6 +16981,7 @@ flextimes
 flexural
 flichtered
 flicker
+flickered
 flickers
 flics
 flight
@@ -17529,6 +17536,7 @@ fountain
 fountained
 founts
 fourdriniers
+foureyed
 fourpences
 fourteeners
 fourthly
@@ -18811,6 +18819,7 @@ glowered
 glowers
 glowfly
 glows
+gloxinias
 glozing
 glucokinases
 glucose
@@ -20393,6 +20402,7 @@ hemstitching
 henbanes
 henceforth
 henchmen
+henequins
 henge
 heniquen
 heniquens
@@ -22673,6 +22683,7 @@ insipidly
 insistent
 insists
 insobrieties
+insofar
 insolations
 insole
 insolence
@@ -23808,6 +23819,7 @@ jumpiness
 jumps
 jumpsuits
 jun
+junction
 junctional
 juncture
 jungled
@@ -23839,6 +23851,7 @@ jurying
 juster
 justers
 justice
+justiciability
 justiciable
 justiciars
 justified
@@ -25229,6 +25242,7 @@ lineages
 lineal
 lineaments
 linearises
+linearity
 linearization
 linearize
 linearizes
@@ -27850,6 +27864,7 @@ miterworts
 miticide
 mitigate
 mitigations
+mitigator
 mitis
 mitises
 mitogen
@@ -29982,6 +29997,7 @@ notcher
 notebooks
 notedly
 noteless
+notepaper
 notepapers
 notes
 nother
@@ -30420,6 +30436,7 @@ officially
 officiants
 officiaries
 officiates
+offishly
 offishness
 offkey
 offload
@@ -35110,6 +35127,7 @@ prereturn
 prerock
 preromantic
 presage
+presagers
 presaging
 presales
 presbyope
@@ -35497,6 +35515,7 @@ programings
 programmables
 programme
 programmes
+progressing
 progression
 progressiveness
 progressivisms
@@ -35707,6 +35726,7 @@ prostyles
 prosy
 protactiniums
 protagonist
+protamins
 protatic
 protean
 proteans
@@ -35816,6 +35836,7 @@ pruinose
 prunable
 prunella
 pruning
+prunuses
 pruriently
 prurigos
 pruritic
@@ -35953,6 +35974,7 @@ pudgiest
 pudgily
 pudginess
 pudginesses
+puerperae
 puerperal
 puffed
 puffily
@@ -37686,6 +37708,7 @@ reglaze
 reglazing
 reglets
 reglorifies
+reglorify
 reglossing
 reglowing
 reglows
@@ -37732,6 +37755,7 @@ rehashing
 rehear
 rehearsals
 rehearsers
+rehearses
 rehearsing
 reheated
 reheater
@@ -39345,6 +39369,7 @@ roubles
 rouche
 rouges
 roughage
+roughcast
 roughdry
 roughed
 roughened
@@ -39498,6 +39523,7 @@ rumpus
 runabout
 runarounds
 runelike
+runes
 rungless
 runic
 runkled
@@ -41294,6 +41320,7 @@ shingle
 shingling
 shiniest
 shinily
+shining
 shiningly
 shinned
 shinneyed
@@ -44321,6 +44348,7 @@ submittal
 submucosae
 submucosas
 submultiple
+submunitions
 subnasal
 subnetworking
 subniches
@@ -44761,6 +44789,7 @@ superhypes
 superhyping
 superimposed
 superimposing
+superinfecting
 superintend
 superintendents
 superjet
@@ -45448,6 +45477,7 @@ tailgated
 tailgater
 tailgates
 tailing
+tailings
 taillamp
 tailles
 tailleur
@@ -45521,6 +45551,7 @@ tambala
 tambouras
 tambourine
 tambouring
+tambours
 tambur
 tameable
 tameins
@@ -45795,6 +45826,7 @@ technetiums
 technetronic
 technic
 technical
+technicalities
 technicalizing
 technicals
 technics
@@ -46241,6 +46273,7 @@ theorists
 theorized
 theosophically
 theosophist
+therapeusis
 therapsid
 thereabout
 therefore
@@ -47216,6 +47249,7 @@ translated
 translatory
 transliterate
 translocated
+translocations
 translucence
 translucences
 translucent
@@ -51711,6 +51745,7 @@ zacatons
 zaddikim
 zaffar
 zaffars
+zaffers
 zaffir
 zaffres
 zag
