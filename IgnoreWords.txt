@@ -1182,6 +1182,7 @@ alsike
 altazimuths
 alter
 alterabilities
+alteration
 altercations
 altered
 alterers
@@ -1444,6 +1445,7 @@ anagrammatical
 analcimes
 analcites
 analecta
+analects
 analemmata
 analgesias
 analgetics
@@ -2002,6 +2004,7 @@ aphis
 aphonia
 aphorise
 aphorised
+aphorising
 aphorize
 aphorizer
 aphorizing
@@ -3017,6 +3020,7 @@ awaken
 awakened
 awardee
 awardees
+awards
 awash
 awayness
 aweather
@@ -3966,6 +3970,7 @@ bellbird
 belleek
 belligerences
 belligerent
+bellower
 bellows
 bellwethers
 bellyacher
@@ -4462,6 +4467,7 @@ biostatistician
 biostatistics
 biosystematic
 biosystematist
+biota
 biotas
 biotechnical
 biotechnologies
@@ -5014,6 +5020,7 @@ bombsights
 bombyxes
 bonanza
 bonbon
+bondage
 bondages
 bonders
 bondmaid
@@ -5866,6 +5873,7 @@ burans
 burble
 burbled
 burbly
+burbot
 burbs
 burd
 burdened
@@ -7335,6 +7343,7 @@ charbroils
 charcuterie
 charcuteries
 chards
+chare
 charge
 chargeable
 charged
@@ -7532,6 +7541,7 @@ chicaneries
 chicanes
 chicaning
 chicest
+chick
 chicken
 chickenhearted
 chickenshit
@@ -9692,6 +9702,7 @@ copyleft
 copyreader
 copyreaders
 copyright
+copyrightable
 coquetries
 coquetry
 coquettes
@@ -9732,6 +9743,7 @@ coreligionist
 corepressor
 corer
 coresearchers
+corgi
 coriander
 corkier
 corkiness
@@ -11672,6 +11684,7 @@ deify
 deils
 deinonychus
 deionized
+deionizing
 deistic
 deistically
 deists
@@ -13178,6 +13191,7 @@ dissertates
 dissertator
 disserting
 disserve
+disserved
 disserves
 disses
 disseverance
@@ -15831,6 +15845,7 @@ evolution
 evolutions
 evolved
 evolvement
+evolving
 evulses
 evulsion
 evulsions
@@ -16032,6 +16047,7 @@ exothermal
 exothermic
 exothermicity
 exoticism
+exoticist
 exoticness
 exoticnesses
 exotoxic
@@ -17941,6 +17957,7 @@ founts
 fourdriniers
 foureyed
 fourpences
+foursomes
 fourteeners
 fourthly
 foveae
@@ -19553,6 +19570,7 @@ gradates
 gradating
 gradationally
 gradations
+gradeless
 grader
 gradients
 gradin
@@ -20639,6 +20657,7 @@ healthy
 heap
 heapers
 hearers
+hearing
 hearings
 hearken
 hearkener
@@ -22152,6 +22171,7 @@ illimitability
 illimitable
 illinium
 illiquidities
+illiquidity
 illiteracy
 illogical
 illogicality
@@ -24260,6 +24280,7 @@ jobname
 jockey
 jockstraps
 jocose
+jocosenesses
 jocosity
 jocular
 jocundity
@@ -24509,6 +24530,7 @@ kats
 katsura
 kaury
 kayaked
+kayaker
 kayles
 kayo
 kayos
@@ -25155,6 +25177,7 @@ lanthanons
 lanthanum
 lanuginous
 lanugo
+lanyards
 laogai
 lap
 laparoscope
@@ -25303,6 +25326,7 @@ lavalier
 lavaliere
 lavalike
 lavallieres
+lavation
 lavatory
 laveered
 lavendered
@@ -26598,6 +26622,7 @@ madrepores
 madreporians
 madrigal
 madrigalist
+madrone
 madrones
 mads
 madtoms
@@ -27520,6 +27545,7 @@ meperidines
 mephitis
 meprobamate
 mercantile
+mercantilisms
 mercantilistic
 mercantilists
 mercapto
@@ -28064,6 +28090,7 @@ mineralizing
 mineralogy
 mines
 mineshaft
+minestrone
 minestrones
 mingiest
 mingler
@@ -37299,6 +37326,7 @@ quinolin
 quinolines
 quinone
 quinones
+quinquennia
 quinquennial
 quinquennials
 quinquennium
@@ -38387,6 +38415,7 @@ reenlarged
 reenlisting
 reenslaves
 reenslaving
+reenthrones
 reequipment
 reequipments
 reerected
@@ -41873,6 +41902,7 @@ sepal
 sepaled
 sepaline
 sepalled
+separabilities
 separability
 separably
 separated
@@ -42849,6 +42879,7 @@ skelp
 skelpit
 skeltered
 skene
+skep
 skeps
 skeptical
 skeptically
@@ -47094,6 +47125,7 @@ tensible
 tensilely
 tensilities
 tension
+tensioners
 tensor
 tensors
 tentacle
@@ -49376,6 +49408,7 @@ unbelief
 unbeliefs
 unbelievers
 unbelieving
+unbelievingly
 unbelligerent
 unbelting
 unbended
@@ -49449,6 +49482,7 @@ uncast
 uncaught
 unceasing
 unceasingly
+unceremoniously
 uncertainnesses
 uncertainties
 uncertainty
@@ -53060,6 +53094,7 @@ zoogeographic
 zoogeographical
 zoogeographies
 zooglea
+zoogleae
 zoogloeal
 zooid
 zoolatry
