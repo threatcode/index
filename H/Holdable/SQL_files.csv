@@ -2,3 +2,6 @@ src/org/hsqldb/resources/information-schema.sql - Google Git,https://android.goo
 postgres/src/pl/plpython/sql/plpython_transaction.sql at master,https://github.com/postgres/postgres/blob/master/src/pl/plpython/sql/plpython_transaction.sql
 opengauss-bot - Gogs,https://git.osiicn.com/opengauss-bot/openGauss/src/f06f268f5c59901360fc7b22b994a004779b81d5/src/test/regress/sql/portals.sql%3Flang%3Dzh-HK
 PostgreSQL: src/test/regress/sql/portals.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/portals.sql
+src/org/hsqldb/resources/information-schema.sql - Google Git,https://android.googlesource.com/platform/external/hsqldb/%2B/fe8cd37122dc94d0220b738e0db4867e5dd4488b/src/org/hsqldb/resources/information-schema.sql
+postgres/src/pl/plpython/sql/plpython_transaction.sql at master,https://github.com/postgres/postgres/blob/master/src/pl/plpython/sql/plpython_transaction.sql
+PostgreSQL: src/test/regress/sql/portals.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/portals.sql
