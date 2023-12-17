@@ -813,6 +813,7 @@ agonizing
 agonizingly
 agora
 agoraphobia
+agoraphobias
 agoras
 agorot
 agouties
@@ -1113,6 +1114,7 @@ allod
 allodial
 allodium
 allografted
+allometric
 allometry
 allomorph
 allomorphs
@@ -2519,6 +2521,7 @@ aspartate
 aspartates
 aspectual
 aspergilli
+aspergillosis
 aspergillums
 asperities
 asperity
@@ -4654,6 +4657,7 @@ blastulation
 blat
 blatant
 blathers
+blatter
 blatters
 blaw
 blaws
@@ -5275,6 +5279,7 @@ boychik
 boycott
 boycotter
 boycotters
+boycotting
 boycotts
 boyhood
 boyishnesses
@@ -9896,6 +9901,7 @@ coster
 costermongers
 costers
 costive
+costivenesses
 costlier
 costliest
 costlinesses
@@ -11062,6 +11068,7 @@ dampeners
 dampening
 damping
 dampings
+dampnesses
 damselfishes
 damselfly
 damsels
@@ -12404,6 +12411,7 @@ dialytic
 dialyzable
 dialyzates
 dialyze
+diamagnetic
 diamagnetisms
 diamantes
 diameters
@@ -14517,6 +14525,7 @@ eleoptene
 elephant
 elephantiases
 elephants
+elevate
 elevated
 elevateds
 elevators
@@ -15685,6 +15694,7 @@ eulogy
 eunuch
 eunuchisms
 eunuchs
+euonymus
 eupatridae
 eupepsy
 eupeptic
@@ -16923,6 +16933,7 @@ fidelista
 fidelities
 fidged
 fidget
+fidgeted
 fidgetiness
 fidgeting
 fidgety
@@ -18157,6 +18168,7 @@ frostnips
 frosty
 frothier
 frothiness
+frottage
 frounces
 frouncing
 frouzier
@@ -18538,6 +18550,7 @@ gamily
 gamine
 gammadia
 gamodemes
+gander
 ganef
 ganefs
 ganevs
@@ -22066,6 +22079,7 @@ idiopathic
 idiopathy
 idioplasms
 idiosyncrasy
+idiotisms
 idiotype
 idiotypic
 idlenesses
@@ -23064,6 +23078,7 @@ inkinesses
 inkjet
 inkle
 inkless
+inkpot
 inlayers
 inlaying
 inliers
@@ -24007,6 +24022,7 @@ jacking
 jackknifed
 jackknives
 jacklegs
+jacklight
 jackrabbits
 jackrolling
 jacks
@@ -26685,6 +26701,7 @@ malaroma
 malaromas
 malathions
 malcontented
+malefaction
 malemiut
 malemiuts
 malemutes
@@ -27626,6 +27643,7 @@ metallurgist
 metalmark
 metals
 metalware
+metalworkers
 metameres
 metamerically
 metamerism
@@ -27896,6 +27914,7 @@ midwived
 midwiving
 midyear
 mien
+miffier
 miffs
 miffy
 miggs
@@ -29924,6 +29943,7 @@ newsmagazines
 newsmonger
 newspapered
 newspapering
+newspeak
 newspersons
 newsroom
 newsrooms
@@ -31078,6 +31098,7 @@ off
 offal
 offbeat
 offcast
+offcuts
 offed
 offence
 offences
@@ -32041,6 +32062,7 @@ outyelps
 ouzo
 ova
 ovalbumin
+ovality
 ovalnesses
 ovarial
 ovaries
@@ -36921,6 +36943,7 @@ purs
 purse
 pursed
 purselike
+purses
 pursier
 purslane
 purslanes
@@ -38498,6 +38521,7 @@ regenerations
 regenerators
 reggae
 regimen
+regimentals
 regimentation
 regimenting
 regimes
@@ -38612,6 +38636,7 @@ reindex
 reindexes
 reindict
 reindicted
+reinduced
 reinducts
 reinfections
 reinfects
@@ -39428,6 +39453,7 @@ restructuring
 restuffed
 restyles
 restyling
+resubmission
 resubmit
 resultant
 resulted
@@ -39848,6 +39874,7 @@ ricocheting
 ricochets
 ricochetting
 ricotta
+ricracs
 riddances
 ridden
 ridding
@@ -41947,6 +41974,7 @@ setaceous
 setback
 setenant
 setiform
+settings
 settleable
 settler
 settlers
@@ -42050,6 +42078,7 @@ shamably
 shamanic
 shamans
 shamas
+shamble
 shambled
 shame
 shamefacedness
@@ -42912,6 +42941,7 @@ slabbery
 slabbing
 slack
 slacker
+slacking
 slacks
 slagged
 slagging
@@ -43658,6 +43688,7 @@ soporiferous
 soporific
 soporifics
 sopors
+sopranino
 sopraninos
 soprano
 sopranos
@@ -47049,6 +47080,7 @@ tenuous
 tenurable
 tenurially
 teocallis
+teopan
 teopans
 tepa
 tepee
@@ -47527,6 +47559,7 @@ thujas
 thumbnuts
 thumbs
 thumbscrews
+thumbtacking
 thumbwheels
 thumper
 thumping
@@ -51638,6 +51671,7 @@ warisons
 warlordism
 warmheartedness
 warmnesses
+warmouths
 warmth
 warmup
 warn
@@ -52521,6 +52555,7 @@ worker
 workfares
 workflow
 workflows
+workfolk
 workhorse
 workhorses
 workhour
