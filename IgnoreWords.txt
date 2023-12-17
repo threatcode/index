@@ -1555,6 +1555,7 @@ angelicas
 angelology
 anger
 anginas
+angiograms
 angiologies
 angioma
 angiomas
@@ -2164,6 +2165,7 @@ apyrase
 aquacades
 aquacultural
 aquafarm
+aquafarms
 aqualungs
 aquamarines
 aquanauts
@@ -2392,6 +2394,7 @@ arrayers
 arrays
 arrearages
 arrest
+arrestees
 arresting
 arrestive
 arrestment
@@ -3034,6 +3037,7 @@ axises
 axle
 axletree
 axletrees
+axmen
 axolotls
 axon
 axone
@@ -3978,6 +3982,7 @@ bemoan
 bemoaned
 bemuddle
 bemuzzled
+bemuzzles
 ben
 bename
 benamed
@@ -6399,6 +6404,7 @@ canoodle
 canoodled
 canopy
 canopying
+canorousness
 canorousnesses
 canso
 cantabile
@@ -8090,6 +8096,7 @@ clearweeds
 clearwing
 cleat
 cleavage
+cleaved
 cleaves
 cleek
 cleeked
@@ -8706,6 +8713,7 @@ colorfastness
 colorfully
 colorfulness
 colorings
+colorist
 colorists
 colorlessly
 colorlessnesses
@@ -15658,6 +15666,7 @@ eurhythmy
 euro
 euroky
 europium
+euryhaline
 eurythermal
 eurythmic
 eurythmies
@@ -16591,6 +16600,7 @@ feazing
 febrifuges
 febrility
 feces
+fecklessly
 fecklessness
 fecklessnesses
 feckly
@@ -16627,6 +16637,7 @@ feedstocks
 feeing
 feel
 feelers
+feelingness
 feelingnesses
 feetfirst
 feetless
@@ -18642,6 +18653,7 @@ gawks
 gawper
 gawsie
 gawsy
+gayals
 gaydars
 gayety
 gazanias
@@ -21898,6 +21910,7 @@ hypothecator
 hypothenuses
 hypothermal
 hypothermia
+hypothesize
 hypothetically
 hypotonia
 hypotonias
@@ -22465,6 +22478,7 @@ inchers
 inchoateness
 inchoatively
 incidental
+incinerate
 incinerates
 incinerations
 incipience
@@ -22630,8 +22644,10 @@ indemonstrably
 indene
 indenes
 indent
+indentation
 indentations
 indention
+indenturing
 independencies
 independents
 indescribably
@@ -22925,6 +22941,7 @@ ingratiating
 ingratitude
 ingression
 ingressiveness
+inground
 ingroups
 ingrowth
 ingurgitates
@@ -25274,6 +25291,7 @@ learnedly
 learners
 learnings
 lears
+lease
 leaseback
 leaseholder
 leaser
@@ -25605,6 +25623,7 @@ ligan
 ligate
 ligates
 ligating
+ligers
 lightbulbs
 lighteners
 lightening
@@ -33769,6 +33788,7 @@ pervades
 pervasion
 pervasions
 perversities
+perversive
 pervert
 pervertedly
 pervertednesses
@@ -39110,6 +39130,7 @@ resembler
 resembles
 resending
 resensitized
+resent
 reserpines
 reservationists
 reservations
@@ -39292,6 +39313,7 @@ restriction
 restrictionisms
 restrictionists
 restrictive
+restring
 restroom
 restruck
 restructuring
@@ -39726,6 +39748,7 @@ riddling
 ride
 rideable
 riderless
+ridership
 ridgel
 ridgels
 ridgetop
@@ -40598,6 +40621,7 @@ sanga
 sangar
 sangarees
 sanghs
+sangrias
 sanguine
 sanguinely
 sanguinity
@@ -41434,6 +41458,7 @@ seemed
 seemlier
 seep
 seeress
+seers
 seesaw
 seesaws
 seethe
@@ -41517,6 +41542,7 @@ semanteme
 semantical
 semanticists
 semaphored
+semasiological
 sematic
 semblable
 semblables
@@ -43067,6 +43093,7 @@ smotherers
 smouldered
 smoulders
 smudges
+smudgier
 smudginesses
 smudgy
 smugger
@@ -44164,6 +44191,7 @@ squint
 squintiest
 squintingly
 squinty
+squireens
 squirmier
 squirming
 squirreled
@@ -44709,6 +44737,7 @@ storytelling
 storytellings
 stotin
 stotinki
+stots
 stotts
 stound
 stounding
@@ -46010,6 +46039,7 @@ switchback
 switchbacked
 switchbacks
 switcher
+switcheroo
 switcheroos
 switchers
 swither
@@ -46685,6 +46715,7 @@ tedder
 teddering
 tediously
 tediousness
+tee
 teem
 teemer
 teemingly
@@ -48140,6 +48171,7 @@ transmogrified
 transmountain
 transmutable
 transmutes
+transparencies
 transparency
 transparent
 transparentize
@@ -50000,6 +50032,7 @@ unrumpled
 unrusted
 unsaddle
 unsampled
+unsanctioned
 unsanitary
 unsatisfied
 unsaturated
@@ -51319,6 +51352,7 @@ waddly
 waddy
 wadeable
 waded
+wader
 waders
 wades
 wading
@@ -52521,6 +52555,7 @@ xystus
 ya
 yabber
 yachted
+yachtings
 yachtmen
 yachts
 yack
