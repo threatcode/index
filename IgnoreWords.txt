@@ -190,6 +190,7 @@ accorders
 accordionist
 accordionists
 accost
+accosting
 accoucheurs
 accountability
 accountably
@@ -1675,6 +1676,7 @@ announcers
 annualized
 annually
 annuitant
+annuities
 annular
 annulated
 annulet
@@ -4059,6 +4061,7 @@ bemired
 bemires
 bemist
 bemisted
+bemists
 bemixed
 bemoan
 bemoaned
@@ -6241,6 +6244,7 @@ caeomas
 caesarians
 caestus
 caestuses
+caesuric
 cafetorium
 caffein
 caffeine
@@ -6737,6 +6741,7 @@ carcase
 carcasses
 carcel
 carcinogenic
+carcinogenicity
 carcinogens
 carcinoma
 carcinomata
@@ -7275,6 +7280,7 @@ certifiable
 certifiably
 certificating
 certified
+certifies
 certiorari
 certioraris
 certitudes
@@ -9952,6 +9958,7 @@ coronas
 coronating
 coronation
 coroner
+coronet
 coroneted
 coronographs
 corotate
@@ -10622,6 +10629,7 @@ cronish
 crony
 crook
 crookedness
+crookednesses
 crooker
 crookest
 croons
@@ -11242,6 +11250,7 @@ damask
 damasked
 damasking
 damasks
+dame
 dames
 damiana
 damianas
@@ -12197,6 +12206,7 @@ deposits
 depraved
 depravednesses
 depravement
+depravers
 depraves
 depravity
 deprecating
@@ -13914,6 +13924,7 @@ drafts
 draftspersons
 drag
 dragee
+dragged
 draggers
 dragging
 draggingly
@@ -14410,6 +14421,7 @@ earthmovers
 earthnuts
 earthrise
 earthrises
+earthshines
 earthwork
 earworms
 easement
@@ -17869,6 +17881,7 @@ foetal
 foetor
 fogbows
 fogey
+fogfruit
 foggier
 foggiest
 fogy
@@ -18911,6 +18924,7 @@ gardening
 garfish
 garganeys
 gargantua
+gargantuas
 gargets
 gargety
 gargle
@@ -21792,6 +21806,7 @@ hootenannies
 hooters
 hootier
 hootiest
+hooting
 hoover
 hoovered
 hope
@@ -22066,6 +22081,7 @@ hurleys
 hurly
 hurrah
 hurrays
+hurricane
 hurriedness
 hurriednesses
 hurriers
@@ -24136,6 +24152,7 @@ involvers
 involves
 invulnerability
 invulnerable
+invulnerably
 inwalling
 inwardly
 inwardness
@@ -24454,6 +24471,7 @@ jailors
 jails
 jake
 jalapeno
+jalapenos
 jalapic
 jalapin
 jalop
@@ -24671,6 +24689,7 @@ jointworm
 joist
 joists
 jojoba
+jojobas
 joked
 jokes
 jokey
@@ -26681,6 +26700,7 @@ lota
 lotharios
 loti
 lotic
+lotion
 lotted
 lotter
 lotteries
@@ -28444,6 +28464,7 @@ millennia
 millennial
 millepeds
 millepores
+millerite
 millerites
 millesimals
 millet
@@ -28968,6 +28989,7 @@ miters
 miterwort
 miterworts
 miticide
+mitigable
 mitigate
 mitigations
 mitigator
@@ -29295,6 +29317,7 @@ moo
 mooches
 moodily
 moodinesses
+mooed
 moolahs
 moolas
 mooleys
@@ -30412,6 +30435,7 @@ neurulae
 neurulation
 neuter
 neutered
+neutering
 neutralistic
 neutralities
 neutralizers
@@ -30968,6 +30992,7 @@ nonnuclear
 nonnumerical
 nonobjective
 nonobscene
+nonoccurrence
 nonoperatic
 nonorally
 nonorgasmic
@@ -33719,6 +33744,7 @@ partook
 partridge
 partridges
 parturients
+partyer
 parvenu
 parvenus
 parvoline
@@ -39986,6 +40012,7 @@ resiny
 resisters
 resistive
 resistless
+resistlessness
 resistor
 resite
 resiting
@@ -43038,6 +43065,7 @@ shook
 shool
 shootdown
 shooter
+shooting
 shootouts
 shopboy
 shopboys
@@ -44270,6 +44298,7 @@ soleness
 solenodons
 solenoid
 soleplate
+soleprints
 solerets
 solfataras
 soli
@@ -44390,6 +44419,7 @@ soothe
 soothed
 soothes
 soothingly
+soothingnesses
 soothly
 sooths
 soothsaid
@@ -47448,6 +47478,7 @@ tardily
 tardiness
 tardinesses
 tardyons
+tare
 target
 targeting
 tariffs
@@ -52498,6 +52529,7 @@ wannigans
 wanted
 wanters
 wanton
+wantonnesses
 wants
 wany
 wapitis
@@ -52562,6 +52594,7 @@ washhouse
 washiness
 washout
 washrag
+washroom
 washrooms
 washstand
 washtub
@@ -53067,6 +53100,7 @@ widgets
 widowerhood
 widowerhoods
 widows
+widthway
 widthways
 wield
 wielder
@@ -53521,6 +53555,7 @@ writhe
 writhen
 writs
 wrong
+wrongdoer
 wrongdoing
 wrongdoings
 wronged
