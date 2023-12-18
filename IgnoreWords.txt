@@ -2951,6 +2951,7 @@ autolytic
 autolyzes
 automat
 automatic
+automatically
 automaticities
 automaticity
 automatizations
@@ -6566,6 +6567,7 @@ capillaries
 capillarity
 capillary
 capital
+capitalise
 capitalised
 capitalising
 capitalism
@@ -8722,6 +8724,7 @@ coinfects
 coinfers
 coinhered
 coinhering
+coinsurances
 coinsurers
 cointer
 coinventor
@@ -9870,6 +9873,7 @@ corncribs
 corneas
 corned
 corneitis
+cornelian
 cornering
 corners
 cornerstone
@@ -11189,6 +11193,7 @@ damascening
 damask
 damasked
 damasking
+damasks
 dames
 damiana
 damianas
@@ -11447,6 +11452,7 @@ decalcifying
 decalcomania
 decalcomanias
 decaliter
+decalog
 decalogs
 decalogue
 decameters
@@ -11884,6 +11890,7 @@ delocalizing
 delouse
 delousing
 delphic
+delphinium
 delta
 deltic
 deltoidei
@@ -16123,6 +16130,7 @@ executer
 execution
 executioner
 executrixes
+exegesis
 exemplarities
 exemplum
 exempt
@@ -17459,6 +17467,7 @@ flares
 flareup
 flashboards
 flashbulbs
+flashcard
 flashcubes
 flashers
 flashgun
@@ -18882,6 +18891,7 @@ gasometers
 gasp
 gasped
 gasper
+gaspingly
 gassed
 gasses
 gassiest
@@ -19966,6 +19976,7 @@ greened
 greenery
 greenfinch
 greenfly
+greengage
 greengages
 greengrocery
 greenheads
@@ -21215,6 +21226,7 @@ hetaera
 hetaerae
 hetairism
 hetero
+heteroatom
 heterocercal
 heteroclite
 heteroclites
@@ -22221,6 +22233,7 @@ hypodiploid
 hypodiploidies
 hypoed
 hypogean
+hypoglossal
 hypoglycemic
 hypoglycemics
 hypokalemia
@@ -23438,6 +23451,7 @@ insectivore
 insecurely
 insecurities
 inselberg
+inselberge
 inselbergs
 inseminating
 inseminators
@@ -25572,6 +25586,7 @@ laughline
 laughter
 laughters
 launce
+launches
 laundered
 launderers
 laundresses
@@ -29401,6 +29416,7 @@ moviedoms
 moviegoers
 moviegoing
 moviemaking
+mow
 mowers
 moxas
 mozo
@@ -32698,6 +32714,7 @@ overladed
 overladen
 overlaid
 overland
+overlands
 overlapped
 overlaps
 overlarge
@@ -33221,6 +33238,7 @@ paludisms
 palynologically
 palynologist
 pampas
+pampering
 pamphlet
 pamphleteer
 pamphleteered
@@ -34774,6 +34792,7 @@ pigmentary
 pignolias
 pigstick
 pigtail
+pigtailed
 pikas
 pikemen
 pikeperch
@@ -36084,6 +36103,7 @@ prediabetics
 predial
 predicaments
 predicant
+predicate
 predicating
 predication
 predictable
@@ -36482,6 +36502,7 @@ priapean
 priapi
 priapic
 priapus
+priced
 priceless
 pricelessly
 pricer
@@ -37875,6 +37896,7 @@ radiuses
 radix
 radixes
 rads
+raffia
 raffishly
 raffle
 raft
@@ -37899,6 +37921,7 @@ ragworts
 rai
 raia
 raided
+raider
 railbus
 railbusses
 railed
@@ -38279,6 +38302,7 @@ reattain
 reattaining
 reattains
 reattributes
+reattributing
 reattribution
 reauthorize
 reavers
@@ -39325,6 +39349,7 @@ remittances
 remitter
 remitting
 remix
+remixture
 remnants
 remobilizations
 remodeled
@@ -40462,6 +40487,7 @@ ripeners
 ripening
 ripest
 riposts
+ripped
 ripper
 rippers
 rippled
@@ -43404,6 +43430,7 @@ skittering
 skittish
 skittles
 skiving
+skivvies
 sklented
 skoal
 skoaling
@@ -43554,6 +43581,7 @@ slidden
 slides
 slideway
 slightingly
+slim
 slimeball
 slimes
 slimly
@@ -43591,6 +43619,7 @@ slipsoles
 slipstream
 slipstreamed
 slipups
+slither
 slithers
 slittiest
 slivering
@@ -46539,6 +46568,7 @@ surges
 surgically
 surimi
 surjection
+surlier
 surliest
 surlily
 surmised
@@ -48994,6 +49024,7 @@ treachery
 treacles
 treaclier
 treacliest
+treadlers
 treadling
 treasonable
 treasurers
@@ -50556,6 +50587,7 @@ unites
 unities
 unitization
 unitizers
+unitizing
 unitrusts
 univalents
 universalist
@@ -51079,6 +51111,7 @@ uplighting
 uplinks
 uploaded
 upmanships
+upmarket
 upon
 upped
 uppercase
@@ -52836,6 +52869,7 @@ wienies
 wifeliest
 wifeliness
 wifey
+wifeys
 wiftier
 wigans
 wiggeries
@@ -53630,6 +53664,7 @@ zoarium
 zocalo
 zodiacs
 zoeae
+zoeas
 zoecium
 zoftig
 zombify
