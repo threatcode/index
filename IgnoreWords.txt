@@ -1090,6 +1090,7 @@ allegoric
 allegorical
 allegories
 allegorises
+allegorising
 allegorist
 allegorists
 allegorizations
@@ -6135,6 +6136,7 @@ butyrates
 butyrins
 butyryl
 buxomer
+buxomnesses
 buybacks
 buyer
 buzuki
@@ -8339,6 +8341,7 @@ clingier
 clingiest
 clinging
 clinical
+clinically
 clinicians
 clink
 clinkers
@@ -8695,6 +8698,7 @@ coexistence
 coexistences
 coextended
 coextending
+coextends
 cofeatured
 cofeatures
 coffeehouses
@@ -8742,6 +8746,7 @@ cohabiting
 cohabits
 coheads
 coheiresses
+coherence
 coherently
 coheres
 cohesiveness
@@ -9096,6 +9101,7 @@ compact
 compacter
 compacting
 compactions
+compactly
 compactnesses
 compadres
 companied
@@ -12073,6 +12079,7 @@ denationalized
 denaturants
 denaturation
 denature
+denatures
 denazification
 denazifies
 denazify
@@ -12243,6 +12250,7 @@ depthless
 depths
 depurated
 depurator
+depurators
 deputed
 deputizations
 deputize
@@ -13404,6 +13412,7 @@ disseminate
 disseminates
 disseminations
 disseminators
+disseminule
 dissentient
 dissentious
 dissertated
@@ -16058,6 +16067,7 @@ eveners
 evenhanded
 evenhandedness
 eventfully
+eventides
 eventless
 eventually
 eventuates
@@ -17066,6 +17076,7 @@ fennec
 fennecs
 fennels
 fenniest
+fenugreek
 feoffee
 feoffor
 feoffors
@@ -18382,6 +18393,7 @@ frenzying
 frequentation
 frequentatives
 frequenting
+frescoed
 frescoes
 frescoist
 frescos
@@ -21468,6 +21480,7 @@ hila
 hilar
 hilarious
 hillbilly
+hillcrests
 hilled
 hillers
 hilliness
@@ -21638,6 +21651,7 @@ holked
 holks
 hollaed
 hollaing
+hollas
 hollered
 hollers
 holloa
@@ -23088,6 +23102,7 @@ incubation
 incubative
 incubator
 incubi
+inculcated
 inculcating
 inculpable
 inculpated
@@ -24193,6 +24208,7 @@ ionosonde
 ionospheric
 ionospherically
 iontophoreses
+iota
 ipecac
 ipecacuanhas
 ipsilateral
@@ -24671,6 +24687,7 @@ jnanas
 jo
 jobbed
 jobname
+jockettes
 jockey
 jockstraps
 jocose
@@ -25550,6 +25567,7 @@ lancers
 lanceted
 lancewood
 lancinate
+lancinates
 lancinating
 lancing
 landaulet
@@ -27667,6 +27685,7 @@ matriarchy
 matriculation
 matrilineally
 matrimonial
+matrimony
 matrix
 matronizing
 matronymics
@@ -28610,6 +28629,7 @@ minored
 minority
 minster
 minsters
+minstrelsy
 mint
 mintage
 minted
@@ -30175,6 +30195,7 @@ nattering
 nattier
 nattiest
 nattily
+natty
 naturalisms
 naturalists
 naturalizations
@@ -34127,6 +34148,7 @@ pelargonium
 pelerines
 pelfs
 pelite
+pellagra
 pellagras
 pellagrin
 pelletised
@@ -34466,6 +34488,7 @@ persiflages
 persimmon
 persistencies
 persists
+persnickety
 personableness
 personalise
 personalises
@@ -35507,6 +35530,7 @@ plumpish
 plums
 plumules
 plumulose
+plumy
 plunger
 plunkers
 pluperfect
@@ -37761,6 +37785,7 @@ quad
 quadrans
 quadrantal
 quadraphonics
+quadrat
 quadrates
 quadratic
 quadratics
@@ -38310,6 +38335,7 @@ rathole
 ratholes
 rathskeller
 raticide
+ratifications
 ratifiers
 ratines
 rating
@@ -42805,6 +42831,7 @@ shader
 shadier
 shadiest
 shadkhan
+shadow
 shadowers
 shadowiest
 shadows
@@ -44822,6 +44849,7 @@ spicinesses
 spicks
 spiculae
 spiculum
+spicy
 spiderlike
 spiderweb
 spiderwort
@@ -45247,7 +45275,9 @@ stands
 standstill
 standstills
 standup
+stane
 stanes
+stanged
 stangs
 stannic
 stannites
@@ -46235,6 +46265,7 @@ subsisted
 subsistent
 subsite
 subskills
+subsocieties
 subspaces
 subspecialists
 subspecialize
@@ -49881,6 +49912,7 @@ twangler
 twanglers
 twangles
 twangs
+twankies
 twas
 twattle
 twattles
@@ -50966,6 +50998,7 @@ unnoisy
 unobtrusively
 unobtrusiveness
 unorderly
+unorganized
 unornamented
 unorthodoxy
 unowned
@@ -52223,6 +52256,7 @@ visits
 visive
 visored
 visoring
+visorless
 vista
 visuality
 visualization
@@ -52655,6 +52689,7 @@ wataps
 watch
 watchbands
 watchdogging
+watcher
 watchers
 watcheyes
 watchmakers
