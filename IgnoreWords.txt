@@ -1340,6 +1340,7 @@ amidships
 amigos
 amin
 amino
+aminophylline
 aminopterins
 aminopyrines
 amins
@@ -2800,6 +2801,7 @@ atrocious
 atrociousnesses
 atrocity
 atrophied
+atropin
 attacher
 attaches
 attachments
@@ -2912,6 +2914,7 @@ auk
 auklet
 auld
 aulic
+auntie
 aura
 aural
 aurally
@@ -5484,6 +5487,7 @@ brainwashed
 brainwashes
 braising
 braize
+brake
 brakeage
 braked
 brakemen
@@ -6625,6 +6629,7 @@ cantala
 cantaloupes
 cantals
 cantankerous
+cantata
 canteens
 canter
 cantered
@@ -6975,6 +6980,7 @@ cartography
 cartoned
 cartons
 cartooned
+cartoonishly
 cartoons
 cartouche
 cartularies
@@ -8572,6 +8578,7 @@ cnidarians
 coacervates
 coacervations
 coaches
+coachman
 coachworks
 coact
 coactions
@@ -9169,6 +9176,7 @@ communication
 communicator
 communicators
 communion
+communions
 communique
 communiques
 communise
@@ -10081,6 +10089,7 @@ coronographs
 corotate
 corporal
 corporates
+corporator
 corporeality
 corpulency
 corpulently
@@ -12338,6 +12347,7 @@ depopulations
 deportation
 deportations
 deportments
+deposals
 deposed
 deposer
 deposers
@@ -12431,6 +12441,7 @@ desalinated
 desalinization
 desalinized
 desalinizes
+desalting
 descant
 descendant
 descender
@@ -14538,6 +14549,7 @@ dysmenorrheas
 dyspepsias
 dyspepsy
 dyspeptically
+dysphagia
 dysphagias
 dysphasics
 dysphemism
@@ -17299,6 +17311,7 @@ feruling
 fervencies
 fervency
 fervent
+fervid
 fervours
 fess
 fessed
@@ -19090,6 +19103,7 @@ gamic
 gamily
 gamine
 gammadia
+gammoner
 gamodemes
 gander
 ganef
@@ -21891,6 +21905,7 @@ holoenzymes
 hologamy
 holograms
 holograph
+holographs
 holography
 holometabolisms
 holophyte
@@ -21898,6 +21913,7 @@ holothurian
 holotypic
 hols
 holster
+holstering
 holt
 holyday
 holystoning
@@ -23551,6 +23567,7 @@ inexistences
 inexpedience
 inexpediencies
 inexpediency
+inexpensively
 inexperience
 inexperienced
 inexperiences
@@ -23613,6 +23630,7 @@ infiltrations
 infinitely
 infiniteness
 infinites
+infinitesimal
 infinitesimally
 infinities
 infinitude
@@ -26038,6 +26056,7 @@ lavaliere
 lavalike
 lavallieres
 lavation
+lavatories
 lavatory
 laveered
 lavendered
@@ -26250,6 +26269,7 @@ lemurs
 length
 lengthen
 lengthened
+lengthens
 lengthier
 lengthways
 lengthwise
@@ -29235,6 +29255,7 @@ misquoter
 misraises
 misrate
 misrated
+misreading
 misreckoned
 misreckons
 misrecord
@@ -31417,6 +31438,7 @@ nonrecombinant
 nonrecombinants
 nonrecourse
 nonrecyclable
+nonrefillable
 nonrelevant
 nonresidence
 nonresident
@@ -32492,6 +32514,7 @@ orthogenesis
 orthogenetic
 orthogonal
 orthogonalities
+orthogonality
 orthogonalize
 orthograde
 orthographic
@@ -32990,6 +33013,7 @@ outvaunted
 outvied
 outvoicing
 outwaiting
+outwar
 outwardness
 outwars
 outwatch
@@ -34626,6 +34650,7 @@ peony
 peopling
 pep
 peperomias
+pepinos
 peploses
 peplum
 peplumed
@@ -37215,6 +37240,7 @@ privacies
 private
 privateer
 privateness
+privatenesses
 privater
 privatest
 privations
@@ -39166,6 +39192,7 @@ reconferred
 reconfigure
 reconfigured
 reconfining
+reconfirmation
 reconfirmations
 reconfirmed
 reconfirms
@@ -40979,6 +41006,7 @@ rhizobium
 rhizoctonia
 rhizoma
 rhizomata
+rhizome
 rhizomes
 rhizomic
 rhizopuses
@@ -42563,6 +42591,7 @@ screener
 screening
 screenlands
 screenplays
+screens
 screenwriters
 screes
 screwball
@@ -44734,6 +44763,7 @@ soaring
 soaringly
 soba
 sobbed
+sober
 soberizes
 sobers
 sobrieties
@@ -45324,6 +45354,7 @@ sphincter
 sphinges
 sphinx
 sphygmic
+sphygmographs
 sphygmus
 sphynxes
 spicated
@@ -46522,6 +46553,7 @@ subarid
 subas
 subastral
 subatmospheric
+subatom
 subatomic
 subatoms
 subauditions
@@ -49316,6 +49348,7 @@ tombolas
 tombolo
 tomboyish
 tombstones
+tomcat
 tomcats
 tomcatting
 tomcod
@@ -50690,6 +50723,7 @@ umbilication
 umbilications
 umbilici
 umbonate
+umbones
 umbonic
 umbra
 umbrageously
@@ -53183,6 +53217,7 @@ wardenries
 wardenship
 wardenships
 wardrooms
+wardship
 warehousing
 wareroom
 warfare
