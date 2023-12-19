@@ -441,6 +441,7 @@ adhibiting
 adieu
 adieus
 adiposis
+adiposities
 adjacence
 adjacencies
 adjacency
@@ -2565,6 +2566,7 @@ ashcakes
 ashcans
 ashes
 ashiest
+ashiness
 ashlaring
 ashlered
 ashlers
@@ -4810,6 +4812,7 @@ blesbok
 blesbuck
 blesbucks
 bless
+blesseder
 blessedest
 blessing
 blest
@@ -6308,6 +6311,7 @@ cairns
 caitiffs
 cajaput
 cajeputs
+cajolements
 cajoler
 cajoleries
 cajolers
@@ -6530,6 +6534,7 @@ candlewick
 candours
 candyfloss
 candying
+cane
 canebrake
 caned
 canella
@@ -10800,10 +10805,12 @@ crumpets
 crumpled
 crumply
 crumps
+crunchable
 crunches
 crunchiest
 crunchiness
 crunchy
+crunodal
 cruppers
 crusaders
 crusades
@@ -13808,6 +13815,7 @@ dominates
 dominative
 dominators
 dominatrices
+dominatrix
 domine
 domineeringly
 dominicker
@@ -13926,6 +13934,7 @@ doublure
 doubly
 doubt
 doubtable
+doubtful
 doubtless
 doubtlessness
 doubts
@@ -14871,6 +14880,7 @@ elegiac
 elegiacal
 elegiacs
 elegies
+elegised
 elegist
 elegits
 elegize
@@ -16564,6 +16574,7 @@ extensile
 extensively
 extensivenesses
 extensometer
+extensor
 extenuated
 extenuating
 extenuation
@@ -20366,6 +20377,7 @@ grovellers
 grovels
 growable
 growing
+growl
 growler
 growliness
 growling
@@ -20414,6 +20426,7 @@ guacamole
 guacharo
 guacharoes
 guaiac
+guaiacum
 guanaco
 guanase
 guanidine
@@ -21491,6 +21504,7 @@ heterophylly
 heterosexually
 heterosexuals
 heterotopic
+heterotroph
 heth
 hets
 heugh
@@ -21643,6 +21657,7 @@ hirers
 hiring
 hirple
 hirselled
+hirsle
 hirsutism
 hisn
 hispanidads
@@ -23070,6 +23085,7 @@ incants
 incapability
 incapable
 incarcerated
+incarcerates
 incarcerating
 incardinations
 incarnadines
@@ -24274,6 +24290,7 @@ investigates
 investigation
 investigational
 investigations
+investigative
 investigator
 investment
 investments
@@ -27113,6 +27130,7 @@ lymphomatous
 lymphs
 lyncean
 lynched
+lyncher
 lynchers
 lynching
 lyophile
@@ -27994,6 +28012,7 @@ medusan
 medusoids
 meed
 meeds
+meek
 meekest
 meekly
 meerschaums
@@ -33964,6 +33983,7 @@ participates
 participating
 participator
 particles
+particularistic
 particularly
 particulates
 partisans
@@ -36361,6 +36381,7 @@ praetorial
 praetorian
 praetors
 pragmatic
+pragmaticist
 pragmatism
 pragmatist
 pragmatistic
@@ -37880,6 +37901,7 @@ pustulates
 pustulating
 pustulations
 pustuled
+pustules
 put
 putative
 putlog
@@ -37972,6 +37994,7 @@ pyrophyllite
 pyrophyllites
 pyros
 pyrosises
+pyrostat
 pyrostats
 pyrotechnic
 pyrotechnics
@@ -38780,6 +38803,7 @@ rebaters
 rebatos
 rebel
 rebeldom
+rebellion
 rebels
 rebidding
 rebilled
@@ -40528,6 +40552,7 @@ retinted
 retinting
 retints
 retinular
+retirants
 retired
 retirednesses
 retitle
@@ -40862,6 +40887,7 @@ ricochets
 ricochetting
 ricotta
 ricracs
+rictuses
 riddances
 ridden
 ridding
@@ -41440,6 +41466,7 @@ rushier
 rushy
 rusk
 russetting
+russettings
 russify
 russifying
 rustical
@@ -42946,6 +42973,7 @@ sergeanty
 serged
 serges
 serging
+serialism
 serialisms
 serialist
 serialize
@@ -45372,6 +45400,7 @@ squabbled
 squad
 squalid
 squalidness
+squalled
 squaller
 squalling
 squally
@@ -46247,6 +46276,7 @@ stylelessness
 stylelessnesses
 styli
 stylised
+stylishly
 stylishnesses
 stylising
 stylist
@@ -47014,6 +47044,7 @@ supertanker
 supertankers
 supertax
 supertaxes
+superterrific
 superthick
 superthin
 superthriller
@@ -48965,6 +48996,7 @@ tittivates
 tittup
 tittuppy
 titubant
+titularly
 tivy
 tizzies
 toadeater
@@ -49175,6 +49207,7 @@ torchwoods
 torchy
 toreadors
 tores
+toric
 torics
 torment
 tormented
@@ -51156,6 +51189,7 @@ unintentional
 uninterest
 unintimidated
 uninvoked
+union
 unionisations
 unionise
 unionised
@@ -53240,6 +53274,7 @@ westerly
 westernisation
 westernise
 westernises
+westernization
 westernizations
 wests
 wether
