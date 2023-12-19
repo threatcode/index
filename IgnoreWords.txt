@@ -1217,6 +1217,7 @@ alter
 alterabilities
 alterability
 alteration
+altercated
 altercations
 altered
 alterers
@@ -5189,6 +5190,7 @@ bombs
 bombshells
 bombsights
 bombyxes
+bonacis
 bonanza
 bonbon
 bondage
@@ -5325,6 +5327,7 @@ boschvarks
 boshes
 boshvark
 boskage
+boskages
 boskets
 boskier
 boskiest
@@ -6979,6 +6982,7 @@ carousing
 carp
 carpal
 carpals
+carpel
 carpenter
 carpentered
 carpentries
@@ -9513,6 +9517,7 @@ condos
 condottiere
 condottieri
 conducer
+conduct
 conductances
 conductible
 conductions
@@ -11330,6 +11335,7 @@ cyma
 cymatia
 cymatium
 cymbaleer
+cymbalists
 cymbidia
 cymes
 cymling
@@ -12316,6 +12322,7 @@ denied
 denies
 denigrate
 denigrates
+denigration
 denitrate
 denitrify
 denizening
@@ -12933,6 +12940,7 @@ diasters
 diatessaron
 diathermic
 diathermies
+diatom
 diatonic
 diatribes
 diatron
@@ -13972,6 +13980,7 @@ domesdays
 domesticated
 domestication
 domestics
+domic
 domicil
 domiciled
 domiciliates
@@ -16049,6 +16058,7 @@ erugo
 erumpent
 erupt
 eruptions
+eruptive
 ervil
 eryngoes
 erysipelases
@@ -18238,6 +18248,7 @@ fold
 folder
 foldup
 foldups
+foley
 folia
 foliage
 foliated
@@ -18418,6 +18429,7 @@ forequarters
 foreran
 foreranks
 forereaching
+forerunners
 fores
 foresaid
 foreseeable
@@ -18633,6 +18645,7 @@ franchisor
 franchisors
 francize
 francs
+frangibilities
 frangipanes
 frangipani
 frangipanni
@@ -19287,6 +19300,7 @@ gardenfuls
 gardenias
 gardening
 garfish
+garfishes
 garganeys
 gargantua
 gargantuas
@@ -22846,6 +22860,7 @@ ichthyic
 ichthyofauna
 ichthyofaunal
 ichthyological
+ichthyologist
 ichthyology
 ichthyosaurs
 icicle
@@ -24502,6 +24517,7 @@ introduction
 introductions
 introductorily
 introit
+introject
 introjected
 intromitters
 introspection
@@ -27936,6 +27952,7 @@ maraud
 marauder
 marauding
 marauds
+maravedis
 marbelize
 marbelizes
 marbelizing
@@ -30070,6 +30087,7 @@ motorises
 motorist
 motorizes
 motorless
+motorship
 motorships
 motortrucks
 motorway
@@ -30209,6 +30227,7 @@ mugger
 muggier
 muggiest
 mugginesses
+muggs
 mughal
 mugs
 mugworts
@@ -30267,6 +30286,7 @@ multifold
 multigenic
 multigrade
 multijet
+multilateralist
 multilayer
 multilayered
 multileveled
@@ -30780,6 +30800,7 @@ near
 nearer
 nearest
 nearing
+nearly
 nearnesses
 nears
 nearshore
@@ -32019,6 +32040,7 @@ obdurate
 obdurately
 obeah
 obeahism
+obeahs
 obeisance
 obeisantly
 obelias
@@ -37854,6 +37876,7 @@ protegee
 proteges
 proteids
 proteinases
+proteinic
 proteins
 proteinurias
 protends
@@ -38470,6 +38493,7 @@ quadratic
 quadratics
 quadrennial
 quadricep
+quadrics
 quadrifid
 quadriga
 quadrilaterals
@@ -41976,6 +42000,7 @@ ruttish
 ruttishness
 rya
 ryegrass
+ryegrasses
 rynd
 ryot
 sab
@@ -42307,6 +42332,7 @@ sannyasis
 sansar
 sansculotte
 sansculottic
+sansculottish
 santalic
 santalol
 santera
@@ -42614,6 +42640,7 @@ scatterbrained
 scatterbrains
 scatterers
 scattergood
+scattergrams
 scatteringly
 scatters
 scatty
@@ -44388,6 +44415,7 @@ skaldship
 skanker
 skateboarder
 skateboardings
+skates
 skats
 skeanes
 skedaddled
@@ -45415,6 +45443,7 @@ sovkhozes
 sovranties
 sowans
 sowcar
+sowens
 sower
 sowing
 sown
@@ -45823,6 +45852,7 @@ spoonsful
 spoony
 spoor
 spoored
+spooring
 sporocarps
 sporocyst
 sporogenic
@@ -46090,6 +46120,7 @@ stancher
 stanchers
 stanchly
 standard
+standees
 standers
 standfast
 standings
@@ -50903,6 +50934,7 @@ tykes
 tylosin
 tymbal
 tympan
+tympanies
 tympanites
 tympany
 tyning
@@ -51353,6 +51385,7 @@ unconverted
 unconvinced
 unconvoyed
 uncooled
+uncooperative
 uncoordinated
 uncopyrightable
 uncorking
@@ -53630,6 +53663,7 @@ waspishly
 waspishness
 waspishnesses
 wassailers
+waste
 wastebaskets
 wasted
 wasteful
@@ -54702,6 +54736,7 @@ yapped
 yard
 yardarms
 yarder
+yardman
 yare
 yarely
 yarmulke
