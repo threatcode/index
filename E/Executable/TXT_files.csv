@@ -18,3 +18,13 @@ ocaml-base-nox.txt - NVIDIA Docs,https://docs.nvidia.com/networking-ethernet-sof
 82bc41av.txt - SAS,http://ftp.sas.com/techsup/download/hotfix/v82/base/82bc41/alp/82bc41av.txt
 Notes on linking to libraries in non-standard locations with gcc/g++,https://homepages.inf.ed.ac.uk/imurray2/compnotes/library_linking.txt
 File template for CMakeLists.txt : CPP-547 - YouTrack,https://youtrack.jetbrains.com/issue/CPP-547/File-template-for-CMakeLists.txt
+Compiling with g++,https://www.cs.fsu.edu/~myers/howto/g%2B%2Bcompiling.txt
+noexec - of PaX,https://pax.grsecurity.net/docs/noexec.txt
+Comments on the use of GCC and LD for assembling.,http://ece-research.unm.edu/jimp/310/nasm/assemble_notes.txt
+README.txt,https://water.usgs.gov/water-resources/software/PRMS/README.txt
+jb/Executable.txt at master · phf/jb - GitHub,https://github.com/phf/jb/blob/master/Executable.txt
+homebrew-command-not-found/executables.txt at master - GitHub,https://github.com/Homebrew/homebrew-command-not-found/blob/master/executables.txt
+icont,https://www2.cs.arizona.edu/icon/uguide/icont.txt
+Executable-File Header Format,http://sininenankka.dy.fi/~sami/watcom_mirror/devel/exefmt.txt
+arlecore_readme.txt,http://cmpg.unibe.ch/software/arlequin35/man/arlecore_readme.txt
+NE EXE - X-Ways,https://www.x-ways.net/winhex/kb/ff/NE_EXE.txt
