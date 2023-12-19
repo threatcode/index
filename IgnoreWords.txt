@@ -3585,6 +3585,7 @@ bareback
 barebacked
 barefaced
 barefacedly
+barefacedness
 barefacednesses
 barege
 bareness
@@ -7482,6 +7483,7 @@ chalahs
 chalazion
 chalcid
 chalcocite
+chalcogens
 chalcopyrites
 chaldrons
 chalkboard
@@ -8631,6 +8633,7 @@ coadmire
 coadmitting
 coadunate
 coagency
+coagulabilities
 coagulability
 coagulable
 coagulants
@@ -9673,6 +9676,7 @@ conscription
 conscripts
 consecution
 consensus
+consensuses
 consenters
 consents
 consequence
@@ -10501,6 +10505,7 @@ coverup
 covetousness
 covey
 coveys
+covin
 covins
 cowages
 cowardices
@@ -11486,6 +11491,7 @@ dandling
 dandriff
 dandriffs
 dandruffy
+dandy
 dandyism
 daneweed
 danewort
@@ -12482,6 +12488,7 @@ derogations
 derogative
 derogatorily
 derogatory
+derriere
 derrieres
 derries
 desacralization
@@ -13637,6 +13644,7 @@ dissidences
 dissident
 dissidents
 dissimilar
+dissimilarities
 dissimilars
 dissimulate
 dissimulating
@@ -14771,6 +14779,7 @@ ectomorph
 ectomorphic
 ectoparasitic
 ectopically
+ectoplasm
 ectoproct
 ectotherms
 ectotrophic
@@ -16309,6 +16318,7 @@ evanishing
 evaporate
 evasive
 evasively
+evasiveness
 eveners
 evenhanded
 evenhandedness
@@ -16633,6 +16643,7 @@ expiates
 expiator
 expirers
 expiring
+explaining
 explantations
 expletory
 explicable
@@ -16915,6 +16926,7 @@ factualism
 factualists
 factualities
 factualness
+facture
 facula
 facultative
 fadable
@@ -16929,6 +16941,7 @@ fading
 fadings
 fadlike
 fads
+faeces
 faena
 faenas
 faerie
@@ -19644,6 +19657,7 @@ giftless
 gigabyte
 gigacycle
 gigantic
+gigantism
 gigas
 giggliest
 gigglingly
@@ -22694,6 +22708,7 @@ hypnotism
 hypnotizing
 hypoblast
 hypoblasts
+hypocalcemia
 hypocalcemias
 hypocenters
 hypochlorite
@@ -23340,6 +23355,7 @@ incisor
 incisures
 incitants
 incitations
+incite
 incited
 incitement
 inciters
@@ -24231,6 +24247,7 @@ interlaying
 interleaf
 interleave
 interleukin
+interlinear
 interliner
 interlining
 interlinings
@@ -28070,6 +28087,7 @@ mat
 matador
 matambala
 match
+matchable
 matchboards
 matchless
 matchlock
@@ -28366,6 +28384,7 @@ melody
 melongene
 melons
 melt
+meltabilities
 meltdown
 meltdowns
 melted
@@ -28834,6 +28853,7 @@ micturating
 micturition
 micturitions
 midair
+midbrains
 midday
 middens
 middlebrows
@@ -30941,6 +30961,7 @@ neurosurgery
 neurosurgical
 neurotics
 neurotoxic
+neurotoxicities
 neurotoxicity
 neurulae
 neurulation
@@ -33840,6 +33861,7 @@ padshahs
 paeanism
 paeans
 paedomorphic
+paedomorphisms
 paedomorphoses
 paellas
 pagandoms
@@ -34503,6 +34525,7 @@ paxwax
 paxwaxes
 payably
 paybacks
+paycheck
 paydays
 payer
 payloads
@@ -36855,6 +36878,7 @@ precrash
 precreased
 precured
 precuring
+precut
 precuts
 precutting
 predacious
@@ -38050,6 +38074,7 @@ pulpily
 pulpiness
 pulping
 pulpless
+pulps
 pulpy
 pulque
 pulques
@@ -39844,6 +39869,7 @@ regimentals
 regimentation
 regimenting
 regimes
+regina
 reginae
 region
 regionalistic
@@ -41578,6 +41604,7 @@ ropeways
 ropiness
 ropy
 roquet
+roqueted
 roquette
 rosaria
 rosariums
@@ -43103,6 +43130,7 @@ selfing
 selfishness
 selfless
 selflessnesses
+selfness
 selfnesses
 selfward
 selkie
@@ -48108,6 +48136,7 @@ taillamp
 tailles
 tailleur
 tailor
+tailorbird
 tailorbirds
 tailorings
 tailpieces
@@ -49505,6 +49534,7 @@ token
 toker
 tokers
 tokes
+tokology
 tolarjev
 tolars
 tolas
@@ -50092,6 +50122,7 @@ treachery
 treacles
 treaclier
 treacliest
+treaders
 treadlers
 treadling
 treasonable
@@ -51174,6 +51205,7 @@ unclinch
 unclinching
 unclipped
 uncloak
+uncloaks
 unclogging
 unclose
 unclothe
@@ -51306,6 +51338,7 @@ underexpose
 underfed
 underfeeds
 underfinanced
+underfoot
 underfunded
 underfunds
 underfurs
@@ -51569,6 +51602,7 @@ ungovernable
 ungraceful
 ungracious
 ungraciousness
+ungraded
 ungratefulness
 ungreedy
 ungrouped
@@ -52178,6 +52212,7 @@ upcoast
 upcountry
 upcurve
 upcurves
+updart
 updarted
 updarting
 updating
