@@ -579,6 +579,7 @@ adverbially
 adversarial
 adversative
 adversatively
+adversatives
 adversely
 adversenesses
 adversities
@@ -1207,6 +1208,7 @@ alsike
 altazimuths
 alter
 alterabilities
+alterability
 alteration
 altercations
 altered
@@ -4047,6 +4049,7 @@ belady
 belatedly
 belay
 belays
+belched
 belcher
 belchers
 beleaguered
@@ -4201,6 +4204,7 @@ beshivers
 beshout
 beshouts
 beshrewing
+beshrouding
 beshrouds
 besieging
 besmiled
@@ -5699,6 +5703,7 @@ brokages
 brokenhearted
 brokennesses
 brokerage
+brokerings
 broking
 brolly
 bromate
@@ -7142,6 +7147,7 @@ caucussing
 caudal
 caudated
 caudations
+caudices
 caudillo
 cauldron
 caulicle
@@ -9299,6 +9305,7 @@ comradeliness
 comradelinesses
 comraderies
 comte
+comtes
 conation
 conations
 conatus
@@ -9531,6 +9538,7 @@ congratulation
 congratulations
 congratulatory
 congregant
+congregate
 congregational
 congregator
 congregators
@@ -18083,6 +18091,7 @@ folkier
 folkish
 folklives
 folklorish
+folkloristic
 folksily
 folksingings
 folksy
@@ -22629,6 +22638,7 @@ icecap
 icefall
 icehouse
 icehouses
+iceless
 icelike
 icemaker
 ich
@@ -23742,6 +23752,7 @@ innocenter
 innocentest
 innocents
 innocuousness
+innovate
 innovates
 innovator
 innuendo
@@ -24498,6 +24509,7 @@ irreligious
 irremediable
 irremediably
 irremovability
+irremovable
 irremovably
 irreparableness
 irrepealable
@@ -24651,6 +24663,7 @@ itinerates
 ivory
 ivorybill
 ivorylike
+ivylike
 ixodid
 ixtle
 jabbered
@@ -26033,6 +26046,7 @@ layaways
 layins
 laymen
 layout
+layovers
 laypeople
 laypersons
 lays
@@ -28153,6 +28167,7 @@ melilots
 meliorate
 meliorated
 meliorates
+melioristic
 meliorists
 melismata
 melismatic
@@ -29103,6 +29118,7 @@ misidentifying
 misimpression
 misimpressions
 misinforming
+misinforms
 misinter
 misinterred
 misjoin
@@ -30490,6 +30506,7 @@ navvies
 naw
 naysaid
 naysayer
+naysayers
 naysaying
 nazi
 nazifications
@@ -32348,6 +32365,7 @@ organicity
 organics
 organisations
 organised
+organises
 organism
 organismal
 organisms
@@ -32639,6 +32657,7 @@ outdoes
 outdoing
 outdone
 outdoors
+outdoorsy
 outdrags
 outdrank
 outdraws
@@ -36511,6 +36530,7 @@ preabsorb
 preabsorbing
 preach
 preachments
+preachy
 preacts
 preadapt
 preadaptations
@@ -36845,6 +36865,7 @@ prepill
 preplan
 preplanned
 preplant
+preponderant
 preponderantly
 preponderately
 preponderating
@@ -37809,6 +37830,7 @@ pulpiest
 pulpily
 pulpiness
 pulping
+pulpless
 pulpy
 pulque
 pulques
@@ -40352,6 +40374,7 @@ reseizure
 reseizures
 reselect
 reselected
+reselecting
 reselects
 resell
 resellers
@@ -41260,6 +41283,7 @@ romanising
 romanization
 romano
 romanos
+romantic
 romantically
 romanticise
 romanticises
@@ -41305,6 +41329,7 @@ rooters
 rootholds
 rootiest
 rootless
+roots
 rootstocks
 rootworm
 ropable
@@ -43498,6 +43523,7 @@ shoehorn
 shoehorned
 shoehorning
 shoelace
+shoeless
 shoepacks
 shoepacs
 shoers
@@ -45647,6 +45673,7 @@ stairheads
 stairs
 stairstepped
 stairstepping
+stairsteps
 stake
 stakeholder
 stakeouts
@@ -45680,6 +45707,7 @@ standoff
 standout
 standouts
 standpatter
+standpatters
 stands
 standstill
 standstills
@@ -47635,6 +47663,7 @@ syndics
 syndromes
 synecdoches
 synergias
+synergic
 synergies
 synergisms
 synergist
@@ -47933,6 +47962,7 @@ tannin
 tannins
 tannoy
 tanrec
+tanrecs
 tans
 tantalate
 tantalates
@@ -48555,6 +48585,7 @@ texts
 textuaries
 textuary
 texturized
+texturizing
 thairm
 thalamus
 thalassaemias
@@ -53747,6 +53778,7 @@ windway
 windways
 wined
 winegrowers
+wineless
 winepress
 wineries
 wineshop
@@ -54211,6 +54243,7 @@ yamen
 yamun
 yanks
 yanqui
+yapons
 yapped
 yard
 yardarms
@@ -54252,6 +54285,7 @@ yearends
 yearners
 yearningly
 yearnings
+yearns
 years
 yeastily
 yeastless
@@ -54471,6 +54505,7 @@ zoeae
 zoeas
 zoecium
 zoftig
+zombified
 zombify
 zombifying
 zombiism
