@@ -242,6 +242,7 @@ acetanilid
 acetanilide
 acetazolamides
 acetic
+acetifier
 acetophenetidin
 acetyl
 acetylating
@@ -1687,6 +1688,7 @@ annotators
 announcements
 announcers
 annualized
+annualizing
 annually
 annuitant
 annuities
@@ -4405,6 +4407,7 @@ bigoses
 bigs
 bigstick
 bihourly
+bijections
 bijective
 bike
 biked
@@ -6620,6 +6623,7 @@ cantonments
 cantrip
 cantrips
 cantus
+canula
 canulate
 canulates
 canvasbacks
@@ -6778,6 +6782,7 @@ carboxyls
 carboys
 carbuncled
 carbuncles
+carbureted
 carburetions
 carburetor
 carburetted
@@ -6807,6 +6812,7 @@ carder
 cardiac
 cardiae
 cardigans
+cardinalate
 cardinalships
 cardio
 cardiograms
@@ -8140,6 +8146,7 @@ circumspect
 circumspections
 circumspectly
 circumstance
+circumstellar
 circumvallation
 circumventing
 circumvents
@@ -9142,6 +9149,7 @@ communistic
 communitarians
 communizing
 commutate
+commutating
 commutative
 commutativity
 commutator
@@ -10861,6 +10869,7 @@ cryptographies
 cryptography
 cryptological
 cryptologies
+cryptologists
 cryptomeria
 cryptomerias
 cryptorchidism
@@ -13607,6 +13616,7 @@ ditas
 ditcher
 ditchers
 ditches
+ditching
 dites
 dithyrambically
 dithyrambs
@@ -14006,6 +14016,7 @@ downside
 downsides
 downsizes
 downstages
+downstate
 downstates
 downstream
 downstroke
@@ -16923,6 +16934,7 @@ faqirs
 faquirs
 farad
 faradaic
+faraday
 faradized
 farads
 farandoles
@@ -18471,6 +18483,7 @@ frecklier
 freebee
 freebees
 freeboard
+freeboards
 freebooted
 freeboots
 freed
@@ -18950,6 +18963,7 @@ galliards
 galliass
 galliasses
 gallicas
+gallicisms
 gallicizations
 gallicize
 gallicized
@@ -19240,6 +19254,7 @@ gelations
 gelatis
 gelato
 gelcap
+gelcaps
 geld
 gelder
 gelding
@@ -21312,6 +21327,7 @@ hellgrammites
 hellhound
 hellhounds
 hellishly
+helloes
 helloing
 hellos
 helluva
@@ -21678,6 +21694,7 @@ hisn
 hispanidads
 hispanisms
 hissing
+histamin
 histamine
 histaminergic
 histamins
@@ -22345,6 +22362,7 @@ hydromagnetic
 hydromancies
 hydromedusa
 hydrometeor
+hydrometers
 hydropath
 hydropathic
 hydroperoxide
@@ -23156,6 +23174,7 @@ inciters
 incites
 incivilities
 inclasped
+inclasps
 inclemency
 inclement
 inclinations
@@ -23371,6 +23390,7 @@ individuating
 indivisibility
 indivisible
 indocile
+indocility
 indoctrinated
 indoctrinates
 indoctrination
@@ -23469,6 +23489,7 @@ inexperienced
 inexperiences
 inexpert
 inexpertnesses
+inexperts
 inexpiable
 inexpiably
 inexplicability
@@ -25854,6 +25875,7 @@ laserdisc
 lash
 lashed
 lashing
+lassi
 lassies
 lassis
 lassitudes
@@ -28344,6 +28366,7 @@ metalizes
 metalizing
 metalliferous
 metallike
+metalline
 metalling
 metallization
 metallize
@@ -29529,6 +29552,7 @@ monoxides
 monsignori
 monsoons
 monster
+monstrance
 monstrousnesses
 montadale
 montages
@@ -33102,6 +33126,7 @@ overgarments
 overgeneralize
 overgenerosity
 overgenerously
+overgilding
 overgilt
 overgirds
 overglad
@@ -35191,6 +35216,7 @@ pickled
 pickles
 picklocks
 pickoff
+picks
 pickwick
 pickwicks
 picky
@@ -37658,6 +37684,7 @@ pteridines
 pteridologies
 pterins
 pterodactyls
+pterygium
 pterylae
 ptisan
 ptomainic
@@ -37741,6 +37768,7 @@ pulping
 pulpy
 pulque
 pulques
+pulsant
 pulsates
 pulsatile
 pulsatory
@@ -38678,6 +38706,7 @@ razes
 razorbacks
 razorbills
 razored
+razoring
 razz
 razzamatazzes
 razzberries
@@ -42604,6 +42633,7 @@ seceders
 seceding
 secern
 secerns
+secessionists
 secessions
 secluded
 secludes
@@ -45253,6 +45283,7 @@ splashing
 splashy
 splatter
 splatters
+splatting
 splaying
 spleen
 spleeniest
@@ -46737,6 +46768,7 @@ sufferable
 sufferableness
 sufferers
 suffering
+sufferings
 sufficers
 sufficient
 suffixing
@@ -51544,6 +51576,7 @@ unsnag
 unsnap
 unsnaps
 unsociabilities
+unsociably
 unsocial
 unsocially
 unsoldierly
@@ -52889,6 +52922,7 @@ waister
 waisters
 waisting
 waists
+waitered
 waitering
 waiting
 waitlist
@@ -52928,6 +52962,7 @@ wallas
 wallboards
 wallet
 walleyes
+wallflowers
 walloped
 walloper
 wallopers
