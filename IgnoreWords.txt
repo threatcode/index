@@ -262,6 +262,7 @@ achinesses
 aching
 achingly
 achiote
+achlorhydric
 achromat
 achromatically
 achromatized
@@ -1113,8 +1114,10 @@ allegory
 allegrettos
 allegros
 allelomorph
+allelomorphisms
 alleluia
 allemande
+allemandes
 allergenic
 allergy
 allethrin
@@ -3303,6 +3306,7 @@ backwardness
 backwardnesses
 backwoods
 backwraps
+bacon
 bacons
 bacteremias
 bactericidally
@@ -4920,6 +4924,7 @@ blotched
 blotchiest
 blotchily
 blotchy
+blotless
 blotters
 blotto
 blotty
@@ -6510,6 +6515,7 @@ campanologies
 campestral
 campfire
 campground
+camphene
 camphenes
 camphine
 camphoraceous
@@ -12615,6 +12621,7 @@ deteriorations
 deteriorative
 determents
 determinable
+determinably
 determinacy
 determinants
 determinately
@@ -13396,6 +13403,7 @@ disfranchised
 disfrock
 disfrocked
 disfunctions
+disfurnishment
 disgorge
 disgraceful
 disgraces
@@ -14105,6 +14113,7 @@ downtime
 downtowner
 downtowns
 downwardness
+downwards
 downzones
 dowry
 dowsing
@@ -16137,6 +16146,7 @@ ethnicities
 ethnobotanical
 ethnobotanist
 ethnobotany
+ethnocentric
 ethnographer
 ethnographers
 ethnohistoric
@@ -17159,6 +17169,7 @@ fayalite
 faying
 fealty
 fear
+fearfuller
 fearfullest
 fearlessness
 fearlessnesses
@@ -17449,6 +17460,7 @@ fibrosis
 fibrositises
 fibrovascular
 fice
+fichus
 fickle
 ficklenesses
 fickler
@@ -21560,6 +21572,7 @@ herculean
 herculeses
 herdic
 herdics
+herding
 herdlike
 herdman
 herdmen
@@ -24935,6 +24948,7 @@ jereed
 jeremiad
 jerkies
 jerkily
+jerkin
 jerking
 jerkins
 jeroboams
@@ -26287,6 +26301,7 @@ legitimacies
 legitimating
 legitimatized
 legitimises
+legitimize
 legitimizers
 legitimizing
 legits
@@ -31211,6 +31226,7 @@ noncelebrity
 noncertificated
 nonchalance
 nonchalances
+noncharacter
 nonchemical
 nonchemicals
 nonchromosomal
@@ -31448,6 +31464,7 @@ nonnegotiables
 nonneural
 nonnews
 nonnoble
+nonnovels
 nonnuclear
 nonnumerical
 nonobjective
@@ -34318,6 +34335,7 @@ pastoriums
 pastors
 pastrami
 pastromis
+pasture
 pasturing
 patamar
 patamars
@@ -34619,6 +34637,7 @@ peltries
 peltry
 pelves
 pelvics
+pen
 penalise
 penalised
 penalising
@@ -35422,6 +35441,7 @@ pickwick
 pickwicks
 picky
 picloram
+picnic
 picnicker
 picogram
 picolin
@@ -37539,6 +37559,7 @@ propagate
 propagated
 propellent
 propellor
+propellors
 propels
 propended
 propends
@@ -39194,6 +39215,7 @@ reciprocators
 recircle
 recirculate
 recirculating
+recit
 recitative
 recits
 reck
@@ -43887,6 +43909,8 @@ sicklying
 sickos
 sickouts
 sickroom
+sidearm
+sidearms
 sidebar
 sidebars
 sideboard
@@ -44477,6 +44501,7 @@ slipsole
 slipsoles
 slipstream
 slipstreamed
+slipstreaming
 slipups
 slither
 slithers
@@ -45328,6 +45353,7 @@ spearheading
 spearing
 spears
 spearwort
+specialer
 specialise
 specialities
 specialization
@@ -45581,6 +45607,7 @@ spokeshaves
 spoliates
 spoliating
 spondaic
+spondees
 spongiest
 sponsal
 sponsion
@@ -46333,6 +46360,7 @@ storey
 storeyed
 storeys
 storied
+stories
 storks
 storksbill
 storksbills
@@ -46980,6 +47008,7 @@ subverters
 subverting
 subvicars
 subviral
+subvirus
 subvocal
 subvocalization
 subvocalize
@@ -47257,6 +47286,7 @@ superficially
 superficies
 superfirm
 superfirms
+superfix
 superfixes
 superflack
 superflacks
@@ -48344,6 +48374,7 @@ teardrop
 teared
 tearer
 tearers
+tearfulness
 teargas
 teargassing
 tearier
@@ -48725,6 +48756,7 @@ testate
 testatrices
 tested
 testees
+tester
 testers
 testimonials
 testimony
@@ -48805,6 +48837,7 @@ thatched
 thatchers
 thatchiest
 thatchy
+thaumaturges
 thaumaturgic
 thaumaturgies
 thaumaturgists
@@ -50307,6 +50340,7 @@ trophying
 tropicalizing
 tropicals
 tropines
+tropism
 tropisms
 tropologically
 tropopause
@@ -50614,6 +50648,7 @@ tweet
 tweeters
 tweeze
 tweezer
+tweezing
 twelfth
 twentieths
 twenty
