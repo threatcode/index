@@ -755,6 +755,7 @@ ag
 agallochs
 agama
 agamete
+agamic
 agamous
 agapai
 agapanthus
@@ -3113,6 +3114,7 @@ avellane
 avenge
 avenger
 aventails
+average
 averages
 averred
 averring
@@ -3823,6 +3825,7 @@ battiness
 batting
 battings
 battle
+battlers
 battleships
 batts
 battue
@@ -5934,6 +5937,7 @@ brutified
 brutifies
 brutify
 brutish
+bruts
 brux
 bruxed
 bruxing
@@ -6527,6 +6531,7 @@ callant
 callas
 callbacks
 callboards
+callee
 caller
 calligraphers
 calligraphic
@@ -6856,6 +6861,7 @@ captained
 captan
 caption
 captioning
+captivation
 captivations
 captivator
 captive
@@ -7901,6 +7907,7 @@ chickweed
 chicory
 chics
 chid
+chides
 chiefdoms
 chiefly
 chiefs
@@ -8760,6 +8767,7 @@ coalfishes
 coalier
 coaling
 coalition
+coalitionist
 coals
 coalsack
 coalshed
@@ -10054,6 +10062,7 @@ convoying
 convoys
 convulses
 convulsive
+convulsively
 cooches
 cooees
 cooingly
@@ -12521,6 +12530,7 @@ departees
 departing
 department
 departmentalize
+depauperate
 depend
 dependabilities
 dependability
@@ -20733,6 +20743,7 @@ grippes
 gripping
 gripple
 gripy
+griseous
 grisettes
 griskins
 grisliest
@@ -20753,6 +20764,7 @@ grittiness
 grizzlier
 grizzling
 grizzly
+groat
 grocer
 groceries
 grocery
@@ -23008,6 +23020,7 @@ hypospadias
 hypostatic
 hypostatized
 hypostatizes
+hypotaxes
 hypotension
 hypotensions
 hypotensive
@@ -23353,6 +23366,7 @@ impartment
 impassable
 impassibility
 impassibly
+impassioned
 impastes
 impasto
 impastoed
@@ -30934,6 +30948,7 @@ nakednesses
 naled
 nalorphines
 naloxones
+namaycush
 namaycushes
 name
 nameable
@@ -31250,6 +31265,7 @@ nerdiness
 nereides
 nereis
 nerol
+nerved
 nervelessnesses
 nerviest
 nervine
@@ -32638,6 +32654,7 @@ oiled
 oiler
 oilhole
 oilholes
+oilily
 oiliness
 oilinesses
 oilmen
@@ -35691,6 +35708,7 @@ phlebitises
 phlebograms
 phlebographic
 phlebography
+phlebologies
 phlegm
 phlegmier
 phlegmiest
@@ -36102,6 +36120,7 @@ pinna
 pinnace
 pinnaces
 pinnate
+pinnately
 pinned
 pinners
 pinnulae
@@ -36925,6 +36944,7 @@ portapaks
 porter
 porterages
 porthole
+porticoed
 portieres
 porting
 portioners
@@ -37659,6 +37679,7 @@ presumedly
 presumes
 presupposed
 presupposition
+presurveying
 presweetened
 presweetens
 presymptomatic
@@ -37709,6 +37730,7 @@ preveniently
 preventability
 preventative
 prevented
+preventer
 preventively
 previable
 previewed
@@ -40230,6 +40252,7 @@ reflex
 reflexiveness
 reflexivenesses
 reflexly
+reflexologies
 reflexology
 reflies
 refloats
@@ -40253,6 +40276,7 @@ reformers
 reforming
 reformism
 reformist
+reformulating
 refound
 refract
 refractions
@@ -41601,6 +41625,7 @@ rewards
 rewarm
 rewash
 rewashed
+rewax
 rewaxed
 rewaxes
 rewaxing
@@ -42216,6 +42241,7 @@ rubbishes
 rubboard
 rubel
 rubellite
+rubeolas
 rubescent
 rubicund
 rubicundities
@@ -42872,6 +42898,7 @@ sauteed
 sauteing
 sauternes
 sautes
+sautoir
 sautoires
 sautoirs
 savageries
@@ -42898,6 +42925,7 @@ savviest
 savvily
 savviness
 sawed
+sawfish
 sawflies
 sawfly
 sawhorse
@@ -44125,6 +44153,7 @@ sheath
 sheathbill
 sheathed
 sheather
+sheathings
 shebang
 shedlike
 sheens
@@ -44197,6 +44226,7 @@ shielders
 shieling
 shielings
 shiers
+shifted
 shifters
 shiftlessly
 shifts
@@ -46107,6 +46137,7 @@ spikelets
 spikenards
 spikers
 spikey
+spikiest
 spikiness
 spiks
 spiles
@@ -48588,6 +48619,7 @@ tabbis
 tabbises
 tabbouleh
 tabboulehs
+tabby
 taber
 tabernacular
 tabers
@@ -53797,6 +53829,7 @@ voicelessnesses
 voiceovers
 voices
 voicings
+void
 voidablenesses
 voidances
 voided
@@ -54394,6 +54427,7 @@ wendigos
 wends
 wenny
 weregild
+wergeld
 wergild
 wernerites
 werwolves
@@ -54950,6 +54984,7 @@ woodhens
 woodie
 woodies
 woodiest
+woodless
 woodlore
 woodlot
 woodman
