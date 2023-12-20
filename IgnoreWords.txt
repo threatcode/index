@@ -861,6 +861,7 @@ agoras
 agorot
 agouties
 agoutis
+agranulocytosis
 agraphia
 agraphias
 agraphic
@@ -1800,6 +1801,7 @@ antelope
 antelopes
 antennal
 antennas
+antennular
 antennule
 antennules
 antependiums
@@ -3322,6 +3324,7 @@ backhandedly
 backhanding
 backhands
 backhauled
+backhauling
 backhoe
 backhouse
 backhouses
@@ -4265,6 +4268,7 @@ benzoates
 benzocaine
 benzocaines
 benzodiazepine
+benzole
 benzoyl
 bepaints
 bepimple
@@ -5841,6 +5845,7 @@ brochures
 brock
 brocolis
 brogan
+broil
 broiler
 broiling
 broils
@@ -10181,6 +10186,7 @@ copresent
 copresented
 coprincipal
 coprisoner
+coproduce
 coproducer
 coproduct
 coproduction
@@ -11550,6 +11556,7 @@ cystoceles
 cystoscopes
 cytasters
 cytochalasin
+cytochemical
 cytochrome
 cytogeneticists
 cytogenetics
@@ -15587,6 +15594,7 @@ enactive
 enactments
 enalaprils
 enamelers
+enamelled
 enameller
 enamelware
 enamored
@@ -15783,6 +15791,7 @@ engorges
 engrafted
 engrailing
 engrails
+engram
 engrammes
 engrossed
 engrosser
@@ -16320,6 +16329,7 @@ escalading
 escalated
 escalating
 escalatory
+escalloping
 escallops
 escalop
 escalope
@@ -23247,6 +23257,7 @@ idlenesses
 idler
 idles
 idlesses
+idol
 idolator
 idolise
 idolises
@@ -23371,6 +23382,7 @@ imbruting
 imbues
 imide
 imides
+imines
 imino
 imipramines
 imitable
@@ -23620,6 +23632,7 @@ improved
 improvement
 improvements
 improver
+improving
 improvisations
 improvisator
 improvisatores
@@ -25758,6 +25771,7 @@ karmas
 karmic
 karns
 karoo
+karroo
 karsts
 karts
 karyogamies
@@ -25915,6 +25929,7 @@ khis
 ki
 kibbeh
 kibbitzes
+kibbitzing
 kibbutz
 kibeis
 kibitzed
@@ -26182,6 +26197,7 @@ koumiss
 koumisses
 koumyss
 kouprey
+koupreys
 kousso
 kowtow
 kowtowers
@@ -26305,6 +26321,7 @@ lactates
 lactation
 lactational
 lactobacilli
+lactogenic
 lactones
 lactonic
 lactoses
@@ -26426,6 +26443,7 @@ landlines
 landloper
 landlubber
 landman
+landownership
 landowning
 landscapists
 landsleit
@@ -27046,6 +27064,7 @@ lieve
 liever
 life
 lifeblood
+lifeboats
 lifecare
 lifecares
 lifeguarded
@@ -27659,6 +27678,7 @@ lowballs
 lowborn
 lowboy
 lowboys
+lowbred
 lowbrow
 lowercased
 lowered
@@ -27992,6 +28012,7 @@ madzoon
 maelstroms
 maenadisms
 maestoso
+maestosos
 maestri
 maestro
 maffia
@@ -28682,6 +28703,7 @@ mean
 meander
 meandered
 meanderer
+meandering
 meanders
 meaner
 meaners
@@ -30519,6 +30541,7 @@ motorship
 motorships
 motortrucks
 motorway
+motorways
 mottes
 mottled
 mottles
@@ -30594,6 +30617,7 @@ mozzettas
 mridangam
 mridangams
 muchacho
+muchachos
 muchly
 muchness
 mucho
@@ -32288,6 +32312,7 @@ nosologically
 nosologies
 nostalgias
 nostoc
+nostocs
 notabilia
 notablenesses
 notal
@@ -34205,6 +34230,7 @@ overstrain
 overstrained
 overstrains
 overstress
+overstretch
 overstretching
 overstrews
 overstridden
@@ -41107,6 +41133,7 @@ replicate
 replicates
 replicon
 repliers
+replots
 replow
 replowed
 replows
@@ -44122,6 +44149,7 @@ sericulture
 serifed
 seriffed
 serifs
+serigraphies
 sering
 seringa
 seringas
@@ -46033,6 +46061,7 @@ soundalike
 sounder
 sounders
 sounding
+soundings
 soundless
 soundman
 soundstage
@@ -49391,6 +49420,7 @@ telegraphic
 telegraphists
 telekineses
 telekinesis
+telekinetic
 telekinetically
 telemark
 telemarketing
@@ -51315,6 +51345,7 @@ truckable
 truckful
 truckfuls
 truckings
+truckler
 trucklines
 truckling
 truckman
@@ -52047,6 +52078,7 @@ uncleanest
 uncleanliness
 uncleannesses
 uncleft
+unclenches
 uncles
 uncliched
 unclinch
@@ -53492,6 +53524,7 @@ vasculatures
 vasculum
 vasculums
 vasectomized
+vasectomy
 vaselike
 vaselines
 vases
@@ -53982,6 +54015,7 @@ visualization
 visually
 visuals
 vitae
+vital
 vitalised
 vitalises
 vitalism
@@ -54966,6 +55000,7 @@ willing
 willinger
 willingnesses
 willow
+willowed
 willowier
 willowiest
 willowware
