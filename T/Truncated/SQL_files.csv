@@ -8,3 +8,12 @@ usr/pgsql-9.6/lib/test/regress/sql/errors.sql · schabrolles ... - Gemfury,https
 Source of pgsql.query.time.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.query.time.sql
 https://raw.githubusercontent.com/Rosalien/dataAcc...,https://raw.githubusercontent.com/Rosalien/dataAccessApp/master/inst/app/www/sql/TriggerDebouncePeriod.sql
 src/main/resources/data-h2.sql - GitLab,https://git.cardiff.ac.uk/c1986023/tutorial-companion/-/blob/2cc4eb4feeed747698c50001ae0ba97493c5db23/src/main/resources/data-h2.sql
+string truncation error message improvement in SQL 2019 ... - GitHub,https://github.com/SparkhoundSQL/sql-server-toolbox/blob/master/lab%2520-%2520string%2520truncation%2520error%2520message%2520improvement%2520in%2520SQL%25202019.sql
+h2database/h2/src/test/org/h2/test/scripts/functions/numeric/truncate ...,https://github.com/h2database/h2database/blob/master/h2/src/test/org/h2/test/scripts/functions/numeric/truncate.sql
+CDATA.SQL · master · examples / SQL Tuning · GitLab,https://resources.oreilly.com/examples/9780596005733/-/blob/master/CDATA.SQL
+Java.Sql Namespace - Microsoft Learn,https://learn.microsoft.com/en-us/dotnet/api/java.sql%3Fview%3Dxamarin-android-sdk-13
+https://docs.oracle.com/cd/F32430_01/PDF/common/BA...,https://docs.oracle.com/cd/F32430_01/PDF/common/BASEL_UPGRADE_PRESCRIPT_ATOMIC_8.1.sql
+https://files.ms.hexagonmi.com/public/SmartQuality...,https://files.ms.hexagonmi.com/public/SmartQuality/Release/4.0/server/QDASDesktopSetup_V11_170616/SQL-Scripts/ORACLE/MAINTENANCE/dbinfo.sql
+https://raw.githubusercontent.com/Rosalien/dataAcc...,https://raw.githubusercontent.com/Rosalien/dataAccessApp/master/inst/app/www/sql/TriggerDebouncePeriod.sql
+Source of pgsql.query.time.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.query.time.sql
+usr/pgsql-9.6/lib/test/regress/sql/errors.sql · schabrolles ... - Gemfury,https://gemfury.com/schabrolles/rpm:postgresql96-test/9.6.0-2.ibmmoppslc.el7/content/usr/pgsql-9.6/lib/test/regress/sql/errors.sql

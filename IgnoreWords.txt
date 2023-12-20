@@ -77,6 +77,7 @@ absorptance
 absorptions
 absorptive
 absorptivities
+abstain
 abstained
 abstainers
 abstemiousness
@@ -1440,6 +1441,7 @@ amplexuses
 amplifications
 amplifying
 amplitude
+amply
 ampullae
 ampullary
 amputation
@@ -1981,6 +1983,7 @@ antiqued
 antiques
 antiquities
 antiracist
+antiracists
 antiradar
 antiradars
 antiradical
@@ -3782,6 +3785,7 @@ bastards
 baste
 baster
 basters
+bastile
 bastilles
 bastinade
 bastinaded
@@ -4388,6 +4392,7 @@ beworries
 bewrap
 bewrays
 beyonds
+bezazz
 bezil
 bezoar
 bezoars
@@ -5291,6 +5296,7 @@ boohooing
 booing
 boojums
 bookbinderies
+bookbinders
 bookbindings
 bookcases
 booked
@@ -7118,6 +7124,7 @@ cascables
 cascade
 cascaded
 cascaras
+caseating
 caseation
 casebearer
 casefies
@@ -7878,6 +7885,7 @@ chiasma
 chiasmata
 chiasmatic
 chiastic
+chiauses
 chica
 chicaneries
 chicanes
@@ -8372,6 +8380,7 @@ civilize
 civilizer
 civism
 civisms
+clabbering
 clach
 clack
 clad
@@ -8522,6 +8531,7 @@ clept
 clergyman
 clergywoman
 clericalism
+clericalist
 clericalists
 clerids
 clerisy
@@ -8822,6 +8832,7 @@ cockboat
 cockboats
 cockcrow
 cockerel
+cockhorse
 cockiest
 cockiness
 cocking
@@ -10958,7 +10969,9 @@ crossarm
 crossarms
 crossbanding
 crossbar
+crossbills
 crossbones
+crossbowman
 crossbowmen
 crossbreeding
 crosscourt
@@ -11590,6 +11603,7 @@ dammar
 damming
 damnablenesses
 damnably
+damnation
 damnations
 damnatory
 damndest
@@ -11827,6 +11841,7 @@ debonair
 debonairnesses
 debone
 debones
+debouch
 debouchments
 debride
 debridements
@@ -12247,6 +12262,7 @@ delation
 delaying
 deleading
 deleave
+deleaving
 delectability
 delectable
 delectables
@@ -15400,6 +15416,7 @@ eminent
 emir
 emissions
 emissive
+emittances
 emitted
 emitters
 emitting
@@ -15816,6 +15833,7 @@ entelluses
 enter
 enterer
 enteritides
+enteritises
 enterobacterial
 enterobacterium
 enterocoeles
@@ -18895,6 +18913,7 @@ frescoes
 frescoist
 frescos
 freshen
+freshener
 freshet
 freshets
 freshly
@@ -21752,6 +21771,7 @@ helving
 hemagglutinate
 hemagglutinated
 hemagglutinins
+hemagog
 hemangioma
 hemateins
 hematine
@@ -24709,6 +24729,7 @@ intricatenesses
 intrigue
 intrigues
 intro
+introduce
 introducers
 introducing
 introduction
@@ -24859,6 +24880,7 @@ ionosonde
 ionospheric
 ionospherically
 iontophoreses
+iontophoresis
 iota
 ipecac
 ipecacuanhas
@@ -29301,6 +29323,7 @@ millirems
 milliroentgen
 millivolt
 milliwatt
+milliwatts
 millponds
 millrace
 millruns
@@ -29604,6 +29627,7 @@ misfields
 misfiling
 misfocussing
 misform
+misformed
 misframe
 misframed
 misfunctioned
@@ -35931,6 +35955,7 @@ picturesque
 picturizations
 picturizes
 picturizing
+picul
 piddlers
 piddocks
 pidgin
@@ -41908,6 +41933,7 @@ roadstead
 roadsteads
 roadster
 roadways
+roadwork
 roadworthiness
 roamer
 roaming
@@ -42520,6 +42546,7 @@ salespersons
 saleswoman
 saleswomen
 salicylates
+saliencies
 saliency
 saliently
 salients
@@ -42594,6 +42621,7 @@ salve
 salvia
 salving
 salvoed
+samara
 samaras
 samba
 sambaing
@@ -45314,6 +45342,7 @@ sneezing
 snell
 snelled
 snickersnee
+snickersnees
 snicking
 snidely
 snideness
@@ -45929,6 +45958,7 @@ speans
 spear
 speared
 spearfish
+spearfishes
 spearheaded
 spearheading
 spearing
@@ -48265,6 +48295,7 @@ sweepingnesses
 sweepings
 sweepstakes
 sweer
+sweetened
 sweetening
 sweetenings
 sweetens
@@ -48412,6 +48443,7 @@ symbolizer
 symbolizers
 symbols
 symmetallism
+symmetallisms
 symmetrically
 symmetrization
 symmetrizing
@@ -49699,6 +49731,7 @@ threading
 threadlike
 threads
 threadworm
+threaped
 threaping
 threaps
 threated
@@ -51037,6 +51070,7 @@ trumpeted
 trumpeting
 trumping
 trumps
+truncated
 trundles
 trunked
 trunkfish
@@ -55191,6 +55225,7 @@ yare
 yarely
 yarmulke
 yarns
+yarrow
 yashmaks
 yatagan
 yatagans
