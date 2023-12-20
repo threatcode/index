@@ -6,3 +6,9 @@ translations.openemr.io/languageTranslations_utf8.sql,http://translations.openem
 www.omicsgroup.com/conferences/ACS/conference/spea...,http://www.omicsgroup.com/conferences/ACS/conference/speaker_ppt/15222-Speaker-ppt.sql
 ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
 sid.id.lv/blog/wp-content/plugins/sid_id_galerija.sql,http://sid.id.lv/blog/wp-content/plugins/sid_id_galerija.sql
+openjumo/jumodjango/data/schema/jumodjango.sql at master,https://github.com/jumoconnect/openjumo/blob/master/jumodjango/data/schema/jumodjango.sql
+Gateway-GI/gatewayg_staging.sql at master - GitHub,https://github.com/corygray/Gateway-GI/blob/master/gatewayg_staging.sql
+database.sql - GitHub,https://raw.githubusercontent.com/openemr/openemr/master/sql/database.sql
+http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
+http://translations.openemr.io/languageTranslation...,http://translations.openemr.io/languageTranslations_utf8.sql
+https://raw.githubusercontent.com/openemr/openemr/...,https://raw.githubusercontent.com/openemr/openemr/aa42240771e37d41379d506e1e54d80f8e40533a/contrib/util/language_translations/currentLanguage_utf8.sql

@@ -2582,6 +2582,7 @@ ascendents
 ascender
 ascenders
 ascension
+ascent
 ascertain
 ascertainable
 ascertained
@@ -2940,6 +2941,7 @@ augustness
 auk
 auklet
 auld
+aulder
 aulic
 auntie
 aura
@@ -3256,6 +3258,8 @@ backboard
 backbone
 backbreaking
 backchat
+backchats
+backchecks
 backcloths
 backcountry
 backcourt
@@ -3289,6 +3293,7 @@ backings
 backlasher
 backlashers
 backlashes
+backlights
 backlist
 backlisted
 backloaded
@@ -4221,6 +4226,7 @@ berates
 berberin
 berceuse
 berdaches
+bereave
 bereavers
 beret
 bergamot
@@ -6460,6 +6466,7 @@ calibrated
 calibrates
 calibrations
 calibrators
+calibre
 calices
 calicos
 calif
@@ -6595,6 +6602,7 @@ canaled
 canalised
 canalises
 canalising
+canalizes
 canals
 canape
 canaries
@@ -7396,6 +7404,7 @@ centrifuge
 centrifuging
 centripetal
 centripetally
+centroid
 centroids
 centromeres
 centrosymmetric
@@ -8656,6 +8665,7 @@ clupeids
 clupeoid
 clustering
 clutch
+clutched
 cluttering
 clutters
 clypeal
@@ -9068,6 +9078,7 @@ colloidal
 colloids
 collop
 colloquial
+colloquially
 colloquist
 colloquists
 collotypies
@@ -9157,6 +9168,7 @@ combinable
 combinational
 combinations
 combinatorially
+combinatorics
 combine
 combiner
 combings
@@ -10337,6 +10349,7 @@ cotinines
 cotoneaster
 cotqueans
 cotransport
+cots
 cotta
 cottae
 cottagey
@@ -10482,6 +10495,7 @@ countlessly
 countries
 countryman
 countryseat
+countrysides
 countrywoman
 coup
 coupled
@@ -11633,6 +11647,7 @@ daunting
 dauntlessnesses
 daunts
 dauting
+dauts
 davened
 davies
 davits
@@ -20020,6 +20035,7 @@ glowfly
 glows
 gloxinias
 glozing
+glucagon
 glucokinases
 glucose
 glucoses
@@ -23960,6 +23976,7 @@ inground
 ingroups
 ingrowth
 ingurgitates
+ingurgitating
 inhabitants
 inhabits
 inhalants
@@ -24570,6 +24587,7 @@ intrant
 intrants
 intrapopulation
 intrapreneur
+intrapreneurs
 intrapsychic
 intraspecific
 intrauterine
@@ -24681,6 +24699,7 @@ invigilators
 invigorate
 invigorates
 invincibility
+inviolabilities
 inviolableness
 inviolably
 inviolatenesses
@@ -27426,6 +27445,7 @@ luminesced
 luminiferous
 luminism
 luminisms
+luminousness
 luminousnesses
 lumpectomies
 lumpfish
@@ -31432,6 +31452,7 @@ nonarts
 nonas
 nonastronomical
 nonathletes
+nonathletic
 nonattenders
 nonbacterial
 nonbank
@@ -31927,6 +31948,7 @@ nostalgias
 nostoc
 notabilia
 notablenesses
+notal
 notarization
 notarizations
 notarize
@@ -31964,6 +31986,7 @@ nouns
 nourish
 nourisher
 nourishments
+nous
 nouses
 novae
 novelette
@@ -32482,6 +32505,7 @@ oligoclase
 oligodendroglia
 oligomerization
 oligomers
+oligophagy
 olingo
 olivaceous
 olivary
@@ -34524,6 +34548,7 @@ parvoline
 parvolins
 pas
 pase
+paseo
 pash
 pashalic
 pashalik
@@ -36534,6 +36559,7 @@ polynyi
 polyolefin
 polyolefins
 polyomas
+polyp
 polypary
 polypeptide
 polypetalous
@@ -36706,6 +36732,7 @@ portraitures
 portrayer
 portraying
 portrays
+portulaca
 pose
 posers
 poseurs
@@ -38466,6 +38493,7 @@ pustulations
 pustuled
 pustules
 put
+putamina
 putative
 putlog
 putlogs
@@ -38493,6 +38521,7 @@ pycnidia
 pycnoses
 pye
 pyelitis
+pyelitises
 pyelonephritic
 pyelonephritis
 pygidial
@@ -41635,6 +41664,7 @@ ritornello
 ritornellos
 ritualistic
 ritualization
+ritualizing
 ritually
 ritz
 ritzily
@@ -44643,6 +44673,7 @@ skulker
 skulkers
 skulking
 skulks
+skull
 skulling
 skunk
 skunkier
@@ -46811,6 +46842,7 @@ strettas
 strette
 stretti
 strew
+strewers
 striated
 striation
 striations
@@ -47252,6 +47284,7 @@ subserving
 subset
 subshaft
 subshell
+subshrubs
 subsiders
 subsidies
 subsiding
@@ -47406,6 +47439,7 @@ suffering
 sufferings
 sufficers
 sufficient
+suffixations
 suffixing
 suffixion
 sufflate
@@ -48787,6 +48821,7 @@ teenyboppers
 tees
 teethed
 teethers
+teething
 teethridges
 teetotaled
 teetotalers
