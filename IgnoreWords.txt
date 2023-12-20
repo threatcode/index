@@ -1325,6 +1325,7 @@ ameboid
 amelcorn
 ameliorates
 ameliorating
+ameliorative
 ameliorator
 amen
 amenable
@@ -3755,6 +3756,7 @@ basmatis
 basophiles
 basophilia
 basque
+bass
 basseted
 basseting
 bassets
@@ -7203,6 +7205,7 @@ catch
 catcher
 catchers
 catchments
+catchphrases
 catchword
 catecheses
 catechised
@@ -8656,6 +8659,7 @@ cloxacillins
 cloy
 cloying
 cloyingly
+cloys
 clozapine
 cloze
 club
@@ -8891,8 +8895,10 @@ coeducational
 coefficient
 coefficients
 coelacanth
+coelom
 coelome
 coelomes
+coelostat
 coembodied
 coemploy
 coemploys
@@ -9776,6 +9782,7 @@ consenters
 consents
 consequence
 consequent
+consequentially
 consequently
 conservancy
 conservation
@@ -10073,6 +10080,7 @@ coot
 cooters
 copalms
 copals
+copartner
 copartnered
 copartnering
 copartners
@@ -16140,6 +16148,7 @@ ericoid
 eringo
 eriophyids
 eristical
+erodable
 erodible
 eros
 erosely
@@ -22345,6 +22354,7 @@ honorarily
 honored
 honoree
 honorer
+honorific
 honorifics
 honouring
 hooded
@@ -23643,6 +23653,7 @@ inconsequent
 inconsequential
 inconsequently
 inconsiderably
+inconsiderate
 inconsideration
 inconsistence
 inconsistencies
@@ -26000,6 +26011,7 @@ kraits
 kraters
 kreeps
 kremlinologies
+kremlinologists
 kremlinology
 kreplach
 kreuzer
@@ -27420,6 +27432,7 @@ loud
 louden
 loudened
 loudlier
+loudmouthed
 louis
 lounge
 lounger
@@ -28602,6 +28615,7 @@ mehndi
 meinie
 meister
 meitnerium
+melamdim
 melamed
 melancholia
 melancholiac
@@ -29672,6 +29686,7 @@ misprisions
 misprizing
 misprogram
 misprograming
+misprogrammed
 misprograms
 mispronounced
 misquotation
@@ -31322,6 +31337,7 @@ nibble
 nibbler
 nibbles
 niblicks
+niblike
 niccolite
 nicely
 nicenesses
@@ -33745,9 +33761,11 @@ overgirds
 overglad
 overglamorize
 overgoads
+overgrowing
 overgrown
 overgrows
 overhand
+overhanded
 overhanding
 overhandles
 overhanging
@@ -34310,6 +34328,7 @@ palmitin
 palookas
 paloverde
 palpability
+palpated
 palpates
 palpators
 palpebrae
@@ -35043,6 +35062,8 @@ pelletizer
 pelmets
 peloria
 peloruses
+pelotas
+peloton
 peltately
 peltation
 pelter
@@ -38032,6 +38053,7 @@ propmen
 propone
 proponing
 proportion
+proportional
 proportionality
 proportionals
 proportions
@@ -40609,6 +40631,7 @@ remissibly
 remissions
 remitment
 remits
+remittals
 remittance
 remittances
 remitter
@@ -41092,6 +41115,7 @@ resinates
 resinating
 resinified
 resinlike
+resinoid
 resiny
 resistances
 resisters
@@ -41734,6 +41758,7 @@ rijsttafel
 rijsttafels
 rikishas
 rikshaws
+rile
 riled
 riling
 rille
@@ -41937,6 +41962,7 @@ romanised
 romanises
 romanising
 romanization
+romanizes
 romano
 romanos
 romantic
@@ -48544,6 +48570,7 @@ tachyonic
 tacitness
 tacitnesses
 tacker
+tackiest
 tackified
 tackifier
 tackiness
@@ -49426,6 +49453,7 @@ thematic
 theme
 thenage
 thenages
+thenars
 thenceforward
 theobromine
 theocentric
@@ -49689,6 +49717,7 @@ throwaway
 throwaways
 thrower
 throws
+thrummer
 thrums
 thruput
 thrusted
@@ -50246,6 +50275,7 @@ touchiest
 touchpad
 touchup
 touchwoods
+touchy
 tough
 toughened
 tougheners
@@ -50916,6 +50946,7 @@ trophy
 trophying
 tropicalizing
 tropicals
+tropin
 tropines
 tropism
 tropisms
@@ -52304,6 +52335,7 @@ unmitering
 unmixt
 unmodernized
 unmodified
+unmolded
 unmoored
 unmooring
 unmoralities
@@ -53665,6 +53697,7 @@ vivisect
 vivisection
 vivisectionist
 vivisectionists
+vixenish
 vizierate
 vizierial
 vocable
@@ -54252,6 +54285,7 @@ weirder
 weirdly
 weirdness
 weirdo
+weirdy
 weirs
 weisenheimers
 welched
@@ -54876,6 +54910,7 @@ woolmen
 woolpack
 woolshed
 wooly
+woopsed
 woopses
 wooralis
 woos
