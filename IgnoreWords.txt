@@ -3569,6 +3569,7 @@ bandsaw
 bandsaws
 bandshells
 bandstand
+bandstands
 bandwagons
 bandwidths
 baneful
@@ -3786,6 +3787,7 @@ basking
 basmatis
 basophiles
 basophilia
+basophilic
 basque
 bass
 basseted
@@ -5044,6 +5046,7 @@ blowback
 blowball
 blowballs
 blowby
+blowbys
 blowdown
 blowhard
 blowier
@@ -10534,6 +10537,7 @@ counterargument
 counterassault
 counterattacked
 counterattacker
+counterbids
 counterblockade
 counterblow
 counterblows
@@ -15913,6 +15917,7 @@ ensouled
 ensuing
 ensure
 ensuring
+enswathe
 enswathing
 entablature
 entail
@@ -17249,6 +17254,7 @@ fading
 fadings
 fadlike
 fads
+faecal
 faeces
 faena
 faenas
@@ -17405,6 +17411,7 @@ farinose
 farle
 farles
 farls
+farmable
 farmhouses
 farmwife
 farmwives
@@ -20161,6 +20168,7 @@ gleamier
 gleamiest
 gleamy
 gleaners
+gleaning
 glebeless
 glede
 glee
@@ -23943,6 +23951,7 @@ index
 indexations
 indexer
 indexers
+indexicals
 indicate
 indicates
 indicating
@@ -25849,6 +25858,7 @@ kent
 kente
 kepped
 keps
+kept
 keratinizing
 keratinophilic
 keratins
@@ -26813,6 +26823,7 @@ leggin
 legginesses
 legging
 leggy
+legislation
 legislatively
 legislatorial
 legislatorship
@@ -27124,6 +27135,7 @@ ligular
 ligulated
 liguloid
 ligure
+ligures
 likabilities
 likability
 like
@@ -28102,6 +28114,7 @@ makebate
 makebates
 makefast
 makeovers
+maker
 makeready
 makeshift
 makeshifts
@@ -29765,6 +29778,7 @@ misdirected
 misdirecting
 misdistribution
 misdivision
+misdoing
 misdoubted
 misdoubting
 misdoubts
@@ -31290,6 +31304,7 @@ necessities
 necessitously
 necessitousness
 necessity
+neck
 neckband
 neckcloths
 neckerchief
@@ -32093,6 +32108,7 @@ nonnews
 nonnoble
 nonnovels
 nonnuclear
+nonnucleated
 nonnumerical
 nonobjective
 nonobscene
@@ -34043,6 +34059,7 @@ overintensities
 overinvestment
 overissue
 overjoying
+overkilling
 overlabor
 overlaboring
 overlade
@@ -35257,6 +35274,7 @@ pedologic
 pedological
 pedologists
 pedometers
+pedophilia
 pedro
 pedros
 peduncles
@@ -35494,6 +35512,7 @@ peregrins
 pereia
 pereion
 pereions
+pereon
 pereopod
 pereopods
 perfect
@@ -36118,6 +36137,7 @@ picayunish
 piccolo
 piccoloist
 pice
+picholine
 pick
 pickabacks
 pickaroon
@@ -36199,6 +36219,7 @@ pigeonites
 piggie
 piggies
 piggin
+pigginess
 piggins
 piggishnesses
 piggy
@@ -36609,6 +36630,7 @@ playgroups
 playhouse
 playland
 playlands
+playmakers
 playmaking
 playmate
 playoffs
@@ -36728,6 +36750,7 @@ plumpening
 plumpens
 plumpers
 plumpish
+plumpness
 plums
 plumules
 plumulose
@@ -38293,6 +38316,7 @@ propagandizes
 propagandizing
 propagate
 propagated
+propagates
 propellent
 propellor
 propellors
@@ -39317,6 +39341,7 @@ rabbi
 rabbinate
 rabbinates
 rabbinical
+rabbis
 rabbit
 rabbiters
 rabbiting
@@ -41694,6 +41719,7 @@ retrenches
 retrenching
 retrenchment
 retried
+retries
 retrievable
 retrieved
 retriever
@@ -42416,6 +42442,7 @@ roundish
 roundlet
 roundly
 roundnesses
+rounds
 roundsmen
 roundtrip
 roundup
@@ -45748,6 +45775,7 @@ sobrieties
 socagers
 sociablenesses
 socialise
+socialised
 socialises
 socialisms
 socialist
@@ -49273,6 +49301,7 @@ taxols
 taxonomically
 taxonomies
 taxonomy
+taxpaid
 taxwise
 taxying
 tazza
@@ -49739,6 +49768,7 @@ tetroxides
 tetroxids
 tetryls
 teutonize
+tevatron
 tevatrons
 tew
 texas
@@ -52379,6 +52409,7 @@ uneases
 uneasier
 uneasy
 uneaten
+uneccentric
 unecological
 uneffaced
 unelectable
@@ -52455,6 +52486,7 @@ unformulated
 unframed
 unfreedoms
 unfrees
+unfreeze
 unfreezing
 unfriended
 unfriendliness
@@ -52963,6 +52995,7 @@ unsurpassed
 unsurprising
 unsusceptible
 unsuspecting
+unswathes
 unswearing
 unswerving
 unsworn
@@ -53866,6 +53899,7 @@ videophile
 videotape
 videotaping
 vidicon
+vids
 viduities
 viers
 viewable
@@ -55648,6 +55682,7 @@ youpons
 yourn
 yours
 yourself
+yourselves
 yous
 youthening
 youthful
