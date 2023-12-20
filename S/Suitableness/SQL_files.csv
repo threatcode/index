@@ -1,0 +1,4 @@
+WebLogic,http://mpi.pasca.ummgl.ac.id/config/config.sql
+ePowerSwitch,http://185.14.187.205:8000/1.sql
+Azureus : Java BitTorrent Client Tracker,http://103.149.203.57/main.sql
+supervisioncam,http://37.235.48.144:5984/login/servlet/administrator/components/com_comprofiler/plugin.class.php/db_backup.sql
