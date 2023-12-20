@@ -177,6 +177,7 @@ acclimates
 acclimation
 acclimatised
 acclimatises
+acclimatized
 acclimatizing
 acclivities
 accolades
@@ -1145,6 +1146,7 @@ alleviation
 alleviator
 alleviators
 alley
+alleyway
 allheals
 allicin
 allies
@@ -1711,6 +1713,7 @@ annals
 annas
 annexationist
 annexationists
+annexing
 annihilates
 annihilations
 annihilator
@@ -5763,6 +5766,7 @@ brimfull
 brimstones
 brimstony
 bringing
+brinier
 brinies
 brininesses
 brinkmanship
@@ -6696,6 +6700,7 @@ canfields
 canful
 cangue
 cangues
+caning
 caninity
 canistel
 canistels
@@ -10761,6 +10766,7 @@ cratering
 craterings
 craterlet
 cratonic
+craunch
 craunches
 cravats
 cravenness
@@ -12421,6 +12427,7 @@ demoralizing
 demos
 demoted
 demotist
+demotists
 demulcent
 demureness
 demurrage
@@ -15357,6 +15364,7 @@ embosomed
 emboss
 embossed
 embosser
+emboweling
 embowelling
 embowels
 embower
@@ -16094,6 +16102,7 @@ epoxidations
 epoxide
 epoxides
 epoxidize
+epoxidizing
 epoxied
 epoxies
 epsilon
@@ -18553,6 +18562,7 @@ forebay
 foreboder
 foreboders
 foreboding
+forebody
 foreboom
 foreby
 forecasted
@@ -18588,6 +18598,7 @@ forejudges
 forejudging
 foreknew
 foreknowledge
+foreknown
 foreladies
 forelocks
 foreman
@@ -18645,6 +18656,7 @@ forewarning
 foreword
 forewords
 foreworn
+foreyards
 forfeitable
 forfeited
 forfeiting
@@ -19975,6 +19987,7 @@ girthed
 girthing
 gist
 gists
+git
 gite
 gits
 gittern
@@ -24720,6 +24733,7 @@ intracompany
 intractably
 intraday
 intradermal
+intrados
 intragalactic
 intramuscular
 intranasal
@@ -25620,6 +25634,7 @@ kaolin
 kaolines
 kaolinitic
 kaolins
+kaph
 kapoks
 kaput
 karabiners
@@ -27767,6 +27782,7 @@ lysogenize
 lysogenizes
 lysosomal
 lysosome
+lysozyme
 lysozymes
 lyssa
 lytta
@@ -27989,6 +28005,7 @@ malfunction
 malfunctioned
 malfunctions
 malicious
+maliciously
 malign
 malignance
 malignancies
@@ -30798,6 +30815,7 @@ myalgic
 myceloid
 mycetomas
 mycetophagous
+mycetozoan
 mycoflora
 mycoflorae
 mycologic
@@ -33087,6 +33105,7 @@ oscillates
 oscillating
 oscillograph
 oscilloscope
+oscilloscopic
 oscitant
 oscular
 osculate
@@ -36289,6 +36308,7 @@ plagiotropic
 plaguey
 plaice
 plaid
+plainclothesman
 plaining
 plainness
 plainsman
@@ -37192,6 +37212,7 @@ prams
 pranced
 prancers
 prances
+prandial
 pranged
 prangs
 prank
@@ -37744,6 +37765,7 @@ previsioned
 previsits
 prevocational
 prevuing
+prewar
 prewarmed
 prewarming
 prewarn
@@ -38697,6 +38719,7 @@ purtiest
 purvey
 purveyor
 purview
+purviews
 puses
 pushcart
 pushcarts
@@ -39061,6 +39084,7 @@ quippish
 quippu
 quippus
 quirked
+quirts
 quislingisms
 quitches
 quitclaim
@@ -40578,6 +40602,7 @@ relating
 relation
 relationally
 relationships
+relatively
 relativism
 relativisms
 relativities
@@ -42827,6 +42852,7 @@ sartor
 sartors
 sashaying
 sashed
+sashimis
 sashless
 saskatoon
 sasquatch
@@ -44389,6 +44415,7 @@ shortfall
 shorthairs
 shorthands
 shortheads
+shortie
 shortlisted
 shortlisting
 shortlists
@@ -45657,6 +45684,7 @@ solstitial
 solubilized
 solubly
 solum
+solums
 solunar
 solvable
 solvated
@@ -46402,6 +46430,7 @@ squalors
 squamosals
 squamose
 squamulose
+squanderers
 squandering
 squared
 squareness
@@ -46573,6 +46602,7 @@ stane
 stanes
 stanged
 stangs
+stannaries
 stannic
 stannites
 stanol
@@ -47979,6 +48009,7 @@ superhypes
 superhyping
 superimposed
 superimposing
+superincumbent
 superinfecting
 superintend
 superintendents
@@ -50028,6 +50059,7 @@ tippler
 tippytoeing
 tipsheet
 tipsier
+tipster
 tipsy
 tiptoed
 tiptops
@@ -50951,6 +50983,7 @@ tripod
 tripodal
 tripods
 tripos
+trippier
 trippingly
 trippings
 triptanes
@@ -52700,6 +52733,7 @@ unsurpassed
 unsurprising
 unsusceptible
 unsuspecting
+unswearing
 unswerving
 unsworn
 unsympathetic
@@ -55217,6 +55251,7 @@ xylographing
 xylographs
 xylography
 xylophage
+xyloses
 xylotomy
 xylyl
 xylyls
