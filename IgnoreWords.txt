@@ -1471,6 +1471,7 @@ amus
 amusement
 amusements
 amusers
+amusing
 amusingnesses
 amygdale
 amygdales
@@ -1521,6 +1522,7 @@ anagrammatical
 analcimes
 analcites
 analecta
+analectic
 analects
 analemmata
 analgesias
@@ -2283,6 +2285,7 @@ approaches
 approbation
 appropriateness
 appropriation
+approval
 approvals
 approve
 approved
@@ -2486,6 +2489,7 @@ ariels
 arietta
 ariettas
 arillode
+arillodes
 arising
 aristae
 aristate
@@ -2546,6 +2550,7 @@ arrayers
 arrays
 arrearages
 arrest
+arrestants
 arrestees
 arresting
 arrestive
@@ -4599,6 +4604,7 @@ billbug
 billers
 billet
 billeted
+billeter
 billeters
 billeting
 billfold
@@ -9697,6 +9703,7 @@ condemnations
 condensational
 condensations
 condense
+condensing
 condescended
 condescension
 condign
@@ -12254,6 +12261,7 @@ deficiencies
 defiers
 defiled
 defilements
+defilers
 definers
 definite
 definitely
@@ -16655,6 +16663,7 @@ euphemizes
 euphenic
 euphonies
 euphonium
+euphonized
 euphonizing
 euphorbia
 euphoria
@@ -19408,6 +19417,7 @@ furbearer
 furbelowing
 furbelows
 furbishing
+furcate
 furcated
 furcately
 furcates
@@ -20031,6 +20041,7 @@ geosynclines
 geotaxis
 geotectonically
 geothermally
+geotropism
 geraniol
 gerbera
 gerbil
@@ -26980,6 +26991,7 @@ legitimacies
 legitimating
 legitimatized
 legitimises
+legitimisms
 legitimize
 legitimizers
 legitimizing
@@ -27298,6 +27310,7 @@ likens
 likers
 likewise
 lilac
+lilangeni
 lilies
 lilliput
 lilliputian
@@ -29313,6 +29326,7 @@ metamorphisms
 metanalyses
 metaphysical
 metaphysician
+metaplasms
 metaplastic
 metasequoia
 metasomatism
@@ -31852,6 +31866,7 @@ nihilistic
 nihility
 nilgai
 nills
+nilpotents
 nils
 nimbi
 nimble
@@ -32546,6 +32561,7 @@ nounal
 nounally
 nouns
 nourish
+nourished
 nourisher
 nourishments
 nous
@@ -32717,6 +32733,7 @@ obdurately
 obeah
 obeahism
 obeahs
+obedient
 obeisance
 obeisantly
 obelias
@@ -33048,10 +33065,12 @@ oiticica
 okapi
 okapis
 okayed
+okaying
 okes
 okra
 oldies
 oldsquaws
+oleanders
 oleandomycins
 oleates
 olecranal
@@ -34389,6 +34408,7 @@ overset
 oversets
 oversews
 oversexed
+overshade
 overshadowed
 overshadowing
 overshadows
@@ -34624,6 +34644,7 @@ pacifical
 pacifies
 pacifisms
 pacifist
+pacifists
 packabilities
 packability
 packable
@@ -37514,6 +37535,7 @@ potassic
 potations
 potatobugs
 potboiled
+potboils
 potency
 potent
 potentials
@@ -38051,6 +38073,7 @@ presentational
 presentative
 presentees
 presentenced
+presentencing
 presenter
 presentism
 preservability
@@ -39457,6 +39480,7 @@ quiddities
 quiescently
 quieted
 quietened
+quieteners
 quietening
 quietens
 quietest
@@ -40171,6 +40195,7 @@ recatalog
 recataloging
 recatalogs
 recaution
+recautions
 recce
 recedes
 receding
@@ -41573,6 +41598,7 @@ reseasons
 reseating
 reseats
 resectabilities
+resected
 resecure
 resecures
 reseeds
@@ -43057,6 +43083,7 @@ salesmen
 salespersons
 saleswoman
 saleswomen
+salicylate
 salicylates
 saliencies
 saliency
@@ -44358,6 +44385,7 @@ septums
 septupled
 septuples
 septupling
+sepulchrally
 sepulchres
 sepulchring
 sepulture
@@ -44688,6 +44716,7 @@ shellackings
 shelled
 sheller
 shellfishery
+shelling
 shellworks
 shelta
 shelterbelt
@@ -46353,6 +46382,7 @@ sourpuss
 sours
 sousaphone
 souses
+soutane
 souters
 south
 southeast
@@ -48225,6 +48255,7 @@ succussed
 suchness
 sucked
 suckering
+suckers
 suckle
 suckler
 sucks
@@ -50225,6 +50256,7 @@ think
 thinkable
 thinker
 thinkings
+thinner
 thins
 thio
 thiols
@@ -53472,6 +53504,7 @@ upreach
 upreached
 uprear
 uprearing
+uprightness
 uprise
 uprisen
 uprisings
@@ -55872,6 +55905,7 @@ yawner
 yawningly
 yawns
 yawping
+yawps
 yaws
 yay
 yclept
@@ -56130,6 +56164,7 @@ zonked
 zonking
 zonular
 zonule
+zoochores
 zoogamete
 zoogenies
 zoogeny
