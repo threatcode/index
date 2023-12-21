@@ -1740,6 +1740,7 @@ anlagen
 annalistic
 annals
 annas
+annelidan
 annexationist
 annexationists
 annexing
@@ -10136,6 +10137,7 @@ contrition
 contritions
 contrived
 contriver
+contrives
 contriving
 controlled
 controller
@@ -11348,6 +11350,7 @@ cull
 cullays
 cullender
 cullenders
+cullied
 cullion
 cullions
 cullis
@@ -14299,6 +14302,7 @@ dogmatisms
 dogmatists
 dogmatization
 dogmatizing
+dognaper
 dogs
 dogsbody
 dogsled
@@ -14659,6 +14663,7 @@ dreamers
 dreamful
 dreamfulness
 dreamfulnesses
+dreamily
 dreaminesses
 dreaming
 dreamlands
@@ -15138,6 +15143,7 @@ ecbolics
 ecclesia
 ecclesiae
 ecclesiastical
+ecclesiasticism
 ecclesiological
 ecclesiology
 ecesises
@@ -17324,6 +17330,7 @@ eyebright
 eyebrights
 eyebrow
 eyednesses
+eyedropper
 eyedrops
 eyefolds
 eyehole
@@ -18383,6 +18390,7 @@ flatnesses
 flatted
 flattener
 flattening
+flattens
 flattish
 flattop
 flatulency
@@ -18475,6 +18483,7 @@ flimsier
 flimsies
 flimsily
 flimsinesses
+flinchers
 flinches
 flinders
 fling
@@ -21329,6 +21338,7 @@ gushiness
 gushingly
 gussie
 gussies
+gussying
 gustable
 gustables
 gustative
@@ -21893,6 +21903,7 @@ headiest
 heading
 headlessness
 headlights
+headline
 headliners
 headlocks
 headmen
@@ -24787,6 +24798,7 @@ integrand
 integrants
 integrations
 integrators
+integrity
 integumentary
 intellections
 intellective
@@ -26968,6 +26980,7 @@ lazes
 lazied
 lazies
 lazinesses
+lazulis
 lazurite
 lazurites
 lazying
@@ -28380,6 +28393,7 @@ mainlander
 mainsail
 mainsails
 mainstreams
+maintenance
 maiolicas
 maisonettes
 maist
@@ -30544,6 +30558,7 @@ monism
 monistic
 monists
 monitor
+monitoring
 monkeyshines
 monkhood
 monkish
@@ -32630,6 +32645,7 @@ noseband
 nosedive
 nosedived
 nosedives
+nosedove
 noseguard
 noses
 nosewheel
@@ -32707,6 +32723,7 @@ nowadays
 noway
 nowhere
 nowise
+nowness
 nownesses
 nowts
 noxious
@@ -36108,6 +36125,7 @@ pestilential
 pestled
 pestles
 petabyte
+petabytes
 petalody
 petaloid
 petalous
@@ -37368,6 +37386,7 @@ polyolefins
 polyomas
 polyp
 polypary
+polyped
 polypeptide
 polypetalous
 polyphase
@@ -37848,6 +37867,7 @@ prebilled
 prebilling
 prebills
 prebind
+prebinds
 prebiologic
 preboard
 preboarded
@@ -38773,6 +38793,7 @@ proscribe
 proscribers
 proscribes
 proscribing
+proscription
 prosecting
 prosecute
 prosecutes
@@ -40096,6 +40117,7 @@ ravagements
 ravaging
 rave
 ravel
+raveled
 ravelled
 ravellers
 ravelly
@@ -41588,6 +41610,7 @@ reposition
 repossession
 repossessions
 repouring
+repping
 repps
 reprehended
 reprehends
@@ -41843,6 +41866,7 @@ resinoid
 resiny
 resistances
 resisters
+resistible
 resistive
 resistless
 resistlessness
@@ -43980,6 +44004,7 @@ screenplays
 screens
 screenwriters
 screes
+screwable
 screwball
 screwbean
 screwbeans
@@ -46181,6 +46206,7 @@ snuffing
 snuffler
 snufflier
 snuffs
+snugged
 snugger
 snuggeries
 snuggles
@@ -46806,6 +46832,7 @@ spherical
 sphericities
 spheroid
 spheroidally
+spheroplast
 spherular
 spherulites
 spherulitic
@@ -47043,6 +47070,7 @@ spreaders
 spreadsheets
 sprees
 sprent
+sprier
 spriest
 sprigged
 spriggers
@@ -48323,6 +48351,7 @@ subspecialists
 subspecialize
 subspecialized
 substage
+substages
 substantially
 substantiated
 substantiating
@@ -48448,6 +48477,7 @@ sudatoriums
 sudden
 suddenness
 suddens
+sudoral
 sudors
 sudser
 sudsers
@@ -50682,6 +50712,7 @@ tiebreak
 tiebreakers
 tiebreaks
 tied
+tieless
 tiepins
 tiercels
 tiercerons
@@ -50727,6 +50758,7 @@ tilts
 timaraus
 timbal
 timber
+timberhead
 timberland
 timberlines
 timbermen
@@ -54514,6 +54546,7 @@ virion
 virtuality
 virtue
 virtuosa
+virtuoso
 virtuous
 virtuously
 virucides
@@ -54928,6 +54961,7 @@ warinesses
 waring
 warisons
 warlordism
+warm
 warmheartedness
 warmness
 warmnesses
@@ -55051,6 +55085,7 @@ waterproofs
 waters
 watershed
 watersheds
+waterside
 waterspouts
 watertight
 waterway
