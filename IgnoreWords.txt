@@ -3641,6 +3641,7 @@ banners
 bannister
 bannisters
 banqueters
+banquette
 banshee
 banshies
 bantamweight
@@ -5040,6 +5041,7 @@ blob
 blobbed
 bloc
 blockades
+blockage
 blockbusted
 blockers
 blockheads
@@ -6614,6 +6616,7 @@ californium
 califs
 calipee
 caliper
+calipered
 caliph
 caliphal
 caliphates
@@ -6674,6 +6677,7 @@ calvados
 calvarial
 calves
 calyculi
+calyculus
 calypsos
 calypter
 calyx
@@ -8604,6 +8608,7 @@ clawed
 clawing
 clawlike
 clay
+claybanks
 clayed
 clayey
 clayier
@@ -8961,6 +8966,7 @@ cockboats
 cockcrow
 cockerel
 cockerels
+cockfights
 cockhorse
 cockiest
 cockiness
@@ -11125,6 +11131,7 @@ cropper
 croppies
 crops
 croquettes
+croquis
 crosier
 crosiers
 cross
@@ -13936,6 +13943,7 @@ dispersal
 disperser
 disperses
 dispersion
+dispersive
 dispiriting
 dispiteous
 displaceable
@@ -14964,6 +14972,7 @@ duumvir
 duumviri
 duvet
 duvetines
+duvetyne
 dwarfer
 dwarfing
 dwarfish
@@ -16415,6 +16424,7 @@ erodable
 erodible
 eros
 erosely
+eroses
 erosionally
 erosivity
 erotica
@@ -16611,6 +16621,7 @@ ethinyls
 ethionamides
 ethmoidal
 ethmoids
+ethnic
 ethnical
 ethnicities
 ethnobotanical
@@ -16639,6 +16650,7 @@ ethylenes
 ethyne
 ethynyls
 etic
+etiolating
 etiologic
 etiquettes
 etwees
@@ -17207,6 +17219,7 @@ externe
 externes
 exteroceptive
 extinct
+extinguished
 extinguishers
 extirpate
 extirpates
@@ -18327,6 +18340,7 @@ flaps
 flare
 flares
 flareup
+flashboard
 flashboards
 flashbulbs
 flashcard
@@ -18901,6 +18915,7 @@ forevernesses
 forevers
 forewarned
 forewarning
+forewing
 foreword
 forewords
 foreworn
@@ -19842,6 +19857,7 @@ gastronomists
 gastroscope
 gastroscopy
 gastrotrichs
+gastrulas
 gastrulating
 gastrulations
 gasts
@@ -23865,6 +23881,7 @@ inactivates
 inactivating
 inactive
 inactively
+inactivity
 inadequateness
 inadmissibly
 inadvertently
@@ -25937,6 +25954,7 @@ kabikis
 kabobs
 kabuki
 kaddish
+kaddishes
 kadi
 kaes
 kaffir
@@ -26487,6 +26505,7 @@ kyboshing
 kylix
 kythed
 laagering
+lab
 labanotation
 labarum
 labarums
@@ -26796,6 +26815,7 @@ lastingness
 latchkeys
 laten
 lateness
+latents
 later
 laterad
 lateralization
@@ -27211,6 +27231,7 @@ levodopas
 levogyre
 levulins
 levuloses
+lewder
 lewises
 lewissons
 lexemic
@@ -29408,6 +29429,7 @@ metastasis
 metastasize
 metastasizes
 metatag
+metatarsal
 metatarsi
 metatarsus
 metathetic
@@ -30668,6 +30690,7 @@ moots
 mopboards
 mopery
 mopiest
+mopiness
 mopinesses
 mopishly
 mopokes
@@ -31556,6 +31579,7 @@ nebbishy
 nebula
 nebule
 nebulise
+nebulised
 nebulize
 nebulized
 nebulizers
@@ -34189,6 +34213,7 @@ overconsumption
 overcooks
 overcool
 overcorrected
+overcounting
 overcramming
 overcrams
 overcredulous
@@ -34615,6 +34640,7 @@ overzealous
 oviduct
 ovine
 ovipara
+oviposit
 ovipositional
 ovipositor
 ovisacs
@@ -36364,6 +36390,7 @@ phraseology
 phrasing
 phratric
 phratries
+phrenologies
 phrensied
 phthalates
 phthalin
@@ -37262,6 +37289,7 @@ polyandry
 polyanthas
 polyanthi
 polybrid
+polybutadienes
 polycarbonates
 polycarpies
 polycarpy
@@ -38127,6 +38155,7 @@ prerecord
 prerecording
 prerecords
 prereleasing
+prerequiring
 prerequisites
 preretirement
 prereturn
@@ -40010,6 +40039,7 @@ rationalising
 rationality
 rationally
 ratios
+ratlin
 ratooning
 ratoons
 ratos
@@ -45253,6 +45283,7 @@ signors
 signory
 signposted
 signposts
+signs
 sika
 siker
 silane
@@ -45560,6 +45591,7 @@ skirmish
 skirmisher
 skirmishers
 skirting
+skirts
 skitter
 skitterier
 skitteriest
@@ -50381,6 +50413,7 @@ thins
 thio
 thiols
 thionic
+thionins
 thiotepa
 thiourea
 thioureas
@@ -50725,6 +50758,7 @@ tipis
 tippable
 tippet
 tippier
+tippiest
 tipple
 tippled
 tippler
@@ -52088,6 +52122,7 @@ twiddly
 twigging
 twigless
 twigs
+twilights
 twillings
 twills
 twin
