@@ -844,6 +844,7 @@ aglycones
 aglycons
 agma
 agminate
+agnates
 agnatic
 agnations
 agnizes
@@ -1466,6 +1467,7 @@ amputation
 amputees
 amtrack
 amtracs
+amucks
 amulets
 amus
 amusement
@@ -2022,6 +2024,7 @@ antired
 antireflective
 antireform
 antiritualisms
+antiromantic
 antiroyalists
 antirusts
 antis
@@ -2749,6 +2752,7 @@ assistance
 assistants
 assistantships
 assisters
+assistor
 associated
 associateship
 associating
@@ -4982,6 +4986,7 @@ blenders
 blennioid
 blepharoplast
 blepharoplasty
+blepharospasms
 blesbok
 blesbuck
 blesbucks
@@ -5471,6 +5476,7 @@ bossiest
 bossing
 bossisms
 bossy
+bosun
 bot
 botanic
 botanica
@@ -10215,6 +10221,7 @@ coordinative
 coordinators
 coot
 cooters
+copalm
 copalms
 copals
 copartner
@@ -10342,6 +10349,7 @@ cornbraided
 corncake
 corncrakes
 corncribs
+cornea
 corneal
 corneas
 corned
@@ -12562,6 +12570,7 @@ demulcent
 demureness
 demurrage
 demurred
+demyelinating
 demyelination
 demyelinations
 demystified
@@ -18830,6 +18839,7 @@ foreshadowing
 foreshank
 foresheets
 foreshores
+foreshortening
 foreshowing
 foreshown
 foreshows
@@ -18994,6 +19004,7 @@ foveae
 foveate
 foveolae
 foveole
+foveoles
 fowlings
 fowls
 foxgloves
@@ -19825,6 +19836,7 @@ gauged
 gault
 gaumed
 gaunt
+gauntleted
 gauntness
 gauntnesses
 gaur
@@ -22039,6 +22051,7 @@ hematology
 hematophagous
 hematozoon
 heme
+hemerocallis
 hemichordates
 hemimorphism
 hemimorphisms
@@ -26514,6 +26527,7 @@ ladyhoods
 ladylove
 ladypalms
 lagan
+lagans
 lagend
 laggardness
 laggards
@@ -26534,6 +26548,7 @@ laicize
 laid
 lair
 laird
+lairdly
 lairdship
 lairdships
 laired
@@ -26548,6 +26563,7 @@ lakeports
 laker
 lakes
 lakeshores
+lakhs
 lakier
 lallan
 lallans
@@ -29100,6 +29116,7 @@ memorialize
 memorializes
 memorializing
 memorials
+memories
 memorising
 memorize
 memorizers
@@ -30952,6 +30969,7 @@ multimillion
 multimodal
 multimode
 multination
+multinomials
 multinucleated
 multipack
 multipacks
@@ -30966,6 +30984,7 @@ multipath
 multipedes
 multipion
 multiple
+multiplet
 multiplets
 multiplexer
 multiplexes
@@ -32978,6 +32997,7 @@ ofay
 off
 offal
 offbeat
+offbeats
 offcast
 offcuts
 offed
@@ -34624,6 +34644,7 @@ ozonize
 ozonized
 ozonospheres
 pablums
+pabulum
 paca
 pacas
 pace
@@ -36452,6 +36473,7 @@ pigstick
 pigtail
 pigtailed
 pikas
+pikeman
 pikemen
 pikeperch
 pikeperches
@@ -38740,6 +38762,7 @@ protostars
 protosteles
 protostelic
 protostomes
+prototroph
 prototrophic
 prototype
 prototypes
@@ -44634,6 +44657,7 @@ shapeups
 shaping
 shards
 shareabilities
+shareability
 shareable
 sharecrop
 sharecrops
@@ -46045,6 +46069,7 @@ sober
 soberizes
 sobers
 sobrieties
+sobs
 socagers
 sociablenesses
 socialise
@@ -47500,6 +47525,7 @@ stole
 stoles
 stolidly
 stollen
+stoloniferous
 stolport
 stomach
 stomachache
@@ -47631,6 +47657,7 @@ stratal
 strategies
 strategists
 strategize
+strathspey
 strati
 stratigraphic
 stratocracies
@@ -49356,6 +49383,7 @@ tamari
 tamaris
 tamasha
 tambac
+tambak
 tambala
 tambour
 tambouras
@@ -49625,6 +49653,7 @@ teargassing
 tearier
 tearily
 teariness
+tearinesses
 tearing
 tearjerker
 tearoom
@@ -50594,6 +50623,7 @@ tinter
 tinters
 tints
 tintype
+tinwares
 tinwork
 tipcat
 tipcats
@@ -50759,6 +50789,7 @@ tombed
 tombolas
 tombolo
 tomboyish
+tomboys
 tombstones
 tomcat
 tomcats
@@ -53014,6 +53045,7 @@ unmeaning
 unmechanized
 unmeetly
 unmellow
+unmelodious
 unmelted
 unmercifully
 unmerry
@@ -53964,7 +53996,9 @@ vendable
 vendace
 vendee
 vendibly
+vendition
 vends
+vendue
 veneerer
 veneerings
 venenates
@@ -54929,6 +54963,7 @@ weariful
 wearifulness
 wearinesses
 wearing
+weasand
 weasands
 weasel
 weaselling
