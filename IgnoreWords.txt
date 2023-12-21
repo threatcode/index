@@ -1612,6 +1612,7 @@ ancientest
 ancients
 ancilla
 ancillary
+anconal
 anconeal
 ancones
 anconoid
@@ -1808,6 +1809,7 @@ ansate
 answer
 answerers
 answering
+answers
 antacid
 antagonist
 antagonistic
@@ -3572,6 +3574,7 @@ ballyragged
 ballyragging
 balmier
 balmy
+balneal
 baloney
 balsam
 balsaming
@@ -6273,6 +6276,7 @@ burghers
 burglarize
 burglarized
 burglarizing
+burglarproof
 burgle
 burgled
 burgling
@@ -8033,6 +8037,7 @@ chicken
 chickenhearted
 chickenshit
 chickories
+chickpea
 chicks
 chickweed
 chicory
@@ -8077,6 +8082,7 @@ chillies
 chilliest
 chillily
 chilliness
+chillinesses
 chilling
 chillis
 chillums
@@ -8462,6 +8468,7 @@ circumscribe
 circumscribes
 circumscription
 circumspect
+circumspection
 circumspections
 circumspectly
 circumstance
@@ -9315,6 +9322,7 @@ colombard
 colones
 colonial
 colonially
+colonisation
 colonising
 colonists
 colonitis
@@ -9383,6 +9391,7 @@ combatant
 combater
 combaters
 combatively
+comber
 combers
 combinable
 combinational
@@ -10686,6 +10695,7 @@ counterimages
 countering
 countermand
 countermands
+countermarched
 countermarching
 countermeasures
 countermines
@@ -10946,6 +10956,7 @@ cratonic
 craunch
 craunches
 cravats
+cravening
 cravenness
 cravens
 crawdad
@@ -16579,6 +16590,7 @@ especial
 esperance
 esperances
 espials
+espieglerie
 espiegleries
 espies
 espionage
@@ -21298,6 +21310,7 @@ guile
 guiled
 guileful
 guilefulness
+guillemot
 guilloche
 guillotined
 guillotining
@@ -25105,6 +25118,7 @@ intervened
 intervener
 interveners
 intervention
+interventions
 interviewed
 interviewee
 interviewing
@@ -25184,6 +25198,7 @@ intrepidity
 intricatenesses
 intrigue
 intrigues
+intriguing
 intro
 introduce
 introducers
@@ -26162,6 +26177,7 @@ kelvins
 kemp
 kenafs
 kendos
+kennelled
 kennelling
 kennels
 kenning
@@ -26439,6 +26455,7 @@ knaur
 knave
 knawels
 knead
+kneading
 kneecapping
 kneed
 kneel
@@ -28134,6 +28151,7 @@ lunching
 lunchmeat
 lunchtime
 lunes
+lunette
 lunettes
 lungans
 lunge
@@ -29899,6 +29917,7 @@ mimetic
 mimicked
 mimickers
 mimosa
+minacious
 minarets
 minatory
 mincemeats
@@ -33419,6 +33438,7 @@ openhandedly
 openings
 openmouthedness
 opennesses
+opens
 openwork
 opera
 operable
@@ -35302,6 +35322,7 @@ parhelion
 paries
 parietal
 parishioner
+parka
 parkettes
 parkings
 parkinsonian
@@ -36933,6 +36954,7 @@ placating
 placative
 placeable
 placed
+placeless
 placement
 placentas
 placentation
@@ -37134,6 +37156,7 @@ plethysmography
 pleuron
 pleuropneumonia
 plew
+plexes
 plexus
 plexuses
 pliabilities
@@ -39349,6 +39372,7 @@ purdah
 purdahs
 purdas
 pure
+pureblood
 purebreds
 puree
 pureeing
@@ -40378,6 +40402,7 @@ rebarbative
 rebater
 rebaters
 rebatos
+rebecks
 rebel
 rebeldom
 rebellion
@@ -40900,6 +40925,7 @@ reendows
 reenergizing
 reenforcing
 reengage
+reengaged
 reengagement
 reengagements
 reengaging
@@ -42232,6 +42258,7 @@ retrenching
 retrenchment
 retried
 retries
+retrievability
 retrievable
 retrieved
 retriever
@@ -42521,6 +42548,7 @@ richer
 riches
 richweed
 ricins
+ricinus
 ricketier
 rickets
 rickety
@@ -46126,6 +46154,7 @@ smuttiest
 smuttiness
 snacking
 snaffling
+snafu
 snafuing
 snafus
 snag
@@ -47459,6 +47488,7 @@ statin
 stating
 stationary
 stationer
+stationery
 stationmasters
 stations
 statism
@@ -49334,6 +49364,7 @@ symbolically
 symbolises
 symbolism
 symbolist
+symbolization
 symbolized
 symbolizer
 symbolizers
@@ -49997,6 +50028,7 @@ teenybopper
 teenyboppers
 tees
 teethed
+teether
 teethers
 teething
 teethridges
@@ -51265,6 +51297,7 @@ totters
 totting
 touchable
 touchbacks
+touchdowns
 toucher
 touchiest
 touchpad
@@ -51846,6 +51879,7 @@ triplexes
 triplicated
 triplicity
 triplites
+triploidy
 tripod
 tripodal
 tripods
@@ -53514,6 +53548,7 @@ unruffled
 unrumpled
 unrusted
 unsaddle
+unsalaried
 unsampled
 unsanctioned
 unsanitary
