@@ -685,6 +685,7 @@ aeropulses
 aerosat
 aerosats
 aerosol
+aerosolizations
 aerostat
 aerostats
 aesthetic
@@ -1408,6 +1409,7 @@ amidships
 amigos
 amin
 amino
+aminopeptidases
 aminophylline
 aminopterins
 aminopyrines
@@ -2216,6 +2218,7 @@ apologised
 apologising
 apologized
 apologizer
+apologues
 apology
 apolunes
 apomict
@@ -2656,6 +2659,7 @@ artinesses
 artisan
 artisanships
 artiste
+artistically
 artistries
 artlessly
 artlessnesses
@@ -3469,6 +3473,7 @@ bacteriologists
 bacteriolysis
 bacteriophage
 bacteriostat
+bacteriostats
 bacteriuria
 bacterizing
 bacula
@@ -4736,6 +4741,7 @@ bints
 bio
 bioassay
 bioassaying
+biochemically
 biochemicals
 biochemist
 biochemistries
@@ -7273,6 +7279,7 @@ carpogonia
 carpogonial
 carpooled
 carpoolers
+carport
 carports
 carpospore
 carr
@@ -7775,6 +7782,7 @@ chaffer
 chafferer
 chaffier
 chaffiest
+chaffinch
 chagrined
 chagrinning
 chagrins
@@ -11222,6 +11230,7 @@ crimping
 crimple
 crimps
 crimsoning
+cringe
 cringed
 cringers
 crinites
@@ -12828,6 +12837,7 @@ denigrate
 denigrates
 denigration
 denitrate
+denitrates
 denitrified
 denitrifies
 denitrify
@@ -14380,6 +14390,7 @@ diverters
 diverticula
 diverticular
 diverticulitis
+diverticuloses
 diverticulosis
 divertimento
 divertimentos
@@ -16484,6 +16495,7 @@ epiblasts
 epiboly
 epicalyxes
 epicardial
+epicarp
 epicedium
 epicenes
 epicenism
@@ -16730,6 +16742,7 @@ ervil
 eryngoes
 erysipelases
 erythorbate
+erythremia
 erythrisms
 erythrocyte
 erythrocytes
@@ -17046,6 +17059,7 @@ evaporate
 evasive
 evasively
 evasiveness
+evection
 eveners
 evenhanded
 evenhandedness
@@ -19388,6 +19402,7 @@ fractals
 fracti
 fractionalizing
 fractionate
+fractionates
 fractionation
 fractionator
 fractioned
@@ -21436,6 +21451,7 @@ grossulars
 grotesque
 grotesquely
 grotesqueries
+grotesques
 grotto
 grouched
 grouches
@@ -25039,6 +25055,7 @@ insipidly
 insistent
 insists
 insobrieties
+insociabilities
 insofar
 insolations
 insole
@@ -25308,6 +25325,7 @@ interlunar
 interlunary
 intermarriage
 intermarries
+intermeddle
 intermeddled
 intermeddling
 intermediacies
@@ -30944,6 +30962,7 @@ momentousnesses
 momes
 momism
 momisms
+mommas
 mommies
 momser
 mon
@@ -31445,6 +31464,7 @@ mudsill
 mudslide
 mudslides
 mudslingers
+mudslinging
 muensters
 mueslis
 muffineer
@@ -32301,6 +32321,7 @@ neurosurgeon
 neurosurgeons
 neurosurgery
 neurosurgical
+neuroticisms
 neurotics
 neurotoxic
 neurotoxicities
@@ -32579,6 +32600,7 @@ nominator
 nominee
 nomisms
 nomograms
+nomographs
 nomoi
 nomologic
 nonabsorptive
@@ -33250,6 +33272,7 @@ numbles
 numbness
 numbs
 numchuck
+numchucks
 numen
 numerated
 numerating
@@ -34044,6 +34067,7 @@ orographies
 orologists
 orometer
 oropharyngeal
+oropharynges
 oropharynx
 oropharynxes
 orotund
@@ -34090,6 +34114,7 @@ orthopterists
 orthopteroids
 orthorhombic
 orthotic
+ortolan
 ortolans
 oryx
 orzos
@@ -35423,6 +35448,7 @@ palls
 palm
 palmation
 palmed
+palmer
 palmerworm
 palmette
 palmettos
@@ -40999,6 +41025,7 @@ reclusiveness
 recoat
 recoats
 recocked
+recocking
 recodes
 recodifies
 recodifying
@@ -42892,6 +42919,7 @@ reweighs
 rewidening
 rewidens
 rewinds
+rewon
 reword
 rewords
 rewrap
@@ -46688,6 +46716,7 @@ snakinesses
 snapdragons
 snapped
 snappers
+snappiness
 snappinesses
 snapping
 snappishly
@@ -46743,6 +46772,7 @@ sniggles
 sniglet
 sniglets
 snip
+sniper
 snipers
 sniperscopes
 snipped
@@ -47678,6 +47708,7 @@ sporozoite
 sporozoites
 sported
 sportfishermen
+sportfishings
 sportfully
 sportiness
 sportive
@@ -48133,6 +48164,7 @@ stems
 stemware
 stemwares
 stenchier
+stenchiest
 stencil
 stencillers
 stenobaths
@@ -51920,6 +51952,7 @@ toxicant
 toxicities
 toxicological
 toxicologies
+toxicoses
 toxine
 toxines
 toxins
@@ -53387,6 +53420,7 @@ unconformities
 unconfounded
 unconfusing
 unconquerably
+unconquered
 unconsciously
 unconsecrated
 unconsolidated
@@ -53686,6 +53720,7 @@ unexcited
 unexciting
 unexcused
 unexpectedly
+unexplainable
 unexploded
 unexploited
 unexposed
