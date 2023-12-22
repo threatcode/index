@@ -1,0 +1,19 @@
+docker-azuracast-db/db.sql at main - GitHub,https://github.com/AzuraCast/docker-azuracast-db/blob/main/db.sql
+docker-pure-ftpd/examples/postgresql/users.sql at master - GitHub,https://github.com/crazy-max/docker-pure-ftpd/blob/master/examples/postgresql/users.sql
+/docker/postgres/init.sql | pgc4d@v1.3.6 | Deno,https://deno.land/x/pgc4d/docker/postgres/init.sql%3Fsource%3D
+mariadb_engine_7.6.0.sql - is:wip · Gerrit Code Review,https://gerrit.nordix.org/plugins/gitiles/onap/oom/%2B/38835affc720c0718d6c5183826f5c777c01770d/kubernetes/config/docker/init/src/config/mso/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/camunda/mariadb_engine_7.6.0.sql
+catalog_timestamp_mso_db.sql - is:wip · Gerrit Code Review,https://gerrit.onap.org/r/c/so/docker-config/%2B/14071/1/volumes/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/sub-sql-files/catalog_timestamp_mso_db.sql
+mirrors/seaweedfs - Angry.Im Software Forge,https://gitea.angry.im/mirrors/seaweedfs/src/commit/5c6c1e7e3085a4a41521bbcc360868a185f9a91c/docker/seaweedfs.sql
+docker/postgres/lectures/lecture04/07_levenshtein_distance.sql,https://git.cs.du.edu/nilmetin/nosql-db/-/blob/6242764464e0eb5ba9ff81ddb4ab4ccdfd3f61b7/docker/postgres/lectures/lecture04/07_levenshtein_distance.sql
+mysql_updates_7.3.0_to_7.6.0.sql - is:wip · Gerrit Code Review,https://gerrit.onap.org/r/c/oom/%2B/8951/2/kubernetes/config/docker/init/src/config/mso/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/camunda/mysql_updates_7.3.0_to_7.6.0.sql
+v0.13.0: beautiful timelines and scatter plots - SQLPage,https://sql.ophir.dev/blog.sql%3Fpost%3DSQLPage%2520v0.13
+PostGraphile/docker/db/angproj/0_runAllScripts.sql - GitLab OST,https://gitlab.ost.ch/db/dateng/-/blob/64eb3b1a16c1f0a6d48e0a7c25d2548ebc2e88ca/PostGraphile/docker/db/angproj/0_runAllScripts.sql
+invidious-docker - Gitea: Git with a cup of tea - altescy,https://git.altescy.jp/altescy/invidious-docker/blame/commit/1862754ddbcae9f244eea690037e33ee3b62ef3d/config/sql/session_ids.sql
+seno/docker-mysql-replication - Gogs,https://code.senomas.com/seno/docker-mysql-replication/src/b0ede3443a4f84f7a162444828b9f9137f1b06bb/slave/init-db.sql
+01_init.sql - git rthoni.com - Robin Thoni,https://git.rthoni.com/robin.thoni/docker-zabbix-server/src/commit/3a5ed3f58880aec0b7eb1625116055920301887e/postgresql/docker-entrypoint-initdb.d/01_init.sql%3Flang%3Dlv-LV
+silice-docker - dump - myDb.sql - Git CSIC,https://git.csic.es/76668655H/silice-docker/-/blob/83edf8fb0293d1c759fc6e084a71c4b05534cd77/dump/myDb.sql
+docker/mysql/20-data.sql - Christian Aberger - GitLab,https://gitlab.htl-perg.ac.at/c.aberger/jee-docker/-/blob/d1a35b74dd4d88ff40647c7811883b6a058ef134/docker/mysql/20-data.sql
+docker-entrypoint-initdb.d - 03_pg_similarity.sql - Inria GitLab,https://gitlab.inria.fr/DYLISS/samifier-docker/blob/71f7e96c254996e7f4046463c4d11aecd62de73a/image_making/server_configs/docker-entrypoint-initdb.d/03_pg_similarity.sql
+docker/database/data.sql · master · Code for my X-Team Blog ...,https://gitlab.com/x-team-blog/docker-compose-php/blob/master/docker/database/data.sql
+invidious-docker - Gitea: Git with a cup of tea - altescy,https://git.altescy.jp/altescy/invidious-docker/blame/branch/master/config/sql/playlist_videos.sql
+robin.thoni/docker-zabbix-server - git rthoni.com - Robin Thoni,https://git.rthoni.com/robin.thoni/docker-zabbix-server/src/46ccd85e9fc055a0cc154dfbec2070b31172805a/postgresql/docker-entrypoint-initdb.d/01_init.sql
