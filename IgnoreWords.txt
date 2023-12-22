@@ -328,6 +328,7 @@ acquired
 acquirement
 acquirements
 acquirers
+acquiring
 acquisitions
 acquisitiveness
 acquisitors
@@ -878,6 +879,7 @@ agnostics
 agone
 agonic
 agonised
+agonises
 agonistes
 agonists
 agonize
@@ -3566,6 +3568,7 @@ bakeware
 bakings
 baklava
 baklavas
+baklawa
 baklawas
 baksheesh
 bakshished
@@ -3898,6 +3901,7 @@ basins
 bask
 basketball
 basketfuls
+basketries
 basketry
 basking
 basmatis
@@ -5780,6 +5784,7 @@ brailles
 brails
 brain
 braincase
+brainchildren
 brainiac
 brainiest
 braininesses
@@ -5888,6 +5893,7 @@ breaststroker
 breaststrokers
 breath
 breathabilities
+breathe
 breathed
 breathinesses
 breathtaking
@@ -6817,6 +6823,7 @@ calypsos
 calypter
 calyx
 calzone
+calzones
 cam
 camails
 camaraderies
@@ -8570,6 +8577,7 @@ cinquefoil
 cions
 cipher
 ciphonies
+circle
 circles
 circuit
 circuital
@@ -9826,6 +9834,7 @@ conation
 conations
 conatus
 concanavalin
+concanavalins
 concatenating
 concatenation
 concatenations
@@ -11806,6 +11815,7 @@ cyanogenic
 cyanohydrin
 cyanohydrins
 cyanoses
+cyanosis
 cyans
 cyanurates
 cybercafes
@@ -12407,6 +12417,7 @@ decoding
 decollation
 decolonize
 decolonized
+decolonizes
 decolonizing
 decolored
 decoloring
@@ -12479,6 +12490,7 @@ dedicatee
 dedicator
 dedifferentiate
 deduce
+deducibly
 deducted
 deductible
 deductively
@@ -13192,6 +13204,7 @@ desks
 desman
 desmans
 desmid
+desmidian
 desmosomes
 desolate
 desolately
@@ -14468,6 +14481,7 @@ divertimentos
 divertissements
 dives
 divest
+divested
 divestiture
 divestitures
 divestments
@@ -19202,6 +19216,7 @@ forage
 foramen
 foraminifera
 foraminiferal
+forams
 forayers
 forays
 forbare
@@ -22240,6 +22255,7 @@ hassled
 hassles
 hassock
 hassocks
+hasted
 hasten
 hastening
 hastes
@@ -23836,6 +23852,7 @@ hyponymy
 hypopharynxes
 hypophysectomy
 hypophyses
+hypoploid
 hypopneas
 hypopyon
 hyposensitized
@@ -25863,6 +25880,7 @@ irredentas
 irreducibility
 irrefragability
 irrefragably
+irrefutability
 irrefutably
 irregardless
 irregular
@@ -29671,6 +29689,7 @@ meeds
 meek
 meekest
 meekly
+meerkats
 meerschaums
 meeter
 meeters
@@ -32017,6 +32036,7 @@ nabis
 nabobish
 nabobism
 nabobisms
+nabobs
 nacelle
 nacho
 nacres
@@ -34442,6 +34462,7 @@ outcrying
 outcursed
 outcursing
 outcurve
+outdanced
 outdancing
 outdared
 outdares
@@ -36525,6 +36546,7 @@ peptonized
 peptonizes
 peptonizing
 per
+perambulations
 perborates
 perceived
 perceiver
@@ -36867,6 +36889,7 @@ peytrel
 pfennigs
 phaeton
 phages
+phagocytes
 phagocytizing
 phagocytosing
 phalangeal
@@ -42515,6 +42538,7 @@ rerelease
 rereleases
 reremice
 rereminded
+rereminding
 rerent
 rerigged
 rerisen
@@ -46367,6 +46391,7 @@ sissy
 sistered
 sisterly
 sistrums
+sitars
 sitcoms
 sitologies
 sitology
@@ -47728,6 +47753,7 @@ spiceries
 spicery
 spices
 spicier
+spicily
 spicinesses
 spicks
 spiculae
@@ -48603,6 +48629,7 @@ stomacher
 stomachics
 stomaching
 stomata
+stomate
 stomatitis
 stomatopods
 stomodaeal
@@ -48747,6 +48774,7 @@ strawed
 strawflower
 strawworm
 strawy
+streak
 streakiest
 streakiness
 streambed
@@ -48926,6 +48954,7 @@ stupendousness
 stupider
 stupidities
 stupidly
+stupidnesses
 stupor
 stuporous
 stupors
@@ -50462,6 +50491,7 @@ talkier
 talkiness
 talks
 talky
+tallaisim
 taller
 talliers
 tallit
@@ -52683,6 +52713,7 @@ trimerisms
 trimesters
 trimeter
 trimeters
+trimetric
 trimetrogon
 trimetrogons
 trimmer
@@ -53226,6 +53257,7 @@ typification
 typist
 typograph
 typographer
+typographical
 typographies
 typographing
 typologist
@@ -55726,6 +55758,7 @@ voltaisms
 volubilities
 volumes
 volumeters
+volumetric
 voluming
 voluntarily
 voluntarinesses
@@ -56305,6 +56338,7 @@ wellheads
 wellholes
 wellhouse
 welling
+wellnesses
 wellsite
 welsh
 welter
@@ -57038,6 +57072,7 @@ wrest
 wresting
 wrestled
 wrestling
+wried
 wrigglers
 wriggles
 wriggly
