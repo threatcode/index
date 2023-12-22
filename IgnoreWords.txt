@@ -735,6 +735,7 @@ affordabilities
 affordability
 affordably
 afforestation
+afforested
 afforests
 affrayed
 affraying
@@ -1253,6 +1254,7 @@ alopecic
 alpaca
 alpacas
 alphabetization
+alphabetized
 alphabetizing
 alphosis
 alpinely
@@ -2022,6 +2024,7 @@ antiphon
 antiphonals
 antiphonaries
 antiphonies
+antiphrasis
 antipill
 antipiracy
 antipleasure
@@ -3088,6 +3091,7 @@ authorial
 authoring
 authorise
 authorised
+authorises
 authoritarians
 authoritative
 authorization
@@ -7061,6 +7065,7 @@ carambola
 caramel
 caramelise
 caramelises
+caramelising
 carangid
 carapace
 carapax
@@ -9164,6 +9169,7 @@ coercion
 coercions
 coercive
 coercivenesses
+coerect
 coerected
 coesites
 coeternal
@@ -9307,6 +9313,7 @@ colicweed
 colinearities
 colinearity
 colins
+colistins
 colitises
 collaborate
 collaborated
@@ -9926,6 +9933,7 @@ conflict
 confliction
 conflicts
 conflux
+conformers
 conforming
 conformism
 conformity
@@ -10927,6 +10935,7 @@ cowled
 cowlstaffs
 cowpats
 cowpoxes
+cowpuncher
 cowritten
 cowrote
 cowslips
@@ -12427,6 +12436,7 @@ definitely
 definiteness
 definitional
 definitions
+definitive
 definitiveness
 definitives
 defis
@@ -13050,6 +13060,7 @@ desolately
 desolater
 desolaters
 desolates
+desolations
 desolators
 desorbing
 desorbs
@@ -13171,6 +13182,7 @@ detonations
 detouring
 detoxes
 detoxification
+detoxifications
 detoxify
 detoxifying
 detract
@@ -16130,6 +16142,7 @@ enkindling
 enlace
 enlacement
 enlacements
+enlacing
 enlargeable
 enlargements
 enlargers
@@ -19935,6 +19948,7 @@ gangplanks
 gangrening
 gangsterdom
 gangsterdoms
+gangsterisms
 gangues
 gangway
 gangways
@@ -21410,6 +21424,7 @@ guarantor
 guarddog
 guardhouse
 guardian
+guardians
 guardianship
 guardianships
 guardrail
@@ -28639,6 +28654,7 @@ mailrooms
 maimed
 maimers
 maims
+mainframes
 mainlander
 mainsail
 mainsails
@@ -31339,6 +31355,7 @@ multifold
 multigenic
 multigrade
 multijet
+multilateral
 multilateralist
 multilayer
 multilayered
@@ -32260,6 +32277,7 @@ nightlong
 nightmarish
 nightmarishly
 nightscopes
+nightshades
 nightshirt
 nightside
 nightspot
@@ -33639,6 +33657,7 @@ opencast
 openers
 openhandedly
 openings
+openly
 openmouthedness
 opennesses
 opens
@@ -35206,6 +35225,7 @@ palestra
 palestrae
 palet
 palette
+palettes
 paleways
 palfreys
 palindrome
@@ -35523,6 +35543,7 @@ pareve
 parfleches
 parfleshes
 parfocal
+parget
 pargylines
 parhelion
 paries
@@ -35781,6 +35802,7 @@ pause
 paused
 pauser
 pavan
+pavane
 pave
 paved
 paveed
@@ -38543,6 +38565,7 @@ prescreen
 prescribers
 prescription
 prescriptions
+prescriptive
 preseason
 preseasons
 presence
@@ -39259,6 +39282,7 @@ providently
 providers
 providing
 provinces
+provincialisms
 provincialists
 provinciality
 proviruses
@@ -40801,6 +40825,7 @@ recoin
 recoined
 recollection
 recolonized
+recoloring
 recolors
 recombed
 recombinational
@@ -45599,6 +45624,7 @@ siccan
 siccative
 sice
 sickbed
+sickee
 sickener
 sickeningly
 sickens
@@ -45996,6 +46022,7 @@ skimming
 skimobiles
 skimped
 skimpier
+skimpiest
 skimpily
 skimping
 skimps
@@ -47277,6 +47304,7 @@ spinifexes
 spinnaker
 spinneret
 spinnerets
+spinnerettes
 spinners
 spinoffs
 spinosity
@@ -47286,6 +47314,7 @@ spinsters
 spinthariscope
 spinto
 spinulae
+spinule
 spiracle
 spiraeas
 spirality
@@ -52935,6 +52964,7 @@ unbiased
 unbiasedness
 unbid
 unbilled
+unbinding
 unbitted
 unbitten
 unblended
@@ -53150,6 +53180,7 @@ undefoliated
 undeformed
 undelivered
 undeluded
+undemocratic
 undeniably
 under
 underachieve
@@ -53698,6 +53729,7 @@ unmuffled
 unmuffles
 unmuzzling
 unnamable
+unnatural
 unnaturalnesses
 unnecessarily
 unneeded
@@ -53906,6 +53938,7 @@ unsocially
 unsoldierly
 unsoncy
 unsophisticated
+unsoundness
 unsowed
 unsown
 unspecifiable
@@ -56464,6 +56497,7 @@ wrist
 wristband
 wristbands
 writerly
+writers
 writhe
 writhen
 writs
@@ -56774,6 +56808,7 @@ zebrass
 zebrasses
 zecchin
 zecchinos
+zed
 zeins
 zeitgeber
 zemindaries
