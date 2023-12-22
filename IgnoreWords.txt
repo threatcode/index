@@ -68,6 +68,7 @@ absolved
 absolvers
 absolves
 absonant
+absorb
 absorbances
 absorbants
 absorbed
@@ -2737,6 +2738,7 @@ asphyxial
 asphyxias
 asphyxiation
 asphyxies
+aspirant
 aspirate
 aspired
 aspirer
@@ -4987,6 +4989,7 @@ blah
 blain
 blameful
 blamefully
+blamelessly
 blamelessnesses
 blamers
 blames
@@ -5104,6 +5107,7 @@ blizzards
 blob
 blobbed
 bloc
+blockaded
 blockades
 blockage
 blockbusted
@@ -5801,6 +5805,7 @@ bravadoes
 bravely
 braver
 bravoed
+bravoes
 bravura
 bravuras
 brawling
@@ -12489,6 +12494,7 @@ deflorations
 deflowerers
 defoam
 defoamer
+defoamers
 defoams
 defocus
 defocused
@@ -12766,6 +12772,7 @@ demotist
 demotists
 demounted
 demulcent
+demultiplexer
 demureness
 demurrage
 demurred
@@ -13156,6 +13163,7 @@ desulfurize
 desultorily
 desultorinesses
 desultory
+detachably
 detached
 detachers
 detaching
@@ -13378,6 +13386,7 @@ diagnoseable
 diagnosticians
 diagonal
 diagonalizes
+diagonals
 diagrammatic
 diagraph
 dial
@@ -14416,6 +14425,7 @@ dockhand
 dockmaster
 docks
 dockside
+dockworkers
 dockyard
 doctoral
 doctorates
@@ -15281,6 +15291,7 @@ earmuff
 earned
 earnestnesses
 earning
+earnings
 earns
 earring
 earringed
@@ -16161,6 +16172,7 @@ engrailing
 engrails
 engram
 engrammes
+engravings
 engrossed
 engrosser
 engrossment
@@ -18446,6 +18458,7 @@ firewalls
 firewaters
 firkins
 firmamental
+firmaments
 firmans
 firmer
 firmers
@@ -25402,6 +25415,7 @@ inthroned
 inti
 intifadah
 intifadahs
+intimacies
 intimacy
 intimateness
 intimater
@@ -25815,6 +25829,7 @@ isotachs
 isotheres
 isothermal
 isotone
+isotonicities
 isotonicity
 isotope
 isotopes
@@ -28133,6 +28148,7 @@ locular
 loculed
 locules
 loculicidal
+locums
 locust
 locustae
 locutories
@@ -28413,6 +28429,7 @@ lumberer
 lumbermen
 lumberyard
 lumberyards
+lumbrical
 lumens
 luminaire
 luminaires
@@ -33624,6 +33641,7 @@ okes
 okra
 oldies
 oldsquaws
+oleander
 oleanders
 oleandomycins
 oleates
@@ -34663,6 +34681,7 @@ overcomers
 overcomes
 overcommitment
 overcommits
+overcommitting
 overcommunicate
 overcompensated
 overcomplicated
@@ -35946,6 +35965,7 @@ pawpaw
 pawpaws
 paxwax
 paxwaxes
+payable
 payably
 paybacks
 paycheck
@@ -41137,6 +41157,7 @@ redear
 redecide
 redecorations
 redecorator
+rededicate
 redeemable
 redeemers
 redefeat
@@ -41416,6 +41437,7 @@ reflowering
 refluences
 refluent
 refocussed
+refolded
 reforestations
 reforested
 reforged
@@ -43025,6 +43047,7 @@ rigidness
 rigidnesses
 rigorism
 rigorous
+rigorousnesses
 rigour
 rijsttafel
 rijsttafels
@@ -44005,6 +44028,7 @@ sarape
 sarcasm
 sarcastically
 sarcocarps
+sarcolemma
 sarcology
 sarcoma
 sarcomata
@@ -44159,6 +44183,7 @@ saxhorns
 saxifrages
 saxonies
 saxophone
+saxophonic
 say
 sayest
 sayst
@@ -44556,6 +44581,7 @@ scrimmagers
 scrimpit
 scrimshanders
 scripted
+scripter
 scriptoria
 scriptorium
 scripts
@@ -46729,6 +46755,7 @@ snowbush
 snowcap
 snowcaps
 snowdrift
+snowdrifts
 snowfall
 snowfalls
 snowfield
@@ -46840,6 +46867,7 @@ softens
 softer
 softheaded
 softheadedly
+softheadedness
 softheads
 softheartedness
 softly
@@ -48366,6 +48394,7 @@ straddled
 straddlers
 straddles
 strafes
+strafing
 straggle
 straggler
 straggliest
@@ -50278,6 +50307,7 @@ tarletans
 tarmacking
 tarmacs
 tarnations
+tarnishable
 tarnishing
 tarns
 taro
@@ -51986,6 +52016,7 @@ transductions
 transections
 transfect
 transfecting
+transfection
 transferal
 transference
 transferential
@@ -52624,6 +52655,7 @@ tumbleset
 tumbleweed
 tumbleweeds
 tumblings
+tumbrels
 tumefaction
 tumefied
 tumesce
@@ -54165,6 +54197,7 @@ unswerving
 unsworn
 unsympathetic
 unsystematic
+unsystematized
 untack
 untacked
 untacking
@@ -55186,6 +55219,7 @@ virilely
 virilities
 virilizes
 virion
+viroids
 virtuality
 virtue
 virtuosa
@@ -57123,6 +57157,7 @@ zygosities
 zygospores
 zygote
 zygotic
+zymes
 zymogen
 zymogram
 zymograms
