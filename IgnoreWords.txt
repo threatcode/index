@@ -852,6 +852,7 @@ aggresses
 aggressing
 aggressive
 aggressivities
+aggressor
 agile
 agilenesses
 agilities
@@ -3436,6 +3437,7 @@ bacchantes
 bacchants
 bacchius
 baches
+bacitracin
 backbenchers
 backbends
 backbiting
@@ -5029,6 +5031,7 @@ blabbermouth
 black
 blackamoors
 blackball
+blackballing
 blackberries
 blackbirded
 blackbirder
@@ -7079,6 +7082,7 @@ cantered
 canters
 canthal
 cantharidins
+canthaxanthin
 canthitises
 canthus
 canticle
@@ -10261,6 +10265,7 @@ conscripting
 conscription
 conscripts
 consecution
+consensual
 consensus
 consensuses
 consenters
@@ -11270,6 +11275,7 @@ cravats
 cravening
 cravenness
 cravens
+craver
 crawdad
 crawfish
 crawfishing
@@ -13500,6 +13506,7 @@ deuterations
 deuterostome
 deutoplasms
 deva
+devaluates
 devaluation
 devalue
 devalued
@@ -16368,6 +16375,7 @@ endoparasite
 endoparasitic
 endopeptidase
 endopeptidases
+endoperoxides
 endophytes
 endorphins
 endorse
@@ -18324,6 +18332,7 @@ feel
 feelers
 feelingness
 feelingnesses
+feelings
 feetfirst
 feetless
 feezed
@@ -18356,6 +18365,7 @@ fells
 felonious
 felonries
 felons
+felsite
 felsites
 felstone
 felt
@@ -21981,6 +21991,7 @@ gunshot
 gunslinger
 gunslingers
 gurged
+gurging
 gurgle
 gurnard
 gurneys
@@ -26964,6 +26975,7 @@ keynoting
 keypunch
 keypuncher
 keypunches
+keysets
 keystone
 keystones
 keystroke
@@ -27063,6 +27075,7 @@ kilty
 kimchee
 kimchi
 kindergarten
+kindergarteners
 kindergartner
 kindest
 kindheartedly
@@ -28198,6 +28211,7 @@ lifts
 ligamentous
 ligaments
 ligan
+ligands
 ligate
 ligates
 ligating
@@ -29684,6 +29698,7 @@ maskers
 masking
 masochist
 masonic
+masonites
 masons
 masquerader
 masquerades
@@ -29748,6 +29763,7 @@ matambala
 match
 matchable
 matchboards
+matched
 matchless
 matchlock
 matchmake
@@ -31251,6 +31267,7 @@ mizzens
 mizzle
 mizzled
 mizzly
+mnemonically
 mo
 moa
 moaned
@@ -31543,6 +31560,7 @@ monotypes
 monotypic
 monounsaturate
 monounsaturated
+monounsaturates
 monovalent
 monoxides
 monsignori
@@ -34394,6 +34412,7 @@ optatively
 opted
 optimalities
 optimes
+optimised
 optimist
 optimizer
 optimizes
@@ -34622,6 +34641,7 @@ osmunda
 osmundine
 osprey
 ospreys
+ossatures
 osseous
 ossetras
 ossicle
@@ -37016,6 +37036,7 @@ perkish
 perlite
 permafrosts
 permalloys
+permanence
 permanences
 permanencies
 permanent
@@ -37515,6 +37536,7 @@ physicalnesses
 physicochemical
 physiognomic
 physiognomies
+physiographer
 physiography
 physiologic
 physiotherapy
@@ -37928,6 +37950,7 @@ placeable
 placed
 placeless
 placement
+placenta
 placentas
 placentation
 placet
@@ -41602,6 +41625,7 @@ recites
 recits
 reck
 reckless
+recklessness
 recladding
 reclaimed
 reclaimer
@@ -42567,6 +42591,7 @@ reminiscent
 reminiscer
 reminiscers
 reminiscing
+remints
 remised
 remises
 remissible
@@ -44900,6 +44925,7 @@ sawyer
 saxes
 saxhorn
 saxhorns
+saxifrage
 saxifrages
 saxonies
 saxophone
@@ -45571,6 +45597,7 @@ seek
 seeking
 seeled
 seeling
+seels
 seemed
 seemlier
 seep
@@ -45606,6 +45633,7 @@ seining
 seised
 seisin
 seising
+seisings
 seisins
 seismal
 seismic
@@ -48713,6 +48741,7 @@ starchiest
 starchily
 starching
 starchy
+starers
 starets
 starfish
 stargazed
@@ -52600,6 +52629,7 @@ torsk
 torso
 tort
 tortas
+torticollis
 tortiously
 tortuousnesses
 torture
@@ -54584,6 +54614,7 @@ ungraciousness
 ungraded
 ungratefulness
 ungreedy
+unground
 ungrouped
 unguents
 ungues
@@ -55061,6 +55092,7 @@ unsteels
 unstepped
 unstepping
 unstinted
+unstoppably
 unstopped
 unstoppered
 unstops
@@ -55225,6 +55257,7 @@ upbearer
 upbeat
 upboil
 upboils
+upbore
 upbow
 upbraids
 upbringing
@@ -56638,6 +56671,7 @@ wat
 wataps
 watch
 watchbands
+watchcry
 watchdogging
 watcher
 watchers
@@ -57071,6 +57105,7 @@ whistle
 whitecap
 whitecaps
 whitecombs
+whited
 whitefaces
 whiteflies
 whiteheads
