@@ -2591,6 +2591,7 @@ armillas
 arming
 armloads
 armlock
+armoires
 armor
 armorial
 armorials
@@ -4177,6 +4178,7 @@ bedrape
 bedraped
 bedrapes
 bedrenched
+bedrenches
 bedrenching
 bedriveling
 bedrock
@@ -5122,6 +5124,7 @@ bleeding
 bleedings
 bleep
 bleeper
+bleepers
 bleeps
 blellum
 blemishing
@@ -5865,6 +5868,7 @@ brasher
 brashest
 brasier
 brasileins
+brassarts
 brassbound
 brassed
 brassica
@@ -7781,6 +7785,7 @@ cephalexin
 cephalexins
 cephalically
 cephalins
+cephalometries
 cephaloridine
 cephalothoraces
 cephalothoraxes
@@ -9366,6 +9371,7 @@ cognizant
 cognize
 cognized
 cognizer
+cognomen
 cognomens
 cognominal
 cognoscible
@@ -9765,6 +9771,7 @@ compactly
 compactnesses
 compadres
 companied
+companionably
 companionate
 companionships
 companionway
@@ -13523,6 +13530,7 @@ dewaxes
 dewberries
 dewberry
 dewclaw
+dewdrop
 dewed
 dewier
 dewool
@@ -14527,6 +14535,7 @@ ditchers
 ditches
 ditching
 dites
+dithering
 dithyrambically
 dithyrambs
 ditransitives
@@ -15427,6 +15436,7 @@ dybbuks
 dye
 dyed
 dyeweed
+dyewood
 dying
 dyings
 dykey
@@ -16655,6 +16665,7 @@ eosinic
 eosinophil
 eosinophils
 epact
+eparch
 eparchs
 epaulets
 epaulette
@@ -21383,6 +21394,7 @@ grams
 granary
 grand
 grandads
+grandchild
 granddad
 granddads
 granddaughter
@@ -21656,6 +21668,7 @@ gritted
 grittily
 grittiness
 grizzlier
+grizzlies
 grizzliest
 grizzling
 grizzly
@@ -24125,6 +24138,7 @@ idolizations
 idolizer
 idolizes
 idolizing
+ids
 idyls
 if
 igged
@@ -24821,6 +24835,7 @@ indeterminism
 indeterminist
 indeterminists
 index
+indexable
 indexations
 indexer
 indexers
@@ -31855,6 +31870,7 @@ multidomain
 multielement
 multiethnic
 multiethnics
+multifactorial
 multifarious
 multifid
 multifoils
@@ -31907,6 +31923,7 @@ multiplies
 multipoles
 multipotential
 multiprocessing
+multiprocessor
 multipronged
 multiracialism
 multiracialisms
@@ -32014,6 +32031,7 @@ muscarines
 muscatel
 muscats
 muscleman
+musclemen
 muscovados
 muscovite
 musculature
@@ -32506,6 +32524,7 @@ neighborhoods
 neighboring
 neighborly
 neighboured
+neighbouring
 neighs
 nekton
 nellie
@@ -32716,6 +32735,7 @@ newswire
 newsworthiness
 newswritings
 newsy
+newts
 nexuses
 ngultrums
 ngwee
@@ -34924,6 +34944,7 @@ outspokenness
 outspread
 outspreading
 outspreads
+outsprings
 outsprint
 outsprinted
 outsprung
@@ -35161,6 +35182,7 @@ overdrew
 overdrinking
 overdriving
 overdyeing
+overdyers
 overeagernesses
 overeat
 overeaten
@@ -36788,6 +36810,7 @@ pereopods
 perfect
 perfecter
 perfecters
+perfecting
 perfectionists
 perfectiveness
 perfectivity
@@ -37947,6 +37970,7 @@ playtime
 playtimes
 playwrights
 pleaders
+pleadingly
 pleads
 pleasantest
 pleasantness
@@ -37991,6 +38015,7 @@ pleonastic
 pleonastically
 pleonic
 pleopods
+plerocercoid
 plesiosaur
 plethysmograms
 plethysmography
@@ -42331,6 +42356,7 @@ relies
 relieve
 relieving
 relighted
+relighting
 religion
 religionists
 religiosities
@@ -43051,6 +43077,7 @@ restrain
 restrainedly
 restraining
 restrains
+restrengthen
 restrengthened
 restrengthening
 restressed
@@ -45949,6 +45976,7 @@ shantymen
 shapers
 shapeups
 shaping
+shard
 shards
 shareabilities
 shareability
@@ -49232,6 +49260,7 @@ studliest
 stuffer
 stuffers
 stuffiest
+stuffing
 stuivers
 stultified
 stultify
@@ -52394,6 +52423,7 @@ torics
 torment
 tormented
 torn
+tornadic
 tornado
 tornillo
 tornillos
@@ -53312,6 +53342,7 @@ tuftily
 tuftings
 tugboat
 tugger
+tuggers
 tugless
 tuille
 tuitional
@@ -55301,6 +55332,7 @@ uts
 utter
 utterable
 uttered
+uttering
 uttermost
 uttermosts
 uveal
@@ -55396,6 +55428,7 @@ valvula
 valvulae
 valvules
 vambrace
+vambraced
 vamosed
 vampirish
 vampirism
@@ -57718,6 +57751,7 @@ zagged
 zaire
 zaires
 zamarra
+zamarras
 zamia
 zamindar
 zamindaris
@@ -57777,6 +57811,7 @@ zidovudines
 zigged
 zigs
 zigzag
+zigzaggers
 zigzagging
 zigzaggy
 zigzags
