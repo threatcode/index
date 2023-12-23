@@ -1690,6 +1690,7 @@ anemones
 anemophilous
 anesthetists
 anesthetize
+anesthetized
 anesthetizes
 anestrous
 anetholes
@@ -2289,6 +2290,7 @@ appeasement
 appeases
 appel
 appellant
+appellants
 appellative
 appellees
 append
@@ -2505,6 +2507,7 @@ archosaurs
 archrival
 arcing
 arcked
+arcsines
 arctangent
 arctic
 arctically
@@ -3078,6 +3081,7 @@ auditives
 auditoria
 auditorium
 auditory
+auger
 augers
 augites
 augmentative
@@ -3472,6 +3476,7 @@ backpedaled
 backpedaling
 backpedalled
 backpedals
+backrush
 backscatterings
 backscatters
 backset
@@ -5665,6 +5670,7 @@ bottlebrushes
 bottled
 bottlefuls
 bottlenecked
+bottler
 bottlers
 bottom
 bottomer
@@ -10541,6 +10547,7 @@ coplot
 coplots
 coplotted
 copolymerizes
+copolymers
 copouts
 copperas
 coppered
@@ -10548,6 +10555,7 @@ coppersmith
 coppersmiths
 coppery
 coppicing
+copping
 coppras
 copra
 copras
@@ -12091,6 +12099,7 @@ dames
 damiana
 damianas
 dammar
+dammer
 damming
 damnablenesses
 damnably
@@ -14518,6 +14527,7 @@ ditto
 dittoing
 ditty
 ditziest
+diurnal
 diurnally
 diva
 divagated
@@ -14622,6 +14632,7 @@ doctrinal
 doctrine
 documentalists
 documentarian
+documentarians
 documentaries
 documentarist
 documentational
@@ -19916,6 +19927,7 @@ fugle
 fugled
 fugling
 fugs
+fugu
 fuguelike
 fuguists
 fuhrer
@@ -19945,6 +19957,7 @@ fulminates
 fulminating
 fulmines
 fulminic
+fulmining
 fulnesses
 fulsomely
 fulsomenesses
@@ -20555,6 +20568,7 @@ genitival
 genitives
 geniture
 genius
+geniuses
 gennaker
 genocidal
 genogram
@@ -26459,6 +26473,7 @@ joggler
 jogs
 johannes
 johns
+johnsongrasses
 johnsons
 joiner
 joinery
@@ -27557,6 +27572,7 @@ latina
 latinize
 latinized
 latino
+latitude
 latitudes
 latitudinal
 latitudinally
@@ -35826,6 +35842,7 @@ pancetta
 pancratiums
 pancreatitis
 pancreozymins
+pancytopenia
 pandanus
 pander
 pandered
@@ -36249,6 +36266,7 @@ pastoriums
 pastors
 pastrami
 pastromis
+pasturages
 pasture
 pasturing
 patamar
@@ -38785,6 +38803,7 @@ prebills
 prebind
 prebinds
 prebiologic
+prebiological
 preboard
 preboarded
 prebooking
@@ -39910,6 +39929,7 @@ prudishnesses
 pruinose
 prunable
 prunella
+prunellas
 prunellos
 pruning
 prunuses
@@ -40269,6 +40289,7 @@ purs
 purse
 pursed
 purselike
+purser
 purses
 pursier
 purslane
@@ -40431,6 +40452,7 @@ pyuria
 pyurias
 pyxes
 pyxidia
+pyxidium
 qadis
 qaids
 qat
@@ -40947,6 +40969,7 @@ rangeland
 ranger
 rangier
 rangy
+ranid
 ranids
 ranked
 ranker
@@ -41261,6 +41284,7 @@ reattribution
 reauthorize
 reavers
 reawaked
+reawakes
 reawoke
 reawoken
 reb
@@ -42557,6 +42581,7 @@ rephotographs
 rephrase
 rephrased
 rephrases
+rephrasing
 repigment
 repine
 repiner
@@ -42598,6 +42623,7 @@ replunged
 replunges
 reply
 replying
+repolarizations
 repolish
 repolished
 repopularize
@@ -42733,6 +42759,7 @@ reraising
 reread
 rereading
 rereadings
+rereads
 rerecording
 rerecords
 reredos
@@ -43015,6 +43042,7 @@ restroom
 restruck
 restructuring
 restuffed
+restyled
 restyles
 restyling
 resubmission
@@ -43616,6 +43644,7 @@ rippliest
 rippling
 ripply
 riprapping
+rips
 ripsaw
 ripstop
 ripstops
@@ -45870,6 +45899,7 @@ shamans
 shamas
 shamble
 shambled
+shambolic
 shame
 shamefacedness
 shames
@@ -48483,6 +48513,7 @@ starched
 starchiest
 starchily
 starching
+starchy
 starets
 starfish
 stargazed
@@ -49145,6 +49176,7 @@ strudel
 strudels
 struggler
 strum
+struma
 strumas
 strumming
 strums
@@ -49605,6 +49637,7 @@ subvirus
 subvocal
 subvocalization
 subvocalize
+subvocalized
 subvocalizing
 subworld
 subwriter
@@ -55804,6 +55837,7 @@ villanelle
 villas
 villatic
 villeins
+villiform
 villose
 villosities
 vims
@@ -57670,6 +57704,7 @@ zaribas
 zas
 zastruga
 zax
+zazens
 zeal
 zealot
 zealously
