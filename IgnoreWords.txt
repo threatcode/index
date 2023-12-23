@@ -585,6 +585,7 @@ adult
 adulterant
 adulterants
 adulterated
+adulterates
 adulterating
 adulterers
 adulteress
@@ -1240,6 +1241,7 @@ allotypy
 allowances
 allowing
 allows
+alloy
 alloys
 allseed
 allsorts
@@ -1276,6 +1278,7 @@ aloetic
 aloft
 aloha
 aloin
+aloofly
 aloofnesses
 alopecic
 alpaca
@@ -2506,6 +2509,7 @@ archimandrites
 archine
 archines
 archipelago
+archipelagoes
 architecture
 architectures
 architraves
@@ -2866,6 +2870,7 @@ assortative
 assuage
 assuagers
 assumably
+assumedly
 assumers
 assumpsit
 assurable
@@ -2967,6 +2972,7 @@ atilt
 atlas
 atlases
 atmans
+atmas
 atmometer
 atmospherically
 atmospherics
@@ -3679,6 +3685,7 @@ balmy
 balneal
 baloney
 balsam
+balsamed
 balsaming
 balsams
 balusters
@@ -4726,6 +4733,7 @@ bigmouths
 bigness
 bignesses
 bigoses
+bigot
 bigs
 bigstick
 bihourly
@@ -8318,6 +8326,7 @@ chimerical
 chimerism
 chimers
 chimes
+chimichanga
 chiming
 chimlas
 chimley
@@ -14629,6 +14638,7 @@ divinely
 divinise
 divinized
 divinizes
+divinizing
 divisibly
 divisions
 divisive
@@ -15108,6 +15118,7 @@ dreaded
 dreadlock
 dreadlocks
 dreadnought
+dreadnoughts
 dreads
 dream
 dreamboats
@@ -19168,6 +19179,7 @@ flugelhorn
 flugelhornist
 flugelhornists
 fluidal
+fluidextract
 fluidize
 fluidized
 fluidizing
@@ -22635,6 +22647,7 @@ heaths
 heatstroke
 heave
 heaven
+heavenlier
 heavenliest
 heavenliness
 heavenlinesses
@@ -23593,6 +23606,7 @@ hotrods
 hotspot
 hotspurs
 hotties
+hotting
 houdah
 houdahs
 hound
@@ -25673,6 +25687,7 @@ intermediacies
 intermediary
 intermediately
 intermediation
+intermediations
 intermedins
 intermesh
 intermetallic
@@ -28595,6 +28610,7 @@ lodger
 lodging
 lodgment
 lodgments
+loessal
 loesses
 loft
 lofted
@@ -29260,6 +29276,7 @@ malaromas
 malathions
 malcontented
 maleate
+maledictions
 malefaction
 maleficence
 malemiut
@@ -30869,6 +30886,7 @@ misbeliefs
 misbelieve
 misbelievers
 misbelieves
+misbiasing
 misbind
 misbrand
 misbrands
@@ -32185,6 +32203,7 @@ mutualized
 mutualizes
 mutuals
 mutuel
+mutuels
 mutular
 mutule
 muzhik
@@ -33288,6 +33307,7 @@ noninclusion
 nonincumbents
 nonindustry
 noninert
+noninflammable
 noninfluences
 noninformations
 noninitial
@@ -36446,6 +36466,7 @@ patisserie
 patois
 patriarchies
 patriarchy
+patriates
 patrician
 patriciates
 patrimonies
@@ -37485,6 +37506,7 @@ phyllotactic
 phyllotaxies
 phylloxera
 physiatrist
+physical
 physicalism
 physicalities
 physicality
@@ -38292,6 +38314,7 @@ poising
 poisoned
 poisoner
 poisonous
+poitrel
 poitrels
 pokeroots
 pokers
@@ -39111,6 +39134,7 @@ prefilled
 prefinances
 prefinancing
 prefires
+prefixes
 prefixing
 preflight
 preflights
@@ -42086,6 +42110,7 @@ refluences
 refluent
 refocussed
 refolded
+refolding
 reforestations
 reforested
 reforged
@@ -42538,6 +42563,7 @@ remilitarize
 remilitarized
 remilitarizing
 reminders
+reminiscent
 reminiscer
 reminiscers
 reminiscing
@@ -44485,6 +44511,7 @@ salariats
 salaried
 salary
 salarying
+salarymen
 salchows
 sale
 saleratuses
@@ -44947,6 +44974,7 @@ scapegoating
 scapegoatisms
 scapegoats
 scapegraces
+scapes
 scapolites
 scapula
 scapulary
@@ -47028,6 +47056,7 @@ slantways
 slapper
 slashed
 slat
+slatch
 slate
 slated
 slater
@@ -49723,6 +49752,7 @@ subsiding
 subsidises
 subsidising
 subsidization
+subsidizers
 subsisted
 subsistent
 subsite
@@ -53053,6 +53083,7 @@ triacid
 triacids
 triad
 triads
+triages
 trialogue
 triamcinolone
 triangled
@@ -53787,6 +53818,7 @@ uke
 ukes
 ukuleles
 ulama
+ulan
 ulans
 ulcer
 ulcerate
@@ -54642,6 +54674,7 @@ unintelligibly
 unintentional
 uninterest
 unintimidated
+uninvited
 uninvoked
 union
 unionisations
@@ -55723,6 +55756,7 @@ velamina
 velarize
 velarized
 velarizing
+velars
 velcro
 veld
 velds
@@ -55913,6 +55947,7 @@ vestlike
 vestries
 vestrymen
 vesture
+vestures
 vesturing
 vetch
 veterans
