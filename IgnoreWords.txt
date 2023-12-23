@@ -82,6 +82,7 @@ absorptivities
 abstain
 abstained
 abstainers
+abstaining
 abstemiousness
 abstentious
 absterge
@@ -2359,6 +2360,7 @@ apprenticeship
 apprenticeships
 appressoria
 apprises
+apprize
 apprized
 approach
 approaches
@@ -5678,6 +5680,7 @@ bothies
 bothriums
 bothy
 botryoid
+botryoidal
 bots
 bott
 bottle
@@ -7783,6 +7786,7 @@ centripetally
 centroid
 centroids
 centromeres
+centromeric
 centrosymmetric
 centu
 centum
@@ -10188,6 +10192,7 @@ conjecturing
 conjoined
 conjoining
 conjoint
+conjointly
 conjugalities
 conjugants
 conjugate
@@ -10324,6 +10329,7 @@ consummates
 consummative
 consumptives
 contacted
+contactor
 contacts
 contagia
 contagions
@@ -11201,6 +11207,7 @@ craftworks
 crag
 craggier
 craggily
+cragginess
 cragginesses
 cragsmen
 cramp
@@ -12184,6 +12191,7 @@ daneworts
 dangerous
 danging
 danglers
+dangling
 dangly
 dangs
 danio
@@ -12402,6 +12410,7 @@ debyes
 decadently
 decagonal
 decahedron
+decahedrons
 decal
 decalcify
 decalcifying
@@ -16893,6 +16902,7 @@ erases
 erasions
 ere
 erected
+erecters
 erectilities
 erections
 erective
@@ -21777,6 +21787,7 @@ growthinesses
 grubbiness
 grubbing
 grubworms
+grudges
 gruel
 grueling
 gruelingly
@@ -26423,6 +26434,7 @@ jellied
 jellifies
 jellos
 jelly
+jellyfish
 jelutong
 jemadars
 jemidars
@@ -26765,6 +26777,7 @@ kamsins
 kanamycins
 kanbans
 kangaroos
+kanjis
 kantar
 kantars
 kaolin
@@ -28706,6 +28719,7 @@ lorises
 lornnesses
 lory
 losels
+losing
 losingly
 lostnesses
 lota
@@ -29637,6 +29651,7 @@ maskers
 masking
 masochist
 masonic
+masons
 masquerader
 masquerades
 masquers
@@ -31455,6 +31470,7 @@ monophagies
 monophagous
 monophagy
 monophonies
+monophthong
 monophthongal
 monoplane
 monoploids
@@ -31909,6 +31925,7 @@ multicounty
 multicurie
 multidisc
 multidomain
+multielectrode
 multielement
 multiethnic
 multiethnics
@@ -36408,6 +36425,7 @@ patois
 patriarchies
 patriarchy
 patrician
+patriciates
 patrimonies
 patrimony
 patriot
@@ -36437,6 +36455,7 @@ pauldron
 paulownias
 paunched
 paunchier
+paunchy
 paupered
 paupering
 pauperism
@@ -37042,6 +37061,7 @@ personify
 personnel
 persons
 perspicacity
+perspiration
 perspirations
 perspire
 perspired
@@ -39605,6 +39625,7 @@ procumbent
 procurable
 procurals
 procurator
+procurators
 procure
 procurers
 procuress
@@ -40481,6 +40502,7 @@ pylon
 pylons
 pyloric
 pyodermic
+pyogenic
 pyorrheas
 pyoses
 pyramid
@@ -42308,6 +42330,7 @@ reinventing
 reinvents
 reinvest
 reinvestigated
+reinvestigating
 reinvestigation
 reinvite
 reinvoke
@@ -42759,6 +42782,7 @@ repressing
 repression
 repressions
 repressive
+repressor
 repressors
 repressurizing
 reprieval
@@ -42918,6 +42942,7 @@ resecures
 reseeds
 reseeing
 reseeks
+reseen
 resees
 resegregate
 resegregating
@@ -43357,6 +43382,7 @@ revalues
 revamp
 revamped
 revampers
+revanches
 revanchists
 revarnished
 revarnishes
@@ -44244,6 +44270,7 @@ rusticated
 rusticates
 rustication
 rusticator
+rusticators
 rusticly
 rustled
 rustlers
@@ -47215,6 +47242,7 @@ smarten
 smartens
 smartie
 smarties
+smarting
 smashing
 smatter
 smatterer
@@ -47873,6 +47901,7 @@ sovietizes
 sovietizing
 sovkhoz
 sovkhozes
+sovranly
 sovranties
 sowans
 sowcar
@@ -49555,6 +49584,7 @@ sublimate
 sublimers
 sublimes
 subliminally
+sublimits
 sublimity
 subline
 sublingual
@@ -51330,6 +51360,7 @@ telescope
 telescoped
 telescopic
 telescopies
+teleshopping
 telesis
 telestic
 telestics
@@ -53770,6 +53801,7 @@ ultrapowerful
 ultrapractical
 ultraprecise
 ultrarapid
+ultrararefied
 ultrarealistic
 ultrarightist
 ultraroyalist
@@ -54388,6 +54420,7 @@ unending
 unendingly
 unendurably
 unenjoyed
+unenlarged
 unenterprising
 unenthusiastic
 unenvied
@@ -56211,6 +56244,7 @@ volvuli
 volvulus
 vomer
 vomitous
+voodooisms
 voodooist
 voodooistic
 voodooists
@@ -56656,6 +56690,7 @@ weakliest
 weakon
 weaksides
 weald
+wealthiest
 wealthy
 weaner
 weaning
