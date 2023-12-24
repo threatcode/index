@@ -751,6 +751,7 @@ affirmants
 affirmation
 affirmed
 affirmer
+affirmers
 affirms
 affixable
 affixal
@@ -1724,6 +1725,7 @@ anesthetized
 anesthetizes
 anestrous
 anetholes
+aneuploid
 aneurisms
 aneurysmal
 anfractuosity
@@ -4700,6 +4702,7 @@ bib
 bibber
 bibelot
 bibless
+biblicist
 bibliography
 bibliolaters
 bibliolatrous
@@ -5220,6 +5223,7 @@ blended
 blender
 blenders
 blennioid
+blent
 blepharoplast
 blepharoplasty
 blepharospasms
@@ -12018,6 +12022,7 @@ cutabilities
 cutaways
 cutbacks
 cutbank
+cutchery
 cute
 cuteness
 cutes
@@ -14008,6 +14013,7 @@ dignifies
 dignitaries
 dignitary
 dignities
+dignity
 digressional
 digressive
 digs
@@ -14462,6 +14468,7 @@ disinclinations
 disincline
 disinclined
 disinclines
+disinfected
 disinfecting
 disinfestant
 disinfestation
@@ -16960,6 +16967,7 @@ epifaunae
 epifaunas
 epigeic
 epigeneses
+epigenesis
 epigenist
 epigenous
 epiglottal
@@ -18415,6 +18423,7 @@ fatigable
 fatigued
 fatiguingly
 fating
+fatlike
 fatlings
 fatshedera
 fatso
@@ -19449,6 +19458,7 @@ fluorometry
 fluoroscope
 fluoroscopic
 fluoroscoping
+fluors
 fluoxetine
 fluphenazines
 flurry
@@ -20063,6 +20073,7 @@ fresnels
 fret
 fretboard
 fretboards
+fretfulnesses
 fretsaws
 fretter
 fretty
@@ -20097,6 +20108,7 @@ frightfully
 frights
 frigid
 frigidities
+frigidity
 frigidly
 frijol
 frijole
@@ -20472,6 +20484,7 @@ gaffes
 gaffs
 gag
 gaged
+gaggers
 gaggle
 gaillardias
 gaining
@@ -21668,6 +21681,7 @@ gradients
 gradin
 grading
 gradins
+gradiometer
 grads
 gradualisms
 gradualists
@@ -25423,6 +25437,7 @@ infiltrate
 infiltrates
 infiltrating
 infiltrations
+infinite
 infinitely
 infiniteness
 infinites
@@ -27567,6 +27582,7 @@ kolkhosy
 kolkhoz
 kolkhozniks
 kolkozy
+kolo
 kombus
 konking
 konks
@@ -29052,6 +29068,7 @@ loonily
 looninesses
 loony
 loophole
+loopholed
 loopholing
 loopily
 loos
@@ -30729,6 +30746,7 @@ methoxychlor
 methylal
 methylamines
 methylated
+methylations
 methylcellulose
 methyldopa
 methylic
@@ -31027,6 +31045,7 @@ millepeds
 millepores
 millerite
 millerites
+millesimally
 millesimals
 millet
 millibar
@@ -32302,6 +32321,7 @@ muhly
 mujahedeen
 mujahidin
 mulberry
+mulch
 mulching
 mule
 muled
@@ -34071,6 +34091,7 @@ nownesses
 nowts
 noxious
 nuance
+nuanced
 nub
 nubbiness
 nubbinesses
@@ -35050,6 +35071,7 @@ osteoplastic
 osteoplasties
 osteoporoses
 osteoporotic
+osteotomes
 ostia
 ostinati
 ostiole
@@ -35085,6 +35107,7 @@ oubliette
 ouch
 ouching
 oud
+oughted
 ouphs
 our
 ourari
@@ -37578,6 +37601,7 @@ pesewa
 pesewas
 peskily
 peskiness
+pesky
 peso
 pesos
 pessimist
@@ -37656,6 +37680,7 @@ phaeton
 phages
 phagocytes
 phagocytizing
+phagocytoses
 phagocytosing
 phalangeal
 phalarope
@@ -37848,6 +37873,7 @@ photoinduction
 photoinductive
 photoionization
 photoionized
+photokinetic
 photolysis
 photolytically
 photolyzed
@@ -38716,6 +38742,7 @@ poetaster
 poetesses
 poetically
 poeticized
+poeticizes
 poetise
 poetiser
 poetisers
@@ -41600,6 +41627,7 @@ rancoured
 rancours
 randiest
 randiness
+randinesses
 randomization
 randomizer
 randomizes
@@ -43988,6 +44016,7 @@ revised
 reviser
 revises
 revision
+revisionism
 revisionist
 revisited
 revitalise
@@ -46983,6 +47012,7 @@ showring
 showtime
 showy
 shoyu
+shredded
 shredder
 shredders
 shrewdness
@@ -48990,6 +49020,7 @@ spouted
 spouter
 spouters
 spouting
+sprag
 sprained
 sprat
 sprattling
@@ -49979,6 +50010,7 @@ stuffer
 stuffers
 stuffiest
 stuffing
+stuiver
 stuivers
 stultified
 stultify
@@ -53002,6 +53034,7 @@ toilsomeness
 toilworn
 toiting
 toits
+tokamak
 tokamaks
 toke
 toked
@@ -57455,6 +57488,7 @@ webbier
 webbings
 webcam
 webcast
+webcaster
 webcasting
 weber
 weblike
@@ -57904,6 +57938,7 @@ windles
 windlestraw
 windling
 windmills
+windowless
 windowpanes
 windowsills
 windowy
