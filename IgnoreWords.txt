@@ -3554,6 +3554,7 @@ backscatters
 backset
 backshores
 backside
+backslapped
 backslide
 backslider
 backsliders
@@ -4542,6 +4543,7 @@ berdaches
 bereave
 bereavers
 beret
+berets
 bergamot
 bergeres
 beriberis
@@ -4666,6 +4668,7 @@ bewail
 bewailed
 bewailers
 bewailing
+bewails
 bewared
 bewearied
 beweary
@@ -6137,6 +6140,7 @@ brightwork
 brilliances
 brilliancies
 brilliantly
+brim
 brimfull
 brimstones
 brimstony
@@ -8587,6 +8591,7 @@ cholos
 chomp
 chompers
 chondroitin
+chondroma
 chondromas
 chondromata
 chooks
@@ -9174,6 +9179,7 @@ clone
 cloned
 cloner
 cloners
+clonicity
 clonidines
 clonings
 clonking
@@ -14962,6 +14968,7 @@ doggish
 doggishness
 doggishnesses
 doggo
+doggoneder
 doggonedest
 doggrel
 doggy
@@ -15486,6 +15493,7 @@ drumbled
 drumfires
 drumlike
 drummed
+drummers
 drumming
 drunkards
 drupaceous
@@ -18168,6 +18176,7 @@ fabber
 fable
 fabled
 fabliau
+fabling
 fabricant
 fabricants
 fabrications
@@ -18682,6 +18691,7 @@ feoffee
 feoffor
 feoffors
 feoffs
+fer
 feracities
 feracity
 feres
@@ -19570,6 +19580,7 @@ focalize
 focuses
 focusing
 focusless
+focussed
 fodders
 fodgel
 foehn
@@ -20851,6 +20862,7 @@ gawkish
 gawkishness
 gawkishnesses
 gawks
+gawp
 gawper
 gawsie
 gawsy
@@ -20976,6 +20988,7 @@ genograms
 genomics
 genotypes
 genotypically
+genre
 gent
 gentamicin
 genteelest
@@ -21260,6 +21273,7 @@ gladsomest
 glair
 glaire
 glaired
+glaives
 glamorised
 glamorizations
 glamorousness
@@ -21587,6 +21601,7 @@ golem
 golfers
 golfing
 goliard
+goliards
 goliath
 goliaths
 golliwog
@@ -23647,6 +23662,7 @@ hollas
 hollered
 hollers
 holloa
+holloaed
 holloas
 holloes
 hollowares
@@ -24859,6 +24875,7 @@ impermeable
 impermissible
 impersonal
 impersonalities
+impersonalize
 impersonalizing
 impertinence
 imperviously
@@ -26743,6 +26760,7 @@ jacuzzis
 jaded
 jadedness
 jagg
+jaggaries
 jaggedest
 jagger
 jaggeries
@@ -32108,6 +32126,7 @@ moquette
 moquettes
 mora
 moraine
+moralise
 moralises
 moralism
 moralists
@@ -34445,6 +34464,7 @@ obsoletely
 obsoletenesses
 obsoleting
 obstacle
+obstetrical
 obstetricians
 obstreperously
 obstruct
@@ -34724,6 +34744,7 @@ omelet
 omelettes
 omentums
 omer
+omicrons
 omikrons
 ominously
 omissive
@@ -37513,6 +37534,7 @@ periled
 perilunes
 perilymphs
 perimeters
+perimetries
 perimysium
 perineuria
 periodically
@@ -37539,6 +37561,7 @@ periscopic
 perishability
 perishes
 perissodactyl
+perissodactyls
 peristalsis
 peristaltic
 peristome
@@ -38216,6 +38239,7 @@ pigheadedly
 pigmentary
 pignolias
 pigstick
+pigsticked
 pigtail
 pigtailed
 pikas
@@ -39729,6 +39753,7 @@ preforming
 preforms
 preformulate
 prefranked
+prefreeze
 prefreezes
 prefreezing
 prefunding
@@ -40869,6 +40894,7 @@ pugnaciousness
 pugnacities
 pugs
 puisnes
+puissance
 puissances
 puissant
 puja
@@ -42414,6 +42440,7 @@ recursively
 recursivenesses
 recurve
 recurving
+recusal
 recusancies
 recuses
 recut
@@ -45102,6 +45129,7 @@ safecracking
 safecrackings
 safely
 safeness
+safetyman
 safflower
 safflowers
 saffrons
@@ -47555,6 +47583,7 @@ sizers
 sizier
 sizinesses
 sizings
+sizy
 sizzled
 sizzler
 sizzlers
@@ -50241,6 +50270,7 @@ subcaste
 subcategorize
 subcategorized
 subcategory
+subcavities
 subceilings
 subcell
 subcentral
@@ -51585,6 +51615,7 @@ tablemate
 tablemates
 tables
 tablet
+tableted
 tableting
 tabletops
 tabletted
@@ -51919,6 +51950,7 @@ tarweed
 tarzans
 tasked
 taskmaster
+taskmistress
 taskwork
 taskworks
 tasseling
@@ -53330,6 +53362,7 @@ torahs
 torch
 torchbearer
 torchbearers
+torchiers
 torchiest
 torching
 torchlike
@@ -55682,6 +55715,7 @@ unproduced
 unproductive
 unprofessionals
 unprogrammable
+unpronounceable
 unprovable
 unpuckered
 unpuckering
@@ -57038,6 +57072,7 @@ vituperating
 vituperatory
 vivace
 vivacious
+vivaciously
 vivaciousness
 vivaries
 vivariums
