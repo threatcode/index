@@ -14,3 +14,11 @@ wordlist.txt,https://www.ics.uci.edu/~kay/wordlist.txt
 complete.txt - Cornell CS,https://www.cs.cornell.edu/courses/cs1110/2014fa/assignments/assignment4/code/complete.txt
 NCBI C++ Toolkit Cross Reference,https://www.ncbi.nlm.nih.gov/IEB/ToolBox/CPP_DOC/lxr/source/src/util/test/porter-data.txt
 Anagrams 7 - mitxela.com,https://mitxela.com/other/anagrams/Anagrams7.txt
+words_alpha.txt - GitHub,https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
+words.txt - GitHub,https://raw.githubusercontent.com/dwyl/english-words/master/words.txt
+EnglishWords.txt - Stanford University,https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/lectures/9-RecursiveBacktracking1/code/reducible/res/EnglishWords.txt
+Othello.txt - GitHub,https://github.com/AlessandroCorradini/Harvard-PH526x-Using-Python-for-Research/blob/master/03%2520-%2520Case%2520Studies%2520Part%25201/Case%2520Study%25202%2520-%2520Language%2520Processing/books/English/shakespeare/Othello.txt
+large list of English words (and acronyms) - Alec Jacobson,https://www.alecjacobson.com/weblog/media/list-of-english-words.txt
+enable1.txt - Peter Norvig,https://norvig.com/ngrams/enable1.txt
+Sample vocabulary - Tartarus,https://tartarus.org/martin/PorterStemmer/voc.txt
+1531-0.txt - Project Gutenberg,https://www.gutenberg.org/files/1531/1531-0.txt
