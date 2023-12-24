@@ -392,6 +392,7 @@ actor
 actorish
 actors
 actress
+actressy
 actuality
 actualization
 actually
@@ -412,6 +413,7 @@ acupuncturist
 acupuncturists
 acutance
 acutances
+acutest
 acyclovir
 acyclovirs
 acylates
@@ -434,6 +436,7 @@ adaptively
 adaptivenesses
 adaptivities
 adaptivity
+addable
 addedly
 addenda
 addicted
@@ -3327,6 +3330,7 @@ avouchments
 avowals
 avowers
 avulse
+avulsion
 avulsions
 avuncular
 aw
@@ -4783,6 +4787,7 @@ bilbo
 bilboas
 bildungsroman
 bilgiest
+bilharzia
 biliary
 bilingual
 bilingualism
@@ -5350,6 +5355,7 @@ bluewood
 bluff
 bluffer
 bluffers
+bluffest
 bluing
 bluish
 bluishness
@@ -8181,6 +8187,7 @@ chauvinisms
 chawbacon
 chawbacons
 chawer
+chays
 chazzans
 chazzen
 chazzenim
@@ -8558,6 +8565,7 @@ chowsed
 chowsing
 chowtime
 chrestomathy
+chrism
 chrisma
 chrismation
 chrisom
@@ -8811,6 +8819,7 @@ cityward
 civetlike
 civets
 civically
+civicisms
 civie
 civies
 civil
@@ -15866,6 +15875,7 @@ efflorescences
 efflorescent
 effluences
 effluents
+effluvial
 effluviums
 efflux
 effluxes
@@ -17510,6 +17520,7 @@ exalters
 examen
 examens
 examinant
+examine
 examined
 examines
 examining
@@ -20424,6 +20435,7 @@ galvanise
 galvanised
 galvanises
 galvanising
+galvanism
 galvanization
 galvanizes
 galvanometers
@@ -21740,6 +21752,7 @@ grecized
 grecizes
 greedier
 greediness
+greedinesses
 greedy
 greegree
 greegrees
@@ -21889,6 +21902,7 @@ grotesque
 grotesquely
 grotesqueries
 grotesques
+grots
 grotto
 grouched
 grouches
@@ -22670,6 +22684,7 @@ hays
 hayseeds
 haystacks
 haywards
+haywire
 hazanim
 hazarders
 hazardous
@@ -23800,6 +23815,7 @@ howitzer
 howking
 howlets
 hoya
+hoyden
 hoydening
 hoydens
 hryvnias
@@ -24077,6 +24093,7 @@ hyperacidities
 hyperacidity
 hyperactive
 hyperactives
+hyperacuities
 hyperacuity
 hyperacute
 hyperaesthetic
@@ -27650,6 +27667,7 @@ lamellate
 lamellately
 lamellibranchs
 lamentable
+lamentableness
 lamentably
 lamenter
 lamest
@@ -28890,6 +28908,7 @@ loophole
 loopholing
 loopily
 loos
+loosed
 loosener
 looses
 loosestrife
@@ -29063,6 +29082,7 @@ luminaires
 luminaria
 luminaries
 luminesced
+luminescences
 luminiferous
 luminism
 luminisms
@@ -30011,6 +30031,7 @@ maxims
 maximumly
 maxwells
 maybe
+maybird
 maydays
 mayed
 mayflies
@@ -30507,6 +30528,7 @@ metatag
 metatarsal
 metatarsi
 metatarsus
+metatheses
 metathetic
 metathetically
 metathoraces
@@ -31674,6 +31696,7 @@ monographed
 monographing
 monographs
 monohydric
+monoicous
 monolith
 monologging
 monologies
@@ -32241,6 +32264,7 @@ multivitamin
 multiwarhead
 multiyear
 mumblers
+mumbly
 mummery
 mummichog
 mummified
@@ -32448,6 +32472,7 @@ myographs
 myoinositols
 myologic
 myoma
+myopathies
 myopathy
 myopically
 myoscope
@@ -34301,6 +34326,7 @@ officialisms
 officially
 officiants
 officiaries
+officiary
 officiates
 officiating
 offishly
@@ -35150,6 +35176,7 @@ outproduce
 outproduced
 outproduces
 outproducing
+outpromise
 outpunching
 outpushes
 output
@@ -38169,6 +38196,7 @@ plaining
 plainness
 plainsman
 plainsongs
+plaintexts
 plaintful
 plaintiffs
 plaintive
@@ -40854,6 +40882,7 @@ pyurias
 pyxes
 pyxidia
 pyxidium
+qabalahs
 qadis
 qaids
 qat
@@ -41740,6 +41769,7 @@ rebury
 rebuts
 rebuttable
 rebuttals
+rebutted
 rebutting
 rebuttoned
 rebuttons
@@ -43264,6 +43294,7 @@ resembles
 resending
 resensitized
 resent
+resentful
 reserpines
 reservationists
 reservations
@@ -46478,6 +46509,7 @@ shelled
 sheller
 shellfishery
 shelling
+shellproof
 shellworks
 shelta
 shelterbelt
@@ -47179,6 +47211,7 @@ skeptical
 skeptically
 skerries
 sketchbooks
+sketched
 sketcher
 sketchers
 sketches
@@ -48373,6 +48406,7 @@ spearfishes
 spearheaded
 spearheading
 spearing
+spearmints
 spears
 spearwort
 specialer
@@ -55788,6 +55822,7 @@ usableness
 usablenesses
 usably
 usage
+usages
 usaunces
 useably
 useful
