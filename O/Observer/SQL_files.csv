@@ -7,3 +7,12 @@ migrations/mastapi/0_20220727153141_init.sql ... - GitLab - WSL,https://gitlabex
 clickhouse_ddl.sql · master · eta / intertube · GitLab,https://git.eta.st/eta/intertube/-/blob/master/clickhouse_ddl.sql
 https://biblus.us.es/bibing/proyectos/abreproy/112...,https://biblus.us.es/bibing/proyectos/abreproy/11240/fichero/ComandosSQL%25252FgetInfoTable-1stLevel.sql
 docker/single-process/init.sql · master · dul-its / DUL Huginn · GitLab,https://gitlab.oit.duke.edu/dul-its/dul-huginn/-/blob/master/docker/single-process/init.sql
+01_insert_into_domains.sql - elfinwood-data-sci - GitHub,https://github.com/elfinwood-data-sci/learning-data-science/blob/main/Lessons/Lesson_006/01_insert_into_domains.sql
+imo-zhr-quicklooks/graph/functions.sql at master · barentsen/imo-zhr ...,https://github.com/barentsen/imo-zhr-quicklooks/blob/master/graph/functions.sql
+nordb/sql/macroseismic_observations.sql ... - GitLab,https://version.helsinki.fi/ilmosalm/nordb/-/blob/fa7fa791e77bd693868ce3dd228a22c8927170a4/nordb/sql/macroseismic_observations.sql
+backend - migrations - mastapi - 0_20220727153141_init.sql - GitLab,https://gitlabext.wsl.ch/mastweb/backend/-/blob/3cbc8b6ef171d49e0dce87d41f42e28664127425/migrations/mastapi/0_20220727153141_init.sql
+https://code.imphub.org/projects/PT/repos/oneposda...,https://code.imphub.org/projects/PT/repos/oneposda/raw/database/all.sql%3Fat%3D5ae04f9bf58bcc645978341e9d56c11805626c28
+getInfoTable-1stLevel.sql,https://biblus.us.es/bibing/proyectos/abreproy/11240/fichero/ComandosSQL%25252FgetInfoTable-1stLevel.sql
+jpreludeSecondLevel.getSqlInfoTables-4.2.sql,https://biblus.us.es/bibing/proyectos/abreproy/11240/fichero/ComandosSQL%25252FjpreludeSecondLevel.getSqlInfoTables-4.2.sql
+https://raw.githubusercontent.com/glpi-project/glp...,https://raw.githubusercontent.com/glpi-project/glpi/0.84.6/install/mysql/glpi-0.84.6-empty.sql
+https://madata.bib.uni-mannheim.de/238/4/clinton.sql,https://madata.bib.uni-mannheim.de/238/4/clinton.sql
