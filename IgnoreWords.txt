@@ -699,6 +699,7 @@ aerodynamical
 aerodynamicist
 aerodynamicists
 aerodynamics
+aeroelasticity
 aeroembolisms
 aerogramme
 aerolite
@@ -4263,6 +4264,7 @@ bedeviling
 bedevilments
 bedewing
 bedframe
+bediaper
 bediapered
 bediapers
 bedight
@@ -4813,6 +4815,7 @@ biffing
 biffs
 bifid
 bifidities
+bifidity
 bifilar
 bifocal
 bifocaled
@@ -7189,6 +7192,7 @@ canners
 cannibalise
 cannibalises
 cannibalistic
+cannibalization
 cannibalize
 cannier
 cannolis
@@ -12215,6 +12219,7 @@ cyclery
 cycleways
 cyclicalities
 cyclicals
+cyclin
 cycling
 cyclings
 cyclist
@@ -12643,6 +12648,7 @@ deathsman
 deathtrap
 deathwatches
 deave
+deaves
 deaving
 debarkation
 debarker
@@ -13969,6 +13975,7 @@ diamondback
 diamonds
 diandrous
 diapason
+diapaused
 diapauses
 diapering
 diapers
@@ -14336,6 +14343,7 @@ dipteron
 diptycas
 diptych
 dirams
+directednesses
 directer
 directional
 directive
@@ -15698,6 +15706,7 @@ dumbfoundering
 dumbfounders
 dumbing
 dumbly
+dumbnesses
 dumbstruck
 dumbwaiters
 dumfound
@@ -16355,6 +16364,7 @@ elucidated
 elucidates
 elucidating
 elucidative
+elucubrate
 elucubration
 elucubrations
 elude
@@ -16706,6 +16716,7 @@ endocarp
 endocarps
 endocrinology
 endocytic
+endoderm
 endodontist
 endogamies
 endogamous
@@ -18534,6 +18545,7 @@ farle
 farles
 farls
 farmable
+farmhouse
 farmhouses
 farmwife
 farmwives
@@ -20059,6 +20071,7 @@ forwarded
 forwarding
 forwardness
 forzandi
+forzandos
 fossa
 fossas
 fossate
@@ -22158,6 +22171,7 @@ gridiron
 gridirons
 gridlocked
 gridlocks
+grievances
 grievants
 grieved
 grievous
@@ -22835,6 +22849,7 @@ hangfire
 hangings
 hangman
 hangmen
+hangnails
 hangovers
 hankered
 hankerer
@@ -24898,6 +24913,7 @@ immediate
 immedicable
 immemorially
 immensest
+immerge
 immerged
 immersed
 immerses
@@ -25103,6 +25119,7 @@ impounder
 impoundments
 impoverishing
 impoverishment
+impracticality
 impractically
 imprecation
 imprecisely
@@ -25304,6 +25321,7 @@ inclipping
 inclips
 inclosed
 incloser
+inclosure
 including
 inclusion
 inclusions
@@ -30666,6 +30684,7 @@ megaton
 megatonnages
 megatons
 megillah
+megillahs
 mehndi
 meinie
 meister
@@ -31184,6 +31203,7 @@ micropipet
 micropipets
 micropipette
 microprism
+microprocessor
 microprojection
 micropublisher
 micropublishing
@@ -31214,6 +31234,7 @@ microtomes
 microtomy
 microtonal
 microtonalities
+microtones
 microtubule
 microtubules
 microwatt
@@ -32067,6 +32088,7 @@ molls
 mollusc
 molluscans
 molluscs
+molluskans
 mollycoddlers
 mollymawk
 mollymawks
@@ -36981,6 +37003,7 @@ parasitization
 parasitize
 parasitoid
 parasitoids
+parasitologic
 parasitological
 parasitologist
 parasitologists
@@ -38868,6 +38891,7 @@ platemakings
 platens
 platesful
 plating
+platings
 platinic
 platinizing
 platinocyanide
@@ -40250,6 +40274,7 @@ prestamps
 presterna
 presternum
 presters
+prestigious
 prestigiousness
 prestissimo
 presto
@@ -40582,6 +40607,7 @@ profundity
 profusely
 profusions
 progenies
+progenitor
 progeny
 progestational
 progesterones
@@ -45702,6 +45728,7 @@ sarcasm
 sarcastically
 sarcocarps
 sarcolemma
+sarcologies
 sarcology
 sarcoma
 sarcomata
@@ -46036,6 +46063,7 @@ schmalziest
 schmearing
 schmeer
 schmelzes
+schmoose
 schmoosed
 schmooses
 schmooze
@@ -46937,6 +46965,7 @@ serve
 serviceably
 serviceberry
 servitor
+servomotors
 sesames
 sesamoid
 sesquicarbonate
@@ -49043,6 +49072,7 @@ spar
 sparables
 spare
 spareable
+spareness
 sparenesses
 spares
 sparest
@@ -49973,6 +50003,7 @@ sterilizers
 sterlet
 sterlingnesses
 sterlings
+stern
 sterna
 sternal
 sternites
@@ -51365,6 +51396,7 @@ supplanted
 supplanters
 supplants
 supple
+suppled
 supplementing
 suppler
 supples
@@ -51988,6 +52020,7 @@ tafferel
 tafferels
 taffeta
 taffrail
+taffy
 tag
 tagboard
 tagboards
@@ -53630,6 +53663,7 @@ toothbrushing
 toothed
 toothily
 toothpaste
+toothpicks
 tooths
 toothsomenesses
 tooting
@@ -54551,6 +54585,7 @@ trumping
 trumps
 truncated
 trundles
+trundling
 trunked
 trunkfish
 trunnel
