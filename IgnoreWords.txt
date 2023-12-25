@@ -1921,6 +1921,7 @@ answer
 answerers
 answering
 answers
+ant
 antacid
 antagonist
 antagonistic
@@ -2417,6 +2418,7 @@ apportionment
 appose
 apposed
 apposers
+apposes
 appositeness
 appositenesses
 appositional
@@ -3490,6 +3492,7 @@ azimuths
 azine
 azines
 azlons
+azole
 azoles
 azonal
 azonic
@@ -4253,6 +4256,7 @@ bechancing
 becharming
 becked
 beckoned
+beckoners
 beclogged
 beclogs
 beclothe
@@ -5386,6 +5390,7 @@ bloodguilt
 bloodguilts
 bloodhounds
 bloodied
+bloodier
 bloodiness
 bloodinesses
 blooding
@@ -5493,11 +5498,13 @@ blunged
 blunt
 blunted
 blunter
+blunting
 bluntnesses
 blurb
 blurbing
 blurbist
 blurbists
+blurredly
 blurrier
 blurriest
 blurrinesses
@@ -5594,6 +5601,7 @@ bogged
 bogginess
 boggish
 bogglers
+boggles
 boggling
 boggy
 bogie
@@ -10114,6 +10122,7 @@ compatriot
 compeller
 compelling
 compellingly
+compend
 compendiums
 compensability
 compensative
@@ -10720,6 +10729,7 @@ contractive
 contractor
 contractually
 contractures
+contradict
 contradicting
 contradictions
 contradictor
@@ -12170,6 +12180,7 @@ curtailing
 curtailment
 curtails
 curtains
+curtalax
 curtalaxes
 curtate
 curtest
@@ -14494,6 +14505,7 @@ disagrees
 disallows
 disambiguate
 disannulled
+disappear
 disappeared
 disappears
 disappoint
@@ -28313,6 +28325,7 @@ lance
 lancers
 lanceted
 lancewood
+lanciform
 lancinate
 lancinates
 lancinating
@@ -28862,6 +28875,7 @@ leukoplakic
 leukopoiesis
 leukopoietic
 leukosis
+leukotriene
 levanter
 levanters
 levanting
@@ -28957,6 +28971,7 @@ librational
 librations
 librettist
 librettists
+libretto
 libs
 lice
 licenced
@@ -29104,6 +29119,7 @@ limnic
 limning
 limnology
 limo
+limonenes
 limousines
 limp
 limpas
@@ -31135,6 +31151,7 @@ messengering
 messes
 messiah
 messiahs
+messianism
 messiest
 messiness
 messmate
@@ -33906,6 +33923,7 @@ nipping
 nippingly
 nippled
 nips
+nisei
 nitchie
 nite
 niters
@@ -34305,6 +34323,7 @@ nonliterates
 nonlocals
 nonmajor
 nonmalignant
+nonman
 nonmanual
 nonmarital
 nonmarket
@@ -36793,6 +36812,7 @@ pachytenes
 pacier
 pacific
 pacifical
+pacifier
 pacifies
 pacifisms
 pacifist
@@ -38997,6 +39017,7 @@ placed
 placeless
 placement
 placenta
+placentals
 placentas
 placentation
 placet
@@ -39381,6 +39402,7 @@ poinds
 poinsettia
 poinsettias
 point
+pointable
 pointelle
 pointelles
 pointes
@@ -41122,6 +41144,7 @@ proteome
 proteomes
 protest
 protestant
+protesting
 proteus
 prothalamion
 prothalli
@@ -43102,6 +43125,7 @@ redreamt
 redresser
 redresses
 redressing
+redried
 redries
 redrilled
 redrilling
@@ -44163,6 +44187,7 @@ resaddling
 resailed
 resaluting
 resampled
+resampling
 resat
 resaw
 resawed
@@ -45701,6 +45726,7 @@ saggier
 sago
 sagos
 sags
+sagum
 sagy
 sahib
 sahiwal
@@ -46442,6 +46468,7 @@ scoot
 scope
 scoped
 scopolamine
+scopolamines
 scopulate
 scorched
 scorches
@@ -47444,6 +47471,7 @@ sheafing
 sheafs
 shearlings
 shearwaters
+sheatfish
 sheath
 sheathbill
 sheathed
@@ -47653,6 +47681,7 @@ shoers
 shoes
 shoeshine
 shoeshines
+shogi
 shogun
 shogunate
 shoji
@@ -51707,6 +51736,7 @@ supplementing
 suppler
 supples
 supplest
+suppletions
 suppletive
 suppletory
 suppliance
@@ -54678,6 +54708,7 @@ trifurcating
 trifurcations
 trigger
 triggered
+triggerfish
 triggerfishes
 triggers
 triglyph
@@ -56392,6 +56423,7 @@ unpinning
 unpins
 unplait
 unplaits
+unplanted
 unplausible
 unpleasing
 unpledged
@@ -56888,6 +56920,7 @@ upstroke
 upswell
 upswollen
 uptake
+uptalking
 uptears
 uptempo
 upthrowing
@@ -57957,6 +57990,7 @@ vulvitis
 vum
 vying
 wabbler
+wabblers
 wabbles
 wabbling
 wabbly
@@ -59182,6 +59216,7 @@ worset
 worsets
 worship
 worshiper
+worshipfully
 worshipless
 worshipper
 worsteds
