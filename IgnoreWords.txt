@@ -2993,6 +2993,7 @@ asters
 asthenies
 asthenospheric
 astheny
+asthmas
 asthmatics
 astilbes
 astir
@@ -4715,6 +4716,7 @@ beth
 bethank
 bethanked
 bethink
+bethinks
 bethought
 bethump
 bethumped
@@ -5704,6 +5706,7 @@ bondages
 bonders
 bondmaid
 bondmaids
+bondsman
 bondwoman
 bondwomen
 bone
@@ -6060,6 +6063,7 @@ braining
 brainlessnesses
 brainsickly
 brainstorm
+brainstorms
 brainteaser
 brainteasers
 brainwashed
@@ -7676,6 +7680,7 @@ cartel
 cartelise
 cartelization
 cartelizing
+carter
 cartilages
 cartilaginous
 cartographers
@@ -7995,6 +8000,7 @@ cembalists
 cembalos
 cement
 cementa
+cemented
 cementer
 cementing
 cenobites
@@ -10059,6 +10065,7 @@ commonalty
 commoners
 commonness
 commonnesses
+commons
 commonsense
 commonsensible
 commonweals
@@ -14361,6 +14368,7 @@ dimming
 dimnesses
 dimorphic
 dimorphism
+dimout
 dimouts
 dimpled
 dimpliest
@@ -14936,6 +14944,7 @@ disseminators
 disseminule
 dissented
 dissentient
+dissentients
 dissentious
 dissertated
 dissertates
@@ -14985,6 +14994,7 @@ distension
 distent
 distich
 distichous
+distichs
 distil
 distill
 distillation
@@ -16853,6 +16863,7 @@ endemial
 endemicities
 enders
 endexines
+endgame
 endgames
 endited
 endives
@@ -18258,6 +18269,7 @@ exposition
 expositional
 expositive
 expositors
+expository
 expostulated
 expostulations
 exposure
@@ -19505,6 +19517,7 @@ flanging
 flank
 flanked
 flanken
+flanks
 flannel
 flannelette
 flannelettes
@@ -21195,6 +21208,7 @@ gawsy
 gayals
 gaydars
 gayety
+gazabos
 gazanias
 gazar
 gaze
@@ -22441,6 +22455,7 @@ groovy
 groper
 gropes
 gropingly
+groschen
 grosgrain
 grosgrains
 grossulars
@@ -23338,6 +23353,7 @@ heartsease
 heartsick
 heartsicknesses
 heartthrob
+heartwarming
 heartwood
 heartworm
 hearty
@@ -25417,6 +25433,7 @@ inamoratas
 inamorato
 inane
 inanes
+inanimatenesses
 inanities
 inanitions
 inappositely
@@ -25442,6 +25459,7 @@ inborn
 inbound
 inbounded
 inbounding
+inbreathe
 inbreathed
 inbreeder
 inbreeders
@@ -32818,6 +32836,7 @@ mouthfeel
 mouthwash
 mouthwashes
 mouthwateringly
+movability
 movablenesses
 move
 moveably
@@ -33811,6 +33830,7 @@ neuston
 neuter
 neutered
 neutering
+neutral
 neutralistic
 neutralities
 neutralizers
@@ -35668,6 +35688,7 @@ osculate
 osculation
 osculatory
 oscule
+osculum
 oses
 osiered
 osiers
@@ -37959,6 +37980,7 @@ peony
 peopling
 pep
 peperomias
+pepino
 pepinos
 peploses
 peplum
@@ -40463,6 +40485,7 @@ prepackages
 prepaid
 preparator
 preparedly
+preparednesses
 prepares
 prepasted
 prepay
@@ -41031,6 +41054,7 @@ pronate
 pronated
 pronators
 pronenesses
+pronghorns
 pronging
 pronoun
 pronouncement
@@ -41060,6 +41084,7 @@ propended
 propends
 propenol
 propenols
+propense
 propensity
 properdin
 properdins
@@ -43957,6 +43982,7 @@ renowns
 rentability
 renters
 renumbering
+renunciation
 renunciative
 renunciatory
 reobjects
@@ -49769,6 +49795,7 @@ splashed
 splashier
 splashing
 splashy
+splatted
 splatter
 splatters
 splatting
@@ -51170,6 +51197,7 @@ submarining
 submaximal
 submenus
 submergences
+submerges
 submergible
 submerses
 submersible
@@ -53101,6 +53129,7 @@ tenors
 tenour
 tenpences
 tenpin
+tenrec
 tenseness
 tenses
 tensest
@@ -55148,6 +55177,7 @@ tumblings
 tumbrels
 tumefaction
 tumefied
+tumefies
 tumesce
 tumescence
 tumescing
@@ -57993,6 +58023,7 @@ volatilizing
 volcanicity
 volcanisms
 volcanize
+volcano
 volcanologies
 volcanos
 volery
@@ -58859,6 +58890,7 @@ whoresons
 whorls
 whortle
 whosesoever
+whosises
 whoso
 whump
 whumps
@@ -59180,6 +59212,7 @@ wommeras
 won
 wondered
 wonderer
+wonderful
 wondering
 wonderlands
 wonderments
@@ -59690,6 +59723,7 @@ zaps
 zaptieh
 zarebas
 zarf
+zariba
 zaribas
 zas
 zastruga
@@ -59765,6 +59799,7 @@ zippering
 zippier
 zippy
 zips
+ziram
 zirconias
 zirconiums
 zit
