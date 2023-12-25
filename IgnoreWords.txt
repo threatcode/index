@@ -108,6 +108,7 @@ abundant
 abundantly
 abused
 abusively
+abut
 abutilons
 abuts
 abuttal
@@ -842,6 +843,7 @@ agelong
 agemate
 agencies
 agency
+agendaless
 agendas
 agendum
 agendums
@@ -1422,6 +1424,7 @@ ambivert
 amblers
 ambles
 amblygonite
+amblyopia
 amboina
 amboinas
 ambones
@@ -3370,6 +3373,7 @@ auxesis
 auxin
 auxotroph
 avail
+availableness
 availablenesses
 availing
 avalanches
@@ -9320,6 +9324,7 @@ clodhopping
 clodpate
 clodpoll
 clods
+clofibrate
 clofibrates
 clog
 cloggers
@@ -14173,6 +14178,7 @@ dibbles
 dibbling
 dibbuks
 dibromide
+dibromides
 dicarboxylic
 dicasts
 diced
@@ -15897,6 +15903,7 @@ dungeoned
 dungeoning
 dunghill
 dungier
+dunk
 dunked
 dunker
 dunks
@@ -17702,6 +17709,7 @@ eternising
 eternities
 eternizes
 ethambutol
+ether
 etherealities
 ethereality
 etherealness
@@ -18711,6 +18719,7 @@ farcers
 farceur
 farci
 farcicality
+fard
 farded
 farebox
 fareboxes
@@ -21687,6 +21696,7 @@ gleamiest
 gleamy
 gleaners
 gleaning
+glebe
 glebeless
 glede
 glee
@@ -22131,6 +22141,7 @@ gradualists
 gradualnesses
 graduand
 graduands
+graduation
 graduses
 graecized
 graecizing
@@ -22264,6 +22275,7 @@ gravelled
 gravelling
 graver
 graves
+graveside
 gravesides
 gravest
 gravestone
@@ -23357,6 +23369,7 @@ heartener
 heartening
 hearteningly
 heartfelt
+hearthrugs
 hearths
 hearthstone
 heartinesses
@@ -23681,6 +23694,7 @@ hermaphroditic
 hermatypic
 hermeneutical
 hermetical
+hermeticisms
 hermetisms
 hermitages
 hermitry
@@ -24231,6 +24245,7 @@ hookahs
 hookas
 hookier
 hooklike
+hooknose
 hooknosed
 hooknoses
 hoopers
@@ -24475,6 +24490,7 @@ hullo
 hulloaed
 hulloas
 hulloos
+humaneness
 humanised
 humanises
 humanising
@@ -25848,6 +25864,7 @@ industrialisms
 industrialist
 industrialized
 industrially
+industries
 industriously
 industry
 indwells
@@ -29391,6 +29408,7 @@ litho
 lithoed
 lithographer
 lithographies
+lithographs
 lithoid
 lithological
 lithologically
@@ -29797,6 +29815,7 @@ lubberliness
 lubberlinesses
 lubbers
 lube
+lubing
 lubric
 lubricants
 lubricates
@@ -32232,6 +32251,7 @@ misvocalization
 misword
 misworded
 miswrite
+miswrites
 miswritten
 misyoking
 miters
@@ -34009,6 +34029,7 @@ nihilism
 nihilistic
 nihility
 nilgai
+nilled
 nills
 nilpotents
 nils
@@ -39555,6 +39576,7 @@ polarities
 polarize
 polarized
 polarizers
+polarographies
 polars
 pole
 poleaxe
@@ -39900,6 +39922,7 @@ possession
 possessional
 possessiveness
 possessives
+possessors
 possessory
 possiblest
 postaccident
@@ -44227,6 +44250,7 @@ reprovingly
 reptiles
 reptilia
 reptilian
+republicanism
 republicanisms
 republicanize
 republicanized
@@ -45716,6 +45740,7 @@ rustication
 rusticator
 rusticators
 rusticly
+rusting
 rustled
 rustlers
 rustles
@@ -46194,6 +46219,7 @@ saskatoon
 sasquatch
 sassabies
 sassafrases
+sassier
 sassiness
 sastruga
 satanist
@@ -46888,6 +46914,7 @@ seasicknesses
 seasides
 seasonable
 seasonality
+seasonally
 seasoner
 seasonings
 seastrands
@@ -48710,6 +48737,7 @@ slovenliness
 slovenly
 slovens
 slowdown
+slower
 slowest
 slowpokes
 slows
@@ -49145,6 +49173,7 @@ sojourned
 sojourns
 sokes
 sokol
+solaces
 solan
 solander
 solanine
@@ -50010,6 +50039,7 @@ spumous
 spunk
 spunked
 spunkiest
+spunkinesses
 spurgall
 spurgalls
 spurge
@@ -51764,6 +51794,7 @@ superlativeness
 superlawyers
 superlay
 superlie
+superlies
 superloyalist
 superlunar
 superlunary
@@ -51907,6 +51938,7 @@ supposition
 suppositional
 suppositious
 supposititious
+suppressants
 suppressed
 suppressible
 suppression
@@ -55343,6 +55375,7 @@ tutors
 tutorships
 tutoyer
 tuts
+tutted
 tutties
 tutting
 tuttis
@@ -56293,6 +56326,7 @@ ungloved
 ungloves
 unglued
 unglues
+ungluing
 ungodlinesses
 ungotten
 ungovernable
@@ -57408,6 +57442,7 @@ varieties
 variety
 variolate
 variolates
+variole
 varioloids
 variolous
 variometer
