@@ -607,6 +607,7 @@ adulterants
 adulterated
 adulterates
 adulterating
+adulteration
 adulterers
 adulteress
 adulteries
@@ -1162,6 +1163,7 @@ aliasing
 aliasings
 alibiing
 alidads
+alienabilities
 alienability
 alienages
 alienate
@@ -1837,6 +1839,7 @@ animalism
 animality
 animalization
 animalizes
+animalizing
 animated
 animately
 animateness
@@ -3360,6 +3363,7 @@ automatons
 automats
 automobile
 automobiles
+automobilist
 automobilists
 autonomists
 autonyms
@@ -4299,6 +4303,7 @@ becharming
 becked
 beckoned
 beckoners
+beclamors
 becloaked
 beclogged
 beclogs
@@ -5417,6 +5422,7 @@ blithers
 blithesomely
 blitzed
 blitzer
+blitzes
 blitzing
 blizzard
 blizzards
@@ -7853,6 +7859,7 @@ cataphoric
 cataphyll
 catapulting
 cataractous
+cataracts
 catarrhally
 catarrhine
 catastrophe
@@ -8806,6 +8813,7 @@ chondromata
 chooks
 choosers
 choosey
+choosy
 chopine
 chopines
 chopins
@@ -9990,6 +9998,7 @@ colorists
 colorlessly
 colorlessnesses
 colorpoint
+colossal
 colosseums
 colostral
 colostrum
@@ -10780,6 +10789,7 @@ contentiousness
 contes
 contest
 contestant
+contestations
 contesters
 contextless
 contexts
@@ -15396,6 +15406,7 @@ domesticated
 domestication
 domestics
 domic
+domically
 domicil
 domiciled
 domiciliates
@@ -16482,6 +16493,7 @@ ejecting
 ejects
 eking
 ekpwele
+ekuele
 elaborateness
 elaborating
 elaborative
@@ -17894,6 +17906,7 @@ eudaemons
 eudaimonism
 eudaimonisms
 eudemonia
+eugenically
 eugenicist
 eugenicists
 eugenics
@@ -18696,6 +18709,7 @@ fagoter
 fagoting
 fagotings
 fagots
+faience
 failure
 faineance
 faineants
@@ -19424,6 +19438,7 @@ financed
 finances
 financial
 financially
+finbacks
 finca
 fincas
 find
@@ -23085,6 +23100,7 @@ halitoses
 halitus
 halituses
 hallah
+hallahs
 hallelujah
 halliard
 halliards
@@ -25394,6 +25410,7 @@ immunosuppress
 immunotherapies
 immured
 immutabilities
+immutableness
 immy
 impacters
 impacting
@@ -26172,6 +26189,7 @@ inflective
 inflects
 inflexed
 inflexible
+inflexibleness
 inflexions
 inflictors
 inflows
@@ -28160,6 +28178,7 @@ kindled
 kindler
 kindles
 kindly
+kindreds
 kinds
 kinema
 kinescope
@@ -28449,6 +28468,7 @@ labored
 laboring
 laborious
 laboriousnesses
+laborite
 labors
 laborsaving
 labourers
@@ -29152,6 +29172,7 @@ letterman
 lettermen
 letterpresses
 letterspacings
+lettuce
 lettuces
 leu
 leucemias
@@ -30016,6 +30037,7 @@ lucences
 lucencies
 lucency
 lucerns
+lucidities
 lucidly
 lucifer
 luciferase
@@ -30033,6 +30055,7 @@ lues
 luge
 luged
 luggages
+luggers
 luggies
 luging
 lugs
@@ -30622,6 +30645,7 @@ manifoldly
 manihot
 manihots
 manikin
+manikins
 manilas
 manilla
 manille
@@ -32492,6 +32516,7 @@ mizzens
 mizzle
 mizzled
 mizzly
+mm
 mnemonically
 mo
 moa
@@ -34785,6 +34810,7 @@ nonrioting
 nonrival
 nonroyal
 nonrubber
+nonruminant
 nonruminants
 nonsacred
 nonsaline
@@ -40926,6 +40952,7 @@ pressman
 pressmarks
 pressrun
 pressurised
+pressurize
 prestamp
 prestamped
 prestamps
@@ -45069,6 +45096,7 @@ retrocession
 retrodict
 retrodictions
 retrodictive
+retrofire
 retrofits
 retroflections
 retrogradation
@@ -45265,6 +45293,7 @@ rheobases
 rheologically
 rheology
 rheometer
+rheophil
 rheostat
 rheostatic
 rheostats
@@ -45846,6 +45875,7 @@ rousements
 rousing
 rousted
 rousters
+rousting
 router
 routers
 routes
@@ -47152,6 +47182,7 @@ scutiform
 scuttered
 scuttlebutts
 scuttled
+scuttles
 scuttling
 scuzzes
 scyphistoma
@@ -49643,6 +49674,7 @@ sonneteering
 sonnetized
 sonnetizes
 sonnetted
+sonnetting
 sonnies
 sonograms
 sonority
@@ -55054,6 +55086,7 @@ traveller
 travelling
 traversal
 traversers
+traverses
 travertine
 travestied
 travestying
@@ -56646,6 +56679,7 @@ unfix
 unflagging
 unflappability
 unflappable
+unflapped
 unfledged
 unflinching
 unfoiled
@@ -58280,6 +58314,7 @@ violent
 violinist
 violinistic
 violinists
+violist
 violoncellist
 violones
 viomycins
