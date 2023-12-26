@@ -2,3 +2,10 @@ invidious/config/sql/session_ids.sql at master · iv-org/invidious · GitHub,htt
 invidious-docker - Gitea: Git with a cup of tea - altescy,https://git.altescy.jp/altescy/invidious-docker/blame/branch/master/config/sql/playlist_videos.sql
 altescy/invidious-docker: Docker configs for Invidious. - config/sql ...,https://git.altescy.jp/altescy/invidious-docker/src/branch/master/config/sql/nonces.sql
 altescy/invidious-docker - invidious-docker - Gitea: Git with a cup of tea,https://git.altescy.jp/altescy/invidious-docker/blame/commit/1862754ddbcae9f244eea690037e33ee3b62ef3d/config/sql/session_ids.sql
+invidious/config/sql/session_ids.sql at master · iv-org/invidious · GitHub,https://github.com/iv-org/invidious/blob/master/config/sql/session_ids.sql
+invidious/channel_videos.sql at master - invidious - Codeberg.org,https://codeberg.org/tmak2002/invidious/src/branch/master/config/sql/channel_videos.sql
+invidious-mod/channels.sql at ... - Gitler,https://gitler.moe/TechnicalSuwako/invidious-mod/src/commit/2e16774190515d9b81ce8f0237e79569cde0a371/config/sql/channels.sql
+altescy/invidious-docker: Docker configs for Invidious. - config/sql ...,https://git.altescy.jp/altescy/invidious-docker/src/commit/435c4ede51cdbb83c17a1422a49627895bb80e03/config/sql/playlists.sql
+invidious-mod/users.sql at ... - Gitler,https://gitler.moe/TechnicalSuwako/invidious-mod/src/commit/094f83564297257a956d2e42d3b70adfa78b3185/config/sql/users.sql
+altescy/invidious-docker - invidious-docker - Gitea: Git with a cup of tea,https://git.altescy.jp/altescy/invidious-docker/blame/commit/1862754ddbcae9f244eea690037e33ee3b62ef3d/config/sql/annotations.sql
+GRE-Syns-/QueryBuilder/gloss.sql at master - GitHub,https://github.com/jitendra29/GRE-Syns-/blob/master/QueryBuilder/gloss.sql
