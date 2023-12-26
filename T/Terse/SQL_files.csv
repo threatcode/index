@@ -1,0 +1,5 @@
+adapters.sql - dbt-labs/dbt-snowflake - GitHub,https://github.com/dbt-labs/dbt-snowflake/blob/main/dbt/include/snowflake/macros/adapters.sql
+toast.sql - eulerto/wal2json - GitHub,https://github.com/eulerto/wal2json/blob/master/sql/toast.sql
+pglogical/huge_tx_many_tables.sql at ...,https://git.data-bene.io/PostgreSQL/pglogical/src/commit/8e439159448f6eb50c3f295b55a477d671000ade/sql/huge_tx_many_tables.sql
+PostgreSQL: src/test/regress/sql/xml.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/xml.sql
+academics-mysql.sql - BrainMass,https://brainmass.com/file/175952/academics-mysql.sql
