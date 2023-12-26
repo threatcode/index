@@ -3867,6 +3867,7 @@ bananas
 banco
 band
 bandaged
+bandager
 bandaid
 bandanas
 bandanna
@@ -4555,6 +4556,7 @@ belittling
 bellbird
 belleek
 bellhops
+bellicose
 belligerences
 belligerent
 bellings
@@ -5289,6 +5291,7 @@ blackmailing
 blackness
 blacknesses
 blacksmith
+blacktails
 blackthorn
 blacktop
 blacktopped
@@ -6217,6 +6220,7 @@ breakable
 breakeven
 breakfast
 breakfront
+breaking
 breakneck
 breakthrough
 breakup
@@ -7001,6 +7005,7 @@ cabstands
 cacaos
 cachalot
 cachalots
+cache
 cachectic
 cachet
 cacheting
@@ -7109,6 +7114,7 @@ calciums
 calctuff
 calculated
 calculates
+calculation
 calculations
 calculous
 caldarium
@@ -11157,6 +11163,7 @@ cormels
 cormorants
 corn
 cornball
+cornballs
 cornbraided
 corncake
 corncrakes
@@ -12061,6 +12068,7 @@ crummie
 crummiest
 crumped
 crumpets
+crumple
 crumpled
 crumply
 crumps
@@ -13892,6 +13900,7 @@ designings
 designs
 desilver
 desilvering
+desilvers
 desirableness
 desirably
 desired
@@ -13927,6 +13936,7 @@ desperado
 desperados
 desperately
 desperatenesses
+desperation
 desperations
 despicably
 despiritualized
@@ -14071,6 +14081,7 @@ deuterostome
 deutoplasms
 deutzia
 deva
+devaluated
 devaluates
 devaluation
 devalue
@@ -14206,6 +14217,7 @@ diaeretic
 diagenetically
 diagnose
 diagnoseable
+diagnostic
 diagnosticians
 diagonal
 diagonalizes
@@ -16574,6 +16586,7 @@ eldercare
 elderliness
 eldership
 eldresses
+election
 electioneering
 elective
 electively
@@ -17633,6 +17646,7 @@ equivocation
 equivocators
 equivoke
 era
+eradiates
 eradicable
 eradicated
 eradicator
@@ -19136,6 +19150,7 @@ feinted
 feinting
 feistiest
 feistiness
+feistinesses
 feists
 felafel
 feldscher
@@ -19805,6 +19820,7 @@ flaunting
 flauntingly
 flaunty
 flavanol
+flavanols
 flavine
 flavones
 flavoprotein
@@ -21821,6 +21837,7 @@ girdling
 girlier
 giro
 girolles
+girosol
 girosols
 girshes
 girthed
@@ -22042,6 +22059,7 @@ glues
 glugged
 glugging
 glugs
+gluhweins
 gluier
 gluily
 gluiness
@@ -23787,6 +23805,7 @@ helves
 helving
 hemagglutinate
 hemagglutinated
+hemagglutinates
 hemagglutinins
 hemagog
 hemangioma
@@ -29659,6 +29678,7 @@ lispingly
 lissom
 lissome
 lissomely
+lissomenesses
 listable
 listee
 listenable
@@ -29889,6 +29909,7 @@ loggier
 loggy
 logician
 logicians
+logicise
 logicising
 logicize
 logicizes
@@ -31119,6 +31140,7 @@ maunderers
 maunders
 maunds
 mausolea
+mausoleums
 mauts
 mauves
 mavericks
@@ -31992,6 +32014,7 @@ militates
 militiamen
 milium
 milkier
+milking
 milks
 milkshake
 milkshed
@@ -34122,6 +34145,7 @@ nephrologists
 nephropathies
 nephrostomes
 nephrotoxic
+nephrotoxicity
 nepotic
 nepotist
 nerd
@@ -41497,6 +41521,7 @@ promote
 promoted
 promoting
 promotional
+promotive
 promotivenesses
 promptbooks
 prompted
@@ -43094,6 +43119,7 @@ read
 readable
 readableness
 readably
+readapt
 readd
 readdict
 readdicted
@@ -45332,6 +45358,7 @@ revitalise
 revitalising
 revitalization
 revitalized
+revitalizing
 revival
 revivalisms
 revivalist
@@ -49789,6 +49816,7 @@ somewhat
 somewhen
 somites
 sommeliers
+somnambulations
 somnambulist
 somnambulists
 somnifacient
@@ -50174,6 +50202,7 @@ speculated
 speculation
 speculative
 speculatively
+speculator
 speculum
 speechified
 speechifies
@@ -51003,6 +51032,7 @@ steric
 sterical
 sterically
 sterigma
+sterigmas
 sterigmata
 sterilely
 sterilised
@@ -53015,6 +53045,7 @@ tabling
 tabloid
 taboo
 tabooed
+tabooing
 taborers
 taborines
 tabour
@@ -54709,6 +54740,7 @@ tongmen
 tongues
 tonic
 tonically
+tonicity
 tonics
 toniest
 toning
@@ -54762,6 +54794,7 @@ topical
 topicalities
 topicality
 topics
+topkick
 topless
 toplines
 toploftiness
@@ -55047,6 +55080,7 @@ trainman
 trainways
 traipsed
 traitorous
+traitorously
 traits
 trajection
 trajections
@@ -55491,6 +55525,7 @@ trinketers
 trinodal
 trinomial
 trinomials
+trinucleotide
 trio
 triode
 triodes
