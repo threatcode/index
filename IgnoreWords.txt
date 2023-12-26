@@ -979,6 +979,7 @@ ahead
 ahi
 ahimsas
 ahistoric
+aid
 aide
 aided
 aider
@@ -3506,6 +3507,7 @@ axes
 axilla
 axillars
 axillas
+axils
 axiological
 axiologically
 axiology
@@ -3699,6 +3701,7 @@ bacteriophage
 bacteriostat
 bacteriostats
 bacteriuria
+bacterizes
 bacterizing
 bacula
 baculum
@@ -5025,6 +5028,7 @@ binding
 bindingness
 bindingnesses
 bindings
+bindle
 bindweeds
 bine
 biner
@@ -9237,6 +9241,7 @@ clapboarding
 clapperclaws
 clapping
 clapt
+claques
 claqueur
 claret
 claries
@@ -9789,6 +9794,7 @@ coeternal
 coeval
 coevalities
 coevally
+coexerted
 coexerting
 coexistence
 coexistences
@@ -10343,6 +10349,7 @@ comprehendible
 comprehensively
 compresses
 compressing
+compressional
 compressions
 compressive
 compressors
@@ -10906,6 +10913,7 @@ contrasting
 contrastive
 contravener
 contraveners
+contravenes
 contravening
 contredanse
 contribution
@@ -12208,6 +12216,7 @@ cuisse
 cuittle
 cuittled
 cuittles
+cuke
 culexes
 culices
 culicine
@@ -15632,6 +15641,7 @@ doughtily
 doughtinesses
 doupioni
 doupionis
+dour
 dourah
 dourer
 dourine
@@ -18336,6 +18346,7 @@ exhedrae
 exhibited
 exhibiting
 exhibitioner
+exhibitioners
 exhibitionisms
 exhibitionist
 exhibitions
@@ -18423,6 +18434,7 @@ expatriation
 expatriations
 expats
 expectancy
+expectantly
 expectants
 expectations
 expectative
@@ -18889,6 +18901,7 @@ fanciest
 fancified
 fancifies
 fanciful
+fancifulness
 fancify
 fancily
 fanciness
@@ -19289,6 +19302,7 @@ fervency
 fervent
 fervid
 fervidities
+fervidnesses
 fervours
 fescues
 fess
@@ -19963,6 +19977,7 @@ flitter
 flitters
 flitting
 floatages
+floated
 floatels
 floatiest
 floats
@@ -21718,6 +21733,7 @@ germplasms
 gerontic
 gerontocratic
 gerontologies
+gerontologists
 gerontology
 gerontomorphic
 gerrymander
@@ -23059,6 +23075,7 @@ gypsum
 gypsydoms
 gypsyish
 gypsyism
+gypsyisms
 gyral
 gyrally
 gyrate
@@ -26467,6 +26484,7 @@ inmost
 innage
 innatenesses
 inned
+inner
 innermost
 innermosts
 inners
@@ -28886,6 +28904,7 @@ larkiest
 larkish
 larruper
 larrupers
+larruping
 larums
 larva
 larval
@@ -33081,6 +33100,7 @@ morbific
 morbilli
 morceau
 mordacity
+mordantly
 mordants
 morel
 morelles
@@ -33288,6 +33308,7 @@ moviegoing
 moviemaking
 mow
 mowers
+mows
 moxas
 mozo
 mozzarella
@@ -38882,6 +38903,7 @@ pfennigs
 phaeton
 phages
 phagocytes
+phagocytic
 phagocytizing
 phagocytoses
 phagocytosing
@@ -41751,6 +41773,7 @@ protamins
 protatic
 protean
 proteans
+protect
 protectants
 protecters
 protective
@@ -43196,6 +43219,7 @@ reagins
 real
 reales
 realignments
+realism
 realisms
 realities
 reality
@@ -44121,6 +44145,7 @@ reguline
 regurgitate
 regurgitates
 rehabbed
+rehabilitant
 rehabilitants
 rehabilitating
 rehammered
@@ -45200,6 +45225,7 @@ retestifying
 retexture
 retexturing
 rethink
+rethinks
 rethreads
 retial
 retiarii
@@ -46909,6 +46935,7 @@ scalelike
 scaler
 scalers
 scales
+scaleup
 scaleups
 scaliest
 scaliness
@@ -49168,6 +49195,7 @@ sledding
 sledged
 sledgehammers
 sledges
+sledging
 sleeked
 sleekens
 sleeker
@@ -50213,6 +50241,7 @@ spearing
 spearmints
 spears
 spearwort
+specced
 specialer
 specialise
 specialities
@@ -50414,6 +50443,7 @@ spired
 spirier
 spirillum
 spiring
+spirit
 spirited
 spiritedness
 spiriting
@@ -52395,6 +52425,7 @@ superhyping
 superimposed
 superimposing
 superincumbent
+superinduce
 superinfecting
 superintend
 superintendents
@@ -53620,6 +53651,7 @@ teemer
 teemingly
 teemingness
 teenagers
+teenful
 teenier
 teeniest
 teensier
@@ -55636,6 +55668,7 @@ trismuses
 trisoctahedra
 trisoctahedron
 trisome
+tristate
 triste
 tristearin
 tristearins
@@ -57017,6 +57050,7 @@ unhang
 unhangs
 unhappiness
 unharmed
+unharried
 unhatched
 unhats
 unhealed
@@ -59950,6 +59984,7 @@ woks
 wolfberries
 wolfer
 wolffish
+wolffishes
 wolfhounds
 wolfishnesses
 wolfram
