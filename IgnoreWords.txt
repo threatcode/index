@@ -759,6 +759,7 @@ affects
 affidavit
 affiliate
 affiliates
+affiliating
 affinal
 affined
 affinities
@@ -9670,6 +9671,7 @@ coeducational
 coefficient
 coefficients
 coelacanth
+coelenteron
 coelom
 coelome
 coelomes
@@ -10683,6 +10685,7 @@ constrain
 constrainedly
 constraints
 constricting
+constrictions
 constrictors
 constringed
 constringes
@@ -10856,6 +10859,7 @@ convener
 conveners
 convening
 convenor
+convent
 convented
 conventing
 conventionalism
@@ -11742,6 +11746,7 @@ crenelating
 crenelled
 crenulated
 crenulation
+creodont
 creolised
 creolize
 creolized
@@ -12120,6 +12125,7 @@ culmed
 culminant
 culminate
 culms
+culpae
 cult
 cultches
 cultic
@@ -13248,6 +13254,7 @@ dehorning
 dehumanization
 dehumanizations
 dehumanize
+dehumanized
 dehumidified
 dehumidifies
 dehumidifying
@@ -15276,6 +15283,7 @@ doggrel
 doggy
 dogies
 dogleg
+doglegs
 doglike
 dogmatics
 dogmatism
@@ -19757,6 +19765,7 @@ flintinesses
 flinting
 flintlike
 flipflop
+flipflopping
 flippancies
 flippantly
 flipped
@@ -23767,6 +23776,7 @@ heroinisms
 heroism
 heroisms
 heroizing
+herons
 heros
 herpetological
 herpetologists
@@ -26197,6 +26207,7 @@ injustice
 ink
 inkberry
 inkblot
+inkers
 inkier
 inkinesses
 inkjet
@@ -26822,6 +26833,7 @@ introductorily
 introit
 introject
 introjected
+introjections
 intromitters
 introspection
 introversion
@@ -27020,6 +27032,7 @@ ironmen
 ironmongeries
 ironmongers
 ironmongery
+ironsides
 ironstone
 ironstones
 ironweed
@@ -27702,6 +27715,7 @@ justified
 justle
 justnesses
 justs
+jutes
 jutted
 jutting
 juttingly
@@ -31043,6 +31057,7 @@ megabucks
 megacorporation
 megacycle
 megadeath
+megadynes
 megafauna
 megafaunal
 megafaunas
@@ -32745,6 +32760,7 @@ mopingly
 mopishly
 mopokes
 moppet
+mopping
 moquette
 moquettes
 mora
@@ -34540,6 +34556,7 @@ nonmarital
 nonmarket
 nonmarkets
 nonmechanical
+nonmember
 nonmemberships
 nonmercurial
 nonmetaphorical
@@ -36024,6 +36041,7 @@ outdrop
 outdropping
 outdrunk
 outdueling
+outduelled
 outearning
 outearns
 outeating
@@ -36418,6 +36436,7 @@ overbidden
 overbids
 overbig
 overbleached
+overbleaching
 overblouse
 overblowing
 overblown
@@ -36773,6 +36792,7 @@ overrunning
 overruns
 overs
 oversale
+oversales
 oversalting
 oversaturations
 oversauces
@@ -39321,6 +39341,7 @@ plantation
 planters
 plantings
 plantlets
+plantsman
 planular
 planuloid
 plashed
@@ -42709,6 +42730,7 @@ ravaging
 rave
 ravel
 raveled
+raveling
 ravelled
 ravellers
 ravelly
@@ -46675,6 +46697,7 @@ schuss
 schusser
 schvartzes
 schwartzes
+sciaenids
 sciamachy
 sciaticas
 scientism
@@ -47132,6 +47155,7 @@ seecatchie
 seediest
 seediness
 seedinesses
+seeding
 seedless
 seedlike
 seedsman
@@ -47427,6 +47451,7 @@ separationist
 sepia
 sepic
 sepiolites
+septages
 septaria
 septenaries
 septenary
@@ -48492,6 +48517,7 @@ skags
 skaldship
 skanker
 skateboarder
+skateboarders
 skateboardings
 skates
 skats
@@ -49218,6 +49244,7 @@ soba
 sobbed
 sobeit
 sober
+sobered
 soberizes
 sobers
 sobrieties
@@ -49465,6 +49492,7 @@ soothe
 soothed
 soothes
 soothingly
+soothingness
 soothingnesses
 soothly
 sooths
@@ -49773,6 +49801,7 @@ spectacular
 spectaculars
 spectate
 spectating
+spectator
 spectatorships
 specter
 spectra
@@ -54963,6 +54992,7 @@ tributaries
 tributary
 tricarboxylic
 trice
+tricep
 triceps
 trices
 trichiasis
@@ -57066,6 +57096,7 @@ unvalued
 unvarying
 unveilings
 unverbalized
+unversed
 unvext
 unvisited
 unvocal
@@ -58046,6 +58077,7 @@ violences
 violent
 violinist
 violinistic
+violinists
 violoncellist
 violones
 viomycins
@@ -58146,6 +58178,7 @@ vitreouses
 vitric
 vitrification
 vitrifications
+vitrified
 vitrifies
 vitrify
 vitrine
@@ -58261,6 +58294,7 @@ voodooistic
 voodooists
 voraciousness
 voraciousnesses
+vortexes
 vortically
 vorticella
 vorticellae
@@ -59812,6 +59846,7 @@ yeomanries
 yerba
 yerbas
 yerked
+yeshivot
 yesses
 yestern
 yet
