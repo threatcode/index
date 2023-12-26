@@ -1,0 +1,5 @@
+persist/src/db/7/fix_db_20150820.sql ... - LCSB Gitlab,https://git-r3lab.uni.lu/minerva/core/blob/0dd0663a0f41a449b220f4b9f61b07778799dd42/persist/src/db/7/fix_db_20150820.sql
+persist/src/db/7/fix_db_20150409.sql ... - LCSB Gitlab,https://git-r3lab.uni.lu/minerva/core/blob/fd2df41f3d780cd2c62aae41b1a72bacfe40aa58/persist/src/db/7/fix_db_20150409.sql
+admin SQL - CCP4,https://legacy.ccp4.ac.uk/peter/private/MSD-SQL/sql/adm.sql
+Source of mp_cosmic_site.sql - AnomalyWeb - Peter Mac Bitbucket,https://atlassian.petermac.org.au/bitbucket/projects/AN/repos/anomalyweb/diff/Loader/src/ETL/Tables/mp_cosmic_site.sql%3FautoSincePath%3Dfalse%26until%3Ddfef0009b3401306d3a738a3e2e5119d50246402%26at%3Ddfef0009b34
+Source of ref_lrg.sql - AnomalyWeb - Peter Mac Bitbucket,https://atlassian.petermac.org.au/bitbucket/projects/AN/repos/anomalyweb/diff/Loader/src/ETL/Tables/ref_lrg.sql%3FautoSincePath%3Dfalse%26until%3Df3db85819f10281af914f60b58c8bcdbab605465%26at%3Df3db85819f1
