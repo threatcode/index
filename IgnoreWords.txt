@@ -50,6 +50,7 @@ abscesses
 abscessing
 abscised
 abscisin
+abscission
 absconds
 absentee
 absentees
@@ -733,6 +734,7 @@ aerosat
 aerosats
 aerosol
 aerosolizations
+aerosolized
 aerostat
 aerostats
 aesthetic
@@ -3945,6 +3947,7 @@ bangles
 banishment
 banjaxing
 banjoes
+banjoist
 bankabilities
 bankability
 banking
@@ -6247,6 +6250,7 @@ bravoed
 bravoes
 bravura
 bravuras
+brawler
 brawling
 brawnier
 brawniest
@@ -6771,6 +6775,7 @@ bundist
 bundle
 bundlers
 bundling
+bundlings
 bunds
 bundts
 bungalow
@@ -7455,6 +7460,7 @@ cantaloupes
 cantals
 cantankerous
 cantata
+cantatas
 canteens
 canter
 cantered
@@ -11262,6 +11268,7 @@ cornball
 cornballs
 cornbraided
 corncake
+corncob
 corncrakes
 corncribs
 cornea
@@ -14565,6 +14572,7 @@ digestive
 digestively
 digestives
 digestor
+digging
 dighting
 dights
 digital
@@ -17614,6 +17622,7 @@ ephedrins
 ephemera
 ephemeral
 ephemerality
+ephemerid
 ephemerides
 ephemerids
 ephemerons
@@ -18024,6 +18033,7 @@ estreats
 estriol
 estrone
 estrones
+estrums
 estrus
 estruses
 estuarial
@@ -20628,6 +20638,7 @@ formalness
 formant
 formants
 formate
+formation
 formations
 formatively
 formatters
@@ -22295,6 +22306,7 @@ glycogenesis
 glycogenolysis
 glycolipid
 glycopeptide
+glycoprotein
 glycoproteins
 glycosidase
 glycosidic
@@ -22609,6 +22621,7 @@ grammaticalness
 gramme
 gramophones
 grampa
+gramps
 grams
 granary
 grand
@@ -25786,6 +25799,7 @@ imperatively
 imperator
 imperceivable
 imperceptibly
+imperfective
 imperfectly
 imperfects
 imperia
@@ -28385,6 +28399,7 @@ kerfing
 kermess
 kermis
 kermises
+kern
 kerne
 kerneling
 kernelling
@@ -28955,6 +28970,7 @@ lakhs
 lakier
 lallan
 lallans
+lallygagged
 lallygags
 lambaste
 lambdoid
@@ -29045,6 +29061,7 @@ langridge
 language
 langues
 languets
+languid
 languidly
 languished
 languishers
@@ -29783,6 +29800,7 @@ likening
 likens
 likers
 likewise
+likuta
 lilac
 lilangeni
 lilies
@@ -32766,6 +32784,7 @@ misoneists
 misorder
 misorient
 misorientation
+misos
 mispackaged
 mispackages
 mispaints
@@ -36157,6 +36176,7 @@ oospore
 oospores
 oot
 ootheca
+oothecae
 oots
 oozing
 op
@@ -37181,6 +37201,7 @@ overdrew
 overdrinking
 overdriving
 overdrying
+overdye
 overdyeing
 overdyers
 overeagernesses
@@ -37411,6 +37432,7 @@ overproduces
 overprogramed
 overprograms
 overprotect
+overpump
 overrash
 overrate
 overreaches
@@ -37464,6 +37486,7 @@ overshadows
 overshirts
 overshoe
 overshot
+overshots
 oversides
 oversimplifies
 oversimplifying
@@ -39138,6 +39161,7 @@ pestilent
 pestilential
 pestled
 pestles
+pet
 petabyte
 petabytes
 petalody
@@ -39315,6 +39339,7 @@ phlegm
 phlegmier
 phlegmiest
 phlegms
+phlogopites
 phlorizins
 phobias
 phobics
@@ -42586,6 +42611,7 @@ purposefulness
 purposeless
 purposelessness
 purposively
+purpura
 purpuric
 purpurins
 purr
@@ -46999,6 +47025,7 @@ sandmen
 sandpapered
 sandpile
 sandpits
+sandshoe
 sandsoap
 sandspur
 sandspurs
@@ -48583,6 +48610,7 @@ shaving
 shawl
 shawled
 shawling
+shawn
 shays
 shea
 sheafing
@@ -49603,6 +49631,7 @@ slenderly
 sleuth
 sleuthhounds
 slewing
+slicing
 slickened
 slickeners
 slickenside
@@ -49695,6 +49724,7 @@ slothfulnesses
 slotted
 slouch
 slouches
+slouchiness
 slouchinesses
 slough
 sloughier
@@ -54150,6 +54180,7 @@ telestics
 teletext
 teletypewriter
 teletyping
+teleutospore
 televangelism
 televangelist
 televiewed
@@ -54788,6 +54819,7 @@ thrift
 thriftier
 thriftiness
 thrifty
+thrillers
 thrilling
 thrillingly
 thrills
@@ -57720,6 +57752,7 @@ unowned
 unoxygenated
 unpack
 unpacked
+unpacker
 unpacks
 unpadded
 unpaid
@@ -59499,6 +59532,7 @@ wamus
 wamuses
 wand
 wandered
+wanderoos
 wanders
 wandle
 waney
@@ -60161,6 +60195,7 @@ wideawake
 widen
 widenesses
 widening
+wideout
 wides
 widget
 widgets
