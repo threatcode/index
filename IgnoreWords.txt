@@ -73,6 +73,7 @@ absolvers
 absolves
 absonant
 absorb
+absorbance
 absorbances
 absorbants
 absorbed
@@ -1698,6 +1699,7 @@ analogous
 analogs
 analogy
 analphabetics
+analphabetisms
 analyse
 analysers
 analysing
@@ -2158,6 +2160,7 @@ antimaterialist
 antimere
 antimeres
 antimerger
+antimetabolite
 antimicrobials
 antimitotics
 antimodernists
@@ -2437,6 +2440,7 @@ appareled
 apparitor
 apparitors
 appealed
+appealer
 appealing
 appeals
 appear
@@ -2948,6 +2952,7 @@ ashram
 asides
 asininity
 askant
+asked
 asker
 askoi
 aslant
@@ -4034,6 +4039,7 @@ barbarousnesses
 barbasco
 barbascos
 barbe
+barbecued
 barbecuer
 barbeque
 barbeques
@@ -4115,6 +4121,7 @@ barometer
 barometrically
 barometries
 barometry
+baron
 baronage
 baronet
 baronne
@@ -4740,6 +4747,7 @@ benzoyl
 bepaints
 bepimple
 bepimpled
+bequeath
 bequeathals
 bequeaths
 berascals
@@ -9981,6 +9989,7 @@ cogon
 cogways
 cohabit
 cohabitant
+cohabitants
 cohabitation
 cohabitations
 cohabited
@@ -13291,6 +13300,7 @@ decoloring
 decolorization
 decolorizations
 decolorize
+decolorizes
 decolorizing
 decolour
 decommission
@@ -13818,6 +13828,7 @@ denitrified
 denitrifies
 denitrify
 denizening
+denizens
 denned
 denominate
 denominates
@@ -14072,6 +14083,7 @@ descried
 descrier
 descries
 descriptive
+descriptively
 descriptors
 desecrate
 desecrated
@@ -15094,6 +15106,7 @@ disentangles
 disentangling
 disenthral
 disentitled
+disentitles
 disequilibrated
 disequilibrates
 disequilibrium
@@ -16372,6 +16385,7 @@ dustlike
 dustman
 dustoff
 dustoffs
+dustproof
 dustrag
 dustrags
 dustups
@@ -17527,6 +17541,7 @@ enravishes
 enravishing
 enregisters
 enriches
+enrichment
 enrollee
 enrollers
 enrollment
@@ -19037,6 +19052,7 @@ facula
 facultative
 fad
 fadable
+faddier
 faddishly
 faddishness
 faddy
@@ -24448,6 +24464,7 @@ hiccupped
 hiccups
 hickey
 hickeys
+hickie
 hickish
 hickory
 hidable
@@ -26072,6 +26089,7 @@ impressive
 impressiveness
 impressments
 impressure
+imprests
 imprimis
 imprint
 imprinted
@@ -30588,6 +30606,7 @@ lovesickness
 lovingly
 lovingness
 lovingnesses
+lowballed
 lowballs
 lowborn
 lowboy
@@ -32741,6 +32760,7 @@ misadventures
 misadvice
 misadvise
 misadvises
+misagent
 misaimed
 misaiming
 misalignment
@@ -38860,6 +38880,7 @@ pedicles
 pediculate
 pediculates
 pedicured
+pedicurists
 pedigree
 pedigrees
 pedimented
@@ -40897,6 +40918,7 @@ poppa
 poppadoms
 poppadum
 popped
+poppers
 popping
 poppling
 poppycock
@@ -42889,6 +42911,7 @@ pursuing
 pursuits
 pursuivant
 pursuivants
+purtenance
 purtenances
 purtiest
 purvey
@@ -43782,6 +43805,7 @@ reaccede
 reacceded
 reaccelerated
 reaccelerating
+reaccession
 reaccessions
 reacclaim
 reacclimatize
@@ -44216,6 +44240,7 @@ record
 recording
 recordists
 recork
+recorks
 recounter
 recounters
 recounts
@@ -44725,6 +44750,7 @@ region
 regionalistic
 registering
 registration
+registrations
 regius
 reglaze
 reglazing
@@ -46736,6 +46762,7 @@ rouleaux
 rouletting
 round
 rounded
+roundedness
 roundednesses
 roundelay
 roundelays
@@ -49274,6 +49301,7 @@ shuttering
 shutterless
 shutters
 shutting
+shuttlecock
 shuttlecocks
 shuttler
 shuttlers
@@ -51493,6 +51521,7 @@ stablemen
 stableness
 stablest
 stablished
+stablishments
 stabs
 stack
 stackable
@@ -53068,6 +53097,7 @@ superable
 superabounded
 superabounding
 superabsorbent
+superactivities
 superadded
 superadding
 superagencies
@@ -53851,6 +53881,7 @@ systematic
 systematicness
 systematised
 systematists
+systematization
 systematized
 systematizers
 systemizes
@@ -55061,6 +55092,7 @@ thorax
 thoraxes
 thorianites
 thoriums
+thornback
 thornbacks
 thorned
 thornier
@@ -57394,6 +57426,7 @@ unclubbable
 uncluttered
 unclutters
 uncoalesced
+uncodified
 uncoerced
 uncoffin
 uncollected
@@ -60772,6 +60805,7 @@ witherer
 witherers
 witheringly
 witherites
+withins
 without
 withouts
 withstand
@@ -60892,6 +60926,7 @@ woodsman
 woodsy
 woodtone
 woodwaxen
+woodwaxens
 woodworks
 woof
 woofs
