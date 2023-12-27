@@ -672,6 +672,7 @@ advice
 advisably
 advise
 advisee
+advisees
 advisements
 adviser
 advises
@@ -3093,6 +3094,7 @@ asthenospheric
 astheny
 asthmas
 asthmatics
+astilbe
 astilbes
 astir
 astonies
@@ -3563,6 +3565,7 @@ awninged
 awnings
 awny
 awols
+ax
 axed
 axel
 axels
@@ -4726,6 +4729,7 @@ benefiters
 benefiting
 benignancies
 benignity
+bennies
 bennis
 benomyl
 bent
@@ -4962,6 +4966,7 @@ bibulousness
 bibulousnesses
 bicameralism
 bicarb
+bicarbonate
 bicarbonates
 bicentenaries
 bicentennials
@@ -7948,6 +7953,7 @@ caseating
 caseation
 casebearer
 casefies
+casefying
 caseinate
 caseinates
 caseload
@@ -8129,6 +8135,7 @@ cauliflower
 caulis
 caulked
 caulking
+causable
 causalgia
 causative
 causes
@@ -15794,6 +15801,7 @@ dopily
 dopiness
 doppelgangers
 dorbug
+dorbugs
 dore
 dorkiness
 dorks
@@ -16540,6 +16548,7 @@ earthrises
 earthshines
 earthward
 earthwork
+earwitnesses
 earworms
 easement
 easier
@@ -19851,6 +19860,7 @@ fincas
 find
 finders
 finds
+finely
 fineries
 fines
 finespun
@@ -20441,6 +20451,7 @@ fluxgates
 fluxional
 fluxions
 fluyts
+flyaways
 flybelt
 flyboat
 flybys
@@ -21514,6 +21525,7 @@ galabiya
 galabiyas
 galactorrhea
 galactosides
+galactosyl
 galago
 galahs
 galangas
@@ -22053,6 +22065,7 @@ germans
 germens
 germicide
 germicides
+germinability
 germinally
 germinated
 germplasm
@@ -26189,6 +26202,7 @@ inaugural
 inaugurals
 inaugurated
 inaugurating
+inaugurator
 inauspicious
 inauthentic
 inauthenticity
@@ -26814,6 +26828,7 @@ inhalational
 inhalations
 inhalators
 inhaler
+inhalers
 inhales
 inharmoniously
 inhaulers
@@ -27060,6 +27075,7 @@ instead
 instigates
 instigating
 instigations
+instigator
 instil
 instillations
 instillers
@@ -29626,6 +29642,7 @@ lectotype
 lecture
 lectured
 lecturers
+lectures
 lecturing
 leeboards
 leeched
@@ -32963,6 +32980,7 @@ misgrowing
 misguesses
 misguidance
 misguide
+misguided
 misguidednesses
 misguides
 misguiding
@@ -36041,6 +36059,7 @@ observational
 observationally
 observatories
 observer
+observers
 observes
 observingly
 obsession
@@ -37034,6 +37053,7 @@ outhit
 outhomered
 outhomering
 outhomers
+outhouses
 outhunted
 outhunting
 outhunts
@@ -37538,6 +37558,7 @@ overflooded
 overflowed
 overfocussing
 overfoul
+overfree
 overfulfilling
 overfulfills
 overfull
@@ -39781,6 +39802,7 @@ phraseology
 phrasing
 phratric
 phratries
+phreaking
 phrenologies
 phrensied
 pht
@@ -42838,6 +42860,7 @@ punkiest
 punkin
 punks
 punky
+punned
 punner
 punniest
 punningly
@@ -46435,6 +46458,7 @@ rimpling
 rimshots
 rin
 rind
+rinded
 rinds
 ringbarks
 ringbone
@@ -49966,6 +49990,7 @@ sleeve
 sleevelets
 sleeving
 sleighed
+sleighers
 sleight
 sleights
 slender
@@ -52490,6 +52515,7 @@ suaveness
 subacidnesses
 subacrid
 subadar
+subadolescent
 subaerial
 subaerially
 subagents
@@ -53486,6 +53512,7 @@ surroyals
 surtax
 surtaxes
 surtitles
+surveillants
 surveilling
 survey
 surveyed
@@ -53790,6 +53817,7 @@ sympathomimetic
 sympathy
 sympatric
 sympatries
+sympetalies
 sympetaly
 symphonically
 symphonious
@@ -54216,6 +54244,7 @@ tapioca
 tapirs
 tappable
 tapper
+taprooms
 taps
 tar
 taradiddle
@@ -54377,6 +54406,7 @@ teabox
 teach
 teachable
 teachably
+teaches
 teacup
 teacupful
 teacups
@@ -54552,6 +54582,7 @@ telescoped
 telescopic
 telescopies
 teleshopping
+teleshops
 telesis
 telestic
 telestics
@@ -58871,6 +58902,7 @@ vacant
 vacantly
 vacatable
 vacationist
+vaccinal
 vaccinas
 vaccinating
 vaccinations
@@ -60295,6 +60327,7 @@ weirdo
 weirdy
 weirs
 weisenheimers
+weka
 welched
 welcher
 welching
@@ -60402,6 +60435,7 @@ wheelings
 wheelmen
 wheelsman
 wheelwright
+wheen
 wheep
 wheeping
 wheeple
@@ -61304,6 +61338,7 @@ yellowfins
 yellowhammer
 yellowtail
 yellowware
+yellowwood
 yellowy
 yelped
 yelping
