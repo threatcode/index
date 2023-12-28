@@ -692,6 +692,7 @@ adzing
 aecia
 aecidium
 aecium
+aediles
 aedine
 aegis
 aeonian
@@ -795,6 +796,7 @@ affixing
 afflatus
 afflicting
 affluences
+affluencies
 affluency
 affluents
 affordabilities
@@ -4242,6 +4244,7 @@ bastardised
 bastardises
 bastardizations
 bastardize
+bastardized
 bastardly
 bastards
 baste
@@ -5427,6 +5430,7 @@ blain
 blameful
 blamefully
 blamelessly
+blamelessness
 blamelessnesses
 blamers
 blames
@@ -7540,6 +7544,7 @@ canons
 canoodle
 canoodled
 canopic
+canopies
 canopy
 canopying
 canorousness
@@ -11645,6 +11650,7 @@ councillorships
 councils
 counselee
 counselings
+counselling
 counsellor
 counsellors
 counselorships
@@ -13433,6 +13439,7 @@ defacements
 defalcate
 defalcated
 defalcating
+defalcator
 defamation
 defamed
 defamers
@@ -18476,6 +18483,7 @@ evoked
 evoking
 evolution
 evolutions
+evolve
 evolved
 evolvement
 evolving
@@ -20570,6 +20578,7 @@ follicles
 follicular
 follower
 followers
+folly
 fomentation
 fomenting
 fomites
@@ -21998,6 +22007,7 @@ genro
 gent
 gentamicin
 genteelest
+genteelisms
 genteelness
 gentil
 gentilesse
@@ -23511,6 +23521,7 @@ habituates
 habitude
 habitue
 habus
+haceks
 hachures
 hacienda
 hack
@@ -24765,6 +24776,7 @@ hokeypokeys
 hokier
 hokku
 hokypokies
+holandric
 holard
 holdable
 holden
@@ -27335,6 +27347,7 @@ interlobular
 interlocal
 interlocked
 interlocking
+interlocutor
 interlooped
 interlooping
 interlude
@@ -28013,6 +28026,7 @@ jacanas
 jacaranda
 jacinthe
 jacinths
+jack
 jackal
 jackanapeses
 jackaroo
@@ -30441,6 +30455,7 @@ locknuts
 lockram
 lockrams
 locks
+lockstitch
 lockstitching
 lockups
 locoed
@@ -30604,6 +30619,7 @@ loppiest
 lopping
 lopsidedness
 lopsidednesses
+loquaciously
 loquacity
 loquat
 loquats
@@ -32691,6 +32707,7 @@ milliwatts
 millponds
 millrace
 millruns
+millstreams
 millworks
 millwrights
 milpa
@@ -32930,6 +32947,7 @@ misclassifying
 misclassing
 miscode
 miscoin
+miscolor
 miscolors
 miscomputed
 misconceive
@@ -33888,6 +33906,7 @@ mouthwashes
 mouthwateringly
 movability
 movablenesses
+movables
 movably
 move
 moveably
@@ -37881,6 +37900,7 @@ overstocking
 overstocks
 overstrain
 overstrained
+overstraining
 overstrains
 overstress
 overstretch
@@ -38451,6 +38471,7 @@ paralegal
 paralinguistics
 parallelisms
 parallelled
+parallelling
 parallelograms
 paralyse
 paralysing
@@ -43195,6 +43216,7 @@ quackiest
 quacking
 quacky
 quad
+quadplex
 quadrans
 quadrantal
 quadraphonics
@@ -43391,6 +43413,7 @@ quinaries
 quinces
 quindecillions
 quinela
+quinelas
 quinella
 quiniela
 quinielas
@@ -43453,6 +43476,7 @@ quizmasters
 quizzer
 quizzers
 quizzing
+quodlibets
 quohog
 quohogs
 quoin
@@ -45900,6 +45924,7 @@ restarting
 restarts
 restated
 restatements
+restationing
 resters
 restful
 restfully
@@ -46207,6 +46232,7 @@ reverter
 revertible
 reverts
 revery
+revest
 revetment
 revibrates
 revictual
@@ -48488,6 +48514,7 @@ sejant
 sel
 selachians
 selah
+selcouth
 seldomly
 selected
 selectee
@@ -49613,6 +49640,7 @@ silkiest
 silkily
 silking
 silks
+silkweeds
 silkworm
 sillabubs
 siller
@@ -49959,6 +49987,7 @@ skyed
 skyey
 skyhook
 skyjacks
+skylark
 skylarkers
 skylights
 skyline
@@ -51536,6 +51565,7 @@ spunk
 spunked
 spunkiest
 spunkinesses
+spunks
 spurgall
 spurgalls
 spurge
@@ -54668,6 +54698,7 @@ telephonically
 telephoning
 telephotos
 teleportation
+teleporting
 teleprocessing
 teleran
 telescope
@@ -57645,6 +57676,7 @@ uncounted
 uncourageous
 uncouthness
 uncovenanted
+uncreated
 uncreative
 uncritical
 uncropped
@@ -57864,6 +57896,7 @@ undiplomatic
 undiscoverable
 undissociated
 undistinguished
+undock
 undocked
 undoctored
 undoes
@@ -58099,6 +58132,7 @@ unifying
 unijugate
 unilateral
 unilaterally
+unilineal
 unilobed
 unimaginable
 unimaginably
@@ -58274,6 +58308,7 @@ unnervingly
 unnilhexiums
 unnilpentiums
 unnoisy
+unobtainable
 unobtrusively
 unobtrusiveness
 unorderly
