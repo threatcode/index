@@ -5084,6 +5084,7 @@ bilbies
 bilbo
 bilboas
 bildungsroman
+bilections
 bilged
 bilgiest
 bilharzia
@@ -9193,6 +9194,7 @@ churches
 churchgoer
 churchgoings
 churchianity
+churchman
 churchmanships
 churl
 churlishly
@@ -19275,6 +19277,7 @@ familiarising
 familiarize
 familiarized
 familiarizes
+familiarizing
 familiars
 families
 familism
@@ -21484,6 +21487,7 @@ funniness
 funning
 furane
 furbearer
+furbelow
 furbelowing
 furbelows
 furbishing
@@ -22268,6 +22272,7 @@ giftless
 giftware
 gigabyte
 gigacycle
+gigahertzes
 gigantic
 gigantism
 gigas
@@ -26990,6 +26995,7 @@ inheritrices
 inheritrix
 inhibins
 inhibit
+inhibitive
 inhibitor
 inhibitory
 inholder
@@ -27191,6 +27197,7 @@ inspirations
 inspirators
 inspire
 inspired
+inspirers
 inspirit
 inspiritingly
 inspirits
@@ -29030,6 +29037,7 @@ kitty
 kivas
 kiwi
 kiwifruits
+klatch
 klatches
 klatsch
 klebsiella
@@ -29313,6 +29321,7 @@ ladlers
 ladrone
 ladrons
 lads
+lady
 ladybugs
 ladyfinger
 ladyhoods
@@ -30413,6 +30422,7 @@ lithemia
 lithemias
 lithemic
 lithenesses
+lithiases
 lithiasis
 lithic
 lithification
@@ -32370,6 +32380,7 @@ mestizoes
 mestizos
 met
 meta
+metabolic
 metabolite
 metabolizable
 metabolize
@@ -36147,6 +36158,7 @@ oafs
 oaken
 oakier
 oakmosses
+oar
 oared
 oarlock
 oarsman
@@ -36790,6 +36802,7 @@ orangery
 orangewood
 orangiest
 orangs
+orates
 orations
 orator
 oratorical
@@ -37476,6 +37489,7 @@ outstrove
 outstudy
 outstudying
 outsulking
+outswearing
 outsweeping
 outswimming
 outswims
@@ -40123,6 +40137,7 @@ pick
 pickabacks
 pickaroon
 pickaroons
+pickaxes
 pickaxing
 picked
 pickeer
@@ -41078,6 +41093,7 @@ polymerize
 polymerizing
 polymorphically
 polymorphisms
+polymorphously
 polynomial
 polynucleotides
 polynya
@@ -41266,6 +41282,7 @@ portieres
 porting
 portioners
 portioning
+portionless
 portlinesses
 portmanteaus
 portobellos
@@ -41729,6 +41746,7 @@ predilections
 prediscovery
 predisposing
 predive
+prednisolones
 prednisones
 predoctoral
 predominantly
@@ -41901,6 +41919,7 @@ prenotification
 prenotion
 prenotions
 prenticing
+prenumbers
 preobtained
 preoccupancy
 preoccupations
@@ -42747,6 +42766,7 @@ protozoologies
 protozoology
 protozoons
 protract
+protractors
 protrade
 protrude
 protrusion
@@ -44903,6 +44923,7 @@ reffing
 refighting
 refigure
 refigures
+refile
 refiled
 refiling
 refill
@@ -46718,6 +46739,7 @@ riminess
 riming
 rimless
 rimmed
+rimmer
 rimosities
 rimous
 rimpled
@@ -49222,6 +49244,7 @@ shariah
 sharif
 sharing
 shark
+sharked
 sharker
 sharking
 sharklike
@@ -50193,6 +50216,7 @@ slamdancing
 slammed
 slammings
 slams
+slandered
 slanderer
 slanderous
 slang
@@ -50564,6 +50588,7 @@ snakeweed
 snakeweeds
 snakier
 snakily
+snakiness
 snakinesses
 snapdragons
 snapped
@@ -52592,6 +52617,7 @@ streptococcic
 streptokinases
 streptolysins
 streptomycin
+streptomycins
 streptothricins
 stress
 stressfully
@@ -55813,6 +55839,7 @@ tippler
 tippytoeing
 tipsheet
 tipsier
+tipsiness
 tipster
 tipsy
 tiptoed
@@ -56630,6 +56657,7 @@ trepanning
 trephining
 trepid
 trepidations
+treponematoses
 treponemes
 tres
 trespassed
@@ -58806,6 +58834,7 @@ untactful
 untainted
 untaken
 untalented
+untamable
 untame
 untangling
 untarnished
@@ -59161,6 +59190,7 @@ urolithic
 urological
 urologies
 urologist
+urologists
 urology
 uropod
 uropodous
@@ -59523,6 +59553,7 @@ vendace
 vendee
 vendibly
 vendition
+venditions
 vends
 vendue
 veneerer
@@ -60224,6 +60255,7 @@ wagonloads
 wagtail
 wahcondas
 wahoo
+wahoos
 waifing
 waiflike
 waifs
@@ -60638,6 +60670,7 @@ weedlike
 weedy
 week
 weekdays
+weekend
 weekenders
 weeks
 weening
@@ -61421,6 +61454,7 @@ worldling
 worldlings
 worldviews
 worldwide
+worm
 wormgears
 wormier
 wormiest
@@ -61802,6 +61836,7 @@ zaire
 zaires
 zamarra
 zamarras
+zamarros
 zamia
 zamindar
 zamindaris
