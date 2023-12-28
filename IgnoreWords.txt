@@ -1254,6 +1254,7 @@ alkenes
 alkine
 alkoxy
 alkyd
+alkyl
 alkylated
 alkylating
 alkynes
@@ -1638,6 +1639,7 @@ amplest
 amplexus
 amplexuses
 amplifications
+amplifier
 amplifying
 amplitude
 amply
@@ -5005,6 +5007,7 @@ biaxal
 bib
 bibber
 bibelot
+bible
 bibless
 biblicist
 bibliography
@@ -6317,6 +6320,7 @@ bragging
 braid
 braider
 braiders
+braids
 brailed
 brailing
 brailled
@@ -7277,6 +7281,7 @@ cadi
 cadis
 cadmium
 cadmiums
+cadres
 caducean
 caduceus
 caducous
@@ -10181,6 +10186,7 @@ coinfects
 coinfers
 coinhered
 coinhering
+coining
 coinsurances
 coinsurers
 coinsures
@@ -11292,6 +11298,7 @@ conventioneers
 conventions
 conventual
 convergences
+convergency
 converges
 conversable
 conversance
@@ -12181,6 +12188,7 @@ creepie
 creepier
 creepily
 creeps
+creepy
 creese
 cremating
 cremations
@@ -13587,6 +13595,7 @@ defanging
 defaulting
 defeasance
 defeasances
+defeasibility
 defeat
 defeated
 defeaters
@@ -14933,6 +14942,7 @@ diluvian
 diluvions
 dimenhydrinates
 dimensionality
+dimensioned
 dimensioning
 dimensions
 dimercaprol
@@ -19779,6 +19789,7 @@ fennec
 fennecs
 fennels
 fenniest
+fenthions
 fenugreek
 feoffee
 feoffor
@@ -20206,6 +20217,7 @@ fiscalists
 fiscally
 fishability
 fishbone
+fishbones
 fisherfolk
 fisherman
 fishermen
@@ -22960,6 +22972,7 @@ gorgers
 gorgets
 gorgonians
 gorgonizing
+gorgons
 gorhen
 gorier
 gorilla
@@ -25010,6 +25023,7 @@ hogfish
 hogger
 hogget
 hoggishly
+hoglike
 hogmanays
 hogmane
 hogmenay
@@ -25025,6 +25039,7 @@ hoicks
 hoist
 hoisting
 hoke
+hoked
 hokes
 hokey
 hokeyness
@@ -25612,6 +25627,7 @@ hustled
 hustler
 hustlers
 hustling
+huswifes
 huswives
 hut
 hutch
@@ -35646,6 +35662,7 @@ nonbotanists
 nonbreeders
 nonbreeding
 nonbroadcast
+nonbuilding
 nonburnable
 nonbusiness
 noncaking
@@ -40498,6 +40515,7 @@ piggybacks
 pigheaded
 pigheadedly
 pigmentary
+pigmentations
 pignolias
 pigstick
 pigsticked
@@ -41755,6 +41773,7 @@ poussettes
 poussies
 pouted
 pouters
+poutier
 pouting
 poutingly
 pouts
@@ -42338,6 +42357,7 @@ presong
 presort
 presorting
 prespecify
+press
 pressboards
 pressed
 pressgang
@@ -42526,6 +42546,7 @@ primps
 primrose
 prims
 primus
+prince
 princedoms
 princekin
 princeliest
@@ -42740,6 +42761,7 @@ prohibitions
 prohibits
 projected
 projectionist
+projective
 projector
 projectors
 projets
@@ -43424,6 +43446,7 @@ pupations
 pupfish
 pupfishes
 pupil
+pupils
 puppeteering
 puppetries
 puppy
@@ -43691,6 +43714,7 @@ quadrifid
 quadriga
 quadrilateral
 quadrilaterals
+quadripartite
 quadriphonic
 quadrivalent
 quadrivial
@@ -44162,6 +44186,7 @@ rambled
 rambouillets
 rambunctious
 rambutan
+rambutans
 ramees
 ramekin
 ramen
@@ -44633,6 +44658,7 @@ recants
 recapitalized
 recapitalizing
 recapitulate
+recapitulates
 recapitulation
 recaps
 recaptures
@@ -44849,6 +44875,7 @@ reconveyances
 reconveys
 reconvict
 reconvicts
+reconvinced
 recook
 recooked
 recopied
@@ -45131,6 +45158,7 @@ reekers
 reeks
 reeky
 reelection
+reeler
 reelevated
 reelevates
 reelevating
@@ -48086,6 +48114,7 @@ sarabande
 sarape
 sarcasm
 sarcastically
+sarcina
 sarcocarps
 sarcolemma
 sarcologies
@@ -52062,6 +52091,7 @@ spreadabilities
 spreadability
 spreader
 spreaders
+spreads
 spreadsheets
 sprees
 sprent
@@ -53371,6 +53401,7 @@ sublimate
 sublimers
 sublimes
 subliminally
+sublimities
 sublimits
 sublimity
 subline
@@ -56900,6 +56931,7 @@ transposing
 transposition
 transposons
 transsexualism
+transshaped
 transshaping
 transshipment
 transshipping
@@ -59825,6 +59857,7 @@ variolous
 variometer
 variorum
 varisized
+varletry
 varmint
 varna
 varnas
@@ -61102,6 +61135,7 @@ weiner
 weiners
 weirded
 weirder
+weirdest
 weirdies
 weirdly
 weirdness
@@ -62133,6 +62167,7 @@ yeld
 yelks
 yeller
 yellers
+yellower
 yellowfins
 yellowhammer
 yellowtail
