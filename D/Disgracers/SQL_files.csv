@@ -8,3 +8,7 @@ PHPBTTracker,http://139.59.45.243:8181/login/8000..sql
 H-SPHERE,http://139.59.45.243:8080/login/inc/cmses/tools/60001.sql
 TOPdesk - admin,http://43.255.181.138/loginerror/app/dump.sql
 urchin (5|3|admin),http://194.68.225.46:8081/login/typo3/pathto.asp/wp-content/uploads/dump.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
+Tomcat - admin,http://210.242.148.168/210.242.148.157..sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+MvBlog,http://185.14.187.205:84/2.sql
