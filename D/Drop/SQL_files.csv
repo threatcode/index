@@ -28,3 +28,22 @@ CommservSurveyQuery_129.sql - Commvault Metrics Reporting,https://edc.commvault.
 handover / interaction_networks - GitLab,https://gitlab.haem.cam.ac.uk/handover/interaction_networks/blame/c9d90561041049033e0773c60330608691d360a8/data/schema.sql
 Code/utplsql_uninstall.sql · master · examples / utplsql · GitLab,https://resources.oreilly.com/examples/utplsql/-/blob/master/Code/utplsql_uninstall.sql
 presto-hive/drop-test.sql - rui xia / trino - NJU Git,https://git.nju.edu.cn/xiarui/trino/-/blob/2df34de765da75c43fec10db89f3a5878dad6834/presto-hive/drop-test.sql
+flowable.mysql.drop.engine.sql - GitHub,https://github.com/flowable/flowable-engine/blob/master/modules/flowable-engine/src/main/resources/org/flowable/db/drop/flowable.mysql.drop.engine.sql
+plex/drop.sql at master · s-oravec/plex - GitHub,https://github.com/s-oravec/plex/blob/master/drop.sql
+https://raw.githubusercontent.com/cBioPortal/cbiop...,https://raw.githubusercontent.com/cBioPortal/cbioportal/v2.0.0/db-scripts/src/main/resources/cgds.sql
+https://raw.githubusercontent.com/Azure-Samples/Sy...,https://raw.githubusercontent.com/Azure-Samples/Synapse/master/SQL/Samples/LdwSample/SampleDB.sql
+https://docs.oracle.com/cd/E60665_01/tutorials_ja/...,https://docs.oracle.com/cd/E60665_01/tutorials_ja/Migrating_Applications_and_Data_to_Exadata_Express/files/lab1_script.sql
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x64/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/procsyst.sql
+…/patch-drop-gu_enabled.sql · Gerrit Code Review,https://gerrit.wikimedia.org/r/c/mediawiki/extensions/CentralAuth/%2B/769424/3/schema/postgres/patch-drop-gu_enabled.sql
+https://virtuoso.openlinksw.com/DAV/VAD/log4virtuo...,https://virtuoso.openlinksw.com/DAV/VAD/log4virtuoso/sql/drop.sql
+http://customer.austemperinc.com/Toolkit/htt/sourc...,http://customer.austemperinc.com/Toolkit/htt/source/database/drop_application.sql
+interval.sql - PostgreSQL,https://www.postgresql.org/message-id/attachment/22393/interval.sql
+http://business.baylor.edu/gina_green/teaching/sql...,http://business.baylor.edu/gina_green/teaching/sqlserver/scripts/create_project_manager_tables.sql
+https://svn.alfresco.com/repos/alfresco-open-mirro...,https://svn.alfresco.com/repos/alfresco-open-mirror/alfresco/HEAD/root/projects/repository/config/alfresco/dbscripts/utility/org.hibernate.dialect.PostgreSQLDialect/CleanAlfPropTablesPostExec.sql
+create_identity_db1.sql,https://castle.eiu.edu/~pingliu/php/reference/IdMgmt1/create_identity_db1.sql
+https://cwiki.apache.org/confluence/download/attac...,https://cwiki.apache.org/confluence/download/attachments/4982/allTables.sql%3Fversion%3D1%26modificationDate%3D1144567590000%26api%3Dv2
+src/trace_processor/metrics/android/android_sysui_cuj.sql,https://android.googlesource.com/platform//external/perfetto/%2B/4793b4e5708e70a7316396f8e0f6752621487004/src/trace_processor/metrics/android/android_sysui_cuj.sql
+usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql ...,https://gemfury.com/agriconnect/deb:timescaledb-1.7.2-postgresql-9.6/-/content/usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql
+tanghc/SOP - Gitee,https://gitee.com/durcframework/SOP/blob/master/sop-mysql5.6%25E4%25BB%25A5%25E4%25B8%258B%25E7%2589%2588%25E6%259C%25AC.sql
+Source of items_nvarchar_prepare.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/diff/database/oracle/items_nvarchar_prepare.sql%3FautoSincePath%3Dfalse%26until%3Drefs%252Fheads%252Ffeature%252FZBX-19918-6.0%26at%3Dfeature%252FZBX-19918-6.0
+TwitterSchema.sql on stats170ab-2018 – Attachment – ASTERIX,https://grape.ics.uci.edu/wiki/asterix/attachment/wiki/stats170ab-2018/TwitterSchema.sql

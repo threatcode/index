@@ -3484,6 +3484,7 @@ autotomies
 autotomizes
 autotoxins
 autotrophic
+autotrophs
 autotypies
 autoxidation
 autoxidations
@@ -7957,6 +7958,7 @@ cartoned
 cartons
 cartooned
 cartoonishly
+cartoonlike
 cartoons
 cartouche
 cartularies
@@ -8751,6 +8753,7 @@ chelate
 chelating
 chelators
 chelicerae
+cheliceral
 chelipeds
 cheloid
 cheloids
@@ -8776,6 +8779,7 @@ chemotaxonomy
 chemotherapists
 chemurgic
 chenopods
+chequer
 chequered
 cherimoya
 chernozemic
@@ -9272,6 +9276,7 @@ circularity
 circularnesses
 circulated
 circumambient
+circumambulate
 circumambulated
 circumambulates
 circumcircle
@@ -10913,6 +10918,7 @@ connotative
 connotatively
 connoted
 connubialities
+connubiality
 connubially
 conoids
 conquests
@@ -12367,6 +12373,7 @@ cryogen
 cryogenies
 cryogens
 cryogeny
+cryometer
 cryonics
 cryophilic
 cryophyte
@@ -14547,6 +14554,7 @@ dialyzable
 dialyzates
 dialyze
 diamagnetic
+diamagnetism
 diamagnetisms
 diamantes
 diameters
@@ -16212,6 +16220,7 @@ droop
 droopiest
 droopingly
 droops
+drop
 dropforges
 dropheads
 dropkickers
@@ -17239,6 +17248,7 @@ empaling
 empanel
 empanelled
 empanels
+empathetically
 empathically
 empathise
 empathising
@@ -17676,6 +17686,7 @@ entelluses
 enter
 enterer
 enteritides
+enteritis
 enteritises
 enterobacterial
 enterobacterium
@@ -19851,6 +19862,7 @@ filefishes
 filename
 filial
 filially
+filiate
 filiated
 filiating
 filibeg
@@ -23734,6 +23746,7 @@ hammal
 hammered
 hammering
 hammerkop
+hammier
 hammily
 hammy
 hamperers
@@ -24488,6 +24501,7 @@ hesperidium
 hessian
 hessites
 hessonite
+hest
 hests
 hetaera
 hetaerae
@@ -30982,6 +30996,7 @@ lyrical
 lyricise
 lyricism
 lyricisms
+lyricists
 lyricized
 lyricizing
 lyricons
@@ -31813,6 +31828,7 @@ max
 maxes
 maxicoats
 maxilla
+maxim
 maximal
 maximalist
 maximalists
@@ -32428,6 +32444,7 @@ mezcals
 meze
 mezereon
 mezereum
+mezquit
 mezuza
 mezuzahs
 mezuzas
@@ -34466,6 +34483,7 @@ mythologizing
 mythomaniac
 mythomaniacs
 mythopeic
+mythopoeias
 mythopoeic
 mythopoetical
 mythy
@@ -35359,6 +35377,7 @@ noncolored
 noncolors
 noncom
 noncombat
+noncombatant
 noncommitments
 noncomparable
 noncompetitor
@@ -35378,6 +35397,7 @@ nonconfidences
 nonconform
 nonconformance
 nonconformers
+nonconformism
 nonconformisms
 nonconformity
 nonconforms
@@ -37304,6 +37324,7 @@ outrivals
 outroars
 outrock
 outrocked
+outrocking
 outrolled
 outrooted
 outroots
@@ -39991,6 +40012,7 @@ phytons
 phytopathogens
 phytoplanktons
 phytosociology
+phytotoxicity
 phytotron
 pia
 piacular
@@ -41377,6 +41399,7 @@ pouters
 pouting
 poutingly
 pouts
+pow
 powder
 powderer
 powderers
@@ -42641,6 +42664,7 @@ protostelic
 protostomes
 prototroph
 prototrophic
+prototrophs
 prototype
 prototypes
 protozoologies
@@ -43270,6 +43294,7 @@ quad
 quadplex
 quadrans
 quadrantal
+quadraphonic
 quadraphonics
 quadrat
 quadrates
@@ -44383,6 +44408,7 @@ recondensing
 recondition
 reconditioning
 reconduct
+reconducted
 reconferred
 reconfigure
 reconfigured
@@ -50928,6 +50954,7 @@ soporiferous
 soporific
 soporifics
 sopors
+soppier
 sopranino
 sopraninos
 soprano
@@ -52518,6 +52545,7 @@ strikes
 strikingly
 stringcourses
 stringency
+stringers
 stringhalts
 stringiest
 stringing
@@ -53422,6 +53450,7 @@ superheating
 superheats
 superhelixes
 superhero
+superheroine
 superhot
 superhumanness
 superhypes
@@ -55700,6 +55729,7 @@ tirelessly
 tiresomenesses
 tirewomen
 tiring
+tirl
 tirls
 tisanes
 tissual
@@ -58890,6 +58920,7 @@ uprearing
 uprightness
 uprise
 uprisen
+upriser
 uprisings
 uproars
 uprootals
@@ -59377,6 +59408,7 @@ velociraptor
 velociraptors
 velodromes
 velour
+velum
 velverets
 velveted
 velveteen
@@ -59486,6 +59518,7 @@ veriest
 verifiability
 verifications
 veritablenesses
+veritates
 verite
 verites
 verities
@@ -59853,6 +59886,7 @@ vitriolling
 vittled
 vituline
 vituperating
+vituperative
 vituperatory
 vivace
 vivacious
@@ -61687,6 +61721,7 @@ zaribas
 zas
 zastruga
 zax
+zayins
 zazens
 zeal
 zealot
