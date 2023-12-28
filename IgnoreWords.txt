@@ -4382,6 +4382,7 @@ bearer
 bearings
 bearishness
 beast
+beasties
 beastliest
 beastliness
 beasts
@@ -4694,6 +4695,7 @@ belowdecks
 bels
 belted
 belting
+beltless
 belts
 beltway
 belying
@@ -5369,6 +5371,7 @@ bituminous
 bivalence
 bivalents
 bivalves
+bivariate
 bivouacs
 bizarre
 bizarrenesses
@@ -5582,6 +5585,7 @@ blockades
 blockage
 blockbusted
 blockers
+blockhead
 blockheads
 blockish
 blocks
@@ -7423,6 +7427,7 @@ camos
 camouflage
 camouflagic
 campagne
+campaign
 campaigner
 campanologies
 campestral
@@ -9336,6 +9341,7 @@ citadel
 citator
 citators
 citeable
+citer
 citers
 cithers
 citied
@@ -11786,6 +11792,7 @@ counterterror
 counterterrors
 counterthreat
 counterthreats
+counterthrusts
 countertrade
 countertrend
 countervail
@@ -15060,6 +15067,7 @@ disbelieve
 disbelieves
 disbelieving
 disbenefit
+disbenefits
 disbosomed
 disbosoming
 disbosoms
@@ -17888,6 +17896,7 @@ epididymitises
 epidote
 epifaunae
 epifaunas
+epifocal
 epigeic
 epigeneses
 epigenesis
@@ -19978,6 +19987,7 @@ finials
 finical
 finickiest
 finickin
+finickiness
 finickinesses
 finicking
 finiking
@@ -21285,6 +21295,7 @@ frontmen
 frontogenesis
 frontolyses
 frontons
+frontpaging
 frontward
 frostbites
 frostbitten
@@ -21346,6 +21357,7 @@ frustrations
 frustules
 frustum
 frustums
+frutescent
 fruticose
 frybread
 frypan
@@ -23148,6 +23160,7 @@ gridiron
 gridirons
 gridlocked
 gridlocks
+griefs
 grievances
 grievants
 grieved
@@ -27121,6 +27134,7 @@ inselbergs
 inseminating
 inseminators
 insensate
+insensible
 insensibly
 insensitivity
 insentiences
@@ -30633,6 +30647,7 @@ loitering
 loiters
 loll
 lollingly
+lollipop
 lollop
 lollopy
 lolls
@@ -31068,6 +31083,7 @@ macadamias
 macadamize
 macadamized
 macadamizing
+macadams
 macaque
 macaronic
 macaronics
@@ -31794,6 +31810,7 @@ matchmake
 matchmakers
 matchmark
 matchmarking
+matchmarks
 matchstick
 matchups
 matelots
@@ -31838,6 +31855,7 @@ mattrass
 mattress
 mature
 maturer
+maturest
 matzas
 matzo
 matzos
@@ -31953,6 +31971,7 @@ mechanistically
 mechanizable
 mechanization
 mechanizers
+mechanizes
 mechanizing
 mechanoreceptor
 mechitza
@@ -34872,6 +34891,7 @@ nematodes
 nematological
 nematologists
 nematology
+nemertean
 nemerteans
 nemertine
 nene
@@ -35427,6 +35447,7 @@ noncomposer
 noncomputer
 noncoms
 nonconcern
+nonconcerns
 nonconcur
 nonconcurrences
 nonconcurrent
@@ -35558,6 +35579,7 @@ nonfulfillments
 nonfunctioning
 nongame
 nongaseous
+nongays
 nongeometrical
 nonglare
 nonglares
@@ -35838,6 +35860,7 @@ nonviolence
 nonviolently
 nonviral
 nonvital
+nonvocals
 nonvocational
 nonvoting
 nonwhites
@@ -36949,6 +36972,7 @@ oscillating
 oscillograph
 oscilloscope
 oscilloscopic
+oscines
 oscitant
 oscular
 osculate
@@ -39226,6 +39250,7 @@ penchants
 pencilers
 penciling
 penciller
+pencillings
 pencils
 pended
 pendencies
@@ -42194,6 +42219,7 @@ primitivity
 primmer
 primmest
 primo
+primogenitors
 primordia
 primordial
 primordially
@@ -42313,6 +42339,7 @@ processions
 prochein
 proclaim
 proclaimer
+proclitic
 proclitics
 proconsulships
 procrastinated
@@ -44724,6 +44751,7 @@ redraft
 redrafted
 redrafting
 redraws
+redreamed
 redreaming
 redreamt
 redress
@@ -45530,6 +45558,7 @@ reoperates
 reoperation
 reopposed
 reorchestrate
+reorchestration
 reorganizers
 reorganizes
 reorientated
@@ -47584,6 +47613,7 @@ samiels
 samizdat
 samoyeds
 sanatoriums
+sanbenitos
 sanctification
 sanctifier
 sanctifiers
@@ -48897,6 +48927,7 @@ septate
 septenaries
 septenary
 septentrion
+septets
 septette
 septicemias
 septics
@@ -51810,6 +51841,7 @@ squirmiest
 squirming
 squirreled
 squirrelled
+squirrely
 squirts
 squished
 squishier
@@ -57313,6 +57345,7 @@ twitting
 twofold
 twofolds
 twoonies
+twyer
 tycoons
 tye
 tyee
@@ -58750,6 +58783,7 @@ unsuccessful
 unsuccessfully
 unsuitably
 unsuited
+unsupportable
 unsure
 unsurely
 unsurpassed
@@ -58986,6 +59020,7 @@ upreach
 upreached
 uprear
 uprearing
+upright
 uprightness
 uprise
 uprisen
