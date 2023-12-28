@@ -8,3 +8,13 @@ Internationalized Email Headers - » RFC Editor,https://www.rfc-editor.org/rfc/r
 Plain text - Internet Assigned Numbers Authority,https://www.iana.org/assignments/ule-next-headers/ule-next-headers.txt
 RFC 5335 - Internationalized Email Headers - IETF Datatracker,https://tools-ietf-org.lucaspardue.com/html/draft-ietf-eai-utf8headers-12.txt
 Headers.m4,https://ece.uwaterloo.ca/~aplevich/Circuit_macros/html/Headers.txt
+http-request-headers-fields-large.txt - danielmiessler/SecLists - GitHub,https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/web/http-request-headers/http-request-headers-fields-large.txt
+Documentation/networking/radiotap-headers.txt - kernel/common,https://android.googlesource.com/kernel/common/%2B/4b70dd57a15d/Documentation/networking/radiotap-headers.txt
+RFC 2076 - IETF,https://www.ietf.org/rfc/rfc2076.txt
+RFC 2616 HTTP/1.1 - IETF,https://www.ietf.org/rfc/rfc2616.txt
+radiotap-headers.txt,https://www.kernel.org/doc/Documentation/networking/radiotap-headers.txt
+Headers.txt - Mojolicious::Guides,https://docs.mojolicious.org/Mojo/Headers.txt
+RFC 5293,https://www.rfc-editor.org/rfc/rfc5293.txt
+ule-next-headers.txt - Internet Assigned Numbers Authority,https://www.iana.org/assignments/ule-next-headers/ule-next-headers.txt
+readme.txt - afragen/add-custom-header-images - GitHub,https://github.com/afragen/add-custom-header-images/blob/develop/readme.txt
+Operational Implications of IPv6 Packets with Extension Headers,https://facebook.azureedge.net/html/rfc9098.txt
