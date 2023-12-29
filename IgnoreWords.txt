@@ -521,6 +521,7 @@ adjectives
 adjoin
 adjoined
 adjournments
+adjudged
 adjudges
 adjudicating
 adjudicative
@@ -1156,6 +1157,7 @@ alchemizing
 alchymies
 alchymy
 alcids
+alcohol
 alcoholic
 alcoved
 aldehyde
@@ -3034,6 +3036,7 @@ asperity
 aspers
 asperse
 aspersed
+aspersion
 asphalt
 asphaltite
 asphaltites
@@ -3743,6 +3746,7 @@ bacchius
 baches
 bacilli
 bacitracin
+backbeat
 backbenchers
 backbends
 backbiting
@@ -6283,6 +6287,7 @@ bowered
 bowers
 bowfin
 bowfront
+bowheads
 bowingly
 bowknots
 bowl
@@ -7398,6 +7403,7 @@ calcars
 calceate
 calcic
 calciferous
+calcific
 calcified
 calcifuges
 calcify
@@ -11704,6 +11710,7 @@ corroborees
 corroded
 corrosion
 corrosions
+corrosive
 corrosiveness
 corrugate
 corrugated
@@ -14885,6 +14892,7 @@ dickens
 dickier
 dickies
 diclinous
+dicliny
 dicot
 dicots
 dicotyledon
@@ -15260,6 +15268,7 @@ disallows
 disambiguate
 disannulled
 disappear
+disappearances
 disappeared
 disappears
 disappoint
@@ -15926,6 +15935,7 @@ documentarian
 documentarians
 documentaries
 documentarist
+documentation
 documentational
 documenting
 documents
@@ -16993,6 +17003,7 @@ ectodermal
 ectomeric
 ectomorph
 ectomorphic
+ectoparasites
 ectoparasitic
 ectopically
 ectoplasm
@@ -17027,6 +17038,7 @@ edibilities
 edibility
 edictally
 edificial
+edifier
 edify
 edited
 editing
@@ -19775,6 +19787,7 @@ favellas
 favor
 favorer
 favoritism
+favourer
 favourers
 favouring
 fawn
@@ -22810,6 +22823,7 @@ glioblastoma
 glissaded
 glissandi
 glissandos
+glisten
 glistened
 glistening
 glistens
@@ -24976,6 +24990,7 @@ hexastichs
 hexer
 hexerei
 hexereis
+hexing
 hexobarbitals
 hexosaminidase
 hexosaminidases
@@ -25282,6 +25297,7 @@ holograms
 holograph
 holographs
 holography
+hologyny
 holometabolisms
 holophyte
 holothurian
@@ -25502,6 +25518,7 @@ hormonally
 hormones
 hornbeam
 hornblendes
+hornedness
 hornednesses
 horniest
 hornings
@@ -26032,6 +26049,7 @@ hyperphagias
 hyperphagic
 hyperpituitary
 hyperplanes
+hyperploids
 hyperpneas
 hyperpneic
 hyperpolarizes
@@ -34557,6 +34575,7 @@ movie
 moviedoms
 moviegoers
 moviegoing
+moviemakers
 moviemaking
 moviola
 mow
@@ -35336,6 +35355,7 @@ neckerchieves
 necklaced
 necklaces
 neckline
+necklines
 necrological
 necrologists
 necrology
@@ -35345,6 +35365,7 @@ necrophagous
 necrophiliacs
 necrophilic
 necrophilism
+necrophilisms
 necropoleis
 necropoli
 necropolis
@@ -37022,6 +37043,7 @@ offshoot
 offshores
 offstage
 offtrack
+oftentimes
 ofttimes
 ogam
 ogdoads
@@ -42983,6 +43005,7 @@ process
 processer
 processible
 procession
+processional
 processionals
 processioned
 processions
@@ -45104,6 +45127,7 @@ reclames
 reclassified
 reclassify
 reclean
+recleaning
 reclinate
 reclines
 reclosable
@@ -47253,6 +47277,7 @@ rhizomata
 rhizome
 rhizomes
 rhizomic
+rhizoplanes
 rhizopuses
 rhodamin
 rhodamines
@@ -47674,6 +47699,7 @@ rondo
 rondures
 ronion
 ronnels
+ronyons
 rood
 roofed
 roofies
@@ -51559,6 +51585,7 @@ sobers
 sobrieties
 sobs
 socagers
+socas
 sociableness
 sociablenesses
 socialise
@@ -53620,6 +53647,7 @@ stylishnesses
 stylising
 stylist
 stylistically
+stylists
 stylite
 stylitic
 stylitism
@@ -54434,6 +54462,7 @@ supernutritions
 superorder
 superorders
 superorganic
+superorganisms
 superovulating
 superovulation
 superpatriotism
@@ -54872,6 +54901,7 @@ swivel
 swivels
 swivet
 swivets
+swiving
 swizzler
 swizzlers
 swizzles
@@ -57655,6 +57685,7 @@ trigons
 trigos
 trihedrons
 trihybrid
+trihybrids
 trike
 trilith
 trilithon
@@ -58170,6 +58201,7 @@ twasomes
 twattle
 twattles
 tweaks
+tweed
 tweediest
 tweedy
 tween
@@ -60209,6 +60241,7 @@ valedictories
 valentine
 valerate
 valerians
+valet
 valeting
 valgoid
 valguses
@@ -60335,6 +60368,7 @@ varved
 varying
 vasal
 vascularities
+vasculature
 vasculatures
 vasculum
 vasculums
@@ -60500,6 +60534,7 @@ ventrolateral
 venturers
 venturesomeness
 venturing
+venturis
 venturousness
 venturousnesses
 venule
