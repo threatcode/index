@@ -1001,6 +1001,7 @@ agrias
 agribusinessman
 agribusinessmen
 agriculture
+agrimonies
 agrochemical
 agroforestries
 agroforestry
@@ -2496,6 +2497,7 @@ appel
 appellant
 appellants
 appellative
+appellatively
 appellatives
 appellees
 append
@@ -2665,6 +2667,7 @@ arbitrates
 arbitrating
 arbitrational
 arbitrations
+arbitrators
 arbitresses
 arboreally
 arboriculture
@@ -9429,6 +9432,7 @@ circumspectly
 circumstance
 circumstellar
 circumvallation
+circumvented
 circumventing
 circumvents
 circusy
@@ -10346,6 +10350,7 @@ collotypies
 collude
 colluded
 colluder
+colludes
 collusions
 collusive
 colluvia
@@ -11463,6 +11468,7 @@ copremia
 copresent
 copresented
 coprincipal
+coprincipals
 coprisoner
 coproduce
 coproducer
@@ -13939,6 +13945,7 @@ delustered
 delustering
 deluxe
 delves
+delving
 demagnetized
 demagnetizers
 demagnetizes
@@ -14165,6 +14172,7 @@ dependance
 dependant
 dependency
 depeople
+depeoples
 depeopling
 depict
 depicted
@@ -16013,6 +16021,7 @@ donate
 donates
 donative
 donators
+donees
 doneness
 donga
 donjons
@@ -16462,6 +16471,7 @@ drowsy
 drubs
 drudgeries
 drudging
+drug
 druggets
 druggie
 druggiest
@@ -19819,6 +19829,7 @@ feline
 felinely
 fellahin
 fellate
+fellatrixes
 felled
 fellmonger
 fellmongerings
@@ -22412,6 +22423,7 @@ geostationary
 geostrategic
 geostrategist
 geostrategy
+geostrophic
 geosynchronous
 geosyncline
 geosynclines
@@ -22519,6 +22531,7 @@ giftware
 gigabyte
 gigacycle
 gigahertzes
+gigantean
 gigantic
 gigantism
 gigas
@@ -24636,6 +24649,7 @@ hematal
 hemateins
 hematine
 hematinic
+hematites
 hematitic
 hematologists
 hematology
@@ -25226,6 +25240,7 @@ homeopathically
 homeopaths
 homeostases
 homeothermies
+homeotherms
 homeowner
 homeplaces
 homeporting
@@ -25629,6 +25644,7 @@ humble
 humbled
 humblenesses
 humbles
+humblest
 humblingly
 humbugged
 humbuggeries
@@ -28712,6 +28728,7 @@ jnanas
 jo
 jobbed
 jobber
+jobless
 jobname
 jobs
 jockettes
@@ -32487,6 +32504,7 @@ mellifluently
 mellifluous
 mellophone
 mellophones
+mellotrons
 mellowed
 mellowing
 mellowness
@@ -36543,6 +36561,7 @@ nutshells
 nutsiest
 nuttings
 nuzzles
+nuzzling
 nyalas
 nylghaus
 nympha
@@ -37341,6 +37360,7 @@ orogeny
 orographic
 orographical
 orographies
+orography
 orologists
 orometer
 oropharyngeal
@@ -41266,6 +41286,7 @@ plum
 plumate
 plumbagos
 plumbed
+plumbeous
 plumberies
 plumbic
 plumbism
@@ -44022,6 +44043,7 @@ quenching
 quenelle
 quercetins
 queridas
+querier
 queriers
 querists
 querulously
@@ -46012,6 +46034,7 @@ remonstratively
 remonstrator
 remontant
 remorid
+remorselessly
 remoteness
 remotenesses
 remotivates
@@ -46149,6 +46172,7 @@ repatriations
 repatterning
 repave
 repaving
+repayable
 repayment
 repealed
 repealing
@@ -50137,6 +50161,7 @@ shovelling
 shovelnoses
 shovels
 shoves
+showbiz
 showboat
 showboated
 showbreads
@@ -50156,6 +50181,7 @@ showrings
 showtime
 showy
 shoyu
+shred
 shredded
 shredder
 shredders
@@ -50953,6 +50979,7 @@ slipstreaming
 slipups
 slither
 slithers
+slitlike
 slittiest
 slivering
 slivovic
@@ -53168,6 +53195,7 @@ stranglers
 strangles
 strangulating
 stranguries
+strap
 straphang
 straphung
 strappadoes
@@ -53837,6 +53865,7 @@ suburbanites
 suburbanization
 suburbanizes
 suburbed
+suburbia
 suburbias
 subvassals
 subvened
@@ -58304,6 +58333,7 @@ unarched
 unargued
 unarming
 unarms
+unaroused
 unasked
 unassailability
 unassailably
@@ -59596,6 +59626,7 @@ unwasheds
 unwasted
 unwatchable
 unwavering
+unwaveringly
 unwaxed
 unweaned
 unweariedly
@@ -60432,6 +60463,7 @@ vesture
 vestures
 vesturing
 vesuvian
+vesuvianite
 vetch
 vetches
 veterans
@@ -61213,6 +61245,7 @@ waterier
 waterily
 watering
 waterishness
+waterjet
 waterjets
 waterlessness
 waterlily
@@ -61617,6 +61650,7 @@ whipping
 whippings
 whippletree
 whippoorwills
+whipray
 whipsawing
 whipstitch
 whipstitched
@@ -62657,6 +62691,7 @@ zingani
 zingare
 zingari
 zinged
+zinging
 zingy
 zinkifies
 zinkifying
