@@ -298,6 +298,7 @@ achondrites
 achromat
 achromatically
 achromatisms
+achromatize
 achromatized
 achromic
 achromous
@@ -459,6 +460,7 @@ adaptiveness
 adaptivenesses
 adaptivities
 adaptivity
+add
 addable
 addedly
 addenda
@@ -1308,6 +1310,7 @@ alleviant
 alleviated
 alleviates
 alleviation
+alleviations
 alleviator
 alleviators
 alley
@@ -7885,6 +7888,7 @@ caramelises
 caramelising
 carangid
 carapace
+carapaces
 carapax
 carassow
 carassows
@@ -8382,6 +8386,7 @@ cavernously
 cavettos
 caviars
 cavil
+caviled
 caviling
 caving
 cavitate
@@ -9358,6 +9363,7 @@ chummier
 chumming
 chumped
 chumping
+chums
 chumship
 chunked
 chunkiest
@@ -13998,6 +14004,7 @@ delicacies
 delicacy
 delicatessen
 delicious
+deliciously
 delict
 delighted
 delightfulness
@@ -16090,6 +16097,7 @@ dolefulnesses
 dolerites
 dolesome
 dolichocephaly
+dollar
 dollarize
 dollarizing
 dollars
@@ -22519,6 +22527,7 @@ genre
 genro
 gent
 gentamicin
+genteeler
 genteelest
 genteelisms
 genteelness
@@ -23438,6 +23447,7 @@ granulocytic
 granulomas
 granulomata
 granuloses
+granulosis
 granum
 grapes
 grapheme
@@ -26647,6 +26657,7 @@ impecunious
 impecuniously
 impede
 impeded
+impediments
 impellent
 impelling
 impellors
@@ -28760,6 +28771,7 @@ janizary
 japanized
 japanizing
 japanned
+japanners
 japans
 japer
 japers
@@ -30153,6 +30165,7 @@ lastingly
 lastingness
 latch
 latchkeys
+latchstrings
 latecomers
 laten
 lateness
@@ -30321,6 +30334,7 @@ leadplant
 leadplants
 leadscrews
 leadwort
+leadworts
 leady
 leafiness
 leafing
@@ -31960,6 +31974,7 @@ malingers
 malison
 malisons
 malkin
+mallee
 malleolus
 malleus
 mallows
@@ -33906,6 +33921,7 @@ mispleaded
 mispleads
 mispointing
 mispoised
+mispoising
 mispositioned
 misprice
 mispricing
@@ -34452,6 +34468,7 @@ moony
 moorages
 moorcocks
 moorfowl
+moorfowls
 moorhen
 mooring
 moorings
@@ -34662,6 +34679,7 @@ mountebanks
 mounters
 mourn
 mourned
+mourner
 mournful
 mournfullest
 mournfulness
@@ -35305,6 +35323,7 @@ nanas
 nancified
 nandina
 nandins
+nanism
 nankeen
 nannie
 nannies
@@ -35677,6 +35696,7 @@ nestlike
 nestor
 nests
 netless
+netminder
 netop
 netops
 netsuke
@@ -38032,6 +38052,7 @@ outmanipulated
 outmanipulating
 outmarches
 outmasters
+outmoded
 outmodes
 outnumbers
 outoffice
@@ -40312,6 +40333,7 @@ permanentnesses
 permeably
 permeates
 permillage
+permissibleness
 permissions
 permitted
 permittee
@@ -41280,6 +41302,7 @@ pitting
 pityriases
 pityriasis
 pivotable
+pivoted
 pivotman
 pix
 pixilations
@@ -42107,6 +42130,7 @@ possession
 possessional
 possessiveness
 possessives
+possessor
 possessors
 possessory
 possiblest
@@ -44021,6 +44045,7 @@ purities
 purity
 purl
 purled
+purline
 purlines
 puromycin
 purple
@@ -46089,6 +46114,7 @@ reinfections
 reinfects
 reinfestation
 reinflated
+reinflating
 reinforcements
 reinforces
 reinforcing
@@ -46533,6 +46559,7 @@ repellently
 repellers
 repentant
 repentantly
+repenter
 repenting
 repents
 repeople
@@ -46859,6 +46886,7 @@ reships
 reshod
 reshoed
 reshoeing
+reshoots
 reshot
 reshowed
 reshuffle
@@ -47949,6 +47977,7 @@ rosebuds
 rosehip
 roselike
 rosemaling
+rosemalings
 rosewater
 roshi
 rosily
@@ -51769,6 +51798,7 @@ soaker
 soapbark
 soapberries
 soapboxes
+soaper
 soapiness
 soaping
 soapstones
@@ -52826,7 +52856,9 @@ squanderers
 squandering
 squared
 squareness
+squarers
 squarest
+squarish
 squarishnesses
 squark
 squarks
@@ -53644,6 +53676,7 @@ strengtheners
 strengthens
 strenuosities
 strenuosity
+strenuousnesses
 strep
 streps
 streptobacillus
@@ -56263,6 +56296,7 @@ tested
 testees
 tester
 testers
+testier
 testimonials
 testimonies
 testimony
@@ -61464,6 +61498,7 @@ waitering
 waiting
 waitlist
 waitlisted
+waitlisting
 waitlists
 waitperson
 waitressing
