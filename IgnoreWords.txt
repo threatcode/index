@@ -119,6 +119,7 @@ abuttal
 abutter
 abuzz
 abvolt
+abying
 abys
 abyssal
 acacia
@@ -1728,6 +1729,7 @@ analogs
 analogy
 analphabetics
 analphabetisms
+analysands
 analyse
 analysers
 analysing
@@ -3310,6 +3312,7 @@ attributes
 attribution
 attributional
 attrit
+attrited
 attritional
 attritions
 attritive
@@ -4186,6 +4189,7 @@ baron
 baronage
 baronages
 baronet
+barongs
 baronne
 baroquely
 baroreceptors
@@ -4806,6 +4810,7 @@ benzaldehyde
 benzaldehydes
 benzanthracene
 benzanthracenes
+benzenoids
 benzidines
 benzimidazoles
 benzins
@@ -5022,6 +5027,7 @@ bibliolaters
 bibliolatrous
 bibliologies
 bibliomaniacs
+bibliopegist
 bibliopegists
 bibliopegy
 bibliophile
@@ -9415,6 +9421,7 @@ circumvents
 circusy
 cirques
 cirrate
+cirrhotic
 cirriform
 cirrocumuli
 cirrus
@@ -9852,6 +9859,7 @@ clypeal
 clyster
 cnidarian
 cnidarians
+coacervate
 coacervates
 coacervations
 coaches
@@ -11338,6 +11346,7 @@ convertiplane
 convertor
 convertors
 convexes
+convexities
 conveyer
 conveying
 conveyorising
@@ -11522,6 +11531,7 @@ coredeems
 corelated
 coreligionist
 corepressor
+corequisite
 corer
 coresearchers
 coresidents
@@ -12888,6 +12898,7 @@ cycloaddition
 cycloaliphatic
 cyclodiene
 cyclodienes
+cyclohexanes
 cyclohexanones
 cycloids
 cyclonal
@@ -14146,6 +14157,7 @@ depilating
 depilator
 depilatories
 depilators
+depilatory
 deplaning
 deplete
 depleting
@@ -14810,6 +14822,7 @@ dicotyls
 dicoumarins
 dicoumarol
 dicrotic
+dicrotism
 dicta
 dictate
 dictations
@@ -14963,6 +14976,7 @@ dilutors
 diluvia
 diluvian
 diluvions
+diluvium
 dim
 dimenhydrinates
 dimensionality
@@ -15570,6 +15584,7 @@ dissections
 dissed
 disseisee
 disseisees
+disseisin
 disseized
 disseizee
 disseizees
@@ -18197,6 +18212,7 @@ equity
 equivalent
 equivocal
 equivocate
+equivocates
 equivocating
 equivocation
 equivocators
@@ -20828,6 +20844,7 @@ folky
 follicle
 follicles
 follicular
+folliculitises
 follower
 followers
 folly
@@ -22101,6 +22118,7 @@ gateaus
 gatecrash
 gatecrashed
 gatecrashes
+gated
 gatehouse
 gatehouses
 gatepost
@@ -25544,6 +25562,7 @@ huggers
 hulas
 hulking
 hulks
+hullabaloos
 hullo
 hulloaed
 hulloas
@@ -25814,6 +25833,7 @@ hyperarousal
 hyperarousals
 hyperawareness
 hyperbolas
+hyperbolical
 hyperbolically
 hyperbolist
 hyperbolists
@@ -35539,6 +35559,7 @@ nineteen
 nineteenths
 ninetieths
 ninety
+ninhydrins
 ninnies
 ninnyish
 niobic
@@ -37081,6 +37102,7 @@ oppressively
 oppressiveness
 opprobrious
 oppugning
+opsin
 opsonic
 opsonifies
 opsonify
@@ -42571,6 +42593,7 @@ pridefulness
 prides
 priding
 priedieu
+priedieux
 pries
 priestesses
 prigged
@@ -46030,6 +46053,7 @@ repatterning
 repave
 repaving
 repayment
+repealed
 repealing
 repeat
 repeater
@@ -47241,6 +47265,7 @@ rivals
 riven
 riverbed
 riverboat
+riverboats
 riverfront
 riverheads
 riversides
@@ -50210,6 +50235,7 @@ sigils
 siglos
 sigma
 sigmas
+sigmate
 sigmoids
 signal
 signaler
@@ -50424,6 +50450,7 @@ sirdar
 sirdars
 sired
 siren
+sirenian
 sires
 sirloin
 sirra
@@ -50863,6 +50890,7 @@ slovens
 slowdown
 slower
 slowest
+slowing
 slowpokes
 slows
 slowworms
@@ -50971,6 +50999,7 @@ smit
 smites
 smithies
 smithsonites
+smocking
 smog
 smoggier
 smoggiest
@@ -51148,6 +51177,7 @@ snooping
 snoopy
 snooting
 snooze
+snoozed
 snooziest
 snorkel
 snorkeler
@@ -53717,6 +53747,7 @@ succeed
 succeeded
 succeeder
 succeeding
+successfully
 succession
 successional
 successionally
@@ -56394,6 +56425,7 @@ tivy
 tizzies
 toadeater
 toadfish
+toadfishes
 toadless
 toads
 toadstool
@@ -58695,6 +58727,7 @@ unexalted
 unexamined
 unexampled
 unexcelled
+unexceptionable
 unexcited
 unexciting
 unexcused
@@ -61469,6 +61502,7 @@ whishting
 whishts
 whiskery
 whisking
+whisky
 whisperer
 whisperers
 whispering
@@ -62485,6 +62519,7 @@ zingari
 zinged
 zingy
 zinkifies
+zinkifying
 zins
 zipper
 zippered
