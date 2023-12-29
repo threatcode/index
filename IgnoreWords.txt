@@ -1073,6 +1073,7 @@ airpark
 airparks
 airplane
 airplanes
+airport
 airposts
 airs
 airscape
@@ -3934,12 +3935,14 @@ balas
 balases
 balconied
 balconies
+baldachins
 balded
 balderdashes
 baldfaced
 baldhead
 balding
 baldpated
+baldpates
 baldricks
 baldrics
 baldy
@@ -8271,6 +8274,7 @@ caucus
 caucussed
 caucussing
 caudal
+caudally
 caudated
 caudations
 caudices
@@ -8284,6 +8288,7 @@ caulked
 caulking
 causable
 causalgia
+causally
 causative
 causes
 causewaying
@@ -8989,6 +8994,7 @@ chiliads
 chiliarch
 chiliarchs
 chiliasm
+chiliasts
 chilidogs
 chilled
 chiller
@@ -13104,6 +13110,7 @@ dalmatic
 dalmatics
 daltonic
 daltonism
+daltonisms
 damage
 damagers
 daman
@@ -13335,6 +13342,7 @@ dealing
 deals
 deaminases
 deaminate
+deaminated
 deaminating
 deaminize
 dean
@@ -15641,6 +15649,7 @@ dissertating
 dissertator
 disserted
 disserting
+disserts
 disserve
 disserved
 disserves
@@ -15911,6 +15920,7 @@ dogear
 dogearing
 dogey
 dogeys
+dogfaces
 dogfight
 dogged
 doggedness
@@ -17658,6 +17668,7 @@ endocrinology
 endocytic
 endocytosis
 endoderm
+endodermal
 endodontic
 endodontist
 endogamies
@@ -18058,6 +18069,7 @@ epeeist
 epees
 epentheses
 epenthesis
+epexegetically
 ephas
 ephebe
 ephebus
@@ -19000,6 +19012,7 @@ exorbitant
 exorciser
 exorcises
 exorcising
+exorcism
 exorcists
 exorcizing
 exosmic
@@ -19251,6 +19264,7 @@ extremist
 extremists
 extremities
 extricate
+extricates
 extrications
 extrorse
 extroversion
@@ -20326,6 +20340,7 @@ fishworm
 fission
 fissionable
 fissioning
+fissiparousness
 fissural
 fissures
 fissuring
@@ -20849,6 +20864,7 @@ fogey
 fogfruit
 foggier
 foggiest
+fogginess
 fogy
 fogyish
 foil
@@ -23286,6 +23302,7 @@ grasshopper
 grassier
 grassland
 grasslands
+grasslike
 grate
 grateful
 gratefulness
@@ -24026,6 +24043,7 @@ hallucinator
 hallucinators
 hallucinoses
 hallucinosis
+halm
 halocarbons
 halogenate
 halogenating
@@ -26108,6 +26126,7 @@ icier
 icker
 ickiest
 icky
+icon
 iconical
 iconically
 iconoclastic
@@ -27211,6 +27230,7 @@ inflexible
 inflexibleness
 inflexibly
 inflexions
+infliction
 inflictors
 inflows
 influence
@@ -27570,6 +27590,7 @@ instructiveness
 instructor
 instructors
 instructorship
+instructorships
 instrument
 instrumental
 instrumentalist
@@ -29254,6 +29275,7 @@ killjoy
 kills
 kilo
 kilobauds
+kilobits
 kilobytes
 kilocalories
 kilocuries
@@ -30565,6 +30587,7 @@ likely
 likeness
 likening
 likens
+liker
 likers
 likewise
 likuta
@@ -31317,6 +31340,7 @@ lunker
 lunkers
 lunkhead
 lunted
+lunting
 lunulate
 lunules
 lupins
@@ -33610,6 +33634,7 @@ mislies
 mislighting
 mislikes
 mislives
+misliving
 mislocates
 mislocating
 mislocations
@@ -35036,6 +35061,7 @@ namesake
 nametags
 nan
 nana
+nanas
 nancified
 nandina
 nandins
@@ -37800,6 +37826,7 @@ outproduced
 outproduces
 outproducing
 outpromise
+outpulled
 outpunches
 outpunching
 outpushes
@@ -47000,6 +47027,7 @@ revival
 revivalisms
 revivalist
 revivalists
+revivals
 revived
 revives
 revivifications
@@ -47067,6 +47095,7 @@ rhabdom
 rhabdomal
 rhabdomancies
 rhabdomeres
+rhabdovirus
 rhachis
 rhamnose
 rhamnoses
@@ -49169,6 +49198,7 @@ secretariat
 secretaries
 secretaryship
 secretaryships
+secretion
 secretionary
 secretive
 secrets
@@ -50067,6 +50097,7 @@ shnapps
 shnaps
 shnorrer
 shoaled
+shoalier
 shoaliest
 shoaling
 shoals
@@ -50257,6 +50288,7 @@ shuttlecock
 shuttlecocks
 shuttler
 shuttlers
+shuttles
 shuttling
 shwa
 shwanpans
@@ -51897,6 +51929,7 @@ sparids
 sparingly
 sparker
 sparkier
+sparkish
 sparkle
 sparkler
 sparklers
@@ -57311,6 +57344,7 @@ treehoppers
 treehouse
 treelawns
 treens
+trees
 treetops
 trehala
 trehalas
@@ -59473,6 +59507,7 @@ unsoldierly
 unsoncy
 unsophisticated
 unsoundness
+unsourced
 unsowed
 unsown
 unspecifiable
