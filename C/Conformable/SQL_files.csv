@@ -1,2 +1,4 @@
 hawq/src/include/catalog/pg_proc.sql at master - GitHub,https://github.com/apache/hawq/blob/master/src/include/catalog/pg_proc.sql
 mysql-porter-stemmer/porterstemmer.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porterstemmer.sql
+pg_ppdm/postgres_39/PPDM39_TCM.SQL at master - GitHub,https://github.com/rbhughes/pg_ppdm/blob/master/postgres_39/PPDM39_TCM.SQL
+mysql-porter-stemmer/porterstemmer.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porterstemmer.sql
