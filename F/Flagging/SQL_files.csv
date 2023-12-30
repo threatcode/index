@@ -5,3 +5,11 @@ load_3xmmdr7cat.sql - The XMM-Newton Survey Science Centre,http://xmmssc.irap.om
 load_3xmmdr8cat.sql - The XMM-Newton Survey Science Centre,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR8/load_3xmmdr8cat.sql
 assist - respnav - data - database.sql - GitLab - Virginia Tech,https://code.vt.edu/gcourt3/assist/blob/816dcd8ae2833edbd940aa3706dff94a2e6bedf2/respnav/data/database.sql
 www.chi2006.org/docs/sql/backup.sql,http://www.chi2006.org/docs/sql/backup.sql
+FeatureOne.SQL 3.0.0 - NuGet Gallery,https://www.nuget.org/packages/FeatureOne.SQL
+sqlp/tests/v6_pc_isql/dml169.sql at master · balena/sqlp · GitHub,https://github.com/balena/sqlp/blob/master/tests/v6_pc_isql/dml169.sql
+dbt-project-evaluator/models/marts/dag/fct_root_models.sql at main,https://github.com/dbt-labs/dbt-project-evaluator/blob/main/models/marts/dag/fct_root_models.sql
+src/org/hsqldb/resources/information-schema.sql - Google Git,https://android.googlesource.com/platform/external/hsqldb/%2B/fe8cd37122dc94d0220b738e0db4867e5dd4488b/src/org/hsqldb/resources/information-schema.sql
+https://www.postgresql.org/message-id/attachment/8...,https://www.postgresql.org/message-id/attachment/80140/tables.sql
+http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR8/load_...,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR8/load_3xmmdr8cat.sql
+load_4xmmdr10cat.sql - The XMM-Newton Survey Science Centre,http://xmmssc.irap.omp.eu/Catalogue/4XMM-DR10/load_4xmmdr10cat.sql
+assist - respnav - data - database.sql - GitLab - Virginia Tech,https://code.vt.edu/gcourt3/assist/blob/816dcd8ae2833edbd940aa3706dff94a2e6bedf2/respnav/data/database.sql
