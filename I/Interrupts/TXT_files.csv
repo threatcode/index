@@ -1,0 +1,47 @@
+interrupts.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/interrupt-controller/interrupts.txt
+Documentation/devicetree/bindings/interrupt-controller/interrupts.txt,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.0.2_r0.1/Documentation/devicetree/bindings/interrupt-controller/interrupts.txt
+Device drivers - MIT PDOS,https://pdos.csail.mit.edu/6.828/2023/lec/l-interrupt.txt
+Posted-interrupt - Xen Source Repositories,https://xenbits.xen.org/docs/4.9-testing/misc/vtd-pi.txt
+interrupt.txt - TI E2E,https://e2e.ti.com/cfs-filesystemfile/__key/communityserver-discussions-components-files/968/interrupt.txt%3F_%3D636730027588466764
+"Documentation/devicetree/bindings/interrupt-controller/riscv,cpu-intc ...",https://review.trustedfirmware.org/plugins/gitiles/hafnium/third_party/linux/%2B/b4b6d4a02fa8aa8187d426b508fb7f3b69df0dcc/Documentation/devicetree/bindings/interrupt-controller/riscv%252Ccpu-intc.txt
+mpc8641_hpcn_dts.txt - NXP Community,https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/powerquicc/3482/2/mpc8641_hpcn_dts.txt
+Livelock,http://www.scs.stanford.edu/13wi-cs240/notes/livelock.txt
+Fast Interrupt Priority Management in Operating System Kernels,https://www.usenix.org/legacy/publications/library/proceedings/micro93/full_papers/stodolsky.txt
+slides-old.txt,https://www.cs.ucf.edu/~leavens/COP3402/lectures/interrupts/slides-old.txt
+irq-redir.rst - The Linux Kernel Archives,https://lianghuanhan.club/linux-3.2.96/Documentation/ia64/IRQ-redir.txt
+SMP-affinity.txt,https://cs.uwaterloo.ca/~brecht/servers/apic/SMP-affinity.txt
+stm32mp157f-2-002-310-02-mx-bl2.pre.dts.txt - ST Community,https://community.st.com/ysqtg83639/attachments/ysqtg83639/stm32-mpu-products-forum/344/1/stm32mp157f-2-002-310-02-mx-bl2.pre.dts.txt
+devicetree.txt - Analog Devices,https://ez.analog.com/cfs-filesystemfile/__key/communityserver-discussions-components-files/441/devicetree.txt%3F_%3D637478693788267007
+keyboard-interrupts.md.txt - Pyodide,https://pyodide.org/en/0.21.2/_sources/usage/keyboard-interrupts.md.txt
+Lab 13 here,https://web.eece.maine.edu/eason/ece271/lab13.txt
+project-interrupts.txt - The University of Texas at Austin,https://users.ece.utexas.edu/~patt/04s.382N/homeworks/project-interrupts.txt
+"arm,gic.txt - Yocto git","https://git.yoctoproject.org/linux-yocto-4.6/plain/Documentation/devicetree/bindings/interrupt-controller/arm,gic.txt"
+Rasters - What They Are and How to Use Them by Bruce Vrieling,http://www.antimon.org/dl/c64/code/raster.txt
+socfpga.txt - Intel Community,https://community.intel.com/cipcp26785/attachments/cipcp26785/programmable-devices/5768/1/socfpga.txt
+"riscv,cpu-intc.txt - interrupt-controller","https://mjmwired.net/kernel/Documentation/devicetree/bindings/interrupt-controller/riscv,cpu-intc.txt"
+Lab 3 FAQ,http://individual.utoronto.ca/davidlion/ece344/faq.lab3.txt
+yaml - eLinux.org,https://elinux.org/images/2/23/Juno.cpp.yaml.txt
+RFC 103: Implementation of Interrupt Keys,https://tools.ietf.org/html/rfc103.txt
+Passthrough a device described in the Device Tree to a guest,https://xenbits.xenproject.org/docs/unstable/misc/arm/passthrough.txt
+Periodic Interrupts with the Real Time Clock - CompuPhase,https://www.compuphase.com/int70.txt
+Threads: Locks - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-locks.txt
+LXR linux/Documentation/PCI/MSI-HOWTO.txt,https://lxr.missinglinkelectronics.com/linux%2Bv4.9/Documentation/PCI/MSI-HOWTO.txt
+RTC_Driver32K.txt - Altair 8800 Clone,https://altairclone.com/downloads/basic/Floppy%2520Disk/RTC_Driver32K.txt
+APIC - FreeBSD,https://people.freebsd.org/~fsmp/SMP/papers/apicsubsystem.txt
+disable the NMI - The Dreams,http://www.the-dreams.de/articles/nmi-lock.txt
+MSI-HOWTO.txt - IC-Unicamp,https://ic.unicamp.br/~islene/2s2014-mc514/system-call/mc504-linux/linux-3.17.2/Documentation/PCI/MSI-HOWTO.txt
+Recap Timer,https://schaumont.dyn.wpi.edu/schaum/ece2534-msp430/lecture26.txt
+Ami Domadia,https://inst.eecs.berkeley.edu/~cs162/sp09/Students/Lecture_Notes_09.s/0211-AmiDomadia.txt
+intspec.txt - AMSAT,https://www.amsat.org/amsat/ftp/software/PC/InstantTrack/intspec.txt
+f6e7069abcc3f8f56fa7e1f4a0ef4...,https://cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/nvidia/original/4X/f/6/e/f6e7069abcc3f8f56fa7e1f4a0ef4533fe6a05dd.txt
+The DECSYSTEM-20 TCP/IP User Interface - » RFC Editor,https://www.rfc-editor.org/ien/ien176.txt
+"ti,pruss-remoteproc.txt",http://www.staroceans.org/projects/beagleboard/Documentation/devicetree/bindings/remoteproc/ti%252Cpruss-remoteproc.txt
+lapic.txt - nemez.net | Index,https://nemez.net/osdev/lapic.txt
+exceptions_example.asm.txt - MSDL,http://msdl.uantwerpen.be/people/hv/teaching/ComputerArchitecture/lectures/exceptions_example.asm.txt
+Semaphores and Monitors notes - UCSD CSE,https://cseweb.ucsd.edu/classes/su10/cse120/lectures/sema.txt
+…/hmxchipset.txt · Gerrit Code Review - Lineage,https://review.lineageos.org/c/LineageOS/android_kernel_leeco_msm8996/%2B/216584/1/Documentation/devicetree/bindings/input/touchscreen/hmxchipset.txt
+Example of code for Interrupt Timer0,https://alpha.physics.uoi.gr/foudas_public/Micro2019UoI/Interrupt-Timer0.txt
+11859082.txt - Head-Fi,https://cdn.head-fi.org/a/11859082.txt
+sched-arch.rst,http://eos.cern.ch/rpms/linux-3.16.3/Documentation/scheduler/sched-arch.txt
+6Ohc7Y2omvF2FuwnVB1lgUkuebj.txt - Volumio Community,https://community.volumio.com/uploads/short-url/6Ohc7Y2omvF2FuwnVB1lgUkuebj.txt
+gic-v3.txt,http://www.macs.hw.ac.uk/~hwloidl/hackspace/linux/Documentation/devicetree/bindings/arm/gic-v3.txt
