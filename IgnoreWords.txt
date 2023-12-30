@@ -42,6 +42,7 @@ abrogable
 abrogate
 abrogating
 abrogation
+abrupt
 abrupter
 abruptest
 abruptions
@@ -3146,6 +3147,7 @@ assigning
 assignment
 assimilable
 assimilated
+assimilates
 assimilationist
 assimilative
 assimilators
@@ -3287,6 +3289,7 @@ atlases
 atmans
 atmas
 atmometer
+atmosphere
 atmospherically
 atmospherics
 atomic
@@ -3567,6 +3570,7 @@ automobiles
 automobilist
 automobilists
 autonomists
+autonym
 autonyms
 autophagies
 autophagy
@@ -4631,6 +4635,7 @@ bedrapes
 bedrenched
 bedrenches
 bedrenching
+bedrivel
 bedriveling
 bedrock
 bedrooms
@@ -10473,6 +10478,7 @@ collaborator
 collage
 collagen
 collagenous
+collagens
 collages
 collaging
 collagist
@@ -11106,6 +11112,7 @@ conferral
 conferrals
 conferree
 conferrences
+conferrer
 conferrers
 confers
 confervas
@@ -11162,6 +11169,7 @@ confoundingly
 confrere
 confreres
 confrontational
+confronters
 confused
 confusedness
 confusednesses
@@ -11584,6 +11592,7 @@ convoluting
 convoying
 convoys
 convulses
+convulsions
 convulsive
 convulsively
 cooches
@@ -12689,6 +12698,7 @@ crucians
 crucible
 crucifers
 crucifier
+crucifixion
 crucifixions
 crucify
 cruck
@@ -13198,6 +13208,7 @@ cynics
 cynosural
 cynosure
 cyphered
+cyphering
 cyphers
 cypres
 cypreses
@@ -16117,6 +16128,7 @@ divorcements
 divorcers
 divorcing
 divorcive
+divot
 divots
 divulge
 divulges
@@ -18903,6 +18915,7 @@ ethynyls
 etic
 etiolating
 etiologic
+etiquette
 etiquettes
 etui
 etwees
@@ -19267,6 +19280,7 @@ exequaturs
 exercisable
 exercisers
 exercitation
+exercycle
 exergonic
 exergue
 exerting
@@ -22967,6 +22981,7 @@ gimmick
 gimmicked
 gimmickry
 gimmicky
+gimmies
 gimpier
 gimping
 gingal
@@ -24281,6 +24296,7 @@ gyroscopically
 gyrostabilizer
 gyrostabilizers
 gyttjas
+gyve
 haars
 habaneras
 habdalahs
@@ -29626,6 +29642,7 @@ keratoplasty
 keratosis
 keratotic
 kerb
+kerbed
 kerbs
 kerchiefed
 kerchieves
@@ -30267,6 +30284,7 @@ lamina
 laminable
 laminals
 laminarians
+laminarins
 laminas
 laminate
 laminated
@@ -30761,6 +30779,7 @@ legworks
 lehayims
 lehr
 lei
+leiomyomas
 leishmania
 leistering
 leisure
@@ -33028,6 +33047,7 @@ megavitamin
 megillah
 megillahs
 megohm
+megrim
 mehndi
 meinie
 meister
@@ -34266,6 +34286,7 @@ misreckoned
 misreckons
 misrecord
 misrecorded
+misreference
 misreferences
 misreferred
 misrelates
@@ -39132,6 +39153,7 @@ overservices
 overservicing
 overset
 oversets
+oversewing
 oversews
 oversexed
 overshade
@@ -43994,6 +44016,7 @@ prothallium
 protheses
 prothetic
 prothonotary
+prothoraxes
 prothrombin
 protist
 protists
@@ -44542,6 +44565,7 @@ putonghua
 putons
 putout
 putouts
+putrefied
 putrefiers
 putrescine
 putrescines
@@ -45307,6 +45331,7 @@ rasure
 rasures
 ratafees
 ratal
+rataplanned
 rataplanning
 ratatats
 ratbag
@@ -47874,6 +47899,7 @@ reweighs
 rewets
 rewidening
 rewidens
+rewin
 rewinds
 rewins
 rewon
@@ -48857,6 +48883,7 @@ safflower
 safflowers
 saffron
 saffrons
+safranins
 safrol
 sagacious
 sagaciously
@@ -53989,6 +54016,7 @@ stomodea
 stomped
 stomps
 stonable
+stoneboats
 stonechat
 stonecrops
 stonecutting
@@ -54877,12 +54905,14 @@ sufferings
 sufficers
 suffices
 sufficient
+sufficing
 suffixations
 suffixing
 suffixion
 sufflate
 suffocate
 suffocatingly
+suffocation
 suffrage
 suffragist
 suffuse
@@ -57245,6 +57275,7 @@ thunderbird
 thunderclaps
 thundercloud
 thundered
+thunderer
 thunderers
 thundering
 thunderous
@@ -60819,6 +60850,7 @@ upstaters
 upstirring
 upstroke
 upswell
+upswelled
 upswollen
 uptake
 uptalking
@@ -61406,6 +61438,7 @@ verjuice
 verjuices
 vermeil
 vermes
+vermicelli
 vermicellis
 vermiculate
 vermiculated
@@ -61416,6 +61449,7 @@ vermin
 verminous
 vermouth
 vernal
+vernalization
 vernalized
 vernalizing
 vernally
@@ -62547,6 +62581,7 @@ wests
 wether
 wethers
 wetsuits
+wettabilities
 wetter
 wetting
 wha
