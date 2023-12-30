@@ -2254,6 +2254,7 @@ antimonopolist
 antimony
 antimusic
 antimusics
+antimycin
 anting
 antinome
 antinomes
@@ -4922,6 +4923,7 @@ bent
 bentgrasses
 benthal
 benthon
+benthos
 bentonites
 bentwood
 benumbing
@@ -5501,6 +5503,7 @@ birred
 birrettas
 birthed
 birthings
+birthmark
 birthmarks
 birthnames
 birthright
@@ -6324,6 +6327,8 @@ bottom
 bottomer
 bottomland
 bottomless
+bottomlessness
+botulin
 botulinal
 botulinums
 botulinuses
@@ -8459,6 +8464,7 @@ causally
 causative
 causes
 causewaying
+causeways
 causeys
 causing
 caustic
@@ -12146,6 +12152,7 @@ counterfeiter
 counterimage
 counterimages
 countering
+counterion
 countermand
 countermanded
 countermands
@@ -12830,6 +12837,7 @@ cryoprobe
 cryoprobes
 cryoprotectant
 cryoprotectants
+cryoscopic
 cryoscopy
 cryptarithm
 cryptical
@@ -14512,6 +14520,7 @@ deplored
 deplorer
 deployer
 deploying
+deployment
 deployments
 deploys
 deplumed
@@ -15633,6 +15642,7 @@ disclosers
 disclosure
 discoed
 discographical
+discography
 discolored
 discolouring
 discolours
@@ -15943,6 +15953,7 @@ disrelish
 disrelished
 disrelishes
 disrelishing
+disremembered
 disremembers
 disrepair
 disrepairs
@@ -18651,6 +18662,7 @@ equipoised
 equipoising
 equipollence
 equipollences
+equipollently
 equiponderant
 equipper
 equipping
@@ -19284,6 +19296,7 @@ excitants
 excitatory
 excited
 excitement
+excitements
 excites
 excitonic
 excitons
@@ -19525,6 +19538,7 @@ exploded
 exploders
 explodes
 exploit
+exploitation
 exploitations
 exploited
 exploiter
@@ -20651,6 +20665,7 @@ finely
 fineries
 fines
 finespun
+finesses
 finest
 finfoot
 fingerboard
@@ -23554,6 +23569,7 @@ goodwilled
 goodwills
 goody
 goofball
+goofiest
 goofily
 goofinesses
 goofing
@@ -26611,6 +26627,7 @@ hypoploid
 hypopneas
 hypopneic
 hypopyon
+hypos
 hyposensitize
 hyposensitized
 hyposensitizing
@@ -26892,6 +26909,7 @@ imines
 imino
 imipramines
 imitable
+imitates
 imitations
 imitativeness
 imitator
@@ -30659,6 +30677,7 @@ laughing
 laughings
 laughingstock
 laughline
+laughs
 laughter
 laughters
 launce
@@ -30740,6 +30759,7 @@ lazied
 lazies
 lazinesses
 lazulis
+lazulite
 lazurite
 lazurites
 lazying
@@ -30806,6 +30826,7 @@ leathered
 leatherleaf
 leatherlike
 leatherwoods
+leathery
 leaved
 leaven
 leavens
@@ -32443,6 +32464,7 @@ maltha
 malthas
 maltier
 maltinesses
+malting
 maltols
 maltose
 maltreating
@@ -34654,6 +34676,7 @@ moguled
 moguls
 mohair
 mohelim
+mohur
 moiety
 moil
 moiled
@@ -43364,6 +43387,7 @@ preops
 preoptions
 preoral
 preordainments
+preordains
 preorders
 preordinations
 prep
@@ -44087,6 +44111,7 @@ propylaeum
 propylene
 propylic
 propylon
+prorating
 prorations
 prorogated
 prorogating
@@ -44337,6 +44362,7 @@ pseudo
 pseudoalleles
 pseudocyesis
 pseudomonads
+pseudomorph
 pseudomorphic
 pseudomorphism
 pseudonym
@@ -44579,6 +44605,7 @@ pungle
 pungled
 pungling
 punily
+puniness
 puninesses
 punishability
 punishable
@@ -45071,6 +45098,7 @@ quillaja
 quillback
 quillbacks
 quilled
+quilling
 quillworks
 quillworts
 quilted
@@ -46715,6 +46743,7 @@ reify
 reifying
 reigned
 reignite
+reigniting
 reignition
 reimaged
 reimages
@@ -48123,6 +48152,7 @@ rhapsodized
 rhebok
 rhemes
 rhenium
+rheniums
 rheobases
 rheologic
 rheologically
@@ -59738,6 +59768,7 @@ unchecked
 unchildlike
 unchlorinated
 unchoke
+unchoked
 unchokes
 unchoking
 unchristened
@@ -60359,6 +60390,7 @@ uniter
 unites
 unities
 unitization
+unitize
 unitizers
 unitizing
 unitrusts
@@ -61665,6 +61697,7 @@ veridically
 veriest
 verifiability
 verifications
+verisimilarly
 veritablenesses
 veritates
 verite
@@ -63070,6 +63103,7 @@ whorehouse
 whoresons
 whorls
 whortle
+whorts
 whosesoever
 whosises
 whoso
@@ -63980,6 +64014,7 @@ zemindaries
 zemindars
 zenith
 zephyr
+zeppoles
 zerk
 zeroed
 zestfulness
