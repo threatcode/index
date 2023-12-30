@@ -3172,6 +3172,7 @@ assortative
 assuage
 assuagers
 assuages
+assuasive
 assumabilities
 assumably
 assume
@@ -4906,6 +4907,7 @@ bennies
 bennis
 benomyl
 bent
+bentgrasses
 benthal
 benthon
 bentonites
@@ -6965,6 +6967,7 @@ budworm
 budworms
 buffaloed
 buffaloes
+buffalofish
 buffalos
 buffed
 buffer
@@ -9257,6 +9260,7 @@ chloramines
 chlorates
 chlordan
 chlorenchymas
+chlorinate
 chlorinating
 chlorination
 chlorinator
@@ -13455,6 +13459,7 @@ darneder
 darnedest
 darnel
 darnels
+darns
 darshan
 dartingly
 dartle
@@ -15887,6 +15892,7 @@ disrelish
 disrelished
 disrelishes
 disrelishing
+disremembers
 disrepair
 disrepairs
 disreputable
@@ -16596,6 +16602,7 @@ dramatizable
 dramatizes
 dramatizing
 dramaturg
+dramaturgies
 drammed
 drammock
 dramshop
@@ -18077,6 +18084,7 @@ enflamed
 enfold
 enfolded
 enfolder
+enfolders
 enforceable
 enforced
 enforcement
@@ -20255,6 +20263,7 @@ fennels
 fenniest
 fenthions
 fenugreek
+feoffed
 feoffee
 feoffor
 feoffors
@@ -20529,6 +20538,7 @@ film
 filmcards
 filmdom
 filmed
+filmer
 filmier
 filmiest
 filmily
@@ -21575,6 +21585,7 @@ formularies
 formularized
 formulas
 formulating
+formulations
 formulists
 formulizes
 fornical
@@ -22107,6 +22118,7 @@ fundraises
 fundus
 funerals
 funereal
+funereally
 funfair
 fungals
 fungibilities
@@ -23627,6 +23639,7 @@ gramophones
 grampa
 gramps
 grams
+granadilla
 granary
 grand
 grandads
@@ -25148,6 +25161,7 @@ hemostatics
 hemotoxin
 hempiest
 hempseeds
+hempy
 hems
 hemstitching
 henbanes
@@ -25459,6 +25473,7 @@ hindguts
 hindmost
 hinds
 hindshank
+hinged
 hinges
 hinkier
 hinnying
@@ -28028,6 +28043,7 @@ installer
 installers
 installment
 installs
+instalment
 instals
 instanced
 instancies
@@ -30071,6 +30087,7 @@ kultur
 kumiss
 kumisses
 kumquat
+kumquats
 kune
 kunzite
 kunzites
@@ -30532,6 +30549,7 @@ lauders
 lauds
 laughable
 laughableness
+laughablenesses
 laughed
 laughing
 laughings
@@ -31542,6 +31560,7 @@ loggia
 loggie
 loggier
 loggy
+logically
 logicalness
 logician
 logicians
@@ -32325,6 +32344,7 @@ mambo
 mamboing
 mamelukes
 mamey
+mammal
 mammalian
 mammalogies
 mammalogist
@@ -33248,6 +33268,7 @@ mercurially
 mere
 merengue
 meres
+merganser
 mergansers
 mergee
 mergences
@@ -33441,6 +33462,7 @@ meterage
 metered
 meterstick
 metestrus
+metestruses
 metformin
 meth
 methadone
@@ -40666,6 +40688,7 @@ periapts
 periblems
 pericardia
 pericarditis
+pericarditises
 perichondral
 perichondria
 pericopal
@@ -41317,6 +41340,7 @@ pianissimos
 pianofortes
 pians
 pias
+piasaba
 piasava
 piasavas
 piassavas
@@ -42179,6 +42203,7 @@ poisoner
 poisonous
 poitrel
 poitrels
+poker
 pokeroots
 pokers
 pokes
@@ -43461,6 +43486,7 @@ priceless
 pricelessly
 pricer
 pricers
+pricily
 pricing
 prickets
 pricking
@@ -46395,6 +46421,7 @@ refutes
 regain
 regained
 regal
+regaled
 regalia
 regaling
 regalities
@@ -49392,6 +49419,7 @@ scabble
 scabious
 scablike
 scabrous
+scabrousnesses
 scad
 scads
 scaffolding
@@ -51109,6 +51137,7 @@ shrub
 shrubberies
 shrubbery
 shrubbiest
+shrubland
 shrug
 shrunken
 shtetel
@@ -55526,6 +55555,7 @@ swallowers
 swallowing
 swallowtails
 swamis
+swamp
 swamped
 swamplands
 swampy
@@ -56587,6 +56617,7 @@ telly
 telneting
 telnets
 telnetting
+telome
 telomic
 telophase
 telophases
@@ -56959,6 +56990,7 @@ theocentricity
 theocracies
 theocrat
 theogonic
+theogonies
 theogony
 theologians
 theologic
@@ -60978,6 +61010,7 @@ username
 users
 uses
 ushered
+usneas
 usquabae
 usquabaes
 usquebae
@@ -61166,6 +61199,7 @@ vaporizable
 vaporized
 vaporizer
 vaporless
+vaporously
 vaporousness
 vapourers
 vaquero
@@ -61293,6 +61327,7 @@ veinier
 veining
 veinings
 veinlet
+veinlike
 veinstones
 veinule
 veinulet
