@@ -2485,6 +2485,7 @@ apology
 apolune
 apolunes
 apomict
+apomictic
 apomictically
 apomixis
 aponeuroses
@@ -7419,6 +7420,7 @@ caddice
 caddises
 caddish
 cadency
+cadent
 cadets
 cadetship
 cadi
@@ -10558,6 +10560,7 @@ colorbred
 colorbreeds
 colorcast
 colorcasting
+colorer
 colorers
 colorfast
 colorfastness
@@ -12316,6 +12319,7 @@ cragginess
 cragginesses
 cragsmen
 crambo
+crammers
 cramp
 cramping
 crampons
@@ -13127,6 +13131,7 @@ cyclist
 cyclists
 cyclization
 cyclize
+cyclized
 cyclizines
 cyclizing
 cycloaddition
@@ -13227,6 +13232,7 @@ cytostatic
 cytostatically
 cytostatics
 cytotaxonomies
+cytotaxonomy
 cytotechnology
 cytotoxicity
 cytotoxins
@@ -15036,9 +15042,11 @@ diarrhetic
 diarthroses
 diary
 diaspore
+diaspores
 diastases
 diastatic
 diastemas
+diastems
 diaster
 diastereomeric
 diastereomers
@@ -15786,6 +15794,7 @@ disparager
 disparagers
 disparagingly
 disparately
+disparateness
 disparatenesses
 disparity
 disparts
@@ -16746,6 +16755,7 @@ drowns
 drowsier
 drowsiness
 drowsy
+drubbed
 drubs
 drudgeries
 drudging
@@ -20090,6 +20100,7 @@ featurette
 featurettes
 feazed
 feazing
+febricity
 febrifuges
 febrile
 febrility
@@ -24939,6 +24950,7 @@ hefted
 hefter
 hefters
 heftier
+heftiest
 heftiness
 heftinesses
 hefting
@@ -25531,6 +25543,7 @@ hobs
 hockers
 hockey
 hocus
+hocusses
 hocussing
 hodaddies
 hodaddy
@@ -25910,6 +25923,7 @@ hospitalizes
 hospitals
 hospodar
 hosta
+hostage
 hostages
 hostas
 hosted
@@ -28926,6 +28940,7 @@ jackets
 jackfish
 jackfishes
 jackhammer
+jackhammering
 jackhammers
 jackies
 jacking
@@ -29617,6 +29632,7 @@ kerygmatic
 kestrels
 ketamine
 ketch
+ketchup
 ketchups
 ketogeneses
 ketols
@@ -32991,6 +33007,7 @@ megohm
 mehndi
 meinie
 meister
+meisters
 meitnerium
 mel
 melamdim
@@ -34389,6 +34406,7 @@ mobilising
 mobility
 mobilizations
 mobilize
+mobilizer
 mobilizing
 mobled
 mobocrats
@@ -34561,6 +34579,7 @@ moneybags
 moneygrubbings
 moneymaker
 moneymen
+moneys
 moneyworts
 mongered
 mongoes
@@ -34770,6 +34789,7 @@ mooters
 mooting
 moots
 mopboards
+mopeds
 mopery
 mopiest
 mopiness
@@ -34809,6 +34829,7 @@ moresques
 morgan
 morgue
 moribundity
+morn
 morning
 morocco
 moroccos
@@ -35361,6 +35382,7 @@ musicalize
 musicals
 musicianly
 musicians
+musicked
 musicless
 musicologies
 musjids
@@ -37925,6 +37947,7 @@ organizer
 organs
 organum
 organza
+orgasms
 orgeat
 orgic
 orgulous
@@ -39538,7 +39561,9 @@ paludisms
 palynologically
 palynologist
 pampas
+pampean
 pampered
+pamperer
 pampering
 pamphlet
 pamphleteer
@@ -40243,6 +40268,7 @@ pedagogy
 pedal
 pedaler
 pedalier
+pedaliers
 pedaling
 pedaller
 pedals
@@ -40565,6 +40591,7 @@ perfidious
 perfidiously
 perforating
 perforation
+perforations
 perforce
 performative
 performatives
@@ -47812,6 +47839,7 @@ rewears
 rewedding
 reweds
 reweighs
+rewets
 rewidening
 rewidens
 rewinds
@@ -48354,6 +48382,7 @@ roquet
 roqueted
 roquets
 roquette
+rorqual
 rosaria
 rosariums
 rosary
@@ -49120,6 +49149,7 @@ sapwoods
 sarabande
 sarape
 sarcasm
+sarcastic
 sarcastically
 sarcina
 sarcocarps
@@ -52757,6 +52787,7 @@ sparteines
 spasm
 spasmed
 spasming
+spasmolytic
 spasms
 spasticities
 spat
@@ -52944,6 +52975,7 @@ spiderlike
 spiderweb
 spiderwort
 spiderworts
+spiegeleisens
 spiegels
 spiel
 spiels
@@ -61239,6 +61271,7 @@ venerablenesses
 venerate
 venerating
 veneration
+venereal
 venesection
 venetian
 venetians
@@ -61262,6 +61295,7 @@ venters
 ventifacts
 ventilated
 ventilates
+ventral
 ventricles
 ventricular
 ventriculi
@@ -61794,6 +61828,7 @@ volcanologies
 volcanos
 volery
 volitions
+volleyball
 volleyballs
 volleyed
 volost
