@@ -821,6 +821,7 @@ affirmers
 affirms
 affixable
 affixal
+affixial
 affixing
 affixtures
 afflatus
@@ -2782,6 +2783,7 @@ archipelagoes
 architecturally
 architecture
 architectures
+architrave
 architraves
 archiving
 archivists
@@ -4643,6 +4645,7 @@ bedrenching
 bedrivel
 bedriveling
 bedrock
+bedrocks
 bedrooms
 bedrugged
 bedside
@@ -5655,6 +5658,7 @@ blastments
 blastocoel
 blastocoelic
 blastocoels
+blastocysts
 blastomere
 blastomycosis
 blastospores
@@ -8062,6 +8066,7 @@ cardigans
 cardinalate
 cardinalships
 cardio
+cardiogram
 cardiograms
 cardiographies
 cardiographs
@@ -11648,6 +11653,7 @@ coonskin
 cooperage
 cooperages
 cooperate
+cooperated
 cooperator
 cooperies
 coopted
@@ -11918,6 +11924,7 @@ corrugate
 corrugated
 corrugates
 corrugating
+corrupt
 corruptest
 corruptly
 corruptor
@@ -14272,6 +14279,7 @@ demesnes
 demeton
 demetons
 demigods
+demilitarizes
 demilune
 demimondaine
 demimondaines
@@ -16255,6 +16263,7 @@ dogfight
 dogged
 doggedness
 dogger
+doggerel
 doggerels
 doggers
 doggier
@@ -18305,6 +18314,7 @@ enteritis
 enteritises
 enterobacterial
 enterobacterium
+enterocoele
 enterocoeles
 enterocoelous
 enterocolitis
@@ -18355,6 +18365,7 @@ entophyte
 entopic
 entourage
 entourages
+entozoa
 entozoan
 entozoans
 entozoon
@@ -18563,6 +18574,7 @@ epithelization
 epithelized
 epithelizes
 epithelizing
+epitomic
 epitomizes
 epitomizing
 epitopes
@@ -22335,6 +22347,7 @@ gaggers
 gaggle
 gagmen
 gaillardias
+gainfulnesses
 gaining
 gainless
 gainliest
@@ -22492,6 +22505,7 @@ gaolers
 gaols
 gap
 gape
+gaper
 gapes
 gapeseeds
 gaping
@@ -24781,6 +24795,7 @@ hassocks
 hasted
 hasten
 hastening
+hastens
 hastes
 hatcheck
 hatchecks
@@ -25361,6 +25376,7 @@ heterogonies
 heterogony
 heterokaryons
 heterokaryoses
+heterologously
 heterolyses
 heteronomies
 heteronyms
@@ -26859,6 +26875,7 @@ immanency
 immaterialism
 immaterialists
 immaterialities
+immaterialize
 immaterializes
 immaterializing
 immatures
@@ -27949,6 +27966,7 @@ innocuousness
 innovate
 innovates
 innovator
+inns
 innuendo
 innuendoes
 innuendoing
@@ -28367,6 +28385,7 @@ intermixed
 intermixing
 intermodal
 intermodulation
+intermontane
 intern
 internalised
 internalises
@@ -31343,6 +31362,7 @@ lipotropies
 lipotropy
 lippened
 lipper
+lippered
 lippers
 lippier
 lippiness
@@ -35809,6 +35829,7 @@ narcissisms
 narcissist
 narcissistic
 narcissus
+narcissuses
 narcists
 narcoleptics
 narcomata
@@ -36901,6 +36922,7 @@ nonpasts
 nonpathogenic
 nonpaying
 nonpayment
+nonpayments
 nonperformer
 nonperishables
 nonpersonal
@@ -37494,6 +37516,7 @@ obstructions
 obstructive
 obstructors
 obstructs
+obstruents
 obtainabilities
 obtained
 obtainer
@@ -39658,6 +39681,7 @@ palewise
 palfreys
 palindrome
 palindromes
+palinodes
 palisade
 pall
 palladium
@@ -40049,6 +40073,7 @@ parricides
 parridges
 parried
 parrier
+parriers
 parries
 parring
 parrokets
@@ -41634,6 +41659,7 @@ pine
 pinealectomized
 pineapples
 pinelands
+pinene
 pinetum
 pinewoods
 pinfolds
@@ -42151,6 +42177,7 @@ plumbum
 plumbums
 plume
 plumed
+plumier
 plumiest
 plummer
 plummest
@@ -43570,6 +43597,7 @@ pricer
 pricers
 pricily
 pricing
+pricked
 prickets
 pricking
 prickle
@@ -45689,6 +45717,7 @@ reassertion
 reasserts
 reassesses
 reassigned
+reassigning
 reassort
 reassume
 reassurance
@@ -50506,6 +50535,7 @@ sentience
 sentiences
 sentiency
 sentients
+sentiment
 sentimentalisms
 sentimentalizes
 sentiments
@@ -50741,6 +50771,7 @@ sforzato
 sfumato
 sha
 shabbatot
+shabbier
 shabbily
 shabbiness
 shabby
@@ -51236,6 +51267,7 @@ shtickiest
 shticks
 shticky
 shtik
+shucking
 shuddering
 shuffle
 shuffleboards
@@ -55609,6 +55641,7 @@ suspenses
 suspensions
 suspensively
 suspicion
+suspicions
 suspicious
 suspiciousness
 suspiration
@@ -58303,6 +58336,7 @@ transmittances
 transmitter
 transmitting
 transmogrified
+transmontane
 transmountain
 transmutable
 transmutes
@@ -60296,6 +60330,7 @@ unkingly
 unknot
 unknots
 unknotting
+unknowable
 unknowing
 unknowingly
 unknown
