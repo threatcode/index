@@ -1073,6 +1073,7 @@ airbag
 airboat
 airborne
 airbrush
+airbrushes
 aircoach
 aircoaches
 aircrew
@@ -2219,6 +2220,7 @@ antielitist
 antiepileptic
 antifamily
 antifascisms
+antifascist
 antifascists
 antifashion
 antifashionable
@@ -5119,6 +5121,7 @@ betonies
 betons
 betony
 betrayed
+betrayer
 betroth
 betrothed
 betta
@@ -6881,6 +6884,7 @@ broncs
 brontosaur
 bronzed
 bronzer
+bronzes
 bronziest
 bronzings
 bronzy
@@ -12572,6 +12576,7 @@ crayonists
 craze
 crazily
 crazy
+crazyweeds
 creaked
 creakier
 creakiest
@@ -12849,6 +12854,7 @@ crow
 crowberry
 crowded
 crowdedly
+crowdedness
 crowder
 crowders
 crowds
@@ -15593,6 +15599,7 @@ dipeptide
 dipeptides
 diphasic
 diphenhydramine
+diphenyls
 diphtherial
 diphtherias
 diphtheroid
@@ -16315,6 +16322,7 @@ diverticuloses
 diverticulosis
 divertimento
 divertimentos
+diverting
 divertissements
 dives
 divest
@@ -18227,6 +18235,7 @@ endnote
 endobiotic
 endocarp
 endocarps
+endocrine
 endocrinology
 endocytic
 endocytosis
@@ -19628,6 +19637,7 @@ exorcises
 exorcising
 exorcism
 exorcists
+exorcizes
 exorcizing
 exordium
 exosmic
@@ -20333,6 +20343,7 @@ fatwood
 faubourg
 faucal
 faucial
+faugh
 fauld
 fault
 faultfinders
@@ -20738,6 +20749,7 @@ fidget
 fidgeted
 fidgetiness
 fidgeting
+fidgets
 fidgety
 fidging
 fido
@@ -21214,6 +21226,7 @@ flays
 fleabanes
 fleabites
 fleahopper
+fleahoppers
 fleapit
 fleawort
 fleche
@@ -21292,6 +21305,7 @@ flimsinesses
 flinch
 flinchers
 flinches
+flinder
 flinders
 fling
 flinger
@@ -24582,6 +24596,7 @@ guttersnipish
 guttle
 guttles
 gutturalism
+gutturals
 gutty
 guy
 guyots
@@ -24860,6 +24875,7 @@ hame
 hames
 hammal
 hammered
+hammerheads
 hammering
 hammerkop
 hammier
@@ -24950,11 +24966,13 @@ hanseling
 hanselled
 hanselling
 hansoms
+hant
 hantaviruses
 hanting
 hantles
 hanumans
 hao
+haphazardnesses
 haphazards
 haphtarah
 haphtarahs
@@ -25631,6 +25649,7 @@ herpetologists
 herpetology
 herrenvolk
 herrenvolks
+herringbone
 herringboning
 herrings
 herstory
@@ -26112,6 +26131,7 @@ homologations
 homologies
 homologized
 homologizers
+homologizes
 homology
 homolyses
 homolytic
@@ -31962,6 +31982,7 @@ loculed
 locules
 loculicidal
 locums
+locus
 locust
 locustae
 locutories
@@ -35086,6 +35107,7 @@ mome
 momentariness
 momentarinesses
 momentousnesses
+moments
 momes
 momi
 momism
@@ -38063,6 +38085,7 @@ odontoid
 odontoids
 odor
 odorant
+odoriferously
 odoriferousness
 odorized
 odorizes
@@ -38910,6 +38933,7 @@ outfooling
 outfools
 outfoots
 outfox
+outfoxes
 outfrowns
 outfumbles
 outgained
@@ -40158,6 +40182,7 @@ palmerworm
 palmette
 palmettos
 palmier
+palmiest
 palmists
 palmitin
 palookas
@@ -40687,6 +40712,7 @@ patentabilities
 patentable
 patented
 patentee
+patenting
 pater
 paternally
 pathbreaking
@@ -47443,6 +47469,7 @@ relumed
 relumine
 reluming
 rem
+remails
 remaindered
 remainders
 remaining
@@ -52110,6 +52137,7 @@ simplifier
 simplify
 simplism
 simplist
+simplistically
 simply
 simps
 simulacrums
@@ -52884,6 +52912,7 @@ snell
 snelled
 snicked
 snickerers
+snickering
 snickersnee
 snickersnees
 snicking
@@ -53427,6 +53456,7 @@ sourceless
 sources
 sourdoughs
 soured
+sourer
 souring
 sourly
 sourpuss
@@ -53875,6 +53905,7 @@ spleenier
 spleeniest
 spleenworts
 spleeny
+splendent
 splendidest
 splendiferous
 splenectomizing
@@ -60342,6 +60373,7 @@ uncinus
 uncivil
 uncivilly
 unclad
+unclamped
 unclarities
 unclarity
 unclasp
@@ -60719,6 +60751,7 @@ unerring
 unescapable
 unessayed
 unessential
+unevaded
 unevaluated
 unexalted
 unexamined
@@ -61608,6 +61641,7 @@ uphroes
 upland
 upleap
 upleaped
+uplift
 uplighting
 uplinks
 uploaded
@@ -64557,6 +64591,7 @@ zaffars
 zaffers
 zaffir
 zaffres
+zaftig
 zag
 zagged
 zaire
