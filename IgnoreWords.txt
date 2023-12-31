@@ -373,6 +373,7 @@ acrogen
 acrolect
 acrolein
 acroleins
+acroliths
 acronymic
 acronyms
 acropetal
@@ -3272,6 +3273,7 @@ ataxy
 ate
 atelectases
 atelectasis
+atemoya
 atemoyas
 atenolol
 athanasies
@@ -3611,6 +3613,7 @@ autotrophs
 autotypies
 autoxidation
 autoxidations
+autumn
 autumns
 autunites
 auxesis
@@ -7842,6 +7845,7 @@ cantals
 cantankerous
 cantata
 cantatas
+canted
 canteens
 canter
 cantered
@@ -8022,6 +8026,7 @@ carbaryls
 carbide
 carbines
 carbocyclic
+carbohydrase
 carbolic
 carbolizes
 carbolizing
@@ -8144,6 +8149,7 @@ carlin
 carline
 carling
 carman
+carminative
 carnal
 carnallite
 carnations
@@ -12197,6 +12203,7 @@ counterrallies
 counterreforms
 counterresponse
 counters
+countershading
 countershot
 countersigning
 countersink
@@ -13598,6 +13605,7 @@ daydreams
 dayglows
 daylights
 daylong
+daymares
 dayroom
 dayrooms
 daysprings
@@ -16062,6 +16070,7 @@ distance
 distanced
 distantness
 distantnesses
+distasteful
 distastefulness
 distempers
 distenders
@@ -16491,6 +16500,7 @@ dorsally
 dorsals
 dorser
 dorsoventral
+dorsoventrality
 dorsoventrally
 dosed
 dosimeters
@@ -17058,6 +17068,7 @@ duplicate
 duplicated
 duplications
 duplicative
+duplicities
 dupped
 dups
 durablenesses
@@ -18918,6 +18929,7 @@ esthetician
 estheticisms
 estimable
 estivate
+estivates
 estivators
 estop
 estopped
@@ -21471,6 +21483,7 @@ footwalls
 footwork
 footy
 foozler
+foozlers
 foozling
 fop
 fopping
@@ -22268,6 +22281,7 @@ furcraeas
 furfurals
 furfurans
 furies
+furiously
 furl
 furless
 furlong
@@ -25473,6 +25487,7 @@ hexad
 hexads
 hexagons
 hexagrams
+hexahydrates
 hexameters
 hexamethoniums
 hexamine
@@ -27036,6 +27051,7 @@ immy
 impacted
 impacters
 impacting
+impaction
 impacts
 impainted
 impainting
@@ -28215,6 +28231,7 @@ instillment
 instillments
 instinctively
 instincts
+instinctual
 instituted
 institutes
 institution
@@ -30912,6 +30929,7 @@ legalize
 legalized
 legalizers
 legalizes
+legateship
 legateships
 legations
 legato
@@ -33641,6 +33659,7 @@ methadone
 methanes
 methemoglobins
 methenamine
+methicillin
 methinks
 methionine
 methodicalness
@@ -33661,6 +33680,7 @@ methylcellulose
 methyldopa
 methylic
 methysergide
+meticulosity
 metol
 metonymic
 metonyms
@@ -34258,6 +34278,7 @@ misclassifying
 misclassing
 miscode
 miscoin
+miscoining
 miscolor
 miscolors
 miscomputed
@@ -34885,6 +34906,7 @@ monoecism
 monofilament
 monofils
 monogamies
+monogamist
 monogamists
 monogenically
 monogerm
@@ -38099,6 +38121,8 @@ oppression
 oppressively
 oppressiveness
 opprobrious
+oppugn
+oppugnant
 oppugning
 opsin
 opsonic
@@ -39031,6 +39055,7 @@ overcompensated
 overcomplicated
 overcompressed
 overcompresses
+overconstructed
 overconstructs
 overconsumption
 overcooks
@@ -44202,6 +44227,7 @@ prosit
 prosobranchs
 prosodical
 prosodists
+prosoma
 prosomas
 prosopographies
 prosopopoeia
@@ -45631,6 +45657,7 @@ rationally
 rationalness
 ratios
 ratlin
+ratooners
 ratooning
 ratoons
 ratos
@@ -46952,6 +46979,7 @@ relatedly
 relatedness
 relating
 relation
+relational
 relationally
 relationships
 relatively
@@ -47846,6 +47874,7 @@ resuscitators
 resuspend
 resuspends
 reswallows
+resynthesized
 resystematized
 ret
 retacked
@@ -49548,6 +49577,7 @@ satchels
 satchelsful
 sateen
 satem
+sates
 satiable
 satiate
 satiated
@@ -53480,6 +53510,7 @@ spoliates
 spoliating
 spondaic
 spondees
+sponged
 spongiest
 spongin
 sponsal
@@ -55946,6 +55977,7 @@ swinepoxes
 swingers
 swinges
 swingiest
+swinging
 swingingly
 swingled
 swingles
@@ -60649,6 +60681,7 @@ unpolitic
 unpolled
 unpolluted
 unposed
+unpotted
 unpractical
 unprecedented
 unprecedentedly
@@ -63073,6 +63106,7 @@ whippings
 whippletree
 whippoorwills
 whipray
+whiprays
 whipsawing
 whipstitch
 whipstitched
@@ -63239,6 +63273,7 @@ wigwagger
 wigwaggers
 wigwags
 wikiup
+wildcards
 wildebeests
 wilderness
 wildernesses
