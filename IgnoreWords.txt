@@ -527,6 +527,7 @@ adhibiting
 adieu
 adieus
 adieux
+adiposes
 adiposis
 adiposities
 adipous
@@ -2017,6 +2018,7 @@ ankylosed
 anlace
 anlaces
 anlagen
+anlages
 annalistic
 annals
 annas
@@ -4842,6 +4844,7 @@ beheading
 beheld
 behests
 beholders
+beholds
 behoof
 behoove
 behooves
@@ -8400,6 +8403,7 @@ cassino
 cassiterite
 cassiterites
 cassoulet
+castability
 castanet
 castanets
 castellated
@@ -8681,6 +8685,7 @@ cementer
 cementing
 cenobites
 cenobitic
+cenotaph
 cenote
 cenozoic
 censed
@@ -11366,6 +11371,7 @@ congesting
 congestion
 conglobate
 conglobates
+conglobation
 conglobe
 conglomerateur
 conglomerateurs
@@ -13545,6 +13551,7 @@ daintinesses
 daiquiris
 dairying
 dairymaid
+dairymaids
 daises
 daishikis
 dakerhen
@@ -14860,6 +14867,7 @@ descents
 describer
 descried
 descrier
+descriers
 descries
 descriptive
 descriptively
@@ -17876,6 +17884,7 @@ elint
 elision
 elitisms
 elixir
+ell
 ellipsoids
 ells
 elmier
@@ -18184,6 +18193,7 @@ enantiomer
 enantiomorphism
 enantiomorphs
 enates
+enatic
 enations
 encaenia
 encaging
@@ -20039,6 +20049,7 @@ fabs
 fabular
 fabulates
 fabulists
+fabulousness
 fabulousnesses
 facade
 facades
@@ -23878,6 +23889,7 @@ goodwill
 goodwilled
 goodwills
 goody
+goof
 goofball
 goofiest
 goofily
@@ -24244,6 +24256,7 @@ greengrocery
 greenheads
 greenheart
 greenhorns
+greening
 greenings
 greenishness
 greenishnesses
@@ -24428,6 +24441,7 @@ growable
 growing
 growl
 growler
+growlers
 growliness
 growling
 growls
@@ -27447,6 +27461,7 @@ impersonalities
 impersonalize
 impersonalizing
 impersonated
+impersonator
 impertinence
 imperviously
 impetiginous
@@ -30824,6 +30839,7 @@ lamellibranchs
 lamentable
 lamentableness
 lamentably
+lamentation
 lamenter
 lamenters
 lamest
@@ -33648,6 +33664,7 @@ meister
 meisters
 meitnerium
 mel
+melaleuca
 melamdim
 melamed
 melancholia
@@ -35056,6 +35073,7 @@ mizzled
 mizzly
 mm
 mnemonically
+mnemonics
 mo
 moa
 moan
@@ -37050,6 +37068,7 @@ nodule
 nodulose
 noels
 noesises
+nogged
 noggings
 nogs
 noh
@@ -37475,6 +37494,7 @@ nonphonemic
 nonphysical
 nonplayers
 nonplused
+nonplussing
 nonpoetic
 nonpolice
 nonpolitically
@@ -37716,6 +37736,7 @@ nother
 nothingness
 nothingnesses
 notice
+noticeable
 noticeably
 noticed
 noticers
@@ -39069,6 +39090,7 @@ outgroup
 outgrow
 outgrowing
 outgrowths
+outguiding
 outhandled
 outhandles
 outhaul
@@ -41481,6 +41503,7 @@ permittee
 permitters
 permittivity
 permutation
+permutational
 permutations
 permuted
 permuting
@@ -45174,6 +45197,7 @@ punching
 punchless
 punctate
 punctated
+punctiliousness
 punctualities
 punctually
 punctuate
@@ -47308,6 +47332,7 @@ rehabilitants
 rehabilitating
 rehabilitator
 rehammered
+rehandled
 rehanging
 rehashing
 rehear
@@ -47774,6 +47799,7 @@ reoccupations
 reoccupies
 reoccupying
 reoccurrence
+reoccurrences
 reoccurring
 reoccurs
 reoffered
@@ -48262,6 +48288,7 @@ resoluteness
 resolutenesses
 resoluter
 resolutes
+resolvable
 resonance
 resonances
 resonates
@@ -52763,6 +52790,7 @@ slipout
 slipover
 slippages
 slipper
+slippered
 slipperiness
 slippers
 slippier
@@ -52899,6 +52927,7 @@ smarm
 smarmier
 smarmiest
 smarms
+smartass
 smartasses
 smarten
 smartens
@@ -54854,6 +54883,7 @@ stinkiest
 stinking
 stinko
 stinks
+stinkweeds
 stinky
 stinter
 stinters
@@ -56463,6 +56493,7 @@ swabbed
 swabbers
 swabbie
 swaddle
+swaddles
 swaged
 swagers
 swagged
@@ -56850,6 +56881,7 @@ sysadmin
 sysop
 sysops
 systematic
+systematically
 systematicness
 systematised
 systematists
@@ -59600,6 +59632,7 @@ trocar
 trochal
 trochanter
 trochanteric
+trochanters
 trochar
 trochars
 trochlea
@@ -60484,6 +60517,7 @@ uncases
 uncashed
 uncasked
 uncast
+uncataloged
 uncategorizable
 uncaught
 unceasing
@@ -61742,6 +61776,7 @@ upases
 upbear
 upbearer
 upbeat
+upbeats
 upboil
 upboils
 upbore
