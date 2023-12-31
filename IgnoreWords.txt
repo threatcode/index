@@ -496,6 +496,7 @@ addresser
 addressing
 addressor
 adduce
+adducent
 adducer
 adduces
 adducible
@@ -766,6 +767,7 @@ aerodynamicists
 aerodynamics
 aeroelasticity
 aeroembolisms
+aerogram
 aerogramme
 aerolite
 aerologies
@@ -907,6 +909,7 @@ agapes
 agates
 agateware
 agatized
+agatizing
 agatoid
 agaves
 agaze
@@ -4167,6 +4170,7 @@ banditry
 banditti
 bandoleer
 bandolier
+bandoneon
 bandora
 bandoras
 bandore
@@ -7192,6 +7196,7 @@ bundlings
 bunds
 bundts
 bungalow
+bungalows
 bungee
 bungle
 bunglers
@@ -8680,6 +8685,7 @@ censuses
 cent
 centai
 centas
+centaureas
 centauries
 centennial
 centennials
@@ -9550,6 +9556,7 @@ chronographies
 chronologer
 chronologers
 chronological
+chronologically
 chronologies
 chronologists
 chrysalids
@@ -11525,6 +11532,7 @@ consular
 consultants
 consultantship
 consultive
+consultor
 consumables
 consumer
 consumeristic
@@ -11769,6 +11777,7 @@ cooky
 cool
 cooldown
 cooldowns
+cooled
 cooler
 coolest
 cooling
@@ -14685,6 +14694,7 @@ depolarizers
 depolarizing
 depolished
 depolishes
+depolishing
 depoliticizing
 depolymerize
 deponent
@@ -21944,6 +21954,7 @@ forwarded
 forwardest
 forwarding
 forwardness
+forwhy
 forzandi
 forzandos
 fossa
@@ -23211,6 +23222,7 @@ geriatric
 germanders
 germanic
 germanization
+germanize
 germans
 germens
 germicide
@@ -25555,6 +25567,7 @@ hemostases
 hemostat
 hemostatics
 hemotoxin
+hempen
 hempiest
 hempseeds
 hempy
@@ -29018,6 +29031,7 @@ inutilities
 invader
 invading
 invaginate
+invaginated
 invaginations
 invalid
 invalidate
@@ -29809,6 +29823,7 @@ journals
 journey
 journeyed
 journeymen
+journo
 joust
 jovially
 jovialty
@@ -34425,6 +34440,7 @@ mingiest
 mingler
 minglers
 mingles
+miniature
 miniaturizes
 minibikers
 minibus
@@ -35085,6 +35101,7 @@ moiling
 moires
 moist
 moisten
+moister
 moistly
 moistnesses
 moisture
@@ -39669,6 +39686,7 @@ overmines
 overmixing
 overmodest
 overmuch
+overnear
 overnew
 overnice
 overnight
@@ -39975,6 +39993,7 @@ oxbow
 oxbows
 oxcarts
 oxheart
+oxhearts
 oxid
 oxidant
 oxidants
@@ -40523,6 +40542,7 @@ pard
 pardah
 pardahs
 pardon
+pardonable
 pardonably
 pared
 parent
@@ -40994,6 +41014,7 @@ pediculates
 pedicured
 pedicurists
 pedigree
+pedigreed
 pedigrees
 pedimented
 pediments
@@ -41070,6 +41091,7 @@ pelletizations
 pelletized
 pelletizer
 pellmell
+pelmet
 pelmets
 peloria
 peloruses
@@ -41848,6 +41870,7 @@ photolyzed
 photolyzing
 photomapping
 photometric
+photometries
 photomicrograph
 photomosaics
 photomurals
@@ -45591,6 +45614,7 @@ quicks
 quicksands
 quicksets
 quiddities
+quiescence
 quiescently
 quieted
 quietened
@@ -46495,6 +46519,7 @@ recirculating
 recit
 recitative
 recitativos
+reciters
 recites
 recits
 reck
@@ -48414,6 +48439,7 @@ retirednesses
 retirees
 retitle
 retook
+retool
 retooled
 retorsion
 retort
@@ -50224,6 +50250,7 @@ scant
 scanted
 scantier
 scanties
+scantiest
 scaped
 scapegoating
 scapegoatisms
@@ -51837,6 +51864,7 @@ shout
 shouted
 shovelful
 shovelling
+shovelnose
 shovelnoses
 shovels
 shoves
@@ -53109,6 +53137,7 @@ soaker
 soapbark
 soapberries
 soapboxes
+soaped
 soaper
 soapiness
 soaping
@@ -57766,6 +57795,7 @@ thalamus
 thalassaemias
 thalassemics
 thalassocracy
+thallic
 thallious
 than
 thanage
@@ -59605,6 +59635,7 @@ truckled
 truckler
 trucklines
 truckling
+truckloads
 truckman
 trueborn
 trueing
@@ -60413,6 +60444,7 @@ unchaster
 unchastest
 unchastities
 unchastity
+unchauvinistic
 unchecked
 unchildlike
 unchlorinated
@@ -61384,6 +61416,7 @@ unselfishly
 unsellable
 unsells
 unsensational
+unsensitized
 unserious
 unserved
 unsettledness
@@ -64094,6 +64127,7 @@ woadwaxens
 wobbler
 wobbles
 wobblier
+wobbliness
 wobblinesses
 wobegone
 wodge
@@ -64848,6 +64882,7 @@ zorillas
 zorillo
 zorillos
 zorils
+zoster
 zouave
 zucchetti
 zydeco
