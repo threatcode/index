@@ -1524,6 +1524,7 @@ ambiguities
 ambiguousnesses
 ambisexual
 ambition
+ambitionless
 ambitions
 ambitiousnesses
 ambivalence
@@ -10223,6 +10224,7 @@ coattail
 coattend
 coauthors
 coauthorship
+coauthorships
 coax
 coaxal
 coaxer
@@ -13715,6 +13717,7 @@ deathbed
 deathcups
 deathlessly
 deathlessness
+deathlessnesses
 deathsman
 deathtrap
 deathwatches
@@ -13936,6 +13939,7 @@ decongestant
 decongested
 decongestions
 deconsecrate
+deconsecrating
 deconsecrations
 deconstructive
 deconstructs
@@ -14919,6 +14923,7 @@ deterrences
 deterrent
 deterrently
 deterrents
+deterring
 detersive
 detestably
 detestation
@@ -15068,6 +15073,7 @@ deworm
 dewormers
 deworming
 dews
+dex
 dexamethasones
 dexie
 dexter
@@ -18103,6 +18109,7 @@ encrusts
 encrypt
 encrypted
 encrypts
+enculturated
 enculturates
 enculturation
 encumbered
@@ -19761,6 +19768,7 @@ extrahepatic
 extrajudicially
 extralegally
 extralimital
+extralinguistic
 extrality
 extramarital
 extramundane
@@ -22879,6 +22887,7 @@ gelt
 gelts
 gem
 gematria
+gematrias
 geminally
 geminates
 geminating
@@ -25262,6 +25271,7 @@ helicopts
 helio
 heliocentric
 heliogram
+heliograph
 heliographs
 heliolatries
 heliolatrous
@@ -25286,6 +25296,7 @@ helldiver
 helled
 hellenization
 hellenize
+hellenizes
 helleri
 helleris
 hellfires
@@ -25798,6 +25809,7 @@ hobbyist
 hobbyists
 hobgoblins
 hoblike
+hobnail
 hobnailed
 hobnailing
 hobnails
@@ -25822,6 +25834,7 @@ hoer
 hog
 hogfish
 hogger
+hoggers
 hogget
 hoggishly
 hoglike
@@ -27030,6 +27043,7 @@ imino
 imipramines
 imitable
 imitates
+imitation
 imitations
 imitativeness
 imitator
@@ -27595,6 +27609,7 @@ incrementalism
 increments
 incriminate
 incriminated
+incriminations
 incriminatory
 incrosses
 incrust
@@ -28938,6 +28953,7 @@ ipecac
 ipecacuanhas
 ipsilateral
 ipsilaterally
+irades
 irascibilities
 irasciblenesses
 irate
@@ -30180,6 +30196,7 @@ kiwis
 klatch
 klatches
 klatsch
+klaxon
 klebsiella
 klephts
 klepto
@@ -34142,6 +34159,7 @@ mimeses
 mimesis
 mimesises
 mimetic
+mimetites
 mimicked
 mimickers
 mimosa
@@ -34543,6 +34561,7 @@ misogynistic
 misogynists
 misogyny
 misoneisms
+misoneist
 misoneists
 misorder
 misorient
@@ -37060,6 +37079,7 @@ noninvolvements
 nonionic
 nonirritant
 nonirritants
+nonissues
 nonjoinder
 nonjoiners
 nonjudgmental
@@ -37554,6 +37574,7 @@ nurturances
 nurture
 nurtured
 nurtures
+nutated
 nutations
 nutbrown
 nutgalls
@@ -38228,6 +38249,7 @@ opsonic
 opsonifies
 opsonify
 opsonins
+opsonize
 opsonized
 opsonizes
 optatively
@@ -38596,6 +38618,7 @@ outbrazens
 outbred
 outbuild
 outbuilding
+outbulk
 outbullies
 outbully
 outbullying
@@ -38945,6 +38968,7 @@ outsparkles
 outspeak
 outspeaks
 outspeeded
+outspelling
 outspelt
 outspends
 outspoken
@@ -41661,6 +41685,7 @@ physiognomies
 physiographer
 physiography
 physiologic
+physiotherapies
 physiotherapy
 physique
 physiques
@@ -44479,6 +44504,7 @@ provenances
 provenders
 provenience
 proventriculus
+prover
 proverb
 proverbial
 provident
@@ -44687,6 +44713,7 @@ puddler
 puddlier
 puddlings
 pudencies
+pudgier
 pudgiest
 pudgily
 pudginess
@@ -47740,6 +47767,7 @@ reselecting
 reselects
 resell
 resellers
+resemble
 resembled
 resembler
 resembles
@@ -50132,6 +50160,7 @@ scoopfuls
 scoops
 scoot
 scootch
+scootched
 scooters
 scope
 scoped
@@ -52972,6 +53001,7 @@ somebody
 somehow
 someones
 someplace
+somersault
 somersaults
 somerseting
 somersets
@@ -54482,6 +54512,7 @@ stomatopods
 stomodaeal
 stomodaeums
 stomodea
+stomp
 stomped
 stomps
 stonable
@@ -56743,6 +56774,7 @@ tarriance
 tarried
 tarrier
 tarriers
+tarries
 tarriest
 tarry
 tars
@@ -61095,6 +61127,7 @@ unsure
 unsurely
 unsurpassed
 unsurprising
+unsurprisingly
 unsusceptible
 unsuspecting
 unsustainable
@@ -61346,6 +61379,7 @@ uprisings
 uproars
 uprootals
 uprooter
+uprooting
 uprouse
 uproused
 uprush
@@ -62676,6 +62710,7 @@ wallowers
 wallowing
 wallows
 wallydrags
+wallydraigles
 walnut
 walnuts
 walrus
