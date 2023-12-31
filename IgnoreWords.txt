@@ -656,6 +656,7 @@ adumbral
 adumbrated
 adumbrates
 adumbrating
+adumbrative
 adunc
 aduncate
 adust
@@ -1569,6 +1570,7 @@ amended
 amenders
 amenities
 amenorrhea
+amens
 amentia
 aments
 amercers
@@ -2253,6 +2255,7 @@ antimeres
 antimerger
 antimetabolite
 antimicrobials
+antimilitarism
 antimitotics
 antimodernists
 antimonarchists
@@ -3222,6 +3225,7 @@ asthenospheric
 astheny
 asthmas
 asthmatics
+astigmatics
 astilbe
 astilbes
 astir
@@ -3697,6 +3701,7 @@ awash
 awayness
 aweather
 awed
+aweing
 awes
 awesomely
 awesomenesses
@@ -4863,6 +4868,7 @@ bellyful
 bellyfuls
 bellylike
 belon
+belong
 belongingness
 belongingnesses
 belongs
@@ -6238,6 +6244,7 @@ bootlegged
 bootlegger
 bootlegging
 bootlegs
+bootlessly
 bootstrapped
 booze
 boozes
@@ -11982,6 +11989,7 @@ corrugates
 corrugating
 corrupt
 corruptest
+corruptionist
 corruptionists
 corruptly
 corruptor
@@ -13517,6 +13525,7 @@ danewort
 daneworts
 dangerous
 danging
+dangle
 danglers
 dangling
 dangly
@@ -13869,6 +13878,7 @@ declaimed
 declaimer
 declaimers
 declaims
+declamation
 declarants
 declaration
 declarative
@@ -16260,6 +16270,7 @@ divulges
 divulging
 divulse
 divulsion
+divulsive
 divvied
 diwan
 dizened
@@ -16481,6 +16492,7 @@ doodoos
 doofus
 doohickey
 doohickeys
+dooly
 doomfully
 doomier
 dooms
@@ -22637,6 +22649,7 @@ gar
 garaged
 garageman
 garages
+garb
 garbagemen
 garbanzos
 garblers
@@ -23627,6 +23640,7 @@ gomutis
 gonad
 gonadal
 gonadial
+gonadotrophin
 gonadotrophins
 gondola
 gondolas
@@ -24582,6 +24596,7 @@ haggises
 haggle
 haggler
 haggling
+hagiographer
 hagiographies
 hagiography
 hagiological
@@ -28777,6 +28792,7 @@ intuitionist
 intuitions
 intuitively
 intumescent
+intumesces
 inturns
 intussusception
 intussusceptive
@@ -29503,6 +29519,7 @@ jockettes
 jockey
 jockstraps
 jocose
+jocosely
 jocosenesses
 jocosity
 jocular
@@ -30370,6 +30387,7 @@ labarums
 labelable
 labelers
 labellate
+labellers
 labialized
 labializing
 labially
@@ -35172,6 +35190,7 @@ morel
 morelles
 morellos
 morenesses
+moresque
 moresques
 morgan
 morgue
@@ -35887,6 +35906,7 @@ mysticete
 mysticetes
 mysticism
 mysticisms
+mystification
 mystifications
 mystified
 mystifiers
@@ -36096,6 +36116,7 @@ nattier
 nattiest
 nattily
 natty
+naturalism
 naturalisms
 naturalist
 naturalists
@@ -36670,6 +36691,7 @@ nitwits
 nixe
 nixes
 nixing
+nixy
 nizam
 nizamates
 nobbier
@@ -40713,6 +40735,7 @@ peed
 peeing
 peekaboo
 peelable
+peeled
 peen
 peening
 peens
@@ -41409,6 +41432,7 @@ philistia
 philistias
 philistine
 philistines
+philistinisms
 philological
 philologically
 philologists
@@ -42615,6 +42639,7 @@ pollinator
 pollinia
 pollinize
 pollists
+polls
 pollster
 pollutant
 pollutants
@@ -44187,6 +44212,7 @@ pronated
 pronators
 pronely
 pronenesses
+pronephros
 pronghorns
 pronging
 pronoun
@@ -51864,6 +51890,7 @@ singly
 sings
 singsongs
 singspiel
+singular
 singularities
 singularizing
 singulars
@@ -52410,6 +52437,7 @@ slurb
 slurbs
 slurred
 slurried
+slurries
 slurs
 slushily
 slushing
@@ -53694,6 +53722,7 @@ spotlit
 spottable
 spotted
 spottinesses
+spousals
 spoused
 spouted
 spouter
@@ -54134,6 +54163,7 @@ steelinesses
 steelmakers
 steelmaking
 steelmakings
+steels
 steelwork
 steelworkers
 steely
@@ -54816,9 +54846,11 @@ stunningly
 stunsail
 stuntedness
 stupa
+stupe
 stupefactions
 stupendously
 stupendousness
+stupid
 stupider
 stupidities
 stupidly
@@ -55721,6 +55753,7 @@ supersedure
 supersellers
 supersells
 supersensible
+supersensitive
 supersession
 supersex
 supersexes
@@ -57429,6 +57462,7 @@ theogony
 theologians
 theologic
 theologies
+theologise
 theologised
 theologizers
 theologizing
@@ -57445,6 +57479,7 @@ theorising
 theorists
 theorized
 theosophically
+theosophies
 theosophist
 therapeusis
 therapsid
