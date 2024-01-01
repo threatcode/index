@@ -493,6 +493,7 @@ additivities
 additory
 addled
 addressability
+addressed
 addressee
 addresser
 addressing
@@ -3074,6 +3075,7 @@ asbestous
 ascared
 ascarides
 ascend
+ascendance
 ascendant
 ascendants
 ascended
@@ -5351,6 +5353,7 @@ bilbies
 bilbo
 bilboas
 bildungsroman
+bile
 bilections
 bilged
 bilgiest
@@ -6189,6 +6192,7 @@ boltholes
 boltrope
 bolus
 bombardiers
+bombardment
 bombardons
 bombards
 bombastically
@@ -7235,6 +7239,7 @@ bungee
 bungle
 bunglers
 bungles
+bunker
 bunking
 bunkmates
 bunkums
@@ -11273,6 +11278,7 @@ condiment
 condimental
 conditionable
 conditional
+conditionally
 conditioned
 conditioner
 conditioners
@@ -13272,6 +13278,7 @@ cursedness
 cursednesses
 cursing
 cursive
+cursorial
 cursorily
 cursorinesses
 curt
@@ -13657,6 +13664,7 @@ damp
 damped
 dampen
 dampened
+dampener
 dampeners
 dampening
 damping
@@ -15525,6 +15533,7 @@ differentness
 differs
 difficult
 difficulties
+difficultly
 diffracting
 diffracts
 diffused
@@ -15819,6 +15828,7 @@ disaffirmance
 disaffirmances
 disaggregate
 disaggregated
+disaggregations
 disaggregative
 disagree
 disagreeable
@@ -18490,6 +18500,7 @@ engrailing
 engrails
 engram
 engrammes
+engraved
 engravings
 engrossed
 engrosser
@@ -24786,6 +24797,7 @@ gymnasia
 gymnasium
 gymnast
 gymnospermy
+gyms
 gynaecia
 gynaecium
 gynaecologies
@@ -24820,6 +24832,7 @@ gyrated
 gyrates
 gyrational
 gyrations
+gyrator
 gyrators
 gyrenes
 gyres
@@ -26920,6 +26933,7 @@ hygeist
 hygeists
 hygrometer
 hygrophilous
+hygrophytic
 hygrostats
 hyla
 hylas
@@ -32010,6 +32024,7 @@ lister
 listeria
 listerioses
 listers
+listlessly
 listlessnesses
 lists
 litai
@@ -34980,6 +34995,7 @@ mislaying
 mislead
 misleader
 misleared
+mislearned
 mislie
 mislies
 mislighting
@@ -37189,6 +37205,7 @@ nobleman
 noblemen
 nobleness
 noblenesses
+nobler
 noblest
 noblewoman
 noblewomen
@@ -37863,6 +37880,7 @@ nostoc
 nostocs
 nostology
 notabilia
+notabilities
 notablenesses
 notably
 notal
@@ -39021,6 +39039,7 @@ osteoporoses
 osteoporotic
 osteotomes
 ostia
+ostiary
 ostinati
 ostiole
 ostium
@@ -41061,6 +41080,7 @@ patriots
 patristical
 patroller
 patrolling
+patrolmen
 patrols
 patron
 patroness
@@ -43038,6 +43058,7 @@ pluvian
 ply
 plyometric
 plyometrics
+pneumatic
 pneumatolytic
 pneumococcus
 pneumographs
@@ -51172,6 +51193,7 @@ securities
 securitizations
 securitize
 securitized
+securitizes
 sedateness
 sedatenesses
 sedater
@@ -51197,6 +51219,7 @@ sedums
 seeable
 seecatch
 seecatchie
+seedbed
 seedier
 seediest
 seediness
@@ -51536,6 +51559,7 @@ septupled
 septuples
 septupling
 sepulchrally
+sepulchre
 sepulchres
 sepulchring
 sepulture
@@ -51649,6 +51673,7 @@ services
 serving
 servitor
 servomotors
+sesame
 sesames
 sesamoid
 sesquicarbonate
@@ -54677,6 +54702,7 @@ stakeouts
 stalactites
 stalag
 stalags
+staled
 stalemate
 stalemates
 stalemating
@@ -54726,6 +54752,7 @@ stanes
 stanged
 stangs
 stanhope
+staning
 stannaries
 stannic
 stannites
@@ -56025,6 +56052,7 @@ subwoofers
 subworld
 subwriter
 subzone
+succedanea
 succedaneum
 succeed
 succeeded
@@ -56138,6 +56166,7 @@ sukiyaki
 sulcal
 sulcate
 sulci
+sulcus
 suldan
 sulfanilamide
 sulfanilamides
@@ -56546,6 +56575,7 @@ supplying
 supportable
 supported
 supportive
+supports
 supposably
 suppose
 supposedly
@@ -57288,6 +57318,7 @@ talkier
 talkiness
 talks
 talky
+tall
 tallaisim
 taller
 talliers
@@ -58275,6 +58306,7 @@ thermotropism
 theropod
 thesaural
 thesauruses
+theses
 thesis
 thesp
 thespian
@@ -58303,6 +58335,7 @@ thieveries
 thieves
 thievish
 thievishnesses
+thigh
 thighed
 thigmotaxes
 thigmotropism
@@ -60269,6 +60302,7 @@ twaes
 twains
 twangers
 twangiest
+twangled
 twangler
 twanglers
 twangles
@@ -62718,6 +62752,7 @@ verbified
 verbify
 verbigeration
 verbile
+verbiles
 verbless
 verboseness
 verboten
