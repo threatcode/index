@@ -562,6 +562,7 @@ adjustments
 adjustors
 adjutancies
 adman
+admeasure
 admeasured
 admen
 administered
@@ -765,6 +766,7 @@ aerobioses
 aerobrake
 aerobraked
 aerobrakes
+aerobraking
 aeroducts
 aerodynamical
 aerodynamically
@@ -2734,6 +2736,7 @@ arabesks
 arabesque
 arabesques
 arabic
+arabicizations
 arabicize
 arabicizes
 arabinose
@@ -2980,6 +2983,7 @@ arranges
 arranging
 arras
 arrases
+arrayal
 arrayers
 arrays
 arrearages
@@ -3326,6 +3330,7 @@ atap
 ataractic
 ataractics
 ataraxics
+atavic
 atavistically
 ataxy
 ate
@@ -4402,6 +4407,7 @@ barricadoed
 barrister
 barristers
 barrooms
+bars
 barstool
 bartended
 barterer
@@ -10512,6 +10518,7 @@ coempts
 coenact
 coenacts
 coendures
+coenduring
 coenocyte
 coenocytes
 coenocytic
@@ -15979,6 +15986,7 @@ discophile
 discordance
 discordancies
 discordantly
+discords
 discos
 discount
 discountenances
@@ -18046,6 +18054,7 @@ elytron
 elytrous
 emaciate
 emaciated
+emaciating
 emailed
 emalangeni
 emanant
@@ -19014,6 +19023,7 @@ equip
 equipages
 equipoise
 equipoised
+equipoises
 equipoising
 equipollence
 equipollences
@@ -24257,6 +24267,7 @@ grapes
 grapheme
 graphemes
 graphic
+graphical
 graphicnesses
 graphics
 graphitic
@@ -26827,6 +26838,7 @@ hurly
 hurrah
 hurrays
 hurricane
+hurried
 hurriedness
 hurriednesses
 hurriers
@@ -27370,6 +27382,7 @@ illogicality
 illogicalness
 illogics
 illuded
+illume
 illumed
 illuminance
 illuminated
@@ -33051,6 +33064,7 @@ malaromas
 malathions
 malcontented
 maleate
+maledicting
 maledictions
 malefaction
 maleficence
@@ -34151,6 +34165,7 @@ messes
 messiah
 messiahs
 messianism
+messier
 messiest
 messiness
 messman
@@ -38132,6 +38147,7 @@ nuthatch
 nuthatches
 nuthouses
 nutmeat
+nutmeats
 nutmegs
 nutpick
 nutriments
@@ -38147,6 +38163,7 @@ nyalas
 nylghau
 nylghaus
 nympha
+nymphalids
 nymphet
 nympho
 nympholepsy
@@ -40166,6 +40183,7 @@ overstress
 overstretch
 overstretching
 overstrew
+overstrewing
 overstrews
 overstridden
 overstriding
@@ -40211,6 +40229,7 @@ overtreated
 overtreatment
 overtreatments
 overtricks
+overtrimmed
 overtrump
 overtrumped
 overtrumping
@@ -40787,6 +40806,7 @@ parameciums
 paramedic
 paramedical
 paramedics
+parament
 paramenta
 parameters
 parametrization
@@ -42506,6 +42526,7 @@ pilling
 pillion
 pilloried
 pillory
+pillow
 pillowcase
 pillowcases
 pillows
@@ -42852,6 +42873,7 @@ plantsman
 planular
 planuloid
 plashed
+plashier
 plashing
 plasmagels
 plasmagene
@@ -44627,6 +44649,7 @@ prismatoids
 prismoid
 prismoids
 prisoned
+priss
 prisses
 prissier
 prissily
@@ -45370,6 +45393,7 @@ puddler
 puddlier
 puddlings
 pudencies
+pudendal
 pudgier
 pudgiest
 pudgily
@@ -45861,6 +45885,7 @@ quantic
 quantics
 quanting
 quantitates
+quantitation
 quantitations
 quantities
 quantity
@@ -46563,6 +46588,7 @@ reabsorbed
 reabsorbing
 reaccede
 reacceded
+reacceding
 reaccelerated
 reaccelerating
 reaccession
@@ -48355,6 +48381,7 @@ requalifies
 requested
 requesters
 requestor
+requestors
 requests
 requiem
 requiescat
@@ -48716,6 +48743,7 @@ resurgence
 resurgences
 resurgent
 resurges
+resurrected
 resurrectional
 resurveying
 resuscitating
@@ -49357,6 +49385,7 @@ riotousness
 riparian
 ripe
 ripeners
+ripenesses
 ripening
 ripest
 riposts
@@ -51025,6 +51054,7 @@ scripts
 scriptural
 scriptwriter
 scriptwriters
+scrive
 scriveners
 scrives
 scriving
@@ -51608,6 +51638,7 @@ separability
 separably
 separated
 separateness
+separatenesses
 separates
 separating
 separation
@@ -54444,6 +54475,7 @@ spokeshaves
 spoliates
 spoliating
 spondaic
+spondee
 spondees
 sponged
 spongiest
@@ -59851,6 +59883,7 @@ trifurcate
 trifurcates
 trifurcating
 trifurcations
+trigeminal
 trigger
 triggered
 triggerfish
@@ -61623,6 +61656,7 @@ unloosening
 unlooses
 unlovelier
 unloveliness
+unlovely
 unluckiness
 unmagnified
 unmakes
@@ -63963,6 +63997,7 @@ weepings
 weepy
 weeted
 weeting
+weevil
 weevilly
 weevily
 weewee
