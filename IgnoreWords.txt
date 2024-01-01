@@ -5753,6 +5753,7 @@ blackthorn
 blacktop
 blacktopped
 blacktopping
+blackwater
 blackwaters
 blackwood
 blackwoods
@@ -9424,6 +9425,7 @@ chinaware
 chinches
 chinchiest
 chinchillas
+chinchy
 chines
 chinky
 chinned
@@ -10370,6 +10372,7 @@ coaptation
 coapted
 coapting
 coapts
+coarctation
 coarsen
 coarsenesses
 coarsening
@@ -10678,6 +10681,7 @@ coin
 coincided
 coincidences
 coincident
+coincidently
 coinciding
 coinfect
 coinfecting
@@ -12266,6 +12270,7 @@ cosmetologist
 cosmochemist
 cosmochemists
 cosmogenic
+cosmogonic
 cosmogony
 cosmographer
 cosmographical
@@ -17228,6 +17233,7 @@ drought
 droughtiest
 drouth
 drove
+drover
 drovers
 drownd
 drownded
@@ -18235,6 +18241,7 @@ emended
 emenders
 emending
 emeralds
+emerge
 emerged
 emergences
 emergencies
@@ -20382,6 +20389,7 @@ fallaciously
 fallaciousness
 fallalery
 fallaways
+fallback
 fallboards
 faller
 fallfish
@@ -20481,6 +20489,7 @@ faraday
 faradays
 faradising
 faradized
+faradizers
 farads
 farandoles
 faraway
@@ -22393,6 +22402,7 @@ freight
 freighted
 fremitus
 fremituses
+frenchification
 frenchifies
 frenching
 frenetic
@@ -25358,6 +25368,7 @@ hardly
 hardness
 hardpack
 hardpan
+hardpans
 hardship
 hardships
 hardstands
@@ -25994,6 +26005,7 @@ hertz
 hesitances
 hesitancies
 hesitancy
+hesitate
 hesitater
 hesitaters
 hesitatingly
@@ -29061,6 +29073,7 @@ interlinear
 interliner
 interlining
 interlinings
+interlink
 interlinked
 interloans
 interlobular
@@ -30275,6 +30288,7 @@ justice
 justiciability
 justiciable
 justiciars
+justifications
 justified
 justle
 justnesses
@@ -32420,6 +32434,7 @@ loggia
 loggie
 loggier
 loggy
+logicality
 logically
 logicalness
 logician
@@ -33197,6 +33212,7 @@ malingers
 malison
 malisons
 malkin
+malkins
 mallee
 malleolus
 malleus
@@ -33525,6 +33541,7 @@ markhor
 markhors
 marksman
 marksmanships
+marksmen
 markswoman
 markswomen
 markup
@@ -33616,6 +33633,7 @@ mask
 maskers
 masking
 masochist
+masochists
 masonic
 masonites
 masons
@@ -34070,6 +34088,7 @@ memes
 memoir
 memoirist
 memoirists
+memorable
 memorably
 memorialised
 memorialist
@@ -36207,6 +36226,7 @@ mullioned
 mullions
 mullite
 mullites
+mullock
 mullocks
 multiage
 multiagency
@@ -36521,6 +36541,7 @@ mycophagies
 mycophagy
 mycorhiza
 mycorrhizae
+mycotic
 mycotoxins
 mycovirus
 mydriases
@@ -38272,6 +38293,7 @@ nutmeats
 nutmegs
 nutpick
 nutriments
+nutritiousness
 nutritive
 nuts
 nutsedge
@@ -40852,6 +40874,7 @@ papaverine
 papaws
 papaya
 papayas
+paperboys
 paperclip
 papered
 papergirls
@@ -43925,6 +43948,7 @@ potted
 potteens
 potter
 potterer
+potteringly
 pottery
 pottier
 pottinesses
@@ -45103,6 +45127,7 @@ prophase
 prophases
 prophasic
 prophecies
+prophesies
 prophetess
 prophethood
 prophylactics
@@ -50128,6 +50153,7 @@ rusty
 rutabaga
 rutherfordiums
 ruthful
+ruthlessness
 ruthlessnesses
 rutiles
 rutins
@@ -53209,6 +53235,7 @@ slavey
 slaveys
 slavishly
 slavocrats
+slaw
 slaws
 slayed
 slaying
@@ -53439,6 +53466,7 @@ slyboots
 slyness
 slypes
 smaller
+smallholders
 smallmouths
 smallnesses
 smallpox
@@ -53706,6 +53734,7 @@ snowdrifts
 snowfall
 snowfalls
 snowfield
+snowfields
 snowflake
 snowflakes
 snowily
@@ -55699,6 +55728,7 @@ streptococcic
 streptokinase
 streptokinases
 streptolysins
+streptomycete
 streptomycin
 streptomycins
 streptothricins
@@ -57094,6 +57124,7 @@ swathe
 swaths
 swats
 swayback
+swaybacked
 swayed
 swayer
 swayful
@@ -59677,6 +59708,7 @@ trampoliner
 trampolining
 trampolinist
 tramway
+trancelike
 tranches
 trancing
 trank
@@ -64572,6 +64604,7 @@ widenesses
 widening
 wideout
 wides
+widespread
 widget
 widgets
 widow
@@ -65110,6 +65143,7 @@ wrinkly
 wrist
 wristband
 wristbands
+wristwatches
 writ
 writer
 writerly
@@ -65382,6 +65416,7 @@ yous
 youse
 youthening
 youthful
+youthfully
 youthquake
 youthquakes
 yow
