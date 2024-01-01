@@ -963,6 +963,7 @@ aggressing
 aggressive
 aggressivities
 aggressor
+aggros
 agile
 agilely
 agilenesses
@@ -1105,6 +1106,7 @@ airless
 airlift
 airlifted
 airlifting
+airlifts
 airline
 airliners
 airlines
@@ -2752,6 +2754,7 @@ araucarian
 arb
 arbalest
 arbalist
+arbitrable
 arbitrager
 arbitragers
 arbitrages
@@ -2941,6 +2944,7 @@ armoured
 armourer
 armourers
 armpits
+armsful
 armure
 arnatto
 arnicas
@@ -4664,6 +4668,7 @@ bedarkened
 bedarkening
 bedaubs
 bedazzlement
+bedazzlements
 bedboard
 bedbugs
 bedchairs
@@ -4846,6 +4851,7 @@ beheading
 beheld
 behests
 beholders
+beholding
 beholds
 behoof
 behoove
@@ -11101,6 +11107,7 @@ compunctious
 compurgations
 computational
 compute
+computed
 computer
 computerdoms
 computereses
@@ -11751,6 +11758,7 @@ conventions
 conventual
 convergences
 convergency
+convergent
 converges
 conversable
 conversance
@@ -11964,6 +11972,7 @@ corecipient
 corecipients
 cored
 coredeems
+coreigns
 corelated
 coreligionist
 corepressor
@@ -13778,9 +13787,11 @@ daymares
 dayroom
 dayrooms
 daysprings
+daystar
 daystars
 daywork
 dazedness
+dazednesses
 dazes
 dazing
 dazzling
@@ -14337,6 +14348,7 @@ dehumidifying
 dehydrates
 dehydrating
 dehydration
+dehydrator
 dehydrogenase
 dehydrogenate
 dehydrogenates
@@ -16029,6 +16041,7 @@ disinfecting
 disinfestant
 disinfestation
 disinfested
+disinfesting
 disinflations
 disinformed
 disinforming
@@ -16763,6 +16776,7 @@ doupioni
 doupionis
 dour
 dourah
+dourahs
 dourer
 dourest
 dourine
@@ -19013,6 +19027,7 @@ erotisms
 erotizations
 erotize
 erotized
+erotizes
 erotizing
 err
 errancy
@@ -19438,6 +19453,7 @@ everyplace
 everyway
 everywomen
 evict
+evicted
 evictees
 evicting
 evictor
@@ -24406,6 +24422,7 @@ groks
 groomed
 groomer
 groomers
+grooms
 groomsman
 groomsmen
 groover
@@ -25070,6 +25087,7 @@ hankered
 hankerer
 hankers
 hankie
+hankies
 hanking
 hanseled
 hanseling
@@ -27459,6 +27477,7 @@ impede
 impeded
 impediments
 impellent
+impellents
 impelling
 impellors
 impended
@@ -29743,6 +29762,7 @@ jesuit
 jesuitically
 jesuitry
 jet
+jetbead
 jetfoil
 jetfoils
 jetlike
@@ -30115,6 +30135,7 @@ kaput
 karabiners
 karakul
 karaoke
+karaokes
 karat
 karateist
 karates
@@ -32214,6 +32235,7 @@ lomeins
 lomenta
 loments
 lone
+loneliest
 lonenesses
 loner
 lonesomely
@@ -34449,6 +34471,7 @@ millers
 millesimally
 millesimals
 millet
+milliampere
 millibar
 millicuries
 millieme
@@ -37958,6 +37981,7 @@ nuttings
 nuzzles
 nuzzling
 nyalas
+nylghau
 nylghaus
 nympha
 nymphet
@@ -41335,6 +41359,7 @@ penuriousnesses
 penury
 peon
 peonages
+peonies
 peonisms
 peony
 peopling
@@ -42293,6 +42318,7 @@ pillagers
 pillages
 pillaging
 pillar
+pillars
 pillbox
 pilling
 pillion
@@ -48634,6 +48660,7 @@ retrievers
 retrieving
 retrimming
 retroact
+retroacted
 retroactions
 retroactivities
 retroacts
@@ -49024,6 +49051,7 @@ riffraffs
 riflebird
 riflemen
 rifleries
+riflers
 rifles
 rifs
 rift
@@ -49741,6 +49769,7 @@ sacahuista
 sacahuiste
 sacahuistes
 sacaton
+saccades
 saccate
 saccharase
 saccharases
@@ -52885,6 +52914,7 @@ slogged
 slogger
 slogs
 sloids
+slojd
 slop
 sloper
 slopers
@@ -60072,6 +60102,7 @@ tussahs
 tussal
 tussar
 tussars
+tusses
 tussis
 tussises
 tussive
@@ -62855,6 +62886,7 @@ violones
 viomycins
 viosterols
 viperfish
+viperine
 viperish
 viperously
 vipers
@@ -63064,6 +63096,7 @@ voluntarinesses
 voluntarist
 voluntaristic
 volunteerism
+volunteers
 voluptuary
 volute
 volutin
@@ -63152,6 +63185,7 @@ vulturine
 vulturous
 vulviform
 vulvitis
+vulvovaginitis
 vum
 vying
 wabbler
@@ -65038,6 +65072,7 @@ zoometry
 zooms
 zoonotic
 zoons
+zoophilias
 zoophobias
 zooplankter
 zooplankters
