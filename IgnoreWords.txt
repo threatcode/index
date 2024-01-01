@@ -2578,6 +2578,7 @@ apoptoses
 aposematic
 aposiopeses
 aposporic
+apospory
 apostate
 apostates
 apostatise
@@ -3049,6 +3050,7 @@ artefact
 artefacts
 artel
 arterial
+arteriographic
 arteriography
 arteriole
 arteriovenous
@@ -3108,6 +3110,7 @@ ascendants
 ascended
 ascendence
 ascendences
+ascendencies
 ascendents
 ascender
 ascenders
@@ -3391,6 +3394,7 @@ atmospherically
 atmospherics
 atomic
 atomises
+atomisms
 atomists
 atomize
 atomized
@@ -8769,6 +8773,7 @@ cellularities
 cellularity
 celluloid
 cellulosics
+celom
 celomata
 celoms
 celosia
@@ -9953,6 +9958,7 @@ cladodes
 cladogenetic
 cladogram
 clafouti
+clagging
 clags
 claimable
 claimants
@@ -16614,6 +16620,7 @@ diwan
 dizened
 dizenments
 dizzied
+dizzier
 dizziness
 dizzy
 dizzyingly
@@ -17528,6 +17535,7 @@ dwarfer
 dwarfing
 dwarfish
 dwarfishness
+dwarfism
 dwarfness
 dwarfnesses
 dweebier
@@ -17960,6 +17968,7 @@ ektexines
 ekuele
 elaborateness
 elaborating
+elaborations
 elaborative
 eland
 elans
@@ -20017,6 +20026,7 @@ expertize
 expertness
 expiates
 expiator
+expire
 expirers
 expiring
 explaining
@@ -22076,6 +22086,7 @@ foreknowledge
 foreknown
 foreladies
 forelady
+forelocked
 forelocks
 foreman
 foremanships
@@ -23109,6 +23120,7 @@ gaper
 gapes
 gapeseeds
 gaping
+gaposises
 gappiest
 gappy
 gar
@@ -24656,6 +24668,7 @@ gritted
 grittily
 grittiness
 gritting
+grizzles
 grizzlier
 grizzlies
 grizzliest
@@ -27360,6 +27373,7 @@ hyssop
 hysterectomies
 hysterectomized
 hysterectomy
+hysteric
 hysterical
 hysterotomy
 hyte
@@ -27781,6 +27795,7 @@ imperfectly
 imperfects
 imperia
 imperial
+imperialism
 imperialists
 imperiling
 imperilled
@@ -28111,6 +28126,7 @@ incog
 incogitant
 incognizances
 incogs
+incoherence
 incombustible
 incomes
 incoming
@@ -29762,6 +29778,7 @@ isonomy
 isophotes
 isopleth
 isoplethic
+isoprenaline
 isopycnic
 isosceles
 isospin
@@ -30471,6 +30488,7 @@ kashered
 katabatic
 katakana
 katchina
+katchinas
 katcina
 katharsis
 kathode
@@ -35010,6 +35028,7 @@ mirror
 mirrorlike
 mirs
 mirthfully
+mirthfulnesses
 mirthless
 mirthlessly
 miry
@@ -36343,6 +36362,7 @@ multilayered
 multileveled
 multilingual
 multilobe
+multilobed
 multimedias
 multimegaton
 multimegawatt
@@ -38143,6 +38163,7 @@ northern
 northerns
 northers
 northings
+northland
 northwester
 northwesterly
 noseband
@@ -40186,6 +40207,7 @@ overingenuity
 overintensities
 overinvestment
 overissue
+overissues
 overjoying
 overkilling
 overlabor
@@ -40922,6 +40944,7 @@ pant
 pantalones
 pantdresses
 panted
+pantheism
 pantheistic
 pantheons
 panties
@@ -41984,6 +42007,7 @@ peristome
 peristomes
 peristyle
 peristyles
+perithecial
 perithecium
 periti
 peritonea
@@ -43681,6 +43705,7 @@ polysaccharide
 polysaccharides
 polysorbates
 polystyrene
+polysulfides
 polysyllabic
 polysyndetons
 polytenies
@@ -46992,6 +47017,7 @@ reasonlessly
 reasons
 reassail
 reassailed
+reassails
 reassembled
 reassembles
 reassemblies
@@ -48831,6 +48857,7 @@ resifted
 resifting
 resifts
 resign
+resignation
 resigned
 resignednesses
 resigner
@@ -52068,6 +52095,7 @@ serous
 serpentine
 serpents
 serranids
+serranoid
 serrate
 serration
 serriedness
@@ -52544,6 +52572,7 @@ shootouts
 shopboy
 shopboys
 shopgirl
+shopgirls
 shophars
 shopkeeper
 shoplift
@@ -58706,6 +58735,7 @@ theosophically
 theosophies
 theosophist
 therapeusis
+therapeutically
 therapsid
 thereabout
 therefore
@@ -59845,6 +59875,7 @@ tranquiler
 tranquilities
 tranquility
 tranquilizer
+tranquilizing
 tranquillize
 tranquillized
 tranquillizer
@@ -60105,6 +60136,7 @@ trespasser
 trespassing
 tress
 tressed
+tressel
 tressels
 tressiest
 tressours
@@ -62392,6 +62424,7 @@ unsuspecting
 unsustainable
 unswathes
 unswearing
+unsweetened
 unswept
 unswerving
 unsworn
@@ -62823,6 +62856,7 @@ usufruct
 usurers
 usurpations
 usurped
+usurps
 usury
 ut
 ute
@@ -62994,6 +63028,7 @@ vapor
 vaporer
 vaporetti
 vaporetto
+vaporettos
 vaporised
 vaporishnesses
 vaporizable
