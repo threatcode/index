@@ -42,6 +42,7 @@ abrogable
 abrogate
 abrogating
 abrogation
+abrogators
 abrupt
 abrupter
 abruptest
@@ -1138,7 +1139,9 @@ airsicknesses
 airspace
 airspaces
 airspeeds
+airt
 airth
+airthing
 airtime
 airward
 airwave
@@ -1493,6 +1496,7 @@ altiplanos
 altitudinal
 altitudinous
 altocumuli
+altogether
 altoist
 altoists
 alumine
@@ -2236,6 +2240,7 @@ antidepressant
 antidepression
 antiderivative
 antidevelopment
+antidiabetic
 antidote
 antidoted
 antieconomic
@@ -5064,6 +5069,7 @@ bereavers
 beret
 berets
 bergamot
+bergere
 bergeres
 beriberis
 berks
@@ -5908,6 +5914,7 @@ blockhead
 blockheads
 blockish
 blocks
+blocs
 blog
 blogger
 blogs
@@ -5960,6 +5967,7 @@ blousier
 blousily
 blousing
 bloviated
+bloviation
 bloviations
 blowback
 blowball
@@ -6370,6 +6378,7 @@ bordereaux
 bordering
 borderland
 bordure
+bordures
 boreal
 boredom
 boreen
@@ -9111,6 +9120,7 @@ charlock
 charlocks
 charlotte
 charlottes
+charmeuse
 charmeuses
 charms
 charnels
@@ -9153,6 +9163,7 @@ chatchke
 chateaubriand
 chatelaines
 chatoyance
+chatoyancy
 chatted
 chattels
 chatterer
@@ -10585,6 +10596,7 @@ coffle
 coffret
 coffs
 cofinance
+cofounder
 cofunctions
 cog
 cogenerations
@@ -13011,6 +13023,7 @@ crowds
 crowfoots
 crowing
 crowkeepers
+crownet
 crows
 crowsfoot
 crowstep
@@ -18172,6 +18185,7 @@ embracive
 embrangle
 embranglement
 embranglements
+embrittle
 embrittled
 embrittlement
 embrittling
@@ -18186,6 +18200,7 @@ embroiled
 embroilers
 embroilments
 embrowning
+embrues
 embrute
 embruting
 embryo
@@ -22064,6 +22079,7 @@ foreyards
 forfeitable
 forfeited
 forfeiting
+forfended
 forfending
 forficate
 forgathered
@@ -23737,6 +23753,7 @@ gleetiest
 gleeting
 gleg
 glegnesses
+gleization
 glen
 glengarries
 glenoid
@@ -27538,6 +27555,7 @@ immies
 immigrant
 immigrate
 immigrates
+imminences
 imminency
 imminently
 immingle
@@ -29822,6 +29840,7 @@ janitor
 janitorial
 janitors
 janizary
+janty
 japanized
 japanizing
 japanned
@@ -31540,6 +31559,7 @@ leftmost
 leftward
 leftwards
 leftwing
+leg
 legalistic
 legalistically
 legalizations
@@ -34120,6 +34140,7 @@ mercifully
 mercifulness
 mercifulnesses
 mercilessly
+mercilessnesses
 mercurated
 mercurial
 mercurially
@@ -34788,6 +34809,7 @@ minicomputer
 minified
 minikin
 minilab
+minimalism
 minimaxes
 minimill
 minimills
@@ -36429,6 +36451,7 @@ mutenesses
 mutilate
 mutilating
 mutilation
+mutilator
 mutine
 mutines
 mutining
@@ -37214,6 +37237,7 @@ niggardlinesses
 niggards
 niggled
 niggliest
+niggling
 nigglings
 niggly
 nigh
@@ -38514,6 +38538,7 @@ odes
 odious
 odiousness
 odiums
+odometers
 odometries
 odontoglossums
 odontoid
@@ -41816,6 +41841,7 @@ peristyles
 perithecium
 periti
 peritonea
+peritoneum
 peritonitises
 peritrichous
 peritus
@@ -43592,6 +43618,7 @@ poppadoms
 poppadum
 popped
 poppers
+poppied
 popping
 poppling
 poppycock
@@ -44182,12 +44209,14 @@ preestablish
 preestablishing
 preexcite
 preexempt
+preexempting
 preexist
 preexistence
 preexisting
 preexpose
 preexposes
 prefabbing
+prefabricated
 prefabricates
 prefabrication
 prefaced
@@ -48300,6 +48329,7 @@ replaced
 replacement
 replacer
 replacers
+replans
 replantation
 replasters
 replay
@@ -52266,6 +52296,7 @@ shiv
 shiva
 shivah
 shivaree
+shivareeing
 shive
 shivered
 shivering
@@ -58291,6 +58322,7 @@ testaceous
 testacies
 testamentary
 testate
+testators
 testatrices
 tested
 testees
@@ -59330,6 +59362,7 @@ tortas
 tortes
 torticollis
 tortiously
+tortonis
 tortuousnesses
 torture
 torturers
@@ -62692,6 +62725,7 @@ valvules
 vambrace
 vambraced
 vamosed
+vamped
 vampiric
 vampirish
 vampirism
@@ -62848,6 +62882,7 @@ vegetating
 vegetation
 vegetations
 vegetative
+vegete
 vegetists
 vegging
 vegies
