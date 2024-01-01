@@ -1020,6 +1020,7 @@ agone
 agonic
 agonised
 agonises
+agonising
 agonistes
 agonists
 agonize
@@ -1398,6 +1399,7 @@ allometry
 allomorph
 allomorphs
 allopath
+allopathies
 allophones
 allopolyploid
 allopurinol
@@ -2882,6 +2884,7 @@ areally
 areaway
 areaways
 arecoline
+areic
 arenas
 arenite
 arenose
@@ -8173,6 +8176,7 @@ carapaces
 carapax
 carassow
 carassows
+carat
 caravan
 caravaned
 caravaner
@@ -8993,6 +8997,7 @@ chalutz
 chalutzim
 chalybeates
 cham
+chamade
 chambered
 chamberlains
 chambermaid
@@ -10036,6 +10041,7 @@ clavered
 clavichords
 clavier
 clavieristic
+clavus
 clawed
 clawing
 clawlike
@@ -12818,6 +12824,7 @@ crenations
 crenature
 crenelating
 crenelled
+crenshaws
 crenulated
 crenulation
 creodont
@@ -18113,6 +18120,7 @@ eluvium
 elysian
 elytron
 elytrous
+elytrum
 emaciate
 emaciated
 emaciating
@@ -19019,6 +19027,7 @@ epistlers
 epistolary
 epistome
 epistyles
+epitaph
 epitaphic
 epitaxial
 epitaxially
@@ -20550,6 +20559,7 @@ fashed
 fashes
 fashionableness
 fashionables
+fashioning
 fashionistas
 fashionmonger
 fashionmongers
@@ -21455,6 +21465,7 @@ flatness
 flatnesses
 flatted
 flattener
+flatteners
 flattening
 flattens
 flatteringly
@@ -23205,6 +23216,7 @@ gathering
 gats
 gauchenesses
 gaucheries
+gauchest
 gauchos
 gaudery
 gaudiness
@@ -24795,6 +24807,7 @@ guests
 guffaw
 guffaws
 guggling
+guglets
 guidebook
 guidebooks
 guided
@@ -25779,6 +25792,7 @@ hellaciously
 hellbender
 hellbox
 hellboxes
+hellbroths
 helldiver
 helled
 hellenization
@@ -27982,6 +27996,7 @@ incautiousness
 incendiarism
 incendiarisms
 incense
+incenses
 incent
 incenter
 incentivize
@@ -28063,6 +28078,7 @@ incommoded
 incommodes
 incommoding
 incommodiously
+incommodities
 incommunicable
 incommunicably
 incommunicado
@@ -34528,6 +34544,7 @@ microelements
 microevolution
 microfaunae
 microfaunal
+microfilaments
 microfilmed
 microfilmer
 microfilms
@@ -38023,6 +38040,7 @@ nonwinning
 nonwool
 nonword
 nonwords
+nonworking
 nonwriter
 nonzero
 noodge
@@ -40926,6 +40944,7 @@ paradropping
 paradrops
 paraffining
 paragenetically
+paraglided
 paragon
 paragoning
 paragons
@@ -41081,6 +41100,7 @@ parling
 parlour
 parlous
 parlously
+parmesan
 parmigiana
 parmigiano
 parochialisms
@@ -43064,6 +43084,7 @@ plasterers
 plastering
 plasterings
 plasterwork
+plasterworks
 plasticenes
 plasticity
 plasticization
@@ -45869,6 +45890,7 @@ putrescine
 putrescines
 putridities
 putridly
+puttees
 putter
 puttered
 putterer
@@ -46826,6 +46848,7 @@ reales
 realest
 realia
 realignments
+realiser
 realism
 realisms
 realities
@@ -47249,6 +47272,7 @@ recoupable
 recoupe
 recouped
 recoupment
+recoupments
 recourses
 recoverer
 recoverers
@@ -48364,6 +48388,7 @@ repeater
 repegged
 repel
 repellencies
+repellent
 repellently
 repellers
 repels
@@ -51240,6 +51265,7 @@ scrimpily
 scrimpit
 scrimshander
 scrimshanders
+scrimshawed
 scripted
 scripter
 scriptoria
@@ -52621,6 +52647,7 @@ sice
 sickbays
 sickbed
 sickee
+sicken
 sickener
 sickeningly
 sickens
@@ -56508,6 +56535,8 @@ sulfhydryl
 sulfide
 sulfides
 sulfids
+sulfinyl
+sulfitic
 sulfo
 sulfonamides
 sulfone
@@ -56517,6 +56546,7 @@ sulfonylurea
 sulfured
 sulfuret
 sulfureted
+sulfuric
 sulfuring
 sulfurize
 sulfurizes
@@ -58863,6 +58893,7 @@ thrummer
 thrums
 thruput
 thrusted
+thruster
 thrusters
 thrustful
 thudding
@@ -59265,6 +59296,7 @@ toluate
 toluenes
 toluid
 toluidide
+toluidides
 toluidine
 toluidins
 toluole
@@ -59368,6 +59400,7 @@ toped
 topes
 topgallant
 topgallants
+topi
 topiaries
 topic
 topical
@@ -61226,6 +61259,7 @@ uncoalesced
 uncodified
 uncoerced
 uncoffin
+uncoils
 uncollected
 uncollectible
 uncollectibles
@@ -61952,6 +61986,7 @@ unopen
 unorderly
 unorganized
 unornamented
+unorthodoxly
 unorthodoxy
 unowned
 unoxygenated
