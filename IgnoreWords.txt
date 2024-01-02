@@ -3690,6 +3690,7 @@ automobile
 automobiles
 automobilist
 automobilists
+automobility
 autonomists
 autonym
 autonyms
@@ -6583,6 +6584,7 @@ bowers
 bowfin
 bowfront
 bowheads
+bowhunter
 bowingly
 bowknots
 bowl
@@ -6713,6 +6715,7 @@ brandies
 brandish
 brandishes
 brandishing
+brandlings
 brandying
 brank
 branks
@@ -6832,6 +6835,7 @@ breeziest
 breezing
 breezy
 bregmate
+bremsstrahlung
 bren
 brent
 breve
@@ -9855,6 +9859,7 @@ cinnabars
 cinnamic
 cinnamyls
 cinquains
+cinquecentos
 cinquefoil
 cions
 cipher
@@ -15338,6 +15343,7 @@ deuteranope
 deuterated
 deuterating
 deuterations
+deuterides
 deuterostome
 deutoplasms
 deutzia
@@ -22030,6 +22036,7 @@ footboard
 footboards
 footbridges
 footer
+footfall
 footfalls
 footfault
 footfaults
@@ -22614,6 +22621,7 @@ frisk
 frisked
 frisket
 friskets
+friskier
 friskiness
 frit
 frites
@@ -23663,6 +23671,7 @@ geums
 geyser
 geysers
 gharry
+ghastfully
 ghastlinesses
 ghauts
 ghazis
@@ -24667,6 +24676,7 @@ grego
 gregos
 greiges
 gremials
+gremmies
 gremmy
 grey
 greyed
@@ -24709,6 +24719,7 @@ grimacer
 grimacers
 grimalkins
 griminess
+griming
 grimmest
 grin
 grindelias
@@ -28080,6 +28091,7 @@ inanes
 inanimatenesses
 inanities
 inanitions
+inappeasable
 inappositely
 inappositeness
 inappreciably
@@ -30417,6 +30429,7 @@ juliennes
 jumbler
 jumblers
 jumbles
+jumbo
 jumbos
 jumbuck
 jump
@@ -31056,6 +31069,7 @@ kolkhos
 kolkhosy
 kolkhoz
 kolkhozniks
+kolkoz
 kolkozy
 kolo
 kombus
@@ -31661,6 +31675,7 @@ lay
 layabouts
 layaway
 layaways
+layering
 layins
 laymen
 layout
@@ -32206,6 +32221,7 @@ lilies
 lilliput
 lilliputian
 lilos
+lilylike
 limacine
 limbed
 limbi
@@ -34313,6 +34329,7 @@ menarche
 menarches
 menazon
 mend
+mendaciously
 mendacities
 mendacity
 mendeleviums
@@ -34429,6 +34446,7 @@ mesalliance
 mesas
 mescalines
 mescals
+mescluns
 mesdames
 mesdemoiselles
 mesenchyme
@@ -35620,6 +35638,7 @@ mitzvah
 mitzvahs
 mix
 mixedly
+mixes
 mixible
 mixing
 mixologists
@@ -39797,6 +39816,7 @@ outplods
 outplot
 outpointed
 outpolitick
+outpoliticked
 outpolled
 outpopulates
 outpopulating
@@ -41047,6 +41067,7 @@ panhandled
 panhandles
 panhandling
 panickier
+panicle
 panics
 paniculate
 panicums
@@ -41364,6 +41385,7 @@ parslied
 parsnip
 parsonage
 part
+partake
 parterre
 parterres
 parthenocarpic
@@ -43326,6 +43348,7 @@ plastocyanin
 plastron
 plastrons
 plastrum
+plastrums
 plat
 platan
 platane
@@ -48702,6 +48725,7 @@ replicates
 replication
 replicon
 repliers
+replot
 replots
 replow
 replowed
@@ -50283,6 +50307,7 @@ rubier
 rubiest
 rubricate
 rubricating
+rubrication
 rubricator
 rubricators
 rubrician
@@ -50664,6 +50689,7 @@ salimeter
 salimeters
 saline
 salinities
+salinizing
 salinometer
 salinometers
 saliva
@@ -51783,6 +51809,7 @@ secularly
 seculars
 securely
 securenesses
+securest
 securities
 securitizations
 securitize
@@ -54917,6 +54944,7 @@ spiritualties
 spirituel
 spirituous
 spirochaetes
+spirochete
 spiroid
 spirometric
 spirting
@@ -55342,6 +55370,7 @@ stalag
 stalags
 staled
 stalemate
+stalemated
 stalemates
 stalemating
 stalking
@@ -55636,6 +55665,7 @@ sterically
 sterigma
 sterigmas
 sterigmata
+sterilants
 sterilely
 sterilised
 sterilities
@@ -55821,6 +55851,7 @@ stodging
 stogey
 stoical
 stoically
+stoichiometries
 stoics
 stokehold
 stokes
@@ -61063,6 +61094,7 @@ twiniest
 twinight
 twinkies
 twinkle
+twinkled
 twinkler
 twinkling
 twinkly
@@ -63599,6 +63631,7 @@ vestigium
 vestless
 vestlike
 vestries
+vestryman
 vestrymen
 vesture
 vestures
@@ -64304,6 +64337,7 @@ warfare
 warhead
 warhorse
 warhorses
+warily
 warinesses
 waring
 warisons
@@ -65801,6 +65835,7 @@ youse
 youthening
 youthful
 youthfully
+youthfulness
 youthquake
 youthquakes
 yow
