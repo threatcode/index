@@ -855,6 +855,7 @@ affirmed
 affirmer
 affirmers
 affirms
+affix
 affixable
 affixal
 affixial
@@ -2607,6 +2608,7 @@ apostilles
 apostle
 apostolic
 apostolicities
+apostolicity
 apothecary
 apothece
 apotheces
@@ -6274,6 +6276,7 @@ bolograph
 bolometers
 bolometric
 bolometrically
+boloneys
 bolshevik
 bolsheviki
 bolsheviks
@@ -11314,6 +11317,7 @@ compulsivities
 compulsorily
 compunctious
 compurgations
+compurgator
 computational
 compute
 computed
@@ -11839,6 +11843,7 @@ contemporizing
 contemptibility
 contemptibly
 contemptuous
+contend
 contending
 contenting
 contentiousness
@@ -11905,6 +11910,7 @@ contradictions
 contradictor
 contradictories
 contradictors
+contradictory
 contrail
 contraindicate
 contralti
@@ -12189,6 +12195,7 @@ cordlike
 cordoba
 cords
 corduroyed
+corduroying
 cordwain
 cordwaineries
 cordwains
@@ -12728,6 +12735,7 @@ cowboys
 cowers
 cowfish
 cowflaps
+cowflops
 cowgirls
 cowherd
 cowhide
@@ -17019,6 +17027,7 @@ dorsa
 dorsally
 dorsals
 dorser
+dorsiventrality
 dorsoventral
 dorsoventrality
 dorsoventrally
@@ -17712,6 +17721,7 @@ dynamism
 dynamists
 dynamited
 dynamiters
+dynamiting
 dynamometer
 dynamometries
 dynamos
@@ -21066,6 +21076,7 @@ ferrimagnetisms
 ferrite
 ferrites
 ferritin
+ferroelectrics
 ferrous
 ferryboat
 ferryboats
@@ -22653,6 +22664,7 @@ frequenter
 frequenting
 frequentnesses
 frescoed
+frescoer
 frescoes
 frescoist
 frescos
@@ -22970,6 +22982,7 @@ funkia
 funkier
 funkiest
 funking
+funks
 funnel
 funneled
 funnelform
@@ -23322,6 +23335,7 @@ garboils
 garbology
 garbs
 garcons
+gardant
 garden
 gardened
 gardeners
@@ -24319,6 +24333,7 @@ goldarn
 goldarns
 goldbrick
 goldbricked
+goldbricks
 goldener
 goldenness
 goldenrod
@@ -29557,6 +29572,7 @@ interworking
 interworkings
 interwoven
 interzone
+intestacies
 intestacy
 intestinally
 intestines
@@ -31522,6 +31538,7 @@ lampblack
 lampions
 lampooned
 lampooner
+lampooners
 lampoonery
 lampooning
 lampoons
@@ -33007,6 +33024,7 @@ loveably
 loved
 lovefest
 lovefests
+lovelessness
 lovelessnesses
 lovelies
 loveliest
@@ -37846,6 +37864,7 @@ nociceptive
 noctambulist
 noctambulists
 noctuids
+noctule
 noctules
 noctuoid
 nocturn
@@ -38238,6 +38257,7 @@ nonmechanical
 nonmember
 nonmemberships
 nonmercurial
+nonmetals
 nonmetaphorical
 nonmetro
 nonmicrobial
@@ -49160,6 +49180,7 @@ reremice
 rereminded
 rereminding
 rerent
+rerented
 rerigged
 rerisen
 rerolled
@@ -51723,6 +51744,7 @@ scotch
 scotched
 scotias
 scotomata
+scotophil
 scotopias
 scots
 scottie
@@ -52416,6 +52438,7 @@ sentiences
 sentiency
 sentients
 sentiment
+sentimentalise
 sentimentalisms
 sentimentalizes
 sentiments
@@ -55204,6 +55227,7 @@ spinthariscope
 spinto
 spinulae
 spinule
+spinules
 spiracle
 spiracles
 spiraeas
@@ -56371,6 +56395,7 @@ streptobacillus
 streptococcic
 streptokinase
 streptokinases
+streptolysin
 streptolysins
 streptomycete
 streptomycin
@@ -57457,6 +57482,7 @@ superphosphate
 superpimp
 superplasticity
 superport
+superposable
 superpose
 superposing
 superposition
@@ -57799,6 +57825,7 @@ swaying
 sways
 swearer
 swearing
+sweatbox
 sweated
 sweater
 sweaterdresses
@@ -57923,6 +57950,7 @@ swoons
 swooper
 swoopers
 swoopier
+swooping
 swoopy
 swopping
 swops
@@ -58760,6 +58788,7 @@ teetotally
 tefillin
 teflons
 teggs
+tegmenta
 tegmina
 tegs
 tegular
@@ -58873,6 +58902,7 @@ telsons
 temerariously
 temerities
 temerity
+temp
 temped
 temper
 tempera
@@ -59213,6 +59243,7 @@ theater
 theatergoers
 theatergoing
 theatergoings
+theatre
 theatricalisms
 theatricality
 theatricalized
@@ -60223,6 +60254,7 @@ tourings
 tourism
 touristas
 tourists
+tourney
 tourneying
 tourneys
 tousled
@@ -60827,6 +60859,7 @@ trigonally
 trigonometrical
 trigons
 trigos
+trigraphic
 trihedrons
 trihybrid
 trihybrids
@@ -61022,6 +61055,7 @@ trots
 trotted
 trotter
 trotyl
+trotyls
 troubadour
 trouble
 troublemakers
@@ -62424,6 +62458,7 @@ unhallows
 unhalved
 unhand
 unhandier
+unhandsomely
 unhang
 unhangs
 unhappiness
