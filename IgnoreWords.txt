@@ -1535,6 +1535,7 @@ alvine
 alway
 alyssum
 ama
+amadavat
 amadou
 amahs
 amain
@@ -1583,6 +1584,7 @@ ambitionless
 ambitions
 ambitiousnesses
 ambivalence
+ambivalences
 ambiversion
 ambiversions
 ambivert
@@ -4754,6 +4756,7 @@ becursed
 bedabbles
 bedamn
 bedamning
+bedamns
 bedarkened
 bedarkening
 bedaubs
@@ -5047,6 +5050,7 @@ bemoan
 bemoaned
 bemoaning
 bemuddle
+bemurmurs
 bemuzzled
 bemuzzles
 ben
@@ -6917,6 +6921,7 @@ briefcase
 briefcases
 briefing
 briefings
+briefs
 brier
 brierroot
 brierroots
@@ -11022,6 +11027,7 @@ columbine
 columel
 columellae
 columellar
+column
 columnar
 columnist
 columnistic
@@ -11098,6 +11104,7 @@ commences
 commencing
 commend
 commendable
+commendation
 commendations
 commensalisms
 commensally
@@ -14302,6 +14309,7 @@ decimals
 decimate
 decimations
 decimetres
+decipher
 decipherers
 deciphering
 decipherments
@@ -14519,6 +14527,7 @@ defibrillates
 defibrillations
 defibrillator
 defibrillators
+defibrinate
 defibrinating
 defibrinations
 deficiencies
@@ -16329,6 +16338,7 @@ disgorge
 disgraceful
 disgracers
 disgraces
+disgruntlement
 disgruntles
 disguise
 disguiser
@@ -16508,6 +16518,7 @@ disputatiously
 disputer
 disputers
 disquantities
+disquantity
 disquiets
 disquisition
 disquisitions
@@ -23203,6 +23214,7 @@ galabieh
 galabiya
 galabiyas
 galactorrhea
+galactosemias
 galactosides
 galactosyl
 galago
@@ -23448,6 +23460,7 @@ gaskins
 gasless
 gaslights
 gaslit
+gasman
 gasmen
 gasohol
 gasohols
@@ -25168,6 +25181,7 @@ gulosities
 gulp
 gulper
 gulpers
+gulpiest
 gulps
 gumballs
 gumboots
@@ -28932,6 +28946,7 @@ ingeniousness
 ingeniousnesses
 ingenuity
 ingenuous
+ingenuousness
 ingesta
 ingested
 ingestible
@@ -29717,6 +29732,7 @@ intromitters
 introspected
 introspecting
 introspection
+introspections
 introversion
 introverts
 intrude
@@ -34568,6 +34584,7 @@ mendaciously
 mendacities
 mendacity
 mendeleviums
+mender
 mendigo
 mendings
 mends
@@ -35280,6 +35297,7 @@ minacious
 minaret
 minarets
 minatory
+mince
 mincemeats
 mincer
 mincier
@@ -37759,6 +37777,7 @@ nidations
 niddering
 nidderings
 nidering
+nidget
 nidgets
 nidi
 nidicolous
@@ -40733,6 +40752,7 @@ overplots
 overplus
 overply
 overpopulated
+overpopulates
 overpopulating
 overpopulations
 overpotent
@@ -40924,6 +40944,7 @@ overview
 overvoltages
 overwarm
 overwary
+overwatering
 overwaters
 overwear
 overwearing
@@ -44983,6 +45004,7 @@ premaxilla
 premaxillary
 premaxillas
 premeasure
+premeasuring
 premeditated
 premeditating
 premeds
@@ -47540,6 +47562,7 @@ reattains
 reattributes
 reattributing
 reattribution
+reauthorization
 reauthorize
 reavers
 reawaked
@@ -49844,6 +49867,7 @@ revertible
 reverts
 revery
 revest
+revested
 revetment
 revibrated
 revibrates
@@ -51489,6 +51513,7 @@ scad
 scads
 scaffolding
 scags
+scalably
 scalade
 scalades
 scalages
@@ -51980,9 +52005,11 @@ scruple
 scruples
 scrupulosities
 scrupulosity
+scrupulous
 scrupulously
 scrutinise
 scrutinising
+scubaing
 scud
 scudo
 scuffer
@@ -52342,6 +52369,7 @@ semantically
 semanticists
 semaphored
 semasiological
+semasiology
 sematic
 semblable
 semblables
@@ -54758,6 +54786,7 @@ sones
 songbird
 songfests
 songfulness
+songs
 songsmith
 songster
 songsters
@@ -56540,6 +56569,7 @@ stringed
 stringency
 stringers
 stringhalts
+stringier
 stringiest
 stringing
 stringless
@@ -59354,6 +59384,7 @@ theirself
 theirselves
 theism
 theistic
+theistically
 them
 thematic
 theme
@@ -62135,6 +62166,7 @@ uncounted
 uncourageous
 uncouthness
 uncovenanted
+uncoy
 uncreated
 uncreative
 uncrippled
@@ -63506,6 +63538,7 @@ urinals
 urinalyses
 urinalysis
 urinary
+urinating
 urination
 urinations
 urinative
@@ -65544,6 +65577,7 @@ wigwaggers
 wigwags
 wikiup
 wildcards
+wildcat
 wildebeests
 wilderness
 wildernesses
@@ -66182,6 +66216,7 @@ yar
 yard
 yardarms
 yarder
+yardland
 yardman
 yare
 yarely
