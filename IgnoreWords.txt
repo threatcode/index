@@ -3002,6 +3002,7 @@ arousal
 aroused
 aroynt
 aroynting
+arpeggiate
 arpen
 arpens
 arpent
@@ -8598,6 +8599,7 @@ catching
 catchments
 catchphrases
 catchword
+cate
 catecheses
 catechised
 catechisms
@@ -11005,6 +11007,7 @@ comforting
 comforts
 comicalities
 coming
+comingled
 comitial
 comity
 comma
@@ -13061,6 +13064,7 @@ crossbones
 crossbowman
 crossbowmen
 crossbreeding
+crossbuck
 crosscourt
 crosscurrents
 crosse
@@ -13409,6 +13413,7 @@ curliest
 curlily
 curliness
 curls
+curly
 curlycue
 curn
 currans
@@ -16206,6 +16211,7 @@ disfranchised
 disfrock
 disfrocked
 disfunctions
+disfurnishes
 disfurnishment
 disgorge
 disgraceful
@@ -17021,6 +17027,7 @@ doweling
 dowelling
 dowered
 dowering
+dowers
 downbeat
 downbeats
 downburst
@@ -18806,6 +18813,7 @@ ensheathes
 enshrouded
 ensiform
 ensign
+ensigncies
 ensigncy
 ensiles
 enskies
@@ -22017,6 +22025,7 @@ footfalls
 footfault
 footfaults
 foothold
+footing
 footings
 footlamberts
 footle
@@ -22832,6 +22841,7 @@ fungals
 fungibilities
 fungicidal
 fungicidally
+fungicide
 fungicides
 fungo
 fungoes
@@ -22962,6 +22972,7 @@ fuzziness
 fuzzing
 fyce
 fylfot
+fylfots
 gab
 gabbards
 gabbart
@@ -27575,6 +27586,7 @@ ignitors
 ignobility
 ignoble
 ignobly
+ignominiousness
 ignominy
 ignoramuses
 ignorantly
@@ -28567,6 +28579,7 @@ infanticides
 infantilism
 infantilisms
 infantilization
+infantilized
 infantilizes
 infantine
 infantries
@@ -30333,6 +30346,7 @@ jowl
 jowliness
 jowlinesses
 jows
+joyfulnesses
 joylessness
 joylessnesses
 joypopper
@@ -30895,6 +30909,7 @@ kitchenettes
 kitelike
 kiters
 kith
+kithe
 kithed
 kithes
 kiting
@@ -31763,6 +31778,7 @@ leftwing
 leg
 legalistic
 legalistically
+legalization
 legalizations
 legalize
 legalized
@@ -31818,6 +31834,7 @@ lehr
 lei
 leiomyomas
 leishmania
+leishmaniases
 leistering
 leisure
 leisurely
@@ -35625,6 +35642,7 @@ mockable
 mocked
 mocker
 mockers
+mocking
 mockingbirds
 mockingly
 mocks
@@ -35959,6 +35977,7 @@ monuron
 mony
 monzonites
 moo
+mooch
 mooched
 mooches
 mood
@@ -37022,6 +37041,7 @@ nautical
 nautiloid
 naval
 navar
+navars
 navelwort
 navette
 navettes
@@ -38707,6 +38727,7 @@ occupations
 occupied
 occupies
 occupy
+occurred
 occurring
 occurs
 oceanariums
@@ -47003,6 +47024,7 @@ reacquisitions
 reactants
 reactivates
 reactivation
+reactivations
 reactively
 reactiveness
 reactivenesses
@@ -48182,6 +48204,7 @@ reintroductions
 reinvade
 reinvaded
 reinvasion
+reinvented
 reinventing
 reinvents
 reinvest
@@ -51002,6 +51025,7 @@ savviest
 savvily
 savviness
 savvinesses
+sawbones
 sawed
 sawfish
 sawflies
@@ -52479,6 +52503,7 @@ sheik
 sheikdoms
 sheikhdoms
 shekelim
+shelducks
 shelf
 shellacked
 shellackings
@@ -53630,6 +53655,7 @@ slop
 sloper
 slopers
 sloping
+sloppier
 sloppiest
 slopping
 slopworks
@@ -56890,6 +56916,7 @@ sunlike
 sunnier
 sunniness
 sunporches
+sunray
 sunrays
 suns
 sunscald
@@ -58233,6 +58260,7 @@ teabox
 teach
 teachable
 teachably
+teachers
 teaches
 teacup
 teacupful
@@ -58692,6 +58720,7 @@ testaceous
 testacies
 testamentary
 testate
+testator
 testators
 testatrices
 tested
@@ -60437,6 +60466,7 @@ trimetrogon
 trimetrogons
 trimmer
 trimmest
+trimotors
 trindled
 trinitarian
 trinitrotoluene
@@ -61432,6 +61462,7 @@ uncasked
 uncast
 uncataloged
 uncategorizable
+uncatered
 uncaught
 unceasing
 unceasingly
@@ -62386,6 +62417,7 @@ unriddlers
 unriddles
 unrigged
 unrighteous
+unrip
 unripely
 unripped
 unrips
@@ -64242,6 +64274,7 @@ waring
 warisons
 warlordism
 warm
+warmest
 warmheartedness
 warmness
 warmnesses
@@ -65020,6 +65053,7 @@ windles
 windlestraw
 windling
 windmills
+window
 windowless
 windowpanes
 windowsills
@@ -65333,6 +65367,7 @@ workabilities
 workaday
 workaholisms
 workbag
+workbaskets
 workboat
 workboats
 workbox
