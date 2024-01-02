@@ -8,3 +8,6 @@ SFXAdmin,http://175.96.14.179/login/ovcgi/.sql
 Philex 0.2*,http://175.96.13.178/back.sql
 Microsoft,https://31.220.45.118/login_admin/vsadmin/1220/rsyncd.conf/31.220.45.118:8080_db.sql
 MX,http://101.ip-54-37-17.eu:52869/login_admin/coppercop/5984..sql/users.sql
+mysql-porter-stemmer/porter-test-data.sql at master - GitHub,https://github.com/johnpcarty/mysql-porter-stemmer/blob/master/porter-test-data.sql
+MySQL-DB-of-English-Typos/nlp_typos.sql at master - GitHub,https://github.com/TheCodeSlinger/MySQL-DB-of-English-Typos/blob/master/nlp_typos.sql
+XMail - microsoft certificate services,http://103.149.203.57/restore.sql
