@@ -3946,6 +3946,7 @@ azotise
 azotobacters
 azulejo
 azurite
+azygous
 ba
 baa
 baaing
@@ -6501,6 +6502,7 @@ boons
 boor
 boorish
 boorishnesses
+boors
 boost
 boosterisms
 boosting
@@ -6654,6 +6656,7 @@ bouncily
 bouncing
 bouncingly
 bouncy
+boundary
 bounded
 boundednesses
 bounden
@@ -16389,6 +16392,7 @@ discharging
 disci
 discing
 discipleships
+disciplinarian
 disciplinarians
 disciplinarily
 disciplinary
@@ -16398,6 +16402,7 @@ disclaims
 disclamations
 disclose
 disclosers
+discloses
 disclosure
 disclosures
 discoed
@@ -17484,6 +17489,7 @@ dramatizable
 dramatizes
 dramatizing
 dramaturg
+dramaturgic
 dramaturgies
 drammed
 drammock
@@ -20781,6 +20787,7 @@ facies
 facilitated
 facilitating
 facilitations
+facilitative
 facilitator
 facilitatory
 facing
@@ -22804,6 +22811,7 @@ fouette
 fouettes
 foul
 foulbrood
+foulbroods
 fouled
 foulnesses
 fouls
@@ -25681,6 +25689,7 @@ hackable
 hackberries
 hacker
 hackers
+hackies
 hacking
 hackle
 hackmatack
@@ -29910,6 +29919,7 @@ interpermeate
 interpermeating
 interpersonal
 interpersonally
+interphalangeal
 interplants
 interplayed
 interplaying
@@ -30060,12 +30070,14 @@ intragalactic
 intramuscular
 intranasal
 intranasally
+intransigence
 intransigent
 intransigents
 intransitively
 intrant
 intrants
 intraocular
+intraplate
 intrapopulation
 intrapreneur
 intrapreneurs
@@ -31240,6 +31252,7 @@ kecking
 keddahs
 kedgeree
 keefs
+keeked
 keeking
 keeks
 keelboat
@@ -31405,6 +31418,7 @@ kickboxes
 kickboxing
 kickboxings
 kicked
+kickstart
 kickstarted
 kickstarts
 kickup
@@ -31699,6 +31713,8 @@ koppie
 korats
 korma
 kormas
+korunas
+kos
 kosher
 kotow
 kotowed
@@ -31901,6 +31917,7 @@ lagged
 lagger
 laggings
 lagnappes
+lagoon
 lags
 lagunes
 lahar
@@ -33048,6 +33065,7 @@ lister
 listeria
 listerioses
 listers
+listless
 listlessly
 listlessnesses
 lists
@@ -36231,6 +36249,7 @@ missorted
 missound
 missounded
 misspace
+misspaces
 misspeaks
 misspellings
 misspend
@@ -36369,6 +36388,7 @@ mobilize
 mobilizer
 mobilizing
 mobled
+mobocracy
 mobocrats
 mobster
 mochila
@@ -39215,6 +39235,7 @@ nulliparae
 nullipore
 nullipores
 nullities
+nulls
 numb
 numbat
 numbats
@@ -39522,6 +39543,7 @@ occupied
 occupies
 occupy
 occurred
+occurrence
 occurring
 occurs
 oceanariums
@@ -39594,6 +39616,7 @@ odiums
 odograph
 odometers
 odometries
+odontoglossum
 odontoglossums
 odontoid
 odontoids
@@ -47315,6 +47338,7 @@ queenside
 queensides
 queerer
 queering
+queerly
 queers
 quells
 quenched
@@ -49165,6 +49189,7 @@ reinoculated
 reinoculates
 reinserting
 reinsertions
+reinspected
 reinspecting
 reinspections
 reinspire
@@ -51951,6 +51976,7 @@ sargassum
 sargos
 sarins
 sarkiest
+sarks
 sarments
 sarmentum
 sarod
@@ -53071,6 +53097,7 @@ semiotics
 semiparasites
 semiporcelain
 semiprecious
+semiprivate
 semipros
 semipublic
 semiquavers
@@ -53498,6 +53525,7 @@ shanghaied
 shanghaiers
 shanking
 shankpiece
+shanks
 shanti
 shantung
 shanty
@@ -54334,6 +54362,7 @@ sissiest
 sissy
 sissyness
 sistered
+sisterhood
 sisterly
 sistra
 sistrums
@@ -55048,6 +55077,7 @@ sniffle
 sniffling
 sniffy
 snifters
+snigger
 sniggered
 sniggerer
 sniggerers
@@ -55681,6 +55711,7 @@ spaldeen
 spallable
 spallation
 spaller
+spalling
 spalls
 spam
 spambot
@@ -58338,6 +58369,7 @@ superstrata
 superstrength
 superstrengths
 superstrike
+superstrikes
 superstrings
 superstructures
 supersubtleties
@@ -59498,6 +59530,7 @@ teamworks
 teapot
 tearable
 tearaway
+tearaways
 teardowns
 teardrop
 teardrops
@@ -61365,6 +61398,7 @@ translatory
 transliterate
 transliteration
 translocated
+translocates
 translocations
 translucence
 translucences
@@ -66420,6 +66454,7 @@ windburns
 windburnt
 windchills
 winded
+winder
 winders
 windflaw
 windflower
