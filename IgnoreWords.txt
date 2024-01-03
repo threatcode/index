@@ -916,6 +916,7 @@ aftertaste
 aftertastes
 aftertax
 aftertimes
+afterwards
 afterwords
 afterworld
 aftosa
@@ -3163,6 +3164,7 @@ ascidia
 ascidian
 ascidians
 ascites
+ascogonia
 ascomycete
 ascomycetes
 ascorbates
@@ -3465,6 +3467,7 @@ attacher
 attaches
 attachments
 attack
+attacker
 attackmen
 attain
 attainable
@@ -3796,6 +3799,7 @@ aviators
 aviatress
 aviatresses
 aviatrice
+aviatrixes
 avicular
 avidities
 avifaunas
@@ -8843,6 +8847,7 @@ cavitating
 cavitied
 cavorted
 cavy
+caw
 cawing
 cayman
 cayuse
@@ -8892,6 +8897,7 @@ cellists
 cellmates
 celloidin
 celloidins
+cellophanes
 cellphone
 cells
 cellularities
@@ -11824,6 +11830,7 @@ consortia
 conspecific
 conspicuity
 conspiration
+conspirational
 conspirations
 constable
 constables
@@ -12451,6 +12458,7 @@ cosecants
 coses
 coshed
 coshers
+coshes
 coshing
 cosiest
 cosign
@@ -19322,6 +19330,7 @@ epistatic
 epistaxis
 epistemologist
 epistemology
+epistle
 epistlers
 epistolary
 epistome
@@ -21109,6 +21118,7 @@ felsite
 felsites
 felstone
 felt
+felwort
 feminazi
 feminazis
 femininely
@@ -22209,6 +22219,7 @@ folkish
 folklives
 folklorish
 folkloristic
+folklorists
 folksily
 folksingings
 folksy
@@ -22698,6 +22709,7 @@ frasses
 frat
 fraternal
 fraternalism
+fraternalisms
 fraternally
 fraternities
 fraternity
@@ -24112,6 +24124,7 @@ glanced
 glancing
 glancingly
 glanders
+glandes
 glandless
 glands
 glandular
@@ -24271,6 +24284,7 @@ glossily
 glossolalists
 glost
 glottal
+glottides
 glottis
 glouts
 glove
@@ -24909,6 +24923,7 @@ greening
 greenings
 greenishness
 greenishnesses
+greenkeeper
 greenlet
 greenlighted
 greenly
@@ -31439,6 +31454,7 @@ kremlins
 kreplach
 kreuzer
 krewe
+krills
 krises
 krona
 krubi
@@ -31451,6 +31467,7 @@ kryoliths
 kudo
 kudos
 kudu
+kudus
 kufi
 kukri
 kulaks
@@ -31965,6 +31982,7 @@ lavash
 lavation
 lavatories
 lavatory
+lave
 laveered
 lavendered
 lavendering
@@ -35676,6 +35694,7 @@ misdirected
 misdirecting
 misdistribution
 misdivision
+misdoers
 misdoing
 misdoubted
 misdoubting
@@ -35991,6 +36010,7 @@ miticide
 miticides
 mitigable
 mitigate
+mitigating
 mitigations
 mitigator
 mitis
@@ -36444,6 +36464,7 @@ moorings
 moorish
 moorwort
 moorworts
+moosebird
 mooted
 mooters
 mooting
@@ -37653,6 +37674,7 @@ neologizing
 neology
 neomycins
 neonate
+neonatologies
 neonatologist
 neonatology
 neoned
@@ -42855,6 +42877,7 @@ pew
 pewholders
 pewits
 pewterers
+pewters
 peyote
 peyotes
 peyotls
@@ -43938,6 +43961,7 @@ pliant
 plicae
 plicate
 plicated
+plication
 plications
 plier
 pliers
@@ -44349,6 +44373,7 @@ pommels
 pommies
 pommy
 pomo
+pomology
 pompadour
 pompano
 pompoms
@@ -46192,6 +46217,7 @@ psephological
 psephologists
 pseud
 pseudepigrapha
+pseudepigraphon
 pseudepigraphs
 pseudo
 pseudoalleles
@@ -51664,6 +51690,7 @@ scabrousnesses
 scad
 scads
 scaffolding
+scagliola
 scags
 scalably
 scalade
@@ -59337,6 +59364,7 @@ teratism
 teratocarcinoma
 teratogeneses
 teratogenesis
+teratogenicity
 teratoid
 terbium
 tercel
@@ -61229,6 +61257,7 @@ tripedal
 tripes
 triphase
 triphosphate
+triphosphates
 triphthong
 triplanes
 triplexes
@@ -61320,6 +61349,7 @@ troilism
 troilite
 troilites
 troke
+troked
 troking
 troll
 trollers
@@ -61845,6 +61875,7 @@ tyrannicides
 tyrannise
 tyrannised
 tyrannising
+tyrannosauruses
 tyrannous
 tyrannously
 tyred
@@ -61863,6 +61894,7 @@ tzarina
 tzarinas
 tzarists
 tzaritza
+tzetze
 tzetzes
 tzigane
 tziganes
@@ -62322,6 +62354,7 @@ uncommunicable
 uncommunicative
 uncompassionate
 uncompensated
+uncomplainingly
 uncompounded
 unconcealed
 unconceivable
@@ -64084,9 +64117,11 @@ veeringly
 veers
 vegan
 veganisms
+vegans
 veges
 vegetably
 vegetal
+vegetant
 vegetarianism
 vegetated
 vegetates
