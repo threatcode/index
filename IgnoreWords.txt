@@ -1861,6 +1861,7 @@ anapaest
 anapaests
 anapest
 anaphasic
+anaphora
 anaphoral
 anaphoras
 anaphoric
@@ -3029,6 +3030,7 @@ arousal
 aroused
 aroynt
 aroynting
+aroynts
 arpeggiate
 arpen
 arpens
@@ -6479,6 +6481,7 @@ boozy
 bopper
 bops
 boracic
+borages
 boral
 borals
 boras
@@ -7997,6 +8000,7 @@ camphoric
 camphors
 campi
 campiest
+campiness
 campinesses
 campongs
 camporees
@@ -9222,6 +9226,7 @@ chanteys
 chanticleers
 chanting
 chantor
+chantors
 chantry
 chanty
 chaoses
@@ -9462,6 +9467,7 @@ cherubic
 cherubim
 cheshire
 chessboards
+chessman
 chessmen
 chested
 chestful
@@ -9642,6 +9648,7 @@ chivalrous
 chivalrously
 chivalry
 chivareed
+chivarees
 chivaried
 chivaries
 chivariing
@@ -17201,6 +17208,7 @@ dourest
 dourine
 dourness
 doused
+douser
 dousers
 douzepers
 dovecot
@@ -17729,6 +17737,7 @@ duplicated
 duplications
 duplicative
 duplicities
+duplicitous
 dupped
 dups
 durablenesses
@@ -17756,6 +17765,7 @@ durra
 durras
 durrie
 durries
+durrs
 duskier
 duskiness
 dusking
@@ -21396,6 +21406,7 @@ fierier
 fieriest
 fierinesses
 fiery
+fifes
 fifteen
 fifteenth
 fifth
@@ -24988,6 +24999,7 @@ griffins
 grifted
 grifters
 grigri
+grigris
 grigs
 grillade
 grille
@@ -28022,6 +28034,7 @@ imaret
 imarets
 imbalm
 imbalmer
+imbalmers
 imbarks
 imbeciles
 imbecilities
@@ -29409,6 +29422,7 @@ insufflated
 insufflator
 insularism
 insularisms
+insularity
 insularly
 insulars
 insulate
@@ -30547,6 +30561,7 @@ jetliner
 jeton
 jetons
 jetport
+jets
 jetsams
 jetsoms
 jetted
@@ -30587,6 +30602,7 @@ jimmy
 jimp
 jimsonweed
 jimsonweeds
+jin
 jingall
 jingko
 jingler
@@ -30980,6 +30996,7 @@ keck
 kecking
 keddahs
 kedgeree
+keefs
 keeking
 keeks
 keelboat
@@ -36070,6 +36087,7 @@ moated
 moatlike
 mobbers
 mobbish
+mobile
 mobilise
 mobilises
 mobilising
@@ -37844,6 +37862,7 @@ neutronic
 neutrons
 never
 nevermind
+neves
 nevi
 new
 newborns
@@ -37964,6 +37983,7 @@ nightfall
 nightglow
 nightglows
 nightgown
+nightgowns
 nighthawk
 nighthawks
 nightie
@@ -39663,6 +39683,7 @@ opsonizes
 opt
 optatively
 opted
+optic
 optimalities
 optimes
 optimised
@@ -39921,6 +39942,7 @@ osmunda
 osmundine
 osprey
 ospreys
+ossature
 ossatures
 osseous
 ossetras
@@ -40455,6 +40477,7 @@ outthrowing
 outthrown
 outthrusted
 outtowers
+outtrading
 outtravel
 outtravels
 outtrick
@@ -42141,6 +42164,7 @@ peacekeeper
 peacekeepers
 peacekeeping
 peacemaker
+peacemakers
 peacemaking
 peacemakings
 peacetimes
@@ -42910,6 +42934,7 @@ phagocytoses
 phagocytosing
 phalangeal
 phalangers
+phalansteries
 phalarope
 phallic
 phallically
@@ -46852,6 +46877,7 @@ quahog
 quaich
 quaiches
 quaigh
+quailed
 quails
 quaint
 quaintest
@@ -48181,6 +48207,7 @@ reddles
 redds
 redear
 redecide
+redecides
 redecorating
 redecorations
 redecorator
@@ -49481,6 +49508,7 @@ reroute
 res
 resaddles
 resaddling
+resaid
 resailed
 resailing
 resale
@@ -50010,6 +50038,7 @@ reuses
 reutilizations
 reutilizing
 reuttering
+revaccination
 revalidate
 revalidated
 revalidating
@@ -52091,6 +52120,7 @@ scrambles
 scrambling
 scramjet
 scramming
+scrannels
 scrapbooks
 scraped
 scraper
@@ -53024,6 +53054,7 @@ shader
 shadier
 shadiest
 shadkhan
+shadkhans
 shadow
 shadowers
 shadowgraph
@@ -53032,6 +53063,7 @@ shadowless
 shadows
 shadrachs
 shaduf
+shady
 shafting
 shagbark
 shaggy
@@ -53441,6 +53473,7 @@ shotgun
 shots
 shotting
 shouldered
+shouldest
 shout
 shouted
 shovelful
@@ -61885,6 +61918,7 @@ typewriter
 typewritings
 typewrote
 typey
+typhlitises
 typhose
 typhous
 typhus
@@ -66001,6 +66035,7 @@ wiredrawing
 wiredraws
 wiregrasses
 wirehaired
+wirehairs
 wireless
 wirelessed
 wirelesses
