@@ -395,6 +395,7 @@ acromion
 acronymic
 acronyms
 acropetal
+acropetally
 acrophobia
 acrophobias
 acropolises
@@ -3862,6 +3863,7 @@ awardee
 awardees
 awards
 awash
+away
 awayness
 aweather
 awed
@@ -8871,6 +8873,7 @@ causable
 causalgia
 causally
 causative
+causerie
 causes
 causewaying
 causeways
@@ -12198,6 +12201,7 @@ convoked
 convoker
 convokes
 convoking
+convolute
 convolutes
 convoluting
 convolve
@@ -13715,6 +13719,7 @@ curtailment
 curtails
 curtained
 curtains
+curtal
 curtalax
 curtalaxes
 curtate
@@ -19734,6 +19739,7 @@ escalope
 escaloped
 escalopes
 escalops
+escapable
 escapade
 escapades
 escaped
@@ -20951,6 +20957,7 @@ fanaticalnesses
 fanaticisms
 fancier
 fanciers
+fancies
 fanciest
 fancified
 fancifies
@@ -22008,6 +22015,7 @@ flattener
 flatteners
 flattening
 flattens
+flattering
 flatteringly
 flattish
 flattop
@@ -22655,6 +22663,7 @@ forest
 forestalled
 forestalls
 forester
+foresting
 forestland
 forestries
 forestry
@@ -24488,6 +24497,7 @@ gloomier
 glooming
 glop
 gloppy
+gloria
 glories
 glorification
 glorifications
@@ -26144,6 +26154,7 @@ hatters
 hatting
 hauberk
 haugh
+haughs
 haughtier
 haughtily
 haughtinesses
@@ -27182,6 +27193,7 @@ homogenise
 homogenising
 homogenizations
 homograft
+homografts
 homographs
 homoiotherm
 homoiousian
@@ -28099,6 +28111,7 @@ idealization
 idealizations
 idealless
 ideally
+idealogies
 idealogues
 ideated
 ideational
@@ -28963,6 +28976,7 @@ indenes
 indent
 indentation
 indentations
+indenters
 indention
 indenturing
 independences
@@ -29060,6 +29074,7 @@ indomitableness
 indoors
 indorsees
 indorser
+indorsers
 indorsors
 indowed
 indowing
@@ -30883,6 +30898,7 @@ jitteriness
 jittering
 jiujitsus
 jiveass
+jivers
 jives
 jivy
 jnanas
@@ -31328,6 +31344,7 @@ kernelling
 kerning
 kernites
 kerns
+kerogen
 kerogens
 kerosine
 kerplunk
@@ -31837,6 +31854,7 @@ labyrinthian
 labyrinthine
 labyrinthodonts
 laccolithic
+laceless
 lacelike
 lacerated
 lacerates
@@ -34017,6 +34035,7 @@ mainsail
 mainsails
 mainstreams
 maintenance
+maiolica
 maiolicas
 maisonettes
 maist
@@ -37621,6 +37640,7 @@ myxoid
 myxomatoses
 myxomatous
 myxomycete
+myxomycetes
 myxoviral
 naan
 naans
@@ -39186,6 +39206,7 @@ nubbins
 nubble
 nubblier
 nubbliest
+nubilous
 nubs
 nubucks
 nucha
@@ -40763,6 +40784,7 @@ outspends
 outspoken
 outspokenly
 outspokenness
+outspokennesses
 outspread
 outspreading
 outspreads
@@ -42216,6 +42238,7 @@ parsnip
 parsonage
 part
 partake
+partaker
 parterre
 parterres
 parthenocarpic
@@ -44342,6 +44365,7 @@ plethysmography
 pleurisies
 pleuron
 pleuropneumonia
+pleustonic
 plew
 plexal
 plexes
@@ -45093,6 +45117,7 @@ potlatch
 potlatches
 potlines
 potometer
+potpies
 potpourris
 pots
 potsherd
@@ -53597,6 +53622,7 @@ sheathed
 sheather
 sheathings
 shebang
+shedders
 shedlike
 sheens
 sheepcots
@@ -55679,6 +55705,7 @@ soyas
 soyuz
 sozine
 spa
+spacebands
 spacecrafts
 spaced
 spacemen
@@ -57088,6 +57115,7 @@ stoups
 stour
 stoure
 stoures
+stouten
 stouter
 stoutest
 stoutly
@@ -60288,6 +60316,7 @@ thiols
 thionic
 thionins
 thiophen
+thiophens
 thiotepa
 thiourea
 thioureas
@@ -60412,6 +60441,7 @@ thrillers
 thrilling
 thrillingly
 thrills
+thrive
 thriver
 thrivers
 thriving
@@ -63662,6 +63692,7 @@ unpen
 unpens
 unpeopled
 unperformable
+unperformed
 unpersuasive
 unpicking
 unpicturesque
@@ -63802,6 +63833,7 @@ unrumpled
 unrusted
 unsaddle
 unsaddled
+unsaddling
 unsalaried
 unsampled
 unsanctioned
@@ -65319,6 +65351,7 @@ vodouns
 vodun
 voe
 voguish
+voguishness
 voiced
 voiceful
 voicelessness
@@ -65599,6 +65632,7 @@ walloped
 walloper
 wallopers
 wallopings
+wallower
 wallowers
 wallowing
 wallows
@@ -65904,6 +65938,7 @@ weaponizing
 weaponless
 wearability
 wearables
+wearied
 wearier
 wearies
 weariest
