@@ -11,3 +11,9 @@ log_mozilla-foundation_common_voice_8_0_uz_test_predictions.txt,https://huggingf
 "Chapter 8, Text File 1 (515.8Kb) - Knowledge Bank",https://kb.osu.edu/bitstream/handle/1811/77848/Ch08.Textfile1.txt%3Fsequence%3D9%26isAllowed%3Dy
 wordsEn.txt - The LONI Institute,http://www.institute.loni.org/lasigma/ret/products/Burkman/wordsEn.txt
 validguesses.txt,https://inst.eecs.berkeley.edu/~cs61a/su14/hw/hw4/validguesses.txt
+https://rtrb.org/wordlistproject/updatelog_008.txt,https://rtrb.org/wordlistproject/updatelog_008.txt
+nouns.txt - University of Arizona,https://faculty.sbs.arizona.edu/hammond/ling578-sp18/nouns.txt
+Polyorths - Seattle Scrabble Club,http://www.seattlescrabble.org/data/ThemeLists/polyorths.txt
+EnglishWords.txt - Stanford University,https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/lectures/9-RecursiveBacktracking1/code/reducible/res/EnglishWords.txt
+wordsEn.txt - The LONI Institute,http://www.institute.loni.org/lasigma/ret/products/Burkman/wordsEn.txt
+jordle-dictionary.txt - FractalHead.com,http://fractalhead.com/jordle/jordle-dictionary.txt
