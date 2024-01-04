@@ -662,6 +662,7 @@ adsorbable
 adsorber
 adsorbers
 adsorbing
+adsorbs
 adsorption
 adsorptions
 adularia
@@ -1358,6 +1359,7 @@ alkyd
 alkyl
 alkylated
 alkylating
+alkyls
 alkynes
 allantoid
 allayer
@@ -2263,6 +2265,7 @@ antibusiness
 antibusing
 antic
 anticar
+anticellulite
 anticensorship
 antichlor
 antichoicer
@@ -5836,6 +5839,7 @@ bite
 bitmap
 bitt
 bitted
+bitten
 bitterbrushes
 bittering
 bitterly
@@ -9071,6 +9075,7 @@ centai
 centas
 centaureas
 centauries
+centavos
 centennial
 centennials
 center
@@ -12630,6 +12635,7 @@ corybant
 corybantic
 corydalis
 corydalises
+corymb
 corymbous
 corymbs
 corynebacterial
@@ -12842,6 +12848,7 @@ counterplays
 counterplea
 counterpleas
 counterplotted
+counterpoints
 counterpoise
 counterpoised
 counterposes
@@ -14690,6 +14697,7 @@ decried
 decrier
 decrown
 decrowned
+decrowns
 decrying
 decrypt
 decryption
@@ -14804,6 +14812,7 @@ defiled
 defilements
 defilers
 definably
+defined
 definers
 definite
 definitely
@@ -15390,6 +15399,7 @@ depressive
 depressively
 depressurizing
 deprival
+deprivation
 deprivations
 deprive
 deprived
@@ -15476,6 +15486,7 @@ desalinizes
 desalting
 desalts
 descant
+descanter
 descendant
 descendants
 descendent
@@ -18415,6 +18426,7 @@ effortlessness
 effulgent
 effusion
 effusively
+eft
 efts
 egalitarian
 egalitarians
@@ -28018,6 +28030,7 @@ hypercautious
 hypercharges
 hypercivilized
 hyperconscious
+hypercorrection
 hypercritical
 hypercriticism
 hypercriticisms
@@ -30112,6 +30125,7 @@ interpret
 interpretable
 interpreter
 interpreters
+interpreting
 interpsychic
 interred
 interregnum
@@ -31860,6 +31874,7 @@ knowns
 knubby
 knuckleball
 knuckleballer
+knucklebones
 knuckled
 knucklehead
 knuckleheaded
@@ -35538,6 +35553,7 @@ methodizing
 methods
 methotrexate
 methotrexates
+methought
 methoxide
 methoxychlor
 methylal
@@ -35742,6 +35758,7 @@ microtone
 microtones
 microtubule
 microtubules
+microvolts
 microwatt
 microwatts
 microwave
@@ -39182,6 +39199,7 @@ nonsolar
 nonsolids
 nonsolution
 nonspatial
+nonspeaking
 nonspecialist
 nonspeculative
 nonspeech
@@ -42637,6 +42655,7 @@ patientest
 patiently
 patinaed
 patinates
+patinized
 patinizing
 patio
 patios
@@ -44894,6 +44913,7 @@ polls
 pollster
 pollutant
 pollutants
+pollute
 polluter
 pollutes
 polluting
@@ -45008,6 +45028,7 @@ polytheistic
 polythenes
 polytonally
 polytype
+polytypes
 polyuria
 polyuric
 polyzoaries
@@ -45711,6 +45732,7 @@ prefabricated
 prefabricates
 prefabrication
 prefaced
+prefacers
 prefaces
 prefacing
 prefaded
@@ -45952,6 +45974,7 @@ presbyterate
 presbyterially
 presbyterials
 presbyters
+preschedules
 prescheduling
 prescience
 prescientific
@@ -52597,6 +52620,7 @@ scheduler
 schedules
 schematisms
 schematize
+schematized
 schematizes
 schematizing
 schemed
@@ -53669,6 +53693,7 @@ servantless
 serve
 serviceably
 serviceberry
+servicemen
 services
 serving
 servitor
@@ -57063,6 +57088,7 @@ stemmy
 stems
 stemware
 stemwares
+stenchful
 stenchier
 stenchiest
 stencil
@@ -62571,6 +62597,7 @@ turgidly
 turgite
 turgites
 turion
+turmeric
 turmoiled
 turmoils
 turnabout
@@ -62959,6 +62986,7 @@ unabating
 unabetted
 unabiding
 unabraded
+unabusive
 unacademically
 unacceptability
 unaccommodated
@@ -63405,6 +63433,7 @@ undergoers
 undergoes
 undergone
 undergrounder
+undergrounders
 undergrounds
 undergrowth
 undergrowths
@@ -64867,6 +64896,7 @@ valiants
 validating
 validations
 validity
+validnesses
 valines
 valkyrs
 vallations
@@ -65558,6 +65588,7 @@ visage
 visaged
 visaing
 viscera
+visceral
 viscerally
 viscid
 viscidities
@@ -66211,6 +66242,7 @@ wauking
 waveband
 wavelength
 wavelengths
+waveless
 wavelessly
 wavelets
 wavelike
@@ -66574,6 +66606,7 @@ whimbrel
 whimper
 whimpered
 whims
+whimsey
 whimsical
 whimsicalities
 whimsically
@@ -66641,6 +66674,7 @@ whistle
 whitebeard
 whitecap
 whitecaps
+whitecomb
 whitecombs
 whited
 whitefaces
@@ -67146,6 +67180,7 @@ woollier
 woolman
 woolmen
 woolpack
+wools
 woolshed
 wooly
 woopsed
