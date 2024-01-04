@@ -1444,6 +1444,7 @@ allosteries
 allostery
 allotetraploids
 allotropes
+allotropy
 allotters
 allotype
 allotypy
@@ -2524,6 +2525,7 @@ anyplace
 anythings
 aorist
 aortal
+aortas
 aoudad
 aoudads
 apanage
@@ -3818,6 +3820,7 @@ autunites
 auxesis
 auxin
 auxotroph
+auxotrophies
 avail
 availableness
 availablenesses
@@ -6280,6 +6283,7 @@ blypes
 bo
 boa
 boar
+boarder
 boarders
 boardinghouses
 boardlike
@@ -6852,6 +6856,7 @@ bradding
 bradoons
 bradykinins
 braes
+braggadocio
 braggarts
 bragger
 braggiest
@@ -7095,6 +7100,7 @@ brilliantly
 brim
 brimful
 brimfull
+brimfully
 brimmers
 brimstones
 brimstony
@@ -10169,6 +10175,7 @@ circularity
 circularnesses
 circulated
 circumambient
+circumambiently
 circumambulate
 circumambulated
 circumambulates
@@ -10261,6 +10268,7 @@ civicisms
 civie
 civies
 civil
+civilianize
 civilianizes
 civilianizing
 civilians
@@ -10871,6 +10879,7 @@ codependent
 codependents
 coderived
 coders
+codes
 codesign
 codesigning
 codesigns
@@ -17536,6 +17545,7 @@ downcome
 downcourt
 downdrafts
 downfallen
+downforces
 downgrades
 downgrading
 downhillers
@@ -18867,6 +18877,7 @@ embryogeny
 embryoid
 embryonal
 embryonated
+embryonic
 embryons
 embryophyte
 emcee
@@ -20598,6 +20609,7 @@ exorcists
 exorcizes
 exorcizing
 exordium
+exoskeletal
 exosmic
 exosmotic
 exospheres
@@ -26019,6 +26031,7 @@ hairsplitter
 hairsplitters
 hairsplitting
 hairsplittings
+hairspring
 hairstreak
 hairstyles
 hairstyling
@@ -27709,6 +27722,7 @@ hotnesses
 hotpressed
 hotpressing
 hotrods
+hotshot
 hotspot
 hotspur
 hotspurs
@@ -29368,6 +29382,7 @@ indurated
 induration
 indusial
 indusiate
+industrialise
 industrialised
 industrialises
 industrialising
@@ -30622,6 +30637,7 @@ ironstone
 ironstones
 ironweed
 ironwoman
+ironworkers
 irradiance
 irradiances
 irradiation
@@ -30726,6 +30742,7 @@ isobarisms
 isobars
 isobathic
 isobaths
+isobutanes
 isobutenes
 isobutylene
 isobutylenes
@@ -32492,6 +32509,7 @@ lastingly
 lastingness
 latch
 latchkeys
+latchstring
 latchstrings
 latecomers
 laten
@@ -41388,6 +41406,7 @@ overcut
 overcuts
 overdare
 overdaring
+overdear
 overdecking
 overdecks
 overdecorated
@@ -44221,6 +44240,7 @@ pileum
 pileup
 pilfer
 pilferable
+pilferages
 pilfering
 pilferproof
 pilgarlics
@@ -45788,6 +45808,7 @@ precooling
 precopulatory
 precrash
 precreased
+precrisis
 precritical
 precured
 precures
@@ -45991,6 +46012,7 @@ prelusive
 prelusively
 prelusory
 premade
+premanufactures
 premarkets
 premarriage
 prematureness
@@ -48643,6 +48665,7 @@ rebinds
 reblending
 reblends
 reblooms
+reboarded
 reboarding
 reboards
 rebodied
@@ -49812,6 +49835,7 @@ relies
 relieve
 relievers
 relieving
+relievo
 relievos
 relighted
 relighting
@@ -53152,6 +53176,7 @@ scruff
 scruffier
 scruffiest
 scruffiness
+scruffinesses
 scruffy
 scrummage
 scrummaging
@@ -53642,6 +53667,7 @@ semitonal
 semitropical
 semiweeklies
 semiworks
+semolina
 sempiternally
 sempre
 sempstresses
@@ -55962,6 +55988,7 @@ soma
 soman
 somatological
 somatology
+somatopleure
 somatostatins
 somatotrophin
 somatotropins
@@ -60294,6 +60321,7 @@ televangelist
 televiewed
 televiewer
 televising
+television
 televisual
 telexed
 telexes
@@ -62837,6 +62865,7 @@ turnkeys
 turnoffs
 turnouts
 turnpikes
+turns
 turnspit
 turnspits
 turnstile
@@ -63505,6 +63534,7 @@ uncoalesced
 uncodified
 uncoerced
 uncoffin
+uncoiled
 uncoils
 uncollected
 uncollectible
@@ -63939,6 +63969,7 @@ unfreezing
 unfriended
 unfriendliness
 unfriendly
+unfrivolous
 unfrocked
 unfrocking
 unfruitfulness
@@ -63953,6 +63984,7 @@ ungenteel
 ungently
 ungifted
 ungimmicky
+ungird
 ungirded
 ungirds
 unglamorized
@@ -64864,6 +64896,7 @@ upsoared
 upsoaring
 upsprang
 upspring
+upspringing
 upstager
 upstagers
 upstairs
@@ -65346,6 +65379,7 @@ veinier
 veining
 veinings
 veinlet
+veinlets
 veinlike
 veinstones
 veinule
@@ -67650,6 +67684,7 @@ xerography
 xerophile
 xerophilies
 xeroradiography
+xerosere
 xerothermic
 xerotic
 xerox
