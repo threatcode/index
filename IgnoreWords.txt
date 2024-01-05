@@ -6027,6 +6027,7 @@ blastocoele
 blastocoelic
 blastocoels
 blastocysts
+blastoderms
 blastodiscs
 blastomere
 blastomycosis
@@ -8564,6 +8565,7 @@ carboxylase
 carboxylate
 carboxylating
 carboxylation
+carboxylic
 carboxyls
 carboys
 carbs
@@ -10680,6 +10682,7 @@ clothiers
 clothlike
 clotty
 cloud
+cloudbursts
 cloudiest
 cloudily
 cloudinesses
@@ -10808,6 +10811,7 @@ coalshed
 coalyard
 coamings
 coanchoring
+coannexed
 coappeared
 coapt
 coaptation
@@ -12404,6 +12408,7 @@ convolute
 convolutes
 convoluting
 convolve
+convoyed
 convoying
 convoys
 convulses
@@ -16646,6 +16651,7 @@ discarding
 discards
 discase
 discases
+discepted
 discepting
 discepts
 discerned
@@ -19599,6 +19605,7 @@ entitled
 entitlement
 entoblast
 entoblasts
+entoderm
 entodermic
 entoiling
 entombed
@@ -20638,6 +20645,7 @@ executrixes
 exegesis
 exempla
 exemplarities
+exemplarity
 exemplary
 exemplum
 exempt
@@ -21291,6 +21299,7 @@ famousness
 famuli
 fan
 fanatic
+fanaticalness
 fanaticalnesses
 fanaticisms
 fancier
@@ -23235,6 +23244,7 @@ fracti
 fractionalizing
 fractionate
 fractionates
+fractionating
 fractionation
 fractionator
 fractioned
@@ -26530,6 +26540,7 @@ harriers
 harries
 harrower
 harrows
+harshly
 harshnesses
 harslets
 hart
@@ -28611,6 +28622,7 @@ idiotical
 idiotisms
 idiotype
 idiotypic
+idle
 idlenesses
 idler
 idles
@@ -30734,6 +30746,7 @@ inviably
 invidious
 invidiousness
 invidiousnesses
+invigilate
 invigilated
 invigilations
 invigilator
@@ -38333,6 +38346,7 @@ nameable
 named
 namelessnesses
 nameplate
+nameplates
 namer
 namesake
 nametags
@@ -38583,6 +38597,7 @@ needleworks
 needling
 needs
 neeps
+nefarious
 nefariously
 neg
 negated
@@ -40297,6 +40312,7 @@ ocularist
 oculus
 odah
 odd
+oddish
 oddities
 oddness
 oddnesses
@@ -41344,6 +41360,7 @@ outpray
 outprayed
 outpreach
 outpreaching
+outpreened
 outpreens
 outprices
 outpricing
@@ -42204,6 +42221,7 @@ overwily
 overwinding
 overwintered
 overwise
+overwithheld
 overwithhold
 overwithholding
 overwithholds
@@ -42843,6 +42861,7 @@ parbuckles
 parceled
 parcenaries
 parched
+parchesis
 parchisis
 parchments
 pard
@@ -44686,9 +44705,11 @@ pinnule
 pinocles
 pinocytic
 pinocytotically
+pinpoint
 pinpointing
 pinprick
 pins
+pinstripe
 pint
 pinta
 pintados
@@ -45317,6 +45338,7 @@ poinsettia
 poinsettias
 point
 pointable
+pointednesses
 pointelle
 pointelles
 pointes
@@ -46214,6 +46236,7 @@ prednisones
 predoctoral
 predominantly
 predominately
+predomination
 predried
 predries
 predrilled
@@ -47095,6 +47118,7 @@ pronenesses
 pronephros
 pronghorns
 pronging
+prongs
 pronoun
 pronouncement
 pronouncing
@@ -47829,6 +47853,7 @@ purposefulness
 purposeless
 purposelessness
 purposively
+purposivenesses
 purpura
 purpuric
 purpurins
@@ -48537,6 +48562,7 @@ rainfall
 raininess
 raining
 rainmakers
+rainout
 rainproofing
 rains
 rainspout
@@ -49110,6 +49136,7 @@ receipted
 receiptor
 receiptors
 receivable
+receivables
 receiverships
 recement
 recementing
@@ -49227,6 +49254,7 @@ recoils
 recoin
 recoined
 recollected
+recollecting
 recollection
 recolonized
 recolonizing
@@ -49684,6 +49712,7 @@ reerected
 reerects
 reescalated
 reescalates
+reescalating
 reescalations
 reest
 reestablishes
@@ -50774,6 +50803,7 @@ reregulated
 reregulating
 rerelease
 rereleases
+rereleasing
 reremice
 rereminded
 rereminding
@@ -50970,6 +51000,7 @@ resolidified
 resolidifies
 resolidify
 resoling
+resolute
 resolutely
 resoluteness
 resolutenesses
@@ -52960,6 +52991,7 @@ satirizers
 satirizes
 satirizing
 satis
+satisfaction
 satisfiable
 satisficed
 satisficing
@@ -54098,6 +54130,7 @@ senior
 seniorities
 seniority
 seniors
+senna
 sennachies
 sennets
 sennight
@@ -56838,6 +56871,7 @@ specializations
 specialnesses
 specials
 specialties
+speciates
 speciation
 specific
 specifically
@@ -64658,6 +64692,7 @@ unkind
 unkindled
 unkindly
 unkingly
+unkissed
 unknot
 unknots
 unknotting
