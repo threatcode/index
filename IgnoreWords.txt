@@ -3590,6 +3590,7 @@ attractants
 attraction
 attractiveness
 attractors
+attracts
 attributed
 attributes
 attribution
@@ -4388,6 +4389,7 @@ banisher
 banishers
 banishment
 banjaxing
+banjo
 banjoes
 banjoist
 bankabilities
@@ -5751,6 +5753,7 @@ biopsying
 bioregionalisms
 bioregionalists
 bioregions
+bioremediation
 biorhythms
 bios
 biosafeties
@@ -6043,6 +6046,7 @@ bleak
 bleakest
 bleakly
 bleaknesses
+blear
 blearier
 blearily
 blearing
@@ -6328,6 +6332,7 @@ boatbills
 boatbuilders
 boatel
 boaters
+boatful
 boatlift
 boatlifted
 boatlifting
@@ -6922,6 +6927,7 @@ brake
 brakeage
 braked
 brakemen
+braky
 braless
 bramble
 brambling
@@ -9696,6 +9702,7 @@ chevrets
 chevy
 chewable
 chewiness
+chewinesses
 chia
 chiaroscuro
 chiasma
@@ -15190,6 +15197,7 @@ delving
 demagnetized
 demagnetizers
 demagnetizes
+demagog
 demagogic
 demagoging
 demagogs
@@ -18748,6 +18756,7 @@ elects
 electuary
 elegiac
 elegiacal
+elegiacally
 elegiacs
 elegies
 elegise
@@ -18778,6 +18787,7 @@ elicit
 elicitation
 elicitations
 elicited
+elides
 eligible
 eliminate
 elimination
@@ -20371,6 +20381,7 @@ evasively
 evasiveness
 evection
 eveners
+evenfalls
 evenhanded
 evenhandedness
 evenings
@@ -24049,6 +24060,7 @@ gargets
 gargety
 gargle
 gargler
+garglers
 gargoyle
 gargoyled
 garigues
@@ -26790,6 +26802,7 @@ hegumenoses
 hehs
 heifers
 height
+heighten
 heightening
 heightens
 heighths
@@ -27013,6 +27026,7 @@ herbologies
 herby
 herculean
 herculeses
+herders
 herdic
 herdics
 herding
@@ -28081,6 +28095,7 @@ hushful
 hushpuppy
 huskers
 huskily
+husking
 huskings
 husklike
 husks
@@ -29998,6 +30013,7 @@ insolence
 insolences
 insolently
 insolents
+insoles
 insolubilities
 insolubilize
 insolvably
@@ -31571,6 +31587,7 @@ justle
 justnesses
 justs
 jutes
+juts
 jutted
 juttied
 jutting
@@ -39448,6 +39465,7 @@ nonpersonal
 nonphilosophers
 nonphonemic
 nonphysical
+nonplastics
 nonplayers
 nonplused
 nonplussing
@@ -43061,6 +43079,7 @@ pattee
 pattened
 patterers
 patterned
+patternings
 patterns
 pattie
 patulent
@@ -44524,6 +44543,7 @@ pincher
 pinches
 pinching
 pinchpenny
+pincushions
 pinder
 pine
 pinealectomized
@@ -45729,6 +45749,7 @@ postseasons
 poststimulation
 poststrike
 postsurgical
+posttax
 posttension
 posttest
 posttests
@@ -47422,6 +47443,7 @@ psychopath
 psychopathics
 psychopaths
 psychosexual
+psychosexually
 psychosocial
 psychosurgery
 psychosynthesis
@@ -49105,6 +49127,7 @@ recoiling
 recoils
 recoin
 recoined
+recollected
 recollection
 recolonized
 recolonizing
@@ -52096,6 +52119,7 @@ rubati
 rubber
 rubbered
 rubberiest
+rubberizes
 rubberneckers
 rubbing
 rubbish
@@ -53089,6 +53113,7 @@ sceneshifters
 scenographies
 scenography
 scents
+scepter
 sceptered
 scepters
 scepticism
@@ -53581,6 +53606,7 @@ searches
 searching
 searer
 searest
+searingly
 searobins
 seascape
 seascout
@@ -54848,6 +54874,7 @@ shwanpans
 shylocked
 shylocking
 sialagogue
+sialid
 sialidan
 sialidans
 sialoid
@@ -54953,6 +54980,7 @@ sightlessly
 sightliest
 sightliness
 sightlinesses
+sightly
 sights
 sightseen
 sightsees
@@ -56109,6 +56137,7 @@ sociometry
 sociopaths
 sock
 socked
+socket
 socketed
 sockmen
 socks
@@ -56875,6 +56904,7 @@ spindliest
 spindling
 spindly
 spindrifts
+spine
 spinifex
 spinifexes
 spinnaker
@@ -59437,6 +59467,7 @@ surreptitiously
 surrey
 surrogating
 surround
+surrounded
 surrounding
 surroyals
 surtax
@@ -63023,6 +63054,7 @@ tubaist
 tubbed
 tubbier
 tubby
+tuberculin
 tuberculoses
 tuberoid
 tuberose
@@ -63474,6 +63506,7 @@ ultraglamorous
 ultrahazardous
 ultraheating
 ultraism
+ultraisms
 ultraleft
 ultraleftisms
 ultraleftist
@@ -66181,6 +66214,7 @@ virtuality
 virtue
 virtuosa
 virtuoso
+virtuosos
 virtuous
 virtuously
 virucides
@@ -66666,6 +66700,7 @@ wapitis
 waps
 warble
 warbler
+warblers
 warbles
 warbonnets
 ward
