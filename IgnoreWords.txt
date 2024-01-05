@@ -1704,6 +1704,7 @@ amitroles
 amity
 ammines
 ammocete
+ammonals
 ammonia
 ammoniating
 ammoniation
@@ -2969,6 +2970,7 @@ ardency
 ardour
 ardours
 arduousness
+arduousnesses
 are
 area
 areally
@@ -7339,6 +7341,7 @@ brutified
 brutifies
 brutify
 brutish
+brutishly
 bruts
 brux
 bruxed
@@ -7735,6 +7738,7 @@ bustles
 bustline
 bustlingly
 busulfan
+busy
 busying
 busyness
 busynesses
@@ -8616,6 +8620,7 @@ caressively
 caretake
 caretaker
 caretakers
+caretakings
 carets
 carex
 carfuls
@@ -10873,6 +10878,7 @@ cockloft
 cockney
 cockneyfying
 cockpits
+cockscombs
 cocksfoots
 cockshuts
 cockspurs
@@ -11848,6 +11854,7 @@ confederal
 confederated
 conferees
 conferencing
+conferential
 conferments
 conferral
 conferrals
@@ -13436,6 +13443,7 @@ criterions
 critical
 criticalities
 criticaster
+criticise
 criticisms
 criticizer
 criticizing
@@ -16585,6 +16593,7 @@ disc
 discants
 discarder
 discarding
+discards
 discase
 discases
 discepting
@@ -17690,6 +17699,7 @@ dragooning
 dragsters
 dragstrip
 drails
+drain
 drainable
 drainage
 drained
@@ -18863,6 +18873,7 @@ embellisher
 embellishing
 embezzle
 embezzled
+embezzlements
 embezzler
 embezzles
 embezzling
@@ -24407,6 +24418,7 @@ geotaxis
 geotectonically
 geothermally
 geotropism
+gerah
 geraniol
 geraniols
 geranium
@@ -25264,6 +25276,7 @@ gramme
 gramophones
 grampa
 gramps
+grampuses
 grams
 granadilla
 granary
@@ -25490,6 +25503,7 @@ greenstone
 greenstuff
 greenswards
 greenwash
+greenways
 greenwings
 grees
 greet
@@ -25548,6 +25562,7 @@ griminess
 griming
 grimmest
 grin
+grinded
 grindelias
 grinder
 grinding
@@ -27225,6 +27240,7 @@ hila
 hilar
 hilarious
 hilarities
+hilarity
 hillbilly
 hillcrests
 hilled
@@ -27598,6 +27614,7 @@ honeypot
 honeypots
 honeysuckle
 hongies
+hongiing
 hongs
 honk
 honker
@@ -30001,6 +30018,7 @@ instantly
 instantnesses
 instar
 instarred
+instate
 instates
 instead
 instigates
@@ -33382,6 +33400,7 @@ limpidity
 limpidly
 limpkins
 limply
+limpnesses
 limuli
 lin
 linable
@@ -33670,6 +33689,7 @@ lobotomies
 lobotomise
 lobotomises
 lobotomising
+lobotomizes
 lobs
 lobster
 lobsterer
@@ -39962,6 +39982,7 @@ obnoxiousness
 obnubilated
 obnubilates
 oboe
+oboist
 oboists
 obscene
 obscener
@@ -44926,6 +44947,7 @@ plenteousness
 plenties
 plentifully
 plentifulnesses
+plentitude
 plentitudes
 plenty
 plenums
@@ -45048,6 +45070,7 @@ plushes
 plushier
 plushily
 plushiness
+plushnesses
 plushy
 plutei
 plutocracies
@@ -46022,6 +46045,7 @@ predictable
 predicting
 prediction
 predictions
+predigested
 predigesting
 predilection
 predilections
@@ -46778,6 +46802,7 @@ profiles
 profiling
 profitabilities
 profitability
+profitable
 profitably
 profiter
 profiteroles
@@ -51543,6 +51568,7 @@ rime
 rimer
 rimester
 rimesters
+rimier
 rimiest
 riminess
 riming
@@ -53417,6 +53443,7 @@ scumbags
 scumbled
 scumbles
 scumless
+scumlike
 scums
 scungilli
 scunnered
@@ -54585,6 +54612,7 @@ shojis
 shone
 shook
 shool
+shoon
 shootdown
 shooter
 shooting
@@ -57842,6 +57870,7 @@ stopes
 stoplight
 stopoff
 stopover
+stoppage
 stopped
 stopple
 stoppling
@@ -58096,6 +58125,7 @@ strobili
 stroboscopes
 strode
 stroker
+strokes
 stroll
 strollers
 stromata
@@ -58300,6 +58330,7 @@ subcategorize
 subcategorized
 subcategory
 subcavities
+subceiling
 subceilings
 subcell
 subcentral
@@ -60673,6 +60704,7 @@ tentacled
 tentage
 tentative
 tentered
+tenterhook
 tenthly
 tentie
 tentier
@@ -62221,6 +62253,7 @@ transferred
 transferrers
 transferring
 transfers
+transfix
 transfixed
 transfixion
 transformations
@@ -67694,6 +67727,7 @@ woolgatherer
 woolgatherers
 woolgatherings
 woolhat
+woolhats
 woolier
 woollen
 woollier
@@ -67791,6 +67825,7 @@ worsets
 worship
 worshiper
 worshipfully
+worshiping
 worshipless
 worshipper
 worsteds
