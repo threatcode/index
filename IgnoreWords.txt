@@ -296,6 +296,7 @@ acetyls
 achalasia
 achalasias
 ache
+ached
 achenial
 achievable
 achievers
@@ -2637,6 +2638,7 @@ apologised
 apologising
 apologized
 apologizer
+apologizing
 apologues
 apology
 apolune
@@ -6271,6 +6273,7 @@ bluishnesses
 blume
 blumes
 bluming
+blunderbuss
 blunderbusses
 blunderers
 blunge
@@ -7696,6 +7699,7 @@ bushgoat
 bushier
 bushinesses
 bushings
+bushless
 bushmaster
 bushpigs
 bushrangings
@@ -12163,6 +12167,7 @@ containerized
 containerizes
 containerless
 containerships
+containing
 contaminates
 contaminating
 contaminative
@@ -12557,6 +12562,7 @@ coreligionist
 corepressor
 corequisite
 corer
+cores
 coresearchers
 coresidents
 corgi
@@ -13092,6 +13098,7 @@ cowbird
 cowboy
 cowboyed
 cowboys
+cowed
 cowers
 cowfish
 cowflaps
@@ -13567,6 +13574,7 @@ crucifixions
 crucify
 cruck
 crudded
+cruddier
 crudding
 cruddy
 crudely
@@ -14522,6 +14530,7 @@ dearths
 deashing
 death
 deathbed
+deathblow
 deathcups
 deathlessly
 deathlessness
@@ -22691,6 +22700,7 @@ foetal
 foetor
 fogbows
 fogey
+fogeyisms
 fogfruit
 foggier
 foggiest
@@ -24439,6 +24449,7 @@ germicides
 germier
 germinability
 germinally
+germinate
 germinated
 germinating
 germlike
@@ -27330,6 +27341,7 @@ histolysis
 histones
 histopathologic
 histopathology
+histoplasmoses
 historically
 historicism
 historicize
@@ -27416,6 +27428,7 @@ hogshead
 hogtied
 hogtieing
 hogties
+hogwash
 hogwashes
 hogweed
 hogweeds
@@ -27649,6 +27662,7 @@ hoodooism
 hoodooisms
 hoods
 hoodwinkers
+hoody
 hoofers
 hooflike
 hoofprint
@@ -27934,6 +27948,7 @@ hulloas
 hulloos
 hum
 humaneness
+humaner
 humanised
 humanises
 humanising
@@ -31459,6 +31474,7 @@ juggles
 juggling
 jughead
 jugheads
+jugsful
 jugula
 jugulates
 jugulating
@@ -33910,6 +33926,7 @@ loosing
 looted
 looting
 lop
+loper
 lopers
 lopped
 loppering
@@ -37998,6 +38015,7 @@ mutilator
 mutine
 mutines
 mutining
+mutinying
 mutisms
 mutter
 muttonchops
@@ -38992,6 +39010,7 @@ nomadic
 nomads
 nomarch
 nomarchy
+nomas
 nombles
 nombrils
 nomen
@@ -39984,6 +40003,7 @@ obnubilates
 oboe
 oboist
 oboists
+obole
 obscene
 obscener
 obscenest
@@ -43477,6 +43497,7 @@ perceived
 perceiver
 perceivers
 perceives
+percentiles
 perceptibly
 perceptional
 perceptiveness
@@ -43563,6 +43584,7 @@ peridium
 peridotic
 peridotite
 peridotitic
+perigeal
 perigean
 perigynies
 perihelion
@@ -49553,6 +49575,7 @@ refenced
 refereed
 reference
 referenced
+references
 referendums
 referentiality
 referents
@@ -49594,6 +49617,7 @@ reflectivities
 reflectometer
 reflectometries
 reflectorizing
+reflew
 reflex
 reflexing
 reflexiveness
@@ -50774,6 +50798,7 @@ resittings
 resituated
 resizes
 resizing
+resketched
 reslate
 reslated
 resmelted
@@ -52743,6 +52768,7 @@ sarsaparillas
 sarsenet
 sarsnet
 sartor
+sartorially
 sartors
 sashaying
 sashed
@@ -56460,6 +56486,7 @@ southpaws
 southron
 southwards
 southwest
+southwesterly
 souvlaki
 sovereigns
 sovereignty
@@ -58876,6 +58903,7 @@ sulkily
 sulkinesses
 sulks
 sullage
+sullages
 sullen
 sullener
 sulliable
@@ -59948,6 +59976,7 @@ tacking
 tacks
 tacnodes
 taconites
+tacrine
 tactfulness
 tactical
 tactically
@@ -60715,6 +60744,7 @@ tents
 tenues
 tenuity
 tenuous
+tenuously
 tenurable
 tenure
 tenured
@@ -60807,6 +60837,7 @@ terrariums
 terrases
 terreen
 terrenes
+terreplein
 terrestrials
 terret
 terrible
@@ -61476,6 +61507,7 @@ tiles
 tiling
 tilings
 till
+tillandsia
 tiller
 tillered
 tillite
@@ -62799,6 +62831,7 @@ trompe
 tromped
 trompes
 tromping
+trone
 troop
 troopial
 troopials
@@ -63769,6 +63802,7 @@ unclarities
 unclarity
 unclasp
 unclasped
+unclassical
 uncle
 uncleaner
 uncleanest
@@ -64865,6 +64899,7 @@ unsuccessful
 unsuccessfully
 unsuitably
 unsuited
+unsullied
 unsupportable
 unsure
 unsurely
