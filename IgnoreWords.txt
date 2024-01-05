@@ -3275,6 +3275,7 @@ asked
 asker
 askoi
 aslant
+asleep
 aslosh
 asparagus
 aspartate
@@ -7130,6 +7131,7 @@ brickle
 bricks
 brickworks
 brickyards
+bridals
 bride
 bridged
 bridgework
@@ -7217,6 +7219,7 @@ broadcaster
 broaden
 broadener
 broadening
+broadleaf
 broadleaves
 broadlooms
 broadly
@@ -8493,6 +8496,7 @@ capstans
 capstone
 capsular
 capsulate
+capsulated
 capsulize
 capsulizing
 captain
@@ -14453,6 +14457,7 @@ darksome
 darky
 darling
 darlingness
+darlingnesses
 darlings
 darnations
 darndest
@@ -15204,6 +15209,7 @@ delegable
 delegatee
 delegatees
 delegating
+delegator
 deleted
 deletes
 deletion
@@ -15652,6 +15658,7 @@ deregulations
 derelict
 dereliction
 derepress
+deride
 deriding
 deringers
 derisible
@@ -16063,6 +16070,7 @@ dexter
 dexterity
 dexterous
 dexterousnesses
+dextral
 dextrally
 dextran
 dextranase
@@ -17712,6 +17720,7 @@ dowelling
 dowered
 dowering
 dowers
+dowing
 downbeat
 downbeats
 downburst
@@ -18215,6 +18224,7 @@ dunks
 dunlins
 dunnages
 dunned
+dunner
 dunnite
 duodenal
 duolog
@@ -19197,6 +19207,7 @@ emulated
 emulates
 emulating
 emulative
+emulators
 emulousness
 emulsifiable
 emulsifier
@@ -20048,6 +20059,7 @@ eringo
 eriophyids
 eristic
 eristical
+ermine
 erne
 erodable
 erodible
@@ -21054,6 +21066,7 @@ extortioners
 extortive
 extra
 extracellular
+extracellularly
 extract
 extracting
 extractions
@@ -21212,6 +21225,7 @@ facsimileing
 fact
 faction
 factional
+factionalism
 factionalisms
 factionally
 factiously
@@ -22382,6 +22396,7 @@ flanging
 flank
 flanked
 flanken
+flanker
 flanks
 flannel
 flannelette
@@ -24960,12 +24975,14 @@ globate
 globe
 globed
 globefish
+globeflowers
 globes
 globetrots
 globetrotted
 globing
 globoids
 globose
+globosity
 globulars
 globule
 globules
@@ -26503,6 +26520,7 @@ hangmen
 hangnails
 hangout
 hangovers
+hangups
 hankered
 hankerer
 hankers
@@ -28756,6 +28774,7 @@ ignobility
 ignoble
 ignoblenesses
 ignobly
+ignominious
 ignominiousness
 ignominy
 ignoramuses
@@ -35115,6 +35134,7 @@ marcelling
 marcels
 marchen
 marcher
+marchers
 marching
 marchioness
 marchland
@@ -36440,6 +36460,7 @@ milliampere
 millibar
 millicuries
 millieme
+milligal
 milligals
 millihenry
 millilux
@@ -40340,6 +40361,7 @@ obtruders
 obtrusive
 obturated
 obturating
+obturations
 obturators
 obtuse
 obtusely
@@ -42795,6 +42817,7 @@ panoplies
 panoptic
 panorama
 panoramas
+panoramic
 pansexuals
 pansophic
 pansophy
@@ -43951,6 +43974,7 @@ permeate
 permeates
 permillage
 permissibleness
+permissibly
 permissions
 permits
 permitted
@@ -46456,6 +46480,7 @@ preflight
 preflights
 prefocused
 preform
+preformation
 preformationist
 preformats
 preformed
@@ -50112,6 +50137,7 @@ regluing
 regnal
 regnancy
 regnum
+regorge
 regorges
 regorging
 regosol
@@ -58508,6 +58534,7 @@ strikebound
 strikebreakers
 strikebreakings
 strikeouts
+strikeovers
 strikes
 strikingly
 stringcourses
@@ -58582,6 +58609,7 @@ strucken
 structural
 structuralism
 structuralizes
+structurally
 structurations
 structured
 strudel
@@ -59150,6 +59178,7 @@ succession
 successional
 successionally
 successively
+succinate
 succinates
 succinctly
 succinctness
@@ -61087,6 +61116,7 @@ tenail
 tenancies
 tenant
 tenantless
+tenants
 tend
 tendances
 tenderization
@@ -62428,6 +62458,7 @@ touchbacks
 touchdowns
 touche
 toucher
+touchhole
 touchholes
 touchiest
 touchingly
@@ -63570,6 +63601,7 @@ turmeric
 turmoiled
 turmoils
 turnabout
+turnabouts
 turnbuckles
 turncoats
 turndown
@@ -63963,6 +63995,7 @@ unabetted
 unabiding
 unabraded
 unabusive
+unacademic
 unacademically
 unacceptability
 unaccommodated
@@ -66003,6 +66036,7 @@ varicosis
 varicosities
 variedly
 variegator
+varier
 varietal
 varieties
 variety
@@ -67001,6 +67035,7 @@ walkers
 walking
 walkouts
 walkovers
+walkup
 walkups
 walkway
 walkyries
