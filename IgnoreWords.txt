@@ -521,6 +521,7 @@ addressee
 addresser
 addressing
 addressor
+addrest
 adduce
 adducent
 adducer
@@ -1381,6 +1382,7 @@ alkylating
 alkyls
 alkynes
 allantoid
+allayed
 allayer
 allaying
 allees
@@ -2162,6 +2164,7 @@ anodynic
 anoint
 anointer
 anointing
+anointment
 anoints
 anoles
 anomalousnesses
@@ -10457,6 +10460,7 @@ clandestinely
 clandestinity
 clang
 clanger
+clangor
 clangorous
 clangorously
 clangors
@@ -16755,6 +16759,7 @@ discerned
 discernible
 discernibly
 discerns
+discharge
 discharged
 dischargers
 discharges
@@ -16962,6 +16967,7 @@ disinfestant
 disinfestation
 disinfested
 disinfesting
+disinflationary
 disinflations
 disinformed
 disinforming
@@ -17302,6 +17308,7 @@ ditto
 dittoing
 ditty
 ditziest
+diureses
 diuretic
 diurnal
 diurnally
@@ -18972,6 +18979,7 @@ elongated
 elongating
 elongation
 elongations
+elopement
 elopers
 eloquences
 els
@@ -19386,6 +19394,7 @@ endives
 endleaves
 endnote
 endobiotic
+endocardium
 endocarp
 endocarps
 endocrine
@@ -20745,6 +20754,7 @@ excogitation
 excommunication
 excommunicative
 excoriation
+excrementitious
 excrescences
 excrescency
 excrete
@@ -21119,6 +21129,7 @@ extortionary
 extortionately
 extortioner
 extortioners
+extortionists
 extortive
 extra
 extracellular
@@ -23270,6 +23281,7 @@ formerly
 formfitting
 formful
 formicaries
+formicas
 formidably
 formless
 formlessness
@@ -25668,6 +25680,7 @@ graveward
 graveyard
 graveyards
 gravid
+gravida
 gravidas
 gravimeter
 gravitates
@@ -25957,6 +25970,7 @@ grubbiness
 grubbing
 grubstake
 grubstakers
+grubstakes
 grubworms
 grudges
 gruel
@@ -26728,6 +26742,7 @@ hartal
 hartals
 hartebeests
 harumphed
+harumphing
 harumphs
 haruspex
 haruspication
@@ -27018,6 +27033,7 @@ heedfulness
 heedless
 heeds
 heehaw
+heehaws
 heel
 heeler
 heelers
@@ -28650,6 +28666,7 @@ hypodiploidies
 hypoed
 hypogean
 hypoglossal
+hypoglossals
 hypoglycemic
 hypoglycemics
 hypogynies
@@ -34256,6 +34273,7 @@ loopily
 loos
 loosed
 loosener
+looseners
 looses
 loosestrife
 loosing
@@ -35267,6 +35285,7 @@ marina
 marinaded
 marinaras
 marinas
+marinate
 marinated
 marination
 marinations
@@ -37469,6 +37488,7 @@ moneys
 moneyworts
 mongered
 mongoes
+mongol
 mongolian
 mongoloids
 mongols
@@ -38946,6 +38966,7 @@ neoplasm
 neoplastic
 neoplasticist
 neoplasticists
+neoplasties
 neoplasty
 neoprene
 neostigmine
@@ -47286,6 +47307,7 @@ proffered
 profferers
 proficiently
 profile
+profiled
 profiles
 profiling
 profitabilities
@@ -48915,6 +48937,7 @@ ramees
 ramekin
 ramen
 ramet
+ramets
 ramie
 ramies
 ramifications
@@ -49676,6 +49699,7 @@ reconveys
 reconvict
 reconvicts
 reconvinced
+reconvincing
 recook
 recooked
 recopied
@@ -51383,6 +51407,7 @@ responsibly
 responsive
 responsiveness
 responsum
+respools
 resprayed
 respraying
 respread
@@ -60108,6 +60133,7 @@ swartness
 swarty
 swashbuckled
 swashing
+swasticas
 swatch
 swatches
 swath
@@ -60149,6 +60175,7 @@ sweepstakes
 sweer
 sweetbread
 sweetened
+sweeteners
 sweetening
 sweetenings
 sweetens
@@ -60897,6 +60924,7 @@ taskwork
 taskworks
 tasseling
 tassels
+tasset
 tassets
 tassies
 tastable
@@ -61755,6 +61783,7 @@ thievishnesses
 thigh
 thighed
 thigmotaxes
+thigmotaxis
 thigmotropism
 thills
 thimbleberries
@@ -62847,6 +62876,7 @@ tranches
 trancing
 trank
 tranks
+tranq
 tranqs
 tranquiler
 tranquilities
@@ -63356,6 +63386,7 @@ triptych
 triptychs
 tripwires
 trireme
+triremes
 trisaccharides
 trisecting
 trisector
@@ -64336,6 +64367,7 @@ unbuilds
 unbulky
 unbundle
 unburdened
+unburdens
 unburned
 unburnt
 unbusted
@@ -64663,6 +64695,7 @@ underprepared
 underpriced
 underprices
 underpricing
+underproof
 underprop
 underpropped
 underrate
@@ -64763,6 +64796,7 @@ undocked
 undoctored
 undoes
 undogmatically
+undoing
 undomesticated
 undouble
 undoubled
@@ -64972,6 +65006,7 @@ unhesitating
 unhewn
 unhinge
 unhinged
+unhirable
 unhistorical
 unhitched
 unholily
