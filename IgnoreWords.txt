@@ -626,6 +626,7 @@ admonitor
 admonitors
 adnate
 adnexal
+adnoun
 adnouns
 adobe
 adobelike
@@ -2091,6 +2092,7 @@ animuses
 anionic
 anise
 aniseeds
+aniseikonia
 aniseikonic
 anises
 anisettes
@@ -6490,6 +6492,7 @@ bollixed
 bollixing
 bolloxing
 bollworm
+bolo
 bologna
 bolograph
 bolometers
@@ -10860,6 +10863,7 @@ coalifies
 coaling
 coalition
 coalitionist
+coalitionists
 coalitions
 coals
 coalsack
@@ -12709,6 +12713,7 @@ cornfield
 cornfields
 cornflowers
 cornhusk
+cornhuskings
 cornhusks
 corniche
 corniches
@@ -13199,6 +13204,7 @@ cowages
 cowardices
 cowards
 cowbane
+cowbinds
 cowbird
 cowboy
 cowboyed
@@ -13539,6 +13545,7 @@ crises
 crisis
 crisp
 crispbread
+crisped
 crispen
 crispening
 crispens
@@ -15259,6 +15266,7 @@ delimes
 delimit
 delimited
 delimiters
+delimits
 delineated
 delineative
 delineator
@@ -15593,6 +15601,7 @@ depolishes
 depolishing
 depoliticizing
 depolymerize
+depone
 deponent
 depones
 depopulate
@@ -18169,6 +18178,7 @@ duelers
 duelists
 duelli
 duellists
+duello
 duels
 duendes
 dues
@@ -18258,6 +18268,7 @@ dunnages
 dunned
 dunner
 dunnite
+duodecillion
 duodenal
 duolog
 duologues
@@ -20474,6 +20485,7 @@ euroky
 europium
 eurybaths
 euryhaline
+euryoky
 eurythermal
 eurythmic
 eurythmies
@@ -22527,6 +22539,7 @@ flavine
 flavones
 flavoprotein
 flavorful
+flavorist
 flavorists
 flavory
 flavoured
@@ -26346,6 +26359,7 @@ hahs
 haika
 haiks
 haikus
+hailers
 hails
 hailstones
 hailstorm
@@ -27058,6 +27072,7 @@ helicopter
 helicoptered
 helicoptering
 helicopters
+helicopting
 helicopts
 helio
 heliocentric
@@ -28198,6 +28213,7 @@ hullo
 hulloaed
 hulloas
 hulloos
+hulls
 hum
 humaneness
 humaner
@@ -28902,6 +28918,7 @@ illuviations
 illy
 ilmenite
 ilmenites
+imageable
 imaged
 imager
 imageries
@@ -30922,6 +30939,7 @@ investigative
 investigator
 investment
 investments
+investors
 inveterately
 inviably
 invidious
@@ -31684,6 +31702,7 @@ jolters
 joltiest
 joltingly
 jomon
+jones
 jonnycake
 jonnycakes
 jorams
@@ -32561,6 +32580,7 @@ labelable
 labelers
 labellate
 labellers
+labialities
 labialized
 labializing
 labially
@@ -33778,6 +33798,7 @@ lintels
 linter
 linters
 lintier
+lints
 lintwhite
 linty
 linums
@@ -35472,6 +35493,7 @@ mattedly
 mattered
 mattes
 mattin
+mattins
 mattrass
 mattress
 mature
@@ -38609,6 +38631,7 @@ narcotized
 narcotizing
 nardine
 nards
+narial
 narine
 narks
 narky
@@ -42579,6 +42602,7 @@ pacey
 pachas
 pachinko
 pachisi
+pachouli
 pachoulis
 pachyderm
 pachyderms
@@ -42759,6 +42783,7 @@ palletize
 palletizing
 pallets
 pallial
+palliasses
 palliating
 palliations
 palliator
@@ -44388,6 +44413,7 @@ philistia
 philistias
 philistine
 philistines
+philistinism
 philistinisms
 philological
 philologically
@@ -51407,6 +51433,7 @@ result
 resultant
 resulted
 resultless
+results
 resumable
 resume
 resumed
@@ -52124,6 +52151,7 @@ risible
 risibly
 risings
 riskers
+riskier
 riskily
 risks
 risotto
@@ -54537,6 +54565,7 @@ sequency
 sequestered
 sequestra
 sequestrated
+sequestration
 sequestrations
 sequining
 sequins
@@ -58186,6 +58215,7 @@ stey
 sthenic
 stibine
 stibines
+stibnites
 stichomythias
 stichomythic
 stichomythies
@@ -59317,6 +59347,7 @@ sudoral
 sudorific
 sudorifics
 sudors
+sudsed
 sudser
 sudsers
 sudses
@@ -61152,6 +61183,7 @@ tellurized
 tellurizing
 tellurous
 telly
+tellys
 telneting
 telnets
 telnetting
@@ -62067,6 +62099,7 @@ timeliness
 timelinesses
 timeously
 timepiece
+timepieces
 timesaver
 timeserving
 timeservings
@@ -66815,6 +66848,7 @@ vittled
 vituline
 vituperating
 vituperative
+vituperatively
 vituperatory
 vivace
 vivacious
@@ -66919,6 +66953,7 @@ voluntarinesses
 voluntarist
 voluntaristic
 voluntaryism
+volunteered
 volunteering
 volunteerism
 volunteers
