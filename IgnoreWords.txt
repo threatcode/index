@@ -3560,6 +3560,7 @@ atlases
 atmans
 atmas
 atmometer
+atmometers
 atmosphere
 atmospherically
 atmospherics
@@ -5035,6 +5036,7 @@ bedsides
 bedsit
 bedsits
 bedsonias
+bedspring
 bedstand
 bedstands
 bedstead
@@ -5569,6 +5571,7 @@ bibber
 bibelot
 bible
 bibless
+biblical
 biblicist
 bibliographic
 bibliography
@@ -7243,6 +7246,7 @@ briefcase
 briefcases
 briefing
 briefings
+briefly
 briefs
 brier
 brierroot
@@ -7307,6 +7311,7 @@ britskas
 britt
 brittanias
 brittle
+brittlely
 brittler
 brittling
 brittly
@@ -9371,6 +9376,7 @@ centums
 centupled
 centuples
 centurial
+centuries
 ceorl
 cepes
 cephalexin
@@ -9420,6 +9426,7 @@ cermets
 cero
 cerotic
 cerotypes
+certainest
 certainties
 certainty
 certes
@@ -15778,6 +15785,7 @@ depopulations
 deportation
 deportations
 deporter
+deporters
 deportments
 deposals
 deposed
@@ -19885,6 +19893,7 @@ entablature
 entail
 entailer
 entailing
+entamebae
 entamoeba
 entangled
 entanglement
@@ -21888,6 +21897,7 @@ favoritism
 favourer
 favourers
 favouring
+favus
 fawn
 fawniest
 fawns
@@ -23208,6 +23218,7 @@ folksily
 folksingings
 folksy
 folktale
+folkway
 folkways
 folky
 follicle
@@ -23633,6 +23644,7 @@ foveole
 foveoles
 fowlings
 fowls
+foxfire
 foxgloves
 foxhole
 foxhound
@@ -23870,6 +23882,7 @@ frigidity
 frigidly
 frijol
 frijole
+frilled
 fringe
 fringier
 frisbees
@@ -25223,6 +25236,7 @@ glassiest
 glassine
 glassines
 glassinesses
+glassing
 glassless
 glassmakers
 glassmakings
@@ -25889,6 +25903,7 @@ granuloses
 granulosis
 granum
 grapes
+graphed
 grapheme
 graphemes
 graphic
@@ -27928,6 +27943,7 @@ histoplasmoses
 historically
 historicism
 historicize
+historicized
 historicizes
 historicizing
 histories
@@ -28178,6 +28194,7 @@ homophone
 homophones
 homophonic
 homophonies
+homophony
 homophyly
 homoplasies
 homopolar
@@ -30240,6 +30257,7 @@ infantine
 infantries
 infantry
 infarct
+infarcted
 infarctions
 infarcts
 infares
@@ -32427,6 +32445,7 @@ kennelling
 kennels
 kenning
 kennings
+keno
 kenos
 kenspeckle
 kent
@@ -33256,6 +33275,7 @@ lanyards
 laogai
 lap
 laparoscope
+laparoscopes
 laparoscopy
 laparotomy
 lapboard
@@ -37942,6 +37962,7 @@ monochromatisms
 monochromats
 monochromic
 monochromists
+monocline
 monoclines
 monoclinic
 monocotyledon
@@ -41192,6 +41213,7 @@ okapi
 okapis
 okayed
 okaying
+okehs
 okes
 okra
 oldies
@@ -41589,6 +41611,7 @@ orientalize
 orientalizes
 orientalizing
 orientally
+orientate
 orientates
 orientating
 orientation
@@ -42287,6 +42310,7 @@ outtasks
 outthank
 outthanked
 outthanking
+outthanks
 outthieves
 outthrob
 outthrobs
@@ -48154,6 +48178,7 @@ prostyles
 prosy
 protactiniums
 protagonist
+protamin
 protamins
 protatic
 protean
@@ -49759,6 +49784,7 @@ reacquires
 reacquisition
 reacquisitions
 reactants
+reactionaryism
 reactivates
 reactivation
 reactivations
@@ -50990,6 +51016,7 @@ reinspected
 reinspecting
 reinspections
 reinspire
+reinspired
 reinspires
 reinspiring
 reinstallation
@@ -52906,6 +52933,7 @@ rogue
 rogueing
 rogues
 roguish
+roil
 roiled
 roiliest
 roils
@@ -54470,6 +54498,7 @@ screamer
 screech
 screeched
 screechiest
+screechy
 screeding
 screen
 screenable
@@ -55245,6 +55274,7 @@ serialisms
 serialist
 serialize
 serially
+seriated
 seriates
 sericeous
 sericin
@@ -56148,6 +56178,7 @@ siker
 silane
 silanes
 sild
+silencer
 silencers
 silences
 silencing
@@ -58828,6 +58859,7 @@ stereoisomerism
 stereoisomers
 stereological
 stereologically
+stereologies
 stereophonies
 stereophony
 stereopticon
@@ -59456,6 +59488,7 @@ studly
 stuffer
 stuffers
 stuffiest
+stuffily
 stuffing
 stuffings
 stuiver
@@ -60748,6 +60781,7 @@ swampy
 swan
 swanker
 swankest
+swankinesses
 swanking
 swanneries
 swannery
@@ -62559,6 +62593,7 @@ threaded
 threader
 threadier
 threadiest
+threadiness
 threading
 threadlike
 threads
