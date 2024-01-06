@@ -3672,6 +3672,7 @@ attritive
 attritted
 attunement
 attuning
+atween
 atwitter
 atypic
 atypicality
@@ -5823,6 +5824,7 @@ biogeochemical
 biogeochemicals
 biogeographical
 biographers
+biographic
 biographical
 biographically
 bioherm
@@ -8273,6 +8275,7 @@ calvarium
 calves
 calycine
 calycle
+calycles
 calyculi
 calyculus
 calypsos
@@ -9044,6 +9047,7 @@ catalyze
 catalyzed
 catamaran
 catamites
+catamount
 catamounts
 cataphoreses
 cataphoric
@@ -9400,6 +9404,7 @@ ceratoid
 cercis
 cere
 cereal
+cerebra
 cerebral
 cerebrally
 cerebrate
@@ -10399,6 +10404,7 @@ cinquecentos
 cinquefoil
 cions
 cipher
+ciphertext
 ciphonies
 cipollino
 cipollinos
@@ -11900,6 +11906,7 @@ computerphobias
 computes
 comradeliness
 comradelinesses
+comradely
 comraderies
 comsymps
 comte
@@ -12921,6 +12928,7 @@ correctors
 corrects
 correlate
 correlated
+correlational
 correlations
 correlatives
 correlators
@@ -15248,6 +15256,7 @@ defleaing
 defleas
 deflectable
 deflected
+deflecting
 deflections
 deflective
 deflexed
@@ -20716,6 +20725,7 @@ euphoria
 euphoric
 euphorically
 euphuism
+euplastics
 euploid
 euploids
 euploidy
@@ -21346,6 +21356,7 @@ externe
 externes
 exteroceptive
 extinct
+extincted
 extinguished
 extinguishers
 extirpate
@@ -24719,6 +24730,7 @@ gazar
 gaze
 gazeboes
 gazebos
+gazehounds
 gazelles
 gazetteer
 gazpachos
@@ -26145,6 +26157,7 @@ grinded
 grindelias
 grinder
 grinding
+gringas
 grinner
 grinners
 grins
@@ -26459,6 +26472,7 @@ gunfighter
 gunfighting
 gunfire
 gunfires
+gunflint
 gunites
 gunkhole
 gunkholed
@@ -33367,6 +33381,7 @@ larynx
 lasagna
 lasagnas
 lascivious
+lasciviously
 laser
 laserdisc
 laserdisks
@@ -33678,6 +33693,7 @@ legalize
 legalized
 legalizers
 legalizes
+legally
 legatees
 legateship
 legateships
@@ -35314,6 +35330,7 @@ maisonettes
 maist
 maizes
 majestic
+majored
 majority
 majorly
 majuscules
@@ -35732,6 +35749,7 @@ marketings
 markhoor
 markhor
 markhors
+markings
 marksman
 marksmanships
 marksmen
@@ -37561,6 +37579,7 @@ misreferred
 misrelates
 misrelies
 misrendered
+misrendering
 misreport
 misreporting
 misrepresenting
@@ -37884,6 +37903,7 @@ momentariness
 momentarinesses
 momentousnesses
 moments
+momentum
 momes
 momi
 momism
@@ -38312,6 +38332,7 @@ motherliness
 motherly
 mothery
 mothlike
+mothproofed
 mothproofer
 moths
 mothy
@@ -42179,6 +42200,7 @@ outraced
 outraces
 outrageously
 outrageousness
+outrages
 outraised
 outrance
 outrange
@@ -48331,6 +48353,7 @@ provocativeness
 provoker
 provokes
 provokingly
+provolones
 provost
 provosts
 prowess
@@ -52306,6 +52329,7 @@ retroversion
 retry
 retsina
 retting
+retune
 retuned
 returnables
 returned
@@ -56094,6 +56118,7 @@ sidecheck
 sidehill
 sidekick
 sidelights
+sidelined
 sidelines
 sideling
 sidelining
@@ -56237,6 +56262,7 @@ sillabubs
 siller
 sillier
 sillimanites
+siloed
 siloxanes
 silt
 siltations
@@ -56397,6 +56423,7 @@ sires
 sirloin
 sirloins
 sirra
+sirree
 sirrees
 sirup
 siruped
@@ -57427,6 +57454,7 @@ soleplate
 soleprints
 solerets
 solfataras
+solfeggio
 solgel
 soli
 solicited
@@ -58317,6 +58345,7 @@ spotlights
 spotlit
 spottable
 spotted
+spotters
 spottinesses
 spousals
 spoused
@@ -58331,6 +58360,7 @@ sprattle
 sprattling
 sprawler
 sprawlers
+sprawlier
 sprawling
 sprawls
 sprayer
@@ -60781,6 +60811,7 @@ svaraj
 svedbergs
 sveltely
 swabbed
+swabber
 swabbers
 swabbie
 swaddle
@@ -64429,6 +64460,7 @@ tug
 tugboat
 tugger
 tuggers
+tughrik
 tugless
 tugrik
 tuille
@@ -67751,6 +67783,7 @@ vocatives
 vociferant
 vociferates
 vociferation
+vociferators
 vociferously
 vocoders
 vodou
@@ -68533,6 +68566,7 @@ wend
 wendigos
 wends
 wenny
+wentletraps
 weregild
 wergeld
 wergild
@@ -69122,6 +69156,7 @@ withstanding
 witing
 witlessly
 witlessnesses
+witling
 witloof
 witloofs
 witness
