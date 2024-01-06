@@ -136,6 +136,7 @@ acacia
 academia
 academical
 academically
+academicians
 academicisms
 academics
 academies
@@ -3616,6 +3617,7 @@ attenuating
 attenuations
 attestation
 attestors
+attic
 atticism
 atticisms
 atticize
@@ -5293,6 +5295,7 @@ beneficiate
 beneficiates
 beneficiating
 beneficiation
+beneficiations
 beneficing
 benefiter
 benefiters
@@ -14811,6 +14814,7 @@ debtors
 debug
 debugged
 debugs
+debunk
 debunkers
 debunking
 debuted
@@ -17789,6 +17793,7 @@ doronicums
 dorp
 dorper
 dorpers
+dorrs
 dorsa
 dorsally
 dorsals
@@ -19103,6 +19108,7 @@ eloigned
 eloigner
 eloigners
 eloin
+eloiner
 eloiners
 elongated
 elongating
@@ -20704,6 +20710,7 @@ eventfulness
 eventides
 eventless
 eventually
+eventuate
 eventuates
 everblooming
 everduring
@@ -21676,6 +21683,7 @@ farmhouse
 farmhouses
 farmwife
 farmwives
+farmworker
 farmworks
 farnesses
 faro
@@ -24221,6 +24229,7 @@ gaged
 gaggers
 gaggle
 gagmen
+gaieties
 gaillardias
 gainfulness
 gainfulnesses
@@ -24742,6 +24751,7 @@ genteeler
 genteelest
 genteelisms
 genteelness
+gentians
 gentil
 gentiles
 gentilesse
@@ -27024,6 +27034,7 @@ hayings
 haylage
 haylages
 hayloft
+haymow
 hayrides
 hays
 hayseeds
@@ -29721,6 +29732,7 @@ incognizances
 incogs
 incoherence
 incombustible
+incomers
 incomes
 incoming
 incommode
@@ -30126,6 +30138,7 @@ infarcts
 infares
 infatuates
 infatuation
+infeasible
 infect
 infection
 infectious
@@ -32255,6 +32268,7 @@ kecking
 keddahs
 kedgeree
 keefs
+keek
 keeked
 keeking
 keeks
@@ -33005,6 +33019,7 @@ lamella
 lamellate
 lamellately
 lamellibranchs
+lamelliform
 lamentable
 lamentableness
 lamentably
@@ -34793,6 +34808,7 @@ lush
 lushes
 lushest
 lushly
+lusters
 lusterwares
 lustful
 lustfully
@@ -34838,6 +34854,7 @@ luxuriant
 luxuriate
 luxuriated
 luxury
+lyard
 lyase
 lycanthropies
 lycea
@@ -39114,6 +39131,7 @@ necrose
 necrosing
 necrosis
 necrotomies
+nectar
 nectarial
 nectarine
 nectarous
@@ -47876,6 +47894,7 @@ propylic
 propylon
 prorating
 prorations
+prorogate
 prorogated
 prorogating
 prorogation
@@ -52484,6 +52503,7 @@ rimland
 rimless
 rimmed
 rimmer
+rimosely
 rimosities
 rimous
 rimpled
@@ -53082,6 +53102,7 @@ runarounds
 runaway
 runback
 rundlet
+rundown
 runelike
 runes
 rungless
@@ -55100,6 +55121,7 @@ setal
 setback
 setenant
 setiform
+setline
 setout
 settings
 settleable
@@ -55623,6 +55645,7 @@ shorthands
 shortheads
 shorthorn
 shortie
+shortlist
 shortlisted
 shortlisting
 shortlists
@@ -55881,6 +55904,7 @@ signalises
 signalizations
 signalize
 signalizing
+signaller
 signalling
 signally
 signalman
@@ -56477,6 +56501,7 @@ slenderly
 sleuth
 sleuthhounds
 slewing
+slicers
 slicing
 slickened
 slickeners
@@ -56583,6 +56608,7 @@ slothfulnesses
 slotted
 slouch
 slouches
+slouchiest
 slouchiness
 slouchinesses
 slough
@@ -58415,6 +58441,7 @@ statelessnesses
 stateliness
 statelinesses
 stately
+staterooms
 staters
 states
 stateside
@@ -61760,6 +61787,7 @@ tensilely
 tensilities
 tension
 tensioners
+tensive
 tensor
 tensors
 tentacle
@@ -62384,6 +62412,7 @@ throwaways
 thrower
 throws
 thrummer
+thrummier
 thrums
 thruput
 thrusted
@@ -62934,6 +62963,7 @@ topkick
 topless
 toplines
 toploftiness
+toploftinesses
 toplofty
 topmasts
 topmost
@@ -63424,6 +63454,7 @@ transponders
 transpontine
 transportation
 transported
+transports
 transposed
 transposes
 transposing
@@ -63490,6 +63521,7 @@ travelers
 traveling
 traveller
 travelling
+travelogue
 traversal
 traversers
 traverses
@@ -64993,6 +65025,7 @@ unctions
 uncultivable
 uncultured
 uncurable
+uncurbing
 uncured
 uncurl
 uncurrent
@@ -67069,6 +67102,7 @@ viaduct
 vial
 vialling
 viands
+viatic
 viatica
 viatical
 viaticums
@@ -67111,6 +67145,7 @@ victimhoods
 victimise
 victimising
 victimologists
+victor
 victorious
 victory
 victual
