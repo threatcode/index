@@ -3664,6 +3664,7 @@ audiotapes
 audiphone
 audiphones
 auditable
+auditees
 audition
 auditioned
 auditioning
@@ -5515,6 +5516,7 @@ biblicist
 bibliographic
 bibliography
 bibliolaters
+bibliolatries
 bibliolatrous
 bibliologies
 bibliomaniacs
@@ -7189,6 +7191,7 @@ brightening
 brightens
 brightest
 brightly
+brights
 brightwork
 brilliances
 brilliancies
@@ -8022,6 +8025,7 @@ caffein
 caffeine
 caffeines
 caffeins
+caftaned
 cagelike
 cageling
 cager
@@ -13885,6 +13889,7 @@ cullied
 cullion
 cullions
 cullis
+cullises
 culls
 cullying
 culm
@@ -14150,6 +14155,7 @@ cyanides
 cyaniding
 cyanids
 cyanine
+cyanitic
 cyanoacrylate
 cyanoethylated
 cyanoethylating
@@ -14382,6 +14388,7 @@ dairymaids
 dairymen
 daises
 daishikis
+daisy
 dakerhen
 dakerhens
 dakoit
@@ -15236,6 +15243,7 @@ dejection
 dejections
 dejects
 dejeuner
+dekagram
 dekaliters
 dekalitre
 dekameter
@@ -15948,6 +15956,7 @@ deteriorating
 deterioration
 deteriorations
 deteriorative
+determent
 determents
 determinable
 determinably
@@ -16539,6 +16548,7 @@ dimwitted
 din
 dindles
 dineric
+dineros
 dinettes
 ding
 dingbats
@@ -16966,6 +16976,7 @@ dishiest
 dishonest
 dishonesty
 dishonorer
+dishpans
 dishtowel
 dishwares
 dishwashers
@@ -19246,6 +19257,7 @@ emphasis
 emphasise
 emphasize
 emphasized
+emphasizes
 emphatically
 emphysema
 emphysemas
@@ -25394,6 +25406,7 @@ gonorrhea
 good
 goodish
 goodlier
+goodly
 goodman
 goodmen
 goods
@@ -28178,6 +28191,7 @@ hound
 hour
 hourglasses
 houris
+hourlies
 house
 houseboat
 houseboats
@@ -28869,6 +28883,7 @@ idiotisms
 idiotype
 idiotypic
 idle
+idleness
 idlenesses
 idler
 idles
@@ -30080,6 +30095,7 @@ ingeniousnesses
 ingenuity
 ingenuous
 ingenuousness
+ingenuousnesses
 ingesta
 ingested
 ingestible
@@ -30830,6 +30846,7 @@ intitling
 intitule
 intituled
 intituling
+into
 intolerable
 intolerably
 intolerances
@@ -33951,6 +33968,7 @@ listenerships
 listening
 lister
 listeria
+listerias
 listerioses
 listers
 listless
@@ -38274,6 +38292,7 @@ multitudinously
 multiunion
 multiuse
 multiuser
+multivalence
 multivalences
 multiversities
 multivitamin
@@ -38336,6 +38355,7 @@ muras
 murder
 murdered
 murderee
+murderess
 murdering
 murderousnesses
 murders
@@ -40052,6 +40072,7 @@ nonzero
 noodge
 noodging
 noodle
+noodled
 noogie
 nooks
 nooky
@@ -40137,6 +40158,7 @@ notates
 notational
 notched
 notcher
+notchers
 notebooks
 noted
 notedly
@@ -40933,6 +40955,7 @@ oologies
 oologist
 oologists
 oolong
+oolongs
 oomiack
 oompahing
 oophorectomy
@@ -43270,6 +43293,7 @@ parlously
 parmesan
 parmigiana
 parmigiano
+parochial
 parochialisms
 parodical
 parodied
@@ -43961,6 +43985,7 @@ peponida
 peponidas
 peponiums
 pepos
+pepper
 pepperbox
 pepperiness
 pepperinesses
@@ -46848,6 +46873,7 @@ prepotency
 preppier
 preppiest
 prepregs
+prepricing
 preprimaries
 preprimary
 preprinted
@@ -50265,6 +50291,7 @@ refuging
 refugium
 refulgence
 refulgent
+refund
 refunded
 refunder
 refunding
@@ -54331,6 +54358,7 @@ segmentary
 segmented
 segmenting
 segments
+segno
 segnos
 segregant
 segs
@@ -55587,6 +55615,7 @@ signboards
 signed
 signee
 signer
+signers
 signeted
 signets
 significances
@@ -56345,6 +56374,7 @@ slyness
 slypes
 smaller
 smallholders
+smallmouth
 smallmouths
 smallnesses
 smallpox
@@ -57156,6 +57186,7 @@ spa
 spacebands
 spacecrafts
 spaced
+spaceman
 spacemen
 spaceport
 spaceports
@@ -57314,6 +57345,7 @@ speciation
 specific
 specifically
 specificities
+specificity
 specified
 specifier
 specifies
@@ -62249,6 +62281,7 @@ tine
 tineas
 tineids
 tinfoil
+tinful
 tinfuls
 tinge
 tinges
@@ -67047,6 +67080,7 @@ voiceful
 voicelessness
 voicelessnesses
 voiceovers
+voiceprint
 voices
 voicings
 void
@@ -67568,6 +67602,7 @@ waterworn
 waterzoois
 watt
 wattage
+wattapes
 watthour
 wattlebird
 wattless
