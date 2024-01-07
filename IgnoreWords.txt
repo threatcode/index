@@ -996,6 +996,7 @@ agentries
 agents
 ager
 ageratums
+aggadic
 agger
 aggies
 aggiornamento
@@ -3246,6 +3247,7 @@ artificial
 artilleries
 artillerists
 artillery
+artillerymen
 artinesses
 artisan
 artisanships
@@ -3658,6 +3660,7 @@ attitudinising
 attitudinizing
 attorning
 attornments
+attorns
 attract
 attractance
 attractances
@@ -11041,6 +11044,7 @@ coamings
 coanchoring
 coannexed
 coappeared
+coappearing
 coapt
 coaptation
 coapted
@@ -12860,6 +12864,7 @@ corer
 cores
 coresearchers
 coresidents
+corespondents
 corgi
 coriander
 coring
@@ -13529,6 +13534,7 @@ craping
 crapper
 crappier
 crappies
+crapping
 crapshoot
 crapshooters
 crapulent
@@ -16015,6 +16021,7 @@ desertifies
 desertion
 desertions
 deserves
+deserving
 deservings
 desexed
 deshabille
@@ -20998,6 +21005,7 @@ excavate
 excavated
 excavating
 excavations
+excavator
 exceeded
 exceeders
 exceeding
@@ -23648,6 +23656,7 @@ formularies
 formularized
 formulas
 formulating
+formulation
 formulations
 formulists
 formulizes
@@ -24513,6 +24522,7 @@ galops
 galore
 galoshes
 gals
+galumphing
 galvanic
 galvanically
 galvanise
@@ -27670,6 +27680,7 @@ henges
 heniquen
 heniquens
 henley
+henleys
 hennaed
 hennas
 hennery
@@ -31400,6 +31411,7 @@ inulase
 inundant
 inundate
 inundations
+inure
 inured
 inures
 inurn
@@ -31861,6 +31873,7 @@ jackaroo
 jackaroos
 jackboots
 jackdaw
+jackeroo
 jackers
 jackets
 jackfish
@@ -31917,6 +31930,7 @@ jailbird
 jailbreak
 jailbreaks
 jailers
+jailhouse
 jailhouses
 jailors
 jails
@@ -33539,6 +33553,7 @@ lateralization
 lateralized
 lateralizes
 lateralizing
+lateralling
 laterally
 laterites
 laterizations
@@ -34476,6 +34491,7 @@ literalized
 literalnesses
 literarily
 literary
+literate
 literately
 literateness
 literates
@@ -35118,6 +35134,7 @@ lush
 lushes
 lushest
 lushly
+lust
 lusters
 lusterwares
 lustful
@@ -37387,6 +37404,7 @@ misallocation
 misallocations
 misallots
 misallotting
+misally
 misallying
 misandries
 misandry
@@ -37559,6 +37577,7 @@ misfields
 misfile
 misfiles
 misfiling
+misfired
 misfocussed
 misfocussing
 misform
@@ -37584,6 +37603,7 @@ misguidance
 misguide
 misguided
 misguidednesses
+misguiders
 misguides
 misguiding
 mishandle
@@ -42005,6 +42025,7 @@ otalgic
 otalgies
 otalgy
 otherguess
+otherness
 othernesses
 others
 otherwhere
@@ -43797,6 +43818,7 @@ paralyzations
 paralyzers
 paralyzes
 paralyzing
+paralyzingly
 paramagnetism
 paramagnetisms
 paramattas
@@ -44675,6 +44697,7 @@ peptonized
 peptonizes
 peptonizing
 per
+peracids
 perambulations
 perborates
 perceived
@@ -45499,6 +45522,7 @@ picara
 picaresque
 picaresques
 picarooning
+picaros
 picayunes
 picayunish
 piccalilli
@@ -47599,6 +47623,7 @@ prerequisites
 preretirement
 prereturn
 prerevolution
+prerinse
 prerock
 prerogatives
 preromantic
@@ -48133,6 +48158,7 @@ progressivist
 progressivists
 progressivities
 progressivity
+progs
 progun
 prohibitionist
 prohibitionists
@@ -48787,6 +48813,7 @@ pula
 pulchritudes
 pule
 puled
+pulicide
 pulings
 pulis
 pullets
@@ -49551,6 +49578,7 @@ rachis
 rachises
 racialism
 racialist
+racializes
 racially
 racier
 racism
@@ -50717,6 +50745,7 @@ redlined
 redliner
 redlinings
 redly
+rednecked
 redness
 redocks
 redoing
@@ -54139,6 +54168,7 @@ sarcophagi
 sarcophagus
 sarcophaguses
 sarcoplasmic
+sarcoplasms
 sarcosomal
 sarcosome
 sard
@@ -56964,6 +56994,7 @@ sleazily
 sleaziness
 sledder
 sledding
+sledge
 sledged
 sledgehammering
 sledgehammers
@@ -59511,6 +59542,7 @@ strait
 straitened
 straitest
 straitjacketed
+straitnesses
 straked
 strakes
 stramashes
@@ -63315,6 +63347,7 @@ toasts
 tobies
 toboggan
 tobogganer
+tobogganing
 tobogganings
 tobogganist
 toccatas
@@ -66478,6 +66511,7 @@ unsaddle
 unsaddled
 unsaddling
 unsalaried
+unsalted
 unsampled
 unsanctioned
 unsanitary
@@ -69894,6 +69928,7 @@ yatter
 yattering
 yauld
 yaup
+yauper
 yaupers
 yaups
 yautia
