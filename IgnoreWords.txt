@@ -854,6 +854,7 @@ aetiologies
 aetiology
 afar
 afebrile
+aff
 affably
 affair
 affairs
@@ -9260,6 +9261,7 @@ cavitate
 cavitating
 cavitied
 cavorted
+cavorters
 cavy
 caw
 cawing
@@ -12834,12 +12836,14 @@ cordiform
 cordilleran
 cordlike
 cordoba
+cordoned
 cordovans
 cords
 corduroyed
 corduroying
 cordwain
 cordwaineries
+cordwainery
 cordwains
 cordwood
 corecipient
@@ -12865,6 +12869,7 @@ corkiness
 corking
 corklike
 corks
+corkscrews
 corkwoods
 cormel
 cormels
@@ -15191,6 +15196,7 @@ deejay
 deem
 deemed
 deeming
+deepener
 deepfroze
 deepnesses
 deepwater
@@ -21074,6 +21080,7 @@ excursion
 excursionists
 excursions
 excursive
+excursivenesses
 excursus
 excuse
 excuser
@@ -22933,6 +22940,7 @@ fleeces
 fleech
 fleeches
 fleeching
+fleecily
 fleecing
 fleecy
 fleer
@@ -23097,6 +23105,7 @@ flounce
 flounces
 flouncy
 floundering
+flounders
 flour
 flourished
 flourisher
@@ -24560,6 +24569,7 @@ gamma
 gammadia
 gammas
 gammer
+gammier
 gammiest
 gammoner
 gamodemes
@@ -26627,6 +26637,7 @@ guy
 guyots
 guzzle
 guzzled
+guzzles
 gweduc
 gweducks
 gweducs
@@ -27736,6 +27747,7 @@ heriot
 heritabilities
 heritably
 herls
+herma
 hermae
 hermaphrodite
 hermaphrodites
@@ -29122,6 +29134,7 @@ hypogynies
 hypokalemia
 hypokalemias
 hypomanic
+hypomanics
 hypomorph
 hypomorphic
 hyponasties
@@ -31038,6 +31051,7 @@ interglacial
 intergradation
 intergradations
 intergrafting
+intergranular
 interims
 interinfluences
 interinvolve
@@ -31673,6 +31687,7 @@ isatines
 isatinic
 ischaemia
 ischemias
+ischemic
 ischiadic
 ischial
 iseikonia
@@ -32486,6 +32501,7 @@ karmic
 karns
 karoo
 kaross
+karosses
 karroo
 karsts
 kartings
@@ -33876,6 +33892,7 @@ lemmatized
 lemminglike
 lemmings
 lemniscal
+lemniscus
 lemonades
 lemons
 lempiras
@@ -36054,6 +36071,7 @@ materialises
 materialities
 materiality
 materializer
+materializers
 materializes
 materially
 materialness
@@ -37693,9 +37711,11 @@ misreckoned
 misreckons
 misrecord
 misrecorded
+misrecords
 misreference
 misreferences
 misreferred
+misrelate
 misrelates
 misrelies
 misrendered
@@ -38700,6 +38720,7 @@ mulled
 mulleys
 mulligans
 mulligatawnies
+mulling
 mullion
 mullioned
 mullions
@@ -40325,6 +40346,7 @@ nonguilts
 nonhandicapped
 nonhappening
 nonhardy
+nonheme
 nonhemolytic
 nonheroic
 nonhierarchical
@@ -42815,6 +42837,7 @@ overfulfills
 overfull
 overfunded
 overfunding
+overgarment
 overgarments
 overgeneralize
 overgenerosity
@@ -44627,6 +44650,7 @@ peppering
 pepperminty
 pepperonis
 peppers
+peppertree
 peppertrees
 peppiest
 peppily
@@ -48389,6 +48413,7 @@ prosy
 protactiniums
 protagonist
 protamin
+protamine
 protamins
 protatic
 protean
@@ -49085,6 +49110,7 @@ pyramiding
 pyranoid
 pyranoside
 pyrargyrites
+pyrethrin
 pyrethrins
 pyrethroids
 pyrethrums
@@ -51323,6 +51349,7 @@ relaces
 relacquering
 relands
 relandscape
+relandscaped
 relandscapes
 relapsers
 relapses
@@ -57520,6 +57547,7 @@ sobered
 soberizes
 sobers
 sobrieties
+sobriquet
 sobs
 socagers
 socas
@@ -57539,6 +57567,7 @@ socializing
 socially
 societies
 sociobiological
+sociogram
 sociograms
 sociohistorical
 sociolinguists
@@ -61466,6 +61495,7 @@ tabbouleh
 tabboulehs
 tabby
 taber
+tabernacling
 tabernacular
 tabers
 tabes
@@ -64886,6 +64916,7 @@ twas
 twasomes
 twattle
 twattles
+twattling
 tweaks
 tweed
 tweediest
@@ -66164,6 +66195,7 @@ unlashes
 unlawful
 unlawfully
 unlawfulness
+unlead
 unleads
 unlearned
 unlearning
@@ -68331,6 +68363,7 @@ walnut
 walnuts
 walrus
 waltzer
+waltzers
 waltzes
 wambles
 wamblier
@@ -68889,6 +68922,7 @@ wheep
 wheeping
 wheeple
 wheepled
+wheeples
 wheeps
 wheezer
 wheezier
@@ -70166,6 +70200,7 @@ zizzle
 zizzles
 zizzling
 zlote
+zloties
 zlotych
 zlotys
 zoantharian
