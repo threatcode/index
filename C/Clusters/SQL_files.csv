@@ -7,3 +7,12 @@ dbopt.sql,http://web.mit.edu/xavid/Public/debathena-moira-4.0.0%2Bcvs20091116/db
 Source of pgsql.query.time.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.query.time.sql
 geocubo-portable - database-cubito - sqlFiles - datacube_roles.sql,http://www5.inegi.org.mx/cdgm/geocubo-portable/-/blob/459a31df94dfc4f734311512631572d4ea0121d0/database-cubito/sqlFiles/datacube_roles.sql
 Renbehan db.sql ~ My pharmacy online,http://www.renbehan.com/renbehan-db.sql
+Customer Clustering.sql - GitHub,https://github.com/microsoft/sql-server-samples/blob/master/samples/features/r-services/getting-started/customer-clustering/Customer%2520Clustering.sql
+SQLServer-Clustering.sql - GitHub,https://github.com/dotnet/orleans/blob/main/src/AdoNet/Orleans.Clustering.AdoNet/SQLServer-Clustering.sql
+gopalsinghal/Bookdata-tools ... - DagsHub,https://dagshub.com/gopalsinghal/Bookdata-tools/src/649f0129447701a5f7f253d19f0d4b9ba5711509/load-clusters.sql
+SQL benchmark | Terraform GCP Compliance mod | Steampipe Hub,https://hub.steampipe.io/mods/turbot/terraform_gcp_compliance/controls/benchmark.sql
+gcp.project.sqlService | Mondoo Docs,https://docs.mondoo.io/references/mql/gcloud.sql
+http://web.mit.edu/xavid/Public/debathena-moira-4....,http://web.mit.edu/xavid/Public/debathena-moira-4.0.0%2Bcvs20091116/db/dbopt.sql
+Source of pgsql.query.time.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/templates/db/postgresql/postgresql/pgsql.query.time.sql
+MySQL Cluster: scripts/mysql_system_tables_fix.sql - Fossies,https://fossies.org/linux/mysql-cluster-gpl/scripts/mysql_system_tables_fix.sql
+http://anoncvs.postgresql.org/cvsweb.cgi/pgsql/src...,http://anoncvs.postgresql.org/cvsweb.cgi/pgsql/src/test/regress/sql/cluster.sql%3Fr1%3D1.12%26r2%3D1.12.4.1)
