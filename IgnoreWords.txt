@@ -520,6 +520,7 @@ additory
 addled
 addlepated
 addressability
+addressable
 addressed
 addressee
 addresser
@@ -3666,6 +3667,7 @@ attributes
 attribution
 attributional
 attrit
+attrite
 attrited
 attritional
 attritions
@@ -4808,6 +4810,7 @@ battiness
 batting
 battings
 battle
+battlement
 battlers
 battleship
 battleships
@@ -5393,6 +5396,7 @@ beryline
 beryllium
 bescorches
 bescoured
+bescouring
 bescreen
 bescreening
 bescreens
@@ -5961,6 +5965,7 @@ birthnames
 birthplaces
 birthright
 birthroot
+births
 birthstone
 birthwort
 birthworts
@@ -6852,6 +6857,7 @@ bottlenecked
 bottlenecking
 bottler
 bottlers
+bottling
 bottom
 bottomer
 bottomland
@@ -11832,6 +11838,7 @@ complexes
 complexified
 complexities
 complexnesses
+compliancy
 complicated
 complicatedly
 complicatedness
@@ -13395,6 +13402,7 @@ cowslips
 cowy
 coxae
 coxalgia
+coxalgias
 coxalgies
 coxcombic
 coxcombs
@@ -13663,6 +13671,7 @@ cribriform
 cribs
 cricetids
 cricketed
+cricoids
 crier
 criers
 cries
@@ -17288,6 +17297,7 @@ displeases
 displeasure
 disploding
 displumed
+displuming
 disports
 disposability
 disposable
@@ -19839,6 +19849,7 @@ enokidakes
 enokitakes
 enological
 enologies
+enologists
 enols
 enophiles
 enormities
@@ -19890,6 +19901,7 @@ ensiform
 ensign
 ensigncies
 ensigncy
+ensiled
 ensiles
 enskies
 enslaved
@@ -21666,6 +21678,7 @@ fallalery
 fallaways
 fallback
 fallboards
+fallen
 faller
 fallfish
 fallible
@@ -22163,6 +22176,7 @@ ferryboat
 ferryboats
 ferrying
 fertilely
+fertileness
 fertilenesses
 fertilizable
 fertilization
@@ -24637,6 +24651,7 @@ gasifiers
 gasiform
 gasify
 gasket
+gaskets
 gaskins
 gasless
 gaslights
@@ -26129,6 +26144,7 @@ griddled
 griddling
 grided
 gridiron
+gridironing
 gridirons
 gridlocked
 gridlocks
@@ -28471,6 +28487,7 @@ hostels
 hostesses
 hostilities
 hosting
+hostlers
 hotbox
 hotch
 hotchpotches
@@ -28794,6 +28811,7 @@ hydrocrackers
 hydrodynamic
 hydrodynamical
 hydrodynamicist
+hydrogels
 hydrogen
 hydrogenase
 hydrogenates
@@ -33686,6 +33704,7 @@ ledges
 leeboards
 leeched
 leechlike
+leeks
 leeriness
 leering
 lees
@@ -34214,6 +34233,7 @@ linearize
 linearizes
 linearizing
 linebackers
+linebreedings
 linecasting
 linecastings
 lineless
@@ -41692,6 +41712,7 @@ orlon
 orlops
 ormer
 ornaments
+ornate
 ornatenesses
 ornerier
 orneriest
@@ -43155,6 +43176,7 @@ oxlips
 oxtail
 oxter
 oxyacetylene
+oxyacid
 oxyacids
 oxycodone
 oxygenase
@@ -43575,6 +43597,7 @@ papillote
 papisms
 papooses
 papovavirus
+pappadams
 pappi
 pappier
 pappoose
@@ -45818,6 +45841,7 @@ plaid
 plaids
 plainclothesman
 plained
+plainer
 plaining
 plainly
 plainness
@@ -48368,6 +48392,7 @@ provisionary
 provisioned
 provisioner
 provisioners
+provisory
 provisos
 provocateurs
 provocativeness
@@ -52972,6 +52997,7 @@ rocketries
 rocketry
 rockets
 rockfall
+rockfalls
 rockhound
 rockhoundings
 rockhounds
@@ -56971,6 +56997,7 @@ slumberous
 slumbery
 slumgullion
 slumgullions
+slumism
 slumlord
 slummers
 slummiest
@@ -57492,6 +57519,7 @@ solidarism
 solidaristic
 solidarists
 solider
+solidify
 solidifying
 solidity
 solidnesses
@@ -57540,6 +57568,7 @@ solvency
 solvent
 solvently
 solvers
+solvolyses
 solvolysis
 soma
 soman
@@ -57855,6 +57884,7 @@ spaller
 spalling
 spalls
 spalpeen
+spalpeens
 spam
 spambot
 spammed
@@ -63230,6 +63260,7 @@ tomtits
 ton
 tondi
 tonearm
+tonelessness
 toners
 tonetics
 tonette
@@ -64371,6 +64402,7 @@ truckling
 truckloads
 truckman
 truckmen
+trudges
 trueborn
 trueing
 trueness
@@ -66928,6 +66960,7 @@ vacs
 vacuities
 vacuity
 vacuoles
+vacuous
 vacuousness
 vacuums
 vadose
@@ -68572,6 +68605,7 @@ weldment
 weldor
 welfares
 welfarisms
+well
 welladay
 wellaway
 wellaways
@@ -69772,6 +69806,7 @@ you
 youngberries
 youngling
 younglings
+youpon
 youpons
 yourn
 yours
