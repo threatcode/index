@@ -3402,6 +3402,7 @@ assess
 assessable
 assesses
 assessments
+assessor
 asset
 assetless
 asseverates
@@ -3661,6 +3662,7 @@ attitudinal
 attitudinally
 attitudinising
 attitudinizing
+attorneyship
 attorning
 attornments
 attorns
@@ -5277,6 +5279,7 @@ beloved
 beloveds
 below
 belowdecks
+belows
 bels
 belted
 belting
@@ -7058,6 +7061,7 @@ brags
 braid
 braider
 braiders
+braiding
 braids
 brailed
 brailing
@@ -8632,6 +8636,7 @@ caponiers
 caponize
 caponized
 capons
+capouch
 capped
 cappelletti
 capper
@@ -9944,6 +9949,7 @@ chiasmatic
 chiastic
 chiaus
 chiauses
+chibouks
 chica
 chicalotes
 chicaneries
@@ -10389,6 +10395,7 @@ chylous
 chyme
 chymes
 chymosins
+chymotrypsin
 chymotrypsins
 chymous
 chytrid
@@ -14823,6 +14830,7 @@ daysprings
 daystar
 daystars
 daywork
+dayworks
 dazedness
 dazednesses
 dazes
@@ -15210,6 +15218,7 @@ deducted
 deductible
 deductibles
 deduction
+deductions
 deductively
 deeded
 deedier
@@ -17670,6 +17679,7 @@ divulsive
 divvied
 diwan
 dizened
+dizenment
 dizenments
 dizygous
 dizzied
@@ -17704,6 +17714,7 @@ dockmaster
 dockmasters
 docks
 dockside
+docksides
 dockworkers
 dockyard
 doctoral
@@ -18158,6 +18169,7 @@ draggingly
 draggle
 draggled
 draggling
+dragline
 dragoman
 dragon
 dragonet
@@ -21717,6 +21729,7 @@ fainest
 faint
 fainted
 fainter
+faintishnesses
 faints
 fairer
 fairgoers
@@ -22916,6 +22929,7 @@ flatulency
 flatulent
 flatus
 flatuses
+flatware
 flatwash
 flatwashes
 flatways
@@ -30590,6 +30604,7 @@ ingression
 ingressiveness
 inground
 ingroups
+ingrownness
 ingrowth
 ingurgitates
 ingurgitating
@@ -33421,6 +33436,7 @@ landmasses
 landowner
 landownership
 landowning
+landscapes
 landscapists
 landskips
 landsleit
@@ -34040,6 +34056,7 @@ leu
 leucemias
 leucocidin
 leucoplast
+leucoplasts
 leudes
 leukaemias
 leukaemogeneses
@@ -34319,6 +34336,7 @@ limed
 limekiln
 limelight
 limen
+limens
 limericks
 limestone
 limewaters
@@ -36697,6 +36715,7 @@ mesocyclone
 mesoderms
 mesogleal
 mesogleas
+mesogloea
 mesogloeas
 mesomorphs
 mesonephric
@@ -45109,6 +45128,7 @@ petnappers
 petnaps
 petrale
 petrales
+petrification
 petrifications
 petrify
 petrochemistry
@@ -46226,6 +46246,7 @@ pleadingly
 pleads
 pleasantest
 pleasantness
+pleasantry
 pleased
 pleasingly
 pleasingness
@@ -47217,6 +47238,7 @@ preadolescences
 preadolescent
 preadolescents
 preadopted
+preadopting
 preallots
 preallotted
 preallotting
@@ -47748,6 +47770,7 @@ presidiums
 presignaling
 presignalled
 preslaughter
+presleep
 preslice
 preslices
 presoak
@@ -48287,6 +48310,7 @@ promptest
 promptitudes
 prompts
 promulgated
+promulgates
 promulgating
 promulgation
 promulging
@@ -50504,6 +50528,7 @@ recommissions
 recommitment
 recommittals
 recompenses
+recompensing
 recompose
 recomposes
 recomposing
@@ -55736,6 +55761,7 @@ sewer
 sewerage
 sewered
 sewering
+sewings
 sexagenarians
 sexagesimals
 sexdecillion
@@ -55973,6 +55999,7 @@ shellacked
 shellackings
 shellacs
 shellbacks
+shellbarks
 shelled
 sheller
 shellfishery
@@ -57317,6 +57344,7 @@ smatterers
 smatterings
 smatters
 smazes
+smearcase
 smears
 smeary
 smectic
@@ -57652,6 +57680,7 @@ socialist
 socialistic
 socialistically
 socialites
+socialities
 socialized
 socializing
 socially
@@ -59958,6 +59987,7 @@ styrenes
 suably
 suasive
 suasively
+suasivenesses
 suasory
 suave
 suaveness
@@ -60390,6 +60420,7 @@ subvocalized
 subvocalizing
 subwoofers
 subworld
+subworlds
 subwriter
 subzone
 succedanea
@@ -62808,6 +62839,7 @@ thermograph
 thermographic
 thermographies
 thermographs
+thermohaline
 thermojunction
 thermojunctions
 thermomagnetic
@@ -67764,6 +67796,7 @@ vestigial
 vestigium
 vestless
 vestlike
+vestral
 vestries
 vestryman
 vestrymen
@@ -68914,6 +68947,7 @@ weldment
 weldor
 welfares
 welfarisms
+welkins
 well
 welladay
 wellaway
@@ -69022,6 +69056,7 @@ wheelworks
 wheelwright
 wheelwrights
 wheen
+wheens
 wheep
 wheeping
 wheeple
