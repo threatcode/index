@@ -2708,6 +2708,7 @@ apocrine
 apocrypha
 apocryphalness
 apod
+apodal
 apodeictic
 apods
 apogamies
@@ -2720,6 +2721,7 @@ apologetically
 apologies
 apologise
 apologised
+apologises
 apologising
 apologized
 apologizer
@@ -3938,6 +3940,7 @@ autoradiograph
 autorotates
 autorotation
 autosome
+autosomes
 autostradas
 autosuggesting
 autosuggestion
@@ -8960,6 +8963,7 @@ carline
 carling
 carman
 carminative
+carmines
 carnal
 carnallite
 carnations
@@ -13119,6 +13123,7 @@ corporates
 corporator
 corporeality
 corpulency
+corpulent
 corpulently
 corpus
 corpuscle
@@ -14167,6 +14172,7 @@ cryosurgeon
 cryptanalyst
 cryptarithm
 cryptical
+cryptically
 cryptococcal
 cryptococcoses
 cryptogam
@@ -14381,6 +14387,7 @@ cure
 cureless
 curers
 cures
+curf
 curfews
 curia
 curio
@@ -14667,6 +14674,7 @@ cystocarps
 cystoceles
 cystolith
 cystoscopes
+cytaster
 cytasters
 cytochalasin
 cytochemical
@@ -16850,6 +16858,7 @@ differs
 difficult
 difficulties
 difficultly
+difficulty
 diffracting
 diffractions
 diffracts
@@ -21493,6 +21502,7 @@ exoneration
 exonerations
 exons
 exonumia
+exonumist
 exonumists
 exonym
 exophthalmos
@@ -24294,6 +24304,7 @@ frictionlessly
 frictions
 friedcake
 friend
+friendlies
 friendliest
 friendlinesses
 friends
@@ -24441,6 +24452,7 @@ frugs
 fruitages
 fruitarian
 fruitarians
+fruitcake
 fruitcakes
 fruited
 fruiterers
@@ -24800,6 +24812,7 @@ galago
 galahs
 galangas
 galas
+galax
 galenic
 galenical
 galettes
@@ -25223,6 +25236,7 @@ gelts
 gem
 gematria
 gematrias
+gemeinschaft
 geminally
 geminates
 geminating
@@ -28204,6 +28218,7 @@ heterogeneity
 heterogeneous
 heterogonies
 heterogony
+heterokaryon
 heterokaryons
 heterokaryoses
 heterologously
@@ -34787,6 +34802,7 @@ linable
 linacs
 linage
 linages
+linalol
 linchpin
 lincomycins
 lindanes
@@ -36472,6 +36488,7 @@ mash
 masher
 mashers
 mashgiach
+mashgiah
 mashgichim
 mashie
 mask
@@ -40393,6 +40410,7 @@ nicknames
 nicknaming
 nicoise
 nicol
+nicotianas
 nicotin
 nicotinamides
 nictating
@@ -42343,6 +42361,7 @@ ordain
 ordained
 ordainments
 ordeal
+ordered
 ordering
 orderlies
 ordinally
@@ -44054,6 +44073,7 @@ paganisms
 pageant
 pageboy
 paged
+pager
 pages
 paginate
 paginates
@@ -48013,6 +48033,7 @@ predried
 predries
 predrilled
 predusk
+predynastic
 preedit
 preelect
 preelection
@@ -49251,6 +49272,7 @@ proximal
 proximally
 proximateness
 proximity
+proximo
 prude
 prudence
 prudent
@@ -51151,6 +51173,7 @@ recommittals
 recompenses
 recompensing
 recompose
+recomposed
 recomposes
 recomposing
 recomputations
@@ -54259,6 +54282,7 @@ ruddier
 ruddiness
 ruddle
 ruddled
+ruddling
 rudds
 ruderal
 rudery
@@ -54651,6 +54675,7 @@ salinizing
 salinometer
 salinometers
 saliva
+salivate
 salivated
 salivations
 sallied
@@ -55382,6 +55407,7 @@ scintillator
 scintillometer
 sciolisms
 sciolistic
+scion
 scions
 sciroccos
 scirrhous
@@ -55858,6 +55884,7 @@ secularizes
 secularizing
 secularly
 seculars
+secure
 securely
 securenesses
 securest
@@ -61473,6 +61500,7 @@ superannuated
 superannuates
 superannuating
 superatoms
+superb
 superbad
 superbank
 superbanks
@@ -61868,6 +61896,7 @@ surveillants
 surveilling
 survey
 surveyed
+survivabilities
 survivable
 survival
 survivalist
@@ -62447,6 +62476,7 @@ tackiest
 tackified
 tackifier
 tackiness
+tackinesses
 tacking
 tacks
 tacnodes
@@ -63227,6 +63257,7 @@ tenseness
 tenses
 tensest
 tensible
+tensibly
 tensilely
 tensilities
 tension
@@ -64071,6 +64102,7 @@ timelinesses
 timeously
 timepiece
 timepieces
+timer
 timesaver
 timeserving
 timeservings
@@ -65903,6 +65935,7 @@ twinset
 twiny
 twirler
 twirlier
+twirls
 twirp
 twirps
 twists
@@ -66971,6 +67004,7 @@ unhallows
 unhalved
 unhand
 unhandier
+unhandily
 unhandsomely
 unhang
 unhangs
@@ -67491,6 +67525,7 @@ unshod
 unshowy
 unshrunk
 unsicker
+unsifted
 unsight
 unsighted
 unsightlier
