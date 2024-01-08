@@ -3,3 +3,7 @@ accountsandchars.sql - cmilanf/docker-rathena - GitHub,https://github.com/cmilan
 https://raw.githubusercontent.com/TrinityCore/Trin...,https://raw.githubusercontent.com/TrinityCore/TrinityCore/60c214e99cf0351868dd4a75f1753ad6bec972a9/sql/updates/world/2014_04_21_07_world_locales_item.sql
 eipod.ftp.free.fr/phpadmin.sql,http://eipod.ftp.free.fr/phpadmin.sql
 mguilhem91.free.fr/films/Guilhem.sql,http://mguilhem91.free.fr/films/Guilhem.sql
+accountsandchars.sql - cmilanf/docker-rathena - GitHub,https://github.com/cmilanf/docker-rathena/blob/master/accountsandchars.sql
+core/sql/migrations/20231121204641_world.sql at development ...,https://github.com/vmangos/core/blob/development/sql/migrations/20231121204641_world.sql
+http://eipod.ftp.free.fr/phpadmin.sql,http://eipod.ftp.free.fr/phpadmin.sql
+https://raw.githubusercontent.com/FAForever/faf-db...,https://raw.githubusercontent.com/FAForever/faf-db-dump/master/dump.sql
