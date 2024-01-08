@@ -1158,6 +1158,7 @@ airbag
 airboat
 airborne
 airbrush
+airbrushed
 airbrushes
 aircoach
 aircoaches
@@ -5561,6 +5562,7 @@ bethump
 bethumped
 bethumps
 betiding
+betises
 beton
 betonies
 betons
@@ -6872,6 +6874,7 @@ boringness
 borne
 borneols
 bornite
+bornites
 bornitic
 borohydrides
 borosilicates
@@ -8594,6 +8597,7 @@ canonesses
 canonical
 canonicals
 canonised
+canonises
 canonists
 canonization
 canonize
@@ -9316,6 +9320,7 @@ caulking
 causable
 causalgia
 causally
+causations
 causative
 causerie
 causes
@@ -16625,6 +16630,7 @@ dial
 dialectal
 dialectic
 dialectical
+dialecticians
 dialectics
 dialectological
 dialectologists
@@ -19160,6 +19166,7 @@ ectypes
 ecu
 ecumenicism
 ecumenicisms
+ecumenicist
 ecumenisms
 ecumenist
 eczemas
@@ -24102,6 +24109,7 @@ fracturer
 fractus
 fraenum
 fraenums
+fragile
 fragilities
 fragmental
 fragmentary
@@ -26165,6 +26173,7 @@ gormandizing
 gormless
 gory
 gosh
+goshawk
 gospel
 gospeller
 gospellers
@@ -27928,6 +27937,7 @@ hellgrammites
 hellhound
 hellhounds
 hellishly
+hello
 helloed
 helloes
 helloing
@@ -28069,6 +28079,7 @@ heraldic
 heraldically
 heraldists
 heralds
+herbage
 herbal
 herbalisms
 herbalist
@@ -28613,6 +28624,7 @@ hombre
 hombres
 homburg
 home
+homebound
 homeboy
 homeboys
 homebred
@@ -32810,6 +32822,7 @@ juried
 juries
 jurisconsult
 jurisconsults
+jurisdiction
 jurisdictions
 jurisprudences
 jurisprudential
@@ -34604,6 +34617,7 @@ lienable
 lienal
 liens
 lienteries
+lientery
 lieve
 liever
 life
@@ -36799,6 +36813,7 @@ meeds
 meek
 meekest
 meekly
+meekness
 meerkats
 meerschaums
 meeter
@@ -37455,6 +37470,7 @@ micronized
 micronizes
 microns
 micronuclei
+micronutrients
 microorganism
 microorganisms
 microparticle
@@ -37683,6 +37699,7 @@ millimoles
 milline
 millineries
 milliners
+million
 millionairess
 millionfold
 millions
@@ -45929,6 +45946,7 @@ phosphorylating
 photics
 photoautotrophs
 photobiologist
+photocells
 photochemically
 photochemist
 photochromic
@@ -46631,6 +46649,7 @@ plaintive
 plaintively
 plaintiveness
 plaister
+plaistering
 plait
 plaiter
 plaits
@@ -47039,6 +47058,7 @@ poetisers
 poetize
 poetized
 poetizer
+poetizing
 poetless
 poetries
 pogonia
@@ -47375,6 +47395,7 @@ poplitic
 poppa
 poppadoms
 poppadum
+poppas
 popped
 poppers
 poppied
@@ -48335,6 +48356,7 @@ presidium
 presidiums
 presignaling
 presignalled
+presignalling
 preslaughter
 presleep
 preslice
@@ -48783,6 +48805,7 @@ prognostic
 prognosticate
 prognosticated
 prognosticating
+prognosticator
 prognosticators
 prognostics
 program
@@ -48836,6 +48859,7 @@ proliferation
 proliferative
 prolificacy
 prolifically
+prolificnesses
 proline
 prolines
 prolix
@@ -49213,6 +49237,7 @@ provisory
 provisos
 provocateurs
 provocativeness
+provoke
 provoker
 provokes
 provokingly
@@ -52903,6 +52928,7 @@ resorbs
 resorptive
 resorters
 resorts
+resounded
 resources
 resow
 resowing
@@ -53149,6 +53175,7 @@ retinulas
 retirants
 retired
 retiredly
+retiredness
 retirednesses
 retirees
 retitle
@@ -53497,6 +53524,7 @@ rhizopuses
 rhodamin
 rhodamines
 rhodamins
+rhodium
 rhodochrosite
 rhododendrons
 rhodolites
@@ -55421,6 +55449,7 @@ scorekeepers
 scoreless
 scorepad
 scorepads
+scorer
 scorers
 scores
 scoria
@@ -60731,6 +60760,7 @@ subcategorize
 subcategorized
 subcategory
 subcavities
+subcavity
 subceiling
 subceilings
 subcell
@@ -61600,6 +61630,7 @@ superpose
 superposes
 superposing
 superposition
+superpositions
 superpowered
 superpremium
 superprofit
@@ -63653,6 +63684,7 @@ thimblerigger
 thimbleriggers
 thimblerigs
 thimblesful
+thimbleweed
 thimerosal
 thin
 thinclad
@@ -63923,6 +63955,7 @@ thysanurans
 ti
 tiara
 tiaraed
+tiaras
 tibiae
 tibial
 tibiofibula
@@ -67985,6 +68018,7 @@ urostyle
 urped
 urps
 ursa
+ursid
 urticant
 urticarial
 urticarias
@@ -68635,6 +68669,7 @@ viabilities
 viable
 viaduct
 vial
+vialing
 vialling
 viands
 viatic
