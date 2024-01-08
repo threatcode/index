@@ -5530,6 +5530,7 @@ besoms
 besoothes
 besought
 bespangle
+bespatter
 bespattering
 bespeaks
 bespectacled
@@ -6762,6 +6763,7 @@ boneblack
 boneheads
 bonemeal
 bonesetters
+boneyard
 bonged
 bongo
 bongs
@@ -7142,6 +7144,7 @@ braciola
 braciole
 bracket
 bracketing
+bract
 bracteole
 bracteoles
 bractless
@@ -7434,6 +7437,7 @@ briony
 briquette
 brisances
 brises
+brisker
 briskest
 brisking
 briskly
@@ -7763,6 +7767,7 @@ bulb
 bulbed
 bulbil
 bulbils
+bulblet
 bulghurs
 bulgier
 bulginess
@@ -8512,6 +8517,7 @@ campus
 campuses
 campusing
 campylotropous
+cams
 camshaft
 camshafts
 can
@@ -10835,6 +10841,7 @@ clasper
 claspt
 class
 classable
+classers
 classic
 classical
 classicality
@@ -19742,6 +19749,7 @@ embraceries
 embracery
 embracive
 embrangle
+embrangled
 embranglement
 embranglements
 embrittle
@@ -20103,6 +20111,7 @@ endowers
 endowing
 endowments
 endplayed
+endplaying
 endplays
 endpoints
 endrin
@@ -20768,6 +20777,7 @@ erective
 erectnesses
 erectors
 erects
+erelong
 eremitisms
 eremurus
 erethism
@@ -24684,6 +24694,7 @@ fungicidal
 fungicidally
 fungicide
 fungicides
+fungistats
 fungo
 fungoes
 funicular
@@ -26932,6 +26943,7 @@ guardians
 guardianship
 guardianships
 guardrail
+guardrooms
 guards
 guardsman
 guardsmen
@@ -38632,6 +38644,7 @@ moderating
 moderation
 moderatorships
 moderatos
+modernise
 modernises
 modernists
 modernly
@@ -39011,6 +39024,7 @@ moonrise
 moonroofs
 moons
 moonsail
+moonscapes
 moonseed
 moonsets
 moonshined
@@ -39687,6 +39701,7 @@ musicals
 musicianly
 musicians
 musicked
+musicks
 musicless
 musicological
 musicologies
@@ -39766,6 +39781,7 @@ muzzling
 muzzy
 myalgias
 myalgic
+myceles
 myceloid
 mycetomas
 mycetomatous
@@ -42484,6 +42500,7 @@ orangeries
 orangery
 orangewood
 orangiest
+orangish
 orangs
 orates
 orations
@@ -42889,6 +42906,7 @@ outclasses
 outclimbed
 outcoached
 outcoaching
+outcomes
 outcompete
 outcompetes
 outcompeting
@@ -43265,6 +43283,7 @@ outsprings
 outsprint
 outsprinted
 outsprung
+outstand
 outstanding
 outstarted
 outstarting
@@ -44726,6 +44745,7 @@ parfleches
 parfleshes
 parfocal
 parget
+pargets
 parging
 pargylines
 parhelia
@@ -45714,6 +45734,7 @@ peroxisome
 peroxisomes
 perp
 perpend
+perpended
 perpending
 perpetrate
 perpetrated
@@ -46792,6 +46813,7 @@ pizzalike
 pizzazzes
 pizzazzy
 pizzelle
+pizzicato
 placability
 placable
 placably
@@ -49640,6 +49662,7 @@ pubescences
 pubescent
 publically
 publication
+publicise
 publicised
 publicises
 publicities
@@ -50186,6 +50209,7 @@ qualmy
 quandang
 quandong
 quandongs
+quantal
 quantic
 quantics
 quanting
@@ -50946,6 +50970,7 @@ reacceded
 reacceding
 reaccelerated
 reaccelerating
+reaccented
 reaccession
 reaccessions
 reacclaim
@@ -51559,6 +51584,7 @@ redbuds
 redcoat
 redcoats
 redded
+reddened
 reddening
 reddens
 reddishnesses
@@ -58254,6 +58280,7 @@ slunk
 slur
 slurb
 slurbs
+slurped
 slurred
 slurried
 slurries
@@ -61082,6 +61109,7 @@ subdialect
 subdiscipline
 subdivide
 subdivided
+subdivider
 subdividers
 subdivides
 subdividing
@@ -61581,6 +61609,7 @@ sulfonylureas
 sulfured
 sulfuret
 sulfureted
+sulfurets
 sulfuric
 sulfuring
 sulfurize
@@ -62447,6 +62476,7 @@ syllabled
 syllabling
 syllabub
 syllabubs
+syllepsis
 syllogisms
 syllogists
 syllogized
@@ -64775,6 +64805,7 @@ tornadic
 tornado
 tornillo
 tornillos
+toroids
 torosities
 torosity
 torot
@@ -64833,6 +64864,7 @@ totality
 totalized
 totalizers
 totaquine
+totaquines
 toted
 totemic
 totemite
@@ -65248,6 +65280,7 @@ transverse
 transverses
 transvestism
 transvestisms
+transvestites
 trap
 trapan
 trapanned
@@ -70175,6 +70208,7 @@ whack
 whacked
 whackers
 whacks
+whale
 whaleback
 whalebacks
 whaleboats
@@ -70532,6 +70566,7 @@ wile
 wiling
 willed
 willemite
+willemites
 willet
 willets
 willfully
