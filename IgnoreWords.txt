@@ -229,6 +229,7 @@ accomplishes
 accomplishment
 accomplishments
 accord
+accordances
 accordantly
 accorder
 accorders
@@ -1423,6 +1424,7 @@ allegations
 allege
 alleges
 allegiance
+allegiant
 allegiants
 alleging
 allegoric
@@ -2592,6 +2594,7 @@ antonymy
 antral
 antre
 antrums
+antsier
 antsiness
 anural
 anuran
@@ -6316,6 +6319,7 @@ blighty
 blimpishness
 blind
 blinders
+blindfolding
 blinding
 blindingly
 blindly
@@ -14199,6 +14203,7 @@ crystalline
 crystallinity
 crystallises
 crystallising
+crystallizable
 crystallizer
 crystallizers
 crystallography
@@ -14445,6 +14450,7 @@ curtalax
 curtalaxes
 curtate
 curtest
+curtilages
 curtsey
 curtseying
 curtsying
@@ -16113,6 +16119,7 @@ depredation
 depredators
 depredatory
 deprenyl
+deprenyls
 depress
 depresses
 depressing
@@ -21122,6 +21129,7 @@ europium
 eurybaths
 euryhaline
 euryoky
+eurytherm
 eurythermal
 eurythmic
 eurythmies
@@ -21619,6 +21627,7 @@ expirers
 expiring
 explaining
 explanatively
+explanatorily
 explantations
 expletory
 explicable
@@ -26294,6 +26303,7 @@ graduand
 graduands
 graduate
 graduation
+gradus
 graduses
 graecized
 graecizing
@@ -29338,6 +29348,7 @@ hydromedusae
 hydrometallurgy
 hydrometeor
 hydrometers
+hydronic
 hydropath
 hydropathic
 hydropaths
@@ -31021,6 +31032,7 @@ inhering
 inheritability
 inheritance
 inheritances
+inheritresses
 inheritrices
 inheritrix
 inhibins
@@ -32182,6 +32194,7 @@ isochron
 isochronism
 isoclinal
 isoclinals
+isocline
 isoclines
 isocyanates
 isoelectronic
@@ -34667,6 +34680,7 @@ lifemanships
 lifesaver
 lifesavers
 lifesavings
+lifespan
 lifestyles
 lifetime
 lifeway
@@ -36600,6 +36614,7 @@ matelots
 mater
 materfamilias
 materialises
+materialism
 materialist
 materialities
 materiality
@@ -37450,6 +37465,7 @@ microcopies
 microcosmic
 microcosmos
 microcrystal
+microcrystals
 microcultural
 microculture
 microcultures
@@ -37862,6 +37878,7 @@ minitowers
 minitracks
 minium
 minivans
+minivers
 minke
 minkes
 minnesingers
@@ -42046,6 +42063,7 @@ oleic
 oleine
 oleographs
 oleomargarines
+oleoresinous
 olestras
 olfactive
 olfactometers
@@ -42727,6 +42745,7 @@ outbuys
 outby
 outbye
 outcall
+outcalls
 outcapers
 outcaste
 outcasts
@@ -46088,6 +46107,7 @@ phots
 phragmoplasts
 phrasemaker
 phrasemakings
+phrasemonger
 phrasemongers
 phraseological
 phraseologies
@@ -46272,6 +46292,7 @@ pidgins
 piebald
 piebalds
 pieced
+pieces
 piecework
 pieceworkers
 piecrust
@@ -47906,6 +47927,7 @@ prebiological
 prebiotic
 preboard
 preboarded
+prebooked
 prebooking
 prebooks
 prebuy
@@ -48296,6 +48318,7 @@ preprinted
 preprinting
 preprocessor
 preprogram
+preprograming
 prepubescent
 prepubis
 prepublication
@@ -48482,6 +48505,7 @@ pretexts
 pretor
 pretorians
 pretrain
+pretreated
 pretreatments
 pretreats
 prettied
@@ -50109,6 +50133,7 @@ querier
 queriers
 querists
 querulously
+querulousness
 query
 quesadillas
 quester
@@ -50782,6 +50807,7 @@ reaccessions
 reacclaim
 reacclimatize
 reacclimatizes
+reaccredit
 reaccreditation
 reaccredited
 reaccrediting
@@ -52792,6 +52818,7 @@ resawed
 resay
 resays
 rescales
+reschooled
 rescinded
 rescinder
 rescinders
@@ -55345,6 +55372,7 @@ schizos
 schlemiels
 schlemihls
 schlep
+schlepping
 schleps
 schliere
 schlieric
@@ -56092,6 +56120,7 @@ sememe
 sememes
 sememic
 semen
+semens
 semesters
 semi
 semiabstraction
@@ -60242,6 +60271,7 @@ stockbrokerage
 stockbrokings
 stockcar
 stocked
+stocker
 stockholder
 stockholders
 stockiest
@@ -61312,6 +61342,7 @@ suffrage
 suffragettes
 suffragist
 suffuse
+suffusive
 sugarberry
 sugarbush
 sugarbushes
@@ -61852,6 +61883,7 @@ surely
 surer
 surety
 suretyship
+surf
 surface
 surfaced
 surfacer
@@ -63155,6 +63187,7 @@ televangelism
 televangelist
 televiewed
 televiewer
+televised
 televising
 television
 televisual
@@ -64832,6 +64865,7 @@ traitoress
 traitorous
 traitorously
 traits
+trajecting
 trajection
 trajections
 trajectories
@@ -69472,6 +69506,7 @@ wardenships
 warding
 wardrooms
 wardship
+warehouses
 warehousing
 wareroom
 warfare
