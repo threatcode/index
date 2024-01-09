@@ -3379,6 +3379,7 @@ asininity
 askant
 asked
 asker
+askers
 askoi
 aslant
 asleep
@@ -4322,6 +4323,7 @@ bacteriostats
 bacteriuria
 bacterizes
 bacterizing
+bacteroid
 bacula
 baculum
 baculums
@@ -9258,6 +9260,7 @@ catcalled
 catch
 catcher
 catchers
+catchfly
 catching
 catchments
 catchphrases
@@ -11918,6 +11921,7 @@ commingled
 commingles
 comminute
 comminutes
+commiserate
 commiserated
 commiserates
 commiseration
@@ -13050,6 +13054,7 @@ coquetted
 coquettes
 coquettishness
 coquitos
+cor
 coracoid
 coracoids
 coral
@@ -15158,6 +15163,7 @@ dearie
 dearths
 deash
 deashed
+deashes
 deashing
 deasil
 death
@@ -17235,6 +17241,7 @@ dirigiste
 dirking
 dirl
 dirled
+dirling
 dirls
 dirties
 dirtinesses
@@ -17889,6 +17896,7 @@ ditcher
 ditchers
 ditches
 ditching
+dite
 dites
 ditheisms
 dithered
@@ -20154,6 +20162,7 @@ enduringnesses
 enduro
 enemies
 energies
+energization
 energizations
 energumens
 enervating
@@ -23202,6 +23211,7 @@ flabbier
 flabbiest
 flabbinesses
 flabby
+flabella
 flabelliform
 flabellum
 flabs
@@ -23496,6 +23506,7 @@ flirtiest
 flirty
 flit
 flitch
+flitching
 flites
 flitter
 flitters
@@ -23781,6 +23792,7 @@ folklives
 folklorish
 folkloristic
 folklorists
+folkmot
 folksily
 folksingings
 folksy
@@ -28882,6 +28894,7 @@ homophylies
 homophyly
 homoplasies
 homopolar
+homopolymer
 homopteran
 homoscedastic
 homosexual
@@ -31897,6 +31910,7 @@ intolerable
 intolerably
 intolerances
 intolerantly
+intomb
 intombed
 intombs
 intonated
@@ -32716,6 +32730,7 @@ jetsams
 jetsoms
 jetted
 jettied
+jettison
 jettisoning
 jettying
 jetways
@@ -35521,6 +35536,7 @@ looses
 loosestrife
 loosing
 looted
+looters
 looting
 lop
 loper
@@ -38200,6 +38216,7 @@ mischose
 mischosen
 miscibilities
 miscibility
+miscible
 miscitation
 miscitations
 miscite
@@ -38219,6 +38236,7 @@ miscolors
 miscomputed
 misconceive
 misconceived
+misconceivers
 misconceives
 misconceiving
 misconceptions
@@ -43710,6 +43728,7 @@ overgirds
 overgirt
 overglad
 overglamorize
+overgoad
 overgoads
 overgovern
 overgrowing
@@ -43971,6 +43990,7 @@ oversmoking
 oversoft
 oversouls
 overspeculate
+overspeculating
 overspeculation
 overspender
 overspenders
@@ -44731,6 +44751,7 @@ parashoth
 parasitic
 parasitical
 parasitically
+parasiticidal
 parasitised
 parasitises
 parasitism
@@ -48238,6 +48259,7 @@ predecease
 predeceased
 prededuct
 prededucted
+prededucts
 predefined
 predella
 predellas
@@ -50472,6 +50494,7 @@ quitch
 quitches
 quitclaim
 quitclaims
+quitrent
 quitrents
 quittor
 quittors
@@ -50608,6 +50631,7 @@ radiobiologic
 radiocarbons
 radiochemist
 radiograms
+radiographed
 radiographing
 radiographs
 radiography
@@ -51129,6 +51153,7 @@ reapportion
 reapportionment
 reapportions
 reappraisals
+reappraises
 reappropriated
 reappropriating
 reapproved
@@ -51961,6 +51986,7 @@ refinish
 refinished
 refinishing
 refired
+refires
 refiring
 refit
 refitted
@@ -52130,6 +52156,7 @@ reglorify
 reglossing
 reglowing
 reglows
+reglue
 reglues
 regluing
 regnal
@@ -53227,6 +53254,7 @@ resonance
 resonances
 resonates
 resonating
+resorbing
 resorbs
 resorptive
 resorters
@@ -56971,6 +56999,7 @@ shearwaters
 sheatfish
 sheath
 sheathbill
+sheathe
 sheathed
 sheather
 sheathings
@@ -60001,6 +60030,7 @@ stageful
 stagefuls
 stagelike
 stager
+stages
 stagey
 stagflation
 staggard
@@ -62366,6 +62396,7 @@ sweatily
 sweatiness
 sweatpants
 sweatshirt
+sweatshirts
 sweatshop
 sweatshops
 sweaty
@@ -62820,6 +62851,7 @@ taconites
 tacrine
 tact
 tactfulness
+tactic
 tactical
 tactically
 tactics
@@ -64791,6 +64823,7 @@ toothsomenesses
 tooting
 tootled
 tootling
+tootsie
 tootsies
 tootsy
 topaz
@@ -66077,6 +66110,7 @@ tuneably
 tuned
 tuneful
 tunefulness
+tunefulnesses
 tuneless
 tuner
 tunesmith
@@ -67218,6 +67252,7 @@ unendingly
 unendurably
 unenjoyed
 unenlarged
+unenriched
 unenterprising
 unenthusiastic
 unenvied
