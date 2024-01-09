@@ -1981,6 +1981,7 @@ anatomic
 anatomies
 anatomise
 anatomised
+anatomising
 anatomist
 anatomize
 anatomizes
@@ -4368,6 +4369,7 @@ bagwigs
 bagworm
 bagworms
 bahadur
+bahadurs
 bahts
 baidarka
 baidarkas
@@ -4610,6 +4612,7 @@ baptize
 baptized
 baptizer
 baptizing
+barb
 barbarian
 barbarianism
 barbarism
@@ -4756,6 +4759,7 @@ barrets
 barricading
 barricado
 barricadoed
+barrio
 barrister
 barristers
 barrooms
@@ -4815,6 +4819,7 @@ basketfuls
 basketlike
 basketries
 basketry
+baskets
 basking
 basmatis
 basophiles
@@ -5292,6 +5297,7 @@ beknighted
 belabor
 belabored
 belabors
+belaboured
 belabours
 belaced
 beladied
@@ -7852,6 +7858,7 @@ bumping
 bumpkinly
 bumptiousness
 bumptiousnesses
+bumpy
 bums
 buna
 bunch
@@ -9464,6 +9471,7 @@ cellarer
 cellarers
 cellaret
 cellaring
+cellarway
 cellblock
 celled
 celling
@@ -10693,6 +10701,7 @@ cist
 cisted
 cistern
 cisternae
+cisterns
 cistronic
 cistrons
 cistuses
@@ -10990,6 +10999,7 @@ climbing
 climbs
 clinally
 clinch
+clinchingly
 clines
 clinged
 clinger
@@ -13195,6 +13205,7 @@ correcter
 corrections
 correctitude
 correctitudes
+correctness
 correctors
 corrects
 correlate
@@ -13234,6 +13245,7 @@ corrugates
 corrugating
 corrupt
 corruptest
+corruptibly
 corruptionist
 corruptionists
 corruptly
@@ -14556,6 +14568,7 @@ cutabilities
 cutaways
 cutbacks
 cutbank
+cutbanks
 cutchery
 cute
 cuteness
@@ -14933,6 +14946,7 @@ danegelt
 daneweed
 danewort
 daneworts
+dangered
 dangerous
 danging
 dangle
@@ -17291,6 +17305,7 @@ disbenefits
 disbosomed
 disbosoming
 disbosoms
+disbowel
 disbowelling
 disbowels
 disbranch
@@ -17330,6 +17345,7 @@ disciplinarians
 disciplinarily
 disciplinary
 discipliner
+disclaimed
 disclaimer
 disclaims
 disclamations
@@ -17476,6 +17492,7 @@ disfiguring
 disfranchised
 disfrock
 disfrocked
+disfrocks
 disfunctions
 disfurnishes
 disfurnishment
@@ -18075,6 +18092,7 @@ dogies
 dogleg
 doglegs
 doglike
+dogmas
 dogmatics
 dogmatism
 dogmatisms
@@ -18484,6 +18502,7 @@ dram
 dramadies
 dramatic
 dramatically
+dramatisation
 dramatised
 dramatises
 dramatising
@@ -24848,6 +24867,7 @@ gabbier
 gabbiest
 gabbinesses
 gabbing
+gabble
 gabblers
 gabbles
 gabbling
@@ -26508,6 +26528,7 @@ grapiest
 grapinesses
 graplin
 graplines
+grapnel
 grapples
 graptolites
 grapy
@@ -32685,6 +32706,7 @@ jettisoning
 jettying
 jetways
 jeu
+jeux
 jewelfish
 jeweling
 jewelled
@@ -39647,6 +39669,7 @@ murders
 mureins
 mures
 murex
+murexes
 muriated
 murices
 murk
@@ -40272,6 +40295,7 @@ negligences
 negligent
 negliges
 negligible
+negotiates
 negotiations
 negotiators
 negotiatory
@@ -40354,6 +40378,7 @@ neotenic
 neotenies
 neoteny
 neoterics
+neotropics
 nepenthean
 nepenthes
 nephelines
@@ -41018,6 +41043,7 @@ nondirective
 nondisabled
 nondisclosure
 nondiscursive
+nondisjunction
 nondisruptive
 nondiversified
 nondividing
@@ -42010,6 +42036,7 @@ octad
 octagon
 octagons
 octahedral
+octahedrally
 octal
 octameter
 octan
@@ -43044,6 +43071,7 @@ outhearing
 outhears
 outhit
 outhits
+outhomer
 outhomered
 outhomering
 outhomers
@@ -44602,6 +44630,7 @@ paradrops
 paraffining
 paragenetically
 paraglided
+paragliding
 paragon
 paragoning
 paragons
@@ -50408,6 +50437,7 @@ quippish
 quippu
 quippus
 quipster
+quipu
 quirked
 quirks
 quirts
@@ -53965,6 +53995,7 @@ rime
 rimer
 rimester
 rimesters
+rimfire
 rimier
 rimiest
 riminess
@@ -57874,6 +57905,7 @@ skilling
 skills
 skimboard
 skimmed
+skimmer
 skimming
 skimobile
 skimobiles
@@ -69740,6 +69772,7 @@ wardens
 wardenship
 wardenships
 warding
+wardress
 wardrooms
 wardship
 warehouses
@@ -69767,6 +69800,7 @@ warner
 warning
 warnings
 warns
+warp
 warpages
 warpaths
 warpers
@@ -70806,6 +70840,7 @@ wizen
 wizened
 wizening
 woad
+woaded
 woadwax
 woadwaxen
 woadwaxens
