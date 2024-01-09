@@ -1682,6 +1682,7 @@ ambivert
 amblers
 ambles
 amblygonite
+amblygonites
 amblyopia
 amboina
 amboinas
@@ -5686,6 +5687,7 @@ biassedly
 biasses
 biathletes
 biathlon
+biathlons
 biaxal
 bib
 bibber
@@ -8274,6 +8276,7 @@ caestuses
 caesuric
 cafetorium
 caffein
+caffeinated
 caffeine
 caffeines
 caffeins
@@ -9993,6 +9996,7 @@ checkmates
 checkoff
 checkpoint
 checkrein
+checkroom
 checkrooms
 checkrowing
 checkrows
@@ -10081,6 +10085,7 @@ cherrystone
 chert
 chertiest
 cherty
+cherub
 cherubic
 cherubim
 cheshire
@@ -12073,6 +12078,7 @@ complacent
 complainant
 complainants
 complained
+complaisance
 complaisances
 complaisantly
 complecting
@@ -13489,6 +13495,7 @@ counterimage
 counterimages
 countering
 counterion
+counterions
 countermand
 countermanded
 countermands
@@ -15278,6 +15285,7 @@ decaying
 decayless
 decays
 deceased
+deceases
 decedent
 deceitfully
 deceitfulness
@@ -17428,6 +17436,7 @@ discountenances
 discounter
 discounts
 discourage
+discouragement
 discoursers
 discourteous
 discourteously
@@ -22752,6 +22761,7 @@ feterita
 fetes
 fetials
 feticide
+feticides
 fetid
 fetidity
 fetishes
@@ -26258,6 +26268,7 @@ gombos
 gomeral
 gomerils
 gomphoses
+gomphosis
 gomutis
 gonad
 gonadal
@@ -26290,6 +26301,7 @@ gonophore
 gonophores
 gonopores
 gonorrhea
+gonorrheas
 good
 goodish
 goodlier
@@ -27119,6 +27131,7 @@ gunflint
 gunites
 gunkhole
 gunkholed
+gunkholing
 gunless
 gunman
 gunned
@@ -29832,6 +29845,7 @@ ichthyosaurs
 icicle
 icicled
 icier
+icings
 ick
 icker
 ickiest
@@ -32888,6 +32902,7 @@ jolliers
 jollies
 jolliest
 jollification
+jollifications
 jollifies
 jollifying
 jollily
@@ -34710,6 +34725,7 @@ levanting
 levants
 levatores
 levee
+levees
 level
 leveled
 leveler
@@ -35423,6 +35439,7 @@ loftlike
 lofts
 loganberries
 loganberry
+logaoedic
 logarithms
 loggerheads
 loggia
@@ -37367,6 +37384,7 @@ merrythoughts
 mesa
 mesalliance
 mesas
+mescaline
 mescalines
 mescals
 mescluns
@@ -38107,6 +38125,7 @@ minuscule
 minute
 minuted
 minutely
+minuteness
 minutiae
 minutial
 minyanim
@@ -40148,6 +40167,7 @@ narthex
 narwal
 narwhal
 narwhale
+narwhals
 nasalise
 nasalities
 nasalized
@@ -44077,6 +44097,7 @@ overtaxation
 overtaxations
 overteaches
 overteaching
+overthinking
 overthrew
 overtighten
 overtiming
@@ -44244,6 +44265,7 @@ oxytetracycline
 oxytocic
 oxytocin
 oxytone
+oxytones
 oxyuriases
 oy
 oyers
@@ -44253,6 +44275,7 @@ oyster
 oysterers
 oystering
 oysterman
+oysters
 ozonated
 ozonation
 ozones
@@ -53965,6 +53988,7 @@ richened
 richer
 riches
 richweed
+richweeds
 ricins
 ricinus
 ricinuses
@@ -54403,6 +54427,7 @@ rooters
 rootholds
 rootier
 rootiest
+rootinesses
 rootless
 roots
 rootstocks
@@ -55081,6 +55106,7 @@ salty
 salubriousness
 salubrities
 salubrity
+saluki
 salutariness
 salutarinesses
 salutary
@@ -55339,6 +55365,7 @@ satay
 satays
 satchels
 satchelsful
+sated
 sateen
 satem
 sates
@@ -57112,6 +57139,7 @@ sheriffs
 sherifs
 sherpas
 sherrises
+sheuch
 sheugh
 shewed
 shewer
@@ -58610,6 +58638,7 @@ snicking
 snide
 snidely
 snideness
+snider
 snidest
 sniffiest
 sniffily
@@ -58848,6 +58877,7 @@ softheadedness
 softheads
 softheartedness
 softly
+softness
 softshells
 softwares
 softy
@@ -59543,6 +59573,7 @@ spherular
 spherulites
 spherulitic
 sphincter
+sphincteric
 sphinges
 sphinx
 sphygmic
@@ -63654,8 +63685,10 @@ tenorists
 tenors
 tenour
 tenours
+tenpence
 tenpences
 tenpin
+tenpins
 tenrec
 tenseness
 tenses
@@ -68116,6 +68149,7 @@ untranslated
 untrapped
 untreated
 untrims
+untroubled
 untruly
 untruss
 untrussed
@@ -69343,6 +69377,7 @@ virilities
 virilizes
 virilocal
 virion
+virions
 virl
 viroids
 virological
