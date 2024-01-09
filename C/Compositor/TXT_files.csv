@@ -7,3 +7,21 @@ EGL_EXT_compositor - Khronos Registry,https://registry.khronos.org/EGL/extension
 LayoutTests/fast/events/touch/compositor-touch-hit-rects-global ...,https://chromiumcodereview.appspot.com/22674007/diff/36001/LayoutTests/fast/events/touch/compositor-touch-hit-rects-global-expected.txt%3Fcontext%3D10%26column_width%3D80%26tab_spaces%3D8
 …/CMakeLists.txt · Gerrit Code Review,https://codereview.qt-project.org/c/qt/qtwayland/%2B/274195/21/examples/wayland/custom-extension/compositor/CMakeLists.txt
 LayoutTests/compositing/change-compositing-settings-expected.txt ...,https://codereview.chromium.org/779613002/diff/40001/LayoutTests/compositing/change-compositing-settings-expected.txt
+deepin-metacity/doc/compositor-control.txt at master - GitHub,https://github.com/linuxdeepin/deepin-metacity/blob/master/doc/compositor-control.txt
+"Composite Extension, Version 0.4 - X.Org",https://www.x.org/releases/X11R7.5/doc/compositeproto/compositeproto.txt
+EGL_EXT_compositor - Khronos Registry,https://registry.khronos.org/EGL/extensions/EXT/EGL_EXT_compositor.txt
+LayoutTests/fast/events/touch/compositor-touch-hit-rects-global ...,https://chromiumcodereview.appspot.com/22674007/diff/36001/LayoutTests/fast/events/touch/compositor-touch-hit-rects-global-expected.txt%3Fcontext%3D10%26column_width%3D80%26tab_spaces%3D8
+…/CMakeLists.txt · Gerrit Code Review,https://codereview.qt-project.org/c/qt/qtwayland/%2B/274195/21/examples/wayland/custom-extension/compositor/CMakeLists.txt
+RFC 4827: An Extensible Markup Language (XML) Configuration ...,https://datatracker.ietf.org/doc/html/rfc4827.txt
+RFC 5264,https://www.rfc-editor.org/rfc/rfc5264.txt
+https://www.ietf.org/proceedings/72/IDs/draft-ietf...,https://www.ietf.org/proceedings/72/IDs/draft-ietf-simple-partial-publish-07.txt
+doc/compositor-control.txt · wip/kms-connector-add-remove ...,https://gitlab.gnome.org/GNOME/mutter/-/blob/wip/kms-connector-add-remove/doc/compositor-control.txt
+4760.Logs.txt - TI E2E,https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/791/4760.Logs.txt
+…/CMakeLists.txt · Gerrit Code Review,https://codereview.qt-project.org/c/qt/qtapplicationmanager/%2B/505683/11/src/tools/controller/CMakeLists.txt
+releasing.txt · master · AGL / agl-ivi-compositor · GitLab,https://gitlab.collabora.com/agl/weston/-/blob/master/releasing.txt
+https://devtalk.blender.org/uploads/short-url/9QlY...,https://devtalk.blender.org/uploads/short-url/9QlYbU0I6mpEbvXGYXSMSDUGSH.txt
+https://04645706586117558873.googlegroups.com/atta...,https://04645706586117558873.googlegroups.com/attach/b5e3da325fd3/night_ir_with_background.txt%3Fpart%3D0.1%26vt%3DANaJVrGlW06bk4y9GxtwAnIyvjQ48EQ4btFAHeDMZWjRrTY4uenUpYE35VGQ0GszCqM0-i_QCPHI8597UR9HdbE56hWfCsgHPl1VjIoyjNoaTKPe9Cd7Yx8
+http://freepages.rootsweb.com/~darlingfamilies/gen...,http://freepages.rootsweb.com/~darlingfamilies/genealogy/resource/nhmanchester.txt
+opengl/specs/EGL_ANDROID_get_frame_timestamps.txt - Gitiles,https://gerrit.pixelexperience.org/plugins/gitiles/frameworks_native/%2B/50e6754563d089678f6baa443760b202d527880f/opengl/specs/EGL_ANDROID_get_frame_timestamps.txt
+draft-ietf-simple-xcap-pidf-manipulation-usage-00.txt - Softarmor ...,https://www.softarmor.com/wgdb/docs/draft-ietf-simple-xcap-pidf-manipulation-usage-00.txt
+night_ir_with_background_plus_... - Google Groups,https://04645706586117558873.googlegroups.com/attach/c7e7da07858f/night_ir_with_background_plus_PS.txt%3Fpart%3D0.1%26vt%3DANaJVrFcHYwZR9HTkZJQrnkCSproXKD4Oik32oURNuf-d2qL1est0hRpJtnbPw4SHOm9_YfaWTZeykSTnmBTvl0zzINlgxK16jjq24PsLSJP_SIClt_eTGU
