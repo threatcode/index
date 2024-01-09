@@ -4530,6 +4530,7 @@ bandage
 bandaged
 bandager
 bandaid
+bandana
 bandanas
 bandanna
 bandas
@@ -4600,6 +4601,7 @@ bannisters
 banqueter
 banqueters
 banquette
+banquettes
 banshee
 banshies
 bantamweight
@@ -5918,6 +5920,7 @@ bints
 binturong
 binucleated
 bio
+bioacoustics
 bioassay
 bioassaying
 bioassays
@@ -6917,6 +6920,7 @@ borehole
 boreholes
 borer
 borers
+borescopes
 boresome
 boride
 boring
@@ -7112,6 +7116,7 @@ bowshot
 bowstring
 bowstringed
 bowstringing
+bowstrings
 bowstrung
 bowwowed
 bowwowing
@@ -11530,6 +11535,7 @@ coffs
 cofinance
 cofounder
 cofounders
+cofounding
 cofunctions
 cog
 cogenerations
@@ -12654,6 +12660,7 @@ constative
 constellate
 constellation
 constellations
+constellatory
 consternation
 constipations
 constituents
@@ -13123,6 +13130,7 @@ cored
 coredeeming
 coredeems
 coreigns
+corelate
 corelated
 coreligionist
 corepressor
@@ -13135,6 +13143,7 @@ corespondents
 corgi
 coriander
 coring
+corium
 corkboard
 corkier
 corkiness
@@ -15404,6 +15413,7 @@ decline
 decliner
 declining
 deco
+decoct
 decocting
 decoctive
 decocts
@@ -16631,6 +16641,7 @@ deviancy
 deviant
 deviate
 deviating
+deviation
 deviationist
 deviations
 deviator
@@ -19254,6 +19265,7 @@ echoing
 echolalia
 echolalias
 echolocation
+echos
 eclair
 eclampsia
 eclat
@@ -19999,6 +20011,7 @@ enamelers
 enamelled
 enameller
 enamelware
+enamines
 enamor
 enamored
 enamoring
@@ -20017,6 +20030,7 @@ encapsulates
 encapsulation
 encapsulations
 encapsuled
+encapsules
 encashable
 encashing
 encashments
@@ -25697,6 +25711,7 @@ ghostwrote
 ghoulish
 ghoulishly
 ghoulishnesses
+ghyll
 giant
 giantesses
 giantism
@@ -30472,6 +30487,7 @@ imputabilities
 imputation
 imputative
 imputers
+imputes
 in
 inability
 inaccurately
@@ -31305,6 +31321,7 @@ inmeshes
 inmeshing
 inmost
 innage
+innately
 innatenesses
 inned
 inner
@@ -31781,6 +31798,7 @@ intermediately
 intermediation
 intermediations
 intermedins
+intermenstrual
 intermesh
 intermetallic
 intermezzo
@@ -32383,6 +32401,7 @@ isle
 isled
 ism
 isms
+isoantibodies
 isoantibody
 isoantigens
 isobarism
@@ -35783,6 +35802,7 @@ luge
 luged
 luges
 luggages
+lugged
 luggers
 luggies
 luging
@@ -36845,6 +36865,7 @@ matchmarking
 matchmarks
 matchstick
 matchups
+matelasses
 matelots
 mater
 materfamilias
@@ -38257,6 +38278,7 @@ misbrands
 miscalculated
 miscalculation
 miscaption
+miscaptioned
 miscaptioning
 miscaptions
 miscarriage
@@ -45514,6 +45536,7 @@ penchants
 pencilers
 penciling
 penciller
+pencillers
 pencillings
 pencils
 pended
@@ -49323,6 +49346,7 @@ propagators
 propagule
 propagules
 propanes
+propellants
 propelled
 propellent
 propellor
@@ -50314,6 +50338,7 @@ quadrillionth
 quadripartite
 quadriphonic
 quadrivalent
+quadrivia
 quadrivial
 quadrivium
 quadrumvir
@@ -50549,6 +50574,7 @@ quintiles
 quintillionths
 quintin
 quintuple
+quintupled
 quintuplets
 quintuplicate
 quintuplicated
@@ -52575,6 +52601,7 @@ relive
 reliving
 rellenos
 reloaders
+reloading
 reloads
 reloans
 relocate
@@ -56483,6 +56510,7 @@ semens
 semesters
 semi
 semiabstraction
+semiaquatic
 semiarboreal
 semiarid
 semiaridities
@@ -57446,6 +57474,7 @@ shred
 shredded
 shredder
 shredders
+shrew
 shrewdness
 shrewdnesses
 shrewed
@@ -58473,6 +58502,7 @@ sluttishnesses
 slyboots
 slyness
 slypes
+smacks
 smaller
 smallholders
 smallmouth
@@ -59083,6 +59113,7 @@ sonder
 sondes
 sones
 songbird
+songbook
 songfests
 songfulness
 songfulnesses
@@ -60247,6 +60278,7 @@ starchiest
 starchily
 starching
 starchy
+stared
 starers
 starets
 starfish
@@ -60592,6 +60624,7 @@ stillroom
 stiltedly
 stiltedness
 stilting
+stilts
 stimied
 stimulants
 stimulate
@@ -67272,6 +67305,7 @@ underwhelms
 underwings
 underwool
 underwork
+underworked
 underworking
 underworks
 underworlds
@@ -68820,6 +68854,7 @@ variometers
 variorum
 varisized
 varletry
+varlets
 varmint
 varna
 varnas
