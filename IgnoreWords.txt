@@ -1232,6 +1232,7 @@ airposts
 airs
 airscape
 airscrew
+airships
 airshows
 airsicknesses
 airspace
@@ -1672,6 +1673,7 @@ amantadine
 amantadines
 amaranthine
 amarelles
+amarone
 amaryllis
 amas
 amass
@@ -2246,6 +2248,7 @@ annotation
 annotations
 annotator
 annotators
+announce
 announcements
 announcers
 annoyance
@@ -4476,6 +4479,7 @@ baidarka
 baidarkas
 bail
 bailed
+bailee
 bailers
 bailey
 baileys
@@ -6895,6 +6899,7 @@ bonbon
 bondage
 bondages
 bonders
+bondholders
 bondmaid
 bondmaids
 bondsman
@@ -8726,6 +8731,7 @@ cancels
 cancered
 cancerous
 cancerously
+cancers
 cancha
 cancroid
 candela
@@ -12521,6 +12527,7 @@ concretize
 concretizing
 concubinages
 concubine
+concupiscence
 concupiscences
 concupiscible
 concurred
@@ -12645,6 +12652,7 @@ confines
 confining
 confirmability
 confirmands
+confirmational
 confirmations
 confirmedly
 confirmednesses
@@ -16268,6 +16276,7 @@ demoted
 demotes
 demotist
 demotists
+demount
 demounted
 demulcent
 demulcents
@@ -17757,6 +17766,7 @@ discrediting
 discreetest
 discrepancies
 discrepancy
+discreteness
 discretion
 discriminably
 discriminants
@@ -18932,9 +18942,11 @@ dreamboats
 dreamed
 dreamers
 dreamful
+dreamfully
 dreamfulness
 dreamfulnesses
 dreamily
+dreaminess
 dreaminesses
 dreaming
 dreamlands
@@ -21831,6 +21843,7 @@ exceeders
 exceeding
 exceedingly
 exceeds
+excellencies
 excellent
 excels
 except
@@ -27166,6 +27179,7 @@ greenishnesses
 greenkeeper
 greenlet
 greenlighted
+greenlings
 greenly
 greenmailers
 greenmails
@@ -27426,6 +27440,7 @@ grungers
 grungier
 grungy
 grunions
+grunt
 grunters
 gruntle
 gruntled
@@ -27500,6 +27515,7 @@ guffaws
 guggle
 guggling
 guglets
+guide
 guidebook
 guidebooks
 guided
@@ -27623,6 +27639,7 @@ gushiest
 gushiness
 gushing
 gushingly
+gussets
 gussie
 gussies
 gussying
@@ -33127,6 +33144,7 @@ jagging
 jaggs
 jaggy
 jags
+jaguarundi
 jail
 jailbait
 jailbird
@@ -33689,6 +33707,7 @@ kalamatas
 kaleidoscope
 kalewives
 kaleyard
+kaleyards
 kalians
 kalifs
 kalium
@@ -35444,6 +35463,7 @@ lictors
 lid
 lidded
 liebfraumilch
+liefest
 lienable
 lienal
 liens
@@ -38843,6 +38863,7 @@ misappraisal
 misappraisals
 misappropriated
 misarticulates
+misarticulating
 misassay
 misassaying
 misassays
@@ -42959,6 +42980,7 @@ ogling
 ogreish
 ogreishly
 ogreism
+ogres
 ogrish
 ogrism
 oh
@@ -44866,6 +44888,7 @@ overtrumped
 overtrumping
 overturing
 overturn
+overurge
 overurged
 overusing
 overutilizes
@@ -51509,6 +51532,7 @@ racially
 racier
 racism
 racist
+racists
 rackers
 racket
 racketier
@@ -55252,6 +55276,7 @@ rodding
 rodenticide
 rodeoed
 rodeos
+rodes
 rodman
 rodmen
 rodomontade
@@ -55466,6 +55491,7 @@ roughhewn
 roughhews
 roughhouse
 roughhoused
+roughish
 roughlegs
 roughnecked
 roughnecks
@@ -56507,6 +56533,7 @@ scamperers
 scampers
 scamping
 scampish
+scamps
 scams
 scamsters
 scan
@@ -57219,6 +57246,7 @@ secretive
 secrets
 sectarianisms
 sectarianized
+sectionalism
 sectioning
 sections
 sector
@@ -57764,6 +57792,7 @@ serous
 serpentine
 serpents
 serpiginous
+serpigo
 serranids
 serranoid
 serranos
@@ -59439,6 +59468,7 @@ slurries
 slurs
 slush
 slushier
+slushiest
 slushily
 slushing
 sluttiest
@@ -62518,6 +62548,7 @@ subsciences
 subscriber
 subscribes
 subscript
+subscription
 subscriptions
 subsea
 subsect
@@ -64388,6 +64419,7 @@ tautologous
 tautomer
 tautomerisms
 tautomers
+tavern
 taverna
 taverns
 tawdriness
@@ -65634,6 +65666,7 @@ timbers
 timberwork
 timecard
 timekeepers
+timekeepings
 timelessnesses
 timelines
 timeliness
@@ -66385,6 +66418,7 @@ tramontanes
 trampers
 trampiest
 trampish
+trampled
 trampler
 trampling
 trampoline
@@ -71387,6 +71421,7 @@ wearier
 wearies
 weariest
 weariful
+wearifully
 wearifulness
 wearinesses
 wearing
