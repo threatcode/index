@@ -2249,6 +2249,7 @@ annotations
 annotator
 annotators
 announce
+announcement
 announcements
 announcers
 annoyance
@@ -3617,6 +3618,7 @@ asteroidal
 asteroids
 asters
 asthenies
+asthenospheres
 asthenospheric
 astheny
 asthma
@@ -7282,6 +7284,7 @@ boycotts
 boyhood
 boyishnesses
 boyla
+boyo
 boys
 boysenberry
 bozo
@@ -8297,6 +8300,7 @@ butyrins
 butyryl
 buxomer
 buxomnesses
+buy
 buybacks
 buyer
 buyoffs
@@ -12940,6 +12944,7 @@ consummate
 consummately
 consummates
 consummative
+consummators
 consumptives
 contacted
 contactees
@@ -14474,6 +14479,7 @@ crudities
 crudity
 cruelest
 cruellest
+cruelty
 cruet
 cruise
 cruiser
@@ -16587,6 +16593,7 @@ deregulation
 deregulations
 derelict
 dereliction
+derelicts
 derepress
 deride
 deriding
@@ -17709,6 +17716,7 @@ disciplinable
 disciplinarian
 disciplinarians
 disciplinarily
+disciplinarity
 disciplinary
 discipliner
 disclaimed
@@ -19706,6 +19714,7 @@ edificial
 edified
 edifier
 edify
+edile
 edited
 editing
 edition
@@ -22732,6 +22741,7 @@ faradaic
 faraday
 faradays
 faradising
+faradisms
 faradized
 faradizers
 farads
@@ -23706,6 +23716,7 @@ flagrance
 flagrances
 flagrancies
 flagrantly
+flagship
 flagstaff
 flagstick
 flair
@@ -26635,6 +26646,7 @@ gnomical
 gnomon
 gnomons
 gnosticisms
+gnostics
 gnotobiotically
 gnu
 goad
@@ -27279,6 +27291,7 @@ grilled
 griller
 grilleries
 grilles
+grilling
 grillroom
 grills
 grilse
@@ -28872,6 +28885,7 @@ hermatypic
 hermeneutic
 hermeneutical
 hermetical
+hermetically
 hermeticisms
 hermetisms
 hermitages
@@ -29608,6 +29622,7 @@ hormonal
 hormonally
 hormones
 hornbeam
+hornblende
 hornblendes
 hornedness
 hornednesses
@@ -30069,6 +30084,7 @@ hydrolyzates
 hydrolyzed
 hydromagnetic
 hydromancies
+hydromancy
 hydromedusa
 hydromedusae
 hydrometallurgy
@@ -31878,6 +31894,7 @@ innerspring
 innervating
 innervation
 innerved
+innings
 innkeepers
 innocent
 innocenter
@@ -38057,6 +38074,7 @@ meritocrat
 meritocrats
 meritorious
 meritoriously
+meritoriousness
 merits
 merlin
 merls
@@ -39510,6 +39528,7 @@ moiety
 moil
 moiled
 moiling
+moire
 moires
 moist
 moisten
@@ -40162,6 +40181,7 @@ moviegoing
 moviemakers
 moviemaking
 moviemakings
+movieolas
 moving
 moviola
 mow
@@ -40441,6 +40461,7 @@ munched
 muncher
 munches
 munchies
+mundanely
 mundanities
 mundungo
 mundungus
@@ -45098,6 +45119,7 @@ ozones
 ozonides
 ozonize
 ozonized
+ozonizer
 ozonosphere
 ozonospheres
 pablums
@@ -45467,6 +45489,7 @@ pantomimists
 pantries
 pantropical
 pantsuited
+pantsuits
 panty
 pantywaist
 papa
@@ -46970,6 +46993,7 @@ phellems
 phelonia
 phenacaine
 phenacaines
+phenacetin
 phenacite
 phenakite
 phenanthrene
@@ -47243,6 +47267,7 @@ phrasings
 phratric
 phratries
 phreaking
+phrenitises
 phrenologies
 phrenologists
 phrensied
@@ -48214,6 +48239,7 @@ plyometrics
 pneumatic
 pneumatology
 pneumatolytic
+pneumatophore
 pneumococcus
 pneumoconioses
 pneumographs
@@ -50270,6 +50296,7 @@ proposer
 propositi
 proposition
 propositioning
+propositions
 propounders
 propounding
 propraetor
@@ -54417,6 +54444,7 @@ restretching
 restricken
 restrict
 restricted
+restrictedly
 restriction
 restrictionisms
 restrictionists
@@ -54937,6 +54965,7 @@ rhomboidei
 rhomboideus
 rhomboids
 rhombs
+rhonchi
 rhonchus
 rhotacism
 rhotacisms
@@ -56775,6 +56804,7 @@ schnorkeling
 schnorkels
 schnorrer
 schnozzes
+scholar
 scholarship
 scholarships
 scholasticate
@@ -61107,6 +61137,7 @@ squareness
 squarers
 squarest
 squarish
+squarishly
 squarishnesses
 squark
 squarks
@@ -63240,6 +63271,7 @@ superrealism
 superregional
 superregionals
 superrich
+superroads
 supers
 supersafe
 supersalesman
@@ -66005,6 +66037,7 @@ tomatilloes
 tomatillos
 tomato
 tomatoes
+tomback
 tombacs
 tombed
 tombolas
@@ -67434,6 +67467,7 @@ tunnelers
 tunneling
 tunnelings
 tunning
+tupelos
 tuppence
 tuppences
 tupping
@@ -72697,6 +72731,7 @@ xystos
 xystus
 ya
 yabber
+yabbie
 yabbies
 yachted
 yachtings
