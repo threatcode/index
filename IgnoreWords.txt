@@ -1890,6 +1890,7 @@ amputation
 amputations
 amputators
 amputees
+amritas
 amtrack
 amtracs
 amucks
@@ -2724,6 +2725,7 @@ apheresis
 aphetic
 aphetically
 aphides
+aphidian
 aphis
 aphonia
 aphonics
@@ -3247,12 +3249,14 @@ armoured
 armourer
 armourers
 armpits
+armrests
 armsful
 armure
 arnatto
 arnicas
 arnotto
 aroint
+arointing
 aroints
 aroma
 aromatherapies
@@ -6031,6 +6035,7 @@ biochemist
 biochemistries
 biochip
 biochips
+biocides
 bioclimatic
 biocoenoses
 biocoenosis
@@ -9227,6 +9232,7 @@ carports
 carpospore
 carr
 carrack
+carrageenan
 carrageenans
 carrageenins
 carrel
@@ -21645,6 +21651,7 @@ evanishing
 evaporate
 evaporates
 evaporating
+evasion
 evasive
 evasively
 evasiveness
@@ -22157,6 +22164,7 @@ expresso
 expressways
 expropriate
 expropriation
+expulse
 expulses
 expulsive
 expunction
@@ -23253,6 +23261,7 @@ fieldstrips
 fieldwork
 fieldworks
 fiend
+fiendish
 fiendishnesses
 fiercely
 fierceness
@@ -24279,6 +24288,7 @@ fop
 fopping
 foppishness
 fops
+for
 forage
 foragers
 foramen
@@ -24700,6 +24710,7 @@ frankpledge
 frankpledges
 franks
 franserias
+frantic
 frantically
 franticly
 franticness
@@ -24980,6 +24991,7 @@ frowzier
 frowziest
 frowzily
 frowzy
+frozenness
 fructifications
 fructifying
 fructuous
@@ -25357,6 +25369,7 @@ galahs
 galangas
 galas
 galax
+galaxies
 galenic
 galenical
 galette
@@ -27815,6 +27828,7 @@ halakist
 halakists
 halal
 halalah
+halalas
 halation
 halazone
 halbert
@@ -31711,6 +31725,7 @@ injunctions
 injure
 injurers
 injuring
+injuriousness
 injustice
 ink
 inkberry
@@ -35512,6 +35527,7 @@ limitedly
 limitednesses
 limiteds
 limiter
+limiters
 limiting
 limitlessly
 limits
@@ -37104,6 +37120,7 @@ marchioness
 marchland
 mare
 maremme
+marengo
 mares
 margaric
 margarin
@@ -40089,6 +40106,7 @@ mudslides
 mudslingers
 mudslinging
 muensters
+muesli
 mueslis
 muffineer
 muffled
@@ -45239,6 +45257,7 @@ pangrams
 pangs
 panhandle
 panhandled
+panhandler
 panhandles
 panhandling
 panickier
@@ -45683,6 +45702,7 @@ passepied
 passepieds
 passer
 passerby
+passerine
 passerines
 passersby
 passes
@@ -46162,6 +46182,7 @@ penetrant
 penetrate
 penetrates
 penetration
+penetrative
 pengo
 pengos
 penicillin
@@ -47860,6 +47881,7 @@ pledge
 pledged
 pledgee
 pledgeor
+pledger
 pledgers
 pledgets
 pledging
@@ -49315,6 +49337,7 @@ preprocessor
 preprogram
 preprograming
 prepubertal
+prepuberties
 prepubescent
 prepubis
 prepublication
@@ -49886,6 +49909,7 @@ programer
 programings
 programmables
 programme
+programmed
 programmer
 programmes
 progressing
@@ -50383,6 +50407,7 @@ psammitic
 psammons
 psephitic
 psephological
+psephologist
 psephologists
 pseud
 pseudepigrapha
@@ -53021,6 +53046,7 @@ rehabbed
 rehabber
 rehabilitant
 rehabilitants
+rehabilitate
 rehabilitating
 rehabilitator
 rehammered
@@ -55075,6 +55101,7 @@ robotic
 robotism
 robotizations
 robotize
+robotized
 robotry
 robusta
 robustas
@@ -55961,6 +55988,7 @@ samiel
 samiels
 samizdat
 samoyeds
+samsaras
 sanatoriums
 sanbenitos
 sanctification
@@ -60702,6 +60730,7 @@ sporocarps
 sporocyst
 sporogenic
 sporogonia
+sporophyl
 sporophyll
 sporopollenin
 sporotrichosis
@@ -64487,6 +64516,7 @@ telestics
 teletext
 teletexts
 teletypewriter
+teletypewriters
 teletyping
 teleutospore
 televangelism
@@ -67451,6 +67481,7 @@ tyrocidine
 tyrocidines
 tyrocidins
 tyrosinase
+tyrosines
 tyrothricin
 tythed
 tythes
@@ -70133,6 +70164,7 @@ vesper
 vespiary
 vesseled
 vestal
+vestally
 vested
 vestee
 vestees
@@ -70267,6 +70299,7 @@ view
 viewable
 viewed
 viewers
+viewerships
 viewfinder
 viewfinders
 viewier
@@ -71295,6 +71328,7 @@ weens
 weensier
 weensiest
 weep
+weepers
 weepier
 weepiest
 weeping
@@ -72372,6 +72406,7 @@ xenogeneic
 xenogenic
 xenogeny
 xenograft
+xenolithic
 xenoliths
 xenon
 xenons
