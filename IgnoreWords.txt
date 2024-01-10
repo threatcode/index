@@ -770,6 +770,7 @@ advertized
 advertizements
 advice
 advices
+advisabilities
 advisable
 advisably
 advise
@@ -5773,6 +5774,7 @@ bible
 bibless
 biblical
 biblicist
+bibliographer
 bibliographic
 bibliography
 bibliolaters
@@ -7583,6 +7585,7 @@ broadcaster
 broaden
 broadener
 broadening
+broader
 broadleaf
 broadleaves
 broadlooms
@@ -8462,6 +8465,7 @@ calculation
 calculations
 calculous
 caldarium
+caldron
 caldrons
 calendars
 calenderers
@@ -11617,6 +11621,7 @@ coequating
 coercer
 coercers
 coercible
+coercing
 coercion
 coercions
 coercive
@@ -12540,6 +12545,7 @@ conferrers
 confers
 confervas
 confess
+confessable
 confessing
 confession
 confessional
@@ -16108,6 +16114,7 @@ demeton
 demetons
 demigod
 demigods
+demilitarized
 demilitarizes
 demilune
 demimondaine
@@ -16540,6 +16547,7 @@ deserters
 desertifies
 desertion
 desertions
+deserts
 deserves
 deserving
 deservings
@@ -20385,6 +20393,7 @@ endosome
 endosperm
 endospores
 endostea
+endostyles
 endosymbionts
 endosymbioses
 endosymbiotic
@@ -21080,6 +21089,7 @@ ergastoplasmic
 ergastoplasms
 ergates
 ergative
+ergatives
 ergo
 ergodicities
 ergogenic
@@ -23728,6 +23738,7 @@ flexagon
 flexed
 flexes
 flexibility
+flexile
 flexional
 flexions
 flexographies
@@ -27171,6 +27182,7 @@ grouched
 grouches
 grouchily
 grouchinesses
+grouching
 grouchy
 grounders
 grounding
@@ -27297,6 +27309,7 @@ guarana
 guaranis
 guarantee
 guarantor
+guard
 guarddog
 guardhouse
 guardian
@@ -27519,6 +27532,7 @@ gynecology
 gynecomastias
 gyniatry
 gynoecium
+gynogenesis
 gynophobe
 gynophobes
 gynophores
@@ -32040,6 +32054,7 @@ intergrade
 intergrafting
 intergranular
 interims
+interindividual
 interinfluences
 interinvolve
 interiorise
@@ -32942,6 +32957,7 @@ jalapic
 jalapin
 jalop
 jalopies
+jalousie
 jalousied
 jalousies
 jambalaya
@@ -37108,6 +37124,7 @@ mascons
 masculinises
 masculinists
 masculinities
+masculinize
 maser
 masers
 mash
@@ -37570,6 +37587,7 @@ mellophone
 mellophones
 mellotrons
 mellowed
+mellowest
 mellowing
 mellowness
 mellownesses
@@ -39677,6 +39695,7 @@ mortiser
 mortisers
 mortising
 mortmain
+mortmains
 morula
 mosaic
 mosaicism
@@ -42942,6 +42961,7 @@ operatic
 operatically
 operatics
 operating
+operationalism
 operationalisms
 operationalist
 operationists
@@ -43275,6 +43295,7 @@ oscines
 oscitant
 oscular
 osculate
+osculating
 osculation
 osculations
 osculatory
@@ -44255,6 +44276,7 @@ overhonoring
 overhonors
 overhot
 overhung
+overhunting
 overhuntings
 overhype
 overidealizes
@@ -45347,6 +45369,7 @@ parkway
 parkways
 parlances
 parlando
+parlay
 parlaying
 parled
 parley
@@ -46182,6 +46205,7 @@ performatives
 performed
 performing
 perfumers
+perfumery
 perfumes
 perfunctoriness
 perfusate
@@ -47945,6 +47969,7 @@ pol
 polarimeter
 polarimeters
 polarimetric
+polariscope
 polarises
 polarities
 polarize
@@ -49042,6 +49067,7 @@ premoral
 premycotic
 prename
 prenames
+prenomina
 prenominated
 prenotification
 prenotified
@@ -50309,6 +50335,7 @@ publicized
 publics
 published
 publisher
+pubs
 pucker
 puckered
 puckering
@@ -53630,6 +53657,7 @@ reread
 rereading
 rereadings
 rereads
+rerebraces
 rerecorded
 rerecording
 rerecords
@@ -54055,6 +54083,7 @@ retellings
 retempered
 retempers
 retenes
+retention
 retentions
 retentively
 retentivenesses
@@ -60139,6 +60168,7 @@ spelldowns
 spelled
 spelts
 spelunk
+spencers
 spend
 spendable
 spenders
@@ -63624,6 +63654,7 @@ tailslide
 tailslides
 tailspin
 tailspins
+tailstock
 tailstocks
 tailwaters
 tailwind
@@ -66602,6 +66633,7 @@ trophied
 trophoblast
 trophoblasts
 trophozoite
+trophozoites
 trophy
 trophying
 tropic
@@ -66756,6 +66788,7 @@ tsunamic
 tsunamis
 tubae
 tubaist
+tubal
 tubbed
 tubbier
 tubby
@@ -69280,6 +69313,7 @@ utter
 utterable
 uttered
 uttering
+utterly
 uttermost
 uttermosts
 uvea
@@ -69910,6 +69944,7 @@ vicariously
 vicarly
 vicarships
 vice
+viced
 vicegeral
 vicegerencies
 vicegerency
