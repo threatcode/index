@@ -1,0 +1,10 @@
+Kernel documentation - spinlocks,https://www.kernel.org/doc/Documentation/locking/spinlocks.txt
+interrupts.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/interrupt-controller/interrupts.txt
+"System calls, interrupts, exceptions - MIT PDOS",https://pdos.csail.mit.edu/6.828/2018/lec/l-interrupt.txt
+Interrupts - MIT PDOS,https://pdos.csail.mit.edu/6.S081/2020/lec/l-interrupt.txt
+Documentation/devicetree/bindings/interrupt-controller/interrupts.txt,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.0.2_r0.1/Documentation/devicetree/bindings/interrupt-controller/interrupts.txt
+SMP-affinity.txt,https://cs.uwaterloo.ca/~brecht/servers/apic/SMP-affinity.txt
+Documentation/devicetree/bindings/arm/msm/mpm.txt - kernel/msm.git,https://android.googlesource.com/kernel/msm.git/%2B/android-msm-shamu-3.10-lollipop-mr1/Documentation/devicetree/bindings/arm/msm/mpm.txt
+RFC 103: Implementation of Interrupt Keys,https://tools.ietf.org/html/rfc103.txt
+SMTP Service Extension for Checkpoint/Restart - » RFC Editor,https://www.rfc-editor.org/rfc/rfc1845.txt
+Scenario 2 video transcript,https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/scenario-2-transcript.txt
