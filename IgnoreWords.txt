@@ -1981,6 +1981,7 @@ anagogy
 anagram
 anagrammatic
 anagrammatical
+anagrammatizing
 analcimes
 analcites
 analecta
@@ -7123,6 +7124,7 @@ borneols
 bornite
 bornites
 bornitic
+borohydride
 borohydrides
 borosilicates
 borough
@@ -7325,6 +7327,7 @@ boxberries
 boxers
 boxfish
 boxful
+boxfuls
 boxhauled
 boxhauling
 boxhauls
@@ -7481,6 +7484,7 @@ brattle
 brattled
 brattling
 bratwurst
+braunites
 braunschweiger
 bravadoes
 bravely
@@ -13956,6 +13960,7 @@ counterworld
 counterworlds
 countess
 countian
+counting
 countinghouses
 countless
 countlessly
@@ -14565,6 +14570,7 @@ crowfoots
 crowing
 crowkeepers
 crownet
+crownets
 crowns
 crows
 crowsfoot
@@ -15089,6 +15095,7 @@ cyberporn
 cybersex
 cybersexes
 cyberspace
+cycadeoid
 cycadophytes
 cycases
 cycasin
@@ -25501,6 +25508,7 @@ furrower
 furrowing
 furry
 furs
+furtherance
 furtherances
 furthered
 furthers
@@ -27200,6 +27208,7 @@ grampa
 gramps
 grampuses
 grams
+gran
 granadilla
 granary
 grand
@@ -30242,6 +30251,7 @@ hutch
 hutches
 hutching
 hutlike
+hutting
 hutzpahs
 huzzah
 huzzaing
@@ -32216,6 +32226,7 @@ inscrolls
 inscrutable
 inscrutableness
 insculping
+inseam
 inseams
 insectaries
 insecticide
@@ -33552,6 +33563,7 @@ jauntiest
 jauntiness
 jaunts
 jaup
+jauped
 jaups
 javas
 javelinas
@@ -36805,6 +36817,7 @@ lunted
 lunting
 lunulate
 lunules
+lupanar
 lupin
 lupins
 lupous
@@ -38623,6 +38636,7 @@ metrazols
 metricates
 metricisms
 metring
+metrist
 metritises
 metrologists
 metronidazole
@@ -39172,6 +39186,7 @@ mirage
 mirages
 mirandize
 mire
+mirepoix
 mirex
 mirexes
 miriest
@@ -39454,6 +39469,7 @@ misinter
 misinterred
 misinterring
 misjoin
+misjudge
 misjudged
 miskals
 miskeep
@@ -40627,6 +40643,7 @@ mullahism
 mullahisms
 mullahs
 mulled
+mullein
 mulleys
 mulligans
 mulligatawnies
@@ -44046,6 +44063,7 @@ ostium
 ostler
 ostosis
 ostracised
+ostracism
 ostracisms
 ostracoderm
 ostracon
@@ -44727,6 +44745,7 @@ overblouse
 overblowing
 overblown
 overboiled
+overboils
 overbooked
 overborrowing
 overborrows
@@ -45429,6 +45448,7 @@ oxids
 oxime
 oximeter
 oximetries
+oximetry
 oxlip
 oxlips
 oxtail
@@ -45495,6 +45515,7 @@ pachoulis
 pachyderm
 pachydermatous
 pachyderms
+pachysandras
 pachytene
 pachytenes
 pacier
@@ -47416,6 +47437,7 @@ philandered
 philanderers
 philandering
 philatelic
+philatelically
 philatelist
 philhellenes
 philhellenism
@@ -47804,6 +47826,7 @@ pictorialists
 pictorialized
 pictorializing
 pictorialness
+pictorialnesses
 pictured
 picturesque
 picturing
@@ -49294,6 +49317,7 @@ potboilers
 potboils
 potency
 potent
+potentate
 potentials
 potentiation
 potentiations
@@ -50874,6 +50898,7 @@ protonic
 protons
 protophloems
 protoplasm
+protoplasmic
 protoplast
 protoplasts
 protopod
@@ -51487,6 +51512,7 @@ pustulations
 pustuled
 pustules
 put
+putamen
 putamina
 putative
 putlog
@@ -52814,6 +52840,7 @@ recessionals
 recessively
 rechallenges
 rechallenging
+rechange
 rechanged
 rechanges
 rechanneling
@@ -57455,6 +57482,7 @@ scramjet
 scramming
 scrannels
 scrapbooks
+scrape
 scraped
 scraper
 scrapers
@@ -59657,6 +59685,7 @@ skitter
 skitterier
 skitteriest
 skittering
+skitters
 skittish
 skittishnesses
 skittles
@@ -63392,6 +63421,7 @@ suffragettes
 suffragist
 suffuse
 suffusive
+sugar
 sugarberry
 sugarbush
 sugarbushes
@@ -65589,6 +65619,7 @@ terrorizing
 terry
 terse
 terseness
+tertial
 tertials
 tertian
 tertiary
@@ -65931,6 +65962,7 @@ thinkable
 thinker
 thinkings
 thinner
+thinnesses
 thins
 thio
 thiols
@@ -68897,6 +68929,7 @@ under
 underachieve
 underachieved
 underachiever
+underactivities
 underaged
 underages
 underarms
@@ -69015,6 +69048,7 @@ underrated
 underrating
 underreact
 underreacted
+underreacting
 underreacts
 undersaturated
 underscore
@@ -72062,6 +72096,7 @@ waxworks
 waxworms
 way
 waylaying
+waylays
 wayless
 waypoint
 wayside
