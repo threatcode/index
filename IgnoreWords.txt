@@ -1345,6 +1345,7 @@ alderfly
 alderman
 aldermanic
 alderwoman
+aldicarbs
 aldol
 aldolases
 aldolizations
@@ -3679,6 +3680,7 @@ astral
 astrally
 astray
 astride
+astringencies
 astringents
 astringes
 astringing
@@ -3957,6 +3959,7 @@ auricles
 auriculae
 auriculars
 auriform
+auris
 aurochses
 aurora
 auroral
@@ -5918,6 +5921,7 @@ bickers
 bicolors
 bicolours
 biconcave
+biconcavities
 biconditionals
 biconvex
 bicorns
@@ -7037,6 +7041,7 @@ booked
 bookend
 booker
 bookers
+bookful
 bookfuls
 booking
 bookish
@@ -10364,6 +10369,7 @@ chemicals
 chemics
 chemiosmotic
 chemisorbed
+chemisorbing
 chemisorption
 chemistries
 chemists
@@ -10933,6 +10939,7 @@ cimbaloms
 cimex
 cinches
 cinchonic
+cinchonines
 cinders
 cindery
 cine
@@ -20312,6 +20319,7 @@ embalms
 embanked
 embanking
 embankments
+embargo
 embargoed
 embargoing
 embarkations
@@ -20854,6 +20862,7 @@ engrosser
 engrossing
 engrossment
 engs
+engulf
 engulfment
 enhanced
 enhancers
@@ -27503,6 +27512,7 @@ gremlin
 gremmies
 gremmy
 grenadier
+grenadines
 grey
 greyed
 greyhen
@@ -28033,6 +28043,7 @@ gyrfalcons
 gyrofrequencies
 gyrofrequency
 gyroidal
+gyromagnetic
 gyron
 gyrons
 gyropilot
@@ -28319,6 +28330,7 @@ handers
 handguns
 handicapped
 handicappers
+handicapping
 handicrafter
 handicrafters
 handicraftsmen
@@ -30208,6 +30220,7 @@ humped
 humper
 humpers
 humph
+humphed
 humphs
 humpier
 humpiness
@@ -33270,6 +33283,7 @@ irrupting
 irruptions
 irrupts
 is
+isagoge
 isagogics
 isallobars
 isatin
@@ -34896,6 +34910,7 @@ lade
 ladens
 lader
 laders
+ladies
 ladinos
 ladle
 ladlers
@@ -36558,6 +36573,7 @@ longsightedness
 longsome
 longsomeness
 longspurs
+longtime
 longways
 loo
 loobies
@@ -38850,6 +38866,7 @@ microprobes
 microprocessor
 microprojection
 micropublisher
+micropublishers
 micropublishing
 micropulsation
 micropyle
@@ -43526,6 +43543,7 @@ oleine
 oleographs
 oleomargarines
 oleoresinous
+oles
 olestras
 olfactive
 olfactometers
@@ -44100,6 +44118,7 @@ ostensoria
 ostensorium
 ostensory
 osteoarthritic
+osteoarthritis
 osteologies
 osteologist
 osteology
@@ -45678,6 +45697,7 @@ painless
 painlessness
 paintable
 paintbrushes
+painted
 painterlinesses
 paintworks
 pair
@@ -48191,6 +48211,7 @@ piratically
 pirayas
 pirns
 piroghi
+pirogi
 pirogue
 pirojki
 piroplasm
@@ -48902,6 +48923,7 @@ pollinia
 pollinize
 pollinizers
 pollinizing
+pollinosis
 pollist
 pollists
 polls
@@ -49532,6 +49554,7 @@ prater
 pratincole
 pratincoles
 pratique
+prattle
 prattlingly
 prawned
 prawner
@@ -49552,6 +49575,7 @@ preachments
 preachy
 preacts
 preadapt
+preadaptation
 preadaptations
 preadapting
 preadaptive
@@ -50376,6 +50400,7 @@ prinker
 printabilities
 printed
 printery
+printing
 printings
 printless
 printout
@@ -51515,6 +51540,7 @@ purposelessness
 purposively
 purposivenesses
 purpura
+purpure
 purpuric
 purpurins
 purr
@@ -54676,6 +54702,7 @@ resailed
 resailing
 resale
 resaluting
+resample
 resampled
 resampling
 resat
@@ -55665,6 +55692,7 @@ rightist
 rightness
 rightsizing
 rigidifications
+rigidifies
 rigidifying
 rigidity
 rigidly
@@ -58339,6 +58367,7 @@ septicemias
 septics
 septillion
 septillions
+septs
 septum
 septums
 septupled
@@ -61194,6 +61223,7 @@ specials
 specialties
 speciates
 speciation
+speciational
 specie
 specific
 specifically
@@ -61291,6 +61321,7 @@ spermatocyte
 spermatogeneses
 spermatogenic
 spermatogonial
+spermatophores
 spermatophytic
 spermatozoal
 spermatozoan
@@ -70884,6 +70915,7 @@ vegetably
 vegetal
 vegetant
 vegetarianism
+vegetate
 vegetated
 vegetates
 vegetating
@@ -70937,6 +70969,7 @@ velverets
 velveted
 velveteen
 velveteens
+velvetier
 velvets
 venally
 vendable
@@ -73913,7 +73946,9 @@ zorils
 zoster
 zouave
 zoysia
+zoysias
 zucchetti
+zwitterion
 zydeco
 zygapophysis
 zygodactyl
