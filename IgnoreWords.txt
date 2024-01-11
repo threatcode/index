@@ -80,6 +80,7 @@ absolvers
 absolves
 absonant
 absorb
+absorbabilities
 absorbance
 absorbances
 absorbants
@@ -1395,6 +1396,7 @@ alias
 aliasing
 aliasings
 alibiing
+alicyclic
 alidads
 alien
 alienabilities
@@ -2553,6 +2555,7 @@ antimony
 antimusic
 antimusics
 antimycin
+antimycins
 anting
 antinode
 antinome
@@ -5720,6 +5723,7 @@ bested
 bestiality
 bestialize
 bestialized
+bestializes
 bestially
 bestiaries
 bestiary
@@ -5757,6 +5761,7 @@ bethump
 bethumped
 bethumps
 betiding
+betime
 betises
 beton
 betonies
@@ -8543,6 +8548,7 @@ cake
 caked
 cakes
 cakewalked
+cakewalkers
 cakewalking
 cakewalks
 cakinesses
@@ -9056,6 +9062,7 @@ captivations
 captivator
 captive
 captivity
+captor
 capture
 captured
 capturer
@@ -14030,6 +14037,7 @@ covin
 covins
 cowage
 cowages
+coward
 cowardices
 cowards
 cowbane
@@ -16126,6 +16134,7 @@ deglaze
 deglutitions
 degradation
 degrade
+degradedly
 degrader
 degradingly
 degranulation
@@ -16364,6 +16373,7 @@ demodulations
 demodulators
 demographers
 demographic
+demoing
 demoiselle
 demolisher
 demolishing
@@ -16785,6 +16795,7 @@ desexed
 deshabille
 deshabilles
 desiccant
+desiccate
 desiccated
 desiccates
 desiccation
@@ -18502,6 +18513,7 @@ doating
 dobber
 dobbers
 dobbies
+dobby
 dobie
 dobla
 doblon
@@ -21464,6 +21476,7 @@ erythropoieses
 erythrosin
 erythrosines
 erythrosins
+escadrille
 escaladed
 escaladers
 escalades
@@ -22845,6 +22858,7 @@ fanon
 fanos
 fantail
 fantasies
+fantasise
 fantasised
 fantasises
 fantasized
@@ -24833,6 +24847,7 @@ foul
 foulbrood
 foulbroods
 fouled
+fouling
 foully
 foulnesses
 fouls
@@ -26411,6 +26426,7 @@ ginks
 ginnier
 ginniest
 ginzo
+gipon
 gipons
 gipped
 gips
@@ -28710,6 +28726,7 @@ heavyweight
 hebdomadally
 hebdomads
 hebe
+hebephrenias
 hebes
 hebetates
 hebetating
@@ -33293,6 +33310,7 @@ itemises
 itemising
 itemizations
 itemized
+itemizer
 itemizers
 iterance
 iterant
@@ -35362,6 +35380,7 @@ lecturers
 lectures
 lecturing
 lecythi
+lecythus
 ledges
 ledgy
 leeboards
@@ -35382,6 +35401,7 @@ leftward
 leftwards
 leftwing
 leg
+legacies
 legalistic
 legalistically
 legalities
@@ -37834,6 +37854,7 @@ maximalist
 maximalists
 maximins
 maximises
+maximite
 maximites
 maximizations
 maximize
@@ -44586,6 +44607,7 @@ ovariotomies
 ovaritis
 ovate
 ovation
+ovational
 ovenbirds
 ovenlike
 ovens
@@ -48206,6 +48228,7 @@ plantain
 plantains
 plantation
 plantations
+planted
 planters
 plantings
 plantlets
@@ -48579,6 +48602,7 @@ podiums
 podophyllins
 podsolizations
 podzolic
+podzolizations
 podzolized
 poechore
 poet
@@ -50502,6 +50526,7 @@ promulgated
 promulgates
 promulgating
 promulgation
+promulgators
 promulging
 pronate
 pronated
@@ -51080,6 +51105,7 @@ puerpera
 puerperae
 puerperal
 puffed
+puffers
 puffily
 puffs
 puffy
@@ -53186,6 +53212,7 @@ reducibilities
 reducible
 reductases
 reductional
+reductionisms
 reductionist
 reductionistic
 reductive
@@ -54964,6 +54991,7 @@ retransmission
 retransmit
 retransmitted
 retread
+retreaded
 retreading
 retreads
 retreatant
@@ -58681,6 +58709,7 @@ shippons
 shipsides
 shipway
 shipways
+shipworm
 shipworms
 shipwrecking
 shipyard
@@ -59957,6 +59986,7 @@ smartens
 smartie
 smarties
 smarting
+smartly
 smashes
 smashing
 smashup
@@ -60345,6 +60375,7 @@ sodalities
 sodality
 sodamide
 sodded
+soddened
 soddening
 soddens
 soddies
@@ -65104,6 +65135,7 @@ telco
 telcos
 tele
 telecaster
+telecasting
 telecommuted
 telecommuter
 telecommutes
@@ -65472,6 +65504,7 @@ tesselates
 tesselating
 tessellation
 tesseracts
+tessiture
 testa
 testability
 testaceous
@@ -66383,6 +66416,7 @@ togues
 toil
 toiled
 toiler
+toilers
 toilet
 toiletries
 toiletry
@@ -72665,6 +72699,7 @@ winterized
 winterizes
 winterly
 wintles
+wintriest
 wintriness
 wintry
 winze
