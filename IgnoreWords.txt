@@ -924,6 +924,7 @@ affinity
 affirmances
 affirmants
 affirmation
+affirmatives
 affirmed
 affirmer
 affirmers
@@ -1525,6 +1526,7 @@ alley
 alleyway
 allheal
 allheals
+alliaceous
 alliances
 allicin
 allicins
@@ -3414,6 +3416,7 @@ articulacy
 articular
 articulate
 articulated
+articulations
 articulative
 articulators
 articulatory
@@ -4164,10 +4167,12 @@ averred
 averring
 aversenesses
 aversion
+aversiveness
 avertable
 averted
 avertible
 averts
+aves
 avgolemono
 avgolemonos
 avians
@@ -4204,6 +4209,7 @@ avouchments
 avowals
 avowers
 avulse
+avulsed
 avulsion
 avulsions
 avuncular
@@ -5356,6 +5362,7 @@ beedi
 beedies
 beefaloes
 beefcake
+beefeaters
 beefier
 beefiness
 beefinesses
@@ -7297,6 +7304,7 @@ bourn
 bourns
 bourrides
 boursins
+bourtree
 bouse
 boused
 bousing
@@ -9200,6 +9208,7 @@ carbonize
 carbonizes
 carbonless
 carbonnade
+carbonnades
 carbonous
 carbonyl
 carbonylation
@@ -10430,6 +10439,7 @@ cherty
 cherub
 cherubic
 cherubim
+chervil
 cheshire
 chessboards
 chessman
@@ -12760,6 +12770,7 @@ conduct
 conductances
 conductibility
 conductible
+conduction
 conductions
 conductivities
 conductivity
@@ -19250,6 +19261,7 @@ dressier
 dressiest
 dressiness
 dressinesses
+dressing
 dressings
 dressmaker
 dressmakers
@@ -20839,6 +20851,7 @@ enduringness
 enduringnesses
 enduro
 enemies
+energids
 energies
 energization
 energizations
@@ -21539,6 +21552,7 @@ eristical
 ermine
 erne
 erodable
+erode
 erodible
 eros
 erosely
@@ -26984,6 +26998,7 @@ goalkeepers
 goalless
 goaltender
 goaltendings
+goalward
 goanna
 goas
 goat
@@ -35128,6 +35143,7 @@ lampooning
 lampoons
 lamppost
 lamsters
+lanate
 lanated
 lance
 lancers
@@ -37251,6 +37267,7 @@ madtoms
 madwomen
 madzoon
 mae
+maelstrom
 maelstroms
 maenadisms
 maes
@@ -37585,6 +37602,7 @@ manglers
 mangles
 mangling
 mangoes
+mangold
 mangonel
 mangonels
 mangos
@@ -39618,6 +39636,7 @@ misgoverned
 misgoverning
 misgovernment
 misgraft
+misgrew
 misgrowing
 misguessed
 misguesses
@@ -43548,6 +43567,7 @@ offed
 offence
 offences
 offended
+offenders
 offending
 offense
 offenses
@@ -43979,6 +43999,7 @@ oratrix
 orbed
 orbier
 orbit
+orbital
 orbitals
 orbited
 orbiter
@@ -46273,6 +46294,7 @@ parched
 parchesis
 parchisis
 parchments
+parclose
 pard
 pardah
 pardahs
@@ -49680,6 +49702,7 @@ pranged
 pranging
 prangs
 prank
+prankishly
 prankishnesses
 pranks
 praos
@@ -51308,6 +51331,7 @@ psittacoses
 psittacosis
 psoae
 psoai
+psoas
 psoatic
 psocid
 psoralens
@@ -53917,6 +53941,7 @@ reglossing
 reglowing
 reglows
 reglue
+reglued
 reglues
 regluing
 regnal
@@ -54149,6 +54174,7 @@ rejectees
 rejectingly
 rejection
 rejigger
+rejigging
 rejoiced
 rejoicer
 rejoicing
@@ -55601,6 +55627,7 @@ rewidens
 rewin
 rewinds
 rewins
+rewire
 rewired
 rewon
 reword
@@ -56738,6 +56765,7 @@ safetied
 safeties
 safety
 safetyman
+safetymen
 safflower
 safflowers
 saffron
@@ -57086,6 +57114,7 @@ sapphire
 sapphism
 sapphisms
 sapphist
+sappier
 sappiest
 sappily
 sappiness
@@ -58788,6 +58817,7 @@ shader
 shadier
 shadiest
 shadkhan
+shadkhanim
 shadkhans
 shadow
 shadowers
@@ -63869,6 +63899,7 @@ sumpters
 sumptuary
 sumpweeds
 sun
+sunbaked
 sunbather
 sunbathers
 sunbathes
@@ -64598,6 +64629,7 @@ switchback
 switchbacked
 switchbacks
 switchblade
+switchboard
 switcher
 switcheroo
 switcheroos
@@ -65549,6 +65581,7 @@ teetotalists
 teetotalled
 teetotalling
 teetotally
+teetotals
 tefillin
 teflons
 teggs
@@ -71632,6 +71665,7 @@ viragos
 virelays
 viremia
 vireo
+vireonine
 virescences
 virescent
 virgates
@@ -73668,6 +73702,7 @@ xenophobe
 xenophobes
 xenophobically
 xenopuses
+xeriscape
 xeroderma
 xerodermas
 xerographic
