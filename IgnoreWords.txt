@@ -531,6 +531,7 @@ adaptivities
 adaptivity
 add
 addable
+addaxes
 addedly
 addenda
 adder
@@ -945,9 +946,11 @@ affluences
 affluencies
 affluency
 affluents
+affluxes
 affordabilities
 affordability
 affordably
+afforded
 affording
 afforestation
 afforested
@@ -6074,6 +6077,7 @@ billboard
 billboarded
 billboards
 billbug
+billbugs
 billers
 billet
 billeted
@@ -9814,6 +9818,7 @@ cecally
 cecity
 cecum
 cedarbird
+ceded
 cees
 ceil
 ceiled
@@ -10015,6 +10020,7 @@ certes
 certifiable
 certifiably
 certificating
+certification
 certified
 certifies
 certiorari
@@ -14539,6 +14545,7 @@ crimping
 crimple
 crimples
 crimps
+crimson
 crimsoned
 crimsoning
 cringe
@@ -17266,6 +17273,7 @@ devilwoods
 deviousnesses
 devisal
 devise
+devisees
 devises
 devisor
 devitrifying
@@ -17507,6 +17515,7 @@ dichondras
 dichotic
 dichotomist
 dichotomization
+dichotomized
 dichotomizing
 dichroic
 dichroisms
@@ -18898,6 +18907,7 @@ don
 dona
 donate
 donates
+donating
 donative
 donators
 donees
@@ -19202,6 +19212,7 @@ dragonet
 dragonflies
 dragonheads
 dragooning
+dragrope
 dragsters
 dragstrip
 drails
@@ -19340,6 +19351,7 @@ dribbling
 driblets
 driegh
 drier
+drift
 driftage
 drifted
 drifter
@@ -25941,6 +25953,7 @@ galvanises
 galvanising
 galvanism
 galvanization
+galvanize
 galvanizes
 galvanometers
 galvanoscope
@@ -32112,6 +32125,7 @@ inexplicable
 inexpressive
 inexpungible
 inextricability
+infall
 infallibilities
 infallibility
 infallible
@@ -32233,6 +32247,7 @@ infra
 infract
 infrahuman
 infrangibility
+infrangible
 infrared
 infrastructure
 infrequence
@@ -34557,6 +34572,7 @@ khaphs
 khats
 khazen
 khazenim
+khazens
 khedah
 khedahs
 khedives
@@ -37858,6 +37874,7 @@ marbleizes
 marbleizing
 marbler
 marblers
+marblier
 marblings
 marcel
 marcelled
@@ -38615,6 +38632,7 @@ mental
 mentalese
 mentalism
 mentalist
+mentality
 mentee
 mentees
 menthenes
@@ -43052,6 +43070,7 @@ northerns
 northers
 northings
 northland
+northlands
 northwester
 northwesterly
 noseband
@@ -43866,6 +43885,7 @@ omnific
 omnificent
 omnimode
 omnipotences
+omnipotent
 omnipotently
 omnipresence
 omnirange
@@ -45104,6 +45124,7 @@ overblowing
 overblown
 overboiled
 overboils
+overbook
 overbooked
 overborrowing
 overborrows
@@ -46277,6 +46298,7 @@ papule
 papyral
 papyrologist
 papyrology
+papyrus
 papyruses
 par
 para
@@ -47062,6 +47084,7 @@ pelecypods
 pelerines
 pelfs
 pelicans
+pelisses
 pelite
 pellagra
 pellagras
@@ -49219,6 +49242,7 @@ pollinia
 pollinize
 pollinizers
 pollinizing
+pollinoses
 pollinosis
 pollist
 pollists
@@ -50937,6 +50961,7 @@ progressivities
 progressivity
 progs
 progun
+prohibiting
 prohibitionist
 prohibitionists
 prohibitions
@@ -52729,6 +52754,7 @@ rankless
 rankling
 rankly
 ranknesses
+ransomer
 ransomers
 rant
 ranter
@@ -60191,6 +60217,7 @@ skulling
 skunk
 skunkier
 skunkiest
+skunking
 skunks
 skyboard
 skyborne
@@ -62634,6 +62661,7 @@ stereotypes
 stereotypic
 stereotypically
 stereotyping
+stereotypy
 steric
 sterical
 sterically
@@ -64052,6 +64080,7 @@ summarises
 summarist
 summarizable
 summarizations
+summarizers
 summated
 summating
 summed
@@ -65689,6 +65718,7 @@ teaseling
 teaselled
 teasellers
 teasels
+teaser
 teasers
 teases
 teashop
@@ -65901,6 +65931,7 @@ telophases
 telos
 telpher
 telphered
+telphers
 tels
 telson
 telsons
@@ -70193,6 +70224,7 @@ unnervingly
 unnilhexiums
 unnilpentiums
 unnoisy
+unnourishing
 unobtainable
 unobtrusively
 unobtrusiveness
@@ -71141,6 +71173,7 @@ valerate
 valerian
 valerians
 valet
+valeted
 valeting
 valgoid
 valguses
@@ -71556,6 +71589,7 @@ verjuices
 vermeil
 vermeils
 vermes
+vermian
 vermicelli
 vermicellis
 vermiculate
@@ -73884,6 +73918,7 @@ wyes
 wyle
 wyled
 wyn
+wynd
 wynns
 wyns
 wyting
