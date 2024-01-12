@@ -761,6 +761,7 @@ advancer
 advantageously
 advantages
 advecting
+advection
 adventitia
 adventitias
 adventitious
@@ -2625,6 +2626,7 @@ antipot
 antiprogressive
 antiquarianism
 antiquarianisms
+antiquark
 antiquate
 antiquated
 antiquation
@@ -4230,6 +4232,7 @@ avowals
 avowers
 avulse
 avulsed
+avulsing
 avulsion
 avulsions
 avuncular
@@ -4483,6 +4486,7 @@ backstamps
 backstay
 backstitch
 backstop
+backstopped
 backstreet
 backstretch
 backswept
@@ -7305,6 +7309,7 @@ boulders
 boulevard
 boulevardier
 bouleversement
+bounced
 bouncer
 bouncers
 bouncily
@@ -8949,6 +8954,7 @@ canella
 caner
 canes
 canescent
+caneware
 canfield
 canfields
 canful
@@ -9378,6 +9384,7 @@ carle
 carlin
 carline
 carling
+carlins
 carman
 carmen
 carminative
@@ -9911,6 +9918,7 @@ censoring
 censorious
 censoriousness
 censors
+censorships
 censual
 censurable
 censused
@@ -11859,6 +11867,7 @@ codebtors
 codeias
 codeinas
 codeines
+codeless
 coden
 codens
 codependence
@@ -13901,6 +13910,7 @@ cossacks
 cosset
 cosseted
 cosseting
+cost
 costa
 costae
 costal
@@ -15043,6 +15053,7 @@ cupid
 cupolaed
 cupolaing
 cupolas
+cupper
 cuppers
 cuppier
 cuppiest
@@ -20571,6 +20582,7 @@ embolectomies
 embolies
 embolisms
 embolization
+embolizations
 emboly
 embonpoints
 embordered
@@ -21534,6 +21546,7 @@ epithelia
 epithelialize
 epitheliums
 epithelization
+epithelizations
 epithelized
 epithelizes
 epithelizing
@@ -22235,6 +22248,7 @@ evoke
 evoked
 evoking
 evolution
+evolutionisms
 evolutionist
 evolutions
 evolve
@@ -27359,6 +27373,7 @@ gorgers
 gorgeted
 gorgets
 gorgonians
+gorgonizes
 gorgonizing
 gorgons
 gorhen
@@ -29119,6 +29134,7 @@ hedgehoppers
 hedgepigs
 hedgier
 hedgiest
+hedonism
 hedonisms
 hedonist
 hedonistically
@@ -30037,6 +30053,7 @@ homonym
 homonymously
 homonyms
 homoousian
+homophile
 homophiles
 homophobe
 homophobes
@@ -31512,6 +31529,7 @@ implying
 impolitely
 impoliteness
 impolitical
+imponderables
 imponderably
 impone
 imponed
@@ -34310,6 +34328,7 @@ junctional
 juncture
 jungled
 junglelike
+junglier
 juniorities
 juniors
 junketeered
@@ -42067,6 +42086,7 @@ nereides
 nereis
 nerol
 nerved
+nerveless
 nervelessnesses
 nerviest
 nervine
@@ -43279,6 +43299,7 @@ nouns
 nourish
 nourished
 nourisher
+nourishers
 nourishments
 nous
 nouses
@@ -47264,6 +47285,7 @@ pencilers
 penciling
 penciller
 pencillers
+pencilling
 pencillings
 pencils
 pended
@@ -52900,6 +52922,7 @@ ranids
 ranked
 ranker
 rankers
+ranking
 rankings
 rankle
 rankless
@@ -54760,6 +54783,7 @@ remorselessly
 remotely
 remoteness
 remotenesses
+remotest
 remotivated
 remotivates
 remotivating
@@ -56143,6 +56167,7 @@ ricocheting
 ricochets
 ricochetting
 ricotta
+ricrac
 ricracs
 rictal
 rictuses
@@ -56546,6 +56571,7 @@ rondo
 rondures
 ronion
 ronnels
+rontgen
 ronyons
 rood
 roofed
@@ -58792,6 +58818,7 @@ semiworks
 semolina
 sempiternal
 sempiternally
+semple
 sempre
 sempstresses
 sen
@@ -59360,6 +59387,7 @@ sheilas
 shekalim
 shekelim
 sheldrake
+shelduck
 shelducks
 shelf
 shellacked
@@ -67671,6 +67699,7 @@ tousing
 tousled
 tousles
 tousling
+touting
 touzles
 tovarich
 tovarish
@@ -68465,6 +68494,7 @@ trite
 tritely
 tritenesses
 tritest
+tritheist
 trithing
 trithings
 triticales
@@ -69968,6 +69998,7 @@ unearned
 unearthing
 unearthliness
 unearthly
+unearths
 uneases
 uneasier
 uneasy
@@ -70010,6 +70041,7 @@ unexamined
 unexampled
 unexcelled
 unexceptionable
+unexceptionably
 unexcited
 unexciting
 unexcused
@@ -71565,6 +71597,7 @@ vaunty
 vaus
 vav
 vavasours
+vavassor
 vaw
 vawntie
 vealer
@@ -72876,6 +72909,7 @@ waughted
 wauked
 wauking
 wauled
+waur
 waveband
 waved
 waveforms
@@ -73714,6 +73748,7 @@ wisewomen
 wish
 wishbone
 wishfulness
+wishless
 wispily
 wispinesses
 wispish
