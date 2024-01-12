@@ -1599,6 +1599,7 @@ alludes
 alluring
 alluringly
 allusive
+allusively
 allusivenesses
 alluvia
 alluvial
@@ -2406,6 +2407,7 @@ antevert
 anteverted
 anthelia
 anthelmintics
+anthem
 anthemed
 anthemia
 anthemic
@@ -2984,6 +2986,7 @@ appointers
 appointing
 appointive
 appointment
+appointors
 apportioning
 apportionment
 apposable
@@ -9671,6 +9674,7 @@ cate
 catecheses
 catechetical
 catechised
+catechismal
 catechisms
 catechists
 catechizations
@@ -9932,6 +9936,7 @@ censors
 censorships
 censual
 censurable
+censurers
 censused
 censuses
 cent
@@ -12037,6 +12042,7 @@ cognominal
 cognoscible
 cogon
 cogs
+cogway
 cogways
 cohabit
 cohabitant
@@ -15103,6 +15109,7 @@ curate
 curatively
 curatorial
 curators
+curatorship
 curbers
 curbings
 curbs
@@ -17953,6 +17960,7 @@ dipsas
 dipsomania
 dipsomaniac
 dipsomaniacal
+dipsos
 dipsticks
 dipt
 dipterans
@@ -18057,6 +18065,7 @@ disavowing
 disbanded
 disbands
 disbarment
+disbeliefs
 disbelieve
 disbelieves
 disbelieving
@@ -19808,6 +19817,7 @@ duteous
 duties
 dutifulnesses
 duumvir
+duumvirate
 duumviri
 duumvirs
 duvet
@@ -21247,6 +21257,7 @@ ensorcellment
 ensorcells
 ensouled
 ensphering
+ensues
 ensuing
 ensure
 ensuring
@@ -21356,6 +21367,7 @@ entrenched
 entrenching
 entrenchments
 entrepot
+entrepreneurial
 entrepreneurs
 entresol
 entropies
@@ -24096,6 +24108,7 @@ firstness
 firstnesses
 firth
 fiscal
+fiscalist
 fiscalists
 fiscally
 fishability
@@ -26476,6 +26489,7 @@ genericnesses
 generousnesses
 genes
 geneses
+genesis
 geneticist
 geneticists
 genetics
@@ -28928,6 +28942,7 @@ hauls
 haulyard
 haulyards
 haunches
+haunter
 haunts
 haustella
 haustoria
@@ -32081,6 +32096,7 @@ indictee
 indicting
 indictions
 indictment
+indifferencies
 indifferently
 indigen
 indigence
@@ -32984,6 +33000,7 @@ interflowed
 interflowing
 interfluves
 interfold
+interfolded
 interfused
 interglacial
 intergradation
@@ -33940,6 +33957,7 @@ janty
 japanized
 japanizing
 japanned
+japanner
 japanners
 japans
 japer
@@ -34032,6 +34050,7 @@ jees
 jehad
 jejuna
 jejunal
+jejunenesses
 jejunity
 jellaba
 jellabas
@@ -36806,6 +36825,7 @@ lockouts
 lockram
 lockrams
 locks
+lockset
 lockstitch
 lockstitching
 lockups
@@ -37015,6 +37035,7 @@ lopsidedness
 lopsidednesses
 lopstick
 loquaciously
+loquacities
 loquacity
 loquat
 loquats
@@ -42129,6 +42150,7 @@ nerol
 nerved
 nerveless
 nervelessnesses
+nerves
 nerviest
 nervine
 nervines
@@ -45791,6 +45813,7 @@ oversewing
 oversews
 oversexed
 overshade
+overshadow
 overshadowed
 overshadowing
 overshadows
@@ -46285,6 +46308,7 @@ pallbearers
 pallet
 palletised
 palletises
+palletising
 palletizations
 palletize
 palletizing
@@ -49057,6 +49081,7 @@ playmakings
 playmate
 playoffs
 playpens
+plays
 playtime
 playtimes
 playwright
@@ -52731,6 +52756,7 @@ radarscope
 radding
 raddled
 raddling
+radials
 radian
 radiances
 radians
@@ -55717,6 +55743,7 @@ reticles
 reticular
 reticulately
 reticulates
+reticulating
 reticulation
 reticulations
 reticule
@@ -56754,6 +56781,7 @@ roubles
 rouche
 rouens
 rouge
+rouged
 rouges
 rough
 roughage
@@ -56850,6 +56878,7 @@ rubberiest
 rubberizes
 rubbernecked
 rubberneckers
+rubbery
 rubbies
 rubbing
 rubbish
@@ -57816,6 +57845,7 @@ scalloper
 scalls
 scalogram
 scalped
+scalpel
 scalper
 scalps
 scaly
@@ -60535,6 +60565,7 @@ slank
 slanting
 slantingly
 slantways
+slanty
 slapdashes
 slapper
 slapping
@@ -61277,6 +61308,7 @@ softa
 softback
 softbacks
 softballers
+softcover
 softcovers
 soften
 softener
@@ -62713,6 +62745,7 @@ starships
 starters
 startlement
 startlingly
+startups
 starvations
 stash
 stashed
@@ -70049,6 +70082,7 @@ undraws
 undressed
 undrest
 undrinkable
+undulance
 undular
 undulated
 undulates
@@ -72455,6 +72489,7 @@ voluntarinesses
 voluntarist
 voluntaristic
 voluntaryism
+voluntaryisms
 volunteered
 volunteering
 volunteerism
