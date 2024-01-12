@@ -7,3 +7,11 @@ com.liferay.portal.dao.orm.custom.sql java code examples | Tabnine,https://www.t
 CommservSurveyQuery_10236.sql - Commvault Metrics Reporting,https://edc.commvault.com/downloads/SQLScripts/CommservSurveyQuery_10236.sql
 /rn4/makeDb.sql - Browser Metadata - WashUGb Issue Tracking ...,https://epgg-test.wustl.edu/redmine/projects/metadata/repository/revisions/84c811310e354c67c772e8fba69a608080a031da/entry/rn4/makeDb.sql
 spamdb / Database / spam_db.sql,https://isgb.otago.ac.nz/infosci/nigel.stanger/spamdb/blob/master/Database/spam_db.sql
+oracle-script-lib/sql/dbms_output-allow-blank-lines.sql at master,https://github.com/jkstill/oracle-script-lib/blob/master/sql/dbms_output-allow-blank-lines.sql
+macchinetta-web-blank-thymeleaf/infra/common/database/H2 ...,https://github.com/Macchinetta/macchinetta-web-blank-thymeleaf/blob/master/infra/common/database/H2-schema.sql
+Blank - TFI,https://www.thefeministinstitute.org/1.sql
+https://castle.eiu.edu/a_illia/mis4200/Ch4BProgFor...,https://castle.eiu.edu/a_illia/mis4200/Ch4BProgForClass.sql
+librdf.sqlite/schema_mig_to_2.sql at master - librdf.sqlite - Codeberg ...,https://codeberg.org/mro/librdf.sqlite/src/branch/master/sql/schema_mig_to_2.sql
+http://people.umass.edu/bikehara/dbanotes/dba_mapp...,http://people.umass.edu/bikehara/dbanotes/dba_mapper.sql
+https://hsqldb.org/doc/2.0/verbatim/sample/plsql.sql,https://hsqldb.org/doc/2.0/verbatim/sample/plsql.sql
+https://download.oracle.com/otn_hosted_doc/timeste...,https://download.oracle.com/otn_hosted_doc/timesten/1121/quickstart/sample_code/plsql/loop_insert.sql
