@@ -214,6 +214,7 @@ accipiter
 accipitrine
 acclaimer
 acclaimers
+acclaiming
 acclimate
 acclimated
 acclimates
@@ -2124,6 +2125,7 @@ andantinos
 andesites
 andesitic
 andesyte
+andesytes
 andro
 androcentric
 androecia
@@ -3612,6 +3614,7 @@ assaults
 assayer
 assays
 assemblage
+assemblagists
 assemblers
 assembles
 assemblyman
@@ -3850,6 +3853,7 @@ atropisms
 attach
 attacher
 attaches
+attachment
 attachments
 attack
 attacker
@@ -3941,6 +3945,7 @@ aubergine
 aubretia
 aubrietias
 auburn
+auction
 auctioneers
 aucuba
 aucubas
@@ -5551,6 +5556,7 @@ bekiss
 bekissing
 beknight
 beknighted
+beknighting
 beknots
 belabor
 belabored
@@ -12180,6 +12186,7 @@ coleslaws
 colessees
 colessors
 coleuses
+colewort
 colicin
 colickiest
 colicky
@@ -12995,6 +13002,7 @@ confitures
 conflagrant
 conflated
 conflating
+conflation
 conflations
 conflict
 conflictful
@@ -16979,6 +16987,7 @@ depurator
 depurators
 deputable
 deputation
+depute
 deputed
 deputizations
 deputize
@@ -18101,6 +18110,7 @@ disassembles
 disassociates
 disassociation
 disassociations
+disaster
 disavowable
 disavowing
 disbanded
@@ -19520,6 +19530,7 @@ drivelers
 driveling
 drivelling
 drivels
+driven
 drivenness
 driver
 drivers
@@ -21872,6 +21883,7 @@ escapable
 escapade
 escapades
 escaped
+escaper
 escapers
 escapes
 escaping
@@ -22171,6 +22183,7 @@ euphemized
 euphemizers
 euphemizes
 euphenic
+euphonic
 euphonies
 euphoniously
 euphonium
@@ -28019,6 +28032,7 @@ groschen
 grosgrain
 grosgrains
 grossulars
+grosze
 grotesque
 grotesquely
 grotesqueries
@@ -28217,6 +28231,7 @@ guileful
 guilefulness
 guileless
 guiling
+guillemets
 guillemot
 guilloche
 guilloches
@@ -28274,6 +28289,7 @@ gummed
 gummers
 gumminess
 gumminesses
+gummites
 gummose
 gummosis
 gummy
@@ -31023,6 +31039,7 @@ hypocoristical
 hypocotyl
 hypocrites
 hypocycloid
+hypodermal
 hypoderms
 hypodiploid
 hypodiploidies
@@ -33163,6 +33180,7 @@ internationally
 interne
 interned
 internee
+internees
 internodal
 internucleonic
 internuncial
@@ -39514,6 +39532,7 @@ mikes
 mikron
 mikvos
 mikvot
+mikvoth
 mil
 miladies
 miladis
@@ -40864,6 +40883,7 @@ moralize
 moralizing
 morass
 moratoria
+moratorium
 moratory
 morays
 morbidity
@@ -42023,6 +42043,7 @@ necessitousness
 necessity
 neck
 neckband
+neckcloth
 neckcloths
 necked
 neckerchief
@@ -42372,6 +42393,7 @@ newspapered
 newspapering
 newspapermen
 newspeak
+newspeaks
 newspeople
 newspersons
 newsprints
@@ -48914,6 +48936,7 @@ pities
 pitiful
 pitifuller
 pitifullest
+pitifully
 pitifulnesses
 pitilessnesses
 pitmans
@@ -51477,6 +51500,7 @@ propositi
 proposition
 propositioning
 propositions
+propound
 propounders
 propounding
 propraetor
@@ -53455,6 +53479,7 @@ reassembles
 reassemblies
 reassembly
 reassert
+reasserted
 reasserting
 reassertion
 reasserts
@@ -64959,8 +64984,10 @@ surface
 surfaced
 surfacer
 surfacers
+surfactants
 surfbird
 surfboarder
+surfboards
 surfeiting
 surfer
 surffishes
@@ -65476,6 +65503,7 @@ syncretized
 syncretizing
 syncytial
 syndactylies
+syndactylism
 syndesis
 syndesises
 syndets
@@ -65698,6 +65726,7 @@ tailer
 tailfan
 tailfans
 tailfin
+tailgate
 tailgated
 tailgater
 tailgates
@@ -67302,6 +67331,7 @@ tightens
 tightfisted
 tightnesses
 tightropes
+tights
 tightwad
 tightwire
 tiglon
@@ -68185,6 +68215,7 @@ transference
 transferential
 transferred
 transferrers
+transferrin
 transferring
 transfers
 transfix
@@ -70992,6 +71023,7 @@ unstacking
 unstacks
 unstained
 unstalked
+unstandardized
 unstarred
 unstate
 unsteadied
@@ -72446,6 +72478,7 @@ visionarinesses
 visionary
 visitable
 visitant
+visitants
 visitation
 visiters
 visiting
@@ -72679,6 +72712,7 @@ vouchsafe
 vouchsafed
 vouchsafes
 vouchsafing
+voudoun
 vouvray
 vowed
 vowelize
@@ -73833,6 +73867,7 @@ wimped
 wimpier
 wimpiest
 wimpinesses
+wimple
 wimpled
 wimps
 win
