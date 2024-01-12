@@ -505,6 +505,7 @@ acutances
 acutest
 acyclovir
 acyclovirs
+acylate
 acylates
 acylating
 acyloins
@@ -1638,6 +1639,7 @@ alphabetized
 alphabetizing
 alphosis
 alpinely
+alpines
 alpinism
 alps
 alright
@@ -2736,6 +2738,7 @@ anyons
 anyplace
 anythings
 aorist
+aoristically
 aortal
 aortas
 aortic
@@ -9260,6 +9263,7 @@ carbureted
 carburetions
 carburetor
 carburetted
+carburetters
 carburetting
 carburettor
 carburettors
@@ -9424,6 +9428,7 @@ carpogonia
 carpogonial
 carpooled
 carpoolers
+carpooling
 carport
 carports
 carpospore
@@ -10356,6 +10361,7 @@ chauvinisms
 chaw
 chawbacon
 chawbacons
+chawed
 chawer
 chawing
 chayote
@@ -12336,6 +12342,7 @@ cometary
 cometh
 comeuppance
 comfiness
+comfortable
 comfortably
 comforter
 comforting
@@ -13552,6 +13559,7 @@ copulation
 copulative
 copulatives
 copurified
+copurifying
 copybook
 copycats
 copycatted
@@ -14866,6 +14874,7 @@ cubage
 cubanelle
 cubature
 cubbies
+cubby
 cubbyholes
 cube
 cubeb
@@ -16632,6 +16641,7 @@ denazify
 dendriform
 dendrite
 dendroid
+dendrologic
 dendrological
 dendrons
 dene
@@ -16728,6 +16738,7 @@ deontology
 deorbiting
 deoxidations
 deoxidized
+deoxidizer
 deoxidizers
 deoxidizes
 deoxy
@@ -18881,6 +18892,7 @@ dolors
 dolphinfish
 dolphinfishes
 dolt
+doltishly
 domal
 dome
 domes
@@ -19513,6 +19525,7 @@ dual
 dualistic
 dualists
 dualities
+duality
 dualized
 dualizes
 duals
@@ -25462,6 +25475,7 @@ fronter
 frontes
 fronting
 frontispiece
+frontispieces
 frontless
 frontlets
 frontline
@@ -27116,6 +27130,7 @@ goatishly
 goatskin
 goatskins
 goatsucker
+gobangs
 gobbed
 gobbet
 gobbledegooks
@@ -30568,6 +30583,7 @@ hydrocephaluses
 hydrochlorides
 hydrocolloid
 hydrocolloids
+hydrocortisone
 hydrocracker
 hydrocrackers
 hydrodynamic
@@ -31945,6 +31961,7 @@ indicatively
 indices
 indicias
 indict
+indictee
 indicting
 indictions
 indictment
@@ -34942,6 +34959,7 @@ kopeck
 kopek
 kopeks
 kophs
+kopiyka
 koppie
 korats
 korma
@@ -35302,6 +35320,7 @@ landlordisms
 landlubber
 landlubbers
 landman
+landmarking
 landmasses
 landowner
 landownership
@@ -37384,6 +37403,7 @@ maderizes
 maderizing
 madhouse
 madman
+madness
 madnesses
 madrasa
 madrasah
@@ -44663,6 +44683,7 @@ outfitted
 outfitters
 outflank
 outflanked
+outfloat
 outfloating
 outfloats
 outflow
@@ -45205,7 +45226,9 @@ overcompressing
 overconcerns
 overconstructed
 overconstructs
+overconsuming
 overconsumption
+overcontrolling
 overcooking
 overcooks
 overcool
@@ -45323,6 +45346,7 @@ overextension
 overextensions
 overexuberant
 overfacile
+overfamiliar
 overfamiliarity
 overfast
 overfastidious
@@ -46169,6 +46193,7 @@ panache
 panaches
 panama
 panatela
+panatellas
 panbroiled
 panbroils
 pancake
@@ -47258,6 +47283,7 @@ peonage
 peonages
 peonies
 peonisms
+peons
 peony
 peopled
 peopling
@@ -51711,6 +51737,7 @@ pulmonates
 pulmonic
 pulmotor
 pulmotors
+pulpally
 pulper
 pulpiest
 pulpily
@@ -54763,6 +54790,7 @@ repackage
 repackager
 repaint
 repaints
+repair
 repairabilities
 repaired
 repairer
@@ -55890,6 +55918,7 @@ rheumatics
 rheumatology
 rheumiest
 rhigolenes
+rhinencephalon
 rhinestones
 rhinitides
 rhinoceri
@@ -60850,6 +60879,7 @@ snippily
 snippy
 snitched
 snitchers
+snitching
 snits
 snivelers
 snobberies
@@ -62255,6 +62285,7 @@ squeeze
 squeezer
 squeezers
 squeezing
+squeg
 squegged
 squegging
 squelches
@@ -64471,6 +64502,7 @@ supervisor
 supervisors
 superwave
 superwide
+supinely
 supinenesses
 supines
 supper
@@ -64539,10 +64571,12 @@ supremos
 suqs
 sura
 surah
+sural
 suras
 surbase
 surbased
 surceases
+surcharge
 surcharges
 surcharging
 surcoat
@@ -72881,6 +72915,7 @@ weeping
 weepings
 weeps
 weepy
+wees
 weeted
 weeting
 weevil
