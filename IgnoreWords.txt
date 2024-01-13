@@ -3657,6 +3657,7 @@ assertively
 asserts
 assess
 assessable
+assessed
 assesses
 assessments
 assessor
@@ -4143,6 +4144,7 @@ autogyros
 autoharp
 autoimmune
 autoinfection
+autoing
 autolysate
 autolysates
 autolyse
@@ -4804,6 +4806,7 @@ bandit
 banditries
 banditry
 banditti
+bandogs
 bandoleer
 bandolier
 bandoneon
@@ -5753,6 +5756,7 @@ benzanthracene
 benzanthracenes
 benzenoids
 benzidines
+benzimidazole
 benzimidazoles
 benzins
 benzoates
@@ -6462,6 +6466,7 @@ bittering
 bitterly
 bitterns
 bitternut
+bitterroots
 bitters
 bittersweet
 bittersweetly
@@ -10815,6 +10820,7 @@ chirpier
 chirpiest
 chirpily
 chirre
+chirred
 chirren
 chirres
 chirrs
@@ -12735,6 +12741,7 @@ complexed
 complexer
 complexes
 complexified
+complexify
 complexities
 complexnesses
 compliancy
@@ -13060,6 +13067,7 @@ confide
 confided
 confidences
 confident
+confidential
 confidently
 confiders
 confides
@@ -16772,6 +16780,7 @@ demimondaine
 demimondaines
 demirep
 demised
+demisemiquaver
 demisemiquavers
 demisters
 demiurgic
@@ -25495,6 +25504,7 @@ fowls
 foxfire
 foxgloves
 foxhole
+foxholes
 foxhound
 foxhunter
 foxhunters
@@ -27168,6 +27178,7 @@ glarier
 glariest
 glaring
 glaringnesses
+glasnost
 glassblower
 glassblowers
 glassblowing
@@ -27409,6 +27420,7 @@ glycerines
 glycerol
 glycerols
 glyceryl
+glycine
 glycines
 glycins
 glycogenesis
@@ -32005,6 +32017,7 @@ impurest
 imputabilities
 imputation
 imputative
+imputer
 imputers
 imputes
 in
@@ -32424,6 +32437,7 @@ indigoes
 indigoid
 indigoids
 indinavirs
+indirect
 indirection
 indirections
 indirectnesses
@@ -36415,6 +36429,7 @@ lepidopterists
 lepidopterology
 lepidotes
 leporidae
+leprechaun
 leprechaunish
 leprechauns
 leprosariums
@@ -36590,6 +36605,7 @@ librae
 librarians
 librarianship
 libraries
+library
 libras
 librates
 librational
@@ -38008,6 +38024,7 @@ mahimahi
 mahjong
 mahjongg
 mahlstick
+mahlsticks
 mahoe
 mahoes
 mahoganies
@@ -38544,6 +38561,7 @@ marrowfat
 marrows
 marry
 marsala
+marseille
 marseilles
 marsh
 marshalled
@@ -39324,6 +39342,7 @@ mesmerizer
 mesmerizes
 mesnalties
 mesnes
+mesoblast
 mesoblasts
 mesocarp
 mesocyclone
@@ -41971,6 +41990,7 @@ myoelectrical
 myofibril
 myofibrillar
 myofibrils
+myofilament
 myogenic
 myoglobin
 myoglobins
@@ -42894,6 +42914,7 @@ nitons
 nitpick
 nitpicked
 nitpickers
+nitpickiest
 nitpicks
 nitpicky
 nitrated
@@ -49609,6 +49630,7 @@ plentitude
 plentitudes
 plenty
 plenums
+pleochroic
 pleomorphic
 pleomorphism
 pleonal
@@ -49789,6 +49811,7 @@ poco
 pococurante
 pococurantism
 pococurantisms
+pocosen
 pocosens
 pocosin
 pocoson
@@ -49907,6 +49930,7 @@ polenta
 poler
 policewoman
 policewomen
+policies
 policyholder
 policyholders
 poling
@@ -51094,6 +51118,7 @@ preprimaries
 preprimary
 preprinted
 preprinting
+preprocessing
 preprocessor
 preprogram
 preprograming
@@ -57103,6 +57128,7 @@ rockingly
 rocklike
 rockling
 rocklings
+rockoon
 rockrose
 rockroses
 rocks
@@ -57486,6 +57512,7 @@ ruer
 ruers
 rufescent
 ruff
+ruffianism
 rufflers
 ruffles
 ruffly
@@ -62072,6 +62099,7 @@ somewhen
 somewhither
 somites
 sommeliers
+somnambulate
 somnambulating
 somnambulation
 somnambulations
@@ -66530,6 +66558,7 @@ tassies
 tastable
 taste
 tasted
+tastefulness
 tasteless
 tastelessly
 tastelessness
@@ -68706,6 +68735,7 @@ transeptal
 transfect
 transfecting
 transfection
+transfections
 transfer
 transferability
 transferal
@@ -69020,6 +69050,7 @@ triaxialities
 triaxiality
 triazines
 triazins
+triazole
 tribadic
 tribadism
 tribalisms
@@ -69691,6 +69722,7 @@ turnips
 turnkeys
 turnoffs
 turnouts
+turnovers
 turnpikes
 turns
 turnspit
@@ -73480,6 +73512,7 @@ wampuses
 wamus
 wamuses
 wand
+wander
 wandered
 wanderoos
 wanders
@@ -74173,6 +74206,7 @@ whiplike
 whipper
 whippers
 whippets
+whippiest
 whipping
 whippings
 whippletree
@@ -75474,6 +75508,7 @@ zonula
 zonular
 zonule
 zoochores
+zooecia
 zoogamete
 zoogenies
 zoogeny
