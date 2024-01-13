@@ -26,3 +26,13 @@ ext_tables.sql · 2.8.1 · Open / LU API - GitLab,https://git.lu.lv/open/lu_api/
 pypakutil - examples - loggerd - MySQL - sensors.sql - Bucknell Gitlab,https://gitlab.bucknell.edu/amm042/pypakutil/blob/f2d78c7c02cf3c19ef1c4ef35b77d2126642dcb0/examples/loggerd/MySQL/sensors.sql
 mysql-cluster-7.6.17 - Rasoul Jahanshahi - GitLab,https://git-seclab.bu.edu/rasoulj/mysql-server/-/blob/mysql-cluster-7.6.17/scripts/sys_schema/views/p_s/host_summary_by_statement_latency.sql
 dm-docs - db - clean - populate_experiment_role_type.sql - GitLab,https://git.aps.anl.gov/hparraga/dm-docs/-/blob/d0f15e0c2597a7d87b1df9b9d537588afbee20cf/db/clean/populate_experiment_role_type.sql
+monologue/incident/mysql/incident.sql at master - GitHub,https://github.com/google/monologue/blob/master/incident/mysql/incident.sql
+incident_1.sql - GitHub,https://github.com/snowplow/iglu-central/blob/master/sql/com.pagerduty/incident_1.sql
+https://raw.githubusercontent.com/UselessPress/dec...,https://raw.githubusercontent.com/UselessPress/decapitated-animals-data/master/animals.sql
+SAM.sql - Icinga Exchange,https://exchange.icinga.com/mortenmiddelthon/nagios_samanage/files/972/SAM.sql
+model.sql - James Halvorsen - GitLab,https://datascience.aeolus.wsu.edu/jhalvorsen/minisim/-/blob/dc00b9b0a2f3b63d4829d1f928c4db0d739a11b2/model.sql
+mcdr_test.sql - GitHub,https://raw.githubusercontent.com/harryahlas/sample-hr-database/master/scripts/mcdr_test.sql
+mysql-server - mysql-test - include - mtr_warnings.sql - GitLab,https://git-seclab.bu.edu/rasoulj/mysql-server/-/blob/mysql-5.6.30/mysql-test/include/mtr_warnings.sql
+pmm-backend - 05_reference - process_data.sql - GitLab,https://gitlab.ut.ee/public-pmm/pmm-backend/-/blob/master/05_reference/process_data.sql
+05_reference/process_data.sql - pmm-backend - GitLab,https://gitlab.ut.ee/public-pmm/pmm-backend/-/blob/e5afe10945f6677c039c9ae9189dfd978e9472d4/05_reference/process_data.sql
+semanticscuttle - sscuttle - data - tables-postgresql.sql,https://git.oeru.org/oeru/semanticscuttle/-/blob/971c96ebc9c6602fbb2f96a3df414e4abbc7c68a/sscuttle/data/tables-postgresql.sql
