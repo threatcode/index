@@ -1182,6 +1182,7 @@ agrias
 agribusinessman
 agribusinessmen
 agriculture
+agricultures
 agrimonies
 agrochemical
 agroforestries
@@ -2858,6 +2859,7 @@ aplastic
 aplite
 aplomb
 aplombs
+apneic
 apo
 apoapsis
 apocalypse
@@ -4414,11 +4416,13 @@ babe
 babels
 babesia
 babesiosis
+babiches
 babies
 babirusas
 baboo
 babools
 baboon
+baboonery
 babu
 babuls
 babus
@@ -7745,6 +7749,7 @@ breezes
 breeziest
 breezing
 breezy
+bregma
 bregmate
 bregmatic
 bremsstrahlung
@@ -8059,6 +8064,7 @@ brutified
 brutifies
 brutify
 brutifying
+bruting
 brutish
 brutishly
 brutishnesses
@@ -8074,6 +8080,7 @@ bryophyllums
 bryophytes
 bryophytic
 bryozoans
+bubal
 bubba
 bubbas
 bubbies
@@ -9905,6 +9912,7 @@ caveated
 caveator
 cavefish
 cavefishes
+caveman
 cavemen
 cavendishes
 cavernicolous
@@ -10173,6 +10181,7 @@ cervicitis
 cervicitises
 cervine
 cervix
+cesarean
 cesium
 cespitose
 cess
@@ -10540,6 +10549,7 @@ cheekful
 cheekfuls
 cheekinesses
 cheeking
+cheekless
 cheeky
 cheeped
 cheeping
@@ -12409,6 +12419,7 @@ colorists
 colorizations
 colorizing
 colorlessly
+colorlessness
 colorlessnesses
 colorpoint
 colorways
@@ -14083,6 +14094,7 @@ cotangent
 cote
 coteau
 cotenancies
+cotenant
 coterminous
 cothurns
 cotidal
@@ -14991,6 +15003,7 @@ crustal
 crustier
 crustily
 crustinesses
+crusting
 crustless
 crustose
 crutch
@@ -22979,6 +22992,7 @@ extemporary
 extemporise
 extemporised
 extemporises
+extemporize
 extemporizers
 extemporizes
 extemporizing
@@ -24877,6 +24891,7 @@ fluoridations
 fluorimeter
 fluorimeters
 fluorimetric
+fluorimetries
 fluorinates
 fluorine
 fluorines
@@ -26827,6 +26842,7 @@ geometrical
 geometrician
 geometrid
 geometrise
+geometrises
 geometrization
 geometrize
 geometrized
@@ -28118,6 +28134,7 @@ grimace
 grimaced
 grimacer
 grimacers
+grimalkin
 grimalkins
 griminess
 griminesses
@@ -30348,6 +30365,7 @@ homogenisations
 homogenise
 homogenising
 homogenizations
+homogenizing
 homogeny
 homogony
 homograft
@@ -30640,6 +30658,7 @@ hotbox
 hotch
 hotchpotches
 hotdog
+hotdogged
 hotdogs
 hotel
 hoteliers
@@ -31346,6 +31365,7 @@ ichs
 ichthyic
 ichthyofauna
 ichthyofaunal
+ichthyoid
 ichthyological
 ichthyologist
 ichthyology
@@ -33021,6 +33041,7 @@ insomniac
 insomnias
 insouls
 inspan
+inspanned
 inspecting
 inspective
 inspector
@@ -41719,6 +41740,7 @@ mundungo
 mundungus
 mundunguses
 mungoose
+mungooses
 muni
 municipal
 municipalities
@@ -42597,6 +42619,7 @@ neurofibromas
 neuroglial
 neurohormonal
 neurohumoral
+neuroleptic
 neuroleptics
 neurologic
 neurologically
@@ -42786,6 +42809,7 @@ nightclubber
 nightclubbing
 nightclubs
 nightdress
+nightdresses
 nightfall
 nightglow
 nightglows
@@ -44120,6 +44144,7 @@ obsidian
 obsolesce
 obsolescent
 obsolescently
+obsolescing
 obsoleted
 obsoletely
 obsoletenesses
@@ -45352,6 +45377,7 @@ outkilling
 outkiss
 outkissed
 outkissing
+outlandish
 outlandishness
 outlast
 outlaugh
@@ -46553,6 +46579,7 @@ pacifies
 pacifisms
 pacifist
 pacifists
+pacing
 packabilities
 packability
 packable
@@ -53926,6 +53953,7 @@ rebop
 rebored
 rebores
 reboring
+reborn
 rebound
 rebranch
 rebranching
@@ -56698,6 +56726,7 @@ rialto
 riant
 riantly
 rias
+ribald
 ribaldly
 ribaldries
 ribalds
@@ -56942,6 +56971,7 @@ ripstops
 risibilities
 risibility
 risible
+risibles
 risibly
 risings
 riskers
@@ -58590,6 +58620,7 @@ schooled
 schoolfellow
 schoolgirl
 schoolhouse
+schooling
 schoolmarmish
 schoolmasterish
 schoolmate
@@ -59111,6 +59142,7 @@ secretaries
 secretaryship
 secretaryships
 secreted
+secretest
 secretin
 secretion
 secretionary
@@ -69791,6 +69823,7 @@ twinkled
 twinkler
 twinkling
 twinkly
+twinned
 twins
 twinset
 twinsets
@@ -70996,6 +71029,7 @@ unijugate
 unilateral
 unilaterally
 unilineal
+unillusioned
 unilobed
 unimaginable
 unimaginably
@@ -73313,6 +73347,7 @@ waffing
 waffle
 wafflers
 wafflier
+waffling
 waftage
 wafted
 wafter
