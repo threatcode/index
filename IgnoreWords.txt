@@ -10023,6 +10023,7 @@ centerless
 centerlines
 centers
 centesimos
+centiares
 centillion
 centillions
 centimeters
@@ -10611,6 +10612,7 @@ chevrets
 chevy
 chevying
 chewable
+chewers
 chewiness
 chewinesses
 chia
@@ -11871,6 +11873,7 @@ cobelligerents
 cobia
 cobias
 cobras
+coca
 cocain
 cocaine
 cocainizes
@@ -11941,6 +11944,7 @@ cocounsels
 cocoyams
 cocozelle
 cocreated
+cocreating
 cocreator
 cocreators
 cocurator
@@ -18995,6 +18999,7 @@ doggishnesses
 doggo
 doggoneder
 doggonedest
+doggonest
 doggrel
 doggy
 dogies
@@ -20261,6 +20266,7 @@ edited
 editing
 edition
 editor
+editorialist
 editorialists
 editorializing
 editorships
@@ -22702,6 +22708,7 @@ exorcisers
 exorcises
 exorcising
 exorcism
+exorcisms
 exorcists
 exorcizes
 exorcizing
@@ -28083,6 +28090,7 @@ grizzliest
 grizzling
 grizzly
 groat
+groats
 grocer
 groceries
 grocery
@@ -29337,6 +29345,7 @@ hectometer
 heddles
 hedgehoppers
 hedgepigs
+hedgerow
 hedgier
 hedgiest
 hedonism
@@ -31841,6 +31850,7 @@ improvement
 improvements
 improver
 improving
+improvisation
 improvisations
 improvisator
 improvisatores
@@ -32002,6 +32012,7 @@ inch
 inched
 incher
 inchers
+inches
 inchoateness
 inchoative
 inchoatively
@@ -32871,6 +32882,7 @@ inshrined
 insight
 insightful
 insightfully
+insigne
 insignificance
 insignificances
 insignificantly
@@ -34183,6 +34195,7 @@ jaunce
 jaunced
 jaunces
 jauncing
+jaundice
 jauntier
 jauntiest
 jauntiness
@@ -37213,6 +37226,7 @@ loopholing
 loopily
 loos
 loosed
+loosely
 loosener
 looseners
 looses
@@ -40108,6 +40122,7 @@ misdescribed
 misdevelop
 misdiagnose
 misdiagnosed
+misdialed
 misdialled
 misdirect
 misdirected
@@ -40737,6 +40752,7 @@ moneymen
 moneys
 moneyworts
 mongered
+mongering
 mongoes
 mongol
 mongolian
@@ -41947,6 +41963,7 @@ naively
 naiveness
 naiver
 naivest
+naivete
 naivetes
 naivety
 nakeder
@@ -43216,6 +43233,7 @@ nonliquid
 nonliterary
 nonliterates
 nonlocals
+nonloving
 nonlyric
 nonmajor
 nonmalignant
@@ -46639,6 +46657,7 @@ pancreatitis
 pancreozymin
 pancreozymins
 pancytopenia
+pancytopenias
 pandanus
 pandemoniums
 pander
@@ -47606,6 +47625,7 @@ penalised
 penalising
 penalized
 penalizes
+penalizing
 penalties
 penances
 penates
@@ -48682,6 +48702,7 @@ picketboats
 picketer
 pickier
 pickinesses
+pickings
 pickle
 pickled
 pickles
@@ -48834,6 +48855,7 @@ pillagers
 pillages
 pillaging
 pillar
+pillarless
 pillars
 pillbox
 pilling
@@ -53377,6 +53399,7 @@ ratcheting
 ratchets
 rated
 ratemeter
+ratemeters
 ratepayer
 rates
 ratfink
@@ -55915,6 +55938,7 @@ restoked
 restoral
 restored
 restrain
+restrained
 restrainedly
 restraining
 restrains
@@ -56105,6 +56129,7 @@ retrack
 retracked
 retracking
 retracks
+retracted
 retractile
 retractilities
 retraction
@@ -56536,6 +56561,7 @@ riches
 richnesses
 richweed
 richweeds
+ricin
 ricins
 ricinus
 ricinuses
@@ -57112,6 +57138,7 @@ roughnecked
 roughnecks
 roughnesses
 roughriders
+rouille
 roulades
 rouleau
 rouleaus
@@ -62020,6 +62047,7 @@ sourdoughs
 soured
 sourer
 souring
+sourish
 sourly
 sourpuss
 sours
@@ -62555,6 +62583,7 @@ splenectomizing
 splenectomy
 splenia
 splenic
+splenii
 splenium
 splenius
 splenomegaly
@@ -65353,6 +65382,7 @@ swamp
 swamped
 swamplands
 swampy
+swamy
 swan
 swanker
 swankest
@@ -66459,6 +66489,7 @@ teenier
 teeniest
 teensier
 teentsier
+teentsy
 teenybopper
 teenyboppers
 tees
@@ -72751,6 +72782,7 @@ vitiate
 vitiates
 vitiating
 vitiations
+vitiator
 viticultures
 vitrain
 vitrectomy
@@ -73040,6 +73072,7 @@ waes
 waesuck
 wafered
 waffing
+waffle
 wafflers
 wafflier
 waftage
@@ -74046,6 +74079,7 @@ wifty
 wigans
 wiggeries
 wiggiest
+wiggings
 wiggle
 wiggles
 wiggling
@@ -74707,6 +74741,7 @@ xenons
 xenophiles
 xenophobe
 xenophobes
+xenophobic
 xenophobically
 xenopuses
 xeriscape
