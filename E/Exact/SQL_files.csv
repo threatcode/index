@@ -7,3 +7,42 @@ sql/version-004.sql · wip/csd-generalisations · GNOME / Geary · GitLab,https:
 usr/pgsql-9.5/share/extension/pgstattuple--1.3.sql ... - Gemfury,https://gemfury.com/schabrolles/rpm:postgresql95-contrib/-/content/usr/pgsql-9.5/share/extension/pgstattuple--1.3.sql
 Invantive.SQL - NuGet Must Haves Package,https://nugetmusthaves.com/Package/Invantive.SQL
 Text Publishing — Blog,https://www.textpublishing.com.au/blog/page/86.sql
+self-service-score.sql - dwallacerjm/analytics-boards - GitHub,https://github.com/dwallacerjm/analytics-boards/blob/master/help-center/sql/self-service-score.sql
+pljson/addons/json_helper.sql at master - GitHub,https://github.com/oberstet/pljson/blob/master/addons/json_helper.sql
+dba_tab_actual_all2.sql,http://people.umass.edu/bikehara/dbanotes/dba_tab_actual_all2.sql
+resultdb/internal/spanutil/init_db.sql - infra/luci/luci-go - Google Git,https://chromium.googlesource.com/infra/luci/luci-go/%2B/3671df2b9d94/resultdb/internal/spanutil/init_db.sql%3Fautodive%3D0%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F
+migrations/000008_remove_golang_text_config.down.sql - pkgsite ...,https://go.googlesource.com/pkgsite/%2B/refs/heads/master/migrations/000008_remove_golang_text_config.down.sql
+PostgreSQL: src/test/regress/sql/point.sql | Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/point.sql
+tools/normalize-casing.sql - monorail-avm99963 - Gitiles,https://gerrit.avm99963.com/plugins/gitiles/monorail-avm99963/%2B/4da723ca0f2dbc933a9d119917e11d2a769770f3/tools/normalize-casing.sql
+geary - sql - version-002.sql - GitLab - GNOME,https://gitlab.gnome.org/GNOME/geary/-/blob/b204f5d1353475b8a71d0cc0089722ffce919701/sql/version-002.sql
+orafce--3.25--4.0.sql - PGXN,https://api.pgxn.org/src/orafce/orafce-4.0.1/orafce--3.25--4.0.sql
+tables/emp-dep/emp-dep_user.sql ... - GitLab for ESI,https://git.esi-bru.be/429791/PERL/-/blob/1d4580316039fcc390484031ca2b4f6d65524379/tables/emp-dep/emp-dep_user.sql
+effe/postgres - Agit,https://agit.ai/effe/postgres/src/commit/eb3a1376c98a1d220354b468f4b09e4a1dca909a/contrib/pgstattuple/pgstattuple--1.2--1.3.sql
+dydxprotocol/v4-chain/dydx_stateful_order_handler.sql code ...,https://app.x23.ai/dydx/code/dydxprotocol/v4-chain/files/indexer%5B_%5Dservices%5B_%5Dender%5B_%5Dsrc%5B_%5Dscripts%5B_%5Ddydx_stateful_order_handler.sql
+Invantive.SQL - NuGet Must Haves Package,https://nugetmusthaves.com/Package/Invantive.SQL
+Text Publishing — Blog,https://www.textpublishing.com.au/blog/page/86.sql
+Function - GitHub,https://raw.githubusercontent.com/ga4gh-beacon/beacon-elixir/v1.0.1/elixir_beacon/src/main/resources/META-INF/elixir_beacon_function_summary_response.sql
+contrib/hstore_plperl/hstore_plperl--1.0.sql · master · Jakob ... - GitLab,https://gitlab.db.in.tum.de/JakobHuber/postgres-lambda-diff/-/blob/master/contrib/hstore_plperl/hstore_plperl--1.0.sql
+https://courses.oermn.org/file.php/237/codefiles/c...,https://courses.oermn.org/file.php/237/codefiles/classicmodels.sql
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x64/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/instmdw.sql
+https://code.imphub.org/projects/PT/repos/oneposda...,https://code.imphub.org/projects/PT/repos/oneposda/raw/database/all.sql%3Fat%3D5ae04f9bf58bcc645978341e9d56c11805626c28
+gloss.sql · d2f4746dd41055c2575770fd9d5afc41563530d8 ... - GitLab,https://gitlab.openquake.org/communication/glossary/-/blob/d2f4746dd41055c2575770fd9d5afc41563530d8/gloss.sql
+http://darwinday.humanists.org/dddb.20dec07.sql,http://darwinday.humanists.org/dddb.20dec07.sql
+assist - data - database_base_bk.sql - GitLab - Virginia Tech,https://code.vt.edu/gcourt3/assist/-/blob/3669d8774cd3a4088b994ad50d00328d8abd47bd/data/database_base_bk.sql
+https://researchdata.gla.ac.uk/936/5/scotchap_proj...,https://researchdata.gla.ac.uk/936/5/scotchap_project_2014_sqldump.sql
+https://redmine.gc.cuny.edu/attachments/download/1...,https://redmine.gc.cuny.edu/attachments/download/16624/local.sql
+robotlaw.sql - ServoyForge,https://www.servoyforge.net/attachments/download/332/robotlaw.sql
+konference.sql,https://users.fit.cvut.cz/~fiserp/dip/2013/Zdrubecky/konference.sql
+http://impepac.mx/wp-content/wp_db.sql,http://impepac.mx/wp-content/wp_db.sql
+http://www.sante.gov.ml/docs/basevida/mysqlbase.sql,http://www.sante.gov.ml/docs/basevida/mysqlbase.sql
+HW_Faculty.sql - RocketGit,https://rocketgit.com/user/caubert/CSCI_3410/source/tree/branch/master/blob/notes/code/sql/HW_Faculty.sql
+academics-mysql.sql - BrainMass,https://brainmass.com/file/175952/academics-mysql.sql
+install_wp_charity.sql · master · Melki Sedek / charity-base-app,https://gitlab.com/melkisedek200598/charity-base-app/blob/master/install_wp_charity.sql
+banskivi_banski15_16.sql - Index of /,http://tstefan.brinkster.net/banskividikovac-backup/phpmyadmin/banskivi_banski15_16.sql
+0fe847cb8318fef3aa5c20c262f3...,https://git.gru.ifsp.edu.br/gu1661019/lds/-/blob/0fe847cb8318fef3aa5c20c262f335ed7ff361e8/dump_mysql_native.sql
+Dell Remote Access Controller - ITS,https://103.255.15.124/x.sql
+https://akela.mendelu.cz/~xgono/dev/database-dump.sql,https://akela.mendelu.cz/~xgono/dev/database-dump.sql
+http://translations.openemr.io/languageTranslation...,http://translations.openemr.io/languageTranslations_utf8.sql
+Anderes (Datengrundlage (SQL-Datei) zum Datenbankimport),https://data.ub.uni-muenchen.de/110/1/20190308_hsozkult.sql
+http://ramel.com.br/ramel_site.sql,http://ramel.com.br/ramel_site.sql
+http://sb-110-212.tm.net.my/MyFile_SAP/myasset_mar...,http://sb-110-212.tm.net.my/MyFile_SAP/myasset_mardi_backup.sql
