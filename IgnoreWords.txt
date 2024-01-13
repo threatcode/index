@@ -3528,6 +3528,7 @@ ascomycetes
 ascorbates
 ascorbic
 ascosporic
+ascription
 ascus
 asepsis
 aseptically
@@ -4129,6 +4130,7 @@ automaker
 automakers
 automan
 automat
+automates
 automatic
 automatically
 automaticities
@@ -5218,6 +5220,7 @@ beadman
 beadroll
 beadsman
 beadsmen
+beadwork
 beadworks
 beaker
 beam
@@ -8896,6 +8899,7 @@ camion
 camions
 camisa
 camisado
+camisados
 camisias
 cammie
 camorras
@@ -14942,6 +14946,7 @@ cryoscopic
 cryoscopy
 cryosurgeon
 cryotherapies
+cryotherapy
 cryotrons
 cryptanalyst
 cryptanalytical
@@ -17771,6 +17776,7 @@ difficult
 difficulties
 difficultly
 difficulty
+diffract
 diffracting
 diffractions
 diffracts
@@ -20131,6 +20137,7 @@ eclats
 eclectic
 eclectics
 eclipsed
+eclipsers
 eclogites
 eclogue
 eclogues
@@ -21047,6 +21054,7 @@ endometrial
 endometrioses
 endometriosis
 endomitosis
+endomitotic
 endomixis
 endomixises
 endomorphism
@@ -21710,6 +21718,7 @@ equalizes
 equals
 equated
 equations
+equatorial
 equerry
 equestrian
 equestrienne
@@ -25272,6 +25281,7 @@ forwardest
 forwarding
 forwardness
 forwardnesses
+forwards
 forwhy
 forzandi
 forzando
@@ -28012,6 +28022,7 @@ grit
 grith
 grits
 gritted
+grittier
 grittily
 grittiness
 gritting
@@ -32467,10 +32478,12 @@ infirm
 infirmaries
 infirmary
 infirming
+infirmities
 infirmly
 infirms
 infix
 inflame
+inflamer
 inflaming
 inflammability
 inflammably
@@ -34631,6 +34644,7 @@ kangaroos
 kanjis
 kantar
 kantars
+kantele
 kanteles
 kaolin
 kaolines
@@ -35750,6 +35764,7 @@ lately
 laten
 latened
 lateness
+latenesses
 latents
 later
 laterad
@@ -37663,6 +37678,7 @@ mad
 madam
 madames
 madcaps
+maddeningly
 madders
 madding
 mademoiselles
@@ -37881,6 +37897,7 @@ malfunctioned
 malfunctions
 malicious
 maliciously
+maliciousness
 malign
 malignance
 malignances
@@ -42142,6 +42159,7 @@ nefariously
 neg
 negated
 negater
+negation
 negational
 negatived
 negativenesses
@@ -42749,6 +42767,7 @@ nonabsorptive
 nonabstract
 nonacceptance
 nonaccredited
+nonaccrual
 nonacidic
 nonacids
 nonacting
@@ -45459,6 +45478,7 @@ overassertion
 overassertions
 overassertive
 overasserts
+overassessment
 overattentions
 overbake
 overbaked
@@ -48728,6 +48748,7 @@ pillory
 pillow
 pillowcase
 pillowcases
+pillowing
 pillows
 pillowy
 pills
@@ -51147,6 +51168,7 @@ prismatically
 prismatoids
 prismoid
 prismoids
+prison
 prisoned
 priss
 prisses
@@ -55631,6 +55653,7 @@ resinates
 resinating
 resined
 resinified
+resinifying
 resinlike
 resinoid
 resinoids
@@ -55857,6 +55880,7 @@ resyntheses
 resynthesized
 resystematized
 ret
+retack
 retacked
 retackle
 retackles
@@ -56279,6 +56303,7 @@ rheniums
 rheobases
 rheologic
 rheologically
+rheologists
 rheology
 rheometer
 rheophil
@@ -56667,6 +56692,7 @@ roadbeds
 roadblocked
 roadblocking
 roadholding
+roadhouses
 roadkills
 roadrunner
 roadrunners
@@ -59573,6 +59599,7 @@ sharklike
 sharks
 sharkskin
 sharkskins
+sharns
 sharny
 sharpened
 sharpener
@@ -62115,6 +62142,7 @@ speciational
 specie
 specific
 specifically
+specification
 specificities
 specificity
 specified
@@ -63587,6 +63615,7 @@ stratocracies
 stratocracy
 stratovolcano
 stratovolcanoes
+stratovolcanos
 stratum
 stravage
 stravages
@@ -69228,6 +69257,7 @@ turgid
 turgidly
 turgite
 turgites
+turgor
 turion
 turks
 turmeric
@@ -71122,6 +71152,7 @@ unstrings
 unstriped
 unstrung
 unstuck
+unstudied
 unstuffed
 unstung
 unstylish
@@ -71475,6 +71506,7 @@ upstroke
 upsurge
 upswell
 upswelled
+upswells
 upswollen
 uptake
 uptalked
@@ -72637,6 +72669,7 @@ vivisectionists
 vixenish
 vizarded
 vizards
+vizcachas
 vizierate
 vizierial
 vizored
@@ -73093,6 +73126,7 @@ warragal
 warrantableness
 warrantees
 warrantied
+warranties
 warrantless
 warrantors
 warrants
@@ -74971,6 +75005,7 @@ zombify
 zombifying
 zombiism
 zombiisms
+zona
 zonal
 zonary
 zonate
