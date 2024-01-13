@@ -1356,6 +1356,7 @@ alchymy
 alcids
 alcohol
 alcoholic
+alcoholically
 alcohols
 alcoved
 aldehyde
@@ -5855,6 +5856,7 @@ bestud
 bestudding
 bestuds
 beswarmed
+beswarms
 beta
 betaine
 betaines
@@ -6880,6 +6882,7 @@ blushes
 blustered
 blusterer
 blustering
+blype
 blypes
 bo
 boa
@@ -9879,6 +9882,7 @@ caviler
 cavilers
 caviling
 cavilling
+cavils
 caving
 cavitate
 cavitating
@@ -12248,6 +12252,7 @@ collectivising
 collectivism
 collectivisms
 collectivistic
+collectivities
 collectivizing
 collector
 collectorship
@@ -14420,6 +14425,7 @@ craftsmanly
 craftswomen
 craftworks
 crag
+cragged
 craggier
 craggily
 cragginess
@@ -14715,6 +14721,7 @@ crisscrossing
 crista
 criteria
 criterions
+criteriums
 critical
 criticalities
 criticaster
@@ -19740,6 +19747,7 @@ dugongs
 dui
 duikers
 duit
+duits
 duked
 dulcetly
 dulcianas
@@ -22513,6 +22521,7 @@ excogitation
 excogitative
 excommunication
 excommunicative
+excoriated
 excoriation
 excrementitious
 excrescences
@@ -26138,6 +26147,7 @@ galligaskins
 gallimaufry
 gallinipper
 galliums
+gallivanted
 gallonages
 gallons
 gallooned
@@ -27824,6 +27834,7 @@ gravity
 gravlax
 gravure
 gravures
+gravy
 grayback
 graybeards
 grayfishes
@@ -32442,6 +32453,7 @@ infelicitous
 infeoffing
 inferably
 inferior
+inferiors
 inferrer
 inferrible
 inferring
@@ -35612,6 +35624,7 @@ lang
 langlaufer
 langlaufs
 langley
+langleys
 langostinos
 langouste
 langrage
@@ -36218,6 +36231,7 @@ leptospirosis
 leptotene
 leptotenes
 lesbianism
+leses
 lesion
 less
 lessen
@@ -36762,6 +36776,7 @@ literality
 literalizations
 literalized
 literalnesses
+literals
 literarily
 literary
 literate
@@ -39029,6 +39044,7 @@ merger
 mergers
 meridian
 meridionals
+meringue
 meringues
 merinos
 meristematic
@@ -40815,6 +40831,7 @@ monoxides
 monsignori
 monsignors
 monsoon
+monsoonal
 monsoons
 monster
 monstrance
@@ -41093,6 +41110,7 @@ motorboating
 motorbuses
 motorcade
 motorcading
+motorcars
 motorcycle
 motorcyclist
 motorcyclists
@@ -43335,6 +43353,7 @@ nontenured
 nonterminals
 nonterminating
 nontheatrical
+nontheists
 nontheological
 nontheoretical
 nonthermal
@@ -43798,6 +43817,7 @@ objurgates
 objurgatory
 oblanceolate
 oblasti
+oblate
 oblateness
 oblation
 oblatory
@@ -47467,6 +47487,7 @@ pegmatite
 peignoir
 peignoirs
 pein
+peined
 pejoratively
 pejoratives
 peke
@@ -47968,6 +47989,7 @@ personifier
 personify
 personnel
 persons
+perspicacious
 perspicacities
 perspicacity
 perspicuities
@@ -52529,6 +52551,7 @@ quackiest
 quacking
 quackisms
 quacks
+quacksalvers
 quacky
 quad
 quadplex
@@ -53074,6 +53097,7 @@ rainproofing
 rains
 rainspout
 rainsquall
+rainsqualls
 rainstorm
 rainwashed
 rainwashes
@@ -53830,6 +53854,7 @@ recombine
 recombined
 recombines
 recombining
+recombs
 recommence
 recommencements
 recommences
@@ -56793,6 +56818,7 @@ rogering
 rogue
 rogueing
 rogues
+roguing
 roguish
 roguishness
 roil
@@ -59109,6 +59135,7 @@ semitranslucent
 semitropical
 semiweeklies
 semiworks
+semiyearly
 semolina
 sempiternal
 sempiternally
@@ -63798,6 +63825,7 @@ stropping
 strops
 stroudings
 strow
+strowing
 strown
 stroyed
 struck
@@ -67547,6 +67575,7 @@ tinting
 tintless
 tints
 tintype
+tinware
 tinwares
 tinwork
 tipcarts
@@ -68584,6 +68613,7 @@ trets
 trevally
 trevets
 treys
+triac
 triacid
 triacids
 triad
@@ -73877,6 +73907,7 @@ widder
 widdling
 wide
 wideawake
+widely
 widen
 wideners
 widenesses
@@ -73916,6 +73947,7 @@ wiggle
 wiggles
 wiggling
 wiggly
+wigless
 wiglets
 wiglike
 wigmaker
@@ -74411,8 +74443,10 @@ wormiest
 wormils
 worming
 wormish
+wormroots
 wormseeds
 wormwood
+wormwoods
 wornnesses
 worriedly
 worrier
@@ -75047,6 +75081,7 @@ zoophobias
 zooplankter
 zooplankters
 zooplanktonic
+zooplanktons
 zoos
 zoosporangia
 zoosporangium
