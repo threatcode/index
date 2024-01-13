@@ -4273,6 +4273,7 @@ awakened
 awarded
 awardee
 awardees
+awarders
 awards
 awash
 away
@@ -4503,6 +4504,7 @@ backslide
 backslider
 backsliders
 backsliding
+backspace
 backspaced
 backspacing
 backspin
@@ -6083,6 +6085,7 @@ bigstick
 bihourly
 bijections
 bijective
+bijouterie
 bijoux
 bike
 biked
@@ -9183,6 +9186,7 @@ caponiers
 caponize
 caponized
 capons
+caporals
 capouch
 capped
 cappelletti
@@ -9365,6 +9369,7 @@ carder
 cardholders
 cardiac
 cardiae
+cardias
 cardigans
 cardinalate
 cardinalships
@@ -11901,6 +11906,7 @@ cocktails
 cocoanuts
 cocobola
 cocobolas
+cocobolos
 cocomat
 cocomats
 cocomposer
@@ -15931,6 +15937,7 @@ debeaks
 debeard
 debearded
 debearding
+debeards
 debilitates
 debilitation
 debility
@@ -21070,6 +21077,7 @@ endosome
 endosperm
 endospores
 endostea
+endosteum
 endostyles
 endosymbionts
 endosymbioses
@@ -30624,6 +30632,7 @@ humblest
 humblingly
 humbugged
 humbuggeries
+humbuggers
 humbugging
 humbugs
 humdrum
@@ -32678,6 +32687,7 @@ innervation
 innerved
 innings
 innkeepers
+innocences
 innocent
 innocenter
 innocentest
@@ -33114,6 +33124,7 @@ interiorising
 interiorities
 interiority
 interiorized
+interiors
 interjecting
 interjections
 interjectors
@@ -34861,6 +34872,7 @@ kibbitzing
 kibble
 kibbutz
 kibbutzim
+kibbutznik
 kibe
 kibei
 kibeis
@@ -35020,6 +35032,7 @@ kirkman
 kirn
 kirsches
 kirtled
+kirtles
 kis
 kishke
 kishkes
@@ -36070,6 +36083,7 @@ legion
 legionnaire
 legislated
 legislation
+legislations
 legislatively
 legislatorial
 legislatorship
@@ -39904,6 +39918,7 @@ misbegin
 misbegotten
 misbehave
 misbehaver
+misbehavers
 misbehaving
 misbehaviors
 misbeliefs
@@ -40285,6 +40300,7 @@ misstarted
 misstarts
 missteering
 misstep
+misstepped
 missteps
 misstopped
 misstopping
@@ -41537,6 +41553,7 @@ musculature
 musculoskeletal
 mused
 museologist
+museologists
 muser
 musers
 musher
@@ -43173,6 +43190,7 @@ nonphilosopher
 nonphilosophers
 nonphonemic
 nonphysical
+nonphysicians
 nonplastics
 nonplayers
 nonplused
@@ -44248,6 +44266,7 @@ ondogram
 oneiric
 oneirically
 oneness
+onenesses
 oneriest
 onerously
 onerousness
@@ -45339,6 +45358,7 @@ outtravel
 outtravels
 outtrick
 outtricking
+outtricks
 outtrots
 outtrotting
 outturns
@@ -46759,6 +46779,7 @@ parasitic
 parasitical
 parasitically
 parasiticidal
+parasiticide
 parasiticides
 parasitised
 parasitises
@@ -50644,6 +50665,7 @@ premarriage
 prematureness
 prematurenesses
 prematures
+prematurity
 premaxilla
 premaxillary
 premaxillas
@@ -53147,6 +53169,7 @@ ransomers
 rant
 ranter
 ranting
+rantingly
 rants
 ranular
 rapaciousness
@@ -56303,6 +56326,7 @@ rhododendrons
 rhodolites
 rhodomontade
 rhodomontades
+rhodonites
 rhodopsins
 rhomb
 rhombencephala
@@ -61676,6 +61700,7 @@ sones
 songbird
 songbook
 songfests
+songful
 songfulness
 songfulnesses
 songs
@@ -62475,6 +62500,7 @@ spoony
 spoor
 spoored
 spooring
+spores
 sporocarp
 sporocarps
 sporocyst
@@ -62928,6 +62954,7 @@ stashed
 stashing
 stat
 statable
+statant
 statecraft
 statehoods
 statehouse
@@ -64053,6 +64080,7 @@ subinfeuded
 subinfeuds
 subinterval
 subjacent
+subjacently
 subject
 subjecting
 subjection
@@ -64823,6 +64851,7 @@ superorder
 superorders
 superorganic
 superorganisms
+superorgasm
 superovulating
 superovulation
 superpatriotism
@@ -69329,6 +69358,7 @@ twiddly
 twigging
 twigless
 twigs
+twilight
 twilights
 twillings
 twills
@@ -70257,6 +70287,7 @@ undine
 undiplomatic
 undiscoverable
 undiscussed
+undisputed
 undissociated
 undistinguished
 undock
@@ -70557,6 +70588,7 @@ unimpeded
 unimportant
 unimpressed
 unimpressive
+uninflected
 uninspected
 uninstructive
 uninsurable
@@ -70579,6 +70611,7 @@ unionized
 unionizes
 uniparental
 uniparentally
+unipotent
 uniquely
 uniquenesses
 unirrigated
@@ -73319,6 +73352,7 @@ weaselly
 weatherability
 weatherboard
 weatherboarded
+weathercaster
 weathercasts
 weathercock
 weathered
@@ -74681,6 +74715,7 @@ yince
 yins
 yip
 yipe
+yipes
 yippie
 yirds
 yirred
