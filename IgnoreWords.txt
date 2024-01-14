@@ -2413,6 +2413,7 @@ anteceding
 antecessor
 antechambers
 antechoir
+anted
 antedates
 antefixa
 antefixal
@@ -2460,6 +2461,7 @@ anthracene
 anthracite
 anthracitic
 anthranilates
+anthraquinones
 anthropic
 anthropocentric
 anthropogenic
@@ -2996,6 +2998,7 @@ appertaining
 appestat
 appestats
 appetence
+appetencies
 appetency
 appetiser
 appetite
@@ -5475,6 +5478,7 @@ bedward
 bedwards
 bedwarf
 bedwarfs
+bee
 beebee
 beebread
 beebreads
@@ -6323,6 +6327,7 @@ biome
 biomechanical
 biomechanics
 biomedical
+biomedicine
 biometer
 biometric
 biometricians
@@ -6679,6 +6684,7 @@ blebbing
 bleed
 bleeding
 bleedings
+bleeds
 bleep
 bleeper
 bleepers
@@ -7090,6 +7096,7 @@ boletus
 boletuses
 bolides
 boliviano
+bollard
 bolled
 bollixed
 bollixing
@@ -9386,6 +9393,7 @@ caraway
 carb
 carbamate
 carbamic
+carbamide
 carbamino
 carbamoyl
 carbamyls
@@ -18501,6 +18509,7 @@ discussed
 discusser
 discusses
 discussing
+disdainfully
 disdains
 disease
 diseased
@@ -19303,6 +19312,7 @@ donators
 donees
 doneness
 donga
+donjon
 donjons
 donkey
 donkeys
@@ -21822,6 +21832,7 @@ epicureanisms
 epicureans
 epicures
 epidemically
+epidemics
 epidemiologic
 epidemiologies
 epidemiologists
@@ -23822,6 +23833,7 @@ febrifuges
 febrile
 febrility
 feces
+feckless
 fecklessly
 fecklessness
 fecklessnesses
@@ -25886,6 +25898,7 @@ frijole
 frilled
 fringe
 fringier
+fringy
 frisbees
 frisees
 frises
@@ -28955,6 +28968,7 @@ halachic
 halachists
 halachot
 halakhahs
+halakhist
 halakhot
 halakist
 halakists
@@ -32027,6 +32041,7 @@ impish
 implant
 implantation
 implantations
+implanters
 implants
 impleaded
 impleaders
@@ -33692,6 +33707,7 @@ interstrand
 interterminal
 intertidally
 intertill
+intertillage
 intertillages
 intertills
 intertrial
@@ -38304,6 +38320,7 @@ malady
 malaguena
 malaguenas
 malanders
+malapert
 malapertly
 malapertness
 malapertnesses
@@ -43792,6 +43809,7 @@ nonsaline
 nonsaponifiable
 nonscience
 nonsciences
+nonseasonal
 nonsecretor
 nonsecretory
 nonsectarian
@@ -45151,6 +45169,7 @@ orientating
 orientation
 orienteering
 orienteers
+orienters
 orients
 orifices
 oriflamme
@@ -47247,6 +47266,7 @@ pappier
 pappoose
 pappooses
 pappose
+papulae
 papule
 papyral
 papyrologies
@@ -48393,6 +48413,7 @@ periphrastic
 periphytic
 periplasm
 peripter
+peripters
 perique
 periques
 peris
@@ -51764,6 +51785,7 @@ princeling
 princely
 princeships
 principals
+principe
 principium
 princocks
 prink
@@ -53886,6 +53908,7 @@ rarefied
 rarefiers
 rarefies
 rarefy
+rareripe
 rares
 rarest
 rarified
@@ -55302,6 +55325,7 @@ rehumanizing
 rehung
 rehydratable
 rehydrate
+rehydrated
 rehydrates
 rehydrating
 rehydration
@@ -55455,6 +55479,7 @@ rejectees
 rejectingly
 rejection
 rejigger
+rejiggers
 rejigging
 rejoiced
 rejoicer
@@ -56639,6 +56664,7 @@ retint
 retinted
 retinting
 retints
+retinue
 retinular
 retinulas
 retirants
@@ -56867,6 +56893,7 @@ revitalising
 revitalization
 revitalizations
 revitalized
+revitalizes
 revitalizing
 revival
 revivalisms
@@ -57574,6 +57601,7 @@ rootier
 rootiest
 rootinesses
 rootless
+rootling
 roots
 rootstocks
 rootworm
@@ -65621,6 +65649,7 @@ superlunary
 superluxurious
 superluxury
 superlying
+supermacho
 supermajorities
 supermale
 superman
@@ -66520,6 +66549,7 @@ tabun
 tabuns
 tabus
 tacamahacs
+taces
 tacet
 tachism
 tachismes
@@ -66694,6 +66724,7 @@ tallymen
 talmudic
 talmudism
 talmudisms
+talooka
 talukas
 taluks
 talus
@@ -68176,6 +68207,7 @@ ticklishly
 ticklishness
 ticks
 tickseed
+tickseeds
 ticktacked
 ticktacktoes
 ticktocked
@@ -69036,6 +69068,7 @@ tram
 tramcars
 trameled
 trameling
+tramell
 tramelling
 tramells
 tramels
@@ -70589,6 +70622,7 @@ unarming
 unarms
 unaroused
 unarrayed
+unashamedly
 unasked
 unassailability
 unassailably
@@ -71380,6 +71414,7 @@ unhalved
 unhand
 unhandier
 unhandily
+unhandiness
 unhandsome
 unhandsomely
 unhang
