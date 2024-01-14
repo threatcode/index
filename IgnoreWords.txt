@@ -825,6 +825,7 @@ adzed
 adzing
 aecia
 aecidium
+aeciospores
 aecium
 aediles
 aedine
@@ -3005,6 +3006,7 @@ applauding
 applauds
 applause
 applecart
+applejack
 applejacks
 apples
 applesauce
@@ -5503,6 +5505,7 @@ beeswax
 beetler
 beetroots
 beeves
+beeyards
 befall
 befalls
 befinger
@@ -8858,6 +8861,7 @@ calif
 califates
 californium
 califs
+caliginous
 calipashes
 calipee
 caliper
@@ -9813,6 +9817,7 @@ catechetical
 catechised
 catechismal
 catechisms
+catechist
 catechists
 catechizations
 catechized
@@ -10454,6 +10459,7 @@ charged
 chargehand
 charger
 charges
+chargrill
 charier
 charily
 chariness
@@ -10584,6 +10590,7 @@ checkrooms
 checkrowing
 checkrows
 checks
+checkup
 checkups
 cheddar
 cheddars
@@ -12965,6 +12972,7 @@ conchologists
 conchos
 conchs
 conchy
+conciliar
 conciliarly
 conciliate
 conciliated
@@ -15803,6 +15811,7 @@ damndest
 damnedests
 damner
 damnified
+damnifying
 damning
 damningly
 damp
@@ -18371,6 +18380,7 @@ disci
 discing
 discipleships
 disciplinable
+disciplinal
 disciplinarian
 disciplinarians
 disciplinarily
@@ -19272,6 +19282,7 @@ dominos
 doms
 don
 dona
+donas
 donate
 donates
 donating
@@ -23708,6 +23719,7 @@ fatwood
 fatwoods
 faubourg
 faucal
+faucets
 faucial
 faugh
 fauld
@@ -23879,6 +23891,7 @@ fellatrixes
 felled
 fellmonger
 fellmongered
+fellmongering
 fellmongerings
 fellnesses
 fellowed
@@ -29236,6 +29249,7 @@ hareems
 harelips
 haring
 harissa
+harkened
 harkening
 harkens
 harks
@@ -30586,6 +30600,7 @@ hongiing
 hongs
 honk
 honker
+honkeys
 honkie
 honkies
 honor
@@ -31248,6 +31263,7 @@ hyoidean
 hyoscines
 hyoscyamine
 hyp
+hypallage
 hypallages
 hypanthium
 hyped
@@ -34703,6 +34719,7 @@ joinery
 joining
 joinings
 jointed
+jointedness
 jointednesses
 jointing
 jointly
@@ -35290,6 +35307,7 @@ kidnappees
 kidnappers
 kidnapping
 kidnaps
+kidneys
 kids
 kidvid
 kief
@@ -36655,6 +36673,7 @@ leukorrheal
 leukosis
 leukotriene
 lev
+levanted
 levanter
 levanters
 levanting
@@ -37789,6 +37808,7 @@ lumpingly
 lumpish
 lumpishly
 lumpishnesses
+luna
 lunarian
 lunarians
 lunatic
@@ -39964,6 +39984,7 @@ midrange
 midrashic
 midrashot
 midrib
+midribs
 midsagittal
 midsize
 midsized
@@ -40437,6 +40458,7 @@ misconnections
 misconstruction
 misconstrue
 misconstrued
+miscooked
 miscopy
 miscount
 miscreant
@@ -43705,6 +43727,7 @@ nonproven
 nonpsychotic
 nonpunitive
 nonquantifiable
+nonracial
 nonracially
 nonrandomnesses
 nonreactive
@@ -46373,6 +46396,7 @@ overpedal
 overpedaled
 overpedaling
 overpedalling
+overpeople
 overpeopled
 overpeoples
 overpersuaded
@@ -46863,6 +46887,7 @@ paganised
 paganish
 paganising
 paganisms
+paganizing
 pageant
 pageboy
 paged
@@ -48407,6 +48432,7 @@ permutations
 permuted
 permuting
 pernicious
+perniciously
 pernio
 perniones
 pernod
@@ -49796,6 +49822,7 @@ playtime
 playtimes
 playwright
 playwrights
+plea
 pleadable
 pleaded
 pleaders
@@ -54634,6 +54661,7 @@ redbaiter
 redbaiters
 redbay
 redbird
+redbirds
 redbrick
 redbuds
 redcoat
@@ -63037,6 +63065,7 @@ spinoffs
 spinor
 spinosity
 spinster
+spinsterhoods
 spinsterish
 spinsterly
 spinsters
@@ -63273,6 +63302,7 @@ sprained
 sprat
 sprattle
 sprattling
+sprawled
 sprawler
 sprawlers
 sprawlier
@@ -64269,6 +64299,7 @@ strait
 straitened
 straitest
 straitjacketed
+straitlacedness
 straitnesses
 straked
 strakes
@@ -71735,6 +71766,7 @@ unreflective
 unreformed
 unrefrigerated
 unregenerately
+unregistered
 unrehearsed
 unreinforced
 unrelated
@@ -73160,6 +73192,7 @@ vicinages
 vicinal
 vicing
 vicious
+vicissitude
 vicomtes
 victimhoods
 victimise
@@ -73307,6 +73340,7 @@ viperously
 vipers
 viraginous
 viragos
+virelai
 virelays
 viremia
 vireo
@@ -73501,6 +73535,7 @@ vociferously
 vocoders
 vodou
 vodouns
+vodous
 vodun
 voe
 voguish
