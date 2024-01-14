@@ -84,6 +84,7 @@ absorb
 absorbabilities
 absorbance
 absorbances
+absorbancy
 absorbants
 absorbed
 absorbent
@@ -2724,6 +2725,7 @@ antisexuality
 antishoplifting
 antismut
 antisnob
+antisnobs
 antisocialists
 antispam
 antispasmodic
@@ -7317,6 +7319,7 @@ booze
 boozes
 boozily
 booziness
+boozinesses
 boozy
 bop
 bopper
@@ -12478,6 +12481,7 @@ collude
 colluded
 colluder
 colludes
+colluding
 collusions
 collusive
 colluvia
@@ -16101,6 +16105,7 @@ deadlining
 deadlock
 deadlocks
 deadpanned
+deadpanning
 deadpans
 deadweight
 deadweights
@@ -17726,6 +17731,7 @@ dewberry
 dewclaw
 dewdrop
 dewed
+dewfalls
 dewier
 dewool
 dewooled
@@ -18507,6 +18513,7 @@ disconnections
 disconnects
 disconsolately
 disconsolation
+discontent
 discontentedly
 discontinuances
 discontinuation
@@ -19587,6 +19594,7 @@ downplayed
 downpour
 downpours
 downright
+downrightness
 downs
 downscaling
 downshift
@@ -24202,6 +24210,7 @@ fey
 feyest
 feynesses
 fez
+fezzes
 fiacres
 fiance
 fiances
@@ -27213,6 +27222,7 @@ ghostwrite
 ghostwrote
 ghoulish
 ghoulishly
+ghoulishness
 ghoulishnesses
 ghyll
 giant
@@ -29427,6 +29437,7 @@ haruspex
 haruspication
 haruspications
 haruspices
+harvest
 harvesters
 harvestman
 harvests
@@ -31979,6 +31990,7 @@ immodesties
 immodesty
 immolated
 immolating
+immolation
 immoralisms
 immoralists
 immoralities
@@ -32608,6 +32620,7 @@ inculpation
 inculpations
 incumbency
 incumbents
+incumbered
 incumbers
 incunables
 incurable
@@ -34948,6 +34961,7 @@ jowl
 jowliness
 jowlinesses
 jows
+joyed
 joyful
 joyfulnesses
 joylessly
@@ -36675,6 +36689,7 @@ legroom
 legs
 legumes
 legumin
+legwarmer
 legwarmers
 legworks
 lehayims
@@ -37427,6 +37442,7 @@ lixiviates
 lixiviation
 lixiviations
 lixivium
+lizards
 llama
 lo
 loach
@@ -38374,6 +38390,7 @@ maidenhair
 maidenhood
 maidenlinesses
 maidens
+maidhood
 maidhoods
 maidservants
 maihem
@@ -39536,6 +39553,7 @@ mendigo
 mendings
 mends
 menhadens
+menially
 meninges
 meningiomata
 meningococcus
@@ -41532,6 +41550,7 @@ moorcocks
 moorfowl
 moorfowls
 moorhen
+moorier
 mooring
 moorings
 moorish
@@ -42700,6 +42719,7 @@ navels
 navelwort
 navette
 navettes
+navies
 navigabilities
 navigate
 navigating
@@ -43042,6 +43062,7 @@ neuromasts
 neuronal
 neurones
 neuropath
+neuropathies
 neuropathologic
 neuropsychiatry
 neuropsychology
@@ -44508,6 +44529,7 @@ obliqued
 obliquing
 obliterated
 obliterates
+obliterating
 obliteration
 obliterative
 obliterator
@@ -45002,6 +45024,7 @@ onomatopoeic
 onomatopoetic
 onos
 onrush
+onsets
 onshore
 onslaught
 ontically
@@ -48441,6 +48464,7 @@ perceived
 perceiver
 perceivers
 perceives
+percentage
 percentiles
 perceptibly
 perceptional
@@ -51492,6 +51516,7 @@ premaxillary
 premaxillas
 premeasure
 premeasuring
+premeditate
 premeditated
 premeditating
 premeds
@@ -52555,6 +52580,7 @@ protocol
 protocoled
 protocolled
 protohistorian
+protohistorians
 protohistory
 protohuman
 protolanguage
@@ -54113,6 +54139,7 @@ rataplanned
 rataplanning
 ratatats
 ratatouille
+ratatouilles
 ratbag
 ratch
 ratcheted
@@ -55304,6 +55331,7 @@ refractively
 refractivities
 refractometries
 refractometry
+refractor
 refractorily
 refractory
 refracts
@@ -66690,6 +66718,7 @@ syphilises
 syphoned
 syphons
 syringas
+syringomyelic
 syrphid
 syrup
 syruplike
@@ -68055,6 +68084,7 @@ thermojunctions
 thermomagnetic
 thermometers
 thermophile
+thermoplastics
 thermoreceptors
 thermoregulate
 thermoregulator
@@ -68405,6 +68435,7 @@ thyroidectomies
 thyroiditises
 thyroids
 thyrotoxicosis
+thyrotrophic
 thyrotrophin
 thyrotropic
 thyrses
@@ -68510,6 +68541,7 @@ tillite
 tills
 tils
 tiltable
+tilted
 tilter
 tilth
 tilths
@@ -71414,6 +71446,7 @@ undesigning
 undesirability
 undesired
 undetected
+undeterminable
 undetermined
 undeveloped
 undiagnosable
@@ -73501,6 +73534,7 @@ vicissitude
 vicomtes
 victimhoods
 victimise
+victimises
 victimising
 victimologists
 victor
@@ -76156,6 +76190,7 @@ zingy
 zinkifies
 zinkifying
 zins
+ziplock
 zipper
 zippered
 zippering
