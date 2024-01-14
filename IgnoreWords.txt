@@ -1378,6 +1378,7 @@ aldolases
 aldolizations
 aldosterone
 aldosteronism
+aleatoric
 aleatory
 alehouse
 alencon
@@ -2323,6 +2324,7 @@ announce
 announcement
 announcements
 announcers
+announces
 annoyance
 annoyances
 annoyers
@@ -3362,6 +3364,7 @@ armloads
 armlock
 armoire
 armoires
+armonicas
 armor
 armorial
 armorially
@@ -5809,6 +5812,7 @@ bermed
 berms
 bernicle
 berobed
+berried
 berry
 berrylike
 berseem
@@ -11127,6 +11131,7 @@ chugging
 chugs
 chukkar
 chukker
+chum
 chummier
 chumminesses
 chumming
@@ -17360,6 +17365,7 @@ despisals
 despisement
 despite
 despitefully
+despitefulness
 despiteous
 despiteously
 despiting
@@ -18565,6 +18571,7 @@ dishwashers
 disillusioned
 disillusions
 disincentive
+disincentives
 disinclination
 disinclinations
 disincline
@@ -19208,6 +19215,7 @@ dolmans
 dolmenic
 dolmens
 dolomite
+dolomitize
 dolomitizes
 doloroso
 dolorousnesses
@@ -23055,6 +23063,7 @@ exsanguinations
 exscind
 exscinded
 exsect
+exsections
 exsects
 exserted
 exsertile
@@ -23896,6 +23905,7 @@ fenagles
 fenagling
 fencelessness
 fencerow
+fencers
 fencible
 fencibles
 fended
@@ -26336,9 +26346,11 @@ galago
 galahs
 galangas
 galas
+galatea
 galavant
 galax
 galaxies
+galaxy
 galenic
 galenical
 galette
@@ -29417,6 +29429,7 @@ headlocks
 headmasterships
 headmen
 headmistress
+headmost
 headphones
 headpieces
 headquarter
@@ -33642,6 +33655,7 @@ interviewed
 interviewee
 interviewing
 intervillage
+intervisibility
 intervocalic
 interweaved
 interweaves
@@ -33842,6 +33856,7 @@ inveigher
 inveighing
 inveigle
 inveiglers
+invent
 invented
 inventers
 inventively
@@ -33931,6 +33946,7 @@ inwove
 inwoven
 inwrap
 inwraps
+iodated
 iodating
 iodide
 iodids
@@ -38396,6 +38412,7 @@ manganites
 manganous
 mangas
 mange
+mangel
 mangels
 manger
 mangers
@@ -40154,6 +40171,7 @@ minified
 minikin
 minilab
 minimalism
+minimax
 minimaxes
 minimill
 minimills
@@ -42368,6 +42386,7 @@ narwhale
 narwhals
 nasalise
 nasalities
+nasalize
 nasalized
 nasally
 nasals
@@ -45843,6 +45862,7 @@ outwearying
 outwhirl
 outwhirling
 outwile
+outwiled
 outwiling
 outwilled
 outwilling
@@ -46836,6 +46856,7 @@ paintworks
 pair
 pairing
 paisana
+paisanas
 paisano
 paisanos
 paisans
@@ -47109,6 +47130,7 @@ paperboards
 paperboys
 paperclip
 papered
+paperers
 papergirls
 paperhangings
 papermakings
@@ -49453,6 +49475,7 @@ pitcher
 pitches
 pitchfork
 pitchforked
+pitchiest
 pitchout
 pitchouts
 pitchpoles
@@ -56087,6 +56110,7 @@ resecure
 resecures
 reseeds
 reseeing
+reseeking
 reseeks
 reseen
 resees
@@ -56627,6 +56651,7 @@ returns
 retuse
 retypes
 reunified
+reunifies
 reunifying
 reunionist
 reunionistic
@@ -57057,6 +57082,7 @@ riggings
 righted
 righteous
 righteousnesses
+rightest
 rightful
 rightfully
 rightfulnesses
@@ -58648,6 +58674,7 @@ scanted
 scantier
 scanties
 scantiest
+scape
 scaped
 scapegoating
 scapegoatisms
@@ -58955,6 +58982,7 @@ scoria
 scoriaceous
 scoriae
 scorifiers
+scorifies
 scoring
 scornfully
 scornfulnesses
@@ -59190,6 +59218,7 @@ scums
 scungilli
 scunner
 scunnered
+scuppaug
 scuppernong
 scuppernongs
 scups
@@ -60089,6 +60118,7 @@ shahdom
 shahdoms
 shaird
 shakeable
+shakedowns
 shakeup
 shakiness
 shakinesses
@@ -61099,6 +61129,7 @@ situation
 situationally
 situses
 sivers
+sixfold
 sixteenmo
 sixteenmos
 sixteens
@@ -66073,6 +66104,7 @@ sybo
 syboes
 sycee
 sycees
+sycomore
 syconia
 syconium
 sycophant
@@ -69925,6 +69957,7 @@ turgite
 turgites
 turgor
 turion
+turkois
 turks
 turmeric
 turmoiled
@@ -73617,6 +73650,7 @@ waffle
 wafflers
 wafflier
 waffling
+waffs
 waftage
 wafted
 wafter
@@ -75225,6 +75259,7 @@ wristband
 wristbands
 wristwatches
 writ
+writeable
 writer
 writerly
 writers
