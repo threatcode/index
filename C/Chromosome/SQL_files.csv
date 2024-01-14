@@ -7,3 +7,11 @@ https://raw.githubusercontent.com/cBioPortal/cbiop...,https://raw.githubusercont
 SQL dump - RBPDB,http://rbpdb.ccbr.utoronto.ca/downloads/RBPDB_v1.3.1_2012-11-21.sql
 https://www.bcgsc.ca/downloads/schz_db.2004-07-07/...,https://www.bcgsc.ca/downloads/schz_db.2004-07-07/schz_db.2004-07-07.11:30/schz_db.ens_db.sql
 https://urgi.versailles.inra.fr/download/dbWFA/Ent...,https://urgi.versailles.inra.fr/download/dbWFA/Entity_Model_Species_Proteins.sql
+http://web.mit.edu/~r/current/lib/R/library/Annota...,http://web.mit.edu/~r/current/lib/R/library/AnnotationDbi/DBschemas/schemas_0.9/FLY_DB.sql
+sampleQueriesNested.sql - microsoft/genomicsnotebook - GitHub,https://github.com/microsoft/genomicsnotebook/blob/main/vcf2parquet-conversion/1000genomes/sql/sampleQueriesNested.sql
+sampleQueriesFlattened.sql - microsoft/genomicsnotebook - GitHub,https://github.com/microsoft/genomicsnotebook/blob/main/vcf2parquet-conversion/1000genomes/sql/sampleQueriesFlattened.sql
+Function - GitHub,https://raw.githubusercontent.com/ga4gh-beacon/beacon-elixir/v1.0.1/elixir_beacon/src/main/resources/META-INF/elixir_beacon_function_summary_response.sql
+https://raw.githubusercontent.com/cBioPortal/cbiop...,https://raw.githubusercontent.com/cBioPortal/cbioportal/v2.0.0/db-scripts/src/main/resources/cgds.sql
+database/am_horse.sql · main · genecascade / AutozygosityMapper ...,https://git-ext.charite.de/genecascade/autozygositymapper/-/blob/main/database/am_horse.sql
+https://stash.ebu.ch/projects/EL/repos/exercise-db...,https://stash.ebu.ch/projects/EL/repos/exercise-db/raw/data.sql%3Fat%3D847412af5790a77503369477f56bfafe7b1bf566
+https://urgi.versailles.inra.fr/download/dbWFA/Ent...,https://urgi.versailles.inra.fr/download/dbWFA/Entity_Model_Species_Proteins.sql

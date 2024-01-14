@@ -3083,6 +3083,7 @@ approbation
 appropriated
 appropriateness
 appropriation
+approvable
 approval
 approvals
 approve
@@ -4290,6 +4291,7 @@ averts
 aves
 avgolemono
 avgolemonos
+avianizing
 avians
 aviarist
 aviate
@@ -7293,6 +7295,7 @@ boondock
 boondoggler
 boondoggling
 boonies
+boonless
 boons
 boor
 boorish
@@ -7689,6 +7692,7 @@ brandish
 brandishes
 brandishing
 brandlings
+brands
 brandying
 brank
 branks
@@ -8076,6 +8080,7 @@ brow
 browband
 browbeat
 browbeaten
+browed
 brown
 browner
 brownfield
@@ -9323,6 +9328,7 @@ caponize
 caponized
 capons
 caporals
+capotes
 capouch
 capped
 cappelletti
@@ -10021,6 +10027,7 @@ caviled
 caviler
 cavilers
 caviling
+cavilled
 cavilling
 cavils
 caving
@@ -11133,6 +11140,7 @@ chromophores
 chromoplast
 chromoproteins
 chromosomally
+chromosome
 chromy
 chromyl
 chromyls
@@ -11477,6 +11485,7 @@ claimers
 clairaudiences
 clairaudient
 clairaudiently
+clairvoyance
 clairvoyant
 clairvoyantly
 clairvoyants
@@ -19339,6 +19348,7 @@ domesdays
 domesticated
 domestication
 domesticities
+domesticity
 domestics
 domic
 domically
@@ -22062,6 +22072,7 @@ equilibrating
 equilibration
 equilibrator
 equilibratory
+equilibria
 equilibrist
 equilibrium
 equinely
@@ -23626,6 +23637,7 @@ fancifies
 fanciful
 fancifulness
 fancify
+fanciless
 fancily
 fanciness
 fancinesses
@@ -23641,6 +23653,7 @@ fang
 fanga
 fanged
 fangless
+fanglike
 fanion
 fanions
 fanjets
@@ -25281,6 +25294,7 @@ folliculitises
 follower
 followers
 folly
+foment
 fomentation
 fomenter
 fomenting
@@ -26581,6 +26595,7 @@ galvanoscope
 galvanoscopes
 galyak
 gam
+gama
 gamas
 gamba
 gambado
@@ -29049,6 +29064,7 @@ hairlessness
 hairlike
 hairline
 hairnet
+hairnets
 hairpin
 hairsbreadth
 hairsplitter
@@ -29515,6 +29531,7 @@ haver
 haverel
 havering
 haversack
+haversacks
 havior
 haviors
 havoc
@@ -29740,6 +29757,7 @@ hectographs
 hectometer
 heddles
 heder
+hedgehog
 hedgehoppers
 hedgepigs
 hedgerow
@@ -31640,6 +31658,7 @@ ibises
 ibogaine
 ibuprofen
 ibuprofens
+iceberg
 iceblinks
 iceboat
 iceboater
@@ -31830,6 +31849,7 @@ illicit
 illicitly
 illimitability
 illimitable
+illimitableness
 illinium
 illiquidities
 illiquidity
@@ -32957,6 +32977,7 @@ inferrible
 inferring
 infers
 infestant
+infestation
 infester
 infesters
 infidelic
@@ -34836,6 +34857,7 @@ jipijapa
 jism
 jitneys
 jitterier
+jitteriest
 jitteriness
 jittering
 jiujitsus
@@ -37705,6 +37727,7 @@ longtime
 longways
 loo
 loobies
+looby
 loofah
 loofahs
 loofas
@@ -45368,6 +45391,7 @@ ornithic
 ornithine
 ornithischians
 ornithologist
+ornithopod
 ornithopters
 ornithoses
 ornithosis
@@ -47051,6 +47075,7 @@ packability
 packable
 package
 packagers
+packboards
 packed
 packets
 packhorse
@@ -51798,6 +51823,7 @@ pretend
 pretended
 pretender
 pretenders
+pretensionless
 pretensions
 pretentiously
 pretentiousness
@@ -54843,6 +54869,7 @@ recreating
 recreation
 recreationist
 recriminate
+recriminating
 recriminations
 recriminatory
 recrossed
@@ -59818,6 +59845,7 @@ seedinesses
 seeding
 seedless
 seedlike
+seedpods
 seedsman
 seedstock
 seedtime
@@ -59915,6 +59943,7 @@ selects
 selenates
 selenic
 selenides
+selenious
 selenological
 selenologies
 selenologist
@@ -62213,6 +62242,7 @@ snail
 snailed
 snailing
 snails
+snake
 snakebird
 snakebit
 snakebite
@@ -65146,6 +65176,7 @@ subinfeudation
 subinfeuded
 subinfeuds
 subinterval
+subirrigate
 subjacent
 subjacently
 subject
@@ -66913,6 +66944,7 @@ tailwind
 tain
 taintless
 take
+takeable
 takedowns
 takeoffs
 taker
@@ -68818,6 +68850,7 @@ tolled
 toller
 tollers
 tolling
+tollman
 tolls
 tollways
 toluate
@@ -70206,6 +70239,7 @@ tsunamis
 tubae
 tubaist
 tubal
+tubas
 tubbed
 tubbier
 tubby
@@ -73541,6 +73575,7 @@ victor
 victorious
 victory
 victual
+victualed
 victualer
 victualled
 victualling
