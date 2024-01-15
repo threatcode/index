@@ -680,6 +680,7 @@ admonisher
 admonishers
 admonishingly
 admonishment
+admonishments
 admonition
 admonitions
 admonitor
@@ -3631,6 +3632,7 @@ ashler
 ashlered
 ashlers
 ashore
+ashplant
 ashplants
 ashram
 ashtray
@@ -6606,6 +6608,7 @@ blackberries
 blackbirded
 blackbirder
 blackbirders
+blackbirding
 blackbirds
 blackboard
 blackboards
@@ -12808,6 +12811,7 @@ commixtures
 commodifies
 commodify
 commodiousness
+commodities
 commodity
 commodores
 commonage
@@ -12932,6 +12936,7 @@ complacent
 complainant
 complainants
 complained
+complainers
 complaisance
 complaisances
 complaisantly
@@ -12955,6 +12960,7 @@ complexify
 complexities
 complexnesses
 compliancy
+compliant
 complicated
 complicatedly
 complicatedness
@@ -13266,6 +13272,7 @@ conferral
 conferrals
 conferred
 conferree
+conferrence
 conferrences
 conferrer
 conferrers
@@ -15179,6 +15186,7 @@ crownet
 crownets
 crowns
 crows
+crowsfeet
 crowsfoot
 crowstep
 croze
@@ -18679,6 +18687,7 @@ discounter
 discounts
 discourage
 discouragement
+discourse
 discoursers
 discourteous
 discourteously
@@ -21526,6 +21535,7 @@ endodermal
 endodontic
 endodontist
 endoergic
+endogamic
 endogamies
 endogamous
 endogamy
@@ -22013,6 +22023,7 @@ eolopiles
 eonian
 eonism
 eosin
+eosines
 eosinic
 eosinophil
 eosinophils
@@ -26861,6 +26872,7 @@ ganister
 ganjah
 ganjahs
 ganof
+gantelopes
 gantleted
 gantleting
 gantlets
@@ -27982,6 +27994,7 @@ godded
 goddesses
 godet
 godetia
+godets
 godfather
 godfathers
 godhead
@@ -30364,6 +30377,7 @@ hetaerae
 hetairism
 hetero
 heteroatom
+heteroauxin
 heterocercal
 heteroclite
 heteroclites
@@ -32637,6 +32651,7 @@ incandesce
 incandesced
 incandescence
 incandescent
+incandesces
 incantational
 incantatory
 incanted
@@ -35748,6 +35763,7 @@ kiefs
 kielbasa
 kielbasas
 kielbasy
+kieselguhrs
 kieserites
 kiester
 kif
@@ -36484,6 +36500,7 @@ laparoscopy
 laparotomy
 lapboard
 lapboards
+lapdog
 lapel
 lapeled
 lapful
@@ -38585,6 +38602,7 @@ madre
 madrepore
 madrepores
 madreporians
+madres
 madrigal
 madrigalian
 madrigalist
@@ -38905,6 +38923,7 @@ mandarinisms
 mandate
 mandates
 mandating
+mandator
 mandibular
 mandioca
 mandiocas
@@ -42059,6 +42078,7 @@ motif
 motilities
 motioning
 motionlessness
+motivational
 motivationally
 motivations
 motivic
@@ -42509,6 +42529,7 @@ muntjaks
 muon
 muonic
 muonium
+muoniums
 muons
 mura
 muraenid
@@ -43709,6 +43730,7 @@ nixy
 nizam
 nizamates
 nobbier
+nobbled
 nobbler
 nobblers
 nobbling
@@ -44603,6 +44625,7 @@ nowts
 noxious
 noxiousness
 nozzle
+nu
 nuance
 nuanced
 nub
@@ -45038,6 +45061,7 @@ ochring
 ochroid
 ochry
 ocicat
+ocker
 ocotillo
 ocotillos
 ocreate
@@ -47024,6 +47048,7 @@ overprotect
 overprotects
 overproud
 overpump
+overpumping
 overqualified
 overrash
 overrate
@@ -50404,6 +50429,7 @@ platterfuls
 plattersful
 platting
 platyhelminthic
+platypus
 platyrrhines
 plaudit
 plausibility
@@ -51465,6 +51491,7 @@ practicalness
 practicals
 practicers
 practices
+practicum
 practitioner
 praecipes
 praelected
@@ -60926,6 +60953,7 @@ sh
 sha
 shabbatot
 shabbier
+shabbiest
 shabbily
 shabbiness
 shabby
@@ -62537,6 +62565,7 @@ slumgullion
 slumgullions
 slumism
 slumlord
+slumlords
 slummers
 slummiest
 slummy
@@ -68221,9 +68250,11 @@ tenure
 tenured
 tenures
 tenurially
+tenuti
 teocallis
 teopan
 teopans
+teosinte
 tepa
 tepal
 tepee
@@ -68388,6 +68419,7 @@ tetanically
 tetanies
 tetanise
 tetanised
+tetanize
 tetanized
 tetanizing
 tetanoid
@@ -69928,6 +69960,7 @@ transcends
 transcriber
 transcribes
 transcriptase
+transcription
 transcriptional
 transcripts
 transduces
@@ -74187,6 +74220,7 @@ villanella
 villanelle
 villas
 villatic
+villein
 villeins
 villiform
 villose
@@ -74747,6 +74781,7 @@ waived
 waivers
 wakame
 wakames
+wakandas
 wake
 wakeboarder
 wakeboarders
