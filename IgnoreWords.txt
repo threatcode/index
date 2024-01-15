@@ -837,6 +837,7 @@ aecium
 aediles
 aedine
 aegis
+aegises
 aeneous
 aeonian
 aeonic
@@ -5957,6 +5958,7 @@ bestrewing
 bestrewn
 bestrews
 bestrid
+bestrowed
 bestsellerdom
 bestud
 bestudding
@@ -7680,6 +7682,7 @@ brainchildren
 brainiac
 brainier
 brainiest
+brainily
 braininesses
 braining
 brainlessness
@@ -7745,6 +7748,7 @@ brassed
 brassica
 brassicas
 brassie
+brassiere
 brassieres
 brassies
 brassiest
@@ -8668,6 +8672,7 @@ buttonwoods
 buttress
 buttressed
 buttressing
+buttstocks
 butyl
 butylated
 butylates
@@ -12099,6 +12104,7 @@ cochair
 cochairwoman
 cochampion
 cochleae
+cochleate
 cocineras
 cockamamie
 cockatrices
@@ -13311,6 +13317,7 @@ congee
 congees
 congener
 congeneric
+congenerous
 congeners
 congenialities
 congeniality
@@ -13551,6 +13558,7 @@ consummately
 consummates
 consummative
 consummators
+consumptions
 consumptives
 contacted
 contactees
@@ -14956,6 +14964,7 @@ crimped
 crimpers
 crimping
 crimple
+crimpled
 crimples
 crimps
 crimson
@@ -18456,6 +18465,7 @@ disagreements
 disagrees
 disallows
 disambiguate
+disambiguating
 disannulled
 disappear
 disappearances
@@ -18517,6 +18527,7 @@ discarding
 discards
 discase
 discases
+discept
 discepted
 discepting
 discepts
@@ -19527,6 +19538,7 @@ dorkiness
 dorks
 dorm
 dormancies
+dormancy
 dormant
 dormers
 dormin
@@ -20286,6 +20298,7 @@ duumvirate
 duumviri
 duumvirs
 duvet
+duvetine
 duvetines
 duvetyne
 duxelles
@@ -25090,6 +25103,7 @@ flocculent
 flocculus
 flock
 flockier
+flockiest
 flocking
 flocks
 floes
@@ -30391,6 +30405,7 @@ hidroses
 hidrosis
 hidrotic
 hie
+hied
 hiemal
 hierarchic
 hierarchical
@@ -31622,6 +31637,7 @@ hyperphagias
 hyperphagic
 hyperpituitary
 hyperplanes
+hyperploid
 hyperploids
 hyperpneas
 hyperpneic
@@ -32508,6 +32524,7 @@ inauspicious
 inauspiciously
 inauthentic
 inauthenticity
+inbeing
 inbeings
 inboard
 inborn
@@ -32907,6 +32924,7 @@ individualities
 individualize
 individualized
 individualizes
+individuals
 individuates
 individuating
 indivisibility
@@ -39299,6 +39317,7 @@ mature
 maturer
 matures
 maturest
+maturities
 matzas
 matzo
 matzoons
@@ -40416,6 +40435,7 @@ militantnesses
 militaria
 militaries
 militarily
+militarise
 militarised
 militarises
 militarising
@@ -44276,6 +44296,7 @@ nonword
 nonwords
 nonworking
 nonwriter
+nonyls
 nonzero
 noodge
 noodging
@@ -48434,6 +48455,7 @@ pegboards
 pegbox
 pegged
 pegmatite
+pehs
 peignoir
 peignoirs
 pein
@@ -48609,6 +48631,7 @@ peonies
 peonisms
 peons
 peony
+people
 peopled
 peopling
 pep
@@ -51586,6 +51609,7 @@ preempting
 preemptive
 preemptively
 preemptor
+preemptors
 preempts
 preenact
 preened
@@ -53674,6 +53698,7 @@ quaggiest
 quags
 quahaug
 quahog
+quai
 quaich
 quaiches
 quaigh
@@ -60801,6 +60826,7 @@ shamuses
 shanachie
 shandies
 shandy
+shandygaff
 shanghaied
 shanghaiers
 shanking
@@ -62459,6 +62485,7 @@ smoothers
 smoothest
 smoothies
 smoothness
+smooths
 smotherers
 smothering
 smothery
@@ -68587,6 +68614,7 @@ threader
 threadier
 threadiest
 threadiness
+threadinesses
 threading
 threadlike
 threads
@@ -68657,6 +68685,7 @@ throttles
 throttling
 through
 throughither
+throw
 throwaway
 throwaways
 thrower
@@ -68885,6 +68914,7 @@ timeworn
 timidities
 timidly
 timidness
+timidnesses
 timings
 timocracy
 timothies
@@ -69980,6 +70010,7 @@ trepans
 trephining
 trepid
 trepidations
+treponemata
 treponematoses
 treponemes
 tres
@@ -72542,6 +72573,7 @@ unsewed
 unsexed
 unshackle
 unshackled
+unshackles
 unshackling
 unshaded
 unshakably
@@ -73204,6 +73236,7 @@ vacatable
 vacationer
 vacationist
 vacationland
+vaccina
 vaccinal
 vaccinas
 vaccinated
@@ -74252,6 +74285,7 @@ volcanize
 volcano
 volcanologies
 volcanos
+voleries
 volery
 volitions
 volitive
@@ -74838,6 +74872,7 @@ waveringly
 wavers
 waves
 waveys
+wavicle
 wavicles
 wavies
 waviest
