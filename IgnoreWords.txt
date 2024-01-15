@@ -409,6 +409,7 @@ acquirer
 acquirers
 acquiring
 acquisitions
+acquisitively
 acquisitiveness
 acquisitors
 acquittal
@@ -817,6 +818,7 @@ advisabilities
 advisable
 advisably
 advise
+advised
 advisee
 advisees
 advisements
@@ -6515,6 +6517,7 @@ birdhouse
 birdhouses
 birdie
 birdied
+birdieing
 birding
 birdlife
 birdlime
@@ -9068,6 +9071,7 @@ calorics
 calorific
 calorimeter
 calorimetric
+calorimetry
 calorize
 calorizing
 calotte
@@ -10740,6 +10744,7 @@ cheapnesses
 cheaps
 cheapskate
 cheapskates
+cheater
 cheats
 chebec
 chechako
@@ -11031,6 +11036,7 @@ chiro
 chirographic
 chirographical
 chirographies
+chirography
 chiromancer
 chironomid
 chiropodies
@@ -11231,6 +11237,7 @@ chrismation
 chrismations
 chrisms
 chrisom
+christened
 christening
 christy
 chromates
@@ -12444,6 +12451,7 @@ cohos
 cohosh
 cohostesses
 cohostessing
+cohosts
 cohune
 cohunes
 coif
@@ -14219,6 +14227,7 @@ corral
 corralled
 corrals
 corrasion
+corrasive
 correct
 correctable
 corrected
@@ -14514,6 +14523,7 @@ counterefforts
 counterexample
 counterfactual
 counterfeiter
+counterforces
 counterimage
 counterimages
 countering
@@ -16506,6 +16516,7 @@ decilitres
 decillion
 decillions
 decimalization
+decimalizations
 decimalize
 decimalized
 decimals
@@ -20866,6 +20877,7 @@ effusions
 effusively
 eft
 efts
+egal
 egalitarian
 egalitarians
 egalite
@@ -21030,6 +21042,7 @@ electromagnetic
 electrometers
 electromyograms
 electromyograph
+electronica
 electrons
 electroosmoses
 electroosmotic
@@ -23214,6 +23227,7 @@ exiguousnesses
 exilers
 eximious
 exine
+existed
 existences
 existent
 existential
@@ -31913,6 +31927,7 @@ hypocoristic
 hypocoristical
 hypocotyl
 hypocrites
+hypocritically
 hypocycloid
 hypodermal
 hypoderms
@@ -33162,6 +33177,7 @@ indorses
 indorsors
 indowed
 indowing
+indows
 indraught
 indrawn
 indris
@@ -33263,6 +33279,7 @@ inexcusableness
 inexhaustible
 inexhaustibly
 inexistences
+inexorability
 inexorably
 inexpedience
 inexpediencies
@@ -39184,6 +39201,7 @@ mansion
 manslaughter
 manslayers
 mansuetudes
+manteaux
 mantel
 mantelet
 manticore
@@ -44934,6 +44952,7 @@ nuzzlers
 nuzzles
 nuzzling
 nyalas
+nyctalopias
 nylghau
 nylghaus
 nympha
@@ -45869,6 +45888,7 @@ orienteering
 orienteers
 orienter
 orienters
+orienting
 orients
 orifices
 oriflamme
@@ -46255,6 +46275,7 @@ outers
 outerwear
 outfabled
 outfall
+outfasts
 outfawning
 outfawns
 outfeast
@@ -47393,6 +47414,7 @@ overturn
 overurge
 overurged
 overusing
+overutilization
 overutilizes
 overutilizing
 overvaluation
@@ -48734,6 +48756,7 @@ pedicurists
 pedigree
 pedigreed
 pedigrees
+pedimental
 pedimented
 pediments
 pedlar
@@ -51247,6 +51270,7 @@ pontificating
 pontification
 pontifications
 pontoon
+pontoons
 ponytailed
 ponytails
 poo
@@ -51605,6 +51629,7 @@ poultry
 poultryman
 poults
 pounced
+pouncing
 pound
 poundage
 poundages
@@ -59402,6 +59427,7 @@ sappiness
 sappinesses
 sapremia
 saprobes
+saprobial
 saprogenicities
 saprogenicity
 saprolite
@@ -62944,6 +62970,7 @@ snake
 snakebird
 snakebit
 snakebite
+snakeroot
 snakes
 snakeskin
 snakeweed
@@ -63051,6 +63078,7 @@ snitches
 snitching
 snits
 snivelers
+snob
 snobberies
 snobbery
 snobbier
@@ -64511,6 +64539,7 @@ squeg
 squegged
 squegging
 squelches
+squelchier
 squelching
 squib
 squidded
@@ -73794,6 +73823,7 @@ valorise
 valorised
 valorized
 valorizes
+valorously
 valour
 valpolicellas
 valses
@@ -75499,6 +75529,7 @@ week
 weekdays
 weekend
 weekenders
+weekends
 weeknights
 weeks
 weening
@@ -76042,6 +76073,7 @@ windable
 windage
 windbag
 windbags
+windbell
 windblast
 windblasts
 windbreak
@@ -76196,6 +76228,7 @@ wish
 wishbone
 wishfulness
 wishless
+wisp
 wispily
 wispinesses
 wispish
@@ -76530,6 +76563,7 @@ wraiths
 wrangle
 wrangler
 wrap
+wrappers
 wraps
 wrasse
 wrastle
@@ -76852,6 +76886,7 @@ yock
 yocked
 yocks
 yoctoseconds
+yodelers
 yodelling
 yodle
 yodles
