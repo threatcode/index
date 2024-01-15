@@ -364,6 +364,7 @@ acidness
 acidnesses
 acidophile
 acidoses
+acidosis
 acids
 acidulate
 acidulates
@@ -3403,6 +3404,7 @@ armada
 armadas
 armagnacs
 armaturing
+armbands
 armchair
 armed
 armer
@@ -6481,6 +6483,7 @@ biphasic
 biphenyls
 biplanes
 bipod
+bipolarized
 bipropellant
 bipropellants
 bipyramid
@@ -15973,6 +15976,7 @@ dahs
 daidzeins
 daiker
 daikered
+daikering
 dailynesses
 daimen
 daimio
@@ -16596,6 +16600,7 @@ decor
 decorating
 decoratively
 decorativeness
+decorator
 decorous
 decorousnesses
 decors
@@ -22960,6 +22965,7 @@ exabytes
 exacerbates
 exacerbations
 exact
+exacta
 exactable
 exactas
 exacted
@@ -24753,6 +24759,7 @@ firebox
 fireboxes
 firebrand
 firebrands
+firebrat
 firebrats
 firebreak
 firebug
@@ -26845,6 +26852,7 @@ galvanometers
 galvanoscope
 galvanoscopes
 galyak
+galyaks
 gam
 gama
 gamas
@@ -27864,6 +27872,7 @@ glossed
 glosser
 glossier
 glossily
+glossolalia
 glossolalias
 glossolalists
 glossy
@@ -35207,6 +35216,7 @@ jockos
 jockstraps
 jocose
 jocosely
+jocoseness
 jocosenesses
 jocosity
 jocular
@@ -35284,6 +35294,7 @@ jota
 jotas
 jotters
 jottings
+jotty
 joual
 jouals
 jouk
@@ -35821,6 +35832,7 @@ kidnaper
 kidnapers
 kidnappee
 kidnappees
+kidnapper
 kidnappers
 kidnapping
 kidnaps
@@ -36587,6 +36599,7 @@ lapidify
 lapidifying
 lapidist
 lapin
+lapins
 lapper
 lappers
 lappets
@@ -38515,6 +38528,7 @@ lymphogram
 lymphokine
 lymphomas
 lymphomatoses
+lymphomatosis
 lymphomatous
 lymphosarcoma
 lymphs
@@ -39086,6 +39100,7 @@ maniples
 manipulable
 manipular
 manipulars
+manipulate
 manipulation
 manipulator
 manitous
@@ -41386,6 +41401,7 @@ misstarts
 missteering
 misstep
 misstepped
+misstepping
 missteps
 misstopped
 misstopping
@@ -46728,6 +46744,7 @@ overburning
 overbuys
 overcall
 overcalls
+overcame
 overcapacities
 overcapacity
 overcapitalize
@@ -48583,6 +48600,7 @@ peas
 peasantry
 peashooter
 peashooters
+peasouper
 peat
 peatier
 peatiest
@@ -48834,6 +48852,7 @@ pennywise
 pennyworths
 penoches
 penological
+penologies
 penpoint
 penpoints
 pensee
@@ -49892,6 +49911,7 @@ picky
 picloram
 picnic
 picnicker
+picofarad
 picogram
 picolin
 picolins
@@ -50082,6 +50102,7 @@ pincerlike
 pincers
 pinchbeck
 pinchbug
+pinchcocks
 pinchecks
 pinched
 pincher
@@ -50991,6 +51012,7 @@ polonium
 poloniums
 poltergeists
 poltroon
+poltroons
 polyamide
 polyamine
 polyamines
@@ -51734,6 +51756,7 @@ precancers
 precariousness
 precast
 precasts
+precative
 precatory
 precaudal
 precautions
@@ -52814,6 +52837,7 @@ prolonged
 prolonger
 prolonges
 prolongs
+promenade
 promenaded
 promenader
 promenaders
@@ -54576,6 +54600,7 @@ ranch
 ranched
 rancherias
 ranchlike
+rancid
 rancidness
 rancor
 rancorous
@@ -55791,6 +55816,7 @@ refashioning
 refected
 refecting
 refection
+refections
 refective
 refectory
 refed
@@ -56861,6 +56887,7 @@ reprobative
 reprobatory
 reprobed
 reprobing
+reprocessed
 reproduce
 reproduced
 reproducible
@@ -59984,6 +60011,7 @@ scrabble
 scrabbles
 scrabbly
 scrag
+scraggier
 scraggily
 scragging
 scraich
@@ -62992,6 +63020,7 @@ snooze
 snoozed
 snoozers
 snooziest
+snoozled
 snoozles
 snoring
 snorkel
@@ -66550,6 +66579,7 @@ superintendents
 superior
 superiorities
 superjet
+superjock
 superjocks
 superjumbo
 superlativeness
@@ -69994,6 +70024,7 @@ tragicomic
 tragicomical
 tragopan
 tragopans
+tragus
 traiking
 traiks
 trailered
@@ -72082,6 +72113,7 @@ underpricing
 underproof
 underprop
 underpropped
+underpropping
 underrate
 underrated
 underrating
@@ -76366,6 +76398,7 @@ workstations
 workup
 workups
 workweeks
+workwomen
 world
 worldlinesses
 worldling
@@ -76761,6 +76794,7 @@ yoghs
 yoghurts
 yogi
 yogic
+yogins
 yogurt
 yogurts
 yohimbe
@@ -76900,6 +76934,7 @@ zed
 zeins
 zeitgeber
 zek
+zemindar
 zemindaries
 zemindars
 zenith
