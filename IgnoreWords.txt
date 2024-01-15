@@ -961,6 +961,7 @@ affixial
 affixing
 affixtures
 afflatus
+afflatuses
 afflict
 afflicting
 affluences
@@ -1262,6 +1263,7 @@ airinesses
 airing
 airings
 airless
+airlessnesses
 airlift
 airlifted
 airlifting
@@ -1290,6 +1292,7 @@ airspace
 airspaces
 airspeeds
 airt
+airted
 airth
 airthed
 airthing
@@ -1361,6 +1364,7 @@ albuterols
 alcahest
 alcahests
 alcayde
+alcazars
 alchemic
 alchemistic
 alchemistical
@@ -13826,6 +13830,7 @@ cooed
 cooees
 cooeys
 cooingly
+cookable
 cookbook
 cooker
 cookery
@@ -14503,6 +14508,7 @@ counterthrusts
 countertrade
 countertrend
 countervail
+countervailed
 countervailing
 counterviolence
 counterweight
@@ -17433,12 +17439,14 @@ desalinized
 desalinizes
 desalting
 desalts
+desand
 descant
 descanter
 descendant
 descendants
 descendent
 descender
+descendible
 descension
 descents
 describer
@@ -18508,6 +18516,7 @@ disassociates
 disassociation
 disassociations
 disaster
+disastrous
 disavowable
 disavowed
 disavowing
@@ -19595,6 +19604,7 @@ dotages
 dotal
 dotards
 dotations
+doted
 dotes
 dotier
 doting
@@ -19798,6 +19808,7 @@ drainage
 drained
 drainer
 drainers
+draining
 drainpipes
 drains
 drake
@@ -20518,6 +20529,7 @@ ebulliency
 ebullitions
 ecartes
 ecbolics
+eccentric
 ecclesia
 ecclesiae
 ecclesiastical
@@ -23423,6 +23435,7 @@ extraordinary
 extrapolated
 extrapolative
 extrasensory
+extratextual
 extrauterine
 extravagant
 extravaganza
@@ -31114,6 +31127,7 @@ hostels
 hostesses
 hostilities
 hosting
+hostler
 hostlers
 hotbox
 hotch
@@ -36631,6 +36645,7 @@ lavendering
 lavenders
 laverock
 laverocks
+lavers
 laves
 lavished
 lavishes
@@ -36709,6 +36724,7 @@ leachy
 leaded
 leadened
 leadening
+leadennesses
 leadens
 leaderless
 leadership
@@ -39316,6 +39332,7 @@ matings
 matins
 matriarchy
 matricide
+matricides
 matriculation
 matrilineally
 matrimonial
@@ -39336,6 +39353,7 @@ mattins
 mattoids
 mattrass
 mattress
+mattresses
 mature
 maturer
 matures
@@ -40055,6 +40073,7 @@ metastasize
 metastasizes
 metastatic
 metatag
+metatags
 metatarsal
 metatarsi
 metatarsus
@@ -41726,6 +41745,7 @@ monzonites
 moo
 mooch
 mooched
+moocher
 mooches
 mood
 moodier
@@ -42102,6 +42122,7 @@ mozzettas
 mozzette
 mridangam
 mridangams
+mridangas
 muchacho
 muchachos
 muchly
@@ -43353,6 +43374,7 @@ newsbreaks
 newscast
 newscaster
 newscasts
+newsgirls
 newsgroup
 newshawks
 newshound
@@ -46504,6 +46526,7 @@ overcall
 overcalls
 overcapacities
 overcapacity
+overcapitalize
 overcapitalized
 overcasted
 overcastings
@@ -46980,6 +47003,7 @@ overshoot
 overshot
 overshots
 oversides
+oversight
 oversights
 oversimplifies
 oversimplifying
@@ -47096,6 +47120,7 @@ overurged
 overusing
 overutilizes
 overutilizing
+overvaluation
 overvalue
 overvalued
 overvaluing
@@ -47771,6 +47796,7 @@ paramedical
 paramedics
 parament
 paramenta
+parameter
 parameters
 parametrization
 parametrizes
@@ -50626,6 +50652,7 @@ pois
 poise
 poiser
 poisers
+poises
 poising
 poisoned
 poisoner
@@ -50860,6 +50887,7 @@ polytypes
 polyunsaturated
 polyurethane
 polyuria
+polyurias
 polyuric
 polyzoaries
 polyzoary
@@ -54644,6 +54672,7 @@ reallot
 reallotting
 realpolitik
 realpolitiks
+realtering
 realters
 realtor
 reamed
@@ -57346,6 +57375,7 @@ revelators
 revelatory
 revelments
 revelries
+revels
 revenant
 revenged
 revenger
@@ -58612,6 +58642,7 @@ sackers
 sackful
 sackfuls
 sackings
+sacklike
 sacksful
 sacques
 sacral
@@ -64466,6 +64497,7 @@ steenbok
 steenboks
 steep
 steepen
+steepened
 steepening
 steepens
 steeper
@@ -68164,6 +68196,7 @@ terrific
 terrifically
 terrified
 terrifies
+terrify
 terrifying
 terrigenous
 territ
@@ -69813,6 +69846,7 @@ transient
 transiently
 transistorise
 transistorised
+transistorises
 transistorize
 transistors
 transit
@@ -73998,6 +74032,7 @@ vigorously
 vigours
 vigs
 vilayets
+vilification
 vilifiers
 vilifies
 vilifying
