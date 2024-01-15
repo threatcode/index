@@ -945,6 +945,7 @@ affidavit
 affiliate
 affiliates
 affiliating
+affiliations
 affinal
 affined
 affines
@@ -1715,6 +1716,7 @@ alters
 althaeas
 althorns
 altigraphs
+altimeter
 altimetries
 altiplanos
 altitudinal
@@ -2529,6 +2531,7 @@ antiauxin
 antiauxins
 antibacklash
 antibiotic
+antiblackism
 antiblackisms
 antibody
 antibourgeois
@@ -5145,6 +5148,7 @@ bartended
 bartending
 barterer
 barterers
+barters
 bartisans
 barye
 baryes
@@ -6614,6 +6618,7 @@ bizarrenesses
 bizarres
 biznagas
 bizones
+blab
 blabbed
 blabbermouth
 black
@@ -10694,6 +10699,7 @@ chatoyance
 chatoyancy
 chatted
 chattels
+chatterbox
 chatterer
 chatterers
 chattier
@@ -12307,6 +12313,7 @@ coelome
 coelomes
 coelostat
 coembodied
+coembody
 coembodying
 coemploy
 coemploys
@@ -12317,6 +12324,7 @@ coenacts
 coenamor
 coendures
 coenduring
+coenobite
 coenocyte
 coenocytes
 coenocytic
@@ -15555,6 +15563,7 @@ curarized
 curarizing
 curassows
 curate
+curative
 curatively
 curatorial
 curators
@@ -24671,6 +24680,7 @@ finalisms
 finalist
 finalizations
 finalize
+finalizer
 finalizers
 finalizes
 finals
@@ -26522,6 +26532,7 @@ fundamentalists
 fundamentally
 fundamentals
 fundaments
+funded
 funders
 fundic
 fundraises
@@ -27442,6 +27453,7 @@ germlike
 germplasm
 germplasms
 gerontic
+gerontocrat
 gerontocratic
 gerontologies
 gerontologists
@@ -29772,6 +29784,7 @@ hatchet
 hatching
 hatchings
 hatchways
+hateable
 hates
 hatfuls
 hating
@@ -30312,6 +30325,7 @@ hepatectomies
 hepatectomized
 hepatectomy
 hepatica
+hepaticae
 hepatics
 hepatitises
 hepatize
@@ -31188,6 +31202,7 @@ horoscopes
 horrendous
 horribly
 horrid
+horrider
 horridnesses
 horrifically
 horrified
@@ -32013,6 +32028,7 @@ iconoclasts
 iconographic
 iconographical
 iconographies
+iconolatries
 iconological
 iconologies
 iconology
@@ -33183,6 +33199,7 @@ inebriation
 inebriations
 inedible
 inedibly
+ineffability
 ineffablenesses
 ineffaceability
 ineffective
@@ -33841,6 +33858,7 @@ intangibly
 intarsia
 integer
 integrabilities
+integrally
 integrand
 integrants
 integrations
@@ -35531,6 +35549,7 @@ kalsomines
 kalsomining
 kalyptra
 kalyptras
+kamaaina
 kame
 kami
 kamik
@@ -39620,6 +39639,7 @@ mayors
 mayorship
 mays
 mayvin
+mayweed
 mazaedium
 mazards
 maze
@@ -42817,6 +42837,7 @@ mycotoxins
 mycovirus
 mydriases
 mydriatic
+myelinic
 myeloblast
 myeloblastic
 myelocyte
@@ -43908,6 +43929,7 @@ nombrils
 nomen
 nomenclatorial
 nomenclatural
+nomenclature
 nominal
 nominalist
 nominally
@@ -44483,6 +44505,7 @@ nonsteroid
 nonstops
 nonstories
 nonstructured
+nonsubject
 nonsubjects
 nonsubsidized
 nonsuccess
@@ -52399,6 +52422,7 @@ prevailer
 prevailing
 prevalence
 prevalent
+prevalently
 prevalued
 prevalues
 prevaluing
@@ -53564,6 +53588,7 @@ pulverizer
 pulverizing
 pulverulent
 pulvilli
+pulvillus
 pulvinar
 pulvini
 pumelo
@@ -54005,6 +54030,7 @@ quads
 quaere
 quaff
 quaffed
+quaffer
 quaffing
 quaffs
 quag
@@ -54350,6 +54376,7 @@ racemizing
 racers
 racetracker
 racetrackers
+racewalked
 racewalkers
 racewalkings
 raceway
@@ -54998,6 +55025,7 @@ reasons
 reassail
 reassailed
 reassails
+reassemblages
 reassembled
 reassembles
 reassemblies
@@ -62137,6 +62165,7 @@ sirvente
 sirventes
 siskin
 sisses
+sissies
 sissiest
 sissy
 sissyness
@@ -64937,6 +64966,7 @@ sternest
 sternites
 sternness
 sternnesses
+sternocostal
 sternposts
 sterns
 sternson
@@ -69908,6 +69938,7 @@ townie
 townies
 townscape
 townswomen
+towpaths
 towplanes
 towrope
 towsacks
@@ -70333,6 +70364,7 @@ treachery
 treacles
 treaclier
 treacliest
+treacly
 treaders
 treading
 treadle
@@ -73040,6 +73072,7 @@ unstalked
 unstandardized
 unstarred
 unstate
+unstated
 unsteadied
 unsteadier
 unsteadies
@@ -75415,6 +75448,7 @@ wedelns
 wedels
 wedge
 wedged
+wedges
 wedgie
 wedging
 wedgy
@@ -76758,6 +76792,7 @@ yesses
 yestereves
 yestern
 yet
+yeuked
 yews
 yids
 yikes
