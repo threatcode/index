@@ -704,6 +704,7 @@ adopt
 adoptabilities
 adoptable
 adoptee
+adoptees
 adopter
 adoptionist
 adoptionists
@@ -1201,6 +1202,7 @@ agrochemical
 agroforestries
 agroforestry
 agronomic
+agronomy
 agrypnia
 agrypnias
 aguacates
@@ -1937,6 +1939,7 @@ amoxicillin
 amoxicillins
 amoxycillin
 amoxycillins
+amp
 amperage
 ampere
 amperes
@@ -2153,6 +2156,7 @@ ancientries
 ancients
 ancilla
 ancillary
+ancon
 anconal
 anconeal
 ancones
@@ -4646,6 +4650,7 @@ bacons
 bacteremias
 bacteria
 bacterial
+bacterially
 bactericidal
 bactericidally
 bacteriocins
@@ -7609,6 +7614,7 @@ bowse
 bowsed
 bowses
 bowshot
+bowshots
 bowstring
 bowstringed
 bowstringing
@@ -8732,6 +8738,7 @@ buzzword
 bwanas
 by
 bycatch
+bye
 bygone
 bylaw
 bylaws
@@ -9975,6 +9982,7 @@ caterer
 cateress
 caterpillar
 caterpillars
+caters
 caterwauled
 caterwauling
 cates
@@ -10790,6 +10798,7 @@ chemoreceptor
 chemoreceptors
 chemos
 chemosorb
+chemosorbed
 chemosorbing
 chemosorbs
 chemosyntheses
@@ -11742,6 +11751,7 @@ cleeked
 cleeking
 clef
 cleistogamic
+clematis
 clematises
 clemency
 clement
@@ -11803,6 +11813,7 @@ climbing
 climbs
 clinally
 clinch
+clinches
 clinchingly
 clines
 clinged
@@ -17282,6 +17293,7 @@ dependable
 dependably
 dependance
 dependant
+dependence
 dependences
 dependency
 depeople
@@ -18796,6 +18808,7 @@ disfurnishment
 disfurnishments
 disgorge
 disgraceful
+disgracefulness
 disgracers
 disgraces
 disgruntlement
@@ -20318,6 +20331,7 @@ duplicitous
 dupped
 dups
 durablenesses
+durables
 duralumins
 duramen
 duramens
@@ -24363,6 +24377,7 @@ feticide
 feticides
 fetid
 fetidity
+fetidnesses
 fetishes
 fetishistic
 fetishize
@@ -26575,6 +26590,7 @@ furzes
 furzier
 furzy
 fusain
+fusaria
 fuscous
 fuse
 fusel
@@ -28713,6 +28729,7 @@ groks
 groomed
 groomer
 groomers
+grooming
 grooms
 groomsman
 groomsmen
@@ -33216,6 +33233,7 @@ infarcts
 infares
 infatuates
 infatuation
+infeasibilities
 infeasible
 infect
 infection
@@ -35487,6 +35505,7 @@ kaolin
 kaolines
 kaolinitic
 kaolins
+kaon
 kaph
 kapok
 kapoks
@@ -36062,6 +36081,7 @@ kolkhos
 kolkhoses
 kolkhosy
 kolkhoz
+kolkhozes
 kolkhoznik
 kolkhozniks
 kolkoz
@@ -39503,6 +39523,7 @@ maxes
 maxicoats
 maxilla
 maxillae
+maxillipeds
 maxim
 maxima
 maximal
@@ -39900,6 +39921,7 @@ meninges
 meningiomata
 meningococcus
 meninx
+meniscate
 meniscoid
 menology
 menorrhagias
@@ -41611,6 +41633,7 @@ mom
 mome
 momentariness
 momentarinesses
+momentously
 momentousnesses
 moments
 momentum
@@ -42873,6 +42896,7 @@ nabobs
 nacelle
 naches
 nacho
+nachos
 nacres
 nadir
 nadiral
@@ -44565,6 +44589,7 @@ notchback
 notched
 notcher
 notchers
+notching
 notebooks
 noted
 notedly
@@ -47462,6 +47487,7 @@ packed
 packets
 packhorse
 packhorses
+packinghouses
 packings
 packman
 packmen
@@ -52617,6 +52643,7 @@ profaner
 profanes
 professed
 professes
+professionalism
 professor
 professorates
 professorial
@@ -54981,6 +55008,7 @@ reborn
 rebound
 rebranch
 rebranching
+rebred
 rebreeding
 rebroadcast
 rebuff
@@ -55604,6 +55632,7 @@ reedily
 reedit
 reedition
 reeditions
+reedlings
 reeds
 reeducate
 reeducating
@@ -66690,6 +66719,7 @@ surceases
 surcharge
 surcharges
 surcharging
+surcingling
 surcoat
 surcoats
 surculose
@@ -67588,6 +67618,7 @@ tameless
 tamely
 tamer
 tamers
+tames
 tamest
 tamoxifens
 tampalas
@@ -68567,6 +68598,7 @@ theatricality
 theatricalized
 theatricalizing
 theatrically
+thebaines
 thebes
 theca
 thecal
@@ -69383,6 +69415,7 @@ toilet
 toileted
 toiletries
 toiletry
+toilette
 toilfully
 toiling
 toilsomeness
@@ -72222,6 +72255,7 @@ unflinchingly
 unfocussed
 unfoiled
 unfolded
+unfoldment
 unfoldments
 unfolds
 unforced
@@ -75852,6 +75886,7 @@ windflaw
 windflower
 windhovers
 windigo
+windingly
 windjammer
 windjammers
 windlass
