@@ -2081,6 +2081,7 @@ analects
 analemmata
 analgesias
 analgetics
+analgias
 anality
 analog
 analogically
@@ -4642,6 +4643,7 @@ backpedalling
 backpedals
 backrests
 backrush
+backsaws
 backscatterings
 backscatters
 backset
@@ -5782,6 +5784,7 @@ bellowing
 bellows
 bellwethers
 bellworts
+belly
 bellyached
 bellyacher
 bellybands
@@ -6219,6 +6222,7 @@ bield
 bields
 biennales
 biennia
+biennially
 biennials
 biennium
 biestings
@@ -16825,6 +16829,7 @@ defensibly
 defensively
 defensivenesses
 defer
+deference
 deferential
 deferents
 deferments
@@ -18513,6 +18518,7 @@ diode
 diodes
 dioecy
 dioestrus
+dioestruses
 diolefin
 dionysiac
 dionysian
@@ -26015,6 +26021,7 @@ formulas
 formulating
 formulation
 formulations
+formulist
 formulists
 formulized
 formulizes
@@ -26566,6 +26573,7 @@ fugally
 fugatos
 fuggier
 fuggiest
+fuggy
 fugio
 fugitivenesses
 fugitives
@@ -27157,6 +27165,7 @@ garrulousnesses
 garters
 garveys
 gasalier
+gasconaders
 gasconading
 gascons
 gaseities
@@ -28033,6 +28042,7 @@ gloxinias
 glozed
 glozing
 glucagon
+glucagons
 glucokinases
 gluconate
 glucose
@@ -28256,6 +28266,7 @@ goliards
 goliath
 goliaths
 golliwog
+golliwoggs
 golliwogs
 golly
 gollywog
@@ -28549,6 +28560,7 @@ grandsir
 grandsires
 grandsirs
 grandstander
+grandstanders
 grandstanding
 grandstands
 grangerisms
@@ -29577,6 +29589,7 @@ halogeton
 haloids
 halomorphic
 halons
+haloperidols
 halophytes
 halophytic
 halos
@@ -29848,6 +29861,7 @@ harmine
 harmines
 harmlessness
 harmonicas
+harmonicist
 harmonious
 harmoniousness
 harmonized
@@ -32644,6 +32658,7 @@ impinges
 impinging
 impings
 impious
+impis
 impish
 implant
 implantation
@@ -35382,6 +35397,7 @@ jobbed
 jobber
 jobbing
 jobless
+joblessness
 jobname
 jobs
 jockettes
@@ -36618,6 +36634,7 @@ lambkin
 lamblike
 lambs
 lambskins
+lamby
 lamebrained
 lamebrains
 lamedh
@@ -46530,6 +46547,7 @@ outjuggles
 outjuggling
 outjumped
 outjumping
+outjutted
 outjutting
 outkept
 outkicking
@@ -48592,6 +48610,7 @@ pastness
 pastnesses
 pastorale
 pastoralisms
+pastoralist
 pastoralness
 pastoralnesses
 pastorate
@@ -51837,6 +51856,7 @@ powter
 powwow
 powwowed
 powwowing
+powwows
 pox
 poxed
 poxier
@@ -52732,6 +52752,7 @@ priggism
 priggisms
 prigs
 prill
+prilling
 prills
 primage
 primages
@@ -53772,6 +53793,7 @@ pullets
 pulleys
 pulling
 pullouts
+pullover
 pullovers
 pullulated
 pullulation
@@ -55376,6 +55398,7 @@ recalibrate
 recalibrates
 recalibrating
 recalibration
+recalibrations
 recallabilities
 recallability
 recallable
@@ -56375,6 +56398,7 @@ reheeled
 rehem
 rehemmed
 rehinge
+rehinged
 rehinges
 rehiring
 rehoboam
@@ -57764,6 +57788,7 @@ retiredly
 retiredness
 retirednesses
 retirees
+retiringnesses
 retitle
 retook
 retool
@@ -64572,6 +64597,7 @@ sprain
 sprained
 sprat
 sprattle
+sprattles
 sprattling
 sprawled
 sprawler
@@ -67101,6 +67127,7 @@ supremacy
 suprematism
 suprematisms
 supremely
+supremes
 supremos
 suqs
 sura
@@ -68198,6 +68225,7 @@ tarts
 tartufe
 tartuffe
 tartuffes
+tarty
 tarweed
 tarzans
 tasked
@@ -68276,11 +68304,13 @@ tawnily
 tawniness
 tawny
 tawsed
+tawsing
 tax
 taxably
 taxed
 taxeme
 taxer
+taxes
 taxi
 taxicabs
 taxidermies
@@ -70745,6 +70775,7 @@ tretinoin
 trets
 trevally
 trevets
+trews
 treys
 triac
 triacid
@@ -72241,6 +72272,7 @@ unconfounded
 unconfusing
 unconquerably
 unconquered
+unconscionable
 unconsciously
 unconsecrated
 unconsolidated
@@ -74107,6 +74139,7 @@ vandalistic
 vandalizations
 vandalized
 vandalizes
+vandalizing
 vandals
 vandas
 vandyke
@@ -75447,6 +75480,7 @@ warrantableness
 warrantees
 warrantied
 warranties
+warranting
 warrantless
 warrantors
 warrants
@@ -77448,6 +77482,7 @@ zoysia
 zoysias
 zucchetti
 zucchini
+zugzwang
 zwitterion
 zydeco
 zygapophysis
