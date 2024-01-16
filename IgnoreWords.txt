@@ -4744,6 +4744,7 @@ bagful
 baggers
 baggie
 baggier
+baggily
 bagginesses
 baggy
 baghouse
@@ -7812,6 +7813,7 @@ brambling
 branch
 branched
 branches
+branchiopod
 branchiopods
 branchlets
 branchlines
@@ -9409,6 +9411,7 @@ cantle
 cantles
 canton
 cantonments
+cantraips
 cantrip
 cantrips
 cantus
@@ -10108,6 +10111,7 @@ catlin
 catlings
 catlins
 catmints
+catnapped
 catnapper
 catnaps
 catoptric
@@ -11304,6 +11308,7 @@ chrisom
 christened
 christening
 christy
+chromas
 chromates
 chromatic
 chromatically
@@ -14820,6 +14825,7 @@ cowfish
 cowflaps
 cowflops
 cowgirls
+cowherb
 cowherd
 cowhide
 cowier
@@ -18318,6 +18324,7 @@ didacticisms
 didactyl
 diddler
 diddles
+diddley
 diddlies
 didgeridoo
 didjeridoo
@@ -18415,6 +18422,7 @@ dighting
 dights
 digital
 digitalization
+digitizes
 digitonin
 digitonins
 digitoxigenin
@@ -23248,6 +23256,7 @@ exclusions
 exclusively
 exclusivism
 exclusivists
+exclusivities
 exclusivity
 excogitated
 excogitates
@@ -24495,6 +24504,7 @@ ferial
 ferine
 ferity
 ferlie
+fermatas
 fermentation
 fermentations
 fermentative
@@ -25019,6 +25029,7 @@ fishhooks
 fishiest
 fishing
 fishings
+fishkills
 fishlike
 fishline
 fishlines
@@ -29105,6 +29116,7 @@ grumbles
 grumbling
 grumblingly
 grumbly
+grume
 grummest
 grummeted
 grummeting
@@ -29823,6 +29835,7 @@ hant
 hantaviruses
 hanting
 hantles
+hants
 hanumans
 hao
 haphazardnesses
@@ -34786,6 +34799,7 @@ ionogenic
 ionogens
 ionone
 ionosonde
+ionospheres
 ionospheric
 ionospherically
 iontophoreses
@@ -34955,6 +34969,7 @@ islander
 islands
 isle
 isled
+islets
 ism
 isms
 isoantibodies
@@ -35081,6 +35096,7 @@ itching
 itemises
 itemising
 itemizations
+itemize
 itemized
 itemizer
 itemizers
@@ -36062,6 +36078,7 @@ khis
 ki
 kiangs
 kibbeh
+kibbitzers
 kibbitzes
 kibbitzing
 kibble
@@ -38325,6 +38342,7 @@ logy
 loid
 loincloths
 loins
+loiter
 loiterers
 loitering
 loiters
@@ -42529,6 +42547,7 @@ mottes
 mottled
 mottles
 mottos
+motts
 mouch
 mouchoirs
 moue
@@ -43489,6 +43508,7 @@ nauseousnesses
 nautches
 nautical
 nautiloid
+navaids
 naval
 navar
 navars
@@ -44294,6 +44314,7 @@ nonathletes
 nonathletic
 nonattenders
 nonauthor
+nonautomated
 nonbacterial
 nonbank
 nonbarbiturate
@@ -45503,6 +45524,7 @@ ochring
 ochroid
 ochry
 ocicat
+ocicats
 ocker
 ocotillo
 ocotillos
@@ -48647,6 +48669,7 @@ pash
 pashalic
 pashalik
 pashas
+pashed
 pashminas
 pasodobles
 pasqueflower
@@ -51647,6 +51670,7 @@ populousnesses
 porbeagle
 porbeagles
 porcelainize
+porcelainized
 porcelains
 porcini
 porcinis
@@ -52157,6 +52181,7 @@ preceded
 precedences
 precedencies
 precedents
+precensor
 precentorial
 precentors
 precentorships
@@ -54028,6 +54053,7 @@ punjis
 punkahs
 punkas
 punkie
+punkier
 punkies
 punkiest
 punkin
@@ -55172,6 +55198,7 @@ ratooning
 ratoons
 ratos
 rats
+ratsbanes
 rattailed
 rattan
 rattans
@@ -64292,6 +64319,7 @@ specifically
 specification
 specificities
 specificity
+specifics
 specified
 specifier
 specifies
@@ -66977,6 +67005,7 @@ superchic
 superchurches
 supercilious
 superciliously
+supercities
 supercity
 superclasses
 superclusters
@@ -68496,6 +68525,7 @@ teacart
 teach
 teachable
 teachably
+teacher
 teachers
 teaches
 teacup
@@ -72284,6 +72314,7 @@ uncalculated
 uncalibrated
 uncalloused
 uncandid
+uncandled
 uncanniest
 uncannily
 uncanniness
@@ -74511,6 +74542,7 @@ velarize
 velarized
 velarizing
 velars
+velate
 velcro
 veld
 velds
@@ -75197,6 +75229,7 @@ vocalities
 vocalize
 vocalizing
 vocals
+vocationalisms
 vocationalist
 vocationalists
 vocatives
@@ -75857,6 +75890,7 @@ waxinesses
 waxings
 waxplants
 waxwing
+waxwork
 waxworkers
 waxworks
 waxworms
@@ -76758,6 +76792,7 @@ woaded
 woadwax
 woadwaxen
 woadwaxens
+woald
 wobbler
 wobbles
 wobblier
