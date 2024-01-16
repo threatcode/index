@@ -5319,6 +5319,7 @@ battiness
 batting
 battings
 battle
+battlegrounds
 battlement
 battlers
 battleship
@@ -5437,6 +5438,7 @@ beaucoups
 beauish
 beaus
 beauteous
+beauteousnesses
 beauticians
 beautifications
 beautifies
@@ -8081,6 +8083,7 @@ brittle
 brittlely
 brittlenesses
 brittler
+brittles
 brittling
 brittly
 britzka
@@ -10505,6 +10508,7 @@ chainwheels
 chaired
 chairing
 chairman
+chairmans
 chairmanship
 chairmanships
 chairperson
@@ -17500,6 +17504,7 @@ deprecating
 deprecation
 deprecatorily
 deprecatory
+depreciable
 depreciate
 depreciates
 depreciation
@@ -17968,6 +17973,7 @@ devilment
 devilments
 devilries
 devilwoods
+deviously
 deviousnesses
 devisal
 devise
@@ -18127,6 +18133,7 @@ dialyzate
 dialyzates
 dialyze
 dialyzed
+dialyzing
 diamagnet
 diamagnetic
 diamagnetism
@@ -19129,6 +19136,7 @@ disposed
 disposer
 disposers
 disposes
+dispositional
 dispossess
 dispossessions
 dispossessor
@@ -21340,6 +21348,7 @@ emblematically
 emblematizing
 emblements
 emblemize
+emblemizes
 emblemizing
 embodiers
 embodiments
@@ -25222,6 +25231,7 @@ flavory
 flavoured
 flavouring
 flavours
+flavoury
 flaw
 flawing
 flawlessnesses
@@ -26755,6 +26765,7 @@ furs
 furtherance
 furtherances
 furthered
+furthering
 furthers
 furthest
 furtively
@@ -27092,6 +27103,7 @@ gape
 gaper
 gapes
 gapeseeds
+gapeworm
 gaping
 gaposises
 gappiest
@@ -27461,6 +27473,7 @@ genteel
 genteeler
 genteelest
 genteelisms
+genteelly
 genteelness
 gentians
 gentil
@@ -27742,6 +27755,7 @@ gimpier
 gimpiest
 gimping
 gingal
+gingalls
 gingals
 gingelli
 gingellies
@@ -28766,6 +28780,7 @@ greenhorns
 greeniest
 greening
 greenings
+greenish
 greenishness
 greenishnesses
 greenkeeper
@@ -29223,6 +29238,7 @@ gumshoe
 gumweed
 guncottons
 gunfighter
+gunfighters
 gunfighting
 gunfire
 gunfires
@@ -36148,6 +36164,7 @@ kinkily
 kinking
 kinks
 kinless
+kinnikinnick
 kinos
 kins
 kiosks
@@ -37246,6 +37263,7 @@ legerities
 legers
 leges
 legged
+leggiest
 leggin
 legginesses
 legging
@@ -39897,6 +39915,7 @@ meanness
 meannesses
 means
 meant
+meantimes
 meany
 measles
 measlier
@@ -43380,6 +43399,7 @@ nattiest
 nattily
 nattinesses
 natty
+naturalises
 naturalism
 naturalisms
 naturalist
@@ -43740,6 +43760,7 @@ neuritises
 neuroactive
 neuroanatomical
 neurobiologist
+neuroblastomas
 neurochemical
 neurochemicals
 neurochemistry
@@ -45528,6 +45549,7 @@ offense
 offenses
 offensively
 offensivenesses
+offer
 offered
 offerer
 offering
@@ -46588,6 +46610,7 @@ outlay
 outleading
 outleads
 outleaped
+outleapt
 outlearn
 outlearning
 outlets
@@ -47770,6 +47793,7 @@ oystering
 oysterman
 oysters
 ozonated
+ozonates
 ozonation
 ozones
 ozonides
@@ -48240,6 +48264,7 @@ paradises
 paradisiac
 paradisiacal
 paradisiacally
+paradisial
 parador
 paradors
 paradoses
@@ -48393,6 +48418,7 @@ parenthesized
 parenthesizes
 parenthetic
 parenting
+parentless
 paresis
 paresthesia
 paresthesias
@@ -49288,6 +49314,7 @@ peregrins
 pereia
 pereion
 pereions
+perennating
 pereon
 pereopod
 pereopods
@@ -49431,6 +49458,7 @@ permanently
 permanentnesses
 permeably
 permeate
+permeated
 permeates
 permeating
 permillage
@@ -50613,6 +50641,7 @@ pittance
 pittas
 pitting
 pittosporum
+pituitary
 pityriases
 pityriasis
 pivot
@@ -65534,6 +65563,7 @@ stonefish
 stonefishes
 stoner
 stoners
+stonewall
 stonewalled
 stonewaller
 stonewalling
@@ -66670,6 +66700,7 @@ sulfuryls
 sulk
 sulker
 sulkies
+sulkiest
 sulkily
 sulkinesses
 sulking
@@ -67936,6 +67967,7 @@ taglines
 tagmemic
 tagrag
 tagrags
+tahini
 tahsildar
 tahsildars
 tahsils
@@ -71570,6 +71602,7 @@ tussive
 tussocks
 tussores
 tussucks
+tussur
 tutee
 tutees
 tutelages
@@ -73317,6 +73350,7 @@ unrounds
 unroven
 unruffled
 unruled
+unrulier
 unrumpled
 unrusted
 unsaddle
@@ -74295,6 +74329,7 @@ vats
 vatted
 vatting
 vaudevillians
+vaultiest
 vaulting
 vaultings
 vaulty
@@ -75071,6 +75106,7 @@ vodouns
 vodous
 vodun
 voe
+vogueing
 voguish
 voguishness
 voiced
