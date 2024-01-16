@@ -1,2 +1,4 @@
 dotnet-album-viewer/AlbumViewerSqlServerData.sql at master,https://github.com/dockersamples/dotnet-album-viewer/blob/master/AlbumViewerSqlServerData.sql
 012_quest_template.sql - GitHub,https://github.com/TrinityCore/TDB_4.3.4_NLU/blob/master/old/updates_01/012_quest_template.sql
+012_2014_07_23_02_world_misc.sql - GitHub,https://github.com/TrinityCore/TrinityCore/blob/master/sql/old/4.3.4/TDB6_to_TDB7_updates/world/012_2014_07_23_02_world_misc.sql
+03_insert_into_vegetation.sql - elfinwood-data-sci - GitHub,https://github.com/elfinwood-data-sci/learning-data-science/blob/main/Lessons/Lesson_006/03_insert_into_vegetation.sql
