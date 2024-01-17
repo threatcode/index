@@ -1904,6 +1904,7 @@ amidases
 amides
 amidic
 amidine
+amido
 amidol
 amidols
 amidones
@@ -5163,6 +5164,7 @@ barleycorn
 barleycorns
 barlow
 barm
+barmaids
 barmie
 barnacle
 barned
@@ -6682,6 +6684,7 @@ bisks
 bismuthic
 bismuths
 bisnagas
+bison
 bisons
 bisques
 bistered
@@ -7568,6 +7571,7 @@ bornites
 bornitic
 borohydride
 borohydrides
+borons
 borosilicates
 borough
 boroughs
@@ -8426,6 +8430,7 @@ buckers
 bucket
 bucketed
 buckets
+bucketsful
 buckeye
 buckeyes
 buckhounds
@@ -15028,6 +15033,7 @@ cozenage
 cozied
 coziness
 cozying
+cozzes
 craaled
 crabapple
 crabber
@@ -16165,6 +16171,7 @@ cysteines
 cysteinic
 cysticercoid
 cysticercoids
+cystine
 cystinuria
 cystitides
 cystocarps
@@ -19143,6 +19150,7 @@ disenchant
 disenchanted
 disenchanters
 disenchantingly
+disenchantment
 disenchants
 disendowed
 disendower
@@ -24294,6 +24302,7 @@ falters
 fame
 familiarise
 familiarising
+familiarity
 familiarize
 familiarized
 familiarizes
@@ -24816,6 +24825,7 @@ ferrocene
 ferrocenes
 ferrocyanide
 ferroelectrics
+ferrotypes
 ferrous
 ferrules
 ferruling
@@ -26512,6 +26522,7 @@ fractionates
 fractionating
 fractionation
 fractionator
+fractionators
 fractioned
 fractions
 fractural
@@ -27222,6 +27233,7 @@ gabled
 gablelike
 gabling
 gaboon
+gabs
 gaby
 gadabout
 gadabouts
@@ -32245,6 +32257,7 @@ hydrochlorides
 hydrocolloid
 hydrocolloids
 hydrocortisone
+hydrocrack
 hydrocracker
 hydrocrackers
 hydrodynamic
@@ -33081,6 +33094,7 @@ impenetrable
 impenitence
 impenitences
 impenitent
+impenitently
 imperative
 imperatively
 imperator
@@ -33697,6 +33711,7 @@ indexing
 indicate
 indicates
 indicating
+indication
 indicative
 indicatively
 indices
@@ -34345,6 +34360,7 @@ insightfully
 insigne
 insignificance
 insignificances
+insignificancy
 insignificantly
 insincerely
 insincerities
@@ -36079,6 +36095,7 @@ jujuism
 jujuists
 jujutsu
 jujutsus
+jukebox
 jukeboxes
 jukes
 juking
@@ -39560,6 +39577,7 @@ mahoganies
 mahouts
 mahzor
 mahzorim
+mahzors
 maiasaura
 maiasauras
 maid
@@ -40135,6 +40153,7 @@ martinis
 martins
 martlets
 marts
+martyr
 martyrdom
 martyries
 martyring
@@ -45478,6 +45497,7 @@ normalizations
 normalizer
 normalizers
 normande
+normativeness
 normed
 normotensive
 normotensives
@@ -47652,6 +47672,7 @@ overboiled
 overboils
 overbook
 overbooked
+overbooking
 overborrowing
 overborrows
 overbought
@@ -49199,6 +49220,7 @@ particles
 particular
 particularising
 particularistic
+particularize
 particularly
 particulates
 partisanly
@@ -50620,6 +50642,7 @@ phosphor
 phosphorescence
 phosphori
 phosphoric
+phosphorites
 phosphorolytic
 phosphorous
 phosphoruses
@@ -52446,6 +52469,7 @@ postlanding
 postliberation
 postlude
 postmark
+postmarked
 postmarking
 postmarks
 postmastectomy
@@ -53701,6 +53725,7 @@ proclamations
 proclitic
 proclitics
 proclivities
+proconsul
 proconsulate
 proconsulships
 procrastinated
@@ -56948,6 +56973,7 @@ refit
 refitted
 refixes
 reflagged
+reflagging
 reflags
 reflate
 reflected
@@ -63566,6 +63592,7 @@ skunkweed
 skyboard
 skyborne
 skyboxes
+skydivers
 skydivings
 skydove
 skyed
@@ -64329,6 +64356,7 @@ soaped
 soaper
 soapiness
 soaping
+soaps
 soapstones
 soapworts
 soar
@@ -70468,6 +70496,7 @@ thymectomizing
 thymectomy
 thymes
 thymi
+thymic
 thymidines
 thymiest
 thymine
@@ -73121,6 +73150,7 @@ unbraiding
 unbreathable
 unbred
 unbreech
+unbreeched
 unbreeches
 unbridged
 unbridled
@@ -74601,6 +74631,7 @@ untwining
 untwist
 untwisted
 ununbium
+ununited
 unununium
 unununiums
 unurged
@@ -76680,6 +76711,7 @@ waterflooding
 waterfloods
 waterfowling
 waterfront
+waterheads
 waterhen
 waterhens
 waterier
@@ -76700,6 +76732,7 @@ waterloos
 watermark
 watermarked
 watermarking
+watermarks
 watermelon
 watermelons
 watermen
@@ -77894,6 +77927,7 @@ workups
 workweeks
 workwomen
 world
+worldbeats
 worldlinesses
 worldling
 worldlings
@@ -78081,6 +78115,7 @@ xenophobes
 xenophobic
 xenophobically
 xenopuses
+xenotropic
 xeriscape
 xeroderma
 xerodermas
