@@ -114,6 +114,7 @@ abstractor
 abstrict
 abstricted
 abstruseness
+abstrusenesses
 absurder
 absurdism
 absurdisms
@@ -1115,6 +1116,7 @@ aggravated
 aggravation
 aggregate
 aggregately
+aggregation
 aggregative
 aggress
 aggresses
@@ -3456,6 +3458,7 @@ armet
 armful
 armigeros
 armigerous
+armilla
 armillary
 armillas
 arming
@@ -3682,6 +3685,7 @@ ashamed
 ashcakes
 ashcans
 ashes
+ashier
 ashiest
 ashiness
 ashlar
@@ -4522,6 +4526,7 @@ azimuths
 azine
 azines
 azlons
+azo
 azole
 azoles
 azon
@@ -9201,6 +9206,7 @@ caltrap
 caltraps
 calumniating
 calumniation
+calumniations
 calumnious
 calvados
 calvarial
@@ -9953,6 +9959,7 @@ carvers
 carwashes
 caryopses
 caryopsides
+caryotins
 casava
 casavas
 casbah
@@ -10764,6 +10771,7 @@ charged
 chargehand
 charger
 charges
+charging
 chargrill
 charier
 charily
@@ -12063,6 +12071,7 @@ clodhoppers
 clodhopping
 clodpate
 clodpoll
+clodpolls
 clods
 clofibrate
 clofibrates
@@ -12309,6 +12318,7 @@ coaxial
 coaxingly
 cob
 cobalamin
+cobaltines
 cobaltites
 cobaltous
 cobb
@@ -12810,6 +12820,7 @@ colonialism
 colonialisms
 colonially
 colonialness
+colonials
 colonics
 colonisation
 colonising
@@ -15164,6 +15175,7 @@ cremations
 cremator
 crematoriums
 cremators
+creminis
 crenate
 crenations
 crenature
@@ -15830,6 +15842,7 @@ cursive
 cursorial
 cursorily
 cursorinesses
+cursory
 curt
 curtailer
 curtailers
@@ -22009,6 +22022,7 @@ enfranchises
 eng
 engagement
 engager
+engagingly
 engarland
 engender
 engilding
@@ -24060,6 +24074,7 @@ fadedly
 fadedness
 fadednesses
 fadein
+fadeout
 fadeouts
 fades
 fadges
@@ -25623,6 +25638,7 @@ florence
 florences
 florets
 floriations
+floricultures
 floriculturist
 florid
 floridities
@@ -26271,6 +26287,7 @@ fortissimo
 fortnights
 fortresses
 fortressing
+fortresslike
 fortuities
 fortuitous
 fortuity
@@ -27960,6 +27977,7 @@ gillnet
 gills
 gilly
 gillyflowers
+gilthead
 gilts
 gimbal
 gimbaling
@@ -32561,6 +32579,7 @@ idles
 idlesses
 idol
 idolator
+idolatries
 idolise
 idolises
 idolisms
@@ -39665,6 +39684,7 @@ manikin
 manikins
 manilas
 manilla
+manillas
 manille
 manilles
 maniocs
@@ -41303,6 +41323,7 @@ millennialist
 millepedes
 millepeds
 millepores
+miller
 millerite
 millerites
 millers
@@ -43751,6 +43772,7 @@ nationalizer
 nationals
 nationhood
 natively
+nativenesses
 natives
 nativisms
 natriuresis
@@ -51563,6 +51585,7 @@ pocosens
 pocosin
 pocoson
 pod
+podded
 podesta
 podgier
 podgiest
@@ -54716,6 +54739,7 @@ pyxidia
 pyxidium
 pyxis
 qabalahs
+qadi
 qadis
 qaids
 qat
@@ -56916,6 +56940,7 @@ rehoboam
 rehospitalize
 rehospitalized
 rehospitalizing
+rehouse
 rehousing
 rehumanize
 rehumanizing
@@ -59458,6 +59483,7 @@ rubboard
 rube
 rubel
 rubellite
+rubeola
 rubeolas
 rubescent
 rubicund
@@ -59934,6 +59960,7 @@ salmagundis
 salmi
 salmon
 salmonellae
+salmonoid
 salmons
 salols
 salometer
@@ -61244,6 +61271,7 @@ secularistic
 secularity
 secularization
 secularizations
+secularized
 secularizers
 secularizes
 secularizing
@@ -62947,6 +62975,7 @@ sinkage
 sinker
 sinlessly
 sinlessness
+sinned
 sinoatrial
 sinologue
 sinology
@@ -63699,6 +63728,7 @@ smokes
 smokestacks
 smokiest
 smokily
+smokinesses
 smoky
 smooched
 smoochers
@@ -65019,6 +65049,7 @@ splendidest
 splendiferous
 splenectomizing
 splenectomy
+splenetic
 splenia
 splenic
 splenii
@@ -67891,6 +67922,7 @@ swabbed
 swabber
 swabbers
 swabbie
+swabby
 swaddle
 swaddles
 swage
@@ -68049,6 +68081,7 @@ swindled
 swindler
 swindlers
 swine
+swineherd
 swinepox
 swinepoxes
 swingby
@@ -68862,6 +68895,7 @@ tasters
 tastiness
 tasting
 tatamis
+tater
 taters
 tates
 tatouay
@@ -72150,6 +72184,7 @@ turrets
 turrical
 turtle
 turtleback
+turtledoves
 turtlehead
 turtleneck
 turtlenecks
