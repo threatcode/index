@@ -2546,6 +2546,7 @@ anthological
 anthologize
 anthologized
 anthologizers
+anthologizing
 anthophyllite
 anthozoan
 anthozoans
@@ -4850,6 +4851,7 @@ bait
 baitfish
 baiting
 baits
+baize
 bakeapple
 bakeapples
 baked
@@ -5745,6 +5747,7 @@ begalls
 begat
 begazed
 begazing
+beget
 begets
 beggardom
 beggaring
@@ -7073,6 +7076,7 @@ blooper
 bloopers
 bloops
 blot
+blotch
 blotched
 blotchier
 blotchiest
@@ -7925,6 +7929,7 @@ braize
 brake
 brakeage
 braked
+brakeless
 brakemen
 brakiest
 braky
@@ -9054,6 +9059,7 @@ cacomixls
 caconym
 caconyms
 caconymy
+cacophonies
 cactus
 cactuses
 cacuminal
@@ -23851,6 +23857,7 @@ expenditures
 expensed
 expensive
 expensively
+expensiveness
 expensivenesses
 experience
 experienced
@@ -26816,6 +26823,7 @@ friary
 fribblers
 fribbling
 fricandeaus
+fricandoes
 fricasseeing
 fricassees
 friction
@@ -26878,6 +26886,7 @@ frivol
 frivolities
 frivolling
 frivolously
+frivolousnesses
 frivols
 frizer
 frizes
@@ -28834,6 +28843,7 @@ goods
 goodwill
 goodwilled
 goodwills
+goodwives
 goody
 goof
 goofball
@@ -29890,6 +29900,7 @@ gyromagnetic
 gyron
 gyrons
 gyropilot
+gyroplanes
 gyros
 gyroscope
 gyroscopically
@@ -31308,6 +31319,7 @@ hifalutin
 higgle
 high
 highballed
+highballs
 highbinder
 highbinders
 highboys
@@ -35314,6 +35326,7 @@ iodizing
 iodometries
 iodophors
 iodopsin
+iolite
 ionicities
 ionicity
 ionised
@@ -36729,6 +36742,7 @@ kiltings
 kiltlike
 kilts
 kilty
+kimberlites
 kimchee
 kimchi
 kindergarten
@@ -41056,6 +41070,7 @@ mescals
 mescluns
 mesdames
 mesdemoiselles
+meseemed
 mesenchyme
 mesenteric
 mesentery
@@ -41129,6 +41144,7 @@ messuages
 messy
 mesteso
 mestesoes
+mestesos
 mestino
 mestinoes
 mestizas
@@ -42487,6 +42503,7 @@ mixologists
 mixology
 mixtures
 mizen
+mizens
 mizzenmast
 mizzens
 mizzle
@@ -42856,6 +42873,7 @@ monopod
 monopodia
 monopodial
 monopodially
+monopodies
 monopody
 monopoles
 monopolised
@@ -45973,6 +45991,7 @@ oarswomen
 oases
 oasis
 oast
+oasthouse
 oasts
 oat
 oatcake
@@ -47772,6 +47791,7 @@ overamplified
 overanalyses
 overanalyze
 overanalyzes
+overanalyzing
 overanxieties
 overanxiety
 overapplication
@@ -50228,6 +50248,7 @@ perimeters
 perimetries
 perimysia
 perimysium
+perineal
 perineuria
 periodically
 periodicals
@@ -53757,6 +53778,7 @@ princelinesses
 princeling
 princely
 princeships
+princess
 principals
 principe
 principium
@@ -54466,6 +54488,7 @@ provisionary
 provisioned
 provisioner
 provisioners
+proviso
 provisoes
 provisory
 provisos
@@ -54660,6 +54683,7 @@ pteridologies
 pteridology
 pteridophyte
 pteridophytes
+pterin
 pterins
 pterodactyls
 pterygial
@@ -55107,6 +55131,7 @@ pyoderma
 pyodermic
 pyogenic
 pyorrheas
+pyorrhoea
 pyoses
 pyramid
 pyramidal
@@ -56296,6 +56321,7 @@ reattributing
 reattribution
 reauthorization
 reauthorize
+reavailing
 reavers
 reaves
 reavows
@@ -56690,6 +56716,7 @@ recoupable
 recoupe
 recouped
 recouple
+recoupling
 recoupment
 recoupments
 recourses
@@ -58416,6 +58443,7 @@ resetters
 resettle
 resettled
 resettlement
+resettling
 resew
 resewed
 resewn
@@ -64237,6 +64265,7 @@ smidgeon
 smidges
 smilaxes
 smileys
+smirches
 smirching
 smirked
 smirker
@@ -66144,6 +66173,7 @@ starflower
 stargazed
 stargazer
 stargazings
+staring
 staringly
 stark
 starker
@@ -69020,6 +69050,7 @@ tabletops
 tabletted
 tabling
 tabloid
+tabloids
 taboo
 tabooed
 tabooing
@@ -71076,6 +71107,7 @@ toeholds
 toeing
 toenails
 toepieces
+toeshoes
 toffees
 toffy
 tofu
@@ -74339,6 +74371,7 @@ unlovely
 unluckiness
 unluckinesses
 unmagnified
+unmakers
 unmakes
 unmaking
 unmanageable
@@ -76494,6 +76527,7 @@ votarists
 voted
 voter
 voters
+voting
 votive
 votively
 votiveness
@@ -77824,6 +77858,7 @@ winter
 wintered
 winterer
 winterfed
+winterfeed
 wintergreens
 winteriest
 wintering
