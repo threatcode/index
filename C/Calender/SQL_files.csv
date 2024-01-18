@@ -7,3 +7,12 @@ plugins/calendar/drivers/caldav/SQL/mysql.initial.sql · feature_caldav,https://
 www.columbia.edu/~ds2057/2305_DB/ds2057_section_me...,http://www.columbia.edu/~ds2057/2305_DB/ds2057_section_meeting.sql
 sqlhks/postgres/hack87.sql · master · examples / SQL Hacks · GitLab,https://resources.oreilly.com/examples/9780596527990/blob/master/sqlhks/postgres/hack87.sql
 05_reference/gtfs.sql - pmm-backend - GitLab,https://gitlab.ut.ee/public-pmm/pmm-backend/-/blob/9b7994d1397b9fac82a6cee17bae8e7b9d0ec9aa/05_reference/gtfs.sql
+calendar/calendar.sql at master · remobjects/calendar - GitHub,https://github.com/remobjects/calendar/blob/master/calendar.sql
+calendar/CalendarFunctions.sql at boss · sqlsunday/calendar - GitHub,https://github.com/sqlsunday/calendar/blob/boss/CalendarFunctions.sql
+https://raw.githubusercontent.com/oracle/apex/21.1...,https://raw.githubusercontent.com/oracle/apex/21.1/sample-apps/sample-calendar/sample-calendar.sql
+https://docs.oracle.com/cd/E82085_01/160030/Enterp...,https://docs.oracle.com/cd/E82085_01/160030/EnterpriseIntegration/BDI/bdi-interface-data-contracts/ddl/Calendar_Fnd_Calendar_In.sql
+http://www.columbia.edu/~ds2057/2305_DB/ds2057_sec...,http://www.columbia.edu/~ds2057/2305_DB/ds2057_section_meeting.sql
+Sakai: .../impl/src/sql/hsqldb/SAK-11204.sql | Fossies,https://fossies.org/linux/sakai/calendar/calendar-impl/impl/src/sql/hsqldb/SAK-11204.sql
+Untitled,http://source.softcomsolutions.co.za/Released/6450000/6.sql
+plugins/calendar/drivers/caldav/SQL/mysql.initial.sql · feature_caldav,https://gitlab.awesome-it.de/kolab/roundcube-plugins/-/blob/feature_caldav/plugins/calendar/drivers/caldav/SQL/mysql.initial.sql
+/sessionUtils.sql - Annotate - Browser Metadata - WashUGb Issue ...,https://epgg-test.wustl.edu/redmine/projects/metadata/repository/revisions/84c811310e354c67c772e8fba69a608080a031da/annotate/sessionUtils.sql
