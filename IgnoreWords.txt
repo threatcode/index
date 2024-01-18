@@ -1332,6 +1332,7 @@ airsicknesses
 airspace
 airspaces
 airspeeds
+airstrip
 airt
 airted
 airth
@@ -4187,6 +4188,7 @@ audads
 audibility
 audibling
 audients
+audile
 audings
 audiobooks
 audiocassette
@@ -4703,6 +4705,7 @@ backcountry
 backcourt
 backcourtman
 backcourts
+backcrossed
 backdate
 backdates
 backdoor
@@ -5231,6 +5234,7 @@ barky
 barleycorn
 barleycorns
 barlow
+barlows
 barm
 barmaids
 barmie
@@ -7287,6 +7291,7 @@ boardinghouses
 boardlike
 boardrooms
 boards
+boardsailing
 boardsailings
 boardsailors
 boarfishes
@@ -9816,6 +9821,7 @@ caramelise
 caramelises
 caramelising
 carangid
+carangoid
 carapace
 carapaces
 carapax
@@ -11740,6 +11746,7 @@ ciborium
 cicadae
 cicalas
 cicale
+cicatrice
 cicatrices
 cicatrix
 cicatrizations
@@ -13406,6 +13413,7 @@ complexifies
 complexify
 complexities
 complexnesses
+compliance
 compliancy
 compliant
 complicated
@@ -16430,6 +16438,7 @@ dacrons
 dactyl
 dactyli
 dactylology
+dactyls
 dactylus
 dadaisms
 dadaistic
@@ -16959,6 +16968,7 @@ decentered
 decentering
 decentest
 decentralize
+decentralizes
 decentralizing
 decentre
 decentred
@@ -20235,6 +20245,7 @@ dooryard
 doowops
 doozer
 doozie
+doozies
 doozy
 dopamine
 dope
@@ -21220,6 +21231,7 @@ earworms
 eased
 easement
 easements
+eases
 easier
 easies
 easiest
@@ -22605,6 +22617,7 @@ enteritis
 enteritises
 enterobacterial
 enterobacterium
+enterobiases
 enterocoel
 enterocoele
 enterocoeles
@@ -27732,6 +27745,7 @@ gamesomenesses
 gamester
 gamesters
 gametangia
+gametes
 gametic
 gametocytes
 gametogeneses
@@ -30443,6 +30457,7 @@ handguns
 handicapped
 handicappers
 handicapping
+handicraft
 handicrafter
 handicrafters
 handicraftsmen
@@ -33347,6 +33362,7 @@ immobilizations
 immobilized
 immobilizes
 immoderateness
+immoderation
 immoderations
 immodesties
 immodesty
@@ -39023,6 +39039,7 @@ liverishness
 liverleaf
 liverleaves
 livers
+liverwort
 liveryman
 liverymen
 livestock
@@ -41766,6 +41783,7 @@ microgrooves
 microhm
 microimage
 microimages
+microinject
 microinjects
 microliter
 microliters
@@ -42690,6 +42708,7 @@ missilemen
 missileries
 missiles
 missilry
+missiologies
 missioning
 missionizations
 missionize
@@ -46303,6 +46322,7 @@ nutritiousness
 nutritive
 nuts
 nutsedge
+nutshell
 nutshells
 nutsiest
 nutters
@@ -46324,6 +46344,7 @@ nympho
 nympholepsy
 nympholeptic
 nympholepts
+nymphomaniac
 nymphomaniacs
 nymphomanias
 nymphs
@@ -46775,6 +46796,7 @@ ohmage
 ohmages
 ohmically
 ohmmeters
+ohms
 ohs
 oi
 oil
@@ -48393,6 +48415,7 @@ overexpansion
 overexpansions
 overexpectation
 overexplained
+overexplains
 overexploits
 overexpose
 overexposed
@@ -49866,6 +49889,7 @@ passive
 passivism
 passivities
 passless
+passover
 passport
 passus
 password
@@ -50977,6 +51001,7 @@ pettishness
 pettishnesses
 pettle
 pettles
+petty
 petulance
 petulances
 petulant
@@ -51992,6 +52017,7 @@ plainly
 plainness
 plainsman
 plainsongs
+plaintext
 plaintexts
 plaintful
 plaintiffs
@@ -54497,6 +54523,7 @@ prolix
 prolixities
 prolixity
 prologist
+prologue
 prologuize
 prologuized
 prolongation
@@ -59878,6 +59905,7 @@ rigorism
 rigorisms
 rigorist
 rigorous
+rigorously
 rigorousnesses
 rigour
 rijstafels
@@ -65865,6 +65893,7 @@ speculum
 speechified
 speechifies
 speechify
+speechlessness
 speechwriter
 speechwriters
 speed
@@ -67637,6 +67666,7 @@ stunsails
 stunt
 stunted
 stuntedness
+stuntednesses
 stupa
 stupe
 stupefactions
@@ -73044,6 +73074,7 @@ trowel
 troweled
 troweler
 trowelled
+troweller
 trowels
 trows
 trowsers
@@ -73292,6 +73323,7 @@ tuppence
 tuppences
 tupping
 tuque
+turacos
 turbanned
 turbans
 turbellarians
@@ -75289,6 +75321,7 @@ unsnag
 unsnap
 unsnaps
 unsnarls
+unsober
 unsociabilities
 unsociably
 unsocial
@@ -78275,6 +78308,7 @@ wiftier
 wifty
 wigans
 wiggeries
+wiggier
 wiggiest
 wiggings
 wiggle
@@ -78822,6 +78856,7 @@ worriedly
 worrier
 worriers
 worriment
+worriments
 worrisome
 worrisomeness
 worrit
