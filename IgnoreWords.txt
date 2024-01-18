@@ -1597,6 +1597,7 @@ allemande
 allemandes
 allergenic
 allergenicities
+allergin
 allergist
 allergy
 allethrin
@@ -1609,6 +1610,7 @@ alleviations
 alleviator
 alleviators
 alley
+alleys
 alleyway
 allheal
 allheals
@@ -3353,6 +3355,7 @@ archenemies
 archeology
 archerfish
 archerfishes
+archeries
 archery
 archesporia
 archesporium
@@ -4058,6 +4061,7 @@ atrocity
 atrophied
 atropin
 atropine
+atropins
 atropisms
 attach
 attacher
@@ -4750,6 +4754,7 @@ backspin
 backstab
 backstabbed
 backstabbings
+backstair
 backstamp
 backstamped
 backstamps
@@ -8678,6 +8683,7 @@ bumph
 bumphs
 bumpier
 bumping
+bumpkin
 bumpkinly
 bumptiousness
 bumptiousnesses
@@ -10104,6 +10110,7 @@ caseload
 caseloads
 casement
 casette
+casettes
 caseworks
 caseworm
 cashable
@@ -13260,6 +13267,7 @@ compactnesses
 compactors
 compadres
 companied
+companionable
 companionably
 companionate
 companionships
@@ -14563,6 +14571,7 @@ corporator
 corporeality
 corporeally
 corporealness
+corposant
 corpulency
 corpulent
 corpulently
@@ -16294,6 +16303,7 @@ cytochalasin
 cytochemical
 cytochemistry
 cytochrome
+cytochromes
 cytogenetically
 cytogeneticist
 cytogeneticists
@@ -16435,6 +16445,7 @@ daltonism
 daltonisms
 damage
 damagers
+damaging
 daman
 damans
 damars
@@ -19492,6 +19503,7 @@ dispersal
 dispersants
 disperser
 disperses
+dispersing
 dispersion
 dispersive
 dispersiveness
@@ -22710,6 +22722,7 @@ epidemics
 epidemiologic
 epidemiologies
 epidemiologists
+epidermal
 epidermic
 epidermis
 epidiascopes
@@ -23985,6 +23998,7 @@ exposable
 exposals
 expose
 exposers
+exposes
 exposit
 exposited
 exposition
@@ -26360,6 +26374,7 @@ foredecks
 foredoes
 foredoomed
 forefaces
+forefeeling
 forefeet
 forefending
 forefinger
@@ -30792,6 +30807,7 @@ heath
 heathbirds
 heathendom
 heathendoms
+heathenishly
 heathenize
 heathenized
 heathenizes
@@ -34814,6 +34830,7 @@ interceptor
 intercession
 intercessions
 intercessory
+interchain
 interchanger
 interchanges
 interchannel
@@ -34889,6 +34906,7 @@ interfluves
 interfold
 interfolded
 interfused
+interfuses
 interglacial
 intergradation
 intergradations
@@ -36797,6 +36815,7 @@ kiefs
 kielbasa
 kielbasas
 kielbasy
+kiers
 kieselguhrs
 kieserites
 kiester
@@ -37197,6 +37216,7 @@ kvelling
 kvells
 kvetcher
 kvetches
+kvetchier
 kvetchiest
 kvetchy
 kwacha
@@ -38291,6 +38311,7 @@ libecchios
 libeccio
 libel
 libelant
+libelees
 libeler
 libeling
 libelist
@@ -38652,6 +38673,7 @@ lipides
 lipidic
 lipids
 lipins
+lipless
 lipocyte
 lipoid
 lipolitic
@@ -39477,6 +39499,7 @@ lushest
 lushly
 lust
 lusted
+lustering
 lusters
 lusterwares
 lustful
@@ -42500,6 +42523,7 @@ misstamping
 misstamps
 misstarted
 misstarts
+missteer
 missteering
 misstep
 misstepped
@@ -45338,6 +45362,7 @@ nonenzymatic
 nonequilibriums
 nonequivalence
 nonequivalences
+nones
 nonestablished
 nonesuch
 nonet
@@ -47510,6 +47535,7 @@ outgrowing
 outgrowths
 outguiding
 outgunned
+outgushed
 outgushes
 outhandle
 outhandled
@@ -48303,6 +48329,7 @@ overlording
 overlordship
 overlush
 overlying
+overman
 overmanaged
 overmanages
 overmanaging
@@ -52210,6 +52237,7 @@ pogromed
 pogroming
 pogroms
 pogy
+poignance
 poignancies
 poignancy
 poignantly
@@ -55320,6 +55348,7 @@ pyrolized
 pyrolysate
 pyrolysates
 pyrolysis
+pyrolytic
 pyrolyzable
 pyrolyzates
 pyrolyzer
@@ -58721,6 +58750,7 @@ resolutes
 resolvable
 resonance
 resonances
+resonate
 resonates
 resonating
 resorbing
@@ -58855,6 +58885,7 @@ restructuring
 restrung
 restudying
 restuffed
+restuffs
 restyled
 restyles
 restyling
@@ -61859,6 +61890,7 @@ seams
 seamster
 seamsters
 seamstress
+seamy
 seance
 seapieces
 seaplanes
@@ -65636,6 +65668,7 @@ spherulites
 spherulitic
 sphincter
 sphincteric
+sphincters
 sphinges
 sphinx
 sphygmic
@@ -75069,6 +75102,7 @@ untowardness
 untraceable
 untracked
 untracking
+untracks
 untraditional
 untrammeled
 untransformed
@@ -76636,6 +76670,7 @@ voiceprint
 voices
 voicings
 void
+voidable
 voidablenesses
 voidances
 voided
