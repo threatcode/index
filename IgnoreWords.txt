@@ -691,6 +691,7 @@ admittee
 admitter
 admix
 admixt
+admixture
 admonished
 admonisher
 admonishers
@@ -1558,6 +1559,7 @@ alkylating
 alkylations
 alkyls
 alkynes
+allanites
 allantoid
 allantoides
 allayed
@@ -4466,6 +4468,7 @@ aviatrice
 aviatrixes
 avicular
 avidities
+avidity
 avifaunas
 avigator
 avirulent
@@ -5269,6 +5272,7 @@ barrener
 barrenest
 barrenness
 barrennesses
+barretor
 barrets
 barricading
 barricado
@@ -10436,6 +10440,7 @@ ceasefires
 ceaselessly
 ceaselessnesses
 ceboid
+ceboids
 ceca
 cecal
 cecally
@@ -11003,6 +11008,7 @@ chattier
 chatty
 chauffers
 chauffeur
+chauffeurs
 chaulmoogras
 chaunters
 chaunting
@@ -21454,6 +21460,7 @@ egocentricities
 egocentricity
 egocentrism
 egoism
+egoisms
 egoist
 egoistic
 egoistical
@@ -23734,8 +23741,10 @@ excreting
 excretions
 excruciate
 excruciation
+excruciations
 exculpating
 exculpation
+exculpatory
 excursion
 excursionists
 excursions
@@ -24329,6 +24338,7 @@ facetted
 faceup
 facia
 facially
+facials
 faciends
 facies
 facilely
@@ -29029,6 +29039,7 @@ gormand
 gormandize
 gormandizer
 gormandizing
+gormed
 gormless
 gory
 gosh
@@ -30250,6 +30261,7 @@ hallucinations
 hallucinator
 hallucinators
 hallucinogen
+hallucinogenics
 hallucinoses
 hallucinosis
 halm
@@ -31016,6 +31028,7 @@ hellbender
 hellbox
 hellboxes
 hellbroths
+hellcat
 helldiver
 helled
 hellenization
@@ -31822,6 +31835,7 @@ homesicknesses
 homesite
 homesites
 homespuns
+homestays
 homesteader
 homesteaders
 homesteading
@@ -32222,6 +32236,7 @@ housepainter
 housepainters
 houseparent
 houseparents
+houses
 housesat
 housesit
 housetops
@@ -32459,6 +32474,7 @@ hutch
 hutches
 hutching
 hutlike
+hutted
 hutting
 hutzpahs
 huzzah
@@ -37431,6 +37447,7 @@ laggings
 lagnappes
 lagoon
 lags
+lagune
 lagunes
 lahar
 laic
@@ -41510,6 +41527,7 @@ metros
 mettle
 mettlesome
 metump
+meuniere
 mewl
 mewled
 mewler
@@ -42967,6 +42985,7 @@ monism
 monistic
 monists
 monitor
+monitorial
 monitories
 monitoring
 monkeypod
@@ -48506,6 +48525,7 @@ overreaches
 overreaching
 overreact
 overreacting
+overreactions
 overrefinements
 overregulated
 overregulates
@@ -49529,6 +49549,7 @@ parlayed
 parlaying
 parled
 parley
+parleys
 parliamentarian
 parling
 parlors
@@ -52267,6 +52288,7 @@ pocosin
 pocoson
 pod
 podded
+podding
 podesta
 podgier
 podgiest
@@ -60749,6 +60771,7 @@ salivated
 salivation
 salivations
 sallied
+sallier
 salliers
 sallies
 sallow
@@ -63065,6 +63088,7 @@ sheriffs
 sherifs
 sherpas
 sherrises
+sherry
 sheuch
 sheugh
 shewed
@@ -63568,6 +63592,7 @@ sieve
 sieverts
 sifaka
 sift
+sifters
 sifts
 siganid
 siganids
@@ -64197,6 +64222,7 @@ slattern
 slatternly
 slatting
 slaty
+slaughter
 slaughtered
 slaughterer
 slaughtering
@@ -66429,6 +66455,7 @@ standpat
 standpatter
 standpatters
 standpattisms
+standpoint
 stands
 standstill
 standstills
@@ -68190,6 +68217,7 @@ sultaness
 sultanesses
 sultanic
 sultrier
+sultrinesses
 sulu
 sum
 sumac
@@ -68235,6 +68263,7 @@ summonsing
 sumo
 sump
 sumps
+sumpter
 sumpters
 sumptuary
 sumpweeds
@@ -69616,6 +69645,7 @@ tampering
 tamperproof
 tampers
 tampions
+tamponing
 tams
 tanager
 tanagers
@@ -72985,6 +73015,7 @@ tuggers
 tughrik
 tugless
 tugrik
+tugriks
 tui
 tuille
 tuitional
@@ -76501,6 +76532,7 @@ vinca
 vincas
 vincible
 vincula
+vinculum
 vindaloo
 vindaloos
 vindicative
@@ -78134,6 +78166,7 @@ windjammers
 windjamming
 windlass
 windlassed
+windlasses
 windlassing
 windles
 windlestraw
@@ -78584,6 +78617,7 @@ worrisomeness
 worrit
 worrits
 worser
+worses
 worset
 worsets
 worship
@@ -78763,6 +78797,7 @@ xeruses
 xiphisterna
 xiphisternum
 xiphoids
+xu
 xylan
 xylems
 xylenes
