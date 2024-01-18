@@ -3101,6 +3101,7 @@ apparel
 appareled
 apparitor
 apparitors
+appealabilities
 appealed
 appealer
 appealing
@@ -4163,6 +4164,7 @@ attributional
 attrit
 attrite
 attrited
+attrition
 attritional
 attritions
 attritive
@@ -5164,6 +5166,7 @@ barbells
 barbeque
 barbeques
 barbequing
+barbers
 barbershop
 barbettes
 barbicel
@@ -9080,6 +9083,7 @@ cabbages
 cabbageworms
 cabbaging
 cabbalahs
+cabbalist
 cabbed
 cabbie
 cabby
@@ -14715,6 +14719,7 @@ corruptor
 corse
 corselets
 corselette
+corselettes
 corset
 corseted
 corseting
@@ -15436,6 +15441,7 @@ crenations
 crenature
 crenelating
 crenelled
+crenshaw
 crenshaws
 crenulated
 crenulation
@@ -18429,6 +18435,7 @@ devisal
 devise
 devisees
 devises
+devising
 devisor
 devitrify
 devitrifying
@@ -19612,6 +19619,7 @@ displaying
 displease
 displeases
 displeasure
+displeasures
 disploding
 displosions
 displumed
@@ -26602,6 +26610,7 @@ foreswears
 foretaste
 foretastes
 foretellers
+foretelling
 forethought
 foretokened
 foretokens
@@ -29883,6 +29892,7 @@ guck
 gude
 gudes
 gudgeon
+guenons
 guerdoned
 gueridons
 guerilla
@@ -30727,6 +30737,7 @@ hatchery
 hatchet
 hatching
 hatchings
+hatchling
 hatchways
 hateable
 hates
@@ -32278,6 +32289,7 @@ hostilities
 hosting
 hostler
 hostlers
+hotblood
 hotbox
 hotch
 hotchpotches
@@ -32415,6 +32427,7 @@ huffinesses
 huffing
 huffs
 hugeness
+hugeous
 huggable
 hugged
 huggers
@@ -34936,6 +34949,7 @@ intangibleness
 intangibles
 intangibly
 intarsia
+intarsias
 integer
 integrabilities
 integrally
@@ -36049,6 +36063,7 @@ jaggedest
 jagger
 jaggeries
 jaggery
+jaggheries
 jagghery
 jaggier
 jagging
@@ -39626,6 +39641,7 @@ lumpingly
 lumpish
 lumpishly
 lumpishnesses
+lums
 luna
 lunacy
 lunarian
@@ -41158,6 +41174,7 @@ meliorists
 melismas
 melismata
 melismatic
+mellifluent
 mellifluently
 mellifluous
 melling
@@ -46034,6 +46051,7 @@ normativeness
 normed
 normotensive
 normotensives
+normothermia
 north
 northbound
 northeasterly
@@ -49239,6 +49257,7 @@ paleontologists
 paleontology
 paleopathology
 paleosol
+paleozoology
 paler
 palestra
 palestrae
@@ -49497,6 +49516,7 @@ par
 para
 parabiosis
 parabiotically
+parables
 parabolically
 paraboloid
 parachors
@@ -53202,6 +53222,7 @@ pouff
 pouffs
 poult
 poulters
+poultice
 poulticed
 poultry
 poultryman
@@ -59036,6 +59057,7 @@ resolutes
 resolvable
 resonance
 resonances
+resonants
 resonate
 resonates
 resonating
@@ -59840,6 +59862,7 @@ ridgier
 ridgiest
 ridging
 ridglings
+ridicule
 ridiculer
 ridicules
 ridiculing
@@ -63705,6 +63728,7 @@ sibilator
 sibilators
 siblings
 sibs
+sibyls
 sic
 siccan
 siccative
@@ -64025,6 +64049,7 @@ singly
 sings
 singsongs
 singspiel
+singspiels
 singular
 singularities
 singularized
@@ -64620,6 +64645,7 @@ sloping
 slopingly
 sloppier
 sloppiest
+sloppily
 slopping
 slops
 slopworks
@@ -65117,6 +65143,7 @@ soaring
 soaringly
 soarings
 soave
+sob
 soba
 sobbed
 sobeit
@@ -67629,6 +67656,7 @@ studded
 studdies
 studdings
 student
+studhorses
 studied
 studiedness
 studies
@@ -69296,6 +69324,7 @@ swooners
 swooniest
 swooning
 swoons
+swooped
 swooper
 swoopers
 swoopier
@@ -69373,6 +69402,7 @@ sylvinite
 sylvinites
 sylvites
 symbionts
+symbiosis
 symbiotically
 symbiots
 symbolic
@@ -71610,6 +71640,7 @@ titi
 titillation
 titillations
 titillative
+titivates
 titivating
 titivation
 titlark
@@ -74792,6 +74823,7 @@ unideal
 unidentifiable
 unideological
 unifaces
+unifiable
 unific
 unifies
 uniformitarians
@@ -77955,6 +77987,7 @@ wether
 wethers
 wetsuits
 wettabilities
+wetted
 wetter
 wetting
 wha
@@ -77973,6 +78006,7 @@ whalemen
 whales
 whaling
 whalings
+whammies
 whammo
 whamo
 whang
@@ -78549,6 +78583,7 @@ wispier
 wispily
 wispinesses
 wispish
+wispy
 wissed
 wissing
 wistaria
