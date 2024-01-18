@@ -1947,6 +1947,7 @@ ammines
 ammocete
 ammonals
 ammonia
+ammoniacs
 ammoniating
 ammoniation
 ammonic
@@ -4971,6 +4972,7 @@ balloter
 ballots
 ballpark
 ballplayer
+ballplayers
 ballpoint
 ballrooms
 balls
@@ -9555,6 +9557,7 @@ canoness
 canonesses
 canonical
 canonicals
+canonicities
 canonicity
 canonised
 canonises
@@ -10855,6 +10858,7 @@ channeler
 channelers
 channelizations
 channelizing
+chanoyu
 chanoyus
 chant
 chantage
@@ -15760,6 +15764,7 @@ cryptanalysis
 cryptanalyst
 cryptanalytical
 cryptarithm
+cryptic
 cryptical
 cryptically
 cryptococcal
@@ -20080,6 +20085,7 @@ domically
 domicil
 domiciled
 domiciliates
+domiciling
 domicils
 dominances
 dominate
@@ -21386,6 +21392,7 @@ effeminates
 efferently
 effervesce
 effervesced
+effervescences
 effervescently
 effervescing
 effete
@@ -22927,6 +22934,7 @@ equity
 equivalent
 equivocal
 equivocate
+equivocated
 equivocates
 equivocating
 equivocation
@@ -27620,6 +27628,7 @@ gameness
 gamenesses
 gamer
 gamers
+gamesmanships
 gamesmen
 gamesomenesses
 gamester
@@ -30445,6 +30454,7 @@ happing
 haptene
 haptenic
 haptic
+haptoglobin
 haptoglobins
 harangue
 harangued
@@ -30816,6 +30826,7 @@ heartsick
 heartsicknesses
 heartsomely
 heartsore
+heartstring
 heartthrob
 heartwarming
 heartwood
@@ -32314,6 +32325,7 @@ humates
 humble
 humbled
 humblenesses
+humbler
 humbles
 humblest
 humblingly
@@ -32621,6 +32633,7 @@ hypallage
 hypallages
 hypanthium
 hyped
+hyper
 hyperacidities
 hyperacidity
 hyperactive
@@ -33616,6 +33629,7 @@ inauthenticity
 inbeing
 inbeings
 inboard
+inboards
 inborn
 inbound
 inbounded
@@ -33644,6 +33658,7 @@ incanted
 incants
 incapability
 incapable
+incapacitations
 incarcerated
 incarcerates
 incarcerating
@@ -34174,6 +34189,7 @@ inexpiable
 inexpiably
 inexplicability
 inexplicable
+inexplicit
 inexpressive
 inexpungible
 inextricability
@@ -34327,6 +34343,7 @@ infundibular
 infuriated
 infuriates
 infuriating
+infused
 infuser
 infusibility
 infusible
@@ -34773,6 +34790,7 @@ insurrectionist
 insusceptible
 inswathe
 intactnesses
+intaglio
 intaglioed
 intaglioing
 intaglios
@@ -35634,6 +35652,7 @@ irruptions
 irrupts
 is
 isagoge
+isagoges
 isagogics
 isallobars
 isatin
@@ -35739,6 +35758,7 @@ isospories
 isostasy
 isostatically
 isosteric
+isotach
 isotachs
 isotheres
 isothermal
@@ -40358,6 +40378,7 @@ marinaras
 marinas
 marinate
 marinated
+marinating
 marination
 marinations
 mariner
@@ -45203,6 +45224,7 @@ nonathletic
 nonattenders
 nonauthor
 nonautomated
+nonautomotive
 nonbacterial
 nonbank
 nonbarbiturate
@@ -45932,6 +45954,7 @@ notifications
 notifier
 notifiers
 notify
+notifying
 notion
 notional
 notionalities
@@ -47017,6 +47040,7 @@ orchestrational
 orchestrations
 orchestrator
 orchid
+orchidlike
 orcin
 ordain
 ordained
@@ -49810,6 +49834,7 @@ patronises
 patronising
 patronization
 patronized
+patronizingly
 patroon
 pats
 pattamar
@@ -53094,6 +53119,7 @@ praseodymium
 prat
 prated
 prater
+praters
 pratincole
 pratincoles
 pratique
@@ -56349,6 +56375,7 @@ rays
 razed
 razee
 razeeing
+razees
 razes
 razor
 razorbacks
@@ -57723,6 +57750,7 @@ reincarnations
 reincites
 reincorporate
 reincorporates
+reincorporation
 reincurred
 reindex
 reindexes
@@ -63079,6 +63107,7 @@ shill
 shillalah
 shillalahs
 shillelagh
+shillelaghs
 shillelah
 shills
 shimmer
@@ -68245,6 +68274,7 @@ sunglass
 sunglasses
 sunglow
 sunglows
+sunk
 sunket
 sunlamp
 sunlands
@@ -69456,6 +69486,7 @@ taillamp
 tailles
 tailless
 tailleur
+taillights
 tailor
 tailorbird
 tailorbirds
@@ -69575,6 +69606,7 @@ tamer
 tamers
 tames
 tamest
+tammies
 tamoxifens
 tampalas
 tamped
@@ -72294,6 +72326,7 @@ treed
 treehopper
 treehoppers
 treehouse
+treehouses
 treeing
 treelawns
 treenails
@@ -75131,6 +75164,7 @@ untamable
 untame
 untangle
 untangling
+untapped
 untarnished
 untaught
 untaxed
@@ -79192,6 +79226,7 @@ zoogeographical
 zoogeographies
 zooglea
 zoogleae
+zoogloeae
 zoogloeal
 zooid
 zooidal
