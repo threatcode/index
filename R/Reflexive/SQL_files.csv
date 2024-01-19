@@ -6,3 +6,13 @@ caldav_functions.sql in contrib/davical/dba - Projeto Expresso Livre,http://trac
 academics-mysql.sql - BrainMass,https://brainmass.com/file/175952/academics-mysql.sql
 chamilo18demo.sql - Chamilo Tracking System,https://support.chamilo.org/attachments/download/3490/chamilo18demo.sql
 Anderes (Datengrundlage (SQL-Datei) zum Datenbankimport),https://data.ub.uni-muenchen.de/110/1/20190308_hsozkult.sql
+create.sql - PostgreSQL,https://www.postgresql.org/message-id/attachment/77050/create.sql
+hr_quick_start.sql - connormcd/misc-scripts · GitHub,https://github.com/connormcd/misc-scripts/blob/master/hr_quick_start.sql
+https://docs.oracle.com/cd/E60665_01/tutorials_ja/...,https://docs.oracle.com/cd/E60665_01/tutorials_ja/Migrating_Applications_and_Data_to_Exadata_Express/files/lab1_script.sql
+code/rdbms/oracle/load_schema.sql at master - GitHub,https://github.com/dgadiraju/code/blob/master/rdbms/oracle/load_schema.sql
+Build_Tables.sql - Oracle,https://www.oracle.com/technetwork/developer-tools/apex/application-express/build-tables-2578406.sql
+db-sample-schemas/human_resources/hr_create.sql at main - GitHub,https://github.com/oracle-samples/db-sample-schemas/blob/main/human_resources/hr_create.sql
+Tags_Data.sql - geekgirljoy/Part-Of-Speech-Tagger - GitHub,https://github.com/geekgirljoy/Part-Of-Speech-Tagger/blob/master/data/mysql/Tags_Data.sql
+oracle_db/Oracle_Advanced_SQL_course.sql at master - GitHub,https://github.com/briangriner/oracle_db/blob/master/Oracle_Advanced_SQL_course.sql
+test_plsql/sql/HR_30.sql at master - GitHub,https://github.com/ismaild/test_plsql/blob/master/sql/HR_30.sql
+oracle_pl_sql_programming/hr_schema_install.sql at master - GitHub,https://github.com/dlee0113/oracle_pl_sql_programming/blob/master/hr_schema_install.sql
