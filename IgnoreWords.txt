@@ -5921,6 +5921,7 @@ beknighting
 beknots
 belabor
 belabored
+belaboring
 belabors
 belaboured
 belabours
@@ -7363,6 +7364,7 @@ boatmen
 boatnecks
 boats
 boatsmen
+boatyards
 bob
 bobber
 bobbers
@@ -9624,6 +9626,7 @@ caninity
 canistel
 canistels
 canisters
+canker
 cankered
 cankerous
 cankers
@@ -10051,6 +10054,7 @@ carets
 carex
 carfuls
 cargoes
+cargos
 carhopped
 caribe
 caribou
@@ -10075,6 +10079,7 @@ carlin
 carline
 carling
 carlins
+carmakers
 carman
 carmen
 carminative
@@ -11035,6 +11040,7 @@ charcoaling
 charcoaly
 charcuterie
 charcuteries
+chard
 chards
 chare
 chares
@@ -13980,6 +13986,7 @@ conjoining
 conjoint
 conjointly
 conjugalities
+conjugally
 conjugants
 conjugate
 conjugated
@@ -16196,6 +16203,7 @@ curia
 curio
 curiosity
 curiouser
+curiously
 curium
 curler
 curlicue
@@ -17416,6 +17424,7 @@ defibrillator
 defibrillators
 defibrinate
 defibrinating
+defibrination
 defibrinations
 deficiencies
 deficient
@@ -18784,6 +18793,7 @@ diaspore
 diaspores
 diastases
 diastatic
+diastem
 diastemas
 diastems
 diaster
@@ -21304,6 +21314,7 @@ dyspeptically
 dyspeptics
 dysphagia
 dysphagias
+dysphasic
 dysphasics
 dysphemism
 dysphemisms
@@ -28447,6 +28458,7 @@ geologers
 geological
 geologies
 geologist
+geologists
 geologized
 geologizes
 geologizing
@@ -29902,6 +29914,7 @@ grocer
 groceries
 grocery
 groggeries
+groggily
 grogginesses
 groin
 groining
@@ -32144,6 +32157,7 @@ holt
 holyday
 holystoned
 holystoning
+holytide
 holytides
 homage
 homager
@@ -32201,6 +32215,7 @@ homeward
 homewards
 homework
 homeworks
+homicidal
 homiletical
 homilist
 homilists
@@ -33588,6 +33603,7 @@ immeasurably
 immediacies
 immediacy
 immediate
+immediateness
 immedicable
 immemorially
 immensest
@@ -36791,6 +36807,7 @@ judokas
 jug
 juga
 juggernaut
+juggernauts
 juggled
 jugglers
 juggles
@@ -37165,6 +37182,7 @@ kerosine
 kerplunk
 kerria
 kerrias
+kerries
 kerry
 kersey
 kerseymere
@@ -40454,6 +40472,7 @@ maledict
 maledicting
 maledictions
 malefaction
+malefic
 maleficence
 malemiut
 malemiuts
@@ -45336,6 +45355,7 @@ newscaster
 newscasts
 newsgirls
 newsgroup
+newshawk
 newshawks
 newshound
 newshounds
@@ -48514,6 +48534,7 @@ outwitting
 outwore
 outworked
 outworkers
+outworks
 outwrestled
 outwrestling
 outwrit
@@ -49930,6 +49951,7 @@ parakite
 paralanguage
 paralanguages
 paralegal
+paralinguistic
 paralinguistics
 parallactic
 parallax
@@ -50792,6 +50814,7 @@ penes
 penetrable
 penetrances
 penetrant
+penetrants
 penetrate
 penetrates
 penetration
@@ -50807,6 +50830,7 @@ penises
 penitences
 penitentiaries
 penlites
+penman
 penmanship
 penna
 pennae
@@ -53589,6 +53613,7 @@ pothunter
 pothunting
 potiche
 potiches
+potlache
 potlaches
 potlatch
 potlatched
@@ -57044,6 +57069,7 @@ razzes
 razzing
 razzmatazzes
 re
+reabsorb
 reabsorbed
 reabsorbing
 reaccede
@@ -59907,6 +59933,7 @@ retrospections
 retrospective
 retrospectively
 retroversion
+retroversions
 retry
 retsina
 retting
@@ -64611,6 +64638,7 @@ sirupier
 siruping
 sirvente
 sirventes
+sises
 siskin
 sisses
 sissies
@@ -67297,6 +67325,7 @@ statolith
 stator
 stators
 statoscope
+stats
 statuaries
 statue
 statuesque
@@ -69401,6 +69430,7 @@ suppliance
 suppliant
 suppliants
 supplicant
+supplicated
 supplication
 supplications
 supplicatory
@@ -71315,6 +71345,7 @@ tetradynamous
 tetrafluoride
 tetrafluorides
 tetragon
+tetragonally
 tetragrammaton
 tetragrams
 tetrahedron
@@ -73466,6 +73497,7 @@ triptyca
 triptycas
 triptych
 triptychs
+tripwire
 tripwires
 trireme
 triremes
@@ -74487,6 +74519,7 @@ unattractively
 unattributed
 unaus
 unauthentic
+unavailability
 unavailing
 unaverage
 unaverted
@@ -76637,6 +76670,7 @@ valanced
 valances
 valediction
 valedictorian
+valedictorians
 valedictories
 valentine
 valerate
@@ -78920,6 +78954,7 @@ wienies
 wifeliest
 wifeliness
 wifely
+wifes
 wifey
 wifeys
 wiftier
