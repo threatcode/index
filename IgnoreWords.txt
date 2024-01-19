@@ -208,6 +208,7 @@ accessioned
 accessions
 accessories
 accessorise
+accessorised
 accessorising
 accessorizes
 accessorizing
@@ -667,6 +668,7 @@ admeasure
 admeasured
 admeasuring
 admen
+administer
 administered
 administers
 administrant
@@ -1515,6 +1517,7 @@ alien
 alienabilities
 alienability
 alienable
+alienage
 alienages
 alienate
 alienates
@@ -11317,6 +11320,7 @@ chemistries
 chemists
 chemoautotrophy
 chemokines
+chemoreceptive
 chemoreceptor
 chemoreceptors
 chemos
@@ -13830,6 +13834,7 @@ concussion
 concussions
 condemn
 condemnations
+condemned
 condensable
 condensate
 condensational
@@ -14195,6 +14200,7 @@ consolers
 consolidates
 consolidations
 consoling
+consolingly
 consomme
 consonance
 consonances
@@ -19774,6 +19780,7 @@ disjoin
 disjoined
 disjointedness
 disjoints
+disjunctively
 disked
 diskette
 disklike
@@ -22737,6 +22744,7 @@ engrossment
 engs
 engulf
 engulfment
+enhaloed
 enhaloes
 enhanced
 enhancement
@@ -25926,6 +25934,7 @@ firewaters
 fireweeds
 firework
 fireworm
+fireworms
 firings
 firkin
 firkins
@@ -27674,6 +27683,7 @@ fullery
 fullest
 fullmouthed
 fullnesses
+fulls
 fully
 fulmar
 fulmars
@@ -28841,6 +28851,7 @@ gimcrackery
 gimlet
 gimleting
 gimmals
+gimme
 gimmes
 gimmick
 gimmicked
@@ -32009,6 +32020,7 @@ highlighted
 highlighting
 highly
 highness
+highnesses
 highrise
 highspot
 hightail
@@ -34917,6 +34929,7 @@ infomercials
 inform
 informality
 informant
+informatics
 informationally
 informatively
 informativeness
@@ -35031,6 +35044,7 @@ inhomogeneous
 inhospitable
 inhospitality
 inhuman
+inhumane
 inhumanities
 inhumanity
 inhumanly
@@ -35374,6 +35388,7 @@ insulant
 insulants
 insularism
 insularisms
+insularities
 insularity
 insularly
 insulars
@@ -35496,6 +35511,7 @@ interchannel
 interchurch
 intercity
 interclass
+interclub
 intercollegiate
 intercolonial
 intercommunion
@@ -38560,6 +38576,7 @@ lawyerlike
 laxations
 laxative
 laxatives
+laxer
 laxes
 laxity
 laxly
@@ -41462,6 +41479,7 @@ mazedness
 mazeltov
 mazily
 maziness
+mazinesses
 mazing
 mazourka
 mazuma
@@ -42126,6 +42144,7 @@ metastasis
 metastasize
 metastasizes
 metastatic
+metastatically
 metatag
 metatags
 metatarsal
@@ -43453,6 +43472,7 @@ moaning
 moat
 moated
 moatlike
+mob
 mobbed
 mobbers
 mobbish
@@ -47781,6 +47801,7 @@ optimizing
 opting
 optionality
 optionally
+optioned
 optoelectronics
 optokinetic
 optometers
@@ -48122,6 +48143,7 @@ ostiary
 ostinati
 ostinato
 ostiole
+ostioles
 ostium
 ostler
 ostosis
@@ -48891,6 +48913,7 @@ overbrief
 overbright
 overbroad
 overbrowse
+overbrowsed
 overbrowsing
 overbuild
 overbuilding
@@ -49325,6 +49348,7 @@ overprizes
 overprocess
 overproduces
 overprogramed
+overprograming
 overprograms
 overpromoted
 overpromoting
@@ -51237,6 +51261,7 @@ peptonizing
 per
 peracids
 perambulating
+perambulation
 perambulations
 perborates
 perceived
@@ -52192,6 +52217,7 @@ picked
 pickeer
 pickeering
 picker
+pickerelweeds
 pickers
 picket
 picketboats
@@ -55350,6 +55376,7 @@ propels
 propend
 propended
 propends
+propenes
 propenol
 propenols
 propense
@@ -57530,6 +57557,7 @@ reassigned
 reassigning
 reassort
 reassume
+reassuming
 reassurance
 reassure
 reassuring
@@ -59545,6 +59573,7 @@ repunctuations
 repurchase
 repurchases
 repurified
+repurifies
 repurifying
 repurposed
 repursue
@@ -61317,6 +61346,7 @@ rubricators
 rubrician
 rubricians
 rubrics
+ruchings
 rucking
 ruckle
 ruckled
@@ -62036,6 +62066,7 @@ sappinesses
 sapremia
 saprobes
 saprobial
+saprobic
 saprogenicities
 saprogenicity
 saprolite
@@ -64290,6 +64321,7 @@ shnaps
 shnooks
 shnorrer
 shoaled
+shoaler
 shoalier
 shoaliest
 shoaling
@@ -71400,6 +71432,7 @@ tenably
 tenaces
 tenacious
 tenaciousnesses
+tenacities
 tenaculums
 tenail
 tenancies
@@ -77212,6 +77245,7 @@ vasculum
 vasculums
 vase
 vasectomized
+vasectomizes
 vasectomy
 vaselike
 vaselines
@@ -77644,6 +77678,7 @@ vibrated
 vibrates
 vibratile
 vibrations
+vibrato
 vibrators
 vibrios
 vibrioses
