@@ -989,6 +989,7 @@ affirms
 affix
 affixable
 affixal
+affixation
 affixial
 affixing
 affixtures
@@ -1605,6 +1606,7 @@ allegrettos
 allegros
 allelic
 allelism
+allelisms
 allelomorph
 allelomorphisms
 allelopathic
@@ -7759,6 +7761,7 @@ bossing
 bossisms
 bossy
 bosun
+bosuns
 bot
 botanic
 botanica
@@ -8044,6 +8047,7 @@ brainteasers
 brainwash
 brainwashed
 brainwashes
+brainwashings
 brainy
 braising
 braize
@@ -9922,6 +9926,7 @@ carbonara
 carbonate
 carbonating
 carbonation
+carboniferous
 carbonium
 carbonizations
 carbonize
@@ -11714,6 +11719,7 @@ chronological
 chronologically
 chronologies
 chronologists
+chronometries
 chronotherapies
 chrysalids
 chrysarobin
@@ -16349,6 +16355,7 @@ cyanohydrin
 cyanohydrins
 cyanoses
 cyanosis
+cyanotype
 cyans
 cyanurates
 cyber
@@ -16608,6 +16615,7 @@ daisy
 dakerhen
 dakerhens
 dakoit
+dakoities
 dakoits
 dakoity
 dalapons
@@ -20105,6 +20113,7 @@ dobie
 dobla
 doblas
 doblon
+doblones
 dobra
 dobson
 dobsonflies
@@ -23127,6 +23136,7 @@ equalizes
 equals
 equate
 equated
+equating
 equations
 equator
 equatorial
@@ -23915,6 +23925,7 @@ excessed
 excesses
 excessivenesses
 exchangeability
+exchangeable
 exchanged
 excide
 excided
@@ -30045,6 +30056,7 @@ guanos
 guanosine
 guanosines
 guarana
+guarani
 guaranis
 guarantee
 guarantees
@@ -33138,6 +33150,7 @@ hypodiploid
 hypodiploidies
 hypoed
 hypogean
+hypogeum
 hypoglossal
 hypoglossals
 hypoglycemic
@@ -33913,6 +33926,7 @@ impulsive
 impulsively
 impulsiveness
 impulsivity
+impure
 impurenesses
 impurest
 imputabilities
@@ -35366,6 +35380,7 @@ interlining
 interlinings
 interlink
 interlinked
+interloan
 interloans
 interlobular
 interlocal
@@ -36872,6 +36887,7 @@ kabiki
 kabikis
 kabobs
 kabuki
+kabukis
 kachinas
 kaddish
 kaddishes
@@ -37115,6 +37131,7 @@ kerogen
 kerogens
 kerosine
 kerplunk
+kerria
 kerrias
 kerry
 kersey
@@ -42746,6 +42763,7 @@ misemploy
 misemployment
 misemploys
 misenrols
+misenter
 misentered
 misentering
 misentries
@@ -46822,6 +46840,7 @@ obsolescently
 obsolescing
 obsoleted
 obsoletely
+obsoleteness
 obsoletenesses
 obsoleting
 obstacle
@@ -48132,6 +48151,7 @@ outlaugh
 outlaughs
 outlawed
 outlawing
+outlawry
 outlay
 outleading
 outleads
@@ -49358,6 +49378,7 @@ oysterers
 oystering
 oysterman
 oysters
+ozokerite
 ozonated
 ozonates
 ozonation
@@ -51762,6 +51783,7 @@ physiognomies
 physiognomy
 physiographer
 physiographers
+physiographies
 physiography
 physiologic
 physiologically
@@ -53174,6 +53196,7 @@ ponged
 pongee
 pongid
 pongs
+poniard
 pontes
 pontifex
 pontiffs
@@ -53895,6 +53918,7 @@ predicating
 predication
 predications
 predicative
+predicatory
 predictable
 predicted
 predicting
@@ -55512,6 +55536,7 @@ ptoses
 ptui
 ptyalins
 ptyalism
+ptyalisms
 puberty
 puberulent
 pubes
@@ -56022,6 +56047,7 @@ pyroxene
 pyroxenitic
 pyroxenoid
 pyroxylin
+pyrrhic
 pyrrhics
 pyrrhotites
 pyrrole
@@ -56081,6 +56107,7 @@ quadrillionth
 quadripartite
 quadriphonic
 quadrivalent
+quadrivalents
 quadrivia
 quadrivial
 quadrivium
@@ -65491,6 +65518,7 @@ snowland
 snowmaker
 snowman
 snowmelt
+snowmelts
 snowmen
 snowmobile
 snowmobiler
@@ -65563,6 +65591,7 @@ sobriquet
 sobs
 socagers
 socas
+soccages
 soccer
 sociableness
 sociablenesses
@@ -70727,6 +70756,7 @@ teemer
 teemingly
 teemingness
 teenagers
+teeners
 teenful
 teenier
 teeniest
@@ -71053,6 +71083,7 @@ teratogeneses
 teratogenesis
 teratogenicity
 teratoid
+terbia
 terbium
 terbiums
 terce
@@ -72966,6 +72997,7 @@ traplike
 trapnested
 trapper
 trapping
+trappings
 trappose
 traprock
 trapshooter
@@ -73522,6 +73554,7 @@ trotter
 trotyl
 trotyls
 troubadour
+troubadours
 trouble
 troublemakers
 troublemaking
@@ -74294,6 +74327,7 @@ umm
 umping
 umpirages
 umpire
+umpires
 umpteen
 unabashed
 unabashedly
@@ -76823,6 +76857,7 @@ velleities
 vellicates
 vellum
 vellums
+velocipedes
 velociraptor
 velociraptors
 velodromes
