@@ -2302,6 +2302,7 @@ anemometry
 anemone
 anemones
 anemophilous
+anencephalies
 anergic
 anesthesiology
 anesthetists
@@ -3218,6 +3219,7 @@ appositional
 appositive
 appositively
 appraise
+appraised
 appraisements
 appraisers
 appreciable
@@ -5175,6 +5177,7 @@ banshie
 banshies
 bantamweight
 bantamweights
+bantered
 banterers
 banties
 bantling
@@ -6033,6 +6036,7 @@ bemadams
 bemaddened
 bemaddening
 bemaddens
+bemean
 bemeaned
 bemeaning
 bemedaled
@@ -7611,6 +7615,7 @@ bongs
 bonhomous
 boniato
 boniest
+boniface
 bonifaces
 boniness
 bonita
@@ -8179,10 +8184,12 @@ brawn
 brawnier
 brawniest
 brawnily
+brawniness
 brawninesses
 brawns
 brayed
 brayer
+brayers
 braying
 brays
 braza
@@ -10299,6 +10306,7 @@ cashbooks
 cashes
 cashew
 cashier
+cashiering
 cashing
 cashless
 casimeres
@@ -11663,6 +11671,7 @@ choppiness
 choppinesses
 chopsockies
 chopsocky
+choragi
 choragic
 choral
 chorales
@@ -14385,6 +14394,7 @@ contras
 contrasted
 contrasting
 contrastive
+contrasty
 contravener
 contraveners
 contravenes
@@ -14673,6 +14683,7 @@ coracoids
 coral
 coralbells
 coralberries
+coralberry
 coralloid
 corantos
 corban
@@ -15523,6 +15534,7 @@ crate
 cratering
 craterings
 craterlet
+craterlike
 cratonic
 craunch
 craunched
@@ -19856,6 +19868,7 @@ displease
 displeases
 displeasure
 displeasures
+disploded
 disploding
 displosions
 displumed
@@ -22454,6 +22467,7 @@ enchasers
 enchiladas
 encinas
 encipherments
+enciphers
 encircle
 enclasp
 enclasped
@@ -25672,6 +25686,7 @@ fig
 figeater
 fightable
 fighter
+fighting
 figments
 figulines
 figural
@@ -28698,6 +28713,7 @@ getups
 geum
 geums
 geyser
+geyserite
 geyserites
 geysers
 gharry
@@ -30873,6 +30889,7 @@ handworkers
 handwringer
 handwringers
 handwrit
+handwrite
 handwritten
 handwrote
 handy
@@ -31243,6 +31260,7 @@ headmost
 headphones
 headpieces
 headquarter
+headquartering
 headquarters
 headraces
 headsail
@@ -33286,6 +33304,7 @@ hypertrophic
 hypertrophied
 hypertrophy
 hyperurbanism
+hyperurbanisms
 hyperuricemia
 hypervelocities
 hyperventilate
@@ -40352,6 +40371,7 @@ macedoine
 macerate
 macerated
 macerater
+macerating
 maceration
 macerators
 macers
@@ -42200,6 +42220,7 @@ mezuzas
 mezuzoth
 mezzaluna
 mezzalunas
+mezzanine
 mezzo
 miaou
 miaouing
@@ -44656,6 +44677,7 @@ musks
 muss
 mussed
 musses
+mussier
 mussily
 mussing
 mussy
@@ -46608,6 +46630,7 @@ northeasters
 northeasts
 norther
 northerlies
+northerly
 northern
 northerns
 northers
@@ -51513,6 +51536,7 @@ persuasive
 persuasiveness
 pertain
 pertains
+perter
 pertinaciously
 pertinacity
 pertly
@@ -54888,6 +54912,7 @@ primrose
 prims
 primulas
 primus
+primuses
 prince
 princedoms
 princekin
@@ -56126,6 +56151,7 @@ purplest
 purplish
 purply
 purportedly
+purposeful
 purposefully
 purposefulness
 purposeless
@@ -56572,6 +56598,7 @@ querulously
 querulousness
 query
 quesadillas
+quested
 quester
 questioner
 questioning
@@ -57162,6 +57189,7 @@ rasure
 rasures
 ratafees
 ratal
+ratany
 rataplanned
 rataplanning
 ratatats
@@ -62247,6 +62275,7 @@ scalded
 scaldic
 scalds
 scale
+scaleless
 scalelike
 scaler
 scalers
@@ -65937,6 +65966,7 @@ sobriquet
 sobs
 socagers
 socas
+soccage
 soccages
 soccer
 sociableness
@@ -66885,6 +66915,7 @@ spinnerettes
 spinners
 spinoffs
 spinor
+spinors
 spinosity
 spinster
 spinsterhoods
@@ -71574,6 +71605,7 @@ tesselating
 tessellation
 tesseracts
 tessiture
+test
 testa
 testability
 testaceous
@@ -75422,6 +75454,7 @@ undouble
 undoubled
 undoubles
 undoubling
+undoubtedly
 undoubting
 undrained
 undramatic
@@ -77084,6 +77117,7 @@ vaporizing
 vaporless
 vaporously
 vaporousness
+vapors
 vapourers
 vapoury
 vaquero
@@ -78773,6 +78807,7 @@ wedging
 wedgy
 wedlock
 wedlocks
+weed
 weeded
 weeder
 weediest
