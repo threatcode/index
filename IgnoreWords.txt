@@ -3898,6 +3898,7 @@ assigner
 assigners
 assigning
 assignment
+assignments
 assigns
 assimilable
 assimilated
@@ -4935,6 +4936,7 @@ bairnish
 bairnliest
 bait
 baitfish
+baitfishes
 baiting
 baits
 baize
@@ -5998,6 +6000,7 @@ belonging
 belongingness
 belongingnesses
 belongs
+belons
 beloved
 beloveds
 below
@@ -6579,6 +6582,7 @@ bimodal
 bimodality
 bimolecularly
 bimorph
+bin
 binaries
 binarism
 binarisms
@@ -7966,6 +7970,7 @@ boxberries
 boxberry
 boxers
 boxfish
+boxfishes
 boxful
 boxfuls
 boxhaul
@@ -10756,6 +10761,7 @@ cephalometric
 cephalometries
 cephalometry
 cephaloridine
+cephalosporin
 cephalothoraces
 cephalothoraxes
 cephalous
@@ -12122,6 +12128,7 @@ clang
 clanger
 clangers
 clangor
+clangoring
 clangorous
 clangorously
 clangors
@@ -14491,6 +14498,7 @@ cooldowns
 cooled
 cooler
 coolest
+coolheaded
 cooling
 cools
 coolth
@@ -16910,6 +16918,7 @@ daystar
 daystars
 daywork
 dayworks
+dazedly
 dazedness
 dazednesses
 dazes
@@ -18928,6 +18937,7 @@ diddler
 diddles
 diddley
 diddlies
+diddly
 didgeridoo
 didjeridoo
 didjeridu
@@ -21333,6 +21343,7 @@ dynorphin
 dyscrasias
 dysenteric
 dysfunctional
+dysgeneses
 dyslexias
 dyslogistically
 dysmenorrhea
@@ -22375,6 +22386,7 @@ encephalogram
 encephalograms
 encephalograph
 encephalography
+encephalopathic
 enchaining
 enchainments
 enchant
@@ -23742,6 +23754,7 @@ eurhythmy
 euro
 euroky
 europium
+europiums
 eurybathic
 eurybaths
 euryhaline
@@ -24533,6 +24546,7 @@ extremum
 extricate
 extricates
 extricating
+extrication
 extrications
 extrinsic
 extrorse
@@ -24677,6 +24691,7 @@ factional
 factionalism
 factionalisms
 factionally
+factious
 factiously
 factitiously
 factitiousness
@@ -24893,6 +24908,7 @@ fanny
 fanon
 fanos
 fantail
+fantasia
 fantasies
 fantasise
 fantasised
@@ -29355,6 +29371,7 @@ goodwilled
 goodwills
 goodwives
 goody
+gooeyness
 goof
 goofball
 goofiest
@@ -36126,6 +36143,7 @@ irrigable
 irrigably
 irrigates
 irrigator
+irriguous
 irritability
 irritableness
 irritably
@@ -39663,6 +39681,7 @@ lollingly
 lollipop
 lollipops
 lollop
+lolloped
 lollopy
 lolls
 lollygagged
@@ -42009,6 +42028,7 @@ methadone
 methadons
 methanes
 methedrine
+methemoglobin
 methemoglobins
 methenamine
 methicillin
@@ -42176,6 +42196,7 @@ microfilmer
 microfilms
 microfloras
 microforms
+microfossil
 microfungi
 microgametes
 microgametocyte
@@ -43158,6 +43179,7 @@ misstep
 misstepped
 misstepping
 missteps
+misstop
 misstopped
 misstopping
 misstricken
@@ -43367,6 +43389,7 @@ modulars
 modulated
 modulates
 modulating
+modulation
 modulations
 modulator
 modulatory
@@ -47951,6 +47974,7 @@ ostracised
 ostracism
 ostracisms
 ostracoderm
+ostracodes
 ostracon
 ostraka
 ostrich
@@ -49752,6 +49776,7 @@ palliations
 palliator
 pallid
 pallidness
+pallidnesses
 palliums
 pallor
 palls
@@ -61800,6 +61825,7 @@ saponifications
 saponifies
 saponifying
 saponine
+saponins
 saponites
 sapor
 saporous
@@ -62498,6 +62524,7 @@ scouths
 scoutmaster
 scowder
 scowed
+scowl
 scowler
 scowlers
 scowlingly
@@ -65025,6 +65052,7 @@ slang
 slangily
 slanginess
 slanginesses
+slangs
 slanguages
 slank
 slanting
@@ -65821,6 +65849,7 @@ sodium
 sodiums
 sodomist
 sodomists
+sodomite
 sodomites
 sodomitic
 sodomitical
@@ -66001,6 +66030,7 @@ sombrero
 sombreros
 somebody
 somehow
+someone
 someones
 someplace
 somersault
@@ -70479,6 +70509,7 @@ tallit
 tallith
 tallithim
 tallitim
+tallitoth
 tallow
 tallowing
 tallowy
@@ -71424,6 +71455,7 @@ tetched
 tetchiest
 tetchy
 tether
+tetherballs
 tethers
 teths
 tetracaine
@@ -71745,6 +71777,7 @@ thinkable
 thinker
 thinkings
 thinner
+thinners
 thinnesses
 thins
 thio
@@ -71788,6 +71821,7 @@ thistliest
 thistly
 thither
 thitherto
+thitherwards
 thixotropies
 tho
 tholed
@@ -77798,6 +77832,7 @@ volar
 volatile
 volatileness
 volatiles
+volatilises
 volatilizable
 volatilization
 volatilized
