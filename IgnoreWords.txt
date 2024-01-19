@@ -364,6 +364,7 @@ acidheads
 acidic
 acidification
 acidified
+acidimeter
 acidimetric
 acidimetries
 acidimetry
@@ -2942,6 +2943,7 @@ anyplace
 anythings
 anyway
 aorist
+aoristic
 aoristically
 aortal
 aortas
@@ -4460,6 +4462,7 @@ autotomized
 autotomizes
 autotomy
 autotoxins
+autotransfusion
 autotrophic
 autotrophs
 autotypies
@@ -4976,6 +4979,7 @@ balatas
 balconied
 balconies
 baldachins
+baldaquins
 balded
 balderdashes
 baldfaced
@@ -7209,6 +7213,7 @@ bloomy
 blooper
 bloopers
 bloops
+blossom
 blot
 blotch
 blotched
@@ -8812,6 +8817,7 @@ bumfs
 bumfuzzling
 bumkins
 bummalo
+bummer
 bummers
 bummest
 bumper
@@ -10244,6 +10250,7 @@ cartwheeler
 cartwheeling
 cartwheels
 caruncle
+caruncles
 carvacrols
 carvels
 carven
@@ -17568,6 +17575,7 @@ deformities
 deforms
 defraggers
 defraud
+defrauder
 defrauds
 defrayals
 defrayed
@@ -19419,6 +19427,7 @@ disbelieves
 disbelieving
 disbenefit
 disbenefits
+disbosom
 disbosomed
 disbosoming
 disbosoms
@@ -20034,6 +20043,7 @@ distrainor
 distraint
 distress
 distressed
+distresses
 distressfulness
 distressing
 distributaries
@@ -20235,6 +20245,7 @@ doctrinal
 doctrine
 doctrines
 document
+documentable
 documentalists
 documentarian
 documentarians
@@ -28470,6 +28481,7 @@ genial
 geniality
 genially
 genic
+genically
 geniculate
 geniculated
 genie
@@ -29027,6 +29039,7 @@ glistering
 glitch
 glitchier
 glitter
+glitteringly
 glitters
 glittery
 glitz
@@ -33102,6 +33115,7 @@ hydroxylating
 hydroxyls
 hydroxyproline
 hydroxyurea
+hydroxyureas
 hydroxyzines
 hydrozoans
 hyena
@@ -38283,6 +38297,7 @@ larruper
 larrupers
 larruping
 larrups
+lars
 larums
 larva
 larval
@@ -39720,6 +39735,7 @@ logorrheic
 logotype
 logotypes
 logotypy
+logrolled
 logrollers
 logrolls
 logway
@@ -39819,6 +39835,7 @@ loopily
 loos
 loosed
 loosely
+loosen
 loosener
 looseners
 looses
@@ -43494,6 +43511,7 @@ molar
 molarity
 molasses
 moldable
+moldboards
 molded
 molder
 moldered
@@ -44623,6 +44641,7 @@ mussing
 mussy
 mustang
 mustangs
+musted
 mustee
 mustelids
 muster
@@ -46644,6 +46663,7 @@ noticer
 noticers
 noticing
 notifiable
+notification
 notifications
 notifier
 notifiers
@@ -48010,6 +48030,7 @@ ostensory
 osteoarthritic
 osteoarthritis
 osteoclasts
+osteocyte
 osteologies
 osteologist
 osteology
@@ -48659,6 +48680,7 @@ outturns
 outvalues
 outvaunt
 outvaunted
+outvaunting
 outvied
 outvoice
 outvoicing
@@ -48793,6 +48815,7 @@ overbrake
 overbraked
 overbraking
 overbred
+overbreeding
 overbrief
 overbright
 overbroad
@@ -50965,6 +50988,7 @@ pencillers
 pencilling
 pencillings
 pencils
+pendants
 pended
 pendencies
 pendency
@@ -51985,6 +52009,7 @@ phthalin
 phthalocyanine
 phthises
 phthisic
+phut
 phycocyanin
 phycocyanins
 phycomycete
@@ -60132,6 +60157,7 @@ returns
 retuse
 retwist
 retypes
+reunifications
 reunified
 reunifies
 reunifying
@@ -63199,6 +63225,7 @@ selfdoms
 selfed
 selfhoods
 selfing
+selfishly
 selfishness
 selfless
 selflessnesses
@@ -64955,6 +64982,7 @@ sketchily
 sketchiness
 sketchpad
 sketchpads
+skewbacks
 skewbald
 skewer
 skewing
@@ -65348,6 +65376,7 @@ slobber
 slobbered
 slobberer
 slobbering
+slobbier
 sloe
 slog
 slogan
@@ -66741,6 +66770,7 @@ spherier
 sphering
 spheroid
 spheroidally
+spheroids
 spherometer
 spheroplast
 spherular
@@ -73178,6 +73208,7 @@ transferrers
 transferrin
 transferring
 transfers
+transfiguration
 transfix
 transfixed
 transfixion
@@ -73897,6 +73928,7 @@ trouncer
 trouper
 troupes
 troupials
+trouping
 trousseaux
 troutier
 trouvere
@@ -74075,6 +74107,7 @@ tugriks
 tui
 tuille
 tuitional
+tuitions
 tuladi
 tuladis
 tularemia
@@ -75730,6 +75763,7 @@ universally
 universalness
 universals
 universities
+univocal
 univocally
 univocals
 unjoined
@@ -76381,6 +76415,7 @@ unvocal
 unvoice
 unvoiced
 unvoices
+unvoicing
 unwarily
 unwarinesses
 unwarmed
