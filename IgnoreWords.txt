@@ -1008,6 +1008,7 @@ affixtures
 afflatus
 afflatuses
 afflict
+afflicted
 afflicting
 afflicts
 affluences
@@ -4938,6 +4939,7 @@ badmen
 badmouth
 badmouthing
 bads
+baff
 baffed
 baffies
 baffle
@@ -4969,6 +4971,7 @@ bagworms
 bahadur
 bahadurs
 bahts
+bahuvrihis
 baidarka
 baidarkas
 bail
@@ -6786,6 +6789,7 @@ bios
 biosafeties
 bioscientists
 bioscopes
+bioscopy
 biosocially
 biosolids
 biosphere
@@ -8872,6 +8876,7 @@ bullnoses
 bullocky
 bullpen
 bullpout
+bullring
 bulls
 bullshitted
 bullterriers
@@ -9474,6 +9479,7 @@ calf
 calfs
 calfskin
 calfskins
+calibers
 calibrate
 calibrated
 calibrates
@@ -9867,6 +9873,7 @@ canvasses
 canyons
 canzona
 canzonas
+canzone
 canzonets
 caoutchoucs
 capability
@@ -11681,6 +11688,7 @@ chlorination
 chlorinator
 chlorinity
 chlorins
+chlorobenzene
 chloroform
 chlorophyll
 chloroplast
@@ -18693,6 +18701,7 @@ deterrently
 deterrents
 deterring
 detersive
+detest
 detestableness
 detestably
 detestation
@@ -18863,6 +18872,7 @@ dewdrop
 dewed
 dewfalls
 dewier
+dewily
 dewool
 dewooled
 dewooling
@@ -19651,6 +19661,7 @@ disciplinary
 discipliner
 disclaimed
 disclaimer
+disclaiming
 disclaims
 disclamations
 disclimax
@@ -20787,6 +20798,7 @@ doughnutlike
 doughnuts
 doughtier
 doughtily
+doughtiness
 doughtinesses
 doulas
 doupioni
@@ -21455,6 +21467,7 @@ duress
 duresses
 durian
 durians
+during
 durion
 durmast
 durmasts
@@ -23481,6 +23494,7 @@ equinely
 equinities
 equip
 equipages
+equipments
 equipoise
 equipoised
 equipoises
@@ -25905,6 +25919,7 @@ figureheads
 figurine
 fil
 fila
+filagreed
 filament
 filamentous
 filaments
@@ -25966,6 +25981,7 @@ filmographies
 filmset
 filmsetter
 filmsettings
+filmy
 filo
 filovirus
 fils
@@ -30924,6 +30940,7 @@ hairsplitters
 hairsplitting
 hairsplittings
 hairspring
+hairsprings
 hairstreak
 hairstyles
 hairstyling
@@ -31255,6 +31272,7 @@ hardheadedly
 hardinggrass
 hardline
 hardly
+hardmouthed
 hardness
 hardpack
 hardpan
@@ -33149,6 +33167,7 @@ humbuggeries
 humbuggers
 humbugging
 humbugs
+humdinger
 humdrum
 humeri
 humic
@@ -38352,6 +38371,7 @@ ladyfishes
 ladyhoods
 ladylove
 ladypalms
+ladyships
 laetriles
 lagan
 lagans
@@ -41066,6 +41086,7 @@ mambo
 mamboing
 mamelukes
 mamey
+mamluks
 mammal
 mammalian
 mammalogies
@@ -42230,6 +42251,7 @@ mercurially
 mercurialnesses
 mere
 merengue
+merer
 meres
 meretriciously
 merganser
@@ -44792,6 +44814,7 @@ multilateral
 multilateralist
 multilayer
 multilayered
+multilevel
 multileveled
 multilingual
 multilobe
@@ -51024,6 +51047,7 @@ paters
 pathbreaking
 pathetic
 pathetical
+pathetically
 pathfinder
 pathobiology
 pathogen
@@ -52805,6 +52829,7 @@ pincher
 pinches
 pinching
 pinchpenny
+pincushion
 pincushions
 pinder
 pine
@@ -53098,6 +53123,7 @@ plagiarizing
 plagiotropic
 plaguey
 plaguing
+plaguy
 plaice
 plaid
 plaids
@@ -54434,6 +54460,7 @@ prat
 prated
 prater
 praters
+pratfall
 pratincole
 pratincoles
 pratique
@@ -62096,6 +62123,7 @@ saddletrees
 saddling
 sade
 sadhe
+sadhes
 sadhu
 sadhus
 sadist
@@ -70565,6 +70593,7 @@ swarths
 swartness
 swarty
 swashbuckled
+swashbucklers
 swasher
 swashing
 swasticas
@@ -72591,6 +72620,7 @@ thorax
 thoraxes
 thorianites
 thorite
+thorium
 thoriums
 thornback
 thornbacks
@@ -73116,6 +73146,7 @@ tizzies
 toadeater
 toadfish
 toadfishes
+toadish
 toadless
 toads
 toadstool
@@ -77050,6 +77081,7 @@ untwines
 untwining
 untwist
 untwisted
+untypically
 ununbium
 ununited
 unununium
@@ -77770,6 +77802,7 @@ varsities
 varus
 varuses
 varved
+vary
 varying
 vasal
 vascular
@@ -79252,6 +79285,7 @@ wattage
 wattapes
 watthour
 wattlebird
+wattles
 wattless
 wattmeters
 watts
@@ -80489,6 +80523,7 @@ worrisomeness
 worrit
 worrits
 worsen
+worsening
 worser
 worses
 worset
