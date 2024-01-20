@@ -1124,9 +1124,11 @@ agentries
 agents
 ager
 ageratums
+aggadah
 aggadas
 aggadic
 agger
+aggie
 aggies
 aggiornamento
 agglomerate
@@ -3735,6 +3737,7 @@ artifacts
 artifactual
 artificers
 artificial
+artificiality
 artilleries
 artillerists
 artillery
@@ -4158,6 +4161,7 @@ atropine
 atropins
 atropisms
 attach
+attache
 attacher
 attaches
 attachment
@@ -5373,6 +5377,7 @@ baroques
 baroreceptors
 barosaurs
 baroscopes
+barouche
 barouches
 barque
 barquette
@@ -10358,6 +10363,7 @@ carvels
 carven
 carvers
 carwashes
+caryatids
 caryopses
 caryopsides
 caryotins
@@ -10465,6 +10471,7 @@ cataclysmically
 catacomb
 catacombs
 catalases
+cataleptics
 catalexis
 catalo
 cataloger
@@ -14360,6 +14367,7 @@ constringes
 construction
 constructional
 constructionist
+constructions
 constructive
 constructivism
 construed
@@ -15653,6 +15661,7 @@ crapshooters
 crapulent
 crapulous
 crases
+crash
 crasher
 crashing
 crashworthy
@@ -19187,6 +19196,7 @@ diestruses
 dietarily
 dietary
 dietetic
+dietetically
 diether
 diethers
 dieting
@@ -22998,6 +23008,7 @@ enormousness
 enormousnesses
 enosises
 enounced
+enow
 enows
 enplane
 enplaned
@@ -29352,6 +29363,7 @@ globule
 globules
 globulins
 glockenspiels
+gloggs
 glom
 glomerular
 glomerule
@@ -30223,6 +30235,7 @@ grievants
 grieve
 grieved
 grievous
+grievousness
 griffes
 griffin
 griffins
@@ -31371,6 +31384,7 @@ hassles
 hassling
 hassock
 hassocks
+hastate
 hasted
 hasten
 hastening
@@ -31693,6 +31707,7 @@ hedonists
 heeded
 heeders
 heedful
+heedfully
 heedfulness
 heedfulnesses
 heedless
@@ -34086,6 +34101,7 @@ immobilization
 immobilizations
 immobilized
 immobilizes
+immoderacy
 immoderateness
 immoderation
 immoderations
@@ -37640,6 +37656,7 @@ kephalins
 kepped
 keps
 kept
+keratin
 keratinizing
 keratinophilic
 keratins
@@ -38179,6 +38196,8 @@ krona
 krubi
 krubut
 kruller
+krullers
+krumhorns
 krumkakes
 krummhorns
 kryolites
@@ -38713,6 +38732,7 @@ latchstring
 latchstrings
 latecomers
 lated
+lateeners
 lateens
 lately
 laten
@@ -39474,6 +39494,7 @@ ligates
 ligating
 ligatures
 ligers
+light
 lightbulbs
 lighted
 lighteners
@@ -39559,6 +39580,7 @@ limeades
 limed
 limekiln
 limelight
+limelighted
 limen
 limens
 limericks
@@ -41601,6 +41623,7 @@ masticator
 mastiche
 mastics
 mastiff
+mastiffs
 mastigophoran
 mastigophorans
 mastitis
@@ -44303,6 +44326,7 @@ mooters
 mooting
 moots
 mopboards
+moped
 mopeds
 mopery
 mopiest
@@ -48979,6 +49003,7 @@ outrivaled
 outrivaling
 outrivalling
 outrivals
+outroar
 outroaring
 outroars
 outrock
@@ -50972,6 +50997,7 @@ passwords
 past
 pastas
 paste
+pastel
 pastelists
 pastellist
 pastellists
@@ -53047,6 +53073,7 @@ pithiest
 pithing
 pithless
 pithy
+pitiableness
 pitiably
 pitier
 pities
@@ -57750,6 +57777,7 @@ ravagements
 ravagers
 ravaging
 rave
+raved
 ravel
 raveled
 raveling
@@ -64478,6 +64506,7 @@ shantyman
 shantymen
 shapelessness
 shapers
+shapeup
 shapeups
 shaping
 shard
@@ -66303,6 +66332,7 @@ sneakinesses
 sneaking
 sneaky
 sneaped
+sneaps
 sneck
 sned
 snedded
@@ -72645,12 +72675,14 @@ thought
 thoughtfully
 thoughtfulness
 thoughtless
+thoughtlessly
 thoughtlessness
 thoughtway
 thouing
 thous
 thousand
 thousandfold
+thousands
 thousandth
 thousandths
 thowless
@@ -76826,6 +76858,7 @@ unsaved
 unsavory
 unsawed
 unsawn
+unsay
 unsayable
 unscarred
 unscathed
@@ -78785,6 +78818,7 @@ vower
 vowing
 vows
 voyaged
+voyager
 voyages
 voyageur
 voyageurs
@@ -80298,6 +80332,7 @@ woeful
 woefullest
 woeness
 woesome
+woful
 wog
 wogs
 wok
