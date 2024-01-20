@@ -4185,6 +4185,7 @@ attachments
 attack
 attacker
 attackers
+attackman
 attackmen
 attain
 attainable
@@ -7141,6 +7142,7 @@ blaxploitation
 blazer
 blazered
 blazers
+blazing
 blazingly
 blazoned
 blazoning
@@ -10197,6 +10199,7 @@ cardon
 cardons
 cardoon
 cardplayers
+cards
 cardsharper
 cardsharps
 care
@@ -11935,6 +11938,7 @@ chronologies
 chronologists
 chronometries
 chronotherapies
+chrysalides
 chrysalids
 chrysarobin
 chrysarobins
@@ -13273,6 +13277,7 @@ collared
 collaret
 collars
 collateralize
+collateralizes
 collateralizing
 collaterals
 colleague
@@ -13699,6 +13704,7 @@ compatibles
 compatriot
 compeered
 compel
+compellations
 compeller
 compelling
 compellingly
@@ -13707,6 +13713,7 @@ compendiums
 compensability
 compensates
 compensative
+compensator
 compensatory
 compere
 competed
@@ -17219,6 +17226,7 @@ deaerations
 deafening
 deafeningly
 deafens
+deafer
 deafness
 deafnesses
 deaired
@@ -17890,6 +17898,7 @@ dehydrogenation
 deice
 deiced
 deicers
+deicides
 deicing
 deictics
 deifical
@@ -19132,6 +19141,7 @@ diazotization
 diazotized
 diazotizing
 dib
+dibasic
 dibbed
 dibber
 dibbled
@@ -20481,6 +20491,7 @@ dobra
 dobson
 dobsonflies
 docent
+docile
 dock
 dockage
 dockages
@@ -20500,6 +20511,7 @@ doctorates
 doctored
 doctorial
 doctorships
+doctrinaire
 doctrinairism
 doctrinal
 doctrine
@@ -24669,6 +24681,7 @@ expiates
 expiating
 expiator
 expiration
+expirations
 expire
 expirers
 expiring
@@ -38016,6 +38029,7 @@ kinetics
 kinetochore
 kinetoplasts
 kinetoscopes
+kinetosome
 kinetosomes
 kinfolk
 kingbirds
@@ -40068,6 +40082,7 @@ loathful
 loathing
 loathnesses
 loathsomeness
+loaves
 lob
 lobar
 lobate
@@ -43584,6 +43599,7 @@ misframe
 misframed
 misfunctioned
 misfunctioning
+misfunctions
 misgauge
 misgauged
 misgiven
@@ -43694,6 +43710,7 @@ misorder
 misordering
 misorient
 misorientation
+misorienting
 misos
 mispackaged
 mispackages
@@ -43895,6 +43912,7 @@ miswritten
 misyoking
 mitered
 miterer
+miterers
 miters
 miterwort
 miterworts
@@ -46987,6 +47005,7 @@ nonrecyclable
 nonrecyclables
 nonredundant
 nonrefillable
+nonregulated
 nonrelevant
 nonrepayable
 nonresidence
@@ -53786,6 +53805,7 @@ poditic
 podium
 podiums
 podophyllins
+podophyllum
 podsolizations
 podzolic
 podzolizations
@@ -54794,6 +54814,7 @@ precipitantness
 precipitants
 precipitated
 precipitately
+precipitating
 precipitations
 precipitative
 precipitousness
@@ -56406,6 +56427,7 @@ pseudonym
 pseudonymities
 pseudonymity
 pseudonymous
+pseudopodia
 pseudopodial
 pseudopodium
 pseudopregnancy
@@ -56831,6 +56853,7 @@ purposively
 purposivenesses
 purpura
 purpure
+purpures
 purpuric
 purpurins
 purr
@@ -58874,6 +58897,7 @@ redshanks
 redshift
 redshifted
 redshirting
+redshirts
 redskins
 redstart
 redstarts
@@ -62074,6 +62098,7 @@ rugged
 ruggeder
 ruggedest
 ruggedize
+ruggedizing
 ruggedness
 ruggednesses
 rugger
@@ -67110,6 +67135,7 @@ soporific
 soporifics
 sopors
 soppier
+soppy
 sopranino
 sopraninos
 soprano
@@ -67179,6 +67205,7 @@ sottishly
 sottishnesses
 sou
 souaris
+soubise
 soubrettes
 soubriquets
 soucar
@@ -68258,6 +68285,7 @@ stairs
 stairstepped
 stairstepping
 stairsteps
+stairway
 stake
 staked
 stakeholder
@@ -68930,6 +68958,7 @@ storable
 storables
 storage
 storax
+storaxes
 storefronts
 storehouses
 storekeeper
@@ -69025,6 +69054,7 @@ strangle
 strangleholds
 stranglers
 strangles
+strangulate
 strangulating
 stranguries
 strap
@@ -72974,6 +73004,7 @@ thriving
 throat
 throated
 throatily
+throats
 throb
 throbbers
 throbbing
@@ -74905,6 +74936,7 @@ trumps
 truncated
 truncates
 truncations
+truncheoning
 trundles
 trundling
 trunked
@@ -75714,6 +75746,7 @@ unattributed
 unaus
 unauthentic
 unavailability
+unavailable
 unavailing
 unaverage
 unaverted
@@ -75752,6 +75785,7 @@ unbelievers
 unbelieving
 unbelievingly
 unbelligerent
+unbelted
 unbelting
 unbemused
 unbended
@@ -76572,6 +76606,7 @@ unheedful
 unheeding
 unhelming
 unhelped
+unhelpful
 unhesitating
 unhewn
 unhinge
