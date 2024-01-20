@@ -1152,6 +1152,7 @@ aggravates
 aggravation
 aggregate
 aggregately
+aggregatenesses
 aggregation
 aggregative
 aggress
@@ -4840,6 +4841,7 @@ backhands
 backhauled
 backhauling
 backhoe
+backhoeing
 backhouse
 backhouses
 backing
@@ -5448,6 +5450,7 @@ basalt
 basaltic
 basaltine
 bascule
+baseballs
 baseboard
 baseborn
 based
@@ -12974,6 +12977,7 @@ coding
 codirected
 codirections
 codirector
+codirects
 codiscover
 codiscovered
 codiscovers
@@ -13570,6 +13574,7 @@ committeemen
 committees
 committeewoman
 committing
+commix
 commixes
 commixture
 commixtures
@@ -14053,6 +14058,7 @@ confederal
 confederated
 conferee
 conferees
+conference
 conferencing
 conferential
 conferments
@@ -14752,6 +14758,7 @@ copied
 copilot
 copious
 copiously
+coplanar
 coplanarity
 coplot
 coplots
@@ -15286,6 +15293,7 @@ counted
 countenance
 countenancing
 counteraction
+counteractions
 counteracts
 counteragents
 counterargues
@@ -23251,6 +23259,7 @@ enumerated
 enumerating
 enumerations
 enumerative
+enumerators
 enunciable
 enunciate
 enunciating
@@ -28575,6 +28584,7 @@ gassed
 gasses
 gassiest
 gastness
+gastraea
 gastraeas
 gastral
 gastric
@@ -29453,6 +29463,7 @@ glottal
 glottides
 glottis
 glout
+glouting
 glouts
 glove
 glovers
@@ -32780,6 +32791,7 @@ homospories
 homospory
 homotaxis
 homothallism
+homozygoses
 homozygote
 homozygous
 homy
@@ -33735,6 +33747,7 @@ hypopyon
 hypos
 hyposensitize
 hyposensitized
+hyposensitizes
 hyposensitizing
 hypospadias
 hypostatic
@@ -34417,6 +34430,7 @@ impracticality
 impractically
 imprecate
 imprecation
+imprecise
 imprecisely
 imprecisions
 impregn
@@ -35661,6 +35675,7 @@ instant
 instantaneities
 instantiate
 instantiated
+instantiates
 instantiating
 instantiation
 instantly
@@ -35815,6 +35830,7 @@ interactional
 interactions
 interacts
 interage
+interagency
 interarches
 interarching
 interatomic
@@ -36973,6 +36989,7 @@ jargonel
 jargonish
 jargonists
 jargonizing
+jargons
 jargony
 jargoon
 jargoons
@@ -37348,6 +37365,7 @@ jubas
 jubbah
 jubes
 jubhahs
+jubilance
 jubilances
 jubilating
 jubilations
@@ -40804,6 +40822,7 @@ machinability
 machinable
 machinator
 machinators
+machine
 machineability
 machineable
 machined
@@ -44621,6 +44640,7 @@ moujik
 moujiks
 moulage
 mouldering
+moulders
 mouldier
 mouldings
 moulds
@@ -47357,6 +47377,7 @@ numinousness
 numinousnesses
 numismatically
 numismatics
+numismatists
 nummary
 nummular
 nummulites
@@ -47976,6 +47997,7 @@ omasum
 omber
 ombres
 ombudsman
+ombudsmanships
 ombudsmen
 omelet
 omelettes
@@ -48632,6 +48654,7 @@ otologies
 otoplasty
 otoscopes
 otoscopy
+ototoxicity
 otters
 oubliette
 ouch
@@ -49557,6 +49580,7 @@ overexploits
 overexpose
 overexposed
 overexposing
+overexposures
 overextending
 overextension
 overextensions
@@ -50307,6 +50331,7 @@ pagings
 pagodas
 pagods
 pagurian
+pagurians
 pagurids
 paid
 paiking
@@ -52154,6 +52179,7 @@ petiolule
 petiolules
 petit
 petite
+petiteness
 petitioners
 petnap
 petnaping
@@ -52607,6 +52633,7 @@ phyllary
 phyllite
 phyllo
 phylloclade
+phylloclades
 phyllodium
 phylloids
 phyllopod
@@ -58972,6 +58999,7 @@ refinding
 refinds
 refine
 refinements
+refinery
 refinish
 refinished
 refinisher
@@ -63187,6 +63215,7 @@ schuls
 schuss
 schussboomer
 schusser
+schussers
 schusses
 schvartzes
 schwartzes
@@ -63740,6 +63769,7 @@ secretionary
 secretive
 secretively
 secrets
+sect
 sectarianisms
 sectarianized
 sectional
@@ -65839,6 +65869,7 @@ skyjacking
 skyjacks
 skylark
 skylarkers
+skylight
 skylights
 skyline
 skyphoi
@@ -70638,6 +70669,7 @@ sustainability
 sustained
 sustainedly
 sustainer
+sustaining
 sustains
 sustentations
 sustentative
@@ -73160,6 +73192,7 @@ tinner
 tinners
 tinnier
 tinniest
+tinnily
 tinniness
 tinning
 tinnituses
@@ -74376,6 +74409,7 @@ trichomic
 trichomonacide
 trichomonacides
 trichomonad
+trichomonads
 trichomonal
 trichomoniases
 trichoses
@@ -79404,6 +79438,7 @@ waterproofing
 waterproofings
 waterproofs
 waters
+waterscape
 watershed
 watersheds
 waterside
