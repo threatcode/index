@@ -6,3 +6,6 @@ shortlist.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0
 dictionary.txt - Washington,https://courses.cs.washington.edu/courses/cse143/16au/lectures/sets-and-maps-2/dictionary.txt
 dictionary.txt - Stanford University,http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1174/lectures/9-RecursiveBacktracking1/code/fileCrawl/res/dictionary.txt
 https://boulter.com/scrabble//words/words.txt,https://boulter.com/scrabble//words/words.txt
+dictionary.txt,https://courses.cs.washington.edu/courses/cse143/16au/lectures/sets-and-maps-2/dictionary.txt
+file,https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/678ff0b0153fc3dd5280587679fd84d8_words.txt
+"one - Computer Science, FSU",https://www.cs.fsu.edu/~langley/COP3353-2013-1/dictionary-linprog1.txt
