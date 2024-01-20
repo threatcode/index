@@ -2085,6 +2085,7 @@ amuse
 amusedly
 amusement
 amusements
+amuser
 amusers
 amusing
 amusingnesses
@@ -14142,6 +14143,7 @@ conniving
 connoisseurs
 connoisseurship
 connotation
+connotational
 connotative
 connotatively
 connoted
@@ -16700,6 +16702,7 @@ dactylology
 dactyls
 dactylus
 dadaisms
+dadaist
 dadaistic
 daddies
 daddle
@@ -17653,6 +17656,7 @@ deftnesses
 defueling
 defuelled
 defuelling
+defunct
 defunded
 defunds
 defusers
@@ -17917,6 +17921,7 @@ demilune
 demimondaine
 demimondaines
 demirep
+demise
 demised
 demisemiquaver
 demisemiquavers
@@ -23399,6 +23404,7 @@ erasers
 erases
 erasing
 erasions
+erbiums
 ere
 erected
 erecter
@@ -28350,6 +28356,7 @@ gassiest
 gastness
 gastraeas
 gastral
+gastric
 gastrins
 gastritis
 gastritises
@@ -28788,6 +28795,7 @@ geysers
 gharry
 ghastfully
 ghastlinesses
+ghastly
 ghats
 ghauts
 ghazi
@@ -28924,6 +28932,7 @@ gingivectomies
 gingivectomy
 gingkoes
 ginks
+ginners
 ginnier
 ginniest
 ginzo
@@ -29664,6 +29673,7 @@ gracefulness
 gracelessnesses
 graces
 gracile
+gracileness
 graciles
 gracious
 graciousness
@@ -30885,6 +30895,7 @@ hammy
 hamperer
 hamperers
 hams
+hamster
 hamulate
 hamulous
 hamza
@@ -31723,6 +31734,7 @@ hemorrhagic
 hemorrhoid
 hemosiderin
 hemostases
+hemostasis
 hemostat
 hemostatics
 hemotoxin
@@ -32246,6 +32258,7 @@ hobbies
 hobbits
 hobblebush
 hobblers
+hobby
 hobbyhorse
 hobbyhorses
 hobbyist
@@ -32864,6 +32877,7 @@ hoverers
 hovering
 howbeit
 howdahs
+howdie
 howdied
 howdy
 howdying
@@ -33677,6 +33691,7 @@ ignorantly
 ignorantness
 ignored
 ignorers
+ignores
 iguana
 iguanas
 iguanid
@@ -38278,6 +38293,7 @@ landfills
 landforms
 landlers
 landlessness
+landlessnesses
 landlines
 landloper
 landlopers
@@ -39623,6 +39639,7 @@ livabilities
 liveabilities
 liveability
 liveable
+liveliest
 livelihood
 livelong
 livened
@@ -40613,6 +40630,7 @@ magnesias
 magnesic
 magnesites
 magnesiums
+magnet
 magnetics
 magnetises
 magnetising
@@ -45647,6 +45665,7 @@ neutrino
 neutron
 neutronic
 neutrons
+neutrophils
 never
 nevermind
 neves
@@ -49640,6 +49659,7 @@ overweening
 overweeningly
 overweens
 overweighed
+overweighing
 overweights
 overwet
 overwets
@@ -50552,6 +50572,7 @@ parterres
 parthenocarpic
 parthenocarpies
 partial
+partiality
 partials
 partibility
 participant
@@ -52117,6 +52138,7 @@ photoreactions
 photoreceptor
 photoreceptors
 photoreduce
+photoreductions
 photoresist
 photoresists
 photoscan
@@ -55214,6 +55236,7 @@ procurers
 procuress
 prod
 prodder
+prodding
 prodigalities
 prodigies
 prodromal
@@ -56731,6 +56754,7 @@ questioner
 questioning
 questionnaire
 questions
+questor
 quests
 queue
 queued
@@ -57311,6 +57335,7 @@ rasping
 raspingly
 rasps
 rassle
+rassles
 raster
 rasure
 rasures
@@ -60373,6 +60398,7 @@ revalues
 revamp
 revamped
 revampers
+revamps
 revanches
 revanchists
 revarnished
@@ -60658,6 +60684,7 @@ rhyta
 rhythmical
 rhythmically
 rhythmics
+rhythmist
 rhythmization
 rhythmize
 rhytidomes
@@ -62364,6 +62391,7 @@ sawing
 sawlike
 sawmill
 sawmills
+sawn
 sawney
 sawtimber
 sawtimbers
@@ -68506,6 +68534,7 @@ striction
 strictly
 strictnesses
 strictures
+stridden
 stride
 stridence
 stridencies
@@ -68518,6 +68547,7 @@ stridulate
 stridulated
 stridulating
 stridulation
+stridulatory
 stridulously
 strife
 strifeless
@@ -70431,6 +70461,7 @@ symbolization
 symbolized
 symbolizer
 symbolizers
+symbolizes
 symbols
 symmetallism
 symmetallisms
@@ -77204,6 +77235,7 @@ valleyed
 valleys
 valorise
 valorised
+valorization
 valorized
 valorizes
 valorously
@@ -77491,6 +77523,7 @@ vendee
 vendibly
 vendition
 venditions
+vendor
 vends
 vendue
 vendues
@@ -78708,6 +78741,7 @@ waste
 wastebaskets
 wasted
 wasteful
+wastefully
 wastefulnesses
 wastelot
 wastepaper
@@ -80529,6 +80563,7 @@ zanier
 zanies
 zaniest
 zanyish
+zanza
 zanzas
 zapateo
 zapateos
