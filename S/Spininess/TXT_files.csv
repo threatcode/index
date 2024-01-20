@@ -14,3 +14,13 @@ entrada3_unsrt.txt - IME-USP,https://www.ime.usp.br/~yoshi/mac122/exx/freq_ABB_t
 big3.txt - Image3D,https://www.image3d.com/includes/media/uploads/big3.txt
 mmds_spell.txt - CDC,https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt
 syn.txt - Unavco.org,https://www.unavco.org/gitlab/mbgross/vivo-source/-/raw/78d0d9d9c2a3b4e2bcc701d3ace9f9931bcbac74/solr/homeDirectoryTemplate/conf/syn.txt%3Finline%3Dfalse
+Dictionary,https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt
+The dictionary,https://users.cs.fiu.edu/~weiss/cop4338_spr02/assignments/dict.txt
+saida3_ord.txt - IME-USP,https://www.ime.usp.br/~yoshi/mac122/exx/freq_testes/saida3_ord.txt
+dictionary.txt - andrew.cmu.ed,https://www.andrew.cmu.edu/course/15-121/dictionary.txt
+List of words - cs.wisc.edu,https://pages.cs.wisc.edu/~cat/cs368-2011-2/08-regexp1/input-8-words.txt
+EnglishWords.txt - Stanford University,https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1176/lectures/9-RecursiveBacktracking1/code/reducible/res/EnglishWords.txt
+143wi22_section14_dictionary.txt - Washington,https://courses.cs.washington.edu/courses/cse143/22au/sections/143wi22_section14_dictionary.txt
+damnatory wiethe anticlimactically - CDC,https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt
+core/dotCMS/src/main/webapp/WEB-INF/messages/en_US/words.txt ...,https://github.com/dotCMS/core/blob/master/dotCMS/src/main/webapp/WEB-INF/messages/en_US/words.txt
+english3.txt - Hendrix College: Computer Science,https://hendrix-cs.github.io/csci150/data/english3.txt
