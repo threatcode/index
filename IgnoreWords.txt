@@ -608,6 +608,7 @@ ademption
 adenines
 adenitis
 adenitises
+adenocarcinomas
 adenohypophyses
 adenohypophysis
 adenoids
@@ -984,6 +985,7 @@ affectionate
 affectionless
 affectively
 affectivities
+affectless
 affectlessness
 affects
 afferent
@@ -4003,6 +4005,7 @@ assonant
 assonantal
 assortative
 assuage
+assuager
 assuagers
 assuages
 assuasive
@@ -5513,6 +5516,7 @@ basify
 basifying
 basilic
 basilica
+basilicae
 basilicas
 basilisks
 basils
@@ -6288,6 +6292,7 @@ berserker
 berserkly
 berserks
 bertha
+berthed
 beryl
 beryline
 beryllium
@@ -12653,6 +12658,7 @@ clods
 clofibrate
 clofibrates
 clog
+clogged
 cloggers
 cloggiest
 cloggily
@@ -14319,6 +14325,7 @@ conjunctive
 conjunctives
 conjunctivitis
 conjuncts
+conjunctures
 conjunto
 conjured
 conjuring
@@ -17482,6 +17489,7 @@ decenniums
 decenter
 decentered
 decentering
+decenters
 decentest
 decentralize
 decentralizes
@@ -25844,6 +25852,7 @@ ferial
 ferine
 ferity
 ferlie
+ferlies
 fermatas
 fermentation
 fermentations
@@ -26346,6 +26355,7 @@ firetruck
 firewalls
 firewaters
 fireweeds
+firewoods
 firework
 fireworm
 fireworms
@@ -27038,6 +27048,7 @@ foamers
 foamflower
 foamier
 foamiest
+foaminesses
 foamless
 foamlike
 foams
@@ -28198,6 +28209,7 @@ funks
 funnel
 funneled
 funnelform
+funneling
 funnelling
 funner
 funnest
@@ -29108,6 +29120,7 @@ geoponics
 geopressured
 georgettes
 georgics
+geoscience
 geoscientists
 geostationary
 geostrategic
@@ -35689,6 +35702,7 @@ innersole
 innerspring
 innervating
 innervation
+innervations
 innerved
 innerves
 innings
@@ -38997,6 +39011,7 @@ larynges
 laryngitic
 laryngitis
 laryngitises
+laryngologies
 laryngology
 laryngoscope
 laryngoscopes
@@ -39029,6 +39044,7 @@ lasting
 lastingly
 lastingness
 lastingnesses
+lastings
 lastly
 latakia
 latch
@@ -39260,6 +39276,7 @@ leadworts
 leady
 leaf
 leafiness
+leafinesses
 leafing
 leafless
 leafleteer
@@ -40074,6 +40091,7 @@ lipsticks
 liquefactions
 liquefied
 liquefier
+liquid
 liquidambars
 liquidate
 liquidities
@@ -41813,6 +41831,7 @@ marmot
 maroons
 marplot
 marplots
+marque
 marquess
 marquessate
 marquesses
@@ -43240,6 +43259,7 @@ mikvoth
 mil
 miladies
 miladis
+milady
 milages
 milded
 milden
@@ -44425,6 +44445,7 @@ mongrels
 monickers
 monies
 moniliases
+moniliform
 monished
 monishes
 monishing
@@ -48157,6 +48178,7 @@ offing
 offishly
 offishness
 offkey
+offline
 offload
 offloaded
 offprint
@@ -49551,6 +49573,7 @@ outvalues
 outvaunt
 outvaunted
 outvaunting
+outvaunts
 outvied
 outvoice
 outvoicing
@@ -53478,6 +53501,7 @@ pitcher
 pitches
 pitchfork
 pitchforked
+pitchier
 pitchiest
 pitchout
 pitchouts
@@ -55233,6 +55257,7 @@ prefatory
 prefect
 prefects
 prefectural
+prefecture
 prefer
 preference
 preferences
@@ -56269,6 +56294,7 @@ properdin
 properdins
 properness
 propers
+property
 prophage
 prophages
 prophase
@@ -60871,6 +60897,7 @@ resplendencies
 resplendency
 resplendent
 resplendently
+resplice
 resplices
 resplicing
 respondent
@@ -62019,6 +62046,7 @@ rollick
 rollicky
 rollmop
 rollouts
+rollover
 rolls
 romaines
 roman
@@ -68613,6 +68641,7 @@ stakeholder
 stakeouts
 stalactites
 stalag
+stalagmite
 stalags
 staled
 stalemate
@@ -69656,6 +69685,7 @@ stuccoed
 stuccoers
 stuck
 stud
+studbook
 studbooks
 studded
 studdies
@@ -70117,6 +70147,7 @@ subsaturation
 subsaturations
 subscale
 subsciences
+subscribed
 subscriber
 subscribes
 subscript
@@ -76716,6 +76747,7 @@ undiscussed
 undisputed
 undissociated
 undistinguished
+undistracted
 undock
 undocked
 undoctored
@@ -79175,6 +79207,7 @@ visceral
 viscerally
 viscid
 viscidities
+viscoidal
 viscometer
 viscometers
 viscometric
@@ -79941,6 +79974,7 @@ waterlogged
 waterlogging
 waterloo
 waterloos
+watermanship
 watermark
 watermarked
 watermarking
@@ -81767,6 +81801,7 @@ zeppoles
 zeps
 zerk
 zeroed
+zeroth
 zesters
 zestfulness
 zestfulnesses
