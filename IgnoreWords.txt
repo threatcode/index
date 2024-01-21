@@ -209,6 +209,7 @@ accessions
 accessories
 accessorise
 accessorised
+accessorises
 accessorising
 accessorizes
 accessorizing
@@ -5065,6 +5066,7 @@ bakshished
 bakshishes
 bakshishing
 balaclavas
+balances
 balancing
 balas
 balases
@@ -8239,6 +8241,7 @@ brambling
 branch
 branched
 branches
+branchial
 branchiopod
 branchiopods
 branchlets
@@ -12919,6 +12922,7 @@ cocaptained
 cocaptains
 cocarcinogen
 cocarcinogens
+cocci
 coccic
 coccidioses
 coccidium
@@ -12956,6 +12960,7 @@ cockling
 cockloft
 cockney
 cockneyfying
+cockneyism
 cockpits
 cocks
 cockscombs
@@ -13575,6 +13580,7 @@ commands
 commas
 commata
 commemorates
+commemorators
 commencements
 commences
 commencing
@@ -15017,6 +15023,7 @@ corneitises
 cornel
 cornelian
 cornelians
+corner
 cornerbacks
 cornering
 corners
@@ -15906,6 +15913,7 @@ creolized
 creolizing
 creosotic
 creosoting
+creped
 crepes
 crepiest
 creping
@@ -24434,6 +24442,7 @@ exceptionable
 exceptional
 exceptionalisms
 exceptionally
+exceptive
 excerpt
 excerpter
 excerpting
@@ -28295,6 +28304,7 @@ fusulinids
 futharc
 futharcs
 futhark
+futharks
 futhorcs
 futile
 futilitarian
@@ -30183,6 +30193,7 @@ grandstander
 grandstanders
 grandstanding
 grandstands
+grange
 grangerisms
 granita
 granitas
@@ -30792,6 +30803,7 @@ guillemets
 guillemot
 guilloche
 guilloches
+guillotine
 guillotined
 guillotining
 guilt
@@ -32559,6 +32571,7 @@ hinkier
 hinkiest
 hinnying
 hinterland
+hinterlands
 hinters
 hinting
 hints
@@ -35418,6 +35431,7 @@ infirmities
 infirmly
 infirms
 infix
+infixations
 infixed
 infixes
 inflame
@@ -35998,6 +36012,7 @@ intensionally
 intensities
 intensity
 intensive
+intensives
 intent
 intention
 intentionality
@@ -36818,6 +36833,7 @@ irretrievably
 irreverences
 irreverent
 irreverently
+irreversibility
 irreversible
 irrevocable
 irrigable
@@ -37179,6 +37195,7 @@ jargons
 jargony
 jargoon
 jargoons
+jarhead
 jarheads
 jarina
 jarl
@@ -38104,6 +38121,7 @@ killifish
 killing
 killjoy
 kills
+kilned
 kilo
 kilobars
 kilobauds
@@ -39958,6 +39976,7 @@ linguistician
 linguisticians
 linguistics
 linguists
+lingula
 lingulae
 lingular
 linier
@@ -41594,6 +41613,7 @@ mansion
 manslaughter
 manslayers
 mansuetudes
+manta
 manteaux
 mantel
 mantelet
@@ -49302,6 +49322,7 @@ outpulled
 outpunch
 outpunches
 outpunching
+outpush
 outpushes
 output
 outputs
@@ -52729,6 +52750,7 @@ phosphids
 phosphin
 phosphites
 phosphocreatine
+phosphokinase
 phosphokinases
 phospholipase
 phospholipases
@@ -53736,6 +53758,7 @@ pleaders
 pleadingly
 pleads
 pleasantest
+pleasantly
 pleasantness
 pleasantry
 pleased
@@ -55437,6 +55460,7 @@ prequalify
 prequel
 preradio
 prerecord
+prerecorded
 prerecording
 prerecords
 prerectal
@@ -60777,6 +60801,7 @@ resonate
 resonates
 resonating
 resonators
+resorb
 resorbing
 resorbs
 resorcinol
@@ -65058,6 +65083,7 @@ sheathers
 sheathing
 sheathings
 shebang
+shedable
 shedder
 shedders
 shedlike
@@ -68732,6 +68758,7 @@ staunch
 staunchnesses
 staurolite
 staurolitic
+staved
 staves
 stavesacre
 stavudines
@@ -70516,6 +70543,7 @@ sunglows
 sunk
 sunket
 sunlamp
+sunland
 sunlands
 sunless
 sunlight
@@ -73951,6 +73979,7 @@ topazine
 topcoats
 topcrosses
 topdressing
+tope
 toped
 topee
 topes
@@ -74234,6 +74263,7 @@ toyless
 toyshops
 trabeate
 trabecular
+trabeculas
 traceable
 traced
 traceried
@@ -75415,6 +75445,7 @@ tunesmiths
 tuneups
 tung
 tungs
+tungsten
 tungstite
 tungstites
 tunic
@@ -77691,6 +77722,7 @@ unurged
 unusable
 unusual
 unusualnesses
+unutilized
 unutterably
 unvaccinated
 unvalued
@@ -78482,9 +78514,11 @@ vectoring
 vedalia
 vedette
 vedettes
+veejay
 veena
 veepee
 veered
+veering
 veeringly
 veers
 vegan
@@ -81263,6 +81297,7 @@ wrongnesses
 wrote
 wroth
 wrothful
+wrought
 wry
 wryest
 wryneck
