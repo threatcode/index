@@ -925,6 +925,7 @@ aerofoils
 aerogram
 aerogramme
 aerolite
+aerolitic
 aerologies
 aerology
 aeromedical
@@ -1853,6 +1854,7 @@ amalgams
 amanitas
 amantadine
 amantadines
+amaranth
 amaranthine
 amarelles
 amarone
@@ -5119,6 +5121,7 @@ ballonne
 ballonnes
 ballons
 ballooned
+ballooning
 balloonings
 balloonist
 balloonists
@@ -9045,6 +9048,7 @@ burgeons
 burgers
 burgh
 burghers
+burglaries
 burglarize
 burglarized
 burglarizing
@@ -13425,6 +13429,7 @@ colorfully
 colorfulness
 colorfulnesses
 colorimetric
+colorimetries
 colorings
 colorist
 colorists
@@ -17164,6 +17169,7 @@ daubry
 daubs
 daundered
 daundering
+daunorubicin
 daunted
 daunting
 dauntingly
@@ -18104,6 +18110,7 @@ dematerialize
 dematerializes
 deme
 demeanors
+demeanour
 dement
 demented
 dementednesses
@@ -20960,6 +20967,7 @@ dowdy
 dowdyish
 doweling
 dowelling
+dower
 dowered
 dowering
 dowers
@@ -24489,6 +24497,7 @@ excusablenesses
 excuse
 excuser
 excusing
+exec
 execrableness
 execrablenesses
 execrations
@@ -24790,6 +24799,7 @@ exposure
 expounder
 expounding
 expounds
+express
 expressage
 expressages
 expressers
@@ -29512,6 +29522,7 @@ globoids
 globose
 globosely
 globosity
+globs
 globulars
 globule
 globules
@@ -31993,6 +32004,7 @@ helled
 hellenization
 hellenize
 hellenizes
+hellenizing
 helleri
 helleris
 hellfires
@@ -35568,6 +35580,7 @@ inkless
 inklings
 inkpot
 inkstones
+inky
 inlaced
 inlaid
 inlander
@@ -35819,6 +35832,7 @@ instillments
 instinctively
 instincts
 instinctual
+institute
 instituted
 institutes
 institution
@@ -39294,6 +39308,7 @@ legging
 leggins
 leggy
 leghorns
+legible
 legion
 legionnaire
 legislated
@@ -40103,6 +40118,7 @@ liven
 livened
 liveness
 livens
+liver
 livered
 liveried
 liverishness
@@ -40436,6 +40452,7 @@ loophole
 loopholed
 loopholing
 loopily
+loopy
 loos
 loosed
 loosely
@@ -41315,6 +41332,7 @@ maltinesses
 malting
 maltols
 maltose
+maltreat
 maltreating
 maltsters
 malvasian
@@ -44808,6 +44826,7 @@ mountainously
 mountains
 mountainside
 mountainsides
+mountaintops
 mountebankeries
 mountebankery
 mountebanking
@@ -45475,6 +45494,7 @@ myrmecological
 myrmecologist
 myrmecologists
 myrmecology
+myrmecophile
 myrmidons
 myrtle
 myrtles
@@ -48140,6 +48160,7 @@ oligochaetes
 oligoclase
 oligodendroglia
 oligomer
+oligomeric
 oligomerization
 oligomers
 oligophagous
@@ -48897,6 +48918,7 @@ outbullies
 outbully
 outbullying
 outburn
+outburning
 outburnt
 outburst
 outbursts
@@ -51661,6 +51683,7 @@ peekaboo
 peekaboos
 peelable
 peeled
+peels
 peen
 peening
 peens
@@ -52846,6 +52869,7 @@ phytohormones
 phytol
 phytolith
 phytoliths
+phytology
 phytons
 phytopathogens
 phytoplanktons
@@ -53040,6 +53064,7 @@ pigtail
 pigtailed
 pigweed
 pikas
+pike
 piked
 pikeman
 pikemen
@@ -55126,6 +55151,7 @@ prefunds
 preganglionic
 pregnancies
 pregnenolone
+pregrowths
 preguide
 preguiding
 prehandle
@@ -58152,6 +58178,7 @@ reaccented
 reaccession
 reaccessions
 reacclaim
+reacclaims
 reacclimatize
 reacclimatizes
 reaccredit
@@ -61883,6 +61910,7 @@ romps
 rondeaux
 rondelet
 rondelets
+rondelle
 rondelles
 rondels
 rondo
@@ -65738,6 +65766,7 @@ simulator
 simulators
 simulcast
 simulcasting
+simulcasts
 simultaneity
 simultaneous
 sin
@@ -65842,6 +65871,7 @@ sirup
 siruped
 sirupier
 siruping
+sirupy
 sirvente
 sirventes
 sises
@@ -67040,6 +67070,7 @@ solemnified
 solemnities
 solemnity
 solemnize
+solemnized
 solemnizes
 solemnly
 soleness
@@ -68362,6 +68393,7 @@ stadium
 stadtholderates
 stadtholdership
 staff
+staffer
 stagecoaches
 stagecraft
 stagecrafts
@@ -71424,6 +71456,7 @@ syphilises
 syphoned
 syphons
 syphs
+syrens
 syringas
 syringomyelic
 syrphid
@@ -71679,6 +71712,7 @@ talks
 talky
 tall
 tallaisim
+tallboy
 taller
 talliers
 tallit
@@ -73154,6 +73188,7 @@ thromboxane
 thromboxanes
 throne
 throned
+throstles
 throttle
 throttlehold
 throttleholds
