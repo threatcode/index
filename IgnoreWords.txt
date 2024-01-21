@@ -860,6 +860,7 @@ adviser
 advises
 advising
 advisories
+advisors
 advisory
 advocacies
 advocacy
@@ -1260,6 +1261,7 @@ agribusinessman
 agribusinessmen
 agriculture
 agricultures
+agriculturist
 agrimonies
 agrochemical
 agroforestries
@@ -3447,6 +3449,7 @@ archangelic
 archbishoprics
 archbishops
 archdeacon
+archdeacons
 archdiocesan
 archdioceses
 archducal
@@ -8211,6 +8214,7 @@ brainteaser
 brainteasers
 brainwash
 brainwashed
+brainwasher
 brainwashes
 brainwashings
 brainy
@@ -11297,6 +11301,7 @@ charmer
 charmeuse
 charmeuses
 charming
+charmless
 charms
 charnels
 charpai
@@ -14645,6 +14650,7 @@ controverts
 contumacious
 contumaciously
 contumelies
+contumelious
 contumeliously
 contumely
 contused
@@ -17402,6 +17408,7 @@ decantations
 decanted
 decants
 decapod
+decapodans
 decarbonations
 decarbonized
 decarbonizer
@@ -20915,6 +20922,7 @@ doublure
 doubly
 doubt
 doubtable
+doubter
 doubtful
 doubtless
 doubtlessness
@@ -28540,6 +28548,7 @@ gangbanging
 ganger
 gangland
 ganglia
+gangliar
 gangling
 ganglion
 ganglioside
@@ -28693,6 +28702,7 @@ gasometers
 gasp
 gasped
 gasper
+gaspers
 gaspingly
 gassed
 gasses
@@ -33898,6 +33908,7 @@ hypothecated
 hypothecation
 hypothecations
 hypothecator
+hypothecs
 hypothenuses
 hypothermal
 hypothermia
@@ -36405,6 +36416,7 @@ intrapreneurs
 intrapsychic
 intraspecific
 intrastate
+intrathecal
 intrathoracic
 intrauterine
 intravascularly
@@ -36865,6 +36877,7 @@ isogeneic
 isoglossal
 isogon
 isogones
+isogonies
 isograft
 isografted
 isogram
@@ -37826,9 +37839,11 @@ keelsons
 keen
 keener
 keeners
+keenest
 keenness
 keennesses
 keens
+keeping
 keepsakes
 keeshond
 keeshonds
@@ -40849,6 +40864,7 @@ lutetium
 lutetiums
 luteum
 lutfisk
+lutfisks
 luthern
 luthier
 luthiers
@@ -45664,6 +45680,7 @@ nanotech
 nanotechs
 nanoteslas
 nanotube
+nans
 napalmed
 napas
 napery
@@ -47189,6 +47206,7 @@ nonspeech
 nonsporting
 nonstaples
 nonstarter
+nonstationary
 nonstatistical
 nonsteroid
 nonsteroidal
@@ -51421,6 +51439,7 @@ patriots
 patristical
 patroller
 patrolling
+patrolman
 patrolmen
 patrols
 patron
@@ -51991,6 +52010,7 @@ perceptivities
 perceptivity
 percepts
 perceptual
+perceptually
 perch
 percher
 perchers
@@ -56962,6 +56982,7 @@ purgatories
 purged
 puri
 purification
+purificator
 purificators
 purificatory
 purifier
@@ -63863,6 +63884,7 @@ scurfier
 scurfs
 scurfy
 scurried
+scurries
 scurril
 scurrile
 scurrility
@@ -64197,6 +64219,7 @@ seismological
 seismologies
 seismologists
 seismometer
+seismometries
 seisor
 seitans
 seized
@@ -67018,6 +67041,7 @@ sodomitical
 sodomizes
 sodomy
 sofar
+sofas
 soffit
 soft
 softa
@@ -67300,6 +67324,7 @@ sootinesses
 sooting
 soots
 sooty
+sop
 sopapillas
 sophistic
 sophistically
@@ -68605,6 +68630,7 @@ statehouse
 statehouses
 stateless
 statelessnesses
+statelier
 stateliness
 statelinesses
 stately
@@ -69354,6 +69380,7 @@ strew
 strewer
 strewers
 strewment
+strewments
 strewn
 striated
 striating
@@ -69922,6 +69949,7 @@ subordinated
 subordinately
 subordinateness
 subordinates
+subordination
 subordinations
 subordinative
 subordinator
@@ -69963,6 +69991,7 @@ subrogate
 subrogated
 subroutine
 subroutines
+subrule
 subrules
 subsale
 subsample
@@ -73618,6 +73647,7 @@ tittivates
 tittup
 tittuppy
 titubant
+titularies
 titularly
 tivy
 tizzies
@@ -76675,6 +76705,7 @@ unfavorite
 unfearful
 unfeasible
 unfeeling
+unfeigned
 unfeignedly
 unfelted
 unfeminine
@@ -77635,6 +77666,7 @@ unweighed
 unweighted
 unweighting
 unweights
+unwelcome
 unwept
 unwetted
 unwhipped
@@ -78364,6 +78396,7 @@ vauntingly
 vaunty
 vaus
 vav
+vavasour
 vavasours
 vavassor
 vaw
@@ -80673,6 +80706,7 @@ wiped
 wipeout
 wipeouts
 wipers
+wirable
 wire
 wiredraw
 wiredrawers
@@ -81282,6 +81316,7 @@ yakked
 yakker
 yakkers
 yaks
+yakuza
 yam
 yamalkas
 yamen
