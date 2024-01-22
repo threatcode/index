@@ -866,6 +866,7 @@ advise
 advised
 advisee
 advisees
+advisement
 advisements
 adviser
 advises
@@ -5886,6 +5887,7 @@ bedded
 beddings
 bedeafen
 bedeafening
+bedeafens
 bedeck
 bedehouse
 bedehouses
@@ -6373,6 +6375,7 @@ bescreen
 bescreening
 bescreens
 beseech
+beseecher
 beseechers
 beseechingly
 beseemed
@@ -7914,6 +7917,7 @@ boomtown
 boomtowns
 boon
 boondock
+boondocks
 boondoggler
 boondoggling
 boonies
@@ -9991,6 +9995,7 @@ cannonballs
 cannoneer
 cannoneers
 cannons
+cannot
 cannular
 cannulate
 cannulated
@@ -10136,6 +10141,7 @@ capmakers
 capo
 capoeira
 capoeiras
+capon
 caponata
 caponier
 caponiers
@@ -10908,6 +10914,7 @@ cavitied
 cavities
 cavorted
 cavorters
+cavorting
 cavy
 caw
 cawing
@@ -21430,6 +21437,7 @@ dramatization
 dramatizes
 dramatizing
 dramaturg
+dramaturges
 dramaturgic
 dramaturgical
 dramaturgies
@@ -22034,6 +22042,7 @@ dynasty
 dynatron
 dyne
 dyneins
+dynels
 dynode
 dynodes
 dynorphin
@@ -24587,6 +24596,7 @@ evangelizing
 evangels
 evanishing
 evaporate
+evaporated
 evaporates
 evaporating
 evaporators
@@ -24721,6 +24731,7 @@ exahertz
 exaltation
 exalted
 exalters
+exalting
 examen
 examens
 examinable
@@ -26090,6 +26101,7 @@ fellmongered
 fellmongering
 fellmongerings
 fellnesses
+fellow
 fellowed
 fellows
 fellowshipped
@@ -26100,6 +26112,7 @@ felonious
 felonries
 felonry
 felons
+felony
 felsite
 felsites
 felstone
@@ -26110,6 +26123,7 @@ felwort
 fem
 feminazi
 feminazis
+feminine
 femininely
 feminineness
 femininities
@@ -27365,6 +27379,7 @@ flyting
 flytrap
 flytraps
 flyway
+flywheel
 flywheels
 foaled
 foaling
@@ -29824,6 +29839,7 @@ glariest
 glarinesses
 glaring
 glaringnesses
+glary
 glasnost
 glassblower
 glassblowers
@@ -33877,6 +33893,7 @@ humitures
 hummer
 hummers
 humming
+hummocks
 hummuses
 humoral
 humoresque
@@ -36001,6 +36018,7 @@ ingrowing
 ingrownness
 ingrowth
 ingulfed
+ingulfing
 ingulfs
 ingurgitates
 ingurgitating
@@ -40670,6 +40688,7 @@ lithos
 lithospheric
 lithotomy
 lithotripsy
+lithotripter
 lithotripters
 lithotriptor
 lithotriptors
@@ -43240,6 +43259,7 @@ mesnes
 mesoblast
 mesoblasts
 mesocarp
+mesocarps
 mesocyclone
 mesoderms
 mesogleal
@@ -44152,6 +44172,7 @@ misassembling
 misassigning
 misassigns
 misassumptions
+misatones
 misattributed
 misaver
 misavers
@@ -45265,6 +45286,7 @@ morality
 moralization
 moralizations
 moralize
+moralizers
 moralizing
 morass
 moratoria
@@ -45767,6 +45789,7 @@ multilobed
 multimedias
 multimegaton
 multimegawatt
+multimegawatts
 multimillion
 multimodal
 multimode
@@ -52187,6 +52210,7 @@ pattering
 patterned
 patternings
 patterns
+patters
 pattie
 patulent
 paucity
@@ -55968,6 +55992,7 @@ preforming
 preforms
 preformulate
 prefranked
+prefranks
 prefreeze
 prefreezes
 prefreezing
@@ -59089,6 +59114,7 @@ ready
 readymades
 reaffirmations
 reaffix
+reaffixed
 reafforest
 reafforestation
 reagent
@@ -62502,6 +62528,7 @@ rikishas
 rikshaws
 rile
 riled
+rilievi
 rilievo
 riling
 rille
@@ -65197,6 +65224,7 @@ semantemes
 semantical
 semantically
 semanticists
+semantics
 semaphored
 semasiological
 semasiology
@@ -69083,6 +69111,7 @@ spools
 spoon
 spoonbills
 spooned
+spoonful
 spooniest
 spoonsful
 spoony
@@ -69147,6 +69176,7 @@ spouter
 spouters
 spouting
 spouts
+sprachgefuhls
 sprag
 sprain
 sprained
@@ -69595,6 +69625,7 @@ startlingly
 startups
 starvations
 starvelings
+starwort
 stash
 stashed
 stashing
@@ -72448,6 +72479,7 @@ syncopic
 syncretise
 syncretises
 syncretising
+syncretisms
 syncretize
 syncretized
 syncretizing
@@ -75095,6 +75127,7 @@ tother
 toting
 tots
 totted
+totterer
 totterers
 totteringly
 totters
@@ -75756,6 +75789,7 @@ triangled
 triangles
 triangular
 triangularities
+triangularity
 triangulate
 triangulates
 triangulating
@@ -77539,6 +77573,7 @@ undernourished
 undernutritions
 underpainting
 underpaintings
+underpay
 underpayment
 underpayments
 underpinned
