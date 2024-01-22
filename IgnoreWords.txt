@@ -3236,6 +3236,7 @@ appellations
 appellative
 appellatively
 appellatives
+appellee
 appellees
 append
 appendages
@@ -7929,6 +7930,7 @@ bootlicks
 bootstrapped
 booze
 boozes
+boozier
 boozily
 booziness
 boozinesses
@@ -8921,6 +8923,7 @@ buddles
 buddy
 budge
 budged
+budgerigar
 budgetary
 budgeted
 budgeteer
@@ -10733,6 +10736,7 @@ catenates
 catenation
 catenations
 cateran
+catercorner
 caterer
 cateress
 caterpillar
@@ -15635,6 +15639,7 @@ countersinking
 countersnipers
 counterspies
 counterstain
+counterstained
 counterstate
 counterstated
 counterstates
@@ -16447,6 +16452,7 @@ cryogen
 cryogenies
 cryogens
 cryogeny
+cryolite
 cryometer
 cryonics
 cryophilic
@@ -17888,6 +17894,7 @@ deductible
 deductibles
 deduction
 deductions
+deductive
 deductively
 deeded
 deedier
@@ -21649,6 +21656,7 @@ druses
 druthers
 dryable
 dryad
+dryades
 dryadic
 dryads
 dryasdust
@@ -25915,6 +25923,7 @@ fease
 feased
 feasibilities
 feast
+feasted
 feaster
 feastful
 feasting
@@ -28067,6 +28076,7 @@ freewheeled
 freewheeler
 freewheelers
 freewheeling
+freewrite
 freewritings
 freewritten
 freewrote
@@ -33173,6 +33183,7 @@ holograph
 holographed
 holographs
 holography
+hologynies
 hologyny
 holometabolisms
 holometabolous
@@ -34073,6 +34084,7 @@ hyla
 hylas
 hylozoism
 hylozoists
+hymen
 hymeneal
 hymeneals
 hymenia
@@ -35091,6 +35103,7 @@ inactivation
 inactive
 inactively
 inactivity
+inadequately
 inadequateness
 inadmissibly
 inadvertently
@@ -35829,6 +35842,7 @@ inflationist
 inflator
 inflators
 inflection
+inflections
 inflective
 inflects
 inflexed
@@ -36562,6 +36576,7 @@ interlaid
 interlapping
 interlard
 interlarding
+interlay
 interlayered
 interlayering
 interlaying
@@ -40118,6 +40133,7 @@ libertarianism
 libertarianisms
 liberties
 libertinages
+libertine
 libertinism
 liberty
 libidinously
@@ -42490,6 +42506,7 @@ matres
 matriarchy
 matricide
 matricides
+matriculant
 matriculation
 matrilineally
 matrimonial
@@ -43850,6 +43867,7 @@ mimicked
 mimickers
 mimosa
 minacious
+minacities
 minacity
 minaret
 minarets
@@ -52047,6 +52065,7 @@ patios
 patisserie
 patisseries
 patois
+patriarchates
 patriarchies
 patriarchy
 patriates
@@ -53042,6 +53061,7 @@ petechiae
 petered
 petering
 petiolar
+petiolate
 petioled
 petiolule
 petiolules
@@ -53738,6 +53758,7 @@ pigmentations
 pigmies
 pigmy
 pignolias
+pignus
 pignuts
 pigout
 pigstick
@@ -57067,6 +57088,7 @@ proteoglycan
 proteoglycans
 proteolysis
 proteolytic
+proteolytically
 proteome
 proteomes
 proteose
@@ -59523,6 +59545,7 @@ recoupling
 recoupment
 recoupments
 recourses
+recoverability
 recoverer
 recoverers
 recoveries
@@ -60863,6 +60886,7 @@ reopposing
 reorchestrate
 reorchestration
 reordered
+reorganized
 reorganizers
 reorganizes
 reorientate
@@ -62124,6 +62148,7 @@ rheologists
 rheology
 rheometer
 rheophil
+rheophiles
 rheostat
 rheostatic
 rheostats
@@ -62783,6 +62808,7 @@ rosariums
 rosary
 roscoe
 roscoes
+rosebays
 rosebuds
 rosed
 rosehip
@@ -65965,6 +65991,7 @@ shipload
 shipmasters
 shipmate
 shipment
+shipments
 shipowners
 shippable
 shippen
@@ -66161,6 +66188,7 @@ shouldest
 shout
 shouted
 shouter
+shouts
 shovelful
 shoveller
 shovelling
@@ -66519,6 +66547,7 @@ silkworm
 sillabubs
 siller
 sillier
+sillily
 sillimanites
 siloed
 siloxane
@@ -69887,6 +69916,7 @@ stockbreeder
 stockbrokerage
 stockbrokings
 stockcar
+stockcars
 stocked
 stocker
 stockholder
@@ -73213,6 +73243,7 @@ telephotos
 teleport
 teleportation
 teleporting
+teleprinters
 teleprocessing
 teleran
 teles
@@ -74111,6 +74142,7 @@ throbbing
 throe
 throes
 thrombi
+thrombins
 thrombocytic
 thrombokinase
 thrombolytic
@@ -76173,6 +76205,7 @@ tuck
 tuckahoe
 tuckahoes
 tucked
+tucker
 tuckering
 tuckers
 tucket
@@ -78388,6 +78421,7 @@ unsphere
 unsphered
 unspheres
 unspoiled
+unspooled
 unspools
 unsprung
 unstablenesses
@@ -81653,6 +81687,7 @@ winsomeness
 winsomenesses
 winsomest
 winter
+winterberries
 wintered
 winterer
 winterfed
