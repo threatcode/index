@@ -5683,6 +5683,7 @@ battalions
 batteau
 batteaux
 battement
+battener
 battening
 batterers
 batterie
@@ -6687,6 +6688,7 @@ bifidly
 bifilar
 bifocal
 bifocaled
+bifocals
 biforate
 biforked
 biform
@@ -10399,6 +10401,7 @@ careens
 careerer
 careering
 careerist
+careerists
 careers
 careful
 carefuller
@@ -15555,6 +15558,7 @@ cotyloid
 cotype
 cotypes
 couch
+couchant
 couched
 couchers
 couchettes
@@ -19198,6 +19202,7 @@ deuteranomalies
 deuteranomalous
 deuteranomaly
 deuteranope
+deuteranopias
 deuterated
 deuterating
 deuterations
@@ -19999,6 +20004,7 @@ disability
 disable
 disablement
 disabler
+disablers
 disabling
 disabusal
 disabuse
@@ -22567,6 +22573,7 @@ eightfold
 eighthly
 eighths
 eighties
+eightieth
 eights
 eightvo
 eikons
@@ -25213,6 +25220,7 @@ exploratory
 explore
 explorers
 exponent
+exponentially
 exponentials
 exponentiation
 exportability
@@ -25684,6 +25692,7 @@ falcate
 falcated
 falchion
 falchions
+falciform
 falcon
 falconine
 falconoid
@@ -28351,6 +28360,7 @@ frizzers
 frizzier
 frizzily
 frizzle
+frizzler
 frizzles
 frizzlier
 frizzliest
@@ -28916,6 +28926,7 @@ gallicisms
 gallicizations
 gallicize
 gallicized
+gallicizes
 gallicizing
 gallied
 gallies
@@ -31326,6 +31337,7 @@ gulfiest
 gulflike
 gulfweeds
 gull
+gullably
 gulled
 gullets
 gulley
@@ -42209,6 +42221,7 @@ manhunts
 mania
 maniac
 manias
+manic
 manicottis
 manics
 manicure
@@ -42585,6 +42598,7 @@ masseuse
 massicot
 massicots
 massiest
+massif
 massifs
 massiness
 massing
@@ -45156,6 +45170,7 @@ monoclinic
 monoclonal
 monocoques
 monocots
+monocotyl
 monocotyledon
 monocotyledons
 monocrat
@@ -46209,6 +46224,7 @@ muzzy
 myalgia
 myalgias
 myalgic
+myasthenia
 myceles
 mycelia
 myceloid
@@ -48050,6 +48066,7 @@ nonthermal
 nonthinking
 nonthreatening
 nontonal
+nontonic
 nontragic
 nontribal
 nontrivial
@@ -49018,6 +49035,7 @@ oliguria
 olingo
 olivaceous
 olivary
+olivenites
 olives
 olivinitic
 olla
@@ -50873,6 +50891,7 @@ overply
 overpopulated
 overpopulates
 overpopulating
+overpopulation
 overpopulations
 overpotent
 overpower
@@ -54214,6 +54233,7 @@ piperazines
 piperidine
 piperines
 piperonals
+pipestem
 pipestones
 pipet
 pipets
@@ -58741,6 +58761,7 @@ radiolyses
 radiomen
 radiomimetic
 radionics
+radionuclide
 radionuclides
 radiophone
 radiophoto
@@ -60516,6 +60537,7 @@ regressor
 regressors
 regretfulnesses
 regretters
+regroom
 regroove
 regrooves
 regrooving
@@ -60528,6 +60550,7 @@ regrowth
 regrowths
 regular
 regularities
+regularity
 regularization
 regularizations
 regularizes
@@ -60944,6 +60967,7 @@ remanufacture
 remanufactured
 remap
 remapping
+remarked
 remarker
 remarketed
 remarketing
@@ -61372,6 +61396,7 @@ repressing
 repression
 repressions
 repressive
+repressively
 repressor
 repressors
 repressurizing
@@ -61928,6 +61953,7 @@ resummoning
 resumption
 resumptions
 resupine
+resurfaced
 resurfacer
 resurfacers
 resurfaces
@@ -62924,6 +62950,7 @@ rockshafts
 rockweeds
 rockwork
 rococo
+rococos
 rocs
 rodding
 rodenticide
@@ -63035,6 +63062,7 @@ rooking
 rooks
 roomed
 roomers
+roomful
 roomfuls
 roomie
 roomiest
@@ -72207,6 +72235,7 @@ suspenses
 suspensions
 suspensive
 suspensively
+suspensors
 suspicion
 suspicioning
 suspicions
@@ -75694,6 +75723,7 @@ transitive
 transits
 translate
 translated
+translation
 translator
 translatory
 transliterate
@@ -78614,6 +78644,7 @@ unrent
 unrepaid
 unrepairs
 unreservedly
+unreservedness
 unresistant
 unresolvable
 unrespectable
@@ -80033,6 +80064,7 @@ verses
 versets
 versicle
 versicles
+versifications
 versifiers
 versify
 versines
@@ -82008,6 +82040,7 @@ windowy
 windpipes
 windrow
 windrowing
+winds
 windscreens
 windshields
 windsock
@@ -82608,6 +82641,7 @@ wyns
 wyting
 wyvern
 wyverns
+xanthan
 xanthate
 xanthic
 xanthines
@@ -82711,6 +82745,7 @@ yakuza
 yam
 yamalkas
 yamen
+yammering
 yamun
 yanked
 yanks
