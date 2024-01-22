@@ -37,3 +37,5 @@ ScrabbleWords.txt - Temple CIS,https://cis.temple.edu/~pwang/3203-AI/Project/200
 faculty.salisbury.edu/~jtanderson/teaching/cosc420...,http://faculty.salisbury.edu/~jtanderson/teaching/cosc420/fa21/files/words.txt
 input.txt - cs.wisc.edu,https://pages.cs.wisc.edu/~akella/CS838/F16/assignment1/input.txt
 enable1.txt - Peter Norvig,https://norvig.com/ngrams/enable1.txt
+http://www.seattlescrabble.org/data/ThemeLists/dea...,http://www.seattlescrabble.org/data/ThemeLists/death.txt
+http://www.stat.yale.edu/~tba3/class_data/aclImdb/...,http://www.stat.yale.edu/~tba3/class_data/aclImdb/test/pos/196_9.txt
