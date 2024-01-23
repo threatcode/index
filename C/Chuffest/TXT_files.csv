@@ -8,3 +8,6 @@ dictionary.txt - Washington,https://courses.cs.washington.edu/courses/cse143/16a
 dictionary.txt - CMU School of Computer Science,http://www.cs.cmu.edu/~ab/15-110F10/labs/lab4/startercode/dictionary.txt
 GitList,http://uisgplprod.uis.edu/gitlist/utils/blame/master/sqlserver/word_dictionary/general.txt
 ridyhew_master.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0/src/dictionaries/ridyhew_master.txt
+http://www.seattlescrabble.org/data/ThemeLists/hap...,http://www.seattlescrabble.org/data/ThemeLists/happy.txt
+OpenEnglishWordList.txt - UNM CS,https://www.cs.unm.edu/~joel/cs351/lab/OpenEnglishWordList.txt
+List - Department of Computer Science,https://www.classes.cs.uchicago.edu/archive/2003/summer/10600-1/dict.txt

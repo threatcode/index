@@ -235,6 +235,7 @@ acclimations
 acclimatised
 acclimatises
 acclimatization
+acclimatize
 acclimatized
 acclimatizing
 acclivities
@@ -1045,6 +1046,7 @@ afflict
 afflicted
 afflicting
 afflicts
+affluence
 affluences
 affluencies
 affluency
@@ -2195,6 +2197,7 @@ anabolism
 anachronic
 anachronisms
 anachronous
+anachronously
 anaclisis
 anaclitic
 anacoluthic
@@ -4801,6 +4804,7 @@ axiological
 axiologically
 axiology
 axiom
+axiomatisations
 axiomatization
 axiomatized
 axiomatizing
@@ -7852,6 +7856,7 @@ bolus
 bombarders
 bombardiers
 bombardment
+bombardments
 bombardons
 bombards
 bombaster
@@ -12270,6 +12275,7 @@ chufas
 chuff
 chuffed
 chuffer
+chuffest
 chuffier
 chuffiest
 chuffs
@@ -14198,6 +14204,7 @@ computerphobe
 computerphobes
 computerphobias
 computes
+computist
 comradeliness
 comradelinesses
 comradely
@@ -16092,6 +16099,7 @@ craniate
 craniates
 craning
 craniofacial
+craniometries
 craniotomies
 crankcase
 crankcases
@@ -21146,6 +21154,7 @@ dogmatizing
 dognap
 dognaped
 dognaper
+dognapper
 dognaps
 dogs
 dogsbodies
@@ -28334,6 +28343,7 @@ freakier
 freakiest
 freakily
 freaking
+freakishly
 freakishness
 freakouts
 freckles
@@ -29064,6 +29074,7 @@ galenic
 galenical
 galette
 galettes
+galilee
 galilees
 galiot
 galivant
@@ -32065,6 +32076,7 @@ handlist
 handmade
 handmaid
 handmaiden
+handmaidens
 handmaids
 handoff
 handout
@@ -34724,6 +34736,7 @@ hypoxanthine
 hypoxanthines
 hypoxemia
 hypoxemic
+hyps
 hypsometer
 hyrax
 hyssop
@@ -44164,6 +44177,7 @@ midterm
 midterms
 midtowns
 midway
+midweek
 midweekly
 midwife
 midwifed
@@ -44242,6 +44256,7 @@ militarist
 militarists
 militarization
 militarized
+militarizes
 militate
 militated
 militates
@@ -47798,6 +47813,7 @@ nonbooks
 nonbotanist
 nonbotanists
 nonbrand
+nonbreathing
 nonbreeders
 nonbreeding
 nonbroadcast
@@ -49158,6 +49174,7 @@ odorized
 odorizes
 odors
 odour
+odourful
 odyl
 odysseys
 oecologies
@@ -51022,6 +51039,7 @@ overgoads
 overgovern
 overgrade
 overgraded
+overgrazes
 overgreat
 overgrowing
 overgrown
@@ -52681,6 +52699,7 @@ patterns
 patters
 pattie
 patulent
+patulous
 paucity
 paughty
 pauldron
@@ -52998,6 +53017,7 @@ pelite
 pellagra
 pellagras
 pellagrin
+pellagrous
 pelletised
 pelletization
 pelletizations
@@ -54666,6 +54686,7 @@ pitchiest
 pitchout
 pitchouts
 pitchpole
+pitchpoled
 pitchpoles
 piteous
 piteously
@@ -55439,6 +55460,7 @@ polyamide
 polyamine
 polyamines
 polyandry
+polyantha
 polyanthas
 polyanthi
 polybrid
@@ -56010,6 +56032,7 @@ pottier
 pottinesses
 potto
 potzers
+pouched
 pouches
 pouchy
 pouff
@@ -60764,6 +60787,7 @@ refractivities
 refractometries
 refractometry
 refractor
+refractories
 refractorily
 refractory
 refracts
@@ -61686,6 +61710,7 @@ replacement
 replacer
 replacers
 replans
+replant
 replantation
 replanting
 replasters
@@ -67313,6 +67338,7 @@ siloxanes
 silt
 siltations
 siltier
+silting
 silts
 siltstone
 silty
@@ -67536,6 +67562,7 @@ sitting
 situated
 situation
 situationally
+situations
 situses
 sitzmark
 sivers
@@ -70557,6 +70584,7 @@ stewbum
 stewing
 stews
 stey
+sthenia
 sthenic
 stibine
 stibines
@@ -71245,6 +71273,7 @@ stumblers
 stummed
 stump
 stumpage
+stumpages
 stumped
 stumpier
 stumps
@@ -72757,6 +72786,7 @@ swamp
 swamped
 swampers
 swampier
+swampinesses
 swamplands
 swampy
 swamy
@@ -73876,6 +73906,7 @@ teammates
 teamsters
 teamworks
 teapot
+tear
 tearable
 tearaway
 tearaways
@@ -74207,6 +74238,7 @@ tendinitis
 tendinitises
 tendinous
 tendonitis
+tendresse
 tendriled
 tendrilled
 tends
@@ -76093,6 +76125,7 @@ tramway
 tramways
 tranced
 trancelike
+tranche
 tranches
 trancing
 trank
@@ -81091,6 +81124,7 @@ vociferates
 vociferation
 vociferators
 vociferously
+vocoder
 vocoders
 vodou
 vodouns
@@ -82659,6 +82693,7 @@ wirephotos
 wirer
 wiretapped
 wiretapper
+wiretapping
 wireway
 wireworm
 wireworms
