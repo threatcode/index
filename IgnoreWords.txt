@@ -914,6 +914,7 @@ aeried
 aeriest
 aerified
 aero
+aerobat
 aerobatic
 aerobatics
 aerobats
@@ -930,6 +931,7 @@ aerobrake
 aerobraked
 aerobrakes
 aerobraking
+aerodromes
 aeroduct
 aeroducts
 aerodynamical
@@ -4395,6 +4397,7 @@ audiotaped
 audiotapes
 audiphone
 audiphones
+audit
 auditable
 auditees
 audition
@@ -5075,6 +5078,7 @@ baff
 baffed
 baffies
 baffle
+bafflers
 baffling
 bafflingly
 baffs
@@ -7421,6 +7425,7 @@ blondining
 blondish
 blondness
 blonds
+blood
 bloodbath
 bloodcurdling
 bloodfin
@@ -7976,6 +7981,7 @@ bootlegging
 bootlegs
 bootlessly
 bootlicked
+bootlickers
 bootlicks
 bootstrapped
 booze
@@ -9314,6 +9320,7 @@ bushes
 bushfires
 bushgoat
 bushier
+bushiness
 bushinesses
 bushings
 bushless
@@ -9681,6 +9688,7 @@ calcify
 calcimine
 calcinations
 calcine
+calcinoses
 calcite
 calcitonins
 calcium
@@ -14388,6 +14396,7 @@ confers
 confervas
 confess
 confessable
+confessedly
 confessing
 confession
 confessional
@@ -15742,6 +15751,7 @@ counterstates
 counterstep
 countersteps
 counterstream
+counterstreams
 counterstricken
 counterstroke
 counterstrokes
@@ -15786,6 +15796,7 @@ coupled
 coupledoms
 couplement
 couplements
+couplers
 coupling
 couponing
 coupons
@@ -31139,6 +31150,7 @@ grosbeaks
 groschen
 grosgrain
 grosgrains
+gross
 grossulars
 grosze
 grotesque
@@ -32693,6 +32705,7 @@ hematologists
 hematology
 hematoma
 hematophagous
+hematopoiesis
 hematopoietic
 hematoporphyrin
 hematoxylins
@@ -32723,6 +32736,7 @@ hemizygous
 hemline
 hemmer
 hemming
+hemochromatoses
 hemocoels
 hemocyanins
 hemocyte
@@ -32874,6 +32888,7 @@ hermetically
 hermeticisms
 hermetisms
 hermitages
+hermitisms
 hermitry
 hermits
 herms
@@ -33718,6 +33733,7 @@ hornblende
 hornblendes
 hornedness
 hornednesses
+hornfels
 horniest
 horning
 hornings
@@ -33836,6 +33852,7 @@ hot
 hotblood
 hotbox
 hotch
+hotching
 hotchpotches
 hotdog
 hotdogged
@@ -34511,6 +34528,7 @@ hypoderms
 hypodiploid
 hypodiploidies
 hypoed
+hypoeutectoid
 hypogean
 hypogeum
 hypoglossal
@@ -35594,6 +35612,7 @@ incontinence
 incontinences
 incontinencies
 incontinency
+incontinently
 inconvenience
 inconveniences
 inconveniencing
@@ -38445,6 +38464,7 @@ kalians
 kalifates
 kalifs
 kalimba
+kaliphs
 kalium
 kaliums
 kallidins
@@ -41553,6 +41573,7 @@ lumpingly
 lumpish
 lumpishly
 lumpishnesses
+lumpy
 lums
 luna
 lunacy
@@ -42545,6 +42566,7 @@ marled
 marlines
 marlinespikes
 marling
+marlins
 marlinspike
 marlite
 marlstone
@@ -43780,6 +43802,7 @@ microclimatic
 microcline
 microclines
 micrococcus
+microcode
 microcomputer
 microcomputers
 microcopies
@@ -45914,6 +45937,7 @@ mugginesses
 mugging
 muggs
 muggur
+muggurs
 mughal
 mugs
 mugworts
@@ -50128,6 +50152,7 @@ outlearning
 outlearnt
 outlets
 outlie
+outlined
 outliners
 outlines
 outlining
@@ -51048,6 +51073,7 @@ overripe
 overroast
 overrude
 overruffed
+overruffs
 overrule
 overrunning
 overruns
@@ -54193,6 +54219,7 @@ pilseners
 pilsner
 pilsners
 pilular
+pilule
 pilus
 pimpernels
 pimple
@@ -54464,6 +54491,7 @@ pittas
 pitting
 pittosporum
 pituitary
+pitying
 pityriases
 pityriasis
 pivot
@@ -55676,6 +55704,7 @@ postnatally
 postneonatal
 postoral
 postorbital
+postpaid
 postpartum
 postponable
 postponements
@@ -60879,6 +60908,7 @@ reinvolving
 reissue
 reissued
 reissuer
+reissues
 reitbok
 reitboks
 reiterated
@@ -70648,6 +70678,7 @@ strategically
 strategies
 strategists
 strategize
+strath
 strathspey
 strathspeys
 strati
@@ -79771,6 +79802,7 @@ vambraced
 vamosed
 vamoses
 vamped
+vampier
 vampiric
 vampirish
 vampirism
@@ -81555,6 +81587,7 @@ weavers
 weaving
 web
 webbier
+webbing
 webbings
 webby
 webcam
@@ -82614,6 +82647,7 @@ workfares
 workflow
 workflows
 workfolk
+workforce
 workhorse
 workhorses
 workhour
@@ -83412,6 +83446,7 @@ zygotic
 zymes
 zymogen
 zymogene
+zymogenes
 zymogram
 zymograms
 zymologic
