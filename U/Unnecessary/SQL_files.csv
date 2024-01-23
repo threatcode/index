@@ -18,3 +18,13 @@ wp-ci-demo - db - wordpress.sql - GitLab,https://gitlab.dit.htwk-leipzig.de/mart
 https://git.man.poznan.pl/stash/projects/FOOD/repo...,https://git.man.poznan.pl/stash/projects/FOOD/repos/marketplace/raw/core/src/main/resources/liquibase/snapshots/demo.sql%3Fat%3D4b59c6feec1ae9716cb6894c2523a2756f3c0208
 PHPBTTracker,http://139.59.45.243:8181/login/8000..sql
 https://redmine.gc.cuny.edu/attachments/download/1...,https://redmine.gc.cuny.edu/attachments/download/16624/local.sql
+Install.sql - GitHub,https://github.com/HangfireIO/Hangfire/blob/master/src/Hangfire.SqlServer/Install.sql
+DefaultInstall.sql - GitHub,https://github.com/HangfireIO/Hangfire/blob/master/src/Hangfire.SqlServer/DefaultInstall.sql
+maintenance/mssql/update-keys.sql · master · mirrors / mediawiki-131,https://gitlab.cs.umd.edu/mirrors/mediawiki-131/-/blob/master/maintenance/mssql/update-keys.sql
+servers/ttrss - ttrss - Gitea: Git with a cup of tea,https://git.2li.ch/servers/ttrss/commits/commit/e6a875b7e4e4b179284942878da452a8db8d9b50/schema/ttrss_schema_pgsql.sql
+data.sql · master · in-sylva development / in-sylva.information-system ...,https://forgemia.inra.fr/in-sylva-development/in-sylva.information-system/-/blob/master/data.sql
+En FUNCTIONS.sql — MstarProject Manual,http://manual.mstarproject.com/index.php/En_FUNCTIONS.sql
+Text Publishing — Blog,https://www.textpublishing.com.au/blog/page/82.sql
+sql/version-018.sql · wip/test-containers - Geary - GitLab - GNOME,https://gitlab.gnome.org/GNOME/geary/-/blob/wip/test-containers/sql/version-018.sql
+http://support.keyhouse.biz/downloads/NewFrameWork...,http://support.keyhouse.biz/downloads/NewFrameWork/Mobile/v2.3.2/RMLChange.sql
+Text Publishing — Blog,https://www.textpublishing.com.au/blog/page/81.sql
