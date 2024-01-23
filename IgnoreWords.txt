@@ -426,6 +426,7 @@ acquiesced
 acquiescence
 acquiescences
 acquiescent
+acquiescently
 acquiesces
 acquiescing
 acquire
@@ -3528,6 +3529,7 @@ archangelic
 archbishoprics
 archbishops
 archdeacon
+archdeaconries
 archdeacons
 archdiocesan
 archdioceses
@@ -6079,6 +6081,7 @@ befitted
 befittingly
 beflag
 beflagged
+beflagging
 beflea
 befleck
 beflowering
@@ -6556,6 +6559,7 @@ betrayed
 betrayer
 betroth
 betrothal
+betrothals
 betrothed
 betroths
 betta
@@ -7632,6 +7636,7 @@ blunter
 blunting
 bluntness
 bluntnesses
+blunts
 blurb
 blurbing
 blurbist
@@ -9643,6 +9648,7 @@ cadmiums
 cadres
 caducean
 caduceus
+caducity
 caducous
 caeca
 caecally
@@ -10816,6 +10822,7 @@ catawbas
 catbirds
 catbriers
 catcalled
+catcallers
 catch
 catcher
 catchers
@@ -11864,6 +11871,7 @@ child
 childbearing
 childcare
 childcares
+childe
 childes
 childhood
 childhoods
@@ -12576,6 +12584,7 @@ clad
 cladding
 clades
 cladism
+cladist
 cladistic
 cladistics
 cladists
@@ -15616,6 +15625,7 @@ costumier
 cosurfactants
 cosy
 cotangent
+cotangents
 cote
 coteau
 cotenancies
@@ -15998,6 +16008,7 @@ cowry
 cowshed
 cowslips
 cowy
+cox
 coxae
 coxalgia
 coxalgias
@@ -18092,6 +18103,7 @@ dedicate
 dedicatedly
 dedicatee
 dedicating
+dedications
 dedicator
 dedicators
 dedifferentiate
@@ -19947,6 +19959,7 @@ dimmer
 dimmers
 dimming
 dimnesses
+dimorph
 dimorphic
 dimorphism
 dimout
@@ -21674,6 +21687,7 @@ drawled
 drawlers
 drawlingly
 drawls
+drawly
 drawn
 drawplate
 drawplates
@@ -22495,6 +22509,7 @@ ectoparasitic
 ectopically
 ectoplasm
 ectoproct
+ectosarcs
 ectotherm
 ectotherms
 ectotrophic
@@ -25337,6 +25352,7 @@ expiated
 expiates
 expiating
 expiator
+expiatory
 expiration
 expirations
 expire
@@ -30407,6 +30423,7 @@ glycosylate
 glycosylated
 glycosylations
 glycosyls
+glycyls
 glyphic
 glyphs
 glyptic
@@ -30705,6 +30722,7 @@ gossips
 gossoon
 gossypol
 gossypols
+goth
 gothicisms
 gothicize
 gothicized
@@ -32941,6 +32959,7 @@ hepatize
 hepatizes
 hepatoma
 hepatomegalies
+hepatomegaly
 hepatopancreas
 hepcats
 heptagon
@@ -33941,6 +33960,7 @@ horsinesses
 horsing
 hortative
 hortatively
+hortatory
 horticultural
 horticulture
 hos
@@ -41069,6 +41089,7 @@ lithotripters
 lithotriptor
 lithotriptors
 litigants
+litigated
 litigates
 litigating
 litigation
@@ -43347,6 +43368,7 @@ melanize
 melanized
 melanoblast
 melanocytes
+melanogenesis
 melanomata
 melanophore
 melanophores
@@ -44224,6 +44246,7 @@ milded
 milden
 mildened
 mildening
+mildens
 milder
 mildews
 mildly
@@ -44786,6 +44809,7 @@ misfortune
 misframe
 misframed
 misframes
+misfunction
 misfunctioned
 misfunctioning
 misfunctions
@@ -49972,6 +49996,7 @@ osteal
 osteitis
 ostensible
 ostensoria
+ostensories
 ostensorium
 ostensory
 osteoarthritic
@@ -51771,6 +51796,7 @@ painlessness
 paintable
 paintbrushes
 painted
+painter
 painterlinesses
 paintworks
 pair
@@ -58714,6 +58740,7 @@ quaintnesses
 quaked
 quaker
 quakers
+quakes
 quakily
 quakinesses
 quakingly
@@ -61443,6 +61470,7 @@ remittances
 remitter
 remitters
 remitting
+remittor
 remix
 remixing
 remixture
@@ -66600,6 +66628,7 @@ sheepcots
 sheepdog
 sheepdogs
 sheephead
+sheepheads
 sheepherder
 sheepherding
 sheepherdings
@@ -69538,6 +69567,7 @@ spiderlike
 spiderweb
 spiderwort
 spiderworts
+spidery
 spied
 spiegeleisens
 spiegels
@@ -72109,6 +72139,7 @@ summates
 summating
 summations
 summed
+summered
 summerhouse
 summerhouses
 summerier
@@ -72777,6 +72808,7 @@ swainishness
 swainishnesses
 swains
 swales
+swallow
 swallowers
 swallowing
 swallowtails
@@ -80082,6 +80114,7 @@ vakeel
 valance
 valanced
 valances
+vale
 valediction
 valedictorian
 valedictorians
@@ -80612,6 +80645,7 @@ versines
 versing
 version
 versional
+versions
 versos
 verst
 versus
@@ -82729,6 +82763,7 @@ wispily
 wispinesses
 wispish
 wispy
+wiss
 wissed
 wissing
 wistaria
