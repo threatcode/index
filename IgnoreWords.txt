@@ -2306,6 +2306,7 @@ anchorman
 anchormen
 anchorpeople
 anchors
+anchorwoman
 anchorwomen
 anchovetta
 anchovettas
@@ -2753,6 +2754,7 @@ anticlerical
 anticlericals
 anticlimactical
 anticlines
+anticlockwise
 anticoagulants
 anticold
 anticolonialism
@@ -7619,6 +7621,7 @@ boardsailings
 boardsailor
 boardsailors
 boarfishes
+boarhounds
 boarish
 boars
 boas
@@ -11942,6 +11945,7 @@ chivariing
 chives
 chivying
 chlamydiae
+chlamydospores
 chlamys
 chloasmas
 chloracne
@@ -13538,6 +13542,7 @@ collared
 collaret
 collars
 collateralize
+collateralized
 collateralizes
 collateralizing
 collaterals
@@ -13759,6 +13764,7 @@ comedic
 comedies
 comedown
 comeliest
+comeliness
 comember
 comembers
 comer
@@ -15038,6 +15044,7 @@ coolths
 coombs
 cooncan
 cooncans
+coonhound
 coonskin
 cooperage
 cooperages
@@ -15989,6 +15996,7 @@ cramming
 cramoisies
 cramp
 cramping
+crampit
 crampons
 crampoon
 crampoons
@@ -17198,6 +17206,7 @@ dabbles
 dabblings
 dabs
 dace
+dachshund
 dachshunds
 dackered
 dackering
@@ -22454,6 +22463,7 @@ eeliest
 eellike
 eels
 eelworm
+eely
 eerie
 eerier
 eeriest
@@ -23720,6 +23730,7 @@ entireness
 entires
 entireties
 entirety
+entitle
 entitled
 entitlement
 entoblast
@@ -25920,6 +25931,7 @@ fascicule
 fasciculus
 fasciitises
 fascinated
+fascinating
 fascinatingly
 fascine
 fascines
@@ -27554,6 +27566,7 @@ folkie
 folkier
 folkish
 folklives
+folklores
 folklorish
 folkloristic
 folklorists
@@ -28313,6 +28326,7 @@ frictions
 friedcake
 friend
 friended
+friending
 friendlies
 friendliest
 friendlinesses
@@ -33309,6 +33323,7 @@ hoicking
 hoicks
 hoidened
 hoidening
+hoise
 hoist
 hoister
 hoisting
@@ -34037,6 +34052,7 @@ humps
 hums
 humus
 humvee
+humvees
 hun
 hunchback
 hunchbacks
@@ -34518,6 +34534,7 @@ hypotensive
 hypothalamic
 hypothalamus
 hypothecated
+hypothecates
 hypothecation
 hypothecations
 hypothecator
@@ -42535,6 +42552,7 @@ marseille
 marseilles
 marsh
 marshaled
+marshaling
 marshalled
 marshalls
 marshalships
@@ -43722,6 +43740,7 @@ microcassette
 microcephalic
 microcephalies
 microcephaly
+microcircuit
 microclimate
 microclimatic
 microcline
@@ -45224,6 +45243,7 @@ monofils
 monogamies
 monogamist
 monogamists
+monogastric
 monogeneans
 monogenetic
 monogenically
@@ -46256,6 +46276,7 @@ muzzlers
 muzzles
 muzzling
 muzzy
+my
 myalgia
 myalgias
 myalgic
@@ -59141,6 +59162,7 @@ ratification
 ratifications
 ratifiers
 ratify
+ratifying
 ratines
 rating
 ratings
@@ -59754,6 +59776,7 @@ recommence
 recommencements
 recommences
 recommencing
+recommend
 recommendable
 recommendations
 recommenders
@@ -61537,6 +61560,7 @@ repumps
 repunctuations
 repurchase
 repurchases
+repurchasing
 repurified
 repurifies
 repurifying
@@ -65220,6 +65244,7 @@ secondariness
 seconded
 seconder
 secondes
+secondhand
 seconding
 seconds
 secretagogue
@@ -66161,6 +66186,7 @@ shaslik
 shat
 shattered
 shatteringly
+shaugh
 shaughs
 shaul
 shauled
@@ -68206,6 +68232,7 @@ sobers
 sobersidedness
 sobrieties
 sobriquet
+sobriquets
 sobs
 socagers
 socas
@@ -69166,6 +69193,7 @@ spinals
 spindle
 spindlers
 spindles
+spindlier
 spindliest
 spindling
 spindly
@@ -69232,6 +69260,7 @@ spirituel
 spirituous
 spirochaetes
 spirochete
+spirochetosis
 spiroid
 spirometric
 spirometries
@@ -72930,6 +72959,7 @@ tacker
 tackiest
 tackified
 tackifier
+tackifiers
 tackify
 tackiness
 tackinesses
@@ -73877,6 +73907,7 @@ teopans
 teosinte
 tepa
 tepal
+tepals
 tepee
 tepefies
 tepefy
@@ -74057,6 +74088,7 @@ tetanoid
 tetanus
 tetched
 tetchiest
+tetchiness
 tetchy
 tether
 tetherballs
@@ -74824,6 +74856,7 @@ timepiece
 timepieces
 timer
 timesaver
+timeserver
 timeserving
 timeservings
 timetable
@@ -78020,6 +78053,7 @@ undulations
 undulators
 undutifully
 undutifulnesses
+undying
 uneagerly
 unearned
 unearthing
@@ -81543,6 +81577,7 @@ weirdnesses
 weirdo
 weirdy
 weirs
+weisenheimer
 weisenheimers
 weka
 welched
