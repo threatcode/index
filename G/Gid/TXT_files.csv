@@ -28,3 +28,13 @@ idutils.txt - GNU.org,http://www.gnu.org/s/idutils/manual/idutils.txt
 udevil.conf,https://ignorantguru.github.io/udevil/udevil.conf.txt
 HX5119 - IUCr Journals,https://journals.iucr.org/j/issues/2011/03/00/hx5119/hx5119sup1.txt
 r-iw.mtree.sub.txt - Call For Testing,https://callfortesting.org/results/bos-11.1R/f7944f8778311d4edd6e1be910b3fdee/r-iw.mtree.sub.txt
+credentials.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/security/credentials.txt
+uid-gid.txt « files - data/api.git - Seed data for api.gentoo.org,https://gitweb.gentoo.org/data/api.git/tree/files/uid-gid.txt
+RFC 4392 - IETF,https://www.ietf.org/rfc/rfc4392.txt
+gid/gid.txt at master · zertovitch/gid - GitHub,https://github.com/zertovitch/gid/blob/master/gid.txt
+nfsv4-uid-gid-nobody-prob,https://web.itu.edu.tr/~yucesoyb/nfsv4-uid-gid-nobody-prob.txt
+RFC 4391,https://www.rfc-editor.org/rfc/rfc4391.txt
+jfs.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/filesystems/jfs.txt
+groupadd.txt,https://dvdheiden.nl/files/manpages/groupadd.txt
+RFC 5003,https://www.rfc-editor.org/rfc/rfc5003.txt
+DRAFT # Recommended UID/GIDs for use with SlackBuilds.org,https://slackbuilds.org/uid_gid.txt

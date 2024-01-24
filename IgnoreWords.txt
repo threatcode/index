@@ -1121,6 +1121,7 @@ aftertimes
 afterwards
 afterwords
 afterworld
+afterworlds
 aftosa
 aftosas
 ag
@@ -1793,6 +1794,7 @@ almah
 almahs
 almanac
 almandine
+almandites
 almas
 alme
 almeh
@@ -5456,6 +5458,7 @@ banshie
 banshies
 bantamweight
 bantamweights
+banter
 bantered
 banterers
 banties
@@ -10855,6 +10858,7 @@ cassettes
 cassia
 cassimeres
 cassinas
+cassines
 cassino
 cassiterite
 cassiterites
@@ -10864,6 +10868,7 @@ castability
 castanet
 castanets
 castaway
+caste
 castellans
 castellated
 caster
@@ -13016,6 +13021,7 @@ clink
 clinkers
 clinometer
 clinquants
+clintonia
 cliometric
 cliometrician
 cliometricians
@@ -17590,6 +17596,7 @@ dallied
 dalliers
 dallies
 dally
+dallying
 dalmatian
 dalmatians
 dalmatic
@@ -23125,6 +23132,7 @@ elementals
 elementarily
 elementary
 elenchi
+elenchic
 elenchus
 eleoptene
 elephant
@@ -24839,6 +24847,7 @@ eternise
 eternises
 eternising
 eternities
+eternizations
 eternizes
 ethambutol
 ethanes
@@ -30242,6 +30251,7 @@ gibed
 gibing
 gibingly
 giblet
+gid
 giddied
 giddies
 giddinesses
@@ -32313,6 +32323,7 @@ halloo
 hallooing
 halloos
 hallot
+halloth
 hallowed
 hallower
 halluces
@@ -32330,6 +32341,7 @@ hallways
 halm
 halo
 halocarbons
+halocline
 halogenate
 halogenating
 halogenation
@@ -34278,11 +34290,13 @@ hornswoggling
 hornwort
 hornworts
 horny
+horologe
 horologer
 horologers
 horological
 horologist
 horology
+horoscope
 horoscopes
 horrendous
 horribleness
@@ -36219,6 +36233,7 @@ incredulities
 incredulity
 increment
 incrementalism
+incrementalist
 incrementally
 increments
 incriminate
@@ -44225,6 +44240,7 @@ mestizos
 met
 meta
 metabolic
+metabolisms
 metabolite
 metabolizable
 metabolize
@@ -45167,6 +45183,7 @@ mischaracterize
 mischarge
 mischiefs
 mischievousness
+mischoose
 mischoosing
 mischose
 mischosen
@@ -45743,6 +45760,7 @@ moderated
 moderates
 moderating
 moderation
+moderations
 moderatorships
 moderatos
 modernisations
@@ -46335,6 +46353,7 @@ mortared
 mortarman
 mortars
 mortgagees
+mortgager
 mortgaging
 mortgagor
 mortgagors
@@ -47479,6 +47498,7 @@ naumachy
 nauplii
 nauplius
 nauseant
+nauseants
 nauseated
 nauseates
 nauseating
@@ -48441,6 +48461,7 @@ noncoms
 nonconcern
 nonconcerns
 nonconcur
+nonconcurrence
 nonconcurrences
 nonconcurrent
 nonconcurring
@@ -51881,6 +51902,7 @@ overrides
 overrife
 overripe
 overroast
+overroasting
 overrude
 overruffed
 overruffs
@@ -63353,6 +63375,7 @@ reunionistic
 reunionists
 reunites
 reupholstered
+reupholsters
 reusabilities
 reusability
 reused
@@ -64301,6 +64324,7 @@ rotaries
 rotating
 rotation
 rotations
+rotator
 rotators
 rotch
 rotche
@@ -65049,6 +65073,7 @@ samara
 samaras
 samaritan
 samarium
+samarskite
 samarskites
 samba
 sambaed
@@ -65188,6 +65213,7 @@ santeros
 santimi
 santims
 santir
+santoor
 santoors
 sapanwoods
 saphead
@@ -65504,6 +65530,7 @@ scalares
 scalariform
 scalariformly
 scalars
+scalation
 scalations
 scalawags
 scald
@@ -67032,6 +67059,7 @@ servant
 servanthoods
 servantless
 serve
+service
 serviceably
 serviceberry
 servicemen
@@ -67761,6 +67789,7 @@ showgirl
 showman
 showmanly
 shown
+showpieces
 showplace
 showring
 showrings
@@ -70085,6 +70114,7 @@ spathose
 spathulate
 spatial
 spatialities
+spatially
 spatiotemporal
 spatter
 spatterdock
@@ -71281,6 +71311,7 @@ stenohaline
 stenokous
 stenoses
 stenotherms
+stenotic
 stenotopic
 stenotyped
 stenotypies
@@ -75348,6 +75379,7 @@ tetchiest
 tetchiness
 tetchy
 tether
+tetherball
 tetherballs
 tethers
 teths
@@ -76483,6 +76515,7 @@ tongmen
 tongues
 tonic
 tonically
+tonicities
 tonicity
 tonics
 toniest
@@ -76697,6 +76730,7 @@ totalisms
 totalitarianize
 totalities
 totality
+totalizator
 totalized
 totalizers
 totaquine
@@ -79831,6 +79865,7 @@ unlocks
 unloosen
 unloosening
 unlooses
+unloosing
 unlovelier
 unloveliness
 unlovely
