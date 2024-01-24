@@ -42,6 +42,7 @@ abridgements
 abridger
 abrogable
 abrogate
+abrogated
 abrogating
 abrogation
 abrogations
@@ -1020,6 +1021,7 @@ affectless
 affectlessness
 affects
 afferent
+affiches
 affidavit
 affiliate
 affiliates
@@ -1502,6 +1504,7 @@ alchemic
 alchemistic
 alchemistical
 alchemists
+alchemized
 alchemizes
 alchemizing
 alchymies
@@ -2771,6 +2774,7 @@ antibiotic
 antiblackism
 antiblackisms
 antibody
+antiboss
 antibourgeois
 antiboycott
 antibuser
@@ -3338,6 +3342,7 @@ appetite
 appetites
 appetitive
 applaudable
+applaudably
 applauders
 applauding
 applauds
@@ -5865,6 +5870,7 @@ bdellium
 bdelliums
 beach
 beachballs
+beachboys
 beachcombed
 beachcombers
 beachcombing
@@ -7273,6 +7279,7 @@ bittock
 bitty
 bitumen
 bitumens
+bituminize
 bituminizing
 bituminous
 bivalence
@@ -21570,6 +21577,7 @@ doodoos
 doofus
 doohickey
 doohickeys
+doolies
 dooly
 doomfully
 doomier
@@ -25026,6 +25034,7 @@ euphausids
 euphausiids
 euphemise
 euphemises
+euphemism
 euphemisms
 euphemist
 euphemistic
@@ -32349,6 +32358,7 @@ hallelujah
 halliard
 halliards
 hallmark
+hallmarking
 hallmarks
 hallo
 halloaing
@@ -36922,6 +36932,7 @@ injuriousness
 injuriousnesses
 injury
 injustice
+injustices
 ink
 inkberry
 inkblot
@@ -39427,6 +39438,7 @@ khis
 ki
 kiangs
 kibbeh
+kibbis
 kibbitzers
 kibbitzes
 kibbitzing
@@ -42154,6 +42166,7 @@ lowland
 lowlander
 lowlanders
 lowlands
+lowliest
 lowlife
 lowlight
 lowlights
@@ -44063,6 +44076,7 @@ menshes
 menstrual
 menstrually
 menstruation
+menstruations
 mensurabilities
 mensural
 mensuration
@@ -45642,6 +45656,7 @@ misthrows
 mistier
 mistiest
 mistimed
+mistimes
 mistiming
 mistitling
 mistook
@@ -46165,6 +46180,7 @@ monosteles
 monostelic
 monostich
 monosyllabicity
+monotint
 monotints
 monotone
 monotones
@@ -48668,6 +48684,7 @@ nonfluorescent
 nonforfeitable
 nonforfeitures
 nonformal
+nonfreezing
 nonfulfillments
 nonfunctional
 nonfunctioning
@@ -53013,6 +53030,7 @@ parietal
 parish
 parishioner
 parka
+parkette
 parkettes
 parkings
 parkinsonian
@@ -53371,6 +53389,7 @@ patroon
 pats
 pattamar
 pattee
+patten
 pattened
 pattens
 patterer
@@ -54606,6 +54625,7 @@ phoebes
 phoebus
 phoebuses
 phoenixes
+phon
 phonal
 phonate
 phonated
@@ -55885,6 +55905,7 @@ plumulose
 plumy
 plundering
 plunger
+plungers
 plunkers
 pluperfect
 pluperfects
@@ -56666,6 +56687,7 @@ postponable
 postponements
 postpones
 postposes
+postpositional
 postpositive
 postprimary
 postprison
@@ -56946,6 +56968,7 @@ prearms
 prearrange
 prearrangement
 prearranges
+prearranging
 preassigned
 preassigning
 preassigns
@@ -59376,6 +59399,7 @@ qadi
 qadis
 qaids
 qat
+qats
 qindar
 qindarka
 qintar
@@ -60796,6 +60820,7 @@ recits
 reck
 reckless
 recklessness
+recladded
 recladding
 reclads
 reclaim
@@ -65087,6 +65112,7 @@ saltpans
 saltpeters
 saltpetre
 saltshaker
+saltwork
 salty
 salubriousness
 salubrities
@@ -71773,6 +71799,7 @@ stormiest
 stormily
 storyboards
 storybook
+storyteller
 storytelling
 storytellings
 stotin
@@ -75304,6 +75331,7 @@ terminal
 terminate
 terminated
 terminates
+terminating
 termination
 terminatively
 terminator
@@ -76251,6 +76279,7 @@ tinge
 tinges
 tingle
 tinglers
+tingling
 tings
 tinhorn
 tinhorns
@@ -76277,6 +76306,7 @@ tinnituses
 tins
 tinsel
 tinseling
+tinselly
 tinsmithing
 tinsmithings
 tinstones
@@ -77859,6 +77889,7 @@ tropaeola
 trope
 tropeolin
 tropes
+trophically
 trophied
 trophies
 trophoblast
@@ -83134,6 +83165,7 @@ wet
 wetbacks
 wether
 wethers
+wetnesses
 wetsuits
 wettabilities
 wetted
@@ -83890,6 +83922,7 @@ womanhoods
 womaning
 womanises
 womanishness
+womanist
 womanize
 womanizer
 womanizers
@@ -84710,6 +84743,7 @@ zincking
 zincs
 zinebs
 zines
+zinfandel
 zingani
 zingare
 zingari
@@ -84834,6 +84868,7 @@ zucchini
 zugzwang
 zwitterion
 zydeco
+zygapophyses
 zygapophysis
 zygodactyl
 zygomata
