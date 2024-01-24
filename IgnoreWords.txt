@@ -2806,6 +2806,7 @@ anticorrosion
 anticorrosive
 anticorrosives
 anticorruption
+anticrime
 anticruelty
 antics
 anticult
@@ -5159,6 +5160,7 @@ bagasse
 bagasses
 bagel
 bagful
+baggage
 baggers
 baggie
 baggier
@@ -10446,6 +10448,7 @@ caravanning
 caravans
 caravanserais
 caravel
+caravelle
 caraway
 carb
 carbamate
@@ -18238,6 +18241,7 @@ decrepit
 decrepitated
 decrepitations
 decrepitly
+decrepitudes
 decrescendos
 decrescent
 decretive
@@ -21647,6 +21651,7 @@ doupioni
 doupionis
 douppioni
 dour
+doura
 dourah
 dourahs
 douras
@@ -23288,6 +23293,7 @@ embowelling
 embowels
 embower
 embowering
+embowing
 embraced
 embracement
 embraceor
@@ -23816,6 +23822,7 @@ engraftment
 engrailing
 engrails
 engram
+engramme
 engrammes
 engrave
 engraved
@@ -26690,6 +26697,7 @@ ferrites
 ferritin
 ferrocene
 ferrocenes
+ferroconcrete
 ferrocyanide
 ferroelectrics
 ferromanganese
@@ -28417,6 +28425,7 @@ fosse
 fosses
 fossette
 fossick
+fossiliferous
 fossilise
 fossilization
 fossilize
@@ -30305,6 +30314,7 @@ girdled
 girdler
 girdlers
 girdling
+girlhood
 girlier
 girlies
 girls
@@ -30983,6 +30993,7 @@ goslings
 gospel
 gospeller
 gospellers
+gospels
 gossamery
 gossans
 gossipmonger
@@ -31847,6 +31858,7 @@ gulpers
 gulpiest
 gulpingly
 gulps
+gulpy
 gum
 gumball
 gumballs
@@ -32652,6 +32664,7 @@ hastens
 hastes
 hastier
 hastiest
+hastiness
 hatbox
 hatcheck
 hatchecks
@@ -35213,6 +35226,7 @@ idiopathic
 idiopathy
 idioplasms
 idiosyncrasy
+idiot
 idiotic
 idiotical
 idiotisms
@@ -36221,6 +36235,7 @@ indecorum
 indeed
 indefatigable
 indefeasibility
+indefeasible
 indefectibility
 indefectible
 indefensibility
@@ -40069,6 +40084,7 @@ lammergeyers
 lamp
 lampblack
 lamperses
+lamping
 lampion
 lampions
 lamplight
@@ -40999,6 +41015,7 @@ librarianship
 libraries
 library
 libras
+librate
 librates
 librational
 librations
@@ -44980,6 +44997,7 @@ misact
 misacted
 misacts
 misadapted
+misadded
 misadding
 misaddressed
 misaddresses
@@ -50306,6 +50324,7 @@ original
 originalities
 originally
 originate
+originations
 originator
 originators
 origins
@@ -51224,6 +51243,7 @@ ovenlike
 ovens
 ovenwares
 over
+overabundance
 overachieved
 overachiever
 overachievers
@@ -56113,6 +56133,7 @@ polypnea
 polypodies
 polypore
 polypous
+polyps
 polyptychs
 polypus
 polypuses
@@ -58991,6 +59012,7 @@ purtenance
 purtenances
 purtiest
 purvey
+purveyance
 purveyor
 purveyors
 purview
@@ -63698,6 +63720,7 @@ riflemen
 rifleries
 riflers
 rifles
+riflings
 rifs
 rift
 rig
@@ -65561,6 +65584,7 @@ sceptre
 sceptred
 schadenfreudes
 schappe
+schatchen
 schav
 schavs
 scheduler
@@ -66266,6 +66290,7 @@ sections
 sector
 sectoral
 sectored
+sectorial
 sectoring
 secularise
 secularising
@@ -66317,6 +66342,7 @@ seductions
 seductively
 seductivenesses
 sedulity
+sedulously
 sedulousness
 sedum
 sedums
@@ -66628,6 +66654,7 @@ sen
 senarii
 senarius
 senatorian
+sendable
 sended
 sender
 sendoffs
@@ -67360,6 +67387,7 @@ shiftlessnesses
 shifts
 shifty
 shigella
+shigellae
 shigellas
 shiitake
 shiitakes
@@ -71923,6 +71951,7 @@ stubbily
 stubbled
 stubbles
 stubborn
+stubborner
 stubbornness
 stubby
 stuccoed
@@ -74523,6 +74552,7 @@ tattered
 tattier
 tatties
 tattiest
+tattily
 tattiness
 tattinesses
 tattings
@@ -74948,6 +74978,7 @@ tenantless
 tenants
 tend
 tendances
+tenderhearted
 tenderization
 tenderizations
 tenderize
@@ -76233,6 +76264,7 @@ toggeries
 togging
 toggled
 toggler
+togglers
 togues
 toil
 toiled
@@ -81493,6 +81525,7 @@ viands
 viatic
 viatica
 viatical
+viaticals
 viaticums
 viators
 vibe
@@ -81846,6 +81879,7 @@ vituperating
 vituperation
 vituperative
 vituperatively
+vituperators
 vituperatory
 viva
 vivace
@@ -82944,6 +82978,7 @@ wheatless
 wheatworm
 wheedle
 wheedler
+wheel
 wheelbarrow
 wheelbarrowing
 wheelbarrows
