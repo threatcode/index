@@ -892,6 +892,7 @@ advisements
 adviser
 advises
 advising
+advisor
 advisories
 advisors
 advisory
@@ -5710,6 +5711,7 @@ basaltine
 bascule
 baseballs
 baseboard
+baseboards
 baseborn
 based
 baseliner
@@ -6904,6 +6906,7 @@ bigoses
 bigot
 bigs
 bigstick
+bigtime
 bihourly
 bijections
 bijective
@@ -7004,6 +7007,7 @@ binaries
 binarism
 binarisms
 binate
+binaurally
 bind
 binderies
 bindery
@@ -7611,6 +7615,7 @@ bloodfin
 bloodfins
 bloodguilt
 bloodguilts
+bloodguilty
 bloodhounds
 bloodied
 bloodier
@@ -10972,6 +10977,7 @@ cataclysmically
 catacomb
 catacombs
 catalases
+catalepsy
 cataleptics
 catalexis
 catalo
@@ -13653,6 +13659,7 @@ coffees
 cofferdam
 coffering
 coffers
+coffin
 coffined
 coffing
 coffining
@@ -19741,6 +19748,7 @@ devilment
 devilments
 devilries
 devilry
+deviltries
 devilwoods
 deviously
 deviousnesses
@@ -34123,6 +34131,7 @@ hokypokies
 holandric
 holard
 holdable
+holdall
 holden
 holding
 holdings
@@ -35575,6 +35584,7 @@ ikon
 ileal
 ileitides
 ileostomies
+ileus
 ilexes
 ilia
 iliac
@@ -42200,6 +42210,7 @@ looninesses
 loony
 loop
 looper
+loopers
 loophole
 loopholed
 loopholing
@@ -43330,6 +43341,7 @@ manoeuvred
 manometric
 manometry
 manorialism
+manorialisms
 manos
 manpack
 manpower
@@ -43385,6 +43397,7 @@ mapped
 mapper
 mappings
 maquette
+maquiladora
 maquilas
 maquillage
 mar
@@ -46314,6 +46327,7 @@ monodic
 monodical
 monodramas
 monoecism
+monofil
 monofilament
 monofilaments
 monofils
@@ -47950,6 +47964,7 @@ negativists
 negativity
 negator
 negators
+negatron
 negatrons
 neglect
 neglectors
@@ -48642,6 +48657,7 @@ nonalphabetic
 nonanalytic
 nonanatomic
 nonanswers
+nonappearance
 nonappearances
 nonaquatic
 nonaqueous
@@ -49543,6 +49559,7 @@ nucleations
 nucleator
 nuclei
 nuclein
+nucleocapsid
 nucleoid
 nucleolar
 nucleole
@@ -50494,6 +50511,7 @@ ophthalmias
 ophthalmologic
 ophthalmologies
 ophthalmologist
+ophthalmology
 ophthalmoscopic
 ophthalmoscopy
 opiate
@@ -51055,6 +51073,7 @@ outcaviled
 outcavilled
 outcavilling
 outcharged
+outcheat
 outcheated
 outchid
 outchidden
@@ -56337,6 +56356,7 @@ pokeroots
 pokers
 pokes
 pokeweeds
+pokey
 pokier
 pokies
 pokiest
@@ -56494,6 +56514,7 @@ polydipsic
 polydispersity
 polyembryony
 polyesters
+polyestrous
 polyethylene
 polygalas
 polygamies
@@ -63989,6 +64010,7 @@ rhapsodized
 rhatanies
 rheas
 rhebok
+rheme
 rhemes
 rhenium
 rheniums
@@ -64158,6 +64180,7 @@ ridden
 ridding
 riddle
 riddled
+riddler
 riddlers
 riddling
 ride
@@ -64992,6 +65015,7 @@ rumples
 rumpless
 rumply
 rumpus
+rumpuses
 rums
 run
 runabout
@@ -65722,6 +65746,7 @@ sarsnet
 sarsnets
 sartor
 sartorially
+sartorii
 sartors
 sashayed
 sashaying
@@ -65755,6 +65780,7 @@ satiated
 satiation
 satieties
 satin
+satinwood
 satinwoods
 satires
 satirical
@@ -68517,6 +68543,7 @@ silenus
 silex
 silhouettes
 silica
+silicas
 silicide
 silicifications
 silicifying
@@ -69569,6 +69596,7 @@ snake
 snakebird
 snakebit
 snakebite
+snakebites
 snakeroot
 snakes
 snakeskin
@@ -78461,6 +78489,7 @@ tubbed
 tubbier
 tubby
 tubelike
+tubenose
 tubercular
 tuberculin
 tuberculoses
@@ -80937,6 +80966,7 @@ untwines
 untwining
 untwist
 untwisted
+untying
 untypically
 ununbium
 ununited
@@ -81124,6 +81154,7 @@ upland
 upleap
 upleaped
 uplift
+uplifts
 uplighting
 uplink
 uplinks
@@ -81226,6 +81257,7 @@ uptempo
 upthrowing
 upthrows
 upthrusted
+upthrusting
 upthrusts
 uptightness
 uptime
@@ -81863,6 +81895,7 @@ vendace
 vendaces
 vended
 vendee
+vendibles
 vendibly
 vendition
 venditions
@@ -82174,6 +82207,7 @@ vibrato
 vibrators
 vibrios
 vibrioses
+vibrissal
 vicar
 vicarage
 vicarages
@@ -83537,6 +83571,7 @@ wellsite
 welly
 welsh
 welshes
+welted
 welter
 welterweights
 weltschmerz
