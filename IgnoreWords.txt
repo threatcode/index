@@ -642,6 +642,7 @@ adepts
 adequately
 adequatenesses
 adhere
+adherence
 adherences
 adherends
 adherent
@@ -1650,6 +1651,7 @@ alkalifying
 alkalimetries
 alkaline
 alkalinities
+alkalinity
 alkalis
 alkalised
 alkalizes
@@ -2066,6 +2068,7 @@ amines
 amino
 aminopeptidases
 aminophylline
+aminopterin
 aminopterins
 aminopyrines
 amins
@@ -3081,6 +3084,7 @@ antivenins
 antiviolence
 antivirus
 antivitamin
+antiweed
 antiwhaling
 antlered
 antlers
@@ -10476,6 +10480,7 @@ captures
 capturing
 capuched
 capuches
+capuchin
 capuchins
 caput
 carabao
@@ -11581,6 +11586,7 @@ challengers
 challenging
 challies
 challises
+challot
 challoth
 chalone
 chalones
@@ -13365,6 +13371,7 @@ coastguardman
 coastguardmen
 coastguards
 coasting
+coastland
 coastline
 coastlines
 coastward
@@ -14480,6 +14487,7 @@ conceited
 conceiting
 conceits
 conceivability
+conceivable
 conceivably
 conceivers
 conceives
@@ -21079,6 +21087,7 @@ disrupt
 disrupted
 disrupters
 disrupting
+disruptor
 dissatisfaction
 dissatisfactory
 dissatisfies
@@ -22114,6 +22123,7 @@ dressers
 dresses
 dressier
 dressiest
+dressily
 dressiness
 dressinesses
 dressing
@@ -22235,6 +22245,7 @@ drowsiest
 drowsily
 drowsiness
 drowsy
+drub
 drubbed
 drubs
 drudge
@@ -23262,6 +23273,7 @@ element
 elementally
 elementals
 elementarily
+elementariness
 elementary
 elenchi
 elenchic
@@ -27541,6 +27553,7 @@ flagrantly
 flagship
 flagstaff
 flagstick
+flails
 flair
 flairs
 flake
@@ -29569,6 +29582,7 @@ galette
 galettes
 galilee
 galilees
+galingale
 galiot
 galivant
 gallamines
@@ -30741,6 +30755,7 @@ glitz
 glitzed
 glitzier
 glitziest
+glitzing
 gloaming
 gloamings
 gloams
@@ -35375,6 +35390,7 @@ icekhanas
 iceless
 icelike
 icemaker
+icemakers
 iceman
 ich
 ichneumons
@@ -36039,6 +36055,7 @@ impressed
 impressible
 impressionable
 impressionism
+impressionistic
 impressionists
 impressions
 impressive
@@ -37369,6 +37386,7 @@ institutionally
 institutions
 institutor
 institutors
+instruct
 instructed
 instructing
 instruction
@@ -41872,6 +41890,7 @@ loadstone
 loaf
 loafer
 loafers
+loamiest
 loaminess
 loamless
 loamy
@@ -44366,6 +44385,7 @@ mermaids
 mermen
 merocrine
 meropic
+merozoite
 merrier
 merriments
 merriness
@@ -46648,6 +46668,7 @@ mossiness
 mossing
 mossy
 most
+mostly
 mot
 motet
 motets
@@ -49838,6 +49859,7 @@ obsidian
 obsolesce
 obsolescent
 obsolescently
+obsolesces
 obsolescing
 obsoleted
 obsoletely
@@ -54208,6 +54230,7 @@ peregrinating
 peregrination
 peregrinations
 peregrine
+peregrines
 peregrins
 pereia
 pereion
@@ -55496,6 +55519,7 @@ pinups
 pinwales
 pinweed
 pinwheel
+pinwheeling
 pinwork
 pinworks
 pinworms
@@ -60194,6 +60218,7 @@ rafter
 raftered
 rafters
 rag
+raga
 ragamuffin
 raged
 ragee
@@ -63147,6 +63172,7 @@ resew
 resewed
 resewn
 resews
+reshape
 reshaped
 reshapers
 resharpen
@@ -66077,6 +66103,7 @@ schizont
 schizonts
 schizophrenes
 schizophrenia
+schizophrenic
 schizopod
 schizos
 schizzier
@@ -67903,6 +67930,7 @@ shinned
 shinnery
 shinney
 shinneyed
+shinnied
 shinnies
 shinny
 shinplaster
@@ -69885,6 +69913,7 @@ soggiest
 sogginess
 sogginesses
 soggy
+soigne
 soignee
 soil
 soiled
@@ -75905,6 +75934,7 @@ thecodont
 thecodonts
 theft
 thefts
+thegn
 thegnly
 thegns
 theine
@@ -76560,6 +76590,7 @@ timidity
 timidly
 timidness
 timidnesses
+timing
 timings
 timocracy
 timorousness
@@ -76600,6 +76631,7 @@ tinklier
 tinkliest
 tinkling
 tinklings
+tinkly
 tinlike
 tinmen
 tinner
@@ -81431,6 +81463,7 @@ vagile
 vaginally
 vaginated
 vaginitis
+vaginitises
 vagotomies
 vagotomy
 vagotonia
@@ -81826,6 +81859,7 @@ vengeance
 vengeances
 venged
 vengefully
+vengefulnesses
 venging
 venires
 venison
@@ -82160,6 +82194,7 @@ videocassette
 videocassettes
 videodisc
 videodisk
+videodisks
 videographers
 videographies
 videolands
