@@ -3805,6 +3805,7 @@ aroints
 aroma
 aromatherapies
 aromatherapist
+aromatic
 aromatics
 aromatizations
 aromatized
@@ -5617,6 +5618,7 @@ barkier
 barkiest
 barking
 barky
+barleducs
 barleycorn
 barleycorns
 barlow
@@ -11482,6 +11484,7 @@ certified
 certifies
 certiorari
 certioraris
+certitude
 certitudes
 cerulean
 ceruleans
@@ -12107,6 +12110,7 @@ chilidogs
 chilled
 chiller
 chillers
+chillest
 chilli
 chillier
 chillies
@@ -13742,6 +13746,7 @@ cohobated
 cohobates
 coholder
 coholders
+cohomological
 cohos
 cohosh
 cohost
@@ -15423,6 +15428,7 @@ cooperates
 cooperatively
 cooperator
 cooperies
+coopt
 coopted
 coopting
 cooption
@@ -16653,6 +16659,7 @@ criminal
 criminality
 criminalization
 criminalize
+criminalized
 criminalizes
 criminally
 criminate
@@ -17983,6 +17990,7 @@ dazedness
 dazednesses
 dazes
 dazing
+dazzlers
 dazzling
 de
 deacidification
@@ -22514,6 +22522,7 @@ duperies
 dupers
 dupery
 duping
+duple
 duplexer
 duplexities
 duplicate
@@ -23989,6 +23998,7 @@ enfettering
 enfetters
 enfever
 enfevered
+enfevers
 enfiladed
 enfilading
 enflamed
@@ -25306,6 +25316,7 @@ everlasting
 everlastingly
 everlastingness
 everlastings
+eversible
 eversions
 evert
 everting
@@ -27965,6 +27976,7 @@ florilegia
 florilegium
 floristic
 floristically
+floristries
 floss
 flossed
 flossies
@@ -31096,6 +31108,7 @@ goggled
 goggler
 goggles
 goggly
+goglet
 goglets
 gogo
 gogos
@@ -31182,6 +31195,7 @@ gonorrheal
 gonorrheas
 gonzo
 good
+goodbys
 goodish
 goodlier
 goodliest
@@ -32787,6 +32801,7 @@ happiest
 happily
 happinesses
 happing
+haps
 hapten
 haptene
 haptenic
@@ -41596,6 +41611,7 @@ limped
 limper
 limpers
 limpet
+limpidities
 limpidity
 limpidly
 limpkins
@@ -41865,7 +41881,9 @@ littermates
 littery
 littlenecks
 littleness
+littlish
 litu
+liturgic
 liturgical
 liturgies
 liturgiologies
@@ -42211,6 +42229,7 @@ longways
 loo
 loobies
 looby
+looey
 loofah
 loofahs
 loofas
@@ -45649,6 +45668,7 @@ misfunctioning
 misfunctions
 misgauge
 misgauged
+misgive
 misgiven
 misgiving
 misgivings
@@ -45901,6 +45921,7 @@ missuses
 missy
 mistakable
 mistakenly
+mistakers
 mistaking
 misteaching
 mistend
@@ -47232,6 +47253,7 @@ munificent
 muniment
 munition
 muns
+munsters
 muntin
 munting
 muntins
@@ -50420,6 +50442,7 @@ onuses
 onward
 onwards
 onychophoran
+onychophorans
 onyxes
 oocyst
 oocyte
@@ -52849,6 +52872,7 @@ palladic
 palladium
 pallbearers
 pallet
+palleting
 palletised
 palletises
 palletising
@@ -53600,6 +53624,7 @@ patchoulies
 patchoulis
 patchouly
 patchworked
+patchy
 patellate
 patelliform
 paten
@@ -55943,6 +55968,7 @@ plate
 plateau
 plateaued
 plateauing
+plateaus
 platelets
 platemaking
 platemakings
@@ -59803,6 +59829,7 @@ quagmiry
 quags
 quahaug
 quahog
+quahogs
 quai
 quaich
 quaiches
@@ -60044,6 +60071,7 @@ quintar
 quintas
 quinte
 quintessence
+quintessences
 quintet
 quintile
 quintiles
@@ -60822,6 +60850,7 @@ reallocating
 reallocations
 reallot
 reallotting
+realness
 realpolitik
 realpolitiks
 realtering
@@ -64511,6 +64540,7 @@ robbins
 robe
 robed
 robes
+roborants
 robotic
 robotism
 robotizations
@@ -66715,6 +66745,7 @@ seafarer
 seafloor
 seafoods
 seafowls
+seafront
 seafronts
 seagoing
 seagulls
@@ -73488,6 +73519,7 @@ sumps
 sumpter
 sumpters
 sumptuary
+sumpweed
 sumpweeds
 sun
 sunbaked
@@ -80977,6 +81009,7 @@ untransformed
 untranslatable
 untranslated
 untrapped
+untraveled
 untreated
 untrim
 untrims
@@ -81208,6 +81241,7 @@ uppile
 uppiling
 uppings
 uppishness
+uppishnesses
 uppitiness
 uppity
 uppropping
@@ -82701,6 +82735,7 @@ volcanologies
 volcanos
 voleries
 volery
+voles
 volitions
 volitive
 volkslied
