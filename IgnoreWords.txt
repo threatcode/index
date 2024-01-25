@@ -2243,6 +2243,7 @@ anaclisis
 anaclitic
 anacoluthic
 anacoluthically
+anacoluthon
 anacreontic
 anacreontics
 anacruses
@@ -6509,6 +6510,7 @@ benzidines
 benzimidazole
 benzimidazoles
 benzins
+benzoapyrenes
 benzoates
 benzocaine
 benzocaines
@@ -10278,6 +10280,7 @@ cannibalizes
 cannibalizing
 cannier
 canninesses
+canning
 cannolis
 cannonade
 cannonaded
@@ -14243,6 +14246,7 @@ commonweals
 commonwealth
 commotion
 commotions
+commoved
 commoving
 communal
 communalism
@@ -17759,6 +17763,7 @@ damascenes
 damascening
 damask
 damasked
+damaskeened
 damasking
 damasks
 dame
@@ -17934,6 +17939,7 @@ datura
 daub
 daube
 dauber
+daubers
 daubery
 daubiest
 daubries
@@ -24011,6 +24017,7 @@ enfevered
 enfevers
 enfiladed
 enfilading
+enflame
 enflamed
 enflaming
 enfold
@@ -25678,6 +25685,7 @@ existential
 existentially
 existing
 exited
+exiting
 exitless
 exits
 exobiologist
@@ -26916,6 +26924,7 @@ feoffs
 fer
 feracities
 feracity
+fere
 feres
 feriae
 ferial
@@ -31407,6 +31416,7 @@ gradualnesses
 graduand
 graduands
 graduate
+graduates
 graduation
 gradus
 graduses
@@ -32153,6 +32163,7 @@ gulfweeds
 gull
 gullably
 gulled
+gullet
 gullets
 gulley
 gulling
@@ -33134,6 +33145,7 @@ headlessness
 headlights
 headline
 headliners
+headlock
 headlocks
 headmasterships
 headmen
@@ -34314,6 +34326,7 @@ hominies
 hominine
 hominize
 hominized
+hominizes
 hominoids
 hommoses
 homocercies
@@ -34539,6 +34552,7 @@ hornblendes
 hornedness
 hornednesses
 hornfels
+hornier
 horniest
 horning
 hornings
@@ -34912,6 +34926,7 @@ hunchback
 hunchbacks
 hunched
 hunching
+hundreds
 hundredweights
 hungered
 hungering
@@ -40023,6 +40038,7 @@ knotter
 knottiest
 knottily
 knotweed
+knouting
 knower
 knowers
 knowinger
@@ -41235,6 +41251,7 @@ letterboxed
 letterboxes
 letterboxing
 letterboxings
+letterer
 letterers
 letterform
 letterforms
@@ -45748,6 +45765,7 @@ mislaying
 mislead
 misleader
 misleared
+mislearn
 mislearned
 mislie
 mislies
@@ -48507,6 +48525,7 @@ nimbostratus
 nimbyness
 nimmed
 ninebark
+ninebarks
 ninepins
 nineteen
 nineteens
@@ -50383,6 +50402,7 @@ omnicompetences
 omnifarious
 omnific
 omnificent
+omniform
 omnimode
 omnipotences
 omnipotent
@@ -51068,6 +51088,7 @@ outbake
 outbakes
 outbalance
 outbalances
+outbalancing
 outbargain
 outbargaining
 outbawling
@@ -57327,6 +57348,7 @@ preadolescent
 preadolescents
 preadopted
 preadopting
+preallot
 preallots
 preallotted
 preallotting
@@ -57376,6 +57398,7 @@ prebiotic
 prebless
 preboard
 preboarded
+preboiling
 prebooked
 prebooking
 prebooks
@@ -58455,6 +58478,7 @@ profferers
 proficiently
 profile
 profiled
+profilers
 profiles
 profiling
 profit
@@ -62442,6 +62466,7 @@ relativisms
 relativists
 relativities
 relativity
+relativize
 relativizes
 relaunched
 relaunder
@@ -67174,6 +67199,7 @@ semen
 semens
 semesters
 semi
+semiabstract
 semiabstraction
 semiaquatic
 semiarboreal
@@ -73730,6 +73756,7 @@ supergluing
 supergood
 supergraphics
 supergroups
+supergrowths
 superharden
 superhardened
 superhardening
@@ -74742,6 +74769,7 @@ tableted
 tableting
 tabletops
 tabletted
+tableware
 tabling
 tabloid
 tabloids
@@ -75302,6 +75330,7 @@ taxer
 taxes
 taxi
 taxicabs
+taxidermic
 taxidermies
 taxidermists
 taxidermy
@@ -76596,6 +76625,7 @@ thyrotoxicosis
 thyrotrophic
 thyrotrophin
 thyrotropic
+thyroxins
 thyrses
 thyrsi
 thyrsus
@@ -77532,6 +77562,7 @@ traditionalists
 traditionalize
 traditionalized
 traditions
+traditor
 traduce
 traduced
 traducements
@@ -80476,6 +80507,7 @@ unloads
 unlocking
 unlocks
 unloosen
+unloosened
 unloosening
 unlooses
 unloosing
@@ -81787,6 +81819,7 @@ var
 vara
 varia
 variabilities
+variability
 variablenesses
 variables
 variance
@@ -82199,6 +82232,7 @@ versional
 versions
 versos
 verst
+verste
 versus
 vertebra
 vertebrae
@@ -84158,6 +84192,7 @@ willy
 willyard
 willyart
 willywaws
+wilt
 wilted
 wimbles
 wimbling
