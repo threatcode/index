@@ -1098,6 +1098,7 @@ aflatoxins
 aflutter
 aforementioned
 aforesaid
+aforethought
 aforetime
 afoul
 afreets
@@ -10708,6 +10709,7 @@ carmakers
 carman
 carmen
 carminative
+carmine
 carmines
 carnal
 carnalities
@@ -13468,6 +13470,7 @@ cockneyfying
 cockneyism
 cockpits
 cocks
+cockscomb
 cockscombs
 cocksfoots
 cockshut
@@ -15120,6 +15123,7 @@ contenders
 contending
 contentednesses
 contenting
+contentious
 contentiousness
 contes
 contest
@@ -18105,6 +18109,7 @@ debugs
 debunk
 debunkers
 debunking
+debutant
 debuted
 debuting
 debyes
@@ -22027,6 +22032,7 @@ drat
 dratting
 draughted
 draughtier
+draughtiest
 draughting
 draughtsmen
 draughty
@@ -35054,6 +35060,7 @@ hygeists
 hygienics
 hygrograph
 hygrometer
+hygrometers
 hygrophilous
 hygrophyte
 hygrophytic
@@ -36225,6 +36232,7 @@ incenter
 incenters
 incenting
 incentivize
+incentivizes
 incentivizing
 incept
 incepted
@@ -41975,6 +41983,7 @@ locomotors
 locoweed
 locoweeds
 locular
+locule
 loculed
 locules
 loculi
@@ -43961,6 +43970,7 @@ mediatrices
 medic
 medicals
 medicament
+medicamentous
 medicaments
 medicant
 medicares
@@ -44036,6 +44046,7 @@ megalopic
 megalopolis
 megalopolitan
 megalops
+megaparsec
 megaparsecs
 megapixel
 megapixels
@@ -44475,6 +44486,7 @@ metacarpus
 metacenter
 metacentric
 metachromatic
+metafiction
 metafictionist
 metagalactic
 metageneses
@@ -45441,6 +45453,7 @@ miscolor
 miscolors
 miscomputations
 miscomputed
+miscomputes
 misconceive
 misconceived
 misconceivers
@@ -46683,6 +46696,7 @@ motorbiked
 motorboated
 motorboater
 motorboating
+motorbus
 motorbuses
 motorcade
 motorcading
@@ -47227,6 +47241,7 @@ musher
 mushers
 mushes
 mushinesses
+mushroom
 mushrooms
 music
 musicale
@@ -50205,6 +50220,7 @@ olives
 olivinitic
 olla
 ologies
+ologist
 ologists
 ololiuquis
 oloroso
@@ -53771,6 +53787,7 @@ pectins
 pectoral
 pectorals
 peculation
+peculations
 peculator
 peculators
 peculiar
@@ -56367,6 +56384,7 @@ pollens
 pollers
 pollex
 pollices
+pollinating
 pollinator
 pollinia
 pollinize
@@ -56992,6 +57010,7 @@ pouches
 pouchy
 pouff
 pouffs
+poulardes
 poulards
 poult
 poulters
@@ -60495,8 +60514,10 @@ ratiocinator
 rational
 rationales
 rationalising
+rationalities
 rationality
 rationalizable
+rationalize
 rationalized
 rationalizer
 rationally
@@ -61736,6 +61757,7 @@ reflected
 reflection
 reflectional
 reflections
+reflective
 reflectiveness
 reflectivities
 reflectometer
@@ -62280,6 +62302,7 @@ relays
 relearn
 release
 releasers
+relegate
 relegates
 relegating
 relegations
@@ -62430,6 +62453,7 @@ remelting
 remember
 rememberability
 remembered
+rememberer
 rememberers
 remembrance
 remembrancer
@@ -63005,6 +63029,7 @@ rereminding
 rerent
 rerented
 rerepeats
+rereviewed
 rerigged
 rerisen
 reroll
@@ -64095,6 +64120,7 @@ ridgel
 ridgeline
 ridgelings
 ridgels
+ridgepole
 ridgetop
 ridgier
 ridgiest
@@ -64583,6 +64609,7 @@ ropedancings
 ropelike
 roperies
 ropes
+ropewalk
 ropewalkers
 ropeways
 ropiness
@@ -65286,6 +65313,7 @@ salimeters
 salina
 saline
 salinities
+salinization
 salinizing
 salinometer
 salinometers
@@ -66504,6 +66532,7 @@ scumbled
 scumbles
 scumless
 scumlike
+scumming
 scums
 scungilli
 scungillis
@@ -69585,6 +69614,7 @@ snip
 snipe
 sniper
 snipers
+sniperscope
 sniperscopes
 snipped
 snippersnapper
@@ -71676,6 +71706,7 @@ stepparent
 stepparentings
 stepparents
 stepped
+stepson
 stepstool
 stepstools
 stereochemical
@@ -73120,6 +73151,7 @@ sucrose
 suction
 suctioning
 suctions
+sudaria
 sudaries
 sudary
 sudatories
@@ -80078,6 +80110,7 @@ unifiable
 unific
 unifications
 unifies
+unifoliate
 uniformitarians
 uniformity
 uniformnesses
@@ -82762,6 +82795,7 @@ wagoners
 wagonette
 wagonettes
 wagonloads
+wags
 wagtail
 wahcondas
 wahoo
@@ -83150,6 +83184,7 @@ waterzoois
 watt
 wattage
 wattages
+wattape
 wattapes
 watthour
 wattlebird
