@@ -2342,6 +2342,7 @@ anastrophes
 anatase
 anathemas
 anathemata
+anathematize
 anathematizing
 anatomic
 anatomies
@@ -4489,6 +4490,7 @@ aucubas
 audacious
 audad
 audads
+audial
 audibility
 audibling
 audients
@@ -6660,6 +6662,7 @@ beta
 betaine
 betaines
 betaken
+betatrons
 betattering
 betaxed
 betel
@@ -8288,6 +8291,7 @@ botanised
 botanist
 botanized
 botanizer
+botanizers
 botas
 botch
 botched
@@ -9390,6 +9394,7 @@ bungalows
 bunged
 bungee
 bunghole
+bungholes
 bunging
 bungle
 bunglers
@@ -10951,6 +10956,7 @@ castellans
 castellated
 caster
 castigate
+castigating
 castigations
 castigator
 casting
@@ -11246,6 +11252,7 @@ ceboids
 ceca
 cecal
 cecally
+cecities
 cecity
 cecum
 cedar
@@ -20241,6 +20248,7 @@ dignities
 dignity
 digraphs
 digressed
+digression
 digressional
 digressive
 digressiveness
@@ -22873,6 +22881,7 @@ eclectic
 eclectics
 eclipsed
 eclipsers
+eclipsing
 eclogites
 eclogue
 eclogues
@@ -22911,6 +22920,7 @@ ecraseurs
 ecrus
 ecstasy
 ecstatically
+ectases
 ectasis
 ecthymata
 ectoblast
@@ -26882,6 +26892,7 @@ fencers
 fencible
 fencibles
 fencing
+fencings
 fended
 fendered
 fending
@@ -33913,6 +33924,7 @@ hijra
 hijrahs
 hike
 hiker
+hikers
 hikes
 hila
 hilar
@@ -35150,6 +35162,7 @@ hymenopterons
 hymenopterous
 hymnals
 hymnaries
+hymnary
 hymnbook
 hymned
 hymnless
@@ -36755,6 +36768,7 @@ induline
 indulins
 indurated
 induration
+indurative
 indusial
 indusiate
 industrialise
@@ -45359,6 +45373,7 @@ minted
 minter
 minters
 mints
+minty
 minuet
 minuets
 minuscule
@@ -47811,6 +47826,7 @@ natively
 nativenesses
 natives
 nativisms
+nativist
 natriureses
 natriuresis
 natrolites
@@ -48138,6 +48154,7 @@ nephrotics
 nephrotoxic
 nephrotoxicity
 nepotic
+nepotism
 nepotist
 nerd
 nerdier
@@ -50205,6 +50222,7 @@ offscreen
 offsetting
 offshoot
 offshores
+offside
 offsprings
 offstage
 offtrack
@@ -50866,6 +50884,7 @@ orthogonal
 orthogonalities
 orthogonality
 orthogonalize
+orthogonalized
 orthograde
 orthographic
 orthographies
@@ -51319,6 +51338,7 @@ outjumping
 outjumps
 outjutted
 outjutting
+outkeep
 outkept
 outkicking
 outkilling
@@ -51546,6 +51566,7 @@ outsized
 outskated
 outskates
 outskating
+outsleep
 outslicks
 outsmart
 outsmarted
@@ -52644,6 +52665,7 @@ ozonized
 ozonizer
 ozonosphere
 ozonospheres
+pa
 pablums
 pabulum
 paca
@@ -53516,6 +53538,7 @@ passably
 passacaglia
 passacaglias
 passade
+passado
 passados
 passage
 passaged
@@ -53991,6 +54014,7 @@ peels
 peen
 peening
 peens
+peeped
 peephole
 peepholes
 peeping
@@ -55243,6 +55267,7 @@ pianissimo
 pianissimos
 pianistic
 pianistically
+pianists
 piano
 pianofortes
 pians
@@ -56766,6 +56791,7 @@ poormouthing
 poornesses
 poove
 popcorn
+popeless
 poperies
 popery
 popgun
@@ -59164,6 +59190,7 @@ psychosexual
 psychosexually
 psychosocial
 psychosurgery
+psychosyntheses
 psychosynthesis
 psychotherapist
 psychotically
@@ -61577,6 +61604,7 @@ redintegrating
 redintegrations
 redip
 redips
+redipt
 redirected
 redirecting
 redirects
@@ -61802,6 +61830,7 @@ reeving
 reevoked
 reevokes
 reexaminations
+reexamined
 reexecute
 reexecuting
 reexhibited
@@ -64691,6 +64720,7 @@ roofed
 roofer
 roofers
 roofies
+roofing
 rooflike
 roofline
 roofs
@@ -65456,6 +65486,7 @@ salivate
 salivated
 salivation
 salivations
+sall
 sallied
 sallier
 salliers
@@ -73928,6 +73959,7 @@ supplying
 supportable
 supported
 supporters
+supporting
 supportive
 supports
 supposably
@@ -79540,6 +79572,7 @@ uncivilly
 unclad
 unclamp
 unclamped
+unclamping
 unclarities
 unclarity
 unclasp
@@ -80828,6 +80861,7 @@ unsicker
 unsifted
 unsight
 unsighted
+unsighting
 unsightlier
 unsightliest
 unsightliness
@@ -84084,6 +84118,7 @@ wildcat
 wildcatted
 wildebeests
 wilder
+wilderments
 wilderness
 wildernesses
 wildflowers
