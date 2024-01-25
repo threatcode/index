@@ -3,3 +3,7 @@ postgres-showcase/01_create_role.sql at master - GitHub,https://github.com/cyber
 /docker/postgres/init.sql | pgc4d@v1.3.3 | Deno,https://deno.land/x/pgc4d%40v1.3.3/docker/postgres/init.sql%3Fsource%3D
 https://raw.githubusercontent.com/processone/ejabb...,https://raw.githubusercontent.com/processone/ejabberd/master/sql/pg.new.sql
 https://raw.githubusercontent.com/scriptdev2/scrip...,https://raw.githubusercontent.com/scriptdev2/scriptdev2/master/sql/scriptdev2_script_full.sql
+mysql.sql - processone/ejabberd - GitHub,https://github.com/processone/ejabberd/blob/master/sql/mysql.sql
+/docker/postgres/init.sql | pgc4d@v1.3.6 | Deno,https://deno.land/x/pgc4d/docker/postgres/init.sql%3Fsource%3D
+postgres-showcase/01_create_role.sql at master - GitHub,https://github.com/cybertec-postgresql/postgres-showcase/blob/master/01_create_role.sql
+https://raw.githubusercontent.com/VitaSmith/VitaDB...,https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql
