@@ -1551,6 +1551,7 @@ aleatoric
 aleatory
 alec
 alehouse
+alehouses
 alencon
 alert
 alertly
@@ -8559,6 +8560,7 @@ brackens
 bracket
 bracketing
 bract
+bracteal
 bracteole
 bracteoles
 bractless
@@ -8885,6 +8887,7 @@ brimful
 brimfull
 brimfully
 brimmers
+brimstone
 brimstones
 brimstony
 brindle
@@ -9314,6 +9317,7 @@ bulimiac
 bulimic
 bulimics
 bulked
+bulkily
 bulkiness
 bulkinesses
 bulking
@@ -11362,6 +11366,7 @@ celomata
 celoms
 celosia
 celotex
+celotexes
 celts
 cembali
 cembalist
@@ -12251,6 +12256,7 @@ chirographical
 chirographies
 chirography
 chiromancer
+chiromancies
 chironomid
 chiropodies
 chiropodist
@@ -13985,6 +13991,7 @@ colligating
 colligation
 colligations
 collimate
+collimates
 collimation
 collimations
 collimator
@@ -15007,6 +15014,8 @@ connotational
 connotative
 connotatively
 connoted
+conns
+connubialisms
 connubialities
 connubiality
 connubially
@@ -20310,6 +20319,7 @@ digital
 digitalization
 digitalize
 digitizes
+digitizing
 digitonin
 digitonins
 digitoxigenin
@@ -29963,6 +29973,7 @@ garaged
 garageman
 garages
 garb
+garbageman
 garbagemen
 garbages
 garbanzos
@@ -32681,6 +32692,7 @@ halalas
 halation
 halavahs
 halazone
+halberds
 halbert
 halberts
 hale
@@ -35788,6 +35800,7 @@ ikebanas
 ikon
 ileal
 ileitides
+ileitis
 ileostomies
 ileus
 ilexes
@@ -37488,6 +37501,7 @@ inseparably
 inserted
 inserter
 inserting
+insertion
 insertional
 insertions
 inserts
@@ -37707,6 +37721,7 @@ intellective
 intellectualist
 intellectuals
 intelligence
+intelligencers
 intelligences
 intelligent
 intelligentsia
@@ -38007,6 +38022,7 @@ interplead
 interpleading
 interpleads
 interpled
+interpolate
 interpolates
 interpolative
 interpolators
@@ -42521,6 +42537,7 @@ loser
 losers
 losing
 losingly
+lossless
 lostness
 lostnesses
 lota
@@ -45667,6 +45684,7 @@ misassaying
 misassays
 misassemble
 misassembling
+misassigned
 misassigning
 misassigns
 misassumptions
@@ -53954,6 +53972,7 @@ patrolman
 patrolmen
 patrols
 patron
+patronages
 patroness
 patronesses
 patronise
@@ -56632,6 +56651,7 @@ poetizer
 poetizing
 poetless
 poetries
+poetry
 pogonia
 pogonias
 pogromed
@@ -60199,6 +60219,7 @@ quarterly
 quartern
 quarterstaff
 quarterstaves
+quartet
 quartics
 quartiers
 quartiles
@@ -61888,6 +61909,7 @@ rediscounts
 rediscussed
 rediscusses
 rediscussing
+redisplays
 redispose
 redisposes
 redisposing
@@ -63807,6 +63829,7 @@ restfulnesses
 restimulates
 restimulation
 restimulations
+resting
 restitched
 restitches
 restitching
@@ -66946,6 +66969,7 @@ scrummage
 scrummages
 scrummaging
 scrummed
+scrumptiously
 scrunches
 scrunchie
 scrunching
@@ -67873,6 +67897,7 @@ serranoid
 serranos
 serrate
 serration
+serratures
 serried
 serriedness
 serriednesses
@@ -67997,6 +68022,7 @@ sextuply
 sexual
 sexuality
 sexualize
+sexualizes
 sexually
 sferics
 sforzandi
@@ -71243,6 +71269,7 @@ spillers
 spills
 spinach
 spinaches
+spinachlike
 spinages
 spinally
 spinals
@@ -72071,6 +72098,7 @@ steamily
 steaminess
 steaminesses
 steamrollered
+steamrollers
 steamrolling
 steamships
 steamy
@@ -74767,6 +74795,7 @@ syconia
 syconium
 sycophant
 sycophantic
+sycophantish
 sycophantishly
 sycophantism
 sycophantisms
@@ -78717,6 +78746,7 @@ trollied
 trollies
 trollops
 trollopy
+trollying
 trombonist
 trombonists
 trommels
@@ -78790,6 +78820,7 @@ troublousness
 troughs
 trounce
 trouncer
+troupe
 trouper
 troupes
 troupials
@@ -80801,6 +80832,7 @@ unlearned
 unlearning
 unlearns
 unlearnt
+unleashes
 unleashing
 unleavened
 unlethal
@@ -82886,6 +82918,7 @@ viral
 virelai
 virelays
 viremia
+viremic
 vireo
 vireonine
 vireos
@@ -85691,6 +85724,7 @@ zinebs
 zines
 zinfandel
 zingani
+zingara
 zingare
 zingari
 zinged
@@ -85805,6 +85839,7 @@ zorillas
 zorillo
 zorillos
 zorils
+zoris
 zoster
 zouave
 zoysia
