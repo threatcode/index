@@ -1188,6 +1188,7 @@ agential
 agentings
 agentival
 agentries
+agentry
 agents
 ager
 ageratums
@@ -4175,6 +4176,7 @@ assimilations
 assimilative
 assimilators
 assistance
+assistances
 assistant
 assistants
 assistantships
@@ -6868,6 +6870,7 @@ bicolors
 bicolours
 biconcave
 biconcavities
+biconditional
 biconditionals
 biconvex
 bicorne
@@ -10542,6 +10545,7 @@ captivation
 captivations
 captivator
 captive
+captives
 captivity
 captor
 capture
@@ -17144,6 +17148,7 @@ cucumber
 cucumbers
 cucurbits
 cud
+cudbear
 cudbears
 cuddle
 cuddled
@@ -18089,6 +18094,7 @@ deacidified
 deacidifies
 deacidify
 deacon
+deaconesses
 deaconries
 deaconry
 deacons
@@ -18244,6 +18250,7 @@ debyes
 decade
 decadencies
 decadently
+decadents
 decagonal
 decagons
 decagrams
@@ -21122,6 +21129,7 @@ dispeople
 dispeoples
 dispersal
 dispersants
+dispersedly
 disperser
 disperses
 dispersing
@@ -23691,6 +23699,7 @@ emcees
 emdash
 emdashes
 eme
+emendated
 emendates
 emendating
 emended
@@ -25365,6 +25374,7 @@ eurybathic
 eurybaths
 euryhaline
 euryoky
+eurypterids
 eurytherm
 eurythermal
 eurythmic
@@ -27169,6 +27179,7 @@ fetishize
 fetishized
 fetishizing
 fetologies
+fetologist
 fetoprotein
 fetor
 fetors
@@ -31682,6 +31693,7 @@ granulose
 granuloses
 granulosis
 granum
+grape
 grapes
 graph
 graphed
@@ -34544,6 +34556,7 @@ homoplasies
 homopolar
 homopolymer
 homopteran
+homos
 homoscedastic
 homosexual
 homosexuality
@@ -35469,6 +35482,7 @@ hyperrealist
 hyperrealistic
 hypersalinities
 hypersalinity
+hypersalivation
 hypersecretion
 hypersensitized
 hypersonic
@@ -35827,6 +35841,7 @@ illaudably
 illegal
 illegalities
 illegalization
+illegalize
 illegalizes
 illegible
 illegibly
@@ -37708,6 +37723,7 @@ insurrectionist
 insusceptible
 inswathe
 inswathed
+inswathing
 intactnesses
 intaglio
 intaglioed
@@ -42020,6 +42036,7 @@ lissomenesses
 listable
 listee
 listenable
+listened
 listenerships
 listening
 lister
@@ -43283,6 +43300,7 @@ maisonette
 maisonettes
 maist
 maizes
+majagua
 majestic
 majordomos
 majored
@@ -45647,6 +45665,7 @@ mirlitons
 mirror
 mirrorlike
 mirs
+mirth
 mirthful
 mirthfully
 mirthfulnesses
@@ -47789,6 +47808,7 @@ myosotis
 myosotises
 myotics
 myotome
+myotomes
 myotonia
 myotonias
 myriad
@@ -49101,6 +49121,7 @@ nonconformers
 nonconformism
 nonconformisms
 nonconformists
+nonconformities
 nonconformity
 nonconforms
 nonconjugated
@@ -53790,6 +53811,7 @@ parvenus
 parvolin
 parvoline
 parvolins
+parvoviruses
 pas
 pascal
 paschal
@@ -54242,6 +54264,7 @@ pedestrians
 pediatrician
 pediatrists
 pedicabs
+pedicel
 pedicellate
 pedicled
 pedicles
@@ -56656,6 +56679,7 @@ podzolic
 podzolizations
 podzolized
 poechore
+poenologies
 poesy
 poet
 poetaster
@@ -59566,6 +59590,7 @@ puddle
 puddled
 puddler
 puddlier
+puddliest
 puddling
 puddlings
 pudencies
@@ -60441,6 +60466,7 @@ quirkier
 quirkiness
 quirkish
 quirks
+quirt
 quirts
 quislingism
 quislingisms
@@ -66583,6 +66609,7 @@ schizocarp
 schizocarps
 schizogonies
 schizogonous
+schizogony
 schizoid
 schizont
 schizonts
@@ -70518,6 +70545,7 @@ solion
 solions
 solipsistic
 soliquid
+solitaire
 solitaires
 solitarily
 solitariness
@@ -71357,6 +71385,7 @@ spirit
 spirited
 spiritedness
 spiriting
+spiritists
 spiritless
 spiritoso
 spiritous
@@ -73281,6 +73310,7 @@ subentry
 subepoch
 suberic
 suberin
+suberization
 suberizations
 suberize
 suberized
@@ -76189,6 +76219,7 @@ terebinths
 teredines
 teredo
 teredos
+terefah
 terephthalate
 terete
 terga
@@ -76972,6 +77003,7 @@ thymol
 thymols
 thymosin
 thymosins
+thymuses
 thyratron
 thyratrons
 thyreoid
@@ -78744,6 +78776,7 @@ troaks
 trocar
 trochal
 trochanter
+trochanteral
 trochanteric
 trochanters
 trochar
@@ -79681,6 +79714,7 @@ unacademic
 unacademically
 unacceptability
 unaccommodated
+unaccommodating
 unaccompanied
 unaccounted
 unaccredited
@@ -85077,6 +85111,7 @@ workbooks
 workbox
 workboxes
 workdays
+worked
 worker
 workfare
 workfares
