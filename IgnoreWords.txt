@@ -993,6 +993,7 @@ aerosats
 aerosol
 aerosolizations
 aerosolized
+aerosols
 aerospace
 aerostat
 aerostats
@@ -2664,6 +2665,7 @@ anomic
 anomy
 anonymities
 anonymous
+anonymously
 anonymousness
 anonymousnesses
 anopsias
@@ -7635,6 +7637,7 @@ blobbed
 bloc
 blockable
 blockaded
+blockaders
 blockades
 blockage
 blockbusted
@@ -9171,6 +9174,7 @@ bruxes
 bruxing
 bryology
 bryonies
+bryony
 bryophyllum
 bryophyllums
 bryophytes
@@ -13279,6 +13283,7 @@ closeups
 closings
 clostridia
 clostridial
+closure
 closures
 closuring
 clot
@@ -14440,6 +14445,7 @@ complemental
 complementaries
 complementary
 complementation
+complements
 complete
 completely
 completeness
@@ -14583,6 +14589,7 @@ concede
 conceders
 conceit
 conceited
+conceitednesses
 conceiting
 conceits
 conceivability
@@ -14866,6 +14873,7 @@ conflux
 confluxes
 conformable
 conformably
+conformational
 conformers
 conforming
 conformism
@@ -19976,6 +19984,7 @@ dhooties
 dhotis
 dhourra
 dhurnas
+dhurrie
 dhuti
 dhutis
 diabase
@@ -22579,6 +22588,7 @@ dumbing
 dumbly
 dumbnesses
 dumbstruck
+dumbwaiter
 dumbwaiters
 dumdums
 dumfound
@@ -24980,6 +24990,7 @@ erythremia
 erythrisms
 erythrite
 erythrites
+erythroblastic
 erythrocyte
 erythrocytes
 erythrocytic
@@ -26002,6 +26013,7 @@ exponent
 exponentially
 exponentials
 exponentiation
+exponentiations
 exportability
 exportable
 exporters
@@ -29303,6 +29315,7 @@ frostinesses
 frostless
 frostnips
 frosty
+froth
 frothed
 frother
 frothier
@@ -29843,6 +29856,7 @@ gallowglasses
 galls
 gallstone
 gallstones
+gallus
 gally
 galoot
 galopades
@@ -29936,6 +29950,7 @@ ganaches
 gander
 ganef
 ganefs
+ganev
 ganevs
 gang
 gangbang
@@ -38900,6 +38915,7 @@ jackroll
 jackrolled
 jackrolling
 jacks
+jackscrews
 jacksmelt
 jacksmelts
 jacksnipe
@@ -42896,6 +42912,7 @@ lustre
 lustred
 lustrousness
 lustrousnesses
+lustrum
 lustrums
 lusus
 lususes
@@ -43175,6 +43192,7 @@ mafioso
 mafiosos
 mag
 magalog
+magazine
 magazines
 magazinist
 magdalene
@@ -44136,6 +44154,7 @@ mausolea
 mausoleums
 mauts
 mauves
+maverick
 mavericks
 mavies
 mavis
@@ -49100,6 +49119,7 @@ noncompetitor
 noncompliance
 noncompliances
 noncomposer
+noncomposers
 noncompressible
 noncomputer
 noncoms
@@ -49847,6 +49867,7 @@ novels
 novelties
 novelty
 novemdecillion
+novemdecillions
 novena
 novenae
 novenas
@@ -51099,6 +51120,7 @@ orisons
 orlon
 orlops
 ormer
+ornamentals
 ornaments
 ornate
 ornatenesses
@@ -52473,6 +52495,7 @@ overmild
 overmilked
 overmilking
 overmines
+overmixes
 overmixing
 overmodest
 overmuch
@@ -53778,6 +53801,7 @@ participles
 particleboards
 particles
 particular
+particularise
 particularises
 particularising
 particularistic
@@ -55327,6 +55351,7 @@ phosphatic
 phosphatide
 phosphatization
 phosphatize
+phosphatized
 phosphatizes
 phosphaturia
 phosphene
@@ -60874,6 +60899,7 @@ rankless
 rankling
 rankly
 ranknesses
+ranks
 ransom
 ransomer
 ransomers
@@ -61286,6 +61312,7 @@ reascent
 reason
 reasonabilities
 reasonable
+reasonableness
 reasonably
 reasoner
 reasonless
@@ -66218,6 +66245,7 @@ sassier
 sassiness
 sassing
 sastruga
+satang
 satanist
 satanists
 sataras
@@ -67935,6 +67963,7 @@ serotine
 serotines
 serotinies
 serotinous
+serotiny
 serotonergic
 serotoninergic
 serotyped
@@ -68400,6 +68429,7 @@ shielder
 shielders
 shieling
 shielings
+shier
 shiers
 shifted
 shifters
@@ -68702,6 +68732,7 @@ showpieces
 showplace
 showring
 showrings
+shows
 showstopper
 showtime
 showy
@@ -72352,6 +72383,7 @@ steroidogenic
 steroids
 stertor
 stertors
+stet
 stethoscope
 stethoscopes
 stetting
@@ -74738,6 +74770,7 @@ swigs
 swiller
 swillers
 swills
+swim
 swimmable
 swimmer
 swimmeret
@@ -77710,6 +77743,7 @@ torridly
 torridnesses
 torsades
 torse
+torsionally
 torsions
 torsk
 torso
@@ -80892,6 +80926,7 @@ unlatches
 unlawful
 unlawfully
 unlawfulness
+unlays
 unlead
 unleads
 unlearned
