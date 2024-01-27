@@ -450,6 +450,7 @@ acquisitively
 acquisitiveness
 acquisitors
 acquittal
+acquitted
 acquitter
 acquitters
 acquitting
@@ -731,6 +732,7 @@ admit
 admits
 admittance
 admittances
+admitted
 admittee
 admitter
 admix
@@ -1327,6 +1329,7 @@ agrarianism
 agrarianisms
 agrarians
 agree
+agreeable
 agreeably
 agreed
 agreeing
@@ -4659,6 +4662,7 @@ auteur
 auteurist
 authenticated
 authenticates
+authenticating
 authentication
 author
 authored
@@ -8203,6 +8207,7 @@ boodies
 boodler
 booed
 boogerman
+boogermen
 boogey
 boogeying
 boogeymen
@@ -9508,6 +9513,7 @@ bunghole
 bungholes
 bunging
 bungle
+bungler
 bunglers
 bungles
 bunglingly
@@ -9888,6 +9894,7 @@ cabooses
 cabotages
 cabresta
 cabrestas
+cabrestos
 cabretta
 cabrilla
 cabrillas
@@ -10096,6 +10103,7 @@ calipashes
 calipee
 caliper
 calipered
+calipering
 caliph
 caliphal
 caliphate
@@ -10162,6 +10170,7 @@ calorics
 calorific
 calorimeter
 calorimetric
+calorimetries
 calorimetry
 calorize
 calorizing
@@ -12287,6 +12296,7 @@ chiltepin
 chimaera
 chimaeras
 chimaeric
+chimaerisms
 chimar
 chimars
 chimb
@@ -13408,6 +13418,7 @@ cloudlets
 clouds
 cloudscapes
 cloudy
+clough
 cloured
 clout
 clouted
@@ -15060,6 +15071,7 @@ congruity
 congruous
 congruousness
 conically
+conicities
 conics
 conidium
 conies
@@ -15924,6 +15936,7 @@ corporealness
 corposant
 corps
 corpse
+corpsmen
 corpulency
 corpulent
 corpulently
@@ -16096,6 +16109,7 @@ cossacks
 cosset
 cosseted
 cosseting
+cossets
 cost
 costa
 costae
@@ -23622,6 +23636,7 @@ elicit
 elicitation
 elicitations
 elicited
+elicitor
 elicitors
 elides
 eligible
@@ -24150,6 +24165,7 @@ endamoeba
 endamoebae
 endamoebas
 endangerments
+endarchies
 endarchy
 endarterectomy
 endash
@@ -34811,6 +34827,7 @@ homy
 honcho
 honda
 hondle
+hondling
 honed
 hones
 honestest
@@ -34935,6 +34952,7 @@ hopeful
 hopefuls
 hopeless
 hopelessnesses
+hoper
 hopers
 hophead
 hoplites
@@ -37215,6 +37233,7 @@ indulge
 indulged
 indulgence
 indulger
+indulgers
 indulges
 indulging
 induline
@@ -44654,6 +44673,7 @@ medullae
 medullary
 medullas
 medusan
+medusas
 medusoids
 meed
 meeds
@@ -46236,6 +46256,7 @@ misfiles
 misfiling
 misfired
 misfocussed
+misfocusses
 misfocussing
 misform
 misformed
@@ -46569,6 +46590,7 @@ misvocalization
 misword
 misworded
 miswords
+miswrit
 miswrite
 miswrites
 miswriting
@@ -47562,6 +47584,7 @@ mucocutaneous
 mucoid
 mucoidal
 mucoids
+mucopeptides
 mucoproteins
 mucors
 mucosal
@@ -52212,6 +52235,7 @@ outsized
 outskated
 outskates
 outskating
+outskirt
 outsleep
 outslicks
 outsmart
@@ -52651,6 +52675,7 @@ overexposures
 overextending
 overextension
 overextensions
+overextravagant
 overexuberant
 overfacile
 overfamiliar
@@ -61821,6 +61846,7 @@ rebored
 rebores
 reboring
 reborn
+rebottle
 rebottled
 rebound
 rebranch
@@ -66764,6 +66790,7 @@ saunas
 sauntered
 saunterer
 saunterers
+saunters
 saurians
 sauries
 saurischians
@@ -67108,6 +67135,7 @@ schmelzes
 schmoose
 schmoosed
 schmooses
+schmoosing
 schmooze
 schmoozed
 schmoozer
@@ -70473,6 +70501,7 @@ smiled
 smileys
 smirches
 smirching
+smirk
 smirked
 smirker
 smirkiest
@@ -73802,6 +73831,7 @@ subdeacons
 subdealer
 subdealers
 subdeb
+subdebs
 subdecision
 subdepartment
 subdepartments
@@ -77867,6 +77897,7 @@ titanias
 titanic
 titanically
 titaniferous
+titanisms
 titanium
 titaniums
 titanous
@@ -83139,6 +83170,7 @@ ventriloquize
 ventriloquizes
 ventriloquy
 ventrolateral
+vents
 venturers
 venturesomeness
 venturi
@@ -83310,6 +83342,7 @@ vespiary
 vesseled
 vestal
 vestally
+vestas
 vested
 vestee
 vestees
@@ -83952,6 +83985,7 @@ vowed
 vowelize
 vowels
 vower
+vowers
 vowing
 vows
 voyaged
@@ -86431,6 +86465,7 @@ zinging
 zingy
 zinkenites
 zinkifies
+zinkify
 zinkifying
 zins
 ziplock
