@@ -4105,6 +4105,7 @@ askant
 asked
 asker
 askers
+askewnesses
 askings
 askoi
 aslant
@@ -11265,6 +11266,7 @@ catenary
 catenas
 catenated
 catenates
+catenating
 catenation
 catenations
 cateran
@@ -13484,6 +13486,7 @@ clout
 clouted
 clouters
 clouting
+clouts
 clove
 clover
 clovers
@@ -13988,6 +13991,7 @@ coheirs
 cohere
 coherence
 coherently
+coherers
 coheres
 cohesiveness
 cohesivenesses
@@ -16047,6 +16051,7 @@ correlate
 correlated
 correlational
 correlations
+correlative
 correlatives
 correlators
 correspond
@@ -18724,6 +18729,7 @@ decontaminated
 decontaminating
 decontamination
 decontaminator
+decontrolled
 decor
 decorating
 decoration
@@ -18909,6 +18915,7 @@ defibrination
 defibrinations
 deficiencies
 deficient
+deficients
 deficit
 deficits
 defiers
@@ -20186,6 +20193,7 @@ dewdrops
 dewed
 dewfalls
 dewier
+dewiest
 dewily
 dewless
 dewool
@@ -21800,6 +21808,7 @@ divulsion
 divulsive
 divvied
 diwan
+dixits
 dizened
 dizenment
 dizenments
@@ -28419,6 +28428,7 @@ flocci
 floccing
 flocculants
 flocculates
+flocculating
 flocculations
 flocculent
 flocculus
@@ -29158,6 +29168,7 @@ formulizes
 formwork
 fornical
 fornicating
+fornication
 fornices
 forrit
 forsaken
@@ -35516,6 +35527,7 @@ humorists
 humorless
 humorlessly
 humours
+hump
 humpbacked
 humpbacks
 humped
@@ -35640,6 +35652,7 @@ hybridizes
 hybridomas
 hybrids
 hydathode
+hydathodes
 hydatids
 hydranth
 hydras
@@ -40458,6 +40471,7 @@ killdeer
 killdees
 killed
 killer
+killie
 killies
 killifish
 killing
@@ -41191,6 +41205,7 @@ lampoons
 lamppost
 lams
 lamsters
+lanai
 lanate
 lanated
 lance
@@ -43656,6 +43671,7 @@ madding
 maddish
 mademoiselle
 mademoiselles
+maderize
 maderizes
 maderizing
 madhouse
@@ -46181,6 +46197,7 @@ mintage
 minted
 minter
 minters
+mintiest
 mints
 minty
 minuet
@@ -48355,6 +48372,7 @@ mynahs
 myoblast
 myoblasts
 myocardia
+myocardial
 myocarditis
 myocardium
 myoclonic
@@ -48710,6 +48728,7 @@ naughties
 naughtiest
 naughtily
 naughts
+naumachiae
 naumachies
 naumachy
 nauplii
@@ -52281,6 +52300,7 @@ outleaped
 outleaps
 outleapt
 outlearn
+outlearned
 outlearning
 outlearnt
 outlets
@@ -59620,6 +59640,7 @@ prologuized
 prolongation
 prolonged
 prolonger
+prolongers
 prolonges
 prolongs
 promenade
@@ -61696,6 +61717,7 @@ rashly
 rashness
 rasorial
 raspberry
+rasped
 rasper
 raspiest
 raspiness
@@ -62733,6 +62755,7 @@ redistricting
 redivide
 redivided
 redivides
+redivision
 redlegs
 redlined
 redliner
@@ -64679,6 +64702,7 @@ restored
 restrain
 restrained
 restrainedly
+restrainer
 restraining
 restrains
 restraint
@@ -74446,6 +74470,7 @@ subsentences
 subseres
 subserve
 subserved
+subserves
 subserviences
 subserviencies
 subserviency
@@ -74725,6 +74750,7 @@ suggestiveness
 suggests
 sugh
 sughed
+sughing
 sughs
 suicidally
 suicide
@@ -76767,6 +76793,7 @@ technetronic
 technic
 technical
 technicalities
+technicalize
 technicalizing
 technicals
 technician
@@ -79604,6 +79631,7 @@ trijets
 trijugous
 trike
 trilby
+trilinear
 trilingual
 triliteralisms
 trilith
@@ -80174,6 +80202,7 @@ turbocar
 turbocharged
 turbocharger
 turbogenerator
+turbojets
 turbomachinery
 turboprops
 turbots
@@ -82003,6 +82032,7 @@ unmolded
 unmoored
 unmooring
 unmoralities
+unmorality
 unmorally
 unmortised
 unmortises
@@ -82183,6 +82213,7 @@ unrecoverable
 unrecovered
 unrecyclable
 unreel
+unreelers
 unreeling
 unreels
 unreflective
@@ -83078,6 +83109,7 @@ uvula
 uvulae
 uvular
 uvularly
+uvulas
 uvulitis
 uxorial
 uxoricide
@@ -83900,6 +83932,7 @@ viers
 view
 viewable
 viewed
+viewer
 viewers
 viewerships
 viewfinder
@@ -85279,6 +85312,7 @@ whalings
 whammies
 whammo
 whamo
+whams
 whang
 whanged
 whangee
@@ -86294,6 +86328,7 @@ wrangler
 wrap
 wraparounds
 wrappers
+wrappings
 wraps
 wrasse
 wrastle
