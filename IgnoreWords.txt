@@ -401,6 +401,7 @@ acidnesses
 acidophile
 acidoses
 acidosis
+acidotic
 acids
 acidulate
 acidulates
@@ -803,6 +804,7 @@ adrenalin
 adrenalins
 adrenalized
 adrenally
+adrenals
 adrenergically
 adrenochrome
 adrenocortical
@@ -1476,6 +1478,7 @@ airwoman
 airworthiest
 airy
 aisled
+aisleway
 ait
 aitch
 aitchbone
@@ -2213,6 +2216,7 @@ amphiprostyles
 amphitheaters
 amphitheatric
 amphorae
+amphoral
 amphoteric
 ampicillin
 ample
@@ -2967,6 +2971,7 @@ antijam
 antikickback
 antikings
 antiknocks
+antilabor
 antileak
 antileukemic
 antiliberal
@@ -4386,6 +4391,7 @@ ataxy
 ate
 atelectases
 atelectasis
+atelic
 atelier
 atemoya
 atemoyas
@@ -13382,6 +13388,7 @@ clinicians
 clink
 clinkers
 clinometer
+clinometers
 clinquants
 clintonia
 cliometric
@@ -14471,6 +14478,7 @@ commercializing
 commercing
 commie
 comminations
+commingle
 commingled
 commingles
 comminute
@@ -17988,6 +17996,7 @@ cytostatics
 cytotaxonomies
 cytotaxonomy
 cytotechnology
+cytotoxic
 cytotoxicity
 cytotoxins
 czardases
@@ -23975,6 +23984,7 @@ emblemize
 emblemizes
 emblemizing
 embodiers
+embodiment
 embodiments
 embodying
 embolden
@@ -24287,6 +24297,7 @@ encipher
 encipherments
 enciphers
 encircle
+encirclement
 encircles
 enclasp
 enclasped
@@ -26691,6 +26702,7 @@ eyespots
 eyestalk
 eyestalks
 eyestones
+eyestrain
 eyestrains
 eyestrings
 eyetooth
@@ -30268,6 +30280,7 @@ galliards
 galliass
 galliasses
 gallicas
+gallicism
 gallicisms
 gallicizations
 gallicize
@@ -35220,6 +35233,7 @@ hoover
 hoovered
 hope
 hopeful
+hopefulness
 hopefuls
 hopeless
 hopelessnesses
@@ -35860,6 +35874,7 @@ hydroxyureas
 hydroxyzines
 hydrozoans
 hyena
+hyenine
 hyenoid
 hygeist
 hygeists
@@ -37500,6 +37515,7 @@ inducements
 inducer
 induces
 inducibilities
+inducibility
 inducible
 inducing
 induct
@@ -39033,6 +39049,7 @@ inwardness
 inwardnesses
 inwards
 inweave
+inweaves
 inwind
 inwinds
 inwove
@@ -43752,6 +43769,7 @@ maculae
 macular
 maculated
 maculates
+maculating
 maculation
 maculations
 macule
@@ -55443,6 +55461,7 @@ percepts
 perceptual
 perceptually
 perch
+perchance
 percher
 perchers
 perches
@@ -56680,6 +56699,7 @@ pimple
 pimpled
 pimplier
 pimpliest
+pimpmobile
 pimps
 pin
 pinafore
@@ -57100,6 +57120,7 @@ plantsman
 planulae
 planular
 planuloid
+plaques
 plashed
 plashier
 plashing
@@ -59862,6 +59883,7 @@ proofreader
 proofreading
 proofreads
 proofrooms
+propagable
 propaganda
 propagandas
 propagandistic
@@ -62613,6 +62635,7 @@ reconnoitring
 reconquer
 reconquered
 reconquering
+reconquers
 reconsecrated
 reconsecrates
 reconsecrating
@@ -65340,9 +65363,11 @@ revolutionist
 revolutionize
 revolutionizing
 revolvable
+revolver
 revolving
 revoted
 revotes
+revs
 revulsions
 revved
 revving
@@ -66104,6 +66129,7 @@ ropeways
 ropiness
 roping
 ropy
+roques
 roquet
 roqueted
 roqueting
@@ -67464,6 +67490,7 @@ scannings
 scansions
 scant
 scanted
+scanter
 scantier
 scanties
 scantiest
@@ -68372,6 +68399,7 @@ seedcake
 seedcakes
 seedcases
 seedeater
+seedeaters
 seedier
 seediest
 seediness
@@ -70189,6 +70217,7 @@ sinecures
 sines
 sinew
 sinewing
+sinews
 sinfoniettas
 sinful
 sinfully
@@ -79287,6 +79316,7 @@ transcribes
 transcriptase
 transcription
 transcriptional
+transcriptions
 transcripts
 transduces
 transducing
@@ -82337,6 +82367,7 @@ unpractical
 unprecedented
 unprecedentedly
 unpredictable
+unpredictably
 unprepared
 unpreparedness
 unprepossessing
@@ -82543,6 +82574,7 @@ unserious
 unseriousnesses
 unserved
 unsettledness
+unsettling
 unsewed
 unsexed
 unshackle
@@ -82664,6 +82696,7 @@ unstuffed
 unstung
 unstylish
 unsubdued
+unsubsidized
 unsubstantiated
 unsubtle
 unsubtly
@@ -86822,6 +86855,7 @@ yearnings
 yearns
 years
 yeast
+yeastiest
 yeastily
 yeastless
 yeastlike
@@ -87132,6 +87166,7 @@ zinkifies
 zinkify
 zinkifying
 zins
+zip
 ziplock
 zipper
 zippered
