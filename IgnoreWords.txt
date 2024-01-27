@@ -8824,6 +8824,7 @@ brazileins
 brazilin
 brazilwoods
 brazing
+breached
 bread
 breadbaskets
 breadboarding
@@ -10997,6 +10998,7 @@ carronade
 carrotier
 carrotins
 carrots
+carrottopped
 carrottops
 carrousel
 carrousels
@@ -13297,6 +13299,7 @@ clicker
 clickers
 clicking
 clickless
+clicks
 clientages
 cliental
 clienteles
@@ -13453,6 +13456,7 @@ cloudily
 cloudinesses
 clouding
 cloudland
+cloudless
 cloudlessly
 cloudlessnesses
 cloudlets
@@ -13657,6 +13661,7 @@ cobalamin
 cobaltines
 cobaltites
 cobaltous
+cobalts
 cobb
 cobbiest
 cobble
@@ -14576,6 +14581,7 @@ compensative
 compensator
 compensatory
 compere
+compete
 competed
 competencies
 competently
@@ -19878,6 +19884,7 @@ destination
 destiny
 destituted
 destituteness
+destitutenesses
 destitutes
 destitution
 destitutions
@@ -21378,6 +21385,7 @@ dispirits
 dispiteous
 displaceable
 displaced
+displacer
 displaces
 displant
 display
@@ -21898,6 +21906,7 @@ doggonest
 doggrel
 doggy
 doghouse
+doghouses
 dogie
 dogies
 dogleg
@@ -25928,6 +25937,7 @@ excites
 excitingly
 excitonic
 excitons
+excitor
 exclaimer
 exclamation
 exclamations
@@ -27910,6 +27920,7 @@ firn
 firns
 firrier
 firriest
+firstborns
 firsthand
 firstlings
 firstly
@@ -30890,6 +30901,7 @@ gerundives
 gesneria
 gesneriad
 gessoes
+gestalt
 gestalten
 gestaltist
 gestaltists
@@ -32777,6 +32789,7 @@ gustables
 gustations
 gustative
 gustatorily
+gustier
 gustily
 gusting
 gustoes
@@ -33089,6 +33102,7 @@ halid
 halide
 halids
 halitoses
+halitosis
 halitus
 halituses
 hallah
@@ -42443,6 +42457,7 @@ lipsticks
 liquefactions
 liquefied
 liquefier
+liquefy
 liquid
 liquidambars
 liquidate
@@ -44214,6 +44229,7 @@ margravial
 margraviate
 margraviates
 margravines
+marguerites
 maria
 mariculture
 maricultures
@@ -44374,6 +44390,7 @@ masers
 mash
 masher
 mashers
+mashes
 mashgiach
 mashgiah
 mashgichim
@@ -51241,6 +51258,7 @@ online
 onloads
 onlooking
 onomastic
+onomastically
 onomasticians
 onomatology
 onomatopoeia
@@ -51279,6 +51297,7 @@ oohs
 oolachan
 oolachans
 oolite
+ooliths
 oological
 oologies
 oologist
@@ -53836,6 +53855,7 @@ pander
 pandered
 panderer
 pandies
+pandits
 pandoor
 pandoors
 pandoras
@@ -53925,6 +53945,7 @@ pantisocratical
 panto
 pantoffle
 pantoffles
+pantofle
 pantofles
 pantograph
 pantographic
@@ -54016,6 +54037,7 @@ parader
 paraders
 paradigm
 paradigmatic
+parading
 paradises
 paradisiac
 paradisiacal
@@ -62256,6 +62278,7 @@ recombines
 recombining
 recombs
 recommence
+recommencement
 recommencements
 recommences
 recommencing
@@ -69999,6 +70022,7 @@ sixfold
 sixteenmo
 sixteenmos
 sixteens
+sixteenth
 sixteenths
 sixths
 sixtieths
@@ -71622,6 +71646,7 @@ southwestwards
 souvlaki
 sovereigns
 sovereignty
+soviet
 sovietisms
 sovietization
 sovietizations
@@ -73878,6 +73903,7 @@ stutters
 sty
 stye
 styes
+stying
 stylar
 stylate
 stylebook
@@ -74947,6 +74973,7 @@ superjet
 superjock
 superjocks
 superjumbo
+superlain
 superlativeness
 superlawyer
 superlawyers
@@ -75126,6 +75153,7 @@ supplants
 supple
 suppled
 supplejack
+supplement
 supplementing
 supplements
 suppler
@@ -76490,6 +76518,7 @@ tautologous
 tautomer
 tautomerisms
 tautomers
+tautonyms
 tautonymy
 tav
 tavern
@@ -76694,6 +76723,7 @@ teflons
 tegg
 teggs
 tegmenta
+tegmental
 tegmina
 tegs
 tegular
@@ -80604,6 +80634,7 @@ unannotated
 unannounced
 unanswered
 unapologetic
+unapologizing
 unappealable
 unappealingly
 unappeased
@@ -82198,6 +82229,7 @@ unsnarls
 unsoaked
 unsober
 unsociabilities
+unsociableness
 unsociably
 unsocial
 unsocially
@@ -83712,6 +83744,7 @@ victualling
 vicugnas
 vicuna
 vicunas
+vid
 videlicet
 videocassette
 videocassettes
@@ -85533,6 +85566,7 @@ willowier
 willowiest
 willowware
 willpower
+wills
 willy
 willyard
 willyart
@@ -86004,6 +86038,7 @@ workaday
 workaholisms
 workbag
 workbaskets
+workbenches
 workboat
 workboats
 workbooks
