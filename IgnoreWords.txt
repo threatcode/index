@@ -4487,6 +4487,7 @@ attachments
 attack
 attacker
 attackers
+attacking
 attackman
 attackmen
 attain
@@ -9676,6 +9677,7 @@ burgers
 burgh
 burghers
 burglaries
+burglarious
 burglarize
 burglarized
 burglarizing
@@ -16582,6 +16584,7 @@ coupledoms
 couplement
 couplements
 couplers
+couplet
 coupling
 couponing
 coupons
@@ -16602,6 +16605,7 @@ courted
 courter
 courters
 courtesans
+courtesied
 courtesies
 courtier
 courtlier
@@ -17192,6 +17196,7 @@ cronyism
 cronyisms
 crook
 crookback
+crookedest
 crookedness
 crookednesses
 crooker
@@ -20538,6 +20543,7 @@ dicasts
 diced
 dicentra
 dicentrics
+dicer
 dichasium
 dichlorobenzene
 dichloroethane
@@ -23055,6 +23061,7 @@ dunning
 dunnite
 dunnites
 duns
+dunt
 duodecillion
 duodecimals
 duodenal
@@ -28506,6 +28513,7 @@ fletch
 fletches
 fletchings
 fleuron
+fleury
 flew
 flews
 flexagon
@@ -29086,6 +29094,7 @@ forceable
 forced
 forcedly
 forceful
+forcefulness
 forceless
 forcemeat
 forceps
@@ -29505,6 +29514,7 @@ fragmentating
 fragmentations
 fragmented
 fragmentize
+fragmentized
 fragments
 frailer
 frailness
@@ -32991,6 +33001,7 @@ gunites
 gunkhole
 gunkholed
 gunkholing
+gunkiest
 gunless
 gunlock
 gunman
@@ -40399,6 +40410,7 @@ karsts
 kartings
 karts
 karyogamies
+karyogamy
 karyokineses
 karyokinetic
 karyological
@@ -42082,6 +42094,7 @@ legitimating
 legitimation
 legitimations
 legitimatized
+legitimators
 legitimises
 legitimism
 legitimisms
@@ -42453,6 +42466,7 @@ liens
 lienteries
 lientery
 lierne
+lieutenancies
 lieve
 liever
 life
@@ -45759,6 +45773,7 @@ mete
 meted
 metempsychoses
 metempsychosis
+metencephalic
 meteoric
 meteorically
 meteorite
@@ -49383,6 +49398,7 @@ neuralgia
 neuralgias
 neuralgic
 neurally
+neuraminidase
 neurasthenia
 neurilemma
 neurilemmal
@@ -51665,6 +51681,7 @@ onlays
 online
 onloads
 onlooking
+only
 onomastic
 onomastically
 onomasticians
@@ -54424,6 +54441,7 @@ papers
 paperweight
 paperwork
 paperworks
+papeterie
 paphians
 papilla
 papilloma
@@ -54981,6 +54999,7 @@ patenting
 patentor
 patentors
 pater
+paternalist
 paternalistic
 paternally
 paters
@@ -56281,6 +56300,7 @@ philistinism
 philistinisms
 philological
 philologically
+philologies
 philologists
 philomel
 philomela
@@ -57843,6 +57863,7 @@ polars
 polders
 pole
 poleaxe
+poleaxed
 poleaxes
 poleaxing
 polecat
@@ -58777,6 +58798,7 @@ prebilled
 prebilling
 prebills
 prebind
+prebinding
 prebinds
 prebiologic
 prebiological
@@ -62052,6 +62074,7 @@ rapidnesses
 rapids
 rapier
 rapiered
+rapine
 rapines
 raping
 rapist
@@ -63501,6 +63524,7 @@ refoundations
 refract
 refractions
 refractively
+refractiveness
 refractivities
 refractometries
 refractometry
@@ -66772,6 +66796,7 @@ rustication
 rustications
 rusticator
 rusticators
+rusticity
 rusticly
 rusting
 rustle
@@ -67500,6 +67525,7 @@ satisfiable
 satisficed
 satisficing
 satisfied
+satisfier
 satisfiers
 satisfy
 satoris
@@ -68234,6 +68260,7 @@ scrimmagers
 scrimmaging
 scrimp
 scrimpier
+scrimpiest
 scrimpily
 scrimping
 scrimpit
@@ -68918,6 +68945,7 @@ semioticists
 semiotics
 semiparasites
 semipermanent
+semipermeable
 semipopular
 semiporcelain
 semiprecious
@@ -69975,6 +70003,7 @@ shote
 shotgun
 shotgunning
 shots
+shott
 shotting
 should
 shouldered
@@ -72186,6 +72215,7 @@ soundman
 soundproofed
 soundstage
 soup
+soupier
 soupless
 souplike
 soupspoon
@@ -72216,6 +72246,7 @@ south
 southbound
 southeast
 southeaster
+southeasterly
 southeastern
 southeasts
 southeastward
@@ -72358,6 +72389,7 @@ sparely
 spareness
 sparenesses
 sparer
+spareribs
 spares
 sparest
 sparger
@@ -76343,6 +76375,7 @@ sylvin
 sylvines
 sylvinite
 sylvinites
+sylvite
 sylvites
 symbionts
 symbiosis
@@ -78022,6 +78055,7 @@ theocentrisms
 theocracies
 theocrat
 theocratic
+theodicy
 theogonic
 theogonies
 theogony
@@ -80697,6 +80731,7 @@ tuques
 turacos
 turbanned
 turbans
+turbellarian
 turbellarians
 turbid
 turbidimeter
