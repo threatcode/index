@@ -1383,6 +1383,7 @@ aide
 aided
 aider
 aides
+aiding
 aidman
 aiguillettes
 aikido
@@ -2278,6 +2279,7 @@ amyloids
 amylolytic
 amylopsin
 amylopsins
+amylose
 amyotonias
 an
 ana
@@ -2737,6 +2739,7 @@ anoxemia
 anoxemias
 anoxemic
 anoxias
+anoxic
 ansa
 ansate
 ansated
@@ -3630,6 +3633,7 @@ arbitragers
 arbitrages
 arbitraments
 arbitrarily
+arbitrariness
 arbitrarinesses
 arbitrated
 arbitrates
@@ -8694,6 +8698,7 @@ boycotting
 boycotts
 boyfriend
 boyhood
+boyish
 boyishnesses
 boyla
 boylas
@@ -11695,6 +11700,7 @@ centupled
 centuples
 centurial
 centuries
+century
 ceorl
 cepes
 cephalexin
@@ -18618,6 +18624,7 @@ decade
 decadencies
 decadently
 decadents
+decagon
 decagonal
 decagons
 decagrams
@@ -20985,6 +20992,7 @@ dipsas
 dipsomania
 dipsomaniac
 dipsomaniacal
+dipsomaniacs
 dipsos
 dipsticks
 dipt
@@ -22576,6 +22584,7 @@ dragonflies
 dragonheads
 dragooning
 dragrope
+dragropes
 dragsters
 dragstrip
 drails
@@ -24887,6 +24896,7 @@ enterocoele
 enterocoeles
 enterocoelic
 enterocoelous
+enterocoels
 enterocolitis
 enterocolitises
 enterokinase
@@ -25649,6 +25659,7 @@ estreat
 estreated
 estreats
 estriol
+estrogenic
 estrone
 estrones
 estrums
@@ -29079,6 +29090,7 @@ foozlers
 foozling
 fop
 fopping
+foppishly
 foppishness
 foppishnesses
 fops
@@ -29169,6 +29181,7 @@ foregrounding
 forehand
 forehands
 foreheads
+forehoof
 forehoofs
 foreigners
 foreignism
@@ -29397,6 +29410,7 @@ forthcoming
 forthrightness
 forthrights
 forthwith
+fortifications
 fortifying
 fortissimo
 fortnight
@@ -35027,6 +35041,7 @@ hoked
 hokes
 hokey
 hokeyness
+hokeypokey
 hokeypokeys
 hokier
 hokily
@@ -36500,6 +36515,7 @@ ignatia
 ignatias
 igneous
 ignescent
+ignescents
 ignified
 ignite
 igniter
@@ -38540,6 +38556,7 @@ interatomic
 interbasin
 interbedded
 interbehavior
+interborough
 interbranch
 interbred
 interbreeds
@@ -39341,6 +39358,7 @@ irreclaimable
 irreclaimably
 irreconcilable
 irrecoverable
+irrecoverably
 irrecusable
 irrecusably
 irredeemably
@@ -46182,6 +46200,7 @@ midrashot
 midrib
 midribs
 midsagittal
+midsection
 midsize
 midsized
 midspaces
@@ -46604,6 +46623,7 @@ misallocate
 misallocating
 misallocation
 misallocations
+misallot
 misallots
 misallotting
 misally
@@ -47555,6 +47575,7 @@ monocots
 monocotyl
 monocotyledon
 monocotyledons
+monocotyls
 monocrat
 monocrats
 monocular
@@ -47594,6 +47615,7 @@ monohybrids
 monohydric
 monohydroxy
 monoicous
+monokines
 monolingual
 monolith
 monologging
@@ -48114,6 +48136,7 @@ movements
 mover
 movie
 moviedoms
+moviegoer
 moviegoers
 moviegoing
 moviemaker
@@ -50819,6 +50842,7 @@ novations
 novelette
 novelettish
 novelise
+novelist
 novelization
 novelizations
 novelizes
@@ -59027,6 +59051,7 @@ prednisolones
 prednisone
 prednisones
 predoctoral
+predominances
 predominant
 predominantly
 predominate
@@ -61889,6 +61914,7 @@ rads
 raffia
 raffishly
 raffle
+raffler
 rafflesias
 raffs
 raft
@@ -64363,6 +64389,7 @@ renewing
 renews
 renitence
 renitencies
+rennases
 rennets
 rennins
 renographies
@@ -68140,6 +68167,7 @@ scoot
 scootch
 scootched
 scooters
+scooting
 scoots
 scope
 scoped
@@ -69072,6 +69100,7 @@ sensated
 sensately
 sensates
 sensating
+sensation
 sensational
 sensationalise
 sensationalism
@@ -69431,6 +69460,7 @@ sexless
 sexlessly
 sexologic
 sexologist
+sexologists
 sexology
 sexploitation
 sext
@@ -71272,6 +71302,7 @@ sluffs
 slugabed
 slugabeds
 slugfest
+slugfests
 sluggardly
 slugger
 sluggers
@@ -72142,6 +72173,7 @@ soothsaid
 soothsayers
 soothsayings
 sootiest
+sootily
 sootinesses
 sooting
 soots
@@ -73797,6 +73829,7 @@ sterigma
 sterigmas
 sterigmata
 sterilants
+sterile
 sterilely
 sterilised
 sterilises
@@ -76658,6 +76691,7 @@ systematization
 systematized
 systematizer
 systematizers
+systematizing
 systemics
 systemizations
 systemizes
@@ -78020,6 +78054,7 @@ texturing
 texturized
 texturizing
 thacking
+thae
 thairm
 thalami
 thalamic
