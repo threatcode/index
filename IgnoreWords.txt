@@ -294,6 +294,7 @@ accruement
 accruements
 accrues
 acculturated
+acculturating
 accumulate
 accumulating
 accumulations
@@ -614,6 +615,7 @@ addition
 additional
 additionally
 additions
+additively
 additives
 additivities
 additory
@@ -1259,6 +1261,7 @@ aggressive
 aggressiveness
 aggressivities
 aggressor
+aggrievement
 aggrievements
 aggros
 agile
@@ -1342,6 +1345,7 @@ agrarian
 agrarianism
 agrarianisms
 agrarians
+agravic
 agree
 agreeable
 agreeably
@@ -6721,6 +6725,7 @@ berried
 berry
 berrylike
 berseem
+berserk
 berserker
 berserkly
 berserks
@@ -11732,6 +11737,7 @@ ceramals
 ceramics
 ceramides
 ceramist
+ceramists
 cerastes
 cerate
 cerates
@@ -17275,6 +17281,7 @@ crosshatches
 crosshatching
 crossheads
 crossing
+crossjacks
 crosslet
 crosslets
 crossness
@@ -20924,6 +20931,7 @@ dioestruses
 diolefin
 dionysiac
 dionysian
+diopside
 diopsides
 diopter
 diopters
@@ -21294,6 +21302,7 @@ discriminants
 discriminate
 discriminated
 discriminates
+discriminating
 discriminations
 discriminative
 discriminator
@@ -22668,6 +22677,7 @@ drawable
 drawbacks
 drawbars
 drawbridge
+drawee
 drawers
 drawing
 drawknife
@@ -23378,6 +23388,7 @@ earwitnesses
 earworms
 ease
 eased
+easel
 easement
 easements
 eases
@@ -28483,6 +28494,7 @@ flaunts
 flaunty
 flavanol
 flavanols
+flavanones
 flavine
 flavones
 flavoprotein
@@ -35890,6 +35902,7 @@ hurries
 hurst
 hurter
 hurters
+hurtful
 hurtfulnesses
 hurtles
 hurtless
@@ -37048,6 +37061,7 @@ imposters
 imposthume
 imposting
 imposts
+impostumes
 impostures
 impotencies
 impotency
@@ -44108,6 +44122,7 @@ magnesic
 magnesites
 magnesiums
 magnet
+magnetically
 magnetics
 magnetises
 magnetising
@@ -44515,6 +44530,7 @@ manipular
 manipulars
 manipulate
 manipulation
+manipulations
 manipulator
 manitous
 manitu
@@ -45505,6 +45521,7 @@ menarche
 menarches
 menazon
 mend
+mendacious
 mendaciously
 mendacities
 mendacity
@@ -47161,6 +47178,7 @@ missuiting
 missuses
 missy
 mistakable
+mistaken
 mistakenly
 mistakers
 mistaking
@@ -49472,6 +49490,7 @@ nestled
 nestler
 nestlers
 nestlike
+nestling
 nestor
 nestors
 nests
@@ -52894,6 +52913,7 @@ outroars
 outrock
 outrocked
 outrocking
+outrode
 outrolled
 outrolling
 outrooted
@@ -54369,6 +54389,7 @@ palps
 palships
 palter
 paltered
+palterers
 paltrily
 paltry
 paludism
@@ -57963,6 +57984,7 @@ polarimeter
 polarimeters
 polarimetric
 polariscope
+polariscopes
 polarised
 polarises
 polarities
@@ -58456,6 +58478,7 @@ pose
 posers
 poseur
 poseurs
+posh
 posher
 poshness
 poshnesses
@@ -59551,6 +59574,7 @@ presolves
 presolving
 presong
 presort
+presorted
 presorting
 prespecify
 press
@@ -60281,6 +60305,7 @@ propined
 propines
 propining
 propinquity
+propionate
 propionates
 propitiate
 propitiated
@@ -60831,6 +60856,7 @@ pubes
 pubescence
 pubescences
 pubescent
+public
 publically
 publication
 publicise
@@ -62447,6 +62473,7 @@ reacquaint
 reacquires
 reacquisition
 reacquisitions
+reactance
 reactants
 reacted
 reactionaryism
@@ -63391,6 +63418,7 @@ redwood
 redwoods
 redye
 redyeing
+redyes
 reearn
 reearns
 reedbird
@@ -65347,6 +65375,7 @@ retailor
 retailoring
 retailors
 retained
+retainer
 retains
 retaken
 retaker
@@ -70146,6 +70175,7 @@ shotgunning
 shots
 shott
 shotting
+shotts
 should
 shouldered
 shouldering
@@ -72275,6 +72305,7 @@ sorboses
 sorcerer
 sorceress
 sorceresses
+sorcery
 sordine
 sordines
 sordors
@@ -78617,6 +78648,7 @@ thrummier
 thrumming
 thrums
 thruput
+thrushes
 thrusted
 thruster
 thrusters
@@ -79065,6 +79097,7 @@ tobogganings
 tobogganist
 toboggans
 toccatas
+toccate
 tochering
 tocopherols
 tocsin
@@ -82611,6 +82644,7 @@ universalness
 universalnesses
 universals
 universities
+university
 univocal
 univocally
 univocals
@@ -83662,6 +83696,7 @@ uranium
 uraniums
 uranous
 uranyl
+uranyls
 uraris
 urase
 urates
