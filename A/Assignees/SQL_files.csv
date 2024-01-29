@@ -1,0 +1,5 @@
+dbt_github/models/github__issues.sql at main,https://github.com/fivetran/dbt_github/blob/main/models/github__issues.sql
+zendesk/models/stitch/transform/zendesk_tickets_xf.sql at master ...,https://github.com/fishtown-analytics/zendesk/blob/master/models/stitch/transform/zendesk_tickets_xf.sql
+apex-sample-search - Oracle,https://www.oracle.com/technetwork/developer-tools/apex/application-express/apex-sample-search-1668189.sql
+https://raw.githubusercontent.com/oracle/apex/21.1...,https://raw.githubusercontent.com/oracle/apex/21.1/sample-apps/sample-reporting/sample-reporting.sql
+apex-sample-file-upload-dload - Oracle,https://www.oracle.com/technetwork/developer-tools/apex/application-express/apex-sample-file-upload-dload-1668185.sql
