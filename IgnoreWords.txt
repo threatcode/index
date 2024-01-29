@@ -1422,6 +1422,7 @@ airborne
 airbrush
 airbrushed
 airbrushes
+airbuses
 aircoach
 aircoaches
 aircrew
@@ -2047,6 +2048,7 @@ ambitions
 ambitiousnesses
 ambivalence
 ambivalences
+ambivalent
 ambiversion
 ambiversions
 ambivert
@@ -2874,6 +2876,7 @@ antiarmor
 antiars
 antiarthritic
 antiarthritics
+antiasthma
 antiauxin
 antiauxins
 antibacklash
@@ -3954,6 +3957,7 @@ arrases
 array
 arrayal
 arrayals
+arrayed
 arrayers
 arraying
 arrays
@@ -4817,6 +4821,7 @@ autographs
 autography
 autogyros
 autoharp
+autoharps
 autoimmune
 autoinfection
 autoing
@@ -6011,6 +6016,7 @@ bathless
 batholiths
 bathoses
 bathrobe
+bathrobes
 bathtub
 bathymetric
 bathymetrically
@@ -9168,6 +9174,7 @@ britannias
 briths
 britskas
 britt
+brittania
 brittanias
 brittle
 brittlely
@@ -9777,6 +9784,7 @@ burlap
 burled
 burler
 burlesk
+burlesque
 burlesquely
 burlesquer
 burlesques
@@ -12655,6 +12663,7 @@ chlorinator
 chlorinity
 chlorins
 chlorobenzene
+chlorobenzenes
 chloroform
 chlorophyll
 chloroplast
@@ -15146,6 +15155,7 @@ condoles
 condoling
 condom
 condominium
+condoms
 condonation
 condonations
 condoned
@@ -16216,6 +16226,7 @@ cornrowing
 cornstalks
 cornucopia
 cornucopian
+cornucopias
 cornus
 cornute
 cornuted
@@ -19722,6 +19733,7 @@ denotative
 denote
 denotements
 denotes
+denouncement
 denouncements
 denouncer
 denounces
@@ -23697,6 +23709,7 @@ eddies
 eddo
 eddoes
 eddying
+edema
 edemas
 edematose
 edematous
@@ -24038,6 +24051,7 @@ electroscope
 electroscopes
 electroshock
 electrostatic
+electrosurgical
 electrotherapy
 electrothermal
 electrotonic
@@ -26105,6 +26119,7 @@ evaluating
 evaluation
 evaluations
 evaluative
+evaluator
 evaluators
 evanesce
 evanesced
@@ -26428,6 +26443,7 @@ execution
 executioner
 executive
 executrixes
+exedra
 exegesis
 exegetic
 exegetist
@@ -27056,6 +27072,7 @@ faceplates
 facer
 facers
 faceted
+facetiae
 faceting
 facetious
 facetiousness
@@ -27523,6 +27540,7 @@ faulds
 fault
 faulted
 faultfinders
+faultiness
 faulting
 faultless
 faultlessly
@@ -28392,6 +28410,7 @@ fishhooks
 fishiest
 fishing
 fishings
+fishkill
 fishkills
 fishlike
 fishline
@@ -30653,6 +30672,7 @@ galloons
 galloot
 galloots
 gallopades
+gallopers
 galloping
 gallous
 gallowglasses
@@ -32484,6 +32504,7 @@ granary
 grand
 grandad
 grandads
+grandbabies
 grandbaby
 grandchild
 granddad
@@ -41716,6 +41737,7 @@ lallans
 lallations
 lallygag
 lallygagged
+lallygagging
 lallygags
 lam
 lambadas
@@ -46932,6 +46954,7 @@ mirthfulnesses
 mirthless
 mirthlessly
 miry
+mirzas
 misact
 misacted
 misacts
@@ -47031,6 +47054,7 @@ miscarriage
 miscarry
 miscasts
 miscegenation
+miscegenational
 miscegenations
 miscellanea
 miscellaneously
@@ -50736,6 +50760,7 @@ nonlinearities
 nonliquid
 nonliterary
 nonliterates
+nonlives
 nonlocals
 nonloving
 nonlyric
@@ -56472,6 +56497,7 @@ persuasions
 persuasive
 persuasiveness
 pertain
+pertained
 pertains
 perter
 pertinaciously
@@ -58486,6 +58512,7 @@ polydipsic
 polydispersity
 polyembryony
 polyenes
+polyenic
 polyesters
 polyestrous
 polyethylene
@@ -60021,6 +60048,7 @@ pretorians
 pretrain
 pretrains
 pretravel
+pretreat
 pretreated
 pretreatments
 pretreats
@@ -63850,6 +63878,7 @@ reemphases
 reemphasized
 reemployed
 reemploying
+reenact
 reenacted
 reenacting
 reenactment
@@ -63884,6 +63913,7 @@ reenthrone
 reenthroned
 reenthrones
 reenthroning
+reentries
 reequipment
 reequipments
 reequips
@@ -64323,6 +64353,7 @@ reimaged
 reimages
 reimagines
 reimaging
+reimbursable
 reimburse
 reimbursing
 reimmerse
@@ -66836,6 +66867,7 @@ rollmops
 rollouts
 rollover
 rolls
+rollway
 romaines
 roman
 romancing
@@ -70320,6 +70352,7 @@ shielder
 shielders
 shieling
 shielings
+shiels
 shier
 shiers
 shifted
@@ -85147,6 +85180,7 @@ vibratile
 vibrations
 vibrato
 vibrators
+vibratory
 vibrios
 vibrioses
 vibrissal
@@ -87892,6 +87926,7 @@ yatagan
 yatagans
 yatter
 yattering
+yatters
 yauld
 yaup
 yauper
