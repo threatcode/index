@@ -1924,6 +1924,7 @@ alpinisms
 alps
 alright
 alsike
+alsikes
 also
 altazimuth
 altazimuths
@@ -5121,6 +5122,7 @@ azoted
 azotemic
 azotic
 azotise
+azotize
 azotobacter
 azotobacters
 azulejo
@@ -6134,6 +6136,7 @@ beamed
 beamier
 beamily
 beamish
+beamless
 beams
 beamy
 bean
@@ -6326,6 +6329,7 @@ bedrocks
 bedroomed
 bedrooms
 bedrugged
+bedrugs
 beds
 bedsheets
 bedside
@@ -8473,6 +8477,7 @@ bordures
 boreal
 boreas
 borecole
+borecoles
 boredom
 boredoms
 boreen
@@ -9277,6 +9282,7 @@ broncobusters
 broncos
 broncs
 brontosaur
+brontosaurs
 brontosauruses
 bronze
 bronzed
@@ -9940,6 +9946,7 @@ butterfingered
 butterfingers
 butterfish
 butterfishes
+butterflied
 butterflyer
 butterflying
 butterier
@@ -16091,6 +16098,7 @@ coralbells
 coralberries
 coralberry
 coralloid
+coralroots
 corantos
 corban
 corbel
@@ -16222,6 +16230,7 @@ cornily
 corninesses
 cornpones
 cornrow
+cornrowed
 cornrowing
 cornstalks
 cornucopia
@@ -17652,6 +17661,7 @@ cuddlier
 cuddliest
 cudgel
 cudgeled
+cudgeler
 cudgels
 cuds
 cudweed
@@ -19003,6 +19013,7 @@ deconsecrations
 deconstructions
 deconstructive
 deconstructs
+decontaminate
 decontaminated
 decontaminating
 decontamination
@@ -21702,6 +21713,7 @@ dispatched
 dispatchers
 dispatches
 dispatching
+dispellers
 dispels
 dispended
 dispending
@@ -21775,6 +21787,7 @@ disproved
 disprovers
 disputably
 disputants
+disputation
 disputatiously
 disputer
 disputers
@@ -28121,6 +28134,7 @@ fighter
 fighting
 figments
 figulines
+figurable
 figural
 figurant
 figurate
@@ -28147,6 +28161,7 @@ filching
 filefishes
 filename
 filet
+fileted
 filial
 filially
 filiate
@@ -29774,6 +29789,7 @@ fraises
 fraktur
 framboises
 framed
+frameless
 framer
 framers
 frameshifts
@@ -30662,6 +30678,7 @@ gallimaufry
 gallinaceous
 galling
 gallinipper
+gallium
 galliums
 gallivanted
 galliwasps
@@ -32322,6 +32339,7 @@ gorhen
 gorier
 gorilla
 gorily
+gorinesses
 goring
 gormand
 gormandises
@@ -34667,6 +34685,7 @@ hemostases
 hemostasis
 hemostat
 hemostatics
+hemotoxic
 hemotoxin
 hempen
 hempiest
@@ -35813,6 +35832,7 @@ hostlers
 hot
 hotblood
 hotbox
+hotcakes
 hotch
 hotching
 hotchpotches
@@ -37762,6 +37782,7 @@ incumbency
 incumbents
 incumbered
 incumbers
+incunable
 incunables
 incur
 incurable
@@ -39722,6 +39743,7 @@ irritates
 irritatingly
 irritations
 irritative
+irrupt
 irrupting
 irruptions
 irrupts
@@ -42289,6 +42311,7 @@ leadworts
 leady
 leaf
 leafages
+leafiest
 leafiness
 leafinesses
 leafing
@@ -47896,6 +47919,7 @@ monickers
 monies
 moniliases
 moniliform
+monish
 monished
 monishes
 monishing
@@ -54622,6 +54646,7 @@ palatal
 palatalizing
 palatial
 palatially
+palatialnesses
 palatines
 palaver
 palavered
@@ -60089,6 +60114,7 @@ preventer
 prevention
 preventively
 preventives
+prevents
 preverb
 previable
 previewed
@@ -64282,6 +64308,7 @@ regulate
 regulating
 regulations
 regulator
+regulators
 reguli
 reguline
 regulus
@@ -66817,6 +66844,7 @@ rococo
 rococos
 rocs
 rodding
+rode
 rodenticide
 rodeoed
 rodeos
@@ -79072,6 +79100,7 @@ threated
 threatened
 threatener
 threatening
+threating
 threefold
 threep
 threeped
@@ -80165,6 +80194,7 @@ tracheoles
 tracheophytes
 tracheotomy
 trachles
+trachling
 trachoma
 trachomas
 track
@@ -82389,6 +82419,7 @@ uncombined
 uncomely
 uncomfortable
 uncomfortably
+uncommon
 uncommonest
 uncommonly
 uncommonness
@@ -83110,6 +83141,7 @@ unimpressed
 unimpressive
 uninflated
 uninflected
+uninitiated
 uninjured
 uninspected
 uninstalls
@@ -84687,6 +84719,7 @@ varnishes
 varnishing
 varoom
 varooming
+vars
 varsities
 varus
 varuses
@@ -85090,6 +85123,7 @@ vesicating
 vesicle
 vesicles
 vesicula
+vesiculae
 vesiculate
 vesiculating
 vesiculations
@@ -86088,6 +86122,7 @@ warily
 warinesses
 waring
 warisons
+warless
 warlordism
 warm
 warmakers
