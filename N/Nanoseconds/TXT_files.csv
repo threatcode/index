@@ -1,0 +1,20 @@
+Solutions to some problems from Chapter 8 and 9,https://www.cs.uic.edu/~troy/spring01/eecs371/MP6.txt
+pwm.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/pwm/pwm.txt
+PIV/doc/time-nanosleep.txt at master · spf13/PIV - GitHub,https://github.com/spf13/PIV/blob/master/doc/time-nanosleep.txt
+Documentation/devicetree/bindings/bif/qpnp-bsi.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-msm-hammerhead-3.4-kk-r1/Documentation/devicetree/bindings/bif/qpnp-bsi.txt
+https://plt.cs.northwestern.edu/pkg-build/server/b...,https://plt.cs.northwestern.edu/pkg-build/server/built/test-success/elapsed-nanoseconds.txt
+https://www.cs.cmu.edu/afs/cs/academic/class/15418...,https://www.cs.cmu.edu/afs/cs/academic/class/15418-s20/www/code/rec_05/heat/seq/result-omp-ghc05.txt
+msr.txt,https://www.kernel.org/doc/Documentation/virtual/kvm/msr.txt
+bcc/tools/funclatency_example.txt at master · iovisor/bcc - GitHub,https://github.com/iovisor/bcc/blob/master/tools/funclatency_example.txt
+pcap-savefile(5) - Tcpdump,https://www.tcpdump.org/manpages/libpcap-1.10.0/pcap-savefile.5.txt
+Documentation/devicetree/bindings/bus/ti-gpmc.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.1.1_r0.6/Documentation/devicetree/bindings/bus/ti-gpmc.txt
+Application Note 7 - Harvard Extension School CSCI E-92,https://cscie92.dce.harvard.edu/fall2022/AN7%2520SysTickTimer.txt
+Data Description,https://ronin.cs.sfu.ca/README.txt
+https://docs.rapids.ai/api/cudf/nightly/_sources/u...,https://docs.rapids.ai/api/cudf/nightly/_sources/user_guide/api_docs/api/cudf.TimedeltaIndex.nanoseconds.rst.txt
+https://www.cs.cmu.edu/afs/cs/academic/class/15418...,https://www.cs.cmu.edu/afs/cs/academic/class/15418-s20/www/code/rec_05/heat/seq/run-omp-latedays.txt
+SOFT_device_clock.txt - OpenAL Soft,https://openal-soft.org/openal-extensions/SOFT_device_clock.txt
+https://pandas.pydata.org/pandas-docs/version/2.1/...,https://pandas.pydata.org/pandas-docs/version/2.1/_sources/reference/api/pandas.Timedelta.nanoseconds.rst.txt
+https://docs.xarray.dev/en/v0.20.0/_sources/genera...,https://docs.xarray.dev/en/v0.20.0/_sources/generated/xarray.core.accessor_dt.TimedeltaAccessor.nanoseconds.rst.txt
+https://bugs.python.org/file24952/larry.st_mtime_n...,https://bugs.python.org/file24952/larry.st_mtime_ns.patch.8.txt
+fts10319.txt - PDS Atmospheres Node,https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Cassini/Cassini/DOCS%2520for%2520events%2520%26%2520Configuration%2520page/FTS/fts10319.txt
+rev1_5F00_lmbench_5F00_with...,https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/791/rev1_5F00_lmbench_5F00_with_5F00_no_5F00_custom_5F00_apps.txt
