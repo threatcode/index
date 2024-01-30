@@ -1070,6 +1070,7 @@ affectless
 affectlessness
 affects
 afferent
+affiant
 affiches
 affidavit
 affiliate
@@ -2138,6 +2139,7 @@ amidine
 amido
 amidol
 amidols
+amidone
 amidones
 amidship
 amidships
@@ -2446,6 +2448,7 @@ ancestresses
 ancho
 anchorage
 anchorages
+anchored
 anchoress
 anchoresses
 anchoret
@@ -5301,6 +5304,7 @@ backlisted
 backlists
 backloaded
 backloads
+backlogging
 backlogs
 backmost
 backpack
@@ -5797,6 +5801,7 @@ bareback
 barebacked
 bareboat
 bareboats
+bareboned
 barefaced
 barefacedly
 barefacedness
@@ -12193,6 +12198,7 @@ chaplaincy
 chapmen
 chappatis
 chaps
+chaptered
 chaptering
 chaquetas
 char
@@ -12551,6 +12557,7 @@ chickories
 chickpea
 chicks
 chickweed
+chicles
 chicory
 chics
 chid
@@ -13956,6 +13963,7 @@ coatdress
 coatdresses
 coated
 coatee
+coatees
 coater
 coati
 coating
@@ -19549,6 +19557,7 @@ deinonychuses
 deionization
 deionizations
 deionized
+deionizer
 deionizers
 deionizing
 deistic
@@ -21486,6 +21495,7 @@ discepted
 discepting
 discepts
 discern
+discernable
 discerned
 discerners
 discernible
@@ -29862,6 +29872,7 @@ forthwith
 fortifications
 fortifying
 fortissimo
+fortitude
 fortnight
 fortnights
 fortresses
@@ -31052,6 +31063,7 @@ gannets
 gannisters
 ganof
 gantelopes
+gantlet
 gantleted
 gantleting
 gantlets
@@ -34132,6 +34144,7 @@ hangings
 hangman
 hangmen
 hangnails
+hangnests
 hangout
 hangouts
 hangovers
@@ -36851,6 +36864,7 @@ hyponyms
 hyponymy
 hypopharynges
 hypopharynxes
+hypophyseal
 hypophysectomy
 hypophyses
 hypoploid
@@ -37225,6 +37239,7 @@ imbarks
 imbeciles
 imbecilities
 imbedded
+imbeds
 imbibition
 imbibitions
 imbitter
@@ -37354,6 +37369,7 @@ immunes
 immunised
 immunises
 immunities
+immunization
 immunize
 immunizing
 immunoassayable
@@ -37955,6 +37971,7 @@ incomplete
 incompleteness
 incompressible
 incomputable
+inconceivable
 inconceivably
 inconclusive
 incondite
@@ -38114,6 +38131,7 @@ indefectible
 indefensibility
 indefensibly
 indefinability
+indefinably
 indefiniteness
 indefinites
 indehiscence
@@ -39972,6 +39990,7 @@ irreality
 irreclaimable
 irreclaimably
 irreconcilable
+irreconcilably
 irrecoverable
 irrecoverably
 irrecusable
@@ -43327,6 +43346,7 @@ limeade
 limeades
 limed
 limekiln
+limekilns
 limelight
 limelighted
 limen
@@ -43719,6 +43739,7 @@ loader
 loading
 loadings
 loadmaster
+loadmasters
 loadstar
 loadstars
 loadstone
@@ -45937,6 +45958,7 @@ medicinable
 medicinal
 medicined
 medicining
+medick
 medicks
 medicolegal
 medievalism
@@ -46575,6 +46597,7 @@ meth
 methadone
 methadons
 methanes
+methaqualones
 methedrine
 methemoglobin
 methemoglobins
@@ -48798,6 +48821,7 @@ motorships
 motortrucks
 motorway
 motorways
+mots
 mott
 mottes
 mottled
@@ -52560,6 +52584,7 @@ only
 onomastic
 onomastically
 onomasticians
+onomatologies
 onomatology
 onomatopoeia
 onomatopoeic
@@ -59557,6 +59582,7 @@ pouches
 pouching
 pouchy
 pouff
+pouffe
 pouffs
 poulardes
 poulards
@@ -60395,6 +60421,7 @@ preshipped
 preships
 preshow
 preshowing
+preshown
 preshrank
 preshrinks
 preside
@@ -69600,6 +69627,7 @@ seadogs
 seafarer
 seafloor
 seafoods
+seafowl
 seafowls
 seafront
 seafronts
@@ -80404,6 +80432,7 @@ tongas
 tonging
 tongman
 tongmen
+tongueless
 tongues
 tonic
 tonically
@@ -80500,6 +80529,7 @@ topmost
 topo
 topocentric
 topograph
+topographically
 topographies
 topographs
 topoi
@@ -80951,6 +80981,7 @@ tranquilest
 tranquilities
 tranquility
 tranquilizer
+tranquilizes
 tranquilizing
 tranquillize
 tranquillized
@@ -82215,6 +82246,7 @@ tutee
 tutees
 tutelages
 tutelaries
+tutorage
 tutorages
 tutors
 tutorships
@@ -86537,6 +86569,7 @@ waes
 waesuck
 wafered
 waffed
+waffies
 waffing
 waffle
 waffler
@@ -88197,6 +88230,7 @@ woodwaxes
 woodwind
 woodworkers
 woodworking
+woodworkings
 woodworks
 woof
 woofs
@@ -88926,6 +88960,7 @@ zeps
 zerk
 zerks
 zeroed
+zeros
 zeroth
 zester
 zesters
