@@ -4221,6 +4221,7 @@ asperity
 aspers
 asperse
 aspersed
+asperser
 aspersion
 asphalt
 asphaltic
@@ -7348,6 +7349,7 @@ biochemically
 biochemicals
 biochemist
 biochemistries
+biochemists
 biochip
 biochips
 biocides
@@ -7469,6 +7471,7 @@ biotechs
 biotelemetries
 bioterrors
 biotic
+biotin
 biotins
 biotope
 biotoxin
@@ -10531,6 +10534,7 @@ cameos
 camerae
 cameral
 cameraman
+camerapersons
 cameras
 camerlengos
 camion
@@ -11570,6 +11574,7 @@ cathexes
 cathexis
 cathodal
 catholic
+catholicate
 catholicates
 catholicities
 catholicity
@@ -13165,6 +13170,7 @@ cinches
 cinchonas
 cinchonic
 cinchonines
+cincture
 cinctured
 cinders
 cindery
@@ -13661,6 +13667,7 @@ clinch
 clinches
 clinchingly
 clines
+cling
 clinged
 clinger
 clingfish
@@ -15603,6 +15610,7 @@ connubialisms
 connubialities
 connubiality
 connubially
+conoidal
 conoids
 conqueror
 conquests
@@ -17111,6 +17119,7 @@ craftily
 craftiness
 craftinesses
 craftsmanly
+craftsmanships
 craftswomen
 craftworks
 crafty
@@ -18578,6 +18587,7 @@ dampings
 dampish
 dampnesses
 damps
+damsel
 damselfishes
 damselflies
 damselfly
@@ -27075,6 +27085,7 @@ exsiccation
 exsiccations
 exsolution
 exstrophies
+exstrophy
 extant
 extemporary
 extemporise
@@ -28134,6 +28145,7 @@ ferredoxin
 ferreled
 ferrelled
 ferret
+ferreted
 ferriages
 ferricyanide
 ferried
@@ -30294,6 +30306,7 @@ friction
 frictional
 frictionlessly
 frictions
+fridges
 friedcake
 friedcakes
 friend
@@ -30733,6 +30746,7 @@ furriers
 furriery
 furrily
 furriners
+furriness
 furrinesses
 furrings
 furrowed
@@ -31766,6 +31780,7 @@ getaway
 gets
 gettable
 getter
+gettering
 getup
 getups
 geum
@@ -37440,6 +37455,7 @@ immortalizer
 immortalizers
 immortalizing
 immortally
+immovabilities
 immovability
 immovable
 immovably
@@ -38658,6 +38674,7 @@ infrastructure
 infrastructures
 infrequence
 infrequences
+infrequent
 infrequently
 infringe
 infringed
@@ -41862,6 +41879,7 @@ kopeks
 kophs
 kopiyka
 koppie
+kora
 korats
 korma
 kormas
@@ -42356,6 +42374,7 @@ lankily
 lankinesses
 lankness
 lanky
+lanneret
 lanners
 lanosities
 lanosity
@@ -48461,6 +48480,7 @@ monofils
 monogamies
 monogamist
 monogamists
+monogamous
 monogastric
 monogeneans
 monogenesis
@@ -49517,6 +49537,7 @@ mutagenicity
 mutant
 mutate
 mutated
+mutates
 mutating
 mutational
 mutations
@@ -53042,6 +53063,7 @@ orgiasts
 orgic
 orgulous
 oriels
+oriental
 orientalisms
 orientalists
 orientalize
@@ -53838,6 +53860,7 @@ outscoring
 outscorn
 outscorning
 outscreaming
+outscreams
 outsee
 outseeing
 outselling
@@ -56029,6 +56052,7 @@ pastured
 pasturing
 pasty
 pat
+patagia
 patamar
 patamars
 patch
@@ -60659,6 +60683,7 @@ pretexting
 pretexts
 pretor
 pretorians
+pretournament
 pretrain
 pretrains
 pretravel
@@ -60969,6 +60994,7 @@ procambiums
 procarps
 procaryote
 procedurals
+proceeded
 proceeders
 proceedings
 procercoids
@@ -65491,6 +65517,7 @@ remove
 removedly
 remover
 removes
+remunerated
 remunerates
 remunerating
 remuneration
@@ -67261,6 +67288,7 @@ rimless
 rimmed
 rimmer
 rimmers
+rimming
 rimose
 rimosely
 rimosities
@@ -68263,6 +68291,7 @@ safariing
 safecracker
 safecracking
 safecrackings
+safeguards
 safelight
 safely
 safeness
@@ -69935,6 +69964,7 @@ secularizes
 secularizing
 secularly
 seculars
+secundly
 secure
 securely
 securenesses
@@ -73153,6 +73183,7 @@ sodalities
 sodality
 sodamide
 sodded
+sodden
 soddened
 soddening
 soddens
@@ -74172,6 +74203,7 @@ spirality
 spirally
 spirant
 spirants
+spire
 spirea
 spireas
 spired
@@ -79592,6 +79624,7 @@ therefore
 therefrom
 therein
 thereinafter
+thereinto
 thereof
 thereon
 thereto
@@ -85502,6 +85535,7 @@ vapoury
 vaquero
 var
 vara
+varactor
 varia
 variabilities
 variability
@@ -88407,6 +88441,7 @@ woodworking
 woodworkings
 woodworks
 woof
+woofers
 woofs
 woolens
 woolfell
