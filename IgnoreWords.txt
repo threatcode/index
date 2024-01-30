@@ -6799,6 +6799,7 @@ benzofurans
 benzoins
 benzole
 benzols
+benzophenone
 benzoyl
 bepaints
 bepimple
@@ -7823,6 +7824,7 @@ blearily
 blearing
 blears
 bleated
+bleaters
 bleating
 blebbing
 bleed
@@ -11398,6 +11400,7 @@ casimire
 casimires
 casita
 casitas
+cask
 casket
 casketed
 casketing
@@ -11496,6 +11499,7 @@ cataplasms
 cataplexy
 catapulting
 catapults
+cataract
 cataractous
 cataracts
 catarrhally
@@ -12225,6 +12229,7 @@ chaoses
 chap
 chaparrals
 chapbook
+chape
 chapeau
 chaperon
 chaperonage
@@ -16426,6 +16431,7 @@ coronaries
 coronary
 coronas
 coronate
+coronates
 coronating
 coronation
 coroner
@@ -17468,6 +17474,7 @@ crinoline
 crinolined
 crinolines
 crinum
+criollo
 cripe
 cripes
 cripple
@@ -19335,6 +19342,7 @@ deeps
 deepwater
 deer
 deerberries
+deerfly
 deerhound
 deers
 deerskins
@@ -19808,6 +19816,7 @@ demesnes
 demeton
 demetons
 demigod
+demigoddesses
 demigods
 demilitarized
 demilitarizes
@@ -24609,6 +24618,7 @@ embroidered
 embroiderer
 embroideries
 embroidering
+embroidery
 embroil
 embroiled
 embroiler
@@ -27179,6 +27189,7 @@ extinctive
 extinguished
 extinguishers
 extinguishing
+extinguishment
 extirpate
 extirpates
 extirpation
@@ -28251,6 +28262,7 @@ festooning
 fests
 fet
 feta
+fetal
 fetas
 fetations
 fetchers
@@ -30997,6 +31009,7 @@ galilees
 galingale
 galiot
 galivant
+galivanting
 gallamines
 gallantries
 gallantry
@@ -32458,6 +32471,7 @@ gneiss
 gneisses
 gneissic
 gneissose
+gnocchi
 gnome
 gnomes
 gnomic
@@ -34326,6 +34340,7 @@ haplont
 haplopia
 haplotype
 haply
+happenchance
 happening
 happenstance
 happenstances
@@ -34486,6 +34501,7 @@ haruspications
 haruspices
 harvest
 harvesters
+harvesting
 harvestman
 harvests
 harvesttimes
@@ -35050,6 +35066,7 @@ hemerocallis
 hemerythrin
 hemerythrins
 hemes
+hemic
 hemichordates
 hemihydrated
 hemimorphism
@@ -37343,6 +37360,7 @@ illustrations
 illustrators
 illustrious
 illustriously
+illuvia
 illuviate
 illuviates
 illuviation
@@ -37792,6 +37810,7 @@ impress
 impressed
 impressibility
 impressible
+impressing
 impressionable
 impressionism
 impressionistic
@@ -41391,6 +41410,7 @@ kepped
 keps
 kept
 keratin
+keratinizations
 keratinizes
 keratinizing
 keratinophilic
@@ -43909,6 +43929,7 @@ loadstar
 loadstars
 loadstone
 loaf
+loafed
 loafer
 loafers
 loamier
@@ -45154,6 +45175,7 @@ maligner
 maligning
 malignly
 maligns
+malihini
 malihinis
 malinger
 malingered
@@ -46795,6 +46817,7 @@ methought
 methoxide
 methoxides
 methoxychlor
+methoxyfluranes
 methoxyl
 methyl
 methylal
@@ -47274,6 +47297,7 @@ millieme
 milligal
 milligals
 millihenry
+millilamberts
 millilux
 millimeters
 millimho
@@ -47879,6 +47903,7 @@ mislocations
 mislodged
 mislodges
 mismake
+mismakes
 mismaking
 mismanages
 mismarked
@@ -48738,6 +48763,7 @@ moonsets
 moonshine
 moonshined
 moonshiners
+moonshot
 moonstones
 moonwalking
 moonward
@@ -50581,6 +50607,7 @@ newsrooms
 newswire
 newswomen
 newsworthiness
+newswriting
 newswritings
 newsy
 newt
@@ -57758,6 +57785,7 @@ phycomycetes
 phylacteries
 phylactery
 phyleses
+phylesis
 phyletic
 phyletically
 phyllary
@@ -64308,6 +64336,7 @@ rectors
 rectory
 rectos
 rectrices
+rectrix
 rectum
 rectus
 recultivate
@@ -70827,6 +70856,7 @@ sexologist
 sexologists
 sexology
 sexploitation
+sexpot
 sext
 sextain
 sextains
@@ -73883,6 +73913,7 @@ spandexes
 spangled
 spangles
 spanglier
+spangliest
 spangling
 spaniels
 spankers
@@ -78102,6 +78133,7 @@ syndets
 syndicalism
 syndicalist
 syndicate
+syndicates
 syndicator
 syndics
 syndromes
@@ -87991,6 +88023,7 @@ whosises
 whoso
 whump
 whumps
+whupped
 whups
 why
 wiccan
@@ -88061,6 +88094,7 @@ wiggle
 wiggles
 wiggling
 wiggly
+wight
 wigless
 wiglets
 wiglike
@@ -89009,6 +89043,7 @@ yearbook
 yearbooks
 yearend
 yearends
+yearlies
 yearlings
 yearlong
 yearn
