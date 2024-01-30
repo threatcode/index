@@ -3556,6 +3556,7 @@ apposition
 appositional
 appositive
 appositively
+appraisals
 appraise
 appraised
 appraisements
@@ -7587,6 +7588,7 @@ birthwort
 birthworts
 biryanis
 biscotto
+biscuit
 biscuity
 bise
 bisection
@@ -10277,6 +10279,7 @@ caducity
 caducous
 caeca
 caecally
+caecilian
 caecilians
 caeomas
 caesarean
@@ -11164,6 +11167,7 @@ carefulnesses
 caregivers
 caregiving
 caregivings
+carelessly
 carelessness
 carer
 carers
@@ -12393,6 +12397,7 @@ chauffeur
 chauffeuring
 chauffeurs
 chaulmoogras
+chaunted
 chaunter
 chaunters
 chaunting
@@ -12606,6 +12611,7 @@ chicest
 chichiest
 chick
 chickadees
+chickees
 chicken
 chickenhearted
 chickenshit
@@ -14582,6 +14588,7 @@ collimates
 collimation
 collimations
 collimator
+collimators
 collinear
 collinearity
 collins
@@ -14781,6 +14788,7 @@ comforter
 comforting
 comforts
 comfrey
+comfy
 comic
 comicalities
 comics
@@ -14834,6 +14842,7 @@ commercialism
 commercialities
 commercialized
 commercializing
+commercials
 commercing
 commie
 comminations
@@ -14923,6 +14932,7 @@ communiques
 communise
 communised
 communises
+communism
 communistic
 communitarian
 communitarians
@@ -17465,6 +17475,7 @@ criminologies
 criminologists
 criminy
 crimmer
+crimmers
 crimp
 crimped
 crimper
@@ -30188,6 +30199,7 @@ franchised
 franchisee
 franchisees
 franchiser
+franchisers
 franchises
 franchisor
 franchisors
@@ -31358,6 +31370,7 @@ gashing
 gasholders
 gashouse
 gasification
+gasifications
 gasifier
 gasifiers
 gasiform
@@ -35561,6 +35574,7 @@ hillcrests
 hilled
 hillers
 hilliness
+hilling
 hillo
 hilloaing
 hillocky
@@ -39482,6 +39496,7 @@ interfere
 interference
 interferers
 interferogram
+interferograms
 interferometers
 interferon
 interferons
@@ -39963,6 +39978,7 @@ invaluable
 invaluableness
 invar
 invariabilities
+invariable
 invariably
 invariance
 invariances
@@ -44422,6 +44438,7 @@ lovably
 lovages
 lovats
 loveably
+lovebird
 loved
 lovefest
 lovefests
@@ -49930,6 +49947,7 @@ nagana
 nagger
 naggers
 naggier
+nagging
 nags
 nah
 naiad
@@ -51935,6 +51953,7 @@ novelette
 novelettish
 novelise
 novelist
+novelists
 novelization
 novelizations
 novelizes
@@ -53595,6 +53614,7 @@ outcaviled
 outcavilled
 outcavilling
 outcharged
+outcharm
 outcheat
 outcheated
 outchid
@@ -58124,6 +58144,7 @@ pikeperch
 pikeperches
 piker
 pikestaves
+piking
 pikis
 pilaff
 pilaffs
@@ -62766,6 +62787,7 @@ quandong
 quandongs
 quango
 quantal
+quanted
 quantic
 quantics
 quantifies
@@ -63161,6 +63183,7 @@ radded
 radding
 raddled
 raddling
+radiable
 radials
 radian
 radiances
@@ -64510,6 +64533,7 @@ redeployed
 redeployment
 redeployments
 redeploys
+redeposit
 redeposited
 redescended
 redescends
@@ -71060,6 +71084,7 @@ shame
 shamefacedly
 shamefacedness
 shameless
+shamelessly
 shamelessness
 shames
 shaming
@@ -72608,6 +72633,7 @@ sleepier
 sleepiness
 sleeping
 sleepings
+sleepless
 sleeplike
 sleepover
 sleepovers
@@ -74729,6 +74755,7 @@ sprouts
 spruced
 sprucely
 sprucenesses
+spruces
 sprucier
 sprucing
 sprug
@@ -75273,6 +75300,7 @@ steepest
 steeping
 steepish
 steeplebush
+steeplechase
 steeplechasers
 steeplechases
 steepled
@@ -75865,6 +75893,7 @@ stratal
 strategic
 strategically
 strategies
+strategist
 strategists
 strategize
 strategy
@@ -80335,6 +80364,7 @@ tickseed
 tickseeds
 ticktacked
 ticktacktoes
+ticktock
 ticktocked
 ticktocks
 tictac
@@ -81216,6 +81246,7 @@ toxoplasmas
 toxoplasmic
 toyer
 toyless
+toyons
 toyshops
 trabeate
 trabecular
@@ -81720,6 +81751,7 @@ trellising
 trematode
 tremble
 trembled
+trembler
 tremblers
 trembly
 tremendously
@@ -84858,6 +84890,7 @@ unstates
 unsteadied
 unsteadier
 unsteadies
+unsteadiest
 unsteadily
 unsteadinesses
 unsteadying
@@ -86315,6 +86348,7 @@ viaticals
 viaticums
 viators
 vibe
+vibracula
 vibrancies
 vibrated
 vibrates
@@ -88711,6 +88745,7 @@ wooralis
 woos
 wooshed
 wooshes
+wooshing
 woozier
 wooziest
 woozily
