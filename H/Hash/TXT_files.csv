@@ -8,3 +8,13 @@ scaling.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation
 Nefilim-Yara-Rules.txt - Trend Micro,https://documents.trendmicro.com/assets/Nefilim-Yara-Rules.txt
 fireeye-cve-hashes.txt,https://www.qualys.com/docs/fireeye-cve-hashes.txt
 oldfaith.txt,https://users.phhp.ufl.edu/pqiu/teaching/stat8051/fall12/data/oldfaith.txt
+Message Authentication Code using Universal Hashing - IETF,https://www.ietf.org/rfc/rfc4418.txt
+verity.txt,https://www.kernel.org/doc/Documentation/device-mapper/verity.txt
+RFC 4982,https://www.rfc-editor.org/rfc/rfc4982.txt
+requirements-dev-lock.txt - boto/s3transfer - GitHub,https://github.com/boto/s3transfer/blob/develop/requirements-dev-lock.txt
+Transport Layer Security (TLS) Session Hash and Extended Master ...,https://www.rfc-editor.org/rfc/rfc7627.txt
+scaling.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/networking/scaling.txt
+hash-iocs.txt - Neo23x0/signature-base - GitHub,https://github.com/Neo23x0/signature-base/blob/master/iocs/hash-iocs.txt
+Hash::Util - A selection of general-utility hash subroutines,https://www.perldoc.pl/5.24.0/Hash::Util.txt
+Tie::Hash::NamedCapture - Named regexp capture buffers,https://perldoc.perl.org/5.24.3/Tie::Hash::NamedCapture.txt
+Nefilim-Yara-Rules.txt - Trend Micro,https://documents.trendmicro.com/assets/Nefilim-Yara-Rules.txt
