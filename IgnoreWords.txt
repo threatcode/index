@@ -1821,6 +1821,7 @@ allometric
 allometry
 allomorph
 allomorphs
+allonges
 allopath
 allopathies
 allopathy
@@ -2397,6 +2398,7 @@ analyzer
 analyzers
 analyzes
 analyzing
+anamnestic
 anankes
 anapaest
 anapaests
@@ -8727,6 +8729,7 @@ bourgeoning
 bourn
 bourns
 bourree
+bourride
 bourrides
 boursins
 bourtree
@@ -9079,6 +9082,7 @@ breathabilities
 breathe
 breathed
 breathers
+breathier
 breathinesses
 breathings
 breathtaking
@@ -17257,6 +17261,7 @@ crediting
 creditor
 creditors
 credits
+credulity
 credulous
 credulously
 credulousness
@@ -20739,6 +20744,7 @@ diagnostically
 diagnosticians
 diagonal
 diagonalizable
+diagonalize
 diagonalizes
 diagonals
 diagrammable
@@ -22655,6 +22661,7 @@ doozie
 doozies
 doozy
 dopamine
+dopaminergic
 dope
 dopehead
 dopeheads
@@ -24708,6 +24715,7 @@ emulousness
 emulsifiable
 emulsifier
 emulsifiers
+emulsifies
 emulsify
 emulsoid
 emulsoidal
@@ -25722,6 +25730,7 @@ equips
 equisetic
 equitable
 equitableness
+equitablenesses
 equitant
 equitations
 equities
@@ -27063,6 +27072,7 @@ exteriorize
 exteriorized
 exteriorizing
 exteriorly
+exteriors
 exterminate
 exterminating
 extermination
@@ -29160,6 +29170,7 @@ florilegium
 floristic
 floristically
 floristries
+florists
 floss
 flossed
 flossies
@@ -30713,6 +30724,7 @@ fuss
 fussbudget
 fussbudgety
 fusses
+fussier
 fussiest
 fussily
 fussiness
@@ -31618,6 +31630,7 @@ geosyncline
 geosynclines
 geotaxis
 geotectonically
+geothermal
 geothermally
 geotropism
 gerah
@@ -33592,6 +33605,7 @@ gurnard
 gurneys
 gursh
 gurus
+gush
 gushers
 gushier
 gushiest
@@ -33788,6 +33802,7 @@ hadji
 hadronic
 hadrons
 hadrosaur
+haecceity
 haematal
 haematics
 haematin
@@ -35428,6 +35443,7 @@ hirsle
 hirsles
 hirsutenesses
 hirsutism
+hirudins
 hisn
 hispanidad
 hispanidads
@@ -41037,6 +41053,7 @@ kakiemons
 kakis
 kalamatas
 kaleidoscope
+kalends
 kales
 kalewives
 kaleyard
@@ -43016,6 +43033,7 @@ leukemics
 leukemogeneses
 leukemogenesis
 leukemogenic
+leukocytosis
 leukoma
 leukomas
 leukopenia
@@ -51737,6 +51755,7 @@ nucleonics
 nucleophile
 nucleophiles
 nucleophilicity
+nucleoplasm
 nucleoprotein
 nucleoproteins
 nucleoside
@@ -56849,6 +56868,7 @@ pernod
 pernods
 peroneal
 perorate
+perorated
 perorates
 perorating
 peroration
@@ -58008,6 +58028,7 @@ piny
 pinyin
 pinyon
 pinyons
+piolets
 pioneered
 pioneering
 pioneers
@@ -58649,6 +58670,7 @@ plundering
 plunger
 plungers
 plunkers
+plunky
 pluperfect
 pluperfects
 pluralism
@@ -58656,6 +58678,7 @@ pluralisms
 pluralistic
 pluralists
 pluralities
+plurality
 pluralize
 pluralizing
 pluripotent
@@ -59083,6 +59106,7 @@ polypuses
 polyrhythm
 polyribosome
 polyribosomes
+polys
 polysaccharide
 polysaccharides
 polysorbates
@@ -61494,6 +61518,7 @@ proverbial
 proverbing
 providence
 provident
+providential
 providently
 provider
 providers
@@ -63837,6 +63862,7 @@ reclothe
 reclothes
 reclothing
 recluses
+reclusive
 reclusively
 reclusiveness
 reclusivenesses
@@ -70253,6 +70279,7 @@ sensualizations
 sensualize
 sensualizes
 sensum
+sensuosities
 sensuosity
 sensuously
 sensuousnesses
@@ -70278,6 +70305,7 @@ sentiments
 sentimo
 sentimos
 sentinel
+sentinelled
 sentinels
 sepal
 sepaled
@@ -73463,6 +73491,7 @@ soundman
 soundproofed
 soundstage
 soup
+souped
 soupier
 soupless
 souplike
@@ -73667,6 +73696,7 @@ sparred
 sparrier
 sparriest
 spars
+sparse
 sparsely
 sparseness
 sparsenesses
@@ -73849,6 +73879,7 @@ spelldown
 spelldowns
 spelled
 spellers
+spellings
 spelter
 spelters
 spelts
@@ -76675,6 +76706,7 @@ summerier
 summerlike
 summerly
 summersaulting
+summersaults
 summerset
 summersets
 summersetted
@@ -81871,6 +81903,7 @@ trudge
 trudged
 trudger
 trudges
+true
 trueborn
 trueing
 trueness
@@ -84264,6 +84297,7 @@ unroof
 unroofed
 unroofing
 unroofs
+unrooted
 unrooting
 unroots
 unroped
@@ -88218,6 +88252,7 @@ woodruffs
 woods
 woodshed
 woodshedding
+woodsheds
 woodsier
 woodsman
 woodsy
