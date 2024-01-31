@@ -54,6 +54,7 @@ abrogators
 abrupt
 abrupter
 abruptest
+abruption
 abruptions
 abruptnesses
 abscesses
@@ -469,6 +470,7 @@ acquisitively
 acquisitiveness
 acquisitors
 acquittal
+acquittance
 acquitted
 acquitter
 acquitters
@@ -4925,6 +4927,7 @@ automaker
 automakers
 automan
 automat
+automatable
 automates
 automatic
 automatically
@@ -6556,6 +6559,7 @@ begets
 beggardom
 beggaring
 beggarlinesses
+beggarweed
 beggarweeds
 begged
 beginners
@@ -8108,6 +8112,7 @@ blubber
 blubbered
 blubs
 blucher
+bludgeon
 bludgeoned
 bludgeons
 bludger
@@ -10750,6 +10755,7 @@ candleholders
 candlelight
 candlelights
 candlepower
+candlepowers
 candler
 candles
 candlesnuffer
@@ -12338,6 +12344,7 @@ chappatis
 chaps
 chaptered
 chaptering
+chaqueta
 chaquetas
 char
 charabanc
@@ -16644,6 +16651,7 @@ corrosion
 corrosions
 corrosive
 corrosiveness
+corrosivenesses
 corrugate
 corrugated
 corrugates
@@ -17577,6 +17585,7 @@ criminis
 criminological
 criminologies
 criminologists
+criminous
 criminy
 crimmer
 crimmers
@@ -17710,6 +17719,7 @@ cross
 crossability
 crossarm
 crossarms
+crossbanded
 crossbanding
 crossbar
 crossbarred
@@ -20357,6 +20367,7 @@ deracinations
 deraign
 derailed
 derailing
+derailleur
 derailleurs
 derails
 derange
@@ -20936,6 +20947,7 @@ diabase
 diabases
 diabasic
 diabetes
+diabetologists
 diabolizing
 diabolo
 diabolos
@@ -25188,6 +25200,7 @@ endomorphies
 endomorphism
 endomorphisms
 endoparasite
+endoparasites
 endoparasitic
 endopeptidase
 endopeptidases
@@ -27753,6 +27766,7 @@ falchion
 falchions
 falciform
 falcon
+falconer
 falconine
 falconoid
 falconries
@@ -28937,6 +28951,7 @@ firmly
 firmness
 firmnesses
 firms
+firmwares
 firn
 firns
 firrier
@@ -29052,6 +29067,7 @@ flabs
 flaccid
 flaccidly
 flack
+flackeries
 flacks
 flacons
 flagella
@@ -32422,6 +32438,7 @@ glegnesses
 gleization
 glen
 glengarries
+glenlike
 glenoid
 gley
 gleyings
@@ -34412,6 +34429,7 @@ hammered
 hammerheads
 hammering
 hammerkop
+hammertoe
 hammier
 hammily
 hamminesses
@@ -36681,6 +36699,7 @@ huff
 huffinesses
 huffing
 huffs
+hug
 hugeness
 hugeous
 hugeously
@@ -46976,6 +46995,7 @@ mestizos
 met
 meta
 metabolic
+metabolism
 metabolisms
 metabolite
 metabolizable
@@ -53456,6 +53476,7 @@ ore
 oreads
 oreides
 oreodont
+oreodonts
 orfray
 organ
 organa
@@ -53478,6 +53499,7 @@ organizational
 organize
 organized
 organizer
+organizes
 organochlorines
 organogenesis
 organology
@@ -55505,6 +55527,7 @@ pacier
 pacifiable
 pacific
 pacifical
+pacificisms
 pacifier
 pacifiers
 pacifies
@@ -57562,6 +57585,7 @@ pertain
 pertained
 pertains
 perter
+pertest
 pertinaciously
 pertinacity
 pertly
@@ -57886,6 +57910,7 @@ philtra
 philtre
 philtres
 philtring
+philtrum
 phizes
 phlebitic
 phlebitis
@@ -64850,6 +64875,7 @@ redevelopers
 redevelopment
 redevelopments
 redevelops
+redeyes
 redfins
 redfishes
 redheaded
@@ -68051,6 +68077,7 @@ rockworks
 rococo
 rococos
 rocs
+rodded
 rodding
 rode
 rodenticide
@@ -73777,6 +73804,7 @@ softback
 softbacks
 softballers
 softballs
+softbound
 softcover
 softcovers
 soften
@@ -75244,6 +75272,7 @@ squill
 squillae
 squinches
 squinching
+squinnier
 squinnying
 squint
 squintest
@@ -76105,6 +76134,7 @@ stopover
 stoppage
 stopped
 stopper
+stoppering
 stopple
 stoppling
 stops
@@ -77057,6 +77087,7 @@ subserviencies
 subserviency
 subserving
 subset
+subsets
 subshaft
 subshell
 subshrubs
@@ -79467,6 +79498,7 @@ tectonically
 tectrices
 tectrix
 ted
+tedded
 tedder
 teddering
 teddies
@@ -83342,6 +83374,7 @@ udos
 ufologies
 ufologist
 ufologists
+ufology
 uglier
 ugliest
 uglification
@@ -85895,6 +85928,7 @@ urticants
 urticarial
 urticarias
 urticate
+urticates
 uruses
 urushiol
 usabilities
@@ -87735,6 +87769,7 @@ warrigals
 wars
 warsaws
 warship
+warslers
 warsles
 wart
 warthog
