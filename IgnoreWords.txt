@@ -762,6 +762,7 @@ admittances
 admitted
 admittee
 admitter
+admitters
 admix
 admixt
 admixture
@@ -5080,6 +5081,7 @@ avicular
 avidities
 avidity
 avidness
+avifaunae
 avifaunas
 avigator
 avion
@@ -8580,6 +8582,7 @@ booklets
 booklore
 bookmaker
 bookmakings
+bookman
 bookmarkers
 bookmarking
 bookmarks
@@ -8742,6 +8745,7 @@ botanical
 botanicas
 botanies
 botanised
+botanising
 botanist
 botanized
 botanizer
@@ -12676,6 +12680,7 @@ chemotaxonomist
 chemotaxonomy
 chemotherapists
 chemotherapy
+chemotropisms
 chemurgic
 chenopods
 chequer
@@ -14797,6 +14802,7 @@ colonising
 colonist
 colonists
 colonitis
+colonize
 colonized
 colonizer
 colonizes
@@ -16290,6 +16296,7 @@ convulsively
 cooches
 cooed
 cooees
+cooeying
 cooeys
 cooingly
 cookable
@@ -18342,6 +18349,7 @@ curves
 curveted
 curvets
 curvetted
+curvetting
 curvey
 curviest
 curvilinearity
@@ -18680,6 +18688,7 @@ dabbles
 dabblings
 dabs
 dace
+dacha
 dachshund
 dachshunds
 dackered
@@ -22418,6 +22427,7 @@ dissolve
 dissolved
 dissolvent
 dissolvents
+dissolver
 dissonance
 dissonances
 dissuader
@@ -23031,6 +23041,7 @@ doronicums
 dorp
 dorper
 dorpers
+dorr
 dorrs
 dorsa
 dorsally
@@ -26122,6 +26133,7 @@ equities
 equity
 equivalences
 equivalent
+equivalently
 equivocal
 equivocality
 equivocate
@@ -26616,6 +26628,7 @@ euglobulins
 euhemerism
 euhemerisms
 euhemerist
+euhemerists
 eukaryote
 eukaryotes
 eukaryotic
@@ -29842,6 +29855,7 @@ fogbows
 fogdogs
 fogey
 fogeyisms
+fogeys
 fogfruit
 foggages
 foggier
@@ -37369,6 +37383,7 @@ hypha
 hyphae
 hyphal
 hyphemia
+hyphemias
 hyphenate
 hyphenates
 hyphenations
@@ -39667,6 +39682,7 @@ insulates
 insulating
 insulin
 insulted
+insulter
 insults
 insupportable
 insuppressible
@@ -40333,6 +40349,7 @@ inurned
 inurning
 inurnment
 inutilities
+invade
 invaded
 invader
 invading
@@ -50649,6 +50666,7 @@ nazified
 nazifies
 nazify
 nazis
+ne
 near
 nearer
 nearest
@@ -53184,6 +53202,7 @@ okehs
 okes
 okra
 olden
+oldfangled
 oldies
 oldsquaws
 oldstyles
@@ -59308,6 +59327,7 @@ pleat
 pleated
 pleather
 pleathers
+pleatless
 pleats
 pleb
 plebeian
@@ -59327,6 +59347,7 @@ pledger
 pledgers
 pledgets
 pledging
+pleiades
 pleinairisms
 pleinairist
 pleiocene
@@ -59615,6 +59636,7 @@ poetizing
 poetless
 poetries
 poetry
+pogies
 pogonia
 pogonias
 pogromed
@@ -60038,6 +60060,7 @@ poohing
 pooing
 pooler
 poolhalls
+poolroom
 pooped
 pooping
 poops
@@ -60885,6 +60908,7 @@ preens
 preerecting
 preerects
 preestablish
+preestablished
 preestablishing
 preethical
 preexcite
@@ -62767,6 +62791,7 @@ pulverulent
 pulvilli
 pulvillus
 pulvinar
+pulvinate
 pulvini
 pumelo
 pumice
@@ -63052,6 +63077,7 @@ putouts
 putrefaction
 putrefied
 putrefiers
+putrefying
 putrescible
 putrescine
 putrescines
@@ -63078,6 +63104,7 @@ puzzlingly
 pya
 pyaemia
 pycnidia
+pycnometer
 pycnoses
 pycnosis
 pye
@@ -63659,6 +63686,7 @@ rabbity
 rabble
 rabbles
 rabic
+rabid
 rabidnesses
 rabies
 rabietic
@@ -64591,6 +64619,7 @@ recalling
 recamiers
 recanalization
 recanalizes
+recanalizing
 recaned
 recanes
 recaning
@@ -69418,6 +69447,7 @@ sandpapering
 sandpile
 sandpiles
 sandpiper
+sandpit
 sandpits
 sandshoe
 sandsoap
@@ -71252,6 +71282,7 @@ sentients
 sentiment
 sentimentalise
 sentimentalisms
+sentimentality
 sentimentalized
 sentimentalizes
 sentiments
@@ -73105,6 +73136,7 @@ skyrockets
 skysail
 skyscrapers
 skysurf
+skysurfer
 skysurfs
 skyward
 skywards
@@ -73396,6 +73428,7 @@ sloganizes
 slogged
 slogger
 sloggers
+slogging
 slogs
 sloids
 slojd
@@ -83073,6 +83106,7 @@ truthfulness
 truthless
 trying
 tryma
+tryouts
 trypanosome
 trypanosomiasis
 trypsinogens
@@ -90210,6 +90244,7 @@ zemindaries
 zemindars
 zenaidas
 zenith
+zeniths
 zeolitic
 zephyr
 zeppelins
