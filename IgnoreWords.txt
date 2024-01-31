@@ -101,6 +101,7 @@ absorbed
 absorbent
 absorbers
 absorptance
+absorptances
 absorptions
 absorptive
 absorptivities
@@ -6977,6 +6978,7 @@ besnowed
 besnows
 besoms
 besoothes
+besoothing
 besought
 bespangle
 bespangles
@@ -8508,6 +8510,7 @@ bongs
 bonhomies
 bonhomous
 boniato
+boniatos
 boniest
 boniface
 bonifaces
@@ -10055,6 +10058,7 @@ busbar
 busboy
 busby
 bused
+busgirl
 bushbuck
 bushbucks
 busheler
@@ -14313,6 +14317,7 @@ coddlers
 codebooks
 codebtor
 codebtors
+codec
 codeias
 codeinas
 codeines
@@ -15442,6 +15447,7 @@ concretize
 concretizing
 concubinages
 concubine
+concubines
 concupiscence
 concupiscences
 concupiscible
@@ -27375,6 +27381,7 @@ expunges
 expunging
 expurgate
 expurgation
+expurgations
 expurgatory
 exquisite
 exquisitely
@@ -29634,6 +29641,7 @@ flued
 fluegelhorns
 fluencies
 fluent
+fluerics
 fluff
 fluffer
 fluffs
@@ -34373,6 +34381,7 @@ hakims
 hakus
 halachas
 halachic
+halachist
 halachists
 halachot
 halachoth
@@ -35903,6 +35912,7 @@ hinting
 hints
 hip
 hipbone
+hipbones
 hiphugger
 hipless
 hipline
@@ -41960,6 +41970,7 @@ kickboxing
 kickboxings
 kicked
 kicker
+kicking
 kickstart
 kickstarted
 kickstarts
@@ -43440,6 +43451,7 @@ lehayims
 lehr
 lehua
 lei
+leiomyoma
 leiomyomas
 leishmania
 leishmaniases
@@ -50140,6 +50152,7 @@ mycetozoan
 mycoflora
 mycoflorae
 mycologic
+mycological
 mycologies
 mycologists
 mycophagies
@@ -51422,6 +51435,7 @@ nonabsorbent
 nonabsorptive
 nonabstract
 nonacceptance
+nonacceptances
 nonaccredited
 nonaccrual
 nonachievements
@@ -54559,6 +54573,7 @@ outthank
 outthanked
 outthanking
 outthanks
+outthieved
 outthieves
 outthinking
 outthought
@@ -55313,6 +55328,7 @@ overskirt
 overslaughing
 overslaughs
 oversleeps
+overslip
 overslipping
 overslow
 oversmoked
@@ -56676,6 +56692,7 @@ patchinesses
 patchoulies
 patchoulis
 patchouly
+patchwork
 patchworked
 patchy
 patellate
@@ -62096,6 +62113,7 @@ prosecutor
 prosecutorial
 proselyte
 proselytise
+proselytises
 proselytising
 proselytize
 proselytized
@@ -64395,6 +64413,7 @@ reassure
 reassuring
 reassuringly
 reattach
+reattaches
 reattachments
 reattack
 reattacking
@@ -64996,6 +65015,7 @@ redefect
 redefecting
 redefied
 redefined
+redefines
 redefinition
 redefying
 redeliver
@@ -67593,6 +67613,7 @@ revolts
 revolute
 revolutionary
 revolutionise
+revolutionised
 revolutionist
 revolutionize
 revolutionizer
@@ -71371,6 +71392,7 @@ serriednesses
 serries
 serrying
 serum
+serumal
 servals
 servant
 servanthoods
@@ -72568,6 +72590,7 @@ silviculturist
 simaruba
 simarubas
 simas
+simazine
 simazines
 simian
 similarities
@@ -74903,6 +74926,7 @@ spied
 spiegeleisens
 spiegels
 spiel
+spieler
 spiels
 spiered
 spiering
@@ -76275,6 +76299,7 @@ stonecrops
 stonecutting
 stonefish
 stonefishes
+stoneflies
 stoner
 stoners
 stonewall
@@ -77807,6 +77832,7 @@ supercedes
 superceding
 supercenters
 supercharged
+supercharger
 supercharges
 supercharging
 superchic
@@ -78686,6 +78712,7 @@ sylvite
 sylvites
 symbionts
 symbiosis
+symbiotes
 symbiotically
 symbiots
 symbol
@@ -80478,6 +80505,7 @@ thermidor
 thermionics
 thermions
 thermistor
+thermistors
 thermit
 thermites
 thermochemistry
@@ -80820,6 +80848,7 @@ throws
 thrummer
 thrummier
 thrumming
+thrummy
 thrums
 thruput
 thrushes
@@ -85187,6 +85216,7 @@ unplanned
 unplanted
 unplausible
 unplayable
+unplayed
 unpleasantness
 unpleasing
 unpledged
@@ -85618,6 +85648,7 @@ untidied
 untidiest
 untidily
 untidiness
+untidinesses
 untidying
 untied
 until
@@ -85737,6 +85768,7 @@ unwilling
 unwillingnesses
 unwinder
 unwinders
+unwinds
 unwisdom
 unwisdoms
 unwise
@@ -87215,6 +87247,7 @@ viremic
 vireo
 vireonine
 vireos
+vires
 virescences
 virescent
 virga
@@ -88697,6 +88730,7 @@ whirring
 whirrying
 whished
 whishing
+whishted
 whishting
 whishts
 whisked
@@ -90012,6 +90046,7 @@ yukking
 yuks
 yuletide
 yuletides
+yummier
 yummiest
 yumminess
 yummy
