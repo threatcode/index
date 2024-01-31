@@ -4928,6 +4928,7 @@ autoharp
 autoharps
 autoimmune
 autoinfection
+autoinfections
 autoing
 autologous
 autolysate
@@ -5401,6 +5402,7 @@ backset
 backshore
 backshores
 backside
+backslap
 backslapped
 backslide
 backslider
@@ -6265,6 +6267,7 @@ beadwork
 beadworks
 beady
 beagle
+beak
 beaker
 beaks
 beam
@@ -6961,6 +6964,7 @@ beshrouded
 beshrouding
 beshrouds
 besiege
+besieges
 besieging
 beslaved
 beslimed
@@ -9731,6 +9735,7 @@ buffeters
 buffeting
 buffing
 buffoon
+buffoonery
 buffoonish
 buffos
 buffs
@@ -11560,6 +11565,7 @@ caste
 castellans
 castellated
 caster
+castes
 castigate
 castigating
 castigations
@@ -13127,6 +13133,7 @@ chrismation
 chrismations
 chrisms
 chrisom
+christen
 christened
 christening
 christens
@@ -13539,6 +13546,7 @@ civilizer
 civilnesses
 civism
 civisms
+civvies
 clabbering
 clach
 clack
@@ -18332,6 +18340,7 @@ curveballing
 curved
 curves
 curveted
+curvets
 curvetted
 curvey
 curviest
@@ -18587,6 +18596,7 @@ cyprinoid
 cyprinoids
 cypripedium
 cyproterone
+cyproterones
 cypruses
 cypsela
 cypselae
@@ -19630,6 +19640,7 @@ deferrer
 defervescence
 defervescences
 deffer
+deffest
 defi
 defiance
 defiant
@@ -20137,6 +20148,7 @@ denature
 denatures
 denaturing
 denazification
+denazifications
 denazifies
 denazify
 denazifying
@@ -20508,6 +20520,7 @@ desalinations
 desalinization
 desalinized
 desalinizes
+desalted
 desalting
 desalts
 desand
@@ -20596,6 +20609,7 @@ desirables
 desirably
 desired
 desires
+desiring
 desirousness
 desirousnesses
 desist
@@ -22217,6 +22231,7 @@ disperser
 disperses
 dispersing
 dispersion
+dispersions
 dispersive
 dispersiveness
 dispersoids
@@ -37606,6 +37621,7 @@ idioblast
 idiocy
 idiographic
 idiolectal
+idiomaticness
 idioms
 idiopathic
 idiopathy
@@ -40858,6 +40874,7 @@ ivory
 ivorybill
 ivorylike
 ivylike
+iwis
 ixias
 ixodid
 ixtle
@@ -42621,6 +42638,7 @@ lactonic
 lactoses
 lacunaria
 lacunars
+lacunary
 lacunas
 lacunate
 lacunes
@@ -49702,6 +49720,7 @@ mudflats
 mudflows
 mudguard
 mudguards
+mudhen
 mudhens
 mudholes
 mudpacks
@@ -50921,6 +50940,7 @@ nervously
 nervousness
 nervures
 nervy
+nescience
 nescient
 nesses
 nest
@@ -55645,6 +55665,7 @@ oxysome
 oxysomes
 oxytetracycline
 oxytocic
+oxytocics
 oxytocin
 oxytocins
 oxytone
@@ -56144,6 +56165,7 @@ papaws
 papaya
 papayan
 papayas
+paperbacks
 paperboards
 paperbound
 paperboys
@@ -60134,6 +60156,7 @@ portentousness
 porter
 porterages
 porteress
+porters
 porthole
 porticoed
 porticoes
@@ -69375,6 +69398,7 @@ sanddab
 sanddabs
 sanded
 sander
+sanderling
 sandflies
 sandhis
 sandhogs
@@ -71816,6 +71840,7 @@ sheetfed
 sheeting
 sheetings
 sheetlike
+sheetrocked
 sheetrocking
 sheets
 sheik
@@ -74229,6 +74254,7 @@ sometime
 someway
 somewhat
 somewhen
+somewheres
 somewhither
 somites
 sommelier
@@ -74520,6 +74546,7 @@ southwards
 southwest
 southwesterly
 southwestern
+southwests
 southwestwards
 souvlaki
 sovereigns
@@ -76556,6 +76583,7 @@ streamed
 streamer
 streamers
 streamiest
+streamings
 streamlet
 streamsides
 streamy
@@ -78678,6 +78706,7 @@ swordsman
 swordsmanship
 swordsmen
 swore
+sworn
 swound
 swounded
 swounding
@@ -79426,6 +79455,7 @@ tarboosh
 tarbooshes
 tarbushes
 tardier
+tardigrade
 tardigrades
 tardily
 tardiness
@@ -80380,6 +80410,7 @@ thalassic
 thalassocracy
 thalassocrats
 thaler
+thalers
 thalidomide
 thalli
 thallic
@@ -84005,6 +84036,7 @@ unbracing
 unbracketed
 unbraided
 unbraiding
+unbraids
 unbreathable
 unbred
 unbreech
@@ -84511,6 +84543,7 @@ undertook
 undertow
 undertows
 undertrick
+underuse
 underutilize
 underutilized
 underutilizes
@@ -85864,6 +85897,7 @@ upchucked
 upchucking
 upchucks
 upclimb
+upclimbed
 upcoast
 upcoil
 upcoiling
@@ -87634,6 +87668,7 @@ votiveness
 votives
 votress
 votresses
+vouchered
 vouchsafe
 vouchsafed
 vouchsafement
