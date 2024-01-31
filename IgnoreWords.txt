@@ -2436,6 +2436,7 @@ anarthrias
 anarthric
 anas
 anasarcous
+anastigmat
 anastigmatic
 anastigmats
 anastomose
@@ -7096,6 +7097,7 @@ biali
 bialies
 bialys
 biannual
+biannually
 bias
 biased
 biasedly
@@ -10521,6 +10523,7 @@ calorimetries
 calorimetry
 calorize
 calorizing
+calory
 calotte
 caloyer
 caloyers
@@ -11046,6 +11049,7 @@ caravan
 caravaned
 caravaner
 caravaners
+caravaning
 caravanned
 caravanners
 caravanning
@@ -12441,6 +12445,7 @@ chawed
 chawer
 chawers
 chawing
+chaws
 chayote
 chays
 chazanim
@@ -15033,6 +15038,8 @@ compass
 compasses
 compassionate
 compassionately
+compassionates
+compassionless
 compatibilities
 compatibles
 compatriot
@@ -17379,6 +17386,7 @@ creditabilities
 creditability
 creditable
 creditably
+credited
 crediting
 creditor
 creditors
@@ -18488,6 +18496,7 @@ cytokine
 cytokines
 cytokinetic
 cytokinin
+cytokinins
 cytologic
 cytological
 cytolysin
@@ -21610,6 +21619,7 @@ disassociates
 disassociation
 disassociations
 disaster
+disasters
 disastrous
 disastrously
 disavowable
@@ -26005,6 +26015,7 @@ ergotic
 ergotism
 ergotized
 ericaceous
+ericas
 ericoid
 eringo
 eringoes
@@ -27882,6 +27893,7 @@ fasciation
 fascicle
 fascicles
 fasciculate
+fasciculation
 fasciculations
 fascicule
 fasciculus
@@ -28544,6 +28556,7 @@ fiduciaries
 fief
 fiefdoms
 fielding
+fieldpiece
 fields
 fieldsman
 fieldstone
@@ -35694,6 +35707,7 @@ hints
 hip
 hipbone
 hiphugger
+hipless
 hipline
 hipped
 hippier
@@ -38623,6 +38637,7 @@ inducts
 indulge
 indulged
 indulgence
+indulgent
 indulger
 indulgers
 indulges
@@ -41127,6 +41142,7 @@ journaled
 journaling
 journalists
 journalize
+journalizing
 journals
 journey
 journeyed
@@ -41220,6 +41236,7 @@ jukeboxes
 jukes
 juking
 juku
+jukus
 julienned
 juliennes
 jumbals
@@ -42472,6 +42489,7 @@ lamenters
 lamenting
 lamest
 lamia
+lamias
 lamina
 laminable
 laminals
@@ -42751,6 +42769,7 @@ latch
 latched
 latchet
 latchets
+latchkey
 latchkeys
 latchstring
 latchstrings
@@ -44252,6 +44271,7 @@ logans
 logaoedic
 logarithms
 logged
+logger
 loggerheads
 loggia
 loggie
@@ -46287,6 +46307,7 @@ meddles
 meddling
 medevacing
 medfly
+mediacies
 mediacy
 mediaevals
 mediagenic
@@ -52399,6 +52420,7 @@ obligate
 obligated
 obligately
 obligates
+obligating
 obligations
 obligator
 obligatory
@@ -53817,6 +53839,7 @@ outfabled
 outfaced
 outfacing
 outfall
+outfast
 outfasts
 outfawning
 outfawns
@@ -60805,6 +60828,7 @@ preretirement
 prereturn
 prerevolution
 prerinse
+prerinsed
 prerinsing
 prerock
 prerogatives
@@ -62714,6 +62738,7 @@ pyrargyrites
 pyrenes
 pyrethrin
 pyrethrins
+pyrethroid
 pyrethroids
 pyrethrums
 pyretic
@@ -62895,6 +62920,7 @@ quakily
 quakinesses
 quakingly
 quaky
+quale
 qualification
 qualifier
 qualifying
@@ -63854,6 +63880,7 @@ reaccelerated
 reaccelerates
 reaccelerating
 reaccented
+reaccepted
 reaccession
 reaccessions
 reacclaim
@@ -64855,6 +64882,7 @@ reeducation
 reeducations
 reeducative
 reedy
+reejecting
 reeked
 reekers
 reekier
@@ -66270,6 +66298,7 @@ republishing
 repudiated
 repudiates
 repudiating
+repudiationists
 repudiations
 repudiator
 repugn
@@ -69364,6 +69393,7 @@ scalade
 scalades
 scalados
 scalages
+scalar
 scalares
 scalariform
 scalariformly
@@ -70301,6 +70331,7 @@ sectoring
 secularise
 secularising
 secularisms
+secularist
 secularistic
 secularity
 secularization
@@ -78089,6 +78120,7 @@ swifter
 swiftest
 swiftness
 swifts
+swigger
 swigging
 swigs
 swiller
@@ -78429,6 +78461,7 @@ synodal
 synoicous
 synonyme
 synonymic
+synonymical
 synonymists
 synonymity
 synonymize
@@ -80615,6 +80648,7 @@ tilts
 timarau
 timaraus
 timbal
+timbals
 timber
 timberhead
 timberheads
@@ -84414,6 +84448,7 @@ uninflated
 uninflected
 uninitiated
 uninjured
+uninoculated
 uninspected
 uninstalls
 uninstructive
