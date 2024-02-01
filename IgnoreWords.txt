@@ -625,6 +625,7 @@ addable
 addaxes
 addedly
 addenda
+addendums
 adder
 addicted
 addicting
@@ -692,6 +693,7 @@ adieu
 adieus
 adieux
 adios
+adipoceres
 adiposes
 adiposis
 adiposities
@@ -767,6 +769,7 @@ admittee
 admitter
 admitters
 admix
+admixed
 admixt
 admixture
 admonished
@@ -916,7 +919,9 @@ adverseness
 adversenesses
 adversities
 adversity
+advertence
 advertences
+advertencies
 advertency
 adverting
 advertise
@@ -3274,6 +3279,7 @@ antitraditional
 antitragus
 antitruster
 antitrusters
+antitumor
 antitumoral
 antitumors
 antitussive
@@ -7789,6 +7795,7 @@ bitchily
 bitchiness
 bite
 bitmap
+bitstream
 bitt
 bitted
 bitten
@@ -8202,6 +8209,7 @@ blowdown
 blowfish
 blowfishes
 blowflies
+blowgun
 blowhard
 blowhards
 blowhole
@@ -10206,6 +10214,7 @@ bushings
 bushless
 bushmaster
 bushpigs
+bushrangers
 bushranging
 bushrangings
 bushtit
@@ -10496,6 +10505,7 @@ cades
 cadets
 cadetship
 cadged
+cadger
 cadi
 cadis
 cadmium
@@ -15098,6 +15108,7 @@ comember
 comembers
 comer
 comers
+comes
 cometary
 cometh
 comethers
@@ -15794,6 +15805,7 @@ confines
 confining
 confirmability
 confirmands
+confirmation
 confirmational
 confirmations
 confirmedly
@@ -20749,6 +20761,7 @@ descenders
 descendible
 descension
 descents
+describable
 describer
 describing
 descried
@@ -21942,6 +21955,7 @@ disaffect
 disaffection
 disaffects
 disaffiliate
+disaffiliated
 disaffiliates
 disaffiliation
 disaffirmance
@@ -27534,6 +27548,7 @@ expectants
 expectational
 expectations
 expectative
+expectedly
 expectedness
 expectednesses
 expecters
@@ -27657,6 +27672,7 @@ expressage
 expressages
 expressers
 expressible
+expressing
 expressionism
 expressionisms
 expressionistic
@@ -28321,6 +28337,7 @@ farcicality
 farcing
 fard
 farded
+fardels
 farebox
 fareboxes
 farer
@@ -28667,6 +28684,7 @@ felicitations
 felicitator
 felicitators
 felicitous
+felicitously
 feline
 felinely
 felinities
@@ -29332,6 +29350,7 @@ firerooms
 fireside
 firesides
 firestorm
+firethorn
 firetrap
 firetraps
 firetruck
@@ -31609,6 +31628,7 @@ gadgeteers
 gadgety
 gadids
 gadis
+gadjo
 gadoids
 gadolinium
 gadroon
@@ -34349,6 +34369,7 @@ guiltlessnesses
 guilts
 guimpe
 guinea
+guineas
 guipure
 guipures
 guiro
@@ -37026,6 +37047,7 @@ hospitalise
 hospitalised
 hospitalising
 hospitalities
+hospitality
 hospitalize
 hospitalized
 hospitalizes
@@ -37269,6 +37291,7 @@ humeral
 humeri
 humerus
 humic
+humidexes
 humidified
 humidifier
 humidify
@@ -38348,6 +38371,7 @@ immunoassayable
 immunoassays
 immunoblots
 immunochemical
+immunocompetent
 immunodiagnoses
 immunodiagnosis
 immunodiffusion
@@ -41833,6 +41857,7 @@ jostlers
 jot
 jota
 jotas
+jotter
 jotters
 jottings
 jotty
@@ -42415,6 +42440,7 @@ khedahs
 khedives
 khedivial
 kheth
+khets
 khi
 khis
 ki
@@ -44651,6 +44677,7 @@ liquefactions
 liquefied
 liquefier
 liquefy
+liquefying
 liquid
 liquidambars
 liquidate
@@ -50476,6 +50503,7 @@ munch
 munchable
 munched
 muncher
+munchers
 munches
 munchies
 mundanely
@@ -53344,6 +53372,7 @@ obscurest
 obscuring
 obscurities
 obscurity
+obsecrate
 obsecrated
 obsecrating
 obsequies
@@ -58919,6 +58948,7 @@ photosensitive
 photosensitize
 photosensitized
 photosensitizes
+photosetter
 photosphere
 photospheres
 photostatic
@@ -59212,6 +59242,7 @@ piffled
 piffles
 piffling
 pig
+pigboat
 pigboats
 pigeonholed
 pigeonholer
@@ -74361,6 +74392,7 @@ smidgeon
 smidges
 smilaxes
 smiled
+smiley
 smileys
 smirches
 smirching
@@ -74706,6 +74738,7 @@ snuffiest
 snuffing
 snuffled
 snuffler
+snuffles
 snufflier
 snuffling
 snuffs
@@ -77598,6 +77631,7 @@ structuralizes
 structuralizing
 structurally
 structurations
+structure
 structured
 structures
 strudel
@@ -85661,6 +85695,7 @@ unfounded
 unframed
 unfreed
 unfreedoms
+unfreeing
 unfrees
 unfreeze
 unfreezing
