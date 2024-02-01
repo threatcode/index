@@ -102,6 +102,7 @@ absorbent
 absorbers
 absorptance
 absorptances
+absorption
 absorptions
 absorptive
 absorptivities
@@ -2942,6 +2943,7 @@ anthropic
 anthropocentric
 anthropogenic
 anthropoids
+anthropological
 anthropologies
 anthropologist
 anthropology
@@ -4174,6 +4176,7 @@ arthritics
 arthritides
 arthropathies
 arthropathy
+arthropodan
 arthroscopes
 arthroscopic
 arthrospores
@@ -6120,6 +6123,7 @@ baseboard
 baseboards
 baseborn
 based
+baseless
 baseliner
 baseliners
 baselines
@@ -6843,6 +6847,7 @@ beltlines
 belts
 beltway
 beluga
+belvedere
 belying
 bema
 bemadamed
@@ -10417,6 +10422,7 @@ cabbages
 cabbageworms
 cabbaging
 cabbala
+cabbalah
 cabbalahs
 cabbalist
 cabbed
@@ -14679,6 +14685,7 @@ cogitators
 cogitos
 cognac
 cognacs
+cognately
 cognates
 cognised
 cognising
@@ -15560,6 +15567,7 @@ concelebrant
 concelebrants
 concelebrate
 concelebrated
+concelebrations
 concent
 concenter
 concentered
@@ -16764,6 +16772,7 @@ corm
 cormel
 cormels
 cormlike
+cormorant
 cormorants
 corn
 cornball
@@ -19973,6 +19982,7 @@ deformer
 deformers
 deformities
 deforms
+defrag
 defraggers
 defraud
 defrauder
@@ -25275,6 +25285,7 @@ emoticons
 emoting
 emotionalist
 emotionalistic
+emotionalists
 emotionalize
 emotionalized
 emotionalizing
@@ -26827,6 +26838,7 @@ ethnographers
 ethnographic
 ethnohistorian
 ethnohistoric
+ethnohistory
 ethnological
 ethnology
 ethnonym
@@ -27175,6 +27187,7 @@ exactas
 exacted
 exacter
 exactest
+exactingly
 exactingnesses
 exactitude
 exactitudes
@@ -30237,6 +30250,7 @@ folklorish
 folkloristic
 folklorists
 folkmot
+folksier
 folksily
 folksinesses
 folksingings
@@ -31312,6 +31326,7 @@ fuelling
 fuels
 fuelwoods
 fug
+fugacities
 fugacity
 fugally
 fugatos
@@ -37633,6 +37648,7 @@ hymnaries
 hymnary
 hymnbook
 hymned
+hymning
 hymnless
 hymnodist
 hymnodists
@@ -38001,6 +38017,7 @@ icterus
 ictic
 ictus
 icy
+idea
 ideal
 idealising
 idealistically
@@ -38187,6 +38204,7 @@ illuminatingly
 illumination
 illuminations
 illuminative
+illuminator
 illuminators
 illumine
 illumines
@@ -40447,6 +40465,7 @@ intern
 internalised
 internalises
 internality
+internalizes
 internally
 internationally
 interne
@@ -40564,6 +40583,7 @@ intertidally
 intertill
 intertillage
 intertillages
+intertilling
 intertills
 intertrial
 intertribal
@@ -41715,6 +41735,7 @@ jigsaws
 jihad
 jill
 jilt
+jilted
 jilter
 jilters
 jilts
@@ -47553,6 +47574,7 @@ meristems
 merit
 meriting
 meritless
+meritocracies
 meritocracy
 meritocrat
 meritocrats
@@ -47584,6 +47606,7 @@ mesa
 mesalliance
 mesalliances
 mesas
+mescal
 mescaline
 mescalines
 mescals
@@ -50398,6 +50421,7 @@ multifaceted
 multifactorial
 multifarious
 multifid
+multifocal
 multifoils
 multifold
 multifrequency
@@ -54548,6 +54572,7 @@ ostracisms
 ostracod
 ostracode
 ostracoderm
+ostracoderms
 ostracodes
 ostracon
 ostraka
@@ -54640,6 +54665,7 @@ outblooming
 outblooms
 outbluffed
 outbluffing
+outbluffs
 outblushed
 outblushes
 outboards
@@ -56367,6 +56393,7 @@ packed
 packets
 packhorse
 packhorses
+packinghouse
 packinghouses
 packings
 packman
@@ -57141,6 +57168,7 @@ parotid
 parotitic
 parotitis
 parotoids
+parous
 parquet
 parquetry
 parquets
@@ -59422,6 +59450,7 @@ pinedrops
 pinelands
 pinene
 pinesap
+pinesaps
 pinetum
 pinewoods
 pinfolds
@@ -61634,6 +61663,7 @@ preflight
 preflights
 prefocused
 prefocuses
+prefocusing
 preform
 preformation
 preformationist
@@ -65688,6 +65718,7 @@ recrown
 recrudesced
 recrudescence
 recrudesces
+recrudescing
 recruit
 recruited
 recruitment
@@ -69859,6 +69890,7 @@ sadhe
 sadhes
 sadhu
 sadhus
+sadis
 sadist
 sadists
 sadly
@@ -78478,6 +78510,7 @@ suffixion
 sufflate
 sufflates
 suffocate
+suffocating
 suffocatingly
 suffocation
 suffocations
@@ -88997,6 +89030,7 @@ wardenries
 wardens
 wardenship
 wardenships
+warder
 warding
 wardress
 wardrobe
@@ -90527,6 +90561,7 @@ wordinesses
 wording
 wordings
 wordless
+wordlessness
 wordmonger
 wordmongers
 wordsmith
