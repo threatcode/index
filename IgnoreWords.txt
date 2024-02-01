@@ -293,6 +293,7 @@ accounts
 accoutered
 accouterment
 accouters
+accoutrements
 accoutres
 accredit
 accreditable
@@ -3491,6 +3492,7 @@ aposematic
 aposiopeses
 aposporic
 apospory
+apostacy
 apostasies
 apostasy
 apostate
@@ -4041,6 +4043,7 @@ aromatase
 aromatases
 aromatherapies
 aromatherapist
+aromatherapists
 aromatic
 aromatics
 aromatizations
@@ -4954,6 +4957,7 @@ autoed
 autoeroticism
 autoeroticisms
 autofocus
+autogamic
 autogamous
 autogamy
 autogenous
@@ -9730,6 +9734,7 @@ bubaline
 bubba
 bubbas
 bubbies
+bubbled
 bubbleheaded
 bubbler
 bubblers
@@ -10735,6 +10740,7 @@ calyculi
 calyculus
 calypsos
 calypter
+calyptra
 calyx
 calzone
 calzones
@@ -10795,6 +10801,7 @@ camos
 camouflage
 camouflageable
 camouflagic
+camp
 campagna
 campagne
 campaign
@@ -22502,6 +22509,7 @@ disrepute
 disreputes
 disrespect
 disrespectable
+disrespected
 disrespectfully
 disrespecting
 disrespects
@@ -26847,6 +26855,7 @@ eulogizers
 eulogizes
 eulogy
 eunuch
+eunuchism
 eunuchisms
 eunuchs
 euonymus
@@ -26964,6 +26973,7 @@ evangelizations
 evangelize
 evangelizing
 evangels
+evanishes
 evanishing
 evaporate
 evaporated
@@ -27848,6 +27858,7 @@ eyeballed
 eyeballs
 eyebar
 eyebeam
+eyebeams
 eyeblack
 eyeblink
 eyebolt
@@ -29602,6 +29613,7 @@ flavanol
 flavanols
 flavanones
 flavine
+flavins
 flavones
 flavoprotein
 flavorful
@@ -30514,6 +30526,7 @@ forkless
 forklift
 forklifted
 forklifts
+forks
 forlorn
 forlornest
 forlornnesses
@@ -35777,6 +35790,7 @@ hemocyanins
 hemocyte
 hemocytes
 hemodialysis
+hemodilutions
 hemodynamically
 hemoflagellates
 hemoglobin
@@ -42325,6 +42339,7 @@ khamseen
 khamseens
 khan
 khanate
+khanates
 khaph
 khaphs
 khat
@@ -45459,6 +45474,7 @@ lupin
 lupins
 lupous
 lupulins
+lurch
 lurched
 lurches
 lurching
@@ -49565,6 +49581,7 @@ monopropellants
 monopsonistic
 monopsony
 monorail
+monorchidism
 monorchidisms
 monorchids
 monorhymed
@@ -49595,6 +49612,7 @@ monounsaturates
 monovalent
 monoxide
 monoxides
+monsieur
 monsignori
 monsignors
 monsoon
@@ -55078,6 +55096,7 @@ outsworn
 outtake
 outtalked
 outtalking
+outtask
 outtasked
 outtasks
 outthank
@@ -57335,6 +57354,7 @@ paughty
 pauldron
 paulin
 paulins
+paulownia
 paulownias
 paunched
 paunchier
@@ -58586,6 +58606,7 @@ philistine
 philistines
 philistinism
 philistinisms
+phillumenists
 philological
 philologically
 philologies
@@ -67382,6 +67403,7 @@ rerepeats
 rereviewed
 rerigged
 rerisen
+rerises
 reroll
 rerolled
 reroller
@@ -68111,6 +68133,7 @@ revalorizations
 revalorized
 revaluates
 revaluating
+revaluations
 revalues
 revamp
 revamped
@@ -70970,6 +70993,8 @@ scrawliest
 scrawniness
 scrawny
 screak
+screaked
+screaking
 screaky
 scream
 screamer
@@ -73012,6 +73037,7 @@ siccan
 siccative
 siccatives
 sice
+sick
 sickbay
 sickbays
 sickbed
@@ -73731,6 +73757,7 @@ skylight
 skylights
 skyline
 skyphoi
+skyphos
 skyrocketing
 skyrockets
 skysail
@@ -74006,6 +74033,7 @@ slipup
 slipups
 slither
 slithers
+slithery
 slitlike
 slittiest
 slitting
@@ -75249,6 +75277,7 @@ spackles
 spade
 spaded
 spadefish
+spadefishes
 spaders
 spades
 spadework
@@ -75805,6 +75834,7 @@ splenic
 splenii
 splenium
 splenius
+splenomegalies
 splenomegaly
 spleuchan
 spleuchans
@@ -78352,6 +78382,7 @@ sulfured
 sulfuret
 sulfureted
 sulfurets
+sulfuretted
 sulfuric
 sulfuring
 sulfurize
@@ -82760,6 +82791,7 @@ traitoress
 traitorous
 traitorously
 traits
+trajected
 trajecting
 trajection
 trajections
@@ -84336,6 +84368,7 @@ tyrocidins
 tyrosinase
 tyrosines
 tyrothricin
+tyrothricins
 tythe
 tythed
 tythes
@@ -84887,6 +84920,7 @@ unclasp
 unclasped
 unclasping
 unclassical
+unclawed
 uncle
 uncleaned
 uncleaner
@@ -86398,6 +86432,7 @@ unswearing
 unsweetened
 unswept
 unswerving
+unswore
 unsworn
 unsympathetic
 unsystematic
