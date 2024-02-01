@@ -3610,6 +3610,7 @@ appreciable
 appreciate
 appreciated
 appreciates
+appreciating
 appreciation
 apprehending
 apprehends
@@ -4274,6 +4275,7 @@ askings
 askoi
 aslant
 asleep
+aslope
 aslosh
 asocials
 asparagus
@@ -6006,6 +6008,7 @@ barracked
 barracker
 barracking
 barracks
+barracoon
 barracouta
 barrage
 barraging
@@ -6023,6 +6026,7 @@ barrelhead
 barrelhouses
 barrelling
 barrels
+barren
 barrener
 barrenest
 barrenness
@@ -8353,6 +8357,7 @@ bode
 bodhisattva
 bodice
 bodied
+bodkin
 bodkins
 body
 bodyboarded
@@ -8481,6 +8486,7 @@ bolthead
 bolthole
 boltholes
 bolting
+boltonia
 boltrope
 boltropes
 bolus
@@ -9729,6 +9735,7 @@ bucktooth
 bucktoothed
 buckwheats
 buckyballs
+buckytube
 buckytubes
 bucolic
 bucolically
@@ -12090,6 +12097,7 @@ centrifugals
 centrifugation
 centrifuge
 centrifuging
+centrings
 centripetal
 centripetally
 centroid
@@ -12986,6 +12994,7 @@ chivarees
 chivaried
 chivaries
 chivariing
+chive
 chives
 chivying
 chlamydiae
@@ -23543,6 +23552,7 @@ dribbly
 driblets
 driegh
 drier
+driest
 drift
 driftage
 drifted
@@ -23672,6 +23682,7 @@ drugstore
 druidic
 druidism
 druidisms
+drum
 drumbeat
 drumbeatings
 drumbeats
@@ -26773,6 +26784,7 @@ euphoric
 euphorically
 euphroes
 euphuism
+euphuisms
 euplastics
 euploid
 euploids
@@ -29251,6 +29263,7 @@ fitchy
 fitful
 fitfully
 fitfulness
+fitly
 fitnesses
 fits
 fittable
@@ -29878,6 +29891,7 @@ flustering
 flusters
 flute
 fluted
+flutelike
 fluters
 fluting
 flutings
@@ -34196,6 +34210,7 @@ gums
 gumshoe
 gumshoed
 gumweed
+gumweeds
 guncotton
 guncottons
 gunfighter
@@ -34592,6 +34607,7 @@ halibuts
 halid
 halide
 halids
+halite
 halitoses
 halitosis
 halitus
@@ -37751,6 +37767,7 @@ identifier
 identifies
 identify
 identikit
+identities
 ideogram
 ideogramic
 ideogrammic
@@ -38306,6 +38323,7 @@ implored
 imploring
 imploringly
 implosion
+implosive
 implying
 impolitely
 impoliteness
@@ -39110,6 +39128,7 @@ inelasticity
 inelegances
 inelegant
 ineligibility
+ineligible
 ineligibles
 ineluctability
 ineluctably
@@ -41523,6 +41542,7 @@ jokes
 jokey
 jokier
 jokiest
+jokily
 jokiness
 jokingly
 joky
@@ -42954,6 +42974,7 @@ laminitis
 laminous
 lamister
 lamisters
+lammed
 lammergeier
 lammergeiers
 lammergeyer
@@ -46327,6 +46348,7 @@ marshalls
 marshalships
 marshier
 marshiest
+marshinesses
 marshlike
 marshmallows
 marshy
@@ -48463,6 +48485,7 @@ miserliness
 misesteem
 misesteemed
 misesteems
+misestimate
 misestimation
 misestimations
 misevaluate
@@ -55626,6 +55649,7 @@ overstraining
 overstrains
 overstress
 overstresses
+overstressing
 overstretch
 overstretched
 overstretching
@@ -57878,6 +57902,7 @@ permuted
 permuting
 pernicious
 perniciously
+pernickety
 pernio
 perniones
 pernod
@@ -58936,6 +58961,7 @@ pimpliest
 pimpmobile
 pimps
 pin
+pinaceous
 pinafore
 pinafored
 pinang
@@ -60179,6 +60205,7 @@ polyurias
 polyuric
 polyvalent
 polywater
+polywaters
 polyzoaries
 polyzoary
 pom
@@ -63037,6 +63064,7 @@ punchless
 punctate
 punctated
 punctations
+punctilios
 punctiliousness
 punctualities
 punctually
@@ -70320,6 +70348,7 @@ schizziest
 schlemiels
 schlemihls
 schlep
+schlepp
 schlepping
 schleps
 schliere
@@ -75152,6 +75181,7 @@ speedread
 speedreading
 speeds
 speedster
+speedsters
 speedway
 speedways
 speedwell
@@ -76010,6 +76040,7 @@ stander
 standers
 standfast
 standfasts
+standing
 standings
 standish
 standishes
@@ -82071,6 +82102,7 @@ torse
 torsionally
 torsions
 torsk
+torsks
 torso
 tort
 tortas
@@ -83978,6 +84010,7 @@ ubiquitousness
 ubiquity
 udometer
 udometries
+udon
 udons
 udos
 ufologies
@@ -88759,6 +88792,7 @@ wedge
 wedged
 wedges
 wedgie
+wedgier
 wedging
 wedgy
 wedlock
@@ -89114,6 +89148,7 @@ whippletree
 whippoorwills
 whipray
 whiprays
+whips
 whipsaw
 whipsawed
 whipsawing
