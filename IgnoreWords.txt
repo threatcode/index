@@ -3549,6 +3549,7 @@ apostolic
 apostolicities
 apostolicity
 apostrophes
+apostrophised
 apostrophized
 apothecary
 apothece
@@ -5038,6 +5039,7 @@ autolysates
 autolyse
 autolysing
 autolysins
+autolysis
 autolytic
 autolyzate
 autolyzates
@@ -15281,6 +15283,7 @@ commensurable
 commensurate
 commensurately
 commensuration
+commensurations
 comment
 commentated
 commentates
@@ -19482,6 +19485,7 @@ deaminases
 deaminate
 deaminated
 deaminating
+deaminations
 deaminize
 deaminized
 dean
@@ -22752,6 +22756,7 @@ dissection
 dissections
 dissectors
 dissed
+disseised
 disseisee
 disseisees
 disseises
@@ -25365,6 +25370,7 @@ embryo
 embryogenies
 embryogeny
 embryoid
+embryologist
 embryonal
 embryonated
 embryonic
@@ -31499,6 +31505,7 @@ fuddies
 fuddling
 fudge
 fudges
+fudging
 fuds
 fuel
 fueled
@@ -37078,6 +37085,7 @@ hons
 hooch
 hooches
 hooded
+hoodedness
 hoodie
 hoodies
 hooding
@@ -40378,6 +40386,7 @@ insurants
 insured
 insureds
 insurgence
+insurgences
 insurgents
 insurmountable
 insurmountably
@@ -41021,6 +41030,7 @@ intuitionisms
 intuitionist
 intuitions
 intuitively
+intumesce
 intumescence
 intumescences
 intumescent
@@ -44828,6 +44838,7 @@ limpnesses
 limuli
 lin
 linable
+linac
 linacs
 linage
 linages
@@ -47129,6 +47140,7 @@ matchable
 matchboards
 matchbox
 matched
+matcher
 matches
 matchless
 matchlock
@@ -50360,6 +50372,7 @@ motivates
 motivational
 motivationally
 motivations
+motiveless
 motivic
 motivities
 motivity
@@ -51707,6 +51720,7 @@ neighing
 neighs
 nekton
 nektonic
+nektons
 nellie
 nellies
 nelly
@@ -53657,6 +53671,7 @@ objector
 objects
 objurgated
 objurgates
+objurgating
 objurgation
 objurgations
 objurgatory
@@ -54023,6 +54038,7 @@ officiaries
 officiary
 officiates
 officiating
+officiation
 officinals
 officious
 offing
@@ -58568,6 +58584,7 @@ perihelia
 perihelion
 peril
 periled
+perillas
 perilled
 perilunes
 perilymphs
@@ -60661,6 +60678,7 @@ poeticized
 poeticizes
 poetics
 poetise
+poetised
 poetiser
 poetisers
 poetises
@@ -62634,6 +62652,7 @@ primates
 primatial
 primatological
 primatologies
+primatology
 prime
 primed
 primely
@@ -63830,6 +63849,7 @@ pullover
 pullovers
 pullulated
 pullulation
+pullulations
 pullup
 pulmonate
 pulmonates
@@ -63893,6 +63913,7 @@ pumped
 pumper
 pumpers
 pumping
+pumpkin
 pumpkinseeds
 pumpless
 pumps
@@ -64154,6 +64175,7 @@ put
 putamen
 putamina
 putative
+putdown
 putlog
 putlogs
 putonghua
@@ -64514,6 +64536,7 @@ quatrefoil
 quatrefoils
 quatres
 quaver
+quavered
 quaverers
 quaveringly
 quay
@@ -67678,6 +67701,7 @@ rephrased
 rephrases
 rephrasing
 repigment
+repigmenting
 repine
 repined
 repiner
@@ -68557,6 +68581,7 @@ retiredness
 retirednesses
 retirees
 retirements
+retirer
 retiringness
 retiringnesses
 retitle
@@ -71901,6 +71926,7 @@ seasickness
 seasicknesses
 seasides
 seasonable
+seasonableness
 seasonalities
 seasonality
 seasonally
@@ -74665,6 +74691,7 @@ slipstreamed
 slipstreaming
 slipup
 slipups
+slit
 slither
 slithers
 slithery
@@ -77507,6 +77534,7 @@ sticktight
 sticktights
 stickums
 stickweeds
+stiction
 stiffener
 stiffening
 stiffie
@@ -79726,6 +79754,7 @@ surplussed
 surplusses
 surprinting
 surprise
+surprized
 surprizing
 surra
 surrealism
@@ -79835,6 +79864,7 @@ swaged
 swagers
 swages
 swagged
+swagger
 swaggerer
 swaggies
 swagging
@@ -83469,6 +83499,7 @@ traiks
 trailered
 trailerist
 trailerists
+trailerite
 trailerites
 trailless
 trailside
@@ -84850,6 +84881,7 @@ tussore
 tussores
 tussucks
 tussur
+tussurs
 tutee
 tutees
 tutelages
@@ -86114,6 +86146,7 @@ uneagerly
 unearned
 unearth
 unearthing
+unearthliest
 unearthliness
 unearthly
 unearths
@@ -86744,6 +86777,7 @@ unpegged
 unpegs
 unpen
 unpens
+unpent
 unpeople
 unpeopled
 unperceptive
@@ -91252,6 +91286,7 @@ wrestled
 wrestlers
 wrestling
 wrests
+wretch
 wretched
 wretcheder
 wried
