@@ -2321,6 +2321,7 @@ ampicillin
 ample
 ampleness
 amplenesses
+ampler
 amplest
 amplexus
 amplexuses
@@ -3079,6 +3080,7 @@ antifeminisms
 antiflu
 antifoam
 antifog
+antiforeclosure
 antiforeigner
 antifreeze
 antifreezes
@@ -5144,6 +5146,7 @@ aventurines
 aventurins
 aver
 average
+averageness
 averagenesses
 averages
 averaging
@@ -6881,6 +6884,7 @@ beltlines
 belts
 beltway
 beluga
+belugas
 belvedere
 belying
 bema
@@ -9355,6 +9359,7 @@ breadwinners
 breadwinning
 break
 breakable
+breakage
 breakaway
 breaker
 breakers
@@ -10880,6 +10885,7 @@ cameral
 cameraman
 camerapersons
 cameras
+camerlengo
 camerlengos
 camion
 camions
@@ -11548,6 +11554,7 @@ carlin
 carline
 carling
 carlins
+carload
 carmakers
 carman
 carmen
@@ -12115,6 +12122,7 @@ cecum
 cedar
 cedarbird
 ceded
+cedis
 cedula
 cee
 cees
@@ -12837,6 +12845,7 @@ cheekfuls
 cheekinesses
 cheeking
 cheekless
+cheeks
 cheeky
 cheeped
 cheeping
@@ -14963,6 +14972,7 @@ colleagues
 colleagueship
 colleagueships
 collect
+collectables
 collected
 collectedly
 collectible
@@ -15535,6 +15545,7 @@ compositional
 compositor
 compost
 composted
+composter
 composting
 compotes
 compoundable
@@ -18264,6 +18275,7 @@ crush
 crushes
 crushing
 crushproof
+crusily
 crustacean
 crustaceans
 crustal
@@ -18614,6 +18626,7 @@ curly
 curlycue
 curmudgeons
 curn
+curr
 currans
 currejong
 currejongs
@@ -22044,6 +22057,7 @@ directorial
 directories
 directorship
 directorships
+directory
 directress
 directresses
 directrice
@@ -22299,6 +22313,7 @@ discourteously
 discoverer
 discoveries
 discovery
+discredited
 discrediting
 discredits
 discreet
@@ -25104,6 +25119,7 @@ elitisms
 elixir
 elkhound
 ell
+ellipse
 ellipsis
 ellipsoids
 elliptic
@@ -30471,6 +30487,7 @@ footfaults
 foothold
 footing
 footings
+footlambert
 footlamberts
 footle
 footler
@@ -31277,6 +31294,7 @@ fritt
 frittatas
 fritterer
 fritterers
+fritting
 fritts
 fritzes
 frivol
@@ -31802,6 +31820,7 @@ gaddis
 gadflies
 gadfly
 gadgeteers
+gadgetry
 gadgety
 gadids
 gadis
@@ -33839,6 +33858,7 @@ grandads
 grandbabies
 grandbaby
 grandchild
+grandchildren
 granddad
 granddaddies
 granddads
@@ -34668,6 +34688,7 @@ gurnard
 gurneys
 gursh
 gurus
+guruships
 gush
 gushers
 gushier
@@ -37498,6 +37519,7 @@ humidexes
 humidified
 humidifier
 humidify
+humidistat
 humidistats
 humidities
 humidity
@@ -37619,6 +37641,7 @@ husking
 huskings
 husklike
 husks
+husky
 hussar
 hussies
 hustings
@@ -37685,6 +37708,7 @@ hydrocarbon
 hydrocarbons
 hydrocast
 hydroceles
+hydrocephalic
 hydrocephalics
 hydrocephalus
 hydrocephaluses
@@ -40172,6 +40196,7 @@ insinuative
 insinuator
 insinuators
 insipidities
+insipidity
 insipidly
 insistences
 insistent
@@ -41663,6 +41688,7 @@ jalapeno
 jalapenos
 jalapic
 jalapin
+jalaps
 jalop
 jalopies
 jalousie
@@ -48919,6 +48945,7 @@ misbilling
 misbind
 misbinds
 misbrand
+misbranded
 misbrands
 misbuttons
 miscalculated
@@ -54264,6 +54291,7 @@ oophyte
 oophytes
 ooralis
 oosperm
+oosperms
 oospore
 oospores
 oosporic
@@ -65270,6 +65298,7 @@ ravellers
 ravellings
 ravelly
 ravels
+raven
 ravener
 ravenlike
 ravenousnesses
@@ -67924,6 +67953,7 @@ resampling
 resat
 resaw
 resawed
+resawing
 resay
 resays
 rescales
@@ -74241,6 +74271,7 @@ skirls
 skirmish
 skirmisher
 skirmishers
+skirr
 skirred
 skirting
 skirts
@@ -79728,6 +79759,7 @@ susurruses
 suttees
 suturally
 sutured
+suturing
 suzerains
 suzerainty
 svaraj
@@ -85991,6 +86023,7 @@ undoubtedly
 undoubting
 undrained
 undramatic
+undramatically
 undramatized
 undrape
 undraping
@@ -87865,6 +87898,7 @@ vambraced
 vamosed
 vamoses
 vamped
+vamper
 vampier
 vampires
 vampiric
@@ -90750,6 +90784,7 @@ witheringly
 witherites
 withhold
 withier
+withing
 withins
 without
 withouts
