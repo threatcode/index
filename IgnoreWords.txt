@@ -1993,6 +1993,7 @@ altazimuths
 alter
 alterabilities
 alterability
+alterable
 alteration
 altercate
 altercated
@@ -2257,6 +2258,7 @@ amoeban
 amoebean
 amoebocyte
 amok
+amoks
 amontillados
 amoral
 amoralities
@@ -4590,6 +4592,7 @@ astronauts
 astronomers
 astronomic
 astronomical
+astronomies
 astrophotograph
 astrophysical
 astrophysicist
@@ -10246,6 +10249,7 @@ burnishings
 burnoosed
 burnouses
 burnouts
+burnt
 burp
 burped
 burping
@@ -10369,6 +10373,7 @@ butanols
 butanone
 butch
 butcher
+butcherer
 butcherly
 butchers
 butchery
@@ -14742,6 +14747,7 @@ coeternal
 coeval
 coevalities
 coevally
+coevals
 coevolving
 coexecutors
 coexerted
@@ -15976,6 +15982,7 @@ conformational
 conformers
 conforming
 conformism
+conformists
 conformities
 conformity
 conforms
@@ -17696,6 +17703,7 @@ crafters
 craftily
 craftiness
 craftinesses
+crafts
 craftsmanly
 craftsmanships
 craftswomen
@@ -19730,6 +19738,7 @@ decimals
 decimate
 decimated
 decimations
+decimeters
 decimetres
 decipher
 decipherer
@@ -20452,6 +20461,7 @@ demisemiquaver
 demisemiquavers
 demister
 demisters
+demitted
 demiurgic
 demiurgical
 demivolte
@@ -22645,6 +22655,7 @@ dispensability
 dispensable
 dispensaries
 dispensational
+dispensatories
 dispense
 dispenser
 dispensers
@@ -24126,6 +24137,7 @@ ductwork
 ductworks
 dud
 duddy
+dude
 duded
 dudeen
 dudes
@@ -25726,6 +25738,7 @@ endemial
 endemical
 endemically
 endemicities
+endemism
 endemisms
 enders
 endexines
@@ -27852,6 +27865,7 @@ exploited
 exploiter
 exploiters
 exploitive
+exploits
 exploration
 explorative
 exploratory
@@ -30914,6 +30928,7 @@ fortifying
 fortissimo
 fortitude
 fortnight
+fortnightly
 fortnights
 fortresses
 fortressing
@@ -31911,6 +31926,7 @@ gaillardias
 gainer
 gainfulness
 gainfulnesses
+gaingiving
 gaingivings
 gaining
 gainless
@@ -35579,6 +35595,7 @@ hateable
 hates
 hatfuls
 hating
+hatlike
 hatmaker
 hatmakers
 hatpin
@@ -36210,6 +36227,7 @@ hepatics
 hepatitises
 hepatize
 hepatizes
+hepatizing
 hepatocyte
 hepatoma
 hepatomegalies
@@ -39602,6 +39620,7 @@ indorsors
 indowed
 indowing
 indows
+indoxyls
 indraught
 indrawn
 indris
@@ -41935,6 +41954,7 @@ jereed
 jeremiad
 jeremiads
 jerkies
+jerkiest
 jerkily
 jerkin
 jerkinesses
@@ -42543,6 +42563,7 @@ karyotypic
 kasbah
 kasher
 kashered
+kata
 katabatic
 katakana
 katchina
@@ -43539,6 +43560,7 @@ lallygagged
 lallygagging
 lallygags
 lam
+lamb
 lambadas
 lambast
 lambaste
@@ -47751,6 +47773,7 @@ memorizers
 memorizes
 memory
 memos
+memsahibs
 men
 menace
 menaced
@@ -57499,6 +57522,7 @@ parfocalities
 parget
 pargeting
 pargets
+pargetting
 parging
 pargyline
 pargylines
@@ -65867,6 +65891,7 @@ reception
 receptionist
 receptions
 receptive
+receptively
 receptivenesses
 receptor
 receptors
@@ -69300,6 +69325,7 @@ righting
 rightist
 rightmost
 rightness
+rightsized
 rightsizes
 rightsizing
 rigidifications
@@ -71328,6 +71354,7 @@ schematizes
 schematizing
 schemed
 schemer
+schemes
 scherzandos
 schism
 schismatic
@@ -75651,6 +75678,7 @@ somewhat
 somewhen
 somewheres
 somewhither
+somite
 somites
 sommelier
 sommeliers
@@ -78256,6 +78284,7 @@ stubborn
 stubborner
 stubbornness
 stubby
+stucco
 stuccoed
 stuccoers
 stuck
@@ -79632,6 +79661,7 @@ supervene
 supervened
 supervenient
 supervening
+superventions
 supervirile
 supervirtuosi
 supervirtuosos
@@ -81101,6 +81131,7 @@ tawdriness
 tawdrinesses
 tawed
 tawie
+tawing
 tawneys
 tawnily
 tawniness
@@ -81517,6 +81548,7 @@ tend
 tendances
 tenderfoot
 tenderhearted
+tenderheartedly
 tenderization
 tenderizations
 tenderize
@@ -89452,6 +89484,7 @@ waggle
 waggles
 waggling
 waggly
+waggoner
 waggoning
 wagoned
 wagoners
@@ -90848,6 +90881,7 @@ winterkill
 winterly
 wintertide
 wintertime
+wintery
 wintles
 wintriest
 wintriness
@@ -91546,6 +91580,7 @@ yakker
 yakkers
 yaks
 yakuza
+yald
 yam
 yamalkas
 yamen
