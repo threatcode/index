@@ -5783,6 +5783,7 @@ balklines
 balks
 ballad
 ballade
+balladeer
 ballades
 balladist
 ballast
@@ -9918,6 +9919,7 @@ bubbler
 bubblers
 bubbles
 bubblier
+bubbling
 bubbly
 bubby
 bubinga
@@ -13306,6 +13308,7 @@ chloasmas
 chloracne
 chloral
 chloralose
+chloralosed
 chlorals
 chloramine
 chloramines
@@ -15245,6 +15248,7 @@ colorways
 colossal
 colosseums
 colossus
+colostomies
 colostral
 colostrum
 colostrums
@@ -15920,6 +15924,7 @@ condenser
 condensers
 condensing
 condescended
+condescendence
 condescendences
 condescending
 condescendingly
@@ -18260,6 +18265,7 @@ crossbanded
 crossbanding
 crossbar
 crossbarred
+crossbarring
 crossbeams
 crossbearer
 crossbills
@@ -19717,6 +19723,7 @@ debunk
 debunkers
 debunking
 debutant
+debutantes
 debuted
 debuting
 debye
@@ -20570,6 +20577,7 @@ demigods
 demilitarized
 demilitarizes
 demilune
+demilunes
 demimondaine
 demimondaines
 demineralizers
@@ -24142,6 +24150,7 @@ drosses
 drossy
 drought
 droughtiest
+droughty
 drouth
 drouthier
 drove
@@ -27388,6 +27397,7 @@ evacuating
 evacuative
 evacuators
 evacuees
+evade
 evaded
 evaders
 evades
@@ -30467,6 +30477,7 @@ fluorimeter
 fluorimeters
 fluorimetric
 fluorimetries
+fluorinated
 fluorinates
 fluorine
 fluorines
@@ -32106,6 +32117,7 @@ gagster
 gahnite
 gaieties
 gaillardias
+gainable
 gainer
 gainfulness
 gainfulnesses
@@ -32237,6 +32249,7 @@ galvanization
 galvanize
 galvanizes
 galvanometers
+galvanometric
 galvanoscope
 galvanoscopes
 galyak
@@ -36022,6 +36035,7 @@ heartbeats
 heartbreak
 heartbreaker
 heartbreakers
+heartbreaks
 heartburn
 heartburns
 hearted
@@ -36947,6 +36961,7 @@ hitchhikes
 hither
 hitman
 hitmen
+hits
 hittable
 hitter
 hitters
@@ -38014,6 +38029,7 @@ hydrobiology
 hydrocarbon
 hydrocarbons
 hydrocast
+hydrocele
 hydroceles
 hydrocephalic
 hydrocephalics
@@ -39490,6 +39506,7 @@ incloser
 inclosers
 inclosure
 inclosures
+includible
 including
 inclusion
 inclusions
@@ -41678,6 +41695,7 @@ irreverently
 irreversibility
 irreversible
 irrevocable
+irrevocableness
 irridenta
 irrigable
 irrigably
@@ -43135,6 +43153,7 @@ killies
 killifish
 killing
 killjoy
+killocks
 kills
 kilned
 kilo
@@ -43210,6 +43229,7 @@ kinetosomes
 kinfolk
 kingbirds
 kingcraft
+kingdom
 kingdoms
 kingfish
 kingfisher
@@ -52578,6 +52598,7 @@ nimbi
 nimble
 nimblenesses
 nimblest
+nimbostrati
 nimbostratus
 nimbyness
 nimmed
@@ -55659,6 +55680,7 @@ outintrigue
 outintriguing
 outjinxed
 outjinxing
+outjuggle
 outjuggled
 outjuggles
 outjuggling
@@ -57132,6 +57154,7 @@ pacier
 pacifiable
 pacific
 pacifical
+pacificators
 pacificisms
 pacifier
 pacifiers
@@ -60828,6 +60851,7 @@ plebeianisms
 plebeianly
 plebeians
 plebiscitary
+plebiscites
 plecopteran
 plectron
 pledge
@@ -61202,6 +61226,7 @@ polariscopes
 polarised
 polarises
 polarities
+polarization
 polarizations
 polarize
 polarized
@@ -67034,6 +67059,7 @@ reest
 reestablishes
 reestablishment
 reestimate
+reestimated
 reestimating
 reesting
 reevaluates
@@ -73125,6 +73151,7 @@ sepulchre
 sepulchres
 sepulchring
 sepulture
+sepultures
 sequaciously
 sequacities
 sequelae
@@ -75511,6 +75538,7 @@ smoothest
 smoothies
 smoothness
 smooths
+smorgasbord
 smotherers
 smothering
 smothery
@@ -80048,6 +80076,7 @@ superplanes
 superplasticity
 superpolite
 superport
+superports
 superposable
 superpose
 superposed
@@ -81013,6 +81042,7 @@ syzygial
 syzygy
 tabanid
 tabard
+tabaret
 tabbed
 tabbied
 tabbis
@@ -81321,6 +81351,7 @@ tambours
 tambur
 tameable
 tamed
+tamein
 tameins
 tameless
 tamely
@@ -85618,6 +85649,7 @@ twirp
 twirps
 twist
 twisted
+twisting
 twistings
 twists
 twitchers
@@ -90518,6 +90550,7 @@ waxinesses
 waxing
 waxings
 waxplants
+waxweeds
 waxwing
 waxwork
 waxworkers
@@ -92559,6 +92592,7 @@ zippier
 zippy
 zips
 ziram
+zirconia
 zirconias
 zirconium
 zirconiums
@@ -92665,6 +92699,7 @@ zorils
 zoris
 zoster
 zouave
+zowie
 zoysia
 zoysias
 zucchetti
