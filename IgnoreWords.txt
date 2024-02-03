@@ -1527,6 +1527,7 @@ airplay
 airport
 airpost
 airposts
+airproofing
 airs
 airscape
 airscrew
@@ -6804,6 +6805,7 @@ beglamor
 beglamored
 beglamour
 beglamoured
+beglamouring
 beglamours
 begloom
 begloomed
@@ -7054,6 +7056,7 @@ benefit
 benefiter
 benefiters
 benefiting
+benefits
 benefitting
 benevolence
 benevolently
@@ -8809,6 +8812,7 @@ boobirds
 boobish
 booboisie
 booboisies
+booboos
 boobs
 boocoo
 boocoos
@@ -11968,6 +11972,7 @@ catachrestic
 catachrestical
 cataclysmic
 cataclysmically
+cataclysms
 catacomb
 catacombs
 catalases
@@ -16204,6 +16209,7 @@ congressed
 congressionally
 congressmen
 congressperson
+congresspersons
 congresswoman
 congresswomen
 congruence
@@ -16406,6 +16412,7 @@ conspicuity
 conspicuous
 conspicuously
 conspicuousness
+conspiracies
 conspiration
 conspirational
 conspirations
@@ -16775,6 +16782,7 @@ convoyed
 convoying
 convoys
 convulsants
+convulse
 convulses
 convulsing
 convulsionary
@@ -17866,6 +17874,7 @@ crafts
 craftsmanly
 craftsmanships
 craftspeople
+craftspersons
 craftswomen
 craftworks
 crafty
@@ -19074,6 +19083,7 @@ cycloolefin
 cycloolefinic
 cyclopaedias
 cycloparaffin
+cyclopedia
 cyclopedic
 cyclopropane
 cyclops
@@ -26713,6 +26723,7 @@ epistases
 epistasis
 epistatic
 epistaxis
+epistemically
 epistemologist
 epistemology
 episterna
@@ -26720,6 +26731,7 @@ epistle
 epistlers
 epistolaries
 epistolary
+epistoler
 epistome
 epistyles
 epitaph
@@ -26861,6 +26873,7 @@ equivocated
 equivocates
 equivocating
 equivocation
+equivocations
 equivocator
 equivocators
 equivoke
@@ -28146,6 +28159,7 @@ expressages
 expressers
 expressible
 expressing
+expressional
 expressionism
 expressionisms
 expressionistic
@@ -33670,6 +33684,7 @@ gluon
 gluons
 glutamate
 glutaminase
+glutamine
 glutaraldehydes
 glutathione
 glutelin
@@ -49840,6 +49855,7 @@ misphrases
 mispickel
 misplaced
 misplacement
+misplacements
 misplacing
 misplan
 misplanning
@@ -56591,6 +56607,7 @@ overfree
 overfulfilling
 overfulfills
 overfull
+overfund
 overfunded
 overfunding
 overgarment
@@ -57779,6 +57796,7 @@ paperweight
 paperwork
 paperworks
 papeterie
+paphian
 paphians
 papilla
 papilloma
@@ -57877,6 +57895,7 @@ parallelled
 parallelling
 parallelograms
 paralyse
+paralyses
 paralysing
 paralytically
 paralytics
@@ -59736,6 +59755,7 @@ philistines
 philistinism
 philistinisms
 phillumenists
+philogyny
 philological
 philologically
 philologies
@@ -60853,6 +60873,7 @@ plasmolyzes
 plasmolyzing
 plasms
 plasterboard
+plastered
 plasterers
 plastering
 plasterings
@@ -63377,6 +63398,7 @@ prioritizations
 prioritize
 prioritized
 prioritizes
+priorly
 priors
 priory
 prise
@@ -63526,6 +63548,7 @@ proctorship
 procumbent
 procurable
 procurals
+procurations
 procurator
 procurators
 procure
@@ -64851,6 +64874,7 @@ putrefying
 putrescible
 putrescine
 putrescines
+putrid
 putridities
 putridly
 putsches
@@ -67201,6 +67225,7 @@ reengineering
 reengrave
 reengraved
 reengraving
+reenjoy
 reenjoyed
 reenlarge
 reenlarged
@@ -68338,6 +68363,7 @@ repapered
 repapers
 reparably
 reparation
+reparked
 reparking
 reparks
 repartition
@@ -70509,6 +70535,7 @@ roto
 rotogravures
 rotors
 rotos
+rototilled
 rototiller
 rototillers
 rototilling
@@ -72269,6 +72296,7 @@ scoriae
 scorifiers
 scorifies
 scoring
+scornful
 scornfully
 scornfulness
 scornfulnesses
@@ -78186,6 +78214,7 @@ stenotyped
 stenotypies
 stenotypist
 stenotypists
+stenotypy
 stentorian
 stentors
 step
@@ -79688,6 +79717,7 @@ suburbanizes
 suburbed
 suburbia
 suburbias
+subvariety
 subvassals
 subvened
 subvening
@@ -82930,6 +82960,7 @@ thiazin
 thiazins
 thiazole
 thiazoles
+thiazols
 thick
 thicken
 thickened
@@ -83852,6 +83883,7 @@ tompion
 toms
 tomtits
 ton
+tonality
 tonally
 tondi
 tondo
@@ -84476,6 +84508,7 @@ transcription
 transcriptional
 transcriptions
 transcripts
+transdermal
 transducers
 transduces
 transducing
@@ -88748,6 +88781,7 @@ uttering
 utterly
 uttermost
 uttermosts
+utters
 uvea
 uveal
 uveitis
@@ -89861,6 +89895,7 @@ viscously
 viscousness
 viscus
 viseing
+vises
 visible
 visibleness
 visionaries
