@@ -1546,6 +1546,7 @@ airthing
 airtime
 airward
 airwave
+airwaves
 airways
 airwise
 airwoman
@@ -1826,6 +1827,7 @@ allegorist
 allegorists
 allegorizations
 allegorize
+allegorized
 allegorizer
 allegorizing
 allegory
@@ -2489,6 +2491,7 @@ analysers
 analysing
 analyst
 analyte
+analytes
 analytically
 analyticities
 analyticity
@@ -3129,6 +3132,7 @@ antigenicities
 antigenicity
 antigens
 antiglobulin
+antiglobulins
 antigraft
 antigravity
 antigrowth
@@ -4436,6 +4440,7 @@ aspired
 aspirer
 aspirers
 aspires
+aspirin
 aspirins
 aspish
 asps
@@ -5415,6 +5420,7 @@ baasskap
 baasskaps
 baba
 babas
+babassu
 babassus
 babbitry
 babbitted
@@ -8615,6 +8621,7 @@ bogeyed
 bogeyman
 bogged
 bogginess
+bogging
 boggish
 boggle
 bogglers
@@ -16086,6 +16093,7 @@ confiner
 confiners
 confines
 confining
+confirm
 confirmability
 confirmands
 confirmation
@@ -21825,6 +21833,7 @@ dichromatism
 dichromats
 dichroscopes
 dicier
+dickcissel
 dickcissels
 dicked
 dickens
@@ -25610,6 +25619,7 @@ embryo
 embryogenies
 embryogeny
 embryoid
+embryologically
 embryologist
 embryonal
 embryonated
@@ -30654,6 +30664,7 @@ focalized
 focalizes
 focally
 foci
+focus
 focusers
 focuses
 focusing
@@ -32034,6 +32045,7 @@ furzes
 furzier
 furzy
 fusain
+fusains
 fusaria
 fuscous
 fuse
@@ -37702,6 +37714,7 @@ hostlers
 hot
 hotblood
 hotbox
+hotcake
 hotcakes
 hotch
 hotching
@@ -39791,6 +39804,7 @@ indecent
 indecenter
 indecisiveness
 indeclinable
+indecomposable
 indecorous
 indecorously
 indecorousness
@@ -41092,6 +41106,7 @@ intermetallic
 intermezzo
 intermezzos
 interminable
+intermingle
 intermingling
 intermissions
 intermitted
@@ -44024,6 +44039,7 @@ lanated
 lance
 lancelet
 lancers
+lances
 lanceted
 lancewood
 lancewoods
@@ -44346,6 +44362,7 @@ latu
 lauan
 laudable
 laudably
+laudanums
 laudation
 laudative
 laudator
@@ -45754,6 +45771,7 @@ lockrams
 locks
 lockset
 lockstitch
+lockstitches
 lockstitching
 lockups
 locoed
@@ -46040,6 +46058,7 @@ lorn
 lornnesses
 lory
 losableness
+losablenesses
 losels
 loser
 losers
@@ -46302,6 +46321,7 @@ lunately
 lunatic
 lunation
 lunch
+lunchboxes
 luncheonette
 luncher
 lunches
@@ -54469,6 +54489,7 @@ octoploid
 octopodes
 octopuses
 octoroon
+octosyllable
 octothorp
 octothorps
 octroi
@@ -60761,6 +60782,7 @@ planers
 planeside
 planet
 planetarium
+planetesimals
 planetlike
 planetoid
 planetoidal
@@ -62871,6 +62893,7 @@ prepotency
 preppier
 preppies
 preppiest
+preppily
 preppiness
 preppinesses
 prepregs
@@ -65534,6 +65557,7 @@ radicalnesses
 radicands
 radicate
 radicates
+radicating
 radicchio
 radicchios
 radicel
@@ -67495,6 +67519,7 @@ regenerations
 regenerator
 regenerators
 regental
+reges
 reggae
 regilt
 regimen
@@ -69912,6 +69937,7 @@ riffraffs
 rifle
 riflebird
 rifled
+rifleman
 riflemen
 rifleries
 riflers
@@ -70212,6 +70238,7 @@ rockaways
 rockbound
 rocked
 rocker
+rocket
 rocketed
 rocketing
 rocketries
@@ -71406,6 +71433,7 @@ sanguinity
 sanicle
 sanidine
 sanidines
+sanious
 sanitaria
 sanitarian
 sanitarians
@@ -72720,6 +72748,7 @@ secondi
 seconding
 seconds
 secpar
+secpars
 secretagogue
 secretarial
 secretariat
@@ -77118,6 +77147,7 @@ spikey
 spikier
 spikiest
 spikiness
+spikinesses
 spiking
 spiks
 spile
@@ -77152,6 +77182,7 @@ spinifex
 spinifexes
 spininess
 spinnaker
+spinnakers
 spinneret
 spinnerets
 spinnerettes
@@ -78963,6 +78994,7 @@ struggling
 strum
 struma
 strumas
+strummer
 strummers
 strumming
 strumpets
@@ -80917,6 +80949,7 @@ swordman
 swordplayer
 swordsman
 swordsmanship
+swordsmanships
 swordsmen
 swore
 sworn
@@ -81078,6 +81111,7 @@ synchro
 synchromeshes
 synchronal
 synchroneities
+synchroneity
 synchronic
 synchronical
 synchronically
@@ -89443,6 +89477,7 @@ vestee
 vestees
 vestiaries
 vestiary
+vestibule
 vestibuled
 vestibules
 vestige
