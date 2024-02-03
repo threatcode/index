@@ -939,6 +939,7 @@ advertise
 advertisement
 advertiser
 advertisers
+advertisings
 advertize
 advertized
 advertizement
@@ -4258,6 +4259,7 @@ artinesses
 artiodactyls
 artisan
 artisanships
+artist
 artiste
 artistic
 artistically
@@ -5741,6 +5743,7 @@ balconies
 baldachins
 baldaquins
 balded
+balderdash
 balderdashes
 baldfaced
 baldhead
@@ -14939,6 +14942,7 @@ coin
 coincided
 coincidences
 coincident
+coincidentally
 coincidently
 coincides
 coinciding
@@ -22115,6 +22119,7 @@ diplexer
 diplexers
 diploblastic
 diplococci
+diplococcus
 diplodocus
 diplodocuses
 diploes
@@ -24425,6 +24430,7 @@ duskier
 duskiness
 dusking
 dusky
+dustbin
 dustcover
 dustcovers
 dusters
@@ -24534,6 +24540,7 @@ dynels
 dynode
 dynodes
 dynorphin
+dysarthrias
 dyscrasias
 dysenteric
 dysfunctional
@@ -26407,6 +26414,7 @@ enwheels
 enwind
 enwomb
 enwombed
+enwombs
 enwound
 enwrapping
 enwreathes
@@ -31097,6 +31105,7 @@ foulbroods
 fouled
 fouling
 foully
+foulness
 foulnesses
 fouls
 foundationally
@@ -34204,6 +34213,7 @@ gratulating
 gratulation
 gratulatory
 graupels
+gravamen
 gravamens
 gravel
 graveled
@@ -35298,6 +35308,7 @@ haloing
 halomorphic
 halons
 haloperidols
+halophiles
 halophyte
 halophytes
 halophytic
@@ -36131,6 +36142,7 @@ heisters
 heisting
 heists
 hejiras
+hektare
 hektogram
 held
 heldentenor
@@ -36289,6 +36301,7 @@ hemocoels
 hemocyanins
 hemocyte
 hemocytes
+hemocytometer
 hemodialysis
 hemodilutions
 hemodynamically
@@ -38123,6 +38136,7 @@ hypercriticism
 hypercriticisms
 hypercritics
 hypercubes
+hyperefficient
 hyperemias
 hyperesthesia
 hyperesthesias
@@ -41596,6 +41610,7 @@ irrigator
 irriguous
 irritability
 irritableness
+irritablenesses
 irritably
 irritancies
 irritant
@@ -46033,6 +46048,7 @@ lumberers
 lumbermen
 lumberyard
 lumberyards
+lumbosacral
 lumbrical
 lumen
 lumens
@@ -46758,6 +46774,7 @@ mamey
 mamluks
 mammal
 mammalian
+mammality
 mammalogies
 mammalogist
 mammalogists
@@ -47442,6 +47459,7 @@ matricides
 matriculant
 matriculates
 matriculation
+matriculations
 matrilineally
 matrimonial
 matrimonially
@@ -49627,6 +49645,7 @@ misrelies
 misremember
 misrendered
 misrendering
+misrenders
 misreport
 misreported
 misreporting
@@ -50652,6 +50671,7 @@ motorcars
 motorcycle
 motorcyclist
 motorcyclists
+motordom
 motordoms
 motorise
 motorised
@@ -54766,6 +54786,7 @@ opt
 optatively
 opted
 optic
+optically
 optimalities
 optimality
 optimally
@@ -56784,6 +56805,7 @@ overvaluing
 overview
 overvoltages
 overvote
+overvoting
 overwarm
 overwarmed
 overwary
@@ -58274,6 +58296,7 @@ peag
 peages
 peahens
 peak
+peakier
 peakish
 peaks
 peal
@@ -66640,6 +66663,7 @@ rediscountable
 rediscounted
 rediscounting
 rediscounts
+rediscovering
 rediscovers
 rediscovery
 rediscussed
@@ -67084,6 +67108,7 @@ refront
 refronting
 refroze
 refrying
+refs
 refuel
 refuelling
 refuels
@@ -70519,6 +70544,7 @@ ruthful
 ruthless
 ruthlessness
 ruthlessnesses
+rutilant
 rutiles
 rutins
 ruts
@@ -70526,6 +70552,7 @@ rutted
 ruttier
 ruttiest
 ruttily
+ruttiness
 ruttinesses
 rutting
 ruttish
@@ -71192,6 +71219,7 @@ sargassos
 sargassum
 sargos
 sarins
+saris
 sark
 sarkiest
 sarks
@@ -71390,6 +71418,7 @@ sawney
 sawtimber
 sawtimbers
 sawyer
+sawyers
 sax
 saxes
 saxhorn
@@ -83441,6 +83470,7 @@ tonsillar
 tonsillectomies
 tonsillitis
 tonsillitises
+tonsils
 tonsorial
 tonsured
 tonsures
@@ -86393,6 +86423,7 @@ underpayment
 underpayments
 underpin
 underpinned
+underpinning
 underpinnings
 underplay
 underplaying
@@ -87661,6 +87692,7 @@ untended
 untented
 untenured
 untestable
+untether
 untethered
 untethers
 unthanked
@@ -91275,6 +91307,7 @@ wiseacres
 wiseasses
 wisecrack
 wisecracker
+wisecrackers
 wisecracking
 wised
 wiseguy
@@ -91329,6 +91362,7 @@ witenagemot
 witenagemots
 withal
 withdraw
+withdrawable
 withdrawals
 withdrawn
 withdrawnnesses
@@ -92462,6 +92496,7 @@ zucchetti
 zucchettos
 zucchini
 zugzwang
+zugzwangs
 zwitterion
 zydeco
 zygapophyses
