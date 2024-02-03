@@ -216,6 +216,7 @@ acceptably
 acceptance
 acceptances
 acceptant
+acceptations
 accepters
 accepting
 acceptingly
@@ -6605,6 +6606,7 @@ bedehouses
 bedel
 bedells
 bedemen
+bedesmen
 bedevil
 bedeviled
 bedeviling
@@ -9681,6 +9683,7 @@ broadleaves
 broadlooms
 broadly
 broads
+broadscale
 broadsheet
 broadsheets
 broadsiding
@@ -9961,6 +9964,7 @@ buckles
 buckoes
 buckos
 buckramed
+buckraming
 buckras
 bucksaw
 bucksaws
@@ -12630,6 +12634,7 @@ chamade
 chamaephyte
 chamber
 chambered
+chamberlain
 chamberlains
 chambermaid
 chambermaids
@@ -15525,6 +15530,7 @@ commutativities
 commutativity
 commutator
 commutators
+commute
 commuted
 commuter
 commuters
@@ -24428,6 +24434,7 @@ duodecillion
 duodecimals
 duodenal
 duolog
+duologs
 duologues
 duomo
 duopolies
@@ -24878,6 +24885,7 @@ ectoplasm
 ectoplasmic
 ectoplasms
 ectoproct
+ectosarc
 ectosarcs
 ectotherm
 ectothermic
@@ -26564,6 +26572,7 @@ epicrania
 epicureanisms
 epicureans
 epicures
+epicuticles
 epicycle
 epicycloidal
 epidemically
@@ -30509,6 +30518,7 @@ fluoroscopes
 fluoroscopic
 fluoroscopies
 fluoroscoping
+fluoroscopist
 fluoroscopists
 fluoroscopy
 fluors
@@ -32552,6 +32562,7 @@ gastroscope
 gastroscopy
 gastrotrich
 gastrotrichs
+gastrular
 gastrulas
 gastrulates
 gastrulating
@@ -32596,6 +32607,7 @@ gauffers
 gauge
 gaugeable
 gauged
+gauger
 gaugers
 gauleiter
 gault
@@ -34488,6 +34500,7 @@ grig
 grigri
 grigris
 grigs
+grill
 grillade
 grillages
 grille
@@ -36562,6 +36575,7 @@ hermetically
 hermeticisms
 hermetisms
 hermetist
+hermit
 hermitage
 hermitages
 hermitisms
@@ -38765,6 +38779,7 @@ illustrations
 illustrators
 illustrious
 illustriously
+illustriousness
 illuvia
 illuviate
 illuviates
@@ -40303,6 +40318,7 @@ inhibits
 inholder
 inholders
 inholdings
+inhomogeneities
 inhomogeneity
 inhomogeneous
 inhospitable
@@ -40556,6 +40572,7 @@ insistences
 insistent
 insists
 insnared
+insnaring
 insobrieties
 insociabilities
 insofar
@@ -44860,6 +44877,7 @@ levuloses
 levy
 levying
 lewder
+lewis
 lewises
 lewisites
 lewissons
@@ -46528,6 +46546,7 @@ macrostructural
 macrostructure
 macrostructures
 macrural
+macruran
 maculae
 macular
 maculated
@@ -46945,6 +46964,7 @@ manageableness
 manageably
 managed
 management
+managemental
 manager
 manageresses
 managerial
@@ -48576,6 +48596,7 @@ meticulosities
 meticulosity
 metiers
 metis
+metisses
 metol
 metonym
 metonymic
@@ -49856,6 +49877,7 @@ misstopping
 misstricken
 misstrikes
 misstyle
+missuited
 missuiting
 missuses
 missy
@@ -53693,6 +53715,7 @@ nostalgically
 nostoc
 nostocs
 nostology
+nostril
 nosy
 notabilia
 notabilities
@@ -57870,6 +57893,7 @@ parcelling
 parcenaries
 parched
 parchesis
+parching
 parchisis
 parchments
 parclose
@@ -59899,6 +59923,7 @@ phycocyanin
 phycocyanins
 phycomycete
 phycomycetes
+phyla
 phylacteries
 phylactery
 phyleses
@@ -61062,6 +61087,7 @@ pluralities
 plurality
 pluralize
 pluralizing
+plurals
 pluripotent
 plus
 plushes
@@ -63509,6 +63535,7 @@ prohibiting
 prohibitionist
 prohibitionists
 prohibitions
+prohibitively
 prohibits
 project
 projectable
@@ -64505,6 +64532,7 @@ punner
 punners
 punniest
 punningly
+punny
 punster
 punted
 punto
@@ -70794,6 +70822,7 @@ sabot
 sabotages
 sabotaging
 saboteur
+saboteurs
 sabots
 sabre
 sabred
@@ -70880,6 +70909,7 @@ saddled
 saddleless
 saddlers
 saddlery
+saddletree
 saddletrees
 saddling
 sade
@@ -74532,6 +74562,7 @@ silverberry
 silvered
 silverer
 silverers
+silverfish
 silverinesses
 silverings
 silvern
@@ -76976,6 +77007,7 @@ spikiest
 spikiness
 spiking
 spiks
+spile
 spiles
 spilikin
 spill
@@ -76999,6 +77031,7 @@ spindly
 spindrift
 spindrifts
 spine
+spined
 spineless
 spinelle
 spinelles
@@ -80706,6 +80739,7 @@ swirls
 swished
 swisher
 swishers
+swishes
 swishier
 switchable
 switchback
@@ -84140,6 +84174,7 @@ traditionalize
 traditionalized
 traditions
 traditor
+traditores
 traduce
 traduced
 traducements
