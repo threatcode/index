@@ -1750,6 +1750,7 @@ aliped
 alipeds
 aliquant
 aliquot
+alist
 alit
 aliteracies
 aliteracy
@@ -3586,6 +3587,7 @@ apparat
 apparatchiki
 apparel
 appareled
+apparitional
 apparitor
 apparitors
 appealabilities
@@ -5909,6 +5911,7 @@ banish
 banisher
 banishers
 banishment
+banisters
 banjaxing
 banjo
 banjoes
@@ -8012,6 +8015,7 @@ blaeberries
 blagging
 blah
 blain
+blame
 blameful
 blamefully
 blamelessly
@@ -8963,6 +8967,7 @@ botched
 botchedly
 botcher
 botcheries
+botchers
 botchery
 botchy
 botflies
@@ -9721,6 +9726,7 @@ bronchoscopies
 bronchoscopist
 bronchoscopy
 bronchospasm
+bronchospastic
 broncobusters
 broncos
 broncs
@@ -11928,6 +11934,7 @@ catastrophe
 catastrophes
 catastrophism
 catastrophisms
+catastrophist
 catatonia
 catatonias
 catatonically
@@ -12007,6 +12014,7 @@ catheads
 cathectic
 cathecting
 cathedrae
+cathedral
 catheptic
 catheter
 catheterized
@@ -20268,6 +20276,7 @@ dehiscing
 dehorned
 dehorners
 dehorning
+dehorted
 dehorts
 dehumanization
 dehumanizations
@@ -21846,6 +21855,7 @@ diffusor
 difs
 difunctional
 dig
+digammas
 digamous
 digastrics
 digeneses
@@ -21971,6 +21981,7 @@ dimidiating
 diminishable
 diminished
 diminishing
+diminishments
 diminuendo
 diminuendos
 diminutive
@@ -29557,6 +29568,7 @@ finesses
 finest
 finfoot
 fingerboard
+fingered
 fingerhold
 fingering
 fingerings
@@ -30032,6 +30044,7 @@ fleahoppers
 fleapit
 fleapits
 fleawort
+fleaworts
 fleche
 fleches
 flechettes
@@ -30752,6 +30765,7 @@ forefeet
 forefelt
 forefending
 forefinger
+forefront
 forefronts
 foregathers
 foregoer
@@ -31639,6 +31653,7 @@ fug
 fugacities
 fugacity
 fugally
+fugato
 fugatos
 fuggier
 fuggiest
@@ -37860,6 +37875,7 @@ hybrids
 hydathode
 hydathodes
 hydatids
+hydrant
 hydranth
 hydras
 hydrases
@@ -39711,6 +39727,7 @@ indoles
 indomethacin
 indomitableness
 indoors
+indorse
 indorsed
 indorsee
 indorsees
@@ -46786,6 +46803,7 @@ mandril
 mandrill
 mandrills
 manducating
+mane
 maned
 maneless
 maneuverer
@@ -49220,6 +49238,7 @@ miscites
 misciting
 misclaim
 misclaimed
+misclaims
 misclassed
 misclasses
 misclassify
@@ -49592,6 +49611,7 @@ missileries
 missiles
 missilry
 missiologies
+missiology
 missioning
 missionizations
 missionize
@@ -60073,6 +60093,7 @@ pinnace
 pinnaces
 pinnate
 pinnately
+pinnations
 pinned
 pinners
 pinning
@@ -61089,6 +61110,7 @@ polos
 poltergeists
 poltroon
 poltroons
+polyacrylamides
 polyamide
 polyamine
 polyamines
@@ -63109,6 +63131,7 @@ prod
 prodder
 prodding
 prodigalities
+prodigals
 prodigies
 prodromal
 prodromata
@@ -64168,6 +64191,7 @@ punctuations
 punctuators
 punctured
 punctures
+puncturing
 punditries
 pung
 pungencies
@@ -66407,6 +66431,7 @@ recurving
 recusal
 recusancies
 recusants
+recused
 recuses
 recut
 recuts
@@ -66580,6 +66605,7 @@ redly
 rednecked
 redness
 rednesses
+redock
 redocked
 redocks
 redoes
@@ -67505,6 +67531,7 @@ relighting
 relights
 religion
 religionists
+religionless
 religiosities
 religiosity
 religious
@@ -69686,6 +69713,7 @@ riviera
 riviere
 rivulets
 rivulose
+riyal
 riyals
 roached
 road
@@ -71492,6 +71520,7 @@ sceneries
 scenery
 scenes
 sceneshifters
+scenically
 scenographies
 scenography
 scentless
@@ -74172,6 +74201,7 @@ siloxane
 siloxanes
 silt
 siltations
+silted
 siltier
 silting
 silts
@@ -74718,6 +74748,7 @@ slalomer
 slalomers
 slaloming
 slalomists
+slaloms
 slamdance
 slamdances
 slamdancing
@@ -76250,6 +76281,7 @@ spanakopita
 spanakopitas
 spancel
 spanceled
+spancelled
 spancelling
 spandex
 spandexes
@@ -82879,6 +82911,7 @@ timbals
 timber
 timberhead
 timberheads
+timbering
 timberland
 timberlines
 timbermen
@@ -85078,6 +85111,7 @@ turdine
 turds
 turf
 turfed
+turfier
 turfiest
 turflike
 turfman
@@ -90475,6 +90509,7 @@ wha
 whack
 whacked
 whackers
+whacko
 whacks
 whale
 whaleback
