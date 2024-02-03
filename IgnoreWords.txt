@@ -1178,6 +1178,7 @@ affricative
 affricatives
 affright
 affrighted
+affronted
 affronting
 affusion
 afghan
@@ -3163,6 +3164,7 @@ antiliberal
 antilibertarian
 antiliterate
 antilock
+antilogarithm
 antilogical
 antilogs
 antilogy
@@ -8577,6 +8579,7 @@ bobstay
 bobstays
 bobtailed
 bobtailing
+bobwhite
 bobwhites
 bocaccio
 bocaccios
@@ -9795,6 +9798,7 @@ bronchoscopes
 bronchoscopic
 bronchoscopies
 bronchoscopist
+bronchoscopists
 bronchoscopy
 bronchospasm
 bronchospastic
@@ -19214,6 +19218,7 @@ cytologic
 cytological
 cytolysin
 cytolysins
+cytomegalovirus
 cyton
 cytons
 cytopathic
@@ -20841,6 +20846,7 @@ dentality
 dentalium
 dentaliums
 dentally
+dentation
 dentations
 denticle
 denticles
@@ -25675,6 +25681,7 @@ emcees
 emdash
 emdashes
 eme
+emeers
 emendated
 emendates
 emendating
@@ -25714,6 +25721,7 @@ eminencies
 eminent
 eminently
 emir
+emissaries
 emissions
 emissive
 emissivities
@@ -28805,6 +28813,7 @@ fanga
 fanged
 fangless
 fanglike
+fangs
 fanion
 fanions
 fanjets
@@ -29112,6 +29121,7 @@ featheredges
 featheredging
 featherhead
 featherheaded
+featherier
 featheriest
 featherings
 featherlight
@@ -31142,6 +31152,7 @@ forgivably
 forgive
 forgiver
 forgives
+forgivingly
 forgivingness
 forgivingnesses
 forgo
@@ -31592,6 +31603,7 @@ fretboards
 fretful
 fretfulness
 fretfulnesses
+fretless
 fretsaws
 fretsome
 fretted
@@ -34589,6 +34601,7 @@ greyhen
 greylags
 greyly
 greynesses
+greys
 gribbles
 grid
 gridders
@@ -38199,6 +38212,7 @@ hydrocephalic
 hydrocephalics
 hydrocephalus
 hydrocephaluses
+hydrocephaly
 hydrochlorides
 hydrocolloid
 hydrocolloidal
@@ -39302,6 +39316,7 @@ implode
 implodes
 implore
 implored
+implores
 imploring
 imploringly
 implosion
@@ -43343,6 +43358,7 @@ kills
 kilned
 kilo
 kilobars
+kilobase
 kilobauds
 kilobits
 kilobytes
@@ -45224,6 +45240,7 @@ ligate
 ligated
 ligates
 ligating
+ligations
 ligatures
 ligers
 light
@@ -49789,6 +49806,7 @@ misgoverned
 misgoverning
 misgovernment
 misgraded
+misgrades
 misgraft
 misgrew
 misgrowing
@@ -60838,6 +60856,7 @@ plaguing
 plaguy
 plaice
 plaid
+plaided
 plaids
 plain
 plainclothesman
@@ -60953,6 +60972,7 @@ plastered
 plasterers
 plastering
 plasterings
+plasters
 plasterwork
 plasterworks
 plastic
@@ -73768,6 +73788,7 @@ shackles
 shackling
 shacko
 shad
+shadberry
 shadblows
 shadchan
 shadchans
@@ -76948,6 +76969,7 @@ sparoids
 sparred
 sparrier
 sparriest
+sparrow
 spars
 sparse
 sparsely
@@ -78468,6 +78490,7 @@ stiffener
 stiffening
 stiffie
 stiffies
+stiffly
 stiffness
 stiffs
 stifle
@@ -79628,6 +79651,7 @@ subpoena
 subpoenaed
 subpoenas
 subpolar
+subpopulation
 subpopulations
 subpotency
 subprimates
@@ -79886,6 +79910,7 @@ sucky
 sucralose
 sucraloses
 sucrase
+sucrases
 sucre
 sucrose
 suction
@@ -80165,6 +80190,7 @@ sundrily
 sundrops
 sundry
 sunfish
+sunflower
 sung
 sunglass
 sunglasses
@@ -81546,6 +81572,7 @@ tahsildars
 tahsils
 taigas
 taiglach
+tailback
 tailbacks
 tailboard
 tailboards
@@ -81597,6 +81624,7 @@ taj
 takahe
 take
 takeable
+takeaway
 takeaways
 takedowns
 takeoffs
@@ -85342,6 +85370,7 @@ trochanters
 trochar
 trochars
 trochee
+trochil
 trochili
 trochlea
 trochlears
@@ -88032,6 +88061,7 @@ unscarred
 unscathed
 unschooled
 unscientific
+unscrambler
 unscramblers
 unscrambles
 unscrew
@@ -89393,6 +89423,7 @@ venomousness
 venomousnesses
 venoms
 venous
+venously
 vent
 ventail
 ventails
@@ -89581,6 +89612,7 @@ vertically
 verticalnesses
 verticals
 verticillate
+verticils
 vertigo
 vertu
 vertus
@@ -91741,6 +91773,7 @@ winder
 winders
 windfall
 windflaw
+windflaws
 windflower
 windhovers
 windigo
@@ -92191,6 +92224,7 @@ wordinesses
 wording
 wordings
 wordless
+wordlessly
 wordlessness
 wordmonger
 wordmongers
@@ -93006,6 +93040,7 @@ zoeas
 zoecia
 zoecium
 zoftig
+zombification
 zombified
 zombify
 zombifying
