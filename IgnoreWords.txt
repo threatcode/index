@@ -715,6 +715,7 @@ adipose
 adiposes
 adiposis
 adiposities
+adiposity
 adipous
 adits
 adjacence
@@ -5981,6 +5982,7 @@ bank
 bankabilities
 bankability
 bankbook
+banked
 banking
 bankings
 bankit
@@ -6638,6 +6640,7 @@ bedcovering
 bedcovers
 beddable
 bedded
+bedding
 beddings
 bedeafen
 bedeafening
@@ -9479,6 +9482,7 @@ braying
 brays
 braza
 brazed
+brazen
 brazening
 brazers
 brazes
@@ -14643,6 +14647,7 @@ coapted
 coapting
 coapts
 coarctation
+coarctations
 coarsely
 coarsen
 coarsenesses
@@ -18019,6 +18024,7 @@ crasher
 crashers
 crashing
 crashworthy
+crasis
 crasser
 crassest
 crassitudes
@@ -21414,6 +21420,7 @@ detained
 detainees
 detainers
 detainment
+detainments
 detains
 detasseled
 detasseling
@@ -21719,6 +21726,7 @@ diabasic
 diabetes
 diabetologists
 diabolical
+diabolisms
 diabolizing
 diabolo
 diabolos
@@ -30467,6 +30475,7 @@ flinging
 flinkite
 flinthead
 flintheads
+flintier
 flintinesses
 flinting
 flintlike
@@ -35438,6 +35447,7 @@ hadron
 hadronic
 hadrons
 hadrosaur
+hadst
 haecceity
 haematal
 haematics
@@ -40365,6 +40375,7 @@ inferring
 infers
 infestant
 infestation
+infested
 infester
 infesters
 infidelic
@@ -45385,6 +45396,7 @@ lightplane
 lightplanes
 lightproof
 lightship
+lightsome
 lighttight
 lightweight
 lightweights
@@ -45661,6 +45673,7 @@ lippings
 lipreader
 lipreaders
 lipreading
+lipreadings
 lipreads
 lips
 lipstick
@@ -51491,6 +51504,7 @@ multidisc
 multidomain
 multielectrode
 multielement
+multienzyme
 multiethnic
 multiethnics
 multifaceted
@@ -54989,6 +55003,7 @@ olla
 ologies
 ologist
 ologists
+ology
 ololiuquis
 oloroso
 olympiad
@@ -55613,6 +55628,7 @@ orzo
 orzos
 oscillates
 oscillating
+oscillational
 oscillator
 oscillatory
 oscillograph
@@ -57117,6 +57133,7 @@ overreactions
 overrefinements
 overregulated
 overregulates
+overreport
 overreported
 overreporting
 overreports
@@ -57506,6 +57523,7 @@ oxytone
 oxytones
 oxyuriases
 oy
+oyer
 oyers
 oyes
 oyezes
@@ -58797,6 +58815,7 @@ payers
 paygrade
 paying
 payloads
+paymaster
 paymasters
 payments
 payoff
@@ -62052,6 +62071,7 @@ popper
 poppers
 poppets
 poppied
+poppies
 popping
 popples
 poppling
@@ -62112,6 +62132,7 @@ porous
 porphyria
 porphyrias
 porphyric
+porphyritic
 porphyropsins
 porphyry
 porpoise
@@ -63172,6 +63193,7 @@ preppiest
 preppily
 preppiness
 preppinesses
+preppy
 prepregs
 prepricing
 preprimaries
@@ -64277,6 +64299,7 @@ prostitution
 prostitutions
 prostomium
 prostrate
+prostrated
 prostrates
 prostrating
 prostrations
@@ -71339,6 +71362,7 @@ sacrings
 sacrist
 sacrists
 sacristy
+sacroiliacs
 sacrosanct
 sacrosanctities
 sacrosanctity
@@ -71940,6 +71964,7 @@ satanists
 sataras
 satay
 satays
+satchel
 satchels
 satchelsful
 sated
@@ -81078,6 +81103,7 @@ swamy
 swan
 swanker
 swankest
+swankiest
 swankinesses
 swanking
 swanned
@@ -83883,6 +83909,7 @@ tinhorn
 tinhorns
 tinkerer
 tinkerers
+tinkers
 tinkertoy
 tinkle
 tinklers
@@ -84539,6 +84566,7 @@ toughing
 toughish
 toughly
 toughness
+toughnesses
 toughs
 toughy
 touraco
@@ -85542,6 +85570,7 @@ trisyllabic
 trite
 tritely
 tritenesses
+triter
 tritest
 tritheist
 trithing
@@ -87735,6 +87764,7 @@ unifies
 unifoliate
 uniform
 uniformitarians
+uniformities
 uniformity
 uniformnesses
 unifying
@@ -90733,6 +90763,7 @@ wailsome
 wainscot
 wainscoting
 wainscotted
+wainscotting
 wainscottings
 wainwrights
 wair
@@ -91557,6 +91588,7 @@ wheelchair
 wheeled
 wheeler
 wheelers
+wheelhorses
 wheelhouse
 wheelhouses
 wheeling
@@ -91581,6 +91613,7 @@ wheezer
 wheezier
 wheeziness
 wheezinesses
+whelkier
 whelkiest
 whelmed
 whelp
@@ -92073,6 +92106,7 @@ wingback
 wingbow
 wingbows
 wingchair
+wingchairs
 wingding
 wingdings
 wingedly
@@ -92269,6 +92303,7 @@ wivern
 wiverns
 wivers
 wives
+wiz
 wizardly
 wizardries
 wizardry
