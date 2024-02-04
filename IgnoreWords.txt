@@ -67,6 +67,7 @@ abscission
 absconds
 absented
 absentee
+absenteeism
 absenteeisms
 absentees
 absenters
@@ -1729,6 +1730,7 @@ algologies
 algologists
 algology
 algometry
+algor
 algorithmic
 algorithmically
 algum
@@ -3389,6 +3391,7 @@ antlered
 antlers
 antlions
 antonomasias
+antonym
 antonymy
 antral
 antre
@@ -3644,6 +3647,7 @@ apparitors
 appealabilities
 appealed
 appealer
+appealers
 appealing
 appeals
 appear
@@ -4995,6 +4999,7 @@ aureoled
 aureoles
 aureoling
 aures
+aureus
 auric
 auricles
 auricula
@@ -5518,6 +5523,7 @@ backbench
 backbenchers
 backbend
 backbends
+backbite
 backbiting
 backbitings
 backblocks
@@ -8186,6 +8192,7 @@ blat
 blatant
 blatherer
 blathers
+blatherskite
 blatter
 blatters
 blaw
@@ -11289,6 +11296,7 @@ cannons
 cannot
 cannulae
 cannular
+cannulas
 cannulate
 cannulated
 canoe
@@ -15426,6 +15434,7 @@ colugo
 colugos
 columbaria
 columbarium
+columbary
 columbine
 columbite
 columbium
@@ -18284,6 +18293,7 @@ cricetids
 cricked
 cricket
 cricketed
+cricketing
 cricoids
 crier
 criers
@@ -19230,6 +19240,7 @@ cyclostyles
 cyclostyling
 cyclothymia
 cyclothymias
+cyclothymic
 cyder
 cyeses
 cygnet
@@ -23090,6 +23101,7 @@ disproofs
 disproportioned
 disproved
 disprovers
+disproves
 disputably
 disputants
 disputation
@@ -28045,6 +28057,7 @@ exempting
 exemption
 exemptions
 exempts
+exenterates
 exenteration
 exenterations
 exequaturs
@@ -30123,6 +30136,7 @@ fishermen
 fishers
 fishery
 fishes
+fisheyes
 fishhook
 fishhooks
 fishiest
@@ -31543,6 +31557,7 @@ foxskins
 foxtails
 foxtrot
 foxtrots
+foxtrotted
 foxy
 foziest
 foziness
@@ -32972,6 +32987,7 @@ gazabos
 gazanias
 gazar
 gaze
+gazebo
 gazeboes
 gazebos
 gazehounds
@@ -34981,6 +34997,7 @@ grouchily
 grouchinesses
 grouching
 grouchy
+groundbreaker
 groundbreaking
 groundbursts
 grounders
@@ -39480,6 +39497,7 @@ impersonal
 impersonalities
 impersonalize
 impersonalizing
+impersonally
 impersonated
 impersonates
 impersonator
@@ -40583,6 +40601,7 @@ infotainment
 infotainments
 infra
 infract
+infraction
 infractions
 infractors
 infrahuman
@@ -40726,6 +40745,7 @@ initialed
 initialers
 initialing
 initializations
+initializing
 initially
 initialness
 initialnesses
@@ -41315,6 +41335,7 @@ interferers
 interferogram
 interferograms
 interferometers
+interferometry
 interferon
 interferons
 interfertile
@@ -42959,6 +42980,7 @@ jows
 joyed
 joyful
 joyfully
+joyfulness
 joyfulnesses
 joylessly
 joylessness
@@ -46397,6 +46419,7 @@ lordship
 loreal
 lorgnette
 lorgnon
+lorgnons
 lorica
 loricae
 loricate
@@ -49009,6 +49032,7 @@ methemoglobin
 methemoglobins
 methenamine
 methicillin
+methicillins
 methinks
 methionine
 methionines
@@ -51664,6 +51688,7 @@ multilayered
 multilevel
 multileveled
 multilingual
+multilingualism
 multilobe
 multilobed
 multimanned
@@ -62604,6 +62629,7 @@ potteens
 potter
 potterer
 potteries
+pottering
 potteringly
 pottery
 pottier
@@ -63251,6 +63277,7 @@ premaxilla
 premaxillary
 premaxillas
 premeasure
+premeasured
 premeasuring
 premeditate
 premeditated
@@ -66943,6 +66970,7 @@ recapitulate
 recapitulates
 recapitulating
 recapitulation
+recapitulations
 recapping
 recaps
 recapture
@@ -69532,6 +69560,7 @@ resplice
 resplices
 resplicing
 respondent
+respondents
 responder
 responders
 responding
@@ -72385,6 +72414,7 @@ scalelike
 scaler
 scalers
 scales
+scaletail
 scaleup
 scaleups
 scaliest
@@ -85552,6 +85582,7 @@ trichiasis
 trichina
 trichinal
 trichinas
+trichinizes
 trichite
 trichites
 trichlorfon
@@ -87981,6 +88012,7 @@ unhysterically
 uniaxial
 unibody
 unicameral
+unicamerally
 unicellular
 unicolor
 unicycle
@@ -88022,6 +88054,7 @@ unimpeded
 unimportant
 unimpressed
 unimpressive
+unindicted
 uninflated
 uninflected
 uninitiated
@@ -91343,6 +91376,7 @@ waterage
 waterages
 waterbed
 waterbird
+waterborne
 waterbuck
 waterbucks
 waterbuses
@@ -92984,6 +93018,7 @@ wushu
 wuss
 wussier
 wussy
+wuthered
 wuthers
 wych
 wyes
