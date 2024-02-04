@@ -307,6 +307,7 @@ accredit
 accreditable
 accredited
 accrete
+accretes
 accretions
 accretive
 accrued
@@ -1145,6 +1146,7 @@ affix
 affixable
 affixal
 affixation
+affixer
 affixial
 affixing
 affixtures
@@ -2201,6 +2203,7 @@ amelioratory
 amen
 amenable
 amenably
+amendable
 amendatory
 amended
 amender
@@ -2650,6 +2653,7 @@ anemograph
 anemographs
 anemologies
 anemometer
+anemometers
 anemometries
 anemometry
 anemone
@@ -6606,6 +6610,7 @@ becloaked
 beclogged
 beclogs
 beclothe
+beclothing
 becloud
 beclouding
 beclouds
@@ -9007,6 +9012,7 @@ borer
 borers
 borescopes
 boresome
+boric
 boride
 borides
 boring
@@ -11161,6 +11167,7 @@ canal
 canalboat
 canalboats
 canaled
+canalicular
 canaling
 canalise
 canalised
@@ -13010,6 +13017,7 @@ chaunts
 chautauqua
 chautauquas
 chauvinisms
+chauvinistic
 chaw
 chawbacon
 chawbacons
@@ -14885,6 +14893,7 @@ codesign
 codesigning
 codesigns
 codeveloper
+codevelopers
 codevelops
 codfish
 codfishes
@@ -19369,6 +19378,7 @@ dactylic
 dactylology
 dactyls
 dactylus
+dadaism
 dadaisms
 dadaist
 dadaistic
@@ -23341,6 +23351,7 @@ dithers
 dithiol
 dithyrambically
 dithyrambs
+ditransitive
 ditransitives
 dits
 ditsiest
@@ -25193,6 +25204,7 @@ eerie
 eerier
 eeriest
 eeriness
+eff
 effable
 efface
 effaced
@@ -25941,6 +25953,7 @@ empoisonment
 empoisonments
 empoisons
 emporium
+empowerment
 empresses
 emprise
 emprises
@@ -27716,6 +27729,7 @@ everlasting
 everlastingly
 everlastingness
 everlastings
+evermore
 eversible
 eversions
 evert
@@ -29721,6 +29735,7 @@ fictioneerings
 fictioneers
 fictionization
 fictionizations
+fictionize
 fictionizes
 fictionizing
 fictitiously
@@ -30499,6 +30514,7 @@ flicker
 flickered
 flickering
 flickers
+flickery
 flicks
 flics
 flier
@@ -30893,6 +30909,7 @@ foggages
 foggier
 foggiest
 fogginess
+foghorn
 fogy
 fogyish
 fohn
@@ -31365,6 +31382,7 @@ formlessness
 formlessnesses
 forms
 formula
+formulae
 formulaic
 formularies
 formularized
@@ -31533,6 +31551,7 @@ fractionator
 fractionators
 fractioned
 fractions
+fractiousnesses
 fractural
 fracture
 fracturer
@@ -32151,6 +32170,7 @@ fundus
 funerals
 funereal
 funereally
+funest
 funfair
 funfairs
 funfest
@@ -47852,6 +47872,7 @@ mashgiach
 mashgiah
 mashgichim
 mashie
+mashies
 mashing
 masjid
 mask
@@ -48384,6 +48405,7 @@ megasse
 megathere
 megatheres
 megaton
+megatonnage
 megatonnages
 megatons
 megavitamin
@@ -54604,6 +54626,7 @@ obligately
 obligates
 obligating
 obligations
+obligato
 obligator
 obligatory
 obligatos
@@ -54969,6 +54992,7 @@ offload
 offloaded
 offprint
 offprinting
+offramp
 offscourings
 offscreen
 offsetting
@@ -57016,6 +57040,7 @@ overheld
 overholy
 overhomogenize
 overhomogenized
+overhomogenizes
 overhonoring
 overhonors
 overhot
@@ -62571,6 +62596,7 @@ pouff
 pouffe
 pouffs
 poufs
+poulard
 poulardes
 poulards
 poult
@@ -67188,6 +67214,7 @@ reconversions
 reconverted
 reconverting
 reconveyances
+reconveying
 reconveys
 reconvict
 reconvicts
@@ -68651,6 +68678,7 @@ renascent
 renationalizes
 renaturation
 renaturations
+renatures
 renaturing
 rencontre
 rencontres
@@ -72001,6 +72029,7 @@ sappiest
 sappily
 sappiness
 sappinesses
+sappy
 sapremia
 saprobes
 saprobial
@@ -76130,6 +76159,7 @@ smallnesses
 smallpox
 smalltime
 smalti
+smalto
 smalts
 smaragd
 smaragde
@@ -79492,6 +79522,7 @@ stroppier
 stroppiest
 stropping
 strops
+stroud
 stroudings
 strow
 strowed
@@ -80959,6 +80990,7 @@ supple
 suppled
 supplejack
 supplement
+supplemented
 supplementing
 supplements
 supplenesses
@@ -84707,6 +84739,7 @@ touchbacks
 touchdowns
 touche
 toucher
+touches
 touchhole
 touchholes
 touchiest
@@ -89574,6 +89607,7 @@ vapors
 vapour
 vapoured
 vapourers
+vapours
 vapoury
 vaquero
 var
@@ -90852,6 +90886,7 @@ wackier
 wackily
 wackiness
 wackinesses
+wad
 waddie
 wadding
 waddle
