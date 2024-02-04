@@ -780,6 +780,7 @@ admiringly
 admissibilities
 admissibility
 admissible
+admission
 admissions
 admit
 admits
@@ -2409,6 +2410,7 @@ amusements
 amuser
 amusers
 amusing
+amusingness
 amusingnesses
 amusive
 amygdala
@@ -2502,6 +2504,7 @@ analogizing
 analogous
 analogs
 analogue
+analogues
 analogy
 analphabet
 analphabetics
@@ -2661,6 +2664,7 @@ anemometry
 anemone
 anemones
 anemophilous
+anencephalic
 anencephalies
 anergic
 anesthesiology
@@ -6106,6 +6110,7 @@ barcarolles
 barcas
 barchan
 bardes
+bardic
 bareback
 barebacked
 bareboat
@@ -6137,6 +6142,7 @@ bargains
 bargeboard
 bargeboards
 bargee
+bargello
 barges
 barghest
 barging
@@ -7931,6 +7937,7 @@ birdlimed
 birdlimes
 birdliming
 birdman
+birdseye
 birdwatches
 birdwatching
 birefringences
@@ -8165,6 +8172,7 @@ blasphemy
 blast
 blasted
 blastema
+blastemal
 blastemas
 blastematic
 blastie
@@ -9520,6 +9528,7 @@ brazier
 brazilein
 brazileins
 brazilin
+brazilins
 brazilwoods
 brazing
 breached
@@ -9927,6 +9936,7 @@ brownnosed
 brownnoser
 brownnosers
 brownnoses
+brownnosing
 browns
 brownshirt
 brownstone
@@ -10063,6 +10073,7 @@ bucklers
 buckles
 buckoes
 buckos
+buckra
 buckramed
 buckraming
 buckras
@@ -15682,6 +15693,7 @@ communizing
 commutate
 commutated
 commutating
+commutation
 commutative
 commutativities
 commutativity
@@ -17330,6 +17342,7 @@ corrida
 corrigenda
 corrigendum
 corrigible
+corrivals
 corroborant
 corroborated
 corroborates
@@ -18191,6 +18204,7 @@ creeled
 creeling
 creep
 creepage
+creeped
 creeper
 creepie
 creepier
@@ -20285,6 +20299,7 @@ deemed
 deeming
 deepen
 deepener
+deepest
 deepfroze
 deepnesses
 deeps
@@ -20975,6 +20990,7 @@ dentations
 denticle
 denticles
 dentiform
+dentiled
 dentils
 dentine
 dentins
@@ -22086,6 +22102,7 @@ diesels
 dieses
 diesters
 diestocks
+diestrum
 diestrums
 diestrus
 diestruses
@@ -24232,6 +24249,7 @@ drays
 dread
 dreaded
 dreadful
+dreadfulnesses
 dreadfuls
 dreadlock
 dreadlocks
@@ -27494,6 +27512,7 @@ ethnohistoric
 ethnohistory
 ethnological
 ethnology
+ethnomusicology
 ethnonym
 ethnoscience
 ethnoses
@@ -28642,6 +28661,7 @@ eyeholes
 eyehooks
 eyelash
 eyeless
+eyeletting
 eyelids
 eyelift
 eyelifts
@@ -36326,6 +36346,7 @@ he
 headache
 headaches
 headachey
+headachy
 headband
 headbands
 headboard
@@ -36369,6 +36390,7 @@ headsails
 headset
 headships
 headshrinker
+headshrinkers
 headsmen
 headspring
 headsprings
@@ -38969,6 +38991,7 @@ idealization
 idealizations
 idealize
 idealized
+idealizers
 idealizing
 idealless
 ideally
@@ -39228,6 +39251,7 @@ imbosomed
 imbowered
 imbricates
 imbricating
+imbrication
 imbroglios
 imbrown
 imbrowned
@@ -40366,6 +40390,7 @@ indwells
 inearth
 inearthed
 inearths
+inebriates
 inebriation
 inebriations
 inedible
@@ -42465,6 +42490,7 @@ jaded
 jadedness
 jadelike
 jades
+jaegers
 jager
 jagg
 jaggaries
@@ -42814,6 +42840,7 @@ jitterier
 jitteriest
 jitteriness
 jittering
+jitters
 jiujitsus
 jive
 jiveass
@@ -43586,6 +43613,7 @@ kiddoes
 kiddos
 kidlike
 kidnap
+kidnaped
 kidnaper
 kidnapers
 kidnappee
@@ -49645,6 +49673,7 @@ mincy
 mind
 minded
 mindednesses
+minder
 minders
 mindful
 mindfully
@@ -69170,6 +69199,7 @@ repulsed
 repulsers
 repulsing
 repulsiveness
+repumped
 repumps
 repunctuations
 repurchase
@@ -76785,6 +76815,7 @@ softheadedly
 softheadedness
 softheads
 softheartedness
+softies
 softly
 softness
 softshells
@@ -81039,6 +81070,7 @@ supinated
 supinator
 supine
 supinely
+supineness
 supinenesses
 supines
 supped
@@ -83339,6 +83371,7 @@ thalassemia
 thalassemics
 thalassic
 thalassocracy
+thalassocrat
 thalassocrats
 thaler
 thalers
@@ -88195,6 +88228,7 @@ unleashing
 unleavened
 unlethal
 unlettered
+unlevel
 unleveled
 unleveling
 unlevels
@@ -92683,6 +92717,7 @@ wont
 wontedly
 wontednesses
 wonton
+woodbind
 woodbinds
 woodbins
 woodblocks
