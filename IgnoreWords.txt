@@ -2854,6 +2854,7 @@ annually
 annuals
 annuitant
 annuities
+annul
 annular
 annularly
 annulated
@@ -6367,6 +6368,7 @@ bath
 bathetic
 bathetically
 bathhouse
+bathing
 bathless
 batholiths
 bathoses
@@ -11927,6 +11929,7 @@ caseated
 caseating
 caseation
 casebearer
+casebearers
 casebooks
 casefies
 casefying
@@ -12330,6 +12333,7 @@ cee
 cees
 ceil
 ceiled
+ceiler
 ceilers
 ceilidh
 ceiling
@@ -15942,6 +15946,7 @@ conceptualistic
 conceptualists
 conceptualities
 conceptualized
+conceptualizer
 conceptualizers
 conceptually
 concern
@@ -18963,6 +18968,7 @@ curtalax
 curtalaxes
 curtate
 curtest
+curtesy
 curtilages
 curtness
 curtsey
@@ -21577,6 +21583,7 @@ developed
 developer
 developers
 developes
+developing
 developmentally
 developpe
 develops
@@ -22090,6 +22097,7 @@ difunctional
 dig
 digammas
 digamous
+digamy
 digastrics
 digeneses
 digested
@@ -23236,6 +23244,7 @@ distracted
 distractedly
 distractibility
 distractible
+distracting
 distractingly
 distractive
 distrainer
@@ -23468,6 +23477,7 @@ doctorate
 doctorates
 doctored
 doctorial
+doctorless
 doctorship
 doctorships
 doctrinaire
@@ -24609,6 +24619,7 @@ duologues
 duomo
 duopolies
 duopoly
+duopsonies
 duopsony
 duotone
 dup
@@ -30260,6 +30271,7 @@ flashcubes
 flashed
 flashers
 flashgun
+flashguns
 flashier
 flashiest
 flashily
@@ -30821,6 +30833,7 @@ focalizes
 focally
 foci
 focus
+focusable
 focusers
 focuses
 focusing
@@ -38088,6 +38101,7 @@ hullabaloos
 hulled
 hulling
 hullo
+hulloa
 hulloaed
 hulloas
 hulloed
@@ -38195,6 +38209,7 @@ hunched
 hunches
 hunching
 hundreds
+hundredweight
 hundredweights
 hungered
 hungering
@@ -39977,6 +39992,7 @@ inculpations
 incumbencies
 incumbency
 incumbents
+incumber
 incumbered
 incumbers
 incunable
@@ -41484,6 +41500,7 @@ interurban
 intervale
 intervalley
 intervallic
+intervalometers
 intervals
 intervene
 intervened
@@ -41746,6 +41763,7 @@ inveigh
 inveigher
 inveighing
 inveigle
+inveiglement
 inveiglers
 invent
 invented
@@ -42838,6 +42856,7 @@ journalizing
 journals
 journey
 journeyed
+journeyer
 journeymen
 journeywork
 journo
@@ -46764,6 +46783,7 @@ lyricized
 lyricizing
 lyricon
 lyricons
+lyrics
 lyrism
 lyrists
 lysate
@@ -47682,6 +47702,7 @@ marplot
 marplots
 marque
 marquee
+marquees
 marquess
 marquessate
 marquesses
@@ -52810,6 +52831,7 @@ newness
 newnesses
 newsbeats
 newsboy
+newsboys
 newsbreak
 newsbreaks
 newscast
@@ -59007,6 +59029,7 @@ pedicles
 pediculate
 pediculates
 pediculosis
+pediculous
 pedicured
 pedicurist
 pedicurists
@@ -59675,6 +59698,7 @@ perseveres
 persiflages
 persimmon
 persisted
+persistence
 persistencies
 persistency
 persistently
@@ -63803,6 +63827,7 @@ procarps
 procaryote
 procathedral
 procedurals
+proceed
 proceeded
 proceeders
 proceedings
@@ -65241,6 +65266,7 @@ pylorus
 pyoderma
 pyodermic
 pyogenic
+pyorrheal
 pyorrheas
 pyorrhoea
 pyoses
@@ -65741,6 +65767,7 @@ quitrents
 quits
 quittance
 quittances
+quitters
 quittor
 quittors
 quiver
@@ -66719,6 +66746,7 @@ rebody
 rebodying
 reboiled
 rebook
+rebooked
 rebooking
 reboot
 reboots
@@ -71116,6 +71144,7 @@ ruinously
 ruinousness
 ruinousnesses
 ruins
+rulable
 ruled
 ruleless
 rulers
@@ -71836,6 +71865,7 @@ sansar
 sansculotte
 sansculottic
 sansculottish
+sansculottism
 sansevieria
 santalic
 santalol
@@ -76368,6 +76398,7 @@ snowballed
 snowbank
 snowbell
 snowbelts
+snowberries
 snowbird
 snowbirds
 snowblink
@@ -76591,6 +76622,7 @@ soil
 soiled
 soiling
 soirees
+soja
 sojourn
 sojourned
 sojourner
@@ -77752,6 +77784,7 @@ spondee
 spondees
 sponged
 sponges
+spongeware
 spongiest
 spongin
 sponsal
@@ -82727,6 +82760,7 @@ tenderize
 tenderizer
 tenderizers
 tenderizes
+tenderloin
 tenderness
 tendernesses
 tenderometers
@@ -89896,6 +89930,7 @@ versions
 versos
 verst
 verste
+versts
 versus
 vertebra
 vertebrae
