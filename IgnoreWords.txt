@@ -2059,6 +2059,7 @@ altimeter
 altimeters
 altimetries
 altiplanos
+altitude
 altitudinal
 altitudinous
 altocumuli
@@ -2316,6 +2317,7 @@ amorality
 amoretti
 amoretto
 amorettos
+amorini
 amorino
 amoroso
 amorousness
@@ -4720,6 +4722,7 @@ atactic
 atalayas
 ataman
 atamasco
+atamascos
 atap
 ataractic
 ataractics
@@ -6918,6 +6921,7 @@ behavers
 behaves
 behaving
 behavior
+behavioral
 behaviorally
 behaviorism
 behaviorists
@@ -7732,6 +7736,7 @@ bind
 binderies
 bindery
 binding
+bindingly
 bindingness
 bindingnesses
 bindings
@@ -8210,6 +8215,7 @@ blastomata
 blastomere
 blastomeres
 blastomycosis
+blastopore
 blastoporic
 blastospores
 blasts
@@ -8791,6 +8797,7 @@ boloneys
 bolshevik
 bolsheviki
 bolsheviks
+bolshevism
 bolshevisms
 bolshevizing
 bolshie
@@ -9830,6 +9837,7 @@ brochures
 brock
 brocolis
 brogan
+brogueries
 brogues
 broidered
 broiderers
@@ -13008,6 +13016,7 @@ chartists
 chartless
 charts
 chartulary
+charwomen
 chase
 chaseable
 chaser
@@ -15739,6 +15748,7 @@ commutes
 commuting
 comonomer
 comonomers
+comous
 comp
 compact
 compacter
@@ -17699,6 +17709,7 @@ counterfeiter
 counterfeiters
 counterfeiting
 counterfire
+counterfires
 counterflow
 counterfoils
 counterforces
@@ -18576,6 +18587,7 @@ crowdedly
 crowdedness
 crowder
 crowders
+crowdie
 crowdies
 crowds
 crowfeet
@@ -26156,6 +26168,7 @@ enclasp
 enclasped
 enclasping
 enclasps
+enclave
 enclaved
 enclaving
 enclitic
@@ -28256,6 +28269,7 @@ exorable
 exorbitance
 exorbitant
 exorbitantly
+exorcised
 exorciser
 exorcisers
 exorcises
@@ -32380,6 +32394,7 @@ furthest
 furtively
 furtiveness
 furtivenesses
+furuncles
 furzes
 furzier
 furzy
@@ -33327,6 +33342,7 @@ geology
 geomagnetic
 geomagnetically
 geomancer
+geomancers
 geomancy
 geometer
 geometers
@@ -37208,6 +37224,7 @@ hibernated
 hibernates
 hibernating
 hibernation
+hibernators
 hibiscuses
 hiccoughing
 hiccup
@@ -41903,6 +41920,7 @@ inturned
 inturns
 intussusception
 intussusceptive
+intussuscepts
 intwine
 intwines
 intwining
@@ -42120,6 +42138,7 @@ iratenesses
 iratest
 ired
 irefully
+ireless
 irenical
 irenics
 iridescence
@@ -43594,6 +43613,7 @@ keybuttons
 keycard
 keycards
 keyed
+keyholes
 keynote
 keynotes
 keynoting
@@ -48351,6 +48371,7 @@ mealinesses
 mealtime
 mealy
 mealybug
+mealymouthed
 mean
 meander
 meandered
@@ -49666,6 +49687,7 @@ milliaries
 millibar
 millicurie
 millicuries
+millidegree
 millieme
 milligal
 milligals
@@ -51712,6 +51734,7 @@ muhly
 mujahedeen
 mujahidin
 mujik
+mujiks
 mukluk
 mulberries
 mulberry
@@ -61179,6 +61202,7 @@ piroplasm
 piroplasma
 piroplasmata
 piroplasms
+piroque
 piroques
 pirouetted
 pirouettes
@@ -62027,6 +62051,7 @@ poler
 poles
 polestars
 poleyns
+policemen
 policewoman
 policewomen
 policies
@@ -65333,6 +65358,7 @@ puppetries
 puppetry
 puppies
 puppy
+puppyhoods
 puppylike
 pupu
 pupus
@@ -76137,6 +76163,7 @@ slicer
 slicers
 slices
 slicing
+slicken
 slickened
 slickeners
 slickens
@@ -77840,6 +77867,7 @@ spermous
 sperms
 spessartite
 spessartites
+spewer
 sphagnums
 sphalerites
 sphenes
@@ -78469,6 +78497,7 @@ squillae
 squinches
 squinching
 squinnier
+squinniest
 squinnying
 squint
 squintest
@@ -80598,6 +80627,7 @@ suet
 suety
 sufferable
 sufferableness
+sufferer
 sufferers
 suffering
 sufferings
@@ -81857,6 +81887,7 @@ symbolizing
 symbols
 symmetallism
 symmetallisms
+symmetrical
 symmetrically
 symmetrization
 symmetrizations
@@ -81978,6 +82009,7 @@ syndicalism
 syndicalist
 syndicate
 syndicates
+syndications
 syndicator
 syndics
 syndromes
@@ -82131,6 +82163,7 @@ taborines
 taboring
 tabouleh
 tabour
+taboured
 tabourer
 tabouret
 tabourets
@@ -82325,6 +82358,7 @@ taler
 talers
 tales
 talesman
+talesmen
 taleysim
 tali
 talion
@@ -86441,6 +86475,7 @@ tumuli
 tumulose
 tumults
 tumultuary
+tumultuousness
 tumulus
 tumuluses
 tun
