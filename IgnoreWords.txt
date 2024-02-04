@@ -4578,6 +4578,7 @@ assistors
 assize
 associated
 associateship
+associateships
 associating
 association
 associationism
@@ -6467,6 +6468,7 @@ bawl
 bawls
 bawtie
 bayard
+bayberries
 bayberry
 bayed
 baying
@@ -10828,6 +10830,7 @@ caesuric
 cafeteria
 cafetoria
 cafetorium
+caff
 caffein
 caffeinated
 caffeine
@@ -12239,6 +12242,7 @@ catmints
 catnapped
 catnapper
 catnaps
+catnip
 catoptric
 catrigged
 cats
@@ -14876,6 +14880,7 @@ cocobolos
 cocomat
 cocomats
 cocomposer
+coconspirator
 coconspirators
 cocoon
 cocooning
@@ -16500,6 +16505,7 @@ consequentially
 consequently
 conservancy
 conservation
+conservational
 conservatively
 conservatives
 conservatized
@@ -18626,6 +18632,7 @@ crunchiness
 crunchy
 crunodal
 crunode
+crupper
 cruppers
 crural
 crus
@@ -18814,6 +18821,7 @@ culinarians
 culinarily
 cull
 cullays
+culled
 cullender
 cullenders
 culler
@@ -20275,6 +20283,7 @@ decurion
 decurrent
 decurve
 decurving
+decussated
 decussates
 dedal
 dedans
@@ -22777,6 +22786,7 @@ discriminations
 discriminative
 discriminator
 discriminatory
+discrowned
 discrowning
 discrowns
 discursive
@@ -27311,6 +27321,7 @@ escapologist
 escapologists
 escargot
 escargots
+escarole
 escarp
 escarping
 escarpment
@@ -32695,6 +32706,7 @@ gametic
 gametocytes
 gametogeneses
 gametogenesis
+gametogenic
 gametogenous
 gamey
 gamic
@@ -36365,6 +36377,7 @@ hazes
 hazily
 hazing
 hazmat
+hazmats
 hazy
 hazzan
 hazzanim
@@ -44697,6 +44710,7 @@ lastings
 lastly
 lat
 latakia
+latakias
 latch
 latched
 latchet
@@ -48683,6 +48697,7 @@ mendacity
 mendelevium
 mendeleviums
 mender
+mendicancy
 mendigo
 mendings
 mends
@@ -50671,6 +50686,7 @@ modulability
 modularity
 modularly
 modulars
+modulate
 modulated
 modulates
 modulating
@@ -53609,6 +53625,7 @@ nonconstructive
 nonconsumers
 nonconsumption
 nonconsumptive
+noncontact
 noncontingent
 noncontinuous
 noncontract
@@ -59702,6 +59719,7 @@ periapt
 periapts
 periblems
 pericardia
+pericardial
 pericarditis
 pericarditises
 pericardium
@@ -62203,6 +62221,7 @@ polytenies
 polytheism
 polytheist
 polytheistic
+polytheistical
 polytheists
 polythenes
 polytonal
@@ -63116,6 +63135,7 @@ prediabetes
 prediabeteses
 prediabetics
 predial
+predicament
 predicaments
 predicant
 predicate
@@ -63401,6 +63421,7 @@ prenotion
 prenotions
 prentices
 prenticing
+prenumbered
 prenumbers
 prenuptial
 preobtain
@@ -71959,6 +71980,7 @@ salvationist
 salvations
 salve
 salved
+salverform
 salves
 salvia
 salvific
@@ -75628,6 +75650,7 @@ sixtyish
 sizable
 sizableness
 sizablenesses
+sizars
 sizeably
 sized
 sizer
@@ -79526,6 +79549,7 @@ streptobacilli
 streptobacillus
 streptococci
 streptococcic
+streptococcus
 streptokinase
 streptokinases
 streptolysin
@@ -79814,6 +79838,7 @@ stutterer
 stutters
 sty
 stye
+styed
 styes
 stying
 stylar
@@ -81222,6 +81247,7 @@ supremos
 suqs
 sura
 surah
+surahs
 sural
 suras
 surbase
@@ -84355,6 +84381,7 @@ tirls
 tirrivee
 tisanes
 tissual
+tissue
 tissued
 tissues
 tissuey
@@ -85248,6 +85275,7 @@ transductions
 transected
 transection
 transections
+transept
 transeptal
 transfect
 transfecting
@@ -85396,6 +85424,7 @@ transuding
 transuranic
 transuranics
 transuranium
+transvaluate
 transvaluates
 transvalues
 transversal
@@ -87287,6 +87316,7 @@ uncharged
 uncharging
 uncharismatic
 uncharming
+unchartered
 unchary
 unchastely
 unchasteness
@@ -87756,6 +87786,7 @@ undetectable
 undetected
 undeterminable
 undetermined
+undeterred
 undeveloped
 undiagnosable
 undialectical
@@ -89662,6 +89693,7 @@ valiantnesses
 valiants
 validate
 validating
+validation
 validations
 validity
 validnesses
@@ -90672,6 +90704,7 @@ viseing
 vises
 visible
 visibleness
+visibly
 visionaries
 visionarinesses
 visionary
@@ -90994,6 +91027,7 @@ vrouws
 vrows
 vug
 vuggs
+vughs
 vulcanisate
 vulcanisates
 vulcanisation
@@ -92540,6 +92574,7 @@ winterly
 wintertide
 wintertime
 wintery
+wintled
 wintles
 wintriest
 wintriness
