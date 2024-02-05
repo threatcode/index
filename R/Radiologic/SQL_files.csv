@@ -5,3 +5,7 @@ database.sql - GitHub,https://raw.githubusercontent.com/openemr/openemr/master/s
 www.omicsgroup.com/conferences/ACS/conference/spea...,http://www.omicsgroup.com/conferences/ACS/conference/speaker_ppt/15222-Speaker-ppt.sql
 translations.openemr.io/languageTranslations_utf8.sql,http://translations.openemr.io/languageTranslations_utf8.sql
 sid.id.lv/blog/wp-content/plugins/sid_id_galerija.sql,http://sid.id.lv/blog/wp-content/plugins/sid_id_galerija.sql
+hr_test_110622.sql - OpenMRS Wiki,https://wiki.openmrs.org/download/attachments/15139153/hr_test_110622.sql
+INTML20/eICU_SOFA.sql at master - GitHub,https://github.com/ucabhkw/INTML20/blob/master/eICU_SOFA.sql
+database.sql - GitHub,https://raw.githubusercontent.com/openemr/openemr/master/sql/database.sql
+create-schema-mysql.sql - stevesaliman/liquibase-workshop - GitHub,https://github.com/stevesaliman/liquibase-workshop/blob/master/create-schema-mysql.sql
