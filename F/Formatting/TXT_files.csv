@@ -8,3 +8,13 @@ PrintScanI.txt - Okmij.org,https://okmij.org/ftp/typed-formatting/PrintScanI.txt
 formatted text.txt,https://bgcarto.com/download/formatted%2520text.txt
 PrintScanF.txt - Okmij.org,https://okmij.org/ftp/typed-formatting/PrintScanF.txt
 [TeX] Final Formatting - CS@Dartmouth,https://www.cs.dartmouth.edu/~thc/cs188/latex-examples/formatting1.txt
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+lucene/help/formatting.txt at main · apache/lucene - GitHub,https://github.com/apache/lucene/blob/main/help/formatting.txt
+perlpod.txt - Perl Documentation,https://perldoc.perl.org/perlpod.txt
+printk-formats.txt,https://www.kernel.org/doc/Documentation/printk-formats.txt
+RFC 1523,https://www.rfc-editor.org/rfc/rfc1523.txt
+NFORMAT! documentation. - ToastyTech,http://toastytech.com/files/nformat.txt
+legend-block-formatting-context-expected.txt - Google Git,https://chromium.googlesource.com/chromium/src/%2B/758742204e186ac83e73b4a393bdfaa660e2ca15/third_party/WebKit/LayoutTests/external/wpt/html/rendering/non-replaced-elements/the-fieldset-element-0/legend-block-formatting-context-expected.txt
+formatted text.txt,https://bgcarto.com/download/formatted%2520text.txt
+html.txt - Docutils - SourceForge,https://docutils.sourceforge.io/docs/user/html.txt
+PHPRtfLite/docs/html/_sources/formatting.txt at master - GitHub,https://github.com/phprtflite/PHPRtfLite/blob/master/docs/html/_sources/formatting.txt
