@@ -1271,6 +1271,7 @@ agatizing
 agatoid
 agaves
 agaze
+agedly
 agedness
 agednesses
 agee
@@ -4562,6 +4563,7 @@ assembles
 assemblies
 assembly
 assemblyman
+assemblywoman
 assemblywomen
 assenters
 assentors
@@ -6310,6 +6312,7 @@ barrel
 barrelage
 barrelful
 barrelhead
+barrelheads
 barrelhouses
 barrelling
 barrels
@@ -6917,6 +6920,7 @@ befringes
 befringing
 befuddle
 befuddled
+befuddlement
 befuddling
 beg
 begalling
@@ -12772,6 +12776,7 @@ cerussites
 cervelas
 cervelat
 cervelats
+cervical
 cervices
 cervicitis
 cervicitises
@@ -13007,6 +13012,7 @@ chapbook
 chape
 chapeau
 chapeaus
+chapels
 chaperon
 chaperonage
 chaperons
@@ -14349,6 +14355,7 @@ classicals
 classicists
 classicize
 classicized
+classico
 classics
 classier
 classiest
@@ -14483,6 +14490,7 @@ clepsydras
 clept
 clergyman
 clergywoman
+cleric
 clericalism
 clericalist
 clericalists
@@ -21355,6 +21363,7 @@ deporter
 deporters
 deportments
 deposals
+depose
 deposed
 deposer
 deposers
@@ -23238,6 +23247,7 @@ dismays
 dismember
 dismembering
 dismemberment
+dismembers
 dismes
 dismissal
 dismissals
@@ -24625,6 +24635,7 @@ driving
 drizzle
 drizzled
 drizzling
+drizzly
 drolled
 droller
 drollery
@@ -25618,6 +25629,7 @@ egoists
 egomaniacally
 egomaniacs
 egos
+egotism
 egotisms
 egotist
 egotistically
@@ -26858,6 +26870,7 @@ ensorcelling
 ensorcellment
 ensorcellments
 ensorcells
+ensorcels
 ensouled
 ensphering
 enstatites
@@ -28593,6 +28606,7 @@ expellants
 expelled
 expellee
 expeller
+expellers
 expendabilities
 expendability
 expenditures
@@ -38399,6 +38413,7 @@ hortatively
 hortatory
 horticultural
 horticulture
+horticulturists
 hos
 hosanna
 hosannaed
@@ -38830,6 +38845,7 @@ hutzpah
 hutzpahs
 huzzah
 huzzaing
+huzzas
 hwan
 hyaenas
 hyaline
@@ -40965,6 +40981,7 @@ inferring
 infers
 infestant
 infestation
+infestations
 infested
 infester
 infesters
@@ -54275,6 +54292,7 @@ nongeometrical
 nonglare
 nonglares
 nongolfer
+nongonococcal
 nongovernmental
 nongraded
 nongraduates
@@ -64070,6 +64088,7 @@ prepupa
 prepupae
 prepupas
 prepurchase
+prepurchased
 prepurchases
 prepurchasing
 preputial
@@ -66895,6 +66914,7 @@ rainwashes
 rainwashing
 rainwaters
 rainy
+rais
 raisable
 raiseable
 raisers
@@ -69633,6 +69653,7 @@ repercussion
 repercussions
 repercussive
 reperk
+reperking
 repertoires
 repertories
 repetend
@@ -70554,6 +70575,7 @@ retirednesses
 retirees
 retirements
 retirer
+retirers
 retiringness
 retiringnesses
 retitle
@@ -71188,6 +71210,7 @@ riding
 ridings
 ridley
 rids
+riel
 riels
 riesling
 riever
@@ -72501,6 +72524,7 @@ salimeter
 salimeters
 salina
 saline
+salines
 salinities
 salinization
 salinize
@@ -74522,6 +74546,7 @@ senecios
 senectitude
 senegas
 senescences
+seneschal
 senhora
 senhores
 senhorita
@@ -77478,6 +77503,7 @@ soccer
 sociability
 sociableness
 sociablenesses
+sociably
 socialise
 socialised
 socialises
@@ -78729,6 +78755,7 @@ sploshed
 sploshing
 splotched
 splotchy
+splurged
 splurger
 splurgers
 splurgier
@@ -80108,6 +80135,7 @@ straighted
 straightedge
 straightedges
 straighter
+straightish
 straightlaced
 straightly
 straightnesses
@@ -82776,6 +82804,7 @@ tableting
 tabletops
 tabletted
 tableware
+tablewares
 tabling
 tabloid
 tabloids
@@ -84762,6 +84791,7 @@ thundering
 thunderous
 thunderously
 thundershowers
+thunderstone
 thunderstorm
 thunderstricken
 thunderstrike
@@ -85562,6 +85592,7 @@ toric
 torics
 torment
 tormented
+tormenters
 tormentils
 torn
 tornadic
@@ -86658,6 +86689,7 @@ triplicated
 triplicates
 triplicity
 triplites
+triploblastic
 triploidy
 triply
 tripod
@@ -90052,6 +90084,7 @@ uprisers
 uprisings
 uprivers
 uproarious
+uproariousness
 uproars
 uprootals
 uprootednesses
@@ -90333,6 +90366,7 @@ utilisers
 utilises
 utilising
 utilitarianisms
+utility
 utilizable
 utilization
 utilize
@@ -94497,6 +94531,7 @@ zingara
 zingare
 zingari
 zinged
+zingers
 zinging
 zingy
 zinkenites
