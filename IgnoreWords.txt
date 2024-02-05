@@ -3450,6 +3450,7 @@ anuria
 anurous
 anuses
 anvilled
+anvilling
 anvils
 anviltops
 anxieties
@@ -4434,6 +4435,7 @@ ascorbates
 ascorbic
 ascospores
 ascosporic
+ascot
 ascribed
 ascription
 ascus
@@ -5334,6 +5336,7 @@ avian
 avianize
 avianizing
 avians
+aviaries
 aviarist
 aviate
 aviated
@@ -10796,6 +10799,7 @@ bytalk
 bytalks
 byte
 bytes
+bywords
 byzants
 cab
 cabala
@@ -13864,6 +13868,7 @@ chrysarobin
 chrysarobins
 chrysoberyl
 chrysolite
+chrysomelids
 chrysophytes
 chrysoprase
 chrysoprases
@@ -14731,6 +14736,7 @@ clubhands
 clubhauled
 clubhauls
 clubheads
+clubhouse
 clubhouses
 clubroom
 clubrooms
@@ -16726,6 +16732,7 @@ constellate
 constellation
 constellations
 constellatory
+consternate
 consternation
 consternations
 constipated
@@ -17318,6 +17325,7 @@ cordierite
 cordierites
 cordiform
 cordilleran
+cordite
 cordless
 cordlike
 cordoba
@@ -20881,6 +20889,7 @@ delete
 deleted
 deletes
 deletion
+deletions
 delf
 delfts
 deliberate
@@ -20941,6 +20950,7 @@ delocalize
 delocalizing
 delouse
 delouser
+delouses
 delousing
 delphic
 delphinium
@@ -26273,6 +26283,7 @@ emulatively
 emulators
 emulousness
 emulsifiable
+emulsification
 emulsifier
 emulsifiers
 emulsifies
@@ -27652,6 +27663,7 @@ essentialist
 essentialities
 essentialize
 essentializes
+essentializing
 essentials
 esses
 establish
@@ -36692,6 +36704,7 @@ haymakers
 haymow
 hayrides
 hays
+hayseed
 hayseeds
 haystacks
 haywards
@@ -38002,9 +38015,11 @@ homeopathically
 homeopaths
 homeopathy
 homeostases
+homeostatic
 homeothermies
 homeotherms
 homeowner
+homepages
 homeplaces
 homeporting
 homer
@@ -38490,6 +38505,7 @@ houseclean
 housecleaned
 housecleaning
 housecleanings
+housecoat
 housecoats
 housefathers
 houseflies
@@ -38730,6 +38746,7 @@ hungrinesses
 hungry
 hunk
 hunkered
+hunkering
 hunkeys
 hunkie
 hunkier
@@ -38809,6 +38826,7 @@ hutlike
 hutment
 hutted
 hutting
+hutzpah
 hutzpahs
 huzzah
 huzzaing
@@ -40054,6 +40072,7 @@ impregnableness
 impregnant
 impregnate
 impregnates
+impregnating
 impregnations
 impregnator
 impregnators
@@ -40206,6 +40225,7 @@ inaudibly
 inaugural
 inaugurals
 inaugurated
+inaugurates
 inaugurating
 inaugurator
 inauspicious
@@ -47668,6 +47688,7 @@ mahlsticks
 mahoe
 mahoes
 mahoganies
+mahogany
 mahonia
 mahouts
 mahzor
@@ -53586,6 +53607,7 @@ nictation
 nictitant
 nidal
 nidate
+nidating
 nidation
 nidations
 niddering
@@ -61864,6 +61886,7 @@ planetoid
 planetoidal
 planetoids
 planetological
+planetologies
 planets
 planetwide
 plangency
@@ -62293,6 +62316,7 @@ plushy
 plutei
 plutocracies
 plutocracy
+plutocrat
 plutocratic
 plutocratically
 plutocrats
@@ -63126,6 +63150,7 @@ postmarked
 postmarking
 postmarks
 postmastectomy
+postmaster
 postmasters
 postmasterships
 postmating
@@ -68394,6 +68419,7 @@ reengraved
 reengraving
 reenjoy
 reenjoyed
+reenjoying
 reenlarge
 reenlarged
 reenlarging
@@ -70990,6 +71016,7 @@ rhizobial
 rhizobium
 rhizoctonia
 rhizoctonias
+rhizoid
 rhizoma
 rhizomata
 rhizomatous
@@ -75295,6 +75322,7 @@ shiers
 shifted
 shifters
 shiftily
+shiftless
 shiftlessly
 shiftlessness
 shiftlessnesses
@@ -80927,6 +80955,7 @@ subpolar
 subpopulation
 subpopulations
 subpotency
+subprimate
 subprimates
 subprincipals
 subprocess
@@ -83292,6 +83321,7 @@ tatsois
 tatted
 tatterdemalion
 tattered
+tattersalls
 tattier
 tatties
 tattiest
@@ -85748,6 +85778,7 @@ toxicologist
 toxicology
 toxicoses
 toxicosis
+toxics
 toxine
 toxines
 toxins
@@ -86618,6 +86649,7 @@ triphase
 triphosphate
 triphosphates
 triphthong
+triphthongal
 triplane
 triplanes
 triplet
@@ -87017,6 +87049,7 @@ tubocurarine
 tubular
 tubulating
 tubulator
+tubulators
 tubule
 tubulin
 tubulins
@@ -87802,6 +87835,7 @@ unamenable
 unamiable
 unamusing
 unanalyzable
+unanalyzed
 unanchor
 unanchors
 unaneled
@@ -88991,6 +89025,7 @@ unitizing
 unitrusts
 univalents
 univalved
+univalves
 universal
 universalist
 universalistic
