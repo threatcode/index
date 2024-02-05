@@ -354,6 +354,7 @@ acerolas
 acervate
 acervuli
 acervulus
+aces
 acescent
 acescents
 aceta
@@ -1005,6 +1006,7 @@ aeonic
 aeons
 aepyornis
 aepyornises
+aequorin
 aequorins
 aerated
 aeration
@@ -2404,6 +2406,7 @@ ampul
 ampules
 ampullae
 ampullary
+ampuls
 amputation
 amputations
 amputator
@@ -5864,6 +5867,7 @@ baldricks
 baldrics
 balds
 baldy
+bale
 baled
 baleen
 balefulness
@@ -6845,6 +6849,7 @@ beetler
 beetles
 beetroots
 beeves
+beeyard
 beeyards
 befall
 befalls
@@ -8707,6 +8712,7 @@ bodaciously
 bode
 bodegas
 bodhisattva
+bodhran
 bodice
 bodied
 bodkin
@@ -11299,6 +11305,7 @@ candlefishes
 candleholders
 candlelight
 candlelights
+candlenut
 candlepower
 candlepowers
 candler
@@ -12154,6 +12161,7 @@ cataloger
 catalogers
 catalogic
 catalogues
+cataloguing
 catalpas
 catalyses
 catalysis
@@ -16932,6 +16940,7 @@ contusions
 contusive
 conundrum
 conundrums
+conurbations
 conus
 convalesce
 convalescence
@@ -18100,6 +18109,7 @@ crackings
 crackle
 crackleware
 cracklewares
+cracklings
 crackly
 crackpot
 cracks
@@ -19168,6 +19178,7 @@ cushier
 cushiest
 cushionless
 cushiony
+cusp
 cuspal
 cuspate
 cuspid
@@ -21127,6 +21138,7 @@ dentists
 dentition
 dentitions
 dentural
+dentures
 denturists
 denudate
 denudated
@@ -23703,6 +23715,7 @@ documentarian
 documentarians
 documentaries
 documentarist
+documentarists
 documentary
 documentation
 documentational
@@ -24958,6 +24971,7 @@ dwindles
 dwindling
 dwine
 dwined
+dwines
 dyad
 dyadic
 dyadically
@@ -26444,6 +26458,7 @@ endue
 endued
 endues
 enduing
+endurably
 endurance
 endurances
 endured
@@ -27346,6 +27361,7 @@ ermine
 erne
 erodable
 erode
+erodes
 erodible
 eros
 erosely
@@ -29238,6 +29254,7 @@ farcers
 farceur
 farci
 farcical
+farcicalities
 farcicality
 farcing
 fard
@@ -30080,6 +30097,7 @@ fillagrees
 fille
 filled
 filles
+fillies
 filling
 filliped
 filliping
@@ -32593,6 +32611,7 @@ fuzils
 fuzz
 fuzzes
 fuzzier
+fuzziest
 fuzzily
 fuzziness
 fuzzing
@@ -33093,6 +33112,7 @@ gastness
 gastraea
 gastraeas
 gastral
+gastrectomies
 gastric
 gastrin
 gastrins
@@ -33285,6 +33305,7 @@ gellants
 gelled
 gelling
 gelsemia
+gelsemium
 gelt
 gelts
 gem
@@ -36542,6 +36563,7 @@ hazardousness
 hazards
 haze
 hazelhens
+hazelly
 hazelnut
 hazels
 hazers
@@ -38563,6 +38585,7 @@ hunks
 hunky
 hunnish
 hunt
+huntable
 hunted
 huntedly
 hunter
@@ -40596,6 +40619,7 @@ induration
 indurative
 indusial
 indusiate
+industrial
 industrialise
 industrialised
 industrialises
@@ -46881,6 +46905,7 @@ lucifer
 luciferase
 luciferin
 lucifers
+lucite
 luck
 luckier
 luckiest
@@ -54302,6 +54327,7 @@ nonrhotic
 nonrioter
 nonrioting
 nonrival
+nonrivals
 nonroyal
 nonrubber
 nonruminant
@@ -63635,6 +63661,7 @@ prematurenesses
 prematures
 prematurity
 premaxilla
+premaxillae
 premaxillary
 premaxillas
 premeasure
@@ -68959,6 +68986,7 @@ reluming
 relumining
 rem
 remails
+remain
 remaindered
 remainders
 remaining
@@ -71513,6 +71541,7 @@ roughhewn
 roughhews
 roughhouse
 roughhoused
+roughhouses
 roughish
 roughleg
 roughlegs
@@ -77948,11 +77977,13 @@ speargun
 spearheaded
 spearheading
 spearing
+spearmen
 spearmint
 spearmints
 spears
 spearwort
 specced
+speccing
 specialer
 specialise
 specialised
@@ -78298,6 +78329,7 @@ spirituous
 spirochaetes
 spirochete
 spirochetosis
+spirogyras
 spiroid
 spirometer
 spirometric
@@ -79957,6 +79989,7 @@ stridulously
 strife
 strifeless
 strifes
+strigil
 strike
 strikebound
 strikebreaker
@@ -90719,6 +90752,7 @@ vestures
 vesturing
 vesuvian
 vesuvianite
+vesuvianites
 vesuvians
 vetch
 vetches
@@ -92071,6 +92105,7 @@ weaner
 weaning
 weanling
 weapon
+weaponeering
 weaponeers
 weaponing
 weaponize
