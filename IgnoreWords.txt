@@ -1920,6 +1920,7 @@ allomorphs
 allonges
 allopath
 allopathies
+allopaths
 allopathy
 allopatric
 allopatrically
@@ -3363,6 +3364,7 @@ antishoplifting
 antislavery
 antismoke
 antismokers
+antismuggling
 antismut
 antisnob
 antisnobs
@@ -3583,6 +3585,7 @@ apod
 apodal
 apodeictic
 apodictic
+apodosis
 apods
 apoenzymes
 apogamies
@@ -4145,6 +4148,7 @@ arles
 arm
 armada
 armadas
+armagnac
 armagnacs
 armament
 armaturing
@@ -4273,6 +4277,7 @@ arrogator
 arrowed
 arrowheads
 arrowing
+arrowless
 arrows
 arrowwoods
 ars
@@ -14998,6 +15003,7 @@ codebooks
 codebtor
 codebtors
 codec
+codeia
 codeias
 codeinas
 codeines
@@ -15577,6 +15583,7 @@ comanages
 comanaging
 comas
 comate
+comates
 comatik
 comatiks
 comatula
@@ -17774,6 +17781,7 @@ countercries
 countercry
 counterculture
 countercurrent
+countercyclical
 counterdemand
 countereffort
 counterefforts
@@ -18243,6 +18251,7 @@ cravings
 crawdad
 crawfish
 crawfished
+crawfishes
 crawfishing
 crawl
 crawled
@@ -18763,6 +18772,7 @@ crushproof
 crusily
 crustacean
 crustaceans
+crustaceous
 crustal
 crustier
 crustily
@@ -22521,6 +22531,7 @@ diodes
 dioecy
 dioestrus
 dioestruses
+diol
 diolefin
 dionysiac
 dionysian
@@ -25335,6 +25346,7 @@ ecumenicist
 ecumenism
 ecumenisms
 ecumenist
+eczema
 eczemas
 eczematous
 edacious
@@ -25928,6 +25940,7 @@ emblazonries
 emblazonry
 emblem
 emblematic
+emblematical
 emblematically
 emblematizing
 emblemed
@@ -32485,6 +32498,7 @@ funnymen
 furan
 furane
 furanes
+furanoses
 furanosides
 furbearer
 furbelow
@@ -32661,6 +32675,7 @@ gabelled
 gabelles
 gaberdines
 gabfests
+gabions
 gabled
 gablelike
 gabling
@@ -37915,6 +37930,7 @@ hominid
 hominids
 hominies
 hominine
+hominization
 hominize
 hominized
 hominizes
@@ -38412,6 +38428,7 @@ howbeit
 howdahs
 howdie
 howdied
+howdies
 howdy
 howdying
 however
@@ -46294,6 +46311,7 @@ litres
 litten
 litter
 litterateurs
+litterbug
 litterbugs
 litterers
 littering
@@ -47255,6 +47273,7 @@ lysogenises
 lysogenising
 lysogenize
 lysogenizes
+lysolecithin
 lysosomal
 lysosome
 lysozyme
@@ -47779,6 +47798,7 @@ manager
 manageresses
 managerial
 managership
+managerships
 manakin
 manakins
 manana
@@ -57882,6 +57902,7 @@ overtalks
 overtame
 overtasked
 overtasking
+overtasks
 overtax
 overtaxation
 overtaxations
@@ -63779,6 +63800,7 @@ preordain
 preordained
 preordainments
 preordains
+preordering
 preorders
 preordination
 preordinations
@@ -66715,6 +66737,7 @@ ramet
 ramets
 ramie
 ramies
+ramification
 ramifications
 ramifies
 ramiform
@@ -67312,6 +67335,7 @@ reawaking
 reawoke
 reawoken
 reb
+rebait
 rebaited
 rebaiting
 rebalances
@@ -67918,6 +67942,7 @@ redeliver
 redelivered
 redelivers
 redelivery
+redemand
 redemanded
 redemands
 redemptioners
@@ -74924,6 +74949,7 @@ shawing
 shawl
 shawled
 shawling
+shawm
 shawn
 shay
 shays
@@ -75813,6 +75839,7 @@ silverside
 silversides
 silverwares
 silverweeds
+silvex
 silvical
 silvics
 silvicultural
@@ -84186,6 +84213,7 @@ thill
 thills
 thimble
 thimbleberries
+thimbleberry
 thimblerigger
 thimbleriggers
 thimblerigs
@@ -84701,6 +84729,7 @@ timepieces
 timer
 timesaver
 timeserver
+timeservers
 timeserving
 timeservings
 timetable
@@ -86328,6 +86357,7 @@ trimmed
 trimmer
 trimmest
 trimorph
+trimorphic
 trimotor
 trimotors
 trinal
@@ -92138,6 +92168,7 @@ waxworkers
 waxworks
 waxworms
 way
+waybill
 waygoing
 waylaying
 waylays
@@ -92284,6 +92315,7 @@ weekenders
 weekends
 weeknights
 weeks
+weenies
 weening
 weens
 weensier
@@ -93733,6 +93765,7 @@ xylol
 xylophage
 xylophages
 xylophagous
+xylophones
 xylophonist
 xyloses
 xylotomy
@@ -93843,6 +93876,7 @@ yaws
 yay
 yclad
 yclept
+yeah
 yeahs
 yealing
 yealings
@@ -94125,6 +94159,7 @@ zenith
 zeniths
 zeolitic
 zephyr
+zeppelin
 zeppelins
 zeppoles
 zeps
