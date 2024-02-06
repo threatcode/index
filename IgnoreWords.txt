@@ -96,6 +96,7 @@ absolved
 absolver
 absolvers
 absolves
+absolving
 absonant
 absorb
 absorbabilities
@@ -3702,6 +3703,7 @@ apparat
 apparatchiki
 apparel
 appareled
+apparentnesses
 apparitional
 apparitor
 apparitors
@@ -13070,6 +13072,7 @@ chaperon
 chaperonage
 chaperons
 chapfallen
+chapiter
 chaplaincies
 chaplaincy
 chaplets
@@ -17475,6 +17478,7 @@ corneitises
 cornel
 cornelian
 cornelians
+corneous
 corner
 cornerbacks
 cornering
@@ -20760,6 +20764,7 @@ defocuses
 defocusing
 defocusses
 defocussing
+defogger
 defoggers
 defoliant
 defoliants
@@ -20860,6 +20865,7 @@ degreaser
 degreasers
 degreasing
 degrees
+degummed
 degumming
 degustation
 degusted
@@ -21224,6 +21230,7 @@ denazifies
 denazify
 denazifying
 dendriform
+dendrimers
 dendrite
 dendrites
 dendroid
@@ -21611,6 +21618,7 @@ desalts
 desand
 descant
 descanter
+descanting
 descants
 descendant
 descendants
@@ -24575,6 +24583,7 @@ drawbacks
 drawbars
 drawbridge
 drawee
+drawer
 drawerfuls
 drawers
 drawing
@@ -28670,6 +28679,7 @@ expatriating
 expatriation
 expatriations
 expatriatism
+expatriatisms
 expats
 expectancy
 expectantly
@@ -29185,6 +29195,7 @@ factional
 factionalism
 factionalisms
 factionally
+factions
 factious
 factiously
 factitiously
@@ -31257,6 +31268,7 @@ flunkie
 flunks
 flunky
 fluor
+fluorene
 fluorescence
 fluorescents
 fluorescers
@@ -31845,6 +31857,7 @@ forlornnesses
 formable
 formably
 formal
+formalin
 formalised
 formalism
 formalist
@@ -35204,6 +35217,7 @@ gravida
 gravidas
 gravidity
 gravimeter
+gravimetric
 gravimetries
 gravitates
 gravitation
@@ -35948,6 +35962,7 @@ guying
 guyots
 guzzle
 guzzled
+guzzlers
 guzzles
 gweduc
 gweducks
@@ -36896,6 +36911,7 @@ headers
 headfirst
 headfuls
 headgate
+headgates
 headhunt
 headhunted
 headhunter
@@ -39940,6 +39956,7 @@ immortalizers
 immortalizes
 immortalizing
 immortally
+immortelle
 immovabilities
 immovability
 immovable
@@ -40705,6 +40722,7 @@ incumbency
 incumbents
 incumber
 incumbered
+incumbering
 incumbers
 incunable
 incunables
@@ -42697,6 +42715,7 @@ ironhearted
 ironical
 ironically
 ironicalness
+ironicalnesses
 ironies
 ironings
 ironized
@@ -43634,6 +43653,7 @@ joyful
 joyfully
 joyfulness
 joyfulnesses
+joying
 joylessly
 joylessness
 joylessnesses
@@ -45981,6 +46001,7 @@ levers
 leviathan
 leviathans
 levied
+levier
 leviers
 levies
 levigate
@@ -47553,6 +47574,7 @@ lymphoblastic
 lymphocytoses
 lymphocytosis
 lymphogram
+lymphograms
 lymphography
 lymphokine
 lymphomas
@@ -57985,6 +58007,7 @@ overlengthening
 overlengthens
 overlengths
 overlent
+overlets
 overletting
 overlewd
 overlight
@@ -61139,6 +61162,7 @@ phonogramic
 phonogrammic
 phonographer
 phonographers
+phonographic
 phonography
 phonological
 phonologies
@@ -63135,6 +63159,7 @@ poperies
 popery
 popes
 popgun
+popinjays
 popish
 poplars
 poplins
@@ -68457,6 +68482,7 @@ redialed
 redialing
 redialled
 redialling
+redictated
 redictates
 redigested
 redigesting
@@ -70440,6 +70466,7 @@ resisters
 resistible
 resistive
 resistively
+resistiveness
 resistivity
 resistless
 resistlessly
@@ -74245,6 +74272,7 @@ seafronts
 seagoing
 seagulls
 seahorse
+seahorses
 sealed
 sealeries
 sealing
@@ -81472,6 +81500,7 @@ subversionary
 subverter
 subverters
 subverting
+subverts
 subvicars
 subviral
 subvirus
@@ -82765,6 +82794,7 @@ sybaritically
 sybaritism
 sybo
 syboes
+sycamores
 syce
 sycee
 sycees
@@ -83284,7 +83314,9 @@ tain
 taintless
 taints
 taj
+taka
 takahe
+takahes
 take
 takeable
 takeaway
@@ -86574,6 +86606,7 @@ traumatic
 traumatically
 traumatised
 traumatises
+traumatism
 traumatization
 travail
 travailing
@@ -90533,6 +90566,7 @@ uranyl
 uranyls
 uraris
 urase
+urate
 urates
 urban
 urbaner
@@ -92079,6 +92113,7 @@ voltages
 voltaic
 voltaism
 voltaisms
+volte
 voltes
 volts
 volubilities
