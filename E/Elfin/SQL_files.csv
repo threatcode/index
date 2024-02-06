@@ -2,3 +2,6 @@ pds150-ins-app-cities-e.sql - GitHub,https://github.com/microsoft/sql-server-sam
 20_sample_data.sql - GitHub,https://github.com/bytefish/PostgresTimeseriesAnalysis/blob/master/PostgresTimeseriesAnalysis/sql/sql/20_sample_data.sql
 https://raw.githubusercontent.com/deepakmongia/Fal...,https://raw.githubusercontent.com/deepakmongia/Fall2018/master/Data-607/flights.sql
 airtrafic.sql,https://www.cse.chalmers.se/edu/year/2017/course/TDA357/VT2016-dontuse/_downloads/airtrafic.sql
+demo-static-analysis-python/init.sql at main · DataDog/demo-static ...,https://github.com/DataDog/demo-static-analysis-python/blob/main/init.sql
+https://raw.githubusercontent.com/deepakmongia/Fal...,https://raw.githubusercontent.com/deepakmongia/Fall2018/master/Data-607/flights.sql
+sql-server-samples/samples/databases/wide-world-importers/wwi ...,https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/wide-world-importers/wwi-ssdt/wwi-ssdt/PostDeploymentScripts/pds150-ins-app-cities-e.sql
