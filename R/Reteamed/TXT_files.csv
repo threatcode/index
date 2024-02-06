@@ -27,3 +27,7 @@ Scrabble dictionary - sowpods.txt - Educational Computing,https://www.educationa
 the same word list in random order - Jadrian Miles,https://jadrian.org/courses/carleton/cs201/2014.1/hw/hw10-timing-collections/words-scrambled.txt
 wordlist.asc - Carnage Melon,http://spacebar.org/ifcd/wordlist.txt
 english_words.txt,https://teaching.bb-ai.net/P4DS/data/english_words.txt
+http://www.stat.yale.edu/~tba3/class_data/aclImdb/...,http://www.stat.yale.edu/~tba3/class_data/aclImdb/test/neg/11183_4.txt
+http://www.stat.yale.edu/~tba3/class_data/aclImdb/...,http://www.stat.yale.edu/~tba3/class_data/aclImdb/train/pos/6737_7.txt
+7-to-make-8p.txt - Seattle Scrabble Club,http://www.seattlescrabble.org/data/7-to-make-8p.txt
+2.55 MB - Hugging Face,https://huggingface.co/adrianmoses/mastering-transformers-book-bert/resolve/main/corpus.txt
