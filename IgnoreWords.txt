@@ -425,6 +425,7 @@ achromous
 achy
 acicula
 acicular
+aciculum
 acid
 acidemia
 acidemias
@@ -1331,6 +1332,7 @@ agglutinative
 agglutinins
 agglutinogen
 agglutinogens
+aggradations
 aggrades
 aggrandise
 aggrandised
@@ -4348,6 +4350,7 @@ artel
 artels
 artemisias
 arterial
+arteriograms
 arteriographic
 arteriography
 arteriole
@@ -4686,6 +4689,7 @@ assume
 assumedly
 assumer
 assumers
+assumes
 assumpsit
 assumption
 assurable
@@ -5407,6 +5411,7 @@ avocadoes
 avocational
 avocations
 avocet
+avocets
 avodires
 avoided
 avoiding
@@ -7199,6 +7204,7 @@ bemocking
 bemocks
 bemuddle
 bemuddles
+bemuddling
 bemurmur
 bemurmuring
 bemurmurs
@@ -8194,6 +8200,7 @@ bivalents
 bivalve
 bivalves
 bivariate
+bivinyl
 bivinyls
 bivouacked
 bivouacks
@@ -11852,6 +11859,7 @@ carburetters
 carburetting
 carburettor
 carburettors
+carburise
 carburises
 carburizations
 carburized
@@ -14167,6 +14175,7 @@ circularities
 circularity
 circularness
 circularnesses
+circulars
 circulatable
 circulated
 circulates
@@ -16776,6 +16785,7 @@ consideration
 considers
 consiglieri
 consign
+consignation
 consignations
 consigner
 consigners
@@ -18051,6 +18061,7 @@ counterthrusts
 countertop
 countertops
 countertrade
+countertrades
 countertrend
 countervail
 countervailed
@@ -20136,6 +20147,7 @@ deadlights
 deadline
 deadlined
 deadlines
+deadliness
 deadlining
 deadlock
 deadlocking
@@ -21859,6 +21871,7 @@ detainers
 detainment
 detainments
 detains
+detassel
 detasseled
 detasseling
 detectability
@@ -33157,6 +33170,7 @@ galvanising
 galvanism
 galvanization
 galvanize
+galvanizers
 galvanizes
 galvanometers
 galvanometric
@@ -37595,6 +37609,7 @@ heroicomic
 heroicomical
 heroin
 heroines
+heroinism
 heroinisms
 heroins
 heroism
@@ -49842,6 +49857,7 @@ metformin
 meth
 methadone
 methadons
+methanation
 methanes
 methaqualones
 methedrine
@@ -52040,6 +52056,7 @@ morphins
 morpho
 morphogen
 morphogeneses
+morphogenic
 morphologic
 morphological
 morphology
@@ -52413,6 +52430,7 @@ mudslide
 mudslides
 mudslingers
 mudslinging
+muenster
 muensters
 muesli
 mueslis
@@ -58206,6 +58224,7 @@ overpraised
 overpraises
 overpraising
 overprecise
+overprescribe
 overprescribed
 overprescribes
 overpressure
@@ -58652,6 +58671,7 @@ oyster
 oysterers
 oystering
 oysterman
+oystermen
 oysters
 ozalid
 ozokerite
@@ -67215,6 +67235,7 @@ rafted
 rafter
 raftered
 rafters
+raftsmen
 rag
 raga
 ragamuffin
@@ -68878,6 +68899,7 @@ reexplores
 reexport
 reexported
 reexporting
+reexposure
 reexpress
 reface
 refaced
@@ -70853,6 +70875,7 @@ retacks
 retagged
 retagging
 retail
+retailing
 retailings
 retailor
 retailoring
@@ -77561,6 +77584,7 @@ smoothies
 smoothness
 smooths
 smorgasbord
+smorgasbords
 smotherers
 smothering
 smothery
@@ -79536,6 +79560,7 @@ squeals
 squeegee
 squeegeed
 squeegeeing
+squeezability
 squeezable
 squeeze
 squeezer
@@ -82990,6 +83015,7 @@ symbolises
 symbolism
 symbolist
 symbolization
+symbolizations
 symbolized
 symbolizer
 symbolizers
@@ -87439,6 +87465,7 @@ trudger
 trudges
 true
 trueborn
+trueheartedness
 trueing
 trueness
 truer
@@ -87613,6 +87640,7 @@ tuladis
 tularemia
 tularemias
 tularemic
+tule
 tules
 tulipwood
 tulle
@@ -89691,6 +89719,7 @@ unmatted
 unmeaning
 unmeant
 unmeasurable
+unmeasured
 unmechanized
 unmedicated
 unmeetly
@@ -90128,6 +90157,7 @@ unsocially
 unsoldered
 unsoldierly
 unsolid
+unsolved
 unsoncy
 unsophisticated
 unsought
@@ -90433,6 +90463,7 @@ unwreathe
 unwreathed
 unwrinkled
 unwrought
+unwrung
 unyielding
 unyoke
 unyoking
@@ -91759,6 +91790,7 @@ vices
 vichies
 vichy
 vichyssoises
+vicinage
 vicinages
 vicinal
 vicing
@@ -92039,6 +92071,7 @@ visitable
 visitant
 visitants
 visitation
+visitatorial
 visiters
 visiting
 visits
@@ -92963,6 +92996,7 @@ wavering
 waveringly
 wavers
 waves
+waveshapes
 waveys
 wavicle
 wavicles
@@ -94913,6 +94947,7 @@ yurta
 zabaglione
 zabaiones
 zabajone
+zabajones
 zacaton
 zacatons
 zaddik
