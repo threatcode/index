@@ -3089,6 +3089,7 @@ anthropologies
 anthropologist
 anthropology
 anthropometries
+anthropomorphic
 anthropophagi
 anthropophagous
 anthropophagy
@@ -5744,6 +5745,7 @@ backslaps
 backslide
 backslider
 backsliders
+backslides
 backsliding
 backspace
 backspaced
@@ -11137,6 +11139,7 @@ caldaria
 caldarium
 caldron
 caldrons
+calefactories
 calendars
 calender
 calendered
@@ -11607,6 +11610,7 @@ cantus
 canula
 canulate
 canulates
+canvas
 canvasbacks
 canvases
 canvassers
@@ -14178,6 +14182,7 @@ cipollinos
 circinately
 circle
 circler
+circlers
 circles
 circlet
 circuit
@@ -16242,6 +16247,7 @@ concatenating
 concatenation
 concatenations
 concaved
+concavely
 concavities
 concavity
 concealable
@@ -20282,6 +20288,7 @@ debenture
 debilitates
 debilitation
 debilitations
+debilities
 debility
 debited
 debiting
@@ -20836,6 +20843,7 @@ defocuses
 defocusing
 defocusses
 defocussing
+defog
 defogger
 defoggers
 defoliant
@@ -23596,6 +23604,7 @@ disrupt
 disrupted
 disrupters
 disrupting
+disruptively
 disruptor
 dissatisfaction
 dissatisfactory
@@ -29243,6 +29252,7 @@ fabular
 fabulated
 fabulates
 fabulator
+fabulators
 fabulists
 fabulously
 fabulousness
@@ -31438,6 +31448,7 @@ flyblown
 flyblows
 flyboat
 flybridges
+flyby
 flybys
 flycatcher
 flycatchers
@@ -31755,6 +31766,7 @@ forecastles
 forechecked
 forechecker
 forecheckers
+forechecks
 foreclose
 foreclosed
 foreclosure
@@ -32202,6 +32214,7 @@ framed
 frameless
 framer
 framers
+frameshift
 frameshifts
 framework
 franchised
@@ -33051,6 +33064,7 @@ gadrooned
 gadroons
 gadwall
 gadzookery
+gadzooks
 gae
 gaeing
 gaen
@@ -33447,6 +33461,7 @@ garveys
 gasalier
 gasbags
 gasconade
+gasconader
 gasconaders
 gasconading
 gascons
@@ -37177,6 +37192,7 @@ heavenward
 heaver
 heavier
 heaviest
+heavy
 heavyhearted
 heavyheartedly
 heavyweight
@@ -37996,6 +38012,7 @@ hires
 hiring
 hirple
 hirpling
+hirseled
 hirselled
 hirsle
 hirsles
@@ -40013,6 +40030,7 @@ immediateness
 immedicable
 immemorially
 immensest
+immensities
 immerge
 immerged
 immersed
@@ -40582,6 +40600,7 @@ incarnate
 incarnates
 incarnating
 incarnations
+incased
 incases
 incasing
 incaution
@@ -46193,6 +46212,7 @@ liaison
 liaisons
 lianas
 lianes
+liang
 liangs
 lianoid
 liar
@@ -50858,6 +50878,7 @@ misciting
 misclaim
 misclaimed
 misclaims
+misclass
 misclassed
 misclasses
 misclassify
@@ -51618,6 +51639,7 @@ molluscans
 molluscicidal
 molluscicide
 molluscs
+molluskan
 molluskans
 mollycoddlers
 mollymawk
@@ -52695,6 +52717,7 @@ multistemmed
 multistep
 multistranded
 multisystem
+multitalented
 multitask
 multitasked
 multitaskings
@@ -56940,6 +56963,7 @@ otoscopes
 otoscopy
 ototoxicity
 otters
+ottos
 oubliette
 ouch
 ouching
@@ -57340,6 +57364,7 @@ outoffice
 outoffices
 outorganize
 outorganizing
+outpace
 outpaces
 outpacing
 outpainted
@@ -59196,6 +59221,7 @@ panniered
 panning
 panocha
 panochas
+panoches
 panoplies
 panoptic
 panorama
@@ -66255,6 +66281,7 @@ punctually
 punctuate
 punctuated
 punctuates
+punctuating
 punctuation
 punctuations
 punctuators
@@ -66380,6 +66407,7 @@ purines
 purisms
 purists
 puritan
+puritanical
 puritanisms
 purities
 purity
@@ -67245,6 +67273,7 @@ radiobiologic
 radiobiological
 radiocarbons
 radiochemist
+radioecologies
 radioecology
 radiogram
 radiograms
@@ -72125,6 +72154,7 @@ rolfers
 rolfing
 roll
 rollaway
+rollbacks
 rolled
 rollick
 rollicky
@@ -75942,6 +75972,7 @@ shins
 shiny
 shipboard
 shipboards
+shipbuilders
 shipbuilding
 shipfitters
 shipload
@@ -76003,6 +76034,7 @@ shiva
 shivah
 shivaree
 shivareeing
+shivarees
 shivas
 shive
 shiver
@@ -78180,6 +78212,7 @@ solderer
 soldering
 solders
 soldi
+soldiered
 soldiering
 soldierings
 soldierly
@@ -94579,6 +94612,7 @@ wrenching
 wrenchingly
 wrens
 wrest
+wresters
 wresting
 wrestled
 wrestlers
@@ -94590,6 +94624,7 @@ wretcheder
 wried
 wriggle
 wriggled
+wriggler
 wrigglers
 wriggles
 wrigglier
