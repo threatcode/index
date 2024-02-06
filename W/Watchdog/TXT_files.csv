@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/arm/msm/msm_watchdog.txt,https://android.googlesource.com/kernel/msm.git/%2B/android-msm-mako-3.4-jb-mr2/Documentation/devicetree/bindings/arm/msm/msm_watchdog.txt
+lockup-watchdogs.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/lockup-watchdogs.txt
+Documentation/watchdog/watchdog-api.txt - chromiumos/third_party ...,https://chromium.googlesource.com/chromiumos/third_party/kernel/%2B/chromeos-3.0/Documentation/watchdog/watchdog-api.txt
+watchdog-kernel-api.txt,https://www.kernel.org/doc/Documentation/watchdog/watchdog-kernel-api.txt
+mtk-wdt.txt - Xilinx/linux-xlnx - GitHub,https://github.com/Xilinx/linux-xlnx/blob/master/Documentation/devicetree/bindings/watchdog/mtk-wdt.txt
+RFC 3539,https://www.rfc-editor.org/rfc/rfc3539.txt
+watchdog.txt - GitHub,https://github.com/jameshilliard/DD-WRT/blob/master/src/linux/brcm/linux.v24/Documentation/watchdog.txt
+watchdog-api.txt « watchdog « Documentation - linux-toradex.git,https://git.toradex.com/cgit/linux-toradex.git/tree/Documentation/watchdog/watchdog-api.txt%3Fh%3Dtoradex_vf_4.4-next
+watchdog « Documentation - wilink8-wlan/wl18xx - Git,https://git.ti.com/cgit/wilink8-wlan/wl18xx/tree/Documentation/watchdog/watchdog-kernel-api.txt%3Fid%3De907df32725204d6d2cb79b872529911c8eadcdf
+Documentation/devicetree/bindings/watchdog/marvel.txt - Linux ...,https://elixir.bootlin.com/linux/v3.19.5/source/Documentation/devicetree/bindings/watchdog/marvel.txt
