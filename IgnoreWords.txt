@@ -376,6 +376,7 @@ acetamid
 acetamide
 acetamids
 acetaminophen
+acetaminophens
 acetanilid
 acetanilide
 acetanilids
@@ -3609,6 +3610,7 @@ apiculture
 apicultures
 apiculturist
 apiculus
+apimania
 apimanias
 apiologies
 apish
@@ -5119,6 +5121,7 @@ augural
 augurer
 auguries
 auguring
+augurs
 augury
 augustly
 augustness
@@ -8241,6 +8244,7 @@ bitchily
 bitchiness
 bite
 bitmap
+bitstock
 bitstream
 bitt
 bitted
@@ -12948,6 +12952,7 @@ certainty
 certes
 certifiable
 certifiably
+certificate
 certificates
 certificating
 certification
@@ -13014,6 +13019,7 @@ chads
 chaebol
 chaeta
 chaetal
+chaetognaths
 chaetopod
 chaetopods
 chafe
@@ -15807,6 +15813,7 @@ colorlessness
 colorlessnesses
 colormen
 colorpoint
+colorway
 colorways
 colossal
 colosseum
@@ -19909,6 +19916,7 @@ dacrons
 dactyl
 dactyli
 dactylic
+dactylics
 dactylology
 dactyls
 dactylus
@@ -24894,6 +24902,7 @@ dreamtimes
 dreamworlds
 dreamy
 drearier
+drearies
 drearinesses
 drears
 drecks
@@ -28025,6 +28034,7 @@ eskars
 esker
 esne
 esophageal
+esotericism
 esotericisms
 esotropia
 esotropic
@@ -30795,6 +30805,7 @@ finnicky
 finning
 finnmark
 finnmarks
+finny
 fino
 finocchio
 finocchios
@@ -31987,6 +31998,7 @@ forefaces
 forefeeling
 forefeet
 forefelt
+forefended
 forefending
 forefinger
 forefront
@@ -38837,7 +38849,9 @@ hopsacking
 hopsackings
 hoptoads
 hora
+horahs
 horal
+horded
 hordein
 hording
 horehounds
@@ -41471,6 +41485,7 @@ inexcusableness
 inexhaustible
 inexhaustibly
 inexistences
+inexistent
 inexorabilities
 inexorability
 inexorably
@@ -41645,6 +41660,7 @@ inform
 informality
 informant
 informatics
+information
 informationally
 informatively
 informativeness
@@ -42235,6 +42251,7 @@ integumentary
 integuments
 intellections
 intellective
+intellectual
 intellectualist
 intellectuals
 intelligence
@@ -47009,6 +47026,7 @@ liquefying
 liquid
 liquidambars
 liquidate
+liquidates
 liquidations
 liquidities
 liquidize
@@ -47846,6 +47864,7 @@ lumberyards
 lumbosacral
 lumbrical
 lumen
+lumenal
 lumens
 luminaire
 luminaires
@@ -49748,6 +49767,7 @@ mellotron
 mellotrons
 mellow
 mellowed
+mellower
 mellowest
 mellowing
 mellowness
@@ -49903,6 +49923,7 @@ menthene
 menthenes
 mention
 mentionable
+mentioned
 mentioner
 mentioning
 mentions
@@ -54953,6 +54974,7 @@ nondescripts
 nondestructive
 nondeviant
 nondiabetics
+nondialyzable
 nondiapausing
 nondirective
 nondisabled
@@ -58295,6 +58317,7 @@ overconstructed
 overconstructs
 overconsuming
 overconsumption
+overcontrol
 overcontrolling
 overcooking
 overcooks
@@ -59728,6 +59751,7 @@ par
 para
 parabiosis
 parabiotically
+parable
 parables
 parabolas
 parabolic
@@ -66148,6 +66172,7 @@ proteomes
 proteose
 protest
 protestant
+protestants
 protestation
 protested
 protesting
@@ -67011,6 +67036,7 @@ pycnidia
 pycnometer
 pycnoses
 pycnosis
+pycnotic
 pye
 pyelitis
 pyelitises
@@ -71118,6 +71144,7 @@ reshuffles
 resid
 reside
 residence
+residences
 residencies
 resident
 residential
@@ -74634,6 +74661,7 @@ scops
 scopulate
 scorched
 scorcher
+scorchers
 scorches
 scoreboard
 scoreboards
@@ -79875,6 +79903,7 @@ spoke
 spokeshaves
 spokesmanships
 spokesmen
+spokespeople
 spokeswomen
 spoliate
 spoliates
@@ -82670,6 +82699,7 @@ sunglasses
 sunglow
 sunglows
 sunk
+sunken
 sunket
 sunlamp
 sunland
@@ -89644,6 +89674,7 @@ underfunded
 underfunds
 underfurs
 undergarment
+undergird
 undergirded
 undergirt
 undergods
@@ -90178,6 +90209,7 @@ unhooked
 unhorsed
 unhorses
 unhorsing
+unhostile
 unhouse
 unhoused
 unhouseled
@@ -90244,6 +90276,7 @@ uninitiated
 uninjured
 uninoculated
 uninspected
+uninspiring
 uninstalls
 uninstructive
 uninsurable
@@ -92502,6 +92535,7 @@ vibrato
 vibrators
 vibratory
 vibrioid
+vibrion
 vibrios
 vibrioses
 vibrissal
@@ -95770,6 +95804,7 @@ zazens
 zeal
 zealot
 zealously
+zealousnesses
 zeatins
 zebec
 zebecs
