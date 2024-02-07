@@ -541,6 +541,7 @@ acronymic
 acronyms
 acropetal
 acropetally
+acrophobe
 acrophobia
 acrophobias
 acropolises
@@ -6589,6 +6590,7 @@ bathetically
 bathhouse
 bathing
 bathless
+bathmats
 batholiths
 bathoses
 bathrobe
@@ -6851,6 +6853,7 @@ becrusts
 becudgel
 becudgeling
 becudgelling
+becudgels
 becursed
 bed
 bedabble
@@ -8535,6 +8538,7 @@ bless
 blessed
 blesseder
 blessedest
+blessedly
 blessedness
 blessers
 blesses
@@ -14984,6 +14988,7 @@ clowders
 clown
 clowned
 clownery
+clowning
 clownishness
 clownishnesses
 clowns
@@ -21422,6 +21427,7 @@ demisemiquaver
 demisemiquavers
 demister
 demisters
+demitasses
 demitted
 demiurgic
 demiurgical
@@ -22071,6 +22077,7 @@ despumated
 despumates
 despumating
 desquamate
+desquamated
 desquamates
 desquamating
 desquamation
@@ -24367,6 +24374,7 @@ dolefuller
 dolefully
 dolefulnesses
 dolerites
+doleritic
 dolesome
 dolichocephalic
 dolichocephaly
@@ -27350,6 +27358,7 @@ entablature
 entail
 entailer
 entailing
+entailment
 entamebae
 entamoeba
 entamoebae
@@ -28087,6 +28096,7 @@ eschatological
 eschatologies
 eschatology
 escheat
+escheatable
 escheated
 escheators
 eschewed
@@ -31248,6 +31258,7 @@ flatfish
 flatfishes
 flatfoot
 flatfooted
+flatfooting
 flatfoots
 flathead
 flatiron
@@ -31554,6 +31565,7 @@ floppers
 floppily
 floppinesses
 floppy
+flora
 florae
 florals
 floras
@@ -34078,6 +34090,7 @@ genealogies
 genealogy
 genera
 general
+generalise
 generalising
 generalist
 generalists
@@ -41985,6 +41998,7 @@ inlayers
 inlaying
 inlier
 inliers
+inly
 inlying
 inmate
 inmates
@@ -48474,6 +48488,7 @@ magnetization
 magnetize
 magnetizers
 magnetizes
+magnetograph
 magnetographs
 magnetometers
 magnetometric
@@ -49754,6 +49769,7 @@ meek
 meekest
 meekly
 meekness
+meeknesses
 meerkat
 meerkats
 meerschaums
@@ -51269,6 +51285,7 @@ misappraisal
 misappraisals
 misappropriated
 misappropriates
+misarticulated
 misarticulates
 misarticulating
 misassay
@@ -52123,6 +52140,7 @@ mollah
 mollahs
 mollie
 mollies
+mollification
 mollifier
 mollifies
 mollify
@@ -59493,6 +59511,7 @@ pails
 pailsful
 painch
 painches
+painfuller
 painfullest
 painless
 painlessness
@@ -62590,6 +62609,7 @@ pineta
 pinetum
 pinewood
 pinewoods
+pinfold
 pinfolds
 pinged
 pingers
@@ -62915,6 +62935,7 @@ plagiarizing
 plagioclases
 plagiotropic
 plaguey
+plaguily
 plaguing
 plaguy
 plaice
@@ -66482,6 +66503,7 @@ provocation
 provocations
 provocatively
 provocativeness
+provocatives
 provoke
 provoker
 provokes
@@ -67129,6 +67151,7 @@ pushing
 pushingly
 pushpin
 pushpins
+pushrods
 pushup
 pushy
 pusillanimities
@@ -67576,6 +67599,7 @@ quenches
 quenching
 quenchless
 quenelle
+quenelles
 quercetin
 quercetins
 quercitron
@@ -67588,6 +67612,7 @@ querulously
 querulousness
 query
 quesadillas
+quest
 quested
 quester
 questioner
@@ -71858,6 +71883,7 @@ retroactions
 retroactive
 retroactivities
 retroacts
+retrocedes
 retrocession
 retrocessions
 retrodict
@@ -74432,6 +74458,7 @@ scalloper
 scalls
 scallywags
 scalogram
+scaloppine
 scalped
 scalpel
 scalper
@@ -74740,6 +74767,7 @@ sciaenoid
 sciamachy
 sciatic
 sciaticas
+sciential
 scientism
 scientists
 scientize
@@ -75632,6 +75660,7 @@ semanteme
 semantemes
 semantical
 semantically
+semanticist
 semanticists
 semantics
 semaphore
@@ -77314,6 +77343,7 @@ silicas
 silicide
 silicifications
 silicifying
+silicious
 siliciums
 silicon
 silicones
@@ -92439,6 +92469,7 @@ vengefully
 vengefulness
 vengefulnesses
 venging
+venial
 venins
 venires
 venison
@@ -92649,6 +92680,7 @@ verticals
 verticillate
 verticils
 vertigo
+vertigos
 vertu
 vertus
 vervains
@@ -94017,6 +94049,7 @@ waveringly
 wavers
 waves
 waveshapes
+wavey
 waveys
 wavicle
 wavicles
@@ -95548,6 +95581,7 @@ writers
 writes
 writhe
 writhen
+writhing
 writing
 writs
 wrong
@@ -95911,6 +95945,7 @@ yok
 yoke
 yokefellows
 yokel
+yokelish
 yoks
 yolk
 yolked
