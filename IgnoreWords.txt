@@ -1849,6 +1849,7 @@ alkane
 alkanes
 alkanets
 alkenes
+alkie
 alkine
 alkoxy
 alkyd
@@ -2301,6 +2302,7 @@ amidic
 amidine
 amidins
 amido
+amidogens
 amidol
 amidols
 amidone
@@ -4728,6 +4730,7 @@ asswage
 asswaged
 asswages
 astasia
+astasias
 astatines
 aster
 asteriated
@@ -5519,6 +5522,7 @@ axilla
 axillars
 axillas
 axils
+axing
 axiological
 axiologically
 axiology
@@ -7139,6 +7143,7 @@ belayed
 belayer
 belayers
 belays
+belch
 belched
 belcher
 belchers
@@ -8567,6 +8572,7 @@ blocks
 blocs
 blog
 blogger
+bloggers
 blogs
 blond
 blondest
@@ -13949,6 +13955,7 @@ chough
 chouse
 chouser
 chouses
+chow
 chowchows
 chowderheaded
 chowderheads
@@ -14208,6 +14215,7 @@ cine
 cineast
 cinema
 cinemagoer
+cinemas
 cinematheque
 cinematized
 cinematograph
@@ -19052,6 +19060,7 @@ crunches
 crunchiest
 crunchily
 crunchiness
+crunchinesses
 crunchy
 crunodal
 crunode
@@ -23872,6 +23881,7 @@ distributed
 distributee
 distributes
 distribution
+distributively
 distributivity
 distributor
 district
@@ -26244,6 +26254,7 @@ elusory
 elute
 eluted
 elutes
+elutriated
 elutriates
 elutriating
 elutriation
@@ -26366,6 +26377,7 @@ emboly
 embonpoint
 embonpoints
 embordered
+embosk
 embosked
 embosking
 embosom
@@ -26565,6 +26577,7 @@ empiricist
 empirics
 emplace
 emplacement
+emplacements
 emplaces
 emplaning
 employability
@@ -32089,6 +32102,7 @@ forked
 forker
 forkful
 forkier
+forkiness
 forking
 forkless
 forklift
@@ -33731,6 +33745,7 @@ gauntnesses
 gaur
 gauzes
 gauziest
+gauzily
 gauzy
 gavages
 gavelled
@@ -34199,6 +34214,7 @@ ghostly
 ghosts
 ghostwrite
 ghostwriters
+ghostwrites
 ghostwriting
 ghostwrote
 ghoulie
@@ -53018,6 +53034,7 @@ munificences
 munificent
 muniment
 munition
+munnion
 muns
 munsters
 muntin
@@ -54234,6 +54251,7 @@ nicad
 nicads
 niccolite
 niccolites
+nice
 nicely
 nicenesses
 nicer
@@ -55512,6 +55530,7 @@ notched
 notcher
 notchers
 notching
+note
 notebooks
 notecards
 notecase
@@ -56516,6 +56535,7 @@ oms
 onagers
 onagri
 onanism
+onanisms
 onanistic
 onanists
 onboard
@@ -57638,6 +57658,7 @@ outpeoples
 outpeopling
 outperforming
 outperforms
+outpitches
 outpitching
 outpitied
 outpity
@@ -59166,6 +59187,7 @@ paganist
 paganizers
 paganizing
 pageant
+pageantries
 pageboy
 pageboys
 paged
@@ -60991,6 +61013,7 @@ pericardial
 pericarditis
 pericarditises
 pericardium
+pericarp
 perichondral
 perichondria
 pericopal
@@ -62227,6 +62250,7 @@ pimple
 pimpled
 pimplier
 pimpliest
+pimply
 pimpmobile
 pimps
 pin
@@ -64724,6 +64748,7 @@ premierships
 premigration
 premise
 premises
+premisses
 premix
 premodification
 premodifying
@@ -66109,6 +66134,7 @@ proverb
 proverbed
 proverbial
 proverbing
+provided
 providence
 provident
 providential
@@ -66797,6 +66823,7 @@ puss
 pussleys
 pusslies
 pusslike
+pussly
 pussyfooted
 pussyfooter
 pussyfooting
@@ -73382,6 +73409,7 @@ saliency
 salient
 saliently
 salients
+salify
 salimeter
 salimeters
 salina
@@ -75581,6 +75609,7 @@ sepulchres
 sepulchring
 sepulture
 sepultures
+sequacious
 sequaciously
 sequacities
 sequela
@@ -77401,6 +77430,7 @@ skirmishers
 skirr
 skirred
 skirting
+skirtless
 skirts
 skis
 skits
@@ -81073,6 +81103,7 @@ straightbreds
 straighted
 straightedge
 straightedges
+straightened
 straighter
 straightish
 straightlaced
@@ -82820,6 +82851,7 @@ superstrike
 superstrikes
 superstrings
 superstructures
+superstud
 supersubtleties
 supersubtlety
 supersurgeon
@@ -85752,6 +85784,7 @@ thruster
 thrusters
 thrustful
 thrusts
+thudded
 thudding
 thug
 thuggee
@@ -86646,6 +86679,7 @@ torturers
 tortures
 torturing
 torturous
+torturously
 torula
 torulas
 tory
@@ -89930,6 +89964,7 @@ unhangs
 unhappiness
 unhappy
 unharmed
+unharnessed
 unharnesses
 unharnessing
 unharried
