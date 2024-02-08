@@ -350,6 +350,7 @@ accustom
 accustomation
 accustomations
 accustomed
+accustomedness
 accustoms
 aced
 aceldamas
@@ -5235,6 +5236,7 @@ authors
 autism
 autisms
 autistically
+autoantibodies
 autobahn
 autobahnen
 autobahns
@@ -5349,6 +5351,7 @@ autopsists
 autopsy
 autopsying
 autoradiogram
+autoradiograms
 autoradiograph
 autorotates
 autorotating
@@ -8919,6 +8922,7 @@ bobstay
 bobstays
 bobtailed
 bobtailing
+bobtails
 bobwhite
 bobwhites
 bocaccio
@@ -13332,6 +13336,7 @@ charivaris
 charkas
 charkha
 charking
+charks
 charlady
 charlatanry
 charlatans
@@ -19473,6 +19478,7 @@ cupellation
 cupellations
 cupeller
 cupellers
+cupelling
 cupels
 cupferrons
 cupfuls
@@ -23048,6 +23054,7 @@ dioramas
 diorite
 dioritic
 diosgenin
+diosgenins
 dioxane
 dioxanes
 dioxid
@@ -30528,6 +30535,7 @@ feticide
 feticides
 fetid
 fetidity
+fetidly
 fetidnesses
 fetishes
 fetishistic
@@ -36901,6 +36909,7 @@ hamminesses
 hammock
 hammocks
 hammy
+hampered
 hamperer
 hamperers
 hampers
@@ -38507,6 +38516,7 @@ hoars
 hoarsen
 hoarsenesses
 hoarsening
+hoary
 hoatzin
 hoatzins
 hoax
@@ -38612,6 +38622,7 @@ hokum
 hokypokies
 holandric
 holard
+holards
 holdable
 holdall
 holdback
@@ -38838,6 +38849,7 @@ homospories
 homospory
 homostyly
 homotaxis
+homothallic
 homothallism
 homozygoses
 homozygosis
@@ -40707,6 +40719,7 @@ impinges
 impinging
 impings
 impious
+impiously
 impis
 impish
 implant
@@ -45632,6 +45645,7 @@ lallygagged
 lallygagging
 lallygags
 lam
+lama
 lamb
 lambadas
 lambast
@@ -50058,6 +50072,7 @@ menially
 meninges
 meningiomata
 meningitic
+meningitides
 meningococcus
 meninx
 meniscate
@@ -50106,6 +50121,7 @@ mentioning
 mentions
 mentor
 mentoring
+mentorship
 mentum
 menu
 menudos
@@ -55653,6 +55669,7 @@ nonsystematic
 nonsystemic
 nontalkers
 nontaxable
+nonteaching
 nontemporal
 nontenured
 nonterminals
@@ -57257,6 +57274,7 @@ organics
 organisations
 organise
 organised
+organiser
 organises
 organism
 organismal
@@ -59551,6 +59569,7 @@ paiking
 paiks
 paillard
 paillasses
+paillettes
 pails
 pailsful
 painch
@@ -59773,11 +59792,13 @@ pancreozymins
 pancytopenia
 pancytopenias
 pandanus
+pandas
 pandect
 pandemoniums
 pander
 pandered
 panderer
+panderers
 pandering
 pandies
 pandit
@@ -61024,6 +61045,7 @@ pemphixes
 pen
 penalise
 penalised
+penalises
 penalising
 penalized
 penalizes
@@ -65143,6 +65165,7 @@ prenomina
 prenominate
 prenominated
 prenomination
+prenominations
 prenoon
 prenotification
 prenotified
@@ -65376,6 +65399,7 @@ presifted
 presignaling
 presignalled
 presignalling
+presignals
 preslaughter
 presleep
 preslice
@@ -67525,6 +67549,7 @@ quakingly
 quaky
 quale
 qualification
+qualifiedly
 qualifier
 qualifying
 qualitative
@@ -68011,6 +68036,7 @@ radiologic
 radiological
 radiologists
 radiolucency
+radiolucent
 radiolyses
 radiomen
 radiomimetic
@@ -68117,6 +68143,7 @@ raininess
 raininesses
 raining
 rainmakers
+rainmaking
 rainout
 rainproofing
 rains
@@ -70274,6 +70301,7 @@ reinspires
 reinspiring
 reinstallation
 reinstallations
+reinstalled
 reinstalling
 reinstalls
 reinstate
@@ -72458,6 +72486,7 @@ rickety
 ricking
 ricksha
 rickshas
+rickshaw
 ricocheted
 ricocheting
 ricochets
@@ -75126,6 +75155,7 @@ scrivener
 scriveners
 scrives
 scriving
+scrods
 scrofula
 scrofulas
 scroggier
@@ -81553,6 +81583,7 @@ stove
 stovepipes
 stover
 stoves
+stow
 stowage
 stowaways
 stowing
@@ -91973,6 +92004,7 @@ usualnesses
 usuals
 usufruct
 usurers
+usurious
 usuriousness
 usurpations
 usurped
@@ -93226,6 +93258,7 @@ vitelline
 vitellines
 vitellins
 vitellogenesis
+vitelluses
 vitiate
 vitiates
 vitiating
@@ -95144,6 +95177,7 @@ wisecracking
 wised
 wiseguy
 wiseguys
+wiseliest
 wisely
 wiseness
 wisenesses
@@ -95367,6 +95401,7 @@ woodie
 woodier
 woodies
 woodiest
+woodland
 woodlark
 woodless
 woodlore
