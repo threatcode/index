@@ -1352,6 +1352,7 @@ agglutinogen
 agglutinogens
 aggradations
 aggrade
+aggraded
 aggrades
 aggrandise
 aggrandised
@@ -1728,6 +1729,7 @@ aldoses
 aldosterone
 aldosterones
 aldosteronism
+ale
 aleatoric
 aleatory
 alec
@@ -2276,6 +2278,7 @@ ameliorates
 ameliorating
 ameliorative
 ameliorator
+ameliorators
 amelioratory
 amen
 amenable
@@ -5201,6 +5204,7 @@ austerely
 austerenesses
 austerer
 austerities
+austerity
 austral
 australs
 ausubos
@@ -8153,6 +8157,7 @@ biovular
 bioweapons
 bipack
 biparental
+biparentally
 biparous
 bipartisanisms
 bipartisanship
@@ -8518,6 +8523,7 @@ bleated
 bleaters
 bleating
 blebbing
+blebbings
 bleed
 bleeding
 bleedings
@@ -18614,6 +18620,7 @@ cranberry
 cranch
 cranched
 crane
+cranes
 cranesbill
 crania
 cranial
@@ -23764,6 +23771,7 @@ dispatches
 dispatching
 dispellers
 dispels
+dispend
 dispended
 dispending
 dispensability
@@ -31632,6 +31640,7 @@ flopovers
 flopped
 floppers
 floppily
+floppiness
 floppinesses
 floppy
 flora
@@ -32717,6 +32726,7 @@ freeing
 freelance
 freelanced
 freelancer
+freelancing
 freeloading
 freeman
 freemartin
@@ -35240,6 +35250,7 @@ goldenseal
 goldenseals
 goldest
 goldfinch
+goldfish
 goldfishes
 goldsmiths
 goldstone
@@ -38378,6 +38389,7 @@ hijab
 hijabs
 hijack
 hijacked
+hijackers
 hijacking
 hijacks
 hijra
@@ -42680,6 +42692,7 @@ interiorising
 interiorities
 interiority
 interiorized
+interiorizes
 interiorly
 interiors
 interjecting
@@ -43631,6 +43644,7 @@ isospin
 isospories
 isostacies
 isostasy
+isostatic
 isostatically
 isosteric
 isotach
@@ -45008,6 +45022,7 @@ kilohertz
 kilojoule
 kilojoules
 kiloliter
+kilolitre
 kilometers
 kilometre
 kilometres
@@ -54398,6 +54413,7 @@ nephrotoxicity
 nepotic
 nepotism
 nepotist
+neptunium
 nerd
 nerdier
 nerdiest
@@ -55987,6 +56003,7 @@ nourishing
 nourishments
 nous
 nouses
+nouveau
 novae
 novations
 novelette
@@ -58952,6 +58969,7 @@ overmild
 overmilked
 overmilking
 overmines
+overmix
 overmixes
 overmixing
 overmodest
@@ -59973,6 +59991,7 @@ pantofle
 pantofles
 pantograph
 pantographic
+pantographs
 pantomime
 pantomimes
 pantomimic
@@ -64004,6 +64023,7 @@ polys
 polysaccharide
 polysaccharides
 polysome
+polysorbate
 polysorbates
 polystyrene
 polysulfides
@@ -70066,6 +70086,7 @@ refused
 refusenik
 refuseniks
 refuser
+refusers
 refusing
 refusnik
 refusniks
@@ -70893,6 +70914,7 @@ rentability
 rentable
 rental
 rente
+renter
 renters
 renumbering
 renunciation
@@ -74722,6 +74744,7 @@ scarlatinas
 scarper
 scarpering
 scarpers
+scarph
 scarphed
 scarphing
 scarping
@@ -76242,6 +76265,7 @@ serially
 seriate
 seriated
 seriates
+seriatim
 seriating
 sericeous
 sericin
@@ -78627,6 +78651,7 @@ smokily
 smokinesses
 smoky
 smoldering
+smolt
 smolts
 smooched
 smoochers
@@ -79725,6 +79750,7 @@ spancelled
 spancelling
 spandex
 spandexes
+spandrels
 spandril
 spangled
 spangles
@@ -80591,6 +80617,7 @@ squally
 squalor
 squalors
 squamate
+squamates
 squamation
 squamosals
 squamose
@@ -81584,6 +81611,7 @@ stonewallers
 stonewalling
 stonewalls
 stonewashing
+stonewort
 stoney
 stoniest
 stoniness
@@ -83553,6 +83581,7 @@ supposititious
 suppressants
 suppressed
 suppresses
+suppressibility
 suppressible
 suppression
 suppressive
@@ -85460,6 +85489,7 @@ tenants
 tend
 tendances
 tendentious
+tendentiously
 tenderfoot
 tenderhearted
 tenderheartedly
@@ -85705,6 +85735,7 @@ territorialisms
 territorialists
 territoriality
 territorializes
+territorials
 territories
 territory
 territs
@@ -86854,6 +86885,7 @@ titmen
 titmouse
 titrant
 titrants
+titrates
 titrating
 titration
 titre
@@ -92666,6 +92698,7 @@ vengefulness
 vengefulnesses
 venging
 venial
+venin
 venins
 venires
 venison
@@ -93583,6 +93616,7 @@ voodooisms
 voodooist
 voodooistic
 voodooists
+voodoos
 voraciousness
 voraciousnesses
 voracity
@@ -95593,6 +95627,7 @@ work
 workabilities
 workability
 workaday
+workaholism
 workaholisms
 workbag
 workbaskets
