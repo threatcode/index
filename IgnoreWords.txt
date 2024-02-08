@@ -758,6 +758,7 @@ adjectivally
 adjectives
 adjoin
 adjoined
+adjournment
 adjournments
 adjudged
 adjudges
@@ -4307,6 +4308,7 @@ aromatherapies
 aromatherapist
 aromatherapists
 aromatic
+aromaticity
 aromatics
 aromatizations
 aromatized
@@ -5053,6 +5055,7 @@ attractancies
 attractancy
 attractant
 attractants
+attracter
 attracters
 attraction
 attractions
@@ -5561,6 +5564,7 @@ awns
 awny
 awols
 ax
+axal
 axed
 axel
 axels
@@ -6424,6 +6428,7 @@ baronne
 barons
 baroquely
 baroques
+baroreceptor
 baroreceptors
 barosaurs
 baroscope
@@ -12821,6 +12826,7 @@ cellared
 cellarer
 cellarers
 cellaret
+cellarettes
 cellaring
 cellars
 cellarway
@@ -17579,6 +17585,7 @@ coplots
 coplotted
 copolymerized
 copolymerizes
+copolymerizing
 copolymers
 copout
 copouts
@@ -23323,6 +23330,7 @@ disastrously
 disavowable
 disavowal
 disavowed
+disavowers
 disavowing
 disbanded
 disbands
@@ -23487,6 +23495,7 @@ discredits
 discreet
 discreeter
 discreetest
+discreetnesses
 discrepancies
 discrepancy
 discrepantly
@@ -23978,6 +23987,7 @@ disserved
 disserves
 disses
 disseverance
+disseverances
 dissevering
 disseverment
 disseverments
@@ -26572,6 +26582,7 @@ embitterment
 emblazed
 emblazer
 emblazes
+emblazing
 emblazon
 emblazoned
 emblazoner
@@ -31220,6 +31231,7 @@ flabelliform
 flabellum
 flabs
 flaccid
+flaccidities
 flaccidly
 flack
 flackeries
@@ -35606,6 +35618,7 @@ grainy
 grama
 gramaries
 gramary
+gramaryes
 gramas
 gramercy
 gramicidin
@@ -38929,6 +38942,7 @@ homophyly
 homoplasies
 homopolar
 homopolymer
+homopolymeric
 homopolymers
 homopteran
 homos
@@ -40832,6 +40846,7 @@ impleaders
 impleading
 impled
 impledge
+impledged
 impledges
 impledging
 implement
@@ -41383,6 +41398,7 @@ incriminatory
 incrosses
 incrust
 incrustation
+incrustations
 incubate
 incubates
 incubating
@@ -44915,6 +44931,7 @@ keybuttons
 keycard
 keycards
 keyed
+keyhole
 keyholes
 keynote
 keynotes
@@ -47349,6 +47366,7 @@ lispingly
 lissom
 lissome
 lissomely
+lissomeness
 lissomenesses
 list
 listable
@@ -48035,6 +48053,7 @@ lowboy
 lowboys
 lowbred
 lowbrow
+lowbrowed
 lower
 lowercased
 lowercases
@@ -50740,6 +50759,7 @@ micrifies
 micrify
 micrifying
 micro
+microamperes
 microanalyses
 microanalyst
 microanalysts
@@ -53625,6 +53645,7 @@ mustangs
 musted
 mustee
 mustelids
+musteline
 muster
 mustered
 mustering
@@ -55391,6 +55412,7 @@ nonexposed
 nonfact
 nonfactor
 nonfactors
+nonfacts
 nonfactual
 nonfaculty
 nonfamilial
@@ -63363,6 +63385,7 @@ playboys
 playdown
 player
 players
+playfellows
 playfield
 playfields
 playful
@@ -63942,6 +63965,7 @@ polyandry
 polyantha
 polyanthas
 polyanthi
+polybasic
 polybrid
 polybrids
 polybutadiene
@@ -65682,6 +65706,7 @@ preunification
 preunion
 preunions
 preunited
+preunites
 preuniting
 preuniversity
 prevailed
@@ -69849,6 +69874,7 @@ reenactment
 reenactments
 reenactors
 reencounter
+reencounters
 reendowed
 reendows
 reenergizing
@@ -70941,6 +70967,7 @@ renewer
 renewers
 renewing
 renews
+renig
 renitence
 renitencies
 rennases
@@ -71904,6 +71931,7 @@ resuspended
 resuspends
 reswallow
 reswallowed
+reswallowing
 reswallows
 resyntheses
 resynthesized
@@ -75657,6 +75685,7 @@ sectarianisms
 sectarianized
 sectile
 sectility
+section
 sectional
 sectionalism
 sectionalisms
@@ -78792,6 +78821,7 @@ snakily
 snakiness
 snakinesses
 snapdragons
+snapless
 snapped
 snappers
 snappily
@@ -82350,6 +82380,7 @@ subcavity
 subceiling
 subceilings
 subcell
+subcellar
 subcentral
 subcentrally
 subchaser
@@ -91213,6 +91244,7 @@ unprosperous
 unprovable
 unprovoked
 unpruned
+unpublished
 unpuckered
 unpuckering
 unpuckers
@@ -92169,6 +92201,7 @@ urticarias
 urticate
 urticates
 urtications
+urus
 uruses
 urushiol
 usabilities
@@ -95348,6 +95381,7 @@ wiredraw
 wiredrawers
 wiredrawing
 wiredraws
+wiredrew
 wiregrasses
 wirehaired
 wirehairs
@@ -95608,6 +95642,7 @@ woodier
 woodies
 woodiest
 woodland
+woodlands
 woodlark
 woodless
 woodlore
