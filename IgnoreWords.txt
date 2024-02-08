@@ -591,6 +591,7 @@ actionably
 actionless
 activation
 activations
+active
 activeness
 actives
 activisms
@@ -5396,6 +5397,7 @@ auxesis
 auxin
 auxinic
 auxotroph
+auxotrophic
 auxotrophies
 ava
 avadavat
@@ -5666,6 +5668,7 @@ babesiosis
 babiches
 babied
 babies
+babiest
 babirusa
 babirusas
 baboo
@@ -8802,6 +8805,7 @@ bluestem
 bluestockings
 bluestone
 bluesy
+blueticks
 bluetongue
 bluetongues
 bluets
@@ -9931,6 +9935,7 @@ bremsstrahlungs
 bren
 brent
 brents
+brethren
 breve
 brevetcies
 brevetcy
@@ -13440,6 +13445,7 @@ chaunts
 chautauqua
 chautauquas
 chauvinisms
+chauvinist
 chauvinistic
 chaw
 chawbacon
@@ -14214,6 +14220,7 @@ chunks
 chunky
 chunnel
 chuntered
+chuppah
 chuppahs
 church
 churched
@@ -15491,6 +15498,7 @@ coffeehouses
 coffeemakers
 coffeepots
 coffees
+coffer
 cofferdam
 coffering
 coffers
@@ -20938,6 +20946,7 @@ deerfly
 deerhound
 deers
 deerskins
+deerstalkers
 dees
 deet
 def
@@ -23029,6 +23038,7 @@ dingleberries
 dingleberry
 dingles
 dingoes
+dings
 dinguses
 dinitro
 dinitrobenzenes
@@ -23565,6 +23575,7 @@ disfurnishments
 disgorge
 disgorged
 disgorges
+disgraced
 disgraceful
 disgracefulness
 disgracers
@@ -26481,6 +26492,7 @@ emasculated
 emasculates
 emasculating
 emasculation
+emasculations
 emasculator
 emasculators
 embalm
@@ -32740,6 +32752,7 @@ freezing
 freight
 freightage
 freighted
+freights
 fremd
 fremitus
 fremituses
@@ -32768,6 +32781,7 @@ frequenter
 frequentest
 frequenting
 frequentnesses
+fresco
 frescoed
 frescoer
 frescoes
@@ -34395,6 +34409,7 @@ gerundives
 gesneria
 gesneriad
 gessoes
+gest
 gestalt
 gestalten
 gestaltist
@@ -35364,6 +35379,7 @@ gore
 gored
 gores
 gorged
+gorgeous
 gorgeously
 gorgeousness
 gorgers
@@ -36024,6 +36040,7 @@ grizzliest
 grizzling
 grizzly
 groaners
+groaning
 groat
 groats
 grocer
@@ -37564,6 +37581,7 @@ hearted
 heartener
 heartening
 hearteningly
+heartens
 heartfelt
 hearth
 hearthrugs
@@ -40386,6 +40404,7 @@ illuviate
 illuviates
 illuviation
 illuviations
+illuviums
 illy
 ilmenite
 ilmenites
@@ -40799,6 +40818,7 @@ impone
 imponed
 imponing
 imporous
+importance
 importancies
 important
 imported
@@ -41038,6 +41058,7 @@ inburst
 inbye
 incage
 incaged
+incages
 incaging
 incalculability
 incalculably
@@ -50032,6 +50053,7 @@ melted
 melter
 melting
 melton
+meltons
 melts
 melty
 membered
@@ -50456,6 +50478,7 @@ metanephric
 metanephros
 metaphase
 metaphoric
+metaphosphate
 metaphrase
 metaphrases
 metaphysical
@@ -55359,6 +55382,7 @@ nonheroic
 nonhierarchical
 nonhistone
 nonhome
+nonhomogeneous
 nonhomologous
 nonhostile
 nonhousing
@@ -65407,6 +65431,7 @@ presentencing
 presenter
 presentient
 presentism
+presently
 presentment
 preservability
 preservable
@@ -71930,6 +71955,7 @@ retinue
 retinular
 retinulas
 retirants
+retire
 retired
 retiredly
 retiredness
@@ -74212,6 +74238,7 @@ santimi
 santims
 santir
 santolina
+santonin
 santoor
 santoors
 santurs
@@ -75084,6 +75111,7 @@ scragged
 scraggier
 scraggily
 scragging
+scraggly
 scraggy
 scraich
 scraiching
@@ -75396,6 +75424,7 @@ seagulls
 seahorse
 seahorses
 sealed
+sealer
 sealeries
 sealifting
 sealing
@@ -84111,6 +84140,7 @@ symbolically
 symbolised
 symbolises
 symbolism
+symbolisms
 symbolist
 symbolization
 symbolizations
@@ -86487,6 +86517,7 @@ tibiofibulae
 tic
 tical
 ticker
+ticket
 ticketing
 tickled
 tickler
@@ -90695,6 +90726,7 @@ unimpressive
 unindicted
 uninflated
 uninflected
+uninhabitable
 uninhibitedly
 uninitiated
 uninjured
@@ -92774,6 +92806,7 @@ vermes
 vermian
 vermicelli
 vermicellis
+vermicular
 vermiculate
 vermiculated
 vermiculation
@@ -94512,6 +94545,7 @@ wends
 wenniest
 wennish
 wenny
+wens
 went
 wentletraps
 wept
@@ -96040,6 +96074,7 @@ yellower
 yellowfin
 yellowfins
 yellowhammer
+yellowing
 yellowish
 yellowlegs
 yellowtail
