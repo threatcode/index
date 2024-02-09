@@ -66,6 +66,7 @@ abscissas
 abscission
 absconds
 abseiled
+absent
 absented
 absentee
 absenteeism
@@ -5888,6 +5889,7 @@ backspacing
 backspin
 backstab
 backstabbed
+backstabber
 backstabbings
 backstair
 backstamp
@@ -7575,6 +7577,7 @@ beshadowed
 beshadowing
 beshamed
 beshaming
+beshivering
 beshivers
 beshout
 beshouts
@@ -7933,6 +7936,7 @@ bigamists
 bigamous
 bigamy
 bigarade
+bigarades
 bigarreaus
 bigeminal
 bigeminies
@@ -9699,6 +9703,7 @@ bowsed
 bowses
 bowshot
 bowshots
+bowsprit
 bowstring
 bowstringed
 bowstringing
@@ -17111,6 +17116,7 @@ conjuntos
 conjure
 conjured
 conjuring
+conjurors
 conk
 conking
 conky
@@ -20716,6 +20722,7 @@ deanship
 dear
 dearest
 dearie
+dearth
 dearths
 deary
 deash
@@ -22051,6 +22058,7 @@ depositor
 depository
 deposits
 depots
+deprave
 depraved
 depravedness
 depravednesses
@@ -26505,6 +26513,7 @@ eject
 ejectable
 ejected
 ejecting
+ejection
 ejector
 ejects
 ekes
@@ -26616,6 +26625,7 @@ electrometers
 electromyograms
 electromyograph
 electronica
+electronically
 electrons
 electroosmoses
 electroosmotic
@@ -27015,6 +27025,7 @@ eminencies
 eminent
 eminently
 emir
+emirate
 emissaries
 emissions
 emissive
@@ -32134,6 +32145,7 @@ flukes
 flukey
 flukier
 flukiest
+flukiness
 flukinesses
 fluking
 fluming
@@ -36296,6 +36308,7 @@ greenbelt
 greenbrier
 greened
 greenery
+greenest
 greenfinch
 greenfly
 greengage
@@ -36747,6 +36760,7 @@ gude
 gudes
 gudgeon
 guenons
+guerdon
 guerdoned
 gueridons
 guerilla
@@ -50016,6 +50030,7 @@ massacrer
 massacrers
 massacring
 massage
+massaged
 massagers
 massaging
 massasaugas
@@ -51476,6 +51491,7 @@ microtubule
 microtubules
 microvillar
 microvilli
+microvillous
 microvillus
 microvolts
 microwatt
@@ -53907,6 +53923,7 @@ multienzyme
 multiethnic
 multiethnics
 multifaceted
+multifactor
 multifactorial
 multifarious
 multifid
@@ -58564,6 +58581,7 @@ outearns
 outeaten
 outeating
 outechoed
+outechoes
 outechoing
 outer
 outercoats
@@ -60013,6 +60031,7 @@ overvalued
 overvaluing
 overview
 overviews
+overviolent
 overvoltages
 overvote
 overvoting
@@ -61857,6 +61876,7 @@ penalise
 penalised
 penalises
 penalising
+penalities
 penality
 penalized
 penalizes
@@ -63015,6 +63035,7 @@ photoreduction
 photoreductions
 photoresist
 photoresists
+photos
 photoscan
 photoscanned
 photoscanning
@@ -64741,6 +64762,7 @@ polymyxins
 polynomial
 polynucleotides
 polynya
+polynyas
 polynyi
 polyolefin
 polyolefins
@@ -67861,6 +67883,7 @@ pulverable
 pulverise
 pulverises
 pulverize
+pulverized
 pulverizer
 pulverizing
 pulverulent
@@ -72489,6 +72512,7 @@ resoluter
 resolutes
 resolvable
 resolved
+resolvents
 resolvers
 resolves
 resonance
@@ -73947,6 +73971,7 @@ romanticised
 romanticises
 romanticising
 romanticist
+romanticizing
 romaunt
 romaunts
 romeldale
@@ -75712,6 +75737,7 @@ schemed
 schemer
 schemes
 scherzandos
+scherzos
 schism
 schismatic
 schismatics
@@ -78329,6 +78355,7 @@ sidewalk
 sideways
 sidewinders
 sidh
+sidhe
 sidler
 sidling
 sidlingly
@@ -78572,6 +78599,7 @@ simplicial
 simplicially
 simplicities
 simplification
+simplifications
 simplifier
 simplifiers
 simplify
@@ -80107,6 +80135,7 @@ solarising
 solarisms
 solarium
 solariums
+solarization
 solarizations
 solarizing
 solated
@@ -84035,6 +84064,7 @@ sultaness
 sultanesses
 sultanic
 sultrier
+sultriest
 sultriness
 sultrinesses
 sulu
@@ -87727,6 +87757,7 @@ timeserving
 timeservings
 timetable
 timeworn
+timider
 timidest
 timidities
 timidity
@@ -88386,6 +88417,7 @@ tosses
 tosspot
 tossup
 tossups
+tost
 tostada
 tostadas
 tot
@@ -88475,6 +88507,7 @@ tournedos
 tourney
 tourneying
 tourneys
+tourniquet
 tourniquets
 tours
 tousing
@@ -91829,6 +91862,7 @@ uninspected
 uninspiring
 uninstalls
 uninstructive
+uninsulated
 uninsurable
 uninsureds
 unintegrated
@@ -94659,6 +94693,7 @@ voltes
 volts
 volubilities
 voluble
+volubleness
 volumes
 volumeter
 volumeters
