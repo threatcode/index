@@ -7,3 +7,9 @@ config/clear_kolibriDbTest.sql ... - gitlab,https://gitlab-ce.gwdg.de/dariah-de/
 Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/bfceae7dfe2d8bb3dcd37e56b541a69b9a99738c/Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow-multiple-insert-streams.sql
 docker/single-process/init.sql · master · dul-its / DUL Huginn · GitLab,https://gitlab.oit.duke.edu/dul-its/dul-huginn/-/blob/master/docker/single-process/init.sql
 moodleinfo.sql - University of Malawi,http://cms.kcn.unima.mw:8002/moodle/downloads/moodleinfo.sql
+sfguide-twitter-auto-ingest/1_show_streaming_data.sql at main ...,https://github.com/Snowflake-Labs/sfguide-twitter-auto-ingest/blob/main/1_show_streaming_data.sql
+sfguide-twitter-auto-ingest/0_setup_twitter_snowpipe.sql at main ...,https://github.com/Snowflake-Labs/sfguide-twitter-auto-ingest/blob/main/0_setup_twitter_snowpipe.sql
+robotlaw.sql - ServoyForge,https://www.servoyforge.net/attachments/download/332/robotlaw.sql
+Dysnomia.Common.SQL Alternatives and Reviews (Mar 2023),https://www.libhunt.com/r/Dysnomia.Common.SQL
+http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
+Lexique.sql Alternatives and Reviews (Jun 2023) - LibHunt,https://www.libhunt.com/r/lexique.sql

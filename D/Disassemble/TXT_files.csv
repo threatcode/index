@@ -1,0 +1,9 @@
+gdb-disassemble-skb_gso_transport_seglen.txt - GitHub,https://github.com/cloudflare/cloudflare-blog/blob/master/2021-10-gso-encap-crash/listings/gdb-disassemble-skb_gso_transport_seglen.txt
+disasm.txt,http://www.dbit.com/pub/pdp11/rt11/disasm.txt
+x86-64 gdb notes,http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.txt
+Documentation/oops-tracing.txt - kernel/msm.git - Git at Google,https://android.googlesource.com/kernel/msm.git/%2B/android-msm-shamu-3.10-lollipop-mr1/Documentation/oops-tracing.txt
+CSE351/Week 04/Lab2/bomb50/disassemble.txt at master - GitHub,https://github.com/ldfaiztt/CSE351/blob/master/Week%252004/Lab2/bomb50/disassemble.txt
+sample-disassembly.txt - OpenJDK Wiki,https://wiki.openjdk.org/download/attachments/11829251/sample-disassembly.txt%3Fversion%3D1%26modificationDate%3D1280433523000%26api%3Dv2
+GDB Cheat Sheet,https://web2.qatar.cmu.edu/~msakr/15213-f08/recitations/gdbcheatsheet.txt
+Notes on Shellcode,http://www.cs.toronto.edu/~arnold/347/17f/lectures/smashStack/notes/shellcode.txt
+Examining dynamic linking with GDB - Dartmouth CS,https://www.cs.dartmouth.edu/~sergey/cs108/dyn-linking-with-gdb.txt
