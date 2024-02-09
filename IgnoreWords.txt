@@ -1912,6 +1912,7 @@ allegiants
 alleging
 allegoric
 allegorical
+allegoricalness
 allegories
 allegorised
 allegorises
@@ -3090,6 +3091,7 @@ anteing
 antelope
 antelopes
 antenna
+antennae
 antennal
 antennas
 antennular
@@ -6612,6 +6614,7 @@ basso
 bassoon
 bassos
 basswood
+basswoods
 bassy
 bastardies
 bastardised
@@ -9617,6 +9620,7 @@ bovinely
 bovines
 bovinities
 bow
+bowdlerised
 bowdlerising
 bowdlerization
 bowdlerizations
@@ -11249,6 +11253,7 @@ caecally
 caecilian
 caecilians
 caeomas
+caesar
 caesarean
 caesarians
 caesarism
@@ -12082,6 +12087,7 @@ carbohydrase
 carbohydrases
 carbolic
 carbolics
+carbolized
 carbolizes
 carbolizing
 carbon
@@ -15405,6 +15411,7 @@ cockboats
 cockchafers
 cockcrow
 cockcrows
+cockered
 cockerel
 cockerels
 cockfight
@@ -22298,6 +22305,7 @@ destitutions
 destrier
 destriers
 destroyer
+destroying
 destructible
 destruction
 destructions
@@ -23410,6 +23418,7 @@ disagreeable
 disagreed
 disagreements
 disagrees
+disallowing
 disallows
 disambiguate
 disambiguating
@@ -24878,6 +24887,7 @@ doublure
 doubly
 doubt
 doubtable
+doubted
 doubter
 doubtful
 doubtless
@@ -25842,6 +25852,7 @@ dysphasics
 dysphemism
 dysphemisms
 dysplasias
+dysplastic
 dyspneal
 dyspneas
 dysprosium
@@ -26663,6 +26674,7 @@ elytrous
 elytrum
 emaciate
 emaciated
+emaciates
 emaciating
 emaciations
 emailed
@@ -29859,6 +29871,7 @@ facetiae
 faceting
 facetious
 facetiousness
+facets
 facetted
 faceup
 facia
@@ -35748,6 +35761,7 @@ governor
 governorates
 governors
 governorships
+gowan
 gowaned
 gowany
 gowd
@@ -37962,6 +37976,7 @@ heckling
 hectic
 hectically
 hecticly
+hectograms
 hectograph
 hectographing
 hectographs
@@ -38714,6 +38729,7 @@ hinderers
 hindguts
 hindmost
 hindquarter
+hindrance
 hindrances
 hinds
 hindshank
@@ -51798,6 +51814,7 @@ misassigned
 misassigning
 misassigns
 misassumptions
+misatone
 misatones
 misattributed
 misaver
@@ -52353,6 +52370,7 @@ mistouching
 mistraced
 mistraces
 mistracing
+mistrained
 mistraining
 mistrains
 mistrals
@@ -58231,6 +58249,7 @@ outcooks
 outcounted
 outcrawl
 outcrawled
+outcrawling
 outcried
 outcropping
 outcroppings
@@ -58954,6 +58973,7 @@ overbite
 overbleached
 overbleaching
 overblouse
+overblouses
 overblow
 overblowing
 overblown
@@ -59622,6 +59642,7 @@ overstays
 oversteer
 oversteering
 oversteers
+overstep
 overstepped
 overstepping
 oversteps
@@ -60085,6 +60106,7 @@ paik
 paiking
 paiks
 paillard
+paillasse
 paillasses
 paillettes
 pails
@@ -61682,6 +61704,7 @@ pentamerous
 pentamery
 pentamidines
 pentanes
+pentangles
 pentaploid
 pentaploidies
 pentaploids
@@ -63404,6 +63427,7 @@ pissants
 pissers
 pistaches
 pistareens
+piste
 pistes
 pistillate
 pistol
@@ -64468,6 +64492,7 @@ polypide
 polypides
 polyploid
 polyploidies
+polyploidy
 polypnea
 polypneas
 polypodies
@@ -64816,6 +64841,7 @@ postamputation
 postanal
 postatomic
 postattack
+postaxial
 postbase
 postbiblical
 postbourgeois
@@ -67132,6 +67158,7 @@ providing
 province
 provinces
 provincialisms
+provincialist
 provincialists
 provinciality
 proving
@@ -68364,6 +68391,7 @@ quiniela
 quinielas
 quinina
 quinnats
+quinoa
 quinoids
 quinol
 quinolin
@@ -70048,6 +70076,7 @@ redescribing
 redescription
 redescriptions
 redesigning
+redesigns
 redetermine
 redetermined
 redetermining
@@ -72891,6 +72920,7 @@ rewon
 reword
 reworded
 rewords
+rewore
 reworked
 reworks
 rewove
@@ -77367,6 +77397,7 @@ sherpas
 sherrises
 sherry
 sheuch
+sheuchs
 sheugh
 shewbreads
 shewed
@@ -81704,6 +81735,7 @@ steelyard
 steelyards
 steenbok
 steenboks
+steenbucks
 steep
 steeped
 steepen
@@ -83631,6 +83663,7 @@ sulphurised
 sulphurs
 sultan
 sultana
+sultanas
 sultanate
 sultanates
 sultaness
@@ -84360,6 +84393,7 @@ suspicions
 suspicious
 suspiciousness
 suspiration
+suspirations
 suspired
 suspires
 suss
@@ -91551,6 +91585,7 @@ unlink
 unlinking
 unlinks
 unlisted
+unliterary
 unlivable
 unlived
 unlively
