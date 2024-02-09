@@ -709,6 +709,7 @@ adducent
 adducer
 adduces
 adducible
+adducing
 adducting
 adductions
 adducts
@@ -1198,6 +1199,7 @@ affirmatives
 affirmed
 affirmer
 affirmers
+affirming
 affirms
 affix
 affixable
@@ -2957,6 +2959,7 @@ anisogamous
 anisotropies
 anisotropy
 ankerites
+ankh
 ankhs
 anklebone
 anklebones
@@ -3214,6 +3217,7 @@ antiasthma
 antiauxin
 antiauxins
 antibacklash
+antibacterial
 antibacterials
 antibias
 antibiotic
@@ -3241,6 +3245,7 @@ antichoicer
 anticholesterol
 anticipatable
 anticipations
+anticipator
 anticipators
 anticity
 antick
@@ -4638,6 +4643,7 @@ askant
 asked
 asker
 askers
+askew
 askewnesses
 askings
 askoi
@@ -15509,6 +15515,7 @@ cochleate
 cocineras
 cockaded
 cockalorum
+cockalorums
 cockamamie
 cockatrices
 cockbill
@@ -27595,6 +27602,7 @@ engining
 enginous
 engirded
 engirding
+engirdle
 engirt
 englacial
 english
@@ -31442,6 +31450,7 @@ fioratura
 fioraturae
 fiord
 fiords
+fipples
 fique
 fiques
 fireable
@@ -32305,6 +32314,7 @@ fluxional
 fluxions
 fluyt
 fluyts
+flyaway
 flyaways
 flybelt
 flyblew
@@ -34067,6 +34077,7 @@ galleins
 galleon
 galleons
 galleria
+gallerias
 galleries
 galleta
 galletas
@@ -34987,6 +34998,7 @@ ghiblis
 ghostier
 ghosting
 ghostlier
+ghostliness
 ghostly
 ghosts
 ghostwrite
@@ -36024,6 +36036,7 @@ graal
 grab
 grabbable
 grabbers
+grabbier
 grabbing
 grabble
 grabbled
@@ -43963,6 +43976,7 @@ ionium
 ioniums
 ionizable
 ionize
+ionized
 ionizing
 ionogenic
 ionogens
@@ -51126,6 +51140,7 @@ mestizas
 mestizo
 mestizoes
 mestizos
+mestranols
 met
 meta
 metabolic
@@ -52934,6 +52949,7 @@ modulations
 modulator
 modulators
 modulatory
+modules
 moduli
 modulo
 modulus
@@ -54408,6 +54424,7 @@ myceles
 mycelia
 myceloid
 mycetomas
+mycetomata
 mycetomatous
 mycetophagous
 mycetozoan
@@ -55420,6 +55437,7 @@ nibble
 nibbled
 nibbler
 nibbles
+nibbling
 niblicks
 niblike
 nicad
@@ -56763,6 +56781,7 @@ notifier
 notifiers
 notify
 notifying
+noting
 notion
 notional
 notionalities
@@ -57834,6 +57853,7 @@ onychophoran
 onychophorans
 onyxes
 oocyst
+oocysts
 oocyte
 oocytes
 oogamy
@@ -60070,6 +60090,7 @@ oversubtle
 oversuds
 oversudsed
 oversup
+oversupped
 oversupping
 oversupplied
 oversupplies
@@ -61152,6 +61173,7 @@ parenthesize
 parenthesized
 parenthesizes
 parenthetic
+parenthetical
 parenting
 parentless
 parents
@@ -62575,6 +62597,7 @@ personalist
 personalistic
 personalists
 personalities
+personality
 personalized
 personalizes
 personalizing
@@ -69241,6 +69264,7 @@ raisable
 raiseable
 raisers
 raisin
+raising
 raisings
 raisins
 raisonne
@@ -69924,6 +69948,7 @@ rebegun
 rebel
 rebeldom
 rebeldoms
+rebelled
 rebellion
 rebelliousness
 rebels
@@ -70649,6 +70674,7 @@ redon
 redone
 redons
 redos
+redoubler
 redoublers
 redoubt
 redoubtably
@@ -72774,6 +72800,7 @@ restationing
 restauranteur
 restauranteurs
 restaurateur
+rester
 resters
 restful
 restfully
@@ -73643,6 +73670,7 @@ rictal
 rictuses
 riddance
 riddances
+ridded
 ridden
 ridding
 riddle
@@ -76617,6 +76645,7 @@ seborrheas
 seborrheic
 sebum
 sebums
+secaloses
 secantly
 secants
 secateur
@@ -78257,6 +78286,7 @@ shotts
 should
 shouldered
 shouldering
+shoulders
 shouldest
 shout
 shouted
@@ -79235,6 +79265,7 @@ skywriting
 skywritings
 skywritten
 slab
+slabbed
 slabbered
 slabbering
 slabbers
@@ -81104,6 +81135,7 @@ speculative
 speculatively
 speculator
 speculum
+speculums
 speech
 speeches
 speechified
@@ -82135,6 +82167,7 @@ starkness
 starlights
 starlike
 starling
+starred
 starriest
 starring
 starry
@@ -83040,6 +83073,7 @@ streetlight
 streetlights
 streetscapes
 strength
+strengthen
 strengthened
 strengthener
 strengtheners
@@ -95508,6 +95542,7 @@ waterborne
 waterbuck
 waterbucks
 waterbuses
+watercolor
 watercolorist
 watercooler
 watercourse
