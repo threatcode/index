@@ -795,6 +795,7 @@ adjustors
 adjusts
 adjutancies
 adjutant
+adjuvant
 adman
 admeasure
 admeasured
@@ -1340,6 +1341,7 @@ agenes
 agenesia
 agenesis
 agenetic
+agenize
 agenized
 agenizes
 agented
@@ -4531,6 +4533,7 @@ artsiness
 artsinesses
 artsy
 artworks
+arty
 arugola
 arugolas
 arugulas
@@ -6955,6 +6958,7 @@ becowards
 becrawled
 becrawls
 becrime
+becrimed
 becrowd
 becrowds
 becrusted
@@ -10299,6 +10303,7 @@ brolly
 bromate
 bromated
 brome
+bromegrass
 bromelain
 bromeliad
 bromeliads
@@ -10992,6 +10997,7 @@ bushrangings
 bushtit
 bushtits
 bushveld
+bushwah
 bushwas
 bushwhack
 bushwhacking
@@ -14351,6 +14357,7 @@ chrysarobins
 chrysoberyl
 chrysoberyls
 chrysolite
+chrysolites
 chrysomelids
 chrysophytes
 chrysoprase
@@ -22350,6 +22357,7 @@ desolates
 desolations
 desolators
 desorb
+desorbed
 desorbing
 desorbs
 desorption
@@ -24138,6 +24146,7 @@ dispraising
 dispreads
 disprizes
 disproofs
+disproportion
 disproportioned
 disproved
 disprovers
@@ -25945,6 +25954,7 @@ dynamic
 dynamically
 dynamics
 dynamism
+dynamist
 dynamists
 dynamited
 dynamiters
@@ -26675,6 +26685,7 @@ electrotyped
 electrotyper
 electrotypes
 electrotyping
+electrowinnings
 electrum
 electrums
 elects
@@ -30572,6 +30583,7 @@ favorer
 favorers
 favorites
 favoritism
+favors
 favourer
 favourers
 favouring
@@ -31602,6 +31614,7 @@ flaccidities
 flaccidly
 flack
 flackeries
+flackery
 flacking
 flacks
 flacons
@@ -35573,6 +35586,7 @@ gnattier
 gnattiest
 gnaw
 gnawable
+gnawed
 gnawing
 gnawn
 gnaws
@@ -38343,6 +38357,7 @@ hellgrammite
 hellgrammites
 hellhound
 hellhounds
+hellish
 hellishly
 hellishnesses
 hello
@@ -42418,6 +42433,7 @@ inflexibilities
 inflexible
 inflexibleness
 inflexibly
+inflexion
 inflexions
 inflict
 inflicted
@@ -47452,6 +47468,7 @@ licencees
 licencers
 licencing
 licensable
+licenses
 licensing
 licensor
 licentiate
@@ -49784,6 +49801,7 @@ maranta
 maras
 marascas
 maraschinos
+marasmic
 marasmoid
 marasmuses
 marathon
@@ -52391,6 +52409,7 @@ misled
 mislie
 mislies
 mislighting
+misliked
 mislikers
 mislikes
 misliking
@@ -54564,6 +54583,7 @@ nakeder
 nakedly
 nakedness
 nakednesses
+nakfas
 naled
 nalorphine
 nalorphines
@@ -57459,6 +57479,7 @@ officiary
 officiates
 officiating
 officiation
+officinal
 officinals
 officious
 offing
@@ -60222,6 +60243,7 @@ oxycodones
 oxygenase
 oxygenates
 oxygenation
+oxygenations
 oxygenator
 oxygens
 oxyhemoglobin
@@ -60348,6 +60370,7 @@ paddle
 paddleball
 paddleballs
 paddleboard
+paddleboat
 paddleboats
 paddled
 paddlefishes
@@ -61463,6 +61486,7 @@ patios
 patisserie
 patisseries
 patois
+patresfamilias
 patriarchates
 patriarchies
 patriarchs
@@ -62845,6 +62869,7 @@ philistines
 philistinism
 philistinisms
 phillumenists
+philodendrons
 philogyny
 philological
 philologically
@@ -66051,6 +66076,7 @@ prelusive
 prelusively
 prelusory
 premade
+preman
 premanufactures
 premarketed
 premarkets
@@ -70526,6 +70552,7 @@ redivide
 redivided
 redivides
 redivision
+redivivus
 redlegs
 redlined
 redliner
@@ -73315,6 +73342,7 @@ rewrapping
 rewriter
 rewrites
 rewritten
+rezeroes
 rezeroing
 rezeros
 rezoned
@@ -74328,6 +74356,7 @@ rowths
 royalism
 royalisms
 royalist
+royalists
 royally
 royalmast
 royalty
@@ -79194,6 +79223,7 @@ slatch
 slate
 slated
 slater
+slatey
 slathered
 slathering
 slathers
@@ -82807,6 +82837,7 @@ straitjacketing
 straitlacedness
 straitness
 straitnesses
+strake
 straked
 strakes
 stramashes
@@ -88766,6 +88797,7 @@ trailerites
 trailing
 trailless
 trailside
+train
 trainabilities
 trainability
 trainbands
@@ -91419,6 +91451,7 @@ understaffing
 understaffings
 understand
 understandable
+understanding
 understandings
 understated
 understatement
@@ -95066,6 +95099,7 @@ wakeboardings
 waked
 wakeful
 wakefulness
+wakeless
 waken
 wakeners
 wakening
@@ -95688,6 +95722,7 @@ weigh
 weighable
 weighed
 weigher
+weighman
 weight
 weighted
 weightiest
