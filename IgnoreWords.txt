@@ -736,6 +736,7 @@ adherent
 adherers
 adhesional
 adhesions
+adhesivenesses
 adhesives
 adhibited
 adhibiting
@@ -7061,6 +7062,7 @@ beebread
 beebreads
 beechier
 beechnuts
+beechwood
 beechy
 beedi
 beedies
@@ -7686,6 +7688,7 @@ betroths
 betta
 bettas
 better
+bettering
 betterment
 betterments
 betters
@@ -12257,6 +12260,7 @@ caribes
 caribou
 caribous
 caricatural
+caricature
 caricaturing
 caried
 carillonned
@@ -14772,6 +14776,7 @@ clarions
 clarkia
 claroes
 claros
+clary
 clash
 clashers
 clashes
@@ -16981,6 +16986,7 @@ conglomerates
 conglomerateur
 conglomerateurs
 conglomerating
+conglomeration
 conglomerations
 conglutinates
 conglutinations
@@ -27209,6 +27215,7 @@ encyclicals
 encyclics
 encyclopaedia
 encyclopaedic
+encyclopedia
 encyclopedic
 encyst
 encysted
@@ -30887,6 +30894,7 @@ feudists
 feuilletonism
 feuilletonisms
 feuilletonist
+feuilletonists
 feuilletons
 fever
 feverish
@@ -33357,6 +33365,7 @@ fruitlike
 fruitwoods
 frumenty
 frump
+frumpier
 frumpiest
 frumps
 frustrated
@@ -35941,6 +35950,7 @@ grandfathers
 grandiflora
 grandiloquence
 grandiosely
+grandiosities
 grandkid
 grandmas
 grandmotherly
@@ -39843,6 +39853,7 @@ humoring
 humorists
 humorless
 humorlessly
+humorously
 humors
 humours
 hump
@@ -40096,6 +40107,7 @@ hydroponically
 hydrops
 hydropses
 hydropsies
+hydroquinone
 hydroseres
 hydroski
 hydroskis
@@ -40622,6 +40634,7 @@ idiotisms
 idiotype
 idiotypic
 idle
+idled
 idleness
 idlenesses
 idler
@@ -40930,6 +40943,7 @@ immolated
 immolating
 immolation
 immoralisms
+immoralist
 immoralists
 immoralities
 immorality
@@ -42705,6 +42719,7 @@ inspiritingly
 inspirits
 inspissate
 inspissates
+inspissating
 inspissation
 inspissations
 inspissator
@@ -45284,6 +45299,7 @@ keystroking
 khaddar
 khaddars
 khadi
+khadis
 khaki
 khakis
 khalifas
@@ -48937,6 +48953,7 @@ madhouse
 madman
 madness
 madnesses
+madonna
 madrasa
 madrasah
 madrasahs
@@ -50490,6 +50507,7 @@ melongene
 melons
 melphalan
 melphalans
+mels
 melt
 meltabilities
 meltdown
@@ -51346,6 +51364,7 @@ middleman
 middlemen
 middler
 middles
+middleweights
 midfielders
 midfields
 midges
@@ -57883,6 +57902,7 @@ orgiasts
 orgic
 orgulous
 oriels
+orient
 oriental
 orientalisms
 orientalists
@@ -68349,6 +68369,7 @@ queenliness
 queenlinesses
 queenly
 queenship
+queenships
 queenside
 queensides
 queerer
@@ -68454,6 +68475,7 @@ quinacrine
 quinaries
 quinary
 quince
+quincentenary
 quincentennial
 quinces
 quincunxial
@@ -69584,6 +69606,7 @@ rebukes
 rebuking
 reburies
 rebury
+rebus
 rebuts
 rebuttable
 rebuttal
@@ -70491,6 +70514,7 @@ refed
 refeed
 refeeding
 refeeds
+refeels
 refell
 refelled
 refels
@@ -71819,6 +71843,7 @@ repressor
 repressors
 repressurize
 repressurizing
+reprices
 reprieval
 reprieve
 reprieving
@@ -72477,6 +72502,7 @@ resyntheses
 resynthesized
 resystematize
 resystematized
+resystematizes
 ret
 retack
 retacked
@@ -77895,6 +77921,7 @@ shrimp
 shrimper
 shrimpers
 shrimping
+shrining
 shrink
 shrinkable
 shrinkages
@@ -79329,6 +79356,7 @@ smokestacks
 smokier
 smokiest
 smokily
+smokiness
 smokinesses
 smoky
 smoldering
@@ -79411,6 +79439,7 @@ snakier
 snakily
 snakiness
 snakinesses
+snapback
 snapdragons
 snapless
 snapped
@@ -80408,6 +80437,7 @@ spadilles
 spading
 spado
 spaed
+spaeings
 spaetzle
 spaetzles
 spaghetti
@@ -82566,6 +82596,7 @@ streels
 street
 streetcars
 streetlight
+streetlights
 streetscapes
 strength
 strengthened
@@ -86944,6 +86975,7 @@ thionins
 thiopental
 thiopentals
 thiophen
+thiophene
 thiophenes
 thiophens
 thiosulfates
@@ -87960,6 +87992,7 @@ toploftily
 toploftiness
 toploftinesses
 toplofty
+topmast
 topmasts
 topminnows
 topmost
@@ -92759,6 +92792,7 @@ uranitic
 uranium
 uraniums
 uranography
+uranologies
 uranous
 uranyl
 uranyls
@@ -92884,6 +92918,7 @@ usably
 usage
 usages
 usance
+usances
 usaunces
 use
 useably
