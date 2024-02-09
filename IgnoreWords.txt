@@ -2079,6 +2079,7 @@ aloft
 alogically
 aloha
 aloin
+alone
 alonenesses
 aloof
 aloofly
@@ -7004,6 +7005,7 @@ bedraggling
 bedrape
 bedraped
 bedrapes
+bedrench
 bedrenched
 bedrenches
 bedrenching
@@ -8534,6 +8536,7 @@ blastema
 blastemal
 blastemas
 blastematic
+blaster
 blastie
 blastier
 blastings
@@ -9926,6 +9929,7 @@ braza
 braze
 brazed
 brazen
+brazened
 brazening
 brazers
 brazes
@@ -19792,6 +19796,7 @@ curtilages
 curtness
 curtsey
 curtseying
+curtsied
 curtsying
 curvaceous
 curvature
@@ -20613,6 +20618,7 @@ deafness
 deafnesses
 deaired
 deairing
+deairs
 dealated
 dealates
 dealation
@@ -22776,6 +22782,7 @@ diaphonies
 diaphony
 diaphorase
 diaphorases
+diaphoresis
 diaphoretic
 diaphragm
 diaphragms
@@ -28896,6 +28903,7 @@ everyman
 everymen
 everyone
 everyplace
+everything
 everyway
 everywomen
 evict
@@ -30528,6 +30536,7 @@ federalist
 federalists
 federalization
 federalizations
+federalized
 federally
 federate
 federates
@@ -32911,6 +32920,7 @@ franker
 frankers
 frankest
 frankfurt
+frankfurts
 frankincense
 franking
 franklin
@@ -33218,6 +33228,7 @@ froggiest
 frogging
 froggy
 froghopper
+froghoppers
 froglets
 frogmarch
 frogmarched
@@ -35715,6 +35726,7 @@ gosh
 goshawk
 goslings
 gospel
+gospeler
 gospeller
 gospellers
 gospels
@@ -38968,6 +38980,7 @@ hogsheads
 hogtied
 hogtieing
 hogties
+hogtying
 hogwash
 hogwashes
 hogweed
@@ -43409,6 +43422,7 @@ intravital
 intravitam
 intreating
 intreats
+intrench
 intrenched
 intrepidities
 intrepidity
@@ -47877,6 +47891,7 @@ loamy
 loanable
 loaned
 loaner
+loaners
 loanshift
 loath
 loather
@@ -48090,6 +48105,7 @@ logrolled
 logrollers
 logrolls
 logway
+logways
 logwoods
 logy
 loid
@@ -57656,6 +57672,7 @@ oppugn
 oppugnant
 oppugned
 oppugning
+oppugns
 opsin
 opsonic
 opsonifies
@@ -66249,6 +66266,7 @@ pricklinesses
 prickly
 pricy
 prideful
+pridefully
 pridefulness
 prides
 priding
@@ -66968,6 +66986,7 @@ proselytizers
 proselytizing
 proseminar
 prosencephalon
+proser
 prosier
 prosiest
 prosily
@@ -67175,6 +67194,7 @@ proverb
 proverbed
 proverbial
 proverbing
+provers
 provided
 providence
 provident
@@ -67919,6 +67939,7 @@ putrid
 putridities
 putridly
 putsches
+putschists
 puttees
 putter
 puttered
@@ -69799,6 +69820,7 @@ recommissioning
 recommissions
 recommitment
 recommittals
+recommitted
 recompenses
 recompensing
 recompilations
@@ -71230,6 +71252,7 @@ reluctated
 reluctates
 reluctating
 reluctation
+relucted
 relucts
 relume
 relumed
@@ -71503,6 +71526,7 @@ reoccurrences
 reoccurring
 reoccurs
 reoffered
+reoffers
 reoil
 reoiled
 reoils
@@ -73419,6 +73443,7 @@ riskers
 riskier
 riskily
 riskiness
+riskinesses
 risking
 riskless
 risks
@@ -73852,6 +73877,7 @@ rotundities
 rotundity
 rotundly
 roturiers
+rouble
 roubles
 rouche
 rouches
@@ -79796,6 +79822,7 @@ solanines
 solanins
 solano
 solarise
+solarising
 solarisms
 solarium
 solariums
@@ -80309,6 +80336,7 @@ sown
 sox
 soy
 soyas
+soymilk
 soymilks
 soyuz
 soyuzes
@@ -83705,6 +83733,7 @@ sultrier
 sultriness
 sultrinesses
 sulu
+sulus
 sum
 sumac
 sumach
@@ -84430,6 +84459,7 @@ suspired
 suspires
 suss
 susses
+sustain
 sustainability
 sustained
 sustainedly
@@ -85104,6 +85134,7 @@ tablemates
 tables
 tablespoon
 tablespoonful
+tablespoonsful
 tablet
 tableted
 tableting
@@ -90312,6 +90343,7 @@ unanimous
 unanimously
 unannotated
 unannounced
+unanswerably
 unanswered
 unapologetic
 unapologizing
@@ -93125,6 +93157,7 @@ vaporising
 vaporizable
 vaporized
 vaporizer
+vaporizes
 vaporizing
 vaporless
 vaporously
@@ -96028,6 +96061,7 @@ wirinesses
 wirings
 wirra
 wis
+wise
 wiseacres
 wiseasses
 wisecrack
@@ -96700,6 +96734,7 @@ yachtings
 yachtmen
 yachts
 yachtsman
+yachtsmen
 yack
 yacking
 yacks
