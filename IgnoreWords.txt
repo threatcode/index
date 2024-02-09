@@ -790,6 +790,7 @@ adjustments
 adjustors
 adjusts
 adjutancies
+adjutant
 adman
 admeasure
 admeasured
@@ -2090,6 +2091,7 @@ alone
 alonenesses
 aloof
 aloofly
+aloofness
 aloofnesses
 alopecic
 alpaca
@@ -11881,6 +11883,7 @@ canto
 canton
 cantoning
 cantonments
+cantorial
 cantraip
 cantraips
 cantrip
@@ -14030,6 +14033,7 @@ chivalrous
 chivalrously
 chivalry
 chivareed
+chivareeing
 chivarees
 chivaried
 chivaries
@@ -18078,6 +18082,7 @@ corrects
 correlatable
 correlate
 correlated
+correlation
 correlational
 correlations
 correlative
@@ -18161,6 +18166,7 @@ coruscates
 coruscating
 coruscation
 coruscations
+corvee
 corves
 corvette
 corvina
@@ -19647,6 +19653,7 @@ cultivabilities
 cultivability
 cultivable
 cultivate
+cultivated
 cultivating
 cultivation
 cultivator
@@ -31583,6 +31590,7 @@ flagpole
 flagrance
 flagrances
 flagrancies
+flagrancy
 flagrant
 flagrantly
 flagship
@@ -32642,6 +32650,7 @@ forest
 forestalled
 forestalls
 forestation
+forestaysail
 forester
 foresting
 forestland
@@ -33586,6 +33595,7 @@ functionalistic
 functionalists
 functionality
 functionally
+functioning
 functionless
 functions
 functor
@@ -35782,6 +35792,7 @@ goosefishes
 goosefoot
 goosefoots
 goosegrasses
+gooseherds
 gooseneck
 goosenecked
 goosiest
@@ -38280,6 +38291,7 @@ hellgrammites
 hellhound
 hellhounds
 hellishly
+hellishnesses
 hello
 helloed
 helloes
@@ -40471,6 +40483,7 @@ hypocausts
 hypocenters
 hypocentral
 hypochlorite
+hypochondria
 hypocoristic
 hypocoristical
 hypocotyl
@@ -42636,6 +42649,7 @@ innuendos
 innumerable
 innumerably
 innumeracies
+innumerate
 inobservance
 inobservant
 inocula
@@ -47297,6 +47311,7 @@ lez
 lezzies
 liability
 liable
+liaised
 liaises
 liaison
 liaisons
@@ -47612,6 +47627,7 @@ limner
 limnetic
 limnic
 limning
+limnological
 limnologies
 limnology
 limo
@@ -52111,6 +52127,7 @@ miscooked
 miscopy
 miscopying
 miscount
+miscounting
 miscreant
 miscreants
 miscreate
@@ -52337,6 +52354,7 @@ mismoved
 mismoves
 mismoving
 misname
+misnomer
 misnomers
 misnumber
 misnumbered
@@ -55676,6 +55694,7 @@ nonastronomical
 nonathlete
 nonathletes
 nonathletic
+nonatomic
 nonattendances
 nonattenders
 nonauthor
@@ -55959,6 +55978,7 @@ nonfactors
 nonfacts
 nonfactual
 nonfaculty
+nonfading
 nonfamilial
 nonfamilies
 nonfans
@@ -57627,6 +57647,7 @@ onion
 onions
 oniony
 onium
+onlay
 onlays
 online
 onloads
@@ -65810,6 +65831,7 @@ prefects
 prefectural
 prefecture
 prefer
+preferabilities
 preference
 preferences
 preferential
@@ -65970,6 +65992,7 @@ premiered
 premiering
 premierships
 premigration
+premillenarian
 premise
 premises
 premisses
@@ -66255,6 +66278,7 @@ pressgang
 pressing
 pressingly
 pressman
+pressmark
 pressmarks
 pressrun
 pressruns
@@ -66349,6 +66373,7 @@ pretreat
 pretreated
 pretreatments
 pretreats
+pretrial
 pretrim
 prettied
 prettier
@@ -75140,6 +75165,7 @@ saprobic
 saprogenicities
 saprogenicity
 saprolite
+saprolites
 sapropels
 saprophagous
 saprophyte
@@ -77465,6 +77491,7 @@ shanghaied
 shanghaiers
 shanghaiing
 shanghais
+shank
 shanking
 shankpiece
 shanks
@@ -80870,6 +80897,7 @@ speedier
 speediness
 speedinesses
 speedings
+speedometer
 speedos
 speedread
 speedreading
@@ -82653,6 +82681,7 @@ straightlaced
 straightly
 straightnesses
 straights
+straightway
 strained
 strainer
 strait
@@ -84142,6 +84171,7 @@ superbest
 superblock
 superblocks
 superbly
+superbness
 superbnesses
 superboard
 superbomb
@@ -85620,6 +85650,7 @@ talismanic
 talismans
 talk
 talkable
+talkative
 talkativenesses
 talkbacks
 talkers
@@ -87244,6 +87275,7 @@ thoroughfares
 thoroughgoing
 thoroughly
 thoroughness
+thoroughnesses
 thoroughpins
 thoroughwort
 thorpes
@@ -87267,6 +87299,7 @@ thousandths
 thowless
 thraldom
 thralldom
+thralled
 thralling
 thralls
 thrash
@@ -90099,6 +90132,7 @@ twanger
 twangers
 twangiest
 twanging
+twangle
 twangled
 twangler
 twanglers
@@ -96932,6 +96966,7 @@ xenias
 xenobiotics
 xenocryst
 xenocrysts
+xenodiagnoses
 xenodiagnosis
 xenodiagnostic
 xenogeneic
