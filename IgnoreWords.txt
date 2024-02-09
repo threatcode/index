@@ -2407,6 +2407,7 @@ ammonia
 ammoniacs
 ammoniating
 ammoniation
+ammoniations
 ammonic
 ammonifies
 ammonites
@@ -2569,6 +2570,7 @@ amyloplast
 amylopsin
 amylopsins
 amylose
+amyloses
 amyotonias
 an
 ana
@@ -4763,6 +4765,7 @@ assignat
 assignation
 assignations
 assignats
+assigned
 assignee
 assignees
 assigner
@@ -5061,6 +5064,7 @@ attaints
 attars
 attemper
 attempered
+attempers
 attemptable
 attempter
 attempters
@@ -6780,6 +6784,7 @@ bawds
 bawl
 bawls
 bawtie
+bayamo
 bayard
 bayberries
 bayberry
@@ -7609,6 +7614,7 @@ beshroud
 beshrouded
 beshrouding
 beshrouds
+besides
 besiege
 besieges
 besieging
@@ -10766,6 +10772,7 @@ bumelia
 bumelias
 bumf
 bumfs
+bumfuzzle
 bumfuzzling
 bumkins
 bummalo
@@ -16041,6 +16048,7 @@ colloidally
 colloids
 collop
 colloquial
+colloquialisms
 colloquially
 colloquials
 colloquies
@@ -17873,6 +17881,7 @@ copurified
 copurifying
 copybook
 copyboy
+copycat
 copycats
 copycatted
 copycatting
@@ -20240,6 +20249,7 @@ cytophotometry
 cytoplasmic
 cytoplasmically
 cytoplasms
+cytosine
 cytosines
 cytoskeletal
 cytoskeletons
@@ -23556,6 +23566,7 @@ disaffiliation
 disaffirmance
 disaffirmances
 disaffirmed
+disaffirms
 disaggregate
 disaggregated
 disaggregations
@@ -27480,6 +27491,7 @@ endosymbionts
 endosymbioses
 endosymbiotic
 endothecia
+endothelioma
 endothelium
 endotoxic
 endotoxin
@@ -31207,6 +31219,7 @@ fieriest
 fierinesses
 fiery
 fiesta
+fife
 fifes
 fifing
 fifteen
@@ -36036,6 +36049,7 @@ gradable
 gradate
 gradates
 gradating
+gradation
 gradational
 gradationally
 gradations
@@ -37390,6 +37404,7 @@ halitus
 halituses
 hallah
 hallahs
+hallal
 hallelujah
 hallelujahs
 halliard
@@ -42438,6 +42453,7 @@ infix
 infixations
 infixed
 infixes
+infixions
 inflame
 inflamer
 inflaming
@@ -48531,6 +48547,7 @@ lordlike
 lordlings
 lordoma
 lordomas
+lordoses
 lordotic
 lords
 lordship
@@ -55761,6 +55778,7 @@ nomos
 nomothetic
 nona
 nonabrasive
+nonabsorbable
 nonabsorbent
 nonabsorptive
 nonabstract
@@ -57608,6 +57626,7 @@ okapi
 okapis
 okayed
 okaying
+oke
 okehs
 okes
 okeydoke
@@ -60336,6 +60355,7 @@ ozonized
 ozonizer
 ozonosphere
 ozonospheres
+ozonous
 pa
 pablum
 pablums
@@ -60519,6 +60539,7 @@ pajamaed
 pajamas
 pakora
 pal
+palace
 palaced
 palaestra
 palaestrae
@@ -63695,6 +63716,7 @@ pinnule
 pinny
 pinocles
 pinocytic
+pinocytoses
 pinocytotically
 pinones
 pinpoint
@@ -68427,6 +68449,7 @@ pyrogallol
 pyrogallols
 pyrogen
 pyrogenic
+pyrogenicity
 pyrogens
 pyrola
 pyrolized
@@ -68992,6 +69015,7 @@ racers
 racetracker
 racetrackers
 racetracks
+racewalk
 racewalked
 racewalkers
 racewalkings
@@ -69206,6 +69230,7 @@ rainspout
 rainsquall
 rainsqualls
 rainstorm
+rainwash
 rainwashed
 rainwashes
 rainwashing
@@ -71369,6 +71394,7 @@ reink
 reinked
 reinless
 reinnervate
+reinnervating
 reinnervations
 reinoculated
 reinoculates
@@ -74564,6 +74590,7 @@ ruminators
 rummage
 rummager
 rummages
+rummers
 rummier
 rummies
 rummy
@@ -81210,6 +81237,7 @@ sphygmus
 sphynx
 sphynxes
 spicae
+spicate
 spicated
 spicebushes
 spiceless
@@ -86532,6 +86560,7 @@ telepathy
 telephonically
 telephoning
 telephonist
+telephonists
 telephotography
 telephotos
 teleport
@@ -91662,6 +91691,7 @@ unearthly
 unearths
 uneases
 uneasier
+uneasinesses
 uneasy
 uneaten
 uneccentric
@@ -93763,6 +93793,7 @@ varoom
 varooming
 vars
 varsities
+varsity
 varus
 varuses
 varved
@@ -93778,6 +93809,7 @@ vasculitides
 vasculum
 vasculums
 vase
+vasectomize
 vasectomized
 vasectomizes
 vasectomy
@@ -94151,6 +94183,7 @@ vernissages
 vernix
 vernixes
 verruca
+verrucae
 verrucose
 verrucous
 versal
@@ -94448,6 +94481,7 @@ vilifies
 vilifying
 vilipends
 villadom
+villager
 villagers
 villagery
 villainous
@@ -97248,6 +97282,7 @@ xerothermic
 xerotic
 xerox
 xeroxes
+xeroxing
 xerus
 xeruses
 xiphisterna
