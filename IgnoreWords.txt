@@ -1762,6 +1762,7 @@ ale
 aleatoric
 aleatory
 alec
+alee
 alegars
 alehouse
 alehouses
@@ -5260,6 +5261,7 @@ aurorean
 aurum
 auscultate
 auscultated
+auscultates
 auscultating
 auscultation
 auscultations
@@ -5484,6 +5486,7 @@ availablenesses
 availed
 availing
 avalanches
+avalanching
 avarice
 avaricious
 avariciously
@@ -7838,6 +7841,7 @@ bible
 bibless
 biblical
 biblicist
+biblicists
 biblike
 bibliographer
 bibliographic
@@ -7854,6 +7858,7 @@ bibliophile
 bibliophiles
 bibliophilic
 bibliophilies
+bibliophilisms
 bibliopolist
 bibliopolists
 bibliothecae
@@ -8269,6 +8274,7 @@ biotechs
 biotelemetries
 bioterrors
 biotic
+biotical
 biotin
 biotins
 biotope
@@ -11815,6 +11821,7 @@ cannelon
 canner
 canneries
 canners
+cannery
 cannibal
 cannibalise
 cannibalises
@@ -13011,6 +13018,7 @@ cellulase
 cellule
 cellulitises
 celluloid
+cellulolytic
 cellulosics
 celom
 celomata
@@ -14128,6 +14136,7 @@ chocolate
 chocolates
 chocolatier
 chocolatiers
+choicenesses
 choirboy
 choired
 choirgirl
@@ -18534,6 +18543,7 @@ counters
 countershading
 countershadings
 countershot
+countersign
 countersigning
 countersink
 countersinking
@@ -20639,6 +20649,7 @@ daydreamed
 daydreamer
 daydreams
 daydreamt
+dayflies
 dayfly
 dayglows
 daylights
@@ -30685,6 +30696,7 @@ feculent
 fecund
 fecundate
 fecundating
+fecundations
 fecundities
 fed
 federacies
@@ -30833,6 +30845,7 @@ femora
 femoral
 fems
 femtosecond
+femtoseconds
 femurs
 fen
 fenagle
@@ -31852,6 +31865,7 @@ flayed
 flayer
 flaying
 flays
+fleabane
 fleabanes
 fleabite
 fleabites
@@ -32113,6 +32127,7 @@ flossed
 flossier
 flossies
 flossing
+flossy
 flota
 flotage
 flotillas
@@ -34544,6 +34559,7 @@ gearchange
 geared
 gearheads
 gearings
+gears
 gearshifts
 gearwheel
 gearwheels
@@ -39680,6 +39696,7 @@ horrors
 horse
 horsebacks
 horsebean
+horsed
 horsefleshes
 horseflies
 horsehair
@@ -40675,6 +40692,7 @@ iambus
 iatrical
 iatrogenic
 iatrogenically
+ibices
 ibidem
 ibises
 ibogaine
@@ -49988,6 +50006,7 @@ marrieds
 marriers
 marrow
 marrowbone
+marrowed
 marrowfat
 marrows
 marry
@@ -57766,6 +57785,7 @@ onlooking
 only
 onomastic
 onomastically
+onomastician
 onomasticians
 onomatologies
 onomatology
@@ -60072,6 +60092,7 @@ overtiming
 overtip
 overtipped
 overtiring
+overtly
 overtness
 overtnesses
 overtoiled
@@ -60251,6 +60272,7 @@ oximeter
 oximeters
 oximetries
 oximetry
+oxlike
 oxlip
 oxlips
 oxtail
@@ -72861,6 +72883,7 @@ retaking
 retaliated
 retaliation
 retaliative
+retaliatory
 retallies
 retallying
 retapes
@@ -73571,6 +73594,7 @@ ricin
 ricins
 ricinus
 ricinuses
+ricked
 ricketier
 ricketiest
 rickets
@@ -75763,6 +75787,7 @@ scarpers
 scarph
 scarphed
 scarphing
+scarphs
 scarping
 scarps
 scarrier
@@ -80636,6 +80661,7 @@ sottishnesses
 sou
 souaris
 soubise
+soubises
 soubrettes
 soubriquets
 soucar
@@ -81056,6 +81082,7 @@ speeches
 speechified
 speechifies
 speechify
+speechifying
 speechlessness
 speechwriter
 speechwriters
@@ -82521,6 +82548,7 @@ stilbestrol
 stilbite
 stilbites
 stilettoes
+stilettoing
 still
 stillbirth
 stillborns
@@ -83342,6 +83370,7 @@ stymying
 styrax
 styraxes
 styrenes
+styrofoams
 suably
 suasive
 suasively
@@ -84357,6 +84386,7 @@ superbright
 supercabinets
 supercalendered
 supercar
+supercargoes
 supercargos
 supercarriers
 supercars
@@ -85245,6 +85275,7 @@ sybaritically
 sybaritism
 sybo
 syboes
+sycamines
 sycamores
 syce
 sycee
@@ -85941,6 +85972,7 @@ tangibleness
 tangibly
 tangiest
 tanginess
+tanginesses
 tanging
 tangle
 tanglement
@@ -94054,6 +94086,7 @@ verdict
 verdin
 verdins
 verditer
+verdured
 verdures
 verge
 vergence
@@ -94521,6 +94554,7 @@ vireo
 vireonine
 vireos
 vires
+virescence
 virescences
 virescent
 virga
@@ -95728,6 +95762,7 @@ weekenders
 weekends
 weeknights
 weeks
+weened
 weenies
 weening
 weens
