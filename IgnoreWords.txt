@@ -1753,6 +1753,7 @@ alencon
 alert
 alertly
 alertness
+alertnesses
 aleuron
 aleurone
 aleuronic
@@ -3078,6 +3079,7 @@ antecedents
 anteceding
 antecessor
 antechambers
+antechapels
 antechoir
 anted
 antedate
@@ -4331,6 +4333,7 @@ aromatherapists
 aromatic
 aromaticity
 aromatics
+aromatization
 aromatizations
 aromatized
 aromatizes
@@ -6168,6 +6171,7 @@ bamboozling
 bams
 banalities
 banalizes
+banally
 bananas
 banco
 band
@@ -9417,6 +9421,7 @@ bornites
 bornitic
 borohydride
 borohydrides
+boron
 borons
 borosilicates
 borough
@@ -30970,6 +30975,7 @@ fielding
 fieldpiece
 fields
 fieldsman
+fieldsmen
 fieldstone
 fieldstones
 fieldstrip
@@ -34765,6 +34771,7 @@ gibbsite
 gibbsites
 gibe
 gibed
+giber
 gibers
 gibing
 gibingly
@@ -39064,6 +39071,7 @@ homeopaths
 homeopathy
 homeostases
 homeostatic
+homeotherm
 homeothermies
 homeotherms
 homeowner
@@ -39071,6 +39079,7 @@ homepages
 homeplaces
 homeported
 homeporting
+homeports
 homer
 homering
 homerooms
@@ -40559,6 +40568,7 @@ idler
 idles
 idlesses
 idly
+idocrases
 idol
 idolator
 idolatries
@@ -42446,6 +42456,7 @@ innovatively
 innovator
 inns
 innuendo
+innuendoed
 innuendoes
 innuendoing
 innuendos
@@ -42458,6 +42469,7 @@ inocula
 inoculating
 inoculations
 inoculator
+inoculators
 inoculums
 inoffensive
 inoperculate
@@ -51214,6 +51226,7 @@ microspheres
 microspherical
 microsporangia
 microspore
+microspores
 microsporocytes
 microsporophyll
 microsporous
@@ -56538,6 +56551,7 @@ numbs
 numchuck
 numchucks
 numen
+numeracy
 numerals
 numerate
 numerated
@@ -56786,6 +56800,7 @@ obliteration
 obliterative
 obliterator
 obliterators
+oblivion
 oblivious
 obliviousnesses
 oblongs
@@ -57693,6 +57708,7 @@ orchestrated
 orchestrater
 orchestraters
 orchestrating
+orchestration
 orchestrational
 orchestrations
 orchestrator
@@ -59512,6 +59528,7 @@ overruff
 overruffed
 overruffs
 overrule
+overruling
 overrunning
 overruns
 overs
@@ -59688,6 +59705,7 @@ overtness
 overtnesses
 overtoiled
 overtones
+overtopped
 overtopping
 overtops
 overtrade
@@ -61064,6 +61082,7 @@ pater
 paternal
 paternalist
 paternalistic
+paternalists
 paternally
 paters
 pathbreaking
@@ -61355,6 +61374,7 @@ pectinesterases
 pectins
 pectoral
 pectorals
+peculates
 peculation
 peculations
 peculator
@@ -63435,6 +63455,7 @@ pithless
 pithy
 pitiableness
 pitiably
+pitied
 pitier
 pities
 pitiful
@@ -66490,6 +66511,7 @@ profanities
 professed
 professes
 professing
+professional
 professionalism
 professionally
 professor
@@ -67651,6 +67673,7 @@ puppetries
 puppetry
 puppies
 puppy
+puppydom
 puppyhoods
 puppylike
 pupu
@@ -70769,6 +70792,7 @@ rehypnotizes
 reichsmarks
 reidentifies
 reidentify
+reidentifying
 reif
 reification
 reified
@@ -71327,6 +71351,7 @@ renal
 rename
 renaming
 renascent
+renationalize
 renationalizes
 renaturation
 renaturations
@@ -74532,6 +74557,7 @@ salt
 saltarello
 saltarellos
 saltation
+saltatory
 saltbox
 saltboxes
 saltchuck
@@ -77562,6 +77588,7 @@ shoddiness
 shoddinesses
 shoddy
 shoe
+shoeblacks
 shoeboxes
 shoed
 shoehorn
@@ -81623,6 +81650,7 @@ steaded
 steadfastly
 steadies
 steadily
+steadinesses
 steading
 steadings
 steady
@@ -86161,6 +86189,7 @@ tenurable
 tenure
 tenured
 tenures
+tenurial
 tenurially
 tenuring
 tenuti
@@ -86551,6 +86580,7 @@ theine
 theirself
 theirselves
 theism
+theisms
 theistic
 theistically
 theists
@@ -87867,6 +87897,7 @@ tores
 tori
 toric
 torics
+torii
 torment
 tormented
 tormenters
@@ -91169,6 +91200,7 @@ unfrozen
 unfruitfully
 unfruitfulness
 unfulfillable
+unfunded
 unfurl
 unfurled
 ungainlier
@@ -91318,6 +91350,7 @@ unicycle
 unicycled
 unicycles
 unicyclist
+unicyclists
 unideaed
 unideal
 unidentifiable
@@ -95948,6 +95981,7 @@ wisewoman
 wisewomen
 wish
 wishbone
+wisher
 wishfulness
 wishless
 wisp
@@ -96678,6 +96712,7 @@ yawl
 yawled
 yawls
 yawmeter
+yawmeters
 yawn
 yawner
 yawners
