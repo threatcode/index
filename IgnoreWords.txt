@@ -1795,6 +1795,7 @@ aleurones
 aleuronic
 alewife
 alewives
+alexandrine
 alexandrines
 alexandrite
 alexia
@@ -9734,6 +9735,7 @@ bourbon
 bourbonism
 bourbonisms
 bourbons
+bourdon
 bourdons
 bourgeoises
 bourgeoisified
@@ -13175,6 +13177,7 @@ cent
 centai
 centare
 centas
+centaurea
 centaureas
 centauries
 centavos
@@ -15389,6 +15392,7 @@ clubable
 clubbable
 clubbed
 clubbers
+clubbinesses
 clubbish
 clubby
 clubfaces
@@ -17710,6 +17714,7 @@ contraventions
 contredanse
 contributed
 contributes
+contributing
 contribution
 contributive
 contributively
@@ -19024,6 +19029,7 @@ crammer
 crammers
 cramming
 cramoisies
+cramoisy
 cramp
 cramping
 crampit
@@ -20813,6 +20819,7 @@ dawsonite
 dawsonites
 day
 daybeds
+daybook
 daybooks
 daybreak
 daybreaks
@@ -26614,6 +26621,7 @@ effacing
 effect
 effecter
 effecters
+effecting
 effectivities
 effector
 effectors
@@ -27621,6 +27629,7 @@ endings
 endited
 endites
 endives
+endleafs
 endleaves
 endlessnesses
 endnote
@@ -28545,6 +28554,7 @@ equilibria
 equilibrist
 equilibrium
 equilibriums
+equine
 equinely
 equines
 equinities
@@ -29040,6 +29050,7 @@ eths
 ethyl
 ethylate
 ethylated
+ethylates
 ethylating
 ethylbenzene
 ethylbenzenes
@@ -33625,6 +33636,7 @@ frijole
 frilled
 friller
 frillers
+frilling
 frillings
 frills
 fringe
@@ -33683,6 +33695,7 @@ frizzly
 frizzy
 frocked
 frocking
+frockless
 frocks
 frogeyes
 frogfish
@@ -36149,6 +36162,7 @@ goofs
 googlies
 googly
 googolplex
+googolplexes
 gooiest
 gooks
 goombah
@@ -41207,6 +41221,7 @@ igneous
 ignescent
 ignescents
 ignified
+ignitabilities
 ignite
 ignited
 igniter
@@ -41465,6 +41480,7 @@ immixed
 immixes
 immobilism
 immobilisms
+immobilities
 immobilization
 immobilizations
 immobilize
@@ -47472,6 +47488,7 @@ legateships
 legations
 legato
 legator
+legend
 legendaries
 legendary
 legendized
@@ -48229,6 +48246,7 @@ linocut
 linocuts
 linoleate
 linotyper
+linsang
 linsangs
 linseeds
 linseys
@@ -48861,6 +48879,7 @@ loopholed
 loopholing
 loopily
 looping
+loops
 loopy
 loos
 loosed
@@ -52501,6 +52520,7 @@ misadvice
 misadvise
 misadvises
 misagent
+misagents
 misaimed
 misaiming
 misalignment
@@ -57358,6 +57378,7 @@ numbing
 numbingly
 numbles
 numbness
+numbnesses
 numbs
 numchuck
 numchucks
@@ -57542,6 +57563,7 @@ obentos
 obesely
 obeseness
 obesenesses
+obesities
 obesity
 obeyed
 obeyer
@@ -61460,6 +61482,7 @@ parallactic
 parallax
 parallel
 paralleled
+parallelepiped
 parallelisms
 parallelled
 parallelling
@@ -64045,6 +64068,7 @@ pilgarlic
 pilgarlics
 pilgrimaging
 pili
+piliform
 pilings
 pillage
 pillager
@@ -65759,6 +65783,7 @@ possum
 post
 postaccident
 postadolescent
+postages
 postals
 postamputation
 postanal
@@ -72394,6 +72419,7 @@ remunerated
 remunerates
 remunerating
 remuneration
+remunerations
 remunerative
 remunerators
 remythologize
@@ -81854,6 +81880,7 @@ sphynxes
 spicae
 spicate
 spicated
+spiccato
 spicebushes
 spiceless
 spiceries
@@ -84026,6 +84053,7 @@ stylus
 stymie
 stymied
 stymieing
+stymies
 stymying
 styrax
 styraxes
@@ -86242,6 +86270,7 @@ syrens
 syrette
 syrettes
 syringas
+syringomyelia
 syringomyelic
 syrphid
 syrup
@@ -88928,6 +88957,7 @@ tolbooth
 tolbutamide
 tole
 tolerabilities
+tolerant
 tolerantly
 tolerated
 tolerating
@@ -89065,6 +89095,7 @@ tooled
 tooler
 toolhead
 toolheads
+toolholder
 toolholders
 toolhouse
 toolhouses
@@ -90224,6 +90255,7 @@ trifecta
 trifled
 trifler
 triflers
+trifles
 trifocal
 trifocals
 trifoliate
@@ -92371,6 +92403,7 @@ undulating
 undulation
 undulations
 undulators
+undulatory
 undutifully
 undutifulnesses
 undying
@@ -93354,6 +93387,7 @@ unshaved
 unshaven
 unsheathe
 unsheathes
+unsheathing
 unshelling
 unshells
 unshifting
@@ -97803,6 +97837,7 @@ worshipped
 worshipper
 worships
 worst
+worsted
 worsteds
 worsts
 wort
