@@ -104,6 +104,7 @@ absorbabilities
 absorbance
 absorbances
 absorbancy
+absorbant
 absorbants
 absorbed
 absorbent
@@ -5068,6 +5069,7 @@ attackers
 attacking
 attackman
 attackmen
+attacks
 attagirl
 attain
 attainable
@@ -5847,6 +5849,7 @@ backcountry
 backcourt
 backcourtman
 backcourts
+backcross
 backcrossed
 backcrosses
 backdate
@@ -10159,6 +10162,7 @@ briars
 briarwood
 briarwoods
 briary
+bribe
 bribees
 briber
 bribers
@@ -12442,6 +12446,7 @@ carom
 caromed
 caroming
 carotenoid
+carotidal
 carotids
 carotins
 carousals
@@ -14494,6 +14499,7 @@ chunks
 chunky
 chunnel
 chuntered
+chunters
 chuppah
 chuppahs
 church
@@ -19063,6 +19069,7 @@ creampuff
 creampuffs
 creamware
 creamy
+crease
 creaseless
 creasers
 creases
@@ -19835,6 +19842,7 @@ cunningness
 cunningnesses
 cunnings
 cup
+cupboard
 cupboards
 cupel
 cupeler
@@ -20878,6 +20886,7 @@ debates
 debauchees
 debaucheries
 debauchery
+debauching
 debeaked
 debeaking
 debeaks
@@ -21186,6 +21195,7 @@ deconsecration
 deconsecrations
 deconstructions
 deconstructive
+deconstructor
 deconstructs
 decontaminate
 decontaminated
@@ -22523,6 +22533,7 @@ destrier
 destriers
 destroyer
 destroying
+destructibility
 destructible
 destruction
 destructions
@@ -23060,6 +23071,7 @@ dibbles
 dibbling
 dibbuks
 dibenzofuran
+dibenzofurans
 dibromide
 dibromides
 dicamba
@@ -30864,6 +30876,7 @@ feetless
 feezed
 feezes
 feh
+feigned
 feignedly
 feigner
 feigners
@@ -31449,6 +31462,7 @@ fimbriate
 fin
 finagle
 finagled
+finaglers
 finagles
 finalise
 finalised
@@ -37205,6 +37219,7 @@ gweducs
 gybe
 gybes
 gybing
+gym
 gymkhanas
 gymnasia
 gymnasial
@@ -37625,6 +37640,7 @@ hammered
 hammerheads
 hammering
 hammerkop
+hammerkops
 hammertoe
 hammier
 hammily
@@ -37823,6 +37839,7 @@ haptoglobin
 haptoglobins
 harangue
 harangued
+haranguers
 harangues
 haranguing
 harass
@@ -42117,6 +42134,7 @@ incurring
 incursions
 incurvate
 incurvated
+incurvating
 incurvature
 incurvatures
 incurves
@@ -43522,6 +43540,7 @@ intermetallic
 intermezzo
 intermezzos
 interminable
+interminably
 intermingle
 intermingling
 intermission
@@ -55290,6 +55309,7 @@ neologizing
 neology
 neomorphs
 neomycins
+neon
 neonate
 neonatologies
 neonatologist
@@ -57465,6 +57485,7 @@ obstructionist
 obstructionists
 obstructions
 obstructive
+obstructiveness
 obstructors
 obstructs
 obstruents
@@ -58061,6 +58082,7 @@ oothecal
 oots
 oozier
 ooziness
+oozinesses
 oozing
 op
 opacified
@@ -61839,6 +61861,7 @@ pavers
 paves
 pavilioned
 pavilions
+paving
 pavings
 pavins
 paviour
@@ -64411,6 +64434,7 @@ plausibleness
 plausiblenesses
 plausibly
 plausive
+play
 playa
 playable
 playactings
@@ -64502,6 +64526,7 @@ pledger
 pledgers
 pledgets
 pledging
+pledgors
 pleiades
 pleinairisms
 pleinairist
@@ -67134,6 +67159,7 @@ procrastinate
 procrastinated
 procrastinates
 procrastinating
+procrastinator
 procrastinators
 procreant
 procreate
@@ -68409,6 +68435,7 @@ purgation
 purgatories
 purgeable
 purged
+purging
 puri
 purification
 purifications
@@ -69310,6 +69337,7 @@ radioactivities
 radioactivity
 radiobiologic
 radiobiological
+radiobiologies
 radiocarbons
 radiochemist
 radioecologies
@@ -73793,6 +73821,7 @@ rhyming
 rhyolite
 rhyolites
 rhyta
+rhythmic
 rhythmical
 rhythmically
 rhythmics
@@ -74290,6 +74319,7 @@ rodded
 rodding
 rode
 rodenticide
+rodenticides
 rodeoed
 rodeos
 rodes
@@ -87399,6 +87429,7 @@ texturing
 texturized
 texturizing
 thack
+thacked
 thacking
 thae
 thairm
@@ -89077,6 +89108,7 @@ traceries
 tracery
 traces
 tracheae
+tracheal
 tracheary
 tracheate
 tracheated
@@ -91483,6 +91515,7 @@ uncleaner
 uncleanest
 uncleanliness
 uncleanlinesses
+uncleanly
 uncleannesses
 unclearer
 uncleft
@@ -96627,6 +96660,7 @@ whupping
 whups
 why
 whys
+wicca
 wiccan
 wiccas
 wiches
@@ -97761,6 +97795,7 @@ yeast
 yeastiest
 yeastily
 yeastinesses
+yeasting
 yeastless
 yeastlike
 yeasts
