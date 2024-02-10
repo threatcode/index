@@ -1754,6 +1754,7 @@ alcoves
 aldehyde
 aldehydic
 alder
+alderflies
 alderfly
 alderman
 aldermanic
@@ -2327,6 +2328,7 @@ amelcorn
 ameliorated
 ameliorates
 ameliorating
+amelioration
 ameliorative
 ameliorator
 ameliorators
@@ -4585,6 +4587,7 @@ ascended
 ascendence
 ascendences
 ascendencies
+ascendency
 ascendents
 ascender
 ascenders
@@ -7555,6 +7558,7 @@ benzole
 benzols
 benzophenone
 benzoyl
+benzoyls
 bepaints
 bepimple
 bepimpled
@@ -7650,6 +7654,7 @@ besieging
 beslaved
 beslimed
 besliming
+besmeared
 besmearers
 besmile
 besmiled
@@ -10341,6 +10346,7 @@ brogueries
 brogues
 broguish
 broidered
+broiderer
 broiderers
 broidering
 broiders
@@ -11421,6 +11427,7 @@ caique
 caiques
 caird
 cairds
+cairned
 cairngorms
 cairns
 cairny
@@ -17836,6 +17843,7 @@ cooperages
 cooperate
 cooperated
 cooperates
+cooperative
 cooperatively
 cooperator
 cooperies
@@ -18202,6 +18210,7 @@ correct
 correctable
 corrected
 correcter
+correctest
 correcting
 corrections
 correctitude
@@ -21907,9 +21916,11 @@ demonstrably
 demonstrated
 demonstrates
 demonstratively
+demonstratives
 demonstrator
 demonstrators
 demoralize
+demoralized
 demoralizer
 demoralizers
 demoralizes
@@ -34415,6 +34426,7 @@ gapeseeds
 gapeworm
 gaping
 gaposises
+gapped
 gappier
 gappiest
 gappy
@@ -35804,6 +35816,7 @@ goalkeeper
 goalkeepers
 goalless
 goaltender
+goaltenders
 goaltendings
 goalward
 goanna
@@ -38710,6 +38723,7 @@ heniquen
 heniquens
 henley
 henleys
+henna
 hennaed
 hennaing
 hennas
@@ -41257,6 +41271,7 @@ imitators
 immaculacy
 immaculate
 immane
+immanencies
 immanency
 immanent
 immaterialism
@@ -41921,6 +41936,7 @@ incipient
 incipiently
 incipit
 incise
+incised
 incises
 incising
 incision
@@ -47053,6 +47069,7 @@ lawbooks
 lawbreaking
 lawbreakings
 lawed
+lawgiver
 lawing
 lawings
 lawless
@@ -47149,6 +47166,7 @@ leadworts
 leady
 leaf
 leafages
+leafier
 leafiest
 leafiness
 leafinesses
@@ -60955,6 +60973,7 @@ panacea
 panache
 panaches
 panama
+panamas
 panatela
 panatella
 panatellas
@@ -68390,6 +68409,7 @@ punky
 punned
 punner
 punners
+punnet
 punniest
 punningly
 punny
@@ -69056,6 +69076,7 @@ quibbled
 quibbler
 quibblers
 quibbles
+quibbling
 quick
 quickened
 quickener
@@ -71378,6 +71399,7 @@ refutable
 refutably
 refutal
 refutation
+refutations
 refute
 refuted
 refuter
@@ -79137,6 +79159,7 @@ singletree
 singling
 singly
 sings
+singsong
 singsongs
 singspiel
 singspiels
@@ -81839,6 +81862,7 @@ sponsal
 sponsion
 sponson
 sponsons
+sponsoring
 spontaneities
 spontaneity
 spontaneous
@@ -82278,6 +82302,7 @@ stagecraft
 stagecrafts
 stageful
 stagefuls
+stagehand
 stagelike
 stager
 stages
@@ -85906,6 +85931,7 @@ synovitises
 syntactical
 syntactically
 syntagm
+syntagma
 syntagmas
 syntagmata
 syntagms
@@ -87057,6 +87083,7 @@ tenantless
 tenants
 tend
 tendances
+tendences
 tendentious
 tendentiously
 tenderfoot
@@ -89329,6 +89356,7 @@ tranquillizers
 tranquillizes
 tranquilly
 tranquilnesses
+trans
 transact
 transacted
 transacting
@@ -89941,6 +89969,7 @@ trijet
 trijets
 trijugous
 trike
+trilateral
 trilby
 trilinear
 trilingual
@@ -90286,6 +90315,7 @@ trucks
 truculently
 trudge
 trudged
+trudgeon
 trudger
 trudges
 true
@@ -91436,6 +91466,7 @@ uncage
 uncages
 uncaging
 uncaked
+uncaking
 uncalcined
 uncalculated
 uncalibrated
@@ -94911,6 +94942,7 @@ vining
 vino
 vinosities
 vinously
+vintage
 vintagers
 viny
 vinyl
@@ -96066,6 +96098,7 @@ weaponing
 weaponize
 weaponizing
 weaponless
+wear
 wearabilities
 wearability
 wearables
@@ -97821,6 +97854,7 @@ yearly
 yearn
 yearned
 yearners
+yearning
 yearningly
 yearnings
 yearns
@@ -98088,6 +98122,7 @@ zecchini
 zecchinos
 zechin
 zed
+zee
 zeins
 zeitgeber
 zek
