@@ -2576,6 +2576,7 @@ amylopsin
 amylopsins
 amylose
 amyloses
+amyotonia
 amyotonias
 an
 ana
@@ -8157,6 +8158,7 @@ bins
 bints
 binturong
 binturongs
+binucleate
 binucleated
 bio
 bioacoustics
@@ -8502,6 +8504,7 @@ blab
 blabbed
 blabber
 blabbermouth
+blabbers
 black
 blackamoor
 blackamoors
@@ -9552,6 +9555,7 @@ bosoming
 bosoms
 bosque
 bosques
+bosquet
 bosquets
 bossdom
 bossier
@@ -10225,6 +10229,7 @@ brimstones
 brimstony
 brindle
 brined
+briner
 briners
 bringdown
 bringing
@@ -12426,6 +12431,7 @@ caroller
 carolling
 carols
 carom
+caromed
 caroming
 carotenoid
 carotids
@@ -16516,6 +16522,7 @@ compass
 compasses
 compassion
 compassionate
+compassionated
 compassionately
 compassionates
 compassionless
@@ -24027,6 +24034,7 @@ disinforms
 disinherit
 disinheriting
 disinhibit
+disinhibiting
 disinhibition
 disintegrates
 disintegrating
@@ -24641,6 +24649,7 @@ dizzyingly
 djebels
 djellabah
 djin
+djins
 do
 doable
 doat
@@ -26833,6 +26842,7 @@ elixir
 elkhound
 ell
 ellipse
+ellipses
 ellipsis
 ellipsoids
 elliptic
@@ -27582,6 +27592,7 @@ energetics
 energid
 energids
 energies
+energises
 energization
 energizations
 energizer
@@ -28596,6 +28607,7 @@ escalated
 escalating
 escalator
 escalatory
+escallop
 escalloping
 escallops
 escalop
@@ -28639,6 +28651,7 @@ eschewed
 eschewer
 eschewers
 eschews
+escort
 escorted
 escorts
 escot
@@ -30502,6 +30515,7 @@ farle
 farles
 farls
 farmable
+farmerettes
 farmhouse
 farmhouses
 farmstead
@@ -32144,6 +32158,7 @@ flong
 flongs
 flood
 floodable
+flooders
 floodgate
 flooding
 floodlighted
@@ -35264,6 +35279,7 @@ git
 gite
 gits
 gittern
+gitting
 give
 giveable
 giveaway
@@ -39466,6 +39482,7 @@ homewards
 homework
 homeworks
 homicidal
+homicides
 homiletical
 homiletics
 homilist
@@ -45254,6 +45271,7 @@ jutting
 juttingly
 juttying
 juvenescence
+juvenescences
 juvenile
 juvenilia
 juvenility
@@ -46042,6 +46060,7 @@ knotweed
 knotweeds
 knouted
 knouting
+knowable
 knower
 knowers
 knowinger
@@ -47171,6 +47190,7 @@ leeks
 leer
 leeriest
 leeriness
+leerinesses
 leering
 leeringly
 lees
@@ -53555,6 +53575,7 @@ mooters
 mooting
 moots
 mopboards
+mope
 moped
 mopeds
 mopery
@@ -57245,6 +57266,7 @@ obituarist
 obituary
 object
 objectification
+objectified
 objecting
 objection
 objectionably
@@ -57339,6 +57361,7 @@ obscurities
 obscurity
 obsecrate
 obsecrated
+obsecrates
 obsecrating
 obsequies
 obsequiously
@@ -61762,6 +61785,7 @@ pavans
 pave
 paved
 paveed
+pavements
 paver
 pavers
 paves
@@ -66462,6 +66486,7 @@ preregistered
 preregistering
 prereleased
 prereleasing
+prerenal
 prerequire
 prerequired
 prerequiring
@@ -68041,6 +68066,7 @@ publisher
 pubs
 pucker
 puckered
+puckerers
 puckeriest
 puckering
 puckers
@@ -72026,6 +72052,7 @@ rended
 render
 renderable
 renderer
+renderers
 renderings
 renders
 rendezvous
@@ -74910,6 +74937,7 @@ sabbath
 sabbaths
 sabbatical
 sabbaticals
+sabbatics
 sabbed
 sabbing
 sabed
@@ -83872,6 +83900,7 @@ sublunary
 subluxations
 submanager
 submanagers
+submarginal
 submariner
 submarines
 submarining
@@ -84822,6 +84851,7 @@ superscout
 superscouts
 superscribe
 superscribing
+superscriptions
 supersecret
 supersede
 supersedeas
@@ -88568,6 +88598,7 @@ tonsil
 tonsilar
 tonsillar
 tonsillectomies
+tonsillectomy
 tonsillitis
 tonsillitises
 tonsils
@@ -88612,6 +88643,7 @@ toothpicks
 tooths
 toothsomeness
 toothsomenesses
+toothwort
 tooting
 tootled
 tootling
@@ -93818,6 +93850,7 @@ validity
 validnesses
 valines
 valises
+valkyries
 valkyrs
 vallations
 vallecular
@@ -93842,6 +93875,7 @@ valuating
 valuational
 valuations
 valuator
+value
 valuelessness
 valuers
 valutas
@@ -95297,6 +95331,7 @@ wadis
 wadmaal
 wadmaals
 wadmals
+wadmol
 wadmoll
 wadmolls
 wads
