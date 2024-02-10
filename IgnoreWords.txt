@@ -1124,6 +1124,7 @@ aeroplane
 aeropulses
 aerosat
 aerosats
+aeroscope
 aeroscopes
 aerosol
 aerosolizations
@@ -3353,6 +3354,7 @@ antijam
 antijamming
 antikickback
 antikings
+antiknock
 antiknocks
 antilabor
 antileak
@@ -7885,6 +7887,7 @@ bibliopolists
 bibliothecae
 bibliotherapies
 bibliotherapy
+bibliotist
 bibliotists
 biblist
 biblists
@@ -12175,6 +12178,7 @@ caravel
 caravelle
 caravels
 caraway
+caraways
 carb
 carbamate
 carbamic
@@ -12616,6 +12620,7 @@ cassettes
 cassia
 cassimeres
 cassinas
+cassine
 cassines
 cassino
 cassiterite
@@ -16824,6 +16829,7 @@ concluded
 concluders
 concluding
 conclusionary
+conclusive
 conclusively
 concoct
 concocter
@@ -17837,6 +17843,7 @@ copepods
 coper
 copers
 copied
+copier
 copihue
 copilot
 copious
@@ -24515,6 +24522,7 @@ ditty
 ditzes
 ditzier
 ditziest
+ditzinesses
 diureses
 diuretic
 diurnal
@@ -26584,6 +26592,7 @@ eidetically
 eidola
 eidolic
 eidos
+eigenmode
 eigenmodes
 eigenvalues
 eight
@@ -28990,6 +28999,7 @@ euphorbias
 euphoria
 euphoric
 euphorically
+euphotic
 euphroe
 euphroes
 euphuism
@@ -33241,6 +33251,7 @@ freakish
 freakishly
 freakishness
 freakouts
+freckled
 freckles
 frecklier
 free
@@ -34402,6 +34413,7 @@ garner
 garnering
 garners
 garnish
+garnishee
 garnisheeing
 garnishes
 garnishment
@@ -37478,6 +37490,7 @@ hallmark
 hallmarking
 hallmarks
 hallo
+halloaed
 halloaing
 halloed
 halloing
@@ -39650,6 +39663,7 @@ hooka
 hookah
 hookahs
 hookas
+hookey
 hookier
 hooking
 hooklike
@@ -41589,6 +41603,7 @@ improbable
 improbably
 improbities
 improbity
+impromptu
 improper
 improperly
 impropernesses
@@ -43858,6 +43873,7 @@ inurn
 inurned
 inurning
 inurnment
+inurnments
 inutilities
 invade
 invaded
@@ -48778,6 +48794,7 @@ lowlives
 lowly
 lown
 lownesses
+lowrider
 lowriders
 lows
 loxes
@@ -49269,6 +49286,7 @@ madcap
 madcaps
 madden
 maddeningly
+madder
 madders
 maddest
 madding
@@ -49816,6 +49834,7 @@ manipular
 manipulars
 manipulate
 manipulates
+manipulating
 manipulation
 manipulations
 manipulative
@@ -50377,6 +50396,7 @@ mattered
 mattering
 mattes
 mattin
+mattings
 mattins
 mattoid
 mattoids
@@ -50737,6 +50757,7 @@ megatonnage
 megatonnages
 megatons
 megavitamin
+megawatt
 megillah
 megillahs
 megillas
@@ -54686,6 +54707,7 @@ nadir
 nadiral
 nadirs
 naething
+naethings
 naevus
 naff
 naffing
@@ -59030,6 +59052,7 @@ outplodded
 outplods
 outplot
 outplots
+outpoint
 outpointed
 outpolitick
 outpoliticked
@@ -63102,6 +63125,7 @@ phonathons
 phonating
 phonations
 phone
+phoneme
 phonemes
 phonemic
 phonemically
@@ -63506,6 +63530,7 @@ picnics
 picofarad
 picofarads
 picogram
+picograms
 picolin
 picolins
 picometer
@@ -66646,6 +66671,7 @@ pretensionless
 pretensions
 pretentiously
 pretentiousness
+preterites
 preterminal
 pretermination
 pretermit
@@ -76676,6 +76702,7 @@ seaminess
 seaming
 seamless
 seamlike
+seamount
 seamounts
 seams
 seamster
@@ -81397,6 +81424,7 @@ spicily
 spicinesses
 spicks
 spiculae
+spicular
 spiculate
 spiculation
 spiculum
@@ -81750,6 +81778,7 @@ sporules
 spotlessly
 spotlight
 spotlighted
+spotlighting
 spotlights
 spotlit
 spottable
@@ -84566,6 +84595,7 @@ superbomb
 superbombs
 superbright
 supercabinets
+supercalender
 supercalendered
 supercar
 supercargoes
@@ -86266,6 +86296,7 @@ tardily
 tardiness
 tardinesses
 tardive
+tardyon
 tardyons
 tare
 tared
@@ -90223,6 +90254,7 @@ tubfuls
 tubifex
 tubifexes
 tubificids
+tubiform
 tubings
 tubists
 tublike
@@ -92018,6 +92050,7 @@ unfrivolous
 unfrocked
 unfrocking
 unfrozen
+unfruitful
 unfruitfully
 unfruitfulness
 unfulfillable
@@ -92972,6 +93005,7 @@ unswept
 unswerving
 unswore
 unsworn
+unsymmetrical
 unsympathetic
 unsystematic
 unsystematized
@@ -96207,6 +96241,7 @@ wheepled
 wheeples
 wheepling
 wheeps
+wheeze
 wheezer
 wheezier
 wheeziness
