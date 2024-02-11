@@ -3725,6 +3725,7 @@ aphorize
 aphorizer
 aphorizers
 aphorizing
+aphotic
 aphrodisiac
 aphrodite
 aphrodites
@@ -4717,6 +4718,7 @@ aspectual
 asper
 asperating
 asperges
+aspergill
 aspergilli
 aspergillosis
 aspergillums
@@ -7436,6 +7438,7 @@ bellings
 bellman
 bellowed
 bellower
+bellowers
 bellowing
 bellows
 bellwethers
@@ -8238,6 +8241,7 @@ bioacoustics
 bioassay
 bioassaying
 bioassays
+bioavailable
 biochemical
 biochemically
 biochemicals
@@ -11816,6 +11820,7 @@ campaigner
 campaniles
 campanili
 campanologies
+campanologist
 campanologists
 campanology
 campanula
@@ -12275,6 +12280,7 @@ caramel
 caramelise
 caramelises
 caramelising
+caramelized
 carangid
 carangoid
 carapace
@@ -12827,6 +12833,7 @@ catalytically
 catalyze
 catalyzed
 catalyzes
+catalyzing
 catamaran
 catamenial
 catamites
@@ -14131,6 +14138,7 @@ chillis
 chillum
 chillums
 chilly
+chilopod
 chilopods
 chiltepin
 chimaera
@@ -26157,6 +26165,7 @@ dupery
 duping
 duple
 duplexer
+duplexers
 duplexities
 duplicate
 duplicated
@@ -31773,6 +31782,7 @@ fingerpickings
 fingerpicks
 fingerprinting
 fingerprints
+fingers
 fingertip
 fingertips
 finial
@@ -36825,6 +36835,7 @@ greenbacker
 greenbackers
 greenbelt
 greenbrier
+greenbug
 greened
 greenery
 greenest
@@ -42263,6 +42274,7 @@ incisive
 incisively
 incisivenesses
 incisor
+incisory
 incisures
 incitable
 incitant
@@ -45157,6 +45169,7 @@ jees
 jehad
 jejuna
 jejunal
+jejune
 jejunenesses
 jejunity
 jejunum
@@ -46161,6 +46174,7 @@ kief
 kiefs
 kielbasa
 kielbasas
+kielbasi
 kielbasy
 kiers
 kieselguhrs
@@ -46719,6 +46733,7 @@ laborite
 laborites
 labors
 laborsaving
+labour
 labourers
 labra
 labradorite
@@ -48654,6 +48669,7 @@ liturgism
 liturgisms
 liturgists
 livabilities
+livable
 liveabilities
 liveability
 liveable
@@ -49394,6 +49410,7 @@ lumpiness
 lumpingly
 lumpish
 lumpishly
+lumpishness
 lumpishnesses
 lumpy
 lums
@@ -51540,6 +51557,7 @@ mercilessly
 mercilessnesses
 mercurated
 mercurating
+mercuration
 mercurations
 mercurial
 mercurially
@@ -51560,6 +51578,7 @@ mergees
 mergences
 merger
 mergers
+merges
 meridian
 meridional
 meridionals
@@ -56220,6 +56239,7 @@ ninebark
 ninebarks
 ninepin
 ninepins
+nines
 nineteen
 nineteens
 nineteenths
@@ -57298,6 +57318,7 @@ normalising
 normalizations
 normalizer
 normalizers
+normalizing
 normande
 normativeness
 normed
@@ -59279,6 +59300,7 @@ outcapers
 outcaste
 outcastes
 outcasts
+outcatch
 outcatches
 outcavil
 outcaviled
@@ -65260,6 +65282,7 @@ pneumococcus
 pneumoconioses
 pneumographs
 pneumonectomy
+pneumonias
 pneumonitis
 pneumonitises
 pneumothorax
@@ -67175,6 +67198,7 @@ preshowing
 preshown
 preshrank
 preshrinks
+preshrunken
 preside
 presidencies
 presidency
@@ -69833,6 +69857,7 @@ rackfuls
 rackingly
 racks
 rackwork
+raclette
 raclettes
 racon
 racons
@@ -71223,6 +71248,7 @@ rectifiability
 rectification
 rectifications
 rectifies
+rectify
 rectifying
 rectilinearly
 rectitude
@@ -73400,6 +73426,7 @@ reside
 residence
 residences
 residencies
+residency
 resident
 residential
 residents
@@ -74702,6 +74729,7 @@ ripeners
 ripenesses
 ripening
 ripest
+ripienos
 ripoffs
 ripost
 riposting
@@ -77592,6 +77620,7 @@ secularizing
 secularly
 seculars
 secundly
+securance
 secure
 securely
 securenesses
@@ -77907,6 +77936,7 @@ semilethal
 semiliquids
 semillon
 semillons
+semilog
 semilogarithmic
 semimatt
 semimatte
@@ -79582,6 +79612,7 @@ sillily
 sillimanites
 siloed
 siloing
+silos
 siloxane
 siloxanes
 silt
@@ -83536,6 +83567,7 @@ stillmen
 stillness
 stillnesses
 stillroom
+stillrooms
 stilt
 stiltedly
 stiltedness
@@ -86611,6 +86643,7 @@ systoles
 syzygal
 syzygial
 syzygy
+ta
 tabanid
 tabard
 tabaret
@@ -87044,6 +87077,7 @@ tantamount
 tantara
 tantivy
 tanto
+tantrism
 tantrum
 tanuki
 tanukis
@@ -95095,6 +95129,7 @@ venins
 venires
 venison
 venisons
+venograms
 venologies
 venology
 venomed
