@@ -1229,6 +1229,7 @@ affixation
 affixer
 affixial
 affixing
+affixment
 affixtures
 afflatus
 afflatuses
@@ -3298,6 +3299,7 @@ anticipatable
 anticipations
 anticipator
 anticipators
+anticipatory
 anticity
 antick
 anticking
@@ -6687,6 +6689,7 @@ barytes
 barytic
 baryton
 basalt
+basaltes
 basaltic
 basaltine
 bascule
@@ -7056,6 +7059,7 @@ becks
 beclamors
 becloaked
 beclogged
+beclogging
 beclogs
 beclothe
 beclothing
@@ -7281,6 +7285,7 @@ befret
 befrets
 befretting
 befriend
+befriended
 befringed
 befringes
 befringing
@@ -8729,6 +8734,7 @@ blastema
 blastemal
 blastemas
 blastematic
+blastemic
 blaster
 blastie
 blastier
@@ -10349,6 +10355,7 @@ brim
 brimful
 brimfull
 brimfully
+brimmer
 brimmers
 brimstone
 brimstones
@@ -15981,6 +15988,7 @@ coexistence
 coexistences
 coexistent
 coexisting
+coextend
 coextended
 coextending
 coextends
@@ -16520,6 +16528,7 @@ comforts
 comfrey
 comfy
 comic
+comical
 comicalities
 comics
 coming
@@ -18677,6 +18686,7 @@ cottonmouth
 cottons
 cottonseeds
 cottontail
+cottonweeds
 cottonwood
 cottony
 coturnixes
@@ -21352,6 +21362,7 @@ deciphering
 decipherments
 deciphers
 decision
+decisional
 decisioned
 decisioning
 decisions
@@ -23695,6 +23706,7 @@ dimorphisms
 dimorphous
 dimout
 dimouts
+dimple
 dimpled
 dimpliest
 dims
@@ -33167,6 +33179,7 @@ forefinger
 forefront
 forefronts
 foregathers
+forego
 foregoer
 foregoers
 foregoing
@@ -37928,6 +37941,7 @@ hake
 hakeem
 hakes
 hakims
+haku
 hakus
 halachas
 halachic
@@ -38250,6 +38264,7 @@ haphazards
 haphtarah
 haphtarahs
 haphtaras
+haphtarot
 hapkido
 hapless
 haplessly
@@ -38521,6 +38536,7 @@ haulmy
 hauls
 haulyard
 haulyards
+haunched
 haunches
 haunter
 haunts
@@ -39497,6 +39513,7 @@ hierarchizes
 hierarchs
 hieratically
 hieroglyphic
+hieroglyphical
 hieroglyphics
 hierologies
 hierology
@@ -42945,6 +42962,7 @@ inequality
 inequitable
 inequitably
 inequivalve
+inequivalved
 ineradicable
 inerrable
 inerrancies
@@ -43561,6 +43579,7 @@ insnared
 insnaring
 insobrieties
 insociabilities
+insociable
 insofar
 insolations
 insole
@@ -50756,6 +50775,7 @@ marplots
 marque
 marquee
 marquees
+marques
 marquess
 marquessate
 marquesses
@@ -51293,6 +51313,7 @@ mediastina
 mediastinal
 mediated
 mediates
+mediation
 mediational
 mediations
 mediatize
@@ -52261,6 +52282,7 @@ microgram
 micrograms
 micrograph
 micrographed
+micrographic
 micrographs
 microgravities
 microgravity
@@ -66437,6 +66459,7 @@ potlatched
 potlatches
 potline
 potlines
+potmen
 potometer
 potpies
 potpourris
@@ -66850,6 +66873,7 @@ predatisms
 predator
 predatory
 predeath
+predeaths
 predecease
 predeceased
 predecessor
@@ -75136,6 +75160,7 @@ rockhounding
 rockhoundings
 rockhounds
 rockier
+rockiest
 rockiness
 rockingly
 rocklike
@@ -76179,6 +76204,7 @@ salmagundis
 salmi
 salmon
 salmonellae
+salmonellas
 salmonoid
 salmons
 salol
@@ -84565,6 +84591,7 @@ stupid
 stupider
 stupidities
 stupidly
+stupidness
 stupidnesses
 stupor
 stuporous
@@ -85927,6 +85954,7 @@ superspectacles
 superstar
 superstardom
 superstates
+superstation
 superstations
 superstimulate
 superstimulated
@@ -86859,6 +86887,7 @@ syrens
 syrette
 syrettes
 syringas
+syringed
 syringomyelia
 syringomyelic
 syrphid
@@ -88480,6 +88509,7 @@ theatricalism
 theatricalisms
 theatricality
 theatricalized
+theatricalizes
 theatricalizing
 theatrically
 theatricals
@@ -89302,6 +89332,7 @@ tinkling
 tinklings
 tinkly
 tinlike
+tinman
 tinmen
 tinned
 tinner
@@ -89500,6 +89531,7 @@ toecaps
 toed
 toeholds
 toeing
+toeless
 toenails
 toepieces
 toeshoes
@@ -93567,6 +93599,7 @@ unlike
 unlikeliness
 unlikeness
 unlikenesses
+unlimbering
 unlined
 unlink
 unlinking
@@ -94584,6 +94617,7 @@ upsoaring
 upsprang
 upspring
 upspringing
+upsprung
 upstager
 upstagers
 upstaging
@@ -99306,6 +99340,7 @@ zoologies
 zoologist
 zoomania
 zoomanias
+zoometries
 zoometry
 zoomorphic
 zoomorphs
