@@ -241,6 +241,7 @@ accepters
 accepting
 acceptingly
 acceptive
+acceptor
 acceptors
 accepts
 access
@@ -1981,6 +1982,7 @@ allantoides
 allantoids
 allayed
 allayer
+allayers
 allaying
 allee
 allees
@@ -2149,6 +2151,7 @@ almoners
 almonries
 almonry
 almsgiver
+almsgivers
 almsgiving
 almsgivings
 almshouse
@@ -2794,6 +2797,7 @@ anastrophe
 anastrophes
 anatase
 anatases
+anathema
 anathemas
 anathemata
 anathematize
@@ -7547,6 +7551,7 @@ bellicosities
 belligerence
 belligerences
 belligerent
+belligerently
 bellings
 bellman
 bellowed
@@ -9294,6 +9299,7 @@ boatbuilders
 boatel
 boaters
 boatful
+boathook
 boatlift
 boatlifted
 boatlifting
@@ -11563,6 +11569,7 @@ cablet
 cableway
 cableways
 cabob
+cabobs
 cabochons
 caboodle
 caboodles
@@ -13549,6 +13556,7 @@ ceramists
 cerastes
 cerate
 cerates
+ceratodus
 ceratoduses
 ceratoid
 cercarias
@@ -19614,6 +19622,7 @@ crematories
 crematoriums
 cremators
 crematory
+creme
 cremes
 creminis
 crenate
@@ -27258,6 +27267,7 @@ egyptians
 eh
 eide
 eiderdown
+eiderdowns
 eiders
 eidetic
 eidetically
@@ -29674,6 +29684,7 @@ eukaryotes
 eukaryotic
 eulachans
 eulachon
+eulogias
 eulogies
 eulogise
 eulogises
@@ -33655,6 +33666,7 @@ foretold
 foretopman
 foretopmen
 foretops
+forever
 forevermore
 forevernesses
 forevers
@@ -33904,6 +33916,7 @@ fourplexes
 foursomes
 fourteeners
 fourteens
+fourteenth
 fourteenths
 fourthly
 foveae
@@ -36466,6 +36479,7 @@ glucokinases
 gluconate
 gluconeogenesis
 glucosamine
+glucosamines
 glucose
 glucoses
 glucosic
@@ -48653,6 +48667,7 @@ levity
 levodopa
 levodopas
 levogyre
+levorotary
 levorotatory
 levulin
 levulins
@@ -54543,6 +54558,7 @@ monitors
 monkeypod
 monkeypods
 monkeypot
+monkeypots
 monkeyshines
 monkfish
 monkhood
@@ -58451,6 +58467,7 @@ nunnation
 nuptial
 nuptiality
 nuptially
+nurd
 nurds
 nurl
 nurled
@@ -61260,6 +61277,7 @@ overidentify
 overidentifying
 overimaginative
 overimpress
+overimpressing
 overindulgences
 overindulgent
 overinflate
@@ -61919,6 +61937,7 @@ ozonating
 ozonation
 ozones
 ozonides
+ozonises
 ozonising
 ozonize
 ozonized
@@ -63105,6 +63124,7 @@ patentabilities
 patentable
 patented
 patentee
+patentees
 patenting
 patentor
 patentors
@@ -63193,6 +63213,7 @@ patrons
 patronymic
 patroon
 pats
+patsy
 pattamar
 patted
 pattee
@@ -63407,6 +63428,7 @@ pecorino
 pecorinos
 pectase
 pectases
+pectens
 pectic
 pectin
 pectinate
@@ -66448,6 +66470,7 @@ pollens
 pollers
 pollex
 pollices
+pollinate
 pollinating
 pollinator
 pollinia
@@ -66946,6 +66969,7 @@ posses
 possess
 possessedly
 possessednesses
+possessing
 possession
 possessional
 possessionless
@@ -69230,6 +69254,7 @@ protestants
 protestation
 protested
 protesting
+protests
 proteus
 prothalamion
 prothalli
@@ -71049,6 +71074,7 @@ rallyes
 rallying
 ralphed
 ralphing
+ram
 ramada
 rambled
 rambler
@@ -76501,6 +76527,7 @@ rumbaing
 rumbas
 rumbled
 rumbler
+rumbles
 rumbling
 rumbly
 rumbustiously
@@ -77927,6 +77954,7 @@ schnitzels
 schnook
 schnooks
 schnorkel
+schnorkeled
 schnorkeling
 schnorkels
 schnorrer
@@ -78688,6 +78716,7 @@ securance
 secure
 securely
 securenesses
+securer
 secures
 securest
 securities
@@ -80248,6 +80277,7 @@ shortness
 shortnesses
 shortsighted
 shortsightedly
+shortstops
 shortwave
 shortwaved
 shortwaves
@@ -80646,6 +80676,7 @@ siker
 silane
 silanes
 sild
+silds
 silence
 silenced
 silencer
@@ -83703,6 +83734,7 @@ spottier
 spottiness
 spottinesses
 spotting
+spousal
 spousally
 spousals
 spouse
@@ -89951,6 +89983,7 @@ thuja
 thujas
 thulia
 thulium
+thuliums
 thumbed
 thumbholes
 thumbkin
@@ -93664,6 +93697,7 @@ uncoy
 uncrating
 uncreate
 uncreated
+uncreates
 uncreative
 uncrippled
 uncritical
@@ -99361,6 +99395,7 @@ woodcutter
 woodcutters
 wooded
 woodener
+woodenhead
 woodenheads
 woodenly
 woodennesses
