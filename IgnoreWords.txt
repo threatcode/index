@@ -942,6 +942,7 @@ adsorptive
 adularia
 adulated
 adulates
+adulating
 adulator
 adulators
 adulatory
@@ -1344,6 +1345,7 @@ agapai
 agapanthus
 agapeic
 agapes
+agar
 agaric
 agates
 agateware
@@ -3414,6 +3416,7 @@ antihistaminics
 antihuman
 antihumanistic
 antihunting
+antihysteric
 antijam
 antijamming
 antikickback
@@ -4330,6 +4333,7 @@ argalas
 argali
 argals
 argent
+argental
 argentite
 argentous
 argents
@@ -5340,6 +5344,7 @@ aulder
 aulic
 aunthood
 auntie
+auntlier
 auntliest
 aura
 aural
@@ -7285,6 +7290,7 @@ befalls
 befinger
 befingered
 befingers
+befits
 befitted
 befittingly
 beflag
@@ -7480,6 +7486,7 @@ belleek
 belles
 belletristic
 bellflowers
+bellhop
 bellhops
 bellicose
 bellicosities
@@ -8427,6 +8434,7 @@ biospheric
 biostatistical
 biostatistician
 biostatistics
+biostratigraphy
 biosyntheses
 biosystematic
 biosystematist
@@ -8792,10 +8800,12 @@ blastulas
 blastulation
 blastulations
 blat
+blatancies
 blatant
 blatherer
 blathers
 blatherskite
+blatted
 blatter
 blatters
 blaw
@@ -9696,6 +9706,7 @@ borts
 bortz
 borzois
 bos
+boscages
 boschvarks
 boshes
 boshvark
@@ -30668,6 +30679,7 @@ faciend
 faciends
 facies
 facilely
+facilenesses
 facilitated
 facilitates
 facilitating
@@ -33737,6 +33749,7 @@ framed
 frameless
 framer
 framers
+frames
 frameshift
 frameshifts
 framework
@@ -34624,6 +34637,7 @@ gadgeteers
 gadgetry
 gadgets
 gadgety
+gadid
 gadids
 gadis
 gadjo
@@ -35339,6 +35353,7 @@ gendarmes
 gender
 gendered
 gendering
+genderized
 genders
 gene
 genealogical
@@ -41254,6 +41269,7 @@ hyperkeratotic
 hyperkinesia
 hyperkinesis
 hyperlink
+hyperlinked
 hyperlinks
 hyperlipemic
 hyperlipidemias
@@ -44905,6 +44921,7 @@ irrationalist
 irrationalists
 irrationalities
 irrationals
+irreal
 irreality
 irreclaimable
 irreclaimably
@@ -47499,6 +47516,7 @@ larders
 lardier
 lardiest
 lardons
+lardoon
 lardoons
 lares
 largehearted
@@ -48053,6 +48071,7 @@ legitimises
 legitimism
 legitimisms
 legitimize
+legitimized
 legitimizer
 legitimizers
 legitimizes
@@ -49951,6 +49970,7 @@ lynchpin
 lynxes
 lyophile
 lyophiled
+lyophilic
 lyophilise
 lyophilising
 lyophilizations
@@ -51791,6 +51811,7 @@ menagerie
 menarche
 menarches
 menazon
+menazons
 mend
 mendacious
 mendaciously
@@ -56401,6 +56422,7 @@ newmarket
 newmown
 newness
 newnesses
+newsagents
 newsbeats
 newsboy
 newsboys
@@ -57025,6 +57047,7 @@ noncontinuous
 noncontract
 noncontractual
 noncontributory
+noncontrollable
 noncontrolled
 nonconventional
 noncooperation
@@ -57304,6 +57327,7 @@ nonlibrarians
 nonlife
 nonlinear
 nonlinearities
+nonlinearity
 nonliquid
 nonliterary
 nonliterate
@@ -61589,6 +61613,7 @@ padlocking
 padnags
 padrone
 padroni
+padronism
 padronisms
 padshahs
 paduasoy
@@ -63917,6 +63942,7 @@ petrous
 pettable
 petted
 petti
+petticoat
 petticoats
 pettiest
 pettifog
@@ -69684,6 +69710,7 @@ pyretic
 pyrex
 pyrexia
 pyrexic
+pyrheliometers
 pyrheliometric
 pyric
 pyridoxal
@@ -72903,6 +72930,7 @@ releasers
 relegate
 relegates
 relegating
+relegation
 relegations
 relending
 relends
@@ -76537,6 +76565,7 @@ samba
 sambaed
 sambaing
 sambal
+sambar
 sambars
 sambhurs
 sambuke
@@ -79556,6 +79585,7 @@ shock
 shockable
 shocker
 shockers
+shockingly
 shocks
 shod
 shoddier
@@ -82192,6 +82222,7 @@ soundings
 soundless
 soundman
 soundproofed
+soundproofs
 soundstage
 soup
 souped
@@ -83514,6 +83545,7 @@ stalemates
 stalemating
 staler
 stalest
+stalk
 stalking
 stalkless
 stalklike
@@ -89270,6 +89302,7 @@ throwaway
 throwaways
 thrower
 throwers
+throwing
 throws
 thrummer
 thrummier
@@ -90708,6 +90741,7 @@ transitional
 transitionally
 transitive
 transits
+translatability
 translate
 translated
 translation
@@ -96154,6 +96188,7 @@ vidicon
 vidicons
 vids
 viduities
+vied
 vier
 viers
 view
