@@ -864,6 +864,7 @@ admixture
 admonished
 admonisher
 admonishers
+admonishing
 admonishingly
 admonishment
 admonishments
@@ -2973,6 +2974,7 @@ anglo
 anglophone
 angostura
 angosturas
+angrily
 angriness
 angst
 angstrom
@@ -6679,6 +6681,7 @@ baroquely
 baroques
 baroreceptor
 baroreceptors
+barosaur
 barosaurs
 baroscope
 baroscopes
@@ -7010,6 +7013,7 @@ beadier
 beadily
 beadle
 beadledom
+beadles
 beadlike
 beadman
 beadroll
@@ -7459,6 +7463,7 @@ behoove
 behooves
 behoved
 behoving
+behowl
 behowls
 beige
 beigne
@@ -17243,6 +17248,7 @@ conciliarly
 conciliate
 conciliated
 conciliates
+conciliating
 conciliations
 conciliator
 conciliators
@@ -19275,6 +19281,7 @@ cowled
 cowlicks
 cowlings
 cowlstaffs
+cowlstaves
 coworker
 cowpat
 cowpats
@@ -33185,6 +33192,7 @@ flysheets
 flyspecked
 flyswatter
 flyted
+flytier
 flyting
 flytrap
 flytraps
@@ -34135,6 +34143,7 @@ frena
 french
 frenchification
 frenchifies
+frenchify
 frenching
 frenetic
 frenetically
@@ -35300,6 +35309,7 @@ gases
 gash
 gasher
 gashes
+gashest
 gashing
 gasholders
 gashouse
@@ -36963,6 +36973,7 @@ gowd
 gowks
 gown
 gowned
+gowning
 gowns
 goxes
 goy
@@ -37147,6 +37158,7 @@ grantsmanship
 grantsmanships
 granularities
 granulate
+granulated
 granulation
 granulator
 granule
@@ -38359,6 +38371,7 @@ halazone
 halberds
 halbert
 halberts
+halcyon
 hale
 haler
 halers
@@ -39663,6 +39676,7 @@ heresiarchs
 heresy
 heretically
 hereto
+heretofore
 heretrices
 heretrix
 heretrixes
@@ -39789,6 +39803,7 @@ heterokaryon
 heterokaryons
 heterokaryoses
 heterokaryosis
+heterokaryotic
 heterologously
 heterolyses
 heteromorphic
@@ -40039,6 +40054,7 @@ hipless
 hipline
 hipparch
 hipped
+hippienesses
 hippier
 hippies
 hippinesses
@@ -48415,6 +48431,7 @@ lemans
 lemmas
 lemmata
 lemmatized
+lemmatizes
 lemminglike
 lemmings
 lemniscal
@@ -50779,6 +50796,7 @@ malison
 malisons
 malkin
 malkins
+mallards
 mallee
 mallemuck
 mallemucks
@@ -62513,6 +62531,7 @@ parador
 paradors
 paradoses
 paradoxes
+paradoxicalness
 paradropping
 paradrops
 paraesthesias
@@ -64452,6 +64471,7 @@ phattest
 phellems
 phellogens
 phelonia
+phelonion
 phenacaine
 phenacaines
 phenacetin
@@ -65329,6 +65349,7 @@ pinnations
 pinned
 pinners
 pinning
+pinniped
 pinnipeds
 pinnulae
 pinnular
@@ -65641,6 +65662,7 @@ plainer
 plaining
 plainly
 plainness
+plainnesses
 plainsman
 plainsongs
 plaintext
@@ -66772,6 +66794,7 @@ populated
 population
 populism
 populist
+populistic
 populously
 populousnesses
 porbeagle
@@ -70930,6 +70953,7 @@ raia
 raided
 raider
 raiders
+raiding
 rail
 railbus
 railbusses
@@ -71283,6 +71307,7 @@ ratlike
 ratlin
 ratlines
 ratlins
+rato
 ratooners
 ratooning
 ratoons
@@ -79817,6 +79842,7 @@ shellbarks
 shellcrackers
 shelled
 sheller
+shellfire
 shellfishery
 shelling
 shellproof
@@ -80510,6 +80536,7 @@ sighlike
 sighs
 sight
 sighting
+sightings
 sightless
 sightlessly
 sightlier
@@ -81889,6 +81916,7 @@ sneakier
 sneakily
 sneakinesses
 sneaking
+sneakingly
 sneaky
 sneaped
 sneaps
@@ -82631,6 +82659,7 @@ sorbs
 sorcerer
 sorceress
 sorceresses
+sorcerous
 sorcery
 sord
 sordine
@@ -83287,6 +83316,7 @@ spied
 spiegeleisens
 spiegels
 spiel
+spieled
 spieler
 spiels
 spiered
@@ -84654,6 +84684,7 @@ stiltedness
 stiltednesses
 stilting
 stilts
+stimes
 stimied
 stimies
 stimulants
@@ -89780,6 +89811,7 @@ threatened
 threatener
 threatening
 threating
+threats
 threefold
 threep
 threeped
@@ -91614,6 +91646,7 @@ tress
 tressed
 tressel
 tressels
+tresses
 tressier
 tressiest
 tressours
@@ -96826,6 +96859,7 @@ vignettes
 vignetting
 vignettist
 vignettists
+vigorishes
 vigorous
 vigorously
 vigour
@@ -98982,6 +99016,7 @@ winkling
 winks
 winless
 winnable
+winning
 winningly
 winnocks
 winnow
