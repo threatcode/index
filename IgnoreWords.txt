@@ -2683,6 +2683,7 @@ anagram
 anagrammatic
 anagrammatical
 anagrammatizing
+anagramming
 analcimes
 analcites
 analecta
@@ -7631,6 +7632,7 @@ benefiting
 benefits
 benefitted
 benefitting
+benempt
 benevolence
 benevolently
 bengalines
@@ -8716,6 +8718,7 @@ blackout
 blackouts
 blackpoll
 blacksmith
+blacksmithing
 blacksmithings
 blacktails
 blackthorn
@@ -11167,6 +11170,7 @@ burleys
 burlily
 burlinesses
 burls
+burly
 burn
 burnable
 burned
@@ -11804,6 +11808,7 @@ calmest
 calmness
 calmnesses
 calmodulin
+calmodulins
 calms
 calomel
 calomels
@@ -16240,6 +16245,7 @@ cojoined
 cojones
 cokes
 col
+colander
 colas
 colatitude
 colby
@@ -23307,6 +23313,7 @@ diagenetic
 diagenetically
 diagnose
 diagnoseable
+diagnoses
 diagnostic
 diagnostically
 diagnostician
@@ -25772,6 +25779,7 @@ draftiness
 draftinesses
 draftings
 drafts
+draftsperson
 draftspersons
 drag
 dragee
@@ -25896,6 +25904,7 @@ dreadnought
 dreadnoughts
 dreads
 dream
+dreamboat
 dreamboats
 dreamed
 dreamers
@@ -26779,6 +26788,7 @@ eclectic
 eclectics
 eclipsed
 eclipsers
+eclipses
 eclipsing
 ecliptics
 eclogites
@@ -30135,6 +30145,7 @@ exothermal
 exothermally
 exothermic
 exothermicity
+exotica
 exotically
 exoticism
 exoticist
@@ -31891,6 +31902,7 @@ filariasis
 filariid
 filatures
 filch
+filched
 filcher
 filching
 filefishes
@@ -32678,6 +32690,7 @@ flirtiest
 flirty
 flit
 flitch
+flitched
 flitching
 flites
 flitter
@@ -33698,6 +33711,7 @@ foxgloves
 foxhole
 foxholes
 foxhound
+foxhounds
 foxhunt
 foxhunter
 foxhunters
@@ -34278,6 +34292,7 @@ fuds
 fuel
 fueled
 fueler
+fueling
 fueller
 fuelling
 fuels
@@ -35310,6 +35325,7 @@ gelating
 gelatinization
 gelatinizations
 gelatinize
+gelatinizing
 gelatinous
 gelatinousness
 gelations
@@ -42389,6 +42405,7 @@ impudicity
 impugner
 impuissances
 impuissant
+impulse
 impulses
 impulsing
 impulsions
@@ -50217,6 +50234,7 @@ maffia
 maffias
 maffick
 maffickers
+mafias
 mafioso
 mafiosos
 mag
@@ -57675,6 +57693,7 @@ nonutilitarian
 nonutilities
 nonutility
 nonvalidities
+nonvalidity
 nonvanishing
 nonvascular
 nonvector
@@ -59114,6 +59133,7 @@ opisthobranchs
 opium
 opiumism
 opiumisms
+opiums
 oppilant
 oppilates
 opponents
@@ -60949,6 +60969,7 @@ overlooks
 overlorded
 overlording
 overlordship
+overlove
 overlush
 overlying
 overman
@@ -64495,6 +64516,7 @@ physicalness
 physicalnesses
 physician
 physicochemical
+physics
 physiognomic
 physiognomies
 physiognomy
@@ -64673,6 +64695,7 @@ picturizations
 picturizes
 picturizing
 picul
+piddler
 piddlers
 piddocks
 pidgin
@@ -64946,6 +64969,7 @@ pinnations
 pinned
 pinners
 pinning
+pinnipeds
 pinnulae
 pinnular
 pinnule
@@ -67239,6 +67263,7 @@ preemptor
 preemptors
 preempts
 preenact
+preenacting
 preenacts
 preened
 preeners
@@ -72475,6 +72500,7 @@ regaled
 regalia
 regaling
 regalities
+regality
 regard
 regardant
 regarded
@@ -72792,6 +72818,7 @@ reinstitute
 reinstituted
 reinstituting
 reinsurance
+reinsurances
 reinsure
 reintegrates
 reintegrating
@@ -73234,6 +73261,7 @@ remythologize
 remythologizes
 remythologizing
 renail
+renailed
 renailing
 renaissances
 renal
@@ -77894,6 +77922,7 @@ sculpturing
 scultches
 scumbag
 scumbags
+scumble
 scumbled
 scumbles
 scumless
@@ -78455,6 +78484,7 @@ semiclassic
 semicolonial
 semicolonialism
 semicolonies
+semicolons
 semicolony
 semicoma
 semicomas
@@ -78578,6 +78608,7 @@ sended
 sender
 sendoffs
 sends
+sendup
 seneca
 senecio
 senecios
@@ -82386,6 +82417,7 @@ spaders
 spades
 spadework
 spadeworks
+spadille
 spadilles
 spading
 spado
@@ -92237,6 +92269,7 @@ tympany
 tyne
 tyning
 typal
+type
 typeable
 typebar
 typebars
@@ -96327,6 +96360,7 @@ vinifying
 vining
 vino
 vinosities
+vinous
 vinously
 vintage
 vintagers
@@ -96801,6 +96835,7 @@ vroom
 vroomed
 vrouw
 vrouws
+vrow
 vrows
 vug
 vuggs
