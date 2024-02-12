@@ -1045,6 +1045,7 @@ advisable
 advisably
 advise
 advised
+advisedly
 advisee
 advisees
 advisement
@@ -2111,6 +2112,7 @@ alludes
 allures
 alluring
 alluringly
+allusions
 allusive
 allusively
 allusivenesses
@@ -3699,6 +3701,7 @@ anymore
 anyons
 anyplace
 anythings
+anytime
 anyway
 anywise
 aorist
@@ -6206,6 +6209,7 @@ bailiwicks
 bailment
 bailors
 bailouts
+bailsmen
 bairnish
 bairnlier
 bairnliest
@@ -7668,6 +7672,7 @@ benempt
 benevolence
 benevolently
 bengalines
+benightedly
 benightedness
 benignancies
 benignity
@@ -13182,6 +13187,7 @@ cauldron
 cauldrons
 caulds
 caulicle
+caulicles
 cauliflower
 caulis
 caulked
@@ -14389,6 +14395,7 @@ chinwags
 chionodoxa
 chionodoxas
 chip
+chipmuck
 chipmunks
 chippered
 chippering
@@ -24694,6 +24701,7 @@ disorientation
 disorientations
 disorients
 disown
+disowned
 disownments
 disparage
 disparagement
@@ -26371,6 +26379,7 @@ duetted
 duetting
 duettists
 duff
+duffle
 dufuses
 dug
 dugong
@@ -28633,6 +28642,7 @@ entrains
 entranced
 entrancement
 entrancements
+entranceways
 entrancing
 entrap
 entrapments
@@ -32068,6 +32078,7 @@ filled
 filles
 fillies
 filling
+fillip
 filliped
 filliping
 fillips
@@ -39550,6 +39561,7 @@ heraldic
 heraldically
 heraldists
 heralds
+herb
 herbage
 herbaged
 herbages
@@ -40399,6 +40411,7 @@ homologates
 homologation
 homologations
 homologies
+homologize
 homologized
 homologizers
 homologizes
@@ -41842,6 +41855,7 @@ idioblasts
 idiocy
 idiographic
 idiolectal
+idiolects
 idiomaticness
 idioms
 idiopathic
@@ -45015,6 +45029,7 @@ iodize
 iodizes
 iodizing
 iodometries
+iodophor
 iodophors
 iodopsin
 iolite
@@ -47178,6 +47193,7 @@ krullers
 krumhorns
 krumkake
 krumkakes
+krummhorn
 krummhorns
 kryolite
 kryolites
@@ -52091,6 +52107,7 @@ menstrual
 menstrually
 menstruation
 menstruations
+menstruums
 mensurabilities
 mensural
 mensuration
@@ -52174,6 +52191,7 @@ mercurially
 mercurialnesses
 mercuric
 mercuries
+mercurous
 mercy
 mere
 merengue
@@ -55369,6 +55387,7 @@ multiphoton
 multipion
 multipiston
 multiplant
+multiplayer
 multiple
 multiplet
 multiplets
@@ -57210,6 +57229,7 @@ noncelebration
 noncelebrities
 noncelebrity
 noncellulosic
+noncentral
 noncereal
 noncertificated
 nonchalance
@@ -57724,6 +57744,7 @@ nonproblems
 nonprofessorial
 nonprofits
 nonprogram
+nonprogrammers
 nonprogressive
 nonprosses
 nonprossing
@@ -57841,6 +57862,7 @@ nonstops
 nonstories
 nonstrategic
 nonstructured
+nonstudents
 nonsubject
 nonsubjects
 nonsubsidized
@@ -62868,6 +62890,7 @@ passivations
 passive
 passivenesses
 passivism
+passivisms
 passivities
 passless
 passover
@@ -64246,6 +64269,7 @@ pettles
 petty
 petulance
 petulances
+petulancy
 petulant
 petunias
 petuntse
@@ -64330,6 +64354,7 @@ pharyngitides
 pharyngitis
 pharynx
 phase
+phaseout
 phases
 phasmid
 phasmids
@@ -64616,6 +64641,7 @@ photolyzing
 photomapping
 photomaps
 photomasks
+photomechanical
 photometric
 photometries
 photomicrograph
@@ -67334,6 +67360,7 @@ prechosen
 precincts
 preciosities
 preciouses
+preciousnesses
 precipes
 precipice
 precipices
@@ -67816,6 +67843,7 @@ preponderately
 preponderating
 preponderation
 preponderations
+preposition
 prepositionally
 prepositions
 prepositively
@@ -69366,6 +69394,7 @@ psychoanalysts
 psychoanalytic
 psychoanalyze
 psychoanalyzed
+psychobabble
 psychobabbler
 psychobabblers
 psychobabbles
@@ -69729,6 +69758,7 @@ pupations
 pupfish
 pupfishes
 pupil
+pupilages
 pupils
 puppet
 puppeteered
@@ -72396,6 +72426,7 @@ reedling
 reedlings
 reeds
 reeducate
+reeducated
 reeducating
 reeducation
 reeducations
@@ -79075,6 +79106,7 @@ sepultures
 sequacious
 sequaciously
 sequacities
+sequacity
 sequela
 sequelae
 sequelize
@@ -91236,6 +91268,7 @@ transshaped
 transshapes
 transshaping
 transshipment
+transshipped
 transshipping
 transships
 transsonic
@@ -96528,6 +96561,7 @@ viators
 vibe
 vibist
 vibracula
+vibraharps
 vibrancies
 vibraphonists
 vibrated
@@ -99166,6 +99200,7 @@ wooers
 woof
 woofers
 woofs
+wooingly
 woolen
 woolens
 woolfell
