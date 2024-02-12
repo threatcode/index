@@ -1486,6 +1486,7 @@ agnizes
 agnizing
 agnomen
 agnomens
+agnosia
 agnosticism
 agnosticisms
 agnostics
@@ -2053,6 +2054,7 @@ allometry
 allomorph
 allomorphs
 allonges
+allonyms
 allopath
 allopathies
 allopaths
@@ -4653,6 +4655,7 @@ ascared
 ascarides
 ascaris
 ascend
+ascendable
 ascendance
 ascendant
 ascendants
@@ -5387,6 +5390,7 @@ auspice
 auspices
 austenite
 austenites
+austere
 austerely
 austerenesses
 austerer
@@ -10701,6 +10705,7 @@ brushfires
 brushier
 brushing
 brushland
+brushless
 brushoffs
 brushup
 brushups
@@ -11581,6 +11586,7 @@ caestuses
 caesura
 caesuras
 caesuric
+cafes
 cafeteria
 cafetoria
 cafetorium
@@ -11650,6 +11656,7 @@ calamander
 calamaris
 calamars
 calamary
+calamata
 calamatas
 calamine
 calamines
@@ -14011,6 +14018,7 @@ cheddars
 cheddary
 cheder
 chedites
+cheekbone
 cheekful
 cheekfuls
 cheekinesses
@@ -17253,6 +17261,7 @@ condottiere
 condottieri
 conduced
 conducer
+conducivenesses
 conduct
 conductance
 conductances
@@ -21243,6 +21252,7 @@ debated
 debatement
 debater
 debates
+debauchee
 debauchees
 debaucheries
 debauchers
@@ -24418,6 +24428,7 @@ dishabilles
 disharmonies
 disharmony
 dishdasha
+disheartening
 dishearteningly
 disheartenment
 disheartenments
@@ -26052,6 +26063,7 @@ dropsical
 dropsy
 dropt
 dropworts
+droshkies
 drosophila
 dross
 drosses
@@ -27762,6 +27774,7 @@ emulsify
 emulsoid
 emulsoidal
 emulsoids
+emus
 emydes
 emyds
 en
@@ -29927,6 +29940,7 @@ excursive
 excursivenesses
 excursus
 excusablenesses
+excusatory
 excuse
 excuser
 excusing
@@ -30274,6 +30288,7 @@ exportable
 exported
 exporter
 exporters
+exporting
 exports
 exposable
 exposals
@@ -33318,6 +33333,7 @@ forehoofs
 foreigners
 foreignism
 foreignness
+foreignnesses
 forejudge
 forejudges
 forejudging
@@ -35025,6 +35041,7 @@ garners
 garnish
 garnishee
 garnisheeing
+garnisher
 garnishes
 garnishment
 garote
@@ -39366,6 +39383,7 @@ herbalism
 herbalisms
 herbalist
 herbalists
+herbaria
 herbariums
 herbed
 herbicidal
@@ -40577,6 +40595,7 @@ hosting
 hostler
 hostlers
 hostly
+hosts
 hot
 hotbeds
 hotblood
@@ -41965,6 +41984,7 @@ immoderateness
 immoderation
 immoderations
 immodesties
+immodestly
 immodesty
 immolate
 immolated
@@ -43330,6 +43350,7 @@ infolders
 infolds
 infomercials
 inform
+informal
 informality
 informant
 informatics
@@ -47937,6 +47958,7 @@ leather
 leatherback
 leathered
 leatherette
+leatherettes
 leatherleaf
 leatherlike
 leathern
@@ -52035,6 +52057,7 @@ mesmerise
 mesmerising
 mesmerism
 mesmerisms
+mesmerist
 mesmerize
 mesmerized
 mesmerizer
@@ -53497,6 +53520,7 @@ mismarked
 mismarking
 mismarks
 mismarriage
+mismatch
 mismatching
 mismated
 mismating
@@ -57605,6 +57629,7 @@ nonsynchronous
 nonsystem
 nonsystematic
 nonsystemic
+nontalker
 nontalkers
 nontaxable
 nonteaching
@@ -58477,6 +58502,7 @@ oceloid
 ocelot
 ochered
 ochers
+ochlocracies
 ochlocracy
 ochlocrat
 ochlocrats
@@ -63985,6 +64011,7 @@ phaeton
 phage
 phagedena
 phages
+phagocyte
 phagocytes
 phagocytic
 phagocytize
@@ -73212,6 +73239,7 @@ renaissances
 renal
 rename
 renaming
+renascences
 renascent
 renationalize
 renationalizes
@@ -76588,6 +76616,7 @@ samoyeds
 samp
 sampans
 sample
+samplings
 samsara
 samsaras
 sanatoriums
@@ -83295,6 +83324,7 @@ squalled
 squaller
 squallier
 squalling
+squalls
 squally
 squalor
 squalors
@@ -87661,6 +87691,7 @@ tantamount
 tantara
 tantivy
 tanto
+tantra
 tantrism
 tantrum
 tanuki
@@ -89276,6 +89307,7 @@ thrombins
 thrombocytic
 thromboembolism
 thrombokinase
+thrombokinases
 thrombolytic
 thromboplastic
 thromboplastin
@@ -92418,6 +92450,7 @@ ultramicrotome
 ultramicrotomy
 ultramilitant
 ultramilitants
+ultraminiature
 ultramodern
 ultramodernists
 ultraorthodox
@@ -96754,6 +96787,7 @@ vower
 vowers
 vowing
 vows
+vox
 voyaged
 voyager
 voyages
@@ -98234,6 +98268,7 @@ willow
 willowed
 willowier
 willowiest
+willowlike
 willowware
 willpower
 wills
