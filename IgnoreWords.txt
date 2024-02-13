@@ -1587,6 +1587,7 @@ aider
 aides
 aiding
 aidman
+aids
 aiguille
 aiguillettes
 aikido
@@ -8828,6 +8829,7 @@ blanket
 blanketed
 blanketflower
 blanketing
+blanketlike
 blankets
 blanking
 blankness
@@ -17458,6 +17460,7 @@ conferrence
 conferrences
 conferrer
 conferrers
+conferring
 confers
 confervas
 confess
@@ -18437,6 +18440,7 @@ copyrights
 coquetries
 coquetry
 coquets
+coquette
 coquetted
 coquettes
 coquetting
@@ -18683,6 +18687,7 @@ correlation
 correlational
 correlations
 correlative
+correlatively
 correlatives
 correlators
 correspond
@@ -18694,6 +18699,7 @@ corrida
 corrigenda
 corrigendum
 corrigible
+corrival
 corrivals
 corroborant
 corroborated
@@ -23273,6 +23279,7 @@ deuterides
 deuterium
 deuterostome
 deuterostomes
+deutoplasm
 deutoplasms
 deutzia
 dev
@@ -24046,6 +24053,7 @@ dino
 dinosaurian
 dinosaurs
 dint
+dinting
 dints
 dinucleotide
 dinucleotides
@@ -24214,6 +24222,7 @@ dirls
 dirtbag
 dirtier
 dirties
+dirtily
 dirtinesses
 disabilities
 disability
@@ -25422,6 +25431,7 @@ doggerels
 doggers
 doggery
 doggier
+doggies
 doggiest
 doggish
 doggishly
@@ -26936,6 +26946,7 @@ ecarte
 ecartes
 ecbolics
 eccentric
+ecchymoses
 ecclesia
 ecclesiae
 ecclesiastic
@@ -28336,6 +28347,7 @@ enfettering
 enfetters
 enfever
 enfevered
+enfevering
 enfevers
 enfiladed
 enfilades
@@ -33686,6 +33698,7 @@ foreteeth
 foretellers
 foretelling
 forethought
+forethoughtful
 foretokened
 foretokens
 foretold
@@ -37352,6 +37365,7 @@ grayer
 grayfishes
 grayhound
 grayhounds
+grayish
 graylags
 graylings
 grayly
@@ -37502,6 +37516,7 @@ grieved
 grievers
 grievous
 grievousness
+grievousnesses
 griffe
 griffes
 griffin
@@ -37625,6 +37640,7 @@ groggy
 grogshop
 grogshops
 groin
+groined
 groining
 groins
 grokking
@@ -38416,6 +38432,7 @@ halakhot
 halakist
 halakists
 halal
+halala
 halalah
 halalahs
 halalas
@@ -39901,6 +39918,7 @@ hexade
 hexadecimals
 hexades
 hexads
+hexagonally
 hexagons
 hexagrams
 hexahedron
@@ -48938,6 +48956,7 @@ lightful
 lightheartedly
 lighting
 lightings
+lightless
 lightly
 lightness
 lightnesses
@@ -49689,6 +49708,7 @@ logogram
 logograms
 logographs
 logoi
+logomach
 logomachy
 logon
 logons
@@ -54222,6 +54242,7 @@ mitogens
 mitomycin
 mitosis
 mitotically
+mitral
 mitreworts
 mitring
 mitsvah
@@ -58989,6 +59010,7 @@ octuples
 octuplex
 octuply
 octyl
+octyls
 ocularist
 oculus
 od
@@ -60594,6 +60616,7 @@ outrated
 outrates
 outrating
 outraved
+outraves
 outraving
 outre
 outreach
@@ -76436,6 +76459,7 @@ royalist
 royalists
 royally
 royalmast
+royalmasts
 royalty
 rozzers
 rubaboos
@@ -79708,6 +79732,7 @@ shafting
 shafts
 shag
 shagbark
+shagged
 shaggiest
 shagginess
 shaggy
@@ -82187,6 +82212,7 @@ snowbird
 snowbirds
 snowblink
 snowblinks
+snowblower
 snowblowers
 snowboard
 snowboarded
@@ -82406,6 +82432,7 @@ softheadedly
 softheadedness
 softheads
 softheartedness
+softie
 softies
 softly
 softness
@@ -83516,6 +83543,7 @@ spiraeas
 spiraling
 spirality
 spirally
+spirals
 spirant
 spirants
 spire
@@ -83763,6 +83791,7 @@ sportivenesses
 sports
 sportscaster
 sportscasts
+sportsman
 sportsmanly
 sportswear
 sportswoman
@@ -84347,6 +84376,7 @@ startlements
 startles
 startling
 startlingly
+startsy
 startups
 starvations
 starvelings
@@ -87220,6 +87250,7 @@ survivalists
 survivals
 surviver
 survivers
+survivor
 survivorship
 survivorships
 susceptibility
@@ -89551,6 +89582,7 @@ thegn
 thegnly
 thegns
 theine
+their
 theirself
 theirselves
 theism
@@ -96547,6 +96579,7 @@ venoms
 venous
 venously
 vent
+ventage
 ventail
 ventails
 venter
@@ -99259,6 +99292,7 @@ wisewomen
 wish
 wishbone
 wisher
+wishes
 wishfulness
 wishless
 wisp
@@ -99548,6 +99582,7 @@ wooziest
 woozily
 wooziness
 wops
+wordages
 wordbook
 wordier
 wordiest
