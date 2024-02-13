@@ -2814,6 +2814,7 @@ anatomist
 anatomize
 anatomizes
 anatomy
+anatoxins
 anatropous
 ancestored
 ancestoring
@@ -8812,6 +8813,7 @@ blagging
 blah
 blain
 blame
+blamed
 blameful
 blamefully
 blamelessly
@@ -10924,6 +10926,7 @@ buddy
 budge
 budged
 budgerigar
+budges
 budgetary
 budgeted
 budgeteer
@@ -15885,6 +15888,7 @@ coarsens
 coarsest
 coassist
 coassisted
+coassisting
 coassists
 coassume
 coassumes
@@ -17807,6 +17811,7 @@ consigner
 consigners
 consignments
 consignor
+consigns
 consisted
 consistence
 consistencies
@@ -20020,6 +20025,7 @@ cruciferous
 crucifers
 crucifier
 crucifiers
+crucifies
 crucifixes
 crucifixion
 crucifixions
@@ -21750,6 +21756,7 @@ decompressions
 deconcentrate
 deconcentrated
 deconcentrating
+deconditioned
 deconditioning
 deconditions
 decongest
@@ -23740,6 +23747,7 @@ dicrotism
 dicrotisms
 dicta
 dictate
+dictated
 dictates
 dictation
 dictations
@@ -26685,6 +26693,7 @@ dusts
 dustup
 dustups
 dutch
+dutchman
 dutchmen
 duteous
 dutiable
@@ -27433,6 +27442,7 @@ electivenesses
 elector
 electorally
 electorate
+electorates
 electresses
 electret
 electrets
@@ -27926,6 +27936,7 @@ emotivities
 emotivity
 empale
 empaled
+empaler
 empalers
 empaling
 empanel
@@ -30219,6 +30230,7 @@ execrator
 execs
 executable
 executant
+execute
 executer
 executes
 executing
@@ -31505,6 +31517,7 @@ favella
 favellas
 faveolate
 favor
+favorablenesses
 favored
 favorer
 favorers
@@ -32788,6 +32801,7 @@ flavones
 flavoprotein
 flavorful
 flavoring
+flavorings
 flavorist
 flavorists
 flavorous
@@ -33796,6 +33810,7 @@ forking
 forkless
 forklift
 forklifted
+forklifting
 forklifts
 forks
 forlorn
@@ -36736,6 +36751,7 @@ godchild
 godchildren
 goddam
 goddammed
+goddamndest
 goddamned
 goddamning
 goddaughter
@@ -38230,6 +38246,7 @@ gyred
 gyrenes
 gyres
 gyrfalcons
+gyro
 gyrofrequencies
 gyrofrequency
 gyroidal
@@ -48498,6 +48515,7 @@ legislatorship
 legislatures
 legitimacies
 legitimacy
+legitimated
 legitimating
 legitimation
 legitimations
@@ -61029,6 +61047,7 @@ overbearing
 overbearingly
 overbeat
 overbeating
+overbejeweled
 overbet
 overbetting
 overbid
@@ -63916,6 +63935,7 @@ peons
 peony
 people
 peopled
+peoplehood
 peopling
 pep
 peperomias
@@ -64668,6 +64688,7 @@ phenomenon
 phenothiazine
 phenoxy
 phentolamine
+phenylalanine
 phenylalanines
 phenylene
 phenylic
@@ -68098,6 +68119,7 @@ preordering
 preorders
 preordination
 preordinations
+preovulatory
 preowned
 prep
 prepack
@@ -69135,6 +69157,7 @@ propensity
 propenyl
 properdin
 properdins
+properest
 properness
 propers
 property
@@ -71838,6 +71861,7 @@ reattacks
 reattain
 reattaining
 reattains
+reattribute
 reattributes
 reattributing
 reattribution
@@ -73549,6 +73573,7 @@ relatedly
 relatedness
 relatednesses
 relater
+relates
 relating
 relation
 relational
@@ -75525,6 +75550,7 @@ rhesus
 rhetor
 rhetoric
 rhetorically
+rhetorician
 rhetoricians
 rhetors
 rheum
@@ -79054,6 +79080,7 @@ selenologists
 selenosis
 selfdoms
 selfed
+selfheal
 selfhoods
 selfing
 selfishly
@@ -83215,6 +83242,7 @@ spasmodically
 spasmolytic
 spasms
 spasticities
+spasticity
 spat
 spathose
 spathulate
@@ -84707,6 +84735,7 @@ stereochemistry
 stereograph
 stereographing
 stereographs
+stereography
 stereoisomer
 stereoisomeric
 stereoisomerism
@@ -93694,6 +93723,7 @@ unchauvinistic
 unchecked
 unchildlike
 unchilled
+unchivalrously
 unchlorinated
 unchoke
 unchoked
@@ -93972,6 +94002,7 @@ undercrofts
 undercurrents
 undercut
 undercutting
+underdid
 underdoes
 underdone
 underdose
@@ -95314,6 +95345,7 @@ unspecific
 unsphere
 unsphered
 unspheres
+unspiritual
 unspoiled
 unspool
 unspooled
@@ -97431,6 +97463,7 @@ vizards
 vizcachas
 vizierate
 vizierial
+vizierships
 vizirial
 vizored
 vocable
@@ -97795,6 +97828,7 @@ wagonette
 wagonettes
 wagonloads
 wags
+wagsome
 wagtail
 wahcondas
 wahoo
@@ -99631,6 +99665,7 @@ woollen
 woollier
 woollies
 woolliest
+woollinesses
 woolman
 woolmen
 woolpack
