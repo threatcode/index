@@ -3196,6 +3196,7 @@ answering
 answers
 ant
 antacid
+antacids
 antagonist
 antagonistic
 antagonized
@@ -3645,6 +3646,7 @@ antistrophes
 antistudent
 antisubsidy
 antisuicide
+antisymmetric
 antisyphilitic
 antisyphilitics
 antitarnish
@@ -8487,6 +8489,7 @@ bioplasm
 biopolymer
 biopolymers
 biopsic
+biopsied
 biopsy
 biopsying
 bioregionalisms
@@ -11540,6 +11543,7 @@ cab
 cabala
 cabaletta
 cabalettas
+cabalisms
 cabalists
 caballeros
 caballing
@@ -13611,6 +13615,7 @@ ceriph
 ceriphs
 cerise
 cerite
+cerium
 cermet
 cermets
 cero
@@ -14776,6 +14781,7 @@ chromizes
 chromizing
 chromo
 chromocenters
+chromodynamics
 chromogen
 chromogenic
 chromogens
@@ -16226,6 +16232,7 @@ coffin
 coffined
 coffing
 coffining
+coffins
 coffle
 coffled
 coffling
@@ -24162,6 +24169,7 @@ dipolar
 dippable
 dipped
 dipper
+dippers
 dippier
 dippiness
 dipping
@@ -26852,6 +26860,7 @@ earmuff
 earmuffs
 earn
 earned
+earnest
 earnestnesses
 earning
 earnings
@@ -27776,6 +27785,7 @@ embowing
 embraceable
 embraced
 embracement
+embracements
 embraceor
 embraceors
 embraceries
@@ -28295,6 +28305,7 @@ endosymbiotic
 endothecia
 endothecium
 endothelioma
+endotheliomas
 endothelium
 endotoxic
 endotoxin
@@ -31663,6 +31674,7 @@ feistiness
 feistinesses
 feists
 felafel
+felafels
 feldscher
 feldschers
 feldshers
@@ -32401,6 +32413,7 @@ firepink
 firepinks
 fireplug
 fireplugs
+firepot
 firepots
 firepowers
 fireproofing
@@ -37312,6 +37325,7 @@ gratifies
 gratifying
 gratine
 gratinee
+gratineed
 gratineeing
 gratinees
 gratingly
@@ -37333,6 +37347,7 @@ gravel
 graveled
 gravelled
 gravelling
+gravelly
 graven
 gravenesses
 graver
@@ -38245,6 +38260,7 @@ haberdashery
 habile
 habiliments
 habilitating
+habit
 habitability
 habitableness
 habitablenesses
@@ -41242,6 +41258,7 @@ humuses
 humvee
 humvees
 hun
+hunch
 hunchback
 hunchbacks
 hunched
@@ -46854,6 +46871,7 @@ khets
 khi
 khis
 ki
+kiang
 kiangs
 kibbeh
 kibbis
@@ -47200,6 +47218,7 @@ knickknack
 knife
 knifepoint
 knifing
+knighted
 knighthood
 knighthoods
 knightliness
@@ -47870,6 +47889,7 @@ lanosities
 lanosity
 lantana
 lantern
+lanthanide
 lanthanides
 lanthanons
 lanthanum
@@ -49309,6 +49329,7 @@ liquidly
 liquidnesses
 liquified
 liquifies
+liquify
 liquored
 liquorice
 liquoring
@@ -52281,6 +52302,7 @@ menisci
 meniscoid
 menology
 menopausal
+menopause
 menorah
 menorahs
 menorrhagias
@@ -56898,6 +56920,7 @@ newfangledness
 newies
 newish
 newly
+newlyweds
 newmarket
 newmown
 newness
@@ -60118,6 +60141,7 @@ ouch
 ouching
 oud
 oughted
+oughts
 ouistiti
 ounce
 ouphe
@@ -65627,6 +65651,7 @@ pishogues
 pisiform
 pisiforms
 pismires
+piso
 pisolite
 pisolith
 pissants
@@ -66003,6 +66028,7 @@ playa
 playable
 playactings
 playactors
+playacts
 playas
 playbacks
 playbill
@@ -69367,6 +69393,7 @@ prothonotary
 prothoraces
 prothoraxes
 prothrombin
+prothrombins
 protist
 protists
 protium
@@ -71326,6 +71353,7 @@ rapines
 raping
 rapist
 rapparee
+rapparees
 rapped
 rappee
 rappees
@@ -76035,6 +76063,7 @@ robotized
 robotizing
 robotry
 robots
+robs
 robust
 robusta
 robustas
@@ -78740,6 +78769,7 @@ secern
 secerns
 secession
 secessionisms
+secessionist
 secessionists
 secessions
 secluded
@@ -78837,6 +78867,7 @@ sedatenesses
 sedater
 sedates
 sedatest
+sedations
 sedative
 seders
 sederunt
@@ -83736,6 +83767,7 @@ spoliators
 spondaic
 spondee
 spondees
+sponge
 sponged
 sponges
 spongeware
@@ -91221,6 +91253,7 @@ toxicology
 toxicoses
 toxicosis
 toxics
+toxigenic
 toxine
 toxines
 toxins
@@ -93051,6 +93084,7 @@ typhous
 typhus
 typic
 typically
+typicalness
 typier
 typiest
 typification
@@ -93683,6 +93717,7 @@ uncinal
 uncinariasis
 uncinate
 uncinus
+uncirculated
 uncivil
 uncivilly
 unclad
