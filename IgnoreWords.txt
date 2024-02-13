@@ -357,6 +357,7 @@ accumulators
 accuracies
 accuracy
 accurately
+accurateness
 accursedly
 accusable
 accusal
@@ -1970,6 +1971,7 @@ alkalotic
 alkane
 alkanes
 alkanets
+alkene
 alkenes
 alkie
 alkine
@@ -8292,6 +8294,7 @@ biliousnesses
 biliverdin
 biliverdins
 bilk
+bilked
 bilker
 bilkers
 bilking
@@ -8538,6 +8541,7 @@ biotechnologies
 biotechnology
 biotechs
 biotelemetries
+bioterror
 bioterrors
 biotic
 biotical
@@ -12037,6 +12041,7 @@ camisades
 camisado
 camisados
 camise
+camises
 camisias
 camisole
 cammie
@@ -12368,6 +12373,7 @@ capeskins
 capeworks
 capful
 capfuls
+caphs
 capias
 capiases
 capillaries
@@ -13471,6 +13477,7 @@ cementations
 cemented
 cementer
 cementing
+cements
 cemetery
 cenobite
 cenobites
@@ -14269,6 +14276,7 @@ chequered
 cherimoya
 cherisher
 chernozemic
+chernozems
 cheroots
 cherries
 cherrylike
@@ -19841,6 +19849,7 @@ crinkle
 crinkled
 crinkles
 crinklier
+crinkliest
 crinoidal
 crinoids
 crinoline
@@ -21010,6 +21019,7 @@ dahabiahs
 dahabiehs
 dahabiya
 dahlia
+dahlias
 dahoons
 dahs
 daidzeins
@@ -26344,6 +26354,7 @@ drops
 dropshot
 dropshots
 dropsical
+dropsies
 dropsy
 dropt
 dropworts
@@ -31181,6 +31192,7 @@ fakeer
 fakeers
 faker
 fakeries
+fakers
 fakey
 faking
 fakir
@@ -34393,6 +34405,7 @@ friendless
 friendlies
 friendliest
 friendlily
+friendliness
 friendlinesses
 friends
 friendship
@@ -37907,6 +37920,7 @@ grumbling
 grumblingly
 grumbly
 grume
+grumes
 grummest
 grummeted
 grummeting
@@ -39366,6 +39380,7 @@ hearts
 heartsease
 heartsick
 heartsicknesses
+heartsome
 heartsomely
 heartsore
 heartstring
@@ -42065,6 +42080,7 @@ icosahedral
 icterical
 icterics
 icterus
+icteruses
 ictic
 ictus
 icy
@@ -47904,6 +47920,7 @@ landfills
 landforms
 landholder
 landlers
+landless
 landlessness
 landlessnesses
 landline
@@ -48660,6 +48677,7 @@ lemmings
 lemniscal
 lemniscates
 lemniscus
+lemon
 lemonades
 lemongrass
 lemongrasses
@@ -52923,6 +52941,7 @@ mettled
 mettlesome
 metump
 meuniere
+mewing
 mewl
 mewled
 mewler
@@ -52996,6 +53015,7 @@ microbiologic
 microbiological
 microbiologies
 microbiologist
+microbrewer
 microbrewing
 microbrews
 microbus
@@ -53541,6 +53561,7 @@ miniatures
 miniaturistic
 miniaturization
 miniaturize
+miniaturized
 miniaturizes
 miniaturizing
 minibars
@@ -55446,6 +55467,7 @@ movelessness
 movement
 movements
 mover
+moves
 movie
 moviedoms
 moviegoer
@@ -56941,6 +56963,7 @@ neurochemical
 neurochemicals
 neurochemistry
 neuroendocrine
+neurofibrils
 neurofibromas
 neurogenic
 neuroglial
@@ -64063,6 +64086,7 @@ pepluses
 pepo
 peponida
 peponidas
+peponium
 peponiums
 pepos
 pepped
@@ -65866,6 +65890,7 @@ piton
 pitsaw
 pitta
 pittance
+pittances
 pittas
 pitting
 pittings
@@ -66615,6 +66640,7 @@ poisoned
 poisoner
 poisonous
 poisons
+poisonwood
 poitrel
 poitrels
 poke
@@ -68839,6 +68865,7 @@ privacy
 privatdocent
 private
 privateer
+privately
 privateness
 privatenesses
 privater
@@ -80410,6 +80437,7 @@ shitload
 shitloads
 shitted
 shittier
+shittim
 shittimwood
 shittimwoods
 shiv
@@ -81206,6 +81234,7 @@ sinistrous
 sink
 sinkable
 sinkage
+sinkages
 sinker
 sinlessly
 sinlessness
@@ -81831,6 +81860,7 @@ slimming
 slimpsier
 slimpsiest
 slimpsy
+slims
 slimsier
 sling
 slingback
@@ -86840,6 +86870,7 @@ sunbathing
 sunbaths
 sunbeam
 sunbeams
+sunbeamy
 sunbird
 sunbirds
 sunblocks
@@ -88423,6 +88454,7 @@ tain
 taintless
 taints
 taj
+tajes
 taka
 takahe
 takahes
@@ -94925,6 +94957,7 @@ unkindled
 unkindliest
 unkindly
 unkindness
+unkindnesses
 unkingly
 unkinked
 unkissed
@@ -95311,6 +95344,7 @@ unretires
 unretouched
 unreviewable
 unreviewed
+unrevised
 unrevolutionary
 unrewarded
 unrewarding
@@ -98607,6 +98641,7 @@ weatherperson
 weatherpersons
 weatherproof
 weatherproofed
+weatherproofs
 weathers
 weatherworn
 weaver
