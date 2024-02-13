@@ -16,3 +16,15 @@ wordlist-c.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzz
 titlewords.txt - Apache's svn,https://svn.apache.org/repos/asf/jena/Experimental/JenaPerf/trunk/Benchmarks/BSBM/titlewords.txt
 otcwl-not-ospd5-all - Seattle Scrabble Club,http://www.seattlescrabble.org/data/ThemeLists/otcwl-not-ospd5-all-len.txt
 Dict. Words - Brown CS,https://cs.brown.edu/courses/csci0931/2015-fall/3-synthesis/ACT3-2/dictionary.txt
+The dictionary,https://users.cs.fiu.edu/~weiss/cop4338_spr02/assignments/dict.txt
+merriam-webster.txt - Systems and Computer Engineering,http://www.sce.carleton.ca/faculty/coll/seminar/Labs/5-WebForms/solution/SpellCheck/merriam-webster.txt
+dictionary - Stanford Network Analysis Project,http://snap.stanford.edu/na09/wordsEn.txt
+pictorialsketchb01bowe_djvu.txt - Loc,https://tile.loc.gov/storage-services/public/gdcmassbookdig/pictorialsketchb01bowe/pictorialsketchb01bowe_djvu.txt
+Jordan_Jason_M_phd2011fa.pdf.txt - Scholars' Bank,https://scholarsbank.uoregon.edu/xmlui/bitstream/1794/12117/3/Jordan_Jason_M_phd2011fa.pdf.txt
+english3.txt - Hendrix College: Computer Science,https://hendrix-cs.github.io/csci150/data/english3.txt
+saida3_unsrt.txt - IME-USP,https://www.ime.usp.br/~yoshi/mac122/exx/freq_ABB_testes/saida3_unsrt.txt
+13188-0.txt - Project Gutenberg,https://www.gutenberg.org/files/13188/13188-0.txt
+lrnom,https://dataset.simsage.co.uk/folders/003/003929.txt
+words.txt - Computer Science & Engineering,http://www.cse.uaa.alaska.edu/~afkjm/csce201/spring2022/homeworks/hw4files/words.txt
+words.txt,https://ranger.uta.edu/~alex/courses/1310/data/words.txt
+s-sorted.txt,https://courses.cs.washington.edu/courses/cse373/01au/projects/project2/textfiles/s-sorted.txt
