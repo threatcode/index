@@ -1443,6 +1443,7 @@ aggravation
 aggravations
 aggregate
 aggregately
+aggregateness
 aggregatenesses
 aggregates
 aggregation
@@ -2350,6 +2351,7 @@ ambient
 ambiguities
 ambiguous
 ambiguousnesses
+ambipolar
 ambisexual
 ambisexuality
 ambit
@@ -4852,6 +4854,7 @@ aspirants
 aspiratae
 aspirate
 aspirates
+aspirations
 aspirators
 aspire
 aspired
@@ -5757,6 +5760,7 @@ avocations
 avocet
 avocets
 avodires
+avoidance
 avoided
 avoiding
 avosets
@@ -5857,6 +5861,7 @@ axises
 axisymmetric
 axite
 axle
+axles
 axletree
 axletrees
 axmen
@@ -11810,6 +11815,7 @@ calamars
 calamary
 calamata
 calamatas
+calami
 calamine
 calamines
 calamining
@@ -17950,6 +17956,7 @@ consternations
 constipated
 constipations
 constituencies
+constituent
 constituently
 constituents
 constitute
@@ -19342,6 +19349,7 @@ couture
 couturieres
 couturiers
 couvade
+covalences
 covalencies
 covariance
 covariances
@@ -22308,6 +22316,7 @@ deionizations
 deionized
 deionizer
 deionizers
+deionizes
 deionizing
 deistic
 deistically
@@ -25222,6 +25231,7 @@ distills
 distinct
 distincter
 distinctest
+distinction
 distinctive
 distinctly
 distinctnesses
@@ -27799,6 +27809,7 @@ emancipated
 emancipates
 emancipations
 emarginate
+emargination
 emarginations
 emasculate
 emasculated
@@ -28717,6 +28728,7 @@ enrollment
 enrollments
 enrolls
 enrolment
+enrolments
 enroot
 enrooted
 ens
@@ -31600,6 +31612,7 @@ fatshederas
 fatso
 fatsoes
 fatstock
+fatstocks
 fatted
 fatten
 fattens
@@ -33216,6 +33229,7 @@ florets
 floriated
 floriation
 floriations
+floribunda
 floricane
 floricanes
 floricultural
@@ -34560,6 +34574,7 @@ frizzed
 frizzer
 frizzers
 frizzier
+frizzies
 frizzily
 frizzle
 frizzled
@@ -39060,6 +39075,7 @@ hardnose
 hardpack
 hardpan
 hardpans
+hardset
 hardship
 hardships
 hardstand
@@ -46622,6 +46638,7 @@ juncoes
 juncos
 junction
 junctional
+junctural
 juncture
 jungled
 junglegyms
@@ -59561,6 +59578,7 @@ older
 oldfangled
 oldies
 oldsquaws
+oldstyle
 oldstyles
 oldwife
 oleaginous
@@ -63797,6 +63815,7 @@ peahens
 peak
 peakier
 peakish
+peaklike
 peaks
 peal
 pealed
@@ -67604,6 +67623,7 @@ posttensioning
 posttest
 posttests
 posttransfusion
+posttreatment
 posttrial
 postulancies
 postulant
@@ -68590,6 +68610,7 @@ prescientific
 presciently
 prescind
 prescinding
+prescored
 prescoring
 prescreen
 prescreens
@@ -69192,6 +69213,7 @@ procurable
 procurals
 procurations
 procurator
+procuratorial
 procurators
 procure
 procurers
@@ -75653,6 +75675,7 @@ revel
 revelators
 revelatory
 reveler
+revellers
 revelling
 revelments
 revelries
@@ -76430,6 +76453,7 @@ roadways
 roadwork
 roadworthiness
 roadworthy
+roamed
 roamer
 roamers
 roaming
@@ -77286,6 +77310,7 @@ saccharifying
 saccharimeter
 saccharimeters
 saccharin
+saccharinities
 saccharinity
 saccharometer
 saccharometers
@@ -78182,6 +78207,7 @@ scabbiest
 scabbily
 scabbing
 scabble
+scabbled
 scabbles
 scabies
 scabiosa
@@ -80045,6 +80071,7 @@ setback
 setenant
 setiform
 setline
+setlines
 setoff
 setout
 setscrews
@@ -84560,6 +84587,7 @@ squelching
 squeteague
 squib
 squibbing
+squibs
 squidded
 squids
 squiffed
@@ -88192,6 +88220,7 @@ syllogizing
 sylph
 sylphid
 sylphs
+sylvae
 sylvan
 sylvans
 sylvas
@@ -89791,6 +89820,7 @@ terminated
 terminates
 terminating
 termination
+terminative
 terminatively
 terminator
 terming
@@ -89975,6 +90005,7 @@ tetrahymena
 tetrahymenas
 tetralogies
 tetramer
+tetrameric
 tetramers
 tetrameter
 tetrameters
@@ -91711,6 +91742,7 @@ toxaphene
 toxaphenes
 toxemia
 toxemias
+toxemic
 toxical
 toxicant
 toxicities
@@ -94929,6 +94961,7 @@ ungenteel
 ungentle
 ungently
 ungentrified
+ungenuine
 ungerminated
 ungifted
 ungimmicky
@@ -96954,6 +96987,7 @@ vastnesses
 vasts
 vat
 vatical
+vaticide
 vaticides
 vaticinal
 vaticinated
@@ -99539,6 +99573,7 @@ wideawake
 widely
 widemouthed
 widen
+widened
 wideners
 widenesses
 widening
