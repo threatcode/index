@@ -2247,6 +2247,7 @@ alters
 althaeas
 althorn
 althorns
+altigraph
 altigraphs
 altimeter
 altimeters
@@ -2685,6 +2686,7 @@ amyotonias
 an
 ana
 anabaenas
+anabaptism
 anabases
 anabiosis
 anabiotic
@@ -3233,6 +3235,7 @@ antalkalis
 antarctic
 antas
 antbear
+antbears
 anteater
 anteaters
 antebellum
@@ -3549,6 +3552,7 @@ antinuclear
 antinucleons
 antinuke
 antinuker
+antiobesity
 antioxidants
 antiozonant
 antiozonants
@@ -9171,6 +9175,7 @@ bloodying
 blooie
 bloom
 bloomed
+bloomer
 bloomeries
 bloomiest
 bloomless
@@ -16274,6 +16279,7 @@ codominants
 codon
 codpieces
 codrive
+codrivers
 codrove
 cods
 codswallop
@@ -17847,6 +17853,7 @@ connect
 connectable
 connected
 connectedness
+connectednesses
 connecter
 connecters
 connectible
@@ -27502,6 +27509,7 @@ egalitarian
 egalitarianisms
 egalitarians
 egalite
+eger
 egers
 egestion
 egestive
@@ -27530,6 +27538,7 @@ eglomise
 egocentrically
 egocentricities
 egocentricity
+egocentrics
 egocentrism
 egocentrisms
 egoism
@@ -32976,6 +32985,7 @@ flannelling
 flannelly
 flannels
 flans
+flapdoodle
 flapdoodles
 flaperon
 flapjacks
@@ -33487,6 +33497,7 @@ flunkeys
 flunkie
 flunks
 flunky
+flunkyisms
 fluor
 fluorene
 fluorescence
@@ -38382,6 +38393,7 @@ gulpy
 gum
 gumball
 gumballs
+gumboils
 gumboot
 gumboots
 gumbotils
@@ -39250,6 +39262,7 @@ hardtops
 hardwares
 hardwire
 hardwired
+hardwires
 hardwiring
 hardworking
 hare
@@ -42425,6 +42438,7 @@ identities
 ideogram
 ideogramic
 ideogrammic
+ideograms
 ideograph
 ideographic
 ideographically
@@ -45215,6 +45229,7 @@ interstates
 interstation
 interstellar
 intersterile
+intersterility
 interstice
 interstimulus
 interstrain
@@ -45871,6 +45886,7 @@ isatin
 isatines
 isatinic
 isba
+isbas
 ischaemia
 ischaemias
 ischemia
@@ -45980,6 +45996,7 @@ isonomic
 isonomies
 isonomy
 isooctanes
+isopachs
 isophotal
 isophotes
 isopleth
@@ -51423,6 +51440,7 @@ malkin
 malkins
 mall
 mallards
+malleably
 mallee
 mallemuck
 mallemucks
@@ -60511,6 +60529,7 @@ oropharynxes
 orotund
 orotundity
 orphanage
+orphanages
 orphaned
 orphanhoods
 orphaning
@@ -65904,6 +65923,7 @@ pieceworker
 pieceworkers
 piecing
 piecrust
+piecrusts
 piedmont
 piefort
 pieforts
@@ -71318,6 +71338,7 @@ quartics
 quartiers
 quartiles
 quarto
+quarts
 quartz
 quartzite
 quartzous
@@ -73066,6 +73087,7 @@ recoupment
 recoupments
 recourses
 recoverability
+recoverable
 recoverer
 recoverers
 recoveries
@@ -74041,6 +74063,7 @@ reif
 reification
 reified
 reifiers
+reifies
 reify
 reifying
 reigned
@@ -76487,6 +76510,7 @@ ridgeline
 ridgelings
 ridgels
 ridgepole
+ridges
 ridgetop
 ridgier
 ridgiest
@@ -80921,6 +80945,7 @@ shifted
 shifters
 shiftier
 shiftily
+shifting
 shiftless
 shiftlessly
 shiftlessness
@@ -83413,6 +83438,7 @@ solemnizing
 solemnly
 solemnness
 soleness
+solenodon
 solenodons
 solenoid
 soleplate
@@ -85980,6 +86006,7 @@ stopcocks
 stope
 stopers
 stopes
+stopgaps
 stoplight
 stopoff
 stopover
@@ -86020,6 +86047,7 @@ stormbound
 stormed
 stormiest
 stormily
+storminess
 stormy
 storyboards
 storybook
@@ -87353,6 +87381,7 @@ sugarlike
 sugarloaf
 sugarloaves
 sugary
+suggested
 suggester
 suggesting
 suggestion
@@ -88439,6 +88468,7 @@ swifts
 swigger
 swigging
 swigs
+swill
 swiller
 swillers
 swills
@@ -93349,6 +93379,7 @@ trowth
 truancy
 truant
 truanting
+truantly
 truantry
 truants
 truces
@@ -93565,6 +93596,7 @@ tularemic
 tule
 tules
 tulipwood
+tulipwoods
 tulle
 tumble
 tumblebug
@@ -94494,6 +94526,7 @@ unblocked
 unblocks
 unbloody
 unblurred
+unboarded
 unbobbed
 unbolting
 unbonnet
@@ -99589,6 +99622,7 @@ wergelds
 wergelt
 wergelts
 wergild
+wergilds
 wernerites
 wert
 werwolf
@@ -99982,6 +100016,7 @@ whortle
 whortleberries
 whortles
 whorts
+whose
 whosesoever
 whosever
 whosises
