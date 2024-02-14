@@ -1,0 +1,3 @@
+gcp.project.sqlService | Mondoo Docs,https://docs.mondoo.io/references/mql/gcloud.sql
+censoredplanet-analysis/table/queries/merged_reduced_scans.sql ...,https://github.com/censoredplanet/censoredplanet-analysis/blob/master/table/queries/merged_reduced_scans.sql
+security-analytics/backends/bigquery/sql ... - GitHub,https://github.com/GoogleCloudPlatform/security-analytics/blob/main/backends/bigquery/sql/3_02_vpc_flows_logging_disabled.sql
