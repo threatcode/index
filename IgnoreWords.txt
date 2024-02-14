@@ -293,6 +293,7 @@ accolading
 accommodate
 accommodates
 accommodating
+accommodatingly
 accommodations
 accommodative
 accommodators
@@ -2309,6 +2310,7 @@ amalgamate
 amalgamated
 amalgamates
 amalgamation
+amalgamator
 amalgamators
 amalgams
 amanitas
@@ -4634,6 +4636,7 @@ arrowed
 arrowheads
 arrowing
 arrowless
+arrowroots
 arrows
 arrowwoods
 arrowworms
@@ -5787,6 +5790,7 @@ avidities
 avidity
 avidness
 avifaunae
+avifaunal
 avifaunas
 avigator
 avion
@@ -8881,6 +8885,7 @@ blackguards
 blackhander
 blackhanders
 blackhead
+blackheads
 blackhearts
 blacking
 blackish
@@ -16139,6 +16144,7 @@ cobaltites
 cobaltous
 cobalts
 cobb
+cobbier
 cobbiest
 cobble
 cobbled
@@ -17045,6 +17051,7 @@ commingles
 commingling
 comminute
 comminutes
+comminutions
 commiserate
 commiserated
 commiserates
@@ -22156,6 +22163,7 @@ deeds
 deedy
 deejay
 deejayed
+deejays
 deem
 deemed
 deeming
@@ -23146,6 +23154,7 @@ deracinates
 deracinations
 deraign
 deraigns
+derail
 derailed
 derailing
 derailleur
@@ -31448,6 +31457,7 @@ fadeins
 fadeout
 fadeouts
 fades
+fadge
 fadged
 fadges
 fadging
@@ -35234,6 +35244,7 @@ funnymen
 furan
 furane
 furanes
+furanose
 furanoses
 furanosides
 furbearer
@@ -36283,6 +36294,7 @@ gentlepersons
 gentles
 gentlest
 gentlewoman
+gentrifications
 gentrifier
 gentrifiers
 gentrifies
@@ -36614,6 +36626,7 @@ gimbal
 gimbaled
 gimbaling
 gimballed
+gimballing
 gimbals
 gimcrackeries
 gimcrackery
@@ -41898,6 +41911,7 @@ hurling
 hurlings
 hurly
 hurrah
+hurrayed
 hurraying
 hurrays
 hurricane
@@ -42638,6 +42652,7 @@ idiopathic
 idiopathy
 idioplasms
 idiosyncrasy
+idiosyncratic
 idiot
 idiotic
 idiotical
@@ -48791,6 +48806,7 @@ latina
 latinize
 latinized
 latinizes
+latinizing
 latino
 latish
 latitude
@@ -48801,6 +48817,7 @@ latitudinarian
 latitudinarians
 latke
 latosol
+latosolic
 latrine
 latrines
 lats
@@ -51254,6 +51271,7 @@ mackerels
 mackinaws
 mackintosh
 mackling
+macled
 macles
 macon
 macons
@@ -52199,6 +52217,7 @@ marshaled
 marshaling
 marshalled
 marshalls
+marshalship
 marshalships
 marshier
 marshiest
@@ -55436,6 +55455,7 @@ monitorial
 monitories
 monitoring
 monitors
+monkeying
 monkeypod
 monkeypods
 monkeypot
@@ -55861,6 +55881,7 @@ morros
 morsel
 morseled
 morseling
+mort
 mortadella
 mortadellas
 mortal
@@ -56708,6 +56729,7 @@ mutined
 mutineering
 mutineers
 mutines
+muting
 mutinied
 mutinies
 mutining
@@ -57444,6 +57466,7 @@ nematocysts
 nematode
 nematodes
 nematological
+nematologies
 nematologists
 nematology
 nemertean
@@ -58529,6 +58552,7 @@ nonfarm
 nonfatal
 nonfeasances
 nonfeminist
+nonfeminists
 nonferrous
 nonfeudal
 nonfiction
@@ -59870,6 +59894,7 @@ octantal
 octants
 octapeptides
 octaval
+octave
 octaves
 octavo
 octennial
@@ -62701,6 +62726,7 @@ overtreating
 overtreatment
 overtreatments
 overtricks
+overtrim
 overtrimmed
 overtrump
 overtrumped
@@ -64947,6 +64973,7 @@ pereia
 pereion
 pereions
 pereiopods
+perennates
 perennating
 perennation
 perennations
@@ -67262,6 +67289,7 @@ plushier
 plushiest
 plushily
 plushiness
+plushinesses
 plushnesses
 plushy
 plutei
@@ -69632,6 +69660,7 @@ princocks
 prink
 prinked
 prinker
+prinkers
 printabilities
 printed
 printery
@@ -75385,6 +75414,7 @@ reprovers
 reproves
 reproving
 reprovingly
+reptant
 reptiles
 reptilia
 reptilian
@@ -77302,6 +77332,7 @@ romanticised
 romanticises
 romanticising
 romanticist
+romanticists
 romanticizing
 romaunt
 romaunts
@@ -79320,6 +79351,7 @@ sclaffs
 scleral
 scleras
 sclereid
+sclerite
 scleritises
 scleroderma
 sclerodermas
@@ -92521,6 +92553,7 @@ townie
 townies
 townscape
 township
+townspeople
 townswomen
 towpath
 towpaths
@@ -101548,6 +101581,7 @@ yawls
 yawmeter
 yawmeters
 yawn
+yawned
 yawner
 yawners
 yawningly
@@ -102040,6 +102074,7 @@ zooms
 zoon
 zoonotic
 zoons
+zoophile
 zoophilias
 zoophily
 zoophobia
