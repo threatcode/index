@@ -1232,6 +1232,7 @@ affectless
 affectlessness
 affects
 afferent
+afferently
 afferents
 affiance
 affiant
@@ -2981,6 +2982,7 @@ anginose
 anginous
 angiogeneses
 angiogenesis
+angiogram
 angiograms
 angiographies
 angiography
@@ -5740,6 +5742,7 @@ averageness
 averagenesses
 averages
 averaging
+averment
 averrable
 averred
 averring
@@ -8241,6 +8244,7 @@ bicyclists
 bid
 bidarkee
 bidarkees
+biddabilities
 biddability
 biddable
 biddably
@@ -12925,6 +12929,7 @@ caroming
 carotenoid
 carotidal
 carotids
+carotin
 carotins
 carousals
 carouse
@@ -17791,6 +17796,7 @@ congested
 congesting
 congestion
 congests
+congii
 conglobate
 conglobated
 conglobates
@@ -17875,6 +17881,7 @@ conjunction
 conjunctional
 conjunctions
 conjunctiva
+conjunctivae
 conjunctival
 conjunctivas
 conjunctive
@@ -18662,6 +18669,7 @@ copyists
 copyleft
 copyreader
 copyreaders
+copyreading
 copyright
 copyrightable
 copyrighted
@@ -20220,6 +20228,7 @@ croute
 croutes
 crouton
 crow
+crowbarring
 crowberry
 crowd
 crowded
@@ -23931,6 +23940,7 @@ diasters
 diastolic
 diastrophisms
 diatessaron
+diatessarons
 diathermic
 diathermies
 diathesis
@@ -26805,6 +26815,7 @@ duikers
 duit
 duits
 duked
+dukes
 duking
 dulcetly
 dulcets
@@ -30505,6 +30516,7 @@ exclaimer
 exclamation
 exclamations
 exclamatory
+exclaves
 exclosure
 exclosures
 excludabilities
@@ -34831,6 +34843,7 @@ frizzers
 frizzier
 frizzies
 frizzily
+frizzinesses
 frizzle
 frizzled
 frizzler
@@ -37243,6 +37256,7 @@ godson
 godsons
 godwit
 goes
+goethites
 gofer
 gofers
 goffering
@@ -38855,6 +38869,7 @@ haggadah
 haggadahs
 haggadic
 haggadists
+haggardness
 haggardnesses
 haggards
 haggis
@@ -41099,6 +41114,7 @@ homogenisations
 homogenise
 homogenises
 homogenising
+homogenization
 homogenizations
 homogenizers
 homogenizing
@@ -44644,6 +44660,7 @@ insanity
 insatiability
 insatiableness
 insatiate
+insatiately
 insatiateness
 insatiatenesses
 inscapes
@@ -45542,6 +45559,7 @@ intrepidity
 intrepidly
 intrepidness
 intrepidnesses
+intricacies
 intricately
 intricateness
 intricatenesses
@@ -47079,6 +47097,7 @@ juxtaposes
 juxtaposition
 juxtapositions
 kabala
+kabalas
 kabalist
 kabalists
 kabar
@@ -47326,6 +47345,7 @@ keloid
 kelped
 kelpie
 kelping
+kelps
 kelson
 kelts
 kelvin
@@ -47699,6 +47719,7 @@ kins
 kinsfolk
 kiosks
 kip
+kipped
 kipper
 kippered
 kipperers
@@ -50597,6 +50618,7 @@ lorgnons
 lorica
 loricae
 loricate
+loricates
 lories
 lorikeet
 lorimer
@@ -58302,6 +58324,7 @@ nonconnection
 nonconsensual
 nonconservative
 nonconsolidated
+nonconstant
 nonconstruction
 nonconstructive
 nonconsumers
@@ -60036,6 +60059,7 @@ olden
 older
 oldfangled
 oldies
+oldsquaw
 oldsquaws
 oldstyle
 oldstyles
@@ -62085,6 +62109,7 @@ overfast
 overfastidious
 overfatigued
 overfavor
+overfavored
 overfavoring
 overfavors
 overfear
@@ -66982,6 +67007,7 @@ plebiscite
 plebiscites
 plecopteran
 plectron
+plectrums
 pledge
 pledged
 pledgee
@@ -74360,6 +74386,7 @@ reinform
 reinformed
 reinforms
 reinfused
+reinfusing
 reinhabited
 reinhabits
 reinitiate
@@ -76161,6 +76188,7 @@ retrofire
 retrofires
 retrofit
 retrofits
+retrofitted
 retroflections
 retroflexions
 retrogradation
@@ -86935,6 +86963,7 @@ subceiling
 subceilings
 subcell
 subcellar
+subcenters
 subcentral
 subcentrally
 subchaser
@@ -87443,6 +87472,7 @@ subtype
 subtypes
 subulate
 subunit
+suburban
 suburbanise
 suburbanised
 suburbanises
@@ -91645,6 +91675,7 @@ tingling
 tings
 tinhorn
 tinhorns
+tinier
 tininesses
 tinker
 tinkerer
@@ -91730,6 +91761,7 @@ tireder
 tirednesses
 tireless
 tirelessly
+tirelessnesses
 tires
 tiresome
 tiresomenesses
@@ -94800,6 +94832,7 @@ unbosomed
 unbosomers
 unbosoming
 unbosoms
+unbottles
 unbottling
 unbouncy
 unboundednesses
@@ -98724,6 +98757,7 @@ vizierships
 vizirial
 vizored
 vocable
+vocables
 vocably
 vocabs
 vocabulary
@@ -99414,6 +99448,7 @@ waspishness
 waspishnesses
 waspy
 wassail
+wassailed
 wassailer
 wassailers
 wassailing
