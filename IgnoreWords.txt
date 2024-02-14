@@ -7577,6 +7577,7 @@ beleaps
 belemnite
 belfried
 belga
+belgas
 belied
 beliers
 believabilities
@@ -11132,6 +11133,7 @@ bullsnake
 bullterriers
 bullweeds
 bullwhipped
+bullwhipping
 bullyboy
 bullyboys
 bullying
@@ -12244,6 +12246,7 @@ canistels
 canisters
 canker
 cankered
+cankering
 cankerous
 cankers
 cankerworms
@@ -16422,6 +16425,7 @@ coiffured
 coiffures
 coiffuring
 coifs
+coign
 coigne
 coigned
 coigns
@@ -22483,6 +22487,7 @@ delusive
 delusively
 delusiveness
 delusivenesses
+delusory
 delustered
 delustering
 delusters
@@ -31134,6 +31139,7 @@ fabulousnesses
 facade
 facades
 facecloth
+faced
 faceless
 facelessness
 facelifted
@@ -33000,6 +33006,7 @@ flavorist
 flavorists
 flavorous
 flavory
+flavour
 flavoured
 flavouring
 flavours
@@ -34131,6 +34138,7 @@ forwardnesses
 forwards
 forwent
 forwhy
+forworn
 forzandi
 forzando
 forzandos
@@ -34261,6 +34269,7 @@ fraenums
 fragged
 fragile
 fragilities
+fragility
 fragmental
 fragmentariness
 fragmentary
@@ -35327,6 +35336,7 @@ gallium
 galliums
 gallivanted
 galliwasps
+gallnut
 gallonages
 gallons
 gallooned
@@ -35976,6 +35986,7 @@ genitals
 genitival
 genitives
 genitors
+genitourinary
 geniture
 genius
 geniuses
@@ -36455,6 +36466,7 @@ give
 giveable
 giveaway
 giveaways
+giveback
 givebacks
 given
 givens
@@ -45873,6 +45885,7 @@ isotopy
 isotropies
 isotype
 isotypes
+isozyme
 isozymes
 issei
 isseis
@@ -51267,6 +51280,7 @@ malison
 malisons
 malkin
 malkins
+mall
 mallards
 mallee
 mallemuck
@@ -51824,6 +51838,7 @@ martello
 martellos
 martensite
 martensites
+martial
 martially
 martin
 martinet
@@ -52094,6 +52109,7 @@ matutinally
 matzah
 matzas
 matzo
+matzohs
 matzoons
 matzos
 matzot
@@ -53323,6 +53339,7 @@ microinjects
 microliter
 microliters
 microlith
+microlithic
 microloan
 microloans
 microluces
@@ -55236,6 +55253,7 @@ monteith
 monteiths
 montero
 monteros
+montes
 month
 monthlong
 monthly
@@ -55615,6 +55633,7 @@ mouldier
 mouldiest
 mouldings
 moulds
+moulin
 moulins
 moult
 moulting
@@ -59923,6 +59942,7 @@ opaque
 opaquenesses
 opaquest
 opaquing
+ope
 oped
 open
 openabilities
@@ -66914,6 +66934,7 @@ poinsettia
 poinsettias
 point
 pointable
+pointed
 pointednesses
 pointelle
 pointelles
@@ -67720,6 +67741,7 @@ posttreatment
 posttrial
 postulancies
 postulant
+postulated
 postulates
 postulation
 postulational
@@ -70293,6 +70315,7 @@ pud
 puddle
 puddled
 puddler
+puddlers
 puddles
 puddlier
 puddliest
@@ -73137,6 +73160,7 @@ redound
 redounded
 redout
 redouts
+redpoll
 redpolls
 redraft
 redrafted
@@ -76345,6 +76369,7 @@ rikishas
 rikshaws
 rile
 riled
+riles
 rilievi
 rilievo
 riling
@@ -79913,6 +79938,7 @@ sentimentalise
 sentimentalism
 sentimentalisms
 sentimentality
+sentimentalize
 sentimentalized
 sentimentalizes
 sentiments
@@ -82600,6 +82626,7 @@ smuggler
 smuggles
 smush
 smushed
+smut
 smutchier
 smutchiest
 smutching
@@ -82915,6 +82942,7 @@ snuggerie
 snuggeries
 snuggies
 snugging
+snuggle
 snuggles
 snugly
 snye
@@ -88110,6 +88138,7 @@ sweepier
 sweeping
 sweepingnesses
 sweepings
+sweeps
 sweepstakes
 sweer
 sweetbread
@@ -90020,6 +90049,7 @@ territorialist
 territorialists
 territoriality
 territorializes
+territorially
 territorials
 territories
 territory
@@ -90077,6 +90107,7 @@ testimony
 testiness
 testis
 teston
+testons
 testosterone
 testudo
 testy
@@ -90289,6 +90320,7 @@ theobromine
 theobromines
 theocentric
 theocentricity
+theocentrism
 theocentrisms
 theocracies
 theocrat
@@ -91060,6 +91092,7 @@ tineal
 tineas
 tineid
 tineids
+tines
 tinfoil
 tinfoils
 tinful
@@ -93378,6 +93411,7 @@ turbellarians
 turbeths
 turbid
 turbidimeter
+turbidimetric
 turbidimetries
 turbidite
 turbidity
@@ -96502,6 +96536,7 @@ upswelled
 upswells
 upswings
 upswollen
+upswung
 uptake
 uptalk
 uptalked
