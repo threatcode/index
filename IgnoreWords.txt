@@ -2104,6 +2104,7 @@ allosteric
 allosterically
 allosteries
 allostery
+allotetraploid
 allotetraploids
 allotments
 allotropes
@@ -3638,6 +3639,7 @@ antiserums
 antisex
 antisexist
 antisexists
+antisexual
 antisexuality
 antishoplifting
 antislavery
@@ -5152,6 +5154,7 @@ atheromatous
 atheroscleroses
 atherosclerosis
 atherosclerotic
+athetoses
 athetosis
 athetotic
 athletic
@@ -6812,6 +6815,7 @@ barytas
 barytes
 barytic
 baryton
+barytons
 basally
 basalt
 basaltes
@@ -9171,6 +9175,7 @@ blotchy
 blotless
 blotted
 blotters
+blottiest
 blotto
 blotty
 blouses
@@ -18668,6 +18673,7 @@ coresidents
 corespondents
 corgi
 coria
+coriaceous
 coriander
 coring
 corium
@@ -19709,6 +19715,7 @@ creakiest
 creaky
 cream
 creamed
+creamery
 creamier
 creaminess
 creaminesses
@@ -20883,6 +20890,7 @@ cyclonal
 cyclonites
 cycloolefin
 cycloolefinic
+cyclopaedia
 cyclopaedias
 cycloparaffin
 cyclopedia
@@ -26477,6 +26485,7 @@ dropsies
 dropsy
 dropt
 dropworts
+droseras
 droshkies
 drosophila
 dross
@@ -27037,6 +27046,7 @@ earliness
 earlinesses
 earlobe
 earlock
+earlocks
 early
 earlywoods
 earmark
@@ -30259,6 +30269,7 @@ examinations
 examine
 examined
 examinee
+examiners
 examines
 examining
 example
@@ -32554,6 +32565,7 @@ finials
 finical
 finically
 finicalness
+finicalnesses
 finickier
 finickiest
 finickin
@@ -33834,6 +33846,7 @@ forecast
 forecasted
 forecasting
 forecastles
+forecasts
 forechecked
 forechecker
 forecheckers
@@ -34959,6 +34972,7 @@ fundamentally
 fundamentals
 fundaments
 funded
+funder
 funders
 fundic
 fundraises
@@ -36369,6 +36383,7 @@ gildhall
 gildhalls
 gilding
 gilds
+gill
 gillers
 gillied
 gillnet
@@ -37985,6 +38000,7 @@ grossulars
 grosze
 grotesque
 grotesquely
+grotesquerie
 grotesqueries
 grotesques
 grots
@@ -47777,6 +47793,7 @@ kukri
 kulak
 kulaks
 kultur
+kulturs
 kumiss
 kumisses
 kummels
@@ -51189,6 +51206,7 @@ mainsail
 mainsails
 mainsheet
 mainsheets
+mainstays
 mainstreamed
 mainstreams
 maintainability
@@ -51419,6 +51437,7 @@ managed
 management
 managemental
 manager
+manageress
 manageresses
 managerial
 managership
@@ -56259,6 +56278,7 @@ mushily
 mushinesses
 mushroom
 mushrooms
+mushy
 music
 musicale
 musicalises
@@ -57951,6 +57971,7 @@ noncommitment
 noncommitments
 noncommittally
 noncommunity
+noncommutative
 noncomparable
 noncompetitor
 noncompliance
@@ -71522,6 +71543,7 @@ racialism
 racialisms
 racialist
 racializes
+racializing
 racially
 racier
 racism
@@ -71760,6 +71782,7 @@ rakehelly
 rakeoffs
 raker
 rakes
+rakishnesses
 raku
 rakus
 rale
@@ -72391,6 +72414,7 @@ reassertion
 reasserts
 reassessed
 reassesses
+reassign
 reassigned
 reassigning
 reassignments
@@ -75204,6 +75228,7 @@ resift
 resifted
 resifting
 resifts
+resights
 resign
 resignation
 resignations
@@ -77876,6 +77901,7 @@ sambuke
 sambur
 samburs
 samech
+samechs
 samek
 samekhs
 sameks
@@ -81252,6 +81278,7 @@ sib
 sibb
 sibilance
 sibilances
+sibilant
 sibilants
 sibilates
 sibilator
@@ -84213,6 +84240,7 @@ spile
 spiles
 spilikin
 spill
+spillable
 spillage
 spilled
 spillers
@@ -86577,6 +86605,7 @@ subdural
 subdwarf
 subdwarfs
 subeconomies
+subedit
 subeditor
 subedits
 subemployed
@@ -90479,6 +90508,7 @@ thermograph
 thermographic
 thermographies
 thermographs
+thermography
 thermohaline
 thermojunction
 thermojunctions
@@ -93712,6 +93742,7 @@ twills
 twin
 twinberries
 twinborn
+twine
 twined
 twiner
 twines
@@ -96304,6 +96335,7 @@ unwarmed
 unwarned
 unwarranted
 unwary
+unwashed
 unwashedness
 unwasheds
 unwasted
@@ -99036,6 +99068,7 @@ watthour
 wattlebird
 wattles
 wattless
+wattmeter
 wattmeters
 watts
 waucht
@@ -99403,6 +99436,7 @@ westernization
 westernizations
 westernize
 westernized
+westings
 wests
 westward
 wet
@@ -100827,6 +100861,7 @@ xystus
 ya
 yabber
 yabbered
+yabbering
 yabbie
 yabbies
 yachted
