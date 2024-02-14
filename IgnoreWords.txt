@@ -3215,6 +3215,7 @@ answers
 ant
 antacid
 antacids
+antae
 antagonist
 antagonistic
 antagonized
@@ -11646,6 +11647,7 @@ cabby
 cabdriver
 cabdrivers
 caber
+cabernet
 cabers
 cabestros
 cabezones
@@ -16393,6 +16395,7 @@ cogon
 cogs
 cogway
 cogways
+cogwheel
 cohabit
 cohabitant
 cohabitants
@@ -21483,6 +21486,7 @@ deadbolt
 deadbolts
 deaden
 deadened
+deadening
 deadeningly
 deadenings
 deadest
@@ -22416,6 +22420,7 @@ delectates
 delectating
 delectations
 delegable
+delegated
 delegatee
 delegatees
 delegates
@@ -24624,6 +24629,7 @@ disconcerting
 disconcertingly
 disconcertment
 disconcertments
+disconfirmed
 disconfirming
 disconfirms
 disconformities
@@ -26346,6 +26352,7 @@ dredges
 dredging
 dree
 drees
+dreggier
 dreggish
 dreggy
 dreich
@@ -33232,6 +33239,7 @@ flitters
 flitting
 flivver
 float
+floatable
 floatage
 floatages
 floatations
@@ -36326,6 +36334,7 @@ gibbeted
 gibbets
 gibbetting
 gibbing
+gibbosity
 gibbsite
 gibbsites
 gibe
@@ -37276,6 +37285,7 @@ gormandizers
 gormandizing
 gormed
 gormless
+gorses
 gorsy
 gory
 gos
@@ -38086,6 +38096,7 @@ growthiest
 growthiness
 growthinesses
 groyne
+groynes
 grub
 grubbed
 grubbier
@@ -45261,6 +45272,7 @@ intorted
 intorting
 intoxicant
 intoxicate
+intoxicates
 intoxicating
 intoxication
 intoxications
@@ -46094,6 +46106,7 @@ jaculated
 jacuzzis
 jaded
 jadedness
+jadednesses
 jadelike
 jades
 jading
@@ -48690,6 +48703,7 @@ leadennesses
 leadens
 leaderless
 leadership
+leaderships
 leadoff
 leadoffs
 leadplant
@@ -53539,6 +53553,7 @@ midlands
 midlatitude
 midlatitudes
 midleg
+midlegs
 midlife
 midlifer
 midline
@@ -55759,6 +55774,7 @@ moustache
 moustaches
 moustachio
 moustachios
+mousy
 mouthbreeder
 mouthed
 mouthers
@@ -59481,6 +59497,7 @@ ochers
 ochlocracies
 ochlocracy
 ochlocrat
+ochlocratical
 ochlocrats
 ochone
 ochrea
@@ -59579,6 +59596,7 @@ odour
 odourful
 odyl
 odyle
+odyls
 odysseys
 oecologies
 oecumenical
@@ -61742,6 +61760,7 @@ overengineering
 overenrolled
 overentertained
 overenthusiasm
+overenthusiasms
 overestimate
 overestimating
 overestimation
@@ -63260,6 +63279,7 @@ paraments
 parameter
 parameterizes
 parameters
+parametrically
 parametrization
 parametrizes
 parametrizing
@@ -64058,6 +64078,7 @@ pecorino
 pecorinos
 pectase
 pectases
+pectate
 pectens
 pectic
 pectin
@@ -64946,6 +64967,7 @@ perverting
 perverts
 pervs
 pes
+pesade
 pesades
 pesetas
 pesewa
@@ -66726,6 +66748,7 @@ pliableness
 pliancies
 pliancy
 pliant
+pliantly
 plicae
 plical
 plicate
@@ -69662,6 +69685,7 @@ pronging
 prongs
 pronominal
 pronoun
+pronounced
 pronouncement
 pronouncing
 pronouns
@@ -73283,6 +73307,7 @@ redskins
 redstart
 redstarts
 redtail
+redtails
 redtops
 redubbing
 redubs
@@ -73676,6 +73701,7 @@ refund
 refundable
 refunded
 refunder
+refunders
 refunding
 refunds
 refurbisher
@@ -78525,6 +78551,7 @@ scantier
 scanties
 scantiest
 scanting
+scantlings
 scape
 scaped
 scapegoating
@@ -79322,6 +79349,7 @@ seamer
 seamers
 seamiest
 seaminess
+seaminesses
 seaming
 seamless
 seamlike
@@ -83763,6 +83791,7 @@ spacemen
 spaceport
 spaceports
 spacer
+spacesuit
 spacewalker
 spacewalkers
 spacewalking
@@ -92704,6 +92733,7 @@ tribologists
 tribology
 tribrachs
 tribulate
+tribulates
 tribulation
 tribulations
 tribunal
@@ -92766,6 +92796,7 @@ tricking
 trickish
 trickishnesses
 trickle
+trickles
 tricklier
 trickliest
 trickly
@@ -95438,6 +95469,7 @@ unionise
 unionised
 unionism
 unionisms
+unionizations
 unionize
 unionized
 unionizes
@@ -97776,6 +97808,7 @@ vibe
 vibist
 vibracula
 vibraharps
+vibrances
 vibrancies
 vibraphonists
 vibrated
@@ -97921,6 +97954,7 @@ vilifies
 vilifying
 vilipends
 villadom
+village
 villager
 villagers
 villagery
@@ -101383,6 +101417,7 @@ zoarium
 zocalo
 zodiacs
 zoeae
+zoeal
 zoeas
 zoecia
 zoecium
