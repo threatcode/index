@@ -422,6 +422,7 @@ acetonic
 acetophenetidin
 acetose
 acetyl
+acetylated
 acetylating
 acetylation
 acetylcholines
@@ -1419,6 +1420,7 @@ agentries
 agentry
 agents
 ager
+ageratum
 ageratums
 aggadah
 aggadahs
@@ -4306,6 +4308,7 @@ archaea
 archaeal
 archaebacteria
 archaebacterium
+archaeologies
 archaeologist
 archaeologists
 archaeon
@@ -5289,6 +5292,7 @@ attains
 attaint
 attainted
 attaints
+attar
 attars
 attemper
 attempered
@@ -13575,6 +13579,7 @@ ceilings
 ceinture
 ceintures
 celadon
+celadons
 celandine
 celebrant
 celebrants
@@ -24238,6 +24243,7 @@ diffusions
 diffusive
 diffusively
 diffusiveness
+diffusivities
 diffusivity
 diffusor
 difs
@@ -27029,6 +27035,7 @@ duplicating
 duplication
 duplications
 duplicative
+duplicator
 duplicities
 duplicitous
 dupped
@@ -35498,6 +35505,7 @@ gabbiness
 gabbinesses
 gabbing
 gabble
+gabbler
 gabblers
 gabbles
 gabbling
@@ -35690,6 +35698,7 @@ galls
 gallstone
 gallstones
 gallus
+galluses
 gally
 galoot
 galop
@@ -44631,6 +44640,7 @@ inhume
 inhumed
 inhumer
 inia
+inimitably
 iniquitous
 iniquitously
 initialed
@@ -44882,6 +44892,7 @@ insincerely
 insincerities
 insincerity
 insinuate
+insinuating
 insinuative
 insinuator
 insinuators
@@ -45424,6 +45435,7 @@ internee
 internees
 internments
 internodal
+internodes
 internuclear
 internucleonic
 internuncial
@@ -47061,6 +47073,7 @@ joyride
 joyrider
 joyriders
 joyrode
+joysticks
 jubas
 jubbah
 jubes
@@ -47382,6 +47395,7 @@ karts
 karyogamies
 karyogamy
 karyokineses
+karyokinesis
 karyokinetic
 karyologic
 karyological
@@ -47394,6 +47408,7 @@ karyotyped
 karyotypic
 karyotypically
 kasbah
+kashas
 kasher
 kashered
 kashmirs
@@ -50066,6 +50081,7 @@ linnets
 linocut
 linocuts
 linoleate
+linotyped
 linotyper
 linsang
 linsangs
@@ -52991,6 +53007,7 @@ megrim
 mehndi
 meinie
 meioses
+meiosis
 meiotically
 meister
 meisters
@@ -57407,6 +57424,7 @@ neat
 neaten
 neatening
 neatens
+neatest
 neatherd
 neatherds
 neatness
@@ -58860,6 +58878,7 @@ nonmotilities
 nonmunicipal
 nonmusical
 nonmusicals
+nonmusician
 nonmusicians
 nonmusics
 nonmutants
@@ -58985,6 +59004,7 @@ nonredundant
 nonrefillable
 nonregulated
 nonrelevant
+nonrenewal
 nonrepayable
 nonresidence
 nonresidency
@@ -70176,6 +70196,7 @@ prolocutors
 prologist
 prologizes
 prologue
+prologued
 prologuize
 prologuized
 prologuizes
@@ -73359,6 +73380,7 @@ reclusivenesses
 recoaled
 recoat
 recoated
+recoating
 recoats
 recocked
 recocking
@@ -75236,6 +75258,7 @@ reorchestrating
 reorchestration
 reordain
 reordered
+reordering
 reorganization
 reorganized
 reorganizers
@@ -75408,6 +75431,7 @@ replicates
 replicating
 replication
 replicon
+replied
 replier
 repliers
 replot
@@ -78731,6 +78755,7 @@ santir
 santolina
 santols
 santonin
+santonins
 santoor
 santoors
 santurs
@@ -78837,6 +78862,7 @@ sardonyxes
 sarees
 sargassos
 sargassum
+sargo
 sargos
 sarins
 saris
@@ -79564,6 +79590,7 @@ scoops
 scoot
 scootch
 scootched
+scootches
 scooters
 scooting
 scoots
@@ -80543,6 +80570,7 @@ semipermanent
 semipermeable
 semipopular
 semiporcelain
+semipostals
 semiprecious
 semiprivate
 semipro
@@ -83386,6 +83414,7 @@ smoothed
 smoothen
 smoothening
 smoothens
+smoother
 smoothers
 smoothest
 smoothies
@@ -87637,6 +87666,7 @@ subsidizers
 subsisted
 subsistent
 subsisters
+subsisting
 subsite
 subskills
 subsocieties
@@ -88121,6 +88151,7 @@ sunbeams
 sunbeamy
 sunbird
 sunbirds
+sunblock
 sunblocks
 sunbow
 sunburn
@@ -91726,6 +91757,7 @@ thyrotrophic
 thyrotrophin
 thyrotrophins
 thyrotropic
+thyrotropin
 thyroxins
 thyrses
 thyrsi
@@ -95688,6 +95720,7 @@ undertaking
 undertax
 undertaxed
 undertaxes
+undertenant
 undertenants
 underthrust
 underthrusting
@@ -99738,6 +99771,7 @@ washrag
 washroom
 washrooms
 washstand
+washstands
 washtub
 washup
 washwoman
@@ -101931,6 +101965,7 @@ yoke
 yokefellows
 yokel
 yokelish
+yokes
 yoking
 yoks
 yolk
