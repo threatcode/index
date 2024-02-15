@@ -919,6 +919,7 @@ adopts
 adorabilities
 adorability
 adorable
+adorablenesses
 adorably
 adoration
 adore
@@ -5893,6 +5894,7 @@ axemen
 axes
 axial
 axially
+axil
 axilla
 axillars
 axillary
@@ -8274,6 +8276,7 @@ bided
 bidental
 bider
 bidet
+bidets
 bidi
 bidialectalism
 bidialectalisms
@@ -8379,6 +8382,7 @@ bilby
 bildungsroman
 bile
 bilections
+biles
 bilevels
 bilged
 bilgewaters
@@ -11930,6 +11934,7 @@ calamata
 calamatas
 calami
 calamine
+calamined
 calamines
 calamining
 calamite
@@ -15209,6 +15214,7 @@ cilice
 cimbalom
 cimbaloms
 cimex
+cinch
 cinches
 cinchonas
 cinchonic
@@ -16073,6 +16079,7 @@ coalescences
 coalfield
 coalfields
 coalfishes
+coalholes
 coalier
 coaliest
 coalifies
@@ -26124,6 +26131,7 @@ dorsoventrality
 dorsoventrally
 dorty
 dosed
+doser
 dosimeters
 dosimetric
 dosimetries
@@ -26901,6 +26909,7 @@ dulses
 dumas
 dumb
 dumbbell
+dumbbells
 dumbcanes
 dumbed
 dumber
@@ -27850,6 +27859,7 @@ electroacoustic
 electrocutes
 electrocution
 electrode
+electrodeposit
 electrodermal
 electrodes
 electrodialyses
@@ -28242,6 +28252,7 @@ embryonic
 embryons
 embryophyte
 embryos
+embryotic
 emcee
 emceed
 emcees
@@ -28289,6 +28300,7 @@ emigrated
 emigrates
 emigrating
 emigres
+eminence
 eminencies
 eminent
 eminently
@@ -29929,6 +29941,7 @@ essentialities
 essentialize
 essentializes
 essentializing
+essentialness
 essentials
 esses
 establish
@@ -33149,7 +33162,9 @@ flaneur
 flaneurs
 flange
 flanged
+flanger
 flangers
+flanges
 flanging
 flank
 flanked
@@ -36728,6 +36743,7 @@ ginners
 ginnier
 ginniest
 ginning
+ginny
 ginzo
 ginzoes
 gipon
@@ -38934,6 +38950,7 @@ haematics
 haematin
 haematite
 haemic
+haemin
 haemins
 haemoid
 haems
@@ -44027,6 +44044,7 @@ indigenously
 indigenousness
 indigens
 indigent
+indigested
 indigestibles
 indigestion
 indigestions
@@ -46471,6 +46489,7 @@ jagging
 jaggs
 jaggy
 jags
+jaguarondi
 jaguarundi
 jail
 jailbait
@@ -50816,6 +50835,7 @@ lovabilities
 lovableness
 lovablenesses
 lovably
+lovage
 lovages
 lovats
 loveably
@@ -51036,6 +51056,7 @@ luncher
 lunches
 lunching
 lunchmeat
+lunchmeats
 lunchtime
 lune
 lunes
@@ -63626,6 +63647,7 @@ papist
 papistry
 papooses
 papovavirus
+pappadam
 pappadams
 pappi
 pappier
@@ -63705,6 +63727,7 @@ parainfluenza
 parainfluenzas
 parajournalism
 parakite
+parakites
 paralanguage
 paralanguages
 paralegal
@@ -67138,6 +67161,7 @@ pleasantness
 pleasantry
 please
 pleased
+pleaser
 pleasers
 pleasing
 pleasingly
@@ -74741,6 +74765,7 @@ relatedly
 relatedness
 relatednesses
 relater
+relaters
 relates
 relating
 relation
@@ -76339,6 +76364,7 @@ retries
 retrievability
 retrievable
 retrieval
+retrievals
 retrieve
 retrieved
 retriever
@@ -77271,6 +77297,7 @@ roars
 roast
 roaster
 roasts
+rob
 robalos
 roband
 robbed
@@ -78356,6 +78383,7 @@ salespersons
 saleswoman
 saleswomen
 salic
+salicines
 salicylate
 salicylates
 saliencies
@@ -78635,6 +78663,7 @@ sanitated
 sanitates
 sanitating
 sanitation
+sanities
 sanitization
 sanitizations
 sanitoria
@@ -81220,6 +81249,7 @@ shauled
 shavable
 shave
 shaved
+shaven
 shaver
 shavers
 shaves
@@ -83187,6 +83217,7 @@ sly
 slyboots
 slyness
 slypes
+smacked
 smacking
 smacks
 small
@@ -84889,6 +84920,7 @@ spillage
 spilled
 spillers
 spills
+spin
 spinach
 spinaches
 spinachlike
@@ -90108,6 +90140,7 @@ tawed
 tawie
 tawing
 tawneys
+tawnies
 tawnily
 tawniness
 tawny
@@ -94449,6 +94482,7 @@ twined
 twiner
 twines
 twinflower
+twinged
 twingeing
 twinges
 twinging
@@ -97799,6 +97833,7 @@ valvules
 valvulitises
 vambrace
 vambraced
+vambraces
 vamosed
 vamoses
 vamped
