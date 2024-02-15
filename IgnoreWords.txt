@@ -2096,6 +2096,7 @@ allocution
 allod
 allodial
 allodium
+allograft
 allografted
 allometric
 allometry
@@ -6388,6 +6389,7 @@ baldfaced
 baldhead
 baldies
 balding
+baldish
 baldly
 baldpate
 baldpated
@@ -8528,6 +8530,7 @@ bioassay
 bioassaying
 bioassays
 bioavailable
+biocenose
 biochemical
 biochemically
 biochemicals
@@ -9211,6 +9214,7 @@ bloodfins
 bloodguilt
 bloodguilts
 bloodguilty
+bloodhound
 bloodhounds
 bloodied
 bloodier
@@ -13211,6 +13215,7 @@ castigator
 casting
 castle
 castles
+castling
 castoff
 castor
 castoreum
@@ -13271,6 +13276,7 @@ catalyst
 catalytically
 catalyze
 catalyzed
+catalyzers
 catalyzes
 catalyzing
 catamaran
@@ -14499,6 +14505,7 @@ chested
 chesterfields
 chestful
 chestfuls
+chestily
 chestnut
 chestnuts
 chesty
@@ -15598,6 +15605,7 @@ classico
 classics
 classier
 classiest
+classifiable
 classifications
 classified
 classifiers
@@ -16250,6 +16258,7 @@ cockaded
 cockalorum
 cockalorums
 cockamamie
+cockapoos
 cockatrices
 cockbill
 cockbilled
@@ -17107,6 +17116,7 @@ commiseratingly
 commiseration
 commiserations
 commiserative
+commissariat
 commissariats
 commissaries
 commissary
@@ -27194,6 +27204,7 @@ dynamically
 dynamics
 dynamism
 dynamist
+dynamistic
 dynamists
 dynamited
 dynamiters
@@ -30331,6 +30342,7 @@ eurytopic
 eustacies
 eustasies
 eustasy
+eutaxies
 eutaxy
 eutectoid
 euthanatizes
@@ -38690,6 +38702,7 @@ gumballs
 gumboils
 gumboot
 gumboots
+gumbos
 gumbotils
 gumless
 gumlike
@@ -44161,6 +44174,7 @@ individualities
 individualize
 individualized
 individualizes
+individually
 individuals
 individuates
 individuating
@@ -45073,6 +45087,7 @@ instrumented
 instrumenting
 insubordinate
 insubordinates
+insubordination
 insubstantial
 insufferable
 insufferably
@@ -46712,6 +46727,7 @@ jazzers
 jazzes
 jazzier
 jazziness
+jazzinesses
 jazzlike
 jazzman
 jazzy
@@ -51177,6 +51193,7 @@ lupines
 lupins
 lupous
 lupulins
+lupus
 lurch
 lurched
 lurches
@@ -64951,6 +64968,7 @@ penname
 pennames
 pennant
 pennants
+pennate
 pennated
 pennia
 pennies
@@ -65110,6 +65128,7 @@ peptonizes
 peptonizing
 per
 peracids
+peradventure
 peradventures
 perambulates
 perambulating
@@ -71706,6 +71725,7 @@ quad
 quadplex
 quadplexes
 quadrangles
+quadrangular
 quadrans
 quadrantal
 quadrants
@@ -72687,6 +72707,7 @@ rasping
 raspingly
 raspish
 rasps
+raspy
 rassle
 rassles
 raster
@@ -73992,6 +74013,7 @@ reductive
 reductivenesses
 reductors
 redundancies
+redundancy
 redundantly
 reduplicate
 reduplicated
@@ -74735,6 +74757,7 @@ reinstalls
 reinstate
 reinstatements
 reinstates
+reinstating
 reinstitute
 reinstituted
 reinstituting
@@ -81604,6 +81627,7 @@ shininesses
 shining
 shiningly
 shinleaf
+shinleafs
 shinned
 shinneries
 shinnery
@@ -83046,6 +83070,7 @@ sleepovers
 sleeps
 sleepwalked
 sleepwalkers
+sleepwalks
 sleepwear
 sleepy
 sleepyhead
@@ -83947,6 +83972,7 @@ softa
 softas
 softback
 softbacks
+softballer
 softballers
 softballs
 softbound
@@ -84174,6 +84200,7 @@ somersets
 somersetted
 something
 sometime
+sometimes
 someway
 somewhat
 somewhen
@@ -87322,6 +87349,7 @@ subceiling
 subceilings
 subcell
 subcellar
+subcellular
 subcenters
 subcentral
 subcentrally
@@ -88826,6 +88854,7 @@ surplusing
 surplussed
 surplusses
 surprinting
+surprisals
 surprise
 surprized
 surprizing
@@ -90128,6 +90157,7 @@ tarpon
 tarpons
 tarragon
 tarred
+tarres
 tarriance
 tarried
 tarrier
@@ -94930,6 +94960,7 @@ ultrasharp
 ultraslick
 ultraslow
 ultrasmall
+ultrasmooth
 ultrasoft
 ultrasonics
 ultrasonography
@@ -96326,6 +96357,7 @@ unipotent
 uniquely
 uniquenesses
 unironic
+unironically
 unirrigated
 unisexes
 unisexualities
@@ -98094,6 +98126,7 @@ variometer
 variometers
 variorum
 various
+variousnesses
 varisized
 varistor
 varistors
@@ -101043,6 +101076,7 @@ wintertime
 wintery
 wintled
 wintles
+wintling
 wintrier
 wintriest
 wintriness
@@ -101838,6 +101872,7 @@ yanqui
 yantra
 yapock
 yapoks
+yapon
 yapons
 yapped
 yapper
