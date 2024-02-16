@@ -4631,6 +4631,7 @@ arquebuses
 arracks
 arraign
 arraigner
+arraigners
 arraigning
 arraignment
 arraigns
@@ -5373,6 +5374,7 @@ attic
 atticism
 atticisms
 atticist
+atticists
 atticize
 atticizes
 attire
@@ -16411,6 +16413,7 @@ cockcrows
 cockered
 cockerel
 cockerels
+cockeyed
 cockfight
 cockfights
 cockhorse
@@ -19597,6 +19600,7 @@ counterprotest
 counterprotests
 counterpunch
 counterpuncher
+counterpunchers
 counterquestion
 counterrallies
 counterrallying
@@ -19944,6 +19948,7 @@ crags
 cragsmen
 crambo
 cramboes
+crambos
 crammed
 crammer
 crammers
@@ -30190,6 +30195,7 @@ eschewed
 eschewer
 eschewers
 eschews
+escolars
 escort
 escorted
 escorts
@@ -31337,6 +31343,7 @@ explodes
 exploit
 exploitation
 exploitations
+exploitative
 exploited
 exploiter
 exploiters
@@ -36629,6 +36636,7 @@ genders
 gene
 genealogical
 genealogies
+genealogist
 genealogists
 genealogy
 genera
@@ -37627,6 +37635,7 @@ gnashes
 gnashing
 gnat
 gnatcatchers
+gnathion
 gnathions
 gnathite
 gnathonic
@@ -39054,6 +39063,7 @@ gumshoeing
 gumshoes
 gumweed
 gumweeds
+gun
 gunboats
 guncotton
 guncottons
@@ -42087,6 +42097,7 @@ hotchpot
 hotchpotches
 hotdog
 hotdogged
+hotdoggers
 hotdogs
 hotel
 hoteliers
@@ -42343,6 +42354,7 @@ humiliation
 humiliations
 humilities
 humitures
+hummed
 hummer
 hummers
 humming
@@ -46188,6 +46200,7 @@ introductions
 introductorily
 introfy
 introgressant
+introgressants
 introgressions
 introit
 introits
@@ -47792,6 +47805,7 @@ kallidins
 kallikrein
 kallikreins
 kalmia
+kalmias
 kalongs
 kalpac
 kalpacs
@@ -48295,6 +48309,7 @@ kindlers
 kindles
 kindliness
 kindly
+kindred
 kindreds
 kinds
 kine
@@ -51865,6 +51880,7 @@ macerating
 maceration
 macerators
 macers
+maces
 mache
 maches
 machete
@@ -53044,6 +53060,7 @@ matchmake
 matchmakers
 matchmaking
 matchmark
+matchmarked
 matchmarking
 matchmarks
 matchstick
@@ -54980,6 +54997,7 @@ minyans
 miocene
 miosis
 miotic
+miotics
 miquelet
 mirabelle
 miracles
@@ -55593,6 +55611,7 @@ missilry
 missiologies
 missiology
 missionaries
+missioned
 missioning
 missionizations
 missionize
@@ -58003,6 +58022,7 @@ nebulizing
 nebulosities
 nebulosity
 nebulous
+nebulously
 nebulousness
 nebulousnesses
 necessarily
@@ -60774,6 +60794,7 @@ offscourings
 offscreen
 offsetting
 offshoot
+offshoots
 offshores
 offside
 offspring
@@ -62197,6 +62218,7 @@ outpaces
 outpacing
 outpainted
 outpass
+outpasses
 outpatients
 outpeople
 outpeoples
@@ -64463,6 +64485,7 @@ paranoics
 paranormalities
 paranormals
 paranymph
+parapeted
 paraphrasable
 paraphysis
 paraplegia
@@ -70060,6 +70083,7 @@ presale
 presales
 presanctified
 presbyope
+presbyopias
 presbyopic
 presbyter
 presbyterate
@@ -70226,6 +70250,7 @@ presupposed
 presupposes
 presupposition
 presurgery
+presurveyed
 presurveying
 presurveys
 presweetened
@@ -72666,6 +72691,7 @@ quilling
 quillings
 quillwork
 quillworks
+quillwort
 quillworts
 quilted
 quin
@@ -75715,6 +75741,7 @@ remarkable
 remarkableness
 remarked
 remarker
+remarkers
 remarketed
 remarketing
 remarque
@@ -76089,6 +76116,7 @@ repentances
 repentant
 repentantly
 repenter
+repenters
 repenting
 repents
 repeople
@@ -81871,6 +81899,7 @@ sexuality
 sexualize
 sexualizes
 sexually
+sexy
 sferics
 sforzandi
 sforzandos
@@ -82239,6 +82268,7 @@ shiatzu
 shibboleth
 shibboleths
 shicker
+shickers
 shicksa
 shicksas
 shied
@@ -86646,9 +86676,11 @@ star
 starboard
 starboarded
 starboarding
+starburst
 starbursts
 starch
 starched
+starches
 starchiest
 starchily
 starching
@@ -90561,6 +90593,7 @@ tailors
 tailpiece
 tailpieces
 tailpipes
+tailrace
 tailraces
 tailskid
 tailskids
@@ -94876,6 +94909,7 @@ trudged
 trudgeon
 trudger
 trudges
+trudging
 true
 trueborn
 trueheartedness
@@ -101885,6 +101919,7 @@ winter
 winterberries
 wintered
 winterer
+winterers
 winterfed
 winterfeed
 wintergreens
