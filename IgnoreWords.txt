@@ -996,6 +996,7 @@ adulterine
 adulterous
 adulthood
 adulthoods
+adultlike
 adultly
 adultness
 adultress
@@ -4531,6 +4532,7 @@ aristate
 aristo
 aristocracies
 aristocrats
+arithmetical
 arithmetically
 arithmetician
 arkose
@@ -6748,6 +6750,7 @@ barchan
 barchans
 bardes
 bardic
+bare
 bareback
 barebacked
 bareboat
@@ -7092,6 +7095,7 @@ batteaux
 battement
 battements
 battener
+batteners
 battening
 batterer
 batterers
@@ -8734,6 +8738,7 @@ biotic
 biotical
 biotin
 biotins
+biotites
 biotope
 biotoxin
 biotrons
@@ -11561,6 +11566,7 @@ burrito
 burrowed
 burrower
 burrows
+burrstone
 burrstones
 burry
 bursa
@@ -13292,6 +13298,7 @@ cassino
 cassiterite
 cassiterites
 cassoulet
+cassoulets
 castabilities
 castability
 castanet
@@ -15215,6 +15222,7 @@ chuckle
 chucklehead
 chuckleheaded
 chuckler
+chucklesome
 chucklingly
 chuckwalla
 chuckwallas
@@ -19965,6 +19973,7 @@ crankling
 cranks
 crankshaft
 crankshafts
+crannoge
 crannoges
 crannogs
 cranreuch
@@ -22661,6 +22670,7 @@ defuzes
 defuzing
 defying
 degames
+degamis
 degases
 degassed
 degassers
@@ -24506,6 +24516,7 @@ dignitaries
 dignitary
 dignities
 dignity
+digoxin
 digoxins
 digraphs
 digressed
@@ -32566,6 +32577,7 @@ fencing
 fencings
 fended
 fendered
+fenders
 fending
 fenestrae
 fenlands
@@ -33986,6 +33998,7 @@ fluidized
 fluidizer
 fluidizing
 fluidly
+fluidness
 fluidnesses
 fluids
 fluish
@@ -34019,6 +34032,7 @@ fluorescence
 fluorescences
 fluorescents
 fluorescers
+fluoresces
 fluorid
 fluoridated
 fluoridates
@@ -35989,6 +36003,7 @@ gallipots
 gallium
 galliums
 gallivanted
+gallivanting
 galliwasps
 gallnut
 gallonages
@@ -41154,6 +41169,7 @@ hilloaed
 hilloaing
 hillock
 hillocky
+hilloed
 hilloes
 hillos
 hillsides
@@ -41405,6 +41421,7 @@ hogmane
 hogmenay
 hogmenays
 hognut
+hogs
 hogshead
 hogsheads
 hogtied
@@ -44366,6 +44383,7 @@ indefensibly
 indefinability
 indefinables
 indefinably
+indefinite
 indefiniteness
 indefinites
 indehiscence
@@ -44640,6 +44658,7 @@ ineligibles
 ineluctability
 ineluctably
 inenarrable
+ineptitude
 ineptly
 ineptness
 inequalities
@@ -44851,6 +44870,7 @@ inflictors
 inflows
 influence
 influenced
+influent
 influentially
 influenzal
 influenzas
@@ -48302,6 +48322,7 @@ kinnikinnick
 kinos
 kins
 kinsfolk
+kinships
 kiosks
 kip
 kipped
@@ -58154,6 +58175,7 @@ neoned
 neoorthodoxy
 neophilia
 neophiliac
+neophiliacs
 neophilias
 neophytes
 neoplasia
@@ -58506,6 +58528,7 @@ nicol
 nicotianas
 nicotin
 nicotinamides
+nicotines
 nictates
 nictating
 nictation
@@ -58536,6 +58559,7 @@ niellists
 niello
 nielloed
 nielloing
+nieve
 nifedipine
 nifedipines
 niffer
@@ -60368,6 +60392,7 @@ obsecrates
 obsecrating
 obsequies
 obsequiously
+obsequy
 observability
 observable
 observables
@@ -66828,6 +66853,7 @@ picaros
 picayunes
 picayunish
 piccalilli
+piccalillis
 piccolo
 piccoloist
 pice
@@ -71754,6 +71780,7 @@ pulvillus
 pulvinar
 pulvinate
 pulvini
+puma
 pumelo
 pumice
 pumiced
@@ -72061,6 +72088,7 @@ putative
 putdown
 putlog
 putlogs
+putoffs
 putonghua
 putonghuas
 putons
@@ -85583,6 +85611,7 @@ spermophile
 spermophiles
 spermous
 sperms
+spessartines
 spessartite
 spessartites
 spew
@@ -86712,6 +86741,7 @@ steamering
 steamers
 steamfitter
 steamfitters
+steamiest
 steamily
 steaminess
 steaminesses
@@ -87538,6 +87568,7 @@ street
 streetcars
 streetlight
 streetlights
+streets
 streetscapes
 strength
 strengthen
@@ -90372,6 +90403,7 @@ tackify
 tackiness
 tackinesses
 tacking
+tackle
 tackless
 tacks
 tacnodes
@@ -91186,6 +91218,7 @@ telamon
 telamones
 telangiectases
 telangiectasia
+telangiectasias
 telco
 telcos
 tele
@@ -96220,6 +96253,7 @@ uncoupler
 uncoupling
 uncourageous
 uncouthness
+uncouthnesses
 uncovenanted
 uncovering
 uncoy
@@ -101076,6 +101110,7 @@ wens
 went
 wentletraps
 wept
+were
 weregild
 werewolves
 wergeld
