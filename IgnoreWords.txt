@@ -3846,6 +3846,7 @@ aphanites
 aphanitic
 aphasia
 aphasiac
+aphasias
 aphasics
 aphelia
 aphelions
@@ -6621,6 +6622,7 @@ bankits
 banknotes
 bankroll
 bankrolled
+bankrolls
 bankruptcies
 bankrupting
 bankrupts
@@ -10727,6 +10729,7 @@ brindle
 brined
 briner
 briners
+bring
 bringdown
 bringing
 brinier
@@ -11921,6 +11924,7 @@ caeca
 caecally
 caecilian
 caecilians
+caecum
 caeomas
 caesar
 caesarean
@@ -13584,6 +13588,7 @@ cavernously
 cavers
 caves
 cavettos
+caviar
 caviars
 cavicorn
 cavil
@@ -14596,6 +14601,7 @@ chiasm
 chiasma
 chiasmata
 chiasmatic
+chiasmi
 chiastic
 chiaus
 chiauses
@@ -16516,6 +16522,7 @@ coenocytes
 coenocytic
 coenures
 coenurus
+coenzymatically
 coenzymes
 coequalities
 coequality
@@ -19210,6 +19217,7 @@ coseismal
 coseismics
 coses
 coshed
+coshered
 coshering
 coshers
 coshes
@@ -22271,6 +22279,7 @@ decoyed
 decoyer
 decoying
 decrease
+decreased
 decreasing
 decreasingly
 decree
@@ -23274,6 +23283,7 @@ depraved
 depravedness
 depravednesses
 depravement
+depravements
 depraver
 depravers
 depraves
@@ -27117,6 +27127,7 @@ dummied
 dummkopfs
 dummying
 dumortierite
+dumortierites
 dump
 dumpcart
 dumpcarts
@@ -28221,6 +28232,7 @@ elucidates
 elucidating
 elucidation
 elucidative
+elucidator
 elucidators
 elucubrate
 elucubrates
@@ -28550,6 +28562,7 @@ empathetically
 empathically
 empathies
 empathise
+empathised
 empathises
 empathising
 empathize
@@ -36375,6 +36388,7 @@ gazillion
 gazillions
 gazogene
 gazoo
+gazpacho
 gazpachos
 gazump
 gazumpers
@@ -40023,6 +40037,7 @@ hazelnut
 hazels
 hazers
 hazes
+haziest
 hazily
 hazing
 hazmat
@@ -40113,6 +40128,7 @@ heal
 healable
 healed
 healer
+healing
 heals
 health
 healthfulness
@@ -44504,6 +44520,7 @@ inefficiencies
 inefficiency
 inefficients
 inegalitarian
+inelastic
 inelasticities
 inelasticity
 inelegances
@@ -50959,6 +50976,7 @@ long
 longan
 longanimity
 longbowmen
+longbows
 longed
 longer
 longeron
@@ -51645,6 +51663,7 @@ lytta
 lyttae
 ma
 macaber
+macabre
 macadamias
 macadamize
 macadamized
@@ -59460,6 +59479,7 @@ nontalker
 nontalkers
 nontaxable
 nonteaching
+nontechnical
 nontemporal
 nontenured
 nonterminals
@@ -62540,6 +62560,7 @@ overcontrolling
 overcooking
 overcooks
 overcool
+overcooled
 overcools
 overcorrected
 overcorrecting
@@ -69062,6 +69083,7 @@ preachers
 preaches
 preachified
 preachify
+preachily
 preachiness
 preachingly
 preachments
@@ -72657,6 +72679,7 @@ radiobiological
 radiobiologies
 radiocarbons
 radiochemist
+radiochemistry
 radioecologies
 radioecology
 radiogram
@@ -78897,6 +78920,7 @@ salients
 salify
 salimeter
 salimeters
+salimetries
 salina
 saline
 salines
@@ -78997,6 +79021,7 @@ saluter
 saluters
 saluting
 salvage
+salvageability
 salvaged
 salvagees
 salvarsans
@@ -85249,6 +85274,7 @@ speculation
 speculative
 speculatively
 speculator
+speculators
 speculum
 speculums
 speech
@@ -86951,6 +86977,7 @@ stockpiled
 stockpiler
 stockpiles
 stockpiling
+stockpot
 stockpots
 stockrooms
 stocktakings
@@ -88405,6 +88432,7 @@ sufferer
 sufferers
 suffering
 sufferings
+suffers
 sufficer
 sufficers
 suffices
@@ -90832,6 +90860,7 @@ technic
 technical
 technicalities
 technicalize
+technicalized
 technicalizing
 technicals
 technician
@@ -91026,6 +91055,7 @@ telestics
 teletext
 teletexts
 teletype
+teletyped
 teletypewriter
 teletypewriters
 teletyping
@@ -92060,6 +92090,7 @@ threadlike
 threads
 threadworm
 threadworms
+threap
 threaped
 threaping
 threaps
@@ -93804,6 +93835,7 @@ travelogue
 traversable
 traversal
 traversals
+traverse
 traversers
 traverses
 travertine
@@ -97436,6 +97468,7 @@ unsoldierly
 unsolid
 unsolved
 unsoncy
+unsonsy
 unsoothed
 unsophisticated
 unsought
@@ -99155,6 +99188,7 @@ vibracula
 vibraharps
 vibrances
 vibrancies
+vibrantly
 vibraphonists
 vibrated
 vibrates
@@ -102537,6 +102571,7 @@ yores
 yottabyte
 you
 youngberries
+youngberry
 youngers
 youngish
 youngling
