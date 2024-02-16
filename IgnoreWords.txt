@@ -7818,6 +7818,7 @@ benedict
 benedictions
 benedictory
 benefaction
+benefactress
 benefactresses
 benefic
 benefice
@@ -10914,6 +10915,7 @@ brooks
 broomball
 broomballer
 broomballers
+broomballs
 broomcorns
 broomed
 broomier
@@ -12554,6 +12556,7 @@ canvasbacks
 canvases
 canvassers
 canvasses
+canyoneers
 canyons
 canzona
 canzonas
@@ -15660,6 +15663,7 @@ classics
 classier
 classiest
 classifiable
+classification
 classifications
 classified
 classifiers
@@ -15840,6 +15844,7 @@ clientages
 cliental
 clienteles
 clifflike
+cliffs
 climacterics
 climatal
 climatically
@@ -16811,6 +16816,7 @@ collect
 collectables
 collected
 collectedly
+collectednesses
 collectible
 collectively
 collectives
@@ -21074,6 +21080,7 @@ cuvee
 cuvees
 cuvette
 cyan
+cyanamid
 cyanamids
 cyanate
 cyanates
@@ -21985,6 +21992,7 @@ decantations
 decanted
 decanter
 decants
+decapitation
 decapitator
 decapod
 decapodans
@@ -24159,6 +24167,7 @@ diazo
 diazole
 diazotization
 diazotized
+diazotizes
 diazotizing
 dib
 dibasic
@@ -24218,6 +24227,7 @@ dickie
 dickier
 dickies
 diclinism
+diclinisms
 diclinous
 dicliny
 dicot
@@ -26887,6 +26897,7 @@ druggiest
 drugging
 druggist
 druggists
+drugmaker
 drugs
 drugstore
 druidic
@@ -29153,6 +29164,7 @@ enplane
 enplaned
 enplanes
 enplaning
+enquire
 enquired
 enquires
 enquiring
@@ -30448,6 +30460,7 @@ eurokous
 euroky
 europium
 europiums
+euros
 eurybathic
 eurybaths
 euryhaline
@@ -31537,6 +31550,7 @@ eyehole
 eyeholes
 eyehooks
 eyelash
+eyelashes
 eyeless
 eyeletting
 eyelids
@@ -32996,6 +33010,7 @@ fingerling
 fingerlings
 fingernails
 fingerpick
+fingerpicked
 fingerpicking
 fingerpickings
 fingerpicks
@@ -34207,6 +34222,7 @@ footler
 footlessly
 footlight
 footlights
+footlockers
 footman
 footmarks
 footnoted
@@ -40871,6 +40887,7 @@ heydeys
 hi
 hiatus
 hibernacula
+hibernaculum
 hibernate
 hibernated
 hibernates
@@ -46153,6 +46170,7 @@ invirile
 inviscid
 invisibilities
 invisible
+invisiblenesses
 invisibles
 invisibly
 invital
@@ -49384,6 +49402,7 @@ leadoff
 leadoffs
 leadplant
 leadplants
+leads
 leadscrews
 leadwort
 leadworts
@@ -54559,6 +54578,7 @@ mimetites
 mimic
 mimicked
 mimickers
+mimics
 miming
 mimosa
 mimosas
@@ -57077,6 +57097,7 @@ musicalizations
 musicalize
 musicalized
 musicals
+musician
 musicianly
 musicians
 musicked
@@ -57966,6 +57987,7 @@ neoteny
 neoteric
 neoterics
 neotropics
+nepenthe
 nepenthean
 nepenthes
 nephelines
@@ -59503,6 +59525,7 @@ noodle
 noodled
 noodles
 noogie
+noogies
 nookie
 nooklike
 nooks
@@ -61381,6 +61404,7 @@ ossifiers
 ossifies
 ossifrages
 osteal
+osteitic
 osteitis
 ostensible
 ostensoria
@@ -62846,6 +62870,7 @@ overmedicate
 overmedicated
 overmedicates
 overmedicating
+overmedication
 overmeek
 overmelts
 overmild
@@ -64338,6 +64363,7 @@ parmigiano
 parochial
 parochialism
 parochialisms
+parochially
 parodical
 parodied
 parodist
@@ -70408,6 +70434,7 @@ professing
 professional
 professionalism
 professionally
+professions
 professor
 professorates
 professorial
@@ -70451,6 +70478,7 @@ progeny
 progeria
 progestational
 progesterones
+progestin
 progestogen
 progestogenic
 progestogens
@@ -70908,6 +70936,7 @@ protegee
 protegees
 proteges
 proteids
+proteinaceous
 proteinases
 proteinic
 proteins
@@ -75671,6 +75700,7 @@ repaints
 repair
 repairabilities
 repairability
+repairable
 repaired
 repairer
 repairers
@@ -90644,6 +90674,7 @@ tawnies
 tawnily
 tawniness
 tawny
+tawpies
 taws
 tawsed
 tawsing
@@ -91049,6 +91080,7 @@ tempest
 tempested
 tempests
 tempestuously
+tempi
 temping
 templar
 templates
@@ -91857,6 +91889,7 @@ thio
 thiol
 thiols
 thionic
+thionines
 thionins
 thionyls
 thiopental
@@ -93516,6 +93549,7 @@ transferred
 transferrers
 transferrin
 transferring
+transferrins
 transfers
 transfiguration
 transfigure
@@ -94136,6 +94170,7 @@ trimetrogon
 trimetrogons
 trimmed
 trimmer
+trimmers
 trimmest
 trimorph
 trimorphic
