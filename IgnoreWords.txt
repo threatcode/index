@@ -5923,6 +5923,7 @@ awnings
 awnless
 awns
 awny
+awol
 awols
 ax
 axal
@@ -6643,6 +6644,7 @@ bannerols
 banners
 bannister
 bannisters
+banquet
 banqueted
 banqueter
 banqueters
@@ -9807,6 +9809,7 @@ bonspiel
 bonspiels
 bontebok
 bonteboks
+bonus
 bonuses
 bony
 bonze
@@ -20415,6 +20418,7 @@ crouching
 croup
 croupes
 croupous
+croups
 crouse
 crousely
 croustade
@@ -22299,6 +22303,7 @@ decrement
 decrements
 decrepit
 decrepitated
+decrepitating
 decrepitations
 decrepitly
 decrepitudes
@@ -25787,6 +25792,7 @@ divaricate
 divaricated
 divarications
 dive
+divebomb
 divebombed
 divebombs
 diver
@@ -28383,6 +28389,7 @@ emboldened
 emboldening
 emboldens
 embolectomies
+embolectomy
 embolies
 embolismic
 embolisms
@@ -36595,6 +36602,7 @@ genre
 genres
 genro
 genros
+gens
 genseng
 gent
 gentamicin
@@ -36622,6 +36630,7 @@ gentlepersons
 gentles
 gentlest
 gentlewoman
+gentrification
 gentrifications
 gentrifier
 gentrifiers
@@ -38066,6 +38075,7 @@ grandiflora
 grandiloquence
 grandiosely
 grandiosities
+grandioso
 grandkid
 grandmama
 grandmas
@@ -38708,6 +38718,7 @@ grumbly
 grume
 grumes
 grummest
+grummet
 grummeted
 grummeting
 grummets
@@ -38811,6 +38822,7 @@ guesses
 guessing
 guesstimate
 guesstimated
+guesstimating
 guessworks
 guest
 guesting
@@ -40504,6 +40516,7 @@ hematologic
 hematologists
 hematology
 hematoma
+hematomata
 hematophagous
 hematopoieses
 hematopoiesis
@@ -50417,6 +50430,7 @@ linsangs
 linseeds
 linseys
 lint
+lintel
 lintels
 linter
 linters
@@ -50696,6 +50710,7 @@ lixiviations
 lixivium
 lizards
 llama
+llamas
 lo
 loach
 load
@@ -53694,6 +53709,7 @@ merits
 merks
 merlin
 merlins
+merlots
 merls
 mermaid
 mermaids
@@ -54193,6 +54209,7 @@ microfibrillar
 microfiches
 microfilament
 microfilaments
+microfilariae
 microfilarial
 microfilmed
 microfilmer
@@ -54560,6 +54577,7 @@ millidegree
 millieme
 milligal
 milligals
+millihenries
 millihenry
 millilamberts
 millilux
@@ -55096,6 +55114,7 @@ misemphasize
 misemphasized
 misemploy
 misemployment
+misemployments
 misemploys
 misenrols
 misenter
@@ -58575,6 +58594,7 @@ nitro
 nitrobenzenes
 nitrocelluloses
 nitrofuran
+nitrofurans
 nitrogen
 nitrogens
 nitroglycerin
@@ -59128,6 +59148,7 @@ nonhistorical
 nonhome
 nonhomogeneous
 nonhomologous
+nonhormonal
 nonhospital
 nonhostile
 nonhousing
@@ -62855,6 +62876,7 @@ overingenious
 overingenuities
 overingenuity
 overinsistent
+overintense
 overintensities
 overintensity
 overinvestment
@@ -66395,6 +66417,7 @@ photochemically
 photochemist
 photochromic
 photochromism
+photochromisms
 photocomposer
 photocomposing
 photocopy
@@ -70510,6 +70533,7 @@ professions
 professor
 professorates
 professorial
+professoriat
 professoriats
 professors
 professorships
@@ -71586,6 +71610,7 @@ pulsojets
 pulverable
 pulverise
 pulverises
+pulverizations
 pulverize
 pulverized
 pulverizer
@@ -76114,6 +76139,7 @@ repulsing
 repulsive
 repulsiveness
 repumped
+repumping
 repumps
 repunctuations
 repurchase
@@ -79555,6 +79581,7 @@ saviors
 savored
 savorer
 savorier
+savorily
 savorinesses
 savoring
 savorless
@@ -82977,6 +83004,7 @@ sinusitis
 sinusitises
 sinuslike
 sinusoidal
+sinusoidally
 sip
 siphonage
 siphonages
@@ -90693,6 +90721,7 @@ tasters
 tastiness
 tastinesses
 tasting
+tasty
 tat
 tatamis
 tater
@@ -94631,6 +94660,7 @@ trussers
 trusses
 trussing
 trustabilities
+trustability
 trustee
 trusteeships
 truster
@@ -96829,6 +96859,7 @@ uninucleate
 uninvited
 uninvoked
 union
+unionisation
 unionisations
 unionise
 unionised
@@ -98896,6 +98927,7 @@ ventifacts
 ventilated
 ventilates
 ventilations
+ventless
 ventral
 ventrally
 ventricles
@@ -100865,6 +100897,7 @@ weltschmerzes
 wench
 wenching
 wend
+wendigo
 wendigos
 wends
 wenniest
@@ -101805,6 +101838,7 @@ wolffishes
 wolfhound
 wolfhounds
 wolfish
+wolfishly
 wolfishnesses
 wolfram
 wolframite
@@ -102347,6 +102381,7 @@ yabbered
 yabbering
 yabbie
 yabbies
+yabby
 yachted
 yachters
 yachtings
