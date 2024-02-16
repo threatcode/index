@@ -3755,6 +3755,7 @@ antlion
 antlions
 antonomasias
 antonym
+antonymic
 antonymy
 antral
 antre
@@ -4474,6 +4475,7 @@ argot
 argotic
 arguably
 arguer
+argues
 argufied
 argufiers
 argufies
@@ -9048,6 +9050,7 @@ blastopore
 blastoporic
 blastospores
 blasts
+blastula
 blastulas
 blastulation
 blastulations
@@ -9197,6 +9200,7 @@ blizzard
 blizzards
 bloated
 bloaters
+bloats
 bloatware
 blob
 blobbed
@@ -10640,6 +10644,7 @@ brickwork
 brickworks
 brickyards
 bricole
+bricoles
 bridal
 bridals
 bride
@@ -10897,6 +10902,7 @@ broody
 brooked
 brookie
 brookites
+brooklet
 brooklimes
 brooks
 broomball
@@ -12545,6 +12551,7 @@ canzona
 canzonas
 canzone
 canzonets
+canzoni
 caoutchoucs
 capability
 capablenesses
@@ -17726,6 +17733,7 @@ conditionally
 conditioned
 conditioner
 conditioners
+condole
 condolent
 condoler
 condoles
@@ -19953,6 +19961,7 @@ creakiest
 creaky
 cream
 creamed
+creameries
 creamery
 creamier
 creaminess
@@ -22194,6 +22203,7 @@ deconsecrate
 deconsecrating
 deconsecration
 deconsecrations
+deconstruction
 deconstructions
 deconstructive
 deconstructor
@@ -25857,6 +25867,7 @@ dockages
 docked
 docker
 dockers
+dockets
 dockhand
 dockmaster
 dockmasters
@@ -27851,6 +27862,7 @@ egregiousnesses
 egresses
 egressing
 egressions
+egret
 egrets
 egyptian
 egyptians
@@ -41174,6 +41186,7 @@ hockshops
 hocus
 hocused
 hocusing
+hocussed
 hocusses
 hocussing
 hodaddies
@@ -42248,6 +42261,7 @@ huzzaing
 huzzas
 hwan
 hyaenas
+hyaenic
 hyaline
 hyalines
 hyalites
@@ -44706,6 +44720,7 @@ infusions
 infusive
 infusorian
 ingate
+ingather
 ingathered
 ingathering
 ingatherings
@@ -50158,6 +50173,7 @@ limiting
 limitless
 limitlessly
 limitlessness
+limitlessnesses
 limits
 limmers
 limner
@@ -51541,6 +51557,7 @@ lysogenising
 lysogenizations
 lysogenize
 lysogenizes
+lysogeny
 lysolecithin
 lysosomal
 lysosome
@@ -55308,6 +55325,7 @@ misspending
 misspent
 misspoke
 misspoken
+misstamped
 misstamping
 misstamps
 misstarted
@@ -60159,6 +60177,7 @@ obtesting
 obtests
 obtruded
 obtruders
+obtruding
 obtrusive
 obtund
 obtundities
@@ -60956,6 +60975,7 @@ oracular
 oracularities
 oracularity
 oral
+oralism
 oralisms
 orality
 orang
@@ -63280,6 +63300,7 @@ oxidation
 oxidise
 oxidised
 oxidisers
+oxidising
 oxidized
 oxidizer
 oxidizers
@@ -67034,6 +67055,7 @@ piscivorous
 pisco
 piscos
 pish
+pisher
 pishing
 pishoge
 pishoges
@@ -69255,6 +69277,7 @@ preemergence
 preemergent
 preemies
 preeminence
+preeminent
 preemployment
 preempting
 preemption
@@ -69972,6 +69995,7 @@ prexes
 prexies
 prexy
 prey
+preyed
 preyers
 prezes
 priapean
@@ -73242,6 +73266,7 @@ reamer
 reamers
 reams
 reanalyses
+reanalyze
 reanalyzed
 reanalyzes
 reanimate
@@ -79089,6 +79114,7 @@ saponine
 saponins
 saponites
 sapor
+saporific
 saporous
 sapota
 sapotas
@@ -79239,6 +79265,7 @@ satiety
 satin
 satinwood
 satinwoods
+satire
 satires
 satiric
 satirical
@@ -82656,6 +82683,7 @@ simplest
 simpleton
 simplexes
 simplices
+simplicia
 simplicial
 simplicially
 simplicities
@@ -83868,6 +83896,7 @@ sneezeweeds
 sneezier
 sneeziest
 sneezing
+sneezy
 snell
 snelled
 snells
@@ -86214,6 +86243,7 @@ starters
 starting
 startlement
 startlements
+startler
 startles
 startling
 startlingly
@@ -87260,6 +87290,7 @@ stringier
 stringiest
 stringing
 stringless
+stringpiece
 stringybark
 stringybarks
 stripe
@@ -89197,6 +89228,7 @@ susurrates
 susurrating
 susurration
 susurruses
+sutlers
 suttees
 suturally
 sutured
@@ -94185,6 +94217,7 @@ trivialization
 trivializations
 trivialize
 trivialized
+trivium
 triweekly
 troaked
 troaks
@@ -94471,6 +94504,7 @@ tsuris
 tuba
 tubae
 tubaist
+tubaists
 tubal
 tubas
 tubbed
@@ -100095,6 +100129,7 @@ warrantied
 warranties
 warranting
 warrantless
+warrantor
 warrantors
 warrants
 warrantying
