@@ -428,6 +428,7 @@ acetyl
 acetylated
 acetylating
 acetylation
+acetylcholine
 acetylcholines
 acetylenes
 acetylenic
@@ -6097,6 +6098,7 @@ bacciform
 bach
 bached
 bachelor
+bachelorettes
 bachelors
 baches
 bacillar
@@ -6639,6 +6641,7 @@ bankside
 banksides
 banner
 bannered
+banneret
 bannerette
 bannerettes
 bannering
@@ -10698,6 +10701,7 @@ brief
 briefcase
 briefcases
 briefed
+briefers
 briefing
 briefings
 briefless
@@ -11788,6 +11792,7 @@ byre
 byres
 byrled
 byrling
+byrls
 byrnie
 byrnies
 byroad
@@ -14653,6 +14658,7 @@ chicks
 chickweed
 chicles
 chicness
+chicnesses
 chicory
 chics
 chid
@@ -14916,6 +14922,7 @@ chocolate
 chocolates
 chocolatier
 chocolatiers
+choicely
 choicenesses
 choirboy
 choired
@@ -14944,6 +14951,8 @@ cholecystitis
 cholecystitises
 cholecystokinin
 cholecysts
+cholelithiases
+cholelithiasis
 cholent
 choler
 cholera
@@ -16612,6 +16621,7 @@ cofinancing
 cofounder
 cofounders
 cofounding
+cofounds
 coft
 cofunctions
 cog
@@ -17253,6 +17263,7 @@ commixture
 commixtures
 commodifies
 commodify
+commodifying
 commodiousness
 commodities
 commodity
@@ -17857,6 +17868,7 @@ confectionery
 confederacy
 confederal
 confederated
+confederative
 conferee
 conferees
 conference
@@ -18162,6 +18174,7 @@ consciousnesses
 conscribe
 conscribed
 conscribes
+conscribing
 conscript
 conscripted
 conscripting
@@ -22001,6 +22014,7 @@ debuting
 debuts
 debye
 debyes
+decadal
 decade
 decadencies
 decadent
@@ -25756,6 +25770,7 @@ disuses
 disutility
 disvalued
 disvalues
+disvaluing
 disyllable
 disyllables
 disyoked
@@ -29265,6 +29280,7 @@ ensamples
 ensanguine
 ensanguines
 ensanguining
+ensconce
 ensconces
 enscroll
 enscrolled
@@ -35348,6 +35364,7 @@ frugged
 frugivore
 frugivorous
 frugs
+fruit
 fruitages
 fruitarian
 fruitarians
@@ -37683,6 +37700,7 @@ going
 goings
 goiters
 goitre
+goitres
 goitrogen
 goitrogenic
 goitrogens
@@ -47708,6 +47726,7 @@ kamikazes
 kamseens
 kamsins
 kanakas
+kanamycin
 kanamycins
 kanbans
 kane
@@ -48754,6 +48773,7 @@ lacrimations
 lacrimators
 lacrosses
 lactalbumin
+lactalbumins
 lactam
 lactams
 lactary
@@ -54093,6 +54113,7 @@ metol
 metonym
 metonymic
 metonyms
+metonymy
 metopae
 metopes
 metrazols
@@ -56264,6 +56285,7 @@ moolahs
 moolas
 mooleys
 mools
+moon
 moonbeam
 moonbeams
 moonbow
@@ -56684,6 +56706,7 @@ moustachios
 mousy
 mouthbreeder
 mouthed
+mouther
 mouthers
 mouthfeel
 mouthless
@@ -66855,6 +66878,7 @@ picturize
 picturizes
 picturizing
 picul
+piddled
 piddler
 piddlers
 piddocks
@@ -69804,6 +69828,7 @@ preparation
 preparatively
 preparator
 preparedly
+preparedness
 preparednesses
 prepares
 prepasted
@@ -71957,6 +71982,7 @@ pusillanimously
 pusleys
 puslike
 puss
+pussley
 pussleys
 pusslies
 pusslike
@@ -73403,6 +73429,7 @@ reaccredits
 reaccusing
 reachable
 reacquaint
+reacquainted
 reacquires
 reacquisition
 reacquisitions
@@ -73466,6 +73493,7 @@ reafforest
 reafforestation
 reagent
 reagents
+reaggregate
 reaggregating
 reaggregation
 reaggregations
@@ -75692,6 +75720,7 @@ removableness
 removal
 removals
 remove
+removeable
 removedly
 remover
 removes
@@ -75795,6 +75824,7 @@ renter
 renters
 renumbering
 renunciation
+renunciations
 renunciative
 renunciatory
 reobjected
@@ -78950,6 +78980,7 @@ sailboards
 sailboat
 sailboater
 sailboating
+sailboatings
 sailboats
 sailcloth
 sailed
@@ -82897,6 +82928,7 @@ silverpoint
 silvers
 silverside
 silversides
+silverware
 silverwares
 silverweeds
 silvex
@@ -94916,6 +94948,7 @@ tumplines
 tumps
 tumuli
 tumulose
+tumult
 tumults
 tumultuary
 tumultuousness
@@ -96579,6 +96612,7 @@ unessayed
 unessential
 unevaded
 unevaluated
+uneven
 unevener
 uneventful
 uneventfulness
@@ -100991,6 +101025,7 @@ weskits
 wessand
 wessands
 west
+westbound
 westering
 westerly
 western
