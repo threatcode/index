@@ -832,6 +832,7 @@ adjuring
 adjurors
 adjustability
 adjusted
+adjuster
 adjusters
 adjusting
 adjustive
@@ -5121,6 +5122,7 @@ asters
 asthenia
 asthenics
 asthenies
+asthenosphere
 asthenospheres
 asthenospheric
 astheny
@@ -5690,6 +5692,7 @@ autolysis
 autolytic
 autolyzate
 autolyzates
+autolyze
 autolyzes
 automaker
 automakers
@@ -12952,6 +12955,7 @@ cardcase
 cardcases
 carded
 carder
+cardholder
 cardholders
 cardiac
 cardiae
@@ -13790,6 +13794,7 @@ cellularity
 cellulars
 cellulase
 cellule
+cellules
 cellulitis
 cellulitises
 celluloid
@@ -15473,6 +15478,7 @@ circulated
 circulates
 circulation
 circulator
+circulatory
 circumambient
 circumambiently
 circumambulate
@@ -19229,6 +19235,7 @@ corrivals
 corroborant
 corroborated
 corroborates
+corroborating
 corroboration
 corroborations
 corroborator
@@ -23479,6 +23486,7 @@ deracinated
 deracinates
 deracinations
 deraign
+deraigned
 deraigns
 derail
 derailed
@@ -26193,6 +26201,7 @@ dogsledders
 dogsledding
 dogteeth
 dogtrot
+dogtrots
 dogtrotting
 dogvane
 dogwatch
@@ -26222,6 +26231,7 @@ dollarize
 dollarizes
 dollarizing
 dollars
+dolled
 dollhouses
 dollied
 dollies
@@ -26320,6 +26330,7 @@ done
 donees
 doneness
 donenesses
+dong
 donga
 dongolas
 dongs
@@ -27292,6 +27303,7 @@ dunderheaded
 dunderheads
 dunelands
 dunelike
+dungaree
 dungareed
 dungarees
 dunged
@@ -31209,6 +31221,7 @@ exonerates
 exoneration
 exonerations
 exons
+exonuclease
 exonumia
 exonumist
 exonumists
@@ -32645,6 +32658,7 @@ fenagled
 fenagles
 fenagling
 fencelessness
+fencer
 fencerow
 fencers
 fencible
@@ -32837,6 +32851,7 @@ fetterers
 fettering
 fetters
 fettled
+fettles
 fettling
 fettucini
 fetus
@@ -38779,6 +38794,7 @@ grotto
 grottoes
 grouched
 grouches
+grouchiest
 grouchily
 grouchinesses
 grouching
@@ -40858,6 +40874,7 @@ hepatomegalies
 hepatomegaly
 hepatopancreas
 hepcats
+hepper
 heptachlor
 heptagon
 heptagonal
@@ -48194,6 +48211,7 @@ keypuncher
 keypunchers
 keypunches
 keysets
+keyster
 keysters
 keystone
 keystones
@@ -58398,6 +58416,7 @@ nerdish
 nereides
 nereis
 nerol
+nervations
 nervatures
 nerved
 nerveless
@@ -60682,6 +60701,7 @@ occupancies
 occupancy
 occupation
 occupational
+occupationally
 occupations
 occupied
 occupies
@@ -65739,6 +65759,7 @@ penuche
 penuches
 penuchi
 penuchis
+penuchles
 penuckle
 penuckles
 penult
@@ -72418,6 +72439,7 @@ pyrolytic
 pyrolytically
 pyrolyzable
 pyrolyzates
+pyrolyze
 pyrolyzer
 pyrolyzers
 pyrolyzing
@@ -73392,6 +73414,7 @@ ransom
 ransomer
 ransomers
 rant
+ranted
 ranter
 ranting
 rantingly
@@ -76852,6 +76875,7 @@ resojets
 resold
 resolders
 resole
+resoles
 resolidified
 resolidifies
 resolidify
@@ -76999,6 +77023,7 @@ restitutes
 restituting
 restitution
 restively
+restiveness
 restivenesses
 restlessly
 restlessness
@@ -77477,6 +77502,7 @@ reverers
 reveres
 reverie
 reveries
+reverified
 reverify
 reverifying
 revering
@@ -79978,6 +80004,7 @@ savourers
 savourier
 savouries
 savouring
+savoury
 savoy
 savoys
 savvier
@@ -81766,6 +81793,7 @@ serendipities
 serendipitously
 serendipity
 serenely
+sereneness
 serener
 serenes
 serenities
@@ -90945,6 +90973,7 @@ tankas
 tanked
 tanker
 tankers
+tanking
 tankinis
 tankless
 tanks
@@ -92071,6 +92100,7 @@ tetrapod
 tetrapyrrole
 tetrapyrroles
 tetrarch
+tetrarchic
 tetrarchs
 tetrarchy
 tetraspore
@@ -94060,6 +94090,7 @@ tranquillizer
 tranquillizers
 tranquillizes
 tranquilly
+tranquilness
 tranquilnesses
 trans
 transact
@@ -94544,6 +94575,7 @@ tribologies
 tribologist
 tribologists
 tribology
+tribrach
 tribrachs
 tribulate
 tribulates
@@ -99502,6 +99534,7 @@ veriest
 verifiability
 verifiable
 verifications
+verifies
 verifying
 verisimilar
 verisimilarly
@@ -102640,6 +102673,7 @@ wraith
 wraiths
 wrang
 wrangle
+wrangled
 wrangler
 wrangling
 wrap
@@ -103502,6 +103536,7 @@ zoster
 zouave
 zouk
 zouks
+zounds
 zowie
 zoysia
 zoysias
