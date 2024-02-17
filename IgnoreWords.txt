@@ -1258,6 +1258,7 @@ afferents
 affiance
 affiant
 affiches
+afficionados
 affidavit
 affiliate
 affiliates
@@ -6889,6 +6890,7 @@ baron
 baronage
 baronages
 baronet
+baronets
 barongs
 baronne
 barons
@@ -7266,6 +7268,7 @@ beamless
 beams
 beamy
 bean
+beanbag
 beanbags
 beaned
 beaneries
@@ -12567,6 +12570,7 @@ cannibalizes
 cannibalizing
 cannier
 canniest
+canniness
 canninesses
 canning
 cannoli
@@ -13489,6 +13493,7 @@ catatonics
 catawba
 catawbas
 catbirds
+catbrier
 catbriers
 catcalled
 catcallers
@@ -13627,6 +13632,7 @@ catty
 catwalks
 caucus
 caucussed
+caucusses
 caucussing
 caudal
 caudally
@@ -14491,6 +14497,7 @@ chatrooms
 chatted
 chattels
 chatterbox
+chatterboxes
 chatterer
 chatterers
 chattier
@@ -18374,6 +18381,7 @@ consociated
 consociates
 consociation
 consociations
+consol
 consolation
 consolatory
 console
@@ -20361,6 +20369,7 @@ cricket
 cricketed
 cricketer
 cricketing
+cricks
 cricoids
 crier
 criers
@@ -28098,6 +28107,7 @@ effusions
 effusive
 effusively
 effusiveness
+efs
 eft
 efts
 eftsoon
@@ -28641,6 +28651,7 @@ embossing
 embossment
 embossments
 embouchure
+embouchures
 emboweling
 embowelling
 embowels
@@ -32373,6 +32384,7 @@ fashionmongers
 fashions
 fastballer
 fastballs
+fastener
 fastening
 fastenings
 faster
@@ -34291,6 +34303,7 @@ fluty
 fluxes
 fluxgate
 fluxgates
+fluxing
 fluxional
 fluxions
 fluyt
@@ -34798,6 +34811,7 @@ forewarn
 forewarned
 forewarning
 forewing
+forewomen
 foreword
 forewords
 foreworn
@@ -36858,6 +36872,7 @@ geneticist
 geneticists
 genetics
 genets
+geneva
 genevas
 genial
 geniality
@@ -39862,6 +39877,7 @@ hance
 hances
 hand
 handax
+handaxes
 handbag
 handbags
 handballs
@@ -46031,6 +46047,7 @@ interlay
 interlayered
 interlayering
 interlaying
+interlays
 interleaf
 interleave
 interleaving
@@ -48549,6 +48566,7 @@ kine
 kinema
 kinematical
 kinescope
+kinescoped
 kinescopes
 kinesiology
 kinesis
@@ -48751,6 +48769,7 @@ knickerbocker
 knickerbockers
 knickknack
 knife
+knifed
 knifepoint
 knifers
 knifing
@@ -51207,6 +51226,7 @@ lobules
 lobulose
 lobworm
 lobworms
+loca
 locale
 locales
 localise
@@ -51275,6 +51295,7 @@ loculed
 locules
 loculi
 loculicidal
+locum
 locums
 locus
 locust
@@ -53758,6 +53779,7 @@ megaparsecs
 megaphones
 megapixel
 megapixels
+megaplexes
 megapode
 megapodes
 megapods
@@ -58222,6 +58244,7 @@ nauseousnesses
 nautches
 nautical
 nautiloid
+navaid
 navaids
 naval
 navally
@@ -58400,6 +58423,7 @@ negators
 negatron
 negatrons
 neglect
+neglected
 neglectful
 neglectfulness
 neglecting
@@ -63681,6 +63705,7 @@ overslow
 oversmoked
 oversmoking
 oversoft
+oversoul
 oversouls
 overspeculate
 overspeculating
@@ -63758,6 +63783,7 @@ overswinging
 overswings
 overt
 overtake
+overtaken
 overtakes
 overtalk
 overtalked
@@ -64916,6 +64942,7 @@ parging
 pargyline
 pargylines
 parhelia
+parhelic
 parhelion
 parian
 paries
@@ -67518,6 +67545,7 @@ pimply
 pimpmobile
 pimps
 pin
+pina
 pinaceous
 pinafore
 pinafored
@@ -70360,6 +70388,7 @@ prepubes
 prepubescent
 prepubis
 prepublication
+prepublications
 prepuces
 prepueblo
 prepunch
@@ -70806,6 +70835,7 @@ primitive
 primitiveness
 primitives
 primitivist
+primitivists
 primitivities
 primitivity
 primmer
@@ -92524,6 +92554,7 @@ theologized
 theologizers
 theologizes
 theologizing
+theologs
 theologue
 theology
 theonomies
@@ -95659,6 +95690,7 @@ turbellarians
 turbeths
 turbid
 turbidimeter
+turbidimeters
 turbidimetric
 turbidimetries
 turbidite
@@ -96929,6 +96961,7 @@ underdoes
 underdone
 underdose
 underdosed
+underdoses
 underdrawers
 undereat
 undereaten
@@ -102590,6 +102623,7 @@ wizardry
 wizen
 wizened
 wizening
+wizes
 wizzen
 woad
 woaded
@@ -102748,6 +102782,7 @@ woodwaxen
 woodwaxens
 woodwaxes
 woodwind
+woodwork
 woodworkers
 woodworking
 woodworkings
