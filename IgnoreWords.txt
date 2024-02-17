@@ -1053,6 +1053,7 @@ adverbial
 adverbially
 adversarial
 adversaries
+adversariness
 adversative
 adversatively
 adversatives
@@ -5820,6 +5821,7 @@ autotrophic
 autotrophies
 autotrophs
 autotypies
+autoworker
 autoxidation
 autoxidations
 autumn
@@ -10620,6 +10622,7 @@ bravure
 brawer
 brawled
 brawler
+brawlie
 brawling
 brawn
 brawnier
@@ -11937,6 +11940,7 @@ bytalks
 byte
 bytes
 bywords
+byworks
 byzantine
 byzants
 cab
@@ -23312,6 +23316,7 @@ demythologizer
 demythologizes
 demythologizing
 denar
+denarius
 denars
 denationalized
 denaturants
@@ -27868,6 +27873,7 @@ easy
 easygoing
 easygoingness
 eat
+eatable
 eatables
 eaten
 eater
@@ -28078,6 +28084,7 @@ edified
 edifier
 edify
 edile
+edit
 edited
 editing
 edition
@@ -35766,6 +35773,7 @@ fruitions
 fruitless
 fruitlessness
 fruitlessnesses
+fruitlet
 fruitlike
 fruitwoods
 frumenty
@@ -35992,6 +36000,7 @@ funniness
 funninesses
 funning
 funnymen
+funplex
 furan
 furane
 furanes
@@ -37804,6 +37813,7 @@ glossarial
 glossaries
 glossarist
 glossarists
+glossary
 glossas
 glossator
 glossed
@@ -39631,6 +39641,7 @@ habdalahs
 haberdashers
 haberdashery
 habile
+habiliment
 habiliments
 habilitating
 habit
@@ -40001,6 +40012,7 @@ hamperers
 hampers
 hams
 hamster
+hamular
 hamulate
 hamuli
 hamulous
@@ -40462,6 +40474,7 @@ hausfraus
 haustella
 haustoria
 haustorial
+haut
 hautbois
 hautboy
 hautboys
@@ -40692,6 +40705,7 @@ heartrending
 heartrendingly
 hearts
 heartsease
+heartseases
 heartsick
 heartsicknesses
 heartsome
@@ -40722,6 +40736,7 @@ heather
 heathered
 heathers
 heathiest
+heathland
 heathlands
 heathless
 heathlike
@@ -42624,6 +42639,7 @@ huffing
 huffs
 huffy
 hug
+huge
 hugeness
 hugeous
 hugeously
@@ -43821,6 +43837,7 @@ imitators
 immaculacy
 immaculate
 immane
+immanences
 immanencies
 immanency
 immanent
@@ -51124,6 +51141,7 @@ lisp
 lisped
 lisping
 lispingly
+lisps
 lissom
 lissome
 lissomely
@@ -54702,6 +54720,7 @@ metronomically
 metropolis
 metropolises
 metropolitan
+metropolitans
 metros
 mettle
 mettled
@@ -55479,6 +55498,7 @@ mirliton
 mirlitons
 mirror
 mirrorlike
+mirrors
 mirs
 mirth
 mirthful
@@ -56056,6 +56076,7 @@ missets
 misshape
 misshaped
 misshaper
+misshapers
 missies
 missile
 missileman
@@ -61880,6 +61901,7 @@ orcin
 orcs
 ordain
 ordained
+ordaining
 ordainments
 ordains
 ordeal
@@ -63535,6 +63557,7 @@ overhasty
 overhated
 overhates
 overhauls
+overhead
 overheads
 overheaped
 overheaping
@@ -65421,6 +65444,7 @@ pasticheur
 pastier
 pasties
 pastiest
+pastil
 pastille
 pastime
 pastina
@@ -69951,6 +69975,7 @@ preanesthetic
 preannouncing
 preapprove
 preapproves
+preapproving
 prearmed
 prearming
 prearms
@@ -74112,6 +74137,7 @@ raves
 ravigotes
 ravin
 ravined
+ravines
 ravingly
 ravings
 raviolis
@@ -78239,6 +78265,7 @@ rheumier
 rheumiest
 rheumy
 rhigolenes
+rhinencephala
 rhinencephalon
 rhinestoned
 rhinestones
@@ -89084,6 +89111,7 @@ submittal
 submitter
 submitting
 submucosae
+submucosal
 submucosas
 submultiple
 submultiples
@@ -94484,6 +94512,7 @@ trachles
 trachling
 trachoma
 trachomas
+trachytic
 track
 trackable
 trackages
@@ -94601,6 +94630,7 @@ trajections
 trajectories
 trajects
 tram
+tramcar
 tramcars
 trameled
 trameling
@@ -95532,6 +95562,7 @@ troilites
 troke
 troked
 troking
+troland
 troll
 troller
 trollers
@@ -99911,6 +99942,7 @@ veilings
 veils
 veinal
 veinier
+veiniest
 veining
 veinings
 veinlet
@@ -100863,6 +100895,7 @@ vocationalism
 vocationalisms
 vocationalist
 vocationalists
+vocationally
 vocations
 vocatively
 vocatives
@@ -102315,6 +102348,7 @@ whirred
 whirries
 whirring
 whirrying
+whirs
 whished
 whishing
 whishted
@@ -103199,6 +103233,7 @@ workmen
 workout
 workouts
 workpeople
+workpiece
 workpieces
 workplace
 workplaces
