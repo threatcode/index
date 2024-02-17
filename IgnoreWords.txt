@@ -834,6 +834,7 @@ adjurers
 adjuring
 adjurors
 adjustability
+adjustable
 adjusted
 adjuster
 adjusters
@@ -4364,6 +4365,7 @@ arced
 arch
 archaea
 archaeal
+archaean
 archaebacteria
 archaebacterium
 archaeologies
@@ -6282,6 +6284,7 @@ backstamps
 backstay
 backstitch
 backstitched
+backstitches
 backstitching
 backstop
 backstopped
@@ -8040,6 +8043,7 @@ berthing
 beryl
 beryline
 beryllium
+bescorch
 bescorched
 bescorches
 bescoured
@@ -9658,6 +9662,7 @@ bodhisattva
 bodhisattvas
 bodhran
 bodice
+bodices
 bodied
 bodkin
 bodkins
@@ -11531,6 +11536,7 @@ burdened
 burdener
 burdeners
 burdening
+burdens
 burdensome
 burdie
 burdock
@@ -16505,6 +16511,7 @@ cockcrows
 cockered
 cockerel
 cockerels
+cockers
 cockeyed
 cockfight
 cockfights
@@ -18973,6 +18980,7 @@ copresident
 coprincipal
 coprincipals
 coprisoner
+coprisoners
 coprocessing
 coprocessor
 coproduce
@@ -19217,6 +19225,7 @@ cornuto
 corodies
 corollary
 corollas
+corollate
 corona
 coronae
 coronagraphs
@@ -21786,6 +21795,7 @@ danger
 dangered
 dangering
 dangerous
+dangerousnesses
 danging
 dangle
 danglers
@@ -21907,6 +21917,7 @@ daube
 dauber
 daubers
 daubery
+daubier
 daubiest
 daubries
 daubry
@@ -22370,6 +22381,7 @@ declaratory
 declared
 declarer
 declarers
+declares
 declaring
 declass
 declasses
@@ -23619,6 +23631,7 @@ derivatized
 derivatizes
 derivatizing
 derive
+derivers
 derives
 deriving
 derm
@@ -30469,6 +30482,7 @@ estimable
 estimablenesses
 estivate
 estivates
+estivations
 estivators
 estop
 estopped
@@ -31488,6 +31502,7 @@ explanation
 explanative
 explanatively
 explanatorily
+explant
 explantations
 expletive
 expletory
@@ -33684,6 +33699,7 @@ flamethrower
 flamethrowers
 flamier
 flaming
+flamingly
 flammables
 flammed
 flams
@@ -35445,6 +35461,7 @@ frillers
 frilling
 frillings
 frills
+frilly
 fringe
 fringier
 fringy
@@ -39011,6 +39028,7 @@ grubbed
 grubbier
 grubbily
 grubbiness
+grubbinesses
 grubbing
 grubstake
 grubstakers
@@ -39626,6 +39644,7 @@ hagriders
 hagrides
 hagrode
 hags
+haha
 hahas
 hahnium
 hahniums
@@ -42511,6 +42530,7 @@ hulls
 hum
 humaneness
 humaner
+humanhoods
 humanise
 humanised
 humanises
@@ -55974,6 +55994,7 @@ mistimes
 mistiming
 mistitles
 mistitling
+mistletoes
 mistook
 mistouched
 mistouches
@@ -56810,6 +56831,7 @@ mordanted
 mordanting
 mordantly
 mordants
+mordents
 more
 moreen
 moreens
@@ -59323,6 +59345,7 @@ nonbusiness
 nonbuying
 noncabinet
 noncaking
+noncallable
 noncaloric
 noncancelable
 noncancerous
@@ -65500,6 +65523,7 @@ peaceable
 peaced
 peacefullest
 peacefully
+peacefulness
 peacefulnesses
 peacekeeper
 peacekeepers
@@ -66718,6 +66742,7 @@ pharynx
 phase
 phaseout
 phases
+phasing
 phasmid
 phasmids
 phat
@@ -70103,6 +70128,7 @@ prefix
 prefixes
 prefixing
 prefixions
+preflame
 preflight
 preflights
 prefocused
@@ -70721,6 +70747,7 @@ previsional
 previsionary
 previsioned
 previsioning
+previsions
 previsit
 previsits
 prevocational
@@ -81199,6 +81226,7 @@ seadogs
 seafarer
 seafloor
 seafloors
+seafood
 seafoods
 seafowl
 seafowls
@@ -81742,6 +81770,7 @@ semilogarithmic
 semimatt
 semimatte
 semimetals
+semimicro
 semimoist
 semimonthlies
 semimute
@@ -85481,6 +85510,7 @@ sooths
 soothsaid
 soothsayers
 soothsayings
+soothsays
 sootiest
 sootily
 sootinesses
@@ -95836,6 +95866,7 @@ tutelages
 tutelaries
 tutorage
 tutorages
+tutorials
 tutors
 tutorships
 tutoyer
@@ -97738,6 +97769,7 @@ unkindnesses
 unkingly
 unkinked
 unkissed
+unknit
 unknits
 unknot
 unknots
@@ -99178,6 +99210,7 @@ vacationed
 vacationer
 vacationing
 vacationist
+vacationists
 vacationland
 vaccina
 vaccinal
@@ -99473,6 +99506,7 @@ varnishes
 varnishing
 varoom
 varooming
+varooms
 vars
 varsities
 varsity
@@ -101867,6 +101901,7 @@ whelps
 when
 whenas
 whencesoever
+whenever
 whens
 whereabout
 whereas
