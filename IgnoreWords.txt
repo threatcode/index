@@ -457,6 +457,7 @@ achlorhydric
 acholias
 achondrites
 achondritic
+achondroplasia
 achondroplastic
 achromat
 achromatically
@@ -3062,6 +3063,7 @@ anguine
 angular
 angularities
 angularity
+angularly
 angulated
 angulates
 angulose
@@ -6902,6 +6904,7 @@ barramundis
 barranca
 barranco
 barrater
+barrators
 barratry
 barred
 barrel
@@ -7114,6 +7117,7 @@ batteau
 batteaux
 battement
 battements
+batten
 battener
 batteners
 battening
@@ -7805,6 +7809,7 @@ belugas
 belvedere
 belying
 bema
+bemadam
 bemadamed
 bemadaming
 bemadams
@@ -8949,6 +8954,7 @@ bituminizing
 bituminous
 bivalence
 bivalency
+bivalent
 bivalents
 bivalve
 bivalves
@@ -12478,6 +12484,7 @@ candour
 candours
 candyfloss
 candying
+candytuft
 cane
 canebrake
 canebrakes
@@ -13888,6 +13895,7 @@ centos
 centra
 central
 centraler
+centralism
 centralisms
 centralist
 centralistic
@@ -14413,6 +14421,7 @@ chaser
 chases
 chasing
 chasings
+chasm
 chasmic
 chasmy
 chasse
@@ -14601,6 +14610,7 @@ chemisorption
 chemistries
 chemists
 chemoautotrophy
+chemokine
 chemokines
 chemoreception
 chemoreceptive
@@ -21140,6 +21150,7 @@ cusso
 cussos
 cusswords
 custards
+custardy
 custodial
 custodianship
 custom
@@ -22365,6 +22376,7 @@ deconditions
 decongest
 decongestant
 decongested
+decongesting
 decongestions
 deconsecrate
 deconsecrating
@@ -23454,6 +23466,7 @@ depressively
 depressors
 depressurizing
 deprival
+deprivals
 deprivation
 deprivations
 deprive
@@ -25384,6 +25397,7 @@ disinheriting
 disinhibit
 disinhibiting
 disinhibition
+disinhibits
 disintegrates
 disintegrating
 disintegration
@@ -29781,6 +29795,7 @@ epigeneses
 epigenesis
 epigenist
 epigenous
+epigeous
 epiglottal
 epiglottis
 epigon
@@ -29795,6 +29810,7 @@ epigrammatizes
 epigrams
 epigraph
 epigrapher
+epigraphical
 epigraphies
 epigynous
 epigyny
@@ -30182,6 +30198,7 @@ ervil
 eryngo
 eryngoes
 erysipelases
+erythema
 erythematous
 erythorbate
 erythremia
@@ -34596,6 +34613,7 @@ foreladies
 forelady
 foreland
 forelocked
+forelocking
 forelocks
 foreman
 foremanships
@@ -39831,6 +39849,7 @@ handstands
 handwheel
 handwheels
 handworkers
+handwoven
 handwringer
 handwringers
 handwrit
@@ -40011,6 +40030,7 @@ hardwiring
 hardworking
 hare
 harebell
+harebells
 harebrained
 hareems
 harelike
@@ -61751,6 +61771,7 @@ oscillational
 oscillator
 oscillatory
 oscillograph
+oscillographic
 oscillographs
 oscillography
 oscilloscope
@@ -62568,6 +62589,7 @@ outsparkle
 outsparkles
 outspeak
 outspeaks
+outsped
 outspeeded
 outspeeds
 outspell
@@ -64281,6 +64303,7 @@ pandered
 panderer
 panderers
 pandering
+pandied
 pandies
 pandit
 pandits
@@ -64839,6 +64862,7 @@ parroted
 parroter
 parroters
 parroting
+parrots
 parry
 parrying
 parsec
@@ -66362,6 +66386,7 @@ petiolules
 petit
 petite
 petiteness
+petitionary
 petitioners
 petitioning
 petnap
@@ -72996,6 +73021,7 @@ rabbits
 rabbity
 rabble
 rabblement
+rabblers
 rabbles
 rabbling
 rabic
@@ -73426,6 +73452,7 @@ rapaciously
 rapaciousness
 rapacity
 raped
+raper
 rapers
 rapes
 rapeseed
@@ -74934,6 +74961,7 @@ reenlarge
 reenlarged
 reenlarging
 reenlisting
+reenlists
 reenrolls
 reenslave
 reenslaves
@@ -81477,6 +81505,7 @@ semihoboes
 semihobos
 semilegendary
 semilethal
+semilethals
 semiliquids
 semiliterates
 semillon
@@ -83297,6 +83326,7 @@ simonizes
 simonizing
 simoom
 simooms
+simp
 simpatico
 simpered
 simperer
@@ -89540,6 +89570,7 @@ superselling
 supersells
 supersensible
 supersensitive
+supersensory
 supersession
 supersex
 supersexes
@@ -92386,6 +92417,7 @@ theropods
 thesaural
 thesaurus
 thesauruses
+these
 theses
 thesis
 thesp
@@ -94044,6 +94076,7 @@ trammel
 trammeled
 trammeler
 trammeling
+trammelled
 trammels
 tramming
 tramontanes
@@ -98171,6 +98204,7 @@ untether
 untethered
 untethers
 unthanked
+unthawed
 untheoretical
 unthinkability
 unthinkable
@@ -102888,6 +102922,7 @@ xylol
 xylophage
 xylophages
 xylophagous
+xylophone
 xylophones
 xylophonist
 xyloses
