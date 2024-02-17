@@ -3789,6 +3789,7 @@ antiulcer
 antivenin
 antivenins
 antiviolence
+antiviral
 antivirus
 antiviruses
 antivitamin
@@ -4017,6 +4018,7 @@ apophony
 apophthegm
 apophyge
 apophyges
+apophyllites
 apophyseal
 apophyses
 apoplectic
@@ -6278,6 +6280,7 @@ backside
 backslap
 backslapped
 backslaps
+backslid
 backslide
 backslider
 backsliders
@@ -6786,6 +6789,7 @@ barbeques
 barbequing
 barber
 barbered
+barberries
 barbers
 barbershop
 barbets
@@ -10427,6 +10431,7 @@ brachiating
 brachiations
 brachiator
 brachiopod
+brachs
 brachycephalic
 brachycephaly
 bracing
@@ -14638,6 +14643,7 @@ cheerful
 cheerfuller
 cheerfullest
 cheerfulnesses
+cheerier
 cheeriness
 cheerinesses
 cheerio
@@ -15505,6 +15511,7 @@ cinchonism
 cincture
 cinctured
 cindered
+cindering
 cinders
 cindery
 cine
@@ -23854,6 +23861,7 @@ desorption
 desorptions
 despair
 despaired
+despairers
 despairs
 despatch
 despatches
@@ -29938,6 +29946,7 @@ epidermises
 epiderms
 epidiascopes
 epididymis
+epididymitis
 epididymitises
 epidote
 epidotic
@@ -30350,6 +30359,7 @@ erugos
 erumpent
 erupt
 eruptible
+erupting
 eruptions
 eruptive
 eruptives
@@ -30365,6 +30375,7 @@ erythrisms
 erythrite
 erythrites
 erythroblastic
+erythroblasts
 erythrocyte
 erythrocytes
 erythrocytic
@@ -33362,6 +33373,7 @@ finagle
 finagled
 finaglers
 finagles
+finale
 finalise
 finalised
 finalises
@@ -34324,6 +34336,7 @@ fluorescents
 fluorescers
 fluoresces
 fluorid
+fluoridate
 fluoridated
 fluoridates
 fluoridating
@@ -34540,6 +34553,7 @@ folklorists
 folkmot
 folksier
 folksily
+folksiness
 folksinesses
 folksingings
 folksongs
@@ -34588,6 +34602,7 @@ fonts
 food
 foodie
 foodlessness
+foodstuff
 foodstuffs
 foodways
 foofaraw
@@ -38720,6 +38735,7 @@ greatness
 greave
 greaved
 greaves
+grebe
 grebes
 grecianize
 grecianizes
@@ -46422,6 +46438,7 @@ intimacy
 intimae
 intimal
 intimas
+intimately
 intimateness
 intimater
 intimating
@@ -47303,6 +47320,7 @@ jackstraw
 jacky
 jacobin
 jacobins
+jacobus
 jacobuses
 jaconet
 jacquard
@@ -50667,6 +50685,7 @@ lifestyles
 lifetime
 lifetimes
 lifeway
+lifeways
 lifework
 lifeworld
 lift
@@ -57374,6 +57393,7 @@ mudslide
 mudslides
 mudslingers
 mudslinging
+mudstones
 muenster
 muensters
 muesli
@@ -58196,6 +58216,7 @@ naphtols
 napkin
 napkins
 napoleon
+nappa
 napped
 napper
 nappes
@@ -72540,6 +72561,7 @@ purificators
 purificatory
 purifier
 purify
+purifying
 purin
 purine
 purines
@@ -73740,6 +73762,7 @@ ramsons
 ramtil
 ramtilla
 ramtils
+ramus
 rance
 ranch
 ranched
@@ -78797,6 +78820,7 @@ roguing
 roguish
 roguishly
 roguishness
+roguishnesses
 roil
 roiled
 roilier
@@ -80559,6 +80583,7 @@ scandalled
 scandalling
 scandalmonger
 scandalmongers
+scandalously
 scandalousness
 scandals
 scandent
@@ -81724,6 +81749,7 @@ seismically
 seismicities
 seismism
 seismisms
+seismograms
 seismographer
 seismographers
 seismographic
@@ -85300,6 +85326,7 @@ sodomitic
 sodomitical
 sodomizes
 sodomy
+sofa
 sofar
 sofars
 sofas
@@ -88400,6 +88427,7 @@ stripeless
 stripes
 stripiest
 stripings
+stripling
 striplings
 stripper
 strippers
@@ -90381,6 +90409,7 @@ swages
 swagged
 swagger
 swaggerer
+swaggie
 swaggies
 swagging
 swaging
@@ -93715,10 +93744,12 @@ toastmaster
 toastmasters
 toastmistresses
 toasts
+toasty
 tobacconist
 tobacconists
 tobies
 toboggan
+tobogganed
 tobogganer
 tobogganers
 tobogganing
@@ -98565,6 +98596,7 @@ unstate
 unstated
 unstates
 unstating
+unstayed
 unsteadied
 unsteadier
 unsteadies
@@ -98823,6 +98855,7 @@ unwillingnesses
 unwinder
 unwinders
 unwinds
+unwinking
 unwisdom
 unwisdoms
 unwise
@@ -100887,6 +100920,7 @@ volvuli
 volvulus
 volvuluses
 vomer
+vomicae
 vomiter
 vomitive
 vomitory
@@ -103960,6 +103994,7 @@ zoantharian
 zoarial
 zoarium
 zocalo
+zocalos
 zodiacs
 zoeae
 zoeal
