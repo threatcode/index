@@ -1,0 +1,6 @@
+stripe_subscription_transactions...,https://github.com/fishtown-analytics/stripe/blob/master/models/transactions_prep/stripe_subscription_transactions_joined.sql
+stripe/models/transactions_prep/stripe_transactions.sql at master ...,https://github.com/dbt-labs/stripe/blob/master/models/transactions_prep/stripe_transactions.sql
+https://raw.githubusercontent.com/hasura/snowflake...,https://raw.githubusercontent.com/hasura/snowflake-quickstart/main/sql/sample_music_database.sql%3Futm_cta%3Dwebsite-homepage-live-demo
+https://raw.githubusercontent.com/lerocha/chinook-...,https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_PostgreSql.sql
+Blame - GitLab,https://gitlab.com/trinitycore/TrinityCore_434/blob/f430d2fd31ca04ee3c36baf794803caec8f2721b/sql/old/4.3.4/TDB01_to_TDB02_updates/world/006_quest_template.sql
+Joomla,http://43.255.183.162/login-us/.r%257B%257D_vti_cnf/backup.sql
