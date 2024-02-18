@@ -8,3 +8,13 @@ https://docs.oracle.com/cd//E60665_01/tutorials_ja...,https://docs.oracle.com/cd
 HyperSQL/gen_sequences_scripts.sql at templates - Codeberg,https://codeberg.org/Thiemo_Kellner/HyperSQL/src/branch/templates/tools/gen_sequences_scripts.sql
 Querying GeorgiaDB.sql - CENN,http://drm.cenn.org/Trainings/Introduction%2520to%2520WEB%2520services%2520and%2520PostGIS%2520intro/Lectures/Day%25202/Querying%2520GeorgiaDB.sql
 SQL*Plus script - Biochemfusion,http://www.biochemfusion.com/downloads/oracle_dump_ddl.sql
+session.sql - ReneNyffenegger/oracle-patterns · GitHub,https://github.com/ReneNyffenegger/oracle-patterns/blob/master/DatabaseObjects/Sequences/12c/session.sql
+https://www.postgresql.org/message-id/attachment/3...,https://www.postgresql.org/message-id/attachment/30824/sequence.sql
+sequence.sql - ReneNyffenegger/oracle-patterns · GitHub,https://github.com/ReneNyffenegger/oracle-patterns/blob/master/DatabaseObjects/Sequences/sequence.sql
+http://people.umass.edu/bikehara/dbanotes/sp_seqre...,http://people.umass.edu/bikehara/dbanotes/sp_seqreset.sql
+dspace/etc/oracle/update-sequences.sql - GitLab,https://gitlab.ifrr.edu.br/2265803/dspace/blob/e48fef5f623d7be99d141f627c2214a65e27b42f/dspace/etc/oracle/update-sequences.sql
+http://drm.cenn.org/Trainings/Introduction%20to%20...,http://drm.cenn.org/Trainings/Introduction%2520to%2520WEB%2520services%2520and%2520PostGIS%2520intro/Lectures/Day%25202/Querying%2520GeorgiaDB.sql
+https://www.postgresql.org/message-id/attachment/3...,https://www.postgresql.org/message-id/attachment/39785/clone_schema.sql
+http://geolabs.fr/dl/mmdb.sql,http://geolabs.fr/dl/mmdb.sql
+https://docs.oracle.com/cd/E60665_01/tutorials_ja/...,https://docs.oracle.com/cd/E60665_01/tutorials_ja/Migrating_Applications_and_Data_to_Exadata_Express/files/lab1_script.sql
+spamdb / Database / spam_db.sql,https://isgb.otago.ac.nz/infosci/nigel.stanger/spamdb/blob/master/Database/spam_db.sql
