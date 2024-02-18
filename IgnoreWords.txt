@@ -4193,6 +4193,7 @@ appraise
 appraised
 appraisements
 appraisers
+appraises
 appreciable
 appreciate
 appreciated
@@ -12968,6 +12969,7 @@ caravaner
 caravaners
 caravaning
 caravanned
+caravanner
 caravanners
 caravanning
 caravans
@@ -14697,6 +14699,7 @@ cheese
 cheeseburger
 cheeseburgers
 cheesecakes
+cheesecloth
 cheesecloths
 cheesed
 cheeses
@@ -16055,6 +16058,7 @@ clepsydra
 clepsydrae
 clepsydras
 clept
+clerestories
 clergyman
 clergywoman
 cleric
@@ -27667,6 +27671,7 @@ dutchmen
 duteous
 dutiable
 duties
+dutifully
 dutifulnesses
 duumvir
 duumvirate
@@ -28305,6 +28310,7 @@ egoist
 egoistic
 egoistical
 egoists
+egomania
 egomaniacally
 egomaniacs
 egos
@@ -35412,6 +35418,7 @@ fraudsters
 fraudulence
 fraudulent
 fraudulently
+fraughting
 fraughts
 fraulein
 frauleins
@@ -36791,6 +36798,7 @@ gastroscopies
 gastroscopy
 gastrotrich
 gastrotrichs
+gastrovascular
 gastrular
 gastrulas
 gastrulates
@@ -38546,6 +38554,7 @@ grainy
 grama
 gramaries
 gramary
+gramarye
 gramaryes
 gramas
 gramercy
@@ -38887,6 +38896,7 @@ greenmails
 greennesses
 greenockite
 greenockites
+greenrooms
 greensands
 greenshank
 greenshanks
@@ -39893,6 +39903,7 @@ hairworks
 hairworm
 hairworms
 hajes
+hajjis
 hake
 hakeem
 hakes
@@ -40913,6 +40924,7 @@ hegemonic
 hegemons
 hegemony
 hegumenes
+hegumenies
 hegumenoses
 hehs
 heifer
@@ -43919,6 +43931,7 @@ immaterialities
 immaterialize
 immaterializes
 immaterializing
+immature
 immaturely
 immatures
 immaturities
@@ -44309,6 +44322,7 @@ impractical
 impracticality
 impractically
 imprecate
+imprecates
 imprecation
 imprecatory
 imprecise
@@ -49605,6 +49619,7 @@ lampoonery
 lampooning
 lampoons
 lamppost
+lamprey
 lampshades
 lams
 lamster
@@ -51413,6 +51428,7 @@ llamas
 lo
 loach
 load
+loaded
 loader
 loading
 loadings
@@ -51733,6 +51749,7 @@ longleaves
 longline
 longly
 longnecks
+longness
 longnesses
 longships
 longshore
@@ -53294,6 +53311,7 @@ margravines
 marguerites
 maria
 mariachi
+mariachis
 mariculture
 maricultures
 marigolds
@@ -53466,6 +53484,7 @@ maryjanes
 marzipan
 marzipans
 mascaraed
+mascaraing
 mascaras
 mascarpone
 mascarpones
@@ -57004,6 +57023,7 @@ moonlighters
 moonlighting
 moonlights
 moonports
+moonquakes
 moonrise
 moonroofs
 moons
@@ -60077,6 +60097,7 @@ nonmoral
 nonmortal
 nonmotile
 nonmotilities
+nonmoving
 nonmunicipal
 nonmusical
 nonmusicals
@@ -71669,6 +71690,7 @@ promoed
 promoing
 promontories
 promos
+promotable
 promote
 promoted
 promoters
@@ -73800,6 +73822,7 @@ raftsmen
 rag
 raga
 ragamuffin
+ragas
 raged
 ragee
 rages
@@ -79030,6 +79053,7 @@ roentgenologies
 roentgenology
 roes
 rogation
+rogations
 rogatory
 rogered
 rogering
@@ -79472,6 +79496,7 @@ rubouts
 rubrically
 rubricate
 rubricated
+rubricates
 rubricating
 rubrication
 rubricator
@@ -80737,6 +80762,7 @@ scaffolding
 scaffoldings
 scagliola
 scags
+scalable
 scalably
 scalade
 scalades
@@ -81169,6 +81195,7 @@ sclerous
 scoff
 scoffed
 scoffer
+scoffers
 scoffing
 scofflaw
 scofflaws
@@ -86034,6 +86061,7 @@ sotted
 sottedly
 sottish
 sottishly
+sottishness
 sottishnesses
 sou
 souaris
@@ -93028,6 +93056,7 @@ theoretician
 theoreticians
 theorise
 theorised
+theorises
 theorising
 theorists
 theorizations
@@ -99630,6 +99659,7 @@ utility
 utilizable
 utilization
 utilize
+utilized
 utilizes
 utilizing
 utmost
@@ -99805,6 +99835,7 @@ valuably
 valuate
 valuates
 valuating
+valuation
 valuational
 valuations
 valuator
@@ -100024,6 +100055,7 @@ vaticide
 vaticides
 vaticinal
 vaticinated
+vaticination
 vaticinator
 vats
 vatted
@@ -100542,6 +100574,7 @@ vialed
 vialing
 vialled
 vialling
+vials
 viands
 viatic
 viatica
@@ -101798,6 +101831,7 @@ watchout
 watchouts
 watchtower
 watchtowers
+watchword
 water
 waterage
 waterages
@@ -102519,6 +102553,7 @@ whirr
 whirred
 whirries
 whirring
+whirry
 whirrying
 whirs
 whished
