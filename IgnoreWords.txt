@@ -982,6 +982,7 @@ adscripts
 adsorb
 adsorbable
 adsorbate
+adsorbent
 adsorber
 adsorbers
 adsorbing
@@ -1891,6 +1892,7 @@ aleatoric
 aleatory
 alec
 alee
+alegar
 alegars
 alehouse
 alehouses
@@ -3668,6 +3670,7 @@ antioxidants
 antiozonant
 antiozonants
 antiparallel
+antiparasitic
 antipasti
 antipasto
 antipathetic
@@ -12184,6 +12187,7 @@ caesarean
 caesarians
 caesarism
 caesarisms
+caesium
 caestus
 caestuses
 caesura
@@ -15726,6 +15730,7 @@ circumcircle
 circumcised
 circumcisers
 circumcises
+circumcision
 circumflex
 circumflexes
 circumfluent
@@ -17920,6 +17925,7 @@ computerlike
 computernik
 computerphobe
 computerphobes
+computerphobia
 computerphobias
 computes
 computist
@@ -18110,6 +18116,7 @@ condemnation
 condemnations
 condemned
 condemning
+condemnor
 condensable
 condensate
 condensational
@@ -19202,6 +19209,7 @@ coproductions
 coprolitic
 coprologies
 coprology
+copromoter
 copromoters
 coprophagies
 coprophagous
@@ -20447,6 +20455,7 @@ creators
 creaturehoods
 creatures
 creches
+cred
 credal
 credence
 credences
@@ -27103,6 +27112,7 @@ draftings
 drafts
 draftsperson
 draftspersons
+drafty
 drag
 dragee
 dragged
@@ -28192,6 +28202,7 @@ econometrist
 economical
 economically
 economics
+economies
 economise
 economists
 economize
@@ -29346,6 +29357,7 @@ encountered
 encounters
 encouraged
 encouragements
+encourager
 encouragers
 encourages
 encouraging
@@ -29724,6 +29736,7 @@ enlightenment
 enlightenments
 enlightens
 enlisted
+enlistee
 enlistees
 enlister
 enlisters
@@ -31082,6 +31095,7 @@ euphroes
 euphuism
 euphuisms
 euphuists
+euplastic
 euplastics
 euploid
 euploids
@@ -33893,6 +33907,7 @@ fishworms
 fissate
 fissilities
 fission
+fissionability
 fissionable
 fissioning
 fissiparousness
@@ -34807,6 +34822,7 @@ foliage
 foliages
 foliate
 foliated
+foliating
 foliation
 foliations
 folic
@@ -38746,6 +38762,7 @@ grahams
 grained
 grainer
 grainers
+grainier
 graininess
 grainless
 grains
@@ -40355,6 +40372,7 @@ handmaiden
 handmaidens
 handmaids
 handoff
+handoffs
 handout
 handouts
 handover
@@ -44488,6 +44506,7 @@ implores
 imploring
 imploringly
 implosion
+implosions
 implosive
 implying
 impolitely
@@ -44944,6 +44963,7 @@ incompetently
 incompetents
 incomplete
 incompleteness
+incompliant
 incompressible
 incomputable
 inconceivable
@@ -51518,6 +51538,7 @@ listels
 listenable
 listened
 listener
+listeners
 listenerships
 listening
 lister
@@ -52860,6 +52881,7 @@ mafioso
 mafiosos
 mag
 magalog
+magalogs
 magalogues
 magazine
 magazines
@@ -57765,6 +57787,7 @@ mowed
 mowers
 mown
 mows
+moxa
 moxas
 moxie
 mozo
@@ -66854,6 +66877,7 @@ perforation
 perforations
 perforce
 perform
+performance
 performative
 performatives
 performatory
@@ -67777,6 +67801,7 @@ photos
 photoscan
 photoscanned
 photoscanning
+photoscans
 photosensitive
 photosensitize
 photosensitized
@@ -74027,6 +74052,7 @@ racemized
 racemizing
 racemous
 racers
+races
 racetracker
 racetrackers
 racetracks
@@ -76001,6 +76027,7 @@ reescalating
 reescalations
 reest
 reestablishes
+reestablishing
 reestablishment
 reestimate
 reestimated
@@ -83295,6 +83322,7 @@ shalt
 shaly
 sham
 shamably
+shaman
 shamanic
 shamanist
 shamanistic
@@ -85334,6 +85362,7 @@ slows
 slowworms
 slubbered
 slubbering
+slubbers
 slubbings
 sludged
 sludging
@@ -85529,6 +85558,7 @@ smokily
 smokiness
 smokinesses
 smoky
+smoldered
 smoldering
 smolt
 smolts
@@ -92812,6 +92842,7 @@ teletypewriters
 teletyping
 teleutospore
 televangelism
+televangelisms
 televangelist
 teleview
 televiewed
@@ -94457,6 +94488,7 @@ tittivate
 tittivated
 tittivates
 tittup
+tittuped
 tittuppy
 tittups
 titubant
@@ -99651,6 +99683,7 @@ unwish
 unwished
 unwishing
 unwit
+unwits
 unwitted
 unwitting
 unwittingly
@@ -101530,6 +101563,7 @@ vitriol
 vitrioled
 vitrioling
 vitriolling
+vittate
 vittle
 vittled
 vittles
@@ -104790,6 +104824,7 @@ zingano
 zingara
 zingare
 zingari
+zingaro
 zinged
 zingers
 zinging
