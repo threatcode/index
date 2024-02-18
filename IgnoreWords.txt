@@ -4910,6 +4910,7 @@ ascidium
 ascites
 ascocarpic
 ascogonia
+ascogonium
 ascomycete
 ascomycetes
 ascorbates
@@ -6998,6 +6999,7 @@ barrelful
 barrelhead
 barrelheads
 barrelhouses
+barrelled
 barrelling
 barrels
 barren
@@ -10448,6 +10450,7 @@ boxinesses
 boxing
 boxthorn
 boxwood
+boxy
 boy
 boyarism
 boyarisms
@@ -11625,6 +11628,7 @@ burans
 burb
 burble
 burbled
+burbler
 burblers
 burbly
 burbot
@@ -15817,6 +15821,7 @@ civilizations
 civilize
 civilized
 civilizer
+civilizes
 civilnesses
 civism
 civisms
@@ -16578,6 +16583,7 @@ cobbiest
 cobble
 cobbled
 cobbler
+cobblestoned
 cobblestones
 cobbling
 cobbs
@@ -17091,6 +17097,7 @@ colinearities
 colinearity
 colins
 coliphage
+coliphages
 coliseums
 colistins
 colitis
@@ -19405,6 +19412,7 @@ corotation
 corotations
 corporal
 corporality
+corporate
 corporates
 corporativisms
 corporator
@@ -24066,6 +24074,7 @@ destrier
 destriers
 destroyer
 destroying
+destructed
 destructibility
 destructible
 destruction
@@ -26848,6 +26857,7 @@ doughiest
 doughnut
 doughnutlike
 doughnuts
+dought
 doughtier
 doughtily
 doughtiness
@@ -29107,6 +29117,7 @@ empoisoned
 empoisonment
 empoisonments
 empoisons
+emporia
 emporium
 empowerment
 empresses
@@ -36032,6 +36043,7 @@ full
 fullam
 fullback
 fullbacks
+fullblood
 fuller
 fullerene
 fullerenes
@@ -36127,6 +36139,7 @@ fungicidal
 fungicidally
 fungicide
 fungicides
+fungistat
 fungistats
 fungo
 fungoes
@@ -41644,6 +41657,7 @@ hibernators
 hibiscuses
 hic
 hiccoughing
+hiccoughs
 hiccup
 hiccuped
 hiccupped
@@ -47156,6 +47170,7 @@ ironmongeries
 ironmongers
 ironmongery
 ironness
+ironnesses
 irons
 ironsides
 ironsmith
@@ -51549,6 +51564,7 @@ lixivium
 lizards
 llama
 llamas
+llano
 lo
 loach
 load
@@ -55969,6 +55985,7 @@ misdefining
 misdemeanor
 misdescribed
 misdescribes
+misdescriptions
 misdevelop
 misdeveloped
 misdevelops
@@ -61464,6 +61481,7 @@ oculus
 od
 odah
 odalisk
+odalisks
 odd
 oddish
 oddities
@@ -62632,6 +62650,7 @@ outbeams
 outbeg
 outbegged
 outbegging
+outbegs
 outbid
 outbidder
 outbidding
@@ -63348,6 +63367,7 @@ outtravel
 outtravelling
 outtravels
 outtrick
+outtricked
 outtricking
 outtricks
 outtrots
@@ -64360,6 +64380,7 @@ overvoting
 overwarm
 overwarmed
 overwary
+overwatch
 overwatering
 overwaters
 overweak
@@ -65592,6 +65613,7 @@ particleboards
 particles
 particular
 particularise
+particularised
 particularises
 particularising
 particularistic
@@ -71406,6 +71428,7 @@ primmer
 primmest
 primness
 primo
+primogenitor
 primogenitors
 primogeniture
 primordia
@@ -77130,6 +77153,7 @@ repetitions
 repetitious
 repetitiousness
 repetitive
+repetitiveness
 rephotograph
 rephotographed
 rephotographs
@@ -79029,6 +79053,7 @@ riprapped
 riprapping
 rips
 ripsaw
+ripsawed
 ripsawn
 ripsaws
 ripsnorting
@@ -84506,6 +84531,7 @@ skeined
 skeins
 skeletal
 skeletally
+skeletonic
 skeletonised
 skeletonising
 skeletonized
@@ -85560,6 +85586,7 @@ snooping
 snoopy
 snooted
 snootier
+snootily
 snootinesses
 snooting
 snooze
@@ -91491,6 +91518,7 @@ synthetase
 synthpop
 synthpops
 synths
+syntonies
 syntony
 sypher
 syphered
@@ -91565,6 +91593,7 @@ table
 tableau
 tablecloth
 tabled
+tableful
 tablefuls
 tableless
 tablemate
@@ -94852,6 +94881,7 @@ townhouse
 townie
 townies
 townscape
+townscapes
 township
 townspeople
 townswomen
@@ -97734,6 +97764,7 @@ underfurs
 undergarment
 undergird
 undergirded
+undergirding
 undergirt
 undergods
 undergoer
@@ -97823,6 +97854,7 @@ undersecretary
 undersell
 underselling
 underserved
+undersexed
 undershirted
 undershirts
 undershoots
@@ -99431,6 +99463,7 @@ upbeat
 upbeats
 upboil
 upboiled
+upboiling
 upboils
 upbore
 upborne
@@ -103197,6 +103230,7 @@ winglets
 winglike
 wingman
 wingmen
+wingover
 wings
 wingspread
 wingtip
@@ -103514,6 +103548,7 @@ wonders
 wonderwork
 wonderworks
 wondrous
+wondrousness
 wonk
 wonkiest
 wonned
