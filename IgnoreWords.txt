@@ -378,6 +378,7 @@ accusal
 accusant
 accusants
 accusations
+accusatives
 accuse
 accuses
 accusing
@@ -2819,6 +2820,7 @@ analects
 analemmata
 analeptics
 analgesias
+analgesics
 analgetic
 analgetics
 analgia
@@ -7512,6 +7514,7 @@ bedirtying
 bedizen
 bedizened
 bedizening
+bedizenment
 bedizens
 bedlam
 bedlamp
@@ -8642,6 +8645,7 @@ bilobated
 bilobed
 bilobular
 bilocation
+bilocular
 bilsted
 bilsteds
 biltong
@@ -13117,6 +13121,7 @@ cardioids
 cardiologies
 cardiologist
 cardiology
+cardiomyopathy
 cardiopulmonary
 cardiothoracic
 cardiotonic
@@ -13543,6 +13548,7 @@ catalogic
 cataloging
 catalogues
 cataloguing
+catalos
 catalpas
 catalyses
 catalysis
@@ -13642,6 +13648,7 @@ catenates
 catenating
 catenation
 catenations
+catenoid
 cateran
 catercorner
 catercornered
@@ -14094,6 +14101,7 @@ ceraceous
 ceramals
 ceramicists
 ceramics
+ceramide
 ceramides
 ceramist
 ceramists
@@ -20830,6 +20838,7 @@ crumped
 crumpets
 crumple
 crumpled
+crumpling
 crumply
 crumps
 crunchable
@@ -22225,6 +22234,7 @@ deaning
 deans
 deanship
 dear
+dearer
 dearest
 dearie
 dearth
@@ -23985,6 +23995,7 @@ despoils
 despoliations
 despond
 desponded
+despondent
 despondently
 desponding
 desponds
@@ -26305,6 +26316,7 @@ dobsonflies
 dobsonfly
 dobsons
 doby
+doc
 docent
 docile
 dock
@@ -29854,6 +29866,7 @@ entozoans
 entozoon
 entrails
 entrain
+entrained
 entrainers
 entrains
 entranced
@@ -29999,6 +30012,7 @@ epentheses
 epenthesis
 epergnes
 epexegetically
+epha
 ephah
 ephahs
 ephas
@@ -34802,6 +34816,7 @@ footstalls
 footstep
 footsteps
 footstone
+footstones
 footstool
 footstools
 footsy
@@ -38497,6 +38512,7 @@ gowan
 gowaned
 gowany
 gowd
+gowds
 gowks
 gown
 gowned
@@ -42358,6 +42374,7 @@ hooknoses
 hookups
 hoolie
 hooligan
+hooliganisms
 hooly
 hoop
 hoopers
@@ -42512,6 +42529,7 @@ horsetails
 horseweeds
 horsewhipped
 horsewhipping
+horsewhips
 horsewoman
 horsewomen
 horsey
@@ -52645,6 +52663,7 @@ magazinists
 magdalene
 mage
 magenta
+magentas
 maggot
 maggots
 maggoty
@@ -52722,6 +52741,7 @@ magpies
 mags
 magueys
 magus
+maharaja
 maharajas
 maharanee
 maharanees
@@ -52806,6 +52826,7 @@ majestic
 major
 majordomos
 majored
+majoring
 majoritarianism
 majority
 majorly
@@ -56229,6 +56250,7 @@ missed
 missel
 missending
 missenses
+misset
 missets
 misshape
 misshaped
@@ -59504,6 +59526,7 @@ nobodies
 nobody
 nobs
 nociceptive
+nocking
 noctambulist
 noctambulists
 noctuid
@@ -59549,6 +59572,7 @@ noisemaker
 noises
 noisettes
 noisier
+noisiest
 noisily
 noisiness
 noising
@@ -61351,6 +61375,7 @@ octothorps
 octroi
 octupled
 octuples
+octuplets
 octuplex
 octuply
 octyl
@@ -66648,6 +66673,7 @@ peripatetic
 peripatetics
 peripatuses
 peripeties
+peripheral
 peripherally
 peripherals
 periphrasis
@@ -73165,6 +73191,7 @@ pyrrols
 pyruvates
 pythoness
 pythonesses
+pythonic
 pythons
 pyuria
 pyurias
@@ -73931,6 +73958,7 @@ rainbowlike
 rainbows
 raincoats
 rainfall
+rainier
 raininess
 raininesses
 raining
@@ -81332,6 +81360,7 @@ scorpioid
 scorpion
 scotch
 scotched
+scotia
 scotias
 scotomata
 scotophil
@@ -89168,6 +89197,7 @@ subdialect
 subdirector
 subdirectors
 subdiscipline
+subdisciplines
 subdivide
 subdivided
 subdivider
@@ -91850,6 +91880,7 @@ tap
 tapadera
 tapaderas
 tapadero
+tapalos
 tapas
 tape
 taped
@@ -92849,6 +92880,7 @@ tessiture
 test
 testa
 testability
+testaceans
 testaceous
 testacies
 testacy
@@ -98522,6 +98554,7 @@ unpadded
 unpaid
 unpainful
 unpalatable
+unparalleled
 unparasitized
 unpardonable
 unparliamentary
@@ -98880,6 +98913,7 @@ unsightlinesses
 unsilent
 unsimilar
 unsinkable
+unskilled
 unskillfully
 unslakable
 unslaked
@@ -100460,6 +100494,7 @@ vermes
 vermian
 vermicelli
 vermicellis
+vermicide
 vermicular
 vermiculate
 vermiculated
