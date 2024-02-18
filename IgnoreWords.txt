@@ -1611,6 +1611,7 @@ agreement
 agreements
 agria
 agrias
+agribusiness
 agribusinessman
 agribusinessmen
 agricultural
@@ -7272,6 +7273,7 @@ bawdric
 bawdrics
 bawds
 bawl
+bawler
 bawls
 bawtie
 bawties
@@ -9270,6 +9272,7 @@ blastula
 blastulas
 blastulation
 blastulations
+blasty
 blat
 blatancies
 blatant
@@ -11796,6 +11799,7 @@ bursted
 burster
 bursters
 bursting
+burstone
 bursts
 burthened
 burton
@@ -13398,6 +13402,7 @@ carrousel
 carrousels
 carrs
 carry
+carryback
 carrybacks
 carrying
 carryon
@@ -14994,6 +14999,7 @@ childes
 childhood
 childhoods
 childing
+childlessnesses
 childlikeness
 childlikenesses
 childproof
@@ -24495,6 +24501,7 @@ dezincking
 dezincs
 dhaks
 dhals
+dharmic
 dharna
 dharnas
 dhobi
@@ -27198,6 +27205,7 @@ drapeable
 draped
 draper
 draperied
+draperies
 drapers
 drapes
 draping
@@ -28620,6 +28628,7 @@ elderships
 eldest
 eldresses
 eldrich
+eldritch
 elect
 electability
 elected
@@ -34311,6 +34320,7 @@ fleshpots
 fleshy
 fletch
 fletches
+fletching
 fletchings
 fleuron
 fleury
@@ -38733,6 +38743,7 @@ gracious
 graciously
 graciousness
 graciousnesses
+grackle
 grackles
 grad
 gradable
@@ -41430,6 +41441,7 @@ hemotoxic
 hemotoxin
 hempen
 hempiest
+hemplike
 hempseeds
 hempy
 hems
@@ -44726,6 +44738,7 @@ inadequately
 inadequateness
 inadmissible
 inadmissibly
+inadvertences
 inadvertently
 inadvisability
 inadvisable
@@ -46562,6 +46575,7 @@ interjections
 interjectors
 interjectory
 interjoined
+interjoins
 interknit
 interknits
 interknitted
@@ -52301,6 +52315,7 @@ lowbred
 lowbrow
 lowbrowed
 lowbrows
+lowdown
 lower
 lowercased
 lowercases
@@ -53661,6 +53676,7 @@ mariner
 mariners
 marionette
 marionettes
+mariposa
 marish
 marital
 maritally
@@ -54653,6 +54669,7 @@ mense
 menseful
 menseless
 menses
+menshen
 menshes
 mensing
 menstrua
@@ -54784,6 +54801,7 @@ meritorious
 meritoriously
 meritoriousness
 merits
+merk
 merks
 merlin
 merlins
@@ -58125,6 +58143,7 @@ multisite
 multisource
 multispectral
 multistage
+multistate
 multistemmed
 multistep
 multistranded
@@ -58743,6 +58762,7 @@ naphthols
 naphthylamine
 naphthyls
 naphtols
+napiform
 napkin
 napkins
 napoleon
@@ -60053,6 +60073,7 @@ noncognitive
 noncoherent
 noncoincidence
 noncoincidences
+noncola
 noncolas
 noncollege
 noncollegiate
@@ -60937,6 +60958,7 @@ notedness
 notednesses
 noteless
 notepad
+notepads
 notepaper
 notepapers
 notes
@@ -63621,6 +63643,7 @@ outwiled
 outwiling
 outwilled
 outwilling
+outwinded
 outwinds
 outwish
 outwishes
@@ -68239,6 +68262,7 @@ pigskins
 pigsneys
 pigstick
 pigsticked
+pigsticking
 pigtail
 pigtailed
 pigweed
@@ -74544,6 +74568,7 @@ rapine
 rapines
 raping
 rapist
+rapists
 rapparee
 rapparees
 rapped
@@ -81210,6 +81235,7 @@ sawmill
 sawmills
 sawn
 sawney
+sawneys
 sawtimber
 sawtimbers
 sawyer
@@ -81536,6 +81562,7 @@ schlumpier
 schlumping
 schlumpy
 schmaltz
+schmaltzy
 schmalzes
 schmalzier
 schmalziest
@@ -84044,6 +84071,7 @@ showplace
 showplaces
 showring
 showrings
+showroom
 shows
 showstopper
 showtime
@@ -84716,6 +84744,7 @@ sissyness
 sistered
 sisterhood
 sisterly
+sisters
 sistra
 sistroid
 sistrum
@@ -84895,6 +84924,7 @@ skiing
 skiings
 skijoring
 skill
+skilled
 skilless
 skillet
 skillets
@@ -89527,6 +89557,7 @@ subapical
 subarachnoid
 subarachnoidal
 subarctic
+subarea
 subareas
 subarid
 subas
@@ -93892,6 +93923,7 @@ thoron
 thoroughbass
 thoroughbrace
 thoroughbraces
+thoroughbred
 thoroughbreds
 thorougher
 thoroughfares
@@ -101264,6 +101296,7 @@ victories
 victorious
 victoriously
 victory
+victress
 victual
 victualed
 victualer
@@ -101569,6 +101602,7 @@ visored
 visoring
 visorless
 vista
+vistaless
 visual
 visualises
 visualising
@@ -103917,6 +103951,7 @@ woodchat
 woodchats
 woodchoppers
 woodcocks
+woodcraft
 woodcutter
 woodcutters
 wooded
