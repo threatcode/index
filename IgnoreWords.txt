@@ -550,6 +550,7 @@ acquiesces
 acquiescing
 acquire
 acquired
+acquiree
 acquirement
 acquirements
 acquirer
@@ -709,6 +710,7 @@ adages
 adagios
 adamance
 adamant
+adamantine
 adamants
 adamsite
 adamsites
@@ -3499,6 +3501,7 @@ antichoice
 antichoicer
 anticholesterol
 anticipatable
+anticipate
 anticipating
 anticipation
 anticipations
@@ -3800,6 +3803,7 @@ antispeculative
 antistat
 antistate
 antistatic
+antistats
 antistories
 antistory
 antistrike
@@ -5928,6 +5932,7 @@ aventurines
 aventurins
 aver
 average
+averagely
 averageness
 averagenesses
 averages
@@ -7054,6 +7059,7 @@ barretor
 barretry
 barrets
 barrette
+barricaded
 barricading
 barricado
 barricadoed
@@ -7286,6 +7292,7 @@ baulking
 baulks
 bauxite
 bauxites
+bawbees
 bawcock
 bawcocks
 bawd
@@ -7879,6 +7886,7 @@ beleaping
 beleaps
 belemnite
 belfried
+belfry
 belga
 belgas
 belied
@@ -8216,6 +8224,7 @@ besmiled
 besmiles
 besmirching
 besmoked
+besmokes
 besmoking
 besmooth
 besmoothing
@@ -11217,6 +11226,7 @@ broomrape
 broomrapes
 brooms
 bros
+brothels
 brothered
 brotherhood
 brotherhoods
@@ -12049,6 +12059,7 @@ buzzcut
 buzzcuts
 buzzer
 buzzers
+buzzingly
 buzzwig
 buzzword
 bwanas
@@ -13190,6 +13201,7 @@ carburise
 carburises
 carburising
 carburizations
+carburize
 carburized
 carcajou
 carcajous
@@ -13265,6 +13277,7 @@ cared
 careener
 careening
 careens
+career
 careerer
 careering
 careerisms
@@ -13333,6 +13346,7 @@ carline
 carling
 carlins
 carload
+carls
 carmakers
 carman
 carmen
@@ -21032,6 +21046,7 @@ crumpling
 crumply
 crumps
 crunchable
+cruncher
 crunchers
 crunches
 crunchiest
@@ -21694,6 +21709,7 @@ cyberspaces
 cycad
 cycadeoid
 cycadophytes
+cycads
 cycases
 cycasin
 cycasins
@@ -27189,6 +27205,7 @@ doxorubicin
 doxy
 doxycycline
 doxycyclines
+doyen
 doyenne
 doyley
 doyleys
@@ -27728,6 +27745,7 @@ duetted
 duetting
 duettists
 duff
+duffer
 duffle
 dufuses
 dug
@@ -34509,6 +34527,7 @@ flinger
 flinging
 flings
 flinkite
+flinkites
 flinted
 flinthead
 flintheads
@@ -35178,6 +35197,7 @@ forded
 fording
 fordoing
 forearm
+forearms
 forebay
 foreboder
 foreboders
@@ -37711,6 +37731,7 @@ geyserites
 geysers
 gharials
 gharry
+ghastful
 ghastfully
 ghastlinesses
 ghastly
@@ -40029,6 +40050,7 @@ gynecia
 gynecic
 gynecium
 gynecocracies
+gynecocracy
 gynecocratic
 gynecological
 gynecologies
@@ -42902,6 +42924,7 @@ horsewhips
 horsewoman
 horsewomen
 horsey
+horsier
 horsiest
 horsily
 horsiness
@@ -42979,6 +43002,7 @@ hotchpot
 hotchpotches
 hotdog
 hotdogged
+hotdogger
 hotdoggers
 hotdogs
 hotel
@@ -43854,6 +43878,7 @@ hypomanic
 hypomanics
 hypomorph
 hypomorphic
+hypomorphs
 hyponasties
 hyponasty
 hyponea
@@ -43870,6 +43895,7 @@ hypophysectomy
 hypophyses
 hypophysial
 hypopituitarism
+hypoplasia
 hypoploid
 hypoploids
 hypopneas
@@ -45053,6 +45079,7 @@ inched
 incher
 inchers
 inches
+inchoately
 inchoateness
 inchoatenesses
 inchoative
@@ -45368,6 +45395,7 @@ indelibilities
 indelibility
 indelible
 indelicacies
+indelicacy
 indelicately
 indelicateness
 indemnifier
@@ -46006,6 +46034,7 @@ inhibins
 inhibit
 inhibiter
 inhibition
+inhibitions
 inhibitive
 inhibitor
 inhibitory
@@ -46800,6 +46829,7 @@ intermeddled
 intermeddling
 intermediacies
 intermediary
+intermediate
 intermediately
 intermediating
 intermediation
@@ -47331,6 +47361,7 @@ invincibility
 invincible
 invincibleness
 inviolabilities
+inviolable
 inviolableness
 inviolably
 inviolacy
@@ -49799,6 +49830,7 @@ laagers
 lab
 labanotation
 labanotations
+labara
 labarum
 labarums
 labelable
@@ -50690,6 +50722,7 @@ leakiest
 leakinesses
 leal
 lealties
+lealty
 lean
 leaned
 leaners
@@ -50971,6 +51004,7 @@ lenticels
 lenticule
 lenticules
 lentigines
+lentigo
 lentil
 lentils
 lentivirus
@@ -51374,6 +51408,7 @@ lighten
 lighteners
 lightening
 lightens
+lighter
 lighterage
 lightest
 lightfaced
@@ -55214,6 +55249,7 @@ metamere
 metameres
 metamerically
 metamerism
+metamerisms
 metamers
 metamorphic
 metamorphically
@@ -69451,6 +69487,7 @@ plowed
 plowers
 plowhead
 plowheads
+plowland
 plowman
 plowmen
 ploying
@@ -69518,6 +69555,7 @@ pluperfect
 pluperfects
 pluralism
 pluralisms
+pluralist
 pluralistic
 pluralists
 pluralities
@@ -69808,6 +69846,7 @@ politicked
 politickers
 politicks
 politicly
+politicoes
 politics
 polity
 polka
@@ -70988,6 +71027,7 @@ precomputing
 preconceiving
 preconcerted
 preconcerting
+preconciliar
 precondition
 preconditioning
 preconditions
@@ -74294,6 +74334,7 @@ quirkiness
 quirkish
 quirks
 quirt
+quirting
 quirts
 quislingism
 quislingisms
@@ -74653,6 +74694,7 @@ rainy
 rais
 raisable
 raiseable
+raised
 raiser
 raisers
 raises
@@ -74751,6 +74793,7 @@ ramus
 rance
 ranch
 ranched
+rancheria
 rancherias
 ranchero
 ranchers
@@ -75440,6 +75483,7 @@ reborn
 rebottle
 rebottled
 rebound
+rebounded
 rebounds
 rebranch
 rebranched
@@ -76406,6 +76450,7 @@ reexpelled
 reexpelling
 reexpels
 reexperience
+reexperiences
 reexperiencing
 reexplain
 reexplained
@@ -79483,6 +79528,7 @@ rigged
 rigger
 riggers
 riggings
+right
 righted
 righteous
 righteousnesses
@@ -79536,6 +79582,7 @@ rilles
 rillet
 rillets
 rillettes
+rilling
 rills
 rime
 rimer
@@ -80644,6 +80691,7 @@ sacerdotal
 sacerdotalisms
 sacerdotalist
 sachem
+sachemic
 sachems
 sachet
 sacheted
@@ -82028,6 +82076,7 @@ scoffs
 scolded
 scolder
 scolders
+scoldings
 scolds
 scoleces
 scolecite
@@ -82197,6 +82246,7 @@ scratchiness
 scratching
 scrawl
 scrawler
+scrawlers
 scrawliest
 scrawniness
 scrawny
@@ -82300,10 +82350,12 @@ scrootch
 scrootches
 scrootching
 scrota
+scrotal
 scrotums
 scrouge
 scrouges
 scrounged
+scrounger
 scroungers
 scrounges
 scroungier
@@ -88551,6 +88603,7 @@ staticky
 statics
 statin
 stating
+statins
 station
 stationary
 stationer
@@ -89146,6 +89199,7 @@ stollens
 stoloniferous
 stolons
 stolport
+stolports
 stomach
 stomachache
 stomachaches
@@ -94737,6 +94791,7 @@ timpanum
 timpanums
 tinamous
 tincal
+tincting
 tinctorial
 tinctorially
 tincts
@@ -94790,6 +94845,7 @@ tinnily
 tinniness
 tinning
 tinnituses
+tinpot
 tins
 tinsel
 tinseling
@@ -97185,6 +97241,7 @@ turbocharged
 turbocharger
 turboelectric
 turbogenerator
+turbojet
 turbojets
 turbomachinery
 turboprops
@@ -97658,6 +97715,7 @@ ulnar
 ulpanim
 ulster
 ulterior
+ultima
 ultimacy
 ultimas
 ultimata
@@ -98099,6 +98157,7 @@ uncanniest
 uncannily
 uncanniness
 uncanninesses
+uncanny
 uncanonical
 uncap
 uncapable
@@ -98282,6 +98341,7 @@ unconceivable
 unconcerned
 unconcernedly
 unconcerns
+unconditional
 unconditionally
 unconfined
 unconfirmed
@@ -101755,6 +101815,7 @@ vilifiers
 vilifies
 vilifying
 vilipends
+vill
 villadom
 village
 villager
@@ -103178,6 +103239,7 @@ weeknights
 weeks
 ween
 weened
+weenie
 weenies
 weening
 weens
@@ -103484,6 +103546,7 @@ wheys
 which
 whichsoever
 whickered
+whickers
 whid
 whidah
 whidahs
@@ -104859,6 +104922,7 @@ yammering
 yamulka
 yamun
 yangs
+yank
 yanked
 yanking
 yanks
@@ -105135,6 +105199,7 @@ yuga
 yuk
 yukkier
 yukking
+yukky
 yuks
 yuletide
 yuletides
