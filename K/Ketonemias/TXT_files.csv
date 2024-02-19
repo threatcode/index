@@ -23,3 +23,10 @@ faculty.salisbury.edu/~jtanderson/teaching/cosc420...,http://faculty.salisbury.e
 words.txt - Calgary,https://pages.cpsc.ucalgary.ca/~bdstephe/PythonWorkbook/words.txt
 words.txt - CS 357,http://cs357.cs.ua.edu/Previous_Semesters/spring2009/words.txt
 filterlist_word2vec.txt - GitHub,https://github.com/uds-lsv/Multi-Sense-Embeddings-Reverse-Dictionaries/blob/master/filterlist_word2vec.txt
+Testing Data - NCBI,https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/RID_clickwords_testing.txt
+disease_manifestatio..,http://nlp.case.edu/public/data/DMPatternUMLS/disease_manifestation_cui.txt
+Rajdl_-_Clinical_Biochemistry_9788024634975.txt - IS MUNI,https://is.muni.cz/el/med/podzim2020/aVLKB091/um/Rajdl_-_Clinical_Biochemistry_9788024634975.txt%3Flang%3Den
+SCZ_related_diseases..,http://nlp.case.edu/public/data/SCZ_CDN/SCZ_related_diseases.txt
+Diseases of Guinea Pigs (Notes),http://netvet.wustl.edu/species/guinea/gpigs.txt
+Blood - Seattle Scrabble Club,http://www.seattlescrabble.org/data/ThemeLists/blood.txt
+vocab.pubmed.txt - UCI Machine Learning Repository,https://archive.ics.uci.edu/ml/machine-learning-databases/bag-of-words/vocab.pubmed.txt

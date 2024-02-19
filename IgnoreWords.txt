@@ -3367,6 +3367,7 @@ antecedence
 antecedent
 antecedently
 antecedents
+antecedes
 anteceding
 antecessor
 antechambers
@@ -4057,6 +4058,7 @@ apologising
 apologized
 apologizer
 apologizing
+apologue
 apologues
 apology
 apolune
@@ -8481,6 +8483,7 @@ bibliolatrous
 bibliolatry
 bibliologies
 bibliomaniacs
+bibliomanias
 bibliopegic
 bibliopegist
 bibliopegists
@@ -9119,6 +9122,7 @@ bitmap
 bitsier
 bitstock
 bitstream
+bitsy
 bitt
 bitted
 bitten
@@ -10982,6 +10986,7 @@ brier
 brierroot
 brierroots
 briers
+brierwood
 brierwoods
 briery
 bries
@@ -18558,6 +18563,7 @@ conjuncts
 conjunctures
 conjunto
 conjuntos
+conjuration
 conjure
 conjured
 conjuring
@@ -23287,6 +23293,7 @@ deicer
 deicers
 deicides
 deicing
+deictic
 deictics
 deifical
 deifications
@@ -24004,6 +24011,7 @@ dereliction
 derelicts
 derepress
 derepressing
+derepression
 derepressions
 deride
 derided
@@ -27679,6 +27687,7 @@ drywall
 drywalled
 drywalling
 drywalls
+drywell
 drywells
 dual
 dualism
@@ -30419,6 +30428,7 @@ epileptogenic
 epilimnia
 epilimnion
 epilog
+epilogues
 epiloguing
 epimer
 epimerases
@@ -30713,6 +30723,7 @@ ergometry
 ergonomic
 ergonomically
 ergonomist
+ergonovines
 ergosterol
 ergosterols
 ergot
@@ -33467,6 +33478,7 @@ fetal
 fetas
 fetation
 fetations
+fetched
 fetchers
 fetches
 fete
@@ -33778,6 +33790,7 @@ filled
 filles
 fillies
 filling
+fillings
 fillip
 filliped
 filliping
@@ -36325,6 +36338,7 @@ fulgent
 fulgently
 fulgid
 fulgurates
+fulgurating
 fulgurite
 fulgurites
 fulhams
@@ -40354,6 +40368,7 @@ halachoth
 halakah
 halakahs
 halakha
+halakhah
 halakhahs
 halakhic
 halakhist
@@ -49140,6 +49155,7 @@ ketol
 ketols
 ketone
 ketonemia
+ketonemias
 ketones
 ketonic
 ketonuria
@@ -53452,6 +53468,7 @@ malformed
 malfunction
 malfunctioned
 malfunctions
+malic
 malicious
 maliciously
 maliciousness
@@ -57827,6 +57844,7 @@ mortarboards
 mortared
 mortarman
 mortars
+mortgage
 mortgagees
 mortgager
 mortgaging
@@ -60201,6 +60219,7 @@ nominee
 nomism
 nomisms
 nomograms
+nomograph
 nomographs
 nomography
 nomoi
@@ -67666,6 +67685,7 @@ petcock
 petcocks
 petechia
 petechiae
+petechial
 petered
 petering
 petiolar
@@ -67823,6 +67843,7 @@ pharyngitides
 pharyngitis
 pharynx
 phase
+phaseal
 phaseout
 phases
 phasing
@@ -76432,6 +76453,7 @@ reengagements
 reengaging
 reengineer
 reengineering
+reengineers
 reengrave
 reengraved
 reengraving
@@ -79505,6 +79527,7 @@ rident
 riderless
 riders
 ridership
+riderships
 ridgeback
 ridged
 ridgel
@@ -82408,6 +82431,7 @@ scrounger
 scroungers
 scrounges
 scroungier
+scrounging
 scroungy
 scrub
 scrubber
@@ -82446,6 +82470,7 @@ scrutinise
 scrutinised
 scrutinising
 scrutinizer
+scrutiny
 scubaed
 scubaing
 scud
@@ -87423,6 +87448,7 @@ speciate
 speciates
 speciation
 speciational
+speciations
 specie
 specifiable
 specific
@@ -89153,6 +89179,7 @@ stipular
 stipulate
 stipulated
 stipulates
+stipulating
 stipulation
 stipulators
 stipulatory
@@ -90525,6 +90552,7 @@ subtilizations
 subtilized
 subtilizes
 subtitled
+subtle
 subtleness
 subtlest
 subtly
@@ -90756,6 +90784,7 @@ suggesting
 suggestion
 suggestions
 suggestive
+suggestively
 suggestiveness
 suggests
 sugh
@@ -90998,6 +91027,7 @@ sunniness
 sunporches
 sunray
 sunrays
+sunroom
 suns
 sunscald
 sunset
@@ -92229,6 +92259,7 @@ syndication
 syndications
 syndicator
 syndics
+syndrome
 syndromes
 synecdoche
 synecdoches
@@ -95808,6 +95839,7 @@ tractive
 tractor
 trad
 tradable
+trade
 tradecraft
 tradecrafts
 trademark
@@ -96144,6 +96176,7 @@ transposition
 transpositional
 transposons
 transsexualism
+transshape
 transshaped
 transshapes
 transshaping
@@ -103064,6 +103097,7 @@ watersheds
 waterside
 watersides
 waterski
+waterskis
 waterspouts
 waterthrush
 watertight
@@ -103846,6 +103880,7 @@ whopping
 whops
 whoredom
 whorehouse
+whorehouses
 whoremaster
 whoresons
 whorish
