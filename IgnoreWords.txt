@@ -3487,6 +3487,7 @@ antibacklash
 antibacterial
 antibacterials
 antibias
+antibioses
 antibiotic
 antiblackism
 antiblackisms
@@ -6219,6 +6220,7 @@ babe
 babels
 babesia
 babesiosis
+babiche
 babiches
 babied
 babies
@@ -10000,6 +10002,7 @@ bolt
 bolted
 bolters
 bolthead
+boltheads
 bolthole
 boltholes
 bolting
@@ -11935,6 +11938,7 @@ bushland
 bushless
 bushmaster
 bushmasters
+bushmen
 bushpigs
 bushrangers
 bushranging
@@ -16134,6 +16138,7 @@ claries
 clarified
 clarifiers
 clarifies
+clarinetist
 clarinetists
 clarinets
 clarionet
@@ -22020,6 +22025,7 @@ dachshund
 dachshunds
 dackered
 dackering
+dackers
 dacoits
 dacoity
 dacquoise
@@ -25362,6 +25368,7 @@ dioxane
 dioxanes
 dioxid
 dioxide
+dioxids
 dioxins
 dipeptidase
 dipeptidases
@@ -27730,6 +27737,7 @@ drunk
 drunkard
 drunkards
 drunken
+drunkenly
 drunker
 drupaceous
 drupelet
@@ -28043,6 +28051,7 @@ duskier
 duskiness
 duskinesses
 dusking
+dusks
 dusky
 dustbin
 dustcover
@@ -35767,6 +35776,7 @@ foveole
 foveoles
 fowlers
 fowlings
+fowlpox
 fowls
 foxes
 foxfire
@@ -43035,6 +43045,7 @@ horribly
 horrid
 horrider
 horridest
+horridness
 horridnesses
 horrific
 horrifically
@@ -43067,6 +43078,7 @@ horses
 horseshit
 horseshits
 horseshod
+horseshoed
 horseshoeing
 horseshoer
 horseshoers
@@ -46278,6 +46290,7 @@ inkless
 inklings
 inkpot
 inkpots
+inks
 inkstones
 inkwells
 inky
@@ -46653,6 +46666,7 @@ insulars
 insulate
 insulates
 insulating
+insulator
 insulin
 insulins
 insulted
@@ -46818,6 +46832,7 @@ intercompare
 intercompared
 intercompares
 intercomparing
+intercomparison
 intercoms
 interconnected
 interconnecting
@@ -54468,6 +54483,7 @@ matronymics
 mats
 matsahs
 matsutakes
+matt
 mattedly
 mattered
 mattering
@@ -60225,6 +60241,7 @@ nitre
 nitric
 nitrid
 nitride
+nitrides
 nitrids
 nitrification
 nitrified
@@ -61151,6 +61168,7 @@ nonspectacular
 nonspeculative
 nonspeech
 nonsporting
+nonstandard
 nonstaples
 nonstarter
 nonstationary
@@ -67588,6 +67606,7 @@ perjures
 perjuring
 perjurious
 perjuriously
+perk
 perkiest
 perkily
 perkiness
@@ -67848,6 +67867,7 @@ pestilent
 pestilential
 pestled
 pestles
+pestling
 pet
 petabyte
 petabytes
@@ -68290,6 +68310,7 @@ photodetectors
 photodiodes
 photodissociate
 photoduplicate
+photoduplicated
 photoduplicates
 photoed
 photoelectron
@@ -69803,6 +69824,7 @@ pluralism
 pluralisms
 pluralist
 pluralistic
+pluralistically
 pluralists
 pluralities
 plurality
@@ -70045,6 +70067,7 @@ polemicist
 polemicists
 polemicized
 polemicizing
+polemics
 polemist
 polemists
 polemize
@@ -72236,6 +72259,7 @@ prime
 primed
 primely
 primeness
+primenesses
 primer
 primero
 primeros
@@ -73779,6 +73803,7 @@ pupil
 pupilages
 pupils
 puppet
+puppeteer
 puppeteered
 puppeteering
 puppeteers
@@ -74387,6 +74412,7 @@ quatrefoils
 quatres
 quaver
 quavered
+quaverer
 quaverers
 quaveringly
 quay
@@ -75859,6 +75885,7 @@ received
 receiver
 receiverships
 receives
+receiving
 recement
 recementing
 recencies
@@ -78580,6 +78607,7 @@ resift
 resifted
 resifting
 resifts
+resighting
 resights
 resign
 resignation
@@ -84375,6 +84403,7 @@ shiitake
 shiitakes
 shikar
 shikaree
+shikari
 shikaris
 shikarred
 shikarring
@@ -84683,6 +84712,7 @@ shortstops
 shortwave
 shortwaved
 shortwaves
+shortwaving
 shorty
 shote
 shotgun
@@ -88715,6 +88745,7 @@ stains
 stair
 stairhead
 stairheads
+stairless
 stairlike
 stairs
 stairstepped
@@ -96789,6 +96820,7 @@ trichosis
 trichothecene
 trichotomous
 trichroic
+trichromatism
 trichromatisms
 trichromats
 tricing
@@ -102871,6 +102903,7 @@ waesuck
 wafered
 wafering
 waffed
+waffie
 waffies
 waffing
 waffle
@@ -104731,6 +104764,7 @@ womanliness
 womanlinesses
 womanly
 womanpowers
+womb
 wombed
 wombier
 wombiest
@@ -105163,6 +105197,7 @@ wyverns
 xanthan
 xanthate
 xanthates
+xanthein
 xanthic
 xanthines
 xanthins
