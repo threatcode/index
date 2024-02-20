@@ -1135,6 +1135,7 @@ ae
 aecia
 aecidial
 aecidium
+aeciospore
 aeciospores
 aecium
 aedile
@@ -1948,6 +1949,7 @@ alga
 algaecide
 algarrobas
 algarrobo
+algas
 algebra
 algebraic
 algebraically
@@ -3601,6 +3603,7 @@ antifeminisms
 antiflu
 antifoam
 antifog
+antifogging
 antiforeclosure
 antiforeign
 antiforeigner
@@ -6108,6 +6111,7 @@ awnings
 awnless
 awns
 awny
+awoken
 awol
 awols
 ax
@@ -8804,6 +8808,7 @@ bimetallist
 bimetallistic
 bimetallists
 bimetals
+bimillenaries
 bimillenary
 bimillennial
 bimodal
@@ -9415,6 +9420,7 @@ bleakly
 bleaknesses
 bleaks
 blear
+bleared
 blearier
 blearily
 blearing
@@ -10280,6 +10286,7 @@ bopper
 boppers
 bops
 boracic
+boracite
 borages
 boral
 borals
@@ -10673,6 +10680,7 @@ bracket
 bracketing
 bract
 bracteal
+bracted
 bracteole
 bracteoles
 bractless
@@ -10875,6 +10883,7 @@ brazilwoods
 brazing
 breached
 breaches
+breaching
 bread
 breadbaskets
 breadboarding
@@ -14678,6 +14687,7 @@ chansons
 chant
 chantage
 chantages
+chanters
 chanteuse
 chanteuses
 chanteys
@@ -22330,6 +22340,7 @@ dapped
 dapperest
 dapperly
 dapperness
+dappernesses
 dapping
 dapple
 dappled
@@ -24221,6 +24232,7 @@ desalinations
 desalinator
 desalinators
 desalinization
+desalinize
 desalinized
 desalinizes
 desalted
@@ -26559,6 +26571,7 @@ disunity
 disused
 disuses
 disutility
+disvalue
 disvalued
 disvalues
 disvaluing
@@ -36923,6 +36936,7 @@ gadroon
 gadrooned
 gadroons
 gadwall
+gadwalls
 gadzookery
 gadzooks
 gae
@@ -41042,6 +41056,7 @@ hardheaded
 hardheadedly
 hardheads
 hardier
+hardiest
 hardihoods
 hardinesses
 hardinggrass
@@ -42455,6 +42470,7 @@ hippos
 hippy
 hips
 hipshot
+hipsterisms
 hipsters
 hiraganas
 hire
@@ -42475,6 +42491,7 @@ hirsle
 hirsles
 hirsutenesses
 hirsutism
+hirsutisms
 hirudins
 hisn
 hispanidad
@@ -47273,6 +47290,7 @@ interrogatively
 interrogatories
 interrogators
 interrogees
+interrow
 interrupt
 interrupted
 interrupters
@@ -48330,6 +48348,7 @@ jailbreaks
 jailers
 jailhouse
 jailhouses
+jailing
 jailor
 jailors
 jails
@@ -61878,6 +61897,7 @@ nurseryman
 nurserymen
 nursing
 nursling
+nurtural
 nurturance
 nurturances
 nurture
@@ -64143,6 +64163,7 @@ outshoots
 outshot
 outshouted
 outshouting
+outside
 outsiderness
 outsidernesses
 outsiders
@@ -64905,6 +64926,7 @@ overmanning
 overmantel
 overmantels
 overmaster
+overmastering
 overmasters
 overmatch
 overmatched
@@ -68315,6 +68337,7 @@ philandered
 philanderers
 philandering
 philanthropies
+philanthropoids
 philatelic
 philatelically
 philatelist
@@ -75208,6 +75231,7 @@ raisings
 raisins
 raisonne
 raita
+raj
 raja
 rajah
 rajahs
@@ -79091,6 +79115,7 @@ restrictionists
 restrictive
 restring
 restrings
+restrive
 restrives
 restriving
 restroom
@@ -83114,6 +83139,7 @@ seamstress
 seamstresses
 seamy
 seance
+seances
 seapieces
 seaplanes
 seaport
@@ -88497,6 +88523,7 @@ spooned
 spoonerism
 spooneys
 spoonful
+spoonier
 spooniest
 spooning
 spoonsful
@@ -88515,6 +88542,7 @@ sporogeneses
 sporogenic
 sporogonia
 sporoid
+sporophores
 sporophyl
 sporophyll
 sporophylls
@@ -88591,6 +88619,7 @@ sprag
 sprain
 sprained
 sprains
+sprang
 sprat
 sprattle
 sprattles
@@ -91054,6 +91083,7 @@ subterfuges
 subterraneanly
 subtextual
 subthreshold
+subtile
 subtilely
 subtileness
 subtilenesses
@@ -96446,6 +96476,7 @@ trainers
 training
 trainings
 trainload
+trainloads
 trainman
 trainways
 traipsed
@@ -96840,6 +96871,7 @@ treacles
 treaclier
 treacliest
 treacly
+treaded
 treader
 treaders
 treading
@@ -99469,6 +99501,7 @@ uneaten
 uneccentric
 unecological
 uneconomic
+uneconomical
 unedible
 unedifying
 uneffaced
@@ -104694,6 +104727,7 @@ windmills
 window
 windowed
 windowless
+windowpane
 windowpanes
 windows
 windowsill
@@ -105767,6 +105801,7 @@ yerking
 yeshivot
 yeshivoth
 yesses
+yester
 yestereves
 yestern
 yet
