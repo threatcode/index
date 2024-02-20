@@ -1395,6 +1395,7 @@ aftereffects
 afterglow
 afterglows
 afterimage
+afterimages
 afterlife
 afterlives
 aftermarket
@@ -2552,6 +2553,7 @@ amentia
 amentias
 aments
 amerced
+amercement
 amercements
 amercers
 americiums
@@ -9148,6 +9150,7 @@ biscotto
 biscuit
 biscuity
 bise
+bisected
 bisection
 bisectrices
 bisectrix
@@ -10634,6 +10637,7 @@ boxhaul
 boxhauled
 boxhauling
 boxhauls
+boxier
 boxiest
 boxiness
 boxinesses
@@ -13808,6 +13812,7 @@ cataclysmically
 cataclysms
 catacomb
 catacombs
+catafalque
 catalases
 catalatic
 catalectics
@@ -15238,6 +15243,7 @@ chiliasm
 chiliast
 chiliasts
 chilidogs
+chill
 chilled
 chiller
 chillers
@@ -17171,6 +17177,7 @@ coexecutors
 coexert
 coexerted
 coexerting
+coexisted
 coexistence
 coexistences
 coexistent
@@ -21912,6 +21919,7 @@ cycad
 cycadeoid
 cycadophytes
 cycads
+cycas
 cycases
 cycasin
 cycasins
@@ -21953,6 +21961,7 @@ cyclohexanones
 cycloheximide
 cycloid
 cycloids
+cyclometer
 cyclometers
 cyclonal
 cyclones
@@ -41226,6 +41235,7 @@ harried
 harrier
 harriers
 harries
+harrow
 harrowed
 harrower
 harrows
@@ -42134,6 +42144,7 @@ heritable
 heritably
 heritage
 heritages
+heritor
 heritors
 heritrixes
 herls
@@ -48540,6 +48551,7 @@ jaunty
 jaup
 jauped
 jaups
+java
 javas
 javelinas
 javelins
@@ -48919,6 +48931,7 @@ joshingly
 joss
 josses
 jostlers
+jostling
 jot
 jota
 jotas
@@ -53240,6 +53253,7 @@ luridness
 luridnesses
 luringly
 lurk
+lurked
 lurker
 lurkers
 lurking
@@ -56528,6 +56542,7 @@ mineralise
 mineralised
 mineralises
 mineralization
+mineralizations
 mineralized
 mineralizer
 mineralizes
@@ -63614,6 +63629,7 @@ otoscopies
 otoscopy
 ototoxicities
 ototoxicity
+ottars
 otters
 ottos
 oubliette
@@ -63825,6 +63841,7 @@ outdrag
 outdrags
 outdrank
 outdraws
+outdream
 outdreamt
 outdressed
 outdressing
@@ -64320,6 +64337,7 @@ outspokennesses
 outspread
 outspreading
 outspreads
+outspringing
 outsprings
 outsprint
 outsprinted
@@ -69210,6 +69228,7 @@ pilule
 pilules
 pilus
 pimiento
+pimpernel
 pimpernels
 pimping
 pimple
@@ -69325,6 +69344,7 @@ pinnipeds
 pinnulae
 pinnular
 pinnule
+pinnules
 pinny
 pinocles
 pinocytic
@@ -70569,6 +70589,7 @@ polyglottisms
 polygon
 polygonal
 polygonally
+polygons
 polygonum
 polygraph
 polygraphers
@@ -71611,6 +71632,7 @@ precising
 precision
 precisionist
 precisionists
+precleaned
 precleaning
 preclear
 preclude
@@ -73043,6 +73065,7 @@ prolixity
 prolixly
 prolocutors
 prologist
+prologized
 prologizes
 prologue
 prologued
@@ -73244,6 +73267,7 @@ proposer
 proposes
 propositi
 proposition
+propositional
 propositioning
 propositions
 propound
@@ -75605,6 +75629,7 @@ rat
 ratables
 ratafees
 ratafia
+ratafias
 ratal
 ratals
 ratany
@@ -76083,6 +76108,7 @@ rebarbatively
 rebated
 rebater
 rebaters
+rebates
 rebatos
 rebbetzin
 rebec
@@ -76988,6 +77014,7 @@ reejecting
 reejects
 reek
 reeked
+reeker
 reekers
 reekier
 reeking
@@ -78010,6 +78037,7 @@ relumining
 rem
 remails
 remain
+remainder
 remaindered
 remainders
 remaining
@@ -82565,6 +82593,7 @@ scherzandos
 scherzos
 schism
 schismatic
+schismatically
 schismatics
 schismatize
 schisms
@@ -95310,6 +95339,7 @@ thulium
 thuliums
 thumbed
 thumbholes
+thumbing
 thumbkin
 thumbnail
 thumbnuts
@@ -98707,6 +98737,7 @@ umiaks
 umiaq
 umiaqs
 umlauted
+umlauting
 umm
 umping
 umpirages
@@ -100299,6 +100330,7 @@ unmitigatedness
 unmitres
 unmix
 unmixable
+unmixed
 unmixes
 unmixing
 unmixt
@@ -102130,6 +102162,7 @@ velvets
 venae
 venal
 venalities
+venality
 venally
 venatical
 venation
@@ -104085,6 +104118,7 @@ webmasters
 webpage
 webpages
 webs
+website
 websites
 websters
 webworks
@@ -104392,6 +104426,7 @@ whelkier
 whelkiest
 whelmed
 whelp
+whelpless
 whelps
 when
 whenas
