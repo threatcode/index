@@ -241,6 +241,7 @@ accentuate
 accentuated
 accentuates
 accentuating
+accentuations
 accept
 acceptability
 acceptably
@@ -5233,6 +5234,7 @@ assurable
 assurance
 assure
 assuredly
+assurednesses
 assurer
 assurers
 assurgent
@@ -10160,6 +10162,7 @@ boogeying
 boogeymen
 boogeys
 boogie
+boogieman
 boogiemen
 boogies
 boogyman
@@ -11191,6 +11194,7 @@ brochette
 brochettes
 brochures
 brock
+brockage
 brocolis
 brogan
 brogueries
@@ -11541,6 +11545,7 @@ budging
 buds
 budworm
 budworms
+buff
 buffable
 buffaloed
 buffaloes
@@ -14991,6 +14996,7 @@ cheesinesses
 cheesy
 chefdom
 chefdoms
+chefed
 cheffing
 chefing
 chefs
@@ -15635,6 +15641,7 @@ chromyls
 chronicities
 chronicity
 chronicled
+chroniclers
 chronicles
 chronicling
 chronics
@@ -16269,6 +16276,7 @@ clavieristic
 clavierists
 clavus
 clawback
+clawbacks
 clawed
 clawing
 clawlike
@@ -20382,6 +20390,7 @@ coward
 cowardices
 cowards
 cowbane
+cowberry
 cowbinds
 cowbird
 cowboy
@@ -23757,6 +23766,7 @@ demount
 demounted
 demulcent
 demulcents
+demulsified
 demultiplexer
 demure
 demureness
@@ -27293,6 +27303,7 @@ doweling
 dowelling
 dower
 dowered
+doweries
 dowering
 dowers
 dowing
@@ -30597,6 +30608,7 @@ epigraphists
 epigynous
 epigyny
 epilated
+epilates
 epilating
 epilepsies
 epilepsy
@@ -30652,6 +30664,7 @@ episome
 episomes
 epistases
 epistasis
+epistasy
 epistatic
 epistaxis
 epistemic
@@ -36521,6 +36534,7 @@ fuggier
 fuggiest
 fuggy
 fugio
+fugitive
 fugitivenesses
 fugitives
 fugle
@@ -40182,6 +40196,7 @@ gunner
 gunneries
 gunners
 gunnery
+gunnies
 gunning
 gunnings
 gunnybag
@@ -43787,6 +43802,7 @@ hydrogenates
 hydrogenating
 hydrogenation
 hydrogenations
+hydrogenous
 hydrographic
 hydrographies
 hydroids
@@ -44617,6 +44633,7 @@ imbalmers
 imbalming
 imbalms
 imbarks
+imbecile
 imbeciles
 imbecilities
 imbedded
@@ -50026,6 +50043,7 @@ kowtows
 kraal
 kraaled
 kraaling
+kraft
 krafts
 krait
 kraits
@@ -55289,6 +55307,7 @@ menus
 meou
 meoued
 meouing
+meous
 meow
 meows
 meperidines
@@ -58077,6 +58096,7 @@ morays
 morbidity
 morbidly
 morbidness
+morbidnesses
 morbific
 morbilli
 morceau
@@ -59828,6 +59848,7 @@ neoliberals
 neologies
 neologism
 neologisms
+neologist
 neologistic
 neologize
 neologized
@@ -62982,6 +63003,7 @@ optimes
 optimised
 optimism
 optimist
+optimistic
 optimization
 optimize
 optimizer
@@ -64288,6 +64310,7 @@ outwasted
 outwatch
 outwatched
 outwatches
+outwatching
 outwearied
 outwearies
 outwearying
@@ -65444,6 +65467,7 @@ oxycodone
 oxycodones
 oxygenase
 oxygenates
+oxygenating
 oxygenation
 oxygenations
 oxygenator
@@ -67698,6 +67722,7 @@ perimysium
 perinatally
 perineal
 perineuria
+period
 periodate
 periodically
 periodicals
@@ -71684,6 +71709,7 @@ prefires
 prefix
 prefixes
 prefixing
+prefixion
 prefixions
 preflame
 preflight
@@ -74940,6 +74966,7 @@ racializes
 racializing
 racially
 racier
+racing
 racism
 racisms
 racist
@@ -81539,6 +81566,7 @@ salutatory
 salute
 saluter
 saluters
+salutes
 saluting
 salvage
 salvageability
@@ -82519,6 +82547,7 @@ sciaenoid
 sciamachy
 sciatic
 sciaticas
+sciatics
 sciential
 scientism
 scientists
@@ -85316,6 +85345,7 @@ signories
 signorinas
 signors
 signory
+signpost
 signposted
 signposting
 signposts
@@ -85942,6 +85972,7 @@ skyborne
 skybox
 skyboxes
 skybridge
+skybridges
 skydiver
 skydivers
 skydivings
@@ -95952,6 +95983,7 @@ topographers
 topographically
 topographies
 topographs
+topography
 topoi
 topologic
 topologically
@@ -97914,6 +97946,7 @@ turnery
 turnings
 turnip
 turnips
+turnkey
 turnkeys
 turnoffs
 turnouts
@@ -101529,6 +101562,7 @@ valleyed
 valleys
 valorise
 valorised
+valorising
 valorization
 valorize
 valorized
@@ -103126,6 +103160,7 @@ waded
 wader
 waders
 wades
+wadies
 wading
 wadis
 wadmaal
