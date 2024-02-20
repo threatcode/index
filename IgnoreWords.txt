@@ -1680,6 +1680,7 @@ aimers
 aimful
 aimfully
 aimless
+aimlessnesses
 ains
 ainsells
 aiolis
@@ -3923,6 +3924,7 @@ apathies
 apatite
 apatosaur
 apatosaurs
+apatosaurus
 ape
 apeak
 aped
@@ -6766,6 +6768,7 @@ bandy
 baneberry
 baneful
 banefully
+bang
 banged
 banger
 bangers
@@ -8360,6 +8363,7 @@ betweenbrains
 betweenness
 betweenwhiles
 bevatron
+bevatrons
 bevel
 beveled
 bevelers
@@ -8608,6 +8612,7 @@ bifurcate
 bifurcating
 big
 bigamies
+bigamist
 bigamists
 bigamous
 bigamously
@@ -9238,6 +9243,7 @@ blackpoll
 blacksmith
 blacksmithing
 blacksmithings
+blacksnake
 blacktails
 blackthorn
 blacktop
@@ -12218,6 +12224,7 @@ cacodemon
 cacodemonic
 cacodemons
 cacodyl
+cacodylic
 cacographical
 cacography
 cacomistle
@@ -19155,6 +19162,7 @@ conveyorizing
 conveyors
 convict
 conviction
+convinced
 convincer
 convincingly
 convincingness
@@ -20233,6 +20241,7 @@ covenantees
 covenanter
 covenanters
 covenanting
+covenantor
 covenants
 covens
 cover
@@ -21244,6 +21253,7 @@ cucurbits
 cud
 cudbear
 cudbears
+cuddie
 cuddle
 cuddled
 cuddler
@@ -28403,6 +28413,7 @@ ecstasy
 ecstatically
 ectases
 ectasis
+ecthyma
 ecthymata
 ectoblast
 ectoblasts
@@ -30076,6 +30087,7 @@ entailer
 entailers
 entailing
 entailment
+entails
 entamebae
 entamoeba
 entamoebae
@@ -32779,6 +32791,7 @@ fancying
 fandangos
 fane
 fanegada
+fanfare
 fanfares
 fanfaron
 fanfaronades
@@ -41054,6 +41067,7 @@ havocker
 hawala
 hawalas
 hawfinch
+hawfinches
 hawk
 hawkbills
 hawked
@@ -50122,6 +50136,7 @@ lambadas
 lambast
 lambaste
 lambastes
+lambasting
 lambasts
 lambdas
 lambdoid
@@ -57698,6 +57713,7 @@ moonlights
 moonports
 moonquakes
 moonrise
+moonroof
 moonroofs
 moons
 moonsail
@@ -64029,6 +64045,7 @@ ovens
 ovenwares
 over
 overabundance
+overabundances
 overaccentuates
 overachieved
 overachiever
@@ -65223,6 +65240,7 @@ packable
 package
 packaged
 packagers
+packagings
 packboards
 packed
 packets
@@ -65464,6 +65482,7 @@ palladic
 palladium
 palladiums
 pallbearers
+palled
 pallet
 palleting
 palletised
@@ -70401,6 +70420,7 @@ portapack
 portapak
 portapaks
 portcullises
+portended
 portent
 portentousness
 porter
@@ -73276,6 +73296,7 @@ psychotherapy
 psychotically
 psychotics
 psychotomimetic
+psychotropic
 psychotropics
 psychrometer
 psychrometers
@@ -74395,6 +74416,7 @@ quintessences
 quintessential
 quintet
 quintette
+quintics
 quintile
 quintiles
 quintillionths
@@ -75019,6 +75041,7 @@ rasboras
 rascal
 rascality
 rascals
+rase
 rased
 rasers
 rash
@@ -75430,6 +75453,7 @@ rearmost
 rearms
 rearousals
 rearouse
+rearouses
 rearrangements
 rearranges
 rearranging
@@ -79223,6 +79247,7 @@ revolutionary
 revolutionise
 revolutionised
 revolutionist
+revolutionists
 revolutionize
 revolutionizer
 revolutionizes
@@ -81325,6 +81350,7 @@ sansculotte
 sansculottic
 sansculottish
 sansculottism
+sansculottisms
 sansevieria
 sansevierias
 santalic
@@ -82011,6 +82037,7 @@ schlumping
 schlumpy
 schmaltz
 schmaltzy
+schmalz
 schmalzes
 schmalzier
 schmalziest
@@ -82876,6 +82903,7 @@ seditious
 seditiousness
 seduced
 seducement
+seducer
 seduces
 seducible
 seducive
@@ -93999,6 +94027,7 @@ teutonizes
 tevatron
 tevatrons
 tew
+tewing
 tews
 texas
 texases
@@ -94453,6 +94482,7 @@ thoroughnesses
 thoroughpins
 thoroughwort
 thorpes
+thorps
 those
 thoued
 though
@@ -94916,6 +94946,7 @@ timothy
 timpani
 timpanum
 timpanums
+tinamou
 tinamous
 tincal
 tincting
@@ -99367,6 +99398,7 @@ unipod
 unipotent
 uniquely
 uniquenesses
+uniques
 unironic
 unironically
 unirrigated
@@ -99586,6 +99618,7 @@ unmodified
 unmolded
 unmolding
 unmolested
+unmonitored
 unmoored
 unmooring
 unmoralities
@@ -99857,6 +99890,7 @@ unrighteous
 unrimed
 unrinsed
 unrip
+unripe
 unripely
 unripened
 unripenesses
@@ -103899,6 +103933,7 @@ whomsoever
 whoof
 whoofing
 whooped
+whoopee
 whoopers
 whoopie
 whooping
