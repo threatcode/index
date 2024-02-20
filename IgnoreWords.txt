@@ -2196,10 +2196,12 @@ allotetraploidy
 allotments
 allotropes
 allotropy
+allottees
 allotter
 allotters
 allotting
 allotype
+allotypies
 allotypy
 allover
 allowably
@@ -8548,6 +8550,7 @@ bicameralisms
 bicarb
 bicarbonate
 bicarbonates
+bicarbs
 bicentenaries
 bicentennial
 bicentennials
@@ -9478,6 +9481,7 @@ blinding
 blindingly
 blindly
 blinds
+blindside
 blindsided
 blindsiding
 blindworms
@@ -20300,6 +20304,7 @@ couth
 couther
 couthest
 couthie
+couthiest
 couths
 couture
 couturieres
@@ -20321,6 +20326,7 @@ covarying
 coved
 covellite
 covellites
+covenant
 covenantee
 covenantees
 covenanter
@@ -22226,6 +22232,7 @@ damnedests
 damner
 damners
 damnified
+damnify
 damnifying
 damning
 damningly
@@ -29898,6 +29905,7 @@ energization
 energizations
 energized
 energizer
+energizers
 energumens
 enervate
 enervated
@@ -35217,6 +35225,7 @@ folklores
 folklorish
 folkloristic
 folklorists
+folkmoot
 folkmot
 folksier
 folksily
@@ -40483,6 +40492,7 @@ haggler
 haggling
 hagiarchies
 hagiographer
+hagiographers
 hagiographies
 hagiography
 hagiological
@@ -41261,6 +41271,7 @@ hawkweed
 hawse
 hawsehole
 hawseholes
+hawser
 hawsers
 hawthorn
 hawthorny
@@ -44827,6 +44838,7 @@ impartiality
 impartible
 impartment
 impartments
+impassabilities
 impassability
 impassable
 impassibility
@@ -49320,6 +49332,7 @@ kennings
 keno
 kenos
 kenotic
+kenotron
 kenspeckle
 kent
 kente
@@ -49475,6 +49488,7 @@ kiaughs
 kibbeh
 kibbis
 kibbitzed
+kibbitzer
 kibbitzers
 kibbitzes
 kibbitzing
@@ -50797,6 +50811,7 @@ lattins
 latu
 lauan
 laudable
+laudableness
 laudably
 laudanums
 laudation
@@ -51566,6 +51581,7 @@ libertine
 libertinism
 liberty
 libidinally
+libidinous
 libidinously
 libidos
 liblab
@@ -57295,6 +57311,7 @@ mixedly
 mixes
 mixible
 mixing
+mixologist
 mixologists
 mixology
 mixtures
@@ -59911,6 +59928,7 @@ nestor
 nestors
 nests
 netherworld
+netiquettes
 netless
 netminder
 netop
@@ -67743,6 +67761,7 @@ permanencies
 permanent
 permanently
 permanentnesses
+permanganates
 permeably
 permeant
 permeate
@@ -69083,6 +69102,7 @@ pinion
 pinioned
 pinioning
 pinions
+pinite
 pinitol
 pink
 pinked
@@ -72273,6 +72293,7 @@ previewers
 previews
 previous
 previse
+prevised
 prevising
 previsional
 previsionary
@@ -78779,6 +78800,7 @@ resistible
 resistive
 resistively
 resistiveness
+resistivities
 resistivity
 resistless
 resistlessly
@@ -79677,6 +79699,7 @@ rhapsodize
 rhapsodized
 rhapsodizing
 rhatanies
+rhatany
 rheas
 rhebok
 rheme
@@ -81403,6 +81426,7 @@ sallier
 salliers
 sallies
 sallow
+sallowed
 sallower
 sallowest
 sallowing
@@ -83680,6 +83704,7 @@ senseless
 senselessly
 senselessness
 sensibilities
+sensible
 sensibleness
 sensiblenesses
 sensibler
@@ -84867,6 +84892,7 @@ shouldered
 shouldering
 shoulders
 shouldest
+shouldst
 shout
 shouted
 shouter
@@ -87835,6 +87861,7 @@ spearfishes
 speargun
 spearheaded
 spearheading
+spearheads
 spearing
 spearmen
 spearmint
@@ -91114,6 +91141,7 @@ suction
 suctioned
 suctioning
 suctions
+suctorial
 suctorians
 sudaria
 sudaries
@@ -98890,6 +98918,7 @@ uncomplimentary
 uncompounded
 uncomprehended
 uncompromisable
+uncompromising
 unconcealed
 unconceivable
 unconcerned
@@ -100138,6 +100167,7 @@ unprecedented
 unprecedentedly
 unpredictable
 unpredictably
+unpremeditated
 unprepared
 unpreparedness
 unprepossessing
@@ -100491,6 +100521,7 @@ unsphered
 unspheres
 unspiritual
 unspoiled
+unspoke
 unspool
 unspooled
 unspools
@@ -102304,6 +102335,7 @@ victor
 victories
 victorious
 victoriously
+victoriousness
 victory
 victress
 victual
@@ -103922,6 +103954,7 @@ welly
 welsh
 welshers
 welshes
+welt
 welted
 welter
 weltered
@@ -104652,6 +104685,7 @@ wining
 winish
 winked
 winkingly
+winkled
 winkles
 winkling
 winks
@@ -104986,6 +105020,7 @@ woodcocks
 woodcraft
 woodcutter
 woodcutters
+woodcutting
 wooded
 wooden
 woodener
