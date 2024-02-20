@@ -1817,6 +1817,7 @@ alanins
 alants
 alanyls
 alarm
+alarmable
 alarmedly
 alarmingly
 alarmism
@@ -2551,6 +2552,7 @@ ametropias
 ametropic
 ami
 amia
+amiabilities
 amiability
 amiable
 amiableness
@@ -3693,6 +3695,7 @@ antimycin
 antimycins
 antinature
 antineoplastic
+antinepotism
 antineutrino
 anting
 antinode
@@ -8607,6 +8610,7 @@ bidi
 bidialectal
 bidialectalism
 bidialectalisms
+bidirectionally
 bidonville
 bids
 bield
@@ -8712,6 +8716,7 @@ bilboa
 bilboas
 bilby
 bildungsroman
+bildungsromans
 bile
 bilections
 biles
@@ -12052,6 +12057,7 @@ buteonine
 buteos
 butes
 butle
+butleries
 butles
 butt
 buttals
@@ -12957,6 +12963,7 @@ canthi
 canthitises
 canthus
 canticle
+cantilena
 cantilenas
 cantilever
 cantilevered
@@ -16189,6 +16196,7 @@ clash
 clashers
 clashes
 clashing
+clasp
 clasped
 clasper
 claspt
@@ -21146,6 +21154,7 @@ cruellest
 cruelnesses
 cruelty
 cruet
+cruets
 cruise
 cruiser
 cruller
@@ -28700,6 +28709,7 @@ effeminates
 efferently
 effervesce
 effervesced
+effervescence
 effervescences
 effervescently
 effervesces
@@ -29578,6 +29588,7 @@ enalaprils
 enamel
 enameled
 enamelers
+enamelists
 enamelled
 enameller
 enamelware
@@ -30526,6 +30537,7 @@ epiclike
 epicontinental
 epicotyls
 epicrania
+epicritic
 epicureanisms
 epicureans
 epicures
@@ -30581,6 +30593,7 @@ epigraph
 epigrapher
 epigraphical
 epigraphies
+epigraphists
 epigynous
 epigyny
 epilated
@@ -32507,6 +32520,7 @@ extrinsic
 extrorse
 extroversion
 extroversions
+extroverted
 extroverts
 extrudabilities
 extrudability
@@ -35560,6 +35574,7 @@ foreskins
 forespeak
 forespeaking
 forest
+forestages
 forestal
 forestalled
 forestalls
@@ -36201,6 +36216,7 @@ friend
 friended
 friending
 friendless
+friendlessness
 friendlies
 friendliest
 friendlily
@@ -37106,6 +37122,7 @@ gambirs
 gambit
 gambits
 gamble
+gambler
 gamblers
 gambling
 gambogian
@@ -44841,6 +44858,7 @@ impartments
 impassabilities
 impassability
 impassable
+impasses
 impassibility
 impassibly
 impassion
@@ -49333,6 +49351,7 @@ keno
 kenos
 kenotic
 kenotron
+kenotrons
 kenspeckle
 kent
 kente
@@ -50911,6 +50930,7 @@ lawless
 lawlessness
 lawlessnesses
 lawlike
+lawmaking
 lawmakings
 lawman
 lawmen
@@ -52362,6 +52382,7 @@ lobster
 lobsterer
 lobsterers
 lobstering
+lobsterings
 lobsterlike
 lobsterman
 lobsters
@@ -56387,6 +56408,7 @@ mineshaft
 minestrone
 minestrones
 minesweepers
+minesweeping
 mingiest
 mingler
 minglers
@@ -61173,6 +61195,7 @@ nonplayer
 nonplayers
 nonplaying
 nonplused
+nonplusing
 nonplussed
 nonplusses
 nonplussing
@@ -61277,6 +61300,7 @@ nonsentence
 nonsentences
 nonsequential
 nonserials
+nonserious
 nonshrink
 nonshrinkable
 nonsignificant
@@ -67124,6 +67148,7 @@ pediment
 pedimental
 pedimented
 pediments
+pedipalp
 pedipalps
 pedlar
 pedlaries
@@ -69498,6 +69523,7 @@ planch
 planche
 planches
 planchette
+plane
 planed
 planenesses
 planers
@@ -69795,6 +69821,7 @@ plenteousnesses
 plenties
 plentiful
 plentifully
+plentifulness
 plentifulnesses
 plentitude
 plentitudes
@@ -71794,6 +71821,7 @@ premaxilla
 premaxillae
 premaxillary
 premaxillas
+premeal
 premeasure
 premeasured
 premeasuring
@@ -73024,6 +73052,7 @@ propitiating
 propitiations
 propitiator
 propitiators
+propitiatory
 propitiously
 propitiousness
 propjet
@@ -74484,6 +74513,7 @@ quantifiers
 quantifies
 quantify
 quanting
+quantitated
 quantitates
 quantitation
 quantitations
@@ -74532,6 +74562,7 @@ quarters
 quarterstaff
 quarterstaves
 quartet
+quartettes
 quartic
 quartics
 quartiers
@@ -75064,6 +75095,7 @@ raged
 ragee
 rages
 raggeder
+raggedest
 raggedier
 raggediest
 raggedly
@@ -79409,6 +79441,7 @@ reuttering
 rev
 revaccinate
 revaccination
+revaccinations
 revalidate
 revalidated
 revalidating
@@ -84272,6 +84305,7 @@ shame
 shameable
 shamefacedly
 shamefacedness
+shamefast
 shameless
 shamelessly
 shamelessness
@@ -90377,6 +90411,7 @@ sturdiest
 sturdily
 sturgeon
 sturgeons
+sturt
 sturts
 stuttered
 stutterer
