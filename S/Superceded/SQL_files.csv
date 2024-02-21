@@ -1,0 +1,4 @@
+install/sql_files/vocabulary_init.sql - gitlab,http://gitlab.iath.virginia.edu/snac/snac/blob/22360af4f1eee04a75ca346c1ab6a23e53c51788/install/sql_files/vocabulary_init.sql
+zabbix-pgsql-partitioning/bootstrap.sql at master - GitHub,https://github.com/cavaliercoder/zabbix-pgsql-partitioning/blob/master/bootstrap.sql
+pg_ppdm/postgres_39/PPDM39_TCM.SQL at master - GitHub,https://github.com/rbhughes/pg_ppdm/blob/master/postgres_39/PPDM39_TCM.SQL
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x64/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/cxmsl78r.sql

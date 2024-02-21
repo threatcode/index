@@ -4603,6 +4603,7 @@ arenite
 arenites
 arenose
 arenous
+areocentric
 areola
 areolae
 areolar
@@ -4787,6 +4788,7 @@ arraigners
 arraigning
 arraignment
 arraigns
+arrangement
 arrangements
 arranges
 arranging
@@ -6540,6 +6542,7 @@ baffed
 baffies
 baffle
 bafflegab
+bafflegabs
 bafflers
 baffling
 bafflingly
@@ -14653,6 +14656,7 @@ chambers
 chambray
 chambrays
 chameleon
+chameleonlike
 chamfered
 chamferer
 chamfering
@@ -15969,6 +15973,7 @@ circles
 circlet
 circuit
 circuital
+circuited
 circuities
 circuiting
 circuitous
@@ -16185,6 +16190,7 @@ clambake
 clambakes
 clambered
 clamberer
+clamberers
 clambers
 clammed
 clammers
@@ -17175,6 +17181,7 @@ coequalities
 coequality
 coequally
 coequated
+coequates
 coequating
 coercer
 coercers
@@ -19469,6 +19476,7 @@ copied
 copier
 copihue
 copilot
+coping
 copingstone
 copious
 copiously
@@ -21959,6 +21967,7 @@ cyclase
 cyclazocines
 cyclecar
 cycled
+cycler
 cyclers
 cyclery
 cycles
@@ -26060,6 +26069,7 @@ disesteems
 diseur
 diseurs
 diseuse
+diseuses
 disfavor
 disfavors
 disfavoured
@@ -26302,6 +26312,7 @@ dispense
 dispenser
 dispensers
 dispenses
+dispensing
 dispeople
 dispeoples
 dispersal
@@ -42663,6 +42674,7 @@ histopathology
 histoplasmoses
 historian
 historians
+historical
 historically
 historicalness
 historicism
@@ -46179,6 +46191,7 @@ inexpertnesses
 inexperts
 inexpiable
 inexpiably
+inexplainable
 inexplicability
 inexplicable
 inexplicit
@@ -47783,12 +47796,14 @@ inveighing
 inveigle
 inveiglement
 inveiglers
+inveigling
 invent
 invented
 inventer
 inventers
 inventively
 inventiveness
+inventorial
 inventories
 inventors
 inventory
@@ -48654,6 +48669,7 @@ jeeringly
 jeers
 jees
 jeez
+jefes
 jehad
 jejuna
 jejunal
@@ -49013,6 +49029,7 @@ journeyed
 journeyer
 journeymen
 journeywork
+journeyworks
 journo
 journos
 joust
@@ -50321,6 +50338,7 @@ kyboshing
 kyes
 kylix
 kymographs
+kymography
 kyphoses
 kyphosis
 kyries
@@ -50910,6 +50928,7 @@ lassoes
 lassoing
 lassos
 lastborn
+lastborns
 lasted
 lasting
 lastingly
@@ -51231,6 +51250,7 @@ leafstalk
 leafstalks
 leafworms
 leafy
+league
 leagued
 leaguering
 leaked
@@ -53885,6 +53905,7 @@ makeup
 makeweight
 makeweights
 makimonos
+making
 makings
 mako
 malabsorption
@@ -61926,6 +61947,7 @@ nucellar
 nucellus
 nucha
 nuchal
+nuchals
 nucleal
 nuclear
 nucleases
@@ -64931,6 +64953,7 @@ overflooded
 overfloods
 overflowed
 overflown
+overfocus
 overfocused
 overfocuses
 overfocusing
@@ -69504,6 +69527,7 @@ pipsissewas
 pipsqueaks
 piquance
 piquancies
+piquant
 piquantly
 piquantness
 piquantnesses
@@ -70362,6 +70386,7 @@ podzolic
 podzolizations
 podzolized
 podzolizes
+podzols
 poechore
 poems
 poenologies
@@ -72142,6 +72167,7 @@ prenumbers
 prenuptial
 preobtain
 preobtained
+preobtaining
 preoccupancy
 preoccupation
 preoccupations
@@ -74102,6 +74128,7 @@ pulsates
 pulsatile
 pulsating
 pulsations
+pulsative
 pulsatory
 pulsed
 pulsejet
@@ -81875,6 +81902,7 @@ sambal
 sambar
 sambars
 sambhurs
+sambos
 sambuke
 sambur
 samburs
@@ -91910,6 +91938,7 @@ supercarriers
 supercars
 supercautious
 supercede
+superceded
 supercedes
 superceding
 supercenters
@@ -95689,6 +95718,7 @@ timbers
 timberwork
 timberworks
 timecard
+timecards
 timekeepers
 timekeeping
 timekeepings
@@ -96825,6 +96855,7 @@ trancing
 trangams
 trank
 tranks
+tranny
 tranq
 tranqs
 tranquiler
@@ -98345,6 +98376,7 @@ tutelages
 tutelaries
 tutorage
 tutorages
+tutoress
 tutorials
 tutors
 tutorships
@@ -100059,6 +100091,7 @@ unhats
 unhatted
 unhealed
 unhealthier
+unhealthily
 unhealthiness
 unheard
 unheated
@@ -103062,6 +103095,7 @@ visualizers
 visualizes
 visually
 visuals
+vita
 vitae
 vital
 vitalise
@@ -105261,6 +105295,7 @@ withdrawals
 withdrawn
 withdrawnnesses
 withe
+wither
 witherer
 witherers
 witheringly
