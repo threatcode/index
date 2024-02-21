@@ -385,6 +385,7 @@ accusal
 accusant
 accusants
 accusations
+accusative
 accusatives
 accuse
 accuses
@@ -1525,6 +1526,7 @@ aggregately
 aggregateness
 aggregatenesses
 aggregates
+aggregating
 aggregation
 aggregations
 aggregative
@@ -7867,6 +7869,7 @@ begets
 beggardom
 beggaring
 beggarlinesses
+beggarly
 beggarweed
 beggarweeds
 begged
@@ -8928,6 +8931,7 @@ binocularities
 binocularity
 binocularly
 binomial
+binomially
 bins
 bints
 binturong
@@ -17526,6 +17530,7 @@ collaboratively
 collaboratives
 collaborator
 collage
+collaged
 collagen
 collagenase
 collagenous
@@ -23446,6 +23451,7 @@ deflagrating
 deflagration
 deflated
 deflater
+deflates
 deflation
 deflationary
 deflea
@@ -25106,6 +25112,7 @@ diapaused
 diapauses
 diapausing
 diapedeses
+diapered
 diapering
 diapers
 diaphaneities
@@ -29931,6 +29938,7 @@ enclitic
 enclose
 enclosed
 enclosers
+encloses
 enclosures
 encoder
 encomia
@@ -30126,6 +30134,7 @@ endothelium
 endotoxic
 endotoxin
 endotoxins
+endotracheal
 endow
 endowed
 endower
@@ -31154,6 +31163,7 @@ ergatives
 ergo
 ergodic
 ergodicities
+ergodicity
 ergogenic
 ergographs
 ergometer
@@ -31323,6 +31333,7 @@ eschatology
 escheat
 escheatable
 escheated
+escheating
 escheator
 escheators
 eschewed
@@ -32682,6 +32693,7 @@ externality
 externalize
 externalizing
 externally
+externals
 externe
 externes
 exteroceptive
@@ -34223,6 +34235,7 @@ figurativeness
 figured
 figureheads
 figurine
+figuring
 fil
 fila
 filagreed
@@ -38982,6 +38995,7 @@ glycin
 glycine
 glycines
 glycins
+glycogeneses
 glycogenesis
 glycogenolyses
 glycogenolysis
@@ -41518,6 +41532,7 @@ hastiness
 hasty
 hatbox
 hatchability
+hatchbacks
 hatcheck
 hatchecks
 hatchel
@@ -43465,6 +43480,7 @@ hording
 horehounds
 horizon
 horizontal
+horizontalities
 horizontally
 hormogonia
 hormogonium
@@ -43728,6 +43744,7 @@ housesat
 housesit
 housesits
 housesitting
+housetop
 housetops
 housewares
 housewarming
@@ -47342,6 +47359,7 @@ interconvert
 intercoolers
 intercorporate
 intercorrelate
+intercorrelates
 intercostals
 intercounty
 intercourse
@@ -48862,6 +48880,7 @@ jazzinesses
 jazzlike
 jazzman
 jazzy
+jealous
 jealousy
 jeaned
 jee
@@ -49800,6 +49819,7 @@ kerchoo
 kerf
 kerfed
 kerfing
+kerfs
 kermess
 kermesse
 kermesses
@@ -52908,6 +52928,7 @@ loculed
 locules
 loculi
 loculicidal
+loculus
 locum
 locums
 locus
@@ -56174,6 +56195,7 @@ methodicalness
 methodised
 methodises
 methodisms
+methodize
 methodizes
 methodizing
 methodological
@@ -56630,6 +56652,7 @@ migrants
 migrate
 migration
 migrators
+mihrab
 mijnheers
 mikado
 mikados
@@ -57740,6 +57763,7 @@ mistreated
 mistreatment
 mistreats
 mistresses
+mistrial
 mistrustful
 mistrustfully
 mistrustfulness
@@ -68338,6 +68362,7 @@ peritrichously
 peritus
 periwig
 periwigs
+perjured
 perjurer
 perjures
 perjuring
@@ -69600,6 +69625,7 @@ pillagers
 pillages
 pillaging
 pillar
+pillared
 pillarless
 pillars
 pillbox
@@ -71718,6 +71744,7 @@ poultry
 poultryman
 poults
 pounced
+pouncer
 pouncers
 pouncing
 pound
@@ -72818,6 +72845,7 @@ presummit
 presumptive
 presumptively
 presumptuous
+presumptuously
 presupposed
 presupposes
 presupposition
@@ -75825,6 +75853,7 @@ rajah
 rajahs
 rake
 rakee
+rakehell
 rakehelly
 rakeoffs
 raker
@@ -78863,6 +78892,7 @@ reparative
 reparked
 reparking
 reparks
+repartee
 repartition
 repartitions
 repass
@@ -88991,6 +89021,7 @@ spinula
 spinulae
 spinule
 spinules
+spinulose
 spiracle
 spiracles
 spiraeas
@@ -95980,6 +96011,7 @@ thyratrons
 thyreoid
 thyristor
 thyristors
+thyroglobulin
 thyroid
 thyroidectomies
 thyroiditises
@@ -102069,6 +102101,7 @@ urease
 ureases
 uredia
 uredinia
+uredinial
 urediniospores
 urediospores
 uredium
@@ -103460,6 +103493,7 @@ virga
 virgates
 virginalist
 virginalists
+virginally
 virgule
 virgules
 viricidal
@@ -106807,6 +106841,7 @@ zaffres
 zaftig
 zag
 zagged
+zaibatsu
 zaikais
 zaire
 zaires
