@@ -1466,6 +1466,7 @@ agendas
 agendum
 agendums
 agenes
+ageneses
 agenesia
 agenesis
 agenetic
@@ -1625,6 +1626,7 @@ agrarianisms
 agrarians
 agravic
 agree
+agreeability
 agreeable
 agreeably
 agreed
@@ -2960,6 +2962,7 @@ anastigmats
 anastomose
 anastomosed
 anastomosing
+anastomosis
 anastomotic
 anastrophe
 anastrophes
@@ -3360,6 +3363,7 @@ anopias
 anopsias
 anoraks
 anoretic
+anoretics
 anorexias
 anorexic
 anorexics
@@ -6824,6 +6828,7 @@ banditries
 banditry
 banditti
 bandleaders
+bandmaster
 bandmate
 bandogs
 bandoleer
@@ -7720,6 +7725,7 @@ bedsit
 bedsits
 bedsonia
 bedsonias
+bedsores
 bedspring
 bedsprings
 bedstand
@@ -8293,6 +8299,7 @@ beseechingly
 beseemed
 beseeming
 beseems
+besetment
 besetments
 besets
 besetters
@@ -11737,6 +11744,7 @@ bullet
 bulleted
 bulletin
 bulletined
+bulletproof
 bullets
 bullfighting
 bullfightings
@@ -25013,6 +25021,7 @@ dialects
 dialer
 dialers
 dialist
+diallage
 diallages
 diallel
 dialler
@@ -26060,6 +26069,7 @@ discussible
 discussing
 disdainful
 disdainfully
+disdainfulness
 disdains
 disease
 diseased
@@ -28324,6 +28334,7 @@ dusking
 dusks
 dusky
 dustbin
+dustbins
 dustcover
 dustcovers
 dusters
@@ -29193,6 +29204,7 @@ electromagnetic
 electrometers
 electromyograms
 electromyograph
+electronegative
 electronica
 electronically
 electrons
@@ -49396,6 +49408,7 @@ juxtaposes
 juxtaposition
 juxtapositional
 juxtapositions
+kab
 kabala
 kabalas
 kabalist
@@ -50206,6 +50219,7 @@ kneepiece
 kneepieces
 kneesies
 kneesocks
+knelled
 knelling
 knessets
 knickerbocker
@@ -50441,6 +50455,7 @@ kurus
 kusso
 kuvasz
 kvasses
+kvell
 kvelled
 kvelling
 kvells
@@ -52320,6 +52335,7 @@ lingering
 lingeringly
 lingier
 lingo
+lings
 lingua
 lingually
 linguine
@@ -55535,6 +55551,7 @@ memetics
 memoir
 memoirist
 memoirists
+memorabilia
 memorable
 memorablenesses
 memorably
@@ -59833,6 +59850,7 @@ narrating
 narrations
 narratively
 narratives
+narratologist
 narratology
 narrators
 narrowed
@@ -61315,6 +61333,7 @@ nonexempts
 nonexistences
 nonexistential
 nonexotic
+nonexpendable
 nonexperimental
 nonexperts
 nonexplanatory
@@ -65436,6 +65455,7 @@ overprizes
 overprocess
 overprocesses
 overprocessing
+overproduced
 overproduces
 overproducing
 overproduction
@@ -67444,6 +67464,7 @@ peacocks
 peacocky
 peafowl
 peag
+peage
 peages
 peahens
 peak
@@ -71301,6 +71322,7 @@ positiver
 positives
 positivist
 positivistic
+positivities
 positivity
 positronium
 positroniums
@@ -77062,6 +77084,7 @@ reddled
 reddles
 redds
 redear
+redears
 redecide
 redecides
 redecorates
@@ -79689,6 +79712,7 @@ retailings
 retailor
 retailoring
 retailors
+retails
 retained
 retainer
 retains
@@ -81811,6 +81835,7 @@ saddhus
 saddlebag
 saddlebreds
 saddlecloth
+saddlecloths
 saddled
 saddleless
 saddlers
@@ -82803,6 +82828,7 @@ scanties
 scantiest
 scanting
 scantlings
+scantly
 scape
 scaped
 scapegoating
@@ -84641,6 +84667,7 @@ sessions
 sesspool
 sesspools
 sesterce
+sesterces
 sestet
 sestinas
 seta
@@ -84820,6 +84847,7 @@ shaduf
 shadufs
 shady
 shaft
+shafted
 shafting
 shafts
 shag
@@ -87717,6 +87745,7 @@ solace
 solaces
 solan
 solanaceous
+soland
 solander
 solanine
 solanines
@@ -88185,6 +88214,7 @@ soupier
 soupless
 souplike
 soupspoon
+sour
 sourball
 sourballs
 sourcebook
@@ -90413,6 +90443,7 @@ stonechats
 stonecrops
 stonecutting
 stonecuttings
+stoned
 stonefish
 stonefishes
 stoneflies
@@ -93831,6 +93862,7 @@ taluses
 tamale
 tamals
 tamandu
+tamanduas
 tamandus
 tamarack
 tamarau
@@ -98236,6 +98268,7 @@ trunkfishes
 trunkful
 trunnel
 trunnels
+trunnions
 trussers
 trusses
 trussing
@@ -103106,6 +103139,7 @@ videotape
 videotaping
 videotexes
 videotexts
+vidette
 videttes
 vidicon
 vidicons
@@ -103505,6 +103539,7 @@ vizirial
 vizored
 vizoring
 vizslas
+vocab
 vocable
 vocables
 vocably
