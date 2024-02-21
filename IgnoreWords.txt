@@ -1766,6 +1766,7 @@ airsicknesses
 airspace
 airspaces
 airspeeds
+airstreams
 airstrip
 airt
 airted
@@ -3054,6 +3055,7 @@ anecdotal
 anecdotalism
 anecdotalists
 anecdotally
+anecdote
 anecdotical
 anecdotically
 anecdotists
@@ -15613,6 +15615,7 @@ choriambs
 choric
 chorine
 chorines
+choring
 chorioallantoic
 chorioallantois
 chorioid
@@ -20345,6 +20348,7 @@ countless
 countlessly
 countries
 country
+countryish
 countryman
 countryseat
 countrysides
@@ -22143,6 +22147,7 @@ cytokinin
 cytokinins
 cytologic
 cytological
+cytologically
 cytolyses
 cytolysin
 cytolysins
@@ -22524,6 +22529,7 @@ datcha
 date
 dateable
 datebook
+dated
 datedly
 datedness
 dateline
@@ -22869,6 +22875,7 @@ decantations
 decanted
 decanter
 decants
+decapitated
 decapitation
 decapitator
 decapod
@@ -23479,6 +23486,7 @@ degeneracies
 degeneracy
 degenerated
 degenerateness
+degeneration
 degerming
 degerms
 deglaciated
@@ -37298,6 +37306,7 @@ gamble
 gambler
 gamblers
 gambling
+gamboges
 gambogian
 gamboling
 gambols
@@ -40102,6 +40111,7 @@ gruffy
 gruiform
 grum
 grumble
+grumbled
 grumbler
 grumbles
 grumbling
@@ -41061,6 +41071,7 @@ handwringer
 handwringers
 handwrit
 handwrite
+handwrites
 handwritten
 handwrote
 handy
@@ -44797,6 +44808,7 @@ imaginative
 imagine
 imagined
 imaginer
+imagines
 imagings
 imagining
 imagisms
@@ -45066,6 +45078,7 @@ impassioned
 impassioning
 impassions
 impassiveness
+impaste
 impastes
 impasto
 impastoed
@@ -45182,6 +45195,7 @@ impious
 impiously
 impis
 impish
+impishness
 implant
 implantation
 implantations
@@ -51195,6 +51209,7 @@ layabout
 layabouts
 layaway
 layaways
+layerage
 layerages
 layering
 layette
@@ -54634,6 +54649,7 @@ martyrizing
 martyrly
 martyrology
 martyry
+marvel
 marveling
 marvelled
 marvelling
@@ -54846,6 +54862,7 @@ mating
 matings
 matins
 matrass
+matrasses
 matres
 matriarch
 matriarchal
@@ -55869,6 +55886,7 @@ metanephros
 metaphase
 metaphor
 metaphoric
+metaphors
 metaphosphate
 metaphrase
 metaphrases
@@ -62640,6 +62658,7 @@ oddment
 oddness
 oddnesses
 odds
+ode
 odea
 odes
 odious
@@ -63254,6 +63273,7 @@ optatively
 opted
 optic
 optically
+optician
 opticist
 optimalities
 optimality
@@ -68646,6 +68666,7 @@ phlebitis
 phlebitises
 phlebograms
 phlebographic
+phlebographies
 phlebography
 phlebologies
 phlebotomists
@@ -74901,6 +74922,7 @@ quarters
 quarterstaff
 quarterstaves
 quartet
+quartets
 quartettes
 quartic
 quartics
@@ -76517,6 +76539,7 @@ reckless
 recklessness
 reckon
 reckoned
+reckonings
 reclad
 recladded
 recladding
@@ -77860,6 +77883,7 @@ reinjected
 reinjecting
 reinjection
 reinjects
+reinjure
 reinjured
 reinjures
 reinjuries
@@ -87276,6 +87300,7 @@ snowfield
 snowfields
 snowflake
 snowflakes
+snowier
 snowily
 snowinesses
 snowing
@@ -89565,6 +89590,7 @@ states
 stateside
 statesman
 statesmanly
+static
 statically
 statice
 staticky
@@ -89909,6 +89935,7 @@ stew
 stewardess
 stewardesses
 stewbum
+stewed
 stewing
 stewpan
 stews
@@ -91983,6 +92010,7 @@ superbly
 superbness
 superbnesses
 superboard
+superboards
 superbomb
 superbombs
 superbright
@@ -94602,6 +94630,7 @@ tepoys
 tequila
 teraflop
 teraflops
+terahertz
 terai
 teraohm
 teraohms
@@ -95315,6 +95344,7 @@ tholes
 tholing
 thonged
 thongs
+thoracal
 thoracically
 thoracotomy
 thorax
@@ -95360,6 +95390,7 @@ thoughtless
 thoughtlessly
 thoughtlessness
 thoughtway
+thoughtways
 thouing
 thous
 thousand
@@ -96635,6 +96666,7 @@ touting
 touzles
 touzling
 tovarich
+tovariches
 tovarish
 tow
 towable
@@ -101460,6 +101492,7 @@ uplifts
 uplighted
 uplighting
 uplink
+uplinked
 uplinks
 uplit
 upload
@@ -102716,6 +102749,7 @@ vesuvians
 vet
 vetch
 vetches
+vetchling
 veterans
 veterinarian
 veterinarians
@@ -106652,6 +106686,7 @@ zoophilias
 zoophily
 zoophobia
 zoophobias
+zoophyte
 zoophytes
 zooplankter
 zooplankters
