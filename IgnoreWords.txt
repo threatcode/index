@@ -2054,6 +2054,7 @@ alkalies
 alkalified
 alkalifies
 alkalifying
+alkalimeter
 alkalimetries
 alkaline
 alkalinities
@@ -4968,6 +4969,7 @@ asbestosis
 asbestous
 asbestuses
 ascared
+ascariases
 ascarides
 ascaris
 ascend
@@ -10153,6 +10155,7 @@ boneless
 bonemeal
 boneset
 bonesetters
+boney
 boneyard
 boneyer
 bonged
@@ -15072,6 +15075,7 @@ cheesy
 chefdom
 chefdoms
 chefed
+cheffed
 cheffing
 chefing
 chefs
@@ -15211,6 +15215,7 @@ chickadees
 chickees
 chicken
 chickenhearted
+chickening
 chickenshit
 chickenshits
 chickories
@@ -17941,6 +17946,7 @@ communalisms
 communalities
 communalized
 communalizes
+communally
 communard
 communed
 communer
@@ -19773,6 +19779,7 @@ cornucopia
 cornucopian
 cornucopias
 cornus
+cornuses
 cornute
 cornuted
 cornuto
@@ -24675,6 +24682,7 @@ detour
 detoured
 detouring
 detoxes
+detoxicant
 detoxification
 detoxifications
 detoxify
@@ -29501,6 +29509,7 @@ embroglio
 embroider
 embroidered
 embroiderer
+embroiderers
 embroideries
 embroidering
 embroidery
@@ -31916,6 +31925,7 @@ excellent
 excelling
 excels
 excelsior
+excelsiors
 except
 excepting
 exception
@@ -38710,6 +38720,7 @@ glorifiers
 glorifies
 gloriole
 glorioles
+glory
 glorying
 gloss
 glossa
@@ -42591,6 +42602,7 @@ himatia
 himation
 himations
 himself
+hin
 hind
 hinderers
 hindguts
@@ -45923,6 +45935,7 @@ indent
 indentation
 indentations
 indented
+indenter
 indenters
 indention
 indenturing
@@ -50201,6 +50214,7 @@ kob
 kobold
 kobs
 koels
+kohls
 koines
 kois
 koji
@@ -53303,6 +53317,7 @@ lunacies
 lunacy
 lunarian
 lunarians
+lunars
 lunas
 lunately
 lunatic
@@ -58038,6 +58053,7 @@ monocyte
 monocytic
 monodic
 monodical
+monodisperse
 monodramas
 monoecious
 monoecism
@@ -61178,6 +61194,7 @@ nonequilibriums
 nonequivalence
 nonequivalences
 nones
+nonessential
 nonessentials
 nonestablished
 nonesuch
@@ -66429,6 +66446,7 @@ pappier
 pappoose
 pappooses
 pappose
+pappy
 papulae
 papule
 papyral
@@ -72161,6 +72179,7 @@ premanufactures
 premarketed
 premarkets
 premarriage
+prematurely
 prematureness
 prematurenesses
 prematures
@@ -74808,6 +74827,7 @@ quadruply
 quadrupole
 quads
 quaere
+quaestors
 quaff
 quaffed
 quaffer
@@ -78799,6 +78819,7 @@ repressiveness
 repressor
 repressors
 repressurize
+repressurized
 repressurizing
 reprices
 reprieval
@@ -82645,6 +82666,7 @@ scantlings
 scape
 scaped
 scapegoating
+scapegoatism
 scapegoatisms
 scapegoats
 scapegraces
@@ -85167,6 +85189,7 @@ shlock
 shlockier
 shlocks
 shlub
+shlubs
 shlump
 shlumping
 shlumps
@@ -88644,6 +88667,7 @@ spineless
 spinelessnesses
 spinelle
 spinelles
+spinets
 spinifex
 spinifexes
 spininess
@@ -89377,6 +89401,7 @@ stainers
 staining
 stainless
 stainlesses
+stainlessly
 stainproof
 stains
 stair
@@ -89614,6 +89639,7 @@ statistically
 statisticians
 statistics
 statists
+statoblast
 statoblasts
 statolith
 stator
@@ -90063,6 +90089,7 @@ stingo
 stingos
 stingray
 stingrays
+stink
 stinkard
 stinkbug
 stinkbugs
@@ -96820,6 +96847,7 @@ tradecrafts
 trademark
 trademarked
 trademarking
+tradeoff
 tradeoffs
 tradescantias
 tradesmen
@@ -99928,6 +99956,7 @@ uneconomic
 uneconomical
 unedible
 unedifying
+unedited
 uneffaced
 unelectable
 unembittered
@@ -101847,6 +101876,7 @@ ut
 ute
 uteri
 uterus
+uteruses
 utes
 utilidor
 utilidors
@@ -102796,6 +102826,7 @@ vialing
 vialled
 vialling
 vials
+viand
 viands
 viatic
 viatica
@@ -103256,6 +103287,7 @@ vittled
 vittles
 vittling
 vituline
+vituperates
 vituperating
 vituperation
 vituperative
@@ -104231,6 +104263,7 @@ waxings
 waxplants
 waxweeds
 waxwing
+waxwings
 waxwork
 waxworker
 waxworkers
@@ -105356,6 +105389,7 @@ wishfulness
 wishing
 wishless
 wisp
+wisped
 wispier
 wispily
 wispinesses
@@ -105686,6 +105720,7 @@ wordsmiths
 work
 workabilities
 workability
+workableness
 workaday
 workaholics
 workaholism
