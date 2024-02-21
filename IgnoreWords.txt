@@ -5479,6 +5479,7 @@ atomisms
 atomistic
 atomistically
 atomists
+atomization
 atomize
 atomized
 atomizer
@@ -8027,6 +8028,7 @@ belittler
 belittlers
 belittles
 belittling
+belive
 bellbird
 bellbirds
 belleek
@@ -16912,6 +16914,7 @@ coalyard
 coamings
 coanchored
 coanchoring
+coanchors
 coannexed
 coappeared
 coappearing
@@ -24198,6 +24201,7 @@ deplorably
 deplore
 deplored
 deplorer
+deploringly
 deployer
 deployers
 deploying
@@ -24428,6 +24432,7 @@ desalted
 desalting
 desalts
 desand
+desanded
 descant
 descanted
 descanter
@@ -25517,6 +25522,7 @@ diluting
 dilution
 dilutions
 dilutive
+dilutor
 dilutors
 diluvia
 diluvial
@@ -29666,6 +29672,7 @@ emersion
 emersions
 emery
 emeses
+emesis
 emetics
 emetine
 emetines
@@ -29755,6 +29762,7 @@ emphasising
 emphasize
 emphasized
 emphasizes
+emphasizing
 emphatically
 emphysema
 emphysemas
@@ -35569,6 +35577,7 @@ follies
 follower
 followers
 followerships
+followings
 folly
 foment
 fomentation
@@ -38663,6 +38672,7 @@ glassblowing
 glassed
 glasses
 glassfuls
+glasshouse
 glasshouses
 glassier
 glassies
@@ -39821,6 +39831,7 @@ grazier
 grazingly
 grazings
 greaseball
+greaseballs
 greased
 greaseless
 greasepaint
@@ -48187,6 +48198,7 @@ iproniazid
 iproniazids
 ipsilateral
 ipsilaterally
+irade
 irades
 irascibilities
 irascibility
@@ -50538,6 +50550,7 @@ kurrajongs
 kurta
 kurtas
 kurtoses
+kuru
 kurus
 kusso
 kuvasz
@@ -53349,6 +53362,7 @@ lowdown
 lower
 lowercased
 lowercases
+lowercasing
 lowered
 lowering
 lowermost
@@ -53691,6 +53705,7 @@ lyes
 lying
 lyingly
 lyings
+lymphadenitises
 lymphadenopathy
 lymphangiogram
 lymphatic
@@ -55215,6 +55230,7 @@ mayflower
 mayflowers
 mayfly
 mayhap
+mayhem
 mayo
 mayonnaise
 mayonnaises
@@ -55319,6 +55335,7 @@ mecamylamine
 mecamylamines
 mecca
 mechanical
+mechanician
 mechanicians
 mechanism
 mechanistic
@@ -57379,6 +57396,7 @@ misform
 misformed
 misforming
 misfortune
+misfortunes
 misframe
 misframed
 misframes
@@ -64049,6 +64067,7 @@ ouphs
 our
 ourang
 ourari
+ouraris
 ourebis
 ours
 ourselves
@@ -68496,6 +68515,7 @@ persisting
 persists
 persnicketiness
 persnickety
+persona
 personableness
 personages
 personalise
@@ -74658,6 +74678,7 @@ purblindly
 purblindness
 purblindnesses
 purchase
+purchased
 purchasing
 purdah
 purdahs
@@ -81227,6 +81248,7 @@ rooflike
 roofline
 roofs
 rooftree
+rook
 rooked
 rookeries
 rookery
@@ -83355,6 +83377,7 @@ scooched
 scooching
 scoop
 scooped
+scooper
 scoopful
 scoopfuls
 scoops
@@ -83563,6 +83586,7 @@ scrieves
 scrieving
 scrim
 scrimmage
+scrimmaged
 scrimmagers
 scrimmaging
 scrimp
@@ -85734,6 +85758,7 @@ shrew
 shrewdness
 shrewdnesses
 shrewed
+shrewish
 shrewishly
 shrewmouse
 shri
@@ -87265,6 +87290,7 @@ smelliest
 smelling
 smelter
 smelteries
+smelters
 smelting
 smelts
 smerked
@@ -88168,6 +88194,7 @@ sonship
 sonships
 sonsie
 sonsier
+sonsiest
 sonsy
 soochongs
 sooey
@@ -88814,6 +88841,7 @@ spelters
 spelts
 spelunk
 spelunker
+spelunking
 spelunkings
 spence
 spencer
@@ -90287,6 +90315,7 @@ stet
 stethoscope
 stethoscopes
 stets
+stetson
 stetting
 stevedores
 stevedoring
@@ -91892,6 +91921,7 @@ subvariety
 subvassals
 subvened
 subvening
+subvention
 subventionary
 subversion
 subversionary
@@ -95660,6 +95690,7 @@ thinners
 thinnesses
 thins
 thio
+thiocyanates
 thiol
 thiols
 thionic
@@ -100735,6 +100766,7 @@ unionizes
 unions
 uniparental
 uniparentally
+uniplanar
 unipod
 unipotent
 uniquely
@@ -104322,6 +104354,7 @@ warehousing
 wareroom
 wares
 warfare
+warfares
 warhead
 warhorse
 warhorses
@@ -105368,6 +105401,7 @@ whosises
 whoso
 whosoever
 whump
+whumped
 whumps
 whupped
 whupping
@@ -105577,6 +105611,7 @@ windlass
 windlassed
 windlasses
 windlassing
+windle
 windles
 windlestraw
 windling
