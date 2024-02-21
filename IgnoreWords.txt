@@ -2134,6 +2134,7 @@ allelism
 allelisms
 allelomorph
 allelomorphic
+allelomorphism
 allelomorphisms
 allelopathic
 allelopathies
@@ -4075,6 +4076,7 @@ aplombs
 apneal
 apneic
 apnoea
+apnoeas
 apo
 apoapsis
 apocalypse
@@ -6698,6 +6700,7 @@ baleen
 balefulness
 balefulnesses
 baling
+balisaurs
 balkanization
 balkanized
 balked
@@ -7326,6 +7329,7 @@ batfowling
 batgirl
 batgirls
 bath
+bathers
 bathetic
 bathetically
 bathhouse
@@ -7838,6 +7842,7 @@ beforetime
 befoul
 befouled
 befouler
+befoulers
 befouling
 befret
 befrets
@@ -8344,6 +8349,7 @@ besmile
 besmiled
 besmiles
 besmirching
+besmoke
 besmoked
 besmokes
 besmoking
@@ -24082,6 +24088,7 @@ dentistry
 dentists
 dentition
 dentitions
+dentulous
 dentural
 dentures
 denturists
@@ -25567,6 +25574,7 @@ dindled
 dindles
 diner
 dineric
+dinero
 dineros
 dinettes
 ding
@@ -33106,6 +33114,7 @@ faithlessness
 faithlessnesses
 faitours
 fajita
+fajitas
 fakeer
 fakeers
 faker
@@ -33880,7 +33889,9 @@ ferroconcrete
 ferroconcretes
 ferrocyanide
 ferroelectrics
+ferromagnets
 ferromanganese
+ferromanganeses
 ferrotypes
 ferrotyping
 ferrous
@@ -34036,6 +34047,7 @@ fezzy
 fiacres
 fiance
 fiances
+fianchettoed
 fianchettos
 fiasco
 fiascoes
@@ -35628,6 +35640,7 @@ footlight
 footlights
 footlockers
 footman
+footmark
 footmarks
 footnoted
 footnotes
@@ -46166,6 +46179,7 @@ indissolubly
 indistinct
 indite
 inditers
+indites
 inditing
 indium
 indiums
@@ -53096,6 +53110,7 @@ lookdown
 lookdowns
 looked
 looker
+looking
 lookisms
 lookouts
 looksisms
@@ -54440,6 +54455,7 @@ manics
 manicure
 manicured
 manifest
+manifestants
 manifester
 manifesting
 manifestly
@@ -58158,6 +58174,7 @@ mongos
 mongrel
 mongrelization
 mongrelized
+mongrelizes
 mongrelly
 mongrels
 monickers
@@ -59550,6 +59567,7 @@ myasthenic
 mycele
 myceles
 mycelia
+mycelian
 myceloid
 mycetomas
 mycetomata
@@ -61211,6 +61229,7 @@ noncommunity
 noncommutative
 noncomparable
 noncompetitor
+noncomplex
 noncompliance
 noncompliances
 noncomplying
@@ -62174,6 +62193,7 @@ novercal
 novice
 novices
 noviciate
+novitiates
 novobiocins
 now
 nowadays
@@ -62360,6 +62380,7 @@ nurseryman
 nurserymen
 nursing
 nursling
+nurslings
 nurtural
 nurturance
 nurturances
@@ -65653,6 +65674,7 @@ oversleeps
 overslip
 overslipped
 overslipping
+overslipt
 overslow
 oversmoked
 oversmoking
@@ -68139,6 +68161,7 @@ peregrins
 pereia
 pereion
 pereions
+pereiopod
 pereiopods
 perennates
 perennating
@@ -78931,6 +78954,7 @@ replantation
 replanting
 replastered
 replasters
+replate
 replating
 replay
 replaying
@@ -79933,6 +79957,7 @@ retorter
 retorters
 retortion
 retotal
+retotaling
 retotalled
 retotalling
 retouch
@@ -88912,6 +88937,7 @@ spillable
 spillage
 spilled
 spillers
+spillikins
 spills
 spin
 spinach
@@ -89611,6 +89637,7 @@ stackers
 stackless
 stacks
 stackup
+staddle
 stade
 stades
 stadias
@@ -89949,6 +89976,7 @@ steadfast
 steadfastly
 steadies
 steadily
+steadiness
 steadinesses
 steading
 steadings
@@ -92257,6 +92285,7 @@ sunlight
 sunlights
 sunlike
 sunlit
+sunn
 sunna
 sunnas
 sunned
@@ -93645,6 +93674,7 @@ tabbises
 tabbouleh
 tabboulehs
 tabby
+tabbying
 taber
 tabering
 tabernacled
@@ -97492,6 +97522,7 @@ transships
 transsonic
 transthoracic
 transubstantial
+transudate
 transudates
 transudation
 transudations
@@ -99837,6 +99868,7 @@ uncritical
 uncropped
 uncross
 uncrossed
+uncrosses
 uncrown
 uncrowns
 uncrumple
@@ -102944,6 +102976,7 @@ vermicular
 vermiculate
 vermiculated
 vermiculation
+vermiculations
 vermiculite
 vermifuge
 vermilion
@@ -106153,6 +106186,7 @@ worthy
 wotted
 would
 wouldest
+wouldst
 wound
 woundedly
 woundless
@@ -106607,6 +106641,7 @@ yestereves
 yestern
 yet
 yeti
+yetis
 yeuked
 yew
 yews
