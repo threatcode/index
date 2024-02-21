@@ -842,6 +842,7 @@ adjournments
 adjudged
 adjudges
 adjudicating
+adjudication
 adjudicative
 adjudicator
 adjudicators
@@ -4282,6 +4283,7 @@ appraisements
 appraisers
 appraises
 appreciable
+appreciably
 appreciate
 appreciated
 appreciates
@@ -10848,6 +10850,7 @@ brasilin
 brasils
 brassages
 brassard
+brassart
 brassarts
 brassbound
 brassed
@@ -14192,6 +14195,7 @@ ceilers
 ceilidh
 ceiling
 ceilings
+ceilis
 ceinture
 ceintures
 celadon
@@ -20376,6 +20380,7 @@ courteousness
 courteousnesses
 courter
 courters
+courtesan
 courtesans
 courtesied
 courtesies
@@ -27842,6 +27847,7 @@ droopiest
 droopingly
 droops
 drop
+dropforge
 dropforged
 dropforges
 dropheads
@@ -31995,6 +32001,7 @@ excremental
 excrementitious
 excrescence
 excrescences
+excrescencies
 excrescency
 excrescent
 excrete
@@ -32600,6 +32607,7 @@ extractor
 extraditable
 extradited
 extradition
+extrados
 extradoses
 extraembryonic
 extragalactic
@@ -32701,6 +32709,7 @@ exuviate
 exuviation
 exuviations
 exuvium
+eyas
 eyases
 eye
 eyeball
@@ -42852,6 +42861,7 @@ holding
 holdings
 holdout
 holdouts
+holdover
 holdup
 holed
 holeless
@@ -45391,6 +45401,7 @@ inactivated
 inactivates
 inactivating
 inactivation
+inactivations
 inactive
 inactively
 inactivity
@@ -45721,6 +45732,7 @@ inconvertibly
 inconvincible
 incoordination
 incoordinations
+incorporable
 incorporate
 incorporated
 incorporates
@@ -49078,6 +49090,7 @@ jubilance
 jubilances
 jubilating
 jubilations
+jubilee
 jubiles
 jucos
 judder
@@ -50021,6 +50034,7 @@ klicks
 kliks
 klister
 klisters
+klondike
 klong
 klongs
 kloofs
@@ -52690,6 +52704,7 @@ lodestars
 lodestone
 lodge
 lodger
+lodgers
 lodges
 lodging
 lodgings
@@ -54955,6 +54970,7 @@ mayoralty
 mayoress
 mayors
 mayorship
+mayos
 maypoles
 mays
 mayvin
@@ -58127,6 +58143,7 @@ monounsaturates
 monovalent
 monoxide
 monoxides
+monseigneur
 monsieur
 monsignori
 monsignorial
@@ -67464,6 +67481,7 @@ peeries
 peering
 peers
 pees
+peesweeps
 peetweet
 peeves
 peeving
@@ -68668,6 +68686,7 @@ phonologists
 phonos
 phonotactic
 phonotactics
+phonotype
 phonotypy
 phony
 phonying
@@ -69024,6 +69043,7 @@ pibroch
 pibrochs
 pic
 pica
+picachos
 picadillos
 picador
 picadors
@@ -69392,6 +69412,7 @@ pinheaded
 pinheadedness
 pinheadednesses
 pinhole
+pinholes
 pining
 pinion
 pinioned
@@ -70489,6 +70510,7 @@ polariscopes
 polarised
 polarises
 polarities
+polarizability
 polarization
 polarizations
 polarize
@@ -72988,6 +73010,7 @@ prodromal
 prodromata
 prodrug
 produced
+producer
 producers
 producing
 productional
@@ -73802,6 +73825,7 @@ pschents
 psephites
 psephitic
 psephological
+psephologies
 psephologist
 psephologists
 psephology
@@ -78175,6 +78199,7 @@ remarketing
 remarque
 remarriage
 remarries
+remarrying
 remastering
 remasters
 rematching
@@ -81774,6 +81799,7 @@ salinometers
 saliva
 salivate
 salivated
+salivates
 salivation
 salivations
 sall
@@ -91189,6 +91215,7 @@ subnormality
 subnormally
 subnormals
 subnuclear
+subnucleus
 subnucleuses
 suboptimize
 suboptimized
@@ -94909,6 +94936,7 @@ thaumaturgist
 thaumaturgists
 thawed
 thawers
+thawless
 thaws
 the
 thearchy
@@ -96548,6 +96576,7 @@ toughnesses
 toughs
 toughy
 touraco
+tourbillion
 tourbillon
 tourbillons
 tourer
@@ -97944,6 +97973,7 @@ truncations
 truncheoned
 truncheoning
 trundled
+trundler
 trundles
 trundling
 trunked
@@ -98086,6 +98116,7 @@ tufaceous
 tuff
 tufoli
 tuft
+tuftiest
 tuftily
 tuftings
 tufts
@@ -99196,6 +99227,7 @@ uncertainnesses
 uncertainties
 uncertainty
 uncertified
+unchained
 unchaining
 unchains
 unchaired
@@ -101023,6 +101055,7 @@ unsubtle
 unsubtly
 unsuccessful
 unsuccessfully
+unsuitable
 unsuitably
 unsuited
 unsullied
@@ -103907,6 +103940,7 @@ washed
 washerman
 washermen
 washers
+washerwoman
 washerwomen
 washes
 washhouse
@@ -104266,6 +104300,7 @@ wechts
 wedder
 weddings
 wedel
+wedeled
 wedeling
 wedeln
 wedelns
