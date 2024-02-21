@@ -2136,6 +2136,7 @@ allemandes
 allergen
 allergenic
 allergenicities
+allergies
 allergin
 allergist
 allergy
@@ -6018,6 +6019,7 @@ aversion
 aversions
 aversively
 aversiveness
+aversivenesses
 avertable
 averted
 avertible
@@ -15467,6 +15469,7 @@ chlorination
 chlorinator
 chlorinity
 chlorins
+chloritic
 chlorobenzene
 chlorobenzenes
 chloroform
@@ -16163,6 +16166,7 @@ civilnesses
 civism
 civisms
 civvies
+civvy
 clabbering
 clach
 clachan
@@ -23135,6 +23139,7 @@ decoration
 decoratively
 decorativeness
 decorator
+decorators
 decorous
 decorousnesses
 decors
@@ -23828,6 +23833,7 @@ democracy
 democratic
 democratization
 democratized
+democratizer
 democratizers
 democratizes
 democratizing
@@ -25343,6 +25349,7 @@ digestives
 digestor
 digestors
 digged
+digger
 diggers
 digging
 dight
@@ -25621,6 +25628,7 @@ diplomates
 diplomatic
 diplomatically
 diplomatists
+diplont
 diplontic
 diplonts
 diplophase
@@ -27327,6 +27335,7 @@ dossier
 dossiers
 dossil
 dossils
+dossing
 dot
 dotages
 dotal
@@ -27956,6 +27965,7 @@ drumfires
 drumfish
 drumhead
 drumlier
+drumliest
 drumlike
 drumlins
 drummed
@@ -30968,6 +30978,7 @@ equipollent
 equipollently
 equipollents
 equiponderant
+equipotential
 equipped
 equipper
 equipping
@@ -31068,6 +31079,7 @@ ergometry
 ergonomic
 ergonomically
 ergonomist
+ergonovine
 ergonovines
 ergosterol
 ergosterols
@@ -31199,6 +31211,7 @@ escalops
 escapable
 escapade
 escapades
+escape
 escaped
 escapements
 escaper
@@ -37341,6 +37354,7 @@ gamesomenesses
 gamest
 gamester
 gamesters
+gametal
 gametangia
 gamete
 gametes
@@ -37876,6 +37890,7 @@ generalizable
 generalizations
 generalize
 generalized
+generalizer
 generalizers
 generalizing
 generalship
@@ -46217,6 +46232,7 @@ inevitabilities
 inevitability
 inevitableness
 inexactitudes
+inexactly
 inexactness
 inexcusableness
 inexhaustible
@@ -46507,6 +46523,7 @@ ingratiates
 ingratiating
 ingratitude
 ingratitudes
+ingredient
 ingression
 ingressions
 ingressive
@@ -50042,6 +50059,7 @@ kitschify
 kitschifying
 kitted
 kittel
+kitten
 kittened
 kittenish
 kittenishly
@@ -51162,6 +51180,7 @@ lavatory
 lave
 laved
 laveered
+laveering
 lavender
 lavendered
 lavendering
@@ -52972,6 +52991,7 @@ loosestrifes
 loosing
 loot
 looted
+looter
 looters
 looting
 lop
@@ -54561,6 +54581,7 @@ markswoman
 markswomen
 markup
 marled
+marline
 marlines
 marlinespikes
 marling
@@ -55684,6 +55705,7 @@ meropias
 meropic
 merozoite
 merrier
+merriest
 merriments
 merriness
 merrinesses
@@ -58769,6 +58791,7 @@ mucinoid
 muckamucks
 mucker
 muckers
+muckily
 muckle
 muckles
 muckluck
@@ -60501,6 +60524,7 @@ nickers
 nicking
 nickle
 nickled
+nickles
 nickling
 nicknack
 nickname
@@ -65479,6 +65503,7 @@ overstaffed
 overstaffing
 overstaffs
 overstated
+overstatements
 overstating
 overstays
 oversteer
@@ -70705,6 +70730,7 @@ polyacrylamides
 polyamide
 polyamine
 polyamines
+polyandrous
 polyandry
 polyantha
 polyanthas
@@ -71126,6 +71152,7 @@ porter
 porterages
 porteress
 porters
+portfolios
 porthole
 porticoed
 porticoes
@@ -75072,6 +75099,7 @@ quicksilver
 quiddities
 quids
 quiescence
+quiescent
 quiescently
 quiet
 quieted
@@ -82243,6 +82271,7 @@ saps
 sapsago
 sapsagos
 sapsucker
+sapsuckers
 sapwoods
 sarabande
 sarabandes
@@ -84985,6 +85014,7 @@ sheriffdoms
 sheriffs
 sherifs
 sherlock
+sheroot
 sherpas
 sherrises
 sherry
@@ -85127,6 +85157,7 @@ shipways
 shipworm
 shipworms
 shipwrecking
+shipwright
 shipwrights
 shipyard
 shirk
@@ -91761,6 +91792,7 @@ suitably
 suite
 suited
 suiter
+suiters
 suiting
 suk
 sukiyaki
@@ -93788,6 +93820,7 @@ tannoy
 tanrec
 tanrecs
 tans
+tansies
 tantalate
 tantalates
 tantalise
@@ -97009,6 +97042,7 @@ transaminations
 transaxle
 transaxles
 transceiver
+transcend
 transcendences
 transcendental
 transcending
@@ -102297,6 +102331,7 @@ vaticinal
 vaticinated
 vaticination
 vaticinator
+vaticinators
 vats
 vatted
 vatting
