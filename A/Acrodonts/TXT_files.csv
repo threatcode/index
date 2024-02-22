@@ -8,3 +8,7 @@ GitList,http://uisgplprod.uis.edu/gitlist/utils/blame/master/sqlserver/word_dict
 scrabble-dictionary.txt - web.stanford.edu,http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164//lectures/5-Collections/code/mpedigree/res/scrabble-dictionary.txt
 143wi22_section14_dictionary.txt - Washington,https://courses.cs.washington.edu/courses/cse143/22au/sections/143wi22_section14_dictionary.txt
 shortlist.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0/src/dictionaries/shortlist.txt
+673.txt - Project Gutenberg,https://www.gutenberg.org/files/673/673.txt
+dictionary.txt - Miles Brundage,https://www.milesbrundage.com/uploads/2/1/6/8/21681226/dictionary.txt
+pgwab04.txt - Project Gutenberg,https://www.gutenberg.org/files/660/old/pgwab04.txt
+words.utf-8.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/words.utf-8.txt
