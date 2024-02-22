@@ -245,6 +245,7 @@ accentuates
 accentuating
 accentuations
 accept
+acceptabilities
 acceptability
 acceptably
 acceptance
@@ -4380,6 +4381,7 @@ approbations
 appropriated
 appropriateness
 appropriation
+appropriators
 approvable
 approval
 approvals
@@ -4501,6 +4503,7 @@ arbitragers
 arbitrages
 arbitrageur
 arbitraging
+arbitrament
 arbitraments
 arbitrarily
 arbitrariness
@@ -5284,6 +5287,7 @@ assistant
 assistants
 assistantships
 assisters
+assisting
 assistor
 assistors
 assize
@@ -5436,6 +5440,7 @@ asynchronous
 asynchrony
 asyndetic
 asyndetically
+asyndetons
 at
 atabals
 atabrine
@@ -6178,6 +6183,7 @@ awash
 away
 awayness
 awaynesses
+awe
 aweather
 awed
 aweing
@@ -9632,6 +9638,7 @@ blighty
 blimpishly
 blimpishness
 blind
+blindage
 blinders
 blindest
 blindfolding
@@ -14663,6 +14670,7 @@ cess
 cessations
 cessed
 cesses
+cessing
 cession
 cesspits
 cesspool
@@ -14699,6 +14707,7 @@ chadors
 chadri
 chads
 chaebol
+chaebols
 chaeta
 chaetal
 chaetognaths
@@ -15121,6 +15130,7 @@ chazzens
 cheap
 cheapen
 cheapened
+cheapening
 cheapie
 cheapish
 cheapishly
@@ -19792,6 +19802,7 @@ coralroots
 corantos
 corban
 corbel
+corbeled
 corbeling
 corbelings
 corbelled
@@ -20118,6 +20129,7 @@ coruscations
 corvee
 corves
 corvette
+corvettes
 corvina
 cory
 corybant
@@ -35487,6 +35499,7 @@ fluctuating
 fluctuational
 fluctuations
 flued
+fluegelhorn
 fluegelhorns
 fluencies
 fluent
@@ -37362,6 +37375,7 @@ fustigation
 fustily
 fustiness
 fusty
+fusulinid
 fusulinids
 futharc
 futharcs
@@ -41029,6 +41043,7 @@ hacendados
 hachures
 hachuring
 hacienda
+haciendado
 hack
 hackable
 hackberries
@@ -41531,6 +41546,7 @@ hanselling
 hansom
 hansoms
 hant
+hantavirus
 hantaviruses
 hanted
 hanting
@@ -41691,6 +41707,7 @@ harls
 harm
 harmattan
 harmattans
+harmed
 harmer
 harmers
 harmfulnesses
@@ -47902,6 +47919,7 @@ interpersonal
 interpersonally
 interphalangeal
 interphase
+interphases
 interplanetary
 interplant
 interplanted
@@ -47997,6 +48015,7 @@ intersubjective
 interterminal
 intertextually
 intertidally
+intertie
 intertill
 intertillage
 intertillages
@@ -48110,6 +48129,7 @@ intoners
 intones
 intorted
 intorting
+intown
 intoxicant
 intoxicate
 intoxicates
@@ -57554,6 +57574,7 @@ miscaptions
 miscarriage
 miscarry
 miscarrying
+miscast
 miscasts
 miscegenation
 miscegenational
@@ -62141,6 +62162,7 @@ nonpractical
 nonpracticing
 nonpregnant
 nonproblems
+nonproducing
 nonprofessorial
 nonprofits
 nonprogram
@@ -67263,6 +67285,7 @@ paranormals
 paranymph
 parapeted
 paraphrasable
+paraphs
 paraphyses
 paraphysis
 paraplegia
@@ -69515,6 +69538,7 @@ photocomposer
 photocomposing
 photocopy
 photocurrent
+photocurrents
 photodetectors
 photodiodes
 photodissociate
@@ -71784,6 +71808,7 @@ porcino
 porcupine
 pored
 pores
+poriferan
 porism
 porisms
 porked
@@ -72025,6 +72050,7 @@ postischemic
 postisolation
 postlanding
 postliberation
+postliterate
 postlude
 postmark
 postmarked
@@ -76130,6 +76156,7 @@ radicalism
 radicalisms
 radicalizes
 radicalizing
+radically
 radicalnesses
 radicand
 radicands
@@ -79780,6 +79807,7 @@ reread
 rereading
 rereadings
 rereads
+rerebrace
 rerebraces
 rerecorded
 rerecording
@@ -83116,6 +83144,7 @@ sardonyxes
 sarees
 sargassos
 sargassum
+sarge
 sargo
 sargos
 sarins
@@ -83539,6 +83568,7 @@ scarifications
 scarified
 scarifiers
 scarify
+scarifying
 scariness
 scarinesses
 scarious
@@ -90466,6 +90496,7 @@ starship
 starships
 starters
 starting
+startled
 startlement
 startlements
 startler
@@ -91282,6 +91313,7 @@ stoves
 stow
 stowable
 stowage
+stowages
 stowaways
 stowing
 stowp
@@ -93989,6 +94021,7 @@ sylvinite
 sylvinites
 sylvite
 sylvites
+symbion
 symbiont
 symbionts
 symbiosis
@@ -94009,6 +94042,7 @@ symbolist
 symbolists
 symbolization
 symbolizations
+symbolize
 symbolized
 symbolizer
 symbolizers
@@ -97165,6 +97199,7 @@ tole
 tolerabilities
 tolerant
 tolerantly
+tolerate
 tolerated
 tolerating
 toleration
@@ -99017,6 +99052,7 @@ truing
 truism
 truistic
 trumeau
+trump
 trumped
 trumperies
 trumpery
@@ -101268,6 +101304,7 @@ unicorns
 unicycle
 unicycled
 unicycles
+unicycling
 unicyclist
 unicyclists
 unideaed
@@ -102007,6 +102044,7 @@ unshod
 unshorn
 unshowy
 unshrunk
+unshut
 unsicker
 unsifted
 unsight
@@ -107343,6 +107381,7 @@ yeuked
 yew
 yews
 yids
+yield
 yielded
 yikes
 yin
@@ -107580,6 +107619,7 @@ zemindar
 zemindaries
 zemindars
 zenaidas
+zenana
 zenith
 zeniths
 zeolites
