@@ -1895,6 +1895,7 @@ alcaldes
 alcayde
 alcazars
 alchemic
+alchemically
 alchemies
 alchemistic
 alchemistical
@@ -7848,6 +7849,7 @@ beeswax
 beeswaxes
 beet
 beetler
+beetlers
 beetles
 beetroots
 beeves
@@ -10456,6 +10458,7 @@ borehole
 boreholes
 borer
 borers
+bores
 borescopes
 boresome
 boric
@@ -11655,6 +11658,7 @@ buckets
 bucketsful
 buckeye
 buckeyes
+buckhound
 buckhounds
 bucking
 bucklered
@@ -15381,6 +15385,7 @@ chigoes
 chilblains
 child
 childbearing
+childbearings
 childbed
 childcare
 childcares
@@ -19055,6 +19060,7 @@ consigners
 consignments
 consignor
 consigns
+consist
 consisted
 consistence
 consistencies
@@ -19785,6 +19791,7 @@ cordately
 corded
 cordelled
 cordelling
+corder
 corders
 cordial
 cordialnesses
@@ -20301,6 +20308,7 @@ council
 councillor
 councillorship
 councillorships
+councilmanic
 councilors
 councils
 councilwomen
@@ -21474,6 +21482,7 @@ crupper
 cruppers
 crural
 crus
+crusade
 crusader
 crusaders
 crusades
@@ -25147,6 +25156,7 @@ diagnostician
 diagnosticians
 diagonal
 diagonalizable
+diagonalization
 diagonalize
 diagonalizes
 diagonals
@@ -26391,6 +26401,7 @@ disinfestant
 disinfestation
 disinfested
 disinfesting
+disinflation
 disinflationary
 disinflations
 disinformation
@@ -26526,6 +26537,7 @@ dispatched
 dispatchers
 dispatches
 dispatching
+dispeller
 dispellers
 dispels
 dispend
@@ -44255,6 +44267,7 @@ husbanding
 husbandly
 husbandman
 husbandries
+husbandry
 husbands
 hush
 hushaby
@@ -45070,6 +45083,7 @@ ignorami
 ignoramuses
 ignorantly
 ignorantness
+ignorantnesses
 ignored
 ignorers
 ignores
@@ -47985,6 +47999,7 @@ interwoven
 interzone
 intestacies
 intestacy
+intestates
 intestinally
 intestine
 intestines
@@ -48688,6 +48703,7 @@ isogamous
 isogamy
 isogeneic
 isoglossal
+isoglossic
 isogon
 isogones
 isogonies
@@ -49067,6 +49083,7 @@ jato
 jatos
 jauk
 jauking
+jauks
 jaunce
 jaunced
 jaunces
@@ -49998,6 +50015,7 @@ kegling
 keglings
 keir
 keiretsu
+keirs
 keitloa
 kelep
 kelim
@@ -51139,6 +51157,7 @@ lammergeiers
 lammergeyer
 lammergeyers
 lamp
+lampases
 lampblack
 lamperses
 lamping
@@ -54435,6 +54454,7 @@ making
 makings
 mako
 malabsorption
+malachite
 malachites
 malacologist
 malacologists
@@ -57971,6 +57991,7 @@ misspelled
 misspellings
 misspend
 misspending
+misspends
 misspent
 misspoke
 misspoken
@@ -63348,6 +63369,7 @@ oghamists
 oghams
 ogive
 ogle
+ogled
 ogler
 ogles
 ogling
@@ -65922,6 +65944,7 @@ overreacts
 overrefinements
 overregulated
 overregulates
+overregulation
 overreliance
 overreport
 overreported
@@ -66143,6 +66166,7 @@ overtnesses
 overtoiled
 overtone
 overtones
+overtook
 overtopped
 overtopping
 overtops
@@ -69663,6 +69687,7 @@ phytolith
 phytoliths
 phytology
 phytons
+phytopathogen
 phytopathogens
 phytopathology
 phytoplankter
@@ -75839,6 +75864,7 @@ quire
 quirked
 quirkier
 quirkiness
+quirkinesses
 quirkish
 quirks
 quirt
@@ -79368,6 +79394,7 @@ replaced
 replacement
 replacer
 replacers
+replanning
 replans
 replant
 replantation
@@ -80702,6 +80729,7 @@ revivalist
 revivalistic
 revivalists
 revivals
+revive
 revived
 revives
 revivifications
@@ -82513,6 +82541,7 @@ saintliness
 saints
 saintship
 saintships
+saith
 saithe
 sajou
 sajous
@@ -88698,6 +88727,7 @@ sorites
 sorn
 sorned
 sorners
+sorning
 sorns
 soroche
 soroches
@@ -90552,6 +90582,7 @@ stela
 stelae
 stelai
 stele
+stella
 stellar
 stellas
 stellate
@@ -95977,6 +96008,7 @@ thermions
 thermistor
 thermistors
 thermit
+thermite
 thermites
 thermochemical
 thermochemistry
@@ -96461,6 +96493,7 @@ thymi
 thymic
 thymidine
 thymidines
+thymier
 thymiest
 thymine
 thymines
@@ -98241,6 +98274,7 @@ trepanned
 trepanning
 trepans
 trephination
+trephines
 trephining
 trepid
 trepidation
@@ -105791,6 +105825,7 @@ whiter
 whites
 whitesmith
 whitest
+whitetails
 whitethroat
 whitethroats
 whitewall
