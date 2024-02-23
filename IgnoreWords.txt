@@ -665,6 +665,7 @@ actinomycosis
 actinon
 actinons
 action
+actionable
 actionably
 actioner
 actionless
@@ -3248,6 +3249,7 @@ animalic
 animalier
 animaliers
 animalism
+animalist
 animalistic
 animalists
 animalities
@@ -8475,6 +8477,7 @@ bespectacled
 bespouse
 bespouses
 bespread
+bespreading
 bespreads
 besprinkle
 besprinkled
@@ -15620,6 +15623,7 @@ chiru
 chirurgeon
 chiseler
 chiselled
+chiselling
 chital
 chitchats
 chitchatting
@@ -18392,6 +18396,7 @@ complins
 complot
 complotting
 comply
+compo
 component
 componential
 components
@@ -18464,6 +18469,7 @@ compunctions
 compunctious
 compurgations
 compurgator
+computation
 computational
 compute
 computed
@@ -24125,6 +24131,7 @@ demitted
 demiurgic
 demiurgical
 demivolte
+demivoltes
 demiworld
 demiworlds
 demob
@@ -25514,6 +25521,7 @@ dicliny
 dicot
 dicots
 dicotyledon
+dicotyledonous
 dicotyledons
 dicotyls
 dicoumarins
@@ -25985,6 +25993,7 @@ dipole
 dippable
 dipped
 dipper
+dipperfuls
 dippers
 dippier
 dippiness
@@ -27760,6 +27769,7 @@ doughnutlike
 doughnuts
 dought
 doughtier
+doughtiest
 doughtily
 doughtiness
 doughtinesses
@@ -37825,6 +37835,7 @@ gamashes
 gamay
 gamba
 gambade
+gambades
 gambado
 gambadoes
 gambas
@@ -44429,6 +44440,7 @@ hunched
 hunches
 hunching
 hundred
+hundredfold
 hundreds
 hundredweight
 hundredweights
@@ -44797,6 +44809,7 @@ hyperbolically
 hyperbolist
 hyperbolists
 hyperbolize
+hyperbolizes
 hyperbolizing
 hyperborean
 hyperboreans
@@ -50806,6 +50819,7 @@ kluging
 klutzes
 klutziest
 klutziness
+klutzinesses
 klutzy
 klystron
 klystrons
@@ -52688,6 +52702,7 @@ lie
 liebfraumilch
 lieder
 liefest
+lien
 lienable
 lienal
 liens
@@ -52746,6 +52761,7 @@ ligating
 ligations
 ligative
 ligatures
+liger
 ligers
 light
 lightbulbs
@@ -52948,6 +52964,7 @@ linearizes
 linearizing
 linebacker
 linebackers
+linebred
 linebreeding
 linebreedings
 linecaster
@@ -63034,6 +63051,7 @@ numismatist
 numismatists
 nummary
 nummular
+nummulite
 nummulites
 numskull
 numskulls
@@ -66737,6 +66755,7 @@ oxyhemoglobins
 oxyhydrogen
 oxymora
 oxymoronic
+oxymoronically
 oxymorons
 oxyphenbutazone
 oxyphiles
@@ -70372,6 +70391,7 @@ pilgrimaging
 pili
 piliform
 pilings
+pill
 pillage
 pillager
 pillagers
@@ -71074,6 +71094,7 @@ plausive
 play
 playa
 playable
+playacting
 playactings
 playactors
 playacts
@@ -72128,6 +72149,7 @@ porphyropsin
 porphyropsins
 porphyry
 porpoise
+porpoised
 porpoises
 porpoising
 porridge
@@ -74903,6 +74925,7 @@ prude
 prudence
 prudent
 prudential
+prudentially
 prudently
 prudes
 prudish
@@ -76684,6 +76707,7 @@ ralphing
 ralphs
 ram
 ramada
+ramblas
 rambled
 rambler
 rambling
@@ -78194,6 +78218,7 @@ redocked
 redocks
 redoes
 redoing
+redolence
 redolencies
 redolency
 redolent
@@ -81095,6 +81120,7 @@ reversional
 reversionary
 reversioner
 reversions
+reversos
 revert
 revertant
 revertants
@@ -84751,6 +84777,7 @@ seasonableness
 seasonalities
 seasonality
 seasonally
+seasoned
 seasoner
 seasonings
 seasonless
@@ -84901,6 +84928,7 @@ securitizations
 securitize
 securitized
 securitizes
+securitizing
 sedarim
 sedateness
 sedatenesses
@@ -86726,6 +86754,7 @@ shushes
 shut
 shutdowns
 shute
+shuted
 shuteye
 shuting
 shutoffs
@@ -87736,6 +87765,7 @@ slats
 slatted
 slattern
 slatternly
+slatterns
 slatting
 slaty
 slaughter
@@ -89424,6 +89454,7 @@ spadeworks
 spadille
 spadilles
 spading
+spadix
 spado
 spaed
 spaeings
@@ -91242,6 +91273,7 @@ stetting
 stevedores
 stevedoring
 stew
+stewable
 stewardess
 stewardesses
 stewbum
@@ -92862,6 +92894,7 @@ subvention
 subventionary
 subversion
 subversionary
+subversions
 subversive
 subverter
 subverters
@@ -95220,6 +95253,7 @@ tardyons
 tare
 tared
 tares
+targe
 target
 targetable
 targeting
@@ -100316,6 +100350,7 @@ ultrasharp
 ultraslick
 ultraslow
 ultrasmall
+ultrasmart
 ultrasmooth
 ultrasoft
 ultrasonics
