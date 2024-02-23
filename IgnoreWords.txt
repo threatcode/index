@@ -1061,6 +1061,7 @@ adumbrations
 adumbrative
 adunc
 aduncate
+aduncous
 adust
 advance
 advanced
@@ -9514,6 +9515,7 @@ blackwater
 blackwaters
 blackwood
 blackwoods
+bladder
 bladderlike
 bladdernut
 bladderworts
@@ -9561,6 +9563,7 @@ blaring
 blarneying
 blase
 blaspheme
+blasphemers
 blasphemies
 blasphemous
 blasphemy
@@ -10790,6 +10793,7 @@ bowdlerize
 bowdlerized
 bowdlerizer
 bowdlerizers
+bowdlerizes
 bowed
 bowel
 boweled
@@ -12907,6 +12911,7 @@ calumniation
 calumniations
 calumniator
 calumnious
+calumny
 calutrons
 calvados
 calvarial
@@ -13524,6 +13529,7 @@ caravansary
 caravanserais
 caravel
 caravelle
+caravelles
 caravels
 caraway
 caraways
@@ -14041,6 +14047,7 @@ castle
 castles
 castling
 castoff
+castoffs
 castor
 castoreum
 castors
@@ -16124,6 +16131,7 @@ churchmanships
 churchmen
 churchwardens
 churchwomen
+churchy
 churl
 churlishly
 churlishness
@@ -16779,6 +16787,7 @@ cliental
 clienteles
 clifflike
 cliffs
+clifts
 climacterics
 climactically
 climatal
@@ -20388,6 +20397,7 @@ costly
 costrel
 costrels
 costumer
+costumeries
 costumey
 costumier
 cosurfactants
@@ -23251,6 +23261,7 @@ decalogue
 decalogues
 decameter
 decameters
+decametric
 decamping
 decampment
 decampments
@@ -25899,6 +25910,7 @@ dimerization
 dimerizations
 dimerize
 dimerizes
+dimerizing
 dimerous
 dimers
 dimes
@@ -26392,6 +26404,7 @@ disconnections
 disconnects
 disconsolately
 disconsolation
+disconsolations
 discontent
 discontentedly
 discontentment
@@ -27037,6 +27050,7 @@ dissuasions
 dissuasive
 dissuasiveness
 dissyllables
+dissymmetric
 distaff
 distaffs
 distained
@@ -31293,6 +31307,7 @@ epigrapher
 epigraphical
 epigraphies
 epigraphists
+epigynies
 epigynous
 epigyny
 epilated
@@ -33210,6 +33225,7 @@ extractives
 extractor
 extractors
 extraditable
+extradite
 extradited
 extradition
 extrados
@@ -38190,6 +38206,7 @@ garrison
 garrisoned
 garrisoning
 garrisons
+garron
 garrons
 garroter
 garroters
@@ -38360,6 +38377,7 @@ gauzily
 gauzinesses
 gauzy
 gavages
+gaveled
 gavelled
 gavelling
 gavial
@@ -40215,6 +40233,7 @@ granites
 granitewares
 granitic
 granitoid
+granivorous
 granodiorites
 granola
 granolith
@@ -44957,6 +44976,7 @@ hyperacuity
 hyperacute
 hyperaesthesia
 hyperaesthetic
+hyperaggressive
 hyperalert
 hyperarid
 hyperarousal
@@ -45796,6 +45816,7 @@ immortalizes
 immortalizing
 immortally
 immortelle
+immotile
 immovabilities
 immovability
 immovable
@@ -50252,6 +50273,7 @@ kaiaks
 kaif
 kails
 kailyards
+kainites
 kainits
 kairomone
 kairomones
@@ -51724,6 +51746,7 @@ langostino
 langostinos
 langouste
 langoustes
+langoustine
 langrage
 langrages
 langrel
@@ -55141,6 +55164,7 @@ mammons
 mammoths
 mammy
 mamzer
+mamzers
 mana
 manacled
 manacling
@@ -65732,6 +65756,7 @@ outthrowing
 outthrown
 outthrust
 outthrusted
+outthrusting
 outtowering
 outtowers
 outtrades
@@ -70335,6 +70360,7 @@ phytotoxic
 phytotoxicities
 phytotoxicity
 phytotron
+pi
 pia
 piacular
 piaffe
@@ -74403,6 +74429,7 @@ prodigies
 prodromal
 prodromata
 prodrug
+prodrugs
 produced
 producer
 producers
@@ -75380,6 +75407,7 @@ psychotropics
 psychrometer
 psychrometers
 psychrometric
+psychrometries
 psylla
 psyllas
 psylliums
@@ -76731,6 +76759,7 @@ radiances
 radiancy
 radians
 radiant
+radiately
 radiation
 radiational
 radiative
@@ -83486,6 +83515,7 @@ samba
 sambaed
 sambaing
 sambal
+sambals
 sambar
 sambars
 sambhurs
@@ -93304,6 +93334,7 @@ sudary
 sudation
 sudatories
 sudatoriums
+sudd
 sudden
 suddenness
 suddennesses
@@ -93796,6 +93827,7 @@ superfund
 supergene
 supergenes
 supergiants
+superglue
 superglued
 superglues
 supergluing
@@ -94325,6 +94357,7 @@ susurrates
 susurrating
 susurration
 susurrations
+susurrus
 susurruses
 sutlers
 suttees
@@ -104436,6 +104469,7 @@ verisimilar
 verisimilarly
 verisimilitudes
 verism
+verismo
 verismos
 verisms
 verist
@@ -104760,6 +104794,7 @@ videos
 videotape
 videotaping
 videotexes
+videotext
 videotexts
 vidette
 videttes
