@@ -606,6 +606,7 @@ acrogens
 acrolect
 acrolein
 acroleins
+acrolith
 acroliths
 acromial
 acromion
@@ -1792,6 +1793,7 @@ airshows
 airsicknesses
 airspace
 airspaces
+airspeed
 airspeeds
 airstreams
 airstrip
@@ -9920,6 +9922,7 @@ bluesier
 bluesiest
 bluesman
 bluestem
+bluestocking
 bluestockings
 bluestone
 bluesy
@@ -13764,6 +13767,7 @@ carpetbaggers
 carpetbaggery
 carpetbags
 carpeted
+carpetweeds
 carpi
 carping
 carpingly
@@ -17780,6 +17784,7 @@ collision
 collisionally
 collocating
 collocation
+collocational
 collocations
 collodion
 collodions
@@ -22324,6 +22329,7 @@ cyder
 cyeses
 cygnet
 cygnets
+cylices
 cylinder
 cylindered
 cylindering
@@ -23247,6 +23253,7 @@ decibels
 decidabilities
 decidability
 decidedly
+decidedness
 decidednesses
 deciders
 decides
@@ -23260,6 +23267,7 @@ decigram
 decigrams
 decile
 deciles
+deciliters
 decilitre
 decilitres
 decillion
@@ -25959,6 +25967,7 @@ dipodic
 dipodies
 dipody
 dipolar
+dipole
 dippable
 dipped
 dipper
@@ -26541,6 +26550,7 @@ disinterest
 disinterested
 disinterestedly
 disinterment
+disinterments
 disintoxicated
 disintoxicates
 disintoxicating
@@ -26639,6 +26649,7 @@ disparagement
 disparagements
 disparager
 disparagers
+disparaging
 disparagingly
 disparately
 disparateness
@@ -27383,6 +27394,7 @@ dogwoods
 doiled
 doily
 doing
+doings
 doit
 doited
 dojos
@@ -29306,6 +29318,7 @@ eggheadedness
 eggheadednesses
 egging
 eggless
+eggnog
 eggnogs
 eggplants
 eggshell
@@ -29700,6 +29713,7 @@ elutriated
 elutriates
 elutriating
 elutriation
+elutriations
 elutriators
 eluvia
 eluvial
@@ -35308,6 +35322,7 @@ fleeter
 fleeting
 fleetingly
 fleetly
+flehmen
 flehmened
 flehmens
 fleishig
@@ -38760,6 +38775,7 @@ giddily
 giddinesses
 giddyap
 giddying
+giddyup
 gie
 gied
 gieing
@@ -45897,6 +45913,7 @@ impoverishment
 impoverishments
 impower
 impowering
+impracticable
 impracticably
 impractical
 impracticality
@@ -53554,6 +53571,7 @@ lollipop
 lollipops
 lollop
 lolloped
+lolloping
 lollops
 lollopy
 lolls
@@ -55041,6 +55059,7 @@ manitu
 manitus
 manless
 manlier
+manlikely
 manlily
 manliness
 manlinesses
@@ -56314,6 +56333,7 @@ mentioning
 mentions
 mentor
 mentoring
+mentors
 mentorship
 mentum
 menu
@@ -60598,6 +60618,7 @@ nationalization
 nationalize
 nationalized
 nationalizer
+nationalizes
 nationals
 nationhood
 nationhoods
@@ -62210,6 +62231,7 @@ nonlives
 nonliving
 nonlocals
 nonloving
+nonloyal
 nonlyric
 nonmagnetic
 nonmainstream
@@ -63537,6 +63559,7 @@ odontoid
 odontoids
 odor
 odorant
+odored
 odorful
 odoriferously
 odoriferousness
@@ -64925,6 +64948,7 @@ outfigured
 outfinding
 outfire
 outfires
+outfiring
 outfish
 outfished
 outfit
@@ -65970,6 +65994,7 @@ overheads
 overheaped
 overheaping
 overheaps
+overheat
 overheated
 overheating
 overheats
@@ -69561,6 +69586,7 @@ philandered
 philanderers
 philandering
 philanthropies
+philanthropist
 philanthropoids
 philanthropy
 philatelic
@@ -70535,6 +70561,7 @@ piperazines
 piperidine
 piperines
 piperonals
+pipes
 pipestem
 pipestems
 pipestone
@@ -75128,6 +75155,7 @@ puerperium
 puff
 puffed
 puffers
+puffery
 puffier
 puffiest
 puffily
@@ -77264,6 +77292,7 @@ reasserted
 reasserting
 reassertion
 reasserts
+reassess
 reassessed
 reassesses
 reassessment
@@ -84510,6 +84539,7 @@ scumbled
 scumbles
 scumless
 scumlike
+scummers
 scumming
 scums
 scungilli
@@ -85502,6 +85532,7 @@ serialism
 serialisms
 serialist
 serialize
+serialized
 serializing
 serially
 seriate
@@ -89997,6 +90028,7 @@ splices
 splicing
 spliffs
 spline
+splined
 splines
 splinted
 splintering
@@ -92760,6 +92792,7 @@ suburbanization
 suburbanized
 suburbanizes
 suburbanizing
+suburbans
 suburbed
 suburbia
 suburbias
@@ -94325,6 +94358,7 @@ symbolizer
 symbolizers
 symbolizes
 symbolizing
+symbolled
 symbology
 symbols
 symmetallism
@@ -104505,6 +104539,7 @@ virtuous
 virtuously
 virtuousness
 virucides
+virulencies
 virulent
 virulently
 viruliferous
