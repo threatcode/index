@@ -1460,6 +1460,7 @@ afterworlds
 aftosa
 aftosas
 ag
+aga
 against
 agalloch
 agallochs
@@ -2368,6 +2369,7 @@ alpaca
 alpacas
 alpenglow
 alpenhorns
+alpenstock
 alpha
 alphabet
 alphabeted
@@ -2482,6 +2484,7 @@ amantadines
 amanuensis
 amaranth
 amaranthine
+amaranths
 amarelle
 amarelles
 amaretto
@@ -3615,6 +3618,7 @@ antibioses
 antibiotic
 antiblackism
 antiblackisms
+antibodies
 antibody
 antiboss
 antibourgeois
@@ -5361,6 +5365,7 @@ assistor
 assistors
 assize
 asslike
+associate
 associated
 associateship
 associateships
@@ -6007,6 +6012,7 @@ autoimmunities
 autoinfection
 autoinfections
 autoing
+autoloading
 autologous
 autolysate
 autolysates
@@ -8425,6 +8431,7 @@ berascals
 berate
 berated
 berates
+berating
 berberin
 berberine
 berberins
@@ -14685,6 +14692,7 @@ centerlines
 centerpiece
 centerpieces
 centers
+centeses
 centesimo
 centesimos
 centiare
@@ -19977,6 +19985,7 @@ copper
 copperas
 copperases
 coppered
+copperplate
 copperplates
 coppers
 coppersmith
@@ -21133,6 +21142,7 @@ cragginess
 cragginesses
 crags
 cragsmen
+crambe
 crambo
 cramboes
 crambos
@@ -23831,6 +23841,7 @@ defaces
 defacing
 defalcate
 defalcated
+defalcates
 defalcating
 defalcator
 defamation
@@ -26109,6 +26120,7 @@ dimidiating
 diminishable
 diminished
 diminishing
+diminishment
 diminishments
 diminuendo
 diminuendos
@@ -27202,6 +27214,7 @@ dissimilarity
 dissimilarly
 dissimilars
 dissimilating
+dissimilation
 dissimilations
 dissimilatory
 dissimilitude
@@ -35662,6 +35675,7 @@ flatulently
 flatus
 flatuses
 flatware
+flatwares
 flatwash
 flatwashes
 flatways
@@ -37131,6 +37145,7 @@ frankincense
 franking
 franklin
 franklinite
+franklinites
 frankly
 frankness
 franknesses
@@ -42978,6 +42993,7 @@ heirdoms
 heiress
 heiresses
 heirless
+heirloom
 heirlooms
 heirs
 heirship
@@ -44848,6 +44864,7 @@ hugeously
 huggable
 hugged
 huggers
+hugs
 huipil
 huisaches
 hulas
@@ -50597,6 +50614,7 @@ juror
 jurors
 jurying
 jus
+just
 juster
 justers
 justice
@@ -54547,6 +54565,7 @@ lovelornnesses
 lovemaker
 lovemakings
 loverly
+loves
 loveseat
 loveseats
 lovesick
@@ -54596,6 +54615,7 @@ lowlinesses
 lowlives
 lowly
 lown
+lowness
 lownesses
 lowrider
 lowriders
@@ -57661,6 +57681,7 @@ microchips
 microcircuit
 microcircuitry
 microclimate
+microclimates
 microclimatic
 microcline
 microclines
@@ -62941,6 +62962,7 @@ nonideal
 nonillion
 nonillions
 nonimage
+nonimages
 nonimitative
 nonimmigrant
 nonimmigrants
@@ -63754,6 +63776,7 @@ nulled
 nullifications
 nullifier
 nullifies
+nullify
 nulling
 nullipara
 nulliparae
@@ -64580,6 +64603,7 @@ oleines
 oleins
 oleo
 oleographs
+oleomargarine
 oleomargarines
 oleoresin
 oleoresinous
@@ -65838,6 +65862,7 @@ outgoings
 outgone
 outgrew
 outgrins
+outgrossing
 outgroup
 outgrow
 outgrowing
@@ -67781,6 +67806,7 @@ paintbrushes
 painted
 painter
 painterlinesses
+painterly
 painters
 paintworks
 pair
@@ -73962,6 +73988,7 @@ prefabricated
 prefabricates
 prefabrication
 prefabrications
+preface
 prefaced
 prefacer
 prefacers
@@ -77649,6 +77676,7 @@ rambla
 ramblas
 rambled
 rambler
+rambles
 rambling
 rambouillet
 rambouillets
@@ -82856,6 +82884,7 @@ riverboats
 riverfront
 riverhead
 riverheads
+rivers
 riversides
 riverweed
 riveted
@@ -87784,6 +87813,7 @@ shrunken
 shtetel
 shtetels
 shtetl
+shtetlach
 shtick
 shtickier
 shtickiest
@@ -92222,6 +92252,7 @@ stemmatic
 stemmeries
 stemmers
 stemmery
+stemmiest
 stemming
 stemmy
 stems
@@ -94778,6 +94809,7 @@ superscout
 superscouts
 superscribe
 superscribing
+superscription
 superscriptions
 supersecrecies
 supersecret
@@ -96671,6 +96703,7 @@ tearer
 tearers
 tearfulness
 teargas
+teargassed
 teargasses
 teargassing
 tearier
@@ -104708,6 +104741,7 @@ vaginally
 vaginated
 vaginitis
 vaginitises
+vaginosis
 vagotomies
 vagotomy
 vagotonia
@@ -107022,6 +107056,7 @@ wavies
 waviest
 wavily
 waw
+wawled
 wawling
 wawls
 waws
