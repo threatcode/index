@@ -2232,6 +2232,7 @@ allobars
 allocable
 allocated
 allocates
+allocations
 allocator
 allocators
 allocution
@@ -5645,6 +5646,7 @@ attaches
 attachment
 attachments
 attack
+attacked
 attacker
 attackers
 attacking
@@ -8977,6 +8979,7 @@ bikeways
 bikie
 biking
 bikini
+bilabials
 bilander
 bilanders
 bilateral
@@ -9090,6 +9093,7 @@ bin
 binaries
 binarism
 binarisms
+binary
 binate
 binational
 binaurally
@@ -11978,6 +11982,7 @@ bulbous
 bulbs
 bulbul
 bulbuls
+bulgers
 bulges
 bulghurs
 bulgier
@@ -12079,6 +12084,7 @@ bumfuzzle
 bumfuzzling
 bumkins
 bummalo
+bummed
 bummer
 bummers
 bummest
@@ -17749,6 +17755,7 @@ cohesivenesses
 cohobate
 cohobated
 cohobates
+cohog
 coholder
 coholders
 cohomological
@@ -22987,6 +22994,7 @@ dangerous
 dangerousnesses
 danging
 dangle
+dangled
 danglers
 dangling
 dangly
@@ -25992,6 +26000,7 @@ dighting
 dights
 digital
 digitalis
+digitalises
 digitalization
 digitalizations
 digitalize
@@ -28122,6 +28131,7 @@ douzeper
 douzepers
 dove
 dovecot
+dovecote
 dovecotes
 dovekey
 dovekie
@@ -32362,6 +32372,7 @@ eudaemons
 eudaimon
 eudaimonism
 eudaimonisms
+eudemon
 eudemonia
 eudemons
 eudiometer
@@ -45510,6 +45521,7 @@ hyperthermia
 hyperthyroid
 hyperthyroidism
 hypertonias
+hypertonic
 hypertonicity
 hypertrophic
 hypertrophied
@@ -46909,6 +46921,7 @@ inclusiveness
 inclusivenesses
 incog
 incogitant
+incognita
 incognitas
 incognizances
 incogs
@@ -47324,6 +47337,7 @@ indorser
 indorsers
 indorses
 indorsors
+indow
 indowed
 indowing
 indows
@@ -50504,6 +50518,7 @@ jugheads
 jugsful
 jugula
 jugular
+jugulars
 jugulates
 jugulating
 jugulum
@@ -50613,6 +50628,7 @@ jurists
 juror
 jurors
 jurying
+juryless
 jus
 just
 juster
@@ -50954,6 +50970,7 @@ kenotrons
 kenspeckle
 kent
 kente
+kentes
 kentledges
 kephalins
 kepped
@@ -53650,6 +53667,7 @@ lingeries
 lingering
 lingeringly
 lingier
+lingiest
 lingo
 lings
 lingua
@@ -55398,6 +55416,7 @@ maisonettes
 maist
 maizes
 majagua
+majaguas
 majestic
 majestically
 major
@@ -59763,6 +59782,7 @@ monorhymes
 monosaccharide
 monosome
 monosomes
+monosomies
 monospecific
 monospecificity
 monosteles
@@ -60683,6 +60703,7 @@ multitowered
 multitudinous
 multitudinously
 multiunion
+multiunit
 multiuse
 multiuser
 multivalence
@@ -61033,6 +61054,7 @@ myeloblast
 myeloblastic
 myelocyte
 myelocytes
+myelofibroses
 myelofibrotic
 myelogram
 myelograms
@@ -62869,6 +62891,7 @@ nonet
 nonetheless
 nonethical
 nonethnics
+nonets
 nonevaluative
 nonevent
 nonevidences
@@ -66444,6 +66467,7 @@ overalert
 overambitious
 overamplified
 overanalyses
+overanalytical
 overanalyze
 overanalyzes
 overanalyzing
@@ -69403,6 +69427,7 @@ pegged
 pegless
 peglike
 pegmatite
+pegs
 pehs
 peignoir
 peignoirs
@@ -69583,6 +69608,7 @@ pensioning
 pensions
 pensive
 pensiveness
+pensivenesses
 penstemons
 penster
 pensters
@@ -72584,6 +72610,7 @@ politicized
 politicizes
 politick
 politicked
+politicker
 politickers
 politicks
 politicly
@@ -74213,6 +74240,7 @@ premolars
 premold
 premolded
 premolds
+premonishing
 premonition
 premonitorily
 premoral
@@ -80026,6 +80054,7 @@ reinform
 reinformed
 reinforms
 reinfused
+reinfuses
 reinfusing
 reinhabited
 reinhabits
@@ -91536,6 +91565,7 @@ sprug
 sprugs
 sprung
 spry
+spryly
 sprynesses
 spudded
 spudders
@@ -91919,6 +91949,7 @@ stanchion
 stanchly
 stand
 standard
+standardbred
 standardise
 standardised
 standardized
@@ -98763,6 +98794,7 @@ toga
 togae
 togaed
 togas
+togate
 togaviruses
 together
 togethernesses
@@ -104365,6 +104397,7 @@ upstandingness
 upstands
 upstares
 upstart
+upstarted
 upstarting
 upstarts
 upstaters
@@ -107257,6 +107290,7 @@ weensier
 weensiest
 weep
 weepers
+weepie
 weepier
 weepies
 weepiest
@@ -109121,6 +109155,7 @@ yellowhammer
 yellowing
 yellowish
 yellowlegs
+yellowly
 yellowtail
 yellowtails
 yellowthroats
