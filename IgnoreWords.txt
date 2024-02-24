@@ -2184,6 +2184,7 @@ allelomorphism
 allelomorphisms
 allelopathic
 allelopathies
+allelopathy
 alleluia
 alleluias
 allemande
@@ -6112,6 +6113,7 @@ ava
 avadavat
 avail
 availability
+available
 availableness
 availablenesses
 availed
@@ -13936,6 +13938,7 @@ carrs
 carry
 carryback
 carrybacks
+carryforward
 carrying
 carryon
 carryons
@@ -14367,6 +14370,7 @@ caudations
 caudices
 caudillo
 caudillos
+caul
 cauld
 cauldron
 cauldrons
@@ -16019,6 +16023,7 @@ christens
 christiania
 christianias
 christy
+chromaffin
 chromas
 chromates
 chromatic
@@ -17350,6 +17355,7 @@ cochairperson
 cochairpersons
 cochairwoman
 cochampion
+cochineal
 cochlea
 cochleae
 cochleas
@@ -24534,6 +24540,7 @@ densenesses
 densest
 densification
 densified
+densify
 densifying
 densitometers
 densitometries
@@ -25843,6 +25850,7 @@ diets
 dif
 diff
 differ
+differed
 difference
 differenced
 different
@@ -25896,6 +25904,7 @@ dig
 digammas
 digamous
 digamy
+digastric
 digastrics
 digeneses
 digested
@@ -28250,6 +28259,7 @@ dramatisation
 dramatised
 dramatises
 dramatising
+dramatist
 dramatists
 dramatizable
 dramatization
@@ -32431,6 +32441,7 @@ evaginated
 evaginating
 evagination
 evaluable
+evaluate
 evaluated
 evaluates
 evaluating
@@ -34434,6 +34445,7 @@ felony
 felsic
 felsite
 felsites
+felsitic
 felstone
 felstones
 felt
@@ -34446,6 +34458,7 @@ femalenesses
 feminacy
 feminazi
 feminazis
+feminie
 feminine
 femininely
 feminineness
@@ -38316,6 +38329,7 @@ gap
 gape
 gaped
 gaper
+gapers
 gapes
 gapeseed
 gapeseeds
@@ -39380,6 +39394,7 @@ glaciologies
 glaciology
 glacis
 gladden
+gladdeners
 gladdening
 gladdens
 gladder
@@ -39886,6 +39901,7 @@ goannas
 goas
 goat
 goatee
+goatees
 goatfish
 goatfishes
 goatishly
@@ -41065,6 +41081,7 @@ grubstakers
 grubstakes
 grubworm
 grubworms
+grudge
 grudged
 grudges
 gruel
@@ -42290,6 +42307,7 @@ harmoniousness
 harmonise
 harmonised
 harmonising
+harmonizations
 harmonized
 harmonizer
 harmonizers
@@ -43493,6 +43511,7 @@ hickey
 hickeys
 hickie
 hickish
+hickories
 hickory
 hidable
 hidalgo
@@ -46126,6 +46145,7 @@ impacts
 impaint
 impainted
 impainting
+impaints
 impair
 impairer
 impairers
@@ -46900,6 +46920,7 @@ incredulities
 incredulity
 increment
 incrementalism
+incrementalisms
 incrementalist
 incrementally
 increments
@@ -60793,6 +60814,7 @@ mutular
 mutule
 muzhik
 muzjik
+muzzier
 muzzler
 muzzlers
 muzzles
@@ -66678,6 +66700,7 @@ overidentifying
 overimaginative
 overimpress
 overimpressing
+overindulged
 overindulgences
 overindulgent
 overinflate
@@ -68170,6 +68193,7 @@ parametrized
 parametrizes
 parametrizing
 paramilitary
+paramnesia
 paramnesias
 paramo
 paramorph
@@ -71296,6 +71320,7 @@ pipinesses
 pipistrel
 pipit
 pipits
+pipkin
 pipped
 pippin
 pipping
@@ -73788,6 +73813,7 @@ prefigures
 prefile
 prefiled
 prefilled
+prefinanced
 prefinances
 prefinancing
 prefire
@@ -79708,6 +79734,7 @@ reignited
 reigniting
 reignition
 reigns
+reimage
 reimaged
 reimages
 reimagines
@@ -86337,6 +86364,7 @@ septuplets
 septupling
 sepulcher
 sepulchering
+sepulchers
 sepulchrally
 sepulchre
 sepulchred
@@ -86813,6 +86841,7 @@ shammos
 shammosim
 shamosim
 shampoo
+shampooer
 shampooing
 shamus
 shamuses
@@ -89799,6 +89828,7 @@ soliloquized
 soliloquizers
 solion
 solions
+solipsist
 solipsistic
 soliquid
 solitaire
@@ -96655,6 +96685,7 @@ telephonists
 telephony
 telephotography
 telephotos
+teleplay
 teleport
 teleportation
 teleported
@@ -97983,6 +98014,7 @@ thyrotrophins
 thyrotropic
 thyrotropin
 thyroxins
+thyrse
 thyrses
 thyrsi
 thyrsus
@@ -101239,6 +101271,7 @@ ultraconvenient
 ultracool
 ultracritical
 ultradense
+ultradistant
 ultradry
 ultraenergetic
 ultraexclusive
@@ -105721,6 +105754,7 @@ vitalness
 vitamer
 vitamin
 vitamine
+vitamines
 vitaminic
 vitamins
 vitelline
@@ -106488,6 +106522,7 @@ warragal
 warragals
 warrant
 warrantableness
+warranted
 warrantee
 warrantees
 warranter
