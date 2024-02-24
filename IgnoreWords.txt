@@ -394,6 +394,7 @@ accusations
 accusative
 accusatives
 accuse
+accusers
 accuses
 accusing
 accusingly
@@ -615,6 +616,7 @@ acroliths
 acromial
 acromion
 acronical
+acronym
 acronymic
 acronyms
 acropetal
@@ -704,6 +706,7 @@ actuate
 actuated
 actuates
 actuating
+actuations
 actuators
 acuities
 aculeate
@@ -2737,6 +2740,7 @@ amorettos
 amorini
 amorino
 amoroso
+amorously
 amorousness
 amorousnesses
 amorphisms
@@ -10373,6 +10377,7 @@ bone
 boneblack
 boneblacks
 boned
+bonefish
 bonehead
 boneheaded
 boneheads
@@ -15090,6 +15095,7 @@ chapeaus
 chapels
 chaperon
 chaperonage
+chaperonages
 chaperone
 chaperons
 chapes
@@ -18609,6 +18615,7 @@ compulsive
 compulsiveness
 compulsivities
 compulsorily
+compunction
 compunctions
 compunctious
 compurgations
@@ -21523,6 +21530,7 @@ croc
 crocein
 croceines
 croceins
+crocheter
 crocheting
 croci
 crocidolite
@@ -21559,6 +21567,7 @@ crooker
 crookery
 crookest
 crooking
+crookneck
 crooks
 crooners
 crooning
@@ -21643,6 +21652,7 @@ crotch
 crotched
 crotchet
 crotchets
+crotonbug
 crotons
 crouched
 crouches
@@ -24241,6 +24251,7 @@ delustered
 delustering
 delusters
 deluxe
+delve
 delves
 delving
 demagnetization
@@ -28760,6 +28771,7 @@ dumbfoundered
 dumbfoundering
 dumbfounders
 dumbfounding
+dumbheads
 dumbing
 dumbly
 dumbnesses
@@ -33465,6 +33477,7 @@ exulted
 exulting
 exurban
 exurbanite
+exurbanites
 exurbia
 exurbias
 exuvia
@@ -34794,6 +34807,7 @@ fictionized
 fictionizes
 fictionizing
 fictitiously
+fictitiousness
 fictive
 fictively
 fictiveness
@@ -36570,6 +36584,7 @@ foreskin
 foreskins
 forespeak
 forespeaking
+forespoken
 forest
 forestages
 forestal
@@ -43196,6 +43211,7 @@ hereditarian
 hereditarily
 hereditary
 heredities
+heredity
 herein
 hereinabove
 hereinbefore
@@ -51678,6 +51694,7 @@ laconically
 lacquer
 lacquerer
 lacquerers
+lacquerwork
 lacquerworks
 lacquey
 lacrimal
@@ -55604,6 +55621,7 @@ mannites
 mannitic
 mannitol
 mannoses
+manoeuvre
 manoeuvred
 manoeuvres
 manometric
@@ -57235,6 +57253,7 @@ metatarsus
 metate
 metatheses
 metathetic
+metathetical
 metathetically
 metathoraces
 metathoracic
@@ -57463,6 +57482,7 @@ microcephalies
 microcephaly
 microchips
 microcircuit
+microcircuitry
 microclimate
 microclimatic
 microcline
@@ -61825,6 +61845,7 @@ newscasts
 newsdealer
 newsgirls
 newsgroup
+newsgroups
 newshawk
 newshawks
 newshound
@@ -63268,6 +63289,7 @@ northwest
 northwester
 northwesterly
 northwestern
+northwesters
 northwests
 nose
 nosebag
@@ -67457,6 +67479,7 @@ padlocked
 padlocking
 padnag
 padnags
+padres
 padrone
 padroni
 padronism
@@ -68690,6 +68713,7 @@ patio
 patios
 patisserie
 patisseries
+patissier
 patnesses
 patois
 patresfamilias
@@ -70132,6 +70156,7 @@ pharmacological
 pharmacologies
 pharmacologist
 pharmacopeia
+pharmacopoeia
 pharmacopoeial
 pharmacopoeias
 pharmacy
@@ -80339,6 +80364,7 @@ reobjected
 reobjects
 reobserve
 reobserves
+reobtain
 reobtained
 reobtaining
 reobtains
@@ -82980,6 +83006,7 @@ rottenness
 rottenstone
 rotter
 rotters
+rottes
 rotting
 rottweiler
 rottweilers
@@ -83515,6 +83542,7 @@ saccharin
 saccharine
 saccharinities
 saccharinity
+saccharins
 saccharometer
 saccharometers
 saccharomyces
@@ -83547,6 +83575,7 @@ sacques
 sacral
 sacralize
 sacralized
+sacrals
 sacrament
 sacramentalist
 sacramentalists
@@ -86253,6 +86282,7 @@ sepulcher
 sepulchering
 sepulchrally
 sepulchre
+sepulchred
 sepulchres
 sepulchring
 sepulture
@@ -87916,6 +87946,7 @@ simplistic
 simplistically
 simply
 simps
+simulacra
 simulacre
 simulacrums
 simulant
@@ -88321,6 +88352,7 @@ skiplanes
 skipped
 skipper
 skippet
+skipping
 skirl
 skirled
 skirling
@@ -88534,6 +88566,7 @@ slavish
 slavishly
 slavishnesses
 slavocracies
+slavocrat
 slavocrats
 slaw
 slaws
@@ -90742,6 +90775,7 @@ spinny
 spinoffs
 spinor
 spinors
+spinose
 spinosely
 spinosity
 spinster
@@ -101150,6 +101184,7 @@ ultrafine
 ultraglamorous
 ultrahazardous
 ultraheating
+ultraheats
 ultraheavy
 ultrahuman
 ultraism
