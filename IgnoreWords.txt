@@ -366,6 +366,7 @@ accretes
 accretionary
 accretions
 accretive
+accrual
 accrued
 accruement
 accruements
@@ -1560,6 +1561,7 @@ aggrandizes
 aggravate
 aggravated
 aggravates
+aggravating
 aggravation
 aggravations
 aggregate
@@ -1882,6 +1884,7 @@ alanine
 alanins
 alants
 alanyls
+alar
 alarm
 alarmable
 alarmedly
@@ -3396,6 +3399,7 @@ announcers
 announces
 annoyance
 annoyances
+annoyer
 annoyers
 annoyingly
 annoys
@@ -14463,6 +14467,7 @@ caustically
 causticity
 cauterant
 cauterants
+cauteries
 cauterizations
 cauterize
 cauterizes
@@ -25714,6 +25719,7 @@ diamonding
 diamonds
 diandrous
 diapason
+diapasons
 diapaused
 diapauses
 diapausing
@@ -30168,6 +30174,7 @@ emaciations
 emailed
 emalangeni
 emanant
+emanate
 emanated
 emanation
 emanations
@@ -31341,6 +31348,7 @@ entombment
 entombs
 entomofauna
 entomofaunas
+entomologies
 entomologist
 entomologists
 entomophagous
@@ -41831,6 +41839,7 @@ hackmatack
 hackmatacks
 hackmen
 hackney
+hacksaw
 hacksawed
 hackwork
 hackworks
@@ -45805,6 +45814,7 @@ ichneumons
 ichnite
 ichnolites
 ichor
+ichorous
 ichors
 ichs
 ichthyic
@@ -48858,6 +48868,7 @@ interred
 interregna
 interregnum
 interregnums
+interrelated
 interrelatedly
 interrelates
 interrelating
@@ -49747,6 +49758,7 @@ isophotes
 isopleth
 isoplethic
 isoprenaline
+isoprenalines
 isoprene
 isopycnic
 isosceles
@@ -50794,6 +50806,7 @@ kafirs
 kaftan
 kaftans
 kahunas
+kaiak
 kaiaks
 kaif
 kails
@@ -51241,6 +51254,7 @@ kibosh
 kiboshed
 kiboshing
 kick
+kickable
 kickback
 kickball
 kickballs
@@ -57099,6 +57113,7 @@ memoriter
 memorization
 memorizations
 memorize
+memorizer
 memorizers
 memorizes
 memory
@@ -57801,6 +57816,7 @@ microcephaly
 microchips
 microcircuit
 microcircuitry
+microcircuits
 microclimate
 microclimates
 microclimatic
@@ -60004,6 +60020,7 @@ moonlighter
 moonlighters
 moonlighting
 moonlights
+moonlit
 moonports
 moonquakes
 moonrise
@@ -63140,6 +63157,7 @@ nonintoxicants
 nonintrusive
 noninvasive
 noninvolved
+noninvolvement
 noninvolvements
 nonionic
 noniron
@@ -63200,6 +63218,7 @@ nonmathematical
 nonmature
 nonmeasurable
 nonmechanical
+nonmedical
 nonmember
 nonmemberships
 nonmental
@@ -70019,6 +70038,7 @@ perichondral
 perichondria
 pericopal
 pericranial
+pericycle
 pericyclic
 periderm
 peridium
@@ -74447,6 +74467,7 @@ preplanning
 preplans
 preplant
 preponderance
+preponderances
 preponderancies
 preponderant
 preponderantly
@@ -75904,6 +75925,7 @@ protostelic
 protostomes
 prototroph
 prototrophic
+prototrophies
 prototrophs
 prototypal
 prototype
@@ -83203,6 +83225,7 @@ roentgenograms
 roentgenologic
 roentgenologies
 roentgenology
+roentgens
 roes
 rogation
 rogations
@@ -85188,6 +85211,7 @@ scattergoods
 scattergrams
 scattering
 scatteringly
+scatterings
 scatters
 scattiest
 scatts
@@ -88006,6 +88030,7 @@ shuffleboards
 shuffled
 shuffles
 shuffling
+shul
 shuls
 shun
 shunnable
@@ -88286,6 +88311,7 @@ signposts
 signs
 sika
 siker
+silages
 silane
 silanes
 sild
@@ -88941,6 +88967,7 @@ skylight
 skylighted
 skylights
 skyline
+skyman
 skymen
 skyphoi
 skyphos
@@ -89908,6 +89935,7 @@ snowmobile
 snowmobiler
 snowmobiles
 snowmobiling
+snowmobilings
 snowmobilist
 snowmold
 snowpacks
@@ -90151,6 +90179,7 @@ solanine
 solanines
 solanins
 solano
+solanums
 solarise
 solarising
 solarism
@@ -92698,6 +92727,7 @@ stilettoes
 stilettoing
 still
 stillbirth
+stillborn
 stillborns
 stilled
 stilliest
@@ -93329,6 +93359,7 @@ stringless
 stringpiece
 stringybark
 stringybarks
+strip
 stripe
 striped
 stripeless
@@ -99314,6 +99345,7 @@ torchon
 torchons
 torchwoods
 torchy
+tore
 toreador
 toreadors
 tores
@@ -99736,6 +99768,7 @@ trainbearers
 trainee
 trainees
 traineeship
+trainer
 trainers
 training
 trainings
@@ -103492,6 +103525,7 @@ unmerited
 unmerry
 unmesh
 unmeshes
+unmet
 unmewed
 unmilitary
 unmilled
@@ -108466,6 +108500,7 @@ witchier
 witchiest
 witching
 witchings
+witchweed
 witchweeds
 witchy
 wited
