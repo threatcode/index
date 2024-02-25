@@ -281,6 +281,7 @@ accessorises
 accessorising
 accessorizes
 accessorizing
+accidence
 accident
 accidental
 accidently
@@ -7097,6 +7098,7 @@ bannerols
 banners
 bannister
 bannisters
+bannock
 banquet
 banqueted
 banqueter
@@ -17745,6 +17747,7 @@ cofounds
 coft
 cofunctions
 cog
+cogeneration
 cogenerations
 cogent
 cogently
@@ -17837,6 +17840,7 @@ coifs
 coign
 coigne
 coigned
+coignes
 coigns
 coil
 coilabilities
@@ -23007,6 +23011,7 @@ damning
 damningly
 damns
 damosel
+damozel
 damp
 damped
 dampen
@@ -30306,6 +30311,7 @@ emblem
 emblematic
 emblematical
 emblematically
+emblematized
 emblematizing
 emblemed
 emblements
@@ -41535,6 +41541,7 @@ guiltlessness
 guiltlessnesses
 guilts
 guimpe
+guimpes
 guinea
 guineas
 guipure
@@ -41922,6 +41929,7 @@ hadrosaur
 hadst
 haecceity
 haed
+haem
 haematal
 haematics
 haematin
@@ -44643,6 +44651,7 @@ hoovered
 hoovers
 hope
 hopeful
+hopefully
 hopefulness
 hopefuls
 hopeless
@@ -53566,6 +53575,7 @@ liens
 lienteries
 lientery
 lierne
+lieus
 lieutenancies
 lieutenancy
 lieve
@@ -53660,6 +53670,7 @@ lignifications
 lignify
 lignifying
 lignocellulose
+lignocelluloses
 lignocellulosic
 lignosulfonate
 ligroin
@@ -55663,6 +55674,7 @@ malacologists
 malacology
 malacostracan
 malacostracans
+maladaptation
 maladaptations
 maladapted
 maladaptive
@@ -56100,6 +56112,7 @@ manward
 manwards
 manwise
 many
+manyfold
 manyplies
 manzanita
 manzanitas
@@ -58153,6 +58166,7 @@ midnightly
 midnoons
 midpoint
 midrange
+midranges
 midrashic
 midrashot
 midrashoth
@@ -58852,6 +58866,7 @@ misdate
 misdates
 misdeal
 misdealer
+misdealing
 misdeals
 misdeed
 misdeemed
@@ -62676,6 +62691,7 @@ nocking
 nocks
 noctambulist
 noctambulists
+noctilucas
 noctuid
 noctuids
 noctule
@@ -62738,6 +62754,7 @@ nomadic
 nomadism
 nomads
 nomarch
+nomarchs
 nomarchy
 nomas
 nombles
@@ -65369,6 +65386,7 @@ ordaining
 ordainments
 ordains
 ordeal
+ordeals
 ordered
 orderers
 ordering
@@ -66048,6 +66066,7 @@ outfight
 outfighting
 outfights
 outfigured
+outfiguring
 outfinding
 outfire
 outfires
@@ -70196,6 +70215,7 @@ periostea
 periosteal
 periosteum
 periostitises
+periotic
 peripatetic
 peripatetics
 peripatuses
@@ -73863,6 +73883,7 @@ prat
 prated
 prater
 praters
+prates
 pratfall
 pratincole
 pratincoles
@@ -76248,6 +76269,7 @@ pseudonym
 pseudonymities
 pseudonymity
 pseudonymous
+pseudonymously
 pseudopod
 pseudopodia
 pseudopodial
@@ -77704,6 +77726,7 @@ racket
 racketeering
 racketier
 racketiest
+racketing
 rackety
 rackfuls
 rackingly
@@ -78775,6 +78798,7 @@ rebuking
 reburials
 reburies
 rebury
+reburying
 rebus
 rebuts
 rebuttable
@@ -82146,6 +82170,7 @@ retightening
 retightens
 retile
 retimes
+retiming
 retina
 retinacula
 retinaculum
@@ -85058,6 +85083,7 @@ savagery
 savages
 savaging
 savagism
+savagisms
 savanna
 savannahs
 savannas
@@ -86009,6 +86035,7 @@ scumbles
 scumless
 scumlike
 scummers
+scummier
 scumming
 scums
 scungilli
@@ -87343,6 +87370,7 @@ shag
 shagbark
 shagged
 shaggiest
+shaggily
 shagginess
 shaggy
 shagreen
@@ -90800,6 +90828,7 @@ soupier
 soupless
 souplike
 soupspoon
+soupy
 sour
 sourball
 sourballs
@@ -94091,6 +94120,7 @@ sublieutenant
 sublieutenants
 sublimable
 sublimate
+sublimates
 sublimations
 sublimeness
 sublimers
@@ -95583,6 +95613,7 @@ svedberg
 svedbergs
 svelte
 sveltely
+svelteness
 swabbed
 swabber
 swabbers
@@ -95850,6 +95881,7 @@ switcheroos
 switchers
 switches
 switchgrasses
+switching
 switchmen
 switchyards
 swith
@@ -97430,6 +97462,7 @@ temperatures
 temperer
 temperers
 tempering
+tempers
 tempest
 tempested
 tempests
@@ -100611,6 +100644,7 @@ tricksinesses
 trickster
 tricksters
 triclad
+triclads
 triclinia
 triclosan
 triclosans
@@ -102682,6 +102716,7 @@ undeliverable
 undelivered
 undeluded
 undemocratic
+undeniableness
 undeniably
 undenied
 undented
