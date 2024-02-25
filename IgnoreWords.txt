@@ -2260,6 +2260,7 @@ allografted
 allometric
 allometry
 allomorph
+allomorphic
 allomorphs
 allonges
 allonyms
@@ -7487,6 +7488,7 @@ bass
 basseted
 basseting
 bassets
+bassett
 bassetted
 bassetting
 bassinet
@@ -13940,6 +13942,7 @@ carnal
 carnalities
 carnallite
 carnallites
+carnassials
 carnations
 carnauba
 carnaubas
@@ -14462,6 +14465,7 @@ catnap
 catnapped
 catnapper
 catnappers
+catnapping
 catnaps
 catnip
 catnips
@@ -20460,6 +20464,7 @@ corrections
 correctitude
 correctitudes
 corrective
+correctly
 correctness
 correctors
 corrects
@@ -23862,6 +23867,7 @@ decorticated
 decorticates
 decortication
 decorticator
+decorticators
 decorum
 decorums
 decos
@@ -23996,6 +24002,7 @@ defalcator
 defamation
 defamed
 defamers
+defang
 defanged
 defanging
 defats
@@ -25640,6 +25647,7 @@ dewaters
 dewax
 dewaxed
 dewaxes
+dewaxing
 dewberries
 dewberry
 dewclaw
@@ -37144,6 +37152,7 @@ fortified
 fortify
 fortifying
 fortissimo
+fortissimos
 fortitude
 fortnight
 fortnightly
@@ -41653,6 +41662,7 @@ gulfiest
 gulflike
 gulfweed
 gulfweeds
+gulfy
 gull
 gullably
 gulled
@@ -46169,6 +46179,7 @@ igneous
 ignescent
 ignescents
 ignified
+ignimbrites
 ignitabilities
 ignite
 ignited
@@ -47790,6 +47801,7 @@ infallibilities
 infallibility
 infallible
 infallibly
+infalling
 infalls
 infamously
 infamy
@@ -52977,6 +52989,7 @@ lazzaroni
 lea
 leachabilities
 leachability
+leachate
 leached
 leacher
 leaches
@@ -53797,6 +53810,7 @@ ligulae
 ligular
 ligulas
 ligulated
+ligules
 liguloid
 ligure
 ligures
@@ -54435,6 +54449,7 @@ localises
 localising
 localist
 localite
+localites
 localization
 localize
 localized
@@ -59983,6 +59998,7 @@ monkishly
 monks
 monkshood
 monkshoods
+mono
 monoacid
 monoacidic
 monoacids
@@ -61711,6 +61727,7 @@ napped
 napper
 nappes
 nappie
+nappier
 nappies
 nappy
 naproxens
@@ -66511,6 +66528,7 @@ outquoting
 outrace
 outraced
 outraces
+outracing
 outrageously
 outrageousness
 outrages
@@ -66611,6 +66629,7 @@ outserve
 outserved
 outserves
 outshamed
+outshaming
 outshined
 outshone
 outshooting
@@ -66775,6 +66794,7 @@ outvied
 outvoice
 outvoicing
 outvote
+outvotes
 outvying
 outwait
 outwaiting
@@ -69309,6 +69329,7 @@ pastoralist
 pastoralists
 pastoralness
 pastoralnesses
+pastorals
 pastorate
 pastoriums
 pastorly
@@ -69724,6 +69745,7 @@ pedagogue
 pedagogues
 pedagogy
 pedal
+pedaled
 pedaler
 pedalfer
 pedalier
@@ -70510,6 +70532,7 @@ perp
 perpend
 perpended
 perpending
+perpends
 perpents
 perpetrate
 perpetrated
@@ -71371,6 +71394,7 @@ phyllotaxies
 phylloxera
 phylogenies
 physeds
+physiatries
 physiatrist
 physical
 physicalism
@@ -72577,6 +72601,7 @@ pleonasms
 pleonastic
 pleonastically
 pleonic
+pleopod
 pleopods
 plerocercoid
 plerocercoids
@@ -77490,6 +77515,7 @@ quarrelling
 quarrels
 quarrier
 quarriers
+quarry
 quarryman
 quart
 quartan
@@ -83892,6 +83918,7 @@ roughhews
 roughhouse
 roughhoused
 roughhouses
+roughhousing
 roughies
 roughish
 roughleg
@@ -83935,6 +83962,7 @@ roundtrip
 roundtrips
 roundup
 roundwood
+roup
 rouped
 roupet
 roupier
@@ -87219,6 +87247,7 @@ serendipitously
 serendipity
 serenely
 sereneness
+serenenesses
 serener
 serenes
 serenities
@@ -88000,6 +88029,7 @@ shinplaster
 shinplasters
 shins
 shiny
+ship
 shipboard
 shipboards
 shipbuilders
@@ -90018,6 +90048,7 @@ smuggling
 smush
 smushed
 smut
+smutched
 smutchier
 smutchiest
 smutching
@@ -94248,6 +94279,7 @@ subfusc
 subgenerations
 subgenre
 subgenres
+subgenuses
 subglacial
 subgovernment
 subgrade
@@ -94951,6 +94983,7 @@ sulker
 sulkies
 sulkiest
 sulkily
+sulkiness
 sulkinesses
 sulking
 sulks
@@ -96765,6 +96798,7 @@ tailstocks
 tailwaters
 tailwind
 tain
+taint
 taintless
 taints
 taj
@@ -108837,6 +108871,7 @@ winterized
 winterizes
 winterkill
 winterly
+winters
 wintertide
 wintertime
 wintery
