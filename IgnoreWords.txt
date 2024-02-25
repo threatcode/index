@@ -3107,6 +3107,7 @@ anchovetta
 anchovettas
 anchovies
 anchovy
+anchusa
 anchusas
 anchylose
 anchylosed
@@ -3764,6 +3765,7 @@ antifur
 antigambling
 antigang
 antigay
+antigen
 antigene
 antigenically
 antigenicities
@@ -4914,6 +4916,7 @@ armory
 armoured
 armourer
 armourers
+armouries
 armpits
 armrests
 armsful
@@ -5327,6 +5330,7 @@ assayer
 assays
 assemblage
 assemblagists
+assembler
 assemblers
 assembles
 assemblies
@@ -8816,6 +8820,7 @@ bharals
 bheesties
 bheesty
 bhistie
+bhoots
 bhut
 bhuts
 bi
@@ -10895,6 +10900,7 @@ bounder
 bounderish
 bounders
 boundless
+boundlessly
 boundnesses
 bounds
 bounteous
@@ -14428,6 +14434,7 @@ caterwauled
 caterwauling
 cates
 catface
+catfaces
 catfacing
 catfacings
 catfight
@@ -15197,6 +15204,7 @@ chandeliers
 chandelle
 chandelling
 chandleries
+chandlers
 chandlery
 chanfron
 chanfrons
@@ -16834,6 +16842,7 @@ classical
 classicality
 classically
 classicals
+classicistic
 classicists
 classicize
 classicized
@@ -17097,6 +17106,7 @@ clipt
 clique
 cliqued
 cliques
+cliquier
 cliquing
 cliquish
 cliquishness
@@ -20287,6 +20297,7 @@ cordovans
 cords
 corduroyed
 corduroying
+corduroys
 cordwain
 cordwainer
 cordwaineries
@@ -21112,6 +21123,7 @@ covens
 cover
 coverable
 coverages
+coverall
 coveralls
 coverer
 coverers
@@ -29726,6 +29738,7 @@ edgily
 edginesses
 edibilities
 edibility
+edible
 edibles
 edict
 edictally
@@ -31976,6 +31989,7 @@ equilibrants
 equilibrating
 equilibration
 equilibrator
+equilibrators
 equilibratory
 equilibria
 equilibrist
@@ -35642,6 +35656,7 @@ fishnets
 fishplates
 fishpole
 fishponds
+fishtailing
 fishtails
 fishways
 fishworm
@@ -35682,6 +35697,7 @@ fitfully
 fitfulness
 fitfulnesses
 fitly
+fitments
 fitnesses
 fits
 fittable
@@ -39687,6 +39703,7 @@ gingivectomy
 gingivitis
 gingkoes
 gingkos
+ginkgo
 ginks
 ginned
 ginner
@@ -43440,6 +43457,7 @@ hemagglutinins
 hemagog
 hemangioma
 hematal
+hematein
 hemateins
 hematic
 hematine
@@ -53894,6 +53912,7 @@ lilt
 lilted
 lilts
 lilylike
+lima
 limacine
 limacons
 limba
@@ -54237,6 +54256,7 @@ listlessnesses
 lists
 lit
 litai
+litanies
 litany
 litchi
 litchis
@@ -58913,6 +58933,7 @@ misassays
 misassemble
 misassembled
 misassembling
+misassign
 misassigned
 misassigning
 misassigns
@@ -61885,6 +61906,7 @@ natch
 natheless
 nathless
 nation
+national
 nationalised
 nationalising
 nationality
@@ -61931,6 +61953,7 @@ naturally
 naturalness
 naturals
 nature
+natured
 natures
 naturism
 naturisms
@@ -62685,6 +62708,7 @@ niftiness
 nifty
 nigellas
 niggard
+niggarding
 niggardliness
 niggardlinesses
 niggards
@@ -79837,6 +79861,7 @@ redrawn
 redraws
 redreamed
 redreaming
+redreams
 redreamt
 redress
 redressed
@@ -87817,6 +87842,7 @@ sharkskin
 sharkskins
 sharns
 sharny
+sharped
 sharpened
 sharpener
 sharpeners
@@ -89841,6 +89867,7 @@ slotbacks
 slothfully
 slothfulness
 slothfulnesses
+slots
 slotted
 slouch
 sloucher
@@ -90008,6 +90035,7 @@ smatters
 smaze
 smazes
 smearcase
+smearer
 smeariest
 smears
 smeary
@@ -91749,6 +91777,7 @@ spiegels
 spiel
 spieled
 spieler
+spielers
 spieling
 spiels
 spiered
@@ -94849,6 +94878,7 @@ succinates
 succinctest
 succinctly
 succinctness
+succinctnesses
 succinic
 succinylcholine
 succinyls
@@ -95881,6 +95911,7 @@ surveillant
 surveillants
 surveilled
 surveilling
+surveils
 survey
 surveyed
 surveyors
@@ -98213,6 +98244,7 @@ testimonials
 testimonies
 testimony
 testiness
+testing
 testis
 teston
 testons
@@ -105270,6 +105302,7 @@ urate
 urates
 urb
 urban
+urbanely
 urbaner
 urbanisation
 urbanise
@@ -105783,6 +105816,7 @@ varicosities
 varicosity
 variedly
 variegate
+variegated
 variegation
 variegator
 varier
@@ -105865,6 +105899,7 @@ vassals
 vastest
 vastitudes
 vastly
+vastness
 vastnesses
 vasts
 vat
