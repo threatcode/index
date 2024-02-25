@@ -226,6 +226,7 @@ acarpous
 acarus
 acatalectics
 acaudal
+acaulescent
 acauline
 acaulose
 acaulous
@@ -3738,6 +3739,7 @@ antifatigue
 antifemale
 antifeminine
 antifeminisms
+antifertility
 antiflu
 antifoam
 antifog
@@ -5428,6 +5430,7 @@ assumption
 assumptions
 assurable
 assurance
+assurances
 assure
 assuredly
 assurednesses
@@ -8494,6 +8497,7 @@ berets
 bergamot
 bergere
 bergeres
+berhyme
 berhyming
 beriberi
 beriberis
@@ -12631,6 +12635,7 @@ bytalks
 byte
 bytes
 bywords
+bywork
 byworks
 byzantine
 byzants
@@ -14356,6 +14361,7 @@ catechizes
 catechizing
 catechol
 catecholamine
+catechols
 catechu
 catechumens
 categoric
@@ -20065,6 +20071,7 @@ copers
 copied
 copier
 copihue
+copihues
 copilot
 coping
 copingstone
@@ -22190,6 +22197,7 @@ culminations
 culms
 culottes
 culpability
+culpable
 culpae
 cult
 cultches
@@ -26568,6 +26576,7 @@ disapprove
 disapproved
 disapprovers
 disapproves
+disapproving
 disapprovingly
 disarmament
 disarmed
@@ -33056,6 +33065,7 @@ exec
 execrableness
 execrablenesses
 execrably
+execration
 execrations
 execrative
 execrator
@@ -34245,6 +34255,7 @@ farce
 farcer
 farcers
 farceur
+farceurs
 farci
 farcical
 farcicalities
@@ -35764,6 +35775,7 @@ flans
 flapdoodle
 flapdoodles
 flaperon
+flaperons
 flapjacks
 flapless
 flappable
@@ -44599,6 +44611,7 @@ honoraria
 honoraries
 honorarily
 honorarium
+honorariums
 honored
 honoree
 honorer
@@ -45357,6 +45370,7 @@ hyaenas
 hyaenic
 hyaline
 hyalines
+hyalite
 hyalites
 hyalogen
 hyalogens
@@ -51228,6 +51242,7 @@ keratinizing
 keratinophilic
 keratinous
 keratins
+keratitis
 keratoid
 keratomata
 keratoplasty
@@ -52516,6 +52531,7 @@ lapidary
 lapidate
 lapidated
 lapidates
+lapides
 lapidifies
 lapidify
 lapidifying
@@ -54109,6 +54125,7 @@ listerioses
 listers
 listless
 listlessly
+listlessness
 listlessnesses
 lists
 lit
@@ -55561,6 +55578,7 @@ magnetizable
 magnetization
 magnetize
 magnetized
+magnetizer
 magnetizers
 magnetizes
 magneto
@@ -56718,6 +56736,7 @@ maturing
 maturities
 matutinally
 matzah
+matzahs
 matzas
 matzo
 matzohs
@@ -57328,6 +57347,7 @@ meninx
 meniscate
 menisci
 meniscoid
+meniscus
 menology
 menopausal
 menopause
@@ -58786,6 +58806,7 @@ misassumptions
 misatone
 misatoned
 misatones
+misattribute
 misattributed
 misaver
 misaverred
@@ -63970,6 +63991,7 @@ notochord
 notorious
 notornis
 notturno
+notum
 notwithstanding
 nougats
 noumena
@@ -65925,6 +65947,7 @@ outbalancing
 outbargain
 outbargaining
 outbark
+outbarked
 outbarking
 outbawling
 outbeaming
@@ -72850,6 +72873,7 @@ pointelle
 pointelles
 pointes
 pointillism
+pointillisms
 pointillist
 pointillistic
 pointillists
@@ -73454,6 +73478,7 @@ portably
 portage
 portaged
 portages
+portaging
 portal
 portamenti
 portance
@@ -79005,6 +79030,7 @@ receptionist
 receptions
 receptive
 receptively
+receptiveness
 receptivenesses
 receptivity
 receptor
@@ -81850,6 +81876,7 @@ resiny
 resistances
 resistant
 resisters
+resistibility
 resistible
 resistive
 resistively
@@ -87197,6 +87224,7 @@ seriousnesses
 serjeant
 serjeanties
 sermonic
+sermonize
 sermonizers
 sermonizes
 seroconversion
@@ -96750,6 +96778,7 @@ tallithes
 tallithim
 tallitim
 tallitoth
+tallits
 tallow
 tallowing
 tallows
@@ -98351,6 +98380,7 @@ thermostated
 thermostatic
 thermostating
 thermostats
+thermostatting
 thermotaxes
 thermotaxis
 thermotropic
@@ -100948,6 +100978,7 @@ triphthongs
 triplane
 triplanes
 tripled
+triples
 triplet
 triplexes
 triplicated
@@ -103863,6 +103894,7 @@ unmesh
 unmeshes
 unmet
 unmewed
+unmews
 unmilitary
 unmilled
 unmindful
@@ -104008,6 +104040,7 @@ unpoetic
 unpointed
 unpolished
 unpolitic
+unpolitical
 unpolled
 unpolluted
 unposed
@@ -104176,6 +104209,7 @@ unripe
 unripely
 unripened
 unripenesses
+unripest
 unripped
 unripping
 unrips
@@ -107903,6 +107937,7 @@ welcoming
 weldable
 welded
 welder
+welders
 welding
 weldless
 weldment
