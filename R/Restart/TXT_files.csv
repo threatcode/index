@@ -7,3 +7,13 @@ restart-various-frames-expected.txt - Google Git,https://chromium.googlesource.c
 test/inspector/debugger/restart-frame/restart-inlined-frame-expected.txt,https://chromium.googlesource.com/v8/v8/%2B/8278cb5015e5664f101f40bb0805244e500ad4cd/test/inspector/debugger/restart-frame/restart-inlined-frame-expected.txt
 RFC 3612 - Applicability Statement for Restart Mechanisms for the ...,https://levkowetz.com/html/rfc3612.txt
 restart.txt - broadinstitute/dropviz - GitHub,https://github.com/broadinstitute/dropviz/blob/master/restart.txt
+Stopping and restarting HAProxy,https://www.haproxy.org/download/1.7/doc/management.txt
+gpio-restart.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/power/reset/gpio-restart.txt
+restart-various-frames-expected.txt - Google Git,https://chromium.googlesource.com/v8/v8/%2B/ec41a70e38def3dbfb05473be5d40fb81fcc8dc2/test/inspector/debugger/restart-frame/restart-various-frames-expected.txt
+GL_NV_primitive_restart - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/NV/NV_primitive_restart.txt
+grcalculator/restart.txt at master - GitHub,https://github.com/uc-bd2k/grcalculator/blob/master/restart.txt
+draft-ietf-ospf-restart-00.txt,https://www.ietf.org/proceedings/49/I-D/draft-ietf-ospf-restart-00.txt
+test/inspector/debugger/restart-frame/restart-inlined-frame-expected.txt,https://chromium.googlesource.com/v8/v8/%2B/8278cb5015e5664f101f40bb0805244e500ad4cd/test/inspector/debugger/restart-frame/restart-inlined-frame-expected.txt
+2013.10.18_restarts.txt,http://rbsp.space.umn.edu/data/rbsp/logs/2013.10.18_restarts.txt
+rfc5495.txt - » RFC Editor,https://www.rfc-editor.org/rfc/rfc5495.txt
+Linux Kernel Documentation / devicetree / bindings / power / reset ...,https://mjmwired.net/kernel/Documentation/devicetree/bindings/power/reset/restart-poweroff.txt
