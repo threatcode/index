@@ -257,6 +257,7 @@ acceptance
 acceptances
 acceptant
 acceptations
+acceptee
 acceptees
 accepters
 accepting
@@ -3360,6 +3361,7 @@ ankylosauruses
 ankylose
 ankylosed
 ankylosing
+ankylotic
 anlace
 anlaces
 anlage
@@ -6101,6 +6103,7 @@ autophyte
 autophytes
 autopilots
 autopolyploids
+autopsic
 autopsied
 autopsies
 autopsists
@@ -7475,6 +7478,7 @@ basseted
 basseting
 bassets
 bassetted
+bassetting
 bassinet
 bassists
 bassness
@@ -9541,6 +9545,7 @@ bivouac
 bivouacked
 bivouacks
 bivouacs
+biweekly
 biyearly
 biz
 bizarre
@@ -13446,6 +13451,7 @@ cantus
 canula
 canular
 canulate
+canulated
 canulates
 canvas
 canvasbacks
@@ -21416,6 +21422,7 @@ creativities
 creativity
 creator
 creators
+creaturehood
 creaturehoods
 creaturely
 creatures
@@ -30225,6 +30232,7 @@ elute
 eluted
 elutes
 eluting
+elutions
 elutriated
 elutriates
 elutriating
@@ -34406,6 +34414,7 @@ fatstocks
 fatted
 fatten
 fattened
+fattener
 fattens
 fatter
 fatties
@@ -36866,6 +36875,7 @@ foreshadowed
 foreshadower
 foreshadowing
 foreshank
+foresheet
 foresheets
 foreshores
 foreshortened
@@ -41266,6 +41276,7 @@ grosgrain
 grosgrains
 gross
 grosser
+grossing
 grossularites
 grossulars
 grosze
@@ -42300,6 +42311,7 @@ handbreadth
 handbreadths
 handcart
 handcarts
+handclaps
 handclasp
 handcraft
 handcrafting
@@ -42714,6 +42726,7 @@ hatcher
 hatcheries
 hatchers
 hatchery
+hatches
 hatchet
 hatchets
 hatching
@@ -42763,6 +42776,7 @@ haulyard
 haulyards
 haunched
 haunches
+haunt
 haunter
 haunts
 hausfrau
@@ -43539,6 +43553,7 @@ herbicidally
 herbiest
 herbivore
 herbivores
+herbivories
 herbivorous
 herbivory
 herbless
@@ -44998,6 +45013,7 @@ housing
 housings
 houstonias
 hoveled
+hovels
 hover
 hovercrafts
 hoverers
@@ -53517,6 +53533,7 @@ liberalnesses
 liberals
 liberating
 liberation
+liberationist
 liberationists
 liberations
 liberators
@@ -55517,6 +55534,7 @@ magistrally
 magistrate
 magistrates
 magistratical
+magistrature
 magistratures
 maglev
 maglevs
@@ -57084,6 +57102,7 @@ megavitamin
 megavolt
 megawatt
 megawatts
+megilla
 megillah
 megillahs
 megillas
@@ -59034,6 +59053,7 @@ misgive
 misgiven
 misgiving
 misgivings
+misgovern
 misgoverned
 misgoverning
 misgovernment
@@ -62243,6 +62263,7 @@ neuralgic
 neurally
 neuraminidase
 neurasthenia
+neurasthenics
 neurilemma
 neurilemmal
 neurilemmas
@@ -67127,6 +67148,7 @@ overfloods
 overflow
 overflowed
 overflown
+overflows
 overfocus
 overfocused
 overfocuses
@@ -68806,6 +68828,7 @@ paratyphoid
 paratyphoids
 paravane
 parazoan
+parazoans
 parbake
 parbaked
 parbaking
@@ -72828,6 +72851,7 @@ pointelles
 pointes
 pointillism
 pointillist
+pointillistic
 pointillists
 pointing
 pointless
@@ -73311,6 +73335,7 @@ poornesses
 poove
 popcorn
 popedom
+popedoms
 popeless
 poperies
 popery
@@ -77036,6 +77061,7 @@ puttering
 putti
 puttie
 putties
+putting
 putto
 putts
 puttylike
@@ -80463,6 +80489,7 @@ reinoculations
 reinserted
 reinserting
 reinsertions
+reinserts
 reinsmen
 reinspect
 reinspected
@@ -81943,6 +81970,7 @@ respirometric
 respirometry
 respite
 respited
+respites
 resplendencies
 resplendency
 resplendent
@@ -89584,6 +89612,7 @@ slogs
 sloids
 slojd
 sloop
+sloops
 slop
 slope
 sloper
@@ -91783,6 +91812,7 @@ spondees
 spondylitis
 sponge
 sponged
+spongers
 sponges
 spongeware
 spongewares
@@ -94019,6 +94049,7 @@ subconsciouses
 subconsul
 subconsuls
 subcontinental
+subcontract
 subcontracting
 subcontractor
 subcontractors
@@ -97179,6 +97210,7 @@ tea
 teaboard
 teabox
 teaboxes
+teacake
 teacakes
 teacart
 teach
@@ -100635,6 +100667,7 @@ triangulates
 triangulating
 triangulation
 triangulations
+triarchies
 triarchy
 triathlete
 triathletes
@@ -101559,6 +101592,7 @@ turbojet
 turbojets
 turbomachinery
 turboprops
+turbos
 turbots
 turbulences
 turbulencies
@@ -109946,6 +109980,7 @@ zebrass
 zebrasses
 zebrawoods
 zebrines
+zebroid
 zecchin
 zecchini
 zecchinos
