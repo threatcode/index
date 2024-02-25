@@ -5612,6 +5612,7 @@ atmospheres
 atmospherically
 atmospherics
 atomic
+atomical
 atomicities
 atomics
 atomises
@@ -13996,6 +13997,7 @@ carriole
 carrion
 carritch
 carrom
+carromed
 carronade
 carronades
 carrot
@@ -14823,6 +14825,7 @@ cephaloridine
 cephaloridines
 cephalosporin
 cephalothoraces
+cephalothorax
 cephalothoraxes
 cephalous
 cepheid
@@ -25625,6 +25628,7 @@ dhoolies
 dhooly
 dhoora
 dhooras
+dhooti
 dhooties
 dhotis
 dhourra
@@ -29721,6 +29725,7 @@ effervescing
 effete
 effetely
 effeteness
+efficaciousness
 efficacities
 efficacity
 efficacy
@@ -31296,6 +31301,7 @@ entailment
 entailments
 entails
 entamebae
+entamebas
 entamoeba
 entamoebae
 entangle
@@ -36545,6 +36551,7 @@ font
 fontal
 fontanel
 fontanelle
+fontina
 fontinas
 fonts
 food
@@ -38835,6 +38842,7 @@ gavages
 gaveled
 gavelled
 gavelling
+gavels
 gavial
 gavialoid
 gavials
@@ -39365,6 +39373,7 @@ ghettoizing
 ghettos
 ghibli
 ghiblis
+ghillies
 ghostier
 ghosting
 ghostlier
@@ -42600,6 +42609,7 @@ harrow
 harrowed
 harrower
 harrows
+harsher
 harshly
 harshness
 harshnesses
@@ -46800,6 +46810,7 @@ impudency
 impudent
 impudicities
 impudicity
+impugned
 impugner
 impuissances
 impuissant
@@ -48077,6 +48088,7 @@ inklings
 inkpot
 inkpots
 inks
+inkstand
 inkstones
 inkwells
 inky
@@ -50253,6 +50265,7 @@ jeopard
 jeoparded
 jeopardies
 jeopardise
+jeopardises
 jeopardising
 jeopardize
 jeopardized
@@ -50817,6 +50830,7 @@ jutes
 juts
 jutted
 juttied
+jutties
 jutting
 juttingly
 juttying
@@ -50890,6 +50904,7 @@ kaki
 kakiemons
 kakis
 kalamatas
+kalams
 kaleidoscope
 kaleidoscopic
 kalends
@@ -53142,6 +53157,7 @@ lemon
 lemonades
 lemongrass
 lemongrasses
+lemonlike
 lemons
 lemony
 lempiras
@@ -54821,6 +54837,7 @@ lownesses
 lowrider
 lowriders
 lows
+lowse
 loxes
 loxodrome
 loyalest
@@ -57403,6 +57420,7 @@ mermen
 meroblastic
 merocrine
 meromorphic
+meromyosins
 meropias
 meropic
 merozoite
@@ -57981,6 +57999,7 @@ micromanagers
 micromere
 micromeres
 micrometeorite
+micrometeorites
 micrometeoritic
 micrometers
 micromethod
@@ -58643,6 +58662,7 @@ misaiming
 misalignment
 misalignments
 misaligns
+misallied
 misallocate
 misallocates
 misallocating
@@ -62570,6 +62590,7 @@ niteries
 niters
 nites
 nitid
+niton
 nitons
 nitpick
 nitpicked
@@ -72767,6 +72788,7 @@ polariscopes
 polarised
 polarises
 polarities
+polarity
 polarizability
 polarization
 polarizations
@@ -76185,6 +76207,7 @@ pryingly
 prythee
 psalm
 psalmbook
+psalmbooks
 psalmed
 psalmic
 psalming
@@ -76446,6 +76469,7 @@ puerperia
 puerperium
 puff
 puffed
+puffer
 puffers
 puffery
 puffier
@@ -78949,6 +78973,7 @@ reclaimer
 reclaims
 reclamations
 reclames
+reclasp
 reclasps
 reclassified
 reclassify
@@ -79629,6 +79654,7 @@ reembraced
 reembraces
 reembracing
 reembroider
+reembroiders
 reemerge
 reemerging
 reemission
@@ -82039,6 +82065,7 @@ retapes
 retaping
 retard
 retardants
+retardate
 retardation
 retarder
 retarders
@@ -85424,6 +85451,7 @@ schlock
 schlockier
 schlockiest
 schlocks
+schlocky
 schlump
 schlumpier
 schlumping
@@ -86978,6 +87006,7 @@ serflike
 serfs
 sergeancies
 sergeancy
+sergeant
 sergeanties
 sergeants
 sergeanty
@@ -87103,6 +87132,7 @@ serviette
 serving
 servitor
 servitors
+servitudes
 servo
 servomotors
 sesame
@@ -89960,6 +89990,7 @@ snood
 snooded
 snoods
 snook
+snooked
 snooker
 snookered
 snookers
@@ -92812,6 +92843,7 @@ stiction
 stied
 sties
 stiff
+stiffen
 stiffener
 stiffening
 stiffie
@@ -93109,6 +93141,7 @@ stopped
 stopper
 stoppering
 stopple
+stoppled
 stopples
 stoppling
 stops
@@ -96966,6 +96999,7 @@ tawie
 tawing
 tawneys
 tawnies
+tawniest
 tawnily
 tawniness
 tawny
@@ -97205,6 +97239,7 @@ tegs
 tegular
 tegulated
 tegumen
+teguments
 tegumina
 teiids
 teind
