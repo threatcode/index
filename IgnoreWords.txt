@@ -964,6 +964,7 @@ admonitorily
 admonitors
 adnate
 adnations
+adnexa
 adnexal
 adnoun
 adnouns
@@ -3815,6 +3816,7 @@ antimeres
 antimerger
 antimeric
 antimetabolite
+antimetabolites
 antimicrobial
 antimicrobials
 antimilitarism
@@ -4871,6 +4873,7 @@ armer
 armers
 armet
 armful
+armholes
 armigeral
 armigeros
 armigerous
@@ -6592,6 +6595,7 @@ backgammons
 background
 backgrounders
 backhand
+backhanded
 backhandedly
 backhanding
 backhands
@@ -9235,6 +9239,7 @@ biogasses
 biogen
 biogenesis
 biogenetic
+biogenetically
 biogenic
 biogenies
 biogenous
@@ -11607,6 +11612,7 @@ brochettes
 brochures
 brock
 brockage
+brockets
 brocolis
 brogan
 brogueries
@@ -15733,6 +15739,7 @@ childproof
 children
 chile
 chili
+chiliad
 chiliadal
 chiliadic
 chiliads
@@ -16401,6 +16408,7 @@ cigarlike
 ciguatera
 cilia
 ciliate
+ciliately
 ciliation
 ciliations
 cilice
@@ -19564,6 +19572,7 @@ constricting
 constriction
 constrictions
 constrictors
+constringe
 constringed
 constringes
 construal
@@ -20423,6 +20432,7 @@ corpuscular
 corpuses
 corrade
 corraded
+corrades
 corrading
 corral
 corralled
@@ -21636,6 +21646,7 @@ crimpy
 crimson
 crimsoned
 crimsoning
+crimsons
 cringe
 cringed
 cringers
@@ -24527,6 +24538,7 @@ demised
 demisemiquaver
 demisemiquavers
 demises
+demising
 demister
 demisters
 demitasses
@@ -26974,6 +26986,7 @@ dishrags
 dishtowel
 dishwares
 dishwashers
+dishwaters
 dishy
 disillusioned
 disillusions
@@ -31420,6 +31433,7 @@ enthusiasms
 enthusiasts
 enthymeme
 enthymemes
+entia
 entice
 enticement
 enticer
@@ -31472,6 +31486,7 @@ entrant
 entrants
 entrap
 entrapments
+entrapped
 entrapping
 entraps
 entreaties
@@ -34301,6 +34316,7 @@ faro
 farouche
 farraginous
 farragoes
+farrieries
 farrow
 farrowed
 farrowing
@@ -36536,6 +36552,7 @@ foliage
 foliages
 foliate
 foliated
+foliates
 foliating
 foliation
 foliations
@@ -48489,6 +48506,7 @@ instinct
 instinctively
 instincts
 instinctual
+instinctually
 institute
 instituted
 instituter
@@ -50941,6 +50959,7 @@ kabiki
 kabikis
 kabob
 kabobs
+kabs
 kabuki
 kabukis
 kachina
@@ -51895,6 +51914,7 @@ kopeks
 koph
 kophs
 kopiyka
+kopje
 koppie
 koppies
 kora
@@ -53831,6 +53851,7 @@ liminesses
 liming
 limitable
 limitary
+limitational
 limitations
 limitative
 limitedly
@@ -55330,6 +55351,7 @@ lysozyme
 lysozymes
 lyssa
 lyssas
+lytic
 lytta
 lyttae
 ma
@@ -61091,6 +61113,7 @@ munificence
 munificences
 munificent
 muniment
+munis
 munition
 munnion
 munnions
@@ -65845,6 +65868,7 @@ ostioles
 ostium
 ostler
 ostmark
+ostomates
 ostomies
 ostoses
 ostosis
@@ -67627,6 +67651,7 @@ overspender
 overspenders
 overspending
 overspends
+overspice
 overspiced
 overspicing
 overspilled
@@ -70647,6 +70672,7 @@ pestiferously
 pestiferousness
 pestilent
 pestilential
+pestilently
 pestled
 pestles
 pestling
@@ -76765,6 +76791,7 @@ punchboards
 puncheons
 punchier
 punchiest
+punchily
 punchinellos
 punching
 punchless
@@ -81014,6 +81041,7 @@ removeable
 removedly
 remover
 removes
+rems
 remunerated
 remunerates
 remunerating
@@ -88523,6 +88551,7 @@ sieur
 sieurs
 sieve
 sieverts
+sieving
 sifaka
 sift
 sifters
@@ -91317,6 +91346,7 @@ specialnesses
 specials
 specialties
 speciate
+speciated
 speciates
 speciation
 speciational
@@ -93220,6 +93250,7 @@ stoics
 stoke
 stoked
 stokehold
+stokehole
 stokeholes
 stoker
 stokes
@@ -101294,6 +101325,7 @@ trugs
 truing
 truism
 truistic
+truly
 trumeau
 trump
 trumped
@@ -101540,6 +101572,7 @@ tun
 tunabilities
 tunability
 tunably
+tunas
 tundras
 tune
 tuneable
@@ -103251,6 +103284,7 @@ uneasier
 uneasily
 uneasinesses
 uneasy
+uneatable
 uneaten
 uneccentric
 unecological
@@ -103486,6 +103520,7 @@ unguents
 unguentum
 ungues
 unguessable
+unguis
 ungula
 ungulae
 ungulate
