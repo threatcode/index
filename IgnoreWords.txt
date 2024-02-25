@@ -1637,6 +1637,7 @@ agnosticisms
 agnostics
 ago
 agone
+agones
 agonic
 agonised
 agonises
@@ -2296,6 +2297,7 @@ alloys
 alls
 allseed
 allsorts
+allspice
 allude
 alluded
 alludes
@@ -6189,6 +6191,7 @@ avertible
 averting
 averts
 aves
+avgas
 avgolemono
 avgolemonos
 avian
@@ -6408,6 +6411,7 @@ azoted
 azotemic
 azotic
 azotise
+azotising
 azotize
 azotized
 azotobacter
@@ -15054,6 +15058,7 @@ chamfering
 chamfers
 chamfron
 chamisa
+chamisas
 chamise
 chamiso
 chammied
@@ -18774,6 +18779,7 @@ concelebrant
 concelebrants
 concelebrate
 concelebrated
+concelebrates
 concelebrations
 concent
 concenter
@@ -27567,6 +27573,7 @@ divulgers
 divulges
 divulging
 divulse
+divulses
 divulsion
 divulsions
 divulsive
@@ -32923,6 +32930,7 @@ excruciated
 excruciating
 excruciation
 excruciations
+exculpate
 exculpating
 exculpation
 exculpatory
@@ -39105,6 +39113,7 @@ geomancer
 geomancers
 geomancies
 geomancy
+geomantic
 geometer
 geometers
 geometric
@@ -39295,6 +39304,7 @@ ghostwriters
 ghostwrites
 ghostwriting
 ghostwrote
+ghoul
 ghoulie
 ghoulies
 ghoulish
@@ -41288,6 +41298,7 @@ grummets
 grumose
 grumous
 grump
+grumphies
 grumpiest
 grumpily
 grumpiness
@@ -45741,6 +45752,7 @@ hysteric
 hysterical
 hysterotomy
 hyte
+iambi
 iambic
 iambs
 iambus
@@ -45924,6 +45936,7 @@ idolator
 idolatries
 idolise
 idolises
+idolising
 idolisms
 idolization
 idolizations
@@ -47727,6 +47740,7 @@ influentially
 influenzal
 influenzas
 influxes
+info
 infolder
 infolders
 infolds
@@ -51072,6 +51086,7 @@ kern
 kerne
 kerneling
 kernelling
+kernes
 kerning
 kernites
 kerns
@@ -52321,6 +52336,7 @@ lapboards
 lapdog
 lapel
 lapeled
+lapels
 lapful
 lapfuls
 lapidarian
@@ -53685,6 +53701,7 @@ line
 lineages
 lineal
 linealities
+lineality
 lineally
 lineamental
 lineaments
@@ -54076,6 +54093,7 @@ lizards
 llama
 llamas
 llano
+llanos
 lo
 loach
 load
@@ -55252,6 +55270,7 @@ madmen
 madness
 madnesses
 madonna
+madras
 madrasa
 madrasah
 madrasahs
@@ -55981,6 +56000,7 @@ mar
 marabouts
 maraca
 maranta
+marantas
 maras
 marascas
 maraschinos
@@ -59136,6 +59156,7 @@ misstamping
 misstamps
 misstarted
 misstarts
+misstatements
 misstates
 missteer
 missteered
@@ -60188,6 +60209,7 @@ moshes
 moshing
 moshings
 mosk
+mosks
 mosque
 mosques
 mosquito
@@ -62576,6 +62598,7 @@ noisomeness
 noisomenesses
 noisy
 nolo
+nolos
 noma
 nomad
 nomadic
@@ -63841,6 +63864,7 @@ nucleotide
 nucleotides
 nucleus
 nuclide
+nuclidic
 nude
 nudeness
 nudenesses
@@ -66593,6 +66617,7 @@ overbig
 overbilled
 overbilling
 overbite
+overbleach
 overbleached
 overbleaching
 overblouse
@@ -68325,6 +68350,7 @@ papers
 paperweight
 paperwork
 paperworks
+papery
 papeterie
 paphian
 paphians
@@ -77637,6 +77663,7 @@ radiuses
 radix
 radixes
 radome
+radomes
 radon
 rads
 radular
@@ -78734,6 +78761,7 @@ rechose
 rechristens
 recidivism
 recidivisms
+recidivist
 recidivistic
 recipes
 recipient
@@ -80287,6 +80315,7 @@ rejuvenations
 rejuvenator
 rejuvenescence
 rejuvenescences
+rejuvenescent
 rekey
 rekeyboard
 rekeyboards
@@ -83404,6 +83433,7 @@ rotches
 rote
 rotenone
 rotenones
+rotes
 rotguts
 roti
 rotifer
@@ -86063,6 +86093,7 @@ secrets
 sect
 sectarianisms
 sectarianized
+sectarians
 sectaries
 sectile
 sectilities
@@ -89627,6 +89658,7 @@ snarkiest
 snarkily
 snarky
 snarler
+snarling
 snarls
 snashes
 snatchers
@@ -92748,6 +92780,7 @@ stockages
 stockbreeder
 stockbroker
 stockbrokerage
+stockbrokerages
 stockbrokings
 stockcar
 stockcars
@@ -100019,6 +100052,7 @@ trapuntos
 trashed
 trasher
 trashers
+trashinesses
 trashing
 trashmen
 trattoria
@@ -109401,6 +109435,7 @@ yowe
 yowed
 yowies
 yowl
+yowler
 yowling
 ytterbia
 ytterbias
