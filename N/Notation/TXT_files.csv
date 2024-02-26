@@ -1,0 +1,10 @@
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+Augmented BNF for Syntax Specifications: ABNF - IETF,https://www.ietf.org/rfc/rfc2234.txt
+postfix.txt,https://condor.depaul.edu/~ggordon/courses/224/212doc/postfix.txt
+"Full text of ""A History of Mathematical Notation, Volume II",https://archive.org/stream/AHistoryOfMathematicalNotationVolII/A%2520History%2520of%2520Mathematical%2520Notation%2520Vol%2520II_djvu.txt
+rfc6902.txt - » RFC Editor,https://www.rfc-editor.org/rfc/rfc6902.txt
+Music Notation and Terminology - Project Gutenberg,https://www.gutenberg.org/files/19499/19499-8.txt
+abc.txt - Werner Icking Music Archive,https://icking-music-archive.org/software/abc2mtex/abc.txt
+draft-ietf-rohc-formal-notation-02,https://datatracker.ietf.org/doc/html/draft-ietf-rohc-formal-notation-02.txt
+opentafl-notation-spec.txt - GitHub,https://github.com/jslater89/OpenTafl/blob/master/opentafl-notation-spec.txt
+RFC 5396,https://www.rfc-editor.org/rfc/rfc5396.txt
