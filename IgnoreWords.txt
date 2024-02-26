@@ -639,6 +639,7 @@ acropolises
 acrosomal
 acrosome
 acrosomes
+acrospire
 acrospires
 across
 acrostically
@@ -3184,6 +3185,7 @@ anemometry
 anemone
 anemones
 anemophilous
+anemosis
 anencephalic
 anencephalies
 anencephaly
@@ -3401,6 +3403,7 @@ annihilating
 annihilations
 annihilator
 annihilators
+annihilatory
 anniversaries
 anniversary
 annona
@@ -15292,6 +15295,7 @@ chaperon
 chaperonage
 chaperonages
 chaperone
+chaperones
 chaperons
 chapes
 chapfallen
@@ -15696,6 +15700,7 @@ chetahs
 cheth
 cheths
 chetrum
+chevalet
 chevelures
 cheverons
 cheviots
@@ -15986,6 +15991,7 @@ chlamys
 chlamyses
 chloasma
 chloasmas
+chloasmata
 chloracne
 chloral
 chloralose
@@ -21268,6 +21274,7 @@ cozener
 cozens
 cozey
 cozied
+coziest
 coziness
 cozinesses
 cozy
@@ -24884,6 +24891,7 @@ denunciative
 denunciatory
 deny
 denying
+deodand
 deodar
 deodara
 deodars
@@ -30164,6 +30172,7 @@ electrodes
 electrodialyses
 electrodialysis
 electrodialytic
+electrodynamics
 electrofishing
 electrofishings
 electroform
@@ -30279,6 +30288,7 @@ elicited
 elicitor
 elicitors
 elides
+eligibility
 eligible
 eliminate
 eliminated
@@ -30519,6 +30529,7 @@ emboss
 embossable
 embossed
 embosser
+embossers
 embossing
 embossment
 embossments
@@ -38008,6 +38019,7 @@ fubsy
 fuchsias
 fuchsin
 fuchsine
+fuchsins
 fuckers
 fuckoffs
 fucoid
@@ -38239,6 +38251,7 @@ furcates
 furcating
 furcations
 furcraeas
+furculum
 furfurals
 furfurans
 furfures
@@ -42209,6 +42222,7 @@ hagiographer
 hagiographers
 hagiographies
 hagiography
+hagiologic
 hagiological
 hagioscope
 hagioscopes
@@ -47147,6 +47161,7 @@ inanitions
 inapparently
 inappeasable
 inappetence
+inappetences
 inapplicably
 inappositely
 inappositeness
@@ -47711,6 +47726,7 @@ indisciplinable
 indisciplines
 indiscreet
 indiscreetness
+indiscretion
 indiscretions
 indiscriminate
 indispensable
@@ -48598,6 +48614,7 @@ insolations
 insole
 insolence
 insolences
+insolent
 insolently
 insolents
 insoles
@@ -50342,6 +50359,7 @@ jagging
 jaggs
 jaggy
 jagless
+jagras
 jags
 jaguarondi
 jaguarundi
@@ -51054,6 +51072,7 @@ junior
 juniorities
 juniority
 juniors
+junipers
 junker
 junket
 junketed
@@ -54561,6 +54580,7 @@ loathers
 loathful
 loathing
 loathings
+loathness
 loathnesses
 loathsomeness
 loaves
@@ -60604,6 +60624,7 @@ morosely
 moroseness
 morosenesses
 morosities
+morph
 morphactins
 morphallaxis
 morpheme
@@ -64818,6 +64839,7 @@ obsoletenesses
 obsoleting
 obstacle
 obstetrical
+obstetrically
 obstetrician
 obstetricians
 obstinacies
@@ -73045,6 +73067,7 @@ plyometrics
 plywoods
 pneuma
 pneumatic
+pneumatics
 pneumatology
 pneumatolytic
 pneumatophore
@@ -74123,6 +74146,7 @@ potlatches
 potline
 potlines
 potluck
+potlucks
 potman
 potmen
 potometer
@@ -79967,6 +79991,7 @@ redivided
 redivides
 redivision
 redivivus
+redleg
 redlegs
 redlined
 redliner
@@ -100608,6 +100633,7 @@ trances
 tranche
 tranches
 trancing
+trangam
 trangams
 trank
 tranks
@@ -102418,6 +102444,7 @@ typographer
 typographical
 typographies
 typographing
+typographs
 typography
 typologic
 typologically
@@ -103488,6 +103515,7 @@ underreact
 underreacted
 underreacting
 underreacts
+underreports
 undersaturated
 underscore
 underscored
@@ -104503,6 +104531,7 @@ unprobed
 unprocessed
 unproduced
 unproductive
+unprofessional
 unprofessionals
 unprofitably
 unprogrammable
@@ -105418,6 +105447,7 @@ upstepped
 upstepping
 upstirred
 upstirring
+upstirs
 upstream
 upstroke
 upsurge
@@ -105885,6 +105915,7 @@ valuelessness
 valuelessnesses
 valuers
 values
+valuta
 valutas
 valval
 valve
@@ -106327,6 +106358,7 @@ ventilations
 ventless
 ventral
 ventrally
+ventrals
 ventricles
 ventricular
 ventriculi
@@ -106800,6 +106832,7 @@ vigesimal
 vigia
 vigilances
 vigilant
+vigilantism
 vigilantisms
 vigintillions
 vignerons
@@ -107824,6 +107857,7 @@ warisons
 warked
 warking
 warless
+warlike
 warlock
 warlocks
 warlordism
@@ -108980,6 +109014,7 @@ wigeon
 wiggeries
 wiggier
 wiggiest
+wigging
 wiggings
 wiggle
 wiggler
