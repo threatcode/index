@@ -1099,6 +1099,7 @@ advantages
 advected
 advecting
 advection
+advects
 adventitia
 adventitias
 adventitious
@@ -1588,6 +1589,7 @@ aggregation
 aggregations
 aggregative
 aggress
+aggressed
 aggresses
 aggressing
 aggressive
@@ -1794,6 +1796,7 @@ airframe
 airframes
 airfreighted
 airfreighting
+airhead
 airheaded
 airheads
 airholes
@@ -3438,6 +3441,7 @@ annoyer
 annoyers
 annoyingly
 annoys
+annualize
 annualized
 annualizes
 annualizing
@@ -7566,6 +7570,7 @@ bastardies
 bastardise
 bastardised
 bastardises
+bastardization
 bastardizations
 bastardize
 bastardized
@@ -16567,6 +16572,7 @@ ciliately
 ciliation
 ciliations
 cilice
+cilium
 cimbalom
 cimbaloms
 cimex
@@ -18755,6 +18761,7 @@ compassionates
 compassionless
 compassions
 compatibilities
+compatibility
 compatibleness
 compatibles
 compatibly
@@ -21430,6 +21437,7 @@ cradling
 craft
 crafter
 crafters
+craftier
 craftily
 craftiness
 craftinesses
@@ -28331,6 +28339,7 @@ doormen
 doornail
 doorpost
 doorposts
+doors
 doorsills
 doorstep
 doorsteps
@@ -29349,6 +29358,7 @@ dunnites
 duns
 dunt
 dunting
+duo
 duodecillion
 duodecimals
 duodenal
@@ -34931,6 +34941,7 @@ feedbox
 feeders
 feedgrain
 feedgrains
+feedhole
 feedlots
 feedstock
 feedstocks
@@ -40022,6 +40033,7 @@ girlhood
 girlie
 girlier
 girlies
+girlishly
 girls
 girly
 girning
@@ -41282,6 +41294,7 @@ gravelled
 gravelling
 gravelly
 graven
+graveness
 gravenesses
 graver
 gravers
@@ -41676,6 +41689,7 @@ grotesquerie
 grotesqueries
 grotesques
 grots
+grottier
 grotto
 grottoes
 grottos
@@ -44881,6 +44895,7 @@ homoeroticism
 homoeroticisms
 homogamous
 homogenates
+homogeneous
 homogeneously
 homogenies
 homogenisations
@@ -44922,6 +44937,7 @@ homonuclear
 homonym
 homonymously
 homonyms
+homonymy
 homoousian
 homophile
 homophiles
@@ -50035,6 +50051,7 @@ iontophoresis
 iontophoretic
 iota
 ipecac
+ipecacuanha
 ipecacuanhas
 iproniazid
 iproniazids
@@ -52790,6 +52807,7 @@ lambing
 lambkill
 lambkin
 lamblike
+lambrequins
 lambs
 lambskin
 lambskins
@@ -53249,6 +53267,7 @@ lattin
 lattins
 latu
 lauan
+laud
 laudable
 laudableness
 laudably
@@ -54148,6 +54167,7 @@ lieutenancies
 lieutenancy
 lieve
 liever
+lievest
 life
 lifeblood
 lifeboats
@@ -54670,6 +54690,7 @@ lithemia
 lithemias
 lithemic
 lithenesses
+lithesome
 lithia
 lithiases
 lithiasis
@@ -54970,6 +54991,7 @@ locum
 locums
 locus
 locust
+locusta
 locustae
 locutions
 locutories
@@ -61830,6 +61852,7 @@ musty
 mutable
 mutably
 mutageneses
+mutagenesis
 mutagenically
 mutagenicity
 mutant
@@ -71499,6 +71522,7 @@ phaseout
 phaseouts
 phases
 phasing
+phasis
 phasmid
 phasmids
 phat
@@ -80870,6 +80894,7 @@ refrigerator
 refront
 refronting
 refroze
+refry
 refrying
 refs
 reft
@@ -83935,6 +83960,7 @@ rigs
 rijstafels
 rijsttafel
 rijsttafels
+rikisha
 rikishas
 rikshaws
 rile
@@ -86687,6 +86713,7 @@ scour
 scoured
 scourger
 scourgers
+scourging
 scourings
 scours
 scouses
@@ -92633,6 +92660,7 @@ splines
 splinted
 splintering
 splinters
+splinting
 split
 splits
 splitter
@@ -93991,6 +94019,7 @@ stirpes
 stirrer
 stirring
 stirrups
+stirs
 stitch
 stitched
 stitching
@@ -98380,6 +98409,7 @@ telekinetically
 telemark
 telemarketing
 telemarketings
+telemen
 telemetered
 telemetering
 telemetrically
@@ -100890,6 +100920,7 @@ toxicoses
 toxicosis
 toxics
 toxigenic
+toxigenicity
 toxine
 toxines
 toxins
@@ -100903,6 +100934,7 @@ toxoplasmas
 toxoplasmic
 toyer
 toyless
+toylike
 toyons
 toyshops
 trabeate
@@ -105799,6 +105831,7 @@ upgradeable
 upgrades
 upgrading
 upgrew
+upgrow
 upgrowing
 upgrown
 upheap
@@ -110394,6 +110427,7 @@ wrests
 wretch
 wretched
 wretcheder
+wretchedness
 wried
 wriggle
 wriggled
@@ -110795,6 +110829,7 @@ yet
 yeti
 yetis
 yeuked
+yeuks
 yew
 yews
 yids
