@@ -8,3 +8,13 @@ spi-cadence.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/spi
 i2c-cadence.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/i2c/i2c-cadence.txt
 Software included in Cadence Package,http://ece451web.groups.et.byu.net/cadence-help/product_FEATURE_map.txt
 f86295exv21w01.txt - SEC.gov,https://www.sec.gov/Archives/edgar/data/813672/000089161803001237/f86295exv21w01.txt
+cdscpm.txt,https://community.cadence.com/cfs-file/__key/telligent-evolution-components-attachments/00-27-01-00-01-33-38-48/cdscpm.txt
+tutorial_removing_lock_files.txt - CMOSedu.com,https://cmosedu.com/cmos1/cadence/remote_x/tutorial_removing_lock_files.txt
+cadence-python/requirements.txt at master - GitHub,https://github.com/firdaus/cadence-python/blob/master/requirements.txt
+example_5F00_skill_5F00_code...,https://community.cadence.com/cfs-filesystemfile/__key/communityserver-discussions-components-files/38/example_5F00_skill_5F00_code_5F00_output_5F00_for_5F00_single_5F00_corner_5F00_of_5F00_open_5F00_assembler_5F00_database_5F00_sml_5F00_042222.txt%3F_%3D637862447980786852
+setup-cadence,https://users.cs.utah.edu/~elb/cadbook/Chapters/AppendixA/setup-cadence.txt
+cadence-quadspi.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/mtd/cadence-quadspi.txt
+Documentation/devicetree/bindings/watchdog/cadence-wdt.txt,https://android.googlesource.com/platform/external/linux-kselftest/%2B/d97034ccdf0a13ad86f00945df245bbaf0780478/Documentation/devicetree/bindings/watchdog/cadence-wdt.txt
+Documentation/devicetree/bindings/i2c/i2c-cadence.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/i2c/i2c-cadence.txt
+Software included in Cadence Package,http://ece451web.groups.et.byu.net/cadence-help/product_FEATURE_map.txt
+cadence-nand-controller.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/mtd/cadence-nand-controller.txt
