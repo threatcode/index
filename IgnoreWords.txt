@@ -6623,6 +6623,7 @@ backflipped
 backflow
 backgammons
 background
+backgrounded
 backgrounders
 backhand
 backhanded
@@ -8692,6 +8693,7 @@ bestride
 bestriding
 bestrode
 bestrowed
+bestrowing
 bests
 bestsellerdom
 bestud
@@ -11191,6 +11193,7 @@ braise
 braises
 braising
 braize
+braizes
 brake
 brakeage
 brakeages
@@ -11762,6 +11765,7 @@ broodiness
 broodinesses
 broodingly
 broodmare
+broodmares
 broods
 broody
 brooked
@@ -15953,6 +15957,7 @@ chirruped
 chiru
 chirurgeon
 chiseler
+chiseling
 chiselled
 chiselling
 chital
@@ -20661,6 +20666,7 @@ cosecs
 coseismal
 coseismics
 coses
+coset
 coshed
 coshered
 coshering
@@ -20969,6 +20975,7 @@ counterplot
 counterplots
 counterplotted
 counterploy
+counterpoint
 counterpoints
 counterpoise
 counterpoised
@@ -23554,6 +23561,7 @@ deaved
 deaves
 deaving
 debacle
+debar
 debarkation
 debarkations
 debarker
@@ -25014,6 +25022,7 @@ deporter
 deporters
 deportment
 deportments
+deports
 deposal
 deposals
 depose
@@ -25249,6 +25258,7 @@ desecrators
 desegregate
 desegregates
 desegregating
+desegregation
 desegregations
 deselects
 desensitization
@@ -29897,6 +29907,7 @@ effervesce
 effervesced
 effervescence
 effervescences
+effervescent
 effervescently
 effervesces
 effervescing
@@ -32474,6 +32485,7 @@ estimating
 estimator
 estivate
 estivates
+estivating
 estivations
 estivators
 estop
@@ -35290,6 +35302,7 @@ fidging
 fido
 fidos
 fids
+fiducially
 fiduciaries
 fiduciary
 fie
@@ -37574,6 +37587,7 @@ freakouts
 freckled
 freckles
 frecklier
+freckly
 free
 freebase
 freebaser
@@ -46750,6 +46764,7 @@ imparking
 imparks
 impart
 impartations
+imparted
 imparters
 impartiality
 impartible
@@ -52922,6 +52937,7 @@ latencies
 latened
 lateness
 latenesses
+latens
 latent
 latents
 later
@@ -53098,6 +53114,7 @@ lawbreakings
 lawed
 lawfulness
 lawgiver
+lawgivings
 lawing
 lawings
 lawless
@@ -53954,6 +53971,7 @@ light
 lightbulbs
 lighted
 lighten
+lightened
 lighteners
 lightening
 lightens
@@ -60153,6 +60171,7 @@ monetizes
 monetizing
 money
 moneybags
+moneyed
 moneyers
 moneygrubbings
 moneylender
@@ -61023,6 +61042,7 @@ mucosity
 mucro
 mucronate
 mucrones
+mucuses
 mudbug
 mudbugs
 mudcap
@@ -64066,6 +64086,7 @@ nonveteran
 nonveterans
 nonviable
 nonviewer
+nonvintage
 nonviolence
 nonviolent
 nonviolently
@@ -73251,6 +73272,7 @@ polarimeters
 polarimetric
 polariscope
 polariscopes
+polariscopic
 polarised
 polarises
 polarities
@@ -74700,6 +74722,7 @@ predynastic
 preeclampsias
 preedit
 preelect
+preelected
 preelection
 preelectric
 preelects
@@ -75962,6 +75985,7 @@ prognosticative
 prognosticator
 prognosticators
 prognostics
+prograde
 program
 programer
 programings
@@ -79645,6 +79669,7 @@ reconstitute
 reconstituted
 reconstitutes
 reconstituting
+reconstitution
 reconstruct
 reconstructed
 reconstructible
@@ -85143,6 +85168,7 @@ samoyeds
 samp
 sampans
 sample
+sampled
 samplings
 samsara
 samsaras
@@ -86627,6 +86653,7 @@ seabeach
 seabed
 seabeds
 seabirds
+seaboard
 seaboot
 seaborne
 seacoast
@@ -93844,6 +93871,7 @@ straights
 straightway
 strained
 strainer
+strainers
 straining
 strait
 straitened
@@ -96338,6 +96366,7 @@ sweepingnesses
 sweepings
 sweeps
 sweepstakes
+sweepy
 sweer
 sweetbread
 sweeten
@@ -96817,6 +96846,7 @@ synopsizes
 synoptic
 synoptical
 synoptically
+synostosis
 synovia
 synovial
 synovias
@@ -99162,6 +99192,7 @@ throttles
 throttling
 through
 throughither
+throughly
 throughother
 throw
 throwaway
@@ -101681,6 +101712,7 @@ trouping
 trousseaux
 troutier
 trouvere
+trouveres
 trove
 trowed
 trowel
@@ -102163,6 +102195,7 @@ turrets
 turrical
 turtle
 turtleback
+turtled
 turtledove
 turtledoves
 turtlehead
@@ -105295,6 +105328,7 @@ upgoing
 upgradabilities
 upgradability
 upgradeability
+upgradeable
 upgrades
 upgrading
 upgrew
@@ -106561,6 +106595,7 @@ vertebra
 vertebrae
 vertebras
 vertebrate
+vertebrates
 vertexes
 vertical
 verticalities
