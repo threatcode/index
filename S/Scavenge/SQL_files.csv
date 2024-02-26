@@ -1,0 +1,4 @@
+018_creature_template.sql - GitHub,https://github.com/TrinityCore/TDB_4.3.4_NLU/blob/master/old/updates_02/018_creature_template.sql
+132_creature_template.sql - GitHub,https://github.com/TrinityCore/TrinityCore/blob/master/sql/old/4.3.4/TDB1_to_TDB2_updates/world/132_creature_template.sql
+Blame - GitLab,https://gitlab.com/trinitycore/TrinityCore_434/blob/f430d2fd31ca04ee3c36baf794803caec8f2721b/sql/old/4.3.4/TDB01_to_TDB02_updates/world/006_quest_template.sql
+robin.thoni/docker-zabbix-server - git rthoni.com - Robin Thoni,https://git.rthoni.com/robin.thoni/docker-zabbix-server/src/46ccd85e9fc055a0cc154dfbec2070b31172805a/postgresql/docker-entrypoint-initdb.d/01_init.sql

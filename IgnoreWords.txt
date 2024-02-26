@@ -3416,6 +3416,7 @@ annotative
 annotator
 annotators
 announce
+announced
 announcement
 announcements
 announcer
@@ -4486,6 +4487,7 @@ approaches
 approbate
 approbated
 approbates
+approbating
 approbation
 approbations
 appropriated
@@ -7392,6 +7394,7 @@ barratry
 barred
 barrel
 barrelage
+barreled
 barrelful
 barrelhead
 barrelheads
@@ -10163,6 +10166,7 @@ bluffer
 bluffers
 bluffest
 bluffness
+bluffnesses
 bluing
 bluish
 bluishness
@@ -13184,6 +13188,7 @@ cambric
 cambrics
 camcorders
 came
+camel
 camelback
 cameleer
 camelhair
@@ -23650,6 +23655,7 @@ decaf
 decagon
 decagonal
 decagons
+decagram
 decagrams
 decahedra
 decahedron
@@ -28776,6 +28782,7 @@ dribblets
 dribbling
 dribbly
 driblets
+dried
 driegh
 drier
 driest
@@ -32894,6 +32901,7 @@ eventfully
 eventfulness
 eventides
 eventless
+events
 eventually
 eventuate
 eventuates
@@ -33265,6 +33273,7 @@ exequaturs
 exequial
 exequies
 exercisable
+exerciser
 exercisers
 exercitation
 exercycle
@@ -36451,6 +36460,7 @@ fluerics
 fluff
 fluffer
 fluffiest
+fluffinesses
 fluffs
 fluffy
 flugelhorn
@@ -37341,6 +37351,7 @@ fossilization
 fossilize
 fossilized
 fossilizes
+fossilizing
 fossils
 fossorial
 foster
@@ -39172,6 +39183,7 @@ geeked
 geekier
 geekiness
 geeks
+geeky
 geez
 geezer
 geezers
@@ -39319,6 +39331,7 @@ geniculated
 genie
 genies
 genii
+genipaps
 genistein
 genisteins
 genital
@@ -42603,6 +42616,7 @@ handspike
 handspikes
 handspring
 handstamp
+handstamps
 handstand
 handstands
 handwheel
@@ -43718,6 +43732,7 @@ hented
 henting
 hents
 heparinized
+heparins
 hepatectomies
 hepatectomized
 hepatectomy
@@ -47696,6 +47711,7 @@ indict
 indictable
 indictee
 indictees
+indicter
 indicting
 indictions
 indictment
@@ -56055,6 +56071,7 @@ malapropian
 malapropos
 malar
 malaria
+malarial
 malarias
 malariologies
 malariologists
@@ -56461,6 +56478,7 @@ manure
 manurers
 manures
 manurial
+manuring
 manus
 manuscript
 manward
@@ -58395,6 +58413,7 @@ micronizes
 micronizing
 microns
 micronuclei
+micronucleus
 micronutrient
 micronutrients
 microorganism
@@ -62593,6 +62612,7 @@ neuralgic
 neurally
 neuraminidase
 neurasthenia
+neurasthenic
 neurasthenics
 neurilemma
 neurilemmal
@@ -63491,6 +63511,7 @@ nondollar
 nondomestic
 nondormant
 nondramatic
+nondrinking
 nondrip
 nondrivers
 nondrug
@@ -67893,6 +67914,7 @@ oversecretion
 oversecretions
 oversee
 overseeded
+overseen
 overseer
 oversees
 oversell
@@ -71436,6 +71458,7 @@ phosphoruses
 phosphorylate
 phosphorylated
 phosphorylating
+phosphorylation
 phosphoryls
 photic
 photically
@@ -72501,6 +72524,7 @@ placks
 placoderms
 placoids
 plafond
+plafonds
 plage
 plagiarise
 plagiarises
@@ -76978,6 +77002,7 @@ pudginess
 pudginesses
 pudgy
 pudic
+pueblos
 puerile
 puerpera
 puerperae
@@ -83772,6 +83797,7 @@ rivulets
 rivulose
 riyal
 riyals
+roach
 roached
 road
 roadabilities
@@ -84339,6 +84365,7 @@ royalmast
 royalmasts
 royalty
 rozzers
+ruanas
 rubaboos
 rubace
 rubaces
@@ -85924,6 +85951,7 @@ scaupers
 scaups
 scaur
 scaurs
+scavenge
 scavenger
 scavenges
 scena
@@ -91465,6 +91493,7 @@ southwests
 southwestwards
 souvlaki
 souvlakias
+sovereignly
 sovereigns
 sovereignty
 soviet
@@ -91479,6 +91508,7 @@ sovkhozes
 sovkhozy
 sovranly
 sovranties
+sovranty
 sowable
 sowans
 sowbellies
@@ -97496,6 +97526,7 @@ taro
 tarocs
 taroks
 taros
+tarots
 tarp
 tarpans
 tarpaper
@@ -101291,6 +101322,7 @@ tricolor
 tricolored
 tricolors
 tricolour
+tricolours
 tricorn
 tricornered
 tricornes
@@ -103725,6 +103757,7 @@ undulators
 undulatory
 undutifully
 undutifulnesses
+undyed
 undying
 uneager
 uneagerly
@@ -107045,6 +107078,7 @@ virls
 viroids
 virological
 virologically
+virology
 virtual
 virtualities
 virtuality
@@ -107492,6 +107526,7 @@ vrows
 vug
 vuggier
 vuggs
+vugh
 vughs
 vulcanicity
 vulcanisate
