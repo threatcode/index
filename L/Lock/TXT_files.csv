@@ -1,0 +1,9 @@
+rt-mutex-design.txt,https://www.kernel.org/doc/Documentation/locking/rt-mutex-design.txt
+Locking - MIT PDOS,https://pdos.csail.mit.edu/6.824/labs/raft-locking.txt
+Documentation/locking/locktorture.txt - kernel/msm - Git at Google,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/locking/locktorture.txt
+requirements-dev-lock.txt - boto/s3transfer - GitHub,https://github.com/boto/s3transfer/blob/develop/requirements-dev-lock.txt
+Mandatory File Locking For The Linux Operating System,https://www.kernel.org/doc/Documentation/filesystems/mandatory-locking.txt
+tutorial_removing_lock_files.txt - CMOSedu.com,https://cmosedu.com/cmos1/cadence/remote_x/tutorial_removing_lock_files.txt
+Documentation/filesystems/dentry-locking.txt - kernel/msm - Google Git,https://android.googlesource.com/kernel/msm/%2B/3c22cd5709e8143444a6d08682a87f4c57902df3/Documentation/filesystems/dentry-locking.txt
+RFC 4918 - IETF,https://www.ietf.org/rfc/rfc4918.txt
+kamailio/doc/tutorials/locking.txt at master - GitHub,https://github.com/kamailio/kamailio/blob/master/doc/tutorials/locking.txt
