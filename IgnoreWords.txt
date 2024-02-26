@@ -1936,6 +1936,7 @@ albs
 album
 albumin
 albuminous
+albumins
 albuminuria
 albuminuric
 albumoses
@@ -3344,6 +3345,7 @@ animism
 animistic
 animosities
 animuses
+anion
 anionic
 anions
 anise
@@ -10856,6 +10858,7 @@ bothies
 bothrium
 bothriums
 bothy
+botonee
 botryoid
 botryoidal
 botryose
@@ -11640,6 +11643,7 @@ broadbills
 broadcaster
 broadcasts
 broadcloth
+broadcloths
 broaden
 broadener
 broadening
@@ -12138,6 +12142,7 @@ bullbriers
 bulldog
 bulldogged
 bulldogger
+bulldoggers
 bulldoggings
 bulldozed
 bulldozer
@@ -12592,6 +12597,7 @@ butteries
 butteriest
 butterless
 buttermilk
+buttermilks
 butternuts
 butterscotch
 butterscotches
@@ -18479,6 +18485,7 @@ commensurately
 commensuration
 commensurations
 comment
+commentary
 commentate
 commentated
 commentates
@@ -19833,6 +19840,7 @@ continuous
 continuousness
 continuum
 conto
+contort
 contorting
 contortion
 contortionist
@@ -20430,6 +20438,7 @@ cornerbacks
 cornered
 cornering
 cornerman
+cornermen
 corners
 cornerstone
 cornerways
@@ -22494,6 +22503,7 @@ curiosity
 curiouser
 curiousest
 curiously
+curite
 curium
 curiums
 curler
@@ -24141,6 +24151,7 @@ defensemen
 defenses
 defensibilities
 defensibly
+defensive
 defensively
 defensivenesses
 defensives
@@ -24441,6 +24452,7 @@ dekkos
 delaines
 delaminated
 delaminating
+delaminations
 delated
 delation
 delations
@@ -26543,6 +26555,7 @@ diploidies
 diploidy
 diploma
 diplomacy
+diplomat
 diplomates
 diplomatic
 diplomatically
@@ -27012,6 +27025,7 @@ disengagement
 disengagements
 disengages
 disentangled
+disentanglement
 disentangles
 disentangling
 disenthral
@@ -27357,6 +27371,7 @@ dispraising
 dispread
 dispreads
 disprizes
+disproof
 disproofs
 disproportion
 disproportioned
@@ -31698,6 +31713,7 @@ envied
 enviers
 envies
 envious
+environ
 environmentally
 environments
 environs
@@ -35582,6 +35598,7 @@ finitude
 fink
 finked
 finking
+finks
 finless
 finmark
 finmarks
@@ -38790,6 +38807,7 @@ gangliosides
 gangly
 gangplank
 gangplanks
+gangplows
 gangrel
 gangrene
 gangrenes
@@ -40480,6 +40498,7 @@ godhoods
 godless
 godlessly
 godlessness
+godliest
 godlike
 godlily
 godliness
@@ -43114,6 +43133,7 @@ hazzan
 hazzanim
 hazzans
 he
+head
 headache
 headaches
 headachey
@@ -49066,6 +49086,7 @@ interglacial
 intergradation
 intergradations
 intergrade
+intergrades
 intergraft
 intergrafting
 intergrafts
@@ -54118,6 +54139,7 @@ limitary
 limitational
 limitations
 limitative
+limited
 limitedly
 limitedness
 limitednesses
@@ -58443,6 +58465,7 @@ micropublishers
 micropublishing
 micropulsation
 micropuncture
+micropunctures
 micropyle
 microradiograph
 microreaders
@@ -60192,6 +60215,7 @@ money
 moneybags
 moneyed
 moneyers
+moneygrubbing
 moneygrubbings
 moneylender
 moneyless
@@ -66046,6 +66070,7 @@ orthogonalizes
 orthograde
 orthographic
 orthographies
+orthonormal
 orthopaedic
 orthopaedics
 orthopedically
@@ -74082,6 +74107,7 @@ postnatal
 postnatally
 postneonatal
 postoperatively
+postops
 postoral
 postorbital
 postorgasmic
@@ -74103,6 +74129,7 @@ postprison
 postproductions
 postpubescent
 postpunk
+postrace
 postretirement
 postrider
 postriders
@@ -76606,6 +76633,7 @@ protreptics
 protrude
 protrudes
 protruding
+protrusible
 protrusion
 protrusive
 protrusively
@@ -97295,6 +97323,7 @@ tamandu
 tamanduas
 tamandus
 tamarack
+tamarao
 tamarau
 tamari
 tamarillo
@@ -98564,6 +98593,7 @@ tetragrammaton
 tetragrammatons
 tetragrams
 tetrahedral
+tetrahedrite
 tetrahedrites
 tetrahedron
 tetrahedrons
@@ -99561,6 +99591,7 @@ timorousness
 timothies
 timothy
 timpani
+timpanists
 timpanum
 timpanums
 tinamou
@@ -102786,6 +102817,7 @@ umiaq
 umiaqs
 umlauted
 umlauting
+umlauts
 umm
 umping
 umpirages
@@ -107106,6 +107138,7 @@ visaged
 visages
 visaing
 viscacha
+viscachas
 viscera
 visceral
 viscerally
@@ -107982,6 +108015,7 @@ warrener
 warreners
 warrigal
 warrigals
+warring
 wars
 warsaws
 warship
@@ -109870,6 +109904,7 @@ worthing
 worthwhile
 worthwhileness
 worthy
+worts
 wotted
 would
 wouldest
