@@ -1,0 +1,2 @@
+fs12M.sql - GitHub,https://github.com/Altinity/clickhouse-sts/blob/master/tests/008_mergetree_index_granularity_64/docker-entrypoint-initdb.d/fs12M.sql
+int20M.sql - GitHub,https://github.com/Altinity/clickhouse-sts/blob/master/tests/007_mergetree_index_granularity_32/docker-entrypoint-initdb.d/int20M.sql
