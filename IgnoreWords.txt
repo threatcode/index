@@ -1338,6 +1338,7 @@ affectednesses
 affecting
 affectingly
 affection
+affectional
 affectionate
 affectionately
 affectionless
@@ -3689,6 +3690,7 @@ antiars
 antiarthritic
 antiarthritics
 antiasthma
+antiatom
 antiauxin
 antiauxins
 antibacklash
@@ -4543,6 +4545,7 @@ approbates
 approbating
 approbation
 approbations
+appropriate
 appropriated
 appropriateness
 appropriation
@@ -7962,6 +7965,7 @@ beclowning
 beclowns
 becoming
 becomings
+becoward
 becowarding
 becowards
 becrawled
@@ -8632,6 +8636,7 @@ bereaver
 bereavers
 beret
 berets
+beretta
 bergamot
 bergere
 bergeres
@@ -14516,6 +14521,7 @@ catalyzers
 catalyzes
 catalyzing
 catamaran
+catamenia
 catamenial
 catamite
 catamites
@@ -15865,6 +15871,7 @@ chesterfield
 chesterfields
 chestful
 chestfuls
+chestiest
 chestily
 chestnut
 chestnuts
@@ -17662,6 +17669,7 @@ coassisting
 coassists
 coassume
 coassumes
+coast
 coasted
 coasters
 coastguardman
@@ -18262,6 +18270,7 @@ colicins
 colickiest
 colicky
 colicweed
+colicweeds
 coliform
 colin
 colinearities
@@ -18732,6 +18741,7 @@ commix
 commixes
 commixture
 commixtures
+commodes
 commodifies
 commodify
 commodifying
@@ -20094,6 +20104,7 @@ contrapositives
 contraption
 contraptions
 contrapuntal
+contrapuntally
 contrapuntist
 contrapuntists
 contrarians
@@ -20836,6 +20847,7 @@ corsetries
 cortege
 corteges
 cortex
+cortical
 cortically
 cortices
 corticoid
@@ -25002,6 +25014,7 @@ demotist
 demotists
 demount
 demounted
+dempster
 dempsters
 demulcent
 demulcents
@@ -26173,6 +26186,7 @@ dialyse
 dialysed
 dialyser
 dialysers
+dialyses
 dialysing
 dialysis
 dialytic
@@ -35531,6 +35545,7 @@ feverishnesses
 feverous
 feverroot
 feverroots
+fevers
 feverweed
 feverweeds
 feverwort
@@ -36913,6 +36928,7 @@ fluorines
 fluorins
 fluorite
 fluorites
+fluorocarbons
 fluorochrome
 fluorochromes
 fluorographic
@@ -39391,6 +39407,7 @@ gasogenes
 gasohol
 gasohols
 gasolenes
+gasolier
 gasolines
 gasolinic
 gasometer
@@ -44908,6 +44925,7 @@ hodden
 hoddin
 hoddins
 hodgepodges
+hodoscope
 hods
 hoecakes
 hoed
@@ -45100,6 +45118,7 @@ homeomorphism
 homeomorphisms
 homeopath
 homeopathically
+homeopathies
 homeopaths
 homeopathy
 homeostases
@@ -46527,6 +46546,7 @@ hypocorisms
 hypocoristic
 hypocoristical
 hypocotyl
+hypocotyls
 hypocrites
 hypocritically
 hypocycloid
@@ -56037,6 +56057,7 @@ lusting
 lustra
 lustral
 lustrates
+lustrating
 lustration
 lustrations
 lustre
@@ -68088,6 +68109,7 @@ overdocument
 overdocumented
 overdocumenting
 overdoers
+overdog
 overdoing
 overdominances
 overdominant
@@ -68118,6 +68140,7 @@ overdrying
 overdubbing
 overdue
 overdye
+overdyed
 overdyeing
 overdyers
 overeagernesses
@@ -71368,6 +71391,7 @@ peridotitic
 perigeal
 perigean
 perigees
+perigon
 perigynies
 perigynous
 perihelia
@@ -81562,6 +81586,7 @@ regularizing
 regularly
 regulate
 regulated
+regulates
 regulating
 regulation
 regulations
@@ -85093,6 +85118,7 @@ rouble
 roubles
 rouche
 rouches
+roue
 rouens
 rouge
 rouged
@@ -96783,6 +96809,7 @@ superorganisms
 superorgasm
 superorgasms
 superovulate
+superovulated
 superovulates
 superovulating
 superovulation
@@ -100946,6 +100973,7 @@ tolbooths
 tolbutamide
 tole
 tolerabilities
+tolerances
 tolerant
 tolerantly
 tolerate
@@ -101558,6 +101586,7 @@ tracheitis
 tracheolar
 tracheole
 tracheoles
+tracheophyte
 tracheophytes
 tracheostomies
 tracheotomy
@@ -102505,6 +102534,7 @@ trinary
 trindled
 trindles
 trined
+trines
 trinitarian
 trinitrotoluene
 trinity
@@ -103490,6 +103520,7 @@ twittering
 twitters
 twittery
 twitting
+twixt
 twofer
 twofold
 twofolds
@@ -104888,6 +104919,7 @@ unenlarged
 unenlightened
 unenlightening
 unenriched
+unentered
 unenterprising
 unenthusiastic
 unenvied
@@ -104984,6 +105016,7 @@ unfilmed
 unfinished
 unfit
 unfitly
+unfitness
 unfitnesses
 unfix
 unfixes
@@ -106028,6 +106061,7 @@ unsounded
 unsoundly
 unsoundness
 unsourced
+unsoured
 unsowed
 unsown
 unsparing
@@ -109309,6 +109343,7 @@ wattmeter
 wattmeters
 watts
 waucht
+wauchted
 wauchts
 waugh
 waught
