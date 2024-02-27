@@ -418,6 +418,7 @@ acedias
 aceldama
 aceldamas
 acellular
+acephalic
 acequia
 acequias
 acerated
@@ -1998,6 +1999,7 @@ aldoses
 aldosterone
 aldosterones
 aldosteronism
+aldrin
 ale
 aleatoric
 aleatory
@@ -3702,6 +3704,7 @@ antichlor
 antichoice
 antichoicer
 anticholesterol
+anticipant
 anticipatable
 anticipate
 anticipating
@@ -4425,6 +4428,7 @@ appetitive
 appetizer
 applaudable
 applaudably
+applauder
 applauders
 applauding
 applauds
@@ -8959,6 +8963,7 @@ bibliopolist
 bibliopolists
 bibliotheca
 bibliothecae
+bibliothecal
 bibliotherapies
 bibliotherapy
 bibliotist
@@ -9119,6 +9124,7 @@ bijou
 bijous
 bijouterie
 bijoux
+bijugous
 bike
 biked
 biker
@@ -11436,6 +11442,7 @@ breakable
 breakage
 breakages
 breakaway
+breakaways
 breaker
 breakers
 breakeven
@@ -16000,6 +16007,7 @@ chinned
 chinning
 chinoiseries
 chinook
+chinooks
 chintses
 chintz
 chintzes
@@ -17676,6 +17684,7 @@ cocarcinogen
 cocarcinogenic
 cocarcinogens
 cocatalysts
+coccal
 cocci
 coccic
 coccid
@@ -21788,6 +21797,7 @@ crescents
 crescive
 cresols
 cresses
+cresset
 cressets
 crestal
 crested
@@ -22894,6 +22904,7 @@ cyberspace
 cyberspaces
 cycad
 cycadeoid
+cycadophyte
 cycadophytes
 cycads
 cycas
@@ -23437,6 +23448,7 @@ darnedest
 darnedests
 darnel
 darnels
+darnings
 darns
 darshan
 dart
@@ -25465,6 +25477,7 @@ designate
 designated
 designates
 designation
+designators
 designatory
 designed
 designee
@@ -27378,6 +27391,7 @@ dismantled
 dismantling
 dismasted
 dismasts
+dismaying
 dismayingly
 dismays
 dismember
@@ -28376,6 +28390,7 @@ doomsayings
 doomsdayers
 doomsdays
 doomsters
+door
 doorjambs
 doorkeeper
 doorkeepers
@@ -29893,6 +29908,7 @@ ecocatastrophes
 ecocide
 ecocides
 ecofeminism
+ecofeminisms
 ecofeminists
 ecofreak
 ecofreaks
@@ -30162,6 +30178,7 @@ egestive
 egests
 egg
 eggar
+eggars
 eggbeater
 eggbeaters
 eggcup
@@ -30362,6 +30379,7 @@ electrify
 electro
 electroacoustic
 electroanalysis
+electrocute
 electrocuted
 electrocutes
 electrocution
@@ -30650,6 +30668,7 @@ embarrasses
 embarrassing
 embarrassments
 embarring
+embars
 embattlement
 embattlements
 embattles
@@ -31474,6 +31493,7 @@ engs
 engulf
 engulfed
 engulfment
+engulfments
 enhaloed
 enhaloes
 enhaloing
@@ -31586,6 +31606,7 @@ enplaning
 enquire
 enquired
 enquires
+enquiries
 enquiring
 enrage
 enragedly
@@ -36040,6 +36061,7 @@ fizzy
 fjords
 flab
 flabbergast
+flabbergasted
 flabbier
 flabbiest
 flabbinesses
@@ -36605,6 +36627,7 @@ flossed
 flosser
 flossier
 flossies
+flossily
 flossing
 flossy
 flota
@@ -45435,6 +45458,7 @@ hotdogger
 hotdoggers
 hotdogs
 hotel
+hoteldoms
 hoteliers
 hotfoot
 hotfooted
@@ -47386,6 +47410,7 @@ improvisations
 improvisator
 improvisatores
 improvisatori
+improvisators
 improvisatory
 improvise
 improvised
@@ -57011,6 +57036,7 @@ marlinespikes
 marling
 marlins
 marlinspike
+marlinspikes
 marlite
 marlites
 marlstone
@@ -82321,6 +82347,7 @@ reposefulness
 reposer
 reposing
 reposit
+reposited
 repositing
 reposition
 repositioned
@@ -85701,6 +85728,7 @@ sambal
 sambals
 sambar
 sambars
+sambhar
 sambhur
 sambhurs
 sambos
@@ -89842,6 +89870,7 @@ sinfulnesses
 singalong
 singer
 singers
+singled
 singleness
 singlenesses
 singles
@@ -94659,6 +94688,7 @@ streptothricins
 stress
 stressed
 stresses
+stressful
 stressfully
 stressors
 stretchability
@@ -99308,6 +99338,7 @@ thaumaturgist
 thaumaturgists
 thawed
 thawers
+thawing
 thawless
 thaws
 the
@@ -99390,6 +99421,7 @@ theology
 theonomies
 theonomy
 theophanic
+theorbo
 theorematic
 theorems
 theoretic
@@ -101297,6 +101329,7 @@ trammed
 trammel
 trammeled
 trammeler
+trammelers
 trammeling
 trammelled
 trammels
@@ -103103,6 +103136,7 @@ tympanites
 tympano
 tympany
 tyne
+tynes
 tyning
 typal
 type
@@ -107816,6 +107850,7 @@ visitable
 visitant
 visitants
 visitation
+visitations
 visitatorial
 visited
 visiters
