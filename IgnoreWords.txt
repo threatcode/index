@@ -4885,6 +4885,7 @@ arid
 aridities
 aridity
 aridly
+aridnesses
 ariels
 arietta
 ariettas
@@ -4960,6 +4961,7 @@ armoured
 armourer
 armourers
 armouries
+armouring
 armpits
 armrests
 armsful
@@ -5358,6 +5360,7 @@ asps
 asquint
 asrama
 assagai
+assagais
 assai
 assailable
 assailant
@@ -11822,6 +11825,7 @@ brontosauruses
 bronze
 bronzed
 bronzer
+bronzers
 bronzes
 bronziest
 bronzings
@@ -13631,6 +13635,7 @@ capaciously
 capaciousness
 capaciousnesses
 capacitance
+capacitances
 capacitated
 capacitates
 capacitating
@@ -13952,6 +13957,7 @@ cardiae
 cardias
 cardigan
 cardigans
+cardinal
 cardinalate
 cardinalates
 cardinals
@@ -20270,6 +20276,7 @@ copalms
 copals
 coparcener
 coparented
+coparents
 copartner
 copartnered
 copartnering
@@ -28192,6 +28199,7 @@ dolefully
 dolefulnesses
 dolerites
 doleritic
+doles
 dolesome
 dolichocephalic
 dolichocephaly
@@ -28893,6 +28901,7 @@ dreamworlds
 dreamy
 drearier
 drearies
+dreariness
 drearinesses
 drears
 drecks
@@ -30630,6 +30639,7 @@ embarrass
 embarrassable
 embarrassed
 embarrassedly
+embarrasses
 embarrassing
 embarrassments
 embarring
@@ -34029,6 +34039,7 @@ extramural
 extramurally
 extramusical
 extraneous
+extraneousness
 extranet
 extranets
 extranuclear
@@ -38300,6 +38311,7 @@ fugitives
 fugle
 fugled
 fugleman
+fuglemen
 fugling
 fugs
 fugu
@@ -45482,6 +45494,7 @@ houseleeks
 houselessness
 houselessnesses
 houselled
+housels
 housemaid
 housemaids
 housemates
@@ -45623,6 +45636,7 @@ humanising
 humanism
 humanisms
 humanist
+humanistic
 humanists
 humanitarianism
 humanitarians
@@ -51817,6 +51831,7 @@ kerf
 kerfed
 kerfing
 kerfs
+kerfuffles
 kermess
 kermesse
 kermesses
@@ -54180,6 +54195,7 @@ licensable
 licenses
 licensing
 licensor
+licensure
 licensures
 licentiate
 licentious
@@ -55919,6 +55935,7 @@ lysing
 lysins
 lysis
 lysogen
+lysogenicities
 lysogenicity
 lysogenies
 lysogenise
@@ -62996,6 +63013,7 @@ neurologically
 neurologist
 neurologists
 neurology
+neuroma
 neuromas
 neuromast
 neuromasts
@@ -63454,6 +63472,7 @@ nobblers
 nobbling
 nobiliary
 nobility
+noble
 nobleman
 noblemen
 nobleness
@@ -74116,6 +74135,7 @@ pontification
 pontifications
 pontificator
 pontifices
+pontil
 ponton
 pontoon
 pontoons
@@ -76366,6 +76386,7 @@ professorial
 professoriat
 professoriats
 professors
+professorship
 professorships
 proffered
 profferers
@@ -80441,6 +80462,7 @@ redigressed
 redigressing
 reding
 redingotes
+redintegrate
 redintegrated
 redintegrates
 redintegrating
@@ -82099,6 +82121,7 @@ repasts
 repatched
 repatriates
 repatriating
+repatriation
 repatriations
 repatterning
 repave
@@ -86191,6 +86214,7 @@ sawfishes
 sawflies
 sawfly
 sawhorse
+sawhorses
 sawing
 sawlike
 sawmill
@@ -90472,6 +90496,7 @@ slickly
 slickness
 slickrock
 slickrocks
+slicks
 slickster
 slicksters
 slid
@@ -92459,6 +92484,7 @@ spermophile
 spermophiles
 spermous
 sperms
+sperrylite
 spessartines
 spessartite
 spessartites
@@ -96677,6 +96703,7 @@ surpluses
 surplusing
 surplussed
 surplusses
+surprinted
 surprinting
 surprisals
 surprise
@@ -100574,6 +100601,7 @@ tondo
 tonearm
 tonearms
 tonelessness
+tonelessnesses
 toneme
 toners
 tonetic
@@ -102879,6 +102907,7 @@ twa
 twaddler
 twaddlers
 twaddling
+twae
 twaes
 twains
 twanger
@@ -105219,6 +105248,7 @@ unpuzzling
 unquaking
 unqualified
 unquelled
+unquenchable
 unquestionable
 unquestionably
 unquestioned
@@ -109194,6 +109224,7 @@ westernizations
 westernize
 westernized
 westernmost
+westers
 westings
 wests
 westward
@@ -110674,6 +110705,7 @@ xenocrysts
 xenodiagnoses
 xenodiagnosis
 xenodiagnostic
+xenogamy
 xenogeneic
 xenogenic
 xenogenies
@@ -110801,6 +110833,7 @@ yammerers
 yammering
 yamulka
 yamun
+yang
 yangs
 yank
 yanked
@@ -111048,6 +111081,7 @@ yores
 yottabyte
 yottabytes
 you
+young
 youngberries
 youngberry
 youngers
@@ -111337,6 +111371,7 @@ zoarial
 zoarium
 zocalo
 zocalos
+zodiacal
 zodiacs
 zoeae
 zoeal
