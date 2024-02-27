@@ -1604,6 +1604,7 @@ aggressivities
 aggressor
 aggrievement
 aggrievements
+aggro
 aggros
 agile
 agilely
@@ -1992,6 +1993,7 @@ alderfly
 alderman
 aldermanic
 alderwoman
+aldicarb
 aldicarbs
 aldol
 aldolases
@@ -4265,6 +4267,7 @@ apocopate
 apocopates
 apocopating
 apocopes
+apocopic
 apocrine
 apocrypha
 apocryphally
@@ -15133,6 +15136,7 @@ cerussites
 cervelas
 cervelat
 cervelats
+cerveza
 cervical
 cervices
 cervicitis
@@ -18381,6 +18385,7 @@ colonizer
 colonizes
 colonizing
 colonnade
+colonnaded
 colonnades
 colonus
 colophonies
@@ -21293,6 +21298,7 @@ couture
 couturieres
 couturiers
 couvade
+couvades
 covalences
 covalencies
 covalent
@@ -26805,6 +26811,7 @@ directrix
 directrixes
 directs
 direfully
+direly
 direness
 direnesses
 direr
@@ -32478,6 +32485,7 @@ errantries
 errantry
 erratas
 erratic
+erratical
 erraticism
 erratum
 errhine
@@ -33172,6 +33180,7 @@ evidential
 evidentially
 evil
 evildoer
+evildoers
 evildoing
 eviler
 evilest
@@ -37823,6 +37832,7 @@ fraternizations
 fraternize
 fraternized
 fraternizer
+fraters
 fratricide
 fratricides
 frats
@@ -39140,6 +39150,7 @@ gardenfuls
 gardenias
 gardening
 garderobes
+gardyloo
 garfish
 garfishes
 garganey
@@ -46009,6 +46020,7 @@ hydrologists
 hydrolysates
 hydrolyses
 hydrolysis
+hydrolyte
 hydrolyzable
 hydrolyzates
 hydrolyzed
@@ -50673,6 +50685,7 @@ jackknife
 jackknifed
 jackknifes
 jackknives
+jackleg
 jacklegs
 jacklight
 jacklighted
@@ -52439,6 +52452,7 @@ knopped
 knot
 knotgrass
 knotgrasses
+knothole
 knotless
 knotlike
 knots
@@ -62783,6 +62797,7 @@ negatron
 negatrons
 neglect
 neglected
+neglecter
 neglecters
 neglectful
 neglectfulness
@@ -63234,6 +63249,7 @@ nibbing
 nibble
 nibbled
 nibbler
+nibblers
 nibbles
 nibbling
 niblicks
@@ -66936,6 +66952,7 @@ outearn
 outearned
 outearning
 outearns
+outeat
 outeaten
 outeating
 outechoed
@@ -67727,6 +67744,7 @@ overbroad
 overbrowse
 overbrowsed
 overbrowsing
+overbrutal
 overbuild
 overbuilding
 overbuilt
@@ -69675,6 +69693,7 @@ parasitosis
 parasoled
 parasols
 parasynthesis
+paratactic
 paratactically
 parataxes
 parataxis
@@ -72604,6 +72623,7 @@ pinas
 pinaster
 pinasters
 pinata
+pinatas
 pinballs
 pinbone
 pinbones
@@ -75603,6 +75623,7 @@ prepares
 prepasted
 prepastes
 prepasting
+prepave
 prepaving
 prepay
 prepaying
@@ -80302,6 +80323,7 @@ recouples
 recoupling
 recoupment
 recoupments
+recoups
 recourses
 recover
 recoverability
@@ -83337,6 +83359,7 @@ retouch
 retouched
 retouches
 retouching
+retraced
 retracer
 retracers
 retraces
@@ -84207,6 +84230,7 @@ rimshots
 rin
 rind
 rinded
+rinderpest
 rindless
 rinds
 ringbark
@@ -84904,6 +84928,7 @@ routinizations
 routinize
 routinized
 rove
+roving
 rovingly
 row
 rowable
@@ -85778,6 +85803,7 @@ samp
 sampans
 sample
 sampled
+samples
 samplings
 samsara
 samsaras
@@ -89395,6 +89421,7 @@ shticks
 shticky
 shtik
 shucking
+shuddered
 shuddering
 shuffle
 shuffleboards
@@ -89873,6 +89900,7 @@ simultaneity
 simultaneous
 sin
 sinapism
+sincerely
 sincerer
 sincerities
 sincerity
@@ -95297,6 +95325,7 @@ subfiles
 subfix
 subfixes
 subfloor
+subfossil
 subframe
 subframes
 subfreezing
@@ -99216,6 +99245,7 @@ tetanoid
 tetanus
 tetartohedral
 tetched
+tetchier
 tetchiest
 tetchily
 tetchiness
@@ -101990,6 +102020,7 @@ trichoses
 trichosis
 trichothecene
 trichotomous
+trichotomously
 trichroic
 trichromatism
 trichromatisms
@@ -102463,6 +102494,7 @@ trowels
 trows
 trowsers
 trowth
+trowths
 troys
 truancy
 truant
@@ -103169,6 +103201,7 @@ tympanites
 tympano
 tympany
 tyne
+tyned
 tynes
 tyning
 typal
@@ -108645,6 +108678,7 @@ warder
 warding
 wardress
 wardrobe
+wardrobed
 wardrobes
 wardrobing
 wardrooms
@@ -111600,6 +111634,7 @@ zygapophyses
 zygapophysis
 zygodactyl
 zygoid
+zygomas
 zygomata
 zygomatics
 zygomorphic
