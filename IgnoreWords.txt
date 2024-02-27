@@ -1042,6 +1042,7 @@ adscripts
 adsorb
 adsorbable
 adsorbate
+adsorbed
 adsorbent
 adsorber
 adsorbers
@@ -5291,6 +5292,7 @@ askew
 askewnesses
 askings
 askoi
+askos
 asks
 aslant
 asleep
@@ -10549,6 +10551,7 @@ bombinated
 bombinates
 bombinating
 bombination
+bombinations
 bombing
 bombings
 bomblets
@@ -13788,6 +13791,7 @@ capuches
 capuchin
 capuchins
 caput
+capybara
 carabao
 carabid
 carabin
@@ -25438,6 +25442,7 @@ deserving
 deservings
 desexed
 desexes
+desexualize
 desexualized
 deshabille
 deshabilles
@@ -27226,6 +27231,7 @@ disgracefulness
 disgracers
 disgraces
 disgruntlement
+disgruntlements
 disgruntles
 disguise
 disguisement
@@ -29600,6 +29606,7 @@ dynels
 dynode
 dynodes
 dynorphin
+dynorphins
 dysarthrias
 dyscrasias
 dysenteric
@@ -34391,6 +34398,7 @@ faintest
 fainthearted
 faintishnesses
 faintly
+faintnesses
 faints
 fairer
 fairgoer
@@ -34666,6 +34674,7 @@ farnesses
 faro
 farouche
 farraginous
+farrago
 farragoes
 farrieries
 farriery
@@ -36266,6 +36275,7 @@ flaunts
 flaunty
 flavanol
 flavanols
+flavanone
 flavanones
 flavin
 flavine
@@ -38650,6 +38660,7 @@ fyces
 fyke
 fylfot
 fylfots
+fytte
 fyttes
 gab
 gabardines
@@ -39061,6 +39072,7 @@ gaposises
 gapped
 gappier
 gappiest
+gapping
 gappy
 gar
 garage
@@ -51477,6 +51489,7 @@ juttying
 juvenescence
 juvenescences
 juvenile
+juveniles
 juvenilia
 juvenilities
 juvenility
@@ -52818,6 +52831,8 @@ lagger
 laggings
 lagnappes
 lagniappe
+lagniappes
+lagomorph
 lagoon
 lagoons
 lags
@@ -55900,6 +55915,7 @@ lyophilizations
 lyophilized
 lyophilizer
 lyophilizes
+lyophilizing
 lyophobic
 lyrate
 lyrately
@@ -57237,6 +57253,7 @@ mastoidectomy
 mastoiditis
 mastoids
 mastopexies
+mastopexy
 masts
 masturbated
 masturbates
@@ -65440,6 +65457,7 @@ octonaries
 octonary
 octopi
 octoploid
+octopod
 octopodes
 octopuses
 octoroon
@@ -65659,6 +65677,7 @@ oily
 oink
 oinked
 oinks
+oinology
 oinomels
 ointments
 oiticica
@@ -66495,6 +66514,7 @@ oses
 osiered
 osiers
 osmatic
+osmeteria
 osmeterium
 osmium
 osmiums
@@ -67267,6 +67287,7 @@ outrun
 outrung
 outrunning
 outruns
+outrushed
 outrushes
 outrushing
 outs
@@ -70795,6 +70816,7 @@ pentenes
 penthouse
 pentlandites
 pentobarbital
+pentobarbitals
 pentobarbitone
 pentobarbitones
 pentode
@@ -73574,6 +73596,7 @@ pocketbooks
 pocketers
 pocketful
 pocketknives
+pockets
 pocketsful
 pockier
 pockiest
@@ -74408,6 +74431,7 @@ postbourgeois
 postboys
 postburn
 postcardlike
+postcards
 postcaval
 postcavas
 postcodes
@@ -75561,6 +75585,7 @@ prepossessed
 prepossessing
 preposterous
 preposterously
+prepotencies
 prepotency
 preppier
 preppies
@@ -76669,6 +76694,7 @@ propagators
 propagule
 propagules
 propanes
+propellant
 propellants
 propelled
 propellent
@@ -79196,6 +79222,7 @@ rash
 rasher
 rashes
 rashest
+rashlike
 rashly
 rashness
 rasing
@@ -80175,6 +80202,7 @@ recontacted
 recontacting
 recontaminate
 recontaminated
+recontaminates
 recontaminating
 recontamination
 recontextualize
@@ -80849,6 +80877,7 @@ refiled
 refiles
 refiling
 refill
+refilling
 refills
 refilmed
 refiltered
@@ -87458,6 +87487,7 @@ sederunt
 sedges
 sedgier
 sedgiest
+sedgy
 sedilia
 sedimentable
 sedimentary
@@ -88026,6 +88056,7 @@ sepiolites
 sepoys
 septage
 septages
+septal
 septaria
 septarium
 septate
@@ -88201,6 +88232,7 @@ seropositivity
 serosa
 serosal
 serosity
+serotinal
 serotine
 serotines
 serotinies
@@ -88636,6 +88668,7 @@ shauled
 shavable
 shave
 shaved
+shaveling
 shaven
 shaver
 shavers
@@ -90677,6 +90710,7 @@ slowpoke
 slowpokes
 slows
 slowworms
+sloyd
 slubbered
 slubbering
 slubbers
@@ -96013,6 +96047,7 @@ summiteers
 summiting
 summitry
 summits
+summon
 summonable
 summoned
 summoner
