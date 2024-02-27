@@ -361,6 +361,7 @@ accoutered
 accouterment
 accouters
 accoutred
+accoutrement
 accoutrements
 accoutres
 accredit
@@ -1393,6 +1394,7 @@ afflicted
 afflicter
 afflicters
 afflicting
+afflictive
 afflicts
 affluence
 affluences
@@ -6153,6 +6155,7 @@ autografts
 autograph
 autographed
 autographic
+autographically
 autographies
 autographing
 autographs
@@ -11736,6 +11739,7 @@ briquette
 brisance
 brisances
 brises
+brisk
 brisker
 briskest
 brisking
@@ -22000,6 +22004,7 @@ criminally
 criminate
 criminated
 criminations
+crimine
 crimini
 criminis
 criminological
@@ -23207,6 +23212,7 @@ cytaster
 cytasters
 cytochalasin
 cytochemical
+cytochemistries
 cytochemistry
 cytochrome
 cytochromes
@@ -23742,6 +23748,7 @@ deaconries
 deaconry
 deacons
 deactivates
+deactivations
 deactivator
 deactivators
 deadbeats
@@ -28274,11 +28281,13 @@ doest
 doeth
 doff
 doffer
+doffers
 doffing
 doffs
 dog
 dogbane
 dogbanes
+dogberries
 dogberry
 dogcatcher
 dogcatchers
@@ -29962,6 +29971,7 @@ eateries
 eatery
 eath
 eating
+eats
 eaves
 eavesdropper
 eavesdroppers
@@ -32007,6 +32017,7 @@ entranced
 entrancement
 entrancements
 entrances
+entranceway
 entranceways
 entrancing
 entrant
@@ -33156,6 +33167,7 @@ euphenic
 euphenics
 euphonic
 euphonies
+euphonious
 euphoniously
 euphoniousness
 euphonium
@@ -33529,6 +33541,7 @@ excised
 excisemen
 excises
 excising
+excision
 excisions
 excitabilities
 excitability
@@ -40394,6 +40407,7 @@ gizmos
 gizzard
 gjetost
 glabella
+glabellar
 glabrescent
 glace
 glaceed
@@ -48452,6 +48466,7 @@ indulins
 indurate
 indurated
 induration
+indurations
 indurative
 indusial
 indusiate
@@ -50881,6 +50896,7 @@ itinerary
 itinerate
 itinerated
 itinerates
+its
 itself
 ivied
 ivies
@@ -54011,6 +54027,7 @@ lectureships
 lecturing
 lecythi
 lecythus
+led
 lederhosen
 ledges
 ledgiest
@@ -64792,6 +64809,7 @@ nonstatistical
 nonsteroid
 nonsteroidal
 nonstick
+nonsticky
 nonstop
 nonstops
 nonstories
@@ -66053,6 +66071,7 @@ oilpaper
 oilpapers
 oils
 oilseed
+oilseeds
 oilskin
 oilskins
 oilstones
@@ -66578,6 +66597,7 @@ oratorically
 oratories
 oratorio
 oratory
+oratress
 oratresses
 oratrices
 oratrix
@@ -68594,6 +68614,7 @@ overpackages
 overpackaging
 overpacks
 overpaid
+overparticular
 overpass
 overpasses
 overpassing
@@ -70010,6 +70031,7 @@ paras
 parasailing
 parasangs
 parasexual
+parasexualities
 parashioth
 parashot
 parashoth
@@ -71016,6 +71038,7 @@ peignoirs
 pein
 peined
 peining
+peins
 peises
 pejorative
 pejoratively
@@ -73211,6 +73234,7 @@ piroplasms
 piroque
 piroques
 piroshki
+pirouette
 pirouetted
 pirouettes
 pirozhki
@@ -73942,6 +73966,7 @@ plundering
 plunger
 plungers
 plunked
+plunker
 plunkers
 plunky
 pluperfect
@@ -78797,6 +78822,7 @@ quarts
 quartz
 quartzite
 quartzites
+quartzose
 quartzous
 quasars
 quashes
@@ -85220,6 +85246,7 @@ rotis
 rotisserie
 rotisseries
 rotl
+rotls
 roto
 rotogravures
 rotors
@@ -87041,6 +87068,7 @@ schedules
 scheelite
 schema
 schemas
+schematic
 schematisms
 schematization
 schematize
@@ -90974,6 +91002,7 @@ sleazier
 sleazily
 sleaziness
 sleazoids
+sled
 sledder
 sledding
 sleddings
@@ -94904,6 +94933,7 @@ stooging
 stooking
 stooks
 stool
+stooled
 stoolie
 stooling
 stools
@@ -103499,6 +103529,7 @@ tushies
 tushing
 tushy
 tusk
+tusked
 tusker
 tussah
 tussahs
@@ -105617,6 +105648,7 @@ unlettered
 unlevel
 unleveled
 unleveling
+unlevelled
 unlevels
 unliberated
 unlicensed
@@ -106372,6 +106404,7 @@ untethers
 unthanked
 unthawed
 untheoretical
+unthink
 unthinkability
 unthinkable
 unthinkably
@@ -110115,6 +110148,7 @@ whimsies
 whimsy
 whined
 whiner
+whiners
 whines
 whiney
 whingding
@@ -111854,6 +111888,7 @@ yurts
 yutz
 zabaglione
 zabagliones
+zabaione
 zabaiones
 zabajone
 zabajones
