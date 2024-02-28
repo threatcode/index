@@ -3941,6 +3941,7 @@ antinepotism
 antineutrino
 anting
 antinode
+antinoise
 antinome
 antinomes
 antinomianism
@@ -7955,6 +7956,7 @@ beasts
 beat
 beatable
 beaten
+beater
 beaters
 beatific
 beatifically
@@ -11025,6 +11027,7 @@ bosques
 bosquet
 bosquets
 bossdom
+bossed
 bossier
 bossies
 bossiest
@@ -11180,6 +11183,7 @@ bourns
 bourree
 bourride
 bourrides
+bourse
 boursins
 bourtree
 bouse
@@ -14057,6 +14061,7 @@ carbaryls
 carbazole
 carbide
 carbine
+carbineer
 carbineers
 carbines
 carbinol
@@ -16346,6 +16351,7 @@ chlorobenzenes
 chloroform
 chloroforms
 chlorophyll
+chlorophyllous
 chloroplast
 chloroprene
 chloroquine
@@ -17172,6 +17178,7 @@ clapboards
 clapped
 clapper
 clapperclaw
+clapperclawed
 clapperclaws
 clappers
 clapping
@@ -21161,6 +21168,7 @@ costrel
 costrels
 costumer
 costumeries
+costumers
 costumey
 costumier
 cosurfactants
@@ -26294,6 +26302,7 @@ dezincing
 dezincked
 dezincking
 dezincs
+dhak
 dhaks
 dhals
 dharmic
@@ -27537,6 +27546,7 @@ disengage
 disengagement
 disengagements
 disengages
+disengaging
 disentangled
 disentanglement
 disentangles
@@ -29755,6 +29765,7 @@ dumpsters
 dumptruck
 dumpy
 dunam
+dunams
 dunce
 dunces
 duncical
@@ -36822,6 +36833,7 @@ fledgier
 flee
 fleece
 fleeced
+fleecers
 fleeces
 fleech
 fleeches
@@ -37814,6 +37826,7 @@ foreshown
 foreshows
 foreside
 foresides
+foresight
 foresighted
 foresightedly
 foresightedness
@@ -41371,6 +41384,7 @@ goloshe
 gombeens
 gombo
 gombos
+gombroons
 gomeral
 gomerels
 gomerils
@@ -41776,6 +41790,7 @@ grandiosely
 grandiosities
 grandioso
 grandkid
+grandma
 grandmama
 grandmas
 grandmotherly
@@ -44652,6 +44667,7 @@ herbariums
 herbed
 herbicidal
 herbicidally
+herbicide
 herbiest
 herbivore
 herbivores
@@ -50943,6 +50959,7 @@ irreducibility
 irreducible
 irreducibly
 irreflexive
+irreformable
 irrefragability
 irrefragably
 irrefutability
@@ -51456,6 +51473,7 @@ japingly
 japonaiserie
 japonaiseries
 japonica
+jar
 jardiniere
 jarfuls
 jargoned
@@ -56568,6 +56586,7 @@ lususes
 lutanist
 lutanists
 lutecium
+luteciums
 luted
 lutefisk
 lutein
@@ -64855,6 +64874,7 @@ nonfreezing
 nonfulfillments
 nonfunctional
 nonfunctioning
+nonfunded
 nongame
 nongaseous
 nongay
@@ -65344,6 +65364,7 @@ nonusing
 nonutilitarian
 nonutilities
 nonutility
+nonvalid
 nonvalidities
 nonvalidity
 nonvanishing
@@ -66444,6 +66465,7 @@ officialdom
 officialdoms
 officialisms
 officially
+officiant
 officiants
 officiaries
 officiary
@@ -72595,6 +72617,7 @@ phaseal
 phaseout
 phaseouts
 phases
+phasic
 phasing
 phasis
 phasmid
@@ -74424,6 +74447,7 @@ plucked
 plucker
 pluckers
 pluckier
+pluckiest
 pluckinesses
 plugged
 plugger
@@ -74833,6 +74857,7 @@ pollinating
 pollinator
 polling
 pollinia
+pollinic
 pollinium
 pollinize
 pollinized
@@ -81598,6 +81623,7 @@ rediscusses
 rediscussing
 redisplays
 redispose
+redisposed
 redisposes
 redisposing
 redisposition
@@ -86264,6 +86290,7 @@ runs
 runt
 runtier
 runtiness
+runtinesses
 runty
 runways
 rupee
@@ -86787,6 +86814,7 @@ salubriousness
 salubrities
 salubrity
 saluki
+salutarily
 salutariness
 salutarinesses
 salutary
@@ -88710,6 +88738,7 @@ seedy
 seeing
 seeings
 seek
+seeker
 seekers
 seeking
 seeled
@@ -94448,6 +94477,7 @@ squared
 squarely
 squareness
 squarers
+squares
 squarest
 squarish
 squarishly
@@ -95190,6 +95220,7 @@ stereoscope
 stereoscopes
 stereoscopy
 stereospecific
+stereotaxic
 stereotaxically
 stereotyped
 stereotypers
@@ -100312,6 +100343,7 @@ tergiversated
 tergiversates
 tergiversating
 tergiversators
+tergum
 teriyaki
 teriyakis
 termagant
@@ -102427,6 +102459,7 @@ towmont
 towmonts
 townee
 townees
+townfolk
 townhomes
 townhouse
 townie
@@ -108355,6 +108388,7 @@ vawards
 vawntie
 vealed
 vealer
+vealers
 vealier
 vealiest
 vealing
@@ -112052,6 +112086,7 @@ wouldest
 wouldst
 wound
 woundedly
+wounding
 woundless
 woundworts
 wove
