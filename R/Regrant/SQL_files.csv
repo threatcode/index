@@ -1,0 +1,2 @@
+v_generate_user_grant_revoke_...,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminViews/v_generate_user_grant_revoke_ddl.sql
+amazon-redshift-utils/src/AdminScripts/user_to_be_dropped_privs ...,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminScripts/user_to_be_dropped_privs.sql
