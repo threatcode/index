@@ -880,6 +880,7 @@ adjacences
 adjacencies
 adjacency
 adjacent
+adjectival
 adjectivally
 adjectives
 adjoin
@@ -3019,6 +3020,7 @@ analcites
 analecta
 analectic
 analects
+analemma
 analemmata
 analeptics
 analgesias
@@ -19377,6 +19379,7 @@ condensate
 condensational
 condensations
 condense
+condensed
 condenser
 condensers
 condensing
@@ -25533,6 +25536,7 @@ deringers
 derisible
 derision
 derisions
+derisive
 derisively
 derisory
 derivate
@@ -29379,6 +29383,7 @@ druidism
 druidisms
 drum
 drumbeat
+drumbeaters
 drumbeatings
 drumbeats
 drumble
@@ -29478,6 +29483,7 @@ duckpin
 ducks
 ducktail
 ducktails
+duckwalk
 duckwalked
 duckwalks
 duckweed
@@ -30415,6 +30421,7 @@ egalitarians
 egalite
 eger
 egers
+egesta
 egestion
 egestive
 egests
@@ -33774,6 +33781,7 @@ exhalant
 exhalants
 exhale
 exhalent
+exhalents
 exhausted
 exhauster
 exhausting
@@ -37272,6 +37280,7 @@ folkier
 folkish
 folklives
 folklores
+folkloric
 folklorish
 folkloristic
 folklorists
@@ -42289,6 +42298,7 @@ grungy
 grunion
 grunions
 grunt
+grunted
 grunter
 grunters
 gruntle
@@ -47991,6 +48001,7 @@ incense
 incenses
 incensing
 incent
+incented
 incenter
 incenters
 incenting
@@ -51434,6 +51445,7 @@ jewelweeds
 jewfish
 jewfishes
 jews
+jezails
 jezebel
 jiao
 jib
@@ -53572,6 +53584,7 @@ lanuginous
 lanugo
 lanyards
 laogai
+laogais
 lap
 laparoscope
 laparoscopes
@@ -56358,6 +56371,7 @@ lymphatically
 lymphatics
 lymphoblast
 lymphoblastic
+lymphocyte
 lymphocytes
 lymphocytoses
 lymphocytosis
@@ -57359,6 +57373,7 @@ maravedis
 marbelize
 marbelizes
 marbelizing
+marble
 marbleise
 marbleising
 marbleized
@@ -60480,6 +60495,7 @@ misrecords
 misreference
 misreferences
 misreferred
+misrefers
 misregister
 misregistered
 misregisters
@@ -61731,6 +61747,7 @@ motorcyclist
 motorcyclists
 motordom
 motordoms
+motoric
 motorings
 motorise
 motorised
@@ -61772,6 +61789,7 @@ mouldier
 mouldiest
 mouldings
 moulds
+mouldy
 moulin
 moulins
 moult
@@ -62143,6 +62161,7 @@ multilevel
 multileveled
 multilingual
 multilingualism
+multilingually
 multilobe
 multilobed
 multimanned
@@ -64153,6 +64172,7 @@ nonaddicts
 nonadditivities
 nonadjacent
 nonadmirers
+nonadmission
 nonaesthetic
 nonaffluent
 nonage
@@ -70179,6 +70199,7 @@ parapsychology
 paraquat
 paraquats
 paraquet
+paraquets
 pararosaniline
 paras
 parasailing
@@ -70771,6 +70792,7 @@ patrols
 patron
 patronage
 patronages
+patronal
 patroness
 patronesses
 patronise
@@ -72085,6 +72107,7 @@ petit
 petite
 petiteness
 petitionary
+petitioner
 petitioners
 petitioning
 petnap
@@ -73331,6 +73354,7 @@ piper
 piperazines
 piperidine
 piperines
+piperonal
 piperonals
 pipes
 pipestem
@@ -74555,6 +74579,7 @@ polygalas
 polygamies
 polygamist
 polygamists
+polygamize
 polygamized
 polygamizes
 polygamizing
@@ -77806,6 +77831,7 @@ prowess
 prowled
 prowling
 proxemic
+proxies
 proximal
 proximally
 proximately
@@ -78847,6 +78873,7 @@ quadrumanous
 quadrumvir
 quadrumvirate
 quadrumvirs
+quadruped
 quadrupled
 quadruples
 quadruplets
@@ -81137,6 +81164,7 @@ redetermining
 redevelop
 redeveloper
 redevelopers
+redeveloping
 redevelopment
 redevelopments
 redevelops
@@ -89403,6 +89431,7 @@ shaslik
 shat
 shatter
 shattered
+shatterers
 shatteringly
 shaugh
 shaughs
@@ -93986,6 +94015,7 @@ squarers
 squarest
 squarish
 squarishly
+squarishness
 squarishnesses
 squark
 squarks
@@ -95487,6 +95517,7 @@ strick
 stricken
 strickled
 strickles
+strickling
 stricks
 strict
 stricter
@@ -96303,6 +96334,7 @@ subscription
 subscriptions
 subscripts
 subsea
+subsecretaries
 subsect
 subsection
 subsectors
@@ -96999,6 +97031,7 @@ superbomb
 superbomber
 superbombs
 superbright
+superbug
 supercabinets
 supercalender
 supercalendered
@@ -99310,6 +99343,7 @@ teeing
 teels
 teem
 teemer
+teeming
 teemingly
 teemingness
 teen
@@ -109457,6 +109491,7 @@ wanks
 wanly
 wannabe
 wannabee
+wannabees
 wannabes
 wanner
 wannest
