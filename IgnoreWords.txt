@@ -5055,6 +5055,7 @@ around
 arousable
 arousal
 aroused
+arousing
 aroynt
 aroynted
 aroynting
@@ -6602,6 +6603,7 @@ azotobacter
 azotobacters
 azulejo
 azurite
+azygos
 azygous
 ba
 baa
@@ -21377,6 +21379,7 @@ countersteps
 counterstream
 counterstreams
 counterstricken
+counterstrike
 counterstrikes
 counterstroke
 counterstrokes
@@ -22932,6 +22935,7 @@ curtailment
 curtails
 curtain
 curtained
+curtainless
 curtains
 curtal
 curtalax
@@ -23965,6 +23969,7 @@ debarks
 debarred
 debarring
 debased
+debasement
 debasements
 debaser
 debatable
@@ -27802,6 +27807,7 @@ dispositional
 dispositions
 dispossess
 dispossessed
+dispossession
 dispossessions
 dispossessor
 dispossessors
@@ -32989,6 +32995,7 @@ established
 establisher
 establishers
 establishes
+establishing
 establishment
 establishments
 estaminet
@@ -33154,6 +33161,7 @@ ethnoscience
 ethnoses
 ethogram
 ethograms
+ethological
 ethologist
 ethoses
 ethoxies
@@ -34669,6 +34677,7 @@ factorship
 factorships
 factorylike
 factotum
+factotums
 facts
 factual
 factualism
@@ -37150,6 +37159,7 @@ fluoroscopy
 fluors
 fluoxetine
 fluoxetines
+fluphenazine
 fluphenazines
 flurried
 flurry
@@ -37220,6 +37230,7 @@ flyspecking
 flyspecks
 flyswatter
 flyted
+flytes
 flytier
 flytiers
 flyting
@@ -39577,6 +39588,7 @@ garroters
 garroting
 garrotte
 garrotted
+garrottes
 garrotting
 garrulities
 garrulity
@@ -41213,6 +41225,7 @@ goldenly
 goldenness
 goldennesses
 goldenrod
+goldenrods
 goldenseal
 goldenseals
 goldest
@@ -42061,6 +42074,7 @@ griming
 grimly
 grimmest
 grimness
+grimnesses
 grin
 grinches
 grind
@@ -44041,6 +44055,7 @@ heavy
 heavyhearted
 heavyheartedly
 heavyweight
+heavyweights
 hebdomadally
 hebdomads
 hebe
@@ -45171,6 +45186,7 @@ hocusing
 hocussed
 hocusses
 hocussing
+hodad
 hodaddies
 hodaddy
 hodden
@@ -47210,6 +47226,7 @@ illicitly
 illimitability
 illimitable
 illimitableness
+illimitably
 illinium
 illiquidities
 illiquidity
@@ -47567,6 +47584,7 @@ impassion
 impassioned
 impassioning
 impassions
+impassive
 impassiveness
 impaste
 impastes
@@ -49076,6 +49094,7 @@ inhabitants
 inhabitation
 inhabited
 inhabits
+inhalant
 inhalants
 inhalation
 inhalational
@@ -50748,6 +50767,7 @@ irradiances
 irradiant
 irradiating
 irradiation
+irradiations
 irradiative
 irradiators
 irradicable
@@ -51831,6 +51851,7 @@ jubhah
 jubhahs
 jubilance
 jubilances
+jubilate
 jubilated
 jubilating
 jubilations
@@ -54279,6 +54300,7 @@ legacies
 legacy
 legaleses
 legalise
+legalises
 legalistic
 legalistically
 legalities
@@ -66216,6 +66238,7 @@ offence
 offences
 offend
 offended
+offender
 offenders
 offending
 offense
@@ -72300,6 +72323,7 @@ peytrels
 pfennige
 pfennigs
 pfft
+pfui
 phaeton
 phage
 phagedena
@@ -72743,6 +72767,7 @@ photopic
 photopositive
 photoproduction
 photoproducts
+photoreaction
 photoreactions
 photoreceptions
 photoreceptor
@@ -74932,6 +74957,7 @@ pooed
 poofs
 poofter
 poofy
+pooh
 poohing
 poohs
 pooing
@@ -75274,6 +75300,7 @@ postirradiation
 postischemic
 postisolation
 postlanding
+postlaunch
 postliberation
 postliterate
 postlude
@@ -77143,6 +77170,7 @@ prod
 prodder
 prodding
 prodigalities
+prodigality
 prodigals
 prodigies
 prodromal
@@ -95275,6 +95303,7 @@ stomodaea
 stomodaeal
 stomodaeums
 stomodea
+stomodeums
 stomp
 stomped
 stomps
@@ -99030,6 +99059,7 @@ tans
 tansies
 tantalate
 tantalates
+tantalic
 tantalise
 tantalised
 tantalite
@@ -99768,6 +99798,7 @@ temporal
 temporality
 temporalized
 temporalizes
+temporally
 temporals
 temporaries
 temporariness
@@ -102160,6 +102191,7 @@ toxophily
 toxoplasma
 toxoplasmas
 toxoplasmic
+toy
 toyer
 toyless
 toylike
@@ -104428,6 +104460,7 @@ ultraroyalist
 ultraroyalists
 ultras
 ultrasharp
+ultrashort
 ultraslick
 ultraslow
 ultrasmall
@@ -107382,6 +107415,7 @@ urbanity
 urbanizations
 urbanize
 urbanized
+urbanizes
 urbanizing
 urbanologies
 urbanologist
@@ -108717,6 +108751,7 @@ village
 villager
 villagers
 villagery
+villainess
 villainesses
 villainous
 villainously
