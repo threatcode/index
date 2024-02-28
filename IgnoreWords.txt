@@ -2279,6 +2279,7 @@ alleyways
 allheal
 allheals
 alliaceous
+alliance
 alliances
 allicin
 allicins
@@ -2609,6 +2610,7 @@ ambiences
 ambient
 ambiguities
 ambiguous
+ambiguously
 ambiguousnesses
 ambipolar
 ambisexual
@@ -12399,6 +12401,7 @@ bullfighting
 bullfightings
 bullfights
 bullfinches
+bullfrog
 bullfrogs
 bullheaded
 bullheadedly
@@ -13223,6 +13226,7 @@ calcicolous
 calciferous
 calcific
 calcified
+calcifuge
 calcifuges
 calcifugous
 calcify
@@ -13984,6 +13988,7 @@ carabine
 carabineers
 carabiner
 carabiners
+carabines
 carabinier
 carabiniere
 carabinieri
@@ -27449,6 +27454,7 @@ discreetest
 discreetnesses
 discrepancies
 discrepancy
+discrepant
 discrepantly
 discreteness
 discretenesses
@@ -30436,6 +30442,7 @@ eduction
 eductions
 eductive
 eductor
+edulcorates
 edulcorating
 eek
 eel
@@ -31536,6 +31543,7 @@ encompasses
 encompassing
 encore
 encored
+encores
 encoring
 encounter
 encountered
@@ -33058,6 +33066,7 @@ essayer
 essayers
 essayist
 essences
+essentialism
 essentialisms
 essentialist
 essentialities
@@ -36802,6 +36811,7 @@ fleches
 flechettes
 flecked
 flecking
+fleckless
 flecks
 flecky
 flections
@@ -41022,6 +41032,7 @@ glow
 glowed
 glower
 glowered
+glowering
 glowers
 glowflies
 glowfly
@@ -47016,6 +47027,7 @@ hypotension
 hypotensions
 hypotensive
 hypotenuse
+hypotenuses
 hypothalamic
 hypothalamus
 hypothecated
@@ -48266,6 +48278,7 @@ incipiencies
 incipient
 incipiently
 incipit
+incisal
 incise
 incised
 incises
@@ -56135,6 +56148,7 @@ lorises
 lorn
 lornness
 lornnesses
+lorry
 lory
 losableness
 losablenesses
@@ -56728,6 +56742,7 @@ macaroon
 macaroons
 macaw
 macaws
+maccabaws
 maccaboys
 maccoboys
 maced
@@ -58408,6 +58423,7 @@ mediatized
 mediatizing
 mediatory
 mediatrices
+mediatrix
 mediatrixes
 medic
 medicals
@@ -67998,6 +68014,7 @@ outmoded
 outmodes
 outmove
 outmoving
+outmuscled
 outnumbers
 outoffice
 outoffices
@@ -72123,6 +72140,7 @@ permanent
 permanently
 permanentnesses
 permanganates
+permeability
 permeably
 permeant
 permeate
@@ -75804,6 +75822,7 @@ pranging
 prangs
 prank
 prankishly
+prankishness
 prankishnesses
 pranks
 prankster
@@ -76136,6 +76155,7 @@ predicating
 predication
 predications
 predicative
+predicatively
 predicatory
 predict
 predictable
@@ -80628,6 +80648,7 @@ realtering
 realters
 realties
 realtor
+ream
 reamed
 reamer
 reamers
@@ -88013,6 +88034,7 @@ scouthering
 scouthers
 scouths
 scoutmaster
+scoutmasters
 scow
 scowder
 scowdered
@@ -90115,6 +90137,7 @@ shipfitters
 shipload
 shipmasters
 shipmate
+shipmates
 shipmen
 shipment
 shipments
@@ -90328,6 +90351,7 @@ shorn
 short
 shortbreads
 shortcake
+shortchange
 shortchanged
 shortchanger
 shortchangers
@@ -90831,6 +90855,7 @@ silhouetted
 silhouettes
 silica
 silicas
+siliceous
 silicide
 silicides
 silicification
@@ -94732,6 +94757,7 @@ standard
 standardbred
 standardise
 standardised
+standardize
 standardized
 standardless
 standards
@@ -94824,6 +94850,7 @@ starlights
 starlike
 starling
 starred
+starrier
 starriest
 starring
 starry
@@ -95676,6 +95703,7 @@ stouten
 stoutens
 stouter
 stoutest
+stouthearted
 stoutheartedly
 stoutish
 stoutly
@@ -98005,10 +98033,12 @@ surpluses
 surplusing
 surplussed
 surplusses
+surplussing
 surprinted
 surprinting
 surprisals
 surprise
+surprize
 surprized
 surprizing
 surra
@@ -98128,6 +98158,7 @@ svedbergs
 svelte
 sveltely
 svelteness
+sveltenesses
 swabbed
 swabber
 swabbers
@@ -99906,6 +99937,7 @@ teleology
 teleonomic
 teleonomies
 teleonomy
+teleost
 teleostean
 teleosts
 telepath
@@ -100427,6 +100459,7 @@ testator
 testators
 testatrices
 testatrix
+testcross
 testcrossed
 tested
 testees
@@ -103519,6 +103552,7 @@ trisoctahedron
 trisome
 trisomic
 trisomies
+trisomy
 tristate
 triste
 tristearin
@@ -103854,6 +103888,7 @@ trying
 tryma
 tryouts
 trypanosome
+trypanosomes
 trypanosomiasis
 trypsinogens
 tryptamines
