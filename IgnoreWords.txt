@@ -9262,6 +9262,7 @@ biked
 biker
 bikers
 bikes
+bikeway
 bikeways
 bikie
 biking
@@ -9440,6 +9441,7 @@ biochemically
 biochemicals
 biochemist
 biochemistries
+biochemistry
 biochemists
 biochip
 biochips
@@ -10132,6 +10134,7 @@ blistery
 blite
 blithely
 blithered
+blithering
 blithers
 blithesome
 blithesomely
@@ -21760,6 +21763,7 @@ crabmeats
 crabs
 crack
 crackajack
+crackajacks
 crackbrain
 crackbrained
 crackbrains
@@ -24896,6 +24900,7 @@ deice
 deiced
 deicer
 deicers
+deicidal
 deicides
 deicing
 deictic
@@ -28199,6 +28204,7 @@ distribute
 distributed
 distributee
 distributes
+distributing
 distribution
 distributions
 distributively
@@ -35611,6 +35617,7 @@ fellowships
 fells
 felonies
 felonious
+feloniousness
 felonries
 felonry
 felons
@@ -35765,6 +35772,7 @@ ferromagnets
 ferromanganese
 ferromanganeses
 ferrosilicons
+ferrotyped
 ferrotypes
 ferrotyping
 ferrous
@@ -41863,6 +41871,7 @@ grandnieces
 grandpa
 grandpapa
 grandparent
+grandparental
 grandparenthood
 grands
 grandsir
@@ -46262,6 +46271,7 @@ however
 howf
 howff
 howitzer
+howitzers
 howked
 howking
 howled
@@ -50494,6 +50504,7 @@ intitule
 intituled
 intituling
 into
+intolerability
 intolerable
 intolerableness
 intolerably
@@ -64578,6 +64589,7 @@ nonactivated
 nonactive
 nonactor
 nonactors
+nonadaptive
 nonaddictive
 nonaddicts
 nonadditivities
@@ -64822,6 +64834,7 @@ nondeductible
 nondeductive
 nondefense
 nondeforming
+nondelegate
 nondelegates
 nondeliberate
 nondelinquent
@@ -65186,6 +65199,7 @@ nonobservance
 nonobservances
 nonobservant
 nonoccurrence
+nonofficials
 nonoily
 nonoperatic
 nonoral
@@ -65841,6 +65855,7 @@ nudist
 nudities
 nudity
 nudnick
+nudnik
 nudzh
 nudzhing
 nugget
@@ -66452,6 +66467,7 @@ octuply
 octyl
 octyls
 ocularist
+oculist
 oculus
 od
 odah
@@ -70725,6 +70741,7 @@ pared
 paregoric
 pareiras
 parenchyma
+parenchymal
 parenchymas
 parenchymatous
 parent
@@ -72491,6 +72508,7 @@ perversive
 pervert
 pervertedly
 pervertednesses
+perverters
 perverting
 perverts
 perviousness
@@ -77560,6 +77578,7 @@ professoriats
 professors
 professorship
 professorships
+proffer
 proffered
 profferers
 proffering
@@ -79299,6 +79318,7 @@ pyrroles
 pyrrolic
 pyrrols
 pyruvates
+python
 pythoness
 pythonesses
 pythonic
@@ -80900,6 +80920,7 @@ reassessment
 reassign
 reassigned
 reassigning
+reassignment
 reassignments
 reassigns
 reassort
@@ -81593,6 +81614,7 @@ redbaiters
 redbay
 redbird
 redbirds
+redbreast
 redbrick
 redbuds
 redbug
@@ -84283,6 +84305,7 @@ restoked
 restokes
 restoral
 restorals
+restorations
 restoratives
 restored
 restorers
@@ -85497,6 +85520,7 @@ riposts
 ripped
 ripper
 rippers
+ripple
 rippled
 rippler
 ripplers
@@ -85510,6 +85534,7 @@ riprapping
 rips
 ripsaw
 ripsawed
+ripsawing
 ripsawn
 ripsaws
 ripsnorting
@@ -92192,6 +92217,7 @@ smallnesses
 smallpox
 smalltime
 smalti
+smaltine
 smalto
 smalts
 smaragd
@@ -95758,6 +95784,7 @@ stoned
 stonefish
 stonefishes
 stoneflies
+stonemasons
 stoner
 stoners
 stonewall
@@ -96346,6 +96373,7 @@ stuffiest
 stuffily
 stuffing
 stuffings
+stuffless
 stuiver
 stuivers
 stultified
@@ -97827,6 +97855,7 @@ supermarket
 supermarkets
 supermen
 supermicro
+supermicros
 supermilitant
 superminis
 superminister
@@ -102974,6 +103003,7 @@ transfixion
 transfixions
 transformations
 transforming
+transforms
 transfusable
 transfuse
 transfusing
@@ -103382,6 +103412,7 @@ triages
 trial
 trialogue
 trialogues
+trials
 triamcinolone
 triamcinolones
 triangled
@@ -103948,6 +103979,7 @@ troutier
 trouvere
 trouveres
 trove
+trover
 trowed
 trowel
 troweled
@@ -104362,6 +104394,7 @@ turds
 tureen
 turf
 turfed
+turfgrasses
 turfier
 turfiest
 turflike
@@ -107207,6 +107240,7 @@ unsocial
 unsocially
 unsold
 unsoldered
+unsolders
 unsoldierly
 unsolid
 unsolved
@@ -112227,6 +112261,7 @@ worrisomely
 worrisomeness
 worrit
 worrits
+worrying
 worsen
 worsening
 worsens
