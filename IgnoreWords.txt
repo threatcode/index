@@ -1308,6 +1308,7 @@ aerosats
 aeroscope
 aeroscopes
 aerosol
+aerosolization
 aerosolizations
 aerosolize
 aerosolized
@@ -5795,6 +5796,7 @@ atmas
 atmometer
 atmometers
 atmosphere
+atmosphered
 atmospheres
 atmospherically
 atmospherics
@@ -5823,6 +5825,7 @@ atones
 atonia
 atonias
 atoning
+atopic
 atopies
 atrabilious
 atrazine
@@ -6123,6 +6126,7 @@ austere
 austerely
 austerenesses
 austerer
+austerest
 austerities
 austerity
 austral
@@ -7770,6 +7774,7 @@ bathing
 bathless
 bathmat
 bathmats
+batholith
 batholiths
 bathos
 bathoses
@@ -10749,6 +10754,7 @@ bombproofing
 bombs
 bombshell
 bombshells
+bombsight
 bombsights
 bombycids
 bombyxes
@@ -14082,6 +14088,7 @@ carapax
 carassow
 carassows
 carat
+carate
 caravan
 caravaned
 caravaner
@@ -21583,6 +21590,7 @@ couplers
 couplet
 couplets
 coupling
+coupon
 couponing
 coupons
 coups
@@ -26008,6 +26016,7 @@ despondent
 despondently
 desponding
 desponds
+despot
 despotic
 despotically
 despotism
@@ -28432,6 +28441,7 @@ divinely
 diviner
 diviners
 divines
+divinest
 divinise
 divinised
 divinises
@@ -28874,6 +28884,7 @@ doomsdayers
 doomsdays
 doomsters
 door
+doorjamb
 doorjambs
 doorkeeper
 doorkeepers
@@ -31011,6 +31022,7 @@ elephants
 elevate
 elevated
 elevateds
+elevations
 elevator
 elevators
 eleven
@@ -36191,6 +36203,7 @@ fifers
 fifes
 fifing
 fifteen
+fifteens
 fifteenth
 fifth
 fifthly
@@ -36204,6 +36217,7 @@ fight
 fightable
 fighter
 fighting
+figment
 figments
 figuline
 figulines
@@ -44057,6 +44071,7 @@ haughty
 haul
 haulage
 hauled
+hauler
 haulier
 hauliers
 hauling
@@ -48671,6 +48686,7 @@ incorporators
 incorporeal
 incorporeally
 incorporeities
+incorporeity
 incorpse
 incorpses
 incorrect
@@ -51874,6 +51890,7 @@ jeroboams
 jerreed
 jerreeds
 jerrican
+jerries
 jerry
 jerrycan
 jerrycans
@@ -53991,6 +54008,7 @@ landforms
 landgraves
 landholder
 landholders
+landings
 landlers
 landless
 landlessness
@@ -56454,6 +56472,7 @@ loudlier
 loudly
 loudmouthed
 loudness
+loudspeaker
 loughs
 louie
 louies
@@ -64077,6 +64096,7 @@ nerviness
 nervinesses
 nerving
 nervosity
+nervous
 nervously
 nervousness
 nervures
@@ -85642,6 +85662,7 @@ rigorousnesses
 rigour
 rigours
 rigs
+rijstafel
 rijstafels
 rijsttafel
 rijsttafels
@@ -85803,6 +85824,7 @@ rissole
 ristra
 ristras
 risus
+risuses
 ritards
 rite
 rites
@@ -87872,6 +87894,7 @@ scabiouses
 scablands
 scablike
 scabrous
+scabrousness
 scabrousnesses
 scabs
 scad
@@ -90485,6 +90508,7 @@ shifted
 shifters
 shiftier
 shiftily
+shiftinesses
 shifting
 shiftless
 shiftlessly
@@ -95452,6 +95476,7 @@ steamrollered
 steamrollering
 steamrollers
 steamrolling
+steamship
 steamships
 steamy
 steapsin
@@ -97171,6 +97196,7 @@ subornations
 suborned
 suborner
 suborners
+suborns
 suboscines
 suboval
 subovate
@@ -98659,6 +98685,7 @@ swainish
 swainishness
 swainishnesses
 swains
+swale
 swales
 swallow
 swallowable
@@ -105599,6 +105626,7 @@ unbraided
 unbraiding
 unbraids
 unbrake
+unbraked
 unbreakable
 unbreathable
 unbred
@@ -105619,6 +105647,7 @@ unbuckling
 unbudgeable
 unbudgingly
 unbuffered
+unbuild
 unbuildable
 unbuilding
 unbuilds
@@ -106486,6 +106515,7 @@ unfit
 unfitly
 unfitness
 unfitnesses
+unfits
 unfix
 unfixes
 unflagging
@@ -106818,6 +106848,7 @@ unitages
 unitarianism
 unitarianisms
 unitarians
+unitarily
 unitary
 united
 unitedly
@@ -109469,6 +109500,7 @@ vicinages
 vicinal
 vicing
 vicious
+viciously
 viciousness
 vicissitude
 vicomtes
@@ -113143,6 +113175,7 @@ yoke
 yokefellows
 yokel
 yokelish
+yokels
 yokes
 yoking
 yoks
@@ -113277,6 +113310,7 @@ zaninesses
 zanyish
 zanza
 zanzas
+zapateado
 zapateados
 zapateo
 zapateos
@@ -113413,6 +113447,7 @@ zingers
 zinging
 zings
 zingy
+zinkenite
 zinkenites
 zinkifies
 zinkify
