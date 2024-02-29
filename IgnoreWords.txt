@@ -2362,6 +2362,7 @@ alloy
 alloys
 alls
 allseed
+allseeds
 allsorts
 allspice
 allspices
@@ -4913,6 +4914,7 @@ aretes
 arethusa
 arethusas
 arf
+argal
 argala
 argalas
 argali
@@ -7692,6 +7694,7 @@ basophilic
 basque
 basques
 bass
+basses
 basseted
 basseting
 bassets
@@ -8844,6 +8847,7 @@ besnows
 besoms
 besoothes
 besoothing
+besot
 besotted
 besought
 bespake
@@ -9804,6 +9808,7 @@ bitty
 bitumen
 bitumens
 bituminize
+bituminized
 bituminizing
 bituminous
 bivalence
@@ -14088,6 +14093,7 @@ caraway
 caraways
 carb
 carbamate
+carbamates
 carbamic
 carbamide
 carbamino
@@ -18283,6 +18289,7 @@ cogitated
 cogitation
 cogitator
 cogitators
+cogito
 cogitos
 cognac
 cognacs
@@ -18634,6 +18641,7 @@ colocynths
 cologne
 colognes
 colombard
+colon
 colone
 colonelcy
 colones
@@ -18895,6 +18903,7 @@ commenters
 commenting
 comments
 commerced
+commerces
 commercialised
 commercialises
 commercialism
@@ -29028,6 +29037,7 @@ doughtiness
 doughtinesses
 doughty
 doughy
+doula
 doulas
 doum
 doumas
@@ -29764,6 +29774,7 @@ duffel
 duffer
 duffers
 duffle
+duffles
 dufuses
 dug
 dugong
@@ -36665,6 +36676,7 @@ flagellantism
 flagellantisms
 flagellants
 flagellar
+flagellate
 flagellates
 flagellating
 flagellation
@@ -39310,6 +39322,7 @@ fuzzily
 fuzziness
 fuzzinesses
 fuzzing
+fuzztones
 fyce
 fyces
 fyke
@@ -41958,6 +41971,7 @@ granted
 grantee
 grantees
 granters
+granting
 grantor
 grants
 grantsman
@@ -43427,6 +43441,7 @@ halogenate
 halogenated
 halogenating
 halogenation
+halogenous
 halogeton
 halogetons
 haloids
@@ -48009,6 +48024,7 @@ impishness
 implant
 implantation
 implantations
+implanted
 implanter
 implanters
 implanting
@@ -48058,6 +48074,7 @@ impolitenesses
 impolitical
 impoliticly
 imponderability
+imponderable
 imponderables
 imponderably
 impone
@@ -48692,6 +48709,7 @@ incurvated
 incurvating
 incurvature
 incurvatures
+incurved
 incurves
 incurving
 incus
@@ -58120,6 +58138,7 @@ mashing
 masjid
 mask
 masked
+masker
 maskers
 masking
 masks
@@ -61098,6 +61117,7 @@ missuited
 missuiting
 missuses
 missy
+mist
 mistakable
 mistaken
 mistakenly
@@ -66506,6 +66526,7 @@ ochry
 ocicat
 ocicats
 ocker
+ockers
 ocotillo
 ocotillos
 ocreae
@@ -68189,6 +68210,7 @@ outlander
 outlandish
 outlandishness
 outlast
+outlasting
 outlasts
 outlaugh
 outlaughs
@@ -70831,6 +70853,7 @@ pardners
 pardon
 pardonable
 pardonably
+pardoners
 pardy
 pare
 pared
@@ -74140,6 +74163,7 @@ pizazzes
 pizazzy
 pizza
 pizzalike
+pizzas
 pizzazes
 pizzazzes
 pizzazzy
@@ -75552,6 +75576,7 @@ portaged
 portages
 portaging
 portal
+portals
 portamenti
 portance
 portances
@@ -77638,6 +77663,7 @@ prodigalities
 prodigality
 prodigals
 prodigies
+prodigious
 prodromal
 prodromata
 prodrug
@@ -78807,6 +78833,7 @@ pugilists
 pugmark
 pugmarks
 pugnacious
+pugnaciously
 pugnaciousness
 pugnacities
 pugnacity
@@ -82725,6 +82752,7 @@ reincorporate
 reincorporates
 reincorporation
 reincurred
+reincurring
 reincurs
 reindex
 reindexed
@@ -83900,6 +83928,7 @@ requiescats
 requin
 required
 requirement
+requirers
 requires
 requiring
 requisite
@@ -84734,6 +84763,7 @@ retrenches
 retrenching
 retrenchment
 retrenchments
+retrial
 retributory
 retried
 retries
@@ -90241,6 +90271,7 @@ sheetrocked
 sheetrocking
 sheets
 sheeves
+shegetz
 sheik
 sheikdoms
 sheikhdom
@@ -92494,6 +92525,7 @@ smoulders
 smudges
 smudgier
 smudgiest
+smudginess
 smudginesses
 smudging
 smudgy
@@ -101562,6 +101594,7 @@ thumbed
 thumbholes
 thumbing
 thumbkin
+thumbkins
 thumbnail
 thumbnuts
 thumbprint
@@ -104400,6 +104433,7 @@ tumidly
 tumidness
 tumidnesses
 tummlers
+tumor
 tumorigeneses
 tumorigenic
 tumorigenicity
@@ -111106,6 +111140,7 @@ westernize
 westernized
 westernmost
 westers
+westing
 westings
 wests
 westward
