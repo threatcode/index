@@ -5359,6 +5359,7 @@ ashlars
 ashler
 ashlered
 ashlers
+ashless
 ashore
 ashplant
 ashplants
@@ -5411,6 +5412,7 @@ asperse
 aspersed
 asperser
 aspersion
+aspersive
 asphalt
 asphaltic
 asphaltite
@@ -8272,6 +8274,7 @@ befittingly
 beflag
 beflagged
 beflagging
+beflags
 beflea
 befleck
 beflecked
@@ -10090,6 +10093,7 @@ blest
 blet
 blether
 blethered
+blethers
 blets
 blighter
 blighties
@@ -15172,6 +15176,7 @@ centaurs
 centavo
 centavos
 centenarian
+centenaries
 centennial
 centennials
 center
@@ -19695,6 +19700,7 @@ conflicts
 confluents
 conflux
 confluxes
+confocal
 conformable
 conformably
 conformal
@@ -25785,6 +25791,7 @@ descanting
 descants
 descendant
 descendants
+descended
 descendent
 descender
 descenders
@@ -27877,6 +27884,7 @@ dispatches
 dispatching
 dispeller
 dispellers
+dispelling
 dispels
 dispend
 dispended
@@ -29068,6 +29076,7 @@ dowered
 doweries
 dowering
 dowers
+dowie
 dowing
 dowitchers
 down
@@ -36597,6 +36606,7 @@ fixable
 fixate
 fixated
 fixating
+fixation
 fixative
 fixatives
 fixedness
@@ -40977,6 +40987,7 @@ gleys
 glia
 gliadin
 glib
+glibber
 glibbest
 glibly
 glibness
@@ -43046,6 +43057,7 @@ gyrenes
 gyres
 gyrfalcon
 gyrfalcons
+gyri
 gyro
 gyrofrequencies
 gyrofrequency
@@ -46796,6 +46808,7 @@ hydrotropism
 hydrous
 hydroxides
 hydroxy
+hydroxyapatite
 hydroxyapatites
 hydroxylamine
 hydroxylamines
@@ -48828,6 +48841,7 @@ indirectly
 indirectnesses
 indisciplinable
 indisciplines
+indiscoverable
 indiscreet
 indiscreetness
 indiscretion
@@ -49577,6 +49591,7 @@ inoffensive
 inoperable
 inoperculate
 inoperculates
+inordinate
 inordinately
 inordinateness
 inorganic
@@ -51112,6 +51127,7 @@ irreproachably
 irreproducible
 irresistibility
 irresistible
+irresistibly
 irresoluble
 irresolute
 irresolutely
@@ -51372,6 +51388,7 @@ itching
 itchings
 itchy
 item
+iteming
 itemises
 itemising
 itemization
@@ -52608,6 +52625,7 @@ keesters
 keet
 keets
 keeve
+keeves
 kef
 keffiyah
 keffiyahs
@@ -56967,6 +56985,7 @@ macrofossil
 macrogamete
 macroglobulin
 macromole
+macromolecule
 macromolecules
 macromoles
 macronuclear
@@ -58633,6 +58652,7 @@ medullas
 medullated
 medusan
 medusas
+medusoid
 medusoids
 meed
 meeds
@@ -59349,6 +59369,7 @@ metanephros
 metaphase
 metaphor
 metaphoric
+metaphorical
 metaphors
 metaphosphate
 metaphrase
@@ -59493,6 +59514,7 @@ metralgias
 metrazols
 metred
 metric
+metrically
 metricates
 metricisms
 metricized
@@ -60500,6 +60522,7 @@ miscegenation
 miscegenational
 miscegenations
 miscellanea
+miscellaneous
 miscellaneously
 miscellanies
 mischance
@@ -60996,6 +61019,7 @@ missilry
 missing
 missiologies
 missiology
+missional
 missionaries
 missioned
 missioner
@@ -63465,6 +63489,7 @@ nation
 national
 nationalised
 nationalising
+nationalism
 nationality
 nationalization
 nationalize
@@ -66355,6 +66380,7 @@ obtests
 obtruded
 obtruders
 obtruding
+obtrusion
 obtrusive
 obtund
 obtundities
@@ -77626,6 +77652,7 @@ professions
 professor
 professorates
 professorial
+professorially
 professoriat
 professoriats
 professors
@@ -78513,6 +78540,7 @@ pseudoscientist
 pseudoscorpion
 pseuds
 pshawed
+pshawing
 pshaws
 psilocin
 psilocybin
@@ -81942,6 +81970,7 @@ reductivenesses
 reductors
 redundancies
 redundancy
+redundant
 redundantly
 reduplicate
 reduplicated
@@ -86647,6 +86676,7 @@ sabs
 sabulose
 sabulous
 sacahuista
+sacahuistas
 sacahuiste
 sacahuistes
 sacaton
@@ -88112,6 +88142,7 @@ scintillation
 scintillations
 scintillator
 scintillometer
+sciolism
 sciolisms
 sciolistic
 scion
@@ -95907,6 +95938,7 @@ stopwords
 storable
 storables
 storage
+storages
 storax
 storaxes
 storefront
@@ -97986,6 +98018,7 @@ superrealisms
 superregional
 superregionals
 superrich
+superroad
 superroads
 supers
 supersafe
@@ -109921,6 +109954,7 @@ votress
 votresses
 vouchered
 vouchering
+vouchers
 vouches
 vouchsafe
 vouchsafed
@@ -112184,6 +112218,7 @@ woolhat
 woolhats
 woolier
 woolies
+woolinesses
 woolled
 woollen
 woollier
