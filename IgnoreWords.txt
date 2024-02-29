@@ -4995,6 +4995,7 @@ armadas
 armagnac
 armagnacs
 armament
+armatured
 armaturing
 armbands
 armchair
@@ -12217,6 +12218,7 @@ buck
 buckayro
 buckbean
 buckboard
+buckboards
 buckbrushes
 bucked
 buckeen
@@ -15827,6 +15829,7 @@ chawer
 chawers
 chawing
 chaws
+chay
 chayote
 chays
 chazanim
@@ -18585,6 +18588,7 @@ colly
 collying
 collyria
 collyrium
+collyriums
 collywobbles
 colobi
 colobus
@@ -18741,6 +18745,7 @@ combinatorially
 combinatorics
 combine
 combined
+combineds
 combiner
 combings
 combining
@@ -18805,6 +18810,7 @@ commandant
 commandants
 commanded
 commandeer
+commandeered
 commandeering
 commander
 commanders
@@ -23175,6 +23181,7 @@ cyanamid
 cyanamids
 cyanate
 cyanates
+cyanic
 cyanide
 cyanides
 cyaniding
@@ -23833,6 +23840,7 @@ daubers
 daubery
 daubier
 daubiest
+daubing
 daubries
 daubry
 daubs
@@ -29249,6 +29257,7 @@ drawable
 drawback
 drawbacks
 drawbars
+drawbore
 drawbridge
 drawee
 drawer
@@ -35321,6 +35330,7 @@ faulds
 fault
 faulted
 faultfinders
+faultfinding
 faultiest
 faultiness
 faultinesses
@@ -38360,6 +38370,7 @@ frayings
 frazil
 frazzle
 frazzled
+frazzles
 frazzling
 freak
 freaked
@@ -39229,6 +39240,7 @@ gabardines
 gabbard
 gabbards
 gabbart
+gabbarts
 gabber
 gabbers
 gabbier
@@ -49839,6 +49851,7 @@ intaglio
 intaglioed
 intaglioing
 intaglios
+intake
 intakes
 intangibleness
 intangibles
@@ -52887,6 +52900,7 @@ kindler
 kindlers
 kindles
 kindliness
+kindlings
 kindly
 kindred
 kindreds
@@ -54567,6 +54581,7 @@ legitimised
 legitimises
 legitimism
 legitimisms
+legitimist
 legitimize
 legitimized
 legitimizer
@@ -55737,6 +55752,7 @@ loaned
 loaner
 loaners
 loanings
+loans
 loanshift
 loanwords
 loath
@@ -57742,6 +57758,7 @@ margent
 margented
 margents
 marginal
+marginalization
 marginalize
 marginalized
 marginalizes
@@ -62381,6 +62398,7 @@ muggers
 muggier
 muggiest
 muggily
+mugginess
 mugginesses
 mugging
 muggs
@@ -65840,6 +65858,7 @@ numerologies
 numerologist
 numerologists
 numerously
+numerousness
 numerousnesses
 numina
 numinousness
@@ -68944,6 +68963,7 @@ overglad
 overglamorize
 overglamorized
 overglamorizing
+overglaze
 overglazed
 overglazes
 overgoad
@@ -70700,6 +70720,7 @@ parfocalities
 parget
 pargeting
 pargets
+pargetted
 pargetting
 parging
 pargyline
@@ -73180,6 +73201,7 @@ physiography
 physiologic
 physiological
 physiologically
+physiologies
 physiology
 physiotherapies
 physiotherapist
@@ -76101,6 +76123,7 @@ precipitations
 precipitative
 precipitin
 precipitousness
+precise
 preciseness
 precisenesses
 preciser
@@ -81810,6 +81833,7 @@ redyeing
 redyes
 reearn
 reearns
+reecho
 reechoes
 reedbird
 reedbirds
@@ -82966,6 +82990,7 @@ remeasurement
 remeasurements
 remeasuring
 remediabilities
+remediability
 remediable
 remedially
 remediate
@@ -83990,6 +84015,7 @@ resistible
 resistive
 resistively
 resistiveness
+resistivenesses
 resistivities
 resistivity
 resistless
@@ -95654,6 +95680,7 @@ stomatal
 stomate
 stomatic
 stomatitis
+stomatitises
 stomatopods
 stomodaea
 stomodaeal
@@ -96392,6 +96419,7 @@ suave
 suavely
 suaveness
 suavities
+suavity
 suba
 subabbot
 subacid
@@ -96568,6 +96596,7 @@ subdwarfs
 subecho
 subeconomies
 subedit
+subedited
 subeditor
 subedits
 subemployed
@@ -100216,6 +100245,7 @@ tenants
 tend
 tendances
 tendences
+tendencious
 tendentious
 tendentiously
 tendentiousness
@@ -101219,6 +101249,7 @@ threnodies
 threnodist
 threnodists
 thresh
+threshed
 thresher
 threshers
 threshes
@@ -106180,6 +106211,7 @@ unguided
 unguis
 ungula
 ungulae
+ungular
 ungulate
 ungulates
 unhackneyed
@@ -108504,6 +108536,7 @@ vehemently
 vehicle
 vehicles
 vehicular
+veil
 veiledly
 veiler
 veiling
@@ -109295,6 +109328,7 @@ viridity
 virile
 virilely
 virilities
+virility
 virilizes
 virilocal
 virion
@@ -109642,6 +109676,7 @@ volumeters
 volumetric
 voluming
 voluminosities
+voluminous
 voluminously
 voluminousness
 voluntarily
