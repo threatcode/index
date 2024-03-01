@@ -446,6 +446,7 @@ acescent
 acescents
 aceta
 acetabular
+acetabulum
 acetabulums
 acetaldehyde
 acetaldehydes
@@ -8152,6 +8153,7 @@ bedevilments
 bedew
 bedewing
 bedews
+bedfast
 bedfellow
 bedframe
 bedframes
@@ -9409,6 +9411,7 @@ bimbettes
 bimbo
 bimbos
 bimester
+bimesters
 bimetal
 bimetallism
 bimetallisms
@@ -14623,6 +14626,7 @@ casini
 casita
 casitas
 cask
+casked
 casket
 casketed
 casketing
@@ -19471,6 +19475,7 @@ concertgoers
 concertgoing
 concerti
 concertinas
+concerting
 concertinos
 concertmasters
 concertmeisters
@@ -31784,6 +31789,7 @@ encrusts
 encrypt
 encrypted
 encrypting
+encryptions
 encrypts
 enculturate
 enculturated
@@ -31825,6 +31831,7 @@ endbrain
 endearing
 endearingly
 endeavored
+endeavors
 endeavouring
 endeavours
 endemial
@@ -35892,6 +35899,7 @@ feracities
 feracity
 feral
 ferbam
+ferbams
 fere
 feres
 feretory
@@ -38381,6 +38389,7 @@ foulbrood
 foulbroods
 fouled
 fouling
+foulings
 foully
 foulness
 foulnesses
@@ -40818,6 +40827,7 @@ giglots
 gigolo
 gigs
 gigue
+gilberts
 gilders
 gildhall
 gildhalls
@@ -40996,6 +41006,7 @@ glaciological
 glaciologies
 glaciology
 glacis
+glad
 gladded
 gladden
 gladdeners
@@ -41484,6 +41495,7 @@ gnaw
 gnawable
 gnawed
 gnawer
+gnawers
 gnawing
 gnawn
 gnaws
@@ -41767,6 +41779,7 @@ googolplexes
 gooier
 gooiest
 gooks
+gooky
 goombah
 goombahs
 goombays
@@ -41885,6 +41898,7 @@ gouger
 gougers
 gouramies
 gouramis
+gourd
 gourde
 gourdes
 gourmand
@@ -44159,6 +44173,7 @@ hatmaker
 hatmakers
 hatpin
 hatred
+hatreds
 hats
 hatteria
 hatterias
@@ -45237,6 +45252,7 @@ hexaplar
 hexaplas
 hexaploid
 hexaploidies
+hexaploidy
 hexapod
 hexapodies
 hexapods
@@ -53091,6 +53107,7 @@ kiblah
 kiblahs
 kibosh
 kiboshed
+kiboshes
 kiboshing
 kick
 kickable
@@ -53297,6 +53314,7 @@ kinking
 kinks
 kinless
 kinnikinnick
+kino
 kinos
 kins
 kinsfolk
@@ -54623,6 +54641,7 @@ layabout
 layabouts
 layaway
 layaways
+layer
 layerage
 layerages
 layering
@@ -55988,6 +56007,7 @@ litoral
 litotes
 litre
 litres
+lits
 litten
 litter
 litterateurs
@@ -60000,6 +60020,7 @@ micrometers
 micromethod
 micromethods
 micromini
+microminiature
 micromorphology
 micron
 micronized
@@ -76140,6 +76161,7 @@ posturer
 postures
 posturists
 postvagotomy
+postweaning
 postworkshop
 posy
 pot
@@ -77739,6 +77761,7 @@ printmaker
 printmakers
 printmaking
 printout
+printouts
 prion
 prior
 priorate
@@ -80458,6 +80481,7 @@ radiologic
 radiological
 radiologies
 radiologists
+radiology
 radiolucency
 radiolucent
 radiolyses
@@ -82676,6 +82700,7 @@ refortified
 refound
 refoundation
 refoundations
+refounding
 refract
 refracted
 refractile
@@ -83591,6 +83616,7 @@ remoistening
 remoistens
 remolade
 remolades
+remold
 remolds
 remonetization
 remonetizations
@@ -88879,6 +88905,7 @@ scroungier
 scrounging
 scroungy
 scrub
+scrubbed
 scrubber
 scrubbiest
 scrubbily
@@ -91467,6 +91494,7 @@ significances
 significancies
 significancy
 significant
+significations
 significative
 significs
 signifieds
@@ -91996,6 +92024,7 @@ skiagraph
 skiagraphs
 skiascopes
 skiascopies
+skiascopy
 skibob
 skibobber
 skibobbers
@@ -95312,6 +95341,7 @@ stadtholdership
 staff
 staffed
 staffer
+staffing
 stag
 stagecoach
 stagecoaches
@@ -100729,6 +100759,7 @@ teliospores
 telium
 tell
 tellable
+teller
 tellingly
 tells
 telltale
@@ -104915,6 +104946,7 @@ turbits
 turbocar
 turbocharged
 turbocharger
+turbochargers
 turboelectric
 turbogenerator
 turbojet
@@ -110540,6 +110572,7 @@ wackier
 wackily
 wackiness
 wackinesses
+wackos
 wacky
 wad
 wadable
@@ -111609,6 +111642,7 @@ whatsits
 whatsoever
 whaup
 wheals
+wheat
 wheatear
 wheatears
 wheaten
@@ -113382,6 +113416,7 @@ yobboes
 yobs
 yock
 yocked
+yocking
 yocks
 yoctosecond
 yoctoseconds
