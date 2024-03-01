@@ -536,6 +536,7 @@ acidities
 acidness
 acidnesses
 acidophile
+acidophils
 acidoses
 acidosis
 acidotic
@@ -1830,6 +1831,7 @@ airfare
 airfield
 airfields
 airflow
+airflows
 airframe
 airframes
 airfreighted
@@ -4668,6 +4670,7 @@ aquacades
 aquacultural
 aquaculture
 aquacultures
+aquaculturists
 aquafarm
 aquafarms
 aqualung
@@ -5998,6 +6001,7 @@ atypicalities
 atypicality
 atypically
 aubades
+auberge
 aubergine
 aubretia
 aubrietas
@@ -12300,6 +12304,7 @@ buckboards
 buckbrushes
 bucked
 buckeen
+buckeens
 bucker
 buckeroo
 buckers
@@ -12802,6 +12807,7 @@ bursts
 burthened
 burton
 burweeds
+bury
 busbar
 busboy
 busby
@@ -14176,6 +14182,7 @@ carbinols
 carbocyclic
 carbohydrase
 carbohydrases
+carbohydrate
 carbolic
 carbolics
 carbolized
@@ -21848,6 +21855,7 @@ coxcombs
 coxed
 coxitides
 coxitis
+coxswained
 coxswaining
 coxswains
 coydog
@@ -22001,6 +22009,7 @@ crankpin
 cranks
 crankshaft
 crankshafts
+crannog
 crannoge
 crannoges
 crannogs
@@ -22793,6 +22802,7 @@ ctenidium
 ctenoid
 ctenophoran
 ctenophore
+ctenophores
 cuadrilla
 cuadrillas
 cuatro
@@ -23564,6 +23574,7 @@ cytokinins
 cytologic
 cytological
 cytologically
+cytologist
 cytology
 cytolyses
 cytolysin
@@ -31619,6 +31630,7 @@ empresses
 emprise
 emprises
 emprizes
+emptied
 emptier
 emptiers
 emptily
@@ -32496,6 +32508,7 @@ entrechat
 entrechats
 entrees
 entrenched
+entrenches
 entrenching
 entrenchments
 entrepot
@@ -37498,6 +37511,7 @@ flukiness
 flukinesses
 fluking
 flume
+flumed
 fluming
 flummery
 flummox
@@ -43713,6 +43727,7 @@ hammerheads
 hammering
 hammerkop
 hammerkops
+hammerless
 hammerlock
 hammertoe
 hammier
@@ -47323,6 +47338,7 @@ hypnoidal
 hypnology
 hypnoses
 hypnosis
+hypnotherapist
 hypnotherapy
 hypnotic
 hypnotics
@@ -47797,6 +47813,7 @@ illuminist
 illusional
 illusionist
 illusionistic
+illusions
 illusive
 illusively
 illusiveness
@@ -50904,6 +50921,7 @@ intreating
 intreats
 intrench
 intrenched
+intrenches
 intrepidities
 intrepidity
 intrepidly
@@ -59508,6 +59526,7 @@ mesic
 mesically
 mesmerically
 mesmerise
+mesmerised
 mesmerising
 mesmerism
 mesmerisms
@@ -60609,6 +60628,7 @@ minishes
 minishing
 miniskirt
 miniskirts
+miniskis
 ministate
 ministates
 minister
@@ -62635,6 +62655,7 @@ mourner
 mournful
 mournfuller
 mournfullest
+mournfully
 mournfulness
 mourning
 mourningly
@@ -68830,6 +68851,7 @@ outsmarted
 outsmarting
 outsmell
 outsmelling
+outsmells
 outsmile
 outsmiled
 outsmiling
@@ -71355,6 +71377,7 @@ parsimoniously
 parsimony
 parsing
 parsley
+parsleyed
 parsleys
 parslied
 parsnip
@@ -75834,6 +75857,7 @@ poppycocks
 poppyheads
 pops
 popsicle
+popsicles
 popsie
 popsies
 popsy
@@ -86667,6 +86691,7 @@ roundtrip
 roundtrips
 roundup
 roundwood
+roundworm
 roup
 rouped
 roupet
@@ -88385,6 +88410,7 @@ sceneries
 scenery
 scenes
 sceneshifters
+scenical
 scenically
 scenographic
 scenographies
@@ -88616,6 +88642,7 @@ scissoring
 scissortail
 scissortails
 scissure
+sciurid
 sciurids
 sciurine
 sciuroid
@@ -103049,6 +103076,7 @@ torot
 toroth
 torous
 torpedoed
+torpedoing
 torpedos
 torpid
 torpidities
@@ -104752,6 +104780,7 @@ trystes
 trysting
 tryworks
 tsaddik
+tsaddikim
 tsade
 tsadi
 tsadis
@@ -105743,6 +105772,7 @@ unadventurous
 unadvertised
 unadvised
 unadvisedly
+unaesthetic
 unaffectedly
 unaffiliated
 unaffordable
@@ -107272,6 +107302,7 @@ unlawfully
 unlawfulness
 unlays
 unlead
+unleaded
 unleadeds
 unleads
 unlearn
@@ -108927,6 +108958,7 @@ valence
 valences
 valencias
 valentine
+valentines
 valerate
 valerian
 valerians
@@ -109320,6 +109352,7 @@ veinulets
 veiny
 vela
 velamina
+velarization
 velarize
 velarized
 velarizes
@@ -110525,6 +110558,7 @@ vouchered
 vouchering
 vouchers
 vouches
+vouching
 vouchsafe
 vouchsafed
 vouchsafement
@@ -112965,6 +112999,7 @@ worsted
 worsteds
 worsts
 wort
+worthful
 worthiness
 worthinesses
 worthing
