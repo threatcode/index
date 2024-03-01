@@ -1,0 +1,4 @@
+SQL/IndexMaintenance.sql at master · mmessano/SQL - GitHub,https://github.com/mmessano/SQL/blob/master/IndexMaintenance.sql
+usp_AdaptiveIndexDefrag.sql - microsoft/tigertoolbox - GitHub,https://github.com/microsoft/tigertoolbox/blob/master/AdaptiveIndexDefrag/usp_AdaptiveIndexDefrag.sql
+persist/src/test/resources/schema.sql - LCSB GitLab,https://git-r3lab.uni.lu/nils.christian/minerva/blob/19e2fdde99056bcaf254cc19b1bc0d3546f84b55/persist/src/test/resources/schema.sql
+core - persist - migration-scripts - db_0_to_11.0.1.sql - LCSB GitLab,https://git-r3lab.uni.lu/minerva/core/blob/e16e68e2a90f8cedd99ad291341c7626829b07a8/persist/migration-scripts/db_0_to_11.0.1.sql
