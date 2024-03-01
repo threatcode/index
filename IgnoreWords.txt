@@ -3716,6 +3716,7 @@ anthracene
 anthraces
 anthracite
 anthracitic
+anthracnoses
 anthranilates
 anthraquinone
 anthraquinones
@@ -5316,6 +5317,7 @@ arytenoid
 asafetida
 asafetidas
 asafoetida
+asafoetidas
 asanas
 asarum
 asbestic
@@ -11660,6 +11662,7 @@ brawled
 brawler
 brawlers
 brawlie
+brawliest
 brawling
 brawls
 brawn
@@ -15191,6 +15194,7 @@ ceintures
 celadon
 celadons
 celandine
+celandines
 celebrant
 celebrants
 celebrate
@@ -17583,6 +17587,7 @@ clepsydrae
 clepsydras
 clept
 clerestories
+clerestory
 clergyman
 clergywoman
 cleric
@@ -33775,6 +33780,7 @@ euonymus
 euonymuses
 eupatrid
 eupatridae
+eupepsias
 eupepsies
 eupepsy
 eupeptic
@@ -34334,6 +34340,7 @@ exergonic
 exergue
 exerting
 exertions
+exertive
 exes
 exeunt
 exfoliate
@@ -50098,6 +50105,7 @@ inquiline
 inquilines
 inquire
 inquired
+inquirer
 inquires
 inquiries
 inquiring
@@ -50569,6 +50577,7 @@ intercoms
 interconnected
 interconnecting
 interconvert
+intercooler
 intercoolers
 intercorporate
 intercorrelate
@@ -50765,6 +50774,7 @@ intermediating
 intermediation
 intermediations
 intermedins
+intermembrane
 intermenstrual
 interment
 intermesh
@@ -56500,6 +56510,7 @@ lockjaw
 lockkeepers
 lockmaker
 locknuts
+lockout
 lockouts
 lockram
 lockrams
@@ -60843,6 +60854,7 @@ minimizing
 minims
 mining
 minings
+minion
 minipills
 minischool
 minischools
@@ -63478,6 +63490,7 @@ muscle
 muscled
 muscleman
 musclemen
+muscles
 muscling
 muscly
 muscovado
@@ -64304,6 +64317,7 @@ necrose
 necrosing
 necrosis
 necrotic
+necrotized
 necrotomies
 nectar
 nectarean
@@ -71080,6 +71094,7 @@ panhandles
 panhandling
 panhuman
 panic
+panically
 panicked
 panickier
 panicking
@@ -73772,6 +73787,7 @@ phosphorylate
 phosphorylated
 phosphorylating
 phosphorylation
+phosphorylative
 phosphoryls
 photic
 photically
@@ -74245,6 +74261,7 @@ piecemeal
 piecer
 piecers
 pieces
+piecewise
 piecework
 pieceworker
 pieceworkers
@@ -75197,6 +75214,7 @@ plebeianism
 plebeianisms
 plebeianly
 plebeians
+plebes
 plebiscitary
 plebiscite
 plebiscites
@@ -77640,6 +77658,7 @@ presanctified
 presbyope
 presbyopias
 presbyopic
+presbyopics
 presbyter
 presbyterate
 presbyterially
@@ -78685,6 +78704,7 @@ propagations
 propagators
 propagule
 propagules
+propane
 propanes
 propellant
 propellants
@@ -78906,6 +78926,7 @@ prossies
 prostacyclins
 prostaglandin
 prostaglandins
+prostatectomies
 prostatic
 prostatitises
 prostheses
@@ -81041,6 +81062,7 @@ rajahs
 rajas
 rake
 rakee
+rakees
 rakehell
 rakehelly
 rakeoffs
@@ -81473,6 +81495,7 @@ ravisher
 ravishers
 ravishes
 ravishing
+ravishments
 rawest
 rawhide
 rawhiding
@@ -81615,6 +81638,7 @@ reafforestation
 reagent
 reagents
 reaggregate
+reaggregated
 reaggregating
 reaggregation
 reaggregations
@@ -81857,6 +81881,7 @@ reblends
 rebloom
 rebloomed
 reblooms
+reboant
 reboarded
 reboarding
 reboards
@@ -88554,6 +88579,7 @@ scad
 scads
 scaffolding
 scaffoldings
+scag
 scagliola
 scags
 scalable
@@ -88981,6 +89007,7 @@ scintillometer
 sciolism
 sciolisms
 sciolistic
+sciolists
 scion
 scions
 scirocco
@@ -92443,6 +92470,7 @@ skeps
 skepsis
 skeptical
 skeptically
+skepticisms
 skerries
 skerry
 sketchbook
@@ -92917,6 +92945,7 @@ slimily
 sliminesses
 sliming
 slimly
+slimmer
 slimmers
 slimmest
 slimming
@@ -93722,6 +93751,7 @@ soapbarks
 soapberries
 soapbox
 soapboxes
+soapboxing
 soaped
 soaper
 soapiness
@@ -96144,6 +96174,7 @@ stavudines
 staw
 stayer
 staying
+stays
 staysail
 staysails
 stead
@@ -100572,6 +100603,7 @@ tannest
 tannic
 tannin
 tannins
+tannish
 tannoy
 tanrec
 tanrecs
@@ -109691,6 +109723,7 @@ vatting
 vaudevillians
 vault
 vaulted
+vaultier
 vaultiest
 vaulting
 vaultingly
@@ -113146,6 +113179,7 @@ womanish
 womanishness
 womanist
 womanize
+womanized
 womanizer
 womanizers
 womanizing
@@ -114462,6 +114496,7 @@ zygomatics
 zygomorphic
 zygomorphies
 zygomorphy
+zygose
 zygosis
 zygosities
 zygospores
