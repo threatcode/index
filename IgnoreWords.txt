@@ -4876,6 +4876,7 @@ architecture
 architectures
 architrave
 architraves
+archive
 archived
 archives
 archiving
@@ -6270,6 +6271,7 @@ autologous
 autolysate
 autolysates
 autolyse
+autolyses
 autolysing
 autolysins
 autolysis
@@ -15306,6 +15308,7 @@ centralism
 centralisms
 centralist
 centralistic
+centralists
 centrality
 centralization
 centralizations
@@ -15557,6 +15560,7 @@ chairmanning
 chairmans
 chairmanship
 chairmanships
+chairmen
 chairperson
 chairpersons
 chairs
@@ -18399,6 +18403,7 @@ cognizant
 cognize
 cognized
 cognizer
+cognizes
 cognomen
 cognomens
 cognomina
@@ -22686,6 +22691,7 @@ crunchable
 cruncher
 crunchers
 crunches
+crunchier
 crunchiest
 crunchily
 crunchiness
@@ -34477,6 +34483,7 @@ experimentation
 experimenting
 expert
 experted
+experting
 expertise
 expertises
 expertism
@@ -35421,6 +35428,7 @@ farmerettes
 farmhouse
 farmhouses
 farming
+farmings
 farmstead
 farmsteads
 farmwife
@@ -35603,6 +35611,7 @@ faultlessly
 faultlessnesses
 faulty
 faun
+fauna
 faunally
 faunas
 faunlike
@@ -39078,6 +39087,7 @@ frowsier
 frowsiest
 frowst
 frowstiest
+frowsting
 frowsts
 frowsty
 frowsy
@@ -44278,6 +44288,7 @@ haunches
 haunt
 haunter
 haunters
+haunting
 haunts
 hausfrau
 hausfrauen
@@ -45015,6 +45026,7 @@ henrys
 hented
 henting
 hents
+hep
 heparinized
 heparins
 hepatectomies
@@ -48261,6 +48273,7 @@ impersonalizing
 impersonally
 impersonated
 impersonates
+impersonating
 impersonator
 impertinence
 impertinency
@@ -48862,6 +48875,7 @@ inconsistent
 inconsistently
 inconsolable
 inconsonant
+inconspicuous
 inconspicuously
 inconstancies
 inconstancy
@@ -55955,6 +55969,7 @@ liquidates
 liquidating
 liquidations
 liquidator
+liquidators
 liquidities
 liquidize
 liquidized
@@ -57737,6 +57752,7 @@ maledictions
 maledictory
 maledicts
 malefaction
+malefactor
 malefic
 maleficence
 malemiut
@@ -58727,6 +58743,7 @@ maulers
 mauls
 maulsticks
 maumet
+maumetries
 maumets
 maun
 maund
@@ -59748,6 +59765,7 @@ metaphors
 metaphosphate
 metaphrase
 metaphrases
+metaphysic
 metaphysical
 metaphysically
 metaphysician
@@ -67327,6 +67345,7 @@ omophagias
 omophagic
 omophagy
 omphalos
+omphaloskepses
 omphaloskepsis
 oms
 on
@@ -70583,6 +70602,7 @@ palatial
 palatially
 palatialness
 palatialnesses
+palatinates
 palatines
 palaver
 palavered
@@ -72260,6 +72280,7 @@ pelvic
 pelvics
 pelvis
 pelvises
+pembinas
 pemoline
 pemphigus
 pemphiguses
@@ -75299,6 +75320,7 @@ podocarp
 podomere
 podophyllins
 podophyllum
+pods
 podsolizations
 podzolic
 podzolizations
@@ -79024,6 +79046,7 @@ pseuds
 pshawed
 pshawing
 pshaws
+psi
 psilocin
 psilocybin
 psilophytes
@@ -83664,6 +83687,7 @@ remedies
 remediless
 remedy
 remeet
+remeeting
 remelt
 remelted
 remelting
@@ -85457,6 +85481,7 @@ revictualing
 revictualled
 revictualling
 review
+reviewable
 reviewal
 reviewals
 reviewed
@@ -87505,6 +87530,7 @@ salivated
 salivates
 salivation
 salivations
+salivator
 sall
 sallied
 sallier
@@ -87658,6 +87684,7 @@ sameness
 samenesses
 samiel
 samiels
+samisen
 samisens
 samizdat
 samlets
@@ -89588,6 +89615,7 @@ seignory
 seiner
 seiners
 seining
+seis
 seisable
 seised
 seisin
@@ -92642,6 +92670,7 @@ slipless
 slipout
 slipover
 slippages
+slipped
 slipper
 slippered
 slipperiest
@@ -92725,6 +92754,7 @@ sloshiest
 slot
 slotback
 slotbacks
+sloth
 slothfully
 slothfulness
 slothfulnesses
@@ -93872,6 +93902,7 @@ sonobuoy
 sonogram
 sonograms
 sonographies
+sonorants
 sonority
 sonorous
 sonorously
@@ -95839,6 +95870,7 @@ stealage
 stealages
 stealing
 stealings
+steals
 stealthier
 stealthiness
 steam
@@ -108585,6 +108617,7 @@ upstair
 upstairs
 upstandingness
 upstands
+upstare
 upstares
 upstart
 upstarted
@@ -109953,6 +109986,7 @@ victimising
 victimizers
 victimologist
 victimologists
+victimology
 victor
 victories
 victorious
@@ -110946,6 +110980,7 @@ walling
 walloped
 walloper
 wallopers
+walloping
 wallopings
 wallow
 wallower
