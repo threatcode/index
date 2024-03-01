@@ -1121,6 +1121,7 @@ advancement
 advancements
 advancer
 advancing
+advantageous
 advantageously
 advantages
 advected
@@ -5574,6 +5575,7 @@ assigners
 assigning
 assignment
 assignments
+assignors
 assigns
 assimilable
 assimilated
@@ -7289,6 +7291,7 @@ banditti
 bandleaders
 bandmaster
 bandmate
+bandog
 bandogs
 bandoleer
 bandolier
@@ -11394,6 +11397,7 @@ boxhauling
 boxhauls
 boxier
 boxiest
+boxily
 boxiness
 boxinesses
 boxing
@@ -18915,6 +18919,7 @@ combaters
 combative
 combatively
 combats
+combatting
 combe
 comber
 combers
@@ -20729,6 +20734,7 @@ cooncan
 cooncans
 coonhound
 coonskin
+coonskins
 coontie
 cooped
 cooperage
@@ -31006,6 +31012,7 @@ eirenical
 eisegeses
 eisegesis
 eisteddfod
+eisteddfods
 eiswein
 eisweins
 ejaculates
@@ -33920,6 +33927,7 @@ evenhanded
 evenhandedness
 evenings
 evenness
+evens
 event
 eventful
 eventfully
@@ -37520,6 +37528,7 @@ floriculturist
 florid
 floridities
 floridity
+floridnesses
 floriferous
 florigenic
 florigens
@@ -37557,6 +37566,7 @@ flourished
 flourisher
 flourishers
 flourishing
+flourishingly
 flours
 floury
 flout
@@ -40092,6 +40102,7 @@ garb
 garbageman
 garbagemen
 garbages
+garbanzo
 garbanzos
 garble
 garbled
@@ -42382,6 +42393,7 @@ graplines
 grapnel
 grapnels
 grappler
+grapplers
 grapples
 graptolite
 graptolites
@@ -44927,6 +44939,7 @@ hellenize
 hellenizes
 hellenizing
 helleri
+helleries
 helleris
 hellfires
 hellgrammite
@@ -61455,6 +61468,7 @@ misplan
 misplanning
 misplanted
 misplanting
+misplants
 misplays
 mispleaded
 mispleading
@@ -61886,6 +61900,7 @@ modesties
 modestly
 modi
 modica
+modicum
 modifiability
 modification
 modifications
@@ -62601,6 +62616,7 @@ morphia
 morphias
 morphic
 morphine
+morphines
 morphing
 morphins
 morpho
@@ -62718,6 +62734,7 @@ motherboards
 mothered
 motherfuckers
 motherhood
+motherhoods
 motherhouse
 mothering
 motherings
@@ -67925,6 +67942,7 @@ ordered
 orderers
 ordering
 orderlies
+orderliness
 orderlinesses
 orderly
 ordinally
@@ -67989,6 +68007,7 @@ organology
 organometallic
 organometallics
 organon
+organosols
 organs
 organum
 organza
@@ -68538,6 +68557,7 @@ outdatedness
 outdates
 outdazzle
 outdazzling
+outdebate
 outdebating
 outdeliver
 outdesign
@@ -68696,6 +68716,7 @@ outgoings
 outgone
 outgrew
 outgrins
+outgrossed
 outgrossing
 outgroup
 outgrow
@@ -70675,6 +70696,7 @@ paganizing
 page
 pageant
 pageantries
+pageantry
 pageboy
 pageboys
 paged
@@ -73092,6 +73114,7 @@ perplexer
 perplexing
 perplexities
 perplexity
+perquisite
 perquisites
 perrons
 perry
@@ -74599,6 +74622,7 @@ piquantly
 piquantness
 piquantnesses
 piqued
+piquet
 piquets
 piracetam
 piracetams
@@ -76342,6 +76366,7 @@ postdivestiture
 postdivorce
 postdocs
 postdoctoral
+postdrug
 posted
 postediting
 posteen
@@ -77469,6 +77494,7 @@ prepasted
 prepastes
 prepasting
 prepave
+prepaved
 prepaving
 prepay
 prepaying
@@ -78506,6 +78532,7 @@ prolixity
 prolixly
 prolocutors
 prologist
+prologize
 prologized
 prologizes
 prologue
@@ -87365,6 +87392,7 @@ rusty
 rut
 rutabaga
 ruth
+rutheniums
 rutherfordiums
 ruthful
 ruthfully
@@ -87467,6 +87495,7 @@ saccharomyces
 saccharomycetes
 saccular
 sacculate
+sacculation
 saccules
 sacerdotal
 sacerdotalisms
@@ -88749,6 +88778,7 @@ schemer
 schemes
 scherzandos
 scherzos
+schiller
 schism
 schismatic
 schismatical
@@ -89638,6 +89668,7 @@ secretest
 secretin
 secretion
 secretionary
+secretions
 secretive
 secretively
 secretiveness
@@ -90468,6 +90499,7 @@ serologies
 serologist
 serologists
 serology
+seronegative
 seronegativity
 seropositive
 seropositivity
@@ -97464,6 +97496,7 @@ subadolescent
 subadults
 subaerial
 subaerially
+subagencies
 subagents
 subahdar
 subahdars
@@ -97571,6 +97604,7 @@ subcortexes
 subcortices
 subcostals
 subcounties
+subcounty
 subcritical
 subcrustal
 subcult
@@ -111122,6 +111156,7 @@ waggeries
 waggers
 waggishnesses
 waggle
+waggled
 waggles
 waggling
 waggly
