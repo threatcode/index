@@ -706,6 +706,7 @@ actinomycin
 actinomycins
 actinomycoses
 actinomycosis
+actinomycotic
 actinon
 actinons
 action
@@ -5325,8 +5326,10 @@ artistic
 artistically
 artistries
 artistry
+artless
 artlessly
 artlessnesses
+arts
 artsiest
 artsiness
 artsinesses
@@ -8856,6 +8859,7 @@ berberins
 berberis
 berberises
 berceuse
+berceuses
 berdache
 berdaches
 bereave
@@ -10779,6 +10783,7 @@ bohunk
 bohunks
 boilable
 boiled
+boilermaker
 boilerplate
 boilerplates
 boilers
@@ -12887,6 +12892,7 @@ burners
 burnets
 burnie
 burnings
+burnish
 burnisher
 burnishes
 burnishing
@@ -19440,6 +19446,7 @@ complainants
 complained
 complainers
 complaining
+complaints
 complaisance
 complaisances
 complaisantly
@@ -20726,6 +20733,7 @@ convalescents
 convecting
 convectional
 convections
+convective
 convectors
 convects
 convened
@@ -23268,6 +23276,7 @@ cupellers
 cupelling
 cupels
 cupferrons
+cupful
 cupfuls
 cupid
 cupidities
@@ -23588,6 +23597,7 @@ cyanids
 cyanine
 cyanitic
 cyanoacrylate
+cyanoacrylates
 cyanobacteria
 cyanoethylated
 cyanoethylates
@@ -32101,6 +32111,7 @@ encina
 encinas
 encipher
 encipherer
+encipherment
 encipherments
 enciphers
 encircle
@@ -32283,6 +32294,7 @@ endoparasites
 endoparasitic
 endopeptidase
 endopeptidases
+endoperoxide
 endoperoxides
 endophytes
 endophytic
@@ -32802,6 +32814,7 @@ entoderm
 entodermic
 entoderms
 entoiling
+entomb
 entombed
 entombment
 entombs
@@ -36036,6 +36049,7 @@ feater
 featherbed
 featherbedding
 featherbeds
+featherbrain
 feathered
 featheredge
 featheredged
@@ -45056,6 +45070,7 @@ heder
 hedge
 hedged
 hedgehog
+hedgehop
 hedgehopped
 hedgehopper
 hedgehoppers
@@ -52199,6 +52214,7 @@ italicization
 italicizations
 italicize
 italicizes
+italicizing
 italics
 itch
 itched
@@ -56259,6 +56275,7 @@ limner
 limnetic
 limnic
 limning
+limnologic
 limnological
 limnologies
 limnologists
@@ -58759,6 +58776,7 @@ marcels
 marchen
 marcher
 marchers
+marchesa
 marching
 marchioness
 marchland
@@ -65316,6 +65334,7 @@ niellists
 niello
 nielloed
 nielloing
+niellos
 nieve
 nifedipine
 nifedipines
@@ -70839,6 +70858,7 @@ overwriting
 overwritten
 overwrote
 overwrought
+overzeal
 overzealous
 overzealousness
 overzeals
@@ -73435,6 +73455,7 @@ periodontally
 periodontics
 periodontist
 periodontists
+periodontology
 perionychia
 perionychium
 periostea
@@ -76598,6 +76619,7 @@ poohing
 poohs
 pooing
 pooler
+poolers
 poolhalls
 poolroom
 poolrooms
@@ -78918,6 +78940,7 @@ profiler
 profilers
 profiles
 profiling
+profilings
 profit
 profitabilities
 profitability
@@ -80321,6 +80344,7 @@ purgation
 purgations
 purgatives
 purgatories
+purgatory
 purgeable
 purged
 purger
@@ -80332,6 +80356,7 @@ purifications
 purificator
 purificators
 purificatory
+purified
 purifier
 purify
 purifying
@@ -81060,6 +81085,7 @@ quillajas
 quillback
 quillbacks
 quilled
+quillet
 quillets
 quilling
 quillings
@@ -81335,6 +81361,7 @@ radding
 raddled
 raddling
 radiable
+radiale
 radials
 radian
 radiances
@@ -81486,6 +81513,7 @@ ragouted
 ragpicker
 ragpickers
 ragtags
+ragtime
 ragtimes
 ragtop
 ragweed
@@ -83596,6 +83624,7 @@ reflexively
 reflexiveness
 reflexivenesses
 reflexives
+reflexivity
 reflexly
 reflexologies
 reflexology
@@ -87916,6 +87945,7 @@ rupee
 rupees
 rupiah
 rupture
+ruptured
 ruptures
 rural
 ruralise
@@ -91219,6 +91249,7 @@ setline
 setlines
 setoff
 setout
+sets
 setscrews
 sett
 settee
@@ -94303,6 +94334,7 @@ snuffler
 snufflers
 snuffles
 snufflier
+snuffliest
 snuffling
 snuffly
 snuffs
@@ -113310,6 +113342,7 @@ widdie
 widdling
 wide
 wideawake
+wideband
 widebody
 widely
 widemouthed
@@ -114832,6 +114865,7 @@ yuppiedoms
 yuppieish
 yuppies
 yuppified
+yuppifies
 yuppifying
 yuppy
 yups
@@ -114917,6 +114951,7 @@ zeatins
 zebec
 zebecs
 zebrafish
+zebraic
 zebrano
 zebranos
 zebrass
