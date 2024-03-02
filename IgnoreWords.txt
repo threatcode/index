@@ -9544,6 +9544,7 @@ bioassay
 bioassayed
 bioassaying
 bioassays
+bioavailability
 bioavailable
 biocenose
 biocenoses
@@ -17785,6 +17786,7 @@ clodhoppers
 clodhopping
 clodpate
 clodpates
+clodpoles
 clodpoll
 clodpolls
 clods
@@ -18939,6 +18941,7 @@ columbary
 columbine
 columbite
 columbium
+columbiums
 columel
 columellae
 columellar
@@ -19443,6 +19446,7 @@ composedly
 composedness
 composers
 composes
+composing
 composites
 compositing
 compositional
@@ -26512,6 +26516,7 @@ devalued
 devalues
 devas
 devastate
+devastated
 devastating
 devastatingly
 devastations
@@ -28252,6 +28257,7 @@ displaces
 displant
 displanting
 display
+displayable
 displayed
 displayer
 displayers
@@ -28656,6 +28662,7 @@ diva
 divagate
 divagated
 divagates
+divagating
 divalence
 divalent
 divan
@@ -34375,6 +34382,7 @@ execrator
 execs
 executable
 executant
+executants
 execute
 executer
 executes
@@ -36417,6 +36425,7 @@ fibbing
 fiberboard
 fiberboards
 fibered
+fiberfill
 fiberglassed
 fiberization
 fiberizations
@@ -40275,6 +40284,7 @@ garnishees
 garnisher
 garnishes
 garnishment
+garniture
 garote
 garotes
 garotted
@@ -41129,6 +41139,7 @@ gigolo
 gigs
 gigue
 gilberts
+gild
 gilders
 gildhall
 gildhalls
@@ -44286,6 +44297,7 @@ hardfisted
 hardgoods
 hardhacks
 hardhanded
+hardhandedness
 hardhat
 hardhats
 hardhead
@@ -45683,6 +45695,7 @@ hierurgy
 hies
 hifalutin
 higgle
+higgling
 high
 highballed
 highballing
@@ -46271,6 +46284,7 @@ homocercy
 homoerotic
 homoeroticism
 homoeroticisms
+homogamies
 homogamous
 homogenates
 homogeneity
@@ -47177,6 +47191,7 @@ husky
 hussar
 hussars
 hussies
+hussy
 hustings
 hustle
 hustled
@@ -47219,6 +47234,7 @@ hybridist
 hybridists
 hybridity
 hybridizations
+hybridized
 hybridizer
 hybridizes
 hybridomas
@@ -49873,6 +49889,7 @@ infract
 infraction
 infractions
 infractors
+infracts
 infrahuman
 infrahumans
 infrangibility
@@ -57020,6 +57037,7 @@ lotted
 lotter
 lotteries
 lottery
+lotto
 lottos
 lotus
 lotuses
@@ -63634,6 +63652,7 @@ muscarines
 muscarinic
 muscat
 muscatel
+muscatels
 muscats
 muscle
 muscled
@@ -63952,6 +63971,7 @@ mystified
 mystifier
 mystifiers
 mystifies
+mystifying
 mystifyingly
 mythic
 mythically
@@ -65387,6 +65407,7 @@ nomarchy
 nomas
 nombles
 nombrils
+nome
 nomen
 nomenclatorial
 nomenclatural
@@ -67185,6 +67206,7 @@ obturator
 obturators
 obtuse
 obtusely
+obtusenesses
 obtuser
 obtusest
 obtusity
@@ -73976,6 +73998,7 @@ photobiologies
 photobiologist
 photobiology
 photocells
+photochemical
 photochemically
 photochemist
 photochromic
@@ -75067,6 +75090,7 @@ placoids
 plafond
 plafonds
 plage
+plagiaries
 plagiarise
 plagiarises
 plagiarising
@@ -75096,6 +75120,7 @@ plainnesses
 plains
 plainsman
 plainsongs
+plainspoken
 plaintext
 plaintexts
 plaintful
@@ -77266,6 +77291,7 @@ predations
 predatisms
 predator
 predatory
+predawns
 predeath
 predeaths
 predecease
@@ -77301,6 +77327,7 @@ predevaluation
 predevelopment
 prediabetes
 prediabeteses
+prediabetic
 prediabetics
 predial
 predicament
@@ -81408,6 +81435,7 @@ ransacks
 ransom
 ransomer
 ransomers
+ransoming
 rant
 ranted
 ranter
@@ -89169,6 +89197,7 @@ schoolmate
 schoolmates
 schoolroom
 schoolrooms
+schools
 schoolworks
 schorls
 schriks
@@ -95311,6 +95340,7 @@ spiks
 spile
 spiles
 spilikin
+spilikins
 spill
 spillable
 spillage
@@ -100488,6 +100518,7 @@ tachylites
 tachylytes
 tachyon
 tachyonic
+tachyons
 tacit
 tacitness
 tacitnesses
@@ -106566,6 +106597,7 @@ unatoned
 unattached
 unattainable
 unattenuated
+unattested
 unattired
 unattractively
 unattributed
@@ -109258,6 +109290,7 @@ upstirring
 upstirs
 upstream
 upstroke
+upstrokes
 upsurge
 upsurged
 upsweep
@@ -110028,6 +110061,7 @@ vedettes
 veejay
 veena
 veepee
+veeps
 veered
 veering
 veeringly
@@ -113270,6 +113304,7 @@ wisecracking
 wised
 wiseguy
 wiseguys
+wiselier
 wiseliest
 wisely
 wiseness
