@@ -261,6 +261,7 @@ accentuations
 accept
 acceptabilities
 acceptability
+acceptableness
 acceptably
 acceptance
 acceptances
@@ -3978,6 +3979,7 @@ antimonopoly
 antimony
 antimosquito
 antimusic
+antimusical
 antimusics
 antimycin
 antimycins
@@ -5258,6 +5260,7 @@ arthropathies
 arthropathy
 arthropod
 arthropodan
+arthropods
 arthroscope
 arthroscopes
 arthroscopic
@@ -6122,6 +6125,7 @@ auntie
 auntlier
 auntliest
 aura
+aurae
 aural
 aurality
 aurally
@@ -8396,6 +8400,7 @@ begazed
 begazing
 beget
 begets
+begetting
 beggardom
 beggaring
 beggarlinesses
@@ -14082,6 +14087,7 @@ caponier
 caponiers
 caponize
 caponized
+caponizes
 capons
 caporals
 capotes
@@ -16272,6 +16278,7 @@ chicanes
 chicaning
 chicano
 chicanos
+chiccories
 chicer
 chicest
 chichier
@@ -19233,6 +19240,7 @@ comous
 comp
 compact
 compacter
+compacters
 compacting
 compactions
 compactly
@@ -21443,6 +21451,7 @@ costumey
 costumier
 cosurfactants
 cosy
+cosying
 cotan
 cotangent
 cotangents
@@ -22208,6 +22217,7 @@ crawlways
 crawly
 craws
 crayoned
+crayoners
 crayoning
 crayonist
 crayonists
@@ -22935,6 +22945,7 @@ cubage
 cubanelle
 cubature
 cubbies
+cubbish
 cubby
 cubbyholes
 cube
@@ -25331,6 +25342,7 @@ delinquencies
 delinquency
 deliquesce
 deliquescence
+deliquescences
 deliquescent
 deliquescing
 deliria
@@ -27448,6 +27460,7 @@ dippers
 dippier
 dippiest
 dippiness
+dippinesses
 dipping
 dippy
 diprotic
@@ -29338,6 +29351,7 @@ dourer
 dourest
 dourine
 dourness
+dournesses
 douse
 doused
 douser
@@ -31394,6 +31408,7 @@ eluders
 eludes
 eluding
 eluent
+elusion
 elusions
 elusively
 elusiveness
@@ -34372,6 +34387,7 @@ exequaturs
 exequial
 exequies
 exercisable
+exercise
 exerciser
 exercisers
 exercitation
@@ -49342,6 +49358,7 @@ indigen
 indigence
 indigences
 indigency
+indigene
 indigenization
 indigenizing
 indigenous
@@ -58289,6 +58306,7 @@ manioca
 maniocs
 maniple
 maniples
+manipulability
 manipulable
 manipular
 manipulars
@@ -58675,6 +58693,7 @@ martyrizations
 martyrizes
 martyrizing
 martyrly
+martyrologist
 martyrologists
 martyrology
 martyry
@@ -62304,6 +62323,7 @@ monocline
 monoclines
 monoclinic
 monoclonal
+monocoque
 monocoques
 monocots
 monocotyl
@@ -63648,6 +63668,7 @@ musteline
 muster
 mustered
 mustering
+musths
 mustier
 mustily
 musting
@@ -64052,6 +64073,7 @@ napery
 naphtha
 naphthas
 naphthenes
+naphthol
 naphthols
 naphthyl
 naphthylamine
@@ -65645,6 +65667,7 @@ nondollar
 nondomestic
 nondormant
 nondramatic
+nondrinkers
 nondrinking
 nondrip
 nondrivers
@@ -72843,6 +72866,7 @@ peptalks
 peptics
 peptid
 peptidase
+peptides
 peptidic
 peptidoglycan
 peptidoglycans
@@ -73469,6 +73493,7 @@ petroglyph
 petrographer
 petrographers
 petrographic
+petrographical
 petrographies
 petrography
 petrol
@@ -74791,6 +74816,7 @@ pisciculture
 piscicultures
 piscinae
 piscinal
+piscine
 piscivorous
 pisco
 piscos
@@ -76308,6 +76334,7 @@ porkies
 porkiness
 porkinesses
 porking
+porkpie
 porks
 porkwood
 porky
@@ -81382,6 +81409,7 @@ rarest
 rarified
 rarifies
 raring
+rarities
 rasbora
 rasboras
 rascal
@@ -81915,6 +81943,7 @@ reattribute
 reattributes
 reattributing
 reattribution
+reattributions
 reauthorization
 reauthorize
 reauthorized
@@ -85919,6 +85948,7 @@ revivals
 revive
 revived
 revives
+revivification
 revivifications
 revivified
 revivify
@@ -88342,6 +88372,7 @@ sarcenets
 sarcina
 sarcinas
 sarcocarps
+sarcoid
 sarcoidoses
 sarcoids
 sarcolemma
@@ -90781,6 +90812,7 @@ setups
 seven
 sevens
 seventeen
+seventeens
 seventhly
 sevenths
 seventies
@@ -93426,6 +93458,7 @@ smogs
 smokable
 smoke
 smokeable
+smokehouse
 smokehouses
 smokeless
 smokepot
@@ -96361,6 +96394,7 @@ steelmaking
 steelmakings
 steels
 steelwork
+steelworker
 steelworkers
 steely
 steelyard
@@ -113527,6 +113561,7 @@ workflow
 workflows
 workfolk
 workforce
+workforces
 workhorse
 workhorses
 workhour
