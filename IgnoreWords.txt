@@ -3626,6 +3626,7 @@ answerers
 answering
 answers
 ant
+anta
 antacid
 antacids
 antae
@@ -4226,6 +4227,7 @@ any
 anybodies
 anybody
 anymore
+anyone
 anyons
 anyplace
 anythings
@@ -6205,6 +6207,7 @@ autecology
 auteur
 auteurisms
 auteurist
+authentic
 authentically
 authenticated
 authenticates
@@ -6422,6 +6425,7 @@ availableness
 availablenesses
 availed
 availing
+avalanche
 avalanches
 avalanching
 avarice
@@ -6463,6 +6467,7 @@ aversively
 aversiveness
 aversivenesses
 aversives
+avert
 avertable
 averted
 avertible
@@ -13124,6 +13129,7 @@ bylines
 bylining
 byname
 bypass
+bypassed
 bypasses
 bypath
 bypaths
@@ -13678,6 +13684,7 @@ camerlengos
 camion
 camions
 camisa
+camisade
 camisades
 camisado
 camisados
@@ -26609,6 +26616,7 @@ devising
 devisor
 devisors
 devitalizes
+devitrification
 devitrify
 devitrifying
 devocalize
@@ -27389,6 +27397,7 @@ dinnertime
 dinnertimes
 dino
 dinoflagellate
+dinosaur
 dinosaurian
 dinosaurs
 dinotheres
@@ -27473,6 +27482,7 @@ diploid
 diploidies
 diploidy
 diploma
+diplomacies
 diplomacy
 diplomat
 diplomates
@@ -28239,6 +28249,7 @@ dispels
 dispend
 dispended
 dispending
+dispends
 dispensability
 dispensable
 dispensaries
@@ -29436,6 +29447,7 @@ dowdinesses
 dowdy
 dowdyish
 dowed
+doweled
 doweling
 dowelling
 dower
@@ -30065,6 +30077,7 @@ duckboard
 duckboards
 ducker
 duckers
+duckies
 duckiest
 ducking
 ducklings
@@ -30277,6 +30290,7 @@ duotone
 dup
 dupable
 dupe
+duped
 duperies
 dupers
 dupery
@@ -37799,6 +37813,7 @@ flumping
 flumps
 flung
 flunked
+flunkers
 flunkeys
 flunkie
 flunkies
@@ -39550,6 +39565,7 @@ funambulist
 funambulists
 function
 functional
+functionalism
 functionalisms
 functionalist
 functionalistic
@@ -40978,6 +40994,7 @@ gerontocratic
 gerontocrats
 gerontologic
 gerontologies
+gerontologist
 gerontologists
 gerontology
 gerontomorphic
@@ -44317,6 +44334,7 @@ hardcourt
 hardcover
 hardcovers
 hardedges
+hardener
 hardeners
 harder
 hardest
@@ -49395,6 +49413,7 @@ independencies
 independent
 independently
 independents
+indescribable
 indescribably
 indestructible
 indeterminacies
@@ -52367,6 +52386,7 @@ jay
 jaybird
 jaygee
 jayhawkers
+jays
 jayvees
 jaywalked
 jaywalker
@@ -62691,6 +62711,7 @@ moonfishes
 moonflower
 moonier
 mooniest
+moonily
 mooniness
 mooning
 moonish
@@ -62746,6 +62767,7 @@ mooted
 mooters
 mooting
 moots
+mopboard
 mopboards
 mope
 moped
@@ -69382,6 +69404,7 @@ outspelt
 outspend
 outspending
 outspends
+outspoke
 outspoken
 outspokenly
 outspokenness
@@ -72984,6 +73007,7 @@ pepperonis
 peppers
 peppertree
 peppertrees
+peppier
 peppiest
 peppily
 peppiness
@@ -80988,6 +81012,7 @@ quoter
 quoters
 quotes
 quoth
+quotidians
 quotients
 qurshes
 qurush
@@ -82697,6 +82722,7 @@ recruits
 recrystallize
 recrystallizing
 recs
+recta
 rectal
 rectangularity
 rectangularly
@@ -87976,6 +88002,7 @@ saggier
 saggiest
 sagiest
 sagittal
+sagittate
 sago
 sagos
 sags
@@ -91159,6 +91186,7 @@ shakeable
 shakedowns
 shakeout
 shakeup
+shakeups
 shakiest
 shakily
 shakiness
@@ -99119,6 +99147,7 @@ superdiplomat
 supered
 supereffective
 superefficiency
+superefficient
 superegoists
 superegos
 superelevate
@@ -99715,6 +99744,7 @@ suspiration
 suspirations
 suspired
 suspires
+suspiring
 suss
 susses
 sustain
@@ -104610,6 +104640,7 @@ trap
 trapan
 trapanned
 trapball
+trapesed
 trapesing
 trapeze
 trapezia
@@ -105008,6 +105039,7 @@ tricuspid
 tridactyl
 trident
 tridental
+tridimensional
 triduum
 triduums
 tried
@@ -106802,6 +106834,7 @@ unbreeches
 unbridgeable
 unbridged
 unbridled
+unbridling
 unbriefed
 unbright
 unbroken
@@ -110106,6 +110139,7 @@ vavasour
 vavasours
 vavassor
 vavassors
+vavs
 vaw
 vawards
 vawntie
@@ -113104,6 +113138,7 @@ wildwood
 wildwoods
 wile
 wiled
+wiliness
 wiling
 willable
 willed
