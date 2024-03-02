@@ -429,6 +429,7 @@ aceldama
 aceldamas
 acellular
 acephalic
+acephalous
 acequia
 acequias
 acerated
@@ -471,6 +472,7 @@ acetonic
 acetonitriles
 acetophenetidin
 acetose
+acetous
 acetyl
 acetylated
 acetylates
@@ -2740,6 +2742,7 @@ amerced
 amercement
 amercements
 amercers
+amerces
 americiums
 amesace
 amesaces
@@ -6617,6 +6620,7 @@ axial
 axialities
 axially
 axil
+axile
 axilla
 axillars
 axillary
@@ -8248,6 +8252,7 @@ bedlike
 bedmakers
 bedmate
 bedmates
+bedotted
 bedouin
 bedouins
 bedplate
@@ -13278,6 +13283,7 @@ cactus
 cactuses
 cacuminal
 cacuminals
+cad
 cadaster
 cadastrally
 cadaver
@@ -13368,6 +13374,7 @@ caique
 caiques
 caird
 cairds
+cairn
 cairned
 cairngorms
 cairns
@@ -14535,6 +14542,7 @@ carnotite
 carnotites
 carns
 carny
+caroaches
 carobs
 caroch
 caroche
@@ -25410,6 +25418,7 @@ deliquescing
 deliria
 delirious
 deliriously
+deliriousnesses
 delirium
 deliriums
 delist
@@ -33441,6 +33450,7 @@ erses
 erst
 erstwhile
 eruct
+eructate
 eructates
 eructations
 eructing
@@ -34880,6 +34890,7 @@ expungers
 expunges
 expunging
 expurgate
+expurgates
 expurgation
 expurgations
 expurgator
@@ -34928,6 +34939,7 @@ extemporizing
 extendability
 extendable
 extended
+extendedly
 extendedness
 extendednesses
 extender
@@ -36503,6 +36515,7 @@ fibrinogen
 fibrinogens
 fibrinoid
 fibrinolyses
+fibrinolysin
 fibrinolysins
 fibrinolytic
 fibrinopeptide
@@ -37442,6 +37455,7 @@ fleeching
 fleecily
 fleecing
 fleecy
+fleeing
 fleer
 fleered
 fleeringly
@@ -38572,6 +38586,7 @@ formalisms
 formalist
 formalists
 formalizable
+formalization
 formalize
 formalized
 formalizer
@@ -43200,6 +43215,7 @@ grummets
 grumose
 grumous
 grump
+grumped
 grumphies
 grumpiest
 grumpily
@@ -45284,6 +45300,7 @@ hemopoieses
 hemoproteins
 hemoptysis
 hemorrhage
+hemorrhages
 hemorrhagic
 hemorrhoid
 hemorrhoidals
@@ -45786,6 +45803,7 @@ highnesses
 highrise
 highspot
 highspots
+hight
 hightail
 hightailed
 hightailing
@@ -45932,6 +45950,7 @@ hispanisms
 hispid
 hispidity
 hisses
+hissies
 hissiest
 hissing
 hissings
@@ -47331,6 +47350,7 @@ hydrilla
 hydrillas
 hydrobiologies
 hydrobiologist
+hydrobiologists
 hydrobiology
 hydrocarbon
 hydrocarbons
@@ -50448,6 +50468,7 @@ insolubleness
 insolubles
 insolvably
 insolvencies
+insolvents
 insomniac
 insomnias
 insouciant
@@ -51595,6 +51616,7 @@ invoiced
 invoked
 invoker
 invokes
+invoking
 involucel
 involucra
 involucrate
@@ -57169,6 +57191,7 @@ lovablenesses
 lovably
 lovage
 lovages
+lovastatin
 lovats
 loveable
 loveably
@@ -61186,6 +61209,7 @@ mirin
 miriness
 mirinesses
 miring
+mirins
 mirk
 mirker
 mirkest
@@ -64718,6 +64742,7 @@ neoclassicisms
 neoclassicist
 neoclassicists
 neocolonial
+neocolonialisms
 neocolonialist
 neocon
 neocons
@@ -65440,6 +65465,7 @@ nodded
 nodder
 nodders
 nodding
+noddle
 noddled
 noddles
 noddy
@@ -78268,6 +78294,7 @@ preventively
 preventives
 prevents
 preverb
+preverbal
 previable
 previewed
 previewer
@@ -83290,6 +83317,7 @@ reexplores
 reexport
 reexported
 reexporting
+reexpose
 reexposing
 reexposure
 reexposures
@@ -87632,6 +87660,7 @@ rules
 rulier
 ruliest
 rulings
+rum
 rumba
 rumbaed
 rumbaing
@@ -97360,6 +97389,7 @@ straighter
 straightish
 straightlaced
 straightly
+straightness
 straightnesses
 straights
 straightway
@@ -103779,6 +103809,7 @@ toothpaste
 toothpick
 toothpicks
 tooths
+toothsomely
 toothsomeness
 toothsomenesses
 toothwort
@@ -106711,6 +106742,7 @@ unarming
 unarms
 unaroused
 unarrayed
+unartful
 unarticulated
 unashamedly
 unasked
@@ -107130,6 +107162,7 @@ unconquered
 unconscionable
 unconsciously
 unconsecrated
+unconsidered
 unconsolidated
 unconstrained
 unconstraint
@@ -108088,6 +108121,7 @@ unitarianisms
 unitarians
 unitarily
 unitary
+unite
 united
 unitedly
 uniter
@@ -108882,6 +108916,7 @@ unstitches
 unstop
 unstoppably
 unstopped
+unstopper
 unstoppered
 unstoppering
 unstops
