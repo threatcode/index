@@ -3683,6 +3683,7 @@ antetype
 antevert
 anteverted
 anteverting
+anteverts
 anthelia
 anthelices
 anthelix
@@ -4234,6 +4235,7 @@ anywise
 aorist
 aoristic
 aoristically
+aorta
 aortae
 aortal
 aortas
@@ -7488,6 +7490,7 @@ barbwire
 barbwires
 barca
 barcarole
+barcarolle
 barcarolles
 barcas
 barchan
@@ -13460,6 +13463,7 @@ calenderer
 calenderers
 calendering
 calenders
+calendrical
 calends
 calendulas
 calenture
@@ -18555,6 +18559,7 @@ cohobate
 cohobated
 cohobates
 cohog
+cohogs
 coholder
 coholders
 cohomological
@@ -21179,6 +21184,7 @@ cornute
 cornuted
 cornuto
 corodies
+corollaries
 corollary
 corollas
 corollate
@@ -23075,6 +23081,7 @@ culled
 cullender
 cullenders
 culler
+cullets
 cullied
 cullies
 culling
@@ -24948,6 +24955,7 @@ defeated
 defeaters
 defeating
 defeatism
+defeatist
 defeats
 defeatures
 defecate
@@ -31855,6 +31863,7 @@ empoisonments
 empoisons
 emporia
 emporium
+emporiums
 empowerment
 empresses
 emprise
@@ -39739,6 +39748,7 @@ fussinesses
 fussing
 fusspot
 fussy
+fustian
 fustians
 fustics
 fustier
@@ -39939,6 +39949,7 @@ galavant
 galax
 galaxies
 galaxy
+galbanums
 gale
 galea
 galeae
@@ -40032,6 +40043,7 @@ gallus
 galluses
 gally
 galoot
+galoots
 galop
 galopade
 galopades
@@ -48780,6 +48792,7 @@ impropernesses
 impropriety
 improvabilities
 improvable
+improve
 improved
 improvement
 improvements
@@ -49426,6 +49439,7 @@ indictions
 indictment
 indictors
 indie
+indies
 indifferencies
 indifferency
 indifferent
@@ -50752,6 +50766,7 @@ interdepend
 interdepended
 interdependency
 interdependent
+interdepending
 interdepends
 interdialectal
 interdict
@@ -53551,6 +53566,7 @@ kicker
 kickier
 kickiest
 kicking
+kicks
 kickstand
 kickstart
 kickstarted
@@ -53786,6 +53802,7 @@ kists
 kit
 kitbag
 kitbags
+kitchen
 kitchenettes
 kitchenwares
 kite
@@ -70326,6 +70343,7 @@ overruling
 overrunning
 overruns
 overs
+oversad
 oversale
 oversales
 oversalt
@@ -76864,6 +76882,7 @@ pottages
 potted
 potteens
 potter
+pottered
 potterer
 potterers
 potteries
@@ -83282,6 +83301,7 @@ refiltered
 refiltering
 refilters
 refinable
+refinance
 refinanced
 refind
 refinding
@@ -84529,6 +84549,7 @@ reoutfitted
 reoutfitting
 reovirus
 reoviruses
+reoxidation
 reoxidize
 reoxidized
 reoxidizes
@@ -89818,6 +89839,7 @@ seacrafts
 seadog
 seadogs
 seafarer
+seafaring
 seafloor
 seafloors
 seafood
@@ -91457,6 +91479,7 @@ shetlands
 sheuch
 sheuchs
 sheugh
+shewbread
 shewbreads
 shewed
 shewer
@@ -94235,6 +94258,7 @@ solanines
 solanins
 solano
 solanums
+solaria
 solarise
 solarising
 solarism
@@ -95087,6 +95111,7 @@ speciation
 speciational
 speciations
 specie
+speciesisms
 specifiable
 specific
 specifically
@@ -95560,6 +95585,7 @@ splenium
 splenius
 splenomegalies
 splenomegaly
+splents
 spleuchan
 spleuchans
 splice
@@ -96414,6 +96440,7 @@ stateside
 statesman
 statesmanly
 statesmanships
+statesmen
 static
 statically
 statice
@@ -100127,6 +100154,7 @@ syllogizes
 syllogizing
 sylph
 sylphid
+sylphish
 sylphs
 sylvae
 sylvan
@@ -102210,6 +102238,7 @@ thanages
 thanatologies
 thanatologist
 thanatologists
+thanatology
 thanatoses
 thanes
 thaneship
@@ -102298,6 +102327,7 @@ thenar
 thenars
 thence
 thenceforward
+thens
 theobromine
 theobromines
 theocentric
@@ -102938,6 +102968,7 @@ tibiofibula
 tibiofibulae
 tic
 tical
+ticals
 tick
 ticker
 ticket
@@ -110230,6 +110261,7 @@ venerates
 venerating
 veneration
 venereal
+veneries
 venesection
 venesections
 venetian
@@ -110731,6 +110763,7 @@ videophiles
 videophone
 videos
 videotape
+videotaped
 videotaping
 videotexes
 videotext
@@ -111804,6 +111837,7 @@ wardrobed
 wardrobes
 wardrobing
 wardrooms
+wards
 wardship
 warehouser
 warehousers
@@ -112773,6 +112807,7 @@ whirling
 whirlpool
 whirlpools
 whirls
+whirlwind
 whirr
 whirred
 whirries
