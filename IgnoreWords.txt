@@ -4579,6 +4579,7 @@ appointive
 appointment
 appointor
 appointors
+apportion
 apportioning
 apportionment
 apportions
@@ -10702,6 +10703,7 @@ bogs
 bogusly
 bogwoods
 bogy
+bogyism
 bogyisms
 bogyman
 bogymen
@@ -11652,6 +11654,7 @@ bratwurst
 bratwursts
 braunites
 braunschweiger
+braunschweigers
 bravadoes
 bravely
 bravenesses
@@ -14054,6 +14057,7 @@ capitate
 capitation
 capitations
 capitella
+capitellum
 capitol
 capitula
 capitular
@@ -14452,6 +14456,7 @@ carling
 carlins
 carload
 carls
+carmaker
 carmakers
 carman
 carmen
@@ -16406,6 +16411,7 @@ chimpanzees
 chin
 chinas
 chinaware
+chinawares
 chincherinchee
 chinches
 chinchier
@@ -21255,6 +21261,7 @@ corrosions
 corrosive
 corrosiveness
 corrosivenesses
+corrosives
 corrugate
 corrugated
 corrugates
@@ -24604,6 +24611,7 @@ decisioned
 decisioning
 decisions
 decisively
+decisivenesses
 deck
 deckel
 deckels
@@ -27537,6 +27545,7 @@ disaccustom
 disaccustoming
 disaccustoms
 disadvantage
+disadvantaged
 disadvantageous
 disadvantages
 disadvantaging
@@ -34455,6 +34464,7 @@ exited
 exiting
 exitless
 exits
+exobiologies
 exobiologist
 exobiologists
 exobiology
@@ -41762,6 +41772,7 @@ gnomelike
 gnomes
 gnomic
 gnomical
+gnomish
 gnomist
 gnomon
 gnomons
@@ -51460,6 +51471,7 @@ inwards
 inweave
 inweaves
 inwind
+inwinding
 inwinds
 inwove
 inwoven
@@ -52569,6 +52581,7 @@ jointweeds
 jointworm
 jointworms
 joist
+joisted
 joists
 jojoba
 jojobas
@@ -56800,6 +56813,7 @@ loo
 loobies
 looby
 looey
+looeys
 loofah
 loofahs
 loofas
@@ -58940,6 +58954,7 @@ mattrasses
 mattress
 mattresses
 matts
+maturated
 maturational
 mature
 matured
@@ -60054,6 +60069,7 @@ meterage
 metered
 metering
 meterstick
+metersticks
 metes
 metestrus
 metestruses
@@ -62902,6 +62918,7 @@ mottes
 mottled
 mottlers
 mottles
+mottling
 mottos
 motts
 mouch
@@ -66582,6 +66599,7 @@ nucleoli
 nucleolus
 nucleonic
 nucleonics
+nucleons
 nucleophile
 nucleophiles
 nucleophilic
@@ -68162,6 +68180,7 @@ origins
 orinasal
 orioles
 orismological
+orismologies
 orisons
 orlon
 orlop
@@ -78854,6 +78873,7 @@ proportion
 proportional
 proportionality
 proportionals
+proportionate
 proportionates
 proportioning
 proportions
@@ -79595,6 +79615,7 @@ puerperium
 puff
 puffed
 puffer
+pufferies
 puffers
 puffery
 puffier
@@ -81419,6 +81440,7 @@ ratches
 ratcheted
 ratcheting
 ratchets
+rateably
 rated
 ratemeter
 ratemeters
@@ -81510,6 +81532,7 @@ rattletrap
 rattlingly
 rattlings
 rattly
+ratton
 rattons
 rattooning
 rattoons
@@ -81813,6 +81836,7 @@ rearmed
 rearmice
 rearmost
 rearms
+rearousal
 rearousals
 rearouse
 rearouses
@@ -82928,6 +82952,7 @@ reemitting
 reemphases
 reemphasized
 reemphasizes
+reemploy
 reemployed
 reemploying
 reemployment
@@ -85370,6 +85395,7 @@ resurrectionist
 resurrects
 resurveying
 resurveys
+resuscitate
 resuscitating
 resuscitation
 resuscitators
@@ -94602,6 +94628,7 @@ sovkhozy
 sovranly
 sovranties
 sovranty
+sow
 sowable
 sowans
 sowbellies
@@ -99108,6 +99135,7 @@ supersensory
 supersession
 supersex
 supersexes
+supersexuality
 supersharp
 supersinger
 supersingers
@@ -99760,6 +99788,7 @@ swipe
 swiped
 swipes
 swiping
+swiples
 swipple
 swipples
 swirl
@@ -102772,6 +102801,7 @@ tieclasps
 tied
 tieing
 tieless
+tiemannite
 tiepin
 tiepins
 tierce
@@ -104163,6 +104193,7 @@ transection
 transections
 transept
 transeptal
+transepts
 transfect
 transfected
 transfecting
@@ -104801,6 +104832,7 @@ triggerfishes
 triggerman
 triggers
 triggest
+trigging
 triglyceride
 triglyph
 triglyphs
@@ -109355,6 +109387,7 @@ usurps
 usury
 ut
 ute
+utensil
 uteri
 uterus
 uteruses
@@ -113343,6 +113376,7 @@ woodchat
 woodchats
 woodchopper
 woodchoppers
+woodchuck
 woodcocks
 woodcraft
 woodcuts
@@ -114504,6 +114538,7 @@ zoo
 zoochore
 zoochores
 zooecia
+zooecium
 zooey
 zoogamete
 zoogametes
