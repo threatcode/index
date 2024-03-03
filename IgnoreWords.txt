@@ -3260,6 +3260,7 @@ andesitic
 andesyte
 andesytes
 andouille
+andouilles
 andouillettes
 andradites
 andro
@@ -5666,6 +5667,7 @@ associating
 association
 associationism
 associationist
+associations
 associative
 associatively
 associativities
@@ -7137,6 +7139,7 @@ bailiffship
 bailiwick
 bailiwicks
 bailment
+bailor
 bailors
 bailouts
 bailsmen
@@ -15540,6 +15543,7 @@ centrifugation
 centrifuge
 centrifuging
 centrings
+centrioles
 centripetal
 centripetally
 centrist
@@ -16360,6 +16364,7 @@ cherub
 cherubic
 cherubically
 cherubim
+cherubims
 chervil
 cheshire
 chessboards
@@ -17529,6 +17534,7 @@ clamper
 clampers
 clamping
 clamps
+clams
 clamshell
 clamshells
 clamworm
@@ -25476,6 +25482,7 @@ dekeing
 dekes
 dekko
 dekkos
+del
 delaines
 delaminated
 delaminating
@@ -25948,6 +25955,7 @@ dentition
 dentitions
 dentulous
 dentural
+denture
 dentures
 denturists
 denuclearizes
@@ -28326,6 +28334,7 @@ disjoin
 disjoined
 disjoining
 disjointedness
+disjointing
 disjoints
 disjunction
 disjunctively
@@ -36205,6 +36214,7 @@ featured
 featureless
 featurette
 featurettes
+featuring
 feazed
 feazes
 feazing
@@ -38695,6 +38705,7 @@ forespeak
 forespeaking
 forespoken
 forest
+forestage
 forestages
 forestal
 forestalled
@@ -42308,6 +42319,7 @@ golfer
 golfers
 golfing
 golfs
+golgotha
 goliard
 goliards
 goliath
@@ -46992,6 +47004,7 @@ horrors
 horse
 horsebacks
 horsebean
+horsebeans
 horsecar
 horsed
 horsefleshes
@@ -52655,6 +52668,7 @@ japonica
 jar
 jardiniere
 jarfuls
+jargon
 jargoned
 jargoneers
 jargonel
@@ -52908,6 +52922,7 @@ jibers
 jibes
 jibingly
 jibs
+jicamas
 jiffs
 jiffy
 jigger
@@ -56784,6 +56799,7 @@ liter
 literacy
 literalism
 literalisms
+literalist
 literalistic
 literalists
 literalities
@@ -60827,6 +60843,7 @@ microbiologies
 microbiologist
 microbrewer
 microbrewing
+microbrewings
 microbrews
 microbus
 microcap
@@ -70536,6 +70553,7 @@ overhomogenized
 overhomogenizes
 overhonoring
 overhonors
+overhoped
 overhopes
 overhot
 overhung
@@ -72369,6 +72387,7 @@ parquet
 parqueted
 parquetry
 parquets
+parrakeet
 parrakeets
 parral
 parrals
@@ -79402,6 +79421,7 @@ promenader
 promenaders
 promenades
 promenading
+promethium
 prometric
 promine
 prominences
@@ -80671,6 +80691,7 @@ purlieu
 purlieus
 purline
 purlines
+purling
 purloiners
 purloins
 puromycin
@@ -85551,6 +85572,7 @@ requalified
 requalifies
 requalify
 requalifying
+request
 requested
 requesters
 requesting
@@ -88152,6 +88174,7 @@ rugger
 ruglike
 rugosa
 rugosas
+rugose
 rugosities
 rugosity
 rugs
@@ -92063,6 +92086,7 @@ shelver
 shelvers
 shelviest
 shelving
+shenanigan
 shenanigans
 shend
 shends
@@ -94571,6 +94595,7 @@ snooze
 snoozed
 snoozers
 snooziest
+snoozing
 snoozled
 snoozles
 snoring
@@ -95523,6 +95548,7 @@ spaciest
 spaciness
 spacinesses
 spacing
+spacings
 spacious
 spaciously
 spaciousness
@@ -100636,6 +100662,7 @@ swigs
 swill
 swiller
 swillers
+swilling
 swills
 swim
 swimmable
@@ -101323,6 +101350,7 @@ taffrail
 taffrails
 taffy
 tag
+tagalong
 tagalongs
 tagboard
 tagboards
@@ -102424,6 +102452,7 @@ tenantless
 tenantries
 tenants
 tend
+tendance
 tendances
 tendences
 tendencious
@@ -102856,6 +102885,7 @@ tetrarch
 tetrarchic
 tetrarchs
 tetrarchy
+tetras
 tetraspore
 tetrasporic
 tetrazolium
@@ -105502,6 +105532,7 @@ trenching
 trend
 trended
 trendier
+trendiest
 trendily
 trending
 trendoid
@@ -107487,6 +107518,7 @@ unbonneting
 unbonnets
 unbookish
 unbooted
+unborn
 unbosom
 unbosomed
 unbosomers
@@ -110010,6 +110042,7 @@ uppropped
 uppropping
 upprops
 upraise
+upraiser
 upraises
 uprate
 uprating
@@ -110862,6 +110895,7 @@ vealiest
 vealing
 veals
 vector
+vectored
 vectorial
 vectorially
 vectoring
@@ -113907,6 +113941,7 @@ wimping
 wimpish
 wimple
 wimpled
+wimpling
 wimps
 win
 winced
