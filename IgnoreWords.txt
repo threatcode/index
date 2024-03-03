@@ -1243,6 +1243,7 @@ aegis
 aegises
 aeneous
 aeneus
+aeon
 aeonian
 aeonic
 aeons
@@ -4524,6 +4525,7 @@ apparatchiki
 apparatuses
 apparel
 appareled
+apparelling
 apparent
 apparentnesses
 apparitional
@@ -5917,6 +5919,7 @@ atomy
 atonable
 atonalisms
 atonalists
+atonally
 atoned
 atonement
 atones
@@ -7029,6 +7032,7 @@ bactericidal
 bactericidally
 bactericide
 bactericides
+bacterin
 bacterins
 bacteriocins
 bacteriological
@@ -13531,6 +13535,7 @@ calceate
 calcedony
 calcic
 calcicolous
+calciferol
 calciferous
 calcific
 calcified
@@ -13921,6 +13926,7 @@ candidatures
 candider
 candidest
 candidiases
+candidiasis
 candidly
 candidnesses
 candids
@@ -15751,6 +15757,7 @@ chafferers
 chaffier
 chaffiest
 chaffinch
+chaffing
 chaffy
 chagrin
 chagrined
@@ -19293,6 +19300,7 @@ commiseratingly
 commiseration
 commiserations
 commiserative
+commissar
 commissariat
 commissariats
 commissaries
@@ -21732,6 +21740,7 @@ coulisses
 coulomb
 coulombs
 coulometers
+coulometric
 coulometrically
 coulometries
 coulometry
@@ -28950,11 +28959,13 @@ divests
 divestures
 dividable
 divided
+dividedly
 dividedness
 dividednesses
 dividend
 dividendless
 divider
+divides
 dividing
 divination
 divine
@@ -32676,6 +32687,7 @@ enlarged
 enlargements
 enlarger
 enlargers
+enlarges
 enlighten
 enlightened
 enlightening
@@ -33376,6 +33388,7 @@ epizooties
 epizootiologic
 epizootiologies
 epizootiology
+epizooty
 epoch
 epochal
 epochally
@@ -36243,6 +36256,7 @@ fecundations
 fecundities
 fecundity
 fed
+fedayeen
 federacies
 federacy
 federal
@@ -36388,6 +36402,7 @@ felstone
 felstones
 felt
 felted
+felting
 felts
 felwort
 felworts
@@ -37646,6 +37661,7 @@ flawing
 flawlessnesses
 flaws
 flaxen
+flaxes
 flaxiest
 flaxseed
 flaxy
@@ -43069,6 +43085,7 @@ greenlings
 greenlit
 greenly
 greenmail
+greenmailer
 greenmailers
 greenmails
 greennesses
@@ -53113,6 +53130,7 @@ jollifying
 jollily
 jolliness
 jollinesses
+jollities
 jolly
 jollyboats
 jollying
@@ -53210,6 +53228,7 @@ joypopped
 joypopper
 joypoppers
 joypopping
+joypops
 joyride
 joyrider
 joyriders
@@ -59479,6 +59498,7 @@ matriarchal
 matriarchies
 matriarchy
 matrices
+matricidal
 matricide
 matricides
 matriculant
@@ -72981,6 +73001,7 @@ pearled
 pearler
 pearlers
 pearlescence
+pearlescences
 pearlescent
 pearlite
 pearlites
@@ -75357,6 +75378,7 @@ pinpointing
 pinprick
 pinpricks
 pins
+pinsetters
 pinspotter
 pinstripe
 pinstripes
@@ -76253,6 +76275,7 @@ plurally
 plurals
 pluripotent
 plus
+plusher
 plushes
 plushest
 plushier
@@ -79532,6 +79555,7 @@ propellant
 propellants
 propelled
 propellent
+propellers
 propellor
 propellors
 propels
@@ -79936,6 +79960,7 @@ protyl
 protyle
 protyles
 protyls
+proud
 prouder
 proudest
 proudful
@@ -87168,6 +87193,7 @@ riflemen
 rifler
 rifleries
 riflers
+riflery
 rifles
 riflings
 riflips
@@ -92178,6 +92204,7 @@ shikarring
 shikker
 shikkers
 shiksas
+shikse
 shikseh
 shikses
 shill
@@ -92666,6 +92693,7 @@ shunpike
 shunpiked
 shunpiker
 shunpikers
+shunpikings
 shuns
 shunt
 shunted
@@ -100928,6 +100956,7 @@ sympathise
 sympathised
 sympathises
 sympathising
+sympathize
 sympathized
 sympathizers
 sympathizing
@@ -102089,6 +102118,7 @@ technicalized
 technicalizing
 technicals
 technician
+technicians
 technics
 technique
 techniques
@@ -103667,6 +103697,7 @@ thyroid
 thyroidectomies
 thyroiditises
 thyroids
+thyrotoxicoses
 thyrotoxicosis
 thyrotrophic
 thyrotrophin
@@ -107082,6 +107113,7 @@ uglifier
 uglify
 uglily
 ugliness
+uglinesses
 ugly
 ugsome
 uhlans
@@ -110168,6 +110200,7 @@ uptossing
 uptowns
 uptrend
 uptrends
+upturn
 upturned
 upturning
 upturns
@@ -111630,6 +111663,7 @@ villosities
 vills
 vim
 vimina
+viminal
 vimineous
 vims
 vina
@@ -114831,6 +114865,7 @@ wych
 wyes
 wyle
 wyled
+wyliecoat
 wyliecoats
 wyling
 wyn
