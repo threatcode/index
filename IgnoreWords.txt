@@ -5448,6 +5448,7 @@ ascospores
 ascosporic
 ascot
 ascots
+ascribable
 ascribed
 ascription
 ascus
@@ -6258,6 +6259,7 @@ austerity
 austral
 australs
 ausubos
+autacoid
 autarchic
 autarchical
 autarchies
@@ -12607,6 +12609,7 @@ budgeteers
 budgeter
 budgie
 budging
+budlike
 buds
 budworm
 budworms
@@ -16399,6 +16402,7 @@ chemosorbs
 chemosurgeries
 chemosurgical
 chemosyntheses
+chemosynthesis
 chemotactic
 chemotaxis
 chemotaxonomic
@@ -16688,6 +16692,7 @@ chirk
 chirked
 chirkest
 chirks
+chirmed
 chiro
 chirographers
 chirographic
@@ -18231,6 +18236,7 @@ coagulabilities
 coagulability
 coagulable
 coagulants
+coagulase
 coagulases
 coagulate
 coagulated
@@ -22236,6 +22242,7 @@ cowlicks
 cowlings
 cowlstaffs
 cowlstaves
+cowmen
 coworker
 cowpat
 cowpats
@@ -24711,6 +24718,7 @@ debeards
 debenture
 debilitated
 debilitates
+debilitating
 debilitation
 debilitations
 debilities
@@ -26661,6 +26669,7 @@ detail
 detailed
 detailing
 detailings
+details
 detain
 detained
 detainees
@@ -30248,6 +30257,7 @@ drosophila
 drosophilas
 dross
 drosses
+drossier
 drossy
 drought
 droughtiest
@@ -30388,6 +30398,7 @@ dubitably
 dubitation
 dubitations
 dubnium
+dubniums
 dubonnet
 dubonnets
 ducal
@@ -31620,6 +31631,7 @@ electrolyze
 electrolyzes
 electrolyzing
 electromagnetic
+electromagnets
 electrometer
 electrometers
 electromyogram
@@ -33107,6 +33119,7 @@ entrants
 entrap
 entrapments
 entrapped
+entrappers
 entrapping
 entraps
 entreaties
@@ -34178,6 +34191,7 @@ etiquette
 etiquettes
 etna
 etude
+etudes
 etui
 etwee
 etwees
@@ -37214,6 +37228,7 @@ finest
 finfishes
 finfoot
 fingerboard
+fingerboards
 fingered
 fingerer
 fingerhold
@@ -41664,6 +41679,7 @@ gimcracks
 gimel
 gimels
 gimlet
+gimleted
 gimleting
 gimmal
 gimmals
@@ -44031,6 +44047,7 @@ gymnasiums
 gymnast
 gymnastic
 gymnasts
+gymnosophists
 gymnosperm
 gymnospermy
 gyms
@@ -45125,6 +45142,7 @@ hawthorn
 hawthorny
 hay
 hayed
+hayer
 hayforks
 haying
 hayings
@@ -47783,6 +47801,7 @@ hyalogens
 hyaloid
 hyaloids
 hyaloplasm
+hyaloplasms
 hybridisms
 hybridist
 hybridists
@@ -48547,6 +48566,7 @@ idolization
 idolizations
 idolize
 idolizer
+idolizers
 idolizes
 idolizing
 idols
@@ -49487,6 +49507,7 @@ inbreeder
 inbreeders
 inbreeding
 inbreedings
+inbreeds
 inbuilt
 inburst
 inbye
@@ -54229,6 +54250,7 @@ kilned
 kilo
 kilobars
 kilobase
+kilobases
 kilobauds
 kilobit
 kilobits
@@ -56104,6 +56126,7 @@ lenos
 lens
 lensed
 lensing
+lensless
 lensmen
 lent
 lentic
@@ -62115,6 +62138,7 @@ misedited
 misedits
 miseducates
 miseducation
+misemphasis
 misemphasize
 misemphasized
 misemploy
@@ -64363,6 +64387,7 @@ murmurous
 murmurously
 murphy
 murr
+murra
 murrain
 murre
 murrelets
@@ -66604,6 +66629,7 @@ nonfluencies
 nonfluency
 nonfluorescent
 nonforfeitable
+nonforfeiture
 nonforfeitures
 nonformal
 nonfreezing
@@ -73222,6 +73248,7 @@ peakish
 peakless
 peaklike
 peaks
+peaky
 peal
 pealed
 pealike
@@ -86440,6 +86467,7 @@ restrictionism
 restrictionisms
 restrictionists
 restrictive
+restrike
 restring
 restrings
 restrive
@@ -87551,6 +87579,7 @@ rilling
 rills
 rime
 rimer
+rimes
 rimester
 rimesters
 rimfire
@@ -88195,6 +88224,7 @@ rotundas
 rotundities
 rotundity
 rotundly
+rotundness
 roturiers
 rouble
 roubles
@@ -90600,6 +90630,7 @@ scrollwork
 scrooch
 scrooching
 scrooge
+scroop
 scrootch
 scrootches
 scrootching
@@ -93587,6 +93618,7 @@ sipped
 sipper
 sippet
 sipping
+sips
 sir
 sirdar
 sirdars
@@ -96938,6 +96970,7 @@ spurge
 spuriously
 spuriousness
 spuriousnesses
+spurn
 spurned
 spurner
 spurners
@@ -102522,6 +102555,7 @@ teentsier
 teentsiest
 teentsy
 teeny
+teenybop
 teenybopper
 teenyboppers
 tees
@@ -104068,6 +104102,7 @@ tiaras
 tibia
 tibiae
 tibial
+tibias
 tibiofibula
 tibiofibulae
 tic
