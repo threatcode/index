@@ -8,3 +8,22 @@ JSOC/base/drms/libs/pg/updateshadow.sql - view - 1.7,http://jsoc.stanford.edu/cv
 config/sub/inserts.sql · koLibRI-tools-1.0 · DARIAH-DE / kopal ... - gitlab,https://gitlab-ce.gwdg.de/dariah-de/kopal-library-of-retrieval-and-ingest/-/blob/koLibRI-tools-1.0/config/sub/inserts.sql
 tests/sign-up-with-access-token.sql · main - GitLab,https://gitlab.nullachtvierzehn.de/0814/sqitch-tenants-and-users/-/blob/main/tests/sign-up-with-access-token.sql
 query.sql · codeparrot/github-code at main - Hugging Face,https://huggingface.co/datasets/codeparrot/github-code/blame/main/query.sql
+dbt-utils/macros/jinja_helpers/slugify.sql at main - GitHub,https://github.com/dbt-labs/dbt-utils/blob/main/macros/jinja_helpers/slugify.sql
+test.sql - michelp/pgjwt · GitHub,https://github.com/michelp/pgjwt/blob/master/test.sql
+query.sql · codeparrot/github-code at main - Hugging Face,https://huggingface.co/datasets/codeparrot/github-code/blame/main/query.sql
+https://edc.commvault.com/downloads/SQLScripts/Com...,https://edc.commvault.com/downloads/SQLScripts/CommservSurveyQuery_12.sql
+fluree.db.query.sql - cljdoc,https://cljdoc.org/d/com.fluree/db/1.0.0-rc3/api/fluree.db.query.sql
+database-testing.sql · master · Survix / Survix · GitLab,https://git.dhbw-stuttgart.de/survix/survix/-/blob/master/database-testing.sql%3Fref_type%3Dheads
+…/catalog_timestamp_mso_db.sql · Gerrit Code Review,https://gerrit.onap.org/r/c/so/docker-config/%2B/14071/1/volumes/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/sub-sql-files/catalog_timestamp_mso_db.sql
+DSRCA005.sql,https://docs.oracle.com/cd/E91835_01/PDF/common/DSRCA005.sql
+query.sql · codeparrot/github-code at ... - Hugging Face,https://huggingface.co/datasets/codeparrot/github-code/blob/af403e5b4a3d1f1bf50149edb51f5d545f11fb43/query.sql
+Source of IdentifyDiscrepanciesNewForm_Aug2018_ActNow.sql,https://code.imphub.org/projects/OP/repos/miscocscripts/browse/IdentifyDiscrepanciesNewForm_Aug2018_ActNow.sql%3Fat%3D90ef1de8abc61249898d165b3efe84bf090f8447
+https://www.binance.com/en-NG/usercenter/sub-accou...,https://www.binance.com/en-NG/usercenter/sub-account/transfer/mysql.sql
+backend - migrations - mastapi - 0_20220727153141_init.sql - GitLab,https://gitlabext.wsl.ch/mastweb/backend/-/blob/3cbc8b6ef171d49e0dce87d41f42e28664127425/migrations/mastapi/0_20220727153141_init.sql
+https://fhdafiles.fhda.edu/downloads/eisDocs/bakoo...,https://fhdafiles.fhda.edu/downloads/eisDocs/bakoorphansv2.sql
+pracownicyCase.sql,http://www.metal.agh.edu.pl/~regulski/bd-podyp/01-mysql/02-projektowanie/pracownicyCase.sql
+ecomp-portal-DB-common/PortalDMLMySql_2_4_Common.sql,https://gerrit.nordix.org/plugins/gitiles/onap/portal/%2B/569390d96ef6c23d9bd1654bf5288f52865af647/ecomp-portal-DB-common/PortalDMLMySql_2_4_Common.sql
+mysql_updates_7.3.0_to_7.6.0.sql - is:wip · Gerrit Code Review,https://gerrit.onap.org/r/c/oom/%2B/8951/2/kubernetes/config/docker/init/src/config/mso/mariadb/docker-entrypoint-initdb.d/db-sql-scripts/camunda/mysql_updates_7.3.0_to_7.6.0.sql
+13.5. create_database.sql JBoss Enterprise SOA Platform 5,https://access.redhat.com/documentation/en-us/jboss_enterprise_soa_platform/5/html/esb_services_guide/create_database.sql
+tests/sign-up-with-keycloak.sql - GitLab,https://gitlab.nullachtvierzehn.de/0814/schema-for-identity-management/-/blob/dc94ed39eed63d7b17d65d245c5abb1ac119d5f5/tests/sign-up-with-keycloak.sql
+database/02-processar-dados.sql · release · SGM / Devolutivas ...,http://codigoaberto.prefeitura.sp.gov.br/sgm/devolutivas-pdm/-/blob/release/database/02-processar-dados.sql
