@@ -4001,6 +4001,7 @@ antimicrobials
 antimilitarism
 antimilitarisms
 antimilitary
+antimissile
 antimitotic
 antimitotics
 antimodern
@@ -4665,6 +4666,7 @@ apprehending
 apprehends
 apprehension
 apprehensions
+apprehensively
 apprentice
 apprenticed
 apprentices
@@ -5864,6 +5866,7 @@ athanasies
 atheism
 atheisms
 atheist
+atheistic
 atheistically
 atheists
 atheling
@@ -8111,6 +8114,7 @@ bear
 bearabilities
 bearably
 bearbaitings
+bearberries
 bearberry
 bearcat
 bearcats
@@ -12008,6 +12012,7 @@ bridewells
 bridge
 bridged
 bridgeless
+bridges
 bridgework
 bridging
 bridgings
@@ -15482,6 +15487,7 @@ censual
 censurable
 censure
 censured
+censurer
 censurers
 censuring
 census
@@ -21436,6 +21442,7 @@ corrections
 correctitude
 correctitudes
 corrective
+correctives
 correctly
 correctness
 correctors
@@ -22737,6 +22744,7 @@ cripe
 cripes
 cripple
 cripples
+cris
 crises
 crisic
 crisis
@@ -23657,6 +23665,7 @@ cutesy
 cuteys
 cutgrass
 cuticula
+cuticular
 cutie
 cutin
 cutinise
@@ -25538,6 +25547,7 @@ delectates
 delectating
 delectations
 delegable
+delegacies
 delegated
 delegatee
 delegatees
@@ -31742,6 +31752,7 @@ eluvia
 eluvial
 eluviation
 eluvium
+elver
 elves
 elvish
 elysian
@@ -39307,6 +39318,7 @@ freedwoman
 freedwomen
 freeform
 freehandedness
+freehearted
 freeheartedly
 freeholds
 freeing
@@ -44845,6 +44857,7 @@ harvesters
 harvesting
 harvestman
 harvests
+harvesttime
 harvesttimes
 has
 hasenpfeffer
@@ -47037,6 +47050,7 @@ horologists
 horology
 horoscope
 horoscopes
+horoscopies
 horrendous
 horribleness
 horribles
@@ -49202,6 +49216,7 @@ improvement
 improvements
 improver
 improvers
+improvidences
 improving
 improvisation
 improvisations
@@ -50623,6 +50638,7 @@ innocents
 innocuousness
 innovate
 innovates
+innovation
 innovational
 innovatively
 innovator
@@ -60727,6 +60743,7 @@ methodic
 methodical
 methodically
 methodicalness
+methodise
 methodised
 methodises
 methodisms
@@ -64827,6 +64844,7 @@ nasturtiums
 nasty
 natal
 natalities
+natality
 natantly
 natatoria
 natatorial
@@ -69364,6 +69382,7 @@ outcrowd
 outcrowded
 outcrowding
 outcrowds
+outcrowed
 outcrowing
 outcrying
 outcurse
@@ -72923,6 +72942,7 @@ pavilions
 paving
 pavings
 pavins
+pavior
 paviour
 paviours
 pavis
@@ -81335,6 +81355,7 @@ quatorze
 quatrefoil
 quatrefoils
 quatres
+quattrocentos
 quaver
 quavered
 quaverer
@@ -86201,6 +86222,7 @@ restraint
 restrengthen
 restrengthened
 restrengthening
+restrengthens
 restressed
 restretch
 restretched
@@ -86895,6 +86917,7 @@ rewore
 reworked
 reworking
 reworks
+reworn
 rewove
 rewoven
 rewrap
@@ -87910,11 +87933,13 @@ rostra
 rostral
 rostrate
 rostrums
+rosy
 rot
 rota
 rotaries
 rotate
 rotated
+rotates
 rotating
 rotation
 rotations
@@ -90395,6 +90420,7 @@ scruffiness
 scruffinesses
 scruffy
 scrummage
+scrummaged
 scrummages
 scrummaging
 scrummed
@@ -98505,6 +98531,7 @@ studiousnesses
 studliest
 studly
 studworks
+stuff
 stuffer
 stuffers
 stuffiest
@@ -99320,6 +99347,7 @@ subversion
 subversionary
 subversions
 subversive
+subvert
 subverter
 subverters
 subverting
@@ -99584,6 +99612,7 @@ sulfonyls
 sulfonylurea
 sulfonylureas
 sulfoxide
+sulfurating
 sulfured
 sulfuret
 sulfureted
@@ -102276,6 +102305,7 @@ teetotum
 teff
 tefillin
 teflons
+teg
 tegg
 teggs
 tegmenta
@@ -103528,6 +103558,7 @@ thread
 threadbareness
 threaded
 threader
+threaders
 threadfin
 threadier
 threadiest
@@ -107220,6 +107251,7 @@ ultimas
 ultimata
 ultimated
 ultimately
+ultimateness
 ultimatenesses
 ultimogeniture
 ultrabasics
@@ -109589,6 +109621,7 @@ unslick
 unsling
 unslinging
 unslings
+unslung
 unsmart
 unsmiling
 unsmoked
@@ -110740,6 +110773,7 @@ valvulitises
 vambrace
 vambraced
 vambraces
+vamoosed
 vamoosing
 vamose
 vamosed
@@ -111988,6 +112022,7 @@ vitellines
 vitellins
 vitellogeneses
 vitellogenesis
+vitellus
 vitelluses
 vitiate
 vitiates
