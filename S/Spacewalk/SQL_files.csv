@@ -2,3 +2,5 @@ spacewalk/schema/spacewalk/common/data/rhnPackageKey.sql at ...,https://github.c
 spacewalk/schema/spacewalk/common/tables/rhnServerPath.sql at ...,https://github.com/spacewalkproject/spacewalk/blob/master/schema/spacewalk/common/tables/rhnServerPath.sql
 https://apex.oracle.com/kscope22lab-6192893d0d51a3...,https://apex.oracle.com/kscope22lab-6192893d0d51a38fb527fab91e33c8f9f7c26523/2-creating-search-page/files/lab-2.sql
 robotlaw.sql - ServoyForge,https://www.servoyforge.net/attachments/download/332/robotlaw.sql
+uyuni/schema/spacewalk/common/tables ... - GitHub,https://github.com/uyuni-project/uyuni/blob/master/schema/spacewalk/common/tables/rhnServerChannelArchCompat.sql
+001-mgr-register-bunch-as-common.sql - GitHub,https://github.com/uyuni-project/uyuni/blob/master/schema/spacewalk/upgrade/susemanager-schema-1.7.56.19-to-susemanager-schema-1.7.56.20/001-mgr-register-bunch-as-common.sql
