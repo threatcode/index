@@ -1337,6 +1337,7 @@ aerosolization
 aerosolizations
 aerosolize
 aerosolized
+aerosolizing
 aerosols
 aerospace
 aerostat
@@ -4309,11 +4310,13 @@ apatosaurus
 ape
 apeak
 aped
+apelike
 aper
 apercu
 apercus
 aperient
 aperies
+aperiodic
 aperiodically
 aperiodicities
 apertural
@@ -9732,6 +9735,7 @@ biohazard
 bioherm
 biologically
 biologics
+biologies
 biologism
 biologistic
 bioluminescence
@@ -10466,6 +10470,7 @@ bloodstreams
 bloodsucker
 bloodsucking
 bloodthirstily
+bloodthirsty
 bloodworms
 bloodworts
 bloodying
@@ -10838,6 +10843,7 @@ bogies
 bogles
 bogs
 bogusly
+bogusnesses
 bogwoods
 bogy
 bogyism
@@ -11763,6 +11769,7 @@ brash
 brasher
 brashes
 brashest
+brashier
 brashiest
 brasier
 brasiers
@@ -21820,6 +21827,7 @@ counselee
 counselees
 counselings
 counselling
+counsellings
 counsellor
 counsellors
 counselor
@@ -23183,6 +23191,7 @@ cryptomeria
 cryptomerias
 cryptorchidism
 cryptorchidisms
+cryptorchids
 cryptorchism
 cryptos
 cryptozoologies
@@ -23532,6 +23541,7 @@ curiosity
 curiouser
 curiousest
 curiously
+curiousness
 curite
 curium
 curiums
@@ -29611,6 +29621,7 @@ dossel
 dossels
 dosser
 dosseret
+dosshouse
 dosshouses
 dossier
 dossiers
@@ -33314,6 +33325,7 @@ epifaunae
 epifaunal
 epifaunas
 epifocal
+epigastric
 epigeal
 epigean
 epigeic
@@ -34412,6 +34424,7 @@ evenhanded
 evenhandedness
 evenings
 evenness
+evennesses
 evens
 event
 eventful
@@ -35814,6 +35827,7 @@ falbala
 falbalas
 falcate
 falcated
+falces
 falchion
 falchions
 falciform
@@ -36372,6 +36386,7 @@ federalizations
 federalized
 federally
 federate
+federated
 federates
 federating
 federations
@@ -48016,6 +48031,7 @@ hypercharged
 hypercharges
 hypercivilized
 hyperconscious
+hypercorrect
 hypercorrection
 hypercritic
 hypercritical
@@ -54739,6 +54755,7 @@ kuru
 kurus
 kusso
 kuvasz
+kvases
 kvasses
 kvell
 kvelled
@@ -55007,6 +55024,7 @@ lairdships
 laired
 lairing
 lairs
+laitance
 laitances
 laith
 laities
@@ -57899,6 +57917,7 @@ lullabying
 luller
 lullers
 lulu
+lulus
 lumas
 lumbagos
 lumbar
@@ -63483,6 +63502,7 @@ moroseness
 morosenesses
 morosities
 morph
+morphactin
 morphactins
 morphallaxis
 morpheme
@@ -64697,6 +64717,7 @@ mythomaniacs
 mythopeic
 mythopoeias
 mythopoeic
+mythopoetic
 mythopoetical
 myths
 mythy
@@ -65162,6 +65183,7 @@ necklace
 necklaced
 necklaces
 necklacing
+necklike
 neckline
 necklines
 necktie
@@ -66631,6 +66653,7 @@ noninductive
 nonindustry
 noninert
 noninfected
+noninfectious
 noninflammable
 noninfluences
 noninformation
@@ -81117,6 +81140,7 @@ pygidium
 pygmaean
 pygmoid
 pygmy
+pygmyism
 pygmyisms
 pyic
 pyin
@@ -89335,6 +89359,7 @@ saphead
 sapheaded
 sapheads
 saphena
+saphenae
 saphenas
 saphenous
 sapidity
@@ -95818,6 +95843,7 @@ spacemen
 spaceport
 spaceports
 spacer
+spaces
 spaceship
 spacesuit
 spacewalk
@@ -96530,6 +96556,7 @@ splendent
 splendid
 splendidest
 splendidly
+splendidnesses
 splendiferous
 splendorous
 splendour
@@ -97462,6 +97489,7 @@ stavudines
 staw
 stay
 stayer
+stayers
 staying
 stays
 staysail
@@ -99177,6 +99205,7 @@ sublimity
 subline
 sublingual
 subliteracy
+subliterary
 subliterate
 subliterature
 subliteratures
@@ -99647,6 +99676,7 @@ sudsers
 sudses
 sudsiest
 sudsless
+sudsy
 sued
 suede
 sueded
@@ -102074,6 +102104,7 @@ tarmacked
 tarmacking
 tarmacs
 tarn
+tarnally
 tarnation
 tarnations
 tarnishable
@@ -103818,6 +103849,7 @@ thrivingly
 throat
 throated
 throatily
+throatinesses
 throating
 throatlatches
 throats
@@ -104584,6 +104616,7 @@ tolerated
 tolerating
 toleration
 tolerations
+tolerative
 tolidine
 toling
 toll
@@ -112108,6 +112141,7 @@ virtual
 virtualities
 virtuality
 virtue
+virtues
 virtuosa
 virtuose
 virtuosity
@@ -113233,6 +113267,7 @@ watersides
 waterski
 waterskiing
 waterskis
+waterspout
 waterspouts
 waterthrush
 waterthrushes
