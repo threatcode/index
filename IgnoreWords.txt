@@ -5940,6 +5940,7 @@ atmometers
 atmosphere
 atmosphered
 atmospheres
+atmospheric
 atmospherically
 atmospherics
 atomic
@@ -10505,6 +10506,7 @@ bloodlike
 bloodlines
 bloodlust
 bloodlusts
+bloodmobile
 bloodroot
 bloodstain
 bloodstained
@@ -13714,6 +13716,7 @@ calibration
 calibrations
 calibrators
 calibre
+calibres
 calices
 calicles
 calicos
@@ -15330,6 +15333,7 @@ caulds
 caulicle
 caulicles
 cauliflower
+caulifloweret
 caulis
 caulk
 caulked
@@ -22347,6 +22351,7 @@ cowritten
 cowrote
 cowry
 cowshed
+cowskin
 cowskins
 cowslips
 cowy
@@ -25005,6 +25010,7 @@ dechlorinated
 dechlorinates
 dechlorinating
 dechlorination
+dechlorinations
 deciares
 decibel
 decibels
@@ -28029,6 +28035,7 @@ disabling
 disabusal
 disabusals
 disabuse
+disabused
 disabusing
 disaccharidase
 disaccharide
@@ -29300,6 +29307,7 @@ doc
 docent
 docetic
 docile
+docilities
 dock
 dockage
 dockages
@@ -33205,6 +33213,7 @@ enthronements
 enthrones
 enthused
 enthuses
+enthusiasm
 enthusiasms
 enthusiast
 enthusiasts
@@ -34416,6 +34425,7 @@ eukaryotes
 eukaryotic
 eulachans
 eulachon
+eulachons
 eulogiae
 eulogias
 eulogies
@@ -36183,6 +36193,7 @@ fantod
 fanum
 fanums
 fanwort
+fanworts
 fanzines
 faqir
 faqirs
@@ -39979,6 +39990,7 @@ froward
 frowardly
 frowardness
 frown
+frowner
 frowners
 frowning
 frowningly
@@ -40200,6 +40212,7 @@ fumigating
 fumigators
 fumuli
 fumy
+funambulism
 funambulist
 funambulists
 function
@@ -48971,6 +48984,7 @@ imaginarily
 imaginarinesses
 imaginations
 imaginative
+imaginatively
 imagine
 imagined
 imaginer
@@ -57715,6 +57729,7 @@ logicise
 logicised
 logicising
 logicize
+logicized
 logicizes
 logicizing
 logicless
@@ -59927,6 +59942,7 @@ matambala
 match
 matchable
 matchboards
+matchbooks
 matchbox
 matched
 matcher
@@ -62708,6 +62724,7 @@ mispoises
 mispoising
 misposition
 mispositioned
+mispositioning
 mispositions
 misprice
 mispricing
@@ -66949,6 +66966,7 @@ nonforfeiture
 nonforfeitures
 nonformal
 nonfreezing
+nonfrivolous
 nonfulfillments
 nonfunctional
 nonfunctioning
@@ -68921,6 +68939,7 @@ onomasticians
 onomatologies
 onomatology
 onomatopoeia
+onomatopoeias
 onomatopoeic
 onomatopoetic
 onos
@@ -70989,6 +71008,7 @@ overedit
 overedited
 overediting
 overedits
+overeducated
 overeducates
 overeducating
 overeducation
@@ -71801,6 +71821,7 @@ ovulation
 ovulatory
 ovule
 ovum
+ow
 owe
 owed
 owes
@@ -77838,6 +77859,7 @@ postabortion
 postaccident
 postadolescent
 postages
+postally
 postals
 postamputation
 postanal
@@ -77965,6 +77987,7 @@ postmortem
 postnatal
 postnatally
 postneonatal
+postnuptial
 postoperatively
 postops
 postoral
@@ -85779,6 +85802,7 @@ renig
 renigs
 renins
 renitence
+renitences
 renitencies
 rennases
 rennets
@@ -88355,6 +88379,7 @@ roister
 roistering
 roisterous
 roisterously
+roisters
 rolamite
 role
 rolf
@@ -93153,6 +93178,7 @@ shoddiness
 shoddinesses
 shoddy
 shoe
+shoebill
 shoeblack
 shoeblacks
 shoeboxes
@@ -96061,6 +96087,7 @@ sophisticatedly
 sophisticates
 sophistication
 sophistries
+sophistry
 sophists
 sophomore
 sophomoric
@@ -96747,6 +96774,7 @@ spermatocyte
 spermatogeneses
 spermatogenic
 spermatogonial
+spermatophore
 spermatophores
 spermatophytic
 spermatozoal
@@ -97466,6 +97494,7 @@ squamulose
 squanderer
 squanderers
 squandering
+square
 squared
 squarely
 squareness
@@ -97785,6 +97814,7 @@ standardbred
 standardbreds
 standardise
 standardised
+standardising
 standardize
 standardized
 standardless
@@ -99727,6 +99757,7 @@ submanager
 submanagers
 submarginal
 submariner
+submariners
 submarines
 submarining
 submaxillaries
@@ -102181,6 +102212,7 @@ tactfulness
 tactic
 tactical
 tactically
+tactician
 tacticians
 tactics
 tactile
@@ -104681,6 +104713,7 @@ tiglons
 tigon
 tigons
 tigress
+tigresses
 tigrish
 tike
 tikes
@@ -109344,6 +109377,7 @@ unfastened
 unfastening
 unfastidious
 unfavorably
+unfavored
 unfavorite
 unfazed
 unfeared
@@ -113312,6 +113346,7 @@ wafflestomper
 wafflestompers
 wafflier
 waffling
+wafflings
 waffs
 waftage
 wafted
