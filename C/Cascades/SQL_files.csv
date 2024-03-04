@@ -8,3 +8,8 @@ schema.sql - BMRB,https://bmrb.pdbj.org/ftp/pub/bmrb/relational_tables/nmr-star3
 properties SQL - CCP4,https://legacy.ccp4.ac.uk/peter/private/MSD-SQL/sql/prop.sql
 https://www.postgresql.org/message-id/attachment/1...,https://www.postgresql.org/message-id/attachment/14691/lineitem.sql
 https://docs.oracle.com/cd//E60665_01/tutorials_ja...,https://docs.oracle.com/cd//E60665_01/tutorials_ja/Migrating_Applications_and_Data_to_Exadata_Express/files/lab1_script.sql
+https://raw.githubusercontent.com/hasura/snowflake...,https://raw.githubusercontent.com/hasura/snowflake-quickstart/main/sql/sample_music_database.sql%3Futm_cta%3Dwebsite-workload-data-warehouse-accelerating-analytics-webinar
+timescaledb/tsl/test/sql/compression_ddl.sql at main - GitHub,https://github.com/timescale/timescaledb/blob/master/tsl/test/sql/compression_ddl.sql
+https://raw.githubusercontent.com/lerocha/chinook-...,https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_PostgreSql.sql
+artwork-indexer/sql/caa_functions.sql at master · metabrainz/artwork ...,https://github.com/metabrainz/artwork-indexer/blob/master/sql/caa_functions.sql
+http://mguilhem91.free.fr/films/Guilhem.sql,http://mguilhem91.free.fr/films/Guilhem.sql
