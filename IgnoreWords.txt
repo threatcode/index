@@ -2319,6 +2319,7 @@ allergen
 allergenic
 allergenicities
 allergenicity
+allergens
 allergies
 allergin
 allergist
@@ -6058,6 +6059,7 @@ attested
 attesting
 attestor
 attestors
+attests
 attic
 atticism
 atticisms
@@ -6395,6 +6397,7 @@ autoharp
 autoharps
 autoimmune
 autoimmunities
+autoimmunity
 autoinfection
 autoinfections
 autoing
@@ -14806,6 +14809,7 @@ carousing
 carp
 carpaccio
 carpal
+carpalia
 carpals
 carped
 carpel
@@ -36466,6 +36470,7 @@ faun
 fauna
 faunally
 faunas
+faunistic
 faunlike
 fauteuil
 fauteuils
@@ -38659,6 +38664,7 @@ foggages
 fogger
 foggier
 foggiest
+foggily
 fogginess
 foghorn
 fogy
@@ -41207,6 +41213,7 @@ gauzinesses
 gauzy
 gavages
 gaveled
+gaveling
 gavelled
 gavelling
 gavels
@@ -44216,6 +44223,7 @@ gurnard
 gurney
 gurneys
 gursh
+gurshes
 gurus
 guruships
 gush
@@ -44995,6 +45003,7 @@ hants
 hanumans
 hao
 hap
+hapaxes
 haphazard
 haphazardnesses
 haphazardry
@@ -52785,6 +52794,7 @@ isochromosome
 isochromosomes
 isochron
 isochronal
+isochronally
 isochrone
 isochrones
 isochronism
@@ -53033,6 +53043,7 @@ jackets
 jackfish
 jackfishes
 jackhammer
+jackhammered
 jackhammering
 jackhammers
 jackies
@@ -55398,6 +55409,7 @@ laky
 lallan
 lallans
 lallations
+lalls
 lallygag
 lallygagged
 lallygagging
@@ -56883,6 +56895,7 @@ liftgates
 lifting
 liftman
 liftmen
+liftoff
 liftoffs
 lifts
 ligament
@@ -59162,6 +59175,7 @@ malisons
 malkin
 malkins
 mall
+mallard
 mallards
 malleably
 malled
@@ -65551,6 +65565,7 @@ neatened
 neatening
 neatens
 neatest
+neath
 neatherd
 neatherds
 neatness
@@ -65885,6 +65900,7 @@ nereides
 nereis
 nerol
 nervations
+nervature
 nervatures
 nerved
 nerveless
@@ -71139,6 +71155,7 @@ overfertilized
 overfertilizing
 overfill
 overfilling
+overfills
 overfished
 overfishing
 overflew
@@ -71427,6 +71444,7 @@ overplanned
 overplans
 overplant
 overplanting
+overplants
 overplayed
 overplot
 overplots
@@ -72529,6 +72547,7 @@ pangs
 panhandle
 panhandled
 panhandler
+panhandlers
 panhandles
 panhandling
 panhuman
@@ -75017,6 +75036,7 @@ phasis
 phasmid
 phasmids
 phat
+phatic
 phatter
 phattest
 phellems
@@ -75170,6 +75190,7 @@ phlogiston
 phlogopites
 phlorizins
 phlyctena
+phlyctenae
 phobia
 phobias
 phobics
@@ -76097,6 +76118,7 @@ pintles
 pintoes
 pintsize
 pintsized
+pinup
 pinups
 pinwale
 pinwales
@@ -79519,6 +79541,7 @@ prevalently
 prevalued
 prevalues
 prevaluing
+prevaricate
 prevaricating
 prevarication
 prevaricator
@@ -80554,6 +80577,7 @@ protatic
 protea
 protean
 proteans
+proteas
 protect
 protectant
 protectants
@@ -88091,6 +88115,7 @@ rimple
 rimpled
 rimples
 rimpling
+rimrock
 rimshot
 rimshots
 rin
@@ -95516,6 +95541,7 @@ snowboarded
 snowboarders
 snowboardings
 snowboards
+snowbound
 snowbush
 snowbushes
 snowcap
@@ -96931,6 +96957,7 @@ spiderier
 spideriest
 spiderish
 spiderlike
+spiders
 spiderweb
 spiderwort
 spiderworts
@@ -98808,6 +98835,7 @@ storer
 storeroom
 storers
 stores
+storeship
 storeships
 storewide
 storey
@@ -103142,6 +103170,7 @@ teetotalisms
 teetotalist
 teetotalists
 teetotalled
+teetotaller
 teetotalling
 teetotally
 teetotals
@@ -103493,6 +103522,7 @@ tenpences
 tenpenny
 tenpin
 tenpins
+tenpounders
 tenrec
 tenseness
 tenses
@@ -104267,6 +104297,7 @@ thiocyanates
 thiol
 thiols
 thionic
+thionin
 thionine
 thionines
 thionins
@@ -106682,6 +106713,7 @@ trichlorfon
 trichlorfons
 trichlorphons
 trichocyst
+trichogyne
 trichoid
 trichologies
 trichology
@@ -108714,6 +108746,7 @@ uncinariasis
 uncinate
 uncinus
 uncirculated
+uncircumcisions
 uncivil
 uncivilly
 unclad
@@ -113393,6 +113426,7 @@ wadmolls
 wads
 wadsets
 wadsetted
+wadsetting
 waeful
 waeness
 waes
@@ -114178,6 +114212,7 @@ webworm
 webworms
 wecht
 wechts
+wed
 wedder
 weddings
 wedel
