@@ -391,6 +391,7 @@ accretionary
 accretions
 accretive
 accrual
+accrue
 accrued
 accruement
 accruements
@@ -879,6 +880,7 @@ adeptly
 adeptness
 adeptnesses
 adepts
+adequate
 adequately
 adequatenesses
 adhere
@@ -2125,6 +2127,7 @@ alga
 algaecide
 algarrobas
 algarrobo
+algarrobos
 algas
 algebra
 algebraic
@@ -2780,6 +2783,7 @@ amens
 amentia
 amentias
 aments
+amerce
 amerced
 amercement
 amercements
@@ -5823,6 +5827,7 @@ astringents
 astringes
 astringing
 astrobiologist
+astrocyte
 astrocytes
 astrocytomas
 astrocytomata
@@ -8116,6 +8121,7 @@ beachiest
 beaching
 beachside
 beachwear
+beachy
 beacon
 beaconed
 beaconing
@@ -8938,6 +8944,7 @@ benzidines
 benzidins
 benzimidazole
 benzimidazoles
+benzin
 benzine
 benzins
 benzoapyrenes
@@ -9097,6 +9104,7 @@ besoms
 besoothes
 besoothing
 besot
+besots
 besotted
 besought
 bespake
@@ -9746,6 +9754,7 @@ biodiversities
 biodiversity
 biodynamic
 bioelectrical
+bioelectricity
 bioengineered
 bioengineering
 bioengineerings
@@ -18174,6 +18183,7 @@ clostridia
 clostridial
 clostridium
 closure
+closured
 closures
 closuring
 clot
@@ -25287,6 +25297,7 @@ decupled
 decuples
 decuries
 decurion
+decurions
 decurrent
 decurve
 decurves
@@ -25401,6 +25412,7 @@ defections
 defective
 defectiveness
 defectivenesses
+defectors
 defeminize
 defeminized
 defeminizing
@@ -27380,6 +27392,7 @@ diathesis
 diathetic
 diatom
 diatomic
+diatomites
 diatonic
 diatonically
 diatribe
@@ -33643,6 +33656,7 @@ episomally
 episome
 episomes
 epistases
+epistasies
 epistasis
 epistasy
 epistatic
@@ -37037,6 +37051,7 @@ fetus
 feuars
 feudal
 feudalism
+feudalisms
 feudalist
 feudalists
 feudalities
@@ -37414,6 +37429,7 @@ finalises
 finalising
 finalisms
 finalist
+finalization
 finalizations
 finalize
 finalizer
@@ -42746,6 +42762,7 @@ goldenseals
 golder
 goldest
 goldfield
+goldfields
 goldfinch
 goldfish
 goldfishes
@@ -51992,6 +52009,7 @@ intersessions
 intersex
 intersexual
 intersexuality
+intersexually
 interspaced
 interspaces
 interspecies
@@ -52787,6 +52805,7 @@ isoantigen
 isoantigenic
 isoantigens
 isobar
+isobare
 isobaric
 isobarism
 isobarisms
@@ -57163,6 +57182,7 @@ linen
 lineny
 lineolate
 linerboards
+linerless
 liners
 lines
 linesmen
@@ -67367,6 +67387,7 @@ nonquantifiable
 nonracial
 nonracially
 nonradioactive
+nonrandomness
 nonrandomnesses
 nonrated
 nonrational
@@ -67908,6 +67929,7 @@ nucleated
 nucleation
 nucleations
 nucleator
+nucleators
 nuclei
 nuclein
 nucleins
@@ -68789,6 +68811,7 @@ oiliest
 oilily
 oiliness
 oilinesses
+oilman
 oilmen
 oilpaper
 oilpapers
@@ -76964,6 +76987,7 @@ plumbic
 plumbings
 plumbism
 plumbness
+plumbnesses
 plumbous
 plumbs
 plumbum
@@ -82535,6 +82559,7 @@ radicchios
 radicel
 radicels
 radices
+radicle
 radicles
 radicular
 radii
@@ -84049,6 +84074,7 @@ reconvinces
 reconvincing
 recook
 recooked
+recooks
 recopied
 recopying
 record
@@ -84323,6 +84349,7 @@ redigestion
 redigestions
 redigress
 redigressed
+redigresses
 redigressing
 reding
 redingotes
@@ -93023,6 +93050,7 @@ sheriffs
 sherifs
 sherlock
 sheroot
+sherpa
 sherpas
 sherries
 sherris
@@ -93076,6 +93104,7 @@ shifty
 shigella
 shigellae
 shigellas
+shigellosis
 shiitake
 shiitakes
 shikar
@@ -94241,6 +94270,7 @@ sitters
 sitting
 situated
 situates
+situating
 situation
 situationally
 situations
@@ -95640,6 +95670,7 @@ snugged
 snugger
 snuggerie
 snuggeries
+snuggest
 snuggies
 snugging
 snuggle
@@ -96349,6 +96380,7 @@ soundest
 sounding
 soundings
 soundless
+soundly
 soundman
 soundnesses
 soundproofed
@@ -102382,6 +102414,7 @@ tags
 tahini
 tahinis
 tahr
+tahsil
 tahsildar
 tahsildars
 tahsils
@@ -107652,6 +107685,7 @@ turbidly
 turbidness
 turbidnesses
 turbinal
+turbinals
 turbinate
 turbinated
 turbine
@@ -115659,6 +115693,7 @@ woopsing
 woorali
 wooralis
 woos
+woosh
 wooshed
 wooshes
 wooshing
