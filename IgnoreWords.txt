@@ -118,6 +118,7 @@ absorbants
 absorbed
 absorbent
 absorbers
+absorbing
 absorptance
 absorptances
 absorption
@@ -362,6 +363,7 @@ accoucheur
 accoucheurs
 account
 accountability
+accountable
 accountableness
 accountably
 accountancy
@@ -4283,6 +4285,7 @@ anyplace
 anythings
 anytime
 anyway
+anyways
 anywise
 aorist
 aoristic
@@ -6785,6 +6788,7 @@ azotemic
 azoths
 azotic
 azotise
+azotised
 azotising
 azotize
 azotized
@@ -11429,6 +11433,7 @@ bouffant
 bouffes
 bougainvillaea
 bougainvillaeas
+bougainvilleas
 boughpot
 boughpots
 boughs
@@ -15685,6 +15690,7 @@ cephalous
 cepheid
 ceps
 ceraceous
+ceramal
 ceramals
 ceramicist
 ceramicists
@@ -16070,6 +16076,7 @@ chapiter
 chaplaincies
 chaplaincy
 chaplets
+chapman
 chapmen
 chappatis
 chapping
@@ -16812,6 +16819,7 @@ chlorenchymas
 chloric
 chlorid
 chloride
+chlorids
 chlorin
 chlorinate
 chlorinated
@@ -23783,6 +23791,7 @@ cutis
 cutlas
 cutlases
 cutlass
+cutlasses
 cutleries
 cutlers
 cutlery
@@ -24076,6 +24085,7 @@ cytolyses
 cytolysin
 cytolysins
 cytomegalovirus
+cytomembranes
 cyton
 cytons
 cytopathic
@@ -26409,6 +26419,7 @@ derivers
 derives
 deriving
 derm
+dermabrasions
 dermas
 dermatitises
 dermatogen
@@ -27583,6 +27594,7 @@ digressive
 digressiveness
 digs
 dihedrals
+dihybrids
 dikdik
 diker
 dikes
@@ -35109,6 +35121,7 @@ expatiating
 expatiation
 expatiations
 expatriate
+expatriates
 expatriating
 expatriation
 expatriations
@@ -35996,6 +36009,7 @@ famine
 faming
 famish
 famishing
+famishment
 famishments
 famous
 famously
@@ -42855,6 +42869,7 @@ gown
 gowned
 gowning
 gowns
+gownsmen
 goxes
 goy
 goyim
@@ -54528,6 +54543,7 @@ kit
 kitbag
 kitbags
 kitchen
+kitchenets
 kitchenettes
 kitchenwares
 kite
@@ -54958,6 +54974,7 @@ labanotations
 labara
 labarum
 labarums
+labdanum
 labelable
 labeler
 labelers
@@ -58550,6 +58567,7 @@ madders
 maddest
 madding
 maddish
+madeira
 mademoiselle
 mademoiselles
 maderize
@@ -60354,6 +60372,7 @@ melilite
 melilites
 melilot
 melilots
+melinite
 meliorate
 meliorated
 meliorates
@@ -65296,6 +65315,7 @@ nearly
 nearnesses
 nears
 nearshore
+nearside
 nearsides
 nearsighted
 neat
@@ -68309,6 +68329,7 @@ odea
 odes
 odious
 odiousness
+odiousnesses
 odium
 odiums
 odograph
@@ -73769,6 +73790,7 @@ penicillin
 penicillinase
 penicillinases
 penicillins
+penile
 penises
 penitence
 penitences
@@ -75189,6 +75211,7 @@ phrenetic
 phrenic
 phrenitises
 phrenologies
+phrenologist
 phrenologists
 phrenology
 phrensied
@@ -78320,6 +78343,7 @@ precopulatory
 precrash
 precreased
 precreases
+precreasing
 precrisis
 precritical
 precure
@@ -80475,6 +80499,7 @@ prowess
 prowest
 prowl
 prowled
+prowlers
 prowling
 proxemic
 proxies
@@ -85390,6 +85415,7 @@ remittals
 remittance
 remittances
 remitted
+remittent
 remitter
 remitters
 remitting
@@ -85743,6 +85769,7 @@ repetition
 repetitional
 repetitions
 repetitious
+repetitiously
 repetitiousness
 repetitive
 repetitiveness
@@ -102117,6 +102144,7 @@ talukas
 taluks
 talus
 taluses
+tamal
 tamale
 tamals
 tamandu
@@ -107739,6 +107767,7 @@ ulpanim
 ulster
 ulsters
 ulterior
+ulteriorly
 ultima
 ultimacy
 ultimas
@@ -110049,6 +110078,7 @@ unseemliest
 unseemliness
 unseen
 unsegmented
+unsegregated
 unseized
 unselected
 unselective
@@ -113103,6 +113133,7 @@ waitron
 waitstaff
 waive
 waived
+waiver
 waivers
 wakame
 wakames
@@ -113981,6 +114012,7 @@ westernmost
 westers
 westing
 westings
+westmost
 wests
 westward
 wet
@@ -114433,6 +114465,7 @@ wickape
 wickapes
 wicked
 wickedest
+wickedness
 wicker
 wickers
 wickerwork
@@ -114694,6 +114727,7 @@ wineshop
 wineskin
 wineskins
 winesops
+winey
 wingback
 wingbow
 wingbows
@@ -116241,6 +116275,7 @@ zonate
 zonated
 zone
 zoned
+zones
 zonetime
 zoning
 zonk
