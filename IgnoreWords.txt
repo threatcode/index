@@ -1701,6 +1701,7 @@ agitative
 agitato
 agitator
 agitators
+agitprops
 aglare
 aglet
 aglets
@@ -5192,6 +5193,7 @@ armpits
 armrests
 armsful
 armure
+army
 arnatto
 arnicas
 arnotto
@@ -5638,6 +5640,7 @@ assembly
 assemblyman
 assemblywoman
 assemblywomen
+assentations
 assenters
 assentive
 assentor
@@ -9664,6 +9667,7 @@ bimillenaries
 bimillenary
 bimillennial
 bimodal
+bimodalities
 bimodality
 bimolecularly
 bimonthlies
@@ -10405,6 +10409,7 @@ blights
 blighty
 blimpishly
 blimpishness
+blimps
 blind
 blindage
 blinders
@@ -11512,6 +11517,7 @@ bound
 boundable
 boundary
 bounded
+boundedness
 boundednesses
 bounden
 bounder
@@ -13671,6 +13677,7 @@ calcaneal
 calcaneum
 calcar
 calcarate
+calcaria
 calcars
 calceate
 calcedony
@@ -13696,6 +13703,7 @@ calcitonins
 calcium
 calciums
 calcspar
+calcspars
 calctuff
 calculated
 calculatedly
@@ -14599,6 +14607,7 @@ carburettors
 carburise
 carburises
 carburising
+carburization
 carburizations
 carburize
 carburized
@@ -15192,6 +15201,7 @@ catcalled
 catcallers
 catcalls
 catch
+catchable
 catchall
 catchalls
 catcher
@@ -42095,6 +42105,7 @@ giving
 gizmos
 gizzard
 gjetost
+gjetosts
 glabella
 glabellar
 glabrescent
@@ -43226,6 +43237,7 @@ grandiloquent
 grandiose
 grandiosely
 grandiosities
+grandiosity
 grandioso
 grandkid
 grandma
@@ -49787,6 +49799,7 @@ inanest
 inanimate
 inanimatenesses
 inanities
+inanition
 inanitions
 inapparently
 inappeasable
@@ -59774,6 +59787,7 @@ marksmen
 markswoman
 markswomen
 markup
+markups
 marled
 marlier
 marline
@@ -60827,6 +60841,7 @@ menopausal
 menopause
 menorah
 menorahs
+menorrhagia
 menorrhagias
 menorrhea
 menorrheas
@@ -61832,6 +61847,7 @@ mightiness
 mightinesses
 mignons
 migraine
+migrainous
 migrants
 migrate
 migration
@@ -63574,6 +63590,7 @@ monochrome
 monochromic
 monochromists
 monocle
+monocled
 monocles
 monocline
 monoclines
@@ -64210,6 +64227,7 @@ mottling
 mottos
 motts
 mouch
+mouching
 mouchoirs
 moue
 moues
@@ -64459,6 +64477,7 @@ mudslinger
 mudslingers
 mudslinging
 mudstones
+mueddin
 muenster
 muensters
 muesli
@@ -66125,6 +66144,7 @@ neutered
 neutering
 neutral
 neutralise
+neutralisms
 neutralist
 neutralistic
 neutralities
@@ -67319,6 +67339,7 @@ nonobservances
 nonobservant
 nonoccurrence
 nonofficials
+nonohmic
 nonoily
 nonoperatic
 nonoptimal
@@ -70667,6 +70688,7 @@ outstarting
 outstarts
 outstated
 outstates
+outstating
 outstay
 outstayed
 outstaying
@@ -71546,6 +71568,7 @@ overpricing
 overprinted
 overprinting
 overprints
+overprivileged
 overprize
 overprizes
 overprocess
@@ -76717,6 +76740,7 @@ platonic
 platonism
 platoon
 platooned
+platoons
 platterful
 platterfuls
 platters
@@ -80004,6 +80028,7 @@ procrastinator
 procrastinators
 procreant
 procreate
+procreated
 procreates
 procreating
 procreation
@@ -81283,6 +81308,7 @@ pulings
 pulis
 pullbacks
 pulled
+pullet
 pullets
 pulleys
 pulling
@@ -83245,6 +83271,7 @@ rawish
 rawnesses
 raws
 rax
+raxed
 raya
 rayahs
 rayas
@@ -85960,6 +85987,7 @@ renitencies
 rennases
 rennets
 rennins
+renographic
 renographies
 renography
 renominate
@@ -88887,6 +88915,7 @@ roundtrip
 roundtrips
 roundup
 roundwood
+roundwoods
 roundworm
 roup
 rouped
@@ -94036,6 +94065,7 @@ silversides
 silverware
 silverwares
 silverweeds
+silvery
 silvex
 silvical
 silvics
@@ -98972,6 +99002,7 @@ stouthearted
 stoutheartedly
 stoutish
 stoutly
+stoutness
 stouts
 stove
 stovepipes
@@ -99959,6 +99990,7 @@ submillimeter
 subminiature
 subminimal
 subminister
+subministers
 submissions
 submissive
 submissively
@@ -102518,6 +102550,7 @@ takeaway
 takeaways
 takedowns
 takeoffs
+takeout
 taker
 takes
 takeup
@@ -107644,6 +107677,7 @@ tumuluses
 tun
 tunabilities
 tunability
+tunable
 tunably
 tunas
 tundras
@@ -114634,6 +114668,7 @@ wheeples
 wheepling
 wheeps
 wheeze
+wheezed
 wheezer
 wheezier
 wheezily
