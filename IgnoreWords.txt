@@ -2420,6 +2420,7 @@ allowing
 allows
 alloxan
 alloy
+alloyed
 alloys
 alls
 allseed
@@ -3891,6 +3892,7 @@ anticommunisms
 anticommunist
 anticommunists
 anticompetitive
+anticonvulsant
 anticonvulsants
 anticonvulsive
 anticonvulsives
@@ -7792,6 +7794,7 @@ barricado
 barricadoed
 barricados
 barrier
+barriers
 barrio
 barrios
 barrister
@@ -10698,6 +10701,7 @@ blumes
 bluming
 blunderbuss
 blunderbusses
+blunderer
 blunderers
 blunderingly
 blunge
@@ -11435,6 +11439,7 @@ bottlers
 bottling
 bottlings
 bottom
+bottomed
 bottomer
 bottoming
 bottomland
@@ -13054,6 +13059,7 @@ burnable
 burned
 burner
 burners
+burnet
 burnets
 burnie
 burnings
@@ -15991,6 +15997,7 @@ chamisas
 chamise
 chamiso
 chammied
+chammy
 chammying
 chamois
 chamoised
@@ -17461,6 +17468,7 @@ circumambiently
 circumambulate
 circumambulated
 circumambulates
+circumcenter
 circumcenters
 circumcircle
 circumcised
@@ -20436,6 +20444,7 @@ conjuring
 conjuror
 conjurors
 conk
+conker
 conking
 conks
 conky
@@ -27118,6 +27127,7 @@ dextrally
 dextran
 dextranase
 dextrans
+dextrine
 dextro
 dextrose
 dextrous
@@ -29725,6 +29735,7 @@ dorbugs
 dore
 dorhawk
 dork
+dorkiest
 dorkiness
 dorkinesses
 dorks
@@ -30564,6 +30575,7 @@ duckwalked
 duckwalks
 duckweed
 duckweeds
+duct
 ductal
 ducted
 ductilities
@@ -37020,6 +37032,7 @@ feuilletonist
 feuilletonists
 feuilletons
 fever
+feverfew
 fevering
 feverish
 feverishness
@@ -38175,6 +38188,7 @@ flipped
 flipper
 flippest
 flippy
+flirs
 flirt
 flirtation
 flirtatiously
@@ -43252,6 +43266,7 @@ graplin
 graplines
 grapnel
 grapnels
+grappa
 grappler
 grapplers
 grapples
@@ -43849,6 +43864,7 @@ gruelingly
 gruelings
 grueller
 gruesomely
+gruesomenesses
 gruesomest
 gruff
 gruffed
@@ -48040,6 +48056,7 @@ hyaloid
 hyaloids
 hyaloplasm
 hyaloplasms
+hyaluronidases
 hybridisms
 hybridist
 hybridists
@@ -49707,6 +49724,7 @@ inappetences
 inapplicably
 inappositely
 inappositeness
+inappreciable
 inappreciably
 inappreciative
 inapproachable
@@ -51795,6 +51813,7 @@ intermit
 intermitted
 intermittence
 intermittences
+intermittencies
 intermittency
 intermittent
 intermittently
@@ -53960,6 +53979,7 @@ kaiaks
 kaif
 kails
 kailyards
+kainite
 kainites
 kainits
 kairomone
@@ -55388,6 +55408,7 @@ lambkill
 lambkin
 lamblike
 lambrequins
+lambruscos
 lambs
 lambskin
 lambskins
@@ -57700,6 +57721,7 @@ lofting
 loftless
 loftlike
 lofts
+lofty
 logan
 loganberries
 loganberry
@@ -60760,6 +60782,7 @@ mention
 mentionable
 mentioned
 mentioner
+mentioners
 mentioning
 mentions
 mentor
@@ -61390,6 +61413,7 @@ microbeam
 microbes
 microbial
 microbian
+microbic
 microbiologic
 microbiological
 microbiologies
@@ -61671,6 +61695,7 @@ midsagittal
 midsection
 midship
 midshipmen
+midships
 midsize
 midsized
 midsoles
@@ -67301,6 +67326,7 @@ nonrecyclables
 nonredundant
 nonrefillable
 nonregulated
+nonrelatives
 nonrelativistic
 nonrelevant
 nonrenewal
@@ -73375,6 +73401,7 @@ pathology
 pathophysiology
 pathoses
 paths
+patience
 patiences
 patient
 patientest
@@ -73845,6 +73872,7 @@ peevish
 peevishness
 peewee
 peewees
+peewit
 peewits
 peg
 pegboard
@@ -74611,6 +74639,7 @@ persimmon
 persist
 persisted
 persistence
+persistences
 persistencies
 persistency
 persistently
@@ -77118,6 +77147,7 @@ pointing
 pointless
 pointlessly
 pointlessnesses
+pointmen
 pois
 poise
 poised
@@ -85859,6 +85889,7 @@ reoccurrence
 reoccurrences
 reoccurring
 reoccurs
+reoffer
 reoffered
 reoffers
 reoil
@@ -89047,6 +89078,7 @@ runoff
 runoffs
 runouts
 runover
+runround
 runrounds
 runs
 runt
@@ -103130,6 +103162,7 @@ teleconference
 telecourses
 telefacsimile
 telefax
+telefaxes
 telefilms
 telega
 telegas
@@ -114231,6 +114264,7 @@ weldless
 weldment
 weldments
 weldor
+welds
 welfares
 welfarisms
 welfarists
@@ -116366,6 +116400,7 @@ zamarro
 zamarros
 zamia
 zamindar
+zamindari
 zamindaris
 zanana
 zananas
