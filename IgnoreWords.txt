@@ -928,6 +928,7 @@ adjudicator
 adjudicators
 adjunct
 adjunction
+adjunctions
 adjunctly
 adjuncts
 adjuration
@@ -3451,6 +3452,7 @@ anilines
 anility
 anils
 anima
+animacy
 animadvert
 animadverted
 animadverting
@@ -9175,6 +9177,7 @@ betrayals
 betrayed
 betrayer
 betrayers
+betraying
 betroth
 betrothal
 betrothals
@@ -10623,6 +10626,7 @@ bluefin
 bluefins
 bluefish
 bluefishes
+bluegill
 bluegills
 bluegrass
 bluegrasses
@@ -19244,6 +19248,7 @@ columellae
 columellar
 column
 columnar
+columnea
 columnist
 columnistic
 columnists
@@ -22343,6 +22348,7 @@ coydog
 coydogs
 coying
 coyish
+coyness
 coyote
 coyotes
 coyotillo
@@ -22485,6 +22491,7 @@ cranker
 crankiest
 crankily
 crankiness
+cranking
 crankish
 crankle
 crankled
@@ -31991,6 +31998,7 @@ embargo
 embargoed
 embargoes
 embargoing
+embarkation
 embarkations
 embarked
 embarking
@@ -34924,6 +34932,7 @@ executing
 execution
 executioner
 executive
+executorial
 executors
 executrixes
 exed
@@ -35692,6 +35701,7 @@ eyelike
 eyeliner
 eyeliners
 eyen
+eyeopeners
 eyepiece
 eyepieces
 eyepoint
@@ -36721,6 +36731,7 @@ fendered
 fenders
 fending
 fenestrae
+fenestrate
 fenestrated
 fenlands
 fennec
@@ -37472,6 +37483,7 @@ fireflood
 fireguard
 firehall
 firehouse
+fireless
 firelight
 firelights
 firelock
@@ -38673,6 +38685,7 @@ fondle
 fondled
 fondler
 fondlers
+fondling
 fondlings
 fondly
 fonds
@@ -39401,6 +39414,7 @@ fractus
 frae
 fraenum
 fraenums
+frag
 fragged
 fragile
 fragilely
@@ -44297,6 +44311,7 @@ habaneras
 habaneros
 habdalah
 habdalahs
+haberdasheries
 haberdashers
 haberdashery
 habile
@@ -52113,6 +52128,7 @@ introverts
 intrude
 intruded
 intruder
+intruders
 intrudes
 intruding
 intrusions
@@ -53055,6 +53071,7 @@ japanner
 japanners
 japans
 japer
+japeries
 japers
 japing
 japingly
@@ -53870,6 +53887,7 @@ kaffiyehs
 kafirs
 kaftan
 kaftans
+kagus
 kahunas
 kaiak
 kaiaks
@@ -56087,6 +56105,7 @@ lecherousnesses
 lechers
 lechery
 leches
+leching
 lechwes
 lecithinases
 lectern
@@ -56153,6 +56172,7 @@ legalize
 legalized
 legalizers
 legalizes
+legalizing
 legally
 legals
 legate
@@ -56382,6 +56402,7 @@ lesbianisms
 lesbians
 leses
 lesion
+lespedezas
 less
 lessee
 lessen
@@ -60809,6 +60830,7 @@ merrythoughts
 mesa
 mesalliance
 mesalliances
+mesally
 mesas
 mescal
 mescaline
@@ -63263,6 +63285,7 @@ monde
 mondos
 monecian
 monecious
+monellin
 monerans
 monestrous
 monetarily
@@ -65702,6 +65725,7 @@ nephelometry
 nephews
 nephogram
 nephologies
+nephology
 nephoscopes
 nephrectomies
 nephrectomized
@@ -70613,6 +70637,7 @@ overachieved
 overachiever
 overachievers
 overachieving
+overact
 overacted
 overacting
 overaction
@@ -73606,6 +73631,7 @@ ped
 pedagog
 pedagogic
 pedagogical
+pedagogically
 pedagogics
 pedagogs
 pedagogue
@@ -74249,6 +74275,7 @@ pericranial
 pericycle
 pericyclic
 periderm
+peridia
 peridium
 peridotic
 peridotite
@@ -74347,6 +74374,7 @@ periti
 peritonea
 peritoneum
 peritoneums
+peritonitis
 peritonitises
 peritrich
 peritricha
@@ -80106,6 +80134,7 @@ propagated
 propagates
 propagation
 propagations
+propagator
 propagators
 propagule
 propagules
@@ -91029,6 +91058,7 @@ sculptor
 sculptress
 sculptresses
 sculptural
+sculptured
 sculptures
 sculpturesquely
 sculpturing
@@ -97664,6 +97694,7 @@ stanchly
 stand
 standard
 standardbred
+standardbreds
 standardise
 standardised
 standardize
@@ -99923,6 +99954,7 @@ subtype
 subtypes
 subulate
 subunit
+suburb
 suburban
 suburbanise
 suburbanised
@@ -101889,6 +101921,7 @@ sysadmin
 sysadmins
 sysop
 sysops
+system
 systematic
 systematically
 systematicness
@@ -104688,6 +104721,7 @@ tinfuls
 tinge
 tinged
 tinges
+tinging
 tingle
 tinglers
 tinglier
@@ -116423,6 +116457,7 @@ zonked
 zonking
 zonula
 zonular
+zonulas
 zonule
 zoo
 zoochore

@@ -1,0 +1,10 @@
+power/state,https://www.kernel.org/doc/Documentation/power/states.txt
+sysfs.txt,https://www.kernel.org/doc/Documentation/cpuidle/sysfs.txt
+ld.config.txt - Google Git,https://android.googlesource.com/platform/system/linkerconfig/%2B/refs/heads/android-s-beta-5/testdata/golden_output/vndk-in-system/com.product.service1/ld.config.txt
+RFC 3651 - Handle System Namespace and Service Definition - IETF,https://www.ietf.org/rfc/rfc3651.txt
+RFC 3650 Handle System Overview,https://www.rfc-editor.org/rfc/rfc3650.txt
+distributed-system.txt - Leslie Lamport,https://lamport.azurewebsites.net/pubs/distributed-system.txt
+testdata/golden_output/vndk-in-system/ld.config.txt - Google Git,https://android.googlesource.com/platform/system/linkerconfig/%2B/refs/heads/android-s-beta-5/testdata/golden_output/vndk-in-system/ld.config.txt
+System.Device.txt - GitHub,https://github.com/microsoft/referencesource/blob/master/System.Device/System.Device.txt
+Generally Accepted System Security Principles,https://csrc.nist.gov/files/pubs/shared/itlb/cslbul1996-10.txt
+[FATAL ERROR: Could not find system resources] - SWI-Prolog,http://swi-prolog.osuosl.org/FAQ/FindResources.txt
