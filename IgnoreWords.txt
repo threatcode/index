@@ -656,6 +656,7 @@ acrolein
 acroleins
 acrolith
 acroliths
+acromegalic
 acromegalics
 acromial
 acromion
@@ -2990,6 +2991,7 @@ amplifications
 amplifier
 amplifying
 amplitude
+amplitudes
 amply
 amps
 ampul
@@ -6149,6 +6151,7 @@ audad
 audads
 audial
 audibility
+audible
 audibled
 audibling
 audibly
@@ -6573,6 +6576,7 @@ aversives
 avert
 avertable
 averted
+averter
 avertible
 averting
 averts
@@ -12184,6 +12188,7 @@ brines
 bring
 bringdown
 bringing
+brings
 brinier
 brinies
 briniest
@@ -14072,6 +14077,7 @@ candler
 candles
 candlesnuffer
 candlestick
+candlesticks
 candlewick
 candlewoods
 candling
@@ -16448,6 +16454,7 @@ chegoe
 chela
 chelae
 chelas
+chelaships
 chelatable
 chelate
 chelated
@@ -19991,6 +19998,7 @@ conchoidal
 conchoidally
 conchoids
 conchologies
+conchologist
 conchologists
 conchos
 conchs
@@ -25470,6 +25478,7 @@ define
 defined
 definements
 definers
+definiendum
 definiens
 definite
 definitely
@@ -28320,6 +28329,7 @@ discountable
 discountenance
 discountenances
 discounter
+discounters
 discounts
 discourage
 discouragement
@@ -38697,6 +38707,7 @@ foldups
 foley
 foleys
 folia
+foliaceous
 foliage
 foliages
 foliate
@@ -43394,6 +43405,7 @@ gravlax
 gravure
 gravures
 gravy
+gray
 grayback
 graybeard
 graybeards
@@ -44752,6 +44764,7 @@ halolike
 halomorphic
 halon
 halons
+haloperidol
 haloperidols
 halophiles
 halophyte
@@ -47061,6 +47074,7 @@ homeported
 homeporting
 homeports
 homer
+homered
 homeric
 homering
 homerooms
@@ -51365,6 +51379,7 @@ instigation
 instigations
 instigator
 instil
+instill
 instillations
 instillers
 instilling
@@ -52446,6 +52461,7 @@ invoker
 invokes
 invoking
 involucel
+involucels
 involucra
 involucrate
 involucre
@@ -53313,6 +53329,7 @@ jehad
 jejuna
 jejunal
 jejune
+jejuneness
 jejunenesses
 jejunity
 jejunum
@@ -58937,6 +58954,7 @@ magniloquences
 magniloquent
 magniloquently
 magnitude
+magnolia
 magnolias
 magnum
 magpies
@@ -61789,6 +61807,7 @@ mikes
 mikra
 mikron
 mikveh
+mikvehs
 mikvos
 mikvot
 mikvoth
@@ -64936,6 +64955,7 @@ mutter
 muttonchops
 muttonfish
 muttonfishes
+muttony
 mutts
 mutualism
 mutualisms
@@ -88905,6 +88925,7 @@ rubbering
 rubberize
 rubberized
 rubberizes
+rubberizing
 rubberneck
 rubbernecked
 rubberneckers
@@ -88998,6 +89019,7 @@ ruer
 ruers
 rufescent
 ruff
+ruffe
 ruffianism
 ruffianisms
 ruffians
@@ -90895,6 +90917,7 @@ scoot
 scootch
 scootched
 scootches
+scooter
 scooters
 scooting
 scoots
@@ -91832,6 +91855,7 @@ selle
 selles
 selling
 sellotaping
+sellout
 sellouts
 sells
 sels
@@ -97460,6 +97484,7 @@ springlike
 springtail
 springtide
 springtides
+springtime
 springtimes
 springwater
 springwaters
@@ -98753,6 +98778,7 @@ stoneboats
 stonechat
 stonechats
 stonecrops
+stonecutter
 stonecutting
 stonecuttings
 stoned
@@ -99364,6 +99390,7 @@ studworks
 stuff
 stuffer
 stuffers
+stuffier
 stuffiest
 stuffily
 stuffing
@@ -99717,6 +99744,7 @@ subfix
 subfixes
 subfloor
 subfossil
+subfossils
 subframe
 subframes
 subfreezing
@@ -101032,6 +101060,7 @@ supersold
 supersonic
 supersonically
 supersonics
+superspecial
 superspecialist
 superspecials
 superspectacle
@@ -106943,6 +106972,7 @@ triphosphates
 triphthong
 triphthongal
 triphthongs
+tripinnately
 triplane
 triplanes
 tripled
@@ -107171,6 +107201,7 @@ tropomyosins
 troponins
 tropopause
 tropospheres
+tropospheric
 tropotaxes
 trothplighted
 trothplighting
@@ -107345,6 +107376,7 @@ truth
 truthfully
 truthfulness
 truthless
+try
 trying
 tryma
 tryouts
@@ -108092,6 +108124,7 @@ tziganes
 tzitzis
 tzitzit
 tzitzith
+tzuris
 uakari
 uakaris
 ubiety
@@ -108742,6 +108775,7 @@ uncials
 unciform
 unciliated
 uncinal
+uncinarias
 uncinariasis
 uncinate
 uncinus
@@ -112522,6 +112556,7 @@ vibraharps
 vibrances
 vibrancies
 vibrantly
+vibraphone
 vibraphonists
 vibrated
 vibrates
