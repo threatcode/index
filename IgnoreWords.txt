@@ -153,6 +153,7 @@ abstractness
 abstractor
 abstrict
 abstricted
+abstricting
 abstricts
 abstruseness
 abstrusenesses
@@ -630,6 +631,7 @@ acquitter
 acquitters
 acquitting
 acrasia
+acrasin
 acre
 acreages
 acred
@@ -5556,6 +5558,7 @@ aslant
 asleep
 aslope
 aslosh
+asocial
 asocials
 asparagus
 asparkle
@@ -9448,6 +9451,7 @@ bicycles
 bicyclic
 bicyclists
 bid
+bidarkas
 bidarkee
 bidarkees
 biddabilities
@@ -10907,6 +10911,7 @@ bodysurfed
 bodysurfs
 bodywork
 bodyworks
+boehmite
 boehmites
 boffed
 boffin
@@ -16882,6 +16887,7 @@ chitchats
 chitchatting
 chitin
 chitinoid
+chitinous
 chitins
 chitlings
 chitlins
@@ -19288,6 +19294,7 @@ colorbreeding
 colorbreeds
 colorcast
 colorcasting
+colorcasts
 coloreds
 colorer
 colorers
@@ -19550,6 +19557,7 @@ commissar
 commissariat
 commissariats
 commissaries
+commissars
 commissary
 commission
 commissionaire
@@ -19963,6 +19971,7 @@ conations
 conatus
 concanavalin
 concanavalins
+concatenate
 concatenated
 concatenating
 concatenation
@@ -27006,6 +27015,7 @@ detouring
 detoxed
 detoxes
 detoxicant
+detoxicate
 detoxification
 detoxifications
 detoxify
@@ -30723,6 +30733,7 @@ dueling
 duelist
 duelists
 duelled
+duellers
 duelli
 duellist
 duellists
@@ -41100,6 +41111,7 @@ garboards
 garboils
 garbology
 garbs
+garcon
 garcons
 garda
 gardant
@@ -42785,6 +42797,7 @@ gobies
 gobioids
 goblet
 goblin
+goblins
 goboes
 gobonee
 gobony
@@ -45955,6 +45968,7 @@ heirlooms
 heirs
 heirship
 heirships
+heishi
 heist
 heisted
 heister
@@ -47253,6 +47267,7 @@ homiletics
 homilies
 homilist
 homilists
+homily
 hominess
 homing
 hominian
@@ -55959,6 +55974,7 @@ lasciviously
 lased
 laser
 laserdisc
+laserdisk
 laserdisks
 lasers
 lases
@@ -59753,6 +59769,7 @@ maquiladora
 maquilas
 maquillage
 mar
+marabout
 marabouts
 maraca
 maranta
@@ -64340,6 +64357,7 @@ motorizes
 motorless
 motorship
 motorships
+motortruck
 motortrucks
 motorway
 motorways
@@ -66282,6 +66300,7 @@ neutralization
 neutralizations
 neutralize
 neutralized
+neutralizer
 neutralizers
 neutralizes
 neutrally
@@ -67475,6 +67494,7 @@ nonofficials
 nonohmic
 nonoily
 nonoperatic
+nonoperational
 nonoptimal
 nonoral
 nonorally
@@ -67720,6 +67740,7 @@ nontheistic
 nontheists
 nontheological
 nontheoretical
+nontherapeutic
 nonthermal
 nonthinking
 nonthreatening
@@ -72011,6 +72032,7 @@ overtrimmed
 overtrump
 overtrumped
 overtrumping
+overtured
 overtures
 overturing
 overturn
@@ -73940,6 +73962,7 @@ pearlitic
 pearls
 pearly
 pearmain
+pears
 pearter
 peartest
 peartnesses
@@ -84598,6 +84621,7 @@ redips
 redipt
 redirected
 redirecting
+redirection
 redirects
 rediscount
 rediscountable
@@ -97803,6 +97827,7 @@ sprite
 sprites
 spritsails
 spritz
+spritzer
 sprout
 sprouted
 sprouting
@@ -97921,6 +97946,7 @@ squarks
 squarrose
 squash
 squashed
+squasher
 squashes
 squashier
 squashiest
@@ -98491,6 +98517,7 @@ steatopygia
 steatopygias
 steatopygic
 steatorrhea
+steatorrheas
 stedfast
 steed
 steedlike
@@ -98995,6 +99022,7 @@ stockists
 stockjobber
 stockjobbers
 stockkeeper
+stockkeepers
 stockman
 stockpile
 stockpiled
@@ -99860,6 +99888,7 @@ subapical
 subarachnoid
 subarachnoidal
 subarctic
+subarctics
 subarea
 subareas
 subarid
@@ -102409,6 +102438,7 @@ synonymize
 synonymized
 synonymizes
 synonymizing
+synonymously
 synonyms
 synonymy
 synopses
@@ -104423,6 +104453,7 @@ theonomies
 theonomy
 theophanic
 theorbo
+theorbos
 theorematic
 theorems
 theoretic
@@ -105130,6 +105161,7 @@ tiffined
 tiffing
 tiffining
 tiffins
+tiffs
 tiger
 tigereye
 tigereyes
@@ -110977,6 +111009,7 @@ unspools
 unsportsmanlike
 unspotted
 unsprung
+unstableness
 unstablenesses
 unstack
 unstacked
@@ -115704,6 +115737,7 @@ wit
 witan
 witans
 witched
+witchery
 witches
 witchgrass
 witchgrasses
@@ -116187,6 +116221,7 @@ wows
 wracked
 wrackful
 wracking
+wracks
 wraith
 wraiths
 wrang
