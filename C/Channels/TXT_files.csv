@@ -8,3 +8,13 @@ FreeRDP/channels/CMakeLists.txt at master - GitHub,https://github.com/FreeRDP/Fr
 SSH Connection Protocol - IETF,https://www.ietf.org/proceedings/50/I-D/secsh-connect-09.txt
 grppha - HEASARC - NASA,https://heasarc.gsfc.nasa.gov/lheasoft/ftools/fhelp/grppha.txt
 Documentation/devicetree/bindings/arm/atmel-adc.txt - kernel/msm.git,https://android.googlesource.com/kernel/msm.git/%2B/android-msm-shamu-3.10-lollipop-mr1/Documentation/devicetree/bindings/arm/atmel-adc.txt
+channel.txt,https://xenbits.xen.org/docs/4.6-testing/misc/channel.txt
+grppha - HEASARC - NASA,https://heasarc.gsfc.nasa.gov/ftools/caldb/help/grppha.txt
+Documentation/devicetree/bindings/dma/bcm2835-dma.txt,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/dma/bcm2835-dma.txt%3Fautodive%3D0%252F%252F%252F%252F%252F%252F%252F
+iio-bindings.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/devicetree/bindings/iio/iio-bindings.txt
+FreeRDP/channels/CMakeLists.txt at master - GitHub,https://github.com/FreeRDP/FreeRDP/blob/master/channels/CMakeLists.txt
+channels.rst.txt,https://docs.conda.io/projects/conda/en/latest/_sources/user-guide/concepts/channels.rst.txt
+sa-update.txt - Apache SpamAssassin,https://spamassassin.apache.org/full/3.4.x/doc/sa-update.txt
+rbnpha.txt - HEASARC - NASA,https://heasarc.gsfc.nasa.gov/ftools/caldb/help/rbnpha.txt
+NETRJS: A third level protocol for Remote Job Entry - IETF,https://www.ietf.org/rfc/rfc88.txt
+Channels/input.txt at main · opennars/Channels - GitHub,https://github.com/opennars/Channels/blob/main/input.txt
