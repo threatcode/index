@@ -689,6 +689,7 @@ acrylonitrile
 acrylonitriles
 act
 actabilities
+actability
 actable
 actinal
 acting
@@ -4537,6 +4538,7 @@ apostatise
 apostatised
 apostatized
 apostatizing
+apostil
 apostilles
 apostle
 apostles
@@ -4590,6 +4592,7 @@ appearances
 appeared
 appears
 appeasable
+appease
 appeasement
 appeases
 appel
@@ -10805,6 +10808,7 @@ boatbills
 boatbuilder
 boatbuilders
 boatel
+boater
 boaters
 boatful
 boatfuls
@@ -16188,6 +16192,7 @@ charbroilers
 charbroils
 charcoal
 charcoaling
+charcoals
 charcoaly
 charcuterie
 charcuteries
@@ -19187,6 +19192,7 @@ colloquials
 colloquies
 colloquist
 colloquists
+colloquium
 colloquy
 collotype
 collotypies
@@ -25851,6 +25857,7 @@ delineator
 delineators
 delinquencies
 delinquency
+delinquents
 deliquesce
 deliquescence
 deliquescences
@@ -26694,6 +26701,7 @@ desilver
 desilvered
 desilvering
 desilvers
+desinence
 desinent
 desipramines
 desirabilities
@@ -28356,6 +28364,7 @@ discordancy
 discordantly
 discords
 discos
+discotheque
 discount
 discountable
 discountenance
@@ -34254,6 +34263,7 @@ esthetics
 estimable
 estimablenesses
 estimating
+estimations
 estimator
 estival
 estivate
@@ -34569,6 +34579,7 @@ euploids
 euploidy
 eupneas
 eupneic
+eupnoeic
 eurhythmic
 eurhythmics
 eurhythmy
@@ -36232,6 +36243,7 @@ fanlight
 fanlights
 fanned
 fanner
+fannies
 fanning
 fanny
 fanon
@@ -37856,6 +37868,7 @@ flagrantly
 flagship
 flagships
 flagstaff
+flagstaffs
 flagstick
 flail
 flailed
@@ -40278,6 +40291,7 @@ fumarole
 fumaroles
 fumarolic
 fumatories
+fumble
 fumbled
 fumbler
 fumbles
@@ -46755,6 +46769,7 @@ hissiest
 hissing
 hissings
 histamin
+histaminase
 histaminases
 histamine
 histaminergic
@@ -54274,6 +54289,7 @@ keeks
 keelage
 keelboat
 keeled
+keelhales
 keelhaling
 keelhauled
 keelhauls
@@ -56914,6 +56930,7 @@ liens
 lienteries
 lientery
 lierne
+lieu
 lieus
 lieutenancies
 lieutenancy
@@ -62040,6 +62057,7 @@ millwork
 millworks
 millwright
 millwrights
+milnebs
 milords
 milpa
 milt
@@ -64254,6 +64272,7 @@ moults
 moundbird
 moundbirds
 mounded
+mounds
 mountable
 mountain
 mountaineer
@@ -65629,6 +65648,7 @@ nazifies
 nazify
 nazis
 ne
+neaps
 near
 nearer
 nearest
@@ -66714,6 +66734,7 @@ nonactive
 nonactor
 nonactors
 nonadaptive
+nonaddict
 nonaddictive
 nonaddicts
 nonadditivities
@@ -72280,6 +72301,7 @@ pageantry
 pageboy
 pageboys
 paged
+pageful
 pager
 pagers
 pages
@@ -74329,6 +74351,7 @@ peppier
 peppiest
 peppily
 peppiness
+peppinesses
 peppy
 peps
 pepsin
@@ -74353,6 +74376,7 @@ peptize
 peptizer
 peptizing
 peptones
+peptonic
 peptonized
 peptonizes
 peptonizing
@@ -77535,6 +77559,7 @@ polygene
 polygenes
 polygeneses
 polygenesis
+polygenetic
 polygenic
 polyglot
 polyglotism
@@ -78236,6 +78261,7 @@ potboiled
 potboiler
 potboilers
 potboils
+potboy
 potency
 potent
 potentate
@@ -79283,6 +79309,7 @@ preprogram
 preprograming
 preprogrammed
 preps
+prepuberal
 prepubertal
 prepuberties
 prepubes
@@ -87577,6 +87604,7 @@ reversers
 reverses
 reversibility
 reversible
+reversibly
 reversing
 reversional
 reversionary
@@ -90302,6 +90330,7 @@ sauceboat
 saucebox
 sauceboxes
 saucepans
+saucepot
 saucepots
 sauch
 sauchs
@@ -92290,6 +92319,7 @@ separabilities
 separability
 separable
 separably
+separate
 separated
 separateness
 separatenesses
@@ -97587,6 +97617,7 @@ sprinkler
 sprinklered
 sprinklers
 sprinkles
+sprinkling
 sprint
 sprinted
 sprinters
@@ -103669,6 +103700,7 @@ tensor
 tensors
 tentacle
 tentacled
+tentacular
 tentage
 tentative
 tentatively
@@ -104165,6 +104197,7 @@ them
 thematic
 thematically
 theme
+themed
 theming
 then
 thenage
@@ -110678,6 +110711,7 @@ unsimilar
 unsinkable
 unsized
 unskilled
+unskillful
 unskillfully
 unslakable
 unslaked
@@ -113600,6 +113634,7 @@ wagered
 wagerer
 wagerers
 wagering
+wageworker
 wageworkers
 wagged
 wagger
