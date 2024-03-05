@@ -732,6 +732,7 @@ actionably
 actioner
 actionless
 activated
+activating
 activation
 activations
 active
@@ -13385,6 +13386,7 @@ buttresses
 buttressing
 buttstocks
 butyl
+butylate
 butylated
 butylates
 butylating
@@ -16083,6 +16085,7 @@ chalupa
 chalupas
 chalutz
 chalutzim
+chalybeate
 chalybeates
 cham
 chamade
@@ -18395,6 +18398,7 @@ clumbers
 clump
 clumped
 clumpier
+clumplike
 clumps
 clumpy
 clumsier
@@ -23869,6 +23873,7 @@ curmudgeons
 curn
 curns
 curr
+currajongs
 curran
 currans
 currejong
@@ -24829,6 +24834,7 @@ daydreams
 daydreamt
 dayflies
 dayfly
+dayglow
 dayglows
 daylight
 daylights
@@ -25673,6 +25679,7 @@ deflates
 deflation
 deflationary
 deflea
+defleaed
 defleaing
 defleas
 deflectable
@@ -29853,6 +29860,7 @@ donjons
 donkey
 donkeys
 donnas
+donne
 donnee
 donnees
 donnerd
@@ -32751,6 +32759,7 @@ encephalograph
 encephalography
 encephalon
 encephalopathic
+enchained
 enchaining
 enchainment
 enchainments
@@ -37826,6 +37835,7 @@ firemen
 firepan
 firepink
 firepinks
+fireplaces
 fireplug
 fireplugs
 firepot
@@ -40354,6 +40364,7 @@ frumpiest
 frumpish
 frumps
 frumpy
+frustrate
 frustrated
 frustrates
 frustratingly
@@ -45654,6 +45665,7 @@ haunt
 haunter
 haunters
 haunting
+hauntingly
 haunts
 hausfrau
 hausfrauen
@@ -51474,6 +51486,7 @@ inpoured
 inpouring
 inpours
 input
+inputting
 inquiet
 inquiets
 inquietude
@@ -53333,6 +53346,7 @@ iterances
 iterant
 iterate
 iterated
+iterates
 iteration
 iterations
 ither
@@ -55747,6 +55761,7 @@ laicised
 laicises
 laicising
 laicism
+laicisms
 laicize
 laicized
 laics
@@ -57891,6 +57906,7 @@ livens
 liver
 livered
 liveried
+livering
 liverishness
 liverishnesses
 liverleaf
@@ -60304,6 +60320,7 @@ masonries
 masonry
 masons
 masquer
+masquerade
 masquerader
 masquerades
 masquers
@@ -62560,6 +62577,7 @@ minitowers
 minitrack
 minitracks
 minium
+minivan
 minivans
 miniver
 minivers
@@ -62920,6 +62938,7 @@ misdoubting
 misdoubts
 misdraw
 misdrawing
+misdrawn
 misdraws
 misdrew
 misdrive
@@ -69263,6 +69282,7 @@ okas
 okayed
 okaying
 oke
+okeh
 okehs
 okes
 okeydoke
@@ -74160,6 +74180,7 @@ peaches
 peachier
 peachiest
 peaching
+peachy
 peacing
 peacoat
 peacockier
@@ -75055,6 +75076,7 @@ perkiest
 perkily
 perkiness
 perkinesses
+perking
 perkish
 perlite
 permafrosts
@@ -75412,6 +75434,7 @@ petrols
 petronel
 petrosal
 petrous
+petsais
 pettable
 petted
 petti
@@ -75508,6 +75531,7 @@ phantomlike
 phantoms
 pharaoh
 pharaohs
+pharisaic
 pharisaically
 pharisaism
 pharisees
@@ -75823,6 +75847,7 @@ photobiologic
 photobiological
 photobiologies
 photobiologist
+photobiologists
 photobiology
 photocells
 photochemical
@@ -78716,6 +78741,7 @@ potman
 potmen
 potometer
 potpies
+potpourri
 potpourris
 pots
 potsherd
@@ -81052,6 +81078,7 @@ prosit
 prosobranchs
 prosodic
 prosodical
+prosodies
 prosodist
 prosodists
 prosody
@@ -90605,6 +90632,7 @@ sarapes
 sarcasm
 sarcastic
 sarcastically
+sarcenet
 sarcenets
 sarcina
 sarcinas
@@ -98728,6 +98756,7 @@ statistics
 statists
 statoblast
 statoblasts
+statocyst
 statolith
 stator
 stators
@@ -102679,6 +102708,7 @@ syncopations
 syncopative
 syncopator
 syncopators
+syncope
 syncopic
 syncretic
 syncretise
@@ -103684,6 +103714,7 @@ teakettles
 teaks
 teakwood
 tealike
+teals
 team
 teamakers
 teammate
@@ -106965,6 +106996,7 @@ translatable
 translate
 translated
 translation
+translations
 translator
 translatory
 transliterate
@@ -109000,6 +109032,7 @@ ulus
 ulvas
 umami
 umbel
+umbellar
 umbellate
 umbelled
 umbellets
@@ -112678,6 +112711,7 @@ vaticinators
 vats
 vatted
 vatting
+vaudevillian
 vaudevillians
 vault
 vaulted
@@ -115343,6 +115377,7 @@ wheylike
 wheys
 which
 whichsoever
+whicker
 whickered
 whickering
 whickers
