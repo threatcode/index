@@ -4411,6 +4411,7 @@ aphrodites
 aphthous
 aphyllies
 aphyllous
+aphylly
 apiaceous
 apian
 apiarian
@@ -5216,6 +5217,7 @@ aromatases
 aromatherapies
 aromatherapist
 aromatherapists
+aromatherapy
 aromatic
 aromaticities
 aromaticity
@@ -10317,6 +10319,7 @@ blat
 blatancies
 blatant
 blate
+blathered
 blatherer
 blathers
 blatherskite
@@ -10995,6 +10998,7 @@ boletuses
 bolide
 bolides
 boliviano
+bolivias
 bollard
 bollards
 bolled
@@ -16110,6 +16114,7 @@ chang
 change
 changeabilities
 changeable
+changeableness
 changeably
 changeful
 changefully
@@ -16562,6 +16567,7 @@ cherisher
 chernozem
 chernozemic
 chernozems
+cheroot
 cheroots
 cherries
 cherrylike
@@ -18001,6 +18007,7 @@ clenches
 clenching
 cleped
 clepes
+cleping
 clepsydra
 clepsydrae
 clepsydras
@@ -18837,6 +18844,7 @@ cofeatured
 cofeatures
 cofeaturing
 coffee
+coffeehouse
 coffeehouses
 coffeemakers
 coffeepots
@@ -21368,6 +21376,7 @@ copses
 copter
 copters
 copublisher
+copublishers
 copublishing
 copulae
 copulated
@@ -21921,6 +21930,7 @@ coted
 cotenancies
 cotenant
 coterminous
+coterminously
 cothurn
 cothurnal
 cothurns
@@ -28858,6 +28868,7 @@ displume
 displumed
 displuming
 disport
+disported
 disporting
 disportments
 disports
@@ -35259,6 +35270,7 @@ exonerated
 exonerates
 exoneration
 exonerations
+exonic
 exons
 exonuclease
 exonumia
@@ -36668,6 +36680,7 @@ featherlight
 featherstitched
 featherstitches
 featherweights
+featlier
 featliest
 feats
 featured
@@ -37081,6 +37094,7 @@ fete
 feted
 feterita
 fetes
+fetiales
 fetials
 fetich
 fetiches
@@ -45411,6 +45425,7 @@ hatcheck
 hatchecks
 hatched
 hatchel
+hatcheled
 hatchels
 hatcher
 hatcheries
@@ -46412,6 +46427,7 @@ hesitances
 hesitancies
 hesitancy
 hesitant
+hesitantly
 hesitate
 hesitated
 hesitater
@@ -48878,6 +48894,7 @@ icy
 id
 idea
 ideal
+idealises
 idealising
 idealistically
 idealists
@@ -50630,6 +50647,7 @@ inebriate
 inebriates
 inebriation
 inebriations
+inebrieties
 inedible
 inedibly
 ineffability
@@ -55485,6 +55503,7 @@ ladylove
 ladypalms
 ladyship
 ladyships
+laetrile
 laetriles
 lagan
 lagans
@@ -61005,6 +61024,7 @@ mercantilist
 mercantilistic
 mercantilists
 mercapto
+mercaptopurine
 mercaptopurines
 mercenaries
 mercenarily
@@ -69282,6 +69302,7 @@ opalesced
 opalescences
 opalescently
 opalesces
+opalescing
 opaline
 opalines
 opals
@@ -74645,6 +74666,7 @@ perigynous
 perihelia
 perihelion
 perikaryal
+perikaryon
 peril
 periled
 perillas
@@ -76158,6 +76180,7 @@ pilotages
 piloted
 pilotfish
 pilothouse
+pilotings
 pilotless
 pilots
 pilsener
@@ -79158,6 +79181,7 @@ preinvited
 preinviting
 prejudge
 prejudged
+prejudger
 prejudgers
 prejudges
 prejudgments
@@ -83610,6 +83634,7 @@ reappearances
 reappeared
 reapplication
 reapplications
+reapplied
 reapplies
 reapplying
 reappoint
@@ -92837,6 +92862,7 @@ sexts
 sextuple
 sextupled
 sextuples
+sextuplet
 sextuplicate
 sextuplicated
 sextuplicates
@@ -93328,6 +93354,7 @@ shillelaghs
 shillelah
 shills
 shilpit
+shily
 shim
 shimmer
 shimmered
@@ -93439,6 +93466,7 @@ shitheads
 shitlist
 shitload
 shitloads
+shits
 shitted
 shittier
 shittim
@@ -95232,6 +95260,7 @@ slubbered
 slubbering
 slubbers
 slubbings
+slubs
 sludge
 sludged
 sludging
@@ -96577,6 +96606,7 @@ souls
 sound
 soundalike
 soundalikes
+soundboard
 soundboxes
 sounded
 sounder
@@ -103819,6 +103849,7 @@ tensiometer
 tensiometric
 tension
 tensioners
+tensionless
 tensity
 tensive
 tensor
@@ -107184,6 +107215,7 @@ trimethoprims
 trimetric
 trimetrogon
 trimetrogons
+trimly
 trimmed
 trimmer
 trimmers
@@ -109071,6 +109103,7 @@ uncleanest
 uncleanliness
 uncleanlinesses
 uncleanly
+uncleanness
 uncleannesses
 unclear
 unclearer
@@ -111907,6 +111940,7 @@ vagrants
 vagrom
 vague
 vaguely
+vagueness
 vaguenesses
 vaguest
 vahine
@@ -112666,6 +112700,7 @@ versification
 versifications
 versifiers
 versify
+versifying
 versines
 versing
 version
