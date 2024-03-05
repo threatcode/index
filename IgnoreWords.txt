@@ -4790,6 +4790,7 @@ aprons
 aprotic
 apses
 apsidal
+apsides
 apsis
 apter
 apteral
@@ -5869,6 +5870,7 @@ astrodomes
 astrolabes
 astrologers
 astrological
+astrologically
 astrologies
 astrology
 astrometries
@@ -14307,6 +14309,7 @@ cantilena
 cantilenas
 cantilever
 cantilevered
+cantilevering
 cantilevers
 cantillate
 cantillated
@@ -15724,6 +15727,7 @@ centaurs
 centavo
 centavos
 centenarian
+centenarians
 centenaries
 centennial
 centennials
@@ -18836,6 +18840,7 @@ coenacted
 coenacting
 coenacts
 coenamor
+coenamored
 coenamors
 coendures
 coenduring
@@ -21852,6 +21857,7 @@ coruscating
 coruscation
 coruscations
 corvee
+corvees
 corves
 corvets
 corvette
@@ -24906,6 +24912,7 @@ deafening
 deafeningly
 deafens
 deafer
+deafest
 deafish
 deafness
 deafnesses
@@ -28431,6 +28438,7 @@ discolored
 discoloring
 discolors
 discolour
+discoloured
 discolouring
 discolours
 discombobulate
@@ -34985,6 +34993,7 @@ exactas
 exacted
 exacter
 exactest
+exacting
 exactingly
 exactingnesses
 exaction
@@ -38608,6 +38617,7 @@ floury
 flout
 flouted
 flouters
+flouting
 flow
 flowage
 flowchart
@@ -40939,6 +40949,7 @@ galleria
 gallerias
 galleries
 gallery
+gallet
 galleta
 galletas
 galleting
@@ -42103,6 +42114,7 @@ gie
 gied
 gieing
 gien
+gies
 giftables
 gifted
 giftedly
@@ -48565,6 +48577,7 @@ hygrophytic
 hygrostats
 hyla
 hylas
+hylozoic
 hylozoism
 hylozoists
 hymen
@@ -48915,6 +48928,7 @@ hypothermia
 hypothermic
 hypothesize
 hypothesized
+hypothesizes
 hypothetically
 hypothyroidism
 hypotonia
@@ -50949,6 +50963,7 @@ infectors
 infecund
 infelicities
 infelicitous
+infelicitously
 infeoffed
 infeoffing
 infeoffs
@@ -52013,6 +52028,7 @@ interfirm
 interflow
 interflowed
 interflowing
+interflows
 interfluves
 interfluvial
 interfold
@@ -53419,6 +53435,7 @@ jadelike
 jades
 jading
 jadishly
+jaditic
 jaegers
 jager
 jagg
@@ -53891,6 +53908,7 @@ jog
 jogged
 jogger
 joggers
+jogging
 joggings
 joggle
 joggled
@@ -55686,6 +55704,7 @@ laggards
 lagged
 lagger
 laggings
+lagnappe
 lagnappes
 lagniappe
 lagniappes
@@ -56751,6 +56770,7 @@ lemmatizes
 lemminglike
 lemmings
 lemniscal
+lemniscate
 lemniscates
 lemniscus
 lemon
@@ -57075,6 +57095,7 @@ libellers
 libelling
 libellous
 libels
+liber
 liberal
 liberalises
 liberalism
@@ -57174,6 +57195,7 @@ lickspit
 lickspits
 licorice
 licorices
+lictorian
 lictors
 lid
 lidars
@@ -58040,6 +58062,7 @@ locksmiths
 lockstitch
 lockstitches
 lockstitching
+lockup
 lockups
 locoed
 locoes
@@ -64798,6 +64821,7 @@ muffed
 muffineer
 muffing
 muffins
+muffle
 muffled
 mufflered
 mufflers
@@ -67202,6 +67226,7 @@ noncoms
 nonconceptual
 nonconcern
 nonconcerns
+nonconclusion
 nonconcur
 nonconcurrence
 nonconcurrences
@@ -72933,6 +72958,7 @@ pandit
 pandits
 pandoor
 pandoors
+pandora
 pandoras
 pandore
 pandour
@@ -76895,6 +76921,7 @@ plagiarises
 plagiarising
 plagiarist
 plagiarists
+plagiarized
 plagiarizer
 plagiarizers
 plagiarizes
@@ -81988,6 +82015,7 @@ puromycin
 purple
 purpleheart
 purplehearts
+purpler
 purples
 purplest
 purplish
@@ -85053,6 +85081,7 @@ reemit
 reemitted
 reemitting
 reemphases
+reemphasize
 reemphasized
 reemphasizes
 reemploy
@@ -90765,6 +90794,7 @@ sauropod
 sauropods
 saury
 sausage
+sausages
 sauteed
 sauteing
 sauterne
@@ -101278,6 +101308,7 @@ sunshines
 sunshiny
 sunspot
 sunspots
+sunstroke
 sunstrokes
 sunstruck
 sunsuit
@@ -103989,6 +104020,7 @@ tels
 telson
 telsons
 temblors
+temerarious
 temerariously
 temerariousness
 temerities
@@ -109838,6 +109870,7 @@ underserved
 undersexed
 undershirted
 undershirts
+undershooting
 undershoots
 undershorts
 undershot
@@ -110450,6 +110483,7 @@ uninsulated
 uninsurable
 uninsureds
 unintegrated
+unintellectual
 unintelligent
 unintelligibly
 unintentional
@@ -110739,6 +110773,7 @@ unmodish
 unmolded
 unmolding
 unmolested
+unmolten
 unmonitored
 unmoored
 unmooring
