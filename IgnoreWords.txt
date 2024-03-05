@@ -1815,6 +1815,7 @@ ahimsas
 ahistoric
 ahistorical
 ahold
+ahorse
 ahoy
 ahull
 ai
@@ -10850,6 +10851,7 @@ boatmen
 boatnecks
 boats
 boatsmen
+boatswains
 boatyards
 bob
 bobber
@@ -16480,6 +16482,7 @@ cheekless
 cheeks
 cheeky
 cheeped
+cheepers
 cheeping
 cheeps
 cheered
@@ -16496,6 +16499,7 @@ cheerinesses
 cheerio
 cheerleader
 cheerleading
+cheerleads
 cheerled
 cheerless
 cheerlessness
@@ -24417,6 +24421,7 @@ daiker
 daikered
 daikering
 daikers
+dailies
 dailyness
 dailynesses
 daimen
@@ -24524,6 +24529,7 @@ dampens
 damping
 dampings
 dampish
+damply
 dampnesses
 damps
 damsel
@@ -28961,6 +28967,7 @@ disputants
 disputation
 disputatious
 disputatiously
+dispute
 disputer
 disputers
 disqualified
@@ -29795,6 +29802,7 @@ donnee
 donnees
 donnerd
 donnered
+donnert
 donnicker
 donnickers
 donniker
@@ -31590,6 +31598,7 @@ educationist
 educationists
 educators
 educatory
+educe
 educes
 educible
 educing
@@ -39021,6 +39030,7 @@ footfaulting
 footfaults
 footgears
 foothold
+footies
 footing
 footings
 footlambert
@@ -41735,6 +41745,7 @@ genuflecting
 genuflection
 genuflections
 genuine
+genuineness
 geobotanic
 geobotanical
 geobotanies
@@ -42788,6 +42799,7 @@ gnomist
 gnomon
 gnomons
 gnoses
+gnosis
 gnostic
 gnostical
 gnosticisms
@@ -43985,6 +43997,7 @@ grouchinesses
 grouching
 grouchy
 groundbreaker
+groundbreakers
 groundbreaking
 groundbursts
 grounded
@@ -44011,6 +44024,7 @@ groundsheets
 groundskeepers
 groundswells
 groundwater
+groundwaters
 groundwood
 groundwoods
 groundwork
@@ -48150,6 +48164,7 @@ humphed
 humphs
 humpier
 humpiness
+humpinesses
 humps
 hums
 humungous
@@ -48574,6 +48589,7 @@ hypercautious
 hypercharged
 hypercharges
 hypercivilized
+hypercomplex
 hyperconscious
 hypercorrect
 hypercorrection
@@ -48586,6 +48602,7 @@ hypercube
 hypercubes
 hyperefficient
 hyperemias
+hyperendemic
 hyperesthesia
 hyperesthesias
 hyperesthetic
@@ -50671,6 +50688,7 @@ induct
 inductance
 inductances
 inducted
+inductee
 inductees
 inducting
 inductions
@@ -57017,6 +57035,7 @@ libertarianisms
 liberties
 libertinages
 libertine
+libertines
 libertinism
 liberty
 libidinally
@@ -58094,6 +58113,7 @@ loided
 loincloths
 loins
 loiter
+loiterer
 loiterers
 loitering
 loiters
@@ -59889,6 +59909,7 @@ marchlands
 marchpane
 marcs
 mare
+maremma
 maremme
 marengo
 mares
@@ -60773,6 +60794,7 @@ megalopolitan
 megalops
 megaparsec
 megaparsecs
+megaphoned
 megaphones
 megapixel
 megapixels
@@ -62739,6 +62761,7 @@ misdealer
 misdealing
 misdeals
 misdeed
+misdeeds
 misdeemed
 misdeems
 misdefines
@@ -72400,6 +72423,7 @@ pacificator
 pacificators
 pacificisms
 pacificists
+pacified
 pacifier
 pacifiers
 pacifies
@@ -72743,6 +72767,7 @@ palpated
 palpates
 palpating
 palpation
+palpator
 palpators
 palpatory
 palpebrae
@@ -73073,6 +73098,7 @@ paradiddle
 paradigm
 paradigmatic
 parading
+paradise
 paradises
 paradisiac
 paradisiacal
@@ -74138,6 +74164,7 @@ pedately
 peddled
 peddleries
 peddlers
+peddles
 pederast
 pederasties
 pederasts
@@ -76218,6 +76245,7 @@ pigsticks
 pigtail
 pigtailed
 pigweed
+pika
 pikakes
 pikas
 pike
@@ -81431,6 +81459,7 @@ pterin
 pterins
 pterodactyls
 pteropods
+pterosaurs
 pterygial
 pterygium
 pterylae
@@ -84321,6 +84350,7 @@ recondense
 recondensed
 recondensing
 recondite
+reconditenesses
 recondition
 reconditioning
 reconduct
@@ -88032,6 +88062,7 @@ reweds
 reweighed
 reweighing
 reweighs
+reweld
 rewelding
 rewets
 rewidening
@@ -96143,6 +96174,7 @@ sociolects
 sociolinguistic
 sociolinguists
 sociologic
+sociological
 sociologies
 sociologist
 sociologists
@@ -104054,6 +104086,7 @@ tepa
 tepal
 tepals
 tepee
+tepefied
 tepefies
 tepefy
 tepefying
@@ -108270,6 +108303,7 @@ tutorage
 tutorages
 tutoress
 tutorials
+tutoring
 tutors
 tutorship
 tutorships
@@ -110350,6 +110384,7 @@ unitize
 unitizer
 unitizers
 unitizing
+unitrust
 unitrusts
 univalents
 univalved
