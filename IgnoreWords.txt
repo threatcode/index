@@ -2029,6 +2029,7 @@ albizia
 albizias
 albs
 album
+albumens
 albumin
 albuminous
 albumins
@@ -3815,6 +3816,7 @@ anthropologist
 anthropologists
 anthropology
 anthropometries
+anthropomorph
 anthropomorphic
 anthropophagi
 anthropophagies
@@ -6872,6 +6874,7 @@ babbittries
 babbittry
 babble
 babbler
+babblers
 babbles
 babblings
 babe
@@ -17181,6 +17184,7 @@ chromaticism
 chromaticisms
 chromaticities
 chromaticity
+chromatics
 chromatin
 chromatins
 chromatogram
@@ -18343,6 +18347,7 @@ clump
 clumped
 clumpier
 clumps
+clumpy
 clumsier
 clumsiest
 clumsily
@@ -18910,6 +18915,7 @@ cognitions
 cognitive
 cognitively
 cognizable
+cognizance
 cognizances
 cognizant
 cognize
@@ -19822,6 +19828,7 @@ complexion
 complexioned
 complexions
 complexities
+complexness
 complexnesses
 compliance
 compliancy
@@ -20251,6 +20258,7 @@ conenoses
 conepate
 conepates
 conepatls
+coneys
 confabbing
 confabs
 confabulate
@@ -21799,6 +21807,7 @@ coruscation
 coruscations
 corvee
 corves
+corvets
 corvette
 corvettes
 corvina
@@ -24014,6 +24023,7 @@ cyanitic
 cyanoacrylate
 cyanoacrylates
 cyanobacteria
+cyanobacterium
 cyanoethylated
 cyanoethylates
 cyanoethylating
@@ -24698,6 +24708,7 @@ daundered
 daundering
 daunomycins
 daunorubicin
+daunorubicins
 daunted
 daunting
 dauntingly
@@ -25203,6 +25214,7 @@ declarers
 declares
 declaring
 declass
+declasse
 declasses
 declassified
 declassify
@@ -29649,6 +29661,7 @@ dollishly
 dollishness
 dollishnesses
 dollop
+dolloped
 dollops
 dolly
 dollybird
@@ -31283,6 +31296,7 @@ eatery
 eath
 eating
 eats
+eaux
 eaves
 eavesdropper
 eavesdroppers
@@ -31823,6 +31837,7 @@ elasticities
 elasticity
 elasticized
 elastins
+elate
 elatedly
 elatednesses
 elater
@@ -32766,6 +32781,7 @@ endamoebas
 endanger
 endangerments
 endangers
+endarch
 endarchies
 endarchy
 endarterectomy
@@ -38234,6 +38250,7 @@ flench
 flenches
 flense
 flensed
+flenser
 flensing
 fleshed
 flesher
@@ -43343,6 +43360,7 @@ grandiloquence
 grandiloquent
 grandiose
 grandiosely
+grandioseness
 grandiosities
 grandiosity
 grandioso
@@ -44896,6 +44914,7 @@ hallucinoses
 hallucinosis
 hallways
 halm
+halma
 halo
 halobiont
 halocarbon
@@ -46862,6 +46881,7 @@ hispanidads
 hispanisms
 hispid
 hispidity
+hisself
 hisses
 hissies
 hissiest
@@ -47448,6 +47468,7 @@ honorific
 honorifically
 honorifics
 honoring
+honoured
 honourer
 honouring
 hons
@@ -51298,6 +51319,7 @@ inordinateness
 inorganic
 inosculated
 inosculates
+inosculating
 inosculation
 inosines
 inosite
@@ -53482,6 +53504,7 @@ jazzy
 jealous
 jealousy
 jeaned
+jebels
 jee
 jeed
 jeep
@@ -54110,6 +54133,7 @@ jurors
 jurying
 juryless
 jurymen
+jurywoman
 jus
 just
 juster
@@ -55435,6 +55459,7 @@ lacertids
 lacewing
 lacewings
 lacework
+laceworks
 lacey
 laches
 lachrymal
@@ -57834,6 +57859,7 @@ lobulose
 lobworm
 lobworms
 loca
+local
 locale
 locales
 localise
@@ -59562,6 +59588,7 @@ mangabey
 mangabeys
 manganates
 manganese
+manganeses
 manganesian
 manganic
 manganins
@@ -60938,6 +60965,7 @@ menacing
 menacingly
 menad
 menadione
+menadiones
 menage
 menagerie
 menarche
@@ -63185,6 +63213,7 @@ mistime
 mistimed
 mistimes
 mistiming
+mistitled
 mistitles
 mistitling
 mistletoes
@@ -65824,6 +65853,7 @@ necessitarian
 necessitarians
 necessitate
 necessitated
+necessitating
 necessities
 necessitous
 necessitously
@@ -82058,6 +82088,7 @@ pyrolized
 pyrology
 pyrolysate
 pyrolysates
+pyrolyses
 pyrolysis
 pyrolytic
 pyrolytically
@@ -85302,6 +85333,7 @@ regisseur
 registerable
 registering
 registers
+registrars
 registration
 registrations
 registry
@@ -101820,6 +101852,7 @@ swagging
 swaging
 swagman
 swagmen
+swags
 swail
 swain
 swainish
@@ -104452,6 +104485,7 @@ theology
 theonomies
 theonomy
 theophanic
+theophyllines
 theorbo
 theorbos
 theorematic
@@ -115573,6 +115607,7 @@ winglike
 wingman
 wingmen
 wingover
+wingovers
 wings
 wingspans
 wingspread
