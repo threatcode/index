@@ -3768,6 +3768,7 @@ anteceding
 antecessor
 antechamber
 antechambers
+antechapel
 antechapels
 antechoir
 anted
@@ -6344,6 +6345,7 @@ auriform
 auris
 aurochses
 aurora
+aurorae
 auroral
 aurorally
 auroras
@@ -6722,6 +6724,7 @@ avodires
 avoidance
 avoided
 avoiding
+avos
 avosets
 avouch
 avouched
@@ -10220,6 +10223,7 @@ bituminized
 bituminizing
 bituminous
 bivalence
+bivalences
 bivalencies
 bivalency
 bivalent
@@ -16375,6 +16379,7 @@ characids
 characin
 character
 charactered
+characteries
 charactering
 characteristic
 characteristics
@@ -21379,6 +21384,7 @@ convertaplanes
 converters
 convertibility
 convertible
+convertibleness
 convertibles
 convertibly
 converting
@@ -21688,6 +21694,7 @@ coralroots
 corantos
 corban
 corbans
+corbeil
 corbel
 corbeled
 corbeling
@@ -27907,6 +27914,7 @@ dictier
 diction
 dictional
 dictionaries
+dictionary
 dictum
 dictums
 dictyosome
@@ -27937,6 +27945,7 @@ didjeridu
 didjeridus
 dido
 didoes
+didymium
 didynamy
 die
 dieback
@@ -28041,6 +28050,7 @@ diffusor
 difs
 difunctional
 dig
+digamist
 digammas
 digamous
 digamy
@@ -30889,6 +30899,7 @@ droughtinesses
 droughty
 drouth
 drouthier
+drouthy
 drove
 droved
 drover
@@ -31320,6 +31331,7 @@ durst
 durums
 dusk
 duskier
+duskiest
 duskiness
 duskinesses
 dusking
@@ -32367,6 +32379,7 @@ elenchic
 elenchus
 elenctic
 eleoptene
+eleoptenes
 elephant
 elephantiases
 elephants
@@ -40138,6 +40151,7 @@ francolin
 francs
 frangibilities
 frangibility
+frangipane
 frangipanes
 frangipani
 frangipanni
@@ -41327,6 +41341,7 @@ galliwasp
 galliwasps
 gallnut
 gallnuts
+gallon
 gallonage
 gallonages
 gallons
@@ -41656,6 +41671,7 @@ garths
 garveys
 gasalier
 gasbags
+gascon
 gasconade
 gasconader
 gasconaders
@@ -46244,6 +46260,7 @@ heartbreak
 heartbreaker
 heartbreakers
 heartbreaks
+heartbroken
 heartburn
 heartburns
 hearted
@@ -67690,6 +67707,7 @@ noncausal
 noncelebration
 noncelebrities
 noncelebrity
+noncellular
 noncellulosic
 noncentral
 noncereal
@@ -74638,6 +74656,7 @@ pawers
 pawing
 pawkier
 pawkiest
+pawkiness
 pawl
 pawn
 pawnable
@@ -78320,6 +78339,7 @@ pokeroot
 pokeroots
 pokers
 pokes
+pokeweed
 pokeweeds
 pokey
 pokeys
@@ -84018,6 +84038,7 @@ ranee
 ranged
 rangeland
 ranger
+ranges
 rangier
 rangiest
 rangy
@@ -85358,6 +85379,7 @@ redactional
 redactors
 redacts
 redamaged
+redamaging
 redargue
 redargues
 redates
@@ -86252,6 +86274,7 @@ regrinds
 regroom
 regrooms
 regroove
+regrooved
 regrooves
 regrooving
 reground
@@ -93569,6 +93592,7 @@ serein
 sereins
 serenade
 serenaded
+serenader
 serenading
 serenata
 serendipities
@@ -94533,6 +94557,7 @@ shnaps
 shnooks
 shnorrer
 shnorrers
+shoal
 shoaled
 shoaler
 shoalier
@@ -96028,6 +96053,7 @@ sleeking
 sleekness
 sleeknesses
 sleeks
+sleeky
 sleepaway
 sleeper
 sleepers
@@ -100058,6 +100084,7 @@ stocky
 stockyard
 stodges
 stodgiest
+stodgily
 stodginess
 stodginesses
 stodging
@@ -106425,6 +106452,7 @@ tininesses
 tinker
 tinkerer
 tinkerers
+tinkering
 tinkers
 tinkertoy
 tinkle
@@ -106935,6 +106963,7 @@ toothbrushes
 toothbrushing
 toothed
 toothier
+toothiest
 toothily
 toothing
 toothlike
@@ -107488,6 +107517,7 @@ traffics
 tragedian
 tragediennes
 tragedies
+tragedy
 tragi
 tragical
 tragically
@@ -108059,6 +108089,7 @@ trends
 trendsetter
 trendsetters
 trepan
+trepanation
 trepanations
 trepang
 trepangs
@@ -109229,6 +109260,7 @@ turrets
 turrical
 turtle
 turtleback
+turtlebacks
 turtled
 turtledove
 turtledoves
@@ -110331,6 +110363,7 @@ uncoating
 uncobbled
 uncock
 uncocked
+uncocking
 uncodified
 uncoerced
 uncoffin
@@ -114929,6 +114962,7 @@ vulgate
 vulgo
 vulgus
 vulguses
+vulnerabilities
 vulnerability
 vulnerable
 vulnerably
@@ -117668,6 +117702,7 @@ yabbering
 yabbie
 yabbies
 yabby
+yacht
 yachted
 yachters
 yachtings
