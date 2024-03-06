@@ -1919,6 +1919,7 @@ airport
 airpost
 airposts
 airpowers
+airproofed
 airproofing
 airs
 airscape
@@ -6600,6 +6601,7 @@ avariciously
 avascular
 avascularities
 avascularity
+avatar
 avatars
 ave
 avellan
@@ -7281,6 +7283,7 @@ bait
 baited
 baitfish
 baitfishes
+baith
 baiting
 baits
 baizas
@@ -7505,6 +7508,7 @@ banditti
 bandleaders
 bandmaster
 bandmate
+bandmates
 bandog
 bandogs
 bandoleer
@@ -12046,6 +12050,7 @@ breadbaskets
 breadboarded
 breadboarding
 breadboards
+breadbox
 breadfruit
 breadfruits
 breadless
@@ -13111,6 +13116,7 @@ bureaucrats
 bureaux
 buret
 burets
+burette
 burettes
 burgages
 burgees
@@ -13795,6 +13801,7 @@ calcium
 calciums
 calcspar
 calcspars
+calctufa
 calctuff
 calculated
 calculatedly
@@ -14923,6 +14930,7 @@ carols
 carom
 caromed
 caroming
+caroms
 carotenoid
 carotidal
 carotids
@@ -15643,6 +15651,7 @@ celadon
 celadons
 celandine
 celandines
+celeb
 celebrant
 celebrants
 celebrate
@@ -16098,6 +16107,7 @@ chalked
 chalkier
 chalkiest
 chalks
+chalky
 challa
 challah
 challahs
@@ -17232,6 +17242,7 @@ chough
 choughs
 chouse
 chouser
+chousers
 chouses
 chow
 chowchows
@@ -21559,6 +21570,7 @@ coralloid
 coralroots
 corantos
 corban
+corbans
 corbel
 corbeled
 corbeling
@@ -27372,6 +27384,7 @@ dewfalls
 dewier
 dewiest
 dewily
+dewlap
 dewless
 dewool
 dewooled
@@ -31336,6 +31349,7 @@ eaglewood
 eaglewoods
 eagling
 eagre
+eagres
 ealdorman
 ealdormen
 eanling
@@ -32599,6 +32613,7 @@ emir
 emirate
 emirs
 emissaries
+emission
 emissions
 emissive
 emissivities
@@ -34513,6 +34528,7 @@ esteems
 ester
 esterases
 esterifications
+esterify
 esterifying
 esters
 estheses
@@ -40421,6 +40437,7 @@ frugivores
 frugivorous
 frugs
 fruit
+fruitage
 fruitages
 fruitarian
 fruitarians
@@ -42754,6 +42771,7 @@ glorifiers
 glorifies
 gloriole
 glorioles
+glorious
 gloriously
 gloriousnesses
 glory
@@ -51748,6 +51766,7 @@ insolubilities
 insolubilize
 insolubleness
 insolubles
+insolvable
 insolvably
 insolvencies
 insolvents
@@ -51875,6 +51894,7 @@ instrumentals
 instrumentation
 instrumented
 instrumenting
+instruments
 insubordinate
 insubordinately
 insubordinates
@@ -59234,6 +59254,7 @@ machismo
 macho
 machs
 machzor
+machzorim
 machzors
 macing
 macintoshes
@@ -59267,6 +59288,7 @@ macroeconomics
 macroevolution
 macrofossil
 macrogamete
+macrogametes
 macroglobulin
 macromole
 macromolecule
@@ -59897,6 +59919,7 @@ manful
 manga
 mangabey
 mangabeys
+mangaby
 manganates
 manganese
 manganeses
@@ -61621,6 +61644,7 @@ messes
 messiah
 messiahs
 messianism
+messianisms
 messier
 messiest
 messily
@@ -73752,6 +73776,7 @@ paronymic
 paronymous
 paronyms
 paroquet
+paroquets
 parosmia
 parosmias
 parotid
@@ -74667,6 +74692,7 @@ peltered
 peltering
 peltries
 peltry
+pelts
 pelves
 pelvic
 pelvics
@@ -77392,6 +77418,7 @@ playbook
 playboy
 playboys
 playdate
+playday
 playdown
 player
 players
@@ -77634,6 +77661,7 @@ pluckers
 pluckier
 pluckiest
 pluckinesses
+plucky
 plugged
 plugger
 pluggers
@@ -86993,6 +87021,7 @@ reposedly
 reposeful
 reposefully
 reposefulness
+reposefulnesses
 reposer
 reposing
 reposit
@@ -87368,6 +87397,7 @@ resemble
 resembled
 resembler
 resembles
+resembling
 resending
 resends
 resensitize
@@ -93573,6 +93603,7 @@ shamosim
 shampoo
 shampooer
 shampooing
+shampoos
 shamus
 shamuses
 shanachie
@@ -100428,6 +100459,7 @@ subarea
 subareas
 subarid
 subas
+subassembly
 subastral
 subatmospheric
 subatom
@@ -105073,6 +105105,7 @@ therme
 thermes
 thermic
 thermidor
+thermion
 thermionics
 thermions
 thermistor
@@ -106795,6 +106828,7 @@ townlets
 townscape
 townscapes
 township
+townsmen
 townspeople
 townswomen
 towny
@@ -114011,6 +114045,7 @@ vitrified
 vitrifies
 vitriform
 vitrify
+vitrifying
 vitrine
 vitrines
 vitriol
