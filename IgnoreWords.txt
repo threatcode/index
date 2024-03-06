@@ -779,6 +779,7 @@ acutance
 acutances
 acute
 acutely
+acutenesses
 acutes
 acutest
 acyclovir
@@ -796,6 +797,7 @@ adage
 adages
 adagios
 adamance
+adamances
 adamant
 adamantine
 adamants
@@ -4116,6 +4118,7 @@ antipathetic
 antipathies
 antipathy
 antipersonnel
+antiperspirant
 antiphlogistic
 antiphon
 antiphonal
@@ -5878,6 +5881,7 @@ astringency
 astringents
 astringes
 astringing
+astrobiologies
 astrobiologist
 astrocyte
 astrocytes
@@ -9065,6 +9069,7 @@ beret
 berets
 beretta
 bergamot
+bergamots
 bergere
 bergeres
 berhyme
@@ -11031,6 +11036,7 @@ boilerplate
 boilerplates
 boilers
 boils
+boing
 boings
 boink
 boinked
@@ -19162,6 +19168,7 @@ colby
 colchicines
 colchicum
 colcothars
+coldblood
 coldcock
 coldcocked
 coldcocking
@@ -21331,6 +21338,7 @@ cooee
 cooees
 cooeying
 cooeys
+coofs
 cooingly
 cook
 cookable
@@ -24531,6 +24539,7 @@ daikered
 daikering
 daikers
 dailies
+dailiness
 dailyness
 dailynesses
 daimen
@@ -25056,6 +25065,7 @@ deaving
 debacle
 debag
 debar
+debark
 debarkation
 debarkations
 debarker
@@ -28125,6 +28135,7 @@ dinnertime
 dinnertimes
 dino
 dinoflagellate
+dinos
 dinosaur
 dinosaurian
 dinosaurs
@@ -36132,6 +36143,7 @@ eyeshade
 eyeshades
 eyeshine
 eyeshot
+eyesight
 eyesores
 eyespots
 eyestalk
@@ -37553,6 +37565,7 @@ fideists
 fidelismo
 fidelista
 fidelities
+fidelity
 fidged
 fidget
 fidgeted
@@ -45198,6 +45211,7 @@ halterbreaks
 halterbroken
 haltered
 halteres
+haltering
 halters
 halting
 haltingly
@@ -47092,6 +47106,7 @@ hippieish
 hippienesses
 hippier
 hippies
+hippiness
 hippinesses
 hippocampal
 hippocras
@@ -47293,6 +47308,7 @@ hodoscope
 hods
 hoecakes
 hoed
+hoedown
 hoedowns
 hoeing
 hoelike
@@ -48134,6 +48150,7 @@ housel
 houseled
 houseleek
 houseleeks
+houseless
 houselessness
 houselessnesses
 houselled
@@ -48147,6 +48164,7 @@ housepainter
 housepainters
 houseparent
 houseparents
+housepersons
 houseroom
 houses
 housesat
@@ -55796,6 +55814,7 @@ lacrimation
 lacrimations
 lacrimators
 lacrosses
+lacs
 lactalbumin
 lactalbumins
 lactam
@@ -57993,6 +58012,7 @@ litmus
 litmuses
 litoral
 litotes
+litotic
 litre
 litres
 lits
@@ -58010,6 +58030,7 @@ littlenecks
 littleness
 littlest
 littlish
+littoral
 litu
 liturgic
 liturgical
@@ -70132,6 +70153,7 @@ orientating
 orientation
 orientationally
 orientations
+orienteer
 orienteering
 orienteerings
 orienteers
@@ -75264,6 +75286,7 @@ perkinesses
 perking
 perkish
 perlite
+permafrost
 permafrosts
 permalloys
 permanence
@@ -77873,6 +77896,7 @@ poet
 poetaster
 poetasters
 poetesses
+poetic
 poetically
 poeticalness
 poeticalnesses
@@ -79825,6 +79849,7 @@ prenominations
 prenoon
 prenotification
 prenotified
+prenotifies
 prenotion
 prenotions
 prentices
@@ -80385,6 +80410,7 @@ pricelessly
 pricer
 pricers
 prices
+priciest
 pricily
 pricing
 pricked
@@ -84748,6 +84774,7 @@ reconfirmations
 reconfirmed
 reconfirms
 reconnaissance
+reconnaissances
 reconnect
 reconnected
 reconnection
@@ -85028,6 +85055,7 @@ redefected
 redefecting
 redefects
 redefied
+redefine
 redefined
 redefines
 redefinition
@@ -90728,6 +90756,7 @@ sanitization
 sanitizations
 sanitize
 sanitizer
+sanitizers
 sanitoria
 sanitoriums
 sanjak
@@ -92563,6 +92592,7 @@ segues
 seguidilla
 sei
 seicentos
+seiche
 seiches
 seif
 seifs
@@ -95724,6 +95754,7 @@ slipknots
 slipless
 slipout
 slipover
+slippage
 slippages
 slipped
 slipper
@@ -96478,6 +96509,7 @@ snubbiness
 snubbinesses
 snuff
 snuffbox
+snuffboxes
 snuffed
 snuffer
 snuffiest
@@ -101168,6 +101200,7 @@ successive
 successively
 succinate
 succinates
+succincter
 succinctest
 succinctly
 succinctness
@@ -111070,6 +111103,7 @@ unmercifully
 unmerited
 unmerry
 unmesh
+unmeshed
 unmeshes
 unmet
 unmewed
@@ -116252,6 +116286,7 @@ winkling
 winks
 winless
 winnable
+winners
 winning
 winningly
 winnocks
