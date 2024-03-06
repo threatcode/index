@@ -755,6 +755,7 @@ actressy
 actuality
 actualization
 actualizations
+actualized
 actually
 actuarial
 actuarially
@@ -10450,6 +10451,7 @@ blears
 bleated
 bleaters
 bleating
+bleats
 blebbing
 blebbings
 blebby
@@ -11950,6 +11952,7 @@ branchiopods
 branchless
 branchlets
 branchlines
+brand
 branders
 brandied
 brandies
@@ -17362,6 +17365,7 @@ chromogen
 chromogenic
 chromogens
 chromomeric
+chromonema
 chromonemata
 chromonematic
 chromophores
@@ -20056,6 +20060,7 @@ composter
 composting
 composure
 compotes
+compound
 compoundable
 compounded
 compounder
@@ -20967,6 +20972,7 @@ constringing
 construable
 construal
 construals
+construct
 constructible
 construction
 constructional
@@ -22673,6 +22679,7 @@ coxalgias
 coxalgic
 coxalgies
 coxalgy
+coxcomb
 coxcombic
 coxcombs
 coxed
@@ -26261,6 +26268,7 @@ demented
 dementedly
 dementednesses
 dementia
+dementias
 dementing
 dements
 demeraran
@@ -34170,6 +34178,7 @@ epoxies
 epsilon
 epsilonic
 epsilons
+equability
 equably
 equal
 equaling
@@ -34247,6 +34256,7 @@ equipper
 equipping
 equips
 equisetic
+equisetum
 equisetums
 equitable
 equitableness
@@ -39496,6 +39506,7 @@ foregoing
 foregone
 foreground
 foregrounding
+foregut
 forehand
 forehanded
 forehands
@@ -43208,6 +43219,7 @@ godets
 godfather
 godfathers
 godhead
+godheads
 godhood
 godhoods
 godless
@@ -44264,6 +44276,7 @@ grodier
 grodiest
 groggeries
 groggery
+groggiest
 groggily
 grogginesses
 groggy
@@ -45399,6 +45412,7 @@ hamstrings
 hamular
 hamulate
 hamuli
+hamulose
 hamulous
 hamza
 hamzahs
@@ -50405,6 +50419,7 @@ inaugurated
 inaugurates
 inaugurating
 inaugurator
+inaugurators
 inauspicious
 inauspiciously
 inauthentic
@@ -51225,6 +51240,7 @@ inexpressive
 inexpugnably
 inexpungible
 inextricability
+inextricable
 infall
 infallibilities
 infallibility
@@ -60238,6 +60254,7 @@ manpower
 manpowers
 manropes
 mans
+mansarded
 manses
 mansion
 manslaughter
@@ -64559,6 +64576,7 @@ moonbeam
 moonbeams
 moonbow
 mooncalves
+moonchild
 moondust
 mooner
 mooners
@@ -64647,6 +64665,7 @@ moquette
 moquettes
 mor
 mora
+morainal
 moraine
 moraines
 morainic
@@ -71361,6 +71380,7 @@ outscheme
 outschemed
 outscheming
 outscold
+outscolding
 outscolds
 outscoop
 outscooped
@@ -79919,6 +79939,7 @@ preinforming
 preinforms
 preinsert
 preinserting
+preinserts
 preinterview
 preinterviewed
 preinterviewing
@@ -82520,6 +82541,7 @@ purposelessly
 purposelessness
 purposes
 purposively
+purposiveness
 purposivenesses
 purpura
 purpuras
@@ -85686,6 +85708,7 @@ reexperiences
 reexperiencing
 reexplain
 reexplained
+reexplaining
 reexplore
 reexplores
 reexport
@@ -86426,6 +86449,7 @@ rejection
 rejective
 rejig
 rejigger
+rejiggered
 rejiggers
 rejigging
 rejoiced
@@ -95140,6 +95164,7 @@ simpleness
 simpler
 simplest
 simpleton
+simpletons
 simplex
 simplexes
 simplices
@@ -100094,6 +100119,7 @@ stow
 stowable
 stowage
 stowages
+stowaway
 stowaways
 stowed
 stowing
@@ -100258,6 +100284,7 @@ streamed
 streamer
 streamers
 streamiest
+streaming
 streamings
 streamlet
 streamlets
@@ -100867,6 +100894,7 @@ subdirector
 subdirectors
 subdiscipline
 subdisciplines
+subdistricts
 subdivide
 subdivided
 subdivider
@@ -102620,6 +102648,7 @@ suspired
 suspires
 suspiring
 suss
+sussed
 susses
 sustain
 sustainability
@@ -103752,6 +103781,7 @@ talmudism
 talmudisms
 talons
 talooka
+taluk
 talukas
 taluks
 talus
@@ -104776,6 +104806,7 @@ tenpin
 tenpins
 tenpounders
 tenrec
+tensed
 tenseness
 tenses
 tensest
@@ -110764,6 +110795,7 @@ unexciting
 unexcused
 unexotic
 unexpectedly
+unexpended
 unexpert
 unexpired
 unexplainable
@@ -115609,6 +115641,7 @@ wedlocks
 weed
 weeded
 weeder
+weeders
 weediest
 weedily
 weediness
@@ -115852,6 +115885,7 @@ whanging
 whap
 whapped
 whapper
+whappers
 whaps
 wharfages
 wharfed
@@ -116081,6 +116115,7 @@ whirly
 whirlybird
 whirr
 whirred
+whirried
 whirries
 whirring
 whirry
