@@ -3748,6 +3748,7 @@ antecedents
 antecedes
 anteceding
 antecessor
+antechamber
 antechambers
 antechapels
 antechoir
@@ -5143,6 +5144,7 @@ arhatships
 aria
 ariary
 arias
+ariboflavinoses
 arid
 aridities
 aridity
@@ -5160,6 +5162,7 @@ arilloid
 ariosi
 arioso
 ariosos
+arise
 arisen
 arising
 arista
@@ -5235,6 +5238,7 @@ arnatto
 arnicas
 arnotto
 arnottos
+aroids
 aroint
 arointing
 aroints
@@ -7132,6 +7136,7 @@ backwardnesses
 backwards
 backwashes
 backwashing
+backwater
 backwaters
 backwood
 backwoods
@@ -11345,6 +11350,7 @@ bootleggers
 bootlegging
 bootlegs
 bootlessly
+bootlick
 bootlicked
 bootlicker
 bootlickers
@@ -17808,6 +17814,7 @@ cladode
 cladodes
 cladogenetic
 cladogram
+cladophyll
 cladophylls
 clafouti
 clagging
@@ -20379,6 +20386,7 @@ conference
 conferencing
 conferencings
 conferential
+conferment
 conferments
 conferrable
 conferral
@@ -23844,6 +23852,7 @@ curarized
 curarizing
 curassows
 curate
+curated
 curative
 curatively
 curatives
@@ -27557,6 +27566,7 @@ diapered
 diapering
 diapers
 diaphaneities
+diaphaneity
 diaphanous
 diaphanously
 diaphanousness
@@ -38259,6 +38269,7 @@ flashiest
 flashily
 flashiness
 flashings
+flashlight
 flashovers
 flashtubes
 flashy
@@ -39184,6 +39195,7 @@ footings
 footlambert
 footlamberts
 footle
+footled
 footler
 footles
 footlessly
@@ -40778,6 +40790,7 @@ fuscous
 fuse
 fusees
 fusel
+fuselike
 fusels
 fuses
 fusible
@@ -45154,6 +45167,7 @@ halons
 haloperidol
 haloperidols
 halophiles
+halophilic
 halophyte
 halophytes
 halophytic
@@ -49786,6 +49800,7 @@ impeaching
 impeachments
 impearling
 impearls
+impeccability
 impeccably
 impeccant
 impecuniosity
@@ -53587,6 +53602,7 @@ jagless
 jagras
 jags
 jaguarondi
+jaguars
 jaguarundi
 jail
 jailable
@@ -54144,6 +54160,7 @@ jostling
 jot
 jota
 jotas
+jots
 jotter
 jotters
 jotting
@@ -58927,6 +58944,7 @@ lunting
 lunula
 lunulate
 lunules
+luny
 lupanar
 lupin
 lupines
@@ -61572,6 +61590,7 @@ mesophyll
 mesophyllous
 mesophyls
 mesophytes
+mesophytic
 mesosome
 mesosomes
 mesosphere
@@ -67108,6 +67127,7 @@ nocuous
 nocuously
 nod
 nodal
+nodally
 nodded
 nodder
 nodders
@@ -73649,6 +73669,7 @@ parflesh
 parfleshes
 parfocal
 parfocalities
+parfocalizes
 parget
 pargeting
 pargets
@@ -76380,6 +76401,7 @@ pickles
 pickling
 picklocks
 pickoff
+pickoffs
 pickpocket
 pickpockets
 picks
@@ -78192,6 +78214,7 @@ polynyas
 polynyi
 polyolefin
 polyolefins
+polyols
 polyomas
 polyonymous
 polyp
@@ -78756,6 +78779,7 @@ postmodern
 postmodernisms
 postmodernist
 postmortem
+postnasal
 postnatal
 postnatally
 postneonatal
@@ -82042,6 +82066,7 @@ punctated
 punctations
 punctilios
 punctilious
+punctiliously
 punctiliousness
 punctualities
 punctually
@@ -90226,6 +90251,7 @@ saggaring
 sagged
 sagger
 saggered
+saggers
 saggier
 saggiest
 sagiest
@@ -92891,6 +92917,7 @@ senseis
 senseless
 senselessly
 senselessness
+senselessnesses
 sensibilities
 sensible
 sensibleness
@@ -95296,6 +95323,7 @@ skiver
 skiving
 skivvies
 skivvy
+skivvying
 skiwear
 sklented
 sklenting
@@ -99012,6 +99040,7 @@ stearates
 stearin
 stearines
 stearins
+steatites
 steatitic
 steatopygia
 steatopygias
@@ -103995,6 +104024,7 @@ technologizes
 technologizing
 technology
 technophiles
+technophobes
 technophobias
 technophobic
 technopop
@@ -108866,6 +108896,7 @@ twirps
 twist
 twistable
 twisted
+twister
 twisting
 twistings
 twists
@@ -113571,6 +113602,7 @@ victimizers
 victimologist
 victimologists
 victimology
+victims
 victor
 victories
 victorious
@@ -114649,6 +114681,7 @@ wangles
 wangun
 wanguns
 waniest
+wanigans
 waning
 wanion
 wanions
@@ -114700,6 +114733,7 @@ wardenships
 warder
 warding
 wardress
+wardresses
 wardrobe
 wardrobed
 wardrobes
@@ -115240,6 +115274,7 @@ weedy
 week
 weekdays
 weekend
+weekended
 weekenders
 weekends
 weekly
