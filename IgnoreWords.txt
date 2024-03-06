@@ -1199,6 +1199,7 @@ advertency
 advertent
 adverting
 advertise
+advertised
 advertisement
 advertisements
 advertiser
@@ -3138,6 +3139,7 @@ anagrammatizes
 anagrammatizing
 anagramming
 analcimes
+analcite
 analcites
 analecta
 analectic
@@ -5775,6 +5777,7 @@ assonant
 assonantal
 assortative
 assortatively
+assorted
 assortments
 assuage
 assuager
@@ -7578,6 +7581,7 @@ bannering
 bannerol
 bannerols
 banners
+bannet
 bannister
 bannisters
 bannock
@@ -14042,6 +14046,7 @@ camises
 camisia
 camisias
 camisole
+camlet
 cammie
 camorras
 camorrist
@@ -16573,6 +16578,7 @@ cheeseparings
 cheeses
 cheesier
 cheesily
+cheesiness
 cheesinesses
 cheesy
 chefdom
@@ -21700,6 +21706,7 @@ cornier
 cornifications
 cornified
 cornifies
+cornify
 cornily
 corninesses
 cornmeal
@@ -23926,6 +23933,7 @@ currish
 currycombed
 currying
 curs
+cursed
 curseder
 cursedest
 cursedly
@@ -23937,6 +23945,7 @@ cursive
 cursiveness
 cursorial
 cursorily
+cursoriness
 cursorinesses
 cursory
 curt
@@ -25879,6 +25888,7 @@ dehumanized
 dehumidified
 dehumidifies
 dehumidifying
+dehydrate
 dehydrated
 dehydrates
 dehydrating
@@ -26059,6 +26069,7 @@ delivers
 delivery
 deliverymen
 dellies
+dells
 delocalization
 delocalizations
 delocalize
@@ -27344,6 +27355,7 @@ dewaxing
 dewberries
 dewberry
 dewclaw
+dewclawed
 dewdrop
 dewdrops
 dewed
@@ -35174,6 +35186,7 @@ exchangeability
 exchangeable
 exchanged
 exchangers
+exchequers
 excide
 excided
 excimer
@@ -37242,6 +37255,7 @@ ferula
 ferulae
 ferulas
 ferule
+feruled
 feruling
 fervencies
 fervency
@@ -37749,6 +37763,7 @@ fine
 fineable
 fined
 finely
+fineness
 finer
 fineries
 finery
@@ -42385,6 +42400,7 @@ giros
 girosol
 girosols
 girshes
+girt
 girth
 girthed
 girthing
@@ -44636,6 +44652,7 @@ gutless
 gutlessness
 gutlike
 gutsier
+gutsiest
 gutsily
 gutsinesses
 gutsy
@@ -45237,6 +45254,7 @@ handclaps
 handclasp
 handcraft
 handcrafting
+handcraftsmen
 handcuffed
 handcuffs
 handedness
@@ -45665,6 +45683,7 @@ hastiness
 hasty
 hatbox
 hatchability
+hatchback
 hatchbacks
 hatcheck
 hatchecks
@@ -60155,6 +60174,7 @@ margining
 margins
 margravates
 margrave
+margraves
 margravial
 margraviate
 margraviates
@@ -60717,6 +60737,7 @@ maxwells
 may
 mayan
 mayapple
+mayapples
 maybe
 maybird
 maybush
@@ -67734,6 +67755,7 @@ nonlife
 nonlinear
 nonlinearities
 nonlinearity
+nonlinguistic
 nonliquid
 nonliterary
 nonliterate
@@ -68037,6 +68059,7 @@ nonsticky
 nonstop
 nonstops
 nonstories
+nonstory
 nonstrategic
 nonstructured
 nonstudents
@@ -71162,6 +71185,7 @@ outspanning
 outspans
 outsparkle
 outsparkles
+outsparkling
 outspeak
 outspeaking
 outspeaks
@@ -71698,6 +71722,7 @@ overenrolled
 overentertained
 overenthusiasm
 overenthusiasms
+overequipped
 overestimate
 overestimating
 overestimation
@@ -73098,6 +73123,7 @@ pancreozymins
 pancytopenia
 pancytopenias
 pandanus
+pandanuses
 pandas
 pandect
 pandemics
@@ -73614,6 +73640,7 @@ paresthesias
 paretic
 paretics
 pareu
+pareus
 pareve
 parfait
 parfaits
@@ -83323,6 +83350,7 @@ ragamuffin
 ragamuffins
 ragas
 ragbags
+rage
 raged
 ragee
 rages
@@ -83642,6 +83670,7 @@ raptor
 rapture
 raptured
 raptures
+rapturous
 rapturousness
 rarebit
 rarefactional
@@ -87315,6 +87344,7 @@ resembled
 resembler
 resembles
 resending
+resends
 resensitize
 resensitized
 resensitizing
@@ -106612,6 +106642,7 @@ tother
 toting
 tots
 totted
+totter
 totterer
 totterers
 totteringly
@@ -106915,6 +106946,7 @@ traiking
 traiks
 trailblazers
 trailblazing
+trailed
 trailer
 trailerable
 trailered
@@ -110416,6 +110448,7 @@ unfence
 unfences
 unfertile
 unfertilized
+unfetter
 unfettering
 unfetters
 unfilial
@@ -112406,6 +112439,7 @@ usurpers
 usurps
 usury
 ut
+utas
 ute
 utensil
 uteri
@@ -113775,6 +113809,7 @@ virgates
 virginalist
 virginalists
 virginally
+virginals
 virgule
 virgules
 viricidal
