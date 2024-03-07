@@ -3791,6 +3791,7 @@ antechoir
 anted
 antedate
 antedates
+anteed
 antefixa
 antefixal
 antefixes
@@ -4015,6 +4016,7 @@ antifemale
 antifeminine
 antifeminisms
 antifertility
+antifilibuster
 antiflu
 antifoam
 antifog
@@ -5089,6 +5091,7 @@ archosaurs
 archpriest
 archrival
 archrivals
+arciform
 arcing
 arcked
 arcs
@@ -8979,6 +8982,7 @@ bemixt
 bemoan
 bemoaned
 bemoaning
+bemock
 bemocking
 bemocks
 bemuddle
@@ -9780,6 +9784,7 @@ billie
 billies
 billing
 billingsgate
+billingsgates
 billion
 billions
 billionths
@@ -14705,6 +14710,7 @@ captors
 capture
 captured
 capturer
+capturers
 captures
 capturing
 capuched
@@ -16910,6 +16916,7 @@ chibouques
 chic
 chica
 chicalotes
+chicaner
 chicaneries
 chicaners
 chicanes
@@ -20806,6 +20813,7 @@ congruencies
 congruency
 congruent
 congruently
+congruities
 congruity
 congruous
 congruousness
@@ -21511,6 +21519,7 @@ conveyors
 convict
 conviction
 convicts
+convince
 convinced
 convincer
 convincingly
@@ -22041,6 +22050,7 @@ corrected
 correcter
 correctest
 correcting
+correction
 corrections
 correctitude
 correctitudes
@@ -40324,6 +40334,7 @@ fraise
 fraises
 fraktur
 frakturs
+frambesia
 frambesias
 framboises
 frame
@@ -48553,6 +48564,7 @@ hotdogger
 hotdoggers
 hotdogs
 hotel
+hoteldom
 hoteldoms
 hoteliers
 hotfoot
@@ -49511,6 +49523,7 @@ hypodiploidies
 hypodiploidy
 hypoed
 hypoeutectoid
+hypogeal
 hypogean
 hypogeous
 hypogeum
@@ -52807,6 +52820,7 @@ interlinear
 interlineation
 interlined
 interliner
+interliners
 interlining
 interlinings
 interlink
@@ -59323,6 +59337,7 @@ lowermost
 lowers
 lowest
 lowing
+lowings
 lowish
 lowland
 lowlander
@@ -60510,6 +60525,7 @@ maneuverer
 maneuvering
 maneuvers
 manful
+manfulness
 manga
 mangabey
 mangabeys
@@ -61337,6 +61353,7 @@ mauves
 maverick
 mavericks
 mavies
+mavin
 mavis
 mavourneen
 maw
@@ -62304,6 +62321,7 @@ metagalactic
 metage
 metageneses
 metagenesis
+metagenic
 metages
 metalanguage
 metalhead
@@ -62976,6 +62994,7 @@ mightiest
 mightily
 mightiness
 mightinesses
+mignonettes
 mignons
 migraine
 migrainous
@@ -71262,6 +71281,7 @@ outbrazens
 outbreak
 outbreaks
 outbred
+outbreed
 outbreeds
 outbribe
 outbribed
@@ -72298,6 +72318,7 @@ overclaims
 overclass
 overclasses
 overclassified
+overclassifies
 overclassify
 overclassifying
 overclean
@@ -72465,6 +72486,7 @@ overemotional
 overemphasis
 overemphasize
 overemphasizes
+overemphasizing
 overenamored
 overencouraged
 overencouraging
@@ -73789,6 +73811,7 @@ palls
 pally
 palm
 palmate
+palmately
 palmation
 palmed
 palmer
@@ -74480,6 +74503,7 @@ parochial
 parochialism
 parochialisms
 parochially
+parodic
 parodical
 parodied
 parodies
@@ -79803,6 +79827,7 @@ powdering
 powders
 powdery
 powerboat
+powerboats
 powerful
 powerfully
 powerhouse
@@ -85364,6 +85389,7 @@ rechange
 rechanged
 rechanges
 rechanging
+rechanneled
 rechanneling
 rechannels
 rechargeable
@@ -87425,6 +87451,7 @@ remoistens
 remolade
 remolades
 remold
+remolding
 remolds
 remonetization
 remonetizations
@@ -87582,6 +87609,7 @@ rental
 rente
 renter
 renters
+renting
 renumbering
 renunciation
 renunciations
@@ -88035,6 +88063,7 @@ repudiate
 repudiated
 repudiates
 repudiating
+repudiationist
 repudiationists
 repudiations
 repudiator
@@ -90488,6 +90517,7 @@ roughnesses
 roughrider
 roughriders
 roughshod
+rouging
 rouille
 rouilles
 roulade
@@ -96417,6 +96447,7 @@ slalomers
 slaloming
 slalomists
 slaloms
+slam
 slamdance
 slamdanced
 slamdances
@@ -98843,6 +98874,7 @@ spieling
 spiels
 spiered
 spiering
+spiers
 spies
 spiffed
 spiffier
@@ -102545,6 +102577,7 @@ sunbaths
 sunbeam
 sunbeams
 sunbeamy
+sunbelt
 sunbelts
 sunbird
 sunbirds
@@ -116196,6 +116229,7 @@ wattape
 wattapes
 wattest
 watthour
+wattle
 wattlebird
 wattles
 wattless
@@ -118387,6 +118421,7 @@ yattering
 yatters
 yauld
 yaup
+yauped
 yauper
 yaupers
 yaupon
