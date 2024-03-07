@@ -48,6 +48,7 @@ abroach
 abrogable
 abrogate
 abrogated
+abrogates
 abrogating
 abrogation
 abrogations
@@ -4346,6 +4347,7 @@ anuria
 anurous
 anuses
 anvil
+anviling
 anvilled
 anvilling
 anvils
@@ -4726,6 +4728,7 @@ applier
 applies
 applique
 appliqueing
+apply
 applying
 appoggiaturas
 appointees
@@ -5912,6 +5915,7 @@ astringes
 astringing
 astrobiologies
 astrobiologist
+astrobiology
 astrocyte
 astrocytes
 astrocytomas
@@ -14879,6 +14883,7 @@ carditises
 cardon
 cardons
 cardoon
+cardplayer
 cardplayers
 cards
 cardsharp
@@ -16422,6 +16427,7 @@ charcuteries
 chard
 chards
 chare
+chared
 chares
 charge
 chargeable
@@ -19874,6 +19880,7 @@ commune
 communed
 communer
 communes
+communicable
 communicant
 communicate
 communicatee
@@ -28840,6 +28847,7 @@ discriminate
 discriminated
 discriminates
 discriminating
+discrimination
 discriminations
 discriminative
 discriminator
@@ -30016,6 +30024,7 @@ doldrums
 dolefuller
 dolefully
 dolefulnesses
+dolerite
 dolerites
 doleritic
 doles
@@ -31498,6 +31507,7 @@ dynamometer
 dynamometers
 dynamometries
 dynamos
+dynast
 dynastic
 dynastically
 dynasts
@@ -34360,6 +34370,7 @@ equine
 equinely
 equines
 equinities
+equinoctial
 equinoxes
 equip
 equipage
@@ -36887,6 +36898,7 @@ farmhouse
 farmhouses
 farming
 farmings
+farmland
 farmstead
 farmsteads
 farmwife
@@ -46711,6 +46723,7 @@ hematopoiesis
 hematopoietic
 hematoporphyrin
 hematosis
+hematoxylin
 hematoxylins
 hematozoa
 hematozoon
@@ -49644,6 +49657,7 @@ idolator
 idolatries
 idolatrously
 idolise
+idolisers
 idolises
 idolising
 idolisms
@@ -51913,6 +51927,7 @@ innovatively
 innovator
 innovators
 innovatory
+innoxious
 inns
 innuendo
 innuendoed
@@ -61457,6 +61472,7 @@ megafauna
 megafaunae
 megafaunal
 megafaunas
+megaflop
 megaflops
 megagametes
 megagametophyte
@@ -63410,6 +63426,7 @@ miscoined
 miscoining
 miscoins
 miscolor
+miscolored
 miscolors
 miscomputation
 miscomputations
@@ -67750,6 +67767,7 @@ nonarts
 nonas
 nonascetic
 nonaspirin
+nonassociated
 nonastronomical
 nonathlete
 nonathletes
@@ -68512,6 +68530,7 @@ nonsensitive
 nonsensuous
 nonsentence
 nonsentences
+nonseptate
 nonsequential
 nonserials
 nonserious
@@ -69873,6 +69892,7 @@ oiliest
 oilily
 oiliness
 oilinesses
+oiling
 oilman
 oilmen
 oilpaper
@@ -73599,6 +73619,7 @@ paltry
 paludal
 paludism
 paludisms
+palynological
 palynologically
 palynologist
 palynologists
@@ -74528,6 +74549,7 @@ pastnesses
 pastoral
 pastorale
 pastorali
+pastoralism
 pastoralisms
 pastoralist
 pastoralists
@@ -75169,6 +75191,7 @@ pelotas
 peloton
 pelt
 peltast
+peltasts
 peltate
 peltately
 peltation
@@ -76342,6 +76365,7 @@ philistine
 philistines
 philistinism
 philistinisms
+phillumenist
 phillumenists
 philodendrons
 philogynies
@@ -80379,6 +80403,7 @@ preowned
 prep
 prepack
 prepackage
+prepackaged
 prepackages
 prepacked
 prepacks
@@ -80398,6 +80423,7 @@ prepastes
 prepasting
 prepave
 prepaved
+prepaves
 prepaving
 prepay
 prepaying
@@ -87329,6 +87355,7 @@ reorganized
 reorganizers
 reorganizes
 reorganizing
+reorient
 reorientate
 reorientated
 reorientates
@@ -88411,6 +88438,7 @@ resurveys
 resuscitate
 resuscitating
 resuscitation
+resuscitations
 resuscitator
 resuscitators
 resuspend
@@ -96325,6 +96353,7 @@ slipcased
 slipcases
 slipcover
 slipcovers
+slipe
 slipes
 slipform
 slipformed
@@ -101735,6 +101764,7 @@ subtraction
 subtractive
 subtracts
 subtrahend
+subtrahends
 subtreasuries
 subtreasury
 subtrends
@@ -106162,6 +106192,7 @@ thriving
 thrivingly
 throat
 throated
+throatier
 throatily
 throatinesses
 throating
@@ -107894,6 +107925,7 @@ transfusable
 transfuse
 transfusing
 transfusional
+transfusions
 transgender
 transgene
 transgenes
@@ -108516,6 +108548,7 @@ trigging
 triglyceride
 triglyph
 triglyphs
+trigness
 trigo
 trigon
 trigonally
@@ -112717,6 +112750,7 @@ upbraided
 upbraiding
 upbraids
 upbringing
+upbuilder
 upbuilding
 upbuilds
 upbuilt
@@ -113419,6 +113453,7 @@ valkyries
 valkyrs
 vallation
 vallations
+valleculae
 vallecular
 valley
 valleyed
