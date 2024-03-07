@@ -3048,6 +3048,7 @@ ampules
 ampullae
 ampullary
 ampuls
+amputated
 amputation
 amputations
 amputator
@@ -4620,6 +4621,7 @@ apostolicities
 apostolicity
 apostrophe
 apostrophes
+apostrophise
 apostrophised
 apostrophized
 apothecary
@@ -7594,6 +7596,7 @@ bandwagons
 bandwidth
 bandwidths
 bandy
+bane
 baneberry
 baneful
 banefully
@@ -16335,6 +16338,7 @@ chancers
 chances
 chancier
 chanciest
+chancily
 chanciness
 chancre
 chancroidal
@@ -17982,6 +17986,7 @@ cladode
 cladodes
 cladogenetic
 cladogram
+cladograms
 cladophyll
 cladophylls
 clafouti
@@ -20611,6 +20616,7 @@ confessional
 confessionals
 confessor
 confetti
+confidant
 confidante
 confide
 confided
@@ -25034,6 +25040,7 @@ dastardly
 dastards
 dasymeters
 data
+databanks
 database
 databased
 databasing
@@ -26516,6 +26523,7 @@ demonetizing
 demoniac
 demoniacally
 demoniacs
+demonic
 demonical
 demonise
 demonised
@@ -27032,6 +27040,7 @@ dermatoses
 dermatosis
 dermestid
 dermic
+dermis
 dermoid
 dermoids
 derms
@@ -32388,6 +32397,7 @@ electrification
 electrified
 electrifies
 electrify
+electrifying
 electro
 electroacoustic
 electroanalysis
@@ -37755,6 +37765,7 @@ feuilletonisms
 feuilletonist
 feuilletonists
 feuilletons
+feuing
 fever
 feverfew
 fevering
@@ -38860,6 +38871,7 @@ flexural
 flexures
 fley
 fleys
+flibbertigibbet
 flic
 flichtered
 flichtering
@@ -39602,6 +39614,7 @@ footrests
 footropes
 footsie
 footsies
+footslog
 footslogged
 footslogger
 footsore
@@ -40014,6 +40027,7 @@ formulae
 formulaic
 formularies
 formularized
+formularizing
 formulary
 formulas
 formulates
@@ -42475,6 +42489,7 @@ germinesses
 germlike
 germplasm
 germplasms
+germproof
 gerontic
 gerontocracy
 gerontocrat
@@ -44435,6 +44450,7 @@ grimaced
 grimacer
 grimacers
 grimaces
+grimacing
 grimalkin
 grimalkins
 grime
@@ -46804,6 +46820,7 @@ hematic
 hematine
 hematines
 hematinic
+hematinics
 hematite
 hematites
 hematitic
@@ -50020,6 +50037,7 @@ imid
 imide
 imides
 imidic
+imids
 imine
 imines
 imino
@@ -52226,6 +52244,7 @@ insobrieties
 insociabilities
 insociable
 insofar
+insolating
 insolation
 insolations
 insole
@@ -64072,6 +64091,7 @@ misstamping
 misstamps
 misstart
 misstarted
+misstarting
 misstarts
 misstatements
 misstates
@@ -71216,6 +71236,7 @@ outcastes
 outcasts
 outcatch
 outcatches
+outcatching
 outcavil
 outcaviled
 outcaviling
@@ -72636,6 +72657,7 @@ overlight
 overlighted
 overlighting
 overlights
+overliteral
 overliterary
 overlive
 overlived
@@ -74961,6 +74983,7 @@ paxwax
 paxwaxes
 payable
 payably
+payback
 paybacks
 paycheck
 paychecks
@@ -79949,6 +79972,7 @@ prebless
 preblesses
 preboard
 preboarded
+preboards
 preboil
 preboiling
 preboils
@@ -80115,6 +80139,7 @@ predation
 predations
 predatisms
 predator
+predators
 predatory
 predawns
 predeath
@@ -86048,6 +86073,7 @@ reeducative
 reedy
 reef
 reefable
+reefers
 reefiest
 reefing
 reefs
@@ -89866,6 +89892,7 @@ rivalrous
 rivalry
 rivals
 rive
+rived
 riven
 riverbanks
 riverbed
@@ -90809,6 +90836,7 @@ rusticator
 rusticators
 rusticity
 rusticly
+rustier
 rustily
 rustiness
 rusting
@@ -92892,6 +92920,7 @@ scullers
 scullery
 sculling
 scullion
+sculls
 sculp
 sculpins
 sculps
@@ -95567,6 +95596,7 @@ silenus
 silesia
 silex
 silexes
+silhouette
 silhouetted
 silhouettes
 silica
@@ -101295,6 +101325,7 @@ stymieing
 stymies
 stymy
 stymying
+styptical
 styptics
 styrax
 styraxes
@@ -104253,6 +104284,7 @@ tailors
 tailpiece
 tailpieces
 tailpipes
+tailplanes
 tailrace
 tailraces
 tails
@@ -108028,6 +108060,7 @@ trampoliner
 trampoliners
 trampolines
 trampolining
+trampolinings
 trampolinist
 tramroad
 trams
@@ -109359,6 +109392,7 @@ tubbier
 tubbiness
 tubbing
 tubby
+tubed
 tubeless
 tubelike
 tubenose
@@ -117206,6 +117240,7 @@ windthrow
 windup
 windway
 windways
+windy
 wine
 wined
 wineglass
