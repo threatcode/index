@@ -275,6 +275,7 @@ acceptably
 acceptance
 acceptances
 acceptant
+acceptation
 acceptations
 acceptedly
 acceptee
@@ -354,6 +355,7 @@ accomplishable
 accomplished
 accomplishers
 accomplishes
+accomplishing
 accomplishment
 accomplishments
 accord
@@ -2797,6 +2799,7 @@ ambushments
 ameban
 amebas
 amebean
+amebiases
 amebic
 amebocytes
 ameboid
@@ -13172,6 +13175,7 @@ bunker
 bunkers
 bunkhouses
 bunking
+bunkmate
 bunkmates
 bunko
 bunkoed
@@ -14346,6 +14350,7 @@ candlesticks
 candlewick
 candlewoods
 candling
+candors
 candour
 candours
 candyfloss
@@ -17400,6 +17405,7 @@ chorioids
 chorion
 chorionic
 chorister
+choristers
 chorizo
 chorographic
 chorographies
@@ -21582,6 +21588,7 @@ cooks
 cookshack
 cookshacks
 cookshops
+cookstove
 cookstoves
 cookware
 cookwares
@@ -28366,6 +28373,7 @@ dimers
 dimes
 dimeters
 dimethoates
+dimetric
 dimidiates
 dimidiating
 diminishable
@@ -29089,6 +29097,7 @@ disgorged
 disgorges
 disgraced
 disgraceful
+disgracefully
 disgracefulness
 disgracer
 disgracers
@@ -29897,6 +29906,7 @@ divulgated
 divulgates
 divulge
 divulged
+divulgences
 divulger
 divulgers
 divulges
@@ -35378,6 +35388,7 @@ eventless
 events
 eventually
 eventuate
+eventuated
 eventuates
 everblooming
 everduring
@@ -36282,6 +36293,7 @@ exteriorizing
 exteriorly
 exteriors
 exterminate
+exterminates
 exterminating
 extermination
 exterminations
@@ -41493,6 +41505,7 @@ galago
 galah
 galahs
 galangas
+galantines
 galas
 galatea
 galavant
@@ -46862,6 +46875,7 @@ helpful
 helpfully
 helpfulnesses
 helpings
+helplessly
 helplessness
 helpmate
 helps
@@ -46935,6 +46949,7 @@ hemipteran
 hemipterans
 hemipterous
 hemisphere
+hemispheric
 hemispherical
 hemistich
 hemistichs
@@ -49391,6 +49406,7 @@ hyperlinks
 hyperlipemia
 hyperlipemic
 hyperlipidemias
+hypermania
 hypermanias
 hypermarket
 hypermarkets
@@ -50305,6 +50321,7 @@ impairment
 impairments
 impairs
 impala
+impalas
 impale
 impaled
 impalements
@@ -58625,6 +58642,7 @@ litterers
 littering
 littermate
 littermates
+litters
 littery
 littlenecks
 littleness
@@ -67204,6 +67222,7 @@ nephritis
 nephritises
 nephrologists
 nephrons
+nephropathic
 nephropathies
 nephrosis
 nephrostomes
@@ -79917,6 +79936,7 @@ praetorian
 praetorians
 praetors
 praetorship
+praetorships
 pragmatic
 pragmatically
 pragmaticist
@@ -83892,6 +83912,7 @@ quinielas
 quinina
 quinnats
 quinoa
+quinoas
 quinoidal
 quinoids
 quinol
@@ -84511,6 +84532,7 @@ randy
 ranee
 ranged
 rangeland
+rangelands
 ranger
 ranges
 rangier
@@ -85682,6 +85704,7 @@ reconstructible
 reconstructing
 reconstruction
 reconstructor
+reconstructors
 reconstructs
 reconsult
 reconsulting
@@ -88456,6 +88479,7 @@ resiny
 resistances
 resistant
 resisters
+resistibilities
 resistibility
 resistible
 resistive
@@ -93565,6 +93589,7 @@ seining
 seis
 seisable
 seised
+seises
 seisin
 seising
 seisings
@@ -93888,6 +93913,7 @@ senescences
 senescent
 seneschal
 seneschals
+senhor
 senhora
 senhoras
 senhores
@@ -94237,6 +94263,7 @@ serotyped
 serotypes
 serotyping
 serous
+serovars
 serow
 serpentine
 serpentines
@@ -94434,6 +94461,7 @@ sextuplicated
 sextuplicates
 sextuply
 sexual
+sexualities
 sexuality
 sexualize
 sexualizes
@@ -94791,6 +94819,7 @@ sheldrake
 shelduck
 shelducks
 shelf
+shelfful
 shellacked
 shellacking
 shellackings
@@ -99253,6 +99282,7 @@ sporal
 sporangiophore
 sporangiophores
 spores
+sporing
 sporocarp
 sporocarps
 sporocyst
@@ -101230,6 +101260,7 @@ stromal
 stromata
 strong
 strongbox
+strongboxes
 stronger
 stronghold
 strongholds
@@ -102891,6 +102922,7 @@ superinfects
 supering
 superinsulated
 superintend
+superintended
 superintendent
 superintendents
 superior
@@ -103803,6 +103835,7 @@ swore
 sworn
 swots
 swotters
+swotting
 swound
 swounded
 swounding
@@ -104997,6 +105030,7 @@ taws
 tawsed
 tawsing
 tax
+taxables
 taxably
 taxed
 taxeme
@@ -113256,6 +113290,7 @@ upgrew
 upgrow
 upgrowing
 upgrown
+upgrowths
 upheap
 upheavals
 upheave

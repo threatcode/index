@@ -7,3 +7,10 @@ tests/functional/testserver.sql ...,https://gitlab.liu.se/edver36/ojs/-/blob/c43
 source/money/data_insert/money_comptaplan.sql ... - GitLab,https://gitrural.cra.wallonie.be/craw-app/tresoferme/-/blob/19d39547869a044decc81d8378f7b8da738eb7e1/source/money/data_insert/money_comptaplan.sql
 conf-dev/jdevdb.sql ... - GitLab,https://gitlab.lam.fr/jdev/jdev-boarding/-/blob/ca8b6ee2e15358b8e5ffacbf641bf277c601a4dd/conf-dev/jdevdb.sql
 data/backup/medias.sql - Ircam-medias Git Source Tree - Ircam,https://git.forge.ircam.fr/p/ircam-medias/source/tree/660170074d9c330e9dd60b6c31318f6054eb1529/data/backup/medias.sql
+tropy/db/migrate/ontology/1712071218.fr-labels.sql at main - GitHub,https://github.com/tropy/tropy/blob/master/db/migrate/ontology/1712071218.fr-labels.sql
+sql/data_en.sql · a05559c44b08add12bd349396610648f7fcaee89 ...,https://labs.maarch.org/maarch/MaarchCourrier/-/blob/a05559c44b08add12bd349396610648f7fcaee89/sql/data_en.sql
+sql/data_fr.sql · a0c1e51d998d945527affb42366169efeec76707 ...,https://labs.maarch.org/maarch/MaarchCourrier/-/blob/a0c1e51d998d945527affb42366169efeec76707/sql/data_fr.sql
+signs-at-work-social-network-dictionnary/articles.sql at master - GitHub,https://github.com/Orange-OpenSource/signs-at-work-social-network-dictionnary/blob/master/articles.sql
+source/money/data_insert/money_comptaplan.sql ... - GitLab,https://gitrural.cra.wallonie.be/craw-app/tresoferme/-/blob/009a3c64bba14904f8b627d8dcf637939ccffb01/source/money/data_insert/money_comptaplan.sql
+source/money/data_insert/money_comptaplan.sql ... - GitLab,https://gitrural.cra.wallonie.be/craw-app/tresoferme/-/blob/106192c49d83292009d5cabf19d0636d0127aae7/source/money/data_insert/money_comptaplan.sql
+http://mguilhem91.free.fr/films/Guilhem.sql,http://mguilhem91.free.fr/films/Guilhem.sql
