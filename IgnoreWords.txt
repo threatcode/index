@@ -2192,6 +2192,7 @@ algolagnias
 algologies
 algologists
 algology
+algometer
 algometry
 algor
 algorithmic
@@ -4021,6 +4022,7 @@ antifatigue
 antifemale
 antifeminine
 antifeminisms
+antiferromagnet
 antifertility
 antifilibuster
 antiflu
@@ -5207,6 +5209,7 @@ arid
 aridities
 aridity
 aridly
+aridness
 aridnesses
 ariels
 arietta
@@ -6902,6 +6905,7 @@ axons
 axoplasmic
 axoplasms
 axseed
+axseeds
 ayah
 ayahs
 ayatollah
@@ -11066,6 +11070,7 @@ bodied
 bodily
 bodkin
 bodkins
+bods
 body
 bodyboarded
 bodyboarding
@@ -11397,6 +11402,7 @@ bookkeepers
 booklets
 booklore
 bookmaker
+bookmakers
 bookmaking
 bookmakings
 bookman
@@ -12571,7 +12577,9 @@ bromelins
 bromic
 bromid
 bromide
+bromides
 bromidic
+bromids
 bromin
 brominate
 brominated
@@ -14757,6 +14765,7 @@ carack
 caracks
 caracol
 caracole
+caracoler
 caracoles
 caracoling
 caracolled
@@ -14866,6 +14875,7 @@ carboys
 carbs
 carbuncled
 carbuncles
+carburet
 carbureted
 carburetion
 carburetions
@@ -17491,6 +17501,7 @@ chromatograph
 chromatographer
 chromatographic
 chromatolyses
+chromatolysis
 chromatolytic
 chromatophores
 chrome
@@ -18358,6 +18369,7 @@ clerking
 clerkish
 clerklier
 clerkly
+clerks
 clerkships
 cleveite
 clever
@@ -19765,6 +19777,7 @@ combs
 combust
 combusted
 combustibility
+combusting
 combustion
 combustions
 combustive
@@ -23162,6 +23175,7 @@ creams
 creamware
 creamy
 crease
+creased
 creaseless
 creasers
 creases
@@ -26339,6 +26353,7 @@ deletes
 deletion
 deletions
 delf
+delft
 delfts
 delftware
 deliberate
@@ -37063,6 +37078,7 @@ farfels
 farfetchedness
 farina
 farinas
+farinha
 farinhas
 farinose
 farkleberries
@@ -39741,6 +39757,7 @@ foozlers
 foozles
 foozling
 fop
+foppery
 fopping
 foppish
 foppishly
@@ -40731,6 +40748,7 @@ frillings
 frills
 frilly
 fringe
+fringes
 fringier
 fringy
 frisbees
@@ -43162,6 +43180,7 @@ gleyings
 gleys
 glia
 gliadin
+glias
 glib
 glibber
 glibbest
@@ -46404,6 +46423,7 @@ haylages
 hayloft
 haymakers
 haymow
+hayride
 hayrides
 hays
 hayseed
@@ -57963,6 +57983,7 @@ liberalizes
 liberally
 liberalnesses
 liberals
+liberate
 liberated
 liberating
 liberation
@@ -60404,6 +60425,7 @@ malemiut
 malemiuts
 malemute
 malemutes
+maleness
 malenesses
 males
 malevolence
@@ -76728,6 +76750,7 @@ philanthropoids
 philanthropy
 philatelic
 philatelically
+philatelies
 philatelist
 philharmonic
 philhellenes
@@ -85098,6 +85121,7 @@ realigning
 realignment
 realignments
 realiser
+realisers
 realism
 realisms
 realistically
@@ -90988,6 +91012,7 @@ runaway
 runaways
 runback
 runcinate
+rundles
 rundlet
 rundown
 rune
@@ -92523,6 +92548,7 @@ schav
 schavs
 schedular
 schedule
+scheduled
 scheduler
 schedules
 scheelite
@@ -94592,6 +94618,7 @@ shades
 shadier
 shadiest
 shadily
+shadiness
 shadinesses
 shading
 shadings
@@ -98304,6 +98331,7 @@ sortied
 sortieing
 sorties
 sortilege
+sortitions
 sorus
 sos
 sostenuti
@@ -100396,6 +100424,7 @@ stepbrother
 stepchild
 stepchildren
 stepdame
+stepdames
 stepdaughter
 stepdaughters
 stepfamily
@@ -101336,6 +101365,7 @@ strobilations
 strobile
 strobiles
 strobili
+strobils
 stroboscope
 stroboscopes
 strobotron
@@ -102224,6 +102254,7 @@ substructural
 substructure
 subsume
 subsumed
+subsumes
 subsuming
 subsumption
 subsurfaces
@@ -107522,6 +107553,7 @@ tolerating
 toleration
 tolerations
 tolerative
+tolerators
 tolidine
 toling
 toll
@@ -110203,6 +110235,7 @@ twinkles
 twinkling
 twinkly
 twinned
+twinnings
 twins
 twinset
 twinsets
@@ -111459,6 +111492,7 @@ underpin
 underpinned
 underpinning
 underpinnings
+underpins
 underplay
 underplaying
 underplays
@@ -116846,6 +116880,7 @@ wetproof
 wets
 wetsuits
 wettabilities
+wettable
 wetted
 wetter
 wettest
