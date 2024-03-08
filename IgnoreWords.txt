@@ -9615,6 +9615,7 @@ bickers
 bicolors
 bicolour
 bicolours
+bicomponent
 biconcave
 biconcavities
 biconditional
@@ -11198,6 +11199,7 @@ boiserie
 boiseries
 boisterously
 boisterousness
+boites
 bola
 bolar
 bolas
@@ -14454,6 +14456,7 @@ cankers
 cankerworm
 cankerworms
 cannabin
+cannabinol
 cannabinols
 cannabins
 cannabis
@@ -16696,6 +16699,7 @@ chatoyance
 chatoyancy
 chatrooms
 chatted
+chattel
 chattels
 chatterbox
 chatterboxes
@@ -20807,6 +20811,7 @@ conflicting
 conflictingly
 confliction
 conflicts
+confluent
 confluents
 conflux
 confluxes
@@ -22938,6 +22943,7 @@ cowinners
 cowl
 cowled
 cowlicks
+cowling
 cowlings
 cowlstaffs
 cowlstaves
@@ -23695,6 +23701,7 @@ crosshatching
 crossheads
 crossing
 crossings
+crossjack
 crossjacks
 crosslet
 crosslets
@@ -24890,6 +24897,7 @@ dads
 daedal
 daedalian
 daemonic
+daff
 daffed
 daffier
 daffiest
@@ -27422,6 +27430,7 @@ despicableness
 despicably
 despiritualize
 despiritualized
+despisal
 despisals
 despise
 despisement
@@ -28357,6 +28366,7 @@ digastric
 digastrics
 digeneses
 digested
+digester
 digestibilities
 digestibility
 digestible
@@ -36866,6 +36876,7 @@ faddier
 faddiest
 faddishly
 faddishness
+faddishnesses
 faddists
 faddy
 fade
@@ -37702,6 +37713,7 @@ felstones
 felt
 felted
 felting
+feltlike
 felts
 felwort
 felworts
@@ -38335,6 +38347,7 @@ filmset
 filmsetter
 filmsetting
 filmsettings
+filmstrip
 filmstrips
 filmy
 filo
@@ -39343,6 +39356,7 @@ flounced
 flounces
 flouncings
 flouncy
+flounder
 floundered
 floundering
 flounders
@@ -45202,6 +45216,7 @@ guilelessly
 guiling
 guillemets
 guillemot
+guillemots
 guilloche
 guilloches
 guillotine
@@ -45272,6 +45287,7 @@ gumboils
 gumboot
 gumboots
 gumbos
+gumbotil
 gumbotils
 gumless
 gumlike
@@ -48471,6 +48487,7 @@ honky
 honor
 honorability
 honorablenesses
+honorands
 honoraria
 honoraries
 honorarily
@@ -50766,6 +50783,7 @@ implicated
 implicates
 implicating
 implication
+implicative
 implicatively
 implicit
 implicitnesses
@@ -59381,6 +59399,7 @@ longly
 longnecks
 longness
 longnesses
+longs
 longship
 longships
 longshore
@@ -60068,6 +60087,7 @@ lyophiled
 lyophilic
 lyophilise
 lyophilising
+lyophilization
 lyophilizations
 lyophilized
 lyophilizer
@@ -62141,6 +62161,7 @@ meliorator
 meliorism
 melioristic
 meliorists
+melisma
 melismas
 melismata
 melismatic
@@ -62365,6 +62386,7 @@ mentor
 mentoring
 mentors
 mentorship
+mentorships
 mentum
 menu
 menudo
@@ -67511,6 +67533,7 @@ neoplasties
 neoplasty
 neoprene
 neoprenes
+neorealism
 neorealist
 neorealistic
 neostigmine
@@ -69091,6 +69114,7 @@ nonresistance
 nonresistances
 nonresonant
 nonrespondent
+nonrespondents
 nonresponder
 nonresponders
 nonresponse
@@ -74648,6 +74672,7 @@ paralogisms
 paralyse
 paralyses
 paralysing
+paralysis
 paralytically
 paralytics
 paralyzations
@@ -78805,6 +78830,7 @@ plighting
 plights
 plimsol
 plimsoll
+plimsolls
 plink
 plinked
 plinking
@@ -79600,6 +79626,7 @@ ponderousness
 ponders
 ponding
 pondweed
+pone
 pones
 ponged
 pongee
@@ -89610,6 +89637,7 @@ revealment
 revealments
 revegetate
 revegetated
+revegetates
 revegetating
 revegetation
 revel
@@ -90515,6 +90543,7 @@ roadholdings
 roadhouse
 roadhouses
 roadie
+roadkill
 roadkills
 roadless
 roadrunner
@@ -91237,6 +91266,7 @@ rufflier
 ruffling
 ruffly
 rufiyaa
+rug
 ruga
 rugal
 rugalach
@@ -102328,6 +102358,7 @@ sublimates
 sublimating
 sublimations
 sublimeness
+sublimer
 sublimers
 sublimes
 sublimest
@@ -107799,6 +107830,7 @@ toastmasters
 toastmistresses
 toasts
 toasty
+tobaccoes
 tobacconist
 tobacconists
 tobies
@@ -110013,6 +110045,7 @@ trussings
 trustabilities
 trustability
 trustee
+trusteeship
 trusteeships
 truster
 trusters
@@ -113633,6 +113666,7 @@ unvoices
 unvoicing
 unwarier
 unwarily
+unwariness
 unwarinesses
 unwarmed
 unwarned
@@ -115899,6 +115933,7 @@ vocalism
 vocalisms
 vocalists
 vocalities
+vocalization
 vocalizations
 vocalize
 vocalizer
