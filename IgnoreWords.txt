@@ -4734,6 +4734,7 @@ appended
 appendent
 appendents
 appendices
+appendicitis
 appendix
 appendixes
 apperceive
@@ -7691,6 +7692,7 @@ banish
 banished
 banisher
 banishers
+banishing
 banishment
 banishments
 banistered
@@ -7949,6 +7951,7 @@ baronetcy
 baronets
 barong
 barongs
+baronial
 baronne
 baronnes
 barons
@@ -12209,6 +12212,7 @@ bravely
 bravenesses
 braver
 bravery
+braves
 bravest
 bravi
 bravo
@@ -13884,6 +13888,7 @@ cadaverine
 cadaverines
 cadavers
 caddice
+caddices
 caddie
 caddies
 caddises
@@ -15199,6 +15204,7 @@ carnotites
 carns
 carny
 caroaches
+carob
 carobs
 caroch
 caroche
@@ -20773,6 +20779,7 @@ coneys
 confabbing
 confabs
 confabulate
+confabulation
 confabulations
 confabulator
 confabulators
@@ -25209,6 +25216,7 @@ danios
 danishes
 dank
 danker
+dankly
 dans
 danseur
 danseurs
@@ -25935,6 +25943,7 @@ decommissions
 decompensate
 decompensated
 decompensates
+decompensating
 decompensation
 decompensations
 decomposable
@@ -32279,6 +32288,7 @@ ecotype
 ecotypes
 ecotypic
 ecraseurs
+ecru
 ecrus
 ecstasy
 ecstatically
@@ -33584,6 +33594,7 @@ encounter
 encountered
 encounters
 encouraged
+encouragement
 encouragements
 encourager
 encouragers
@@ -39889,6 +39900,7 @@ folkloristic
 folklorists
 folkmoot
 folkmot
+folkmots
 folksier
 folksiest
 folksily
@@ -41520,6 +41532,7 @@ fungoes
 fungoid
 fungous
 funhouses
+funicles
 funicular
 funiculars
 funiculi
@@ -45985,6 +45998,7 @@ halakhot
 halakic
 halakist
 halakists
+halakoth
 halal
 halala
 halalah
@@ -52683,6 +52697,7 @@ inrun
 inruns
 inrush
 inrushes
+inrushing
 inrushings
 insalubrious
 insalubrities
@@ -58407,6 +58422,7 @@ liar
 liard
 liars
 lib
+libationary
 libations
 libbers
 libecchio
@@ -58432,6 +58448,7 @@ libels
 liber
 liberal
 liberalises
+liberalising
 liberalism
 liberalists
 liberality
@@ -60238,6 +60255,7 @@ luteinizes
 luteins
 lutenists
 luteolins
+luteotrophic
 luteotrophins
 luteotropic
 lutestring
@@ -61712,6 +61730,7 @@ massif
 massifs
 massiness
 massing
+massively
 massy
 mast
 mastaba
@@ -65131,6 +65150,7 @@ mogs
 moguled
 moguls
 mohair
+mohawks
 mohel
 mohelim
 mohur
@@ -68475,6 +68495,7 @@ nobleness
 noblenesses
 nobler
 nobles
+noblesses
 noblest
 noblewoman
 noblewomen
@@ -81667,6 +81688,7 @@ preservative
 preservatives
 preserved
 preserver
+preservers
 preserves
 preservice
 preserving
@@ -90017,6 +90039,7 @@ reverable
 reverb
 reverbed
 reverberant
+reverberantly
 reverberated
 reverberates
 reverberating
@@ -90256,6 +90279,7 @@ rexes
 rezeroes
 rezeroing
 rezeros
+rezone
 rezoned
 rezoning
 rhabdom
@@ -99396,6 +99420,7 @@ sparest
 sparge
 sparger
 spargers
+sparging
 sparid
 sparids
 sparingly
@@ -102975,6 +103000,7 @@ subsiding
 subsidises
 subsidising
 subsidization
+subsidized
 subsidizer
 subsidizers
 subsidizes
@@ -104058,6 +104084,7 @@ supervention
 superventions
 supervirile
 supervirtuosi
+supervirtuoso
 supervirtuosos
 supervising
 supervisor
@@ -107407,6 +107434,7 @@ thirsty
 thirteen
 thirteens
 thirteenth
+thirties
 thirtieth
 thirtieths
 thirty
@@ -109023,6 +109051,7 @@ traceries
 tracers
 tracery
 traces
+trachea
 tracheae
 tracheal
 tracheary
@@ -110198,6 +110227,7 @@ triumviri
 triumvirs
 triunes
 triunities
+triunity
 trivalves
 trivet
 trivial
@@ -114442,6 +114472,7 @@ upstairs
 upstandingness
 upstands
 upstare
+upstared
 upstares
 upstart
 upstarted
@@ -116365,6 +116396,7 @@ vocable
 vocables
 vocably
 vocabs
+vocabularies
 vocabulary
 vocal
 vocalese
@@ -118230,6 +118262,7 @@ wickape
 wickapes
 wicked
 wickedest
+wickedly
 wickedness
 wicker
 wickers
@@ -118497,6 +118530,7 @@ wineless
 winemakers
 winepress
 wineries
+winery
 wines
 wineshop
 wineskin
@@ -118996,6 +119030,7 @@ woopses
 woopsing
 woorali
 wooralis
+woorari
 woos
 woosh
 wooshed
