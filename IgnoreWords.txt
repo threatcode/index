@@ -3259,6 +3259,7 @@ anaptyxes
 anaptyxis
 anarch
 anarchic
+anarchical
 anarchisms
 anarchist
 anarchistic
@@ -4520,6 +4521,7 @@ apiologies
 apish
 apishness
 apishnesses
+aplanatic
 aplasia
 aplasias
 aplastic
@@ -10126,6 +10128,7 @@ biphenyls
 biplane
 biplanes
 bipod
+bipolarization
 bipolarize
 bipolarized
 bipolarizes
@@ -11293,6 +11296,7 @@ bombshells
 bombsight
 bombsights
 bombycids
+bombyx
 bombyxes
 bonacis
 bonanza
@@ -14284,6 +14288,7 @@ camphene
 camphenes
 camphine
 camphire
+camphires
 camphol
 camphoraceous
 camphorates
@@ -15583,6 +15588,7 @@ catenating
 catenation
 catenations
 catenoid
+cater
 cateran
 caterans
 catercorner
@@ -15813,6 +15819,7 @@ cazique
 caziques
 ceanothus
 ceanothuses
+cease
 ceased
 ceasefire
 ceasefires
@@ -18711,6 +18718,7 @@ clumsier
 clumsiest
 clumsily
 clumsiness
+clumsinesses
 clung
 clunk
 clunkier
@@ -21522,6 +21530,7 @@ convections
 convective
 convectors
 convects
+convene
 convened
 convener
 conveners
@@ -22602,6 +22611,7 @@ counterorders
 counterpane
 counterpart
 counterparts
+counterpetition
 counterpicket
 counterpicketed
 counterplan
@@ -27710,6 +27720,7 @@ devilwoods
 deviously
 deviousness
 deviousnesses
+devisable
 devisal
 devisals
 devise
@@ -30269,6 +30280,7 @@ dollying
 dolma
 dolman
 dolmans
+dolmas
 dolmenic
 dolmens
 dolomite
@@ -34073,6 +34085,7 @@ entoblasts
 entoderm
 entodermic
 entoderms
+entoiled
 entoiling
 entomb
 entombed
@@ -41369,6 +41382,7 @@ furrow
 furrowed
 furrower
 furrowing
+furrows
 furry
 furs
 furtherance
@@ -51918,6 +51932,7 @@ infirmities
 infirmly
 infirms
 infix
+infixation
 infixations
 infixed
 infixes
@@ -52709,6 +52724,7 @@ intaglioing
 intaglios
 intake
 intakes
+intangibility
 intangibleness
 intangibles
 intangibly
@@ -55058,6 +55074,7 @@ judicable
 judicatories
 judicature
 judicatures
+judicial
 judiciary
 judicious
 judiciously
@@ -56514,6 +56531,7 @@ labour
 laboured
 labourer
 labourers
+labouring
 labours
 labra
 labradorite
@@ -66731,6 +66749,7 @@ nadiral
 nadirs
 naething
 naethings
+naevoid
 naevus
 naff
 naffing
@@ -69785,6 +69804,7 @@ obelisk
 obelize
 obelized
 obelizes
+obelizing
 obento
 obentos
 obesely
@@ -74491,6 +74511,7 @@ parainfluenza
 parainfluenzas
 parajournalism
 parajournalisms
+parakeets
 parakite
 parakites
 paralanguage
@@ -80739,6 +80760,7 @@ prefreezing
 prefreshman
 prefrontal
 prefrontals
+prefrozen
 prefund
 prefunded
 prefunding
@@ -82564,6 +82586,7 @@ protoplasmic
 protoplast
 protoplasts
 protopod
+protopods
 protoporphyrins
 protostars
 protosteles
@@ -89006,6 +89029,7 @@ restrive
 restrives
 restriving
 restroom
+restrove
 restruck
 restructure
 restructures
@@ -98769,6 +98793,7 @@ spandex
 spandexes
 spandrels
 spandril
+spang
 spangled
 spangles
 spanglier
@@ -101158,6 +101183,7 @@ stormy
 storyboard
 storyboards
 storybook
+storying
 storyteller
 storytelling
 storytellings
@@ -101357,6 +101383,7 @@ streakily
 streakiness
 streakinesses
 streakings
+stream
 streambed
 streambeds
 streamed
@@ -101425,6 +101452,7 @@ stretchable
 stretchering
 stretchers
 stretches
+stretchier
 stretchiest
 stretchy
 stretta
@@ -101505,6 +101533,7 @@ stringing
 stringless
 stringpiece
 strings
+stringy
 stringybark
 stringybarks
 strip
@@ -107551,6 +107580,7 @@ titivations
 titlark
 title
 titled
+titles
 titlist
 titlists
 titman
@@ -110037,6 +110067,7 @@ tumorous
 tumours
 tump
 tumping
+tumpline
 tumplines
 tumps
 tumuli
@@ -110543,6 +110574,7 @@ typiest
 typification
 typifications
 typifiers
+typifies
 typifying
 typist
 typo
@@ -112108,6 +112140,7 @@ unfriendly
 unfrivolous
 unfrocked
 unfrocking
+unfroze
 unfrozen
 unfruitful
 unfruitfully
@@ -113354,6 +113387,7 @@ untouched
 untoward
 untowardly
 untowardness
+untowardnesses
 untraceable
 untracked
 untracking
@@ -115502,6 +115536,7 @@ viscometries
 viscometry
 viscose
 viscoses
+viscosimeter
 viscosimetric
 viscosities
 viscosity
