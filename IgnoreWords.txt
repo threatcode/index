@@ -2008,6 +2008,7 @@ akinetic
 akvavit
 al
 ala
+alabaster
 alabasters
 alabastrine
 alachlor
@@ -3720,6 +3721,7 @@ anointments
 anoints
 anole
 anoles
+anolyte
 anomalously
 anomalousnesses
 anomic
@@ -4920,6 +4922,7 @@ aquatintists
 aquavit
 aquavits
 aqueduct
+aqueducts
 aqueous
 aquicultures
 aquilegias
@@ -7346,6 +7349,7 @@ baghouse
 baghouses
 baglike
 bagmen
+bagnio
 bagnios
 bagpiped
 bagpipers
@@ -13850,6 +13854,7 @@ cades
 cadets
 cadetship
 cadetships
+cadge
 cadged
 cadger
 cadgers
@@ -19508,6 +19513,7 @@ colickiest
 colicky
 colicweed
 colicweeds
+colies
 coliform
 colin
 colinearities
@@ -21049,6 +21055,7 @@ connubially
 conoidal
 conoids
 conominee
+conominees
 conquered
 conquerer
 conqueror
@@ -21643,6 +21650,7 @@ convicts
 convince
 convinced
 convincer
+convincing
 convincingly
 convincingness
 conviviality
@@ -22792,6 +22800,7 @@ coursing
 coursings
 court
 courted
+courteous
 courteously
 courteousness
 courteousnesses
@@ -23808,6 +23817,7 @@ crudites
 crudities
 crudity
 cruel
+crueler
 cruelest
 crueller
 cruellest
@@ -24461,6 +24471,7 @@ custom
 customaries
 customarily
 customariness
+customarinesses
 customer
 customers
 customhouse
@@ -25287,6 +25298,7 @@ davit
 davits
 davy
 daw
+dawdle
 dawdled
 dawdler
 dawdlers
@@ -26153,6 +26165,7 @@ definiens
 definite
 definitely
 definiteness
+definition
 definitional
 definitions
 definitive
@@ -27896,6 +27909,7 @@ dhoora
 dhooras
 dhooti
 dhooties
+dhootis
 dhotis
 dhourra
 dhurnas
@@ -43113,6 +43127,7 @@ girdlers
 girdling
 girds
 girlfriend
+girlfriends
 girlhood
 girlie
 girlier
@@ -45270,6 +45285,7 @@ gullies
 gulling
 gulls
 gullwing
+gully
 gulosities
 gulp
 gulped
@@ -46904,6 +46920,7 @@ hedgehoppers
 hedgepigs
 hedger
 hedgerow
+hedgers
 hedges
 hedgier
 hedgiest
@@ -53793,6 +53810,7 @@ invisibly
 invital
 invitations
 invitatories
+invitatory
 invited
 invitee
 inviter
@@ -59435,6 +59453,7 @@ looked
 looker
 looking
 lookisms
+lookout
 lookouts
 looksism
 looksisms
@@ -60531,6 +60550,7 @@ mainline
 mainlined
 mainliner
 mainliners
+mainmasts
 mains
 mainsail
 mainsails
@@ -64812,6 +64832,7 @@ moderner
 modernisation
 modernisations
 modernise
+modernised
 modernises
 modernist
 modernists
@@ -65660,6 +65681,7 @@ mos
 mosaic
 mosaicism
 mosaicist
+mosaicking
 mosaiclike
 mosaics
 mosasaur
@@ -66339,6 +66361,7 @@ mummifies
 mummify
 mumming
 mummying
+mump
 mumped
 mumper
 mumps
@@ -73224,6 +73247,7 @@ overnighter
 overnighters
 overnighting
 overnourished
+overnourishes
 overnutritions
 overoperate
 overoperated
@@ -76308,6 +76332,7 @@ perfunctorily
 perfunctoriness
 perfusate
 perfusates
+perfuse
 perfused
 perfuses
 perfusion
@@ -76486,6 +76511,7 @@ permeate
 permeated
 permeates
 permeating
+permeations
 permeators
 permed
 permillage
@@ -83720,6 +83746,7 @@ puts
 putsches
 putschists
 putt
+putted
 puttees
 putter
 puttered
@@ -88024,6 +88051,7 @@ rendezvoused
 rendezvousing
 rendible
 rendition
+rends
 renegade
 renegaded
 renegades
@@ -88734,6 +88762,7 @@ reseal
 resealable
 resealing
 reseals
+research
 researched
 researches
 researching
@@ -91396,6 +91425,7 @@ runt
 runtier
 runtiness
 runtinesses
+runtish
 runty
 runways
 rupee
@@ -97142,6 +97172,7 @@ sleeved
 sleevelets
 sleeving
 sleighed
+sleigher
 sleighers
 sleight
 sleights
@@ -99606,6 +99637,7 @@ splashed
 splasher
 splashes
 splashier
+splashily
 splashinesses
 splashing
 splashy
@@ -109932,6 +109964,7 @@ troupe
 trouper
 troupers
 troupes
+troupial
 troupials
 trouping
 trousseaux
@@ -114251,6 +114284,7 @@ useable
 useably
 useful
 usefully
+usefulness
 usefulnesses
 useless
 uselessly
@@ -117961,6 +117995,7 @@ win
 winced
 winceys
 winched
+wincher
 winches
 windable
 windage
