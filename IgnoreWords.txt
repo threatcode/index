@@ -3630,6 +3630,7 @@ annals
 annas
 annates
 anneal
+annealer
 annealers
 annealing
 annelidan
@@ -3907,6 +3908,7 @@ antiapartheid
 antiaphrodisiac
 antiarins
 antiarmor
+antiarrhythmic
 antiars
 antiarthritic
 antiarthritics
@@ -7063,6 +7065,7 @@ bach
 bached
 bachelor
 bachelorettes
+bachelorhoods
 bachelors
 baches
 bacillar
@@ -11590,6 +11593,7 @@ borrower
 borrowers
 borscht
 borschts
+borsht
 borshts
 bort
 borts
@@ -14038,6 +14042,7 @@ calibre
 calibres
 calices
 calicles
+calico
 calicos
 calif
 califates
@@ -14458,6 +14463,7 @@ cannoli
 cannolis
 cannonade
 cannonaded
+cannonading
 cannonballing
 cannonballs
 cannoneer
@@ -19990,6 +19996,7 @@ commonest
 commonness
 commonnesses
 commonplace
+commonplaceness
 commons
 commonsense
 commonsensible
@@ -20455,6 +20462,7 @@ concertmeister
 concertmeisters
 concertos
 concession
+concessionaire
 concessionaires
 concessionary
 concessioner
@@ -31548,6 +31556,7 @@ duplex
 duplexer
 duplexers
 duplexities
+duplexity
 duplicate
 duplicated
 duplicates
@@ -36159,6 +36168,7 @@ expertise
 expertises
 expertism
 expertize
+expertizing
 expertly
 expertness
 experts
@@ -43361,6 +43371,7 @@ glop
 gloppier
 gloppy
 gloria
+gloried
 glories
 glorification
 glorifications
@@ -44338,6 +44349,7 @@ grassland
 grasslands
 grassless
 grasslike
+grassroots
 grassy
 grat
 grate
@@ -45235,6 +45247,7 @@ gunnings
 gunnybag
 gunnybags
 gunnysack
+gunnysacks
 gunplay
 gunpoint
 gunpoints
@@ -46992,6 +47005,7 @@ helms
 helmsman
 helmsmen
 helo
+helot
 helotage
 helotages
 helotism
@@ -50595,6 +50609,7 @@ impersonating
 impersonator
 impertinence
 impertinency
+impertinently
 imperturbable
 imperturbably
 impervious
@@ -51302,6 +51317,7 @@ incrosses
 incrust
 incrustation
 incrustations
+incrusted
 incrusting
 incubate
 incubates
@@ -52550,6 +52566,7 @@ instancing
 instancy
 instant
 instantaneities
+instantaneity
 instantaneously
 instantiate
 instantiated
@@ -53198,6 +53215,7 @@ intersects
 intersegment
 intersensory
 interservice
+intersession
 intersessions
 intersex
 intersexual
@@ -54700,6 +54718,7 @@ jibbers
 jibbing
 jibbooms
 jibbs
+jibed
 jiber
 jibers
 jibes
@@ -64106,6 +64125,7 @@ miskept
 miskick
 miskicked
 miskicks
+misknew
 misknowing
 misknowledges
 misknown
@@ -67671,6 +67691,7 @@ newsletters
 newsmagazine
 newsmagazines
 newsmaker
+newsmen
 newsmonger
 newspaper
 newspapered
@@ -69489,6 +69510,7 @@ nucleoprotein
 nucleoproteins
 nucleoside
 nucleosomes
+nucleosyntheses
 nucleosynthetic
 nucleotidase
 nucleotidases
@@ -70721,6 +70743,7 @@ openmouthedness
 opennesses
 opens
 openwork
+openworks
 opera
 operable
 operagoer
@@ -70878,6 +70901,7 @@ optioning
 optoelectronic
 optoelectronics
 optokinetic
+optometer
 optometers
 optometric
 optometries
@@ -76383,6 +76407,7 @@ perphenazine
 perplex
 perplexed
 perplexer
+perplexers
 perplexing
 perplexities
 perplexity
@@ -79390,6 +79415,7 @@ pome
 pomegranate
 pomegranates
 pomelo
+pomfret
 pommee
 pommeling
 pommelled
@@ -88126,6 +88152,7 @@ repletion
 repleviable
 replevied
 replevies
+replevin
 replevins
 replevy
 replevying
@@ -88919,6 +88946,7 @@ restimulates
 restimulation
 restimulations
 resting
+restitch
 restitched
 restitches
 restitching
@@ -95477,6 +95505,7 @@ shorans
 shorebird
 shorebirds
 shorefront
+shorefronts
 shoreless
 shoreside
 shoreward
@@ -95753,6 +95782,7 @@ sialidan
 sialidans
 sialoid
 siamang
+siamangs
 siameses
 sib
 sibb
@@ -96792,6 +96822,7 @@ slap
 slapdashes
 slaphappier
 slaphappy
+slapped
 slapper
 slapping
 slapstick
@@ -101030,6 +101061,7 @@ stoneflies
 stonemasons
 stoner
 stoners
+stones
 stonewall
 stonewalled
 stonewaller
@@ -103212,6 +103244,7 @@ superlobbyist
 superlobbyists
 superlong
 superloyalist
+superloyalists
 superlunar
 superlunary
 superluxurious
@@ -106165,6 +106198,7 @@ tessellation
 tessera
 tesseract
 tesseracts
+tessituras
 tessiture
 test
 testa
@@ -109224,6 +109258,7 @@ tricolors
 tricolour
 tricolours
 tricorn
+tricorne
 tricornered
 tricornes
 tricot
