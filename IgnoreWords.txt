@@ -4618,6 +4618,7 @@ aporias
 aposematic
 aposiopeses
 aposporic
+apospories
 apospory
 apostacy
 apostasies
@@ -6910,6 +6911,7 @@ axonal
 axone
 axonemal
 axonemes
+axones
 axonometric
 axons
 axoplasmic
@@ -7660,6 +7662,7 @@ bank
 bankabilities
 bankability
 bankbook
+bankcards
 banked
 banking
 bankings
@@ -11052,6 +11055,7 @@ bobsled
 bobsledded
 bobsledder
 bobsledding
+bobsleds
 bobsleigh
 bobstay
 bobstays
@@ -18965,6 +18969,7 @@ cockboats
 cockchafers
 cockcrow
 cockcrows
+cocker
 cockered
 cockerel
 cockerels
@@ -19889,6 +19894,7 @@ commensalism
 commensalisms
 commensally
 commensurable
+commensurably
 commensurate
 commensurately
 commensuration
@@ -23182,6 +23188,7 @@ crazyweeds
 creaked
 creakier
 creakiest
+creakily
 creakinesses
 creaking
 creaks
@@ -32288,6 +32295,7 @@ effortless
 effortlessly
 effortlessness
 effs
+effulge
 effulged
 effulgence
 effulgent
@@ -33560,6 +33568,7 @@ endotheliomas
 endothelium
 endotherm
 endothermic
+endotherms
 endotoxic
 endotoxin
 endotoxins
@@ -37674,6 +37683,7 @@ fenestrations
 fenlands
 fennec
 fennecs
+fennel
 fennels
 fennier
 fenniest
@@ -39812,6 +39822,7 @@ for
 fora
 forage
 foragers
+forages
 foraging
 foramen
 foramina
@@ -40019,6 +40030,7 @@ forestage
 forestages
 forestal
 forestalled
+forestallers
 forestalls
 forestation
 forestay
@@ -41192,6 +41204,7 @@ fumigants
 fumigated
 fumigating
 fumigators
+fuming
 fumuli
 fumy
 funambulism
@@ -42230,6 +42243,7 @@ gazaboes
 gazabos
 gazanias
 gazar
+gazars
 gaze
 gazebo
 gazeboes
@@ -44270,6 +44284,7 @@ grape
 grapefruit
 graperies
 grapes
+grapeshot
 graph
 graphed
 grapheme
@@ -53818,6 +53833,7 @@ ironizes
 ironlike
 ironman
 ironmaster
+ironmasters
 ironmen
 ironmongeries
 ironmongers
@@ -55882,6 +55898,7 @@ kindled
 kindler
 kindlers
 kindles
+kindliest
 kindliness
 kindlings
 kindly
@@ -59090,6 +59107,7 @@ lofty
 logan
 loganberries
 loganberry
+logania
 logans
 logaoedic
 logarithms
@@ -60527,6 +60545,7 @@ malihinis
 maline
 malinger
 malingered
+malingerer
 malingering
 malingers
 malison
@@ -62174,6 +62193,7 @@ mensas
 mensches
 menschy
 mense
+mensed
 menseful
 menseless
 menses
@@ -67579,6 +67599,7 @@ neutralisms
 neutralist
 neutralistic
 neutralities
+neutrality
 neutralization
 neutralizations
 neutralize
@@ -69734,6 +69755,7 @@ obeisances
 obeisant
 obeisantly
 obelias
+obelise
 obelised
 obelises
 obelising
@@ -72448,6 +72470,7 @@ overbake
 overbaked
 overbakes
 overbalance
+overbalances
 overbalancing
 overbear
 overbearing
@@ -77327,6 +77350,7 @@ phytopathogens
 phytopathology
 phytophagous
 phytoplankter
+phytoplankton
 phytoplanktons
 phytosociology
 phytosterols
@@ -82169,6 +82193,7 @@ properest
 properness
 propers
 property
+propertyless
 prophage
 prophages
 prophase
@@ -84857,6 +84882,7 @@ rashness
 rasing
 rasorial
 rasp
+raspberries
 raspberry
 rasped
 rasper
@@ -88776,6 +88802,7 @@ resowing
 resows
 respace
 respaced
+respaces
 respacing
 respade
 respaded
@@ -92297,6 +92324,7 @@ savarin
 savarins
 savates
 save
+saveable
 saveloys
 saver
 saves
@@ -95837,6 +95865,7 @@ sideswipes
 sideswiping
 sidetrack
 sidetracking
+sidetracks
 sidewalk
 sideward
 sideway
@@ -104082,6 +104111,7 @@ swounded
 swounding
 swouning
 swouns
+swum
 swung
 sybaritic
 sybaritically
@@ -105156,6 +105186,7 @@ tarty
 tarweed
 tarzans
 task
+taskbar
 tasked
 taskmaster
 taskmistress
@@ -110916,6 +110947,7 @@ unassertively
 unassimilable
 unassisted
 unassociated
+unassuageable
 unassuming
 unassured
 unatoned
@@ -111033,6 +111065,7 @@ unbooted
 unborn
 unbosom
 unbosomed
+unbosomer
 unbosomers
 unbosoming
 unbosoms
@@ -111815,6 +111848,7 @@ undresses
 undressing
 undrest
 undrinkable
+undrunk
 undue
 undulance
 undulances
@@ -115640,6 +115674,7 @@ vocatively
 vocatives
 voces
 vociferant
+vociferate
 vociferates
 vociferation
 vociferators
