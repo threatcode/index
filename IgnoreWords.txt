@@ -7451,6 +7451,7 @@ baldy
 bale
 baled
 baleen
+baleens
 balefulness
 balefulnesses
 baling
@@ -7867,6 +7868,7 @@ barkiest
 barking
 barky
 barleducs
+barley
 barleycorn
 barleycorns
 barleys
@@ -7898,6 +7900,7 @@ barograph
 barographic
 barographs
 barometer
+barometers
 barometrically
 barometries
 barometry
@@ -12807,6 +12810,7 @@ brusk
 bruskest
 brusque
 brusqueness
+brusquenesses
 brusqueries
 brusquest
 brut
@@ -14385,6 +14389,7 @@ candies
 candle
 candleberries
 candlefishes
+candleholder
 candleholders
 candlelight
 candlelights
@@ -18522,6 +18527,7 @@ cloacae
 cloak
 cloaked
 cloaking
+cloakroom
 cloakrooms
 cloaks
 clobber
@@ -19217,6 +19223,7 @@ coevalities
 coevally
 coevals
 coevolve
+coevolved
 coevolving
 coexecutors
 coexert
@@ -20803,6 +20810,7 @@ conforms
 confounded
 confoundedly
 confounder
+confounders
 confounding
 confoundingly
 confraternity
@@ -24097,6 +24105,7 @@ cultivated
 cultivating
 cultivation
 cultivator
+cultivators
 cultlike
 cultrate
 cultrated
@@ -24169,6 +24178,7 @@ cup
 cupbearers
 cupboard
 cupboards
+cupcake
 cupel
 cupeler
 cupelers
@@ -25747,6 +25757,7 @@ declension
 declinable
 declination
 declinational
+declinations
 decline
 decliner
 decliners
@@ -29611,6 +29622,7 @@ disseisees
 disseises
 disseisin
 disseisins
+disseize
 disseized
 disseizee
 disseizees
@@ -30789,6 +30801,7 @@ doxycycline
 doxycyclines
 doyen
 doyenne
+doyens
 doyley
 doyleys
 dozed
@@ -39189,6 +39202,7 @@ floggable
 flogged
 flogger
 flogging
+floggings
 flogs
 flokati
 flokatis
@@ -42282,6 +42296,7 @@ gazillion
 gazillions
 gazogene
 gazoo
+gazoos
 gazpacho
 gazpachos
 gazump
@@ -49083,6 +49098,7 @@ humpier
 humpiest
 humpiness
 humpinesses
+humpless
 humps
 hums
 humungous
@@ -49173,6 +49189,7 @@ hurtle
 hurtles
 hurtless
 hurts
+husband
 husbanded
 husbander
 husbanding
@@ -49495,6 +49512,7 @@ hyperarid
 hyperarousal
 hyperarousals
 hyperawareness
+hyperbola
 hyperbolas
 hyperboles
 hyperbolical
@@ -54688,6 +54706,7 @@ jetfoils
 jetlag
 jetlike
 jetliner
+jetliners
 jeton
 jetons
 jetport
@@ -60278,6 +60297,7 @@ magistrally
 magistrate
 magistrates
 magistratical
+magistratically
 magistrature
 magistratures
 maglev
@@ -70306,6 +70326,7 @@ offices
 official
 officialdom
 officialdoms
+officialeses
 officialisms
 officially
 officiant
@@ -73560,6 +73581,7 @@ oviparity
 oviposit
 oviposited
 ovipositing
+oviposition
 ovipositional
 ovipositions
 ovipositor
@@ -74857,6 +74879,7 @@ parroty
 parrs
 parry
 parrying
+pars
 parsec
 parsed
 parser
@@ -82025,6 +82048,7 @@ projection
 projectional
 projectionist
 projectionists
+projections
 projective
 projector
 projectors
@@ -89497,6 +89521,7 @@ revenged
 revengefulness
 revenger
 revenges
+revenuer
 revenues
 reverable
 reverb
@@ -90353,6 +90378,7 @@ riverine
 rivers
 riversides
 riverweed
+rives
 riveted
 riveter
 riveters
@@ -93375,6 +93401,7 @@ sculkers
 sculking
 sculks
 sculled
+sculleries
 scullers
 scullery
 sculling
@@ -95108,6 +95135,7 @@ sheikdoms
 sheikhdom
 sheikhdoms
 sheikhs
+sheiks
 sheilas
 sheitan
 sheitans
@@ -97120,6 +97148,7 @@ slobbering
 slobbers
 slobbery
 slobbier
+slobbish
 slobs
 sloe
 slog
@@ -103926,6 +103955,7 @@ swatch
 swatches
 swath
 swathe
+swather
 swathes
 swaths
 swats
@@ -104816,6 +104846,7 @@ tailskids
 tailslide
 tailslides
 tailspin
+tailspinned
 tailspins
 tailstock
 tailstocks
@@ -110700,6 +110731,7 @@ ulcerated
 ulcerations
 ulcering
 ulcers
+ulemas
 ulexites
 ullage
 ullaged
@@ -113566,6 +113598,7 @@ upas
 upases
 upbear
 upbearer
+upbearing
 upbeat
 upbeats
 upboil
@@ -113804,6 +113837,7 @@ upstart
 upstarted
 upstarting
 upstarts
+upstate
 upstaters
 upstates
 upstepped
@@ -114172,6 +114206,7 @@ vaccinates
 vaccinating
 vaccinations
 vaccinator
+vaccinators
 vaccine
 vaccinees
 vaccines
