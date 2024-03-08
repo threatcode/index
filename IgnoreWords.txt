@@ -2556,6 +2556,7 @@ aloin
 aloins
 alone
 alonenesses
+along
 alongside
 aloof
 aloofly
@@ -7219,6 +7220,7 @@ backspin
 backstab
 backstabbed
 backstabber
+backstabbers
 backstabbings
 backstages
 backstair
@@ -9155,6 +9157,7 @@ benzimidazoles
 benzin
 benzine
 benzins
+benzoapyrene
 benzoapyrenes
 benzoates
 benzocaine
@@ -11987,6 +11990,7 @@ brachiopod
 brachs
 brachycephalic
 brachycephaly
+brachypterous
 bracing
 bracingly
 bracings
@@ -16797,6 +16801,7 @@ checkmarks
 checkmate
 checkmated
 checkmates
+checkmating
 checkoff
 checkouts
 checkpoint
@@ -21043,6 +21048,7 @@ connexions
 connivance
 connivances
 connived
+connivent
 conniver
 connivers
 connivery
@@ -26569,6 +26575,7 @@ deltic
 deltoid
 deltoidei
 deltoideus
+deltoids
 delts
 deluded
 deludes
@@ -27062,6 +27069,7 @@ depolymerizing
 depone
 deponed
 deponent
+deponents
 depones
 depopulate
 depopulates
@@ -31316,6 +31324,7 @@ drugmaker
 drugs
 drugstore
 druid
+druidess
 druidic
 druidical
 druidism
@@ -33058,6 +33067,7 @@ embouchure
 embouchures
 embow
 embowel
+emboweled
 emboweling
 embowelling
 embowels
@@ -33207,6 +33217,7 @@ emodin
 emollients
 emoluments
 emoted
+emoter
 emoticons
 emoting
 emotional
@@ -45417,6 +45428,7 @@ gurges
 gurging
 gurgle
 gurgled
+gurglet
 gurgling
 gurnard
 gurney
@@ -49613,6 +49625,7 @@ hyoscyamine
 hyp
 hypabyssal
 hypabyssally
+hypaethral
 hypallage
 hypallages
 hypanthium
@@ -54311,6 +54324,7 @@ isophotal
 isophotes
 isopleth
 isoplethic
+isopodan
 isoprenaline
 isoprenalines
 isoprene
@@ -60212,6 +60226,7 @@ ma
 mac
 macaber
 macabre
+macabrely
 macaco
 macadamia
 macadamias
@@ -67141,6 +67156,7 @@ naseberry
 nasion
 nasions
 nasogastric
+nasopharyngeal
 nasopharynges
 nasopharynx
 nastic
@@ -67206,6 +67222,7 @@ nattinesses
 natty
 natural
 naturalises
+naturalising
 naturalism
 naturalisms
 naturalist
@@ -68323,6 +68340,7 @@ noels
 noesises
 noetic
 nogged
+noggin
 noggings
 noggins
 nogs
@@ -75509,6 +75527,7 @@ pause
 paused
 pauser
 pausers
+pausing
 pavan
 pavane
 pavans
@@ -76205,6 +76224,7 @@ pepperonis
 peppers
 peppertree
 peppertrees
+peppery
 peppier
 peppiest
 peppily
@@ -84776,6 +84796,7 @@ raffishly
 raffishness
 raffle
 raffler
+rafflers
 rafflesia
 rafflesias
 raffs
@@ -85326,6 +85347,7 @@ ravel
 raveled
 ravelers
 raveling
+ravelings
 ravelled
 ravellers
 ravellings
@@ -90055,6 +90077,7 @@ rheumatiz
 rheumatology
 rheumier
 rheumiest
+rheums
 rheumy
 rhigolenes
 rhinencephala
@@ -91502,6 +91525,7 @@ ruralizes
 ruralizing
 rurally
 rurban
+ruses
 rush
 rushee
 rushees
@@ -101034,6 +101058,7 @@ stibine
 stibines
 stibium
 stibiums
+stibnite
 stibnites
 stichic
 stichomythias
@@ -101187,6 +101212,7 @@ stipend
 stipendiaries
 stipends
 stipiform
+stipitate
 stipple
 stippled
 stippler
@@ -102753,6 +102779,7 @@ subtending
 subtends
 subterfuge
 subterfuges
+subterminal
 subterraneanly
 subtextual
 subtheme
@@ -103261,6 +103288,7 @@ sunchokes
 sundae
 sundecks
 sunder
+sunderers
 sundering
 sunders
 sundews
@@ -104405,6 +104433,7 @@ swives
 swivet
 swivets
 swiving
+swizzled
 swizzler
 swizzlers
 swizzles
@@ -105354,6 +105383,7 @@ tantalised
 tantalite
 tantalites
 tantalizers
+tantalizes
 tantalous
 tantalum
 tantalums
@@ -110142,6 +110172,7 @@ trussings
 trustabilities
 trustability
 trustee
+trusteeing
 trusteeship
 trusteeships
 truster
@@ -111269,6 +111300,7 @@ unanchored
 unanchors
 unaneled
 unanimities
+unanimity
 unanimous
 unanimously
 unannexed
@@ -116241,6 +116273,7 @@ votiveness
 votives
 votress
 votresses
+vouched
 vouchered
 vouchering
 vouchers
@@ -118157,6 +118190,7 @@ wineskins
 winesops
 winey
 wingback
+wingbacks
 wingbow
 wingbows
 wingchair
@@ -118732,6 +118766,7 @@ workprint
 workprints
 workroom
 workrooms
+works
 workshop
 workshops
 workspace
