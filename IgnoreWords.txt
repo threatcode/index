@@ -5982,6 +5982,7 @@ astrophotograph
 astrophysical
 astrophysicist
 astrophysicists
+astrophysics
 astute
 astutely
 astuteness
@@ -6840,6 +6841,7 @@ awesomeness
 awesomenesses
 awestruck
 awfuller
+awfullest
 awfully
 awfulness
 awfulnesses
@@ -7441,6 +7443,7 @@ baldies
 balding
 baldish
 baldly
+baldnesses
 baldpate
 baldpated
 baldpates
@@ -8255,6 +8258,7 @@ bawdrics
 bawds
 bawl
 bawler
+bawling
 bawls
 bawtie
 bawties
@@ -13838,6 +13842,7 @@ cadenza
 cades
 cadets
 cadetship
+cadetships
 cadged
 cadger
 cadgers
@@ -20868,6 +20873,7 @@ conglomerating
 conglomeration
 conglomerations
 conglomerative
+conglutinate
 conglutinates
 conglutinations
 congo
@@ -22674,6 +22680,7 @@ counterspies
 counterspy
 counterstain
 counterstained
+counterstaining
 counterstate
 counterstated
 counterstates
@@ -24269,6 +24276,7 @@ cureless
 curer
 curers
 cures
+curets
 curette
 curettements
 curettes
@@ -28530,6 +28538,7 @@ dinettes
 ding
 dingbats
 dingdong
+dingdonged
 dingdonging
 dingdongs
 dinge
@@ -29344,6 +29353,7 @@ dislikers
 dislikes
 disliking
 dislimn
+dislimned
 dislimning
 dislimns
 dislocated
@@ -30270,6 +30280,7 @@ doling
 doll
 dollar
 dollarize
+dollarized
 dollarizes
 dollarizing
 dollars
@@ -31176,6 +31187,7 @@ drops
 dropshot
 dropshots
 dropsical
+dropsied
 dropsies
 dropsy
 dropt
@@ -33211,6 +33223,7 @@ employing
 employment
 empoison
 empoisoned
+empoisoning
 empoisonment
 empoisonments
 empoisons
@@ -36388,6 +36401,7 @@ extendedness
 extendednesses
 extender
 extendible
+extending
 extends
 extensibilities
 extensibility
@@ -41933,6 +41947,7 @@ gantlets
 gantlines
 gantlope
 gantlopes
+gantry
 ganymede
 gaoler
 gaolers
@@ -43776,6 +43791,7 @@ goldbricked
 goldbricks
 goldbug
 goldener
+goldenest
 goldeneye
 goldenly
 goldenness
@@ -46808,7 +46824,9 @@ hebraizes
 hecatomb
 heckle
 heckled
+hecklers
 heckling
+hectare
 hectic
 hectical
 hectically
@@ -50350,6 +50368,7 @@ immemorially
 immense
 immensely
 immensenesses
+immenser
 immensest
 immensities
 immensity
@@ -54343,6 +54362,7 @@ jackers
 jackets
 jackfish
 jackfishes
+jackfruit
 jackhammer
 jackhammered
 jackhammering
@@ -56905,6 +56925,7 @@ landholder
 landholders
 landholding
 landings
+landlady
 landlers
 landless
 landlessness
@@ -59469,6 +59490,7 @@ lostness
 lostnesses
 lot
 lota
+loth
 lothario
 lotharios
 lothsome
@@ -61965,6 +61987,7 @@ megaparsec
 megaparsecs
 megaphoned
 megaphones
+megaphoning
 megapixel
 megapixels
 megaplexes
@@ -63380,6 +63403,7 @@ millenarian
 millenarianism
 millenarianisms
 millenarians
+millenaries
 millenary
 millennia
 millennial
@@ -64456,6 +64480,7 @@ misstrike
 misstrikes
 misstruck
 misstyle
+misstyling
 missuited
 missuiting
 missuses
@@ -67020,6 +67045,7 @@ nativisms
 nativist
 nativistic
 nativists
+nativity
 natrium
 natriureses
 natriuresis
@@ -74999,6 +75025,7 @@ pashaliks
 pashas
 pashed
 pashes
+pashing
 pashmina
 pashminas
 pasodoble
@@ -86846,6 +86873,7 @@ reformism
 reformisms
 reformist
 reformulate
+reformulated
 reformulating
 reformulations
 refortified
@@ -87024,6 +87052,7 @@ regisseur
 registerable
 registering
 registers
+registrant
 registrars
 registration
 registrations
@@ -90474,6 +90503,7 @@ rochet
 rock
 rockabies
 rockable
+rockabye
 rockaway
 rockaways
 rockbound
@@ -94156,6 +94186,7 @@ semiological
 semiologically
 semiologies
 semiology
+semiopen
 semioses
 semiosis
 semiotic
@@ -97975,6 +98006,7 @@ socializing
 socially
 socials
 societal
+societally
 societies
 society
 sociobiological
@@ -101060,6 +101092,7 @@ stoking
 stole
 stoled
 stoles
+stolider
 stolidity
 stolidly
 stollen
@@ -103789,6 +103822,7 @@ suspend
 suspenders
 suspends
 suspense
+suspensefulness
 suspenser
 suspensers
 suspenses
@@ -111703,6 +111737,7 @@ underhair
 underhand
 underhanded
 underhandedly
+underhands
 underheat
 underheats
 underhung
