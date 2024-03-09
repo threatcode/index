@@ -2619,6 +2619,7 @@ alter
 alterabilities
 alterability
 alterable
+alterants
 alteration
 altercate
 altercated
@@ -3483,6 +3484,7 @@ angelus
 anger
 angering
 angerly
+angers
 angina
 anginas
 anginose
@@ -7518,6 +7520,7 @@ balefulnesses
 baling
 balisaurs
 balkanization
+balkanize
 balkanized
 balked
 balkier
@@ -10364,6 +10367,7 @@ bitchery
 bitchier
 bitchily
 bitchiness
+bitchinesses
 bite
 bites
 bitewing
@@ -11391,6 +11395,7 @@ bombloads
 bombproof
 bombproofed
 bombproofing
+bombproofs
 bombs
 bombshell
 bombshells
@@ -11848,6 +11853,7 @@ bounce
 bounced
 bouncer
 bouncers
+bounces
 bouncier
 bounciest
 bouncily
@@ -15907,6 +15913,7 @@ cavatina
 cavatinas
 cave
 caveated
+caveating
 caveator
 caveators
 cavefish
@@ -19173,6 +19180,7 @@ cockney
 cockneyfy
 cockneyfying
 cockneyism
+cockneys
 cockpits
 cocks
 cockscomb
@@ -21514,6 +21522,7 @@ contentedly
 contentedness
 contentednesses
 contenting
+contentions
 contentious
 contentiously
 contentiousness
@@ -24356,6 +24365,7 @@ cummers
 cummin
 cummins
 cumquats
+cumshaw
 cumulate
 cumulated
 cumulates
@@ -27419,6 +27429,7 @@ dermabrasions
 dermas
 dermatitises
 dermatogen
+dermatogens
 dermatoglyphic
 dermatologist
 dermatologists
@@ -28736,6 +28747,7 @@ dimerous
 dimers
 dimes
 dimeters
+dimethoate
 dimethoates
 dimetric
 dimidiates
@@ -30606,6 +30618,7 @@ domicile
 domiciled
 domiciliated
 domiciliates
+domiciliating
 domiciling
 domicils
 dominance
@@ -42225,6 +42238,7 @@ gametogeneses
 gametogenesis
 gametogenic
 gametogenous
+gametophore
 gamey
 gamic
 gamiest
@@ -43237,6 +43251,7 @@ gibbeted
 gibbets
 gibbetting
 gibbing
+gibbon
 gibbosity
 gibbous
 gibbsite
@@ -45362,6 +45377,7 @@ gruelingly
 gruelings
 grueller
 gruellings
+gruels
 gruesomely
 gruesomenesses
 gruesomest
@@ -47238,6 +47254,7 @@ hectograph
 hectographing
 hectographs
 hectometer
+hectoring
 hectors
 heddle
 heddles
@@ -51297,6 +51314,7 @@ imprinters
 imprinting
 imprintings
 imprison
+imprisoned
 imprisoning
 imprisonments
 imprisons
@@ -51958,6 +51976,7 @@ index
 indexable
 indexation
 indexations
+indexed
 indexer
 indexers
 indexicals
@@ -54155,6 +54174,7 @@ investigational
 investigations
 investigative
 investigator
+investitures
 investment
 investments
 investor
@@ -58254,6 +58274,7 @@ legitimation
 legitimations
 legitimatized
 legitimatizes
+legitimatizing
 legitimators
 legitimise
 legitimised
@@ -60309,6 +60330,7 @@ luminously
 luminousness
 luminousnesses
 lummox
+lummoxes
 lumpectomies
 lumpen
 lumpfish
@@ -75205,6 +75227,7 @@ paragenetically
 paraglided
 paraglides
 paragliding
+paragoge
 paragoges
 paragon
 paragoned
@@ -82572,6 +82595,7 @@ proceed
 proceeded
 proceeders
 proceedings
+procercoid
 procercoids
 process
 processer
@@ -84689,6 +84713,7 @@ quakingly
 quaky
 quale
 qualification
+qualified
 qualifiedly
 qualifier
 qualifying
@@ -85247,6 +85272,7 @@ radiately
 radiation
 radiational
 radiative
+radiator
 radicalised
 radicalising
 radicalism
@@ -90505,6 +90531,7 @@ revolutionist
 revolutionists
 revolutionize
 revolutionizer
+revolutionizers
 revolutionizes
 revolutionizing
 revolvable
@@ -99851,6 +99878,7 @@ spaying
 spaz
 spazz
 spazzes
+speak
 speakeasy
 speaker
 speakerphone
@@ -101412,6 +101440,7 @@ steamrollered
 steamrollering
 steamrollers
 steamrolling
+steamrolls
 steamship
 steamships
 steamy
@@ -102667,6 +102696,7 @@ studiousnesses
 studliest
 studly
 studworks
+study
 stuff
 stuffer
 stuffers
@@ -109019,6 +109049,7 @@ topgallant
 topgallants
 toph
 tophe
+tophi
 topi
 topiaries
 topiary
@@ -112583,6 +112614,7 @@ uncurl
 uncurled
 uncurrent
 uncursed
+uncurtained
 uncus
 uncustomarily
 uncut
@@ -112850,6 +112882,7 @@ understandings
 understated
 understatement
 understating
+understeer
 understeers
 understories
 understory
@@ -118839,6 +118872,7 @@ wills
 willy
 willyard
 willyart
+willywaw
 willywaws
 wilt
 wilted
@@ -119489,6 +119523,7 @@ workaholics
 workaholism
 workaholisms
 workbag
+workbags
 workbaskets
 workbenches
 workboat
