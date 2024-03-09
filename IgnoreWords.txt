@@ -3373,6 +3373,7 @@ ancillas
 ancipital
 ancon
 anconal
+ancone
 anconeal
 ancones
 anconoid
@@ -9200,6 +9201,7 @@ benevolence
 benevolences
 benevolently
 bengalines
+benighted
 benightedly
 benightedness
 benignancies
@@ -10201,6 +10203,7 @@ biotas
 biotech
 biotechnical
 biotechnologies
+biotechnologist
 biotechnology
 biotechs
 biotelemetries
@@ -14326,6 +14329,7 @@ calumniating
 calumniation
 calumniations
 calumniator
+calumnies
 calumnious
 calumniously
 calumny
@@ -16372,6 +16376,7 @@ certificate
 certificates
 certificating
 certification
+certifications
 certified
 certifies
 certiorari
@@ -22744,6 +22749,7 @@ coulibiacs
 coulis
 coulisse
 coulisses
+couloir
 coulomb
 coulombs
 coulometers
@@ -25418,6 +25424,7 @@ dark
 darked
 darken
 darkened
+darker
 darkest
 darkey
 darkie
@@ -27719,6 +27726,7 @@ despisals
 despise
 despisement
 despisements
+despiser
 despises
 despising
 despite
@@ -29789,6 +29797,7 @@ dispatcher
 dispatchers
 dispatches
 dispatching
+dispelled
 dispeller
 dispellers
 dispelling
@@ -40427,6 +40436,7 @@ foredoes
 foredoomed
 forefaces
 forefeeling
+forefeels
 forefeet
 forefelt
 forefended
@@ -40796,6 +40806,7 @@ fortuned
 fortunes
 forty
 forum
+forward
 forwarded
 forwarder
 forwardest
@@ -42637,6 +42648,7 @@ gastraeas
 gastral
 gastrea
 gastrectomies
+gastrectomy
 gastric
 gastrin
 gastrins
@@ -45037,6 +45049,7 @@ great
 greatcoat
 greatcoats
 greatened
+greatens
 greater
 greatest
 greatly
@@ -46310,6 +46323,7 @@ haler
 halers
 half
 halfbacks
+halfbeaks
 halfhearted
 halflives
 halfpence
@@ -53960,6 +53974,7 @@ interveners
 intervening
 intervenor
 intervention
+interventionism
 interventionist
 interventions
 interview
@@ -54695,6 +54710,7 @@ isallobars
 isatin
 isatines
 isatinic
+isatins
 isba
 isbas
 ischaemia
@@ -58102,6 +58118,7 @@ lawmakings
 lawman
 lawmen
 lawn
+lawnmower
 lawns
 lawny
 lawrencium
@@ -59761,6 +59778,7 @@ lobstering
 lobsterings
 lobsterlike
 lobsterman
+lobstermen
 lobsters
 lobular
 lobularly
@@ -60173,6 +60191,7 @@ lordlings
 lordoma
 lordomas
 lordoses
+lordosis
 lordotic
 lords
 lordship
@@ -64208,6 +64227,7 @@ milliliters
 milliluces
 millilux
 milliluxes
+millimes
 millimeters
 millimho
 millimhos
@@ -64393,6 +64413,7 @@ minimaxes
 minimill
 minimills
 minimises
+minimising
 minimization
 minimizations
 minimize
@@ -68512,6 +68533,7 @@ neutrally
 neutralnesses
 neutrals
 neutrino
+neutrinoless
 neutrinos
 neutron
 neutronic
@@ -78092,6 +78114,7 @@ photocomposes
 photocomposing
 photocopier
 photocopy
+photocopying
 photocurrent
 photocurrents
 photodetectors
@@ -79530,6 +79553,7 @@ plays
 plaything
 playtime
 playtimes
+playwear
 playwright
 playwrighting
 playwrights
@@ -80136,6 +80160,7 @@ politesse
 politesses
 politest
 politic
+political
 politicalize
 politicalized
 politicalizes
@@ -85130,6 +85155,7 @@ quercetin
 quercetins
 quercine
 quercitron
+quercitrons
 queridas
 querier
 queriers
@@ -85998,6 +86024,7 @@ rarifies
 rarify
 raring
 rarities
+rarity
 rasbora
 rasboras
 rascal
@@ -86415,6 +86442,7 @@ reanalyses
 reanalyze
 reanalyzed
 reanalyzes
+reanalyzing
 reanimate
 reanimated
 reanimates
@@ -93305,6 +93333,7 @@ sarcenet
 sarcenets
 sarcina
 sarcinas
+sarcocarp
 sarcocarps
 sarcoid
 sarcoidoses
@@ -95172,6 +95201,7 @@ selkie
 sell
 sellable
 selle
+sellers
 selles
 selling
 sellotape
@@ -96468,6 +96498,7 @@ shillalahs
 shillelagh
 shillelaghs
 shillelah
+shilling
 shills
 shilpit
 shily
@@ -97998,6 +98029,7 @@ skyway
 skyways
 skywrite
 skywriter
+skywrites
 skywriting
 skywritings
 skywritten
@@ -106890,6 +106922,7 @@ tectite
 tectites
 tectonic
 tectonically
+tectonics
 tectonism
 tectonisms
 tectrices
@@ -108916,6 +108949,7 @@ tissuing
 tissular
 titanate
 titanates
+titaness
 titanesses
 titania
 titanias
@@ -112020,6 +112054,7 @@ tyrannised
 tyrannising
 tyrannizer
 tyrannizers
+tyrannizes
 tyrannosaur
 tyrannosaurs
 tyrannosauruses
