@@ -7752,6 +7752,7 @@ banknotes
 bankroll
 bankrolled
 bankroller
+bankrolling
 bankrolls
 bankruptcies
 bankrupting
@@ -8129,6 +8130,7 @@ basidiospore
 basidium
 basified
 basifier
+basifies
 basify
 basifying
 basilects
@@ -11720,6 +11722,7 @@ borrow
 borrowed
 borrower
 borrowers
+borrowings
 borscht
 borschts
 borsht
@@ -12102,6 +12105,7 @@ braciole
 brackens
 bracket
 bracketing
+brackets
 bract
 bracteal
 bracted
@@ -13925,6 +13929,7 @@ cachexic
 cachexies
 cachinnate
 cachinnated
+cachinnates
 cachinnation
 cachou
 cachuchas
@@ -18299,6 +18304,7 @@ clam
 clamantly
 clambake
 clambakes
+clamber
 clambered
 clamberer
 clamberers
@@ -31138,6 +31144,7 @@ dowsing
 doxologies
 doxology
 doxorubicin
+doxorubicins
 doxy
 doxycycline
 doxycyclines
@@ -32769,6 +32776,7 @@ egotistic
 egotistically
 egotists
 egregious
+egregiously
 egregiousness
 egregiousnesses
 egressed
@@ -35539,6 +35547,7 @@ eternize
 eternizes
 etesians
 ethambutol
+ethane
 ethanes
 ethanol
 ethanolamine
@@ -36392,6 +36401,7 @@ exilers
 eximious
 exine
 exines
+exing
 existed
 existences
 existent
@@ -42516,6 +42526,7 @@ garrisons
 garron
 garrons
 garrote
+garroted
 garroter
 garroters
 garroting
@@ -43483,6 +43494,7 @@ gingiva
 gingivectomies
 gingivectomy
 gingivitis
+gingivitises
 gingkoes
 gingkos
 ginkgo
@@ -45810,6 +45822,7 @@ gurgled
 gurglet
 gurgling
 gurnard
+gurnet
 gurney
 gurneys
 gursh
@@ -47637,6 +47650,7 @@ hemimorphisms
 hemin
 hemins
 hemiola
+hemiolas
 hemiolia
 hemiolias
 hemiplegia
@@ -56426,6 +56440,7 @@ kiangs
 kiaughs
 kibbeh
 kibbis
+kibbitz
 kibbitzed
 kibbitzer
 kibbitzers
@@ -64181,6 +64196,7 @@ milliosmols
 millipede
 millipedes
 millipeds
+milliradian
 milliradians
 millirem
 millirems
@@ -64820,6 +64836,7 @@ misfire
 misfired
 misfit
 misfitted
+misfocused
 misfocuses
 misfocussed
 misfocusses
@@ -65428,6 +65445,7 @@ mockable
 mocked
 mocker
 mockers
+mockery
 mocking
 mockingbirds
 mockingly
@@ -66378,6 +66396,7 @@ motherliness
 motherlinesses
 motherly
 mothery
+mothier
 mothiest
 mothlike
 mothproof
@@ -66908,6 +66927,7 @@ multiparous
 multipart
 multiparty
 multipath
+multipede
 multipedes
 multipeds
 multiphoton
@@ -70912,6 +70932,7 @@ occultation
 occultations
 occulted
 occulters
+occulting
 occultisms
 occultist
 occultists
@@ -78070,6 +78091,7 @@ photographing
 photographs
 photography
 photogs
+photoinduced
 photoinduction
 photoinductions
 photoinductive
@@ -78478,6 +78500,7 @@ pictorially
 pictorialness
 pictorialnesses
 pictured
+pictures
 picturesque
 picturing
 picturization
@@ -80788,6 +80811,7 @@ posters
 posteruptive
 postexilic
 postexperience
+postface
 postfaces
 postfeminist
 postfire
@@ -80942,6 +80966,7 @@ potboiler
 potboilers
 potboils
 potboy
+poteen
 potency
 potent
 potentate
@@ -90324,8 +90349,10 @@ retooled
 retorsion
 retorsions
 retort
+retorted
 retorter
 retorters
+retorting
 retortion
 retorts
 retotal
@@ -94600,6 +94627,7 @@ seadog
 seadogs
 seafarer
 seafaring
+seafarings
 seafloor
 seafloors
 seafood
@@ -95737,6 +95765,7 @@ servitors
 servitudes
 servo
 servomechanisms
+servomotor
 servomotors
 servos
 sesame
@@ -101464,6 +101493,7 @@ starching
 starchy
 stared
 starers
+stares
 starets
 starfish
 starflower
@@ -105131,6 +105161,7 @@ swarajism
 swarajist
 sward
 swarding
+swards
 swarfs
 swarm
 swarmers
@@ -111620,6 +111651,7 @@ tussis
 tussises
 tussive
 tussle
+tussles
 tussocked
 tussocks
 tussocky
@@ -112639,6 +112671,7 @@ uncinus
 uncirculated
 uncircumcisions
 uncivil
+uncivilized
 uncivilly
 unclad
 unclaimed
@@ -115123,6 +115156,7 @@ upshift
 upshifted
 upshifting
 upshooting
+upshot
 upshots
 upside
 upsilon
@@ -120487,6 +120521,7 @@ you
 young
 youngberries
 youngberry
+younger
 youngers
 youngish
 youngling
