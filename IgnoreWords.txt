@@ -3638,6 +3638,7 @@ anklebones
 ankled
 ankles
 anklet
+anklets
 ankling
 ankuses
 ankushes
@@ -11537,6 +11538,7 @@ bookbinders
 bookbindery
 bookbinding
 bookbindings
+bookcase
 bookcases
 booked
 bookend
@@ -11955,6 +11957,7 @@ bovinities
 bow
 bowdlerise
 bowdlerised
+bowdlerises
 bowdlerising
 bowdlerization
 bowdlerizations
@@ -12656,6 +12659,7 @@ britzka
 britzkas
 britzska
 britzskas
+bro
 broach
 broached
 broacher
@@ -19359,6 +19363,7 @@ cods
 codswallop
 codswallops
 coed
+coedit
 coediting
 coeditors
 coedits
@@ -19821,6 +19826,7 @@ collinearity
 collins
 collinsias
 collision
+collisional
 collisionally
 collocating
 collocation
@@ -21705,6 +21711,7 @@ contrastable
 contrasted
 contrasting
 contrastive
+contrastively
 contrasty
 contravene
 contravener
@@ -28014,6 +28021,7 @@ deviancy
 deviant
 deviants
 deviate
+deviated
 deviating
 deviation
 deviationism
@@ -38473,6 +38481,7 @@ fibrillating
 fibrillation
 fibrillations
 fibrils
+fibrin
 fibrinogen
 fibrinogens
 fibrinoid
@@ -43922,6 +43931,7 @@ glossarists
 glossary
 glossas
 glossator
+glossators
 glossed
 glosseme
 glossemes
@@ -47547,6 +47557,7 @@ helleris
 hellfires
 hellgrammite
 hellgrammites
+hellholes
 hellhound
 hellhounds
 helling
@@ -48893,6 +48904,7 @@ homopolymer
 homopolymeric
 homopolymers
 homopteran
+homopterans
 homos
 homoscedastic
 homosexes
@@ -48989,6 +49001,7 @@ honorifics
 honoring
 honoured
 honourer
+honourers
 honouring
 hons
 hooch
@@ -49637,6 +49650,7 @@ hummers
 humming
 hummocked
 hummocks
+hummocky
 hummuses
 humoral
 humored
@@ -55604,6 +55618,7 @@ jolt
 jolters
 joltier
 joltiest
+joltily
 jolting
 joltingly
 jolty
@@ -58875,6 +58890,7 @@ licensable
 licenses
 licensing
 licensor
+licensors
 licensure
 licensures
 licentiate
@@ -63598,6 +63614,7 @@ mettled
 mettlesome
 metump
 meuniere
+mew
 mewing
 mewl
 mewled
@@ -70976,6 +70993,7 @@ ocelot
 ocelots
 ocher
 ochered
+ochering
 ochers
 ochlocracies
 ochlocracy
@@ -76066,6 +76084,7 @@ patentor
 patentors
 pater
 paternal
+paternalism
 paternalist
 paternalistic
 paternalists
@@ -77156,6 +77175,7 @@ perilymph
 perilymphs
 perimeters
 perimetries
+perimetry
 perimorphs
 perimysia
 perimysium
@@ -93223,6 +93243,7 @@ sappiness
 sappinesses
 sappy
 sapremia
+sapremias
 saprobes
 saprobial
 saprobic
@@ -94360,6 +94381,7 @@ screwdrivers
 screwer
 screwier
 screwiest
+screwinesses
 screwup
 screwworm
 screwworms
@@ -94527,6 +94549,7 @@ sculptured
 sculptures
 sculpturesquely
 sculpturing
+scultch
 scultches
 scum
 scumbag
@@ -99262,6 +99285,7 @@ sol
 sola
 solace
 solaces
+solacing
 solan
 solanaceous
 soland
@@ -100960,6 +100984,7 @@ springinesses
 springing
 springings
 springlet
+springlets
 springlike
 springtail
 springtide
@@ -102533,6 +102558,7 @@ strap
 straphang
 straphanged
 straphangers
+straphanging
 straphangs
 straphung
 strapless
@@ -104013,6 +104039,7 @@ sughing
 sughs
 suicidally
 suicide
+suicides
 suint
 suints
 suit
@@ -105709,6 +105736,7 @@ synecdoches
 synecdochic
 synecdochically
 synecological
+synecology
 synereses
 synergetic
 synergias
@@ -105853,6 +105881,7 @@ tabboulehs
 tabby
 tabbying
 taber
+tabered
 tabering
 tabernacled
 tabernacles
@@ -106990,6 +107019,7 @@ teleostean
 teleosts
 telepath
 telepathically
+telepathies
 telepaths
 telepathy
 telephone
@@ -109505,6 +109535,7 @@ totaling
 totalisator
 totalisators
 totalise
+totalising
 totalism
 totalisms
 totalitarianism
@@ -112481,6 +112512,7 @@ unboarded
 unbobbed
 unbolting
 unbonnet
+unbonneted
 unbonneting
 unbonnets
 unbookish
@@ -113887,6 +113919,7 @@ unlabeled
 unlabored
 unlace
 unlaced
+unlaces
 unlacing
 unlade
 unlading
@@ -115354,6 +115387,7 @@ urgently
 urger
 urgers
 urges
+urgingly
 urials
 uricotelic
 uricotelism
@@ -120428,6 +120462,7 @@ yester
 yestereves
 yestern
 yesternights
+yesteryear
 yesteryears
 yet
 yeti
