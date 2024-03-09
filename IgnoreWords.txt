@@ -1027,6 +1027,7 @@ admittance
 admittances
 admitted
 admittee
+admittees
 admitter
 admitters
 admix
@@ -8079,6 +8080,7 @@ basaltic
 basaltine
 basalts
 bascule
+bascules
 base
 baseball
 baseballs
@@ -9115,6 +9117,7 @@ benamed
 benaming
 benched
 benching
+benchless
 benchmarked
 benchmarking
 benchmarkings
@@ -10308,6 +10311,7 @@ biscuity
 bise
 bisected
 bisection
+bisectional
 bisectionally
 bisectrices
 bisectrix
@@ -13258,6 +13262,7 @@ bummed
 bummer
 bummers
 bummest
+bump
 bumped
 bumper
 bumpered
@@ -24548,6 +24553,7 @@ curtailment
 curtails
 curtain
 curtained
+curtaining
 curtainless
 curtains
 curtal
@@ -26795,6 +26801,7 @@ demeraras
 demerge
 demerged
 demerger
+demergered
 demergering
 demerit
 demerited
@@ -33429,6 +33436,7 @@ empaneling
 empanelled
 empanelling
 empanels
+empathetic
 empathetically
 empathically
 empathies
@@ -33579,6 +33587,7 @@ enation
 enations
 encaenia
 encaged
+encages
 encaging
 encamp
 encamping
@@ -34270,6 +34279,7 @@ ensouled
 ensphering
 enstatites
 ensue
+ensued
 ensues
 ensuing
 ensure
@@ -36582,6 +36592,7 @@ expositive
 expositor
 expositors
 expository
+exposits
 expostulated
 expostulates
 expostulations
@@ -37004,6 +37015,7 @@ fabling
 fabric
 fabricant
 fabricants
+fabricate
 fabricates
 fabricating
 fabrications
@@ -41210,6 +41222,7 @@ frivoled
 frivolers
 frivolities
 frivolled
+frivollers
 frivolling
 frivolous
 frivolously
@@ -50451,6 +50464,7 @@ idocrases
 idol
 idolator
 idolatries
+idolatrous
 idolatrously
 idolatrousness
 idolise
@@ -52058,6 +52072,7 @@ indolences
 indolently
 indoles
 indomethacin
+indomitability
 indomitableness
 indomitably
 indoor
@@ -52169,6 +52184,7 @@ ineffectively
 ineffectiveness
 ineffectual
 ineffectually
+ineffectualness
 inefficacies
 inefficacious
 inefficaciously
@@ -61396,6 +61412,7 @@ manipulability
 manipulable
 manipular
 manipulars
+manipulatable
 manipulate
 manipulates
 manipulating
@@ -61995,6 +62012,7 @@ matelots
 mater
 materfamilias
 material
+materialise
 materialised
 materialises
 materialism
@@ -64969,6 +64987,7 @@ missound
 missounded
 missounding
 missounds
+missout
 misspace
 misspaces
 misspeaking
@@ -67902,6 +67921,7 @@ negs
 negus
 neif
 neigh
+neighbor
 neighbored
 neighborhoods
 neighboring
@@ -69542,6 +69562,7 @@ nonpregnant
 nonproblems
 nonproducing
 nonproductive
+nonprofessional
 nonprofessorial
 nonprofits
 nonprogram
@@ -71298,6 +71319,7 @@ oogamous
 oogamy
 oogenetic
 oogenies
+oogeny
 oogonial
 oogoniums
 oohed
@@ -75677,6 +75699,7 @@ passionals
 passionate
 passionately
 passionateness
+passionflower
 passions
 passivates
 passivations
@@ -75870,6 +75893,7 @@ patrician
 patricians
 patriciates
 patricidal
+patricide
 patrilinies
 patrimonies
 patrimony
@@ -81739,6 +81763,7 @@ preponderations
 preportioned
 preportions
 preposition
+prepositional
 prepositionally
 prepositions
 prepositive
@@ -82894,6 +82919,7 @@ pronota
 pronoun
 pronounced
 pronouncement
+pronounces
 pronouncing
 pronouns
 pronuclear
@@ -85580,6 +85606,7 @@ rap
 rapacious
 rapaciously
 rapaciousness
+rapaciousnesses
 rapacity
 raped
 raper
@@ -92320,6 +92347,7 @@ sagaciousnesses
 sagacities
 sagacity
 sagaman
+sagamen
 saganash
 saganashes
 sagas
@@ -92833,6 +92861,7 @@ santir
 santo
 santolina
 santols
+santonica
 santonin
 santonins
 santoor
@@ -94569,6 +94598,7 @@ sedimented
 sedimentologic
 sedimentologies
 sedimentology
+sediments
 sedition
 seditions
 seditious
@@ -94632,6 +94662,7 @@ seemingly
 seemlier
 seemliness
 seemlinesses
+seems
 seen
 seep
 seeped
@@ -103070,6 +103101,7 @@ sublunary
 subluxations
 submanager
 submanagers
+submandibulars
 submarginal
 submariner
 submariners
@@ -108024,6 +108056,7 @@ thunderstrokes
 thunderstruck
 thundery
 thunking
+thuribles
 thurl
 thurls
 thus
@@ -112044,6 +112077,7 @@ unbeknown
 unbeknownst
 unbelief
 unbeliefs
+unbelievable
 unbeliever
 unbelievers
 unbelieving
@@ -112348,6 +112382,7 @@ uncocked
 uncocking
 uncodified
 uncoerced
+uncoercive
 uncoffin
 uncoffins
 uncoil
