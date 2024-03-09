@@ -2620,6 +2620,7 @@ altercated
 altercates
 altercations
 altered
+alterer
 alterers
 alterities
 alterity
@@ -4447,6 +4448,7 @@ apanages
 aparejos
 apartheid
 apartheids
+apartment
 apartments
 apartness
 apartnesses
@@ -7254,6 +7256,7 @@ backstab
 backstabbed
 backstabber
 backstabbers
+backstabbing
 backstabbings
 backstages
 backstair
@@ -15296,6 +15299,7 @@ carpooled
 carpooler
 carpoolers
 carpooling
+carpophore
 carpophores
 carport
 carports
@@ -17515,6 +17519,7 @@ chondroitins
 chondroma
 chondromas
 chondromata
+chondrule
 chondrules
 chook
 chooks
@@ -18220,6 +18225,7 @@ claim
 claimable
 claimant
 claimants
+claimer
 claimers
 clairaudiences
 clairaudient
@@ -18741,6 +18747,7 @@ closures
 closuring
 clot
 cloth
+clothbound
 clothe
 clothes
 clotheshorses
@@ -21483,6 +21490,7 @@ contentedness
 contentednesses
 contenting
 contentious
+contentiously
 contentiousness
 contentments
 contes
@@ -21640,6 +21648,7 @@ contritely
 contrition
 contritions
 contrivances
+contrive
 contrived
 contriver
 contrives
@@ -23132,6 +23141,7 @@ cozener
 cozens
 cozey
 cozeys
+cozie
 cozied
 coziest
 cozily
@@ -26882,6 +26892,7 @@ demonstrable
 demonstrably
 demonstrated
 demonstrates
+demonstration
 demonstrational
 demonstrative
 demonstratively
@@ -28579,6 +28590,7 @@ digitoxigenins
 digitoxin
 diglossia
 diglossias
+diglossic
 diglot
 diglots
 diglyceride
@@ -32786,6 +32798,7 @@ elecampanes
 elect
 electabilities
 electability
+electable
 elected
 electee
 election
@@ -42377,6 +42390,7 @@ garters
 garth
 garths
 garveys
+gas
 gasalier
 gasbag
 gasbags
@@ -45821,6 +45835,7 @@ gyve
 gyved
 gyving
 ha
+haaf
 haafs
 haars
 habaneras
@@ -46753,6 +46768,7 @@ hatchways
 hate
 hateable
 hated
+hateful
 hatefulness
 haters
 hates
@@ -48848,6 +48864,7 @@ hoolie
 hooligan
 hooliganism
 hooliganisms
+hooligans
 hooly
 hoop
 hooped
@@ -51272,6 +51289,7 @@ impuissant
 impulse
 impulses
 impulsing
+impulsion
 impulsions
 impulsive
 impulsively
@@ -55421,6 +55439,7 @@ journals
 journey
 journeyed
 journeyer
+journeyman
 journeymen
 journeywork
 journeyworks
@@ -64347,6 +64366,7 @@ miscaptioned
 miscaptioning
 miscaptions
 miscarriage
+miscarried
 miscarry
 miscarrying
 miscast
@@ -65500,6 +65520,7 @@ monishing
 monism
 monistic
 monists
+monition
 monitor
 monitorial
 monitories
@@ -67701,6 +67722,7 @@ neckband
 neckcloth
 neckcloths
 necked
+necker
 neckerchief
 neckerchiefs
 neckerchieves
@@ -72179,6 +72201,7 @@ outclassed
 outclasses
 outclimbed
 outclimbing
+outclimbs
 outcoach
 outcoached
 outcoaching
@@ -78955,6 +78978,7 @@ plantains
 plantation
 plantations
 planted
+planter
 planters
 plantings
 plantlets
@@ -80021,6 +80045,7 @@ polytheist
 polytheistic
 polytheistical
 polytheists
+polythene
 polythenes
 polytonal
 polytonally
@@ -88533,6 +88558,7 @@ rencounters
 rended
 render
 renderable
+rendered
 renderer
 renderers
 renderings
@@ -89110,6 +89136,7 @@ reputably
 reputation
 reputational
 reputations
+repute
 reputed
 reputedly
 reputes
@@ -100177,6 +100204,7 @@ spitefully
 spiting
 spits
 spitted
+spitter
 spitters
 spitting
 spittlebug
@@ -100967,6 +100995,7 @@ stanch
 stancher
 stanchers
 stanches
+stanchest
 stanchion
 stanchly
 stand
@@ -105150,6 +105179,7 @@ syn
 synaereses
 synaeresis
 synaestheses
+synaesthesia
 synaesthesias
 synagog
 synagogs
@@ -105285,6 +105315,7 @@ synonymize
 synonymized
 synonymizes
 synonymizing
+synonymous
 synonymously
 synonyms
 synonymy
@@ -107914,6 +107945,7 @@ thundercloud
 thundered
 thunderer
 thunderers
+thunderheads
 thundering
 thunderous
 thunderously
@@ -109768,6 +109800,7 @@ trapuntos
 trashed
 trasher
 trashers
+trashiness
 trashinesses
 trashing
 trashmen
@@ -112413,6 +112446,7 @@ undefinable
 undefoliated
 undeformed
 undelegated
+undeleted
 undeliverable
 undelivered
 undeluded
@@ -112958,6 +112992,7 @@ unfits
 unfitting
 unfix
 unfixes
+unfixt
 unflagging
 unflamboyant
 unflappability
