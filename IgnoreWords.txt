@@ -1415,6 +1415,7 @@ aestheticize
 aestheticized
 aestheticizes
 aestival
+aestivate
 aestivated
 aestivates
 aestivation
@@ -2612,6 +2613,7 @@ alphabet
 alphabeted
 alphabetic
 alphabetization
+alphabetize
 alphabetized
 alphabetizers
 alphabetizing
@@ -4518,6 +4520,7 @@ aper
 apercu
 apercus
 aperient
+aperients
 aperies
 aperiodic
 aperiodically
@@ -7376,6 +7379,7 @@ bacteremic
 bacteria
 bacterial
 bacterially
+bacterials
 bactericidal
 bactericidally
 bactericide
@@ -18806,6 +18810,7 @@ clink
 clinked
 clinkers
 clinking
+clinks
 clinometer
 clinometers
 clinquant
@@ -19304,6 +19309,7 @@ cochineal
 cochineals
 cochlea
 cochleae
+cochlear
 cochleas
 cochleate
 cocineras
@@ -19334,6 +19340,7 @@ cockers
 cockeye
 cockeyed
 cockfight
+cockfighting
 cockfightings
 cockfights
 cockhorse
@@ -24421,6 +24428,7 @@ cubiculum
 cubiform
 cubing
 cubism
+cubistic
 cubit
 cubital
 cubiti
@@ -27078,6 +27086,7 @@ demigoddesses
 demigods
 demilitarized
 demilitarizes
+demilitarizing
 demilune
 demilunes
 demimondaine
@@ -30985,6 +30994,7 @@ doodoo
 doodoos
 doody
 doofus
+doofuses
 doohickey
 doohickeys
 doolees
@@ -31356,6 +31366,7 @@ dowries
 dowry
 dowsabel
 dowser
+dowsers
 dowses
 dowsing
 doxologies
@@ -32171,6 +32182,7 @@ duplication
 duplications
 duplicative
 duplicator
+duplicators
 duplicities
 duplicitous
 duplicitously
@@ -43358,6 +43370,7 @@ genuflection
 genuflections
 genuine
 genuineness
+genuses
 geobotanic
 geobotanical
 geobotanies
@@ -43498,6 +43511,7 @@ germier
 germiest
 germina
 germinability
+germinal
 germinally
 germinate
 germinated
@@ -46745,6 +46759,7 @@ halvas
 halved
 halvers
 halving
+halyard
 halyards
 ham
 hamada
@@ -54139,6 +54154,7 @@ internalizes
 internally
 internationally
 interne
+internecine
 interned
 internee
 internees
@@ -54773,6 +54789,7 @@ involves
 invulnerability
 invulnerable
 invulnerably
+inwalled
 inwalling
 inwalls
 inwardly
@@ -56132,6 +56149,7 @@ juddered
 juddering
 judders
 judged
+judgement
 judgements
 judger
 judges
@@ -56226,6 +56244,7 @@ jumpily
 jumpiness
 jumpinesses
 jumping
+jumpingly
 jumpoffs
 jumps
 jumpsuits
@@ -61427,6 +61446,7 @@ maffick
 mafficker
 maffickers
 mafias
+mafiosi
 mafioso
 mafiosos
 mag
@@ -63212,6 +63232,7 @@ melamed
 melancholia
 melancholiac
 melancholiacs
+melancholias
 melancholic
 melange
 melanian
@@ -72847,6 +72868,7 @@ othernesses
 others
 otherwhere
 otherwhile
+otherwhiles
 otherworld
 otiose
 otiosely
@@ -82368,6 +82390,7 @@ preformulate
 preformulates
 prefrank
 prefranked
+prefranking
 prefranks
 prefreeze
 prefreezes
@@ -83765,6 +83788,7 @@ promiscuity
 promise
 promised
 promisee
+promisees
 promises
 promising
 promisingly
@@ -84641,6 +84665,7 @@ pteridologists
 pteridology
 pteridophyte
 pteridophytes
+pteridosperms
 pterin
 pterins
 pterodactyls
@@ -89132,6 +89157,7 @@ rejacket
 rejacketed
 rejacketing
 rejackets
+reject
 rejected
 rejectees
 rejecter
@@ -89811,6 +89837,7 @@ repasted
 repasting
 repasts
 repatched
+repatching
 repatriated
 repatriates
 repatriating
@@ -90403,6 +90430,7 @@ resentfulnesses
 reserpines
 reservationists
 reservations
+reserve
 reservedly
 reservednesses
 reserver
@@ -92564,6 +92592,7 @@ rosters
 rostra
 rostral
 rostrate
+rostrum
 rostrums
 rosy
 rot
@@ -92601,6 +92630,7 @@ rotl
 rotls
 roto
 rotogravures
+rotorcraft
 rotors
 rotos
 rototilled
@@ -105216,6 +105246,7 @@ superexpensive
 superexpress
 superfamilies
 superfamily
+superfan
 superfans
 superfarm
 superfarms
@@ -107019,6 +107050,7 @@ taloned
 talons
 talooka
 taluk
+taluka
 talukas
 taluks
 talus
@@ -116504,6 +116536,7 @@ vainly
 vainness
 vainnesses
 vakeel
+vakil
 valance
 valanced
 valances
@@ -117890,6 +117923,7 @@ vitalizing
 vitally
 vitalness
 vitamer
+vitamers
 vitamin
 vitamine
 vitamines
@@ -120486,6 +120520,7 @@ womanises
 womanish
 womanishness
 womanishnesses
+womanism
 womanist
 womanize
 womanized
