@@ -1195,6 +1195,7 @@ advantages
 advected
 advecting
 advection
+advective
 advects
 adventitia
 adventitias
@@ -5780,6 +5781,7 @@ aspers
 asperse
 aspersed
 asperser
+aspersers
 aspersion
 aspersive
 asphalt
@@ -10073,6 +10075,7 @@ biner
 biners
 binged
 bingeing
+binges
 binging
 bingo
 bingoes
@@ -13651,6 +13654,7 @@ burstone
 burstones
 bursts
 burthened
+burthening
 burton
 burweeds
 bury
@@ -30751,6 +30755,7 @@ dogmatists
 dogmatization
 dogmatizations
 dogmatize
+dogmatizers
 dogmatizes
 dogmatizing
 dognap
@@ -36804,6 +36809,7 @@ expeditions
 expeditious
 expeditor
 expeditors
+expel
 expellable
 expellants
 expelled
@@ -39579,6 +39585,7 @@ flatliners
 flatlines
 flatling
 flatlings
+flatlong
 flatly
 flatmate
 flatness
@@ -40280,6 +40287,7 @@ foams
 fob
 fobbed
 fobbing
+fobs
 focaccia
 focaccias
 focal
@@ -48964,6 +48972,7 @@ holks
 hollaed
 hollaing
 holland
+hollandaises
 hollas
 holler
 hollered
@@ -51330,6 +51339,7 @@ immolate
 immolated
 immolating
 immolation
+immoral
 immoralisms
 immoralist
 immoralists
@@ -54177,10 +54187,12 @@ interprovincial
 interpsychic
 interpupillary
 interrace
+interracially
 interred
 interregna
 interregnum
 interregnums
+interrelate
 interrelated
 interrelatedly
 interrelates
@@ -55249,6 +55261,7 @@ itch
 itched
 itches
 itchier
+itchiest
 itchily
 itching
 itchings
@@ -56386,6 +56399,7 @@ kallikrein
 kallikreins
 kalmia
 kalmias
+kalong
 kalongs
 kalpac
 kalpacs
@@ -56653,6 +56667,7 @@ keratinous
 keratins
 keratitis
 keratoid
+keratomas
 keratomata
 keratoplasty
 keratoses
@@ -59190,6 +59205,7 @@ libellees
 libellers
 libelling
 libellous
+libelous
 libels
 liber
 liberal
@@ -60341,6 +60357,7 @@ loitering
 loiters
 loll
 loller
+lollers
 lolling
 lollingly
 lollipop
@@ -61708,6 +61725,7 @@ malign
 malignance
 malignances
 malignancies
+malignant
 maligner
 maligners
 maligning
@@ -65941,6 +65959,7 @@ modifications
 modified
 modifier
 modifiers
+modify
 modifying
 modioli
 modishly
@@ -66271,6 +66290,7 @@ monocrat
 monocratic
 monocrats
 monocrystal
+monocrystalline
 monocular
 monocultural
 monoculture
@@ -68354,6 +68374,7 @@ navigates
 navigating
 navigation
 navigational
+navigationally
 navigator
 navigators
 navvies
@@ -71114,6 +71135,7 @@ obeisant
 obeisantly
 obelia
 obelias
+obeliscal
 obelise
 obelised
 obelises
@@ -76808,6 +76830,7 @@ payoffs
 payola
 payors
 payouts
+payroll
 payrolls
 pays
 pazazz
@@ -80019,6 +80042,7 @@ playmates
 playoffs
 playpens
 plays
+playsuit
 plaything
 playtime
 playtimes
@@ -80052,6 +80076,7 @@ pleasingly
 pleasingness
 pleasurability
 pleasurable
+pleasurableness
 pleasurably
 pleasure
 pleasureless
@@ -81108,6 +81133,7 @@ popularly
 populate
 populated
 population
+populational
 populism
 populisms
 populist
@@ -82293,6 +82319,7 @@ preforming
 preforms
 preformulate
 preformulates
+prefrank
 prefranked
 prefranks
 prefreeze
@@ -86472,6 +86499,7 @@ rapes
 rapeseed
 rapeseeds
 raphae
+raphe
 raphia
 raphias
 raphides
@@ -88866,6 +88894,7 @@ reimports
 reimpose
 reimposed
 reimposes
+reimposition
 reimpositions
 reimpression
 reimpressions
@@ -94820,6 +94849,7 @@ scoriae
 scorifier
 scorifiers
 scorifies
+scorify
 scorifying
 scoring
 scorned
@@ -96031,6 +96061,7 @@ sensationalises
 sensationalism
 sensationalists
 sensationalized
+sensations
 sensed
 senseful
 sensei
@@ -101002,6 +101033,7 @@ spermatium
 spermatocyte
 spermatogeneses
 spermatogenic
+spermatogonia
 spermatogonial
 spermatophore
 spermatophores
@@ -102600,6 +102632,7 @@ sterilizers
 sterilizing
 sterlet
 sterling
+sterlingly
 sterlingness
 sterlingnesses
 sterlings
@@ -114139,6 +114172,7 @@ unexcited
 unexciting
 unexcused
 unexotic
+unexpected
 unexpectedly
 unexpended
 unexpert
@@ -118533,6 +118567,7 @@ wannabes
 wanner
 wannest
 wannigans
+wanning
 wans
 wanted
 wanters
