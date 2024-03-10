@@ -5647,6 +5647,7 @@ ascendency
 ascendents
 ascender
 ascenders
+ascendible
 ascending
 ascension
 ascensions
@@ -6196,6 +6197,7 @@ atomizers
 atomizes
 atomy
 atonable
+atonalism
 atonalisms
 atonalists
 atonally
@@ -9493,6 +9495,7 @@ bestirring
 bestirs
 bestowal
 bestowals
+bestowed
 bestowing
 bestrew
 bestrewed
@@ -20650,6 +20653,7 @@ comprized
 comprizes
 comprizing
 compromise
+compromised
 compromiser
 compromisers
 compromises
@@ -20855,6 +20859,7 @@ concoction
 concoctor
 concoctors
 concocts
+concomitances
 concomitant
 concomitantly
 concomitants
@@ -23272,6 +23277,7 @@ cowfish
 cowfishes
 cowflaps
 cowflops
+cowgirl
 cowgirls
 cowhand
 cowherb
@@ -25122,6 +25128,7 @@ cypruses
 cypsela
 cypselae
 cyst
+cysteamine
 cysteamines
 cystein
 cysteine
@@ -29363,6 +29370,7 @@ disbowelling
 disbowels
 disbranch
 disbranched
+disbranching
 disbudding
 disburdened
 disburdening
@@ -31786,6 +31794,7 @@ drunkards
 drunken
 drunkenly
 drunkenness
+drunkennesses
 drunker
 drupaceous
 drupelet
@@ -34687,6 +34696,7 @@ entozoon
 entrails
 entrain
 entrained
+entrainer
 entrainers
 entraining
 entrainments
@@ -38264,6 +38274,7 @@ fellowshipped
 fellowshipping
 fellowships
 fells
+felon
 felonies
 felonious
 feloniousness
@@ -38377,6 +38388,7 @@ feretory
 feriae
 ferial
 ferine
+ferities
 ferity
 ferlie
 ferlies
@@ -42711,6 +42723,7 @@ garishnesses
 garlands
 garlic
 garlicked
+garlickier
 garlickiest
 garlicky
 garlics
@@ -44533,6 +44546,7 @@ golfing
 golfs
 golgotha
 goliard
+goliardic
 goliards
 goliath
 goliaths
@@ -49935,6 +49949,7 @@ humvees
 hun
 hunch
 hunchback
+hunchbacked
 hunchbacks
 hunched
 hunches
@@ -51192,6 +51207,7 @@ immediacies
 immediacy
 immediate
 immediateness
+immediatenesses
 immedicable
 immemorially
 immense
@@ -54622,6 +54638,7 @@ invited
 invitee
 inviter
 inviters
+invites
 inviting
 invitingly
 invocate
@@ -62068,6 +62085,7 @@ maraud
 marauder
 marauding
 marauds
+maravedi
 maravedis
 marbelize
 marbelizes
@@ -66983,6 +67001,7 @@ mozzette
 mridangam
 mridangams
 mridangas
+mu
 muchacho
 muchachos
 muchly
@@ -70206,6 +70225,7 @@ nonrioter
 nonrioting
 nonrival
 nonrivals
+nonroutine
 nonroyal
 nonrubber
 nonruminant
@@ -71275,6 +71295,7 @@ obverting
 obviates
 obviating
 obviators
+obvious
 obviousness
 obviousnesses
 obvolute
@@ -72256,6 +72277,7 @@ orchid
 orchidlike
 orchids
 orchil
+orchitic
 orcin
 orcs
 ordain
@@ -72660,6 +72682,7 @@ ostoses
 ostosis
 ostosises
 ostracised
+ostracises
 ostracism
 ostracisms
 ostracize
@@ -74708,6 +74731,7 @@ overtalked
 overtalking
 overtalks
 overtame
+overtask
 overtasked
 overtasking
 overtasks
@@ -76686,6 +76710,7 @@ paychecks
 payday
 paydays
 payee
+payees
 payer
 payers
 paygrade
@@ -77418,9 +77443,11 @@ percussively
 percussiveness
 percussor
 percussors
+percutaneously
 perdition
 perditions
 perdues
+perdurabilities
 perdurable
 perdured
 perdures
@@ -81356,6 +81383,7 @@ poststimulatory
 poststimulus
 poststrike
 postsurgical
+postsynaptic
 postsync
 postsynced
 posttax
@@ -82101,6 +82129,7 @@ preexist
 preexistence
 preexistences
 preexisting
+preexists
 preexpose
 preexposes
 preexposing
@@ -94874,6 +94903,7 @@ scribbler
 scribbles
 scribbly
 scribe
+scribed
 scriber
 scribes
 scribing
@@ -99687,6 +99717,7 @@ sock
 socked
 socket
 socketed
+sockets
 sockeye
 sockmen
 socko
@@ -102568,6 +102599,7 @@ stiction
 stied
 sties
 stiff
+stiffed
 stiffen
 stiffener
 stiffeners
@@ -103992,6 +104024,7 @@ submergences
 submerges
 submergible
 submerging
+submersed
 submerses
 submersible
 submersing
@@ -111043,6 +111076,7 @@ trews
 trey
 treys
 triac
+triacetate
 triacetates
 triacid
 triacids
@@ -115347,6 +115381,7 @@ untidinesses
 untidying
 untie
 untied
+unties
 until
 untilted
 untimed
