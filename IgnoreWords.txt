@@ -258,6 +258,7 @@ acceleration
 accelerations
 accelerator
 accelerators
+accelerometer
 accelerometers
 accent
 accented
@@ -424,6 +425,7 @@ accumulator
 accumulators
 accuracies
 accuracy
+accurate
 accurately
 accurateness
 accursedly
@@ -3928,6 +3930,7 @@ anthropology
 anthropometries
 anthropomorph
 anthropomorphic
+anthropopathism
 anthropophagi
 anthropophagies
 anthropophagous
@@ -6737,6 +6740,7 @@ autoworker
 autoxidation
 autoxidations
 autumn
+autumnally
 autumns
 autunites
 auxeses
@@ -9857,6 +9861,7 @@ bignonia
 bignonias
 bigoses
 bigot
+bigoted
 bigs
 bigstick
 bigtime
@@ -9877,6 +9882,7 @@ bikes
 bikeway
 bikeways
 bikie
+bikies
 biking
 bikini
 bilabials
@@ -16574,6 +16580,7 @@ challot
 challoth
 chalone
 chalones
+chalot
 chalupa
 chalupas
 chalutz
@@ -19104,6 +19111,7 @@ coast
 coasted
 coaster
 coasters
+coastguard
 coastguardman
 coastguardmen
 coastguards
@@ -21347,6 +21355,7 @@ conscripts
 consecrating
 consecration
 consecrative
+consecratory
 consecution
 consecutions
 consensual
@@ -26718,6 +26727,7 @@ deities
 deity
 deixis
 deixises
+dejectedly
 dejectedness
 dejectednesses
 dejecting
@@ -34432,6 +34442,7 @@ enshrinees
 enshrinement
 enshrinements
 enshrines
+enshroud
 enshrouded
 enshrouding
 ensiform
@@ -36252,6 +36263,7 @@ excimers
 excipient
 excipients
 exciple
+exciples
 excise
 excised
 excisemen
@@ -42914,6 +42926,7 @@ gazumpers
 gazumping
 gear
 gearbox
+gearboxes
 gearcase
 gearcases
 gearchange
@@ -45976,6 +45989,7 @@ gushinesses
 gushing
 gushingly
 gushy
+gusset
 gusseted
 gussets
 gussie
@@ -57057,6 +57071,7 @@ knitted
 knitter
 knitters
 knitting
+knives
 knob
 knobblier
 knobby
@@ -58608,6 +58623,7 @@ legits
 leglike
 legmen
 legroom
+legrooms
 legs
 legumes
 legumin
@@ -60982,6 +60998,7 @@ macaque
 macaroni
 macaronic
 macaronics
+macaronies
 macaroon
 macaroons
 macaw
@@ -61010,6 +61027,7 @@ machinabilities
 machinability
 machinable
 machinates
+machination
 machinator
 machinators
 machine
@@ -63441,6 +63459,7 @@ mesomorphy
 meson
 mesonephric
 mesonephroi
+mesonic
 mesopelagic
 mesophyll
 mesophyllous
@@ -68402,6 +68421,7 @@ neogene
 neoliberalism
 neoliberalisms
 neoliberals
+neolithic
 neologic
 neologies
 neologism
@@ -68989,6 +69009,7 @@ nimbyness
 nimmed
 nimrod
 nimrods
+nims
 nincompoop
 nincompooperies
 nine
@@ -70012,6 +70033,7 @@ nonrandomnesses
 nonrated
 nonrational
 nonreactive
+nonreactor
 nonreactors
 nonreader
 nonreaders
@@ -71324,6 +71346,7 @@ odyl
 odyle
 odyls
 odysseys
+oe
 oecologies
 oecumenical
 oedema
@@ -75518,6 +75541,7 @@ paperback
 paperbacks
 paperboards
 paperbound
+paperboy
 paperboys
 paperclip
 paperclips
@@ -76966,6 +76990,7 @@ peneplain
 peneplane
 peneplanes
 penes
+penetrability
 penetrable
 penetrances
 penetrant
@@ -77114,6 +77139,7 @@ penury
 peon
 peonage
 peonages
+peones
 peonies
 peonisms
 peons
@@ -79613,6 +79639,7 @@ plasticizing
 plasticky
 plasticly
 plastidial
+plastids
 plastisol
 plastocyanin
 plastocyanins
@@ -82645,6 +82672,7 @@ pretrains
 pretravel
 pretreat
 pretreated
+pretreating
 pretreatments
 pretreats
 pretrial
@@ -86894,6 +86922,7 @@ rebuilds
 rebuilt
 rebuke
 rebuked
+rebukers
 rebukes
 rebuking
 reburials
@@ -87959,6 +87988,7 @@ reestimated
 reestimating
 reesting
 reevaluate
+reevaluated
 reevaluates
 reevaluating
 reevaluation
@@ -96839,6 +96869,7 @@ shitlist
 shitload
 shitloads
 shits
+shittah
 shittahs
 shitted
 shittier
@@ -100006,6 +100037,7 @@ soroche
 soroches
 sororal
 sororally
+sororates
 sororities
 sorority
 sorosises
@@ -102432,6 +102464,7 @@ stink
 stinkard
 stinkbug
 stinkbugs
+stinkeroo
 stinkeroos
 stinkers
 stinkhorn
@@ -104631,6 +104664,7 @@ sunwards
 sup
 super
 superable
+superableness
 superably
 superabound
 superabounded
@@ -116098,6 +116132,7 @@ vamosed
 vamoses
 vamped
 vamper
+vampers
 vampier
 vampires
 vampiric
