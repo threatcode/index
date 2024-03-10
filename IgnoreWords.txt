@@ -1487,6 +1487,7 @@ affixer
 affixial
 affixing
 affixment
+affixments
 affixtures
 afflatus
 afflatuses
@@ -1802,6 +1803,7 @@ agonizing
 agonizingly
 agons
 agora
+agoraphobes
 agoraphobia
 agoraphobias
 agoraphobic
@@ -2503,6 +2505,7 @@ allover
 allowably
 allowance
 allowances
+allowed
 allowing
 allows
 alloxan
@@ -8661,6 +8664,7 @@ bedeafened
 bedeafening
 bedeafens
 bedeck
+bedecks
 bedehouse
 bedehouses
 bedel
@@ -10509,6 +10513,7 @@ bizarres
 biznaga
 biznagas
 bizonal
+bizone
 bizones
 bizzes
 blab
@@ -12356,6 +12361,7 @@ bravas
 bravely
 bravenesses
 braver
+braveries
 bravery
 braves
 bravest
@@ -12984,6 +12990,7 @@ brulyies
 brulzies
 brumal
 brume
+brummagem
 brunched
 bruncher
 brunches
@@ -19809,6 +19816,7 @@ colinearity
 colins
 coliphage
 coliphages
+coliseum
 coliseums
 colistins
 colitis
@@ -20775,6 +20783,7 @@ conceptualise
 conceptualised
 conceptualises
 conceptualising
+conceptualism
 conceptualist
 conceptualistic
 conceptualists
@@ -23123,6 +23132,7 @@ courageousness
 courantes
 couranto
 courantos
+courants
 courgettes
 courier
 courlan
@@ -26021,6 +26031,7 @@ decathlete
 decathletes
 decathlons
 decayed
+decayer
 decayers
 decaying
 decayless
@@ -31863,6 +31874,7 @@ dubniums
 dubonnet
 dubonnets
 ducal
+duces
 duchesses
 duchies
 duci
@@ -32574,6 +32586,7 @@ echoer
 echoes
 echoey
 echoing
+echoisms
 echolalia
 echolalias
 echolalic
@@ -37601,6 +37614,7 @@ fallow
 fallowed
 fallowing
 fallows
+falseface
 falsehoods
 falsely
 falseness
@@ -43937,6 +43951,7 @@ glassing
 glassless
 glassmaker
 glassmakers
+glassmaking
 glassmakings
 glasspaper
 glasspapering
@@ -47605,6 +47620,7 @@ hebraizes
 hecatomb
 heckle
 heckled
+heckler
 hecklers
 heckling
 hectare
@@ -49481,6 +49497,7 @@ horsehairs
 horsehide
 horselaugh
 horselaughs
+horseless
 horselike
 horsemanship
 horsemanships
@@ -62320,6 +62337,7 @@ martially
 martin
 martinet
 martinets
+marting
 martingal
 martingale
 martinis
@@ -63357,6 +63375,7 @@ mentalism
 mentalisms
 mentalist
 mentalistic
+mentalists
 mentality
 mentee
 mentees
@@ -65060,6 +65079,7 @@ miscorrelation
 miscorrelations
 miscount
 miscounting
+miscounts
 miscreant
 miscreants
 miscreate
@@ -65809,6 +65829,7 @@ mockingly
 mocks
 mocktail
 mocktails
+mockup
 mocs
 modal
 modalities
@@ -67536,6 +67557,7 @@ museologist
 museologists
 muser
 musers
+muses
 musette
 museum
 museums
@@ -68310,6 +68332,7 @@ nearshore
 nearside
 nearsides
 nearsighted
+nearsightedness
 neat
 neaten
 neatened
@@ -74070,6 +74093,7 @@ overemphasize
 overemphasizes
 overemphasizing
 overenamored
+overencourage
 overencouraged
 overencouraging
 overenergetic
@@ -81189,6 +81213,7 @@ posology
 posse
 posses
 possess
+possessed
 possessedly
 possessednesses
 possesses
@@ -83348,6 +83373,7 @@ prodigality
 prodigals
 prodigies
 prodigious
+prodigy
 prodromal
 prodromata
 prodrug
@@ -96338,6 +96364,7 @@ setae
 setal
 setback
 setenant
+setenants
 setiform
 setline
 setlines
@@ -96602,6 +96629,7 @@ shamefaced
 shamefacedly
 shamefacedness
 shamefast
+shamefulnesses
 shameless
 shamelessly
 shamelessness
@@ -103628,6 +103656,7 @@ stylizes
 stylizing
 stylobate
 stylographies
+stylography
 styloid
 stylolite
 stylopodia
@@ -107220,6 +107249,7 @@ tautogs
 tautological
 tautologous
 tautomer
+tautomeric
 tautomerisms
 tautomers
 tautonymies
@@ -107443,6 +107473,7 @@ tedious
 tediously
 tediousness
 tedium
+teds
 tee
 teed
 teeing
@@ -108167,6 +108198,7 @@ testons
 testoon
 testosterone
 testudo
+testudos
 testy
 tetanic
 tetanically
@@ -108447,6 +108479,7 @@ theorise
 theorised
 theorises
 theorising
+theorist
 theorists
 theorization
 theorizations
@@ -116642,6 +116675,7 @@ vedalias
 vedette
 vedettes
 veejay
+veejays
 veena
 veepee
 veeps
@@ -116664,6 +116698,7 @@ vegetating
 vegetation
 vegetations
 vegetative
+vegetativeness
 vegete
 vegetist
 vegetists
