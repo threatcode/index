@@ -965,6 +965,7 @@ adjoin
 adjoined
 adjoining
 adjoint
+adjourn
 adjourned
 adjournment
 adjournments
@@ -3551,6 +3552,7 @@ angiologies
 angioma
 angiomas
 angiomatous
+angioplasties
 angiosperm
 angiospermous
 angiosperms
@@ -4037,6 +4039,7 @@ anticipant
 anticipatable
 anticipate
 anticipated
+anticipates
 anticipating
 anticipation
 anticipations
@@ -6897,6 +6900,7 @@ aviatrice
 aviatrix
 aviatrixes
 avicular
+aviculture
 aviculturists
 avid
 avidities
@@ -8573,6 +8577,7 @@ beater
 beaters
 beatific
 beatifically
+beatifications
 beatified
 beatify
 beatifying
@@ -15658,6 +15663,7 @@ cascaded
 cascades
 cascading
 cascaras
+cascarilla
 caseases
 caseated
 caseating
@@ -17539,6 +17545,7 @@ chinoiseries
 chinook
 chinooks
 chinquapin
+chinquapins
 chinstraps
 chintses
 chintz
@@ -22645,6 +22652,7 @@ corrections
 correctitude
 correctitudes
 corrective
+correctively
 correctives
 correctly
 correctness
@@ -30147,6 +30155,7 @@ dispersion
 dispersions
 dispersive
 dispersiveness
+dispersoid
 dispersoids
 dispirit
 dispirited
@@ -36126,6 +36135,7 @@ eulogise
 eulogises
 eulogist
 eulogistic
+eulogistically
 eulogists
 eulogiums
 eulogize
@@ -37360,6 +37370,7 @@ extranet
 extranets
 extranuclear
 extraordinaire
+extraordinarily
 extraordinary
 extrapolated
 extrapolating
@@ -40427,6 +40438,7 @@ flyers
 flying
 flyings
 flyleaves
+flyman
 flymen
 flyoffs
 flyovers
@@ -40528,6 +40540,7 @@ foil
 foiled
 foils
 foined
+foining
 foins
 foisons
 foist
@@ -45828,6 +45841,7 @@ groin
 groined
 groining
 groins
+grokked
 grokking
 groks
 grommet
@@ -47757,6 +47771,7 @@ heapers
 heaping
 heaps
 heapy
+hear
 hearable
 heard
 hearer
@@ -49165,6 +49180,7 @@ hokier
 hokiest
 hokily
 hokinesses
+hoking
 hokku
 hokum
 hokypokies
@@ -49677,6 +49693,7 @@ hoppier
 hoppiest
 hopping
 hoppings
+hopple
 hoppled
 hopples
 hoppling
@@ -51173,6 +51190,7 @@ ideophones
 ides
 idioblast
 idioblasts
+idiocies
 idiocy
 idiographic
 idiolect
@@ -53210,6 +53228,7 @@ inflows
 influence
 influenceable
 influenced
+influencing
 influent
 influentially
 influents
@@ -55056,6 +55075,7 @@ ioniums
 ionizable
 ionize
 ionized
+ionizers
 ionizing
 ionogen
 ionogenic
@@ -57510,6 +57530,7 @@ kneepan
 kneepiece
 kneepieces
 kneesies
+kneesock
 kneesocks
 knell
 knelled
@@ -58664,6 +58685,7 @@ launces
 launch
 launchers
 launches
+launching
 launchpad
 launchpads
 laundered
@@ -61767,6 +61789,7 @@ magnetostatic
 magnetron
 magnetrons
 magnets
+magnific
 magnifical
 magnifically
 magnificat
@@ -68682,6 +68705,7 @@ navelwort
 navette
 navettes
 navicert
+navicular
 naviculars
 navies
 navigabilities
@@ -73423,6 +73447,7 @@ outdrop
 outdropped
 outdropping
 outdrunk
+outduel
 outdueled
 outdueling
 outduelled
@@ -74976,6 +75001,7 @@ overregulates
 overregulating
 overregulation
 overreliance
+overreliances
 overreport
 overreported
 overreporting
@@ -75244,6 +75270,7 @@ overturing
 overturn
 overurge
 overurged
+overuses
 overusing
 overutilization
 overutilize
@@ -93300,6 +93327,7 @@ rugola
 rugosa
 rugosas
 rugose
+rugosely
 rugosities
 rugosity
 rugs
@@ -95692,6 +95720,7 @@ scuttlebutts
 scuttled
 scuttles
 scuttling
+scutwork
 scutworks
 scuzzes
 scuzzier
@@ -96159,6 +96188,7 @@ seized
 seizers
 seizes
 seizin
+seizing
 seizings
 seizins
 seizors
@@ -100312,6 +100342,7 @@ socket
 socketed
 sockets
 sockeye
+sockeyes
 sockmen
 socko
 socks
@@ -107013,6 +107044,7 @@ synthesizes
 synthesizing
 synthetase
 synthetases
+synthetic
 synthetically
 synthpop
 synthpops
@@ -107170,6 +107202,7 @@ tacamahacs
 tace
 taces
 tacet
+tache
 taches
 tachinid
 tachism
@@ -108885,6 +108918,7 @@ tetraploid
 tetraploids
 tetraploidy
 tetrapod
+tetrapods
 tetrapyrrole
 tetrapyrroles
 tetrarch
@@ -114861,6 +114895,7 @@ unglued
 unglues
 ungluing
 ungodlinesses
+ungot
 ungotten
 ungovernable
 ungowned
