@@ -763,6 +763,7 @@ actionably
 actioner
 actionless
 activated
+activates
 activating
 activation
 activations
@@ -799,6 +800,7 @@ actuators
 acuities
 aculeate
 aculeated
+acumen
 acuminate
 acuminated
 acuminates
@@ -6819,6 +6821,7 @@ ava
 avadavat
 avadavats
 avail
+availabilities
 availability
 available
 availableness
@@ -8124,6 +8127,7 @@ barramundis
 barranca
 barranco
 barrater
+barraters
 barrators
 barratry
 barred
@@ -11702,6 +11706,7 @@ bookmakers
 bookmaking
 bookmakings
 bookman
+bookmark
 bookmarked
 bookmarkers
 bookmarking
@@ -20391,6 +20396,7 @@ commercialise
 commercialised
 commercialises
 commercialism
+commercialisms
 commercialities
 commerciality
 commercialized
@@ -21214,6 +21220,7 @@ confiders
 confides
 confiding
 confidingly
+confidingnesses
 configurational
 configurations
 configures
@@ -21978,6 +21985,7 @@ contributively
 contributor
 contributory
 contritely
+contriteness
 contrition
 contritions
 contrivances
@@ -34839,6 +34847,7 @@ enterogastrone
 enterokinase
 enterokinases
 enteron
+enteropathies
 enteropathy
 enterotoxin
 enterotoxins
@@ -37284,6 +37293,7 @@ extermine
 extermines
 extern
 external
+externalisation
 externalise
 externalised
 externalises
@@ -46772,6 +46782,7 @@ hairdressing
 hairdressings
 haired
 hairier
+hairiness
 hairless
 hairlessness
 hairlike
@@ -47057,6 +47068,7 @@ handednesses
 hander
 handers
 handfasted
+handfuls
 handgrip
 handgrips
 handgun
@@ -53257,6 +53269,7 @@ infomercial
 infomercials
 inform
 informal
+informalities
 informality
 informant
 informatics
@@ -54128,6 +54141,7 @@ interchangeably
 interchanger
 interchangers
 interchanges
+interchanging
 interchannel
 interchurch
 intercity
@@ -54420,6 +54434,7 @@ interoceptor
 interoceptors
 interoffice
 interoperable
+interorbital
 interparoxysmal
 interparticle
 interpellates
@@ -56626,6 +56641,7 @@ kabalist
 kabalists
 kabar
 kabars
+kabayas
 kabbala
 kabbalah
 kabbalahs
@@ -58006,6 +58022,7 @@ lactates
 lactation
 lactational
 lactations
+lactiferous
 lactobacilli
 lactobacillus
 lactogenic
@@ -58016,6 +58033,7 @@ lactones
 lactonic
 lactoses
 lacuna
+lacunar
 lacunaria
 lacunars
 lacunary
@@ -60538,6 +60556,7 @@ locomotive
 locomotives
 locomotor
 locomotors
+locomotory
 locoweed
 locoweeds
 locular
@@ -62316,6 +62335,7 @@ manicure
 manicured
 manicures
 manicuring
+manicurist
 manifest
 manifestants
 manifested
@@ -63134,6 +63154,7 @@ maximization
 maximizations
 maximize
 maximized
+maximizer
 maximizers
 maximizes
 maximizing
@@ -65225,6 +65246,7 @@ minutely
 minutemen
 minuteness
 minutes
+minutest
 minutiae
 minutial
 minyan
@@ -68038,6 +68060,7 @@ muskoxen
 muskrat
 muskroots
 musks
+muslin
 muspikes
 musquashes
 muss
@@ -73857,6 +73880,7 @@ outrance
 outrances
 outrange
 outranged
+outranging
 outrank
 outranks
 outrate
@@ -75963,6 +75987,7 @@ palps
 palpus
 palsgraves
 palships
+palsy
 palsylike
 palter
 paltered
@@ -89505,6 +89530,7 @@ reinvigoration
 reinvigorations
 reinvigorators
 reinvite
+reinvited
 reinviting
 reinvoke
 reinvoked
@@ -90803,6 +90829,7 @@ resensitize
 resensitized
 resensitizing
 resent
+resented
 resentencing
 resentful
 resentfully
@@ -93398,6 +93425,7 @@ ruminantly
 ruminants
 ruminated
 rumination
+ruminative
 ruminators
 rummage
 rummaged
@@ -93536,6 +93564,7 @@ rustles
 rustless
 rustling
 rustproof
+rustproofs
 rusts
 rusty
 rut
@@ -99478,6 +99507,7 @@ slipups
 slipware
 slit
 slither
+slithering
 slithers
 slithery
 slitless
@@ -102843,6 +102873,7 @@ statistically
 statisticians
 statistics
 statists
+statives
 statoblast
 statoblasts
 statocyst
@@ -103063,6 +103094,7 @@ stenography
 stenohaline
 stenokies
 stenokous
+stenoky
 stenos
 stenosed
 stenoses
@@ -106343,6 +106375,7 @@ susurrus
 susurruses
 sutler
 sutlers
+suttas
 suttees
 sutural
 suturally
@@ -112153,6 +112186,7 @@ triphthongs
 tripinnately
 triplane
 triplanes
+triple
 tripled
 triples
 triplet
@@ -112961,6 +112995,7 @@ turnups
 turnverein
 turnvereins
 turophile
+turophiles
 turpentine
 turpeth
 turpitude
