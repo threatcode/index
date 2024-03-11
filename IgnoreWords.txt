@@ -1293,6 +1293,7 @@ adzukis
 ae
 aecia
 aecial
+aecidia
 aecidial
 aecidium
 aeciospore
@@ -1931,6 +1932,7 @@ airbursts
 airbuses
 aircoach
 aircoaches
+aircraft
 aircrew
 airdates
 airdrome
@@ -2225,6 +2227,7 @@ algicide
 algicides
 algid
 algidity
+algidness
 alginate
 alginates
 algins
@@ -2682,6 +2685,7 @@ altogether
 altogethers
 altoist
 altoists
+altostratus
 altruisms
 altruist
 altruistically
@@ -5547,6 +5551,7 @@ artels
 artemisia
 artemisias
 arterial
+arterials
 arteriograms
 arteriographic
 arteriography
@@ -7337,6 +7342,7 @@ backstabber
 backstabbers
 backstabbing
 backstabbings
+backstage
 backstages
 backstair
 backstamp
@@ -8182,6 +8188,7 @@ basenesses
 basenji
 baseplates
 baserunnings
+bash
 bashes
 bashfully
 bashfulness
@@ -13698,6 +13705,7 @@ bushfire
 bushfires
 bushgoat
 bushier
+bushiest
 bushiness
 bushinesses
 bushings
@@ -14506,6 +14514,7 @@ camelias
 camelid
 camelids
 camellia
+camellike
 camelopard
 camelopards
 camels
@@ -14850,6 +14859,7 @@ cantles
 canto
 canton
 cantoning
+cantonment
 cantonments
 cantor
 cantorial
@@ -34451,6 +34461,7 @@ enjoyed
 enjoyer
 enjoyers
 enjoyment
+enjoys
 enkephalin
 enkephalins
 enkindle
@@ -37351,6 +37362,7 @@ eyeing
 eyelash
 eyelashes
 eyeless
+eyelet
 eyeletted
 eyeletting
 eyelids
@@ -39944,6 +39956,7 @@ flockiest
 flocking
 flockings
 flocks
+floe
 floes
 flog
 floggable
@@ -41862,6 +41875,7 @@ frumenty
 frump
 frumpier
 frumpiest
+frumpily
 frumpish
 frumps
 frumpy
@@ -42435,6 +42449,7 @@ gal
 gala
 galabia
 galabieh
+galabiehs
 galabiya
 galabiyah
 galabiyahs
@@ -42940,6 +42955,7 @@ gasser
 gasses
 gassiest
 gassiness
+gassy
 gast
 gasted
 gaster
@@ -49491,6 +49507,7 @@ hopefulness
 hopefuls
 hopeless
 hopelessly
+hopelessness
 hopelessnesses
 hoper
 hopers
@@ -56155,6 +56172,7 @@ joyrider
 joyriders
 joyrode
 joysticks
+juba
 jubas
 jubbah
 jubes
@@ -58152,6 +58170,7 @@ lanthanides
 lanthanons
 lanthanum
 lanthanums
+lanthorn
 lanuginous
 lanugo
 lanyards
@@ -60402,6 +60421,7 @@ lognormality
 logo
 logogram
 logograms
+logograph
 logographs
 logogriph
 logogriphs
@@ -68921,6 +68941,7 @@ nettles
 nettlier
 nettliest
 nettly
+netty
 network
 networked
 networker
@@ -70653,6 +70674,7 @@ nopalitos
 nope
 noplace
 nor
+noradrenalin
 noradrenaline
 noradrenalines
 noradrenergic
@@ -75683,6 +75705,7 @@ paltry
 paludal
 paludism
 paludisms
+paly
 palynological
 palynologically
 palynologist
@@ -76003,6 +76026,7 @@ paradiddles
 paradigm
 paradigmatic
 parading
+paradisaical
 paradise
 paradises
 paradisiac
@@ -79483,6 +79507,7 @@ pinna
 pinnace
 pinnaces
 pinnacles
+pinnacling
 pinnate
 pinnately
 pinnatifid
@@ -85322,6 +85347,7 @@ putties
 putting
 putto
 putts
+putty
 puttylike
 puttyroot
 puttyroots
@@ -88635,6 +88661,7 @@ reformulating
 reformulations
 refortification
 refortified
+refortify
 refound
 refoundation
 refoundations
@@ -90936,6 +90963,7 @@ resuscitate
 resuscitating
 resuscitation
 resuscitations
+resuscitative
 resuscitator
 resuscitators
 resuspend
@@ -99586,6 +99614,7 @@ snarling
 snarls
 snashes
 snatchers
+snatches
 snatchier
 snatchy
 snathe
@@ -99775,6 +99804,7 @@ snottinesses
 snotty
 snouted
 snoutier
+snoutiest
 snouting
 snouts
 snow
@@ -101195,6 +101225,7 @@ spermophiles
 spermous
 sperms
 sperrylite
+sperrylites
 spessartine
 spessartines
 spessartite
@@ -101742,6 +101773,7 @@ spouting
 spoutings
 spouts
 sprachgefuhls
+spraddle
 spraddles
 spraddling
 sprag
@@ -106695,6 +106727,7 @@ syrens
 syrette
 syrettes
 syringas
+syringe
 syringed
 syringomyelia
 syringomyelic
@@ -109061,6 +109094,7 @@ thornier
 thorniest
 thornily
 thorniness
+thorning
 thorns
 thoron
 thoroughbass
@@ -113258,6 +113292,7 @@ unalterable
 unalterableness
 unamassed
 unamazed
+unambitious
 unambivalent
 unamenable
 unamiable
