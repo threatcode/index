@@ -965,6 +965,7 @@ adjoin
 adjoined
 adjoining
 adjoint
+adjourned
 adjournment
 adjournments
 adjudged
@@ -7796,6 +7797,7 @@ bane
 baneberry
 baneful
 banefully
+banes
 bang
 banged
 banger
@@ -8979,6 +8981,7 @@ begrimed
 begrimming
 begroan
 begroaned
+begroans
 begrudge
 begrudged
 begrudger
@@ -15716,6 +15719,7 @@ casks
 casky
 casque
 cassabas
+cassatas
 cassava
 cassenas
 cassette
@@ -15998,6 +16002,7 @@ catholicate
 catholicates
 catholicities
 catholicity
+catholicize
 catholicizes
 catholicizing
 catholicos
@@ -21371,6 +21376,7 @@ congruity
 congruous
 congruously
 congruousness
+congruousnesses
 coni
 conically
 conicities
@@ -28053,6 +28059,7 @@ desquamation
 dessertspoonful
 destabilization
 destabilize
+destabilized
 destabilizes
 destabilizing
 destaining
@@ -33055,6 +33062,7 @@ effluviums
 efflux
 effluxes
 effluxion
+effort
 effortfully
 effortfulnesses
 effortless
@@ -33163,6 +33171,7 @@ eidetic
 eidetically
 eidola
 eidolic
+eidolon
 eidolons
 eidos
 eigenmode
@@ -36134,6 +36143,7 @@ euonymus
 euonymuses
 eupatrid
 eupatridae
+eupepsia
 eupepsias
 eupepsies
 eupepsy
@@ -36223,6 +36233,7 @@ eutaxies
 eutaxy
 eutectoid
 eutectoids
+euthanatized
 euthanatizes
 euthanatizing
 euthanize
@@ -36490,6 +36501,7 @@ exasperated
 exasperatedly
 exasperates
 exasperatingly
+exasperation
 exasperations
 excavate
 excavated
@@ -38128,6 +38140,7 @@ fatheaded
 fatheadedly
 fatheadedness
 fatheadednesses
+fatheads
 father
 fathered
 fatherhoods
@@ -38604,6 +38617,7 @@ ferity
 ferlie
 ferlies
 ferly
+fermata
 fermatas
 fermate
 fermentation
@@ -46171,6 +46185,7 @@ guilefulness
 guilefulnesses
 guileless
 guilelessly
+guilelessnesses
 guiling
 guillemets
 guillemot
@@ -48211,6 +48226,7 @@ hemitrope
 hemitropes
 hemizygous
 hemline
+hemlock
 hemmer
 hemmers
 hemming
@@ -49938,6 +49954,7 @@ hourly
 house
 houseboat
 houseboater
+houseboaters
 houseboats
 housebound
 houseboy
@@ -50757,6 +50774,7 @@ hyperphysical
 hyperpigmented
 hyperpituitary
 hyperplanes
+hyperplasia
 hyperploid
 hyperploids
 hyperploidy
@@ -61824,6 +61842,7 @@ mailbags
 mailbox
 mailboxes
 mailed
+mailer
 mailers
 mailgram
 mailgrams
@@ -62203,6 +62222,7 @@ manga
 mangabey
 mangabeys
 mangaby
+manganate
 manganates
 manganese
 manganeses
@@ -68012,6 +68032,7 @@ mutageneses
 mutagenesis
 mutagenically
 mutagenicity
+mutagens
 mutant
 mutase
 mutases
@@ -68886,6 +68907,7 @@ negotiator
 negotiators
 negotiatory
 negritudes
+negroid
 negroids
 negroni
 negronis
@@ -74589,6 +74611,7 @@ overfond
 overfoul
 overfrank
 overfree
+overfulfilled
 overfulfilling
 overfulfills
 overfull
@@ -77087,6 +77110,7 @@ pausers
 pausing
 pavan
 pavane
+pavanes
 pavans
 pave
 paved
@@ -91572,6 +91596,7 @@ revalidating
 revalidations
 revalorizations
 revalorized
+revalorizing
 revaluates
 revaluating
 revaluations
@@ -91658,6 +91683,7 @@ reverifying
 revering
 revers
 reversal
+reverse
 reversed
 reversers
 reverses
@@ -96293,6 +96319,7 @@ semidwarf
 semidwarves
 semiempirical
 semierect
+semifinalists
 semifinals
 semifinished
 semifit
@@ -98805,6 +98832,7 @@ skeletonized
 skeletonizer
 skeletonizing
 skeletons
+skell
 skells
 skellum
 skellums
@@ -104732,6 +104760,7 @@ subregion
 subregions
 subrent
 subreptitiously
+subring
 subrogate
 subrogated
 subrogations
@@ -109847,6 +109876,7 @@ tiling
 tilings
 till
 tillable
+tillages
 tillandsia
 tillandsias
 tiller
@@ -110774,6 +110804,7 @@ totemite
 totems
 toter
 toters
+totes
 tother
 toting
 tots
@@ -112360,6 +112391,7 @@ truce
 truceless
 truces
 truckable
+truckage
 trucked
 truckers
 truckful
@@ -113208,6 +113240,7 @@ typology
 typos
 typp
 typps
+tyramine
 tyramines
 tyrannic
 tyrannical
@@ -114571,6 +114604,7 @@ undutifully
 undutifulnesses
 undyed
 undying
+undyingly
 uneager
 uneagerly
 unearned
@@ -117967,6 +118001,7 @@ videodisks
 videographer
 videographers
 videographies
+videoland
 videolands
 videophile
 videophiles
