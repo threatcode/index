@@ -1,0 +1,7 @@
+amazon-redshift-utils/src/AdminViews/v_generate_udf_ddl.sql at ...,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminViews/v_generate_udf_ddl.sql
+amazon-redshift-udfs/views/v_generate_udf_ddl.sql at master - GitHub,https://github.com/aws-samples/amazon-redshift-udfs/blob/master/views/v_generate_udf_ddl.sql
+https://raw.githubusercontent.com/awslabs/amazon-r...,https://raw.githubusercontent.com/awslabs/amazon-redshift-utils/master/src/AdminViews/v_generate_user_grant_revoke_ddl.sql
+http://web.mit.edu/ghudson/trac/attic/src/postgres...,http://web.mit.edu/ghudson/trac/attic/src/postgresql-7.4.5/src/backend/catalog/information_schema.sql
+https://raw.githubusercontent.com/DarkstarProject/...,https://raw.githubusercontent.com/DarkstarProject/darkstar/master/sql/mob_spawn_points.sql
+PostgreSQL: src/backend/catalog/information_schema.sql - Fossies,https://fossies.org/linux/postgresql/src/backend/catalog/information_schema.sql
+PostgreSQL: src/test/regress/sql/xml.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/xml.sql
