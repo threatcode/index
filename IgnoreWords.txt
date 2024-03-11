@@ -835,6 +835,7 @@ adages
 adagios
 adamance
 adamances
+adamancies
 adamancy
 adamant
 adamantine
@@ -6369,6 +6370,7 @@ attitudinal
 attitudinally
 attitudinised
 attitudinising
+attitudinized
 attitudinizes
 attitudinizing
 attorned
@@ -10092,6 +10094,7 @@ bilsteds
 biltong
 biltongs
 bimahs
+bimanual
 bimas
 bimbette
 bimbettes
@@ -15751,6 +15754,7 @@ casking
 casks
 casky
 casque
+casqued
 cassabas
 cassatas
 cassava
@@ -16129,6 +16133,7 @@ causeys
 causing
 caustic
 caustically
+causticities
 causticity
 cauterant
 cauterants
@@ -20284,6 +20289,7 @@ combatting
 combe
 comber
 combers
+combes
 combinable
 combination
 combinational
@@ -22661,6 +22667,7 @@ corporeity
 corposant
 corps
 corpse
+corpsman
 corpsmen
 corpulency
 corpulent
@@ -23516,6 +23523,7 @@ coxitis
 coxswained
 coxswaining
 coxswains
+coy
 coydog
 coydogs
 coying
@@ -24683,6 +24691,7 @@ culotte
 culottes
 culpability
 culpable
+culpableness
 culpae
 cult
 cultches
@@ -39282,6 +39291,7 @@ finalize
 finalizer
 finalizers
 finalizes
+finalizing
 finals
 financed
 finances
@@ -50494,6 +50504,7 @@ huzzahing
 huzzaing
 huzzas
 hwan
+hyaena
 hyaenas
 hyaenic
 hyalin
@@ -59700,6 +59711,7 @@ lichenologists
 lichenous
 lichens
 liches
+licht
 lichted
 lichting
 lichtly
@@ -59984,6 +59996,7 @@ limped
 limper
 limpers
 limpet
+limpid
 limpidities
 limpidity
 limpidly
@@ -61994,6 +62007,7 @@ mainline
 mainlined
 mainliner
 mainliners
+mainlining
 mainmasts
 mains
 mainsail
@@ -63448,6 +63462,7 @@ medicant
 medicares
 medicate
 medicating
+medication
 medicide
 medicinable
 medicinal
@@ -65598,6 +65613,7 @@ miscreate
 miscreated
 miscreates
 miscreating
+miscreation
 miscreations
 miscues
 miscuing
@@ -65684,6 +65700,7 @@ misentries
 miser
 miserable
 miserableness
+miserablenesses
 miserables
 miserere
 misereres
@@ -66823,6 +66840,7 @@ monomial
 monomials
 monomolecular
 monomolecularly
+monomorphemic
 monomorphic
 monomorphism
 monomorphisms
@@ -79524,6 +79542,7 @@ pickwicks
 picky
 picloram
 picnic
+picnicked
 picnicker
 picnicky
 picnics
@@ -83682,6 +83701,7 @@ priggeries
 priggery
 prigging
 priggish
+priggishly
 priggishness
 priggism
 priggisms
@@ -84465,6 +84485,7 @@ proportionates
 proportioning
 proportions
 proposals
+propose
 proposed
 proposer
 proposers
@@ -87428,6 +87449,7 @@ reaccredits
 reaccuse
 reaccusing
 reachable
+reacher
 reaches
 reacquaint
 reacquainted
@@ -91353,6 +91375,7 @@ restructure
 restructures
 restructuring
 restrung
+restudied
 restudying
 restuff
 restuffed
@@ -94013,6 +94036,7 @@ salaaming
 salaams
 salabilities
 salability
+salable
 salably
 salacious
 salaciously
@@ -97533,6 +97557,7 @@ sheaths
 sheave
 shebang
 shebangs
+shebean
 shedable
 shedded
 shedder
@@ -99361,6 +99386,7 @@ slaphappy
 slapped
 slapper
 slapping
+slaps
 slapstick
 slash
 slashed
@@ -102183,6 +102209,7 @@ sporadic
 sporal
 sporangiophore
 sporangiophores
+spored
 spores
 sporing
 sporocarp
@@ -104689,6 +104716,7 @@ subentries
 subentry
 subepoch
 subepochs
+suber
 suberect
 suberic
 suberin
@@ -109028,6 +109056,7 @@ testers
 testes
 testier
 testiest
+testifiers
 testify
 testimonials
 testimonies
@@ -109940,6 +109969,7 @@ thyroglobulin
 thyroid
 thyroidal
 thyroidectomies
+thyroidectomy
 thyroiditises
 thyroids
 thyrotoxicoses
@@ -112579,6 +112609,7 @@ troubleshoot
 troubleshooter
 troubleshooters
 troubleshooting
+troubleshoots
 troublesome
 troublesomely
 troublesomeness
@@ -115822,6 +115853,7 @@ unreadily
 unreadiness
 unreadinesses
 unready
+unreal
 unrealistic
 unrealities
 unreality
@@ -116356,6 +116388,7 @@ untruest
 untruly
 untruss
 untrussed
+untrustworthy
 untrusty
 untruth
 untruthful
@@ -118182,6 +118215,7 @@ vicegerencies
 vicegerency
 vicegerent
 vicegerents
+viceless
 vicennial
 vicereine
 vicereines
@@ -122571,6 +122605,7 @@ zoospore
 zoospores
 zoosporic
 zoosterols
+zootechnics
 zootier
 zootomic
 zootomists
