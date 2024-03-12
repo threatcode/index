@@ -7,3 +7,11 @@ liquibase-integration-tests/setup/oracle ... - GitLab,https://code.polars.info/p
 scripts/mysql_system_tables_fix.sql ... - GitLab,https://git-seclab.bu.edu/rasoulj/mysql-server/-/blob/eb992f4a61b6e4b14054ad00cab9cc2b047a6004/scripts/mysql_system_tables_fix.sql
 maintenance/mssql/tables.sql · master · mirrors / mediawiki-131 ...,https://gitlab.cs.umd.edu/mirrors/mediawiki-131/-/blob/master/maintenance/mssql/tables.sql
 hr_test_110622.sql - OpenMRS Wiki,https://wiki.openmrs.org/download/attachments/15139153/hr_test_110622.sql
+https://raw.githubusercontent.com/Netflix/genie/v3...,https://raw.githubusercontent.com/Netflix/genie/v3.2.0/genie-ddl/src/main/sql/postgresql/upgrade-3.1.x-to-3.2.0.postgresql.sql
+mysql-sys/functions/list_add.sql at master - GitHub,https://github.com/mysql/mysql-sys/blob/master/functions/list_add.sql
+PubsRevival/Scripts/migration_2-1-5_to_2-1-6.sql at master - GitHub,https://github.com/Phil-Factor/PubsRevival/blob/master/Scripts/migration_2-1-5_to_2-1-6.sql
+regprocedure_update.sql,http://www.sai.msu.su/~megera/postgres/gist/tsearch/V2/regprocedure_update.sql
+PacketFence: db/upgrade-13.0-13.1.sql | Fossies,https://fossies.org/linux/packetfence/db/upgrade-13.0-13.1.sql
+flashbots/rpc-endpoint/002_add_fast.up.sql code summary | Flashbots,https://app.x23.ai/flashbots/code/flashbots/rpc-endpoint/files/sql%5B_%5Dredshift%5B_%5D002_add_fast.up.sql
+https://raw.githubusercontent.com/bhits-dev/vss/ma...,https://raw.githubusercontent.com/bhits-dev/vss/master/vss-db-sample/vss_db_sample.sql
+PostgreSQL: src/test/regress/sql/tsdicts.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/tsdicts.sql
