@@ -2120,6 +2120,7 @@ albatrosses
 albedoes
 albeit
 albertites
+albescent
 albicore
 albinal
 albinic
@@ -5920,6 +5921,7 @@ assais
 assassin
 assassinate
 assassinator
+assaulted
 assaulter
 assaultive
 assaultively
@@ -7264,6 +7266,7 @@ baccara
 baccaras
 baccarat
 baccarats
+baccated
 bacchanal
 bacchanalian
 bacchanals
@@ -14888,6 +14891,7 @@ cankers
 cankerworm
 cankerworms
 cannabin
+cannabinoids
 cannabinol
 cannabinols
 cannabins
@@ -16560,6 +16564,7 @@ centrings
 centrioles
 centripetal
 centripetally
+centrism
 centrist
 centroid
 centroids
@@ -20919,6 +20924,7 @@ comprehendible
 comprehending
 comprehends
 comprehension
+comprehensions
 comprehensive
 comprehensively
 compressedly
@@ -21778,6 +21784,7 @@ console
 consoled
 consoler
 consolers
+consolidated
 consolidates
 consolidations
 consolidator
@@ -23640,6 +23647,7 @@ cowslips
 cowy
 cox
 coxae
+coxal
 coxalgia
 coxalgias
 coxalgic
@@ -23916,6 +23924,7 @@ crayons
 craze
 crazier
 crazies
+craziest
 crazily
 craziness
 crazinesses
@@ -27146,6 +27155,7 @@ deinonychus
 deinonychuses
 deionization
 deionizations
+deionize
 deionized
 deionizer
 deionizers
@@ -27323,6 +27333,7 @@ delts
 deluded
 deludes
 deluged
+deluges
 deluging
 delusion
 delusionary
@@ -30147,6 +30158,7 @@ dishelming
 disherited
 disheriting
 dishes
+disheveling
 dishevelled
 dishevelling
 dishful
@@ -40906,6 +40918,7 @@ folksong
 folksongs
 folksy
 folktale
+folktales
 folkway
 folkways
 folky
@@ -46768,6 +46781,7 @@ gutters
 guttersnipe
 guttersnipish
 guttery
+guttiest
 gutting
 guttle
 guttled
@@ -49985,6 +49999,7 @@ hooey
 hooeys
 hoof
 hoofbeats
+hoofer
 hoofers
 hoofing
 hooflike
@@ -50015,6 +50030,7 @@ hoopers
 hoopla
 hoopoe
 hoopoes
+hoopoo
 hoopoos
 hoops
 hoopskirts
@@ -51805,6 +51821,7 @@ images
 imaginable
 imaginableness
 imaginably
+imaginal
 imaginaries
 imaginarily
 imaginarinesses
@@ -53355,6 +53372,7 @@ inebriates
 inebriation
 inebriations
 inebrieties
+inebriety
 inedible
 inedibly
 ineffability
@@ -56548,6 +56566,7 @@ jinni
 jinnis
 jinns
 jinricksha
+jinrickshas
 jinrikisha
 jinriksha
 jinrikshas
@@ -57946,6 +57965,7 @@ knead
 kneadable
 kneader
 kneading
+kneads
 knee
 kneecapping
 kneecaps
@@ -58815,6 +58835,7 @@ lanthanums
 lanthorn
 lanuginous
 lanugo
+lanyard
 lanyards
 laogai
 laogais
@@ -63905,6 +63926,7 @@ megaloblastic
 megaloblasts
 megalomania
 megalomaniac
+megalomaniacs
 megalomanias
 megalomanic
 megalopic
@@ -66247,6 +66269,7 @@ mismarked
 mismarking
 mismarks
 mismarriage
+mismarriages
 mismatch
 mismatched
 mismatching
@@ -70015,6 +70038,7 @@ nifty
 nigella
 nigellas
 niggard
+niggarded
 niggarding
 niggardliness
 niggardlinesses
@@ -98583,6 +98607,7 @@ shortchanger
 shortchangers
 shortcoming
 shortcomings
+shortcut
 shortcuts
 shortcutting
 shorted
@@ -111525,6 +111550,7 @@ torch
 torchable
 torchbearer
 torchbearers
+torched
 torchere
 torcheres
 torchiere
@@ -112542,6 +112568,7 @@ tremendousness
 tremolites
 tremolitic
 tremolo
+tremor
 tremors
 tremulous
 tremulousnesses
@@ -112562,6 +112589,7 @@ trendiest
 trendily
 trending
 trendoid
+trendoids
 trends
 trendsetter
 trendsetters
@@ -113382,6 +113410,7 @@ trustworthily
 trustworthiness
 trustworthy
 truth
+truthful
 truthfully
 truthfulness
 truthfulnesses
@@ -114826,6 +114855,7 @@ uncharitable
 uncharitably
 uncharming
 uncharred
+uncharted
 unchartered
 unchary
 unchastely
@@ -115057,6 +115087,7 @@ uncross
 uncrossed
 uncrosses
 uncrossing
+uncrowded
 uncrown
 uncrowns
 uncrumple
@@ -115091,6 +115122,7 @@ undated
 undauntable
 undaunted
 undauntedly
+unde
 undead
 undebated
 undeceive
@@ -120393,6 +120425,7 @@ wattle
 wattlebird
 wattles
 wattless
+wattling
 wattmeter
 wattmeters
 watts
@@ -122224,6 +122257,7 @@ worses
 worset
 worsets
 worship
+worshiped
 worshiper
 worshipfully
 worshiping
@@ -122438,6 +122472,7 @@ xenia
 xenial
 xenias
 xenic
+xenobiotic
 xenobiotics
 xenocryst
 xenocrysts
