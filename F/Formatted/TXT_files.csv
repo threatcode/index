@@ -1,0 +1,20 @@
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+http://www.cs.ox.ac.uk/people/geraint.jones/public...,http://www.cs.ox.ac.uk/people/geraint.jones/publications/book/Pio2/code-formatted.txt
+rhysd/vim-clang-format - GitHub,https://github.com/rhysd/vim-clang-format/blob/master/doc/clang-format.txt
+formatted text.txt,https://bgcarto.com/download/formatted%2520text.txt
+RFC 1523,https://www.rfc-editor.org/rfc/rfc1523.txt
+source - Perl Documentation,https://perldoc.perl.org/pod2text.txt
+https://docs.python.org/3/_sources/library/pprint....,https://docs.python.org/3/_sources/library/pprint.rst.txt
+printf,https://www.math.miami.edu/~hk/csc120/week5/printf.txt
+FORMAT.txt - GitHub,https://github.com/microsoft/MS-DOS/blob/master/v2.0/source/FORMAT.txt
+README - Convert-control,https://convert-control.de/en/help/format_number/README.txt%3Fpopup%3D1
+NFORMAT! documentation. - ToastyTech,http://toastytech.com/files/nformat.txt
+Version 1.9 of ais/ai-form.txt,http://www.ada-auth.org/cgi-bin/cvsweb.cgi/ais/ai-form.txt%3Frev%3D1.9%26raw%3DN
+GC0165: RICH-TEXT FORMAT (RTF) SPECIFICATION - Latex2RTF,https://latex2rtf.sourceforge.net/RTF-Spec-1.0.txt
+SCSI.txt - KURZWEIL,https://kurzweil.com/wp-content/uploads/2019/10/SCSI.txt
+en-us/about_EZOut.help.txt 1.8.5 - PowerShell Gallery,https://www.powershellgallery.com/packages/EZOut/1.8.5/Content/en-us%255Cabout_EZOut.help.txt
+PrintScanI.txt - okmij.org,https://okmij.org/ftp/typed-formatting/PrintScanI.txt
+da_ant_pattern_lms.txt,ftp://ftp.fcc.gov/pub/Bureaus/MB/Databases/formatted/da_ant_pattern_lms.txt
+RFC 2161,https://www.rfc-editor.org/rfc/rfc2161.txt
+CVS log for ais/ai-00433.txt,http://www.ada-auth.org/cgi-bin/cvsweb.cgi/ais/ai-00433.txt
+rwinfnan1.txt,https://www.math.utah.edu/~beebe/software/ieee/rwinfnan1.txt
