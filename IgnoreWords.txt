@@ -210,6 +210,7 @@ acacia
 academes
 academia
 academias
+academic
 academical
 academically
 academicians
@@ -2504,6 +2505,7 @@ allod
 allodial
 allodium
 allogamies
+allogamy
 allograft
 allografted
 allographic
@@ -5311,6 +5313,7 @@ arena
 arenaceous
 arenas
 arenes
+arenicolous
 arenite
 arenites
 arenose
@@ -7162,6 +7165,7 @@ azathioprine
 azedarach
 azedarachs
 azeotropes
+azeotropies
 azeotropy
 azide
 azido
@@ -9689,6 +9693,7 @@ betelnut
 beth
 bethank
 bethanked
+bethanking
 bethink
 bethinks
 bethorned
@@ -9715,6 +9720,7 @@ betrayed
 betrayer
 betrayers
 betraying
+betrays
 betroth
 betrothal
 betrothals
@@ -20154,6 +20160,7 @@ collateralizing
 collaterally
 collaterals
 collation
+collator
 collators
 colleague
 colleagues
@@ -23655,6 +23662,7 @@ cowpats
 cowpea
 cowpeas
 cowpies
+cowpoke
 cowpoxes
 cowpuncher
 cowrie
@@ -28156,6 +28164,7 @@ deserting
 desertion
 desertions
 deserts
+deservedness
 deserver
 deserves
 deserving
@@ -28313,6 +28322,7 @@ desquamates
 desquamating
 desquamation
 dessertspoonful
+dessertspoons
 destabilization
 destabilize
 destabilized
@@ -29854,6 +29864,7 @@ discharges
 discharging
 disci
 discing
+disciple
 discipled
 discipleships
 disciplinable
@@ -33365,6 +33376,7 @@ effulge
 effulged
 effulgence
 effulgent
+effulging
 effused
 effuses
 effusing
@@ -37289,6 +37301,7 @@ expectorant
 expectorants
 expectorate
 expectorates
+expectorating
 expectoration
 expectorations
 expects
@@ -39267,6 +39280,7 @@ fibrosarcoma
 fibrosarcomas
 fibrosarcomata
 fibrosis
+fibrositis
 fibrositises
 fibrotic
 fibrous
@@ -42113,6 +42127,7 @@ friezelike
 frigate
 frigates
 friges
+frigged
 frigging
 fright
 frighten
@@ -43752,6 +43767,7 @@ gemlike
 gemma
 gemmae
 gemmed
+gemmier
 gemmily
 gemminess
 gemminesses
@@ -49968,6 +49984,7 @@ honeypots
 honeys
 honeysuckle
 honeysuckles
+hong
 hongi
 hongies
 hongiing
@@ -54162,6 +54179,7 @@ inseminating
 inseminators
 insensate
 insensately
+insensibility
 insensible
 insensibleness
 insensibly
@@ -56996,6 +57014,7 @@ juniorities
 juniority
 juniors
 junipers
+junked
 junker
 junkers
 junket
@@ -58099,6 +58118,7 @@ knower
 knowers
 knowinger
 knowingest
+knowingness
 knowings
 knowledge
 knowledgeably
@@ -62995,6 +63015,7 @@ mapper
 mapping
 mappings
 maquette
+maqui
 maquila
 maquiladora
 maquilas
@@ -63327,6 +63348,7 @@ mashing
 masjid
 mask
 masked
+maskeg
 masker
 maskers
 masking
@@ -66141,6 +66163,7 @@ misesteem
 misesteemed
 misesteems
 misestimate
+misestimates
 misestimation
 misestimations
 misevaluate
@@ -66756,6 +66779,7 @@ mobbing
 mobbish
 mobbism
 mobbisms
+mobcaps
 mobile
 mobiles
 mobilise
@@ -67133,6 +67157,7 @@ monistic
 monists
 monition
 monitor
+monitored
 monitorial
 monitories
 monitoring
@@ -67219,6 +67244,7 @@ monogamist
 monogamists
 monogamous
 monogamously
+monogamy
 monogastric
 monogeneans
 monogeneses
@@ -69821,6 +69847,7 @@ neuroma
 neuromas
 neuromast
 neuromasts
+neuromuscular
 neuron
 neuronal
 neurones
@@ -80940,6 +80967,7 @@ plasmagels
 plasmagene
 plasmalemma
 plasmalemmas
+plasmaphereses
 plasmasol
 plasmasols
 plasmatic
@@ -84657,6 +84685,7 @@ profounder
 profoundest
 profoundly
 profoundness
+profounds
 profundity
 profusely
 profuseness
@@ -87385,6 +87414,7 @@ raider
 raiders
 raiding
 rail
+railbird
 railbus
 railbusses
 railed
@@ -87909,6 +87939,7 @@ ravelment
 ravels
 raven
 ravener
+ravenings
 ravenlike
 ravenous
 ravenousnesses
@@ -89002,6 +89033,7 @@ redamaged
 redamaging
 redans
 redargue
+redargued
 redargues
 redates
 redbait
@@ -92291,6 +92323,7 @@ retrims
 retro
 retroact
 retroacted
+retroaction
 retroactions
 retroactive
 retroactivities
@@ -106248,6 +106281,7 @@ sulphid
 sulphides
 sulphids
 sulphite
+sulphone
 sulphones
 sulphur
 sulphured
@@ -108608,6 +108642,7 @@ tapping
 tappings
 taproom
 taprooms
+taproot
 taps
 tapster
 taqueria
