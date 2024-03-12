@@ -1023,6 +1023,7 @@ administrant
 administrants
 administrate
 administrated
+administration
 administrator
 administrators
 administratrix
@@ -6979,6 +6980,7 @@ avulsions
 avuncular
 avuncularities
 aw
+awaited
 awaiters
 awaiting
 awaits
@@ -7457,6 +7459,7 @@ bacteriostases
 bacteriostat
 bacteriostatic
 bacteriostats
+bacterium
 bacteriuria
 bacteriurias
 bacterization
@@ -9174,6 +9177,7 @@ belligerence
 belligerences
 belligerent
 belligerently
+belligerents
 bellings
 bellman
 bellowed
@@ -12296,6 +12300,7 @@ bracket
 bracketing
 brackets
 braconid
+braconids
 bract
 bracteal
 bracted
@@ -14637,6 +14642,7 @@ camisias
 camisole
 camlet
 cammie
+camomiles
 camorras
 camorrist
 camorrista
@@ -15649,6 +15655,7 @@ cartelise
 cartelised
 cartelization
 cartelizations
+cartelize
 cartelized
 cartelizing
 carter
@@ -17435,6 +17442,7 @@ chicane
 chicaner
 chicaneries
 chicaners
+chicanery
 chicanes
 chicaning
 chicano
@@ -18443,6 +18451,7 @@ cisted
 cistern
 cisternae
 cisterns
+cistron
 cistronic
 cistrons
 cists
@@ -21274,6 +21283,7 @@ confided
 confidences
 confident
 confidential
+confidentiality
 confidently
 confiders
 confides
@@ -28042,6 +28052,7 @@ designer
 designers
 designing
 designings
+designments
 designs
 desilver
 desilvered
@@ -32288,6 +32299,7 @@ dulls
 dullsvilles
 dulness
 dulnesses
+dulse
 dulses
 dumas
 dumb
@@ -32925,6 +32937,7 @@ econobox
 econometrician
 econometrics
 econometrist
+econometrists
 economical
 economically
 economics
@@ -33674,6 +33687,7 @@ eluted
 elutes
 eluting
 elutions
+elutriate
 elutriated
 elutriates
 elutriating
@@ -35425,6 +35439,7 @@ epithelializing
 epithelioma
 epitheliomas
 epitheliomata
+epithelium
 epitheliums
 epithelization
 epithelizations
@@ -37145,6 +37160,7 @@ experting
 expertise
 expertises
 expertism
+expertisms
 expertize
 expertizing
 expertly
@@ -41431,6 +41447,7 @@ foulard
 foulbrood
 foulbroods
 fouled
+foulest
 fouling
 foulings
 foully
@@ -41541,6 +41558,7 @@ fractures
 fracturing
 fractus
 frae
+fraena
 fraenum
 fraenums
 frag
@@ -48673,6 +48691,7 @@ heroinisms
 heroins
 heroism
 heroisms
+heroize
 heroizing
 heronries
 heronry
@@ -53502,6 +53521,7 @@ ingesting
 ingestion
 ingle
 inglenooks
+ingles
 inglorious
 ingloriously
 ingloriousness
@@ -65142,6 +65162,7 @@ millihenries
 millihenry
 millilambert
 millilamberts
+milliliter
 milliliters
 milliluces
 millilux
@@ -67116,6 +67137,7 @@ moonlit
 moonports
 moonquakes
 moonrise
+moonrises
 moonroof
 moonroofs
 moons
@@ -67479,6 +67501,7 @@ motorize
 motorizes
 motorless
 motormouths
+motors
 motorship
 motorships
 motortruck
@@ -69348,6 +69371,7 @@ nerveless
 nervelessness
 nervelessnesses
 nerves
+nervier
 nerviest
 nervily
 nervine
@@ -71807,6 +71831,7 @@ obligatorily
 obligators
 obligatory
 obligatos
+obligee
 obligees
 obligers
 obliges
@@ -76840,6 +76865,7 @@ parleyed
 parleys
 parliament
 parliamentarian
+parliamentary
 parliaments
 parling
 parlors
@@ -78950,6 +78976,7 @@ phenacaine
 phenacaines
 phenacetin
 phenacite
+phenacites
 phenakite
 phenanthrene
 phenate
@@ -81272,6 +81299,7 @@ poleaxed
 poleaxes
 poleaxing
 polecat
+polecats
 poleis
 poleless
 polemical
@@ -82465,6 +82493,7 @@ prater
 praters
 prates
 pratfall
+pratfalls
 pratincole
 pratincoles
 prating
@@ -93249,6 +93278,7 @@ rosily
 rosin
 rosiness
 rosining
+rosinol
 rosinols
 rosinous
 rosins
@@ -99334,6 +99364,7 @@ skirmisher
 skirmishers
 skirr
 skirred
+skirret
 skirted
 skirting
 skirtless
@@ -107393,6 +107424,7 @@ syntagmas
 syntagmata
 syntagms
 syntax
+synth
 synthesis
 synthesist
 synthesize
@@ -107921,6 +107953,7 @@ tandoors
 tang
 tanga
 tangelos
+tangences
 tangencies
 tangent
 tangental
@@ -115194,6 +115227,7 @@ unfitly
 unfitness
 unfitnesses
 unfits
+unfitted
 unfitting
 unfix
 unfixes
@@ -119325,6 +119359,7 @@ wafture
 waftures
 wag
 wage
+waged
 wageless
 wagered
 wagerer
