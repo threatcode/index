@@ -937,6 +937,7 @@ adherence
 adherences
 adherends
 adherent
+adherer
 adherers
 adhering
 adhesional
@@ -7257,6 +7258,7 @@ bacilli
 bacillus
 bacitracin
 backbeat
+backbeats
 backbench
 backbenchers
 backbenches
@@ -8008,6 +8010,7 @@ barchans
 barded
 bardes
 bardic
+barding
 bare
 bareback
 barebacked
@@ -12839,6 +12842,7 @@ bristol
 brit
 britannias
 briths
+brits
 britskas
 britt
 brittania
@@ -22825,6 +22829,7 @@ corteges
 cortex
 cortical
 cortically
+corticate
 cortices
 corticoid
 corticoids
@@ -25110,6 +25115,7 @@ cutbank
 cutbanks
 cutch
 cutchery
+cutches
 cute
 cuteness
 cuter
@@ -25486,6 +25492,7 @@ dabbler
 dabbles
 dabblings
 dabs
+dabster
 dace
 daces
 dacha
@@ -30713,6 +30720,7 @@ divan
 divans
 divaricate
 divaricated
+divaricating
 divarications
 dive
 divebomb
@@ -34262,6 +34270,7 @@ encircled
 encirclement
 encirclements
 encircles
+encircling
 enclasp
 enclasped
 enclasping
@@ -36172,6 +36181,7 @@ etiolates
 etiolating
 etiolations
 etiologic
+etiologies
 etiquette
 etiquettes
 etna
@@ -41636,6 +41646,7 @@ franker
 frankers
 frankest
 frankfurt
+frankfurter
 frankfurts
 frankincense
 franking
@@ -52981,6 +52992,7 @@ indirections
 indirectly
 indirectnesses
 indisciplinable
+indiscipline
 indisciplines
 indiscoverable
 indiscreet
@@ -55872,6 +55884,7 @@ jacksmelts
 jacksnipe
 jackstay
 jackstays
+jackstone
 jackstones
 jackstraw
 jacky
@@ -61861,6 +61874,7 @@ madames
 madcap
 madcaps
 madden
+maddened
 maddening
 maddeningly
 madder
@@ -64358,6 +64372,7 @@ metallurgist
 metallurgists
 metallurgy
 metalmark
+metalmarks
 metals
 metalsmith
 metalsmiths
@@ -66045,6 +66060,7 @@ misparsing
 misparted
 misparting
 misparts
+mispatches
 mispenned
 mispens
 misperceived
@@ -66695,6 +66711,7 @@ mommas
 mommies
 moms
 momser
+momsers
 momzer
 momzers
 mon
@@ -70493,6 +70510,7 @@ nonessential
 nonessentials
 nonestablished
 nonesuch
+nonesuches
 nonet
 nonetheless
 nonethical
@@ -71410,6 +71428,7 @@ nowts
 noxious
 noxiously
 noxiousness
+noyades
 nozzle
 nozzles
 nth
@@ -72899,6 +72918,7 @@ optimums
 opting
 optionality
 optionally
+optionals
 optioned
 optionee
 optionees
@@ -77143,6 +77163,7 @@ past
 pastalike
 pastas
 paste
+pasted
 pastedown
 pastedowns
 pastel
@@ -78000,6 +78021,7 @@ pensions
 pensive
 pensiveness
 pensivenesses
+penstemon
 penstemons
 penster
 pensters
@@ -84728,6 +84750,7 @@ proseminar
 prosencephala
 prosencephalon
 proser
+prosers
 prosier
 prosiest
 prosily
@@ -92027,6 +92050,7 @@ reverencers
 reverences
 reverencing
 reverend
+reverends
 reverent
 reverential
 reverentially
@@ -92265,6 +92289,7 @@ rhabdomal
 rhabdomancer
 rhabdomancers
 rhabdomancies
+rhabdomancy
 rhabdomeres
 rhabdomes
 rhabdoms
@@ -92472,6 +92497,7 @@ ribonucleosides
 ribonucleotide
 ribonucleotides
 ribose
+ribosome
 ribosomes
 ribozyme
 ribozymes
@@ -96294,6 +96320,7 @@ secs
 sect
 sectarianisms
 sectarianized
+sectarianizes
 sectarians
 sectaries
 sectile
@@ -98561,6 +98588,7 @@ sidecars
 sidecheck
 sidechecks
 sidedness
+sidedresses
 sidehill
 sidehills
 sidekick
@@ -99183,6 +99211,7 @@ skated
 skaters
 skates
 skatings
+skatole
 skatols
 skats
 skeane
@@ -100838,6 +100867,7 @@ solderers
 soldering
 solders
 soldi
+soldier
 soldiered
 soldiering
 soldierings
@@ -105821,6 +105851,7 @@ sumps
 sumpter
 sumpters
 sumptuary
+sumptuousness
 sumpweed
 sumpweeds
 sun
@@ -107075,6 +107106,7 @@ swordtails
 swore
 sworn
 swots
+swotter
 swotters
 swotting
 swoun
@@ -108293,6 +108325,7 @@ tautly
 tautog
 tautogs
 tautological
+tautologies
 tautologous
 tautomer
 tautomeric
@@ -111359,6 +111392,7 @@ toweriest
 towering
 towerlike
 towers
+towheads
 towhee
 towhees
 towie
@@ -122885,4 +122919,5 @@ zymoses
 zymosis
 zymurgies
 zymurgy
+zyzzyva
 zyzzyvas
