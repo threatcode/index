@@ -11708,6 +11708,7 @@ bondmaids
 bondman
 bondsman
 bondstone
+bonducs
 bondwoman
 bondwomen
 bone
@@ -17912,6 +17913,7 @@ choirs
 choke
 chokeable
 chokeberries
+chokeberry
 chokebore
 chokebores
 choked
@@ -21372,6 +21374,7 @@ confects
 confederacy
 confederal
 confederated
+confederates
 confederating
 confederative
 conferee
@@ -22972,6 +22975,7 @@ corticosteroids
 corticosterone
 corticosterones
 corticotrophins
+corticotropin
 cortins
 cortisols
 cortisone
@@ -23758,6 +23762,7 @@ crablike
 crabmeat
 crabmeats
 crabs
+crabsticks
 crack
 crackajack
 crackajacks
@@ -28823,6 +28828,7 @@ diagenetic
 diagenetically
 diagnose
 diagnoseable
+diagnosed
 diagnoses
 diagnostic
 diagnostically
@@ -30532,6 +30538,7 @@ dispute
 disputed
 disputer
 disputers
+disputing
 disqualified
 disquantities
 disquantity
@@ -40176,6 +40183,7 @@ flatteries
 flattering
 flatteringly
 flattery
+flatting
 flattish
 flattop
 flatulences
@@ -41102,6 +41110,7 @@ footfaulting
 footfaults
 footgear
 footgears
+foothills
 foothold
 footies
 footing
@@ -43694,6 +43703,7 @@ gazelles
 gazes
 gazette
 gazetteer
+gazettes
 gazetting
 gazillion
 gazillions
@@ -44306,6 +44316,7 @@ gied
 gieing
 gien
 gies
+giftable
 giftables
 gifted
 giftedly
@@ -44960,6 +44971,7 @@ gluier
 gluiest
 gluily
 gluiness
+gluinesses
 glume
 glumnesses
 glumpier
@@ -52042,6 +52054,7 @@ immeasurably
 immediacies
 immediacy
 immediate
+immediately
 immediateness
 immediatenesses
 immedicable
@@ -52478,6 +52491,7 @@ impostors
 imposts
 impostumes
 impostures
+impotences
 impotencies
 impotency
 impotent
@@ -57414,6 +57428,7 @@ keeks
 keelage
 keelboat
 keeled
+keelhaled
 keelhales
 keelhaling
 keelhauled
@@ -60549,6 +60564,7 @@ lingerers
 lingeries
 lingering
 lingeringly
+lingers
 lingier
 lingiest
 lingo
@@ -61484,6 +61500,7 @@ losingly
 loss
 losses
 lossless
+lost
 lostness
 lostnesses
 lot
@@ -68000,6 +68017,7 @@ mourning
 mourningly
 mournings
 mourns
+mousaka
 mouse
 mousebird
 mousebirds
@@ -70368,6 +70386,7 @@ nitrofurans
 nitrogen
 nitrogens
 nitroglycerin
+nitroglycerine
 nitroglycerines
 nitroglycerins
 nitrolic
@@ -73170,6 +73189,7 @@ openabilities
 openability
 openable
 opencast
+opened
 openers
 openhanded
 openhandedly
@@ -76064,6 +76084,7 @@ oviducts
 ovine
 ovines
 ovipara
+oviparities
 oviparity
 oviparous
 oviposit
@@ -77272,6 +77293,7 @@ pareus
 pareve
 parfait
 parfaits
+parfleche
 parfleches
 parflesh
 parfleshes
@@ -78555,6 +78577,7 @@ peopled
 peoplehood
 peopler
 peoplers
+peoples
 peopling
 pep
 peperomias
@@ -82041,6 +82064,7 @@ polynyi
 polyolefin
 polyolefins
 polyols
+polyoma
 polyomas
 polyonymous
 polyp
@@ -83374,6 +83398,7 @@ prednisones
 predoctoral
 predominance
 predominances
+predominancy
 predominant
 predominantly
 predominate
@@ -91445,6 +91470,7 @@ repurposed
 repurposing
 repursue
 repursuing
+reputability
 reputable
 reputably
 reputation
@@ -91822,6 +91848,7 @@ resmooth
 resmoothed
 resmoothing
 resmooths
+resoaked
 resoaking
 resoaks
 resocialization
@@ -100941,6 +100968,7 @@ sneezing
 sneezy
 snell
 snelled
+sneller
 snells
 snib
 snibbing
@@ -103699,6 +103727,7 @@ starchily
 starchiness
 starching
 starchy
+stare
 stared
 starers
 stares
@@ -110019,6 +110048,7 @@ tews
 texas
 texases
 textbookish
+textile
 textiles
 textless
 texts
@@ -113247,6 +113277,7 @@ trippers
 trippet
 trippets
 trippier
+trippiest
 trippingly
 trippings
 trippy
@@ -118057,6 +118088,7 @@ uxoricides
 uxorious
 uxoriously
 uxoriousnesses
+vac
 vacancies
 vacancy
 vacant
@@ -122333,6 +122365,7 @@ woolhat
 woolhats
 woolier
 woolies
+wooliness
 woolinesses
 woolled
 woollen
@@ -122818,6 +122851,7 @@ yabbies
 yabby
 yacht
 yachted
+yachter
 yachters
 yachtings
 yachtmen
@@ -123391,6 +123425,7 @@ zincite
 zincking
 zincs
 zine
+zineb
 zinebs
 zines
 zinfandel
