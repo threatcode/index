@@ -43,6 +43,7 @@ abri
 abridge
 abridgements
 abridger
+abridges
 abridging
 abroach
 abroad
@@ -4226,6 +4227,7 @@ antigun
 antihelices
 antihelix
 antiheroes
+antiheroic
 antiheroine
 antihijack
 antihistamines
@@ -8929,6 +8931,7 @@ bedrivelling
 bedrivels
 bedrock
 bedrocks
+bedroom
 bedroomed
 bedrooms
 bedrugged
@@ -11815,6 +11818,7 @@ bonniest
 bonnily
 bonnocks
 bonny
+bonnyclabber
 bonsai
 bonspells
 bonspiel
@@ -20027,6 +20031,7 @@ cognately
 cognates
 cognation
 cognised
+cognises
 cognising
 cognition
 cognitional
@@ -21323,6 +21328,7 @@ concord
 concordal
 concordances
 concordant
+concords
 concours
 concourse
 concourses
@@ -39344,6 +39350,7 @@ fetch
 fetched
 fetchers
 fetches
+fetching
 fete
 feted
 feterita
@@ -40069,6 +40076,7 @@ fishing
 fishings
 fishkill
 fishkills
+fishless
 fishlike
 fishline
 fishlines
@@ -43157,6 +43165,7 @@ gabelled
 gabelles
 gaberdines
 gabfests
+gabion
 gabions
 gabled
 gablelike
@@ -43277,6 +43286,7 @@ galantines
 galas
 galatea
 galavant
+galavanted
 galax
 galaxies
 galaxy
@@ -45575,6 +45585,7 @@ gonifs
 goniometer
 goniometers
 goniometric
+goniometry
 gonion
 gonium
 gonococci
@@ -48066,6 +48077,7 @@ hare
 harebell
 harebells
 harebrained
+hareem
 hareems
 harelike
 harelips
@@ -49731,6 +49743,7 @@ histiocytic
 histochemical
 histochemistry
 histogeneses
+histogenetic
 histogens
 histogram
 histograms
@@ -51514,6 +51527,7 @@ hypergamy
 hyperglycemia
 hyperglycemias
 hyperglycemic
+hypergol
 hyperhidroses
 hyperhidrosis
 hyperimmune
@@ -54662,6 +54676,7 @@ installment
 installments
 installs
 instalment
+instalments
 instals
 instance
 instanced
@@ -56152,6 +56167,7 @@ irritator
 irrupt
 irrupting
 irruptions
+irruptive
 irruptively
 irrupts
 is
@@ -66324,6 +66340,7 @@ misapply
 misappraisal
 misappraisals
 misapprehends
+misapprehension
 misappropriated
 misappropriates
 misarticulate
@@ -68524,6 +68541,7 @@ mucocutaneous
 mucoid
 mucoidal
 mucoids
+mucolytic
 mucopeptides
 mucoprotein
 mucoproteins
@@ -74011,6 +74029,7 @@ originator
 originators
 origins
 orinasal
+oriole
 orioles
 orismological
 orismologies
@@ -78598,6 +78617,7 @@ pedantic
 pedantries
 pedantry
 pedately
+peddle
 peddled
 peddleries
 peddlers
@@ -78851,6 +78871,7 @@ pendragons
 pends
 pendular
 pendulous
+pendulousness
 pendulousnesses
 peneplain
 peneplane
@@ -81589,6 +81610,7 @@ plateaus
 platelets
 platelike
 platemaker
+platemakers
 platemaking
 platemakings
 platens
@@ -89531,6 +89553,7 @@ recrated
 recrates
 recreance
 recreances
+recreancy
 recreant
 recreates
 recreating
@@ -90387,6 +90410,7 @@ refrigeration
 refrigerations
 refrigerator
 refront
+refronted
 refronting
 refroze
 refry
@@ -95885,6 +95909,7 @@ sardius
 sardiuses
 sardonic
 sardonically
+sardonicism
 sardonyxes
 sarees
 sargassos
@@ -99209,6 +99234,7 @@ shirtings
 shirtmaker
 shirts
 shirtsleeve
+shirttail
 shirttailed
 shirttailing
 shirttails
@@ -106663,6 +106689,7 @@ subtrends
 subtribe
 subtribes
 subtropical
+subtropics
 subtype
 subtypes
 subulate
@@ -106696,6 +106723,7 @@ subversionary
 subversions
 subversive
 subversiveness
+subversives
 subvert
 subverter
 subverters
@@ -109760,6 +109788,7 @@ teasers
 teases
 teashop
 teashops
+teasing
 teasingly
 teaspoon
 teaspoonful
@@ -114791,6 +114820,7 @@ tussahs
 tussal
 tussar
 tussars
+tusseh
 tussers
 tusses
 tussis
@@ -115476,6 +115506,7 @@ unamazed
 unambitious
 unambivalent
 unamenable
+unamended
 unamiable
 unamortized
 unamplified
@@ -116439,6 +116470,7 @@ undocile
 undock
 undocked
 undoctored
+undoctrinaire
 undoes
 undogmatic
 undogmatically
@@ -118789,6 +118821,7 @@ uvula
 uvulae
 uvular
 uvularly
+uvulars
 uvulas
 uvulitis
 uxorial
@@ -120066,6 +120099,7 @@ vindaloos
 vindicated
 vindicates
 vindicating
+vindications
 vindicative
 vindicator
 vindicators
@@ -120518,6 +120552,7 @@ volcanizes
 volcanizing
 volcano
 volcanologic
+volcanological
 volcanologies
 volcanos
 voled
