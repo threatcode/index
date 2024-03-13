@@ -1501,6 +1501,7 @@ affirmance
 affirmances
 affirmants
 affirmation
+affirmations
 affirmatives
 affirmed
 affirmer
@@ -2714,6 +2715,7 @@ alternator
 alternators
 alters
 althaeas
+altho
 althorn
 althorns
 altigraph
@@ -3519,6 +3521,7 @@ anemically
 anemograph
 anemographs
 anemologies
+anemology
 anemometer
 anemometers
 anemometries
@@ -7455,6 +7458,7 @@ backstages
 backstair
 backstamp
 backstamped
+backstamping
 backstamps
 backstay
 backstitch
@@ -7583,6 +7587,7 @@ bagged
 baggers
 baggie
 baggier
+baggies
 baggily
 bagginesses
 baggy
@@ -11731,6 +11736,7 @@ bonesetters
 boney
 boneyard
 boneyer
+bonfires
 bonged
 bongo
 bongoist
@@ -26903,6 +26909,7 @@ defective
 defectiveness
 defectivenesses
 defectors
+defects
 defeminize
 defeminized
 defeminizing
@@ -27360,6 +27367,7 @@ deliriums
 delist
 delisted
 delisting
+delists
 deliver
 deliverable
 deliverance
@@ -27798,6 +27806,7 @@ deodorize
 deodorized
 deodorizer
 deodorizers
+deodorizing
 deontic
 deontological
 deontologists
@@ -27912,6 +27921,7 @@ depopulations
 deport
 deportation
 deportations
+deported
 deporter
 deporters
 deportment
@@ -28131,6 +28141,7 @@ desalting
 desalts
 desand
 desanded
+desanding
 descant
 descanted
 descanter
@@ -40318,6 +40329,7 @@ flehmened
 flehmens
 fleishig
 flemish
+flemished
 flemishes
 flench
 flenches
@@ -45138,6 +45150,7 @@ goannas
 goas
 goat
 goatee
+goateed
 goatees
 goatfish
 goatfishes
@@ -54885,6 +54898,7 @@ interlude
 interlunar
 interlunary
 intermarriage
+intermarriages
 intermarried
 intermarries
 intermarry
@@ -55485,6 +55499,7 @@ invertebrate
 invertebrates
 inverted
 invertible
+invertins
 invertor
 invertors
 inverts
@@ -58615,6 +58630,7 @@ ladder
 laddered
 laddies
 lade
+laded
 laden
 ladening
 ladens
@@ -62990,6 +63006,7 @@ manipulator
 manitous
 manitu
 manitus
+mankind
 manless
 manlier
 manlikely
@@ -65259,6 +65276,7 @@ microporosities
 microprism
 microprobes
 microprocessor
+microprogram
 microprojection
 microprojectors
 micropublisher
@@ -65609,6 +65627,7 @@ millimes
 millimeters
 millimho
 millimhos
+millimicron
 millimicrons
 millimole
 millimoles
@@ -69738,6 +69757,7 @@ neomorph
 neomorphs
 neomycins
 neon
+neonatally
 neonate
 neonates
 neonatologies
@@ -70866,6 +70886,7 @@ nondeductible
 nondeductive
 nondefense
 nondeforming
+nondegenerate
 nondelegate
 nondelegates
 nondeliberate
@@ -73571,6 +73592,7 @@ organum
 organza
 organzine
 organzines
+orgasmed
 orgasms
 orgastic
 orgeat
@@ -77518,6 +77540,7 @@ parties
 partisanly
 partisans
 partisanship
+partisanships
 partita
 partite
 partitioned
@@ -82956,6 +82979,7 @@ practicer
 practicers
 practices
 practicum
+practise
 practised
 practitioner
 practitioners
@@ -89327,6 +89351,7 @@ rediscovery
 rediscussed
 rediscusses
 rediscussing
+redisplay
 redisplays
 redispose
 redisposed
@@ -90357,6 +90382,7 @@ reinterprets
 reinterred
 reinterring
 reinters
+reinterview
 reinterviewing
 reinterviews
 reintroduced
@@ -93516,6 +93542,7 @@ roach
 roached
 road
 roadabilities
+roadability
 roadbeds
 roadblocked
 roadblocking
@@ -96649,6 +96676,7 @@ scungillis
 scunner
 scunnered
 scunners
+scup
 scuppaug
 scuppernong
 scuppernongs
@@ -98233,6 +98261,7 @@ shankpieces
 shanks
 shanti
 shantih
+shantis
 shantung
 shanty
 shantyman
@@ -102076,6 +102105,7 @@ southpaw
 southpaws
 southron
 souths
+southward
 southwards
 southwest
 southwesterly
@@ -107104,6 +107134,7 @@ suppliants
 supplicant
 supplicate
 supplicated
+supplicating
 supplication
 supplications
 supplicatory
@@ -107322,6 +107353,7 @@ surtaxing
 surtitles
 surtout
 surveil
+surveillance
 surveillant
 surveillants
 surveilled
@@ -107980,6 +108012,7 @@ synapse
 synapsed
 synapsid
 synapsids
+synaptic
 synaptosomal
 synaptosomes
 synarthroses
@@ -113165,6 +113198,7 @@ trigo
 trigon
 trigonal
 trigonally
+trigonometric
 trigonometrical
 trigonometries
 trigonometry
@@ -120859,6 +120893,7 @@ weaponing
 weaponize
 weaponizing
 weaponless
+weaponries
 weapons
 wear
 wearabilities
