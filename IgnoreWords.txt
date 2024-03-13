@@ -4147,6 +4147,7 @@ antidesiccant
 antidevelopment
 antidiabetic
 antidilution
+antidogmatic
 antidora
 antidotal
 antidote
@@ -4880,6 +4881,7 @@ appendix
 appendixes
 apperceive
 apperceived
+apperceives
 apperceiving
 apperception
 apperceptive
@@ -5722,6 +5724,7 @@ arugolas
 arugulas
 arum
 aruspex
+aruspices
 arval
 arvos
 aryl
@@ -9223,6 +9226,7 @@ beliers
 believabilities
 believable
 believably
+believe
 believer
 believers
 believes
@@ -10947,6 +10951,7 @@ blebbing
 blebbings
 blebby
 bleed
+bleeder
 bleeding
 bleedings
 bleeds
@@ -17435,6 +17440,7 @@ chelipeds
 cheloid
 cheloids
 chelonian
+chemical
 chemicals
 chemics
 chemiosmotic
@@ -19723,6 +19729,7 @@ codebooks
 codebtor
 codebtors
 codec
+codefendants
 codeia
 codeias
 codeinas
@@ -23890,6 +23897,7 @@ crank
 crankcase
 crankcases
 cranker
+crankest
 crankiest
 crankily
 crankiness
@@ -30038,6 +30046,7 @@ discourager
 discouraging
 discourse
 discoursed
+discourser
 discoursers
 discourses
 discoursing
@@ -35207,6 +35216,7 @@ enterovirus
 enterprisers
 enterprises
 enterprising
+enters
 entertained
 entertainer
 entertainers
@@ -46123,6 +46133,7 @@ greenskeepers
 greenstone
 greenstones
 greenstuff
+greensward
 greenswards
 greenth
 greenwash
@@ -53669,6 +53680,7 @@ infarct
 infarcted
 infarctions
 infarcts
+infare
 infares
 infatuate
 infatuates
@@ -64201,6 +64213,7 @@ melange
 melanian
 melanic
 melanics
+melanins
 melanism
 melanisms
 melanist
@@ -65324,6 +65337,7 @@ microscopists
 microscopy
 microsecond
 microseconds
+microseism
 microseismicity
 microseisms
 microsome
@@ -68349,6 +68363,7 @@ muley
 muleys
 muliebrities
 muliebrity
+muling
 mulish
 mulishly
 mulishness
@@ -72673,6 +72688,7 @@ octoploid
 octopod
 octopodes
 octopods
+octopus
 octopuses
 octoroon
 octosyllabic
@@ -76427,6 +76443,7 @@ packs
 packsacks
 packsaddle
 packthread
+packthreads
 packwaxes
 pacs
 paction
@@ -77280,6 +77297,7 @@ parasitological
 parasitologist
 parasitologists
 parasitology
+parasitoses
 parasitosis
 parasoled
 parasols
@@ -81778,6 +81796,7 @@ poetless
 poetries
 poetry
 poets
+pogey
 pogies
 pogonia
 pogonias
@@ -83528,6 +83547,7 @@ preemptively
 preemptor
 preemptors
 preempts
+preen
 preenact
 preenacting
 preenacts
@@ -85917,6 +85937,7 @@ psychrometries
 psychrometry
 psylla
 psyllas
+psyllid
 psylliums
 psyops
 psywar
@@ -87774,6 +87795,7 @@ ramsons
 ramtil
 ramtilla
 ramtils
+ramulose
 ramus
 rance
 ranch
@@ -89395,6 +89417,7 @@ rediscussed
 rediscusses
 rediscussing
 redisplay
+redisplaying
 redisplays
 redispose
 redisposed
@@ -90826,6 +90849,7 @@ remex
 remigial
 remigrated
 remigrates
+remigrating
 remigration
 remilitarize
 remilitarized
@@ -97120,6 +97144,7 @@ seedeaters
 seeders
 seedier
 seediest
+seedily
 seediness
 seedinesses
 seeding
@@ -97257,6 +97282,7 @@ seladang
 seladangs
 selah
 selamlik
+selamliks
 selcouth
 seldomly
 select
@@ -97826,6 +97852,7 @@ serfhoods
 serfish
 serflike
 serfs
+serge
 sergeancies
 sergeancy
 sergeant
@@ -101458,6 +101485,7 @@ sodalites
 sodalities
 sodality
 sodamide
+sodamides
 sodas
 sodded
 sodden
@@ -107628,6 +107656,7 @@ swather
 swathes
 swaths
 swats
+swatted
 swatters
 swatting
 sway
@@ -108303,6 +108332,7 @@ syzygy
 ta
 tabanid
 tabard
+tabarded
 tabaret
 tabarets
 tabbed
@@ -108596,6 +108626,7 @@ talaria
 talars
 talas
 talc
+talced
 talcing
 talcked
 talcking
@@ -113662,6 +113693,8 @@ troupes
 troupial
 troupials
 trouping
+trouser
+trousers
 trousseaux
 troutier
 trouvere
@@ -115619,6 +115652,7 @@ underdrawers
 undereat
 undereaten
 undereats
+undereducated
 underemphases
 underemphasis
 underemphasize
@@ -116081,6 +116115,7 @@ unfelted
 unfeminine
 unfence
 unfences
+unfermented
 unfertile
 unfertilized
 unfetter
