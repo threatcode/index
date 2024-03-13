@@ -1968,6 +1968,7 @@ aircoach
 aircoaches
 aircraft
 aircrew
+aircrews
 airdates
 airdrome
 airdrop
@@ -2762,6 +2763,7 @@ alumnus
 alumroot
 alumroots
 alums
+alumstone
 alumstones
 alunite
 alunites
@@ -3741,6 +3743,7 @@ anisotropy
 ankerites
 ankh
 ankhs
+ankle
 anklebone
 anklebones
 ankled
@@ -10913,6 +10916,7 @@ blastocoelic
 blastocoels
 blastocyst
 blastocysts
+blastoderm
 blastoderms
 blastodiscs
 blastomas
@@ -12142,6 +12146,7 @@ bothrium
 bothriums
 bothy
 botonee
+botonnee
 botryoid
 botryoidal
 botryose
@@ -18991,6 +18996,7 @@ claws
 claxon
 claxons
 clay
+claybank
 claybanks
 clayed
 clayey
@@ -21857,6 +21863,7 @@ conscripted
 conscripting
 conscription
 conscripts
+consecrates
 consecrating
 consecration
 consecrative
@@ -25019,6 +25026,7 @@ cultic
 cultigen
 cultigens
 cultishly
+cultishnesses
 cultisms
 cultists
 cultivabilities
@@ -27252,6 +27260,7 @@ degenders
 degeneracies
 degeneracy
 degenerated
+degenerately
 degenerateness
 degeneration
 degerming
@@ -32062,6 +32071,7 @@ drainpipes
 drains
 drake
 dram
+drama
 dramadies
 dramas
 dramatic
@@ -39134,6 +39144,7 @@ fencelessness
 fencer
 fencerow
 fencers
+fences
 fencible
 fencibles
 fencing
@@ -54817,6 +54828,7 @@ integrabilities
 integrability
 integralities
 integrally
+integrals
 integrand
 integrands
 integrants
@@ -59578,6 +59590,7 @@ laughters
 launce
 launces
 launch
+launcher
 launchers
 launches
 launching
@@ -60985,6 +60998,7 @@ lipotropic
 lipotropies
 lipotropin
 lipotropy
+lipped
 lippened
 lippens
 lipper
@@ -63198,6 +63212,7 @@ manganeses
 manganesian
 manganic
 manganins
+manganite
 manganites
 manganous
 mangas
@@ -63327,6 +63342,7 @@ mannoses
 manoeuvre
 manoeuvred
 manoeuvres
+manometers
 manometric
 manometry
 manor
@@ -64792,6 +64808,7 @@ mercerization
 mercerize
 mercerized
 mercerizing
+merces
 merchandised
 merchandisers
 merchandises
@@ -65846,6 +65863,7 @@ militia
 militiaman
 militiamen
 milium
+milk
 milked
 milker
 milkfish
@@ -66517,6 +66535,7 @@ misdiagnosed
 misdiagnosing
 misdialed
 misdialled
+misdials
 misdirect
 misdirected
 misdirecting
@@ -69452,6 +69471,7 @@ naive
 naively
 naiveness
 naiver
+naives
 naivest
 naivete
 naivetes
@@ -77315,6 +77335,7 @@ pantomimic
 pantomiming
 pantomimists
 pantos
+pantothenate
 pantries
 pantropic
 pantropical
@@ -77590,6 +77611,7 @@ paras
 parasailed
 parasailing
 parasailings
+parasang
 parasangs
 parasexual
 parasexualities
@@ -80743,6 +80765,7 @@ piggin
 pigginess
 piggins
 piggishly
+piggishness
 piggishnesses
 piggy
 piggyback
@@ -81182,6 +81205,7 @@ pisolitic
 pissants
 pissers
 pissoir
+pissoirs
 pistaches
 pistareens
 piste
@@ -84154,6 +84178,7 @@ premeditatedly
 premeditates
 premeditating
 premeditation
+premeditator
 premeds
 premeet
 premeiotic
@@ -85880,6 +85905,7 @@ protocol
 protocoled
 protocoling
 protocolled
+protocolling
 protogalaxies
 protogalaxy
 protohistorian
@@ -91404,6 +91430,7 @@ reneger
 renegers
 reneging
 renegotiable
+renegotiate
 renegotiated
 renegotiation
 renegotiations
@@ -101430,6 +101457,7 @@ snakily
 snakiness
 snakinesses
 snaking
+snaky
 snap
 snapback
 snapdragon
@@ -104571,6 +104599,7 @@ stegodons
 stegosaur
 stegosaurs
 stegosaurus
+stegosauruses
 steins
 stela
 stelae
@@ -105525,6 +105554,7 @@ stretto
 strettos
 streusels
 strew
+strewed
 strewer
 strewers
 strewment
@@ -112519,6 +112549,7 @@ tortoise
 tortoises
 tortoiseshells
 tortonis
+tortricids
 tortrix
 torts
 tortuousnesses
@@ -113700,6 +113731,7 @@ tricrotic
 trictrac
 trictracs
 tricuspid
+tricyclics
 tridactyl
 trident
 tridental
@@ -114313,6 +114345,7 @@ truthfully
 truthfulness
 truthfulnesses
 truthless
+truths
 try
 trying
 tryma
@@ -116655,6 +116688,7 @@ unforgot
 unforked
 unformulated
 unfortunate
+unfortunately
 unfortunates
 unfossiliferous
 unfought
@@ -117522,6 +117556,7 @@ unrestful
 unresting
 unrestored
 unrestrained
+unrestrainedly
 unrestraint
 unrestraints
 unrestricted
