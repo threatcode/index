@@ -435,6 +435,7 @@ accurate
 accurately
 accurateness
 accursedly
+accursedness
 accusable
 accusably
 accusal
@@ -8474,6 +8475,7 @@ battalion
 battalions
 batteau
 batteaux
+batted
 battement
 battements
 batten
@@ -14326,6 +14328,7 @@ cadmiums
 cadres
 caducean
 caduceus
+caducities
 caducity
 caducous
 caeca
@@ -18490,6 +18493,7 @@ circularises
 circularising
 circularities
 circularity
+circularize
 circularizing
 circularness
 circularnesses
@@ -20476,6 +20480,7 @@ combined
 combineds
 combiner
 combines
+combing
 combings
 combining
 comblike
@@ -22833,6 +22838,7 @@ coronate
 coronates
 coronating
 coronation
+coronations
 coroner
 coroners
 coronet
@@ -39145,6 +39151,7 @@ festering
 festinated
 festinately
 festinates
+festinating
 festival
 festivalgoer
 festivals
@@ -44025,6 +44032,7 @@ geobotanists
 geochemical
 geochemically
 geochemistries
+geochemistry
 geochronologic
 geocorona
 geocoronas
@@ -46733,6 +46741,7 @@ gules
 gulfed
 gulfier
 gulfiest
+gulfing
 gulflike
 gulfweed
 gulfweeds
@@ -47755,6 +47764,7 @@ harangues
 haranguing
 harass
 harassed
+harasser
 harasses
 harassing
 harassment
@@ -49307,6 +49317,7 @@ highbrowed
 highbrowism
 highbrows
 highbush
+highchair
 higher
 highest
 highflyers
@@ -67201,6 +67212,7 @@ monads
 monandries
 monarch
 monarchic
+monarchically
 monarchies
 monarchism
 monarchisms
@@ -68152,6 +68164,7 @@ moviola
 mow
 mowed
 mowers
+mowing
 mowings
 mown
 mows
@@ -69388,6 +69401,7 @@ nattiness
 nattinesses
 natty
 natural
+naturalise
 naturalises
 naturalising
 naturalism
@@ -70855,6 +70869,7 @@ nonconsumers
 nonconsumption
 nonconsumptive
 noncontact
+noncontemporary
 noncontingent
 noncontinuous
 noncontract
@@ -71057,6 +71072,7 @@ nonforfeitures
 nonformal
 nonfreezing
 nonfrivolous
+nonfrozen
 nonfulfillments
 nonfunctional
 nonfunctioning
@@ -76395,6 +76411,7 @@ packagers
 packagings
 packboards
 packed
+packers
 packeted
 packets
 packhorse
@@ -78574,6 +78591,7 @@ pentahedron
 pentahedrons
 pentamerous
 pentamery
+pentamidine
 pentamidines
 pentane
 pentanes
@@ -82438,6 +82456,7 @@ porkwood
 porky
 pornier
 porniest
+porno
 pornographer
 pornographers
 pornographic
@@ -90440,6 +90459,7 @@ reinvigorations
 reinvigorators
 reinvite
 reinvited
+reinvites
 reinviting
 reinvoke
 reinvoked
@@ -92825,6 +92845,7 @@ revolters
 revoltingly
 revolts
 revolute
+revolutionarily
 revolutionary
 revolutionise
 revolutionised
@@ -95636,6 +95657,7 @@ savarins
 savates
 save
 saveable
+saveloy
 saveloys
 saver
 saves
@@ -99065,6 +99087,7 @@ shrimper
 shrimpers
 shrimpiest
 shrimping
+shrimplike
 shrimpy
 shrined
 shrining
@@ -101561,9 +101584,11 @@ solders
 soldi
 soldier
 soldiered
+soldieries
 soldiering
 soldierings
 soldierly
+soldiers
 soldiership
 soldierships
 soldiery
@@ -103255,6 +103280,7 @@ springald
 springals
 springbok
 springboks
+springe
 springer
 springers
 springes
@@ -108141,6 +108167,7 @@ synecological
 synecology
 synereses
 synergetic
+synergia
 synergias
 synergic
 synergically
@@ -108824,6 +108851,7 @@ tap
 tapadera
 tapaderas
 tapadero
+tapalo
 tapalos
 tapas
 tape
@@ -110737,6 +110765,7 @@ threescore
 threesome
 threesomes
 threnode
+threnodes
 threnodic
 threnodies
 threnodist
@@ -111188,6 +111217,7 @@ timeservers
 timeserving
 timeservings
 timetable
+timework
 timeworn
 timid
 timider
@@ -111946,6 +111976,7 @@ torot
 toroth
 torous
 torpedoed
+torpedoes
 torpedoing
 torpedos
 torpid
@@ -112546,6 +112577,7 @@ transferases
 transferees
 transference
 transferential
+transferors
 transferrable
 transferred
 transferrers
@@ -113989,6 +114021,7 @@ tumultuousness
 tumulus
 tumuluses
 tun
+tuna
 tunabilities
 tunability
 tunable
@@ -116757,6 +116790,7 @@ unpent
 unpeople
 unpeopled
 unpeoples
+unperceived
 unperceptive
 unperfect
 unperformable
@@ -119933,6 +119967,7 @@ voltaism
 voltaisms
 volte
 voltes
+voltmeters
 volts
 volubilities
 volubility
