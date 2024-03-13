@@ -3032,6 +3032,7 @@ ammeter
 ammeters
 ammines
 ammocete
+ammocetes
 ammonal
 ammonals
 ammonia
@@ -4012,6 +4013,7 @@ anthracene
 anthraces
 anthracite
 anthracitic
+anthracnose
 anthracnoses
 anthranilates
 anthraquinone
@@ -8201,6 +8203,7 @@ baron
 baronage
 baronages
 baronet
+baronetages
 baronetcy
 baronets
 barong
@@ -11694,6 +11697,7 @@ bombarders
 bombardiers
 bombardment
 bombardments
+bombardon
 bombardons
 bombards
 bombast
@@ -13760,6 +13764,7 @@ burbler
 burblers
 burbly
 burbot
+burbots
 burbs
 burd
 burden
@@ -18447,6 +18452,7 @@ ciguatera
 ciguateras
 cilia
 ciliate
+ciliated
 ciliately
 ciliates
 ciliation
@@ -34909,6 +34915,7 @@ enfilades
 enfilading
 enflame
 enflamed
+enflames
 enflaming
 enfold
 enfolded
@@ -36269,6 +36276,7 @@ espieglerie
 espiegleries
 espies
 espionage
+espionages
 esplanade
 espousal
 espousals
@@ -40269,6 +40277,7 @@ flashily
 flashiness
 flashings
 flashlight
+flashover
 flashovers
 flashtubes
 flashy
@@ -42062,6 +42071,7 @@ frantically
 franticly
 franticness
 frappe
+frapping
 fraps
 frass
 frasses
@@ -42238,6 +42248,7 @@ frescoing
 frescoist
 frescos
 fresh
+freshed
 freshen
 freshener
 freshening
@@ -46878,6 +46889,7 @@ gulley
 gulleys
 gullibilities
 gullible
+gullibly
 gullied
 gullies
 gulling
@@ -51210,6 +51222,7 @@ hydromechanical
 hydromedusa
 hydromedusae
 hydromel
+hydromels
 hydrometallurgy
 hydrometeor
 hydrometers
@@ -56855,6 +56868,7 @@ jilts
 jimjams
 jimmie
 jimmies
+jimminy
 jimmy
 jimp
 jimpy
@@ -57562,6 +57576,7 @@ kashruths
 kata
 katabatic
 katakana
+katakanas
 katchina
 katchinas
 katcina
@@ -58970,6 +58985,7 @@ lamentableness
 lamentably
 lamentation
 lamented
+lamentedly
 lamenter
 lamenters
 lamenting
@@ -60650,6 +60666,7 @@ limerick
 limericks
 limes
 limestone
+limestones
 limewater
 limewaters
 limier
@@ -62393,6 +62410,7 @@ machinery
 machines
 machining
 machinist
+machinists
 machismo
 macho
 machs
@@ -62914,6 +62932,7 @@ malleolus
 mallet
 malleus
 malling
+mallings
 mallows
 malls
 malmier
@@ -73963,6 +73982,7 @@ orthodontia
 orthodontics
 orthodontist
 orthodontists
+orthodox
 orthodoxes
 orthodoxy
 orthoepic
@@ -74111,6 +74131,7 @@ osteoma
 osteomalacia
 osteomas
 osteomata
+osteopathic
 osteopathically
 osteopathies
 osteopaths
@@ -74226,6 +74247,7 @@ out
 outachieved
 outachieves
 outachieving
+outadd
 outadds
 outages
 outargue
@@ -77602,6 +77624,7 @@ pargylines
 parhelia
 parhelic
 parhelion
+pariah
 pariahs
 parian
 paries
@@ -78485,6 +78508,7 @@ pediculous
 pedicured
 pedicurist
 pedicurists
+pediform
 pedigree
 pedigreed
 pedigrees
@@ -83176,6 +83200,7 @@ pounds
 pour
 pourable
 pourboire
+poured
 pourer
 pourparler
 pourparlers
@@ -90322,6 +90347,7 @@ regenerators
 regental
 reges
 reggae
+regild
 regilt
 regimen
 regimens
@@ -94101,6 +94127,7 @@ rondure
 rondures
 ronion
 ronions
+ronnel
 ronnels
 rontgen
 ronyon
@@ -100590,6 +100617,7 @@ slaty
 slaughter
 slaughtered
 slaughterer
+slaughterers
 slaughterhouse
 slaughtering
 slaughterous
@@ -101883,6 +101911,7 @@ solecistic
 solecize
 solecized
 solecizes
+solecizing
 soled
 solei
 solely
@@ -105173,6 +105202,7 @@ strandednesses
 strander
 stranders
 strandline
+strands
 strang
 strange
 strangely
@@ -110867,6 +110897,7 @@ think
 thinkable
 thinkably
 thinker
+thinking
 thinkingly
 thinkingnesses
 thinkings
@@ -112967,6 +112998,7 @@ translations
 translator
 translatory
 transliterate
+transliterated
 transliterates
 transliteration
 translocated
@@ -116761,6 +116793,7 @@ uniparous
 uniplanar
 unipod
 unipotent
+unique
 uniquely
 uniquenesses
 uniques
@@ -122652,6 +122685,7 @@ wobblies
 wobbliest
 wobbliness
 wobblinesses
+wobbling
 wobegone
 wodge
 wodges
@@ -123507,6 +123541,7 @@ yecch
 yecchs
 yech
 yechs
+yeelin
 yegg
 yeggman
 yeggmen
