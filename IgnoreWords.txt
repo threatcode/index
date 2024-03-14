@@ -9370,6 +9370,7 @@ bemeaned
 bemeaning
 bemedaled
 bemingle
+bemingling
 bemired
 bemires
 bemiring
@@ -15542,6 +15543,7 @@ carcel
 carcels
 carceral
 carcinogen
+carcinogenesis
 carcinogenic
 carcinogenicity
 carcinogens
@@ -16527,6 +16529,7 @@ celebrations
 celebrator
 celebrators
 celebrities
+celebrity
 celebs
 celeriac
 celeriacs
@@ -17678,6 +17681,7 @@ chicaning
 chicano
 chicanos
 chiccories
+chiccory
 chicer
 chicest
 chichier
@@ -23873,6 +23877,7 @@ coxcombs
 coxed
 coxitides
 coxitis
+coxless
 coxswained
 coxswaining
 coxswains
@@ -29377,6 +29382,7 @@ diesel
 dieseling
 dieselings
 dieselization
+dieselize
 dieselized
 diesels
 dieses
@@ -34434,6 +34440,7 @@ emissivity
 emittance
 emittances
 emitted
+emitter
 emitters
 emitting
 emmenagogue
@@ -52253,6 +52260,7 @@ illusions
 illusive
 illusively
 illusiveness
+illusorinesses
 illustrate
 illustration
 illustrational
@@ -60261,6 +60269,7 @@ lepidopterous
 lepidote
 lepidotes
 leporidae
+leporids
 leporine
 leprechaun
 leprechaunish
@@ -62992,6 +63001,7 @@ making
 makings
 mako
 malabsorption
+malabsorptions
 malachite
 malachites
 malacological
@@ -63434,6 +63444,7 @@ manometry
 manor
 manorialism
 manorialisms
+manors
 manos
 manpack
 manpower
@@ -64366,6 +64377,7 @@ meddler
 meddlers
 meddles
 meddling
+medevac
 medevaced
 medevacing
 medevacked
@@ -66322,6 +66334,7 @@ miotic
 miotics
 miquelet
 mirabelle
+miracidial
 miracidium
 miracles
 miraculous
@@ -66838,6 +66851,7 @@ mislaying
 mislead
 misleader
 misleading
+misleads
 misleared
 mislearn
 mislearned
@@ -69556,6 +69570,7 @@ nailbiter
 nailbiters
 nailbrush
 nailbrushes
+nailed
 nailer
 nailers
 nailfold
@@ -69714,6 +69729,7 @@ narratologist
 narratology
 narrators
 narrowed
+narrower
 narrowest
 narrowing
 narrowish
@@ -72436,6 +72452,7 @@ nudenesses
 nudes
 nudest
 nudges
+nudibranchs
 nudicaul
 nudie
 nudism
@@ -74283,6 +74300,7 @@ osculatory
 oscule
 osculum
 oses
+osetra
 osetras
 osiered
 osiers
@@ -78644,6 +78662,7 @@ pechan
 pechans
 peching
 pechs
+peck
 peckers
 peckerwood
 peckerwoods
@@ -81497,6 +81516,7 @@ plagiaries
 plagiarise
 plagiarises
 plagiarising
+plagiarisms
 plagiarist
 plagiarists
 plagiarize
@@ -84221,6 +84241,7 @@ prejudice
 prejudiced
 prejudices
 prejudicially
+prekindergarten
 prelacy
 prelapsarian
 prelate
@@ -86914,6 +86935,7 @@ purples
 purplest
 purplish
 purply
+purport
 purported
 purportedly
 purposeful
@@ -87389,6 +87411,7 @@ quakingly
 quaky
 quale
 qualification
+qualifications
 qualified
 qualifiedly
 qualifier
@@ -88073,6 +88096,7 @@ radwastes
 raff
 raffia
 raffias
+raffinate
 raffinates
 raffishly
 raffishness
@@ -96704,6 +96728,7 @@ schmoozier
 schmoozing
 schmoozy
 schmos
+schnapper
 schnappers
 schnapps
 schnauzers
@@ -98303,6 +98328,7 @@ sepiolite
 sepiolites
 sepoys
 seppuku
+sepsis
 sept
 septage
 septages
@@ -106724,11 +106750,13 @@ substantives
 substantivized
 substate
 substation
+substations
 substituent
 substitutable
 substitute
 substituted
 substitutes
+substituting
 substitution
 substitutions
 substitutive
@@ -108954,6 +108982,7 @@ systemizes
 systemizing
 systole
 systoles
+systolic
 syzygal
 syzygial
 syzygy
@@ -109559,6 +109588,7 @@ tapster
 taqueria
 tar
 taradiddle
+taradiddles
 tarama
 taramas
 tarantas
@@ -113611,6 +113641,7 @@ treelawn
 treelawns
 treeless
 treelike
+treen
 treenails
 treens
 treenware
@@ -121878,6 +121909,7 @@ weevilly
 weevils
 weevily
 weewee
+weewees
 weft
 weigela
 weigelas
@@ -122496,6 +122528,7 @@ whydahs
 whys
 wicca
 wiccan
+wiccans
 wiccas
 wiches
 wick
@@ -122512,6 +122545,7 @@ wickerworks
 wicket
 wicking
 wickings
+wickiup
 wickiups
 wickless
 wickyup
@@ -123606,6 +123640,7 @@ wrothful
 wrought
 wry
 wryest
+wrying
 wryly
 wryneck
 wrynecks
