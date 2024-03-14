@@ -880,6 +880,7 @@ addenda
 addendums
 adder
 adders
+addible
 addicted
 addicting
 addictions
@@ -5876,6 +5877,7 @@ ashtrays
 ashy
 aside
 asides
+asinine
 asininely
 asininity
 ask
@@ -8555,6 +8557,7 @@ battler
 battlers
 battleship
 battleships
+battlewagon
 batts
 battu
 battue
@@ -10175,6 +10178,7 @@ bilby
 bildungsroman
 bildungsromans
 bile
+bilection
 bilections
 biles
 bilevels
@@ -15895,6 +15899,7 @@ cartoons
 cartop
 cartoppers
 cartouche
+cartouches
 cartridge
 cartridges
 cartularies
@@ -24611,6 +24616,7 @@ crosscourt
 crosscurrents
 crosscut
 crosscuts
+crosscuttings
 crosse
 crossed
 crossers
@@ -24661,6 +24667,7 @@ crotchets
 croton
 crotonbug
 crotons
+crouch
 crouched
 crouches
 crouching
@@ -28591,6 +28598,7 @@ desulfurized
 desulfurizes
 desulfurizing
 desultorily
+desultoriness
 desultorinesses
 desultory
 detach
@@ -30752,6 +30760,7 @@ disputer
 disputers
 disputing
 disqualified
+disqualify
 disquantities
 disquantity
 disquiet
@@ -32454,6 +32463,7 @@ droughtinesses
 droughty
 drouth
 drouthier
+drouths
 drouthy
 drove
 droved
@@ -34741,6 +34751,7 @@ encores
 encoring
 encounter
 encountered
+encountering
 encounters
 encouraged
 encouragement
@@ -36273,6 +36284,7 @@ erythrocytic
 erythroid
 erythromycin
 erythron
+erythrons
 erythropoieses
 erythrosin
 erythrosines
@@ -36334,6 +36346,7 @@ escheated
 escheating
 escheator
 escheators
+eschew
 eschewed
 eschewer
 eschewers
@@ -46794,6 +46807,7 @@ gruelers
 grueling
 gruelingly
 gruelings
+gruelled
 grueller
 gruellings
 gruels
@@ -48128,6 +48142,7 @@ hardships
 hardstand
 hardstandings
 hardstands
+hardtack
 hardtacks
 hardtop
 hardtops
@@ -58146,6 +58161,7 @@ kidlike
 kidnap
 kidnaped
 kidnapee
+kidnapees
 kidnaper
 kidnapers
 kidnapped
@@ -61627,6 +61643,7 @@ loggish
 loggy
 logia
 logic
+logical
 logicality
 logically
 logicalness
@@ -67167,6 +67184,7 @@ mistime
 mistimed
 mistimes
 mistiming
+mistitle
 mistitled
 mistitles
 mistitling
@@ -69344,6 +69362,7 @@ mycoplasmas
 mycoplasmata
 mycorhiza
 mycorhizae
+mycorrhiza
 mycorrhizae
 mycoses
 mycosis
@@ -71319,6 +71338,7 @@ noncore
 noncorporate
 noncorrelation
 noncorrodible
+noncorrosive
 noncounty
 noncreative
 noncreativities
@@ -75205,6 +75225,7 @@ outserve
 outserved
 outserves
 outset
+outshame
 outshamed
 outshaming
 outshined
@@ -78826,6 +78847,7 @@ peepshows
 peepul
 peepuls
 peer
+peered
 peeress
 peeresses
 peerie
@@ -83093,6 +83115,7 @@ positing
 positional
 positionally
 positioned
+positioning
 positions
 positively
 positiver
@@ -85803,6 +85826,7 @@ propoxyphene
 propped
 propping
 propraetor
+propranolol
 propranolols
 propria
 proprietaries
@@ -86027,6 +86051,7 @@ protestor
 protests
 proteus
 prothalamion
+prothalamium
 prothalli
 prothallium
 prothallus
@@ -96883,6 +96908,7 @@ sclerosis
 sclerotial
 sclerotic
 sclerotins
+sclerotium
 sclerotizations
 sclerotized
 sclerous
@@ -102156,6 +102182,7 @@ softie
 softies
 softly
 softness
+softs
 softshells
 software
 softwares
@@ -103251,6 +103278,7 @@ speired
 speirs
 speise
 speises
+speiss
 spelaean
 speleologist
 speleologists
@@ -106257,6 +106285,7 @@ subcordate
 subcoriaceous
 subcortex
 subcortexes
+subcortical
 subcortices
 subcostals
 subcounties
@@ -107477,6 +107506,7 @@ supercoiled
 supercoiling
 supercollider
 supercolliders
+supercolossal
 supercomputer
 supercomputers
 superconducted
@@ -112130,6 +112160,7 @@ titillatingly
 titillation
 titillations
 titillative
+titivate
 titivates
 titivating
 titivation
@@ -122020,6 +122051,7 @@ wenching
 wend
 wendigo
 wendigos
+wending
 wends
 wenniest
 wennish
@@ -122589,6 +122621,7 @@ wielder
 wielders
 wieldiest
 wielding
+wields
 wienerwurst
 wienerwursts
 wienie
@@ -124019,6 +124052,7 @@ yesteryears
 yet
 yeti
 yetis
+yetts
 yeuked
 yeuks
 yew
@@ -124381,6 +124415,7 @@ zingari
 zingaro
 zinged
 zingers
+zingier
 zinging
 zings
 zingy
