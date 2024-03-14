@@ -5327,6 +5327,7 @@ archines
 archings
 archipelago
 archipelagoes
+archipelagos
 architectonic
 architectonics
 architectural
@@ -5416,6 +5417,7 @@ argent
 argental
 argentic
 argentite
+argentites
 argentous
 argents
 argentum
@@ -10749,6 +10751,7 @@ bistorts
 bistouries
 bistoury
 bistre
+bistroic
 bistros
 bisulcate
 bisulfate
@@ -15585,6 +15588,7 @@ carbonyl
 carbonylation
 carbonylations
 carbora
+carboras
 carboxylase
 carboxylate
 carboxylates
@@ -15967,6 +15971,7 @@ cartographic
 cartographical
 cartographies
 cartography
+carton
 cartoned
 cartons
 cartooned
@@ -17070,6 +17075,7 @@ chalazion
 chalcedonic
 chalcid
 chalcocite
+chalcogenide
 chalcogenides
 chalcogens
 chalcopyrites
@@ -18821,6 +18827,7 @@ cithers
 citied
 cities
 citification
+citifications
 citified
 citifies
 citing
@@ -20790,6 +20797,7 @@ commanded
 commandeer
 commandeered
 commandeering
+commandeers
 commander
 commanders
 commandership
@@ -23603,6 +23611,7 @@ countered
 countereffort
 counterefforts
 counterexample
+counterexamples
 counterfactual
 counterfeiter
 counterfeiters
@@ -26274,6 +26283,7 @@ darking
 darkles
 darklier
 darkliest
+darklings
 darkly
 darkness
 darknesses
@@ -28809,6 +28819,7 @@ determinatives
 determinator
 determinators
 determine
+determinedly
 determinedness
 determines
 determinisms
@@ -31175,6 +31186,7 @@ distributes
 distributing
 distribution
 distributions
+distributive
 distributively
 distributivity
 distributor
@@ -31380,6 +31392,7 @@ divot
 divots
 divulgated
 divulgates
+divulgating
 divulge
 divulged
 divulgences
@@ -46444,6 +46457,7 @@ gravers
 graves
 graveside
 gravesides
+gravesites
 gravest
 gravestone
 gravestones
@@ -52460,6 +52474,7 @@ illumed
 illumes
 illuminance
 illuminances
+illuminate
 illuminated
 illuminates
 illuminatingly
@@ -54220,6 +54235,7 @@ infatuate
 infatuates
 infatuation
 infaunal
+infaunas
 infeasibilities
 infeasible
 infect
@@ -56287,6 +56303,7 @@ irenical
 irenics
 ires
 iridescence
+iridescences
 iridescent
 iridescently
 iridic
@@ -59597,6 +59614,7 @@ languorously
 laniard
 laniards
 laniary
+lanital
 lanitals
 lankest
 lankiest
@@ -63632,6 +63650,7 @@ manicures
 manicuring
 manicurist
 manifest
+manifestant
 manifestants
 manifested
 manifester
@@ -75772,6 +75791,7 @@ outwits
 outwitted
 outwitting
 outwore
+outwork
 outworked
 outworker
 outworkers
@@ -78421,6 +78441,7 @@ partitioners
 partitionist
 partitive
 partitively
+partizans
 partner
 partnered
 partnering
@@ -78562,6 +78583,7 @@ pasteurised
 pasteurises
 pasteurising
 pasteurize
+pasteurized
 pasteurizer
 pasteurizing
 pasticcios
@@ -79556,6 +79578,7 @@ peps
 pepsin
 pepsinates
 pepsinating
+pepsine
 pepsines
 pepsinogen
 peptalk
@@ -93918,6 +93941,7 @@ rewinning
 rewins
 rewire
 rewired
+rewiring
 rewoken
 rewon
 reword
@@ -94773,6 +94797,7 @@ rolfed
 rolfer
 rolfers
 rolfing
+rolfs
 roll
 rollaway
 rollback
@@ -97377,6 +97402,7 @@ scorches
 scoreboard
 scoreboards
 scorecard
+scored
 scorekeeper
 scorekeepers
 scoreless
@@ -97600,6 +97626,7 @@ scrimpily
 scrimping
 scrimpit
 scrimps
+scrimpy
 scrimshander
 scrimshanders
 scrimshaw
@@ -112013,6 +112040,7 @@ throe
 throes
 thrombi
 thrombins
+thrombocytes
 thrombocytic
 thromboembolic
 thromboembolism
@@ -119028,6 +119056,7 @@ uphoarded
 uphoarding
 uphoards
 uphold
+upholder
 upholding
 upholds
 upholstered
@@ -120094,6 +120123,7 @@ velocipede
 velocipedes
 velociraptor
 velociraptors
+velodrome
 velodromes
 velour
 velours
@@ -120720,6 +120750,7 @@ viga
 vigas
 vigesimal
 vigia
+vigil
 vigilances
 vigilant
 vigilantism
@@ -121145,6 +121176,7 @@ vizcachas
 vizierate
 vizierial
 vizierships
+vizir
 vizirate
 vizirates
 vizirial
@@ -122844,6 +122876,7 @@ whinnies
 whinniest
 whinny
 whinnying
+whins
 whinstone
 whinstones
 whip
@@ -124701,6 +124734,7 @@ yowies
 yowl
 yowler
 yowling
+yows
 ytterbia
 ytterbias
 ytterbium
@@ -124948,6 +124982,7 @@ zinkify
 zinkifying
 zins
 zip
+zipless
 ziplock
 zipped
 zipper
