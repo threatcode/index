@@ -3308,6 +3308,7 @@ anaerobe
 anaerobes
 anaerobic
 anaerobically
+anaerobioses
 anaerobium
 anaesthetic
 anaesthetics
@@ -7957,6 +7958,7 @@ banditry
 banditti
 bandleaders
 bandmaster
+bandmasters
 bandmate
 bandmates
 bandog
@@ -9246,6 +9248,7 @@ behoved
 behoves
 behoving
 behowl
+behowled
 behowls
 beige
 beigne
@@ -10262,6 +10265,7 @@ billboarded
 billboards
 billbug
 billbugs
+biller
 billers
 billet
 billeted
@@ -11202,6 +11206,7 @@ bloatware
 blob
 blobbed
 bloc
+block
 blockable
 blockaded
 blockaders
@@ -20811,6 +20816,7 @@ commencing
 commend
 commendable
 commendably
+commendam
 commendation
 commendations
 commendatory
@@ -24350,6 +24356,7 @@ credulously
 credulousness
 creed
 creeds
+creeks
 creeled
 creeling
 creep
@@ -26753,6 +26760,7 @@ decarburize
 decarburized
 decarburizes
 decare
+decares
 decasualization
 decasyllabic
 decasyllabics
@@ -35321,6 +35329,7 @@ enkindle
 enkindled
 enkindler
 enkindlers
+enkindles
 enkindling
 enlace
 enlacement
@@ -54066,6 +54075,7 @@ indwells
 inearth
 inearthed
 inearths
+inebriants
 inebriate
 inebriates
 inebriation
@@ -55141,6 +55151,7 @@ integrated
 integrates
 integrationists
 integrations
+integrative
 integrators
 integrity
 integumentary
@@ -64830,6 +64841,7 @@ megohm
 megrim
 megs
 mehndi
+mehndis
 meikle
 meinie
 meioses
@@ -69652,6 +69664,7 @@ myeloblast
 myeloblastic
 myelocyte
 myelocytes
+myelocytic
 myelofibroses
 myelofibrotic
 myelogram
@@ -70571,6 +70584,7 @@ nephritic
 nephritides
 nephritis
 nephritises
+nephrologies
 nephrologists
 nephrons
 nephropathic
@@ -71884,6 +71898,7 @@ noninitiate
 noninitiates
 noninjury
 noninsect
+noninsecticidal
 noninsects
 noninstallment
 noninstallments
@@ -72340,6 +72355,7 @@ nonuniversity
 nonuple
 nonuples
 nonurban
+nonusable
 nonuse
 nonuses
 nonusing
@@ -74847,6 +74863,7 @@ outbloom
 outbloomed
 outblooming
 outblooms
+outbluff
 outbluffed
 outbluffing
 outbluffs
@@ -75452,6 +75469,7 @@ outrig
 outrigger
 outriggers
 outrigging
+outrigs
 outrings
 outrivaled
 outrivaling
@@ -79596,6 +79614,7 @@ perceptual
 perceptually
 perch
 perchance
+perched
 percher
 perchers
 perches
@@ -82507,6 +82526,7 @@ plutocratic
 plutocratically
 plutocrats
 plutonian
+plutonic
 plutonium
 plutons
 pluvial
@@ -91896,6 +91916,7 @@ removal
 removals
 remove
 removeable
+removed
 removedly
 remover
 removes
@@ -93205,6 +93226,7 @@ resumptions
 resupinate
 resupine
 resupplies
+resupplying
 resurfaced
 resurfacer
 resurfacers
@@ -95331,6 +95353,7 @@ rugged
 ruggeder
 ruggedest
 ruggedize
+ruggedizes
 ruggedizing
 ruggedness
 ruggednesses
@@ -95405,6 +95428,7 @@ rumormongers
 rumors
 rumours
 rump
+rumpled
 rumples
 rumpless
 rumpliest
@@ -98145,6 +98169,7 @@ seeding
 seedless
 seedlike
 seedlings
+seedpod
 seedpods
 seeds
 seedsman
@@ -99237,6 +99262,7 @@ shaggiest
 shaggily
 shagginess
 shaggy
+shaggymane
 shagreen
 shagreens
 shags
@@ -100465,6 +100491,7 @@ signalman
 signalmen
 signalment
 signals
+signatories
 signature
 signboard
 signboards
@@ -103480,6 +103507,7 @@ spatialities
 spatiality
 spatially
 spatiotemporal
+spatted
 spatter
 spatterdock
 spatterdocks
@@ -105130,6 +105158,7 @@ stearates
 stearin
 stearines
 stearins
+steatite
 steatites
 steatitic
 steatopygia
@@ -105325,6 +105354,7 @@ stereologically
 stereologies
 stereophonies
 stereophony
+stereopsis
 stereopticon
 stereopticons
 stereos
@@ -112540,6 +112570,7 @@ tirades
 tiramisu
 tired
 tireder
+tiredest
 tirednesses
 tireless
 tirelessly
@@ -115294,6 +115325,7 @@ turacous
 turban
 turbanned
 turbans
+turbaries
 turbary
 turbellarian
 turbellarians
@@ -115317,6 +115349,7 @@ turbinated
 turbine
 turbines
 turbit
+turbith
 turbits
 turbocar
 turbocharged
@@ -120692,6 +120725,7 @@ vigilant
 vigilantism
 vigilantisms
 vigintillions
+vigneron
 vignerons
 vignette
 vignetter
@@ -120834,6 +120868,7 @@ violoncellists
 violoncello
 violoncellos
 violones
+viols
 viomycin
 viomycins
 viosterol
