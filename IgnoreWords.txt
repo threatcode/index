@@ -2268,6 +2268,7 @@ alforja
 alforjas
 alga
 algaecide
+algarobas
 algarrobas
 algarrobo
 algarrobos
@@ -3171,6 +3172,7 @@ amphioxi
 amphioxus
 amphioxuses
 amphipathic
+amphiphilic
 amphiploidies
 amphipod
 amphipods
@@ -4843,6 +4845,7 @@ apostate
 apostates
 apostatise
 apostatised
+apostatises
 apostatized
 apostatizing
 apostil
@@ -8724,6 +8727,7 @@ beaned
 beaneries
 beanery
 beanie
+beaning
 beanlike
 beano
 beanos
@@ -10412,9 +10416,11 @@ biodynamic
 bioelectrical
 bioelectricity
 bioenergetics
+bioengineer
 bioengineered
 bioengineering
 bioengineerings
+bioengineers
 bioethic
 bioethicist
 bioethicists
@@ -11594,6 +11600,7 @@ bod
 bodacious
 bodaciously
 bode
+boded
 bodegas
 bodhisattva
 bodhisattvas
@@ -19335,6 +19342,7 @@ clivers
 clivia
 clivias
 cloacae
+cloacas
 cloak
 cloaked
 cloaking
@@ -20880,6 +20888,7 @@ common
 commonage
 commonages
 commonalities
+commonalties
 commonalty
 commoners
 commonest
@@ -26058,6 +26067,7 @@ daltonism
 daltonisms
 damage
 damageability
+damager
 damagers
 damaging
 damagingly
@@ -34778,6 +34788,7 @@ encephalograph
 encephalography
 encephalon
 encephalopathic
+encephalopathy
 enchained
 enchaining
 enchainment
@@ -35400,6 +35411,7 @@ ensconced
 ensconces
 enscroll
 enscrolled
+enscrolling
 enscrolls
 ensemble
 ensembles
@@ -35696,6 +35708,7 @@ envied
 enviers
 envies
 envious
+enviro
 environ
 environmental
 environmentally
@@ -56683,6 +56696,7 @@ ivories
 ivory
 ivorybill
 ivorylike
+ivy
 ivylike
 iwis
 ixia
@@ -58526,6 +58540,7 @@ kirtle
 kirtled
 kirtles
 kis
+kishka
 kishke
 kishkes
 kismat
@@ -59073,6 +59088,7 @@ laced
 laceless
 lacelike
 lacerable
+lacerate
 lacerated
 lacerates
 lacerating
@@ -59665,6 +59681,7 @@ lasagna
 lasagnas
 lasagne
 lasagnes
+lascars
 lascivious
 lasciviously
 lased
@@ -60677,6 +60694,7 @@ libelant
 libeled
 libelees
 libeler
+libelers
 libeling
 libelist
 libelists
@@ -67020,6 +67038,7 @@ mislabel
 mislabeled
 mislabeling
 mislabelling
+mislabels
 mislabors
 mislaid
 mislain
@@ -67399,6 +67418,7 @@ misunion
 misunions
 misusage
 misusages
+misuse
 misusers
 misuses
 misutilization
@@ -70606,6 +70626,7 @@ neurohypophysis
 neuroleptic
 neuroleptics
 neurologic
+neurological
 neurologically
 neurologist
 neurologists
@@ -71725,6 +71746,7 @@ nonguilts
 nonhalogenated
 nonhandicapped
 nonhappening
+nonhappenings
 nonhardy
 nonharmonic
 nonhazardous
@@ -73502,6 +73524,7 @@ oghamic
 oghamists
 oghams
 ogive
+ogives
 ogle
 ogled
 ogler
@@ -80723,6 +80746,7 @@ phots
 phpht
 phragmoplasts
 phrasal
+phrasally
 phrased
 phrasemaker
 phrasemakers
@@ -93869,6 +93893,7 @@ rheumiest
 rheums
 rheumy
 rhigolenes
+rhinal
 rhinencephala
 rhinencephalon
 rhinestoned
@@ -95111,6 +95136,7 @@ rubiest
 rubigo
 rubigos
 rubouts
+rubric
 rubrical
 rubrically
 rubricate
@@ -97299,6 +97325,7 @@ scowlingly
 scowls
 scrabble
 scrabbled
+scrabbler
 scrabbles
 scrabbly
 scrag
@@ -103528,6 +103555,7 @@ speedy
 speel
 speeled
 speeling
+speels
 speer
 speering
 speerings
@@ -107669,6 +107697,7 @@ sunrises
 sunroom
 suns
 sunscald
+sunscreen
 sunscreening
 sunscreens
 sunset
@@ -109860,6 +109889,7 @@ tapeline
 tapelines
 taper
 tapered
+taperers
 tapers
 taperstick
 tapersticks
@@ -110697,6 +110727,7 @@ tenderized
 tenderizer
 tenderizers
 tenderizes
+tenderizing
 tenderloin
 tenderness
 tendernesses
@@ -116977,6 +117008,7 @@ undramatic
 undramatically
 undramatized
 undrape
+undraped
 undraping
 undraw
 undrawing
@@ -117425,6 +117457,7 @@ unifaces
 unifiable
 unific
 unifications
+unifier
 unifiers
 unifies
 unifilar
@@ -117938,6 +117971,7 @@ unpreparedness
 unprepossessing
 unpressed
 unpressured
+unpretending
 unpretentious
 unpretentiously
 unpretty
@@ -119785,6 +119819,7 @@ vavs
 vaw
 vawards
 vawntie
+vaws
 vealed
 vealer
 vealers
