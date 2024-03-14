@@ -4816,6 +4816,7 @@ apophyseal
 apophyses
 apophysis
 apoplectic
+apoplectically
 apoptoses
 apoptosis
 aporia
@@ -9771,6 +9772,7 @@ bestuds
 beswarm
 beswarmed
 beswarms
+bet
 beta
 betaine
 betaines
@@ -10571,6 +10573,7 @@ biplane
 biplanes
 bipod
 bipolarization
+bipolarizations
 bipolarize
 bipolarized
 bipolarizes
@@ -11534,6 +11537,7 @@ bobbin
 bobbinet
 bobbinets
 bobble
+bobbled
 bobbles
 bobbling
 bobby
@@ -14248,6 +14252,7 @@ bypasses
 bypath
 bypaths
 byplay
+byproduct
 byre
 byres
 byrled
@@ -18015,6 +18020,7 @@ chlorinities
 chlorinity
 chlorins
 chlorite
+chlorites
 chloritic
 chlorobenzene
 chlorobenzenes
@@ -22199,6 +22205,7 @@ contemplator
 contemplators
 contempo
 contemporaneity
+contemporaneous
 contemporaries
 contemporarily
 contemporary
@@ -26680,6 +26687,7 @@ deceasing
 decedent
 deceitfully
 deceitfulness
+deceitfulnesses
 deceits
 deceivable
 deceived
@@ -27466,6 +27474,7 @@ dekaliters
 dekalitre
 dekameter
 dekameters
+dekametre
 dekare
 dekares
 deke
@@ -30075,6 +30084,7 @@ disbarred
 disbeliefs
 disbelieve
 disbeliever
+disbelievers
 disbelieves
 disbelieving
 disbenefit
@@ -34878,6 +34888,7 @@ endlessly
 endlessness
 endlessnesses
 endlong
+endmost
 endnote
 endobiotic
 endoblast
@@ -36837,6 +36848,7 @@ euphorbia
 euphorbias
 euphoria
 euphoriant
+euphoriants
 euphoric
 euphorically
 euphotic
@@ -43089,6 +43101,7 @@ furlong
 furlongs
 furloughed
 furloughing
+furloughs
 furls
 furmenties
 furmety
@@ -43890,6 +43903,7 @@ gastraea
 gastraeas
 gastral
 gastrea
+gastreas
 gastrectomies
 gastrectomy
 gastric
@@ -44491,6 +44505,7 @@ germlike
 germplasm
 germplasms
 germproof
+germs
 gerontic
 gerontocracies
 gerontocracy
@@ -50646,6 +50661,7 @@ hornlessness
 hornlessnesses
 hornpipe
 hornpipes
+hornpout
 hornpouts
 horns
 hornstones
@@ -54446,6 +54462,7 @@ injure
 injured
 injurer
 injurers
+injuries
 injuring
 injuriousness
 injuriousnesses
@@ -54703,6 +54720,7 @@ insightfully
 insights
 insigne
 insignia
+insignias
 insignificance
 insignificances
 insignificancy
@@ -58699,6 +58717,7 @@ kolkoz
 kolkozes
 kolkozy
 kolo
+kombu
 kombus
 komondorock
 komondors
@@ -73450,6 +73469,7 @@ okapis
 okas
 okayed
 okaying
+okays
 oke
 okeh
 okehs
@@ -75643,6 +75663,7 @@ overbids
 overbig
 overbilled
 overbilling
+overbills
 overbite
 overbleach
 overbleached
@@ -78976,6 +78997,7 @@ pelletization
 pelletizations
 pelletized
 pelletizer
+pelletizers
 pelletizes
 pelletizing
 pellitories
@@ -79115,6 +79137,7 @@ pennine
 pennoncel
 pennoncels
 pennycresses
+pennyroyal
 pennyroyals
 pennyweight
 pennyweights
@@ -91185,6 +91208,7 @@ rejoices
 rejoicing
 rejoinder
 rejoinders
+rejoined
 rejoins
 rejudge
 rejudged
@@ -91387,6 +91411,7 @@ relocates
 relocating
 relocation
 relocations
+relock
 relocked
 relocks
 relook
@@ -92301,6 +92326,7 @@ reradiates
 reradiating
 reradiation
 reradiations
+reraised
 reraises
 reraising
 reran
@@ -95753,6 +95779,7 @@ saluter
 saluters
 salutes
 saluting
+salvable
 salvage
 salvageability
 salvageable
@@ -99360,6 +99387,7 @@ shikari
 shikaris
 shikarred
 shikarring
+shikars
 shikker
 shikkers
 shiksa
@@ -105393,6 +105421,7 @@ stole
 stoled
 stoles
 stolider
+stolidities
 stolidity
 stolidly
 stollen
@@ -107010,6 +107039,7 @@ subvocalizing
 subvocally
 subwayed
 subwaying
+subways
 subwoofers
 subworld
 subworlds
@@ -111977,6 +112007,7 @@ tillandsias
 tiller
 tillered
 tillermen
+tillers
 tilling
 tillite
 tills
@@ -112968,6 +112999,7 @@ toughness
 toughnesses
 toughs
 toughy
+toupee
 toupees
 touraco
 tourbillion
@@ -114512,6 +114544,7 @@ trouping
 trouser
 trousers
 trousseaux
+trout
 troutier
 trouvere
 trouveres
@@ -116186,6 +116219,7 @@ uncleanness
 uncleannesses
 unclear
 unclearer
+unclearly
 uncleft
 unclench
 unclenched
@@ -118873,6 +118907,7 @@ urbanely
 urbaner
 urbanisation
 urbanise
+urbanised
 urbanism
 urbanisms
 urbanist
