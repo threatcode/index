@@ -911,6 +911,7 @@ addrest
 adduce
 adducent
 adducer
+adducers
 adduces
 adducible
 adducing
@@ -1546,6 +1547,7 @@ affluently
 affluents
 afflux
 affluxes
+afford
 affordabilities
 affordability
 affordable
@@ -2121,6 +2123,7 @@ alarmists
 alarms
 alarum
 alarumed
+alary
 alas
 alaskas
 alastor
@@ -4490,6 +4493,7 @@ antistrophes
 antistudent
 antistyle
 antistyles
+antisubmarine
 antisubsidy
 antisubversion
 antisuicide
@@ -7286,6 +7290,7 @@ baals
 baases
 baaskaap
 baaskaaps
+baaskap
 baaskaps
 baasskap
 baasskaps
@@ -7685,6 +7690,7 @@ bailers
 bailey
 baileys
 bailie
+bailies
 bailiff
 bailiffship
 bailiwick
@@ -9385,6 +9391,7 @@ bemeaned
 bemeaning
 bemedaled
 bemingle
+bemingled
 bemingling
 bemired
 bemires
@@ -17924,6 +17931,7 @@ chiropodies
 chiropodist
 chiropodists
 chiropractics
+chiropractor
 chiropractors
 chiropter
 chiropters
@@ -25965,6 +25973,7 @@ daimio
 daimios
 daimon
 daimones
+daimonic
 daimons
 daimyos
 daintiest
@@ -29984,6 +29993,7 @@ disabuse
 disabused
 disabusing
 disaccharidase
+disaccharidases
 disaccharide
 disaccharides
 disaccord
@@ -34874,6 +34884,7 @@ endemicities
 endemism
 endemisms
 enders
+endexine
 endexines
 endgame
 endgames
@@ -40004,6 +40015,7 @@ finickiness
 finickinesses
 finicking
 finicky
+finikin
 finiking
 finings
 finish
@@ -44957,6 +44969,7 @@ glaired
 glaires
 glairier
 glairiest
+glairing
 glairs
 glaive
 glaives
@@ -47659,6 +47672,7 @@ hairworms
 hairy
 hajes
 hajjes
+hajji
 hajjis
 hake
 hakeem
@@ -49043,6 +49057,7 @@ helpings
 helplessly
 helplessness
 helpmate
+helpmeets
 helps
 helved
 helves
@@ -50089,6 +50104,7 @@ holard
 holards
 holdable
 holdall
+holdalls
 holdback
 holdbacks
 holddowns
@@ -62019,6 +62035,7 @@ lothsome
 loti
 lotic
 lotion
+lotions
 lotoses
 lotte
 lotted
@@ -62299,6 +62316,7 @@ luminaries
 luminesce
 luminesced
 luminescences
+luminescent
 luminiferous
 luminism
 luminisms
@@ -63770,6 +63788,7 @@ markings
 markka
 markkaa
 markkas
+marks
 marksman
 marksmanships
 marksmen
@@ -66511,6 +66530,7 @@ misanthrope
 misanthropes
 misanthropic
 misanthropies
+misanthropy
 misapplication
 misapplied
 misapply
@@ -73050,6 +73070,7 @@ obtruding
 obtrusion
 obtrusive
 obtund
+obtunded
 obtundities
 obtunds
 obturate
@@ -73340,6 +73361,7 @@ offhanded
 offhandedness
 offhandednesses
 office
+officeholders
 officering
 officers
 offices
@@ -75497,6 +75519,7 @@ outvotes
 outvying
 outwait
 outwaiting
+outwalk
 outwalked
 outwalks
 outwar
@@ -75973,6 +75996,7 @@ overfamiliar
 overfamiliarity
 overfast
 overfastidious
+overfat
 overfatigued
 overfavor
 overfavored
@@ -76002,6 +76026,7 @@ overflow
 overflowed
 overflown
 overflows
+overflying
 overfocus
 overfocused
 overfocuses
@@ -76281,6 +76306,7 @@ overpays
 overpedal
 overpedaled
 overpedaling
+overpedalled
 overpedalling
 overpeople
 overpeopled
@@ -81222,6 +81248,7 @@ pinked
 pinken
 pinkened
 pinkening
+pinkens
 pinker
 pinkers
 pinkest
@@ -91113,6 +91140,7 @@ reinsurance
 reinsurances
 reinsure
 reinsures
+reintegrate
 reintegrates
 reintegrating
 reintegrations
@@ -96649,6 +96677,7 @@ scarer
 scarers
 scares
 scarf
+scarfers
 scarfing
 scarfskin
 scariest
@@ -100144,6 +100173,7 @@ sightless
 sightlessly
 sightlier
 sightliest
+sightlines
 sightliness
 sightlinesses
 sightly
@@ -105711,6 +105741,7 @@ strangury
 strap
 straphang
 straphanged
+straphanger
 straphangers
 straphanging
 straphangs
@@ -114963,6 +114994,7 @@ tuppence
 tuppences
 tuppenny
 tupping
+tups
 tuque
 tuques
 turacos
@@ -115759,6 +115791,7 @@ unabraded
 unabridged
 unabsorbed
 unabsorbent
+unabused
 unabusive
 unacademic
 unacademically
@@ -120832,6 +120865,7 @@ vogueings
 voguer
 voguers
 voguish
+voguishly
 voguishness
 voice
 voiced
@@ -122986,6 +123020,7 @@ wines
 wineshop
 wineskin
 wineskins
+winesop
 winesops
 winey
 wingback
