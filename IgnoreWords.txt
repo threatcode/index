@@ -1438,6 +1438,7 @@ aerostat
 aerostats
 aerugo
 aerugos
+aery
 aesthesia
 aesthesias
 aesthetes
@@ -1733,6 +1734,7 @@ agglutinative
 agglutinins
 agglutinogen
 agglutinogens
+aggradation
 aggradations
 aggrade
 aggraded
@@ -3058,6 +3060,7 @@ ammonia
 ammoniac
 ammoniacal
 ammoniacs
+ammoniated
 ammoniating
 ammoniation
 ammoniations
@@ -12757,6 +12760,7 @@ breadboards
 breadbox
 breadfruit
 breadfruits
+breading
 breadless
 breadline
 breadlines
@@ -15975,6 +15979,7 @@ caseation
 caseations
 casebearer
 casebearers
+casebook
 casebooks
 casefied
 casefies
@@ -17873,6 +17878,7 @@ chined
 chines
 chining
 chinkapins
+chinked
 chinkiest
 chinks
 chinky
@@ -18854,6 +18860,7 @@ cladogram
 cladograms
 cladophyll
 cladophylls
+clads
 clafouti
 clagging
 clags
@@ -19052,6 +19059,7 @@ claver
 clavered
 clavering
 clavi
+clavichord
 clavichordists
 clavichords
 clavicorn
@@ -23943,6 +23951,7 @@ cozen
 cozenage
 cozener
 cozens
+cozes
 cozey
 cozeys
 cozie
@@ -26492,6 +26501,7 @@ dear
 dearer
 dearest
 dearie
+dearies
 dearly
 dearth
 dearths
@@ -38679,6 +38689,7 @@ faradised
 faradising
 faradisms
 faradized
+faradizer
 faradizers
 faradizes
 faradizing
@@ -46723,6 +46734,7 @@ groovier
 grooviest
 grooving
 groovy
+grope
 groped
 groper
 gropers
@@ -47107,6 +47119,7 @@ gulfier
 gulfiest
 gulfing
 gulflike
+gulfs
 gulfweed
 gulfweeds
 gulfy
@@ -47313,6 +47326,7 @@ guying
 guylines
 guyot
 guyots
+guys
 guzzle
 guzzled
 guzzlers
@@ -49153,6 +49167,7 @@ hemocyte
 hemocytes
 hemocytometer
 hemodialysis
+hemodilution
 hemodilutions
 hemodynamically
 hemoflagellates
@@ -50278,6 +50293,7 @@ homesites
 homespun
 homespuns
 homestand
+homestands
 homestays
 homesteaded
 homesteader
@@ -52408,6 +52424,7 @@ imbalmer
 imbalmers
 imbalming
 imbalms
+imbarked
 imbarks
 imbecile
 imbeciles
@@ -56445,6 +56462,7 @@ isografting
 isografts
 isogram
 isograms
+isographs
 isogriv
 isogrivs
 isohel
@@ -57161,6 +57179,7 @@ jingoistic
 jink
 jinked
 jinking
+jinks
 jinnee
 jinni
 jinnis
@@ -57364,6 +57383,7 @@ journaleses
 journaling
 journalism
 journalist
+journalistic
 journalists
 journalize
 journalizing
@@ -63393,6 +63413,7 @@ manducating
 mane
 maned
 maneless
+maneuverability
 maneuverer
 maneuvering
 maneuvers
@@ -67326,6 +67347,7 @@ mistypes
 misunion
 misunions
 misusage
+misusages
 misusers
 misuses
 misutilization
@@ -68573,6 +68595,7 @@ moults
 moundbird
 moundbirds
 mounded
+mounding
 mounds
 mountable
 mountain
@@ -71503,6 +71526,7 @@ nondoctor
 nondoctors
 nondoctrinaire
 nondocumentary
+nondogmatic
 nondollar
 nondomestic
 nondormant
@@ -74112,6 +74136,7 @@ ordains
 ordeal
 ordeals
 ordered
+orderer
 orderers
 ordering
 orderlies
@@ -76921,6 +76946,7 @@ oyez
 oyezes
 oyster
 oystercatcher
+oystered
 oysterer
 oysterers
 oystering
@@ -82231,6 +82257,7 @@ plumpened
 plumpening
 plumpens
 plumpers
+plumping
 plumpish
 plumply
 plumpness
@@ -90820,6 +90847,7 @@ registrations
 registry
 regius
 regive
+regiving
 reglaze
 reglazes
 reglazing
@@ -95385,6 +95413,7 @@ sacahuistas
 sacahuiste
 sacahuistes
 sacaton
+sacbut
 saccades
 saccadic
 saccate
@@ -95879,6 +95908,7 @@ samizdat
 samlets
 samosa
 samosas
+samovar
 samoyeds
 samp
 sampan
@@ -96503,6 +96533,7 @@ sayst
 sayyid
 sayyids
 scab
+scabbarded
 scabbarding
 scabbed
 scabbiest
@@ -96806,6 +96837,7 @@ schemes
 scherzandos
 scherzos
 schiller
+schilling
 schism
 schismatic
 schismatical
@@ -105185,6 +105217,7 @@ stickful
 stickhandle
 stickhandled
 stickhandler
+stickhandles
 stickhandling
 stickier
 stickies
@@ -114429,6 +114462,7 @@ trochanters
 trochar
 trochars
 trochee
+trochees
 troches
 trochil
 trochili
@@ -124217,6 +124251,7 @@ yeshivoth
 yesses
 yessing
 yester
+yesterday
 yestereves
 yestern
 yesternights
