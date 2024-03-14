@@ -2723,6 +2723,7 @@ alteration
 altercate
 altercated
 altercates
+altercation
 altercations
 altered
 alterer
@@ -9640,6 +9641,7 @@ bernicles
 berobed
 berouged
 berretta
+berrettas
 berried
 berry
 berrying
@@ -12162,6 +12164,7 @@ bos
 boscages
 boschbok
 boschvarks
+boshbok
 boshes
 boshvark
 boshvarks
@@ -14108,6 +14111,7 @@ busman
 buss
 busses
 bussings
+bust
 bustard
 bustards
 busted
@@ -14468,6 +14472,7 @@ caddy
 cadelle
 cadence
 cadences
+cadencies
 cadency
 cadent
 cadenza
@@ -14527,6 +14532,7 @@ cage
 cageful
 cagelike
 cageling
+cagelings
 cager
 cages
 cagey
@@ -20837,6 +20843,7 @@ commercialised
 commercialises
 commercialism
 commercialisms
+commercialists
 commercialities
 commerciality
 commercialized
@@ -24530,6 +24537,7 @@ crimping
 crimple
 crimpled
 crimples
+crimpling
 crimps
 crimpy
 crimson
@@ -36376,6 +36384,7 @@ erring
 erringly
 erroneous
 erroneously
+erroneousness
 erroneousnesses
 error
 errorless
@@ -36432,6 +36441,7 @@ erythrosin
 erythrosines
 erythrosins
 escadrille
+escadrilles
 escaladed
 escalader
 escaladers
@@ -38023,6 +38033,7 @@ extensivenesses
 extensometer
 extensometers
 extensor
+extent
 extenuated
 extenuates
 extenuating
@@ -38527,6 +38538,7 @@ faintest
 fainthearted
 fainting
 faintish
+faintishness
 faintishnesses
 faintly
 faintnesses
@@ -39837,6 +39849,7 @@ fieldsmen
 fieldstone
 fieldstones
 fieldstrip
+fieldstripped
 fieldstripping
 fieldstrips
 fieldwork
@@ -47958,6 +47971,7 @@ hamaul
 hamauls
 hambone
 hamboned
+hamboning
 hamburg
 hamburger
 hamburgers
@@ -55808,6 +55822,7 @@ intracerebrally
 intracity
 intracompany
 intracranial
+intracranially
 intractably
 intraday
 intradermal
@@ -56159,6 +56174,7 @@ involvement
 involver
 involvers
 involves
+involving
 invulnerability
 invulnerable
 invulnerably
@@ -57677,6 +57693,7 @@ junglegyms
 junglelike
 junglier
 junior
+juniorates
 juniorities
 juniority
 juniors
@@ -59286,6 +59303,7 @@ lahars
 laic
 laical
 laically
+laich
 laichs
 laicise
 laicised
@@ -60403,6 +60421,7 @@ lemmata
 lemmatize
 lemmatized
 lemmatizes
+lemming
 lemminglike
 lemmings
 lemniscal
@@ -62419,6 +62438,7 @@ lukewarmly
 lull
 lullabied
 lullabies
+lullaby
 lullabying
 luller
 lullers
@@ -64178,6 +64198,7 @@ masterlinesses
 masterly
 mastermind
 masterminded
+masterminding
 masterminds
 masterpiece
 masters
@@ -68723,6 +68744,7 @@ mouldy
 moulin
 moulins
 moult
+moulted
 moulting
 moults
 moundbird
@@ -70822,6 +70844,7 @@ newsletters
 newsmagazine
 newsmagazines
 newsmaker
+newsmakers
 newsmen
 newsmonger
 newspaper
@@ -73824,6 +73847,7 @@ omphaloskepses
 omphaloskepsis
 oms
 on
+onager
 onagers
 onagri
 onanism
@@ -74435,6 +74459,7 @@ ornamentals
 ornamented
 ornaments
 ornate
+ornateness
 ornatenesses
 ornerier
 orneriest
@@ -82346,6 +82371,7 @@ plotties
 plottiest
 plotting
 plotty
+plotzed
 plotzes
 ploughers
 ploughing
@@ -92343,6 +92369,7 @@ reprehended
 reprehending
 reprehends
 reprehension
+reprehensions
 reprehensive
 representable
 representations
@@ -100669,6 +100696,7 @@ simply
 simps
 simulacra
 simulacre
+simulacrum
 simulacrums
 simulant
 simulants
@@ -102305,6 +102333,7 @@ snowmelts
 snowmen
 snowmobile
 snowmobiler
+snowmobilers
 snowmobiles
 snowmobiling
 snowmobilings
@@ -104882,6 +104911,7 @@ staphylococci
 staple
 stapled
 staplers
+staples
 stapling
 star
 starboard
@@ -105945,6 +105975,7 @@ straked
 strakes
 stramash
 stramashes
+stramonium
 stramoniums
 stranded
 strandedness
@@ -113717,6 +113748,7 @@ transections
 transept
 transeptal
 transepts
+transeunt
 transfect
 transfected
 transfecting
@@ -117205,6 +117237,7 @@ unerringly
 unescapable
 unessayed
 unessential
+unestablished
 unevaded
 unevaluated
 uneven
@@ -118450,6 +118483,7 @@ unsociableness
 unsociably
 unsocial
 unsocially
+unsoiled
 unsold
 unsoldered
 unsolders
@@ -119858,6 +119892,7 @@ vasoactivity
 vasoconstrictor
 vasodilatation
 vasodilatations
+vasodilation
 vasodilator
 vasodilators
 vasomotor
