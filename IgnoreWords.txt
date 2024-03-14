@@ -336,6 +336,7 @@ acclaimer
 acclaimers
 acclaiming
 acclaims
+acclamation
 acclimate
 acclimated
 acclimates
@@ -2207,6 +2208,7 @@ alderflies
 alderfly
 alderman
 aldermanic
+aldermen
 alderwoman
 aldicarb
 aldicarbs
@@ -2277,6 +2279,7 @@ algas
 algebra
 algebraic
 algebraically
+algebraist
 algebraists
 algebras
 algerines
@@ -3744,6 +3747,7 @@ animes
 animi
 animis
 animism
+animist
 animistic
 animosities
 animuses
@@ -4204,6 +4208,7 @@ antiegalitarian
 antielite
 antielites
 antielitist
+antientropic
 antiepileptic
 antiepileptics
 antiestrogen
@@ -4909,6 +4914,7 @@ appealed
 appealer
 appealers
 appealing
+appealingly
 appeals
 appear
 appearances
@@ -7982,6 +7988,7 @@ bandsaw
 bandsaws
 bandshells
 bandsman
+bandsmen
 bandstand
 bandstands
 bandwagon
@@ -11219,6 +11226,7 @@ blockable
 blockaded
 blockaders
 blockades
+blockading
 blockage
 blockages
 blockbusted
@@ -14589,6 +14597,7 @@ cajuputs
 cake
 caked
 cakes
+cakewalk
 cakewalked
 cakewalkers
 cakewalking
@@ -18039,6 +18048,7 @@ chitlings
 chitlins
 chiton
 chitosan
+chits
 chittered
 chittering
 chitterlings
@@ -18091,6 +18101,7 @@ chlorids
 chlorin
 chlorinate
 chlorinated
+chlorinates
 chlorinating
 chlorination
 chlorinator
@@ -20453,6 +20464,7 @@ collected
 collectedly
 collectednesses
 collectible
+collective
 collectively
 collectives
 collectivised
@@ -21173,6 +21185,7 @@ complexified
 complexifies
 complexify
 complexion
+complexional
 complexioned
 complexions
 complexities
@@ -21545,6 +21558,7 @@ condemnor
 condemnors
 condensable
 condensate
+condensation
 condensational
 condensations
 condense
@@ -21580,6 +21594,7 @@ condoles
 condoling
 condom
 condominium
+condominiums
 condoms
 condonation
 condonations
@@ -22074,6 +22089,7 @@ conservatory
 conserve
 conserved
 conservers
+conserves
 considerables
 considerably
 considerate
@@ -28930,6 +28946,7 @@ deuteric
 deuteride
 deuterides
 deuterium
+deuteriums
 deuteron
 deuterostome
 deuterostomes
@@ -32599,6 +32616,7 @@ dropkickers
 dropkicks
 dropout
 dropouts
+dropped
 dropper
 dropperful
 dropperfuls
@@ -40740,6 +40758,7 @@ flaws
 flawy
 flaxen
 flaxes
+flaxier
 flaxiest
 flaxseed
 flaxy
@@ -45224,6 +45243,7 @@ gleamer
 gleamers
 gleamier
 gleamiest
+gleaming
 gleamy
 gleaners
 gleaning
@@ -48338,6 +48358,7 @@ harder
 hardest
 hardfisted
 hardgoods
+hardhack
 hardhacks
 hardhanded
 hardhandedness
@@ -62652,6 +62673,7 @@ lusterware
 lusterwares
 lustful
 lustfully
+lustfulnesses
 lustier
 lustihood
 lustihoods
@@ -67549,6 +67571,7 @@ misuse
 misusers
 misuses
 misutilization
+misvalued
 misvalues
 misvaluing
 misvocalization
@@ -67730,6 +67753,7 @@ modernisations
 modernise
 modernised
 modernises
+modernisms
 modernist
 modernists
 modernities
@@ -68356,6 +68380,7 @@ moonbow
 mooncalves
 moonchild
 moondust
+mooned
 mooner
 mooners
 mooneye
@@ -79053,6 +79078,7 @@ peccavis
 pech
 pechan
 pechans
+peched
 peching
 pechs
 peck
@@ -83740,6 +83766,7 @@ posttreatment
 posttrial
 postulancies
 postulant
+postulants
 postulated
 postulates
 postulation
@@ -90848,6 +90875,7 @@ reflectometries
 reflectometry
 reflector
 reflectorize
+reflectorized
 reflectorizing
 reflectors
 reflet
@@ -103947,6 +103975,7 @@ spiffy
 spigot
 spigots
 spiked
+spikelet
 spikelets
 spikelike
 spikenards
@@ -105298,6 +105327,7 @@ stelae
 stelai
 stelar
 stele
+stelic
 stella
 stellar
 stellas
@@ -105907,6 +105937,7 @@ stope
 stopers
 stopes
 stopgaps
+stoping
 stoplight
 stopoff
 stopover
@@ -106341,6 +106372,7 @@ stripiest
 stripings
 stripling
 striplings
+strippable
 stripper
 strippers
 stripping
@@ -109389,6 +109421,7 @@ synecdochically
 synecological
 synecology
 synereses
+syneresis
 synergetic
 synergia
 synergias
@@ -121494,6 +121527,7 @@ vrow
 vrows
 vug
 vuggier
+vuggiest
 vuggs
 vuggy
 vugh
@@ -124046,6 +124080,7 @@ workwomen
 world
 worldbeat
 worldbeats
+worldliest
 worldlinesses
 worldling
 worldlings
