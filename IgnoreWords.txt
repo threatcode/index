@@ -126,6 +126,7 @@ absorbent
 absorber
 absorbers
 absorbing
+absorbs
 absorptance
 absorptances
 absorption
@@ -4582,6 +4583,7 @@ anuric
 anurous
 anuses
 anvil
+anviled
 anviling
 anvilled
 anvilling
@@ -4842,6 +4844,7 @@ aposiopeses
 aposporic
 apospories
 apospory
+apostacies
 apostacy
 apostasies
 apostasy
@@ -5315,6 +5318,7 @@ archetype
 archetypes
 archfiends
 archfoe
+archicarp
 archicarps
 archidiaconal
 archiepiscopate
@@ -10233,6 +10237,7 @@ bile
 bilection
 bilections
 biles
+bilevel
 bilevels
 bilged
 bilgewaters
@@ -13080,6 +13085,7 @@ briskest
 brisket
 brisking
 briskly
+briskness
 brisks
 brisling
 brislings
@@ -16480,6 +16486,7 @@ cauterants
 cauteries
 cauterizations
 cauterize
+cauterized
 cauterizes
 cautery
 caution
@@ -16546,6 +16553,7 @@ cavitating
 cavitation
 cavitied
 cavities
+cavort
 cavorted
 cavorters
 cavorting
@@ -27751,6 +27759,7 @@ delusters
 deluxe
 delve
 delved
+delvers
 delves
 delving
 demagnetization
@@ -32368,6 +32377,7 @@ drawknives
 drawl
 drawled
 drawlers
+drawlier
 drawliest
 drawlingly
 drawls
@@ -33089,6 +33099,7 @@ dustheaps
 dustier
 dustiest
 dustily
+dustinesses
 dusting
 dustings
 dustlike
@@ -35707,6 +35718,7 @@ entrenching
 entrenchment
 entrenchments
 entrepot
+entrepreneur
 entrepreneurial
 entrepreneurs
 entresol
@@ -40588,6 +40600,7 @@ flappy
 flaps
 flare
 flareback
+flared
 flares
 flareup
 flareups
@@ -42230,6 +42243,7 @@ fourdriniers
 foureyed
 fourpence
 fourpences
+fourplex
 fourplexes
 foursomes
 fourteeners
@@ -44713,6 +44727,7 @@ gettable
 getter
 gettering
 getters
+getting
 getup
 getups
 geum
@@ -45524,6 +45539,7 @@ glutinously
 gluts
 glutted
 glutting
+gluttonous
 gluttonousness
 gluttons
 gluttony
@@ -52383,6 +52399,7 @@ ignobly
 ignominious
 ignominiousness
 ignominy
+ignorable
 ignorami
 ignoramus
 ignoramuses
@@ -60530,6 +60547,7 @@ leopard
 leopardesses
 leopards
 leotard
+leotarded
 leotards
 lepers
 lepidolite
@@ -76233,6 +76251,7 @@ overfast
 overfastidious
 overfat
 overfatigued
+overfatigues
 overfavor
 overfavored
 overfavoring
@@ -79387,6 +79406,7 @@ penicillinase
 penicillinases
 penicillins
 penile
+peninsular
 penises
 penitence
 penitences
@@ -81240,6 +81260,7 @@ piercingly
 piercings
 pieridine
 pierogies
+pierrot
 pierrots
 piers
 pieta
@@ -83316,6 +83337,7 @@ popsie
 popsies
 popsy
 populace
+populaces
 popular
 popularises
 popularising
@@ -83726,6 +83748,7 @@ postulations
 postulator
 posture
 posturer
+posturers
 postures
 posturists
 postvagotomy
@@ -86788,6 +86811,7 @@ psycho
 psychoacoustic
 psychoacoustics
 psychoanalyses
+psychoanalysis
 psychoanalyst
 psychoanalysts
 psychoanalytic
@@ -87036,6 +87060,7 @@ pulik
 puling
 pulings
 pulis
+pullback
 pullbacks
 pulled
 pullet
@@ -92149,6 +92174,7 @@ repack
 repackage
 repackaged
 repackager
+repackages
 repacks
 repaid
 repaint
@@ -92767,6 +92793,7 @@ reseeks
 reseen
 resees
 resegregate
+resegregated
 resegregating
 resegregation
 resegregations
@@ -93928,6 +93955,7 @@ reweighing
 reweighs
 reweld
 rewelding
+rewelds
 rewet
 rewets
 rewidening
@@ -94386,6 +94414,7 @@ rijsttafel
 rijsttafels
 rikisha
 rikishas
+rikshaw
 rikshaws
 rile
 riled
@@ -98120,6 +98149,7 @@ securenesses
 securer
 secures
 securest
+securing
 securities
 securitizations
 securitize
@@ -105937,6 +105967,7 @@ storytelling
 storytellings
 stot
 stotin
+stotinka
 stotinki
 stotinov
 stotins
@@ -107792,6 +107823,7 @@ sumptuously
 sumptuousness
 sumpweed
 sumpweeds
+sums
 sun
 sunbaked
 sunbathe
@@ -115974,6 +116006,7 @@ ultraconvenient
 ultracool
 ultracritical
 ultradense
+ultradistance
 ultradistant
 ultradry
 ultraenergetic
@@ -119264,6 +119297,7 @@ upwardness
 upwardnesses
 upwards
 upwell
+upwelling
 upwells
 upwind
 upwinds
@@ -119604,6 +119638,7 @@ vacuoles
 vacuous
 vacuously
 vacuousness
+vacuum
 vacuumed
 vacuums
 vadose
