@@ -2396,6 +2396,7 @@ alkene
 alkenes
 alkie
 alkine
+alkoxides
 alkoxy
 alkyd
 alkyl
@@ -4174,6 +4175,7 @@ antidotal
 antidote
 antidoted
 antidromic
+antidrug
 antieconomic
 antiegalitarian
 antielite
@@ -9622,6 +9624,7 @@ bescreen
 bescreening
 bescreens
 beseech
+beseeched
 beseecher
 beseechers
 beseeches
@@ -10853,6 +10856,7 @@ blackwoods
 bladder
 bladderlike
 bladdernut
+bladdernuts
 bladderwort
 bladderworts
 bladed
@@ -11284,6 +11288,7 @@ blowpipes
 blows
 blowsed
 blowsier
+blowsiest
 blowsy
 blowtorch
 blowtorched
@@ -13776,6 +13781,7 @@ bunter
 bunters
 bunting
 buntings
+buntline
 bunts
 bunya
 bunyas
@@ -20526,6 +20532,7 @@ coltish
 coltishly
 coltishness
 coltishnesses
+colts
 coltsfoot
 colubrid
 colugo
@@ -23469,6 +23476,7 @@ countercurrents
 countercyclical
 counterdemand
 counterdemands
+countered
 countereffort
 counterefforts
 counterexample
@@ -28016,6 +28024,7 @@ dependant
 dependence
 dependences
 dependency
+dependently
 dependents
 depending
 depeople
@@ -34567,6 +34576,7 @@ emulsifier
 emulsifiers
 emulsifies
 emulsify
+emulsions
 emulsive
 emulsoid
 emulsoidal
@@ -38934,6 +38944,7 @@ feat
 feater
 featherbed
 featherbedding
+featherbeddings
 featherbeds
 featherbrain
 feathered
@@ -39815,6 +39826,7 @@ filmstrip
 filmstrips
 filmy
 filo
+filopodium
 filovirus
 filoviruses
 fils
@@ -55291,6 +55303,7 @@ internee
 internees
 internes
 interneuronal
+internment
 internments
 internodal
 internodes
@@ -55651,6 +55664,7 @@ intrinsical
 intro
 introduce
 introduced
+introducer
 introducers
 introducing
 introduction
@@ -61802,6 +61816,7 @@ loopholes
 loopholing
 loopiest
 loopily
+loopiness
 loopinesses
 looping
 loops
@@ -63972,6 +63987,7 @@ matchmake
 matchmakers
 matchmakes
 matchmaking
+matchmakings
 matchmark
 matchmarked
 matchmarking
@@ -64267,6 +64283,7 @@ meaning
 meaningful
 meaningfulness
 meaningless
+meaninglessly
 meaningly
 meanings
 meanly
@@ -68126,6 +68143,7 @@ morceau
 mordacities
 mordacity
 mordancy
+mordant
 mordanted
 mordanting
 mordantly
@@ -71004,6 +71022,7 @@ nominating
 nominations
 nominative
 nominator
+nominators
 nominee
 nomism
 nomisms
@@ -75983,6 +76002,7 @@ overinflated
 overinflates
 overinflating
 overinflation
+overinform
 overinforming
 overinforms
 overing
@@ -78019,6 +78039,7 @@ partied
 partier
 partiers
 parties
+partisan
 partisanly
 partisans
 partisanship
@@ -78262,6 +78283,7 @@ patently
 patentor
 patentors
 pater
+paterfamilias
 paternal
 paternalism
 paternalist
@@ -78857,6 +78879,7 @@ pelletized
 pelletizer
 pelletizes
 pelletizing
+pellitories
 pellitory
 pellmell
 pellmells
@@ -82613,6 +82636,7 @@ polymorphically
 polymorphisms
 polymorphously
 polymorphs
+polymyxin
 polymyxins
 polynomial
 polynucleotide
@@ -82838,6 +82862,7 @@ poornesses
 poove
 pop
 popcorn
+popcorns
 popedom
 popedoms
 popeless
@@ -89115,6 +89140,7 @@ rebounded
 rebounds
 rebranch
 rebranched
+rebranches
 rebranching
 rebred
 rebreed
@@ -91390,6 +91416,7 @@ remissions
 remissive
 remissly
 remissness
+remit
 remitment
 remitments
 remits
@@ -99599,6 +99626,7 @@ showboated
 showbreads
 showcase
 showcased
+showcases
 showdown
 showerer
 showerers
@@ -106447,6 +106475,7 @@ submaximal
 submediant
 submediants
 submenus
+submerge
 submergence
 submergences
 submerges
@@ -116723,6 +116752,7 @@ unexpurgated
 unextraordinary
 unfaded
 unfading
+unfadingly
 unfailing
 unfailingly
 unfairer
@@ -118765,6 +118795,7 @@ urinations
 urinative
 urinators
 urine
+urinemias
 urinemic
 urinogenital
 urinometer
@@ -119500,6 +119531,7 @@ velodromes
 velour
 velours
 veloute
+veloutes
 velum
 velveret
 velverets
@@ -120174,6 +120206,7 @@ villenage
 villiform
 villose
 villosities
+villous
 vills
 vim
 vimina
@@ -122010,6 +122043,7 @@ wetlands
 wetnesses
 wetproof
 wets
+wetsuit
 wetsuits
 wettabilities
 wettable
@@ -123397,6 +123431,7 @@ worrit
 worrits
 worry
 worrying
+worrywart
 worsen
 worsening
 worsens
