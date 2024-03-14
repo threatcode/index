@@ -5651,6 +5651,7 @@ arrogances
 arrogancies
 arrogantly
 arrogate
+arrogated
 arrogating
 arrogation
 arrogations
@@ -9317,6 +9318,7 @@ believe
 believer
 believers
 believes
+believing
 belike
 beliquored
 belittle
@@ -9841,6 +9843,7 @@ betroth
 betrothal
 betrothals
 betrothed
+betrothing
 betroths
 betta
 bettas
@@ -14052,6 +14055,7 @@ bushinesses
 bushings
 bushland
 bushless
+bushman
 bushmaster
 bushmasters
 bushmen
@@ -29567,6 +29571,7 @@ diffusiveness
 diffusivities
 diffusivity
 diffusor
+diffusors
 difs
 difunctional
 dig
@@ -37335,6 +37340,7 @@ exclaimer
 exclamation
 exclamations
 exclamatory
+exclave
 exclaves
 exclosure
 exclosures
@@ -39871,6 +39877,7 @@ filar
 filarees
 filaria
 filariae
+filarial
 filarian
 filariases
 filariasis
@@ -42490,6 +42497,7 @@ freneticisms
 frenetics
 frenula
 frenular
+frenulum
 frenulums
 frenum
 frenums
@@ -46372,6 +46380,7 @@ gravamen
 gravamens
 gravel
 graveled
+graveless
 gravelled
 gravelling
 gravelly
@@ -61842,6 +61851,7 @@ logistically
 logistician
 logistics
 logjam
+logjamming
 logjams
 lognormal
 lognormality
@@ -62322,6 +62332,7 @@ lucidnesses
 lucifer
 luciferase
 luciferin
+luciferous
 lucifers
 lucite
 lucites
@@ -62969,6 +62980,7 @@ magical
 magically
 magician
 magicking
+magics
 magilp
 magister
 magisterial
@@ -63348,6 +63360,7 @@ maltose
 maltreat
 maltreated
 maltreater
+maltreaters
 maltreating
 maltreatments
 maltsters
@@ -66027,6 +66040,7 @@ midrashot
 midrashoth
 midrib
 midribs
+midriffs
 midsagittal
 midsection
 midship
@@ -66181,10 +66195,12 @@ milkshake
 milkshakes
 milkshed
 milksheds
+milksop
 milksoppy
 milkweed
 milkweeds
 milkwood
+milkwort
 milkworts
 milky
 mill
@@ -67959,6 +67975,7 @@ monoclinic
 monoclonal
 monocoque
 monocoques
+monocot
 monocots
 monocotyl
 monocotyledon
@@ -68986,6 +69003,7 @@ mullahisms
 mullahs
 mulled
 mullein
+mulleins
 mullen
 mullens
 mullets
@@ -76686,6 +76704,7 @@ overstrewing
 overstrewn
 overstrews
 overstridden
+overstrides
 overstriding
 overstrode
 overstructured
@@ -76985,6 +77004,7 @@ oxlips
 oxtail
 oxter
 oxters
+oxy
 oxyacetylene
 oxyacid
 oxyacids
@@ -77884,6 +77904,7 @@ parallel
 paralleled
 parallelepiped
 paralleling
+parallelism
 parallelisms
 parallelled
 parallelling
@@ -82045,6 +82066,7 @@ playbook
 playboy
 playboys
 playdate
+playdates
 playday
 playdown
 player
@@ -83800,10 +83822,12 @@ practices
 practicum
 practise
 practised
+practises
 practitioner
 practitioners
 praecipe
 praecipes
+praedial
 praefect
 praefects
 praelect
@@ -84005,6 +84029,7 @@ prebless
 preblesses
 preboard
 preboarded
+preboarding
 preboards
 preboil
 preboiling
@@ -91614,6 +91639,7 @@ remanent
 remanufacture
 remanufactured
 remanufacturer
+remanufacturing
 remap
 remapping
 remaps
@@ -92880,6 +92906,7 @@ respacing
 respade
 respaded
 respades
+respading
 respeak
 respeaking
 respecifies
@@ -95895,6 +95922,7 @@ saltboxes
 saltchuck
 salter
 saltern
+salterns
 salters
 saltest
 saltie
@@ -101283,6 +101311,7 @@ sleave
 sleaved
 sleaves
 sleaving
+sleaze
 sleazebag
 sleazebags
 sleazeballs
@@ -101679,6 +101708,7 @@ sluttishness
 sluttishnesses
 sly
 slyboots
+slyer
 slyness
 slypes
 smacked
@@ -109319,6 +109349,7 @@ syzygial
 syzygy
 ta
 tabanid
+tabanids
 tabard
 tabarded
 tabaret
@@ -111411,6 +111442,7 @@ therapeuses
 therapeusis
 therapeutic
 therapeutically
+therapeutics
 therapists
 therapsid
 thereabout
@@ -113491,6 +113523,7 @@ traitoress
 traitoresses
 traitorous
 traitorously
+traitress
 traitresses
 traits
 trajected
@@ -118320,6 +118353,7 @@ unsilent
 unsimilar
 unsinkable
 unsized
+unskilful
 unskilled
 unskillful
 unskillfully
@@ -124234,6 +124268,7 @@ yappingly
 yar
 yard
 yardages
+yardarm
 yardarms
 yardbird
 yarded
