@@ -2232,6 +2232,7 @@ aleatory
 alec
 alecs
 alee
+alef
 alegar
 alegars
 alehouse
@@ -4030,6 +4031,7 @@ anthem
 anthemed
 anthemia
 anthemic
+antheming
 anthemion
 anthems
 anther
@@ -11117,6 +11119,7 @@ bleeding
 bleedings
 bleeds
 bleep
+bleeped
 bleeper
 bleepers
 bleeping
@@ -12737,6 +12740,7 @@ brassart
 brassarts
 brassbound
 brassed
+brasseries
 brassica
 brassicas
 brassie
@@ -13974,6 +13978,7 @@ burglarizes
 burglarizing
 burglarproof
 burglars
+burglary
 burgle
 burgled
 burgles
@@ -16589,6 +16594,7 @@ cavitate
 cavitated
 cavitating
 cavitation
+cavitations
 cavitied
 cavities
 cavort
@@ -16779,6 +16785,7 @@ censused
 censuses
 cent
 centai
+cental
 centare
 centas
 centaur
@@ -21190,6 +21197,7 @@ complaint
 complaints
 complaisance
 complaisances
+complaisant
 complaisantly
 complected
 complecting
@@ -23058,6 +23066,7 @@ corkage
 corkboard
 corkboards
 corker
+corkers
 corkier
 corkiest
 corkiness
@@ -25602,6 +25611,7 @@ cuspidate
 cuspidation
 cuspidations
 cuspids
+cuspis
 cusps
 cuss
 cussed
@@ -35332,6 +35342,7 @@ engager
 engages
 engagingly
 engarland
+engarlanded
 engarlanding
 engender
 engendering
@@ -38004,6 +38015,7 @@ exploratory
 explore
 explored
 explorers
+exploring
 explosively
 exponent
 exponentially
@@ -44262,6 +44274,7 @@ gauntlets
 gauntly
 gauntness
 gauntnesses
+gauntry
 gaur
 gauzes
 gauzier
@@ -50901,6 +50914,7 @@ hoper
 hopers
 hophead
 hopheads
+hoping
 hoplites
 hopped
 hopper
@@ -51027,6 +51041,7 @@ horseplays
 horsepower
 horsepox
 horsepoxes
+horserace
 horseraces
 horses
 horseshit
@@ -52710,6 +52725,7 @@ imbed
 imbedded
 imbeds
 imbibe
+imbiber
 imbibes
 imbibition
 imbibitions
@@ -59561,6 +59577,7 @@ lambie
 lambiest
 lambing
 lambkill
+lambkills
 lambkin
 lamblike
 lambrequins
@@ -59576,6 +59593,7 @@ lamedh
 lamedhs
 lameds
 lamella
+lamellae
 lamellar
 lamellate
 lamellately
@@ -61870,6 +61888,7 @@ lobbers
 lobbied
 lobbies
 lobbing
+lobby
 lobbyer
 lobbygow
 lobbygows
@@ -66151,6 +66170,7 @@ microphotometer
 microphotometry
 microphyll
 microphyllous
+microphylls
 microphysically
 micropipet
 micropipets
@@ -68122,6 +68142,7 @@ monastically
 monasticism
 monasticisms
 monastics
+monatomic
 monaurally
 monaxial
 monaxon
@@ -74216,6 +74237,7 @@ opah
 opahs
 opalesced
 opalescences
+opalescent
 opalescently
 opalesces
 opalescing
@@ -80947,6 +80969,7 @@ photoed
 photoelectron
 photoelectronic
 photoelectrons
+photoemission
 photoemissions
 photoemissive
 photoengrave
@@ -81244,6 +81267,7 @@ pian
 pianic
 pianism
 pianisms
+pianissimi
 pianissimo
 pianissimos
 pianist
@@ -82404,6 +82428,7 @@ playgoers
 playgoings
 playground
 playgrounds
+playgroup
 playgroups
 playhouse
 playing
@@ -84409,6 +84434,7 @@ preceptories
 preceptors
 preceptorships
 preceptory
+precepts
 precess
 precessed
 precesses
@@ -96311,6 +96337,7 @@ saltshaker
 saltwork
 saltworts
 salty
+salubrious
 salubriousness
 salubrities
 salubrity
@@ -96462,6 +96489,7 @@ sanddabs
 sanded
 sander
 sanderling
+sandfishes
 sandflies
 sandfly
 sandglass
@@ -99672,6 +99700,7 @@ shareware
 sharewares
 sharia
 shariah
+shariahs
 sharif
 sharing
 shark
@@ -100617,6 +100646,7 @@ sickrooms
 sicks
 sics
 siddur
+siddurs
 side
 sidearm
 sidearms
@@ -102019,6 +102049,7 @@ sluff
 sluffed
 sluffing
 sluffs
+slug
 slugabed
 slugabeds
 slugfest
@@ -105727,6 +105758,7 @@ stets
 stetson
 stetting
 stevedore
+stevedored
 stevedores
 stevedoring
 stew
@@ -114987,7 +115019,9 @@ trismuses
 trisoctahedra
 trisoctahedron
 trisome
+trisomes
 trisomic
+trisomics
 trisomies
 trisomy
 tristate
@@ -119921,6 +119955,7 @@ vagariously
 vagary
 vagile
 vagilities
+vagility
 vaginal
 vaginally
 vaginated
