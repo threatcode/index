@@ -8089,6 +8089,7 @@ bankrupt
 bankruptcies
 bankrupting
 bankrupts
+banks
 bankside
 banksides
 banner
@@ -15809,6 +15810,7 @@ carelessly
 carelessness
 carer
 carers
+caress
 caressed
 caresser
 caressers
@@ -20986,6 +20988,7 @@ commercialities
 commerciality
 commercialized
 commercializing
+commercially
 commercials
 commercing
 commie
@@ -22463,6 +22466,7 @@ contentiousness
 contentments
 contes
 contest
+contestable
 contestant
 contestants
 contestation
@@ -28489,6 +28493,7 @@ deprenyl
 deprenyls
 depress
 depresses
+depressible
 depressing
 depressingly
 depressions
@@ -28506,6 +28511,7 @@ depriver
 deprivers
 deprives
 depriving
+deprogram
 deprogramed
 deprograming
 deprograms
@@ -29335,6 +29341,7 @@ diablery
 diabolical
 diabolism
 diabolisms
+diabolists
 diabolizing
 diabolo
 diabolos
@@ -29917,6 +29924,7 @@ dildoes
 dildos
 dilemmas
 dilemmic
+dilettante
 dilettantes
 dilettanti
 diligence
@@ -29927,6 +29935,7 @@ dill
 dilled
 dilly
 dillydallying
+diltiazems
 diluents
 dilute
 diluteness
@@ -29980,6 +29989,7 @@ diminuendo
 diminuendos
 diminutive
 diminutively
+diminutiveness
 dimly
 dimmable
 dimmed
@@ -36806,6 +36816,7 @@ esquire
 esquired
 esquires
 esquiring
+ess
 essay
 essayed
 essayer
@@ -38615,6 +38626,7 @@ facelessnesses
 facelifted
 facelifting
 facemasks
+faceplate
 faceplates
 facer
 facers
@@ -41342,6 +41354,7 @@ flowcharting
 flowchartings
 flowcharts
 flower
+flowerage
 flowered
 flowerers
 floweret
@@ -45776,6 +45789,7 @@ glutaraldehydes
 glutathione
 glutathiones
 glutelin
+glutelins
 glutenin
 glutenins
 glutenous
@@ -47750,6 +47764,7 @@ gymnasium
 gymnasiums
 gymnast
 gymnastic
+gymnastics
 gymnasts
 gymnosophists
 gymnosperm
@@ -48659,6 +48674,7 @@ harijan
 harijans
 haring
 harissa
+harissas
 harked
 harkened
 harkening
@@ -48903,6 +48919,7 @@ haves
 havior
 haviors
 havoc
+havocked
 havocker
 hawala
 hawalas
@@ -52040,6 +52057,7 @@ hymnbook
 hymned
 hymning
 hymnless
+hymnlike
 hymnodist
 hymnodists
 hymnody
@@ -57555,6 +57573,7 @@ jetstream
 jetted
 jettied
 jettiest
+jetting
 jettison
 jettisoning
 jettisons
@@ -68100,6 +68119,7 @@ modernity
 modernizations
 modernize
 modernized
+modernizers
 modernizing
 modernly
 modernness
@@ -79669,6 +79689,7 @@ pejoratives
 peke
 pekepoo
 pekes
+pekin
 pelage
 pelagial
 pelagics
@@ -80532,6 +80553,7 @@ perspicacities
 perspicacity
 perspicuities
 perspicuous
+perspicuousness
 perspiration
 perspirations
 perspire
@@ -81507,6 +81529,7 @@ pica
 picachos
 picadillos
 picador
+picadores
 picadors
 pical
 picara
@@ -81595,6 +81618,7 @@ picomoles
 picornavirus
 picoseconds
 picot
+picoted
 picotee
 picotees
 picots
@@ -85846,6 +85870,7 @@ priest
 priestess
 priestesses
 priesthood
+priesthoods
 priestlinesses
 priestly
 prigged
@@ -87047,6 +87072,7 @@ provincialist
 provincialists
 provinciality
 provincialize
+provincializing
 proving
 proviral
 provirus
@@ -89318,6 +89344,7 @@ rapid
 rapider
 rapidest
 rapidities
+rapidity
 rapidly
 rapidnesses
 rapids
@@ -98332,6 +98359,7 @@ scurried
 scurries
 scurril
 scurrile
+scurrilities
 scurrility
 scurrilous
 scurrilousness
@@ -105189,6 +105217,7 @@ squeamishnesses
 squeegee
 squeegeed
 squeegeeing
+squeezabilities
 squeezability
 squeezable
 squeeze
@@ -111802,6 +111831,7 @@ terrifiers
 terrifies
 terrify
 terrifying
+terrifyingly
 terrigenous
 terrines
 territ
@@ -116252,6 +116282,7 @@ tweezer
 tweezing
 twelfth
 twelfths
+twelve
 twelvemo
 twelvemonths
 twelves
@@ -118734,6 +118765,7 @@ unpegged
 unpegs
 unpen
 unpenned
+unpenning
 unpens
 unpent
 unpeople
@@ -120312,6 +120344,7 @@ valence
 valences
 valencia
 valencias
+valencies
 valentine
 valentines
 valerate
@@ -120434,6 +120467,7 @@ vandalizing
 vandals
 vandas
 vandyke
+vandyked
 vane
 vaned
 vanguard
@@ -125093,6 +125127,7 @@ yanking
 yanks
 yanqui
 yantra
+yantras
 yapock
 yapoks
 yapon
