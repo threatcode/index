@@ -5090,6 +5090,7 @@ approbations
 approbatory
 appropriate
 appropriated
+appropriately
 appropriateness
 appropriation
 appropriators
@@ -5580,6 +5581,7 @@ armrests
 armsful
 armure
 army
+armyworm
 arnatto
 arnicas
 arnotto
@@ -7117,6 +7119,7 @@ avocations
 avocet
 avocets
 avodires
+avoidable
 avoidance
 avoided
 avoiding
@@ -7944,6 +7947,7 @@ bams
 ban
 banalities
 banality
+banalize
 banalizes
 banally
 banana
@@ -18201,6 +18205,7 @@ choky
 chola
 cholangiogram
 cholangiography
+cholas
 cholate
 cholecalciferol
 cholecyst
@@ -19217,6 +19222,7 @@ cleanly
 cleanness
 cleannesses
 cleans
+cleanse
 cleanser
 cleansers
 cleanses
@@ -23970,6 +23976,7 @@ covert
 covertly
 covertness
 coverts
+coverture
 covertures
 coverup
 coverups
@@ -27231,6 +27238,7 @@ deepener
 deepens
 deeper
 deepest
+deepfreeze
 deepfroze
 deepfrozen
 deepness
@@ -33676,6 +33684,7 @@ ectomorph
 ectomorphic
 ectoparasites
 ectoparasitic
+ectopia
 ectopias
 ectopically
 ectoplasm
@@ -34940,6 +34949,7 @@ enchant
 enchanted
 enchanters
 enchanting
+enchantingly
 enchantment
 enchantress
 enchantresses
@@ -45082,6 +45092,7 @@ ginners
 ginnier
 ginniest
 ginning
+ginnings
 ginny
 gins
 ginzo
@@ -47133,6 +47144,7 @@ grueller
 gruellings
 gruels
 gruesomely
+gruesomeness
 gruesomenesses
 gruesomer
 gruesomest
@@ -54026,6 +54038,7 @@ indigences
 indigency
 indigene
 indigenization
+indigenize
 indigenizes
 indigenizing
 indigenous
@@ -55288,6 +55301,7 @@ intangibly
 intarsia
 intarsias
 integer
+integers
 integrabilities
 integrability
 integralities
@@ -56668,6 +56682,7 @@ isle
 isled
 isleless
 islet
+isleted
 islets
 isling
 ism
@@ -65938,6 +65953,7 @@ miaowing
 miasm
 miasma
 miasmal
+miasmas
 miasmata
 miasmatic
 miasmically
@@ -68185,6 +68201,7 @@ monitorial
 monitories
 monitoring
 monitors
+monkery
 monkeying
 monkeypod
 monkeypods
@@ -74390,6 +74407,7 @@ optimizes
 optimizing
 optimums
 opting
+optional
 optionality
 optionally
 optionals
@@ -74671,6 +74689,7 @@ ornerinesses
 ornithic
 ornithine
 ornithines
+ornithischian
 ornithischians
 ornithoid
 ornithologic
@@ -75932,6 +75951,7 @@ outwardnesses
 outwarred
 outwars
 outwashes
+outwaste
 outwasted
 outwatch
 outwatched
@@ -80461,6 +80481,7 @@ petrolatums
 petroleums
 petrologic
 petrologically
+petrologist
 petrologists
 petrols
 petronel
@@ -84910,6 +84931,7 @@ premeditator
 premeds
 premeet
 premeiotic
+premen
 premenstrual
 premenstrually
 premie
@@ -86562,6 +86584,7 @@ protamin
 protamine
 protamines
 protamins
+protases
 protasis
 protatic
 protea
@@ -87667,6 +87690,7 @@ putrefied
 putrefiers
 putrefying
 putrescences
+putrescent
 putrescible
 putrescine
 putrescines
@@ -91002,6 +91026,7 @@ reflagged
 reflagging
 reflags
 reflate
+reflated
 reflating
 reflationary
 reflect
@@ -93795,6 +93820,7 @@ retrogression
 retrogressions
 retrogressive
 retrogressively
+retronym
 retropacks
 retroperitoneal
 retroreflective
@@ -99958,6 +99984,7 @@ shimmered
 shimmering
 shimmers
 shimmied
+shimmies
 shin
 shinbone
 shinbones
@@ -100678,6 +100705,7 @@ sifters
 sifts
 siganid
 siganids
+sigh
 sigher
 sighers
 sighing
@@ -101519,6 +101547,7 @@ skysurf
 skysurfed
 skysurfer
 skysurfs
+skywalks
 skyward
 skywards
 skyway
@@ -106541,6 +106570,7 @@ stripers
 stripes
 stripier
 stripiest
+striping
 stripings
 stripling
 striplings
@@ -107613,6 +107643,7 @@ subversion
 subversionary
 subversions
 subversive
+subversively
 subversiveness
 subversives
 subvert
@@ -109577,6 +109608,7 @@ syncretize
 syncretized
 syncretizing
 syncs
+syncytia
 syncytial
 syncytium
 syndactylies
@@ -112038,6 +112070,7 @@ thinkably
 thinker
 thinking
 thinkingly
+thinkingness
 thinkingnesses
 thinkings
 thinly
@@ -120757,6 +120790,7 @@ vesicles
 vesicula
 vesiculae
 vesicular
+vesicularity
 vesiculate
 vesiculates
 vesiculating
@@ -123281,6 +123315,7 @@ whitey
 whither
 whithersoever
 whitier
+whities
 whitiest
 whiting
 whitings
