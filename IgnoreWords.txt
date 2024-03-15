@@ -372,6 +372,7 @@ accompanist
 accompanists
 accompany
 accomplices
+accomplish
 accomplishable
 accomplished
 accomplishers
@@ -1815,6 +1816,7 @@ agitator
 agitators
 agitprops
 aglare
+agleam
 aglet
 aglets
 aglimmer
@@ -9296,6 +9298,7 @@ beings
 bejeebers
 bejeezus
 bejesus
+bejewel
 bejeweling
 bejewelling
 bejewels
@@ -11010,6 +11013,7 @@ blanking
 blankness
 blanknesses
 blanks
+blanquette
 blare
 blared
 blaring
@@ -12081,6 +12085,7 @@ boonless
 boons
 boor
 boorish
+boorishly
 boorishnesses
 boors
 boos
@@ -12773,6 +12778,7 @@ braunschweiger
 braunschweigers
 bravadoes
 bravas
+brave
 bravely
 bravenesses
 braver
@@ -13946,6 +13952,7 @@ burdensome
 burdie
 burdock
 burdocks
+bureau
 bureaucracies
 bureaucracy
 bureaucratese
@@ -16555,6 +16562,7 @@ cavaliers
 cavallas
 cavalletti
 cavallies
+cavalry
 cavalryman
 cavatina
 cavatinas
@@ -24200,6 +24208,7 @@ craftspeople
 craftspersons
 craftswoman
 craftswomen
+craftwork
 craftworks
 crafty
 crag
@@ -28281,6 +28290,7 @@ depeopling
 deperm
 deperms
 depersonalizes
+depersonalizing
 dephosphorylate
 depict
 depicted
@@ -30726,6 +30736,7 @@ disinclining
 disinfect
 disinfected
 disinfecting
+disinfection
 disinfestant
 disinfestation
 disinfestations
@@ -36466,6 +36477,7 @@ ericas
 ericoid
 eringo
 eringoes
+eringos
 eriophyids
 eristic
 eristical
@@ -38266,6 +38278,7 @@ extracellular
 extracellularly
 extracranial
 extract
+extractability
 extractable
 extracted
 extracting
@@ -41684,6 +41697,7 @@ food
 foodie
 foodies
 foodlessness
+foodlessnesses
 foods
 foodstuff
 foodstuffs
@@ -44288,6 +44302,7 @@ gauntness
 gauntnesses
 gauntry
 gaur
+gausses
 gauzes
 gauzier
 gauziest
@@ -46767,6 +46782,7 @@ greenockite
 greenockites
 greenrooms
 greens
+greensand
 greensands
 greenshank
 greenshanks
@@ -49659,6 +49675,7 @@ hereinabove
 hereinbefore
 hereinbelow
 hereinto
+hereof
 hereon
 heresiarch
 heresiarchs
@@ -50491,6 +50508,7 @@ holograms
 holograph
 holographed
 holographers
+holographically
 holographing
 holographs
 holography
@@ -55315,6 +55333,7 @@ insurrectional
 insurrectionary
 insurrectionist
 insusceptible
+insusceptibly
 inswathe
 inswathed
 inswathes
@@ -56814,6 +56833,7 @@ isolations
 isolator
 isolators
 isolead
+isoleucine
 isoleucines
 isoline
 isolog
@@ -70805,6 +70825,7 @@ nephelometers
 nephelometric
 nephelometries
 nephelometry
+nephew
 nephews
 nephogram
 nephologies
@@ -75642,6 +75663,7 @@ outpreaching
 outpreen
 outpreened
 outpreens
+outpressed
 outpresses
 outpressing
 outpriced
@@ -84031,6 +84053,7 @@ potful
 potfuls
 pothead
 potheads
+potheen
 potheens
 pother
 potherbs
@@ -88737,6 +88760,7 @@ radiolyses
 radiolysis
 radiolytic
 radiomen
+radiometer
 radiometries
 radiomimetic
 radionics
@@ -89034,6 +89058,7 @@ rancor
 rancorous
 rancorously
 rancors
+rancour
 rancoured
 rancours
 rand
@@ -92656,6 +92681,7 @@ reported
 reportedly
 reporter
 reporters
+reporting
 reportorial
 reportorially
 reports
@@ -92927,6 +92953,7 @@ rerecorded
 rerecording
 rerecords
 reredos
+reredoses
 reregister
 reregistered
 reregistering
@@ -95413,6 +95440,7 @@ roughnesses
 roughrider
 roughriders
 roughshod
+roughy
 rouging
 rouille
 rouilles
@@ -95474,6 +95502,7 @@ rousters
 rousting
 rousts
 rout
+routeman
 router
 routers
 routes
@@ -96625,6 +96654,7 @@ sannops
 sannup
 sannyasi
 sannyasin
+sannyasins
 sannyasis
 sans
 sansar
@@ -99827,6 +99857,7 @@ sheave
 shebang
 shebangs
 shebean
+shebeen
 shedable
 shedded
 shedder
@@ -99895,6 +99926,7 @@ shelduck
 shelducks
 shelf
 shelfful
+shellac
 shellacked
 shellacking
 shellackings
@@ -106589,6 +106621,7 @@ strident
 stridently
 strider
 strides
+striding
 stridors
 stridulate
 stridulated
@@ -113128,6 +113161,7 @@ toeshoes
 toff
 toffee
 toffees
+toffs
 toffy
 toft
 tofu
@@ -115745,6 +115779,7 @@ turbocharger
 turbochargers
 turboelectric
 turbogenerator
+turbogenerators
 turbojet
 turbojets
 turbomachinery
