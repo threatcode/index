@@ -305,6 +305,7 @@ acceptors
 accepts
 access
 accessaries
+accessed
 accesses
 accessibility
 accessibly
@@ -3064,6 +3065,7 @@ amity
 ammeter
 ammeters
 ammines
+ammino
 ammocete
 ammocetes
 ammonal
@@ -6757,6 +6759,7 @@ australs
 ausubo
 ausubos
 autacoid
+autarch
 autarchic
 autarchical
 autarchies
@@ -8495,6 +8498,7 @@ bassetting
 bassinet
 bassists
 bassness
+bassnesses
 basso
 bassoon
 bassoons
@@ -8776,6 +8780,7 @@ beardedness
 beardednesses
 beardless
 beardtongue
+beardtongues
 bearer
 beargrasses
 bearing
@@ -16018,6 +16023,7 @@ cartouche
 cartouches
 cartridge
 cartridges
+carts
 cartularies
 cartulary
 cartwheel
@@ -24587,6 +24593,7 @@ criminalizing
 criminally
 criminate
 criminated
+crimination
 criminations
 crimine
 crimini
@@ -28969,6 +28976,7 @@ deuteranomaly
 deuteranope
 deuteranopes
 deuteranopias
+deuteranopic
 deuterate
 deuterated
 deuterating
@@ -34845,6 +34853,7 @@ enactive
 enactments
 enactors
 enacts
+enalapril
 enalaprils
 enamel
 enameled
@@ -35816,6 +35825,7 @@ enunciation
 enunciator
 enunciators
 enure
+enureses
 enuresises
 enuretic
 enuretics
@@ -36425,6 +36435,7 @@ eristical
 eristics
 erlkings
 ermine
+ermined
 erne
 erodable
 erode
@@ -36823,6 +36834,7 @@ etherealness
 etherealnesses
 etherified
 etherifies
+etherify
 etherifying
 etherizations
 etherizer
@@ -46395,6 +46407,7 @@ granolith
 granolithic
 granophyres
 grans
+grant
 grantable
 granted
 grantee
@@ -47192,6 +47205,7 @@ guanabana
 guanaco
 guanase
 guanases
+guanay
 guanethidine
 guanidine
 guanidines
@@ -47421,6 +47435,7 @@ gunites
 gunkhole
 gunkholed
 gunkholing
+gunkier
 gunkiest
 gunless
 gunlock
@@ -53933,6 +53948,7 @@ independents
 indescribable
 indescribably
 indestructible
+indestructibly
 indeterminacies
 indeterminate
 indeterminately
@@ -56595,6 +56611,7 @@ irritations
 irritative
 irritator
 irrupt
+irrupted
 irrupting
 irruptions
 irruptive
@@ -61532,6 +61549,7 @@ liquorice
 liquoring
 lira
 liras
+lire
 liri
 liripipe
 liripipes
@@ -66647,6 +66665,7 @@ minikins
 minilab
 minilabs
 minim
+minima
 minimal
 minimalism
 minimalisms
@@ -79764,6 +79783,7 @@ percentage
 percentages
 percentiles
 percents
+perceptibility
 perceptibly
 perceptional
 perceptions
@@ -80337,6 +80357,7 @@ pester
 pesterer
 pestering
 pesters
+pesthole
 pestholes
 pesthouse
 pestier
@@ -92702,6 +92723,7 @@ repudiationist
 repudiationists
 repudiations
 repudiator
+repudiators
 repugn
 repugnance
 repugnances
@@ -95674,6 +95696,7 @@ runways
 rupee
 rupees
 rupiah
+rupiahs
 rupture
 ruptured
 ruptures
@@ -96656,6 +96679,7 @@ sargassos
 sargassum
 sargassums
 sarge
+sarges
 sargo
 sargos
 sari
@@ -98431,6 +98455,7 @@ seifs
 seigneur
 seigneurial
 seigneuries
+seigneurs
 seigneury
 seigniorage
 seigniories
@@ -102900,6 +102925,7 @@ solecizing
 soled
 solei
 solely
+solemn
 solemner
 solemnified
 solemnifies
@@ -102919,6 +102945,7 @@ solenodons
 solenoid
 solenoidal
 soleplate
+soleprint
 soleprints
 solerets
 soles
@@ -108633,6 +108660,7 @@ suprematisms
 suprematist
 suprematists
 supremely
+supremeness
 supremenesses
 supremes
 supremos
@@ -108957,6 +108985,7 @@ swanking
 swanned
 swanneries
 swannery
+swanning
 swanny
 swanpan
 swanpans
@@ -113188,6 +113217,7 @@ tonnes
 tonometer
 tonometry
 tonoplast
+tons
 tonsil
 tonsilar
 tonsillar
@@ -113343,6 +113373,7 @@ topsides
 topsoil
 topsoiled
 topsoiling
+topsoils
 topspins
 topstitch
 topstitched
@@ -118425,6 +118456,7 @@ unquiets
 unquote
 unquotes
 unquoting
+unraised
 unravel
 unraveling
 unravelled
@@ -118808,6 +118840,7 @@ unsteadiest
 unsteadily
 unsteadinesses
 unsteadying
+unsteel
 unsteeled
 unsteeling
 unsteels
@@ -120971,6 +121004,7 @@ vignettists
 vigorishes
 vigorous
 vigorously
+vigorousnesses
 vigour
 vigours
 vigs
@@ -123512,6 +123546,7 @@ wimps
 win
 winced
 winceys
+winch
 winched
 wincher
 winches
