@@ -1395,6 +1395,7 @@ aerodynamics
 aeroelasticity
 aeroembolism
 aeroembolisms
+aerofoil
 aerofoils
 aerogel
 aerogels
@@ -2351,6 +2352,7 @@ alikeness
 aliment
 alimental
 alimentary
+alimentation
 alimentations
 alimented
 alimenting
@@ -6948,6 +6950,7 @@ autorotating
 autorotation
 autorotations
 autoroutes
+autosexing
 autosomal
 autosome
 autosomes
@@ -7233,6 +7236,7 @@ axisymmetry
 axite
 axites
 axle
+axled
 axles
 axletree
 axletrees
@@ -8859,6 +8863,7 @@ beclamor
 beclamoring
 beclamors
 beclasped
+beclasping
 becloaked
 beclogged
 beclogging
@@ -11833,6 +11838,7 @@ bombastically
 bombasts
 bombazine
 bombazines
+bomber
 bombers
 bombes
 bombesin
@@ -16948,6 +16954,7 @@ cerotic
 cerotype
 cerotypes
 certainest
+certainly
 certainties
 certainty
 certes
@@ -17192,6 +17199,7 @@ champleve
 champs
 chams
 chance
+chanceful
 chancel
 chancelleries
 chancellor
@@ -20045,6 +20053,7 @@ codominants
 codon
 codpieces
 codrive
+codriven
 codrivers
 codrove
 cods
@@ -20579,6 +20588,7 @@ colocated
 colocating
 colocynths
 cologne
+cologned
 colognes
 colombard
 colon
@@ -21076,6 +21086,7 @@ comparison
 compart
 comparting
 compartment
+compartmental
 compartmented
 compartmenting
 comparts
@@ -21329,6 +21340,7 @@ computerizes
 computerless
 computerlike
 computernik
+computerniks
 computerphobe
 computerphobes
 computerphobia
@@ -32837,6 +32849,7 @@ duct
 ductal
 ducted
 ductilities
+ductility
 ducting
 ductless
 ducts
@@ -34498,6 +34511,7 @@ embordered
 embosk
 embosked
 embosking
+embosks
 embosom
 embosomed
 embosoming
@@ -37633,6 +37647,7 @@ exhibitors
 exhibitory
 exhibits
 exhilarate
+exhilarated
 exhilarates
 exhilarating
 exhilaratingly
@@ -37903,6 +37918,7 @@ explained
 explaining
 explains
 explanation
+explanations
 explanative
 explanatively
 explanatorily
@@ -49296,6 +49312,7 @@ hematoxylin
 hematoxylins
 hematozoa
 hematozoon
+hematurias
 hematuric
 heme
 hemelytra
@@ -51199,6 +51216,7 @@ howled
 howler
 howlets
 howling
+howlingly
 howls
 hows
 howsoever
@@ -52511,6 +52529,7 @@ illiteracy
 illiterately
 illiterateness
 illites
+illitic
 illness
 illocutionary
 illogical
@@ -55351,6 +55370,7 @@ intercoms
 interconnected
 interconnecting
 interconvert
+interconverts
 intercooler
 intercoolers
 intercorporate
@@ -63449,6 +63469,7 @@ malines
 malinger
 malingered
 malingerer
+malingerers
 malingering
 malingers
 malison
@@ -71492,6 +71513,7 @@ nonalcoholic
 nonaligned
 nonalignment
 nonalignments
+nonallelic
 nonallergenic
 nonallergic
 nonalphabetic
@@ -71592,6 +71614,7 @@ noncellulosic
 noncentral
 noncereal
 noncertificated
+nonces
 nonchalance
 nonchalances
 nonchalant
@@ -72156,6 +72179,7 @@ nonpagans
 nonpaid
 nonpapal
 nonpapist
+nonparallel
 nonpareil
 nonpareils
 nonparent
@@ -77424,6 +77448,7 @@ pageboy
 pageboys
 paged
 pageful
+pagefuls
 pager
 pagers
 pages
@@ -83687,6 +83712,7 @@ postholiday
 posthumous
 posthumously
 posthypnotic
+postiche
 postiches
 postie
 postilion
@@ -85421,6 +85447,7 @@ priapisms
 priapus
 priapuses
 price
+priceable
 priced
 priceless
 pricelessly
@@ -91811,6 +91838,7 @@ relucted
 relucts
 relume
 relumed
+relumes
 relumine
 relumined
 reluming
@@ -100854,6 +100882,7 @@ simulators
 simulcast
 simulcasting
 simulcasts
+simultaneities
 simultaneity
 simultaneous
 sin
@@ -103703,6 +103732,7 @@ specialty
 speciate
 speciated
 speciates
+speciating
 speciation
 speciational
 speciations
@@ -103870,6 +103900,7 @@ spermatid
 spermatium
 spermatocyte
 spermatogeneses
+spermatogenesis
 spermatogenic
 spermatogonia
 spermatogonial
@@ -107780,6 +107811,7 @@ sullage
 sullages
 sullen
 sullener
+sullenest
 sullenness
 sulliable
 sullied
@@ -118315,6 +118347,7 @@ unquestionable
 unquestionably
 unquestioned
 unquestioning
+unquestioningly
 unquiet
 unquieter
 unquietly
@@ -122639,6 +122672,7 @@ welcomer
 welcomers
 welcomes
 welcoming
+weld
 weldable
 welded
 welder
@@ -125294,6 +125328,7 @@ zymologic
 zymologies
 zymology
 zymolyses
+zymolytic
 zymosan
 zymoses
 zymosis
