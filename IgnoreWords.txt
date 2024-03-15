@@ -64,6 +64,7 @@ abruption
 abruptions
 abruptly
 abruptnesses
+abscess
 abscesses
 abscessing
 abscised
@@ -1908,6 +1909,7 @@ agrimony
 agrochemical
 agroforestries
 agroforestry
+agrology
 agronomic
 agronomist
 agronomy
@@ -8056,6 +8058,7 @@ banjaxing
 banjo
 banjoes
 banjoist
+banjos
 bank
 bankabilities
 bankability
@@ -12604,6 +12607,7 @@ brackens
 bracket
 bracketing
 brackets
+brackishness
 braconid
 braconids
 bract
@@ -14322,6 +14326,7 @@ butyrins
 butyrophenones
 butyryl
 buxomer
+buxomest
 buxomly
 buxomness
 buxomnesses
@@ -16254,6 +16259,7 @@ catalatic
 catalectics
 catalepsies
 catalepsy
+cataleptically
 cataleptics
 catalexis
 catalo
@@ -17354,6 +17360,7 @@ chapmen
 chappatis
 chapping
 chaps
+chapt
 chaptered
 chaptering
 chapters
@@ -17738,6 +17745,7 @@ chemosorbed
 chemosorbing
 chemosorbs
 chemosurgeries
+chemosurgery
 chemosurgical
 chemosyntheses
 chemosynthesis
@@ -19867,6 +19875,7 @@ cobia
 cobias
 coble
 cobles
+cobnuts
 cobra
 cobras
 cobweb
@@ -38359,6 +38368,7 @@ extravagated
 extravasate
 extravasates
 extravasation
+extravasations
 extravascular
 extravehicular
 extraversion
@@ -39305,6 +39315,7 @@ feastless
 feasts
 feat
 feater
+featest
 featherbed
 featherbedding
 featherbeddings
@@ -41461,6 +41472,7 @@ fluttered
 flutterer
 flutterers
 fluty
+fluvial
 fluxes
 fluxgate
 fluxgates
@@ -41658,6 +41670,7 @@ folksiest
 folksily
 folksiness
 folksinesses
+folksingers
 folksingings
 folksong
 folksongs
@@ -51393,6 +51406,7 @@ huck
 huckabacks
 huckle
 huckleberries
+huckles
 hucks
 huckster
 huckstering
@@ -51420,6 +51434,7 @@ hugeness
 hugenesses
 hugeous
 hugeously
+huger
 huggable
 hugged
 huggers
@@ -52020,6 +52035,7 @@ hypercorrect
 hypercorrection
 hypercritic
 hypercritical
+hypercritically
 hypercriticism
 hypercriticisms
 hypercritics
@@ -62682,6 +62698,7 @@ lucrativeness
 lucrativenesses
 lucre
 lucres
+lucubrate
 lucubrated
 lucubrating
 lucubrations
@@ -63149,6 +63166,7 @@ machzor
 machzorim
 machzors
 macing
+macintosh
 macintoshes
 mack
 mackerel
@@ -70269,6 +70287,7 @@ napoleon
 nappa
 napped
 napper
+nappers
 nappes
 nappie
 nappier
@@ -73724,6 +73743,7 @@ octaves
 octavo
 octennial
 octets
+octette
 octettes
 octillion
 octodecillions
@@ -77102,6 +77122,7 @@ overstrained
 overstraining
 overstrains
 overstress
+overstressed
 overstresses
 overstressing
 overstretch
@@ -81184,6 +81205,7 @@ phototoxicities
 phototoxicity
 phototropic
 phototropically
+phototropism
 phototube
 phototubes
 phototype
@@ -81366,6 +81388,7 @@ pianofortes
 pians
 pias
 piasaba
+piasabas
 piasava
 piasavas
 piassavas
@@ -84987,6 +85010,7 @@ prelects
 prelibation
 prelibations
 prelife
+prelim
 preliminarily
 preliminary
 prelimit
@@ -90784,6 +90808,7 @@ redoubt
 redoubtably
 redound
 redounded
+redounds
 redout
 redouts
 redpoll
@@ -91505,6 +91530,7 @@ reground
 regroup
 regrouping
 regroups
+regrow
 regrowing
 regrows
 regrowth
@@ -100694,6 +100720,7 @@ sialic
 sialid
 sialidan
 sialidans
+sialids
 sialoid
 siamang
 siamangs
@@ -102713,6 +102740,7 @@ snooze
 snoozed
 snoozers
 snoozes
+snoozier
 snooziest
 snoozing
 snoozled
@@ -103131,6 +103159,7 @@ solemnified
 solemnifies
 solemnities
 solemnity
+solemnizations
 solemnize
 solemnized
 solemnizes
@@ -106214,6 +106243,7 @@ stomate
 stomatic
 stomatitis
 stomatitises
+stomatopod
 stomatopods
 stomodaea
 stomodaeal
@@ -107197,6 +107227,7 @@ subdeacons
 subdealer
 subdealers
 subdean
+subdeans
 subdeb
 subdebs
 subdecision
@@ -110579,6 +110610,7 @@ taring
 tarlatan
 tarlatans
 tarletans
+tarmacadam
 tarmacadams
 tarmacked
 tarmacking
@@ -114217,6 +114249,7 @@ transact
 transacted
 transacting
 transactinide
+transaction
 transactional
 transactions
 transactor
@@ -122534,6 +122567,7 @@ wastefully
 wastefulness
 wastefulnesses
 wasteland
+wastelands
 wastelot
 wastelots
 wastepaper
@@ -122898,6 +122932,7 @@ webworms
 wecht
 wechts
 wed
+wedded
 wedder
 weddings
 wedel
