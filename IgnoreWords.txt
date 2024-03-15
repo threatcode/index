@@ -4584,6 +4584,7 @@ antonomasia
 antonomasias
 antonym
 antonymic
+antonymies
 antonyms
 antonymy
 antral
@@ -6197,6 +6198,7 @@ assurance
 assurances
 assure
 assuredly
+assuredness
 assurednesses
 assurer
 assurers
@@ -6413,6 +6415,7 @@ atomicities
 atomics
 atomises
 atomisms
+atomist
 atomistic
 atomistically
 atomists
@@ -10451,6 +10454,7 @@ binucleated
 bio
 bioacoustics
 bioactivities
+bioactivity
 bioassay
 bioassayed
 bioassaying
@@ -13046,6 +13050,7 @@ bridally
 bridals
 bride
 bridegrooms
+bridesmaids
 bridewells
 bridge
 bridged
@@ -16263,6 +16268,7 @@ catabolites
 catabolize
 catabolizes
 catabolizing
+catachreses
 catachresis
 catachrestic
 catachrestical
@@ -18796,6 +18802,7 @@ cinquefoil
 cions
 cioppino
 cipher
+cipherers
 ciphertext
 ciphonies
 ciphony
@@ -26430,6 +26437,7 @@ daredevils
 daredeviltries
 daredeviltry
 dareful
+darer
 darers
 dares
 daringness
@@ -28381,6 +28389,7 @@ depilatories
 depilators
 depilatory
 deplane
+deplaned
 deplanes
 deplaning
 depletable
@@ -38953,6 +38962,7 @@ fancifies
 fanciful
 fancifully
 fancifulness
+fancifulnesses
 fancify
 fancifying
 fanciless
@@ -40132,6 +40142,7 @@ fierinesses
 fiery
 fiesta
 fife
+fifed
 fifer
 fifers
 fifes
@@ -43653,6 +43664,7 @@ fuzee
 fuzees
 fuzils
 fuzz
+fuzzed
 fuzzes
 fuzzier
 fuzziest
@@ -45394,6 +45406,7 @@ glamorousness
 glamors
 glamour
 glamoured
+glamouring
 glamourized
 glamourizes
 glamourizing
@@ -45788,6 +45801,7 @@ glutamine
 glutaraldehydes
 glutathione
 glutathiones
+gluteal
 glutelin
 glutelins
 glutenin
@@ -53807,6 +53821,7 @@ incisive
 incisively
 incisivenesses
 incisor
+incisors
 incisory
 incisures
 incitable
@@ -56193,6 +56208,7 @@ intracompany
 intracranial
 intracranially
 intractably
+intracutaneous
 intraday
 intradermal
 intradermally
@@ -59756,6 +59772,7 @@ lambdas
 lambdoid
 lambencies
 lambent
+lambently
 lambers
 lambie
 lambiest
@@ -61541,6 +61558,7 @@ limped
 limper
 limpers
 limpet
+limpets
 limpid
 limpidities
 limpidity
@@ -64017,6 +64035,7 @@ manhunts
 mania
 maniac
 maniacal
+maniacally
 manias
 manic
 manically
@@ -69575,6 +69594,7 @@ multigerm
 multigrade
 multiheaded
 multihospital
+multihull
 multijet
 multilane
 multilanes
@@ -77929,6 +77949,7 @@ paleographical
 paleography
 paleoliths
 paleology
+paleomagnetic
 paleomagnetism
 paleomagnetisms
 paleomagnetists
@@ -84050,6 +84071,7 @@ postemergency
 postepileptic
 poster
 posterior
+posteriorities
 posteriors
 posterities
 posterity
@@ -88211,6 +88233,7 @@ quacking
 quackism
 quackisms
 quacks
+quacksalver
 quacksalvers
 quacky
 quad
@@ -90375,6 +90398,7 @@ recoding
 recognise
 recognised
 recognises
+recognising
 recognition
 recognitions
 recognizable
@@ -93363,6 +93387,7 @@ reshaping
 resharpen
 resharpening
 resharpens
+reshaved
 reshaven
 reshaves
 reshes
@@ -100985,6 +101010,7 @@ sidespin
 sidespins
 sidesplitting
 sidesplittingly
+sidestepped
 sidestepper
 sidestepping
 sidestroke
@@ -103091,6 +103117,7 @@ soccage
 soccages
 soccer
 sociability
+sociable
 sociableness
 sociablenesses
 sociably
@@ -103414,6 +103441,7 @@ solstices
 solstitial
 solubilising
 solubilities
+solubility
 solubilization
 solubilizations
 solubilized
@@ -104166,6 +104194,7 @@ spearfish
 spearfished
 spearfishes
 speargun
+spearguns
 spearhead
 spearheaded
 spearheading
@@ -104698,6 +104727,7 @@ splatted
 splatter
 splatters
 splatting
+splayed
 splayfeet
 splaying
 splays
@@ -112053,6 +112083,7 @@ thalassemia
 thalassemic
 thalassemics
 thalassic
+thalassocracies
 thalassocracy
 thalassocrat
 thalassocrats
@@ -114707,6 +114738,7 @@ trapuntos
 trashed
 trasher
 trashers
+trashiest
 trashiness
 trashinesses
 trashing
@@ -117306,6 +117338,7 @@ unco
 uncoalesced
 uncoalesces
 uncoating
+uncoatings
 uncobbled
 uncock
 uncocked
@@ -117938,6 +117971,7 @@ unendurable
 unendurableness
 unendurably
 unenforceable
+unenforced
 unenjoyed
 unenlarged
 unenlightened
@@ -125085,6 +125119,7 @@ yachtsmen
 yack
 yacking
 yacks
+yaff
 yaffed
 yaffs
 yag
