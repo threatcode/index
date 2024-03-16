@@ -5,3 +5,6 @@ Remote,http://37.235.48.144:5984/database.sql
 AppServ Open Project,http://139.59.45.243:8181/login/inc/cmses/components/com_forum/52869..sql
 catalog,http://31.220.45.118:8080/login_admin/exchange/main.php/database.sql
 eXist Database Administration,http://31.220.45.118:8080/login-us/exchange/tools/browser.inc/1.sql
+efront-lms/community/www/install/sample_data.sql at master - GitHub,https://github.com/svn2github/efront-lms/blob/master/community/www/install/sample_data.sql
+live view,http://151.236.18.54:85/login/wp-mail.php/data.sql
+Gateway Configuration Menu,http://54.37.17.101:83/login-redirect/5984..sql
