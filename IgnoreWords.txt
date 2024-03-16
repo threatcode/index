@@ -809,6 +809,7 @@ actors
 actress
 actressy
 acts
+actualities
 actuality
 actualization
 actualizations
@@ -3686,6 +3687,7 @@ angles
 anglesite
 angleworm
 angleworms
+anglice
 anglicise
 anglicised
 anglicising
@@ -5312,6 +5314,7 @@ arbutus
 arc
 arcades
 arcadian
+arcadias
 arcading
 arcadings
 arcane
@@ -6291,6 +6294,7 @@ astrachans
 astraddle
 astragali
 astragals
+astrakhan
 astrakhans
 astral
 astrally
@@ -12640,6 +12644,7 @@ boxiness
 boxinesses
 boxing
 boxings
+boxlike
 boxthorn
 boxthorns
 boxwood
@@ -14962,6 +14967,7 @@ callouses
 callousing
 callously
 callousness
+callower
 callowness
 callownesses
 calls
@@ -17044,6 +17050,7 @@ centupled
 centuples
 centurial
 centuries
+centurion
 centurions
 century
 ceorl
@@ -22843,6 +22850,7 @@ convention
 conventional
 conventionalism
 conventionality
+conventionalize
 conventioneer
 conventioneers
 conventions
@@ -28135,6 +28143,7 @@ demanding
 demandingness
 demandingnesses
 demantoids
+demarcate
 demarcating
 demarcations
 demarches
@@ -31372,6 +31381,7 @@ dissatisfactory
 dissatisfied
 dissatisfies
 dissatisfy
+dissatisfying
 dissaves
 dissaving
 disseat
@@ -32845,6 +32855,7 @@ dreamy
 drear
 drearier
 drearies
+drearily
 dreariness
 drearinesses
 drears
@@ -38128,6 +38139,7 @@ exited
 exiting
 exitless
 exits
+exobiological
 exobiologies
 exobiologist
 exobiologists
@@ -44042,6 +44054,7 @@ gadid
 gadids
 gadis
 gadjo
+gadoid
 gadoids
 gadolinium
 gadroon
@@ -44461,6 +44474,7 @@ garble
 garbled
 garbler
 garblers
+garbles
 garbless
 garbling
 garboards
@@ -47990,6 +48004,7 @@ gunrunner
 gunrunners
 guns
 gunsel
+gunship
 gunships
 gunshot
 gunshots
@@ -52302,6 +52317,7 @@ hydromagnetic
 hydromancies
 hydromancy
 hydromechanical
+hydromechanics
 hydromedusa
 hydromedusae
 hydromel
@@ -55308,6 +55324,7 @@ inhospitable
 inhospitality
 inhuman
 inhumane
+inhumanely
 inhumanities
 inhumanity
 inhumanly
@@ -57957,6 +57974,7 @@ jess
 jessant
 jesse
 jessed
+jesses
 jessing
 jest
 jester
@@ -62493,6 +62511,7 @@ loaminess
 loaming
 loamless
 loamy
+loan
 loanable
 loaned
 loaner
@@ -63772,6 +63791,7 @@ macroglobulin
 macroglobulins
 macromeres
 macromole
+macromolecular
 macromolecule
 macromolecules
 macromoles
@@ -67596,6 +67616,7 @@ misally
 misallying
 misalter
 misaltering
+misalters
 misanalysis
 misandries
 misandry
@@ -70728,6 +70749,7 @@ mythologer
 mythological
 mythologies
 mythologist
+mythologists
 mythologize
 mythologized
 mythologizer
@@ -71968,6 +71990,7 @@ nigglingly
 nigglings
 niggly
 nigh
+nighed
 nigher
 nighing
 nighness
@@ -78583,6 +78606,7 @@ pally
 palm
 palmar
 palmate
+palmated
 palmately
 palmation
 palmed
@@ -78609,6 +78633,7 @@ palominos
 palooka
 palookas
 paloverde
+palpabilities
 palpability
 palpably
 palpal
@@ -80233,6 +80258,7 @@ peepshows
 peepul
 peepuls
 peer
+peerage
 peered
 peeress
 peeresses
@@ -82153,6 +82179,7 @@ piciform
 pick
 pickabacked
 pickabacks
+pickadils
 pickaninnies
 pickaroon
 pickaroons
@@ -89982,6 +90009,7 @@ rapacious
 rapaciously
 rapaciousness
 rapaciousnesses
+rapacities
 rapacity
 raped
 raper
@@ -91244,6 +91272,7 @@ recordists
 records
 recork
 recorked
+recorking
 recorks
 recountals
 recounter
@@ -94322,6 +94351,7 @@ resprayed
 respraying
 resprays
 respread
+respreads
 respring
 resprings
 resprout
@@ -95564,6 +95594,7 @@ rifts
 rig
 rigadoons
 rigamarole
+rigatoni
 rigatonis
 rigaudon
 rigged
@@ -97731,6 +97762,7 @@ sarcology
 sarcoma
 sarcomas
 sarcomata
+sarcomatosis
 sarcomatous
 sarcomere
 sarcomeres
@@ -98187,6 +98219,7 @@ scannable
 scanners
 scanning
 scannings
+scansion
 scansions
 scant
 scanted
@@ -108379,6 +108412,7 @@ sublimits
 sublimity
 subline
 sublingual
+subliteracies
 subliteracy
 subliterary
 subliterate
@@ -121440,6 +121474,7 @@ variegated
 variegation
 variegations
 variegator
+variegators
 varier
 varies
 varietal
