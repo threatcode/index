@@ -389,6 +389,7 @@ accordances
 accordantly
 accorder
 accorders
+accordion
 accordionist
 accordionists
 accords
@@ -1973,6 +1974,7 @@ aimful
 aimfully
 aimless
 aimlessnesses
+ain
 ains
 ainsells
 aiolis
@@ -6660,6 +6662,7 @@ audiobooks
 audiocassette
 audiocassettes
 audiogenic
+audiogram
 audiograms
 audiologic
 audiologist
@@ -15962,6 +15965,7 @@ carnivores
 carnivories
 carnivorous
 carnivorously
+carnivorousness
 carnivory
 carnosaur
 carnosaurs
@@ -21581,6 +21585,7 @@ concentrations
 concentrative
 concentrator
 concentrators
+concentric
 concentrically
 concentricity
 concents
@@ -31370,6 +31375,7 @@ dissociates
 dissociating
 dissociations
 dissociative
+dissoluble
 dissolute
 dissoluteness
 dissolutenesses
@@ -33072,6 +33078,7 @@ dubbin
 dubieties
 dubiety
 dubiosities
+dubious
 dubiously
 dubiousness
 dubiousnesses
@@ -33815,6 +33822,7 @@ echoed
 echoer
 echoes
 echoey
+echoic
 echoing
 echoisms
 echolalia
@@ -38357,6 +38365,7 @@ exscinding
 exscinds
 exsecant
 exsect
+exsecting
 exsections
 exsects
 exserted
@@ -39490,6 +39499,7 @@ fearer
 fearful
 fearfuller
 fearfullest
+fearfully
 fearfulness
 fearfulnesses
 fearing
@@ -40089,6 +40099,7 @@ fezzes
 fezzy
 fiacres
 fiance
+fiancee
 fiances
 fianchetto
 fianchettoed
@@ -40234,6 +40245,7 @@ fidging
 fido
 fidos
 fids
+fiducial
 fiducially
 fiduciaries
 fiduciary
@@ -42242,6 +42254,7 @@ forepart
 foreparts
 forepassed
 forepast
+forepaw
 foreplay
 foreplays
 forequarters
@@ -52273,6 +52286,7 @@ hyperarid
 hyperarousal
 hyperarousals
 hyperawareness
+hyperbaric
 hyperbola
 hyperbolas
 hyperboles
@@ -58461,6 +58475,7 @@ kalifates
 kalifs
 kalimba
 kalimbas
+kaliphate
 kaliphates
 kaliphs
 kalium
@@ -59862,6 +59877,7 @@ ladyfishes
 ladyhoods
 ladyish
 ladykin
+ladylike
 ladylove
 ladypalms
 ladyship
@@ -70066,6 +70082,7 @@ murmurers
 murmuring
 murmurous
 murmurously
+murmurs
 murphy
 murr
 murra
@@ -71222,6 +71239,7 @@ neoplasty
 neoprene
 neoprenes
 neorealism
+neorealisms
 neorealist
 neorealistic
 neostigmine
@@ -71784,6 +71802,7 @@ nimblest
 nimbly
 nimbostrati
 nimbostratus
+nimbused
 nimbyness
 nimieties
 nimmed
@@ -73708,6 +73727,7 @@ oasts
 oat
 oatcake
 oatcakes
+oaten
 oater
 oath
 oaths
@@ -74850,6 +74870,7 @@ opportunists
 opportunities
 opposabilities
 opposable
+oppose
 opposeless
 opposer
 opposes
@@ -77941,6 +77962,7 @@ pachysandras
 pachytene
 pachytenes
 pacier
+paciest
 pacifiable
 pacific
 pacifical
@@ -81825,6 +81847,7 @@ pibrochs
 pic
 pica
 picachos
+picadillo
 picadillos
 picador
 picadores
@@ -83708,6 +83731,7 @@ polyandry
 polyantha
 polyanthas
 polyanthi
+polyanthus
 polybasic
 polybrid
 polybrids
@@ -84717,6 +84741,7 @@ practicalities
 practicality
 practically
 practicalness
+practicalnesses
 practicals
 practicer
 practicers
@@ -88871,6 +88896,7 @@ quickies
 quicklime
 quicklimes
 quickly
+quicknesses
 quicks
 quicksand
 quicksands
@@ -93729,6 +93755,7 @@ reshower
 reshowered
 reshowering
 reshowing
+reshows
 reshuffle
 reshuffles
 reshuffling
@@ -94045,6 +94072,7 @@ restokes
 restoral
 restorals
 restorations
+restorative
 restoratives
 restored
 restorers
@@ -95725,6 +95753,7 @@ romanticising
 romanticist
 romanticists
 romanticized
+romanticizes
 romanticizing
 romaunt
 romaunts
@@ -95966,6 +95995,7 @@ rotundities
 rotundity
 rotundly
 rotundness
+roturier
 roturiers
 rouble
 roubles
@@ -99495,6 +99525,7 @@ semiquavers
 semireligious
 semiretired
 semiretirement
+semirigid
 semiround
 semirounds
 semirural
@@ -104992,6 +105023,7 @@ spireas
 spired
 spirem
 spireme
+spiremes
 spirems
 spires
 spirier
@@ -109649,6 +109681,7 @@ suspects
 suspend
 suspender
 suspenders
+suspending
 suspends
 suspense
 suspensefulness
@@ -112813,6 +112846,7 @@ thimblerigs
 thimblesful
 thimbleweed
 thimerosal
+thimerosals
 thin
 thinclad
 thinclads
@@ -119328,6 +119362,7 @@ unquote
 unquotes
 unquoting
 unraised
+unranked
 unravel
 unraveling
 unravelled
