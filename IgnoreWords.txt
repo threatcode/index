@@ -1698,6 +1698,7 @@ ageless
 agelessness
 agelong
 agemate
+agemates
 agencies
 agency
 agendaless
@@ -8473,6 +8474,7 @@ baseboards
 baseborn
 based
 baseless
+baseline
 baseliner
 baseliners
 baselines
@@ -10284,6 +10286,7 @@ bignonias
 bigoses
 bigot
 bigoted
+bigots
 bigs
 bigstick
 bigtime
@@ -18665,6 +18668,7 @@ chugger
 chuggers
 chugging
 chugs
+chukar
 chukka
 chukkar
 chukkas
@@ -20203,6 +20207,7 @@ codirectors
 codirects
 codiscover
 codiscovered
+codiscoverer
 codiscoverers
 codiscovering
 codiscovers
@@ -20854,6 +20859,7 @@ coltishness
 coltishnesses
 colts
 coltsfoot
+coltsfoots
 colubrid
 colugo
 colugos
@@ -26019,6 +26025,7 @@ cyclopedias
 cyclopedic
 cyclopes
 cyclopropane
+cyclopropanes
 cyclops
 cyclorama
 cycloramas
@@ -30646,6 +30653,7 @@ disconsolation
 disconsolations
 discontent
 discontentedly
+discontenting
 discontentment
 discontinuances
 discontinuation
@@ -34362,6 +34370,7 @@ electability
 electable
 elected
 electee
+electees
 election
 electioneer
 electioneered
@@ -37400,6 +37409,7 @@ euthanize
 euthanizing
 euthenics
 euthenist
+euthenists
 eutherian
 eutherians
 euthyroid
@@ -42794,6 +42804,7 @@ franchisees
 franchiser
 franchisers
 franchises
+franchising
 franchisor
 franchisors
 francium
@@ -43176,6 +43187,7 @@ frizz
 frizzed
 frizzer
 frizzers
+frizzes
 frizzier
 frizzies
 frizziest
@@ -45423,6 +45435,7 @@ gips
 gipsied
 gipsies
 gipsy
+gipsying
 giraffe
 giraffes
 girandola
@@ -58577,6 +58590,7 @@ karyotyped
 karyotypic
 karyotypically
 kasbah
+kasbahs
 kashas
 kasher
 kashered
@@ -59631,6 +59645,7 @@ kurtosis
 kuru
 kurus
 kusso
+kussos
 kuvasz
 kvases
 kvasses
@@ -63018,6 +63033,7 @@ lucerns
 luces
 lucid
 lucidities
+lucidity
 lucidly
 lucidnesses
 lucifer
@@ -70400,6 +70416,7 @@ myomata
 myomatous
 myopathies
 myopathy
+myopes
 myopias
 myopic
 myopically
@@ -71399,6 +71416,7 @@ neurines
 neuritics
 neuritises
 neuroactive
+neuroanatomic
 neuroanatomical
 neuroanatomy
 neurobiologies
@@ -72629,6 +72647,7 @@ nonintervention
 nonintimidating
 nonintoxicant
 nonintoxicants
+nonintoxicating
 nonintrusive
 noninvasive
 noninvolved
@@ -76919,6 +76938,7 @@ overencouraging
 overenergetic
 overengineer
 overengineering
+overengineers
 overenrolled
 overentertained
 overenthusiasm
@@ -83001,6 +83021,7 @@ playmate
 playmates
 playoffs
 playpens
+playroom
 plays
 playsuit
 plaything
@@ -88789,6 +88810,7 @@ quaverer
 quaverers
 quavering
 quaveringly
+quavers
 quay
 quayage
 quaylike
@@ -90694,6 +90716,7 @@ reclassified
 reclassify
 reclassifying
 reclean
+recleaned
 recleaning
 recleans
 reclinate
@@ -90912,6 +90935,7 @@ reconveyances
 reconveying
 reconveys
 reconvict
+reconvicted
 reconvicts
 reconvince
 reconvinced
@@ -91490,6 +91514,7 @@ reenactment
 reenactments
 reenactors
 reencounter
+reencountered
 reencounters
 reendowed
 reendows
@@ -96500,6 +96525,7 @@ rustiness
 rusting
 rustle
 rustled
+rustler
 rustlers
 rustles
 rustless
@@ -99882,6 +99908,7 @@ serialisms
 serialist
 serialize
 serialized
+serializes
 serializing
 serially
 seriate
@@ -101718,6 +101745,7 @@ simplism
 simplist
 simplistic
 simplistically
+simplists
 simply
 simps
 simulacra
@@ -101983,6 +102011,7 @@ skanked
 skanker
 skankers
 skankiest
+skanking
 skanks
 skanky
 skas
@@ -105507,6 +105536,7 @@ spunks
 spunky
 spur
 spurgall
+spurgalling
 spurgalls
 spurge
 spuriously
@@ -112144,6 +112174,7 @@ teratoid
 teratologist
 teratologists
 teratology
+teratoma
 terawatt
 terbia
 terbias
@@ -119598,6 +119629,7 @@ unserious
 unseriousness
 unseriousnesses
 unserved
+unset
 unsetting
 unsettle
 unsettled
@@ -120955,6 +120987,7 @@ vanitied
 vanities
 vanitories
 vanitory
+vanity
 vanloads
 vanman
 vanned
@@ -121067,6 +121100,7 @@ varnishers
 varnishes
 varnishing
 varoom
+varoomed
 varooming
 varooms
 vars
@@ -124993,6 +125027,7 @@ woodcuts
 woodcutter
 woodcutters
 woodcutting
+woodcuttings
 wooded
 wooden
 woodener
