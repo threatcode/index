@@ -4,3 +4,6 @@ CheckCommServerUpgradeAss...,https://edc.commvault.com/downloads/SQLScripts/Upgr
 usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql ...,https://gemfury.com/agriconnect/deb:timescaledb-1.7.2-postgresql-9.6/-/content/usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql
 hr_test_110622.sql - OpenMRS Wiki,https://wiki.openmrs.org/download/attachments/15139153/hr_test_110622.sql
 勇往直前KJ/software - Gitee,https://gitee.com/YongKJ/software/blob/master/software.sql
+scottrapponotti3/Train-System-SQL-Queries · GitHub,https://github.com/scottrapponotti3/Train-System-SQL-Queries/blob/master/SQL%2520Queries.sql
+histogram.sql - timescale/timescaledb - GitHub,https://github.com/timescale/timescaledb/blob/master/sql/histogram.sql
+usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql ...,https://gemfury.com/agriconnect/deb:timescaledb-1.7.2-postgresql-9.6/-/content/usr/share/postgresql/9.6/extension/timescaledb--0.3.0--1.7.2.sql
