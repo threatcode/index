@@ -1540,6 +1540,7 @@ affixal
 affixation
 affixed
 affixer
+affixes
 affixial
 affixing
 affixment
@@ -4193,6 +4194,7 @@ anticlimactical
 anticlinal
 anticlines
 anticlockwise
+anticly
 anticoagulants
 anticodon
 anticold
@@ -6323,6 +6325,7 @@ astronauts
 astronomers
 astronomic
 astronomical
+astronomically
 astronomies
 astrophotograph
 astrophysical
@@ -7170,6 +7173,7 @@ avitaminoses
 avo
 avocado
 avocadoes
+avocation
 avocational
 avocations
 avocet
@@ -9361,6 +9365,7 @@ beholding
 beholds
 behoof
 behoove
+behooved
 behooves
 behooving
 behove
@@ -17789,6 +17794,7 @@ cheeped
 cheepers
 cheeping
 cheeps
+cheer
 cheered
 cheerer
 cheerers
@@ -23730,6 +23736,7 @@ coteau
 coted
 cotenancies
 cotenant
+coterie
 coteries
 coterminous
 coterminously
@@ -24731,6 +24738,7 @@ creole
 creoles
 creolise
 creolised
+creolises
 creolizations
 creolize
 creolized
@@ -29476,6 +29484,7 @@ dexamethasones
 dexie
 dexies
 dexter
+dexterities
 dexterity
 dexterous
 dexterousnesses
@@ -31628,6 +31637,7 @@ disvalues
 disvaluing
 disyllable
 disyllables
+disyoke
 disyoked
 disyokes
 disyoking
@@ -31688,6 +31698,7 @@ divans
 divaricate
 divaricated
 divaricating
+divarication
 divarications
 dive
 divebomb
@@ -37978,6 +37989,7 @@ executing
 execution
 executioner
 executive
+executor
 executorial
 executors
 executrix
@@ -38323,6 +38335,7 @@ expertize
 expertizing
 expertly
 expertness
+expertnesses
 experts
 expiable
 expiate
@@ -42966,6 +42979,7 @@ frantically
 franticly
 franticness
 frappe
+frapped
 frapping
 fraps
 frass
@@ -48926,6 +48940,7 @@ harbormasters
 harborous
 harborside
 harbouring
+harbours
 hardass
 hardasses
 hardback
@@ -49604,6 +49619,7 @@ hectograph
 hectographing
 hectographs
 hectometer
+hectored
 hectoring
 hectors
 heddle
@@ -54586,6 +54602,7 @@ indictors
 indicts
 indie
 indies
+indifferences
 indifferencies
 indifferency
 indifferent
@@ -55121,6 +55138,7 @@ infra
 infract
 infraction
 infractions
+infractor
 infractors
 infracts
 infrahuman
@@ -55945,6 +55963,7 @@ intentionally
 intentions
 intently
 intentnesses
+inter
 interabang
 interabangs
 interactant
@@ -61282,6 +61301,7 @@ lenient
 lenis
 lenites
 lenities
+leniting
 lenition
 lenitive
 lenitively
@@ -62080,6 +62100,7 @@ lingulae
 lingular
 lingy
 linier
+liniments
 lining
 linings
 linins
@@ -62524,6 +62545,7 @@ lobelias
 lobeline
 lobelines
 lobes
+loblolly
 lobo
 lobotomies
 lobotomise
@@ -69369,6 +69391,7 @@ morelle
 morelles
 morellos
 morels
+moreness
 morenesses
 moreover
 mores
@@ -77495,6 +77518,7 @@ overoperate
 overoperated
 overoperates
 overopinionated
+overoptimism
 overoptimisms
 overoptimistic
 overoptimists
@@ -81809,6 +81833,7 @@ photoionize
 photoionized
 photojournalist
 photokinetic
+photolithograph
 photolyses
 photolysis
 photolytically
@@ -83493,6 +83518,7 @@ pluggers
 plugging
 plugless
 plugolas
+plugs
 pluguglies
 plugugly
 plum
@@ -85898,6 +85924,7 @@ preparations
 preparatively
 preparator
 preparators
+preparatory
 prepare
 preparedly
 preparedness
@@ -92960,6 +92987,7 @@ rematerialized
 rematerializes
 rematerializing
 remating
+remeasure
 remeasured
 remeasurement
 remeasurements
@@ -93708,6 +93736,7 @@ republicanism
 republicanisms
 republicanize
 republicanized
+republicanizes
 republicanizing
 republicans
 republication
@@ -98275,6 +98304,7 @@ scattiest
 scatts
 scatty
 scaup
+scauper
 scaupers
 scaups
 scaur
@@ -100159,6 +100189,7 @@ serener
 serenes
 serenities
 serenity
+serer
 seres
 serest
 serf
@@ -105976,6 +106007,7 @@ squeg
 squegged
 squegging
 squegs
+squelch
 squelched
 squelches
 squelchier
@@ -110177,6 +110209,7 @@ swarmers
 swarming
 swarms
 swarth
+swarthier
 swarthiest
 swarthily
 swarthiness
@@ -113011,6 +113044,7 @@ theory
 theosophically
 theosophies
 theosophist
+theosophists
 theosophy
 therapeuses
 therapeusis
@@ -115379,6 +115413,7 @@ transmittal
 transmittals
 transmittance
 transmittances
+transmitted
 transmitter
 transmitters
 transmitting
