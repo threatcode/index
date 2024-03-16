@@ -882,6 +882,7 @@ adaptiveness
 adaptivenesses
 adaptivities
 adaptivity
+adaxial
 add
 addable
 addaxes
@@ -10346,6 +10347,7 @@ bilker
 bilkers
 bilking
 bill
+billable
 billabong
 billabongs
 billboard
@@ -14553,6 +14555,7 @@ cachou
 cachuchas
 cacique
 caciquisms
+cackle
 cacklers
 cackles
 cackling
@@ -15591,6 +15594,7 @@ caput
 capybara
 car
 carabao
+carabaos
 carabid
 carabin
 carabine
@@ -16198,6 +16202,7 @@ cashmere
 cashmeres
 cashoo
 cashoos
+cashpoint
 cashpoints
 casimeres
 casimire
@@ -20762,6 +20767,7 @@ colonnades
 colonus
 colophonies
 color
+colorable
 colorado
 colorant
 coloration
@@ -25313,6 +25319,7 @@ cubiti
 cubits
 cubitus
 cuboid
+cuboidal
 cuboids
 cubs
 cuckolded
@@ -25708,6 +25715,7 @@ curtesies
 curtest
 curtesy
 curtilages
+curtly
 curtness
 curtsey
 curtseying
@@ -27464,6 +27472,7 @@ defecates
 defecation
 defecations
 defecator
+defect
 defected
 defecting
 defection
@@ -28275,6 +28284,7 @@ denitrating
 denitrification
 denitrified
 denitrifier
+denitrifiers
 denitrifies
 denitrify
 denizened
@@ -29140,6 +29150,7 @@ detractors
 detrainment
 detrainments
 detrains
+detribalization
 detribalize
 detribalizes
 detrimental
@@ -31356,6 +31367,7 @@ dissuaders
 dissuading
 dissuasions
 dissuasive
+dissuasively
 dissuasiveness
 dissyllable
 dissyllables
@@ -37053,6 +37065,7 @@ ethereality
 etherealization
 etherealize
 etherealized
+etherealizing
 ethereally
 etherealness
 etherealnesses
@@ -41539,6 +41552,7 @@ fluking
 flume
 flumed
 fluming
+flummeries
 flummery
 flummox
 flummoxes
@@ -55350,6 +55364,7 @@ insetting
 insheathes
 insheathing
 insheaths
+inshore
 inshrined
 inside
 insider
@@ -58353,6 +58368,7 @@ kaes
 kaf
 kaffeeklatsch
 kaffir
+kaffiyah
 kaffiyahs
 kaffiyehs
 kafirs
@@ -58384,6 +58400,7 @@ kakiemons
 kakis
 kalamatas
 kalams
+kalanchoe
 kaleidoscope
 kaleidoscopic
 kalends
@@ -60746,6 +60763,7 @@ leavers
 leaves
 leavier
 leaviest
+leaving
 leavings
 leavy
 leben
@@ -65777,6 +65795,7 @@ mercurations
 mercurial
 mercurially
 mercurialnesses
+mercurials
 mercuric
 mercuries
 mercurous
@@ -68169,6 +68188,7 @@ mixup
 mixups
 mizen
 mizenmast
+mizenmasts
 mizens
 mizunas
 mizzen
@@ -72886,6 +72906,7 @@ nonspeculative
 nonspeech
 nonsporting
 nonstandard
+nonstaple
 nonstaples
 nonstarter
 nonstationary
@@ -76672,6 +76693,7 @@ overconsumption
 overcontrol
 overcontrolling
 overcontrols
+overcook
 overcooking
 overcooks
 overcool
@@ -78035,6 +78057,7 @@ painless
 painlessness
 painlessnesses
 pains
+painstaking
 painstakings
 paint
 paintable
@@ -79226,6 +79249,7 @@ pasteurise
 pasteurised
 pasteurises
 pasteurising
+pasteurizations
 pasteurize
 pasteurized
 pasteurizer
@@ -81384,6 +81408,7 @@ photochemist
 photochromic
 photochromism
 photochromisms
+photocomposed
 photocomposer
 photocomposes
 photocomposing
@@ -89313,6 +89338,7 @@ railroadings
 rails
 railway
 raiment
+raiments
 rain
 rainband
 rainbands
@@ -97086,6 +97112,7 @@ sanguinary
 sanguine
 sanguinely
 sanguineous
+sanguines
 sanguinity
 sanicle
 sanicles
@@ -98165,6 +98192,7 @@ scolloped
 scolloping
 scollops
 scolopendra
+scombrid
 scombroids
 sconcheon
 sconcheons
@@ -104900,6 +104928,7 @@ spiritualist
 spiritualistic
 spiritualities
 spiritualize
+spiritualizing
 spiritually
 spiritualness
 spiritualnesses
@@ -111222,6 +111251,7 @@ tautologies
 tautologous
 tautomer
 tautomeric
+tautomerism
 tautomerisms
 tautomers
 tautonymies
@@ -121660,6 +121690,7 @@ victimises
 victimising
 victimized
 victimizers
+victimizing
 victimologist
 victimologists
 victimology
@@ -121999,6 +122030,7 @@ viscosity
 viscount
 viscountcy
 viscountess
+viscous
 viscously
 viscousness
 viscousnesses
@@ -123021,6 +123053,7 @@ washwomen
 washy
 wasp
 waspier
+waspiest
 waspiness
 waspinesses
 waspishly
@@ -125195,6 +125228,7 @@ wrist
 wristband
 wristbands
 wristiest
+wristlock
 wrists
 wristwatch
 wristwatches
@@ -125681,6 +125715,7 @@ yoghurt
 yoghurts
 yogi
 yogic
+yogin
 yoginis
 yogins
 yogis
