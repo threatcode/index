@@ -265,6 +265,7 @@ acauline
 acaulose
 acaulous
 accede
+accedences
 acceding
 accelerando
 accelerate
@@ -1882,6 +1883,7 @@ agoutis
 agouty
 agraffe
 agraffes
+agranulocyte
 agranulocytes
 agranulocytosis
 agrapha
@@ -2646,6 +2648,7 @@ alluvia
 alluvial
 alluvion
 alluviums
+ally
 allying
 allyl
 allyls
@@ -12891,6 +12894,7 @@ brattle
 brattled
 brattles
 brattling
+bratty
 bratwurst
 bratwursts
 braunites
@@ -15346,6 +15350,7 @@ cannonaded
 cannonading
 cannonballing
 cannonballs
+cannoned
 cannoneer
 cannoneers
 cannoning
@@ -17609,6 +17614,7 @@ charpai
 charpais
 charpoys
 charqui
+charquid
 charquis
 charr
 charred
@@ -22124,6 +22130,7 @@ conglomerative
 conglutinate
 conglutinates
 conglutinating
+conglutination
 conglutinations
 congo
 congoes
@@ -27363,6 +27370,7 @@ decomposable
 decompose
 decomposes
 decomposing
+decomposition
 decompositions
 decompound
 decompress
@@ -28919,6 +28927,7 @@ desert
 deserted
 deserter
 deserters
+desertic
 desertification
 desertifies
 desertify
@@ -32893,6 +32902,7 @@ drenchers
 drenches
 drenching
 dressage
+dressed
 dressers
 dresses
 dressier
@@ -33888,6 +33898,7 @@ ebook
 ebooks
 ebullience
 ebulliences
+ebulliencies
 ebulliency
 ebullition
 ebullitions
@@ -34318,6 +34329,7 @@ eglantines
 eglatere
 eglateres
 eglomise
+egocentric
 egocentrically
 egocentricities
 egocentricity
@@ -38878,6 +38890,7 @@ eyras
 eyrie
 eyries
 eyry
+fa
 fabaceous
 fabber
 fable
@@ -39880,6 +39893,7 @@ fellowly
 fellowman
 fellows
 fellowship
+fellowshiped
 fellowshipped
 fellowshipping
 fellowships
@@ -42546,6 +42560,7 @@ forgeability
 forger
 forgeries
 forgers
+forgery
 forget
 forgetful
 forgetfully
@@ -45183,6 +45198,7 @@ geomorphic
 geomorphologies
 geomorphologist
 geomorphology
+geophagias
 geophagies
 geophagy
 geophones
@@ -54428,6 +54444,7 @@ incriminating
 incrimination
 incriminations
 incriminatory
+incross
 incrossed
 incrosses
 incrossing
@@ -54851,6 +54868,7 @@ inebrieties
 inebriety
 inedible
 inedibly
+ineducable
 ineffability
 ineffablenesses
 ineffaceability
@@ -58705,6 +58723,7 @@ kalewives
 kaleyard
 kaleyards
 kalians
+kalif
 kalifates
 kalifs
 kalimba
@@ -66808,6 +66827,7 @@ microfilming
 microfilms
 microflora
 microflorae
+microfloral
 microfloras
 microform
 microforms
@@ -83338,6 +83358,7 @@ playwear
 playwright
 playwrighting
 playwrights
+playwriting
 playwritings
 plaza
 plazas
@@ -89851,6 +89872,7 @@ rakehell
 rakehelly
 rakeoffs
 raker
+rakers
 rakes
 rakish
 rakishnesses
@@ -96242,6 +96264,7 @@ roperies
 ropery
 ropes
 ropewalk
+ropewalker
 ropewalkers
 ropeways
 ropier
@@ -97970,6 +97993,7 @@ sauceboxes
 saucepans
 saucepot
 saucepots
+sauces
 sauch
 sauchs
 saucier
@@ -109545,6 +109569,7 @@ superheated
 superheater
 superheating
 superheats
+superheavies
 superhelices
 superhelix
 superhelixes
@@ -110340,6 +110365,7 @@ swede
 swedes
 sweeney
 sweeneys
+sweenies
 sweep
 sweepbacks
 sweepers
@@ -110426,6 +110452,7 @@ swims
 swimsuit
 swimsuits
 swimwear
+swindle
 swindled
 swindler
 swindlers
@@ -117151,6 +117178,7 @@ tuyere
 tuyeres
 tuyers
 twa
+twaddle
 twaddler
 twaddlers
 twaddles
@@ -117617,6 +117645,7 @@ ultrararefied
 ultrarational
 ultrarealism
 ultrarealistic
+ultrared
 ultrarefined
 ultrarich
 ultraright
@@ -117710,6 +117739,7 @@ umlauted
 umlauting
 umlauts
 umm
+ump
 umping
 umpirages
 umpire
@@ -119133,6 +119163,7 @@ unhairers
 unhairing
 unhairs
 unhallow
+unhallowed
 unhallowing
 unhallows
 unhalved
@@ -122173,6 +122204,7 @@ vet
 vetch
 vetches
 vetchling
+veteran
 veterans
 veterinarian
 veterinarians
@@ -123582,6 +123614,7 @@ warp
 warpages
 warpaths
 warpers
+warping
 warplanes
 warpower
 warpowers
@@ -124332,6 +124365,7 @@ whalers
 whales
 whaling
 whalings
+wham
 whammies
 whammo
 whammy
@@ -125264,6 +125298,7 @@ witchier
 witchiest
 witching
 witchings
+witchlike
 witchweed
 witchweeds
 witchy
