@@ -5821,6 +5821,7 @@ artillerymen
 artinesses
 artiodactyls
 artisan
+artisanship
 artisanships
 artist
 artiste
@@ -10473,6 +10474,7 @@ binned
 binning
 binocle
 binocles
+binocs
 binocularities
 binocularity
 binocularly
@@ -14069,6 +14071,7 @@ burgomasters
 burgonets
 burgoos
 burgrave
+burgraves
 burgundies
 burgundy
 burial
@@ -18574,6 +18577,7 @@ chronobiologist
 chronobiology
 chronograms
 chronograph
+chronographic
 chronographies
 chronographs
 chronography
@@ -23470,6 +23474,7 @@ corseted
 corsetieres
 corseting
 corsetries
+corsets
 cortege
 corteges
 cortex
@@ -24195,6 +24200,7 @@ cowled
 cowlicks
 cowling
 cowlings
+cowls
 cowlstaff
 cowlstaffs
 cowlstaves
@@ -26503,6 +26509,7 @@ dapsone
 darb
 darbar
 darbies
+darbs
 dared
 daredevil
 daredevilries
@@ -37207,6 +37214,7 @@ eucalyptuses
 eucaryotes
 eucharis
 eucharises
+eucharistic
 euchre
 euchred
 euchres
@@ -37531,6 +37539,7 @@ evincible
 evincing
 evincive
 eviscerate
+eviscerated
 eviscerates
 eviscerating
 evisceration
@@ -47063,6 +47072,7 @@ greenstuff
 greensward
 greenswards
 greenth
+greenths
 greenwash
 greenway
 greenways
@@ -47876,6 +47886,7 @@ gutta
 guttate
 guttated
 guttation
+guttations
 gutted
 gutter
 guttering
@@ -54195,6 +54206,7 @@ incriminations
 incriminatory
 incrossed
 incrosses
+incrossing
 incrust
 incrustation
 incrustations
@@ -54311,6 +54323,7 @@ indelible
 indelibly
 indelicacies
 indelicacy
+indelicate
 indelicately
 indelicateness
 indemnifier
@@ -56286,6 +56299,7 @@ interwork
 interworked
 interworking
 interworkings
+interworks
 interwove
 interwoven
 interzonal
@@ -58702,6 +58716,7 @@ kenafs
 kench
 kendos
 kenned
+kenneling
 kennelled
 kennelling
 kennels
@@ -62359,6 +62374,7 @@ location
 locatives
 locator
 locators
+loch
 lochans
 lochia
 lochial
@@ -68402,6 +68418,7 @@ mohawks
 mohel
 mohelim
 mohur
+moidore
 moiety
 moil
 moiled
@@ -69358,6 +69375,7 @@ motorings
 motorise
 motorised
 motorises
+motorising
 motorist
 motorists
 motorization
@@ -75438,6 +75456,7 @@ ostracoderms
 ostracodes
 ostracon
 ostraka
+ostrakon
 ostrich
 ostriches
 ostrichlike
@@ -79130,6 +79149,7 @@ particularises
 particularising
 particularist
 particularistic
+particularities
 particularize
 particularizing
 particularly
@@ -79252,6 +79272,7 @@ passim
 passing
 passingly
 passings
+passion
 passionals
 passionate
 passionately
@@ -80649,6 +80670,7 @@ permeability
 permeable
 permeably
 permeance
+permeances
 permeant
 permease
 permeate
@@ -84580,6 +84602,7 @@ potterers
 potteries
 pottering
 potteringly
+potters
 pottery
 pottier
 pottiest
@@ -84807,6 +84830,7 @@ preaccusing
 preach
 preachers
 preaches
+preachiest
 preachified
 preachifies
 preachify
@@ -93597,6 +93621,7 @@ resecure
 resecured
 resecures
 resecuring
+resedas
 resee
 reseed
 reseeding
@@ -94698,6 +94723,7 @@ revivification
 revivifications
 revivified
 revivify
+revivifying
 reviving
 reviviscent
 revocable
@@ -100199,6 +100225,7 @@ shahdom
 shahdoms
 shahs
 shaird
+shairds
 shairn
 shaitan
 shakable
@@ -101001,6 +101028,7 @@ shout
 shouted
 shouter
 shouters
+shouting
 shouts
 shoved
 shoveled
@@ -106493,6 +106521,7 @@ stickum
 stickums
 stickweeds
 stickwork
+stickworks
 stiction
 stied
 sties
@@ -107462,6 +107491,7 @@ stuffless
 stuiver
 stuivers
 stull
+stultifications
 stultified
 stultify
 stultifying
@@ -107479,6 +107509,7 @@ stumpers
 stumpier
 stumps
 stumpy
+stums
 stung
 stunned
 stunners
@@ -116196,6 +116227,7 @@ tuberculated
 tuberculin
 tuberculoses
 tuberculosis
+tuberculous
 tuberoid
 tuberose
 tuberosities
@@ -120942,6 +120974,7 @@ variables
 variably
 variance
 variances
+variant
 varias
 variate
 variates
@@ -123875,6 +123908,7 @@ whencesoever
 whenever
 whens
 whensoever
+where
 whereabout
 whereas
 whereases
@@ -123887,6 +123921,7 @@ whereinto
 whereof
 whereon
 wheres
+wheresoever
 wherethrough
 whereunto
 wherewith
