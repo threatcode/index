@@ -388,6 +388,7 @@ accomplishing
 accomplishment
 accomplishments
 accord
+accordance
 accordances
 accordantly
 accorder
@@ -932,6 +933,7 @@ adduces
 adducible
 adducing
 adduct
+adducted
 adducting
 adduction
 adductions
@@ -12728,6 +12730,7 @@ brachiation
 brachiations
 brachiator
 brachiopod
+brachium
 brachs
 brachycephalic
 brachycephaly
@@ -23285,6 +23288,7 @@ cordate
 cordately
 corded
 cordelled
+cordelles
 cordelling
 corder
 corders
@@ -28050,6 +28054,7 @@ delectating
 delectations
 delegable
 delegacies
+delegate
 delegated
 delegatee
 delegatees
@@ -37630,6 +37635,7 @@ evacuated
 evacuates
 evacuating
 evacuative
+evacuator
 evacuators
 evacuees
 evade
@@ -39375,6 +39381,7 @@ fanon
 fanos
 fantabulous
 fantail
+fantailed
 fantasia
 fantasie
 fantasies
@@ -47745,6 +47752,7 @@ grubbiness
 grubbinesses
 grubbing
 grubstake
+grubstaker
 grubstakers
 grubstakes
 grubworm
@@ -58315,6 +58323,7 @@ joggings
 joggle
 joggled
 joggler
+joggles
 joggling
 jogs
 johannes
@@ -58996,6 +59005,7 @@ kecked
 kecking
 keckles
 keckling
+kecks
 keddahs
 kedgeree
 kedgerees
@@ -63130,6 +63140,7 @@ loppier
 loppiest
 lopping
 loppy
+lopsidedly
 lopsidedness
 lopsidednesses
 lopstick
@@ -64072,6 +64083,7 @@ magics
 magilp
 magister
 magisterial
+magisteriums
 magistracies
 magistral
 magistrally
@@ -72855,6 +72867,7 @@ nondollar
 nondomestic
 nondormant
 nondramatic
+nondrinker
 nondrinkers
 nondrinking
 nondrip
@@ -73782,6 +73795,7 @@ notum
 notwithstanding
 nougats
 noumena
+noumenon
 noun
 nounal
 nounally
@@ -74437,6 +74451,7 @@ obtruders
 obtruding
 obtrusion
 obtrusive
+obtrusiveness
 obtund
 obtunded
 obtundities
@@ -78784,6 +78799,7 @@ palmation
 palmed
 palmer
 palmerworm
+palmerworms
 palmette
 palmettes
 palmetto
@@ -79331,6 +79347,7 @@ parasang
 parasangs
 parasexual
 parasexualities
+parashahs
 parashioth
 parashot
 parashoth
@@ -82380,6 +82397,7 @@ picketed
 picketer
 pickier
 pickiest
+pickiness
 pickinesses
 picking
 pickings
@@ -82419,6 +82437,7 @@ picometres
 picomole
 picomoles
 picornavirus
+picornaviruses
 picoseconds
 picot
 picoted
@@ -82816,6 +82835,7 @@ pinocytoses
 pinocytosis
 pinocytotically
 pinole
+pinoles
 pinon
 pinones
 pinpoint
@@ -85196,6 +85216,7 @@ pouts
 poverty
 pow
 powder
+powdered
 powderer
 powderers
 powdering
@@ -88389,6 +88410,7 @@ pulchritudes
 pulchritudinous
 pule
 puled
+pulers
 pules
 pulicene
 pulicide
@@ -90878,6 +90900,7 @@ reattributions
 reauthorization
 reauthorize
 reauthorized
+reauthorizes
 reauthorizing
 reavail
 reavailing
@@ -94010,6 +94033,7 @@ repulsion
 repulsions
 repulsive
 repulsiveness
+repump
 repumped
 repumping
 repumps
@@ -95081,6 +95105,7 @@ retroversion
 retroversions
 retry
 retrying
+rets
 retsina
 retting
 retune
@@ -98312,6 +98337,7 @@ sayable
 sayed
 sayeds
 sayer
+sayers
 sayest
 sayid
 sayids
@@ -106145,6 +106171,7 @@ spumous
 spun
 spunk
 spunked
+spunkie
 spunkiest
 spunkinesses
 spunking
@@ -106669,6 +106696,7 @@ starlights
 starlike
 starling
 starnose
+starnoses
 starred
 starrier
 starriest
@@ -109257,6 +109285,7 @@ suffrage
 suffrages
 suffragettes
 suffragist
+suffragists
 suffuse
 suffusing
 suffusion
@@ -110086,6 +110115,7 @@ suppliance
 suppliant
 suppliants
 supplicant
+supplicants
 supplicate
 supplicated
 supplicates
@@ -113400,6 +113430,7 @@ thermes
 thermic
 thermidor
 thermion
+thermionic
 thermionics
 thermions
 thermistor
@@ -119404,6 +119435,7 @@ unhandsome
 unhandsomely
 unhang
 unhanged
+unhanging
 unhangs
 unhappiness
 unhappinesses
@@ -122499,6 +122531,7 @@ vibe
 vibist
 vibracula
 vibraharpist
+vibraharpists
 vibraharps
 vibrances
 vibrancies
@@ -125071,6 +125104,7 @@ widely
 widemouthed
 widen
 widened
+widener
 wideners
 widenesses
 widening
@@ -125770,6 +125804,7 @@ woodie
 woodier
 woodies
 woodiest
+woodiness
 woodinesses
 wooding
 woodland
