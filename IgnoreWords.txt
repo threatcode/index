@@ -239,6 +239,7 @@ acalephs
 acantha
 acanthi
 acanthocephalan
+acanthoid
 acapnia
 acapnias
 acarbose
@@ -942,6 +943,7 @@ ademptions
 adenines
 adenitis
 adenitises
+adenocarcinoma
 adenocarcinomas
 adenohypophyses
 adenohypophysis
@@ -7034,6 +7036,7 @@ autoroutes
 autos
 autosexing
 autosomal
+autosomally
 autosome
 autosomes
 autostradas
@@ -18593,6 +18596,7 @@ chrism
 chrisma
 chrismation
 chrismations
+chrismons
 chrisms
 chrisom
 christen
@@ -26686,6 +26690,7 @@ darlings
 darnation
 darnations
 darndest
+darndests
 darned
 darneder
 darnedest
@@ -27943,6 +27948,7 @@ deicides
 deicing
 deictic
 deictics
+deific
 deifical
 deifications
 deifier
@@ -29190,6 +29196,7 @@ detailings
 details
 detain
 detained
+detainee
 detainees
 detainers
 detainment
@@ -34171,6 +34178,7 @@ edition
 editor
 editorialist
 editorialists
+editorialize
 editorializers
 editorializing
 editorially
@@ -38629,6 +38637,7 @@ extenuates
 extenuating
 extenuation
 extenuator
+extenuatory
 exteriorise
 exteriorised
 exteriorises
@@ -50931,6 +50940,7 @@ hocusing
 hocussed
 hocusses
 hocussing
+hod
 hodad
 hodaddies
 hodaddy
@@ -52500,6 +52510,7 @@ hyla
 hylas
 hylozoic
 hylozoism
+hylozoistic
 hylozoists
 hymen
 hymenal
@@ -52648,6 +52659,7 @@ hypermedia
 hypermedias
 hypermetabolic
 hypermetabolism
+hypermeters
 hypermetric
 hypermetropic
 hypermnesias
@@ -54435,6 +54447,7 @@ inconveniencing
 inconveniency
 inconvenient
 inconveniently
+inconvertible
 inconvertibly
 inconvincible
 incoordination
@@ -57105,6 +57118,7 @@ iodophor
 iodophors
 iodopsin
 iolite
+iolites
 ion
 ionicities
 ionicity
@@ -59192,6 +59206,7 @@ keystone
 keystones
 keystroke
 keystroked
+keystrokes
 keystroking
 keyways
 khaddar
@@ -61080,6 +61095,7 @@ leafworms
 leafy
 league
 leagued
+leaguer
 leaguering
 leaked
 leaker
@@ -66236,6 +66252,7 @@ merge
 merged
 mergee
 mergees
+mergence
 mergences
 merger
 mergers
@@ -69017,6 +69034,7 @@ moneymen
 moneys
 moneyworts
 mongeese
+monger
 mongered
 mongering
 mongoes
@@ -74212,6 +74230,7 @@ oblanceolate
 oblasti
 oblasts
 oblate
+oblately
 oblateness
 oblates
 oblation
@@ -82952,6 +82971,7 @@ pistoleros
 pistolier
 pistoliers
 pistoling
+pistolled
 pistolling
 pistols
 piston
@@ -84569,6 +84589,7 @@ populisms
 populist
 populistic
 populously
+populousness
 populousnesses
 porbeagle
 porbeagles
@@ -84707,6 +84728,7 @@ poseur
 poseurs
 posh
 posher
+poshly
 poshness
 poshnesses
 posies
@@ -89367,6 +89389,7 @@ quicksets
 quicksilver
 quid
 quiddities
+quidnunc
 quids
 quiescence
 quiescent
@@ -92212,6 +92235,7 @@ reflooding
 refloods
 reflowered
 reflowering
+reflowers
 reflowing
 reflown
 reflows
@@ -94635,6 +94659,7 @@ results
 resumable
 resume
 resumed
+resumer
 resumes
 resuming
 resummon
@@ -98558,6 +98583,7 @@ scherzandos
 scherzos
 schiller
 schilling
+schipperkes
 schism
 schismatic
 schismatical
@@ -99727,6 +99753,7 @@ segnos
 segos
 segregant
 segregation
+segregationist
 segregationists
 segregations
 segs
@@ -101526,6 +101553,7 @@ shorn
 short
 shortbreads
 shortcake
+shortcakes
 shortchange
 shortchanged
 shortchanger
@@ -102976,6 +103004,7 @@ sleazes
 sleazier
 sleazily
 sleaziness
+sleazo
 sleazoids
 sled
 sledder
@@ -107877,6 +107906,7 @@ striker
 strikes
 striking
 strikingly
+string
 stringcourses
 stringed
 stringencies
@@ -109255,6 +109285,7 @@ sulfid
 sulfide
 sulfides
 sulfids
+sulfinpyrazone
 sulfinyl
 sulfinyls
 sulfite
@@ -110192,6 +110223,7 @@ surprize
 surprized
 surprizing
 surra
+surreal
 surrealism
 surrealist
 surrealistic
@@ -114356,6 +114388,7 @@ titlist
 titlists
 titman
 titmen
+titmice
 titmouse
 titrant
 titrants
@@ -115692,6 +115725,7 @@ transposing
 transposition
 transpositional
 transposons
+transsexual
 transsexualism
 transshape
 transshaped
@@ -122030,6 +122064,7 @@ ventral
 ventrally
 ventrals
 ventricles
+ventricose
 ventricular
 ventriculi
 ventriculus
