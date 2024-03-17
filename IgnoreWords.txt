@@ -5844,6 +5844,7 @@ artificial
 artificiality
 artificially
 artilleries
+artillerist
 artillerists
 artillery
 artillerymen
@@ -8358,6 +8359,7 @@ barker
 barkier
 barkiest
 barking
+barkless
 barky
 barleducs
 barley
@@ -8442,6 +8444,7 @@ barramundas
 barramundi
 barramundis
 barranca
+barrancas
 barranco
 barrater
 barraters
@@ -14124,6 +14127,7 @@ burets
 burette
 burettes
 burgages
+burgee
 burgees
 burgeon
 burgeons
@@ -14928,6 +14932,7 @@ calicles
 calico
 calicos
 calif
+califate
 califates
 californium
 califs
@@ -20919,6 +20924,7 @@ colorful
 colorfully
 colorfulness
 colorfulnesses
+colorimeters
 colorimetric
 colorimetries
 colorimetry
@@ -23036,6 +23042,7 @@ coolest
 coolheaded
 coolies
 cooling
+coolish
 cools
 coolth
 coolths
@@ -28067,6 +28074,7 @@ deliberately
 deliberateness
 deliberates
 deliberating
+deliberative
 deliberatively
 delicacies
 delicacy
@@ -47019,6 +47027,7 @@ granitas
 granite
 granitelike
 granites
+graniteware
 granitewares
 granitic
 granitoid
@@ -52509,6 +52518,7 @@ hygieists
 hygiene
 hygienes
 hygienics
+hygienist
 hygrograph
 hygrographs
 hygrometer
@@ -53205,6 +53215,7 @@ ignorable
 ignorami
 ignoramus
 ignoramuses
+ignorant
 ignorantly
 ignorantness
 ignorantnesses
@@ -54130,6 +54141,7 @@ inapparently
 inappeasable
 inappetence
 inappetences
+inapplicability
 inapplicably
 inappositely
 inappositeness
@@ -58487,6 +58499,7 @@ joypopper
 joypoppers
 joypopping
 joypops
+joyridden
 joyride
 joyrider
 joyriders
@@ -62157,6 +62170,7 @@ linchpins
 lincomycins
 lindanes
 lindens
+lindies
 lindy
 line
 lineages
@@ -64402,6 +64416,7 @@ mallees
 mallemuck
 mallemucks
 malleolar
+malleoli
 malleolus
 mallet
 malleus
@@ -69871,6 +69886,7 @@ mountebanking
 mountebanks
 mounter
 mounters
+mountings
 mounts
 mourn
 mourned
@@ -74043,6 +74059,7 @@ nus
 nutated
 nutates
 nutation
+nutational
 nutations
 nutbrown
 nutcase
@@ -82730,6 +82747,7 @@ pinfolds
 pinged
 pingers
 pingo
+pingoes
 pingrass
 pings
 pinguid
@@ -85519,6 +85537,7 @@ precinct
 precincts
 preciosities
 preciouses
+preciousness
 preciousnesses
 precipes
 precipice
@@ -86244,6 +86263,7 @@ prerequiring
 prerequisites
 preretirement
 prereturn
+prereview
 prerevolution
 prerinse
 prerinsed
@@ -88198,6 +88218,7 @@ psychrometers
 psychrometric
 psychrometries
 psychrometry
+psychs
 psylla
 psyllas
 psyllid
@@ -89618,6 +89639,7 @@ quoters
 quotes
 quoth
 quotidians
+quotient
 quotients
 qurshes
 qurush
@@ -91881,6 +91903,7 @@ redshirt
 redshirted
 redshirting
 redshirts
+redskin
 redskins
 redstart
 redstarts
@@ -93914,6 +93937,7 @@ reproducer
 reproducers
 reproduces
 reproducible
+reproducibly
 reproducing
 reproduction
 reproductions
@@ -99254,6 +99278,7 @@ scubas
 scud
 scudded
 scudo
+scuds
 scuffer
 scuffers
 scuffing
@@ -104807,6 +104832,7 @@ soundable
 soundalike
 soundalikes
 soundboard
+soundbox
 soundboxes
 sounded
 sounder
@@ -104923,6 +104949,7 @@ sow
 sowable
 sowans
 sowbellies
+sowbreads
 sowcar
 sowcars
 sowed
@@ -106751,6 +106778,7 @@ staumrel
 staumrels
 staunch
 staunches
+staunching
 staunchnesses
 staurolite
 staurolitic
@@ -109297,6 +109325,7 @@ sulcations
 sulci
 sulcus
 suldan
+suldans
 sulfadiazine
 sulfadiazines
 sulfanilamide
@@ -109315,6 +109344,7 @@ sulfide
 sulfides
 sulfids
 sulfinpyrazone
+sulfinpyrazones
 sulfinyl
 sulfinyls
 sulfite
@@ -112101,6 +112131,7 @@ tazzas
 tazze
 tchotchke
 tea
+teaberries
 teaboard
 teabox
 teaboxes
@@ -112126,6 +112157,7 @@ tealike
 teals
 team
 teamakers
+teamed
 teammate
 teammates
 teamster
@@ -121944,6 +121976,7 @@ veiledly
 veiler
 veiling
 veilings
+veillike
 veils
 veinal
 veinier
@@ -123508,6 +123541,7 @@ waggoned
 waggoner
 waggoning
 wagon
+wagonage
 wagoned
 wagoner
 wagoners
@@ -123960,6 +123994,7 @@ watchcase
 watchcry
 watchdog
 watchdogging
+watchdogs
 watcher
 watchers
 watcheye
