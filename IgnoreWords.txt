@@ -4878,6 +4878,7 @@ apologise
 apologised
 apologises
 apologising
+apologize
 apologized
 apologizer
 apologizing
@@ -13291,6 +13292,7 @@ brinkmanship
 brinkmanships
 brinks
 brinksmanship
+brinksmanships
 brins
 briny
 brio
@@ -15968,6 +15970,7 @@ careerisms
 careerist
 careerists
 careers
+carefree
 careful
 carefuller
 carefully
@@ -17746,6 +17749,7 @@ chatelaine
 chatelaines
 chatoyance
 chatoyancy
+chatoyants
 chatrooms
 chatted
 chattel
@@ -36482,6 +36486,7 @@ ephebes
 epheboi
 ephebus
 ephedra
+ephedras
 ephedrin
 ephedrins
 ephemera
@@ -36746,6 +36751,7 @@ epochal
 epochally
 epochs
 epode
+epodes
 eponymic
 eponymies
 eponymous
@@ -37026,6 +37032,7 @@ erratic
 erratical
 erraticism
 erraticisms
+erratics
 erratum
 erred
 errhine
@@ -39605,6 +39612,7 @@ fascitises
 fash
 fashed
 fashes
+fashionability
 fashionableness
 fashionables
 fashioned
@@ -42755,6 +42763,7 @@ forks
 forlorn
 forlornest
 forlornnesses
+form
 formable
 formably
 formal
@@ -45629,6 +45638,7 @@ gigabyte
 gigabytes
 gigacycle
 gigaflop
+gigaflops
 gigahertzes
 gigantean
 gigantic
@@ -47639,6 +47649,7 @@ grizzliest
 grizzling
 grizzly
 groan
+groaned
 groaner
 groaners
 groaning
@@ -52183,6 +52194,7 @@ humerals
 humeri
 humerus
 humic
+humidex
 humidexes
 humidified
 humidifier
@@ -55717,6 +55729,7 @@ inoculum
 inoculums
 inoffensive
 inoperable
+inoperative
 inoperculate
 inoperculates
 inordinate
@@ -58318,6 +58331,7 @@ jimmies
 jimminy
 jimmy
 jimp
+jimply
 jimpy
 jimsonweed
 jimsonweeds
@@ -61255,6 +61269,7 @@ leaper
 leapers
 leapfrog
 leapfrogging
+leapfrogs
 leaps
 learier
 learnable
@@ -61902,6 +61917,7 @@ liberators
 libers
 libertarianism
 libertarianisms
+libertarians
 liberties
 libertinages
 libertine
@@ -65477,6 +65493,7 @@ mateyness
 mateynesses
 mateys
 math
+mathematically
 mathematician
 mathematicians
 mathematics
@@ -66997,6 +67014,7 @@ microbiologic
 microbiological
 microbiologies
 microbiologist
+microbiologists
 microbrew
 microbrewer
 microbrewing
@@ -67532,6 +67550,7 @@ millinery
 milling
 millings
 milliohm
+milliohms
 million
 millionaire
 millionaires
@@ -70167,6 +70186,7 @@ mucoprotein
 mucoproteins
 mucor
 mucors
+mucosa
 mucosal
 mucosas
 mucose
@@ -70375,6 +70395,7 @@ multifoil
 multifoils
 multifold
 multifrequency
+multifunction
 multifunctional
 multigenic
 multigerm
@@ -70496,6 +70517,7 @@ multiton
 multitone
 multitowered
 multitrack
+multitrillion
 multitudinous
 multitudinously
 multiunion
@@ -72660,6 +72682,7 @@ nonaddicts
 nonadditive
 nonadditivities
 nonadhesive
+nonadiabatic
 nonadjacent
 nonadmirers
 nonadmission
@@ -73027,6 +73050,7 @@ nonentity
 nonentries
 nonentry
 nonenzymatic
+nonenzymic
 nonequilibrium
 nonequilibriums
 nonequivalence
@@ -75453,6 +75477,7 @@ opportunist
 opportunists
 opportunities
 opposabilities
+opposability
 opposable
 oppose
 opposeless
@@ -76033,6 +76058,7 @@ osteosarcomata
 osteoses
 osteosis
 osteotomes
+osteotomies
 ostia
 ostiaries
 ostiary
@@ -79457,6 +79483,7 @@ paranormals
 paranymph
 parapeted
 paraphrasable
+paraphrases
 paraphs
 paraphyses
 paraphysis
@@ -80666,6 +80693,7 @@ pelletizer
 pelletizers
 pelletizes
 pelletizing
+pellets
 pellitories
 pellitory
 pellmell
@@ -81634,6 +81662,7 @@ petcocks
 petechia
 petechiae
 petechial
+peter
 petered
 petering
 peters
@@ -85178,6 +85207,7 @@ posttransfusion
 posttreatment
 posttrial
 postulancies
+postulancy
 postulant
 postulants
 postulated
@@ -95857,6 +95887,7 @@ ribonucleosides
 ribonucleotide
 ribonucleotides
 ribose
+ribosomal
 ribosome
 ribosomes
 ribozyme
@@ -116984,6 +117015,7 @@ troweler
 trowelers
 trowelled
 troweller
+trowellers
 trowelling
 trowels
 trows
@@ -121220,6 +121252,7 @@ uppishnesses
 uppitiness
 uppitinesses
 uppity
+uppityness
 uppitynesses
 uppropped
 uppropping
@@ -121736,6 +121769,7 @@ vagilities
 vagility
 vaginal
 vaginally
+vaginate
 vaginated
 vaginismus
 vaginitis
@@ -122751,6 +122785,7 @@ vibrators
 vibratory
 vibrioid
 vibrion
+vibrions
 vibrios
 vibrioses
 vibrissae
