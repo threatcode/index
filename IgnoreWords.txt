@@ -2556,6 +2556,7 @@ alloantibodies
 alloantigen
 allobars
 allocable
+allocate
 allocated
 allocates
 allocations
@@ -5329,6 +5330,7 @@ arcadian
 arcadias
 arcading
 arcadings
+arcana
 arcane
 arcatures
 arccosines
@@ -6115,6 +6117,7 @@ assays
 assegaied
 assemblage
 assemblagists
+assemble
 assembler
 assemblers
 assembles
@@ -13248,6 +13251,7 @@ brim
 brimful
 brimfull
 brimfully
+brimless
 brimmer
 brimmers
 brims
@@ -22926,6 +22930,7 @@ conventions
 conventual
 conventually
 conventuals
+converged
 convergences
 convergencies
 convergency
@@ -28571,6 +28576,7 @@ denudate
 denudated
 denudating
 denudation
+denudations
 denude
 denuded
 denudement
@@ -35280,6 +35286,7 @@ emporia
 emporium
 emporiums
 empower
+empowering
 empowerment
 empowers
 empresses
@@ -36310,6 +36317,7 @@ enucleates
 enucleating
 enucleations
 enumerable
+enumerate
 enumerated
 enumerating
 enumeration
@@ -40567,6 +40575,7 @@ fig
 figeater
 figeaters
 figged
+figging
 fight
 fightable
 fighter
@@ -41437,6 +41446,7 @@ fledged
 fledges
 fledgier
 fledgiest
+fledging
 flee
 fleece
 fleeced
@@ -42509,6 +42519,7 @@ forelocked
 forelocking
 forelocks
 foreman
+foremanship
 foremanships
 foremast
 foremasts
@@ -54053,6 +54064,7 @@ impromptus
 improper
 improperly
 impropernesses
+improprieties
 impropriety
 improvabilities
 improvability
@@ -58754,6 +58766,7 @@ justiciars
 justifiability
 justification
 justifications
+justificative
 justified
 justifier
 justifiers
@@ -60098,6 +60111,7 @@ labara
 labarum
 labarums
 labdanum
+label
 labelable
 labeler
 labelers
@@ -60913,6 +60927,7 @@ lattes
 lattice
 latticed
 lattices
+latticeworks
 latticings
 lattin
 lattins
@@ -72590,6 +72605,7 @@ nonadjacent
 nonadmirers
 nonadmission
 nonadult
+nonadults
 nonaesthetic
 nonaffluent
 nonage
@@ -73779,6 +73795,7 @@ notated
 notates
 notation
 notational
+notations
 notch
 notchback
 notched
@@ -79806,6 +79823,7 @@ passage
 passaged
 passageways
 passageworks
+passaging
 passalong
 passalongs
 passant
@@ -80235,6 +80253,7 @@ peacemaker
 peacemakers
 peacemaking
 peacemakings
+peacenik
 peaceniks
 peacetimes
 peachblow
@@ -86364,6 +86383,7 @@ presbyopic
 presbyopics
 presbyter
 presbyterate
+presbyterates
 presbyterially
 presbyterials
 presbyters
@@ -86397,6 +86417,7 @@ prese
 preseason
 preseasons
 preselect
+preselection
 preselections
 preselects
 presell
@@ -88949,6 +88970,7 @@ puttylike
 puttyroot
 puttyroots
 puzzled
+puzzledly
 puzzleheaded
 puzzlement
 puzzlements
@@ -92595,6 +92617,7 @@ registerable
 registering
 registers
 registrant
+registrants
 registrars
 registration
 registrations
@@ -94741,6 +94764,7 @@ restrengthening
 restrengthens
 restress
 restressed
+restresses
 restretch
 restretched
 restretching
@@ -100472,6 +100496,7 @@ septupling
 sepulcher
 sepulchering
 sepulchers
+sepulchral
 sepulchrally
 sepulchre
 sepulchred
@@ -101449,6 +101474,7 @@ shiny
 ship
 shipboard
 shipboards
+shipborne
 shipbuilders
 shipbuilding
 shipfitters
@@ -104022,6 +104048,7 @@ snoots
 snooty
 snooze
 snoozed
+snoozer
 snoozers
 snoozes
 snoozier
@@ -108226,6 +108253,7 @@ stubblier
 stubborn
 stubborner
 stubbornest
+stubbornly
 stubbornness
 stubby
 stubs
@@ -113191,6 +113219,7 @@ tetrafluoride
 tetrafluorides
 tetragon
 tetragonally
+tetragons
 tetragram
 tetragrammaton
 tetragrammatons
@@ -113286,6 +113315,7 @@ thalidomides
 thalli
 thallic
 thallious
+thalloid
 thallophyte
 thallophytic
 thallus
@@ -114750,6 +114780,7 @@ tolidine
 toling
 toll
 tollage
+tollages
 tollbars
 tollbooth
 tolled
@@ -116305,6 +116336,7 @@ trichomonad
 trichomonads
 trichomonal
 trichomoniases
+trichopteran
 trichoses
 trichosis
 trichothecene
@@ -126555,6 +126587,7 @@ yawner
 yawners
 yawningly
 yawns
+yawp
 yawped
 yawpers
 yawping
@@ -127050,6 +127083,7 @@ zippered
 zippering
 zippers
 zippier
+zipping
 zippy
 zips
 ziram
@@ -127152,6 +127186,7 @@ zoologies
 zoologist
 zoomania
 zoomanias
+zoometric
 zoometries
 zoometry
 zooming
