@@ -1020,6 +1020,7 @@ adjudicators
 adjunct
 adjunction
 adjunctions
+adjunctive
 adjunctly
 adjuncts
 adjuration
@@ -3729,6 +3730,7 @@ angulous
 anhedonia
 anhedonias
 anhedonic
+anhinga
 anhingas
 anhydride
 anhydrides
@@ -7836,6 +7838,7 @@ bailsmen
 bairnish
 bairnlier
 bairnliest
+bairnly
 bairns
 bait
 baited
@@ -17198,6 +17201,7 @@ certitudes
 cerulean
 ceruleans
 cerumen
+ceruminous
 ceruse
 ceruses
 cerusite
@@ -18016,6 +18020,7 @@ chewy
 chez
 chia
 chiantis
+chiao
 chiaroscurists
 chiaroscuro
 chiasm
@@ -23447,6 +23452,7 @@ corollas
 corollate
 corona
 coronach
+coronachs
 coronae
 coronagraphs
 coronal
@@ -23532,6 +23538,7 @@ correlations
 correlative
 correlatively
 correlatives
+correlator
 correlators
 correspond
 correspondency
@@ -28889,6 +28896,7 @@ derrieres
 derries
 derringers
 derrises
+dervishes
 desacralization
 desacralized
 desacralizing
@@ -30037,6 +30045,7 @@ difficult
 difficulties
 difficultly
 difficulty
+diffidence
 diffidences
 diffident
 diffract
@@ -36280,6 +36289,7 @@ enumerative
 enumerators
 enunciable
 enunciate
+enunciates
 enunciating
 enunciation
 enunciator
@@ -36920,6 +36930,7 @@ erosivities
 erosivity
 erotic
 erotica
+eroticism
 eroticisms
 eroticist
 eroticize
@@ -37387,6 +37398,7 @@ etiolating
 etiolations
 etiologic
 etiologies
+etiology
 etiquette
 etiquettes
 etna
@@ -53767,6 +53779,7 @@ impersonates
 impersonating
 impersonator
 impertinence
+impertinences
 impertinency
 impertinently
 imperturbable
@@ -54895,6 +54908,7 @@ indurates
 induration
 indurations
 indurative
+indusia
 indusial
 indusiate
 indusium
@@ -58627,6 +58641,7 @@ junketed
 junketeer
 junketeered
 junketeers
+junketer
 junkets
 junkie
 junkiest
@@ -62424,6 +62439,7 @@ literalistic
 literalists
 literalities
 literality
+literalization
 literalizations
 literalized
 literalizing
@@ -72053,6 +72069,7 @@ nicotianas
 nicotin
 nicotinamides
 nicotines
+nicotins
 nictate
 nictates
 nictating
@@ -74845,6 +74862,7 @@ older
 oldest
 oldfangled
 oldies
+oldish
 oldnesses
 olds
 oldsquaw
@@ -76658,6 +76676,7 @@ outrung
 outrunner
 outrunning
 outruns
+outrush
 outrushed
 outrushes
 outrushing
@@ -78813,6 +78832,7 @@ palynology
 pampa
 pampas
 pampean
+pamper
 pampered
 pamperer
 pamperers
@@ -84571,6 +84591,7 @@ popular
 popularises
 popularising
 popularities
+popularity
 popularization
 popularizations
 popularize
@@ -85013,6 +85034,7 @@ potboils
 potboy
 potboys
 poteen
+poteens
 potency
 potent
 potentate
@@ -87386,6 +87408,7 @@ propagandizing
 propagate
 propagated
 propagates
+propagating
 propagation
 propagations
 propagator
@@ -92899,6 +92922,7 @@ rejoins
 rejudge
 rejudged
 rejudges
+rejudging
 rejuggled
 rejuggles
 rejuggling
@@ -95041,6 +95065,7 @@ return
 returnables
 returned
 returnees
+returner
 returners
 returning
 returns
@@ -102708,6 +102733,7 @@ skimpy
 skims
 skin
 skinflick
+skinflicks
 skinflints
 skinfuls
 skinheads
@@ -103400,6 +103426,7 @@ sly
 slyboots
 slyer
 slyness
+slynesses
 slypes
 smacked
 smacking
@@ -103931,6 +103958,7 @@ snowbound
 snowbush
 snowbushes
 snowcap
+snowcapped
 snowcaps
 snowdrift
 snowdrifts
@@ -108951,6 +108979,7 @@ subtilizations
 subtilize
 subtilized
 subtilizes
+subtilizing
 subtitled
 subtle
 subtleness
@@ -110361,6 +110390,7 @@ svelte
 sveltely
 svelteness
 sveltenesses
+sveltest
 swabbed
 swabber
 swabbers
@@ -110741,6 +110771,7 @@ swoun
 swound
 swounded
 swounding
+swouned
 swouning
 swouns
 swum
@@ -113503,6 +113534,7 @@ thinkings
 thinly
 thinner
 thinners
+thinness
 thinnesses
 thins
 thio
@@ -117230,6 +117262,7 @@ turnsoles
 turnspit
 turnspits
 turnstile
+turnstiles
 turnstone
 turnstones
 turntable
@@ -122607,6 +122640,7 @@ vigour
 vigours
 vigs
 vikings
+vilayet
 vilayets
 vileness
 viler
@@ -126574,6 +126608,7 @@ yolk
 yolked
 yolkiest
 yolks
+yolky
 yom
 yond
 yonic

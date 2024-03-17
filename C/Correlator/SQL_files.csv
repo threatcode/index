@@ -1,0 +1,3 @@
+mysql-bpel.sql - GitHub,https://github.com/wso2/carbon-business-process/blob/master/components/bpel/org.wso2.carbon.bpel/src/main/resources/database-scripts/mysql-bpel.sql
+mso-api-handlers/mso-requests-db-repositories/src/test/resources ...,https://gerrit.nordix.org/plugins/gitiles/onap/so/%2B/9d58fecb4f11d0313415288869f01851d89bb2a4/mso-api-handlers/mso-requests-db-repositories/src/test/resources/schema.sql
+oracle-bpel.sql - GitHub,https://github.com/wso2/carbon-business-process/blob/master/components/bpel/org.wso2.carbon.bpel/src/main/resources/database-scripts/oracle-bpel.sql
