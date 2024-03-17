@@ -301,6 +301,7 @@ acceptances
 acceptant
 acceptation
 acceptations
+accepted
 acceptedly
 acceptee
 acceptees
@@ -1433,6 +1434,7 @@ aeromedicine
 aeromedicines
 aerometries
 aerometry
+aeronaut
 aeronautic
 aeronautics
 aeronauts
@@ -6889,6 +6891,7 @@ authoring
 authorise
 authorised
 authorises
+authorising
 authoritarian
 authoritarians
 authoritative
@@ -13802,6 +13805,7 @@ budgeted
 budgeteer
 budgeteers
 budgeter
+budgeters
 budgie
 budging
 budlike
@@ -20140,6 +20144,7 @@ cobwebby
 coca
 cocain
 cocaine
+cocainism
 cocainisms
 cocainizations
 cocainize
@@ -23106,6 +23111,7 @@ cooperated
 cooperates
 cooperation
 cooperationists
+cooperations
 cooperative
 cooperatively
 cooperativeness
@@ -24104,6 +24110,7 @@ counterpunched
 counterpuncher
 counterpunchers
 counterquestion
+counterrallied
 counterrallies
 counterrally
 counterrallying
@@ -24607,6 +24614,7 @@ crankle
 crankled
 crankles
 crankling
+crankly
 crankous
 crankpin
 cranks
@@ -28923,6 +28931,7 @@ derivers
 derives
 deriving
 derm
+dermabrasion
 dermabrasions
 dermas
 dermatitises
@@ -31491,6 +31500,7 @@ disrobes
 disrobing
 disroot
 disrooting
+disroots
 disrupt
 disrupted
 disrupters
@@ -32020,6 +32030,7 @@ dockworkers
 dockyard
 dockyards
 docs
+doctor
 doctoral
 doctorate
 doctorates
@@ -48187,6 +48198,7 @@ gunnery
 gunnies
 gunning
 gunnings
+gunny
 gunnybag
 gunnybags
 gunnysack
@@ -49766,6 +49778,7 @@ heathens
 heather
 heathered
 heathers
+heathier
 heathiest
 heathland
 heathlands
@@ -51512,6 +51525,7 @@ honeysuckle
 honeysuckles
 hong
 hongi
+hongied
 hongies
 hongiing
 hongs
@@ -58253,6 +58267,7 @@ jettied
 jettiest
 jetting
 jettison
+jettisoned
 jettisoning
 jettisons
 jetton
@@ -59554,6 +59569,7 @@ kilts
 kilty
 kimberlites
 kimchee
+kimchees
 kimchi
 kimchis
 kimonos
@@ -59940,6 +59956,7 @@ kobold
 kobs
 koels
 kohls
+koine
 koines
 kois
 koji
@@ -60235,6 +60252,7 @@ labyrinthian
 labyrinthine
 labyrinthodont
 labyrinthodonts
+labyrinths
 laccolithic
 laced
 laceless
@@ -63393,6 +63411,7 @@ lousy
 lout
 louting
 loutishly
+loutishness
 loutishnesses
 louver
 louvered
@@ -69832,6 +69851,7 @@ mosaicking
 mosaiclike
 mosaics
 mosasaur
+mosasaurs
 moschatel
 mosey
 moseyed
@@ -71832,6 +71852,7 @@ nepenthe
 nepenthean
 nepenthes
 nepetas
+nepheline
 nephelines
 nephelinites
 nephelinitic
@@ -73233,6 +73254,7 @@ noniron
 nonirradiated
 nonirritant
 nonirritants
+nonirritating
 nonissues
 nonjoinder
 nonjoiner
@@ -83535,6 +83557,7 @@ plasterings
 plasters
 plasterwork
 plasterworks
+plastery
 plastic
 plastically
 plasticene
@@ -83663,6 +83686,7 @@ playgirl
 playgirls
 playgoer
 playgoers
+playgoing
 playgoings
 playground
 playgrounds
@@ -84409,6 +84433,7 @@ poltroons
 poly
 polyacrylamides
 polyamide
+polyamides
 polyamine
 polyamines
 polyandries
@@ -84620,6 +84645,7 @@ polyurethane
 polyuria
 polyurias
 polyuric
+polyvalences
 polyvalent
 polywater
 polywaters
@@ -88132,6 +88158,7 @@ provincialist
 provincialists
 provinciality
 provincialize
+provincializes
 provincializing
 proving
 proviral
@@ -88489,6 +88516,7 @@ publisher
 publishers
 publishes
 publishing
+publishings
 pubs
 pucka
 pucker
@@ -92618,6 +92646,7 @@ refulgence
 refulgences
 refulgent
 refund
+refundability
 refundable
 refunded
 refunder
@@ -94163,6 +94192,7 @@ reproduction
 reproductions
 reproductive
 reproductively
+reproductives
 reprogram
 reprogramed
 reprogrammable
@@ -99375,6 +99405,7 @@ scribble
 scribbled
 scribbler
 scribbles
+scribbling
 scribbly
 scribe
 scribed
@@ -102314,6 +102345,7 @@ sigma
 sigmas
 sigmate
 sigmoid
+sigmoidal
 sigmoidoscopies
 sigmoids
 signa
@@ -107892,6 +107924,7 @@ stowp
 stowps
 stows
 strabismus
+strabismuses
 straddle
 straddled
 straddler
@@ -116901,6 +116934,7 @@ trolling
 trollops
 trollopy
 trolls
+trolly
 trollying
 trombonist
 trombonists
@@ -117916,6 +117950,7 @@ typographing
 typographs
 typography
 typologic
+typological
 typologically
 typologies
 typologist
