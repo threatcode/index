@@ -4557,6 +4557,7 @@ antirock
 antiroll
 antiromantic
 antiromanticism
+antiromantics
 antiroyal
 antiroyalist
 antiroyalists
@@ -5909,6 +5910,7 @@ artilleries
 artillerist
 artillerists
 artillery
+artilleryman
 artillerymen
 artinesses
 artiodactyls
@@ -8461,6 +8463,7 @@ barniest
 barnstorm
 barnstormed
 barnstormer
+barnstormers
 barnstorming
 barnstorms
 barny
@@ -8621,6 +8624,7 @@ baseplates
 baserunnings
 basest
 bash
+bashaw
 bashes
 bashfully
 bashfulness
@@ -8918,6 +8922,7 @@ beadier
 beadily
 beadle
 beadledom
+beadledoms
 beadles
 beadlike
 beadman
@@ -11423,6 +11428,7 @@ blindguts
 blinding
 blindingly
 blindly
+blindnesses
 blinds
 blindside
 blindsided
@@ -20315,6 +20321,7 @@ coccygeal
 coccyxes
 cochair
 cochairman
+cochairmen
 cochairperson
 cochairpersons
 cochairs
@@ -25315,6 +25322,7 @@ crookneck
 crooknecks
 crooks
 croon
+crooned
 crooners
 crooning
 croons
@@ -26933,6 +26941,7 @@ darkled
 darkles
 darklier
 darkliest
+darkling
 darklings
 darkly
 darkness
@@ -28743,6 +28752,7 @@ denominatives
 denominators
 denotable
 denotation
+denotations
 denotative
 denote
 denotements
@@ -31827,6 +31837,7 @@ dissipate
 dissipated
 dissipatedly
 dissipatedness
+dissipater
 dissipaters
 dissipates
 dissipating
@@ -33350,6 +33361,7 @@ driver
 drivers
 drives
 driveshaft
+driveshafts
 drivetrains
 driveway
 driving
@@ -33428,6 +33440,7 @@ drosophilas
 dross
 drosses
 drossier
+drossiest
 drossy
 drought
 droughtier
@@ -34151,6 +34164,7 @@ earnests
 earning
 earnings
 earns
+earpiece
 earpieces
 earring
 earringed
@@ -52099,6 +52113,7 @@ hormones
 hormonic
 horn
 hornbeam
+hornbill
 hornbills
 hornblende
 hornblendes
@@ -55555,6 +55570,7 @@ inevitableness
 inexactitudes
 inexactly
 inexactness
+inexcusable
 inexcusableness
 inexhaustible
 inexhaustibly
@@ -59672,6 +59688,7 @@ kenspeckle
 kent
 kente
 kentes
+kentledge
 kentledges
 kephalins
 kepped
@@ -67481,6 +67498,7 @@ mibs
 mic
 mica
 micaceous
+micas
 micawber
 micawbers
 mice
@@ -67585,12 +67603,14 @@ microfaunal
 microfaunas
 microfibril
 microfibrillar
+microfiche
 microfiches
 microfilament
 microfilaments
 microfilaria
 microfilariae
 microfilarial
+microfilm
 microfilmed
 microfilmer
 microfilming
@@ -71403,6 +71423,7 @@ muzhik
 muzjik
 muzjiks
 muzzier
+muzziest
 muzzler
 muzzlers
 muzzles
@@ -73042,6 +73063,7 @@ nitroglycerine
 nitroglycerines
 nitroglycerins
 nitrolic
+nitromethane
 nitromethanes
 nitroparaffin
 nitroparaffins
@@ -76460,6 +76482,7 @@ ors
 ort
 orthicon
 ortho
+orthocenters
 orthochromatic
 orthoclase
 orthodontia
@@ -77620,6 +77643,7 @@ outstudying
 outstunted
 outsulking
 outsung
+outsware
 outswear
 outswearing
 outsweep
@@ -80116,6 +80140,7 @@ parashahs
 parashioth
 parashot
 parashoth
+parasites
 parasitic
 parasitical
 parasitically
@@ -83962,6 +83987,7 @@ placative
 placatory
 place
 placeable
+placebo
 placeboes
 placebos
 placed
@@ -84454,6 +84480,7 @@ plew
 plexal
 plexes
 plexor
+plexors
 plexus
 plexuses
 pliabilities
@@ -85070,6 +85097,7 @@ polybutadienes
 polycarbonates
 polycarpies
 polycarpy
+polycentric
 polycentrism
 polycentrisms
 polychaete
@@ -92300,6 +92328,7 @@ reconnoiter
 reconnoitered
 reconnoiters
 reconnoitre
+reconnoitred
 reconnoitres
 reconnoitring
 reconquer
@@ -95312,6 +95341,7 @@ resilver
 resilvered
 resin
 resinate
+resinated
 resinates
 resinating
 resined
@@ -96203,6 +96233,7 @@ revery
 revest
 revested
 revesting
+revests
 revetment
 revetments
 revets
@@ -101968,6 +101999,7 @@ shanking
 shankpiece
 shankpieces
 shanks
+shanny
 shanti
 shantih
 shantis
@@ -107458,6 +107490,7 @@ stables
 stablest
 stablish
 stablished
+stablishing
 stablishment
 stablishments
 stabs
@@ -116824,6 +116857,7 @@ transiently
 transistorise
 transistorised
 transistorises
+transistorising
 transistorize
 transistorizing
 transistors
@@ -119196,6 +119230,7 @@ unadvised
 unadvisedly
 unaesthetic
 unaffectedly
+unaffectionate
 unaffiliated
 unaffordable
 unafraid
