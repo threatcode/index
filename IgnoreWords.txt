@@ -11489,6 +11489,7 @@ blondness
 blonds
 blood
 bloodbath
+bloodbaths
 bloodcurdling
 bloodfin
 bloodfins
@@ -12428,6 +12429,7 @@ bos
 boscages
 boschbok
 boschvarks
+bosh
 boshbok
 boshes
 boshvark
@@ -12678,6 +12680,7 @@ bowered
 bowers
 bowery
 bowfin
+bowfins
 bowfront
 bowheads
 bowhunter
@@ -15607,6 +15610,7 @@ capable
 capablenesses
 capabler
 capably
+capacious
 capaciously
 capaciousness
 capaciousnesses
@@ -21031,6 +21035,7 @@ colorant
 coloration
 coloratura
 colorbred
+colorbreed
 colorbreeding
 colorbreeds
 colorcast
@@ -23680,6 +23685,7 @@ corrects
 correlatable
 correlate
 correlated
+correlates
 correlation
 correlational
 correlations
@@ -26144,6 +26150,7 @@ cutest
 cutesy
 cuteys
 cutgrass
+cuticles
 cuticula
 cuticular
 cutie
@@ -26430,6 +26437,7 @@ cystitides
 cystocarps
 cystocele
 cystoceles
+cystoid
 cystoids
 cystolith
 cystoliths
@@ -34930,6 +34938,7 @@ elephants
 elevate
 elevated
 elevateds
+elevates
 elevations
 elevator
 elevators
@@ -35137,6 +35146,7 @@ embattling
 embay
 embayed
 embaying
+embed
 embedded
 embedding
 embeddings
@@ -36364,6 +36374,7 @@ enterocoels
 enterocolitis
 enterocolitises
 enterogastrone
+enterogastrones
 enterokinase
 enterokinases
 enteron
@@ -39397,6 +39408,7 @@ fahlband
 fahlbands
 faience
 faiences
+failings
 failles
 fails
 failure
@@ -45225,6 +45237,7 @@ gearheads
 gearing
 gearings
 gears
+gearshift
 gearshifts
 gearwheel
 gearwheels
@@ -55414,6 +55427,7 @@ inexpiably
 inexplainable
 inexplicability
 inexplicable
+inexplicably
 inexplicit
 inexpressibly
 inexpressive
@@ -57931,6 +57945,7 @@ isometric
 isometrics
 isometries
 isometry
+isomorphic
 isomorphically
 isomorphism
 isomorphisms
@@ -63611,6 +63626,7 @@ losingly
 loss
 losses
 lossless
+lossy
 lost
 lostness
 lostnesses
@@ -69076,6 +69092,7 @@ miterers
 miters
 miterwort
 miterworts
+mites
 mither
 mithers
 miticidal
@@ -77183,6 +77200,7 @@ outrigger
 outriggers
 outrigging
 outrigs
+outring
 outrings
 outrivaled
 outrivaling
@@ -81367,6 +81385,7 @@ peppiest
 peppily
 peppiness
 peppinesses
+pepping
 peppy
 peps
 pepsin
@@ -82844,6 +82863,7 @@ phytopathogens
 phytopathology
 phytophagous
 phytoplankter
+phytoplankters
 phytoplankton
 phytoplanktons
 phytosociology
@@ -84774,6 +84794,7 @@ polliwog
 pollocks
 polls
 pollster
+pollsters
 pollutant
 pollutants
 pollute
@@ -86354,6 +86375,7 @@ preelects
 preembargo
 preemergence
 preemergent
+preemie
 preemies
 preeminence
 preeminent
@@ -88992,6 +89014,7 @@ puissance
 puissances
 puissant
 puja
+pujah
 pujahs
 puke
 puked
@@ -92760,6 +92783,7 @@ reexaminations
 reexamine
 reexamined
 reexecute
+reexecuted
 reexecuting
 reexhibited
 reexhibits
@@ -95644,6 +95668,7 @@ retranslated
 retranslates
 retranslating
 retranslation
+retranslations
 retransmission
 retransmissions
 retransmit
@@ -97402,6 +97427,7 @@ royally
 royalmast
 royalmasts
 royalty
+roystered
 rozzers
 ruanas
 rub
@@ -98369,6 +98395,7 @@ samplings
 samps
 samsara
 samsaras
+samshu
 sanatorium
 sanatoriums
 sanbenito
@@ -98781,6 +98808,7 @@ satiation
 satieties
 satiety
 satin
+satinet
 satinets
 satinpod
 satins
@@ -99561,6 +99589,7 @@ sclerosing
 sclerosis
 sclerotial
 sclerotic
+sclerotics
 sclerotins
 sclerotium
 sclerotizations
@@ -104929,6 +104958,7 @@ sodden
 soddened
 soddening
 soddenly
+soddenness
 soddens
 soddies
 soddy
@@ -121326,6 +121356,7 @@ unstintingly
 unstitch
 unstitched
 unstitches
+unstitching
 unstocked
 unstop
 unstoppably
@@ -125851,6 +125882,7 @@ whoofing
 whoop
 whooped
 whoopee
+whooper
 whoopers
 whoopie
 whooping
@@ -126060,6 +126092,7 @@ willied
 willies
 willing
 willinger
+willingest
 willingly
 willingnesses
 williwaws
@@ -126212,6 +126245,7 @@ wingier
 wingless
 winglessness
 winglessnesses
+winglet
 winglets
 winglike
 wingman
@@ -127289,6 +127323,7 @@ yarning
 yarns
 yarrow
 yashmac
+yashmacs
 yashmak
 yashmaks
 yasmak
