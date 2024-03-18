@@ -8,3 +8,13 @@ msb/vmail-stack - vmail-stack - STACK::Source::Git,https://git.stack-source.com/
 https://cs.wellesley.edu/~webdb/mysql/dumps/webdb.sql,https://cs.wellesley.edu/~webdb/mysql/dumps/webdb.sql
 guest/julian_hyde/mondrian/demo/FoodMartData.sql,https://swarm.workshop.perforce.com/files/guest/julian_hyde/mondrian/demo/FoodMartData.sql%3Fv%3D1
 Kultúrpart,https://kulturpart.hu/dump.sql%3Flayout%3D5%26page%3D901
+Advanced_Database_Systems/DBPopulating.sql at main - GitHub,https://github.com/karenbstewart/Advanced_Database_Systems/blob/main/DBPopulating.sql
+apex-sample-search - Oracle,https://www.oracle.com/technetwork/developer-tools/apex/application-express/apex-sample-search-1668189.sql
+Database - GitHub,https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_Sqlite.sql
+aw.sql - kevinold/authorwatchr - GitHub,https://github.com/kevinold/authorwatchr/blob/master/aw.sql
+https://raw.githubusercontent.com/lerocha/chinook-...,https://raw.githubusercontent.com/lerocha/chinook-database/master/ChinookDatabase/DataSources/Chinook_PostgreSql.sql
+msb/vmail-stack - vmail-stack - STACK::Source::Git,https://git.stack-source.com/msb/vmail-stack/commits/commit/f26b3af5cf849f8fbb9ec62a14e8555a6fd08f8f/vmail.sql%3Flang%3Dzh-HK
+guest/julian_hyde/mondrian/demo/FoodMartData.sql,https://swarm.workshop.perforce.com/files/guest/julian_hyde/mondrian/demo/FoodMartData.sql%3Fv%3D1
+https://researchdata.gla.ac.uk/936/5/scotchap_proj...,https://researchdata.gla.ac.uk/936/5/scotchap_project_2014_sqldump.sql
+msb/vmail-stack - vmail-stack - STACK::Source::Git,https://git.stack-source.com/msb/vmail-stack/commits/commit/f26b3af5cf849f8fbb9ec62a14e8555a6fd08f8f/vmail.sql%3Flang%3Dlv-LV
+apex-sample-file-upload-dload - Oracle,https://www.oracle.com/technetwork/developer-tools/apex/application-express/apex-sample-file-upload-dload-1668185.sql
