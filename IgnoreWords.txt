@@ -675,6 +675,7 @@ acquirable
 acquire
 acquired
 acquiree
+acquirees
 acquirement
 acquirements
 acquirer
@@ -1095,6 +1096,7 @@ admissibility
 admissible
 admission
 admissions
+admissive
 admit
 admits
 admittance
@@ -3100,6 +3102,7 @@ amie
 amigas
 amigos
 amin
+amine
 amines
 aminic
 aminity
@@ -10601,6 +10604,7 @@ binder
 binderies
 binders
 bindery
+bindi
 binding
 bindingly
 bindingness
@@ -11040,6 +11044,7 @@ bitten
 bitterbrushes
 bittered
 bitterer
+bitterest
 bittering
 bitterish
 bitterly
@@ -13017,6 +13022,7 @@ brassiest
 brassiness
 brassinesses
 brassing
+brasswares
 brassy
 brat
 brats
@@ -13684,6 +13690,7 @@ brucine
 brucines
 brucins
 brugh
+bruins
 bruise
 bruised
 bruiser
@@ -24761,6 +24768,7 @@ craniofacial
 craniologies
 craniometries
 craniotomies
+craniotomy
 craniums
 crank
 crankcase
@@ -37523,6 +37531,7 @@ essentials
 esses
 essonites
 establish
+establishable
 established
 establisher
 establishers
@@ -40354,6 +40363,7 @@ felworts
 fem
 femalenesses
 feme
+feminacies
 feminacy
 feminazi
 feminazis
@@ -41244,6 +41254,7 @@ firefight
 firefights
 fireflies
 fireflood
+firefly
 fireguard
 firehall
 firehouse
@@ -43074,6 +43085,7 @@ forklifted
 forklifting
 forklifts
 forks
+forksful
 forky
 forlorn
 forlornest
@@ -44976,6 +44988,7 @@ garbagemen
 garbages
 garbanzo
 garbanzos
+garbed
 garble
 garbled
 garbler
@@ -50079,6 +50092,7 @@ hearteningly
 heartens
 heartfelt
 hearth
+hearthrug
 hearthrugs
 hearths
 hearthstone
@@ -53019,6 +53033,7 @@ hygrophilous
 hygrophyte
 hygrophytes
 hygrophytic
+hygroscopicity
 hygrostats
 hyla
 hylas
@@ -53966,6 +53981,7 @@ immaculacy
 immaculate
 immaculately
 immane
+immanence
 immanences
 immanencies
 immanency
@@ -60827,6 +60843,7 @@ laggardness
 laggards
 lagged
 lagger
+lagging
 laggings
 lagnappe
 lagnappes
@@ -65146,6 +65163,7 @@ manager
 manageress
 manageresses
 managerial
+managers
 managership
 managerships
 manakin
@@ -69156,6 +69174,7 @@ mistakable
 mistaken
 mistakenly
 mistakers
+mistakes
 mistaking
 mistbow
 misteach
@@ -69315,6 +69334,7 @@ mixologies
 mixologist
 mixologists
 mixology
+mixt
 mixtures
 mixup
 mixups
@@ -70784,6 +70804,7 @@ muffled
 mufflered
 mufflers
 muffles
+muffs
 mufti
 mugful
 muggar
@@ -77294,6 +77315,7 @@ outpopulating
 outport
 outports
 outpost
+outposts
 outpour
 outpoured
 outpourer
@@ -79848,6 +79870,7 @@ papergirls
 paperhangers
 paperhangings
 paperiness
+papering
 papermakings
 papers
 paperweight
@@ -95926,6 +95949,7 @@ retrenching
 retrenchment
 retrenchments
 retrial
+retribution
 retributions
 retributory
 retried
@@ -100811,6 +100835,7 @@ seiners
 seining
 seis
 seisable
+seise
 seised
 seisers
 seises
@@ -103769,6 +103794,7 @@ skinker
 skinkers
 skinking
 skinks
+skinless
 skinned
 skinner
 skinners
@@ -105195,6 +105221,7 @@ sociopaths
 sociopolitical
 sociosexual
 sock
+sockdolagers
 socked
 socket
 socketed
@@ -110852,6 +110879,7 @@ superheroes
 superheroine
 superheroines
 superhighways
+superhits
 superhot
 superhumanly
 superhumanness
@@ -112773,6 +112801,7 @@ tanagers
 tanbark
 tandem
 tandems
+tandoor
 tandoori
 tandooris
 tandoors
@@ -119369,6 +119398,7 @@ unblurred
 unblushingly
 unboarded
 unbobbed
+unbolt
 unbolting
 unbonnet
 unbonneted
@@ -121545,6 +121575,7 @@ unsightlier
 unsightliest
 unsightliness
 unsightlinesses
+unsights
 unsigned
 unsilent
 unsimilar
@@ -121860,6 +121891,7 @@ unununiums
 unurged
 unusable
 unusual
+unusually
 unusualnesses
 unutilized
 unutterably
@@ -122138,6 +122170,7 @@ upmost
 upo
 upon
 upped
+upper
 uppercase
 uppercased
 uppercases
@@ -125738,6 +125771,7 @@ wergelt
 wergelts
 wergild
 wergilds
+wernerite
 wernerites
 wert
 werwolf
@@ -126359,6 +126393,7 @@ wigwam
 wigwams
 wikiup
 wikiups
+wild
 wildcard
 wildcards
 wildcat
