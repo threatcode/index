@@ -669,6 +669,7 @@ acquiescent
 acquiescently
 acquiesces
 acquiescing
+acquirable
 acquire
 acquired
 acquiree
@@ -977,6 +978,7 @@ adherence
 adherences
 adherends
 adherent
+adherents
 adherer
 adherers
 adhering
@@ -2504,6 +2506,7 @@ allegorize
 allegorized
 allegorizer
 allegorizers
+allegorizes
 allegorizing
 allegory
 allegretto
@@ -4226,6 +4229,7 @@ anticks
 anticlerical
 anticlericals
 anticlimactical
+anticlimaxes
 anticlinal
 anticlines
 anticlockwise
@@ -9784,6 +9788,7 @@ benzophenone
 benzophenones
 benzoyl
 benzoyls
+benzyl
 benzyls
 bepaint
 bepaints
@@ -11422,6 +11427,7 @@ blithesome
 blithesomely
 blitzed
 blitzer
+blitzers
 blitzes
 blitzing
 blizzard
@@ -21990,6 +21996,7 @@ condign
 condignly
 condiment
 condimental
+condiments
 condition
 conditionable
 conditional
@@ -22801,6 +22808,7 @@ contiguously
 contiguousness
 continence
 continences
+continent
 continentally
 continentals
 continently
@@ -28052,6 +28060,7 @@ degreasing
 degree
 degreed
 degrees
+degringolade
 degummed
 degumming
 degust
@@ -31181,6 +31190,7 @@ disgracers
 disgraces
 disgracing
 disgruntle
+disgruntled
 disgruntlement
 disgruntlements
 disgruntles
@@ -38340,6 +38350,7 @@ exhaust
 exhausted
 exhauster
 exhausters
+exhaustibility
 exhaustible
 exhausting
 exhaustion
@@ -42114,6 +42125,7 @@ fluorinate
 fluorinated
 fluorinates
 fluorinating
+fluorinations
 fluorine
 fluorines
 fluorins
@@ -42507,6 +42519,7 @@ footlockers
 footman
 footmark
 footmarks
+footnote
 footnoted
 footnotes
 footpaces
@@ -44698,6 +44711,7 @@ gammas
 gammer
 gammier
 gammiest
+gammoned
 gammoner
 gammoners
 gammons
@@ -45295,6 +45309,7 @@ genealogy
 genera
 generable
 general
+generalcies
 generalisations
 generalise
 generalising
@@ -52023,6 +52038,7 @@ hosing
 hospice
 hospices
 hospitable
+hospital
 hospitalise
 hospitalised
 hospitalises
@@ -52545,6 +52561,7 @@ husbands
 hush
 hushaby
 hushed
+hushes
 hushful
 hushpuppies
 hushpuppy
@@ -54022,6 +54039,7 @@ impellors
 impels
 impend
 impended
+impendent
 impends
 impenetrable
 impenetrably
@@ -57018,6 +57036,7 @@ intolerable
 intolerableness
 intolerably
 intolerances
+intolerant
 intolerantly
 intolerantness
 intomb
@@ -67403,6 +67422,7 @@ microplankton
 micropore
 micropores
 microporosities
+microporosity
 microprism
 microprobes
 microprocessor
@@ -76466,6 +76486,7 @@ outblaze
 outblazed
 outblazes
 outbleating
+outbleats
 outbless
 outblesses
 outblessing
@@ -83031,6 +83052,7 @@ piggybacking
 piggybacks
 pigheaded
 pigheadedly
+pigheadednesses
 piglet
 piglike
 pigmentary
@@ -86513,6 +86535,7 @@ premade
 preman
 premanufactured
 premanufactures
+premaritally
 premarketed
 premarkets
 premarriage
@@ -87544,6 +87567,7 @@ proctodaea
 proctodaeum
 proctodaeums
 proctodea
+proctodeum
 proctodeums
 proctologies
 proctologist
@@ -88051,6 +88075,7 @@ propositioned
 propositioning
 propositions
 propound
+propounded
 propounders
 propounding
 propoxyphene
@@ -88582,6 +88607,7 @@ pseudocoel
 pseudocyeses
 pseudocyesis
 pseudomonad
+pseudomonades
 pseudomonads
 pseudomorph
 pseudomorphic
@@ -90172,6 +90198,7 @@ rabatos
 rabats
 rabbet
 rabbeted
+rabbets
 rabbi
 rabbin
 rabbinate
@@ -95122,6 +95149,7 @@ respring
 resprings
 resprout
 resprouted
+resprouts
 resprung
 ressentiments
 rest
@@ -95735,6 +95763,7 @@ revelatory
 reveled
 reveler
 revelled
+reveller
 revellers
 revelling
 revelments
@@ -101279,6 +101308,7 @@ severalfold
 severally
 severances
 severe
+severely
 severenesses
 severer
 severest
@@ -101888,6 +101918,7 @@ shiksas
 shikse
 shikseh
 shikses
+shilingi
 shill
 shillala
 shillalah
@@ -110927,6 +110958,7 @@ surrealist
 surrealistic
 surreally
 surrebutter
+surrebutters
 surrejoinder
 surrender
 surrendering
@@ -111286,6 +111318,7 @@ swiftlet
 swiftness
 swifts
 swigger
+swiggers
 swigging
 swigs
 swill
@@ -112258,6 +112291,7 @@ tallymen
 talmudic
 talmudism
 talmudisms
+talon
 taloned
 talons
 talooka
@@ -116699,6 +116733,7 @@ trenchancy
 trenchantly
 trenched
 trencher
+trencherman
 trenchermen
 trenchers
 trenches
@@ -116854,6 +116889,7 @@ trices
 trichiases
 trichiasis
 trichina
+trichinae
 trichinal
 trichinas
 trichinized
@@ -117051,6 +117087,7 @@ trilobate
 trilobed
 trilobite
 trilobites
+trilogies
 trilogy
 trim
 trimaran
@@ -122715,6 +122752,7 @@ veligers
 velites
 velleities
 velleity
+vellicate
 vellicates
 vellum
 vellums
@@ -126067,6 +126105,7 @@ wingdings
 winged
 wingedly
 wingers
+wingier
 wingless
 winglessness
 winglessnesses
