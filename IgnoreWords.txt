@@ -429,6 +429,7 @@ accoutrements
 accoutres
 accredit
 accreditable
+accreditation
 accredited
 accrediting
 accrete
@@ -3587,6 +3588,7 @@ ancylostomiases
 ancylostomiasis
 andalusites
 andante
+andantini
 andantino
 andantinos
 andesites
@@ -6814,6 +6816,7 @@ augmenter
 augmenting
 augmentor
 augmentors
+augments
 augural
 augurer
 auguries
@@ -19300,6 +19303,7 @@ citification
 citifications
 citified
 citifies
+citify
 citing
 citizen
 citizenly
@@ -20520,6 +20524,7 @@ codlins
 codominant
 codominants
 codon
+codpiece
 codpieces
 codrive
 codriven
@@ -21084,6 +21089,7 @@ colonising
 colonist
 colonists
 colonitis
+colonizations
 colonize
 colonized
 colonizer
@@ -33303,6 +33309,7 @@ drier
 driest
 drift
 driftage
+driftages
 drifted
 drifter
 drifters
@@ -33885,6 +33892,7 @@ duramen
 duramens
 durances
 duration
+durations
 duratives
 durbars
 dure
@@ -42015,6 +42023,7 @@ floc
 flocced
 flocci
 floccing
+flocculant
 flocculants
 flocculate
 flocculates
@@ -46085,6 +46094,7 @@ gin
 gingal
 gingalls
 gingals
+gingeley
 gingeli
 gingelli
 gingellies
@@ -50847,6 +50857,7 @@ heroisms
 heroize
 heroizes
 heroizing
+heron
 heronries
 heronry
 herons
@@ -51388,6 +51399,7 @@ hittable
 hitter
 hitters
 hive
+hived
 hiveless
 hiving
 hizzoner
@@ -55666,6 +55678,7 @@ infelicitously
 infeoffed
 infeoffing
 infeoffs
+inferable
 inferably
 inferences
 inferential
@@ -56857,6 +56870,7 @@ interindividual
 interindustry
 interinfluences
 interinvolve
+interior
 interiorise
 interiorised
 interiorising
@@ -58832,6 +58846,7 @@ jinrikshas
 jins
 jinx
 jinxed
+jinxing
 jipijapa
 jism
 jitneys
@@ -59029,6 +59044,7 @@ journalist
 journalistic
 journalists
 journalize
+journalizes
 journalizing
 journals
 journey
@@ -63013,6 +63029,7 @@ liquifies
 liquify
 liquored
 liquorice
+liquorices
 liquoring
 lira
 liras
@@ -67853,6 +67870,7 @@ midriffs
 midsagittal
 midsection
 midship
+midshipman
 midshipmen
 midships
 midsize
@@ -72299,6 +72317,7 @@ nellie
 nellies
 nelly
 nelson
+nelsons
 nelumbium
 nelumbo
 nelumbos
@@ -80777,6 +80796,7 @@ patios
 patisserie
 patisseries
 patissier
+patissiers
 patness
 patnesses
 patois
@@ -82134,6 +82154,7 @@ persnicketiness
 persnickety
 person
 persona
+personable
 personableness
 personages
 personalise
@@ -83463,6 +83484,7 @@ pilferer
 pilferers
 pilfering
 pilferproof
+pilfers
 pilgarlic
 pilgarlics
 pilgrim
@@ -86858,6 +86880,7 @@ prelaunching
 prelect
 prelecting
 prelection
+prelections
 prelector
 prelects
 prelibation
@@ -91700,6 +91723,7 @@ reappraising
 reappropriated
 reappropriates
 reappropriating
+reapprove
 reapproved
 reapproving
 reaps
@@ -96090,6 +96114,7 @@ reunites
 reupholstered
 reupholstering
 reupholsters
+reuptake
 reuptakes
 reusabilities
 reusability
@@ -96501,6 +96526,7 @@ rheumatically
 rheumatics
 rheumatism
 rheumatiz
+rheumatologists
 rheumatology
 rheumier
 rheumiest
@@ -96962,6 +96988,7 @@ ripener
 ripeners
 ripenesses
 ripening
+ripens
 riper
 ripes
 ripest
@@ -98659,6 +98686,7 @@ sambal
 sambals
 sambar
 sambars
+sambas
 sambhar
 sambhars
 sambhur
@@ -101065,6 +101093,7 @@ semidetached
 semidiameter
 semidiameters
 semidiurnal
+semidivine
 semidome
 semidomes
 semidrying
@@ -102306,6 +102335,7 @@ shielings
 shiels
 shier
 shiers
+shies
 shiftable
 shifted
 shifters
@@ -105469,6 +105499,7 @@ solicitousness
 solicits
 solicitude
 solicitudes
+solid
 solidago
 solidagos
 solidarism
@@ -117478,6 +117509,7 @@ trifacial
 trifacials
 trifecta
 trifectas
+trifle
 trifled
 trifler
 triflers
@@ -119243,6 +119275,7 @@ unaidedly
 unaimed
 unaired
 unais
+unakites
 unalarmed
 unalerted
 unalienated
@@ -125858,6 +125891,7 @@ whack
 whacked
 whacker
 whackers
+whackiest
 whacko
 whacks
 whale
@@ -128429,6 +128463,7 @@ zygose
 zygoses
 zygosis
 zygosities
+zygosity
 zygospores
 zygote
 zygotene
