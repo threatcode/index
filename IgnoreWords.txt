@@ -170,6 +170,7 @@ abstrict
 abstricted
 abstricting
 abstricts
+abstruse
 abstruseness
 abstrusenesses
 abstrusest
@@ -2046,6 +2047,7 @@ airheads
 airhole
 airholes
 airier
+airiness
 airinesses
 airing
 airings
@@ -3403,6 +3405,7 @@ analectic
 analects
 analemma
 analemmata
+analeptic
 analeptics
 analgesias
 analgesics
@@ -3940,6 +3943,7 @@ annularly
 annulated
 annulation
 annulet
+annulets
 annuli
 annulment
 annulments
@@ -4335,6 +4339,7 @@ antigenically
 antigenicities
 antigenicity
 antigens
+antiglare
 antiglobulin
 antiglobulins
 antigovernment
@@ -6231,6 +6236,7 @@ assimilable
 assimilated
 assimilates
 assimilating
+assimilationism
 assimilationist
 assimilations
 assimilative
@@ -11103,6 +11109,7 @@ blackbirding
 blackbirds
 blackboard
 blackboards
+blackbody
 blackboy
 blackboys
 blackbuck
@@ -11208,8 +11215,10 @@ blander
 blandish
 blandished
 blandisher
+blandishments
 blandly
 blandness
+blandnesses
 blank
 blanked
 blanket
@@ -19596,6 +19605,7 @@ claypans
 claystone
 claystones
 claytonia
+claytonias
 clayware
 claywares
 cleanability
@@ -19634,6 +19644,7 @@ clearinghouses
 clearings
 clearly
 clearness
+clearnesses
 clears
 clearstories
 clearstory
@@ -21969,6 +21980,7 @@ concoction
 concoctor
 concoctors
 concocts
+concomitance
 concomitances
 concomitant
 concomitantly
@@ -22299,6 +22311,7 @@ congeal
 congealed
 congealer
 congealers
+congealing
 congealment
 congeals
 congee
@@ -48795,6 +48808,7 @@ hackmatack
 hackmatacks
 hackmen
 hackney
+hackneyed
 hacks
 hacksaw
 hacksawed
@@ -48887,6 +48901,7 @@ hagridden
 hagride
 hagriders
 hagrides
+hagriding
 hagrode
 hags
 hah
@@ -52603,6 +52618,7 @@ hundreds
 hundredth
 hundredweight
 hundredweights
+hung
 hungered
 hungering
 hungover
@@ -63638,6 +63654,7 @@ looted
 looter
 looters
 looting
+loots
 lop
 lope
 loped
@@ -65253,6 +65270,7 @@ manlily
 manliness
 manlinesses
 manly
+manmade
 mannan
 mannas
 manned
@@ -67447,6 +67465,7 @@ microcassette
 microcephalic
 microcephalies
 microcephaly
+microchip
 microchips
 microcircuit
 microcircuitry
@@ -73188,6 +73207,7 @@ nonathletic
 nonatomic
 nonattachment
 nonattendances
+nonattender
 nonattenders
 nonauthor
 nonautomated
@@ -75220,6 +75240,7 @@ octette
 octettes
 octillion
 octillions
+octodecillion
 octodecillions
 octogenarians
 octonaries
@@ -82712,6 +82733,7 @@ photog
 photogene
 photogeologic
 photogeological
+photogeologies
 photogeologist
 photogeologists
 photogrammetric
@@ -90546,6 +90568,7 @@ radians
 radiant
 radiantly
 radiately
+radiating
 radiation
 radiational
 radiative
@@ -98186,6 +98209,7 @@ sages
 saggard
 saggards
 saggaring
+saggars
 sagged
 sagger
 saggered
@@ -98421,6 +98445,7 @@ saltires
 saltish
 saltless
 saltlike
+saltness
 saltpan
 saltpans
 saltpeter
@@ -102903,6 +102928,7 @@ sidh
 sidhe
 siding
 sidings
+sidle
 sidled
 sidler
 sidling
@@ -103362,6 +103388,7 @@ siping
 sipped
 sipper
 sippet
+sippets
 sipping
 sips
 sir
@@ -105240,6 +105267,7 @@ soldiership
 soldierships
 soldiery
 solecised
+solecises
 solecising
 solecism
 solecisms
@@ -106229,6 +106257,7 @@ spectrum
 spectrums
 specula
 specularities
+specularly
 speculate
 speculated
 speculates
@@ -107287,6 +107316,7 @@ sradha
 sradhas
 sri
 sris
+stab
 stabbed
 stabbers
 stabiles
@@ -108730,6 +108760,7 @@ strawberry
 strawed
 strawflower
 strawhat
+strawier
 strawing
 straws
 strawworm
@@ -109100,6 +109131,7 @@ studliest
 studly
 studworks
 study
+studying
 stuff
 stuffer
 stuffers
@@ -119585,6 +119617,7 @@ uncontaminated
 uncontemporary
 uncontentious
 uncontracted
+uncontradicted
 uncontrollable
 uncontrollably
 uncontrolled
@@ -121927,6 +121960,7 @@ upflows
 upflung
 upfold
 upfolded
+upfolds
 upgather
 upgathering
 upgaze
@@ -125561,6 +125595,7 @@ welshes
 welshing
 welt
 weltanschauung
+weltanschauungs
 welted
 welter
 weltered
