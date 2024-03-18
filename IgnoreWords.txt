@@ -2627,6 +2627,7 @@ allotypically
 allotypies
 allotypy
 allover
+allowables
 allowably
 allowance
 allowances
@@ -5814,6 +5815,7 @@ artemisia
 artemisias
 arterial
 arterials
+arteriogram
 arteriograms
 arteriographic
 arteriography
@@ -24955,6 +24957,7 @@ cretins
 cretonne
 cretonnes
 crevalle
+crevalles
 crevasse
 crevasses
 crevassing
@@ -29308,10 +29311,12 @@ desultoriness
 desultorinesses
 desultory
 detach
+detachability
 detachably
 detached
 detachedly
 detachedness
+detachednesses
 detachers
 detaching
 detachments
@@ -31685,6 +31690,7 @@ dissolver
 dissonance
 dissonances
 dissonant
+dissonantly
 dissuader
 dissuaders
 dissuading
@@ -35522,6 +35528,7 @@ encephalography
 encephalon
 encephalopathic
 encephalopathy
+enchain
 enchained
 enchaining
 enchainment
@@ -38248,6 +38255,7 @@ exemplarity
 exemplars
 exemplary
 exemplified
+exemplifying
 exemplum
 exempt
 exempted
@@ -41187,6 +41195,7 @@ fistulate
 fistulous
 fitch
 fitchee
+fitches
 fitchet
 fitchets
 fitchew
@@ -46397,6 +46406,7 @@ gluily
 gluiness
 gluinesses
 glume
+glumness
 glumnesses
 glumpier
 glumpiest
@@ -54924,6 +54934,7 @@ indeterminism
 indeterminisms
 indeterminist
 indeterminists
+indevout
 index
 indexable
 indexation
@@ -58770,6 +58781,7 @@ judder
 juddered
 juddering
 judders
+judge
 judged
 judgement
 judgements
@@ -58937,6 +58949,7 @@ jurisprudential
 jurisprudents
 jurist
 juristic
+juristically
 jurists
 juror
 jurors
@@ -69073,6 +69086,7 @@ modernisations
 modernise
 modernised
 modernises
+modernising
 modernisms
 modernist
 modernists
@@ -69105,6 +69119,7 @@ modify
 modifying
 modioli
 modishly
+modishness
 modishnesses
 modiste
 mods
@@ -70058,6 +70073,7 @@ motionless
 motionlessness
 motivate
 motivates
+motivating
 motivational
 motivationally
 motivations
@@ -76688,6 +76704,7 @@ outgoingnesses
 outgoings
 outgone
 outgrew
+outgrin
 outgrins
 outgross
 outgrossed
@@ -78564,6 +78581,7 @@ ovulary
 ovulated
 ovulates
 ovulation
+ovulations
 ovulatory
 ovule
 ovum
@@ -79988,6 +80006,7 @@ particularise
 particularised
 particularises
 particularising
+particularisms
 particularist
 particularistic
 particularities
@@ -80317,6 +80336,7 @@ patissier
 patness
 patnesses
 patois
+patootie
 patresfamilias
 patriarchal
 patriarchates
@@ -82091,6 +82111,7 @@ phenomenologist
 phenomenology
 phenomenon
 phenothiazine
+phenotypically
 phenoxide
 phenoxides
 phenoxy
@@ -85453,6 +85474,7 @@ potheads
 potheen
 potheens
 pother
+potherb
 potherbs
 pothered
 pothering
@@ -86039,6 +86061,7 @@ predeceasing
 predecessor
 prededuct
 prededucted
+prededucting
 prededucts
 predefine
 predefined
@@ -93250,6 +93273,7 @@ reinstalled
 reinstalling
 reinstalls
 reinstate
+reinstated
 reinstatements
 reinstates
 reinstating
@@ -93355,6 +93379,7 @@ rejoicer
 rejoicers
 rejoices
 rejoicing
+rejoicingly
 rejoinder
 rejoinders
 rejoined
@@ -96528,6 +96553,7 @@ rivets
 rivetted
 rivetting
 riviera
+rivieras
 riviere
 rivulets
 rivulose
@@ -97397,6 +97423,7 @@ rumpled
 rumples
 rumpless
 rumpliest
+rumpling
 rumply
 rumpus
 rumpuses
@@ -98569,6 +98596,7 @@ satisfactions
 satisfiable
 satisfice
 satisficed
+satisfices
 satisficing
 satisfied
 satisfier
@@ -104233,6 +104261,7 @@ snawing
 snaws
 snazzier
 sneaker
+sneakered
 sneakers
 sneakier
 sneakily
@@ -105231,6 +105260,7 @@ sorriness
 sorrinesses
 sorrow
 sorrower
+sorrowers
 sorrowful
 sorrowfully
 sorrowfulness
@@ -109301,6 +109331,7 @@ subrational
 subregion
 subregions
 subrent
+subreptions
 subreptitiously
 subring
 subrogate
@@ -110819,6 +110850,7 @@ survival
 survivalist
 survivalists
 survivals
+survivances
 surviver
 survivers
 survives
@@ -115307,6 +115339,7 @@ tonsured
 tonsures
 tontine
 tonus
+tony
 too
 took
 tool
@@ -123463,6 +123496,7 @@ viscousnesses
 viscus
 vise
 viseing
+viselike
 vises
 visibilities
 visible
@@ -125908,6 +125942,7 @@ wingspans
 wingspread
 wingspreads
 wingtip
+wingtips
 wingy
 winier
 winiest
