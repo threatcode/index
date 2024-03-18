@@ -1,0 +1,10 @@
+Documentation/devicetree/bindings/mtd/partition.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/devicetree/bindings/mtd/partition.txt
+partition.txt - Yocto git,https://git.yoctoproject.org/linux-yocto-4.6/plain/Documentation/devicetree/bindings/mtd/partition.txt
+cmdline-partition.txt,https://www.kernel.org/doc/Documentation/block/cmdline-partition.txt
+GLSL/extensions/nv/GL_NV_shader_subgroup_partitioned.txt at main,https://github.com/KhronosGroup/GLSL/blob/master/extensions/nv/GL_NV_shader_subgroup_partitioned.txt
+partition where LFS - Linux From Scratch!,https://www.linuxfromscratch.org/hints/downloads/files/partitioning-for-lfs.txt
+sinfo man page here - HPC @ LLNL,https://hpc.llnl.gov/sites/default/files/sinfo.txt
+partition.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/mtd/partition.txt
+Splitting The Disk With mmls - The Sleuth Kit,http://www.sleuthkit.org/informer/sleuthkit-informer-12.txt
+example-preseed.txt - Debian,https://www.debian.org/releases/bullseye/example-preseed.txt
+partitioned/PARTITIONING_EXPLAINED.txt at master - GitHub,https://github.com/fiksu/partitioned/blob/master/PARTITIONING_EXPLAINED.txt
