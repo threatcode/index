@@ -1506,6 +1506,7 @@ aethers
 aetiologies
 aetiology
 afar
+afeared
 afebrile
 aff
 affabilities
@@ -2441,6 +2442,7 @@ alkahest
 alkahestic
 alkahests
 alkali
+alkalic
 alkalies
 alkalified
 alkalifies
@@ -3345,6 +3347,7 @@ amylopsin
 amylopsins
 amylose
 amyloses
+amylum
 amyotonia
 amyotonias
 an
@@ -15462,6 +15465,7 @@ candlesnuffer
 candlestick
 candlesticks
 candlewick
+candlewicks
 candlewoods
 candling
 candors
@@ -15990,6 +15994,7 @@ carbora
 carboras
 carboxylase
 carboxylate
+carboxylated
 carboxylates
 carboxylating
 carboxylation
@@ -16924,6 +16929,7 @@ cavalletti
 cavallies
 cavalry
 cavalryman
+cavalrymen
 cavatina
 cavatinas
 cave
@@ -19010,6 +19016,7 @@ churchgoings
 churchianity
 churchiest
 churchings
+churchlier
 churchliest
 churchliness
 churchlinesses
@@ -28837,6 +28844,7 @@ denticles
 denticulations
 dentiform
 dentifrice
+dentifrices
 dentiled
 dentils
 dentinal
@@ -30220,6 +30228,7 @@ dichromatism
 dichromatisms
 dichromats
 dichromic
+dichroscope
 dichroscopes
 dicier
 dickcissel
@@ -33835,6 +33844,7 @@ dumplings
 dumpster
 dumpsters
 dumptruck
+dumptrucks
 dumpy
 dunam
 dunams
@@ -37505,6 +37515,7 @@ eschewed
 eschewer
 eschewers
 eschews
+escolar
 escolars
 escort
 escorted
@@ -53597,6 +53608,7 @@ icelike
 icemaker
 icemakers
 iceman
+ices
 ich
 ichneumons
 ichnite
@@ -54199,6 +54211,7 @@ immovablenesses
 immovably
 immune
 immunes
+immunise
 immunised
 immunises
 immunities
@@ -54315,6 +54328,7 @@ impasto
 impastoed
 impatience
 impatiens
+impavid
 impawn
 impawned
 impawning
@@ -55719,6 +55733,7 @@ infantilizing
 infantine
 infantries
 infantry
+infants
 infarct
 infarcted
 infarctions
@@ -63587,6 +63602,7 @@ loftless
 loftlike
 lofts
 lofty
+log
 logan
 loganberries
 loganberry
@@ -65834,6 +65850,7 @@ marshlands
 marshlike
 marshmallows
 marshy
+marsupia
 marsupial
 marsupials
 marsupium
@@ -66793,6 +66810,7 @@ meltingly
 melton
 meltons
 melts
+meltwaters
 melty
 membered
 members
@@ -68508,6 +68526,7 @@ mirza
 mirzas
 misact
 misacted
+misacting
 misacts
 misadapted
 misadd
@@ -77592,6 +77611,7 @@ outsails
 outsang
 outsat
 outsavor
+outsavoring
 outsavors
 outsaw
 outsays
@@ -82619,6 +82639,7 @@ pharyngitis
 pharynx
 phase
 phaseal
+phased
 phaseout
 phaseouts
 phases
@@ -94855,6 +94876,7 @@ replevins
 replevy
 replevying
 replica
+replicabilities
 replicability
 replicase
 replicases
@@ -95354,6 +95376,7 @@ resentfully
 resentfulness
 resentfulnesses
 reserpines
+reservationist
 reservationists
 reservations
 reserve
@@ -95622,6 +95645,7 @@ respirations
 respirators
 respiratory
 respired
+respiring
 respiritualized
 respiritualizes
 respirometric
@@ -100899,6 +100923,7 @@ sedulously
 sedulousness
 sedum
 sedums
+see
 seeable
 seecatch
 seecatchie
@@ -101084,6 +101109,7 @@ selenide
 selenides
 selenious
 selenite
+selenocentric
 selenological
 selenologies
 selenologist
@@ -101400,6 +101426,7 @@ sensationalised
 sensationalises
 sensationalism
 sensationalists
+sensationalize
 sensationalized
 sensations
 sensed
@@ -101831,6 +101858,7 @@ setiform
 setline
 setlines
 setoff
+seton
 setout
 sets
 setscrews
@@ -104007,6 +104035,7 @@ skirr
 skirred
 skirret
 skirted
+skirters
 skirting
 skirtless
 skirts
@@ -106586,6 +106615,7 @@ speedinesses
 speeding
 speedings
 speedometer
+speedometers
 speedos
 speedread
 speedreading
@@ -113793,6 +113823,7 @@ teleutospore
 televangelism
 televangelisms
 televangelist
+televangelists
 teleview
 televiewed
 televiewer
@@ -116427,6 +116458,7 @@ totalise
 totalising
 totalism
 totalisms
+totalistic
 totalitarianism
 totalitarianize
 totalitarians
@@ -119748,6 +119780,7 @@ unchanneled
 unchaperoned
 uncharge
 uncharged
+uncharges
 uncharging
 uncharismatic
 uncharitable
@@ -120193,6 +120226,7 @@ underheat
 underheats
 underhung
 underinflated
+underinflation
 underinflations
 underinsured
 underjaw
@@ -124370,6 +124404,7 @@ visitation
 visitations
 visitatorial
 visited
+visiter
 visiters
 visiting
 visits
