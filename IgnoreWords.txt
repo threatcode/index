@@ -976,6 +976,7 @@ adeptly
 adeptness
 adeptnesses
 adepts
+adequacy
 adequate
 adequately
 adequatenesses
@@ -3310,6 +3311,7 @@ amtrac
 amtrack
 amtracks
 amtracs
+amuck
 amucks
 amulet
 amulets
@@ -7169,6 +7171,7 @@ autumns
 autunites
 auxeses
 auxesis
+auxiliaries
 auxin
 auxinic
 auxotroph
@@ -8265,6 +8268,7 @@ bankrolling
 bankrolls
 bankrupt
 bankruptcies
+bankruptcy
 bankrupting
 bankrupts
 banks
@@ -10815,6 +10819,7 @@ bionomy
 biont
 biontic
 biophilias
+biophysical
 biophysicists
 biopic
 biopics
@@ -12576,6 +12581,7 @@ botcher
 botcheries
 botchers
 botchery
+botches
 botchy
 botel
 botflies
@@ -13503,6 +13509,7 @@ broadbill
 broadbills
 broadcaster
 broadcasters
+broadcasting
 broadcasts
 broadcloth
 broadcloths
@@ -14884,6 +14891,7 @@ cadelle
 cadence
 cadences
 cadencies
+cadencing
 cadency
 cadent
 cadenza
@@ -16893,6 +16901,7 @@ caulicle
 caulicles
 cauliflower
 caulifloweret
+cauliflowers
 cauline
 caulis
 caulk
@@ -17229,6 +17238,7 @@ centiliter
 centillion
 centillions
 centimes
+centimeter
 centimeters
 centimo
 centimorgans
@@ -18130,6 +18140,7 @@ chemiosmotic
 chemise
 chemises
 chemisettes
+chemism
 chemisorbed
 chemisorbing
 chemisorption
@@ -18439,6 +18450,7 @@ chinless
 chinned
 chinning
 chinoiseries
+chinone
 chinones
 chinook
 chinooks
@@ -26244,6 +26256,7 @@ cuspidal
 cuspidate
 cuspidation
 cuspidations
+cuspidors
 cuspids
 cuspis
 cusps
@@ -27835,6 +27848,7 @@ decrement
 decrements
 decrepit
 decrepitated
+decrepitates
 decrepitating
 decrepitations
 decrepitly
@@ -28016,6 +28030,7 @@ defenestrates
 defenestration
 defenestrations
 defense
+defensed
 defenseless
 defensemen
 defenses
@@ -42981,6 +42996,7 @@ foredeck
 foredecks
 foredo
 foredoes
+foredone
 foredoomed
 forefaces
 forefeeling
@@ -47083,6 +47099,7 @@ goitrogen
 goitrogenic
 goitrogens
 goitrous
+gold
 goldarn
 goldarns
 goldbrick
@@ -51394,6 +51411,7 @@ hinges
 hinging
 hinkier
 hinkiest
+hinky
 hinnied
 hinny
 hinnying
@@ -53923,6 +53941,7 @@ ignored
 ignorer
 ignorers
 ignores
+ignoring
 iguana
 iguanas
 iguanians
@@ -56383,6 +56402,7 @@ inpouring
 inpours
 input
 inputted
+inputter
 inputting
 inquiet
 inquieted
@@ -58954,6 +58974,7 @@ jiffy
 jigged
 jigger
 jiggered
+jiggering
 jiggier
 jiggiest
 jigging
@@ -63937,6 +63958,7 @@ loosened
 loosener
 looseners
 looseness
+looser
 looses
 loosestrife
 loosestrifes
@@ -66701,6 +66723,7 @@ megaflop
 megaflops
 megagametes
 megagametophyte
+megahertz
 megahertzes
 megahit
 megahits
@@ -72758,6 +72781,7 @@ networker
 networkings
 neuk
 neuks
+neum
 neumes
 neumic
 neums
@@ -84124,6 +84148,7 @@ pistolled
 pistolling
 pistols
 piston
+pistons
 pistou
 pistous
 pit
@@ -84387,6 +84412,7 @@ planked
 planking
 planks
 planktonic
+planless
 planlessly
 planlessness
 planlessnesses
@@ -88378,6 +88404,7 @@ progressed
 progressing
 progression
 progressional
+progressions
 progressiveness
 progressives
 progressivism
@@ -94646,6 +94673,7 @@ renaissance
 renaissances
 renal
 rename
+renames
 renaming
 renascences
 renascent
@@ -99033,6 +99061,7 @@ sandarac
 sandaracs
 sandbagged
 sandbagger
+sandbaggers
 sandbags
 sandbank
 sandbanks
@@ -99665,6 +99694,7 @@ scabiouses
 scablands
 scablike
 scabrous
+scabrously
 scabrousness
 scabrousnesses
 scabs
@@ -109788,6 +109818,7 @@ subacidnesses
 subacrid
 subacute
 subadar
+subadars
 subadolescent
 subadults
 subaerial
@@ -110984,6 +111015,7 @@ sunbirds
 sunblock
 sunblocks
 sunbow
+sunbows
 sunburn
 sunburned
 sunburning
@@ -116559,6 +116591,7 @@ torridly
 torridness
 torridnesses
 torrified
+torrifying
 torsades
 torse
 torsion
@@ -120502,6 +120535,7 @@ understandable
 understanding
 understandingly
 understandings
+understands
 understate
 understated
 understatement
@@ -127438,6 +127472,7 @@ woodiness
 woodinesses
 wooding
 woodland
+woodlander
 woodlanders
 woodlands
 woodlark
