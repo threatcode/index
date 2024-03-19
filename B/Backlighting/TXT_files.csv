@@ -28,3 +28,12 @@ https://p25ext.lanl.gov/seminar_files/sinars_abstr...,https://p25ext.lanl.gov/se
 indexcodes.txt,https://oa.upm.es/7158/4/indexcodes.txt
 https://www.landscapeforms.com/Enlighten-Files/4-2...,https://www.landscapeforms.com/Enlighten-Files/4-2/Hatton.txt
 powerbook-tips.txt - FTP archive directory /,http://ftp.vim.org/pub/ftp/ftp/infomac/info/hdwr/powerbook-tips.txt
+led-backlight.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/backlight/led-backlight.txt
+gpio-backlight.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/leds/backlight/gpio-backlight.txt
+Documentation/devicetree/bindings/video/backlight/gpio-backlight.txt,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/video/backlight/gpio-backlight.txt
+pwm-backlight.txt - Documentation/devicetree/bindings/leds ...,https://elixir.bootlin.com/linux/v4.4/source/Documentation/devicetree/bindings/leds/backlight/pwm-backlight.txt
+ti-lmu-backlight.txt - bindings « devicetree « - Git,https://git.ti.com/cgit/mlp-open-source/kernel/tree/Documentation/devicetree/bindings/video/backlight/ti-lmu-backlight.txt%3Fh%3Dti-lmu
+Documentation/devicetree/bindings/pwm/pwm.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-wear-5.1.1_r0.6/Documentation/devicetree/bindings/pwm/pwm.txt
+tps65217-backlight.txt - balena-os/kitra710-kernel - GitHub,https://github.com/balena-os/kitra710-kernel/blob/master/Documentation/devicetree/bindings/video/backlight/tps65217-backlight.txt
+keyboard-backlight/CMakeLists.txt at master - alexmohr - GitHub,https://github.com/alexmohr/keyboard-backlight/blob/master/CMakeLists.txt
+Linux Kernel Documentation / devicetree / bindings / leds / backlight ...,https://mjmwired.net/kernel/Documentation/devicetree/bindings/leds/backlight/max8925-backlight.txt
