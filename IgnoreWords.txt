@@ -4148,6 +4148,7 @@ anther
 antheridia
 antheridial
 antherids
+anthers
 antheses
 anthesis
 anthill
@@ -8876,6 +8877,7 @@ battlemented
 battlements
 battler
 battlers
+battles
 battleship
 battleships
 battlewagon
@@ -13382,6 +13384,7 @@ bridegrooms
 bridesmaids
 bridewells
 bridge
+bridgeable
 bridged
 bridgeless
 bridges
@@ -18029,6 +18032,7 @@ chay
 chayote
 chays
 chazanim
+chazzan
 chazzans
 chazzen
 chazzenim
@@ -24058,6 +24062,7 @@ cosigner
 cosigning
 cosine
 cosiness
+cosinesses
 cosmetic
 cosmetically
 cosmeticians
@@ -33973,6 +33978,7 @@ dumpinesses
 dumping
 dumpish
 dumplings
+dumpsite
 dumpster
 dumpsters
 dumptruck
@@ -39902,6 +39908,7 @@ falters
 fame
 famed
 familial
+familiar
 familiarise
 familiarised
 familiarising
@@ -40999,6 +41006,7 @@ fiberizes
 fiberizing
 fiberless
 fiberlike
+fibers
 fiberscope
 fiberscopes
 fibrannes
@@ -41905,6 +41913,7 @@ flashier
 flashiest
 flashily
 flashiness
+flashing
 flashings
 flashlight
 flashover
@@ -43021,6 +43030,7 @@ forays
 forb
 forbade
 forbare
+forbearance
 forbearances
 forbearer
 forbid
@@ -45464,6 +45474,7 @@ gastronomy
 gastropods
 gastroscope
 gastroscopies
+gastroscopist
 gastroscopy
 gastrotrich
 gastrotrichs
@@ -49730,6 +49741,7 @@ hangup
 hangups
 haniwa
 hanked
+hanker
 hankered
 hankerer
 hankerers
@@ -50582,6 +50594,7 @@ heelpieces
 heelplate
 heelplates
 heelpost
+heeltaps
 heezes
 heezing
 heft
@@ -52615,6 +52628,7 @@ hotched
 hotches
 hotching
 hotchpot
+hotchpotch
 hotchpotches
 hotchpots
 hotdog
@@ -52833,6 +52847,7 @@ hugenesses
 hugeous
 hugeously
 huger
+hugest
 huggable
 hugged
 huggers
@@ -55518,6 +55533,7 @@ indefensible
 indefensibly
 indefinability
 indefinable
+indefinableness
 indefinables
 indefinably
 indefinite
@@ -56051,6 +56067,7 @@ infiniteness
 infinites
 infinitesimal
 infinitesimally
+infinitesimals
 infinities
 infinitive
 infinitively
@@ -58870,6 +58887,7 @@ jasperwares
 jaspery
 jaspilite
 jaspilites
+jassid
 jato
 jatos
 jauk
@@ -60369,6 +60387,7 @@ kilomoles
 kiloparsec
 kilopascal
 kilopascals
+kilorad
 kilotons
 kilovolt
 kilovolts
@@ -62402,6 +62421,7 @@ lemongrasses
 lemonlike
 lemons
 lemony
+lempira
 lempiras
 lemur
 lemures
@@ -63042,6 +63062,7 @@ lilliputs
 lilos
 lilt
 lilted
+lilting
 liltingness
 lilts
 lilylike
@@ -64375,6 +64396,7 @@ lowse
 lox
 loxes
 loxodrome
+loxodromes
 loyalest
 loyalism
 loyalist
@@ -66774,6 +66796,7 @@ mediational
 mediations
 mediatize
 mediatized
+mediatizes
 mediatizing
 mediatory
 mediatrices
@@ -68620,6 +68643,7 @@ mineralizes
 mineralizing
 mineralogic
 mineralogist
+mineralogists
 mineralogy
 minerals
 mines
@@ -70205,6 +70229,7 @@ monitorial
 monitories
 monitoring
 monitors
+monitorships
 monkeries
 monkery
 monkeying
@@ -72357,6 +72382,7 @@ nationalize
 nationalized
 nationalizer
 nationalizes
+nationalizing
 nationally
 nationals
 nationhood
@@ -76015,6 +76041,7 @@ ohia
 ohing
 ohmage
 ohmages
+ohmic
 ohmically
 ohmmeter
 ohmmeters
@@ -80631,6 +80658,7 @@ parasoled
 parasols
 parasynthesis
 paratactic
+paratactical
 paratactically
 parataxes
 parataxis
@@ -92650,6 +92678,7 @@ reciprocities
 recircle
 recircled
 recirculate
+recirculated
 recirculating
 recirculation
 recisions
@@ -95995,6 +96024,7 @@ resorptive
 resort
 resorter
 resorters
+resorting
 resorts
 resought
 resounded
@@ -108167,6 +108197,7 @@ staggarts
 stagged
 stagger
 staggerbush
+staggerbushes
 staggered
 staggerers
 staggeringly
@@ -109914,6 +109945,7 @@ studworks
 study
 studying
 stuff
+stuffed
 stuffer
 stuffers
 stuffier
@@ -115294,6 +115326,7 @@ thesp
 thespian
 thesps
 theta
+thetas
 thetical
 thetically
 theurgic
@@ -116085,6 +116118,7 @@ tin
 tinamou
 tinamous
 tincal
+tincals
 tincting
 tinctorial
 tinctorially
@@ -122941,6 +122975,7 @@ uprate
 uprating
 upreach
 upreached
+upreaching
 uprear
 upreared
 uprearing
