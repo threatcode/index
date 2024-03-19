@@ -3601,6 +3601,7 @@ ancientest
 ancientries
 ancients
 ancilla
+ancillae
 ancillaries
 ancillary
 ancillas
@@ -6575,6 +6576,7 @@ atomic
 atomical
 atomicities
 atomics
+atomies
 atomises
 atomising
 atomism
@@ -11527,6 +11529,7 @@ blinks
 blintz
 blintzes
 blip
+blipped
 blipping
 bliss
 blissed
@@ -14759,6 +14762,7 @@ byname
 bypass
 bypassed
 bypasses
+bypassing
 bypath
 bypaths
 byplay
@@ -18973,6 +18977,7 @@ chromyl
 chromyls
 chronicities
 chronicity
+chronicle
 chronicled
 chroniclers
 chronicles
@@ -20581,6 +20586,7 @@ codder
 coddled
 coddler
 coddlers
+coddles
 coddling
 codebooks
 codebtor
@@ -20670,6 +20676,7 @@ coeditors
 coedits
 coeds
 coeducational
+coeducationally
 coeffect
 coefficient
 coefficients
@@ -20897,6 +20904,7 @@ coiffing
 coiffured
 coiffures
 coiffuring
+coifing
 coifs
 coign
 coigne
@@ -22000,6 +22008,7 @@ concaved
 concavely
 concavities
 concavity
+conceal
 concealable
 concealed
 concealer
@@ -25547,6 +25556,7 @@ crossjack
 crossjacks
 crosslet
 crosslets
+crosslinguistic
 crossly
 crossness
 crossopterygian
@@ -33249,6 +33259,7 @@ drabnesses
 drabs
 dracaenas
 dracenas
+drachma
 drachmae
 drachmas
 draconian
@@ -43005,6 +43016,7 @@ footwall
 footwalls
 footways
 footwork
+footworks
 footworn
 footy
 foozle
@@ -52100,6 +52112,7 @@ hominized
 hominizes
 hominoid
 hominoids
+hominy
 hommoses
 homocercies
 homocercy
@@ -62222,6 +62235,7 @@ lechayim
 leched
 lechered
 lechering
+lecherous
 lecherously
 lecherousnesses
 lechers
@@ -64879,6 +64893,7 @@ lysogenize
 lysogenizes
 lysogeny
 lysolecithin
+lysolecithins
 lysosomal
 lysosome
 lysozyme
@@ -69704,6 +69719,7 @@ mistranslation
 mistreat
 mistreated
 mistreatment
+mistreatments
 mistreats
 mistresses
 mistrial
@@ -72986,6 +73002,7 @@ netsuke
 netsukes
 nettable
 netted
+netter
 netters
 nettiest
 nettings
@@ -74714,6 +74731,7 @@ nonthreatening
 nontitle
 nontonal
 nontonic
+nontoxic
 nontraditional
 nontragic
 nontransferable
@@ -79160,6 +79178,7 @@ overroasting
 overrude
 overruff
 overruffed
+overruffing
 overruffs
 overrule
 overruling
@@ -84854,6 +84873,7 @@ playboys
 playdate
 playdates
 playday
+playdays
 playdown
 player
 players
@@ -86398,6 +86418,7 @@ postposing
 postposition
 postpositional
 postpositive
+postprandial
 postprimary
 postprison
 postproductions
@@ -87982,6 +88003,7 @@ pretermits
 pretermitted
 pretermitting
 preterms
+preternatural
 preternaturally
 pretest
 pretested
@@ -95620,6 +95642,7 @@ requiems
 requiescat
 requiescats
 requin
+requins
 required
 requirement
 requirers
@@ -103566,6 +103589,7 @@ shutoffs
 shutout
 shutouts
 shutter
+shutterbug
 shutterbugs
 shuttering
 shutterless
@@ -103643,6 +103667,7 @@ sickens
 sickerly
 sickest
 sickies
+sicking
 sickish
 sickishness
 sickishnesses
@@ -105987,6 +106012,7 @@ softa
 softas
 softback
 softbacks
+softball
 softballer
 softballers
 softballs
@@ -108435,6 +108461,7 @@ starchily
 starchiness
 starching
 starchy
+stardoms
 stare
 stared
 starers
@@ -115356,6 +115383,7 @@ theses
 thesis
 thesp
 thespian
+thespians
 thesps
 theta
 thetas
@@ -117275,6 +117303,7 @@ tracksides
 tracksuits
 trackwalker
 trackwalkers
+trackway
 tract
 tractabilities
 tractability
@@ -118139,6 +118168,7 @@ trichromatism
 trichromatisms
 trichromats
 tricing
+trick
 tricked
 tricker
 trickeries
@@ -118880,6 +118910,7 @@ tsktsked
 tsktsking
 tsooris
 tsores
+tsouris
 tsuba
 tsunami
 tsunamic
@@ -125752,6 +125783,7 @@ wamblier
 wambliest
 wamefou
 wameful
+wamefuls
 wames
 wampish
 wampishes
@@ -125952,6 +125984,7 @@ wary
 was
 wasabis
 wash
+washabilities
 washability
 washable
 washables
@@ -126048,6 +126081,7 @@ watchers
 watcheye
 watcheyes
 watchfully
+watchfulnesses
 watching
 watchmaker
 watchmakers
@@ -126423,6 +126457,7 @@ weekdays
 weekend
 weekended
 weekenders
+weekending
 weekends
 weekly
 weeknight
