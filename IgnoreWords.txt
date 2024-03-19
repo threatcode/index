@@ -3278,6 +3278,7 @@ amplexuses
 amplification
 amplifications
 amplifier
+amplify
 amplifying
 amplitude
 amplitudes
@@ -11440,6 +11441,7 @@ blindguts
 blinding
 blindingly
 blindly
+blindness
 blindnesses
 blinds
 blindside
@@ -12272,6 +12274,7 @@ boogiemen
 boogies
 boogyman
 boogymen
+boohoo
 boohooing
 boohoos
 booing
@@ -17287,6 +17290,7 @@ cephalothorax
 cephalothoraxes
 cephalous
 cepheid
+cepheids
 ceps
 ceraceous
 ceramal
@@ -20617,6 +20621,7 @@ coercive
 coercively
 coercivenesses
 coercivities
+coercivity
 coerect
 coerected
 coesite
@@ -22467,6 +22472,7 @@ conjectural
 conjecture
 conjectured
 conjecturers
+conjectures
 conjecturing
 conjoined
 conjoiner
@@ -31694,6 +31700,7 @@ dispossessor
 dispossessors
 disposure
 dispraise
+dispraised
 dispraiser
 dispraises
 dispraising
@@ -31967,6 +31974,7 @@ distinctest
 distinction
 distinctions
 distinctive
+distinctiveness
 distinctly
 distinctnesses
 distingue
@@ -34228,6 +34236,7 @@ earthier
 earthiest
 earthily
 earthiness
+earthinesses
 earthing
 earthlier
 earthlight
@@ -37622,6 +37631,7 @@ esthesias
 esthesis
 esthete
 esthetes
+esthetic
 esthetician
 estheticians
 estheticism
@@ -37643,6 +37653,7 @@ estopped
 estoppels
 estops
 estovers
+estradiol
 estradiols
 estragon
 estragons
@@ -39334,6 +39345,7 @@ eyeless
 eyelet
 eyeletted
 eyeletting
+eyelid
 eyelids
 eyelift
 eyelifts
@@ -40405,6 +40417,7 @@ fells
 felon
 felonies
 felonious
+feloniously
 feloniousness
 felonries
 felonry
@@ -40544,6 +40557,7 @@ fermiums
 fern
 fernery
 fernier
+ferniest
 fernless
 fernlike
 ferny
@@ -41319,6 +41333,7 @@ fireflies
 fireflood
 firefly
 fireguard
+fireguards
 firehall
 firehouse
 fireless
@@ -44957,6 +44972,7 @@ gammy
 gamodeme
 gamodemes
 gams
+gan
 ganache
 ganaches
 gander
@@ -48067,6 +48083,7 @@ gritters
 grittier
 grittily
 grittiness
+grittinesses
 gritting
 grivets
 grizzle
@@ -53565,6 +53582,7 @@ iceboater
 iceboating
 iceboatings
 iceboats
+icebound
 iceboxes
 icebreaker
 icebreakers
@@ -54400,6 +54418,7 @@ impervious
 imperviously
 imperviousness
 impetiginous
+impetigo
 impetigos
 impetrate
 impetrated
@@ -55118,6 +55137,7 @@ increased
 increaser
 increasers
 increases
+increasing
 increate
 incredibilities
 incredibility
@@ -66962,6 +66982,7 @@ mercantilisms
 mercantilist
 mercantilistic
 mercantilists
+mercaptan
 mercapto
 mercaptopurine
 mercaptopurines
@@ -74422,6 +74443,7 @@ noontimes
 noose
 noosed
 noosers
+noosing
 noosphere
 noospheres
 nootropic
@@ -75018,6 +75040,7 @@ obbligati
 obbligato
 obbligatos
 obconic
+obconical
 obduracies
 obduracy
 obdurate
@@ -80955,6 +80978,7 @@ paulin
 paulins
 paulownia
 paulownias
+paunch
 paunched
 paunches
 paunchier
@@ -82499,6 +82523,7 @@ pewit
 pewits
 pews
 pewter
+pewterer
 pewterers
 pewters
 peyote
@@ -88394,6 +88419,7 @@ pronota
 pronoun
 pronounced
 pronouncement
+pronouncers
 pronounces
 pronouncing
 pronouns
@@ -92025,6 +92051,7 @@ rebuilds
 rebuilt
 rebuke
 rebuked
+rebuker
 rebukers
 rebukes
 rebuking
@@ -95532,6 +95559,7 @@ resolves
 resolving
 resonance
 resonances
+resonant
 resonants
 resonate
 resonates
@@ -103532,6 +103560,7 @@ sin
 sinapism
 sincerely
 sincereness
+sincerenesses
 sincerer
 sincerest
 sincerities
@@ -105128,6 +105157,7 @@ snoozled
 snoozles
 snoozy
 snore
+snored
 snores
 snoring
 snorkel
@@ -106270,6 +106300,7 @@ spanglier
 spangliest
 spangling
 spangly
+spaniel
 spaniels
 spank
 spankers
@@ -112484,6 +112515,7 @@ systemizations
 systemize
 systemizes
 systemizing
+systemless
 systole
 systoles
 systolic
@@ -114704,6 +114736,7 @@ thermoelements
 thermoform
 thermoforming
 thermoforms
+thermogram
 thermograph
 thermographic
 thermographies
@@ -123109,6 +123142,7 @@ vaporizes
 vaporizing
 vaporless
 vaporlike
+vaporous
 vaporously
 vaporousness
 vapors
@@ -126827,6 +126861,7 @@ winterizations
 winterize
 winterized
 winterizes
+winterizing
 winterkill
 winterly
 winters
