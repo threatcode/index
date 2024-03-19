@@ -245,6 +245,7 @@ acantha
 acanthi
 acanthocephalan
 acanthoid
+acanthous
 acapnia
 acapnias
 acarbose
@@ -10387,6 +10388,7 @@ bicycler
 bicyclers
 bicycles
 bicyclic
+bicycling
 bicyclists
 bid
 bidarkas
@@ -10796,6 +10798,7 @@ biographically
 biographies
 biography
 biohazard
+biohazards
 bioherm
 biologic
 biologically
@@ -17580,6 +17583,7 @@ chalazion
 chalcedonic
 chalcid
 chalcocite
+chalcogen
 chalcogenide
 chalcogenides
 chalcogens
@@ -18825,6 +18829,7 @@ choristers
 chorizo
 chorographic
 chorographies
+chorography
 choroid
 choroids
 chorten
@@ -32190,6 +32195,7 @@ ditheist
 ditheists
 dithered
 ditherer
+ditherers
 dithering
 dithers
 dithiol
@@ -34476,6 +34482,7 @@ ecdysiast
 ecdysiasts
 ecdyson
 ecesic
+ecesis
 ecesises
 echard
 eched
@@ -36619,6 +36626,7 @@ entailing
 entailment
 entailments
 entails
+entameba
 entamebae
 entamebas
 entamoeba
@@ -40275,6 +40283,7 @@ favelas
 favella
 favellas
 faveolate
+favism
 favonian
 favor
 favorableness
@@ -40791,6 +40800,7 @@ festal
 festally
 fester
 festering
+festinate
 festinated
 festinately
 festinates
@@ -57282,6 +57292,7 @@ intermodulation
 intermontane
 intern
 internal
+internalise
 internalised
 internalises
 internality
@@ -59943,6 +59954,7 @@ kegging
 keglers
 kegling
 keglings
+kegs
 keir
 keiretsu
 keirs
@@ -63065,6 +63077,7 @@ limnology
 limo
 limonene
 limonenes
+limonitic
 limousine
 limousines
 limp
@@ -64225,6 +64238,7 @@ lovably
 lovage
 lovages
 lovastatin
+lovastatins
 lovats
 loveable
 loveably
@@ -64365,6 +64379,7 @@ luck
 luckie
 luckier
 luckiest
+luckinesses
 lucky
 lucrative
 lucratively
@@ -89460,6 +89475,7 @@ psychedelias
 psychedelic
 psychedelically
 psychedelics
+psychiatric
 psychiatrically
 psychiatries
 psychiatrists
@@ -90894,6 +90910,7 @@ quintuplets
 quintuplicate
 quintuplicated
 quintuplicating
+quintupling
 quip
 quipped
 quipper
@@ -91285,6 +91302,7 @@ ragman
 ragmen
 ragout
 ragouted
+ragouting
 ragpicker
 ragpickers
 ragtags
@@ -91820,6 +91838,7 @@ raucity
 raucous
 raucousness
 raucousnesses
+raunch
 raunches
 raunchier
 raunchiest
@@ -94278,6 +94297,7 @@ reinvestigation
 reinvesting
 reinvestments
 reinvests
+reinvigorate
 reinvigorates
 reinvigoration
 reinvigorations
@@ -95125,6 +95145,7 @@ replaced
 replacement
 replacer
 replacers
+replaces
 replan
 replanning
 replans
@@ -96879,6 +96900,7 @@ rewrapt
 rewriter
 rewrites
 rewritten
+rewrote
 rex
 rexes
 rezero
@@ -104425,6 +104447,7 @@ skunkiest
 skunking
 skunks
 skunkweed
+skunky
 skyboard
 skyborne
 skybox
@@ -105753,6 +105776,7 @@ sociological
 sociologies
 sociologist
 sociologists
+sociology
 sociometric
 sociometries
 sociometry
@@ -109812,6 +109836,7 @@ stuffless
 stuiver
 stuivers
 stull
+stultification
 stultifications
 stultified
 stultify
@@ -114600,6 +114625,7 @@ terpolymer
 terpolymers
 terpsichorean
 terrace
+terraced
 terraces
 terracing
 terraform
@@ -114881,6 +114907,7 @@ thalloid
 thallophyte
 thallophytic
 thallus
+thalweg
 thalwegs
 than
 thanage
@@ -116265,6 +116292,7 @@ toenailing
 toenails
 toepieces
 toeplate
+toeshoe
 toeshoes
 toff
 toffee
@@ -117774,6 +117802,7 @@ trepang
 trepangs
 trepanned
 trepanner
+trepanners
 trepanning
 trepans
 trephination
@@ -120517,6 +120546,7 @@ undercover
 undercrofts
 undercurrents
 undercut
+undercuts
 undercutting
 underdid
 underdoes
@@ -120813,6 +120843,7 @@ undoable
 undocile
 undock
 undocked
+undocking
 undoctored
 undoctrinaire
 undoes
@@ -122603,6 +122634,7 @@ unworthy
 unwound
 unwounded
 unwove
+unwoven
 unwrap
 unwrapped
 unwrapping
@@ -122755,6 +122787,7 @@ uplander
 upleap
 upleaped
 upleaping
+upleapt
 uplift
 uplifter
 uplifts
@@ -126432,6 +126465,7 @@ wettabilities
 wettable
 wetted
 wetter
+wetters
 wettest
 wetting
 wha
@@ -127004,6 +127038,7 @@ wiglike
 wigmaker
 wigmakers
 wigwag
+wigwagged
 wigwagger
 wigwaggers
 wigwags
