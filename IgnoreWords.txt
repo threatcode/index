@@ -46,6 +46,7 @@ abridgements
 abridger
 abridges
 abridging
+abridgments
 abroach
 abroad
 abrogable
@@ -2168,6 +2169,7 @@ alamodes
 alamos
 aland
 alane
+alang
 alanin
 alanine
 alanins
@@ -3467,6 +3469,7 @@ analysing
 analyst
 analyte
 analytes
+analytical
 analytically
 analyticities
 analyticity
@@ -4455,6 +4458,7 @@ antimusical
 antimusics
 antimycin
 antimycins
+antinational
 antinature
 antineoplastic
 antinepotism
@@ -5514,6 +5518,7 @@ archosaurs
 archpriest
 archrival
 archrivals
+archway
 arciform
 arcing
 arcked
@@ -9322,6 +9327,7 @@ beedies
 beefaloes
 beefalos
 beefcake
+beefcakes
 beefeater
 beefeaters
 beefed
@@ -10966,6 +10972,7 @@ birdieing
 birdies
 birding
 birdlife
+birdlike
 birdlime
 birdlimed
 birdlimes
@@ -17751,6 +17758,7 @@ chapbook
 chape
 chapeau
 chapeaus
+chapel
 chapels
 chaperon
 chaperonage
@@ -19741,6 +19749,7 @@ clearcuts
 clearcutting
 cleared
 clearer
+cleareyed
 clearheaded
 clearheadedly
 clearheadedness
@@ -23902,6 +23911,7 @@ corrugated
 corrugates
 corrugating
 corrugation
+corrugations
 corrupt
 corrupter
 corrupters
@@ -31043,6 +31053,7 @@ disarranges
 disarray
 disarrayed
 disarraying
+disarrays
 disarticulate
 disarticulated
 disarticulating
@@ -35556,6 +35567,7 @@ embryos
 embryotic
 emcee
 emceed
+emceeing
 emcees
 emdash
 emdashes
@@ -39771,6 +39783,7 @@ falcons
 falderal
 falderol
 falderols
+faldstool
 faldstools
 fall
 fallacious
@@ -43871,9 +43884,11 @@ freshen
 freshener
 fresheners
 freshening
+fresher
 freshest
 freshet
 freshets
+freshing
 freshly
 freshman
 freshmen
@@ -44496,6 +44511,7 @@ funniness
 funninesses
 funning
 funny
+funnyman
 funnymen
 funplex
 fur
@@ -47429,6 +47445,7 @@ gourmandises
 gourmandisms
 gourmandize
 gourmandized
+gourmandizing
 gourmands
 gourmet
 gourmets
@@ -50120,6 +50137,7 @@ haylages
 hayloft
 haymakers
 haymow
+hayrack
 hayride
 hayrides
 hays
@@ -52739,6 +52757,7 @@ hugging
 hugs
 huh
 huipil
+huipiles
 huisache
 huisaches
 hulas
@@ -55967,6 +55986,7 @@ infixions
 inflame
 inflamed
 inflamer
+inflamers
 inflaming
 inflammability
 inflammable
@@ -62787,6 +62807,7 @@ lifelessly
 lifelessnesses
 lifelike
 lifelikeness
+lifelikenesses
 lifeline
 lifelines
 lifemanship
@@ -64172,6 +64193,7 @@ loveable
 loveably
 lovebird
 lovebirds
+lovebugs
 loved
 lovefest
 lovefests
@@ -67913,6 +67935,7 @@ microgravity
 microgroove
 microgrooves
 microhabitat
+microhabitats
 microhm
 microhms
 microimage
@@ -67996,6 +68019,7 @@ microquake
 microquakes
 microradiograph
 microreaders
+microscale
 microscales
 microscope
 microscopes
@@ -69190,6 +69214,7 @@ mislighting
 mislights
 mislike
 misliked
+misliker
 mislikers
 mislikes
 misliking
@@ -71571,6 +71596,7 @@ musician
 musicianly
 musicians
 musicianship
+musick
 musicked
 musicking
 musicks
@@ -76270,6 +76296,7 @@ openable
 opencast
 opened
 openers
+openest
 openhanded
 openhandedly
 openhandedness
@@ -80401,6 +80428,7 @@ paramnesia
 paramnesias
 paramo
 paramorph
+paramos
 paramount
 paramountcies
 paramountcy
@@ -86929,6 +86957,7 @@ predicts
 predigest
 predigested
 predigesting
+predigests
 predilection
 predilections
 predinner
@@ -91384,6 +91413,7 @@ ramparting
 ramparts
 rampike
 ramping
+rampion
 rampions
 rampole
 rampoles
@@ -97523,6 +97553,7 @@ robes
 robles
 roborants
 robotic
+robotics
 robotism
 robotisms
 robotization
@@ -99228,6 +99259,7 @@ sanitating
 sanitation
 sanities
 sanitised
+sanitising
 sanitization
 sanitizations
 sanitize
@@ -117585,6 +117617,7 @@ treasurer
 treasurers
 treasures
 treat
+treatabilities
 treatability
 treaters
 treaties
@@ -120670,6 +120703,7 @@ underwrite
 underwriter
 underwriters
 underwrites
+underwriting
 underwritten
 undescended
 undescribable
@@ -123982,6 +124016,7 @@ verisms
 verist
 veritable
 veritablenesses
+veritas
 veritates
 verite
 verites
