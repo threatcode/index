@@ -127,6 +127,7 @@ absorbancy
 absorbant
 absorbants
 absorbed
+absorbency
 absorbent
 absorber
 absorbers
@@ -3400,6 +3401,7 @@ anadiploses
 anadiplosis
 anaemia
 anaemias
+anaemic
 anaerobe
 anaerobes
 anaerobic
@@ -3691,6 +3693,7 @@ anesthetizing
 anestri
 anestrous
 anestrus
+anethol
 anethole
 anetholes
 aneuploid
@@ -10360,6 +10363,7 @@ bickerer
 bickerers
 bickering
 bickers
+bicolored
 bicolors
 bicolour
 bicolours
@@ -11926,6 +11930,7 @@ boatmen
 boatnecks
 boats
 boatsmen
+boatswain
 boatswains
 boatyards
 bob
@@ -24535,6 +24540,7 @@ courtier
 courting
 courtlier
 courtliness
+courtlinesses
 courtly
 courtroom
 courtrooms
@@ -25427,6 +25433,7 @@ crook
 crookback
 crookeder
 crookedest
+crookedly
 crookedness
 crookednesses
 crooker
@@ -26633,6 +26640,7 @@ cysticercus
 cystine
 cystinuria
 cystitides
+cystocarp
 cystocarps
 cystocele
 cystoceles
@@ -26900,6 +26908,7 @@ damasking
 damasks
 dame
 dames
+damewort
 dameworts
 damiana
 damianas
@@ -30656,6 +30665,7 @@ diluvions
 diluvium
 dim
 dimenhydrinates
+dimension
 dimensional
 dimensionality
 dimensioned
@@ -34480,6 +34490,7 @@ echidna
 echidnae
 echidnas
 echinacea
+echinate
 echinated
 eching
 echini
@@ -39351,6 +39362,7 @@ extravagate
 extravagated
 extravasate
 extravasates
+extravasating
 extravasation
 extravasations
 extravascular
@@ -42746,6 +42758,7 @@ folklives
 folklores
 folkloric
 folklorish
+folklorist
 folkloristic
 folklorists
 folkmoot
@@ -46764,6 +46777,7 @@ glorified
 glorifier
 glorifiers
 glorifies
+glorify
 gloriole
 glorioles
 glorious
@@ -52681,6 +52695,7 @@ hovelling
 hovels
 hover
 hovercrafts
+hoverer
 hoverers
 hoverflies
 hoverfly
@@ -62709,6 +62724,7 @@ liberty
 libidinally
 libidinous
 libidinously
+libidinousness
 libidos
 liblab
 liblabs
@@ -66712,6 +66728,7 @@ medicide
 medicinable
 medicinal
 medicinally
+medicinals
 medicined
 medicining
 medick
@@ -74741,6 +74758,7 @@ norther
 northerlies
 northerly
 northern
+northernmost
 northerns
 northers
 northings
@@ -75182,6 +75200,7 @@ nutrient
 nutriment
 nutriments
 nutritional
+nutritionally
 nutritious
 nutritiously
 nutritiousness
@@ -76326,6 +76345,7 @@ openhandedly
 openhandedness
 openhearted
 openheartedness
+opening
 openings
 openly
 openmouthed
@@ -77399,6 +77419,7 @@ outfigured
 outfigures
 outfiguring
 outfinding
+outfinds
 outfire
 outfires
 outfiring
@@ -81350,6 +81371,7 @@ peacefulnesses
 peacekeeper
 peacekeepers
 peacekeeping
+peacekeepings
 peacemaker
 peacemakers
 peacemaking
@@ -85097,6 +85119,7 @@ pneumatics
 pneumatology
 pneumatolytic
 pneumatophore
+pneumatophores
 pneumococcus
 pneumoconioses
 pneumoconiosis
@@ -87657,6 +87680,7 @@ preshaping
 preshipped
 preships
 preshow
+preshowed
 preshowing
 preshown
 preshows
@@ -91582,6 +91606,7 @@ rappeled
 rappeling
 rappelled
 rappelling
+rappels
 rappen
 rapping
 rappini
@@ -95388,6 +95413,7 @@ repugns
 repulse
 repulsed
 repulsers
+repulses
 repulsing
 repulsion
 repulsions
@@ -99937,6 +99963,7 @@ scaphoid
 scaphoids
 scaphopod
 scaping
+scapolite
 scapolites
 scapula
 scapulae
@@ -104072,6 +104099,7 @@ situation
 situationally
 situations
 situp
+situs
 situses
 sitzmark
 siver
@@ -107730,6 +107758,7 @@ spunks
 spunky
 spur
 spurgall
+spurgalled
 spurgalling
 spurgalls
 spurge
@@ -112992,6 +113021,7 @@ tacitnesses
 taciturn
 tackboard
 tackboards
+tacked
 tacker
 tacket
 tackets
@@ -120308,6 +120338,7 @@ uncontemporary
 uncontentious
 uncontracted
 uncontradicted
+uncontrived
 uncontrollable
 uncontrollably
 uncontrolled
@@ -124639,6 +124670,7 @@ virginalist
 virginalists
 virginally
 virginals
+virgulate
 virgule
 virgules
 viricidal
@@ -127119,6 +127151,7 @@ windmilled
 windmills
 window
 windowed
+windowing
 windowless
 windowpane
 windowpanes
@@ -127286,6 +127319,7 @@ wiremen
 wirephoto
 wirephotos
 wirer
+wirers
 wires
 wiretapped
 wiretapper
@@ -127820,6 +127854,7 @@ wormseeds
 wormwood
 wormwoods
 worn
+wornness
 wornnesses
 worriedly
 worrier
