@@ -8,3 +8,8 @@ wordlist-d.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzz
 ridyhew_master.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0/src/dictionaries/ridyhew_master.txt
 here - Rose-Hulman,https://www.rose-hulman.edu/class/cs/binaries/csse230/Doublets/english.cleaned.all.95.txt
 bdm/dict/10.txt at master · BuiTran/bdm - GitHub,https://github.com/BuiTran/bdm/blob/master/dict/10.txt
+10-15-20030401.txt,http://www.scrabbleplayers.org/words/10-15-20030401.txt
+https://compsci.sites.tjhsst.edu/ai/wordladder_201...,https://compsci.sites.tjhsst.edu/ai/wordladder_2016/words_10.txt
+words.utf-8.txt,https://introcs.cs.princeton.edu/python/44st/words.utf-8.txt
+merriam-webster.txt - Systems and Computer Engineering,http://www.sce.carleton.ca/faculty/coll/seminar/Labs/5-WebForms/solution/SpellCheck/merriam-webster.txt
+dictionary.txt - School of Computing,http://cse.unl.edu/~lksoh/Classes/CSCE100_Fall19/HW/dictionary.txt
