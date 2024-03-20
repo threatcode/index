@@ -2250,6 +2250,7 @@ alcayde
 alcaydes
 alcazars
 alchemic
+alchemical
 alchemically
 alchemies
 alchemistic
@@ -3414,6 +3415,7 @@ anaerobic
 anaerobically
 anaerobioses
 anaerobium
+anaesthesias
 anaesthetic
 anaesthetics
 anagenesis
@@ -5294,6 +5296,7 @@ aquaculture
 aquacultures
 aquaculturist
 aquaculturists
+aquae
 aquafarm
 aquafarms
 aqualung
@@ -9005,6 +9008,7 @@ beak
 beaker
 beakers
 beakier
+beakiest
 beakless
 beaklike
 beaks
@@ -9448,6 +9452,7 @@ begalled
 begalling
 begalls
 begat
+begaze
 begazed
 begazing
 beget
@@ -11610,6 +11615,7 @@ blond
 blonder
 blondes
 blondest
+blondine
 blondined
 blondines
 blondining
@@ -13078,6 +13084,7 @@ branchiopod
 branchiopods
 branchless
 branchlets
+branchline
 branchlines
 branchy
 brand
@@ -13679,6 +13686,7 @@ broncho
 bronchodilator
 bronchodilators
 bronchogenic
+bronchos
 bronchoscope
 bronchoscopes
 bronchoscopic
@@ -13887,6 +13895,7 @@ brux
 bruxed
 bruxes
 bruxing
+bruxism
 bryological
 bryologist
 bryology
@@ -16242,6 +16251,7 @@ carets
 careworn
 carex
 carfare
+carful
 carfuls
 cargo
 cargoes
@@ -16933,6 +16943,7 @@ cats
 catspaws
 catsuits
 cattalos
+catted
 catteries
 cattie
 catties
@@ -26257,6 +26268,7 @@ currajongs
 curran
 currans
 currants
+curred
 currejong
 currejongs
 currency
@@ -28558,6 +28570,7 @@ delicts
 delight
 delighted
 delightedly
+delightedness
 delighter
 delightful
 delightfulness
@@ -28590,6 +28603,7 @@ deliquescing
 deliria
 delirious
 deliriously
+deliriousness
 deliriousnesses
 delirium
 deliriums
@@ -29333,6 +29347,7 @@ derision
 derisions
 derisive
 derisively
+derisivenesses
 derisory
 derivate
 derivation
@@ -32928,6 +32943,7 @@ dopiness
 doping
 doppelgangers
 dopy
+dor
 dorbeetle
 dorbug
 dorbugs
@@ -35118,6 +35134,7 @@ elaters
 elates
 elating
 elation
+elations
 elative
 elatives
 elbow
@@ -37894,6 +37911,7 @@ estreats
 estriol
 estrogen
 estrogenic
+estrogenically
 estrone
 estrones
 estrous
@@ -47816,6 +47834,7 @@ grandsir
 grandsire
 grandsires
 grandsirs
+grandson
 grandsons
 grandstanded
 grandstander
@@ -49171,6 +49190,7 @@ habilitate
 habilitating
 habit
 habitability
+habitable
 habitableness
 habitablenesses
 habitably
@@ -50109,6 +50129,7 @@ hashed
 hasheesh
 hasheeshes
 hashes
+hashhead
 hashheads
 hashing
 haslet
@@ -60910,6 +60931,7 @@ kookie
 kookier
 kookiness
 kookinesses
+kooks
 kooky
 kop
 kopeck
@@ -63867,6 +63889,7 @@ loch
 lochans
 lochia
 lochial
+lochs
 loci
 lock
 lockages
@@ -67918,6 +67941,7 @@ metralgias
 metrazols
 metred
 metric
+metrical
 metrically
 metricates
 metricisms
@@ -76320,6 +76344,7 @@ omitting
 ommatidia
 ommatidial
 ommatidium
+omniarch
 omniarchs
 omnibus
 omnibusses
@@ -77043,6 +77068,7 @@ orrisroots
 ors
 ort
 orthicon
+orthicons
 ortho
 orthocenters
 orthochromatic
@@ -84016,6 +84042,7 @@ pignolias
 pignus
 pignuts
 pigout
+pigouts
 pigskin
 pigskins
 pigsneys
@@ -88700,6 +88727,7 @@ progenitors
 progeny
 progeria
 progestational
+progesterone
 progesterones
 progestin
 progestins
@@ -95813,6 +95841,7 @@ rescaled
 rescales
 rescaling
 reschedule
+rescheduled
 rescheduling
 reschool
 reschooled
@@ -96355,6 +96384,7 @@ restuffs
 restyled
 restyles
 restyling
+resubject
 resubjects
 resubmission
 resubmit
@@ -112112,6 +112142,7 @@ surculose
 surd
 sure
 surefire
+surefooted
 surefootedness
 surely
 sureness
@@ -121846,6 +121877,7 @@ unlikeness
 unlikenesses
 unlimbering
 unlimited
+unlimitedly
 unlined
 unlink
 unlinking
@@ -123339,6 +123371,7 @@ ureotelisms
 ureter
 ureteral
 ureteric
+urethan
 urethane
 urethanes
 urethans
@@ -123633,6 +123666,7 @@ vagotomy
 vagotonia
 vagotonias
 vagotonic
+vagrancies
 vagrancy
 vagrant
 vagrants
@@ -125610,6 +125644,7 @@ waddles
 waddling
 waddly
 waddy
+wade
 wadeable
 waded
 wader
