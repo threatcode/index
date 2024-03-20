@@ -1,0 +1,9 @@
+security-analytics/backends/bigquery/sql ... - GitHub,https://github.com/GoogleCloudPlatform/security-analytics/blob/main/backends/bigquery/sql/4_01_unusually_high_api_usage_by_user_identity.sql
+migrations ... - Google Git,https://go.googlesource.com/pkgsite/%2B/refs/heads/master/migrations/000125_add_symbol_search_documents_unit_id_idx.down.sql
+security-analytics/backends/bigquery/sql ... - GitHub,https://github.com/GoogleCloudPlatform/security-analytics/blob/main/backends/bigquery/sql/3_01_logging_settings_modified.sql
+Schema,http://iac.iga.in.gov/samples/blocks/databases/schema.sql
+Deposit users.sql - Binance,https://www.binance.com/en-BH/fiat/deposit/users.sql
+tools/backfill-issue-snapshots.sql - monorail-avm99963 - Gitiles,https://gerrit.avm99963.com/plugins/gitiles/monorail-avm99963/%2B/4da723ca0f2dbc933a9d119917e11d2a769770f3/tools/backfill-issue-snapshots.sql
+plain text - Apple Open Source,https://opensource.apple.com/source/libsecurity_codesigning/libsecurity_codesigning-55032/lib/syspolicy.sql
+https://raw.githubusercontent.com/apache/hive/mast...,https://raw.githubusercontent.com/apache/hive/master/metastore/scripts/upgrade/mysql/hive-txn-schema-2.3.0.mysql.sql
+rep-cache-db.sql - MIT,http://web.mit.edu/freebsd/head/contrib/subversion/subversion/libsvn_fs_fs/rep-cache-db.sql
