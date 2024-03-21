@@ -2835,6 +2835,7 @@ alsike
 alsikes
 also
 altarpiece
+altarpieces
 altars
 altazimuth
 altazimuths
@@ -4459,6 +4460,7 @@ antihysteric
 antijam
 antijamming
 antikickback
+antiking
 antikings
 antiknock
 antiknocks
@@ -4526,6 +4528,7 @@ antimusics
 antimycin
 antimycins
 antinational
+antinatural
 antinature
 antineoplastic
 antinepotism
@@ -4585,6 +4588,7 @@ antipolar
 antipole
 antipoles
 antipolice
+antipolitical
 antipolitics
 antipollutions
 antipope
@@ -5840,6 +5844,7 @@ around
 arousable
 arousal
 aroused
+arouses
 arousing
 aroynt
 aroynted
@@ -9532,6 +9537,7 @@ befool
 befooled
 befooling
 befools
+before
 beforetime
 befoul
 befouled
@@ -16534,6 +16540,7 @@ caromed
 caroming
 caroms
 carotenoid
+carotenoids
 carotid
 carotidal
 carotids
@@ -17492,6 +17499,7 @@ centers
 centeses
 centesimo
 centesimos
+centesis
 centiare
 centiares
 centigram
@@ -18170,6 +18178,7 @@ chases
 chasing
 chasings
 chasm
+chasmed
 chasmic
 chasms
 chasmy
@@ -20206,6 +20215,7 @@ clipt
 clique
 cliqued
 cliques
+cliquey
 cliquier
 cliquing
 cliquish
@@ -25122,6 +25132,7 @@ crabbier
 crabbiest
 crabbily
 crabbing
+crabby
 crabeater
 crabgrass
 crabgrasses
@@ -25652,6 +25663,7 @@ crimsons
 cringe
 cringed
 cringers
+cringle
 crinite
 crinites
 crinkle
@@ -27666,6 +27678,7 @@ deadhead
 deadheading
 deadlifted
 deadlifting
+deadlifts
 deadlight
 deadlights
 deadline
@@ -28531,6 +28544,7 @@ deflagrating
 deflagration
 deflated
 deflater
+deflaters
 deflates
 deflation
 deflationary
@@ -29630,6 +29644,7 @@ derating
 derats
 deratting
 deray
+dere
 derealization
 derealizations
 deregulated
@@ -36471,6 +36486,7 @@ enculturates
 enculturating
 enculturation
 enculturations
+encumber
 encumbered
 encumbrance
 encumbrancer
@@ -39259,6 +39275,7 @@ exiguousnesses
 exile
 exiler
 exilers
+exilic
 eximious
 exine
 exines
@@ -42210,6 +42227,7 @@ fizziest
 fizzing
 fizzle
 fizzled
+fizzles
 fizzling
 fizzy
 fjeld
@@ -44137,6 +44155,7 @@ foxes
 foxfire
 foxfires
 foxfish
+foxglove
 foxgloves
 foxhole
 foxholes
@@ -49594,6 +49613,7 @@ gynecocratic
 gynecoid
 gynecological
 gynecologies
+gynecologist
 gynecologists
 gynecology
 gynecomastia
@@ -66429,6 +66449,7 @@ mandrels
 mandril
 mandrill
 mandrills
+mandrils
 manducating
 mane
 maned
@@ -69307,6 +69328,7 @@ millicurie
 millicuries
 millidegree
 millieme
+milliers
 milligal
 milligals
 milligrams
@@ -72906,6 +72928,7 @@ mystifiers
 mystifies
 mystifying
 mystifyingly
+mystique
 mystiques
 mythic
 mythically
@@ -77273,6 +77296,7 @@ oodlins
 oogametes
 oogamous
 oogamy
+oogenesis
 oogenetic
 oogenies
 oogeny
@@ -82661,6 +82685,7 @@ pedicellate
 pedicle
 pedicled
 pedicles
+pedicular
 pediculate
 pediculates
 pediculosis
@@ -87664,6 +87689,7 @@ pozzolan
 pozzolanas
 pozzolanic
 pozzolans
+praam
 praams
 practicableness
 practicably
@@ -95766,6 +95792,7 @@ relines
 relining
 relink
 relinked
+relinquish
 relinquishing
 relinquishment
 reliquaries
@@ -95959,6 +95986,7 @@ remissions
 remissive
 remissly
 remissness
+remissnesses
 remit
 remitment
 remitments
@@ -96379,6 +96407,7 @@ rephrasing
 repigment
 repigmented
 repigmenting
+repigments
 repine
 repined
 repiner
@@ -112405,6 +112434,7 @@ sugarlike
 sugarloaf
 sugarloaves
 sugary
+suggest
 suggested
 suggester
 suggesting
@@ -113943,6 +113973,7 @@ swordsman
 swordsmanship
 swordsmanships
 swordsmen
+swordtail
 swordtails
 swore
 sworn
@@ -119384,6 +119415,7 @@ triacetate
 triacetates
 triacid
 triacids
+triacs
 triad
 triadic
 triadically
@@ -124440,6 +124472,7 @@ uprise
 uprisen
 upriser
 uprisers
+uprises
 uprisings
 uprivers
 uproar
@@ -127005,6 +127038,7 @@ waffling
 wafflings
 waffly
 waffs
+waft
 waftage
 waftages
 wafted
@@ -127750,6 +127784,7 @@ wealthily
 wealthiness
 wealthy
 weaner
+weaners
 weaning
 weanling
 weapon
