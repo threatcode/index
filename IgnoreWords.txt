@@ -992,6 +992,7 @@ adequacy
 adequate
 adequately
 adequatenesses
+adherable
 adhere
 adherence
 adherences
@@ -7984,6 +7985,7 @@ baggers
 baggie
 baggier
 baggies
+baggiest
 baggily
 bagginess
 bagginesses
@@ -15143,6 +15145,7 @@ cagelike
 cageling
 cagelings
 cager
+cagers
 cages
 cagey
 cageynesses
@@ -16782,6 +16785,7 @@ casters
 castes
 castigate
 castigated
+castigates
 castigating
 castigation
 castigations
@@ -19558,6 +19562,7 @@ cire
 cirques
 cirrate
 cirrhosed
+cirrhosis
 cirrhotic
 cirrhotics
 cirri
@@ -22784,6 +22789,7 @@ conically
 conicities
 conicity
 conics
+conidia
 conidiophores
 conidium
 conies
@@ -25634,6 +25640,7 @@ crista
 cristae
 cristated
 criteria
+criterion
 criterions
 criteriums
 critical
@@ -26617,6 +26624,7 @@ customs
 customshouses
 custos
 custumal
+custumals
 cut
 cutabilities
 cutaways
@@ -29386,6 +29394,7 @@ deplumed
 deplumes
 depluming
 depolarization
+depolarizations
 depolarize
 depolarized
 depolarizer
@@ -34602,6 +34611,7 @@ dysplastic
 dyspneal
 dyspneas
 dyspneic
+dyspnoeas
 dysprosium
 dysprosiums
 dystaxia
@@ -36164,6 +36174,7 @@ emulative
 emulatively
 emulator
 emulators
+emulous
 emulousness
 emulsifiable
 emulsification
@@ -42661,6 +42672,7 @@ flockier
 flockiest
 flocking
 flockings
+flockless
 flocks
 floe
 floes
@@ -42696,6 +42708,7 @@ floorage
 floorages
 floorboards
 floorcloth
+floorcloths
 floorer
 floorings
 floorless
@@ -53359,6 +53372,7 @@ hulls
 hum
 human
 humane
+humanely
 humaneness
 humaner
 humanhood
@@ -54103,6 +54117,7 @@ hypertonicities
 hypertonicity
 hypertrophic
 hypertrophied
+hypertrophies
 hypertrophy
 hypertypical
 hyperurbanism
@@ -55345,6 +55360,7 @@ impregnability
 impregnableness
 impregnably
 impregnant
+impregnants
 impregnate
 impregnates
 impregnating
@@ -56825,6 +56841,7 @@ inhalers
 inhales
 inhaling
 inharmonic
+inharmonies
 inharmoniously
 inharmony
 inhaul
@@ -57294,6 +57311,7 @@ inspissator
 inspissators
 instabilities
 instability
+instable
 install
 installation
 installations
@@ -64232,6 +64250,7 @@ llano
 llanos
 lo
 loach
+loaches
 load
 loaded
 loader
@@ -64765,6 +64784,7 @@ lordings
 lordless
 lordlier
 lordlike
+lordling
 lordlings
 lordoma
 lordomas
@@ -74796,6 +74816,7 @@ nonexploitative
 nonexploitive
 nonexplosive
 nonexposed
+nonextant
 nonfact
 nonfactor
 nonfactors
@@ -76288,6 +76309,7 @@ obsidian
 obsidians
 obsolesce
 obsolescence
+obsolescences
 obsolescent
 obsolescently
 obsolesces
@@ -77487,6 +77509,7 @@ organist
 organists
 organization
 organizational
+organizations
 organize
 organized
 organizer
@@ -82018,6 +82041,7 @@ patriarchs
 patriarchy
 patriate
 patriates
+patriating
 patrician
 patricians
 patriciates
@@ -94311,6 +94335,7 @@ reeditions
 reedlike
 reedling
 reedlings
+reedmen
 reeds
 reeducate
 reeducated
@@ -94548,6 +94573,7 @@ refiling
 refill
 refilling
 refills
+refilm
 refilmed
 refiltered
 refiltering
@@ -99510,6 +99536,7 @@ ruralise
 ruralises
 ruralising
 ruralism
+ruralisms
 ruralist
 ruralists
 ruralites
@@ -102707,6 +102734,7 @@ semitist
 semitonal
 semitones
 semitonic
+semitrailers
 semitranslucent
 semitropic
 semitropical
@@ -103293,6 +103321,7 @@ sewerage
 sewered
 sewering
 sewerless
+sewerlike
 sewing
 sewings
 sexagenarian
@@ -109478,6 +109507,7 @@ static
 statical
 statically
 statice
+statices
 staticky
 statics
 statin
@@ -115235,6 +115265,7 @@ telecasts
 telecommute
 telecommuted
 telecommuter
+telecommuters
 telecommutes
 telecommuting
 telecoms
@@ -117340,6 +117371,7 @@ tithonias
 titi
 titians
 titillate
+titillates
 titillatingly
 titillation
 titillations
@@ -121012,6 +121044,7 @@ unaffectionate
 unaffiliated
 unaffordable
 unafraid
+unaged
 unageing
 unaging
 unagreed
@@ -122801,6 +122834,7 @@ unlink
 unlinking
 unlinks
 unlisted
+unlistenable
 unlit
 unliterary
 unlivable
@@ -128342,6 +128376,7 @@ wildland
 wildlands
 wildlife
 wildlings
+wildly
 wildness
 wildnesses
 wildwood
