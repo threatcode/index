@@ -6834,6 +6834,7 @@ attractions
 attractive
 attractively
 attractiveness
+attractor
 attractors
 attracts
 attributable
@@ -8717,6 +8718,7 @@ barrelhead
 barrelheads
 barrelhouse
 barrelhouses
+barreling
 barrelled
 barrelling
 barrels
@@ -24029,6 +24031,7 @@ coremium
 coreopsis
 corepressor
 corequisite
+corequisites
 corer
 corers
 cores
@@ -26986,6 +26989,7 @@ cymbals
 cymbidia
 cymbidium
 cymbling
+cyme
 cymes
 cymlin
 cymling
@@ -28593,6 +28597,7 @@ deflexed
 deflexion
 defloration
 deflorations
+deflowered
 deflowerers
 deflowers
 defoam
@@ -28963,6 +28968,7 @@ deliverers
 delivering
 delivers
 delivery
+deliveryman
 deliverymen
 dellies
 dells
@@ -30725,6 +30731,7 @@ dibbled
 dibblers
 dibbles
 dibbling
+dibbuk
 dibbuks
 dibenzofuran
 dibenzofurans
@@ -31714,6 +31721,7 @@ discontent
 discontentedly
 discontenting
 discontentment
+discontents
 discontinuances
 discontinuation
 discontinue
@@ -38433,6 +38441,7 @@ ethician
 ethicians
 ethicists
 ethicizes
+ethics
 ethinyl
 ethinyls
 ethion
@@ -43493,6 +43502,7 @@ footboys
 footbridges
 footdragger
 footdraggers
+footed
 footer
 footers
 footfall
@@ -52950,6 +52960,7 @@ honks
 honky
 honor
 honorability
+honorable
 honorablenesses
 honorands
 honoraria
@@ -53451,6 +53462,7 @@ houseworks
 housing
 housings
 houstonias
+hove
 hovel
 hoveled
 hovelling
@@ -54059,6 +54071,7 @@ hydroxylated
 hydroxylating
 hydroxyls
 hydroxyproline
+hydroxyprolines
 hydroxyurea
 hydroxyureas
 hydroxyzines
@@ -54567,6 +54580,7 @@ ices
 ich
 ichneumons
 ichnite
+ichnolite
 ichnolites
 ichnology
 ichor
@@ -55213,6 +55227,7 @@ immunologies
 immunologists
 immunology
 immunomodulator
+immunopathology
 immunosorbent
 immunosorbents
 immunosuppress
@@ -63073,6 +63088,7 @@ leechlike
 leek
 leeks
 leer
+leered
 leeriest
 leerily
 leeriness
@@ -63810,6 +63826,7 @@ ligate
 ligated
 ligates
 ligating
+ligation
 ligations
 ligative
 ligatured
@@ -68491,6 +68508,7 @@ metacarpus
 metacenter
 metacenters
 metacentric
+metacercariae
 metacercarial
 metachromatic
 metaethics
@@ -70193,6 +70211,7 @@ misguiding
 mishandle
 mishandled
 mishandling
+mishanter
 mishanters
 mishaps
 mishear
@@ -71806,6 +71825,7 @@ mossinesses
 mossing
 mossy
 most
+mostest
 mostests
 mostly
 mot
@@ -72718,6 +72738,7 @@ muskit
 muskits
 muskmelon
 muskmelons
+muskox
 muskoxen
 muskrat
 muskroot
@@ -77992,6 +78013,7 @@ orthodontist
 orthodontists
 orthodox
 orthodoxes
+orthodoxly
 orthodoxy
 orthoepic
 orthoepically
@@ -78218,6 +78240,7 @@ otiosely
 otioseness
 otiosenesses
 otiosity
+otitides
 otitis
 otocyst
 otocystic
@@ -83047,6 +83070,7 @@ penitence
 penitences
 penitential
 penitentiaries
+penlite
 penlites
 penman
 penmanship
@@ -85651,6 +85675,7 @@ placing
 placket
 plackets
 placks
+placoderm
 placoderms
 placoids
 plafond
@@ -86196,6 +86221,7 @@ plot
 plots
 plottage
 plotted
+plotter
 plotters
 plottier
 plotties
@@ -93467,6 +93493,7 @@ reapplying
 reappoint
 reappointed
 reappointing
+reappointment
 reappointments
 reappoints
 reapportion
@@ -99154,6 +99181,7 @@ roil
 roiled
 roilier
 roiliest
+roiling
 roils
 roily
 roister
@@ -99721,6 +99749,7 @@ rucksacks
 ruckus
 ruckuses
 ruction
+rudbeckia
 rudbeckias
 rudd
 rudder
@@ -109647,6 +109676,7 @@ staggers
 staggery
 staggier
 staggies
+staggiest
 staghound
 staghounds
 stagier
@@ -120660,6 +120690,7 @@ turacos
 turacou
 turacous
 turban
+turbaned
 turbanned
 turbans
 turbaries
@@ -120708,6 +120739,7 @@ turbulencies
 turbulency
 turbulent
 turbulently
+turd
 turdine
 turds
 tureen
@@ -121984,6 +122016,7 @@ uncloaks
 unclogging
 unclogs
 unclose
+unclosed
 unclosing
 unclothe
 unclothed
@@ -126707,6 +126740,7 @@ vivacity
 vivandieres
 vivaria
 vivaries
+vivarium
 vivariums
 vivas
 vive
@@ -129849,6 +129883,7 @@ wrens
 wrest
 wresters
 wresting
+wrestle
 wrestled
 wrestler
 wrestlers
