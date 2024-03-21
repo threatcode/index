@@ -2962,6 +2962,7 @@ amassers
 amasses
 amassing
 amassment
+amateur
 amateurish
 amateurishly
 amateurishness
@@ -6124,6 +6125,7 @@ ascidians
 ascidiate
 ascidium
 ascites
+asclepiads
 ascocarpic
 ascocarps
 ascogonia
@@ -6703,6 +6705,7 @@ atrip
 atrium
 atrocious
 atrociousnesses
+atrocities
 atrocity
 atrophia
 atrophied
@@ -18324,6 +18327,7 @@ checkmated
 checkmates
 checkmating
 checkoff
+checkoffs
 checkouts
 checkpoint
 checkpoints
@@ -20102,6 +20106,7 @@ clepsydras
 clept
 clerestories
 clerestory
+clergy
 clergyman
 clergywoman
 cleric
@@ -37341,6 +37346,7 @@ enunciator
 enunciators
 enure
 enured
+enures
 enureses
 enuresis
 enuresises
@@ -37793,6 +37799,7 @@ equations
 equator
 equatorial
 equators
+equatorward
 equerry
 equestrian
 equestrienne
@@ -43299,6 +43306,7 @@ foil
 foiled
 foils
 foilsman
+foilsmen
 foined
 foining
 foins
@@ -43612,6 +43620,7 @@ forcemeat
 forceps
 forcepslike
 forcer
+forces
 forcible
 forcibleness
 forciblenesses
@@ -48869,6 +48878,7 @@ grippe
 gripper
 grippers
 grippes
+grippiest
 gripping
 gripple
 grippy
@@ -50096,6 +50106,7 @@ halm
 halma
 halo
 halobiont
+halobionts
 halocarbon
 halocarbons
 halocline
@@ -52044,6 +52055,7 @@ hidable
 hidalgo
 hidalgos
 hidden
+hiddenites
 hiddenly
 hiddenness
 hiddennesses
@@ -53237,6 +53249,7 @@ hosels
 hosen
 hosepipe
 hosepipes
+hoser
 hosey
 hoseying
 hoseys
@@ -57107,6 +57120,7 @@ initializations
 initializes
 initializing
 initialled
+initialling
 initially
 initialness
 initialnesses
@@ -57181,6 +57195,7 @@ inlay
 inlayer
 inlayers
 inlaying
+inletting
 inlier
 inliers
 inly
@@ -58040,6 +58055,7 @@ interloping
 interlude
 interlunar
 interlunary
+intermale
 intermarriage
 intermarriages
 intermarried
@@ -69117,6 +69133,7 @@ middles
 middleweights
 middling
 middy
+midfielder
 midfielders
 midfields
 midges
@@ -72133,6 +72150,7 @@ mudding
 muddle
 muddleheaded
 muddler
+muddlers
 muddles
 muddly
 muddy
@@ -72546,6 +72564,7 @@ murdering
 murderous
 murderousnesses
 murders
+murein
 mureins
 mures
 murex
@@ -73648,6 +73667,7 @@ negotiable
 negotiant
 negotiants
 negotiate
+negotiated
 negotiates
 negotiating
 negotiations
@@ -77064,6 +77084,7 @@ oinking
 oinks
 oinology
 oinomels
+ointment
 ointments
 oiticica
 okapi
@@ -84461,6 +84482,7 @@ photometers
 photometric
 photometrically
 photometries
+photometry
 photomicrograph
 photomontages
 photomosaic
@@ -85469,6 +85491,7 @@ pitches
 pitchfork
 pitchforked
 pitchforking
+pitchforks
 pitchier
 pitchiest
 pitchily
@@ -86433,6 +86456,7 @@ poetises
 poetize
 poetized
 poetizer
+poetizes
 poetizing
 poetless
 poetries
@@ -96105,6 +96129,7 @@ remoteness
 remotenesses
 remotes
 remotest
+remotivate
 remotivated
 remotivates
 remotivating
@@ -96527,6 +96552,7 @@ replicated
 replicates
 replicating
 replication
+replicative
 replicon
 replied
 replier
@@ -102169,6 +102195,7 @@ scruffily
 scruffiness
 scruffinesses
 scruffy
+scrum
 scrummage
 scrummaged
 scrummages
@@ -102238,6 +102265,7 @@ sculptor
 sculptress
 sculptresses
 sculptural
+sculpture
 sculptured
 sculptures
 sculpturesque
@@ -108650,6 +108678,7 @@ spiderwort
 spiderworts
 spidery
 spied
+spiegel
 spiegeleisens
 spiegels
 spiel
@@ -109143,6 +109172,7 @@ spraddling
 sprag
 sprain
 sprained
+spraining
 sprains
 sprang
 sprat
@@ -123246,6 +123276,7 @@ unlikeliness
 unlikely
 unlikeness
 unlikenesses
+unlimbered
 unlimbering
 unlimited
 unlimitedly
@@ -125342,6 +125373,7 @@ variometer
 variometers
 variorum
 various
+variously
 variousnesses
 varisized
 varistor
@@ -125752,6 +125784,7 @@ verbalize
 verbalizer
 verbalizers
 verbalizes
+verbalizing
 verbally
 verbals
 verbena
@@ -125804,6 +125837,7 @@ veriest
 verifiability
 verifiable
 verifiableness
+verification
 verifications
 verifies
 verifying
@@ -129899,6 +129933,7 @@ xanthate
 xanthates
 xanthein
 xanthic
+xanthine
 xanthines
 xanthins
 xanthoma
