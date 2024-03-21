@@ -4411,6 +4411,7 @@ antiforeclosure
 antiforeign
 antiforeigner
 antiformalist
+antifouling
 antifreeze
 antifreezes
 antifriction
@@ -6329,6 +6330,7 @@ asseverating
 asseveration
 asseverations
 assiduities
+assiduously
 assiduousness
 assiduousnesses
 assign
@@ -9182,6 +9184,7 @@ beaucoups
 beauish
 beaus
 beauteous
+beauteously
 beauteousness
 beauteousnesses
 beautician
@@ -10990,6 +10993,7 @@ bioregionalists
 bioregions
 bioremediation
 bioremediations
+biorhythm
 biorhythms
 bios
 biosafeties
@@ -17158,6 +17162,7 @@ causals
 causations
 causative
 cause
+causeless
 causer
 causerie
 causeries
@@ -21032,6 +21037,7 @@ cog
 cogencies
 cogeneration
 cogenerations
+cogenerators
 cogent
 cogently
 cogged
@@ -25479,6 +25485,7 @@ creosote
 creosotes
 creosotic
 creosoting
+crepe
 creped
 crepes
 crepier
@@ -29900,6 +29907,7 @@ despiting
 despoil
 despoiled
 despoiler
+despoilment
 despoilments
 despoils
 despoliation
@@ -35611,6 +35619,7 @@ elegist
 elegists
 elegits
 elegize
+elegizing
 elegy
 element
 elemental
@@ -36978,6 +36987,7 @@ ensemble
 ensembles
 enserf
 enserfed
+enserfing
 enserfment
 enserfs
 ensheath
@@ -45423,6 +45433,7 @@ galagos
 galah
 galahs
 galangas
+galantine
 galantines
 galas
 galatea
@@ -45484,6 +45495,7 @@ galleta
 galletas
 galleting
 gallets
+galleys
 gallfly
 galliard
 galliards
@@ -49316,6 +49328,7 @@ gumboots
 gumbos
 gumbotil
 gumbotils
+gumdrop
 gumless
 gumlike
 gumline
@@ -53373,6 +53386,7 @@ hub
 hubbies
 hubbly
 hubbub
+hubbubs
 hubby
 hubcap
 hubris
@@ -54738,6 +54752,7 @@ illiterateness
 illites
 illitic
 illness
+illnesses
 illocutionary
 illogical
 illogicalities
@@ -54929,6 +54944,7 @@ immanently
 immaterialism
 immaterialists
 immaterialities
+immateriality
 immaterialize
 immaterializes
 immaterializing
@@ -57839,6 +57855,7 @@ interindividual
 interindustry
 interinfluences
 interinvolve
+interinvolves
 interior
 interiorise
 interiorised
@@ -63242,6 +63259,7 @@ letdown
 lethal
 lethalities
 lethally
+lethals
 lethargic
 lethargically
 lethe
@@ -63446,6 +63464,7 @@ libelist
 libelists
 libellant
 libellants
+libelled
 libellee
 libellees
 libeller
@@ -68811,6 +68830,7 @@ microhm
 microhms
 microimage
 microimages
+microinch
 microinches
 microinject
 microinjected
@@ -71487,6 +71507,7 @@ moresques
 morgan
 morganites
 morgans
+morgen
 morgue
 moribundity
 morn
@@ -77148,6 +77169,7 @@ onlay
 onlays
 online
 onloads
+onlooker
 onlooking
 only
 onomastic
@@ -79537,6 +79559,7 @@ overexplains
 overexploits
 overexpose
 overexposed
+overexposes
 overexposing
 overexposure
 overexposures
@@ -87379,6 +87402,7 @@ potablenesses
 potables
 potages
 potassic
+potassiums
 potation
 potations
 potatobugs
@@ -90684,6 +90708,7 @@ ptui
 ptyalins
 ptyalism
 ptyalisms
+pub
 pubertal
 puberties
 puberty
@@ -95462,6 +95487,7 @@ reissues
 reissuing
 reitbok
 reitboks
+reiterate
 reiterated
 reiterates
 reiterating
@@ -101371,6 +101397,7 @@ schiziest
 schizo
 schizocarp
 schizocarps
+schizogonic
 schizogonies
 schizogonous
 schizogony
@@ -103630,6 +103657,7 @@ shagged
 shaggiest
 shaggily
 shagginess
+shagginesses
 shaggy
 shaggymane
 shaggymanes
@@ -104515,6 +104543,7 @@ showgirls
 showier
 showman
 showmanly
+showmanships
 shown
 showoff
 showoffs
@@ -106050,6 +106079,7 @@ slimsiest
 sling
 slingback
 slingbacks
+slingers
 slinging
 slingshot
 slinked
@@ -113708,6 +113738,7 @@ swineherds
 swinepox
 swinepoxes
 swingby
+swinged
 swingeing
 swingers
 swinges
@@ -116137,6 +116168,7 @@ tetanies
 tetanise
 tetanised
 tetanising
+tetanization
 tetanizations
 tetanize
 tetanized
@@ -118234,6 +118266,7 @@ totalise
 totalising
 totalism
 totalisms
+totalist
 totalistic
 totalitarian
 totalitarianism
@@ -123684,6 +123717,7 @@ unsmiling
 unsmoked
 unsmoothed
 unsnag
+unsnagged
 unsnags
 unsnap
 unsnaps
@@ -126467,6 +126501,7 @@ vocalities
 vocalization
 vocalizations
 vocalize
+vocalized
 vocalizer
 vocalizes
 vocalizing
