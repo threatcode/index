@@ -41,6 +41,7 @@ abreacts
 abreast
 abri
 abridge
+abridged
 abridgement
 abridgements
 abridger
@@ -1017,6 +1018,7 @@ adhering
 adhesional
 adhesions
 adhesively
+adhesiveness
 adhesivenesses
 adhesives
 adhibited
@@ -2157,6 +2159,7 @@ airtime
 airward
 airwave
 airwaves
+airway
 airways
 airwise
 airwoman
@@ -7199,6 +7202,7 @@ autogyros
 autoharp
 autoharps
 autohypnoses
+autohypnotic
 autoimmune
 autoimmunities
 autoimmunity
@@ -11347,6 +11351,7 @@ bitumen
 bitumens
 bituminize
 bituminized
+bituminizes
 bituminizing
 bituminous
 bivalence
@@ -11885,6 +11890,7 @@ blotches
 blotchier
 blotchiest
 blotchily
+blotching
 blotchy
 blotless
 blots
@@ -13319,6 +13325,7 @@ brandying
 brank
 branks
 branned
+branniest
 brannigan
 branny
 brans
@@ -17619,6 +17626,7 @@ central
 centraler
 centralest
 centralise
+centralised
 centralism
 centralisms
 centralist
@@ -19740,6 +19748,7 @@ cirri
 cirriform
 cirriped
 cirripede
+cirripedes
 cirrocumuli
 cirrose
 cirrus
@@ -27821,6 +27830,7 @@ deaconry
 deacons
 deactivated
 deactivates
+deactivation
 deactivations
 deactivator
 deactivators
@@ -30381,6 +30391,7 @@ deucedly
 deuces
 deucing
 deuteragonist
+deuteragonists
 deuteranomalies
 deuteranomalous
 deuteranomaly
@@ -32717,6 +32728,7 @@ distinctnesses
 distingue
 distinguish
 distinguishable
+distinguishably
 distinguishing
 distome
 distomes
@@ -40638,6 +40650,7 @@ falteringly
 falters
 fame
 famed
+fames
 familial
 familiar
 familiarise
@@ -42580,6 +42593,7 @@ flamboyants
 flame
 flameless
 flamenco
+flamencos
 flameouts
 flameproof
 flameproofed
@@ -45586,6 +45600,7 @@ futurological
 futurologies
 futurologist
 futurologists
+futurology
 futzed
 futzes
 futzing
@@ -48965,6 +48980,7 @@ greenmails
 greennesses
 greenockite
 greenockites
+greenroom
 greenrooms
 greens
 greensand
@@ -50295,6 +50311,7 @@ halfbacks
 halfbeaks
 halfhearted
 halflives
+halfnesses
 halfpence
 halfpennies
 halfpenny
@@ -51620,6 +51637,7 @@ heliolatry
 heliometer
 heliometers
 heliometrically
+helios
 heliosphere
 heliospheres
 heliostat
@@ -63268,6 +63286,7 @@ leanings
 leanly
 leanness
 leannesses
+leap
 leaper
 leapers
 leapfrog
@@ -64680,6 +64699,7 @@ lithoed
 lithograph
 lithographer
 lithographers
+lithographic
 lithographies
 lithographs
 lithography
@@ -66120,6 +66140,7 @@ machining
 machinist
 machinists
 machismo
+machismos
 macho
 machs
 machzor
@@ -67471,6 +67492,7 @@ masquerader
 masquerades
 masquerading
 masquers
+masques
 mass
 massa
 massacred
@@ -72464,6 +72486,7 @@ mucker
 muckers
 muckier
 muckily
+mucking
 muckle
 muckles
 muckluck
@@ -80189,6 +80212,7 @@ overfunds
 overgarment
 overgarments
 overgeneralize
+overgeneralized
 overgeneralizes
 overgenerosity
 overgenerous
@@ -81751,6 +81775,7 @@ panned
 panner
 panners
 pannes
+pannier
 panniered
 panning
 panocha
@@ -81948,6 +81973,7 @@ paradisiacally
 paradisial
 paradisical
 parador
+paradores
 paradors
 parados
 paradoses
@@ -84893,6 +84919,7 @@ photoing
 photoionization
 photoionize
 photoionized
+photoionizes
 photojournalist
 photokinetic
 photolithograph
@@ -89652,6 +89679,7 @@ previewers
 previewing
 previews
 previous
+previously
 previousness
 previousnesses
 previse
@@ -92296,6 +92324,7 @@ quakinesses
 quakingly
 quaky
 quale
+qualifiable
 qualification
 qualifications
 qualified
@@ -95517,6 +95546,7 @@ reflows
 refluence
 refluences
 refluent
+refluxed
 refly
 reflying
 refocus
@@ -113536,6 +113566,7 @@ superclusters
 supercoil
 supercoiled
 supercoiling
+supercoils
 supercollider
 supercolliders
 supercolossal
@@ -120527,6 +120558,7 @@ tripodal
 tripodic
 tripodies
 tripods
+tripody
 tripoli
 tripos
 tripped
@@ -120697,6 +120729,7 @@ troke
 troked
 troking
 troland
+trolands
 troll
 troller
 trollers
@@ -124490,6 +124523,7 @@ unseam
 unseamed
 unseaming
 unsearchable
+unsearchably
 unseared
 unseasonably
 unseasoned
@@ -129534,6 +129568,7 @@ wilderness
 wildernesses
 wilders
 wildfires
+wildflower
 wildflowers
 wildfowl
 wildfowler
