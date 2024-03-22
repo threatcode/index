@@ -814,6 +814,7 @@ action
 actionable
 actionably
 actioner
+actioners
 actionless
 activated
 activates
@@ -4168,6 +4169,7 @@ antechapels
 antechoir
 anted
 antedate
+antedated
 antedates
 anteed
 antefixa
@@ -5047,6 +5049,7 @@ apomict
 apomictic
 apomictically
 apomicts
+apomixes
 apomixis
 aponeuroses
 aponeurosis
@@ -7909,6 +7912,7 @@ backstopping
 backstops
 backstreet
 backstretch
+backstroke
 backswept
 backswing
 backswings
@@ -14752,6 +14756,7 @@ bushwah
 bushwas
 bushwhack
 bushwhacked
+bushwhackers
 bushwhacking
 bushwhacks
 bushy
@@ -19383,6 +19388,7 @@ chunks
 chunky
 chunnel
 chuntered
+chuntering
 chunters
 chuppa
 chuppah
@@ -20403,6 +20409,7 @@ clothiers
 clothlike
 cloths
 clotted
+clotting
 clotty
 cloture
 clotured
@@ -23163,6 +23170,7 @@ consolidate
 consolidated
 consolidates
 consolidating
+consolidation
 consolidations
 consolidator
 consoling
@@ -26232,6 +26240,7 @@ crystallizer
 crystallizers
 crystallizes
 crystallography
+crystalloid
 crystalloids
 ctenidia
 ctenidium
@@ -28939,6 +28948,7 @@ deliberately
 deliberateness
 deliberates
 deliberating
+deliberation
 deliberative
 deliberatively
 delicacies
@@ -31513,6 +31523,7 @@ disaccharide
 disaccharides
 disaccord
 disaccorded
+disaccords
 disaccustom
 disaccustoming
 disaccustoms
@@ -34771,6 +34782,7 @@ dyscrasias
 dyscrasic
 dysenteric
 dysentery
+dysfunction
 dysfunctional
 dysgeneses
 dysgenics
@@ -35926,6 +35938,7 @@ elysian
 elytron
 elytrous
 elytrum
+em
 emaciate
 emaciated
 emaciates
@@ -48153,6 +48166,7 @@ gorgonizing
 gorgons
 gorhen
 gorier
+goriest
 gorilla
 gorillas
 gorily
@@ -48641,6 +48655,7 @@ gravamens
 gravel
 graveled
 graveless
+graveling
 gravelled
 gravelling
 gravelly
@@ -48847,6 +48862,7 @@ greisen
 gremials
 gremlin
 gremlins
+gremmie
 gremmies
 gremmy
 grenadier
@@ -49200,6 +49216,7 @@ growlers
 growliness
 growlinesses
 growling
+growlingly
 growls
 grown
 grownup
@@ -59220,6 +59237,7 @@ isagogics
 isallobaric
 isallobars
 isatin
+isatine
 isatines
 isatinic
 isatins
@@ -64934,6 +64952,7 @@ logotypes
 logotypy
 logrolled
 logrollers
+logrollings
 logrolls
 logway
 logways
@@ -77486,6 +77505,7 @@ onomatopoeic
 onomatopoetic
 onos
 onrush
+onrushing
 ons
 onsets
 onshore
@@ -82617,6 +82637,7 @@ pavans
 pave
 paved
 paveed
+pavement
 pavements
 paver
 pavers
@@ -85763,6 +85784,7 @@ placably
 placard
 placarded
 placarding
+placated
 placater
 placates
 placating
@@ -86361,6 +86383,7 @@ plotzed
 plotzes
 ploughers
 ploughing
+plover
 plowable
 plowback
 plowboy
@@ -87751,6 +87774,7 @@ potboy
 potboys
 poteen
 poteens
+potence
 potency
 potent
 potentate
@@ -91149,6 +91173,7 @@ pugginesses
 pugging
 puggish
 puggree
+puggrees
 puggries
 puggry
 puggy
@@ -95030,6 +95055,7 @@ reevaluation
 reevaluations
 reeve
 reeving
+reevoke
 reevoked
 reevokes
 reevoking
@@ -97107,6 +97133,7 @@ rerepeats
 rereviewed
 rereward
 rerigged
+rerigs
 rerisen
 rerises
 reroll
@@ -109558,6 +109585,7 @@ spurt
 spurter
 spurting
 spurts
+sputa
 sputniks
 sputter
 sputtered
@@ -111859,6 +111887,7 @@ subclasses
 subclassified
 subclassifies
 subclassify
+subclassing
 subclause
 subclavian
 subclerks
@@ -115171,6 +115200,7 @@ tambac
 tambacs
 tambak
 tambala
+tambalas
 tambour
 tambouras
 tamboured
@@ -119353,6 +119383,7 @@ translocation
 translocations
 translucence
 translucences
+translucency
 translucent
 translucently
 transmarine
@@ -120178,6 +120209,7 @@ trismus
 trismuses
 trisoctahedra
 trisoctahedron
+trisoctahedrons
 trisome
 trisomes
 trisomic
@@ -120946,6 +120978,7 @@ turgescent
 turgid
 turgidities
 turgidly
+turgidness
 turgite
 turgites
 turgor
@@ -126425,6 +126458,7 @@ vicinage
 vicinages
 vicinal
 vicing
+vicinity
 vicious
 viciously
 viciousness
@@ -127283,6 +127317,7 @@ vulcanisms
 vulcanite
 vulcanites
 vulcanizates
+vulcanization
 vulcanize
 vulcanized
 vulcanizer
