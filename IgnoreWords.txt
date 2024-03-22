@@ -552,6 +552,7 @@ acetonitriles
 acetophenetidin
 acetose
 acetous
+acetoxyls
 acetyl
 acetylated
 acetylates
@@ -1004,6 +1005,7 @@ adequately
 adequatenesses
 adherable
 adhere
+adhered
 adherence
 adherences
 adherends
@@ -2283,6 +2285,7 @@ alcaides
 alcaldes
 alcayde
 alcaydes
+alcazar
 alcazars
 alchemic
 alchemical
@@ -13165,6 +13168,7 @@ brachiation
 brachiations
 brachiator
 brachiopod
+brachiopods
 brachium
 brachs
 brachycephalic
@@ -13296,6 +13300,7 @@ branching
 branchiopod
 branchiopods
 branchless
+branchlet
 branchlets
 branchline
 branchlines
@@ -13733,6 +13738,7 @@ brionies
 briony
 briquette
 briquetted
+bris
 brisance
 brisances
 brises
@@ -23344,6 +23350,7 @@ consulships
 consultant
 consultants
 consultantship
+consultantships
 consultations
 consulted
 consultive
@@ -23973,6 +23980,7 @@ coprocessor
 coproduce
 coproduced
 coproducer
+coproduces
 coproducing
 coproduct
 coproduction
@@ -24558,6 +24566,7 @@ cosmopolitans
 cosmopolite
 cosmos
 cosmoses
+cosmotron
 cosmotrons
 cosponsor
 cosponsored
@@ -26460,6 +26469,7 @@ culottes
 culpability
 culpable
 culpableness
+culpably
 culpae
 cult
 cultches
@@ -26784,6 +26794,7 @@ curvetted
 curvetting
 curvey
 curviest
+curvilinear
 curvilinearity
 curving
 curvy
@@ -29702,6 +29713,7 @@ deposited
 deposition
 depositions
 depositor
+depositories
 depository
 deposits
 depots
@@ -31290,6 +31302,7 @@ dimethoates
 dimetric
 dimidiates
 dimidiating
+diminish
 diminishable
 diminished
 diminishing
@@ -31622,6 +31635,7 @@ disadvantaging
 disaffect
 disaffected
 disaffection
+disaffections
 disaffects
 disaffiliate
 disaffiliated
@@ -37155,6 +37169,7 @@ ennobling
 ennuye
 ennuyee
 enokidakes
+enokis
 enokitake
 enokitakes
 enol
@@ -47054,6 +47069,7 @@ gibbetting
 gibbing
 gibbon
 gibbose
+gibbosities
 gibbosity
 gibbous
 gibbsite
@@ -58293,6 +58309,7 @@ interlards
 interlay
 interlayered
 interlayering
+interlayers
 interlaying
 interlays
 interleaf
@@ -60778,6 +60795,7 @@ juxtaposes
 juxtaposition
 juxtapositional
 juxtapositions
+ka
 kaas
 kab
 kabala
@@ -65577,6 +65595,7 @@ lubricant
 lubricants
 lubricate
 lubricates
+lubricating
 lubrication
 lubrications
 lubricator
@@ -76284,6 +76303,7 @@ notational
 notations
 notch
 notchback
+notchbacks
 notched
 notcher
 notchers
@@ -79854,6 +79874,7 @@ overcautions
 overcautious
 overcentralizes
 overcharge
+overcharged
 overcharges
 overcheap
 overchill
@@ -86153,6 +86174,7 @@ plangently
 planimeter
 planimeters
 planished
+planisher
 planishes
 planishing
 planispheres
@@ -86454,6 +86476,7 @@ plebiscite
 plebiscites
 plebs
 plecopteran
+plectra
 plectron
 plectrums
 pledge
@@ -86605,6 +86628,7 @@ plotting
 plotty
 plotzed
 plotzes
+ploughed
 ploughers
 ploughing
 plover
@@ -88273,6 +88297,7 @@ praos
 prase
 praseodymium
 praseodymiums
+prases
 prat
 prate
 prated
@@ -88511,6 +88536,7 @@ precipitant
 precipitantly
 precipitantness
 precipitants
+precipitate
 precipitated
 precipitately
 precipitating
@@ -90455,6 +90481,7 @@ propaganda
 propagandas
 propagandistic
 propagandize
+propagandized
 propagandizer
 propagandizers
 propagandizes
@@ -93431,6 +93458,7 @@ raser
 rasers
 rash
 rasher
+rashers
 rashes
 rashest
 rashlike
@@ -100729,6 +100757,7 @@ sager
 sages
 saggard
 saggards
+saggared
 saggaring
 saggars
 sagged
@@ -101344,6 +101373,7 @@ sappily
 sappiness
 sappinesses
 sappy
+sapraemias
 sapremia
 sapremias
 saprobes
@@ -114714,6 +114744,7 @@ syllabub
 syllabubs
 syllabus
 syllabuses
+syllepses
 syllepsis
 syllogisms
 syllogistic
@@ -121893,6 +121924,7 @@ ultraenergetic
 ultraexclusive
 ultrafast
 ultrafastidious
+ultrafiche
 ultrafiches
 ultrafiltration
 ultrafine
@@ -125682,6 +125714,7 @@ vacs
 vacua
 vacuities
 vacuity
+vacuolated
 vacuolations
 vacuole
 vacuoles
@@ -127759,6 +127792,7 @@ wadsetting
 wae
 waeful
 waeness
+waenesses
 waes
 waesuck
 wafered
@@ -131410,6 +131444,7 @@ zonate
 zonated
 zone
 zoned
+zoners
 zones
 zonetime
 zoning
