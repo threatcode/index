@@ -1981,6 +1981,7 @@ agrias
 agribusiness
 agribusinessman
 agribusinessmen
+agrichemical
 agricultural
 agriculturally
 agriculture
@@ -7948,6 +7949,7 @@ backswings
 backtrack
 backtracked
 backtracking
+backtracks
 backup
 backward
 backwardly
@@ -13619,6 +13621,7 @@ brickkiln
 bricklayer
 bricklayers
 bricklaying
+bricklayings
 brickle
 brickles
 bricks
@@ -17336,6 +17339,7 @@ caveated
 caveating
 caveator
 caveators
+caved
 cavefish
 cavefishes
 caveman
@@ -18574,6 +18578,7 @@ chemotropism
 chemotropisms
 chemurgic
 chemurgies
+chemurgy
 chenilles
 chenopods
 cheongsams
@@ -19549,6 +19554,7 @@ cicerones
 ciceroni
 ciceros
 cichlid
+cichlidae
 cichlids
 cicisbei
 cicisbeism
@@ -19995,6 +20001,7 @@ claqueurs
 clarence
 claret
 claries
+clarifications
 clarified
 clarifiers
 clarifies
@@ -22051,6 +22058,7 @@ communise
 communised
 communises
 communism
+communisms
 communistic
 communitarian
 communitarians
@@ -33181,6 +33189,7 @@ doggoner
 doggones
 doggonest
 doggrel
+doggrels
 doggy
 doghouse
 doghouses
@@ -33777,6 +33786,7 @@ downrightnesses
 downs
 downscaling
 downshift
+downshifted
 downshifting
 downshifts
 downside
@@ -45594,6 +45604,7 @@ futureless
 futures
 futurism
 futurisms
+futurist
 futuristically
 futuristics
 futurological
@@ -47124,6 +47135,7 @@ giftee
 giftless
 giftware
 giftwares
+giftwrapped
 giftwraps
 gig
 gigabit
@@ -48915,6 +48927,7 @@ grebe
 grebes
 grecianize
 grecianizes
+grecianizing
 grecize
 grecized
 grecizes
@@ -49535,6 +49548,7 @@ guardian
 guardians
 guardianship
 guardianships
+guarding
 guardrail
 guardrooms
 guards
@@ -50106,6 +50120,7 @@ hadst
 hae
 haecceity
 haed
+haeing
 haem
 haemal
 haematal
@@ -51551,6 +51566,7 @@ hegemonic
 hegemonies
 hegemons
 hegemony
+hegumene
 hegumenes
 hegumenies
 hegumenos
@@ -52225,6 +52241,7 @@ heterotopic
 heterotroph
 heterotrophies
 heterotrophs
+heterozygoses
 heterozygosis
 heterozygote
 heterozygotes
@@ -62067,6 +62084,7 @@ kryolites
 kryolith
 kryoliths
 kryptons
+kuchens
 kudo
 kudos
 kudu
@@ -63606,6 +63624,7 @@ lengtheners
 lengthening
 lengthens
 lengthier
+lengthiest
 lengthily
 lengthinesses
 lengths
@@ -66850,6 +66869,7 @@ mandioca
 mandiocas
 mandola
 mandolas
+mandolin
 mandolines
 mandolinists
 mandolins
@@ -78313,6 +78333,7 @@ ormolus
 ornamental
 ornamentally
 ornamentals
+ornamentation
 ornamented
 ornaments
 ornate
@@ -80238,6 +80259,7 @@ overgoaded
 overgoads
 overgovern
 overgoverned
+overgoverning
 overgoverns
 overgrade
 overgraded
@@ -81639,6 +81661,7 @@ pamperer
 pamperers
 pampering
 pampero
+pamperos
 pamphlet
 pamphleteer
 pamphleteered
@@ -87135,6 +87158,7 @@ pollacks
 pollard
 pollarded
 pollarding
+pollards
 polled
 pollee
 pollenate
@@ -87565,6 +87589,7 @@ popliteal
 poplitei
 popliteus
 poplitic
+popovers
 poppa
 poppadom
 poppadoms
@@ -94024,6 +94049,7 @@ reasonability
 reasonable
 reasonableness
 reasonably
+reasoned
 reasoner
 reasoning
 reasonless
@@ -99893,6 +99919,7 @@ roselike
 rosemaling
 rosemalings
 rosemary
+roseolas
 roseries
 roseroots
 roses
@@ -100746,6 +100773,7 @@ safecracker
 safecracking
 safecrackings
 safeguard
+safeguarded
 safeguards
 safekeepings
 safelight
@@ -103656,6 +103684,7 @@ semioticians
 semioticist
 semioticists
 semiotics
+semipalmated
 semiparasites
 semipermanent
 semipermeable
@@ -110620,6 +110649,7 @@ steals
 stealthier
 stealthiness
 stealthinesses
+stealthy
 steam
 steamboat
 steamed
@@ -111864,6 +111894,7 @@ stroll
 stroller
 strollers
 strolls
+stroma
 stromal
 stromata
 strong
@@ -116015,6 +116046,7 @@ tautonymy
 tav
 tavern
 taverna
+taverners
 taverns
 taw
 tawdrier
@@ -125900,6 +125932,7 @@ valval
 valve
 valved
 valvelet
+valvelike
 valves
 valving
 valvula
@@ -128081,6 +128114,7 @@ wangans
 wangle
 wanglers
 wangles
+wangling
 wangun
 wanguns
 waniest
@@ -128769,6 +128803,7 @@ weer
 wees
 weeted
 weeting
+weever
 weevil
 weevilly
 weevils
