@@ -506,6 +506,7 @@ acephalic
 acephalous
 acequia
 acequias
+acerate
 acerated
 acerbate
 acerbated
@@ -787,6 +788,7 @@ actinian
 actinians
 actinias
 actinic
+actinically
 actinide
 actinides
 actinism
@@ -6422,6 +6424,7 @@ associating
 association
 associationism
 associationist
+associationists
 associations
 associative
 associatively
@@ -8630,6 +8633,7 @@ baring
 barite
 barites
 baritonal
+baritone
 baritones
 barium
 bariums
@@ -8764,6 +8768,7 @@ barricaded
 barricading
 barricado
 barricadoed
+barricadoing
 barricados
 barrier
 barriers
@@ -10870,6 +10875,7 @@ bindweeds
 bine
 biner
 biners
+binge
 binged
 bingeing
 binges
@@ -16335,6 +16341,7 @@ carbonyl
 carbonylation
 carbonylations
 carbonylic
+carbonyls
 carbora
 carboras
 carboxylase
@@ -22430,6 +22437,7 @@ concentric
 concentrically
 concentricity
 concents
+concept
 conceptacle
 concepti
 conceptional
@@ -23461,6 +23469,7 @@ continents
 contingence
 contingences
 contingencies
+contingency
 contingent
 contingently
 contingents
@@ -27732,6 +27741,7 @@ daycares
 daydream
 daydreamed
 daydreamer
+daydreaming
 daydreams
 daydreamt
 dayflies
@@ -32630,6 +32640,7 @@ distasteful
 distastefully
 distastefulness
 distelfink
+distemper
 distemperature
 distemperatures
 distempered
@@ -33785,6 +33796,7 @@ dozen
 dozened
 dozens
 dozenths
+dozers
 dozier
 doziest
 dozily
@@ -39023,6 +39035,7 @@ evocativenesses
 evocators
 evoke
 evoked
+evoker
 evokers
 evoking
 evolute
@@ -41746,6 +41759,7 @@ fibrotic
 fibrous
 fibrously
 fibrovascular
+fibsters
 fibula
 fibular
 fice
@@ -46820,6 +46834,7 @@ gerenuks
 gerfalcon
 geriatric
 geriatrician
+germ
 germander
 germanders
 germanic
@@ -48115,6 +48130,7 @@ gonifs
 goniometer
 goniometers
 goniometric
+goniometries
 goniometry
 gonion
 gonium
@@ -50328,6 +50344,7 @@ halothanes
 halt
 halterbreak
 halterbreaks
+halterbroke
 halterbroken
 haltere
 haltered
@@ -50911,6 +50928,7 @@ hastier
 hastiest
 hastiness
 hasty
+hatband
 hatbands
 hatbox
 hatch
@@ -56999,6 +57017,7 @@ infighters
 infighting
 infightings
 infights
+infill
 infiltrate
 infiltrates
 infiltrating
@@ -61396,6 +61415,7 @@ kilocycle
 kilocycles
 kilograms
 kilohertz
+kilohertzes
 kilojoule
 kilojoules
 kiloliter
@@ -65657,6 +65677,7 @@ lunas
 lunately
 lunatic
 lunation
+lunations
 lunch
 lunchboxes
 lunched
@@ -67849,6 +67870,7 @@ meaty
 mecamylamine
 mecamylamines
 mecca
+mechanic
 mechanical
 mechanician
 mechanicians
@@ -69291,6 +69313,7 @@ microquake
 microquakes
 microradiograph
 microreaders
+micros
 microscale
 microscales
 microscope
@@ -71836,6 +71859,7 @@ mopishly
 mopoke
 mopokes
 moppet
+moppets
 mopping
 mopy
 moquette
@@ -80230,6 +80254,7 @@ overleaf
 overleap
 overleaps
 overlearned
+overlearns
 overlearnt
 overlending
 overlength
@@ -84910,6 +84935,7 @@ phratral
 phratric
 phratries
 phratry
+phreaker
 phreaking
 phreakings
 phreaks
@@ -86824,6 +86850,7 @@ poinsettias
 point
 pointable
 pointed
+pointedly
 pointednesses
 pointelle
 pointelles
@@ -102662,6 +102689,7 @@ sculpt
 sculpted
 sculpting
 sculptor
+sculptors
 sculptress
 sculptresses
 sculptural
@@ -103232,6 +103260,7 @@ seismometer
 seismometric
 seismometries
 seismometry
+seisms
 seisor
 seisors
 seisure
@@ -105324,6 +105353,7 @@ shwanpans
 shwas
 shyer
 shyers
+shying
 shylocked
 shylocking
 shylocks
@@ -106787,6 +106817,7 @@ sloganeered
 sloganeers
 sloganize
 sloganizes
+sloganizing
 slogged
 slogger
 sloggers
@@ -111596,6 +111627,7 @@ strife
 strifeless
 strifes
 strigil
+strigils
 strigose
 strike
 strikebound
@@ -118925,6 +118957,7 @@ torulas
 tory
 tosh
 toshes
+toss
 tosser
 tossers
 tosses
@@ -129441,6 +129474,7 @@ wimpling
 wimps
 win
 winced
+wincey
 winceys
 winch
 winched
@@ -130270,6 +130304,7 @@ wove
 woven
 wovens
 wow
+wowed
 wowing
 wows
 wracked
