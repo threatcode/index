@@ -953,6 +953,7 @@ additivities
 additory
 addled
 addlepated
+addling
 address
 addressability
 addressable
@@ -3262,6 +3263,7 @@ amnesic
 amnesics
 amnestic
 amnesties
+amnesty
 amnestying
 amnia
 amnic
@@ -4831,6 +4833,7 @@ antonyms
 antonymy
 antral
 antre
+antrorse
 antrums
 ants
 antsier
@@ -19504,6 +19507,7 @@ chuckhole
 chuckies
 chucking
 chuckle
+chuckled
 chucklehead
 chuckleheaded
 chuckler
@@ -23132,6 +23136,7 @@ conicity
 conics
 conidia
 conidial
+conidiophore
 conidiophores
 conidium
 conies
@@ -29014,6 +29019,7 @@ defying
 degame
 degames
 degamis
+degas
 degases
 degassed
 degassers
@@ -31799,6 +31805,7 @@ dirl
 dirled
 dirling
 dirls
+dirndl
 dirtbag
 dirtbags
 dirtier
@@ -41536,6 +41543,7 @@ felicitate
 felicitated
 felicitates
 felicitating
+felicitation
 felicitations
 felicitator
 felicitators
@@ -48167,6 +48175,7 @@ glycosylate
 glycosylated
 glycosylates
 glycosylating
+glycosylation
 glycosylations
 glycosyls
 glycyl
@@ -48826,6 +48835,7 @@ grainers
 grainfield
 grainier
 graininess
+graininesses
 grainless
 grains
 grainy
@@ -49159,6 +49169,7 @@ graywackes
 graywaters
 grazable
 graze
+grazer
 grazier
 grazing
 grazingly
@@ -51816,6 +51827,7 @@ heehaws
 heel
 heeler
 heelers
+heelings
 heelless
 heelpiece
 heelpieces
@@ -54496,6 +54508,7 @@ hydrator
 hydrators
 hydraulic
 hydraulically
+hydraulics
 hydrazide
 hydrazines
 hydria
@@ -69849,6 +69862,7 @@ microsporophyll
 microsporous
 microstates
 microstructural
+microstructure
 microstructures
 microsurgery
 microsurgical
@@ -71528,6 +71542,7 @@ mizzenmast
 mizzens
 mizzle
 mizzled
+mizzles
 mizzling
 mizzly
 mm
@@ -72067,6 +72082,7 @@ monoglyceride
 monoglycerides
 monogramed
 monograming
+monogrammer
 monogrammers
 monogramming
 monograms
@@ -73008,6 +73024,7 @@ mudslinging
 mudstone
 mudstones
 mueddin
+mueddins
 muenster
 muensters
 muesli
@@ -74845,6 +74862,7 @@ neuron
 neuronal
 neurones
 neuropath
+neuropathic
 neuropathically
 neuropathies
 neuropathologic
@@ -77507,6 +77525,7 @@ obtainments
 obtains
 obtect
 obtected
+obtest
 obtesting
 obtests
 obtruded
@@ -78523,6 +78542,7 @@ opusculum
 opuses
 oquassa
 oquassas
+or
 ora
 orach
 oraches
@@ -88667,6 +88687,7 @@ pouffed
 pouffs
 poufs
 poulard
+poularde
 poulardes
 poulards
 poult
@@ -90498,6 +90519,7 @@ privatizes
 privatizing
 privet
 privets
+privies
 privileged
 privileges
 privileging
@@ -90579,6 +90601,7 @@ proceedings
 procercoid
 procercoids
 process
+processability
 processed
 processer
 processers
@@ -90770,6 +90793,7 @@ progenitor
 progenitors
 progeny
 progeria
+progerias
 progestational
 progesterone
 progesterones
@@ -90963,6 +90987,7 @@ promotion
 promotional
 promotions
 promotive
+promotiveness
 promotivenesses
 promptbooks
 prompted
@@ -93038,6 +93063,7 @@ quellable
 queller
 quellers
 quells
+quench
 quenchable
 quenched
 quencher
@@ -107295,6 +107321,7 @@ slattern
 slatternly
 slatterns
 slatting
+slattings
 slaty
 slaughter
 slaughtered
@@ -110775,6 +110802,7 @@ squooshed
 squooshes
 squooshier
 squush
+sraddha
 sradha
 sradhas
 sri
@@ -113751,6 +113779,7 @@ sufferers
 suffering
 sufferings
 suffers
+suffice
 sufficer
 sufficers
 suffices
@@ -115063,6 +115092,7 @@ swanpans
 swans
 swansdown
 swanskins
+swapped
 swapper
 swapping
 swaps
@@ -119020,6 +119050,7 @@ tinpot
 tins
 tinsel
 tinseling
+tinselling
 tinselly
 tinsels
 tinsmith
@@ -119336,6 +119367,7 @@ tola
 tolan
 tolanes
 tolans
+tolar
 tolarjev
 tolars
 tolas
@@ -126897,6 +126929,7 @@ vaudevillian
 vaudevillians
 vault
 vaulted
+vaulter
 vaultier
 vaultiest
 vaulting
@@ -127976,6 +128009,7 @@ viscousness
 viscousnesses
 viscus
 vise
+viseed
 viseing
 viselike
 vises
@@ -132306,6 +132340,7 @@ zoomorphs
 zooms
 zoon
 zoonal
+zooning
 zoonoses
 zoonotic
 zoons
