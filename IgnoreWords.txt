@@ -2063,6 +2063,7 @@ aims
 ain
 ains
 ainsells
+aioli
 aiolis
 air
 airbag
@@ -5261,6 +5262,7 @@ applicabilities
 applicant
 applicants
 application
+applications
 applicator
 applicators
 applicatory
@@ -5834,6 +5836,7 @@ armful
 armholes
 armies
 armigeral
+armigero
 armigeros
 armigerous
 armilla
@@ -13627,6 +13630,7 @@ breviary
 brevier
 breviers
 brevities
+brevity
 brew
 brewage
 brewages
@@ -17044,6 +17048,7 @@ catadioptric
 catadromous
 catafalque
 catafalques
+catalase
 catalases
 catalatic
 catalectics
@@ -17787,6 +17792,7 @@ cercus
 cere
 cereal
 cerebella
+cerebellar
 cerebra
 cerebral
 cerebrally
@@ -27507,6 +27513,7 @@ dalesmen
 daleth
 daleths
 dalliance
+dalliances
 dallied
 dalliers
 dallies
@@ -33197,6 +33204,7 @@ documentarists
 documentary
 documentation
 documentational
+documenter
 documenters
 documenting
 documents
@@ -36566,6 +36574,7 @@ emplace
 emplacement
 emplacements
 emplaces
+emplaned
 emplanes
 emplaning
 employ
@@ -40987,6 +40996,7 @@ farsightedness
 fart
 farted
 farther
+farthest
 farthingale
 farthings
 farting
@@ -42927,6 +42937,7 @@ flaxes
 flaxier
 flaxiest
 flaxseed
+flaxseeds
 flaxy
 flay
 flayed
@@ -43630,6 +43641,7 @@ focussed
 focusses
 fodder
 foddered
+foddering
 fodders
 fodgel
 foe
@@ -46617,6 +46629,7 @@ gazump
 gazumped
 gazumpers
 gazumping
+gazumps
 gear
 gearbox
 gearboxes
@@ -52059,6 +52072,7 @@ hennery
 hennish
 hennishly
 henotheism
+henotheisms
 henotheistic
 henotheists
 henpeck
@@ -53030,6 +53044,7 @@ hollowly
 hollowness
 hollownesses
 hollows
+hollowware
 hollowwares
 holly
 hollyhock
@@ -57964,6 +57979,7 @@ inspan
 inspanned
 inspanning
 inspecting
+inspections
 inspective
 inspector
 inspectorate
@@ -60095,6 +60111,7 @@ japonaiseries
 japonica
 jar
 jardiniere
+jarful
 jarfuls
 jargon
 jargoned
@@ -69254,6 +69271,7 @@ methylators
 methylcellulose
 methyldopa
 methylene
+methylenes
 methylic
 methylmercuries
 methylmercury
@@ -69479,6 +69497,7 @@ microfaunal
 microfaunas
 microfibril
 microfibrillar
+microfibrils
 microfiche
 microfiches
 microfilament
@@ -81959,6 +81978,7 @@ panfried
 panfry
 panful
 panfuls
+pang
 panga
 pangas
 pangen
@@ -87136,6 +87156,7 @@ podium
 podiums
 podocarp
 podomere
+podophylli
 podophyllins
 podophyllum
 pods
@@ -100462,6 +100483,7 @@ rubboard
 rubby
 rube
 rubefacient
+rubefacients
 rubel
 rubellite
 rubeola
@@ -101645,6 +101667,7 @@ saponifies
 saponifying
 saponin
 saponine
+saponines
 saponins
 saponite
 saponites
@@ -103189,6 +103212,7 @@ scutworks
 scuzzes
 scuzzier
 scuzzy
+scyphate
 scyphi
 scyphistoma
 scyphistomas
@@ -104794,6 +104818,7 @@ shammosim
 shammy
 shamosim
 shampoo
+shampooed
 shampooer
 shampooing
 shampoos
@@ -107268,6 +107293,7 @@ sloppily
 slopping
 sloppy
 slops
+slopwork
 slopworks
 sloshed
 sloshes
@@ -108853,6 +108879,7 @@ soundings
 soundless
 soundly
 soundman
+soundness
 soundnesses
 soundproofed
 soundproofing
@@ -110429,6 +110456,7 @@ squishing
 squishy
 squooshed
 squooshes
+squooshier
 squush
 sradha
 sradhas
@@ -110749,6 +110777,7 @@ starknesses
 starlights
 starlike
 starling
+starlit
 starnose
 starnoses
 starred
@@ -111455,6 +111484,7 @@ stitching
 stitchwort
 stitchworts
 stithies
+stithy
 stithying
 stiver
 stivers
@@ -119668,6 +119698,7 @@ toyer
 toyless
 toylike
 toyons
+toyos
 toyshops
 trabeate
 trabeation
@@ -119948,6 +119979,7 @@ transaxle
 transaxles
 transceiver
 transcend
+transcended
 transcendences
 transcendency
 transcendent
@@ -122610,6 +122642,7 @@ unbalance
 unbalanced
 unbaling
 unballasted
+unbandage
 unbandaged
 unbandaging
 unbanded
@@ -130063,6 +130096,7 @@ winds
 windscreens
 windshields
 windsock
+windstorm
 windstorms
 windsurf
 windsurfed
@@ -130223,6 +130257,7 @@ wiretapping
 wireway
 wireways
 wirework
+wireworks
 wireworm
 wireworms
 wirier
