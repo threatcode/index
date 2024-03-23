@@ -1,0 +1,7 @@
+mojito-snowplow-storage/redshift-datamodels/base_exposures.sql ...,https://github.com/mint-metrics/mojito-snowplow-storage/blob/master/redshift-datamodels/base_exposures.sql
+fct_rejoining_of_upstream_conc...,https://github.com/dbt-labs/dbt-project-evaluator/blob/main/models/marts/dag/fct_rejoining_of_upstream_concepts.sql
+https://docs.oracle.com/cd/E60529_01/books/Basel/I...,https://docs.oracle.com/cd/E60529_01/books/Basel/ICC_Batch_Insert.sql
+http://xmmssc.irap.omp.eu/Catalogue/4XMM-DR11/load...,http://xmmssc.irap.omp.eu/Catalogue/4XMM-DR11/load_4xmmdr11cat.sql
+https://code.imphub.org/projects/PT/repos/oneposda...,https://code.imphub.org/projects/PT/repos/oneposda/raw/database/all.sql%3Fat%3D5ae04f9bf58bcc645978341e9d56c11805626c28
+https://raw.githubusercontent.com/openemr/openemr/...,https://raw.githubusercontent.com/openemr/openemr/aa42240771e37d41379d506e1e54d80f8e40533a/contrib/util/language_translations/currentLanguage_utf8.sql
+http://translations.openemr.io/languageTranslation...,http://translations.openemr.io/languageTranslations_utf8.sql
