@@ -4086,6 +4086,7 @@ annular
 annularly
 annulated
 annulation
+annulations
 annulet
 annulets
 annuli
@@ -5436,6 +5437,7 @@ aquaculturist
 aquaculturists
 aquae
 aquafarm
+aquafarmed
 aquafarms
 aqualung
 aqualungs
@@ -11662,6 +11664,7 @@ blastocysts
 blastoderm
 blastoderms
 blastodiscs
+blastoff
 blastomas
 blastomata
 blastomere
@@ -13703,6 +13706,7 @@ brew
 brewage
 brewages
 breweries
+brewers
 brewery
 brewing
 brewis
@@ -21153,6 +21157,7 @@ coda
 codas
 codded
 codder
+codding
 coddled
 coddler
 coddlers
@@ -24206,6 +24211,7 @@ coprocessor
 coproduce
 coproduced
 coproducer
+coproducers
 coproduces
 coproducing
 coproduct
@@ -27040,6 +27046,7 @@ curtsying
 curvaceous
 curvacious
 curvature
+curvatures
 curve
 curveball
 curveballing
@@ -28715,6 +28722,7 @@ decreer
 decreers
 decrees
 decrement
+decremental
 decrements
 decrepit
 decrepitated
@@ -38852,6 +38860,7 @@ esterify
 esterifying
 esters
 estheses
+esthesia
 esthesias
 esthesis
 esthete
@@ -41838,6 +41847,7 @@ ferbams
 fere
 feres
 feretory
+feria
 feriae
 ferial
 ferine
@@ -52777,6 +52787,7 @@ hi
 hiatal
 hiatus
 hibachi
+hibachis
 hibernacula
 hibernaculum
 hibernal
@@ -58925,6 +58936,7 @@ interment
 intermesh
 intermeshed
 intermetallic
+intermezzi
 intermezzo
 intermezzos
 interminable
@@ -63394,6 +63406,7 @@ larkish
 larksome
 larkspur
 larkspurs
+larrigans
 larrikins
 larrup
 larruper
@@ -65112,6 +65125,7 @@ lipids
 lipins
 lipless
 lipocyte
+lipogeneses
 lipogenesis
 lipoid
 lipolitic
@@ -67607,6 +67621,7 @@ manlinesses
 manly
 manmade
 mannan
+mannans
 mannas
 manned
 mannequin
@@ -72413,6 +72428,7 @@ monopsonistic
 monopsony
 monorail
 monorails
+monorchid
 monorchidism
 monorchidisms
 monorchids
@@ -74338,6 +74354,7 @@ nargiles
 narial
 narine
 nark
+narking
 narks
 narky
 narrated
@@ -76444,6 +76461,7 @@ nonmetro
 nonmicrobial
 nonmigrant
 nonmigratory
+nonmilitant
 nonmilitary
 nonmimetic
 nonminorities
@@ -78604,6 +78622,7 @@ opens
 openwork
 openworks
 opera
+operabilities
 operability
 operable
 operagoer
@@ -80698,6 +80717,7 @@ overcompress
 overcompressed
 overcompresses
 overcompressing
+overconcerned
 overconcerns
 overconfidences
 overconfident
@@ -81628,6 +81648,7 @@ overtrimmed
 overtrump
 overtrumped
 overtrumping
+overture
 overtured
 overtures
 overturing
@@ -82138,6 +82159,7 @@ painstaking
 painstakings
 paint
 paintable
+paintball
 paintballs
 paintbrush
 paintbrushes
@@ -88171,6 +88193,7 @@ polyploidies
 polyploidy
 polypnea
 polypneas
+polypneic
 polypod
 polypodies
 polypody
@@ -92909,6 +92932,7 @@ pyramidal
 pyramidally
 pyramided
 pyramidic
+pyramidical
 pyramiding
 pyramids
 pyran
@@ -101721,6 +101745,7 @@ sagittate
 sago
 sagos
 sags
+saguaro
 saguaros
 sagum
 sagy
@@ -107861,6 +107886,7 @@ slipcover
 slipcovers
 slipdress
 slipe
+sliped
 slipes
 slipform
 slipformed
@@ -108752,6 +108778,7 @@ snugness
 snugs
 snye
 snyes
+so
 soak
 soakage
 soaked
@@ -113873,6 +113900,7 @@ subsumed
 subsumes
 subsuming
 subsumption
+subsumptions
 subsurfaces
 subsystems
 subtask
@@ -114737,6 +114765,7 @@ superindividual
 superinduce
 superinduced
 superinduces
+superinduction
 superinductions
 superinfect
 superinfected
@@ -114948,6 +114977,7 @@ superstrings
 superstructural
 superstructures
 superstud
+supersubtle
 supersubtleties
 supersubtlety
 supersurgeon
@@ -117800,6 +117830,7 @@ tenterhooks
 tentering
 tenters
 tenthly
+tenths
 tentie
 tentier
 tenting
@@ -118074,6 +118105,7 @@ testatrices
 testatrix
 testcross
 testcrossed
+testcrossing
 tested
 testees
 tester
@@ -120990,6 +121022,7 @@ transvestites
 trap
 trapan
 trapanned
+trapanning
 trapball
 trapesed
 trapesing
@@ -121416,6 +121449,7 @@ trickle
 trickles
 tricklier
 trickliest
+trickling
 trickly
 tricks
 tricksier
@@ -132559,6 +132593,7 @@ zeroed
 zeroing
 zeros
 zeroth
+zest
 zester
 zesters
 zestful
