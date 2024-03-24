@@ -916,6 +916,7 @@ adaptational
 adaptationally
 adaptations
 adapted
+adaptednesses
 adapter
 adapters
 adapting
@@ -3987,6 +3988,7 @@ anisic
 anisogamies
 anisogamous
 anisoles
+anisometropia
 anisometropias
 anisotropic
 anisotropically
@@ -4778,6 +4780,7 @@ antistatic
 antistats
 antistories
 antistory
+antistress
 antistrike
 antistrophe
 antistrophes
@@ -8619,6 +8622,7 @@ barbarousness
 barbarousnesses
 barbasco
 barbascos
+barbate
 barbe
 barbecued
 barbecuer
@@ -10146,6 +10150,7 @@ bentos
 bentwood
 benumbed
 benumbing
+benumbs
 benzaldehyde
 benzaldehydes
 benzanthracene
@@ -10159,6 +10164,7 @@ benzimidazole
 benzimidazoles
 benzin
 benzine
+benzines
 benzins
 benzoapyrene
 benzoapyrenes
@@ -10533,6 +10539,7 @@ beworms
 beworries
 beworrying
 bewrap
+bewrapped
 bewrapping
 bewraps
 bewrapt
@@ -19315,6 +19322,7 @@ chompers
 chomping
 chomps
 chondriosome
+chondriosomes
 chondrites
 chondritic
 chondrocrania
@@ -25249,6 +25257,7 @@ countless
 countlessly
 countries
 country
+countryfied
 countryish
 countryman
 countryseat
@@ -25977,6 +25986,7 @@ crescent
 crescentic
 crescents
 crescive
+crescively
 cresols
 cress
 cresses
@@ -28282,6 +28292,7 @@ debased
 debasement
 debasements
 debaser
+debases
 debatable
 debate
 debated
@@ -34005,6 +34016,7 @@ douceurs
 douchebags
 douched
 douches
+douching
 dough
 doughboy
 doughboys
@@ -38369,6 +38381,7 @@ epopee
 epopees
 epopoeia
 epopoeias
+epos
 eposes
 epoxidation
 epoxidations
@@ -40064,6 +40077,7 @@ exoticnesses
 exotism
 exotoxic
 exotoxin
+exotropias
 exotropic
 expandabilities
 expandability
@@ -41612,6 +41626,7 @@ febrific
 febrifuge
 febrifuges
 febrile
+febrilities
 febrility
 feces
 fecial
@@ -45520,10 +45535,12 @@ frontward
 frore
 frost
 frostbit
+frostbite
 frostbites
 frostbitings
 frostbitten
 frosted
+frosteds
 frostfishes
 frostier
 frostiest
@@ -45687,6 +45704,7 @@ fuelers
 fueling
 fuelled
 fueller
+fuellers
 fuelling
 fuels
 fuelwood
@@ -46300,6 +46318,7 @@ galivants
 gall
 gallamine
 gallamines
+gallant
 gallanting
 gallantly
 gallantries
@@ -49626,6 +49645,7 @@ grimacing
 grimalkin
 grimalkins
 grime
+grimed
 grimier
 grimiest
 grimily
@@ -50924,6 +50944,7 @@ halogenating
 halogenation
 halogenations
 halogenous
+halogens
 halogeton
 halogetons
 haloids
@@ -51529,6 +51550,7 @@ hasted
 hasteful
 hasten
 hastener
+hasteners
 hastening
 hastens
 hastes
@@ -56588,6 +56610,7 @@ impulsiveness
 impulsivenesses
 impulsivities
 impulsivity
+impunities
 impure
 impureness
 impurenesses
@@ -59155,6 +59178,7 @@ interrelating
 interrelations
 interrenal
 interrex
+interrobang
 interrogate
 interrogatee
 interrogatees
@@ -62809,6 +62833,7 @@ kybosh
 kyboshed
 kyboshes
 kyboshing
+kye
 kyes
 kylikes
 kylix
@@ -66419,6 +66444,7 @@ lumber
 lumbered
 lumberer
 lumberers
+lumberjack
 lumberman
 lumbermen
 lumberyard
@@ -78679,6 +78705,7 @@ oozier
 ooziness
 oozinesses
 oozing
+oozy
 op
 opacified
 opacifies
@@ -80183,6 +80210,7 @@ outpushes
 output
 outputs
 outputted
+outputting
 outquoted
 outquotes
 outquoting
@@ -80421,6 +80449,7 @@ outstate
 outstated
 outstates
 outstating
+outstations
 outstay
 outstayed
 outstaying
@@ -82778,6 +82807,7 @@ paperhangers
 paperhangings
 paperiness
 papering
+papermakers
 papermakings
 papers
 paperweight
@@ -96646,6 +96676,7 @@ refrainment
 refrainments
 refrains
 reframe
+reframed
 reframes
 refrangibility
 refrangibleness
@@ -103195,6 +103226,7 @@ schedular
 schedule
 scheduled
 scheduler
+schedulers
 schedules
 scheelite
 schema
@@ -108119,6 +108151,7 @@ slopped
 sloppier
 sloppiest
 sloppily
+sloppinesses
 slopping
 sloppy
 slops
@@ -108323,6 +108356,7 @@ smartnesses
 smarts
 smartweed
 smash
+smashed
 smasher
 smashers
 smashes
@@ -125396,6 +125430,7 @@ unmingled
 unmingles
 unmingling
 unmistakable
+unmistakably
 unmitered
 unmitering
 unmiters
