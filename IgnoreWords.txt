@@ -5503,6 +5503,7 @@ arachnid
 arachnoid
 arachnoids
 aragonite
+aragonitic
 arak
 araks
 arame
@@ -5547,6 +5548,7 @@ arbitresses
 arbor
 arboreal
 arboreally
+arbored
 arborescent
 arboretum
 arboretums
@@ -5677,6 +5679,7 @@ archnesses
 archon
 archons
 archosaur
+archosaurian
 archosaurs
 archpriest
 archrival
@@ -10579,6 +10582,7 @@ biathletes
 biathlon
 biathlons
 biaxal
+biaxially
 bib
 bibbed
 bibber
@@ -13439,6 +13443,7 @@ branding
 brandish
 brandishes
 brandishing
+brandless
 brandlings
 brands
 brandying
@@ -14815,6 +14820,7 @@ burlesquers
 burlesques
 burley
 burleys
+burlier
 burliest
 burlily
 burlinesses
@@ -15192,6 +15198,7 @@ bytalk
 bytalks
 byte
 bytes
+byways
 bywords
 bywork
 byworks
@@ -16938,6 +16945,7 @@ cartoonlike
 cartoons
 cartop
 cartoppers
+cartouch
 cartouche
 cartouches
 cartridge
@@ -18089,6 +18097,7 @@ chairwoman
 chairwomen
 chais
 chaise
+chaises
 chakra
 chakras
 chalah
@@ -21158,6 +21167,7 @@ cocreating
 cocreator
 cocreators
 cocultivated
+cocultivates
 cocultivating
 cocultivation
 cocultured
@@ -28866,6 +28876,7 @@ defalcate
 defalcated
 defalcates
 defalcating
+defalcation
 defalcator
 defalcators
 defamation
@@ -33973,6 +33984,7 @@ doubtlessnesses
 doubts
 douce
 douceur
+douceurs
 douchebags
 douched
 douches
@@ -37277,6 +37289,7 @@ endowing
 endowments
 endozoic
 endpaper
+endplate
 endplates
 endplayed
 endplaying
@@ -37951,6 +37964,7 @@ enviers
 envies
 envious
 enviously
+enviousnesses
 enviro
 environ
 environing
@@ -43574,6 +43588,7 @@ florigenic
 florigens
 florilegia
 florilegium
+florist
 floristic
 floristically
 floristries
@@ -45369,6 +45384,7 @@ frittering
 fritters
 fritting
 fritts
+fritz
 fritzes
 frivol
 frivoled
@@ -49215,6 +49231,7 @@ graplines
 grapnel
 grapnels
 grappa
+grappled
 grappler
 grapplers
 grapples
@@ -49532,6 +49549,7 @@ gridiron
 gridironed
 gridironing
 gridirons
+gridlock
 gridlocked
 gridlocking
 gridlocks
@@ -51706,6 +51724,7 @@ head
 headache
 headaches
 headachey
+headachier
 headachiest
 headachy
 headband
@@ -52282,6 +52301,7 @@ hematurias
 hematuric
 heme
 hemelytra
+hemelytron
 hemelytrum
 hemerocallis
 hemerythrin
@@ -75997,6 +76017,7 @@ nonclassroom
 nonclerical
 noncling
 nonclinical
+nonclogging
 noncoding
 noncoercive
 noncognitive
@@ -77975,6 +77996,7 @@ octad
 octads
 octagon
 octagonal
+octagonally
 octagons
 octahedra
 octahedral
@@ -86078,6 +86100,7 @@ piasaba
 piasabas
 piasava
 piasavas
+piassabas
 piassava
 piassavas
 piasters
@@ -87703,6 +87726,7 @@ pneumococcus
 pneumoconioses
 pneumoconiosis
 pneumographs
+pneumonectomies
 pneumonectomy
 pneumonias
 pneumonitis
@@ -94857,6 +94881,7 @@ realness
 realpolitik
 realpolitiks
 reals
+realtered
 realtering
 realters
 realties
@@ -95616,6 +95641,7 @@ recontour
 recontoured
 recontouring
 recontours
+reconvene
 reconvened
 reconvenes
 reconvening
@@ -97599,6 +97625,7 @@ remolding
 remolds
 remonetization
 remonetizations
+remonetized
 remonetizes
 remonetizing
 remonstrant
@@ -97755,6 +97782,7 @@ renotifying
 renounce
 renounced
 renouncement
+renouncements
 renouncer
 renouncers
 renounces
@@ -98699,6 +98727,7 @@ resisters
 resistibilities
 resistibility
 resistible
+resisting
 resistive
 resistively
 resistiveness
@@ -116957,6 +116986,7 @@ tarantist
 tarantists
 tarantula
 tarantulae
+tarantulas
 tarboosh
 tarbooshes
 tarbush
@@ -121065,6 +121095,7 @@ transudate
 transudates
 transudation
 transudations
+transuded
 transuding
 transuranic
 transuranics
@@ -127182,6 +127213,7 @@ vampiric
 vampirish
 vampirism
 vampirisms
+vampish
 vamps
 van
 vanadate
@@ -127214,6 +127246,7 @@ vangs
 vanguard
 vanguardism
 vanguardisms
+vanguardist
 vanguards
 vanillas
 vanillic
@@ -129424,6 +129457,7 @@ wardenship
 wardenships
 warder
 warding
+wardless
 wardress
 wardresses
 wardrobe
@@ -129945,6 +129979,7 @@ weathercock
 weathered
 weatherglass
 weatherings
+weatherization
 weatherizations
 weatherize
 weatherized
