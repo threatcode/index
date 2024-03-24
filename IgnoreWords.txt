@@ -3723,6 +3723,7 @@ andesitic
 andesyte
 andesytes
 andiron
+andirons
 andouille
 andouilles
 andouillettes
@@ -6805,6 +6806,7 @@ atria
 atrip
 atrium
 atrocious
+atrociously
 atrociousnesses
 atrocities
 atrocity
@@ -9214,6 +9216,7 @@ beachcombers
 beachcombing
 beachcombs
 beached
+beachfront
 beachfronts
 beachgoer
 beachhead
@@ -13117,6 +13120,7 @@ bourgeoises
 bourgeoisified
 bourgeoisifying
 bourgeoning
+bourgs
 bourguignonne
 bourn
 bourns
@@ -21693,6 +21697,7 @@ collared
 collaret
 collars
 collate
+collated
 collateralize
 collateralized
 collateralizes
@@ -24099,6 +24104,7 @@ coolie
 coolies
 cooling
 coolish
+coolly
 cools
 coolth
 coolths
@@ -30833,6 +30839,7 @@ devitrify
 devitrifying
 devocalize
 devocalized
+devocalizes
 devoice
 devoiced
 devoices
@@ -31551,6 +31558,7 @@ diking
 diktat
 dilapidate
 dilapidates
+dilapidating
 dilapidation
 dilatabilities
 dilatability
@@ -31845,6 +31853,7 @@ diplophase
 diplophases
 diplopia
 diplopias
+diplopic
 diplopod
 diplopods
 diploses
@@ -33154,6 +33163,7 @@ disuniters
 disunities
 disuniting
 disunity
+disuse
 disused
 disuses
 disutility
@@ -37926,6 +37936,7 @@ entwists
 enucleates
 enucleating
 enucleations
+enumerabilities
 enumerable
 enumerate
 enumerated
@@ -38595,6 +38606,7 @@ ernes
 erodable
 erode
 erodes
+erodibilities
 erodible
 eroding
 erogenic
@@ -56000,6 +56012,7 @@ immix
 immixed
 immixes
 immixture
+immobile
 immobilism
 immobilisms
 immobilities
@@ -56228,6 +56241,7 @@ imperceptibly
 imperceptive
 impercipient
 imperfect
+imperfections
 imperfective
 imperfectly
 imperfectness
@@ -56376,6 +56390,7 @@ imponderables
 imponderably
 impone
 imponed
+impones
 imponing
 imporous
 importable
@@ -58090,6 +58105,7 @@ inkpot
 inkpots
 inks
 inkstand
+inkstands
 inkstones
 inkwells
 inkwoods
@@ -63651,6 +63667,7 @@ latosol
 latosolic
 latosols
 latria
+latrias
 latrine
 latrines
 lats
@@ -64060,6 +64077,7 @@ leek
 leeks
 leer
 leered
+leerier
 leeriest
 leerily
 leeriness
@@ -74345,6 +74363,7 @@ nanometers
 nanometre
 nanometres
 nanoscale
+nanosecond
 nanoseconds
 nanotech
 nanotechs
@@ -79055,6 +79074,7 @@ organismically
 organisms
 organist
 organists
+organizable
 organization
 organizational
 organizations
@@ -80331,6 +80351,7 @@ outsmart
 outsmarted
 outsmarting
 outsmell
+outsmelled
 outsmelling
 outsmells
 outsmelt
@@ -81479,6 +81500,7 @@ overruffing
 overruffs
 overrule
 overruled
+overrules
 overruling
 overrunning
 overruns
@@ -100789,6 +100811,7 @@ romping
 rompingly
 rompish
 romps
+roms
 rondeau
 rondeaux
 rondel
@@ -103660,6 +103683,7 @@ scrapples
 scraps
 scratch
 scratchboard
+scratchboards
 scratched
 scratches
 scratchier
@@ -109489,6 +109513,7 @@ sooner
 sooners
 soonest
 soot
+sooted
 sooth
 soothe
 soothed
@@ -110876,6 +110901,7 @@ sportsmanly
 sportswear
 sportswoman
 sportswomen
+sportswriters
 sportswriting
 sportswritings
 sporty
@@ -112220,6 +112246,7 @@ stiles
 stilettoed
 stilettoes
 stilettoing
+stilettos
 still
 stillbirth
 stillbirths
@@ -112502,6 +112529,7 @@ stonewort
 stoneworts
 stoney
 stoniest
+stonily
 stoniness
 stoninesses
 stoning
@@ -114216,6 +114244,7 @@ suckering
 suckers
 suckfish
 suckfishes
+suckiest
 suckle
 suckler
 suckles
@@ -117216,6 +117245,7 @@ tauten
 tautened
 tautens
 tauter
+tautest
 tauting
 tautly
 tautog
@@ -119168,6 +119198,7 @@ thunderstriking
 thunderstrokes
 thunderstruck
 thundery
+thunk
 thunking
 thurible
 thuribles
@@ -120474,6 +120505,7 @@ tourbillons
 tourer
 tourings
 tourism
+tourisms
 tourista
 touristas
 touristed
@@ -121805,6 +121837,7 @@ triples
 triplet
 triplets
 triplexes
+triplicate
 triplicated
 triplicates
 triplicating
@@ -129560,6 +129593,7 @@ warpages
 warpaths
 warpers
 warping
+warplane
 warplanes
 warpower
 warpowers
@@ -131926,6 +131960,7 @@ wrestled
 wrestler
 wrestlers
 wrestling
+wrestlings
 wrests
 wretch
 wretched
