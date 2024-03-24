@@ -323,6 +323,7 @@ acceptees
 accepters
 accepting
 acceptingly
+acceptingness
 acceptive
 acceptor
 acceptors
@@ -3258,6 +3259,7 @@ ammono
 ammonoid
 ammonoids
 ammunition
+ammunitions
 amnesia
 amnesic
 amnesics
@@ -5194,6 +5196,7 @@ apparitor
 apparitors
 appeal
 appealabilities
+appealability
 appealed
 appealer
 appealers
@@ -6498,6 +6501,7 @@ assonantal
 assortative
 assortatively
 assorted
+assortment
 assortments
 assuage
 assuaged
@@ -8262,6 +8266,7 @@ baleens
 balefire
 balefulness
 balefulnesses
+baler
 baling
 balisaurs
 balkanization
@@ -8738,6 +8743,7 @@ barms
 barnacle
 barnacles
 barned
+barneys
 barnier
 barniest
 barnstorm
@@ -10030,6 +10036,7 @@ benchmarking
 benchmarkings
 benchwarmer
 benchwarmers
+bend
 bendable
 benday
 bendayed
@@ -11595,6 +11602,7 @@ blander
 blandish
 blandished
 blandisher
+blandishing
 blandishments
 blandly
 blandness
@@ -18528,6 +18536,7 @@ cheapish
 cheapishly
 cheapjack
 cheaply
+cheapness
 cheapnesses
 cheapo
 cheapos
@@ -19442,6 +19451,7 @@ chromic
 chromide
 chromier
 chrominance
+chrominances
 chroming
 chromite
 chromites
@@ -20249,6 +20259,7 @@ clavations
 claver
 clavered
 clavering
+clavers
 clavi
 clavichord
 clavichordists
@@ -29044,6 +29055,7 @@ defrayed
 defrayer
 defraying
 defrays
+defrock
 defrocked
 defrocking
 defroster
@@ -32481,6 +32493,7 @@ disintoxicated
 disintoxicates
 disintoxicating
 disintoxication
+disinvest
 disinvested
 disinvesting
 disinvestments
@@ -44589,6 +44602,7 @@ formularizes
 formularizing
 formulary
 formulas
+formulated
 formulates
 formulating
 formulation
@@ -51070,6 +51084,7 @@ hankers
 hankie
 hankies
 hanking
+hanky
 hansas
 hanse
 hansel
@@ -52132,6 +52147,7 @@ helpers
 helpful
 helpfully
 helpfulnesses
+helping
 helpings
 helpless
 helplessly
@@ -59626,6 +59642,7 @@ iodometries
 iodophor
 iodophors
 iodopsin
+iodous
 iolite
 iolites
 ion
@@ -70168,9 +70185,11 @@ migrants
 migrate
 migrates
 migration
+migrator
 migrators
 migs
 mihrab
+mihrabs
 mijnheers
 mikado
 mikados
@@ -72165,6 +72184,7 @@ monocline
 monoclines
 monoclinic
 monoclonal
+monoclonals
 monocoque
 monocoques
 monocot
@@ -72848,6 +72868,7 @@ motorcading
 motorcar
 motorcars
 motorcycle
+motorcycles
 motorcyclist
 motorcyclists
 motordom
@@ -84045,6 +84066,7 @@ peloria
 peloric
 pelorus
 peloruses
+pelota
 pelotas
 peloton
 pelt
@@ -94531,6 +94553,7 @@ reaccelerate
 reaccelerated
 reaccelerates
 reaccelerating
+reaccent
 reaccented
 reaccenting
 reaccepted
@@ -97441,6 +97464,7 @@ remorse
 remorseful
 remorseless
 remorselessly
+remorses
 remotely
 remoteness
 remotenesses
@@ -104429,6 +104453,7 @@ semiflexible
 semifluid
 semifluids
 semiformal
+semigala
 semigroup
 semigroups
 semihard
@@ -108438,6 +108463,7 @@ snippily
 snippy
 snips
 snit
+snitch
 snitched
 snitcher
 snitchers
@@ -108571,6 +108597,7 @@ snowily
 snowinesses
 snowing
 snowland
+snowlike
 snowmaker
 snowmakers
 snowman
@@ -109486,6 +109513,7 @@ sournesses
 sourpuss
 sours
 soursop
+soursops
 sourwood
 sous
 sousaphone
@@ -117044,6 +117072,7 @@ teacup
 teacupful
 teacups
 teacupsful
+teahouses
 teakettle
 teakettles
 teaks
@@ -119349,6 +119378,7 @@ tipsier
 tipsiest
 tipsiness
 tipsinesses
+tipstaff
 tipster
 tipsy
 tiptoed
@@ -120122,6 +120152,7 @@ totemist
 totemistic
 totemists
 totemite
+totemites
 totems
 toter
 toters
@@ -124705,6 +124736,7 @@ unideological
 unifaces
 unifiable
 unific
+unification
 unifications
 unifier
 unifiers
@@ -126133,6 +126165,7 @@ updo
 updos
 updove
 updraft
+updrafts
 updried
 updries
 updry
@@ -128015,6 +128048,7 @@ vignettists
 vigorishes
 vigorous
 vigorously
+vigorousness
 vigorousnesses
 vigour
 vigours
@@ -130806,6 +130840,7 @@ wineries
 winery
 wines
 wineshop
+wineshops
 wineskin
 wineskins
 winesop
