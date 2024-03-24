@@ -606,6 +606,7 @@ achromatisms
 achromatize
 achromatized
 achromatizes
+achromatizing
 achromic
 achromous
 achy
@@ -5589,6 +5590,7 @@ arcadings
 arcana
 arcane
 arcatures
+arccosine
 arccosines
 arced
 arch
@@ -6865,6 +6867,7 @@ attemper
 attempered
 attempers
 attemptable
+attempted
 attempter
 attempters
 attempts
@@ -7907,6 +7910,7 @@ backed
 backers
 backfield
 backfields
+backfill
 backfilled
 backfilling
 backfire
@@ -14829,6 +14833,7 @@ buries
 burin
 burins
 burkas
+burke
 burked
 burkers
 burkes
@@ -16212,6 +16217,7 @@ cantorial
 cantors
 cantraip
 cantraips
+cantrap
 cantraps
 cantrip
 cantrips
@@ -23228,6 +23234,7 @@ congous
 congrats
 congratulate
 congratulated
+congratulating
 congratulation
 congratulations
 congratulatory
@@ -25044,6 +25051,7 @@ council
 councillor
 councillorship
 councillorships
+councilman
 councilmanic
 councilmen
 councilors
@@ -25314,6 +25322,7 @@ coups
 courage
 courageous
 courageousness
+courante
 courantes
 couranto
 courantos
@@ -27836,6 +27845,7 @@ dampener
 dampeners
 dampening
 dampens
+dampest
 damping
 dampings
 dampish
@@ -30409,6 +30419,7 @@ desiderating
 desideration
 desiderations
 desiderative
+desideratum
 designate
 designated
 designates
@@ -38285,6 +38296,7 @@ epimeres
 epimeric
 epimers
 epimysia
+epinaos
 epinastic
 epinasty
 epinephrin
@@ -39511,6 +39523,7 @@ everyplace
 everything
 everyway
 everywomen
+eves
 evict
 evicted
 evictee
@@ -44958,6 +44971,7 @@ foveate
 foveated
 foveola
 foveolae
+foveolas
 foveolate
 foveole
 foveoles
@@ -48714,6 +48728,7 @@ golf
 golfer
 golfers
 golfing
+golfings
 golfs
 golgotha
 golgothas
@@ -50811,6 +50826,7 @@ haint
 haints
 hair
 hairball
+hairband
 hairbreadth
 hairbrush
 hairbrushes
@@ -59307,6 +59323,7 @@ interstratifies
 intersubjective
 interterm
 interterminal
+intertextuality
 intertextually
 intertidally
 intertie
@@ -66405,6 +66422,7 @@ loyalty
 lozenge
 lozenges
 luau
+luaus
 lubber
 lubberliness
 lubberlinesses
@@ -72059,6 +72077,7 @@ modelled
 modeller
 modelling
 models
+modem
 modeming
 moderated
 moderateness
@@ -78013,6 +78032,7 @@ obtrusiveness
 obtund
 obtunded
 obtundities
+obtundity
 obtunds
 obturate
 obturated
@@ -79590,6 +79610,7 @@ others
 otherwhere
 otherwhile
 otherwhiles
+otherwise
 otherworld
 otherworldly
 otiose
@@ -83708,6 +83729,7 @@ patamars
 patch
 patchboard
 patchboards
+patched
 patcher
 patches
 patchier
@@ -84819,6 +84841,7 @@ perennial
 pereon
 pereopod
 pereopods
+peres
 perestroika
 perestroikas
 perfect
@@ -86804,6 +86827,7 @@ pins
 pinscher
 pinsetters
 pinspotter
+pinspotters
 pinstripe
 pinstripes
 pint
@@ -87003,6 +87027,7 @@ pit
 pita
 pitahaya
 pitahayas
+pitapat
 pitapats
 pitapatted
 pitaya
@@ -88331,6 +88356,7 @@ polygamize
 polygamized
 polygamizes
 polygamizing
+polygamous
 polygamy
 polygene
 polygenes
@@ -92387,6 +92413,7 @@ psychobiology
 psychochemicals
 psychodrama
 psychogeneses
+psychogenesis
 psychogenetic
 psychogenic
 psychographs
@@ -95206,6 +95233,7 @@ reassort
 reassorts
 reassume
 reassumed
+reassumes
 reassuming
 reassurance
 reassurances
@@ -104392,6 +104420,7 @@ secs
 sect
 sectarian
 sectarianisms
+sectarianize
 sectarianized
 sectarianizes
 sectarians
@@ -109566,6 +109595,7 @@ somnambulates
 somnambulating
 somnambulation
 somnambulations
+somnambulism
 somnambulist
 somnambulistic
 somnambulists
@@ -112329,6 +112359,7 @@ stickhandling
 stickier
 stickies
 stickiest
+stickily
 stickiness
 sticking
 stickit
@@ -114113,6 +114144,7 @@ subsiders
 subsidiaries
 subsidiarily
 subsidiarity
+subsidiary
 subsidies
 subsiding
 subsidises
@@ -115245,6 +115277,7 @@ supersharp
 supersinger
 supersingers
 supersizing
+supersleuths
 superslick
 supersmart
 supersmooth
@@ -115715,6 +115748,7 @@ sveltely
 svelteness
 sveltenesses
 sveltest
+swab
 swabbed
 swabber
 swabbers
@@ -125372,6 +125406,7 @@ unjustness
 unjustnesses
 unkeeled
 unkempt
+unkenned
 unkennel
 unkenneling
 unkennelled
