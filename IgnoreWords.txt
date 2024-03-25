@@ -686,6 +686,7 @@ acoustical
 acoustically
 acoustician
 acquaint
+acquaintances
 acquainted
 acquaints
 acquests
@@ -5742,6 +5743,7 @@ areally
 areaway
 areaways
 areca
+arecas
 arecoline
 arecolines
 areic
@@ -11428,6 +11430,7 @@ bisexuals
 bishop
 bishoped
 bishoping
+bishopric
 bishoprics
 bishops
 bisk
@@ -11831,6 +11834,7 @@ blended
 blender
 blenders
 blendes
+blends
 blennies
 blennioid
 blenny
@@ -13277,6 +13281,7 @@ bowwowing
 bowwows
 bowyer
 bowyers
+box
 boxball
 boxballs
 boxberries
@@ -15965,6 +15970,7 @@ campouts
 camps
 campshirt
 campshirts
+campsite
 campstools
 campus
 campused
@@ -20358,6 +20364,7 @@ clastic
 clastics
 clasts
 clathrate
+clathrates
 clatter
 clatterer
 clatterers
@@ -21957,6 +21964,7 @@ colonizing
 colonnade
 colonnaded
 colonnades
+colons
 colonus
 colophonies
 color
@@ -28612,6 +28620,7 @@ deceptional
 deceptions
 deceptive
 deceptively
+deceptiveness
 deceptivenesses
 decerebrated
 decerebrates
@@ -30386,6 +30395,7 @@ desanding
 descant
 descanted
 descanter
+descanters
 descanting
 descants
 descendant
@@ -37203,6 +37213,7 @@ encomiastic
 encomiasts
 encomiums
 encompass
+encompassed
 encompasses
 encompassing
 encore
@@ -37932,6 +37943,7 @@ enterprisers
 enterprises
 enterprising
 enters
+entertain
 entertained
 entertainer
 entertainers
@@ -38132,6 +38144,7 @@ envisages
 envisioned
 envisions
 envoi
+envois
 envoy
 envoys
 envy
@@ -39337,6 +39350,7 @@ eugeosynclines
 euglenas
 euglenid
 euglenoid
+euglenoids
 euglobulin
 euglobulins
 euhemerism
@@ -43770,11 +43784,13 @@ florigenic
 florigens
 florilegia
 florilegium
+florins
 florist
 floristic
 floristically
 floristries
 florists
+floruit
 floss
 flossed
 flosser
@@ -46957,6 +46973,7 @@ gasped
 gasper
 gaspereau
 gaspers
+gasping
 gaspingly
 gasps
 gassed
@@ -50656,6 +50673,7 @@ gynophobes
 gynophore
 gynophores
 gyp
+gyplure
 gyplures
 gypped
 gypper
@@ -50672,6 +50690,7 @@ gypsyism
 gypsyisms
 gyral
 gyrally
+gyrase
 gyrases
 gyrate
 gyrated
@@ -54548,6 +54567,7 @@ hryvna
 hryvnas
 hryvnia
 hryvnias
+huarache
 huaraches
 huaracho
 huarachos
@@ -64927,6 +64947,7 @@ licence
 licenced
 licencee
 licencees
+licencer
 licencers
 licences
 licencing
@@ -69116,6 +69137,7 @@ megadeals
 megadeath
 megadose
 megadoses
+megadyne
 megadynes
 megafauna
 megafaunae
@@ -70498,6 +70520,7 @@ midfielder
 midfielders
 midfields
 midges
+midget
 midgets
 midgut
 midguts
@@ -73421,6 +73444,7 @@ mousetail
 mousetrap
 mousetrapped
 mousetrapping
+mousetraps
 mousier
 mousily
 mousiness
@@ -83705,6 +83729,7 @@ party
 partyer
 partyers
 partygoer
+partygoers
 parura
 parure
 parures
@@ -88359,6 +88384,7 @@ policemen
 policewoman
 policewomen
 policies
+policing
 policy
 policyholder
 policyholders
@@ -95055,6 +95081,7 @@ ravener
 ravenings
 ravenlike
 ravenous
+ravenousness
 ravenousnesses
 ravens
 raver
@@ -105048,6 +105075,7 @@ semicircle
 semicircular
 semiclassic
 semiclassical
+semiclassics
 semicolonial
 semicolonialism
 semicolonies
@@ -107698,6 +107726,7 @@ sistra
 sistroid
 sistrum
 sistrums
+sit
 sitars
 sitcoms
 sited
@@ -107851,6 +107880,7 @@ skepticisms
 skeptics
 skerries
 skerry
+sketch
 sketchbook
 sketchbooks
 sketched
@@ -110454,6 +110484,7 @@ sparsity
 spartan
 sparteine
 sparteines
+spartina
 spasm
 spasmed
 spasming
@@ -124695,6 +124726,7 @@ undercounted
 undercounting
 undercounts
 undercover
+undercroft
 undercrofts
 undercurrents
 undercut
@@ -127025,6 +127057,7 @@ uplinks
 uplit
 upload
 uploaded
+uploading
 upmanships
 upmarket
 upmost
@@ -127619,6 +127652,7 @@ vague
 vaguely
 vagueness
 vaguenesses
+vaguer
 vaguest
 vahine
 vahines
@@ -132300,6 +132334,7 @@ worldlinesses
 worldling
 worldlings
 worldly
+worldview
 worldviews
 worldwide
 worm
