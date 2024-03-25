@@ -2874,6 +2874,7 @@ alphabetized
 alphabetizers
 alphabetizing
 alphabets
+alphameric
 alphanumeric
 alphorn
 alphorns
@@ -3584,6 +3585,7 @@ analphabet
 analphabetic
 analphabetics
 analphabetisms
+analphabets
 analysand
 analysands
 analyse
@@ -8253,6 +8255,7 @@ baiting
 baits
 baizas
 baize
+baizes
 bake
 bakeapple
 bakeapples
@@ -11289,6 +11292,7 @@ biotical
 biotics
 biotin
 biotins
+biotite
 biotites
 biotitic
 biotope
@@ -14709,6 +14713,7 @@ bump
 bumped
 bumper
 bumpered
+bumpering
 bumpers
 bumph
 bumphs
@@ -14765,6 +14770,7 @@ bunglers
 bungles
 bunglesome
 bunglingly
+bunglings
 bunion
 bunions
 bunk
@@ -14970,6 +14976,7 @@ bursa
 bursae
 bursal
 bursar
+bursarial
 bursaries
 bursars
 bursary
@@ -16105,6 +16112,7 @@ caned
 canella
 canellas
 canephor
+canephors
 caner
 canes
 canescent
@@ -23148,6 +23156,7 @@ conferrers
 conferring
 confers
 conferva
+conferval
 confervas
 confess
 confessable
@@ -31533,6 +31542,7 @@ dieback
 diebacks
 diecious
 died
+dieffenbachia
 dieffenbachias
 diehard
 diehards
@@ -38883,6 +38893,7 @@ eructate
 eructates
 eructation
 eructations
+eructed
 eructing
 eruditions
 erugo
@@ -44225,6 +44236,7 @@ fogfruit
 foggage
 foggages
 fogger
+foggers
 foggier
 foggiest
 foggily
@@ -45522,6 +45534,7 @@ fretfully
 fretfulness
 fretfulnesses
 fretless
+frets
 fretsaws
 fretsome
 fretted
@@ -51817,6 +51830,7 @@ hastes
 hastier
 hastiest
 hastiness
+hastinesses
 hasting
 hasty
 hat
@@ -52583,6 +52597,7 @@ hematite
 hematites
 hematitic
 hematocrits
+hematogenous
 hematoid
 hematologic
 hematologies
@@ -61167,6 +61182,7 @@ jeweled
 jeweler
 jewelers
 jewelfish
+jewelfishes
 jeweling
 jewelled
 jeweller
@@ -61540,6 +61556,7 @@ joyridden
 joyride
 joyrider
 joyriders
+joyriding
 joyridings
 joyrode
 joysticks
@@ -74064,6 +74081,7 @@ mummying
 mump
 mumped
 mumper
+mumpers
 mumps
 mumu
 mumus
@@ -77538,6 +77556,7 @@ nosinesses
 nosing
 nosings
 nosocomial
+nosologic
 nosological
 nosologically
 nosologies
@@ -80746,6 +80765,7 @@ outshaming
 outshined
 outshines
 outshone
+outshoot
 outshooting
 outshoots
 outshot
@@ -84049,6 +84069,7 @@ patchboard
 patchboards
 patched
 patcher
+patchers
 patches
 patchier
 patchiest
@@ -84727,6 +84748,7 @@ pellmells
 pellucidly
 pelmet
 pelmets
+pelon
 peloria
 peloric
 pelorus
@@ -89486,6 +89508,7 @@ potablenesses
 potables
 potages
 potassic
+potassium
 potassiums
 potation
 potations
@@ -91955,6 +91978,7 @@ pronations
 pronatores
 pronators
 pronely
+proneness
 pronenesses
 pronephroi
 pronephros
@@ -97397,6 +97421,7 @@ regrading
 regrant
 regranted
 regrate
+regrated
 regrates
 regrating
 regreen
@@ -101167,6 +101192,7 @@ robbins
 robe
 robed
 robes
+robin
 robles
 roborants
 robotic
@@ -101834,6 +101860,7 @@ rubies
 rubiest
 rubigo
 rubigos
+ruble
 ruboff
 rubouts
 rubric
@@ -103174,6 +103201,7 @@ sasin
 saskatoon
 sasquatch
 sasquatches
+sass
 sassabies
 sassafrases
 sassier
@@ -105444,6 +105472,7 @@ sennights
 sennit
 sennits
 senopia
+senopias
 senoras
 senores
 senoritas
@@ -106493,6 +106522,7 @@ shelver
 shelvers
 shelviest
 shelving
+shelvy
 shenanigan
 shenanigans
 shend
@@ -112466,6 +112496,7 @@ steedlike
 steeds
 steek
 steeking
+steeks
 steel
 steeled
 steelhead
@@ -114247,6 +114278,7 @@ subgenera
 subgenerations
 subgenre
 subgenres
+subgenus
 subgenuses
 subglacial
 subgoal
@@ -117742,6 +117774,7 @@ tarnation
 tarnations
 tarnishable
 tarnished
+tarnishes
 tarnishing
 tarns
 taro
@@ -126602,6 +126635,7 @@ unsewing
 unsewn
 unsews
 unsexed
+unsexes
 unshackle
 unshackled
 unshackles
@@ -133350,6 +133384,7 @@ yummy
 yupon
 yupons
 yuppie
+yuppiedom
 yuppiedoms
 yuppieish
 yuppies
