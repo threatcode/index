@@ -2108,6 +2108,7 @@ aircoaches
 aircraft
 aircrew
 aircrews
+airdate
 airdates
 airdrome
 airdrop
@@ -5196,6 +5197,7 @@ apostatised
 apostatises
 apostatize
 apostatized
+apostatizes
 apostatizing
 apostil
 apostilles
@@ -7031,6 +7033,7 @@ auberge
 auberges
 aubergine
 aubretia
+aubretias
 aubrieta
 aubrietas
 aubrietias
@@ -7935,6 +7938,7 @@ backcast
 backcasts
 backchat
 backchats
+backcheck
 backchecked
 backchecking
 backchecks
@@ -11014,6 +11018,7 @@ billowy
 bills
 billy
 billycan
+billycans
 billycock
 billycocks
 bilobate
@@ -18637,6 +18642,7 @@ chastenesses
 chastening
 chastens
 chaster
+chastise
 chastised
 chastisement
 chastisements
@@ -18685,6 +18691,7 @@ chaunter
 chaunters
 chaunting
 chaunts
+chaussure
 chautauqua
 chautauquas
 chauvinism
@@ -19501,6 +19508,7 @@ choppiness
 choppinesses
 chopsockies
 chopsocky
+chopsticks
 choragi
 choragic
 choragus
@@ -20415,6 +20423,7 @@ classified
 classifiers
 classifies
 classify
+classily
 classiness
 classinesses
 classis
@@ -22089,6 +22098,7 @@ colorlessness
 colorlessnesses
 colormen
 colorpoint
+colorpoints
 colorway
 colorways
 colossal
@@ -34218,6 +34228,7 @@ doublespeaker
 doublespeakers
 doublespeaks
 doubleton
+doubletons
 doublets
 doubling
 doubloons
@@ -48629,6 +48640,7 @@ glucagon
 glucagons
 glucinum
 glucinums
+glucocorticoid
 glucocorticoids
 glucokinase
 glucokinases
@@ -52643,6 +52655,7 @@ helotage
 helotages
 helotism
 helotries
+help
 helper
 helpers
 helpful
@@ -55394,6 +55407,7 @@ hyperacidities
 hyperacidity
 hyperactive
 hyperactives
+hyperactivities
 hyperactivity
 hyperacuities
 hyperacuity
@@ -58616,6 +58630,7 @@ innumerous
 inobservance
 inobservant
 inocula
+inoculated
 inoculating
 inoculation
 inoculations
@@ -59625,6 +59640,7 @@ intersex
 intersexual
 intersexuality
 intersexually
+intersociety
 interspaced
 interspaces
 interspecies
@@ -63535,6 +63551,7 @@ laicize
 laicized
 laics
 laid
+laigh
 lain
 lair
 laird
@@ -73291,6 +73308,7 @@ morality
 moralization
 moralizations
 moralize
+moralizer
 moralizers
 moralizes
 moralizing
@@ -73559,6 +73577,7 @@ motor
 motorbike
 motorbiked
 motorbikes
+motorbiking
 motorboated
 motorboater
 motorboaters
@@ -74008,6 +74027,7 @@ multibuilding
 multicampus
 multicausal
 multicell
+multicelled
 multicenter
 multichain
 multichambered
@@ -80349,6 +80369,7 @@ outdrags
 outdrank
 outdraws
 outdream
+outdreams
 outdreamt
 outdress
 outdressed
@@ -87244,6 +87265,7 @@ pinfold
 pinfolding
 pinfolds
 pinged
+pinger
 pingers
 pingo
 pingoes
@@ -101276,6 +101298,7 @@ rivage
 rivages
 rival
 rivaled
+rivaling
 rivalrous
 rivalry
 rivals
@@ -105722,6 +105745,7 @@ sensoria
 sensorial
 sensorially
 sensorineural
+sensoriums
 sensors
 sensory
 sensualism
@@ -106364,6 +106388,7 @@ shake
 shakeable
 shakedown
 shakedowns
+shaken
 shakeout
 shakers
 shakeup
@@ -114334,6 +114359,7 @@ subclassify
 subclassing
 subclause
 subclavian
+subclavians
 subclerks
 subclimax
 subclinical
@@ -117775,6 +117801,7 @@ tampion
 tampions
 tamponed
 tamponing
+tampons
 tams
 tanager
 tanagers
@@ -122747,6 +122774,7 @@ triols
 triose
 trioses
 trioxide
+trioxides
 trioxids
 trip
 tripacks
@@ -123116,6 +123144,7 @@ truckable
 truckage
 truckages
 trucked
+trucker
 truckers
 truckful
 truckfuls
@@ -124021,6 +124050,7 @@ typifications
 typifiers
 typifies
 typifying
+typing
 typist
 typo
 typograph
@@ -125060,6 +125090,7 @@ uncuffed
 uncultivable
 uncultured
 uncurable
+uncurably
 uncurbing
 uncured
 uncurious
@@ -125993,6 +126024,7 @@ unifies
 unifilar
 unifoliate
 uniform
+uniformed
 uniforming
 uniformitarians
 uniformities
@@ -128493,6 +128525,7 @@ vaticides
 vaticinal
 vaticinated
 vaticination
+vaticinations
 vaticinator
 vaticinators
 vats
@@ -132974,6 +133007,7 @@ wretch
 wretched
 wretcheder
 wretchedness
+wretchednesses
 wretches
 wrick
 wried
@@ -133954,6 +133988,7 @@ zoogeographer
 zoogeographic
 zoogeographical
 zoogeographies
+zoogeography
 zooglea
 zoogleae
 zoogleal
