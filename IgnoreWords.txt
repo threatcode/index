@@ -5919,6 +5919,7 @@ armament
 armamentarium
 armaments
 armatured
+armatures
 armaturing
 armbands
 armchair
@@ -7531,6 +7532,7 @@ averagenesses
 averages
 averaging
 averment
+averments
 averrable
 averred
 averring
@@ -8146,6 +8148,7 @@ bacteriolyses
 bacteriolysis
 bacteriolytic
 bacteriophage
+bacteriophages
 bacteriophagies
 bacteriophagy
 bacteriostases
@@ -11779,6 +11782,7 @@ blasted
 blastema
 blastemal
 blastemas
+blastemata
 blastematic
 blastemic
 blaster
@@ -22075,6 +22079,7 @@ colonnaded
 colonnades
 colons
 colonus
+colony
 colophonies
 color
 colorable
@@ -23173,6 +23178,7 @@ condylomatous
 coned
 coneflower
 coneflowers
+conelrad
 conelrads
 conenoses
 conepate
@@ -31826,6 +31832,7 @@ dikes
 dikey
 diking
 diktat
+diktats
 dilapidate
 dilapidates
 dilapidating
@@ -32421,6 +32428,7 @@ disci
 discing
 disciple
 discipled
+disciples
 discipleships
 disciplinable
 disciplinal
@@ -32561,6 +32569,7 @@ discredits
 discreet
 discreeter
 discreetest
+discreetly
 discreetnesses
 discrepancies
 discrepancy
@@ -35556,6 +35565,7 @@ dynastically
 dynasts
 dynasty
 dynatron
+dynatrons
 dyne
 dyneins
 dynels
@@ -37707,6 +37717,7 @@ enfranchise
 enfranchised
 enfranchisement
 enfranchises
+enfranchising
 eng
 engage
 engagement
@@ -39432,6 +39443,7 @@ ethylbenzene
 ethylbenzenes
 ethylene
 ethylenes
+ethylenic
 ethylic
 ethyne
 ethynes
@@ -42706,6 +42718,7 @@ fiercely
 fierceness
 fiercenesses
 fiercer
+fiercest
 fierier
 fieriest
 fierinesses
@@ -49682,6 +49695,7 @@ grasses
 grasshopper
 grasshoppers
 grassier
+grassiest
 grassing
 grassland
 grasslands
@@ -54755,6 +54769,7 @@ hoverers
 hoverflies
 hoverfly
 hovering
+hovers
 howbeit
 howdahs
 howdie
@@ -56248,6 +56263,7 @@ illuminators
 illumine
 illumined
 illumines
+illuming
 illumining
 illuminisms
 illuminist
@@ -56736,6 +56752,7 @@ impermanencies
 impermanency
 impermanent
 impermanently
+impermeability
 impermeable
 impermissible
 impersonal
@@ -60198,6 +60215,7 @@ invitatories
 invitatory
 invited
 invitee
+invitees
 inviter
 inviters
 invites
@@ -63152,6 +63170,7 @@ kook
 kookaburra
 kookie
 kookier
+kookiest
 kookiness
 kookinesses
 kooks
@@ -63738,6 +63757,7 @@ lammergeiers
 lammergeyer
 lammergeyers
 lamp
+lampad
 lampases
 lampblack
 lampblacks
@@ -66216,6 +66236,7 @@ locater
 locates
 locating
 location
+locations
 locatives
 locator
 locators
@@ -71547,6 +71568,7 @@ misattribute
 misattributed
 misaver
 misaverred
+misaverring
 misavers
 misaward
 misawarding
@@ -79219,6 +79241,7 @@ oncologist
 oncologists
 oncology
 oncoming
+oncovirus
 oncoviruses
 ondogram
 ondograms
@@ -82153,6 +82176,7 @@ overpumping
 overqualified
 overrash
 overrate
+overrated
 overrates
 overrating
 overreached
@@ -82967,6 +82991,7 @@ paillasses
 paillettes
 pails
 pailsful
+pain
 painch
 painches
 painful
@@ -88551,6 +88576,7 @@ pocket
 pocketable
 pocketbook
 pocketbooks
+pocketed
 pocketer
 pocketers
 pocketful
@@ -94343,6 +94369,7 @@ quest
 quested
 quester
 questing
+question
 questionaries
 questioned
 questioner
@@ -109733,6 +109760,7 @@ snort
 snorter
 snorters
 snorting
+snorts
 snots
 snottier
 snottily
@@ -112103,6 +112131,7 @@ squad
 squadded
 squadding
 squadron
+squadroned
 squadroning
 squadrons
 squalene
@@ -114486,6 +114515,7 @@ subcontractor
 subcontractors
 subcontracts
 subcontraoctave
+subcontraries
 subcontrary
 subcool
 subcooled
@@ -114820,6 +114850,7 @@ suboptimizing
 suboptimum
 suborder
 suborders
+subordinate
 subordinated
 subordinately
 subordinateness
@@ -118911,6 +118942,7 @@ tenderizers
 tenderizes
 tenderizing
 tenderloin
+tenderly
 tenderness
 tendernesses
 tenderometer
@@ -129510,6 +129542,7 @@ villatic
 villein
 villeins
 villenage
+villenages
 villiform
 villose
 villosities
@@ -131600,6 +131633,7 @@ wheezily
 wheeziness
 wheezinesses
 wheezing
+wheezy
 whelk
 whelkier
 whelkiest
@@ -133580,6 +133614,7 @@ yesterday
 yesterdays
 yestereves
 yestern
+yesternight
 yesternights
 yesteryear
 yesteryears
