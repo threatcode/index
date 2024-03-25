@@ -8,3 +8,33 @@ tools/offwaketime_example.txt - platform/external/bcc - Git at Google,https://an
 RFC 165 - IETF,https://www.ietf.org/rfc/rfc165.txt
 RFC 123 - IETF,https://www.ietf.org/rfc/rfc123.txt
 system-activation.txt - dbus - Freedesktop.org,https://dbus.freedesktop.org/doc/system-activation.txt
+threads-semaphores.txt - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-semaphores.txt
+knfsd-stats.txt,https://www.kernel.org/doc/Documentation/filesystems/nfs/knfsd-stats.txt
+wake-ref.txt,https://ufal.mff.cuni.cz/project/spr/data/cpa30verbs/ref/wake-ref.txt
+Monitors - cs.wisc.edu,https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2008/Notes/threads-monitors.txt
+RFC 165 - IETF,https://www.ietf.org/rfc/rfc165.txt
+crossrelease.txt,https://www.kernel.org/doc/Documentation/locking/crossrelease.txt
+wake-goldrs2.txt,https://ufal.mff.cuni.cz/project/spr/data/cpa30verbs/adjudication/txt/wake-goldrs2.txt
+Documentation/rt-mutex.txt - kernel/msm - Git at Google,https://android.googlesource.com/kernel/msm/%2B/android-msm-bullhead-3.10-marshmallow-dr/Documentation/rt-mutex.txt
+perf-tools/examples/syscount_example.txt at master - GitHub,https://github.com/brendangregg/perf-tools/blob/master/examples/syscount_example.txt
+Grammatical Functions,https://users.ox.ac.uk/~cpgl0015/pargram/data/gfunction-roots.testfile.txt
+Ian Haken - EECS: www-inst.eecs.berkeley.edu,https://inst.eecs.berkeley.edu/~cs162/sp07/Students/Lecture_Notes_07.s/0212-IanHaken.txt
+RFC 123 - IETF,https://www.ietf.org/rfc/rfc123.txt
+https://www.usenix.org/publications/library/procee...,https://www.usenix.org/publications/library/proceedings/osdi96/full_papers/ford/ford.txt
+system-activation.txt - dbus - Freedesktop.org,https://dbus.freedesktop.org/doc/system-activation.txt
+Wearable Computing FAQ - MIT Media Lab,https://www.media.mit.edu/wearables/lizzy/FAQ/FAQ.txt
+the complete changelog,https://docs.ceph.com/en/latest/_downloads/588d1668de94072e1873b572af523b03/v0.56.4.txt
+Documentation/filesystems/nfs/knfsd-stats.txt - linux-3.10 - Gitiles,https://nv-tegra-prod.hwinf-scm-aws.nvidia.com/r/plugins/gitiles/linux-3.10/%2B/6be325719b3e54624397e413efd4b33a997e55a3/Documentation/filesystems/nfs/knfsd-stats.txt
+bcc/tools/wakeuptime_example.txt at master · iovisor/bcc - GitHub,https://github.com/iovisor/bcc/blob/master/tools/wakeuptime_example.txt
+futex.2.en.txt - Arch Linux manual pages,https://man.archlinux.org/man/futex.2.en.txt
+A22000894.txt - VA.gov,https://www.va.gov/vetapp22/Files1/A22000894.txt
+https://www.khoury.northeastern.edu/home/lieber/co...,https://www.khoury.northeastern.edu/home/lieber/courses/se-courses/cs5500/f11/maintenance/maintenance-tasks.txt
+20200000473.txt - Boards of Review Reading Rooms,https://boards.law.af.mil/ARMY/BCMR/CY2020/20200000473.txt
+The Original Hip-Hop (Rap) Lyrics Archive - OHHLA.com,https://ohhla.com/anonymous/currensy/jet_city/mary.cur.txt
+SWP1970releasenotes.txt - Colortrac,https://www.colortrac.com/smartdownloads/smartworkspro/SWP1970releasenotes.txt
+1627103.txt - VA.gov,https://www.va.gov/vetapp16/Files4/1627103.txt
+Documentation/rt-mutex.txt - linux-2.6 - Gitiles - NVIDIA,https://nv-tegra.nvidia.com/r/plugins/gitiles/linux-2.6/%2B/db217dece3003df0841bacf9556b5c06aa097dae/Documentation/rt-mutex.txt
+Pinky Ring - The Original Hip-Hop (Rap) Lyrics Archive,https://ohhla.com/anonymous/ugk/ridin/pinkyrng.ugk.txt
+jason.txt - Buckeye's Led Zeppelin Page,http://www.oldbuckeye.com/jason.txt
+https://www.siriusxm.com/clips/assets/text/live/tr...,https://www.siriusxm.com/clips/assets/text/live/transcripts/processed/1d4aa5c2-0e01-4bed-86a7-f21bcb3195b3.txt
+summary of medical claims,https://www.cs.cmu.edu/~dst/NOTs/medical/derby-medical.txt
