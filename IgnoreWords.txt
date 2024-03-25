@@ -5460,6 +5460,7 @@ approvals
 approve
 approved
 approvers
+approves
 approximate
 approximately
 approximates
@@ -6377,6 +6378,7 @@ asocial
 asocials
 asp
 asparagus
+asparaguses
 asparkle
 aspartame
 aspartames
@@ -15182,6 +15184,7 @@ busynesses
 busywork
 busyworks
 but
+butadiene
 butane
 butanes
 butanols
@@ -21868,6 +21871,7 @@ colicines
 colicins
 colickiest
 colicky
+colicroot
 colicweed
 colicweeds
 colies
@@ -25169,6 +25173,7 @@ cotquean
 cotqueans
 cotransduce
 cotransduced
+cotransduces
 cotransducing
 cotransduction
 cotransductions
@@ -28317,6 +28322,7 @@ dauphin
 dauphines
 dauphins
 daut
+dauted
 dautie
 dauting
 dauts
@@ -29253,6 +29259,7 @@ deferential
 deferentially
 deferents
 deferments
+deferrable
 deferred
 deferrer
 defers
@@ -31281,6 +31288,7 @@ diabolizing
 diabolo
 diabolos
 diacetyl
+diachronically
 diachronies
 diachrony
 diacidic
@@ -31939,6 +31947,7 @@ dimensions
 dimercaprol
 dimercaprols
 dimeric
+dimerism
 dimerisms
 dimerization
 dimerizations
@@ -39369,6 +39378,7 @@ eternity
 eternizations
 eternize
 eternizes
+eternizing
 etesians
 ethambutol
 ethane
@@ -40875,6 +40885,7 @@ extortioner
 extortioners
 extortionist
 extortionists
+extortions
 extortive
 extorts
 extra
@@ -48009,6 +48020,7 @@ giantlike
 giants
 giaours
 giardias
+giardiases
 gib
 gibber
 gibbered
@@ -53713,6 +53725,7 @@ hoactzin
 hoactzines
 hoactzins
 hoagie
+hoagies
 hoagy
 hoar
 hoard
@@ -53888,6 +53901,7 @@ holdover
 holdup
 holed
 holeless
+holes
 holey
 holiday
 holidayed
@@ -57971,6 +57985,7 @@ inductively
 inductor
 inductors
 inducts
+indue
 induing
 indulge
 indulged
@@ -61300,6 +61315,7 @@ jemmied
 jemmies
 jemmy
 jemmying
+jennet
 jennies
 jenny
 jeopard
@@ -67034,6 +67050,7 @@ lumber
 lumbered
 lumberer
 lumberers
+lumbering
 lumberjack
 lumberman
 lumbermen
@@ -68833,6 +68850,7 @@ masochists
 mason
 masoned
 masonic
+masoning
 masonite
 masonites
 masonries
@@ -71888,6 +71906,7 @@ misesteemed
 misesteems
 misestimate
 misestimates
+misestimating
 misestimation
 misestimations
 misevaluate
@@ -73050,6 +73069,7 @@ monocytic
 monodic
 monodical
 monodisperse
+monodists
 monodrama
 monodramas
 monodramatic
@@ -84939,6 +84959,7 @@ pedologists
 pedology
 pedometer
 pedometers
+pedophile
 pedophiles
 pedophilia
 pedophiliac
@@ -89008,6 +89029,7 @@ polychaetes
 polychete
 polychotomies
 polychotomous
+polychromed
 polychromes
 polychromies
 polychromy
@@ -90681,6 +90703,7 @@ preferrer
 preferrers
 preferring
 prefight
+prefiguration
 prefigurations
 prefigurative
 prefiguratively
@@ -92794,6 +92817,7 @@ protopods
 protoporphyrins
 protostar
 protostars
+protostele
 protosteles
 protostelic
 protostomes
@@ -97937,6 +97961,7 @@ reigns
 reimage
 reimaged
 reimages
+reimagine
 reimagines
 reimaging
 reimbursable
@@ -101114,6 +101139,7 @@ riddling
 ride
 rideable
 rident
+rider
 riderless
 riders
 ridership
@@ -101272,6 +101298,7 @@ rillettes
 rilling
 rills
 rime
+rimed
 rimer
 rimes
 rimester
@@ -107110,6 +107137,7 @@ shipways
 shipworm
 shipworms
 shipwrecking
+shipwrecks
 shipwright
 shipwrights
 shipyard
@@ -108754,6 +108782,7 @@ slags
 slain
 slainte
 slakable
+slaked
 slakers
 slakes
 slaking
@@ -112201,6 +112230,7 @@ squadrons
 squalene
 squalenes
 squalid
+squalidest
 squalidly
 squalidness
 squalidnesses
@@ -112223,6 +112253,7 @@ squamosals
 squamose
 squamulose
 squander
+squandered
 squanderer
 squanderers
 squandering
@@ -113694,6 +113725,7 @@ storyboards
 storybook
 storying
 storyteller
+storytellers
 storytelling
 storytellings
 stoss
@@ -116950,6 +116982,7 @@ swingy
 swinishness
 swinishnesses
 swink
+swinked
 swinking
 swinks
 swinney
@@ -121480,6 +121513,7 @@ torquate
 torque
 torqued
 torquer
+torquers
 torr
 torrefied
 torrefies
@@ -128618,6 +128652,7 @@ varied
 variedly
 variegate
 variegated
+variegates
 variegation
 variegations
 variegator
