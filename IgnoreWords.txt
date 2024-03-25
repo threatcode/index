@@ -859,6 +859,7 @@ actualities
 actuality
 actualization
 actualizations
+actualize
 actualized
 actually
 actuarial
@@ -7956,6 +7957,7 @@ backfitted
 backfitting
 backflip
 backflipped
+backflipping
 backflow
 backgammons
 background
@@ -9647,6 +9649,7 @@ beduin
 beduins
 bedumb
 bedumbed
+bedumbing
 bedumbs
 bedunces
 bedward
@@ -18612,6 +18615,7 @@ chastised
 chastisement
 chastisements
 chastiser
+chastisers
 chastises
 chastising
 chastities
@@ -20722,6 +20726,7 @@ clocker
 clocking
 clocklike
 clockwork
+clod
 cloddier
 clodhopper
 clodhoppers
@@ -21032,6 +21037,7 @@ coalpits
 coals
 coalsack
 coalshed
+coalsheds
 coalyard
 coamings
 coanchored
@@ -22483,6 +22489,7 @@ comparative
 comparativeness
 comparatives
 comparativists
+comparator
 comparators
 compare
 compared
@@ -31186,6 +31193,7 @@ diaeretic
 diageneses
 diagenetic
 diagenetically
+diageotropic
 diagnosable
 diagnose
 diagnoseable
@@ -38250,6 +38258,7 @@ eolopiles
 eonian
 eonism
 eonisms
+eons
 eosin
 eosines
 eosinic
@@ -39276,6 +39285,7 @@ ethmoid
 ethmoidal
 ethmoids
 ethnarch
+ethnarchs
 ethnarchy
 ethnic
 ethnical
@@ -39313,6 +39323,7 @@ ethograms
 ethological
 ethologies
 ethologist
+ethology
 ethos
 ethoses
 ethoxies
@@ -46112,6 +46123,7 @@ fundraise
 fundraises
 fundraising
 fundus
+funeral
 funerals
 funerary
 funereal
@@ -48594,6 +48606,7 @@ gluily
 gluiness
 gluinesses
 glume
+glummest
 glumness
 glumnesses
 glumpier
@@ -50381,6 +50394,7 @@ guesstimating
 guesswork
 guessworks
 guest
+guested
 guesting
 guests
 guff
@@ -53200,6 +53214,7 @@ hiddennesses
 hide
 hidebound
 hideosities
+hideosity
 hideous
 hideously
 hideousness
@@ -53884,6 +53899,7 @@ homeward
 homewards
 homework
 homeworks
+homey
 homeynesses
 homicidal
 homicidally
@@ -56064,6 +56080,7 @@ illiquidities
 illiquidity
 illite
 illiteracy
+illiterate
 illiterately
 illiterateness
 illites
@@ -58157,6 +58174,7 @@ informativeness
 informatorily
 informatory
 informed
+informedly
 informer
 informers
 informs
@@ -59516,6 +59534,7 @@ interscholastic
 interschool
 intersecting
 intersection
+intersectional
 intersections
 intersects
 intersegment
@@ -63452,6 +63471,7 @@ lakebeds
 laked
 lakefront
 lakelike
+lakeport
 lakeports
 laker
 lakers
@@ -69077,6 +69097,7 @@ mecamylamines
 mecca
 mechanic
 mechanical
+mechanicals
 mechanician
 mechanicians
 mechanism
@@ -78178,6 +78199,7 @@ obligee
 obligees
 obligers
 obliges
+obliging
 obligingly
 obligingness
 obligingnesses
@@ -81352,6 +81374,7 @@ overdevelop
 overdeveloped
 overdevelopment
 overdevelops
+overdid
 overdirecting
 overdirects
 overdiscounted
@@ -89369,6 +89392,7 @@ postheats
 posthemorrhagic
 posthole
 postholiday
+posthospital
 posthumous
 posthumously
 posthypnotic
@@ -92197,6 +92221,7 @@ prorogates
 prorogating
 prorogation
 prorogued
+prorogues
 proroguing
 pros
 prosaical
@@ -99364,6 +99389,7 @@ resite
 resited
 resiting
 resits
+resitting
 resittings
 resituate
 resituated
@@ -99529,6 +99555,7 @@ respool
 respooled
 respooling
 respools
+respots
 respray
 resprayed
 respraying
@@ -101692,6 +101719,7 @@ roundabout
 roundaboutness
 roundabouts
 roundball
+roundballs
 rounded
 roundedness
 roundednesses
@@ -105001,6 +105029,7 @@ seek
 seeker
 seekers
 seeking
+seel
 seeled
 seeling
 seels
@@ -106272,6 +106301,7 @@ shanny
 shanteys
 shanti
 shantih
+shantihs
 shantis
 shantung
 shanty
@@ -107613,6 +107643,7 @@ silts
 siltstone
 silty
 silurian
+silurid
 silurids
 siluroids
 silva
@@ -108410,6 +108441,7 @@ slaphappier
 slaphappy
 slapped
 slapper
+slappers
 slapping
 slaps
 slapstick
@@ -115640,6 +115672,7 @@ superminis
 superminister
 superministers
 supermodel
+supermodern
 supermom
 supernal
 supernatant
@@ -125710,6 +125743,7 @@ unhooding
 unhoods
 unhook
 unhooked
+unhooks
 unhopeful
 unhorsed
 unhorses
@@ -125910,6 +125944,7 @@ universally
 universalness
 universalnesses
 universals
+universe
 universes
 universities
 university
