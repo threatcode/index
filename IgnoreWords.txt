@@ -1851,6 +1851,7 @@ agglomerations
 agglutinability
 agglutinates
 agglutinating
+agglutinations
 agglutinative
 agglutinins
 agglutinogen
@@ -8494,6 +8495,7 @@ balmacaan
 balmier
 balmiest
 balminess
+balminesses
 balms
 balmy
 balneal
@@ -13947,6 +13949,7 @@ bricklaying
 bricklayings
 brickle
 brickles
+bricklike
 bricks
 brickwork
 brickworks
@@ -15359,6 +15362,7 @@ buzzers
 buzzingly
 buzzwig
 buzzword
+bwana
 bwanas
 by
 bycatch
@@ -15729,6 +15733,7 @@ calcaneal
 calcaneum
 calcar
 calcarate
+calcareously
 calcaria
 calcars
 calceate
@@ -20361,6 +20366,7 @@ claimant
 claimants
 claimer
 claimers
+claiming
 clairaudiences
 clairaudient
 clairaudiently
@@ -26060,6 +26066,7 @@ crasis
 crasser
 crassest
 crassitudes
+crassly
 cratch
 cratches
 crate
@@ -26606,12 +26613,14 @@ crossbars
 crossbeams
 crossbearer
 crossbearers
+crossbill
 crossbills
 crossbones
 crossbow
 crossbowman
 crossbowmen
 crossbred
+crossbreds
 crossbreeding
 crossbuck
 crossbucks
@@ -36710,6 +36719,7 @@ eleemosynary
 elegance
 elegances
 elegancies
+elegant
 elegiac
 elegiacal
 elegiacally
@@ -40892,6 +40902,7 @@ extemporizer
 extemporizers
 extemporizes
 extemporizing
+extend
 extendabilities
 extendability
 extendable
@@ -41133,6 +41144,7 @@ exudation
 exudations
 exudative
 exude
+exuded
 exudes
 exuding
 exult
@@ -43829,6 +43841,7 @@ flecking
 fleckless
 flecks
 flecky
+flection
 flections
 fled
 fledge
@@ -44323,6 +44336,7 @@ fluorescein
 fluoresceins
 fluorescence
 fluorescences
+fluorescent
 fluorescents
 fluorescer
 fluorescers
@@ -47469,6 +47483,7 @@ gaugeable
 gauged
 gauger
 gaugers
+gauging
 gauleiter
 gauleiters
 gault
@@ -50953,6 +50968,7 @@ gurnard
 gurnet
 gurney
 gurneys
+gurries
 gurry
 gursh
 gurshes
@@ -52027,6 +52043,7 @@ harissa
 harissas
 harked
 harkened
+harkeners
 harkening
 harkens
 harks
@@ -57967,6 +57984,7 @@ indicator
 indicators
 indicatory
 indices
+indicia
 indicias
 indiciums
 indict
@@ -63990,6 +64008,7 @@ laminating
 lamination
 laminations
 laminator
+laminin
 laminins
 laminitis
 laminitises
@@ -67049,6 +67068,7 @@ lovelies
 loveliest
 loveliness
 lovelinesses
+lovelock
 lovelocks
 lovelorn
 lovelornnesses
@@ -72536,6 +72556,7 @@ missout
 missouts
 misspace
 misspaces
+misspeak
 misspeaking
 misspeaks
 misspelled
@@ -79461,10 +79482,12 @@ omelet
 omelets
 omelettes
 omen
+omening
 omental
 omentums
 omer
 omers
+omicron
 omicrons
 omikron
 omikrons
@@ -79939,6 +79962,7 @@ orangish
 orangs
 orangutans
 orangy
+orate
 orates
 orating
 oration
@@ -80606,6 +80630,7 @@ outbluffs
 outblushed
 outblushes
 outblushing
+outboard
 outboards
 outboasts
 outbought
@@ -87578,6 +87603,7 @@ pillarless
 pillars
 pillbox
 pillboxes
+pilled
 pilling
 pillion
 pillions
@@ -93408,6 +93434,7 @@ psoriatics
 pst
 psychasthenia
 psychasthenic
+psychasthenics
 psyche
 psyched
 psychedelia
@@ -97655,6 +97682,7 @@ reexplains
 reexplore
 reexplores
 reexport
+reexportations
 reexported
 reexporting
 reexpose
@@ -104194,6 +104222,7 @@ sayest
 sayid
 sayids
 sayonara
+sayonaras
 sayst
 sayyid
 sayyids
@@ -106943,6 +106972,7 @@ shamable
 shamably
 shaman
 shamanic
+shamanism
 shamanist
 shamanistic
 shamans
@@ -109988,6 +110018,7 @@ snaw
 snawing
 snaws
 snazzier
+sneak
 sneaked
 sneaker
 sneakered
@@ -111018,6 +111049,7 @@ soreheaded
 sorely
 sorenesses
 sorer
+sores
 sorgho
 sorghum
 sorghums
@@ -125254,6 +125286,7 @@ unbigoted
 unbilled
 unbind
 unbinding
+unbinds
 unbitted
 unbitten
 unblamed
@@ -129681,6 +129714,7 @@ vertices
 verticillate
 verticils
 vertigines
+vertiginously
 vertigo
 vertigos
 vertu
@@ -134710,6 +134744,7 @@ zorils
 zoris
 zoster
 zouave
+zouaves
 zouk
 zouks
 zounds
