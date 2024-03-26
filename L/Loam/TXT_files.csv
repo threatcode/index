@@ -7,3 +7,23 @@ legend - Grass GIS,https://grass.osgeo.org/sampledata/soils_legend.txt
 isofenphos - USDA ARS,https://www.ars.usda.gov/ARSUserFiles/00000000/DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/ISOFENPHOS.TXT
 https://www.ars.usda.gov/ARSUserFiles/00000000/Dat...,https://www.ars.usda.gov/ARSUserFiles/00000000/DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/TRICHLORFON.TXT
 tsoil.txt - University of Arizona,https://cals.arizona.edu/AZMET/data/Documentation/tsoil.txt
+loam_velodyne/CMakeLists.txt at master - GitHub,https://github.com/laboshinl/loam_velodyne/blob/master/CMakeLists.txt
+hjasoils.txt - H.J. Andrews Experimental Forest,https://andrewsforest.oregonstate.edu/data/studies/sp01/hjasoils.txt
+https://edit.jornada.nmsu.edu/services/downloads/e...,https://edit.jornada.nmsu.edu/services/downloads/esd/039X/soil-surface-textures.txt
+legend - Grass GIS,https://grass.osgeo.org/sampledata/soils_legend.txt
+CMakeLists.txt - HKUST-Aerial-Robotics/A-LOAM · GitHub,https://github.com/HKUST-Aerial-Robotics/A-LOAM/blob/devel/CMakeLists.txt
+"Locations, Site Descriptions and Management",https://ntep.org/data/tf12/tf12_18-3/tf1218ta.txt
+Soil Parameters,https://ral.ucar.edu/sites/default/files/public/product-tool/noah-multiparameterization-land-surface-model-noah-mp-lsm/SOILPARM.TBL_.txt
+isofenphos - USDA ARS,https://www.ars.usda.gov/ARSUserFiles/00000000/DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/ISOFENPHOS.TXT
+https://lawr.ucdavis.edu/classes/ssc118/Colusa_Cou...,https://lawr.ucdavis.edu/classes/ssc118/Colusa_County/tables/table_8.txt
+4,https://datacarpentry.org/semester-biology/solutions/Neon-harvard-forest-soils-analysis-R-4.txt
+https://pubs.usgs.gov/sir/2004/5013/sir20045013tab...,https://pubs.usgs.gov/sir/2004/5013/sir20045013table4.txt
+https://ntep.org/data/bg97/bg97_02-7f/bg9702fta.txt,https://ntep.org/data/bg97/bg97_02-7f/bg9702fta.txt
+00024.txt - UFDC Image Array 2,https://ufdcimages.uflib.ufl.edu/UF/00/02/57/06/00001/00024.txt
+56 slipout - H.J. Andrews Experimental Forest,https://andrewsforest.oregonstate.edu/data/studies/sp01/profiles/prof56.txt
+https://aurora.auburn.edu/bitstream/handle/11200/1...,https://aurora.auburn.edu/bitstream/handle/11200/1284/0409PROG.pdf.txt%3Fsequence%3D2%26isAllowed%3Dy
+Source of CMakeLists.txt - LeGO LOAM - Bitbucket,https://bitbucket.ihmc.us/projects/TPOSL/repos/lego-loam/diff/LeGO-LOAM/CMakeLists.txt%3FautoSincePath%3Dfalse%26until%3Drefs%252Fheads%252Fmaster%26at%3Dmaster
+https://lawr.ucdavis.edu/classes/ssc118/Colusa_Cou...,https://lawr.ucdavis.edu/classes/ssc118/Colusa_County/tables/table_4.txt
+prometon - USDA ARS,https://www.ars.usda.gov/ARSUserFiles/00000000/DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/PROMETON.TXT
+https://ufdcimages.uflib.ufl.edu/UF/00/02/60/86/00...,https://ufdcimages.uflib.ufl.edu/UF/00/02/60/86/00001/00068.txt
+ftp://ftp.nsidc.org/DATASETS/fgdc/ggd272_cryosols_...,ftp://ftp.nsidc.org/DATASETS/fgdc/ggd272_cryosols_russ_alaska/94p0668.txt
