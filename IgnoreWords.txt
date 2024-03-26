@@ -75,6 +75,7 @@ abscises
 abscisin
 abscising
 abscisins
+abscissa
 abscissae
 abscissas
 abscission
@@ -262,6 +263,7 @@ acarbose
 acarboses
 acari
 acariases
+acariasis
 acaricide
 acaricides
 acaridan
@@ -5777,6 +5779,7 @@ archway
 arciform
 arcing
 arcked
+arco
 arcs
 arcsines
 arctangent
@@ -13300,6 +13303,7 @@ bourdon
 bourdons
 bourgeois
 bourgeoises
+bourgeoisies
 bourgeoisified
 bourgeoisifying
 bourgeoning
@@ -17691,6 +17695,7 @@ causeless
 causer
 causerie
 causeries
+causers
 causes
 causewayed
 causewaying
@@ -22142,6 +22147,7 @@ colonials
 colonics
 colonisation
 colonisations
+colonise
 colonises
 colonising
 colonist
@@ -22903,6 +22909,7 @@ compunctious
 compurgation
 compurgations
 compurgator
+computability
 computable
 computation
 computational
@@ -25460,6 +25467,7 @@ counterparts
 counterpetition
 counterpicket
 counterpicketed
+counterpickets
 counterplan
 counterplans
 counterplay
@@ -28840,6 +28848,7 @@ deceits
 deceivable
 deceived
 deceiver
+deceivers
 deceivingly
 decelerated
 decelerates
@@ -39590,6 +39599,7 @@ ethnologists
 ethnology
 ethnomusicology
 ethnonym
+ethnonyms
 ethnoscience
 ethnoses
 ethogram
@@ -47523,6 +47533,7 @@ gavages
 gavel
 gaveled
 gaveling
+gavelkinds
 gavelled
 gavelling
 gavels
@@ -60114,6 +60125,7 @@ intonate
 intonated
 intonating
 intonation
+intonations
 intone
 intoned
 intoner
@@ -64693,6 +64705,7 @@ layups
 laywoman
 laywomen
 lazar
+lazaret
 lazarettes
 lazaretto
 lazarettos
@@ -66057,6 +66070,7 @@ lipidic
 lipids
 lipins
 lipless
+liplike
 lipocyte
 lipogeneses
 lipogenesis
@@ -68055,6 +68069,7 @@ mailings
 mailless
 maillot
 maillots
+maills
 mailmen
 mailroom
 mailrooms
@@ -69034,6 +69049,7 @@ marvellous
 marvelous
 marvelousness
 marvelousnesses
+maryjane
 maryjanes
 marzipan
 marzipans
@@ -80763,6 +80779,7 @@ outcrowding
 outcrowds
 outcrowed
 outcrowing
+outcrows
 outcrying
 outcurse
 outcursed
@@ -80823,6 +80840,7 @@ outdriving
 outdrop
 outdropped
 outdropping
+outdrove
 outdrunk
 outduel
 outdueled
@@ -86176,6 +86194,7 @@ persecutes
 persecuting
 persecution
 persecutive
+persecutor
 persecutors
 persecutory
 perseverances
@@ -88353,6 +88372,7 @@ plasmids
 plasmin
 plasminogen
 plasminogens
+plasmodesm
 plasmodesma
 plasmodesmas
 plasmodesmata
@@ -91692,6 +91712,7 @@ prestressed
 prestresses
 prestressing
 prestrike
+prestructure
 prestructures
 prestructuring
 prests
@@ -93958,6 +93979,7 @@ pupfish
 pupfishes
 pupil
 pupilages
+pupilary
 pupillages
 pupillary
 pupils
@@ -101443,6 +101465,7 @@ ricercare
 ricercari
 ricercars
 rices
+richen
 richened
 richening
 richer
@@ -103336,6 +103359,7 @@ saleratuses
 saleroom
 salerooms
 sales
+salesclerk
 salesclerks
 salesladies
 saleslady
@@ -107487,6 +107511,7 @@ shipbuilders
 shipbuilding
 shipfitters
 shiplap
+shiplaps
 shipless
 shipload
 shiploads
@@ -111609,6 +111634,7 @@ specialization
 specializations
 specialize
 specializes
+specializing
 specially
 specialness
 specialnesses
@@ -112617,6 +112643,7 @@ squabbled
 squabbler
 squabblers
 squabbling
+squabs
 squad
 squadded
 squadding
@@ -116631,6 +116658,7 @@ supersexuality
 supersharp
 supersinger
 supersingers
+supersize
 supersizes
 supersizing
 supersleuths
@@ -116985,6 +117013,7 @@ surrogating
 surround
 surrounded
 surrounding
+surroundings
 surrounds
 surroyal
 surroyals
@@ -117026,6 +117055,7 @@ susceptibleness
 susceptibly
 susceptive
 susceptiveness
+susceptivities
 sushi
 sushis
 suslik
@@ -118631,6 +118661,7 @@ tardiness
 tardinesses
 tardive
 tardo
+tardy
 tardyon
 tardyons
 tare
@@ -123698,6 +123729,7 @@ tropeolin
 tropeolins
 tropes
 trophallaxes
+trophic
 trophically
 trophied
 trophies
@@ -130262,6 +130294,7 @@ viridities
 viridity
 virile
 virilely
+virilism
 virilities
 virility
 virilized
@@ -131886,6 +131919,7 @@ weening
 weens
 weensier
 weensiest
+weensy
 weep
 weeper
 weepers
@@ -133842,6 +133876,7 @@ xanthine
 xanthines
 xanthins
 xanthoma
+xanthomas
 xanthomata
 xanthone
 xanthophyll
