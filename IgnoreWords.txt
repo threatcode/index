@@ -3064,6 +3064,7 @@ amativeness
 amatols
 amauroses
 amaurosis
+amaurotic
 amaze
 amazed
 amazedly
@@ -3579,6 +3580,7 @@ anagogy
 anagram
 anagrammatic
 anagrammatical
+anagrammatized
 anagrammatizes
 anagrammatizing
 anagramming
@@ -9268,6 +9270,7 @@ battering
 batters
 battery
 battier
+battiks
 battiness
 batting
 battings
@@ -11827,6 +11830,7 @@ blare
 blared
 blaring
 blarney
+blarneyed
 blarneying
 blarneys
 blase
@@ -13879,6 +13883,7 @@ brecciating
 brecham
 brechan
 brechans
+bred
 brede
 bredes
 bree
@@ -17382,6 +17387,7 @@ castratos
 casts
 casual
 casually
+casualnesses
 casualty
 casuarina
 casuarinas
@@ -18180,6 +18186,7 @@ cerebrate
 cerebrated
 cerebrating
 cerebration
+cerebrations
 cerebric
 cerebroside
 cerebrosides
@@ -18201,6 +18208,7 @@ ceremony
 ceres
 cereus
 cereuses
+ceria
 cerias
 ceric
 cering
@@ -22464,6 +22472,7 @@ commentary
 commentate
 commentated
 commentates
+commentating
 commentator
 commentators
 commenter
@@ -23740,6 +23749,7 @@ consecrating
 consecration
 consecrations
 consecrative
+consecrator
 consecratory
 consecution
 consecutions
@@ -30255,6 +30265,7 @@ dense
 densely
 denseness
 densenesses
+denser
 densest
 densification
 densified
@@ -31073,6 +31084,7 @@ determine
 determinedly
 determinedness
 determines
+determinism
 determinisms
 deterministic
 determinists
@@ -36156,6 +36168,7 @@ ecosystems
 ecotage
 ecotages
 ecoterrorism
+ecoterrorisms
 ecoterrorists
 ecotonal
 ecotour
@@ -37771,6 +37784,7 @@ endoplasmic
 endoplasms
 endopodites
 endopolyploid
+endoprocts
 endorphins
 endorse
 endorsed
@@ -42155,6 +42169,7 @@ feasances
 fease
 feased
 feasibilities
+feasibility
 feasibly
 feasing
 feast
@@ -48395,6 +48410,7 @@ gimpier
 gimpiest
 gimping
 gimps
+gimpy
 gin
 gingal
 gingall
@@ -50082,6 +50098,7 @@ grayfishes
 grayhound
 grayhounds
 grayish
+graylag
 graylags
 graylings
 grayly
@@ -57605,6 +57622,7 @@ inceptor
 inceptors
 incepts
 incertitude
+incertitudes
 incessancies
 incessancy
 incessant
@@ -60740,6 +60758,7 @@ ironicalnesses
 ironies
 ironing
 ironings
+ironist
 ironists
 ironize
 ironized
@@ -69752,6 +69771,7 @@ mediatrix
 mediatrixes
 medic
 medicaids
+medical
 medically
 medicals
 medicament
@@ -72488,6 +72508,7 @@ mispages
 mispaging
 mispainted
 mispaints
+misparse
 misparsing
 misparted
 misparting
@@ -74201,6 +74222,7 @@ mousetrap
 mousetrapped
 mousetrapping
 mousetraps
+mousey
 mousier
 mousily
 mousiness
@@ -78273,6 +78295,7 @@ notcher
 notchers
 notching
 note
+notebook
 notebooks
 notecards
 notecase
@@ -83970,6 +83993,7 @@ paperclips
 papered
 paperer
 paperers
+papergirl
 papergirls
 paperhangers
 paperhangings
@@ -89538,6 +89562,7 @@ polymerization
 polymerizations
 polymerize
 polymerized
+polymerizes
 polymerizing
 polymers
 polymorph
@@ -90552,6 +90577,7 @@ praiser
 praisers
 praises
 praiseworthy
+praising
 prajna
 pralltriller
 pralltrillers
@@ -94793,6 +94819,7 @@ quartettes
 quartic
 quartics
 quartiers
+quartile
 quartiles
 quarto
 quarts
@@ -97421,6 +97448,7 @@ redialled
 redialling
 redictated
 redictates
+redictating
 redigest
 redigested
 redigesting
@@ -111787,6 +111815,7 @@ specs
 spectacle
 spectacled
 spectacular
+spectacularly
 spectaculars
 spectate
 spectated
@@ -124159,6 +124188,7 @@ tubal
 tubas
 tubbed
 tubber
+tubbers
 tubbier
 tubbiest
 tubbiness
@@ -124911,6 +124941,7 @@ tyramine
 tyramines
 tyrannic
 tyrannical
+tyrannically
 tyrannicalness
 tyrannicide
 tyrannicides
@@ -126436,6 +126467,7 @@ unease
 uneases
 uneasier
 uneasily
+uneasiness
 uneasinesses
 uneasy
 uneatable
@@ -130073,6 +130105,7 @@ vibrators
 vibratory
 vibrioid
 vibrion
+vibrionic
 vibrions
 vibrios
 vibrioses
@@ -130246,6 +130279,7 @@ vilayets
 vileness
 viler
 vilification
+vilified
 vilifier
 vilifiers
 vilifies
@@ -133989,6 +134023,7 @@ wussy
 wuthered
 wuthering
 wuthers
+wyandottes
 wych
 wye
 wyes
