@@ -1,0 +1,20 @@
+Representation and printing of floating point numbers - SWI-Prolog,http://swi-prolog.osuosl.org/FAQ/floats.txt
+GL_NV_depth_buffer_float - NVIDIA,https://developer.download.nvidia.com/opengl/specs/GL_NV_depth_buffer_float.txt
+GLSL/extensions/ext/GLSL_EXT_shader_atomic_float2.txt at main,https://github.com/KhronosGroup/GLSL/blob/master/extensions/ext/GLSL_EXT_shader_atomic_float2.txt
+EXT_packed_float - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/EXT/EXT_packed_float.txt
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+GLSL/extensions/ext/GLSL_EXT_shader_atomic_float.txt at main,https://github.com/KhronosGroup/GLSL/blob/master/extensions/ext/GLSL_EXT_shader_atomic_float.txt
+float.txt,http://homepage.cs.uiowa.edu/~dwjones/arch/hawk/headers/float.txt
+EXT_color_buffer_half_float - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/EXT/EXT_color_buffer_half_float.txt
+rfc6340.txt - » RFC Editor,https://www.rfc-editor.org/rfc/rfc6340.txt
+test/703-floating-point-div/info.txt - platform/art - Git at Google,https://android.googlesource.com/platform/art/%2B/5978690/test/703-floating-point-div/info.txt
+https://mschuldt.github.io/cs61b_lecture_notes/ori...,https://mschuldt.github.io/cs61b_lecture_notes/original-notes/04.txt
+RFC 401 - IETF,https://www.ietf.org/rfc/rfc401.txt
+https://www.cs.utah.edu/~zachary/isp/IntroSciProg/...,https://www.cs.utah.edu/~zachary/isp/IntroSciProg/diskette/MVR4/chap2.txt
+RasterCreationFactory - Documentation,https://docs.safe.com/fme/html/FME_FactFunc/doc_pages/rastercreationfactory.txt
+Floating Point Routines for the 6502,http://www.6502.org/source/floats/wozfp1.txt
+machar - The Netlib,https://miocene.anu.edu.au/priv/netlib.org/misc/machar.txt
+Response to Sun Proposal to Extend Java Floating Point Semantics,https://math.nist.gov/javanumerics/reports/pejfps.txt
+https://www.ietf.org/proceedings/80/id/draft-ietf-...,https://www.ietf.org/proceedings/80/id/draft-ietf-opsawg-mib-floats-01.txt
+mil-std-1750a.txt,https://www.mssl.ucl.ac.uk/swift/docs/mil-std-1750a.txt
+n651.txt - open-std,https://www.open-std.org/jtc1/sc22/wg14/www/docs/text/n651.txt
