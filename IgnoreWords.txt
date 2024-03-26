@@ -6573,6 +6573,7 @@ assistants
 assistantships
 assisters
 assisting
+assistive
 assistor
 assistors
 assize
@@ -15408,6 +15409,7 @@ cabals
 cabana
 cabaret
 cabarets
+cabbage
 cabbages
 cabbageworm
 cabbageworms
@@ -17724,6 +17726,7 @@ caver
 caverned
 cavernicolous
 caverning
+cavernous
 cavernously
 cavers
 caves
@@ -19241,6 +19244,7 @@ chimpanzees
 chin
 china
 chinaberries
+chinaberry
 chinas
 chinaware
 chinawares
@@ -22993,6 +22997,7 @@ conceptualizers
 conceptualizes
 conceptually
 conceptus
+conceptuses
 concern
 concerned
 concernment
@@ -24708,6 +24713,7 @@ coriander
 coring
 corium
 corkage
+corkages
 corkboard
 corkboards
 corked
@@ -32481,6 +32487,7 @@ discant
 discanted
 discanting
 discants
+discard
 discarded
 discarder
 discarding
@@ -33572,6 +33579,7 @@ ditherers
 dithering
 dithers
 dithiol
+dithyramb
 dithyrambic
 dithyrambically
 dithyrambs
@@ -38307,6 +38315,7 @@ entrants
 entrap
 entrapments
 entrapped
+entrapper
 entrappers
 entrapping
 entraps
@@ -41719,6 +41728,7 @@ farinha
 farinhas
 farinose
 farkleberries
+farkleberry
 farl
 farle
 farles
@@ -42083,6 +42093,7 @@ febrilities
 febrility
 feces
 fecial
+feck
 feckless
 fecklessly
 fecklessness
@@ -42091,6 +42102,7 @@ feckly
 fecks
 fecula
 feculae
+feculence
 feculences
 feculent
 fecund
@@ -43544,6 +43556,7 @@ flamingly
 flammabilities
 flammables
 flammed
+flamming
 flams
 flan
 flancard
@@ -44897,6 +44910,7 @@ foreground
 foregrounding
 foregrounds
 foregut
+foreguts
 forehand
 forehanded
 forehandedness
@@ -48414,6 +48428,7 @@ gladdens
 gladder
 gladdest
 gladding
+glade
 gladelike
 glades
 gladiator
@@ -49996,6 +50011,8 @@ greedily
 greediness
 greedinesses
 greedless
+greeds
+greedsome
 greedy
 greegree
 greegrees
@@ -54150,6 +54167,7 @@ homerooms
 homes
 homeschooled
 homeschooler
+homeschoolers
 homeschooling
 homesick
 homesickness
@@ -54901,6 +54919,7 @@ hovelling
 hovels
 hover
 hovercrafts
+hovered
 hoverer
 hoverers
 hoverflies
@@ -61664,6 +61683,7 @@ jo
 joannes
 jobbed
 jobber
+jobbery
 jobbing
 jobholder
 jobless
@@ -68383,6 +68403,7 @@ mangrove
 mangroves
 mangy
 manhandle
+manhandled
 manhandles
 manhandling
 manhattans
@@ -72093,6 +72114,7 @@ misgrafting
 misgrafts
 misgrew
 misgrowing
+misgrown
 misgrows
 misguess
 misguessed
@@ -73227,6 +73249,7 @@ monoglyceride
 monoglycerides
 monogramed
 monograming
+monogrammed
 monogrammer
 monogrammers
 monogramming
@@ -73502,6 +73525,7 @@ moonstones
 moonwalking
 moonwalks
 moonward
+moonwards
 moonwort
 moony
 moorages
@@ -79862,6 +79886,7 @@ orbital
 orbitals
 orbited
 orbiter
+orbiters
 orbiting
 orbits
 orbless
@@ -89611,6 +89636,7 @@ porkiness
 porkinesses
 porking
 porkpie
+porkpies
 porks
 porkwood
 porky
@@ -90577,6 +90603,7 @@ precision
 precisionist
 precisionists
 precisions
+preclean
 precleaned
 precleaning
 precleans
@@ -105986,6 +106013,7 @@ semiround
 semirounds
 semirural
 semis
+semisacred
 semisecret
 semises
 semishrubby
@@ -107730,6 +107758,7 @@ shrimping
 shrimplike
 shrimps
 shrimpy
+shrine
 shrined
 shrining
 shrink
@@ -110357,6 +110386,7 @@ softballers
 softballs
 softbound
 softbounds
+softcore
 softcover
 softcovers
 soften
@@ -115611,6 +115641,7 @@ sudatories
 sudatoriums
 sudd
 sudden
+suddenly
 suddenness
 suddennesses
 suddens
@@ -116824,6 +116855,7 @@ susceptible
 susceptibleness
 susceptibly
 susceptive
+susceptiveness
 sushi
 sushis
 suslik
@@ -119743,6 +119775,7 @@ tetrapyrrole
 tetrapyrroles
 tetrarch
 tetrarchic
+tetrarchies
 tetrarchs
 tetrarchy
 tetras
@@ -121419,6 +121452,7 @@ tombstone
 tombstones
 tomcat
 tomcats
+tomcatted
 tomcatting
 tomcod
 tomcods
@@ -132092,6 +132126,7 @@ whines
 whiney
 whingding
 whingdings
+whinge
 whinged
 whinger
 whingers
