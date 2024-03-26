@@ -1972,6 +1972,7 @@ agonistically
 agonists
 agonize
 agonized
+agonizes
 agonizing
 agonizingly
 agons
@@ -3926,6 +3927,7 @@ anglicising
 anglicism
 anglicisms
 anglicization
+anglicizations
 anglicize
 anglicizes
 anglicizing
@@ -4508,6 +4510,7 @@ antieconomic
 antiegalitarian
 antielite
 antielites
+antielitism
 antielitist
 antientropic
 antiepileptic
@@ -8896,6 +8899,7 @@ baronage
 baronages
 baronet
 baronetages
+baronetcies
 baronetcy
 baronets
 barong
@@ -11791,6 +11795,7 @@ blared
 blaring
 blarney
 blarneying
+blarneys
 blase
 blaspheme
 blasphemers
@@ -16161,6 +16166,7 @@ candied
 candies
 candle
 candleberries
+candlefish
 candlefishes
 candleholder
 candleholders
@@ -17700,6 +17706,7 @@ cavalrymen
 cavatina
 cavatinas
 cave
+caveat
 caveated
 caveating
 caveator
@@ -22327,6 +22334,7 @@ comic
 comical
 comicalities
 comicality
+comically
 comics
 coming
 comingle
@@ -30576,6 +30584,7 @@ dervish
 dervishes
 desacralization
 desacralized
+desacralizes
 desacralizing
 desalinate
 desalinated
@@ -31300,6 +31309,7 @@ dhooras
 dhooti
 dhooties
 dhootis
+dhoti
 dhotis
 dhourra
 dhurnas
@@ -41315,6 +41325,7 @@ faddiest
 faddishly
 faddishness
 faddishnesses
+faddist
 faddists
 faddy
 fade
@@ -42102,6 +42113,7 @@ federate
 federated
 federates
 federating
+federation
 federations
 federative
 federatively
@@ -42256,6 +42268,7 @@ felts
 felwort
 felworts
 fem
+female
 femalenesses
 feme
 feminacies
@@ -43077,6 +43090,7 @@ fingerpicking
 fingerpickings
 fingerpicks
 fingerposts
+fingerprint
 fingerprinted
 fingerprinting
 fingerprintings
@@ -50016,6 +50030,7 @@ greenkeeper
 greenkeepers
 greenlet
 greenlets
+greenlight
 greenlighted
 greenlights
 greenlings
@@ -50460,6 +50475,7 @@ grudges
 grudgingly
 grue
 gruel
+grueler
 gruelers
 grueling
 gruelingly
@@ -52384,6 +52400,7 @@ headways
 headwind
 headwinds
 headword
+headwords
 headworks
 heady
 heal
@@ -52536,6 +52553,7 @@ hebdomadal
 hebdomadally
 hebdomads
 hebe
+hebephrenia
 hebephrenias
 hebephrenic
 hebes
@@ -80023,6 +80041,7 @@ orismological
 orismologies
 orison
 orisons
+orles
 orlon
 orlop
 orlops
@@ -85245,6 +85264,7 @@ penalties
 penance
 penanced
 penances
+penancing
 penang
 penates
 pence
@@ -89961,6 +89981,7 @@ posture
 posturer
 posturers
 postures
+posturing
 posturists
 postvagotomy
 postvasectomy
@@ -91694,6 +91715,7 @@ preworks
 preworn
 prewrap
 prewrapped
+prewriting
 prewritings
 prex
 prexes
@@ -92025,6 +92047,7 @@ procambia
 procambium
 procambiums
 procarbazines
+procarp
 procarps
 procaryote
 procathedral
@@ -92845,6 +92868,7 @@ protegee
 protegees
 proteges
 protei
+proteid
 proteids
 protein
 proteinaceous
@@ -96016,6 +96040,7 @@ reanimated
 reanimates
 reanimating
 reanimation
+reanimations
 reannex
 reannexation
 reannexations
@@ -96965,6 +96990,7 @@ redbreast
 redbrick
 redbuds
 redbug
+redbugs
 redcap
 redcaps
 redcoat
@@ -107513,6 +107539,7 @@ shortchange
 shortchanged
 shortchanger
 shortchangers
+shortchanges
 shortchanging
 shortcoming
 shortcomings
@@ -110653,6 +110680,7 @@ sonars
 sonata
 sonatas
 sonatina
+sonatinas
 sonatine
 sonde
 sonder
@@ -111399,6 +111427,7 @@ specifying
 specimen
 specimens
 speciosities
+speciosity
 speciously
 speciousness
 speciousnesses
@@ -123300,6 +123329,7 @@ triturations
 triturator
 triturators
 triumphalism
+triumphalisms
 triumphalists
 triumphantly
 triumphed
@@ -123736,6 +123766,7 @@ tubeless
 tubelike
 tubenose
 tubenoses
+tubercle
 tubercular
 tuberculars
 tuberculated
@@ -124508,6 +124539,7 @@ tythes
 tything
 tzaddik
 tzar
+tzardom
 tzarevna
 tzarevnas
 tzarina
@@ -127741,6 +127773,7 @@ unwholesome
 unwieldier
 unwieldiest
 unwieldiness
+unwieldinesses
 unwifely
 unwilled
 unwilling
@@ -128793,6 +128826,7 @@ vaquero
 var
 vara
 varactor
+varas
 varia
 variabilities
 variability
@@ -130252,6 +130286,7 @@ vocalism
 vocalisms
 vocalists
 vocalities
+vocality
 vocalization
 vocalizations
 vocalize
