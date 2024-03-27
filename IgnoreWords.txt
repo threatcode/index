@@ -2102,6 +2102,7 @@ ailments
 ails
 ailurophile
 ailurophiles
+ailurophobe
 ailurophobes
 aim
 aimer
@@ -3059,6 +3060,7 @@ amaryllises
 amas
 amass
 amassable
+amassed
 amasser
 amassers
 amasses
@@ -20104,6 +20106,7 @@ cibol
 cibols
 ciborium
 ciboule
+ciboules
 cicada
 cicadae
 cicadas
@@ -20696,6 +20699,7 @@ clavicular
 clavier
 clavieristic
 clavierists
+claviers
 claviform
 clavus
 clawback
@@ -20907,6 +20911,7 @@ clinging
 clings
 clingstone
 clingstones
+clinic
 clinical
 clinically
 clinician
@@ -32886,6 +32891,7 @@ discoverer
 discoverers
 discoveries
 discovering
+discovers
 discovert
 discovery
 discredit
@@ -33074,6 +33080,7 @@ disguises
 disguising
 disgust
 disgusted
+disgustfully
 disgusting
 disgustingly
 disgusts
@@ -41851,6 +41858,7 @@ family
 famine
 faming
 famish
+famished
 famishing
 famishment
 famishments
@@ -42162,6 +42170,7 @@ fatheadednesses
 fatheads
 father
 fathered
+fatherhood
 fatherhoods
 fathering
 fatherland
@@ -43258,6 +43267,7 @@ filles
 fillet
 filleted
 filleting
+fillets
 fillies
 filling
 fillings
@@ -46951,6 +46961,7 @@ fuzzily
 fuzziness
 fuzzinesses
 fuzzing
+fuzztone
 fuzztones
 fyce
 fyces
@@ -49388,6 +49399,7 @@ gobbed
 gobbet
 gobbets
 gobbing
+gobble
 gobbledegook
 gobbledegooks
 gobbledygook
@@ -65460,6 +65472,7 @@ lengthinesses
 lengths
 lengthways
 lengthwise
+lengthy
 leniences
 leniencies
 leniency
@@ -67842,6 +67855,7 @@ luthiers
 luting
 lutings
 lutist
+lutists
 lutz
 lutzes
 luvs
@@ -74286,6 +74300,7 @@ mossiest
 mossiness
 mossinesses
 mossing
+mosso
 mossy
 most
 mostest
@@ -75632,6 +75647,7 @@ nadas
 nadir
 nadiral
 nadirs
+nae
 naething
 naethings
 naevoid
@@ -81054,6 +81070,7 @@ outbluff
 outbluffed
 outbluffing
 outbluffs
+outblush
 outblushed
 outblushes
 outblushing
@@ -81746,6 +81763,7 @@ outsails
 outsang
 outsat
 outsavor
+outsavored
 outsavoring
 outsavors
 outsaw
@@ -82673,6 +82691,7 @@ overidentifying
 overidle
 overimaginative
 overimpress
+overimpresses
 overimpressing
 overindulged
 overindulgences
@@ -83192,6 +83211,7 @@ oversure
 oversuspicious
 oversweet
 oversweetens
+oversweetness
 oversweetnesses
 overswinging
 overswings
@@ -84843,6 +84863,7 @@ parslied
 parsnip
 parson
 parsonage
+parsonages
 parsonish
 parsons
 part
@@ -90687,6 +90708,7 @@ pothole
 potholes
 pothooks
 pothos
+pothouse
 pothouses
 pothunter
 pothunters
@@ -98595,6 +98617,7 @@ regimen
 regimens
 regimentals
 regimentation
+regimentations
 regimented
 regimenting
 regimes
@@ -99673,6 +99696,7 @@ rentier
 rentiers
 renting
 renumbering
+renumbers
 renunciation
 renunciations
 renunciative
@@ -100110,6 +100134,7 @@ reprobation
 reprobations
 reprobative
 reprobatory
+reprobe
 reprobed
 reprobes
 reprobing
@@ -101734,6 +101759,7 @@ rhabdomeres
 rhabdomes
 rhabdoms
 rhabdovirus
+rhabdoviruses
 rhachides
 rhachis
 rhachises
@@ -103951,6 +103977,7 @@ salpas
 salpian
 salpians
 salpid
+salpids
 salpiglosses
 salpiglossis
 salpinges
@@ -104100,6 +104127,7 @@ sampans
 samphire
 sample
 sampled
+sampler
 samples
 samplings
 samps
@@ -108048,6 +108076,7 @@ shipments
 shipowner
 shipowners
 shippable
+shipped
 shippen
 shippens
 shippings
@@ -109978,6 +110007,7 @@ slime
 slimeball
 slimeballs
 slimes
+slimier
 slimily
 sliminess
 sliminesses
@@ -118339,6 +118369,7 @@ synced
 synch
 synched
 synchro
+synchromesh
 synchromeshes
 synchronal
 synchroneities
@@ -120821,6 +120852,7 @@ theorized
 theorizes
 theorizing
 theory
+theosophical
 theosophically
 theosophies
 theosophist
@@ -122060,6 +122092,7 @@ toccatas
 toccate
 tochered
 tochering
+tochers
 tocopherols
 tocsin
 tocsins
@@ -123639,6 +123672,7 @@ trembler
 tremblers
 tremblier
 trembliest
+trembling
 trembly
 tremendously
 tremendousness
@@ -126225,6 +126259,7 @@ unclassifiable
 unclassified
 unclawed
 uncle
+unclean
 uncleaned
 uncleaner
 uncleanest
