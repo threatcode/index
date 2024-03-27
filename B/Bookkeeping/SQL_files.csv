@@ -1,0 +1,9 @@
+discord-mods-bot/migrations/00000000000000_diesel_initial_setup ...,https://github.com/rust-lang/discord-mods-bot/blob/master/migrations/00000000000000_diesel_initial_setup/down.sql
+diesel/diesel_cli/src/setup_sql/postgres/initial_setup/up.sql at master,https://github.com/diesel-rs/diesel/blob/master/diesel_cli/src/setup_sql/postgres/initial_setup/up.sql
+src/LHCbDIRAC/BookkeepingSystem/DB ... - CERN Gitlab,https://gitlab.cern.ch/lhcb-dirac/LHCbDIRAC/blob/master/src/LHCbDIRAC/BookkeepingSystem/DB/oracle_schema_storedprocedures.sql
+eris/up.sql at 35c79a10762fcd64e99619f23925ac198a5200c4 - Gitea,https://git.celti.name/Celti/eris/src/commit/35c79a10762fcd64e99619f23925ac198a5200c4/migrations/00000000000000_diesel_initial_setup/up.sql%3Flang%3Dfi-FI
+09 Database scripts/M4EU DB/m4eu schema public v2020.3 ...,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/d36dcedc21ad4c19bbd481a3e0ddf7fc392618ba/09%2520Database%2520scripts/M4EU%2520DB/m4eu%2520schema%2520public%2520v2020.3/DBPostGreSQL/01%2520tables%2520v2020.3.sql
+https://api.pgxn.org/src/pg_xenophile/pg_xenophile...,https://api.pgxn.org/src/pg_xenophile/pg_xenophile-0.7.2/sql/pg_xenophile--0.6.1--0.7.0.sql
+09 Database scripts/M4EU DB/E-MineralYearBook schema myb ...,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/e9d314a6f6b9274a5ad785360028fed40f8414e4/09%2520Database%2520scripts/M4EU%2520DB/E-MineralYearBook%2520schema%2520myb/v2020.2/01%2520emyb%2520myb%2520tables%2520v2020.2.sql
+Rust backend for Onigir - API and DB. - migrations ...,https://git.evilma.id/onigiri/backend/src/commit/de97a2ab6b7e38d8315a8e135bba653ae478a380/migrations/00000000000000_diesel_initial_setup/down.sql
+eris/up.sql at 2018 - eris - Gitea,https://git.celti.name/Celti/eris/src/branch/2018/migrations/00000000000000_diesel_initial_setup/up.sql%3Flang%3Dzh-HK
