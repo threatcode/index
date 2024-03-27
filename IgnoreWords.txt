@@ -1629,6 +1629,7 @@ affidavit
 affiliate
 affiliates
 affiliating
+affiliation
 affiliations
 affinal
 affine
@@ -2781,6 +2782,7 @@ allopolyploid
 allopolyploids
 allopurinol
 allopurinols
+allosaur
 allosauruses
 allosteric
 allosterically
@@ -2928,6 +2930,7 @@ alphabetization
 alphabetize
 alphabetized
 alphabetizers
+alphabetizes
 alphabetizing
 alphabets
 alphameric
@@ -17241,6 +17244,7 @@ carrells
 carriages
 carriageway
 carriageways
+carrier
 carriers
 carries
 carriole
@@ -23765,6 +23769,7 @@ conjoint
 conjointly
 conjugalities
 conjugally
+conjugant
 conjugants
 conjugate
 conjugated
@@ -24623,6 +24628,7 @@ coolly
 cools
 coolth
 coolths
+cooly
 coomb
 coombs
 cooncan
@@ -24819,6 +24825,7 @@ copyhold
 copyholder
 copyholds
 copying
+copyist
 copyists
 copyleft
 copyreader
@@ -26716,6 +26723,7 @@ crista
 cristae
 cristated
 criteria
+criterial
 criterion
 criterions
 criteriums
@@ -27674,6 +27682,7 @@ curvature
 curvatures
 curve
 curveball
+curveballed
 curveballing
 curveballs
 curved
@@ -39689,6 +39698,7 @@ essentialist
 essentialities
 essentiality
 essentialize
+essentialized
 essentializes
 essentializing
 essentialness
@@ -45776,6 +45786,7 @@ foulard
 foulbrood
 foulbroods
 fouled
+fouler
 foulest
 fouling
 foulings
@@ -48527,6 +48538,7 @@ ghettos
 ghibli
 ghiblis
 ghillies
+ghosted
 ghostier
 ghosting
 ghostlier
@@ -53233,6 +53245,7 @@ helicoids
 helicon
 heliconia
 heliconias
+helicopt
 helicopted
 helicopter
 helicoptered
@@ -56137,6 +56150,7 @@ hyperbaric
 hyperbarically
 hyperbola
 hyperbolas
+hyperbole
 hyperboles
 hyperbolical
 hyperbolically
@@ -61637,6 +61651,7 @@ jackeroos
 jackers
 jacket
 jacketing
+jacketless
 jackets
 jackfish
 jackfishes
@@ -65072,6 +65087,7 @@ lavalava
 lavalavas
 lavalier
 lavaliere
+lavalieres
 lavalike
 lavallieres
 lavash
@@ -70251,6 +70267,7 @@ medullar
 medullary
 medullas
 medullated
+medulloblastoma
 medusal
 medusan
 medusans
@@ -70803,6 +70820,7 @@ merises
 meristem
 meristematic
 meristems
+meristic
 merit
 merited
 meriting
@@ -71456,6 +71474,7 @@ microcrystals
 microcultural
 microculture
 microcultures
+microcurie
 microcuries
 microcyte
 microcytes
@@ -76940,6 +76959,7 @@ newswire
 newswoman
 newswomen
 newsworthiness
+newsworthy
 newswriting
 newswritings
 newsy
@@ -85568,6 +85588,7 @@ pavis
 pavise
 paviser
 pavisers
+pavises
 pavisse
 pavisses
 pavlova
@@ -88638,6 +88659,7 @@ piscators
 piscatory
 pisciculture
 piscicultures
+pisciform
 piscinae
 piscinal
 piscine
@@ -95213,6 +95235,7 @@ quadrennial
 quadrennially
 quadrennium
 quadrenniums
+quadric
 quadricep
 quadricepses
 quadrics
@@ -98979,6 +99002,7 @@ rehabber
 rehabilitant
 rehabilitants
 rehabilitate
+rehabilitates
 rehabilitating
 rehabilitations
 rehabilitator
@@ -104635,6 +104659,7 @@ sappily
 sappiness
 sappinesses
 sappy
+sapraemia
 sapraemias
 sapremia
 sapremias
@@ -106610,6 +106635,7 @@ seersucker
 seersuckers
 sees
 seesaw
+seesawing
 seesaws
 seethe
 seethes
@@ -107235,6 +107261,7 @@ septette
 septical
 septicemia
 septicemias
+septicidal
 septicities
 septics
 septillion
@@ -109856,6 +109883,7 @@ skirr
 skirred
 skirret
 skirrets
+skirt
 skirted
 skirters
 skirting
@@ -111834,6 +111862,7 @@ sooted
 sooth
 soothe
 soothed
+soother
 soothers
 soothes
 soothfast
@@ -119821,6 +119850,7 @@ taxless
 taxman
 taxols
 taxon
+taxonomic
 taxonomically
 taxonomies
 taxonomist
@@ -119854,6 +119884,7 @@ teacup
 teacupful
 teacups
 teacupsful
+teahouse
 teahouses
 teakettle
 teakettles
@@ -121272,6 +121303,7 @@ theurgic
 theurgical
 theurgist
 theurgists
+theurgy
 thewiest
 thews
 thewy
@@ -121663,6 +121695,7 @@ throwaways
 thrower
 throwers
 throwing
+thrown
 throws
 throwster
 thrummed
@@ -132175,6 +132208,7 @@ walnut
 walnuts
 walrus
 walruses
+waltz
 waltzer
 waltzers
 waltzes
@@ -135403,6 +135437,7 @@ yucked
 yuckiest
 yuckiness
 yuckinesses
+yucking
 yucks
 yucky
 yuga
