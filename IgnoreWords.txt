@@ -1088,6 +1088,7 @@ adjournment
 adjournments
 adjudged
 adjudges
+adjudicate
 adjudicating
 adjudication
 adjudications
@@ -1107,6 +1108,7 @@ adjurer
 adjurers
 adjures
 adjuring
+adjuror
 adjurors
 adjustabilities
 adjustability
@@ -9738,6 +9740,7 @@ bedrails
 bedrape
 bedraped
 bedrapes
+bedraping
 bedrench
 bedrenched
 bedrenches
@@ -22199,6 +22202,7 @@ collinsias
 collision
 collisional
 collisionally
+collisions
 collocates
 collocating
 collocation
@@ -22471,6 +22475,7 @@ comedones
 comedown
 comeliest
 comeliness
+comelinesses
 comember
 comembers
 comer
@@ -32788,6 +32793,7 @@ disclosing
 disclosure
 disclosures
 discoed
+discographer
 discographers
 discographic
 discographical
@@ -39396,6 +39402,7 @@ eructation
 eructations
 eructed
 eructing
+eruditely
 eruditions
 erugo
 erugos
@@ -39722,6 +39729,7 @@ eternalize
 eternalized
 eternalizes
 eternalizing
+eternally
 eternalness
 eternalnesses
 eternise
@@ -41850,6 +41858,7 @@ familiarize
 familiarized
 familiarizes
 familiarizing
+familiarness
 familiars
 families
 familism
@@ -45855,6 +45864,7 @@ frameshifts
 framework
 framing
 framings
+franc
 franchise
 franchised
 franchisee
@@ -51907,6 +51917,7 @@ hamadryases
 hamal
 hamals
 hamantaschen
+hamartias
 hamate
 hamates
 hamaul
@@ -56520,6 +56531,7 @@ idealised
 idealises
 idealising
 idealism
+idealisms
 idealistically
 idealists
 ideality
@@ -57214,6 +57226,7 @@ impawned
 impawning
 impawns
 impeach
+impeachable
 impeached
 impeacher
 impeachers
@@ -60462,6 +60475,7 @@ intraday
 intradermal
 intradermally
 intrados
+intradoses
 intragalactic
 intragenic
 intramolecular
@@ -63261,6 +63275,7 @@ killdees
 killed
 killer
 killers
+killick
 killie
 killies
 killifish
@@ -71796,6 +71811,7 @@ millet
 millhouses
 milliampere
 milliamperes
+milliard
 milliards
 milliaries
 milliary
@@ -78676,6 +78692,7 @@ novelise
 novelised
 novelises
 novelist
+novelistic
 novelistically
 novelists
 novelization
@@ -79614,6 +79631,7 @@ oesophagi
 oestrin
 oestrins
 oestriol
+oestrogen
 oestrous
 oestrum
 oestrus
@@ -80866,6 +80884,7 @@ osteitic
 osteitides
 osteitis
 ostensible
+ostensive
 ostensoria
 ostensories
 ostensorium
@@ -89266,6 +89285,7 @@ plum
 plumage
 plumaged
 plumate
+plumbable
 plumbagos
 plumbed
 plumbeous
@@ -91653,6 +91673,7 @@ prelatures
 prelaunched
 prelaunches
 prelaunching
+prelaw
 prelect
 prelecting
 prelection
@@ -92316,6 +92337,7 @@ prevails
 prevalence
 prevalent
 prevalently
+prevalents
 prevalued
 prevalues
 prevaluing
@@ -97648,6 +97670,7 @@ recumbency
 recumbent
 recuperated
 recuperates
+recuperating
 recuperation
 recuperations
 recuperative
@@ -98036,6 +98059,7 @@ reechiest
 reecho
 reechoes
 reechoing
+reed
 reedbird
 reedbirds
 reedbucks
@@ -98591,6 +98615,7 @@ regave
 regear
 regeared
 regearing
+regears
 regelate
 regelated
 regelates
@@ -101354,6 +101379,7 @@ retroreflector
 retroreflectors
 retrorse
 retros
+retrospect
 retrospected
 retrospecting
 retrospection
@@ -103154,6 +103180,7 @@ rube
 rubefacient
 rubefacients
 rubel
+rubellas
 rubellite
 rubeola
 rubeolas
@@ -103446,6 +103473,7 @@ rushier
 rushiest
 rushing
 rushings
+rushlight
 rushlights
 rushlike
 rushy
@@ -105809,6 +105837,7 @@ scrupulosities
 scrupulosity
 scrupulous
 scrupulously
+scrupulousness
 scrutineer
 scrutinise
 scrutinised
@@ -107692,6 +107721,7 @@ sharpened
 sharpener
 sharpeners
 sharpening
+sharpens
 sharper
 sharpers
 sharpie
@@ -116586,6 +116616,7 @@ sulci
 sulcus
 suldan
 suldans
+sulfa
 sulfadiazine
 sulfadiazines
 sulfanilamide
@@ -125274,6 +125305,7 @@ twinges
 twinging
 twiniest
 twinight
+twining
 twinjet
 twinkies
 twinkle
@@ -132257,6 +132289,7 @@ waterlessnesses
 waterlilies
 waterlily
 waterline
+waterlines
 waterlog
 waterlogged
 waterlogging
@@ -133353,6 +133386,7 @@ widgets
 widow
 widowbird
 widowbirds
+widowed
 widowered
 widowerhood
 widowerhoods
@@ -135572,6 +135606,7 @@ zymolyses
 zymolysis
 zymolytic
 zymosan
+zymosans
 zymoses
 zymosis
 zymurgies
