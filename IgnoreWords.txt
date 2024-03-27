@@ -422,6 +422,7 @@ accomplishments
 accord
 accordance
 accordances
+accordant
 accordantly
 accorded
 accorder
@@ -1134,6 +1135,7 @@ admasses
 admeasure
 admeasured
 admeasurements
+admeasures
 admeasuring
 admen
 administer
@@ -3177,6 +3179,7 @@ ambulacra
 ambulacral
 ambulacrum
 ambulances
+ambulant
 ambulate
 ambulating
 ambulation
@@ -4919,6 +4922,7 @@ antithrombins
 antitobacco
 antitoxic
 antitoxin
+antitrade
 antitraditional
 antitragus
 antitruster
@@ -9937,6 +9941,7 @@ begazing
 beget
 begets
 begetting
+beggar
 beggardom
 beggared
 beggaries
@@ -14033,6 +14038,7 @@ briars
 briarwood
 briarwoods
 briary
+bribable
 bribe
 bribed
 bribee
@@ -15746,6 +15752,7 @@ cafeteria
 cafeterias
 cafetoria
 cafetorium
+cafetoriums
 caff
 caffein
 caffeinated
@@ -22198,6 +22205,7 @@ collembolous
 collenchymas
 collenchymatous
 collet
+colleted
 colleting
 collets
 colliders
@@ -27109,6 +27117,7 @@ cryotron
 cryotrons
 crypt
 cryptal
+cryptanalyses
 cryptanalysis
 cryptanalyst
 cryptanalysts
@@ -33838,6 +33847,7 @@ disunite
 disunited
 disuniter
 disuniters
+disunites
 disunities
 disuniting
 disunity
@@ -41813,6 +41823,7 @@ faithless
 faithlessly
 faithlessness
 faithlessnesses
+faiths
 faitour
 faitours
 fajita
@@ -43549,6 +43560,7 @@ fiords
 fipples
 fique
 fiques
+fir
 fire
 fireable
 firearm
@@ -44432,6 +44444,7 @@ floodwater
 floodwaters
 floodway
 flooey
+flooie
 floor
 floorage
 floorages
@@ -47192,6 +47205,7 @@ galactosidases
 galactoside
 galactosides
 galactosyl
+galactosyls
 galago
 galagos
 galah
@@ -50885,6 +50899,7 @@ groves
 grow
 growable
 grower
+growers
 growing
 growl
 growler
@@ -51069,6 +51084,7 @@ guars
 guayaberas
 guayules
 guck
+gucks
 gude
 gudes
 gudgeon
@@ -59000,6 +59016,7 @@ infringements
 infringer
 infringers
 infringes
+infringing
 infrugal
 infundibular
 infundibuliform
@@ -59168,6 +59185,7 @@ inhumanely
 inhumanities
 inhumanity
 inhumanly
+inhumannesses
 inhumation
 inhumations
 inhume
@@ -61331,6 +61349,7 @@ isodose
 isoelectronic
 isoenzyme
 isoenzymes
+isoenzymic
 isoform
 isoforms
 isogamete
@@ -67712,6 +67731,7 @@ luggies
 luging
 lugs
 lugsails
+lugubrious
 lugworm
 lukewarm
 lukewarmly
@@ -69528,6 +69548,7 @@ masculinises
 masculinising
 masculinists
 masculinities
+masculinization
 masculinize
 masculinizes
 masculinizing
@@ -79979,6 +80000,7 @@ oleum
 oleums
 olfaction
 olfactive
+olfactometer
 olfactometers
 olfactory
 olicook
@@ -82094,6 +82116,7 @@ outthank
 outthanked
 outthanking
 outthanks
+outthieve
 outthieved
 outthieves
 outthinking
@@ -83693,6 +83716,7 @@ ozones
 ozonide
 ozonides
 ozonise
+ozonised
 ozonises
 ozonising
 ozonize
@@ -90630,6 +90654,7 @@ postfaces
 postfeminist
 postfire
 postfix
+postfixal
 postflight
 postform
 postforming
@@ -92638,6 +92663,7 @@ primeros
 primers
 primi
 primines
+priming
 primings
 primipara
 primiparae
@@ -99176,6 +99202,7 @@ reinvest
 reinvested
 reinvestigate
 reinvestigated
+reinvestigates
 reinvestigating
 reinvestigation
 reinvesting
@@ -110023,6 +110050,7 @@ slaveholdings
 slaverer
 slavers
 slavery
+slaves
 slavey
 slaveys
 slaving
@@ -114237,6 +114265,7 @@ stemmatic
 stemmeries
 stemmers
 stemmery
+stemmier
 stemmiest
 stemming
 stemmy
@@ -115541,6 +115570,7 @@ stuffers
 stuffier
 stuffiest
 stuffily
+stuffiness
 stuffing
 stuffings
 stuffless
@@ -119076,6 +119106,7 @@ tajes
 taka
 takahe
 takahes
+takas
 take
 takeable
 takeaway
@@ -124587,6 +124618,7 @@ tropic
 tropical
 tropicalize
 tropicalizing
+tropically
 tropicals
 tropics
 tropin
@@ -129414,6 +129446,7 @@ ureas
 urease
 ureases
 uredia
+uredial
 uredinia
 uredinial
 urediniospores
@@ -131005,6 +131038,7 @@ village
 villager
 villagers
 villagery
+villages
 villainess
 villainesses
 villainous
@@ -135780,6 +135814,7 @@ zymology
 zymolyses
 zymolysis
 zymolytic
+zymometer
 zymosan
 zymosans
 zymoses
