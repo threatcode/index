@@ -145,6 +145,7 @@ absorption
 absorptions
 absorptive
 absorptivities
+absorptivity
 abstain
 abstained
 abstainers
@@ -2446,6 +2447,7 @@ alexine
 alexines
 alexins
 alfa
+alfaki
 alfakis
 alfalfa
 alfaqui
@@ -8044,6 +8046,7 @@ backchecking
 backchecks
 backcloth
 backcloths
+backcountries
 backcountry
 backcourt
 backcourtman
@@ -10053,6 +10056,7 @@ bejeezus
 bejesus
 bejewel
 bejeweling
+bejewelled
 bejewelling
 bejewels
 bejumble
@@ -14941,6 +14945,7 @@ bunas
 bunch
 bunchberries
 bunchberry
+bunched
 bunches
 bunchier
 bunchiest
@@ -22406,6 +22411,7 @@ columel
 columellae
 columellar
 column
+columnal
 columnar
 columnea
 columned
@@ -25164,6 +25170,7 @@ corroboree
 corroborees
 corrode
 corroded
+corrodible
 corrodies
 corroding
 corrody
@@ -26301,6 +26308,7 @@ crawlway
 crawlways
 crawly
 craws
+crayfishes
 crayoned
 crayoners
 crayoning
@@ -26332,6 +26340,7 @@ creamed
 creameries
 creamery
 creamier
+creamily
 creaminess
 creaminesses
 creampuff
@@ -38528,6 +38537,7 @@ enterostomies
 enterotoxin
 enterotoxins
 enterovirus
+enterpriser
 enterprisers
 enterprises
 enterprising
@@ -38722,6 +38732,7 @@ enviers
 envies
 envious
 enviously
+enviousness
 enviousnesses
 enviro
 environ
@@ -41012,6 +41023,7 @@ explicatively
 explicator
 explicators
 explicatory
+explicit
 explicitly
 explicits
 exploded
@@ -46951,6 +46963,7 @@ fustians
 fustics
 fustier
 fustiest
+fustigate
 fustigated
 fustigates
 fustigating
@@ -55009,6 +55022,7 @@ hornblendic
 hornbook
 hornedness
 hornednesses
+hornet
 hornfels
 hornier
 horniest
@@ -57146,6 +57160,7 @@ immunities
 immunization
 immunize
 immunizer
+immunizers
 immunizing
 immunoassay
 immunoassayable
@@ -65698,6 +65713,7 @@ leucitic
 leucocidin
 leucocidins
 leucocyte
+leucomas
 leucoplast
 leucoplasts
 leud
@@ -67875,6 +67891,7 @@ lustinesses
 lusting
 lustra
 lustral
+lustrate
 lustrated
 lustrates
 lustrating
@@ -68154,6 +68171,7 @@ mackerel
 mackerels
 mackinaws
 mackintosh
+mackintoshes
 mackles
 mackling
 macle
@@ -70777,6 +70795,7 @@ mescluns
 mesdames
 mesdemoiselles
 meseemed
+mesencephala
 mesencephalic
 mesenchymal
 mesenchyme
@@ -74799,6 +74818,7 @@ muensters
 muesli
 mueslis
 muezzin
+muezzins
 muffed
 muffineer
 muffing
@@ -75418,6 +75438,7 @@ mutinousness
 mutinying
 mutism
 mutisms
+muton
 mutons
 muts
 mutt
@@ -75907,6 +75928,7 @@ nargilehs
 nargiles
 narial
 narine
+naris
 nark
 narking
 narks
@@ -77287,6 +77309,7 @@ nogged
 noggin
 noggings
 noggins
+noggs
 nogs
 noh
 noily
@@ -78538,6 +78561,7 @@ nori
 noria
 norias
 noris
+norite
 norites
 noritic
 norland
@@ -86998,6 +87022,7 @@ petrous
 petsais
 pettable
 petted
+pettedly
 petters
 petti
 petticoat
@@ -99745,6 +99770,7 @@ renewable
 renewables
 renewal
 renewed
+renewedly
 renewer
 renewers
 renewing
@@ -104117,6 +104143,7 @@ saltie
 saltiest
 saltimbocca
 saltimboccas
+saltine
 saltines
 saltiness
 salting
@@ -104922,6 +104949,7 @@ sayid
 sayids
 sayonara
 sayonaras
+says
 sayst
 sayyid
 sayyids
@@ -105915,6 +105943,7 @@ scrunchies
 scrunching
 scrunchy
 scruple
+scrupled
 scruples
 scrupling
 scrupulosities
@@ -107364,6 +107393,7 @@ servicewoman
 servicewomen
 serviette
 serviettes
+servilely
 serving
 servitor
 servitors
@@ -119341,6 +119371,7 @@ tapeless
 tapelike
 tapeline
 tapelines
+tapenade
 taper
 tapered
 taperers
@@ -119943,6 +119974,7 @@ telangiectasias
 telco
 telcos
 tele
+telecast
 telecasted
 telecaster
 telecasters
@@ -121932,6 +121964,7 @@ tinamou
 tinamous
 tincal
 tincals
+tincted
 tincting
 tinctorial
 tinctorially
@@ -126995,6 +127028,7 @@ undeserving
 undesignated
 undesigning
 undesirability
+undesirable
 undesired
 undetectable
 undetected
@@ -134209,6 +134243,7 @@ woodchoppers
 woodchuck
 woodcocks
 woodcraft
+woodcut
 woodcuts
 woodcutter
 woodcutters
