@@ -921,6 +921,7 @@ acylation
 acyloin
 acyloins
 acyls
+ad
 adage
 adages
 adagios
@@ -9229,6 +9230,7 @@ bastardizations
 bastardize
 bastardized
 bastardizes
+bastardizing
 bastardly
 bastards
 baste
@@ -10760,6 +10762,7 @@ bewilderedness
 bewildering
 bewilderingly
 bewilderment
+bewilderments
 bewilders
 bewinged
 bewitch
@@ -15690,6 +15693,7 @@ cad
 cadaster
 cadastral
 cadastrally
+cadastres
 cadaver
 cadaveric
 cadaverine
@@ -17349,6 +17353,7 @@ carwashes
 caryatids
 caryopses
 caryopsides
+caryopsis
 caryotin
 caryotins
 casabas
@@ -17846,6 +17851,7 @@ causes
 causewayed
 causewaying
 causeways
+causey
 causeys
 causing
 caustic
@@ -22392,6 +22398,7 @@ colorpoints
 colorway
 colorways
 colossal
+colossally
 colosseum
 colosseums
 colossi
@@ -28125,6 +28132,7 @@ cytolyses
 cytolysin
 cytolysins
 cytolytic
+cytomegalic
 cytomegalovirus
 cytomembranes
 cyton
@@ -30570,6 +30578,7 @@ deoxygenations
 depaint
 depainted
 depainting
+depart
 departees
 departing
 department
@@ -31331,6 +31340,7 @@ deticks
 detinues
 detonability
 detonable
+detonatable
 detonated
 detonates
 detonating
@@ -33566,6 +33576,7 @@ disreputes
 disrespect
 disrespectable
 disrespected
+disrespectful
 disrespectfully
 disrespecting
 disrespects
@@ -43658,6 +43669,7 @@ firepowers
 fireproof
 fireproofing
 fireproofs
+firer
 firerooms
 fireship
 fireships
@@ -45667,6 +45679,7 @@ formwork
 formyl
 fornent
 fornical
+fornicate
 fornicated
 fornicating
 fornication
@@ -47147,6 +47160,7 @@ gadi
 gadid
 gadids
 gadis
+gadje
 gadjo
 gadoid
 gadoids
@@ -48956,6 +48970,7 @@ glandularly
 glandule
 glandules
 glans
+glared
 glares
 glarier
 glariest
@@ -49719,6 +49734,7 @@ gonfalons
 gonfanon
 gonfanons
 gong
+gonged
 gonging
 gongoristic
 gongs
@@ -51729,6 +51745,7 @@ hafted
 haftorahs
 haftoros
 haftorot
+haftoroth
 hafts
 hagborn
 hagbush
@@ -53073,6 +53090,7 @@ hebephrenias
 hebephrenic
 hebes
 hebetate
+hebetated
 hebetates
 hebetating
 hebetation
@@ -60427,6 +60445,7 @@ interspecific
 interspersed
 interspersing
 interspersion
+interspersions
 interstadial
 interstadials
 interstage
@@ -67076,6 +67095,7 @@ lockups
 locoed
 locoes
 locofocos
+locoing
 locoism
 locoisms
 locomote
@@ -76028,6 +76048,7 @@ narrate
 narrated
 narrater
 narraters
+narrates
 narrating
 narrational
 narrations
@@ -76975,6 +76996,7 @@ ngwee
 niacin
 niacinamide
 niacins
+nialamide
 nialamides
 nib
 nibbed
@@ -80462,6 +80484,7 @@ opinionated
 opinionatedly
 opinionative
 opinionatively
+opinioned
 opinions
 opioid
 opioids
@@ -84918,6 +84941,7 @@ parflesh
 parfleshes
 parfocal
 parfocalities
+parfocalize
 parfocalizes
 parget
 pargeted
@@ -90390,6 +90414,7 @@ popliteal
 poplitei
 popliteus
 poplitic
+popover
 popovers
 poppa
 poppadom
@@ -95079,6 +95104,7 @@ pyridoxamines
 pyridoxin
 pyridoxine
 pyridoxines
+pyrimethamine
 pyrimethamines
 pyrimidine
 pyrimidines
@@ -105105,6 +105131,7 @@ scabrousnesses
 scabs
 scad
 scads
+scaffolded
 scaffolding
 scaffoldings
 scag
@@ -106084,6 +106111,7 @@ scrutinises
 scrutinising
 scrutinize
 scrutinizer
+scrutinizers
 scrutiny
 scuba
 scubaed
@@ -107042,6 +107070,7 @@ sempiternities
 sempiternity
 semple
 sempre
+sempstress
 sempstresses
 sen
 senarii
@@ -113786,6 +113815,7 @@ stagehand
 stagehands
 stagelike
 stager
+stagers
 stages
 stagestruck
 stagey
@@ -115821,6 +115851,7 @@ subacidly
 subacidnesses
 subacrid
 subacute
+subacutely
 subadar
 subadars
 subadolescent
@@ -120940,6 +120971,7 @@ tets
 tetter
 tetters
 teuch
+teugh
 teutonize
 teutonizes
 tevatron
@@ -121737,6 +121769,7 @@ thumbing
 thumbkin
 thumbkins
 thumbnail
+thumbnails
 thumbnuts
 thumbprint
 thumbprints
@@ -124686,6 +124719,7 @@ tronas
 trone
 troop
 trooper
+troopers
 troopial
 troopials
 troopships
@@ -134394,6 +134428,7 @@ wonner
 wonning
 wons
 wont
+wonted
 wontedly
 wontedness
 wontednesses
