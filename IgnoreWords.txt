@@ -421,6 +421,7 @@ accord
 accordance
 accordances
 accordantly
+accorded
 accorder
 accorders
 accordion
@@ -10784,6 +10785,7 @@ biannually
 bias
 biased
 biasedly
+biases
 biasness
 biasnesses
 biassedly
@@ -11588,6 +11590,7 @@ bisector
 bisectrices
 bisectrix
 bisects
+biseriate
 biserrate
 bises
 bisexual
@@ -12412,6 +12415,7 @@ blunderbusses
 blundered
 blunderer
 blunderers
+blundering
 blunderingly
 blunge
 blunged
@@ -14849,6 +14853,7 @@ bulls
 bullshat
 bullshits
 bullshitted
+bullshitting
 bullshot
 bullsnake
 bullterrier
@@ -22247,6 +22252,7 @@ colones
 colonial
 colonialism
 colonialisms
+colonialist
 colonialists
 colonially
 colonialness
@@ -25285,6 +25291,7 @@ cosmologist
 cosmologists
 cosmonaut
 cosmonauts
+cosmopolis
 cosmopolises
 cosmopolitan
 cosmopolitanism
@@ -26967,6 +26974,7 @@ cruor
 cruors
 crupper
 cruppers
+crura
 crural
 crus
 crusade
@@ -37731,6 +37739,7 @@ encompass
 encompassed
 encompasses
 encompassing
+encompassment
 encore
 encored
 encores
@@ -39794,6 +39803,7 @@ ethograms
 ethological
 ethologies
 ethologist
+ethologists
 ethology
 ethos
 ethoses
@@ -43340,6 +43350,7 @@ financial
 financially
 financier
 financiered
+financiers
 financing
 finbacks
 finca
@@ -44126,6 +44137,7 @@ fleshpot
 fleshpots
 fleshy
 fletch
+fletcher
 fletches
 fletching
 fletchings
@@ -45943,6 +45955,7 @@ freeboard
 freeboards
 freeboot
 freebooted
+freebooters
 freebooting
 freeboots
 freed
@@ -57591,6 +57604,7 @@ impurest
 impurities
 imputabilities
 imputability
+imputable
 imputably
 imputation
 imputations
@@ -62092,6 +62106,7 @@ joggings
 joggle
 joggled
 joggler
+jogglers
 joggles
 joggling
 jogs
@@ -62237,6 +62252,7 @@ journals
 journey
 journeyed
 journeyer
+journeyers
 journeyman
 journeymen
 journeywork
@@ -69299,6 +69315,7 @@ marshalships
 marshes
 marshier
 marshiest
+marshiness
 marshinesses
 marshland
 marshlands
@@ -71411,6 +71428,7 @@ microscopy
 microsecond
 microseconds
 microseism
+microseismic
 microseismicity
 microseisms
 microsome
@@ -74709,6 +74727,7 @@ muggurs
 muggy
 mughal
 mugs
+mugwort
 mugworts
 mugwump
 mugwumps
@@ -76614,6 +76633,7 @@ neutering
 neutral
 neutralise
 neutralising
+neutralism
 neutralisms
 neutralist
 neutralistic
@@ -78988,6 +79008,7 @@ oars
 oarsman
 oarsmanship
 oarsmanships
+oarsmen
 oarswoman
 oarswomen
 oases
@@ -86583,6 +86604,7 @@ persecutors
 persecutory
 perseverances
 perseverate
+perseverated
 perseveration
 perseverations
 perseverative
@@ -93885,6 +93907,7 @@ psoas
 psoatic
 psocid
 psocids
+psoraleas
 psoralen
 psoralens
 psoriases
@@ -96103,6 +96126,7 @@ rankly
 ranknesses
 ranks
 ranpike
+ransacked
 ransackers
 ransacks
 ransom
@@ -99559,6 +99583,7 @@ reneging
 renegotiable
 renegotiate
 renegotiated
+renegotiating
 renegotiation
 renegotiations
 renest
@@ -100364,6 +100389,7 @@ resect
 resectabilities
 resectable
 resected
+resecting
 resects
 resecure
 resecured
@@ -104252,6 +104278,7 @@ santonin
 santonins
 santoor
 santoors
+santour
 santur
 santurs
 sap
@@ -105450,6 +105477,7 @@ scours
 scouses
 scout
 scoutcrafts
+scouted
 scouter
 scouters
 scouth
@@ -115892,6 +115920,7 @@ suboptimize
 suboptimized
 suboptimizing
 suboptimum
+suborbicular
 suborder
 suborders
 subordinate
@@ -119833,6 +119862,7 @@ teleshopping
 teleshops
 telesis
 telestic
+telestich
 telestics
 teletext
 teletexts
@@ -123485,6 +123515,7 @@ trawling
 tray
 trayful
 trayfuls
+trays
 trazodone
 treacheries
 treacherous
@@ -125509,6 +125540,7 @@ ultrafine
 ultraglamorous
 ultrahazardous
 ultraheat
+ultraheated
 ultraheating
 ultraheats
 ultraheavy
@@ -126671,6 +126703,7 @@ undersoils
 undersold
 undersong
 undersongs
+underspin
 underspins
 understaffed
 understaffing
@@ -128662,6 +128695,7 @@ unworkabilities
 unworkability
 unworkable
 unworked
+unworldlier
 unworldliest
 unworldlinesses
 unworldly
@@ -133179,6 +133213,7 @@ whorls
 whort
 whortle
 whortleberries
+whortleberry
 whortles
 whorts
 whose
