@@ -7,3 +7,8 @@ utilities/apex/core/tab.sql ... - GitLab,https://gitisu.itmo.ru/gitlab/DEV_24374
 cerc-io/ipld-eth-server - ipld-eth-server - Gitea: Git with a cup of tea,https://git.vdb.to/cerc-io/ipld-eth-server/commits/commit/c16ac026db567cf55e8d9a84d44f9eb6cfcb874c/db/migrations/00023_create_headers_table.sql
 Mail,http://163.29.181.251/ftp.sql
 ADSL - Web,http://61.67.72.100/2020.sql
+orxmlapp/Examples/ch05/xpath_body.sql - O'Reilly Resources,https://resources.oreilly.com/examples/9781565926912/-/blob/a146e5d15f96f4e5fe4f3744d8150608283d32a7/orxmlapp/Examples/ch05/xpath_body.sql
+acs-objects-create.sql - GitHub,https://github.com/openacs/openacs-core/blob/master/packages/acs-kernel/sql/postgresql/acs-objects-create.sql
+https://raw.githubusercontent.com/oracle/apex/21.1...,https://raw.githubusercontent.com/oracle/apex/21.1/starter-apps/opportunities/opportunities.sql
+parcel-analysis/DataQuick/sql/views/assessments_geocoded.sql at ...,https://github.com/arthur-e/parcel-analysis/blob/master/DataQuick/sql/views/assessments_geocoded.sql
+https://raw.githubusercontent.com/oracle/apex/21.1...,https://raw.githubusercontent.com/oracle/apex/21.1/starter-apps/poll/poll.sql
