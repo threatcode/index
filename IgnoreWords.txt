@@ -2405,6 +2405,7 @@ alderman
 aldermanic
 aldermen
 alderwoman
+alderwomen
 aldicarb
 aldicarbs
 aldol
@@ -8694,6 +8695,7 @@ bandy
 bane
 baneberries
 baneberry
+baned
 baneful
 banefully
 banes
@@ -9232,6 +9234,7 @@ bassness
 bassnesses
 basso
 bassoon
+bassoonists
 bassoons
 bassos
 basswood
@@ -11533,6 +11536,7 @@ biphenyls
 biplane
 biplanes
 bipod
+bipolar
 bipolarities
 bipolarization
 bipolarizations
@@ -13448,6 +13452,7 @@ bourree
 bourride
 bourrides
 bourse
+bourses
 boursins
 bourtree
 bouse
@@ -18043,6 +18048,7 @@ celebrants
 celebrate
 celebrated
 celebrates
+celebrating
 celebrations
 celebrator
 celebrators
@@ -29205,6 +29211,7 @@ decibels
 decidabilities
 decidability
 decide
+decided
 decidedly
 decidedness
 decidednesses
@@ -33154,6 +33161,7 @@ disentanglement
 disentangles
 disentangling
 disenthral
+disenthrall
 disenthralled
 disenthralling
 disenthrals
@@ -44224,6 +44232,7 @@ flavone
 flavones
 flavoprotein
 flavor
+flavorers
 flavorful
 flavoring
 flavorings
@@ -50937,6 +50946,7 @@ grouched
 grouches
 grouchiest
 grouchily
+grouchiness
 grouchinesses
 grouching
 grouchy
@@ -51687,6 +51697,7 @@ habdalahs
 haberdasheries
 haberdashers
 haberdashery
+habergeon
 habergeons
 habile
 habiliment
@@ -52930,6 +52941,7 @@ headbands
 headboard
 headcheese
 headcheeses
+headcount
 headcounts
 headdresses
 headed
@@ -53755,6 +53767,7 @@ hereabout
 hereabouts
 hereafter
 hereat
+hereaways
 hereby
 heredes
 hereditament
@@ -56051,6 +56064,7 @@ hydrogenating
 hydrogenation
 hydrogenations
 hydrogenous
+hydrographers
 hydrographic
 hydrographies
 hydroids
@@ -56899,6 +56913,7 @@ iffy
 ifs
 igg
 igged
+igging
 iggs
 iglus
 ignatia
@@ -58585,6 +58600,7 @@ indigenously
 indigenousness
 indigens
 indigent
+indigents
 indigested
 indigestible
 indigestibles
@@ -61235,6 +61251,7 @@ ironed
 ironer
 ironers
 irones
+ironhanded
 ironhearted
 ironical
 ironically
@@ -69681,6 +69698,7 @@ martyring
 martyrization
 martyrizations
 martyrize
+martyrized
 martyrizes
 martyrizing
 martyrly
@@ -72806,6 +72824,7 @@ mise
 miseases
 miseaten
 miseats
+misedit
 misedited
 misedits
 miseducate
@@ -75838,6 +75857,7 @@ myrmecologist
 myrmecologists
 myrmecology
 myrmecophile
+myrmecophiles
 myrmidones
 myrmidons
 myrobalan
@@ -76699,6 +76719,7 @@ neonatologies
 neonatologist
 neonatology
 neoned
+neons
 neoorthodoxy
 neophilia
 neophiliac
@@ -78924,6 +78945,7 @@ notching
 note
 notebook
 notebooks
+notecard
 notecards
 notecase
 noted
@@ -82418,6 +82440,7 @@ outwrit
 outwrites
 outwriting
 outwritten
+outwrote
 outyelled
 outyells
 outyelp
@@ -84326,6 +84349,7 @@ pallidly
 pallidness
 pallidnesses
 pallier
+palling
 palliums
 pallor
 palls
@@ -84754,6 +84778,7 @@ paradigm
 paradigmatic
 parading
 paradisaical
+paradisal
 paradise
 paradises
 paradisiac
@@ -108038,6 +108063,7 @@ shamefulnesses
 shameless
 shamelessly
 shamelessness
+shamelessnesses
 shames
 shaming
 shamisen
@@ -109817,6 +109843,7 @@ sizeably
 sized
 sizer
 sizers
+sizes
 sizier
 siziest
 siziness
@@ -113612,6 +113639,7 @@ spritz
 spritzed
 spritzer
 spritzers
+spritzes
 sprockets
 sprout
 sprouted
@@ -120951,6 +120979,7 @@ territories
 territory
 territs
 terror
+terrorise
 terrorised
 terrorises
 terrorism
@@ -121083,6 +121112,7 @@ tetragram
 tetragrammaton
 tetragrammatons
 tetragrams
+tetrahedra
 tetrahedral
 tetrahedrite
 tetrahedrites
@@ -122320,6 +122350,7 @@ tinctorially
 tincts
 tincture
 tinctures
+tincturing
 tinder
 tinderbox
 tine
@@ -123208,6 +123239,7 @@ totaling
 totalisator
 totalisators
 totalise
+totalises
 totalising
 totalism
 totalisms
@@ -124052,6 +124084,7 @@ traumatising
 traumatism
 traumatisms
 traumatization
+traumatizations
 traumatize
 traumatizing
 travail
@@ -131094,6 +131127,7 @@ vexed
 vexedly
 vexers
 vexes
+vexil
 vexillar
 vexillaries
 vexillary
@@ -131299,6 +131333,7 @@ vigias
 vigil
 vigilances
 vigilant
+vigilante
 vigilantism
 vigilantisms
 vigintillions
