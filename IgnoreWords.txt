@@ -7471,6 +7471,7 @@ autogeny
 autogiro
 autogiros
 autograft
+autografted
 autografting
 autografts
 autograph
@@ -9203,6 +9204,7 @@ bashfulnesses
 bashings
 bashlyk
 basically
+basicities
 basicity
 basics
 basidial
@@ -18034,6 +18036,7 @@ cavort
 cavorted
 cavorters
 cavorting
+cavorts
 cavy
 caw
 cawing
@@ -18578,6 +18581,7 @@ chainfalls
 chaining
 chainmen
 chains
+chainsaw
 chainsawed
 chainsawing
 chainsaws
@@ -27654,6 +27658,7 @@ cuprous
 cuprum
 cuprums
 cupula
+cupular
 cupulate
 cupule
 cupules
@@ -29243,6 +29248,7 @@ decares
 decasualization
 decasyllabic
 decasyllabics
+decasyllable
 decasyllables
 decathlete
 decathletes
@@ -33338,6 +33344,7 @@ disfurnishments
 disgorge
 disgorged
 disgorges
+disgrace
 disgraced
 disgraceful
 disgracefully
@@ -35562,6 +35569,7 @@ drop
 dropforge
 dropforged
 dropforges
+dropforging
 dropheads
 dropkicker
 dropkickers
@@ -44537,6 +44545,7 @@ flexibly
 flexile
 flexional
 flexions
+flexitime
 flexitimes
 flexographies
 flextime
@@ -44757,6 +44766,7 @@ floppinesses
 floppy
 flora
 florae
+florally
 florals
 floras
 floreated
@@ -46955,6 +46965,7 @@ fuji
 fujis
 fulcra
 fulcrums
+fulfil
 fulfilled
 fulfiller
 fulfillers
@@ -47030,6 +47041,7 @@ fumbler
 fumbles
 fumbling
 fumblingly
+fumeless
 fumes
 fumet
 fumette
@@ -47530,6 +47542,7 @@ galenic
 galenical
 galenicals
 galenite
+galeres
 galette
 galettes
 galilee
@@ -50872,6 +50885,7 @@ grenadier
 grenadines
 grew
 grewsomer
+grewsomest
 grey
 greyed
 greyer
@@ -57790,6 +57804,7 @@ impertinence
 impertinences
 impertinencies
 impertinency
+impertinent
 impertinently
 imperturbable
 imperturbably
@@ -64108,6 +64123,7 @@ knacker
 knackered
 knackeries
 knacking
+knackwurst
 knackwursts
 knap
 knappers
@@ -65792,6 +65808,7 @@ led
 lederhosen
 ledger
 ledges
+ledgier
 ledgiest
 ledgy
 leeboard
@@ -66204,6 +66221,7 @@ leukocytosis
 leukodystrophy
 leukoma
 leukomas
+leukon
 leukopenia
 leukopenias
 leukoplakia
@@ -75953,6 +75971,7 @@ mutilator
 mutilators
 mutine
 mutined
+mutineered
 mutineering
 mutineers
 mutines
@@ -76696,6 +76715,7 @@ near
 nearer
 nearest
 nearing
+nearlier
 nearly
 nearness
 nearnesses
@@ -85123,6 +85143,7 @@ paradropping
 paradrops
 parae
 paraesthesias
+paraffin
 paraffined
 paraffinic
 paraffining
@@ -87362,6 +87383,7 @@ perseveres
 persevering
 persiflages
 persimmon
+persimmons
 persist
 persisted
 persistence
@@ -88944,6 +88966,7 @@ pinioned
 pinioning
 pinions
 pinite
+pinites
 pinitol
 pink
 pinked
@@ -90307,6 +90330,7 @@ poisha
 poising
 poisoned
 poisoner
+poisoners
 poisoning
 poisonous
 poisonously
@@ -92892,6 +92916,7 @@ pressman
 pressmark
 pressmarks
 pressors
+pressrooms
 pressrun
 pressruns
 pressure
@@ -102010,6 +102035,7 @@ retinted
 retinting
 retints
 retinue
+retinued
 retinues
 retinular
 retinulas
@@ -102121,6 +102147,7 @@ retrieve
 retrieved
 retriever
 retrievers
+retrieves
 retrieving
 retrimmed
 retrimming
@@ -111498,6 +111525,7 @@ snappishness
 snappishnesses
 snappy
 snapshooter
+snapshooters
 snapshot
 snapshots
 snapshotted
@@ -118529,6 +118557,7 @@ surprint
 surprinted
 surprinting
 surprints
+surprisal
 surprisals
 surprise
 surprised
@@ -124171,6 +124200,7 @@ tranquilize
 tranquilizer
 tranquilizes
 tranquilizing
+tranquillest
 tranquillities
 tranquillity
 tranquillize
@@ -125904,6 +125934,7 @@ tunneling
 tunnelings
 tunnelled
 tunneller
+tunnellers
 tunnellike
 tunning
 tunny
@@ -128330,6 +128361,7 @@ unhealthier
 unhealthiest
 unhealthily
 unhealthiness
+unhealthinesses
 unheard
 unheated
 unhedged
@@ -132004,6 +132036,7 @@ virginalist
 virginalists
 virginally
 virginals
+virginity
 virgulate
 virgule
 virgules
@@ -133532,6 +133565,7 @@ wearish
 wearisomenesses
 wearproof
 wears
+weary
 wearying
 weasand
 weasands
@@ -135641,6 +135675,7 @@ xanthan
 xanthate
 xanthates
 xanthein
+xanthenes
 xanthic
 xanthine
 xanthines
