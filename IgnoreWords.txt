@@ -2418,6 +2418,7 @@ ale
 aleatoric
 aleatory
 alec
+alecithal
 alecs
 alee
 alef
@@ -4348,6 +4349,7 @@ antennas
 antennular
 antennule
 antennules
+antenuptial
 antepast
 antependium
 antependiums
@@ -7624,6 +7626,7 @@ avens
 aventail
 aventails
 aventurin
+aventurine
 aventurines
 aventurins
 aver
@@ -9107,6 +9110,7 @@ barytes
 barytic
 baryton
 barytone
+barytones
 barytons
 basal
 basally
@@ -12059,6 +12063,7 @@ blent
 blepharoplast
 blepharoplasts
 blepharoplasty
+blepharospasm
 blepharospasms
 blesbok
 blesboks
@@ -19453,6 +19458,7 @@ chinchy
 chined
 chines
 chining
+chinkapin
 chinkapins
 chinked
 chinkiest
@@ -20776,6 +20782,7 @@ clayish
 claylike
 claymore
 claymores
+claypan
 claypans
 claystone
 claystones
@@ -25059,6 +25066,7 @@ cornily
 corninesses
 corning
 cornmeal
+cornmeals
 cornpone
 cornpones
 cornrow
@@ -27008,6 +27016,7 @@ crueler
 cruelest
 crueller
 cruellest
+cruelness
 cruelnesses
 cruelty
 cruet
@@ -28979,6 +28988,7 @@ debt
 debtless
 debtor
 debtors
+debts
 debug
 debugged
 debugs
@@ -35813,6 +35823,7 @@ duopoly
 duopsonies
 duopsony
 duotone
+duotones
 dup
 dupable
 dupe
@@ -38268,6 +38279,7 @@ engross
 engrossed
 engrosser
 engrossers
+engrosses
 engrossing
 engrossingly
 engrossment
@@ -40915,6 +40927,7 @@ exoticists
 exoticness
 exoticnesses
 exotism
+exotisms
 exotoxic
 exotoxin
 exotropias
@@ -43460,6 +43473,7 @@ fimbriation
 fin
 finagle
 finagled
+finagler
 finaglers
 finagles
 finagling
@@ -47693,8 +47707,10 @@ garotte
 garotted
 garotters
 garottes
+garotting
 garpikes
 garred
+garret
 garreted
 garring
 garrison
@@ -51066,6 +51082,7 @@ gruntled
 gruntles
 gruntling
 grutch
+grutched
 grutching
 grutten
 gruyere
@@ -52137,6 +52154,7 @@ handclaps
 handclasp
 handcraft
 handcrafting
+handcrafts
 handcraftsmen
 handcuffed
 handcuffing
@@ -52432,6 +52450,7 @@ hardheads
 hardier
 hardiest
 hardihoods
+hardiment
 hardinesses
 hardinggrass
 hardinggrasses
@@ -54120,6 +54139,7 @@ hila
 hilar
 hilarious
 hilariously
+hilariousness
 hilarities
 hilarity
 hilding
@@ -55358,6 +55378,7 @@ hour
 hourglasses
 houris
 hourlies
+hourlong
 hourly
 hours
 house
@@ -57813,6 +57834,7 @@ inactivation
 inactivations
 inactive
 inactively
+inactivities
 inactivity
 inadequacies
 inadequacy
@@ -65331,6 +65353,7 @@ leapfrogging
 leapfrogs
 leaps
 learier
+leariest
 learnable
 learned
 learnedly
@@ -66817,6 +66840,7 @@ litter
 litterateurs
 litterbug
 litterbugs
+littered
 litterer
 litterers
 littering
@@ -79361,6 +79385,7 @@ objectives
 objectivism
 objectivisms
 objectivistic
+objectivities
 objectless
 objectlessness
 objector
@@ -99860,6 +99885,7 @@ renaming
 renascences
 renascent
 renationalize
+renationalized
 renationalizes
 renationalizing
 renaturation
@@ -101305,6 +101331,7 @@ resystematize
 resystematized
 resystematizes
 ret
+retables
 retack
 retacked
 retacking
@@ -101887,6 +101914,7 @@ revitalises
 revitalising
 revitalization
 revitalizations
+revitalize
 revitalized
 revitalizes
 revitalizing
@@ -107258,6 +107286,7 @@ separation
 separationist
 separationists
 separations
+separatism
 separatisms
 separatists
 separative
@@ -110033,6 +110062,7 @@ skyway
 skyways
 skywrite
 skywriter
+skywriters
 skywrites
 skywriting
 skywritings
@@ -111332,6 +111362,7 @@ sobriety
 sobriquet
 sobriquets
 sobs
+socage
 socagers
 socages
 socas
@@ -118468,6 +118499,7 @@ swordfishes
 swordlike
 swordman
 swordplayer
+swords
 swordsman
 swordsmanship
 swordsmanships
@@ -122691,6 +122723,7 @@ tonga
 tongas
 tonged
 tonger
+tongers
 tonging
 tongman
 tongmen
@@ -127604,6 +127637,7 @@ ungotten
 ungovernable
 ungowned
 ungraceful
+ungracefully
 ungracious
 ungraciously
 ungraciousness
@@ -130132,6 +130166,7 @@ vaporises
 vaporishnesses
 vaporising
 vaporizable
+vaporizations
 vaporize
 vaporized
 vaporizer
