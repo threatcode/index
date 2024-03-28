@@ -5429,6 +5429,7 @@ applauders
 applauding
 applauds
 applause
+applauses
 applecart
 applecarts
 applejack
@@ -6329,6 +6330,7 @@ artistries
 artistry
 artless
 artlessly
+artlessness
 artlessnesses
 arts
 artsiest
@@ -8176,6 +8178,7 @@ backlisting
 backlists
 backloaded
 backloads
+backlog
 backlogging
 backlogs
 backmost
@@ -11564,6 +11567,7 @@ bipartitely
 bipartition
 bipartitions
 biparty
+biped
 bipedal
 bipedalism
 bipedalisms
@@ -20034,6 +20038,7 @@ chromodynamics
 chromogen
 chromogenic
 chromogens
+chromomere
 chromomeric
 chromonema
 chromonemata
@@ -20696,6 +20701,7 @@ clamshells
 clamworm
 clamworms
 clan
+clandestine
 clandestinely
 clandestinities
 clandestinity
@@ -35148,6 +35154,7 @@ drabber
 drabbest
 drabbet
 drabbets
+drabbing
 drabble
 drabbled
 drabbles
@@ -41737,6 +41744,7 @@ eyebar
 eyebeam
 eyebeams
 eyeblack
+eyeblacks
 eyeblink
 eyeblinks
 eyebolt
@@ -45885,6 +45893,7 @@ formula
 formulae
 formulaic
 formularies
+formularization
 formularized
 formularizes
 formularizing
@@ -49366,6 +49375,7 @@ glimpsing
 glims
 glint
 glinted
+glintier
 glintiest
 glinting
 glints
@@ -51760,6 +51770,7 @@ gymnasts
 gymnosophist
 gymnosophists
 gymnosperm
+gymnospermous
 gymnospermy
 gyms
 gynaeceum
@@ -56325,6 +56336,7 @@ hydros
 hydroseres
 hydroski
 hydroskis
+hydrosol
 hydrosolic
 hydrosols
 hydrospace
@@ -58582,6 +58594,7 @@ incubator
 incubators
 incubi
 incubuses
+incudal
 incudate
 incudes
 inculcated
@@ -59909,6 +59922,7 @@ insipidly
 insisted
 insistences
 insistencies
+insistency
 insistent
 insistently
 insisters
@@ -61710,6 +61724,7 @@ isochrone
 isochrones
 isochronism
 isochronous
+isochronously
 isoclinal
 isoclinals
 isocline
@@ -62727,6 +62742,7 @@ jorams
 jordan
 jorum
 jorums
+joseph
 josephs
 josh
 joshed
@@ -66367,6 +66383,7 @@ libertine
 libertines
 libertinism
 liberty
+libidinal
 libidinally
 libidinous
 libidinously
@@ -72441,6 +72458,7 @@ milpa
 milt
 milted
 milter
+miltier
 miltiest
 milting
 milts
@@ -78371,6 +78389,7 @@ nonfeudal
 nonfiction
 nonfilterable
 nonfinite
+nonfissionable
 nonflammability
 nonflowering
 nonfluencies
@@ -80402,6 +80421,7 @@ oilman
 oilmen
 oilpaper
 oilpapers
+oilproof
 oils
 oilseed
 oilseeds
@@ -81518,6 +81538,7 @@ osteoma
 osteomalacia
 osteomas
 osteomata
+osteomyelitises
 osteopath
 osteopathic
 osteopathically
@@ -82213,6 +82234,7 @@ outpatients
 outpeople
 outpeoples
 outpeopling
+outperformed
 outperforming
 outperforms
 outpitched
@@ -84657,6 +84679,7 @@ palmisters
 palmistry
 palmists
 palmitate
+palmitates
 palmitin
 palmitins
 palmtops
@@ -96965,6 +96988,7 @@ rappelled
 rappelling
 rappels
 rappen
+rapper
 rapping
 rappini
 rapporteurs
@@ -99072,6 +99096,7 @@ refired
 refires
 refiring
 refit
+refits
 refitted
 refixed
 refixes
@@ -101038,6 +101063,7 @@ requirers
 requires
 requiring
 requisite
+requisiteness
 requisitenesses
 requisites
 requisitioned
@@ -101696,6 +101722,7 @@ restriction
 restrictionism
 restrictionisms
 restrictionists
+restrictions
 restrictive
 restrictively
 restrictiveness
@@ -107093,6 +107120,7 @@ seditiousnesses
 seduce
 seduced
 seducement
+seducements
 seducer
 seduces
 seducible
@@ -111826,6 +111854,7 @@ soapier
 soapily
 soapiness
 soaping
+soapless
 soaps
 soapstones
 soapsudsy
@@ -118650,6 +118679,7 @@ swagers
 swages
 swagged
 swagger
+swaggered
 swaggerer
 swaggering
 swaggie
@@ -119832,6 +119862,7 @@ taliped
 talipeds
 talipes
 talipot
+talipots
 talisman
 talismanic
 talismanically
@@ -120338,6 +120369,7 @@ tattles
 tattletale
 tattletales
 tattling
+tattoo
 tattooed
 tattooing
 tattooist
@@ -122795,6 +122827,7 @@ tinsels
 tinsmith
 tinsmithing
 tinsmithings
+tinsmiths
 tinstones
 tint
 tinted
@@ -127391,6 +127424,7 @@ uncrippled
 uncritical
 uncropped
 uncross
+uncrossable
 uncrossed
 uncrosses
 uncrossing
@@ -134765,6 +134799,7 @@ wirings
 wirra
 wis
 wisdom
+wisdoms
 wise
 wiseacre
 wiseacres
