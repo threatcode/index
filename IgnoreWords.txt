@@ -2427,6 +2427,7 @@ alderwomen
 aldicarb
 aldicarbs
 aldol
+aldolase
 aldolases
 aldolization
 aldolizations
@@ -3088,6 +3089,7 @@ amalgamator
 amalgamators
 amalgams
 amanitas
+amanitin
 amantadine
 amantadines
 amanuensis
@@ -3619,6 +3621,7 @@ anadem
 anadems
 anadiploses
 anadiplosis
+anadromous
 anaemia
 anaemias
 anaemic
@@ -9177,6 +9180,7 @@ barstools
 bartend
 bartended
 bartending
+bartends
 barter
 bartered
 barterer
@@ -9975,6 +9979,7 @@ beestings
 beeswax
 beeswaxes
 beet
+beetled
 beetler
 beetlers
 beetles
@@ -16244,6 +16249,7 @@ calumniating
 calumniation
 calumniations
 calumniator
+calumniators
 calumnies
 calumnious
 calumniously
@@ -19262,6 +19268,7 @@ cheers
 cheese
 cheeseburger
 cheeseburgers
+cheesecake
 cheesecakes
 cheesecloth
 cheesecloths
@@ -22099,6 +22106,7 @@ cofunction
 cofunctions
 cog
 cogencies
+cogency
 cogeneration
 cogenerations
 cogenerators
@@ -27303,6 +27311,7 @@ crumbum
 crumbums
 crumhorns
 crummie
+crummier
 crummiest
 crumminess
 crumminesses
@@ -28653,6 +28662,7 @@ damascening
 damask
 damasked
 damaskeened
+damaskeens
 damasking
 damasks
 dame
@@ -28949,6 +28959,7 @@ dauntlessly
 dauntlessnesses
 daunts
 dauphin
+dauphine
 dauphines
 dauphins
 daut
@@ -29292,6 +29303,7 @@ debyes
 decadal
 decade
 decadencies
+decadency
 decadent
 decadently
 decadents
@@ -37269,6 +37281,7 @@ elderly
 eldership
 elderships
 eldest
+eldress
 eldresses
 eldrich
 eldritch
@@ -37651,6 +37664,7 @@ embarrassedly
 embarrasses
 embarrassing
 embarrassingly
+embarrassment
 embarrassments
 embarring
 embars
@@ -43487,6 +43501,7 @@ fewness
 fewnesses
 fewtrils
 fey
+feyer
 feyest
 feyness
 feynesses
@@ -44014,6 +44029,7 @@ fioratura
 fioraturae
 fiord
 fiords
+fioriture
 fipples
 fique
 fiques
@@ -55514,6 +55530,7 @@ hookahs
 hookas
 hooked
 hookey
+hookeys
 hookier
 hooking
 hookless
@@ -55612,6 +55629,7 @@ hordeins
 hordeolum
 hordes
 hording
+horehound
 horehounds
 horizon
 horizons
@@ -60974,6 +60992,7 @@ interrelatedly
 interrelates
 interrelating
 interrelations
+interreligious
 interrenal
 interrex
 interrobang
@@ -67486,6 +67505,7 @@ littles
 littlest
 littlish
 littoral
+littorals
 litu
 liturgic
 liturgical
@@ -79344,6 +79364,7 @@ nonuples
 nonurban
 nonusable
 nonuse
+nonusers
 nonuses
 nonusing
 nonutilitarian
@@ -81620,6 +81641,7 @@ oriflammes
 origami
 origamis
 origans
+origanums
 origin
 original
 originalities
@@ -82228,6 +82250,7 @@ outdebate
 outdebated
 outdebating
 outdeliver
+outdelivering
 outdesign
 outdesigned
 outdesigning
@@ -84262,6 +84285,7 @@ overtalked
 overtalking
 overtalks
 overtame
+overtart
 overtask
 overtasked
 overtasking
@@ -84765,6 +84789,7 @@ paediatric
 paediatrics
 paedogeneses
 paedogenesis
+paedogenic
 paedomorphic
 paedomorphism
 paedomorphisms
@@ -90699,6 +90724,7 @@ poisonwood
 poisonwoods
 poitrel
 poitrels
+pokable
 poke
 poked
 poker
@@ -96627,6 +96653,7 @@ quinolone
 quinolones
 quinone
 quinones
+quinonoid
 quinquennia
 quinquennial
 quinquennially
@@ -96742,6 +96769,7 @@ quoin
 quoined
 quoining
 quoins
+quoit
 quoits
 quokka
 quokkas
@@ -101078,6 +101106,7 @@ repay
 repayable
 repayment
 repayments
+repealable
 repealed
 repealer
 repealers
@@ -102185,6 +102214,7 @@ restrictive
 restrictively
 restrictiveness
 restrike
+restrikes
 restriking
 restring
 restringing
@@ -106645,6 +106675,7 @@ scintillates
 scintillation
 scintillations
 scintillator
+scintillators
 scintillometer
 sciolism
 sciolisms
@@ -113446,6 +113477,7 @@ sparkier
 sparkily
 sparkish
 sparkle
+sparkled
 sparkler
 sparklers
 sparkles
@@ -116480,6 +116512,7 @@ strews
 stria
 striae
 striated
+striates
 striating
 striation
 striations
@@ -124202,6 +124235,7 @@ tote
 toted
 totem
 totemic
+totemism
 totemist
 totemistic
 totemists
@@ -126051,6 +126085,7 @@ trugs
 truing
 truism
 truistic
+trull
 truly
 trumeau
 trump
