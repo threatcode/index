@@ -4213,6 +4213,7 @@ annona
 annonas
 annotate
 annotated
+annotates
 annotating
 annotation
 annotations
@@ -8595,6 +8596,7 @@ ballad
 ballade
 balladeer
 ballades
+balladic
 balladist
 balladries
 ballads
@@ -12975,6 +12977,7 @@ bombastically
 bombasts
 bombazine
 bombazines
+bombe
 bomber
 bombers
 bombes
@@ -16854,6 +16857,7 @@ capitol
 capitols
 capitula
 capitular
+capitularies
 capitulate
 capitulating
 capitulation
@@ -24003,6 +24007,7 @@ congratulated
 congratulating
 congratulation
 congratulations
+congratulator
 congratulatory
 congregant
 congregate
@@ -28093,6 +28098,7 @@ cussing
 cusso
 cussos
 cusswords
+custard
 custards
 custardy
 custodial
@@ -29002,6 +29008,7 @@ daubing
 daubries
 daubry
 daubs
+dauby
 daughters
 daundered
 daundering
@@ -32040,6 +32047,7 @@ dhotis
 dhourra
 dhurnas
 dhurrie
+dhurries
 dhuti
 dhutis
 diabase
@@ -32086,6 +32094,7 @@ diagnose
 diagnoseable
 diagnosed
 diagnoses
+diagnosing
 diagnostic
 diagnostically
 diagnostician
@@ -32884,6 +32893,7 @@ diorites
 dioritic
 diosgenin
 diosgenins
+dioxan
 dioxane
 dioxanes
 dioxid
@@ -36615,6 +36625,7 @@ earstone
 earstones
 earth
 earthborn
+earthbound
 earthed
 earthen
 earthenware
@@ -52709,6 +52720,7 @@ hammadas
 hammal
 hammals
 hammam
+hammams
 hammer
 hammered
 hammerer
@@ -53409,6 +53421,7 @@ hawkeys
 hawkie
 hawkish
 hawkishly
+hawkishness
 hawkmoth
 hawkmoths
 hawknose
@@ -58739,6 +58752,7 @@ incision
 incisions
 incisive
 incisively
+incisiveness
 incisivenesses
 incisor
 incisors
@@ -60756,6 +60770,7 @@ intercrops
 intercrosses
 intercultural
 interculturally
+interculture
 intercurrent
 intercut
 intercuts
@@ -68423,6 +68438,7 @@ lovage
 lovages
 lovastatin
 lovastatins
+lovat
 lovats
 loveable
 loveably
@@ -70992,6 +71008,7 @@ meatball
 meatballs
 meatheads
 meatier
+meatily
 meatiness
 meatless
 meatloaf
@@ -73729,6 +73746,7 @@ misinforming
 misinforms
 misinter
 misinterpret
+misinterprets
 misinterred
 misinterring
 misinters
@@ -73963,6 +73981,7 @@ misrelate
 misrelates
 misrelating
 misrelies
+misrely
 misrelying
 misremember
 misremembered
@@ -74044,6 +74063,7 @@ missounds
 missout
 missouts
 misspace
+misspaced
 misspaces
 misspeak
 misspeaking
@@ -77666,6 +77686,7 @@ netted
 netter
 netters
 nettiest
+netting
 nettings
 nettle
 nettled
@@ -80004,6 +80025,7 @@ nulling
 nullipara
 nulliparae
 nulliparas
+nulliparous
 nullipore
 nullipores
 nullities
@@ -92895,6 +92917,7 @@ preformed
 preforming
 preforms
 preformulate
+preformulated
 preformulates
 preformulating
 prefrank
@@ -93047,6 +93070,7 @@ premaritally
 premarketed
 premarkets
 premarriage
+premature
 prematurely
 prematureness
 prematurenesses
@@ -94191,6 +94215,7 @@ prodigally
 prodigals
 prodigies
 prodigious
+prodigiously
 prodigiousness
 prodigy
 prodromal
@@ -94956,6 +94981,7 @@ protested
 protesters
 protesting
 protestor
+protestors
 protests
 proteus
 prothalamion
@@ -95520,6 +95546,7 @@ publishes
 publishing
 publishings
 pubs
+puce
 pucka
 pucker
 puckered
@@ -98818,6 +98845,7 @@ recompose
 recomposed
 recomposes
 recomposing
+recomposition
 recompositions
 recomputation
 recomputations
@@ -101136,6 +101164,7 @@ renovate
 renovated
 renovates
 renovating
+renovation
 renovations
 renovative
 renovator
@@ -101367,6 +101396,7 @@ repigment
 repigmented
 repigmenting
 repigments
+repin
 repine
 repined
 repiner
@@ -106062,6 +106092,7 @@ satanic
 satanical
 satanically
 satanism
+satanisms
 satanist
 satanists
 satara
@@ -120908,6 +120939,7 @@ tapalo
 tapalos
 tapas
 tape
+tapeable
 taped
 tapeless
 tapelike
@@ -122985,6 +123017,7 @@ threadworm
 threadworms
 threap
 threaped
+threaper
 threapers
 threaping
 threaps
@@ -134512,6 +134545,7 @@ weighs
 weight
 weighted
 weighter
+weighters
 weightiest
 weightinesses
 weighting
@@ -136904,6 +136938,7 @@ yodled
 yodles
 yods
 yoga
+yogas
 yogee
 yogees
 yogh
