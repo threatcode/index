@@ -4812,6 +4812,7 @@ antipesticide
 antiphlogistic
 antiphon
 antiphonal
+antiphonally
 antiphonals
 antiphonaries
 antiphonary
@@ -6340,6 +6341,7 @@ articulated
 articulately
 articulates
 articulating
+articulation
 articulations
 articulative
 articulator
@@ -9101,6 +9103,7 @@ barometry
 baron
 baronage
 baronages
+baroness
 baronet
 baronetages
 baronetcies
@@ -14561,6 +14564,7 @@ bronchospasms
 bronchospastic
 bronchus
 bronco
+broncobuster
 broncobusters
 broncos
 broncs
@@ -17015,6 +17019,7 @@ carafe
 carafes
 caragana
 caraganas
+carageen
 carageens
 carambola
 carambolas
@@ -19649,6 +19654,7 @@ chimb
 chimbley
 chimbleys
 chime
+chimed
 chimer
 chimere
 chimeres
@@ -19700,6 +19706,7 @@ chinky
 chinless
 chinned
 chinning
+chinoiserie
 chinoiseries
 chinone
 chinones
@@ -21912,6 +21919,7 @@ cocreates
 cocreating
 cocreator
 cocreators
+cocultivate
 cocultivated
 cocultivates
 cocultivating
@@ -26358,6 +26366,7 @@ cowls
 cowlstaff
 cowlstaffs
 cowlstaves
+cowman
 cowmen
 coworker
 coworkers
@@ -31024,6 +31033,7 @@ depigmentations
 depilate
 depilated
 depilating
+depilation
 depilations
 depilator
 depilatories
@@ -36236,6 +36246,7 @@ dungeoned
 dungeoning
 dungeons
 dunghill
+dunghills
 dungier
 dungiest
 dungs
@@ -36798,6 +36809,7 @@ echinococci
 echinococcoses
 echinococcosis
 echinococcus
+echinoderm
 echinoid
 echinoids
 echinus
@@ -40471,6 +40483,7 @@ etiology
 etiquette
 etiquettes
 etna
+etoile
 etouffees
 etude
 etudes
@@ -48624,6 +48637,7 @@ geek
 geekdom
 geeked
 geekier
+geekiest
 geekiness
 geekinesses
 geeks
@@ -52425,6 +52439,7 @@ haggises
 haggishly
 haggle
 haggler
+haggles
 haggling
 hagiarchies
 hagiographer
@@ -54558,6 +54573,7 @@ heterophylly
 heteroploid
 heteroploidies
 heteropterous
+heteroses
 heterosexual
 heterosexuality
 heterosexually
@@ -63038,6 +63054,7 @@ jiver
 jivers
 jives
 jivey
+jivier
 jivy
 jnana
 jnanas
@@ -68864,6 +68881,7 @@ lustration
 lustrations
 lustre
 lustred
+lustres
 lustring
 lustrous
 lustrousness
@@ -70081,6 +70099,7 @@ mantle
 mantlet
 mantling
 mantlings
+mantra
 mantram
 mantrams
 mantrap
@@ -72745,6 +72764,7 @@ migrates
 migration
 migrator
 migrators
+migratory
 migs
 mihrab
 mihrabs
@@ -76221,6 +76241,7 @@ munificences
 munificent
 munificently
 muniment
+muniments
 munis
 munition
 munnion
@@ -81245,6 +81266,7 @@ oneriest
 onerously
 onerousness
 onerousnesses
+ones
 oneself
 onetime
 ongoing
@@ -81486,6 +81508,7 @@ opiated
 opiates
 opine
 opined
+opines
 opining
 opinion
 opinionated
@@ -85622,6 +85645,7 @@ papilla
 papillary
 papilloma
 papillomas
+papillomata
 papillomatous
 papillomavirus
 papillon
@@ -91122,6 +91146,7 @@ polltakers
 pollutant
 pollutants
 pollute
+polluted
 polluter
 pollutes
 polluting
@@ -94479,6 +94504,7 @@ prologist
 prologize
 prologized
 prologizes
+prologizing
 prologue
 prologued
 prologues
@@ -99877,6 +99903,7 @@ refluence
 refluences
 refluent
 refluxed
+refluxing
 refly
 reflying
 refocus
@@ -100998,6 +101025,7 @@ remodelled
 remodelling
 remodels
 remodify
+remoisten
 remoistened
 remoistening
 remoistens
@@ -101195,6 +101223,7 @@ rentability
 rentable
 rental
 rente
+rented
 renter
 renters
 rentier
@@ -109427,6 +109456,7 @@ sheepskins
 sheepwalk
 sheepwalks
 sheer
+sheerer
 sheerest
 sheering
 sheerlegs
@@ -116338,6 +116368,7 @@ stoned
 stonefish
 stonefishes
 stoneflies
+stonemason
 stonemasons
 stoner
 stoners
@@ -122662,6 +122693,7 @@ thereunto
 thereupon
 therewith
 theriac
+theriaca
 theriacas
 theriacs
 therian
@@ -124617,6 +124649,7 @@ tourneys
 tourniquet
 tourniquets
 tours
+toused
 tousing
 tousled
 tousles
@@ -126147,6 +126180,7 @@ trod
 trodden
 trode
 troffer
+troffers
 troglodytes
 troglodytic
 trogon
@@ -135225,6 +135259,7 @@ whorehouse
 whorehouses
 whoremaster
 whoremasters
+whoremongers
 whoresons
 whorish
 whorls
