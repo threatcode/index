@@ -1133,6 +1133,7 @@ adjuster
 adjusters
 adjusting
 adjustive
+adjustment
 adjustments
 adjustor
 adjustors
@@ -2322,6 +2323,7 @@ alanyls
 alar
 alarm
 alarmable
+alarmed
 alarmedly
 alarming
 alarmingly
@@ -3046,6 +3048,7 @@ alumina
 aluminate
 aluminates
 alumine
+alumines
 aluminic
 aluminium
 aluminiums
@@ -5351,6 +5354,7 @@ apostrophized
 apothecary
 apothece
 apotheces
+apothecial
 apothegmatic
 apothems
 apotheoses
@@ -6923,6 +6927,7 @@ ataraxics
 ataraxies
 atavic
 atavism
+atavistic
 atavistically
 atavists
 ataxic
@@ -10771,6 +10776,7 @@ betaines
 betaken
 betakes
 betaking
+betatron
 betatrons
 betatter
 betattering
@@ -12259,6 +12265,7 @@ blisteringly
 blisters
 blistery
 blite
+blites
 blithe
 blitheful
 blithely
@@ -18558,6 +18565,7 @@ ceruse
 ceruses
 cerusite
 cerusites
+cerussite
 cerussites
 cervelas
 cervelases
@@ -20930,6 +20938,7 @@ clasts
 clathrate
 clathrates
 clatter
+clattered
 clatterer
 clatterers
 clatteringly
@@ -33081,6 +33090,7 @@ disarming
 disarmingly
 disarms
 disarrange
+disarranged
 disarrangement
 disarranges
 disarray
@@ -34280,6 +34290,7 @@ ditsier
 ditsiest
 ditsiness
 ditsinesses
+ditsy
 dittanies
 dittany
 ditties
@@ -39557,6 +39568,7 @@ epitomic
 epitomised
 epitomises
 epitomize
+epitomized
 epitomizes
 epitomizing
 epitope
@@ -39940,6 +39952,7 @@ erythrocytes
 erythrocytic
 erythroid
 erythromycin
+erythromycins
 erythron
 erythrons
 erythropoieses
@@ -44041,6 +44054,7 @@ firearmed
 firearms
 fireback
 firebacks
+fireball
 fireballer
 fireballers
 fireballs
@@ -44507,6 +44521,7 @@ flashovers
 flashtubes
 flashy
 flasket
+flaskets
 flat
 flatbeds
 flatboat
@@ -57118,6 +57133,7 @@ hysterectomies
 hysterectomized
 hysterectomy
 hystereses
+hysteretic
 hysteria
 hysterias
 hysteric
@@ -66552,6 +66568,7 @@ levigation
 levigations
 levin
 levins
+levirate
 levis
 levitate
 levitated
@@ -67487,6 +67504,7 @@ lits
 litten
 litter
 litterateurs
+litterbag
 litterbug
 litterbugs
 littered
@@ -77113,6 +77131,7 @@ necklike
 neckline
 necklines
 neckpiece
+necks
 necktie
 necrological
 necrologies
@@ -81625,6 +81644,7 @@ orientate
 orientates
 orientating
 orientation
+orientational
 orientationally
 orientations
 orienteer
@@ -90726,6 +90746,7 @@ poitrel
 poitrels
 pokable
 poke
+pokeberry
 poked
 poker
 pokeroot
@@ -92418,6 +92439,7 @@ precomputer
 precomputing
 preconceives
 preconceiving
+preconceptions
 preconcerted
 preconcerting
 preconciliar
@@ -95499,6 +95521,7 @@ pulsating
 pulsations
 pulsative
 pulsator
+pulsators
 pulsatory
 pulse
 pulsed
@@ -95764,6 +95787,7 @@ purline
 purlines
 purling
 purlings
+purlins
 purloin
 purloiners
 purloins
@@ -97744,6 +97768,7 @@ ravishers
 ravishes
 ravishing
 ravishments
+rawer
 rawest
 rawhide
 rawhides
@@ -97869,6 +97894,7 @@ readded
 readdict
 readdicted
 readdicts
+readding
 readdressed
 readdresses
 readdressing
@@ -104385,6 +104411,7 @@ rowdiest
 rowdiness
 rowdy
 rowdyish
+rowdyism
 rowed
 roweled
 roweling
@@ -104716,6 +104743,7 @@ runtish
 runtishly
 runts
 runty
+runway
 runways
 rupee
 rupees
@@ -115012,6 +115040,7 @@ stallholder
 stallions
 stalls
 stalwart
+stalwartly
 stalwartness
 stalwarts
 stalworths
@@ -116761,6 +116790,7 @@ stubs
 stucco
 stuccoed
 stuccoers
+stuccoing
 stuccos
 stuccoworks
 stuck
@@ -119002,6 +119032,7 @@ surges
 surgical
 surgically
 surgy
+suricates
 surimi
 surimis
 surjection
@@ -122850,6 +122881,7 @@ thrombokinases
 thrombolytic
 thromboplastic
 thromboplastin
+thrombose
 thrombosed
 thromboses
 thrombosing
@@ -128200,6 +128232,7 @@ undergird
 undergirded
 undergirding
 undergirt
+underglaze
 undergod
 undergods
 undergoer
@@ -129038,6 +129071,7 @@ unintegrated
 unintellectual
 unintelligent
 unintelligibly
+unintended
 unintentional
 unintentionally
 uninterest
@@ -130558,6 +130592,7 @@ upperclassmen
 uppercut
 uppercuts
 upperpart
+uppers
 uppile
 uppiles
 uppiling
