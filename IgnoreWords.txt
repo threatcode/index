@@ -744,6 +744,7 @@ acquitter
 acquitters
 acquitting
 acrasia
+acrasias
 acrasin
 acre
 acreage
@@ -12986,6 +12987,7 @@ boneset
 bonesetters
 boney
 boneyard
+boneyards
 boneyer
 bonfires
 bonged
@@ -14231,6 +14233,7 @@ brigandine
 brigandines
 brigands
 brigantine
+brighten
 brightened
 brightener
 brighteners
@@ -15349,6 +15352,7 @@ busbars
 busboy
 busby
 bused
+buses
 busgirl
 bushbuck
 bushbucks
@@ -15970,6 +15974,7 @@ calamining
 calamite
 calamitous
 calamitously
+calamity
 calamondin
 calamondins
 calamus
@@ -18750,6 +18755,7 @@ chancel
 chancelleries
 chancellery
 chancellor
+chancellors
 chancellorships
 chancellory
 chancels
@@ -25419,6 +25425,7 @@ corrugating
 corrugation
 corrugations
 corrupt
+corrupted
 corrupter
 corrupters
 corruptest
@@ -27534,6 +27541,7 @@ culices
 culicine
 culinarians
 culinarily
+culinary
 cull
 cullay
 cullays
@@ -38442,6 +38450,7 @@ enfeeblements
 enfeebles
 enfeoff
 enfeoffed
+enfeoffing
 enfeoffment
 enfeoffments
 enfeoffs
@@ -40949,6 +40958,7 @@ executant
 executants
 execute
 executer
+executers
 executes
 executing
 execution
@@ -43989,6 +43999,7 @@ fireship
 fireships
 fireside
 firesides
+firestone
 firestorm
 firestorms
 firethorn
@@ -45659,6 +45670,7 @@ forefinger
 forefront
 forefronts
 foregather
+foregathered
 foregathering
 foregathers
 forego
@@ -50658,6 +50670,7 @@ grapiness
 grapinesses
 graplin
 graplines
+graplins
 grapnel
 grapnels
 grappa
@@ -53535,6 +53548,7 @@ hedges
 hedgier
 hedgiest
 hedgingly
+hedgy
 hedonics
 hedonism
 hedonisms
@@ -54546,6 +54560,7 @@ hilly
 hilted
 hiltless
 hilts
+hilus
 him
 himatia
 himation
@@ -55606,6 +55621,7 @@ horseshoer
 horseshoers
 horsetail
 horsetails
+horseweed
 horseweeds
 horsewhipped
 horsewhipper
@@ -61491,6 +61507,7 @@ iodizes
 iodizing
 iodoform
 iodometries
+iodometry
 iodophor
 iodophors
 iodopsin
@@ -63512,6 +63529,7 @@ keeks
 keelage
 keelboat
 keeled
+keelhale
 keelhaled
 keelhales
 keelhaling
@@ -65017,6 +65035,7 @@ laminating
 lamination
 laminations
 laminator
+laminators
 laminin
 laminins
 laminitis
@@ -73364,6 +73383,7 @@ mishear
 misheard
 mishearing
 mishears
+mishegoss
 mishit
 mishits
 mishitting
@@ -76389,6 +76409,7 @@ nab
 nabber
 nabbers
 nabbing
+nabe
 nabes
 nabis
 nabob
@@ -82068,6 +82089,7 @@ outdress
 outdressed
 outdressing
 outdrew
+outdrink
 outdrinks
 outdrive
 outdriven
@@ -92638,6 +92660,7 @@ premaxillas
 premeal
 premeasure
 premeasured
+premeasures
 premeasuring
 premed
 premedieval
@@ -94983,6 +95006,7 @@ psychopaths
 psychopathy
 psychophysical
 psychos
+psychoses
 psychosexual
 psychosexually
 psychosis
@@ -101400,6 +101424,7 @@ rescheduled
 rescheduling
 reschool
 reschooled
+reschooling
 rescind
 rescinded
 rescinder
@@ -106071,6 +106096,7 @@ scarious
 scarlatina
 scarlatinal
 scarlatinas
+scarless
 scarlet
 scarped
 scarper
@@ -107820,6 +107846,7 @@ semitrailers
 semitranslucent
 semitropic
 semitropical
+semitrucks
 semiurban
 semivowel
 semivowels
@@ -118943,6 +118970,7 @@ swales
 swallow
 swallowable
 swallowed
+swallower
 swallowers
 swallowing
 swallows
@@ -120300,6 +120328,7 @@ tango
 tangoed
 tangoing
 tangolike
+tangram
 tangrams
 tangs
 tanist
@@ -127133,6 +127162,7 @@ unaroused
 unarrayed
 unartful
 unarticulated
+unashamed
 unashamedly
 unasked
 unassailability
@@ -127304,6 +127334,7 @@ unbraiding
 unbraids
 unbrake
 unbraked
+unbrakes
 unbreakable
 unbreathable
 unbred
@@ -130663,6 +130694,7 @@ utiliser
 utilisers
 utilises
 utilising
+utilitarian
 utilitarianisms
 utilitarians
 utilities
@@ -132521,6 +132553,7 @@ vocable
 vocables
 vocably
 vocabs
+vocabular
 vocabularies
 vocabulary
 vocal
@@ -133870,6 +133903,7 @@ weediest
 weedily
 weediness
 weedinesses
+weeding
 weedless
 weedlike
 weedy
@@ -134266,6 +134300,7 @@ whetstones
 whetter
 whetters
 whew
+whews
 whey
 wheyey
 wheyfaced
