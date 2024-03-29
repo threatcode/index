@@ -3639,6 +3639,7 @@ anagogy
 anagram
 anagrammatic
 anagrammatical
+anagrammatize
 anagrammatized
 anagrammatizes
 anagrammatizing
@@ -10053,6 +10054,7 @@ begirded
 begirding
 begirdle
 begirdled
+begirdling
 begirds
 begirt
 beglad
@@ -12615,6 +12617,7 @@ blypes
 bo
 boa
 boar
+board
 boarder
 boarders
 boarding
@@ -15987,6 +15990,7 @@ calamined
 calamines
 calamining
 calamite
+calamites
 calamitous
 calamitously
 calamity
@@ -18774,6 +18778,7 @@ chancelleries
 chancellery
 chancellor
 chancellors
+chancellorship
 chancellorships
 chancellory
 chancels
@@ -23015,6 +23020,7 @@ compactly
 compactness
 compactnesses
 compactors
+compadre
 compadres
 companied
 companion
@@ -26727,6 +26733,7 @@ crenations
 crenature
 crenatures
 crenel
+crenelate
 crenelates
 crenelating
 crenellated
@@ -29864,6 +29871,7 @@ defenses
 defensibilities
 defensibility
 defensibly
+defensing
 defensive
 defensively
 defensivenesses
@@ -30467,6 +30475,7 @@ demerged
 demerger
 demergered
 demergering
+demerges
 demerit
 demerited
 demeriting
@@ -30766,6 +30775,7 @@ dentalium
 dentaliums
 dentally
 dentals
+dentately
 dentation
 dentations
 dented
@@ -32141,6 +32151,7 @@ diastereomeric
 diastereomers
 diasters
 diastolic
+diastral
 diastrophic
 diastrophically
 diastrophisms
@@ -36471,6 +36482,7 @@ earmuff
 earmuffs
 earn
 earned
+earner
 earnest
 earnestnesses
 earnests
@@ -38824,6 +38836,7 @@ ensigncies
 ensigncy
 ensilage
 ensilaged
+ensilaging
 ensiled
 ensiles
 enskied
@@ -42229,6 +42242,7 @@ fakeers
 faker
 fakeries
 fakers
+fakery
 fakes
 fakey
 faking
@@ -56375,6 +56389,7 @@ hybridizes
 hybridoma
 hybridomas
 hybrids
+hybris
 hybristic
 hydathode
 hydathodes
@@ -61799,6 +61814,7 @@ irresolutely
 irresoluteness
 irresolution
 irresolutions
+irresolvable
 irresponsible
 irresponsibles
 irresponsibly
@@ -62956,6 +62972,7 @@ joss
 josses
 jostle
 jostled
+jostler
 jostlers
 jostling
 jot
@@ -64788,6 +64805,7 @@ labyrinthine
 labyrinthodont
 labyrinthodonts
 labyrinths
+laccolith
 laccolithic
 laced
 laceless
@@ -69844,6 +69862,7 @@ manumits
 manumitted
 manumitting
 manure
+manurer
 manurers
 manures
 manurial
@@ -77431,6 +77450,7 @@ network
 networked
 networker
 networkings
+networks
 neuk
 neuks
 neum
@@ -78816,6 +78836,7 @@ nonkoshers
 nonlabor
 nonlandowner
 nonlandowners
+nonlanguage
 nonlawyer
 nonlawyers
 nonleafy
@@ -85540,6 +85561,7 @@ paraquats
 paraquet
 paraquets
 pararosaniline
+pararosanilines
 paras
 parasailed
 parasailing
@@ -87694,6 +87716,7 @@ personifying
 personnel
 persons
 perspectival
+perspective
 perspectively
 perspicacious
 perspicacities
@@ -90268,6 +90291,7 @@ plucker
 pluckers
 pluckier
 pluckiest
+pluckily
 pluckinesses
 plucky
 plugged
@@ -93660,6 +93684,7 @@ priorly
 priors
 priory
 prise
+prised
 prisere
 priseres
 prising
@@ -95752,6 +95777,7 @@ pusillanimously
 pusleys
 puslike
 puss
+pusses
 pussiest
 pussley
 pussleys
@@ -99756,6 +99782,7 @@ regisseurs
 registerable
 registering
 registers
+registrable
 registrant
 registrants
 registrar
@@ -101686,6 +101713,7 @@ reshoeing
 reshoes
 reshone
 reshoot
+reshooting
 reshoots
 reshot
 reshow
@@ -114120,6 +114148,7 @@ spoilsport
 spoilsports
 spoke
 spoked
+spokes
 spokeshave
 spokeshaves
 spokesman
@@ -115448,6 +115477,7 @@ stereospecific
 stereotaxic
 stereotaxically
 stereotyped
+stereotyper
 stereotypers
 stereotypes
 stereotypic
@@ -121071,6 +121101,7 @@ teenier
 teeniest
 teens
 teensier
+teensy
 teentsier
 teentsiest
 teentsy
@@ -121610,6 +121641,7 @@ tepidnesses
 tepoy
 tepoys
 tequila
+terabyte
 terabytes
 teraflop
 teraflops
@@ -127690,6 +127722,7 @@ unclips
 uncloak
 uncloaked
 uncloaks
+unclogged
 unclogging
 unclogs
 unclose
@@ -127965,6 +127998,7 @@ undercard
 undercharge
 undercharged
 undercharges
+undercharging
 underclad
 underclass
 underclasses
@@ -135650,6 +135684,7 @@ woolliest
 woollily
 woolliness
 woollinesses
+woolly
 woolman
 woolmen
 woolpack
