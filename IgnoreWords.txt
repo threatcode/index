@@ -1107,6 +1107,7 @@ adjoin
 adjoined
 adjoining
 adjoint
+adjoints
 adjourn
 adjourned
 adjournment
@@ -2074,6 +2075,7 @@ agrestic
 agria
 agrias
 agribusiness
+agribusinesses
 agribusinessman
 agribusinessmen
 agrichemical
@@ -5388,6 +5390,7 @@ apothece
 apotheces
 apothecial
 apothegmatic
+apothem
 apothems
 apotheoses
 apotheosis
@@ -12610,6 +12613,7 @@ bluely
 blueness
 bluenesses
 bluenose
+bluenosed
 bluenoses
 bluepoint
 bluepoints
@@ -18179,6 +18183,7 @@ cavalier
 cavaliered
 cavaliering
 cavalierism
+cavalierisms
 cavalierly
 cavaliers
 cavallas
@@ -20720,6 +20725,7 @@ circumvallated
 circumvallates
 circumvallating
 circumvallation
+circumvent
 circumvented
 circumventing
 circumvents
@@ -22337,6 +22343,7 @@ coherently
 coherer
 coherers
 coheres
+cohesion
 cohesive
 cohesively
 cohesiveness
@@ -37760,6 +37767,7 @@ eliminator
 eliminators
 elint
 elision
+elites
 elitism
 elitisms
 elitist
@@ -44981,6 +44989,7 @@ fledgling
 flee
 fleece
 fleeced
+fleecer
 fleecers
 fleeces
 fleech
@@ -46178,6 +46187,7 @@ foreparts
 forepassed
 forepast
 forepaw
+forepeaks
 foreplay
 foreplays
 forequarter
@@ -47603,6 +47613,7 @@ functionalities
 functionality
 functionally
 functionaries
+functionary
 functioning
 functionless
 functions
@@ -50512,6 +50523,7 @@ goldsmiths
 goldstone
 goldstones
 goldtone
+goldurn
 goldurns
 golem
 golems
@@ -51066,6 +51078,7 @@ granitewares
 granitic
 granitoid
 granivorous
+grannie
 granny
 granodiorite
 granodiorites
@@ -54795,6 +54808,7 @@ heteromorphic
 heteromorphisms
 heteronomies
 heteronomous
+heteronomy
 heteronyms
 heterophyllies
 heterophyllous
@@ -69563,6 +69577,7 @@ madrigal
 madrigalian
 madrigalist
 madrigals
+madrilenes
 madrona
 madronas
 madrone
@@ -71141,6 +71156,7 @@ maunderers
 maunders
 maundies
 maunds
+maundy
 mausolea
 mausolean
 mausoleum
@@ -77676,6 +77692,7 @@ necrotomies
 nectar
 nectarean
 nectarial
+nectaried
 nectaries
 nectarine
 nectarines
@@ -79310,6 +79327,7 @@ nonforfeitable
 nonforfeiture
 nonforfeitures
 nonformal
+nonfossil
 nonfreezing
 nonfrivolous
 nonfrozen
@@ -80415,6 +80433,7 @@ numbles
 numbness
 numbnesses
 numbs
+numbskulls
 numchuck
 numchucks
 numen
@@ -93704,6 +93723,7 @@ preprogram
 preprograming
 preprogrammed
 preps
+prepsychedelic
 prepuberal
 prepubertal
 prepuberties
@@ -93952,6 +93972,7 @@ pressurised
 pressurization
 pressurizations
 pressurize
+pressurized
 pressurizers
 pressurizing
 pressworks
@@ -99986,6 +100007,7 @@ reelection
 reelections
 reeler
 reelers
+reelevate
 reelevated
 reelevates
 reelevating
@@ -104104,6 +104126,7 @@ riflery
 rifles
 rifling
 riflings
+riflip
 riflips
 rifs
 rift
@@ -110093,6 +110116,7 @@ shilled
 shillelagh
 shillelaghs
 shillelah
+shillelahs
 shilling
 shills
 shilpit
@@ -110548,6 +110572,7 @@ showroom
 showrooms
 shows
 showstopper
+showstoppers
 showtime
 showtimes
 showy
@@ -111269,6 +111294,7 @@ sinfulnesses
 sing
 singable
 singalong
+singeing
 singer
 singers
 singes
@@ -122099,6 +122125,7 @@ telamones
 telangiectases
 telangiectasia
 telangiectasias
+telangiectasis
 telco
 telcos
 tele
@@ -123355,6 +123382,7 @@ thills
 thimble
 thimbleberries
 thimbleberry
+thimblefuls
 thimblerig
 thimblerigged
 thimblerigger
@@ -126474,6 +126502,7 @@ trinketer
 trinketers
 trinketries
 trinkets
+trinocular
 trinodal
 trinomial
 trinomials
@@ -128065,6 +128094,7 @@ ultraroyalists
 ultras
 ultrasecret
 ultrasensitive
+ultraserious
 ultrasharp
 ultrashort
 ultrasimple
@@ -129437,6 +129467,7 @@ unenlarged
 unenlightened
 unenlightening
 unenriched
+unensured
 unentered
 unenterprising
 unenthusiastic
@@ -130110,6 +130141,7 @@ unlimited
 unlimitedly
 unlined
 unlink
+unlinked
 unlinking
 unlinks
 unlisted
@@ -135083,6 +135115,7 @@ wedelns
 wedels
 wedge
 wedged
+wedgelike
 wedges
 wedgie
 wedgier
@@ -135979,6 +136012,7 @@ wilderments
 wilderness
 wildernesses
 wilders
+wildest
 wildfires
 wildflower
 wildflowers
@@ -137943,6 +137977,7 @@ zippy
 zips
 ziram
 zircaloy
+zircaloys
 zircon
 zirconia
 zirconias
