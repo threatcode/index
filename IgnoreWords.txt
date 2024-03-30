@@ -888,6 +888,7 @@ actor
 actorish
 actors
 actress
+actresses
 actressy
 acts
 actualities
@@ -1739,6 +1740,7 @@ afghani
 afghanis
 aficionada
 aficionadas
+aficionado
 aficionados
 afield
 afire
@@ -11024,6 +11026,7 @@ bibbers
 bibbery
 bibbing
 bibbs
+bibcock
 bibcocks
 bibelot
 bibelots
@@ -14448,6 +14451,7 @@ bristletails
 bristlier
 bristliest
 bristling
+bristly
 bristol
 brit
 britannia
@@ -24559,6 +24563,7 @@ consummates
 consummating
 consummation
 consummative
+consummator
 consummators
 consummatory
 consumption
@@ -27902,6 +27907,7 @@ cumulonimbuses
 cumulous
 cumulus
 cunctation
+cunctator
 cunctators
 cundum
 cundums
@@ -32590,6 +32596,7 @@ didjeridus
 dido
 didoes
 didymium
+didynamies
 didynamy
 die
 dieback
@@ -42230,6 +42237,7 @@ eyebrights
 eyebrow
 eyecup
 eyecups
+eyed
 eyednesses
 eyedropper
 eyedroppers
@@ -51235,6 +51243,7 @@ gravies
 gravimeter
 gravimeters
 gravimetric
+gravimetrically
 gravimetries
 graving
 gravitases
@@ -52803,6 +52812,7 @@ halftimes
 halftones
 halftrack
 halftracks
+halfway
 halibuts
 halid
 halide
@@ -57402,6 +57412,7 @@ hypokalemia
 hypokalemias
 hypokalemic
 hypolimnia
+hypomagnesemia
 hypomanic
 hypomanics
 hypomorph
@@ -60967,6 +60978,7 @@ intercalations
 intercampus
 intercaste
 intercede
+interceder
 interceders
 intercedes
 interceding
@@ -61199,6 +61211,7 @@ interleukin
 interlibrary
 interlinear
 interlinearly
+interlinears
 interlineation
 interlineations
 interlined
@@ -78159,6 +78172,7 @@ neutralized
 neutralizer
 neutralizers
 neutralizes
+neutralizing
 neutrally
 neutralnesses
 neutrals
@@ -79704,6 +79718,7 @@ nonrioter
 nonrioting
 nonrival
 nonrivals
+nonrotating
 nonroutine
 nonroyal
 nonrubber
@@ -80970,6 +80985,7 @@ oceanaut
 oceanauts
 oceanfront
 oceanfronts
+oceangoing
 oceanic
 oceanographers
 oceanographical
@@ -81522,6 +81538,7 @@ omophagia
 omophagias
 omophagic
 omophagy
+omphali
 omphalos
 omphaloskepses
 omphaloskepsis
@@ -87594,6 +87611,7 @@ penholders
 penial
 penicil
 penicillamine
+penicillamines
 penicillin
 penicillinase
 penicillinases
@@ -89857,6 +89875,7 @@ pinchpenny
 pincushion
 pincushions
 pinder
+pinders
 pindling
 pine
 pinealectomies
@@ -91610,6 +91629,7 @@ polymerase
 polymerases
 polymeric
 polymerisation
+polymerisations
 polymerise
 polymerised
 polymerises
@@ -94260,6 +94280,7 @@ primero
 primeros
 primers
 primi
+primine
 primines
 priming
 primings
@@ -95253,6 +95274,7 @@ prospector
 prospectors
 prospects
 prospectuses
+prospered
 prospering
 prosperities
 prosperity
@@ -100674,6 +100696,7 @@ rehinge
 rehinged
 rehinges
 rehire
+rehired
 rehiring
 rehoboam
 rehoboams
@@ -100682,6 +100705,7 @@ rehospitalized
 rehospitalizes
 rehospitalizing
 rehouse
+rehouses
 rehousing
 rehumanize
 rehumanizes
@@ -102589,6 +102613,7 @@ resoaking
 resoaks
 resocialization
 resocialize
+resocialized
 resocializes
 resodding
 resoften
@@ -108490,6 +108515,7 @@ selamliks
 selcouth
 seldomly
 select
+selectable
 selected
 selectee
 selecting
@@ -110126,6 +110152,7 @@ shippable
 shipped
 shippen
 shippens
+shipping
 shippings
 shippon
 shippons
@@ -114165,6 +114192,7 @@ sparest
 sparge
 sparger
 spargers
+sparges
 sparging
 sparid
 sparids
@@ -118258,6 +118286,7 @@ subsecretaries
 subsecretary
 subsect
 subsection
+subsections
 subsectors
 subsegment
 subsegments
@@ -121606,6 +121635,7 @@ taskbars
 tasked
 taskmaster
 taskmistress
+tasks
 taskwork
 taskworks
 tass
@@ -126197,6 +126227,7 @@ trichotomous
 trichotomously
 trichotomy
 trichroic
+trichromat
 trichromatism
 trichromatisms
 trichromats
@@ -128759,6 +128790,7 @@ uncontrolled
 unconventional
 unconverted
 unconvinced
+unconvincing
 unconvincingly
 unconvoyed
 uncooked
@@ -131004,6 +131036,7 @@ untrapped
 untraveled
 untreaded
 untreading
+untreads
 untreated
 untried
 untrim
@@ -133876,6 +133909,7 @@ vomitive
 vomitory
 vomitos
 vomitous
+vomits
 vomitus
 voodoo
 voodooed
@@ -134182,6 +134216,7 @@ wailsome
 wain
 wains
 wainscot
+wainscoted
 wainscoting
 wainscotted
 wainscotting
