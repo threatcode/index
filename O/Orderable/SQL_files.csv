@@ -3,3 +3,9 @@ usr/pgsql-9.6/lib/test/regress/sql/amutils.sql · schabrolles ... - Gemfury,http
 db-sample-schemas/order_entry/oe_cre.sql at main - GitHub,https://github.com/oracle/db-sample-schemas/blob/master/order_entry/oe_cre.sql
 hr_test_110622.sql - OpenMRS Wiki,https://wiki.openmrs.org/download/attachments/15139153/hr_test_110622.sql
 pupeapi.sprintit.fi/referenssisanakirja.sql,http://pupeapi.sprintit.fi/referenssisanakirja.sql
+https://docs.oracle.com/cd/E82085_01/16021/Enterpr...,https://docs.oracle.com/cd/E82085_01/16021/EnterpriseIntegration/Bulk/BDI/bdi-interface-data-contract/ddl/ItemHdr_Fnd_Item_Hdr_In.sql
+postgres/src/test/regress/sql/amutils.sql at master - GitHub,https://github.com/postgres/postgres/blob/master/src/test/regress/sql/amutils.sql
+db-sample-schemas/order_entry/oe_cre.sql at main - GitHub,https://github.com/oracle/db-sample-schemas/blob/master/order_entry/oe_cre.sql
+db.sql - AStA / Raumbuchungstool - GitLab,https://git.uni-paderborn.de/asta/raumbuchung/-/blob/d93d6418d1a7d352dc26196e8202dc90c7b9744b/sql/db.sql
+https://raw.githubusercontent.com/Mesa/oxid/master...,https://raw.githubusercontent.com/Mesa/oxid/master/data/oxid_v4.10.5.sql
+http://pupeapi.sprintit.fi/referenssisanakirja.sql,http://pupeapi.sprintit.fi/referenssisanakirja.sql
