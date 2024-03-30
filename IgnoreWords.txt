@@ -2845,6 +2845,7 @@ allot
 allotetraploid
 allotetraploids
 allotetraploidy
+allotment
 allotments
 allotropes
 allotropy
@@ -2978,6 +2979,7 @@ alpenglow
 alpenhorn
 alpenhorns
 alpenstock
+alpenstocks
 alpha
 alphabet
 alphabeted
@@ -4437,6 +4439,7 @@ antepast
 antependium
 antependiums
 antepenult
+antepenultimate
 anteriorly
 antes
 antetype
@@ -4832,6 +4835,7 @@ antiparallel
 antiparasitic
 antiparticle
 antiparticles
+antiparty
 antipasti
 antipasto
 antipastos
@@ -8980,6 +8984,7 @@ barbasco
 barbascos
 barbate
 barbe
+barbecue
 barbecued
 barbecuer
 barbecuers
@@ -9371,6 +9376,7 @@ basque
 basques
 bass
 basses
+basset
 basseted
 basseting
 bassets
@@ -20582,6 +20588,7 @@ cigar
 cigaret
 cigarets
 cigarettes
+cigarillo
 cigarillos
 cigarlike
 ciguatera
@@ -21161,6 +21168,7 @@ clawback
 clawbacks
 clawed
 clawer
+clawhammer
 clawing
 clawlike
 claws
@@ -26167,6 +26175,7 @@ counteroffer
 counteroffers
 counterorder
 counterordered
+counterordering
 counterorders
 counterpane
 counterpanes
@@ -33622,6 +33631,7 @@ discovers
 discovert
 discovery
 discredit
+discreditable
 discredited
 discrediting
 discredits
@@ -33887,6 +33897,7 @@ disinfesting
 disinflation
 disinflationary
 disinflations
+disinform
 disinformation
 disinformed
 disinforming
@@ -33983,6 +33994,7 @@ dismantled
 dismantles
 dismantling
 dismasted
+dismasting
 dismasts
 dismaying
 dismayingly
@@ -34483,6 +34495,7 @@ distraught
 distress
 distressed
 distresses
+distressfully
 distressfulness
 distressing
 distressingly
@@ -45506,6 +45519,7 @@ fluidized
 fluidizer
 fluidizes
 fluidizing
+fluidlike
 fluidly
 fluidness
 fluidnesses
@@ -46941,6 +46955,7 @@ freaking
 freakish
 freakishly
 freakishness
+freakishnesses
 freakouts
 freckled
 freckles
@@ -65920,6 +65935,7 @@ languishments
 languor
 languorous
 languorously
+langur
 laniard
 laniards
 laniary
@@ -67970,6 +67986,7 @@ litchis
 lite
 liteness
 liter
+literacies
 literacy
 literalism
 literalisms
@@ -70605,6 +70622,7 @@ marbled
 marbleise
 marbleised
 marbleising
+marbleize
 marbleized
 marbleizes
 marbleizing
@@ -73222,6 +73240,7 @@ mildly
 mildness
 mildnesses
 milds
+mile
 mileage
 mileposts
 miler
@@ -80326,6 +80345,7 @@ notochord
 notochordal
 notorious
 notornis
+notturni
 notturno
 notum
 notwithstanding
@@ -81933,6 +81953,7 @@ operations
 operative
 operatively
 operativeness
+operativenesses
 operatives
 operatorless
 operators
@@ -82665,6 +82686,7 @@ ostracism
 ostracisms
 ostracize
 ostracized
+ostracizes
 ostracod
 ostracode
 ostracoderm
@@ -85098,6 +85120,7 @@ overwarm
 overwarmed
 overwary
 overwatch
+overwatched
 overwatching
 overwatering
 overwaters
@@ -85821,6 +85844,7 @@ paloverde
 paloverdes
 palpabilities
 palpability
+palpable
 palpably
 palpal
 palpated
@@ -86477,6 +86501,7 @@ pardons
 pards
 pardy
 pare
+parecisms
 pared
 paregoric
 pareiras
@@ -93203,6 +93228,7 @@ preconquest
 preconscious
 preconsciouses
 precontact
+preconvention
 preconvictions
 precook
 precooks
@@ -100423,6 +100449,7 @@ reflated
 reflates
 reflating
 reflationary
+reflations
 reflect
 reflectance
 reflectances
@@ -104110,6 +104137,7 @@ ribband
 ribbands
 ribbed
 ribber
+ribbers
 ribbiest
 ribbing
 ribbings
@@ -107349,6 +107377,7 @@ schematic
 schematism
 schematisms
 schematization
+schematizations
 schematize
 schematized
 schematizes
@@ -107840,6 +107869,7 @@ scratch
 scratchboard
 scratchboards
 scratched
+scratcher
 scratches
 scratchier
 scratchily
@@ -108573,6 +108603,7 @@ seeds
 seedsman
 seedsmen
 seedstock
+seedstocks
 seedtime
 seedtimes
 seedy
@@ -120413,6 +120444,7 @@ sweetings
 sweetishly
 sweetly
 sweetmeat
+sweetness
 sweets
 sweetshops
 sweetsop
@@ -122573,6 +122605,7 @@ temporizers
 temporizes
 tempt
 temptation
+tempted
 tempter
 tempters
 tempting
@@ -125337,6 +125370,7 @@ tougheners
 toughening
 toughens
 tougher
+toughest
 toughies
 toughing
 toughish
@@ -134257,6 +134291,7 @@ voyageurs
 voyeurism
 voyeurisms
 voyeuristic
+voyeuristically
 voyeurs
 vroom
 vroomed
