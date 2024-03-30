@@ -2759,6 +2759,7 @@ alleyway
 alleyways
 allheal
 allheals
+alliable
 alliaceous
 alliance
 alliances
@@ -4652,6 +4653,7 @@ antifascist
 antifascists
 antifashion
 antifashionable
+antifashions
 antifat
 antifatigue
 antifemale
@@ -9475,6 +9477,7 @@ battener
 batteners
 battening
 batter
+battered
 batterer
 batterers
 batterie
@@ -14089,6 +14092,7 @@ brazen
 brazened
 brazening
 brazenly
+brazennesses
 brazers
 brazes
 brazier
@@ -20665,6 +20669,7 @@ circumcision
 circumflex
 circumflexes
 circumfluent
+circumfuse
 circumfused
 circumfuses
 circumfusing
@@ -24422,6 +24427,7 @@ consortia
 consortium
 consortiums
 conspecific
+conspecifics
 conspectus
 conspectuses
 conspicuity
@@ -31357,6 +31363,7 @@ derision
 derisions
 derisive
 derisively
+derisiveness
 derisivenesses
 derisory
 derivate
@@ -33498,6 +33505,7 @@ discordances
 discordancies
 discordancy
 discordantly
+discorded
 discords
 discos
 discotheque
@@ -35029,6 +35037,7 @@ don
 dona
 donas
 donate
+donated
 donates
 donating
 donative
@@ -42008,6 +42017,7 @@ extirpating
 extirpation
 extirpations
 extirpator
+extirpators
 extol
 extoll
 extolled
@@ -46330,6 +46340,7 @@ formable
 formably
 formal
 formalin
+formalins
 formalise
 formalised
 formalism
@@ -51657,6 +51668,7 @@ grossing
 grossly
 grossnesses
 grossular
+grossularite
 grossularites
 grossulars
 grosze
@@ -51688,6 +51700,7 @@ groundbursts
 grounded
 grounder
 grounders
+groundfish
 groundfishes
 groundhog
 groundhogs
@@ -56519,6 +56532,7 @@ humblingly
 humbly
 humbug
 humbugged
+humbugger
 humbuggeries
 humbuggers
 humbugging
@@ -58323,6 +58337,7 @@ impediments
 impellent
 impellents
 impeller
+impellers
 impelling
 impellor
 impellors
@@ -61241,6 +61256,7 @@ intermittently
 intermitter
 intermitters
 intermitting
+intermix
 intermixed
 intermixes
 intermixing
@@ -62385,6 +62401,7 @@ isoclines
 isoclinic
 isoclinics
 isocracy
+isocyanate
 isocyanates
 isocyclic
 isodose
@@ -67822,6 +67839,7 @@ literation
 literations
 literator
 literators
+literature
 literatures
 liters
 litharge
@@ -76520,6 +76538,7 @@ murdering
 murderous
 murderousnesses
 murders
+mured
 murein
 mureins
 mures
@@ -80160,6 +80179,7 @@ novelistically
 novelists
 novelization
 novelizations
+novelized
 novelizer
 novelizers
 novelizes
@@ -82523,6 +82543,7 @@ ourang
 ourangs
 ourari
 ouraris
+ourebi
 ourebis
 ourie
 ours
@@ -84966,6 +84987,7 @@ ovular
 ovulary
 ovulated
 ovulates
+ovulating
 ovulation
 ovulations
 ovulatory
@@ -93306,6 +93328,7 @@ prehuman
 prehumans
 preignitions
 preimplantation
+preimpose
 preimposed
 preimposing
 preinduction
@@ -93449,6 +93472,7 @@ premisses
 premix
 premodification
 premodified
+premodifies
 premodifying
 premoistened
 premoistens
@@ -94030,6 +94054,7 @@ prevalued
 prevalues
 prevaluing
 prevaricate
+prevaricates
 prevaricating
 prevarication
 prevarications
@@ -94921,6 +94946,7 @@ pronunciations
 proof
 proofed
 proofer
+proofers
 proofing
 proofread
 proofreader
@@ -108104,6 +108130,7 @@ secondo
 seconds
 secpar
 secpars
+secret
 secretagogue
 secretarial
 secretariat
@@ -113998,6 +114025,7 @@ spacings
 spacious
 spaciously
 spaciousness
+spaciousnesses
 spackle
 spackled
 spackles
@@ -116772,6 +116800,7 @@ stoop
 stoopball
 stoopballs
 stooped
+stoopers
 stoops
 stop
 stopcock
@@ -121269,6 +121298,7 @@ tangerines
 tangibilities
 tangible
 tangibleness
+tangiblenesses
 tangibly
 tangier
 tangiest
@@ -123427,6 +123457,7 @@ thrashed
 thrasher
 thrashers
 thrashing
+thrashings
 thrasonical
 thrasonically
 thrave
@@ -125473,6 +125504,7 @@ transect
 transected
 transection
 transections
+transects
 transept
 transeptal
 transepts
@@ -129595,6 +129627,7 @@ unhang
 unhanged
 unhanging
 unhangs
+unhappier
 unhappiness
 unhappinesses
 unhappy
@@ -132099,6 +132132,7 @@ vaporetti
 vaporetto
 vaporettos
 vaporific
+vaporings
 vaporised
 vaporises
 vaporishnesses
@@ -136332,6 +136366,7 @@ wizened
 wizening
 wizes
 wizzen
+wo
 woad
 woaded
 woadwax
