@@ -6912,6 +6912,7 @@ asymptomatic
 asymptote
 asymptotes
 asymptotic
+asymptotically
 asynapses
 asynchronies
 asynchronism
@@ -12089,6 +12090,7 @@ blastie
 blastier
 blastiest
 blastings
+blastment
 blastments
 blastocoel
 blastocoele
@@ -12325,6 +12327,7 @@ bloc
 block
 blockable
 blockaded
+blockader
 blockaders
 blockades
 blockading
@@ -13304,6 +13307,7 @@ boraxes
 borborygmi
 bordeaux
 bordel
+bordello
 bordels
 border
 bordereau
@@ -14625,6 +14629,7 @@ brosy
 broth
 brothel
 brothels
+brother
 brothered
 brotherhood
 brotherhoods
@@ -15146,6 +15151,7 @@ bumptiousness
 bumptiousnesses
 bumpy
 bums
+bun
 buna
 bunas
 bunch
@@ -17898,6 +17904,7 @@ categorize
 categorized
 categorizes
 category
+catena
 catenae
 catenaries
 catenary
@@ -18980,6 +18987,7 @@ chaqueta
 chaquetas
 char
 charabanc
+charabancs
 characid
 characids
 characin
@@ -23211,6 +23219,7 @@ compensative
 compensator
 compensatory
 compere
+compered
 comperes
 compete
 competed
@@ -25234,6 +25243,7 @@ cordelles
 cordelling
 corder
 corders
+cordgrass
 cordgrasses
 cordial
 cordiality
@@ -28638,6 +28648,7 @@ dag
 dagga
 daggas
 dagger
+daggered
 daggering
 daggerlike
 daggers
@@ -46732,6 +46743,7 @@ freelancers
 freelances
 freelancing
 freeloaded
+freeloader
 freeloading
 freeloads
 freeman
@@ -49051,6 +49063,7 @@ gerenuks
 gerfalcon
 geriatric
 geriatrician
+geriatricians
 germ
 germander
 germanders
@@ -50560,6 +50573,7 @@ gos
 gosh
 goshawk
 goshawks
+gosling
 goslings
 gospel
 gospeler
@@ -51169,6 +51183,7 @@ green
 greenback
 greenbacker
 greenbackers
+greenbacks
 greenbelt
 greenbrier
 greenbriers
@@ -51911,6 +51926,7 @@ guitar
 guitarfish
 guitarfishes
 guitarist
+guitars
 gulag
 gulags
 gular
@@ -55365,6 +55381,7 @@ homeliest
 homelike
 homeliness
 homelinesses
+homemade
 homemaker
 homemakers
 homemaking
@@ -58074,6 +58091,7 @@ impalers
 impales
 impaling
 impalpability
+impalpable
 impalpably
 impanel
 impaneled
@@ -59481,6 +59499,7 @@ ineffability
 ineffablenesses
 ineffably
 ineffaceability
+ineffaceable
 ineffective
 ineffectively
 ineffectiveness
@@ -63369,6 +63388,7 @@ judicial
 judiciary
 judicious
 judiciously
+judiciousness
 judiciousnesses
 judo
 judoist
@@ -68190,6 +68210,7 @@ longbow
 longbowmen
 longbows
 longed
+longeing
 longer
 longeron
 longerons
@@ -76784,6 +76805,7 @@ mythomaniac
 mythomaniacs
 mythomanias
 mythopeic
+mythopoeia
 mythopoeias
 mythopoeic
 mythopoetic
@@ -84512,6 +84534,7 @@ oversubscribing
 oversubtle
 oversuds
 oversudsed
+oversudses
 oversudsing
 oversup
 oversupped
@@ -84775,6 +84798,7 @@ oxcarts
 oxen
 oxeye
 oxeyes
+oxford
 oxfords
 oxheart
 oxhearts
@@ -86772,6 +86796,7 @@ payees
 payer
 payers
 paygrade
+paygrades
 paying
 payload
 payloads
@@ -88692,6 +88717,7 @@ phosphaturias
 phosphene
 phosphenes
 phosphid
+phosphide
 phosphids
 phosphin
 phosphine
@@ -99211,6 +99237,7 @@ redacted
 redacting
 redaction
 redactional
+redactions
 redactors
 redacts
 redamaged
@@ -115102,6 +115129,7 @@ squidded
 squids
 squiffed
 squiffier
+squiffiest
 squiffy
 squiggle
 squiggled
@@ -115203,6 +115231,7 @@ stablished
 stablishing
 stablishment
 stablishments
+stably
 stabs
 staccato
 staccatos
@@ -115484,6 +115513,7 @@ stares
 starets
 starfish
 starflower
+starflowers
 starfruit
 starfruits
 stargaze
@@ -117256,6 +117286,7 @@ stylitic
 stylitism
 stylitisms
 stylization
+stylizations
 stylize
 stylized
 stylizers
@@ -123032,6 +123063,7 @@ thorns
 thorny
 thoron
 thorons
+thorough
 thoroughbass
 thoroughbasses
 thoroughbrace
@@ -127014,6 +127046,7 @@ tussal
 tussar
 tussars
 tusseh
+tusser
 tussers
 tusses
 tussis
@@ -128382,6 +128415,7 @@ uncrowns
 uncrumple
 uncrumpled
 uncrumples
+uncrushable
 unction
 unctions
 unctuously
@@ -130455,6 +130489,7 @@ unsurprisingly
 unsusceptible
 unsuspected
 unsuspecting
+unsuspicious
 unsustainable
 unswathe
 unswathes
