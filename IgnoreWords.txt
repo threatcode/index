@@ -371,6 +371,7 @@ accidently
 accidents
 accidia
 accidias
+accidie
 accipiter
 accipiters
 accipitrine
@@ -440,6 +441,7 @@ accords
 accost
 accosting
 accosts
+accouchement
 accoucheur
 accoucheurs
 account
@@ -11652,6 +11654,7 @@ biped
 bipedal
 bipedalism
 bipedalisms
+bipedalities
 bipedally
 bipeds
 biphasic
@@ -12703,6 +12706,7 @@ boatbills
 boatbuilder
 boatbuilders
 boatel
+boatels
 boater
 boaters
 boatful
@@ -13671,6 +13675,7 @@ bowsed
 bowses
 bowshot
 bowshots
+bowsing
 bowsprit
 bowsprits
 bowstring
@@ -16112,6 +16117,7 @@ calculates
 calculation
 calculational
 calculations
+calculator
 calculous
 calculus
 caldaria
@@ -19444,6 +19450,7 @@ cherubic
 cherubically
 cherubim
 cherubims
+cherublike
 chervil
 cheshire
 cheshires
@@ -21609,6 +21616,7 @@ coagulates
 coagulating
 coagulation
 coagulum
+coagulums
 coal
 coala
 coalas
@@ -23477,6 +23485,7 @@ concedes
 conceding
 conceit
 conceited
+conceitedly
 conceitedness
 conceitednesses
 conceiting
@@ -26032,6 +26041,7 @@ counterpleas
 counterplot
 counterplots
 counterplotted
+counterplotting
 counterploy
 counterpoint
 counterpointing
@@ -28123,6 +28133,7 @@ custodial
 custodians
 custodianship
 custodies
+custody
 custom
 customaries
 customarily
@@ -32016,6 +32027,7 @@ dews
 dewy
 dex
 dexamethasones
+dexes
 dexie
 dexies
 dexter
@@ -39733,6 +39745,7 @@ equalises
 equalitarian
 equalitarianism
 equalities
+equality
 equalization
 equalize
 equalized
@@ -48177,6 +48190,7 @@ gannet
 gannets
 gannisters
 ganof
+ganoids
 gantelope
 gantelopes
 gantlet
@@ -48201,6 +48215,7 @@ gapes
 gapeseed
 gapeseeds
 gapeworm
+gapeworms
 gaping
 gaposises
 gapped
@@ -50548,6 +50563,7 @@ goshawks
 goslings
 gospel
 gospeler
+gospelers
 gospeller
 gospellers
 gospelly
@@ -51494,6 +51510,7 @@ grossest
 grossing
 grossly
 grossnesses
+grossular
 grossularites
 grossulars
 grosze
@@ -72773,6 +72790,7 @@ mikado
 mikados
 miked
 mikes
+miking
 mikra
 mikron
 mikvahs
@@ -76399,6 +76417,7 @@ musicks
 musicless
 musicological
 musicologies
+musicologist
 musicology
 musics
 musing
@@ -76609,6 +76628,7 @@ mydriases
 mydriasis
 mydriatic
 mydriatics
+myelencephala
 myelencephalic
 myelin
 myelines
@@ -78726,6 +78746,7 @@ nonconcurrences
 nonconcurrent
 nonconcurring
 nonconcurs
+nonconditioned
 nonconduction
 nonconductive
 nonconductor
@@ -86850,6 +86871,7 @@ peartest
 peartness
 peartnesses
 pearwood
+pearwoods
 peas
 peasantries
 peasantry
@@ -88955,6 +88977,7 @@ phthisic
 phthisics
 phthisis
 phut
+phuts
 phycocyanin
 phycocyanins
 phycologies
@@ -90164,6 +90187,7 @@ plantlets
 plantocracies
 plantocracy
 plantsman
+planula
 planulae
 planular
 planulate
@@ -90875,6 +90899,7 @@ poetic
 poetically
 poeticalness
 poeticalnesses
+poeticism
 poeticized
 poeticizes
 poeticizing
@@ -97263,6 +97288,7 @@ radiolabeled
 radiolabeling
 radiolabelled
 radiolabelling
+radiolarian
 radiologic
 radiological
 radiologies
@@ -111684,6 +111710,7 @@ slighters
 slightest
 slightingly
 slightly
+slightness
 slights
 slily
 slim
@@ -112860,6 +112887,7 @@ softies
 softly
 softness
 softs
+softshell
 softshells
 software
 softwares
@@ -115291,6 +115319,7 @@ stalag
 stalagmite
 stalagmitic
 stalags
+stale
 staled
 stalemate
 stalemated
@@ -119514,6 +119543,7 @@ svelte
 sveltely
 svelteness
 sveltenesses
+svelter
 sveltest
 swab
 swabbed
@@ -121270,6 +121300,7 @@ tautological
 tautologies
 tautologous
 tautologously
+tautology
 tautomer
 tautomeric
 tautomerism
@@ -122339,6 +122370,7 @@ tet
 tetanic
 tetanical
 tetanically
+tetanics
 tetanies
 tetanise
 tetanised
@@ -123139,6 +123171,7 @@ thrived
 thriven
 thriver
 thrivers
+thrives
 thriving
 thrivingly
 throat
@@ -135099,6 +135132,7 @@ whishing
 whishted
 whishting
 whishts
+whisk
 whisked
 whisker
 whiskers
@@ -137332,6 +137366,7 @@ zilch
 zill
 zillah
 zillion
+zillionaire
 zillionaires
 zillions
 zills
