@@ -6149,6 +6149,7 @@ armouring
 armpit
 armpits
 armrests
+arms
 armsful
 armure
 armures
@@ -15899,6 +15900,7 @@ cachinnation
 cachou
 cachuchas
 cacique
+caciques
 caciquisms
 cackle
 cacklers
@@ -16671,6 +16673,7 @@ cannery
 cannibal
 cannibalise
 cannibalises
+cannibalising
 cannibalisms
 cannibalistic
 cannibalization
@@ -19983,6 +19986,7 @@ choirboy
 choired
 choirgirl
 choiring
+choirmasters
 choirs
 choke
 chokeable
@@ -25765,6 +25769,7 @@ cosmochemist
 cosmochemists
 cosmogenic
 cosmogonic
+cosmogonical
 cosmogonist
 cosmogony
 cosmographer
@@ -33011,6 +33016,7 @@ dioxid
 dioxide
 dioxids
 dioxins
+dip
 dipeptidase
 dipeptidases
 dipeptide
@@ -37406,6 +37412,7 @@ ejaculator
 ejaculators
 ejaculatory
 eject
+ejecta
 ejectable
 ejected
 ejecting
@@ -39109,6 +39116,7 @@ ensnare
 ensnared
 ensnarer
 ensnarers
+ensnares
 ensnaring
 ensnarl
 ensnarled
@@ -39473,6 +39481,7 @@ eosinophilias
 eosinophilic
 eosinophils
 epact
+epacts
 eparch
 eparchial
 eparchies
@@ -42857,6 +42866,7 @@ fasciation
 fasciations
 fascicle
 fascicles
+fascicular
 fasciculate
 fasciculation
 fasciculations
@@ -45751,6 +45761,7 @@ fondant
 fondants
 fonder
 fondest
+fonding
 fondle
 fondled
 fondler
@@ -51736,6 +51747,7 @@ growing
 growl
 growler
 growlers
+growlier
 growliness
 growlinesses
 growling
@@ -57250,6 +57262,7 @@ hyperventilates
 hypervigilance
 hypervigilances
 hypervigilant
+hypervirulent
 hypes
 hypha
 hyphae
@@ -59987,6 +60000,7 @@ infringers
 infringes
 infringing
 infrugal
+infundibula
 infundibular
 infundibuliform
 infundibulum
@@ -63969,6 +63983,7 @@ kaury
 kava
 kavass
 kavasses
+kayak
 kayaked
 kayaker
 kayakers
@@ -64372,6 +64387,7 @@ kicky
 kidders
 kiddie
 kidding
+kiddo
 kiddoes
 kiddos
 kiddushes
@@ -71125,6 +71141,7 @@ mayors
 mayorship
 mayos
 maypoles
+maypop
 maypops
 mays
 mayst
@@ -74127,6 +74144,7 @@ mispatches
 mispenned
 mispenning
 mispens
+misperceive
 misperceived
 misperceives
 misperception
@@ -78775,6 +78793,7 @@ nonathlete
 nonathletes
 nonathletic
 nonatomic
+nonattached
 nonattachment
 nonattendances
 nonattender
@@ -82043,6 +82062,7 @@ orgiastically
 orgiasts
 orgic
 orgies
+orgone
 orgones
 orgulous
 orgy
@@ -93229,6 +93249,7 @@ pregnenolones
 pregrowth
 pregrowths
 preguide
+preguides
 preguiding
 prehandle
 prehandled
@@ -95092,6 +95113,7 @@ proscriptive
 proscriptively
 prose
 prosect
+prosected
 prosecting
 prosectors
 prosects
@@ -95257,6 +95279,7 @@ proteome
 proteomes
 proteomic
 proteose
+proteoses
 protest
 protestant
 protestants
@@ -104043,6 +104066,7 @@ rimes
 rimester
 rimesters
 rimfire
+rimfires
 rimier
 rimiest
 riminess
@@ -104601,6 +104625,7 @@ rooster
 roosters
 roosting
 roosts
+root
 rootages
 rootcap
 rootcaps
@@ -106880,6 +106905,7 @@ scariest
 scarifications
 scarified
 scarifiers
+scarifies
 scarify
 scarifying
 scarifyingly
@@ -107697,6 +107723,7 @@ scrutinize
 scrutinizer
 scrutinizers
 scrutiny
+scry
 scuba
 scubaed
 scubaing
@@ -112820,6 +112847,7 @@ snowball
 snowballed
 snowballing
 snowbank
+snowbanks
 snowbell
 snowbells
 snowbelts
@@ -120994,6 +121022,7 @@ takeoffs
 takeout
 takeouts
 taker
+takers
 takes
 takeup
 takeups
@@ -124783,6 +124812,7 @@ torridness
 torridnesses
 torrified
 torrifying
+torrs
 torsade
 torsades
 torse
@@ -131724,6 +131754,7 @@ uxoricide
 uxoricides
 uxorious
 uxoriously
+uxoriousness
 uxoriousnesses
 vac
 vacancies
@@ -131966,6 +131997,7 @@ van
 vanadate
 vanadates
 vanadiates
+vanadic
 vanadium
 vanadiums
 vanadous
@@ -132351,6 +132383,7 @@ velites
 velleities
 velleity
 vellicate
+vellicated
 vellicates
 vellum
 vellums
@@ -134088,6 +134121,7 @@ waive
 waived
 waiver
 waivers
+waiving
 wakame
 wakames
 wakandas
@@ -136716,6 +136750,7 @@ worthiness
 worthinesses
 worthing
 worthlessly
+worthlessnesses
 worthwhile
 worthwhileness
 worthy
