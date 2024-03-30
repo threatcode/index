@@ -898,6 +898,7 @@ actualized
 actually
 actuarial
 actuarially
+actuary
 actuate
 actuated
 actuates
@@ -3171,6 +3172,7 @@ ambers
 ambery
 ambiance
 ambidexterities
+ambidexterity
 ambience
 ambiences
 ambient
@@ -6369,6 +6371,7 @@ artinesses
 artiodactyl
 artiodactyls
 artisan
+artisanal
 artisanship
 artisanships
 artist
@@ -10308,6 +10311,7 @@ belligerences
 belligerent
 belligerently
 belligerents
+belling
 bellings
 bellman
 bellmen
@@ -27234,6 +27238,7 @@ crossbones
 crossbow
 crossbowman
 crossbowmen
+crossbows
 crossbred
 crossbreds
 crossbreeding
@@ -29151,6 +29156,7 @@ dazednesses
 dazes
 dazing
 dazzle
+dazzled
 dazzlers
 dazzles
 dazzling
@@ -45488,6 +45494,7 @@ foamflower
 foamflowers
 foamier
 foamiest
+foamily
 foaminesses
 foaming
 foamless
@@ -49139,6 +49146,7 @@ gestate
 gestated
 gestates
 gestational
+gestations
 gestatory
 geste
 gestes
@@ -50842,6 +50850,7 @@ grander
 grandest
 grandeur
 grandeurs
+grandfather
 grandfathered
 grandfathering
 grandfatherly
@@ -54172,6 +54181,7 @@ hemiacetals
 hemialgia
 hemic
 hemichordates
+hemicycle
 hemihydrate
 hemihydrated
 hemimetabolous
@@ -55923,6 +55933,7 @@ horrifying
 horrifyingly
 horrors
 horse
+horseback
 horsebacks
 horsebean
 horsebeans
@@ -60201,6 +60212,7 @@ innovates
 innovation
 innovational
 innovatively
+innovativeness
 innovator
 innovators
 innovatory
@@ -60458,6 +60470,7 @@ inspan
 inspanned
 inspanning
 inspans
+inspected
 inspecting
 inspections
 inspective
@@ -63655,6 +63668,7 @@ kaddish
 kaddishes
 kaddishim
 kadi
+kadis
 kae
 kaes
 kaf
@@ -65633,6 +65647,7 @@ laparotomy
 lapboard
 lapboards
 lapdog
+lapdogs
 lapel
 lapeled
 lapelled
@@ -66629,6 +66644,7 @@ lept
 lepta
 leptin
 leptins
+leptocephali
 leptocephalus
 leptonic
 leptons
@@ -67610,6 +67626,7 @@ listener
 listeners
 listenerships
 listening
+listens
 lister
 listeria
 listerias
@@ -69592,6 +69609,7 @@ majagua
 majaguas
 majestic
 majestically
+majolicas
 major
 majordomo
 majordomos
@@ -70223,6 +70241,7 @@ mara
 marabout
 marabouts
 maraca
+maranatha
 maranathas
 maranta
 marantas
@@ -73982,6 +74001,7 @@ mispainted
 mispaints
 misparse
 misparsing
+mispart
 misparted
 misparting
 misparts
@@ -83522,6 +83542,7 @@ overarticulate
 overarticulated
 overarticulates
 overassert
+overasserted
 overasserting
 overassertion
 overassertions
@@ -86537,6 +86558,7 @@ patagia
 patamar
 patamars
 patch
+patchable
 patchboard
 patchboards
 patched
@@ -90912,6 +90934,7 @@ podgily
 podgy
 podia
 podiatric
+podiatries
 podiatrist
 podiatry
 podite
@@ -95261,6 +95284,7 @@ providers
 providing
 province
 provinces
+provincialism
 provincialisms
 provincialist
 provincialists
@@ -95599,6 +95623,7 @@ pteridine
 pteridines
 pteridological
 pteridologies
+pteridologist
 pteridologists
 pteridology
 pteridophyte
@@ -97180,6 +97205,7 @@ racemized
 racemizes
 racemizing
 racemous
+racer
 racers
 races
 racetracker
@@ -103969,6 +103995,7 @@ ripple
 rippled
 rippler
 ripplers
+ripplets
 ripplier
 rippliest
 rippling
@@ -104763,6 +104790,7 @@ royalists
 royally
 royalmast
 royalmasts
+royals
 royalty
 roystered
 roysters
@@ -110249,6 +110277,7 @@ shris
 shrive
 shrived
 shrivel
+shriveled
 shriveling
 shrivels
 shriven
@@ -110849,6 +110878,7 @@ simply
 simps
 simulacra
 simulacre
+simulacres
 simulacrum
 simulacrums
 simulant
@@ -118997,6 +119027,7 @@ superminis
 superminister
 superministers
 supermodel
+supermodels
 supermodern
 supermom
 supernal
@@ -119059,6 +119090,7 @@ superposition
 superpositions
 superpowered
 superpowerful
+superpowers
 superpremium
 superpremiums
 superpro
@@ -122096,6 +122128,7 @@ tensiometer
 tensiometric
 tension
 tensional
+tensioner
 tensioners
 tensioning
 tensionless
@@ -122198,6 +122231,7 @@ teratoma
 teratomas
 teratomata
 terawatt
+terawatts
 terbia
 terbias
 terbic
@@ -127621,6 +127655,7 @@ ultramodern
 ultramodernists
 ultraorthodox
 ultrapatriotic
+ultraposh
 ultrapowerful
 ultrapractical
 ultraprecise
