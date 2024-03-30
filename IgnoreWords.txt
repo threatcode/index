@@ -460,6 +460,7 @@ accountings
 accounts
 accouter
 accoutered
+accoutering
 accouterment
 accouterments
 accouters
@@ -8482,6 +8483,7 @@ bagwig
 bagwigs
 bagworm
 bagworms
+bah
 bahadur
 bahadurs
 baht
@@ -16119,6 +16121,7 @@ calamine
 calamined
 calamines
 calamining
+calamints
 calamite
 calamites
 calamitous
@@ -16939,6 +16942,7 @@ capitula
 capitular
 capitularies
 capitulate
+capitulated
 capitulating
 capitulation
 capitulum
@@ -19339,6 +19343,7 @@ checkreins
 checkroom
 checkrooms
 checkrow
+checkrowed
 checkrowing
 checkrows
 checks
@@ -19482,6 +19487,7 @@ chemotaxonomic
 chemotaxonomies
 chemotaxonomist
 chemotaxonomy
+chemotherapies
 chemotherapist
 chemotherapists
 chemotherapy
@@ -20691,6 +20697,7 @@ circumlocutions
 circumlocutory
 circumlunar
 circumnavigated
+circumnavigates
 circumnavigator
 circumpolar
 circumscissile
@@ -28965,6 +28972,7 @@ danging
 dangle
 dangled
 danglers
+dangles
 danglier
 dangliest
 dangling
@@ -36623,6 +36631,7 @@ dynamical
 dynamically
 dynamics
 dynamism
+dynamisms
 dynamist
 dynamistic
 dynamists
@@ -41576,6 +41585,7 @@ exorcizing
 exordium
 exordiums
 exoskeletal
+exoskeleton
 exosmic
 exosmose
 exosmoses
@@ -44146,6 +44156,7 @@ filminess
 filming
 filmland
 filmlands
+filmless
 filmlike
 filmmaking
 filmmakings
@@ -46873,6 +46884,7 @@ freeboard
 freeboards
 freeboot
 freebooted
+freebooter
 freebooters
 freebooting
 freeboots
@@ -69336,6 +69348,7 @@ lysogenises
 lysogenising
 lysogenizations
 lysogenize
+lysogenized
 lysogenizes
 lysogeny
 lysolecithin
@@ -71204,6 +71217,7 @@ mayfly
 mayhap
 mayhappen
 mayhem
+mayings
 mayo
 mayonnaise
 mayonnaises
@@ -79646,6 +79660,7 @@ nonproducing
 nonproductive
 nonprofessional
 nonprofessorial
+nonprofit
 nonprofits
 nonprogram
 nonprogrammers
@@ -79889,6 +79904,7 @@ nonuples
 nonurban
 nonusable
 nonuse
+nonuser
 nonusers
 nonuses
 nonusing
@@ -80278,6 +80294,7 @@ nubbly
 nubby
 nubia
 nubilities
+nubility
 nubilous
 nubs
 nubucks
@@ -84461,6 +84478,7 @@ overnighters
 overnighting
 overnourished
 overnourishes
+overnourishing
 overnutritions
 overoperate
 overoperated
@@ -94515,6 +94533,7 @@ procarbazines
 procarp
 procarps
 procaryote
+procaryotes
 procathedral
 procathedrals
 procedural
@@ -95941,6 +95960,7 @@ pubic
 pubis
 public
 publically
+publicans
 publication
 publicise
 publicised
@@ -103840,6 +103860,7 @@ rhodomontades
 rhodonite
 rhodonites
 rhodopsins
+rhodoras
 rhomb
 rhombencephala
 rhombencephalon
@@ -107454,6 +107475,7 @@ scone
 scones
 scooch
 scooched
+scooches
 scooching
 scoop
 scooped
@@ -107779,6 +107801,7 @@ scrounger
 scroungers
 scrounges
 scroungier
+scroungiest
 scrounging
 scroungy
 scrub
@@ -110856,6 +110879,7 @@ sidings
 sidle
 sidled
 sidler
+sidles
 sidling
 sidlingly
 sieged
@@ -114689,6 +114713,7 @@ spiffiness
 spiffing
 spiffs
 spiffy
+spiffying
 spigot
 spigots
 spiked
@@ -114746,6 +114771,7 @@ spined
 spinel
 spineless
 spinelessnesses
+spinelike
 spinelle
 spinelles
 spines
@@ -114998,6 +115024,7 @@ spoilsman
 spoilsmen
 spoilsport
 spoilsports
+spoilt
 spoke
 spoked
 spokes
@@ -122863,6 +122890,7 @@ tetrahedrite
 tetrahedrites
 tetrahedron
 tetrahedrons
+tetrahydrofuran
 tetrahymena
 tetrahymenas
 tetralogies
@@ -123623,6 +123651,7 @@ throating
 throatlatches
 throats
 throb
+throbbed
 throbber
 throbbers
 throbbing
@@ -129215,6 +129244,7 @@ undertows
 undertrick
 underuse
 underuses
+underusing
 underutilize
 underutilized
 underutilizes
@@ -133671,6 +133701,7 @@ vivid
 vividly
 vividness
 vividnesses
+vivific
 vivification
 vivifications
 vivified
@@ -133846,6 +133877,7 @@ volleyers
 volleys
 volost
 volosts
+volplane
 volplaned
 volplanes
 volt
@@ -134144,6 +134176,7 @@ waffles
 wafflestomper
 wafflestompers
 wafflier
+waffliest
 waffling
 wafflings
 waffly
@@ -136509,6 +136542,7 @@ womanise
 womanised
 womanises
 womanish
+womanishly
 womanishness
 womanishnesses
 womanising
@@ -137081,6 +137115,7 @@ wussy
 wuthered
 wuthering
 wuthers
+wyandotte
 wyandottes
 wych
 wye
