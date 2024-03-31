@@ -6505,6 +6505,7 @@ ascaris
 ascend
 ascendable
 ascendance
+ascendancies
 ascendant
 ascendants
 ascended
@@ -9898,6 +9899,7 @@ becrawls
 becrime
 becrimed
 becrimes
+becriming
 becrowd
 becrowds
 becrusted
@@ -11181,6 +11183,7 @@ bicarb
 bicarbonate
 bicarbonates
 bicarbs
+bice
 bicentenaries
 bicentennial
 bicentennials
@@ -11446,6 +11449,7 @@ billing
 billingsgate
 billingsgates
 billion
+billionaire
 billionaires
 billions
 billionths
@@ -16307,6 +16311,7 @@ calculation
 calculational
 calculations
 calculator
+calculators
 calculous
 calculus
 caldaria
@@ -18419,6 +18424,7 @@ cedar
 cedarbird
 cedarbirds
 cedarn
+cedars
 cedarwoods
 cedary
 cede
@@ -19407,6 +19413,7 @@ chaunter
 chaunters
 chaunting
 chaunts
+chausses
 chaussure
 chaussures
 chautauqua
@@ -30579,6 +30586,7 @@ degrease
 degreased
 degreaser
 degreasers
+degreases
 degreasing
 degree
 degreed
@@ -32715,6 +32723,7 @@ dichasial
 dichasium
 dichlorobenzene
 dichloroethane
+dichlorvos
 dichogamies
 dichogamous
 dichogamy
@@ -34987,6 +34996,7 @@ dockages
 docked
 docker
 dockers
+docket
 docketed
 dockets
 dockhand
@@ -35725,6 +35735,7 @@ downland
 downlands
 downless
 downlike
+downlinked
 downlinking
 downlinks
 download
@@ -40182,6 +40193,7 @@ equalized
 equalizer
 equalizers
 equalizes
+equalizing
 equalling
 equally
 equals
@@ -40189,6 +40201,7 @@ equanimity
 equatable
 equate
 equated
+equates
 equating
 equation
 equational
@@ -41418,6 +41431,7 @@ exanthematous
 exanthems
 exapted
 exarchal
+exarchate
 exarchates
 exarchy
 exasperate
@@ -41747,6 +41761,7 @@ exhilarating
 exhilaratingly
 exhilarations
 exhilarative
+exhort
 exhortation
 exhortations
 exhortatory
@@ -51810,6 +51825,7 @@ greyest
 greyhen
 greyhens
 greyish
+greylag
 greylags
 greyly
 greynesses
@@ -53852,6 +53868,7 @@ haruspication
 haruspications
 haruspices
 harvest
+harvester
 harvesters
 harvesting
 harvestman
@@ -68660,6 +68677,7 @@ locaters
 locates
 locating
 location
+locationally
 locations
 locatives
 locator
@@ -72162,6 +72180,7 @@ melinite
 meliorate
 meliorated
 meliorates
+meliorating
 melioration
 meliorations
 meliorator
@@ -72372,6 +72391,7 @@ mensa
 mensae
 mensal
 mensas
+mensch
 mensches
 menschy
 mense
@@ -73274,6 +73294,7 @@ microliths
 microloan
 microloans
 microluces
+micromanage
 micromanaged
 micromanagement
 micromanager
@@ -77868,6 +77889,7 @@ narratologies
 narratologist
 narratologists
 narratology
+narrator
 narrators
 narrow
 narrowcastings
@@ -80108,6 +80130,7 @@ nonnuclear
 nonnucleated
 nonnumerical
 nonobjective
+nonobjectivist
 nonobjectivity
 nonobscene
 nonobservance
@@ -82536,6 +82559,7 @@ or
 ora
 orach
 oraches
+oracle
 oracles
 oracular
 oracularities
@@ -86552,6 +86576,7 @@ papadam
 papadams
 papadom
 papadoms
+papadum
 papadums
 papain
 papains
@@ -87087,6 +87112,7 @@ paroquets
 parosmia
 parosmias
 parotid
+parotids
 parotitic
 parotitis
 parotitises
@@ -92577,6 +92603,7 @@ poppa
 poppadom
 poppadoms
 poppadum
+poppadums
 poppas
 popped
 popper
@@ -94165,6 +94192,7 @@ premeasured
 premeasures
 premeasuring
 premed
+premedics
 premedieval
 premeditate
 premeditated
@@ -106343,6 +106371,7 @@ saccharases
 saccharic
 saccharides
 saccharified
+saccharifies
 saccharify
 saccharifying
 saccharimeter
@@ -107874,6 +107903,7 @@ sceneries
 scenery
 scenes
 sceneshifters
+scenic
 scenical
 scenically
 scenics
@@ -108474,6 +108504,7 @@ screwlike
 screwup
 screwworm
 screwworms
+screwy
 scribal
 scribble
 scribbled
@@ -115482,6 +115513,7 @@ spicebush
 spicebushes
 spiced
 spiceless
+spicer
 spiceries
 spicery
 spices
@@ -116934,6 +116966,7 @@ stealing
 stealings
 steals
 stealthier
+stealthiest
 stealthiness
 stealthinesses
 stealthy
@@ -127804,6 +127837,7 @@ trudging
 true
 trueblue
 trueborn
+trued
 trueheartedness
 trueing
 trueness
@@ -131272,6 +131306,7 @@ unpierced
 unpiled
 unpiles
 unpiling
+unpin
 unpinned
 unpinning
 unpins
