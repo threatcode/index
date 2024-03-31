@@ -2210,6 +2210,7 @@ airframe
 airframes
 airfreighted
 airfreighting
+airfreights
 airhead
 airheaded
 airheads
@@ -2421,6 +2422,7 @@ alchemic
 alchemical
 alchemically
 alchemies
+alchemist
 alchemistic
 alchemistical
 alchemists
@@ -9792,6 +9794,7 @@ beblood
 beblooded
 beblooding
 bebop
+bebopper
 becalms
 became
 becapped
@@ -11116,6 +11119,7 @@ bibliothecae
 bibliothecal
 bibliotherapies
 bibliotherapy
+bibliotic
 bibliotist
 bibliotists
 biblist
@@ -13556,6 +13560,7 @@ botel
 botflies
 botfly
 both
+bother
 botheration
 botherations
 bothered
@@ -13633,6 +13638,7 @@ boulderer
 boulderers
 bouldering
 boulders
+boule
 boules
 boulevard
 boulevardier
@@ -16187,6 +16193,7 @@ calamity
 calamondin
 calamondins
 calamus
+calando
 calash
 calashes
 calathi
@@ -23726,6 +23733,7 @@ concert
 concerted
 concertedly
 concertedness
+concertednesses
 concertgoer
 concertgoers
 concertgoing
@@ -28366,6 +28374,7 @@ cutch
 cutcheries
 cutchery
 cutches
+cutdowns
 cute
 cuteness
 cuter
@@ -29708,6 +29717,7 @@ decelerated
 decelerates
 decelerating
 deceleration
+deceleron
 decemvir
 decemviral
 decemvirate
@@ -35103,6 +35113,7 @@ doltishly
 doltishness
 doltishnesses
 dolts
+domain
 domains
 domal
 dome
@@ -35313,6 +35324,7 @@ doping
 doppelgangers
 dopy
 dor
+dorados
 dorbeetle
 dorbug
 dorbugs
@@ -35892,6 +35904,7 @@ dreamless
 dreamlessly
 dreamlike
 dreams
+dreamt
 dreamtime
 dreamtimes
 dreamworlds
@@ -40009,6 +40022,7 @@ equable
 equableness
 equably
 equal
+equaled
 equaling
 equalised
 equaliser
@@ -43948,6 +43962,7 @@ fiances
 fianchetto
 fianchettoed
 fianchettos
+fiaschi
 fiasco
 fiascoes
 fiascos
@@ -48076,6 +48091,7 @@ gabled
 gablelike
 gabling
 gaboon
+gaboons
 gabs
 gaby
 gad
@@ -56444,6 +56460,7 @@ hotlink
 hotlinks
 hotly
 hotnesses
+hotpress
 hotpressed
 hotpressing
 hotrod
@@ -57427,6 +57444,7 @@ hyperplanes
 hyperplasia
 hyperplasias
 hyperploid
+hyperploidies
 hyperploids
 hyperploidy
 hyperpnea
@@ -67229,6 +67247,7 @@ levorotary
 levorotatory
 levulin
 levulins
+levulose
 levuloses
 levy
 levying
@@ -69982,6 +70001,7 @@ mailroom
 mailrooms
 maim
 maimed
+maimer
 maimers
 maiming
 maims
@@ -77083,6 +77103,7 @@ muzjiks
 muzzier
 muzziest
 muzziness
+muzzle
 muzzler
 muzzlers
 muzzles
@@ -79302,6 +79323,7 @@ nonconsolidated
 nonconstant
 nonconstruction
 nonconstructive
+nonconsumer
 nonconsumers
 nonconsuming
 nonconsumption
@@ -82100,6 +82122,7 @@ oppilant
 oppilates
 opponents
 opportune
+opportunely
 opportunenesses
 opportunism
 opportunist
@@ -82463,6 +82486,7 @@ orismological
 orismologies
 orison
 orisons
+orle
 orles
 orlon
 orlop
@@ -84663,6 +84687,7 @@ overlong
 overlooked
 overlooking
 overlooks
+overlord
 overlorded
 overlording
 overlords
@@ -89886,6 +89911,7 @@ piddler
 piddlers
 piddocks
 pidgin
+pidginization
 pidginize
 pidginized
 pidginizes
@@ -92964,6 +92990,7 @@ pragmatisms
 pragmatist
 pragmatistic
 pragmatists
+prahu
 prahus
 prairie
 praise
@@ -107514,6 +107541,7 @@ schismatized
 schismatizes
 schisms
 schist
+schistose
 schistosity
 schistosome
 schistosomiases
@@ -109400,6 +109428,7 @@ septillion
 septillions
 septime
 septs
+septuagenarian
 septuagenarians
 septum
 septums
@@ -109882,6 +109911,7 @@ shaddock
 shade
 shaded
 shader
+shaders
 shades
 shadier
 shadiest
@@ -110958,6 +110988,7 @@ shriver
 shrivers
 shriving
 shroff
+shroffed
 shroffing
 shroffs
 shroud
@@ -113715,6 +113746,7 @@ solarium
 solariums
 solarization
 solarizations
+solarize
 solarizing
 solated
 solates
@@ -118683,6 +118715,7 @@ subsense
 subsenses
 subsentence
 subsentences
+subsequence
 subsequences
 subsequent
 subsere
@@ -130480,6 +130513,7 @@ unlevel
 unleveled
 unleveling
 unlevelled
+unlevelling
 unlevels
 unliberated
 unlicensed
@@ -133508,6 +133542,7 @@ vibrionic
 vibrions
 vibrios
 vibrioses
+vibriosis
 vibrissa
 vibrissae
 vibrissal
