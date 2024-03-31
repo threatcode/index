@@ -5557,6 +5557,7 @@ applejacks
 apples
 applesauce
 applesauces
+applet
 applets
 appliable
 appliance
@@ -15654,6 +15655,7 @@ bushmaster
 bushmasters
 bushmen
 bushpigs
+bushranger
 bushrangers
 bushranging
 bushrangings
@@ -19687,6 +19689,7 @@ cheshire
 cheshires
 chess
 chessboards
+chesses
 chessman
 chessmen
 chest
@@ -20557,6 +20560,7 @@ chuggers
 chugging
 chugs
 chukar
+chukars
 chukka
 chukkar
 chukkas
@@ -26865,6 +26869,7 @@ crampons
 crampoon
 crampoons
 cramps
+crampy
 cranberries
 cranberry
 cranch
@@ -32434,6 +32439,7 @@ dhootis
 dhoti
 dhotis
 dhourra
+dhows
 dhurnas
 dhurrie
 dhurries
@@ -36248,6 +36254,7 @@ dropforge
 dropforged
 dropforges
 dropforging
+drophead
 dropheads
 dropkicker
 dropkickers
@@ -37469,6 +37476,7 @@ educationese
 educationeses
 educationist
 educationists
+educations
 educative
 educator
 educators
@@ -39059,6 +39067,7 @@ endured
 endurer
 endurers
 endures
+enduringly
 enduringness
 enduringnesses
 enduro
@@ -45637,6 +45646,7 @@ floss
 flossed
 flosser
 flossers
+flossie
 flossier
 flossies
 flossily
@@ -51936,6 +51946,7 @@ grinned
 grinner
 grinners
 grinning
+grinningly
 grins
 griot
 griots
@@ -58087,6 +58098,7 @@ idempotents
 identicalness
 identicalnesses
 identifiable
+identifiably
 identifications
 identified
 identifier
@@ -58982,6 +58994,7 @@ imponed
 impones
 imponing
 imporous
+import
 importable
 importance
 importancies
@@ -59065,6 +59078,7 @@ imprecision
 imprecisions
 impregn
 impregnability
+impregnable
 impregnableness
 impregnably
 impregnant
@@ -73042,6 +73056,7 @@ metrical
 metrically
 metricates
 metricating
+metrication
 metrications
 metricisms
 metricized
@@ -81269,6 +81284,7 @@ obituaries
 obituarist
 obituary
 object
+objected
 objectification
 objectified
 objectify
@@ -85431,6 +85447,7 @@ overstretched
 overstretches
 overstretching
 overstrew
+overstrewed
 overstrewing
 overstrewn
 overstrews
@@ -87066,6 +87083,7 @@ parled
 parley
 parleyed
 parleyer
+parleying
 parleys
 parliament
 parliamentarian
@@ -93898,6 +93916,7 @@ preempt
 preempted
 preempting
 preemption
+preemptions
 preemptive
 preemptively
 preemptor
@@ -96199,6 +96218,7 @@ prototypes
 prototypic
 prototypical
 prototypically
+prototyping
 protoxid
 protoxids
 protoxylem
@@ -98947,6 +98967,7 @@ ratchets
 rateable
 rateably
 rated
+ratels
 ratemeter
 ratemeters
 ratepayer
@@ -103678,6 +103699,7 @@ restyled
 restyles
 restyling
 resubject
+resubjected
 resubjects
 resubmission
 resubmit
@@ -105816,6 +105838,7 @@ rousts
 rout
 routed
 routeman
+routemen
 router
 routers
 routes
@@ -106635,6 +106658,7 @@ sajou
 sajous
 sake
 saker
+sakers
 sakes
 saki
 sakis
@@ -109238,6 +109262,7 @@ segno
 segnos
 segos
 segregant
+segregated
 segregation
 segregationist
 segregationists
@@ -109652,6 +109677,7 @@ sendoff
 sendoffs
 sends
 sendup
+sendups
 sene
 seneca
 senecio
@@ -112143,6 +112169,7 @@ sinlessly
 sinlessness
 sinlessnesses
 sinned
+sinning
 sinoatrial
 sinologies
 sinologist
@@ -112389,6 +112416,7 @@ skelm
 skelms
 skelp
 skelped
+skelping
 skelpit
 skelps
 skelter
@@ -115073,6 +115101,7 @@ sparker
 sparkers
 sparkier
 sparkily
+sparking
 sparkish
 sparkle
 sparkled
@@ -123168,6 +123197,7 @@ telluride
 tellurides
 tellurion
 tellurions
+tellurite
 tellurium
 telluriums
 tellurize
@@ -129676,6 +129706,7 @@ uncoerced
 uncoercive
 uncoffin
 uncoffined
+uncoffining
 uncoffins
 uncoil
 uncoiled
@@ -135824,6 +135855,7 @@ wauchts
 waugh
 waught
 waughted
+waughting
 wauk
 wauked
 wauking
@@ -136133,6 +136165,7 @@ weeting
 weets
 weever
 weevil
+weeviled
 weevilly
 weevils
 weevily
@@ -137285,6 +137318,7 @@ wiredrawers
 wiredrawing
 wiredraws
 wiredrew
+wiregrass
 wiregrasses
 wirehair
 wirehaired
@@ -137935,6 +137969,7 @@ worthwhileness
 worthy
 worts
 wos
+wots
 wotted
 wotting
 would
