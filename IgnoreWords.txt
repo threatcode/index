@@ -1560,6 +1560,7 @@ aerolith
 aerolitic
 aerologies
 aerology
+aeromagnetic
 aeromedical
 aeromedicine
 aeromedicines
@@ -1865,6 +1866,7 @@ ageisms
 ageless
 agelessly
 agelessness
+agelessnesses
 agelong
 agemate
 agemates
@@ -2681,6 +2683,7 @@ alkalized
 alkalizers
 alkalizes
 alkalizing
+alkaloid
 alkaloidal
 alkalotic
 alkane
@@ -3711,6 +3714,7 @@ anagrammatized
 anagrammatizes
 anagrammatizing
 anagramming
+anal
 analcimes
 analcite
 analcites
@@ -9352,6 +9356,7 @@ bashfulness
 bashfulnesses
 bashings
 bashlyk
+basic
 basically
 basicities
 basicity
@@ -14550,6 +14555,7 @@ britannia
 britannias
 briths
 brits
+britska
 britskas
 britt
 brittania
@@ -16365,6 +16371,7 @@ callant
 callants
 callas
 callbacks
+callboard
 callboards
 callboy
 callboys
@@ -30281,6 +30288,7 @@ defensibly
 defensing
 defensive
 defensively
+defensiveness
 defensivenesses
 defensives
 defer
@@ -30899,6 +30907,7 @@ demes
 demesnes
 demeton
 demetons
+demic
 demies
 demigod
 demigoddesses
@@ -32544,6 +32553,7 @@ diaphonies
 diaphony
 diaphorase
 diaphorases
+diaphoreses
 diaphoresis
 diaphoretic
 diaphragm
@@ -33083,6 +33093,7 @@ dimes
 dimeters
 dimethoate
 dimethoates
+dimethyls
 dimetric
 dimidiates
 dimidiating
@@ -34285,6 +34296,7 @@ dispraising
 dispread
 dispreads
 disprize
+disprized
 disprizes
 disprizing
 disproof
@@ -40041,6 +40053,7 @@ epithelizing
 epithet
 epithetic
 epithets
+epitome
 epitomic
 epitomised
 epitomises
@@ -50325,6 +50338,7 @@ glooming
 gloomings
 glop
 gloppier
+gloppiest
 glopping
 gloppy
 gloria
@@ -56755,6 +56769,7 @@ huck
 huckabacks
 huckle
 huckleberries
+huckleberry
 huckles
 hucks
 huckster
@@ -57340,6 +57355,7 @@ hyenoid
 hyetal
 hygeist
 hygeists
+hygieist
 hygieists
 hygiene
 hygienes
@@ -59285,6 +59301,7 @@ incented
 incenter
 incenters
 incenting
+incentive
 incentivize
 incentivized
 incentivizes
@@ -59941,6 +59958,7 @@ indubitable
 indubitableness
 indubitably
 induce
+inducement
 inducements
 inducer
 induces
@@ -71389,6 +71407,7 @@ materiels
 maternal
 maternities
 maternity
+mates
 mateship
 mateships
 matey
@@ -82148,6 +82167,7 @@ oot
 ootheca
 oothecae
 oothecal
+ootid
 ootids
 oots
 oozed
@@ -83794,6 +83814,7 @@ outrigging
 outrigs
 outring
 outrings
+outrival
 outrivaled
 outrivaling
 outrivalling
@@ -86569,6 +86590,7 @@ paraffin
 paraffined
 paraffinic
 paraffining
+paraffins
 parafoil
 parafoils
 paragenesis
@@ -91570,6 +91592,7 @@ plunge
 plunger
 plungers
 plunges
+plunging
 plunk
 plunked
 plunker
@@ -92661,6 +92684,7 @@ positronium
 positroniums
 posits
 posole
+posologic
 posologies
 posology
 posse
@@ -100119,6 +100143,7 @@ recurving
 recusal
 recusancies
 recusancy
+recusant
 recusants
 recused
 recuses
@@ -104807,6 +104832,7 @@ rinderpest
 rindless
 rinds
 ringbark
+ringbarking
 ringbarks
 ringbolt
 ringbolts
@@ -114595,6 +114621,7 @@ soup
 soupcon
 souped
 soupier
+souping
 soupless
 souplike
 soupspoon
@@ -117304,6 +117331,7 @@ stipites
 stipple
 stippled
 stippler
+stipples
 stippling
 stipular
 stipulate
@@ -118180,6 +118208,7 @@ strutting
 strychnic
 strychnine
 strychnines
+stub
 stubbed
 stubbier
 stubbily
@@ -120418,6 +120447,7 @@ surety
 suretyship
 suretyships
 surf
+surfable
 surface
 surfaced
 surfacer
@@ -123701,6 +123731,7 @@ thankfulnesses
 thankless
 thanklessness
 thanklessnesses
+thanks
 thanksgiving
 thanksgivings
 tharm
@@ -131145,6 +131176,7 @@ unprogrammed
 unprogressive
 unpromising
 unpromisingly
+unprompted
 unpronounceable
 unpropitious
 unprosperous
@@ -136208,6 +136240,7 @@ wheezy
 whelk
 whelkier
 whelkiest
+whelm
 whelmed
 whelming
 whelms
@@ -136376,6 +136409,7 @@ whipworms
 whir
 whirl
 whirled
+whirlers
 whirlier
 whirlies
 whirliest
@@ -137456,6 +137490,7 @@ woodworkings
 woodworks
 wooers
 woof
+woofer
 woofers
 woofing
 woofs
