@@ -2576,6 +2576,7 @@ alienages
 alienate
 alienates
 alienation
+alienator
 aliened
 alienee
 aliener
@@ -5028,6 +5029,7 @@ antithetic
 antithetically
 antithrombin
 antithrombins
+antithyroid
 antitobacco
 antitoxic
 antitoxin
@@ -11261,6 +11263,7 @@ biggins
 biggish
 biggity
 biggy
+bighead
 bigheaded
 bigheads
 bighearted
@@ -19158,6 +19161,7 @@ charioted
 charioteers
 charioting
 chariots
+charism
 charisma
 charismas
 charismatic
@@ -21020,6 +21024,7 @@ clangorously
 clangors
 clangour
 clangouring
+clangours
 clanked
 clankier
 clanking
@@ -32249,6 +32254,7 @@ dextrins
 dextro
 dextrorotary
 dextrose
+dextroses
 dextrous
 dexy
 dey
@@ -39312,6 +39318,7 @@ entanglers
 entangles
 entangling
 entases
+entasia
 entasias
 entastic
 entelechies
@@ -41982,6 +41989,7 @@ expropriators
 expulse
 expulses
 expulsion
+expulsions
 expulsive
 expunction
 expunctions
@@ -42307,6 +42315,7 @@ exultantly
 exultation
 exulted
 exulting
+exultingly
 exults
 exurban
 exurbanite
@@ -48791,6 +48800,7 @@ gathering
 gatherings
 gathers
 gating
+gators
 gats
 gauchely
 gauchenesses
@@ -51526,6 +51536,7 @@ greenly
 greenmail
 greenmailer
 greenmailers
+greenmailing
 greenmails
 greennesses
 greenockite
@@ -53819,6 +53830,7 @@ haycocks
 hayed
 hayer
 hayers
+hayfork
 hayforks
 haying
 hayings
@@ -53901,6 +53913,7 @@ headiest
 headily
 headinesses
 heading
+headings
 headlamps
 headland
 headlessness
@@ -69898,6 +69911,7 @@ maiden
 maidenhair
 maidenhead
 maidenhood
+maidenhoods
 maidenliness
 maidenlinesses
 maidenly
@@ -72291,6 +72305,7 @@ mesial
 mesian
 mesic
 mesically
+mesmeric
 mesmerically
 mesmerise
 mesmerised
@@ -73089,6 +73104,7 @@ micturating
 micturition
 micturitions
 midair
+midairs
 midbrain
 midbrains
 midcap
@@ -75576,6 +75592,7 @@ monumentally
 monuments
 monuron
 mony
+monzonite
 monzonites
 moo
 mooch
@@ -76108,6 +76125,7 @@ mountainsides
 mountaintop
 mountaintops
 mountainy
+mountebanked
 mountebankeries
 mountebankery
 mountebanking
@@ -78226,6 +78244,7 @@ networks
 neuk
 neuks
 neum
+neume
 neumes
 neumic
 neums
@@ -83372,6 +83391,7 @@ outpatients
 outpeople
 outpeoples
 outpeopling
+outperform
 outperformed
 outperforming
 outperforms
@@ -86497,6 +86517,7 @@ parbuckled
 parbuckles
 parceled
 parceling
+parcelled
 parcelling
 parcels
 parcenaries
@@ -90885,6 +90906,7 @@ plaudit
 plaudits
 plausibilities
 plausibility
+plausible
 plausibleness
 plausiblenesses
 plausibly
@@ -91884,6 +91906,7 @@ polyols
 polyoma
 polyomas
 polyonymous
+polyonymy
 polyp
 polyparies
 polyparium
@@ -99396,6 +99419,7 @@ reclamations
 reclame
 reclames
 reclasp
+reclasping
 reclasps
 reclassified
 reclassify
@@ -99805,6 +99829,7 @@ recyclables
 recycle
 recycler
 recyclers
+recycles
 recycling
 red
 redacted
@@ -102926,6 +102951,7 @@ resought
 resounded
 resounds
 resourceful
+resourcefully
 resources
 resow
 resowing
@@ -109884,6 +109910,7 @@ shalier
 shaliest
 shall
 shalloons
+shallops
 shallot
 shallots
 shallow
@@ -116930,6 +116957,7 @@ stipulates
 stipulating
 stipulation
 stipulations
+stipulator
 stipulators
 stipulatory
 stir
@@ -118514,6 +118542,7 @@ subpenas
 subperiod
 subperiods
 subphase
+subphases
 subphyla
 subphylar
 subphylum
@@ -131280,6 +131309,7 @@ untame
 untamed
 untangle
 untangled
+untangles
 untangling
 untanned
 untapped
@@ -133257,6 +133287,7 @@ vervet
 vervets
 vesicae
 vesicant
+vesicants
 vesicate
 vesicates
 vesicating
@@ -136922,6 +136953,7 @@ wontedness
 wontednesses
 wonton
 wonts
+woo
 woodbind
 woodbinds
 woodbine
@@ -137049,6 +137081,7 @@ woolskins
 woolworks
 wooly
 woomera
+woomeras
 woopsed
 woopses
 woopsing
@@ -137649,6 +137682,7 @@ yarded
 yarder
 yarders
 yardland
+yardlands
 yardman
 yardmaster
 yardmasters
@@ -137952,6 +137986,7 @@ youthens
 youthful
 youthfully
 youthfulness
+youthfulnesses
 youthquake
 youthquakes
 yow
