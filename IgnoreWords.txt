@@ -1034,6 +1034,7 @@ adduction
 adductions
 adducts
 adeem
+adeemed
 adeeming
 ademption
 ademptions
@@ -2613,6 +2614,7 @@ aligning
 alignment
 alignments
 aligns
+alike
 alikeness
 aliment
 alimental
@@ -19109,6 +19111,7 @@ chaoses
 chap
 chaparrals
 chapatis
+chapattis
 chapbook
 chape
 chapeau
@@ -31624,6 +31627,7 @@ descendent
 descender
 descenders
 descendible
+descending
 descends
 descension
 descensions
@@ -43799,6 +43803,7 @@ ferrotyped
 ferrotypes
 ferrotyping
 ferrous
+ferrule
 ferruled
 ferrules
 ferruling
@@ -44189,6 +44194,7 @@ fiercer
 fiercest
 fierier
 fieriest
+fieriness
 fierinesses
 fiery
 fiesta
@@ -50891,6 +50897,7 @@ goosefishes
 goosefleshes
 goosefoot
 goosefoots
+goosegrass
 goosegrasses
 gooseherd
 gooseherds
@@ -53133,6 +53140,7 @@ halon
 halons
 haloperidol
 haloperidols
+halophile
 halophiles
 halophilic
 halophyte
@@ -55460,6 +55468,7 @@ historical
 historically
 historicalness
 historicism
+historicist
 historicists
 historicity
 historicize
@@ -56557,6 +56566,7 @@ housebreakers
 housebreaking
 housebreaks
 housebroke
+housebroken
 houseclean
 housecleaned
 housecleaning
@@ -66332,6 +66342,7 @@ later
 laterad
 lateral
 lateraled
+lateraling
 lateralization
 lateralize
 lateralized
@@ -69859,6 +69870,7 @@ maduro
 madwoman
 madwomen
 madwort
+madworts
 madzoon
 madzoons
 mae
@@ -74849,6 +74861,7 @@ mistype
 mistyped
 mistypes
 misunderstands
+misunderstood
 misunion
 misunions
 misusage
@@ -75084,6 +75097,7 @@ modesty
 modi
 modica
 modicum
+modifiabilities
 modifiability
 modification
 modifications
@@ -77827,6 +77841,7 @@ nautches
 nautical
 nautically
 nautiloid
+nautiluses
 navaid
 navaids
 naval
@@ -79000,6 +79015,7 @@ nobly
 nobodies
 nobody
 nobs
+nocent
 nociceptive
 nock
 nocking
@@ -80993,6 +81009,7 @@ obelised
 obelises
 obelising
 obelisk
+obelisms
 obelize
 obelized
 obelizes
@@ -82060,6 +82077,7 @@ oozy
 op
 opacified
 opacifier
+opacifiers
 opacifies
 opacify
 opacifying
@@ -85063,6 +85081,7 @@ overservices
 overservicing
 overset
 oversets
+oversewed
 oversewing
 oversews
 oversexed
@@ -89187,6 +89206,7 @@ phenological
 phenologically
 phenologies
 phenology
+phenolphthalein
 phenomena
 phenomenal
 phenomenalism
@@ -101121,6 +101141,7 @@ rehammers
 rehandle
 rehandled
 rehandling
+rehang
 rehanged
 rehanging
 rehardening
@@ -104841,6 +104862,7 @@ rivages
 rival
 rivaled
 rivaling
+rivalries
 rivalrous
 rivalry
 rivals
@@ -106094,6 +106116,7 @@ sackings
 sacklike
 sacks
 sacksful
+saclike
 sacque
 sacques
 sacral
@@ -109955,6 +109978,7 @@ sextains
 sextans
 sextant
 sextarii
+sextarius
 sextet
 sextette
 sextettes
@@ -113986,6 +114010,7 @@ soliloquising
 soliloquist
 soliloquists
 soliloquized
+soliloquizer
 soliloquizers
 solion
 solions
@@ -116161,6 +116186,7 @@ stactes
 staddle
 stade
 stades
+stadia
 stadias
 stadium
 stadiums
@@ -117564,6 +117590,7 @@ strait
 straiten
 straitened
 straitening
+straitens
 straiter
 straitest
 straitjacket
@@ -118888,6 +118915,7 @@ subskills
 subsocial
 subsocieties
 subsociety
+subsoil
 subsoiled
 subsoiler
 subsoilers
@@ -120665,6 +120693,7 @@ swearer
 swearers
 swearing
 swearword
+sweatband
 sweatbox
 sweated
 sweater
@@ -122735,6 +122764,7 @@ telescopes
 telescopic
 telescopies
 telescoping
+teleses
 teleshop
 teleshopping
 teleshops
@@ -126576,6 +126606,7 @@ treillage
 trekker
 trekking
 trellised
+trellises
 trellising
 trellisworks
 trematode
@@ -127065,6 +127096,7 @@ triplicate
 triplicated
 triplicates
 triplicating
+triplication
 triplications
 triplicities
 triplicity
@@ -128859,6 +128891,7 @@ unasked
 unassailability
 unassailably
 unassayed
+unassertive
 unassertively
 unassimilable
 unassimilated
@@ -130529,6 +130562,7 @@ unitizers
 unitizing
 unitrust
 unitrusts
+univalent
 univalents
 univalved
 univalves
@@ -134780,6 +134814,7 @@ wagged
 wagger
 waggeries
 waggers
+waggery
 waggish
 waggishnesses
 waggle
