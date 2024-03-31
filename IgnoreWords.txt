@@ -2263,6 +2263,7 @@ airshed
 airships
 airshow
 airshows
+airsickness
 airsicknesses
 airspace
 airspaces
@@ -10353,6 +10354,7 @@ belga
 belgas
 belie
 belied
+beliefs
 belier
 beliers
 believabilities
@@ -17640,6 +17642,7 @@ carrousels
 carrs
 carry
 carryall
+carryalls
 carryback
 carrybacks
 carryforward
@@ -18124,6 +18127,7 @@ catholicoi
 catholicon
 catholicos
 catholicoses
+catholics
 cathouse
 cathouses
 cationically
@@ -18154,6 +18158,7 @@ catrigged
 cats
 catspaws
 catsuits
+cattaloes
 cattalos
 catted
 catteries
@@ -21873,6 +21878,7 @@ coastguardsman
 coastguardsmen
 coasting
 coastland
+coastlands
 coastline
 coastlines
 coastward
@@ -23823,6 +23829,7 @@ concoct
 concocter
 concocting
 concoction
+concoctive
 concoctor
 concoctors
 concocts
@@ -30519,6 +30526,7 @@ dehumanize
 dehumanized
 dehumanizes
 dehumidified
+dehumidifier
 dehumidifiers
 dehumidifies
 dehumidifying
@@ -45562,6 +45570,7 @@ flubbing
 flubdub
 flubdubs
 flubs
+fluctuant
 fluctuated
 fluctuates
 fluctuating
@@ -47705,6 +47714,7 @@ fullam
 fullback
 fullbacks
 fullblood
+fullbloods
 fulled
 fuller
 fullered
@@ -52003,6 +52013,7 @@ grovel
 groveled
 groveler
 grovelers
+groveless
 grovelled
 groveller
 grovellers
@@ -53941,6 +53952,7 @@ hazers
 hazes
 haziest
 hazily
+haziness
 hazinesses
 hazing
 hazmat
@@ -57845,6 +57857,7 @@ iconologies
 iconology
 iconoscope
 iconoscopes
+iconostases
 iconostasis
 icons
 icosahedra
@@ -65101,6 +65114,7 @@ knawel
 knawels
 knead
 kneadable
+kneaded
 kneader
 kneading
 kneads
@@ -69209,6 +69223,7 @@ luging
 lugs
 lugsails
 lugubrious
+lugubriousness
 lugworm
 lukewarm
 lukewarmly
@@ -71105,6 +71120,7 @@ masons
 masquer
 masquerade
 masquerader
+masqueraders
 masquerades
 masquerading
 masquers
@@ -75336,6 +75352,7 @@ mongeese
 monger
 mongered
 mongering
+mongers
 mongoes
 mongol
 mongolian
@@ -75382,6 +75399,7 @@ monkeypot
 monkeypots
 monkeyshines
 monkfish
+monkfishes
 monkhood
 monkhoods
 monkish
@@ -80036,6 +80054,7 @@ nonsalable
 nonsaline
 nonsaponifiable
 nonscheduled
+nonschool
 nonscience
 nonsciences
 nonscientific
@@ -82453,6 +82472,7 @@ organometallic
 organometallics
 organon
 organons
+organosol
 organosols
 organs
 organum
@@ -84853,6 +84873,7 @@ overplanting
 overplants
 overplayed
 overplaying
+overplays
 overplot
 overplots
 overplotted
@@ -91476,6 +91497,7 @@ plyometric
 plyometrics
 plywoods
 pneuma
+pneumas
 pneumatic
 pneumatically
 pneumaticity
@@ -92874,6 +92896,7 @@ potteringly
 potters
 pottery
 pottier
+potties
 pottiest
 pottiness
 pottinesses
@@ -94908,6 +94931,7 @@ procedures
 proceed
 proceeded
 proceeders
+proceeding
 proceedings
 procercoid
 procercoids
@@ -100418,6 +100442,7 @@ reencountered
 reencounters
 reendowed
 reendows
+reenergize
 reenergizes
 reenergizing
 reenforces
@@ -102171,6 +102196,7 @@ repatriations
 repatterning
 repave
 repaved
+repaves
 repaving
 repay
 repayable
@@ -116332,6 +116358,7 @@ stanol
 stanols
 stanza
 stanzaed
+stanzaic
 stapedectomies
 stapedectomy
 stapedes
@@ -117801,6 +117828,7 @@ stringed
 stringencies
 stringency
 stringent
+stringently
 stringers
 stringhalt
 stringhalts
@@ -121269,6 +121297,7 @@ synthpops
 synths
 syntonies
 syntony
+synurae
 sypher
 syphered
 syphering
@@ -121364,6 +121393,7 @@ tablas
 tablature
 table
 tableau
+tableaus
 tableaux
 tablecloth
 tabled
@@ -123602,6 +123632,7 @@ theologizes
 theologizing
 theologs
 theologue
+theologues
 theology
 theonomies
 theonomous
@@ -128402,6 +128433,7 @@ uglification
 uglifications
 uglified
 uglifier
+uglifiers
 uglifies
 uglify
 uglifying
@@ -134552,6 +134584,7 @@ vulcanisation
 vulcanisations
 vulcanise
 vulcanises
+vulcanising
 vulcanism
 vulcanisms
 vulcanite
@@ -136928,6 +136961,7 @@ withe
 wither
 witherer
 witherers
+withering
 witheringly
 witherites
 withhold
@@ -138083,6 +138117,7 @@ yodeller
 yodellers
 yodelling
 yodels
+yodh
 yodhs
 yodle
 yodled
