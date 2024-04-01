@@ -936,6 +936,7 @@ acutance
 acutances
 acute
 acutely
+acuteness
 acutenesses
 acutes
 acutest
@@ -2056,6 +2057,7 @@ agonizing
 agonizingly
 agons
 agora
+agorae
 agoraphobes
 agoraphobia
 agoraphobias
@@ -3094,6 +3096,7 @@ altoists
 altostratus
 altruisms
 altruist
+altruistic
 altruistically
 aludel
 alula
@@ -13852,6 +13855,7 @@ bowler
 bowlers
 bowless
 bowlful
+bowlike
 bowlines
 bowling
 bowlings
@@ -16893,6 +16897,7 @@ cannulas
 cannulate
 cannulated
 cannulates
+cannulating
 canoe
 canoeable
 canoed
@@ -18463,6 +18468,7 @@ cedillas
 ceding
 cedis
 cedula
+cedulas
 cee
 cees
 ceibas
@@ -20664,6 +20670,7 @@ churns
 churr
 churrigueresque
 churring
+churro
 churros
 churrs
 chute
@@ -27811,6 +27818,7 @@ crusty
 crutch
 crutched
 crutching
+cruxes
 cruzado
 cruzados
 cruzeiro
@@ -28552,6 +28560,7 @@ cutlas
 cutlases
 cutlass
 cutlasses
+cutler
 cutleries
 cutlers
 cutlery
@@ -32450,6 +32459,7 @@ dextran
 dextranase
 dextranases
 dextrans
+dextrin
 dextrine
 dextrins
 dextro
@@ -37474,6 +37484,7 @@ edge
 edged
 edger
 edgers
+edgier
 edgiest
 edgily
 edginesses
@@ -41232,6 +41243,7 @@ eutherian
 eutherians
 euthyroid
 eutrophications
+eutrophies
 eutrophy
 euxenites
 evacuant
@@ -42364,6 +42376,7 @@ extenuating
 extenuation
 extenuator
 extenuatory
+exterior
 exteriorise
 exteriorised
 exteriorises
@@ -43755,6 +43768,7 @@ felicitous
 felicitously
 felicitousness
 felicity
+felids
 feline
 felinely
 felines
@@ -43891,6 +43905,7 @@ fenniest
 fenny
 fentanyl
 fentanyls
+fenthion
 fenthions
 fenugreek
 fenugreeks
@@ -46004,6 +46019,7 @@ flypapers
 flypast
 flypasts
 flyrodders
+flysches
 flysheet
 flysheets
 flyspecked
@@ -65632,6 +65648,7 @@ korats
 korma
 kormas
 kors
+koruna
 korunas
 koruny
 kos
@@ -75974,6 +75991,7 @@ monosteles
 monostelic
 monostelies
 monostich
+monostichs
 monostome
 monosyllabic
 monosyllabicity
@@ -78212,6 +78230,7 @@ naysaid
 naysayer
 naysayers
 naysaying
+naysays
 nazi
 nazifications
 nazified
@@ -81601,6 +81620,7 @@ obtected
 obtest
 obtesting
 obtests
+obtrude
 obtruded
 obtruders
 obtrudes
@@ -81751,6 +81771,7 @@ octagons
 octahedra
 octahedral
 octahedrally
+octahedron
 octahedrons
 octal
 octameter
@@ -85356,6 +85377,7 @@ overreachers
 overreaches
 overreaching
 overreact
+overreacted
 overreacting
 overreaction
 overreactions
@@ -86505,6 +86527,7 @@ pancaked
 pancakes
 pancaking
 pancetta
+panchax
 panchromatic
 pancratia
 pancratic
@@ -87393,6 +87416,7 @@ partyer
 partyers
 partygoer
 partygoers
+partying
 parura
 parure
 parures
@@ -87610,6 +87634,7 @@ patchworks
 patchy
 pate
 pated
+patellae
 patellas
 patellate
 patelliform
@@ -97807,6 +97832,7 @@ quaker
 quakers
 quakes
 quakier
+quakiest
 quakily
 quakinesses
 quakingly
@@ -98138,6 +98164,7 @@ quince
 quincentenaries
 quincentenary
 quincentennial
+quincentennials
 quinces
 quincuncial
 quincunx
@@ -102497,6 +102524,7 @@ renminbi
 rennases
 rennet
 rennets
+rennin
 rennins
 renogram
 renographic
@@ -106942,6 +106970,7 @@ salsa
 salsas
 salsifies
 salsilla
+salsillas
 salt
 saltarello
 saltarellos
@@ -108106,6 +108135,7 @@ scheduled
 scheduler
 schedulers
 schedules
+scheduling
 scheelite
 schema
 schemas
@@ -112385,6 +112415,7 @@ sirocco
 siroccos
 sirra
 sirrah
+sirrahs
 sirras
 sirree
 sirrees
@@ -119143,6 +119174,7 @@ sublets
 subletting
 sublevel
 sublevels
+sublibrarian
 sublicense
 sublicensed
 sublicenses
@@ -122983,6 +123015,7 @@ tearing
 tearjerker
 tearoom
 tears
+tearstain
 tearstained
 tearstains
 tearstrip
@@ -124853,6 +124886,7 @@ thumbscrew
 thumbscrews
 thumbtacked
 thumbtacking
+thumbtacks
 thumbwheels
 thump
 thumper
@@ -125775,6 +125809,7 @@ tonelessness
 tonelessnesses
 toneme
 toners
+tones
 tonetic
 tonetics
 tonette
