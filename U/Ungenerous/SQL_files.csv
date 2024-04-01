@@ -4,3 +4,7 @@ admin panel,http://185.14.187.205:84/login/administrator/%2522plog/page.cfm/db.s
 Index,http://37.235.48.144:5984/mysql.sql
 mywebftp,http://151.236.18.54:9200/login/wp-mail.php/mysqldump.sql
 Remote Desktop Web Connection,http://139.59.45.243:9090/login/inc/header.php/editor/inc/default.asp/8888.sql
+Gateway Configuration Menu,http://193.182.144.36:7547/login.gch/sql.sql
+phpinfo(),http://54.37.17.101:83/login-redirect/aol/_do/vsadmin/8888..sql
+Terminal Services Web Connection,http://193.182.144.36:8083/login.gch/users.sql
+Index,http://54.37.17.101:83/login-redirect/sources/sources/8888..sql

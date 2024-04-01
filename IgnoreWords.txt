@@ -510,6 +510,7 @@ accuracy
 accurate
 accurately
 accurateness
+accursed
 accursedly
 accursedness
 accursednesses
@@ -2126,6 +2127,7 @@ aguacates
 ague
 agueweed
 aguish
+aguishly
 ah
 aha
 ahead
@@ -5932,6 +5934,7 @@ archduchess
 archduchies
 archdukedoms
 archean
+arched
 archegonia
 archegonial
 archegoniate
@@ -9896,6 +9899,7 @@ beclogged
 beclogging
 beclogs
 beclothe
+beclothes
 beclothing
 becloud
 beclouded
@@ -12875,6 +12879,7 @@ boarish
 boars
 boas
 boast
+boasted
 boaster
 boasters
 boastful
@@ -19846,6 +19851,7 @@ chiefs
 chiefships
 chieftain
 chieftaincies
+chieftains
 chieftainship
 chieftainships
 chiel
@@ -26654,6 +26660,7 @@ coverslips
 covert
 covertly
 covertness
+covertnesses
 coverts
 coverture
 covertures
@@ -32145,6 +32152,7 @@ determents
 determinable
 determinably
 determinacy
+determinantal
 determinants
 determinately
 determinateness
@@ -32886,6 +32894,7 @@ dictyostele
 dictyosteles
 dicumarol
 dicumarols
+dicyclic
 dicyclies
 dicynodonts
 did
@@ -40436,6 +40445,7 @@ eremites
 eremitical
 eremitish
 eremitisms
+eremuri
 eremurus
 erepsin
 erethic
@@ -40914,6 +40924,7 @@ eternities
 eternity
 eternizations
 eternize
+eternized
 eternizes
 eternizing
 etesians
@@ -48187,6 +48198,7 @@ furmety
 furmity
 furnace
 furnaces
+furnacing
 furnished
 furnishers
 furnishes
@@ -53664,6 +53676,7 @@ hanging
 hangings
 hangman
 hangmen
+hangnail
 hangnails
 hangnests
 hangout
@@ -66312,6 +66325,7 @@ landaus
 landers
 landfall
 landfalls
+landfill
 landfilled
 landfills
 landform
@@ -79771,6 +79785,7 @@ nonconcerns
 nonconclusion
 nonconclusions
 nonconcur
+nonconcurred
 nonconcurrence
 nonconcurrences
 nonconcurrent
@@ -81537,6 +81552,7 @@ obnubilate
 obnubilated
 obnubilates
 obnubilation
+obnubilations
 oboe
 oboist
 oboists
@@ -89049,6 +89065,7 @@ permanences
 permanencies
 permanent
 permanently
+permanentness
 permanentnesses
 permanents
 permanganates
@@ -90340,6 +90357,7 @@ picayunes
 picayunish
 piccalilli
 piccalillis
+piccata
 piccolo
 piccoloist
 piccolos
@@ -91052,6 +91070,7 @@ pissoirs
 pistache
 pistaches
 pistachio
+pistareen
 pistareens
 piste
 pistes
@@ -92676,6 +92695,7 @@ pommels
 pommies
 pommy
 pomo
+pomologist
 pomologists
 pomology
 pomp
@@ -92760,6 +92780,7 @@ poof
 poofs
 pooftahs
 poofter
+poofters
 poofy
 pooh
 poohing
@@ -100279,6 +100300,7 @@ reconditioning
 reconduct
 reconducted
 reconferred
+reconferring
 reconfigure
 reconfigured
 reconfined
@@ -101357,6 +101379,7 @@ reframes
 refrangibility
 refrangibleness
 refreeze
+refreezes
 refreezing
 refreshed
 refreshen
@@ -102021,6 +102044,7 @@ rekeyboards
 rekeying
 rekeys
 rekindled
+rekindles
 rekindling
 reknits
 reknitted
@@ -107504,6 +107528,7 @@ sarcosomal
 sarcosome
 sarcous
 sard
+sardana
 sardanas
 sardar
 sardars
@@ -112020,6 +112045,7 @@ sigmate
 sigmoid
 sigmoidal
 sigmoidoscopies
+sigmoidoscopy
 sigmoids
 sign
 signa
@@ -112063,6 +112089,7 @@ significant
 significations
 significative
 significs
+signified
 signifieds
 signifiers
 signify
@@ -113637,6 +113664,7 @@ smerked
 smerking
 smerks
 smew
+smews
 smidge
 smidgeon
 smidgeons
@@ -114481,6 +114509,7 @@ soldans
 solder
 solderabilities
 solderability
+soldered
 solderer
 solderers
 soldering
@@ -117468,6 +117497,7 @@ sterculia
 stereo
 stereochemical
 stereochemistry
+stereoed
 stereograph
 stereographing
 stereographs
@@ -130211,6 +130241,7 @@ underbudding
 underbuds
 underbuying
 undercard
+undercarriage
 undercharge
 undercharged
 undercharges
@@ -130283,6 +130314,7 @@ underfunding
 underfunds
 underfurs
 undergarment
+undergarments
 undergird
 undergirded
 undergirding
@@ -130879,6 +130911,7 @@ ungarbed
 ungated
 ungenerosities
 ungenerosity
+ungenerous
 ungenerously
 ungenteel
 ungentle
@@ -134798,6 +134831,7 @@ viscerally
 viscid
 viscidities
 viscoelastic
+viscoid
 viscoidal
 viscometer
 viscometers
@@ -136053,6 +136087,7 @@ waterily
 watering
 waterings
 waterishness
+waterishnesses
 waterjet
 waterjets
 waterleaf
