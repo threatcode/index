@@ -67,6 +67,7 @@ abruptest
 abruption
 abruptions
 abruptly
+abruptness
 abruptnesses
 abscess
 abscesses
@@ -2110,6 +2111,7 @@ agriculturists
 agrimonies
 agrimony
 agrochemical
+agroforester
 agroforesters
 agroforestries
 agroforestry
@@ -6740,6 +6742,7 @@ assaying
 assays
 assegaied
 assemblage
+assemblages
 assemblagist
 assemblagists
 assemble
@@ -16808,6 +16811,7 @@ candlenut
 candlepower
 candlepowers
 candler
+candlers
 candles
 candlesnuffer
 candlesnuffers
@@ -40237,6 +40241,7 @@ epithelia
 epithelial
 epithelialize
 epithelialized
+epithelializes
 epithelializing
 epithelioma
 epitheliomas
@@ -43238,6 +43243,7 @@ fantasticality
 fantastically
 fantasticalness
 fantasticate
+fantasticated
 fantasticating
 fantastication
 fantastico
@@ -45674,6 +45680,7 @@ flocculates
 flocculating
 flocculations
 flocculator
+flocculators
 flocculent
 floccules
 flocculus
@@ -47433,6 +47440,7 @@ freewheeling
 freewheelingly
 freewill
 freewrite
+freewrites
 freewritings
 freewritten
 freewrote
@@ -56155,6 +56163,7 @@ homeopathies
 homeopaths
 homeopathy
 homeostases
+homeostasis
 homeostatic
 homeotherm
 homeothermic
@@ -58862,6 +58871,7 @@ immuring
 immutabilities
 immutable
 immutableness
+immutably
 immy
 imp
 impact
@@ -58962,6 +58972,7 @@ impearls
 impeccability
 impeccably
 impeccant
+impecuniosities
 impecuniosity
 impecunious
 impecuniously
@@ -59510,6 +59521,7 @@ incaging
 incalculability
 incalculably
 incalescences
+incalescent
 incandesce
 incandesced
 incandescence
@@ -61860,6 +61872,7 @@ interlocal
 interlock
 interlocked
 interlocking
+interlocks
 interlocutor
 interlocutory
 interlooped
@@ -66804,6 +66817,7 @@ latrine
 latrines
 lats
 latte
+latten
 lattens
 latter
 latterly
@@ -67722,6 +67736,7 @@ lewisite
 lewisites
 lewissons
 lex
+lexemes
 lexemic
 lexes
 lexica
@@ -68362,6 +68377,7 @@ linotypers
 lins
 linsang
 linsangs
+linseed
 linseeds
 linseys
 linstock
@@ -68485,6 +68501,7 @@ liquored
 liquorice
 liquorices
 liquoring
+liquorish
 lira
 liras
 lire
@@ -76969,6 +76986,7 @@ mueslis
 muezzin
 muezzins
 muffed
+muffin
 muffineer
 muffing
 muffins
@@ -81606,6 +81624,7 @@ obloquies
 obloquy
 obnoxiously
 obnoxiousness
+obnoxiousnesses
 obnubilate
 obnubilated
 obnubilates
@@ -82486,6 +82505,7 @@ ontological
 ontologies
 ontologists
 ontology
+onus
 onuses
 onward
 onwards
@@ -93614,6 +93634,7 @@ pozzolanic
 pozzolans
 praam
 praams
+practicability
 practicableness
 practicably
 practical
@@ -101989,6 +102010,7 @@ reinsurances
 reinsure
 reinsurers
 reinsures
+reinsuring
 reintegrate
 reintegrates
 reintegrating
@@ -102869,6 +102891,7 @@ repaves
 repaving
 repay
 repayable
+repaying
 repayment
 repayments
 repealable
@@ -104902,6 +104925,7 @@ rheumatically
 rheumatics
 rheumatism
 rheumatiz
+rheumatoid
 rheumatologists
 rheumatology
 rheumier
@@ -105334,6 +105358,7 @@ rinded
 rinderpest
 rindless
 rinds
+ring
 ringbark
 ringbarking
 ringbarks
@@ -105413,6 +105438,7 @@ ripple
 rippled
 rippler
 ripplers
+ripples
 ripplets
 ripplier
 rippliest
@@ -116995,6 +117021,7 @@ stake
 staked
 stakeholder
 stakeholders
+stakeout
 stakeouts
 stakes
 stalactite
@@ -117324,6 +117351,7 @@ stavudine
 stavudines
 staw
 stay
+stayed
 stayer
 stayers
 staying
@@ -119433,6 +119461,7 @@ submissiveness
 submit
 submits
 submittal
+submittals
 submitter
 submitters
 submitting
@@ -120459,6 +120488,7 @@ supercharging
 superchic
 superchurch
 superchurches
+superciliary
 supercilious
 superciliously
 supercities
@@ -122578,6 +122608,7 @@ talukas
 taluks
 talus
 taluses
+tamable
 tamal
 tamale
 tamals
@@ -123320,6 +123351,7 @@ teeming
 teemingly
 teemingness
 teen
+teenaged
 teenagers
 teeners
 teenful
@@ -126045,6 +126077,7 @@ tonsillitis
 tonsillitises
 tonsils
 tonsorial
+tonsure
 tonsured
 tonsures
 tontine
@@ -136111,6 +136144,7 @@ wastelots
 wastepaper
 wastepapers
 wasters
+wastes
 wastewater
 wastewaters
 wasteway
@@ -136821,6 +136855,7 @@ whapped
 whapper
 whappers
 whaps
+wharfage
 wharfages
 wharfed
 wharfinger
