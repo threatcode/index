@@ -2603,6 +2603,7 @@ alieners
 aliening
 alienism
 alienisms
+alienist
 alienists
 alienly
 alienness
@@ -6514,6 +6515,7 @@ ascendable
 ascendance
 ascendancies
 ascendant
+ascendantly
 ascendants
 ascended
 ascendence
@@ -6683,6 +6685,7 @@ aspics
 aspidistras
 aspirant
 aspirants
+aspirata
 aspiratae
 aspirate
 aspirated
@@ -7337,6 +7340,7 @@ auburns
 auction
 auctioned
 auctioneers
+auctions
 aucuba
 aucubas
 audacious
@@ -9600,6 +9604,7 @@ battue
 battues
 batty
 batwing
+baubee
 baubees
 bauble
 baudekin
@@ -11256,6 +11261,7 @@ biddy
 bide
 bided
 bidental
+bidentate
 bider
 bides
 bidet
@@ -16044,6 +16050,7 @@ cabstand
 cabstands
 cacaos
 cacas
+cacciatore
 cachalot
 cachalots
 cache
@@ -20014,6 +20021,7 @@ chirkest
 chirking
 chirks
 chirmed
+chirming
 chiro
 chirographer
 chirographers
@@ -27091,6 +27099,7 @@ creators
 creatural
 creaturehood
 creaturehoods
+creatureliness
 creaturely
 creatures
 creches
@@ -28547,6 +28556,7 @@ cutline
 cutlines
 cutoffs
 cutout
+cutouts
 cutover
 cutovers
 cutpurse
@@ -28970,6 +28980,7 @@ daffed
 daffier
 daffiest
 daffiness
+daffinesses
 daffing
 daffodil
 daffs
@@ -31262,6 +31273,7 @@ denounced
 denouncement
 denouncements
 denouncer
+denouncers
 denounces
 dens
 dense
@@ -35590,6 +35602,7 @@ dote
 doted
 dotes
 dotier
+dotiest
 doting
 dotingly
 dotted
@@ -40086,6 +40099,7 @@ epiphytology
 epiphytotic
 epiphytotics
 epirogenies
+epirogeny
 episcia
 episcias
 episcopacies
@@ -46316,6 +46330,7 @@ footrace
 footraces
 footrest
 footrests
+footrope
 footropes
 footsie
 footsies
@@ -59493,6 +59508,7 @@ incinerated
 incinerates
 incineration
 incinerations
+incinerator
 incinerators
 incipience
 incipiencies
@@ -62384,6 +62400,7 @@ inveigle
 inveiglement
 inveigler
 inveiglers
+inveigles
 inveigling
 invent
 invented
@@ -70358,6 +70375,7 @@ mainspring
 mainstay
 mainstays
 mainstreamed
+mainstreaming
 mainstreams
 maintain
 maintainability
@@ -83225,6 +83243,7 @@ otalgias
 otalgic
 otalgies
 otalgy
+other
 otherguess
 otherness
 othernesses
@@ -84999,6 +85018,7 @@ overhoped
 overhopes
 overhot
 overhung
+overhunt
 overhunted
 overhunting
 overhuntings
@@ -89918,6 +89938,7 @@ photonic
 photonics
 photons
 photonuclear
+photooxidation
 photooxidations
 photooxidative
 photooxidize
@@ -93736,6 +93757,7 @@ prechooses
 prechoosing
 prechosen
 precieuse
+precieux
 precinct
 precincts
 preciosities
@@ -97452,6 +97474,7 @@ pyins
 pyjama
 pyjamas
 pyknics
+pyknoses
 pyknosis
 pyknotic
 pylon
@@ -99605,6 +99628,7 @@ reattained
 reattaining
 reattains
 reattempt
+reattempts
 reattribute
 reattributed
 reattributes
@@ -100181,6 +100205,7 @@ reconsecrate
 reconsecrated
 reconsecrates
 reconsecrating
+reconsecration
 reconsecrations
 reconsider
 reconsideration
@@ -104755,6 +104780,7 @@ rhymed
 rhymer
 rhymes
 rhymester
+rhymesters
 rhyming
 rhyolite
 rhyolites
@@ -105015,6 +105041,7 @@ rigidified
 rigidifies
 rigidify
 rigidifying
+rigidities
 rigidity
 rigidly
 rigidness
@@ -107686,6 +107713,7 @@ sawhorses
 sawing
 sawlike
 sawlog
+sawlogs
 sawmill
 sawmills
 sawn
@@ -108660,6 +108688,7 @@ scriptoria
 scriptorium
 scripts
 scriptural
+scripturally
 scriptwriter
 scriptwriters
 scrive
@@ -118160,6 +118189,7 @@ strawy
 stray
 strayed
 strayer
+strayers
 straying
 strays
 streak
@@ -125241,6 +125271,7 @@ tinpot
 tins
 tinsel
 tinseling
+tinselled
 tinselling
 tinselly
 tinsels
@@ -128833,6 +128864,7 @@ typescript
 typescripts
 typeset
 typesets
+typesetter
 typesetters
 typesetting
 typestyles
@@ -134089,6 +134121,7 @@ vestiary
 vestibule
 vestibuled
 vestibules
+vestibuling
 vestige
 vestiges
 vestigia
@@ -134802,6 +134835,7 @@ vivariums
 vivas
 vive
 viverrid
+viverrids
 viverrine
 vivers
 vivid
@@ -136284,6 +136318,7 @@ weighable
 weighed
 weigher
 weighman
+weighmen
 weighs
 weight
 weighted
