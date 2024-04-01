@@ -7,3 +7,5 @@ Spell.sql - cmangos/mangos-classic - GitHub,https://github.com/cmangos/mangos-cl
 www.lrjj.cn/crm1.0/public/backup/20140319153115_al...,http://www.lrjj.cn/crm1.0/public/backup/20140319153115_all_v1.sql
 https://www.hellspark.com/dm/gaming/enb/net7/Net7/...,https://www.hellspark.com/dm/gaming/enb/net7/Net7/trunk/database/Database%2520(03-08).sql
 robotlaw.sql - ServoyForge,https://www.servoyforge.net/attachments/download/332/robotlaw.sql
+http://svn.expressolivre.org/contrib/davical/dba/r...,http://svn.expressolivre.org/contrib/davical/dba/rrule_functions-8.1.sql
+core/sql/migrations/20231121204641_world.sql at development,https://github.com/vmangos/core/blob/development/sql/migrations/20231121204641_world.sql
