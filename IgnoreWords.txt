@@ -1643,6 +1643,7 @@ affable
 affably
 affair
 affairs
+affectabilities
 affectable
 affectation
 affectations
@@ -9314,6 +9315,7 @@ barrenest
 barrenness
 barrennesses
 barres
+barret
 barretor
 barretors
 barretry
@@ -14670,6 +14672,7 @@ bro
 broach
 broached
 broacher
+broaches
 broad
 broadband
 broadbands
@@ -17052,6 +17055,7 @@ cantrap
 cantraps
 cantrip
 cantrips
+cants
 cantus
 canula
 canular
@@ -19894,6 +19898,7 @@ chid
 chidden
 chiders
 chides
+chidingly
 chief
 chiefdoms
 chiefer
@@ -22092,6 +22097,7 @@ coaxingly
 cob
 cobalamin
 cobalamins
+cobaltic
 cobaltines
 cobaltite
 cobaltites
@@ -37284,6 +37290,7 @@ earthmovers
 earthmovings
 earthnut
 earthnuts
+earthquakes
 earthrise
 earthrises
 earthsets
@@ -40112,6 +40119,7 @@ epicotyl
 epicotyls
 epicrania
 epicritic
+epicureanism
 epicureanisms
 epicureans
 epicures
@@ -41377,6 +41385,7 @@ euthenists
 eutherian
 eutherians
 euthyroid
+eutrophic
 eutrophications
 eutrophies
 eutrophy
@@ -56123,6 +56132,7 @@ holed
 holeless
 holes
 holey
+holibuts
 holiday
 holidayed
 holidayers
@@ -59739,6 +59749,7 @@ incinerator
 incinerators
 incipience
 incipiencies
+incipiency
 incipient
 incipiently
 incipit
@@ -63777,6 +63788,7 @@ jazzer
 jazzers
 jazzes
 jazzier
+jazzily
 jazziness
 jazzinesses
 jazzing
@@ -65639,6 +65651,7 @@ knars
 knaur
 knave
 knavery
+knaves
 knavish
 knavishly
 knawel
@@ -67774,6 +67787,7 @@ leukopoietic
 leukorrhea
 leukorrheal
 leukorrheas
+leukoses
 leukosis
 leukotomies
 leukotriene
@@ -72551,6 +72565,7 @@ meliorations
 meliorator
 meliorators
 meliorism
+meliorisms
 melioristic
 meliorists
 melisma
@@ -73219,6 +73234,7 @@ metaphase
 metaphor
 metaphoric
 metaphorical
+metaphorically
 metaphors
 metaphosphate
 metaphosphates
@@ -74821,6 +74837,7 @@ misdrives
 misdriving
 mise
 miseases
+miseat
 miseaten
 miseats
 misedit
@@ -75356,6 +75373,7 @@ mist
 mistakable
 mistaken
 mistakenly
+mistaker
 mistakers
 mistakes
 mistaking
@@ -79108,6 +79126,7 @@ neurotic
 neuroticisms
 neurotics
 neurotomies
+neurotomy
 neurotoxic
 neurotoxicities
 neurotoxicity
@@ -80979,6 +80998,7 @@ nor
 noradrenalin
 noradrenaline
 noradrenalines
+noradrenalins
 noradrenergic
 nordic
 nori
@@ -86890,6 +86910,7 @@ panfish
 panfishes
 panfried
 panfry
+panfrying
 panful
 panfuls
 pang
@@ -94763,6 +94784,7 @@ preobtain
 preobtained
 preobtaining
 preobtains
+preoccupancies
 preoccupancy
 preoccupation
 preoccupations
@@ -99643,6 +99665,7 @@ ravin
 ravine
 ravined
 ravines
+raving
 ravingly
 ravings
 ravining
@@ -99821,6 +99844,7 @@ reaffixes
 reaffixing
 reafforest
 reafforestation
+reafforested
 reafforests
 reagent
 reagents
@@ -102434,6 +102458,7 @@ relents
 reletter
 relettered
 relettering
+reletters
 relevance
 relevancies
 relevancy
@@ -106184,6 +106209,7 @@ roshi
 roshis
 rosily
 rosin
+rosined
 rosiness
 rosing
 rosining
@@ -111109,6 +111135,7 @@ shampooed
 shampooer
 shampooing
 shampoos
+shamrock
 shamrocks
 shamus
 shamuses
@@ -113100,6 +113127,7 @@ skill
 skilled
 skilless
 skillessness
+skillessnesses
 skillet
 skillets
 skillfully
@@ -113909,6 +113937,7 @@ smallnesses
 smallpox
 smallpoxes
 smalls
+smallsword
 smallswords
 smalltime
 smalti
@@ -116633,6 +116662,7 @@ sporozoans
 sporozoic
 sporozoite
 sporozoites
+sporran
 sport
 sported
 sporter
@@ -126020,6 +126050,7 @@ toasty
 tobaccoes
 tobacconist
 tobacconists
+tobaccos
 tobies
 toboggan
 tobogganed
@@ -135794,6 +135825,7 @@ vulgarizations
 vulgarize
 vulgarizer
 vulgarizers
+vulgarizing
 vulgars
 vulgate
 vulgo
@@ -136119,6 +136151,7 @@ wamblier
 wambliest
 wame
 wamefou
+wamefous
 wameful
 wamefuls
 wames
@@ -137527,6 +137560,7 @@ wholesomer
 wholesomest
 wholism
 wholisms
+wholistic
 wholly
 whom
 whomever
@@ -139142,6 +139176,7 @@ yasmak
 yasmaks
 yatagan
 yatagans
+yataghans
 yatter
 yattered
 yattering
