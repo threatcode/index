@@ -3563,6 +3563,7 @@ amphioxuses
 amphipathic
 amphiphilic
 amphiploidies
+amphiploidy
 amphipod
 amphipods
 amphiprostyles
@@ -4770,6 +4771,7 @@ antiheroes
 antiheroic
 antiheroine
 antihijack
+antihistamine
 antihistamines
 antihistaminic
 antihistaminics
@@ -5692,6 +5694,7 @@ appropriate
 appropriated
 appropriately
 appropriateness
+appropriates
 appropriating
 appropriation
 appropriative
@@ -15343,6 +15346,7 @@ bullpen
 bullpout
 bullring
 bullrush
+bullrushes
 bulls
 bullshat
 bullshits
@@ -15383,6 +15387,7 @@ bumf
 bumfs
 bumfuzzle
 bumfuzzling
+bumkin
 bumkins
 bummalo
 bummalos
@@ -22464,6 +22469,7 @@ coenure
 coenures
 coenuri
 coenurus
+coenzymatic
 coenzymatically
 coenzyme
 coenzymes
@@ -23293,6 +23299,7 @@ commandos
 commands
 commas
 commata
+commemorated
 commemorates
 commemorating
 commemoratively
@@ -23694,6 +23701,7 @@ complicatedness
 complicates
 complicating
 complication
+complications
 complice
 complicit
 complicities
@@ -34721,6 +34729,7 @@ dissimilarities
 dissimilarity
 dissimilarly
 dissimilars
+dissimilate
 dissimilates
 dissimilating
 dissimilation
@@ -47783,6 +47792,7 @@ frivollers
 frivolling
 frivolous
 frivolously
+frivolousness
 frivolousnesses
 frivols
 frizer
@@ -50012,6 +50022,7 @@ ghettoize
 ghettoizes
 ghettoizing
 ghettos
+ghi
 ghibli
 ghiblis
 ghillies
@@ -53591,6 +53602,7 @@ halos
 halothane
 halothanes
 halt
+halter
 halterbreak
 halterbreaks
 halterbroke
@@ -58960,6 +58972,7 @@ immunization
 immunize
 immunizer
 immunizers
+immunizes
 immunizing
 immunoassay
 immunoassayable
@@ -62644,6 +62657,7 @@ invaluableness
 invar
 invariabilities
 invariable
+invariables
 invariably
 invariance
 invariances
@@ -67061,6 +67075,7 @@ lavatories
 lavatory
 lave
 laved
+laveer
 laveered
 laveering
 laveers
@@ -67732,6 +67747,7 @@ lethally
 lethals
 lethargic
 lethargically
+lethargy
 lethe
 lethean
 lethes
@@ -72325,6 +72341,7 @@ mediatrices
 mediatrix
 mediatrixes
 medic
+medicaid
 medicaids
 medical
 medically
@@ -77801,6 +77818,7 @@ muts
 mutt
 mutter
 muttered
+mutterer
 mutterers
 muttering
 muttonchops
@@ -86647,6 +86665,7 @@ paleobotany
 paleocene
 paleoecologic
 paleoecological
+paleoecologies
 paleoecologist
 paleogene
 paleogeographic
@@ -87731,6 +87750,7 @@ partitive
 partitively
 partizan
 partizans
+partlets
 partner
 partnered
 partnering
@@ -89931,6 +89951,7 @@ phelonion
 phenacaine
 phenacaines
 phenacetin
+phenacetins
 phenacite
 phenacites
 phenakite
@@ -90655,6 +90676,7 @@ piccalillis
 piccata
 piccolo
 piccoloist
+piccoloists
 piccolos
 pice
 piceous
@@ -92283,6 +92305,7 @@ plurally
 plurals
 pluripotent
 plus
+pluses
 plusher
 plushes
 plushest
@@ -97937,6 +97960,7 @@ pyorrhoea
 pyorrhoeas
 pyoses
 pyracantha
+pyracanthas
 pyralidids
 pyralids
 pyramid
@@ -98596,6 +98620,7 @@ quinquennially
 quinquennials
 quinquennium
 quinquenniums
+quins
 quinsied
 quinsies
 quinsy
@@ -115999,6 +116024,7 @@ specularly
 speculate
 speculated
 speculates
+speculating
 speculation
 speculations
 speculative
@@ -116439,6 +116465,7 @@ spitball
 spitballs
 spited
 spiteful
+spitefuller
 spitefullest
 spitefully
 spitefulnesses
@@ -117599,6 +117626,7 @@ statism
 statisms
 statist
 statistic
+statistical
 statistically
 statistician
 statisticians
@@ -119477,6 +119505,7 @@ subcultures
 subculturing
 subcurative
 subcutaneous
+subcutes
 subcutis
 subcutises
 subdeacon
@@ -122779,6 +122808,7 @@ taint
 tainting
 taintless
 taints
+taipans
 taj
 tajes
 taka
@@ -125117,6 +125147,7 @@ thistliest
 thistly
 thither
 thitherto
+thitherward
 thitherwards
 thixotropies
 thixotropy
@@ -134296,6 +134327,7 @@ veiny
 vela
 velamina
 velarization
+velarizations
 velarize
 velarized
 velarizes
@@ -135410,6 +135442,7 @@ vitellogeneses
 vitellogenesis
 vitellus
 vitelluses
+vitesse
 vitiable
 vitiate
 vitiates
@@ -137000,6 +137033,7 @@ weisenheimer
 weisenheimers
 weka
 wekas
+welch
 welched
 welcher
 welching
@@ -138349,6 +138383,7 @@ wolfberries
 wolfberry
 wolfed
 wolfer
+wolfers
 wolffish
 wolffishes
 wolfhound
