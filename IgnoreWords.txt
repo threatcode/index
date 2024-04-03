@@ -1150,6 +1150,7 @@ adjunctly
 adjuncts
 adjuration
 adjuratory
+adjure
 adjured
 adjurer
 adjurers
@@ -4857,6 +4858,7 @@ antimicrobial
 antimicrobials
 antimilitarism
 antimilitarisms
+antimilitarist
 antimilitary
 antimissile
 antimitotic
@@ -5222,6 +5224,7 @@ apagoges
 apagogic
 apanage
 apanages
+aparejo
 aparejos
 apart
 apartheid
@@ -12667,6 +12670,7 @@ bloodhounds
 bloodied
 bloodier
 bloodies
+bloodiest
 bloodily
 bloodiness
 bloodinesses
@@ -14767,6 +14771,7 @@ bro
 broach
 broached
 broacher
+broachers
 broaches
 broad
 broadband
@@ -18037,6 +18042,7 @@ caseloads
 casemate
 casement
 casements
+caserns
 casette
 casettes
 casework
@@ -25003,6 +25009,7 @@ consubstantial
 consuetude
 consuetudes
 consular
+consulate
 consulates
 consuls
 consulship
@@ -33612,6 +33619,7 @@ dinkies
 dinkly
 dinks
 dinkum
+dinned
 dinner
 dinnerless
 dinners
@@ -34821,6 +34829,7 @@ disrobers
 disrobes
 disrobing
 disroot
+disrooted
 disrooting
 disroots
 disrupt
@@ -41643,6 +41652,7 @@ evacuative
 evacuator
 evacuators
 evacuees
+evadable
 evade
 evaded
 evaders
@@ -41770,6 +41780,7 @@ evil
 evildoer
 evildoers
 evildoing
+evildoings
 eviler
 evilest
 eviller
@@ -46854,6 +46865,7 @@ forbearance
 forbearances
 forbearer
 forbearers
+forbearing
 forbears
 forbid
 forbidal
@@ -51833,6 +51845,7 @@ graduated
 graduates
 graduation
 graduator
+graduators
 gradus
 graduses
 graecize
@@ -54503,6 +54516,7 @@ hat
 hatband
 hatbands
 hatbox
+hatboxes
 hatch
 hatchability
 hatchback
@@ -54930,6 +54944,7 @@ heaths
 heathy
 heating
 heatless
+heatproof
 heats
 heatstroke
 heatstrokes
@@ -56950,6 +56965,7 @@ hoopoes
 hoopoo
 hoopoos
 hoops
+hoopskirt
 hoopskirts
 hoopster
 hoopsters
@@ -62856,6 +62872,7 @@ intromission
 intromits
 intromitted
 intromittent
+intromitter
 intromitters
 intron
 introns
@@ -65124,6 +65141,7 @@ kaolins
 kaon
 kaonic
 kaph
+kaphs
 kapok
 kapoks
 kappa
@@ -67479,6 +67497,7 @@ layabout
 layabouts
 layaway
 layaways
+layed
 layer
 layerage
 layerages
@@ -74884,6 +74903,7 @@ mirky
 mirliton
 mirlitons
 mirror
+mirroring
 mirrorlike
 mirrors
 mirs
@@ -80705,6 +80725,7 @@ nonfeminists
 nonferrous
 nonfeudal
 nonfiction
+nonfilial
 nonfilterable
 nonfinite
 nonfissionable
@@ -82631,6 +82652,7 @@ oedemas
 oedipal
 oedipally
 oedipean
+oeillade
 oenology
 oenomel
 oenophile
@@ -85013,6 +85035,7 @@ outsprang
 outspread
 outspreading
 outspreads
+outspring
 outspringing
 outsprings
 outsprint
@@ -93033,6 +93056,7 @@ pol
 polarimeter
 polarimeters
 polarimetric
+polarimetry
 polariscope
 polariscopes
 polariscopic
@@ -109570,6 +109594,7 @@ scoured
 scourger
 scourgers
 scourging
+scouring
 scourings
 scours
 scouses
@@ -111490,6 +111515,7 @@ sewerless
 sewerlike
 sewing
 sewings
+sewn
 sexagenarian
 sexagenarians
 sexagesimals
@@ -116326,6 +116352,7 @@ spangly
 spaniel
 spaniels
 spank
+spanker
 spankers
 spanking
 spankings
@@ -125074,6 +125101,7 @@ tertians
 tertiaries
 tertiary
 terylene
+terylenes
 tesla
 teslas
 tesselate
@@ -125692,6 +125720,7 @@ thingummies
 thingummy
 think
 thinkable
+thinkableness
 thinkably
 thinker
 thinking
@@ -126152,6 +126181,7 @@ thyratrons
 thyreoid
 thyristor
 thyristors
+thyrocalcitonin
 thyroglobulin
 thyroglobulins
 thyroid
@@ -127750,6 +127780,7 @@ tragediennes
 tragedies
 tragedy
 tragi
+tragic
 tragical
 tragically
 tragicomedies
@@ -131196,6 +131227,7 @@ unconstraint
 unconstraints
 unconstricted
 unconstructed
+unconsumed
 unconsummated
 uncontainable
 uncontaminated
@@ -136167,6 +136199,7 @@ vivaciously
 vivaciousness
 vivaciousnesses
 vivacity
+vivandiere
 vivandieres
 vivaria
 vivaries
@@ -137718,6 +137751,7 @@ wekas
 welch
 welched
 welcher
+welches
 welching
 welcome
 welcomed
@@ -138521,6 +138555,7 @@ wildcats
 wildcatted
 wildebeest
 wildebeests
+wilded
 wilder
 wildered
 wilderments
