@@ -775,6 +775,7 @@ acre
 acreage
 acreages
 acred
+acres
 acrid
 acrider
 acridest
@@ -2295,6 +2296,7 @@ airspace
 airspaces
 airspeed
 airspeeds
+airstream
 airstreams
 airstrike
 airstrikes
@@ -4737,6 +4739,7 @@ antientropic
 antiepileptic
 antiepileptics
 antiestrogen
+antiestrogens
 antievolution
 antifamily
 antifascisms
@@ -6005,6 +6008,7 @@ archetype
 archetypes
 archfiends
 archfoe
+archfoes
 archicarp
 archicarps
 archidiaconal
@@ -7184,6 +7188,7 @@ atomical
 atomicities
 atomics
 atomies
+atomiser
 atomises
 atomising
 atomism
@@ -20445,6 +20450,7 @@ cholo
 cholos
 chomp
 chomped
+chomper
 chompers
 chomping
 chomps
@@ -30849,6 +30855,7 @@ defy
 defying
 degame
 degames
+degami
 degamis
 degas
 degases
@@ -37419,6 +37426,7 @@ earlobe
 earlock
 earlocks
 early
+earlywood
 earlywoods
 earmark
 earmarked
@@ -39026,6 +39034,7 @@ emulsoidal
 emulsoids
 emunctory
 emus
+emyd
 emyde
 emydes
 emyds
@@ -56397,6 +56406,7 @@ holily
 holinesses
 holing
 holism
+holist
 holistic
 holistically
 holk
@@ -59988,6 +59998,7 @@ incessancies
 incessancy
 incessant
 incessantly
+incest
 incests
 incestuous
 incestuously
@@ -61970,6 +61981,7 @@ intensions
 intensities
 intensity
 intensive
+intensiveness
 intensives
 intent
 intention
@@ -71976,6 +71988,7 @@ mascots
 masculinised
 masculinises
 masculinising
+masculinist
 masculinists
 masculinities
 masculinization
@@ -75458,6 +75471,7 @@ mispackages
 mispages
 mispaging
 mispainted
+mispainting
 mispaints
 misparse
 misparsing
@@ -77003,6 +77017,7 @@ moseyed
 moseying
 moseys
 mosh
+moshav
 moshavim
 moshes
 moshing
@@ -81723,6 +81738,7 @@ nugget
 nuggets
 nuggety
 nuisance
+nuisances
 nuke
 nuked
 nukes
@@ -83417,6 +83433,7 @@ orbless
 orbs
 orby
 orca
+orcas
 orcein
 orceins
 orchard
@@ -84101,6 +84118,7 @@ outbrawling
 outbrawls
 outbrazen
 outbrazened
+outbrazening
 outbrazens
 outbreak
 outbreaks
@@ -85121,6 +85139,7 @@ outwrites
 outwriting
 outwritten
 outwrote
+outyell
 outyelled
 outyells
 outyelp
@@ -90050,6 +90069,7 @@ pesthole
 pestholes
 pesthouse
 pestier
+pestiest
 pestiferous
 pestiferously
 pestiferousness
@@ -92443,6 +92463,7 @@ pleonasms
 pleonastic
 pleonastically
 pleonic
+pleons
 pleopod
 pleopods
 plerocercoid
@@ -98347,6 +98368,7 @@ pylorus
 pyoderma
 pyodermic
 pyogenic
+pyoid
 pyorrhea
 pyorrheal
 pyorrheas
@@ -103275,6 +103297,7 @@ removabilities
 removability
 removable
 removableness
+removably
 removal
 removals
 remove
@@ -103437,6 +103460,7 @@ renunciation
 renunciations
 renunciative
 renunciatory
+renvois
 reobject
 reobjected
 reobjects
@@ -108804,6 +108828,7 @@ scalloper
 scallopers
 scallopinis
 scalls
+scallywag
 scallywags
 scalogram
 scalograms
@@ -111763,6 +111788,7 @@ shaver
 shavers
 shaves
 shavetail
+shavie
 shavies
 shaving
 shavings
@@ -114220,6 +114246,7 @@ slitless
 slitlike
 slits
 slitted
+slittier
 slittiest
 slitting
 slitty
@@ -123689,6 +123716,7 @@ tarbooshes
 tarbush
 tarbushes
 tardier
+tardiest
 tardigrade
 tardigrades
 tardily
@@ -123842,6 +123870,7 @@ tasty
 tat
 tatamis
 tatar
+tatars
 tate
 tater
 taters
@@ -124045,6 +124074,7 @@ teargassed
 teargasses
 teargassing
 tearier
+teariest
 tearily
 teariness
 tearinesses
@@ -127277,6 +127307,7 @@ toters
 totes
 tother
 toting
+totipotency
 totipotent
 tots
 totted
@@ -131474,6 +131505,7 @@ understandings
 understands
 understate
 understated
+understatedly
 understatement
 understating
 understeer
@@ -136268,6 +136300,7 @@ volunteering
 volunteerism
 volunteers
 voluptuary
+voluptuously
 voluptuousness
 volute
 voluted
@@ -137267,6 +137300,7 @@ wax
 waxberries
 waxberry
 waxbill
+waxbills
 waxed
 waxer
 waxers
@@ -140252,6 +140286,7 @@ zecchin
 zecchini
 zecchino
 zecchinos
+zecchins
 zechin
 zed
 zedoary
