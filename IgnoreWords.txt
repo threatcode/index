@@ -897,6 +897,7 @@ activities
 activize
 activizes
 activizing
+actomyosin
 actomyosins
 actor
 actorish
@@ -1129,6 +1130,7 @@ adjourn
 adjourned
 adjournment
 adjournments
+adjourns
 adjudged
 adjudges
 adjudicate
@@ -3049,6 +3051,7 @@ alpinism
 alpinisms
 alpinists
 alps
+already
 alright
 als
 alsike
@@ -3066,6 +3069,7 @@ alterable
 alterant
 alterants
 alteration
+alterations
 altercate
 altercated
 altercates
@@ -3406,6 +3410,7 @@ amidol
 amidols
 amidone
 amidones
+amids
 amidship
 amidships
 amie
@@ -5343,6 +5348,7 @@ apo
 apoapsides
 apoapsis
 apocalypse
+apocalypses
 apocalyptic
 apocalyptical
 apocalyptically
@@ -10628,6 +10634,7 @@ benames
 benaming
 bench
 benched
+bencher
 benching
 benchland
 benchlands
@@ -13319,6 +13326,7 @@ boneheaded
 boneheads
 boneless
 bonemeal
+bonemeals
 boners
 boneset
 bonesetters
@@ -18148,6 +18156,7 @@ catalogers
 catalogic
 cataloging
 catalogue
+catalogued
 cataloguer
 catalogues
 cataloguing
@@ -21849,6 +21858,7 @@ cloth
 clothbound
 clothe
 clothes
+clotheshorse
 clotheshorses
 clothesline
 clotheslines
@@ -28566,6 +28576,7 @@ cursedly
 cursedness
 cursednesses
 curser
+cursers
 curses
 cursing
 cursive
@@ -33326,6 +33337,7 @@ dilapidate
 dilapidates
 dilapidating
 dilapidation
+dilapidations
 dilatabilities
 dilatability
 dilatable
@@ -34723,6 +34735,7 @@ disruption
 disruptions
 disruptively
 disruptor
+disruptors
 disrupts
 dissatisfaction
 dissatisfactory
@@ -47536,6 +47549,7 @@ fraternizations
 fraternize
 fraternized
 fraternizer
+fraternizing
 fraters
 fratricidal
 fratricide
@@ -55217,6 +55231,7 @@ hemodialysis
 hemodilution
 hemodilutions
 hemodynamically
+hemodynamics
 hemoflagellates
 hemoglobin
 hemoglobins
@@ -62786,6 +62801,7 @@ invariables
 invariably
 invariance
 invariances
+invariant
 invariants
 invasion
 invasions
@@ -65904,6 +65920,7 @@ knolly
 knop
 knopped
 knosp
+knosps
 knot
 knotgrass
 knotgrasses
@@ -66142,6 +66159,7 @@ kumisses
 kummels
 kumquat
 kumquats
+kumyses
 kuna
 kundalini
 kundalinis
@@ -78738,6 +78756,7 @@ neatest
 neath
 neatherd
 neatherds
+neatly
 neatness
 neatnesses
 neatniks
@@ -82072,6 +82091,7 @@ obsolescent
 obsolescently
 obsolesces
 obsolescing
+obsolete
 obsoleted
 obsoletely
 obsoleteness
@@ -83940,6 +83960,7 @@ outbrags
 outbrave
 outbrawled
 outbrawling
+outbrawls
 outbrazen
 outbrazened
 outbrazens
@@ -85889,6 +85910,7 @@ overrated
 overrates
 overrating
 overreached
+overreacher
 overreachers
 overreaches
 overreaching
@@ -91632,6 +91654,7 @@ pitchpoles
 pitchpoling
 pitchwoman
 pitchwomen
+pitchy
 piteous
 piteously
 piteousness
@@ -97287,6 +97310,7 @@ psychedelics
 psychiatric
 psychiatrically
 psychiatries
+psychiatrist
 psychiatrists
 psychiatry
 psychic
@@ -106897,6 +106921,7 @@ ruffler
 rufflers
 ruffles
 rufflier
+ruffliest
 ruffling
 ruffly
 rufiyaa
@@ -106911,6 +106936,7 @@ rugelach
 rugged
 ruggeder
 ruggedest
+ruggedization
 ruggedize
 ruggedizes
 ruggedizing
@@ -109141,6 +109167,7 @@ scoliomas
 scolioses
 scoliosis
 scoliotic
+scollop
 scolloped
 scolloping
 scollops
@@ -109228,6 +109255,7 @@ scorpioid
 scorpion
 scotch
 scotched
+scoter
 scoters
 scotia
 scotias
@@ -116976,6 +117004,7 @@ sportscaster
 sportscasts
 sportsman
 sportsmanly
+sportsmen
 sportswear
 sportswoman
 sportswomen
@@ -119696,6 +119725,7 @@ subcodes
 subcollection
 subcollections
 subcolonies
+subcommission
 subcommissioned
 subcommissions
 subcommittee
@@ -130876,6 +130906,7 @@ uncrumple
 uncrumpled
 uncrumples
 uncrushable
+uncrushed
 unction
 unctions
 unctuously
@@ -133944,6 +133975,7 @@ utriculus
 uts
 utter
 utterable
+utterance
 uttered
 utterers
 uttering
@@ -135536,6 +135568,7 @@ virgules
 viricidal
 viricide
 viridescent
+viridian
 viridians
 viridities
 viridity
@@ -137695,6 +137728,7 @@ whinger
 whingers
 whinges
 whinier
+whiniest
 whininess
 whininesses
 whining
@@ -139951,6 +139985,7 @@ zazens
 zeal
 zealot
 zealotries
+zealots
 zealously
 zealousness
 zealousnesses
