@@ -9432,6 +9432,7 @@ basemen
 baseness
 basenesses
 basenji
+basenjis
 baseplate
 baseplates
 baserunnings
@@ -15765,6 +15766,7 @@ busby
 bused
 buses
 busgirl
+busgirls
 bushbuck
 bushbucks
 bushed
@@ -18447,6 +18449,7 @@ causable
 causal
 causalgia
 causalgias
+causalgic
 causalities
 causally
 causals
@@ -22748,6 +22751,7 @@ coiffe
 coiffes
 coiffeur
 coiffeurs
+coiffeuse
 coiffeuses
 coiffing
 coiffured
@@ -28386,6 +28390,7 @@ cupbearers
 cupboard
 cupboards
 cupcake
+cupcakes
 cupel
 cupeled
 cupeler
@@ -37390,6 +37395,7 @@ earnings
 earns
 earpiece
 earpieces
+earplug
 earring
 earringed
 earrings
@@ -38479,6 +38485,7 @@ eluvial
 eluviates
 eluviating
 eluviation
+eluviations
 eluvium
 elver
 elves
@@ -50715,6 +50722,7 @@ glide
 glided
 glidepath
 glider
+gliders
 gliding
 gliffs
 glim
@@ -56346,6 +56354,7 @@ holloos
 holloware
 hollowares
 hollowed
+hollower
 hollowest
 hollowing
 hollowly
@@ -59043,6 +59052,7 @@ immethodically
 immies
 immigrant
 immigrate
+immigrated
 immigrates
 immigration
 immigrational
@@ -60896,6 +60906,7 @@ inflammations
 inflammatorily
 inflammatory
 inflatables
+inflated
 inflater
 inflaters
 inflates
@@ -67901,6 +67912,7 @@ lessens
 lesser
 lesson
 lessoned
+lessoning
 lessons
 lessor
 lest
@@ -75092,6 +75104,7 @@ misericordes
 misericords
 miseries
 miserliness
+miserlinesses
 misery
 mises
 misesteem
@@ -75366,6 +75379,7 @@ misparting
 misparts
 mispatch
 mispatches
+mispatching
 mispenned
 mispenning
 mispens
@@ -78058,6 +78072,7 @@ myasthenics
 mycele
 myceles
 mycelia
+mycelial
 mycelian
 mycelium
 myceloid
@@ -78130,6 +78145,7 @@ mylonite
 myna
 mynah
 mynahs
+mynas
 mynheers
 myoblast
 myoblasts
@@ -81661,6 +81677,7 @@ numen
 numerable
 numeracies
 numeracy
+numeral
 numerally
 numerals
 numerary
@@ -95539,6 +95556,7 @@ pretendedly
 pretender
 pretenders
 pretending
+pretense
 pretension
 pretensioned
 pretensioning
@@ -96309,6 +96327,7 @@ programmatic
 programme
 programmed
 programmer
+programmers
 programmes
 progressed
 progressing
@@ -97139,6 +97158,7 @@ provocateur
 provocateurs
 provocation
 provocations
+provocative
 provocatively
 provocativeness
 provocatives
@@ -98913,6 +98933,7 @@ quipped
 quipper
 quippers
 quippier
+quipping
 quippish
 quippu
 quippus
@@ -100314,6 +100335,7 @@ reasonably
 reasoned
 reasoner
 reasoning
+reasonings
 reasonless
 reasonlessly
 reasons
@@ -105093,6 +105115,7 @@ revanchists
 revarnish
 revarnished
 revarnishes
+revarnishing
 reveal
 revealable
 revealed
@@ -106729,6 +106752,7 @@ rousement
 rousements
 rousers
 rousing
+rousingly
 rousseau
 roustabout
 roustabouts
@@ -112670,6 +112694,7 @@ sideward
 sidewards
 sideway
 sideways
+sidewinder
 sidewinders
 sidh
 sidhe
@@ -119914,6 +119939,7 @@ subgrades
 subgraphs
 subgrouping
 subgum
+subgums
 subheading
 subheads
 subhuman
@@ -121734,6 +121760,7 @@ suricates
 surimi
 surimis
 surjection
+surjections
 surlier
 surliest
 surlily
@@ -127965,6 +127992,7 @@ trawlers
 trawley
 trawleys
 trawling
+trawlnet
 tray
 trayful
 trayfuls
@@ -128853,6 +128881,7 @@ troubleshooter
 troubleshooters
 troubleshooting
 troubleshoots
+troubleshot
 troublesome
 troublesomely
 troublesomeness
@@ -130932,6 +130961,7 @@ uncrosses
 uncrossing
 uncrowded
 uncrown
+uncrowned
 uncrowning
 uncrowns
 uncrumple
@@ -135820,6 +135850,7 @@ vituline
 vituperates
 vituperating
 vituperation
+vituperations
 vituperative
 vituperatively
 vituperators
@@ -135836,6 +135867,7 @@ vivaria
 vivaries
 vivarium
 vivariums
+vivary
 vivas
 vive
 viverrid
@@ -136305,6 +136337,7 @@ wads
 wadsets
 wadsetted
 wadsetting
+wady
 wae
 waeful
 waeness
@@ -137605,6 +137638,7 @@ wheelbarrows
 wheelbase
 wheelbases
 wheelchair
+wheelchairs
 wheeled
 wheeler
 wheelers
@@ -138373,6 +138407,7 @@ wineries
 winery
 wines
 winesap
+winesaps
 wineshop
 wineshops
 wineskin
