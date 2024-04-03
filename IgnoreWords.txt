@@ -3750,6 +3750,7 @@ analemmata
 analeptic
 analeptics
 analgesias
+analgesic
 analgesics
 analgetic
 analgetics
@@ -5445,6 +5446,7 @@ apostates
 apostatise
 apostatised
 apostatises
+apostatising
 apostatize
 apostatized
 apostatizes
@@ -5915,6 +5917,7 @@ arch
 archaea
 archaeal
 archaean
+archaeans
 archaebacteria
 archaebacterium
 archaeological
@@ -9925,6 +9928,7 @@ beclamors
 beclasped
 beclasping
 becloaked
+becloaks
 beclog
 beclogged
 beclogging
@@ -11365,6 +11369,7 @@ biform
 bifunctional
 bifurcate
 bifurcating
+bifurcation
 big
 bigamies
 bigamist
@@ -11912,6 +11917,7 @@ birdbrains
 birdcage
 birdcall
 birddog
+birddogged
 birddogging
 birders
 birdfarm
@@ -13240,6 +13246,7 @@ bombination
 bombinations
 bombing
 bombings
+bomblet
 bomblets
 bombload
 bombloads
@@ -16931,6 +16938,7 @@ cannas
 cannel
 cannelloni
 cannelon
+cannels
 canner
 canneries
 canners
@@ -17217,6 +17225,7 @@ caponized
 caponizes
 capons
 caporals
+capos
 capote
 capotes
 capouch
@@ -31574,6 +31583,7 @@ depeopling
 deperm
 deperming
 deperms
+depersonalized
 depersonalizes
 depersonalizing
 dephosphorylate
@@ -50788,6 +50798,7 @@ glossitic
 glossographers
 glossolalia
 glossolalias
+glossolalist
 glossolalists
 glossy
 glost
@@ -51367,6 +51378,7 @@ gooseherds
 gooseneck
 goosenecked
 gooses
+goosey
 goosier
 goosiest
 goosing
@@ -58720,8 +58732,10 @@ illusive
 illusively
 illusiveness
 illusivenesses
+illusoriness
 illusorinesses
 illustrate
+illustrates
 illustrating
 illustration
 illustrational
@@ -71349,6 +71363,7 @@ manufacturing
 manufacturings
 manumission
 manumissions
+manumit
 manumits
 manumitted
 manumitting
@@ -74129,6 +74144,7 @@ milium
 milk
 milked
 milker
+milkers
 milkfish
 milkfishes
 milkier
@@ -76521,6 +76537,7 @@ moorworts
 moos
 moosebird
 moosebirds
+moot
 mooted
 mooters
 mooting
@@ -77018,6 +77035,7 @@ moustachios
 mousy
 mouth
 mouthbreeder
+mouthbreeders
 mouthed
 mouther
 mouthers
@@ -79977,6 +79995,7 @@ nonbinary
 nonbiographical
 nonbiological
 nonbiologist
+nonbiologists
 nonblack
 nonblacks
 nonbodies
@@ -83358,6 +83377,7 @@ ornamentation
 ornamented
 ornaments
 ornate
+ornately
 ornateness
 ornatenesses
 ornerier
@@ -86327,6 +86347,7 @@ oxygenations
 oxygenator
 oxygenize
 oxygenized
+oxygenizing
 oxygenless
 oxygenous
 oxygens
@@ -86787,6 +86808,7 @@ palletization
 palletizations
 palletize
 palletizer
+palletizes
 palletizing
 pallets
 pallette
@@ -88370,6 +88392,7 @@ peafowls
 peag
 peage
 peages
+peags
 peahens
 peak
 peakedness
@@ -89753,6 +89776,7 @@ pestled
 pestles
 pestling
 pestos
+pests
 pet
 petabyte
 petabytes
@@ -90011,6 +90035,7 @@ phenanthrene
 phenate
 phenates
 phenazines
+phenazins
 phencyclidine
 phencyclidines
 phenetic
@@ -100650,6 +100675,7 @@ recommendable
 recommendation
 recommendations
 recommendatory
+recommended
 recommenders
 recommends
 recommission
@@ -105247,6 +105273,7 @@ rhetoric
 rhetorically
 rhetorician
 rhetoricians
+rhetorics
 rhetors
 rheum
 rheumatic
@@ -107058,6 +107085,7 @@ sabotaging
 saboteur
 saboteurs
 sabots
+sabra
 sabre
 sabred
 sabres
@@ -110951,6 +110979,7 @@ seventies
 seventieth
 seventieths
 sever
+severabilities
 severable
 several
 severalfold
@@ -113791,6 +113820,7 @@ slipperinesses
 slippers
 slippery
 slippier
+slippiest
 slippily
 slipping
 slippy
@@ -120677,6 +120707,7 @@ sumps
 sumpter
 sumpters
 sumptuary
+sumptuous
 sumptuously
 sumptuousness
 sumpweed
@@ -121843,6 +121874,7 @@ swearer
 swearers
 swearing
 swearword
+sweat
 sweatband
 sweatbox
 sweatboxes
@@ -128412,6 +128444,7 @@ triturating
 triturations
 triturator
 triturators
+triumphal
 triumphalism
 triumphalisms
 triumphalists
@@ -129561,6 +129594,7 @@ typecasting
 typecasts
 typeface
 typefaces
+typefounder
 typefounders
 typefounding
 typefoundings
@@ -133482,6 +133516,7 @@ uranous
 uranyl
 uranylic
 uranyls
+urare
 urares
 uraris
 urase
