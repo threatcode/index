@@ -4701,6 +4701,7 @@ anticorrosion
 anticorrosive
 anticorrosives
 anticorruption
+anticrack
 anticrime
 anticruelty
 antics
@@ -5879,6 +5880,7 @@ arbalest
 arbalests
 arbalist
 arbelest
+arbelests
 arbiter
 arbitrable
 arbitrage
@@ -6262,6 +6264,7 @@ armistice
 armless
 armlets
 armlike
+armload
 armloads
 armlock
 armoire
@@ -13323,6 +13326,7 @@ bonanza
 bonanzas
 bonbon
 bond
+bondable
 bondage
 bondages
 bonder
@@ -15096,6 +15100,7 @@ brusqueries
 brusquest
 brut
 brutalises
+brutalising
 brutalities
 brutality
 brutalizations
@@ -16048,6 +16053,7 @@ buzuki
 buzukia
 buzukis
 buzz
+buzzard
 buzzards
 buzzcut
 buzzcuts
@@ -16569,6 +16575,7 @@ calked
 calking
 calkings
 calkins
+calks
 call
 calla
 callaloo
@@ -19551,6 +19558,7 @@ charwoman
 charwomen
 chase
 chaseable
+chased
 chaser
 chases
 chasing
@@ -30468,6 +30476,7 @@ decried
 decrier
 decriers
 decries
+decriminalize
 decrown
 decrowned
 decrowns
@@ -30595,6 +30604,7 @@ defats
 defatted
 default
 defaulted
+defaulter
 defaulting
 defaults
 defeasance
@@ -34504,6 +34514,7 @@ disjunction
 disjunctive
 disjunctively
 disjunctives
+disjuncts
 disjunctures
 disked
 diskette
@@ -35789,6 +35800,7 @@ doomsdayer
 doomsdayers
 doomsdays
 doomsters
+doomy
 door
 doorbell
 doorbells
@@ -37210,6 +37222,7 @@ dusts
 duststorm
 dustup
 dustups
+dusty
 dutch
 dutchman
 dutchmen
@@ -37550,6 +37563,7 @@ eath
 eating
 eatings
 eats
+eau
 eaux
 eaves
 eavesdropper
@@ -37988,6 +38002,7 @@ effortfulnesses
 effortless
 effortlessly
 effortlessness
+effrontery
 effs
 effulge
 effulged
@@ -39200,6 +39215,7 @@ encloses
 enclosures
 encoded
 encoder
+encoding
 encomia
 encomiast
 encomiastic
@@ -45821,6 +45837,7 @@ fleshes
 fleshily
 fleshinesses
 fleshing
+fleshings
 fleshless
 fleshlier
 fleshment
@@ -58413,6 +58430,7 @@ hypokalemias
 hypokalemic
 hypolimnia
 hypomagnesemia
+hypomagnesemias
 hypomanic
 hypomanics
 hypomorph
@@ -66528,6 +66546,7 @@ lactates
 lactation
 lactational
 lactations
+lacteally
 lactiferous
 lactobacilli
 lactobacillus
@@ -67629,6 +67648,7 @@ leathery
 leave
 leaved
 leaven
+leavened
 leavening
 leavenings
 leavens
@@ -80025,6 +80045,7 @@ nobleness
 noblenesses
 nobler
 nobles
+noblesse
 noblesses
 noblest
 noblewoman
@@ -82914,6 +82935,7 @@ omelets
 omelettes
 omen
 omening
+omenta
 omental
 omentums
 omer
@@ -93530,6 +93552,7 @@ pooled
 pooler
 poolers
 poolhalls
+pooling
 poolroom
 poolrooms
 pooped
@@ -94407,6 +94430,7 @@ prau
 prawned
 prawner
 prawners
+prawning
 praxeology
 praxes
 praxis
@@ -109267,6 +109291,7 @@ schoolmen
 schoolroom
 schoolrooms
 schools
+schooltimes
 schoolwork
 schoolworks
 schorls
@@ -111128,6 +111153,7 @@ sereins
 serenade
 serenaded
 serenader
+serenaders
 serenades
 serenading
 serenata
@@ -111891,6 +111917,7 @@ sheepman
 sheepmen
 sheepshank
 sheepshanks
+sheepshead
 sheepsheads
 sheepshearers
 sheepskin
@@ -112161,6 +112188,7 @@ shipboards
 shipborne
 shipbuilders
 shipbuilding
+shipbuildings
 shipfitters
 shiplap
 shiplaps
@@ -112921,6 +112949,7 @@ sifaka
 sift
 sifter
 sifters
+siftings
 sifts
 siganid
 siganids
@@ -118353,6 +118382,7 @@ stelae
 stelai
 stelar
 stele
+steles
 stelic
 stella
 stellar
@@ -121030,6 +121060,7 @@ sulfurizes
 sulfurizing
 sulfurously
 sulfurousness
+sulfurousnesses
 sulfurs
 sulfuryl
 sulfuryls
@@ -121212,6 +121243,7 @@ sundrops
 sundry
 sunfish
 sunflower
+sunflowers
 sung
 sunglass
 sunglasses
@@ -123063,6 +123095,7 @@ systolic
 syzygal
 syzygetic
 syzygial
+syzygies
 syzygy
 ta
 tabanid
@@ -123251,6 +123284,7 @@ tads
 taekwondo
 taekwondos
 tael
+taeniae
 taenias
 taeniases
 taeniasis
@@ -125709,6 +125743,7 @@ thixotropies
 thixotropy
 tho
 tholed
+tholeiite
 tholeiites
 tholeiitic
 tholepin
