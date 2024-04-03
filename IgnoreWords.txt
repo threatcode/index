@@ -2611,6 +2611,7 @@ alienation
 alienator
 aliened
 alienee
+alienees
 aliener
 alieners
 aliening
@@ -6603,6 +6604,7 @@ ascosporic
 ascot
 ascots
 ascribable
+ascribe
 ascribed
 ascription
 ascus
@@ -17989,6 +17991,7 @@ casimere
 casimeres
 casimire
 casimires
+casing
 casings
 casini
 casita
@@ -20406,6 +20409,7 @@ choosy
 chop
 chopfallen
 chophouse
+chophouses
 chopine
 chopines
 chopins
@@ -21565,6 +21569,7 @@ clerically
 clericals
 clerids
 clerihew
+clerihews
 clerisies
 clerisy
 clerk
@@ -24521,6 +24526,7 @@ conicity
 conics
 conidia
 conidial
+conidian
 conidiophore
 conidiophores
 conidium
@@ -30961,6 +30967,7 @@ delegations
 delegator
 delegitimation
 delegitimations
+deleing
 delete
 deleted
 deleterious
@@ -31285,6 +31292,7 @@ demons
 demonstrability
 demonstrable
 demonstrably
+demonstrate
 demonstrated
 demonstrates
 demonstrating
@@ -33224,6 +33232,7 @@ dight
 dighted
 dighting
 dights
+digit
 digital
 digitalins
 digitalis
@@ -33831,6 +33840,7 @@ disbarment
 disbarments
 disbarred
 disbarring
+disbars
 disbeliefs
 disbelieve
 disbeliever
@@ -44823,6 +44833,7 @@ filtrates
 filtrating
 filtrations
 filum
+fimbles
 fimbria
 fimbriae
 fimbriate
@@ -48929,6 +48940,7 @@ gamble
 gambler
 gamblers
 gambling
+gamboge
 gamboges
 gambogian
 gamboling
@@ -53165,6 +53177,7 @@ gypsies
 gypsiferous
 gypsophilas
 gypsum
+gypsydom
 gypsydoms
 gypsyish
 gypsyism
@@ -62571,6 +62584,7 @@ intricateness
 intricatenesses
 intrigant
 intrigants
+intriguant
 intriguants
 intrigue
 intrigued
@@ -67227,6 +67241,7 @@ layering
 layerings
 layers
 layette
+layettes
 laying
 layins
 laymen
@@ -83057,6 +83072,7 @@ opsin
 opsonic
 opsonifies
 opsonify
+opsonifying
 opsonins
 opsonize
 opsonized
@@ -85678,6 +85694,7 @@ overobvious
 overoperate
 overoperated
 overoperates
+overoperating
 overopinionated
 overoptimism
 overoptimisms
@@ -89494,6 +89511,7 @@ permian
 permillage
 permillages
 permissibility
+permissible
 permissibleness
 permissibly
 permissions
@@ -91430,6 +91448,7 @@ piraya
 pirayas
 pirn
 pirns
+pirog
 piroghi
 pirogi
 pirogies
@@ -91581,6 +91600,7 @@ pitta
 pittance
 pittances
 pittas
+pitted
 pitting
 pittings
 pittosporum
@@ -93293,6 +93313,7 @@ popularly
 populate
 populated
 populates
+populating
 population
 populational
 populism
@@ -95718,6 +95739,7 @@ princely
 princeship
 princeships
 princess
+princesse
 principal
 principalities
 principality
@@ -98815,6 +98837,7 @@ quixotical
 quixotically
 quixotism
 quixotisms
+quixotries
 quiz
 quizmasters
 quizzer
@@ -100215,6 +100238,7 @@ reattained
 reattaining
 reattains
 reattempt
+reattempted
 reattempts
 reattribute
 reattributed
@@ -104421,6 +104445,7 @@ restyles
 restyling
 resubject
 resubjected
+resubjecting
 resubjects
 resubmission
 resubmit
@@ -110991,6 +111016,7 @@ settlers
 settles
 settling
 settlings
+settlors
 setts
 setulose
 setulous
@@ -112469,6 +112495,7 @@ sidepiece
 sidereal
 siderite
 siderites
+sideritic
 siderolite
 sideroses
 siderosis
@@ -115008,6 +115035,7 @@ sokol
 sol
 sola
 solace
+solaced
 solacer
 solaces
 solacing
@@ -124082,6 +124110,7 @@ telos
 telotaxis
 telpher
 telphered
+telphering
 telphers
 tels
 telson
@@ -126882,6 +126911,7 @@ totality
 totalizator
 totalized
 totalizers
+totalizes
 totalling
 totaquine
 totaquines
@@ -131728,6 +131758,7 @@ unifilar
 unifoliate
 uniform
 uniformed
+uniformest
 uniforming
 uniformitarians
 uniformities
@@ -137068,6 +137099,7 @@ wedgy
 wedlock
 wedlocks
 weds
+wee
 weed
 weeded
 weeder
@@ -137399,6 +137431,7 @@ wheel
 wheelbarrow
 wheelbarrowing
 wheelbarrows
+wheelbase
 wheelbases
 wheelchair
 wheeled
@@ -137829,6 +137862,7 @@ whupped
 whupping
 whups
 why
+whydah
 whydahs
 whys
 wicca
@@ -139319,6 +139353,7 @@ yam
 yamalka
 yamalkas
 yamen
+yamens
 yammerer
 yammerers
 yammering
