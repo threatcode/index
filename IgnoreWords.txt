@@ -7191,6 +7191,7 @@ atheling
 athelings
 athenaeum
 athenaeums
+atheneum
 atheneums
 atheoretical
 atherogeneses
@@ -7690,6 +7691,7 @@ authoritative
 authorities
 authorization
 authorizations
+authorize
 authorizer
 authorizers
 authorizes
@@ -11937,6 +11939,7 @@ biorhythms
 bios
 biosafeties
 biosafety
+bioscience
 biosciences
 bioscientist
 bioscientists
@@ -13135,6 +13138,7 @@ bobsledding
 bobsleddings
 bobsleds
 bobsleigh
+bobsleighs
 bobstay
 bobstays
 bobtailed
@@ -15108,8 +15112,10 @@ brownnoser
 brownnosers
 brownnoses
 brownnosing
+brownouts
 browns
 brownshirt
+brownshirts
 brownstone
 brownstones
 browny
@@ -17721,6 +17727,7 @@ cardcase
 cardcases
 carded
 carder
+carders
 cardholder
 cardholders
 cardia
@@ -25348,6 +25355,7 @@ contingent
 contingently
 contingents
 continua
+continual
 continually
 continuance
 continuances
@@ -28959,6 +28967,7 @@ cusswords
 custard
 custards
 custardy
+custodes
 custodial
 custodians
 custodianship
@@ -31375,6 +31384,7 @@ deliquesce
 deliquescence
 deliquescences
 deliquescent
+deliquesces
 deliquescing
 deliria
 delirious
@@ -38871,6 +38881,7 @@ eluviation
 eluviations
 eluvium
 elver
+elvers
 elves
 elvish
 elysian
@@ -50133,6 +50144,7 @@ gelding
 geldings
 gelds
 gelees
+gelid
 gelidity
 gelidly
 gelidnesses
@@ -53961,6 +53973,7 @@ haft
 haftara
 haftarah
 haftarahs
+haftaras
 haftaroth
 hafted
 haftorahs
@@ -55213,6 +55226,7 @@ headwind
 headwinds
 headword
 headwords
+headwork
 headworks
 heady
 heal
@@ -58845,6 +58859,7 @@ hypocoristical
 hypocotyl
 hypocotyls
 hypocrisies
+hypocrisy
 hypocrite
 hypocrites
 hypocritically
@@ -60733,6 +60748,7 @@ incorruptions
 incorruptly
 incorruptness
 incorruptnesses
+increasable
 increase
 increased
 increaser
@@ -66996,6 +67012,7 @@ lachrymal
 lachrymals
 lachrymator
 lachrymators
+lachrymose
 lachrymosities
 lacier
 laciest
@@ -76780,6 +76797,7 @@ molested
 molester
 molesters
 molesting
+molests
 molies
 mollah
 mollahs
@@ -81002,6 +81020,7 @@ noncommunist
 noncommunity
 noncommutative
 noncomparable
+noncompetition
 noncompetitive
 noncompetitor
 noncomplex
@@ -85861,6 +85880,7 @@ ovenbird
 ovenbirds
 ovenlike
 ovens
+ovenware
 ovenwares
 over
 overabstract
@@ -87857,6 +87877,7 @@ palmitate
 palmitates
 palmitin
 palmitins
+palms
 palmtops
 palmyra
 palmyras
@@ -87936,6 +87957,7 @@ panacea
 panache
 panaches
 panada
+panadas
 panama
 panamas
 panatela
@@ -89351,6 +89373,7 @@ paynims
 payoff
 payoffs
 payola
+payor
 payors
 payouts
 payroll
@@ -91621,6 +91644,7 @@ phyla
 phylacteries
 phylactery
 phylae
+phylar
 phylaxis
 phylaxises
 phyle
@@ -95328,6 +95352,7 @@ precedents
 precedes
 precensor
 precensored
+precensoring
 precent
 precented
 precentor
@@ -102107,6 +102132,7 @@ rectorate
 rectorates
 rectorial
 rectors
+rectorship
 rectorships
 rectory
 rectos
@@ -111951,6 +111977,7 @@ sequencers
 sequences
 sequencing
 sequency
+sequent
 sequential
 sequentially
 sequestered
@@ -112514,6 +112541,7 @@ shallowness
 shallownesses
 shallows
 shalom
+shaloms
 shalt
 shaly
 sham
@@ -115505,6 +115533,7 @@ smileless
 smiler
 smiley
 smileys
+smirch
 smirched
 smirches
 smirching
@@ -118022,6 +118051,7 @@ spodosols
 spodumene
 spoilable
 spoilage
+spoilages
 spoiled
 spoiler
 spoils
@@ -122933,6 +122963,7 @@ surmountable
 surmounted
 surmounting
 surmounts
+surmullet
 surname
 surnamed
 surnamer
@@ -124801,6 +124832,7 @@ tartans
 tartar
 tartaric
 tartarous
+tartars
 tarted
 tarter
 tartest
@@ -127650,6 +127682,7 @@ toasted
 toasters
 toastier
 toastiest
+toasting
 toastmaster
 toastmasters
 toastmistresses
@@ -138264,6 +138297,7 @@ waterhens
 waterier
 wateriest
 waterily
+wateriness
 watering
 waterings
 waterishness
@@ -139420,6 +139454,7 @@ widdie
 widdling
 wide
 wideawake
+wideawakes
 wideband
 widebody
 widely
