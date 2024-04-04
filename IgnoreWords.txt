@@ -832,6 +832,7 @@ acrosomes
 acrospire
 acrospires
 across
+acrostic
 acrostical
 acrostically
 acrostics
@@ -9192,6 +9193,7 @@ barbequing
 barber
 barbered
 barberries
+barberry
 barbers
 barbershop
 barbershops
@@ -11114,6 +11116,7 @@ betaines
 betaken
 betakes
 betaking
+betas
 betatron
 betatrons
 betatter
@@ -13683,6 +13686,7 @@ boracite
 borages
 boral
 borals
+borane
 boras
 borate
 borax
@@ -16244,6 +16248,7 @@ caber
 cabernet
 cabernets
 cabers
+cabestro
 cabestros
 cabezones
 cabezons
@@ -23567,6 +23572,7 @@ commandos
 commands
 commas
 commata
+commemorate
 commemorated
 commemorates
 commemorating
@@ -24076,6 +24082,7 @@ compted
 compting
 comptrollers
 comptrollership
+compts
 compulsion
 compulsions
 compulsive
@@ -24682,6 +24689,7 @@ congenial
 congenialities
 congeniality
 congenital
+congeries
 congers
 conges
 congested
@@ -30055,6 +30063,7 @@ dealfishes
 dealing
 dealings
 deals
+dealt
 deaminase
 deaminases
 deaminate
@@ -32458,6 +32467,7 @@ despiting
 despoil
 despoiled
 despoiler
+despoilers
 despoilment
 despoilments
 despoils
@@ -32558,6 +32568,7 @@ detachments
 detail
 detailed
 detailedly
+detailednesses
 detailers
 detailing
 detailings
@@ -36646,6 +36657,7 @@ drawplates
 draws
 drawshaves
 drawstring
+drawstrings
 drawtube
 drawtubes
 drayage
@@ -37340,6 +37352,7 @@ duo
 duodecillion
 duodecillions
 duodecimals
+duodecimo
 duodecimos
 duodenal
 duodenum
@@ -38828,6 +38841,7 @@ emaciate
 emaciated
 emaciates
 emaciating
+emaciation
 emaciations
 email
 emailed
@@ -42729,6 +42743,7 @@ expeditor
 expeditors
 expel
 expellable
+expellant
 expellants
 expelled
 expellee
@@ -43388,6 +43403,7 @@ fabulates
 fabulating
 fabulator
 fabulators
+fabulist
 fabulists
 fabulous
 fabulously
@@ -56624,6 +56640,7 @@ hoarily
 hoariness
 hoarinesses
 hoars
+hoarse
 hoarsely
 hoarsen
 hoarsenesses
@@ -58467,6 +58484,7 @@ hymnodist
 hymnodists
 hymnody
 hymnologies
+hymnology
 hymns
 hyoid
 hyoidal
@@ -72604,6 +72622,7 @@ masterships
 mastersinger
 mastersingers
 masterstroke
+masterwork
 mastery
 masthead
 mastheading
@@ -76090,6 +76109,7 @@ misreferring
 misrefers
 misregister
 misregistered
+misregistering
 misregisters
 misregistration
 misrelate
@@ -79046,6 +79066,7 @@ named
 nameless
 namelessness
 namelessnesses
+namely
 nameplate
 nameplates
 namer
@@ -80794,6 +80815,7 @@ nonbetting
 nonbinary
 nonbiographical
 nonbiological
+nonbiologically
 nonbiologist
 nonbiologists
 nonblack
@@ -81574,6 +81596,7 @@ nonquota
 nonracial
 nonracially
 nonradioactive
+nonrailroad
 nonrandom
 nonrandomness
 nonrandomnesses
@@ -89437,6 +89460,7 @@ pedalfer
 pedalier
 pedaliers
 pedaling
+pedalled
 pedaller
 pedalling
 pedalo
@@ -93975,6 +93999,7 @@ polysemy
 polysome
 polysomes
 polysomic
+polysomics
 polysorbate
 polysorbates
 polystyrene
@@ -96288,6 +96313,7 @@ presto
 prestorage
 prestore
 prestored
+prestores
 prestoring
 prestos
 prestressed
@@ -97734,6 +97760,7 @@ proteins
 proteinuria
 proteinurias
 protend
+protended
 protending
 protends
 protensive
@@ -100363,6 +100390,7 @@ rampaged
 rampageous
 rampageously
 rampages
+rampaging
 rampancies
 rampancy
 rampant
@@ -104958,6 +104986,7 @@ resemblant
 resemble
 resembled
 resembler
+resemblers
 resembles
 resembling
 resending
@@ -105194,6 +105223,7 @@ resolutenesses
 resoluter
 resolutes
 resolvable
+resolve
 resolved
 resolvent
 resolvents
@@ -112021,6 +112051,7 @@ serviceableness
 serviceably
 serviceberries
 serviceberry
+serviced
 servicemen
 servicer
 services
@@ -126716,6 +126747,7 @@ throatinesses
 throating
 throatlatches
 throats
+throaty
 throb
 throbbed
 throbber
@@ -132265,6 +132297,7 @@ underhair
 underhand
 underhanded
 underhandedly
+underhandedness
 underhands
 underheat
 underheats
@@ -132608,6 +132641,7 @@ uneducated
 uneffaced
 unelectable
 unelectrified
+unembarrassed
 unembittered
 unemotional
 unemphatic
@@ -134249,6 +134283,7 @@ unthinkably
 unthinking
 unthinkingly
 unthinks
+unthought
 unthread
 unthreaded
 unthreads
