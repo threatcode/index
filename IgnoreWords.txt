@@ -132,6 +132,7 @@ absorbabilities
 absorbable
 absorbance
 absorbances
+absorbancies
 absorbancy
 absorbant
 absorbants
@@ -1369,6 +1370,7 @@ adultress
 adultresses
 adults
 adumbral
+adumbrate
 adumbrated
 adumbrates
 adumbrating
@@ -4726,6 +4728,7 @@ anticorrosive
 anticorrosives
 anticorruption
 anticrack
+anticreative
 anticrime
 anticruelty
 antics
@@ -6771,6 +6774,7 @@ asperser
 aspersers
 aspersion
 aspersive
+aspersors
 asphalt
 asphaltic
 asphaltite
@@ -7729,6 +7733,7 @@ autodyne
 autodynes
 autoecious
 autoeciously
+autoecisms
 autoed
 autoeroticism
 autoeroticisms
@@ -9553,6 +9558,7 @@ basions
 basipetal
 basipetally
 bask
+basked
 basket
 basketball
 basketballs
@@ -14770,6 +14776,7 @@ briners
 brines
 bring
 bringdown
+bringdowns
 bringer
 bringing
 brings
@@ -18200,6 +18207,7 @@ casqued
 cassabas
 cassata
 cassatas
+cassations
 cassava
 cassavas
 cassena
@@ -19461,6 +19469,7 @@ changeably
 changeful
 changefully
 changefulness
+changelessly
 changelessness
 changeling
 changelings
@@ -22046,6 +22055,7 @@ clot
 cloth
 clothbound
 clothe
+clothed
 clothes
 clotheshorse
 clotheshorses
@@ -22552,6 +22562,7 @@ coconuts
 cocoon
 cocooned
 cocooning
+cocoonings
 cocos
 cocotte
 cocottes
@@ -24358,6 +24369,7 @@ concubine
 concubines
 concupiscence
 concupiscences
+concupiscent
 concupiscible
 concur
 concurred
@@ -28185,6 +28197,7 @@ crummy
 crump
 crumped
 crumpets
+crumping
 crumple
 crumpled
 crumples
@@ -29027,6 +29040,7 @@ cuttingly
 cuttings
 cuttle
 cuttlebone
+cuttlebones
 cuttled
 cuttlefish
 cuttlefishes
@@ -31617,6 +31631,7 @@ demonstratively
 demonstratives
 demonstrator
 demonstrators
+demoralization
 demoralizations
 demoralize
 demoralized
@@ -33855,6 +33870,7 @@ dioecism
 dioecy
 dioestrus
 dioestruses
+dioicous
 diol
 diolefin
 diolefins
@@ -45490,6 +45506,7 @@ firecracker
 firedamp
 firedog
 firedogs
+firedrakes
 firefang
 firefanged
 firefanging
@@ -46391,6 +46408,7 @@ floozie
 floozies
 flop
 flophouses
+flopover
 flopovers
 flopped
 floppers
@@ -50626,6 +50644,7 @@ giantism
 giantisms
 giantlike
 giants
+giaour
 giaours
 giardias
 giardiases
@@ -56839,6 +56858,7 @@ hollers
 hollo
 holloa
 holloaed
+holloaing
 holloas
 holloes
 holloo
@@ -66313,6 +66333,7 @@ kit
 kitbag
 kitbags
 kitchen
+kitchenet
 kitchenets
 kitchenettes
 kitchenware
@@ -67461,6 +67482,7 @@ lapidary
 lapidate
 lapidated
 lapidates
+lapidating
 lapides
 lapidified
 lapidifies
@@ -68948,6 +68970,7 @@ ligan
 ligand
 ligands
 ligase
+ligases
 ligate
 ligated
 ligates
@@ -69653,6 +69676,7 @@ livened
 livener
 liveners
 liveness
+livenesses
 livening
 livens
 liver
@@ -84142,6 +84166,7 @@ organochlorines
 organogenesis
 organoleptic
 organology
+organomercurial
 organometallic
 organometallics
 organon
@@ -86822,6 +86847,7 @@ overslipping
 overslipt
 overslow
 oversmoked
+oversmokes
 oversmoking
 oversoaked
 oversoft
@@ -89339,6 +89365,7 @@ pearlers
 pearlescence
 pearlescences
 pearlescent
+pearlier
 pearling
 pearlite
 pearlites
@@ -90889,6 +90916,7 @@ phallocentric
 phalluses
 phanerogam
 phanerogams
+phanerophyte
 phanerophytes
 phantasied
 phantasm
@@ -90902,6 +90930,7 @@ phantasms
 phantast
 phantasy
 phantasying
+phantom
 phantomlike
 phantoms
 pharaoh
@@ -100020,6 +100049,7 @@ radials
 radian
 radiance
 radiances
+radiancies
 radiancy
 radians
 radiant
@@ -105550,6 +105580,7 @@ resuscitator
 resuscitators
 resuspend
 resuspended
+resuspending
 resuspends
 reswallow
 reswallowed
@@ -120203,6 +120234,7 @@ stressed
 stresses
 stressful
 stressfully
+stressless
 stressors
 stretchability
 stretchable
@@ -127787,6 +127819,7 @@ tonelessly
 tonelessness
 tonelessnesses
 toneme
+tonemic
 toners
 tones
 tonetic
@@ -130354,6 +130387,7 @@ tulle
 tullibee
 tumble
 tumblebug
+tumbled
 tumbledown
 tumbler
 tumblerful
@@ -135054,6 +135088,7 @@ urostyle
 urostyles
 urp
 urped
+urping
 urps
 ursa
 ursid
