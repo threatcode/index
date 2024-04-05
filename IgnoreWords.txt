@@ -7563,6 +7563,7 @@ augmentors
 augments
 augur
 augural
+augured
 augurer
 auguries
 auguring
@@ -7705,6 +7706,7 @@ authorities
 authorization
 authorizations
 authorize
+authorized
 authorizer
 authorizers
 authorizes
@@ -9817,6 +9819,7 @@ bawties
 bay
 bayadeer
 bayadeers
+bayaderes
 bayamo
 bayamos
 bayard
@@ -11361,6 +11364,7 @@ bibliographers
 bibliographic
 bibliographical
 bibliography
+bibliolater
 bibliolaters
 bibliolatries
 bibliolatrous
@@ -11916,6 +11920,7 @@ biomedical
 biomedicine
 biomes
 biometer
+biometers
 biometric
 biometrician
 biometricians
@@ -16417,6 +16422,7 @@ cadaveric
 cadaverine
 cadaverines
 cadaverous
+cadaverously
 cadavers
 caddice
 caddices
@@ -19689,6 +19695,7 @@ charking
 charks
 charladies
 charlady
+charlatanism
 charlatanisms
 charlatanries
 charlatanry
@@ -23347,6 +23354,7 @@ colobus
 colobuses
 colocate
 colocated
+colocates
 colocating
 colocynth
 colocynths
@@ -29443,6 +29451,7 @@ cytosines
 cytoskeletal
 cytoskeleton
 cytoskeletons
+cytosol
 cytosolic
 cytosols
 cytostatic
@@ -34128,6 +34137,7 @@ directness
 directnesses
 director
 directorate
+directorates
 directorial
 directories
 directorship
@@ -37325,6 +37335,7 @@ duit
 duits
 duked
 dukedom
+dukedoms
 dukes
 duking
 dulcet
@@ -42582,6 +42593,7 @@ exertive
 exerts
 exes
 exeunt
+exfoliant
 exfoliate
 exfoliates
 exfoliating
@@ -47933,6 +47945,7 @@ foveoles
 foveolets
 fowl
 fowled
+fowler
 fowlers
 fowlings
 fowlpox
@@ -50336,6 +50349,7 @@ generic
 generical
 genericness
 genericnesses
+generosities
 generosity
 generous
 generousness
@@ -55394,6 +55408,7 @@ heartiness
 heartinesses
 heartland
 heartless
+heartlessly
 heartlessness
 heartlessnesses
 heartrending
@@ -59215,6 +59230,7 @@ icons
 icosahedra
 icosahedral
 icosahedron
+icosahedrons
 icterical
 icterics
 icterus
@@ -59433,6 +59449,7 @@ ileitis
 ileostomies
 ileum
 ileus
+ileuses
 ilex
 ilexes
 ilia
@@ -62726,6 +62743,7 @@ intercrop
 intercropped
 intercropping
 intercrops
+intercrossed
 intercrosses
 intercultural
 interculturally
@@ -65738,6 +65756,7 @@ karaoke
 karaokes
 karat
 karateist
+karateists
 karates
 karats
 karmas
@@ -67429,6 +67448,7 @@ lamination
 laminations
 laminator
 laminators
+laming
 laminin
 laminins
 laminitis
@@ -78730,6 +78750,7 @@ muscly
 muscovado
 muscovados
 muscovite
+muscovites
 muscularities
 muscularity
 muscularly
@@ -85076,6 +85097,7 @@ outcursed
 outcursing
 outcurve
 outcurves
+outdance
 outdanced
 outdancing
 outdared
@@ -98381,6 +98403,7 @@ psalms
 psalteria
 psalteries
 psalters
+psaltries
 psaltry
 psammite
 psammites
@@ -108381,6 +108404,7 @@ rupiahs
 rupture
 ruptured
 ruptures
+rupturing
 rural
 ruralise
 ruralised
@@ -108578,6 +108602,7 @@ saccharomycetes
 saccular
 sacculate
 sacculation
+saccule
 saccules
 sacerdotal
 sacerdotalism
@@ -114236,6 +114261,7 @@ silos
 siloxane
 siloxanes
 silt
+siltation
 siltations
 silted
 siltier
@@ -116704,6 +116730,7 @@ solipsists
 soliquid
 solitaire
 solitaires
+solitaries
 solitarily
 solitariness
 solitarinesses
@@ -122432,6 +122459,7 @@ sunrises
 sunroom
 suns
 sunscald
+sunscalds
 sunscreen
 sunscreening
 sunscreens
@@ -129686,6 +129714,7 @@ triadisms
 triads
 triage
 triages
+triaging
 trial
 trialogue
 trialogues
@@ -131080,6 +131109,7 @@ tussises
 tussive
 tussle
 tussles
+tussling
 tussocked
 tussocks
 tussocky
@@ -132688,6 +132718,7 @@ undergone
 undergrad
 undergrads
 undergraduate
+undergraduates
 underground
 undergrounder
 undergrounders
@@ -136284,6 +136315,7 @@ velveteens
 velvetier
 velvetiest
 velvets
+vena
 venae
 venal
 venalities
@@ -137487,6 +137519,7 @@ vocabulary
 vocal
 vocalese
 vocaleses
+vocalic
 vocalically
 vocalics
 vocalise
@@ -139903,6 +139936,7 @@ winceys
 winch
 winched
 wincher
+winchers
 winches
 winching
 wincing
@@ -141535,6 +141569,7 @@ yuan
 yuans
 yuca
 yucas
+yuccas
 yuch
 yuck
 yucked
