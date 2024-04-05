@@ -8,3 +8,12 @@ Linux Kernel Documentation / devicetree / bindings / property-units.txt,https://
 Documentation/devicetree/bindings/property-units.txt · mainline ...,https://gitlab.sdu.dk/sdurobotics/linux-kernels/kernel/-/blob/mainline/Documentation/devicetree/bindings/property-units.txt
 Guide to GRIB - CEDA artefacts server,https://artefacts.ceda.ac.uk/badc_datadocs/ecmwf-era/grib/gribdoc.txt
 Documentation/devicetree/bindings/power/qpnp-bms.txt ...,https://review.carbonrom.org/plugins/gitiles/CarbonROM/android_kernel_oneplus_msm8994/%2B/5b8b0270295b12972a888f0c067fe1ab6dc7f7a9/Documentation/devicetree/bindings/power/qpnp-bms.txt
+Thermal Zone,https://www.kernel.org/doc/Documentation/thermal/sysfs-api.txt
+Documentation/thermal/sysfs-api.txt - kernel/tegra.git - Git at Google,https://android.googlesource.com/kernel/tegra.git/%2B/refs/heads/android-3.10.101/Documentation/thermal/sysfs-api.txt%3Fautodive%3D0%252F%252F
+http://dichroweb.cryst.bbk.ac.uk/html/aviv1.txt,http://dichroweb.cryst.bbk.ac.uk/html/aviv1.txt
+Documentation/thermal/sysfs-api.txt - kernel/exynos - Git at Google,https://android.googlesource.com/kernel/exynos/%2B/android-exynos-3.4/Documentation/thermal/sysfs-api.txt
+Documentation/thermal/sysfs-api.txt - Linux source code (v3.2),https://elixir.bootlin.com/linux/v3.2/source/Documentation/thermal/sysfs-api.txt
+https://www.kernel.org/doc/html/latest/_sources/hw...,https://www.kernel.org/doc/html/latest/_sources/hwmon/aquacomputer_d5next.rst.txt
+Linux Kernel Documentation :: thermal : sysfs-api.txt,https://mjmwired.net/kernel/Documentation/thermal/sysfs-api.txt
+_SAReadme.txt - SpatialAnalyzer,https://www.kinematics.com/ftp/SA/Install/_SAReadme.txt
+p01_doc.txt,http://sam.ucsd.edu/pacwoce/p01/p01_doc.txt
