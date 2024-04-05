@@ -6402,6 +6402,7 @@ arpents
 arquebuses
 arracks
 arraign
+arraigned
 arraigner
 arraigners
 arraigning
@@ -15477,6 +15478,7 @@ buggiest
 bugging
 bughouse
 bugled
+bugler
 buglers
 bugles
 bugleweed
@@ -21244,6 +21246,7 @@ cinquefoils
 cions
 cioppino
 cipher
+cipherer
 cipherers
 ciphering
 ciphers
@@ -24125,6 +24128,7 @@ composer
 composers
 composes
 composing
+composite
 composites
 compositing
 compositional
@@ -35010,6 +35014,7 @@ disparately
 disparateness
 disparatenesses
 disparity
+dispart
 disparted
 disparts
 dispassionate
@@ -39135,6 +39140,7 @@ emblematic
 emblematical
 emblematically
 emblematized
+emblematizes
 emblematizing
 emblemed
 emblements
@@ -39423,6 +39429,7 @@ empires
 empiric
 empirical
 empirically
+empiricism
 empiricisms
 empiricist
 empirics
@@ -39845,6 +39852,7 @@ endomorphism
 endomorphisms
 endomorphs
 endomorphy
+endonuclease
 endonucleolytic
 endoparasite
 endoparasites
@@ -40879,6 +40887,7 @@ epigraphers
 epigraphical
 epigraphies
 epigraphists
+epigraphs
 epigynies
 epigynous
 epigyny
@@ -52017,6 +52026,7 @@ gonadotrophin
 gonadotrophins
 gonadotropin
 gonadotropins
+gonads
 gondola
 gondolas
 gondolier
@@ -55897,6 +55907,7 @@ hematopoieses
 hematopoiesis
 hematopoietic
 hematoporphyrin
+hematoses
 hematosis
 hematoxylin
 hematoxylins
@@ -57039,6 +57050,7 @@ holdback
 holdbacks
 holddowns
 holden
+holders
 holding
 holdings
 holdout
@@ -61624,6 +61636,7 @@ inferrers
 inferrible
 inferring
 infers
+infertilities
 infest
 infestant
 infestation
@@ -63234,6 +63247,7 @@ interspaces
 interspecies
 interspecific
 interspersed
+intersperses
 interspersing
 interspersion
 interspersions
@@ -64104,6 +64118,7 @@ irresolvable
 irresponsible
 irresponsibles
 irresponsibly
+irretrievable
 irretrievably
 irreverences
 irreverent
@@ -72015,6 +72030,7 @@ malnutritions
 malocclusion
 malocclusions
 malodor
+malodorous
 malodorously
 malodorousness
 malodors
@@ -74634,6 +74650,7 @@ metropolis
 metropolises
 metropolitan
 metropolitans
+metrorrhagia
 metrorrhagias
 metros
 mettle
@@ -76675,6 +76692,7 @@ misunions
 misusage
 misusages
 misuse
+misused
 misusers
 misuses
 misusing
@@ -78816,6 +78834,7 @@ murther
 murthered
 murthers
 mus
+muscadel
 muscadels
 muscadet
 muscadets
@@ -78869,6 +78888,7 @@ mushroomed
 mushrooms
 mushy
 music
+musical
 musicale
 musicales
 musicalise
@@ -86645,6 +86665,7 @@ overflow
 overflowed
 overflown
 overflows
+overfly
 overflying
 overfocus
 overfocused
@@ -87840,6 +87861,7 @@ padroni
 padronism
 padronisms
 pads
+padshah
 padshahs
 paduasoy
 paduasoys
@@ -90553,6 +90575,7 @@ perfectionistic
 perfectionists
 perfections
 perfective
+perfectively
 perfectiveness
 perfectivities
 perfectivity
@@ -93480,6 +93503,7 @@ pledgets
 pledging
 pledgor
 pledgors
+pleiad
 pleiades
 pleiads
 pleinairisms
@@ -101939,6 +101963,7 @@ receiverships
 receives
 receiving
 recement
+recemented
 recementing
 recencies
 recency
@@ -114927,6 +114952,7 @@ skewness
 skewnesses
 ski
 skiable
+skiagram
 skiagrams
 skiagraph
 skiagraphs
@@ -115908,6 +115934,7 @@ smirching
 smirk
 smirked
 smirker
+smirkier
 smirkiest
 smirking
 smirks
@@ -119120,6 +119147,7 @@ stagflation
 stagflationary
 staggard
 staggards
+staggart
 staggarts
 stagged
 stagger
@@ -125161,6 +125189,7 @@ targetable
 targeted
 targeting
 tariff
+tariffing
 tariffs
 taring
 tarlatan
@@ -129115,6 +129144,7 @@ traffickers
 trafficking
 traffics
 tragacanth
+tragacanths
 tragedian
 tragediennes
 tragedies
@@ -129295,6 +129325,7 @@ transcribed
 transcriber
 transcribers
 transcribes
+transcribing
 transcriptase
 transcriptases
 transcription
@@ -131746,6 +131777,7 @@ ulsters
 ulterior
 ulteriorly
 ultima
+ultimacies
 ultimacy
 ultimas
 ultimata
@@ -132989,6 +133021,7 @@ undersea
 undersecretary
 undersell
 underselling
+undersells
 underserved
 underset
 undersets
@@ -134011,6 +134044,7 @@ unmanageable
 unmanageably
 unmanful
 unmanliest
+unmannered
 unmannerliness
 unmannerly
 unmannish
@@ -142060,6 +142094,7 @@ zlotych
 zlotys
 zoa
 zoantharian
+zoaria
 zoarial
 zoarium
 zocalo
