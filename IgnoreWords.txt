@@ -4527,6 +4527,7 @@ antechambers
 antechapel
 antechapels
 antechoir
+antechoirs
 anted
 antedate
 antedated
@@ -5688,6 +5689,7 @@ applier
 applies
 applique
 appliqueing
+appliques
 apply
 applying
 appoggiaturas
@@ -6950,6 +6952,7 @@ assignments
 assignor
 assignors
 assigns
+assimilability
 assimilable
 assimilated
 assimilates
@@ -10090,6 +10093,7 @@ beclamors
 beclasped
 beclasping
 becloaked
+becloaking
 becloaks
 beclog
 beclogged
@@ -17934,6 +17938,7 @@ cariogenic
 carioles
 cariosities
 cariosity
+carious
 caritas
 caritases
 carjacked
@@ -21966,6 +21971,7 @@ climaxed
 climaxes
 climaxing
 climaxless
+climb
 climbable
 climbing
 climbs
@@ -22226,6 +22232,7 @@ clowned
 clownery
 clowning
 clownish
+clownishly
 clownishness
 clownishnesses
 clowns
@@ -23826,6 +23833,7 @@ commonalties
 commonalty
 commoners
 commonest
+commonly
 commonness
 commonnesses
 commonplace
@@ -24619,6 +24627,7 @@ confabbing
 confabs
 confabulate
 confabulated
+confabulates
 confabulation
 confabulations
 confabulator
@@ -26738,6 +26747,7 @@ cotyledonary
 cotyledons
 cotyloid
 cotylosaur
+cotylosaurs
 cotype
 cotypes
 couch
@@ -31394,6 +31404,7 @@ del
 delaines
 delaminated
 delaminating
+delamination
 delaminations
 delate
 delated
@@ -31754,6 +31765,7 @@ demonical
 demonise
 demonised
 demonising
+demonism
 demonisms
 demonists
 demonization
@@ -45574,6 +45586,7 @@ fincas
 finch
 finches
 find
+finder
 finders
 finding
 findings
@@ -50079,6 +50092,7 @@ gastroenteritis
 gastrolith
 gastronome
 gastronomes
+gastronomic
 gastronomically
 gastronomist
 gastronomists
@@ -51134,6 +51148,7 @@ girlier
 girlies
 girlish
 girlishly
+girlishness
 girlishnesses
 girls
 girly
@@ -51278,6 +51293,7 @@ glandularly
 glandule
 glandules
 glans
+glare
 glared
 glares
 glarier
@@ -56196,6 +56212,7 @@ hereabout
 hereabouts
 hereafter
 hereat
+hereaway
 hereaways
 hereby
 heredes
@@ -56695,6 +56712,7 @@ hillslopes
 hilltop
 hilly
 hilted
+hilting
 hiltless
 hilts
 hilum
@@ -58313,6 +58331,7 @@ humors
 humouring
 humours
 hump
+humpback
 humpbacked
 humpbacks
 humped
@@ -73765,6 +73784,7 @@ melastome
 melatonin
 melatonins
 meld
+melded
 melder
 melders
 melding
@@ -80818,6 +80838,7 @@ nimbyness
 nimbynesses
 nimieties
 nimmed
+nimming
 nimrod
 nimrods
 nims
@@ -91110,6 +91131,7 @@ perusal
 perusals
 peruse
 perused
+peruser
 perusers
 peruses
 perusing
@@ -100512,6 +100534,7 @@ racons
 raconteur
 raconteurs
 racoon
+racoons
 racquet
 racquetball
 racquetballs
@@ -105321,6 +105344,7 @@ requisite
 requisiteness
 requisitenesses
 requisites
+requisition
 requisitioned
 requisitioning
 requisitions
@@ -105732,6 +105756,7 @@ resmooth
 resmoothed
 resmoothing
 resmooths
+resoak
 resoaked
 resoaking
 resoaks
@@ -105877,6 +105902,7 @@ responsible
 responsibleness
 responsibly
 responsive
+responsively
 responsiveness
 responsories
 responsory
@@ -106862,6 +106888,7 @@ rewritten
 rewrote
 rex
 rexes
+rexines
 rezero
 rezeroes
 rezeroing
@@ -123248,6 +123275,7 @@ supple
 suppled
 supplejack
 supplement
+supplemental
 supplementary
 supplementation
 supplemented
@@ -125001,6 +125029,7 @@ tambouring
 tambourins
 tambours
 tambur
+tambura
 tamburas
 tamburs
 tame
@@ -127044,6 +127073,7 @@ theurgical
 theurgist
 theurgists
 theurgy
+thew
 thewiest
 thews
 thewy
@@ -127938,6 +127968,7 @@ tings
 tinhorn
 tinhorns
 tinier
+tiniest
 tininess
 tininesses
 tining
@@ -133998,6 +134029,7 @@ unlaced
 unlaces
 unlacing
 unlade
+unladen
 unlades
 unlading
 unladylike
@@ -139522,6 +139554,7 @@ wheatears
 wheaten
 wheatlands
 wheatless
+wheats
 wheatworm
 wheatworms
 wheedle
@@ -141476,6 +141509,7 @@ yamalka
 yamalkas
 yamen
 yamens
+yammer
 yammerer
 yammerers
 yammering
@@ -141630,6 +141664,7 @@ yeh
 yeld
 yelk
 yelks
+yelled
 yeller
 yellers
 yelling
