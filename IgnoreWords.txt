@@ -450,6 +450,7 @@ accordionists
 accordions
 accords
 accost
+accosted
 accosting
 accosts
 accouchement
@@ -7908,6 +7909,7 @@ autotrophic
 autotrophies
 autotrophs
 autotype
+autotypes
 autotypies
 autoworker
 autoxidation
@@ -8706,6 +8708,7 @@ bagpiped
 bagpipers
 bagpiping
 bagsful
+baguet
 baguets
 baguette
 baguettes
@@ -8734,6 +8737,7 @@ bailies
 bailiff
 bailiffs
 bailiffship
+bailiffships
 bailiwick
 bailiwicks
 bailment
@@ -12297,6 +12301,7 @@ blabber
 blabbermouth
 blabbermouths
 blabbers
+blabbing
 black
 blackamoor
 blackamoors
@@ -22841,6 +22846,7 @@ coexecutors
 coexert
 coexerted
 coexerting
+coexist
 coexisted
 coexistence
 coexistences
@@ -26840,6 +26846,7 @@ countermeasures
 countermelodies
 countermemo
 countermemos
+countermen
 countermine
 countermines
 countermove
@@ -27623,6 +27630,7 @@ credenda
 credendum
 credent
 credential
+credentialism
 credentialisms
 credentialling
 credentials
@@ -29592,6 +29600,7 @@ daimons
 daimyo
 daimyos
 daintiest
+daintily
 daintiness
 daintinesses
 daiquiri
@@ -37989,6 +37998,7 @@ ecdyses
 ecdysial
 ecdysiast
 ecdysiasts
+ecdysis
 ecdyson
 ecesic
 ecesis
@@ -42548,6 +42558,7 @@ exemptions
 exemptive
 exempts
 exenterates
+exenterating
 exenteration
 exenterations
 exequatur
@@ -43335,6 +43346,7 @@ extraversion
 extraversions
 extreme
 extremely
+extremeness
 extremenesses
 extremes
 extremest
@@ -46725,6 +46737,7 @@ flumping
 flumps
 flung
 flunked
+flunker
 flunkers
 flunkeys
 flunkie
@@ -49444,6 +49457,7 @@ galleta
 galletas
 galleting
 gallets
+galley
 galleys
 gallflies
 gallfly
@@ -52172,6 +52186,7 @@ gougers
 gouges
 gouging
 goulash
+gourami
 gouramies
 gouramis
 gourd
@@ -53110,6 +53125,7 @@ grossular
 grossularite
 grossularites
 grossulars
+grosz
 grosze
 grotesque
 grotesquely
@@ -57832,6 +57848,7 @@ hound
 hounded
 hounder
 hounders
+hounding
 hounds
 hour
 hourglasses
@@ -59511,6 +59528,7 @@ illuming
 illumining
 illuminisms
 illuminist
+illuminists
 illusional
 illusionism
 illusionist
@@ -60256,6 +60274,7 @@ impregnating
 impregnations
 impregnator
 impregnators
+impregned
 impregning
 impregns
 impresario
@@ -63466,6 +63485,7 @@ intuitionists
 intuitions
 intuitive
 intuitively
+intuitiveness
 intuitivenesses
 intuits
 intumesce
@@ -83290,6 +83310,7 @@ octupling
 octuply
 octyl
 octyls
+ocular
 ocularist
 ocularists
 oculars
@@ -84127,6 +84148,7 @@ opsonized
 opsonizes
 opsonizing
 opt
+optative
 optatively
 opted
 optic
@@ -91490,6 +91512,7 @@ phospholipases
 phospholipid
 phospholipids
 phosphonium
+phosphoniums
 phosphoprotein
 phosphoproteins
 phosphor
@@ -92136,6 +92159,7 @@ pies
 pieta
 pieties
 pietism
+pietisms
 pietist
 pietistic
 pietistically
@@ -94357,6 +94381,7 @@ ponchos
 poncing
 ponded
 ponderable
+pondered
 ponderer
 ponderers
 ponderosas
@@ -97968,6 +97993,7 @@ prostituted
 prostitutes
 prostitution
 prostitutions
+prostitutor
 prostitutors
 prostomial
 prostomium
@@ -101741,6 +101767,7 @@ recarried
 recarries
 recarry
 recarrying
+recast
 recatalog
 recataloging
 recatalogs
@@ -103713,6 +103740,7 @@ reinstituting
 reinsurance
 reinsurances
 reinsure
+reinsured
 reinsurers
 reinsures
 reinsuring
@@ -104134,6 +104162,7 @@ remated
 rematerialized
 rematerializes
 rematerializing
+remates
 remating
 remeasure
 remeasured
@@ -105652,6 +105681,7 @@ rest
 restabilized
 restabilizes
 restabilizing
+restable
 restabled
 restables
 restabling
@@ -115018,6 +115048,7 @@ slalomed
 slalomer
 slalomers
 slaloming
+slalomist
 slalomists
 slaloms
 slam
@@ -117427,6 +117458,7 @@ sparklet
 sparklets
 sparklier
 sparkliest
+sparkly
 sparkplug
 sparkplugged
 sparkplugging
@@ -122116,6 +122148,7 @@ suitor
 suk
 sukiyaki
 sukkah
+sukkahs
 sukkot
 sukkoth
 sulcal
@@ -123041,6 +123074,7 @@ supreme
 supremely
 supremeness
 supremenesses
+supremer
 supremes
 supremos
 suq
@@ -128952,6 +128986,7 @@ trainmen
 trainways
 traipsed
 traipsing
+trait
 traitoress
 traitoresses
 traitorous
