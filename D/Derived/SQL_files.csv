@@ -7,3 +7,13 @@ Source of test-queries.sql - scheduler - Bitbucket,https://open.catalyst.harvard
 dspace/etc/oracle/update-sequences.sql ... - Duke Gitlab,https://gitlab.oit.duke.edu/ddr/dspace/-/blob/b07707874a489b4d5238c87d04d2be1b28ece447/dspace/etc/oracle/update-sequences.sql
 db2/summ_csd.sql · 1.6.0-pre1 · Kipp Cannon / python-ligo-lw · GitLab,https://git.ligo.org/kipp.cannon/python-ligo-lw/-/blob/1.6.0-pre1/db2/summ_csd.sql
 08-update-yang-resources-ietf-inet-types-forward.sql - is:wip · Gerrit ...,https://gerrit.nordix.org/plugins/gitiles/onap/cps/%2B/ddedbd16185f756fd6171c6951877cedf78a647f/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-inet-types-forward.sql
+ddl.sql - awslabs/amazon-redshift-utils - GitHub,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/CloudDataWarehouseBenchmark/Cloud-DWB-Derived-from-TPCH/10GB/ddl.sql
+awslabs/amazon-redshift-utils - GitHub,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/CloudDataWarehouseBenchmark/Cloud-DWB-Derived-from-TPCDS/3TB/ddl.sql
+Step By Step Scripts/C14Code/02 - Perform aggregations with the ...,https://resources.oreilly.com/examples/9780735663862-files/blob/4192853d0d3b23e7066c33658b250d83c701a7e4/Step%2520By%2520Step%2520Scripts/C14Code/02%2520-%2520Perform%2520aggregations%2520with%2520the%2520GROUP%2520BY%2520clause.sql
+https://docs.oracle.com/cd/E60529_01/books/Basel/I...,https://docs.oracle.com/cd/E60529_01/books/Basel/ICC_Batch_Insert.sql
+https://docs.oracle.com/cd/E82085_01/160030/Enterp...,https://docs.oracle.com/cd/E82085_01/160030/EnterpriseIntegration/BDI/bdi-interface-data-contracts/ddl/Calendar_Fnd_Calendar_In.sql
+Source of test-queries.sql - scheduler - Bitbucket,https://open.catalyst.harvard.edu/stash/projects/HCCRCSCHEDULER/repos/scheduler/browse/subject-data-cleaner/src/test/sql/test-queries.sql%3Fat%3D6626c85453f0410f0dedc5343977b313765d8ffd
+CoCalc -- schema_v3.sql,https://cocalc.com/github/freebsd/freebsd-src/blob/main/contrib/kyua/store/schema_v3.sql
+load_3xmmdr7cat.sql - XMM-SSC,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR7/load_3xmmdr7cat.sql
+CoCalc -- migrate_v1_v2.sql,https://cocalc.com/github/freebsd/freebsd-src/blob/main/contrib/kyua/store/migrate_v1_v2.sql
+awslabs/amazon-redshift-utils - GitHub,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/CloudDataWarehouseBenchmark/Cloud-DWB-Derived-from-TPCH/3TB/ddl.sql
