@@ -1040,6 +1040,7 @@ addressability
 addressable
 addressed
 addressee
+addressees
 addresser
 addressers
 addressing
@@ -1248,6 +1249,7 @@ admonish
 admonished
 admonisher
 admonishers
+admonishes
 admonishing
 admonishingly
 admonishment
@@ -3364,6 +3366,7 @@ amebean
 amebiases
 amebiasis
 amebic
+amebocyte
 amebocytes
 ameboid
 ameer
@@ -3980,6 +3983,7 @@ anchylose
 anchylosed
 anchyloses
 anchylosing
+ancienter
 ancientest
 ancientries
 ancientry
@@ -5736,6 +5740,7 @@ appraised
 appraisees
 appraisement
 appraisements
+appraiser
 appraisers
 appraises
 appreciable
@@ -6182,6 +6187,7 @@ areole
 areoles
 areologies
 areology
+arepa
 arepas
 ares
 arete
@@ -14701,6 +14707,7 @@ breeze
 breezeless
 breezes
 breeziest
+breezily
 breeziness
 breezing
 breezy
@@ -23266,6 +23273,7 @@ collaborates
 collaborating
 collaboration
 collaborations
+collaborative
 collaboratively
 collaboratives
 collaborator
@@ -27935,6 +27943,7 @@ cricket
 cricketed
 cricketer
 cricketing
+crickets
 crickey
 cricking
 cricks
@@ -37709,6 +37718,7 @@ durndest
 durned
 durning
 duroc
+durometer
 durr
 durra
 durras
@@ -49264,6 +49274,7 @@ furnace
 furnaces
 furnacing
 furnished
+furnisher
 furnishers
 furnishes
 furnishing
@@ -57439,6 +57450,7 @@ hominoids
 hominy
 hommos
 hommoses
+homocercal
 homocercies
 homocercy
 homoerotic
@@ -60664,6 +60676,7 @@ inabilities
 inability
 inaccessibility
 inaccuracies
+inaccuracy
 inaccurate
 inaccurately
 inaction
@@ -62122,6 +62135,7 @@ inherency
 inherent
 inhering
 inheritability
+inheritableness
 inheritance
 inheritances
 inheritor
@@ -68821,6 +68835,7 @@ leisureliness
 leisurelinesses
 leisurely
 leitmotifs
+leitmotiv
 leitmotivs
 lek
 lekked
@@ -71666,6 +71681,7 @@ macrodont
 macroeconomic
 macroeconomics
 macroevolution
+macroevolutions
 macrofossil
 macrogamete
 macrogametes
@@ -77810,6 +77826,7 @@ moody
 mooed
 mooing
 mool
+moola
 moolahs
 moolas
 mooleys
@@ -79734,6 +79751,7 @@ narcissi
 narcissisms
 narcissist
 narcissistic
+narcissists
 narcissus
 narcissuses
 narcist
@@ -80114,6 +80132,7 @@ necropoles
 necropoli
 necropolis
 necropolises
+necropsied
 necropsies
 necropsy
 necrose
@@ -85488,6 +85507,7 @@ outdone
 outdoor
 outdoors
 outdoorsman
+outdoorsmanship
 outdoorsy
 outdrag
 outdragging
@@ -85495,6 +85515,7 @@ outdrags
 outdrank
 outdraws
 outdream
+outdreamed
 outdreams
 outdreamt
 outdress
@@ -86647,6 +86668,7 @@ overconcerns
 overconfidences
 overconfident
 overconfidently
+overconscious
 overconstructed
 overconstructs
 overconsume
@@ -86847,6 +86869,7 @@ overexpansions
 overexpectation
 overexplained
 overexplains
+overexploit
 overexploiting
 overexploits
 overexpose
@@ -86860,6 +86883,7 @@ overextending
 overextends
 overextension
 overextensions
+overextractions
 overextravagant
 overexuberant
 overfacile
@@ -87317,6 +87341,7 @@ overprotects
 overproud
 overpump
 overpumping
+overpumps
 overqualified
 overran
 overrash
@@ -88712,6 +88737,7 @@ panty
 pantywaist
 pantywaists
 panzer
+panzers
 papa
 papacies
 papacy
@@ -94856,6 +94882,7 @@ poofter
 poofters
 poofy
 pooh
+poohed
 poohing
 poohs
 pooing
@@ -100701,6 +100728,7 @@ racializes
 racializing
 racially
 racier
+racily
 racing
 racings
 racism
@@ -103862,6 +103890,7 @@ regosols
 regrade
 regrades
 regrading
+regraft
 regrafting
 regrant
 regranted
@@ -111234,6 +111263,7 @@ scribal
 scribble
 scribbled
 scribbler
+scribblers
 scribbles
 scribbling
 scribbly
@@ -114955,6 +114985,7 @@ sinkage
 sinkages
 sinker
 sinkers
+sinking
 sinlessly
 sinlessness
 sinlessnesses
@@ -120295,6 +120326,7 @@ stickballs
 sticked
 stickers
 stickful
+stickfuls
 stickhandle
 stickhandled
 stickhandler
@@ -123568,6 +123600,7 @@ suppose
 supposedly
 supposers
 supposes
+supposing
 supposition
 suppositional
 suppositions
@@ -129725,6 +129758,7 @@ transfers
 transfiguration
 transfigure
 transfigured
+transfigures
 transfinite
 transfix
 transfixed
@@ -138665,6 +138699,7 @@ wakame
 wakames
 wakandas
 wake
+wakeboard
 wakeboarder
 wakeboarders
 wakeboarding
