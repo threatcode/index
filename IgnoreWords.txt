@@ -2314,6 +2314,7 @@ airscape
 airscrew
 airscrews
 airshed
+airsheds
 airships
 airshow
 airshows
@@ -3509,6 +3510,7 @@ ammonic
 ammonified
 ammonifies
 ammonify
+ammonifying
 ammonite
 ammonites
 ammonitic
@@ -6881,6 +6883,7 @@ assassin
 assassinate
 assassinations
 assassinator
+assassinators
 assaulted
 assaulter
 assaulters
@@ -8681,6 +8684,7 @@ baculums
 bad
 badass
 badassed
+badasses
 baddie
 baddies
 baddy
@@ -17932,6 +17936,7 @@ caressed
 caresser
 caressers
 caressing
+caressingly
 caressive
 caressively
 caretake
@@ -18752,6 +18757,7 @@ cauline
 caulis
 caulk
 caulked
+caulkers
 caulking
 caulkings
 caulks
@@ -19976,6 +19982,7 @@ chebec
 chebecs
 chechako
 chechakos
+check
 checkable
 checkbook
 checkbooks
@@ -25974,6 +25981,7 @@ copestone
 copestones
 copied
 copier
+copiers
 copihue
 copihues
 copilot
@@ -41059,6 +41067,7 @@ epiphany
 epiphenomena
 epiphenomenal
 epiphenomenon
+epiphragm
 epiphragms
 epiphyses
 epiphysial
@@ -43633,6 +43642,7 @@ eyeblacks
 eyeblink
 eyeblinks
 eyebolt
+eyebolts
 eyebright
 eyebrights
 eyebrow
@@ -52761,6 +52771,7 @@ graphically
 graphicness
 graphicnesses
 graphics
+graphing
 graphitic
 graphitizable
 graphitization
@@ -57259,6 +57270,7 @@ holloo
 hollooed
 hollooing
 holloos
+hollos
 holloware
 hollowares
 hollowed
@@ -59037,6 +59049,7 @@ hyperlinked
 hyperlinking
 hyperlinks
 hyperlipemia
+hyperlipemias
 hyperlipemic
 hyperlipidemias
 hypermania
@@ -63554,6 +63567,7 @@ intimately
 intimateness
 intimatenesses
 intimater
+intimates
 intimating
 intime
 intimidate
@@ -66978,6 +66992,7 @@ knitting
 knitwear
 knives
 knob
+knobbed
 knobbiest
 knobblier
 knobbliest
@@ -70711,6 +70726,7 @@ loofah
 loofahs
 loofas
 loofs
+looie
 looies
 looing
 look
@@ -73881,6 +73897,7 @@ megillah
 megillahs
 megillas
 megilp
+megilph
 megohm
 megohms
 megrim
@@ -88887,6 +88904,7 @@ paradox
 paradoxes
 paradoxical
 paradoxicality
+paradoxically
 paradoxicalness
 paradrop
 paradropping
@@ -90047,6 +90065,7 @@ peasantries
 peasantry
 peasants
 peascod
+peascods
 pease
 peasecod
 peasecods
@@ -91239,6 +91258,7 @@ persona
 personable
 personableness
 personages
+personal
 personalise
 personalises
 personalising
@@ -92313,6 +92333,7 @@ phytochemists
 phytoflagellate
 phytogenies
 phytogeographic
+phytohormone
 phytohormones
 phytol
 phytolith
@@ -97999,6 +98020,7 @@ prologues
 prologuize
 prologuized
 prologuizes
+prolong
 prolongation
 prolongations
 prolonge
@@ -101912,6 +101934,7 @@ reapproving
 reaps
 rear
 reared
+rearer
 rearers
 rearguard
 reargue
@@ -102567,6 +102590,7 @@ recondensing
 recondite
 reconditenesses
 recondition
+reconditioned
 reconditioning
 reconduct
 reconducted
@@ -107660,6 +107684,7 @@ ringdove
 ringdoves
 ringed
 ringent
+ringer
 ringers
 ringgit
 ringgits
@@ -111483,6 +111508,7 @@ scunnered
 scunners
 scup
 scuppaug
+scupper
 scuppernong
 scuppernongs
 scuppers
@@ -122012,6 +122038,7 @@ subliterate
 subliterature
 subliteratures
 sublittoral
+sublittorals
 sublot
 sublots
 sublunar
@@ -129012,6 +129039,7 @@ torchons
 torchwood
 torchwoods
 torchy
+torcs
 tore
 toreador
 toreadors
@@ -129831,6 +129859,7 @@ translate
 translated
 translating
 translation
+translational
 translations
 translative
 translator
@@ -134234,6 +134263,7 @@ uniters
 unites
 unities
 uniting
+unitive
 unitization
 unitizations
 unitize
@@ -136551,6 +136581,7 @@ vanquishing
 vans
 vanward
 vapid
+vapidities
 vapidity
 vapidness
 vapidnesses
@@ -136810,6 +136841,7 @@ veered
 veering
 veeringly
 veers
+veg
 vegan
 veganisms
 vegans
@@ -137753,6 +137785,7 @@ vinylidene
 vinylidenes
 viol
 violabilities
+violability
 violable
 violablenesses
 violably
@@ -140113,6 +140146,7 @@ whirrying
 whirs
 whish
 whished
+whishes
 whishing
 whishted
 whishting
@@ -142469,6 +142503,7 @@ zinkenites
 zinkifies
 zinkify
 zinkifying
+zinnias
 zins
 zip
 zipless
