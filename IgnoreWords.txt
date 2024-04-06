@@ -1735,6 +1735,7 @@ affixation
 affixations
 affixed
 affixer
+affixers
 affixes
 affixial
 affixing
@@ -2874,6 +2875,7 @@ alloantibody
 alloantigen
 allobars
 allocable
+allocatable
 allocate
 allocated
 allocates
@@ -3222,6 +3224,7 @@ amaranths
 amarelle
 amarelles
 amaretto
+amarna
 amarone
 amarones
 amaryllis
@@ -6324,6 +6327,7 @@ armaments
 armatured
 armatures
 armaturing
+armband
 armbands
 armchair
 armchairs
@@ -8194,6 +8198,7 @@ awls
 awlwort
 awlworts
 awmous
+awning
 awninged
 awnings
 awnless
@@ -12024,6 +12029,7 @@ biopsy
 biopsying
 bioptic
 bioreactors
+bioregional
 bioregionalism
 bioregionalisms
 bioregionalists
@@ -13354,6 +13360,7 @@ bogs
 bogus
 bogusly
 bogusnesses
+bogwood
 bogwoods
 bogy
 bogyism
@@ -18172,6 +18179,7 @@ carritch
 carroches
 carrom
 carromed
+carroming
 carronade
 carronades
 carrot
@@ -21441,6 +21449,7 @@ circumvallation
 circumvent
 circumvented
 circumventing
+circumvention
 circumventions
 circumvents
 circumvolution
@@ -21567,6 +21576,7 @@ civilianizes
 civilianizing
 civilians
 civilise
+civilises
 civilising
 civilization
 civilizational
@@ -22105,6 +22115,7 @@ cliquey
 cliquier
 cliquing
 cliquish
+cliquishly
 cliquishness
 cliquy
 clitella
@@ -26162,6 +26173,7 @@ corantos
 corban
 corbans
 corbeil
+corbeille
 corbeils
 corbel
 corbeled
@@ -26541,6 +26553,7 @@ corruptionists
 corruptively
 corruptly
 corruptness
+corruptnesses
 corruptor
 corruptors
 cors
@@ -27578,6 +27591,7 @@ craniates
 craning
 craniofacial
 craniologies
+craniology
 craniometries
 craniotomies
 craniotomy
@@ -35877,6 +35891,7 @@ dizen
 dizened
 dizenment
 dizenments
+dizens
 dizygotic
 dizygous
 dizzied
@@ -36780,6 +36795,7 @@ doze
 dozed
 dozen
 dozened
+dozening
 dozens
 dozenths
 dozers
@@ -46150,6 +46166,7 @@ flagellations
 flagellum
 flagellums
 flageolet
+flageolets
 flagged
 flagger
 flaggers
@@ -54093,6 +54110,7 @@ gymnasium
 gymnasiums
 gymnast
 gymnastic
+gymnastically
 gymnastics
 gymnasts
 gymnosophist
@@ -57505,6 +57523,7 @@ homogametic
 homogamies
 homogamous
 homogenates
+homogeneities
 homogeneity
 homogeneous
 homogeneously
@@ -70559,6 +70578,7 @@ logans
 logaoedic
 logarithm
 logarithms
+logbook
 logbooks
 loges
 loggats
@@ -85541,6 +85561,7 @@ outdatedness
 outdates
 outdating
 outdazzle
+outdazzled
 outdazzling
 outdebate
 outdebated
@@ -89284,6 +89305,7 @@ parity
 parka
 parkade
 parkades
+parkas
 parkers
 parkette
 parkettes
@@ -92721,6 +92743,7 @@ pignolia
 pignolias
 pignolis
 pignus
+pignut
 pignuts
 pigout
 pigouts
@@ -94454,6 +94477,7 @@ polenta
 polentas
 poler
 poles
+polestar
 polestars
 poleward
 poleyn
@@ -109178,6 +109202,7 @@ sack
 sackbut
 sackbuts
 sackcloth
+sackcloths
 sacked
 sacker
 sackers
@@ -114070,6 +114095,7 @@ shogun
 shogunal
 shogunate
 shogunates
+shoguns
 shoji
 shojis
 sholom
@@ -114599,6 +114625,7 @@ sidestepped
 sidestepper
 sidesteppers
 sidestepping
+sidestream
 sidestroke
 sidestrokes
 sideswipe
@@ -121576,6 +121603,7 @@ stunt
 stunted
 stuntedness
 stuntednesses
+stunting
 stuntwoman
 stuntwomen
 stupa
@@ -126914,6 +126942,7 @@ tesselate
 tesselates
 tesselating
 tessellate
+tessellated
 tessellates
 tessellating
 tessellation
@@ -127144,6 +127173,7 @@ thanker
 thankers
 thankful
 thankfullest
+thankfully
 thankfulness
 thankfulnesses
 thankless
@@ -133373,6 +133403,7 @@ underexpose
 underexposed
 underexposing
 underexposure
+underexposures
 underfed
 underfeeds
 underfinanced
@@ -136647,6 +136678,7 @@ vanquisher
 vanquishers
 vanquishing
 vans
+vantage
 vanward
 vapid
 vapidities
@@ -137103,6 +137135,7 @@ venologies
 venology
 venomed
 venomers
+venoming
 venomous
 venomousness
 venomousnesses
@@ -139357,6 +139390,7 @@ wattest
 watthour
 wattle
 wattlebird
+wattled
 wattles
 wattless
 wattling
@@ -140491,6 +140525,7 @@ wielders
 wieldiest
 wielding
 wields
+wieldy
 wienerwurst
 wienerwursts
 wienie
