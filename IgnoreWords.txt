@@ -776,6 +776,7 @@ acquisitors
 acquit
 acquittal
 acquittance
+acquittances
 acquitted
 acquitter
 acquitters
@@ -3590,6 +3591,7 @@ amortization
 amortize
 amortized
 amortizes
+amosite
 amosites
 amotion
 amount
@@ -3628,6 +3630,7 @@ amphibrachs
 amphictyonic
 amphidiploid
 amphidiploidies
+amphidiploidy
 amphigory
 amphimacer
 amphimixis
@@ -3664,6 +3667,7 @@ amplexuses
 amplification
 amplifications
 amplifier
+amplifies
 amplify
 amplifying
 amplitude
@@ -6167,6 +6171,7 @@ ardebs
 ardencies
 ardency
 ardent
+ardently
 ardour
 ardours
 arduous
@@ -12820,6 +12825,7 @@ blobbed
 bloc
 block
 blockable
+blockade
 blockaded
 blockader
 blockaders
@@ -16725,6 +16731,7 @@ calathos
 calathus
 calcaneal
 calcaneum
+calcaneus
 calcar
 calcarate
 calcareous
@@ -46963,6 +46970,7 @@ flowstone
 flub
 flubbed
 flubber
+flubbers
 flubbing
 flubdub
 flubdubs
@@ -49111,6 +49119,7 @@ fuggily
 fugging
 fuggy
 fugio
+fugios
 fugitive
 fugitively
 fugitivenesses
@@ -51462,6 +51471,7 @@ gladsomer
 gladsomest
 gladstone
 gladstones
+glady
 glaiket
 glaikit
 glair
@@ -55349,6 +55359,7 @@ hasps
 hassel
 hassels
 hassium
+hassiums
 hassled
 hassles
 hassling
@@ -56133,6 +56144,7 @@ helotage
 helotages
 helotism
 helotries
+helotry
 help
 helper
 helpers
@@ -65175,6 +65187,7 @@ jee
 jeed
 jeep
 jeeped
+jeepers
 jeeping
 jeepney
 jeepneys
@@ -65350,6 +65363,7 @@ jewfish
 jewfishes
 jewing
 jews
+jezail
 jezails
 jezebel
 jiao
@@ -69330,6 +69344,7 @@ lewisite
 lewisites
 lewissons
 lex
+lexeme
 lexemes
 lexemic
 lexes
@@ -73100,6 +73115,7 @@ marrowbone
 marrowed
 marrowfat
 marrowfats
+marrowing
 marrows
 marrowy
 marry
@@ -74795,6 +74811,7 @@ metamorphosis
 metanalyses
 metanalysis
 metanephric
+metanephroi
 metanephros
 metaphase
 metaphor
@@ -76970,6 +76987,7 @@ misstrike
 misstrikes
 misstruck
 misstyle
+misstyles
 misstyling
 missuited
 missuiting
@@ -85859,6 +85877,7 @@ outgone
 outgrew
 outgrin
 outgrinned
+outgrinning
 outgrins
 outgross
 outgrossed
@@ -87993,6 +88012,7 @@ owlishness
 owlishnesses
 owllike
 owls
+own
 owned
 owner
 owners
@@ -92086,6 +92106,7 @@ phooey
 phorate
 phorates
 phoresy
+phoronid
 phoronids
 phosgene
 phosgenes
@@ -102227,6 +102248,7 @@ reavail
 reavailed
 reavailing
 reavails
+reave
 reaved
 reaver
 reavers
@@ -104020,6 +104042,7 @@ reggae
 regild
 regilding
 regilt
+regime
 regimen
 regimens
 regimentals
@@ -108648,6 +108671,7 @@ roundballs
 rounded
 roundedness
 roundednesses
+roundel
 roundelay
 roundelays
 rounder
@@ -109703,6 +109727,7 @@ salterns
 salters
 saltest
 saltie
+saltier
 saltiest
 saltily
 saltimbocca
@@ -114580,6 +114605,7 @@ shuttler
 shuttlers
 shuttles
 shuttling
+shvartze
 shvartzes
 shwa
 shwanpans
@@ -115145,6 +115171,7 @@ sinew
 sinewing
 sinewless
 sinews
+sinewy
 sinfonia
 sinfonie
 sinfoniettas
@@ -118705,6 +118732,7 @@ spies
 spiff
 spiffed
 spiffier
+spiffily
 spiffiness
 spiffing
 spiffs
@@ -121671,6 +121699,7 @@ studiousness
 studiousnesses
 studliest
 studly
+studs
 studworks
 study
 studying
@@ -123078,6 +123107,7 @@ sum
 sumac
 sumach
 sumachs
+sumless
 summabilities
 summable
 summand
@@ -131320,6 +131350,7 @@ truckmen
 trucks
 truculence
 truculencies
+truculency
 truculent
 truculently
 trudge
@@ -137193,6 +137224,7 @@ venality
 venally
 venatical
 venation
+venations
 vend
 vendable
 vendace
@@ -138295,6 +138327,7 @@ vitrain
 vitrains
 vitrectomies
 vitrectomy
+vitreous
 vitreouses
 vitric
 vitrics
@@ -138999,6 +139032,7 @@ wale
 waled
 walers
 walk
+walkable
 walkabout
 walkabouts
 walkathon
@@ -142183,6 +142217,7 @@ yawed
 yawey
 yawl
 yawled
+yawling
 yawls
 yawmeter
 yawmeters
