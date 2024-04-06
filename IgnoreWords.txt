@@ -2722,6 +2722,7 @@ aliteracy
 aliterates
 aliunde
 alive
+alivenesses
 aliyahs
 aliyos
 aliyot
@@ -10709,6 +10710,7 @@ believabilities
 believable
 believably
 believe
+believed
 believer
 believers
 believes
@@ -11584,6 +11586,7 @@ bided
 bidental
 bidentate
 bider
+biders
 bides
 bidet
 bidets
@@ -12375,6 +12378,7 @@ bitterroots
 bitters
 bittersweet
 bittersweetly
+bittersweetness
 bittersweets
 bitterweed
 bittier
@@ -17308,6 +17312,7 @@ caner
 canes
 canescent
 caneware
+canewares
 canfield
 canfields
 canful
@@ -25586,6 +25591,7 @@ contempts
 contemptuous
 contend
 contended
+contender
 contenders
 contending
 content
@@ -27505,6 +27511,7 @@ coxalgy
 coxcomb
 coxcombic
 coxcombries
+coxcombry
 coxcombs
 coxed
 coxing
@@ -29332,6 +29339,7 @@ cutchery
 cutches
 cutdowns
 cute
+cutely
 cuteness
 cuter
 cutes
@@ -32044,6 +32052,7 @@ demure
 demurely
 demureness
 demurenesses
+demurer
 demurrage
 demurral
 demurrals
@@ -36801,6 +36810,7 @@ down
 downbeat
 downbeats
 downbow
+downbows
 downburst
 downbursts
 downcast
@@ -36840,6 +36850,7 @@ downlinks
 download
 downloadable
 downloaded
+downloading
 downloads
 downpipes
 downplay
@@ -42983,6 +42994,7 @@ exhalant
 exhalants
 exhalation
 exhale
+exhaled
 exhalent
 exhalents
 exhales
@@ -58213,6 +58225,7 @@ horseshoed
 horseshoeing
 horseshoer
 horseshoers
+horseshoes
 horsetail
 horsetails
 horseweed
@@ -67113,6 +67126,7 @@ kitchenware
 kitchenwares
 kite
 kitelike
+kiter
 kiters
 kites
 kith
@@ -68518,6 +68532,7 @@ latifundia
 latifundio
 latigo
 latigoes
+latigos
 latilla
 latillas
 latimeria
@@ -68964,6 +68979,7 @@ lecythus
 led
 lederhosen
 ledger
+ledgers
 ledges
 ledgier
 ledgiest
@@ -69464,6 +69480,7 @@ levigations
 levin
 levins
 levirate
+leviratic
 levis
 levitate
 levitated
@@ -81788,6 +81805,7 @@ nonbelligerency
 nonbelligerents
 nonbetting
 nonbinary
+nonbinding
 nonbiographical
 nonbiological
 nonbiologically
@@ -89292,6 +89310,7 @@ parafoils
 paragenesis
 paragenetic
 paragenetically
+paraglide
 paraglided
 paraglides
 paragliding
@@ -95499,6 +95518,7 @@ portapacks
 portapak
 portapaks
 portcullises
+portend
 portended
 portending
 portends
@@ -96263,6 +96283,7 @@ preadopted
 preadopting
 preadopts
 preadults
+preaged
 preagricultural
 preallot
 preallots
@@ -97180,6 +97201,7 @@ preppy
 prepreg
 prepregs
 prepresidential
+prepress
 preprice
 preprices
 prepricing
@@ -103184,6 +103206,7 @@ recreative
 recrement
 recrements
 recriminate
+recriminated
 recriminating
 recrimination
 recriminations
@@ -104498,6 +104521,7 @@ rehydration
 rehydrations
 rehypnotizes
 rehypnotizing
+rei
 reichsmarks
 reidentified
 reidentifies
@@ -106978,6 +107002,7 @@ reticulocytes
 reticulum
 reticulums
 retie
+retied
 retieing
 reties
 retiform
@@ -115095,6 +115120,7 @@ sightings
 sightless
 sightlessly
 sightlessness
+sightlessnesses
 sightlier
 sightliest
 sightlines
@@ -116697,6 +116723,7 @@ smaltine
 smaltines
 smaltites
 smalto
+smaltos
 smalts
 smaragd
 smaragde
@@ -117479,6 +117506,7 @@ sociology
 sociometric
 sociometries
 sociometry
+sociopathic
 sociopaths
 sociopolitical
 socioreligious
@@ -124601,6 +124629,7 @@ swanskins
 swap
 swapped
 swapper
+swappers
 swapping
 swaps
 swaraj
@@ -132411,6 +132440,7 @@ twelfths
 twelve
 twelvemo
 twelvemonths
+twelvemos
 twelves
 twenties
 twentieth
@@ -137930,6 +137960,7 @@ verticalness
 verticalnesses
 verticals
 vertices
+verticil
 verticillate
 verticils
 vertigines
@@ -138495,6 +138526,7 @@ viroids
 virological
 virologically
 virology
+virtu
 virtual
 virtualities
 virtuality
@@ -140317,6 +140349,7 @@ weldment
 weldments
 weldor
 welds
+welfare
 welfares
 welfarism
 welfarisms
@@ -141569,6 +141602,7 @@ withering
 witheringly
 witherites
 witherods
+withheld
 withhold
 withholder
 withholders
@@ -142260,6 +142294,7 @@ wrongfulness
 wrongfulnesses
 wrongheaded
 wrongheadedly
+wrongheadedness
 wronging
 wrongly
 wrongness
