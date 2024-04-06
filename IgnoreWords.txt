@@ -1458,6 +1458,7 @@ advertences
 advertencies
 advertency
 advertent
+advertently
 adverting
 advertise
 advertised
@@ -3157,6 +3158,7 @@ altimetries
 altimetry
 altiplanos
 altitude
+altitudes
 altitudinal
 altitudinous
 altocumuli
@@ -3226,6 +3228,7 @@ amanitas
 amanitin
 amantadine
 amantadines
+amanuenses
 amanuensis
 amaranth
 amaranthine
@@ -10947,6 +10950,7 @@ bent
 bentgrass
 bentgrasses
 benthal
+benthic
 benthon
 benthonic
 benthons
@@ -11845,6 +11849,7 @@ bimolecularly
 bimonthlies
 bimorph
 bimorphemic
+bimorphs
 bin
 binaries
 binarism
@@ -12557,6 +12562,7 @@ blandnesses
 blank
 blanked
 blanker
+blankest
 blanket
 blanketed
 blanketflower
@@ -15872,6 +15878,7 @@ buoying
 buoys
 bupkus
 buppie
+buppy
 buprestid
 buprestids
 bur
@@ -18670,6 +18677,7 @@ catenae
 catenaries
 catenary
 catenas
+catenate
 catenated
 catenates
 catenating
@@ -25956,6 +25964,7 @@ cookie
 cookies
 cooking
 cookings
+cookoff
 cookout
 cookouts
 cooks
@@ -35206,6 +35215,7 @@ disobeying
 disobeys
 disoblige
 disobliged
+disobliging
 disomic
 disordered
 disorderedly
@@ -54437,6 +54447,7 @@ hackmen
 hackney
 hackneyed
 hackneying
+hackneys
 hacks
 hacksaw
 hacksawed
@@ -56059,6 +56070,7 @@ heirdom
 heirdoms
 heiress
 heiresses
+heiring
 heirless
 heirloom
 heirlooms
@@ -57118,6 +57130,7 @@ hirselling
 hirsels
 hirsle
 hirsles
+hirsute
 hirsuteness
 hirsutenesses
 hirsutism
@@ -61510,6 +61523,7 @@ indentations
 indented
 indenter
 indenters
+indenting
 indention
 indenture
 indentured
@@ -63681,6 +63695,7 @@ intertills
 intertrial
 intertribal
 intertroop
+intertwine
 intertwinement
 intertwinements
 intertwines
@@ -71527,6 +71542,7 @@ lunting
 lunula
 lunulate
 lunulated
+lunule
 lunules
 luny
 lupanar
@@ -75522,6 +75538,7 @@ midgets
 midgut
 midguts
 midi
+midinette
 midiron
 midirons
 midis
@@ -76292,6 +76309,7 @@ misbecomes
 misbecoming
 misbegin
 misbeginning
+misbegins
 misbegot
 misbegotten
 misbehave
@@ -77517,6 +77535,7 @@ moldwarp
 moldwarps
 moldy
 mole
+molecularly
 molecule
 molecules
 molehill
@@ -77626,6 +77645,7 @@ monadnocks
 monads
 monandries
 monarch
+monarchal
 monarchic
 monarchically
 monarchies
@@ -80711,6 +80731,7 @@ nerdish
 nerds
 nereid
 nereides
+nereids
 nereis
 nerol
 neroli
@@ -86503,6 +86524,7 @@ outsteers
 outstood
 outstretch
 outstretched
+outstretches
 outstretching
 outstridden
 outstriding
@@ -91141,6 +91163,7 @@ perfervid
 perfidies
 perfidious
 perfidiously
+perfidy
 perforate
 perforated
 perforating
@@ -91233,6 +91256,7 @@ perilled
 perilling
 perilously
 perilousness
+perilousnesses
 perilune
 perilunes
 perilymph
@@ -91462,6 +91486,7 @@ perpetuating
 perpetuation
 perpetuations
 perpetuator
+perpetuators
 perpetuities
 perpetuity
 perphenazine
@@ -98798,6 +98823,7 @@ protectively
 protector
 protectorate
 protectorates
+protectors
 protectorship
 protectorships
 protectory
@@ -107168,6 +107194,7 @@ revegetated
 revegetates
 revegetating
 revegetation
+revegetations
 revel
 revelation
 revelations
@@ -112991,6 +113018,7 @@ septette
 septical
 septicemia
 septicemias
+septicemic
 septicidal
 septicities
 septics
@@ -114233,6 +114261,7 @@ shivers
 shivery
 shives
 shiviti
+shivitis
 shkotzim
 shlemiehl
 shlemiehls
@@ -116330,6 +116359,7 @@ slop
 slope
 sloper
 slopers
+slopes
 sloping
 slopingly
 slopped
@@ -124477,6 +124507,7 @@ swaybacked
 swaybacks
 swayed
 swayer
+swayers
 swayful
 swaying
 sways
@@ -133093,6 +133124,7 @@ unbottling
 unbouncy
 unbound
 unbounded
+unboundedness
 unboundednesses
 unbowdlerized
 unbowing
@@ -135240,6 +135272,7 @@ unreinforced
 unrelated
 unrelenting
 unrelentingly
+unreliability
 unreliable
 unrelievedly
 unreluctant
@@ -135571,6 +135604,7 @@ unspeaks
 unspecifiable
 unspecific
 unspecified
+unspent
 unsphere
 unsphered
 unspheres
@@ -136070,6 +136104,7 @@ upflows
 upflung
 upfold
 upfolded
+upfolding
 upfolds
 upgather
 upgathering
