@@ -3903,6 +3903,7 @@ anaphylaxes
 anaphylaxis
 anaplasia
 anaplasias
+anaplasmoses
 anaplasmosis
 anaptyxes
 anaptyxis
@@ -12181,6 +12182,7 @@ birdmen
 birdseed
 birdseeds
 birdseye
+birdsong
 birdsongs
 birdwatch
 birdwatched
@@ -14761,6 +14763,7 @@ brevity
 brew
 brewage
 brewages
+brewer
 breweries
 brewers
 brewery
@@ -16748,6 +16751,7 @@ calcspar
 calcspars
 calctufa
 calctuff
+calctuffs
 calculated
 calculatedly
 calculatedness
@@ -16829,6 +16833,7 @@ calisthenic
 calisthenics
 calix
 calked
+calker
 calking
 calkings
 calkins
@@ -21613,6 +21618,7 @@ cladoceran
 cladocerans
 cladode
 cladodes
+cladodial
 cladogenesis
 cladogenetic
 cladogram
@@ -29816,6 +29822,7 @@ dalmatian
 dalmatians
 dalmatic
 dalmatics
+daltonian
 daltonic
 daltonism
 daltonisms
@@ -30994,6 +31001,7 @@ deductive
 deductively
 deducts
 dee
+deed
 deeded
 deedier
 deediest
@@ -31323,6 +31331,7 @@ defuelling
 defunct
 defund
 defunded
+defunding
 defunds
 defuse
 defused
@@ -34197,6 +34206,7 @@ dipeptides
 diphase
 diphasic
 diphenhydramine
+diphenylamine
 diphenylamines
 diphenyls
 diphosgene
@@ -38857,6 +38867,7 @@ electees
 election
 electioneer
 electioneered
+electioneerers
 electioneering
 elections
 elective
@@ -41616,6 +41627,7 @@ escalating
 escalation
 escalations
 escalator
+escalators
 escalatory
 escallop
 escalloped
@@ -44811,6 +44823,7 @@ feigned
 feignedly
 feigner
 feigners
+feigns
 feijoa
 feijoas
 feint
@@ -45276,6 +45289,7 @@ fever
 feverfew
 fevering
 feverish
+feverishly
 feverishness
 feverishnesses
 feverous
@@ -45598,6 +45612,7 @@ filibustered
 filibusterer
 filibusters
 filicide
+filicides
 filiform
 filigreed
 filigreeing
@@ -45878,6 +45893,7 @@ firebug
 fireclay
 fireclays
 firecracker
+firecrackers
 firedamp
 firedog
 firedogs
@@ -47954,6 +47970,7 @@ formals
 formant
 formants
 formate
+formates
 formation
 formations
 formatively
@@ -49322,6 +49339,7 @@ furloughing
 furloughs
 furls
 furmenties
+furmeties
 furmety
 furmity
 furnace
@@ -50885,6 +50903,7 @@ germ
 germander
 germanders
 germanic
+germaniums
 germanization
 germanize
 germanized
@@ -53679,6 +53698,7 @@ guanaco
 guanase
 guanases
 guanay
+guanays
 guanethidine
 guanethidines
 guanidine
@@ -59181,6 +59201,7 @@ hypersalinity
 hypersalivation
 hypersecretion
 hypersecretions
+hypersensitive
 hypersensitize
 hypersensitized
 hypersensitizes
@@ -80053,6 +80074,7 @@ nautches
 nautical
 nautically
 nautiloid
+nautiloids
 nautiluses
 navaid
 navaids
@@ -81320,6 +81342,7 @@ noggins
 noggs
 nogs
 noh
+noils
 noily
 noirish
 noirs
@@ -81454,6 +81477,7 @@ nonanatomic
 nonanimal
 nonanswers
 nonantibiotic
+nonantibiotics
 nonappearance
 nonappearances
 nonaquatic
@@ -81467,6 +81491,7 @@ nonarguments
 nonaristocratic
 nonaromatic
 nonaromatics
+nonartist
 nonartistic
 nonarts
 nonas
@@ -95566,6 +95591,7 @@ potentially
 potentials
 potentiate
 potentiated
+potentiates
 potentiation
 potentiations
 potentiator
@@ -105018,6 +105044,7 @@ renewing
 renews
 reniform
 renig
+renigged
 renigs
 renins
 renitence
@@ -109602,6 +109629,7 @@ salters
 saltest
 saltie
 saltiest
+saltily
 saltimbocca
 saltimboccas
 saltine
@@ -113905,6 +113933,7 @@ shiplaps
 shipless
 shipload
 shiploads
+shipman
 shipmasters
 shipmate
 shipmates
@@ -117766,6 +117795,7 @@ souari
 souaris
 soubise
 soubises
+soubrette
 soubrettes
 soubriquet
 soubriquets
@@ -119069,6 +119099,7 @@ sportsmen
 sportswear
 sportswoman
 sportswomen
+sportswriter
 sportswriters
 sportswriting
 sportswritings
@@ -122160,6 +122191,7 @@ submersible
 submersing
 submersion
 submetacentric
+submicrogram
 submicron
 submillimeter
 subminiature
@@ -123811,6 +123843,7 @@ surfaces
 surfacing
 surfactants
 surfbird
+surfbirds
 surfboarder
 surfboarding
 surfboards
@@ -126920,6 +126953,7 @@ terrorist
 terroristic
 terrorization
 terrorize
+terrorized
 terrorizes
 terrorizing
 terrorless
@@ -128073,6 +128107,7 @@ tibiofibulas
 tic
 tical
 ticals
+ticced
 ticcing
 tick
 ticked
