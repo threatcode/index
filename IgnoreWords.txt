@@ -6377,6 +6377,7 @@ armillas
 arming
 armings
 armistice
+armistices
 armless
 armlets
 armlike
@@ -6617,6 +6618,7 @@ article
 articled
 articles
 articling
+articulacies
 articulacy
 articular
 articulate
@@ -7882,6 +7884,7 @@ autolysates
 autolyse
 autolysed
 autolyses
+autolysin
 autolysing
 autolysins
 autolysis
@@ -14173,6 +14176,7 @@ bourgeoisies
 bourgeoisified
 bourgeoisifying
 bourgeon
+bourgeoned
 bourgeoning
 bourgs
 bourguignonne
@@ -18394,6 +18398,7 @@ caseins
 caseload
 caseloads
 casemate
+casemated
 casement
 casements
 casern
@@ -21413,6 +21418,7 @@ cinnamony
 cinnamyls
 cinquains
 cinque
+cinquecentist
 cinquecentists
 cinquecento
 cinquecentos
@@ -27336,6 +27342,7 @@ cousinship
 cousinships
 couteau
 couteaux
+couter
 couters
 couth
 couther
@@ -41937,6 +41944,7 @@ essentialness
 essentials
 esses
 essoin
+essoins
 essonites
 establish
 establishable
@@ -49293,6 +49301,7 @@ fuliginous
 fuliginously
 full
 fullam
+fullams
 fullback
 fullbacks
 fullblood
@@ -56018,6 +56027,7 @@ heckle
 heckled
 heckler
 hecklers
+heckles
 heckling
 hectare
 hectic
@@ -57055,6 +57065,7 @@ highth
 highths
 highting
 hightop
+hights
 highwayman
 highwaymen
 highways
@@ -57140,6 +57151,7 @@ hinkier
 hinkiest
 hinky
 hinnied
+hinnies
 hinny
 hinnying
 hinter
@@ -59688,6 +59700,7 @@ icebreaker
 icebreakers
 icecap
 icecapped
+icecaps
 icefall
 icehouse
 icehouses
@@ -65278,6 +65291,7 @@ jaundices
 jaunt
 jauntier
 jauntiest
+jauntily
 jauntiness
 jauntinesses
 jaunting
@@ -89475,6 +89489,7 @@ parasitised
 parasitises
 parasitising
 parasitism
+parasitisms
 parasitization
 parasitize
 parasitizes
@@ -89788,6 +89803,7 @@ participated
 participates
 participating
 participation
+participational
 participative
 participator
 participle
@@ -94351,6 +94367,7 @@ plot
 plotlines
 plots
 plottage
+plottages
 plotted
 plotter
 plotters
@@ -94463,6 +94480,7 @@ plumule
 plumules
 plumulose
 plumy
+plunder
 plundered
 plundering
 plunders
@@ -95747,6 +95765,7 @@ postie
 posties
 postilion
 postilions
+postillions
 postimpact
 postimperial
 postin
@@ -99229,6 +99248,7 @@ proximally
 proximately
 proximateness
 proximatenesses
+proximities
 proximity
 proximo
 prude
@@ -101776,6 +101796,7 @@ rapidnesses
 rapids
 rapier
 rapiered
+rapiers
 rapine
 rapines
 raping
@@ -104921,6 +104942,7 @@ relaxins
 relayed
 relays
 relearn
+relearned
 relearning
 relearns
 release
@@ -107754,6 +107776,7 @@ rhizopus
 rhizopuses
 rhizospheres
 rhizotomies
+rhizotomy
 rho
 rhodamin
 rhodamines
@@ -109037,6 +109060,7 @@ rowed
 roweled
 roweling
 rowelled
+rowelling
 rowels
 rowen
 rowens
@@ -109866,6 +109890,7 @@ salals
 salamander
 salamanders
 salamandrine
+salami
 salamis
 salariat
 salariats
@@ -116044,6 +116069,7 @@ skydive
 skydived
 skydiver
 skydivers
+skydiving
 skydivings
 skydove
 skyed
@@ -118631,6 +118657,7 @@ spatulas
 spatulate
 spatzle
 spatzles
+spavie
 spavies
 spavined
 spawned
@@ -120452,6 +120479,7 @@ stators
 statoscope
 stats
 statuaries
+statuary
 statue
 statuesque
 statuette
@@ -123845,6 +123873,7 @@ superindividual
 superinduce
 superinduced
 superinduces
+superinducing
 superinduction
 superinductions
 superinfect
@@ -132357,6 +132386,7 @@ tutoyer
 tutoyers
 tuts
 tutted
+tutti
 tutties
 tutting
 tuttis
@@ -132893,6 +132923,7 @@ ultrapure
 ultraradical
 ultraradicals
 ultrarapid
+ultrarare
 ultrararefied
 ultrarational
 ultrarealism
@@ -135318,6 +135349,7 @@ unplugs
 unpoetic
 unpointed
 unpoised
+unpoliced
 unpolished
 unpolitic
 unpolitical
@@ -137727,6 +137759,7 @@ venturous
 venturousness
 venturousnesses
 venue
+venues
 venular
 venule
 venules
@@ -140151,6 +140184,7 @@ weatherization
 weatherizations
 weatherize
 weatherized
+weatherizes
 weatherly
 weatherman
 weatherperson
@@ -141294,6 +141328,7 @@ windled
 windles
 windless
 windlestraw
+windlestraws
 windling
 windlings
 windmilled
