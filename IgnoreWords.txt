@@ -1561,6 +1561,7 @@ aerobe
 aerobes
 aerobia
 aerobic
+aerobically
 aerobicize
 aerobicizes
 aerobicizing
@@ -1681,6 +1682,7 @@ affectabilities
 affectable
 affectation
 affectations
+affectedly
 affectedness
 affectednesses
 affecters
@@ -3638,6 +3640,7 @@ amphiploidies
 amphiploidy
 amphipod
 amphipods
+amphiprostyle
 amphiprostyles
 amphisbaena
 amphisbaenas
@@ -8490,6 +8493,7 @@ backcrossed
 backcrosses
 backdate
 backdates
+backdating
 backdoor
 backdraft
 backdrafts
@@ -9865,6 +9869,7 @@ baulks
 bausond
 bauxite
 bauxites
+bauxitic
 bawbees
 bawcock
 bawcocks
@@ -20656,6 +20661,7 @@ chloasma
 chloasmas
 chloasmata
 chloracne
+chloracnes
 chloral
 chloralose
 chloralosed
@@ -22666,6 +22672,7 @@ coccoidal
 coccous
 coccus
 coccygeal
+coccyx
 coccyxes
 cochair
 cochairman
@@ -22825,6 +22832,7 @@ codefendants
 codeia
 codeias
 codeinas
+codeine
 codeines
 codeins
 codeless
@@ -33539,6 +33547,7 @@ diastemata
 diastems
 diaster
 diastereoisomer
+diastereomer
 diastereomeric
 diastereomers
 diasters
@@ -37060,6 +37069,7 @@ dreamy
 drear
 drearier
 drearies
+dreariest
 drearily
 dreariness
 drearinesses
@@ -45273,6 +45283,7 @@ fettling
 fettlings
 fettuccine
 fettuccini
+fettucine
 fettucini
 fetus
 feuars
@@ -48182,6 +48193,7 @@ foulmouthed
 foulness
 foulnesses
 fouls
+found
 foundationally
 foundationless
 foundations
@@ -52148,6 +52160,7 @@ godlessness
 godlessnesses
 godliest
 godlike
+godlikenesses
 godlily
 godliness
 godling
@@ -53381,6 +53394,7 @@ grittily
 grittiness
 grittinesses
 gritting
+gritty
 grivets
 grizzle
 grizzler
@@ -54905,6 +54919,7 @@ handpicked
 handpress
 handprint
 handprints
+handrail
 handrails
 hands
 handsaw
@@ -57667,6 +57682,7 @@ homostyly
 homotaxis
 homothallic
 homothallism
+homotransplant
 homotransplants
 homozygoses
 homozygosis
@@ -63335,6 +63351,7 @@ intermarry
 intermatting
 intermeddle
 intermeddled
+intermeddler
 intermeddlers
 intermeddling
 intermediacies
@@ -68833,6 +68850,7 @@ legalistic
 legalistically
 legalists
 legalities
+legality
 legalization
 legalizations
 legalize
@@ -69388,6 +69406,7 @@ libelous
 libels
 liber
 liberal
+liberalise
 liberalises
 liberalising
 liberalism
@@ -74389,6 +74408,7 @@ mercaptopurines
 mercenaries
 mercenarily
 mercenariness
+mercenarinesses
 mercenary
 mercer
 merceries
@@ -75173,6 +75193,7 @@ microelectronic
 microelements
 microevolution
 microfarad
+microfarads
 microfaunae
 microfaunal
 microfaunas
@@ -77991,6 +78012,7 @@ mooning
 moonish
 moonishly
 moonless
+moonlet
 moonlets
 moonlight
 moonlighted
@@ -83377,6 +83399,7 @@ obelised
 obelises
 obelising
 obelisk
+obelism
 obelisms
 obelize
 obelized
@@ -93315,6 +93338,7 @@ pitahayas
 pitapat
 pitapats
 pitapatted
+pitas
 pitaya
 pitayas
 pitch
@@ -94807,6 +94831,7 @@ polymerizes
 polymerizing
 polymers
 polymorph
+polymorphic
 polymorphically
 polymorphism
 polymorphisms
@@ -109221,6 +109246,7 @@ saboteur
 saboteurs
 sabots
 sabra
+sabras
 sabre
 sabred
 sabres
@@ -116795,6 +116821,7 @@ snipped
 snippersnapper
 snippersnappers
 snippet
+snippetier
 snippetiest
 snippets
 snippety
@@ -118234,6 +118261,7 @@ spasmed
 spasming
 spasmodically
 spasmolytic
+spasmolytics
 spasms
 spastic
 spasticities
@@ -120338,6 +120366,7 @@ stenotypist
 stenotypists
 stenotypy
 stent
+stentor
 stentorian
 stentors
 stents
@@ -123123,6 +123152,7 @@ sums
 sun
 sunback
 sunbaked
+sunbath
 sunbathe
 sunbathed
 sunbather
@@ -128333,6 +128363,7 @@ tillandsia
 tillandsias
 tiller
 tillered
+tillerman
 tillermen
 tillers
 tilling
@@ -130419,6 +130450,7 @@ tremolo
 tremolos
 tremor
 tremors
+tremulant
 tremulous
 tremulously
 tremulousnesses
@@ -132847,6 +132879,7 @@ unbending
 unbendings
 unbends
 unbent
+unbeseeming
 unbiased
 unbiasedness
 unbiassed
@@ -139559,6 +139592,7 @@ wawling
 wawls
 waws
 wax
+waxable
 waxberries
 waxberry
 waxbill
@@ -142300,6 +142334,7 @@ yins
 yip
 yipe
 yipes
+yipped
 yippie
 yippies
 yips
