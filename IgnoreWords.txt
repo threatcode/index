@@ -123,6 +123,7 @@ absolutizes
 absolutizing
 absolve
 absolved
+absolvent
 absolvents
 absolver
 absolvers
@@ -660,6 +661,7 @@ achromatize
 achromatized
 achromatizes
 achromatizing
+achromats
 achromic
 achromous
 achy
@@ -7789,6 +7791,7 @@ autecology
 auteur
 auteurisms
 auteurist
+auteurs
 authentic
 authentically
 authenticated
@@ -11340,6 +11343,7 @@ bethought
 beths
 bethump
 bethumped
+bethumping
 bethumps
 betided
 betiding
@@ -13267,6 +13271,7 @@ blurry
 blurs
 blurt
 blurted
+blurter
 blurting
 blurts
 blush
@@ -19775,6 +19780,7 @@ chancel
 chancelleries
 chancellery
 chancellor
+chancellories
 chancellors
 chancellorship
 chancellorships
@@ -21163,6 +21169,7 @@ chrominances
 chroming
 chromite
 chromites
+chromiums
 chromized
 chromizes
 chromizing
@@ -25670,6 +25677,7 @@ containing
 containment
 contains
 contaminants
+contaminated
 contaminates
 contaminating
 contamination
@@ -29970,6 +29978,7 @@ daggle
 daggled
 daggles
 daggling
+daglock
 dagoba
 dagoes
 dagos
@@ -41807,6 +41816,7 @@ ergotism
 ergotisms
 ergotized
 ergs
+erica
 ericaceous
 ericas
 ericoid
@@ -42703,6 +42713,7 @@ event
 eventful
 eventfully
 eventfulness
+eventfulnesses
 eventides
 eventless
 events
@@ -46027,6 +46038,7 @@ filmiest
 filmily
 filminess
 filming
+filmis
 filmland
 filmlands
 filmless
@@ -47049,6 +47061,7 @@ flipper
 flippest
 flipping
 flippy
+flips
 flir
 flirs
 flirt
@@ -47320,6 +47333,7 @@ fluegelhorn
 fluegelhorns
 fluencies
 fluent
+fluently
 flueric
 fluerics
 flues
@@ -47419,6 +47433,7 @@ fluorimeter
 fluorimeters
 fluorimetric
 fluorimetries
+fluorimetry
 fluorin
 fluorinate
 fluorinated
@@ -52093,6 +52108,7 @@ gloats
 glob
 global
 globalised
+globalising
 globalism
 globalist
 globalizations
@@ -56975,6 +56991,7 @@ herrenvolks
 herries
 herring
 herringbone
+herringbones
 herringboning
 herrings
 herself
@@ -64393,6 +64410,7 @@ inulins
 inunction
 inundant
 inundate
+inundated
 inundating
 inundation
 inundations
@@ -71483,6 +71501,7 @@ loricate
 loricates
 lories
 lorikeet
+lorikeets
 lorimer
 lorimers
 loriner
@@ -74230,6 +74249,7 @@ meanders
 meandrous
 meaner
 meaners
+meanie
 meanies
 meaning
 meaningful
@@ -86784,6 +86804,7 @@ outrig
 outrigger
 outriggers
 outrigging
+outrightly
 outrigs
 outring
 outrings
@@ -88930,6 +88951,7 @@ pagandom
 pagandoms
 paganise
 paganised
+paganises
 paganish
 paganising
 paganism
@@ -90125,6 +90147,7 @@ parsable
 parsec
 parsed
 parser
+parsers
 parsimonies
 parsimoniously
 parsimony
@@ -97727,6 +97750,7 @@ prescient
 prescientific
 presciently
 prescind
+prescinded
 prescinding
 prescinds
 prescored
@@ -101195,6 +101219,7 @@ queerness
 queers
 queleas
 quellable
+quelled
 queller
 quellers
 quells
@@ -102569,6 +102594,7 @@ razzamatazzes
 razzberries
 razzes
 razzing
+razzmatazz
 razzmatazzes
 re
 reabsorb
@@ -118225,6 +118251,7 @@ solenodon
 solenodons
 solenoid
 solenoidal
+solenoids
 soleplate
 soleprint
 soleprints
@@ -122929,6 +122956,7 @@ subdural
 subdwarf
 subdwarfs
 subecho
+subechoes
 subeconomies
 subeconomy
 subedit
@@ -128629,6 +128657,7 @@ thioridazines
 thiosulfate
 thiosulfates
 thiotepa
+thiouracils
 thiourea
 thioureas
 thir
@@ -132291,6 +132320,7 @@ truncate
 truncated
 truncates
 truncating
+truncation
 truncations
 truncheon
 truncheoned
@@ -133868,6 +133898,7 @@ unbounded
 unboundedness
 unboundednesses
 unbowdlerized
+unbowed
 unbowing
 unbox
 unboxed
@@ -134902,6 +134933,7 @@ unequalled
 unequally
 unequals
 unequivocably
+unequivocal
 unequivocally
 unerased
 unerotic
@@ -138677,6 +138709,7 @@ viatic
 viatica
 viatical
 viaticals
+viaticum
 viaticums
 viator
 viators
@@ -140881,6 +140914,7 @@ weight
 weighted
 weighter
 weighters
+weightier
 weightiest
 weightiness
 weightinesses
@@ -141329,6 +141363,7 @@ whipcords
 whiplash
 whiplashes
 whiplike
+whipped
 whipper
 whippers
 whippets
