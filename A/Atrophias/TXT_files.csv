@@ -8,3 +8,8 @@ dictionary.txt - CMU School of Computer Science,http://www.cs.cmu.edu/~ab/15-121
 26371-8.txt - Project Gutenberg,https://www.gutenberg.org/files/26371/26371-8.txt
 shortlist.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0/src/dictionaries/shortlist.txt
 wordlist-d.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzzle/wordlist-d.txt
+https://tile.loc.gov/storage-services/public/gdcma...,https://tile.loc.gov/storage-services/public/gdcmassbookdig/te00hare/te00hare_djvu.txt
+sowpods.txt - MIT,http://web.mit.edu/jesstess/www/sowpods.txt
+List - Department of Computer Science,https://www.classes.cs.uchicago.edu/archive/2003/summer/10600-1/dict.txt
+EnglishWords.txt - Stanford University,https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1172/lectures/9-RecursiveTrees/code/reducible/res/EnglishWords.txt
+words.utf-8.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/words.utf-8.txt
