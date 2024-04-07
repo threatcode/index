@@ -3424,6 +3424,7 @@ amender
 amenders
 amending
 amendment
+amendments
 amends
 amenities
 amenorrhea
@@ -7194,6 +7195,7 @@ astrocytoma
 astrocytomas
 astrocytomata
 astrodomes
+astrolabe
 astrolabes
 astrologer
 astrologers
@@ -8213,6 +8215,7 @@ award
 awarded
 awardee
 awardees
+awarder
 awarders
 awarding
 awards
@@ -10344,6 +10347,7 @@ bedquilt
 bedquilts
 bedraggle
 bedraggling
+bedrail
 bedrails
 bedrape
 bedraped
@@ -17695,6 +17699,7 @@ caponized
 caponizes
 caponizing
 capons
+caporal
 caporals
 capos
 capote
@@ -33307,6 +33312,7 @@ developpes
 develops
 devels
 deverbal
+deverbative
 deverbatives
 devest
 devests
@@ -33588,6 +33594,7 @@ dialect
 dialectal
 dialectic
 dialectical
+dialectically
 dialectician
 dialecticians
 dialectics
@@ -35669,6 +35676,7 @@ disserves
 disserviceable
 disserving
 disses
+dissever
 disseverance
 disseverances
 dissevered
@@ -37806,6 +37814,7 @@ dullard
 dullards
 dulled
 duller
+dullest
 dulling
 dullish
 dullishly
@@ -45161,6 +45170,7 @@ fellow
 fellowed
 fellowly
 fellowman
+fellowmen
 fellows
 fellowship
 fellowshiped
@@ -45396,6 +45406,7 @@ fertilenesses
 fertilities
 fertilizable
 fertilization
+fertilizations
 fertilize
 fertilizer
 fertilizers
@@ -51082,6 +51093,7 @@ geodesy
 geodetic
 geodetical
 geodetics
+geoduck
 geoducks
 geognosies
 geographer
@@ -51642,6 +51654,7 @@ girlishness
 girlishnesses
 girls
 girly
+girn
 girned
 girning
 giro
@@ -52829,6 +52842,7 @@ goutiest
 goutily
 goutiness
 goutinesses
+gouts
 gouty
 govern
 governable
@@ -53465,6 +53479,7 @@ greenways
 greenwings
 greenwood
 greenwoods
+greeny
 grees
 greet
 greeted
@@ -71729,6 +71744,7 @@ luminousnesses
 lummox
 lummoxes
 lumpectomies
+lumpectomy
 lumpen
 lumper
 lumpfish
@@ -84307,6 +84323,7 @@ odalisque
 odalisques
 odd
 oddball
+oddballs
 oddest
 oddish
 oddities
@@ -88270,6 +88287,7 @@ overtimes
 overtiming
 overtip
 overtipped
+overtips
 overtire
 overtires
 overtiring
@@ -89585,6 +89603,7 @@ paralytically
 paralytics
 paralyzations
 paralyzed
+paralyzer
 paralyzers
 paralyzes
 paralyzing
@@ -94729,6 +94748,7 @@ pluralization
 pluralizations
 pluralize
 pluralized
+pluralizes
 pluralizing
 plurally
 plurals
@@ -96258,6 +96278,7 @@ poularde
 poulardes
 poulards
 poult
+poulter
 poulterer
 poulters
 poultice
@@ -100177,6 +100198,7 @@ pupil
 pupilage
 pupilages
 pupilary
+pupillage
 pupillages
 pupillary
 pupils
@@ -102074,6 +102096,7 @@ rapturousness
 rapturousnesses
 rare
 rarebit
+rarebits
 rarefactional
 rarefied
 rarefier
@@ -102431,6 +102454,7 @@ reaccredits
 reaccuse
 reaccuses
 reaccusing
+reach
 reachable
 reached
 reacher
@@ -102535,6 +102559,7 @@ realer
 reales
 realest
 realgar
+realgars
 realia
 realigned
 realigning
@@ -103752,6 +103777,7 @@ redip
 redipped
 redips
 redipt
+redirect
 redirected
 redirecting
 redirection
@@ -104223,6 +104249,7 @@ refiled
 refiles
 refiling
 refill
+refilled
 refilling
 refills
 refilm
@@ -108602,6 +108629,7 @@ riverfront
 riverhead
 riverheads
 riverine
+riverless
 riverlike
 rivers
 riversides
@@ -119623,6 +119651,7 @@ splined
 splines
 splining
 splinted
+splinter
 splintering
 splinters
 splintery
@@ -121827,6 +121856,7 @@ stranges
 strangest
 strangle
 strangleholds
+strangler
 stranglers
 strangles
 strangulate
@@ -131456,6 +131486,7 @@ trifoliolate
 trifolium
 triform
 trifurcate
+trifurcated
 trifurcates
 trifurcating
 trifurcation
@@ -132673,6 +132704,7 @@ tutors
 tutorship
 tutorships
 tutoyer
+tutoyering
 tutoyers
 tuts
 tutted
@@ -137163,6 +137195,7 @@ usurpations
 usurped
 usurper
 usurpers
+usurping
 usurps
 usury
 ut
@@ -139801,6 +139834,7 @@ wallows
 wallpapering
 wallpapers
 walls
+wally
 wallyball
 wallyballs
 wallydrags
@@ -142004,6 +142038,7 @@ wizardry
 wizen
 wizened
 wizening
+wizens
 wizes
 wizzen
 wo
