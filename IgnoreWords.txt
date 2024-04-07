@@ -328,6 +328,7 @@ accented
 accenting
 accentless
 accentor
+accentors
 accents
 accentually
 accentuate
@@ -873,6 +874,7 @@ actinically
 actinide
 actinides
 actinism
+actinisms
 actinium
 actiniums
 actinoid
@@ -2344,6 +2346,7 @@ airsheds
 airships
 airshow
 airshows
+airsick
 airsickness
 airsicknesses
 airspace
@@ -2907,6 +2910,7 @@ allocatable
 allocate
 allocated
 allocates
+allocating
 allocations
 allocator
 allocators
@@ -6613,6 +6617,7 @@ artels
 artemisia
 artemisias
 arterial
+arterially
 arterials
 arteriogram
 arteriograms
@@ -11387,6 +11392,7 @@ betroth
 betrothal
 betrothals
 betrothed
+betrotheds
 betrothing
 betroths
 betta
@@ -21250,6 +21256,7 @@ chronographs
 chronography
 chronologer
 chronologers
+chronologic
 chronological
 chronologically
 chronologies
@@ -26493,6 +26500,7 @@ cordons
 cordovan
 cordovans
 cords
+corduroy
 corduroyed
 corduroying
 corduroys
@@ -32864,6 +32872,7 @@ desalinized
 desalinizes
 desalinizing
 desalted
+desalter
 desalting
 desalts
 desand
@@ -33296,6 +33305,7 @@ dethrone
 dethroned
 dethronements
 dethroner
+dethroners
 dethrones
 dethroning
 detick
@@ -35683,6 +35693,7 @@ disregard
 disregardful
 disregards
 disrelated
+disrelations
 disrelish
 disrelished
 disrelishes
@@ -36337,6 +36348,7 @@ doctorships
 doctrinaire
 doctrinaires
 doctrinairism
+doctrinairisms
 doctrinal
 doctrine
 doctrines
@@ -42472,6 +42484,7 @@ etymological
 etymologically
 etymologies
 etymologised
+etymologises
 etymologising
 etymologist
 etymologists
@@ -43586,6 +43599,7 @@ experimentalism
 experimentalist
 experimentally
 experimentation
+experimenter
 experimenting
 experiments
 expert
@@ -47714,6 +47728,7 @@ foggy
 foghorn
 fogie
 fogies
+fogs
 fogy
 fogyish
 fogyism
@@ -48727,6 +48742,7 @@ fracas
 fracases
 fractal
 fractals
+fracted
 fracti
 fraction
 fractional
@@ -58128,6 +58144,7 @@ homologated
 homologates
 homologation
 homologations
+homologic
 homologies
 homologize
 homologized
@@ -64694,6 +64711,7 @@ invocations
 invocatory
 invoice
 invoiced
+invoices
 invoke
 invoked
 invoker
@@ -71532,6 +71550,7 @@ loosened
 loosener
 looseners
 looseness
+loosens
 looser
 looses
 loosest
@@ -80083,6 +80102,7 @@ muteness
 mutenesses
 muter
 mutes
+mutest
 mutilate
 mutilated
 mutilates
@@ -81949,6 +81969,7 @@ nitrations
 nitrator
 nitrators
 nitre
+nitres
 nitric
 nitrid
 nitride
@@ -84327,6 +84348,7 @@ obsoleteness
 obsoletenesses
 obsoleting
 obstacle
+obstacles
 obstetrical
 obstetrically
 obstetrician
@@ -89264,6 +89286,7 @@ paleopathology
 paleosol
 paleosols
 paleozoologies
+paleozoologist
 paleozoologists
 paleozoology
 paler
@@ -89304,6 +89327,7 @@ palladia
 palladic
 palladium
 palladiums
+palladous
 pallbearer
 pallbearers
 palled
@@ -92818,6 +92842,7 @@ phonating
 phonation
 phonations
 phone
+phoned
 phoneme
 phonemes
 phonemic
@@ -93700,6 +93725,7 @@ pillages
 pillaging
 pillar
 pillared
+pillaring
 pillarless
 pillars
 pillbox
@@ -102788,6 +102814,7 @@ reacquainting
 reacquire
 reacquired
 reacquires
+reacquiring
 reacquisition
 reacquisitions
 reactance
@@ -109366,6 +109393,7 @@ ropes
 ropewalk
 ropewalker
 ropewalkers
+ropewalks
 ropeways
 ropey
 ropier
@@ -110350,6 +110378,7 @@ safeguards
 safekeeping
 safekeepings
 safelight
+safelights
 safely
 safeness
 safetied
@@ -112451,6 +112480,7 @@ scribed
 scriber
 scribes
 scribing
+scried
 scries
 scrieve
 scrieves
@@ -122987,6 +123017,7 @@ subceilings
 subcell
 subcellar
 subcellular
+subcenter
 subcenters
 subcentral
 subcentrally
@@ -127869,6 +127900,7 @@ tenses
 tensest
 tensible
 tensibly
+tensile
 tensilely
 tensilities
 tensing
@@ -131991,6 +132023,7 @@ trimmed
 trimmer
 trimmers
 trimmest
+trimming
 trimmings
 trimnesses
 trimonthly
@@ -136428,6 +136461,7 @@ unseat
 unseated
 unseating
 unseats
+unseaworthy
 unsecured
 unseemlier
 unseemliest
@@ -141714,6 +141748,7 @@ whitings
 whitish
 whitlow
 whitlows
+whitrack
 whitracks
 whits
 whitter
