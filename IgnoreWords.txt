@@ -10763,6 +10763,7 @@ bellicosity
 bellied
 belligerence
 belligerences
+belligerencies
 belligerent
 belligerently
 belligerents
@@ -24752,6 +24753,7 @@ condense
 condensed
 condenser
 condensers
+condensible
 condensing
 condescended
 condescendence
@@ -26674,6 +26676,7 @@ corrody
 corrosion
 corrosions
 corrosive
+corrosively
 corrosiveness
 corrosivenesses
 corrosives
@@ -27833,6 +27836,7 @@ cravennesses
 cravens
 craver
 cravers
+craves
 craving
 cravings
 crawdad
@@ -37253,6 +37257,7 @@ dredges
 dredging
 dredgings
 dree
+dreed
 dreeing
 drees
 dreggier
@@ -47210,6 +47215,7 @@ fluidizations
 fluidize
 fluidized
 fluidizer
+fluidizers
 fluidizes
 fluidizing
 fluidlike
@@ -51177,6 +51183,7 @@ germinate
 germinated
 germinating
 germination
+germinations
 germinative
 germiness
 germinesses
@@ -60000,6 +60007,7 @@ ids
 idyl
 idylists
 idyll
+idyllic
 idyllist
 idyllists
 idylls
@@ -60401,6 +60409,7 @@ immigrates
 immigration
 immigrational
 immigrations
+imminence
 imminences
 imminency
 imminent
@@ -62289,6 +62298,7 @@ inflater
 inflaters
 inflates
 inflation
+inflationary
 inflationism
 inflationist
 inflationists
@@ -69929,6 +69939,7 @@ lightening
 lightens
 lighter
 lighterage
+lighterages
 lightest
 lightfaced
 lightfaces
@@ -69961,6 +69972,7 @@ lightweights
 lightwood
 lignaloes
 lignan
+lignans
 ligneous
 lignification
 lignifications
@@ -70568,6 +70580,7 @@ litres
 lits
 litten
 litter
+litterateur
 litterateurs
 litterbag
 litterbug
@@ -71170,6 +71183,7 @@ lookouts
 looks
 looksism
 looksisms
+lookup
 lookups
 loomed
 looms
@@ -72701,6 +72715,7 @@ malodors
 maloti
 malpighia
 malposition
+malpositions
 malpractice
 malpractitioner
 maltase
@@ -75339,6 +75354,7 @@ mettle
 mettled
 mettlesome
 metump
+metumps
 meuniere
 mew
 mewed
@@ -77186,6 +77202,7 @@ misruled
 misrules
 misruling
 missable
+missaid
 missals
 missay
 missaying
@@ -80834,6 +80851,7 @@ neologism
 neologisms
 neologist
 neologistic
+neologists
 neologize
 neologized
 neologizes
@@ -82327,6 +82345,7 @@ nonfeminists
 nonferrous
 nonfeudal
 nonfiction
+nonfigurative
 nonfilial
 nonfilterable
 nonfinite
@@ -84523,6 +84542,7 @@ oldstyles
 oldwife
 oldwives
 ole
+olea
 oleaginous
 oleander
 oleanders
@@ -86087,6 +86107,7 @@ outfawns
 outfeast
 outfeasted
 outfeasting
+outfeasts
 outfeel
 outfeeling
 outfeels
@@ -97920,6 +97941,7 @@ prickling
 prickly
 pricky
 pricy
+pride
 prided
 prideful
 pridefully
@@ -98242,6 +98264,7 @@ proceeded
 proceeders
 proceeding
 proceedings
+proceeds
 procercoid
 procercoids
 process
@@ -102965,6 +102988,7 @@ rechoose
 rechooses
 rechoosing
 rechoreograph
+rechoreographed
 rechoreographs
 rechose
 rechristened
@@ -105537,6 +105561,7 @@ renege
 reneged
 reneger
 renegers
+reneges
 reneging
 renegotiable
 renegotiate
@@ -114224,6 +114249,7 @@ sheepshanks
 sheepshead
 sheepsheads
 sheepshearers
+sheepshearing
 sheepskin
 sheepskins
 sheepwalk
@@ -115268,6 +115294,7 @@ siestas
 sieur
 sieurs
 sieve
+sievert
 sieverts
 sieving
 sifaka
@@ -118715,6 +118742,7 @@ sparers
 spares
 sparest
 sparge
+sparged
 sparger
 spargers
 sparges
@@ -119401,6 +119429,7 @@ spirometer
 spirometric
 spirometries
 spirometry
+spirt
 spirting
 spirts
 spirula
@@ -120725,6 +120754,7 @@ steapsin
 steapsins
 stearates
 stearin
+stearine
 stearines
 stearins
 steatite
@@ -129727,6 +129757,7 @@ topics
 topis
 topkick
 topkicks
+topknots
 topless
 toplessness
 toplessnesses
@@ -135556,6 +135587,7 @@ unproductive
 unprofessed
 unprofessional
 unprofessionals
+unprofitable
 unprofitably
 unprogrammable
 unprogrammed
@@ -141147,6 +141179,7 @@ wholly
 whom
 whomever
 whomp
+whomped
 whomping
 whomps
 whomso
@@ -143028,6 +143061,7 @@ yoke
 yokefellow
 yokefellows
 yokel
+yokeless
 yokelish
 yokels
 yokes
@@ -143257,6 +143291,7 @@ zecchins
 zechin
 zed
 zedoary
+zeds
 zee
 zees
 zein
