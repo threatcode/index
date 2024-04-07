@@ -1545,6 +1545,7 @@ aequorins
 aerated
 aerates
 aeration
+aerations
 aerator
 aerators
 aerenchyma
@@ -5783,6 +5784,7 @@ appraisements
 appraiser
 appraisers
 appraises
+appraising
 appreciable
 appreciably
 appreciate
@@ -9522,6 +9524,7 @@ baroscopes
 barouche
 barouches
 barque
+barquentine
 barquentines
 barques
 barquette
@@ -10690,6 +10693,7 @@ belatedly
 belatedness
 belatednesses
 belaud
+belauding
 belauds
 belay
 belayed
@@ -15652,6 +15656,7 @@ bugs
 bugseed
 bugseeds
 bugsha
+bugshas
 buhl
 buhlwork
 buhr
@@ -17134,6 +17139,7 @@ camisa
 camisade
 camisades
 camisado
+camisadoes
 camisados
 camisas
 camise
@@ -17174,6 +17180,7 @@ campcrafts
 camped
 camper
 campesino
+campesinos
 campestral
 campfire
 campfires
@@ -17604,6 +17611,7 @@ capellini
 capercaillie
 capercaillies
 capercailzie
+capered
 caperer
 capering
 capers
@@ -21121,6 +21129,7 @@ chromophil
 chromophores
 chromoplast
 chromoproteins
+chromos
 chromosomal
 chromosomally
 chromosome
@@ -21750,6 +21759,7 @@ claim
 claimable
 claimant
 claimants
+claimed
 claimer
 claimers
 claiming
@@ -22359,6 +22369,7 @@ closestool
 closestools
 closet
 closeted
+closetfuls
 closeting
 closets
 closeups
@@ -23943,6 +23954,7 @@ commendation
 commendations
 commendatory
 commends
+commensal
 commensalism
 commensalisms
 commensally
@@ -26284,6 +26296,7 @@ copyreads
 copyright
 copyrightable
 copyrighted
+copyrighting
 copyrights
 copywriter
 coquetries
@@ -27914,6 +27927,7 @@ creatines
 creating
 creatinine
 creatinines
+creation
 creationism
 creationisms
 creationist
@@ -47343,6 +47357,7 @@ fluted
 flutelike
 fluters
 flutey
+flutier
 fluting
 flutings
 flutter
@@ -59918,6 +59933,7 @@ identifier
 identifiers
 identifies
 identify
+identifying
 identikit
 identities
 ideogram
@@ -67828,6 +67844,7 @@ labradorites
 labradors
 labret
 labroid
+labroids
 labrum
 labrums
 labrusca
@@ -68991,6 +69008,7 @@ leanings
 leanly
 leanness
 leannesses
+leant
 leap
 leaped
 leaper
@@ -71185,6 +71203,7 @@ looksism
 looksisms
 lookup
 lookups
+loom
 loomed
 looms
 looneys
@@ -81016,6 +81035,7 @@ nestlings
 nestor
 nestors
 nests
+net
 netherworld
 netiquette
 netiquettes
@@ -83726,6 +83746,7 @@ oater
 oaters
 oath
 oaths
+oatmeals
 oats
 oaves
 oba
@@ -85652,6 +85673,7 @@ osteitic
 osteitides
 osteitis
 ostensible
+ostensibly
 ostensive
 ostensoria
 ostensories
@@ -87496,6 +87518,7 @@ overfund
 overfunded
 overfunding
 overfunds
+overfussy
 overgarment
 overgarments
 overgeneralize
@@ -87600,6 +87623,7 @@ overimpress
 overimpresses
 overimpressing
 overindulged
+overindulgence
 overindulgences
 overindulgent
 overindulges
@@ -91060,6 +91084,7 @@ penitentiaries
 penitentiary
 penitently
 penknife
+penlight
 penlite
 penlites
 penman
@@ -94241,6 +94266,7 @@ playactings
 playactors
 playacts
 playas
+playback
 playbacks
 playbill
 playbills
@@ -98117,6 +98143,7 @@ prioritize
 prioritized
 prioritizes
 prioritizing
+priority
 priorly
 priors
 priory
@@ -100907,6 +100934,7 @@ quaveringly
 quavers
 quay
 quayage
+quayages
 quaylike
 quays
 quayside
@@ -102575,6 +102603,7 @@ rearmed
 rearmice
 rearming
 rearmost
+rearmouse
 rearms
 rearousal
 rearousals
@@ -106568,6 +106597,7 @@ resids
 residua
 residual
 residually
+residuals
 residuary
 residue
 residues
@@ -107543,6 +107573,7 @@ revengefulness
 revenger
 revenges
 revenging
+revenued
 revenuer
 revenues
 reverable
@@ -111359,6 +111390,7 @@ sceptered
 sceptering
 scepters
 sceptic
+sceptical
 scepticism
 scepticisms
 sceptics
@@ -114646,6 +114678,7 @@ shmaltzes
 shmaltzier
 shmear
 shmears
+shmo
 shmoes
 shmoozed
 shmoozing
@@ -115215,6 +115248,7 @@ sidecheck
 sidechecks
 sided
 sidedness
+sidedress
 sidedresses
 sidehill
 sidehills
@@ -136762,6 +136796,7 @@ upsweeping
 upsweeps
 upswell
 upswelled
+upswelling
 upswells
 upswept
 upswings
