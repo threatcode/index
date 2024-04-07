@@ -1,0 +1,3 @@
+amazon-redshift-utils/src/AdminViews/v_get_tbl_scan_frequency.sql ...,https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminViews/v_get_tbl_scan_frequency.sql
+Phoenix/CMP/CmpWap/CmpWapExtension/CmpWapDb/Scripts ...,https://github.com/microsoft/Phoenix/blob/master/CMP/CmpWap/CmpWapExtension/CmpWapDb/Scripts/Data.ServerRoleDriveMapping.sql
+https://raw.githubusercontent.com/searceinc/RStool...,https://raw.githubusercontent.com/searceinc/RStoolKit/master/health-check.sql
