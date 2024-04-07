@@ -1560,6 +1560,7 @@ aeried
 aerier
 aeriest
 aerified
+aerify
 aerifying
 aero
 aerobat
@@ -3871,6 +3872,7 @@ analogizing
 analogous
 analogously
 analogousness
+analogousnesses
 analogs
 analogue
 analogues
@@ -10148,6 +10150,7 @@ beautifies
 beautiful
 beautifuller
 beautifulness
+beautifulnesses
 beautify
 beautifying
 beauts
@@ -13011,6 +13014,7 @@ blooming
 bloomless
 blooms
 bloomy
+blooped
 blooper
 bloopers
 blooping
@@ -18410,6 +18414,7 @@ carvels
 carven
 carvers
 carves
+carving
 carwashes
 caryatids
 caryopses
@@ -20011,6 +20016,7 @@ charts
 chartulary
 charwoman
 charwomen
+chary
 chase
 chaseable
 chased
@@ -22243,6 +22249,7 @@ clinician
 clinicians
 clink
 clinked
+clinkered
 clinkering
 clinkers
 clinking
@@ -27756,6 +27763,7 @@ cramoisy
 cramp
 cramped
 crampfish
+crampfishes
 crampier
 cramping
 crampit
@@ -28720,6 +28728,7 @@ cryogeny
 cryolite
 cryometer
 cryometers
+cryonic
 cryonics
 cryophilic
 cryophyte
@@ -29516,6 +29525,7 @@ cyanate
 cyanates
 cyanic
 cyanide
+cyanided
 cyanides
 cyaniding
 cyanids
@@ -40647,6 +40657,7 @@ enmeshed
 enmeshes
 enmeshing
 enmeshment
+enmeshments
 enmities
 enmity
 enneads
@@ -40860,6 +40871,7 @@ entellus
 entelluses
 ententes
 enter
+entera
 enteral
 enterally
 enterer
@@ -41482,6 +41494,7 @@ epithetical
 epithets
 epitome
 epitomic
+epitomise
 epitomised
 epitomises
 epitomize
@@ -41693,6 +41706,7 @@ erecter
 erecters
 erectile
 erectilities
+erectility
 erection
 erections
 erective
@@ -44136,6 +44150,7 @@ facilitating
 facilitations
 facilitative
 facilitator
+facilitators
 facilitatory
 facilities
 facility
@@ -52028,6 +52043,7 @@ globate
 globated
 globbier
 globbiest
+globby
 globe
 globed
 globefish
@@ -57333,6 +57349,7 @@ hiplines
 hiply
 hipness
 hipparch
+hipparchs
 hipped
 hippie
 hippiedoms
@@ -59699,6 +59716,7 @@ hypoderm
 hypoderma
 hypodermal
 hypodermic
+hypodermics
 hypodermis
 hypoderms
 hypodiploid
@@ -64878,6 +64896,7 @@ ischemic
 ischia
 ischiadic
 ischial
+ischiatic
 ischium
 iseikonia
 iseikonias
@@ -64949,6 +64968,7 @@ isocline
 isoclines
 isoclinic
 isoclinics
+isocracies
 isocracy
 isocyanate
 isocyanates
@@ -69468,6 +69488,7 @@ lentigines
 lentigo
 lentil
 lentils
+lentisks
 lentissimo
 lentivirus
 lentiviruses
@@ -71403,6 +71424,7 @@ loser
 losers
 losing
 losingly
+losings
 loss
 losses
 lossless
@@ -75484,6 +75506,7 @@ mezzo
 mezzos
 mezzotinted
 mezzotints
+mho
 mhos
 miaou
 miaouing
@@ -82689,6 +82712,7 @@ nonmoney
 nonmonogamous
 nonmoral
 nonmortal
+nonmortals
 nonmotile
 nonmotilities
 nonmotorized
@@ -85960,6 +85984,7 @@ outbegs
 outbid
 outbidder
 outbidding
+outbids
 outbitched
 outbitching
 outblaze
@@ -90746,6 +90771,7 @@ peavies
 pebbled
 pebbles
 pebblier
+pebbliest
 pebbling
 pebbly
 pec
@@ -91081,6 +91107,7 @@ pelvis
 pelvises
 pembina
 pembinas
+pemmican
 pemoline
 pemphigus
 pemphiguses
@@ -100852,6 +100879,7 @@ quaggier
 quaggiest
 quagmire
 quagmires
+quagmirier
 quagmiriest
 quagmiry
 quags
@@ -111371,6 +111399,7 @@ scarabs
 scaramouch
 scaramouches
 scarcely
+scarceness
 scarcenesses
 scarcer
 scarcest
@@ -115726,6 +115755,7 @@ simoleon
 simoleons
 simoniac
 simoniacal
+simoniacally
 simoniacs
 simonist
 simonists
@@ -116314,6 +116344,7 @@ skirting
 skirtless
 skirts
 skis
+skit
 skited
 skites
 skiting
@@ -125767,6 +125798,7 @@ syringas
 syringe
 syringeal
 syringed
+syringes
 syringing
 syringomyelia
 syringomyelic
@@ -128221,6 +128253,7 @@ thereabout
 thereafter
 thereat
 thereby
+therefor
 therefore
 therefrom
 therein
@@ -137474,6 +137507,7 @@ valises
 valkyr
 valkyries
 valkyrs
+vallate
 vallation
 vallations
 valleculae
@@ -139717,6 +139751,7 @@ wagons
 wags
 wagsome
 wagtail
+wagtails
 wahconda
 wahcondas
 wahoo
