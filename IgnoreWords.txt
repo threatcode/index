@@ -2373,6 +2373,7 @@ airway
 airways
 airwise
 airwoman
+airwomen
 airworthier
 airworthiest
 airworthinesses
@@ -2401,6 +2402,7 @@ akees
 akela
 akelas
 akene
+akenes
 akimbo
 akinesia
 akinesias
@@ -11628,6 +11630,7 @@ biconcavities
 biconditional
 biconditionals
 biconvex
+bicorn
 bicorne
 bicornes
 bicorns
@@ -12310,6 +12313,7 @@ birdmen
 birdseed
 birdseeds
 birdseye
+birdseyes
 birdsong
 birdsongs
 birdwatch
@@ -14626,6 +14630,7 @@ brandying
 brank
 branks
 branned
+branner
 branners
 branniest
 brannigan
@@ -21490,6 +21495,7 @@ ciliates
 ciliation
 ciliations
 cilice
+cilices
 ciliolate
 cilium
 cimbalom
@@ -22630,6 +22636,7 @@ cluttering
 clutters
 cluttery
 clypeal
+clypeate
 clypei
 clyster
 clysters
@@ -28794,6 +28801,8 @@ cryobiologies
 cryobiologist
 cryobiologists
 cryogen
+cryogenic
+cryogenically
 cryogenics
 cryogenies
 cryogens
@@ -40927,6 +40936,7 @@ ensorcels
 ensoul
 ensouled
 ensouling
+ensouls
 ensphere
 ensphering
 enstatites
@@ -45411,6 +45421,7 @@ fenestrae
 fenestrate
 fenestrated
 fenestrations
+fenland
 fenlands
 fennec
 fennecs
@@ -58015,6 +58026,7 @@ homeschooled
 homeschooler
 homeschoolers
 homeschooling
+homeschools
 homesick
 homesickness
 homesicknesses
@@ -59266,6 +59278,7 @@ huzzaing
 huzzas
 hwan
 hyacinth
+hyacinths
 hyaena
 hyaenas
 hyaenic
@@ -59768,6 +59781,7 @@ hyperstatic
 hypersthene
 hypersthenes
 hyperstimulate
+hypersurfaces
 hypertense
 hypertension
 hypertensions
@@ -62815,6 +62829,7 @@ inhibins
 inhibit
 inhibited
 inhibiter
+inhibiters
 inhibition
 inhibitions
 inhibitive
@@ -63062,6 +63077,7 @@ inputter
 inputting
 inquiet
 inquieted
+inquieting
 inquiets
 inquietude
 inquietudes
@@ -70941,6 +70957,7 @@ liverwort
 liverworts
 liverwurst
 liverwursts
+livery
 liveryman
 liverymen
 lives
@@ -72903,6 +72920,7 @@ malapropos
 malar
 malaria
 malarial
+malarian
 malarias
 malariologies
 malariologists
@@ -84352,6 +84370,7 @@ obtrudes
 obtruding
 obtrusion
 obtrusive
+obtrusively
 obtrusiveness
 obtund
 obtunded
@@ -84805,6 +84824,7 @@ oilbirds
 oilcamp
 oilcamps
 oilcan
+oilcans
 oilcloths
 oilcups
 oiled
@@ -92229,6 +92249,7 @@ perspired
 perspiring
 perspiry
 persuadable
+persuade
 persuaded
 persuader
 persuaders
@@ -98324,6 +98345,7 @@ prickliness
 pricklinesses
 prickling
 prickly
+pricks
 pricky
 pricy
 pride
@@ -100040,6 +100062,7 @@ psychosexuality
 psychosexually
 psychosis
 psychosocial
+psychosocially
 psychosomatic
 psychosomatics
 psychosurgeons
@@ -109180,6 +109203,7 @@ rollaway
 rollback
 rollbacks
 rolled
+roller
 rollers
 rollick
 rollicked
@@ -112463,6 +112487,7 @@ scriptorium
 scripts
 scriptural
 scripturally
+scripture
 scriptwriter
 scriptwriters
 scrive
@@ -116423,6 +116448,7 @@ skeined
 skeins
 skeletal
 skeletally
+skeleton
 skeletonic
 skeletonised
 skeletonising
@@ -120525,6 +120551,7 @@ squat
 squats
 squatted
 squatter
+squattered
 squattering
 squatters
 squattest
@@ -129083,6 +129110,7 @@ throning
 throstle
 throstles
 throttle
+throttleable
 throttled
 throttlehold
 throttleholds
@@ -129093,6 +129121,7 @@ through
 throughither
 throughly
 throughother
+throughputs
 throw
 throwaway
 throwaways
@@ -131516,6 +131545,7 @@ treenware
 treenwares
 trees
 treetops
+tref
 trefah
 trefoils
 trehala
@@ -133314,6 +133344,7 @@ tympanist
 tympanites
 tympano
 tympans
+tympanum
 tympany
 tyne
 tyned
@@ -134247,6 +134278,7 @@ uncinariasis
 uncinate
 uncinus
 uncirculated
+uncircumcised
 uncircumcision
 uncircumcisions
 uncivil
@@ -137599,6 +137631,7 @@ uteri
 uterus
 uteruses
 utes
+utile
 utilidor
 utilidors
 utilise
@@ -138422,6 +138455,7 @@ venging
 venial
 veniality
 venially
+venialness
 venialnesses
 venin
 venines
@@ -141865,6 +141899,7 @@ wieldable
 wielded
 wielder
 wielders
+wieldier
 wieldiest
 wielding
 wields
