@@ -995,6 +995,7 @@ adamantine
 adamants
 adamsite
 adamsites
+adapt
 adaptabilities
 adaptability
 adaptable
@@ -2910,6 +2911,7 @@ alliterative
 alloantibodies
 alloantibody
 alloantigen
+alloantigens
 allobars
 allocable
 allocatable
@@ -7332,6 +7334,7 @@ atheism
 atheisms
 atheist
 atheistic
+atheistical
 atheistically
 atheists
 atheling
@@ -8662,6 +8665,7 @@ backlists
 backloaded
 backloads
 backlog
+backlogged
 backlogging
 backlogs
 backmost
@@ -10277,6 +10281,7 @@ beclown
 beclowned
 beclowning
 beclowns
+becomes
 becoming
 becomingly
 becomings
@@ -13896,6 +13901,7 @@ bookmobiles
 bookoo
 bookplate
 bookplates
+bookrack
 bookracks
 bookrest
 bookrests
@@ -21865,6 +21871,7 @@ civilianizes
 civilianizing
 civilians
 civilise
+civilised
 civilises
 civilising
 civilization
@@ -24267,6 +24274,7 @@ communards
 commune
 communed
 communer
+communers
 communes
 communicability
 communicable
@@ -24442,6 +24450,7 @@ competitors
 compilation
 compilations
 compile
+compiled
 compiler
 compilers
 compiles
@@ -31818,6 +31827,7 @@ dehorned
 dehorner
 dehorners
 dehorning
+dehorns
 dehorted
 dehorting
 dehorts
@@ -35731,6 +35741,7 @@ dispraiser
 dispraises
 dispraising
 dispread
+dispreading
 dispreads
 disprize
 disprized
@@ -41497,6 +41508,7 @@ epicotyl
 epicotyls
 epicrania
 epicritic
+epicure
 epicureanism
 epicureanisms
 epicureans
@@ -42337,6 +42349,7 @@ esteems
 ester
 esterase
 esterases
+esterification
 esterifications
 esterify
 esterifying
@@ -43688,6 +43701,7 @@ expenditures
 expends
 expensed
 expenses
+expensing
 expensive
 expensively
 expensiveness
@@ -51229,6 +51243,7 @@ general
 generalcies
 generalisations
 generalise
+generalised
 generalising
 generalist
 generalists
@@ -54247,6 +54262,7 @@ grubworms
 grudge
 grudged
 grudges
+grudging
 grudgingly
 grue
 gruel
@@ -61201,6 +61217,7 @@ impis
 impish
 impishly
 impishness
+impishnesses
 implacability
 implacably
 implant
@@ -61890,6 +61907,7 @@ inconsequently
 inconsiderable
 inconsiderably
 inconsiderate
+inconsiderately
 inconsideration
 inconsistence
 inconsistences
@@ -63261,6 +63279,7 @@ inquiries
 inquiring
 inquiringly
 inquiry
+inquisition
 inquisitional
 inquisitive
 inquisitively
@@ -72719,6 +72738,7 @@ madden
 maddened
 maddening
 maddeningly
+maddens
 madder
 madders
 maddest
@@ -75272,6 +75292,7 @@ mercerise
 mercerises
 mercerising
 mercerization
+mercerizations
 mercerize
 mercerized
 mercerizes
@@ -77261,6 +77282,7 @@ misdefines
 misdefining
 misdemeanor
 misdemeanors
+misdescribe
 misdescribed
 misdescribes
 misdescribing
@@ -84442,6 +84464,7 @@ obliquenesses
 obliques
 obliquing
 obliquities
+obliterate
 obliterated
 obliterates
 obliterating
@@ -85423,6 +85446,7 @@ oomiacs
 oompah
 oompahed
 oompahing
+oompahs
 oomphs
 oophorectomies
 oophorectomy
@@ -86187,6 +86211,7 @@ osmeteria
 osmeterium
 osmic
 osmically
+osmics
 osmious
 osmium
 osmiums
@@ -96343,6 +96368,7 @@ portaging
 portal
 portals
 portamenti
+portamento
 portance
 portances
 portapack
@@ -102722,6 +102748,7 @@ rarefiers
 rarefies
 rarefy
 rarefying
+rarely
 rareness
 rarenesses
 rareripe
@@ -104033,6 +104060,7 @@ reconvenes
 reconvening
 reconversion
 reconversions
+reconvert
 reconverted
 reconverting
 reconverts
@@ -104785,6 +104813,7 @@ reexecuted
 reexecuting
 reexhibit
 reexhibited
+reexhibiting
 reexhibits
 reexpel
 reexpelled
@@ -108041,6 +108070,7 @@ retracting
 retraction
 retractions
 retractors
+retracts
 retrain
 retrainable
 retrained
@@ -128061,6 +128091,7 @@ temperateness
 temperatenesses
 temperature
 temperatures
+tempered
 temperer
 temperers
 tempering
@@ -128849,6 +128880,7 @@ thegns
 theine
 theins
 their
+theirs
 theirself
 theirselves
 theism
@@ -131910,6 +131942,7 @@ trecentos
 treddle
 treddled
 treddling
+tredecillion
 tredecillions
 treed
 treehopper
@@ -134744,6 +134777,7 @@ uncloudy
 uncloyed
 uncloying
 unclubbable
+unclutter
 uncluttered
 uncluttering
 unclutters
@@ -137222,6 +137256,7 @@ untruly
 untruss
 untrussed
 untrussing
+untrusting
 untrustworthy
 untrusty
 untruth
