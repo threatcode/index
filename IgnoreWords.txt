@@ -72,6 +72,7 @@ abruptly
 abruptness
 abruptnesses
 abscess
+abscessed
 abscesses
 abscessing
 abscised
@@ -4518,6 +4519,7 @@ anonymous
 anonymously
 anonymousness
 anonymousnesses
+anonyms
 anoopsia
 anoopsias
 anopheline
@@ -4759,6 +4761,7 @@ antibuser
 antibusiness
 antibusing
 antic
+anticaking
 antically
 anticancer
 anticapitalism
@@ -4856,6 +4859,7 @@ antielites
 antielitism
 antielitist
 antientropic
+antiepilepsy
 antiepileptic
 antiepileptics
 antiestrogen
@@ -7610,6 +7614,7 @@ auction
 auctioned
 auctioneers
 auctions
+auctorial
 aucuba
 aucubas
 audacious
@@ -13392,6 +13397,7 @@ boats
 boatsmen
 boatswain
 boatswains
+boatyard
 boatyards
 bob
 bobber
@@ -18951,6 +18957,7 @@ catoptric
 catrigged
 cats
 catspaws
+catsuit
 catsuits
 cattaloes
 cattalos
@@ -22741,6 +22748,7 @@ coalfishes
 coalholes
 coalier
 coaliest
+coalified
 coalifies
 coalify
 coalifying
@@ -25994,6 +26002,7 @@ controllability
 controllable
 controlled
 controller
+controllers
 controllership
 controllerships
 controlling
@@ -33741,6 +33750,7 @@ diagonalizable
 diagonalization
 diagonalize
 diagonalizes
+diagonalizing
 diagonals
 diagram
 diagraming
@@ -34203,6 +34213,7 @@ diffractometry
 diffracts
 diffs
 diffused
+diffusely
 diffuseness
 diffusenesses
 diffuser
@@ -35321,6 +35332,7 @@ dishabilles
 disharmonies
 disharmonize
 disharmonized
+disharmonizes
 disharmony
 dishcloth
 dishcloths
@@ -40074,6 +40086,7 @@ emporiums
 empower
 empowering
 empowerment
+empowerments
 empowers
 empressement
 empresses
@@ -41450,6 +41463,7 @@ epicyclic
 epicycloid
 epicycloidal
 epidemically
+epidemicity
 epidemics
 epidemiologic
 epidemiological
@@ -55770,6 +55784,7 @@ harkens
 harks
 harlequin
 harlequinade
+harlequinades
 harlequins
 harlot
 harlotry
@@ -62897,6 +62912,7 @@ inheritability
 inheritableness
 inheritance
 inheritances
+inheriting
 inheritor
 inheritors
 inheritress
@@ -66637,6 +66653,7 @@ justified
 justifier
 justifiers
 justifies
+justify
 justifying
 justle
 justles
@@ -70775,12 +70792,14 @@ lipreads
 lips
 lipstick
 lipsticks
+liquates
 liquating
 liquations
 liquefaction
 liquefactions
 liquefied
 liquefier
+liquefiers
 liquefies
 liquefy
 liquefying
@@ -72242,6 +72261,7 @@ lusus
 lususes
 lutanist
 lutanists
+lutea
 lutecium
 luteciums
 luted
@@ -76997,6 +77017,7 @@ miscalculations
 miscall
 miscaller
 miscallers
+miscalling
 miscalls
 miscaption
 miscaptioned
@@ -78412,6 +78433,7 @@ monitorial
 monitories
 monitoring
 monitors
+monitorship
 monitorships
 monkeries
 monkery
@@ -89941,6 +89963,7 @@ paraffining
 paraffins
 parafoil
 parafoils
+paraforms
 paragenesis
 paragenetic
 paragenetically
@@ -99982,6 +100005,7 @@ prussianised
 prussianises
 prussianising
 prussianization
+prussianize
 prussianized
 prussianizes
 prussianizing
@@ -101268,6 +101292,7 @@ quagga
 quaggas
 quaggier
 quaggiest
+quaggy
 quagmire
 quagmires
 quagmirier
@@ -102324,6 +102349,7 @@ ramie
 ramies
 ramification
 ramifications
+ramified
 ramifies
 ramiform
 ramify
@@ -103521,6 +103547,7 @@ rechanges
 rechanging
 rechanneled
 rechanneling
+rechannelled
 rechannels
 rechargeable
 recharged
@@ -109236,6 +109263,7 @@ rockfall
 rockfalls
 rockfish
 rockfishes
+rockhoppers
 rockhound
 rockhounding
 rockhoundings
@@ -112036,6 +112064,7 @@ schizoid
 schizoids
 schizont
 schizonts
+schizophrene
 schizophrenes
 schizophrenia
 schizophrenic
@@ -122646,6 +122675,7 @@ strikebreaker
 strikebreakers
 strikebreaking
 strikebreakings
+strikeout
 strikeouts
 strikeovers
 striker
@@ -128489,6 +128519,7 @@ teutonizes
 tevatron
 tevatrons
 tew
+tewed
 tewing
 tews
 texas
@@ -129657,6 +129688,7 @@ timbale
 timbales
 timbals
 timber
+timberdoodle
 timberdoodles
 timbered
 timberhead
@@ -135261,6 +135293,7 @@ unemployables
 unemployment
 unemployments
 unenchanted
+unenclosed
 unendearing
 unended
 unending
@@ -140297,6 +140330,7 @@ wagtail
 wagtails
 wahconda
 wahcondas
+wahine
 wahoo
 wahoos
 waif
@@ -142442,6 +142476,7 @@ winterkills
 winterly
 winters
 wintertide
+wintertides
 wintertime
 wintertimes
 wintery
