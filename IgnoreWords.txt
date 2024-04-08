@@ -7423,6 +7423,7 @@ atones
 atonia
 atonias
 atonic
+atonicities
 atonies
 atoning
 atoningly
@@ -17566,6 +17567,7 @@ cannulate
 cannulated
 cannulates
 cannulating
+canny
 canoe
 canoeable
 canoed
@@ -28896,6 +28898,7 @@ cryobiological
 cryobiologies
 cryobiologist
 cryobiologists
+cryobiology
 cryogen
 cryogenic
 cryogenically
@@ -29565,6 +29568,7 @@ cuspidal
 cuspidate
 cuspidation
 cuspidations
+cuspides
 cuspidor
 cuspidors
 cuspids
@@ -31377,6 +31381,7 @@ decurved
 decurves
 decurving
 decury
+decussate
 decussated
 decussates
 decussations
@@ -41205,11 +41210,13 @@ entitle
 entitled
 entitlement
 entitlements
+entitles
 entitling
 entity
 entoblast
 entoblasts
 entoderm
+entodermal
 entodermic
 entoderms
 entoiled
@@ -44811,6 +44818,7 @@ fantailed
 fantails
 fantasia
 fantasie
+fantasied
 fantasies
 fantasise
 fantasised
@@ -47494,6 +47502,7 @@ flourisher
 flourishers
 flourishing
 flourishingly
+flourless
 flours
 floury
 flout
@@ -50190,6 +50199,7 @@ gabions
 gable
 gabled
 gablelike
+gables
 gabling
 gaboon
 gaboons
@@ -51492,6 +51502,7 @@ geomorphology
 geophagias
 geophagies
 geophagy
+geophone
 geophones
 geophysical
 geophysicists
@@ -51748,6 +51759,7 @@ gibbers
 gibbet
 gibbeted
 gibbets
+gibbetted
 gibbetting
 gibbing
 gibbon
@@ -57346,6 +57358,7 @@ heteronomies
 heteronomous
 heteronomy
 heteronyms
+heterophonies
 heterophyllies
 heterophyllous
 heterophylly
@@ -61503,6 +61516,7 @@ impugned
 impugner
 impugners
 impugning
+impugns
 impuissances
 impuissant
 impulse
@@ -66276,6 +66290,7 @@ jo
 joannes
 jobbed
 jobber
+jobbers
 jobbery
 jobbing
 jobholder
@@ -67327,6 +67342,7 @@ keyless
 keynote
 keynoted
 keynoter
+keynoters
 keynotes
 keynoting
 keypad
@@ -78900,6 +78916,7 @@ mooch
 mooched
 moocher
 mooches
+mooching
 mood
 moodier
 moodiest
@@ -80621,6 +80638,7 @@ mythologists
 mythologize
 mythologized
 mythologizer
+mythologizers
 mythologizes
 mythologizing
 mythology
@@ -80930,6 +80948,7 @@ narwhales
 narwhals
 nasal
 nasalise
+nasalised
 nasalising
 nasalism
 nasalities
@@ -90070,6 +90089,7 @@ paraboloid
 paraboloidal
 parachor
 parachors
+parachute
 parachuted
 parachutes
 parachutic
@@ -90089,6 +90109,7 @@ paradigm
 paradigmatic
 paradigms
 parading
+paradisaic
 paradisaical
 paradisal
 paradise
@@ -91962,6 +91983,7 @@ peptids
 peptize
 peptized
 peptizer
+peptizers
 peptizing
 peptones
 peptonic
@@ -94074,6 +94096,7 @@ pinaster
 pinasters
 pinata
 pinatas
+pinball
 pinballed
 pinballing
 pinballs
@@ -96666,6 +96689,7 @@ postmasterships
 postmating
 postmedieval
 postmen
+postmenopausal
 postmillenarian
 postmillennial
 postmistress
@@ -97350,6 +97374,7 @@ preciousnesses
 precipes
 precipice
 precipices
+precipitance
 precipitances
 precipitancies
 precipitancy
@@ -100910,6 +100935,7 @@ purest
 purfle
 purfled
 purfler
+purflers
 purfles
 purfling
 purflings
@@ -101961,6 +101987,7 @@ quirt
 quirted
 quirting
 quirts
+quisling
 quislingism
 quislingisms
 quislings
@@ -103197,6 +103224,7 @@ readopted
 readopts
 readorn
 readorned
+readorns
 readout
 readouts
 reads
@@ -103773,6 +103801,7 @@ rechose
 rechosen
 rechristened
 rechristens
+rechromatograph
 recidivism
 recidivisms
 recidivist
@@ -107207,6 +107236,7 @@ research
 researched
 researches
 researching
+researchist
 reseason
 reseasoned
 reseasons
@@ -108835,6 +108865,7 @@ rialto
 riant
 riantly
 rias
+riata
 rib
 ribald
 ribaldly
@@ -114741,6 +114772,7 @@ shadbushes
 shadchan
 shadchans
 shaddock
+shaddocks
 shade
 shaded
 shader
@@ -130921,6 +130953,7 @@ tortillas
 tortiously
 tortoise
 tortoises
+tortoiseshell
 tortoiseshells
 tortoni
 tortonis
@@ -138530,6 +138563,7 @@ varas
 varia
 variabilities
 variability
+variable
 variableness
 variablenesses
 variables
@@ -139156,6 +139190,7 @@ vermoulu
 vermouth
 vermouths
 vermuths
+vernacle
 vernacles
 vernacular
 vernacularism
