@@ -38,3 +38,13 @@ EV2217.txt,https://www.whpress.co.uk/RePEc/refs/EV22/EV2217.txt
 Documentation/devicetree/bindings/vendor-prefixes.txt - kernel/msm,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/vendor-prefixes.txt
 R-REC-BS.705-1-199510-I!!TOC-TXT-S.txt - ITU,https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.705-1-199510-I!!TOC-TXT-S.txt
 tab3694.txt - Bureau of Reclamation,https://usbr.gov/mp/cvo/vungvari/tab3694.txt
+cortina.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/net/cortina.txt
+"cortina,gemini-pinctrl.txt",https://www.kernel.org/doc/Documentation/devicetree/bindings/pinctrl/cortina%252Cgemini-pinctrl.txt
+"Documentation/devicetree/bindings/mtd/cortina,gemini-flash.txt",https://coral.googlesource.com/linux-imx/%2B/refs/heads/codeaurora-linux-4.19.y/Documentation/devicetree/bindings/mtd/cortina%252Cgemini-flash.txt%3Fautodive%3D0%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F
+"cortina,gemini-sata-bridge.txt","https://mjmwired.net/kernel/Documentation/devicetree/bindings/ata/cortina,gemini-sata-bridge.txt"
+qoriq-firmware-cortina/cs4315-cs4340-PHY-ucode.txt at integration,https://github.com/NXP/qoriq-firmware-cortina/blob/integration/cs4315-cs4340-PHY-ucode.txt
+Documentation/devicetree/bindings/net/cortina.txt - linux-imx,https://coral.googlesource.com/linux-imx/%2B/refs/heads/codeaurora-linux-4.19.y/Documentation/devicetree/bindings/net/cortina.txt%3Fautodive%3D0%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F%252F
+0000899243-22-014752.txt - SEC.gov,https://www.sec.gov/Archives/edgar/data/1788717/0000899243-22-014752.txt
+qoriq-firmware-cortina/EULA.txt at integration - GitHub,https://github.com/nxp-qoriq/qoriq-firmware-cortina/blob/integration/EULA.txt
+http://files.usgwarchives.net/ca/sacramento/photos...,http://files.usgwarchives.net/ca/sacramento/photos/tombstones/calvarycatholic/cortinas468gph.txt
+"Full text of ""Juan N. Cortina, bandit or patriot? Juan ... - Internet Archive",https://archive.org/stream/JuanN.CortinaBanditOrPatriotJuanN.CortinaPresentsHisMotionForA/cortina_djvu.txt
