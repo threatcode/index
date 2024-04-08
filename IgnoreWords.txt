@@ -1395,6 +1395,7 @@ adulthoods
 adultlike
 adultly
 adultness
+adultnesses
 adultress
 adultresses
 adults
@@ -10042,6 +10043,7 @@ beached
 beachfront
 beachfronts
 beachgoer
+beachgoers
 beachhead
 beachheads
 beachier
@@ -17327,6 +17329,7 @@ camps
 campshirt
 campshirts
 campsite
+campsites
 campstools
 campus
 campused
@@ -17556,6 +17559,7 @@ canoness
 canonesses
 canonic
 canonical
+canonically
 canonicals
 canonicities
 canonicity
@@ -24904,6 +24908,7 @@ condemner
 condemning
 condemnor
 condemnors
+condemns
 condensable
 condensate
 condensation
@@ -27992,6 +27997,7 @@ cratered
 cratering
 craterings
 craterlet
+craterlets
 craterlike
 crates
 crating
@@ -28063,6 +28069,7 @@ cream
 creamcups
 creamed
 creameries
+creamers
 creamery
 creamier
 creamily
@@ -33561,6 +33568,7 @@ devolve
 devolved
 devolves
 devolving
+devon
 devonian
 devons
 devoted
@@ -40564,6 +40572,7 @@ endower
 endowers
 endowing
 endowments
+endows
 endozoic
 endpaper
 endplate
@@ -40911,6 +40920,7 @@ enrich
 enricher
 enrichers
 enriches
+enriching
 enrichment
 enrobe
 enrobed
@@ -44748,6 +44758,7 @@ fantasise
 fantasised
 fantasises
 fantasising
+fantasists
 fantasized
 fantasizers
 fantasizes
@@ -45652,6 +45663,7 @@ ferulae
 ferulas
 ferule
 feruled
+ferules
 feruling
 fervencies
 fervency
@@ -48974,6 +48986,7 @@ fraudulence
 fraudulences
 fraudulent
 fraudulently
+fraughted
 fraughting
 fraughts
 fraulein
@@ -61068,6 +61081,7 @@ imperiling
 imperilled
 imperilling
 imperilment
+imperilments
 imperils
 imperious
 imperiousness
@@ -67884,6 +67898,7 @@ knowledges
 known
 knowns
 knows
+knubbiest
 knubby
 knuckle
 knuckleball
@@ -68591,6 +68606,7 @@ lammergeyer
 lammergeyers
 lamp
 lampad
+lampads
 lampases
 lampblack
 lampblacks
@@ -69588,6 +69604,7 @@ legendarily
 legendary
 legendized
 legendizes
+legendizing
 legendries
 legendry
 leger
@@ -70480,6 +70497,7 @@ limbs
 limbus
 limbuses
 limby
+lime
 limeade
 limeades
 limed
@@ -86286,6 +86304,7 @@ ouguiya
 ouistiti
 ounce
 ounces
+ouph
 ouphe
 ouphes
 ouphs
@@ -91065,6 +91084,7 @@ peacemakings
 peacenik
 peaceniks
 peacetimes
+peach
 peachblow
 peachblows
 peached
@@ -92123,6 +92143,7 @@ periscope
 periscopic
 perish
 perishability
+perishable
 perishables
 perished
 perishes
@@ -100053,6 +100074,7 @@ psalms
 psalteria
 psalteries
 psalters
+psaltery
 psaltries
 psaltry
 psammite
@@ -100160,6 +100182,7 @@ psychic
 psychical
 psychically
 psychics
+psyching
 psycho
 psychoacoustic
 psychoacoustics
@@ -106075,6 +106098,7 @@ remorseful
 remorseless
 remorselessly
 remorses
+remote
 remotely
 remoteness
 remotenesses
@@ -107667,6 +107691,7 @@ resyntheses
 resynthesis
 resynthesized
 resynthesizes
+resynthesizing
 resystematize
 resystematized
 resystematizes
@@ -115822,6 +115847,7 @@ sic
 siccan
 siccative
 siccatives
+sicced
 siccing
 sice
 sices
@@ -119707,6 +119733,7 @@ speechwriters
 speed
 speedballed
 speedballing
+speedballs
 speedboat
 speedboats
 speeded
@@ -119956,6 +119983,7 @@ spikelike
 spikenards
 spiker
 spikers
+spikes
 spikey
 spikier
 spikiest
@@ -127352,6 +127380,7 @@ taws
 tawsed
 tawsing
 tax
+taxa
 taxables
 taxably
 taxed
@@ -141548,6 +141577,7 @@ wetters
 wettest
 wetting
 wettings
+wetwares
 wha
 whack
 whacked
@@ -143295,6 +143325,7 @@ wrenching
 wrenchingly
 wrens
 wrest
+wrester
 wresters
 wresting
 wrestle
@@ -143383,6 +143414,7 @@ wroth
 wrothful
 wrought
 wry
+wryer
 wryest
 wrying
 wryly
@@ -143799,6 +143831,7 @@ yerked
 yerking
 yerks
 yeshivah
+yeshivahs
 yeshivot
 yeshivoth
 yesses
@@ -144105,11 +144138,13 @@ zealot
 zealotries
 zealotry
 zealots
+zealous
 zealously
 zealousness
 zealousnesses
 zeatins
 zebec
+zebeck
 zebecs
 zebrafish
 zebrafishes
