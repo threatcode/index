@@ -1216,6 +1216,7 @@ administer
 administered
 administering
 administers
+administrable
 administrant
 administrants
 administrate
@@ -9062,6 +9063,7 @@ baller
 ballerina
 ballerinas
 ballet
+balletic
 balletomane
 balletomanes
 balletomania
@@ -19566,6 +19568,7 @@ cered
 cerement
 cerements
 ceremonial
+ceremonialism
 ceremonialisms
 ceremonialists
 ceremonially
@@ -20905,6 +20908,7 @@ chivaries
 chivariing
 chive
 chives
+chivvied
 chivvies
 chivvy
 chivvying
@@ -21663,6 +21667,7 @@ circuitous
 circuitously
 circuitousness
 circuitries
+circuitry
 circuits
 circuity
 circular
@@ -22868,6 +22873,7 @@ coattend
 coattended
 coattending
 coattends
+coattest
 coattested
 coattesting
 coattests
@@ -26128,6 +26134,7 @@ convergent
 converges
 conversable
 conversance
+conversances
 conversancies
 conversancy
 conversant
@@ -30047,6 +30054,7 @@ dabbing
 dabble
 dabbler
 dabbles
+dabbling
 dabblings
 dabs
 dabster
@@ -39353,6 +39361,7 @@ eldresses
 eldrich
 eldritch
 elds
+elecampane
 elecampanes
 elect
 electabilities
@@ -41576,6 +41585,7 @@ epigram
 epigrammatic
 epigrammatisms
 epigrammatist
+epigrammatize
 epigrammatized
 epigrammatizer
 epigrammatizers
@@ -42909,6 +42919,7 @@ eventides
 eventless
 events
 eventualities
+eventuality
 eventually
 eventuate
 eventuated
@@ -47054,6 +47065,7 @@ flawed
 flawier
 flawiest
 flawing
+flawless
 flawlessly
 flawlessnesses
 flaws
@@ -58147,6 +58159,7 @@ homebuilt
 homecomers
 homecomings
 homed
+homegirl
 homegirls
 homegrown
 homeless
@@ -70664,6 +70677,7 @@ limpsey
 limpsiest
 limuli
 limuloid
+limuloids
 lin
 linable
 linac
@@ -79081,6 +79095,7 @@ mores
 moresque
 moresques
 morgan
+morganite
 morganites
 morgans
 morgen
@@ -79199,6 +79214,7 @@ mortuaries
 mortuary
 morula
 morulae
+morulation
 morulations
 mos
 mosaic
@@ -79640,6 +79656,7 @@ muddiness
 muddinesses
 mudding
 muddle
+muddled
 muddleheaded
 muddler
 muddlers
@@ -80316,6 +80333,7 @@ mutches
 mutchkin
 mutchkins
 mute
+muted
 mutedly
 mutely
 muteness
@@ -81300,6 +81318,7 @@ negativistic
 negativists
 negativity
 negaton
+negatons
 negator
 negators
 negatron
@@ -83012,6 +83031,7 @@ nonhunter
 nonhunters
 nonhygroscopic
 nonideal
+nonideological
 nonillion
 nonillions
 nonimage
@@ -85184,6 +85204,7 @@ olfactive
 olfactometer
 olfactometers
 olfactory
+olibanums
 olicook
 olicooks
 oligarch
@@ -88159,6 +88180,7 @@ overgoverns
 overgrade
 overgraded
 overgraze
+overgrazed
 overgrazes
 overgrazing
 overgreat
@@ -94114,6 +94136,7 @@ pinger
 pingers
 pingo
 pingoes
+pingos
 pingrass
 pings
 pinguid
@@ -101522,6 +101545,7 @@ quandong
 quandongs
 quango
 quant
+quanta
 quantal
 quantally
 quanted
@@ -104382,6 +104406,7 @@ redetermine
 redetermined
 redetermining
 redevelop
+redeveloped
 redeveloper
 redevelopers
 redeveloping
@@ -105764,6 +105789,7 @@ rejudge
 rejudged
 rejudges
 rejudging
+rejuggle
 rejuggled
 rejuggles
 rejuggling
@@ -106576,6 +106602,7 @@ repealers
 repealing
 repeals
 repeat
+repeated
 repeater
 repeaters
 repeating
@@ -116688,6 +116715,7 @@ sistroid
 sistrum
 sistrums
 sit
+sitar
 sitars
 sitcoms
 sited
@@ -117299,6 +117327,7 @@ sleazes
 sleazier
 sleazily
 sleaziness
+sleazinesses
 sleazo
 sleazoids
 sleazy
@@ -127006,6 +127035,7 @@ tamal
 tamale
 tamals
 tamandu
+tamandua
 tamanduas
 tamandus
 tamarack
@@ -127236,6 +127266,7 @@ taphonomist
 taphonomy
 taphouse
 taphouses
+taping
 tapioca
 tapiocas
 tapir
@@ -130419,6 +130450,7 @@ toledo
 toledos
 tolerabilities
 tolerable
+tolerably
 tolerance
 tolerances
 tolerant
@@ -133059,6 +133091,7 @@ tubaist
 tubaists
 tubal
 tubas
+tubate
 tubbed
 tubber
 tubbers
@@ -136701,6 +136734,7 @@ unrepair
 unrepairs
 unrepeatable
 unrepresented
+unrepressed
 unreserve
 unreservedly
 unreservedness
@@ -140411,6 +140445,7 @@ vulnerability
 vulnerable
 vulnerableness
 vulnerably
+vulneraries
 vulnerary
 vulpine
 vulture
