@@ -10420,6 +10420,7 @@ bedouins
 bedplate
 bedplates
 bedpost
+bedposts
 bedquilt
 bedquilts
 bedraggle
@@ -13002,6 +13003,7 @@ bloats
 bloatware
 blob
 blobbed
+blobs
 bloc
 block
 blockable
@@ -20742,6 +20744,7 @@ chiltepin
 chimaera
 chimaeras
 chimaeric
+chimaerism
 chimaerisms
 chimar
 chimars
@@ -21844,6 +21847,7 @@ citifies
 citify
 citing
 citizen
+citizeness
 citizenesses
 citizenly
 citizenries
@@ -23619,6 +23623,7 @@ coleseed
 coleslaw
 coleslaws
 colessees
+colessor
 colessors
 coleuses
 colewort
@@ -28376,6 +28381,7 @@ crewmen
 crewneck
 crews
 cribbage
+cribbed
 cribber
 cribbers
 cribbing
@@ -31271,6 +31277,7 @@ decompensation
 decompensations
 decomposable
 decompose
+decomposed
 decomposers
 decomposes
 decomposing
@@ -35293,6 +35300,7 @@ disembarkation
 disembarkations
 disembarked
 disembarking
+disembarks
 disembarrass
 disembarrassed
 disembarrasses
@@ -38042,6 +38050,7 @@ duelled
 dueller
 duellers
 duelli
+duelling
 duellist
 duellists
 duello
@@ -38424,6 +38433,7 @@ dyeable
 dyed
 dyeing
 dyeings
+dyes
 dyestuff
 dyestuffs
 dyeweed
@@ -39969,6 +39979,7 @@ embroiled
 embroiler
 embroilers
 embroilments
+embrown
 embrowning
 embrue
 embrues
@@ -40670,6 +40681,7 @@ endozoic
 endpaper
 endplate
 endplates
+endplay
 endplayed
 endplaying
 endplays
@@ -46698,6 +46710,7 @@ fissionability
 fissionable
 fissioning
 fissiparousness
+fissiped
 fissipeds
 fissural
 fissure
@@ -69559,6 +69572,7 @@ leafleters
 leafleting
 leaflets
 leafletting
+leaflike
 leafs
 leafstalk
 leafstalks
@@ -70939,6 +70953,7 @@ lionizations
 lionize
 lionized
 lionizer
+lionizes
 lionizing
 lions
 lip
@@ -80315,6 +80330,7 @@ mushinesses
 mushing
 mushroom
 mushroomed
+mushrooming
 mushrooms
 mushy
 music
@@ -80626,6 +80642,7 @@ myology
 myoma
 myomata
 myomatous
+myopathic
 myopathies
 myopathy
 myopes
@@ -81183,6 +81200,7 @@ nautical
 nautically
 nautiloid
 nautiloids
+nautilus
 nautiluses
 navaid
 navaids
@@ -86288,6 +86306,7 @@ orthosis
 orthostatic
 orthotic
 orthotist
+orthotists
 orthotropous
 ortolan
 ortolans
@@ -87663,6 +87682,7 @@ outwearying
 outweep
 outweigh
 outweighed
+outweighing
 outwhirl
 outwhirling
 outwile
@@ -89542,6 +89562,7 @@ painfuller
 painfullest
 painfully
 paining
+painkilling
 painless
 painlessness
 painlessnesses
@@ -90057,6 +90078,7 @@ pantomiming
 pantomimists
 pantos
 pantothenate
+pantoums
 pantries
 pantropic
 pantropical
@@ -98357,6 +98379,7 @@ prescoring
 prescreen
 prescreening
 prescreens
+prescribe
 prescribed
 prescriber
 prescribers
@@ -98830,6 +98853,7 @@ priesthood
 priesthoods
 priestlinesses
 priestly
+prig
 prigged
 priggeries
 priggery
@@ -105273,6 +105297,7 @@ refreshingly
 refreshment
 refreshments
 refried
+refries
 refrigerant
 refrigerants
 refrigerate
@@ -115349,6 +115374,7 @@ shelties
 shelty
 shelver
 shelvers
+shelves
 shelvier
 shelviest
 shelving
@@ -123048,6 +123074,7 @@ stridor
 stridors
 stridulate
 stridulated
+stridulates
 stridulating
 stridulation
 stridulatory
@@ -124269,6 +124296,7 @@ subtitled
 subtitling
 subtle
 subtleness
+subtlenesses
 subtler
 subtlest
 subtleties
@@ -126791,6 +126819,7 @@ tablecloth
 tabled
 tableful
 tablefuls
+tablelands
 tableless
 tablemate
 tablemates
@@ -131870,6 +131899,7 @@ transmuting
 transnational
 transnatural
 transoceanic
+transonic
 transpacific
 transparence
 transparences
@@ -132433,6 +132463,7 @@ trickling
 trickly
 tricks
 tricksier
+tricksiest
 tricksiness
 tricksinesses
 trickster
@@ -135852,6 +135883,7 @@ unfelted
 unfeminine
 unfence
 unfences
+unfencing
 unfermented
 unfertile
 unfertilized
@@ -140767,6 +140799,7 @@ wagoner
 wagoners
 wagonette
 wagonettes
+wagoning
 wagonloads
 wagons
 wags
@@ -142688,6 +142721,7 @@ willowing
 willowlike
 willows
 willowware
+willowwares
 willowy
 willpower
 willpowers
@@ -143579,6 +143613,7 @@ wornnesses
 worriedly
 worrier
 worriers
+worries
 worriment
 worriments
 worrisome
