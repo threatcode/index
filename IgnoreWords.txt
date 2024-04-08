@@ -386,6 +386,7 @@ accidence
 accidences
 accident
 accidental
+accidentalness
 accidently
 accidents
 accidia
@@ -3584,6 +3585,7 @@ ammonoids
 ammunition
 ammunitions
 amnesia
+amnesias
 amnesic
 amnesics
 amnestic
@@ -5705,6 +5707,7 @@ appeasable
 appease
 appeased
 appeasement
+appeasements
 appeasers
 appeases
 appeasing
@@ -7424,6 +7427,7 @@ atomized
 atomizer
 atomizers
 atomizes
+atomizing
 atomy
 atonable
 atonal
@@ -9284,6 +9288,7 @@ banish
 banished
 banisher
 banishers
+banishes
 banishing
 banishment
 banishments
@@ -16320,6 +16325,7 @@ bushfire
 bushfires
 bushgoat
 bushgoats
+bushido
 bushier
 bushiest
 bushily
@@ -23742,6 +23748,7 @@ collectivist
 collectivistic
 collectivities
 collectivity
+collectivize
 collectivized
 collectivizes
 collectivizing
@@ -33234,6 +33241,7 @@ desoxy
 despair
 despaired
 despairers
+despairingly
 despairs
 despatch
 despatched
@@ -38355,6 +38363,7 @@ durned
 durning
 duroc
 durometer
+duros
 durr
 durra
 durras
@@ -46440,6 +46449,7 @@ financial
 financially
 financier
 financiered
+financiering
 financiers
 financing
 finbacks
@@ -50463,6 +50473,7 @@ galenicals
 galenite
 galenites
 galeres
+gales
 galette
 galettes
 galilee
@@ -55084,6 +55095,7 @@ habiliments
 habilitate
 habilitating
 habilitation
+habilitations
 habit
 habitability
 habitable
@@ -62322,6 +62334,7 @@ indenter
 indenters
 indenting
 indention
+indentors
 indenture
 indentured
 indenturing
@@ -64320,6 +64333,7 @@ internalize
 internalized
 internalizes
 internally
+internals
 internationally
 interne
 internecine
@@ -65482,6 +65496,7 @@ isobutylenes
 isobutyls
 isocaloric
 isocarboxazid
+isocarboxazids
 isocheims
 isochime
 isochor
@@ -66642,6 +66657,7 @@ joviality
 jovially
 jovialties
 jovialty
+jow
 jowar
 jowars
 jowed
@@ -74628,6 +74644,7 @@ mausoleums
 mauts
 mauve
 mauves
+maven
 maverick
 mavericks
 mavie
@@ -78386,6 +78403,7 @@ moderatos
 modern
 moderne
 moderner
+modernest
 modernisation
 modernisations
 modernise
@@ -83667,6 +83685,7 @@ nonsexist
 nonsexual
 nonshrink
 nonshrinkable
+nonsigner
 nonsigners
 nonsignificant
 nonsimultaneous
@@ -86668,6 +86687,7 @@ outachieves
 outachieving
 outact
 outadd
+outadding
 outadds
 outages
 outargue
@@ -89533,6 +89553,7 @@ paddleboat
 paddleboats
 paddled
 paddlefishes
+paddler
 paddlers
 paddles
 paddlings
@@ -97594,6 +97615,7 @@ precieux
 precinct
 precincts
 preciosities
+precious
 preciouses
 preciousness
 preciousnesses
@@ -98718,6 +98740,7 @@ pretendedly
 pretender
 pretenders
 pretending
+pretends
 pretense
 pretension
 pretensioned
@@ -103436,6 +103459,7 @@ readd
 readded
 readdict
 readdicted
+readdicting
 readdicts
 readding
 readdressed
@@ -105821,6 +105845,7 @@ reimpression
 reimpressions
 reincarnate
 reincarnated
+reincarnates
 reincarnating
 reincarnation
 reincarnations
@@ -109681,6 +109706,7 @@ roared
 roarer
 roarers
 roaringly
+roarings
 roars
 roast
 roaster
@@ -110668,6 +110694,7 @@ runrounds
 runs
 runt
 runtier
+runtiest
 runtiness
 runtinesses
 runtish
@@ -110984,6 +111011,7 @@ sadhe
 sadhes
 sadhu
 sadhus
+sadirons
 sadis
 sadism
 sadisms
@@ -113189,6 +113217,7 @@ scrootches
 scrootching
 scrota
 scrotal
+scrotum
 scrotums
 scrouge
 scrouges
@@ -115445,6 +115474,7 @@ shekel
 shekelim
 shekels
 sheldrake
+sheldrakes
 shelduck
 shelducks
 shelf
@@ -118302,6 +118332,7 @@ smudginess
 smudginesses
 smudging
 smudgy
+smug
 smugger
 smuggled
 smuggler
@@ -131909,6 +131940,7 @@ transfixing
 transfixion
 transfixions
 transform
+transformation
 transformations
 transformed
 transformers
@@ -132868,6 +132900,7 @@ trippingly
 trippings
 trippy
 triptan
+triptane
 triptanes
 triptyca
 triptycas
@@ -134924,6 +134957,7 @@ unbuild
 unbuildable
 unbuilding
 unbuilds
+unbuilt
 unbulky
 unbundle
 unbundled
@@ -141154,6 +141188,7 @@ waney
 wangan
 wangans
 wangle
+wangler
 wanglers
 wangles
 wangling
