@@ -2598,6 +2598,7 @@ alephs
 alert
 alerted
 alertest
+alerting
 alertly
 alertness
 alertnesses
@@ -4625,6 +4626,7 @@ antebellum
 antecede
 anteceded
 antecedence
+antecedences
 antecedent
 antecedently
 antecedents
@@ -5800,6 +5802,7 @@ applets
 appliable
 appliance
 applicabilities
+applicability
 applicable
 applicant
 applicants
@@ -7360,6 +7363,7 @@ ataraxics
 ataraxies
 atavic
 atavism
+atavisms
 atavistic
 atavistically
 atavists
@@ -7406,6 +7410,7 @@ athetoses
 athetosis
 athetotic
 athirst
+athlete
 athletes
 athletic
 athleticism
@@ -8908,6 +8913,7 @@ bads
 baff
 baffed
 baffies
+baffing
 baffle
 bafflegab
 bafflegabs
@@ -10068,6 +10074,7 @@ bawdies
 bawdiest
 bawdily
 bawdiness
+bawdinesses
 bawdric
 bawdrics
 bawdry
@@ -10917,6 +10924,7 @@ bellbirds
 bellboys
 belleek
 belles
+belletrist
 belletristic
 belletrists
 bellflower
@@ -13710,6 +13718,7 @@ bolection
 bolections
 bolero
 boleros
+boles
 bolete
 boletes
 boletus
@@ -14949,6 +14958,7 @@ breakage
 breakages
 breakaway
 breakaways
+breakdown
 breakdowns
 breaker
 breakers
@@ -17794,6 +17804,7 @@ cantrip
 cantrips
 cants
 cantus
+canty
 canula
 canular
 canulas
@@ -29393,6 +29404,7 @@ cultures
 culturing
 culturist
 culturists
+cultus
 cultuses
 culver
 culverin
@@ -34438,6 +34450,7 @@ diestrum
 diestrums
 diestrus
 diestruses
+dietaries
 dietarily
 dietary
 dieted
@@ -35114,6 +35127,7 @@ disagreed
 disagreements
 disagrees
 disallow
+disallowances
 disallowed
 disallowing
 disallows
@@ -36255,6 +36269,7 @@ distastefully
 distastefulness
 distastes
 distasting
+distaves
 distelfink
 distelfinks
 distemper
@@ -36920,6 +36935,7 @@ dolmades
 dolman
 dolmans
 dolmas
+dolmen
 dolmenic
 dolmens
 dolomite
@@ -37430,6 +37446,7 @@ downfield
 downforce
 downforces
 downgrade
+downgraded
 downgrades
 downgrading
 downhaul
@@ -40435,6 +40452,7 @@ emptins
 empty
 empurple
 empurples
+empurpling
 empyemas
 empyemic
 empyreal
@@ -54027,6 +54045,7 @@ graynesses
 grayout
 grays
 grayscale
+graywacke
 graywackes
 graywaters
 grazable
@@ -63193,6 +63212,7 @@ influenced
 influences
 influencing
 influent
+influential
 influentially
 influents
 influenzal
@@ -63233,6 +63253,7 @@ infotainments
 infought
 infra
 infract
+infracting
 infraction
 infractions
 infractor
@@ -66578,6 +66599,7 @@ jibing
 jibingly
 jibs
 jicamas
+jiffies
 jiffs
 jiffy
 jigged
@@ -70711,6 +70733,7 @@ libertinages
 libertine
 libertines
 libertinism
+libertinisms
 liberty
 libidinal
 libidinally
@@ -74120,6 +74143,7 @@ mantelets
 mantelpiece
 mantelpieces
 manticore
+manticores
 mantid
 mantids
 mantilla
@@ -76672,6 +76696,7 @@ micronutrients
 microorganism
 microorganisms
 microparticle
+microparticles
 microphage
 microphages
 microphones
@@ -78016,6 +78041,7 @@ misjoins
 misjudge
 misjudged
 misjudges
+misjudging
 misjudgment
 misjudgments
 miskal
@@ -80533,6 +80559,7 @@ mummeries
 mummery
 mummichog
 mummichogs
+mummification
 mummifications
 mummified
 mummifies
@@ -91336,6 +91363,7 @@ passant
 passband
 passbook
 passbooks
+passe
 passed
 passee
 passel
@@ -92435,6 +92463,7 @@ pentarch
 pentarchies
 pentarchy
 pentathlete
+pentathlon
 pentathlons
 pentatonic
 pentavalent
@@ -97637,6 +97666,7 @@ pozzolanic
 pozzolans
 praam
 praams
+practic
 practicability
 practicableness
 practicably
@@ -121662,6 +121692,7 @@ spurring
 spurry
 spurs
 spurt
+spurted
 spurter
 spurters
 spurting
@@ -122539,6 +122570,7 @@ steerageway
 steered
 steerer
 steerers
+steering
 steers
 steersman
 steersmen
@@ -125344,6 +125376,7 @@ sulfuryls
 sulk
 sulked
 sulker
+sulkier
 sulkies
 sulkiest
 sulkily
@@ -138293,6 +138326,7 @@ unwhite
 unwholesome
 unwieldier
 unwieldiest
+unwieldily
 unwieldiness
 unwieldinesses
 unwifely
@@ -143813,6 +143847,7 @@ wists
 wit
 witan
 witans
+witch
 witchcrafts
 witched
 witchery
