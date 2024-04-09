@@ -10235,6 +10235,7 @@ beauteousnesses
 beautician
 beauticians
 beautifications
+beautified
 beautifier
 beautifies
 beautiful
@@ -12926,6 +12927,7 @@ blesseder
 blessedest
 blessedly
 blessedness
+blessednesses
 blesser
 blessers
 blesses
@@ -13393,6 +13395,7 @@ blustered
 blusterer
 blusterers
 blustering
+blusteringly
 blusterous
 blustery
 blype
@@ -13717,6 +13720,7 @@ boltrope
 boltropes
 bolus
 boluses
+bomb
 bombable
 bombard
 bombarder
@@ -23611,6 +23615,7 @@ cojoined
 cojoining
 cojones
 coke
+cokehead
 cokes
 col
 cola
@@ -23715,6 +23720,7 @@ collapsibility
 collapsible
 collapsing
 collar
+collarbone
 collarbones
 collared
 collaret
@@ -29786,6 +29792,7 @@ cutworks
 cuvee
 cuvees
 cuvette
+cuvettes
 cwms
 cyan
 cyanamid
@@ -32370,6 +32377,7 @@ demography
 demoing
 demoiselle
 demoiselles
+demolish
 demolished
 demolisher
 demolishers
@@ -43913,6 +43921,7 @@ explicated
 explicates
 explicating
 explications
+explicative
 explicatively
 explicator
 explicators
@@ -44297,6 +44306,7 @@ extravascular
 extravehicular
 extraversion
 extraversions
+extraverts
 extreme
 extremely
 extremeness
@@ -48252,6 +48262,7 @@ footpace
 footpaces
 footpad
 footpads
+footpath
 footpaths
 footprint
 footprints
@@ -62727,6 +62738,7 @@ inequivalve
 inequivalved
 ineradicability
 ineradicable
+ineradicably
 inerrable
 inerrancies
 inerrancy
@@ -65920,6 +65932,7 @@ jaggary
 jaggedest
 jaggedly
 jaggedness
+jaggednesses
 jagger
 jaggeries
 jaggers
@@ -66972,6 +66985,7 @@ justifiers
 justifies
 justify
 justifying
+justing
 justle
 justles
 justness
@@ -70008,6 +70022,7 @@ leiomyomas
 leiomyomata
 leishmania
 leishmanial
+leishmanias
 leishmaniases
 leishmaniasis
 leistering
@@ -73517,6 +73532,7 @@ maltinesses
 malting
 maltols
 maltose
+maltoses
 maltreat
 maltreated
 maltreater
@@ -74929,6 +74945,7 @@ medallic
 medalling
 medallion
 medallions
+medallist
 medals
 meddle
 meddled
@@ -76274,6 +76291,7 @@ microbreweries
 microbrewing
 microbrewings
 microbrews
+microburst
 microbus
 microbuses
 microcap
@@ -77066,6 +77084,7 @@ minidresses
 minified
 minifies
 minify
+minifying
 minikin
 minikins
 minilab
@@ -78428,6 +78447,7 @@ modem
 modeming
 moderate
 moderated
+moderately
 moderateness
 moderatenesses
 moderates
@@ -81180,6 +81200,7 @@ narrows
 narthex
 narthexes
 narwal
+narwals
 narwhal
 narwhale
 narwhales
@@ -83963,6 +83984,7 @@ noradrenalines
 noradrenalins
 noradrenergic
 nordic
+norepinephrine
 norepinephrines
 nori
 noria
@@ -93414,6 +93436,7 @@ phlyctenae
 phobia
 phobias
 phobics
+phocine
 phoebe
 phoebes
 phoebus
@@ -95723,6 +95746,7 @@ pneuma
 pneumas
 pneumatic
 pneumatically
+pneumaticities
 pneumaticity
 pneumatics
 pneumatology
@@ -97408,6 +97432,7 @@ prankishnesses
 pranks
 prankster
 pranksters
+prao
 praos
 prase
 praseodymium
@@ -99083,6 +99108,7 @@ primiparae
 primiparas
 primiparous
 primitive
+primitively
 primitiveness
 primitives
 primitivisms
@@ -104685,6 +104711,7 @@ redecoration
 redecorations
 redecorator
 redecorators
+reded
 rededicate
 rededicates
 rededications
@@ -105706,6 +105733,7 @@ regreens
 regreet
 regreeting
 regreets
+regress
 regressed
 regresses
 regressing
@@ -112321,6 +112349,7 @@ scaler
 scalers
 scales
 scaletail
+scaletails
 scaleup
 scaleups
 scalier
@@ -123484,6 +123513,7 @@ strummed
 strummer
 strummers
 strumming
+strumose
 strumpets
 strums
 strung
@@ -130649,6 +130679,7 @@ titivations
 titlark
 title
 titled
+titleholders
 titles
 titlist
 titlists
@@ -136663,6 +136694,7 @@ unladylike
 unlaid
 unlashes
 unlatch
+unlatched
 unlatches
 unlatching
 unlawful
@@ -140077,6 +140109,7 @@ villiform
 villose
 villosities
 villous
+villously
 vills
 vim
 vimen
@@ -142282,6 +142315,7 @@ wharfed
 wharfinger
 wharfingers
 wharfs
+wharves
 what
 whatchamacallit
 whatever
@@ -142941,6 +142975,7 @@ willable
 willed
 willemite
 willemites
+willer
 willet
 willets
 willfully
