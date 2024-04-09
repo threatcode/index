@@ -2335,6 +2335,7 @@ airliners
 airlines
 airmailing
 airmails
+airman
 airmanships
 airmobile
 airn
@@ -3935,6 +3936,7 @@ analyser
 analysers
 analyses
 analysing
+analysis
 analyst
 analyte
 analytes
@@ -5866,6 +5868,7 @@ appreciatively
 appreciator
 appreciators
 appreciatory
+apprehended
 apprehending
 apprehends
 apprehensible
@@ -7023,6 +7026,7 @@ assassinators
 assaulted
 assaulter
 assaulters
+assaulting
 assaultive
 assaultively
 assaultiveness
@@ -7465,6 +7469,7 @@ atoneable
 atoned
 atonement
 atonements
+atoner
 atones
 atonia
 atonias
@@ -9239,6 +9244,7 @@ bandaid
 bandana
 bandanas
 bandanna
+bandannas
 bandas
 bandbox
 bandboxes
@@ -12167,6 +12173,7 @@ bioengineering
 bioengineerings
 bioengineers
 bioethic
+bioethical
 bioethicist
 bioethicists
 bioethics
@@ -16454,6 +16461,7 @@ busticates
 busticating
 bustics
 bustier
+bustiers
 bustiest
 bustiness
 bustinesses
@@ -19265,6 +19273,7 @@ cavillers
 cavilling
 cavils
 caving
+cavitary
 cavitate
 cavitated
 cavitating
@@ -29874,6 +29883,7 @@ cuttled
 cuttlefish
 cuttlefishes
 cuttles
+cuttling
 cutup
 cutups
 cutwater
@@ -34373,6 +34383,7 @@ didjeridu
 didjeridus
 dido
 didoes
+didy
 didymium
 didynamies
 didynamy
@@ -42764,6 +42775,7 @@ ethicians
 ethicists
 ethicized
 ethicizes
+ethicizing
 ethics
 ethinyl
 ethinyls
@@ -51229,6 +51241,7 @@ gastrovascular
 gastrulae
 gastrular
 gastrulas
+gastrulate
 gastrulates
 gastrulating
 gastrulations
@@ -56136,6 +56149,7 @@ hardier
 hardiest
 hardihoods
 hardiment
+hardiness
 hardinesses
 hardinggrass
 hardinggrasses
@@ -57487,6 +57501,7 @@ heretofore
 heretrices
 heretrix
 heretrixes
+hereunder
 hereunto
 herewith
 heriot
@@ -57888,6 +57903,7 @@ higher
 highest
 highflyers
 highjack
+highjacked
 highlander
 highlands
 highlife
@@ -62845,6 +62861,7 @@ ineffablenesses
 ineffably
 ineffaceability
 ineffaceable
+ineffaceably
 ineffective
 ineffectively
 ineffectiveness
@@ -65591,6 +65608,7 @@ irresponsibles
 irresponsibly
 irretrievable
 irretrievably
+irreverence
 irreverences
 irreverent
 irreverently
@@ -69367,6 +69385,7 @@ larders
 lardier
 lardiest
 larding
+lardon
 lardons
 lardoon
 lardoons
@@ -71831,6 +71850,7 @@ locks
 lockset
 locksmith
 locksmithing
+locksmithings
 locksmiths
 lockstep
 lockstitch
@@ -78388,6 +78408,7 @@ mistime
 mistimed
 mistimes
 mistiming
+misting
 mistitle
 mistitled
 mistitles
@@ -86430,6 +86451,7 @@ orfray
 orfrays
 organ
 organa
+organdy
 organelles
 organic
 organically
@@ -94542,6 +94564,7 @@ pilafs
 pilar
 pilasters
 pilau
+pilaw
 pilaws
 pilchards
 pile
@@ -94981,6 +95004,7 @@ pisolith
 pisoliths
 pisolitic
 pissants
+pisser
 pissers
 pissoir
 pissoirs
@@ -97734,6 +97758,7 @@ preachify
 preachily
 preachiness
 preachingly
+preachment
 preachments
 preachy
 preact
@@ -105044,6 +105069,7 @@ redescribes
 redescribing
 redescription
 redescriptions
+redesign
 redesigned
 redesigning
 redesigns
@@ -115428,6 +115454,7 @@ shacked
 shackle
 shacklebone
 shackled
+shackler
 shackles
 shackling
 shacko
@@ -118182,6 +118209,7 @@ slim
 slime
 slimeball
 slimeballs
+slimed
 slimes
 slimier
 slimily
@@ -118837,6 +118865,7 @@ snarkiest
 snarkily
 snarks
 snarky
+snarled
 snarler
 snarling
 snarls
@@ -127086,6 +127115,7 @@ synaestheses
 synaesthesia
 synaesthesias
 synagog
+synagogal
 synagogs
 synagogues
 synalepha
@@ -129181,6 +129211,7 @@ teraohms
 teraph
 teraphim
 teratism
+teratisms
 teratocarcinoma
 teratogen
 teratogeneses
@@ -132391,6 +132422,7 @@ transforms
 transfusable
 transfuse
 transfused
+transfuses
 transfusing
 transfusion
 transfusional
@@ -137807,6 +137839,7 @@ unsightlier
 unsightliest
 unsightliness
 unsightlinesses
+unsightly
 unsights
 unsigned
 unsilent
@@ -139575,6 +139608,7 @@ vedettes
 veejay
 veejays
 veena
+veep
 veepee
 veepees
 veeps
@@ -144884,6 +144918,7 @@ yellowlegs
 yellowly
 yellowtail
 yellowtails
+yellowthroat
 yellowthroats
 yellowware
 yellowwood
