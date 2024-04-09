@@ -1016,6 +1016,7 @@ adaptiveness
 adaptivenesses
 adaptivities
 adaptivity
+adapts
 adaxial
 add
 addable
@@ -2886,6 +2887,7 @@ allergenicity
 allergens
 allergies
 allergin
+allergins
 allergist
 allergists
 allergy
@@ -13664,6 +13666,7 @@ boing
 boings
 boink
 boinked
+boinks
 boiserie
 boiseries
 boisterously
@@ -17816,6 +17819,7 @@ capaciousness
 capaciousnesses
 capacitance
 capacitances
+capacitate
 capacitated
 capacitates
 capacitating
@@ -20977,6 +20981,7 @@ chiseling
 chiselled
 chiseller
 chiselling
+chisels
 chit
 chital
 chitchat
@@ -21405,6 +21410,7 @@ chromospheres
 chromy
 chromyl
 chromyls
+chronaxies
 chronicities
 chronicity
 chronicle
@@ -21895,6 +21901,7 @@ cist
 cisted
 cistern
 cisternae
+cisternal
 cisterns
 cistron
 cistronic
@@ -24340,6 +24347,7 @@ commit
 commitment
 commitments
 commits
+committable
 committal
 committals
 committed
@@ -24535,6 +24543,7 @@ comped
 compeer
 compeered
 compeering
+compeers
 compel
 compellable
 compellation
@@ -26275,6 +26284,7 @@ conversazioni
 converse
 converses
 conversing
+conversion
 conversional
 conversions
 converso
@@ -27758,6 +27768,7 @@ covalences
 covalencies
 covalency
 covalent
+covalently
 covariance
 covariances
 covariant
@@ -47905,6 +47916,7 @@ fluorometers
 fluorometries
 fluorometry
 fluoroscope
+fluoroscoped
 fluoroscopes
 fluoroscopic
 fluoroscopies
@@ -61852,6 +61864,7 @@ inadmissible
 inadmissibly
 inadvertences
 inadvertencies
+inadvertent
 inadvertently
 inadvisability
 inadvisable
@@ -62417,6 +62430,7 @@ indecorous
 indecorously
 indecorousness
 indecorum
+indecorums
 indeed
 indefatigable
 indefeasibility
@@ -67772,6 +67786,7 @@ kickier
 kickiest
 kicking
 kickoff
+kickoffs
 kicks
 kickshaws
 kickstand
@@ -71412,6 +71427,7 @@ lithification
 lithifications
 lithified
 lithifies
+lithifying
 lithiums
 litho
 lithoed
@@ -73434,6 +73450,7 @@ majordomos
 majored
 majorettes
 majoring
+majoritarian
 majoritarianism
 majoritarians
 majority
@@ -77554,6 +77571,7 @@ miscellaneously
 miscellanies
 miscellanist
 miscellanists
+miscellany
 mischance
 mischances
 mischannel
@@ -80817,6 +80835,7 @@ myasthenia
 myasthenias
 myasthenic
 myasthenics
+myc
 mycele
 myceles
 mycelia
@@ -91944,6 +91963,7 @@ pedophilic
 pedro
 pedros
 peds
+peduncle
 peduncled
 peduncles
 peduncular
@@ -96598,6 +96618,7 @@ pommels
 pommies
 pommy
 pomo
+pomological
 pomologist
 pomologists
 pomology
@@ -101404,6 +101425,7 @@ pur
 purana
 puranas
 puranic
+purblind
 purblindly
 purblindness
 purblindnesses
@@ -102505,6 +102527,7 @@ quitrents
 quits
 quittance
 quittances
+quitter
 quitters
 quitting
 quittor
@@ -104724,6 +104747,7 @@ recrowning
 recrudesce
 recrudesced
 recrudescence
+recrudescences
 recrudesces
 recrudescing
 recruit
@@ -107021,6 +107045,7 @@ reobtaining
 reobtains
 reoccupation
 reoccupations
+reoccupied
 reoccupies
 reoccupy
 reoccupying
@@ -109124,6 +109149,7 @@ revulsive
 revved
 revving
 rewake
+rewaked
 rewaken
 rewakened
 rewakening
@@ -109967,6 +109993,7 @@ roamed
 roamer
 roamers
 roaming
+roams
 roan
 roans
 roared
@@ -116042,6 +116069,7 @@ shirtier
 shirtiest
 shirtings
 shirtmaker
+shirtmakers
 shirts
 shirtsleeve
 shirtsleeves
@@ -121212,6 +121240,7 @@ sporophylls
 sporophytes
 sporophytic
 sporopollenin
+sporopollenins
 sporotrichosis
 sporozoa
 sporozoal
@@ -131411,6 +131440,7 @@ topmast
 topmasts
 topminnows
 topmost
+topnotch
 topnotcher
 topo
 topocentric
@@ -135865,6 +135895,7 @@ undergirded
 undergirding
 undergirt
 underglaze
+underglazes
 undergod
 undergods
 undergoer
@@ -137456,6 +137487,7 @@ unretire
 unretired
 unretires
 unretouched
+unrevealed
 unreviewable
 unreviewed
 unrevised
@@ -139494,6 +139526,7 @@ veil
 veiled
 veiledly
 veiler
+veilers
 veiling
 veilings
 veillike
@@ -141400,6 +141433,7 @@ wakefulness
 wakeless
 waken
 wakened
+wakener
 wakeners
 wakening
 wakens
@@ -142193,6 +142227,7 @@ webbings
 webby
 webcam
 webcast
+webcasted
 webcaster
 webcasters
 webcasting
