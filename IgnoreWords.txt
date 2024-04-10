@@ -874,6 +874,7 @@ actabilities
 actability
 actable
 actinal
+actinally
 acting
 actings
 actinia
@@ -2804,6 +2805,7 @@ alkaline
 alkalinities
 alkalinity
 alkalinization
+alkalinizations
 alkalinize
 alkalinized
 alkalinizes
@@ -3094,6 +3096,7 @@ almner
 almners
 almond
 almondy
+almoner
 almoners
 almonries
 almonry
@@ -3597,6 +3600,7 @@ ammoniacal
 ammoniacs
 ammoniate
 ammoniated
+ammoniates
 ammoniating
 ammoniation
 ammoniations
@@ -5142,6 +5146,7 @@ antiplague
 antiplaque
 antipleasure
 antipoaching
+antipodal
 antipodals
 antipode
 antipodean
@@ -6831,6 +6836,7 @@ arvos
 aryl
 arytenoid
 arytenoids
+arythmia
 as
 asafetida
 asafetidas
@@ -15322,6 +15328,7 @@ brims
 brimstone
 brimstones
 brimstony
+brin
 brinded
 brindle
 brine
@@ -19556,6 +19563,7 @@ celloidins
 cellophanes
 cellos
 cellphone
+cellphones
 cells
 cellularities
 cellularity
@@ -20564,6 +20572,7 @@ checkless
 checklist
 checklisted
 checklisting
+checklists
 checkmarks
 checkmate
 checkmated
@@ -40953,6 +40962,7 @@ encyclopaedic
 encyclopedia
 encyclopedias
 encyclopedic
+encyclopedists
 encyst
 encysted
 encysting
@@ -41039,6 +41049,7 @@ endoderm
 endodermal
 endodermises
 endodontic
+endodontically
 endodontics
 endodontist
 endodontists
@@ -51182,6 +51193,7 @@ gamekeepers
 gamelan
 gamelans
 gamelike
+gamely
 gameness
 gamenesses
 gamer
@@ -54160,6 +54172,7 @@ grants
 grantsman
 grantsmanship
 grantsmanships
+grantsmen
 granular
 granularities
 granularity
@@ -61945,6 +61958,7 @@ impermanently
 impermeability
 impermeable
 impermissible
+impermissibly
 impersonal
 impersonalities
 impersonalize
@@ -65589,6 +65603,7 @@ inveigher
 inveighing
 inveigle
 inveiglement
+inveiglements
 inveigler
 inveiglers
 inveigles
@@ -67618,6 +67633,7 @@ justify
 justifying
 justing
 justle
+justled
 justles
 justness
 justnesses
@@ -73457,6 +73473,7 @@ lyrately
 lyre
 lyrebird
 lyrebirds
+lyres
 lyric
 lyrical
 lyrically
@@ -74236,6 +74253,7 @@ maltreaters
 maltreating
 maltreatment
 maltreatments
+maltreats
 malts
 maltsters
 malty
@@ -75837,6 +75855,7 @@ megalomanic
 megalopic
 megalopolis
 megalopolitan
+megalopolitans
 megalops
 megalopses
 megaparsec
@@ -77183,6 +77202,7 @@ microporosity
 microprism
 microprobes
 microprocessor
+microprocessors
 microprogram
 microprograms
 microprojection
@@ -79216,6 +79236,7 @@ modernizations
 modernize
 modernized
 modernizers
+modernizes
 modernizing
 modernly
 modernness
@@ -81005,6 +81026,7 @@ multisystem
 multitalented
 multitask
 multitasked
+multitasking
 multitaskings
 multitasks
 multiterminal
@@ -85402,6 +85424,7 @@ oak
 oaken
 oakier
 oakiest
+oakmoss
 oakmosses
 oakum
 oaky
@@ -88227,6 +88250,7 @@ outpoured
 outpourer
 outpourers
 outpouring
+outpourings
 outpours
 outpower
 outpowered
@@ -109322,6 +109346,7 @@ retargeted
 retargeting
 retaste
 retasting
+retaught
 retax
 retaxed
 retaxes
@@ -122804,6 +122829,7 @@ stairstepped
 stairstepping
 stairsteps
 stairway
+stairwell
 stairwells
 staithe
 stake
@@ -130838,6 +130864,7 @@ thieves
 thievish
 thievishnesses
 thigh
+thighbone
 thighbones
 thighed
 thigmotaxes
@@ -131940,6 +131967,7 @@ titularly
 titulary
 tivy
 tizzies
+tmesis
 to
 toad
 toadeater
@@ -131989,6 +132017,7 @@ tochered
 tochering
 tochers
 tocology
+tocopherol
 tocopherols
 tocsin
 tocsins
@@ -134420,6 +134449,7 @@ trolleys
 trollied
 trollies
 trolling
+trollings
 trollop
 trollops
 trollopy
@@ -134641,6 +134671,7 @@ trull
 trulls
 truly
 trumeau
+trumeaux
 trump
 trumped
 trumperies
@@ -136085,9 +136116,11 @@ unarguably
 unargued
 unarm
 unarming
+unarmored
 unarms
 unaroused
 unarrayed
+unarrogant
 unartful
 unarticulated
 unashamed
@@ -137438,6 +137471,7 @@ unfix
 unfixes
 unfixt
 unflagging
+unflaggingly
 unflamboyant
 unflappability
 unflappable
@@ -138872,6 +138906,7 @@ unstoppering
 unstoppers
 unstopping
 unstops
+unstrained
 unstrap
 unstrapped
 unstraps
