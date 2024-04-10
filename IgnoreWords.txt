@@ -160,6 +160,7 @@ abstain
 abstained
 abstainers
 abstaining
+abstains
 abstemiously
 abstemiousness
 abstentions
@@ -965,6 +966,7 @@ acuminated
 acuminates
 acuminating
 acuminous
+acupressure
 acupressures
 acupuncture
 acupunctures
@@ -3134,6 +3136,7 @@ alp
 alpaca
 alpacas
 alpenglow
+alpenglows
 alpenhorn
 alpenhorns
 alpenstock
@@ -3753,6 +3756,7 @@ amplitudes
 amply
 amps
 ampul
+ampule
 ampules
 ampullae
 ampullar
@@ -4858,6 +4862,7 @@ anticly
 anticoagulants
 anticodon
 anticold
+anticolonial
 anticolonialism
 anticolonialist
 anticommercial
@@ -7673,6 +7678,7 @@ attracts
 attributable
 attributed
 attributes
+attributing
 attribution
 attributional
 attributions
@@ -10961,6 +10967,7 @@ bell
 bellbird
 bellbirds
 bellboys
+belle
 belleek
 belles
 belletrist
@@ -11145,6 +11152,7 @@ benefice
 beneficed
 beneficence
 beneficences
+beneficent
 beneficently
 benefices
 beneficial
@@ -13249,6 +13257,7 @@ blooping
 bloops
 blossom
 blossoming
+blossoms
 blossomy
 blot
 blotch
@@ -17931,6 +17940,7 @@ capelet
 capelin
 capelins
 capellini
+caper
 capercaillie
 capercaillies
 capercailzie
@@ -31180,6 +31190,7 @@ debonairness
 debonairnesses
 debone
 deboner
+deboners
 debones
 deboning
 debouch
@@ -32559,6 +32570,7 @@ demister
 demisters
 demitasse
 demitasses
+demits
 demitted
 demitting
 demiurges
@@ -33051,6 +33063,7 @@ deport
 deportation
 deportations
 deported
+deportee
 deporter
 deporters
 deporting
@@ -40930,6 +40943,7 @@ endocytosis
 endocytotic
 endoderm
 endodermal
+endodermises
 endodontic
 endodontics
 endodontist
@@ -42398,6 +42412,7 @@ eremitish
 eremitisms
 eremuri
 eremurus
+eremuruses
 erepsin
 erethic
 erethism
@@ -45554,6 +45569,7 @@ fatlings
 fatly
 fatness
 fatnesses
+fats
 fatshedera
 fatshederas
 fatso
@@ -49190,6 +49206,7 @@ fortissimo
 fortissimos
 fortitude
 fortnight
+fortnightlies
 fortnightly
 fortnights
 fortressed
@@ -50101,6 +50118,7 @@ fruiterer
 fruiterers
 fruitful
 fruitfuller
+fruitfulness
 fruitfulnesses
 fruitier
 fruitiest
@@ -58593,6 +58611,7 @@ hokypoky
 holandric
 holard
 holards
+hold
 holdable
 holdall
 holdalls
@@ -58733,6 +58752,7 @@ homebreds
 homebrew
 homebrews
 homebuilt
+homecomer
 homecomers
 homecomings
 homed
@@ -75619,6 +75639,7 @@ megahertzes
 megahit
 megahits
 megakaryocytes
+megakaryocytic
 megalithic
 megaloblastic
 megaloblasts
@@ -79074,6 +79095,7 @@ moidore
 moiety
 moil
 moiled
+moiler
 moilers
 moiling
 moilingly
@@ -82532,6 +82554,7 @@ neurofibrils
 neurofibromas
 neurofibromata
 neurogenic
+neurogenically
 neuroglial
 neurohormonal
 neurohormones
@@ -93975,6 +93998,7 @@ philhellenisms
 philhellenist
 philhellenists
 philibeg
+philippics
 philistia
 philistias
 philistine
@@ -97735,6 +97759,7 @@ postulational
 postulations
 postulator
 postulators
+postural
 posture
 posturer
 posturers
@@ -104406,6 +104431,7 @@ reargue
 reargued
 reargues
 rearguing
+reargument
 rearing
 rearm
 rearmament
@@ -107428,6 +107454,7 @@ rencontres
 rencounter
 rencountering
 rencounters
+rend
 rended
 render
 renderable
@@ -110668,6 +110695,7 @@ rogatory
 roger
 rogered
 rogering
+rogers
 rogue
 rogueing
 rogueries
@@ -117838,6 +117866,7 @@ sinuslike
 sinusoidal
 sinusoidally
 sip
+sipe
 sipes
 siphonage
 siphonages
@@ -131828,6 +131857,7 @@ tolyls
 tom
 tomahawk
 tomahawked
+tomahawking
 tomahawks
 tomalley
 tomalleys
@@ -132731,6 +132761,7 @@ trainload
 trainloads
 trainman
 trainmen
+trainway
 trainways
 traipsed
 traipsing
@@ -133601,6 +133632,7 @@ trickiness
 trickinesses
 tricking
 trickish
+trickishness
 trickishnesses
 trickle
 trickles
@@ -140671,6 +140703,7 @@ verve
 verves
 vervet
 vervets
+very
 vesicae
 vesicant
 vesicants
@@ -145217,6 +145250,7 @@ xiphoids
 xu
 xylan
 xylems
+xylene
 xylenes
 xylidin
 xylidine
@@ -145382,6 +145416,7 @@ yaups
 yautia
 yawed
 yawey
+yawing
 yawl
 yawled
 yawling
