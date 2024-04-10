@@ -3864,6 +3864,7 @@ anaemias
 anaemic
 anaerobe
 anaerobes
+anaerobia
 anaerobic
 anaerobically
 anaerobioses
@@ -10391,6 +10392,7 @@ becoward
 becowarding
 becowards
 becrawled
+becrawling
 becrawls
 becrime
 becrimed
@@ -10789,6 +10791,7 @@ beguiler
 beguilers
 beguiles
 beguiling
+begulf
 begulfing
 begulfs
 begum
@@ -22885,6 +22888,7 @@ clumbers
 clump
 clumped
 clumpier
+clumpish
 clumplike
 clumps
 clumpy
@@ -23272,6 +23276,7 @@ cockup
 cockups
 cocky
 cocoa
+cocoanut
 cocoanuts
 cocobola
 cocobolas
@@ -25021,6 +25026,7 @@ conceptus
 conceptuses
 concern
 concerned
+concerning
 concernment
 concernments
 concert
@@ -26050,6 +26056,7 @@ contemned
 contemner
 contemning
 contemnor
+contemnors
 contemns
 contemplated
 contemplates
@@ -40529,6 +40536,7 @@ emptings
 emptins
 empty
 empurple
+empurpled
 empurples
 empurpling
 empyemas
@@ -44973,6 +44981,7 @@ fairlead
 fairleader
 fairleaders
 fairleads
+fairly
 fairness
 fairnesses
 fairs
@@ -47877,6 +47886,7 @@ flossers
 flossie
 flossier
 flossies
+flossiest
 flossily
 flossing
 flossy
@@ -55548,6 +55558,7 @@ haffit
 haffits
 hafiz
 hafizes
+hafnium
 haft
 haftara
 haftarah
@@ -55945,6 +55956,7 @@ hampers
 hams
 hamster
 hamsters
+hamstringing
 hamstrings
 hamular
 hamulate
@@ -64740,6 +64752,7 @@ interoceptors
 interoffice
 interoperable
 interorbital
+interparochial
 interparoxysmal
 interparticle
 interparty
@@ -66303,6 +66316,7 @@ jailbird
 jailbirds
 jailbreak
 jailbreaks
+jailer
 jailers
 jailhouse
 jailhouses
@@ -66883,6 +66897,7 @@ joggling
 jogs
 johannes
 johnboat
+johnboats
 johnnie
 johnny
 johnnycake
@@ -68352,6 +68367,7 @@ kitten
 kittened
 kittenish
 kittenishly
+kittenishness
 kittenishnesses
 kittens
 kitties
@@ -69145,6 +69161,7 @@ laith
 laithly
 laities
 lake
+lakebed
 lakebeds
 laked
 lakefront
@@ -69738,6 +69755,7 @@ lathers
 lathery
 lathes
 lathier
+lathiest
 lathing
 lathings
 lathis
@@ -78209,6 +78227,7 @@ misknows
 mislabel
 mislabeled
 mislabeling
+mislabelled
 mislabelling
 mislabels
 mislabor
@@ -78290,6 +78309,7 @@ misnomers
 misnumber
 misnumbered
 misnumbering
+misnumbers
 misogamic
 misogamies
 misogamist
@@ -79495,6 +79515,7 @@ monostome
 monosyllabic
 monosyllabicity
 monosyllable
+monosyllables
 monotheism
 monotheisms
 monotheistical
@@ -81476,6 +81497,7 @@ nametags
 nan
 nana
 nanas
+nances
 nancies
 nancified
 nandin
@@ -82884,6 +82906,7 @@ niobite
 niobium
 niobous
 nipa
+nipas
 nipped
 nippier
 nippily
@@ -83372,6 +83395,7 @@ noncolors
 noncom
 noncombat
 noncombatant
+noncombatants
 noncombustible
 noncommercial
 noncommitment
@@ -93950,6 +93974,7 @@ phonetics
 phoney
 phoneyed
 phoneying
+phoneys
 phonic
 phonically
 phonics
@@ -96815,6 +96840,7 @@ polyolefins
 polyols
 polyoma
 polyomas
+polyonymies
 polyonymous
 polyonymy
 polyp
@@ -97522,6 +97548,7 @@ postnatal
 postnatally
 postneonatal
 postnuptial
+postoperative
 postoperatively
 postops
 postoral
@@ -98114,6 +98141,7 @@ prebook
 prebooked
 prebooking
 prebooks
+prebudget
 prebudgets
 prebuilding
 prebuilds
@@ -112284,6 +112312,7 @@ sanguinarily
 sanguinary
 sanguine
 sanguinely
+sanguinenesses
 sanguineous
 sanguines
 sanguinity
@@ -115114,6 +115143,7 @@ sensitized
 sensitizer
 sensitizers
 sensitizes
+sensitizing
 sensitometer
 sensitometers
 sensitometric
@@ -121828,6 +121858,7 @@ springtime
 springtimes
 springwater
 springwaters
+springwood
 springwoods
 springy
 sprinkle
@@ -122318,6 +122349,7 @@ stakeholders
 stakeout
 stakeouts
 stakes
+staking
 stalactite
 stalactites
 stalag
@@ -131568,6 +131600,7 @@ tokologies
 tokology
 tokomak
 tokomaks
+tokonoma
 tokonomas
 tola
 tolan
@@ -138451,6 +138484,7 @@ untiring
 untiringly
 untitled
 unto
+untold
 untouchables
 untouched
 untoward
@@ -140046,6 +140080,7 @@ vellicated
 vellicates
 vellum
 vellums
+velocimeter
 velocipede
 velocipedes
 velociraptor
