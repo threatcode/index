@@ -1828,6 +1828,7 @@ affrayers
 affraying
 affrays
 affricate
+affricated
 affricates
 affricating
 affricative
@@ -7419,6 +7420,7 @@ ataraxias
 ataraxic
 ataraxics
 ataraxies
+ataraxy
 atavic
 atavism
 atavisms
@@ -9444,6 +9446,7 @@ banned
 banner
 bannered
 banneret
+bannerets
 bannerette
 bannerettes
 bannering
@@ -18744,6 +18747,7 @@ cartelization
 cartelizations
 cartelize
 cartelized
+cartelizes
 cartelizing
 cartels
 carter
@@ -20773,6 +20777,7 @@ cherished
 cherisher
 cherishers
 cherishes
+cherishing
 chernozem
 chernozemic
 chernozems
@@ -29837,6 +29842,7 @@ curlews
 curlicue
 curlicued
 curlicuing
+curlier
 curliest
 curlily
 curliness
@@ -31134,6 +31140,7 @@ deadlocking
 deadlocks
 deadly
 deadman
+deadness
 deadpanned
 deadpanner
 deadpanners
@@ -37128,6 +37135,7 @@ dogsledded
 dogsledder
 dogsledders
 dogsledding
+dogsleds
 dogteeth
 dogtrot
 dogtrots
@@ -45037,6 +45045,7 @@ facilitatory
 facilities
 facility
 facing
+facings
 facsimile
 facsimileing
 facsimiles
@@ -47286,6 +47295,7 @@ fissilities
 fission
 fissionability
 fissionable
+fissionables
 fissioning
 fissiparousness
 fissiped
@@ -47484,6 +47494,7 @@ flamboyants
 flame
 flamed
 flameless
+flamelike
 flamenco
 flamencos
 flamens
@@ -48903,6 +48914,7 @@ forearming
 forearms
 forebay
 forebays
+forebears
 foreboder
 foreboders
 forebodies
@@ -49694,6 +49706,7 @@ frantic
 frantically
 franticly
 franticness
+franticnesses
 frappe
 frapped
 frapping
@@ -51056,6 +51069,7 @@ gallanting
 gallantly
 gallantries
 gallantry
+gallants
 gallate
 gallbladder
 gallbladders
@@ -61563,6 +61577,7 @@ imbitters
 imblaze
 imblazed
 imblazes
+imblazing
 imbodied
 imbodies
 imbody
@@ -71599,6 +71614,7 @@ limitlessnesses
 limits
 limmer
 limmers
+limn
 limned
 limner
 limnetic
@@ -82304,6 +82320,7 @@ nebulous
 nebulously
 nebulousness
 nebulousnesses
+necessaries
 necessarily
 necessary
 necessitarian
@@ -93297,6 +93314,7 @@ percoids
 percolated
 percolates
 percolating
+percolations
 percolator
 percolators
 percussed
@@ -94635,6 +94653,7 @@ photometrically
 photometries
 photometry
 photomicrograph
+photomontage
 photomontages
 photomosaic
 photomosaics
@@ -98246,6 +98265,7 @@ poulards
 poult
 poulter
 poulterer
+poulterers
 poulters
 poultice
 poulticed
@@ -104801,6 +104821,7 @@ rearticulated
 rearticulates
 rearticulating
 rearward
+rearwards
 reascend
 reascending
 reascends
@@ -112816,6 +112837,7 @@ sandwiches
 sandwiching
 sandwort
 sandworts
+sandy
 sane
 saned
 sanely
@@ -113772,6 +113794,7 @@ sceptring
 schadenfreude
 schadenfreudes
 schappe
+schappes
 schatchen
 schatchens
 schav
@@ -113894,6 +113917,7 @@ schmoosing
 schmooze
 schmoozed
 schmoozer
+schmoozers
 schmoozier
 schmooziest
 schmoozing
@@ -122219,6 +122243,7 @@ spoonfuls
 spoonier
 spoonies
 spooniest
+spoonily
 spooning
 spoons
 spoonsful
@@ -131184,6 +131209,7 @@ thraves
 thraw
 thrawart
 thrawed
+thrawing
 thrawn
 thraws
 thread
@@ -133003,6 +133029,7 @@ toxoplasmosis
 toy
 toyed
 toyer
+toyers
 toyish
 toyless
 toylike
@@ -133665,6 +133692,7 @@ traumas
 traumata
 traumatic
 traumatically
+traumatise
 traumatised
 traumatises
 traumatising
@@ -134676,6 +134704,7 @@ trowel
 troweled
 troweler
 trowelers
+troweling
 trowelled
 troweller
 trowellers
@@ -135698,6 +135727,7 @@ typifies
 typifying
 typing
 typist
+typists
 typo
 typograph
 typographed
@@ -136764,6 +136794,7 @@ uncontrived
 uncontrollable
 uncontrollably
 uncontrolled
+uncontroversial
 unconventional
 unconverted
 unconvinced
@@ -140893,6 +140924,7 @@ ventless
 ventral
 ventrally
 ventrals
+ventricle
 ventricles
 ventricose
 ventricular
@@ -143119,6 +143151,7 @@ waterier
 wateriest
 waterily
 wateriness
+waterinesses
 watering
 waterings
 waterishness
@@ -143636,6 +143669,7 @@ wellspring
 wellsprings
 welly
 welsh
+welshed
 welshers
 welshes
 welshing
@@ -145044,6 +145078,7 @@ womanliness
 womanlinesses
 womanly
 womanness
+womannesses
 womanpowers
 womb
 wombats
