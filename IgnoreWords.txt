@@ -1344,6 +1344,7 @@ adorner
 adorners
 adorning
 adornment
+adornments
 adorns
 ados
 adown
@@ -4449,6 +4450,7 @@ anlages
 anlas
 anlases
 anna
+annal
 annalistic
 annalists
 annals
@@ -5239,6 +5241,7 @@ antiseparatist
 antiseparatists
 antisepses
 antisepsis
+antiseptic
 antiseptically
 antiseptics
 antiserum
@@ -5612,6 +5615,7 @@ apologal
 apologetic
 apologetically
 apologetics
+apologia
 apologiae
 apologies
 apologise
@@ -6925,6 +6929,7 @@ ashfalls
 ashier
 ashiest
 ashiness
+ashinesses
 ashing
 ashlar
 ashlared
@@ -12637,6 +12642,7 @@ bitchinesses
 bitching
 bite
 biteable
+biters
 bites
 bitewing
 bitingly
@@ -12874,6 +12880,7 @@ blanketing
 blanketlike
 blankets
 blanking
+blankly
 blankness
 blanknesses
 blanks
@@ -13949,6 +13956,7 @@ boneyards
 boneyer
 bonfires
 bonged
+bonging
 bongo
 bongoes
 bongoist
@@ -15397,6 +15405,7 @@ broadbean
 broadbeans
 broadbill
 broadbills
+broadcasted
 broadcaster
 broadcasters
 broadcasting
@@ -18742,6 +18751,7 @@ carved
 carvel
 carvels
 carven
+carver
 carvers
 carves
 carving
@@ -18968,6 +18978,7 @@ cataleptics
 catalexes
 catalexis
 catalo
+catalog
 cataloger
 catalogers
 catalogic
@@ -25271,6 +25282,7 @@ condoes
 condolatory
 condole
 condolence
+condolences
 condolent
 condoler
 condoles
@@ -27761,6 +27773,7 @@ countersink
 countersinking
 countersinks
 countersnipers
+counterspell
 counterspies
 counterspy
 counterstain
@@ -43035,6 +43048,7 @@ ethnomusicology
 ethnonym
 ethnonyms
 ethnoscience
+ethnosciences
 ethnoses
 ethogram
 ethograms
@@ -48509,6 +48523,7 @@ folktales
 folkway
 folkways
 folky
+folles
 follicle
 follicles
 follicular
@@ -49258,6 +49273,7 @@ fortuity
 fortunate
 fortunately
 fortunateness
+fortune
 fortuned
 fortunes
 fortuning
@@ -51355,6 +51371,7 @@ garpikes
 garred
 garret
 garreted
+garrets
 garring
 garrison
 garrisoned
@@ -57005,6 +57022,7 @@ hearings
 hearken
 hearkened
 hearkener
+hearkeners
 hearkening
 hearkens
 hearsay
@@ -64331,6 +64349,7 @@ insulate
 insulates
 insulating
 insulation
+insulations
 insulator
 insulin
 insulins
@@ -68333,6 +68352,7 @@ kinder
 kindergarten
 kindergartener
 kindergarteners
+kindergartens
 kindergartner
 kindest
 kindhearted
@@ -75554,6 +75574,7 @@ medians
 mediants
 mediastina
 mediastinal
+mediastinum
 mediate
 mediated
 mediates
@@ -75838,6 +75859,7 @@ meliorates
 meliorating
 melioration
 meliorations
+meliorative
 meliorator
 meliorators
 meliorism
@@ -80187,6 +80209,7 @@ motilities
 motility
 motion
 motional
+motioner
 motioning
 motionless
 motionlessly
@@ -84222,6 +84245,7 @@ nonperishables
 nonpermissive
 nonpersistent
 nonpersonal
+nonpersons
 nonphilosopher
 nonphilosophers
 nonphonemic
@@ -91607,6 +91631,7 @@ partially
 partials
 partibilities
 partibility
+partible
 participant
 participants
 participate
@@ -91659,6 +91684,7 @@ partitive
 partitively
 partizan
 partizans
+partlet
 partlets
 partner
 partnered
@@ -105084,6 +105110,7 @@ recolonize
 recolonized
 recolonizes
 recolonizing
+recolor
 recolored
 recoloring
 recolors
@@ -109118,6 +109145,7 @@ retaliation
 retaliations
 retaliative
 retaliatory
+retallied
 retallies
 retallying
 retape
@@ -121457,6 +121485,7 @@ spiculae
 spicular
 spiculate
 spiculation
+spiculations
 spicules
 spiculum
 spicy
@@ -129225,6 +129254,7 @@ teeing
 teel
 teels
 teem
+teemed
 teemer
 teemers
 teeming
@@ -130363,6 +130393,7 @@ thematically
 theme
 themed
 theming
+themselves
 then
 thenage
 thenages
@@ -131010,6 +131041,7 @@ throwing
 thrown
 throws
 throwster
+throwsters
 thrummed
 thrummer
 thrummers
@@ -132760,6 +132792,7 @@ tracts
 trad
 tradable
 trade
+tradeable
 tradecraft
 tradecrafts
 trademark
@@ -143361,6 +143394,7 @@ wetters
 wettest
 wetting
 wettings
+wetware
 wetwares
 wha
 whack
@@ -143380,6 +143414,7 @@ whalebone
 whalebones
 whaled
 whalelike
+whaleman
 whalemen
 whaler
 whalers
