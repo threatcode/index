@@ -1,0 +1,9 @@
+TRAINING dataset,http://biomine.cs.vcu.edu/servers/CyPred/datasets/TRAINING.txt
+noncyclic_class_groups.txt,https://people.kth.se/~kurlberg/class_group_data/noncyclic_class_groups.txt
+https://mathweb.ucsd.edu/~revans/math100a2011/sol3.txt,https://mathweb.ucsd.edu/~revans/math100a2011/sol3.txt
+TEST dataset,http://biomine.cs.vcu.edu/servers/CyPred/datasets/TEST.txt
+Cyclic string alignment,https://www.classes.cs.uchicago.edu/archive/2006/winter/27200-1/cyclic.txt
+magmafile1.txt - Purdue Math,https://www.math.purdue.edu/~yeungs/papers/magmafile1.txt
+discriminants_of_noncyclic_grou...,https://people.kth.se/~kurlberg/class_group_data/discriminants_of_noncyclic_groups.txt
+https://is.muni.cz/el/sci/podzim2017/C7861/um/Less...,https://is.muni.cz/el/sci/podzim2017/C7861/um/Lesson_5.txt%3Fkod%3DC7861%3Bpredmet%3D1010600%3Blang%3Dcs%3Bstahnout%3D1%3Bdk%3DrEfr0Fnn
+https://deepblue.lib.umich.edu/bitstream/handle/20...,https://deepblue.lib.umich.edu/bitstream/handle/2027.42/6910/bbl3616.0001.001.txt%3Fsequence%3D3%26isAllowed%3Dy

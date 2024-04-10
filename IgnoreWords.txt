@@ -1165,6 +1165,7 @@ adjectives
 adjoin
 adjoined
 adjoining
+adjoins
 adjoint
 adjoints
 adjourn
@@ -5659,6 +5660,7 @@ aport
 apos
 aposematic
 aposiopeses
+aposiopesis
 aposporic
 apospories
 aposporous
@@ -11553,6 +11555,7 @@ betime
 betimes
 betise
 betises
+betoken
 betokening
 betokens
 beton
@@ -25111,6 +25114,7 @@ concessioner
 concessions
 concessively
 conch
+conchas
 conches
 conchie
 conchoid
@@ -25556,6 +25560,7 @@ congius
 conglobate
 conglobated
 conglobates
+conglobating
 conglobation
 conglobations
 conglobe
@@ -28588,6 +28593,7 @@ creosoting
 crepe
 creped
 crepes
+crepey
 crepier
 crepiest
 creping
@@ -36881,6 +36887,7 @@ doctrines
 docudrama
 document
 documentable
+documental
 documentalists
 documentarian
 documentarians
@@ -44113,6 +44120,7 @@ expansionary
 expansionisms
 expansionist
 expansionists
+expansively
 expansiveness
 expansivenesses
 expansivities
@@ -45495,6 +45503,7 @@ fascioliasis
 fascism
 fascisms
 fascistic
+fascistically
 fascitises
 fash
 fashed
@@ -49026,6 +49035,7 @@ forfended
 forfending
 forfends
 forficate
+forgat
 forgather
 forgathered
 forgathering
@@ -51894,6 +51904,7 @@ gennaker
 genoa
 genoas
 genocidal
+genocides
 genogram
 genograms
 genoises
@@ -53067,6 +53078,7 @@ glowworm
 glowworms
 gloxinias
 glozed
+glozes
 glozing
 glucagon
 glucagons
@@ -53875,6 +53887,7 @@ gradual
 gradualism
 gradualisms
 gradualists
+gradually
 gradualness
 gradualnesses
 graduals
@@ -55465,6 +55478,7 @@ gyplures
 gypped
 gypper
 gypping
+gypseian
 gypseous
 gypsied
 gypsies
@@ -59032,6 +59046,7 @@ hondles
 hondling
 honed
 honer
+honers
 hones
 honest
 honestest
@@ -64003,6 +64018,7 @@ inscrolled
 inscrolls
 inscrutable
 inscrutableness
+inscrutably
 insculp
 insculping
 insculps
@@ -64653,6 +64669,7 @@ interfluves
 interfluvial
 interfold
 interfolded
+interfolding
 interfolds
 interfraternity
 interfused
@@ -68655,6 +68672,7 @@ knobbed
 knobbiest
 knobblier
 knobbliest
+knobbly
 knobby
 knobkerries
 knoblike
@@ -83680,6 +83698,7 @@ noncurrent
 noncustodial
 noncustomer
 noncustomers
+noncyclic
 nondairy
 nondancer
 nondancers
@@ -85493,6 +85512,7 @@ observe
 observer
 observers
 observes
+observing
 observingly
 obsess
 obsessed
@@ -90223,6 +90243,7 @@ pacifies
 pacifism
 pacifisms
 pacifist
+pacifistically
 pacifists
 pacify
 pacifying
@@ -93999,6 +94020,7 @@ phenylalanine
 phenylalanines
 phenylene
 phenylenes
+phenylephrines
 phenylic
 phenyls
 phenylthiourea
@@ -96328,6 +96350,7 @@ plumed
 plumelet
 plumelets
 plumeria
+plumerias
 plumes
 plumier
 plumiest
@@ -104696,6 +104719,7 @@ rebottled
 rebottling
 rebound
 rebounded
+rebounder
 rebounding
 rebounds
 rebranch
@@ -104763,6 +104787,7 @@ recallable
 recalled
 recaller
 recalling
+recalls
 recamier
 recamiers
 recanalization
@@ -104798,6 +104823,7 @@ recaptures
 recapturing
 recarpet
 recarpeted
+recarpets
 recarried
 recarries
 recarry
@@ -106386,6 +106412,7 @@ regaling
 regalities
 regality
 regalness
+regalnesses
 regard
 regardant
 regarded
@@ -108886,6 +108913,7 @@ restfulnesses
 restiform
 restimulated
 restimulates
+restimulating
 restimulation
 restimulations
 resting
@@ -114245,6 +114273,7 @@ sculker
 sculkers
 sculking
 sculks
+scull
 sculled
 sculleries
 scullers
@@ -118469,6 +118498,7 @@ slabbery
 slabbing
 slabs
 slack
+slacked
 slacken
 slackeners
 slackening
@@ -122456,6 +122486,7 @@ stablemate
 stablemates
 stablemen
 stableness
+stablenesses
 stablers
 stables
 stablest
@@ -126857,6 +126888,7 @@ surimi
 surimis
 surjection
 surjections
+surjective
 surlier
 surliest
 surlily
@@ -133780,6 +133812,7 @@ trifoliate
 trifoliolate
 trifolium
 triform
+triformed
 trifurcate
 trifurcated
 trifurcates
@@ -136054,6 +136087,7 @@ unbuilt
 unbulky
 unbundle
 unbundled
+unbundles
 unburden
 unburdened
 unburdens
@@ -139144,6 +139178,7 @@ uppercut
 uppercuts
 uppermost
 upperpart
+upperparts
 uppers
 uppile
 uppiles
