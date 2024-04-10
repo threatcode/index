@@ -2015,6 +2015,7 @@ agglutinability
 agglutinable
 agglutinates
 agglutinating
+agglutination
 agglutinations
 agglutinative
 agglutinins
@@ -2324,6 +2325,7 @@ airflow
 airflows
 airframe
 airframes
+airfreight
 airfreighted
 airfreighting
 airfreights
@@ -3351,6 +3353,7 @@ amazonians
 amazonite
 amazonites
 amazons
+amazonstones
 ambage
 ambages
 ambagious
@@ -12801,6 +12804,7 @@ blackjacking
 blackjacks
 blackland
 blacklands
+blackleads
 blackleg
 blacklist
 blacklisted
@@ -16785,6 +16789,7 @@ bypass
 bypassed
 bypasses
 bypassing
+bypast
 bypath
 bypaths
 byplay
@@ -24677,6 +24682,7 @@ compact
 compacter
 compacters
 compactest
+compactible
 compacting
 compaction
 compactions
@@ -29616,6 +29622,7 @@ cumbers
 cumbersome
 cumbersomeness
 cumbia
+cumbrance
 cumbrances
 cumbrous
 cumbrously
@@ -29851,6 +29858,7 @@ currejong
 currejongs
 currency
 current
+currently
 currentnesses
 currents
 curricle
@@ -33897,6 +33905,7 @@ detractions
 detractively
 detractor
 detractors
+detrained
 detrainment
 detrainments
 detrains
@@ -38370,6 +38379,7 @@ drumly
 drummed
 drummers
 drumming
+drumrolls
 drums
 drumstick
 drumsticks
@@ -39032,6 +39042,7 @@ eagle
 eagled
 eagles
 eaglet
+eaglets
 eaglewood
 eaglewoods
 eagling
@@ -50617,6 +50628,7 @@ furcating
 furcations
 furcraeas
 furculum
+furfural
 furfurals
 furfurans
 furfures
@@ -52603,6 +52615,7 @@ gingerbreaded
 gingerbreads
 gingerbready
 gingered
+gingering
 gingerliness
 gingerlinesses
 gingerly
@@ -59640,6 +59653,7 @@ hostlers
 hostly
 hosts
 hot
+hotbed
 hotbeds
 hotblood
 hotbox
@@ -72504,6 +72518,7 @@ lognormal
 lognormality
 logo
 logogram
+logogrammatic
 logograms
 logograph
 logographs
@@ -73260,6 +73275,7 @@ lunks
 lunted
 lunting
 lunula
+lunular
 lunulate
 lunulated
 lunule
@@ -81885,6 +81901,7 @@ nanotubes
 nanowatts
 nans
 naoi
+naos
 nap
 napa
 napalm
@@ -84282,6 +84299,7 @@ nonmeasurable
 nonmechanical
 nonmechanistic
 nonmedical
+nonmeeting
 nonmember
 nonmembership
 nonmemberships
@@ -86113,6 +86131,7 @@ offender
 offenders
 offending
 offense
+offenseless
 offenses
 offensive
 offensively
@@ -93732,6 +93751,7 @@ person
 persona
 personable
 personableness
+personage
 personages
 personal
 personalise
@@ -100150,6 +100170,7 @@ prinkers
 prinks
 print
 printabilities
+printable
 printed
 printeries
 printery
@@ -108763,6 +108784,7 @@ reshape
 reshaped
 reshaper
 reshapers
+reshapes
 reshaping
 resharpen
 resharpened
@@ -113499,6 +113521,7 @@ scampered
 scamperer
 scamperers
 scampers
+scampi
 scamping
 scampish
 scamps
@@ -119189,6 +119212,7 @@ sloppy
 slops
 slopwork
 slopworks
+slosh
 sloshed
 sloshes
 sloshier
@@ -119591,6 +119615,7 @@ smuggler
 smuggles
 smuggling
 smugly
+smugness
 smugnesses
 smush
 smushed
@@ -121930,6 +121955,7 @@ spirula
 spirulae
 spirulas
 spirulina
+spirulinas
 spiry
 spit
 spital
@@ -124569,6 +124595,7 @@ stringing
 stringings
 stringless
 stringpiece
+stringpieces
 strings
 stringy
 stringybark
@@ -126383,6 +126410,7 @@ sunnahs
 sunnas
 sunned
 sunnier
+sunniest
 sunnily
 sunniness
 sunninesses
@@ -134740,6 +134768,7 @@ trunnel
 trunnels
 trunnion
 trunnions
+truss
 trussed
 trusser
 trussers
@@ -137258,6 +137287,7 @@ undocked
 undocking
 undoctored
 undoctrinaire
+undoer
 undoers
 undoes
 undogmatic
@@ -137453,6 +137483,7 @@ unfamiliarity
 unfamiliarly
 unfamous
 unfancy
+unfashionable
 unfasten
 unfastened
 unfastening
@@ -140592,6 +140623,7 @@ veepees
 veeps
 veer
 veered
+veeries
 veering
 veeringly
 veers
@@ -141550,6 +141582,7 @@ vinegared
 vinegarish
 vinegars
 vinegary
+vineries
 vineyardist
 vineyardists
 vineyards
@@ -142537,6 +142570,7 @@ waitress
 waitresses
 waitressing
 waitron
+waitrons
 waitstaff
 waitstaffs
 waive
@@ -146351,6 +146385,7 @@ zestily
 zestless
 zests
 zeta
+zettabyte
 zettabytes
 zeugma
 zeugmas
