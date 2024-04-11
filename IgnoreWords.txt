@@ -6951,6 +6951,7 @@ ascots
 ascribable
 ascribe
 ascribed
+ascribes
 ascription
 ascus
 asdic
@@ -9548,6 +9549,7 @@ baptized
 baptizer
 baptizers
 baptizing
+bar
 barathea
 baratheas
 barb
@@ -13855,6 +13857,7 @@ boilerplate
 boilerplates
 boilers
 boilersuit
+boiling
 boiloffs
 boilover
 boils
@@ -15701,6 +15704,7 @@ broomball
 broomballer
 broomballers
 broomballs
+broomcorn
 broomcorns
 broomed
 broomier
@@ -17375,6 +17379,7 @@ calif
 califate
 califates
 californium
+californiums
 califs
 caliginous
 calipashes
@@ -17931,6 +17936,7 @@ canonising
 canonists
 canonization
 canonize
+canonizer
 canonizers
 canonizes
 canonizing
@@ -24130,6 +24136,7 @@ collectedly
 collectednesses
 collectible
 collectibles
+collection
 collective
 collectively
 collectives
@@ -25295,6 +25302,7 @@ concertizing
 concertmasters
 concertmeister
 concertmeisters
+concerto
 concertos
 concession
 concessionaire
@@ -29350,6 +29358,7 @@ crumbers
 crumbier
 crumbiest
 crumbing
+crumble
 crumbled
 crumbles
 crumbliest
@@ -30157,6 +30166,7 @@ custards
 custardy
 custodes
 custodial
+custodian
 custodians
 custodianship
 custodianships
@@ -37733,6 +37743,7 @@ dotterels
 dotters
 dottier
 dottiest
+dottily
 dottiness
 dottinesses
 dotting
@@ -41485,6 +41496,7 @@ enfold
 enfolded
 enfolder
 enfolders
+enfolds
 enforce
 enforceability
 enforceable
@@ -41715,6 +41727,7 @@ enormousness
 enormousnesses
 enosises
 enough
+enounce
 enounced
 enounces
 enow
@@ -42046,6 +42059,7 @@ entrapper
 entrappers
 entrapping
 entraps
+entreat
 entreaties
 entreating
 entreatingly
@@ -45004,6 +45018,7 @@ extreme
 extremely
 extremeness
 extremenesses
+extremer
 extremes
 extremest
 extremism
@@ -52366,6 +52381,7 @@ gentrifications
 gentrifier
 gentrifiers
 gentrifies
+gentrify
 gentrifying
 gentry
 gents
@@ -58261,6 +58277,7 @@ hermitages
 hermitic
 hermitism
 hermitisms
+hermitries
 hermitry
 hermits
 herms
@@ -60649,6 +60666,7 @@ hydrocele
 hydroceles
 hydrocephalic
 hydrocephalics
+hydrocephalies
 hydrocephalus
 hydrocephaluses
 hydrocephaly
@@ -61075,6 +61093,7 @@ hypersexuality
 hypersomnolence
 hypersonic
 hypersonically
+hyperspace
 hyperspaces
 hyperstatic
 hypersthene
@@ -63788,6 +63807,7 @@ infarcts
 infare
 infares
 infatuate
+infatuated
 infatuates
 infatuation
 infaunae
@@ -65034,6 +65054,7 @@ interclub
 intercluster
 intercollegiate
 intercolonial
+intercom
 intercommunal
 intercommunion
 intercommunions
@@ -67029,6 +67050,7 @@ japanner
 japanners
 japanning
 japans
+jape
 japed
 japer
 japeries
@@ -72050,6 +72072,7 @@ linen
 linens
 lineny
 lineolate
+linerboard
 linerboards
 linerless
 liners
@@ -73263,6 +73286,7 @@ loury
 louse
 loused
 louseworts
+lousier
 lousiest
 lousily
 lousinesses
@@ -79226,6 +79250,7 @@ misrhymed
 misroute
 misrouted
 misroutes
+misrouting
 misrule
 misruled
 misrules
@@ -92838,6 +92863,7 @@ pawkiest
 pawkily
 pawkiness
 pawl
+pawls
 pawn
 pawnable
 pawnage
@@ -95420,6 +95446,7 @@ picador
 picadores
 picadors
 pical
+picaninnies
 picaninny
 picara
 picaras
@@ -103808,6 +103835,7 @@ quintains
 quintals
 quintan
 quintar
+quintars
 quintas
 quinte
 quintessence
@@ -105351,6 +105379,7 @@ reassuming
 reassurance
 reassurances
 reassure
+reassured
 reassures
 reassuring
 reassuringly
@@ -116116,6 +116145,7 @@ semiurban
 semivowel
 semivowels
 semiweeklies
+semiweekly
 semiwild
 semiworks
 semiyearly
@@ -117657,6 +117687,7 @@ shlemiel
 shlemiels
 shlep
 shlepp
+shlepped
 shlepping
 shlepps
 shleps
@@ -124545,6 +124576,7 @@ stockily
 stockiness
 stockinesses
 stockinet
+stockinets
 stockinette
 stockinettes
 stocking
@@ -130649,6 +130681,7 @@ tenias
 teniases
 teniasis
 tenner
+tenners
 tennies
 tennis
 tennises
@@ -132218,6 +132251,7 @@ tidiest
 tidily
 tidiness
 tiding
+tidings
 tidy
 tidytips
 tie
@@ -142390,6 +142424,7 @@ viperously
 vipers
 viraginous
 virago
+viragoes
 viragos
 viral
 virally
