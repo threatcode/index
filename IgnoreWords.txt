@@ -952,6 +952,7 @@ actualization
 actualizations
 actualize
 actualized
+actualizing
 actually
 actuarial
 actuarially
@@ -4293,6 +4294,7 @@ angiomas
 angiomata
 angiomatous
 angioplasties
+angioplasty
 angiosperm
 angiospermous
 angiosperms
@@ -8968,6 +8970,7 @@ bad
 badass
 badassed
 badasses
+baddest
 baddie
 baddies
 baddy
@@ -13437,6 +13440,7 @@ blueball
 bluebeard
 bluebeards
 bluebeat
+bluebeats
 bluebell
 bluebells
 blueberries
@@ -14049,6 +14053,7 @@ bonkers
 bonks
 bonne
 bonnes
+bonneted
 bonneting
 bonnets
 bonnie
@@ -14132,6 +14137,7 @@ booker
 bookers
 bookful
 bookfuls
+bookie
 booking
 bookish
 bookishly
@@ -17128,6 +17134,7 @@ caffeine
 caffeines
 caffeinic
 caffeins
+caffs
 caftaned
 caftans
 cage
@@ -17586,6 +17593,7 @@ camomiles
 camorras
 camorrist
 camorrista
+camorrists
 camos
 camouflage
 camouflageable
@@ -23904,6 +23912,7 @@ coinages
 coincided
 coincidences
 coincident
+coincidental
 coincidentally
 coincidently
 coincides
@@ -26850,6 +26859,7 @@ coplot
 coplots
 coplotted
 copolymer
+copolymeric
 copolymerized
 copolymerizes
 copolymerizing
@@ -31788,6 +31798,7 @@ decompositions
 decompound
 decompress
 decompressed
+decompresses
 decompressing
 decompression
 decompressions
@@ -39572,6 +39583,7 @@ ectypes
 ecu
 ecumenic
 ecumenical
+ecumenicalisms
 ecumenicism
 ecumenicisms
 ecumenicist
@@ -49865,6 +49877,7 @@ frantically
 franticly
 franticness
 franticnesses
+frap
 frappe
 frapped
 frapping
@@ -52145,6 +52158,7 @@ generalists
 generalities
 generality
 generalizable
+generalization
 generalizations
 generalize
 generalized
@@ -56221,6 +56235,7 @@ halenesses
 haler
 halers
 haleru
+hales
 halest
 half
 halfbacks
@@ -58536,6 +58551,7 @@ highbush
 highchair
 higher
 highest
+highfliers
 highflyers
 highjack
 highjacked
@@ -67762,6 +67778,7 @@ jujutsus
 juke
 jukebox
 jukeboxes
+juked
 jukes
 juking
 juku
@@ -70429,6 +70446,7 @@ launderettes
 laundresses
 laundrettes
 laundries
+laundry
 laundrymen
 laura
 laurae
@@ -73193,6 +73211,7 @@ lovelornness
 lovelornnesses
 lovemaker
 lovemakers
+lovemaking
 lovemakings
 loverly
 loves
@@ -73680,6 +73699,7 @@ lyceum
 lych
 lychee
 lychees
+lyches
 lychnis
 lychnises
 lycopene
@@ -74511,6 +74531,7 @@ malodorousness
 malodors
 maloti
 malpighia
+malposed
 malposition
 malpositions
 malpractice
@@ -84803,6 +84824,7 @@ nonrecyclable
 nonrecyclables
 nonredundant
 nonrefillable
+nonreflecting
 nonrefundable
 nonregulated
 nonregulation
@@ -91307,6 +91329,7 @@ pandanus
 pandanuses
 pandas
 pandect
+pandemic
 pandemics
 pandemoniums
 pander
@@ -93300,6 +93323,7 @@ penlite
 penlites
 penman
 penmanship
+penmanships
 penna
 pennae
 penname
@@ -93941,6 +93965,7 @@ permits
 permitted
 permittee
 permittees
+permitter
 permitters
 permittivities
 permittivity
@@ -102281,6 +102306,7 @@ puffy
 pug
 pugaree
 pugarees
+puggaree
 puggarees
 pugged
 puggier
@@ -104912,6 +104938,7 @@ reactivities
 reactivity
 reactor
 reactors
+reacts
 read
 readability
 readable
@@ -105577,6 +105604,7 @@ recit
 recitalist
 recitalists
 recitals
+recitation
 recitative
 recitatives
 recitativos
@@ -109397,6 +109425,7 @@ respades
 respading
 respeak
 respeaking
+respeaks
 respecifies
 respecify
 respecifying
@@ -115288,6 +115317,7 @@ secretaryships
 secrete
 secreted
 secreter
+secretes
 secretest
 secretin
 secreting
@@ -118626,6 +118656,7 @@ sinuses
 sinusitis
 sinusitises
 sinuslike
+sinusoid
 sinusoidal
 sinusoidally
 sip
@@ -119839,6 +119870,7 @@ smartnesses
 smarts
 smartweed
 smartweeds
+smarty
 smash
 smashed
 smasher
@@ -128272,6 +128304,7 @@ sybaritically
 sybaritism
 sybo
 syboes
+sycamine
 sycamines
 sycamore
 sycamores
@@ -141027,6 +141060,7 @@ vasotocin
 vasotocins
 vasotomies
 vasotomy
+vasovagal
 vassal
 vassalage
 vassals
@@ -141895,6 +141929,7 @@ victual
 victualed
 victualer
 victualled
+victualler
 victuallers
 victualling
 vicugnas
