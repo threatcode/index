@@ -2874,6 +2874,7 @@ allees
 allegation
 allegations
 allege
+alleged
 alleges
 allegiance
 allegiances
@@ -10590,6 +10591,7 @@ bediapered
 bediapers
 bedight
 bedighted
+bedights
 bedim
 bedimple
 bedimples
@@ -14831,6 +14833,7 @@ bracing
 bracingly
 bracings
 braciola
+braciolas
 braciole
 bracioles
 brackens
@@ -19241,6 +19244,7 @@ catechistic
 catechists
 catechizations
 catechized
+catechizer
 catechizers
 catechizes
 catechizing
@@ -22333,6 +22337,7 @@ civism
 civisms
 civvies
 civvy
+clabber
 clabbered
 clabbering
 clabbers
@@ -32928,6 +32933,7 @@ demolish
 demolished
 demolisher
 demolishers
+demolishes
 demolishing
 demolishments
 demolition
@@ -34132,6 +34138,7 @@ detritus
 detrude
 detruded
 detruding
+detrusions
 detumescence
 detumescent
 deuce
@@ -34602,6 +34609,7 @@ diaphorases
 diaphoreses
 diaphoresis
 diaphoretic
+diaphoretics
 diaphragm
 diaphragmed
 diaphragms
@@ -35858,6 +35866,7 @@ discorded
 discords
 discos
 discotheque
+discotheques
 discount
 discountable
 discountenance
@@ -36329,6 +36338,7 @@ disorientating
 disorientation
 disorientations
 disoriented
+disorienting
 disorients
 disown
 disowned
@@ -38647,6 +38657,7 @@ dryasdusts
 dryer
 dryers
 dryest
+drying
 dryish
 drylot
 drylots
@@ -39257,6 +39268,7 @@ dyspnoeas
 dyspnoic
 dysprosium
 dysprosiums
+dysrhythmias
 dystaxia
 dystaxias
 dysthymia
@@ -40974,6 +40986,7 @@ empyema
 empyemas
 empyemic
 empyreal
+empyrean
 empyreans
 ems
 emu
@@ -57745,6 +57758,7 @@ hegemonies
 hegemons
 hegemony
 hegira
+hegiras
 hegumene
 hegumenes
 hegumenies
@@ -60886,6 +60900,7 @@ hygrophilous
 hygrophyte
 hygrophytes
 hygrophytic
+hygroscopic
 hygroscopicity
 hygrostats
 hying
@@ -68602,6 +68617,7 @@ kerygmatic
 kestrels
 ketamine
 ketch
+ketches
 ketchup
 ketchups
 ketene
@@ -72676,6 +72692,7 @@ loathness
 loathnesses
 loathsome
 loathsomeness
+loathsomenesses
 loaves
 lob
 lobar
@@ -77006,6 +77023,7 @@ mesopelagic
 mesophyl
 mesophyll
 mesophyllous
+mesophylls
 mesophyls
 mesophytes
 mesophytic
@@ -82534,6 +82552,7 @@ nasalised
 nasalises
 nasalising
 nasalism
+nasalisms
 nasalities
 nasality
 nasalization
@@ -83620,6 +83639,7 @@ nidifications
 nidifying
 niding
 nidus
+niduses
 niece
 nieces
 niellist
@@ -84534,6 +84554,7 @@ nonequilibriums
 nonequivalence
 nonequivalences
 nonequivalent
+nonerotic
 nones
 nonessential
 nonessentials
@@ -91451,6 +91472,7 @@ palpators
 palpatory
 palpebrae
 palpebral
+palpebras
 palped
 palping
 palpitant
@@ -95813,6 +95835,7 @@ pikemen
 pikeperch
 pikeperches
 piker
+pikestaff
 pikestaffs
 pikestaves
 piking
@@ -96615,6 +96638,7 @@ planographies
 planography
 planosols
 plans
+plant
 plantable
 plantain
 plantains
@@ -104195,6 +104219,7 @@ radiancy
 radians
 radiant
 radiantly
+radiants
 radiately
 radiating
 radiation
@@ -111785,6 +111810,7 @@ romeldale
 romeo
 romeos
 romp
+romped
 romper
 rompers
 romping
@@ -114368,6 +114394,7 @@ scattering
 scatteringly
 scatterings
 scatters
+scattershot
 scattiest
 scatting
 scatts
@@ -123400,6 +123427,7 @@ squib
 squibbing
 squibs
 squidded
+squidding
 squids
 squiffed
 squiffier
@@ -123408,6 +123436,7 @@ squiffy
 squiggle
 squiggled
 squiggles
+squigglier
 squiggliest
 squiggly
 squilgee
@@ -123600,6 +123629,7 @@ staidly
 staidnesses
 staig
 staigs
+stain
 stainabilities
 stainability
 stainable
@@ -123786,6 +123816,7 @@ staphylococcic
 staphylococcus
 staple
 stapled
+stapler
 staplers
 staples
 stapling
@@ -131907,6 +131938,7 @@ thou
 thoued
 though
 thought
+thoughtful
 thoughtfully
 thoughtfulness
 thoughtless
@@ -135637,6 +135669,7 @@ tryout
 tryouts
 trypanosome
 trypanosomes
+trypanosomiases
 trypanosomiasis
 trypsin
 trypsinogens
@@ -140377,6 +140410,7 @@ uppropped
 uppropping
 upprops
 upraise
+upraised
 upraiser
 upraisers
 upraises
@@ -140595,6 +140629,7 @@ urbanely
 urbaner
 urbanest
 urbanisation
+urbanisations
 urbanise
 urbanised
 urbanises
