@@ -4626,6 +4626,7 @@ anorthitic
 anorthosite
 anorthosites
 anorthositic
+anosmatic
 anosmia
 anosmias
 anosmic
@@ -11710,6 +11711,7 @@ bewitchery
 bewitches
 bewitching
 bewitchingly
+bewitchment
 bewitchments
 beworm
 bewormed
@@ -13063,6 +13065,7 @@ blearing
 blears
 bleary
 bleated
+bleater
 bleaters
 bleating
 bleats
@@ -13615,6 +13618,7 @@ boardinghouses
 boardings
 boardlike
 boardman
+boardmen
 boardroom
 boardrooms
 boards
@@ -21788,6 +21792,7 @@ chukar
 chukars
 chukka
 chukkar
+chukkars
 chukkas
 chukker
 chum
@@ -26509,6 +26514,7 @@ contribution
 contributive
 contributively
 contributor
+contributors
 contributory
 contritely
 contriteness
@@ -30233,6 +30239,7 @@ cutups
 cutwater
 cutwork
 cutworks
+cutworm
 cuvee
 cuvees
 cuvette
@@ -31821,6 +31828,7 @@ decongested
 decongesting
 decongestion
 decongestions
+decongestive
 decongests
 deconsecrate
 deconsecrates
@@ -35894,6 +35902,7 @@ disembogues
 disembowel
 disemboweled
 disemboweling
+disembowelled
 disembowelling
 disembowelment
 disemploy
@@ -36600,6 +36609,7 @@ dissipates
 dissipating
 dissipation
 dissipations
+dissipative
 dissociability
 dissociable
 dissocial
@@ -37824,6 +37834,7 @@ dower
 dowered
 doweries
 dowering
+dowerless
 dowers
 dowery
 dowie
@@ -38692,6 +38703,7 @@ duende
 duendes
 dueness
 duenesses
+duenna
 duennas
 duennaship
 dues
@@ -40276,6 +40288,7 @@ eligibly
 eliminate
 eliminated
 eliminates
+eliminating
 elimination
 eliminations
 eliminative
@@ -44828,6 +44841,7 @@ extinct
 extincted
 extinctions
 extinctive
+extinguish
 extinguished
 extinguisher
 extinguishers
@@ -59081,6 +59095,7 @@ hollandaises
 hollas
 holler
 hollered
+hollering
 hollers
 hollo
 holloa
@@ -67774,6 +67789,7 @@ juicehead
 juiceheads
 juiceless
 juicers
+juices
 juicier
 juiciest
 juiciness
@@ -68488,6 +68504,7 @@ keyboarder
 keyboarders
 keyboardists
 keyboards
+keybutton
 keybuttons
 keycard
 keycards
@@ -73880,6 +73897,7 @@ maccoboys
 mace
 maced
 macedoine
+macer
 macerate
 macerated
 macerater
@@ -85983,6 +86001,7 @@ obliterators
 oblivion
 oblivions
 oblivious
+obliviously
 obliviousness
 obliviousnesses
 oblong
@@ -92943,6 +92962,7 @@ pectens
 pectic
 pectin
 pectinate
+pectinations
 pectines
 pectinesterases
 pectins
@@ -96716,6 +96736,7 @@ plebiscite
 plebiscites
 plebs
 plecopteran
+plecopterans
 plectra
 plectron
 plectrum
@@ -100026,6 +100047,7 @@ preshowing
 preshown
 preshows
 preshrank
+preshrinking
 preshrinks
 preshrunk
 preshrunken
@@ -102000,6 +102022,7 @@ pseudoallele
 pseudoalleles
 pseudoclassic
 pseudocoel
+pseudocoels
 pseudocyeses
 pseudocyesis
 pseudomonad
@@ -109183,6 +109206,7 @@ reservers
 reserves
 reservice
 reserviced
+reservices
 reservicing
 reserving
 reservist
@@ -109750,6 +109774,7 @@ reswallowing
 reswallows
 resyntheses
 resynthesis
+resynthesize
 resynthesized
 resynthesizes
 resynthesizing
@@ -112639,6 +112664,7 @@ saddleless
 saddler
 saddlers
 saddlery
+saddles
 saddletree
 saddletrees
 saddling
@@ -112855,6 +112881,7 @@ salerooms
 sales
 salesclerk
 salesclerks
+salesgirl
 salesgirls
 salesladies
 saleslady
@@ -114205,6 +114232,7 @@ schema
 schemas
 schemata
 schematic
+schematics
 schematism
 schematisms
 schematization
@@ -114371,6 +114399,7 @@ schoolings
 schoolmarm
 schoolmarmish
 schoolmarms
+schoolmaster
 schoolmasterish
 schoolmasterly
 schoolmate
@@ -120446,6 +120475,7 @@ snowblower
 snowblowers
 snowboard
 snowboarded
+snowboarder
 snowboarders
 snowboarding
 snowboardings
@@ -126335,6 +126365,7 @@ suburbia
 suburbias
 suburbs
 subvariety
+subvassal
 subvassals
 subvene
 subvened
@@ -138262,6 +138293,7 @@ unhanged
 unhanging
 unhangs
 unhappier
+unhappily
 unhappiness
 unhappinesses
 unhappy
@@ -144597,6 +144629,7 @@ whirlpool
 whirlpools
 whirls
 whirlwind
+whirlwinds
 whirly
 whirlybird
 whirr
@@ -145698,6 +145731,7 @@ woodlore
 woodlores
 woodlot
 woodman
+woodmen
 woodnote
 woodnotes
 woodpecker
@@ -147228,6 +147262,7 @@ zori
 zoril
 zorilla
 zorillas
+zorille
 zorillo
 zorillos
 zorils
