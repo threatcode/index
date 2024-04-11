@@ -2040,6 +2040,7 @@ aggrandises
 aggrandising
 aggrandized
 aggrandizement
+aggrandizements
 aggrandizer
 aggrandizers
 aggrandizes
@@ -18719,6 +18720,7 @@ carrells
 carriages
 carriageway
 carriageways
+carried
 carrier
 carriers
 carries
@@ -19873,6 +19875,7 @@ cerebroside
 cerebrosides
 cerebrovascular
 cerebrum
+cerebrums
 cerecloth
 cerecloths
 cered
@@ -20073,6 +20076,7 @@ chakras
 chalah
 chalahs
 chalazae
+chalazal
 chalazas
 chalazion
 chalcedonic
@@ -20263,6 +20267,7 @@ chansons
 chant
 chantage
 chantages
+chanter
 chanterelles
 chanters
 chanteuse
@@ -21499,6 +21504,7 @@ chorister
 choristers
 chorizo
 chorographer
+chorographers
 chorographic
 chorographies
 chorography
@@ -36310,6 +36316,7 @@ dispraised
 dispraiser
 dispraises
 dispraising
+dispraisingly
 dispread
 dispreading
 dispreads
@@ -37119,6 +37126,7 @@ dogfight
 dogfighting
 dogfish
 dogfishes
+dogfought
 dogged
 doggedly
 doggedness
@@ -37301,6 +37309,7 @@ domically
 domicil
 domicile
 domiciled
+domiciliate
 domiciliated
 domiciliates
 domiciliating
@@ -40240,6 +40249,7 @@ eloiner
 eloiners
 eloining
 eloinment
+eloinments
 eloins
 elongate
 elongated
@@ -40796,6 +40806,7 @@ empurple
 empurpled
 empurples
 empurpling
+empyema
 empyemas
 empyemic
 empyreal
@@ -41084,6 +41095,7 @@ endbrains
 endearing
 endearingly
 endearment
+endears
 endeavor
 endeavored
 endeavoring
@@ -41708,6 +41720,7 @@ ensouled
 ensouling
 ensouls
 ensphere
+enspheres
 ensphering
 enstatites
 ensue
@@ -43064,6 +43077,7 @@ estraying
 estrays
 estreat
 estreated
+estreating
 estreats
 estriol
 estriols
@@ -44018,6 +44032,7 @@ exegetic
 exegetical
 exegetist
 exempla
+exemplar
 exemplarities
 exemplarity
 exemplars
@@ -45935,6 +45950,7 @@ fears
 fearsome
 fearsomely
 fearsomeness
+fearsomenesses
 feasance
 feasances
 fease
@@ -61328,6 +61344,7 @@ idiopathically
 idiopathies
 idiopathy
 idioplasms
+idiosyncrasies
 idiosyncrasy
 idiosyncratic
 idiot
@@ -62571,6 +62588,7 @@ inbounds
 inbreathe
 inbreathed
 inbreathes
+inbred
 inbreds
 inbreeder
 inbreeders
@@ -65585,6 +65603,7 @@ introducing
 introduction
 introductions
 introductorily
+introductory
 introfy
 introfying
 introgressant
@@ -69228,6 +69247,7 @@ kugels
 kukri
 kukris
 kulak
+kulaki
 kulaks
 kultur
 kulturs
@@ -77287,6 +77307,7 @@ micrograms
 micrograph
 micrographed
 micrographic
+micrographics
 micrographing
 micrographs
 microgravities
@@ -78559,6 +78580,7 @@ misericords
 miseries
 miserliness
 miserlinesses
+miserly
 misers
 misery
 mises
@@ -82423,6 +82445,7 @@ nebulized
 nebulizer
 nebulizers
 nebulizing
+nebulose
 nebulosities
 nebulosity
 nebulous
@@ -87055,6 +87078,7 @@ optimizes
 optimizing
 optimums
 opting
+option
 optional
 optionalities
 optionality
@@ -90093,6 +90117,7 @@ overspilling
 overspills
 overspilt
 overspin
+overspins
 overspreading
 overspreads
 overstabilities
@@ -94190,6 +94215,7 @@ pettedly
 petters
 petti
 petticoat
+petticoated
 petticoats
 pettiest
 pettifog
@@ -94944,6 +94970,7 @@ phycologist
 phycologists
 phycomycete
 phycomycetes
+phycomycetous
 phyla
 phylacteries
 phylactery
@@ -102630,6 +102657,7 @@ pushup
 pushups
 pushy
 pusillanimities
+pusillanimity
 pusillanimous
 pusillanimously
 pusleys
@@ -112739,6 +112767,7 @@ saltations
 saltatory
 saltbox
 saltboxes
+saltbush
 saltchuck
 salter
 saltern
@@ -116618,6 +116647,7 @@ shallots
 shallow
 shallowed
 shallower
+shallowest
 shallowing
 shallowly
 shallowness
@@ -120188,6 +120218,7 @@ snowbell
 snowbells
 snowbelts
 snowberries
+snowberry
 snowbird
 snowbirds
 snowblink
@@ -127472,6 +127503,7 @@ surreally
 surrebutter
 surrebutters
 surrejoinder
+surrejoinders
 surrender
 surrendered
 surrendering
@@ -138173,6 +138205,7 @@ unionising
 unionism
 unionisms
 unionist
+unionists
 unionization
 unionizations
 unionize
@@ -142061,6 +142094,7 @@ visionaries
 visionariness
 visionarinesses
 visionary
+visionless
 visions
 visit
 visitable
@@ -146261,6 +146295,7 @@ yentes
 yeomanly
 yeomanries
 yeomanry
+yeomen
 yep
 yeps
 yerba
