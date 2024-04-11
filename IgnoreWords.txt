@@ -5462,6 +5462,7 @@ apart
 apartheid
 apartheids
 apartment
+apartmental
 apartments
 apartness
 apartnesses
@@ -8604,6 +8605,7 @@ azukis
 azulejo
 azures
 azurite
+azurites
 azygos
 azygous
 ba
@@ -10064,6 +10066,7 @@ bath
 bathe
 bather
 bathers
+bathes
 bathetic
 bathetically
 bathhouse
@@ -11100,6 +11103,7 @@ belong
 belonging
 belongingness
 belongingnesses
+belongings
 belongs
 belons
 beloved
@@ -15694,6 +15698,7 @@ broody
 brooked
 brookie
 brookies
+brooking
 brookite
 brookites
 brooklet
@@ -29103,6 +29108,7 @@ crocodile
 crocodiles
 crocodilians
 crocoite
+crocoites
 crocs
 crocus
 crocuses
@@ -34148,6 +34154,7 @@ deva
 devaluate
 devaluated
 devaluates
+devaluating
 devaluation
 devaluations
 devalue
@@ -36211,6 +36218,7 @@ disjunctive
 disjunctively
 disjunctives
 disjuncts
+disjuncture
 disjunctures
 disked
 diskette
@@ -37937,6 +37945,7 @@ downloadable
 downloaded
 downloading
 downloads
+downpipe
 downpipes
 downplay
 downplayed
@@ -40401,6 +40410,7 @@ eloquences
 eloquent
 eloquently
 els
+else
 eluant
 eluants
 eluate
@@ -43934,6 +43944,7 @@ exanthematic
 exanthematous
 exanthems
 exapted
+exaptive
 exarchal
 exarchate
 exarchates
@@ -46188,6 +46199,7 @@ feculences
 feculent
 fecund
 fecundate
+fecundates
 fecundating
 fecundations
 fecundities
@@ -55108,6 +55120,7 @@ grogginesses
 groggy
 grogram
 grograms
+grogs
 grogshop
 grogshops
 groin
@@ -55651,6 +55664,7 @@ gumlike
 gumline
 gumlines
 gummas
+gummata
 gummed
 gummer
 gummers
@@ -57356,6 +57370,7 @@ heading
 headings
 headlamps
 headland
+headlands
 headlessness
 headlight
 headlights
@@ -57963,6 +57978,7 @@ hemialgias
 hemic
 hemichordates
 hemicycle
+hemicycles
 hemihedral
 hemihydrate
 hemihydrated
@@ -59004,6 +59020,7 @@ hobnailed
 hobnailing
 hobnails
 hobnob
+hobnobbed
 hobnobbers
 hobnobs
 hobo
@@ -63305,6 +63322,7 @@ indefinite
 indefiniteness
 indefinites
 indehiscence
+indehiscences
 indehiscent
 indelibilities
 indelibility
@@ -70080,6 +70098,7 @@ landlopers
 landlord
 landlordism
 landlordisms
+landlords
 landlubber
 landlubberly
 landlubbers
@@ -77581,6 +77600,7 @@ microinches
 microinject
 microinjected
 microinjecting
+microinjections
 microinjects
 microliter
 microliters
@@ -84536,6 +84556,7 @@ nonfiction
 nonfigurative
 nonfilial
 nonfilterable
+nonfinal
 nonfinite
 nonfissionable
 nonflammability
@@ -94682,6 +94703,7 @@ phattest
 phellem
 phellems
 phelloderm
+phelloderms
 phellogen
 phellogens
 phelonia
@@ -101810,6 +101832,7 @@ proteus
 prothalamion
 prothalamium
 prothalli
+prothallia
 prothallium
 prothallus
 prothalluses
@@ -105016,6 +105039,7 @@ razeed
 razeeing
 razees
 razer
+razers
 razes
 razing
 razor
@@ -105847,6 +105871,7 @@ recocked
 recocking
 recocks
 recode
+recoded
 recodes
 recodification
 recodifications
@@ -106902,6 +106927,7 @@ referendums
 referent
 referential
 referentiality
+referentially
 referents
 referrals
 referrer
@@ -124162,6 +124188,7 @@ steppe
 stepped
 stepper
 steppes
+stepping
 stepsister
 stepsisters
 stepson
@@ -128144,6 +128171,7 @@ swanpan
 swanpans
 swans
 swansdown
+swansdowns
 swanskins
 swap
 swapped
@@ -128569,6 +128597,7 @@ syllogisms
 syllogistic
 syllogistically
 syllogists
+syllogize
 syllogized
 syllogizes
 syllogizing
@@ -129093,6 +129122,7 @@ tacet
 tache
 taches
 tachinid
+tachinids
 tachism
 tachismes
 tachist
@@ -131105,6 +131135,7 @@ tethering
 tethers
 teths
 tetotum
+tetra
 tetracaine
 tetracaines
 tetrachlorides
@@ -135653,6 +135684,7 @@ tubings
 tubists
 tublike
 tubocurarine
+tubocurarines
 tubs
 tubular
 tubulate
@@ -140489,6 +140521,7 @@ urare
 urares
 uraris
 urase
+urases
 urate
 urates
 urb
@@ -143549,6 +143582,7 @@ wappenschawings
 waps
 war
 warble
+warbled
 warbler
 warblers
 warbles
@@ -145915,6 +145949,7 @@ woods
 woodshed
 woodshedding
 woodsheds
+woodsia
 woodsias
 woodsier
 woodsiest
