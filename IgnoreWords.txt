@@ -3658,6 +3658,7 @@ amoebas
 amoebean
 amoebocyte
 amoebocytes
+amoeboid
 amok
 amoks
 amole
@@ -7530,6 +7531,7 @@ atomistic
 atomistically
 atomists
 atomization
+atomizations
 atomize
 atomized
 atomizer
@@ -16165,6 +16167,7 @@ bullneck
 bullnoses
 bullocks
 bullocky
+bullous
 bullpen
 bullpout
 bullring
@@ -26787,6 +26790,7 @@ coordinating
 coordination
 coordinations
 coordinative
+coordinator
 coordinators
 coot
 cooters
@@ -27908,6 +27912,7 @@ counterpunchers
 counterpunches
 counterpunching
 counterquestion
+counterraid
 counterrallied
 counterrallies
 counterrally
@@ -32774,6 +32779,7 @@ demisemiquaver
 demisemiquavers
 demises
 demising
+demission
 demissions
 demister
 demisters
@@ -37102,6 +37108,7 @@ documentarists
 documentary
 documentation
 documentational
+documentations
 documented
 documenter
 documenters
@@ -43533,6 +43540,7 @@ eusocial
 eustacies
 eustasies
 eustasy
+eustatic
 eustele
 eusteles
 eutaxies
@@ -46982,6 +46990,7 @@ filibegs
 filibuster
 filibustered
 filibusterer
+filibusterers
 filibusters
 filicide
 filicides
@@ -50195,6 +50204,7 @@ frises
 friseur
 frisk
 frisked
+frisker
 friskers
 frisket
 friskets
@@ -52838,6 +52848,7 @@ ginny
 gins
 ginzo
 ginzoes
+gip
 gipon
 gipons
 gipped
@@ -53075,6 +53086,7 @@ glasswork
 glassworks
 glassworm
 glassworms
+glasswort
 glassy
 glaucoma
 glauconite
@@ -64544,6 +64556,7 @@ inspectorships
 inspects
 insphere
 insphering
+inspiration
 inspirational
 inspirationally
 inspirations
@@ -69385,6 +69398,7 @@ kwacha
 kwanza
 kwanzas
 kwashiorkor
+kwashiorkors
 kyacks
 kyak
 kyaks
@@ -75045,6 +75059,7 @@ margented
 margents
 marges
 marginal
+marginalities
 marginalization
 marginalize
 marginalized
@@ -77532,6 +77547,7 @@ microstates
 microstructural
 microstructure
 microstructures
+microsurgeries
 microsurgery
 microsurgical
 microswitch
@@ -78543,6 +78559,7 @@ misconstruing
 miscook
 miscooked
 miscooking
+miscooks
 miscopies
 miscopy
 miscopying
@@ -84603,6 +84620,7 @@ nonmortal
 nonmortals
 nonmotile
 nonmotilities
+nonmotility
 nonmotorized
 nonmoving
 nonmunicipal
@@ -102235,6 +102253,7 @@ pudginess
 pudginesses
 pudgy
 pudic
+pueblo
 pueblos
 puerile
 puerilism
@@ -116343,6 +116362,7 @@ seriousnesses
 serjeant
 serjeanties
 serjeanty
+sermon
 sermonic
 sermonize
 sermonizer
@@ -124853,6 +124873,7 @@ streets
 streetscapes
 streetwalkers
 streetwalking
+streetwalkings
 streetwise
 strength
 strengthen
@@ -127763,6 +127784,7 @@ sustainedly
 sustainer
 sustaining
 sustains
+sustenance
 sustenances
 sustentation
 sustentations
@@ -129843,6 +129865,7 @@ teasingly
 teaspoon
 teaspoonful
 teaspoonfuls
+teat
 teataster
 teatasters
 teated
@@ -131314,6 +131337,7 @@ they
 thiabendazole
 thiabendazoles
 thiamine
+thiamines
 thiamins
 thiazide
 thiazides
@@ -132101,6 +132125,7 @@ tiltmeters
 tiltrotor
 tiltrotors
 tilts
+tiltyard
 tiltyards
 timarau
 timaraus
@@ -132795,6 +132820,7 @@ toning
 tonish
 tonishly
 tonlet
+tonlets
 tonnage
 tonnages
 tonne
@@ -134240,6 +134266,7 @@ tremolitic
 tremolo
 tremolos
 tremor
+tremorous
 tremors
 tremulant
 tremulous
@@ -137358,6 +137385,7 @@ underbodies
 underboss
 underbosses
 underbrim
+underbrims
 underbrush
 underbud
 underbudded
@@ -137837,6 +137865,7 @@ unemotional
 unemphatic
 unemphatically
 unempirical
+unemployability
 unemployable
 unemployables
 unemployment
@@ -143021,6 +143050,7 @@ waist
 waistbands
 waistcoat
 waistcoated
+waistcoats
 waisted
 waister
 waisters
@@ -144046,6 +144076,7 @@ weldless
 weldment
 weldments
 weldor
+weldors
 welds
 welfare
 welfares
@@ -144511,6 +144542,7 @@ whish
 whished
 whishes
 whishing
+whisht
 whishted
 whishting
 whishts
@@ -144711,6 +144743,7 @@ whump
 whumped
 whumping
 whumps
+whup
 whupped
 whupping
 whups
@@ -146369,6 +146402,7 @@ yawningly
 yawns
 yawp
 yawped
+yawper
 yawpers
 yawping
 yawpings
@@ -146925,6 +146959,7 @@ zinebs
 zines
 zinfandel
 zinfandels
+zing
 zingani
 zingano
 zingara
