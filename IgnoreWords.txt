@@ -1110,6 +1110,7 @@ adenomas
 adenomatous
 adenosine
 adenosines
+adenoviral
 adenyl
 adenyls
 adept
@@ -10524,6 +10525,7 @@ bedeafened
 bedeafening
 bedeafens
 bedeck
+bedecked
 bedecks
 bedehouse
 bedehouses
@@ -13413,6 +13415,7 @@ blubbed
 blubber
 blubbered
 blubbering
+blubbers
 blubbery
 blubbing
 blubs
@@ -14245,6 +14248,7 @@ bootstrapped
 bootstrapping
 bootstraps
 booze
+boozed
 boozer
 boozes
 boozier
@@ -15011,6 +15015,7 @@ bravadoes
 bravados
 bravas
 brave
+braved
 bravely
 bravenesses
 braver
@@ -16202,6 +16207,7 @@ bumbles
 bumblingly
 bumblings
 bumboat
+bumboats
 bumelia
 bumelias
 bumf
@@ -25118,6 +25124,7 @@ comraderies
 comrades
 comradeship
 comradeships
+comsymp
 comsymps
 comte
 comtes
@@ -26793,6 +26800,7 @@ copalm
 copalms
 copals
 coparcenaries
+coparcenary
 coparcener
 coparented
 coparents
@@ -38469,6 +38477,7 @@ drugs
 drugstore
 druid
 druidess
+druidesses
 druidic
 druidical
 druidism
@@ -38565,6 +38574,7 @@ dubbed
 dubber
 dubbers
 dubbin
+dubbins
 dubieties
 dubiety
 dubiosities
@@ -38583,6 +38593,7 @@ dubonnets
 ducal
 ducat
 duces
+duchess
 duchesses
 duchies
 duci
@@ -41111,6 +41122,7 @@ encyclopedists
 encyst
 encysted
 encysting
+encysts
 endamage
 endamages
 endamaging
@@ -42401,6 +42413,7 @@ epistolary
 epistoler
 epistolers
 epistome
+epistomes
 epistrophe
 epistrophes
 epistyles
@@ -49123,6 +49136,7 @@ foreheads
 forehoof
 forehoofs
 foreign
+foreigner
 foreigners
 foreignism
 foreignisms
@@ -51614,6 +51628,7 @@ garments
 garner
 garnering
 garners
+garnet
 garnetiferous
 garnets
 garnish
@@ -51806,6 +51821,7 @@ gatehouse
 gatehouses
 gatekeepers
 gatekeeping
+gatelike
 gateman
 gatemen
 gatepost
@@ -56429,6 +56445,7 @@ handclaps
 handclasp
 handclasps
 handcraft
+handcrafted
 handcrafting
 handcrafts
 handcraftsmen
@@ -58897,6 +58914,7 @@ hoddin
 hoddins
 hodgepodges
 hodoscope
+hodoscopes
 hods
 hoecakes
 hoed
@@ -70007,6 +70025,7 @@ lanner
 lanneret
 lannerets
 lanners
+lanose
 lanosities
 lanosity
 lantana
@@ -73345,6 +73364,7 @@ lugsails
 lugubrious
 lugubriousness
 lugworm
+lugworms
 lukewarm
 lukewarmly
 lukewarmness
@@ -82562,6 +82582,7 @@ necklike
 neckline
 necklines
 neckpiece
+neckpieces
 necks
 necktie
 neckties
@@ -86017,6 +86038,7 @@ obstetrician
 obstetricians
 obstinacies
 obstinately
+obstinateness
 obstinatenesses
 obstreperously
 obstruct
@@ -99713,6 +99735,7 @@ prepossessed
 prepossesses
 prepossessing
 prepossession
+prepossessions
 preposterous
 preposterously
 prepotencies
@@ -100501,6 +100524,7 @@ prioritizing
 priority
 priorly
 priors
+priorship
 priory
 prise
 prised
@@ -101138,6 +101162,7 @@ pronounced
 pronouncedly
 pronouncement
 pronouncements
+pronouncer
 pronouncers
 pronounces
 pronouncing
@@ -105418,6 +105443,7 @@ receiving
 recement
 recemented
 recementing
+recements
 recencies
 recency
 recensions
@@ -109236,6 +109262,7 @@ resistlessly
 resistlessness
 resistor
 resistors
+resists
 resite
 resited
 resiting
@@ -112332,6 +112359,7 @@ ruthlessness
 ruthlessnesses
 ruths
 rutilant
+rutile
 rutiles
 rutins
 ruts
@@ -117009,6 +117037,7 @@ sheeney
 sheeneys
 sheenful
 sheenies
+sheeniest
 sheens
 sheepberries
 sheepberry
@@ -125792,6 +125821,7 @@ submanagers
 submandibular
 submandibulars
 submarginal
+submarined
 submariner
 submariners
 submarines
@@ -127791,6 +127821,7 @@ swagger
 swaggered
 swaggerer
 swaggering
+swaggers
 swaggie
 swaggies
 swagging
@@ -128262,6 +128293,7 @@ syllabifies
 syllabify
 syllabisms
 syllabize
+syllabized
 syllable
 syllabled
 syllabling
@@ -131069,6 +131101,7 @@ theocracies
 theocracy
 theocrat
 theocratic
+theocratically
 theocrats
 theodicy
 theodolites
@@ -131247,6 +131280,7 @@ thermostatic
 thermostating
 thermostats
 thermostatting
+thermotactic
 thermotaxes
 thermotaxis
 thermotropic
@@ -143915,6 +143949,7 @@ weens
 weensier
 weensiest
 weensy
+weeny
 weep
 weeper
 weepers
