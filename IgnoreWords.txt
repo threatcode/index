@@ -3026,6 +3026,7 @@ allopolyploids
 allopurinol
 allopurinols
 allosaur
+allosaurs
 allosauruses
 allosteric
 allosterically
@@ -7094,6 +7095,7 @@ asphyxia
 asphyxial
 asphyxias
 asphyxiate
+asphyxiates
 asphyxiation
 asphyxies
 asphyxy
@@ -12779,12 +12781,14 @@ bites
 bitewing
 bitingly
 bitmap
+bitmapped
 bitmaps
 bits
 bitsier
 bitstock
 bitstocks
 bitstream
+bitstreams
 bitsy
 bitt
 bitted
@@ -19624,6 +19628,7 @@ cay
 cayenne
 cayennes
 cayman
+cays
 cayuse
 cayuses
 cazique
@@ -34387,6 +34392,7 @@ devolving
 devon
 devonian
 devons
+devote
 devoted
 devotedly
 devotedness
@@ -45800,6 +45806,7 @@ fandangos
 fandom
 fandoms
 fane
+fanega
 fanegada
 fanegadas
 fanfare
@@ -47685,6 +47692,7 @@ fisherwomen
 fishery
 fishes
 fisheyes
+fishgig
 fishgigs
 fishhook
 fishhooks
@@ -54244,6 +54252,7 @@ goonier
 goonies
 goons
 goop
+goopier
 goopiest
 goops
 goopy
@@ -54762,6 +54771,7 @@ graphologies
 graphologists
 graphology
 graphs
+grapier
 grapiest
 grapiness
 grapinesses
@@ -61552,6 +61562,7 @@ hypoxic
 hyps
 hypsometer
 hypsometers
+hyraces
 hyracoid
 hyracoids
 hyrax
@@ -65167,6 +65178,7 @@ intelligence
 intelligencers
 intelligences
 intelligent
+intelligently
 intelligentsia
 intelligentsias
 intelligibility
@@ -74263,6 +74275,7 @@ macer
 macerate
 macerated
 macerater
+maceraters
 macerating
 maceration
 macerations
@@ -77606,6 +77619,7 @@ metricized
 metricizes
 metricizing
 metrics
+metrifies
 metrify
 metring
 metrist
@@ -81089,6 +81103,7 @@ mothy
 motif
 motific
 motifs
+motiles
 motilities
 motility
 motion
@@ -88212,6 +88227,7 @@ osmundas
 osmundine
 osmundines
 osmunds
+osnaburg
 osprey
 ospreys
 ossa
@@ -88485,6 +88501,7 @@ outbragged
 outbragging
 outbrags
 outbrave
+outbraving
 outbrawl
 outbrawled
 outbrawling
@@ -95522,6 +95539,7 @@ photosynthates
 photosyntheses
 photosynthesis
 photosynthesize
+photosynthetic
 photosystem
 photosystems
 phototactic
@@ -98013,6 +98031,7 @@ polychete
 polychotomies
 polychotomous
 polychotomy
+polychromatic
 polychromed
 polychromes
 polychromies
@@ -103825,6 +103844,7 @@ quantally
 quanted
 quantic
 quantics
+quantification
 quantifications
 quantified
 quantifiers
@@ -104311,6 +104331,7 @@ quorum
 quorums
 quota
 quotabilities
+quotability
 quotably
 quotas
 quotations
@@ -105788,6 +105809,7 @@ reavows
 reawaked
 reawakened
 reawakening
+reawakens
 reawakes
 reawaking
 reawoke
@@ -108434,6 +108456,7 @@ reluming
 relumining
 rely
 rem
+remail
 remailing
 remails
 remain
@@ -111858,6 +111881,7 @@ roarings
 roars
 roast
 roaster
+roasters
 roasts
 rob
 robalo
@@ -112922,6 +112946,7 @@ russifies
 russify
 russifying
 rustable
+rusted
 rustic
 rustical
 rustically
@@ -115184,6 +115209,7 @@ scoundrel
 scoundrelly
 scour
 scoured
+scourged
 scourger
 scourgers
 scourging
@@ -123828,6 +123854,7 @@ stablenesses
 stablers
 stables
 stablest
+stabling
 stablings
 stablish
 stablished
@@ -129442,6 +129469,7 @@ tableau
 tableaus
 tableaux
 tablecloth
+tablecloths
 tabled
 tableful
 tablefuls
@@ -138354,6 +138382,7 @@ understeering
 understeers
 understories
 understory
+understrappers
 understrength
 understudied
 understudies
@@ -139916,6 +139945,7 @@ unscaled
 unscarred
 unscathed
 unscented
+unscheduled
 unscholarly
 unschooled
 unscientific
@@ -141614,6 +141644,7 @@ vaporwares
 vapour
 vapoured
 vapourers
+vapouring
 vapours
 vapoury
 vaquero
@@ -142023,6 +142054,7 @@ venerations
 venerators
 venereal
 veneries
+venery
 venesection
 venesections
 venetian
@@ -144113,6 +144145,7 @@ warns
 warp
 warpages
 warpaths
+warped
 warpers
 warping
 warplane
@@ -144794,6 +144827,7 @@ weirdly
 weirdness
 weirdnesses
 weirdo
+weirdos
 weirdy
 weirs
 weisenheimer
@@ -147719,6 +147753,7 @@ zincifying
 zincite
 zincked
 zincking
+zincous
 zincs
 zincy
 zine
