@@ -10151,6 +10151,7 @@ bathroom
 bathrooms
 baths
 bathtub
+bathtubs
 bathwater
 bathwaters
 bathyal
@@ -11044,6 +11045,7 @@ beknighted
 beknighting
 beknights
 beknots
+beknotted
 beknotting
 belabor
 belabored
@@ -16595,6 +16597,7 @@ burled
 burler
 burlers
 burlesk
+burlesks
 burlesque
 burlesquely
 burlesquer
@@ -21061,6 +21064,7 @@ chevalet
 chevalets
 chevelure
 chevelures
+cheveron
 cheverons
 cheviot
 cheviots
@@ -22637,6 +22641,7 @@ clasping
 claspt
 class
 classable
+classed
 classers
 classes
 classic
@@ -29229,6 +29234,7 @@ criticasters
 criticise
 criticised
 criticises
+criticising
 criticism
 criticisms
 criticize
@@ -33427,6 +33433,7 @@ deoxyribose
 depaint
 depainted
 depainting
+depaints
 depart
 departees
 departing
@@ -38325,6 +38332,7 @@ dragonhead
 dragonheads
 dragonish
 dragons
+dragoon
 dragooning
 dragrope
 dragropes
@@ -45619,6 +45627,7 @@ fad
 fadable
 faddier
 faddiest
+faddish
 faddishly
 faddishness
 faddishnesses
@@ -51292,6 +51301,7 @@ furrower
 furrowers
 furrowing
 furrows
+furrowy
 furry
 furs
 furtherance
@@ -51960,6 +51970,7 @@ gantlets
 gantlines
 gantlope
 gantlopes
+gantries
 gantry
 ganymede
 gaoled
@@ -54658,6 +54669,7 @@ grads
 gradual
 gradualism
 gradualisms
+gradualist
 gradualists
 gradually
 gradualness
@@ -55668,6 +55680,7 @@ grudging
 grudgingly
 grue
 gruel
+grueled
 grueler
 gruelers
 grueling
@@ -64344,6 +64357,7 @@ inflammatorily
 inflammatory
 inflatable
 inflatables
+inflate
 inflated
 inflater
 inflaters
@@ -70264,6 +70278,7 @@ lagnappes
 lagniappe
 lagniappes
 lagomorph
+lagomorphs
 lagoon
 lagoons
 lags
@@ -71990,6 +72005,7 @@ lib
 libation
 libationary
 libations
+libber
 libbers
 libecchio
 libecchios
@@ -74458,6 +74474,7 @@ macaroon
 macaroons
 macaw
 macaws
+maccabaw
 maccabaws
 maccaboy
 maccaboys
@@ -74529,6 +74546,7 @@ macled
 macles
 macon
 macons
+macrame
 macrames
 macro
 macroaggregate
@@ -77515,6 +77533,7 @@ metabolizable
 metabolize
 metabolized
 metabolizing
+metacarpal
 metacarpals
 metacarpi
 metacarpus
@@ -80630,6 +80649,7 @@ monocycle
 monocycles
 monocyclic
 monocyte
+monocytes
 monocytic
 monodic
 monodical
@@ -82427,6 +82447,7 @@ mutuel
 mutuels
 mutular
 mutule
+muumuus
 muzhik
 muzhiks
 muzjik
@@ -89158,6 +89179,7 @@ outkeeping
 outkeeps
 outkept
 outkick
+outkicked
 outkicking
 outkicks
 outkilled
@@ -92815,6 +92837,7 @@ parotitises
 parotoid
 parotoids
 parous
+paroxysm
 parquet
 parqueted
 parqueting
@@ -100006,6 +100029,7 @@ predicative
 predicatively
 predicatory
 predict
+predictability
 predictable
 predictably
 predicted
@@ -104080,6 +104104,7 @@ quakinesses
 quakingly
 quaky
 quale
+qualia
 qualifiable
 qualification
 qualifications
@@ -107421,6 +107446,7 @@ reengraving
 reenjoy
 reenjoyed
 reenjoying
+reenjoys
 reenlarge
 reenlarged
 reenlarges
@@ -126917,6 +126943,7 @@ subnuclear
 subnuclei
 subnucleus
 subnucleuses
+subocean
 suboceanic
 suboptic
 suboptimization
@@ -127182,6 +127209,7 @@ subtask
 subtasks
 subtaxa
 subtaxon
+subteen
 subteens
 subtemperate
 subtenancies
@@ -128416,6 +128444,7 @@ superwides
 superwoman
 superwomen
 supes
+supinate
 supinated
 supinating
 supinator
@@ -132899,6 +132928,7 @@ thundery
 thunk
 thunked
 thunking
+thunks
 thurible
 thuribles
 thurifer
@@ -135488,6 +135518,7 @@ tribals
 tribasic
 tribe
 tribesman
+tribesmen
 tribespeople
 triboelectric
 tribological
@@ -139068,6 +139099,7 @@ unfamiliarly
 unfamous
 unfancy
 unfashionable
+unfashionably
 unfasten
 unfastened
 unfastening
@@ -141986,6 +142018,7 @@ vaporetti
 vaporetto
 vaporettos
 vaporific
+vaporing
 vaporings
 vaporise
 vaporised
@@ -145821,6 +145854,7 @@ whizzes
 whizzier
 whizziest
 whizzing
+whizzy
 who
 whoa
 whodunit
@@ -146131,6 +146165,7 @@ wills
 willy
 willyard
 willyart
+willying
 willywaw
 willywaws
 wilt
