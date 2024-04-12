@@ -1174,6 +1174,7 @@ adjacency
 adjacent
 adjectival
 adjectivally
+adjectively
 adjectives
 adjoin
 adjoined
@@ -5281,6 +5282,7 @@ antiroyalist
 antiroyalists
 antirrhinum
 antirrhinums
+antirust
 antirusts
 antis
 antisag
@@ -7130,6 +7132,7 @@ assails
 assais
 assassin
 assassinate
+assassinated
 assassinations
 assassinator
 assassinators
@@ -14403,6 +14406,7 @@ borohydrides
 boron
 boronic
 borons
+borosilicate
 borosilicates
 borough
 boroughs
@@ -19206,6 +19210,7 @@ catamount
 catamounts
 cataphora
 cataphoreses
+cataphoresis
 cataphoretic
 cataphoric
 cataphyll
@@ -21475,6 +21480,7 @@ choicest
 choirboy
 choired
 choirgirl
+choirgirls
 choiring
 choirmasters
 choirs
@@ -24180,6 +24186,7 @@ collarbone
 collarbones
 collared
 collaret
+collarets
 collarless
 collars
 collate
@@ -25986,6 +25993,7 @@ conjuror
 conjurors
 conk
 conker
+conkers
 conking
 conks
 conky
@@ -29646,6 +29654,7 @@ crystallized
 crystallizer
 crystallizers
 crystallizes
+crystallizing
 crystallography
 crystalloid
 crystalloidal
@@ -41100,6 +41109,7 @@ enactable
 enacted
 enacting
 enactive
+enactment
 enactments
 enactor
 enactors
@@ -42299,6 +42309,7 @@ enwound
 enwrapping
 enwraps
 enwreathe
+enwreathed
 enwreathes
 enwreathing
 enzootic
@@ -44058,6 +44069,7 @@ exasperate
 exasperated
 exasperatedly
 exasperates
+exasperating
 exasperatingly
 exasperation
 exasperations
@@ -45994,6 +46006,7 @@ fashed
 fashes
 fashing
 fashionability
+fashionable
 fashionableness
 fashionables
 fashioned
@@ -47445,6 +47458,7 @@ finked
 finking
 finks
 finless
+finlike
 finmark
 finmarks
 finned
@@ -51006,6 +51020,7 @@ funkia
 funkier
 funkiest
 funkiness
+funkinesses
 funking
 funks
 funnel
@@ -51670,6 +51685,7 @@ gametangium
 gamete
 gametes
 gametic
+gametocyte
 gametocytes
 gametogeneses
 gametogenesis
@@ -52013,6 +52029,7 @@ gassier
 gassiest
 gassily
 gassiness
+gassinesses
 gassings
 gassy
 gast
@@ -54240,6 +54257,7 @@ gorgeously
 gorgeousness
 gorgeousnesses
 gorger
+gorgerins
 gorgers
 gorges
 gorget
@@ -59235,6 +59253,7 @@ hogmanes
 hogmenay
 hogmenays
 hognose
+hognoses
 hognut
 hogs
 hogshead
@@ -72939,6 +72958,7 @@ lock
 lockages
 lockbox
 lockboxes
+lockdown
 lockdowns
 locked
 locker
@@ -74738,6 +74758,7 @@ malapropisms
 malapropist
 malapropists
 malapropos
+malaprops
 malar
 malaria
 malarial
@@ -83514,6 +83535,7 @@ neuropsychology
 neuropteran
 neuropterans
 neuropterous
+neurosal
 neuroscience
 neurosciences
 neuroscientific
@@ -84458,6 +84480,7 @@ noncommunist
 noncommunity
 noncommutative
 noncomparable
+noncompatible
 noncompetition
 noncompetitive
 noncompetitor
@@ -94992,6 +95015,7 @@ phentolamines
 phenyl
 phenylalanine
 phenylalanines
+phenylbutazones
 phenylene
 phenylenes
 phenylephrines
@@ -96766,6 +96790,7 @@ plangent
 plangently
 planimeter
 planimeters
+planing
 planish
 planished
 planisher
@@ -98596,6 +98621,7 @@ post
 postabortion
 postaccident
 postadolescent
+postage
 postages
 postally
 postals
@@ -101787,6 +101813,7 @@ propositional
 propositioned
 propositioning
 propositions
+propositus
 propound
 propounded
 propounder
@@ -103346,6 +103373,7 @@ pycnidial
 pycnidium
 pycnogonids
 pycnometer
+pycnometers
 pycnoses
 pycnosis
 pycnotic
@@ -105632,6 +105660,7 @@ reassignment
 reassignments
 reassigns
 reassort
+reassorted
 reassorts
 reassume
 reassumed
@@ -118677,6 +118706,7 @@ sighlike
 sighs
 sight
 sighted
+sighter
 sighting
 sightings
 sightless
@@ -125447,6 +125477,7 @@ stressful
 stressfully
 stressless
 stresslessness
+stressor
 stressors
 stretchability
 stretchable
@@ -126054,6 +126085,7 @@ subclause
 subclauses
 subclavian
 subclavians
+subclerk
 subclerks
 subclimax
 subclinical
@@ -134548,6 +134580,7 @@ transpontine
 transportable
 transportation
 transported
+transporter
 transporting
 transports
 transposable
@@ -138672,6 +138705,7 @@ unfruitfulness
 unfulfillable
 unfulfilled
 unfunded
+unfunny
 unfurl
 unfurled
 unfurls
@@ -140616,6 +140650,7 @@ uprates
 uprating
 upreach
 upreached
+upreaches
 upreaching
 uprear
 upreared
