@@ -1669,6 +1669,7 @@ aerometries
 aerometry
 aeronaut
 aeronautic
+aeronautical
 aeronautically
 aeronautics
 aeronauts
@@ -3045,6 +3046,7 @@ allotetraploidy
 allotment
 allotments
 allotropes
+allotropies
 allotropy
 allotted
 allottee
@@ -9653,6 +9655,7 @@ barbeques
 barbequing
 barber
 barbered
+barbering
 barberries
 barberry
 barbers
@@ -25208,6 +25211,7 @@ composers
 composes
 composing
 composite
+composited
 composites
 compositing
 compositional
@@ -25876,6 +25880,7 @@ confrere
 confreres
 confrontation
 confrontational
+confrontations
 confronted
 confronter
 confronters
@@ -28975,6 +28980,7 @@ crenel
 crenelate
 crenelates
 crenelating
+crenelation
 crenellated
 crenelled
 crenelling
@@ -35675,6 +35681,7 @@ directorate
 directorates
 directorial
 directories
+directors
 directorship
 directorships
 directory
@@ -37563,6 +37570,7 @@ dolcetto
 dolcettos
 dolci
 doldrums
+dole
 doleful
 dolefuller
 dolefullest
@@ -44175,6 +44183,7 @@ exaltation
 exaltations
 exalted
 exaltedly
+exalter
 exalters
 exalting
 exalts
@@ -46537,6 +46546,7 @@ feebs
 feed
 feedable
 feedback
+feedbacks
 feedbag
 feedbags
 feedbox
@@ -47083,6 +47093,7 @@ feyness
 feynesses
 fez
 fezes
+fezzed
 fezzes
 fezzy
 fiacre
@@ -54875,6 +54886,7 @@ granulite
 granulites
 granulitic
 granulocyte
+granulocytes
 granulocytic
 granuloma
 granulomas
@@ -61473,6 +61485,7 @@ hyperrational
 hyperreactive
 hyperreactivity
 hyperreactor
+hyperreactors
 hyperrealism
 hyperrealisms
 hyperrealist
@@ -67604,6 +67617,7 @@ jawing
 jawless
 jawlike
 jawlines
+jaws
 jay
 jaybird
 jaygee
@@ -71425,6 +71439,7 @@ leeriness
 leerinesses
 leering
 leeringly
+leers
 leery
 lees
 leet
@@ -72175,6 +72190,7 @@ lief
 liefest
 liefly
 liege
+liegeman
 liegemen
 lieges
 lien
@@ -78861,6 +78877,7 @@ minivan
 minivans
 miniver
 minivers
+mink
 minke
 minkes
 minks
@@ -86860,6 +86877,7 @@ obviousnesses
 obvolute
 oca
 ocarina
+ocarinas
 ocas
 occasion
 occasional
@@ -90978,6 +90996,7 @@ oversoon
 oversoul
 oversouls
 overspecialize
+overspecialized
 overspeculate
 overspeculated
 overspeculating
@@ -94434,6 +94453,7 @@ perestroikas
 perfect
 perfecta
 perfectas
+perfected
 perfecter
 perfecters
 perfectest
@@ -104519,6 +104539,7 @@ quintic
 quintics
 quintile
 quintiles
+quintillion
 quintillionth
 quintillionths
 quintin
@@ -106546,6 +106567,7 @@ recognition
 recognitions
 recognizable
 recognizably
+recognize
 recognized
 recognizers
 recognizes
@@ -108736,6 +108758,7 @@ relooked
 relooks
 relubricate
 relubricated
+relubricates
 relubrication
 relubrications
 reluct
@@ -109929,6 +109952,7 @@ rescindments
 rescinds
 rescission
 rescore
+rescored
 rescores
 rescoring
 rescreen
@@ -111133,6 +111157,7 @@ reverb
 reverbed
 reverberant
 reverberantly
+reverberate
 reverberated
 reverberates
 reverberating
@@ -113801,6 +113826,7 @@ sallowing
 sallowish
 sallowly
 sallowness
+sallownesses
 sallows
 sallowy
 sally
@@ -116913,6 +116939,7 @@ senator
 senatorian
 send
 sendable
+sendal
 sended
 sender
 senders
@@ -117981,6 +118008,7 @@ sheaf
 sheafed
 sheafing
 sheafs
+sheal
 shealing
 shealings
 sheals
@@ -123892,6 +123920,7 @@ spun
 spunk
 spunked
 spunkie
+spunkier
 spunkiest
 spunkily
 spunkinesses
@@ -132178,6 +132207,7 @@ thematic
 thematically
 theme
 themed
+themes
 theming
 themselves
 then
@@ -132594,6 +132624,7 @@ tholoi
 thonged
 thongs
 thoracal
+thoraces
 thoracic
 thoracically
 thoracotomy
@@ -136283,6 +136314,7 @@ truculent
 truculently
 trudge
 trudged
+trudgen
 trudgens
 trudgeon
 trudgeons
@@ -136520,6 +136552,7 @@ tubocurarine
 tubocurarines
 tubs
 tubular
+tubularly
 tubulate
 tubulates
 tubulating
@@ -139811,6 +139844,7 @@ unmasked
 unmasker
 unmaskers
 unmasking
+unmasks
 unmatchable
 unmated
 unmatted
@@ -143396,6 +143430,7 @@ virtue
 virtues
 virtuosa
 virtuose
+virtuosi
 virtuosity
 virtuoso
 virtuosos
