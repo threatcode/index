@@ -4685,6 +4685,7 @@ ansate
 ansated
 anserines
 answer
+answerable
 answerer
 answerers
 answering
@@ -19610,6 +19611,7 @@ caveators
 caved
 cavefish
 cavefishes
+cavelike
 caveman
 cavemen
 cavendish
@@ -21670,6 +21672,7 @@ chords
 chore
 chorea
 choreal
+choreatic
 chored
 choregi
 choregus
@@ -22882,6 +22885,7 @@ cleverer
 cleverest
 cleverish
 cleverly
+cleverness
 clevernesses
 clevises
 clewed
@@ -28257,6 +28261,7 @@ courants
 courgette
 courgettes
 courier
+couriers
 courlan
 courlans
 course
@@ -29453,6 +29458,7 @@ crowder
 crowders
 crowdie
 crowdies
+crowding
 crowds
 crowdy
 crowed
@@ -36501,6 +36507,7 @@ disorders
 disorganization
 disorganize
 disorganized
+disorganizes
 disorganizing
 disorient
 disorientate
@@ -39252,6 +39259,7 @@ dustbin
 dustbins
 dustcover
 dustcovers
+duster
 dusters
 dustheap
 dustheaps
@@ -41465,6 +41473,7 @@ endarterectomy
 endash
 endbrain
 endbrains
+endeared
 endearing
 endearingly
 endearment
@@ -45301,6 +45310,7 @@ extricating
 extrication
 extrications
 extrinsic
+extrinsically
 extrorse
 extroversion
 extroversions
@@ -49654,6 +49664,7 @@ foreskin
 foreskins
 forespeak
 forespeaking
+forespeaks
 forespoke
 forespoken
 forest
@@ -60316,6 +60327,7 @@ hospitalized
 hospitalizes
 hospitalizing
 hospitals
+hospitia
 hospodar
 hospodars
 hosta
@@ -63409,6 +63421,7 @@ incomes
 incoming
 incomings
 incommensurably
+incommensurate
 incommode
 incommoded
 incommodes
@@ -67932,6 +67945,7 @@ jivers
 jives
 jivey
 jivier
+jiviest
 jivy
 jnana
 jnanas
@@ -71485,6 +71499,7 @@ legion
 legionaries
 legionary
 legionnaire
+legionnaires
 legions
 legislate
 legislated
@@ -71497,6 +71512,7 @@ legislatorial
 legislators
 legislatorship
 legislatorships
+legislature
 legislatures
 legist
 legists
@@ -74927,6 +74943,7 @@ majoritarians
 majority
 majorly
 majuscular
+majuscule
 majuscules
 makable
 makar
@@ -83092,6 +83109,7 @@ naughtiest
 naughtily
 naughtinesses
 naughts
+naughty
 naumachiae
 naumachias
 naumachies
@@ -85370,6 +85388,7 @@ nonparallel
 nonpareil
 nonpareils
 nonparent
+nonparents
 nonparities
 nonparticipant
 nonparticipants
@@ -85984,6 +86003,7 @@ noticeably
 noticed
 noticer
 noticers
+notices
 noticing
 notifiable
 notification
@@ -87372,6 +87392,7 @@ oligomers
 oligophagous
 oligophagy
 oligopolies
+oligopoly
 oligopsonies
 oligopsony
 oligosaccharide
@@ -88171,6 +88192,7 @@ orienter
 orienters
 orienting
 orients
+orifice
 orifices
 oriflamme
 oriflammes
@@ -92726,6 +92748,7 @@ parklands
 parks
 parkway
 parkways
+parlance
 parlances
 parlando
 parlay
@@ -96670,6 +96693,7 @@ pipestones
 pipet
 pipets
 pipette
+pipetted
 pipettes
 pipiness
 pipinesses
@@ -99983,6 +100007,7 @@ predicatively
 predicatory
 predict
 predictable
+predictably
 predicted
 predicting
 prediction
@@ -101309,6 +101334,7 @@ prinkers
 prinks
 print
 printabilities
+printability
 printable
 printed
 printeries
@@ -124813,6 +124839,7 @@ stemma
 stemmas
 stemmata
 stemmatic
+stemmed
 stemmeries
 stemmers
 stemmery
@@ -125215,6 +125242,7 @@ stinkiest
 stinking
 stinko
 stinkpot
+stinkpots
 stinks
 stinkweed
 stinkweeds
@@ -126790,6 +126818,7 @@ sublimations
 sublimed
 sublimely
 sublimeness
+sublimenesses
 sublimer
 sublimers
 sublimes
@@ -128043,6 +128072,7 @@ superfluity
 superfluously
 superfluousness
 superfund
+superfunds
 supergene
 supergenes
 supergiant
@@ -128553,6 +128583,7 @@ surfacing
 surfactants
 surfbird
 surfbirds
+surfboarded
 surfboarder
 surfboarding
 surfboards
@@ -130993,6 +131024,7 @@ teenybop
 teenybopper
 teenyboppers
 teepee
+teepees
 tees
 teeterboard
 teeterboards
@@ -139453,6 +139485,7 @@ unintentionally
 uninterest
 uninterested
 uninteresting
+uninterests
 uninterruptedly
 unintimidated
 uninucleate
@@ -140994,6 +141027,7 @@ upgird
 upgirded
 upgirding
 upgirds
+upgirt
 upgoing
 upgradabilities
 upgradability
@@ -147869,6 +147903,7 @@ yuletide
 yuletides
 yum
 yummier
+yummies
 yummiest
 yumminess
 yumminesses
