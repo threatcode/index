@@ -18,3 +18,8 @@ wordlist-d.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzz
 wordlist-c.txt - FTP Directory Listing,ftp://ftp.cs.princeton.edu/pub/cs226/puzzle/wordlist-c.txt
 wordlist - Web Hosting at UMass Amherst,https://people.umass.edu/sharris/in/e491ds/texts/wordlist.txt
 titlewords.txt - Apache's svn,https://svn.apache.org/repos/asf/jena/Experimental/JenaPerf/trunk/Benchmarks/BSBM/titlewords.txt
+http://www.seattlescrabble.org/data/ThemeLists/fir...,http://www.seattlescrabble.org/data/ThemeLists/fire.txt
+The dictionary,https://users.cs.fiu.edu/~weiss/cop4338_spr02/assignments/dict.txt
+Dictionary,https://www.eecis.udel.edu/~lliao/cis320f05/dictionary.txt
+A journey in other worlds A romance of the future - Project Gutenberg,https://gutenberg.ibiblio.org/files/1607/1607.txt
+here - MIT Mystery Hunt,https://puzzles.mit.edu/2022/puzzle/loves-labors-crossed/s__puzzle/twl06.txt
