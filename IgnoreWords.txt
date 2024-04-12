@@ -243,6 +243,7 @@ abuttals
 abutted
 abutter
 abutters
+abutting
 abuzz
 abvolt
 abvolts
@@ -847,6 +848,7 @@ acromial
 acromion
 acronic
 acronical
+acronycal
 acronym
 acronymic
 acronyms
@@ -1379,6 +1381,7 @@ adroiter
 adroitly
 adroitness
 adroitnesses
+ads
 adscript
 adscripts
 adsorb
@@ -4695,6 +4698,7 @@ antecedents
 antecedes
 anteceding
 antecessor
+antecessors
 antechamber
 antechambers
 antechapel
@@ -9346,6 +9350,7 @@ bamboozling
 bamming
 bams
 ban
+banal
 banalities
 banality
 banalize
@@ -15407,6 +15412,7 @@ brightener
 brighteners
 brightening
 brightens
+brighter
 brightest
 brightish
 brightly
@@ -17094,6 +17100,7 @@ caconymy
 cacophonies
 cacophonous
 cacti
+cactoid
 cactus
 cactuses
 cacuminal
@@ -19214,6 +19221,7 @@ catbirds
 catbrier
 catbriers
 catcalled
+catcaller
 catcallers
 catcalling
 catcalls
@@ -22678,6 +22686,7 @@ cleansing
 cleanup
 cleanups
 clear
+clearable
 clearance
 clearances
 clearcut
@@ -25736,6 +25745,7 @@ conformably
 conformal
 conformation
 conformational
+conformations
 conformer
 conformers
 conforming
@@ -38433,6 +38443,7 @@ drippy
 drips
 dripstone
 dripstones
+dript
 drivabilities
 drivability
 drivable
@@ -39655,6 +39666,7 @@ ecoterrorisms
 ecoterrorists
 ecotonal
 ecotour
+ecotourism
 ecotourisms
 ecotourists
 ecotours
@@ -49080,6 +49092,7 @@ footgear
 footgears
 foothills
 foothold
+footie
 footies
 footing
 footings
@@ -50707,6 +50720,7 @@ fuddle
 fuddled
 fuddles
 fuddling
+fuddy
 fudge
 fudged
 fudges
@@ -51332,6 +51346,7 @@ gainsayer
 gainsayers
 gainsaying
 gainst
+gait
 gaited
 gaiter
 gaiters
@@ -55517,6 +55532,7 @@ guanidine
 guanidines
 guanidins
 guanin
+guanines
 guanins
 guano
 guanos
@@ -58902,6 +58918,7 @@ hips
 hipshot
 hipsterisms
 hipsters
+hiragana
 hiraganas
 hircine
 hire
@@ -69572,6 +69589,7 @@ kryolites
 kryolith
 kryoliths
 kryptons
+kuchen
 kuchens
 kudo
 kudos
@@ -71492,6 +71510,7 @@ leukomas
 leukon
 leukopenia
 leukopenias
+leukopenic
 leukoplakia
 leukoplakic
 leukopoieses
@@ -71892,6 +71911,7 @@ ligative
 ligature
 ligatured
 ligatures
+ligaturing
 liger
 ligers
 light
@@ -80622,6 +80642,7 @@ mopboards
 mope
 moped
 mopeds
+moper
 moperies
 mopers
 mopery
@@ -82200,6 +82221,7 @@ myotome
 myotomes
 myotonia
 myotonias
+myotonic
 myriad
 myriapod
 myriapods
@@ -83390,6 +83412,7 @@ neurohumoral
 neurohumors
 neurohypophyses
 neurohypophysis
+neuroid
 neuroleptic
 neuroleptics
 neurologic
@@ -90752,6 +90775,7 @@ overwearied
 overwearies
 overwearing
 overwears
+overweened
 overweening
 overweeningly
 overweens
@@ -91891,6 +91915,7 @@ papule
 papules
 papulose
 papyral
+papyrian
 papyrologies
 papyrologist
 papyrologists
@@ -95199,6 +95224,7 @@ photoemissive
 photoengrave
 photoengraved
 photoengraver
+photoengraves
 photoengraving
 photoengravings
 photoexcited
@@ -99481,6 +99507,7 @@ prededucts
 predefine
 predefined
 predefines
+predelivery
 predella
 predellas
 predeparture
@@ -102894,6 +102921,7 @@ puny
 pupae
 pupal
 puparia
+puparial
 puparium
 pupas
 pupate
@@ -103343,6 +103371,7 @@ pyrogallol
 pyrogallols
 pyrogen
 pyrogenic
+pyrogenicities
 pyrogenicity
 pyrogens
 pyrola
@@ -138317,6 +138346,7 @@ unempirical
 unemployability
 unemployable
 unemployables
+unemployed
 unemployment
 unemployments
 unenchanted
@@ -140803,6 +140833,7 @@ urinometer
 urinometers
 urinose
 urn
+urnlike
 urns
 urochord
 urochordate
@@ -143671,6 +143702,7 @@ wamefous
 wameful
 wamefuls
 wames
+wammuses
 wampish
 wampishes
 wampishing
@@ -144194,6 +144226,7 @@ waviness
 waving
 wavy
 waw
+wawl
 wawled
 wawling
 wawls
@@ -145976,6 +146009,7 @@ wolfsbane
 wollastonite
 wollastonites
 wolver
+wolves
 womaned
 womanhood
 womanhoods
@@ -147024,6 +147058,7 @@ yeuked
 yeuks
 yew
 yews
+yid
 yids
 yield
 yieldable
