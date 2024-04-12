@@ -1863,6 +1863,7 @@ aficionados
 afield
 afire
 aflame
+aflatoxin
 aflatoxins
 aflutter
 aforementioned
@@ -2721,6 +2722,7 @@ algorithms
 algum
 algums
 alias
+aliases
 aliasing
 aliasings
 alibied
@@ -7804,6 +7806,7 @@ auburn
 auburns
 auction
 auctioned
+auctioneer
 auctioneers
 auctions
 auctorial
@@ -8401,6 +8404,7 @@ avirulent
 aviso
 avisos
 avitaminoses
+avitaminosis
 avo
 avocado
 avocadoes
@@ -8682,6 +8686,7 @@ babiest
 babirusa
 babirusas
 babirussas
+babka
 babkas
 baboo
 babool
@@ -9310,6 +9315,7 @@ ballroom
 ballrooms
 balls
 ballsiest
+ballsy
 ballute
 ballutes
 bally
@@ -11724,6 +11730,7 @@ bevelers
 beveling
 bevelled
 bevellers
+bevelling
 bevels
 beverage
 beverages
@@ -12960,6 +12967,7 @@ blah
 blain
 blains
 blam
+blamably
 blame
 blameable
 blamed
@@ -21179,6 +21187,7 @@ chilling
 chillingly
 chillis
 chillness
+chillnesses
 chills
 chillum
 chillums
@@ -28041,6 +28050,7 @@ counterpoise
 counterpoised
 counterpoising
 counterpose
+counterposed
 counterposes
 counterposing
 counterpower
@@ -31305,6 +31315,7 @@ daydreamers
 daydreaming
 daydreams
 daydreamt
+daydreamy
 dayflies
 dayfly
 dayglow
@@ -37939,6 +37950,7 @@ dourer
 dourest
 dourine
 dourines
+dourly
 dourness
 dournesses
 douse
@@ -41973,6 +41985,7 @@ ensnarl
 ensnarled
 ensnarling
 ensnarls
+ensorcel
 ensorceling
 ensorcell
 ensorcelled
@@ -45326,6 +45339,7 @@ eyne
 eyra
 eyras
 eyre
+eyres
 eyrie
 eyries
 eyrir
@@ -46871,6 +46885,7 @@ fettuccini
 fettucine
 fettucini
 fetus
+fetuses
 feuars
 feud
 feudal
@@ -51581,6 +51596,7 @@ galloper
 gallopers
 galloping
 gallous
+gallowglass
 gallowglasses
 gallows
 galls
@@ -54906,6 +54922,7 @@ grazier
 grazing
 grazingly
 grazings
+grazioso
 grease
 greaseball
 greaseballs
@@ -62447,6 +62464,7 @@ impecuniosities
 impecuniosity
 impecunious
 impecuniously
+impecuniousness
 imped
 impedances
 impede
@@ -66954,6 +66972,7 @@ istles
 it
 italianate
 italianated
+italianates
 italianating
 italianise
 italianises
@@ -69736,6 +69755,7 @@ kussos
 kuvasz
 kvas
 kvases
+kvass
 kvasses
 kvell
 kvelled
@@ -70424,6 +70444,7 @@ laparoscope
 laparoscopes
 laparoscopies
 laparoscopy
+laparotomies
 laparotomy
 lapboard
 lapboards
@@ -74971,6 +74992,7 @@ mammillary
 mammillated
 mammitides
 mammitis
+mammock
 mammocked
 mammocking
 mammocks
@@ -89875,6 +89897,7 @@ overdevelops
 overdid
 overdirecting
 overdirects
+overdiscount
 overdiscounted
 overdiscounting
 overdiscounts
@@ -97291,6 +97314,7 @@ pliofilms
 pliotron
 pliskie
 pliskies
+plisse
 plisses
 plodded
 plodder
@@ -97972,6 +97996,7 @@ polychromed
 polychromes
 polychromies
 polychromy
+polycistronic
 polyclinics
 polycot
 polycrystal
@@ -100383,6 +100408,7 @@ prescinded
 prescinding
 prescinds
 prescored
+prescores
 prescoring
 prescreen
 prescreening
@@ -110432,6 +110458,7 @@ retiringnesses
 retitle
 retitles
 retitling
+retold
 retook
 retool
 retooled
@@ -112969,6 +112996,7 @@ saber
 sabered
 sabering
 saberlike
+sabermetrician
 sabermetricians
 sabers
 sabin
@@ -119504,6 +119532,7 @@ skidways
 skier
 skiers
 skiff
+skiffled
 skiffless
 skiffling
 skiffs
@@ -123374,6 +123403,7 @@ springboards
 springbok
 springboks
 springe
+springeing
 springer
 springers
 springes
@@ -128846,6 +128876,7 @@ sword
 swordfishes
 swordlike
 swordman
+swordmen
 swordplayer
 swords
 swordsman
@@ -131988,6 +132019,7 @@ thieveries
 thievery
 thieves
 thievish
+thievishly
 thievishnesses
 thigh
 thighbone
@@ -132353,6 +132385,7 @@ throne
 throned
 thrones
 throng
+thronged
 throning
 throstle
 throstles
@@ -144152,6 +144185,7 @@ waspier
 waspiest
 waspiness
 waspinesses
+waspish
 waspishly
 waspishness
 waspishnesses
@@ -145534,6 +145568,7 @@ wifing
 wiftier
 wiftiest
 wifty
+wig
 wigan
 wigans
 wigeon
