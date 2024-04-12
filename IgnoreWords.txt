@@ -7580,6 +7580,7 @@ atomical
 atomicities
 atomics
 atomies
+atomised
 atomiser
 atomises
 atomising
@@ -15557,6 +15558,7 @@ brislings
 briss
 brisses
 bristle
+bristled
 bristlelike
 bristles
 bristletail
@@ -16233,6 +16235,7 @@ bulimics
 bulk
 bulkage
 bulked
+bulkier
 bulkiest
 bulkily
 bulkiness
@@ -31392,6 +31395,7 @@ dayrooms
 days
 daysides
 daysman
+daysmen
 dayspring
 daysprings
 daystar
@@ -32347,6 +32351,7 @@ deferments
 deferrable
 deferred
 deferrer
+deferrers
 defers
 defervescence
 defervescences
@@ -32923,6 +32928,7 @@ demagnetizer
 demagnetizers
 demagnetizes
 demagog
+demagoged
 demagogic
 demagogically
 demagogies
@@ -38603,6 +38609,7 @@ drizzle
 drizzled
 drizzles
 drizzlier
+drizzliest
 drizzling
 drizzlingly
 drizzly
@@ -41880,6 +41887,7 @@ enlightening
 enlightenment
 enlightenments
 enlightens
+enlist
 enlisted
 enlistee
 enlistees
@@ -51499,6 +51507,7 @@ gage
 gaged
 gager
 gagers
+gagged
 gagger
 gaggers
 gagging
@@ -56784,6 +56793,7 @@ halyards
 ham
 hamada
 hamadas
+hamadryad
 hamadryads
 hamadryases
 hamal
@@ -59703,6 +59713,7 @@ hominizes
 hominoid
 hominoids
 hominy
+hommocks
 hommos
 hommoses
 homocercal
@@ -71440,6 +71451,7 @@ leghorns
 legibilities
 legible
 legion
+legionaries
 legionary
 legionnaire
 legions
@@ -81756,6 +81768,7 @@ multiauthor
 multiaxial
 multiband
 multibank
+multibarrel
 multibarreled
 multibillion
 multibranched
@@ -84186,6 +84199,7 @@ ninths
 niobate
 niobic
 niobite
+niobites
 niobium
 niobous
 nipa
@@ -88417,6 +88431,7 @@ osteoblast
 osteoblastic
 osteoclasts
 osteocyte
+osteocytes
 osteogeneses
 osteogenic
 osteoid
@@ -95575,6 +95590,7 @@ photoflashes
 photoflood
 photog
 photogene
+photogenically
 photogeologic
 photogeological
 photogeologies
@@ -97655,6 +97671,7 @@ plumy
 plunder
 plundered
 plundering
+plunderous
 plunders
 plunge
 plunged
@@ -100327,6 +100344,7 @@ premises
 premising
 premiss
 premisses
+premium
 premix
 premixing
 premodification
@@ -105298,6 +105316,7 @@ rashest
 rashlike
 rashly
 rashness
+rashnesses
 rasing
 rasorial
 rasp
@@ -108827,6 +108846,7 @@ remolding
 remolds
 remonetization
 remonetizations
+remonetize
 remonetized
 remonetizes
 remonetizing
@@ -110073,6 +110093,7 @@ resittings
 resituate
 resituated
 resituates
+resituating
 resize
 resized
 resizes
@@ -110205,6 +110226,7 @@ respelt
 respirable
 respiration
 respirations
+respirator
 respirators
 respiratory
 respired
@@ -115179,6 +115201,7 @@ sciaticas
 sciatics
 sciences
 sciential
+scientific
 scientism
 scientisms
 scientists
@@ -118055,6 +118078,7 @@ shetlands
 sheuch
 sheuchs
 sheugh
+shew
 shewbread
 shewbreads
 shewed
@@ -120677,6 +120701,7 @@ smarmy
 smart
 smartass
 smartasses
+smarted
 smarten
 smartened
 smartening
@@ -124324,6 +124349,7 @@ stannic
 stannite
 stannites
 stannum
+stannums
 stanol
 stanols
 stanza
@@ -126178,6 +126204,7 @@ stunted
 stuntedness
 stuntednesses
 stunting
+stunts
 stuntwoman
 stuntwomen
 stupa
@@ -126699,6 +126726,7 @@ sublimating
 sublimation
 sublimations
 sublimed
+sublimely
 sublimeness
 sublimer
 sublimers
@@ -129845,6 +129873,7 @@ taeniae
 taenias
 taeniases
 taeniasis
+taffarel
 tafferel
 tafferels
 taffeta
@@ -132852,6 +132881,7 @@ thyroxins
 thyrse
 thyrses
 thyrsi
+thyrsoid
 thyrsus
 thysanuran
 thysanurans
@@ -134975,6 +135005,7 @@ transversely
 transverses
 transvestism
 transvestisms
+transvestite
 transvestites
 trap
 trapan
@@ -136138,6 +136169,7 @@ trued
 truehearted
 trueheartedness
 trueing
+trueloves
 trueness
 truepenny
 truer
@@ -142987,6 +143019,7 @@ vigorous
 vigorously
 vigorousness
 vigorousnesses
+vigors
 vigour
 vigours
 vigs
@@ -143709,6 +143742,7 @@ vomerine
 vomica
 vomicae
 vomit
+vomited
 vomiter
 vomitive
 vomitory
@@ -147417,6 +147451,7 @@ yatter
 yattered
 yattering
 yatters
+yaud
 yauld
 yaup
 yauped
