@@ -393,6 +393,7 @@ accidences
 accident
 accidental
 accidentalness
+accidentals
 accidently
 accidents
 accidia
@@ -3228,6 +3229,7 @@ alter
 alterabilities
 alterability
 alterable
+alterably
 alterant
 alterants
 alteration
@@ -4145,6 +4147,7 @@ anchovy
 anchusa
 anchusas
 anchusin
+anchusins
 anchylose
 anchylosed
 anchyloses
@@ -6055,6 +6058,7 @@ apraxia
 apraxias
 apraxic
 apres
+apricot
 apricots
 apriority
 apron
@@ -12344,6 +12348,7 @@ binocs
 binocularities
 binocularity
 binocularly
+binoculars
 binomial
 binomially
 bins
@@ -19760,6 +19765,7 @@ celibate
 celibates
 cell
 cella
+cellae
 cellarage
 cellarages
 cellared
@@ -20549,6 +20555,7 @@ charcoaly
 charcuterie
 charcuteries
 chard
+chardonnay
 chards
 chare
 chared
@@ -25891,6 +25898,7 @@ congealing
 congealment
 congeals
 congee
+congeeing
 congees
 congener
 congeneric
@@ -39404,6 +39412,7 @@ dysgeneses
 dysgenics
 dyskinesia
 dyskinesias
+dyskinetic
 dyslectics
 dyslexia
 dyslexias
@@ -39527,6 +39536,7 @@ earnests
 earning
 earnings
 earns
+earphone
 earpiece
 earpieces
 earplug
@@ -44851,6 +44861,7 @@ expirers
 expiring
 explain
 explained
+explainers
 explaining
 explains
 explanation
@@ -48005,6 +48016,7 @@ flakier
 flakiest
 flakily
 flakiness
+flakinesses
 flaking
 flam
 flambe
@@ -48563,6 +48575,7 @@ flongs
 flood
 floodable
 flooded
+flooder
 flooders
 floodgate
 floodgates
@@ -57309,6 +57322,7 @@ harmonises
 harmonising
 harmonist
 harmonists
+harmonium
 harmoniums
 harmonizations
 harmonize
@@ -61799,6 +61813,7 @@ iconic
 iconical
 iconically
 iconicities
+iconicity
 iconoclasm
 iconoclasms
 iconoclastic
@@ -63021,6 +63036,7 @@ impudences
 impudencies
 impudency
 impudent
+impudently
 impudicities
 impudicity
 impugned
@@ -72672,6 +72688,7 @@ lipotropy
 lipped
 lippen
 lippened
+lippening
 lippens
 lipper
 lippered
@@ -84590,6 +84607,7 @@ nonattendances
 nonattender
 nonattenders
 nonauthor
+nonauthors
 nonautomated
 nonautomatic
 nonautomotive
@@ -86762,6 +86780,7 @@ obtruders
 obtrudes
 obtruding
 obtrusion
+obtrusions
 obtrusive
 obtrusively
 obtrusiveness
@@ -87354,6 +87373,7 @@ oligophagous
 oligophagy
 oligopolies
 oligopsonies
+oligopsony
 oligosaccharide
 oligotrophic
 oliguria
@@ -88648,6 +88668,7 @@ outbegging
 outbegs
 outbid
 outbidder
+outbidders
 outbidding
 outbids
 outbitched
@@ -88731,6 +88752,7 @@ outby
 outbye
 outcall
 outcalls
+outcapered
 outcapers
 outcast
 outcaste
@@ -89653,6 +89675,7 @@ outthanks
 outthieve
 outthieved
 outthieves
+outthieving
 outthinking
 outthought
 outthrew
@@ -90418,6 +90441,7 @@ overhonors
 overhope
 overhoped
 overhopes
+overhoping
 overhot
 overhung
 overhunt
@@ -93191,6 +93215,7 @@ pathetical
 pathetically
 pathfinder
 pathfinders
+pathfindings
 pathlessnesses
 pathobiology
 pathogen
@@ -106481,6 +106506,7 @@ recoiling
 recoils
 recoin
 recoinage
+recoinages
 recoined
 recoining
 recoins
@@ -107552,6 +107578,7 @@ refind
 refinding
 refinds
 refine
+refined
 refinements
 refineries
 refiners
@@ -113426,6 +113453,7 @@ saddens
 saddest
 saddhu
 saddhus
+saddle
 saddlebag
 saddlebags
 saddlebred
@@ -119282,6 +119310,7 @@ silverers
 silverfish
 silveriness
 silverinesses
+silvering
 silverings
 silverly
 silvern
@@ -119407,6 +119436,7 @@ simultaneous
 simultaneously
 sin
 sinapism
+since
 sincerely
 sincereness
 sincerenesses
@@ -124981,6 +125011,7 @@ steroidogeneses
 steroidogenesis
 steroidogenic
 steroids
+sterol
 stertor
 stertorous
 stertors
@@ -127746,6 +127777,7 @@ sunburnt
 sunchoke
 sunchokes
 sundae
+sundaes
 sundecks
 sunder
 sunderer
@@ -130230,6 +130262,7 @@ tan
 tanager
 tanagers
 tanbark
+tanbarks
 tandem
 tandems
 tandoor
@@ -130747,6 +130780,7 @@ tchotchke
 tea
 teaberries
 teaboard
+teabowl
 teabox
 teaboxes
 teacake
@@ -147138,6 +147172,7 @@ wring
 wringers
 wringing
 wrings
+wrinkle
 wrinkled
 wrinkles
 wrinklier
