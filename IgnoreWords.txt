@@ -3657,6 +3657,7 @@ amnestying
 amnia
 amnic
 amnio
+amniocenteses
 amniocentesis
 amnion
 amnionic
@@ -4900,6 +4901,7 @@ anticks
 anticlerical
 anticlericals
 anticlimactical
+anticlimax
 anticlimaxes
 anticlinal
 anticlines
@@ -7333,6 +7335,7 @@ astheny
 asthma
 asthmas
 asthmatic
+asthmatically
 asthmatics
 astigmatic
 astigmatics
@@ -11097,6 +11100,7 @@ belling
 bellings
 bellman
 bellmen
+bellow
 bellowed
 bellower
 bellowers
@@ -13782,6 +13786,7 @@ bodies
 bodily
 boding
 bodingly
+bodings
 bodkin
 bodkins
 bods
@@ -27363,6 +27368,7 @@ corporately
 corporates
 corporations
 corporatist
+corporative
 corporativism
 corporativisms
 corporator
@@ -31086,6 +31092,7 @@ darklings
 darkly
 darkness
 darknesses
+darkroom
 darkrooms
 darksome
 darky
@@ -38436,6 +38443,7 @@ drinks
 dripless
 dripped
 dripper
+drippers
 drippier
 drippily
 drippings
@@ -39018,6 +39026,7 @@ dup
 dupable
 dupe
 duped
+duper
 duperies
 dupers
 dupery
@@ -40092,6 +40101,7 @@ eiswein
 eisweins
 ejaculate
 ejaculates
+ejaculation
 ejaculations
 ejaculator
 ejaculators
@@ -41305,6 +41315,7 @@ endbrains
 endearing
 endearingly
 endearment
+endearments
 endears
 endeavor
 endeavored
@@ -44171,6 +44182,7 @@ excoriated
 excoriates
 excoriation
 excoriations
+excrement
 excremental
 excrementitious
 excrescence
@@ -44591,6 +44603,7 @@ expediencies
 expediency
 expedient
 expediential
+expediently
 expedite
 expediter
 expediters
@@ -46355,6 +46368,7 @@ feezed
 feezes
 feezing
 feh
+feign
 feigned
 feignedly
 feigner
@@ -48112,6 +48126,7 @@ fleech
 fleeched
 fleeches
 fleeching
+fleecier
 fleecily
 fleecing
 fleecy
@@ -60895,6 +60910,7 @@ hydrospace
 hydrosphere
 hydrospheres
 hydrostat
+hydrostatically
 hydrostatics
 hydrostats
 hydrotherapies
@@ -61438,6 +61454,7 @@ hypoxic
 hyps
 hypsometer
 hypsometers
+hyracoid
 hyracoids
 hyrax
 hyssop
@@ -63080,6 +63097,7 @@ inciting
 incivil
 incivilities
 incivility
+inclasp
 inclasped
 inclasps
 inclemency
@@ -66654,6 +66672,7 @@ isling
 ism
 isms
 isoalloxazine
+isoalloxazines
 isoantibodies
 isoantibody
 isoantigen
@@ -67471,6 +67490,7 @@ jettier
 jettiest
 jetting
 jettison
+jettisonable
 jettisoned
 jettisoning
 jettisons
@@ -67783,6 +67803,7 @@ jones
 joneses
 jonesing
 jongleur
+jongleurs
 jonnycake
 jonnycakes
 jonquil
@@ -77975,6 +77996,7 @@ midterm
 midterms
 midtown
 midtowns
+midwatch
 midwatches
 midway
 midweek
@@ -89255,6 +89277,7 @@ outstudied
 outstudies
 outstudy
 outstudying
+outstunt
 outstunted
 outsulked
 outsulking
@@ -92046,6 +92069,7 @@ paralytic
 paralytically
 paralytics
 paralyzations
+paralyze
 paralyzed
 paralyzer
 paralyzers
@@ -94094,6 +94118,7 @@ peridotite
 peridotitic
 perigeal
 perigean
+perigee
 perigees
 perigon
 perigons
@@ -98402,6 +98427,7 @@ portentous
 portentously
 portentousness
 porter
+porterage
 porterages
 portered
 porteress
@@ -106789,6 +106815,7 @@ reduplicated
 reduplicates
 reduplication
 reduplications
+reduplicative
 reduplicatively
 reduviid
 reduviids
@@ -110444,6 +110471,7 @@ retrogressions
 retrogressive
 retrogressively
 retronym
+retropack
 retropacks
 retroperitoneal
 retroreflective
@@ -123663,6 +123691,7 @@ stagecoach
 stagecoaches
 stagecraft
 stagecrafts
+staged
 stageful
 stagefuls
 stagehand
@@ -126891,6 +126920,7 @@ sues
 suet
 suets
 suety
+suffari
 suffaris
 sufferable
 sufferableness
@@ -127111,6 +127141,7 @@ sulphuring
 sulphurise
 sulphurised
 sulphurising
+sulphurous
 sulphurs
 sultan
 sultana
@@ -133314,6 +133345,7 @@ tonsured
 tonsures
 tonsuring
 tontine
+tontines
 tonus
 tony
 too
@@ -139881,6 +139913,7 @@ unsphered
 unspheres
 unsphering
 unspilled
+unspilt
 unspiritual
 unspoiled
 unspoilt
@@ -142326,6 +142359,7 @@ vicariate
 vicariates
 vicarious
 vicariously
+vicariousness
 vicariousnesses
 vicarly
 vicars
@@ -147055,6 +147089,7 @@ yetis
 yetts
 yeuk
 yeuked
+yeuking
 yeuks
 yew
 yews
