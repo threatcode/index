@@ -7162,6 +7162,7 @@ assayer
 assaying
 assays
 assegaied
+assegais
 assemblage
 assemblages
 assemblagist
@@ -17631,6 +17632,7 @@ calypter
 calyptra
 calyptras
 calyx
+calyxes
 calzone
 calzones
 cam
@@ -30764,6 +30766,7 @@ cytotaxonomy
 cytotechnology
 cytotoxic
 cytotoxicity
+cytotoxin
 cytotoxins
 czardas
 czardases
@@ -41201,6 +41204,7 @@ enamour
 enamoured
 enamours
 enantiomer
+enantiomeric
 enantiomers
 enantiomorph
 enantiomorphic
@@ -41950,6 +41954,7 @@ enrobed
 enrober
 enrobers
 enrobes
+enrol
 enrollee
 enrollees
 enroller
@@ -42483,6 +42488,7 @@ epic
 epicalyces
 epicalyxes
 epicanthi
+epicanthus
 epicardial
 epicarp
 epicarps
@@ -43537,6 +43543,7 @@ ethnobotany
 ethnocentric
 ethnocentricity
 ethnocentrism
+ethnocentrisms
 ethnographer
 ethnographers
 ethnographic
@@ -46762,6 +46769,7 @@ ferrimagnetisms
 ferrite
 ferrites
 ferritin
+ferritins
 ferrocene
 ferrocenes
 ferroconcrete
@@ -53518,6 +53526,7 @@ glibber
 glibbest
 glibly
 glibness
+glibnesses
 glide
 glided
 glidepath
@@ -58032,6 +58041,7 @@ helicoids
 helicon
 heliconia
 heliconias
+helicons
 helicopt
 helicopted
 helicopter
@@ -60047,6 +60057,7 @@ hornblende
 hornblendes
 hornblendic
 hornbook
+hornbooks
 hornedness
 hornednesses
 hornet
@@ -61279,6 +61290,7 @@ hyperkineses
 hyperkinesia
 hyperkinesias
 hyperkinesis
+hyperkinetic
 hyperlink
 hyperlinked
 hyperlinking
@@ -65109,6 +65121,7 @@ insubordination
 insubstantial
 insufferable
 insufferably
+insufficiencies
 insufficient
 insufficiently
 insufflate
@@ -65969,6 +65982,7 @@ intimidated
 intimidating
 intimidatingly
 intimidation
+intimidations
 intimidator
 intimidators
 intimists
@@ -67075,6 +67089,7 @@ itchy
 item
 itemed
 iteming
+itemised
 itemises
 itemising
 itemization
@@ -69287,6 +69302,7 @@ kinsfolk
 kinships
 kinsman
 kinsmen
+kinswoman
 kiosk
 kiosks
 kip
@@ -77713,6 +77729,7 @@ mewled
 mewler
 mewlers
 mews
+mezcal
 mezcals
 meze
 mezereon
@@ -78474,6 +78491,7 @@ millrace
 millraces
 millrun
 millruns
+millstones
 millstream
 millstreams
 millwork
@@ -81080,6 +81098,7 @@ mosaiclike
 mosaics
 mosasaur
 mosasaurs
+moschate
 moschatel
 moschatels
 mosey
@@ -87565,6 +87584,7 @@ operability
 operable
 operably
 operagoer
+operagoers
 operagoing
 operagoings
 operand
@@ -90672,6 +90692,7 @@ overrule
 overruled
 overrules
 overruling
+overrun
 overrunning
 overruns
 overs
@@ -96808,6 +96829,7 @@ placentations
 placer
 placet
 placets
+placid
 placidities
 placidity
 placidly
@@ -97625,6 +97647,7 @@ pluvials
 pluvian
 pluvious
 ply
+plyer
 plyers
 plyingly
 plyometric
@@ -99322,6 +99345,7 @@ pragmatists
 prahu
 prahus
 prairie
+prairies
 praise
 praised
 praiser
@@ -100506,6 +100530,7 @@ prescheduling
 preschool
 preschooler
 preschoolers
+preschools
 prescience
 presciences
 prescient
@@ -100918,6 +100943,7 @@ prewarming
 prewarn
 prewarning
 prewarns
+prewash
 prewashed
 prewashes
 prewashing
@@ -112780,6 +112806,7 @@ rudiments
 rue
 rued
 rueful
+ruefully
 ruefulness
 ruefulnesses
 ruer
@@ -123781,6 +123808,7 @@ squaw
 squawbush
 squawbushes
 squawfish
+squawfishes
 squawker
 squawking
 squawks
@@ -131843,6 +131871,7 @@ thawing
 thawless
 thaws
 the
+thearchies
 thearchy
 theater
 theatergoer
@@ -133616,6 +133645,7 @@ tongmen
 tongs
 tongue
 tongueless
+tonguelike
 tongues
 tonguing
 tonic
@@ -137680,6 +137710,7 @@ unbraids
 unbrake
 unbraked
 unbrakes
+unbranched
 unbreachable
 unbreakable
 unbreathable
@@ -142601,6 +142632,7 @@ vetoing
 vets
 vetted
 vetter
+vetters
 vetting
 vex
 vexation
@@ -142610,6 +142642,7 @@ vexatiousness
 vexatiousnesses
 vexed
 vexedly
+vexedness
 vexednesses
 vexers
 vexes
@@ -146776,6 +146809,7 @@ worry
 worrying
 worrywart
 worrywarts
+worse
 worsen
 worsened
 worsening
@@ -147447,6 +147481,7 @@ yield
 yieldable
 yielded
 yielder
+yielders
 yikes
 yills
 yin
