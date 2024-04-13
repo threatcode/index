@@ -7,3 +7,13 @@ config.sql in trunk/install – piwigo,https://www.piwigo.org/dev/browser/trunk/
 Source of V4__Add_users_and_authorities.sql - ehdsi-cts,https://ec.europa.eu/digital-building-blocks/code/projects/EHSEMANTIC/repos/ehdsi-cts/browse/ehealth-termservice-db/src/main/resources/db/migration/V4__Add_users_and_authorities.sql%3Fat%3D74dc18954aa29ccf41b7d78a648f19167b2934ed
 Source of data_test.sql - Zabbix - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/ui/tests/selenium/data/data_test.sql%3Fat%3D4072a368f7664f89ba66192eb673df715b27edf2
 Source of data_test.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/frontends/php/tests/api_json/data/data_test.sql%3Fat%3D3eeed4bcd4cc8dfeca79ac08d3db9afed9fdf9c0
+message-db/database/functions/get-category-messages.sql at master,https://github.com/message-db/message-db/blob/master/database/functions/get-category-messages.sql
+Create Queue with Activation.sql - GitHub,https://github.com/microsoft/sql-server-samples/blob/master/samples/features/ssms-templates/Sql/Service%2520Broker/Queue/Create%2520Queue%2520with%2520Activation.sql
+Game database model: dbmodel.sql - Board Game Arena,https://en.boardgamearena.com/doc/Game_database_model:_dbmodel.sql
+13.5. create_database.sql JBoss Enterprise SOA Platform 5,https://access.redhat.com/documentation/en-us/jboss_enterprise_soa_platform/5/html/esb_services_guide/create_database.sql
+anon.sql · fd1d5fac5b10c5dd3b524b1babdabba359807617 · dalibo ...,https://gitlab.com/dalibo/postgresql_anonymizer/-/blob/fd1d5fac5b10c5dd3b524b1babdabba359807617/anon.sql
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x86/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/instorcl.sql
+qbicc-rt-java.sql - Maven Central - Sonatype,https://central.sonatype.com/artifact/org.qbicc.rt/qbicc-rt-java.sql
+https://edc.commvault.com/downloads/SQLScripts/Com...,https://edc.commvault.com/downloads/SQLScripts/CommservSurveyQuery_10236.sql
+strandz.sql - Frosty Factory,https://frostyfactory.club/strandz.sql
+src/org/hsqldb/resources/information-schema.sql - Git at Google,https://android.googlesource.com/platform/external/hsqldb/%2B/fe8cd37122dc94d0220b738e0db4867e5dd4488b/src/org/hsqldb/resources/information-schema.sql

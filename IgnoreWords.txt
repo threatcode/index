@@ -928,6 +928,7 @@ actionably
 actioner
 actioners
 actionless
+activate
 activated
 activates
 activating
@@ -5178,6 +5179,7 @@ antinomic
 antinomy
 antinovels
 antinuclear
+antinucleon
 antinucleons
 antinuke
 antinuker
@@ -8290,6 +8292,7 @@ autotoxic
 autotoxins
 autotransformer
 autotransfusion
+autotroph
 autotrophic
 autotrophies
 autotrophs
@@ -11860,6 +11863,7 @@ bezel
 bezels
 bezil
 bezils
+bezique
 bezoar
 bezoars
 bezzant
@@ -12231,6 +12235,7 @@ bilked
 bilker
 bilkers
 bilking
+bilks
 bill
 billable
 billabong
@@ -12932,6 +12937,7 @@ blackbirding
 blackbirds
 blackboard
 blackboards
+blackbodies
 blackbody
 blackboy
 blackboys
@@ -13311,6 +13317,7 @@ blintzes
 blip
 blipped
 blipping
+blips
 bliss
 blissed
 blissful
@@ -15843,6 +15850,7 @@ broomrape
 broomrapes
 brooms
 broomsticks
+broomy
 broos
 bros
 brose
@@ -18540,6 +18548,7 @@ carbonades
 carbonado
 carbonadoes
 carbonadoing
+carbonados
 carbonara
 carbonaras
 carbonate
@@ -24813,6 +24822,7 @@ commendams
 commendation
 commendations
 commendatory
+commenders
 commends
 commensal
 commensalism
@@ -26372,6 +26382,7 @@ constables
 constabularies
 constabulary
 constancies
+constant
 constantan
 constantans
 constantly
@@ -30728,6 +30739,7 @@ cylix
 cyma
 cymae
 cymar
+cymars
 cymatia
 cymatium
 cymbaleer
@@ -30910,6 +30922,7 @@ dabbler
 dabbles
 dabbling
 dabblings
+dabchicks
 dabs
 dabster
 dace
@@ -31087,6 +31100,7 @@ daltonism
 daltonisms
 dam
 damage
+damageabilities
 damageability
 damager
 damagers
@@ -31333,6 +31347,7 @@ dashes
 dashi
 dashier
 dashiest
+dashikis
 dashing
 dashingly
 dashis
@@ -32535,6 +32550,7 @@ deflector
 deflectors
 deflexed
 deflexion
+deflexions
 defloration
 deflorations
 deflowered
@@ -43844,6 +43860,7 @@ eugeosyncline
 eugeosynclines
 euglenas
 euglenid
+euglenids
 euglenoid
 euglenoids
 euglobulin
@@ -45613,6 +45630,7 @@ facedowns
 faceless
 facelessness
 facelessnesses
+facelift
 facelifted
 facelifting
 facemask
@@ -46647,6 +46665,7 @@ feedlots
 feeds
 feedstock
 feedstocks
+feedstuff
 feedyard
 feedyards
 feeing
@@ -47998,6 +48017,7 @@ fitness
 fitnesses
 fits
 fittable
+fitted
 fitter
 fitters
 fittest
@@ -53190,6 +53210,7 @@ gib
 gibbed
 gibber
 gibbered
+gibberellin
 gibberellins
 gibbering
 gibberish
@@ -53769,6 +53790,7 @@ glioma
 gliomata
 glissaded
 glissader
+glissaders
 glissades
 glissandi
 glissando
@@ -56299,6 +56321,7 @@ guttation
 guttations
 gutted
 gutter
+guttered
 guttering
 gutters
 guttersnipe
@@ -58988,6 +59011,7 @@ hexadecimals
 hexades
 hexadic
 hexads
+hexagonal
 hexagonally
 hexagons
 hexagram
@@ -61572,6 +61596,7 @@ hyperphagic
 hyperphysical
 hyperpigmented
 hyperpituitary
+hyperplane
 hyperplanes
 hyperplasia
 hyperplasias
@@ -69829,6 +69854,7 @@ knolling
 knolly
 knop
 knopped
+knops
 knosp
 knosps
 knot
@@ -71419,6 +71445,7 @@ leakily
 leakinesses
 leakless
 leakproof
+leaks
 leaky
 leal
 lealties
@@ -78569,6 +78596,7 @@ mikvos
 mikvot
 mikvoth
 mil
+miladi
 miladies
 miladis
 milady
@@ -87081,6 +87109,7 @@ occurring
 occurs
 ocean
 oceanaria
+oceanarium
 oceanariums
 oceanaut
 oceanauts
@@ -87334,6 +87363,7 @@ offertories
 offertory
 offhand
 offhanded
+offhandedly
 offhandedness
 offhandednesses
 office
@@ -103891,6 +103921,7 @@ putlog
 putlogs
 putoff
 putoffs
+puton
 putonghua
 putonghuas
 putons
@@ -104610,6 +104641,7 @@ quiet
 quieted
 quieten
 quietened
+quietener
 quieteners
 quietening
 quietens
@@ -110511,6 +110543,7 @@ resorcins
 resorptions
 resorptive
 resort
+resorted
 resorter
 resorters
 resorting
@@ -112783,6 +112816,7 @@ ropinesses
 roping
 ropy
 roque
+roquelaures
 roques
 roquet
 roqueted
@@ -114024,6 +114058,7 @@ salivating
 salivation
 salivations
 salivator
+salivators
 sall
 sallet
 sallied
