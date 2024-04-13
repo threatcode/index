@@ -4083,6 +4083,7 @@ anaptyxis
 anarch
 anarchic
 anarchical
+anarchically
 anarchism
 anarchisms
 anarchist
@@ -6275,6 +6276,7 @@ arbutean
 arbutes
 arbutus
 arc
+arcaded
 arcades
 arcadian
 arcadias
@@ -6578,6 +6580,7 @@ aristocracy
 aristocrat
 aristocrats
 aristos
+arithmetic
 arithmetical
 arithmetically
 arithmetician
@@ -6757,6 +6760,7 @@ arrests
 arrhizal
 arrhythmia
 arrises
+arrival
 arrivals
 arrived
 arriver
@@ -8594,6 +8598,7 @@ axiology
 axiom
 axiomatic
 axiomatically
+axiomatisation
 axiomatisations
 axiomatization
 axiomatizations
@@ -10026,6 +10031,7 @@ basest
 bash
 bashaw
 bashes
+bashful
 bashfully
 bashfulness
 bashfulnesses
@@ -12617,6 +12623,7 @@ biotechnologies
 biotechnologist
 biotechnology
 biotechs
+biotelemetric
 biotelemetries
 bioterror
 bioterrors
@@ -17494,6 +17501,7 @@ calciums
 calcspar
 calcspars
 calctufa
+calctufas
 calctuff
 calctuffs
 calculated
@@ -20533,6 +20541,7 @@ channeler
 channelers
 channeling
 channelizations
+channelize
 channelized
 channelizes
 channelizing
@@ -24798,6 +24807,7 @@ comforted
 comforter
 comforting
 comfortingly
+comfortless
 comforts
 comfrey
 comfy
@@ -27132,6 +27142,7 @@ coparcenaries
 coparcenary
 coparcener
 coparented
+coparenting
 coparents
 copartner
 copartnered
@@ -29809,6 +29820,7 @@ cryptanalyses
 cryptanalysis
 cryptanalyst
 cryptanalysts
+cryptanalytic
 cryptanalytical
 cryptarithm
 cryptic
@@ -32532,6 +32544,7 @@ defibrillator
 defibrillators
 defibrinate
 defibrinated
+defibrinates
 defibrinating
 defibrination
 defibrinations
@@ -33377,6 +33390,7 @@ dendrimer
 dendrimers
 dendrite
 dendrites
+dendritic
 dendrogram
 dendrograms
 dendroid
@@ -33649,6 +33663,7 @@ deplorably
 deplore
 deplored
 deplorer
+deplorers
 deplores
 deploringly
 deploy
@@ -33929,6 +33944,7 @@ derricks
 derriere
 derrieres
 derries
+derringer
 derringers
 derrises
 dervish
@@ -43859,6 +43875,7 @@ etiquettes
 etna
 etoile
 etoiles
+etouffee
 etouffees
 etude
 etudes
@@ -46080,6 +46097,7 @@ famishments
 famous
 famously
 famousness
+famousnesses
 famuli
 fan
 fanatic
@@ -51397,6 +51415,7 @@ fungo
 fungoes
 fungoid
 fungous
+funhouse
 funhouses
 funicles
 funicular
@@ -52867,6 +52886,7 @@ geniculated
 genie
 genies
 genii
+genip
 genipap
 genipaps
 genistein
@@ -69840,6 +69860,7 @@ kleptomania
 kleptomaniac
 kleptomaniacs
 kleptomanias
+kleptos
 klezmer
 klick
 klicks
@@ -70201,6 +70222,7 @@ krona
 kronen
 kroner
 kronor
+kronur
 kroon
 krubi
 krubis
@@ -72298,6 +72320,7 @@ liaison
 liaisons
 liana
 lianas
+liane
 lianes
 liang
 liangs
@@ -75585,6 +75608,7 @@ manager
 manageress
 manageresses
 managerial
+managerially
 managers
 managership
 managerships
@@ -81216,6 +81240,7 @@ montadale
 montadales
 montage
 montages
+montaging
 montagnard
 montagnards
 montane
@@ -82048,6 +82073,7 @@ mudhen
 mudhens
 mudhole
 mudholes
+mudlark
 mudlarks
 mudpacks
 mudpuppies
@@ -82056,6 +82082,7 @@ mudra
 mudras
 mudrock
 mudrocks
+mudroom
 mudrooms
 mudsill
 mudsills
@@ -102457,6 +102484,7 @@ pronounces
 pronouncing
 pronouns
 pronuclear
+pronuclei
 pronucleus
 pronucleuses
 pronunciamento
@@ -109952,6 +109980,7 @@ replying
 repo
 repolarizations
 repolarize
+repolarized
 repolarizing
 repolish
 repolished
@@ -120782,6 +120811,7 @@ slaveholder
 slaveholdings
 slavered
 slaverer
+slavering
 slavers
 slavery
 slaves
@@ -132813,6 +132843,7 @@ therapeusis
 therapeutic
 therapeutically
 therapeutics
+therapies
 therapist
 therapists
 therapsid
@@ -138135,6 +138166,7 @@ ultraviolences
 ultraviolent
 ultraviolet
 ultraviolets
+ultravirile
 ultravirilities
 ultrawide
 ulu
@@ -138389,6 +138421,7 @@ unattired
 unattractive
 unattractively
 unattributed
+unattuned
 unau
 unaudited
 unaus
@@ -148961,6 +148994,7 @@ zoological
 zoologically
 zoologies
 zoologist
+zoom
 zoomania
 zoomanias
 zoometric
@@ -148976,6 +149010,7 @@ zoonal
 zooned
 zooning
 zoonoses
+zoonosis
 zoonotic
 zoons
 zoophile
