@@ -7996,6 +7996,7 @@ auscultates
 auscultating
 auscultation
 auscultations
+ausform
 ausformed
 ausforms
 auslander
@@ -12358,6 +12359,7 @@ binoculars
 binomial
 binomially
 bins
+bint
 bints
 binturong
 binturongs
@@ -27419,6 +27421,7 @@ cornifications
 cornified
 cornifies
 cornify
+cornifying
 cornily
 corninesses
 corning
@@ -33234,6 +33237,7 @@ denatures
 denaturing
 denazification
 denazifications
+denazified
 denazifies
 denazify
 denazifying
@@ -35078,6 +35082,7 @@ diesel
 dieseling
 dieselings
 dieselization
+dieselizations
 dieselize
 dieselized
 diesels
@@ -42988,6 +42993,7 @@ equivalents
 equivocal
 equivocalities
 equivocality
+equivocalness
 equivocalnesses
 equivocate
 equivocated
@@ -44900,6 +44906,7 @@ explantation
 explantations
 explanted
 explanting
+explants
 expletive
 expletives
 expletory
@@ -53714,6 +53721,7 @@ globalised
 globalising
 globalism
 globalist
+globalists
 globalizations
 globalize
 globalized
@@ -55823,6 +55831,7 @@ guaranteed
 guarantees
 guarantied
 guarantor
+guarantors
 guard
 guardant
 guarddog
@@ -65807,6 +65816,7 @@ intermixes
 intermixing
 intermodal
 intermodulation
+intermolecular
 intermontane
 intern
 internal
@@ -71452,6 +71462,7 @@ lefter
 leftest
 lefties
 leftish
+leftism
 leftisms
 leftist
 leftmost
@@ -71701,6 +71712,7 @@ lensless
 lensman
 lensmen
 lent
+lentamente
 lentic
 lenticels
 lenticular
@@ -77716,6 +77728,7 @@ meteoritics
 meteoroid
 meteoroidal
 meteoroids
+meteorological
 meteorologies
 meteorologist
 meteorologists
@@ -80836,6 +80849,7 @@ monosomies
 monosomy
 monospecific
 monospecificity
+monostele
 monosteles
 monostelic
 monostelies
@@ -84225,6 +84239,7 @@ nigrosines
 nigrosins
 nihil
 nihilism
+nihilisms
 nihilist
 nihilistic
 nihilities
@@ -85279,6 +85294,7 @@ nonlethal
 nonlevel
 nonlexical
 nonliable
+nonlibrarian
 nonlibrarians
 nonlibrary
 nonlife
@@ -87120,6 +87136,7 @@ odyl
 odyle
 odyles
 odyls
+odyssey
 odysseys
 oe
 oecologies
@@ -87475,6 +87492,7 @@ omelet
 omelets
 omelettes
 omen
+omened
 omening
 omenta
 omental
@@ -88683,6 +88701,7 @@ ousels
 oust
 ousted
 ousters
+ousting
 ousts
 out
 outachieved
@@ -99217,6 +99236,7 @@ postsurgical
 postsynaptic
 postsync
 postsynced
+postsyncing
 postsyncs
 posttax
 postteens
@@ -100509,6 +100529,7 @@ prentices
 prenticing
 prenumber
 prenumbered
+prenumbering
 prenumbers
 prenuptial
 preobtain
@@ -100652,6 +100673,7 @@ preprogramed
 preprograming
 preprogrammed
 preprogramming
+preprograms
 preps
 prepsychedelic
 prepuberal
@@ -102936,6 +102958,7 @@ psychogenesis
 psychogenetic
 psychogenic
 psychographs
+psychohistorian
 psychohistories
 psychohistory
 psychokineses
@@ -106248,6 +106271,7 @@ rebuker
 rebukers
 rebukes
 rebuking
+reburial
 reburials
 reburied
 reburies
@@ -106687,6 +106711,7 @@ reconferred
 reconferring
 reconfigure
 reconfigured
+reconfigures
 reconfined
 reconfining
 reconfirm
@@ -110493,6 +110518,7 @@ restlessly
 restlessness
 restlessnesses
 restock
+restocked
 restocking
 restocks
 restoke
@@ -110743,6 +110769,7 @@ retested
 retestifies
 retestify
 retestifying
+retests
 retexture
 retextured
 retextures
@@ -116618,6 +116645,7 @@ selectionist
 selectionists
 selections
 selectively
+selectiveness
 selectivities
 selectly
 selectmen
@@ -118303,6 +118331,7 @@ shimmer
 shimmered
 shimmering
 shimmers
+shimmery
 shimmied
 shimmies
 shimmying
@@ -122403,6 +122432,7 @@ soundings
 soundless
 soundly
 soundman
+soundmen
 soundness
 soundnesses
 soundproof
@@ -132513,6 +132543,7 @@ thindowns
 thine
 thing
 thingamabob
+thingamajig
 thingamajigs
 thingness
 thingnesses
@@ -132931,6 +132962,7 @@ thumper
 thumpers
 thumping
 thumps
+thunder
 thunderbird
 thunderbirds
 thunderbolt
@@ -134672,6 +134704,7 @@ tradescantias
 tradesman
 tradesmen
 tradespeople
+trading
 tradition
 traditionalism
 traditionalisms
@@ -136849,6 +136882,7 @@ turgites
 turgor
 turgors
 turion
+turions
 turista
 turistas
 turk
@@ -144817,6 +144851,7 @@ wateriness
 waterinesses
 watering
 waterings
+waterish
 waterishness
 waterishnesses
 waterjet
