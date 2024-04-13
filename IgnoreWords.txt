@@ -1743,6 +1743,7 @@ affable
 affably
 affair
 affairs
+affect
 affectabilities
 affectable
 affectation
@@ -9446,6 +9447,7 @@ banality
 banalize
 banalized
 banalizes
+banalizing
 banally
 banana
 bananas
@@ -14819,6 +14821,7 @@ bovine
 bovinely
 bovines
 bovinities
+bovinity
 bow
 bowdlerise
 bowdlerised
@@ -18983,6 +18986,7 @@ carport
 carports
 carpospore
 carpospores
+carps
 carpus
 carr
 carrack
@@ -22890,6 +22894,7 @@ cleanness
 cleannesses
 cleans
 cleanse
+cleansed
 cleanser
 cleansers
 cleanses
@@ -28929,6 +28934,7 @@ craves
 craving
 cravings
 crawdad
+crawdaddy
 crawfish
 crawfished
 crawfishes
@@ -31958,6 +31964,7 @@ decasyllables
 decathlete
 decathletes
 decathlons
+decay
 decayed
 decayer
 decayers
@@ -32690,6 +32697,7 @@ deformity
 deforms
 defrag
 defragged
+defragger
 defraggers
 defraud
 defrauded
@@ -32980,6 +32988,7 @@ delfs
 delft
 delfts
 delftware
+delftwares
 deliberate
 deliberately
 deliberateness
@@ -40484,6 +40493,7 @@ ekpweles
 ektexine
 ektexines
 ekuele
+elaborated
 elaborateness
 elaborates
 elaborating
@@ -44641,6 +44651,7 @@ execration
 execrations
 execrative
 execrator
+execrators
 execs
 executable
 executant
@@ -54692,6 +54703,7 @@ goosing
 goosy
 gophers
 gopik
+goral
 gorals
 gorbelly
 gorblimy
@@ -55087,6 +55099,7 @@ granduncle
 granduncles
 grange
 granger
+grangerism
 grangerisms
 grangers
 granita
@@ -58854,6 +58867,7 @@ herbivory
 herbless
 herblike
 herbologies
+herbs
 herby
 herculean
 hercules
@@ -65981,6 +65995,7 @@ interjoins
 interknit
 interknits
 interknitted
+interknitting
 interknots
 interknotted
 interknotting
@@ -72728,6 +72743,7 @@ limans
 limb
 limba
 limbas
+limbate
 limbecks
 limbed
 limber
@@ -76313,6 +76329,7 @@ martyrly
 martyrologist
 martyrologists
 martyrology
+martyrs
 martyry
 marvel
 marveling
@@ -78508,6 +78525,7 @@ microphage
 microphages
 microphones
 microphonic
+microphonics
 microphotograph
 microphotometer
 microphotometry
@@ -79207,6 +79225,7 @@ miniscules
 minish
 minishes
 minishing
+miniski
 miniskirt
 miniskirts
 miniskis
@@ -85352,6 +85371,7 @@ nondocumentary
 nondogmatic
 nondollar
 nondomestic
+nondominant
 nondormant
 nondramatic
 nondrinker
@@ -87302,6 +87322,7 @@ occupational
 occupationally
 occupations
 occupied
+occupiers
 occupies
 occupy
 occupying
@@ -88840,6 +88861,7 @@ ose
 oses
 osetra
 osetras
+osier
 osiered
 osiers
 osmatic
@@ -98949,6 +98971,7 @@ polysaccharide
 polysaccharides
 polysemic
 polysemies
+polysemous
 polysemy
 polysome
 polysomes
@@ -107070,6 +107093,7 @@ recolors
 recomb
 recombed
 recombinant
+recombinants
 recombination
 recombinational
 recombinations
@@ -107129,6 +107153,7 @@ reconceives
 reconceiving
 reconcentrates
 reconcentrating
+reconception
 reconceptions
 reconcilable
 reconcile
@@ -107954,6 +107979,7 @@ reenlarged
 reenlarges
 reenlarging
 reenlisting
+reenlistment
 reenlistments
 reenlists
 reenrolling
@@ -110955,6 +110981,7 @@ restauranteur
 restauranteurs
 restaurants
 restaurateur
+restaurateurs
 rested
 rester
 resters
@@ -113811,6 +113838,7 @@ rusticities
 rusticity
 rusticly
 rustier
+rustiest
 rustily
 rustiness
 rusting
@@ -117321,6 +117349,7 @@ semifluid
 semifluids
 semiformal
 semigala
+semigloss
 semigroup
 semigroups
 semihard
@@ -123308,6 +123337,7 @@ spasticities
 spasticity
 spastics
 spat
+spate
 spathe
 spathes
 spathic
@@ -123990,6 +124020,7 @@ splashes
 splashier
 splashiest
 splashily
+splashiness
 splashinesses
 splashing
 splashy
@@ -124258,6 +124289,7 @@ sportsman
 sportsmanly
 sportsmen
 sportswear
+sportswears
 sportswoman
 sportswomen
 sportswriter
@@ -131539,6 +131571,7 @@ teataster
 teatasters
 teated
 teatime
+teatimes
 teaware
 teawares
 teazel
@@ -132821,6 +132854,7 @@ theolog
 theologians
 theologic
 theological
+theologically
 theologies
 theologise
 theologised
@@ -147218,6 +147252,7 @@ wisterias
 wistful
 wistfully
 wistfulnesses
+wisting
 wists
 wit
 witan
