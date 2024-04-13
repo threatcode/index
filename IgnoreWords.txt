@@ -7633,6 +7633,7 @@ atonia
 atonias
 atonic
 atonicities
+atonicity
 atonies
 atoning
 atoningly
@@ -9966,6 +9967,7 @@ baryton
 barytone
 barytones
 barytons
+bas
 basal
 basally
 basalt
@@ -13568,6 +13570,7 @@ bludges
 bludging
 blue
 blueball
+blueballs
 bluebeard
 bluebeards
 bluebeat
@@ -19956,6 +19959,7 @@ centimes
 centimeter
 centimeters
 centimo
+centimorgan
 centimorgans
 centimos
 centipede
@@ -20694,6 +20698,7 @@ chartist
 chartists
 chartless
 chartreuse
+chartreuses
 charts
 chartulary
 charwoman
@@ -24424,6 +24429,7 @@ colloidal
 colloidally
 colloids
 collop
+colloquia
 colloquial
 colloquialism
 colloquialisms
@@ -26959,6 +26965,7 @@ cooee
 cooeed
 cooees
 cooer
+cooeyed
 cooeying
 cooeys
 coofs
@@ -29021,6 +29028,7 @@ crenelate
 crenelates
 crenelating
 crenelation
+creneled
 crenellated
 crenelled
 crenelling
@@ -30190,6 +30198,7 @@ curdle
 curdled
 curdlers
 curdling
+curds
 curdy
 cure
 cureless
@@ -37141,6 +37150,7 @@ disyoke
 disyoked
 disyokes
 disyoking
+dit
 dita
 ditas
 ditch
@@ -42937,6 +42947,7 @@ equably
 equal
 equaled
 equaling
+equalise
 equalised
 equaliser
 equalisers
@@ -44765,6 +44776,7 @@ exosmotic
 exospheres
 exospheric
 exospore
+exospores
 exosporia
 exosporium
 exostoses
@@ -45219,6 +45231,7 @@ exterminators
 exterminatory
 extermine
 extermines
+extermining
 extern
 external
 externalisation
@@ -46957,6 +46970,7 @@ ferryboat
 ferryboats
 ferrying
 ferryman
+ferrymen
 fertile
 fertilely
 fertileness
@@ -47224,6 +47238,7 @@ fibrinolysins
 fibrinolysis
 fibrinolytic
 fibrinopeptide
+fibrinopeptides
 fibrinous
 fibroblast
 fibroblastic
@@ -51831,6 +51846,7 @@ gallous
 gallowglass
 gallowglasses
 gallows
+gallowses
 galls
 gallstone
 gallstones
@@ -52898,6 +52914,7 @@ geometrizations
 geometrize
 geometrized
 geometrizes
+geometrizing
 geometry
 geomorphic
 geomorphologies
@@ -53282,6 +53299,7 @@ gilly
 gillyflower
 gillyflowers
 gillying
+gilt
 gilthead
 giltheads
 gilts
@@ -54648,6 +54666,7 @@ gouts
 gouty
 govern
 governable
+governance
 governed
 governess
 governessy
@@ -55391,6 +55410,7 @@ griffs
 grifted
 grifter
 grifters
+grifting
 grig
 grigri
 grigris
@@ -61837,6 +61857,7 @@ hysterics
 hysteroid
 hysterotomy
 hyte
+iamb
 iambi
 iambic
 iambics
@@ -66218,6 +66239,7 @@ intolerability
 intolerable
 intolerableness
 intolerably
+intolerance
 intolerances
 intolerant
 intolerantly
@@ -77361,6 +77383,7 @@ merchandising
 merchandisings
 merchandize
 merchandized
+merchandizes
 merchandizings
 merchant
 merchantability
@@ -79681,6 +79704,7 @@ mislodge
 mislodged
 mislodges
 mislodging
+mislying
 mismake
 mismakes
 mismaking
@@ -85967,6 +85991,7 @@ noradrenergic
 nordic
 norepinephrine
 norepinephrines
+norethindrone
 nori
 noria
 norias
@@ -87355,6 +87380,7 @@ oftener
 oftenest
 oftentimes
 ofter
+oftest
 ofttimes
 ogam
 ogams
@@ -96459,6 +96485,7 @@ piggybacking
 piggybacks
 pigheaded
 pigheadedly
+pigheadedness
 pigheadednesses
 piglet
 piglets
@@ -98269,6 +98296,7 @@ polemically
 polemicist
 polemicists
 polemicized
+polemicizes
 polemicizing
 polemics
 polemist
@@ -101623,6 +101651,7 @@ prizefights
 prizer
 prizers
 prizes
+prizewinner
 prizewinners
 prizewinning
 prizing
@@ -105819,6 +105848,7 @@ ravishments
 rawer
 rawest
 rawhide
+rawhided
 rawhides
 rawhiding
 rawin
@@ -108851,6 +108881,7 @@ relink
 relinked
 relinking
 relinquish
+relinquishes
 relinquishing
 relinquishment
 reliquaries
@@ -118382,6 +118413,7 @@ shewbreads
 shewed
 shewer
 shewers
+shewn
 shiatsu
 shiatsus
 shiatzu
@@ -134069,6 +134101,7 @@ tommies
 tomming
 tommyrot
 tommyrots
+tomogram
 tomograms
 tomograph
 tomographic
@@ -139130,6 +139163,7 @@ undogmatic
 undogmatically
 undoing
 undoings
+undomestic
 undomesticated
 undone
 undouble
@@ -144101,6 +144135,7 @@ volutins
 volution
 volutions
 volva
+volvas
 volvate
 volvox
 volvoxes
