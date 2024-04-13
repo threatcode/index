@@ -2220,6 +2220,7 @@ agravic
 agree
 agreeability
 agreeable
+agreeableness
 agreeably
 agreed
 agreeing
@@ -7391,6 +7392,7 @@ asteroidal
 asteroids
 asters
 asthenia
+asthenias
 asthenics
 asthenies
 asthenosphere
@@ -8250,6 +8252,7 @@ automobilists
 automobilities
 automobility
 automorphism
+automorphisms
 automotive
 autonomic
 autonomically
@@ -11146,6 +11149,7 @@ belga
 belgas
 belie
 belied
+belief
 beliefs
 belier
 beliers
@@ -11371,6 +11375,7 @@ beneficialness
 beneficiaries
 beneficiary
 beneficiate
+beneficiated
 beneficiates
 beneficiating
 beneficiation
@@ -14062,6 +14067,7 @@ bollix
 bollixed
 bollixes
 bollixing
+bolloxes
 bolloxing
 bolls
 bollworm
@@ -14243,6 +14249,7 @@ bonnocks
 bonny
 bonnyclabber
 bonnyclabbers
+bonobo
 bonsai
 bonspell
 bonspells
@@ -15730,6 +15737,7 @@ brochures
 brock
 brockage
 brockets
+brocks
 brocoli
 brocolis
 brogan
@@ -17421,6 +17429,7 @@ cakiest
 cakinesses
 caking
 caky
+calabash
 calabaza
 calabazas
 calaboose
@@ -18396,6 +18405,7 @@ caprine
 capriole
 caprioled
 caprioles
+caprioling
 capris
 caprock
 caprolactam
@@ -19644,6 +19654,7 @@ causerie
 causeries
 causers
 causes
+causeway
 causewayed
 causewaying
 causeways
@@ -20524,6 +20535,7 @@ changeably
 changeful
 changefully
 changefulness
+changefulnesses
 changelessly
 changelessness
 changeling
@@ -24728,6 +24740,7 @@ combatants
 combated
 combater
 combaters
+combating
 combative
 combatively
 combats
@@ -55877,6 +55890,7 @@ groveled
 groveler
 grovelers
 groveless
+groveling
 grovelled
 groveller
 grovellers
@@ -71058,6 +71072,7 @@ larders
 lardier
 lardiest
 larding
+lardlike
 lardon
 lardons
 lardoon
@@ -74377,6 +74392,7 @@ lumberyard
 lumberyards
 lumbosacral
 lumbrical
+lumbricals
 lumen
 lumenal
 lumens
@@ -75957,6 +75973,7 @@ maquillage
 maquillages
 mar
 mara
+marabou
 marabout
 marabouts
 maraca
@@ -78342,6 +78359,7 @@ microcapsule
 microcapsules
 microcassette
 microcephalic
+microcephalics
 microcephalies
 microcephaly
 microchip
@@ -93417,6 +93435,7 @@ parvos
 parvoviruses
 pas
 pascal
+pascals
 paschal
 paschals
 pase
@@ -94026,6 +94045,7 @@ peartnesses
 pearwood
 pearwoods
 peas
+peasant
 peasantries
 peasantry
 peasants
@@ -96771,6 +96791,7 @@ pigsney
 pigsneys
 pigstick
 pigsticked
+pigsticker
 pigstickers
 pigsticking
 pigsticks
@@ -99103,6 +99124,7 @@ pool
 pooled
 pooler
 poolers
+poolhall
 poolhalls
 pooling
 poolroom
@@ -100959,6 +100981,7 @@ preordaining
 preordainment
 preordainments
 preordains
+preorder
 preordering
 preorders
 preordination
@@ -105645,6 +105668,7 @@ ramp
 rampaged
 rampageous
 rampageously
+rampageousness
 rampages
 rampaging
 rampancies
@@ -107611,6 +107635,7 @@ rediscover
 rediscovering
 rediscovers
 rediscovery
+rediscuss
 rediscussed
 rediscusses
 rediscussing
@@ -110738,6 +110763,7 @@ resolidifies
 resolidify
 resolidifying
 resoling
+resoluble
 resolute
 resolutely
 resoluteness
@@ -111648,6 +111674,7 @@ reverent
 reverential
 reverentially
 reverently
+reverer
 reverers
 reveres
 reverie
@@ -114031,6 +114058,7 @@ sadhe
 sadhes
 sadhu
 sadhus
+sadiron
 sadirons
 sadis
 sadism
@@ -117718,6 +117746,7 @@ sequency
 sequent
 sequential
 sequentially
+sequents
 sequestered
 sequestering
 sequesters
@@ -118731,6 +118760,7 @@ shibah
 shibboleth
 shibboleths
 shicker
+shickered
 shickers
 shicksa
 shicksas
@@ -131664,6 +131694,7 @@ teflons
 teg
 tegg
 teggs
+tegmen
 tegmenta
 tegmental
 tegmina
@@ -133365,6 +133396,7 @@ throatily
 throatiness
 throatinesses
 throating
+throatlatch
 throatlatches
 throats
 throaty
@@ -135123,6 +135155,7 @@ toy
 toyed
 toyer
 toyers
+toying
 toyish
 toyless
 toylike
@@ -135302,6 +135335,7 @@ trailhead
 trailheads
 trailing
 trailless
+trails
 trailside
 train
 trainabilities
@@ -145120,6 +145154,7 @@ warbling
 warbonnets
 warcrafts
 ward
+warded
 warden
 wardenries
 wardens
