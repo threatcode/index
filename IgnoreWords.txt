@@ -1946,6 +1946,7 @@ agamas
 agamete
 agametes
 agamic
+agamid
 agamids
 agamospermies
 agamospermy
@@ -4402,6 +4403,7 @@ anhydrides
 anhydrites
 anil
 anile
+anilin
 anilinctus
 anilinctuses
 aniline
@@ -7300,6 +7302,7 @@ associatively
 associativities
 associativity
 assoil
+assoiled
 assoiling
 assoilment
 assoilments
@@ -13602,6 +13605,7 @@ bluegum
 bluehead
 blueheads
 blueing
+blueings
 blueish
 bluejack
 bluejacket
@@ -17196,6 +17200,7 @@ caconyms
 caconymy
 cacophonies
 cacophonous
+cacophony
 cacti
 cactoid
 cactus
@@ -24462,6 +24467,7 @@ colocates
 colocating
 colocynth
 colocynths
+colog
 cologne
 cologned
 colognes
@@ -24510,6 +24516,7 @@ colorado
 colorant
 colorants
 coloration
+colorations
 coloratura
 coloraturas
 colorbred
@@ -26799,6 +26806,7 @@ convalescence
 convalescences
 convalescent
 convalescents
+convalescing
 convect
 convected
 convecting
@@ -27796,6 +27804,7 @@ cosmolined
 cosmolines
 cosmolining
 cosmological
+cosmologically
 cosmologies
 cosmologist
 cosmologists
@@ -29497,6 +29506,7 @@ crowd
 crowded
 crowdedly
 crowdedness
+crowdednesses
 crowder
 crowders
 crowdie
@@ -34360,6 +34370,7 @@ detruded
 detruding
 detrusions
 detumescence
+detumescences
 detumescent
 deuce
 deuced
@@ -39915,6 +39926,7 @@ ectomeres
 ectomeric
 ectomorph
 ectomorphic
+ectoparasite
 ectoparasites
 ectoparasitic
 ectopia
@@ -41035,6 +41047,7 @@ emendated
 emendates
 emendating
 emendation
+emendations
 emendator
 emendators
 emended
@@ -60197,6 +60210,7 @@ hops
 hopsack
 hopsacking
 hopsackings
+hopscotch
 hopscotches
 hoptoad
 hoptoads
@@ -61663,6 +61677,7 @@ hypochondriacal
 hypochondriacs
 hypochondriases
 hypochondriasis
+hypocorism
 hypocorisms
 hypocoristic
 hypocoristical
@@ -66537,6 +66552,7 @@ invertebrate
 invertebrates
 inverted
 inverter
+inverters
 invertible
 invertin
 invertins
@@ -90520,6 +90536,7 @@ overgenerosity
 overgenerous
 overgenerously
 overgild
+overgilded
 overgilding
 overgilds
 overgilt
@@ -92790,6 +92807,7 @@ pare
 parecisms
 pared
 paregoric
+pareira
 pareiras
 parenchyma
 parenchymal
@@ -93297,6 +93315,7 @@ pastors
 pastorships
 pastrami
 pastramis
+pastries
 pastromi
 pastromis
 pastry
@@ -95219,6 +95238,7 @@ petrifies
 petrify
 petrifying
 petrochemistry
+petrogeneses
 petrogenetic
 petrogenies
 petrogeny
@@ -95246,6 +95266,7 @@ petsais
 pettable
 petted
 pettedly
+petter
 petters
 petti
 petticoat
@@ -97781,6 +97802,7 @@ plotties
 plottiest
 plotting
 plotty
+plotz
 plotzed
 plotzes
 plough
@@ -103482,6 +103504,7 @@ pungle
 pungled
 pungles
 pungling
+pungs
 punier
 puniest
 punily
@@ -105924,6 +105947,7 @@ readable
 readableness
 readably
 readapt
+readapted
 readd
 readded
 readdict
@@ -107049,6 +107073,7 @@ recurring
 recurs
 recursion
 recursions
+recursive
 recursively
 recursiveness
 recursivenesses
@@ -107404,6 +107429,7 @@ redstarts
 redtail
 redtails
 redtops
+redub
 redubbing
 redubs
 reduced
@@ -112208,6 +112234,7 @@ risibles
 risibly
 risings
 risked
+risker
 riskers
 riskier
 riskiest
@@ -121973,6 +122000,7 @@ soleless
 solely
 solemn
 solemner
+solemnest
 solemnified
 solemnifies
 solemnifying
@@ -124255,6 +124283,7 @@ squeteague
 squib
 squibbing
 squibs
+squid
 squidded
 squidding
 squids
@@ -130240,6 +130269,7 @@ taillights
 tailor
 tailorbird
 tailorbirds
+tailored
 tailoring
 tailorings
 tailors
@@ -131410,6 +131440,7 @@ teleshops
 telesis
 telestic
 telestich
+telestichs
 telestics
 teletext
 teletexts
@@ -133584,6 +133615,7 @@ tintypes
 tinware
 tinwares
 tinwork
+tinworks
 tiny
 tip
 tipcart
@@ -137710,6 +137742,7 @@ ultrarealisms
 ultrarealistic
 ultrared
 ultrarefined
+ultrareliable
 ultrarich
 ultraright
 ultrarightist
@@ -143696,6 +143729,7 @@ vista
 vistaed
 vistaless
 visual
+visualise
 visualises
 visualising
 visualist
@@ -146128,6 +146162,7 @@ whorehouses
 whoremaster
 whoremasters
 whoremongers
+whores
 whoresons
 whorish
 whorishly
