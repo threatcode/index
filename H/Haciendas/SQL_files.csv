@@ -7,3 +7,12 @@ guest/julian_hyde/mondrian/demo/FoodMartData.sql,https://swarm.workshop.perforce
 scripts/upgrade_0.46_hacia_0.47.sql ... - GitLab,https://gitlab.agetic.gob.bo/adsib/geoelectoral-datos/-/blob/8bca1b39ca2388885f2a96902ff98683a05fc389/scripts/upgrade_0.46_hacia_0.47.sql
 geoelectoral-datos - scripts - upgrade_0.48_hacia_0.49.sql - GitLab,https://gitlab.agetic.gob.bo/adsib/geoelectoral-datos/-/blob/68b998695f3b73d7cf5f78488e726ba66ba4e4e1/scripts/upgrade_0.48_hacia_0.49.sql
 4780ed3af7f273d76d34121ba6b...,https://gitlab.servicios.gob.mx/aga/api/blob/4780ed3af7f273d76d34121ba6b20820ec653427/migrations/1574630173221_datos_iniciales/up.sql
+FinancialDB/dml.sql at master · luisiestrada/FinancialDB · GitHub,https://github.com/luisiestrada/FinancialDB/blob/master/dml.sql
+pds150-ins-app-cities.sql - GitHub,https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/wide-world-importers/wwi-ssdt/wwi-ssdt/PostDeploymentScripts/pds150-ins-app-cities.sql
+guest/julian_hyde/mondrian/demo/FoodMartData.sql - Swarm,https://swarm.workshop.perforce.com/files/guest/julian_hyde/mondrian/demo/FoodMartData.sql%3Fv%3D1
+https://raw.githubusercontent.com/nitendragautam/s...,https://raw.githubusercontent.com/nitendragautam/samp_data_sets/master/retail_data/retail_db.sql
+https://raw.githubusercontent.com/forestbiotech-la...,https://raw.githubusercontent.com/forestbiotech-lab/PHENO/master/SQL/LATEST_dump.sql
+4780ed3af7f273d76d34121ba6b...,https://gitlab.servicios.gob.mx/aga/api/blob/4780ed3af7f273d76d34121ba6b20820ec653427/migrations/1574630173221_datos_iniciales/up.sql
+sismopre.sql · master · entidadpublicas / SISMOPRE · GitLab,https://gitlab.softwarelibre.gob.bo/entidadpublicas/SISMOPRE/-/blob/master/sismopre.sql%3Fref_type%3Dheads
+http://fsl.cenditel.gob.ve/scm/viewvc.php/*checkou...,http://fsl.cenditel.gob.ve/scm/viewvc.php/*checkout*/ramas/0.2.x/bdsaid/bd_said_0.2_pg7x.sql%3Frevision%3D7969%26root%3Dsaid%26pathrev%3D7991
+http://115.85.49.37/backup/07242023/backup_others.sql,http://115.85.49.37/backup/07242023/backup_others.sql

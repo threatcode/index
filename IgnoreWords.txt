@@ -438,6 +438,7 @@ accommodative
 accommodator
 accommodators
 accompanied
+accompanies
 accompaniment
 accompaniments
 accompanist
@@ -3560,6 +3561,7 @@ amerce
 amerced
 amercement
 amercements
+amercer
 amercers
 amerces
 amercing
@@ -3588,6 +3590,7 @@ amias
 amicabilities
 amicability
 amicable
+amicableness
 amicablenesses
 amicably
 amice
@@ -4210,6 +4213,7 @@ androcentric
 androecia
 androgen
 androgeneses
+androgenesis
 androgenetic
 androgens
 androgyne
@@ -17464,6 +17468,7 @@ calciferol
 calciferous
 calcific
 calcification
+calcifications
 calcified
 calcifies
 calcifuge
@@ -30465,6 +30470,7 @@ cussedness
 cussednesses
 cusser
 cussers
+cusses
 cussing
 cusso
 cussos
@@ -39736,6 +39742,7 @@ earthmovers
 earthmovings
 earthnut
 earthnuts
+earthquake
 earthquakes
 earthrise
 earthrises
@@ -41060,6 +41067,7 @@ embraceors
 embraceries
 embracers
 embracery
+embracing
 embracive
 embrangle
 embrangled
@@ -43699,6 +43707,7 @@ eternally
 eternalness
 eternalnesses
 eternise
+eternised
 eternises
 eternising
 eternities
@@ -43824,6 +43833,7 @@ ethylene
 ethylenes
 ethylenic
 ethylic
+ethyls
 ethyne
 ethynes
 ethynyl
@@ -46309,6 +46319,7 @@ fascicle
 fascicles
 fascicular
 fasciculate
+fasciculated
 fasciculation
 fasciculations
 fascicule
@@ -47097,6 +47108,7 @@ fervor
 fervors
 fervour
 fervours
+fes
 fescennine
 fescue
 fescues
@@ -52612,6 +52624,7 @@ gazed
 gazehound
 gazehounds
 gazelles
+gazers
 gazes
 gazette
 gazetteer
@@ -56629,6 +56642,7 @@ hachuring
 hacienda
 haciendado
 haciendados
+haciendas
 hack
 hackable
 hackamore
@@ -56688,6 +56702,7 @@ haeing
 haem
 haemal
 haematal
+haematic
 haematics
 haematin
 haematins
@@ -59323,6 +59338,7 @@ hillers
 hilliness
 hilling
 hillo
+hilloa
 hilloaed
 hilloaing
 hilloas
@@ -68992,6 +69008,7 @@ kashrut
 kashruth
 kashruths
 kashruts
+kat
 kata
 katabatic
 katakana
@@ -73627,6 +73644,7 @@ loggia
 loggie
 loggier
 logging
+loggings
 loggish
 loggy
 logia
@@ -80174,6 +80192,7 @@ misstrike
 misstrikes
 misstruck
 misstyle
+misstyled
 misstyles
 misstyling
 missuited
@@ -83089,6 +83108,7 @@ nailing
 nails
 nailset
 nailsets
+nainsook
 nainsooks
 nairu
 nairus
@@ -92750,6 +92770,7 @@ paradoxicality
 paradoxically
 paradoxicalness
 paradrop
+paradropped
 paradropping
 paradrops
 parae
@@ -94100,6 +94121,7 @@ pedestrianism
 pedestrians
 pediatric
 pediatrician
+pediatricians
 pediatrist
 pediatrists
 pedicabs
@@ -103969,6 +103991,7 @@ purslanes
 pursuable
 pursuance
 pursuances
+pursuant
 pursue
 pursuer
 pursuers
@@ -104235,6 +104258,7 @@ pyrocatechol
 pyrocatechols
 pyroceram
 pyrocerams
+pyroclastic
 pyroelectric
 pyroelectricity
 pyrogallol
@@ -111979,6 +112003,7 @@ rhombical
 rhombohedra
 rhombohedron
 rhombohedrons
+rhomboid
 rhomboidal
 rhomboidei
 rhomboideus
@@ -112520,6 +112545,7 @@ ritually
 rituals
 ritz
 ritzier
+ritziest
 ritzily
 ritziness
 ritzinesses
@@ -118636,6 +118662,7 @@ shewbreads
 shewed
 shewer
 shewers
+shewing
 shewn
 shiatsu
 shiatsus
@@ -122690,6 +122717,7 @@ sorcerer
 sorcerers
 sorceress
 sorceresses
+sorceries
 sorcerous
 sorcery
 sord
@@ -130592,6 +130620,7 @@ takeoff
 takeoffs
 takeout
 takeouts
+takeover
 taker
 takers
 takes
@@ -135208,6 +135237,7 @@ trailerists
 trailerite
 trailerites
 trailhead
+trailheads
 trailing
 trailless
 trailside
@@ -137052,6 +137082,7 @@ tuckering
 tuckers
 tucket
 tuckets
+tucking
 tucks
 tufa
 tufaceous
@@ -137098,6 +137129,7 @@ tulipwoods
 tulle
 tulles
 tullibee
+tullibees
 tumble
 tumblebug
 tumblebugs
@@ -139655,6 +139687,7 @@ unfermented
 unfertile
 unfertilized
 unfetter
+unfettered
 unfettering
 unfetters
 unfilial
@@ -143029,6 +143062,7 @@ venomed
 venomers
 venoming
 venomous
+venomously
 venomousness
 venomousnesses
 venoms
@@ -147947,6 +147981,7 @@ xenophobes
 xenophobia
 xenophobic
 xenophobically
+xenopus
 xenopuses
 xenotropic
 xerarch
