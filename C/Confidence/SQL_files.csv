@@ -8,3 +8,12 @@ load_3xmmdr8cat.sql - The XMM-Newton Survey Science Centre,http://xmmssc.irap.om
 sql/libtblog.sql · v4.227 · emulab / emulab-stable · GitLab,https://gitlab.flux.utah.edu/emulab/emulab-stable/-/blob/v4.227/sql/libtblog.sql
 db2/multi_burst.sql ... - LIGO GitLab,https://git.ligo.org/adam-mercer/python-ligo-lw/-/blob/1e7fbef8adfbae6c584e3720ea5e8aac90a9006b/db2/multi_burst.sql
 db2/sngl_dperiodic.sql ... - LIGO GitLab,https://git.ligo.org/adam-mercer/python-ligo-lw/-/blob/a9e51404bf4c24e6a725a5cf46dbcc214d56966b/db2/sngl_dperiodic.sql
+PAL 114 Time Series - Triple Exponential Smoothing Confidence.sql,https://github.com/saphanaacademy/PAL/blob/master/Code%2520Snippets/PAL%2520114%2520Time%2520Series%2520-%2520Triple%2520Exponential%2520Smoothing%2520Confidence.sql
+oracle_oci_examples/dmkmdemo.sql at master - GitHub,https://github.com/alexeyvo/oracle_oci_examples/blob/master/dmkmdemo.sql
+ca_model_Market_Basket_Analy...,https://docs.oracle.com/cd/E88858_01/PDF/Embedded_Files/ca_model_Market_Basket_Analysis.sql
+load_3xmmdr7cat.sql - XMM-SSC,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR7/load_3xmmdr7cat.sql
+TSPY_DRIDEX.SQL - Threat Encyclopedia - Trend Micro HK-EN,https://www.trendmicro.com/vinfo/hk-en/threat-encyclopedia/malware/tspy_dridex.sql
+sql/database-create-errorlog.sql · stable-20120411 · emulab ...,https://gitlab.flux.utah.edu/emulab/emulab-stable/-/blob/stable-20120411/sql/database-create-errorlog.sql
+09 Database scripts/M4EU DB/m4eu DB E-myb schema myb v2020 ...,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/95e9fef26075ed239bb806f4b629a48751d2d19f/09%2520Database%2520scripts/M4EU%2520DB/m4eu%2520DB%2520E-myb%2520schema%2520myb%2520v2020.3/03%2520emyb%2520myb%2520codelist%2520v2020.3.sql
+DBPostGreSQL - 01 tables v2020.6.01.sql - GitLab,https://geusgitlab.geus.dk/m4eu/2020-m4eu/-/blob/ceaa30375dab82d634deec769d219ad35b156a63/09%2520Database%2520scripts/m4eu%2520DB%2520m4eu%2520schema%2520public%2520v2020.6/DBPostGreSQL/01%2520tables%2520v2020.6.01.sql
+3_bases_de_donnees_introducti...,https://forge.univ-lyon1.fr/diu-eil/bloc4/-/blob/5b3536ec64bc06fa2df7f257f7ae86258adede91/3_bases_de_donnees_introduction/TP/correction/sql-murder-mystery.sql
