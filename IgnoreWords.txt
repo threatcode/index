@@ -4637,6 +4637,7 @@ annuls
 annuluses
 annunciated
 annunciates
+annunciating
 annunciation
 annunciations
 annunciator
@@ -15672,6 +15673,7 @@ brinies
 briniest
 brininess
 brininesses
+brining
 brink
 brinkmanship
 brinkmanships
@@ -17514,6 +17516,7 @@ caladiums
 calamancoes
 calamancos
 calamander
+calamanders
 calamar
 calamari
 calamaries
@@ -36318,6 +36321,7 @@ discography
 discoid
 discoids
 discoing
+discolor
 discoloration
 discolorations
 discolored
@@ -40665,6 +40669,7 @@ ekpweles
 ektexine
 ektexines
 ekuele
+elaborate
 elaborated
 elaborateness
 elaborates
@@ -40986,6 +40991,7 @@ ellipsoids
 elliptic
 elliptical
 ellipticals
+ellipticities
 ellipticity
 ells
 elm
@@ -46148,6 +46154,7 @@ faintly
 faintnesses
 faints
 fair
+faired
 fairer
 fairest
 fairgoer
@@ -52288,6 +52295,7 @@ gama
 gamas
 gamashes
 gamay
+gamays
 gamba
 gambade
 gambades
@@ -52921,6 +52929,7 @@ gazumped
 gazumpers
 gazumping
 gazumps
+geanticlines
 gear
 gearbox
 gearboxes
@@ -63134,6 +63143,7 @@ immurement
 immures
 immuring
 immutabilities
+immutability
 immutable
 immutableness
 immutably
@@ -66376,6 +66386,7 @@ intermediacies
 intermediaries
 intermediary
 intermediate
+intermediated
 intermediately
 intermediates
 intermediating
@@ -68986,6 +68997,7 @@ juking
 juku
 jukus
 julep
+juleps
 julienne
 julienned
 juliennes
@@ -74375,6 +74387,7 @@ lorikeets
 lorimer
 lorimers
 loriner
+loriners
 lorises
 lorn
 lornness
@@ -75287,6 +75300,7 @@ macrophage
 macrophages
 macrophagic
 macrophotograph
+macrophyte
 macrophytes
 macrophytic
 macros
@@ -82738,6 +82752,7 @@ multiple
 multiples
 multiplet
 multiplets
+multiplex
 multiplexed
 multiplexer
 multiplexers
@@ -85666,6 +85681,7 @@ nonconventional
 nonconvertible
 noncooperation
 noncooperations
+noncooperative
 noncooperator
 noncooperators
 noncoplanar
@@ -86366,6 +86382,7 @@ nonreusable
 nonrhotic
 nonrigid
 nonrioter
+nonrioters
 nonrioting
 nonrival
 nonrivals
@@ -87658,6 +87675,7 @@ obtusely
 obtusenesses
 obtuser
 obtusest
+obtusities
 obtusity
 obverse
 obversely
@@ -88949,6 +88967,7 @@ orfray
 orfrays
 organ
 organa
+organdies
 organdy
 organelles
 organic
@@ -93626,6 +93645,7 @@ parises
 parish
 parishioner
 parishioners
+parities
 parity
 parka
 parkade
@@ -100082,6 +100102,7 @@ postnatal
 postnatally
 postneonatal
 postnuptial
+postop
 postoperative
 postoperatively
 postops
@@ -101378,6 +101399,7 @@ premiere
 premiered
 premiering
 premierships
+premies
 premigration
 premillenarian
 premillenarians
@@ -101827,6 +101849,7 @@ press
 pressboard
 pressboards
 pressed
+presses
 pressgang
 pressgangs
 pressing
@@ -102768,6 +102791,7 @@ programmers
 programmes
 programming
 programmings
+programs
 progressed
 progressing
 progression
@@ -108153,6 +108177,7 @@ redisposes
 redisposing
 redisposition
 redispositions
+redissolve
 redissolved
 redissolves
 redissolving
@@ -115256,6 +115281,7 @@ sansculottic
 sansculottish
 sansculottism
 sansculottisms
+sanserif
 sansevieria
 sansevierias
 santalic
@@ -120834,6 +120860,7 @@ sixfold
 sixmo
 sixmos
 sixpence
+sixpences
 sixpenny
 sixte
 sixteen
@@ -121085,6 +121112,7 @@ skinflints
 skinfuls
 skinheads
 skink
+skinked
 skinker
 skinkers
 skinking
@@ -130946,6 +130974,7 @@ syphs
 syrens
 syrette
 syrettes
+syringa
 syringas
 syringe
 syringeal
@@ -134352,6 +134381,7 @@ tied
 tieing
 tieless
 tiemannite
+tiemannites
 tiepin
 tiepins
 tier
@@ -136013,6 +136043,7 @@ tramcars
 trameled
 trameling
 tramell
+tramelled
 tramelling
 tramells
 tramels
@@ -139226,6 +139257,7 @@ unblurred
 unblushingly
 unboarded
 unbobbed
+unboiled
 unbolt
 unbolted
 unbolting
@@ -139499,6 +139531,7 @@ unclinched
 unclinches
 unclinching
 unclipped
+unclipping
 unclips
 uncloak
 uncloaked
@@ -141812,6 +141845,7 @@ unsnagged
 unsnags
 unsnap
 unsnapped
+unsnapping
 unsnaps
 unsnarl
 unsnarled
@@ -142428,6 +142462,7 @@ uphoarding
 uphoards
 uphold
 upholder
+upholders
 upholding
 upholds
 upholster
