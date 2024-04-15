@@ -1338,6 +1338,7 @@ adopt
 adoptabilities
 adoptability
 adoptable
+adopted
 adoptee
 adoptees
 adopter
@@ -2296,6 +2297,7 @@ aides
 aiding
 aidman
 aids
+aiglet
 aiglets
 aigret
 aigrette
@@ -4294,6 +4296,7 @@ anencephaly
 anenst
 anent
 anergia
+anergias
 anergic
 anergies
 anergy
@@ -4955,6 +4958,7 @@ antichoice
 antichoicer
 antichoicers
 anticholesterol
+antichurch
 anticigarette
 anticipant
 anticipatable
@@ -8753,6 +8757,7 @@ azures
 azurite
 azurites
 azygos
+azygoses
 azygous
 ba
 baa
@@ -20850,6 +20855,7 @@ charquis
 charr
 charred
 charrier
+charriest
 charring
 charros
 charrs
@@ -23459,6 +23465,7 @@ club
 clubable
 clubbable
 clubbed
+clubber
 clubbers
 clubbinesses
 clubbing
@@ -24686,6 +24693,7 @@ colonialism
 colonialisms
 colonialist
 colonialists
+colonializes
 colonially
 colonialness
 colonials
@@ -24881,6 +24889,7 @@ combinational
 combinations
 combinatorially
 combinatorics
+combinatory
 combine
 combined
 combineds
@@ -28637,6 +28646,7 @@ coved
 covelline
 covellite
 covellites
+coven
 covenant
 covenanted
 covenantee
@@ -30484,6 +30494,7 @@ curl
 curled
 curler
 curlers
+curlew
 curlews
 curlicue
 curlicued
@@ -39813,6 +39824,7 @@ dysarthrias
 dyscrasia
 dyscrasias
 dyscrasic
+dyscratic
 dysenteric
 dysentery
 dysfunction
@@ -42351,6 +42363,7 @@ enlisters
 enlisting
 enlistments
 enlists
+enliven
 enlivened
 enlivener
 enliveners
@@ -42939,6 +42952,7 @@ epentheses
 epenthesis
 epenthetic
 epergnes
+epexegeses
 epexegesis
 epexegetic
 epexegetical
@@ -44714,6 +44728,7 @@ exchange
 exchangeability
 exchangeable
 exchanged
+exchanger
 exchangers
 exchanging
 exchequer
@@ -45408,6 +45423,7 @@ exporter
 exporters
 exporting
 exports
+expos
 exposable
 exposal
 exposals
@@ -47314,6 +47330,7 @@ ferrels
 ferreous
 ferret
 ferreted
+ferreter
 ferreters
 ferreting
 ferriage
@@ -50387,6 +50404,7 @@ forms
 formula
 formulae
 formulaic
+formulaically
 formularies
 formularization
 formularized
@@ -52855,6 +52873,7 @@ gaumed
 gauming
 gaun
 gaunt
+gauntest
 gauntlet
 gauntleted
 gauntleting
@@ -61494,6 +61513,7 @@ hurleys
 hurlies
 hurling
 hurlings
+hurls
 hurly
 hurrah
 hurrahed
@@ -71805,6 +71825,7 @@ lavishness
 lavrock
 lavs
 law
+lawbook
 lawbooks
 lawbreaker
 lawbreaking
@@ -89354,6 +89375,7 @@ osmometry
 osmoregulation
 osmoregulations
 osmoregulatory
+osmosed
 osmoses
 osmosing
 osmosis
@@ -90936,6 +90958,7 @@ overburn
 overburned
 overburning
 overburns
+overbusy
 overbuy
 overbuying
 overbuys
@@ -91179,6 +91202,7 @@ overeducations
 overelaborates
 overelaborating
 overelaboration
+overembellish
 overembellished
 overembellishes
 overemote
@@ -91448,6 +91472,7 @@ overintensities
 overintensity
 overinvestment
 overinvestments
+overissuance
 overissuances
 overissue
 overissued
@@ -103935,6 +103960,7 @@ psychoanalytic
 psychoanalyze
 psychoanalyzed
 psychoanalyzes
+psychoanalyzing
 psychobabble
 psychobabbler
 psychobabblers
@@ -107713,6 +107739,7 @@ reconceptions
 reconcilable
 reconcile
 reconciled
+reconcilement
 reconcilements
 reconciler
 reconcilers
@@ -107726,6 +107753,7 @@ recondensed
 recondenses
 recondensing
 recondite
+reconditeness
 reconditenesses
 recondition
 reconditioned
@@ -111520,6 +111548,7 @@ restacks
 restaff
 restaffing
 restaffs
+restage
 restaged
 restages
 restamp
@@ -116897,6 +116926,7 @@ scrimping
 scrimpit
 scrimps
 scrimpy
+scrims
 scrimshander
 scrimshanders
 scrimshaw
@@ -119646,6 +119676,7 @@ shmears
 shmo
 shmoes
 shmoozed
+shmoozes
 shmoozing
 shmuck
 shmucks
@@ -129543,6 +129574,7 @@ superparasitism
 superpatriot
 superpatriotism
 superperson
+superpersonal
 superpersons
 superphenomena
 superphenomenon
@@ -130041,6 +130073,7 @@ surveils
 survey
 surveyed
 surveyings
+surveyor
 surveyors
 survivabilities
 survivability
@@ -141785,6 +141818,7 @@ unseals
 unseam
 unseamed
 unseaming
+unseams
 unsearchable
 unsearchably
 unseared
@@ -148744,6 +148778,7 @@ wristband
 wristbands
 wristiest
 wristlet
+wristlets
 wristlock
 wristlocks
 wrists
