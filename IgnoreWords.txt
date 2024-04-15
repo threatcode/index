@@ -852,6 +852,7 @@ acrolith
 acroliths
 acromegalic
 acromegalics
+acromegaly
 acromia
 acromial
 acromion
@@ -3481,6 +3482,7 @@ ambling
 amblygonite
 amblygonites
 amblyopia
+amblyopias
 ambo
 amboina
 amboinas
@@ -3552,6 +3554,7 @@ amen
 amenability
 amenable
 amenably
+amend
 amendable
 amendatory
 amended
@@ -6379,6 +6382,7 @@ archeology
 archerfish
 archerfishes
 archeries
+archers
 archery
 archesporia
 archesporial
@@ -7151,6 +7155,7 @@ asperating
 asperges
 aspergill
 aspergilli
+aspergilloses
 aspergillosis
 aspergills
 aspergillums
@@ -13438,6 +13443,7 @@ blithering
 blithers
 blithesome
 blithesomely
+blithest
 blitz
 blitzed
 blitzer
@@ -19131,6 +19137,7 @@ carse
 carses
 cart
 cartable
+cartage
 cartages
 carte
 carted
@@ -19913,6 +19920,7 @@ ceilers
 ceilidh
 ceilidhs
 ceiling
+ceilinged
 ceilings
 ceilis
 ceilometers
@@ -22914,6 +22922,7 @@ claucht
 claudication
 claudications
 claught
+claughting
 claughts
 clausal
 claustral
@@ -23265,6 +23274,7 @@ clocks
 clockwork
 clod
 cloddier
+cloddiest
 clodhopper
 clodhoppers
 clodhopping
@@ -24256,6 +24266,7 @@ coherer
 coherers
 coheres
 cohesion
+cohesionless
 cohesions
 cohesive
 cohesively
@@ -32382,6 +32393,7 @@ deconsecrates
 deconsecrating
 deconsecration
 deconsecrations
+deconstruct
 deconstruction
 deconstructions
 deconstructive
@@ -39263,6 +39275,7 @@ dubbins
 dubieties
 dubiety
 dubiosities
+dubiosity
 dubious
 dubiously
 dubiousness
@@ -48771,6 +48784,7 @@ fleahoppers
 fleam
 fleapit
 fleapits
+fleas
 fleawort
 fleaworts
 fleche
@@ -55223,6 +55237,7 @@ graffiting
 graffitis
 graffitist
 graffitists
+graffito
 graft
 graftage
 graftages
@@ -72004,6 +72019,7 @@ leasehold
 leaseholder
 leaser
 leasers
+leases
 leashed
 leashes
 leashing
@@ -83414,6 +83430,7 @@ myrmecologists
 myrmecology
 myrmecophile
 myrmecophiles
+myrmecophilous
 myrmidones
 myrmidons
 myrobalan
@@ -83998,6 +84015,7 @@ naysayers
 naysaying
 naysays
 nazi
+nazification
 nazifications
 nazified
 nazifies
@@ -95259,6 +95277,7 @@ percentage
 percentages
 percentiles
 percents
+percept
 perceptibility
 perceptibly
 perceptional
@@ -96648,6 +96667,7 @@ photolytically
 photolyzed
 photolyzes
 photolyzing
+photomap
 photomapping
 photomaps
 photomask
@@ -97724,6 +97744,7 @@ pirouette
 pirouetted
 pirouettes
 pirozhki
+pirozhok
 pis
 piscaries
 piscary
@@ -100294,6 +100315,7 @@ potshots
 potshotting
 potsie
 potstone
+potstones
 potsy
 pottage
 pottages
@@ -101159,6 +101181,7 @@ prefigurements
 prefigures
 prefile
 prefiled
+prefiles
 prefiling
 prefilled
 prefinance
@@ -121100,6 +121123,7 @@ skimped
 skimpier
 skimpiest
 skimpily
+skimpiness
 skimpinesses
 skimping
 skimps
@@ -124835,6 +124859,7 @@ sporozoans
 sporozoic
 sporozoite
 sporozoites
+sporozoon
 sporran
 sporrans
 sport
@@ -132095,6 +132120,7 @@ teachable
 teachablenesses
 teachably
 teacher
+teacherly
 teachers
 teaches
 teachings
@@ -132352,6 +132378,7 @@ tegulated
 tegumen
 teguments
 tegumina
+teiglach
 teiid
 teiids
 teind
@@ -132460,6 +132487,7 @@ telephony
 telephotography
 telephotos
 teleplay
+teleplays
 teleport
 teleportation
 teleportations
@@ -132658,6 +132686,7 @@ temptingly
 temptress
 temptresses
 tempts
+tempura
 tempuras
 ten
 tenabilities
@@ -135170,6 +135199,7 @@ tones
 tonetic
 tonetics
 tonette
+tonettes
 toney
 tong
 tonga
@@ -141910,6 +141940,7 @@ unsprung
 unstable
 unstableness
 unstablenesses
+unstabler
 unstack
 unstacked
 unstacking
@@ -144342,6 +144373,7 @@ vibe
 vibist
 vibists
 vibracula
+vibraharp
 vibraharpist
 vibraharpists
 vibraharps
@@ -144373,6 +144405,7 @@ vibriosis
 vibrissa
 vibrissae
 vibrissal
+viburnum
 vicar
 vicarage
 vicarages
@@ -145173,6 +145206,7 @@ volatilized
 volatilizing
 volcanicities
 volcanicity
+volcanics
 volcanism
 volcanisms
 volcanize
@@ -146357,6 +146391,7 @@ wayfaring
 waygoing
 waylaid
 waylay
+waylayers
 waylaying
 waylays
 wayless
