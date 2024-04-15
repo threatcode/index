@@ -2878,6 +2878,7 @@ alkoxy
 alkyd
 alkyl
 alkylated
+alkylates
 alkylating
 alkylations
 alkyls
@@ -19155,6 +19156,7 @@ carts
 cartularies
 cartulary
 cartwheel
+cartwheeled
 cartwheeler
 cartwheelers
 cartwheeling
@@ -22226,6 +22228,7 @@ chutneys
 chutzpa
 chutzpah
 chutzpahs
+chyle
 chyles
 chylomicron
 chylomicrons
@@ -25970,6 +25973,7 @@ confessions
 confessor
 confessors
 confetti
+confetto
 confidant
 confidante
 confidants
@@ -29362,6 +29366,7 @@ crimini
 criminis
 criminological
 criminologies
+criminologist
 criminologists
 criminology
 criminous
@@ -32469,6 +32474,7 @@ dedication
 dedications
 dedicator
 dedicators
+dedicatory
 dedifferentiate
 deduce
 deduced
@@ -37359,6 +37365,7 @@ disulfids
 disulfiram
 disulfirams
 disulfoton
+disulfotons
 disunion
 disunionist
 disunionists
@@ -38622,6 +38629,7 @@ dragging
 draggingly
 draggle
 draggled
+draggles
 draggling
 draggy
 dragline
@@ -40706,6 +40714,7 @@ electorally
 electorate
 electorates
 electors
+electress
 electresses
 electret
 electrets
@@ -41135,6 +41144,7 @@ embezzlers
 embezzles
 embezzling
 embitter
+embittered
 embittering
 embitterment
 embitterments
@@ -45199,6 +45209,7 @@ experimentalism
 experimentalist
 experimentally
 experimentation
+experimented
 experimenter
 experimenters
 experimenting
@@ -46500,6 +46511,7 @@ fasciations
 fascicle
 fascicles
 fascicular
+fascicularly
 fasciculate
 fasciculated
 fasciculation
@@ -49671,6 +49683,7 @@ foolery
 foolfish
 foolfishes
 foolhardier
+foolhardiest
 foolhardily
 foolhardiness
 foolhardinesses
@@ -54986,6 +54999,7 @@ gourmandises
 gourmandisms
 gourmandize
 gourmandized
+gourmandizes
 gourmandizing
 gourmands
 gourmet
@@ -59494,6 +59508,7 @@ highbush
 highchair
 higher
 highest
+highfalutin
 highfliers
 highflyers
 highjack
@@ -62801,6 +62816,7 @@ imboldens
 imbosom
 imbosomed
 imbosoming
+imbower
 imbowered
 imbricate
 imbricates
@@ -67847,6 +67863,7 @@ jackets
 jackfish
 jackfishes
 jackfruit
+jackfruits
 jackhammer
 jackhammered
 jackhammering
@@ -72738,6 +72755,7 @@ lids
 lie
 liebfraumilch
 liebfraumilchs
+lied
 lieder
 lief
 liefest
@@ -73106,6 +73124,7 @@ linearize
 linearizes
 linearizing
 lineate
+lineation
 lineations
 linebacker
 linebackers
@@ -76426,6 +76445,7 @@ marlinspikes
 marlite
 marlites
 marlitic
+marls
 marlstone
 marlstones
 marly
@@ -77258,6 +77278,7 @@ mediating
 mediation
 mediational
 mediations
+mediative
 mediatize
 mediatized
 mediatizes
@@ -80933,6 +80954,7 @@ moist
 moisten
 moistened
 moistener
+moisteners
 moistening
 moistens
 moister
@@ -92663,6 +92685,7 @@ palls
 pally
 palm
 palmar
+palmary
 palmate
 palmated
 palmately
@@ -95654,6 +95677,7 @@ personative
 personator
 personators
 personhood
+personhoods
 personification
 personified
 personifier
@@ -102765,6 +102789,7 @@ promised
 promisee
 promisees
 promiser
+promisers
 promises
 promising
 promisingly
@@ -104174,6 +104199,7 @@ puniest
 punily
 puniness
 puninesses
+punish
 punishability
 punishable
 punished
@@ -118218,6 +118244,7 @@ serialises
 serialism
 serialisms
 serialist
+serialists
 serialize
 serialized
 serializes
@@ -123745,6 +123772,7 @@ spawners
 spawning
 spawns
 spay
+spayed
 spaying
 spaz
 spazz
@@ -126183,6 +126211,7 @@ stigmasterols
 stigmata
 stigmatic
 stigmatically
+stigmatics
 stigmatists
 stigmatization
 stigmatizations
@@ -129134,6 +129163,7 @@ superhardening
 superheat
 superheated
 superheater
+superheaters
 superheating
 superheats
 superheavies
@@ -133723,6 +133753,7 @@ thousandths
 thowless
 thraldom
 thraldoms
+thrall
 thralldom
 thralldoms
 thralled
@@ -135914,6 +135945,7 @@ transaction
 transactional
 transactions
 transactor
+transacts
 transalpine
 transaminases
 transamination
@@ -137994,6 +138026,7 @@ turtleheads
 turtleneck
 turtlenecks
 turtler
+turtles
 turtling
 turtlings
 turves
@@ -142138,6 +142171,7 @@ upclimbs
 upcoast
 upcoil
 upcoiling
+upcoils
 upcoming
 upcountries
 upcountry
@@ -147246,6 +147280,7 @@ wiglets
 wiglike
 wigmaker
 wigmakers
+wigs
 wigwag
 wigwagged
 wigwagger
