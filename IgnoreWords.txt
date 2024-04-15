@@ -1981,6 +1981,7 @@ agar
 agaric
 agarics
 agarose
+agaroses
 agas
 agate
 agates
@@ -5846,6 +5847,7 @@ apostrophe
 apostrophes
 apostrophise
 apostrophised
+apostrophize
 apostrophized
 apothecary
 apothece
@@ -10013,6 +10015,7 @@ barrelsful
 barren
 barrener
 barrenest
+barrenly
 barrenness
 barrennesses
 barres
@@ -26672,6 +26675,7 @@ constrict
 constricting
 constriction
 constrictions
+constrictive
 constrictor
 constrictors
 constricts
@@ -31263,6 +31267,7 @@ daddy
 dadgum
 dado
 dadoed
+dadoing
 dados
 dads
 daedal
@@ -34195,6 +34200,7 @@ derogate
 derogated
 derogates
 derogating
+derogation
 derogations
 derogative
 derogatorily
@@ -35889,6 +35895,7 @@ dinked
 dinkey
 dinkeys
 dinkies
+dinkiest
 dinkly
 dinks
 dinkum
@@ -43177,6 +43184,7 @@ epigraphical
 epigraphies
 epigraphists
 epigraphs
+epigraphy
 epigynies
 epigynous
 epigyny
@@ -43249,6 +43257,7 @@ episcopacies
 episcopacy
 episcopally
 episcopate
+episcopates
 episcope
 episcopes
 episiotomies
@@ -51007,6 +51016,7 @@ freelancer
 freelancers
 freelances
 freelancing
+freeload
 freeloaded
 freeloader
 freeloading
@@ -55830,6 +55840,7 @@ green
 greenback
 greenbacker
 greenbackers
+greenbackism
 greenbacks
 greenbelt
 greenbrier
@@ -60694,6 +60705,7 @@ honorarium
 honorariums
 honored
 honoree
+honorees
 honorer
 honorers
 honorific
@@ -70424,6 +70436,7 @@ knack
 knacker
 knackered
 knackeries
+knackers
 knacking
 knackwurst
 knackwursts
@@ -70607,6 +70620,7 @@ knurly
 knurs
 koa
 koalas
+koan
 koans
 koas
 kob
@@ -71312,6 +71326,7 @@ lammergeyers
 lamp
 lampad
 lampads
+lampas
 lampases
 lampblack
 lampblacks
@@ -71405,6 +71420,7 @@ landlubbers
 landlubbing
 landman
 landmark
+landmarked
 landmarking
 landmasses
 landowner
@@ -73551,6 +73567,7 @@ lintwhites
 linty
 linum
 linums
+linuron
 linurons
 liny
 lion
@@ -77274,6 +77291,7 @@ maumets
 maun
 maund
 maundered
+maunderer
 maunderers
 maundering
 maunders
@@ -79932,6 +79950,7 @@ mirthlessly
 miry
 mirza
 mirzas
+mis
 misact
 misacted
 misacting
@@ -84972,6 +84991,7 @@ newshounds
 newsie
 newsies
 newsiest
+newsiness
 newsinesses
 newsletter
 newsletters
@@ -87739,6 +87759,7 @@ obole
 oboles
 oboli
 obols
+obolus
 obscene
 obscener
 obscenest
@@ -91100,6 +91121,7 @@ overbreed
 overbreeding
 overbreeds
 overbrief
+overbriefing
 overbright
 overbroad
 overbrowse
@@ -95801,6 +95823,7 @@ peritrich
 peritricha
 peritrichous
 peritrichously
+peritrichs
 peritus
 periwig
 periwigged
@@ -106983,6 +107006,7 @@ razzamatazz
 razzamatazzes
 razzberries
 razzberry
+razzed
 razzes
 razzing
 razzmatazz
@@ -107145,6 +107169,7 @@ realignments
 realised
 realiser
 realisers
+realises
 realism
 realisms
 realistically
@@ -114072,6 +114097,7 @@ roughened
 roughening
 rougher
 roughhew
+roughhewed
 roughhewn
 roughhews
 roughhouse
@@ -126712,6 +126738,7 @@ stillnesses
 stillroom
 stillrooms
 stills
+stilly
 stilt
 stilted
 stiltedly
@@ -128761,6 +128788,7 @@ subtilized
 subtilizes
 subtilizing
 subtilties
+subtitle
 subtitled
 subtitling
 subtle
@@ -129587,6 +129615,7 @@ supererogation
 supererogations
 supererogatory
 superette
+superettes
 superexpensive
 superexpress
 superexpresses
@@ -133148,6 +133177,7 @@ tenthly
 tenths
 tentie
 tentier
+tentiest
 tenting
 tentlike
 tentmaker
@@ -138865,6 +138895,7 @@ typesetter
 typesetters
 typesetting
 typesettings
+typestyle
 typestyles
 typewrite
 typewriter
@@ -146347,6 +146378,7 @@ warslers
 warsles
 warsling
 warstler
+warstling
 wart
 warthog
 warthogs
@@ -146620,6 +146652,7 @@ wauks
 waul
 wauled
 wauling
+wauls
 waur
 wave
 waveband
@@ -148144,6 +148177,7 @@ winterer
 winterers
 winterfed
 winterfeed
+winterfeeding
 winterfeeds
 wintergreen
 wintergreens
@@ -148637,6 +148671,7 @@ woodworking
 woodworkings
 woodworks
 woodworm
+wooed
 wooer
 wooers
 woof
