@@ -5829,6 +5829,7 @@ apothece
 apotheces
 apothecia
 apothecial
+apothecium
 apothegmatic
 apothegms
 apothem
@@ -6807,6 +6808,7 @@ arrogancies
 arrogantly
 arrogate
 arrogated
+arrogates
 arrogating
 arrogation
 arrogations
@@ -15305,6 +15307,7 @@ bravure
 braw
 brawer
 brawest
+brawl
 brawled
 brawler
 brawlers
@@ -20535,6 +20538,7 @@ chamfered
 chamferer
 chamfering
 chamfers
+chamfrain
 chamfrains
 chamfron
 chamisa
@@ -29782,6 +29786,7 @@ cruddy
 crudely
 crudeness
 crudenesses
+cruder
 crudes
 crudest
 crudites
@@ -30800,6 +30805,7 @@ cyanotic
 cyanotype
 cyanotypes
 cyans
+cyanurate
 cyanurates
 cyber
 cybercafes
@@ -31788,6 +31794,7 @@ deadliness
 deadlinesses
 deadlining
 deadlock
+deadlocked
 deadlocking
 deadlocks
 deadly
@@ -44402,6 +44409,7 @@ evenhanded
 evenhandedly
 evenhandedness
 evenings
+evenly
 evenness
 evennesses
 evens
@@ -45754,6 +45762,7 @@ extrudable
 extruded
 extruder
 extruders
+extruding
 extrusion
 extrusions
 extrusive
@@ -51271,6 +51280,7 @@ frostily
 frostiness
 frostinesses
 frosting
+frostings
 frostless
 frostline
 frostnips
@@ -54552,6 +54562,7 @@ gnoses
 gnosis
 gnostic
 gnostical
+gnosticism
 gnosticisms
 gnostics
 gnotobiotically
@@ -56120,6 +56131,7 @@ groupwares
 grouse
 groused
 grouser
+grousers
 grouses
 grouted
 grouter
@@ -57282,6 +57294,7 @@ hallucal
 halluces
 hallucinate
 hallucinated
+hallucinates
 hallucinating
 hallucination
 hallucinations
@@ -57729,6 +57742,7 @@ harbormasters
 harborous
 harbors
 harborside
+harbour
 harbouring
 harbours
 hardass
@@ -67746,6 +67760,7 @@ isopycnic
 isosceles
 isosmotically
 isospin
+isospins
 isospories
 isostacies
 isostacy
@@ -72131,6 +72146,7 @@ legates
 legateship
 legateships
 legatine
+legating
 legation
 legations
 legato
@@ -73099,6 +73115,7 @@ liming
 limit
 limitable
 limitary
+limitation
 limitational
 limitations
 limitative
@@ -74778,6 +74795,7 @@ lunarian
 lunarians
 lunars
 lunas
+lunate
 lunated
 lunately
 lunatic
@@ -82473,6 +82491,7 @@ mudrock
 mudrocks
 mudroom
 mudrooms
+muds
 mudsill
 mudsills
 mudskipper
@@ -86078,6 +86097,7 @@ nonmajors
 nonmalignant
 nonmalleable
 nonman
+nonmanagement
 nonmanagerial
 nonmanual
 nonmarital
@@ -88215,6 +88235,7 @@ oligomer
 oligomeric
 oligomerization
 oligomers
+oligophagies
 oligophagous
 oligophagy
 oligopolies
@@ -90837,6 +90858,7 @@ overbreathings
 overbred
 overbreed
 overbreeding
+overbreeds
 overbrief
 overbright
 overbroad
@@ -93522,6 +93544,7 @@ pardons
 pards
 pardy
 pare
+parecism
 parecisms
 pared
 paregoric
@@ -102252,6 +102275,7 @@ prince
 princedom
 princedoms
 princekin
+princekins
 princelet
 princelets
 princelier
@@ -106435,6 +106459,7 @@ ratchets
 rateable
 rateably
 rated
+ratel
 ratels
 ratemeter
 ratemeters
@@ -118141,6 +118166,7 @@ sentients
 sentiment
 sentimentalise
 sentimentalised
+sentimentalises
 sentimentalism
 sentimentalisms
 sentimentalist
@@ -126672,6 +126698,7 @@ stooged
 stooges
 stooging
 stooked
+stookers
 stooking
 stooks
 stool
@@ -127606,6 +127633,7 @@ subacutely
 subadar
 subadars
 subadolescent
+subadolescents
 subadults
 subaerial
 subaerially
@@ -131882,6 +131910,7 @@ tatterdemalion
 tatterdemalions
 tattered
 tatters
+tattersall
 tattersalls
 tattie
 tattier
@@ -132754,6 +132783,7 @@ tensive
 tensor
 tensorial
 tensors
+tent
 tentacle
 tentacled
 tentacular
@@ -140189,6 +140219,7 @@ undoubled
 undoubles
 undoubling
 undoubtable
+undoubted
 undoubtedly
 undoubting
 undrained
@@ -145003,6 +145034,7 @@ vocalics
 vocalise
 vocalised
 vocalises
+vocalising
 vocalism
 vocalisms
 vocalists
@@ -148069,6 +148101,7 @@ womanize
 womanized
 womanizer
 womanizers
+womanizes
 womanizing
 womankind
 womanless
@@ -149031,6 +149064,7 @@ yecch
 yecchs
 yech
 yechs
+yechy
 yeelin
 yegg
 yeggman
@@ -149259,6 +149293,7 @@ yowlers
 yowling
 yowls
 yows
+yperites
 ytterbia
 ytterbias
 ytterbium
