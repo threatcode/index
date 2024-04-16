@@ -5395,6 +5395,7 @@ antisag
 antisatellite
 antiscience
 antiscientific
+antiscorbutics
 antisecrecy
 antisegregation
 antiseizure
@@ -16433,6 +16434,7 @@ buglers
 bugles
 bugleweed
 bugling
+bugloss
 bugout
 bugouts
 bugs
@@ -23712,6 +23714,7 @@ coalers
 coalesced
 coalescence
 coalescences
+coalescent
 coalfield
 coalfields
 coalfishes
@@ -24918,6 +24921,7 @@ colts
 coltsfoot
 coltsfoots
 colubrid
+colubrine
 colugo
 colugos
 columbaria
@@ -25114,6 +25118,7 @@ commemorators
 commence
 commencements
 commencer
+commencers
 commences
 commencing
 commend
@@ -36115,6 +36120,7 @@ diplomates
 diplomatic
 diplomatically
 diplomatists
+diplomats
 diplont
 diplontic
 diplonts
@@ -36857,6 +36863,7 @@ disheveled
 disheveling
 dishevelled
 dishevelling
+dishevels
 dishful
 dishfuls
 dishier
@@ -37991,6 +37998,7 @@ dodoisms
 dodos
 doer
 doers
+doeskin
 doeskins
 doest
 doeth
@@ -43267,6 +43275,7 @@ epigoni
 epigonic
 epigonism
 epigonisms
+epigons
 epigonus
 epigram
 epigrammatic
@@ -45887,6 +45896,7 @@ extortive
 extorts
 extra
 extrabold
+extrabolds
 extracellular
 extracellularly
 extracranial
@@ -47142,6 +47152,7 @@ featureless
 featurette
 featurettes
 featuring
+feaze
 feazed
 feazes
 feazing
@@ -48611,6 +48622,7 @@ fitted
 fitter
 fitters
 fittest
+fitting
 fittingly
 fittingness
 fittingnesses
@@ -49455,6 +49467,7 @@ flowcharts
 flower
 flowerage
 flowered
+flowerer
 flowerers
 floweret
 flowerets
@@ -49802,6 +49815,7 @@ foe
 foehn
 foehns
 foeman
+foemen
 foes
 foetal
 foetid
@@ -53159,6 +53173,7 @@ gayal
 gayals
 gaydar
 gaydars
+gayer
 gayest
 gayeties
 gayety
@@ -61833,6 +61848,7 @@ huskies
 huskiest
 huskily
 huskiness
+huskinesses
 husking
 huskings
 husklike
@@ -64042,6 +64058,7 @@ inactivities
 inactivity
 inadequacies
 inadequacy
+inadequate
 inadequately
 inadequateness
 inadmissibility
@@ -74422,6 +74439,7 @@ logania
 logans
 logaoedic
 logarithm
+logarithmically
 logarithms
 logbook
 logbooks
@@ -74745,6 +74763,7 @@ lording
 lordings
 lordless
 lordlier
+lordliest
 lordlike
 lordling
 lordlings
@@ -74783,6 +74802,7 @@ lory
 losableness
 losablenesses
 lose
+losel
 losels
 loser
 losers
@@ -76057,6 +76077,7 @@ majagua
 majaguas
 majestic
 majestically
+majesties
 majolicas
 major
 majordomo
@@ -79692,6 +79713,7 @@ millboards
 millcake
 millcakes
 mille
+millefiori
 millefioris
 millefleurs
 millenarian
@@ -84132,6 +84154,7 @@ nappes
 nappie
 nappier
 nappies
+nappiness
 nappinesses
 nappy
 naprapathies
@@ -87198,6 +87221,7 @@ nosedives
 nosediving
 nosedove
 nosegay
+nosegays
 noseguard
 noseguards
 noselike
@@ -89377,6 +89401,7 @@ ordered
 orderer
 orderers
 ordering
+orderless
 orderlies
 orderliness
 orderlinesses
@@ -91806,6 +91831,7 @@ overheaped
 overheaping
 overheaps
 overheard
+overhearing
 overheat
 overheated
 overheating
@@ -93830,6 +93856,7 @@ parallelisms
 parallelled
 parallelling
 parallelograms
+paralogism
 paralogisms
 paralyse
 paralyses
@@ -96234,6 +96261,7 @@ persevere
 persevered
 perseveres
 persevering
+perseveringly
 persiflages
 persimmon
 persimmons
@@ -110450,6 +110478,7 @@ remembering
 remembrance
 remembrancer
 remembrancers
+remembrances
 remend
 remends
 remerge
@@ -115164,6 +115193,7 @@ saddlecloths
 saddled
 saddleless
 saddler
+saddleries
 saddlers
 saddlery
 saddles
@@ -117017,6 +117047,7 @@ scintigraphies
 scintigraphy
 scintilla
 scintillae
+scintillant
 scintillas
 scintillate
 scintillated
@@ -117818,6 +117849,7 @@ seasides
 seasonable
 seasonableness
 seasonably
+seasonal
 seasonalities
 seasonality
 seasonally
@@ -137315,6 +137347,7 @@ treens
 treenware
 treenwares
 trees
+treetop
 treetops
 tref
 trefah
@@ -137922,6 +137955,7 @@ triste
 tristearin
 tristearins
 tristful
+tristfully
 tristfulness
 tristich
 tristichs
@@ -149613,6 +149647,7 @@ xylophagous
 xylophone
 xylophones
 xylophonist
+xylose
 xyloses
 xylotomy
 xylyl
