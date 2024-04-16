@@ -3870,6 +3870,7 @@ ampullar
 ampullary
 ampuls
 amputated
+amputating
 amputation
 amputations
 amputator
@@ -5631,6 +5632,7 @@ aphasias
 aphasic
 aphasics
 aphelia
+aphelian
 aphelions
 apheresis
 apheretic
@@ -11921,6 +11923,7 @@ beveler
 bevelers
 beveling
 bevelled
+beveller
 bevellers
 bevelling
 bevels
@@ -13075,6 +13078,7 @@ blackamoors
 blackball
 blackballed
 blackballing
+blackballs
 blackberries
 blackberry
 blackbird
@@ -29932,6 +29936,7 @@ crumbled
 crumbles
 crumbliest
 crumblinesses
+crumbling
 crumblings
 crumbly
 crumbs
@@ -37564,6 +37569,7 @@ disunity
 disuse
 disused
 disuses
+disusing
 disutility
 disvalue
 disvalued
@@ -38045,6 +38051,7 @@ dogvane
 dogwatch
 dogwood
 dogwoods
+dogy
 doiled
 doily
 doing
@@ -41995,6 +42002,7 @@ encyclopaedic
 encyclopedia
 encyclopedias
 encyclopedic
+encyclopedism
 encyclopedists
 encyst
 encysted
@@ -43880,6 +43888,7 @@ escrowed
 escrowing
 escrows
 escuage
+escuages
 escudo
 escudos
 esculent
@@ -45313,6 +45322,7 @@ expandability
 expandable
 expanded
 expander
+expanders
 expanding
 expandors
 expanse
@@ -54725,6 +54735,7 @@ gnarr
 gnarred
 gnarring
 gnarrs
+gnars
 gnash
 gnashes
 gnashing
@@ -64912,6 +64923,7 @@ inearthed
 inearths
 inebriants
 inebriate
+inebriated
 inebriates
 inebriation
 inebriations
@@ -70568,6 +70580,7 @@ knifed
 knifepoint
 knifepoints
 knifers
+knifes
 knifing
 knight
 knighted
@@ -73561,6 +73574,7 @@ linguae
 lingual
 lingually
 linguals
+linguicas
 linguine
 linguines
 linguini
@@ -76723,6 +76737,7 @@ margents
 marges
 marginal
 marginalities
+marginality
 marginalization
 marginalize
 marginalized
@@ -82093,6 +82108,7 @@ moorworts
 moos
 moosebird
 moosebirds
+moosewood
 moot
 mooted
 mooters
@@ -88476,6 +88492,7 @@ oilseed
 oilseeds
 oilskin
 oilskins
+oilstone
 oilstones
 oilway
 oilways
@@ -90302,6 +90319,7 @@ outgrows
 outgrowths
 outguess
 outguesses
+outguessing
 outguided
 outguides
 outguiding
@@ -92444,6 +92462,7 @@ overwhelm
 overwhelmed
 overwhelming
 overwhelms
+overwide
 overwily
 overwinding
 overwinter
@@ -92665,6 +92684,7 @@ oy
 oyer
 oyers
 oyes
+oyesses
 oyez
 oyezes
 oyster
@@ -101690,6 +101710,7 @@ prelimit
 prelimited
 prelimiting
 prelimits
+prelims
 preliterary
 preliterate
 preliterates
@@ -101770,6 +101791,7 @@ premies
 premigration
 premillenarian
 premillenarians
+premillennially
 premise
 premised
 premises
@@ -103041,6 +103063,7 @@ profaned
 profaneness
 profanenesses
 profaner
+profaners
 profanes
 profanities
 professed
@@ -119345,6 +119368,7 @@ shamefacedly
 shamefacedness
 shamefast
 shamefully
+shamefulness
 shamefulnesses
 shameless
 shamelessly
@@ -120969,6 +120993,7 @@ simious
 simitar
 simitars
 simlin
+simlins
 simmer
 simmered
 simmering
@@ -124662,6 +124687,7 @@ spermatogonia
 spermatogonial
 spermatophore
 spermatophores
+spermatophytes
 spermatophytic
 spermatozoa
 spermatozoal
@@ -125869,6 +125895,7 @@ staffed
 staffer
 staffers
 staffing
+staffs
 stag
 stageable
 stagecoach
@@ -128301,6 +128328,7 @@ subdividers
 subdivides
 subdividing
 subdivision
+subdivisions
 subdominant
 subduable
 subdual
@@ -129200,6 +129228,7 @@ suffusion
 suffusions
 suffusive
 sugar
+sugarberries
 sugarberry
 sugarbush
 sugarbushes
@@ -133807,6 +133836,7 @@ thanatologies
 thanatologist
 thanatologists
 thanatology
+thanatos
 thanatoses
 thane
 thanes
@@ -136167,6 +136197,7 @@ tourists
 touristy
 tourmalines
 tournament
+tournaments
 tournedos
 tourney
 tourneying
@@ -136215,6 +136246,7 @@ toweriest
 towering
 towerlike
 towers
+towhead
 towheads
 towhee
 towhees
@@ -136901,6 +136933,7 @@ transuranics
 transuranium
 transvaluate
 transvaluates
+transvaluations
 transvalue
 transvalued
 transvalues
@@ -143475,6 +143508,7 @@ usurer
 usurers
 usuries
 usurious
+usuriously
 usuriousness
 usuriousnesses
 usurpations
@@ -145735,6 +145769,7 @@ volubilities
 volubility
 voluble
 volubleness
+volublenesses
 volumed
 volumes
 volumeter
