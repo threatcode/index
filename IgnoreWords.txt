@@ -2908,6 +2908,7 @@ alkyl
 alkylated
 alkylates
 alkylating
+alkylation
 alkylations
 alkyls
 alkyne
@@ -4133,6 +4134,7 @@ anaplasia
 anaplasias
 anaplasmoses
 anaplasmosis
+anaplastic
 anaptyxes
 anaptyxis
 anarch
@@ -9522,6 +9524,7 @@ ballyragging
 ballyrags
 balm
 balmacaan
+balmacaans
 balmier
 balmiest
 balminess
@@ -18405,6 +18408,7 @@ canted
 canteens
 canter
 cantered
+cantering
 canters
 canthal
 cantharides
@@ -18901,6 +18905,7 @@ carcinoids
 carcinoma
 carcinomas
 carcinomata
+carcinomatoses
 carcinomatosis
 carcinomatous
 carcinosarcoma
@@ -40216,6 +40221,7 @@ earn
 earned
 earner
 earnest
+earnestly
 earnestnesses
 earnests
 earning
@@ -51971,6 +51977,7 @@ fumbles
 fumbling
 fumblingly
 fumeless
+fumers
 fumes
 fumet
 fumette
@@ -57130,6 +57137,7 @@ gustinesses
 gusting
 gustless
 gustoes
+gusts
 gusty
 gut
 gutbucket
@@ -58378,6 +58386,7 @@ harrowers
 harrows
 harrumphing
 harrumphs
+harrying
 harsh
 harshens
 harsher
@@ -68182,6 +68191,7 @@ isoglossal
 isoglossic
 isogon
 isogonal
+isogone
 isogones
 isogonic
 isogonies
@@ -68716,6 +68726,7 @@ jaundice
 jaundiced
 jaundices
 jaunt
+jaunted
 jauntier
 jauntiest
 jauntily
@@ -71663,6 +71674,7 @@ lampas
 lampases
 lampblack
 lampblacks
+lampers
 lamperses
 lamping
 lampion
@@ -73090,6 +73102,7 @@ leukodystrophy
 leukoma
 leukomas
 leukon
+leukons
 leukopenia
 leukopenias
 leukopenic
@@ -75387,6 +75400,7 @@ luncheon
 luncheonette
 luncheonettes
 luncher
+lunchers
 lunches
 lunching
 lunchmeat
@@ -76345,6 +76359,7 @@ malaroma
 malaromas
 malars
 malate
+malathion
 malathions
 malcontented
 malcontentedly
@@ -80076,6 +80091,7 @@ minding
 mindless
 mindlessly
 mindlessness
+mindlessnesses
 minds
 mindset
 mindsets
@@ -80933,6 +80949,7 @@ mislive
 mislives
 misliving
 mislocate
+mislocated
 mislocates
 mislocating
 mislocations
@@ -81427,6 +81444,7 @@ mitosis
 mitotically
 mitral
 mitre
+mitred
 mitres
 mitreworts
 mitring
@@ -89127,6 +89145,7 @@ ontogenic
 ontologic
 ontological
 ontologies
+ontologist
 ontologists
 ontology
 onus
@@ -95415,6 +95434,7 @@ pedocals
 pedogeneses
 pedogenesis
 pedogenetic
+pedogenic
 pedologic
 pedological
 pedologies
@@ -97041,6 +97061,7 @@ philanderer
 philanderers
 philandering
 philanders
+philanthropic
 philanthropies
 philanthropist
 philanthropists
@@ -105520,6 +105541,7 @@ puttylike
 puttyroot
 puttyroots
 putz
+putzed
 putzes
 puzzle
 puzzled
@@ -106023,6 +106045,7 @@ quartzites
 quartzose
 quartzous
 quasars
+quashed
 quashes
 quashing
 quasi
@@ -108155,6 +108178,7 @@ receivables
 receive
 received
 receiver
+receivers
 receivership
 receiverships
 receives
@@ -121146,6 +121170,7 @@ sievert
 sieverts
 sieving
 sifaka
+siffleur
 sift
 sifter
 sifters
@@ -121222,6 +121247,7 @@ signals
 signatories
 signatory
 signature
+signatures
 signboard
 signboards
 signed
@@ -121641,6 +121667,7 @@ sinusoidal
 sinusoidally
 sip
 sipe
+siped
 sipes
 siphonage
 siphonages
@@ -122543,6 +122570,7 @@ slipcover
 slipcovering
 slipcovers
 slipdress
+slipdresses
 slipe
 sliped
 slipes
@@ -126574,6 +126602,7 @@ stanhope
 stanine
 staning
 stank
+stanks
 stannaries
 stannary
 stannic
@@ -132933,6 +132962,7 @@ taunted
 taunter
 taunters
 taunting
+tauntingly
 taunts
 tauon
 taupe
@@ -132948,6 +132978,7 @@ tauter
 tautest
 tauting
 tautly
+tautnesses
 tautog
 tautogs
 tautological
@@ -137225,6 +137256,7 @@ transfusion
 transfusional
 transfusions
 transgender
+transgendered
 transgene
 transgenes
 transgenic
@@ -140455,6 +140487,7 @@ unchastity
 unchauvinistic
 uncheckable
 unchecked
+unchewable
 unchic
 unchildlike
 unchilled
@@ -148313,6 +148346,7 @@ whittlers
 whittling
 whittlings
 whittret
+whittrets
 whity
 whiz
 whizbang
@@ -148450,6 +148484,7 @@ wickiups
 wickless
 wickyup
 wickyups
+wicopies
 wicopy
 widder
 widdershins
