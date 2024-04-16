@@ -827,6 +827,7 @@ acridine
 acridines
 acridities
 acridness
+acridnesses
 acriflavine
 acriflavines
 acrimonies
@@ -3703,6 +3704,7 @@ ammoniating
 ammoniation
 ammoniations
 ammonic
+ammonifications
 ammonified
 ammonifies
 ammonify
@@ -5167,6 +5169,7 @@ antilife
 antiliterate
 antilock
 antilogarithm
+antilogarithms
 antilogical
 antilogs
 antilogy
@@ -8450,6 +8453,7 @@ avalanched
 avalanches
 avalanching
 avarice
+avarices
 avaricious
 avariciously
 avariciousness
@@ -13227,6 +13231,7 @@ blancmange
 blancmanges
 bland
 blander
+blandest
 blandish
 blandished
 blandisher
@@ -14833,6 +14838,7 @@ boubous
 bouchee
 bouchees
 boucles
+boudin
 boudins
 boudoir
 bouffant
@@ -21815,6 +21821,7 @@ chloroforms
 chlorohydrins
 chlorophyll
 chlorophyllous
+chloropicrin
 chloropicrins
 chloroplast
 chloroplasts
@@ -26315,6 +26322,7 @@ conglomerations
 conglomerative
 conglomerators
 conglutinate
+conglutinated
 conglutinates
 conglutinating
 conglutination
@@ -27727,6 +27735,7 @@ corking
 corklike
 corks
 corkscrew
+corkscrewed
 corkscrewing
 corkscrews
 corkwood
@@ -38418,6 +38427,7 @@ dore
 dorhawk
 dories
 dork
+dorkier
 dorkiest
 dorkiness
 dorkinesses
@@ -41314,6 +41324,7 @@ emanators
 emancipate
 emancipated
 emancipates
+emancipating
 emancipation
 emancipationist
 emancipations
@@ -45770,6 +45781,7 @@ extensionally
 extensions
 extensities
 extensity
+extensive
 extensively
 extensiveness
 extensivenesses
@@ -53177,6 +53189,7 @@ gazettes
 gazetting
 gazillion
 gazillions
+gazing
 gazogene
 gazoo
 gazoos
@@ -72532,6 +72545,7 @@ legendries
 legendry
 leger
 legerdemain
+legerdemains
 legerities
 legerity
 legers
@@ -72590,6 +72604,7 @@ legitimators
 legitimise
 legitimised
 legitimises
+legitimising
 legitimism
 legitimisms
 legitimist
@@ -75254,6 +75269,7 @@ lupous
 lupulin
 lupulins
 lupus
+lupuses
 lurch
 lurched
 lurcher
@@ -81812,6 +81828,7 @@ monocrystal
 monocrystalline
 monocrystals
 monocular
+monoculars
 monocultural
 monoculture
 monocultures
@@ -84021,6 +84038,7 @@ naloxones
 naltrexone
 naltrexones
 nam
+namable
 namaycush
 namaycushes
 name
@@ -87414,6 +87432,7 @@ nucellar
 nucelli
 nucellus
 nucha
+nuchae
 nuchal
 nuchals
 nucleal
@@ -88333,6 +88352,7 @@ odographs
 odometer
 odometers
 odometries
+odometry
 odonate
 odonates
 odontoblast
@@ -95266,6 +95286,7 @@ pekepoos
 pekes
 pekin
 pekins
+pekoe
 pelage
 pelages
 pelagial
@@ -97102,6 +97123,7 @@ photoionize
 photoionized
 photoionizes
 photoionizing
+photojournalism
 photojournalist
 photokinetic
 photolithograph
@@ -98473,6 +98495,7 @@ plain
 plainchant
 plainclothes
 plainclothesman
+plainclothesmen
 plained
 plainer
 plaining
@@ -98838,6 +98861,7 @@ playtimes
 playwear
 playwright
 playwrighting
+playwrightings
 playwrights
 playwriting
 playwritings
@@ -99478,6 +99502,7 @@ poitrel
 poitrels
 pokable
 poke
+pokeberries
 pokeberry
 poked
 poker
@@ -100109,6 +100134,7 @@ pooris
 poorish
 poorly
 poormouth
+poormouthed
 poormouthing
 poormouths
 poornesses
@@ -100687,6 +100713,7 @@ potassiums
 potation
 potations
 potatobugs
+potatoes
 potatory
 potbellied
 potbellies
@@ -102411,6 +102438,7 @@ presumedly
 presumer
 presumers
 presumes
+presuming
 presummit
 presumptive
 presumptively
@@ -115622,6 +115650,7 @@ samp
 sampan
 sampans
 samphire
+samphires
 sample
 sampled
 sampler
@@ -118962,6 +118991,7 @@ serialism
 serialisms
 serialist
 serialists
+serialization
 serialize
 serialized
 serializes
@@ -129333,6 +129363,7 @@ sufflate
 sufflated
 sufflates
 suffocate
+suffocates
 suffocating
 suffocatingly
 suffocation
@@ -132273,6 +132304,7 @@ tantalised
 tantalising
 tantalite
 tantalites
+tantalized
 tantalizers
 tantalizes
 tantalizing
@@ -135248,6 +135280,7 @@ tinglers
 tingles
 tinglier
 tingling
+tingly
 tings
 tinhorn
 tinhorns
@@ -146260,6 +146293,7 @@ waggly
 waggon
 waggoned
 waggoner
+waggoners
 waggoning
 wagon
 wagonage
@@ -146495,6 +146529,7 @@ waney
 wangan
 wangans
 wangle
+wangled
 wangler
 wanglers
 wangles
