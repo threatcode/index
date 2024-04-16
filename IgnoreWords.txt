@@ -1146,6 +1146,7 @@ adequacies
 adequacy
 adequate
 adequately
+adequateness
 adequatenesses
 adherable
 adhere
@@ -1429,6 +1430,7 @@ adulatory
 adult
 adulterant
 adulterants
+adulterate
 adulterated
 adulterates
 adulterating
@@ -13320,6 +13322,7 @@ blastment
 blastments
 blastocoel
 blastocoele
+blastocoeles
 blastocoelic
 blastocoels
 blastocyst
@@ -15300,6 +15303,7 @@ braky
 braless
 bramble
 brambled
+bramblier
 brambliest
 brambling
 brambly
@@ -19360,6 +19364,7 @@ carves
 carving
 carwash
 carwashes
+caryatid
 caryatids
 caryopses
 caryopsides
@@ -22531,6 +22536,7 @@ cinchonic
 cinchonine
 cinchonines
 cinchonism
+cinchonisms
 cincture
 cinctured
 cinctures
@@ -28236,6 +28242,7 @@ cosmic
 cosmical
 cosmically
 cosmid
+cosmids
 cosmisms
 cosmist
 cosmists
@@ -31613,6 +31620,7 @@ dammars
 dammed
 dammer
 damming
+damnable
 damnablenesses
 damnably
 damnation
@@ -33822,6 +33830,7 @@ denationalizing
 denaturalize
 denaturalizes
 denaturalizing
+denaturant
 denaturants
 denaturation
 denaturations
@@ -35024,6 +35033,7 @@ deviant
 deviants
 deviate
 deviated
+deviates
 deviating
 deviation
 deviationism
@@ -36076,6 +36086,7 @@ dingies
 dingiest
 dingily
 dinginess
+dinginesses
 dinging
 dingleberries
 dingleberry
@@ -39778,6 +39789,7 @@ dumbwaiters
 dumdums
 dumfound
 dumfounded
+dumfounding
 dumfounds
 dumky
 dummied
@@ -45879,6 +45891,7 @@ exsertions
 exserts
 exsiccate
 exsiccated
+exsiccates
 exsiccating
 exsiccation
 exsiccations
@@ -54677,6 +54690,7 @@ globalists
 globalizations
 globalize
 globalized
+globalizes
 globalizing
 globate
 globated
@@ -58269,6 +58283,7 @@ hardheadedly
 hardheadedness
 hardheads
 hardier
+hardies
 hardiest
 hardihoods
 hardiment
@@ -59871,6 +59886,7 @@ heterophyllous
 heterophylly
 heteroploid
 heteroploidies
+heteroploids
 heteroploidy
 heteropterous
 heteroses
@@ -62112,6 +62128,7 @@ hydra
 hydracids
 hydrae
 hydragog
+hydralazines
 hydrangea
 hydrant
 hydranth
@@ -64204,6 +64221,7 @@ impulsivities
 impulsivity
 impunities
 impure
+impurely
 impureness
 impurenesses
 impurer
@@ -65768,6 +65786,7 @@ inheritability
 inheritableness
 inheritance
 inheritances
+inherited
 inheriting
 inheritor
 inheritors
@@ -73086,6 +73105,7 @@ lethally
 lethals
 lethargic
 lethargically
+lethargies
 lethargy
 lethe
 lethean
@@ -77851,6 +77871,7 @@ mazeltov
 mazer
 mazers
 mazier
+maziest
 mazily
 maziness
 mazinesses
@@ -80776,6 +80797,7 @@ misemployment
 misemployments
 misemploys
 misenrol
+misenroll
 misenrols
 misenter
 misentered
@@ -83409,6 +83431,7 @@ multimedias
 multimegaton
 multimegawatt
 multimegawatts
+multimember
 multimillion
 multimodal
 multimode
@@ -91886,6 +91909,7 @@ overdue
 overdye
 overdyed
 overdyeing
+overdyer
 overdyers
 overdyes
 overeager
@@ -92900,6 +92924,7 @@ overword
 overwords
 overwore
 overwork
+overworked
 overworking
 overworn
 overwound
@@ -103019,6 +103044,7 @@ prey
 preyed
 preyers
 preying
+preys
 prez
 prezes
 priapean
@@ -103337,6 +103363,7 @@ proabortion
 proaction
 proactions
 proas
+probabilism
 probabilisms
 probabilists
 probabilities
@@ -109557,6 +109584,7 @@ refights
 refigure
 refigured
 refigures
+refiguring
 refile
 refiled
 refiles
@@ -123926,6 +123954,7 @@ solan
 solanaceous
 soland
 solander
+solanders
 solands
 solanin
 solanine
@@ -124534,6 +124563,7 @@ soubriquets
 soucar
 soucars
 souchong
+souchongs
 soudan
 souffle
 souffled
@@ -128336,6 +128366,7 @@ strived
 striven
 striver
 strives
+striving
 strobes
 strobic
 strobil
@@ -134786,6 +134817,7 @@ thiazides
 thiazin
 thiazine
 thiazins
+thiazol
 thiazole
 thiazoles
 thiazols
@@ -136458,6 +136490,7 @@ topminnows
 topmost
 topnotch
 topnotcher
+topnotchers
 topo
 topocentric
 topograph
@@ -147408,6 +147441,7 @@ watermelon
 watermelons
 watermen
 waterpower
+waterproofed
 waterproofer
 waterproofing
 waterproofings
@@ -148592,6 +148626,7 @@ wicopy
 widder
 widdershins
 widdie
+widdle
 widdling
 wide
 wideawake
