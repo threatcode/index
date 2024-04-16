@@ -2361,6 +2361,7 @@ airbursts
 airbus
 airbuses
 airbusses
+aircheck
 aircoach
 aircoaches
 aircraft
@@ -3785,6 +3786,7 @@ amortizes
 amosite
 amosites
 amotion
+amotions
 amount
 amounted
 amounts
@@ -6270,6 +6272,7 @@ arable
 arables
 araceous
 arachnid
+arachnids
 arachnoid
 arachnoids
 aragonite
@@ -7087,6 +7090,7 @@ ascertains
 asceses
 ascesis
 ascetic
+ascetical
 asceticism
 ascetics
 asci
@@ -13854,6 +13858,7 @@ bluffed
 bluffer
 bluffers
 bluffest
+bluffing
 bluffness
 bluffnesses
 bluffs
@@ -14350,6 +14355,7 @@ bonemeal
 bonemeals
 boners
 boneset
+bonesets
 bonesetters
 boney
 boneyard
@@ -15543,6 +15549,7 @@ breccias
 brecciated
 brecciates
 brecciating
+brecciation
 brecham
 brechan
 brechans
@@ -22393,6 +22400,7 @@ chymists
 chymosins
 chymotrypsin
 chymotrypsins
+chymotryptic
 chymous
 chytrid
 chytrids
@@ -24009,6 +24017,7 @@ cocktails
 cockup
 cockups
 cocky
+coco
 cocoa
 cocoanut
 cocoanuts
@@ -30002,6 +30011,7 @@ crumby
 crumhorns
 crummie
 crummier
+crummies
 crummiest
 crumminess
 crumminesses
@@ -42938,6 +42948,7 @@ entrainers
 entraining
 entrainments
 entrains
+entrance
 entranced
 entrancement
 entrancements
@@ -43950,6 +43961,7 @@ eschewals
 eschewed
 eschewer
 eschewers
+eschewing
 eschews
 escolar
 escolars
@@ -47990,6 +48002,7 @@ fiefs
 field
 fielders
 fieldfare
+fieldfares
 fielding
 fieldpiece
 fieldpieces
@@ -50704,6 +50717,7 @@ fortes
 forth
 forthcoming
 forthright
+forthrightly
 forthrightness
 forthrights
 forthwith
@@ -53080,6 +53094,7 @@ gates
 gateway
 gateways
 gather
+gathered
 gatherers
 gathering
 gatherings
@@ -53991,6 +54006,7 @@ giglot
 giglots
 gigolo
 gigolos
+gigot
 gigots
 gigs
 gigue
@@ -56205,6 +56221,7 @@ grimness
 grimnesses
 grimy
 grin
+grinch
 grinches
 grind
 grinded
@@ -57581,6 +57598,7 @@ halfway
 halibuts
 halid
 halide
+halidom
 halidome
 halidomes
 halidoms
@@ -58363,6 +58381,7 @@ hatchecks
 hatched
 hatchel
 hatcheled
+hatcheling
 hatchelled
 hatchelling
 hatchels
@@ -59164,6 +59183,7 @@ helplessnesses
 helpmate
 helpmeets
 helps
+helve
 helved
 helves
 helving
@@ -76700,6 +76720,7 @@ mantid
 mantids
 mantilla
 mantillas
+mantissa
 mantissas
 mantle
 mantlet
@@ -77246,6 +77267,7 @@ mastaba
 mastabah
 mastabahs
 mastabas
+mastectomy
 masted
 master
 masterdom
@@ -78398,6 +78420,7 @@ mephitis
 meprobamate
 merc
 mercantile
+mercantilism
 mercantilisms
 mercantilist
 mercantilistic
@@ -81484,6 +81507,7 @@ modules
 moduli
 modulo
 modulus
+modus
 mofette
 moffette
 moffettes
@@ -82893,6 +82917,7 @@ mucoid
 mucoidal
 mucoids
 mucolytic
+mucopeptide
 mucopeptides
 mucoprotein
 mucoproteins
@@ -96504,6 +96529,7 @@ petalodies
 petalody
 petaloid
 petalous
+petard
 petards
 petasos
 petasoses
@@ -96548,6 +96574,7 @@ petrifaction
 petrification
 petrifications
 petrifier
+petrifiers
 petrifies
 petrify
 petrifying
@@ -101561,6 +101588,7 @@ predicting
 prediction
 predictions
 predictive
+predictively
 predictor
 predicts
 predigest
@@ -104174,6 +104202,7 @@ proudnesses
 proustite
 proustites
 provable
+provableness
 provablenesses
 provably
 provascular
@@ -106272,6 +106301,7 @@ rabboni
 rabic
 rabid
 rabidities
+rabidly
 rabidnesses
 rabies
 rabietic
@@ -108070,6 +108100,7 @@ recitalist
 recitalists
 recitals
 recitation
+recitations
 recitative
 recitatives
 recitativos
@@ -128831,6 +128862,7 @@ subnetwork
 subnetworked
 subnetworking
 subnetworks
+subniche
 subniches
 subnodal
 subnormal
@@ -133418,6 +133450,7 @@ tendency
 tendentious
 tendentiously
 tendentiousness
+tender
 tendered
 tenderers
 tenderest
@@ -142808,6 +142841,7 @@ untasted
 untaught
 untaxed
 unteach
+unteaches
 untechnical
 untempered
 untenabilities
@@ -148788,6 +148822,7 @@ withholders
 withier
 withies
 withiest
+within
 withindoors
 withing
 withins
