@@ -7442,6 +7442,7 @@ assonantal
 assortative
 assortatively
 assorted
+assorting
 assortment
 assortments
 assuage
@@ -12729,6 +12730,7 @@ biophysicists
 biopic
 biopics
 biopiracies
+biopiracy
 biopirate
 bioplasm
 biopolymer
@@ -21586,9 +21588,11 @@ chiliads
 chiliarch
 chiliarchs
 chiliasm
+chiliasms
 chiliast
 chiliasts
 chilidogs
+chilies
 chill
 chilled
 chiller
@@ -24262,6 +24266,7 @@ coequal
 coequalities
 coequality
 coequally
+coequate
 coequated
 coequates
 coequating
@@ -25943,6 +25948,7 @@ conclusive
 conclusively
 conclusory
 concoct
+concocted
 concocter
 concocting
 concoction
@@ -36526,6 +36532,7 @@ discepts
 discern
 discernable
 discerned
+discerner
 discerners
 discernible
 discernibly
@@ -43072,6 +43079,7 @@ enucleates
 enucleating
 enucleation
 enucleations
+enuf
 enumerabilities
 enumerable
 enumerate
@@ -43741,6 +43749,7 @@ erbium
 erbiums
 ere
 erect
+erectable
 erected
 erecter
 erecters
@@ -45258,6 +45267,7 @@ exhaled
 exhalent
 exhalents
 exhales
+exhaling
 exhaust
 exhausted
 exhauster
@@ -45927,6 +45937,7 @@ externalities
 externality
 externalization
 externalize
+externalized
 externalizes
 externalizing
 externally
@@ -46759,6 +46770,7 @@ fantastically
 fantasticalness
 fantasticate
 fantasticated
+fantasticates
 fantasticating
 fantastication
 fantastico
@@ -48178,6 +48190,7 @@ fileable
 filed
 filefish
 filefishes
+filemot
 filename
 filenames
 filers
@@ -58258,6 +58271,7 @@ hareems
 harelike
 harelips
 hares
+hariana
 harianas
 haricot
 harijan
@@ -65547,6 +65561,7 @@ infrastructure
 infrastructures
 infrequence
 infrequences
+infrequencies
 infrequent
 infrequently
 infringe
@@ -70238,6 +70253,7 @@ khafs
 khaki
 khakilike
 khakis
+khalif
 khalifa
 khalifas
 khalifates
@@ -71445,6 +71461,7 @@ lagans
 lagend
 lager
 lagered
+lagering
 lagers
 laggard
 laggardly
@@ -71562,6 +71579,7 @@ lambkill
 lambkills
 lambkin
 lamblike
+lambrequin
 lambrequins
 lambrusco
 lambruscos
@@ -73403,6 +73421,7 @@ liens
 lienteries
 lientery
 lierne
+lies
 lieu
 lieus
 lieutenancies
@@ -79841,6 +79860,7 @@ milkiness
 milkinesses
 milking
 milkless
+milkmaid
 milkmaids
 milkman
 milks
@@ -80985,6 +81005,7 @@ misos
 mispackage
 mispackaged
 mispackages
+mispage
 mispages
 mispaging
 mispainted
@@ -87457,6 +87478,7 @@ notchbacks
 notched
 notcher
 notchers
+notches
 notching
 note
 notebook
@@ -88208,6 +88230,7 @@ observations
 observatories
 observatory
 observe
+observed
 observer
 observers
 observes
@@ -90711,6 +90734,7 @@ outlander
 outlandish
 outlandishly
 outlandishness
+outlands
 outlast
 outlasting
 outlasts
@@ -92217,6 +92241,7 @@ overnighter
 overnighters
 overnighting
 overnights
+overnourish
 overnourished
 overnourishes
 overnourishing
@@ -94863,6 +94888,7 @@ pathologies
 pathologists
 pathology
 pathophysiology
+pathos
 pathoses
 paths
 pathway
@@ -95942,6 +95968,7 @@ perceiver
 perceivers
 perceives
 perceiving
+percent
 percentage
 percentages
 percental
@@ -98045,6 +98072,7 @@ pilgrimaging
 pilgrims
 pili
 piliform
+piling
 pilings
 pilis
 pill
@@ -100283,6 +100311,7 @@ ponged
 pongee
 pongees
 pongid
+pongids
 pongs
 poniard
 poniarded
@@ -111323,6 +111352,7 @@ replows
 replumb
 replumbed
 replumbing
+replunge
 replunged
 replunges
 replunging
@@ -120843,6 +120873,7 @@ shtik
 shtiks
 shuck
 shucked
+shucker
 shucking
 shuckings
 shuddered
@@ -126562,6 +126593,7 @@ stapedial
 stapelia
 stapelias
 stapes
+staph
 staphs
 staphylinids
 staphylococcal
@@ -134065,6 +134097,7 @@ testaceans
 testaceous
 testacies
 testacy
+testae
 testamentary
 testate
 testates
@@ -143198,6 +143231,7 @@ unvoiced
 unvoices
 unvoicing
 unwalled
+unwanted
 unwarier
 unwarily
 unwariness
@@ -147522,6 +147556,7 @@ webbing
 webbings
 webby
 webcam
+webcams
 webcast
 webcasted
 webcaster
