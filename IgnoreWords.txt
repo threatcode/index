@@ -4013,6 +4013,7 @@ anagrammatize
 anagrammatized
 anagrammatizes
 anagrammatizing
+anagrammed
 anagramming
 anagrams
 anal
@@ -6010,6 +6011,7 @@ applicant
 applicants
 application
 applications
+applicative
 applicator
 applicators
 applicatory
@@ -7733,6 +7735,7 @@ atoned
 atonement
 atonements
 atoner
+atoners
 atones
 atonia
 atonias
@@ -9723,6 +9726,7 @@ banter
 bantered
 banterer
 banterers
+bantering
 banteringly
 banters
 banties
@@ -15660,6 +15664,7 @@ briefcases
 briefed
 briefer
 briefers
+briefest
 briefing
 briefings
 briefless
@@ -16209,6 +16214,7 @@ bruxing
 bruxism
 bryological
 bryologist
+bryologists
 bryology
 bryonies
 bryony
@@ -21136,6 +21142,7 @@ checkrowed
 checkrowing
 checkrows
 checks
+checksum
 checkup
 checkups
 cheddar
@@ -34627,6 +34634,7 @@ detail
 detailed
 detailedly
 detailednesses
+detailer
 detailers
 detailing
 detailings
@@ -48015,6 +48023,7 @@ filagreed
 filagreeing
 filagrees
 filament
+filamentary
 filamentous
 filaments
 filar
@@ -51806,6 +51815,7 @@ fumatory
 fumble
 fumbled
 fumbler
+fumblers
 fumbles
 fumbling
 fumblingly
@@ -56542,6 +56552,7 @@ gruntled
 gruntles
 gruntling
 grunts
+grushie
 grutch
 grutched
 grutches
@@ -58846,6 +58857,7 @@ heedfulnesses
 heedless
 heedlessly
 heedlessness
+heedlessnesses
 heeds
 heehaw
 heehawed
@@ -59671,6 +59683,7 @@ heugh
 heughs
 heulandite
 heulandites
+heuristically
 hewable
 hewed
 hewer
@@ -69527,6 +69540,7 @@ kaiserdoms
 kaiserin
 kaiserins
 kaiserism
+kaiserisms
 kajeput
 kajeputs
 kakapo
@@ -73321,6 +73335,7 @@ lighttight
 lightweight
 lightweights
 lightwood
+lightwoods
 lignaloes
 lignan
 lignans
@@ -75255,6 +75270,7 @@ lushnesses
 lust
 lusted
 luster
+lustered
 lustering
 lusters
 lusterware
@@ -75297,6 +75313,7 @@ lutecium
 luteciums
 luted
 lutefisk
+lutefisks
 lutein
 luteinizations
 luteinize
@@ -82914,6 +82931,7 @@ muggily
 mugginess
 mugginesses
 mugging
+muggings
 muggs
 muggur
 muggurs
@@ -95490,6 +95508,7 @@ pentanes
 pentangles
 pentanol
 pentanols
+pentapeptides
 pentaploid
 pentaploidies
 pentaploids
@@ -98146,6 +98165,7 @@ piroshki
 pirouette
 pirouetted
 pirouettes
+pirouetting
 pirozhki
 pirozhok
 pis
@@ -98829,6 +98849,7 @@ pleasurably
 pleasure
 pleasured
 pleasureless
+pleasures
 pleasuring
 pleat
 pleated
@@ -99887,6 +99908,7 @@ polysyllabic
 polysyllable
 polysyndetons
 polytechnic
+polytechnics
 polytene
 polytenies
 polyteny
@@ -100586,6 +100608,7 @@ postsynced
 postsyncing
 postsyncs
 posttax
+postteen
 postteens
 posttension
 posttensioned
@@ -102191,6 +102214,7 @@ presentenced
 presentences
 presentencing
 presenter
+presenters
 presentient
 presentiment
 presentimental
@@ -112064,6 +112088,7 @@ restrive
 restrives
 restriving
 restroom
+restrooms
 restrove
 restruck
 restructure
@@ -114766,6 +114791,7 @@ runoff
 runoffs
 runouts
 runover
+runovers
 runround
 runrounds
 runs
@@ -115749,6 +115775,7 @@ sanitize
 sanitized
 sanitizer
 sanitizers
+sanitizes
 sanitoria
 sanitorium
 sanitoriums
@@ -115766,6 +115793,7 @@ sannyasis
 sans
 sansar
 sansculotte
+sansculottes
 sansculottic
 sansculottish
 sansculottism
@@ -124070,6 +124098,7 @@ sounding
 soundingly
 soundings
 soundless
+soundlessly
 soundly
 soundman
 soundmen
@@ -129174,6 +129203,7 @@ suchlike
 suchness
 suchnesses
 sucked
+suckered
 suckering
 suckers
 suckfish
@@ -131948,6 +131978,7 @@ talesmen
 taleysim
 tali
 talion
+talions
 taliped
 talipeds
 talipes
@@ -138918,6 +138949,7 @@ twee
 tweed
 tweediest
 tweediness
+tweedinesses
 tweedles
 tweedling
 tweeds
@@ -139157,6 +139189,7 @@ typifications
 typifier
 typifiers
 typifies
+typify
 typifying
 typing
 typist
@@ -141592,6 +141625,7 @@ unkinder
 unkindest
 unkindled
 unkindliest
+unkindlinesses
 unkindly
 unkindness
 unkindnesses
@@ -144364,6 +144398,7 @@ velocipede
 velocipedes
 velociraptor
 velociraptors
+velocity
 velodrome
 velodromes
 velour
