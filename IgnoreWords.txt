@@ -585,6 +585,7 @@ acerbating
 acerber
 acerbest
 acerbic
+acerbically
 acerbities
 acerbity
 acerolas
@@ -947,6 +948,7 @@ activates
 activating
 activation
 activations
+activators
 active
 actively
 activeness
@@ -15014,6 +15016,7 @@ bourdon
 bourdons
 bourgeois
 bourgeoises
+bourgeoisie
 bourgeoisies
 bourgeoisified
 bourgeoisifying
@@ -15381,6 +15384,7 @@ branders
 brandied
 brandies
 branding
+brandings
 brandish
 brandished
 brandishes
@@ -15472,6 +15476,7 @@ bravas
 brave
 braved
 bravely
+braveness
 bravenesses
 braver
 braveries
@@ -26414,6 +26419,7 @@ conform
 conformable
 conformably
 conformal
+conformances
 conformation
 conformational
 conformations
@@ -27108,6 +27114,7 @@ contentions
 contentious
 contentiously
 contentiousness
+contentment
 contentments
 contents
 conterminous
@@ -30569,6 +30576,7 @@ culminations
 culms
 culotte
 culottes
+culpa
 culpability
 culpable
 culpableness
@@ -32651,6 +32659,7 @@ deckhouses
 decking
 deckings
 decks
+declaim
 declaimed
 declaimer
 declaimers
@@ -35669,6 +35678,7 @@ dicentra
 dicentrics
 dicer
 dicers
+dices
 dicey
 dichasia
 dichasial
@@ -44937,6 +44947,7 @@ evasive
 evasively
 evasiveness
 evasivenesses
+eve
 evection
 eveners
 evenest
@@ -45684,6 +45695,7 @@ exotism
 exotisms
 exotoxic
 exotoxin
+exotropia
 exotropias
 exotropic
 expandabilities
@@ -46882,6 +46894,7 @@ famulus
 fan
 fanatic
 fanatical
+fanatically
 fanaticalness
 fanaticalnesses
 fanaticism
@@ -47206,6 +47219,7 @@ fatalities
 fatality
 fatally
 fatalness
+fatalnesses
 fatback
 fatbacks
 fatbird
@@ -49682,6 +49696,7 @@ floppiest
 floppily
 floppiness
 floppinesses
+flopping
 floppy
 flora
 florae
@@ -50953,6 +50968,7 @@ formulaic
 formulaically
 formularies
 formularization
+formularize
 formularized
 formularizer
 formularizes
@@ -51298,6 +51314,7 @@ fraise
 fraises
 fraktur
 frakturs
+framable
 frambesia
 frambesias
 framboises
@@ -59105,6 +59122,7 @@ hearths
 hearthstone
 hearthstones
 heartier
+hearties
 heartiest
 heartily
 heartiness
@@ -61601,6 +61619,7 @@ hosannah
 hosannahs
 hosannaing
 hosannas
+hose
 hoselike
 hosels
 hosen
@@ -65597,6 +65616,7 @@ infantilizing
 infantine
 infantries
 infantry
+infantrymen
 infants
 infarct
 infarcted
@@ -69974,6 +69994,7 @@ ka
 kaas
 kab
 kabaka
+kabakas
 kabala
 kabalas
 kabalism
@@ -71691,6 +71712,7 @@ lactational
 lactations
 lacteal
 lacteally
+lacteals
 lactean
 lactiferous
 lactobacilli
@@ -81525,6 +81547,7 @@ misshaping
 missies
 missile
 missileer
+missileers
 missileman
 missilemen
 missileries
@@ -97183,6 +97206,7 @@ petrol
 petrolatum
 petrolatums
 petroleums
+petrolic
 petrologic
 petrologically
 petrologies
@@ -97381,6 +97405,7 @@ phenacites
 phenakite
 phenakites
 phenanthrene
+phenanthrenes
 phenate
 phenates
 phenazines
@@ -97683,6 +97708,7 @@ phosphores
 phosphoresce
 phosphoresced
 phosphorescence
+phosphorescent
 phosphoresces
 phosphori
 phosphoric
@@ -98307,6 +98333,7 @@ piddled
 piddler
 piddlers
 piddling
+piddly
 piddocks
 pidgin
 pidginization
@@ -102511,6 +102538,7 @@ prelate
 prelates
 prelatic
 prelatism
+prelatisms
 prelature
 prelatures
 prelaunch
@@ -103549,6 +103577,7 @@ princesse
 principal
 principalities
 principality
+principally
 principals
 principalship
 principalships
@@ -125749,6 +125778,7 @@ spheroidal
 spheroidally
 spheroids
 spherometer
+spherometers
 spheroplast
 spheroplasts
 spherular
@@ -127270,6 +127300,7 @@ stasis
 stat
 statable
 statant
+state
 stateable
 statecraft
 statecrafts
@@ -130636,6 +130667,7 @@ sunrise
 sunrises
 sunroof
 sunroom
+sunrooms
 suns
 sunscald
 sunscalds
@@ -133902,6 +133934,7 @@ teggs
 tegmen
 tegmenta
 tegmental
+tegmentum
 tegmina
 tegs
 tegua
@@ -142567,6 +142600,7 @@ unissued
 unit
 unitage
 unitages
+unitard
 unitards
 unitarianism
 unitarianisms
@@ -143801,6 +143835,7 @@ untrimmed
 untrimming
 untrims
 untroubled
+untruer
 untruest
 untruly
 untruss
