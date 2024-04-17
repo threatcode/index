@@ -250,6 +250,7 @@ abvolts
 abying
 abys
 abysmal
+abysmally
 abysms
 abyss
 abyssal
@@ -3041,6 +3042,7 @@ allocate
 allocated
 allocates
 allocating
+allocation
 allocations
 allocator
 allocators
@@ -4355,6 +4357,7 @@ anesthesiology
 anesthetic
 anesthetically
 anesthetics
+anesthetist
 anesthetists
 anesthetize
 anesthetized
@@ -11441,6 +11444,7 @@ bemeans
 bemedaled
 bemingle
 bemingled
+bemingles
 bemingling
 bemired
 bemires
@@ -16046,6 +16050,7 @@ bronchia
 bronchial
 bronchially
 bronchiectases
+bronchiectasis
 bronchiole
 bronchioles
 bronchitic
@@ -17478,6 +17483,7 @@ cachexia
 cachexias
 cachexic
 cachexies
+caching
 cachinnate
 cachinnated
 cachinnates
@@ -23817,6 +23823,7 @@ coagula
 coagulabilities
 coagulability
 coagulable
+coagulant
 coagulants
 coagulase
 coagulases
@@ -25174,6 +25181,7 @@ comedowns
 comeliest
 comeliness
 comelinesses
+comely
 comember
 comembers
 comer
@@ -26148,6 +26156,7 @@ condo
 condoes
 condolatory
 condole
+condoled
 condolence
 condolences
 condolent
@@ -32356,6 +32365,7 @@ debunkers
 debunking
 debunks
 debutant
+debutante
 debutantes
 debutants
 debuted
@@ -37164,6 +37174,7 @@ disjoin
 disjoined
 disjoining
 disjointed
+disjointedly
 disjointedness
 disjointing
 disjoints
@@ -50174,6 +50185,7 @@ folkiest
 folkish
 folkishness
 folkishnesses
+folklife
 folklike
 folklives
 folklore
@@ -50835,6 +50847,7 @@ formalin
 formalins
 formalise
 formalised
+formalising
 formalism
 formalisms
 formalist
@@ -52010,6 +52023,7 @@ fug
 fugacious
 fugacities
 fugacity
+fugal
 fugally
 fugato
 fugatos
@@ -52352,6 +52366,7 @@ furtivenesses
 furuncles
 furunculoses
 furunculosis
+fury
 furze
 furzes
 furzier
@@ -52932,6 +52947,7 @@ gammadia
 gammadion
 gammas
 gammer
+gammers
 gammier
 gammiest
 gammoned
@@ -58834,6 +58850,7 @@ haywards
 haywire
 haywires
 hazanim
+hazans
 hazard
 hazarded
 hazarder
@@ -63173,6 +63190,7 @@ identify
 identifying
 identikit
 identities
+identity
 ideogram
 ideogramic
 ideogrammic
@@ -63893,6 +63911,7 @@ impassions
 impassive
 impassively
 impassiveness
+impassivenesses
 impassivity
 impaste
 impasted
@@ -75625,6 +75644,7 @@ lunatic
 lunation
 lunations
 lunch
+lunchbox
 lunchboxes
 lunched
 luncheon
@@ -77940,6 +77960,7 @@ mavourneen
 mavourneens
 mavournins
 maw
+mawing
 mawkishly
 mawkishnesses
 mawn
@@ -85380,6 +85401,7 @@ nerdiness
 nerdinesses
 nerdish
 nerds
+nerdy
 nereid
 nereides
 nereids
@@ -88262,6 +88284,7 @@ oared
 oarfishes
 oaring
 oarless
+oarlike
 oarlock
 oarlocks
 oars
@@ -96109,6 +96132,7 @@ pentarch
 pentarchies
 pentarchy
 pentathlete
+pentathletes
 pentathlon
 pentathlons
 pentatonic
@@ -96893,6 +96917,7 @@ pertinence
 pertinences
 pertinencies
 pertinency
+pertinent
 pertinently
 pertly
 pertness
@@ -100593,6 +100618,7 @@ pommies
 pommy
 pomo
 pomological
+pomologies
 pomologist
 pomologists
 pomology
@@ -105438,6 +105464,7 @@ punchboard
 punchboards
 puncheons
 punchers
+punches
 punchier
 punchiest
 punchily
@@ -110807,6 +110834,7 @@ relativizes
 relativizing
 relator
 relators
+relaunch
 relaunched
 relaunches
 relaunching
@@ -114643,6 +114671,7 @@ roiling
 roils
 roily
 roister
+roistered
 roisterer
 roisterers
 roistering
@@ -114886,6 +114915,7 @@ roseroots
 roses
 roseslug
 roseslugs
+roset
 rosets
 rosewater
 rosewoods
@@ -117219,6 +117249,7 @@ scandias
 scandium
 scandiums
 scannable
+scanned
 scanners
 scanning
 scannings
@@ -126338,6 +126369,7 @@ springings
 springlet
 springlets
 springlike
+springs
 springtail
 springtide
 springtides
@@ -128471,6 +128503,7 @@ strengthens
 strenuosities
 strenuosity
 strenuous
+strenuously
 strenuousness
 strenuousnesses
 strep
@@ -133927,6 +133960,7 @@ televises
 televising
 television
 televisor
+televisors
 televisual
 telexed
 telexes
@@ -138628,6 +138662,7 @@ triplicities
 triplicity
 triplites
 triploblastic
+triploid
 triploids
 triploidy
 triply
