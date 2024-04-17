@@ -2449,6 +2449,7 @@ airports
 airpost
 airposts
 airpowers
+airproof
 airproofed
 airproofing
 airs
@@ -4251,6 +4252,7 @@ anchyloses
 anchylosing
 ancienter
 ancientest
+anciently
 ancientries
 ancientry
 ancients
@@ -7326,6 +7328,7 @@ asps
 asquint
 asrama
 assagai
+assagaied
 assagais
 assai
 assail
@@ -10318,6 +10321,7 @@ bastardies
 bastardise
 bastardised
 bastardises
+bastardising
 bastardization
 bastardizations
 bastardize
@@ -11424,6 +11428,7 @@ bellyacher
 bellyachers
 bellyaches
 bellyaching
+bellyband
 bellybands
 bellyful
 bellyfuls
@@ -19540,6 +19545,7 @@ cashews
 cashier
 cashiered
 cashiering
+cashiers
 cashing
 cashless
 cashmere
@@ -19800,6 +19806,7 @@ catechisms
 catechist
 catechistic
 catechists
+catechization
 catechizations
 catechized
 catechizer
@@ -21303,6 +21310,7 @@ checkerberries
 checkerboard
 checkered
 checkering
+checkers
 checkless
 checklist
 checklisted
@@ -23944,6 +23952,7 @@ coanchoring
 coanchors
 coannex
 coannexed
+coannexing
 coappeared
 coappearing
 coapt
@@ -30932,6 +30941,7 @@ curricular
 curriculum
 curriculums
 currie
+currieries
 curriery
 curries
 currijong
@@ -34671,6 +34681,7 @@ deserter
 deserters
 desertic
 desertification
+desertified
 desertifies
 desertify
 desertifying
@@ -49058,6 +49069,7 @@ flabellum
 flabs
 flaccid
 flaccidities
+flaccidity
 flaccidly
 flack
 flackeries
@@ -50368,6 +50380,7 @@ fondlings
 fondly
 fondnesses
 fonds
+fondu
 fondue
 fondueing
 fondues
@@ -51543,6 +51556,7 @@ freelancing
 freeload
 freeloaded
 freeloader
+freeloaders
 freeloading
 freeloads
 freeman
@@ -57986,6 +58000,7 @@ hales
 halest
 half
 halfbacks
+halfbeak
 halfbeaks
 halfhearted
 halflives
@@ -58604,6 +58619,7 @@ harissas
 harked
 harken
 harkened
+harkener
 harkeners
 harkening
 harkens
@@ -73387,6 +73403,7 @@ lepton
 leptonic
 leptons
 leptophos
+leptophoses
 leptosome
 leptosomes
 leptospiral
@@ -73437,6 +73454,7 @@ lethe
 lethean
 lethes
 lets
+letted
 letterbox
 letterboxed
 letterboxes
@@ -87590,6 +87608,7 @@ nonsolar
 nonsolid
 nonsolids
 nonsolution
+nonsolutions
 nonspatial
 nonspeaker
 nonspeaking
@@ -89817,6 +89836,7 @@ ophidians
 ophiolite
 ophiolites
 ophiology
+ophite
 ophites
 ophitic
 ophiuroids
@@ -92093,6 +92113,7 @@ overburn
 overburned
 overburning
 overburns
+overburnt
 overbusy
 overbuy
 overbuying
@@ -95186,6 +95207,7 @@ passalong
 passalongs
 passant
 passband
+passbands
 passbook
 passbooks
 passe
@@ -98100,6 +98122,7 @@ phycocyanin
 phycocyanins
 phycoerythrin
 phycoerythrins
+phycological
 phycologies
 phycologist
 phycologists
@@ -109218,6 +109241,7 @@ reconvinces
 reconvincing
 recook
 recooked
+recooking
 recooks
 recopied
 recopying
@@ -111422,6 +111446,7 @@ remitter
 remitters
 remitting
 remittor
+remittors
 remix
 remixed
 remixes
@@ -113774,6 +113799,7 @@ reviolates
 reviolating
 revisal
 revisals
+revise
 revised
 reviser
 revisers
@@ -116880,6 +116906,7 @@ sapper
 sappers
 sapphic
 sapphire
+sapphires
 sapphirine
 sapphism
 sapphisms
@@ -118230,6 +118257,7 @@ scraiching
 scraichs
 scraigh
 scraighed
+scraighing
 scraighs
 scram
 scramble
@@ -118661,6 +118689,7 @@ seaboots
 seaborgium
 seaborne
 seacoast
+seacoasts
 seacock
 seacocks
 seacraft
@@ -121745,6 +121774,7 @@ sidecheck
 sidechecks
 sided
 sidedness
+sidednesses
 sidedress
 sidedresses
 sidehill
@@ -129475,6 +129505,7 @@ subcrustal
 subcult
 subcults
 subcultural
+subculturally
 subcultures
 subculturing
 subcurative
@@ -135764,6 +135795,7 @@ thriftily
 thriftiness
 thriftinesses
 thriftless
+thriftlessness
 thrifts
 thrifty
 thrill
@@ -138209,6 +138241,7 @@ trapans
 trapball
 trapdoors
 trapesed
+trapeses
 trapesing
 trapeze
 trapezia
@@ -149359,6 +149392,7 @@ wigeon
 wigeons
 wigged
 wiggeries
+wiggery
 wiggier
 wiggiest
 wigging
@@ -151195,6 +151229,7 @@ yomim
 yon
 yond
 yonic
+yonis
 yonker
 yonkers
 yores
