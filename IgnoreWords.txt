@@ -247,6 +247,7 @@ abutting
 abuzz
 abvolt
 abvolts
+abwatts
 abying
 abys
 abysmal
@@ -4529,6 +4530,7 @@ animadvert
 animadverted
 animadverting
 animadverts
+animal
 animalcula
 animalcules
 animalculum
@@ -10647,6 +10649,7 @@ beaned
 beaneries
 beanery
 beanie
+beanies
 beaning
 beanlike
 beano
@@ -15557,6 +15560,7 @@ brawnily
 brawniness
 brawninesses
 brawns
+brawny
 braws
 braxies
 braxy
@@ -20359,6 +20363,7 @@ censure
 censured
 censurer
 censurers
+censures
 censuring
 census
 censused
@@ -20574,6 +20579,7 @@ cerements
 ceremonial
 ceremonialism
 ceremonialisms
+ceremonialist
 ceremonialists
 ceremonially
 ceremonials
@@ -21225,6 +21231,7 @@ chatchke
 chatchkes
 chateau
 chateaubriand
+chateaubriands
 chateaux
 chatelain
 chatelaine
@@ -23680,6 +23687,7 @@ closable
 close
 closeable
 closed
+closedown
 closedowns
 closefisted
 closely
@@ -36177,6 +36185,7 @@ diligent
 diligently
 dill
 dilled
+dillies
 dills
 dilly
 dillydallying
@@ -38105,6 +38114,7 @@ divertimenti
 divertimento
 divertimentos
 diverting
+divertissement
 divertissements
 diverts
 dives
@@ -42133,6 +42143,7 @@ emplaned
 emplanes
 emplaning
 employ
+employabilities
 employability
 employable
 employables
@@ -51101,6 +51112,7 @@ fornent
 fornical
 fornicate
 fornicated
+fornicates
 fornicating
 fornication
 fornicator
@@ -52025,6 +52037,7 @@ frothier
 frothiness
 frothing
 froths
+frothy
 frottage
 frotteur
 frotteurs
@@ -53511,6 +53524,7 @@ gatecrashes
 gatecrashing
 gated
 gatefold
+gatefolds
 gatehouse
 gatehouses
 gatekeepers
@@ -69642,6 +69656,7 @@ joiners
 joinery
 joining
 joinings
+joins
 joint
 jointed
 jointedly
@@ -70002,6 +70017,7 @@ juncture
 jungled
 junglegyms
 junglelike
+jungles
 junglier
 jungly
 junior
@@ -70443,6 +70459,7 @@ keek
 keeked
 keeking
 keeks
+keel
 keelage
 keelboat
 keelboats
@@ -71136,6 +71153,7 @@ kiter
 kiters
 kites
 kith
+kithara
 kitharas
 kithe
 kithed
@@ -76704,6 +76722,7 @@ mainliners
 mainlines
 mainlining
 mainly
+mainmast
 mainmasts
 mains
 mainsail
@@ -79320,6 +79339,7 @@ mesospheric
 mesothelia
 mesothelial
 mesothelioma
+mesotheliomas
 mesotheliomata
 mesothelium
 mesothoraces
@@ -84653,6 +84673,7 @@ mythiest
 mythmaker
 mythmakers
 mythmaking
+mythmakings
 mythographer
 mythographies
 mythography
@@ -84747,6 +84768,7 @@ naffing
 naffs
 nag
 nagana
+naganas
 nagged
 nagger
 naggers
@@ -92485,6 +92507,7 @@ overexcite
 overexcited
 overexercise
 overexercised
+overexercises
 overexerted
 overexerting
 overexertion
@@ -95335,6 +95358,7 @@ passivism
 passivisms
 passivists
 passivities
+passivity
 passkeys
 passless
 passover
@@ -100532,6 +100556,7 @@ polis
 polish
 polished
 polisher
+polishers
 polishes
 polishing
 politburo
@@ -105428,6 +105453,7 @@ psychologize
 psychologized
 psychologizing
 psychology
+psychometric
 psychometrician
 psychometrics
 psychometries
@@ -110843,6 +110869,7 @@ reimbursements
 reimburses
 reimbursing
 reimmerse
+reimmersed
 reimplant
 reimplantation
 reimplantations
@@ -112304,6 +112331,7 @@ reproductively
 reproductives
 reprogram
 reprogramed
+reprograming
 reprogrammable
 reprogrammed
 reprogramming
@@ -115738,6 +115766,7 @@ rufescent
 ruff
 ruffe
 ruffed
+ruffian
 ruffianism
 ruffianisms
 ruffianly
@@ -116894,6 +116923,7 @@ sanitation
 sanitations
 sanities
 sanitised
+sanitises
 sanitising
 sanitization
 sanitizations
@@ -134682,6 +134712,7 @@ tensibly
 tensile
 tensilely
 tensilities
+tensility
 tensing
 tensiometer
 tensiometric
@@ -135172,6 +135203,7 @@ textile
 textiles
 textless
 texts
+textually
 textuaries
 textuary
 textural
@@ -141023,6 +141055,7 @@ unannotated
 unannounced
 unannoyed
 unanswerability
+unanswerable
 unanswerably
 unanswered
 unanticipated
@@ -146203,6 +146236,7 @@ verticils
 vertigines
 vertiginously
 vertigo
+vertigoes
 vertigos
 vertu
 vertus
@@ -146392,6 +146426,7 @@ vibrissa
 vibrissae
 vibrissal
 viburnum
+viburnums
 vicar
 vicarage
 vicarages
