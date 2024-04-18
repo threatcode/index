@@ -5461,6 +5461,7 @@ antiscorbutics
 antisecrecy
 antisegregation
 antiseizure
+antisense
 antiseparatist
 antiseparatists
 antisepses
@@ -9470,6 +9471,7 @@ balconied
 balconies
 bald
 baldachin
+baldachinos
 baldachins
 baldaquins
 balded
@@ -10690,6 +10692,7 @@ beargrasses
 bearhug
 bearing
 bearings
+bearishly
 bearishness
 bearishnesses
 bearlike
@@ -13584,6 +13587,7 @@ blights
 blighty
 blimey
 blimp
+blimpish
 blimpishly
 blimpishness
 blimps
@@ -23417,6 +23421,7 @@ clefted
 clefts
 cleistogamic
 cleistogamies
+cleistogamous
 cleistogamy
 clematis
 clematises
@@ -36291,6 +36296,7 @@ dimmer
 dimmers
 dimmest
 dimming
+dimness
 dimnesses
 dimorph
 dimorphic
@@ -44277,6 +44283,7 @@ eryngoes
 eryngos
 erysipelases
 erythema
+erythemas
 erythematous
 erythemic
 erythorbate
@@ -46074,6 +46081,7 @@ export
 exportabilities
 exportability
 exportable
+exportation
 exportations
 exported
 exporter
@@ -49662,6 +49670,7 @@ flimsier
 flimsies
 flimsiest
 flimsily
+flimsiness
 flimsinesses
 flimsy
 flinch
@@ -50436,6 +50445,7 @@ follicular
 folliculitises
 follies
 follis
+followed
 follower
 followers
 followerships
@@ -51277,6 +51287,7 @@ fought
 foughten
 foul
 foulard
+foulards
 foulbrood
 foulbroods
 fouled
@@ -52796,6 +52807,7 @@ gadje
 gadjo
 gadoid
 gadoids
+gadolinite
 gadolinites
 gadolinium
 gadroon
@@ -53455,6 +53467,7 @@ gasher
 gashes
 gashest
 gashing
+gasholder
 gasholders
 gashouse
 gasification
@@ -54188,6 +54201,7 @@ geothermal
 geothermally
 geotropic
 geotropism
+geotropisms
 gerah
 gerahs
 geranial
@@ -55408,6 +55422,7 @@ gnostical
 gnosticism
 gnosticisms
 gnostics
+gnotobiotic
 gnotobiotically
 gnu
 gnus
@@ -76000,6 +76015,7 @@ lunkheads
 lunks
 lunted
 lunting
+lunts
 lunula
 lunulae
 lunular
@@ -77975,6 +77991,7 @@ mastaba
 mastabah
 mastabahs
 mastabas
+mastectomies
 mastectomy
 masted
 master
@@ -92841,6 +92858,7 @@ overleaf
 overleap
 overleaping
 overleaps
+overlearn
 overlearned
 overlearns
 overlearnt
@@ -100632,6 +100650,7 @@ polite
 politely
 politeness
 politenesses
+politer
 politesse
 politesses
 politest
@@ -102456,6 +102475,7 @@ precured
 precures
 precuring
 precursor
+precursors
 precut
 precuts
 precutting
@@ -108930,6 +108950,7 @@ recamier
 recamiers
 recanalization
 recanalizations
+recanalize
 recanalized
 recanalizes
 recanalizing
@@ -112686,6 +112707,7 @@ rescuer
 rescuers
 rescues
 rescuing
+resculpt
 resculpted
 resculpting
 resculpts
@@ -114976,6 +114998,7 @@ roadways
 roadwork
 roadworthiness
 roadworthy
+roam
 roamed
 roamer
 roamers
@@ -120797,6 +120820,7 @@ shapelessly
 shapelessness
 shapelessnesses
 shapelier
+shapeliness
 shapelinesses
 shapen
 shaper
@@ -123480,6 +123504,7 @@ slinked
 slinkier
 slinkiest
 slinkily
+slinkiness
 slinkinesses
 slinking
 slinks
@@ -128468,6 +128493,7 @@ stockade
 stockaded
 stockades
 stockading
+stockage
 stockages
 stockbreeder
 stockbreeders
@@ -128914,6 +128940,7 @@ strappy
 straps
 strass
 strasses
+strata
 stratagem
 stratagems
 stratal
@@ -131951,6 +131978,7 @@ survivalist
 survivalists
 survivals
 survivances
+survived
 surviver
 survivers
 survives
@@ -132991,6 +133019,7 @@ systematizer
 systematizers
 systematizes
 systematizing
+systemic
 systemics
 systemization
 systemizations
@@ -141492,6 +141521,7 @@ uncelebrated
 uncensorious
 unceremonious
 unceremoniously
+uncertain
 uncertainly
 uncertainnesses
 uncertainties
@@ -143109,6 +143139,7 @@ unkinder
 unkindest
 unkindled
 unkindliest
+unkindliness
 unkindlinesses
 unkindly
 unkindness
@@ -144590,6 +144621,7 @@ upheave
 upheaved
 upheaver
 upheavers
+upheaves
 upheaving
 upheld
 uphill
@@ -148428,6 +148460,7 @@ waterwheel
 waterwheels
 waterworn
 watery
+waterzooi
 waterzoois
 watt
 wattage
@@ -150176,6 +150209,7 @@ witchy
 wite
 wited
 witenagemot
+witenagemote
 witenagemots
 wites
 with
@@ -150590,6 +150624,7 @@ wordmonger
 wordmongers
 wordplay
 wordplays
+words
 wordsmith
 wordsmitheries
 wordsmithery
