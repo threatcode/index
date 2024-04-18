@@ -9785,6 +9785,7 @@ bankrolls
 bankrupt
 bankruptcies
 bankruptcy
+bankrupted
 bankrupting
 bankrupts
 banks
@@ -15789,6 +15790,7 @@ brickbats
 bricked
 brickfield
 brickfields
+brickier
 bricking
 brickkiln
 bricklayer
@@ -17525,6 +17527,7 @@ cablet
 cablets
 cableway
 cableways
+cabman
 cabob
 cabobs
 caboched
@@ -19465,6 +19468,7 @@ cartoned
 cartons
 cartooned
 cartoonings
+cartoonish
 cartoonishly
 cartoonist
 cartoonists
@@ -24423,6 +24427,7 @@ coelentera
 coelenterate
 coelenterates
 coelenteron
+coeliac
 coelom
 coelomata
 coelomates
@@ -24458,6 +24463,7 @@ coenobites
 coenocyte
 coenocytes
 coenocytic
+coenosarc
 coenure
 coenures
 coenuri
@@ -24498,6 +24504,7 @@ coevality
 coevally
 coevals
 coevolutionary
+coevolutions
 coevolve
 coevolved
 coevolving
@@ -27108,6 +27115,7 @@ consummators
 consummatory
 consumption
 consumptions
+consumptive
 consumptively
 consumptives
 contact
@@ -30686,6 +30694,7 @@ cultivabilities
 cultivability
 cultivable
 cultivars
+cultivatable
 cultivate
 cultivated
 cultivating
@@ -35463,6 +35472,7 @@ dhotis
 dhourra
 dhourras
 dhows
+dhurna
 dhurnas
 dhurrie
 dhurries
@@ -42003,6 +42013,7 @@ emergences
 emergencies
 emergency
 emergent
+emergents
 emerges
 emerging
 emeries
@@ -49562,6 +49573,7 @@ fleshpots
 fleshy
 fletch
 fletcher
+fletchers
 fletches
 fletching
 fletchings
@@ -49662,6 +49674,7 @@ flinting
 flintlike
 flintlock
 flintlocks
+flinty
 flip
 flipbook
 flipbooks
@@ -50809,6 +50822,7 @@ forensically
 forensics
 foreordain
 foreordained
+foreordaining
 foreordains
 foreordination
 foreordinations
@@ -62350,6 +62364,7 @@ hurdles
 hurdling
 hurds
 hurl
+hurled
 hurlers
 hurley
 hurleys
@@ -64928,6 +64943,7 @@ incliners
 inclines
 inclining
 inclinings
+inclinometer
 inclipping
 inclips
 inclosed
@@ -76293,6 +76309,7 @@ maccabaw
 maccabaws
 maccaboy
 maccaboys
+maccoboy
 maccoboys
 mace
 maced
@@ -80306,6 +80323,7 @@ mightinesses
 mignon
 mignonette
 mignonettes
+mignonne
 mignons
 migraine
 migraines
@@ -81737,6 +81755,7 @@ misseating
 misseats
 missed
 missel
+missels
 missend
 missending
 missends
@@ -85909,6 +85928,7 @@ neurosurgeries
 neurosurgery
 neurosurgical
 neurotic
+neurotically
 neuroticisms
 neurotics
 neurotomies
@@ -109013,6 +109033,7 @@ rechargeable
 recharged
 recharger
 rechargers
+recharges
 rechart
 recharted
 recharter
@@ -114085,6 +114106,7 @@ rewears
 reweaved
 reweaves
 reweaving
+rewed
 rewedding
 reweds
 reweighed
@@ -118195,6 +118217,7 @@ sclaffed
 sclaffer
 sclaffers
 sclaffs
+sclera
 sclerae
 scleral
 scleras
@@ -119038,6 +119061,7 @@ secern
 secerning
 secerns
 secession
+secessionism
 secessionisms
 secessionist
 secessionists
@@ -120157,6 +120181,7 @@ serialized
 serializes
 serializing
 serially
+serials
 seriate
 seriated
 seriately
@@ -126767,6 +126792,7 @@ sprains
 sprang
 sprat
 sprattle
+sprattled
 sprattles
 sprattling
 sprawl
@@ -130447,6 +130473,7 @@ subway
 subwayed
 subwaying
 subways
+subwoofer
 subwoofers
 subworld
 subworlds
@@ -134887,6 +134914,7 @@ terephthalates
 terete
 terga
 tergal
+tergite
 tergites
 tergiversated
 tergiversates
@@ -135778,6 +135806,7 @@ thirstily
 thirstiness
 thirstinesses
 thirsting
+thirsts
 thirsty
 thirteen
 thirteens
@@ -136388,6 +136417,7 @@ tightfistedness
 tightknit
 tightly
 tightnesses
+tightrope
 tightropes
 tights
 tightwad
@@ -137116,6 +137146,7 @@ tomograms
 tomograph
 tomographic
 tomographies
+tomographs
 tomography
 tomorrow
 tomorrows
@@ -140633,6 +140664,7 @@ tyrannous
 tyrannously
 tyranny
 tyrants
+tyre
 tyred
 tyres
 tyring
@@ -141950,6 +141982,7 @@ underexposing
 underexposure
 underexposures
 underfed
+underfeed
 underfeeds
 underfinanced
 underflow
@@ -146573,6 +146606,7 @@ videos
 videotape
 videotaped
 videotaping
+videotex
 videotexes
 videotext
 videotexts
@@ -149540,6 +149574,7 @@ wideouts
 wider
 wides
 widespread
+widgeon
 widgeons
 widget
 widgets
