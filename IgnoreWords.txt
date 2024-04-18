@@ -1314,6 +1314,7 @@ admitters
 admix
 admixed
 admixes
+admixing
 admixt
 admixture
 admixtures
@@ -2228,6 +2229,7 @@ agonizes
 agonizing
 agonizingly
 agons
+agony
 agora
 agorae
 agoraphobes
@@ -3960,6 +3962,7 @@ amygdule
 amygdules
 amyl
 amylase
+amylases
 amylene
 amylenes
 amylic
@@ -5727,6 +5730,7 @@ aphorise
 aphorised
 aphorises
 aphorising
+aphorism
 aphorist
 aphoristic
 aphoristically
@@ -15541,6 +15545,7 @@ brawled
 brawler
 brawlers
 brawlie
+brawlier
 brawliest
 brawling
 brawls
@@ -17269,6 +17274,7 @@ butterbur
 buttercup
 buttered
 butterfat
+butterfats
 butterfingered
 butterfingers
 butterfish
@@ -19483,6 +19489,7 @@ carves
 carving
 carwash
 carwashes
+caryatic
 caryatid
 caryatids
 caryopses
@@ -24765,6 +24772,7 @@ coldly
 coldness
 coldnesses
 colds
+cole
 colead
 coleader
 coleaders
@@ -26283,6 +26291,7 @@ conduced
 conducer
 conducers
 conduces
+conducing
 conduciveness
 conducivenesses
 conduct
@@ -40530,6 +40539,7 @@ earthly
 earthman
 earthmen
 earthmovers
+earthmoving
 earthmovings
 earthnut
 earthnuts
@@ -42421,6 +42431,7 @@ enculturation
 enculturations
 encumber
 encumbered
+encumbering
 encumbers
 encumbrance
 encumbrancer
@@ -51277,6 +51288,7 @@ foveate
 foveated
 foveola
 foveolae
+foveolar
 foveolas
 foveolate
 foveole
@@ -63361,6 +63373,7 @@ ideationally
 ideations
 idem
 idempotents
+identically
 identicalness
 identicalnesses
 identifiable
@@ -69442,6 +69455,7 @@ jicamas
 jiffies
 jiffs
 jiffy
+jigaboos
 jigged
 jigger
 jiggered
@@ -75709,6 +75723,7 @@ luck
 luckie
 luckier
 luckiest
+luckily
 luckiness
 luckinesses
 luckless
@@ -76863,6 +76878,7 @@ malevolent
 malfeasance
 malfed
 malformation
+malformations
 malformed
 malfunction
 malfunctioned
@@ -78227,12 +78243,14 @@ maxixes
 maxwell
 maxwells
 may
+maya
 mayan
 mayapple
 mayapples
 mayas
 maybe
 maybird
+maybirds
 maybush
 mayday
 maydays
@@ -80549,6 +80567,7 @@ mimic
 mimical
 mimicked
 mimickers
+mimicry
 mimics
 miming
 mimosa
@@ -87100,6 +87119,7 @@ nonfans
 nonfarm
 nonfarmer
 nonfatal
+nonfattening
 nonfatty
 nonfeasance
 nonfeasances
@@ -93092,6 +93112,7 @@ overservicing
 overset
 oversets
 oversetting
+oversew
 oversewed
 oversewing
 oversews
@@ -93254,6 +93275,7 @@ oversups
 oversure
 oversuspicious
 oversweet
+oversweeten
 oversweetening
 oversweetens
 oversweetness
@@ -95834,6 +95856,7 @@ pearlitic
 pearls
 pearly
 pearmain
+pearmains
 pears
 pearter
 peartest
@@ -101550,6 +101573,7 @@ postpuberty
 postpubescent
 postpunk
 postrace
+postrecession
 postretirement
 postrider
 postriders
@@ -101809,6 +101833,7 @@ pouted
 pouter
 pouters
 poutier
+poutiest
 poutine
 poutines
 pouting
@@ -104074,6 +104099,7 @@ procurator
 procuratorial
 procurators
 procure
+procured
 procurer
 procurers
 procures
@@ -117972,6 +117998,7 @@ scholar
 scholars
 scholarship
 scholarships
+scholastic
 scholastically
 scholasticate
 scholasticates
@@ -119642,6 +119669,7 @@ semisolid
 semistiff
 semisubmersible
 semisweet
+semisynthetic
 semiterrestrial
 semitist
 semitonal
@@ -126036,6 +126064,7 @@ sphygmic
 sphygmograph
 sphygmographs
 sphygmus
+sphygmuses
 sphynx
 sphynxes
 spica
@@ -128323,6 +128352,7 @@ stockades
 stockading
 stockages
 stockbreeder
+stockbreeders
 stockbroker
 stockbrokerage
 stockbrokerages
@@ -141140,6 +141170,7 @@ unbelting
 unbelts
 unbemused
 unbend
+unbendable
 unbended
 unbending
 unbendings
@@ -144134,6 +144165,7 @@ untwines
 untwining
 untwist
 untwisted
+untwisting
 untying
 untypically
 ununbium
@@ -145995,6 +146027,7 @@ verderers
 verderor
 verderors
 verdict
+verdicts
 verdigris
 verdigrises
 verdin
@@ -149065,6 +149098,7 @@ whimpering
 whimpers
 whims
 whimsey
+whimseys
 whimsical
 whimsicalities
 whimsicality
@@ -151874,6 +151908,7 @@ zootier
 zootomic
 zootomies
 zootomists
+zootomy
 zooty
 zooxanthella
 zooxanthellae
