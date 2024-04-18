@@ -7055,6 +7055,7 @@ articular
 articulate
 articulated
 articulately
+articulateness
 articulates
 articulating
 articulation
@@ -7127,6 +7128,7 @@ asafetida
 asafetidas
 asafoetida
 asafoetidas
+asana
 asanas
 asarum
 asarums
@@ -7713,6 +7715,7 @@ atactic
 ataghans
 atalayas
 ataman
+atamans
 atamasco
 atamascos
 atap
@@ -14393,6 +14396,7 @@ bolo
 bologna
 bolognas
 bolograph
+bolographs
 bolometer
 bolometers
 bolometric
@@ -21175,6 +21179,7 @@ charitably
 charities
 charity
 charivaried
+charivariing
 charivaris
 chark
 charka
@@ -21910,6 +21915,7 @@ chining
 chinkapin
 chinkapins
 chinked
+chinkier
 chinkiest
 chinking
 chinks
@@ -29520,6 +29526,7 @@ cranks
 crankshaft
 crankshafts
 crannied
+crannies
 crannog
 crannoge
 crannoges
@@ -29806,6 +29813,7 @@ creolize
 creolized
 creolizing
 creosol
+creosols
 creosote
 creosoted
 creosotes
@@ -37076,6 +37084,7 @@ discourses
 discoursing
 discourteous
 discourteously
+discourtesy
 discover
 discoverer
 discoverers
@@ -48437,6 +48446,7 @@ fibroblastic
 fibroblasts
 fibrocystic
 fibroids
+fibroin
 fibroins
 fibroma
 fibromas
@@ -50925,6 +50935,7 @@ forelady
 foreland
 forelands
 foreleg
+forelegs
 forelimb
 forelocked
 forelocking
@@ -51958,6 +51969,7 @@ friers
 fries
 frieze
 friezelike
+frig
 frigate
 frigates
 friges
@@ -54825,6 +54837,7 @@ girthing
 girths
 gisarme
 gisarmes
+gismos
 gist
 gists
 git
@@ -63235,6 +63248,7 @@ hypnotisms
 hypnotists
 hypnotizability
 hypnotize
+hypnotizes
 hypnotizing
 hypo
 hypoallergenic
@@ -66476,6 +66490,7 @@ inkblot
 inked
 inker
 inkers
+inkhorn
 inkhorns
 inkier
 inkiest
@@ -72115,6 +72130,7 @@ ladanum
 ladanums
 ladder
 laddered
+laddering
 ladders
 laddies
 lade
@@ -73305,6 +73321,7 @@ lebkuchen
 lech
 lechayim
 leched
+lecher
 lechered
 lechering
 lecherous
@@ -74483,6 +74500,7 @@ linchpin
 linchpins
 lincomycins
 lindanes
+linden
 lindens
 lindies
 lindy
@@ -77089,6 +77107,7 @@ malarias
 malariologies
 malariologist
 malariologists
+malariology
 malarious
 malarkey
 malarkies
@@ -78333,6 +78352,7 @@ matres
 matriarch
 matriarchal
 matriarchate
+matriarchates
 matriarchies
 matriarchy
 matrices
@@ -89269,6 +89289,7 @@ occultations
 occulted
 occulters
 occulting
+occultism
 occultisms
 occultist
 occultists
@@ -90357,6 +90378,7 @@ optometrists
 optometry
 opts
 opulences
+opulencies
 opulent
 opuntia
 opuntias
@@ -96592,6 +96614,7 @@ pencillers
 pencilling
 pencillings
 pencils
+pend
 pendants
 pended
 pendencies
@@ -96634,6 +96657,7 @@ penial
 penicil
 penicillamine
 penicillamines
+penicillate
 penicillin
 penicillinase
 penicillinases
@@ -97233,6 +97257,7 @@ peristomes
 peristomial
 peristyle
 peristyles
+perithecia
 perithecial
 perithecium
 periti
@@ -97696,6 +97721,7 @@ petnaps
 petrale
 petrales
 petrel
+petrels
 petrifaction
 petrification
 petrifications
@@ -97930,6 +97956,7 @@ phencyclidines
 phenetic
 pheneticists
 phenetics
+phenetol
 phenetole
 phenetoles
 phenetols
@@ -100093,6 +100120,7 @@ playpens
 playroom
 plays
 playsuit
+playsuits
 plaything
 playthings
 playtime
@@ -113053,6 +113081,7 @@ reservicing
 reserving
 reservist
 reservoir
+reservoirs
 reset
 resets
 resettable
@@ -116984,6 +117013,7 @@ saltshaker
 saltshakers
 saltwater
 saltwork
+saltworks
 saltworts
 salty
 salubrious
@@ -127796,6 +127826,7 @@ standardise
 standardised
 standardises
 standardising
+standardization
 standardize
 standardized
 standardizes
@@ -128609,6 +128640,7 @@ stillbirths
 stillborn
 stillborns
 stilled
+stillest
 stilliest
 stilling
 stillman
@@ -134219,6 +134251,7 @@ tater
 taters
 tates
 tatouay
+tatouays
 tats
 tatsoi
 tatsois
@@ -147005,6 +147038,7 @@ viewfinders
 viewier
 viewiest
 viewing
+viewings
 viewlessly
 viewpoint
 viewpoints
@@ -151542,6 +151576,7 @@ yapons
 yapped
 yapper
 yappers
+yapping
 yappingly
 yaps
 yar
