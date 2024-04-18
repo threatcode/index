@@ -2657,6 +2657,7 @@ alcids
 alcohol
 alcoholic
 alcoholically
+alcoholism
 alcohols
 alcove
 alcoved
@@ -6307,6 +6308,7 @@ aqueducts
 aqueous
 aqueously
 aquicultures
+aquiferous
 aquilegias
 aquiline
 aquilinities
@@ -7549,6 +7551,7 @@ asswaged
 asswages
 astasia
 astasias
+astatic
 astatine
 astatines
 aster
@@ -19825,6 +19828,7 @@ catchpoll
 catchpolls
 catchups
 catchword
+catchwords
 catclaw
 catclaws
 cate
@@ -20136,6 +20140,7 @@ caviare
 caviares
 caviars
 cavicorn
+cavie
 cavies
 cavil
 caviled
@@ -27009,6 +27014,7 @@ consternation
 consternations
 constipate
 constipated
+constipates
 constipations
 constituencies
 constituent
@@ -36555,6 +36561,7 @@ directed
 directedness
 directednesses
 directer
+directest
 directing
 direction
 directional
@@ -37636,6 +37643,7 @@ disquisitions
 disrates
 disrating
 disregard
+disregarded
 disregardful
 disregards
 disrelated
@@ -39075,6 +39083,7 @@ downcourt
 downdraft
 downdrafts
 downer
+downers
 downfall
 downfallen
 downfield
@@ -39159,6 +39168,7 @@ downtowners
 downtowns
 downtrended
 downtrends
+downtrod
 downtrodden
 downturn
 downturns
@@ -40886,6 +40896,7 @@ ecumenicalisms
 ecumenicism
 ecumenicisms
 ecumenicist
+ecumenicists
 ecumenicities
 ecumenicity
 ecumenism
@@ -41962,6 +41973,7 @@ embruted
 embrutes
 embruting
 embryo
+embryogeneses
 embryogenetic
 embryogenies
 embryogeny
@@ -45713,6 +45725,7 @@ exobiologists
 exobiology
 exocarp
 exocarps
+exocyclic
 exocytic
 exocytosed
 exocytoses
@@ -51489,6 +51502,7 @@ franchisors
 francium
 francize
 francized
+francizes
 francolin
 francs
 frangibilities
@@ -57934,6 +57948,7 @@ haggling
 hagiarchies
 hagiographer
 hagiographers
+hagiographic
 hagiographies
 hagiography
 hagiologic
@@ -63481,6 +63496,7 @@ idiosyncratic
 idiot
 idiotic
 idiotical
+idiotically
 idiotisms
 idiots
 idiotype
@@ -69629,6 +69645,7 @@ jobless
 joblessness
 joblessnesses
 jobname
+jobnames
 jobs
 jockettes
 jockey
@@ -70769,6 +70786,7 @@ khakis
 khalif
 khalifa
 khalifas
+khalifate
 khalifates
 khalifs
 khamseen
@@ -81941,6 +81959,7 @@ mistrustful
 mistrustfully
 mistrustfulness
 mistrusting
+mistrusts
 mistruth
 mistruths
 mistryst
@@ -90684,6 +90703,7 @@ ossifiers
 ossifies
 ossifrage
 ossifrages
+ossify
 ossifying
 ossuary
 osteal
@@ -90821,6 +90841,7 @@ ototoxicities
 ototoxicity
 ottar
 ottars
+ottavas
 otters
 otto
 ottoman
@@ -93378,6 +93399,7 @@ overthinking
 overthinks
 overthought
 overthrew
+overthrow
 overthrowing
 overthrows
 overtight
@@ -94060,6 +94082,7 @@ palatialness
 palatialnesses
 palatinate
 palatinates
+palatine
 palatines
 palaver
 palavered
@@ -108526,6 +108549,7 @@ realness
 realpolitik
 realpolitiks
 reals
+realter
 realtered
 realtering
 realters
@@ -115165,6 +115189,7 @@ rollway
 rom
 romaine
 romaines
+romaji
 roman
 romancers
 romances
@@ -119000,6 +119025,7 @@ seasoning
 seasonings
 seasonless
 seasons
+seastrand
 seastrands
 seat
 seatback
@@ -119705,6 +119731,7 @@ semiofficially
 semiological
 semiologically
 semiologies
+semiologist
 semiology
 semiopen
 semioses
@@ -119826,6 +119853,7 @@ senhors
 senile
 senilely
 seniles
+senilities
 senior
 seniorities
 seniority
@@ -124355,6 +124383,7 @@ snowbank
 snowbanks
 snowbell
 snowbells
+snowbelt
 snowbelts
 snowberries
 snowberry
@@ -133612,6 +133641,7 @@ tantalising
 tantalite
 tantalites
 tantalized
+tantalizer
 tantalizers
 tantalizes
 tantalizing
@@ -139805,6 +139835,7 @@ tsuris
 tsutsugamushi
 tsutsugamushis
 tuatara
+tuataras
 tuatera
 tub
 tuba
@@ -139895,6 +139926,7 @@ tuff
 tuffaceous
 tufoli
 tuft
+tufted
 tuftier
 tuftiest
 tuftily
@@ -140369,6 +140401,7 @@ twayblades
 tweak
 tweaked
 tweakiest
+tweaking
 tweaks
 twee
 tweed
@@ -143205,6 +143238,7 @@ unloosing
 unlovelier
 unloveliest
 unloveliness
+unlovelinesses
 unlovely
 unluckiest
 unluckily
@@ -146220,6 +146254,7 @@ vernacularly
 vernaculars
 vernal
 vernalization
+vernalizations
 vernalize
 vernalized
 vernalizes
