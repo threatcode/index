@@ -4845,6 +4845,7 @@ antacid
 antacids
 antae
 antagonism
+antagonisms
 antagonist
 antagonistic
 antagonists
@@ -5560,6 +5561,7 @@ antitoxin
 antitrade
 antitraditional
 antitragus
+antitrust
 antitruster
 antitrusters
 antitubercular
@@ -8361,6 +8363,7 @@ autocoid
 autocorrelation
 autocracy
 autocrat
+autocratic
 autocratical
 autocratically
 autocrats
@@ -14460,6 +14463,7 @@ boluses
 bomb
 bombable
 bombard
+bombarded
 bombarder
 bombarders
 bombardiers
@@ -18645,6 +18649,7 @@ canthitises
 canthus
 cantic
 canticle
+canticles
 cantilena
 cantilenas
 cantilever
@@ -22869,6 +22874,7 @@ cipherers
 ciphering
 ciphers
 ciphertext
+ciphertexts
 ciphonies
 ciphony
 cipollino
@@ -30014,6 +30020,7 @@ cringe
 cringed
 cringer
 cringers
+cringing
 cringle
 crinite
 crinites
@@ -33282,6 +33289,7 @@ defective
 defectively
 defectiveness
 defectivenesses
+defectives
 defectors
 defects
 defeminize
@@ -39713,6 +39721,7 @@ drinkers
 drinking
 drinkings
 drinks
+drip
 dripless
 dripped
 dripper
@@ -41271,6 +41280,7 @@ effs
 effulge
 effulged
 effulgence
+effulgences
 effulgent
 effulging
 effused
@@ -48205,6 +48215,7 @@ ferrocyanide
 ferroelectric
 ferroelectrics
 ferromagnesian
+ferromagnet
 ferromagnetic
 ferromagnetism
 ferromagnetisms
@@ -54861,6 +54872,7 @@ girandola
 girandolas
 girandole
 girandoles
+girasol
 girasole
 girasoles
 girasols
@@ -60975,6 +60987,7 @@ histologist
 histology
 histolyses
 histolysis
+histone
 histones
 histopathologic
 histopathology
@@ -61762,6 +61775,7 @@ hooknoses
 hookup
 hookups
 hookworm
+hookworms
 hooky
 hoolie
 hooligan
@@ -62831,6 +62845,7 @@ hydrodynamic
 hydrodynamical
 hydrodynamicist
 hydrodynamics
+hydroelectric
 hydrofoils
 hydrogel
 hydrogels
@@ -67649,6 +67664,7 @@ intermedins
 intermembrane
 intermenstrual
 interment
+interments
 intermesh
 intermeshed
 intermetallic
@@ -68186,6 +68202,7 @@ introspectively
 introversion
 introversions
 introversive
+introvert
 introverted
 introverting
 introverts
@@ -69223,6 +69240,7 @@ jackassery
 jackboot
 jackboots
 jackdaw
+jacked
 jacker
 jackeroo
 jackeroos
@@ -69663,6 +69681,7 @@ jeroboams
 jerreed
 jerreeds
 jerrican
+jerricans
 jerrid
 jerrids
 jerries
@@ -72654,6 +72673,7 @@ laniards
 laniary
 lanital
 lanitals
+lanker
 lankest
 lankiest
 lankily
@@ -75194,6 +75214,7 @@ loanings
 loans
 loanshift
 loanshifts
+loanword
 loanwords
 loath
 loathe
@@ -82001,6 +82022,7 @@ mispositioning
 mispositions
 misprice
 mispriced
+misprices
 mispricing
 misprint
 misprinting
@@ -87070,6 +87092,7 @@ nonanalytic
 nonanatomic
 nonanimal
 nonanswers
+nonantagonistic
 nonantibiotic
 nonantibiotics
 nonantigenic
@@ -96634,6 +96657,7 @@ pekoe
 pelage
 pelages
 pelagial
+pelagic
 pelagics
 pelargonium
 pele
@@ -98511,6 +98535,7 @@ photolithograph
 photolyses
 photolysis
 photolytically
+photolyze
 photolyzed
 photolyzes
 photolyzing
@@ -102180,6 +102205,7 @@ potentiators
 potentillas
 potentiometer
 potentiometers
+potentiometric
 potently
 potful
 potfuls
@@ -110450,6 +110476,7 @@ reedifying
 reedily
 reedings
 reedit
+reedited
 reediting
 reedition
 reeditions
@@ -121832,6 +121859,7 @@ shiv
 shiva
 shivah
 shivaree
+shivareed
 shivareeing
 shivarees
 shivas
@@ -123248,6 +123276,7 @@ skaters
 skates
 skating
 skatings
+skatol
 skatole
 skatoles
 skatols
@@ -127007,6 +127036,7 @@ splendiferous
 splendorous
 splendour
 splendours
+splendrous
 splenectomize
 splenectomized
 splenectomizing
@@ -129668,6 +129698,7 @@ stringcourses
 stringed
 stringencies
 stringency
+stringendo
 stringent
 stringently
 stringers
@@ -130249,6 +130280,7 @@ subcult
 subcults
 subcultural
 subculturally
+subculture
 subcultures
 subculturing
 subcurative
@@ -130404,6 +130436,7 @@ subinhibitory
 subinterval
 subintervals
 subirrigate
+subirrigated
 subirrigates
 subirrigating
 subirrigation
@@ -134061,6 +134094,7 @@ tampions
 tamponed
 tamponing
 tampons
+tamps
 tams
 tan
 tanager
@@ -147378,6 +147412,7 @@ vindictiveness
 vine
 vineal
 vined
+vinedresser
 vinedressers
 vinegar
 vinegared
