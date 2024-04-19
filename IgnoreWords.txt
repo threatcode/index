@@ -1226,6 +1226,7 @@ adjournments
 adjourns
 adjudged
 adjudges
+adjudging
 adjudicate
 adjudicated
 adjudicating
@@ -6090,6 +6091,7 @@ appetencies
 appetency
 appetent
 appetiser
+appetisers
 appetising
 appetite
 appetites
@@ -8830,6 +8832,7 @@ axel
 axels
 axeman
 axemen
+axenically
 axes
 axial
 axialities
@@ -27029,6 +27032,7 @@ consecration
 consecrations
 consecrative
 consecrator
+consecrators
 consecratory
 consecution
 consecutions
@@ -28961,6 +28965,7 @@ counterfeiting
 counterfire
 counterfires
 counterflow
+counterflows
 counterfoil
 counterfoils
 counterforce
@@ -36197,6 +36202,7 @@ diestrum
 diestrums
 diestrus
 diestruses
+diet
 dietaries
 dietarily
 dietary
@@ -37392,6 +37398,7 @@ disfigured
 disfigurements
 disfigures
 disfiguring
+disfranchise
 disfranchised
 disfranchises
 disfranchising
@@ -37664,6 +37671,7 @@ disobliged
 disobliges
 disobliging
 disomic
+disorder
 disordered
 disorderedly
 disorderedness
@@ -44333,6 +44341,7 @@ equivocators
 equivoke
 equivokes
 equivoque
+equivoques
 er
 era
 eradiate
@@ -45264,6 +45273,7 @@ eustele
 eusteles
 eutaxies
 eutaxy
+eutectics
 eutectoid
 eutectoids
 euthanatized
@@ -49561,6 +49571,7 @@ flamiest
 flamines
 flaming
 flamingly
+flamingo
 flammabilities
 flammables
 flammed
@@ -52060,6 +52071,7 @@ frequenting
 frequentness
 frequentnesses
 frequents
+freres
 fresco
 frescoed
 frescoer
@@ -54392,6 +54404,7 @@ genuflections
 genuine
 genuinely
 genuineness
+genuinenesses
 genuses
 geobotanic
 geobotanical
@@ -54450,6 +54463,7 @@ geology
 geomagnetic
 geomagnetically
 geomagnetism
+geomagnetisms
 geomancer
 geomancers
 geomancies
@@ -71690,6 +71704,7 @@ klatch
 klatches
 klatsch
 klatsches
+klavern
 klaverns
 klaxon
 kleagle
@@ -80619,6 +80634,7 @@ micropyles
 microquake
 microquakes
 microradiograph
+microreader
 microreaders
 micros
 microscale
@@ -86742,6 +86758,7 @@ nidget
 nidgets
 nidi
 nidicolous
+nidification
 nidifications
 nidified
 nidifugous
@@ -89634,6 +89651,7 @@ occupational
 occupationally
 occupations
 occupied
+occupier
 occupiers
 occupies
 occupy
@@ -89694,6 +89712,7 @@ ocotillo
 ocotillos
 ocreae
 ocreate
+octachord
 octachords
 octad
 octadic
@@ -92543,6 +92562,7 @@ outthieve
 outthieved
 outthieves
 outthieving
+outthink
 outthinking
 outthought
 outthrew
@@ -93830,6 +93850,7 @@ oversleeps
 overslip
 overslipped
 overslipping
+overslips
 overslipt
 overslow
 oversmoked
@@ -94932,6 +94953,7 @@ pamphlets
 pams
 pan
 panacea
+panaceas
 panache
 panaches
 panada
@@ -95579,6 +95601,7 @@ pardah
 pardahs
 pardi
 pardine
+pardner
 pardners
 pardon
 pardonable
@@ -112542,6 +112565,7 @@ renins
 renitence
 renitences
 renitencies
+renitency
 renitent
 renminbi
 rennase
@@ -118939,6 +118963,7 @@ scintigraphy
 scintilla
 scintillae
 scintillant
+scintillantly
 scintillas
 scintillate
 scintillated
@@ -120969,6 +120994,7 @@ sericultural
 sericulture
 sericulturists
 seriema
+seriemas
 series
 serif
 serifed
@@ -129889,6 +129915,7 @@ strette
 stretti
 stretto
 strettos
+streusel
 streusels
 strew
 strewed
@@ -130041,6 +130068,7 @@ stroker
 strokes
 stroking
 stroll
+strolled
 stroller
 strollers
 strolls
@@ -131927,6 +131955,7 @@ superabounds
 superabsorbent
 superabundance
 superabundances
+superabundantly
 superachiever
 superachievers
 superactivities
@@ -133961,6 +133990,7 @@ tachist
 tachiste
 tachistes
 tachistoscope
+tachistoscopes
 tachistoscopic
 tachists
 tachometer
@@ -138380,6 +138410,7 @@ torrefying
 torrent
 torrential
 torrentially
+torrents
 torrid
 torrider
 torridest
@@ -138738,6 +138769,7 @@ trabecular
 trabeculas
 trabeculate
 trace
+traceabilities
 traceability
 traceable
 traced
@@ -139560,6 +139592,7 @@ trefah
 trefoils
 trehala
 trehalas
+trehalose
 trehaloses
 treillage
 trek
@@ -142143,6 +142176,7 @@ unbaptized
 unbar
 unbarbed
 unbarbered
+unbarred
 unbarricaded
 unbarring
 unbars
@@ -149054,6 +149088,7 @@ warpages
 warpath
 warpaths
 warped
+warper
 warpers
 warping
 warplane
