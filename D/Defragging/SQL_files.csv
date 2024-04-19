@@ -4,3 +4,5 @@ sql-server-toolbox/defrag columnstore.sql at master - GitHub,https://github.com/
 web.mit.edu/medoh/Desktop/medoh/MacData/afs/sipb/u...,http://web.mit.edu/medoh/Desktop/medoh/MacData/afs/sipb/user/ssen/src/BitchX/dll/europa/knowledgebase.sql
 https://raw.githubusercontent.com/searceinc/RStool...,https://raw.githubusercontent.com/searceinc/RStoolKit/master/health-check.sql
 Aktualisieren Von Microsoft Sql,https://ceqa.timeandlocationfree.associates/Aktualisieren.Von.Microsoft.Sql
+sql-scripts/indexes/dba_indexDefrag_sp.sql at master - GitHub,https://github.com/MichelleUfford/sql-scripts/blob/master/indexes/dba_indexDefrag_sp.sql
+usp_AdaptiveIndexDefrag.sql - microsoft/tigertoolbox - GitHub,https://github.com/microsoft/tigertoolbox/blob/master/AdaptiveIndexDefrag/usp_AdaptiveIndexDefrag.sql

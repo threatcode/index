@@ -2938,6 +2938,7 @@ alkine
 alkoxides
 alkoxy
 alkyd
+alkyds
 alkyl
 alkylated
 alkylates
@@ -5624,6 +5625,7 @@ antsy
 anural
 anuran
 anurans
+anureses
 anuresis
 anuretic
 anuria
@@ -8865,6 +8867,7 @@ axon
 axonal
 axone
 axonemal
+axoneme
 axonemes
 axones
 axonometric
@@ -15992,6 +15995,7 @@ brinded
 brindle
 brine
 brined
+brineless
 briner
 briners
 brines
@@ -23150,6 +23154,7 @@ civilizer
 civilizes
 civilizing
 civilly
+civilness
 civilnesses
 civism
 civisms
@@ -23280,6 +23285,7 @@ clannishly
 clannishness
 clannishnesses
 clans
+clansman
 clansmen
 clap
 clapboard
@@ -27026,6 +27032,7 @@ conservatized
 conservatizes
 conservatizing
 conservatoire
+conservatoires
 conservator
 conservatorial
 conservatorship
@@ -28257,6 +28264,7 @@ corniches
 cornichons
 cornicle
 cornier
+cornification
 cornifications
 cornified
 cornifies
@@ -30308,6 +30316,7 @@ crosstown
 crosstree
 crosstrees
 crosswalk
+crosswalks
 crossway
 crosswind
 crosswinds
@@ -30443,6 +30452,7 @@ crumble
 crumbled
 crumbles
 crumbliest
+crumbliness
 crumblinesses
 crumbling
 crumblings
@@ -33520,6 +33530,7 @@ defrag
 defragged
 defragger
 defraggers
+defragging
 defraud
 defrauded
 defrauder
@@ -43124,6 +43135,7 @@ enjambements
 enjambments
 enjoin
 enjoinders
+enjoined
 enjoiner
 enjoining
 enjoins
@@ -43552,6 +43564,7 @@ entrained
 entrainer
 entrainers
 entraining
+entrainment
 entrainments
 entrains
 entrance
@@ -60592,6 +60605,7 @@ heughs
 heulandite
 heulandites
 heuristically
+heuristics
 hewable
 hewed
 hewer
@@ -72129,6 +72143,7 @@ labial
 labialities
 labiality
 labialized
+labializes
 labializing
 labially
 labials
@@ -73365,6 +73380,7 @@ leafiness
 leafinesses
 leafing
 leafless
+leaflet
 leafleted
 leafleteer
 leafleteers
@@ -80879,6 +80895,7 @@ millboards
 millcake
 millcakes
 mille
+milled
 millefiori
 millefioris
 millefleurs
@@ -80995,6 +81012,7 @@ millwork
 millworks
 millwright
 millwrights
+milneb
 milnebs
 milords
 milpa
@@ -84219,6 +84237,7 @@ muggur
 muggurs
 muggy
 mughal
+mughals
 mugs
 mugwort
 mugworts
@@ -85389,6 +85408,7 @@ napkin
 napkins
 napless
 napoleon
+napoleons
 nappa
 nappas
 napped
@@ -86017,6 +86037,7 @@ nene
 nenes
 neoclassic
 neoclassical
+neoclassicism
 neoclassicisms
 neoclassicist
 neoclassicists
@@ -86886,6 +86907,7 @@ nitrofuran
 nitrofurans
 nitrogen
 nitrogenase
+nitrogenous
 nitrogens
 nitroglycerin
 nitroglycerine
@@ -88181,6 +88203,7 @@ nonsinkable
 nonskater
 nonskaters
 nonsked
+nonskeds
 nonskeletal
 nonskid
 nonskier
@@ -91935,6 +91958,7 @@ outmoded
 outmodes
 outmoding
 outmove
+outmoved
 outmoves
 outmoving
 outmuscled
@@ -95420,6 +95444,7 @@ parcelled
 parcelling
 parcels
 parcenaries
+parcenary
 parcener
 parch
 parched
@@ -119385,6 +119410,7 @@ scummily
 scumming
 scummy
 scums
+scuncheon
 scuncheons
 scungilli
 scungillis
@@ -120323,6 +120349,7 @@ semiparasites
 semipermanent
 semipermeable
 semipious
+semipolitical
 semipopular
 semiporcelain
 semipornography
@@ -124413,6 +124440,7 @@ smarm
 smarmier
 smarmiest
 smarmily
+smarminess
 smarminesses
 smarms
 smarmy
@@ -128722,6 +128750,7 @@ stereoscopic
 stereoscopies
 stereoscopy
 stereospecific
+stereotactic
 stereotaxic
 stereotaxically
 stereotyped
@@ -130521,6 +130550,7 @@ subinfeudated
 subinfeudates
 subinfeudating
 subinfeudation
+subinfeudations
 subinfeuded
 subinfeuding
 subinfeuds
@@ -132536,6 +132566,7 @@ surprized
 surprizes
 surprizing
 surra
+surras
 surreal
 surrealism
 surrealist
@@ -138617,6 +138648,7 @@ tractabilities
 tractability
 tractable
 tractablenesses
+tractate
 tractates
 tractile
 traction
@@ -138941,6 +138973,7 @@ transfusable
 transfuse
 transfused
 transfuses
+transfusible
 transfusing
 transfusion
 transfusional
@@ -139870,6 +139903,7 @@ triols
 trios
 triose
 trioses
+trioxid
 trioxide
 trioxides
 trioxids
@@ -146544,6 +146578,7 @@ vegetist
 vegetists
 vegetive
 vegged
+veggie
 veggies
 vegging
 vegie
