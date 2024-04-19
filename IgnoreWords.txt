@@ -5942,6 +5942,7 @@ aporias
 aport
 apos
 aposematic
+aposematically
 aposiopeses
 aposiopesis
 aposporic
@@ -11811,6 +11812,7 @@ bequeaths
 bequest
 berake
 beraked
+berakes
 beraking
 berascal
 berascaled
@@ -12460,6 +12462,7 @@ biflex
 bifocal
 bifocaled
 bifocals
+bifold
 biforate
 biforked
 biform
@@ -15973,6 +15976,7 @@ brierwood
 brierwoods
 briery
 bries
+brigade
 brigaded
 brigades
 brigadier
@@ -16799,6 +16803,7 @@ bulla
 bullace
 bullaces
 bullae
+bullbaitings
 bullbats
 bullbriers
 bulldog
@@ -20991,6 +20996,7 @@ challoth
 chalone
 chalones
 chalot
+chaloth
 chalumeaus
 chalupa
 chalupas
@@ -21609,6 +21615,7 @@ cheesily
 cheesiness
 cheesinesses
 cheesy
+cheetah
 cheetahs
 chef
 chefdom
@@ -22262,6 +22269,7 @@ choicenesses
 choicer
 choices
 choicest
+choir
 choirboy
 choired
 choirgirl
@@ -25180,6 +25188,7 @@ collinearities
 collinearity
 collins
 collinses
+collinsia
 collinsias
 collision
 collisional
@@ -29787,6 +29796,7 @@ creameries
 creamers
 creamery
 creamier
+creamiest
 creamily
 creaminess
 creaminesses
@@ -34489,6 +34499,7 @@ denudement
 denudements
 denuder
 denuders
+denudes
 denumerability
 denumerably
 denunciation
@@ -50577,6 +50588,7 @@ flytes
 flytier
 flytiers
 flyting
+flytings
 flytrap
 flytraps
 flyway
@@ -54284,6 +54296,7 @@ genera
 generable
 general
 generalcies
+generalcy
 generalisations
 generalise
 generalised
@@ -55137,6 +55150,7 @@ glaciating
 glaciation
 glaciations
 glacier
+glaciered
 glaciers
 glaciological
 glaciologies
@@ -63002,6 +63016,7 @@ hydraulically
 hydraulics
 hydrazide
 hydrazides
+hydrazine
 hydrazines
 hydria
 hydriae
@@ -89931,6 +89946,7 @@ odors
 odour
 odourful
 odours
+ods
 odyl
 odyle
 odyles
@@ -93859,6 +93875,7 @@ oversaw
 overscale
 overscaled
 overscore
+overscored
 overscores
 overscoring
 overscrupulous
@@ -97098,6 +97115,7 @@ pencilling
 pencillings
 pencils
 pend
+pendant
 pendants
 pended
 pendencies
@@ -105733,6 +105751,7 @@ prostitution
 prostitutions
 prostitutor
 prostitutors
+prostomia
 prostomial
 prostomium
 prostrate
@@ -118117,6 +118136,7 @@ sash
 sashay
 sashayed
 sashaying
+sashays
 sashed
 sashimis
 sashing
@@ -126046,6 +126066,7 @@ songwriters
 songwriting
 songwritings
 sonhoods
+sonic
 sonically
 sonicate
 sonicated
@@ -127842,6 +127863,7 @@ sprinklered
 sprinklers
 sprinkles
 sprinkling
+sprinklings
 sprint
 sprinted
 sprinter
@@ -128203,6 +128225,7 @@ stabbers
 stabile
 stabiles
 stabilise
+stabilised
 stabilises
 stabilising
 stabilities
@@ -129963,6 +129986,7 @@ streeker
 streekers
 streeking
 streeks
+streel
 streeling
 streels
 street
@@ -131082,6 +131106,7 @@ suboscine
 suboscines
 suboval
 subovate
+suboxide
 suboxides
 subpanel
 subpar
@@ -133037,6 +133062,7 @@ swabber
 swabbers
 swabbie
 swabbies
+swabbing
 swabby
 swacked
 swaddle
@@ -133527,6 +133553,7 @@ syllabi
 syllabic
 syllabically
 syllabicate
+syllabicated
 syllabicates
 syllabicating
 syllabication
@@ -135002,6 +135029,7 @@ tawny
 tawpie
 tawpies
 taws
+tawse
 tawsed
 tawsing
 tax
@@ -135788,6 +135816,7 @@ tenrec
 tens
 tense
 tensed
+tensely
 tenseness
 tensenesses
 tenses
@@ -137126,6 +137155,7 @@ through
 throughither
 throughly
 throughother
+throughout
 throughputs
 throw
 throwaway
@@ -143618,6 +143648,7 @@ unfed
 unfeeling
 unfeelingly
 unfeelingness
+unfeelingnesses
 unfeigned
 unfeignedly
 unfelted
@@ -144472,6 +144503,7 @@ unorganized
 unoriginal
 unornamented
 unornate
+unorthodox
 unorthodoxies
 unorthodoxly
 unorthodoxy
@@ -148108,6 +148140,7 @@ visionaries
 visionariness
 visionarinesses
 visionary
+visioning
 visionless
 visions
 visit
@@ -149849,6 +149882,7 @@ weekly
 weeknight
 weeknights
 weeks
+weel
 ween
 weened
 weenie
@@ -151912,6 +151946,7 @@ wrassle
 wrassled
 wrassles
 wrastle
+wrastled
 wrastling
 wrath
 wrathed
