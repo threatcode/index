@@ -2203,6 +2203,7 @@ aglitter
 aglow
 agly
 aglycon
+aglycone
 aglycones
 aglycons
 agma
@@ -8997,6 +8998,7 @@ babbittries
 babbittry
 babbitts
 babble
+babblement
 babbler
 babblers
 babbles
@@ -13199,6 +13201,7 @@ bisques
 bistate
 bister
 bistered
+bisters
 bistort
 bistorts
 bistouries
@@ -15066,6 +15069,7 @@ bottlebrushes
 bottled
 bottleful
 bottlefuls
+bottleneck
 bottlenecked
 bottlenecking
 bottlenecks
@@ -15842,6 +15846,7 @@ breeder
 breeders
 breeding
 breeds
+breeks
 brees
 breeze
 breezeless
@@ -22355,6 +22360,7 @@ chondrules
 chook
 chooks
 choose
+chooser
 choosers
 chooses
 choosey
@@ -31620,6 +31626,7 @@ cyclodiene
 cyclodienes
 cyclogeneses
 cyclohexanes
+cyclohexanone
 cyclohexanones
 cycloheximide
 cyclohexylamine
@@ -34798,6 +34805,7 @@ deracination
 deracinations
 deraign
 deraigned
+deraigning
 deraigns
 derail
 derailed
@@ -40630,6 +40638,7 @@ dwindling
 dwine
 dwined
 dwines
+dwining
 dyable
 dyad
 dyadic
@@ -41833,6 +41842,7 @@ elegies
 elegise
 elegised
 elegises
+elegising
 elegist
 elegists
 elegits
@@ -42234,6 +42244,7 @@ embracement
 embracements
 embraceor
 embraceors
+embracer
 embraceries
 embracers
 embracery
@@ -47338,6 +47349,7 @@ falterers
 faltering
 falteringly
 falters
+falx
 fame
 famed
 fames
@@ -51804,6 +51816,7 @@ fractured
 fracturer
 fractures
 fracturing
+fracturs
 fractus
 frae
 fraena
@@ -52192,6 +52205,7 @@ fricandoes
 fricasseed
 fricasseeing
 fricassees
+fricative
 fricatives
 friction
 frictional
@@ -53550,6 +53564,7 @@ gametogenic
 gametogenous
 gametophore
 gametophores
+gametophytes
 gamey
 gamic
 gamiest
@@ -55399,6 +55414,7 @@ glimmered
 glimmering
 glimmerings
 glimmers
+glimpse
 glimpsed
 glimpser
 glimpses
@@ -56137,6 +56153,7 @@ goodmen
 goodness
 goodnesses
 goods
+goodwife
 goodwill
 goodwilled
 goodwills
@@ -68710,6 +68727,7 @@ involucrum
 involuntarily
 involuntariness
 involuted
+involutes
 involuting
 involution
 involutional
@@ -76859,6 +76877,7 @@ lyttae
 lyttas
 ma
 maar
+maars
 mabe
 mabes
 mac
@@ -77534,6 +77553,7 @@ malignances
 malignancies
 malignancy
 malignant
+maligned
 maligner
 maligners
 maligning
@@ -78156,6 +78176,7 @@ margent
 margented
 margents
 marges
+margin
 marginal
 marginalities
 marginality
@@ -79642,6 +79663,7 @@ menologies
 menology
 menopausal
 menopause
+menopauses
 menorah
 menorahs
 menorrhagia
@@ -81028,6 +81050,7 @@ militarising
 militarism
 militarisms
 militarist
+militaristic
 militarists
 militarization
 militarize
@@ -82624,6 +82647,7 @@ mites
 mither
 mithers
 mithridate
+mithridates
 miticidal
 miticide
 miticides
@@ -85269,6 +85293,7 @@ myoglobin
 myoglobins
 myograph
 myographs
+myoid
 myoinositol
 myoinositols
 myologic
@@ -98525,6 +98550,7 @@ pheresis
 pheromonal
 pheromone
 pheromones
+phew
 phi
 phial
 phials
@@ -108749,6 +108775,7 @@ ransack
 ransacked
 ransacker
 ransackers
+ransacking
 ransacks
 ransom
 ransomer
@@ -111406,6 +111433,7 @@ refunding
 refunds
 refurbisher
 refurbishers
+refurbishing
 refurbishment
 refurbishments
 refurnish
@@ -127702,6 +127730,7 @@ sportscasters
 sportscasts
 sportsman
 sportsmanly
+sportsmanship
 sportsmanships
 sportsmen
 sportswear
@@ -128654,6 +128683,7 @@ statehoods
 statehouse
 statehouses
 stateless
+statelessness
 statelessnesses
 statelier
 stateliest
@@ -132567,6 +132597,7 @@ superstrength
 superstrengths
 superstrike
 superstrikes
+superstring
 superstrings
 superstructural
 superstructure
@@ -135201,6 +135232,7 @@ teazelled
 teazelling
 teazels
 teazle
+teazled
 teazles
 tech
 teched
@@ -136003,6 +136035,7 @@ termini
 terminological
 terminologies
 terminuses
+termitaria
 termitaries
 termitarium
 termitary
@@ -142266,6 +142299,7 @@ unashamed
 unashamedly
 unasked
 unassailability
+unassailable
 unassailably
 unassayed
 unassertive
@@ -151328,6 +151362,7 @@ witherite
 witherites
 witherod
 witherods
+withes
 withheld
 withhold
 withholder
