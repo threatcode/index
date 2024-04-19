@@ -4227,6 +4227,7 @@ anathema
 anathemas
 anathemata
 anathematize
+anathematized
 anathematizing
 anatomic
 anatomically
@@ -18100,6 +18101,7 @@ callans
 callant
 callants
 callas
+callback
 callbacks
 callboard
 callboards
@@ -22216,6 +22218,7 @@ chlorobenzenes
 chloroform
 chloroformed
 chloroforms
+chlorohydrin
 chlorohydrins
 chlorophyll
 chlorophyllous
@@ -24094,6 +24097,7 @@ coachers
 coaches
 coaching
 coachman
+coachmen
 coachworks
 coact
 coacted
@@ -28782,6 +28786,7 @@ cotingas
 cotinine
 cotinines
 cotoneaster
+cotoneasters
 cotquean
 cotqueans
 cotransduce
@@ -36990,6 +36995,7 @@ disassembled
 disassembles
 disassembling
 disassociate
+disassociated
 disassociates
 disassociating
 disassociation
@@ -38633,6 +38639,7 @@ doddery
 dodecagon
 dodecagons
 dodecaphonic
+dodecaphonies
 dodecaphony
 dodge
 dodgeball
@@ -45303,6 +45310,7 @@ eutaxy
 eutectics
 eutectoid
 eutectoids
+euthanasia
 euthanatized
 euthanatizes
 euthanatizing
@@ -46372,9 +46380,11 @@ explore
 explored
 explorer
 explorers
+explores
 exploring
 explosion
 explosions
+explosive
 explosively
 exponent
 exponential
@@ -53380,6 +53390,7 @@ galliot
 gallipots
 gallium
 galliums
+gallivant
 gallivanted
 gallivanting
 gallivants
@@ -67445,6 +67456,7 @@ intelligible
 intemperance
 intemperances
 intemperately
+intemperateness
 intend
 intendances
 intendant
@@ -70681,6 +70693,7 @@ juxtapositions
 ka
 kaas
 kab
+kabab
 kabaka
 kabakas
 kabala
@@ -76663,6 +76676,7 @@ lux
 luxate
 luxates
 luxating
+luxation
 luxations
 luxe
 luxes
@@ -78915,6 +78929,7 @@ mazedness
 mazeltov
 mazer
 mazers
+mazes
 mazier
 maziest
 mazily
@@ -80456,6 +80471,7 @@ microanalysts
 microanalytical
 microanatomy
 microbalance
+microbalances
 microbarograph
 microbarographs
 microbe
@@ -82949,6 +82965,7 @@ molesters
 molesting
 molests
 molies
+moline
 mollah
 mollahs
 mollie
@@ -83023,6 +83040,7 @@ mommies
 moms
 momser
 momsers
+momus
 momuses
 momzer
 momzers
@@ -83156,6 +83174,7 @@ monist
 monistic
 monists
 monition
+monitions
 monitor
 monitored
 monitorial
@@ -86581,6 +86600,7 @@ neutered
 neutering
 neutral
 neutralise
+neutralised
 neutralises
 neutralising
 neutralism
@@ -86978,6 +86998,7 @@ ninepins
 nines
 nineteen
 nineteens
+nineteenth
 nineteenths
 nineties
 ninetieth
@@ -92126,6 +92147,7 @@ outman
 outmaneuver
 outmaneuvered
 outmaneuvering
+outmaneuvers
 outmanipulate
 outmanipulated
 outmanipulates
@@ -94817,6 +94839,7 @@ paleontology
 paleopathology
 paleosol
 paleosols
+paleozoic
 paleozoologies
 paleozoologist
 paleozoologists
@@ -95933,6 +95956,7 @@ participates
 participating
 participation
 participational
+participations
 participative
 participator
 participators
@@ -98882,6 +98906,7 @@ photophobia
 photophobias
 photophobic
 photophore
+photophores
 photopias
 photopic
 photoplay
@@ -104523,6 +104548,7 @@ priestess
 priestesses
 priesthood
 priesthoods
+priesting
 priestliest
 priestlinesses
 priestly
@@ -107578,6 +107604,7 @@ quarterages
 quarterback
 quarterbacking
 quarterbacks
+quarterdecks
 quartered
 quarterer
 quarterers
@@ -108611,6 +108638,7 @@ rampions
 rampole
 rampoles
 ramps
+ramrod
 ramrodded
 ramrodding
 ramrods
@@ -125708,6 +125736,7 @@ soldiers
 soldiership
 soldierships
 soldiery
+soldo
 sole
 solecised
 solecises
@@ -134466,6 +134495,7 @@ tamer
 tamers
 tames
 tamest
+taming
 tamis
 tamises
 tammie
@@ -135605,6 +135635,7 @@ temporises
 temporising
 temporization
 temporizations
+temporized
 temporizer
 temporizers
 temporizes
@@ -136661,6 +136692,7 @@ thewy
 they
 thiabendazole
 thiabendazoles
+thiaminases
 thiamine
 thiamines
 thiamins
@@ -141123,6 +141155,7 @@ turbidimeter
 turbidimeters
 turbidimetric
 turbidimetries
+turbidimetry
 turbidite
 turbidites
 turbidities
@@ -141587,6 +141620,7 @@ tympanites
 tympano
 tympans
 tympanum
+tympanums
 tympany
 tyne
 tyned
@@ -144303,6 +144337,7 @@ unmasks
 unmatchable
 unmated
 unmatted
+unmatured
 unmeaning
 unmeant
 unmeasurable
