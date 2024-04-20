@@ -8948,6 +8948,7 @@ azines
 azlon
 azlons
 azo
+azoic
 azole
 azoles
 azon
@@ -18006,6 +18007,7 @@ calcedonies
 calcedony
 calces
 calcic
+calcicole
 calcicolous
 calciferol
 calciferous
@@ -22191,6 +22193,7 @@ chitlins
 chiton
 chitosan
 chits
+chitter
 chittered
 chittering
 chitterlings
@@ -24165,6 +24168,7 @@ coactors
 coacts
 coadaptation
 coadaptations
+coadapted
 coadjutor
 coadjutors
 coadjutrices
@@ -27342,6 +27346,7 @@ consulates
 consuls
 consulship
 consulships
+consult
 consultant
 consultants
 consultantship
@@ -27837,6 +27842,7 @@ convincingly
 convincingness
 conviviality
 convocations
+convoke
 convoked
 convoker
 convokers
@@ -28418,6 +28424,7 @@ cornute
 cornuted
 cornuto
 corodies
+corody
 corollaries
 corollary
 corollas
@@ -31021,6 +31028,7 @@ cumarin
 cumarins
 cumber
 cumberbund
+cumberbunds
 cumbered
 cumberer
 cumbering
@@ -31991,6 +31999,7 @@ daffiness
 daffinesses
 daffing
 daffodil
+daffodils
 daffs
 daffy
 daft
@@ -44393,6 +44402,7 @@ equids
 equilibrant
 equilibrants
 equilibrate
+equilibrated
 equilibrates
 equilibrating
 equilibration
@@ -57832,6 +57842,7 @@ guider
 guiders
 guides
 guideway
+guideword
 guiding
 guidon
 guids
@@ -58871,6 +58882,7 @@ hamuli
 hamulose
 hamulous
 hamza
+hamzah
 hamzahs
 hamzas
 hanaper
@@ -64449,6 +64461,7 @@ imbosomed
 imbosoming
 imbower
 imbowered
+imbowering
 imbricate
 imbricates
 imbricating
@@ -65505,6 +65518,7 @@ inchoatives
 inchworm
 inchworms
 incidence
+incidences
 incident
 incidental
 incidentally
@@ -71194,6 +71208,7 @@ keennesses
 keens
 keep
 keepable
+keeper
 keepers
 keeping
 keepings
@@ -72143,6 +72158,7 @@ knuckleheads
 knuckler
 knucklers
 knuckles
+knucklier
 knuckliest
 knuckling
 knur
@@ -82674,6 +82690,7 @@ misters
 misthink
 misthinking
 misthought
+misthrew
 misthrow
 misthrowing
 misthrown
@@ -85735,6 +85752,7 @@ nannoplankton
 nannoplanktons
 nanny
 nannyish
+nanogram
 nanograms
 nanometer
 nanometers
@@ -97339,6 +97357,7 @@ penetrating
 penetratingly
 penetration
 penetrative
+penetrometer
 penetrometers
 pengo
 pengos
@@ -98264,6 +98283,7 @@ pertinently
 pertly
 pertness
 pertnesses
+perturb
 perturbation
 perturbational
 perturbations
@@ -100561,6 +100581,7 @@ planispheric
 plank
 planked
 planking
+plankings
 planks
 plankton
 planktonic
@@ -105998,6 +106019,7 @@ protectorships
 protectory
 protectress
 protectresses
+protects
 protege
 protegee
 protegees
@@ -107972,6 +107994,7 @@ quested
 quester
 questing
 question
+questionable
 questionaries
 questioned
 questioner
@@ -110890,6 +110913,7 @@ redivides
 redividing
 redivision
 redivivus
+redivorce
 redleg
 redlegs
 redline
@@ -111964,6 +111988,7 @@ reify
 reifying
 reign
 reigned
+reigning
 reignite
 reignited
 reignites
@@ -126685,6 +126710,7 @@ southwestward
 southwestwards
 souvenir
 souvlaki
+souvlakia
 souvlakias
 souvlakis
 sovereignly
@@ -134126,6 +134152,7 @@ synodical
 synoicous
 synonym
 synonyme
+synonymes
 synonymic
 synonymical
 synonymist
@@ -137665,6 +137692,7 @@ tidewaters
 tideway
 tideways
 tidied
+tidiers
 tidies
 tidiest
 tidily
@@ -140642,6 +140670,7 @@ triticums
 tritium
 tritiums
 tritoma
+tritomas
 triton
 tritone
 tritons
@@ -142574,6 +142603,7 @@ unawarely
 unawareness
 unawarenesses
 unawed
+unawesome
 unbaked
 unbalance
 unbalanced
@@ -145137,6 +145167,7 @@ unrulier
 unruliest
 unruliness
 unrulinesses
+unruly
 unrumpled
 unrusted
 uns
@@ -145432,6 +145463,7 @@ unsterile
 unsterilized
 unstick
 unstinted
+unstinting
 unstintingly
 unstitch
 unstitched
@@ -147871,6 +147903,7 @@ viaticals
 viaticum
 viaticums
 viator
+viatores
 viators
 vibe
 vibist
@@ -149109,6 +149142,7 @@ waftage
 waftages
 wafted
 wafter
+wafters
 wafts
 wafture
 waftures
@@ -150203,6 +150237,7 @@ weigh
 weighable
 weighed
 weigher
+weighing
 weighman
 weighmen
 weighs
