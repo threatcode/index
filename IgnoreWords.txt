@@ -5221,6 +5221,7 @@ antiforeign
 antiforeigner
 antiformalist
 antifouling
+antifraud
 antifreeze
 antifreezes
 antifriction
@@ -24421,6 +24422,7 @@ cobbiest
 cobble
 cobbled
 cobbler
+cobbles
 cobblestoned
 cobblestones
 cobbling
@@ -29577,6 +29579,7 @@ cowpea
 cowpeas
 cowpies
 cowplop
+cowplops
 cowpoke
 cowpokes
 cowpox
@@ -30175,6 +30178,7 @@ cretics
 cretin
 cretinism
 cretinisms
+cretinoid
 cretins
 cretonne
 cretonnes
@@ -33726,6 +33730,7 @@ deflexions
 defloration
 deflorations
 deflowered
+deflowerer
 deflowerers
 deflowering
 deflowers
@@ -41476,6 +41481,7 @@ edifying
 edile
 ediles
 edit
+editable
 edited
 editing
 edition
@@ -45605,6 +45611,7 @@ evacuees
 evadable
 evade
 evaded
+evader
 evaders
 evades
 evadible
@@ -46936,6 +46943,7 @@ extorted
 extorters
 extorting
 extortionary
+extortionate
 extortionately
 extortioner
 extortioners
@@ -50435,6 +50443,7 @@ floodlighted
 floodlighting
 floodlights
 floodplain
+floods
 floodtides
 floodwalls
 floodwater
@@ -52816,6 +52825,7 @@ fruiterer
 fruiterers
 fruitful
 fruitfuller
+fruitfullest
 fruitfulness
 fruitfulnesses
 fruitier
@@ -53841,6 +53851,7 @@ gametogenic
 gametogenous
 gametophore
 gametophores
+gametophyte
 gametophytes
 gamey
 gamic
@@ -54207,6 +54218,7 @@ gasted
 gaster
 gasters
 gastightnesses
+gasting
 gastness
 gastraea
 gastraeas
@@ -57577,6 +57589,7 @@ groceries
 grocery
 grodier
 grodiest
+grody
 groggeries
 groggery
 groggiest
@@ -59984,6 +59997,7 @@ headstock
 headstocks
 headstone
 headstones
+headstream
 headstreams
 headstrong
 headwaiter
@@ -60627,6 +60641,7 @@ hemolymphs
 hemolyses
 hemolysin
 hemolysins
+hemolysis
 hemolytic
 hemolyze
 hemolyzed
@@ -61104,6 +61119,7 @@ hexachord
 hexachords
 hexad
 hexade
+hexadecimal
 hexadecimals
 hexades
 hexadic
@@ -63616,6 +63632,7 @@ hypanthium
 hype
 hyped
 hyper
+hyperacid
 hyperacidities
 hyperacidity
 hyperactive
@@ -70923,6 +70940,7 @@ juliennes
 jumbal
 jumbals
 jumble
+jumbled
 jumbler
 jumblers
 jumbles
@@ -81017,6 +81035,7 @@ microfloras
 microform
 microforms
 microfossil
+microfossils
 microfungi
 microfungus
 microgametes
@@ -87666,6 +87685,7 @@ nodder
 nodders
 noddies
 nodding
+noddingly
 noddle
 noddled
 noddles
@@ -95970,6 +95990,7 @@ paragon
 paragoned
 paragoning
 paragons
+paragraph
 paragraphed
 paragrapher
 paragraphers
@@ -101250,6 +101271,7 @@ pleinairist
 pleiocene
 pleiotaxies
 pleiotaxy
+pleiotropic
 pleiotropies
 pleiotropy
 plench
@@ -102007,6 +102029,7 @@ pollinosis
 pollist
 pollists
 polliwog
+polliwogs
 pollocks
 polls
 pollster
@@ -102665,6 +102688,7 @@ porthole
 porticoed
 porticoes
 porticos
+portiere
 portieres
 porting
 portioned
@@ -108869,6 +108893,7 @@ radiography
 radioisotope
 radioisotopes
 radioisotopic
+radiolabel
 radiolabeled
 radiolabeling
 radiolabelled
@@ -110421,6 +110446,7 @@ recertifies
 recertify
 recertifying
 recessed
+recesses
 recessing
 recession
 recessionals
@@ -111069,6 +111095,7 @@ redecide
 redecided
 redecides
 redeciding
+redecorate
 redecorates
 redecorating
 redecoration
@@ -114032,6 +114059,7 @@ rerepeats
 rereviewed
 rereward
 rerewards
+rerig
 rerigged
 rerigs
 rerisen
@@ -115060,6 +115088,7 @@ retractilities
 retracting
 retraction
 retractions
+retractor
 retractors
 retracts
 retrain
@@ -127976,6 +128005,7 @@ spirillum
 spiring
 spirit
 spirited
+spiritedly
 spiritedness
 spiritednesses
 spiriting
@@ -129962,6 +129992,7 @@ stimies
 stimulant
 stimulants
 stimulate
+stimulated
 stimulating
 stimulation
 stimulative
@@ -133859,6 +133890,7 @@ swashbucklers
 swashbuckles
 swasher
 swashers
+swashes
 swashing
 swastica
 swasticas
@@ -142345,6 +142377,7 @@ twixt
 twofer
 twofold
 twofolds
+twoonie
 twoonies
 twopence
 twopences
@@ -152258,6 +152291,7 @@ wollastonite
 wollastonites
 wolver
 wolves
+woman
 womaned
 womanhood
 womanhoods
@@ -153282,6 +153316,7 @@ yeh
 yeld
 yelk
 yelks
+yell
 yelled
 yeller
 yellers
