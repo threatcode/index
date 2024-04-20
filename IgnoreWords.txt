@@ -18510,6 +18510,7 @@ candid
 candida
 candidacies
 candidacy
+candidal
 candidas
 candidate
 candidates
@@ -23324,6 +23325,7 @@ clambered
 clamberer
 clamberers
 clambers
+clamlike
 clammed
 clammer
 clammers
@@ -25633,6 +25635,7 @@ commemorate
 commemorated
 commemorates
 commemorating
+commemorations
 commemoratively
 commemorator
 commemorators
@@ -29485,6 +29488,7 @@ cowpoxes
 cowpuncher
 cowrie
 cowries
+cowrite
 cowrites
 cowriting
 cowritten
@@ -33377,6 +33381,7 @@ deeper
 deepest
 deepfreeze
 deepfreezes
+deepfreezing
 deepfroze
 deepfrozen
 deepness
@@ -34172,6 +34177,7 @@ demerger
 demergered
 demergering
 demerges
+demerging
 demerit
 demerited
 demeriting
@@ -34520,6 +34526,7 @@ dentations
 dented
 denticle
 denticles
+denticulated
 denticulations
 dentiform
 dentifrice
@@ -40445,6 +40452,7 @@ dumpinesses
 dumping
 dumpish
 dumplings
+dumps
 dumpsite
 dumpster
 dumpsters
@@ -43568,6 +43576,7 @@ ensurer
 ensures
 ensuring
 enswathe
+enswathes
 enswathing
 entablature
 entablatures
@@ -45652,6 +45661,7 @@ exactable
 exactas
 exacted
 exacter
+exacters
 exactest
 exacting
 exactingly
@@ -46214,6 +46224,7 @@ exordium
 exordiums
 exoskeletal
 exoskeleton
+exoskeletons
 exosmic
 exosmose
 exosmoses
@@ -51002,6 +51013,7 @@ footgears
 foothills
 foothold
 footie
+footier
 footies
 footiest
 footing
@@ -53542,6 +53554,7 @@ galoshe
 galoshed
 galoshes
 gals
+galumph
 galumphing
 galvanic
 galvanically
@@ -57019,6 +57032,7 @@ greatens
 greater
 greatest
 greathearted
+greatheartedly
 greatly
 greatness
 greatnesses
@@ -58272,6 +58286,7 @@ gyroplanes
 gyros
 gyroscope
 gyroscopes
+gyroscopic
 gyroscopically
 gyrose
 gyrostabilizer
@@ -65993,6 +66008,7 @@ indiction
 indictions
 indictment
 indictments
+indictor
 indictors
 indicts
 indie
@@ -66416,6 +66432,7 @@ infatuated
 infatuates
 infatuation
 infatuations
+infauna
 infaunae
 infaunal
 infaunas
@@ -83006,7 +83023,9 @@ modiste
 mods
 modulabilities
 modulability
+modular
 modularity
+modularized
 modularly
 modulars
 modulate
@@ -86873,6 +86892,7 @@ newspapered
 newspapering
 newspapermen
 newspapers
+newspaperwomen
 newspeak
 newspeaks
 newspeople
@@ -87233,6 +87253,7 @@ nitpickier
 nitpickiest
 nitpicks
 nitpicky
+nitrate
 nitrated
 nitrating
 nitration
@@ -89192,6 +89213,7 @@ nudeness
 nudenesses
 nudes
 nudest
+nudge
 nudgers
 nudges
 nudibranch
@@ -90270,6 +90292,7 @@ ogre
 ogreish
 ogreishly
 ogreism
+ogreisms
 ogres
 ogresses
 ogrish
@@ -102214,6 +102237,7 @@ porcini
 porcinis
 porcino
 porcupine
+porcupines
 pore
 pored
 pores
@@ -103099,6 +103123,7 @@ preadaptations
 preadapting
 preadaptive
 preadapts
+preadjust
 preadjusted
 preadjusting
 preadjusts
@@ -108165,6 +108190,7 @@ quires
 quirk
 quirked
 quirkier
+quirkily
 quirkiness
 quirkinesses
 quirking
@@ -108437,6 +108463,7 @@ radicalising
 radicalism
 radicalisms
 radicalization
+radicalizations
 radicalize
 radicalized
 radicalizes
@@ -114735,6 +114762,7 @@ retroacting
 retroaction
 retroactions
 retroactive
+retroactively
 retroactivities
 retroactivity
 retroacts
@@ -115993,6 +116021,7 @@ riviera
 rivieras
 riviere
 rivieres
+rivulet
 rivulets
 rivulose
 riyal
@@ -130955,6 +130984,7 @@ subdeputy
 subdermal
 subdermally
 subdevelopment
+subdevelopments
 subdialect
 subdialects
 subdirector
@@ -138616,6 +138646,7 @@ topicalities
 topicality
 topically
 topics
+toping
 topis
 topkick
 topkicks
@@ -144028,6 +144059,7 @@ unglue
 unglued
 unglues
 ungluing
+ungodlier
 ungodlinesses
 ungot
 ungotten
@@ -147356,6 +147388,7 @@ venines
 venins
 venipunctures
 venire
+venireman
 veniremen
 venires
 venison
@@ -147423,6 +147456,7 @@ venturi
 venturing
 venturis
 venturous
+venturously
 venturousness
 venturousnesses
 venue
@@ -148415,6 +148449,7 @@ visualized
 visualizer
 visualizers
 visualizes
+visualizing
 visually
 visuals
 vita
