@@ -4253,6 +4253,7 @@ anattos
 ancestor
 ancestored
 ancestoring
+ancestors
 ancestral
 ancestrally
 ancestress
@@ -5332,6 +5333,7 @@ antimycins
 antinarrative
 antinarratives
 antinational
+antinationalist
 antinatural
 antinature
 antinausea
@@ -10030,7 +10032,9 @@ barded
 bardes
 bardic
 barding
+bardolater
 bardolatries
+bards
 bare
 bareback
 barebacked
@@ -10844,6 +10848,7 @@ beauty
 beaux
 beaver
 beaverboard
+beaverboards
 beavering
 beavers
 bebeerine
@@ -15177,6 +15182,7 @@ bounding
 boundless
 boundlessly
 boundlessness
+boundlessnesses
 boundness
 boundnesses
 bounds
@@ -15227,6 +15233,7 @@ bousing
 bousoukia
 bousoukis
 boustrophedonic
+bousy
 bout
 boutique
 boutiques
@@ -19706,6 +19713,7 @@ case
 casease
 caseases
 caseated
+caseates
 caseating
 caseation
 caseations
@@ -19939,6 +19947,7 @@ catamites
 catamount
 catamounts
 cataphora
+cataphoras
 cataphoreses
 cataphoresis
 cataphoretic
@@ -36248,6 +36257,7 @@ diehards
 dieing
 diel
 dieldrin
+dieldrins
 dielectric
 dielectrics
 diemaker
@@ -45649,6 +45659,7 @@ exaggeratedly
 exaggeratedness
 exaggeration
 exaggerations
+exaggerative
 exaggerator
 exaggerators
 exaggeratory
@@ -46700,6 +46711,7 @@ externship
 externships
 exteroceptive
 exteroceptor
+exterritorial
 extinct
 extincted
 extinction
@@ -49990,6 +50002,7 @@ fleshers
 fleshes
 fleshier
 fleshily
+fleshiness
 fleshinesses
 fleshing
 fleshings
@@ -54881,6 +54894,7 @@ giaour
 giaours
 giardias
 giardiases
+giardiasis
 gib
 gibbed
 gibber
@@ -55871,6 +55885,7 @@ gnawed
 gnawer
 gnawers
 gnawing
+gnawingly
 gnawn
 gnaws
 gneiss
@@ -58075,6 +58090,7 @@ gutless
 gutlessness
 gutlessnesses
 gutlike
+guts
 gutsier
 gutsiest
 gutsily
@@ -59583,6 +59599,7 @@ haycocks
 hayed
 hayer
 hayers
+hayey
 hayfields
 hayfork
 hayforks
@@ -62753,6 +62770,7 @@ humble
 humblebee
 humblebees
 humbled
+humbleness
 humblenesses
 humbler
 humbles
@@ -89064,6 +89082,7 @@ nowts
 noxious
 noxiously
 noxiousness
+noxiousnesses
 noyades
 nozzle
 nozzles
@@ -92242,6 +92261,7 @@ outlandishly
 outlandishness
 outlands
 outlast
+outlasted
 outlasting
 outlasts
 outlaugh
@@ -94959,6 +94979,7 @@ paleoecological
 paleoecologies
 paleoecologist
 paleoecologists
+paleoecology
 paleogene
 paleogeographic
 paleogeography
@@ -97566,6 +97587,7 @@ perambulations
 perambulator
 perambulators
 perambulatory
+perborate
 perborates
 percales
 percaline
@@ -124697,6 +124719,7 @@ slothful
 slothfully
 slothfulness
 slothfulnesses
+sloths
 slots
 slotted
 slotters
@@ -129542,6 +129565,7 @@ stipulatory
 stipules
 stir
 stirabout
+stirks
 stirp
 stirpes
 stirred
@@ -132708,6 +132732,7 @@ superstimulated
 superstimulates
 superstition
 superstitions
+superstitious
 superstitiously
 superstock
 superstocks
@@ -133191,6 +133216,7 @@ suttas
 suttees
 sutural
 suturally
+suture
 sutured
 sutures
 suturing
@@ -135958,6 +135984,7 @@ tenorite
 tenorites
 tenors
 tenosynovitis
+tenosynovitises
 tenotomies
 tenour
 tenours
@@ -136646,6 +136673,7 @@ thenars
 thence
 thenceforth
 thenceforward
+thenceforwards
 thens
 theobromine
 theobromines
@@ -137565,6 +137593,7 @@ tiddly
 tide
 tided
 tideland
+tidelands
 tidelike
 tidemark
 tidemarks
@@ -139359,6 +139388,7 @@ tranquilize
 tranquilizer
 tranquilizes
 tranquilizing
+tranquiller
 tranquillest
 tranquillities
 tranquillity
@@ -140256,6 +140286,7 @@ trifler
 triflers
 trifles
 triflings
+trifluoperazine
 trifluralin
 trifocal
 trifocals
@@ -141558,6 +141589,7 @@ tutelages
 tutelar
 tutelaries
 tutelars
+tutor
 tutorage
 tutorages
 tutoress
@@ -143111,6 +143143,7 @@ unde
 undead
 undebatably
 undebated
+undecadent
 undeceive
 undeceived
 undeceives
@@ -151551,6 +151584,7 @@ wittols
 witty
 wive
 wived
+wiver
 wivern
 wiverns
 wivers
@@ -151738,6 +151772,7 @@ woodchats
 woodchopper
 woodchoppers
 woodchuck
+woodchucks
 woodcock
 woodcocks
 woodcraft
