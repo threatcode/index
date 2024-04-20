@@ -12330,6 +12330,7 @@ bibcocks
 bibelot
 bibelots
 bible
+bibles
 bibless
 biblical
 biblicism
@@ -26650,6 +26651,7 @@ condyloma
 condylomas
 condylomata
 condylomatous
+cone
 coned
 coneflower
 coneflowers
@@ -29746,6 +29748,7 @@ cranial
 craniate
 craniates
 craning
+craniocerebral
 craniofacial
 craniologies
 craniology
@@ -32118,6 +32121,7 @@ daintiest
 daintily
 daintiness
 daintinesses
+dainty
 daiquiri
 daiquiris
 dairies
@@ -32927,6 +32931,7 @@ decanal
 decane
 decanes
 decant
+decantation
 decantations
 decanted
 decanter
@@ -34323,6 +34328,7 @@ demoed
 demographer
 demographers
 demographic
+demographical
 demographically
 demographics
 demographies
@@ -35399,6 +35405,7 @@ detachednesses
 detachers
 detaches
 detaching
+detachment
 detachments
 detail
 detailed
@@ -40324,6 +40331,7 @@ dubonnets
 ducal
 ducally
 ducat
+duce
 duces
 duchess
 duchesses
@@ -40805,6 +40813,7 @@ dyewoods
 dying
 dyings
 dyked
+dykes
 dykey
 dyking
 dynameter
@@ -41979,6 +41988,7 @@ elegances
 elegancies
 elegancy
 elegant
+elegantly
 elegiac
 elegiacal
 elegiacally
@@ -46928,6 +46938,7 @@ extrasensory
 extrasystoles
 extratextual
 extrauterine
+extravagance
 extravagances
 extravagancies
 extravagant
@@ -51872,6 +51883,7 @@ founds
 fount
 fountain
 fountained
+fountainhead
 fountainheads
 fountaining
 fountains
@@ -52058,6 +52070,7 @@ frames
 frameshift
 frameshifts
 framework
+frameworks
 framing
 framings
 franc
@@ -56508,6 +56521,7 @@ gossippers
 gossipries
 gossipry
 gossips
+gossipy
 gossoon
 gossypol
 gossypols
@@ -57011,6 +57025,7 @@ gravamen
 gravamens
 gravamina
 grave
+graved
 gravel
 graveled
 graveless
@@ -68113,6 +68128,7 @@ intermarried
 intermarries
 intermarry
 intermarrying
+intermats
 intermatting
 intermeddle
 intermeddled
@@ -73191,6 +73207,7 @@ lanner
 lanneret
 lannerets
 lanners
+lanoline
 lanose
 lanosities
 lanosity
@@ -74197,6 +74214,7 @@ lekythoi
 lekythus
 leman
 lemans
+lemma
 lemmas
 lemmata
 lemmatize
@@ -90627,6 +90645,7 @@ olios
 olivaceous
 olivary
 olive
+olivenite
 olivenites
 olives
 olivine
@@ -93890,6 +93909,7 @@ overlaying
 overlays
 overleaf
 overleap
+overleaped
 overleaping
 overleaps
 overlearn
@@ -95340,6 +95360,7 @@ palpability
 palpable
 palpably
 palpal
+palpate
 palpated
 palpates
 palpating
@@ -96815,6 +96836,7 @@ pattered
 patterer
 patterers
 pattering
+pattern
 patterned
 patterning
 patternings
@@ -97850,6 +97872,7 @@ percolating
 percolations
 percolator
 percolators
+percuss
 percussed
 percusses
 percussion
@@ -108687,6 +108710,7 @@ radiobiologist
 radiobiologists
 radiobiology
 radiocarbons
+radiochemical
 radiochemically
 radiochemist
 radiochemistry
@@ -115002,6 +115026,7 @@ retrogressions
 retrogressive
 retrogressively
 retronym
+retronyms
 retropack
 retropacks
 retroperitoneal
@@ -117164,6 +117189,7 @@ ruggedness
 ruggednesses
 rugger
 ruggers
+rugging
 ruglike
 rugola
 rugosa
@@ -121189,6 +121215,7 @@ senor
 senoras
 senores
 senoritas
+senors
 sensa
 sensate
 sensated
@@ -121258,6 +121285,7 @@ sensor
 sensoria
 sensorial
 sensorially
+sensorimotor
 sensorineural
 sensorium
 sensoriums
@@ -128193,6 +128221,7 @@ spousals
 spouse
 spoused
 spouses
+spousing
 spouted
 spouter
 spouters
@@ -134301,6 +134330,7 @@ syndicates
 syndication
 syndications
 syndicator
+syndicators
 syndics
 syndrome
 syndromes
@@ -137502,6 +137532,7 @@ threadlike
 threads
 threadworm
 threadworms
+thready
 threap
 threaped
 threaper
@@ -145479,6 +145510,7 @@ unselected
 unselective
 unselfish
 unselfishly
+unselfishnesses
 unsellable
 unselling
 unsells
@@ -148868,6 +148900,7 @@ vizirates
 vizirial
 vizored
 vizoring
+vizsla
 vizslas
 vocab
 vocable
@@ -149212,6 +149245,7 @@ vuggs
 vuggy
 vugh
 vughs
+vulcanian
 vulcanicities
 vulcanicity
 vulcanisate
@@ -151871,6 +151905,7 @@ withdrawn
 withdrawnnesses
 withe
 wither
+withered
 witherer
 witherers
 withering
