@@ -4358,6 +4358,7 @@ androgen
 androgeneses
 androgenesis
 androgenetic
+androgenic
 androgens
 androgyne
 androgynes
@@ -10014,6 +10015,7 @@ barbecuer
 barbecuers
 barbecues
 barbecuing
+barbed
 barbel
 barbell
 barbells
@@ -14259,6 +14261,7 @@ boardsailings
 boardsailor
 boardsailors
 boarfishes
+boarhound
 boarhounds
 boarish
 boars
@@ -14852,6 +14855,7 @@ boomeranging
 boomerangs
 boomers
 boomiest
+booming
 boomkin
 boomlet
 boomlets
@@ -30472,6 +30476,7 @@ croquet
 croqueted
 croquets
 croquettes
+croquignole
 croquignoles
 croquis
 crore
@@ -33222,6 +33227,7 @@ declassing
 declaw
 declawed
 declawing
+declaws
 declension
 declensions
 declinable
@@ -37859,6 +37865,7 @@ dislocations
 dislodge
 dislodgement
 dislodgements
+dislodges
 dislodging
 dislodgments
 disloyally
@@ -39183,6 +39190,7 @@ donkeyworks
 donna
 donnas
 donne
+donned
 donnee
 donnees
 donnerd
@@ -46417,6 +46425,7 @@ exothermic
 exothermically
 exothermicities
 exothermicity
+exotic
 exotica
 exotically
 exoticism
@@ -49597,6 +49606,7 @@ firstborn
 firstborns
 firstfruits
 firsthand
+firstling
 firstlings
 firstly
 firstness
@@ -58719,6 +58729,7 @@ hagiographies
 hagiography
 hagiologic
 hagiological
+hagiology
 hagioscope
 hagioscopes
 hagioscopic
@@ -59477,6 +59488,7 @@ hareem
 hareems
 harelike
 harelips
+harem
 hares
 hariana
 harianas
@@ -59570,6 +59582,7 @@ harpsichord
 harpsichordist
 harpsichordists
 harpsichords
+harpy
 harpylike
 harquebus
 harquebuses
@@ -66332,6 +66345,7 @@ indistinctive
 indistinctly
 indite
 indited
+inditer
 inditers
 indites
 inditing
@@ -67114,6 +67128,7 @@ inhumers
 inhumes
 inia
 inimical
+inimitableness
 inimitably
 inions
 iniquities
@@ -74161,6 +74176,7 @@ leftist
 leftmost
 leftover
 leftovers
+lefts
 leftward
 leftwards
 leftwing
@@ -80543,6 +80559,7 @@ metallographer
 metallographers
 metallographic
 metallographies
+metallography
 metalloid
 metallophone
 metallophones
@@ -82059,6 +82076,7 @@ misapprehended
 misapprehending
 misapprehends
 misapprehension
+misappropriate
 misappropriated
 misappropriates
 misarticulate
@@ -86487,6 +86505,7 @@ necklace
 necklaced
 necklaces
 necklacing
+neckless
 necklike
 neckline
 necklines
@@ -92746,6 +92765,7 @@ outplodding
 outplods
 outplot
 outplots
+outplotted
 outpoint
 outpointed
 outpointing
@@ -93919,6 +93939,7 @@ overgrow
 overgrowing
 overgrown
 overgrows
+overgrowth
 overgrowths
 overhand
 overhanded
@@ -97128,6 +97149,7 @@ peace
 peaceable
 peaceablenesses
 peaced
+peaceful
 peacefuller
 peacefullest
 peacefully
@@ -97747,6 +97769,7 @@ penpoint
 penpoints
 pensee
 pensees
+pensil
 pensils
 pension
 pensionaries
@@ -101430,6 +101453,7 @@ plotzed
 plotzes
 plough
 ploughed
+plougher
 ploughers
 ploughing
 plover
@@ -101754,6 +101778,7 @@ poetizer
 poetizes
 poetizing
 poetless
+poetlike
 poetries
 poetry
 poets
@@ -102171,6 +102196,7 @@ polyhedrons
 polyhedroses
 polyhedrosis
 polyhistor
+polyhistoric
 polyhistors
 polylysine
 polymath
@@ -116788,6 +116814,7 @@ rooser
 roosers
 roosing
 roost
+roosted
 rooster
 roosters
 roosting
@@ -118423,6 +118450,7 @@ sandpaintings
 sandpaper
 sandpapered
 sandpapering
+sandpapery
 sandpeep
 sandpeeps
 sandpile
@@ -122556,6 +122584,7 @@ shegetz
 sheik
 sheikdom
 sheikdoms
+sheikh
 sheikhdom
 sheikhdoms
 sheikhs
@@ -131051,6 +131080,7 @@ studdings
 student
 studentships
 studfishes
+studhorse
 studhorses
 studied
 studiedly
@@ -132267,6 +132297,7 @@ suckfish
 suckfishes
 suckiest
 suckle
+suckled
 suckler
 suckles
 suckless
@@ -134577,6 +134608,7 @@ synesis
 synesises
 synesthesia
 synesthesias
+synesthetic
 synfuel
 synfuels
 syngamic
@@ -136684,6 +136716,7 @@ tercet
 terebene
 terebenes
 terebic
+terebinth
 terebinths
 teredines
 teredo
@@ -140371,6 +140404,7 @@ travelers
 traveling
 travelled
 traveller
+travellers
 travelling
 travelogs
 travelogue
@@ -151478,6 +151512,7 @@ whoremasters
 whoremongers
 whores
 whoresons
+whoring
 whorish
 whorishly
 whorls
