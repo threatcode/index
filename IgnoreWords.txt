@@ -169,6 +169,7 @@ abstaining
 abstains
 abstemiously
 abstemiousness
+abstention
 abstentions
 abstentious
 absterge
@@ -2834,6 +2835,7 @@ alienable
 alienage
 alienages
 alienate
+alienated
 alienates
 alienation
 alienations
@@ -6481,6 +6483,7 @@ arboured
 arbours
 arboviral
 arbovirus
+arboviruses
 arbs
 arbuscle
 arbuscles
@@ -7265,6 +7268,7 @@ ascribe
 ascribed
 ascribes
 ascription
+ascriptive
 ascus
 asdic
 asdics
@@ -12338,6 +12342,7 @@ bibles
 bibless
 biblical
 biblicism
+biblicisms
 biblicist
 biblicists
 biblike
@@ -14152,6 +14157,7 @@ bluishnesses
 blume
 blumes
 bluming
+blunder
 blunderbuss
 blunderbusses
 blundered
@@ -24337,6 +24343,7 @@ coatees
 coater
 coaters
 coati
+coatimundi
 coating
 coatings
 coatis
@@ -29389,6 +29396,7 @@ couthie
 couthiest
 couths
 couture
+coutures
 couturiere
 couturieres
 couturiers
@@ -30706,6 +30714,7 @@ cruses
 crusets
 crush
 crushed
+crusher
 crushers
 crushes
 crushing
@@ -31743,6 +31752,7 @@ cyclodextrins
 cyclodiene
 cyclodienes
 cyclogeneses
+cyclohexane
 cyclohexanes
 cyclohexanone
 cyclohexanones
@@ -38211,6 +38221,7 @@ dissevered
 dissevering
 disseverment
 disseverments
+dissevers
 dissidences
 dissident
 dissidents
@@ -44505,6 +44516,7 @@ equilibratory
 equilibria
 equilibrist
 equilibristic
+equilibrists
 equilibrium
 equilibriums
 equimolal
@@ -57005,6 +57017,7 @@ grates
 graticule
 graticules
 gratification
+gratifications
 gratified
 gratifier
 gratifiers
@@ -64926,6 +64939,7 @@ impatience
 impatiences
 impatiens
 impatient
+impatiently
 impavid
 impawn
 impawned
@@ -89124,6 +89138,7 @@ nosher
 noshers
 nosier
 nosiest
+nosily
 nosiness
 nosinesses
 nosing
@@ -91255,6 +91270,7 @@ orangery
 oranges
 orangewood
 orangewoods
+orangey
 orangiest
 orangish
 orangs
@@ -96099,6 +96115,7 @@ pard
 pardah
 pardahs
 pardi
+pardie
 pardine
 pardner
 pardners
@@ -104416,6 +104433,7 @@ prereform
 preregister
 preregistered
 preregistering
+preregistration
 prerehearsal
 prerelease
 prereleased
@@ -105475,6 +105493,7 @@ profaner
 profaners
 profanes
 profanities
+profanity
 professed
 professedly
 professes
@@ -106921,6 +106940,7 @@ puddlings
 puddly
 pudencies
 pudency
+pudenda
 pudendal
 pudendum
 pudgier
@@ -107272,6 +107292,7 @@ puppeteers
 puppetlike
 puppetries
 puppetry
+puppets
 puppies
 pupping
 puppy
@@ -114892,6 +114913,7 @@ retirements
 retirer
 retirers
 retires
+retiring
 retiringly
 retiringness
 retiringnesses
@@ -125875,6 +125897,7 @@ snowshed
 snowsheds
 snowshoe
 snowshoed
+snowshoeing
 snowshoer
 snowshoes
 snowslide
@@ -125923,6 +125946,7 @@ snuggles
 snuggling
 snugly
 snugness
+snugnesses
 snugs
 snye
 snyes
@@ -126006,6 +126030,7 @@ sociableness
 sociablenesses
 sociables
 sociably
+social
 socialise
 socialised
 socialises
@@ -127639,6 +127664,7 @@ spicery
 spices
 spicey
 spicier
+spiciest
 spicily
 spiciness
 spicinesses
@@ -135330,6 +135356,7 @@ tarn
 tarnally
 tarnation
 tarnations
+tarnish
 tarnishable
 tarnished
 tarnishes
@@ -138363,6 +138390,7 @@ tirls
 tiro
 tirrivee
 tirrivees
+tis
 tisane
 tisanes
 tissual
@@ -138703,6 +138731,7 @@ toluols
 tolus
 toluyl
 toluyls
+tolyl
 tolyls
 tom
 tomahawk
@@ -146021,6 +146050,7 @@ unvoicing
 unwalled
 unwanted
 unwarier
+unwariest
 unwarily
 unwariness
 unwarinesses
@@ -146671,6 +146701,7 @@ urgingly
 urial
 urials
 uric
+uricosuric
 uricotelic
 uricotelism
 uricotelisms
@@ -149073,6 +149104,7 @@ volcanoes
 volcanologic
 volcanological
 volcanologies
+volcanologist
 volcanologists
 volcanos
 voled
@@ -151732,6 +151764,7 @@ winners
 winning
 winningly
 winnings
+winnock
 winnocks
 winnow
 winnowed
@@ -152628,6 +152661,7 @@ wrests
 wretch
 wretched
 wretcheder
+wretchedly
 wretchedness
 wretchednesses
 wretches
@@ -152670,6 +152704,7 @@ wristwatch
 wristwatches
 wristy
 writ
+write
 writeable
 writer
 writerly
