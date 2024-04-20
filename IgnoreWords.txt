@@ -3790,6 +3790,7 @@ ammonoids
 ammunition
 ammunitions
 amnesia
+amnesiacs
 amnesias
 amnesic
 amnesics
@@ -11976,6 +11977,7 @@ beside
 besides
 besiege
 besieged
+besieger
 besiegers
 besieges
 besieging
@@ -12837,6 +12839,7 @@ biocycle
 biocycles
 biodegradable
 biodegradation
+biodegradations
 biodegrade
 biodegraded
 biodegrades
@@ -14261,6 +14264,7 @@ boatswains
 boatyard
 boatyards
 bob
+bobbed
 bobber
 bobberies
 bobbers
@@ -15090,6 +15094,7 @@ botonnee
 botryoid
 botryoidal
 botryose
+botrytis
 botrytises
 bots
 bott
@@ -15568,6 +15573,7 @@ brambled
 bramblier
 brambliest
 brambling
+bramblings
 brambly
 bran
 branch
@@ -16646,6 +16652,7 @@ bucklering
 bucklers
 buckles
 buckling
+bucko
 buckoes
 buckos
 buckra
@@ -20158,6 +20165,7 @@ catholics
 cathouse
 cathouses
 cation
+cationic
 cationically
 cations
 catjang
@@ -23711,6 +23719,7 @@ clerked
 clerking
 clerkish
 clerklier
+clerkliest
 clerkly
 clerks
 clerkship
@@ -24739,6 +24748,7 @@ coequal
 coequalities
 coequality
 coequally
+coequals
 coequate
 coequated
 coequates
@@ -36757,6 +36767,7 @@ dinucleotides
 diobol
 diobolon
 diobolons
+diocesan
 diocesans
 diocese
 dioceses
@@ -39554,6 +39565,7 @@ downstates
 downstream
 downstroke
 downstrokes
+downswing
 downswings
 downthrow
 downthrows
@@ -41581,6 +41593,7 @@ eggfruits
 egghead
 eggheadedness
 eggheadednesses
+eggheads
 egging
 eggless
 eggnog
@@ -54035,6 +54048,7 @@ gasohols
 gasolene
 gasolenes
 gasolier
+gasoliers
 gasoline
 gasolines
 gasolinic
@@ -59410,6 +59424,7 @@ harpsichordists
 harpsichords
 harpylike
 harquebus
+harquebuses
 harquebusier
 harquebusiers
 harridan
@@ -66013,6 +66028,7 @@ indestructible
 indestructibly
 indeterminably
 indeterminacies
+indeterminacy
 indeterminate
 indeterminately
 indetermination
@@ -69483,6 +69499,7 @@ isosmotically
 isospin
 isospins
 isospories
+isospory
 isostacies
 isostacy
 isostasy
@@ -74187,6 +74204,7 @@ lengthens
 lengthier
 lengthiest
 lengthily
+lengthiness
 lengthinesses
 lengths
 lengthways
@@ -75979,6 +75997,7 @@ logjammed
 logjamming
 logjams
 lognormal
+lognormalities
 lognormality
 logo
 logogram
@@ -82897,6 +82916,7 @@ mitral
 mitre
 mitred
 mitres
+mitrewort
 mitreworts
 mitring
 mitsvah
@@ -83926,6 +83946,7 @@ mopish
 mopishly
 mopoke
 mopokes
+mopped
 mopper
 moppet
 moppets
@@ -84282,6 +84303,7 @@ motorcading
 motorcar
 motorcars
 motorcycle
+motorcycled
 motorcycles
 motorcyclist
 motorcyclists
@@ -93515,6 +93537,7 @@ overemotional
 overemphases
 overemphasis
 overemphasize
+overemphasized
 overemphasizes
 overemphasizing
 overenamored
@@ -96373,6 +96396,7 @@ pasodobles
 pasqueflower
 pasqueflowers
 pasquil
+pasquils
 pasquinade
 pasquinaded
 pasquinades
@@ -101850,6 +101874,7 @@ polychromes
 polychromies
 polychromy
 polycistronic
+polyclinic
 polyclinics
 polyclonal
 polycot
@@ -103522,6 +103547,7 @@ precontact
 preconvention
 preconvictions
 precook
+precooker
 precookers
 precooks
 precool
@@ -112268,6 +112294,7 @@ reinterred
 reinterring
 reinters
 reinterview
+reinterviewed
 reinterviewing
 reinterviews
 reintroduced
@@ -123018,6 +123045,7 @@ shrived
 shrivel
 shriveled
 shriveling
+shrivelling
 shrivels
 shriven
 shriver
@@ -127670,6 +127698,7 @@ spiraling
 spiralities
 spirality
 spiralled
+spiralling
 spirally
 spirals
 spirant
@@ -135694,6 +135723,7 @@ teenyboppers
 teepee
 teepees
 tees
+teeter
 teeterboard
 teeterboards
 teetered
@@ -142013,6 +142043,7 @@ twitchily
 twitching
 twitchy
 twits
+twitted
 twitter
 twittered
 twitterer
@@ -148119,6 +148150,7 @@ vicinage
 vicinages
 vicinal
 vicing
+vicinities
 vicinity
 vicious
 viciously
@@ -151716,6 +151748,7 @@ wispier
 wispily
 wispiness
 wispinesses
+wisping
 wispish
 wisplike
 wispy
@@ -152804,6 +152837,7 @@ yardbird
 yarded
 yarder
 yarders
+yarding
 yardland
 yardlands
 yardman
@@ -153312,6 +153346,7 @@ zealous
 zealously
 zealousness
 zealousnesses
+zeals
 zeatins
 zebec
 zebeck
