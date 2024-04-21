@@ -652,6 +652,7 @@ acetoxyl
 acetoxyls
 acetum
 acetyl
+acetylate
 acetylated
 acetylates
 acetylating
@@ -1185,6 +1186,7 @@ adhere
 adhered
 adherence
 adherences
+adherend
 adherends
 adherent
 adherents
@@ -6028,6 +6030,7 @@ apostilles
 apostils
 apostle
 apostles
+apostleship
 apostleships
 apostolates
 apostolic
@@ -8703,6 +8706,7 @@ avellan
 avellane
 avenge
 avenged
+avengeful
 avenger
 avengers
 avenges
@@ -16032,6 +16036,7 @@ brents
 brethren
 breve
 breves
+brevet
 brevetcies
 brevetcy
 breveted
@@ -30672,6 +30677,7 @@ crosses
 crossfires
 crosshair
 crosshairs
+crosshatch
 crosshatched
 crosshatches
 crosshatching
@@ -32979,6 +32985,7 @@ deathbed
 deathblow
 deathblows
 deathcups
+deathful
 deathless
 deathlessly
 deathlessness
@@ -34024,6 +34031,7 @@ degas
 degases
 degassed
 degassers
+degassing
 degauss
 degaussers
 degausses
@@ -37279,6 +37287,7 @@ dirtiness
 dirtinesses
 dirts
 dirty
+dirtying
 disabilities
 disability
 disable
@@ -38151,6 +38160,7 @@ disparatenesses
 disparity
 dispart
 disparted
+disparting
 disparts
 dispassionate
 dispassionately
@@ -38483,6 +38493,7 @@ dissimulates
 dissimulating
 dissimulations
 dissimulators
+dissing
 dissipate
 dissipated
 dissipatedly
@@ -46182,6 +46193,7 @@ excess
 excessed
 excesses
 excessing
+excessive
 excessively
 excessiveness
 excessivenesses
@@ -48377,6 +48389,7 @@ fawners
 fawnier
 fawniest
 fawning
+fawningly
 fawnlike
 fawns
 fax
@@ -48460,6 +48473,7 @@ featherweight
 featherweights
 featlier
 featliest
+featly
 feats
 featured
 featureless
@@ -52447,6 +52461,7 @@ franking
 franklin
 franklinite
 franklinites
+franklins
 frankly
 frankness
 franknesses
@@ -63003,6 +63018,7 @@ hotfooted
 hotfooting
 hotfoots
 hothead
+hotheaded
 hotheadedly
 hotheadednesses
 hotheads
@@ -64487,6 +64503,7 @@ ickers
 ickier
 ickiest
 ickily
+ickiness
 ickinesses
 icky
 icon
@@ -64635,6 +64652,7 @@ idiotically
 idiotisms
 idiots
 idiotype
+idiotypes
 idiotypic
 idle
 idled
@@ -74550,6 +74568,7 @@ legend
 legendaries
 legendarily
 legendary
+legendize
 legendized
 legendizes
 legendizing
@@ -76012,6 +76031,7 @@ lithification
 lithifications
 lithified
 lithifies
+lithify
 lithifying
 lithiums
 litho
@@ -79108,6 +79128,7 @@ marquises
 marquisette
 marquisettes
 marram
+marrano
 marranos
 marred
 marrer
@@ -81195,6 +81216,7 @@ metronomic
 metronomical
 metronomically
 metroplex
+metroplexes
 metropolis
 metropolises
 metropolitan
@@ -82118,6 +82140,7 @@ mineralise
 mineralised
 mineralises
 mineralising
+mineralizable
 mineralization
 mineralizations
 mineralize
@@ -88762,6 +88785,7 @@ nonferrous
 nonfeudal
 nonfiction
 nonfigurative
+nonfilamentous
 nonfilial
 nonfilterable
 nonfinal
@@ -90308,6 +90332,7 @@ obfuscations
 obfuscatory
 obi
 obia
+obias
 obiism
 obis
 obit
@@ -98500,6 +98525,7 @@ perditions
 perdu
 perdues
 perdurabilities
+perdurability
 perdurable
 perdurably
 perdured
@@ -107515,6 +107541,7 @@ publications
 publicise
 publicised
 publicises
+publicising
 publicist
 publicists
 publicities
@@ -112096,6 +112123,7 @@ reengagements
 reengages
 reengaging
 reengineer
+reengineered
 reengineering
 reengineers
 reengrave
@@ -126669,6 +126697,7 @@ snubbiness
 snubbinesses
 snubbing
 snubby
+snubness
 snuck
 snuff
 snuffbox
@@ -127201,6 +127230,7 @@ solums
 solunar
 solus
 solutes
+solution
 solvabilities
 solvability
 solvable
@@ -129492,6 +129522,7 @@ squirreled
 squirreling
 squirrelled
 squirrelling
+squirrelly
 squirrels
 squirrely
 squirt
@@ -129943,6 +129974,7 @@ starwort
 stases
 stash
 stashed
+stashes
 stashing
 stasimon
 stasis
@@ -131541,6 +131573,7 @@ strolls
 stroma
 stromal
 stromata
+stromatolites
 stromatolitic
 strong
 strongbox
@@ -134103,6 +134136,7 @@ surceases
 surcharge
 surcharges
 surcharging
+surcingle
 surcingling
 surcoat
 surcoats
@@ -149841,6 +149875,7 @@ vixens
 vizard
 vizarded
 vizards
+vizcacha
 vizcachas
 vizierate
 vizierial
