@@ -402,6 +402,7 @@ accidence
 accidences
 accident
 accidental
+accidentally
 accidentalness
 accidentals
 accidently
@@ -4211,6 +4212,7 @@ anapaests
 anapest
 anapestics
 anapests
+anaphase
 anaphases
 anaphasic
 anaphora
@@ -10185,6 +10187,7 @@ barkier
 barkiest
 barking
 barkless
+barks
 barky
 barleducs
 barless
@@ -15623,6 +15626,7 @@ braininess
 braininesses
 braining
 brainless
+brainlessly
 brainlessness
 brainlessnesses
 brainpan
@@ -17759,6 +17763,7 @@ cabalisms
 cabalist
 cabalistic
 cabalists
+caballed
 caballero
 caballeros
 caballing
@@ -17904,6 +17909,7 @@ caconyms
 caconymy
 cacophonies
 cacophonous
+cacophonously
 cacophony
 cacti
 cactoid
@@ -26934,6 +26940,7 @@ confiture
 confitures
 conflagrant
 conflagration
+conflate
 conflated
 conflates
 conflating
@@ -28619,6 +28626,7 @@ corollaries
 corollary
 corollas
 corollate
+coromandel
 corona
 coronach
 coronachs
@@ -31359,6 +31367,7 @@ curabilities
 curability
 curable
 curableness
+curablenesses
 curably
 curacao
 curacaos
@@ -38625,6 +38634,7 @@ disubstituted
 disulfates
 disulfid
 disulfide
+disulfides
 disulfids
 disulfiram
 disulfirams
@@ -49003,6 +49013,7 @@ feudalized
 feudalizing
 feudally
 feudaries
+feudary
 feudatories
 feudatory
 feuded
@@ -55344,6 +55355,7 @@ giddier
 giddies
 giddiest
 giddily
+giddiness
 giddinesses
 giddy
 giddyap
@@ -57140,6 +57152,7 @@ granolas
 granolith
 granolithic
 granophyres
+granophyric
 grans
 grant
 grantable
@@ -64110,6 +64123,7 @@ hypnogogic
 hypnoidal
 hypnologies
 hypnology
+hypnopompic
 hypnoses
 hypnosis
 hypnotherapist
@@ -71711,6 +71725,7 @@ keglings
 kegs
 keir
 keiretsu
+keiretsus
 keirs
 keister
 keitloa
@@ -74125,6 +74140,7 @@ lazaret
 lazarettes
 lazaretto
 lazarettos
+lazars
 laze
 lazes
 lazied
@@ -77690,6 +77706,7 @@ maculed
 macules
 maculing
 macumba
+macumbas
 mad
 madam
 madame
@@ -78738,6 +78755,7 @@ maquillages
 mar
 mara
 marabou
+marabous
 marabout
 marabouts
 maraca
@@ -79720,6 +79738,7 @@ meat
 meatal
 meatball
 meatballs
+meated
 meatheads
 meatier
 meatiest
@@ -79744,6 +79763,7 @@ mechanically
 mechanicals
 mechanician
 mechanicians
+mechanics
 mechanism
 mechanist
 mechanistic
@@ -81607,6 +81627,7 @@ miff
 miffed
 miffier
 miffiest
+miffiness
 miffinesses
 miffing
 miffs
@@ -82192,6 +82213,7 @@ mirabelle
 miracidia
 miracidial
 miracidium
+miracle
 miracles
 miraculous
 miradors
@@ -84721,6 +84743,7 @@ motivator
 motiveless
 motivelessly
 motivic
+motiving
 motivities
 motivity
 motley
@@ -86797,6 +86820,7 @@ necrosis
 necrotic
 necrotized
 necrotizes
+necrotizing
 necrotomies
 necrotomy
 nectar
@@ -95504,6 +95528,7 @@ pagination
 paginations
 paging
 pagings
+pagoda
 pagodas
 pagods
 pagurian
@@ -106521,6 +106546,7 @@ prorogued
 prorogues
 proroguing
 pros
+prosaic
 prosaical
 prosaically
 prosaism
@@ -109394,6 +109420,7 @@ raiders
 raiding
 rail
 railbird
+railbirds
 railbus
 railbusses
 railed
@@ -111406,6 +111433,7 @@ redargued
 redargues
 redarguing
 redates
+redating
 redbait
 redbaited
 redbaiter
@@ -116034,6 +116062,7 @@ rhabdomancer
 rhabdomancers
 rhabdomancies
 rhabdomancy
+rhabdomere
 rhabdomeres
 rhabdomes
 rhabdoms
@@ -122335,6 +122364,7 @@ setose
 setous
 setout
 sets
+setscrew
 setscrews
 sett
 settee
@@ -122970,6 +123000,7 @@ shelduck
 shelducks
 shelf
 shelfful
+shelflike
 shell
 shellac
 shellack
@@ -124025,6 +124056,7 @@ sidling
 sidlingly
 sieged
 sieges
+sieging
 siemens
 sienites
 sienna
@@ -139000,6 +139032,7 @@ tissues
 tissuey
 tissuing
 tissular
+titan
 titanate
 titanates
 titaness
@@ -148192,6 +148225,7 @@ vegetables
 vegetably
 vegetal
 vegetant
+vegetarian
 vegetarianism
 vegetarians
 vegetate
@@ -151487,6 +151521,7 @@ wharfinger
 wharfingers
 wharfmasters
 wharfs
+wharve
 wharves
 what
 whatchamacallit
