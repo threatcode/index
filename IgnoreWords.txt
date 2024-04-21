@@ -10427,6 +10427,7 @@ bases
 basest
 bash
 bashaw
+bashaws
 bashed
 bashes
 bashful
@@ -11241,6 +11242,7 @@ beechen
 beeches
 beechier
 beechiest
+beechmast
 beechmasts
 beechnut
 beechnuts
@@ -14339,6 +14341,7 @@ boardsailing
 boardsailings
 boardsailor
 boardsailors
+boardwalks
 boarfishes
 boarhound
 boarhounds
@@ -21761,6 +21764,7 @@ checkmates
 checkmating
 checkoff
 checkoffs
+checkout
 checkouts
 checkpoint
 checkpoints
@@ -23721,6 +23725,7 @@ claughting
 claughts
 clausal
 clause
+claustra
 claustral
 claustrophobe
 claustrophobia
@@ -24427,6 +24432,7 @@ coalescent
 coalfield
 coalfields
 coalfishes
+coalhole
 coalholes
 coalier
 coaliest
@@ -31494,6 +31500,7 @@ curdling
 curds
 curdy
 cure
+cured
 cureless
 curer
 curers
@@ -33191,6 +33198,7 @@ decapod
 decapodan
 decapodans
 decapodous
+decapods
 decarbonate
 decarbonates
 decarbonating
@@ -40153,6 +40161,7 @@ drawls
 drawly
 drawn
 drawnwork
+drawnworks
 drawplate
 drawplates
 draws
@@ -41168,6 +41177,7 @@ dynode
 dynodes
 dynorphin
 dynorphins
+dysarthria
 dysarthrias
 dyscrasia
 dyscrasias
@@ -41485,6 +41495,7 @@ ecdysiast
 ecdysiasts
 ecdysis
 ecdyson
+ecdysone
 ecdysones
 ecesic
 ecesis
@@ -43111,6 +43122,7 @@ enantiomers
 enantiomorph
 enantiomorphic
 enantiomorphism
+enantiomorphous
 enantiomorphs
 enate
 enates
@@ -47348,6 +47360,7 @@ extubate
 extubated
 extubates
 extubating
+exuberances
 exuberantly
 exuberate
 exuberated
@@ -56677,6 +56690,7 @@ gombeen
 gombeens
 gombo
 gombos
+gombroon
 gombroons
 gomeral
 gomerel
@@ -58685,6 +58699,7 @@ guttles
 guttling
 guttural
 gutturalism
+gutturalisms
 gutturals
 gutty
 guv
@@ -72493,6 +72508,7 @@ kiss
 kissable
 kisser
 kissers
+kisses
 kissy
 kist
 kistful
@@ -72828,6 +72844,7 @@ kolhoz
 kolhozes
 kolhozy
 kolinski
+kolinskies
 kolinsky
 kolkhos
 kolkhoses
@@ -73453,6 +73470,7 @@ lambs
 lambskin
 lambskins
 lamby
+lamebrain
 lamebrained
 lamebrains
 lamed
@@ -77313,6 +77331,7 @@ lums
 luna
 lunacies
 lunacy
+lunar
 lunarian
 lunarians
 lunars
@@ -91366,6 +91385,7 @@ omnivorously
 omophagia
 omophagias
 omophagic
+omophagies
 omophagy
 omphali
 omphalos
@@ -92034,6 +92054,7 @@ organizations
 organize
 organized
 organizer
+organizers
 organizes
 organizing
 organochlorine
@@ -93712,6 +93733,7 @@ outtrumping
 outtrumps
 outturn
 outturns
+outvalue
 outvalues
 outvaunt
 outvaunted
@@ -93936,6 +93958,7 @@ overbetted
 overbetting
 overbid
 overbidden
+overbidding
 overbids
 overbig
 overbill
@@ -101622,6 +101645,7 @@ platinas
 plating
 platings
 platinic
+platinize
 platinized
 platinizes
 platinizing
@@ -104633,6 +104657,7 @@ prefire
 prefired
 prefires
 prefix
+prefixal
 prefixes
 prefixing
 prefixion
@@ -112295,6 +112320,7 @@ refaces
 refacing
 refall
 refallen
+refalling
 refalls
 refashion
 refashioned
@@ -116430,6 +116456,7 @@ rhizotomies
 rhizotomy
 rho
 rhodamin
+rhodamine
 rhodamines
 rhodamins
 rhodic
@@ -122961,6 +122988,7 @@ shammos
 shammosim
 shammy
 shamosim
+shamoyed
 shamoying
 shampoo
 shampooed
@@ -124538,6 +124566,7 @@ sillimanite
 sillimanites
 silliness
 sills
+silly
 silo
 siloed
 siloing
@@ -126481,6 +126510,7 @@ sneller
 snellest
 snells
 snib
+snibbed
 snibbing
 snibs
 snick
@@ -132667,6 +132697,7 @@ subsidiary
 subsidies
 subsiding
 subsidise
+subsidised
 subsidises
 subsidising
 subsidization
@@ -133781,6 +133812,7 @@ superjocks
 superjumbo
 superjumbos
 superlain
+superlative
 superlatively
 superlativeness
 superlatives
@@ -136760,6 +136792,7 @@ teemers
 teeming
 teemingly
 teemingness
+teems
 teen
 teenaged
 teenagers
@@ -139602,6 +139635,7 @@ tole
 toledo
 toledos
 tolerabilities
+tolerability
 tolerable
 tolerably
 tolerance
@@ -140527,6 +140561,7 @@ trademarking
 trademarks
 tradeoff
 tradeoffs
+trader
 traders
 trades
 tradescantia
