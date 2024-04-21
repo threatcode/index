@@ -744,6 +744,7 @@ acidosis
 acidotic
 acids
 acidulate
+acidulated
 acidulates
 acidulating
 acidulation
@@ -9290,6 +9291,7 @@ backlist
 backlisted
 backlisting
 backlists
+backlit
 backload
 backloaded
 backloads
@@ -9633,6 +9635,7 @@ balboa
 balbriggan
 balconied
 balconies
+balcony
 bald
 baldachin
 baldachinos
@@ -11533,6 +11536,7 @@ beknight
 beknighted
 beknighting
 beknights
+beknot
 beknots
 beknotted
 beknotting
@@ -12774,6 +12778,7 @@ billets
 billfishes
 billfold
 billfolds
+billhead
 billheads
 billhook
 billhooks
@@ -18056,6 +18061,7 @@ caffs
 caftaned
 caftans
 cage
+caged
 cageful
 cagelike
 cageling
@@ -23267,6 +23273,7 @@ circumcisers
 circumcises
 circumcising
 circumcision
+circumcisions
 circumference
 circumferential
 circumflex
@@ -24081,6 +24088,7 @@ clocking
 clocklike
 clocks
 clockwork
+clockworks
 clod
 cloddier
 cloddiest
@@ -28147,6 +28155,7 @@ cooker
 cookeries
 cookery
 cookhouse
+cookhouses
 cookie
 cookies
 cooking
@@ -30548,6 +30557,7 @@ criticisms
 criticize
 criticized
 criticizer
+criticizers
 criticizes
 criticizing
 critics
@@ -40555,6 +40565,7 @@ drumly
 drummed
 drummers
 drumming
+drumroll
 drumrolls
 drums
 drumstick
@@ -42570,6 +42581,7 @@ emasculator
 emasculators
 embalm
 embalmer
+embalmers
 embalming
 embalmment
 embalmments
@@ -46198,6 +46210,7 @@ exceeds
 excelled
 excellencies
 excellent
+excellently
 excelling
 excels
 excelsior
@@ -49960,6 +49973,7 @@ fissionable
 fissionables
 fissional
 fissioning
+fissions
 fissiparousness
 fissiped
 fissipeds
@@ -50376,6 +50390,7 @@ flavanone
 flavanones
 flavin
 flavine
+flavines
 flavins
 flavone
 flavones
@@ -51998,6 +52013,7 @@ forkful
 forkfuls
 forkier
 forkiness
+forkinesses
 forking
 forkless
 forklift
@@ -62357,6 +62373,7 @@ homespun
 homespuns
 homestand
 homestands
+homestay
 homestays
 homestead
 homesteaded
@@ -62922,6 +62939,7 @@ horsepoxes
 horserace
 horseraces
 horseradish
+horseradishes
 horses
 horseshit
 horseshits
@@ -66019,6 +66037,7 @@ incandescent
 incandescently
 incandesces
 incandescing
+incant
 incantational
 incantations
 incantatory
@@ -70065,6 +70084,7 @@ isospories
 isospory
 isostacies
 isostacy
+isostasies
 isostasy
 isostatic
 isostatically
@@ -84779,6 +84799,7 @@ mortar
 mortarboard
 mortarboards
 mortared
+mortaring
 mortarman
 mortars
 mortary
@@ -101206,6 +101227,7 @@ piteousnesses
 pitfalls
 pith
 pithead
+pitheads
 pithecanthropi
 pithecoid
 pithed
@@ -101397,6 +101419,7 @@ plainness
 plainnesses
 plains
 plainsman
+plainsong
 plainsongs
 plainspoken
 plaintext
@@ -116914,6 +116937,7 @@ ringworms
 rink
 rinks
 rins
+rinsable
 rinse
 rinsed
 rinser
@@ -117988,6 +118012,7 @@ ruddocks
 rudds
 ruddy
 rude
+rudenesses
 ruder
 ruderal
 ruderals
@@ -118150,6 +118175,7 @@ rums
 run
 runabout
 runabouts
+runagate
 runagates
 runaround
 runarounds
@@ -120381,6 +120407,7 @@ sciaenoid
 sciaenoids
 sciamachy
 sciatic
+sciatica
 sciaticas
 sciatics
 sciences
@@ -129072,6 +129099,7 @@ sporophores
 sporophyl
 sporophyll
 sporophylls
+sporophyte
 sporophytes
 sporophytic
 sporopollenin
@@ -129345,6 +129373,7 @@ spunk
 spunked
 spunkie
 spunkier
+spunkies
 spunkiest
 spunkily
 spunkinesses
@@ -140009,6 +140038,7 @@ topsoil
 topsoiled
 topsoiling
 topsoils
+topspin
 topspins
 topstitch
 topstitched
@@ -140676,6 +140706,7 @@ trajecting
 trajection
 trajections
 trajectories
+trajectory
 trajects
 tram
 tramcar
@@ -142049,6 +142080,7 @@ troglodytes
 troglodytic
 trogon
 trogons
+trogs
 troika
 troikas
 troilism
@@ -143970,6 +144002,7 @@ unbent
 unbeseeming
 unbiased
 unbiasedness
+unbiasednesses
 unbiassed
 unbiblical
 unbid
@@ -144169,6 +144202,7 @@ unchaining
 unchains
 unchair
 unchaired
+unchairs
 unchallengeable
 unchallenged
 unchallenging
@@ -144239,6 +144273,7 @@ uncinaria
 uncinarias
 uncinariasis
 uncinate
+uncinematic
 uncinus
 uncirculated
 uncircumcised
