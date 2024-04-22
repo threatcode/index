@@ -1006,6 +1006,7 @@ actualization
 actualizations
 actualize
 actualized
+actualizes
 actualizing
 actually
 actuarial
@@ -30305,6 +30306,7 @@ creativity
 creator
 creators
 creatural
+creature
 creaturehood
 creaturehoods
 creatureliness
@@ -35727,6 +35729,7 @@ despises
 despising
 despite
 despited
+despiteful
 despitefully
 despitefulness
 despiteous
@@ -43239,6 +43242,7 @@ emulsible
 emulsifiable
 emulsification
 emulsifications
+emulsified
 emulsifier
 emulsifiers
 emulsifies
@@ -46107,6 +46111,7 @@ evanesces
 evangel
 evangelical
 evangelically
+evangelisms
 evangelist
 evangelistic
 evangelists
@@ -48320,6 +48325,7 @@ farmable
 farmer
 farmerette
 farmerettes
+farmers
 farmhands
 farmhouse
 farmhouses
@@ -51313,6 +51319,7 @@ flutings
 flutists
 flutter
 flutterboard
+flutterboards
 fluttered
 flutterer
 flutterers
@@ -51869,6 +51876,7 @@ fordone
 fords
 fore
 forearm
+forearmed
 forearming
 forearms
 forebay
@@ -55104,6 +55112,7 @@ gemmily
 gemminess
 gemminesses
 gemming
+gemmologies
 gemmologist
 gemmologists
 gemmule
@@ -55420,6 +55429,7 @@ geoponics
 geopressured
 geoprobe
 geoprobes
+georgette
 georgettes
 georgical
 georgics
@@ -62061,6 +62071,7 @@ hippos
 hippy
 hips
 hipshot
+hipster
 hipsterisms
 hipsters
 hiragana
@@ -63717,6 +63728,7 @@ humoristic
 humorists
 humorless
 humorlessly
+humorlessnesses
 humorous
 humorously
 humorousness
@@ -63767,6 +63779,7 @@ hung
 hunger
 hungered
 hungering
+hungers
 hungover
 hungrier
 hungriest
@@ -68789,6 +68802,7 @@ interim
 interims
 interindividual
 interindustry
+interinfluence
 interinfluences
 interinvolve
 interinvolves
@@ -71587,6 +71601,7 @@ juiced
 juicehead
 juiceheads
 juiceless
+juicer
 juicers
 juices
 juicier
@@ -83714,6 +83729,7 @@ misstops
 misstricken
 misstrike
 misstrikes
+misstriking
 misstruck
 misstyle
 misstyled
@@ -84442,6 +84458,7 @@ monistic
 monists
 monition
 monitions
+monitive
 monitor
 monitored
 monitorial
@@ -88407,6 +88424,7 @@ nitrid
 nitride
 nitrided
 nitrides
+nitriding
 nitrids
 nitrification
 nitrifications
@@ -89529,6 +89547,7 @@ nonorgasmic
 nonorthodox
 nonoverlapping
 nonowner
+nonowners
 nonoxidizing
 nonpagan
 nonpagans
@@ -94473,6 +94492,7 @@ overcompress
 overcompressed
 overcompresses
 overcompressing
+overconcern
 overconcerned
 overconcerns
 overconfidence
@@ -97941,6 +97961,7 @@ pattypans
 patulent
 patulous
 patzer
+paucities
 paucity
 paughty
 pauldron
@@ -99082,6 +99103,7 @@ performative
 performatives
 performatory
 performed
+performer
 performers
 performing
 perfume
@@ -104097,6 +104119,7 @@ potboil
 potboiled
 potboiler
 potboilers
+potboiling
 potboils
 potboy
 potboys
@@ -110625,6 +110648,7 @@ rather
 rathole
 ratholes
 rathskeller
+rathskellers
 raticide
 raticides
 ratification
@@ -115207,6 +115231,7 @@ reroller
 rerollers
 rerolls
 reroof
+reroofed
 reroofing
 reroofs
 rerose
@@ -115368,6 +115393,7 @@ resentfulnesses
 resenting
 resents
 reserpines
+reservation
 reservationist
 reservationists
 reservations
@@ -118306,6 +118332,7 @@ routeways
 routh
 rouths
 routine
+routinely
 routing
 routinisms
 routinist
@@ -119962,6 +119989,7 @@ sashayed
 sashaying
 sashays
 sashed
+sashimi
 sashimis
 sashing
 sashless
@@ -124047,6 +124075,7 @@ ship
 shipboard
 shipboards
 shipborne
+shipbuilder
 shipbuilders
 shipbuilding
 shipbuildings
@@ -129121,6 +129150,7 @@ spiderworts
 spidery
 spied
 spiegel
+spiegeleisen
 spiegeleisens
 spiegels
 spiel
@@ -140001,6 +140031,7 @@ titmouse
 titrable
 titrant
 titrants
+titratable
 titrate
 titrated
 titrates
@@ -144283,6 +144314,7 @@ umiak
 umiaks
 umiaq
 umiaqs
+umlaut
 umlauted
 umlauting
 umlauts
@@ -148365,6 +148397,7 @@ urine
 urinemia
 urinemias
 urinemic
+urines
 urinogenital
 urinometer
 urinometers
@@ -149773,6 +149806,7 @@ vessel
 vesseled
 vessels
 vest
+vesta
 vestal
 vestally
 vestas
@@ -152630,6 +152664,7 @@ wheres
 wheresoever
 wherethrough
 whereunto
+whereupon
 wherever
 wherewith
 wherewithal
