@@ -17,3 +17,32 @@ readme_en.txt - Fujitsu Technical Support pages from Fujitsu EMEA,http://support
 "Novell eDirectory 8.7.3 SP9 for Solaris, Linux, AIX, and HP-UX",https://www.novell.com/documentation/edir873/sp9_readme/unix/readme.txt
 SNMP FAQ (part 2),https://snmp.com/FAQs/snmp-faq-part2.txt
 https://www.okqubit.net/machines/hinv/dec_as-ds20e.txt,https://www.okqubit.net/machines/hinv/dec_as-ds20e.txt
+subagent-example/NET-SNMP-TUTORIAL-MIB.txt at master - GitHub,https://github.com/net-snmp/subagent-example/blob/master/NET-SNMP-TUTORIAL-MIB.txt
+Definitions of Managed Objects for Extensible SNMP Agents - IETF,https://www.ietf.org/proceedings/42/I-D/draft-ietf-agentx-mib-02.txt
+AGENTX-MIB.txt - Net-SNMP,http://www.net-snmp.org/docs/mibs/AGENTX-MIB.txt
+Agent Extensibility (AgentX) Protocol - » RFC Editor,https://www.rfc-editor.org/rfc/rfc2741.txt
+RFC 1592,https://www.rfc-editor.org/rfc/rfc1592.txt
+https://www.ietf.org/ietf/agentx/agentx-minutes-96...,https://www.ietf.org/ietf/agentx/agentx-minutes-96dec.txt
+https://man.archlinux.org/man/netsnmp_agent_api.3....,https://man.archlinux.org/man/netsnmp_agent_api.3.en.txt
+How to congifure and install ARECA Net-SNMP subagent.txt,ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/FreeBSD/SNMP/FreeBSD5.x/V1.0/arcsnmp-i386/How%2520to%2520congifure%2520and%2520install%2520ARECA%2520Net-SNMP%2520subagent.txt
+http://ftp.starline.de/RaidCards/AP_Drivers/Linux/...,http://ftp.starline.de/RaidCards/AP_Drivers/Linux/SNMP/V4.2/HowToRunSubAgent.txt
+TXT - AGENTPP.com,https://agentpp.com/download/changes_agentx%2B%2B.txt
+wallix_5F00_syslog.subagent.sdkrfilereader.properties.txt,https://community.microfocus.com/cfs-file/__key/telligent-evolution-components-attachments/00-224-01-00-01-82-27-07/wallix_5F00_syslog.subagent.sdkrfilereader.properties.txt
+pacemaker-mgmt/snmp_subagent/LINUX-HA-MIB.txt at master,https://github.com/ClusterLabs/pacemaker-mgmt/blob/master/snmp_subagent/LINUX-HA-MIB.txt
+ReadMe.txt,https://www.ndt-inc.com/ReadMe/AgentServiceXP/ReadMe.txt
+sFlow Version 5,https://sflow.org/sflow_version_5.txt
+TXT - AGENTPP.com,https://agentpp.com/download/readme_agent%2B%2Bwin32.txt
+readme_en.txt - Fujitsu support,http://support.ts.fujitsu.com/prim_supportcd/SVSSoftware/Software/ServerView/Linux/Agents/x86_64/readme_en.txt
+CHANGES-2.x.txt - SNMP4J,https://www.snmp4j.org/agentX/CHANGES-2.x.txt
+https://community.hpe.com/hpeb/attachments/hpeb/it...,https://community.hpe.com/hpeb/attachments/hpeb/itrc-275/6463/1/358673.txt
+https://www.ndt-inc.com/ReadMe/EmxAB9/ReadMe.txt,https://www.ndt-inc.com/ReadMe/EmxAB9/ReadMe.txt
+ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/Linux/...,ftp://ftp.areca.com.tw/RaidCards/AP_Drivers/Linux/SNMP/V2.0/arcsnmp-v2.0/readme.txt
+RFC 2257 - hjp,https://www.hjp.at/doc/rfc/rfc2257.txt
+https://community.cisco.com/kxiwq67737/attachments...,https://community.cisco.com/kxiwq67737/attachments/kxiwq67737/5926-discussions-contact-center/113257/1/SNMP%2520logs.txt
+https://public.dhe.ibm.com/ps/products/callpath/fi...,https://public.dhe.ibm.com/ps/products/callpath/fixes/v630/cpsaix.txt
+https://community.hpe.com/hpeb/attachments/hpeb/it...,https://community.hpe.com/hpeb/attachments/hpeb/itrc-156/326819/1/306427.txt
+https://community.microfocus.com/cfs-file/__key/te...,https://community.microfocus.com/cfs-file/__key/telligent-evolution-components-attachments/00-220-00-00-00-31-53-81/155930.txt
+mibs/AGENTPP-AGENTX-MIB.txt ... - GitLab,https://gitlab.integrasources.com/o.vorobiov/agentpp/-/blob/fd30808f7a2fbe929d7c589aa586e85913af90d3/mibs/AGENTPP-AGENTX-MIB.txt
+"Novell eDirectory 8.7.3 SP10 for Solaris, Linux, and AIX",https://www.novell.com/documentation/edir873/sp10_readme/unix/readme.txt
+sFlow Memcache Structures,https://sflow.org/sflow_memcache.txt
+http://www.adofai.gg/HOBBES/util/monitor/systemvie...,http://www.adofai.gg/HOBBES/util/monitor/systemview.txt
