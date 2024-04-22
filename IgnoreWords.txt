@@ -3014,6 +3014,7 @@ allegation
 allegations
 allege
 alleged
+allegedly
 alleges
 allegiance
 allegiances
@@ -3410,6 +3411,7 @@ altimeter
 altimeters
 altimetries
 altimetry
+altiplano
 altiplanos
 altitude
 altitudes
@@ -3428,6 +3430,7 @@ altruisms
 altruist
 altruistic
 altruistically
+alts
 aludel
 alula
 alulae
@@ -5407,6 +5410,7 @@ antineutron
 antineutrons
 anting
 antinode
+antinodes
 antinoise
 antinome
 antinomes
@@ -6155,6 +6159,7 @@ appendicitises
 appendicular
 appendix
 appendixes
+appends
 apperceive
 apperceived
 apperceives
@@ -9420,6 +9425,7 @@ backwood
 backwoods
 backwoodsman
 backwoodsmen
+backwoodsy
 backwrap
 backwraps
 backyard
@@ -10824,6 +10830,7 @@ beadhouses
 beadier
 beadiest
 beadily
+beadiness
 beadinesses
 beading
 beadings
@@ -16935,6 +16942,7 @@ buffier
 buffiest
 buffing
 buffleheads
+buffo
 buffoon
 buffooneries
 buffoonery
@@ -20416,6 +20424,7 @@ cats
 catspaws
 catsuit
 catsuits
+cattail
 cattalo
 cattaloes
 cattalos
@@ -22383,6 +22392,7 @@ chirker
 chirkest
 chirking
 chirks
+chirm
 chirmed
 chirming
 chirms
@@ -26771,6 +26781,7 @@ concrescence
 concrescences
 concrescent
 concreted
+concretely
 concreteness
 concretenesses
 concretes
@@ -31236,6 +31247,7 @@ cuboids
 cubs
 cuckold
 cuckolded
+cuckolding
 cuckoldries
 cuckoldry
 cuckolds
@@ -34341,6 +34353,7 @@ delations
 delator
 delators
 delay
+delayable
 delayed
 delayers
 delaying
@@ -35025,6 +35038,7 @@ deodorizers
 deodorizing
 deontic
 deontological
+deontologies
 deontologist
 deontologists
 deontology
@@ -42865,6 +42879,7 @@ embranglements
 embrangles
 embrangling
 embrasure
+embrasures
 embrittle
 embrittled
 embrittlement
@@ -45057,6 +45072,7 @@ erases
 erasing
 erasion
 erasions
+erasures
 erbium
 erbiums
 ere
@@ -51787,6 +51803,7 @@ forces
 forcible
 forcibleness
 forciblenesses
+forcibly
 forcing
 forcipes
 forded
@@ -66361,6 +66378,7 @@ inclosers
 incloses
 inclosure
 inclosures
+includable
 included
 includes
 includible
@@ -76929,6 +76947,7 @@ longitudes
 longitudinal
 longitudinally
 longjump
+longjumped
 longjumping
 longjumps
 longleaf
@@ -87700,6 +87719,7 @@ neuroanatomical
 neuroanatomist
 neuroanatomists
 neuroanatomy
+neurobiological
 neurobiologies
 neurobiologist
 neurobiology
@@ -94133,6 +94153,7 @@ overadjustments
 overadvertise
 overadvertised
 overadvertises
+overadvertising
 overage
 overages
 overaggressive
@@ -100522,6 +100543,7 @@ physiotherapies
 physiotherapist
 physiotherapy
 physique
+physiqued
 physiques
 physis
 physostigmine
@@ -104347,6 +104369,7 @@ preachments
 preachy
 preact
 preacted
+preacting
 preacts
 preadapt
 preadaptation
@@ -105556,6 +105579,7 @@ presenting
 presentism
 presently
 presentment
+presentments
 presentness
 presentnesses
 presents
@@ -105849,6 +105873,7 @@ prevailer
 prevailing
 prevails
 prevalence
+prevalences
 prevalent
 prevalently
 prevalents
@@ -107181,6 +107206,7 @@ prosperous
 prosperously
 prosperousness
 prospers
+pross
 prosses
 prossie
 prossies
@@ -113461,6 +113487,7 @@ reinoculated
 reinoculates
 reinoculating
 reinoculations
+reins
 reinsert
 reinserted
 reinserting
@@ -114866,6 +114893,7 @@ reptiles
 reptilia
 reptilian
 reptilians
+reptilium
 republic
 republican
 republicanism
@@ -116639,6 +116667,7 @@ rewrapping
 rewrapt
 rewrite
 rewriter
+rewriters
 rewrites
 rewritten
 rewrote
@@ -116878,6 +116907,7 @@ rib
 ribald
 ribaldly
 ribaldries
+ribaldry
 ribalds
 ribands
 ribavirins
@@ -124026,6 +124056,7 @@ shmuck
 shmucks
 shnapps
 shnaps
+shnook
 shnooks
 shnorrer
 shnorrers
@@ -126653,6 +126684,7 @@ smoochers
 smooches
 smooching
 smoochy
+smoosh
 smooshed
 smooshes
 smooshing
@@ -134121,6 +134153,7 @@ supergluing
 supergood
 supergraphics
 supergravities
+supergravity
 supergroup
 supergroups
 supergrowths
@@ -142630,6 +142663,7 @@ trouveres
 trouveurs
 trove
 trover
+trovers
 trowed
 trowel
 troweled
@@ -148318,6 +148352,7 @@ utilities
 utility
 utilizable
 utilization
+utilizations
 utilize
 utilized
 utilizer
