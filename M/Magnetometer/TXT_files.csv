@@ -8,3 +8,23 @@ Documentation/devicetree/bindings/iio/magnetometer/mmc35240.txt ...,https://revi
 MDN contributors - MDN Web Docs,https://developer.mozilla.org/en-US/docs/Web/API/Magnetometer/Magnetometer/contributors.txt
 Readme.txt - Digital CSIC,https://digital.csic.es/bitstream/10261/253073/88/Readme.txt
 MDN contributors - MDN Web Docs,https://developer.mozilla.org/en-US/docs/Web/API/Magnetometer/contributors.txt
+ace-magnetometer.txt - of NOAA SWPC services,https://services.swpc.noaa.gov/text/ace-magnetometer.txt
+readme - PDS Atmospheres Node,https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Cassini/Cassini/DOCS%2520for%2520events%2520%26%2520Configuration%2520page/README_mag_scas.txt
+Documentation/devicetree/bindings/iio/magnetometer/ak8975.txt,https://coral.googlesource.com/linux-imx/%2B/refs/tags/4-2/Documentation/devicetree/bindings/iio/magnetometer/ak8975.txt%3Fautodive%3D0%252F%252F%252F%252F%252F
+code,https://www.kjmagnetics.com/images/blog/shippingSensor.txt
+atmega8-magnetometer-usb-mouse/random_notes.txt at master ...,https://github.com/denilsonsa/atmega8-magnetometer-usb-mouse/blob/master/random_notes.txt
+Documentation/devicetree/bindings/iio/magnetometer ... - Elixir Bootlin,https://elixir.bootlin.com/linux/v4.5/source/Documentation/devicetree/bindings/iio/magnetometer/bmc150_magn.txt
+Martian magnetic field detected - NASA,https://nssdc.gsfc.nasa.gov/planetary/text/mgs_pr_970917.txt
+ak8974.txt,https://www.kernel.org/doc/Documentation/devicetree/bindings/iio/magnetometer/ak8974.txt
+Documentation/devicetree/bindings/iio/magnetometer ...,https://android.googlesource.com/platform/external/linux-kselftest/%2B/d97034ccdf0a13ad86f00945df245bbaf0780478/Documentation/devicetree/bindings/iio/magnetometer/bmc150_magn.txt
+Documentation/devicetree/bindings/iio/magnetometer/mmc35240.txt ...,https://review.trustedfirmware.org/plugins/gitiles/hafnium/third_party/linux/%2B/b4b6d4a02fa8aa8187d426b508fb7f3b69df0dcc/Documentation/devicetree/bindings/iio/magnetometer/mmc35240.txt
+https://www.clearpathrobotics.com/assets/guides/me...,https://www.clearpathrobotics.com/assets/guides/melodic/jackal/_sources/wincalibration.rst.txt
+"pni,rm3100.txt",https://www.kernel.org/doc/Documentation/devicetree/bindings/iio/magnetometer/pni%252Crm3100.txt
+MDN contributors - MDN Web Docs,https://developer.mozilla.org/en-US/docs/Web/API/Magnetometer/Magnetometer/contributors.txt
+magneto.txt - GitHub,https://github.com/beattiea/TiltyIMU/blob/master/Tilty%2520Software/Processing/Experiments/Testing%2520Magnetometer%2520calibration/magneto/magneto.txt
+ROSETTA-Ice_Magnetic.. - Data - Columbia University,http://wonder.ldeo.columbia.edu/data/ROSETTA-Ice/Magnetics/ROSETTA-Ice_Magnetics_TFAnom_readme.txt
+https://www.tdx.cat/bitstream/10803/3340/25/jsv14d...,https://www.tdx.cat/bitstream/10803/3340/25/jsv14de19.pdf.txt
+"Metadata, mag .txt file (64 kB) - USGS Publications Warehouse",https://pubs.usgs.gov/of/2010/1070/of2010-1070_metadata_mag.txt
+Readme.txt - Digital CSIC,https://digital.csic.es/bitstream/10261/253073/88/Readme.txt
+https://pds-ppi.igpp.ucla.edu/data/JNO-SS-3-FGM-CA...,https://pds-ppi.igpp.ucla.edu/data/JNO-SS-3-FGM-CAL-V1.0/AAREADME.TXT
+https://archives.esac.esa.int/psa/ftp/INTERNATIONA...,https://archives.esac.esa.int/psa/ftp/INTERNATIONAL-ROSETTA-MISSION/RPCMAG/RO-C-RPCMAG-4-ESC1-RESAMPLED-V6.0/AAREADME.TXT
