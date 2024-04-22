@@ -8146,6 +8146,7 @@ attitudinise
 attitudinised
 attitudinises
 attitudinising
+attitudinize
 attitudinized
 attitudinizes
 attitudinizing
@@ -15482,6 +15483,7 @@ bowdlerizing
 bowed
 bowel
 boweled
+boweling
 bowelling
 bowels
 bower
@@ -16306,6 +16308,7 @@ brins
 briny
 brio
 brioche
+brioches
 briolette
 brionies
 briony
@@ -23430,6 +23433,7 @@ cirripede
 cirripedes
 cirrocumuli
 cirrose
+cirrostrati
 cirrous
 cirrus
 cirsoid
@@ -26396,6 +26400,7 @@ complexioned
 complexions
 complexities
 complexity
+complexly
 complexness
 complexnesses
 compliance
@@ -33423,6 +33428,7 @@ decentered
 decentering
 decenters
 decentest
+decently
 decentralize
 decentralized
 decentralizes
@@ -45319,6 +45325,7 @@ erythrisms
 erythristic
 erythrite
 erythrites
+erythroblast
 erythroblastic
 erythroblasts
 erythrocyte
@@ -48737,6 +48744,7 @@ feculences
 feculent
 fecund
 fecundate
+fecundated
 fecundates
 fecundating
 fecundations
@@ -54037,6 +54045,7 @@ gaggers
 gagging
 gaggle
 gaggled
+gaggles
 gaggling
 gaging
 gagman
@@ -54767,6 +54776,7 @@ gastronome
 gastronomes
 gastronomic
 gastronomically
+gastronomies
 gastronomist
 gastronomists
 gastronomy
@@ -55690,6 +55700,7 @@ gibing
 gibingly
 giblet
 gibson
+gibsons
 gid
 giddap
 giddied
@@ -57607,6 +57618,7 @@ grasper
 graspers
 grasping
 graspingly
+graspingness
 graspingnesses
 grasps
 grass
@@ -59981,6 +59993,7 @@ hardcovers
 hardedge
 hardedges
 harden
+hardened
 hardener
 hardeners
 hardenings
@@ -61372,6 +61385,7 @@ heralding
 heraldist
 heraldists
 heraldries
+heraldry
 heralds
 herb
 herbage
@@ -70417,6 +70431,7 @@ itchy
 item
 itemed
 iteming
+itemise
 itemised
 itemises
 itemising
@@ -73035,6 +73050,7 @@ knotlike
 knots
 knotted
 knotter
+knottier
 knottiest
 knottily
 knottinesses
@@ -81566,6 +81582,7 @@ metrists
 metritises
 metro
 metrological
+metrologies
 metrologist
 metrologists
 metrology
@@ -92074,6 +92091,7 @@ opiums
 opossum
 oppidans
 oppilant
+oppilated
 oppilates
 oppilating
 opponencies
@@ -94812,6 +94830,7 @@ overhanded
 overhanding
 overhandle
 overhandles
+overhands
 overhanging
 overhangs
 overhard
@@ -95146,6 +95165,7 @@ overprecise
 overprescribe
 overprescribed
 overprescribes
+overprescribing
 overpressure
 overpressures
 overprice
@@ -95547,6 +95567,7 @@ overtopping
 overtops
 overtrade
 overtraded
+overtrades
 overtrading
 overtrained
 overtraining
@@ -110414,6 +110435,7 @@ rants
 ranula
 ranular
 ranulas
+ranunculi
 ranunculuses
 rap
 rapacious
@@ -117697,6 +117719,7 @@ rockfall
 rockfalls
 rockfish
 rockfishes
+rockhopper
 rockhoppers
 rockhound
 rockhounding
@@ -119542,6 +119565,7 @@ sandalling
 sandals
 sandarac
 sandaracs
+sandbag
 sandbagged
 sandbagger
 sandbaggers
@@ -125198,6 +125222,7 @@ simplicia
 simplicial
 simplicially
 simplicities
+simplicity
 simplification
 simplifications
 simplified
@@ -133280,6 +133305,7 @@ subspecific
 substage
 substages
 substance
+substanceless
 substances
 substandard
 substantial
@@ -137099,6 +137125,7 @@ taxidermist
 taxidermists
 taxidermy
 taxied
+taxies
 taxiing
 taximan
 taximen
@@ -140033,6 +140060,7 @@ toadstools
 toady
 toadying
 toadyish
+toadyism
 toast
 toasted
 toasters
@@ -142359,6 +142387,7 @@ trinary
 trindle
 trindled
 trindles
+trine
 trined
 trines
 trining
@@ -149223,6 +149252,7 @@ veinings
 veinlet
 veinlets
 veinlike
+veins
 veinstones
 veinule
 veinules
@@ -150334,6 +150364,7 @@ virtuosos
 virtuous
 virtuously
 virtuousness
+virtuousnesses
 virtus
 virucidal
 virucide
@@ -151712,6 +151743,7 @@ watchdogs
 watched
 watcher
 watchers
+watches
 watcheye
 watcheyes
 watchfully
@@ -152190,6 +152222,7 @@ weepie
 weepier
 weepies
 weepiest
+weepiness
 weepinesses
 weeping
 weepingly
@@ -154217,6 +154250,7 @@ worthiness
 worthinesses
 worthing
 worthlessly
+worthlessness
 worthlessnesses
 worthwhile
 worthwhileness
@@ -154940,6 +154974,7 @@ yodh
 yodhs
 yodle
 yodled
+yodlers
 yodles
 yods
 yoga
