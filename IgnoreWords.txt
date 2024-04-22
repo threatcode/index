@@ -221,6 +221,7 @@ absurdisms
 absurdist
 absurdists
 absurdity
+absurdly
 absurdness
 absurdnesses
 absurds
@@ -5171,6 +5172,7 @@ anticommunisms
 anticommunist
 anticommunists
 anticompetitive
+anticonsumer
 anticonvulsant
 anticonvulsants
 anticonvulsive
@@ -15490,6 +15492,7 @@ boxberry
 boxboard
 boxboards
 boxcar
+boxcars
 boxed
 boxer
 boxers
@@ -24475,6 +24478,7 @@ coappearing
 coappears
 coapt
 coaptation
+coaptations
 coapted
 coapting
 coapts
@@ -25562,6 +25566,7 @@ colonialisms
 colonialist
 colonialists
 colonialize
+colonialized
 colonializes
 colonially
 colonialness
@@ -27852,6 +27857,7 @@ contractually
 contracture
 contractures
 contradict
+contradictable
 contradicted
 contradicting
 contradiction
@@ -28753,6 +28759,7 @@ corpse
 corpses
 corpsman
 corpsmen
+corpulences
 corpulencies
 corpulency
 corpulent
@@ -29017,6 +29024,7 @@ cosmogonies
 cosmogonist
 cosmogony
 cosmographer
+cosmographers
 cosmographical
 cosmographies
 cosmography
@@ -34138,6 +34146,7 @@ dehorner
 dehorners
 dehorning
 dehorns
+dehort
 dehorted
 dehorting
 dehorts
@@ -34704,6 +34713,7 @@ demureness
 demurenesses
 demurer
 demurrage
+demurrages
 demurral
 demurrals
 demurred
@@ -40149,6 +40159,7 @@ drawbars
 drawbore
 drawbores
 drawbridge
+drawbridges
 drawdown
 drawdowns
 drawee
@@ -41363,6 +41374,7 @@ earthlight
 earthlights
 earthlike
 earthlinesses
+earthling
 earthlings
 earthly
 earthman
@@ -44505,6 +44517,7 @@ epicyclic
 epicycloid
 epicycloidal
 epidemically
+epidemicities
 epidemicity
 epidemics
 epidemiologic
@@ -54814,6 +54827,7 @@ geekinesses
 geeks
 geeky
 geepound
+geese
 geez
 geezer
 geezers
@@ -54989,6 +55003,7 @@ geneticists
 genetics
 genets
 genette
+genettes
 geneva
 genevas
 genial
@@ -63231,6 +63246,7 @@ hoverflies
 hoverfly
 hovering
 hovers
+how
 howbeit
 howdah
 howdahs
@@ -67158,6 +67174,7 @@ infinitesimal
 infinitesimally
 infinitesimals
 infinities
+infinitival
 infinitive
 infinitively
 infinitude
@@ -86204,6 +86221,7 @@ myelograms
 myeloma
 myelomata
 myelomatous
+myelopathic
 myelopathies
 myelopathy
 myiases
@@ -88127,6 +88145,7 @@ nitrosyl
 nitrous
 nits
 nittier
+nittiest
 nitty
 nitwit
 nitwits
@@ -94841,6 +94860,7 @@ overproductions
 overprogram
 overprogramed
 overprograming
+overprogrammed
 overprograms
 overpromises
 overpromoted
@@ -95527,6 +95547,7 @@ oyez
 oyezes
 oyster
 oystercatcher
+oystercatchers
 oystered
 oysterer
 oysterers
@@ -96413,6 +96434,7 @@ paperer
 paperers
 papergirl
 papergirls
+paperhanger
 paperhangers
 paperhangings
 paperiness
@@ -98174,6 +98196,7 @@ pelvic
 pelvics
 pelvis
 pelvises
+pelycosaur
 pembina
 pembinas
 pemican
@@ -98317,6 +98340,7 @@ pennywhistle
 pennywise
 pennyworth
 pennyworths
+pennyworts
 penoches
 penological
 penologies
@@ -98477,6 +98501,7 @@ pepped
 pepper
 pepperbox
 peppercorn
+peppercorns
 pepperer
 pepperers
 peppergrass
@@ -110923,6 +110948,7 @@ rebottling
 rebound
 rebounded
 rebounder
+rebounders
 rebounding
 rebounds
 rebranch
@@ -112282,6 +112308,7 @@ reestablishment
 reested
 reestimate
 reestimated
+reestimates
 reestimating
 reesting
 reevaluate
@@ -119973,6 +120000,7 @@ scantest
 scantier
 scanties
 scantiest
+scantily
 scantiness
 scanting
 scantlings
@@ -121952,6 +121980,7 @@ semimetals
 semimicro
 semimild
 semimoist
+semimonastic
 semimonthlies
 semimonthly
 semimute
@@ -136504,6 +136533,7 @@ taurine
 taus
 taut
 tautaugs
+tauted
 tauten
 tautened
 tautening
@@ -137958,6 +137988,7 @@ thaumaturgies
 thaumaturgist
 thaumaturgists
 thaumaturgy
+thaw
 thawed
 thawers
 thawing
@@ -140357,6 +140388,7 @@ tousing
 tousled
 tousles
 tousling
+touter
 touters
 touting
 touzles
@@ -144781,6 +144813,7 @@ underinvestment
 underived
 underjaw
 underjaws
+underkill
 underkills
 underlain
 underlapped
@@ -153467,6 +153500,7 @@ wordy
 work
 workabilities
 workability
+workable
 workableness
 workably
 workaday
@@ -154476,6 +154510,7 @@ yucky
 yuga
 yugas
 yuk
+yukked
 yukkier
 yukking
 yukky
