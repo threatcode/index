@@ -1734,6 +1734,8 @@ aeromagnetic
 aeromedical
 aeromedicine
 aeromedicines
+aerometer
+aerometers
 aerometries
 aerometry
 aeronaut
@@ -4387,6 +4389,7 @@ andradites
 andro
 androcentric
 androecia
+androecium
 androgen
 androgeneses
 androgenesis
@@ -5899,6 +5902,7 @@ aplasias
 aplastic
 aplenty
 aplite
+aplites
 aplitic
 aplomb
 aplombs
@@ -12587,6 +12591,7 @@ bidi
 bidialectal
 bidialectalism
 bidialectalisms
+biding
 bidirectionally
 bidonville
 bidonvilles
@@ -13876,6 +13881,7 @@ blimy
 blin
 blind
 blindage
+blinded
 blinders
 blindest
 blindfish
@@ -15642,6 +15648,7 @@ brads
 bradycardia
 bradykinin
 bradykinins
+brae
 braes
 brag
 braggadocio
@@ -44590,6 +44597,7 @@ epicycle
 epicyclic
 epicycloid
 epicycloidal
+epicycloids
 epidemically
 epidemicities
 epidemicity
@@ -49538,6 +49546,7 @@ figuredly
 figurehead
 figureheads
 figurer
+figurers
 figures
 figurine
 figurines
@@ -49554,6 +49563,7 @@ filamentary
 filamentous
 filaments
 filar
+filaree
 filarees
 filaria
 filariae
@@ -54255,6 +54265,7 @@ gamesmanship
 gamesmanships
 gamesmen
 gamesome
+gamesomely
 gamesomenesses
 gamest
 gamester
@@ -57154,6 +57165,7 @@ gowning
 gowns
 gownsman
 gownsmen
+gox
 goxes
 goy
 goyim
@@ -58254,6 +58266,7 @@ groynes
 grub
 grubbed
 grubber
+grubbers
 grubbier
 grubbiest
 grubbily
@@ -62941,6 +62954,7 @@ hormogonium
 hormonal
 hormonally
 hormone
+hormonelike
 hormones
 hormonic
 horn
@@ -68439,7 +68453,9 @@ interagency
 interallelic
 interallied
 interanimation
+interannual
 interarch
+interarched
 interarches
 interarching
 interatomic
@@ -68561,6 +68577,7 @@ interdict
 interdicting
 interdiction
 interdictions
+interdictive
 interdictor
 interdictors
 interdictory
@@ -74034,6 +74051,7 @@ larks
 larksome
 larkspur
 larkspurs
+larky
 larrigans
 larrikin
 larrikins
@@ -83574,6 +83592,7 @@ mistakes
 mistaking
 mistaught
 mistbow
+mistbows
 misteach
 misteaches
 misteaching
@@ -94364,6 +94383,7 @@ overdemanding
 overdependence
 overdependent
 overdesign
+overdesigned
 overdesigning
 overdesigns
 overdetermined
@@ -95638,6 +95658,7 @@ oxlike
 oxlip
 oxlips
 oxo
+oxpeckers
 oxtail
 oxter
 oxters
@@ -96975,6 +96996,7 @@ pardners
 pardon
 pardonable
 pardonably
+pardoner
 pardoners
 pardons
 pards
@@ -100605,6 +100627,7 @@ picketboats
 picketed
 picketer
 picketing
+pickets
 pickier
 pickiest
 pickiness
@@ -110582,6 +110605,7 @@ ravisher
 ravishers
 ravishes
 ravishing
+ravishingly
 ravishments
 rawer
 rawest
@@ -115574,6 +115598,7 @@ restful
 restfuller
 restfullest
 restfully
+restfulness
 restfulnesses
 restiform
 restimulated
@@ -118497,6 +118522,7 @@ rush
 rushed
 rushee
 rushees
+rusher
 rushers
 rushes
 rushier
@@ -121215,6 +121241,7 @@ scrutinised
 scrutinises
 scrutinising
 scrutinize
+scrutinized
 scrutinizer
 scrutinizers
 scrutiny
@@ -124819,6 +124846,7 @@ silkaline
 silkalines
 silken
 silkier
+silkies
 silkiest
 silkily
 silkinesses
@@ -130304,6 +130332,7 @@ starkest
 starkly
 starkness
 starknesses
+starlet
 starlets
 starlight
 starlights
@@ -133869,6 +133898,7 @@ superalloy
 superalloys
 superalterns
 superambitious
+superannuate
 superannuated
 superannuates
 superannuating
@@ -137976,6 +138006,7 @@ testatrix
 testatrixes
 testcross
 testcrossed
+testcrosses
 testcrossing
 tested
 testees
@@ -139247,6 +139278,7 @@ tidewaters
 tideway
 tideways
 tidied
+tidier
 tidiers
 tidies
 tidiest
@@ -141744,6 +141776,7 @@ triad
 triadic
 triadically
 triadics
+triadism
 triadisms
 triads
 triage
@@ -148499,6 +148532,7 @@ valval
 valve
 valved
 valvelet
+valvelets
 valvelike
 valves
 valving
@@ -150033,6 +150067,7 @@ virilism
 virilisms
 virilities
 virility
+virilize
 virilized
 virilizes
 virilocal
