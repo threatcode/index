@@ -6070,6 +6070,7 @@ apostrophise
 apostrophised
 apostrophize
 apostrophized
+apostrophizes
 apothecary
 apothece
 apotheces
@@ -6546,6 +6547,7 @@ arboriculture
 arboricultures
 arborists
 arborization
+arborizations
 arborize
 arborizing
 arborous
@@ -18742,6 +18744,7 @@ canceller
 cancelling
 cancellous
 cancels
+cancer
 cancered
 cancerous
 cancerously
@@ -19377,6 +19380,7 @@ carbamide
 carbamides
 carbamino
 carbamoyl
+carbamoyls
 carbamyl
 carbamyls
 carbanions
@@ -21811,6 +21815,7 @@ cheapies
 cheapish
 cheapishly
 cheapjack
+cheapjacks
 cheaply
 cheapness
 cheapnesses
@@ -25863,6 +25868,7 @@ combination
 combinational
 combinations
 combinative
+combinatorial
 combinatorially
 combinatorics
 combinatory
@@ -32460,6 +32466,7 @@ daggles
 daggling
 daglock
 dagoba
+dagobas
 dagoes
 dagos
 dags
@@ -34082,6 +34089,7 @@ deflexion
 deflexions
 defloration
 deflorations
+deflower
 deflowered
 deflowerer
 deflowerers
@@ -38864,6 +38872,7 @@ distributees
 distributes
 distributing
 distribution
+distributional
 distributions
 distributive
 distributively
@@ -40054,6 +40063,7 @@ downrightnesses
 downriver
 downs
 downscale
+downscaled
 downscaling
 downshift
 downshifted
@@ -41085,6 +41095,7 @@ dunnite
 dunnites
 duns
 dunt
+dunted
 dunting
 duo
 duodecillion
@@ -41105,6 +41116,7 @@ duopolies
 duopoly
 duopsonies
 duopsony
+duos
 duotone
 duotones
 dup
@@ -49143,6 +49155,7 @@ ferrocenes
 ferroconcrete
 ferroconcretes
 ferrocyanide
+ferrocyanides
 ferroelectric
 ferroelectrics
 ferromagnesian
@@ -62240,6 +62253,7 @@ hoars
 hoarse
 hoarsely
 hoarsen
+hoarseness
 hoarsenesses
 hoarsening
 hoarsest
@@ -62437,6 +62451,7 @@ holisms
 holist
 holistic
 holistically
+holists
 holk
 holked
 holks
@@ -62751,6 +62766,7 @@ homophony
 homophylies
 homophyly
 homoplasies
+homoplastic
 homoplasy
 homopolar
 homopolymer
@@ -72318,6 +72334,7 @@ kerygmata
 kerygmatic
 kestrels
 ketamine
+ketamines
 ketch
 ketches
 ketchup
@@ -83591,6 +83608,7 @@ misregistering
 misregisters
 misregistration
 misrelate
+misrelated
 misrelates
 misrelating
 misrelied
@@ -83607,6 +83625,7 @@ misreport
 misreported
 misreporting
 misrepresent
+misrepresented
 misrepresenting
 misrepresents
 misrhymed
@@ -86576,6 +86595,7 @@ myology
 myoma
 myomata
 myomatous
+myoneural
 myopathic
 myopathies
 myopathy
@@ -92521,6 +92541,7 @@ originated
 originating
 originations
 originative
+originatively
 originator
 originators
 origins
@@ -99422,6 +99443,7 @@ perpetrations
 perpetrator
 perpetrators
 perpetual
+perpetually
 perpetuals
 perpetuate
 perpetuated
@@ -103145,6 +103167,7 @@ polydipsias
 polydipsic
 polydisperse
 polydispersity
+polyelectrolyte
 polyembryonic
 polyembryony
 polyenes
@@ -110408,6 +110431,7 @@ rands
 randy
 ranee
 rang
+range
 ranged
 rangeland
 rangelands
@@ -114428,6 +114452,7 @@ renewability
 renewable
 renewables
 renewal
+renewals
 renewed
 renewedly
 renewer
@@ -119013,6 +119038,7 @@ sacrificer
 sacrificers
 sacrifices
 sacrificial
+sacrificially
 sacrificing
 sacrilege
 sacrileges
@@ -119431,6 +119457,7 @@ saltpans
 saltpeter
 saltpeters
 saltpetre
+saltpetres
 salts
 saltshaker
 saltshakers
@@ -121336,6 +121363,7 @@ screwinesses
 screwing
 screwlike
 screwup
+screwups
 screwworm
 screwworms
 screwy
@@ -123677,6 +123705,7 @@ shaugh
 shaughs
 shaul
 shauled
+shauls
 shavable
 shave
 shaved
@@ -133851,6 +133880,7 @@ sulfonyls
 sulfonylurea
 sulfonylureas
 sulfoxide
+sulfoxides
 sulfurating
 sulfured
 sulfuret
@@ -139544,6 +139574,7 @@ tidbits
 tiddledywinks
 tiddlers
 tiddly
+tiddlywinks
 tide
 tided
 tideland
@@ -144085,6 +144116,7 @@ ulans
 ulcer
 ulcerate
 ulcerated
+ulcerating
 ulceration
 ulcerations
 ulcered
@@ -145476,6 +145508,7 @@ underreacts
 underreport
 underreported
 underreports
+underrun
 underrunning
 undersaturated
 underscore
@@ -146961,6 +146994,7 @@ unquotes
 unquoting
 unraised
 unranked
+unravaged
 unravel
 unraveling
 unravelled
@@ -147255,6 +147289,7 @@ unsettled
 unsettledness
 unsettlednesses
 unsettlement
+unsettlements
 unsettles
 unsettling
 unsew
