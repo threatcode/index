@@ -10492,6 +10492,7 @@ baselines
 basely
 baseman
 basemen
+basementless
 basements
 baseness
 basenesses
@@ -13798,6 +13799,7 @@ blatant
 blate
 blathered
 blatherer
+blathering
 blathers
 blatherskite
 blatherskites
@@ -19652,6 +19654,7 @@ caress
 caressed
 caresser
 caressers
+caresses
 caressing
 caressingly
 caressive
@@ -22313,6 +22316,7 @@ childing
 childishly
 childishnesses
 childless
+childlessness
 childlessnesses
 childlier
 childlike
@@ -35060,6 +35064,7 @@ denominates
 denominating
 denomination
 denominational
+denominations
 denominative
 denominatives
 denominators
@@ -36040,6 +36045,7 @@ deterrent
 deterrently
 deterrents
 deterrer
+deterrers
 deterring
 detersive
 detersives
@@ -39057,6 +39063,7 @@ ditherer
 ditherers
 dithering
 dithers
+dithiocarbamate
 dithiol
 dithyramb
 dithyrambic
@@ -43864,6 +43871,7 @@ enduringnesses
 enduro
 enduros
 endways
+endwise
 enema
 enemas
 enemies
@@ -44557,6 +44565,7 @@ entropy
 entrust
 entrusted
 entrusting
+entrustment
 entrustments
 entry
 entryway
@@ -51277,6 +51286,7 @@ flowmeters
 flown
 flows
 flowstone
+flu
 flub
 flubbed
 flubber
@@ -53737,6 +53747,7 @@ fumblers
 fumbles
 fumbling
 fumblingly
+fume
 fumeless
 fumer
 fumers
@@ -60272,6 +60283,7 @@ harkener
 harkeners
 harkening
 harkens
+harking
 harks
 harlequin
 harlequinade
@@ -63754,6 +63766,7 @@ hues
 huff
 huffier
 huffily
+huffiness
 huffinesses
 huffing
 huffish
@@ -67931,6 +67944,7 @@ inherency
 inherent
 inherently
 inhering
+inherit
 inheritability
 inheritableness
 inheritance
@@ -72002,6 +72016,7 @@ justles
 justness
 justnesses
 justs
+jut
 jutelike
 jutes
 juts
@@ -72320,6 +72335,7 @@ kazatsky
 kazillions
 kazoo
 kazoos
+kbar
 kbars
 kea
 keas
@@ -72790,6 +72806,7 @@ kieselgurs
 kieserite
 kieserites
 kiester
+kiesters
 kif
 kifs
 kikes
@@ -74541,6 +74558,7 @@ lateens
 lately
 laten
 latencies
+latency
 latened
 lateness
 latenesses
@@ -76670,6 +76688,7 @@ lithographs
 lithography
 lithoid
 lithoing
+lithologic
 lithological
 lithologically
 lithologies
@@ -82640,6 +82659,7 @@ milligram
 milligrams
 millihenries
 millihenry
+millihenrys
 millilambert
 millilamberts
 milliliter
@@ -89892,6 +89912,7 @@ nonplayers
 nonplaying
 nonplays
 nonpliant
+nonplus
 nonplused
 nonpluses
 nonplusing
@@ -96290,6 +96311,7 @@ pacifical
 pacifications
 pacificator
 pacificators
+pacificism
 pacificisms
 pacificist
 pacificists
@@ -98118,6 +98140,7 @@ pater
 paterfamilias
 paternal
 paternalism
+paternalisms
 paternalist
 paternalistic
 paternalists
@@ -99474,6 +99497,7 @@ pericopes
 pericopic
 pericrania
 pericranial
+pericranium
 pericycle
 pericyclic
 periderm
@@ -108624,6 +108648,7 @@ pulpiest
 pulpily
 pulpiness
 pulping
+pulpit
 pulpital
 pulpits
 pulpless
@@ -108714,6 +108739,7 @@ punchballs
 punchboard
 punchboards
 puncheons
+puncher
 punchers
 punches
 punchier
@@ -108724,6 +108750,7 @@ punching
 punchless
 punctate
 punctated
+punctation
 punctations
 punctilios
 punctilious
@@ -116744,6 +116771,7 @@ retrofitting
 retroflection
 retroflections
 retroflex
+retroflexion
 retroflexions
 retrogradation
 retrogradations
@@ -116976,6 +117004,7 @@ reversibility
 reversible
 reversibly
 reversing
+reversion
 reversional
 reversionary
 reversioner
@@ -134755,6 +134784,7 @@ superficial
 superficiality
 superficially
 superficies
+superfine
 superfirm
 superfirms
 superfix
@@ -134895,6 +134925,7 @@ supermen
 supermicro
 supermicros
 supermilitant
+supermilitants
 supermind
 supermini
 superminis
@@ -139033,6 +139064,7 @@ theatricalism
 theatricalisms
 theatricalities
 theatricality
+theatricalize
 theatricalized
 theatricalizes
 theatricalizing
@@ -141580,6 +141612,7 @@ trace
 traceabilities
 traceability
 traceable
+traceably
 traced
 traceless
 traceried
@@ -152898,6 +152931,7 @@ wellies
 welling
 wellness
 wellnesses
+wells
 wellsite
 wellsites
 wellspring
@@ -155066,6 +155100,7 @@ xanthone
 xanthophyll
 xanthophylls
 xanthous
+xebec
 xebecs
 xenia
 xenial
