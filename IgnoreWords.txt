@@ -957,6 +957,7 @@ actinometries
 actinometry
 actinomorphies
 actinomorphy
+actinomyces
 actinomycete
 actinomycetes
 actinomycetous
@@ -3004,6 +3005,7 @@ alkyne
 alkynes
 allanite
 allanites
+allantoic
 allantoid
 allantoides
 allantoids
@@ -16541,6 +16543,7 @@ bromo
 bromocriptine
 bromocriptines
 bromos
+bromouracil
 bronc
 bronchi
 bronchia
@@ -19162,6 +19165,7 @@ capeskins
 capeworks
 capful
 capfuls
+caph
 caphs
 capias
 capiases
@@ -22889,6 +22893,7 @@ chrisma
 chrismal
 chrismation
 chrismations
+chrismon
 chrismons
 chrisms
 chrisom
@@ -35196,6 +35201,7 @@ department
 departmental
 departmentalize
 departmentally
+departments
 departs
 departure
 depauperate
@@ -37006,6 +37012,7 @@ digeneses
 digenetic
 digested
 digester
+digesters
 digestibilities
 digestibility
 digestible
@@ -39925,6 +39932,7 @@ dotier
 dotiest
 doting
 dotingly
+dots
 dotted
 dottel
 dottels
@@ -64307,6 +64315,7 @@ hydrosol
 hydrosolic
 hydrosols
 hydrospace
+hydrospaces
 hydrosphere
 hydrospheres
 hydrospheric
@@ -67696,6 +67705,7 @@ infold
 infolded
 infolder
 infolders
+infolding
 infolds
 infomercial
 infomercials
@@ -70537,6 +70547,7 @@ isopropyls
 isoproterenols
 isopycnic
 isosceles
+isosmotic
 isosmotically
 isospin
 isospins
@@ -74935,6 +74946,7 @@ leanings
 leanly
 leanness
 leannesses
+leans
 leant
 leap
 leaped
@@ -85371,6 +85383,7 @@ mortices
 mortician
 morticians
 morticing
+mortification
 mortifications
 mortified
 mortifier
@@ -85992,6 +86005,7 @@ muling
 mulish
 mulishly
 mulishness
+mulishnesses
 mull
 mulla
 mullah
@@ -86447,6 +86461,7 @@ musculoskeletal
 muse
 mused
 museful
+museological
 museologies
 museologist
 museologists
@@ -88013,6 +88028,7 @@ netop
 netops
 netsuke
 netsukes
+nett
 nettable
 netted
 netter
@@ -91612,6 +91628,7 @@ offbeat
 offbeats
 offcast
 offcasts
+offcut
 offcuts
 offed
 offence
@@ -96252,6 +96269,7 @@ packability
 packable
 package
 packaged
+packager
 packagers
 packaging
 packagings
@@ -97030,6 +97048,7 @@ papayan
 papayas
 paper
 paperback
+paperbacked
 paperbacks
 paperboards
 paperbound
@@ -101033,6 +101052,7 @@ pibroch
 pibrochs
 pic
 pica
+picacho
 picachos
 picadillo
 picadillos
@@ -101270,6 +101290,7 @@ piffling
 pig
 pigboat
 pigboats
+pigeon
 pigeonhole
 pigeonholed
 pigeonholer
@@ -106379,6 +106400,7 @@ prewashed
 prewashes
 prewashing
 preweaning
+preweigh
 preweighing
 preweighs
 prewire
@@ -111115,6 +111137,7 @@ ravingly
 ravings
 ravining
 ravins
+ravioli
 raviolis
 ravish
 ravisher
@@ -116968,6 +116991,7 @@ revisionary
 revisionism
 revisionisms
 revisionist
+revisionists
 revisions
 revisit
 revisited
@@ -124951,6 +124975,7 @@ shrubs
 shrug
 shrugging
 shrugs
+shrunk
 shrunken
 shtetel
 shtetels
@@ -127629,6 +127654,7 @@ snowboarding
 snowboardings
 snowboards
 snowbound
+snowbrush
 snowbrushes
 snowbush
 snowbushes
@@ -133054,6 +133080,7 @@ subclasses
 subclassified
 subclassifies
 subclassify
+subclassifying
 subclassing
 subclause
 subclauses
@@ -134948,6 +134975,7 @@ supersensible
 supersensitive
 supersensory
 supersession
+supersessions
 supersex
 supersexes
 supersexuality
@@ -136039,6 +136067,7 @@ syllogized
 syllogizes
 syllogizing
 sylph
+sylphic
 sylphid
 sylphids
 sylphish
@@ -141261,6 +141290,7 @@ touch
 touchable
 touchback
 touchbacks
+touchdown
 touchdowns
 touche
 toucher
@@ -147954,6 +147984,7 @@ untaught
 untaxed
 unteach
 unteaches
+unteaching
 untechnical
 untempered
 untenabilities
@@ -149039,6 +149070,7 @@ vaccinate
 vaccinated
 vaccinates
 vaccinating
+vaccination
 vaccinations
 vaccinator
 vaccinators
@@ -149345,6 +149377,7 @@ vapidly
 vapidness
 vapidnesses
 vapor
+vaporable
 vapored
 vaporer
 vaporers
@@ -149734,6 +149767,7 @@ velocipede
 velocipedes
 velociraptor
 velociraptors
+velocities
 velocity
 velodrome
 velodromes
@@ -152584,6 +152618,7 @@ webcasting
 webcasts
 weber
 webfed
+webfoot
 webless
 weblike
 webmaster
