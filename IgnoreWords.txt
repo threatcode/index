@@ -695,6 +695,7 @@ achingly
 achiote
 achiotes
 achiral
+achlorhydrias
 achlorhydric
 acholias
 achondrite
@@ -1328,6 +1329,7 @@ admiral
 admirals
 admiralties
 admiralty
+admiration
 admirations
 admire
 admired
@@ -2935,6 +2937,7 @@ aliments
 alimonied
 alimonies
 alimony
+aline
 alinement
 alinements
 aliner
@@ -5417,6 +5420,7 @@ antimonopolist
 antimonopolists
 antimonopoly
 antimony
+antimonyl
 antimonyls
 antimosquito
 antimusic
@@ -18430,6 +18434,7 @@ calibrators
 calibre
 calibres
 calices
+caliches
 calicles
 calico
 calicos
@@ -24309,6 +24314,7 @@ clockworks
 clod
 cloddier
 cloddiest
+cloddish
 cloddy
 clodhopper
 clodhoppers
@@ -28681,6 +28687,7 @@ copying
 copyist
 copyists
 copyleft
+copylefts
 copyreader
 copyreaders
 copyreading
@@ -29537,6 +29544,7 @@ counted
 countenance
 countenanced
 countenancer
+countenances
 countenancing
 counter
 counteract
@@ -30514,6 +30522,7 @@ creeks
 creel
 creeled
 creeling
+creels
 creep
 creepage
 creepages
@@ -32169,6 +32178,7 @@ cyaniding
 cyanids
 cyanin
 cyanine
+cyanines
 cyanins
 cyanites
 cyanitic
@@ -35053,6 +35063,7 @@ denari
 denarii
 denarius
 denars
+denary
 denationalized
 denationalizing
 denaturalize
@@ -36357,6 +36368,7 @@ devocalizing
 devoice
 devoiced
 devoices
+devoicing
 devoid
 devoir
 devoirs
@@ -46829,6 +46841,7 @@ excursus
 excursuses
 excusable
 excusablenesses
+excusably
 excusatory
 excuse
 excused
@@ -48856,6 +48869,7 @@ fauvist
 fauvists
 faux
 fava
+favas
 fave
 favela
 favelas
@@ -53010,6 +53024,7 @@ franknesses
 frankpledge
 frankpledges
 franks
+franseria
 franserias
 frantic
 frantically
@@ -54019,6 +54034,7 @@ furcation
 furcations
 furcraeas
 furculum
+furfur
 furfural
 furfurals
 furfuran
@@ -64828,6 +64844,7 @@ hyperstatic
 hypersthene
 hypersthenes
 hyperstimulate
+hyperstimulated
 hypersurfaces
 hypertense
 hypertension
@@ -65251,6 +65268,7 @@ ideationally
 ideations
 ideative
 idem
+idempotent
 idempotents
 identically
 identicalness
@@ -70531,6 +70549,7 @@ is
 isagoge
 isagoges
 isagogics
+isallobar
 isallobaric
 isallobars
 isarithm
@@ -86365,6 +86384,7 @@ multinationals
 multinomial
 multinomials
 multinuclear
+multinucleate
 multinucleated
 multiorgasmic
 multipack
@@ -90678,6 +90698,7 @@ notepad
 notepads
 notepaper
 notepapers
+noter
 notes
 noteworthily
 noteworthiness
@@ -105658,6 +105679,7 @@ prefecture
 prefectures
 prefer
 preferabilities
+preferability
 preferable
 preferably
 preference
@@ -107930,6 +107952,7 @@ prospect
 prospected
 prospecting
 prospective
+prospectively
 prospector
 prospectors
 prospects
@@ -111285,6 +111308,7 @@ ration
 rational
 rationales
 rationalised
+rationalises
 rationalising
 rationalism
 rationalisms
@@ -116003,6 +116027,7 @@ reselects
 resell
 reseller
 resellers
+reselling
 resemblance
 resemblances
 resemblant
@@ -117673,6 +117698,7 @@ rhubarbs
 rhumb
 rhumba
 rhumbaed
+rhumbaing
 rhumbas
 rhus
 rhyme
@@ -124093,6 +124119,7 @@ shadowboxed
 shadowboxes
 shadowboxing
 shadowed
+shadower
 shadowers
 shadowgraph
 shadowgraphies
@@ -125575,6 +125602,7 @@ sidetracking
 sidetracks
 sidewalk
 sidewalks
+sidewall
 sidewalls
 sideward
 sidewards
@@ -127722,6 +127750,7 @@ snarling
 snarls
 snarly
 snashes
+snatcher
 snatchers
 snatches
 snatchier
@@ -134354,6 +134383,7 @@ succussing
 suchlike
 suchness
 suchnesses
+suck
 sucked
 suckered
 suckering
@@ -135425,6 +135455,7 @@ supervirtuoso
 supervirtuosos
 supervises
 supervising
+supervision
 supervisor
 supervisors
 supervisory
@@ -135682,6 +135713,7 @@ surpass
 surpassable
 surpassed
 surpasser
+surpassers
 surpassing
 surpassingly
 surplice
@@ -135841,6 +135873,7 @@ sustainable
 sustained
 sustainedly
 sustainer
+sustainers
 sustaining
 sustains
 sustenance
@@ -143601,6 +143634,7 @@ trots
 trotted
 trotter
 trotters
+trotting
 trotyl
 trotyls
 troubadour
@@ -155239,6 +155273,7 @@ wreckage
 wreckages
 wrecked
 wrecker
+wreckers
 wreckful
 wrecking
 wrecks
