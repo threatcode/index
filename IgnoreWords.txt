@@ -4140,6 +4140,7 @@ anaglyphs
 anagnorises
 anagnorisis
 anagoge
+anagoges
 anagogic
 anagogical
 anagogically
@@ -6087,6 +6088,7 @@ apotheces
 apothecia
 apothecial
 apothecium
+apothegm
 apothegmatic
 apothegms
 apothem
@@ -10027,6 +10029,7 @@ banks
 banksias
 bankside
 banksides
+bannable
 banned
 banner
 bannered
@@ -14517,6 +14520,7 @@ bocci
 boccia
 boccias
 boccie
+boccies
 boccis
 boche
 boches
@@ -24368,6 +24372,7 @@ cloudlessly
 cloudlessness
 cloudlessnesses
 cloudlets
+cloudlike
 clouds
 cloudscape
 cloudscapes
@@ -28431,6 +28436,7 @@ copastor
 copastors
 copay
 copayment
+copayments
 copays
 cope
 copeck
@@ -32337,6 +32343,7 @@ cystoliths
 cystoscope
 cystoscopes
 cystoscopic
+cystoscopies
 cystoscopy
 cystotomies
 cystotomy
@@ -43853,6 +43860,7 @@ enfacing
 enfeebled
 enfeeblement
 enfeeblements
+enfeeblers
 enfeebles
 enfeebling
 enfeoff
@@ -53339,6 +53347,7 @@ frontlet
 frontlets
 frontline
 frontlines
+frontlist
 frontman
 frontmen
 frontogeneses
@@ -54719,6 +54728,7 @@ garlickiest
 garlicking
 garlicky
 garlics
+garment
 garmented
 garmenting
 garments
@@ -59009,6 +59019,7 @@ gussets
 gussie
 gussied
 gussies
+gussy
 gussying
 gust
 gustable
@@ -61612,6 +61623,7 @@ heritage
 heritages
 heritor
 heritors
+heritrix
 heritrixes
 herls
 herma
@@ -64309,6 +64321,7 @@ hydroxyproline
 hydroxyprolines
 hydroxyurea
 hydroxyureas
+hydroxyzine
 hydroxyzines
 hydrozoans
 hyena
@@ -64479,6 +64492,7 @@ hyperfastidious
 hyperfine
 hyperfunction
 hyperfunctional
+hyperfunctions
 hypergamies
 hypergamy
 hyperglycemia
@@ -64856,6 +64870,7 @@ hysterectomies
 hysterectomized
 hysterectomy
 hystereses
+hysteresis
 hysteretic
 hysteria
 hysterias
@@ -68463,6 +68478,7 @@ instigation
 instigations
 instigative
 instigator
+instigators
 instil
 instill
 instillation
@@ -69626,6 +69642,7 @@ introspectively
 introversion
 introversions
 introversive
+introversively
 introvert
 introverted
 introverting
@@ -79708,6 +79725,7 @@ marsala
 marse
 marseille
 marseilles
+marses
 marsh
 marshal
 marshaled
@@ -79993,6 +80011,7 @@ matadors
 matambala
 match
 matchable
+matchboard
 matchboards
 matchbooks
 matchbox
@@ -82852,6 +82871,7 @@ minored
 minorities
 minority
 minors
+minoxidil
 minoxidils
 minster
 minsters
@@ -86780,6 +86800,7 @@ myotonic
 myriad
 myriapod
 myriapods
+myricas
 myriopod
 myriopods
 myrmecological
@@ -89818,6 +89839,7 @@ nonprofits
 nonprogram
 nonprogrammers
 nonprogressive
+nonproprietary
 nonprosses
 nonprossing
 nonprotein
@@ -100539,6 +100561,7 @@ photoconductive
 photocopied
 photocopier
 photocopiers
+photocopies
 photocopy
 photocopying
 photocurrent
@@ -113096,6 +113119,7 @@ referral
 referrals
 referrer
 referrers
+referring
 reffed
 reffing
 refight
@@ -116708,6 +116732,7 @@ revalidates
 revalidating
 revalidation
 revalidations
+revalorization
 revalorizations
 revalorize
 revalorized
@@ -119229,6 +119254,7 @@ sacker
 sackers
 sackful
 sackfuls
+sacking
 sackings
 sacklike
 sacks
@@ -125353,6 +125379,7 @@ siliculae
 siliqua
 siliquae
 silique
+siliques
 siliquose
 siliquous
 silk
@@ -128317,6 +128344,7 @@ sonneting
 sonnetize
 sonnetized
 sonnetizes
+sonnetizing
 sonnets
 sonnetted
 sonnetting
@@ -128416,6 +128444,7 @@ soppier
 soppiest
 soppinesses
 soppy
+soprani
 sopranino
 sopraninos
 soprano
@@ -129706,6 +129735,7 @@ splendidest
 splendidly
 splendidnesses
 splendiferous
+splendiferously
 splendorous
 splendors
 splendour
@@ -134376,6 +134406,7 @@ sunninesses
 sunns
 sunporch
 sunporches
+sunproof
 sunray
 sunrays
 sunrise
@@ -134605,6 +134636,7 @@ superglued
 superglues
 supergluing
 supergood
+supergovernment
 supergraphics
 supergravities
 supergravity
@@ -147668,6 +147700,7 @@ unsoldierly
 unsolid
 unsolved
 unsoncy
+unsonsie
 unsonsy
 unsoothed
 unsophisticated
@@ -149006,6 +149039,7 @@ vagotonic
 vagrancies
 vagrancy
 vagrant
+vagrantly
 vagrants
 vagrom
 vague
@@ -153629,6 +153663,7 @@ wimples
 wimpling
 wimps
 win
+wince
 winced
 wincey
 winceys
