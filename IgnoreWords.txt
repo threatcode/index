@@ -335,6 +335,7 @@ acceding
 accelerando
 accelerandos
 accelerate
+accelerated
 accelerates
 accelerating
 acceleratingly
@@ -5328,6 +5329,7 @@ antihero
 antiheroes
 antiheroic
 antiheroine
+antiheroines
 antiherpes
 antihijack
 antihistamine
@@ -7198,6 +7200,7 @@ arthralgia
 arthralgias
 arthralgic
 arthritic
+arthritically
 arthritics
 arthritides
 arthropathies
@@ -11820,6 +11823,7 @@ bemingle
 bemingled
 bemingles
 bemingling
+bemire
 bemired
 bemires
 bemiring
@@ -19799,6 +19803,7 @@ carnie
 carnies
 carnified
 carnifies
+carnify
 carnitine
 carnitines
 carnival
@@ -23875,6 +23880,7 @@ claspt
 class
 classable
 classed
+classer
 classers
 classes
 classic
@@ -28438,6 +28444,7 @@ coolies
 cooling
 coolish
 coolly
+coolness
 coolnesses
 cools
 coolth
@@ -29880,6 +29887,7 @@ couthiest
 couths
 couture
 coutures
+couturier
 couturiere
 couturieres
 couturiers
@@ -38494,6 +38502,7 @@ dismounted
 dismounting
 dismounts
 disobedience
+disobediences
 disobediently
 disobeyed
 disobeyers
@@ -42516,6 +42525,7 @@ elasticized
 elastics
 elastin
 elastins
+elastomer
 elastomers
 elate
 elatedly
@@ -43820,6 +43830,7 @@ endogenous
 endogenously
 endogens
 endogeny
+endolithic
 endolymphatic
 endolymphs
 endometria
@@ -46812,6 +46823,7 @@ excursionist
 excursionists
 excursions
 excursive
+excursively
 excursivenesses
 excursus
 excursuses
@@ -57825,6 +57837,7 @@ granola
 granolas
 granolith
 granolithic
+granophyre
 granophyres
 granophyric
 grans
@@ -58731,6 +58744,7 @@ gruffly
 gruffnesses
 gruffs
 gruffy
+grugru
 grugrus
 gruiform
 grum
@@ -59225,6 +59239,7 @@ gutsiness
 gutsinesses
 gutsy
 gutta
+guttae
 guttate
 guttated
 guttation
@@ -66150,6 +66165,7 @@ impetuousnesses
 impetuses
 imphee
 imphees
+impi
 impiety
 imping
 impinge
@@ -81917,6 +81933,7 @@ metheglins
 methemoglobin
 methemoglobins
 methenamine
+methenamines
 methicillin
 methicillins
 methinks
@@ -87390,6 +87407,7 @@ narc
 narcein
 narceine
 narceines
+narceins
 narcisms
 narcissi
 narcissisms
@@ -93340,6 +93358,7 @@ ostiary
 ostinati
 ostinato
 ostinatos
+ostiolar
 ostiole
 ostioles
 ostium
@@ -99506,6 +99525,7 @@ perchlorate
 perchlorates
 percipience
 percipiences
+percipient
 percipiently
 percipients
 percoid
@@ -99513,6 +99533,7 @@ percoids
 percolated
 percolates
 percolating
+percolation
 percolations
 percolator
 percolators
@@ -109012,6 +109033,7 @@ punkier
 punkies
 punkiest
 punkin
+punkiness
 punkinesses
 punkins
 punkish
@@ -109170,6 +109192,7 @@ purlins
 purloin
 purloiner
 purloiners
+purloining
 purloins
 puromycin
 puromycins
@@ -110382,6 +110405,7 @@ rabic
 rabid
 rabidities
 rabidly
+rabidness
 rabidnesses
 rabies
 rabietic
@@ -113668,6 +113692,7 @@ refractorily
 refractoriness
 refractory
 refracts
+refrain
 refrained
 refrainer
 refrainers
@@ -115808,6 +115833,7 @@ reregulate
 reregulated
 reregulates
 reregulating
+reregulation
 reregulations
 rerelease
 rereleased
@@ -118061,6 +118087,7 @@ ringworm
 ringworms
 rink
 rinks
+rinning
 rins
 rinsable
 rinse
@@ -122526,6 +122553,7 @@ seclusiveness
 secobarbital
 secobarbitals
 seconal
+seconals
 second
 secondaries
 secondarily
@@ -124392,6 +124420,7 @@ shears
 shearwaters
 sheas
 sheatfish
+sheatfishes
 sheath
 sheathbill
 sheathe
@@ -127796,6 +127825,7 @@ snifflers
 sniffles
 sniffling
 sniffly
+sniffs
 sniffy
 snifter
 snifters
@@ -129391,6 +129421,7 @@ spastics
 spat
 spate
 spathe
+spathed
 spathes
 spathic
 spathose
@@ -142695,6 +142726,7 @@ treetop
 treetops
 tref
 trefah
+trefoil
 trefoils
 trehala
 trehalas
@@ -148446,6 +148478,7 @@ untrim
 untrimmed
 untrimming
 untrims
+untrodden
 untroubled
 untruer
 untruest
@@ -152240,6 +152273,7 @@ wambled
 wambles
 wamblier
 wambliest
+wambling
 wame
 wamefou
 wamefous
@@ -152304,6 +152338,7 @@ wanner
 wanness
 wannesses
 wannest
+wannigan
 wannigans
 wanning
 wans
