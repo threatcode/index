@@ -3759,6 +3759,7 @@ amicableness
 amicablenesses
 amicably
 amice
+amices
 amicus
 amid
 amidase
@@ -5477,6 +5478,7 @@ antiphonaries
 antiphonary
 antiphonies
 antiphons
+antiphony
 antiphrasis
 antipill
 antipiracy
@@ -14204,6 +14206,7 @@ blowgun
 blowhard
 blowhards
 blowhole
+blowholes
 blowier
 blowiest
 blowiness
@@ -16936,6 +16939,7 @@ buckshees
 buckshot
 buckskin
 buckskinned
+buckskins
 bucktail
 bucktails
 buckteeth
@@ -18449,6 +18453,7 @@ callboard
 callboards
 callboy
 callboys
+called
 callee
 callees
 caller
@@ -22821,6 +22826,7 @@ chords
 chore
 chorea
 choreal
+choreas
 choreatic
 chored
 choregi
@@ -23884,6 +23890,7 @@ classon
 classons
 classroom
 classwork
+classworks
 classy
 clast
 clastic
@@ -24154,6 +24161,7 @@ climber
 climbing
 climbs
 clime
+climes
 clinal
 clinally
 clinch
@@ -24466,6 +24474,7 @@ clubbish
 clubby
 clubface
 clubfaces
+clubfeet
 clubfoot
 clubfooted
 clubhand
@@ -25562,6 +25571,7 @@ collarless
 collars
 collate
 collated
+collateral
 collateralize
 collateralized
 collateralizes
@@ -27860,6 +27870,7 @@ contagium
 contain
 containable
 contained
+container
 containerboard
 containerboards
 containerised
@@ -33715,6 +33726,7 @@ decollation
 decollations
 decolletage
 decolletages
+decollete
 decolonization
 decolonize
 decolonized
@@ -34276,6 +34288,7 @@ defrays
 defrock
 defrocked
 defrocking
+defrocks
 defrost
 defrosted
 defroster
@@ -34851,6 +34864,7 @@ demode
 demoded
 demodulate
 demodulated
+demodulates
 demodulating
 demodulation
 demodulations
@@ -37738,6 +37752,7 @@ disavowable
 disavowal
 disavowals
 disavowed
+disavower
 disavowers
 disavowing
 disavows
@@ -48047,6 +48062,7 @@ fadedness
 fadednesses
 fadein
 fadeins
+fadeless
 fadeout
 fadeouts
 fader
@@ -48104,6 +48120,7 @@ faineance
 faineances
 faineant
 faineants
+fainer
 fainest
 faint
 fainted
@@ -55513,6 +55530,7 @@ genuflected
 genuflecting
 genuflection
 genuflections
+genuflects
 genuine
 genuinely
 genuineness
@@ -59560,6 +59578,7 @@ haircuts
 haircutter
 haircutters
 haircutting
+haircuttings
 hairdo
 hairdos
 hairdresser
@@ -81249,6 +81268,7 @@ mercantilist
 mercantilistic
 mercantilists
 mercaptan
+mercaptans
 mercapto
 mercaptopurine
 mercaptopurines
@@ -87298,6 +87318,7 @@ nargileh
 nargilehs
 nargiles
 narial
+naric
 narine
 naris
 nark
@@ -98615,6 +98636,7 @@ pecten
 pectens
 pectic
 pectin
+pectinaceous
 pectinate
 pectinations
 pectines
@@ -99052,6 +99074,7 @@ pennants
 pennate
 pennated
 penned
+penner
 penners
 penni
 pennia
@@ -99454,6 +99477,7 @@ perfidiously
 perfidy
 perforate
 perforated
+perforates
 perforating
 perforation
 perforations
@@ -102678,6 +102702,7 @@ pleiotaxy
 pleiotropic
 pleiotropies
 pleiotropy
+plenaries
 plenary
 plench
 plenipotent
@@ -106363,6 +106388,7 @@ pretexting
 pretexts
 pretheater
 pretor
+pretorial
 pretorian
 pretorians
 pretors
@@ -109825,6 +109851,7 @@ quenching
 quenchless
 quenelle
 quenelles
+quercetic
 quercetin
 quercetins
 quercine
@@ -114331,6 +114358,7 @@ relaxedly
 relaxednesses
 relaxer
 relaxers
+relaxes
 relaxin
 relaxing
 relaxins
@@ -124318,6 +124346,7 @@ shellback
 shellbacks
 shellbark
 shellbarks
+shellcracker
 shellcrackers
 shelled
 sheller
@@ -128881,6 +128910,7 @@ southeast
 southeaster
 southeasterly
 southeastern
+southeasters
 southeasts
 southeastward
 southeastwards
@@ -135419,6 +135449,7 @@ surliest
 surlily
 surliness
 surlinesses
+surmise
 surmised
 surmisers
 surmises
@@ -136082,6 +136113,7 @@ swordlike
 swordman
 swordmen
 swordplayer
+swordplays
 swords
 swordsman
 swordsmanship
@@ -142754,6 +142786,7 @@ trickiness
 trickinesses
 tricking
 trickish
+trickishly
 trickishness
 trickishnesses
 trickle
@@ -149316,6 +149349,7 @@ valences
 valencia
 valencias
 valencies
+valency
 valentine
 valentines
 valerate
@@ -149910,6 +149944,7 @@ velours
 veloute
 veloutes
 velum
+velure
 velured
 velures
 veluring
