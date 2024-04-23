@@ -18706,6 +18706,7 @@ campshirt
 campshirts
 campsite
 campsites
+campstool
 campstools
 campus
 campused
@@ -19714,6 +19715,7 @@ carnage
 carnages
 carnal
 carnalities
+carnality
 carnallite
 carnallites
 carnally
@@ -30849,6 +30851,7 @@ crossbar
 crossbarred
 crossbarring
 crossbars
+crossbeam
 crossbeams
 crossbearer
 crossbearers
@@ -33835,6 +33838,7 @@ decury
 decussate
 decussated
 decussates
+decussation
 decussations
 dedal
 dedans
@@ -46602,6 +46606,7 @@ excommunicator
 excoriate
 excoriated
 excoriates
+excoriating
 excoriation
 excoriations
 excrement
@@ -47538,6 +47543,7 @@ extralegal
 extralegally
 extralimital
 extralinguistic
+extraliterary
 extralities
 extrality
 extralogical
@@ -48886,6 +48892,7 @@ feedgrain
 feedgrains
 feedhole
 feedholes
+feeding
 feedlot
 feedlots
 feeds
@@ -50930,6 +50937,7 @@ flir
 flirs
 flirt
 flirtation
+flirtations
 flirtatious
 flirtatiously
 flirtatiousness
@@ -65122,6 +65130,7 @@ igg
 igged
 igging
 iggs
+igloo
 iglus
 ignatia
 ignatias
@@ -65511,6 +65520,7 @@ immenser
 immensest
 immensities
 immensity
+immensurable
 immerge
 immerged
 immerse
@@ -66007,6 +66017,7 @@ importation
 importations
 imported
 importer
+importers
 importing
 imports
 importunate
@@ -68632,6 +68643,7 @@ intends
 intenerate
 intenerates
 intenerating
+inteneration
 intenerations
 intense
 intensely
@@ -78474,6 +78486,7 @@ magnesia
 magnesian
 magnesias
 magnesic
+magnesite
 magnesites
 magnesiums
 magnet
@@ -81051,6 +81064,7 @@ meoued
 meouing
 meous
 meow
+meowing
 meows
 meperidines
 mephitic
@@ -81415,6 +81429,7 @@ metalanguage
 metalanguages
 metalhead
 metaling
+metalinguistic
 metalinguistics
 metalised
 metalises
@@ -83895,6 +83910,7 @@ misthrown
 misthrows
 mistier
 mistiest
+mistily
 mistime
 mistimed
 mistimes
@@ -96285,6 +96301,7 @@ pagurians
 pagurids
 pah
 pahlavi
+pahlavis
 pahoehoe
 pahoehoes
 paid
@@ -97418,6 +97435,7 @@ parka
 parkade
 parkades
 parkas
+parked
 parkers
 parkette
 parkettes
@@ -99506,6 +99524,7 @@ perms
 permutation
 permutational
 permutations
+permute
 permuted
 permutes
 permuting
@@ -100160,6 +100179,7 @@ phenomenology
 phenomenon
 phenomenons
 phenothiazine
+phenotypic
 phenotypically
 phenoxide
 phenoxides
@@ -101239,6 +101259,7 @@ pilafs
 pilar
 pilasters
 pilau
+pilaus
 pilaw
 pilaws
 pilchards
@@ -101856,6 +101877,7 @@ pizazzy
 pizza
 pizzalike
 pizzas
+pizzaz
 pizzazes
 pizzazz
 pizzazzes
@@ -105960,6 +105982,7 @@ presort
 presorted
 presorting
 presorts
+prespecified
 prespecifies
 prespecify
 prespecifying
@@ -114483,6 +114506,7 @@ removabilities
 removability
 removable
 removableness
+removablenesses
 removably
 removal
 removals
@@ -116186,6 +116210,7 @@ retagging
 retags
 retail
 retailed
+retailers
 retailing
 retailings
 retailor
@@ -127371,6 +127396,7 @@ snooker
 snookered
 snookers
 snooking
+snooks
 snool
 snooled
 snooling
@@ -129368,6 +129394,7 @@ spikinesses
 spiking
 spiks
 spile
+spiled
 spiles
 spilikin
 spilikins
@@ -134098,6 +134125,7 @@ sulphurised
 sulphurising
 sulphurous
 sulphurs
+sulphury
 sultan
 sultana
 sultanas
@@ -134117,6 +134145,7 @@ sum
 sumac
 sumach
 sumachs
+sumacs
 sumless
 summabilities
 summable
@@ -135069,6 +135098,7 @@ surfside
 surfy
 surge
 surged
+surgeon
 surgeonfish
 surgeonfishes
 surgeons
@@ -135543,6 +135573,7 @@ sweetly
 sweetmeat
 sweetness
 sweets
+sweetshop
 sweetshops
 sweetsop
 sweetsops
@@ -137796,6 +137827,7 @@ telescoping
 telescopy
 teleses
 teleshop
+teleshopped
 teleshopping
 teleshops
 telesis
@@ -140028,6 +140060,7 @@ tinkering
 tinkers
 tinkertoy
 tinkle
+tinkled
 tinkler
 tinklers
 tinkles
@@ -152023,6 +152056,7 @@ watercraft
 watercrafts
 watercresses
 waterdog
+waterdogs
 watered
 waterer
 waterers
@@ -154489,6 +154523,7 @@ wort
 worth
 worthful
 worthies
+worthiest
 worthily
 worthiness
 worthinesses
