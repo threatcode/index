@@ -4927,6 +4927,7 @@ anonymousnesses
 anonyms
 anoopsia
 anoopsias
+anopheles
 anopheline
 anophelines
 anopia
@@ -7778,6 +7779,7 @@ assurable
 assurance
 assurances
 assure
+assured
 assuredly
 assuredness
 assurednesses
@@ -23493,6 +23495,7 @@ cinematically
 cinematize
 cinematized
 cinematograph
+cinematographic
 cinematographs
 cineol
 cineole
@@ -26818,6 +26821,7 @@ compulsions
 compulsive
 compulsiveness
 compulsivities
+compulsivity
 compulsorily
 compulsory
 compunction
@@ -27485,6 +27489,7 @@ congeals
 congee
 congeeing
 congees
+congelation
 congener
 congeneric
 congenerous
@@ -27652,6 +27657,7 @@ conjuration
 conjure
 conjured
 conjurer
+conjurers
 conjuring
 conjuror
 conjurors
@@ -34347,6 +34353,7 @@ deferentially
 deferents
 deferments
 deferrable
+deferrals
 deferred
 deferrer
 deferrers
@@ -36182,6 +36189,7 @@ destitutions
 destrier
 destriers
 destroy
+destroyed
 destroyer
 destroying
 destroys
@@ -37405,6 +37413,7 @@ dihedron
 dihybrids
 dihydric
 dikdik
+dikdiks
 diked
 diker
 dikers
@@ -44353,6 +44362,7 @@ engrafting
 engraftment
 engraftments
 engrafts
+engrail
 engrailed
 engrailing
 engrails
@@ -45145,6 +45155,7 @@ epicontinental
 epicotyl
 epicotyls
 epicrania
+epicranium
 epicritic
 epics
 epicure
@@ -49525,6 +49536,7 @@ fenagles
 fenagling
 fence
 fenced
+fenceless
 fencelessness
 fencelessnesses
 fencer
@@ -62036,6 +62048,7 @@ heptagonal
 heptagons
 heptameter
 heptameters
+heptane
 heptanes
 heptarch
 heptarchies
@@ -68745,6 +68758,7 @@ inquiringly
 inquiry
 inquisition
 inquisitional
+inquisitions
 inquisitive
 inquisitively
 inquisitiveness
@@ -78396,6 +78410,7 @@ lugworms
 lukewarm
 lukewarmly
 lukewarmness
+lukewarmnesses
 lull
 lullabied
 lullabies
@@ -79535,6 +79550,7 @@ malevolences
 malevolent
 malevolently
 malfeasance
+malfeasances
 malfed
 malformation
 malformations
@@ -80175,6 +80191,7 @@ marching
 marchioness
 marchland
 marchlands
+marchlike
 marchpane
 marchpanes
 marcs
@@ -80811,6 +80828,7 @@ matronymics
 mats
 matsah
 matsahs
+matsutake
 matsutakes
 matt
 matted
@@ -85189,6 +85207,7 @@ molybdous
 mom
 mome
 moment
+momenta
 momentariness
 momentarinesses
 momentary
@@ -93020,6 +93039,7 @@ operatively
 operativeness
 operativenesses
 operatives
+operator
 operatorless
 operators
 opercele
@@ -94590,6 +94610,7 @@ outmatch
 outmatched
 outmatches
 outmatching
+outmode
 outmoded
 outmodes
 outmoding
@@ -95678,6 +95699,7 @@ overemphasize
 overemphasized
 overemphasizes
 overemphasizing
+overemphatic
 overenamored
 overencourage
 overencouraged
@@ -102670,6 +102692,7 @@ pistoled
 pistoleer
 pistoleers
 pistoleros
+pistoles
 pistolier
 pistoliers
 pistoling
@@ -106505,6 +106528,7 @@ premolding
 premolds
 premolt
 premonish
+premonished
 premonishing
 premonition
 premonitions
@@ -107513,6 +107537,7 @@ prismoids
 prisms
 prison
 prisoned
+prisoner
 prisoners
 prisoning
 priss
@@ -109010,6 +109035,7 @@ pseudoscientist
 pseudoscorpion
 pseudoscorpions
 pseuds
+pshaw
 pshawed
 pshawing
 pshaws
@@ -112389,6 +112415,7 @@ rearticulating
 rearward
 rearwards
 reascend
+reascended
 reascending
 reascends
 reascent
@@ -113485,6 +113512,7 @@ redemands
 redemption
 redemptioner
 redemptioners
+redemptions
 redemptive
 redemptory
 redenied
@@ -115907,6 +115935,7 @@ repealers
 repealing
 repeals
 repeat
+repeatabilities
 repeatable
 repeated
 repeater
@@ -122283,6 +122312,7 @@ scintillations
 scintillator
 scintillators
 scintillometer
+scintillometers
 sciolism
 sciolisms
 sciolist
@@ -140559,6 +140589,7 @@ tholes
 tholing
 tholoi
 tholos
+thong
 thonged
 thongs
 thoracal
@@ -146677,6 +146708,7 @@ uncorks
 uncorrectable
 uncorrelated
 uncorroborated
+uncorrupt
 uncorseted
 uncos
 uncountable
@@ -147087,6 +147119,7 @@ undershoots
 undershorts
 undershot
 undershrub
+undershrubs
 underside
 undersides
 undersign
@@ -154159,6 +154192,7 @@ whackier
 whackiest
 whacking
 whacko
+whackos
 whacks
 whacky
 whale
@@ -156458,6 +156492,7 @@ yattered
 yattering
 yatters
 yaud
+yauds
 yauld
 yaup
 yauped
