@@ -3207,6 +3207,7 @@ allotetraploidy
 allotment
 allotments
 allotropes
+allotropic
 allotropies
 allotropy
 allotted
@@ -8355,6 +8356,7 @@ aught
 aughts
 augite
 augites
+augment
 augmentative
 augmentatives
 augmented
@@ -13583,6 +13585,7 @@ bizarrerie
 bizarreries
 bizarres
 bize
+bizes
 biznaga
 biznagas
 bizonal
@@ -16194,6 +16197,7 @@ bregmatic
 bremsstrahlung
 bremsstrahlungs
 bren
+brens
 brent
 brents
 brethren
@@ -20032,6 +20036,7 @@ carton
 cartoned
 cartons
 cartooned
+cartooning
 cartoonings
 cartoonish
 cartoonishly
@@ -22872,6 +22877,7 @@ chorales
 chorally
 chorals
 chord
+chordal
 chordamesoderm
 chordate
 chordates
@@ -30119,6 +30125,7 @@ coyer
 coyest
 coying
 coyish
+coyly
 coyness
 coyote
 coyotes
@@ -35525,6 +35532,7 @@ deprenyl
 deprenyls
 depress
 depressant
+depressants
 depresses
 depressible
 depressing
@@ -51023,6 +51031,7 @@ fleeting
 fleetingly
 fleetly
 fleetness
+fleetnesses
 flehmen
 flehmened
 flehmens
@@ -55485,6 +55494,7 @@ gemote
 gemotes
 gemots
 gems
+gemsboks
 gemstone
 gemstones
 gemutlich
@@ -56463,6 +56473,7 @@ glamourizes
 glamourizing
 glamourless
 glamours
+glance
 glanced
 glancer
 glancers
@@ -58342,6 +58353,7 @@ greyish
 greylag
 greylags
 greyly
+greyness
 greynesses
 greys
 gribble
@@ -59040,6 +59052,7 @@ guiltier
 guiltiest
 guiltily
 guiltinesses
+guiltless
 guiltlessly
 guiltlessness
 guiltlessnesses
@@ -60761,6 +60774,7 @@ hausfraus
 haustella
 haustoria
 haustorial
+haustorium
 haut
 hautbois
 hautboy
@@ -62098,6 +62112,7 @@ heterotopic
 heterotroph
 heterotrophies
 heterotrophs
+heterotypic
 heterozygoses
 heterozygosis
 heterozygote
@@ -74567,6 +74582,7 @@ lap
 laparoscope
 laparoscopes
 laparoscopies
+laparoscopists
 laparoscopy
 laparotomies
 laparotomy
@@ -76279,6 +76295,7 @@ lighthouse
 lighthouses
 lighting
 lightings
+lightish
 lightless
 lightly
 lightness
@@ -79285,6 +79302,7 @@ malmsey
 malmseys
 malmy
 malnourished
+malnutrition
 malnutritions
 malocclusion
 malocclusions
@@ -85261,6 +85279,7 @@ monorchidisms
 monorchids
 monorhymed
 monorhymes
+monos
 monosaccharide
 monosaccharides
 monosome
@@ -88780,6 +88799,7 @@ niggled
 niggler
 nigglers
 niggles
+nigglier
 niggliest
 niggling
 nigglingly
@@ -91865,6 +91885,7 @@ odea
 odeon
 odes
 odic
+odiferous
 odious
 odiously
 odiousness
@@ -106356,6 +106377,7 @@ prescored
 prescores
 prescoring
 prescreen
+prescreened
 prescreening
 prescreens
 prescribe
@@ -107865,6 +107887,7 @@ proportionally
 proportionals
 proportionate
 proportionates
+proportionating
 proportioned
 proportioning
 proportions
@@ -115304,6 +115327,7 @@ reorient
 reorientate
 reorientated
 reorientates
+reorientating
 reorientation
 reorientations
 reoriented
@@ -117587,6 +117611,7 @@ rewrote
 rex
 rexes
 rexines
+reynards
 rezero
 rezeroed
 rezeroes
@@ -120333,6 +120358,7 @@ samps
 samsara
 samsaras
 samshu
+samurais
 sanative
 sanatoria
 sanatorium
@@ -126571,12 +126597,14 @@ skied
 skier
 skiers
 skiff
+skiffle
 skiffled
 skiffless
 skiffling
 skiffs
 skiing
 skiings
+skijorer
 skijorers
 skijoring
 skijorings
@@ -127157,6 +127185,7 @@ slimy
 sling
 slingback
 slingbacks
+slinger
 slingers
 slinging
 slingshot
@@ -128163,6 +128192,7 @@ snowpacks
 snowplow
 snowplowed
 snowplowing
+snowplows
 snowscape
 snowscapes
 snowshed
@@ -130753,6 +130783,7 @@ spud
 spudded
 spudder
 spudders
+spuds
 spued
 spues
 spuing
@@ -136237,6 +136268,7 @@ sweeter
 sweetest
 sweetheart
 sweethearts
+sweetie
 sweeties
 sweeting
 sweetings
@@ -142410,6 +142442,7 @@ transfixing
 transfixion
 transfixions
 transform
+transformable
 transformation
 transformations
 transformed
@@ -153783,6 +153816,7 @@ whiplike
 whipped
 whipper
 whippers
+whippersnapper
 whippets
 whippier
 whippiest
@@ -155516,6 +155550,7 @@ wuthers
 wyandotte
 wyandottes
 wych
+wyches
 wye
 wyes
 wyle
