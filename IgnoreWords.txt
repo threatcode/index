@@ -4973,6 +4973,7 @@ ansated
 anserines
 answer
 answerable
+answered
 answerer
 answerers
 answering
@@ -7533,6 +7534,7 @@ aspersions
 aspersive
 aspersors
 asphalt
+asphalted
 asphaltic
 asphaltite
 asphaltites
@@ -9315,6 +9317,7 @@ bacillus
 bacitracin
 bacitracins
 back
+backaches
 backbeat
 backbeats
 backbench
@@ -13622,6 +13625,7 @@ bituminizing
 bituminous
 biunique
 biuniqueness
+biuniquenesses
 bivalence
 bivalences
 bivalencies
@@ -20091,6 +20095,7 @@ carryovers
 cars
 carse
 carses
+carsick
 cart
 cartable
 cartage
@@ -25544,6 +25549,7 @@ cohostessing
 cohosting
 cohosts
 cohousing
+cohousings
 cohune
 cohunes
 coif
@@ -26226,6 +26232,7 @@ comfortingly
 comfortless
 comforts
 comfrey
+comfreys
 comfy
 comic
 comical
@@ -26916,6 +26923,7 @@ concealed
 concealer
 concealers
 concealing
+concealingly
 concealment
 concealments
 conceals
@@ -38869,6 +38877,7 @@ displacer
 displaces
 displacing
 displant
+displanted
 displanting
 displants
 display
@@ -39604,6 +39613,7 @@ dizziest
 dizziness
 dizzinesses
 dizzy
+dizzying
 dizzyingly
 djebel
 djebels
@@ -39818,6 +39828,7 @@ doglegging
 doglegs
 doglike
 dogmas
+dogmata
 dogmatic
 dogmatics
 dogmatism
@@ -45658,6 +45669,7 @@ erects
 erelong
 eremite
 eremites
+eremitic
 eremitical
 eremitish
 eremitisms
@@ -51061,6 +51073,7 @@ flashtubes
 flashy
 flasket
 flaskets
+flasks
 flat
 flatbed
 flatbeds
@@ -56046,6 +56059,7 @@ geophagy
 geophone
 geophones
 geophysical
+geophysically
 geophysicist
 geophysicists
 geophysics
@@ -59267,6 +59281,7 @@ guggling
 guglet
 guglets
 guidable
+guidance
 guidances
 guide
 guidebook
@@ -62200,6 +62215,7 @@ hermeticism
 hermeticisms
 hermetisms
 hermetist
+hermetists
 hermit
 hermitage
 hermitages
@@ -64116,6 +64132,7 @@ housedresses
 housefather
 housefathers
 houseflies
+housefly
 housefronts
 houseful
 housefuls
@@ -65268,6 +65285,7 @@ hypnotherapist
 hypnotherapists
 hypnotherapy
 hypnotic
+hypnotically
 hypnotics
 hypnotism
 hypnotisms
@@ -71268,6 +71286,7 @@ itinerate
 itinerated
 itinerates
 itinerating
+itineration
 itinerations
 its
 itself
@@ -71844,6 +71863,7 @@ jetsams
 jetsom
 jetsoms
 jetstream
+jetstreams
 jetted
 jettied
 jettier
@@ -75744,6 +75764,7 @@ lefty
 leg
 legacies
 legacy
+legalese
 legaleses
 legalise
 legalises
@@ -78947,6 +78968,7 @@ maccoboys
 mace
 maced
 macedoine
+macedoines
 macer
 macerate
 macerated
@@ -94495,6 +94517,7 @@ outgrowths
 outguess
 outguesses
 outguessing
+outguide
 outguided
 outguides
 outguiding
@@ -95320,6 +95343,7 @@ overachieve
 overachieved
 overachiever
 overachievers
+overachieves
 overachieving
 overact
 overacted
@@ -95491,6 +95515,7 @@ overcast
 overcasted
 overcastings
 overcasts
+overcaution
 overcautions
 overcautious
 overcentralize
@@ -103064,6 +103089,7 @@ plangent
 plangently
 planimeter
 planimeters
+planimetrically
 planing
 planish
 planished
@@ -105806,6 +105832,7 @@ prebiologic
 prebiological
 prebiotic
 prebirth
+prebirths
 prebless
 preblessed
 preblesses
@@ -107765,6 +107792,7 @@ proclaims
 proclamation
 proclamations
 proclises
+proclisis
 proclitic
 proclitics
 proclivities
@@ -114818,6 +114846,7 @@ reimagine
 reimagined
 reimagines
 reimaging
+reimagining
 reimbursable
 reimburse
 reimbursed
@@ -123595,6 +123624,7 @@ seigneurs
 seigneury
 seignior
 seigniorage
+seigniorages
 seigniories
 seigniory
 seignorage
@@ -125644,6 +125674,7 @@ shlock
 shlockier
 shlockiest
 shlocks
+shlocky
 shlub
 shlubs
 shlump
@@ -126174,6 +126205,7 @@ sialids
 sialoid
 siamang
 siamangs
+siamese
 siameses
 sib
 sibb
@@ -131096,6 +131128,7 @@ spoofed
 spoofer
 spoofers
 spoofery
+spoofs
 spooked
 spookeries
 spookier
@@ -144099,6 +144132,7 @@ trioxide
 trioxides
 trioxids
 trip
+tripack
 tripacks
 tripart
 tripe
@@ -149393,6 +149427,7 @@ unununium
 unununiums
 unurged
 unusable
+unused
 unusual
 unusually
 unusualness
