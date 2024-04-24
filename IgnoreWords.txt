@@ -2693,6 +2693,7 @@ albumin
 albuminous
 albumins
 albuminuria
+albuminurias
 albuminuric
 albumoses
 albums
@@ -4251,6 +4252,7 @@ analyzable
 analyzation
 analyzations
 analyze
+analyzed
 analyzer
 analyzers
 analyzes
@@ -7586,6 +7588,7 @@ assaultive
 assaultively
 assaultiveness
 assaults
+assay
 assayed
 assayer
 assaying
@@ -9438,6 +9441,7 @@ backslap
 backslapped
 backslapping
 backslaps
+backslashes
 backslid
 backslidden
 backslide
@@ -15512,6 +15516,7 @@ bourbons
 bourdon
 bourdons
 bourgeois
+bourgeoise
 bourgeoises
 bourgeoisie
 bourgeoisies
@@ -23496,6 +23501,7 @@ circularities
 circularity
 circularize
 circularized
+circularizes
 circularizing
 circularly
 circularness
@@ -23817,6 +23823,7 @@ clamors
 clamour
 clamoured
 clamouring
+clamours
 clamp
 clampdown
 clampdowns
@@ -26418,6 +26425,7 @@ companionships
 companionway
 company
 companying
+comparabilities
 comparability
 comparable
 comparableness
@@ -27190,6 +27198,7 @@ confectioner
 confectioneries
 confectioners
 confectionery
+confections
 confects
 confederacies
 confederacy
@@ -31016,6 +31025,7 @@ crosier
 crosiers
 cross
 crossability
+crossable
 crossarm
 crossarms
 crossbanded
@@ -33846,6 +33856,7 @@ decolletage
 decolletages
 decollete
 decolonization
+decolonizations
 decolonize
 decolonized
 decolonizes
@@ -36999,6 +37010,7 @@ dictional
 dictionally
 dictionaries
 dictionary
+dictions
 dictum
 dictums
 dictyosome
@@ -39552,6 +39564,7 @@ doddery
 dodecagon
 dodecagons
 dodecahedra
+dodecahedron
 dodecaphonic
 dodecaphonies
 dodecaphony
@@ -45041,6 +45054,7 @@ epigastric
 epigeal
 epigean
 epigeic
+epigene
 epigeneses
 epigenesis
 epigenetically
@@ -51076,6 +51090,7 @@ flemished
 flemishes
 flemishing
 flench
+flenched
 flenches
 flense
 flensed
@@ -51469,6 +51484,7 @@ flowcharts
 flowed
 flower
 flowerage
+flowerages
 flowered
 flowerer
 flowerers
@@ -52259,6 +52275,7 @@ forearming
 forearms
 forebay
 forebays
+forebear
 forebears
 forebode
 foreboder
@@ -53436,6 +53453,7 @@ frigging
 fright
 frighten
 frightened
+frightening
 frighteningly
 frightens
 frightful
@@ -68934,6 +68952,7 @@ insure
 insured
 insureds
 insurer
+insures
 insurgence
 insurgences
 insurgencies
@@ -75413,6 +75432,7 @@ leeboard
 leeboards
 leech
 leeched
+leeches
 leechlike
 leek
 leeks
@@ -75802,6 +75822,7 @@ lessoned
 lessoning
 lessons
 lessor
+lessors
 lest
 let
 letch
@@ -82253,6 +82274,7 @@ mezzanine
 mezzanines
 mezzo
 mezzos
+mezzotint
 mezzotinted
 mezzotinting
 mezzotints
@@ -86446,6 +86468,7 @@ multicopy
 multicounty
 multicourse
 multicurie
+multiday
 multidialectal
 multidisc
 multidiscipline
@@ -96372,6 +96395,7 @@ overwore
 overwork
 overworked
 overworking
+overworks
 overworn
 overwound
 overwrites
@@ -96766,6 +96790,7 @@ padlocking
 padlocks
 padnag
 padnags
+padouk
 padouks
 padres
 padrone
@@ -104518,6 +104543,7 @@ posable
 posada
 posadas
 pose
+posed
 posers
 poses
 poseur
@@ -117090,6 +117116,7 @@ retotalled
 retotalling
 retouch
 retouched
+retoucher
 retouchers
 retouches
 retouching
@@ -118062,6 +118089,7 @@ ridgetop
 ridgier
 ridgiest
 ridgil
+ridgils
 ridging
 ridgling
 ridglings
@@ -121899,6 +121927,7 @@ scleromata
 sclerometer
 sclerometers
 scleroprotein
+sclerosal
 sclerose
 sclerosed
 scleroses
@@ -124068,6 +124097,7 @@ sesquipedalian
 sesquiterpene
 sessile
 sessilities
+sessility
 session
 sessional
 sessions
@@ -125366,6 +125396,7 @@ shovelers
 shovelful
 shovelfuls
 shoveling
+shovelled
 shoveller
 shovellers
 shovelling
@@ -127977,6 +128008,7 @@ sneakingly
 sneaky
 sneap
 sneaped
+sneaping
 sneaps
 sneck
 snecks
@@ -132982,6 +133014,7 @@ streamlined
 streamliner
 streamliners
 streamlines
+streams
 streamside
 streamsides
 streamy
@@ -133407,6 +133440,7 @@ stuffy
 stuiver
 stuivers
 stull
+stulls
 stultification
 stultifications
 stultified
@@ -139922,6 +139956,7 @@ thickly
 thickness
 thicknesses
 thicksets
+thief
 thieved
 thieveries
 thievery
