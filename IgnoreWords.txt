@@ -2079,6 +2079,7 @@ agee
 ageings
 ageism
 ageisms
+ageist
 ageless
 agelessly
 agelessness
@@ -3136,6 +3137,7 @@ alliterate
 alliterated
 alliterates
 alliterating
+alliteration
 alliterations
 alliterative
 allium
@@ -9680,6 +9682,7 @@ bailiffships
 bailiwick
 bailiwicks
 bailment
+bailments
 bailor
 bailors
 bailout
@@ -13276,6 +13279,7 @@ biostratigraphy
 biostrome
 biostromes
 biosyntheses
+biosynthesis
 biosynthetic
 biosystematic
 biosystematics
@@ -19154,6 +19158,7 @@ cantering
 canters
 canthal
 cantharides
+cantharidin
 cantharidins
 cantharis
 canthaxanthin
@@ -19322,6 +19327,7 @@ capitols
 capitula
 capitular
 capitularies
+capitulary
 capitulate
 capitulated
 capitulating
@@ -20638,6 +20644,7 @@ cattiness
 cattishly
 cattle
 cattlemen
+cattleya
 cattleyas
 catty
 catwalk
@@ -25005,6 +25012,7 @@ cockeye
 cockeyed
 cockeyedly
 cockeyedness
+cockeyes
 cockfight
 cockfighting
 cockfightings
@@ -25068,6 +25076,7 @@ cocobolos
 cocomat
 cocomats
 cocomposer
+cocomposers
 coconspirator
 coconspirators
 coconuts
@@ -29509,6 +29518,7 @@ cotillions
 cotillon
 cotillons
 coting
+cotinga
 cotingas
 cotinine
 cotinines
@@ -30475,6 +30485,7 @@ cravats
 crave
 craved
 craven
+cravened
 cravening
 cravenly
 cravenness
@@ -43593,6 +43604,7 @@ empowerment
 empowerments
 empowers
 empressement
+empressements
 empresses
 emprise
 emprises
@@ -54465,6 +54477,7 @@ gabbiness
 gabbinesses
 gabbing
 gabble
+gabbled
 gabbler
 gabblers
 gabbles
@@ -58475,6 +58488,7 @@ greeting
 greetings
 gregarine
 gregarines
+gregarious
 grego
 gregos
 greige
@@ -71638,6 +71652,7 @@ jerkies
 jerkiest
 jerkily
 jerkin
+jerkiness
 jerkinesses
 jerking
 jerkingly
@@ -72325,6 +72340,7 @@ jumpingly
 jumpoff
 jumpoffs
 jumps
+jumpsuit
 jumpsuits
 jumpy
 jun
@@ -75430,6 +75446,7 @@ lealty
 lean
 leaned
 leaners
+leanest
 leanings
 leanly
 leanness
@@ -81336,6 +81353,7 @@ melancholiac
 melancholiacs
 melancholias
 melancholic
+melancholics
 melancholies
 melange
 melanian
@@ -85226,6 +85244,7 @@ mongrels
 monickers
 monie
 monies
+moniker
 monikers
 moniliases
 moniliasis
@@ -89353,6 +89372,7 @@ noctule
 noctules
 noctuoid
 nocturn
+nocturnal
 nocturnally
 nocturne
 nocturnes
@@ -96529,6 +96549,7 @@ overwarms
 overwary
 overwatch
 overwatched
+overwatches
 overwatching
 overwatered
 overwatering
@@ -99490,6 +99511,7 @@ pemmican
 pemoline
 pemphigus
 pemphiguses
+pemphix
 pemphixes
 pen
 penal
@@ -100711,6 +100733,7 @@ petrologists
 petrology
 petrols
 petronel
+petronels
 petrosal
 petrous
 petsais
@@ -108671,6 +108694,7 @@ provincialists
 provincialities
 provinciality
 provincialize
+provincialized
 provincializes
 provincializing
 provincially
@@ -112904,6 +112928,7 @@ reconcentrates
 reconcentrating
 reconception
 reconceptions
+reconcilability
 reconcilable
 reconcile
 reconciled
@@ -117337,6 +117362,7 @@ retorter
 retorters
 retorting
 retortion
+retortions
 retorts
 retotal
 retotaled
@@ -123860,6 +123886,7 @@ sensiblenesses
 sensibler
 sensibles
 sensiblest
+sensibly
 sensilla
 sensillae
 sensillum
@@ -126375,6 +126402,7 @@ silviculture
 silvicultures
 silviculturist
 silviculturists
+sim
 sima
 simar
 simars
@@ -132270,6 +132298,7 @@ stepfather
 stepfathers
 stephanotis
 stephanotises
+stepladder
 stepladders
 steplike
 stepmother
@@ -137771,6 +137800,7 @@ talebearings
 taleggio
 taleggios
 talented
+talentless
 taler
 talers
 tales
@@ -143524,6 +143554,7 @@ trichocysts
 trichogyne
 trichoid
 trichologies
+trichologists
 trichology
 trichome
 trichomes
@@ -147921,6 +147952,7 @@ unleashed
 unleashes
 unleashing
 unleavened
+unled
 unlethal
 unlettered
 unlevel
@@ -150243,6 +150275,7 @@ valutas
 valval
 valve
 valved
+valveless
 valvelet
 valvelets
 valvelike
@@ -152817,6 +152850,7 @@ wallflower
 wallflowers
 wallies
 walling
+wallop
 walloped
 walloper
 wallopers
@@ -153055,6 +153089,7 @@ warragal
 warragals
 warrant
 warrantableness
+warrantably
 warranted
 warrantee
 warrantees
