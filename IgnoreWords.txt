@@ -1301,6 +1301,7 @@ adman
 admasses
 admeasure
 admeasured
+admeasurement
 admeasurements
 admeasures
 admeasuring
@@ -2501,6 +2502,7 @@ airline
 airliner
 airliners
 airlines
+airmailed
 airmailing
 airmails
 airman
@@ -2843,6 +2845,7 @@ algicides
 algid
 algidity
 algidness
+algin
 alginate
 alginates
 algins
@@ -9570,6 +9573,7 @@ badmen
 badminton
 badmintons
 badmouth
+badmouthed
 badmouthing
 badness
 badnesses
@@ -12074,6 +12078,7 @@ berdache
 berdaches
 bereave
 bereavement
+bereavements
 bereaver
 bereavers
 bereaves
@@ -13376,6 +13381,7 @@ biremes
 biretta
 birettas
 birianis
+birk
 birkie
 birkies
 birks
@@ -17396,6 +17402,7 @@ burbled
 burbler
 burblers
 burbles
+burblier
 burbliest
 burbling
 burbly
@@ -18712,6 +18719,7 @@ camorra
 camorras
 camorrist
 camorrista
+camorristi
 camorrists
 camos
 camouflage
@@ -20497,6 +20505,7 @@ cathepsins
 catheptic
 catheter
 catheterization
+catheterize
 catheterized
 catheterizes
 catheterizing
@@ -21854,6 +21863,7 @@ chatelaine
 chatelaines
 chatoyance
 chatoyances
+chatoyancies
 chatoyancy
 chatoyants
 chatroom
@@ -24732,6 +24742,7 @@ coassisted
 coassisting
 coassists
 coassume
+coassumed
 coassumes
 coassuming
 coast
@@ -27463,6 +27474,7 @@ conin
 conine
 conines
 coning
+conins
 conioses
 coniosis
 conium
@@ -29632,6 +29644,7 @@ countering
 counterinstance
 counterion
 counterions
+counterirritant
 counterman
 countermand
 countermanded
@@ -33456,6 +33469,7 @@ debts
 debug
 debugged
 debuggers
+debugging
 debugs
 debunk
 debunked
@@ -35700,6 +35714,7 @@ desacralizing
 desalinate
 desalinated
 desalinates
+desalinating
 desalination
 desalinations
 desalinator
@@ -37383,6 +37398,7 @@ dimplier
 dimpliest
 dimply
 dims
+dimwit
 dimwits
 dimwitted
 din
@@ -38748,6 +38764,7 @@ disputing
 disqualified
 disqualify
 disqualifying
+disquantitied
 disquantities
 disquantity
 disquiet
@@ -46962,6 +46979,7 @@ exfoliates
 exfoliating
 exfoliation
 exfoliations
+exfoliative
 exhalant
 exhalants
 exhalation
@@ -50160,6 +50178,7 @@ fineable
 fined
 finely
 fineness
+finenesses
 finer
 fineries
 finery
@@ -50896,6 +50915,7 @@ flavins
 flavone
 flavones
 flavonoid
+flavonoids
 flavoprotein
 flavoproteins
 flavor
@@ -59735,6 +59755,7 @@ hairlessnesses
 hairlike
 hairline
 hairlines
+hairlock
 hairlocks
 hairnet
 hairnets
@@ -61484,6 +61505,7 @@ helplessly
 helplessness
 helplessnesses
 helpmate
+helpmates
 helpmeet
 helpmeets
 helps
@@ -66378,6 +66400,7 @@ impoverishing
 impoverishment
 impoverishments
 impower
+impowered
 impowering
 impracticable
 impracticably
@@ -66635,6 +66658,7 @@ inarch
 inarched
 inarches
 inarching
+inarguable
 inarguably
 inarm
 inarmed
@@ -72742,6 +72766,7 @@ kermises
 kern
 kerne
 kerned
+kernel
 kerneled
 kerneling
 kernelling
@@ -81437,6 +81462,7 @@ meow
 meowed
 meowing
 meows
+meperidine
 meperidines
 mephitic
 mephitis
@@ -93166,6 +93192,7 @@ orphaned
 orphanhoods
 orphaning
 orphans
+orphic
 orphically
 orphisms
 orphrey
@@ -96001,6 +96028,7 @@ overspills
 overspilt
 overspin
 overspins
+overspread
 overspreading
 overspreads
 overstabilities
@@ -105812,6 +105840,7 @@ prefunds
 pregame
 pregames
 preganglionic
+pregenital
 pregnabilities
 pregnability
 pregnable
@@ -114623,6 +114652,7 @@ released
 releaser
 releasers
 releasing
+relegable
 relegate
 relegates
 relegating
@@ -126343,6 +126373,7 @@ sixteenths
 sixtes
 sixthly
 sixths
+sixties
 sixtieth
 sixtieths
 sixty
@@ -127039,6 +127070,7 @@ slenderized
 slenderizing
 slenderly
 slenderness
+slept
 sleuth
 sleuthhound
 sleuthhounds
@@ -127582,6 +127614,7 @@ smirked
 smirker
 smirkier
 smirkiest
+smirkily
 smirking
 smirks
 smirky
@@ -128455,6 +128488,7 @@ sojourns
 soke
 sokes
 sokol
+sokols
 sol
 sola
 solace
@@ -148580,6 +148614,7 @@ untrim
 untrimmed
 untrimming
 untrims
+untrod
 untrodden
 untroubled
 untruer
