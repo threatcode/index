@@ -1834,6 +1834,7 @@ affability
 affable
 affably
 affair
+affaire
 affairs
 affect
 affectabilities
@@ -7258,6 +7259,7 @@ arthropods
 arthroscope
 arthroscopes
 arthroscopic
+arthroscopies
 arthroscopy
 arthroses
 arthrosis
@@ -8294,6 +8296,7 @@ attritted
 attritting
 attuned
 attunement
+attunements
 attunes
 attuning
 atwain
@@ -14485,6 +14488,7 @@ bluish
 bluishness
 bluishnesses
 blume
+blumed
 blumes
 bluming
 blunder
@@ -19871,6 +19875,7 @@ carillon
 carillonned
 carillonneur
 carillonneurs
+carillonning
 carillons
 carina
 carinae
@@ -24613,6 +24618,7 @@ clouded
 cloudier
 cloudiest
 cloudily
+cloudiness
 cloudinesses
 clouding
 cloudland
@@ -28122,6 +28128,7 @@ contained
 container
 containerboard
 containerboards
+containerise
 containerised
 containerises
 containerising
@@ -32357,6 +32364,7 @@ cutlet
 cutlets
 cutline
 cutlines
+cutoff
 cutoffs
 cutout
 cutouts
@@ -39720,6 +39728,7 @@ dockmasters
 docks
 dockside
 docksides
+dockworker
 dockworkers
 dockyard
 dockyards
@@ -42900,6 +42909,7 @@ electees
 election
 electioneer
 electioneered
+electioneerer
 electioneerers
 electioneering
 elections
@@ -44885,6 +44895,7 @@ entices
 entire
 entirely
 entireness
+entirenesses
 entires
 entireties
 entirety
@@ -46836,6 +46847,7 @@ eviscerates
 eviscerating
 evisceration
 eviscerations
+evite
 evited
 evites
 eviting
@@ -49328,6 +49340,7 @@ featherstitched
 featherstitches
 featherweight
 featherweights
+feathery
 featlier
 featliest
 featly
@@ -53568,6 +53581,7 @@ freightage
 freightages
 freighted
 freighter
+freighting
 freights
 fremd
 fremitus
@@ -55781,6 +55795,7 @@ gellant
 gellants
 gelled
 gelling
+gels
 gelsemia
 gelsemium
 gelsemiums
@@ -58963,6 +58978,7 @@ grosgrain
 grosgrains
 gross
 grosser
+grosses
 grossest
 grossing
 grossly
@@ -60671,6 +60687,7 @@ haphtarahs
 haphtaras
 haphtarot
 hapkido
+hapkidos
 hapless
 haplessly
 haplessness
@@ -65184,6 +65201,7 @@ hypergols
 hyperhidroses
 hyperhidrosis
 hyperimmune
+hyperimmunize
 hyperimmunized
 hyperimmunizing
 hyperinflation
@@ -69524,6 +69542,7 @@ interclan
 interclass
 interclub
 intercluster
+intercoastal
 intercollegiate
 intercolonial
 intercom
@@ -69750,6 +69769,7 @@ interlends
 interlent
 interleukin
 interlibrary
+interline
 interlinear
 interlinearly
 interlinears
@@ -101402,6 +101422,7 @@ phimosis
 phiz
 phizes
 phlebitic
+phlebitides
 phlebitis
 phlebitises
 phlebograms
@@ -105158,6 +105179,7 @@ postaccident
 postadolescent
 postage
 postages
+postal
 postally
 postals
 postamputation
@@ -110473,6 +110495,7 @@ quadrangular
 quadrans
 quadrant
 quadrantal
+quadrantes
 quadrants
 quadraphonic
 quadraphonics
@@ -117622,6 +117645,7 @@ retexturing
 rethink
 rethinker
 rethinkers
+rethinking
 rethinks
 rethought
 rethread
@@ -119111,6 +119135,7 @@ rivals
 rive
 rived
 riven
+riverbank
 riverbanks
 riverbed
 riverbeds
@@ -119882,6 +119907,7 @@ roux
 rove
 roved
 roven
+rover
 rovers
 roving
 rovingly
@@ -120584,6 +120610,7 @@ sacs
 saddened
 saddening
 saddens
+sadder
 saddest
 saddhu
 saddhus
@@ -124396,6 +124423,7 @@ sepals
 separabilities
 separability
 separable
+separablenesses
 separably
 separate
 separated
@@ -135971,6 +135999,7 @@ supercities
 supercity
 supercivilized
 superclasses
+superclean
 superclub
 superclubs
 supercluster
@@ -137347,6 +137376,7 @@ swoun
 swound
 swounded
 swounding
+swounds
 swouned
 swouning
 swouns
@@ -139898,6 +139928,7 @@ terminableness
 terminably
 terminal
 terminally
+terminals
 terminate
 terminated
 terminates
@@ -141058,6 +141089,7 @@ throbs
 throe
 throes
 thrombi
+thrombin
 thrombins
 thrombocytes
 thrombocytic
@@ -141230,6 +141262,7 @@ thwartwise
 thy
 thylacine
 thylacines
+thylakoid
 thylakoids
 thymectomies
 thymectomize
@@ -151418,6 +151451,7 @@ venturer
 venturers
 ventures
 venturesome
+venturesomely
 venturesomeness
 venturi
 venturing
@@ -156912,6 +156946,7 @@ yep
 yeps
 yerba
 yerbas
+yerk
 yerked
 yerking
 yerks
