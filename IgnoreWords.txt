@@ -2553,6 +2553,7 @@ airscrews
 airshed
 airsheds
 airships
+airshots
 airshow
 airshows
 airsick
@@ -4704,6 +4705,7 @@ animadverting
 animadverts
 animal
 animalcula
+animalcule
 animalcules
 animalculum
 animalian
@@ -5949,6 +5951,7 @@ aphorised
 aphorises
 aphorising
 aphorism
+aphorisms
 aphorist
 aphoristic
 aphoristically
@@ -13164,6 +13167,7 @@ bioavailable
 biocenose
 biocenoses
 biocenosis
+biochemic
 biochemical
 biochemically
 biochemicals
@@ -15149,6 +15153,7 @@ booing
 boojums
 book
 bookable
+bookbinder
 bookbinderies
 bookbinders
 bookbindery
@@ -18179,6 +18184,7 @@ cabinets
 cabinetwork
 cabinetworks
 cabining
+cabinmates
 cabins
 cable
 cablecast
@@ -28025,6 +28031,7 @@ consonants
 consort
 consorted
 consortia
+consorting
 consortium
 consortiums
 consorts
@@ -31130,6 +31137,7 @@ crispiness
 crispinesses
 crisping
 crisply
+crispness
 crispnesses
 crispy
 crissa
@@ -48555,6 +48563,7 @@ factor
 factorable
 factorage
 factorages
+factored
 factorials
 factories
 factoring
@@ -52775,6 +52784,7 @@ forelands
 foreleg
 forelegs
 forelimb
+forelimbs
 forelock
 forelocked
 forelocking
@@ -52865,6 +52875,7 @@ foresight
 foresighted
 foresightedly
 foresightedness
+foresights
 foreskin
 foreskins
 forespeak
@@ -54304,6 +54315,7 @@ fulcra
 fulcrum
 fulcrums
 fulfil
+fulfill
 fulfilled
 fulfiller
 fulfillers
@@ -60360,6 +60372,7 @@ halavah
 halavahs
 halazone
 halazones
+halberd
 halberds
 halbert
 halberts
@@ -64423,6 +64436,7 @@ houselling
 housels
 housemaid
 housemaids
+houseman
 housemaster
 housemasters
 housemates
@@ -66081,6 +66095,7 @@ ignoblenesses
 ignobly
 ignominies
 ignominious
+ignominiously
 ignominiousness
 ignominy
 ignorable
@@ -72978,6 +72993,7 @@ kae
 kaes
 kaf
 kaffeeklatsch
+kaffeeklatsches
 kaffir
 kaffiyah
 kaffiyahs
@@ -74705,6 +74721,7 @@ laconisms
 lacquer
 lacquerer
 lacquerers
+lacquering
 lacquerwork
 lacquerworks
 lacquey
@@ -78765,6 +78782,7 @@ ludicrousness
 ludicrousnesses
 lues
 luetic
+luetics
 luff
 luffa
 luffas
@@ -80248,6 +80266,7 @@ manges
 mangey
 mangier
 mangiest
+mangily
 manginess
 manginesses
 mangled
@@ -83323,6 +83342,7 @@ middays
 middens
 middies
 middle
+middlebrow
 middlebrows
 middled
 middleman
@@ -85614,6 +85634,7 @@ momentarinesses
 momentary
 momently
 momento
+momentoes
 momentos
 momentous
 momentously
@@ -90492,6 +90513,7 @@ nonelect
 nonelected
 nonelection
 nonelections
+nonelective
 nonelectrical
 nonelectrolyte
 nonelectrolytes
@@ -103783,6 +103805,7 @@ playmakings
 playmate
 playmates
 playoffs
+playpen
 playpens
 playroom
 plays
@@ -106833,6 +106856,7 @@ preheaters
 preheating
 preheats
 prehensile
+prehensilities
 prehensility
 prehension
 prehensions
@@ -110540,6 +110564,7 @@ pyelogram
 pyelograms
 pyelonephritic
 pyelonephritis
+pyemic
 pygidia
 pygidial
 pygidium
@@ -111920,6 +111945,7 @@ raincoat
 raincoats
 raindrop
 raindrops
+rained
 rainfall
 rainfalls
 rainier
@@ -113100,6 +113126,7 @@ rebind
 rebinding
 rebinds
 rebirth
+reblend
 reblended
 reblending
 reblends
@@ -121397,6 +121424,7 @@ salvo
 salvoed
 salvoes
 salvoing
+salvor
 samadhi
 samadhis
 samara
@@ -125264,6 +125292,7 @@ sextain
 sextains
 sextans
 sextant
+sextants
 sextarii
 sextarius
 sextet
@@ -127095,6 +127124,7 @@ silkier
 silkies
 silkiest
 silkily
+silkiness
 silkinesses
 silking
 silkoline
@@ -127579,6 +127609,7 @@ sizzled
 sizzler
 sizzlers
 sizzles
+sizzling
 sjamboked
 sjamboking
 sjamboks
@@ -138381,6 +138412,7 @@ tabulis
 tabun
 tabuns
 tabus
+tacamahac
 tacamahacs
 tace
 taces
@@ -144932,6 +144964,7 @@ trodden
 trode
 troffer
 troffers
+trog
 troglodyte
 troglodytes
 troglodytic
@@ -145306,6 +145339,7 @@ trypanosomes
 trypanosomiases
 trypanosomiasis
 trypsin
+trypsinogen
 trypsinogens
 tryptamine
 tryptamines
@@ -148684,6 +148718,7 @@ unisexes
 unisexual
 unisexualities
 unisexuality
+unisize
 unisonant
 unisonous
 unissued
