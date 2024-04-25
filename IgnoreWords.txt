@@ -2150,6 +2150,7 @@ agglutinations
 agglutinative
 agglutinins
 agglutinogen
+agglutinogenic
 agglutinogens
 aggradation
 aggradations
@@ -2438,6 +2439,7 @@ aimful
 aimfully
 aiming
 aimless
+aimlessness
 aimlessnesses
 aims
 ain
@@ -25034,6 +25036,7 @@ cochairperson
 cochairpersons
 cochairs
 cochairwoman
+cochairwomen
 cochampion
 cochampions
 cochineal
@@ -28789,6 +28792,7 @@ coppice
 coppices
 coppicing
 copping
+coppra
 coppras
 copra
 coprah
@@ -29220,6 +29224,7 @@ corporealnesses
 corporeities
 corporeity
 corposant
+corposants
 corps
 corpse
 corpses
@@ -30251,6 +30256,7 @@ cowpat
 cowpats
 cowpea
 cowpeas
+cowpie
 cowpies
 cowplop
 cowplops
@@ -31841,6 +31847,7 @@ cumberbund
 cumberbunds
 cumbered
 cumberer
+cumberers
 cumbering
 cumbers
 cumbersome
@@ -32519,6 +32526,7 @@ cyclohexanones
 cycloheximide
 cyclohexylamine
 cycloid
+cycloidal
 cycloids
 cyclometer
 cyclometers
@@ -32661,6 +32669,7 @@ cysticercus
 cystine
 cystines
 cystinuria
+cystinurias
 cystitides
 cystocarp
 cystocarps
@@ -39725,6 +39734,7 @@ doctrinal
 doctrine
 doctrines
 docudrama
+docudramas
 document
 documentable
 documental
@@ -40171,6 +40181,7 @@ doorman
 doormat
 doormen
 doornail
+doornails
 doorplate
 doorplates
 doorpost
@@ -43732,6 +43743,7 @@ emptiable
 emptied
 emptier
 emptiers
+empties
 emptiest
 emptily
 emptiness
@@ -58164,6 +58176,7 @@ grandifloras
 grandiloquence
 grandiloquences
 grandiloquent
+grandiloquently
 grandiose
 grandiosely
 grandioseness
@@ -59984,6 +59997,7 @@ haftaras
 haftaroth
 hafted
 hafter
+hafting
 haftorah
 haftorahs
 haftoros
@@ -60878,6 +60892,7 @@ harmonized
 harmonizer
 harmonizers
 harmonizes
+harmonizing
 harmony
 harms
 harness
@@ -61747,6 +61762,7 @@ heliolatrous
 heliolatry
 heliometer
 heliometers
+heliometric
 heliometrically
 helios
 heliosphere
@@ -62667,6 +62683,7 @@ highfliers
 highflyers
 highjack
 highjacked
+highjacks
 highland
 highlander
 highlands
@@ -62776,6 +62793,7 @@ hinders
 hindguts
 hindmost
 hindquarter
+hindquarters
 hindrance
 hindrances
 hinds
@@ -63249,6 +63267,7 @@ hollowwares
 holly
 hollyhock
 hollyhocks
+holm
 holms
 holoblastic
 holocausts
@@ -72542,6 +72561,7 @@ jumpsuit
 jumpsuits
 jumpy
 jun
+junco
 juncoes
 juncos
 junction
@@ -93631,6 +93651,7 @@ oriflamme
 oriflammes
 origami
 origamis
+origan
 origans
 origanums
 origin
@@ -97855,6 +97876,7 @@ panners
 pannes
 pannier
 panniered
+pannikins
 panning
 panocha
 panochas
@@ -101775,6 +101797,7 @@ phrasemongering
 phrasemongers
 phraseological
 phraseologies
+phraseologist
 phraseologists
 phraseology
 phrases
@@ -107747,6 +107770,7 @@ privileging
 privily
 privities
 privity
+privy
 prize
 prized
 prizefight
@@ -109747,6 +109771,7 @@ punily
 puniness
 puninesses
 punish
+punishabilities
 punishability
 punishable
 punished
@@ -113048,6 +113073,7 @@ recitation
 recitations
 recitative
 recitatives
+recitativi
 recitativos
 recite
 recited
@@ -114753,6 +114779,7 @@ regressor
 regressors
 regretful
 regretfully
+regretfulness
 regretfulnesses
 regrets
 regrettable
@@ -119096,6 +119123,7 @@ riyal
 riyals
 roach
 roached
+roaching
 road
 roadabilities
 roadability
@@ -120323,6 +120351,7 @@ rutherfordium
 rutherfordiums
 ruthful
 ruthfully
+ruthfulness
 ruthfulnesses
 ruthless
 ruthlessness
@@ -131391,6 +131420,7 @@ spraining
 sprains
 sprang
 sprat
+sprats
 sprattle
 sprattled
 sprattles
@@ -132277,6 +132307,7 @@ startup
 startups
 starvation
 starvations
+starve
 starved
 starvelings
 starvers
@@ -139293,6 +139324,7 @@ teleost
 teleostean
 teleosts
 telepath
+telepathic
 telepathically
 telepathies
 telepaths
@@ -147817,6 +147849,7 @@ unfrivolous
 unfrock
 unfrocked
 unfrocking
+unfrocks
 unfroze
 unfrozen
 unfruitful
@@ -149679,6 +149712,7 @@ unyeaned
 unyielding
 unyieldingly
 unyoke
+unyokes
 unyoking
 unyoung
 unzip
@@ -155444,6 +155478,7 @@ wintles
 wintling
 wintrier
 wintriest
+wintrily
 wintriness
 wintrinesses
 wintry
