@@ -1868,6 +1868,7 @@ affiance
 affianced
 affiancing
 affiant
+affiants
 affiche
 affiches
 afficionados
@@ -2983,6 +2984,7 @@ alive
 alivenesses
 aliya
 aliyahs
+aliyas
 aliyos
 aliyot
 alizarin
@@ -8978,6 +8980,7 @@ avoidable
 avoidably
 avoidance
 avoided
+avoider
 avoiding
 avoids
 avos
@@ -9075,6 +9078,7 @@ awny
 awoken
 awol
 awols
+awry
 ax
 axal
 axe
@@ -9409,6 +9413,7 @@ backfire
 backfired
 backfires
 backfiring
+backfit
 backfits
 backfitted
 backfitting
@@ -12258,6 +12263,7 @@ beseems
 besetment
 besetments
 besets
+besetter
 besetters
 besetting
 beshadow
@@ -29523,6 +29529,7 @@ cosigner
 cosigners
 cosigning
 cosine
+cosines
 cosiness
 cosinesses
 cosmetic
@@ -30127,6 +30134,7 @@ courthouses
 courtier
 courting
 courtlier
+courtliest
 courtliness
 courtlinesses
 courtly
@@ -32122,6 +32130,7 @@ curio
 curios
 curiosities
 curiosity
+curious
 curiouser
 curiousest
 curiously
@@ -48190,6 +48199,7 @@ extraversions
 extravert
 extraverted
 extraverts
+extrema
 extreme
 extremely
 extremeness
@@ -51424,6 +51434,7 @@ flense
 flensed
 flenser
 flensers
+flenses
 flensing
 flesh
 fleshed
@@ -57300,6 +57311,7 @@ glucokinase
 glucokinases
 gluconate
 gluconates
+gluconeogeneses
 gluconeogenesis
 glucosamine
 glucosamines
@@ -59693,6 +59705,7 @@ gurglet
 gurglets
 gurgling
 gurnard
+gurnards
 gurnet
 gurney
 gurneys
@@ -63767,6 +63780,7 @@ honorable
 honorableness
 honorablenesses
 honorably
+honorand
 honorands
 honoraria
 honoraries
@@ -65074,6 +65088,7 @@ hydrothorax
 hydrothoraxes
 hydrotropic
 hydrotropism
+hydrotropisms
 hydrous
 hydroxides
 hydroxy
@@ -72547,6 +72562,7 @@ jubilating
 jubilations
 jubile
 jubilee
+jubilees
 jubiles
 jucos
 judas
@@ -74682,6 +74698,7 @@ ladrons
 lads
 lady
 ladybird
+ladybirds
 ladybug
 ladybugs
 ladyfinger
@@ -79876,6 +79893,7 @@ mall
 mallard
 mallards
 malleabilities
+malleable
 malleably
 malled
 mallee
@@ -80535,6 +80553,7 @@ marihuana
 marihuanas
 marijuana
 marijuanas
+marimba
 marimbas
 marimbist
 marina
@@ -108790,6 +108809,7 @@ prosaic
 prosaical
 prosaically
 prosaism
+prosaisms
 prosaist
 prosaists
 prosateur
@@ -109714,6 +109734,7 @@ puffiest
 puffily
 puffin
 puffiness
+puffing
 puffins
 puffs
 puffy
@@ -112720,6 +112741,7 @@ reappear
 reappearance
 reappearances
 reappeared
+reappears
 reapplication
 reapplications
 reapplied
@@ -122641,6 +122663,7 @@ schoolmen
 schoolroom
 schoolrooms
 schools
+schoolteachers
 schooltimes
 schoolwork
 schoolworks
@@ -123894,6 +123917,7 @@ seepages
 seeped
 seepiest
 seepy
+seer
 seeress
 seers
 seersucker
@@ -129751,6 +129775,7 @@ solvabilities
 solvability
 solvable
 solvated
+solvates
 solvating
 solvation
 solvations
@@ -130853,6 +130878,7 @@ spellers
 spelling
 spellings
 spells
+spelt
 spelter
 spelters
 spelts
@@ -131125,6 +131151,7 @@ spinels
 spines
 spinet
 spinets
+spiniest
 spinifex
 spinifexes
 spininess
@@ -134423,6 +134450,7 @@ sturdier
 sturdies
 sturdiest
 sturdily
+sturdiness
 sturdinesses
 sturgeon
 sturgeons
@@ -134656,6 +134684,7 @@ subcommunity
 subcompact
 subcompacts
 subcomponent
+subcomponents
 subconscious
 subconsciouses
 subconsciously
@@ -140032,6 +140061,7 @@ tepefied
 tepefies
 tepefy
 tepefying
+tephra
 tephras
 tephrite
 tephritic
@@ -142198,6 +142228,7 @@ toenails
 toepieces
 toeplate
 toeplates
+toes
 toeshoe
 toeshoes
 toff
@@ -147436,6 +147467,7 @@ undereducated
 underemphases
 underemphasis
 underemphasize
+underemphasized
 underemphasizes
 underemployed
 underestimate
@@ -148800,6 +148832,7 @@ unmiters
 unmitigated
 unmitigatedly
 unmitigatedness
+unmitre
 unmitred
 unmitres
 unmitring
@@ -153175,6 +153208,7 @@ voyages
 voyageur
 voyageurs
 voyaging
+voyeur
 voyeurism
 voyeurisms
 voyeuristic
@@ -157047,6 +157081,7 @@ yaws
 yay
 yays
 yclad
+ycleped
 yclept
 ye
 yeah
