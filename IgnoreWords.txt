@@ -4234,6 +4234,7 @@ analogist
 analogists
 analogize
 analogized
+analogizes
 analogizing
 analogous
 analogously
@@ -11616,6 +11617,7 @@ begrimming
 begrims
 begroan
 begroaned
+begroaning
 begroans
 begrudge
 begrudged
@@ -17561,6 +17563,7 @@ burgee
 burgees
 burgeon
 burgeoned
+burgeoning
 burgeons
 burgers
 burgess
@@ -25778,6 +25781,7 @@ collaborative
 collaboratively
 collaboratives
 collaborator
+collaborators
 collage
 collaged
 collagen
@@ -27718,6 +27722,7 @@ conjure
 conjured
 conjurer
 conjurers
+conjures
 conjuring
 conjuror
 conjurors
@@ -28868,6 +28873,7 @@ copses
 copter
 copters
 copublish
+copublished
 copublisher
 copublishers
 copublishes
@@ -34720,6 +34726,7 @@ degringolade
 degum
 degummed
 degumming
+degums
 degust
 degustation
 degusted
@@ -41322,6 +41329,7 @@ drywalling
 drywalls
 drywell
 drywells
+duads
 dual
 dualism
 dualisms
@@ -44344,6 +44352,7 @@ enface
 enfaced
 enfaces
 enfacing
+enfeeble
 enfeebled
 enfeeblement
 enfeeblements
@@ -44725,6 +44734,7 @@ ensilage
 ensilaged
 ensilages
 ensilaging
+ensile
 ensiled
 ensiles
 ensiling
@@ -65603,6 +65613,7 @@ iatric
 iatrical
 iatrogenic
 iatrogenically
+ibex
 ibexes
 ibices
 ibidem
@@ -70498,6 +70509,7 @@ inurnments
 inutile
 inutilely
 inutilities
+inutility
 invade
 invaded
 invader
@@ -70517,6 +70529,7 @@ invalided
 invalidism
 invalidisms
 invalidities
+invalidity
 invalidly
 invalids
 invaluable
@@ -72698,6 +72711,7 @@ juryless
 jurymen
 jurywoman
 jus
+jussive
 just
 justed
 juster
@@ -74425,6 +74439,7 @@ laboratory
 labored
 laboredly
 laborer
+laborers
 laboring
 laborious
 laboriously
@@ -75721,6 +75736,7 @@ lean
 leaned
 leaners
 leanest
+leaning
 leanings
 leanly
 leanness
@@ -75756,6 +75772,7 @@ leased
 leasehold
 leaseholder
 leaseholders
+leaseholds
 leaser
 leasers
 leases
@@ -79329,6 +79346,7 @@ mafficked
 mafficker
 maffickers
 mafficking
+mafficks
 mafia
 mafias
 mafiosi
@@ -83284,6 +83302,7 @@ miladis
 milady
 milage
 milages
+milchig
 mild
 milded
 milden
@@ -88961,6 +88980,7 @@ neurilemmal
 neurilemmas
 neurine
 neurines
+neuritic
 neuritics
 neuritides
 neuritises
@@ -90863,6 +90883,7 @@ nonresponder
 nonresponders
 nonresponse
 nonresponses
+nonresponsive
 nonrestricted
 nonrestrictive
 nonretractile
@@ -92220,6 +92241,7 @@ obtrusivenesses
 obtund
 obtunded
 obtundent
+obtunding
 obtundities
 obtundity
 obtunds
@@ -97612,6 +97634,7 @@ palindromist
 palindromists
 paling
 palingeneses
+palingenetic
 palings
 palinode
 palinodes
@@ -100404,6 +100427,7 @@ performers
 performing
 perfume
 perfumed
+perfumer
 perfumeries
 perfumers
 perfumery
@@ -108228,6 +108252,7 @@ prohibition
 prohibitionist
 prohibitionists
 prohibitions
+prohibitive
 prohibitively
 prohibitiveness
 prohibitory
@@ -113942,6 +113967,7 @@ redounded
 redounds
 redout
 redouts
+redowas
 redpoll
 redpolls
 redraft
@@ -114935,6 +114961,7 @@ rehashed
 rehashes
 rehashing
 rehear
+reheard
 rehearing
 rehearings
 rehearsal
@@ -116053,6 +116080,7 @@ reoiling
 reoils
 reopen
 reopens
+reoperate
 reoperated
 reoperates
 reoperating
@@ -128029,6 +128057,7 @@ slinger
 slingers
 slinging
 slingshot
+slink
 slinked
 slinkier
 slinkiest
@@ -133528,6 +133557,7 @@ stoure
 stoures
 stout
 stouten
+stoutening
 stoutens
 stouter
 stoutest
@@ -133689,6 +133719,7 @@ strategist
 strategists
 strategize
 strategized
+strategizes
 strategizing
 strategy
 strath
@@ -141651,6 +141682,7 @@ timothies
 timothy
 timpani
 timpanists
+timpano
 timpanum
 timpanums
 tin
@@ -142542,6 +142574,7 @@ torchbearers
 torched
 torchere
 torcheres
+torches
 torchier
 torchiere
 torchiers
@@ -155861,6 +155894,7 @@ wog
 woggish
 wogs
 wok
+woke
 woken
 woks
 wold
@@ -156826,6 +156860,7 @@ yarners
 yarning
 yarns
 yarrow
+yarrows
 yashmac
 yashmacs
 yashmak
