@@ -1033,6 +1033,7 @@ actuates
 actuating
 actuation
 actuations
+actuator
 actuators
 acuities
 aculeate
@@ -4587,6 +4588,7 @@ angelicas
 angeling
 angelologies
 angelologist
+angelologists
 angelology
 angels
 angelus
@@ -9813,6 +9815,7 @@ balconies
 balcony
 bald
 baldachin
+baldachino
 baldachinos
 baldachins
 baldaquin
@@ -14664,6 +14667,7 @@ bobbled
 bobbles
 bobbling
 bobby
+bobbysox
 bobcat
 bobcats
 bobeche
@@ -17529,6 +17533,7 @@ buoyantly
 buoyed
 buoying
 buoys
+bupkes
 bupkus
 buppie
 buppy
@@ -17838,6 +17843,7 @@ buskin
 busking
 buskins
 busks
+busload
 busloads
 busman
 busmen
@@ -22217,6 +22223,7 @@ cheerfulness
 cheerfulnesses
 cheerier
 cheeriest
+cheerily
 cheeriness
 cheerinesses
 cheering
@@ -22233,6 +22240,7 @@ cheerly
 cheero
 cheeros
 cheers
+cheery
 cheese
 cheeseburger
 cheeseburgers
@@ -38022,6 +38030,7 @@ dirled
 dirling
 dirls
 dirndl
+dirndls
 dirtbag
 dirtbags
 dirtied
@@ -48856,6 +48865,7 @@ fancinesses
 fancying
 fancywork
 fancyworks
+fandango
 fandangos
 fandom
 fandoms
@@ -52777,6 +52787,7 @@ forequarters
 foreran
 forerank
 foreranks
+forereach
 forereached
 forereaches
 forereaching
@@ -53515,6 +53526,7 @@ fraternizations
 fraternize
 fraternized
 fraternizer
+fraternizers
 fraternizing
 fraters
 fratricidal
@@ -55894,6 +55906,7 @@ geminated
 geminates
 geminating
 gemination
+geminations
 gemlike
 gemma
 gemmae
@@ -56323,6 +56336,7 @@ germplasm
 germplasms
 germproof
 germs
+germy
 gerontic
 gerontocracies
 gerontocracy
@@ -60662,6 +60676,7 @@ handsbreadth
 handsel
 handseled
 handseling
+handselled
 handselling
 handsels
 handset
@@ -64196,6 +64211,7 @@ hospitalizes
 hospitalizing
 hospitals
 hospitia
+hospitium
 hospodar
 hospodars
 host
@@ -69836,6 +69852,7 @@ interiorly
 interiors
 interisland
 interject
+interjected
 interjecting
 interjection
 interjections
@@ -70310,6 +70327,7 @@ intimatenesses
 intimater
 intimates
 intimating
+intimation
 intime
 intimidate
 intimidated
@@ -74212,6 +74230,7 @@ kobo
 kobold
 kobolds
 kobs
+koel
 koels
 kohl
 kohlrabi
@@ -75751,6 +75770,7 @@ leachable
 leachate
 leached
 leacher
+leachers
 leaches
 leachier
 leachiest
@@ -90820,6 +90840,7 @@ nonnuclear
 nonnucleated
 nonnumerical
 nonnutritious
+nonnutritive
 nonobjective
 nonobjectivisms
 nonobjectivist
@@ -96240,6 +96261,7 @@ overhangs
 overhard
 overharvest
 overharvested
+overharvesting
 overharvests
 overhasty
 overhate
@@ -99205,6 +99227,7 @@ patchy
 pate
 pated
 patellae
+patellar
 patellas
 patellate
 patelliform
@@ -99749,6 +99772,7 @@ pedantry
 pedately
 peddle
 peddled
+peddler
 peddleries
 peddlers
 peddlery
@@ -99848,6 +99872,7 @@ peeked
 peelable
 peeled
 peeler
+peelers
 peelings
 peels
 peen
@@ -102730,6 +102755,7 @@ pindling
 pine
 pinealectomies
 pinealectomized
+pinealectomizes
 pinealectomy
 pineals
 pineapple
@@ -106639,6 +106665,7 @@ prefigurations
 prefigurative
 prefiguratively
 prefigure
+prefigured
 prefigurement
 prefigurements
 prefigures
@@ -107646,6 +107673,7 @@ prewarmed
 prewarming
 prewarms
 prewarn
+prewarned
 prewarning
 prewarns
 prewash
@@ -113827,6 +113855,7 @@ recyclers
 recycles
 recycling
 red
+redact
 redacted
 redacting
 redaction
@@ -114706,6 +114735,7 @@ reformulate
 reformulated
 reformulates
 reformulating
+reformulation
 reformulations
 refortification
 refortified
@@ -115622,6 +115652,7 @@ relettering
 reletters
 reletting
 relevance
+relevances
 relevancies
 relevancy
 relevant
@@ -115814,6 +115845,7 @@ remarried
 remarries
 remarry
 remarrying
+remaster
 remastering
 remasters
 rematched
@@ -146342,6 +146374,7 @@ ultraminiature
 ultramodern
 ultramodernist
 ultramodernists
+ultramontanisms
 ultraorthodox
 ultrapatriotic
 ultraphysical
@@ -149652,6 +149685,7 @@ unstitches
 unstitching
 unstocked
 unstop
+unstoppable
 unstoppably
 unstopped
 unstopper
@@ -155908,6 +155942,7 @@ wisewomen
 wish
 wishbone
 wishbones
+wished
 wisher
 wishers
 wishes
