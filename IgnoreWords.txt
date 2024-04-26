@@ -761,6 +761,7 @@ acidulated
 acidulates
 acidulating
 acidulation
+acidulations
 acidulent
 acidulous
 aciduria
@@ -4735,6 +4736,7 @@ animallike
 animally
 animals
 animas
+animate
 animated
 animatedly
 animately
@@ -5520,6 +5522,7 @@ antinomian
 antinomianism
 antinomic
 antinomy
+antinovel
 antinovelists
 antinovels
 antinuclear
@@ -9881,6 +9884,7 @@ balkanization
 balkanizations
 balkanize
 balkanized
+balkanizes
 balkanizing
 balked
 balkier
@@ -11705,6 +11709,7 @@ behavioral
 behaviorally
 behaviorism
 behaviorisms
+behavioristic
 behaviorists
 behaviors
 behaviour
@@ -15617,6 +15622,7 @@ boulevards
 bouleversement
 bouleversements
 boulle
+boulles
 bounce
 bounced
 bouncer
@@ -20796,6 +20802,7 @@ catties
 cattiest
 cattily
 cattiness
+cattinesses
 cattishly
 cattle
 cattlemen
@@ -28897,6 +28904,7 @@ copilot
 coping
 copings
 copingstone
+copingstones
 copious
 copiously
 copiousness
@@ -35712,6 +35720,7 @@ depainting
 depaints
 depart
 departed
+departee
 departees
 departing
 department
@@ -36571,6 +36580,7 @@ detester
 detesters
 detesting
 dethatch
+dethatched
 dethatches
 dethatching
 dethrone
@@ -60546,6 +60556,7 @@ halloth
 hallow
 hallowed
 hallower
+hallowers
 hallowing
 hallows
 halls
@@ -60609,6 +60620,7 @@ halos
 halothane
 halothanes
 halt
+halted
 halter
 halterbreak
 halterbreaking
@@ -61490,6 +61502,7 @@ hayed
 hayer
 hayers
 hayey
+hayfield
 hayfields
 hayfork
 hayforks
@@ -68325,6 +68338,7 @@ inebriety
 inedible
 inedibly
 inedita
+inedited
 ineducabilities
 ineducable
 ineffability
@@ -68644,6 +68658,7 @@ inflectional
 inflectionally
 inflections
 inflective
+inflector
 inflectors
 inflects
 inflexed
@@ -77602,6 +77617,7 @@ liquefiers
 liquefies
 liquefy
 liquefying
+liquescent
 liqueurs
 liquid
 liquidambar
@@ -84205,6 +84221,7 @@ mirky
 mirliton
 mirlitons
 mirror
+mirrored
 mirroring
 mirrorlike
 mirrors
@@ -84591,6 +84608,7 @@ miseaten
 miseats
 misedit
 misedited
+misediting
 misedits
 miseducate
 miseducates
@@ -86601,6 +86619,7 @@ mortgage
 mortgagee
 mortgagees
 mortgager
+mortgagers
 mortgaging
 mortgagor
 mortgagors
@@ -91960,6 +91979,7 @@ nudest
 nudge
 nudgers
 nudges
+nudging
 nudibranch
 nudibranchs
 nudicaul
@@ -98108,6 +98128,7 @@ palmitin
 palmitins
 palms
 palmtops
+palmy
 palmyra
 palmyras
 palomino
@@ -98743,6 +98764,7 @@ paraphrasable
 paraphrased
 paraphrases
 paraphrasing
+paraphrastic
 paraphs
 paraphyses
 paraphysis
@@ -99583,6 +99605,7 @@ patricians
 patriciates
 patricidal
 patricide
+patricides
 patrilineal
 patrilinies
 patriliny
@@ -108463,6 +108486,7 @@ procuratorial
 procurators
 procure
 procured
+procurement
 procurements
 procurer
 procurers
@@ -109147,6 +109171,7 @@ prosected
 prosecting
 prosectors
 prosects
+prosecutable
 prosecute
 prosecuted
 prosecutes
@@ -110456,6 +110481,7 @@ purificatory
 purified
 purifier
 purifiers
+purifies
 purify
 purifying
 purin
@@ -112170,6 +112196,7 @@ rakees
 rakehell
 rakehells
 rakehelly
+rakeoff
 rakeoffs
 raker
 rakers
@@ -112335,6 +112362,7 @@ randomizers
 randomizes
 randomizing
 randomly
+randomness
 randoms
 rands
 randy
@@ -120091,6 +120119,7 @@ rootiness
 rootinesses
 rooting
 rootle
+rootles
 rootless
 rootlessnesses
 rootlets
@@ -121784,6 +121813,7 @@ sandpits
 sandshoe
 sandshoes
 sandsoap
+sandsoaps
 sandspur
 sandspurs
 sandstone
@@ -127443,6 +127473,7 @@ simoniacs
 simonist
 simonists
 simonize
+simonized
 simonizes
 simonizing
 simoom
@@ -127719,6 +127750,7 @@ sister
 sistered
 sisterhood
 sisterhoods
+sistering
 sisterly
 sisters
 sistra
@@ -151848,6 +151880,7 @@ veeringly
 veers
 veg
 vegan
+veganism
 veganisms
 vegans
 veges
@@ -153131,6 +153164,7 @@ visiter
 visiters
 visiting
 visitor
+visitors
 visits
 visive
 visor
@@ -158421,3 +158455,4 @@ zymurgies
 zymurgy
 zyzzyva
 zyzzyvas
+zzz
