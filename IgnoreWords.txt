@@ -259,6 +259,7 @@ abutting
 abuzz
 abvolt
 abvolts
+abwatt
 abwatts
 aby
 abying
@@ -3047,6 +3048,7 @@ alkaloidal
 alkalotic
 alkane
 alkanes
+alkanet
 alkanets
 alkene
 alkenes
@@ -6683,6 +6685,7 @@ arborists
 arborization
 arborizations
 arborize
+arborized
 arborizing
 arborous
 arbors
@@ -8635,6 +8638,7 @@ authoritarian
 authoritarians
 authoritative
 authorities
+authority
 authorization
 authorizations
 authorize
@@ -18352,6 +18356,7 @@ cacodylic
 cacodyls
 cacoethes
 cacographical
+cacographies
 cacography
 cacomistle
 cacomistles
@@ -22974,6 +22979,7 @@ chloramines
 chloramphenicol
 chlorates
 chlordan
+chlordanes
 chlordans
 chlorella
 chlorellas
@@ -25146,6 +25152,7 @@ cobaltites
 cobaltous
 cobalts
 cobb
+cobber
 cobbier
 cobbiest
 cobble
@@ -26409,6 +26416,7 @@ comedones
 comedown
 comedowns
 comeliest
+comelily
 comeliness
 comelinesses
 comely
@@ -33144,6 +33152,7 @@ daiker
 daikered
 daikering
 daikers
+daikon
 daikons
 dailies
 dailiness
@@ -46251,6 +46260,7 @@ erythrosin
 erythrosine
 erythrosines
 erythrosins
+es
 escadrille
 escadrilles
 escalade
@@ -53075,6 +53085,7 @@ foresaid
 foresail
 foresails
 foresaw
+foresee
 foreseeability
 foreseeable
 foreseeing
@@ -56568,6 +56579,7 @@ geosynclines
 geotactic
 geotaxes
 geotaxis
+geotechnical
 geotectonic
 geotectonically
 geothermal
@@ -62490,6 +62502,7 @@ hemodilutions
 hemodynamic
 hemodynamically
 hemodynamics
+hemoflagellate
 hemoflagellates
 hemoglobin
 hemoglobins
@@ -64887,6 +64900,7 @@ hugs
 huh
 huipil
 huipiles
+huipils
 huisache
 huisaches
 hula
@@ -69571,6 +69585,7 @@ insistencies
 insistency
 insistent
 insistently
+insister
 insisters
 insisting
 insists
@@ -72777,6 +72792,7 @@ jointed
 jointedly
 jointedness
 jointednesses
+jointer
 jointers
 jointing
 jointless
@@ -77704,6 +77720,7 @@ linksmen
 linkup
 linkups
 linkwork
+linkworks
 linky
 linn
 linnet
@@ -92235,6 +92252,7 @@ nuder
 nudes
 nudest
 nudge
+nudger
 nudgers
 nudges
 nudging
@@ -94641,6 +94659,7 @@ osmolarity
 osmole
 osmoles
 osmols
+osmometer
 osmometric
 osmometries
 osmometry
@@ -98267,6 +98286,7 @@ paleographies
 paleography
 paleolith
 paleoliths
+paleologies
 paleology
 paleomagnetic
 paleomagnetism
@@ -100171,6 +100191,7 @@ pearling
 pearlite
 pearlites
 pearlitic
+pearlized
 pearls
 pearly
 pearmain
@@ -101827,6 +101848,7 @@ petti
 petticoat
 petticoated
 petticoats
+pettier
 pettiest
 pettifog
 pettifogged
@@ -105006,6 +105028,7 @@ polarizations
 polarize
 polarized
 polarizers
+polarizes
 polarizing
 polarographic
 polarographies
@@ -105102,6 +105125,7 @@ politicization
 politicizations
 politicized
 politicizes
+politicizing
 politick
 politicked
 politicker
@@ -107118,6 +107142,7 @@ predried
 predries
 predrill
 predrilled
+predrilling
 predrills
 predry
 predrying
@@ -107769,6 +107794,7 @@ prerenal
 prerequire
 prerequired
 prerequiring
+prerequisite
 prerequisites
 preretirement
 prereturn
@@ -114230,6 +114256,7 @@ reconsiders
 reconsign
 reconsigning
 reconsoled
+reconsolidate
 reconsolidated
 reconsolidates
 reconsolidating
@@ -116147,6 +116174,7 @@ rejustifies
 rejustify
 rejustifying
 rejuvenated
+rejuvenates
 rejuvenating
 rejuvenations
 rejuvenator
@@ -116640,6 +116668,7 @@ remonstrates
 remonstrating
 remonstration
 remonstrations
+remonstrative
 remonstratively
 remonstrator
 remonstrators
@@ -121989,6 +122018,7 @@ salvoed
 salvoes
 salvoing
 salvor
+salvos
 samadhi
 samadhis
 samara
@@ -122893,6 +122923,7 @@ scalariformly
 scalars
 scalation
 scalations
+scalawag
 scalawags
 scald
 scalded
@@ -126369,6 +126400,7 @@ sheepskins
 sheepwalk
 sheepwalks
 sheer
+sheered
 sheerer
 sheerest
 sheering
@@ -127810,6 +127842,7 @@ simile
 similes
 similitude
 similitudes
+simioid
 simious
 simitar
 simitars
@@ -131740,6 +131773,7 @@ sphagnous
 sphagnums
 sphalerite
 sphalerites
+sphene
 sphenes
 sphenic
 sphenodon
@@ -142258,6 +142292,7 @@ thundering
 thunderingly
 thunderous
 thunderously
+thundershower
 thundershowers
 thunderstone
 thunderstorm
