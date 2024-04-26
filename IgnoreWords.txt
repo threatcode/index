@@ -999,6 +999,7 @@ activators
 active
 actively
 activeness
+activenesses
 actives
 activisms
 activistic
@@ -1012,6 +1013,7 @@ actomyosin
 actomyosins
 actor
 actorish
+actorly
 actors
 actress
 actresses
@@ -9579,6 +9581,7 @@ backstroke
 backswept
 backswing
 backswings
+backswords
 backtrack
 backtracked
 backtracking
@@ -9731,6 +9734,7 @@ bagnios
 bagpiped
 bagpipers
 bagpiping
+bags
 bagsful
 baguet
 baguets
@@ -12390,6 +12394,7 @@ bespatter
 bespattered
 bespattering
 bespeak
+bespeaking
 bespeaks
 bespectacled
 bespouse
@@ -12600,6 +12605,7 @@ beworm
 bewormed
 beworming
 beworms
+beworried
 beworries
 beworrying
 bewrap
@@ -14254,6 +14260,7 @@ blockhouse
 blockhouses
 blockier
 blockiest
+blocking
 blockish
 blocks
 blocky
@@ -22364,6 +22371,7 @@ chemics
 chemiosmotic
 chemise
 chemises
+chemisette
 chemisettes
 chemism
 chemisms
@@ -25753,6 +25761,7 @@ coinfecting
 coinfects
 coinfer
 coinferred
+coinferring
 coinfers
 coinhere
 coinhered
@@ -26616,6 +26625,7 @@ communicably
 communicant
 communicants
 communicate
+communicated
 communicatee
 communicatees
 communication
@@ -29352,6 +29362,7 @@ coronating
 coronation
 coronations
 coronel
+coronels
 coroner
 coroners
 coronet
@@ -32237,6 +32248,7 @@ curies
 curing
 curio
 curios
+curiosa
 curiosities
 curiosity
 curious
@@ -34275,6 +34287,7 @@ deconsecrating
 deconsecration
 deconsecrations
 deconstruct
+deconstructing
 deconstruction
 deconstructions
 deconstructive
@@ -46119,6 +46132,7 @@ eruptive
 eruptives
 erupts
 ervil
+ervils
 eryngo
 eryngoes
 eryngos
@@ -63795,6 +63809,7 @@ homicidally
 homicide
 homicides
 homier
+homies
 homiest
 homiletic
 homiletical
@@ -72858,6 +72873,7 @@ judger
 judgers
 judges
 judgeship
+judgeships
 judging
 judgmatic
 judgmatical
@@ -74600,6 +74616,7 @@ kraft
 krafts
 krait
 kraits
+kraken
 krakens
 krater
 kraters
@@ -83275,6 +83292,7 @@ microcopies
 microcopy
 microcosm
 microcosmic
+microcosmically
 microcosmos
 microcosmoses
 microcosms
@@ -91635,6 +91653,7 @@ noontime
 noontimes
 noose
 noosed
+nooser
 noosers
 nooses
 noosing
@@ -91801,6 +91820,7 @@ notarized
 notarizes
 notarizing
 notary
+notate
 notated
 notates
 notating
@@ -93228,6 +93248,7 @@ oinked
 oinking
 oinks
 oinology
+oinomel
 oinomels
 ointment
 ointments
@@ -94024,6 +94045,7 @@ orchitises
 orcin
 orcinol
 orcinols
+orcins
 orcs
 ordain
 ordained
@@ -99241,6 +99263,7 @@ participations
 participative
 participator
 participators
+participatory
 participial
 participially
 participle
@@ -113348,6 +113371,7 @@ reaves
 reaving
 reavow
 reavowed
+reavowing
 reavows
 reawaked
 reawaken
@@ -113732,6 +113756,7 @@ recitativi
 recitativos
 recite
 recited
+reciter
 reciters
 recites
 reciting
@@ -114292,6 +114317,7 @@ reddens
 redder
 redders
 reddest
+redding
 reddish
 reddishness
 reddishnesses
@@ -117134,6 +117160,7 @@ reproduced
 reproducer
 reproducers
 reproduces
+reproducibility
 reproducible
 reproducibly
 reproducing
@@ -118175,6 +118202,7 @@ retagging
 retags
 retail
 retailed
+retailer
 retailers
 retailing
 retailings
@@ -120418,6 +120446,7 @@ roughcast
 roughcasting
 roughcasts
 roughdried
+roughdries
 roughdry
 roughdrying
 roughed
@@ -128687,6 +128716,7 @@ slimpsy
 slims
 slimsier
 slimsiest
+slimsy
 slimy
 sling
 slingback
@@ -143576,6 +143606,7 @@ tousling
 touter
 touters
 touting
+touzle
 touzles
 touzling
 tovarich
@@ -148735,6 +148766,7 @@ ungifted
 ungimmicky
 ungird
 ungirded
+ungirding
 ungirds
 ungirt
 ungiving
@@ -148866,6 +148898,7 @@ unhewn
 unhindered
 unhinge
 unhinged
+unhinges
 unhinging
 unhip
 unhirable
@@ -149794,6 +149827,7 @@ unretire
 unretired
 unretires
 unretouched
+unreturnable
 unrevealed
 unreviewable
 unreviewed
@@ -157114,6 +157148,7 @@ worsting
 worsts
 wort
 worth
+worthed
 worthful
 worthies
 worthiest
