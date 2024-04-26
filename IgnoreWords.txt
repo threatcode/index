@@ -2817,6 +2817,7 @@ aleph
 alephs
 alert
 alerted
+alerter
 alertest
 alerting
 alertly
@@ -4281,6 +4282,7 @@ analyses
 analysing
 analysis
 analyst
+analysts
 analyte
 analytes
 analytic
@@ -5330,6 +5332,7 @@ antidotal
 antidote
 antidoted
 antidotes
+antidoting
 antidraft
 antidromic
 antidromically
@@ -9461,6 +9464,7 @@ backflipped
 backflipping
 backflips
 backflow
+backflows
 backgammon
 backgammons
 background
@@ -21014,6 +21018,7 @@ cawing
 caws
 cay
 cayenne
+cayenned
 cayennes
 cayman
 caymans
@@ -24105,6 +24110,7 @@ clanged
 clanger
 clangers
 clangor
+clangored
 clangoring
 clangorous
 clangorously
@@ -27680,6 +27686,7 @@ confusedly
 confusedness
 confusednesses
 confuses
+confusing
 confusion
 confusions
 confutation
@@ -38935,6 +38942,7 @@ disjecting
 disjoin
 disjoined
 disjoining
+disjoins
 disjointed
 disjointedly
 disjointedness
@@ -40605,6 +40613,7 @@ doublespeakers
 doublespeaks
 doublet
 doublethink
+doublethinks
 doubleton
 doubletons
 doublets
@@ -43621,6 +43630,7 @@ emblazoned
 emblazoner
 emblazoning
 emblazonment
+emblazonments
 emblazonries
 emblazonry
 emblazons
@@ -45945,6 +45955,7 @@ eradicate
 eradicated
 eradicates
 eradicating
+eradication
 eradications
 eradicator
 eradicators
@@ -47133,6 +47144,7 @@ evolvable
 evolve
 evolved
 evolvement
+evolvements
 evolver
 evolvers
 evolves
@@ -51328,6 +51340,7 @@ flamingly
 flamingo
 flamingos
 flammabilities
+flammable
 flammables
 flammed
 flamming
@@ -53194,6 +53207,7 @@ forky
 forlorn
 forlorner
 forlornest
+forlornness
 forlornnesses
 form
 formabilities
@@ -54151,6 +54165,7 @@ frocked
 frocking
 frockless
 frocks
+froes
 frogeyed
 frogeyes
 frogfish
@@ -61713,6 +61728,7 @@ headphones
 headpieces
 headpin
 headquarter
+headquartered
 headquartering
 headquarters
 headrace
@@ -63614,6 +63630,7 @@ holey
 holibuts
 holiday
 holidayed
+holidayer
 holidayers
 holidaying
 holidaymaker
@@ -76287,6 +76304,7 @@ lectureship
 lectureships
 lecturing
 lecythi
+lecythis
 lecythus
 led
 lederhosen
@@ -85353,6 +85371,7 @@ misters
 misteuk
 misthink
 misthinking
+misthinks
 misthought
 misthrew
 misthrow
@@ -88225,6 +88244,7 @@ myoses
 myosin
 myosins
 myosis
+myositis
 myositises
 myosote
 myosotes
@@ -89840,6 +89860,7 @@ nidification
 nidifications
 nidified
 nidifugous
+nidify
 nidifying
 niding
 nidus
@@ -94799,6 +94820,7 @@ outbidders
 outbidding
 outbids
 outbitched
+outbitches
 outbitching
 outblaze
 outblazed
@@ -95733,6 +95755,7 @@ outsoars
 outsole
 outsoles
 outsource
+outsourced
 outsourcing
 outsourcings
 outspan
@@ -96951,6 +96974,7 @@ overpersuades
 overpersuading
 overpersuasion
 overpert
+overplaided
 overplaids
 overplan
 overplanned
@@ -110092,6 +110116,7 @@ pteridologists
 pteridology
 pteridophyte
 pteridophytes
+pteridosperm
 pteridosperms
 pterin
 pterins
@@ -118676,6 +118701,7 @@ reunionist
 reunionistic
 reunionists
 reunions
+reuniter
 reunites
 reupholstered
 reupholstering
@@ -119036,6 +119062,7 @@ rewet
 rewets
 rewetted
 rewetting
+rewidened
 rewidening
 rewidens
 rewin
@@ -122371,6 +122398,7 @@ satay
 satays
 satchel
 satchelful
+satchelfuls
 satchels
 satchelsful
 sate
@@ -127784,6 +127812,7 @@ singly
 sings
 singsong
 singsongs
+singsongy
 singspiel
 singspiels
 singular
@@ -135669,6 +135698,7 @@ submultiples
 submunition
 submunitions
 subnasal
+subnet
 subnetwork
 subnetworked
 subnetworking
@@ -135941,6 +135971,7 @@ substituted
 substitutes
 substituting
 substitution
+substitutional
 substitutions
 substitutive
 substitutively
@@ -146588,6 +146619,7 @@ twittery
 twitting
 twixt
 twofer
+twofers
 twofold
 twofolds
 twoonie
@@ -146979,6 +147011,7 @@ ultrareliable
 ultrarich
 ultraright
 ultrarightist
+ultrarightists
 ultraromantic
 ultraroyalist
 ultraroyalists
@@ -147255,6 +147288,7 @@ unarrogant
 unartful
 unarticulated
 unartistic
+unary
 unashamed
 unashamedly
 unasked
@@ -154690,6 +154724,7 @@ watching
 watchmaker
 watchmakers
 watchmaking
+watchmakings
 watchmen
 watchout
 watchouts

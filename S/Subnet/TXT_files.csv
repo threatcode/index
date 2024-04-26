@@ -8,3 +8,22 @@ list-all-vnets-and-subnets-with-cidr.txt - GitHub,https://github.com/jtracey93/P
 sat_kickstart_default_w_pe.erb_.txt,https://access.redhat.com/sites/default/files/attachments/sat_kickstart_default_w_pe.erb_.txt
 RFC 7814: Virtual Subnet: A BGP/MPLS IP VPN-Based Subnet ...,http://www.potaroo.net/ietf/all-ids/draft-ietf-bess-virtual-subnet-07.txt
 draft-ietf-bess-evpn-inter-subnet-forwarding-04,https://dt-test.rjsparks.org/doc/html/draft-ietf-bess-evpn-inter-subnet-forwarding-04.txt
+RFC 1878 - Variable Length Subnet Table For IPv4 - IETF Datatracker,https://www.arin.net/rfc/rfc1878.txt
+RFC 932 - IETF,https://www.ietf.org/rfc/rfc0932.txt
+RFC 7814 - Virtual Subnet: A BGP/MPLS IP VPN ... - IETF Datatracker,http://ftp.saix.co.za/rfc/draft-ietf-bess-virtual-subnet-07.txt
+RFC 3587: An IPv6 Aggregatable Global Unicast Address Format,https://www.rfc-editor.org/rfc/rfc3587.txt
+Subnet Numbers - » RFC Editor,https://www.rfc-editor.org/rfc/rfc1219.txt
+"IP numbers, binary and subnet masks",http://www.cs.uni.edu/~jacobson/subnet023.txt
+ipq_na_sample.txt - Cogent Communications,https://www.cogentco.com/files/docs/customer_service/guide/ipq_na_sample.txt
+draft-ietf-pier-subnet-lists-00.txt,https://datatracker.ietf.org/doc/html/draft-ietf-pier-subnet-lists-00.txt
+"Paul Tsuchiya*, ""On the Assignment of Subnet Numbers,"" RFC 1219 ...",https://www.cs.cornell.edu/people/francis/rfc1219.txt
+subnetting.txt,https://web1.eng.famu.fsu.edu/~tsai/ccna2/subnetting.txt
+RFC 1918 - Address Allocation for Private Internets - IETF Datatracker,https://www.arin.net/rfc/rfc1918.txt
+list-all-vnets-and-subnets-with-cidr.txt - GitHub,https://github.com/jtracey93/PublicScripts/blob/master/Azure/Resource%2520Graph/Queries/list-all-vnets-and-subnets-with-cidr.txt
+Reserved IPv6 Subnet Anycast Addresses (RFC 2526) - hjp,https://www.hjp.at/doc/rfc/rfc2526.txt
+draft-ietf-dnsop-edns-client-subnet-03,https://tools-ietf-org.lucaspardue.com/html/draft-ietf-dnsop-edns-client-subnet-03.txt
+https://www.cogentco.com/files/docs/customer_servi...,https://www.cogentco.com/files/docs/customer_service/guide/ipq_v4_na.txt
+compute-subnet/requirements-compute.txt at main - GitHub,https://github.com/neuralinternet/compute-subnet/blob/main/requirements-compute.txt
+draft-ietf-bess-virtual-subnet-fib-reduction-04,https://tools-ietf-org.lucaspardue.com/html/draft-ietf-bess-virtual-subnet-fib-reduction-04.txt
+ripe-382.txt - FTP Directory Listing,ftp://ftp.ripe.net/ripe/docs/ripe-382.txt
+dhcpd_5F00_conf.txt.txt - TI E2E,https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/791/dhcpd_5F00_conf.txt.txt
