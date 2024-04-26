@@ -11917,6 +11917,7 @@ bellying
 bellylike
 belon
 belong
+belonged
 belonging
 belongingness
 belongingnesses
@@ -26409,6 +26410,7 @@ comity
 comix
 comma
 command
+commandable
 commandant
 commandants
 commanded
@@ -28657,6 +28659,7 @@ conversations
 conversaziones
 conversazioni
 converse
+conversely
 converser
 conversers
 converses
@@ -34970,6 +34973,7 @@ deities
 deity
 deixis
 deixises
+deject
 dejecta
 dejected
 dejectedly
@@ -35291,6 +35295,7 @@ demigod
 demigoddess
 demigoddesses
 demigods
+demijohn
 demijohns
 demilitarize
 demilitarized
@@ -42308,6 +42313,7 @@ eases
 easier
 easies
 easiest
+easily
 easiness
 easinesses
 east
@@ -47671,6 +47677,7 @@ exonumist
 exonumists
 exonym
 exonyms
+exopeptidase
 exopeptidases
 exophthalmic
 exophthalmos
@@ -49999,6 +50006,7 @@ ferrimagnet
 ferrimagnetic
 ferrimagnetism
 ferrimagnetisms
+ferrimagnets
 ferrite
 ferrites
 ferritin
@@ -50398,6 +50406,7 @@ fiddly
 fideism
 fideisms
 fideist
+fideistic
 fideists
 fidelismo
 fidelismos
@@ -56552,6 +56561,7 @@ gesticulate
 gesticulated
 gesticulates
 gesticulating
+gesticulation
 gesticulations
 gesticulative
 gesticulator
@@ -56982,6 +56992,7 @@ gitanos
 gite
 gites
 gits
+gitted
 gittern
 gittin
 gitting
@@ -57709,6 +57720,7 @@ gnomic
 gnomical
 gnomish
 gnomist
+gnomists
 gnomon
 gnomonic
 gnomons
@@ -58946,6 +58958,7 @@ greensands
 greenshank
 greenshanks
 greensickness
+greensicknesses
 greenskeeper
 greenskeepers
 greenstone
@@ -66658,6 +66671,7 @@ immobilize
 immobilized
 immobilizers
 immobilizes
+immobilizing
 immoderacies
 immoderacy
 immoderate
@@ -69457,6 +69471,7 @@ insomniacs
 insomnias
 insomuch
 insouciance
+insouciances
 insouciant
 insouciantly
 insoul
@@ -72476,6 +72491,7 @@ jingoism
 jingoisms
 jingoist
 jingoistic
+jingoists
 jink
 jinked
 jinker
@@ -75037,6 +75053,7 @@ laicisms
 laicization
 laicize
 laicized
+laicizes
 laics
 laid
 laigh
@@ -82635,6 +82652,7 @@ mesoblast
 mesoblasts
 mesocarp
 mesocarps
+mesocrany
 mesocyclone
 mesocyclones
 mesoderm
@@ -84082,6 +84100,7 @@ minicomputer
 minicomputers
 minicourse
 minicourses
+minidisc
 minidiscs
 minidresses
 minified
@@ -84496,6 +84515,7 @@ miscible
 miscitation
 miscitations
 miscite
+miscited
 miscites
 misciting
 misclaim
@@ -85960,6 +85980,7 @@ mongrelly
 mongrels
 monickers
 monie
+monied
 monies
 moniker
 monikers
@@ -88083,6 +88104,7 @@ myelogenous
 myelogram
 myelograms
 myeloma
+myelomas
 myelomata
 myelomatous
 myelopathic
@@ -89307,6 +89329,7 @@ nerviness
 nervinesses
 nerving
 nervings
+nervosities
 nervosity
 nervous
 nervously
@@ -89700,6 +89723,7 @@ nickeling
 nickelling
 nickelodeon
 nickelodeons
+nickelous
 nickels
 nicker
 nickered
@@ -90551,6 +90575,7 @@ nonconjugated
 nonconnection
 nonconnections
 nonconscious
+nonconsecutive
 nonconsensual
 nonconservative
 nonconsolidated
@@ -93123,6 +93148,7 @@ oghamic
 oghamist
 oghamists
 oghams
+ogival
 ogive
 ogives
 ogle
@@ -107133,6 +107159,7 @@ prejudger
 prejudgers
 prejudges
 prejudging
+prejudgment
 prejudgments
 prejudice
 prejudiced
@@ -112935,6 +112962,7 @@ reaccepts
 reaccession
 reaccessions
 reacclaim
+reacclaimed
 reacclaiming
 reacclaims
 reacclimatize
@@ -123114,6 +123142,7 @@ schoolmasterly
 schoolmate
 schoolmates
 schoolmen
+schoolmistress
 schoolroom
 schoolrooms
 schools
@@ -136875,6 +136904,7 @@ superiorly
 superiors
 superjacent
 superjet
+superjets
 superjock
 superjocks
 superjumbo
@@ -140616,6 +140646,7 @@ tercels
 tercentenaries
 tercentennial
 tercet
+tercets
 terebene
 terebenes
 terebic
@@ -141407,6 +141438,7 @@ thewy
 they
 thiabendazole
 thiabendazoles
+thiaminase
 thiaminases
 thiamine
 thiamines
@@ -151692,6 +151724,7 @@ vapors
 vaporwares
 vapour
 vapoured
+vapourer
 vapourers
 vapouring
 vapours
@@ -153036,6 +153069,7 @@ violators
 violence
 violences
 violent
+violently
 violet
 violets
 violin
@@ -154708,6 +154742,7 @@ wavebands
 waved
 waveform
 waveforms
+waveguide
 waveguides
 wavelength
 wavelengths
