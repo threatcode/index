@@ -171,6 +171,7 @@ abstained
 abstainers
 abstaining
 abstains
+abstemious
 abstemiously
 abstemiousness
 abstention
@@ -1891,6 +1892,7 @@ affiliations
 affinal
 affine
 affined
+affinely
 affines
 affinities
 affinity
@@ -3525,6 +3527,7 @@ aluminium
 aluminiums
 aluminize
 aluminized
+aluminizes
 aluminosilicate
 aluminous
 alumins
@@ -5452,6 +5455,7 @@ antiliberals
 antilibertarian
 antilife
 antiliterate
+antilitter
 antilittering
 antilock
 antilogarithm
@@ -7355,6 +7359,7 @@ artifacts
 artifactual
 artifice
 artificers
+artifices
 artificial
 artificialities
 artificiality
@@ -9607,6 +9612,7 @@ backstroke
 backswept
 backswing
 backswings
+backsword
 backswords
 backtrack
 backtracked
@@ -10335,6 +10341,7 @@ barberry
 barbers
 barbershop
 barbershops
+barbes
 barbet
 barbets
 barbettes
@@ -10990,6 +10997,7 @@ bawls
 bawsunt
 bawtie
 bawties
+bawty
 bay
 bayadeer
 bayadeers
@@ -15391,6 +15399,7 @@ bops
 bora
 boracic
 boracite
+borage
 borages
 boral
 borals
@@ -28187,6 +28196,7 @@ constant
 constantan
 constantans
 constantly
+constants
 constative
 constellate
 constellated
@@ -35339,6 +35349,7 @@ dematerializes
 dematerializing
 deme
 demean
+demeaned
 demeaning
 demeanor
 demeanors
@@ -44367,6 +44378,7 @@ encyclopedia
 encyclopedias
 encyclopedic
 encyclopedism
+encyclopedist
 encyclopedists
 encyst
 encysted
@@ -49556,6 +49568,7 @@ faults
 faulty
 faun
 fauna
+faunal
 faunally
 faunas
 faunistic
@@ -62345,6 +62358,7 @@ helminthic
 helminthologies
 helminthology
 helminths
+helmless
 helms
 helmsman
 helmsmen
@@ -63707,6 +63721,7 @@ holdings
 holdout
 holdouts
 holdover
+holds
 holdup
 holdups
 holed
@@ -64054,6 +64069,7 @@ homophone
 homophones
 homophonic
 homophonies
+homophonous
 homophony
 homophylies
 homophyly
@@ -66679,6 +66695,7 @@ imbowered
 imbowering
 imbowers
 imbricate
+imbricated
 imbricates
 imbricating
 imbrication
@@ -67095,6 +67112,7 @@ imperfect
 imperfection
 imperfections
 imperfective
+imperfectives
 imperfectly
 imperfectness
 imperfects
@@ -69053,6 +69071,7 @@ ingratiatory
 ingratitude
 ingratitudes
 ingredient
+ingredients
 ingress
 ingresses
 ingression
@@ -71718,6 +71737,7 @@ isogeneic
 isogenic
 isogenies
 isogenous
+isogeny
 isogloss
 isoglossal
 isoglosses
@@ -73660,6 +73680,7 @@ keepsakes
 keeshond
 keeshonden
 keeshonds
+keester
 keesters
 keet
 keets
@@ -76084,6 +76105,7 @@ lawed
 lawful
 lawfully
 lawfulness
+lawfulnesses
 lawgiver
 lawgivers
 lawgiving
@@ -85173,6 +85195,7 @@ misoneists
 misorder
 misordered
 misordering
+misorders
 misorient
 misorientation
 misorienting
@@ -93007,6 +93030,7 @@ oceanfront
 oceanfronts
 oceangoing
 oceanic
+oceanographer
 oceanographers
 oceanographic
 oceanographical
@@ -96002,6 +96026,7 @@ outtalking
 outtalks
 outtask
 outtasked
+outtasking
 outtasks
 outtell
 outtelling
@@ -96622,6 +96647,7 @@ overemphatic
 overenamored
 overencourage
 overencouraged
+overencourages
 overencouraging
 overenergetic
 overengineer
@@ -98689,6 +98715,7 @@ pant
 pantalone
 pantalones
 pantaloon
+pantaloons
 pantdress
 pantdresses
 pantechnicon
@@ -101363,6 +101390,7 @@ perlitic
 perm
 permafrost
 permafrosts
+permalloy
 permalloys
 permanence
 permanences
@@ -103884,6 +103912,7 @@ plackets
 placks
 placoderm
 placoderms
+placoid
 placoids
 plafond
 plafonds
@@ -111622,6 +111651,7 @@ quatrains
 quatrefoil
 quatrefoils
 quatres
+quattrocento
 quattrocentos
 quaver
 quavered
@@ -143177,6 +143207,7 @@ tolas
 tolbooth
 tolbooths
 tolbutamide
+tolbutamides
 told
 tole
 toledo
@@ -145364,6 +145395,7 @@ trimmers
 trimmest
 trimming
 trimmings
+trimness
 trimnesses
 trimonthly
 trimorph
@@ -152568,6 +152600,7 @@ ventilates
 ventilating
 ventilations
 ventilators
+venting
 ventless
 ventral
 ventrally
@@ -156893,6 +156926,7 @@ withheld
 withhold
 withholder
 withholders
+withholding
 withier
 withies
 withiest
@@ -158402,6 +158436,7 @@ zaffres
 zaftig
 zag
 zagged
+zagging
 zags
 zaibatsu
 zaikais
