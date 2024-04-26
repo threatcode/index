@@ -4799,6 +4799,7 @@ anisotropically
 anisotropies
 anisotropisms
 anisotropy
+ankerite
 ankerites
 ankh
 ankhs
@@ -9494,6 +9495,7 @@ backing
 backings
 backland
 backlash
+backlashed
 backlasher
 backlashers
 backlashes
@@ -12357,6 +12359,7 @@ besieging
 beslaved
 beslime
 beslimed
+beslimes
 besliming
 besmeared
 besmearer
@@ -16902,6 +16905,7 @@ broomy
 broos
 bros
 brose
+broses
 brosy
 broth
 brothel
@@ -17229,6 +17233,7 @@ budger
 budgerigar
 budgerigars
 budges
+budget
 budgetary
 budgeted
 budgeteer
@@ -17361,6 +17366,7 @@ bulimic
 bulimics
 bulk
 bulkage
+bulkages
 bulked
 bulkheads
 bulkier
@@ -27932,6 +27938,7 @@ connexions
 conniptions
 connivance
 connivances
+connive
 connived
 connivent
 conniver
@@ -30910,6 +30917,7 @@ credenda
 credendum
 credent
 credential
+credentialed
 credentialing
 credentialism
 credentialisms
@@ -32007,6 +32015,7 @@ culpableness
 culpably
 culpae
 culprit
+culprits
 cult
 cultch
 cultches
@@ -34317,6 +34326,7 @@ deconsecrating
 deconsecration
 deconsecrations
 deconstruct
+deconstructed
 deconstructing
 deconstruction
 deconstructions
@@ -34883,6 +34893,7 @@ degenerated
 degenerately
 degenerateness
 degenerates
+degenerating
 degeneration
 degenerations
 degerm
@@ -42315,6 +42326,7 @@ earthlier
 earthlight
 earthlights
 earthlike
+earthliness
 earthlinesses
 earthling
 earthlings
@@ -47697,6 +47709,7 @@ exocyclic
 exocytic
 exocytosed
 exocytoses
+exocytosing
 exocytosis
 exocytotic
 exoderm
@@ -48517,6 +48530,7 @@ eyases
 eyass
 eyasses
 eye
+eyeable
 eyeball
 eyeballed
 eyeballs
@@ -66834,6 +66848,7 @@ immunochemist
 immunochemistry
 immunochemists
 immunocompetent
+immunodeficient
 immunodiagnoses
 immunodiagnosis
 immunodiffusion
@@ -74459,6 +74474,7 @@ knighthoods
 knighting
 knightliness
 knightlinesses
+knightly
 knights
 knish
 knishes
@@ -89242,6 +89258,7 @@ nelumbo
 nelumbos
 nema
 nemas
+nematic
 nematicidal
 nematicide
 nematicides
@@ -90091,6 +90108,7 @@ ninnyhammer
 ninnyhammers
 ninnyish
 ninon
+ninons
 ninth
 ninthly
 ninths
@@ -98392,6 +98410,7 @@ palters
 paltriest
 paltrily
 paltriness
+paltrinesses
 paltry
 paludal
 paludism
@@ -101749,6 +101768,7 @@ petronel
 petronels
 petrosal
 petrous
+petsai
 petsais
 pettable
 petted
@@ -104067,6 +104087,7 @@ plat
 platan
 platane
 platanes
+platans
 plate
 plateau
 plateaued
@@ -105056,6 +105077,7 @@ pollarding
 pollards
 polled
 pollee
+pollees
 pollen
 pollenate
 pollenated
@@ -106812,6 +106834,7 @@ precipitin
 precipitinogens
 precipitins
 precipitous
+precipitously
 precipitousness
 precis
 precise
@@ -111385,6 +111408,7 @@ quandary
 quandong
 quandongs
 quango
+quangos
 quant
 quanta
 quantal
@@ -112435,6 +112459,7 @@ rakeoffs
 raker
 rakers
 rakes
+raking
 rakish
 rakishly
 rakishness
@@ -119271,6 +119296,7 @@ rhinestones
 rhinitides
 rhino
 rhinoceri
+rhinoceros
 rhinologies
 rhinology
 rhinoplasties
@@ -119783,6 +119809,7 @@ rinser
 rinsers
 rinsing
 rioja
+riojas
 riot
 rioted
 rioter
@@ -125514,6 +125541,7 @@ serjeanty
 sermon
 sermonic
 sermonize
+sermonized
 sermonizer
 sermonizers
 sermonizes
@@ -130774,6 +130802,7 @@ sored
 sorehead
 soreheaded
 sorel
+sorels
 sorely
 sorenesses
 sorer
@@ -133345,6 +133374,7 @@ statoblast
 statoblasts
 statocyst
 statolith
+statoliths
 stator
 stators
 statoscope
@@ -143821,6 +143851,7 @@ townhouse
 townie
 townies
 townish
+townless
 townlets
 towns
 townscape
@@ -145073,6 +145104,7 @@ tricrotic
 trictrac
 trictracs
 tricuspid
+tricycle
 tricycles
 tricyclic
 tricyclics
@@ -149483,6 +149515,7 @@ unloading
 unloads
 unlobed
 unlocalized
+unlocated
 unlock
 unlocked
 unlocking
@@ -151163,6 +151196,7 @@ upticks
 uptightness
 uptightnesses
 uptilting
+uptilts
 uptime
 uptore
 uptorn
@@ -151300,6 +151334,7 @@ urethans
 urethra
 urethrae
 urethral
+urethras
 urethritis
 urethritises
 urethroscope
