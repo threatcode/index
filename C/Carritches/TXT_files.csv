@@ -9,3 +9,5 @@ largeWordList.txt - CS111,http://cs111.wellesley.edu/~cs111/archive/cs111_spring
 input-8-words.txt - cs.wisc.edu,https://pages.cs.wisc.edu/~cat/cs368-2011-2/08-regexp1/input-8-words.txt
 ridyhew_master.txt - Hackage,https://hackage.haskell.org/package/scrabble-bot-0.1.0.0/src/dictionaries/ridyhew_master.txt
 English.txt - SLU Mathematics and Statistics,https://mathstat.slu.edu/~chambers/spring12/150/homework/English.txt
+40521.txt - Project Gutenberg,https://www.gutenberg.org/files/40521/40521.txt
+https://mitxela.com/other/anagrams/Anagrams10.txt,https://mitxela.com/other/anagrams/Anagrams10.txt
