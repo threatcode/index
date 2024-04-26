@@ -1336,6 +1336,7 @@ administrator
 administrators
 administratrix
 admirabilities
+admirability
 admirable
 admirableness
 admirablenesses
@@ -3192,6 +3193,7 @@ allocations
 allocator
 allocators
 allocution
+allocutions
 allod
 allodia
 allodial
@@ -28790,6 +28792,7 @@ cooeeing
 cooees
 cooer
 cooers
+cooey
 cooeyed
 cooeying
 cooeys
@@ -34942,6 +34945,7 @@ dehumanizations
 dehumanize
 dehumanized
 dehumanizes
+dehumanizing
 dehumidified
 dehumidifier
 dehumidifiers
@@ -37861,6 +37865,7 @@ dimout
 dimouts
 dimple
 dimpled
+dimples
 dimplier
 dimpliest
 dimply
@@ -43790,6 +43795,7 @@ emcees
 emdash
 emdashes
 eme
+emeer
 emeerate
 emeerates
 emeers
@@ -51321,6 +51327,7 @@ flamen
 flamenco
 flamencos
 flamens
+flameout
 flameouts
 flameproof
 flameproofed
@@ -53918,6 +53925,7 @@ frenums
 frenzied
 frenziedly
 frenzies
+frenzily
 frenzy
 frenzying
 frequence
@@ -54273,6 +54281,7 @@ frosty
 froth
 frothed
 frother
+frothers
 frothier
 frothiness
 frothing
@@ -56064,6 +56073,8 @@ geekinesses
 geeks
 geeky
 geepound
+geepounds
+gees
 geese
 geez
 geezer
@@ -56145,6 +56156,7 @@ gemmae
 gemmate
 gemmates
 gemmating
+gemmation
 gemmations
 gemmed
 gemmier
@@ -57039,6 +57051,7 @@ girths
 girts
 gisarme
 gisarmes
+gismo
 gismos
 gist
 gists
@@ -61700,6 +61713,7 @@ headhunting
 headier
 headiest
 headily
+headiness
 headinesses
 heading
 headings
@@ -66225,6 +66239,7 @@ idiot
 idiotic
 idiotical
 idiotically
+idiotism
 idiotisms
 idiots
 idiotype
@@ -67549,6 +67564,7 @@ inbreathed
 inbreathes
 inbred
 inbreds
+inbreed
 inbreeder
 inbreeders
 inbreeding
@@ -69290,6 +69306,7 @@ inordinate
 inordinately
 inordinateness
 inorganic
+inorganically
 inosculate
 inosculated
 inosculates
@@ -71344,6 +71361,7 @@ ironnesses
 irons
 ironsides
 ironsmith
+ironsmiths
 ironstone
 ironstones
 ironware
@@ -74616,6 +74634,7 @@ kopiykas
 kopje
 kopjes
 koppa
+koppas
 koppie
 koppies
 kops
@@ -79575,6 +79594,7 @@ maccabaw
 maccabaws
 maccaboy
 maccaboys
+macchia
 macchie
 maccoboy
 maccoboys
@@ -88392,6 +88412,7 @@ nabis
 nabob
 naboberies
 nabobery
+nabobesses
 nabobish
 nabobism
 nabobisms
@@ -91035,6 +91056,7 @@ noninfected
 noninfectious
 noninfested
 noninflammable
+noninflammatory
 noninflationary
 noninflectional
 noninfluence
@@ -93818,6 +93840,7 @@ operculum
 operculums
 operettas
 operettist
+operettists
 operon
 operons
 operose
@@ -96586,6 +96609,7 @@ overfills
 overfish
 overfished
 overfishing
+overfit
 overflew
 overflies
 overflight
@@ -98150,6 +98174,7 @@ paleogene
 paleogeographic
 paleogeography
 paleographer
+paleographers
 paleographic
 paleographical
 paleographies
@@ -100402,6 +100427,7 @@ pelicans
 pelisses
 pelite
 pelites
+pelitic
 pellagra
 pellagras
 pellagrin
@@ -103263,6 +103289,7 @@ pinkey
 pinkeye
 pinkeyes
 pinkeys
+pinkie
 pinkies
 pinkings
 pinkish
@@ -108963,6 +108990,7 @@ prologize
 prologized
 prologizes
 prologizing
+prologs
 prologue
 prologued
 prologues
@@ -119984,6 +120012,7 @@ robed
 robes
 robin
 robins
+roble
 robles
 roborants
 robot
@@ -124858,6 +124887,7 @@ semifluids
 semiformal
 semigala
 semigloss
+semiglosses
 semigroup
 semigroups
 semihard
@@ -135819,6 +135849,7 @@ subrules
 subsale
 subsales
 subsample
+subsampled
 subsamples
 subsampling
 subsatellite
@@ -149023,6 +149054,7 @@ unhooked
 unhooking
 unhooks
 unhopeful
+unhorse
 unhorsed
 unhorses
 unhorsing
@@ -152516,6 +152548,7 @@ verifiableness
 verification
 verifications
 verifier
+verifiers
 verifies
 verify
 verifying
@@ -153833,6 +153866,7 @@ vomited
 vomiter
 vomiting
 vomitive
+vomitives
 vomitory
 vomitos
 vomitous
@@ -155066,6 +155100,7 @@ weatherability
 weatherboard
 weatherboarded
 weatherboarding
+weatherboards
 weathercast
 weathercaster
 weathercasts
