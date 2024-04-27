@@ -1905,6 +1905,7 @@ affirmances
 affirmants
 affirmation
 affirmations
+affirmative
 affirmatives
 affirmed
 affirmer
@@ -14223,6 +14224,7 @@ blethered
 blethers
 blets
 blew
+blighted
 blighter
 blighties
 blighting
@@ -18873,6 +18875,7 @@ callused
 calluses
 calm
 calmatives
+calmed
 calmer
 calmest
 calmness
@@ -19864,6 +19867,7 @@ carbon
 carbonaceous
 carbonades
 carbonado
+carbonadoed
 carbonadoes
 carbonadoing
 carbonados
@@ -23711,6 +23715,7 @@ cicatrice
 cicatrices
 cicatrix
 cicatrixes
+cicatrization
 cicatrizations
 cicatrize
 cicatrizes
@@ -27366,6 +27371,7 @@ concessioner
 concessions
 concessively
 conch
+concha
 conchal
 conchas
 conches
@@ -33190,6 +33196,7 @@ daddy
 dadgum
 dado
 dadoed
+dadoes
 dadoing
 dados
 dads
@@ -38086,6 +38093,7 @@ dingily
 dinginess
 dinginesses
 dinging
+dingle
 dingleberries
 dingleberry
 dingles
@@ -51148,6 +51156,7 @@ firebird
 firebirds
 fireboard
 fireboards
+fireboats
 firebomb
 firebombed
 firebombing
@@ -52372,6 +52381,7 @@ fluidextracts
 fluidics
 fluidise
 fluidises
+fluidities
 fluidity
 fluidization
 fluidizations
@@ -54000,6 +54010,7 @@ fraternize
 fraternized
 fraternizer
 fraternizers
+fraternizes
 fraternizing
 fraters
 fratricidal
@@ -54840,6 +54851,7 @@ fumbling
 fumblingly
 fume
 fumeless
+fumelike
 fumer
 fumers
 fumes
@@ -54930,6 +54942,7 @@ fungistats
 fungo
 fungoes
 fungoid
+fungoids
 fungous
 funhouse
 funhouses
@@ -55621,6 +55634,7 @@ gamboges
 gambogian
 gamboled
 gamboling
+gambolling
 gambols
 gambrel
 gambrels
@@ -56083,6 +56097,7 @@ gastroscopes
 gastroscopic
 gastroscopies
 gastroscopist
+gastroscopists
 gastroscopy
 gastrotrich
 gastrotrichs
@@ -59302,6 +59317,7 @@ greenths
 greenwash
 greenway
 greenways
+greenwing
 greenwings
 greenwood
 greenwoods
@@ -65499,6 +65515,7 @@ hybris
 hybristic
 hydathode
 hydathodes
+hydatid
 hydatids
 hydra
 hydracids
@@ -70115,6 +70132,7 @@ integer
 integers
 integrabilities
 integrability
+integrable
 integral
 integralities
 integrality
@@ -73391,6 +73409,7 @@ junctional
 junctions
 junctural
 juncture
+junctures
 jungled
 junglegyms
 junglelike
@@ -98996,6 +99015,7 @@ pansexual
 pansexuals
 pansies
 pansophic
+pansophies
 pansophy
 pansy
 pant
@@ -105933,6 +105953,7 @@ pontil
 pontils
 pontine
 ponton
+pontoniers
 pontons
 pontoon
 pontoons
@@ -106657,6 +106678,7 @@ pothunting
 pothuntings
 potiche
 potiches
+potion
 potlache
 potlaches
 potlatch
@@ -108221,6 +108243,7 @@ preselections
 preselects
 presell
 preselling
+presells
 presence
 presences
 presentability
@@ -112976,6 +112999,7 @@ rampageous
 rampageously
 rampageousness
 rampager
+rampagers
 rampages
 rampaging
 rampancies
@@ -115953,6 +115977,7 @@ regilt
 regime
 regimen
 regimens
+regiment
 regimental
 regimentals
 regimentation
@@ -120201,6 +120226,7 @@ rimpled
 rimples
 rimpling
 rimrock
+rims
 rimshot
 rimshots
 rimy
@@ -125731,6 +125757,7 @@ sentences
 sentencing
 sententia
 sententiae
+sentential
 sententious
 sententiously
 sententiousness
@@ -128473,6 +128500,7 @@ siphons
 siping
 sipped
 sipper
+sippers
 sippet
 sippets
 sipping
@@ -130421,6 +130449,7 @@ snowshoes
 snowslide
 snowslides
 snowstorm
+snowstorms
 snowsuits
 snowy
 snub
@@ -131469,6 +131498,7 @@ sourest
 souring
 sourish
 sourly
+sourness
 sournesses
 sourpuss
 sourpusses
@@ -142893,6 +142923,7 @@ tidiness
 tiding
 tidings
 tidy
+tidying
 tidytips
 tie
 tieback
@@ -143044,6 +143075,7 @@ timbre
 timbrel
 timbrelled
 timbrels
+timbres
 time
 timecard
 timecards
@@ -148309,6 +148341,7 @@ uncial
 uncially
 uncials
 unciform
+unciforms
 unciliated
 uncinal
 uncinaria
@@ -151300,6 +151333,7 @@ unwonted
 unwontedly
 unwontedness
 unwontednesses
+unwooded
 unwooed
 unworkabilities
 unworkability
@@ -151675,6 +151709,7 @@ upstands
 upstare
 upstared
 upstares
+upstaring
 upstart
 upstarted
 upstarting
