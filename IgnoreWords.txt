@@ -690,6 +690,7 @@ achievable
 achieve
 achieved
 achievement
+achievements
 achiever
 achievers
 achieves
@@ -3219,6 +3220,7 @@ allograph
 allographic
 allographs
 allometric
+allometries
 allometry
 allomorph
 allomorphic
@@ -3943,6 +3945,7 @@ amnion
 amnionic
 amnions
 amniote
+amniotes
 amniotic
 amoeba
 amoebaean
@@ -4325,6 +4328,7 @@ anankes
 anapaest
 anapaests
 anapest
+anapestic
 anapestics
 anapests
 anaphase
@@ -6101,6 +6105,7 @@ apodosis
 apods
 apoenzyme
 apoenzymes
+apogamic
 apogamies
 apogamous
 apogamy
@@ -7352,6 +7357,7 @@ article
 articled
 articles
 articling
+articulable
 articulacies
 articulacy
 articular
@@ -7456,6 +7462,7 @@ ascendable
 ascendance
 ascendances
 ascendancies
+ascendancy
 ascendant
 ascendantly
 ascendants
@@ -14758,6 +14765,7 @@ boatful
 boatfuls
 boathook
 boathooks
+boating
 boatings
 boatlift
 boatlifted
@@ -17127,6 +17135,7 @@ brutalization
 brutalizations
 brutalize
 brutalized
+brutalizes
 brutalizing
 brutally
 brute
@@ -25091,6 +25100,7 @@ coalition
 coalitionist
 coalitionists
 coalitions
+coalless
 coalpit
 coalpits
 coals
@@ -26222,6 +26232,7 @@ colombard
 colon
 colone
 colonel
+colonelcies
 colonelcy
 colonels
 colones
@@ -31236,6 +31247,7 @@ crier
 criers
 cries
 crikey
+crime
 crimeless
 crimes
 criminal
@@ -32617,6 +32629,7 @@ custumal
 custumals
 cut
 cutabilities
+cutaneous
 cutaneously
 cutaways
 cutbacks
@@ -34500,6 +34513,7 @@ decrepitating
 decrepitation
 decrepitations
 decrepitly
+decrepitude
 decrepitudes
 decrescendos
 decrescent
@@ -35038,6 +35052,7 @@ degumming
 degums
 degust
 degustation
+degustations
 degusted
 degusting
 degusts
@@ -37441,6 +37456,7 @@ dibasic
 dibbed
 dibber
 dibbers
+dibble
 dibbled
 dibbler
 dibblers
@@ -46031,6 +46047,7 @@ equilibrated
 equilibrates
 equilibrating
 equilibration
+equilibrations
 equilibrator
 equilibrators
 equilibratory
@@ -56689,6 +56706,7 @@ geoprobe
 geoprobes
 georgette
 georgettes
+georgic
 georgical
 georgics
 geoscience
@@ -70858,6 +70876,7 @@ inthrals
 inthrone
 inthroned
 inthrones
+inthroning
 inti
 intifada
 intifadah
@@ -71891,6 +71910,7 @@ isografting
 isografts
 isogram
 isograms
+isograph
 isographs
 isogriv
 isogrivs
@@ -75961,6 +75981,7 @@ lashing
 lashings
 lashins
 lasing
+lasses
 lassi
 lassies
 lassis
@@ -84802,6 +84823,7 @@ misbelievers
 misbelieves
 misbelieving
 misbias
+misbiased
 misbiasing
 misbiassed
 misbiasses
@@ -89292,6 +89314,7 @@ necker
 neckerchief
 neckerchiefs
 neckerchieves
+neckers
 necking
 neckings
 necklace
@@ -89578,6 +89601,7 @@ neonate
 neonates
 neonatologies
 neonatologist
+neonatologists
 neonatology
 neoned
 neons
@@ -92231,6 +92255,7 @@ notepads
 notepaper
 notepapers
 noter
+noters
 notes
 noteworthily
 noteworthiness
@@ -129055,6 +129080,7 @@ slaveholdings
 slavered
 slaverer
 slaverers
+slaveries
 slavering
 slavers
 slavery
@@ -130208,6 +130234,7 @@ snouted
 snoutier
 snoutiest
 snouting
+snoutish
 snouts
 snow
 snowball
@@ -136393,6 +136420,7 @@ subsoiler
 subsoilers
 subsoiling
 subsoils
+subsolar
 subsonically
 subspace
 subspaces
@@ -149890,6 +149918,7 @@ unlikelinesses
 unlikely
 unlikeness
 unlikenesses
+unlimber
 unlimbered
 unlimbering
 unlimited
@@ -156441,6 +156470,7 @@ wholehearted
 wholeheartedly
 wholemeal
 wholeness
+wholenesses
 wholes
 wholesale
 wholesaled
@@ -157218,6 +157248,7 @@ withstands
 withstood
 withy
 witing
+witless
 witlessly
 witlessness
 witlessnesses
@@ -158028,6 +158059,7 @@ wyting
 wyvern
 wyverns
 xanthan
+xanthans
 xanthate
 xanthates
 xanthein
@@ -158220,6 +158252,7 @@ yammer
 yammerer
 yammerers
 yammering
+yams
 yamulka
 yamulkas
 yamun
@@ -158266,6 +158299,7 @@ yardsticks
 yardwand
 yardwands
 yardwork
+yardworks
 yare
 yarely
 yarest
@@ -158424,6 +158458,7 @@ yen
 yenned
 yenning
 yens
+yenta
 yentas
 yente
 yentes
