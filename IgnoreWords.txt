@@ -1793,6 +1793,7 @@ aerophobe
 aerophobes
 aerophore
 aerophores
+aerophyte
 aerophytes
 aeroplane
 aeroplanes
@@ -2571,6 +2572,7 @@ airscrews
 airshed
 airsheds
 airships
+airshot
 airshots
 airshow
 airshows
@@ -6067,6 +6069,7 @@ apnea
 apneal
 apneic
 apnoea
+apnoeal
 apnoeas
 apo
 apoapsides
@@ -6696,6 +6699,7 @@ arbor
 arboreal
 arboreally
 arbored
+arboreous
 arbores
 arborescence
 arborescent
@@ -7413,6 +7417,7 @@ artlessly
 artlessness
 artlessnesses
 arts
+artsier
 artsiest
 artsiness
 artsinesses
@@ -14030,6 +14035,7 @@ blasphemers
 blasphemies
 blaspheming
 blasphemous
+blasphemousness
 blasphemy
 blast
 blasted
@@ -16548,6 +16554,7 @@ brickwork
 brickworks
 brickyard
 brickyards
+bricolage
 bricole
 bricoles
 bridal
@@ -22953,6 +22960,7 @@ chiropractics
 chiropractor
 chiropractors
 chiropter
+chiropterans
 chiropters
 chiros
 chirp
@@ -23438,6 +23446,7 @@ chromophore
 chromophores
 chromoplast
 chromoplasts
+chromoprotein
 chromoproteins
 chromos
 chromosomal
@@ -27106,6 +27115,7 @@ comprehension
 comprehensions
 comprehensive
 comprehensively
+compress
 compressedly
 compresses
 compressibility
@@ -31586,6 +31596,7 @@ crosstrees
 crosswalk
 crosswalks
 crossway
+crossways
 crosswind
 crosswinds
 crosswise
@@ -31992,6 +32003,7 @@ cubiform
 cubing
 cubism
 cubisms
+cubist
 cubistic
 cubit
 cubital
@@ -32443,6 +32455,7 @@ currajong
 currajongs
 curran
 currans
+currant
 currants
 curred
 currejong
@@ -34398,6 +34411,7 @@ decolouring
 decolours
 decommission
 decommissioned
+decommissioning
 decommissions
 decompensate
 decompensated
@@ -44892,6 +44906,7 @@ engrail
 engrailed
 engrailing
 engrails
+engraining
 engrains
 engram
 engramme
@@ -57214,6 +57229,7 @@ gip
 gipon
 gipons
 gipped
+gipper
 gippers
 gipping
 gips
@@ -66659,6 +66675,7 @@ illegitimacy
 illegitimate
 illegitimately
 iller
+illest
 illiberal
 illiberalism
 illiberalisms
@@ -73126,6 +73143,7 @@ journeyer
 journeyers
 journeyman
 journeymen
+journeys
 journeywork
 journeyworks
 journo
@@ -75592,6 +75610,7 @@ lampas
 lampases
 lampblack
 lampblacks
+lamped
 lampers
 lamperses
 lamping
@@ -80297,6 +80316,7 @@ maiasauras
 maid
 maiden
 maidenhair
+maidenhairs
 maidenhead
 maidenhood
 maidenhoods
@@ -83350,6 +83370,7 @@ meteorological
 meteorologies
 meteorologist
 meteorologists
+meteorology
 meteors
 metepa
 metepas
@@ -94626,6 +94647,7 @@ orientalisms
 orientalist
 orientalists
 orientalize
+orientalized
 orientalizes
 orientalizing
 orientally
@@ -97775,6 +97797,7 @@ overthought
 overthrew
 overthrow
 overthrowing
+overthrown
 overthrows
 overtight
 overtighten
@@ -100737,6 +100760,7 @@ pees
 peesweep
 peesweeps
 peetweet
+peetweets
 peeve
 peeved
 peeves
@@ -107930,6 +107954,7 @@ prepared
 preparedly
 preparedness
 preparednesses
+preparer
 prepares
 prepasted
 prepastes
@@ -109497,6 +109522,7 @@ promulged
 promulging
 pronate
 pronated
+pronates
 pronating
 pronation
 pronations
@@ -112933,6 +112959,7 @@ ramparting
 ramparts
 ramped
 rampike
+rampikes
 ramping
 rampion
 rampions
@@ -120221,6 +120248,7 @@ riparian
 ripcord
 ripcords
 ripe
+riped
 ripely
 ripen
 ripened
@@ -123204,6 +123232,7 @@ scabiosa
 scabiosas
 scabious
 scabiouses
+scabland
 scablands
 scablike
 scabrous
@@ -125699,6 +125728,7 @@ sentimo
 sentimos
 sentinel
 sentineled
+sentineling
 sentinelled
 sentinels
 sentries
@@ -128075,6 +128105,7 @@ silkweed
 silkweeds
 silkworm
 silkworms
+silky
 sill
 sillabubs
 siller
@@ -129227,6 +129258,7 @@ slender
 slenderer
 slenderest
 slenderized
+slenderizes
 slenderizing
 slenderly
 slenderness
@@ -134292,6 +134324,7 @@ stichic
 stichomythias
 stichomythic
 stichomythies
+stichomythy
 stichs
 stick
 stickable
@@ -153768,6 +153801,7 @@ violably
 violaceous
 violas
 violate
+violated
 violater
 violaters
 violates
@@ -157521,6 +157555,7 @@ woodener
 woodenhead
 woodenheads
 woodenly
+woodenness
 woodennesses
 woodenware
 woodgrain
