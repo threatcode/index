@@ -6555,6 +6555,7 @@ aproning
 apronlike
 aprons
 aprotic
+apse
 apses
 apsidal
 apsides
@@ -12750,6 +12751,7 @@ bewrapt
 bewray
 bewrayed
 bewrayer
+bewrayers
 bewraying
 bewrays
 beylic
@@ -23772,6 +23774,7 @@ chylous
 chyme
 chymes
 chymic
+chymics
 chymist
 chymists
 chymosins
@@ -27899,6 +27902,7 @@ confraternities
 confraternity
 confrere
 confreres
+confront
 confrontal
 confrontals
 confrontation
@@ -34890,6 +34894,7 @@ defensemen
 defenses
 defensibilities
 defensibility
+defensible
 defensibly
 defensing
 defensive
@@ -43895,6 +43900,7 @@ emancipating
 emancipation
 emancipationist
 emancipations
+emancipator
 emancipators
 emarginate
 emargination
@@ -44395,6 +44401,7 @@ empurples
 empurpling
 empyema
 empyemas
+empyemata
 empyemic
 empyreal
 empyrean
@@ -44685,6 +44692,7 @@ encyclopedists
 encyst
 encysted
 encysting
+encystment
 encystments
 encysts
 end
@@ -44757,6 +44765,7 @@ endoblast
 endocardia
 endocardial
 endocarditis
+endocarditises
 endocardium
 endocarp
 endocarps
@@ -51153,6 +51162,7 @@ filum
 fimbles
 fimbria
 fimbriae
+fimbrial
 fimbriate
 fimbriated
 fimbriation
@@ -54233,6 +54243,7 @@ freakier
 freakiest
 freakily
 freakiness
+freakinesses
 freaking
 freakish
 freakishly
@@ -55020,6 +55031,7 @@ fulsomely
 fulsomeness
 fulsomenesses
 fulvous
+fumarase
 fumarases
 fumarate
 fumarates
@@ -55216,6 +55228,7 @@ furiously
 furl
 furlable
 furled
+furler
 furless
 furling
 furlong
@@ -61983,6 +61996,7 @@ hatred
 hatreds
 hats
 hatsful
+hatter
 hatteria
 hatterias
 hatters
@@ -71825,6 +71839,7 @@ iontophoretic
 iota
 iotacism
 iotacisms
+iotas
 ipecac
 ipecacs
 ipecacuanha
@@ -71852,6 +71867,7 @@ ired
 ireful
 irefully
 ireless
+irenic
 irenical
 irenically
 irenics
@@ -73887,6 +73903,7 @@ kalams
 kalanchoe
 kalanchoes
 kaleidoscope
+kaleidoscopes
 kaleidoscopic
 kalends
 kales
@@ -75641,6 +75658,7 @@ ladder
 laddered
 laddering
 ladders
+laddie
 laddies
 laddish
 lade
@@ -78786,6 +78804,7 @@ lobelias
 lobeline
 lobelines
 lobes
+loblollies
 loblolly
 lobo
 lobos
@@ -80493,6 +80512,7 @@ magisterial
 magisteriums
 magisters
 magistracies
+magistracy
 magistral
 magistrally
 magistrate
@@ -83196,6 +83216,7 @@ mercerizing
 mercery
 merces
 merch
+merchandise
 merchandised
 merchandisers
 merchandises
@@ -85437,6 +85458,7 @@ misemployments
 misemploys
 misenrol
 misenroll
+misenrolling
 misenrols
 misenter
 misentered
@@ -88434,6 +88456,7 @@ munster
 munsters
 muntin
 munting
+muntings
 muntins
 muntjak
 muntjaks
@@ -92991,6 +93014,7 @@ nuncio
 nuncle
 nuncles
 nuncupative
+nunlike
 nunnation
 nunnery
 nunnish
@@ -93923,6 +93947,7 @@ offline
 offload
 offloaded
 offloading
+offloads
 offprint
 offprinted
 offprinting
@@ -99847,6 +99872,7 @@ parecism
 parecisms
 pared
 paregoric
+paregorics
 pareira
 pareiras
 parenchyma
@@ -114617,6 +114643,7 @@ recentrifuge
 recentrifuges
 recentrifuging
 recept
+receptacle
 receptacles
 reception
 receptionist
@@ -116708,6 +116735,7 @@ reinfects
 reinfestation
 reinfestations
 reinflame
+reinflamed
 reinflames
 reinflaming
 reinflate
@@ -119619,6 +119647,7 @@ retted
 retting
 retune
 retuned
+retunes
 retuning
 return
 returnables
@@ -124604,6 +124633,7 @@ scram
 scramble
 scrambled
 scrambler
+scramblers
 scrambles
 scrambling
 scramjet
@@ -130415,6 +130445,7 @@ smudging
 smudgy
 smug
 smugger
+smuggest
 smuggled
 smuggler
 smuggles
@@ -146468,6 +146499,7 @@ tritest
 tritheism
 tritheisms
 tritheist
+tritheistic
 tritheistical
 tritheists
 trithing
@@ -157246,6 +157278,7 @@ widdershins
 widdie
 widdle
 widdled
+widdles
 widdling
 wide
 wideawake
@@ -157478,6 +157511,7 @@ wimpy
 win
 wince
 winced
+winces
 wincey
 winceys
 winch
@@ -157799,6 +157833,7 @@ wisest
 wisewoman
 wisewomen
 wish
+wisha
 wishbone
 wishbones
 wished

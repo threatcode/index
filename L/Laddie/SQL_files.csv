@@ -1,3 +1,6 @@
 T,https://github.com/AshamaneProject/AshamaneCore/blob/master/sql/old/4.3.4/TDB1_to_TDB2_updates/world/006_quest_template.sql
 azerothcore-wotlk/data/sql/base/db_world/quest_request_items.sql ...,https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/quest_request_items.sql
 scotchap_sqldump.sql - Enlighten Research Data,https://researchdata.gla.ac.uk/936/4/scotchap_sqldump.sql
+scotchap_projec ... 014_sqldump.sql - Enlighten Research Data,https://researchdata.gla.ac.uk/936/5/scotchap_project_2014_sqldump.sql
+azerothcore-wotlk/data/sql/base/db_world/quest_request_items.sql ...,https://github.com/azerothcore/azerothcore-wotlk/blob/master/data/sql/base/db_world/quest_request_items.sql
+Blame - GitLab,https://gitlab.com/trinitycore/TrinityCore_434/blob/f430d2fd31ca04ee3c36baf794803caec8f2721b/sql/old/4.3.4/TDB01_to_TDB02_updates/world/006_quest_template.sql
