@@ -5260,6 +5260,7 @@ antibacklash
 antibacterial
 antibacterials
 antibias
+antibillboard
 antibioses
 antibiosis
 antibiotic
@@ -5324,6 +5325,7 @@ anticline
 anticlines
 anticlockwise
 anticly
+anticoagulant
 anticoagulants
 anticodon
 anticold
@@ -11544,6 +11546,7 @@ bedrolls
 bedroom
 bedroomed
 bedrooms
+bedrug
 bedrugged
 bedrugging
 bedrugs
@@ -12807,6 +12810,7 @@ biaxal
 biaxial
 biaxially
 bib
+bibb
 bibbed
 bibber
 bibberies
@@ -13513,6 +13517,7 @@ bioscopes
 bioscopies
 bioscopy
 biosensor
+biosocial
 biosocially
 biosolids
 biosphere
@@ -17521,6 +17526,7 @@ bullaces
 bullae
 bullbaitings
 bullbats
+bullbrier
 bullbriers
 bulldog
 bulldogged
@@ -19388,6 +19394,7 @@ cannier
 canniest
 cannikin
 cannikins
+cannily
 canniness
 canninesses
 canning
@@ -20719,6 +20726,7 @@ cataleptics
 catalexes
 catalexis
 catalo
+cataloes
 catalog
 cataloged
 cataloger
@@ -30739,6 +30747,7 @@ coypous
 coypu
 coypus
 coys
+coz
 cozen
 cozenage
 cozenages
@@ -35607,6 +35616,7 @@ demilunes
 demimondaine
 demimondaines
 demimondes
+demineralized
 demineralizer
 demineralizers
 demineralizes
@@ -41069,6 +41079,7 @@ downcome
 downcourt
 downdraft
 downdrafts
+downed
 downer
 downers
 downfall
@@ -43516,6 +43527,7 @@ electrify
 electrifying
 electro
 electroacoustic
+electroanalyses
 electroanalysis
 electrocute
 electrocuted
@@ -55528,6 +55540,7 @@ gainlier
 gainliest
 gainly
 gainsaid
+gainsay
 gainsayer
 gainsayers
 gainsaying
@@ -60536,6 +60549,7 @@ guzzled
 guzzler
 guzzlers
 guzzles
+guzzling
 gweduc
 gweducks
 gweducs
@@ -67078,6 +67092,7 @@ imboldens
 imbosom
 imbosomed
 imbosoming
+imbosoms
 imbower
 imbowered
 imbowering
@@ -68297,6 +68312,7 @@ incommunicable
 incommunicably
 incommunicado
 incommunicative
+incommutable
 incommutably
 incompact
 incomparability
@@ -69868,6 +69884,7 @@ inrush
 inrushes
 inrushing
 inrushings
+ins
 insalubrious
 insalubrities
 insane
@@ -81935,6 +81952,7 @@ masticator
 masticators
 masticatory
 mastiche
+mastiches
 mastics
 mastiff
 mastiffs
@@ -88478,6 +88496,7 @@ muscat
 muscatel
 muscatels
 muscats
+muscid
 muscids
 muscle
 muscled
@@ -90018,6 +90037,7 @@ nepotic
 nepotism
 nepotisms
 nepotist
+nepotistic
 nepotists
 neptunium
 neptuniums
@@ -90712,6 +90732,7 @@ niobic
 niobite
 niobites
 niobium
+niobiums
 niobous
 nipa
 nipas
@@ -95719,6 +95740,7 @@ outdragged
 outdragging
 outdrags
 outdrank
+outdraw
 outdrawing
 outdraws
 outdream
@@ -97370,6 +97392,7 @@ overhand
 overhanded
 overhanding
 overhandle
+overhandled
 overhandles
 overhands
 overhanging
@@ -106911,6 +106934,7 @@ potentials
 potentiate
 potentiated
 potentiates
+potentiating
 potentiation
 potentiations
 potentiator
@@ -110989,6 +111013,7 @@ publishes
 publishing
 publishings
 pubs
+puccoon
 puce
 puces
 pucka
@@ -115901,6 +115926,7 @@ refiled
 refiles
 refiling
 refill
+refillable
 refilled
 refilling
 refills
@@ -125835,6 +125861,7 @@ semioticians
 semioticist
 semioticists
 semiotics
+semioval
 semipalmated
 semiparasite
 semiparasites
@@ -126873,6 +126900,7 @@ shaming
 shamisen
 shamisens
 shammas
+shammed
 shammer
 shammers
 shammes
@@ -130384,6 +130412,7 @@ snakebirds
 snakebit
 snakebite
 snakebites
+snakebitten
 snakehead
 snakepit
 snakepits
@@ -133895,6 +133924,7 @@ stairway
 stairwell
 stairwells
 staithe
+staithes
 stake
 staked
 stakeholder
@@ -140041,6 +140071,7 @@ tailles
 tailless
 tailleur
 tailleurs
+taillight
 taillights
 tailor
 tailorbird
@@ -143395,6 +143426,7 @@ tillable
 tillages
 tillandsia
 tillandsias
+tilled
 tiller
 tillered
 tillerman
@@ -151410,6 +151442,7 @@ unsubstantiated
 unsubtle
 unsubtly
 unsuccess
+unsuccesses
 unsuccessful
 unsuccessfully
 unsuitable
@@ -154557,6 +154590,7 @@ vitellogenesis
 vitellus
 vitelluses
 vitesse
+vitesses
 vitiable
 vitiate
 vitiated
@@ -158178,6 +158212,7 @@ worded
 wordier
 wordiest
 wordily
+wordiness
 wordinesses
 wording
 wordings
