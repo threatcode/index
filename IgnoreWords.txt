@@ -1371,6 +1371,7 @@ admittee
 admittees
 admitter
 admitters
+admitting
 admix
 admixed
 admixes
@@ -9745,6 +9746,7 @@ baffed
 baffies
 baffing
 baffle
+baffled
 bafflegab
 bafflegabs
 baffler
@@ -12363,6 +12365,7 @@ beseem
 beseemed
 beseeming
 beseems
+beset
 besetment
 besetments
 besets
@@ -15118,6 +15121,7 @@ bondless
 bondmaid
 bondmaids
 bondman
+bondmen
 bonds
 bondsman
 bondsmen
@@ -19327,6 +19331,7 @@ canny
 canoe
 canoeable
 canoed
+canoeing
 canoeist
 canoer
 canoers
@@ -23164,6 +23169,7 @@ chomping
 chomps
 chondriosome
 chondriosomes
+chondrite
 chondrites
 chondritic
 chondrocrania
@@ -25841,6 +25847,7 @@ coincidently
 coincides
 coinciding
 coined
+coiner
 coiners
 coinfect
 coinfected
@@ -29291,6 +29298,7 @@ coremia
 coremium
 coreopsis
 corepressor
+corepressors
 corequisite
 corequisites
 corer
@@ -30907,6 +30915,7 @@ crazing
 crazy
 crazyweed
 crazyweeds
+creak
 creaked
 creakier
 creakiest
@@ -31822,6 +31831,7 @@ cryoscopic
 cryoscopies
 cryoscopy
 cryostat
+cryostatic
 cryostats
 cryosurgeon
 cryosurgeons
@@ -35095,6 +35105,7 @@ deionizes
 deionizing
 deism
 deisms
+deist
 deistic
 deistically
 deists
@@ -37121,6 +37132,7 @@ diabase
 diabases
 diabasic
 diabetes
+diabetic
 diabetics
 diabetogenic
 diabetologist
@@ -40667,6 +40679,7 @@ dossel
 dossels
 dosser
 dosseret
+dosserets
 dossers
 dosses
 dosshouse
@@ -46442,6 +46455,7 @@ eskers
 esne
 esnes
 esophageal
+esophagi
 esophagus
 esoteric
 esoterica
@@ -47071,6 +47085,7 @@ evacuate
 evacuated
 evacuates
 evacuating
+evacuation
 evacuations
 evacuative
 evacuator
@@ -47782,6 +47797,7 @@ exiled
 exiler
 exilers
 exilic
+exiling
 eximious
 exine
 exines
@@ -57633,6 +57649,7 @@ glomerules
 glomeruli
 glomerulus
 glommed
+glomming
 gloms
 glomus
 glonoin
@@ -75544,6 +75561,7 @@ lanated
 lance
 lanced
 lancelet
+lanceolate
 lancer
 lancers
 lances
@@ -79487,6 +79505,7 @@ lurers
 lures
 lurex
 lurexes
+lurid
 luridness
 luridnesses
 luringly
@@ -80545,6 +80564,7 @@ malteds
 maltha
 malthas
 maltier
+maltiest
 maltiness
 maltinesses
 malting
@@ -83380,6 +83400,7 @@ metopic
 metopon
 metopons
 metralgias
+metrazol
 metrazols
 metre
 metred
@@ -87260,6 +87281,7 @@ moulted
 moulter
 moulting
 moults
+mound
 moundbird
 moundbirds
 mounded
@@ -89149,6 +89171,7 @@ ne
 neap
 neaps
 near
+nearby
 neared
 nearer
 nearest
@@ -108623,6 +108646,7 @@ primo
 primogenitor
 primogenitors
 primogeniture
+primogenitures
 primordia
 primordial
 primordially
@@ -113860,6 +113884,7 @@ reboils
 rebook
 rebooked
 rebooking
+rebooks
 reboot
 rebooted
 rebooting
@@ -119009,6 +119034,7 @@ retry
 retrying
 rets
 retsina
+retsinas
 retted
 retting
 retune
@@ -119606,6 +119632,7 @@ rhodomontade
 rhodomontades
 rhodonite
 rhodonites
+rhodopsin
 rhodopsins
 rhodora
 rhodoras
@@ -124690,6 +124717,7 @@ section
 sectional
 sectionalism
 sectionalisms
+sectionally
 sectionals
 sectioned
 sectioning
@@ -125038,6 +125066,7 @@ selenide
 selenides
 selenious
 selenite
+selenites
 selenitic
 seleniums
 selenocentric
@@ -132491,6 +132520,7 @@ sponsion
 sponsions
 sponson
 sponsons
+sponsorial
 sponsoring
 sponsorships
 spontaneities
@@ -132730,6 +132760,7 @@ sprightliness
 sprightlinesses
 sprightly
 sprights
+sprigs
 sprigtail
 sprigtails
 spring
@@ -144899,6 +144930,7 @@ trapshooter
 trapshooters
 trapshooting
 trapshootings
+trapt
 trapunto
 trapuntos
 trash
@@ -148946,6 +148978,7 @@ undulations
 undulators
 undulatory
 undulled
+unduly
 undutifully
 undutifulness
 undutifulnesses
@@ -153281,6 +153314,7 @@ vicarage
 vicarages
 vicarate
 vicarates
+vicarial
 vicariance
 vicariances
 vicariant
@@ -157454,6 +157488,7 @@ wools
 woolsack
 woolsacks
 woolshed
+woolsheds
 woolskin
 woolskins
 woolworks
