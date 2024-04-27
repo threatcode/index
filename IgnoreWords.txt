@@ -3675,6 +3675,7 @@ ambiences
 ambient
 ambients
 ambiguities
+ambiguity
 ambiguous
 ambiguously
 ambiguousness
@@ -4948,6 +4949,7 @@ annulations
 annulet
 annulets
 annuli
+annulling
 annulment
 annulments
 annulose
@@ -10452,6 +10454,7 @@ barefaced
 barefacedly
 barefacedness
 barefacednesses
+barefit
 barefoot
 barefooted
 barege
@@ -12505,6 +12508,7 @@ bespeak
 bespeaking
 bespeaks
 bespectacled
+bespoke
 bespouse
 bespoused
 bespouses
@@ -14159,6 +14163,7 @@ bleachers
 bleaches
 bleaching
 bleak
+bleaker
 bleakest
 bleakish
 bleakly
@@ -19319,6 +19324,7 @@ canicular
 canids
 canikins
 canine
+canines
 caning
 caninities
 caninity
@@ -22744,6 +22750,7 @@ chickweed
 chickweeds
 chicle
 chicles
+chicly
 chicness
 chicnesses
 chico
@@ -26341,6 +26348,7 @@ colons
 colonus
 colony
 colophonies
+colophons
 color
 colorable
 colorably
@@ -28854,6 +28862,7 @@ conventually
 conventuals
 converge
 converged
+convergence
 convergences
 convergencies
 convergency
@@ -31616,6 +31625,7 @@ crosscuts
 crosscuttings
 crosse
 crossed
+crosser
 crossers
 crosses
 crossfires
@@ -33376,6 +33386,7 @@ dalesman
 dalesmen
 daleth
 daleths
+dalles
 dalliance
 dalliances
 dallied
@@ -36474,6 +36485,7 @@ desegregates
 desegregating
 desegregation
 desegregations
+deselect
 deselecting
 deselects
 desensitization
@@ -38164,6 +38176,7 @@ dings
 dingus
 dinguses
 dingy
+dining
 dinitro
 dinitrobenzene
 dinitrobenzenes
@@ -39264,6 +39277,7 @@ dismast
 dismasted
 dismasting
 dismasts
+dismay
 dismayed
 dismaying
 dismayingly
@@ -39741,6 +39755,7 @@ distaff
 distaffs
 distain
 distained
+distaining
 distains
 distal
 distance
@@ -49522,6 +49537,7 @@ fard
 farded
 fardel
 fardels
+farding
 fare
 farebox
 fareboxes
@@ -49585,6 +49601,7 @@ farouche
 farraginous
 farrago
 farragoes
+farrier
 farrieries
 farriers
 farriery
@@ -62619,6 +62636,7 @@ hellbroths
 hellcat
 hellcats
 helldiver
+helldivers
 helled
 hellenization
 hellenize
@@ -76418,6 +76436,7 @@ laureations
 laurel
 laureled
 laureling
+laurelled
 laurels
 lauwine
 lauwines
@@ -78135,6 +78154,7 @@ linocuts
 linoleate
 linoleum
 linoleums
+linotype
 linotyped
 linotyper
 linotypers
@@ -95372,6 +95392,7 @@ outachieves
 outachieving
 outact
 outacting
+outacts
 outadd
 outadded
 outadding
@@ -99795,6 +99816,7 @@ parkinsonism
 parkinsonisms
 parkland
 parklands
+parklike
 parks
 parkway
 parkways
@@ -106941,6 +106963,7 @@ pounce
 pounced
 pouncer
 pouncers
+pounces
 pouncing
 pound
 poundage
@@ -110031,6 +110054,7 @@ prosciutti
 prosciutto
 prosciuttos
 proscribe
+proscriber
 proscribers
 proscribes
 proscribing
@@ -115321,6 +115345,7 @@ redividing
 redivision
 redivivus
 redivorce
+redivorces
 redleg
 redlegs
 redline
@@ -123912,6 +123937,7 @@ schizonts
 schizophrene
 schizophrenes
 schizophrenia
+schizophrenias
 schizophrenic
 schizophrenics
 schizopod
@@ -127116,6 +127142,7 @@ shelters
 sheltie
 shelties
 shelty
+shelved
 shelver
 shelvers
 shelves
@@ -129415,6 +129442,7 @@ slaughtering
 slaughterous
 slaughterously
 slaughters
+slaved
 slaveholder
 slaveholding
 slaveholdings
@@ -139207,6 +139235,7 @@ sylvins
 sylvite
 sylvites
 symbion
+symbions
 symbiont
 symbionts
 symbioses
@@ -140729,6 +140758,7 @@ taxonomists
 taxonomy
 taxons
 taxpaid
+taxpayer
 taxpayers
 taxpaying
 taxus
@@ -142735,6 +142765,7 @@ threaded
 threader
 threaders
 threadfin
+threadfins
 threadier
 threadiest
 threadiness
@@ -146285,6 +146316,7 @@ trivalent
 trivalve
 trivalves
 trivet
+trivets
 trivial
 trivialise
 trivialised
@@ -147120,6 +147152,7 @@ turd
 turdine
 turds
 tureen
+tureens
 turf
 turfed
 turfgrass
@@ -147166,6 +147199,7 @@ turks
 turmeric
 turmoil
 turmoiled
+turmoiling
 turmoils
 turn
 turnable
@@ -155240,6 +155274,7 @@ walkings
 walkingsticks
 walkout
 walkouts
+walkover
 walkovers
 walks
 walkup
