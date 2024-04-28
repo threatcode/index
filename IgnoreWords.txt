@@ -389,6 +389,7 @@ acceptors
 accepts
 access
 accessaries
+accessary
 accessed
 accesses
 accessibilities
@@ -5507,6 +5508,7 @@ antiknock
 antiknocks
 antilabor
 antileak
+antileft
 antileprosy
 antileukemic
 antiliberal
@@ -8229,6 +8231,7 @@ atolls
 atom
 atomic
 atomical
+atomically
 atomicities
 atomics
 atomies
@@ -8982,6 +8985,7 @@ autotype
 autotypes
 autotypies
 autoworker
+autoworkers
 autoxidation
 autoxidations
 autumn
@@ -11929,6 +11933,7 @@ behowled
 behowling
 behowls
 beige
+beiges
 beigne
 beignes
 beigy
@@ -24860,6 +24865,7 @@ clinician
 clinicians
 clink
 clinked
+clinker
 clinkered
 clinkering
 clinkers
@@ -27714,6 +27720,7 @@ condemnors
 condemns
 condensable
 condensate
+condensates
 condensation
 condensational
 condensations
@@ -33792,6 +33799,7 @@ darkening
 darker
 darkest
 darkey
+darkeys
 darkie
 darkies
 darking
@@ -35199,6 +35207,7 @@ deforesting
 deforests
 deform
 deformable
+deformalize
 deformalized
 deformalizes
 deformalizing
@@ -37824,6 +37833,7 @@ dichotomously
 dichotomousness
 dichotomy
 dichroic
+dichroism
 dichroisms
 dichroites
 dichromat
@@ -37935,6 +37945,7 @@ didjeridu
 didjeridus
 dido
 didoes
+didos
 didy
 didymium
 didynamies
@@ -41254,6 +41265,7 @@ downbursts
 downcast
 downcasts
 downcome
+downcomes
 downcourt
 downdraft
 downdrafts
@@ -44981,6 +44993,7 @@ endometrial
 endometrioses
 endometriosis
 endometritises
+endometrium
 endomitoses
 endomitosis
 endomitotic
@@ -46951,6 +46964,7 @@ essayists
 essays
 essence
 essences
+essential
 essentialism
 essentialisms
 essentialist
@@ -47003,6 +47017,7 @@ estheses
 esthesia
 esthesias
 esthesis
+esthesises
 esthete
 esthetes
 esthetic
@@ -51849,6 +51864,7 @@ flabbiness
 flabbinesses
 flabby
 flabella
+flabellate
 flabelliform
 flabellum
 flabs
@@ -55419,6 +55435,7 @@ furcates
 furcating
 furcation
 furcations
+furcraea
 furcraeas
 furculae
 furculum
@@ -55844,6 +55861,7 @@ galea
 galeae
 galeas
 galeate
+galeated
 galena
 galenas
 galenic
@@ -56895,6 +56913,7 @@ generalcy
 generalisations
 generalise
 generalised
+generalises
 generalising
 generalist
 generalists
@@ -58846,6 +58865,7 @@ googlies
 googly
 googolplex
 googolplexes
+googols
 gooier
 gooiest
 gooks
@@ -69340,6 +69360,7 @@ inertly
 inertness
 inertnesses
 inerts
+inescapable
 inescapably
 inessential
 inessentials
@@ -72453,6 +72474,7 @@ isochronism
 isochronisms
 isochronous
 isochronously
+isochrons
 isoclinal
 isoclinals
 isocline
@@ -74736,6 +74758,7 @@ khoums
 ki
 kiang
 kiangs
+kiaugh
 kiaughs
 kibbe
 kibbeh
@@ -77065,6 +77088,7 @@ leafleter
 leafleters
 leafleting
 leaflets
+leafletted
 leafletting
 leaflike
 leafs
@@ -84893,6 +84917,7 @@ mille
 milled
 millefiori
 millefioris
+millefleur
 millefleurs
 millenarian
 millenarianism
@@ -86031,6 +86056,7 @@ mismating
 mismeet
 mismeeting
 mismeets
+mismove
 mismoved
 mismoves
 mismoving
@@ -107564,6 +107590,7 @@ powdered
 powderer
 powderers
 powdering
+powderless
 powderlike
 powders
 powdery
@@ -116911,6 +116938,7 @@ regrettably
 regretted
 regretter
 regretters
+regretting
 regrind
 regrinding
 regrinds
@@ -121944,6 +121972,7 @@ roubles
 rouche
 rouches
 roue
+rouen
 rouens
 roues
 rouge
@@ -132594,6 +132623,7 @@ spadille
 spadilles
 spading
 spadix
+spadixes
 spado
 spadones
 spae
@@ -133334,6 +133364,7 @@ spinnerettes
 spinneries
 spinners
 spinnery
+spinney
 spinneys
 spinnies
 spinning
@@ -140062,6 +140093,7 @@ synagogal
 synagogs
 synagogues
 synalepha
+synalephas
 synaloepha
 synaloephas
 synanon
@@ -152041,6 +152073,7 @@ unstitched
 unstitches
 unstitching
 unstocked
+unstoned
 unstop
 unstoppable
 unstoppably
@@ -155553,6 +155586,7 @@ voluminosity
 voluminous
 voluminously
 voluminousness
+voluntaries
 voluntarily
 voluntariness
 voluntarinesses
@@ -156504,6 +156538,7 @@ watchouts
 watchtower
 watchtowers
 watchword
+watchwords
 water
 waterage
 waterages
