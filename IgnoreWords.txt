@@ -2528,6 +2528,7 @@ airfreight
 airfreighted
 airfreighting
 airfreights
+airglows
 airhead
 airheaded
 airheads
@@ -3700,6 +3701,7 @@ ambitionless
 ambitions
 ambitious
 ambitiously
+ambitiousness
 ambitiousnesses
 ambits
 ambivalence
@@ -4590,6 +4592,7 @@ anergias
 anergic
 anergies
 anergy
+aneroid
 aneroids
 anes
 anesthesia
@@ -10511,6 +10514,7 @@ bargeboard
 bargeboards
 barged
 bargee
+bargees
 bargello
 bargellos
 bargeman
@@ -14838,6 +14842,7 @@ boatful
 boatfuls
 boathook
 boathooks
+boathouse
 boating
 boatings
 boatlift
@@ -19122,6 +19127,7 @@ camisia
 camisias
 camisole
 camlet
+camlets
 cammie
 cammies
 camomile
@@ -23486,6 +23492,7 @@ christianias
 christie
 christies
 christy
+chroma
 chromaffin
 chromas
 chromate
@@ -35021,6 +35028,7 @@ deflea
 defleaed
 defleaing
 defleas
+deflect
 deflectable
 deflected
 deflecting
@@ -38856,6 +38864,7 @@ disconcerting
 disconcertingly
 disconcertment
 disconcertments
+disconcerts
 disconfirm
 disconfirmed
 disconfirming
@@ -43745,6 +43754,7 @@ elicited
 elicitor
 elicitors
 elides
+elidible
 eliding
 eligibilities
 eligibility
@@ -47623,6 +47633,7 @@ exaggerate
 exaggerated
 exaggeratedly
 exaggeratedness
+exaggerates
 exaggeration
 exaggerations
 exaggerative
@@ -49181,6 +49192,7 @@ facts
 factual
 factualism
 factualisms
+factualist
 factualists
 factualities
 factuality
@@ -50462,6 +50474,7 @@ ferments
 fermi
 fermion
 fermionic
+fermions
 fermis
 fermiums
 fern
@@ -52950,6 +52963,7 @@ folate
 folates
 fold
 foldable
+foldaway
 foldboat
 foldboats
 folded
@@ -57926,6 +57940,7 @@ gloatingly
 gloats
 glob
 global
+globalise
 globalised
 globalises
 globalising
@@ -68108,6 +68123,7 @@ inarm
 inarmed
 inarming
 inarms
+inarticulacies
 inarticulacy
 inarticulately
 inartistic
@@ -73612,6 +73628,7 @@ juggernauts
 jugging
 juggle
 juggled
+juggler
 juggleries
 jugglers
 jugglery
@@ -74680,6 +74697,7 @@ kilometre
 kilometres
 kilomoles
 kiloparsec
+kiloparsecs
 kilopascal
 kilopascals
 kilorad
@@ -75616,6 +75634,7 @@ lackadaisical
 lackadaisically
 lackaday
 lacker
+lackering
 lackers
 lackey
 lackeying
@@ -92744,6 +92763,7 @@ notturni
 notturno
 notum
 notwithstanding
+nougat
 nougats
 noumena
 noumenon
@@ -102560,6 +102580,7 @@ petrography
 petrol
 petrolatum
 petrolatums
+petroleum
 petroleums
 petrolic
 petrologic
@@ -110819,6 +110840,7 @@ psalmodic
 psalmodies
 psalmody
 psalms
+psalter
 psalteria
 psalteries
 psalters
@@ -117291,6 +117313,7 @@ relumined
 reluming
 relumining
 rely
+relying
 rem
 remail
 remailed
@@ -117827,6 +117850,7 @@ repackagers
 repackages
 repackaging
 repacked
+repacking
 repacks
 repaid
 repaint
@@ -120596,6 +120620,7 @@ riggings
 right
 righted
 righteous
+righteously
 righteousnesses
 righter
 righters
@@ -128900,6 +128925,7 @@ sinfulnesses
 sing
 singable
 singalong
+singalongs
 singe
 singeing
 singer
@@ -133259,6 +133285,7 @@ sponsion
 sponsions
 sponson
 sponsons
+sponsored
 sponsorial
 sponsoring
 sponsorships
@@ -135490,6 +135517,7 @@ stoups
 stour
 stoure
 stoures
+stoury
 stout
 stouten
 stoutening
@@ -139335,6 +139363,7 @@ swithe
 swither
 swithered
 swithering
+swithers
 swithly
 swive
 swived
@@ -147892,6 +147921,7 @@ tympani
 tympanic
 tympanies
 tympanist
+tympanists
 tympanites
 tympanitic
 tympano
@@ -151506,6 +151536,7 @@ unspeaks
 unspecifiable
 unspecific
 unspecified
+unspectacular
 unspent
 unsphere
 unsphered
@@ -151565,6 +151596,7 @@ unsteps
 unsterile
 unsterilized
 unstick
+unsticks
 unstinted
 unstinting
 unstintingly
@@ -153055,6 +153087,7 @@ vandykes
 vane
 vaned
 vanes
+vang
 vangs
 vanguard
 vanguardism
@@ -156486,6 +156519,7 @@ weel
 ween
 weened
 weenie
+weenier
 weenies
 weening
 weens
@@ -159724,6 +159758,7 @@ zincite
 zincites
 zincked
 zincking
+zincky
 zincous
 zincs
 zincy
