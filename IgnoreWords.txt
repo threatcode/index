@@ -6467,6 +6467,7 @@ appositively
 appraisals
 appraise
 appraised
+appraisee
 appraisees
 appraisement
 appraisements
@@ -6572,6 +6573,7 @@ aproned
 aproning
 apronlike
 aprons
+apropos
 aprotic
 apse
 apses
@@ -8672,6 +8674,7 @@ auspices
 auspicious
 austenite
 austenites
+austenitic
 austere
 austerely
 austerenesses
@@ -13864,6 +13867,7 @@ bitterish
 bitterly
 bittern
 bitterness
+bitternesses
 bitterns
 bitternut
 bitternuts
@@ -14866,6 +14870,7 @@ boatfuls
 boathook
 boathooks
 boathouse
+boathouses
 boating
 boatings
 boatlift
@@ -15515,6 +15520,7 @@ bootleggers
 bootlegging
 bootlegs
 bootlessly
+bootlessness
 bootlessnesses
 bootlick
 bootlicked
@@ -15821,6 +15827,7 @@ boulderer
 boulderers
 bouldering
 boulders
+bouldery
 boule
 boules
 boulevard
@@ -17663,6 +17670,7 @@ bulrushes
 bulwarked
 bulwarking
 bum
+bumbershoot
 bumbershoots
 bumble
 bumblebee
@@ -21525,6 +21533,7 @@ centiliter
 centiliters
 centillion
 centillions
+centime
 centimes
 centimeter
 centimeters
@@ -23078,6 +23087,7 @@ chips
 chiral
 chiralities
 chirality
+chirimoya
 chirimoyas
 chirk
 chirked
@@ -29781,6 +29791,7 @@ correlatable
 correlate
 correlated
 correlates
+correlating
 correlation
 correlational
 correlations
@@ -31016,6 +31027,7 @@ craniums
 crank
 crankcase
 crankcases
+cranked
 cranker
 crankest
 crankier
@@ -48546,6 +48558,7 @@ exploitive
 exploits
 exploration
 explorational
+explorations
 explorative
 exploratively
 exploratory
@@ -50912,6 +50925,7 @@ fibrin
 fibrinogen
 fibrinogens
 fibrinoid
+fibrinoids
 fibrinolyses
 fibrinolysin
 fibrinolysins
@@ -53858,6 +53872,7 @@ forming
 formless
 formlessness
 formlessnesses
+formol
 formols
 forms
 formula
@@ -61116,6 +61131,7 @@ hailer
 hailers
 hailing
 hails
+hailstone
 hailstones
 hailstorm
 hailstorms
@@ -63840,6 +63856,7 @@ hillcrests
 hilled
 hiller
 hillers
+hilliest
 hilliness
 hillinesses
 hilling
@@ -75927,6 +75944,7 @@ laicization
 laicize
 laicized
 laicizes
+laicizing
 laics
 laid
 laigh
@@ -83944,6 +83962,7 @@ methodicalness
 methodise
 methodised
 methodises
+methodising
 methodisms
 methodist
 methodistic
@@ -94758,6 +94777,7 @@ operagoings
 operand
 operands
 operant
+operants
 operas
 operate
 operated
@@ -98232,6 +98252,7 @@ oversizes
 overskirt
 overskirts
 overslaugh
+overslaughed
 overslaughing
 overslaughs
 oversleep
@@ -100505,6 +100526,7 @@ passacaglias
 passade
 passades
 passado
+passadoes
 passados
 passage
 passaged
@@ -102912,6 +102934,7 @@ pharmacologist
 pharmacology
 pharmacopeia
 pharmacopeial
+pharmacopeias
 pharmacopoeia
 pharmacopoeial
 pharmacopoeias
@@ -109062,6 +109085,7 @@ presumers
 presumes
 presuming
 presummit
+presummits
 presumptive
 presumptively
 presumptuous
@@ -112371,6 +112395,7 @@ quadrigae
 quadrilateral
 quadrilaterals
 quadrille
+quadrilles
 quadrillion
 quadrillions
 quadrillionth
@@ -119398,6 +119423,7 @@ restrictions
 restrictive
 restrictively
 restrictiveness
+restricts
 restrike
 restrikes
 restriking
@@ -122265,6 +122291,7 @@ rumormongering
 rumormongerings
 rumormongers
 rumors
+rumoured
 rumouring
 rumours
 rump
@@ -124603,6 +124630,7 @@ sciatics
 sciences
 sciential
 scientific
+scientifically
 scientism
 scientisms
 scientist
@@ -131541,6 +131569,7 @@ solanines
 solanins
 solano
 solans
+solanum
 solanums
 solar
 solaria
@@ -135567,6 +135596,7 @@ stoned
 stonefish
 stonefishes
 stoneflies
+stonefly
 stonemason
 stonemasons
 stoner
@@ -137970,6 +138000,7 @@ summarises
 summarising
 summarist
 summarizable
+summarization
 summarizations
 summarizer
 summarizers
@@ -145546,6 +145577,7 @@ trammelled
 trammelling
 trammels
 tramming
+tramontane
 tramontanes
 tramp
 tramped
@@ -146874,6 +146906,7 @@ trivalve
 trivalves
 trivet
 trivets
+trivia
 trivial
 trivialise
 trivialised
@@ -157327,6 +157360,7 @@ whipsawed
 whipsawing
 whipsawn
 whipsaws
+whipsnake
 whipsnakes
 whipstall
 whipstitch
@@ -159415,6 +159449,7 @@ yclad
 ycleped
 yclept
 ye
+yea
 yeah
 yeahs
 yealing
