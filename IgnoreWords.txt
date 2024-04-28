@@ -1044,6 +1044,7 @@ actuations
 actuator
 actuators
 acuities
+acuity
 aculeate
 aculeated
 aculeus
@@ -6461,6 +6462,7 @@ appraiser
 appraisers
 appraises
 appraising
+appraisive
 appreciable
 appreciably
 appreciate
@@ -12910,6 +12912,7 @@ bicentennial
 bicentennials
 bicep
 biceps
+bicepses
 bices
 bichromate
 bichromated
@@ -18462,6 +18465,7 @@ cabriolets
 cabs
 cabstand
 cabstands
+cacao
 cacaos
 cacas
 cacciatore
@@ -26135,6 +26139,7 @@ colicweed
 colicweeds
 colies
 coliform
+coliforms
 colin
 colinear
 colinearities
@@ -30397,6 +30402,7 @@ counterspy
 counterstain
 counterstained
 counterstaining
+counterstains
 counterstate
 counterstated
 counterstates
@@ -37683,6 +37689,7 @@ dichasium
 dichlorobenzene
 dichloroethane
 dichlorvos
+dichlorvoses
 dichogamies
 dichogamous
 dichogamy
@@ -39240,6 +39247,7 @@ disinfected
 disinfecting
 disinfection
 disinfects
+disinfest
 disinfestant
 disinfestation
 disinfestations
@@ -46102,6 +46110,7 @@ episcope
 episcopes
 episiotomies
 episiotomy
+episode
 episodic
 episodical
 episodically
@@ -47026,6 +47035,7 @@ ethinyls
 ethion
 ethionamide
 ethionamides
+ethionine
 ethionines
 ethmoid
 ethmoidal
@@ -49745,6 +49755,7 @@ fascia
 fasciae
 fascial
 fascias
+fasciate
 fasciated
 fasciation
 fasciations
@@ -55054,6 +55065,7 @@ fulls
 fully
 fulmar
 fulmars
+fulminant
 fulminate
 fulminated
 fulminates
@@ -56253,6 +56265,7 @@ gasholders
 gashouse
 gasification
 gasifications
+gasified
 gasifier
 gasifiers
 gasifies
@@ -66135,6 +66148,7 @@ hyperboloid
 hyperboloids
 hyperborean
 hyperboreans
+hypercalcemia
 hypercalcemias
 hypercalcemic
 hypercapnia
@@ -66465,6 +66479,7 @@ hypokalemic
 hypolimnia
 hypomagnesemia
 hypomagnesemias
+hypomania
 hypomanic
 hypomanics
 hypomorph
@@ -73190,6 +73205,7 @@ jimmied
 jimmies
 jimminy
 jimmy
+jimmying
 jimp
 jimper
 jimply
@@ -76000,6 +76016,7 @@ lamprey
 lampreys
 lampshade
 lampshades
+lampshell
 lampshells
 lampyrid
 lampyrids
@@ -85260,6 +85277,7 @@ misbelieves
 misbelieving
 misbias
 misbiased
+misbiases
 misbiasing
 misbiassed
 misbiasses
@@ -85295,6 +85313,7 @@ miscaptioning
 miscaptions
 miscarriage
 miscarried
+miscarries
 miscarry
 miscarrying
 miscast
@@ -88771,6 +88790,7 @@ mutageneses
 mutagenesis
 mutagenic
 mutagenically
+mutagenicities
 mutagenicity
 mutagens
 mutant
@@ -95218,6 +95238,7 @@ orpiment
 orpiments
 orpin
 orpine
+orpines
 orpins
 orra
 orrery
@@ -97549,6 +97570,7 @@ overheaping
 overheaps
 overheard
 overhearing
+overhears
 overheat
 overheated
 overheating
@@ -101628,6 +101650,7 @@ people
 peopled
 peoplehood
 peoplehoods
+peopleless
 peopler
 peoplers
 peoples
@@ -111864,6 +111887,7 @@ puttees
 putter
 puttered
 putterer
+putterers
 puttering
 putters
 putti
@@ -121903,6 +121927,7 @@ rudbeckia
 rudbeckias
 rudd
 rudder
+rudderless
 rudderpost
 rudderposts
 rudders
@@ -127012,6 +127037,7 @@ shaky
 shale
 shaled
 shalelike
+shales
 shaley
 shalier
 shaliest
@@ -132560,6 +132586,7 @@ spectrograms
 spectrographic
 spectrographies
 spectrographs
+spectrography
 spectrometer
 spectrometers
 spectrometric
@@ -135455,6 +135482,7 @@ storage
 storages
 storax
 storaxes
+store
 stored
 storefront
 storefronts
@@ -140093,6 +140121,7 @@ tachinid
 tachinids
 tachism
 tachismes
+tachisms
 tachist
 tachiste
 tachistes
@@ -143263,6 +143292,7 @@ thrusters
 thrustful
 thrusting
 thrustor
+thrustors
 thrusts
 thruway
 thruways
@@ -146223,6 +146253,7 @@ trickishly
 trickishness
 trickishnesses
 trickle
+trickled
 trickles
 tricklier
 trickliest
@@ -146659,6 +146690,7 @@ trivialization
 trivializations
 trivialize
 trivialized
+trivializing
 trivially
 trivium
 triweeklies
@@ -148619,6 +148651,7 @@ unawarenesses
 unawares
 unawed
 unawesome
+unaxed
 unbacked
 unbaked
 unbalance
@@ -152262,6 +152295,7 @@ uprisers
 uprises
 uprising
 uprisings
+upriver
 uprivers
 uproar
 uproarious
@@ -156189,6 +156223,7 @@ wattmeters
 watts
 waucht
 wauchted
+wauchting
 wauchts
 waugh
 waught
