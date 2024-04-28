@@ -1656,6 +1656,7 @@ advocate
 advocates
 advocating
 advocation
+advocations
 advocative
 advocator
 advocators
@@ -4700,6 +4701,7 @@ angled
 anglepod
 anglepods
 angler
+anglerfish
 anglerfishes
 anglers
 angles
@@ -5161,6 +5163,7 @@ antependiums
 antepenult
 antepenultimate
 antepenults
+anterior
 anteriorly
 anterooms
 antes
@@ -7559,6 +7562,7 @@ asceses
 ascesis
 ascetic
 ascetical
+ascetically
 asceticism
 ascetics
 asci
@@ -15979,6 +15983,7 @@ bowery
 bowfin
 bowfins
 bowfront
+bowhead
 bowheads
 bowhunter
 bowhunters
@@ -18253,6 +18258,7 @@ butternuts
 butters
 butterscotch
 butterscotches
+butterweed
 butterwort
 butterworts
 buttery
@@ -31020,6 +31026,7 @@ crampier
 cramping
 crampit
 crampits
+crampon
 crampons
 crampoon
 crampoons
@@ -34478,6 +34485,7 @@ decerebrations
 decern
 decerned
 decerning
+decerns
 decertification
 decertified
 decertifies
@@ -35118,6 +35126,7 @@ deflation
 deflationary
 deflations
 deflator
+deflators
 deflea
 defleaed
 defleaing
@@ -37250,6 +37259,7 @@ deviationist
 deviations
 deviative
 deviator
+deviators
 deviatory
 device
 devices
@@ -37570,6 +37580,7 @@ dialoger
 dialogers
 dialogic
 dialogical
+dialogically
 dialoging
 dialogist
 dialogistic
@@ -40503,6 +40514,7 @@ dodginesses
 dodging
 dodgy
 dodo
+dodoes
 dodoism
 dodoisms
 dodos
@@ -51891,6 +51903,7 @@ flagstaff
 flagstaffs
 flagstaves
 flagstick
+flagstone
 flagstones
 flail
 flailed
@@ -58162,6 +58175,7 @@ gloomily
 gloominess
 glooming
 gloomings
+glooms
 glop
 gloppier
 gloppiest
@@ -66166,6 +66180,7 @@ hydroxylated
 hydroxylating
 hydroxylation
 hydroxylations
+hydroxylic
 hydroxyls
 hydroxyproline
 hydroxyprolines
@@ -68302,6 +68317,7 @@ inattention
 inattentive
 inattentively
 inaudibilities
+inaudibility
 inaudibly
 inaugural
 inaugurals
@@ -69902,6 +69918,7 @@ initiate
 initiated
 initiating
 initiation
+initiations
 initiative
 initiatives
 initiator
@@ -81152,6 +81169,7 @@ malfunctioned
 malfunctioning
 malfunctions
 malic
+malice
 malices
 malicious
 maliciously
@@ -83812,6 +83830,7 @@ metalhead
 metaling
 metalinguistic
 metalinguistics
+metalise
 metalised
 metalises
 metalising
@@ -87946,6 +87965,7 @@ motorizes
 motorizing
 motorless
 motormen
+motormouth
 motormouths
 motors
 motorship
@@ -100834,6 +100854,7 @@ pathogenes
 pathogenesis
 pathogenetic
 pathogenic
+pathogenicities
 pathogenicity
 pathogenies
 pathogeny
@@ -103410,6 +103431,7 @@ photobiologist
 photobiologists
 photobiology
 photocathode
+photocathodes
 photocells
 photochemical
 photochemically
@@ -104365,6 +104387,7 @@ pinders
 pindling
 pine
 pinealectomies
+pinealectomize
 pinealectomized
 pinealectomizes
 pinealectomy
@@ -107118,6 +107141,7 @@ postfeminist
 postfire
 postfix
 postfixal
+postfixed
 postfixing
 postflight
 postform
@@ -109038,6 +109062,7 @@ presides
 presidia
 presidial
 presiding
+presidio
 presidios
 presidium
 presidiums
@@ -109823,6 +109848,7 @@ processioning
 processions
 processors
 prochein
+prochoice
 prochurch
 proclaim
 proclaimed
@@ -111833,6 +111859,7 @@ pupillage
 pupillages
 pupillary
 pupils
+pupped
 puppet
 puppeteer
 puppeteered
@@ -116759,6 +116786,7 @@ regionalist
 regionalistic
 regionalists
 regionalization
+regionalize
 regionalized
 regionalizes
 regionalizing
@@ -121808,6 +121836,7 @@ rostrally
 rostrate
 rostrum
 rostrums
+rosulate
 rosy
 rot
 rota
@@ -136769,6 +136798,7 @@ subblock
 subblocks
 subbranch
 subbreed
+subbreeds
 subbureau
 subbureaux
 subcabinet
@@ -148993,6 +149023,7 @@ unbalanced
 unbalances
 unbalancing
 unbale
+unbaled
 unbales
 unbaling
 unballasted
@@ -154880,6 +154911,7 @@ viol
 violabilities
 violability
 violable
+violableness
 violablenesses
 violably
 violaceous
@@ -156336,6 +156368,7 @@ washhouse
 washhouses
 washier
 washiness
+washing
 washings
 washout
 washouts
@@ -157697,6 +157730,7 @@ whoremaster
 whoremasters
 whoremongers
 whores
+whoreson
 whoresons
 whoring
 whorish
@@ -158808,6 +158842,7 @@ wordings
 wordless
 wordlessly
 wordlessness
+wordlessnesses
 wordmonger
 wordmongers
 wordplay
