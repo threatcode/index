@@ -11559,6 +11559,7 @@ bedridden
 bedrivel
 bedriveled
 bedriveling
+bedrivelled
 bedrivelling
 bedrivels
 bedrock
@@ -11685,6 +11686,7 @@ beetlers
 beetles
 beetling
 beetroots
+beets
 beeves
 beeyard
 beeyards
@@ -16846,6 +16848,7 @@ broaches
 broad
 broadax
 broadaxe
+broadaxes
 broadband
 broadbands
 broadbean
@@ -22725,6 +22728,7 @@ chetrum
 chetrums
 chevalet
 chevalets
+chevaliers
 chevelure
 chevelures
 cheveron
@@ -24523,6 +24527,7 @@ clavichord
 clavichordist
 clavichordists
 clavichords
+clavicle
 clavicorn
 clavicular
 clavier
@@ -25141,6 +25146,7 @@ clutch
 clutched
 clutches
 clutching
+clutter
 cluttered
 cluttering
 clutters
@@ -28310,6 +28316,7 @@ conserve
 conserved
 conservers
 conserves
+consider
 considerables
 considerably
 considerate
@@ -32151,6 +32158,7 @@ cubes
 cubic
 cubical
 cubically
+cubicities
 cubicity
 cubicle
 cubicles
@@ -42429,6 +42437,7 @@ dwarfishly
 dwarfishness
 dwarfishnesses
 dwarfism
+dwarflike
 dwarfness
 dwarfnesses
 dwarfs
@@ -45177,6 +45186,7 @@ enhancement
 enhancements
 enhancer
 enhancers
+enhances
 enhancing
 enhancive
 enharmonic
@@ -49626,6 +49636,7 @@ fanum
 fanums
 fanwort
 fanworts
+fanzine
 fanzines
 faqir
 faqirs
@@ -57207,6 +57218,7 @@ gewgaw
 gewgawed
 gewgaws
 gewurztraminer
+gewurztraminers
 geyser
 geyserite
 geyserites
@@ -60377,6 +60389,7 @@ guitarfishes
 guitarist
 guitars
 guitguit
+guitguits
 gul
 gulag
 gulags
@@ -66491,6 +66504,7 @@ hypolimnia
 hypomagnesemia
 hypomagnesemias
 hypomania
+hypomanias
 hypomanic
 hypomanics
 hypomorph
@@ -71629,6 +71643,7 @@ invariance
 invariances
 invariant
 invariants
+invars
 invasion
 invasions
 invasive
@@ -77657,6 +77672,7 @@ lexis
 ley
 leys
 lez
+lezzes
 lezzies
 lezzy
 li
@@ -78792,6 +78808,7 @@ livres
 livyer
 livyers
 lixivia
+lixivial
 lixiviated
 lixiviates
 lixiviating
@@ -80127,6 +80144,7 @@ luxuriant
 luxuriantly
 luxuriate
 luxuriated
+luxuriates
 luxuriating
 luxuries
 luxurious
@@ -88629,6 +88647,7 @@ murres
 murrey
 murreys
 murrha
+murrhas
 murrhine
 murries
 murrs
@@ -89828,6 +89847,7 @@ necrologist
 necrologists
 necrology
 necromancer
+necromancers
 necromancies
 necromancy
 necromantic
@@ -89942,6 +89962,7 @@ neglected
 neglecter
 neglecters
 neglectful
+neglectfully
 neglectfulness
 neglecting
 neglectors
@@ -105452,6 +105473,7 @@ plumbery
 plumbic
 plumbings
 plumbism
+plumbisms
 plumbness
 plumbnesses
 plumbous
@@ -106746,6 +106768,7 @@ poseur
 poseurs
 posh
 posher
+poshest
 poshly
 poshness
 poshnesses
@@ -107882,6 +107905,7 @@ prededucts
 predefine
 predefined
 predefines
+predefining
 predelivery
 predella
 predellas
@@ -111253,6 +111277,7 @@ pudginesses
 pudgy
 pudibund
 pudic
+puds
 pueblo
 pueblos
 puerile
@@ -115152,6 +115177,7 @@ reconsidering
 reconsiders
 reconsign
 reconsigning
+reconsigns
 reconsoled
 reconsolidate
 reconsolidated
@@ -116758,6 +116784,7 @@ rehypnotized
 rehypnotizes
 rehypnotizing
 rei
+reichsmark
 reichsmarks
 reidentified
 reidentifies
@@ -117264,6 +117291,7 @@ relieves
 relieving
 relievo
 relievos
+relight
 relighted
 relighting
 relights
@@ -124477,6 +124505,7 @@ scimiter
 scimiters
 scincoid
 scincoids
+scintigraphic
 scintigraphies
 scintigraphy
 scintilla
@@ -125762,6 +125791,7 @@ seismal
 seismic
 seismically
 seismicities
+seismicity
 seismism
 seismisms
 seismograms
@@ -141252,6 +141282,7 @@ teasingly
 teaspoon
 teaspoonful
 teaspoonfuls
+teaspoonsful
 teat
 teataster
 teatasters
@@ -145198,6 +145229,7 @@ trackball
 tracked
 tracker
 trackers
+tracking
 trackings
 tracklayer
 tracklayers
@@ -148154,6 +148186,7 @@ tzitzith
 tzuris
 uakari
 uakaris
+ubieties
 ubiety
 ubique
 ubiquinone
@@ -150478,6 +150511,7 @@ uninflated
 uninflected
 uninfluenced
 uninformative
+uninformed
 uninhabitable
 uninhabited
 uninhibited
@@ -158892,6 +158926,7 @@ wrynesses
 wud
 wulfenite
 wulfenites
+wunderkind
 wunderkinder
 wurst
 wursts
