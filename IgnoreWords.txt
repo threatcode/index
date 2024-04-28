@@ -1122,6 +1122,7 @@ addax
 addaxes
 addedly
 addenda
+addends
 addendum
 addendums
 adder
@@ -7584,6 +7585,7 @@ ashcans
 ashed
 ashen
 ashes
+ashfall
 ashfalls
 ashier
 ashiest
@@ -11503,6 +11505,7 @@ bedizen
 bedizened
 bedizening
 bedizenment
+bedizenments
 bedizens
 bedlam
 bedlamite
@@ -19248,6 +19251,7 @@ cancelations
 canceled
 canceler
 cancelers
+canceling
 cancellable
 cancellation
 cancellations
@@ -22347,6 +22351,7 @@ chattery
 chattier
 chattiest
 chattiness
+chattinesses
 chatting
 chatty
 chaufer
@@ -29803,6 +29808,7 @@ corsetiere
 corsetieres
 corseting
 corsetries
+corsetry
 corsets
 cortege
 corteges
@@ -33713,6 +33719,7 @@ dartling
 darts
 dash
 dashboard
+dashboards
 dasheens
 dasher
 dashers
@@ -36907,6 +36914,7 @@ determinants
 determinate
 determinately
 determinateness
+determination
 determinations
 determinative
 determinatives
@@ -42722,6 +42730,7 @@ easiness
 easinesses
 east
 eastbound
+easter
 easterlies
 easterly
 eastern
@@ -44345,6 +44354,7 @@ emplace
 emplacement
 emplacements
 emplaces
+emplacing
 emplane
 emplaned
 emplanes
@@ -47221,6 +47231,7 @@ euphausiids
 euphemise
 euphemised
 euphemises
+euphemising
 euphemism
 euphemisms
 euphemist
@@ -52890,6 +52901,7 @@ fogginesses
 fogging
 foggy
 foghorn
+foghorns
 fogie
 fogies
 fogless
@@ -60156,6 +60168,7 @@ guarantor
 guarantors
 guard
 guardant
+guardants
 guarddog
 guarddogs
 guarded
@@ -63881,6 +63894,7 @@ histogenetic
 histogens
 histogram
 histograms
+histoid
 histologic
 histological
 histologically
@@ -76744,6 +76758,7 @@ leaded
 leaden
 leadened
 leadening
+leadenly
 leadenness
 leadennesses
 leadens
@@ -78013,6 +78028,7 @@ limber
 limbered
 limberer
 limberest
+limberly
 limberness
 limbernesses
 limbers
@@ -78454,6 +78470,7 @@ list
 listable
 listed
 listee
+listees
 listels
 listen
 listenable
@@ -91555,6 +91572,7 @@ noneducational
 noneffective
 nonego
 nonegos
+nonelastic
 nonelect
 nonelected
 nonelection
@@ -92474,6 +92492,7 @@ nopal
 nopales
 nopalito
 nopalitos
+nopals
 nope
 noplace
 nor
@@ -94210,6 +94229,7 @@ omasa
 omasum
 omber
 ombers
+ombre
 ombres
 ombudsman
 ombudsmanship
@@ -99897,6 +99917,7 @@ parenthetic
 parenthetical
 parenthetically
 parenthood
+parenthoods
 parenting
 parentless
 parents
@@ -104181,6 +104202,7 @@ pintails
 pintano
 pintanos
 pintas
+pintle
 pintles
 pinto
 pintoes
@@ -108705,6 +108727,7 @@ presidiums
 presift
 presifted
 presifting
+presignal
 presignaled
 presignaling
 presignalled
@@ -109891,6 +109914,7 @@ prominently
 promines
 promiscuities
 promiscuity
+promiscuous
 promise
 promised
 promisee
@@ -110345,6 +110369,7 @@ prosthodontics
 prosthodontist
 prosthodontists
 prostie
+prosties
 prostitute
 prostituted
 prostitutes
@@ -113376,6 +113401,7 @@ rammy
 ramona
 ramonas
 ramose
+ramosely
 ramosities
 ramosity
 ramous
@@ -120962,6 +120988,7 @@ robbed
 robber
 robberies
 robbers
+robbery
 robbin
 robbing
 robbins
@@ -121189,6 +121216,7 @@ romanticise
 romanticised
 romanticises
 romanticising
+romanticism
 romanticist
 romanticists
 romanticization
@@ -122269,6 +122297,7 @@ saccate
 saccharase
 saccharases
 saccharic
+saccharide
 saccharides
 saccharified
 saccharifies
@@ -129366,6 +129395,7 @@ skirmished
 skirmisher
 skirmishers
 skirmishes
+skirmishing
 skirr
 skirred
 skirret
@@ -129485,6 +129515,7 @@ skylights
 skylike
 skyline
 skylines
+skylit
 skyman
 skymen
 skyphoi
@@ -139441,6 +139472,7 @@ sylphy
 sylva
 sylvae
 sylvan
+sylvanite
 sylvanites
 sylvans
 sylvas
@@ -144072,6 +144104,7 @@ toilers
 toiles
 toilet
 toileted
+toileting
 toiletries
 toiletry
 toilets
@@ -145602,6 +145635,7 @@ transuranium
 transvaluate
 transvaluates
 transvaluating
+transvaluation
 transvaluations
 transvalue
 transvalued
@@ -158751,6 +158785,7 @@ wynds
 wynn
 wynns
 wyns
+wyte
 wyted
 wyting
 wyvern
