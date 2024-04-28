@@ -91,6 +91,7 @@ abscissae
 abscissas
 abscission
 abscissions
+abscond
 absconded
 absconder
 absconders
@@ -4618,6 +4619,7 @@ anethols
 aneuploid
 aneuploidies
 aneuploids
+aneuploidy
 aneurin
 aneurins
 aneurism
@@ -6340,6 +6342,7 @@ append
 appendages
 appendant
 appendants
+appendectomies
 appendectomy
 appended
 appendent
@@ -20376,6 +20379,7 @@ carracks
 carrageen
 carrageenan
 carrageenans
+carrageenin
 carrageenins
 carrageens
 carragheen
@@ -21487,6 +21491,7 @@ centiares
 centigrade
 centigram
 centile
+centiles
 centiliter
 centiliters
 centillion
@@ -21985,6 +21990,7 @@ championships
 champleve
 champleves
 champs
+champy
 chams
 chance
 chanceful
@@ -31769,6 +31775,7 @@ crouched
 crouches
 crouching
 croup
+croupe
 croupes
 croupier
 croupily
@@ -31781,6 +31788,7 @@ croustades
 croute
 croutes
 crouton
+croutons
 crow
 crowbarred
 crowbarring
@@ -39740,6 +39748,7 @@ disseminule
 dissension
 dissensions
 dissensuses
+dissent
 dissented
 dissenter
 dissentient
@@ -43603,6 +43612,7 @@ electrodes
 electrodialyses
 electrodialysis
 electrodialytic
+electrodynamic
 electrodynamics
 electrofishing
 electrofishings
@@ -56024,6 +56034,7 @@ gangrening
 gangrenous
 gangs
 gangsta
+gangstas
 gangster
 gangsterdom
 gangsterdoms
@@ -71088,6 +71099,7 @@ interrelated
 interrelatedly
 interrelates
 interrelating
+interrelation
 interrelations
 interreligious
 interrenal
@@ -74230,6 +74242,7 @@ keened
 keener
 keeners
 keenest
+keenly
 keenness
 keennesses
 keens
@@ -74508,6 +74521,7 @@ khalifs
 khamseen
 khamseens
 khamsin
+khamsins
 khan
 khanate
 khanates
@@ -77635,6 +77649,7 @@ lexicographers
 lexicographic
 lexicographical
 lexicologies
+lexicologist
 lexicology
 lexicon
 lexicons
@@ -78642,6 +78657,7 @@ lithophyte
 lithophytes
 lithopone
 lithopones
+lithops
 lithos
 lithosol
 lithospheres
@@ -83803,6 +83819,7 @@ methacrylate
 methadon
 methadone
 methadons
+methamphetamine
 methanation
 methanations
 methane
@@ -86869,6 +86886,7 @@ monkeries
 monkery
 monkeyed
 monkeying
+monkeyish
 monkeypod
 monkeypods
 monkeypot
@@ -89524,6 +89542,7 @@ natal
 natalities
 natality
 natantly
+natation
 natatoria
 natatorial
 natatorium
@@ -92636,6 +92655,7 @@ northwesterly
 northwestern
 northwesters
 northwests
+northwestward
 northwestwards
 nortriptylines
 nos
@@ -94790,6 +94810,7 @@ optical
 optically
 optician
 opticist
+optics
 optima
 optimal
 optimalities
@@ -95329,6 +95350,7 @@ oscillates
 oscillating
 oscillational
 oscillator
+oscillators
 oscillatory
 oscillogram
 oscillograms
@@ -95421,6 +95443,7 @@ ossicle
 ossicles
 ossicular
 ossific
+ossification
 ossifications
 ossified
 ossifiers
@@ -96760,6 +96783,7 @@ outthrobbed
 outthrobs
 outthrowing
 outthrown
+outthrows
 outthrust
 outthrusted
 outthrusting
@@ -101607,6 +101631,7 @@ pentobarbitone
 pentobarbitones
 pentode
 pentodes
+pentomic
 pentosan
 pentosans
 pentoside
@@ -105339,6 +105364,7 @@ plodding
 ploddingly
 plods
 ploidies
+ploidy
 plonk
 plonked
 plonking
@@ -108212,6 +108238,7 @@ preinserts
 preinterview
 preinterviewed
 preinterviewing
+preinvasion
 preinvite
 preinvited
 preinvites
@@ -118269,6 +118296,7 @@ reproachable
 reproacher
 reproachers
 reproaches
+reproachful
 reproachfully
 reproachfulness
 reproaching
@@ -124145,6 +124173,7 @@ scenical
 scenically
 scenics
 scenographer
+scenographers
 scenographic
 scenographies
 scenography
@@ -124564,6 +124593,7 @@ scolopendra
 scolopendras
 scombrid
 scombrids
+scombroid
 scombroids
 sconce
 sconces
@@ -137103,6 +137133,7 @@ subsided
 subsidence
 subsider
 subsiders
+subsides
 subsidiaries
 subsidiarily
 subsidiarity
@@ -138569,6 +138600,7 @@ supplemental
 supplementary
 supplementation
 supplemented
+supplementer
 supplementers
 supplementing
 supplements
@@ -145063,6 +145095,7 @@ toxemic
 toxical
 toxically
 toxicant
+toxicants
 toxicities
 toxicity
 toxicologic
@@ -146208,6 +146241,7 @@ trichlorphons
 trichocyst
 trichocysts
 trichogyne
+trichogynes
 trichoid
 trichologies
 trichologists
@@ -148363,6 +148397,7 @@ ululation
 ululations
 ulus
 ulvas
+um
 umami
 umangite
 umbel
