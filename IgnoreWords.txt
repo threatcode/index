@@ -13152,6 +13152,7 @@ bigos
 bigoses
 bigot
 bigoted
+bigotedly
 bigotry
 bigots
 bigs
@@ -13567,6 +13568,7 @@ biontic
 biophilias
 biophysical
 biophysicists
+biophysics
 biopic
 biopics
 biopiracies
@@ -17176,6 +17178,7 @@ browband
 browbands
 browbeat
 browbeaten
+browbeating
 browbeats
 browed
 browless
@@ -24247,6 +24250,7 @@ citable
 citadel
 citadels
 citation
+citational
 citations
 citator
 citators
@@ -30898,6 +30902,7 @@ cowrote
 cowry
 cows
 cowshed
+cowsheds
 cowskin
 cowskins
 cowslips
@@ -33356,6 +33361,7 @@ cystotomy
 cysts
 cytaster
 cytasters
+cytidine
 cytidines
 cytochalasin
 cytochemical
@@ -36256,6 +36262,7 @@ deorbit
 deorbited
 deorbiting
 deorbits
+deoxidation
 deoxidations
 deoxidize
 deoxidized
@@ -39759,6 +39766,7 @@ disposures
 dispraise
 dispraised
 dispraiser
+dispraisers
 dispraises
 dispraising
 dispraisingly
@@ -42550,6 +42558,7 @@ dustbin
 dustbins
 dustcover
 dustcovers
+dusted
 duster
 dusters
 dustheap
@@ -49858,6 +49867,7 @@ faradises
 faradising
 faradism
 faradisms
+faradize
 faradized
 faradizer
 faradizers
@@ -49940,6 +49950,7 @@ farmworker
 farmworkers
 farmworks
 farmyard
+farmyards
 farnesol
 farness
 farnesses
@@ -52211,6 +52222,7 @@ flattery
 flatting
 flattish
 flattop
+flatulence
 flatulences
 flatulencies
 flatulency
@@ -62547,6 +62559,7 @@ headiness
 headinesses
 heading
 headings
+headlamp
 headlamps
 headland
 headlands
@@ -67226,6 +67239,7 @@ ignorable
 ignorami
 ignoramus
 ignoramuses
+ignorance
 ignorances
 ignorant
 ignorantly
@@ -71136,6 +71150,7 @@ interlacing
 interlacustrine
 interlaid
 interlap
+interlapped
 interlapping
 interlaps
 interlard
@@ -72253,6 +72268,7 @@ iridescently
 iridic
 iridium
 iridiums
+iridologies
 iridologist
 iridologists
 iridology
@@ -72920,6 +72936,7 @@ jacklighted
 jacklights
 jackplane
 jackplanes
+jackpots
 jackrabbit
 jackrabbits
 jackroll
@@ -83237,6 +83254,7 @@ meiotically
 meister
 meisters
 meitnerium
+meitneriums
 mel
 melaleuca
 melaleucas
@@ -94923,6 +94941,7 @@ oompah
 oompahed
 oompahing
 oompahs
+oomph
 oomphs
 oophorectomies
 oophorectomy
@@ -103831,6 +103850,7 @@ phragmoplast
 phragmoplasts
 phrasal
 phrasally
+phrase
 phrased
 phrasemaker
 phrasemakers
@@ -105316,6 +105336,7 @@ plashes
 plashier
 plashiest
 plashing
+plasm
 plasma
 plasmagel
 plasmagels
@@ -105802,6 +105823,7 @@ plosive
 plosives
 plot
 plotlessness
+plotlessnesses
 plotlines
 plots
 plottage
@@ -113729,6 +113751,7 @@ ragbags
 rage
 raged
 ragee
+ragees
 rages
 ragg
 ragged
@@ -115600,6 +115623,7 @@ reconquer
 reconquered
 reconquering
 reconquers
+reconquest
 recons
 reconsecrate
 reconsecrated
@@ -116352,6 +116376,7 @@ reembarks
 reembodies
 reembody
 reembodying
+reembrace
 reembraced
 reembraces
 reembracing
@@ -119896,6 +119921,7 @@ retaped
 retapes
 retaping
 retard
+retardant
 retardants
 retardate
 retardates
@@ -123765,6 +123791,7 @@ santims
 santir
 santirs
 santo
+santol
 santolina
 santols
 santonica
@@ -131169,6 +131196,7 @@ snakebit
 snakebite
 snakebites
 snakebitten
+snaked
 snakehead
 snakepit
 snakepits
@@ -133952,6 +133980,7 @@ sporophores
 sporophyl
 sporophyll
 sporophylls
+sporophyls
 sporophyte
 sporophytes
 sporophytic
@@ -136980,6 +137009,7 @@ suba
 subabbot
 subacid
 subacidly
+subacidness
 subacidnesses
 subacrid
 subacute
@@ -148446,6 +148476,7 @@ twiddles
 twiddliest
 twiddling
 twiddly
+twier
 twig
 twigged
 twiggen
@@ -148915,6 +148946,7 @@ ultraminiature
 ultramodern
 ultramodernist
 ultramodernists
+ultramontanes
 ultramontanisms
 ultraorthodox
 ultrapatriotic
@@ -151567,6 +151599,7 @@ unopen
 unopenable
 unopened
 unopposed
+unordered
 unorderly
 unorganized
 unoriginal
@@ -154054,6 +154087,7 @@ vaunty
 vaus
 vav
 vavasor
+vavasors
 vavasour
 vavasours
 vavassor
@@ -158004,6 +158038,7 @@ whorehouse
 whorehouses
 whoremaster
 whoremasters
+whoremonger
 whoremongers
 whores
 whoreson
