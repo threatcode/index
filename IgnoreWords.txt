@@ -1608,6 +1608,7 @@ adverseness
 adversenesses
 adversities
 adversity
+advert
 adverted
 advertence
 advertences
@@ -4149,6 +4150,7 @@ amulet
 amulets
 amus
 amuse
+amused
 amusedly
 amusement
 amusements
@@ -7408,6 +7410,7 @@ arthritic
 arthritically
 arthritics
 arthritides
+arthrodesis
 arthropathies
 arthropathy
 arthropod
@@ -9868,6 +9871,7 @@ bagfuls
 baggage
 baggages
 bagged
+bagger
 baggers
 baggie
 baggier
@@ -11852,6 +11856,7 @@ begrim
 begrime
 begrimed
 begrimes
+begriming
 begrimmed
 begrimming
 begrims
@@ -13418,6 +13423,7 @@ biocompatible
 biocontrol
 biocontrols
 bioconversion
+bioconversions
 biocycle
 biocycles
 biodegradable
@@ -16592,6 +16598,7 @@ breechcloths
 breechclouts
 breeched
 breeches
+breeching
 breechings
 breechloader
 breechloaders
@@ -23026,6 +23033,7 @@ chimbly
 chime
 chimed
 chimer
+chimera
 chimere
 chimeres
 chimeric
@@ -29218,6 +29226,7 @@ coombs
 cooncan
 cooncans
 coonhound
+coons
 coonskin
 coonskins
 coontie
@@ -40632,6 +40641,7 @@ dogmatic
 dogmatics
 dogmatism
 dogmatisms
+dogmatist
 dogmatists
 dogmatization
 dogmatizations
@@ -42673,6 +42683,7 @@ dysentery
 dysfunction
 dysfunctional
 dysgeneses
+dysgenesis
 dysgenic
 dysgenics
 dyskinesia
@@ -43006,6 +43017,7 @@ echard
 echards
 eched
 echelle
+echelles
 echelon
 echeloned
 echeloning
@@ -49120,6 +49132,7 @@ exuvia
 exuviae
 exuvial
 exuviate
+exuviated
 exuviates
 exuviation
 exuviations
@@ -58548,6 +58561,7 @@ goalkeepers
 goalless
 goalmouth
 goalmouths
+goalpost
 goalposts
 goals
 goaltender
@@ -68764,6 +68778,7 @@ incorrigibly
 incorrupt
 incorrupted
 incorruptible
+incorruptibles
 incorruptibly
 incorruption
 incorruptions
@@ -73828,6 +73843,7 @@ jubilees
 jubiles
 jucos
 judas
+judases
 judder
 juddered
 juddering
@@ -85173,6 +85189,7 @@ minestrones
 minesweeper
 minesweepers
 minesweeping
+minesweepings
 mingier
 mingiest
 mingle
@@ -86725,6 +86742,7 @@ moderatos
 modern
 moderne
 moderner
+modernes
 modernest
 modernisation
 modernisations
@@ -91448,6 +91466,7 @@ nomogram
 nomograms
 nomograph
 nomographic
+nomographies
 nomographs
 nomography
 nomoi
@@ -92075,6 +92094,7 @@ nongonococcal
 nongovernment
 nongovernmental
 nongraded
+nongraduate
 nongraduates
 nongrammatical
 nongranular
@@ -93965,6 +93985,7 @@ occipitally
 occipitals
 occiput
 occiputs
+occlude
 occluded
 occludes
 occluding
@@ -94149,6 +94170,7 @@ oddish
 oddities
 oddly
 oddment
+oddments
 oddness
 oddnesses
 odds
@@ -99102,6 +99124,7 @@ paddywacking
 paddywacks
 padi
 padis
+padishah
 padishahs
 padle
 padles
@@ -99525,6 +99548,7 @@ palpitation
 palpitations
 palps
 palpus
+pals
 palsgraves
 palship
 palships
@@ -108133,6 +108157,7 @@ preconditioning
 preconditions
 preconize
 preconized
+preconizes
 preconizing
 preconquest
 preconscious
@@ -112906,6 +112931,7 @@ queridas
 querier
 queriers
 queries
+querist
 querists
 quern
 querulous
@@ -115433,6 +115459,7 @@ reconditenesses
 recondition
 reconditioned
 reconditioning
+reconditions
 reconduct
 reconducted
 reconducting
@@ -117686,6 +117713,7 @@ relubricated
 relubricates
 relubrication
 relubrications
+relucent
 reluct
 reluctance
 reluctancy
@@ -120156,6 +120184,7 @@ reunionist
 reunionistic
 reunionists
 reunions
+reunited
 reuniter
 reunites
 reupholstered
@@ -129835,6 +129864,7 @@ skinflick
 skinflicks
 skinflints
 skinfuls
+skinhead
 skinheads
 skink
 skinked
@@ -136405,6 +136435,7 @@ strip
 stripe
 striped
 stripeless
+striper
 stripers
 stripes
 stripier
@@ -139668,6 +139699,7 @@ sweetshop
 sweetshops
 sweetsop
 sweetsops
+swell
 swelled
 sweller
 swellest
@@ -151692,6 +151724,7 @@ unrepeatable
 unrepentant
 unrepresented
 unrepressed
+unrequited
 unreserve
 unreserved
 unreservedly
@@ -158728,6 +158761,7 @@ womenkind
 womera
 wommera
 wommeras
+womyn
 won
 wonder
 wondered
@@ -160245,6 +160279,7 @@ zibet
 zibeth
 zibeths
 zibets
+zidovudine
 zidovudines
 zig
 zigged
