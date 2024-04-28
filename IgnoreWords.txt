@@ -2153,6 +2153,7 @@ agenting
 agentings
 agentival
 agentive
+agentives
 agentries
 agentry
 agents
@@ -3747,6 +3748,7 @@ ambries
 ambroid
 ambroids
 ambrosia
+ambrosial
 ambrosially
 ambrosian
 ambrosias
@@ -7821,6 +7823,7 @@ assemblyman
 assemblymen
 assemblywoman
 assemblywomen
+assent
 assentation
 assentations
 assented
@@ -10915,6 +10918,7 @@ bassett
 bassetted
 bassetting
 bassetts
+bassi
 bassinet
 bassinets
 bassist
@@ -11875,6 +11879,7 @@ begroans
 begrudge
 begrudged
 begrudger
+begrudgers
 begrudges
 begrudging
 begrudgingly
@@ -18272,6 +18277,7 @@ butterfingers
 butterfish
 butterfishes
 butterflied
+butterflies
 butterfly
 butterflyer
 butterflying
@@ -20004,6 +20010,7 @@ caravels
 caraway
 caraways
 carb
+carbachol
 carbachols
 carbamate
 carbamates
@@ -20636,6 +20643,7 @@ cascades
 cascading
 cascaras
 cascarilla
+cascarillas
 case
 casease
 caseases
@@ -27347,6 +27355,7 @@ composted
 composter
 composters
 composting
+composts
 composure
 composures
 compote
@@ -38446,6 +38455,7 @@ dinkey
 dinkeys
 dinkies
 dinkiest
+dinking
 dinkly
 dinks
 dinkum
@@ -40621,6 +40631,7 @@ dogface
 dogfaces
 dogfight
 dogfighting
+dogfights
 dogfish
 dogfishes
 dogfought
@@ -51294,6 +51305,7 @@ filberts
 filch
 filched
 filcher
+filchers
 filches
 filching
 file
@@ -52242,6 +52254,7 @@ flavone
 flavones
 flavonoid
 flavonoids
+flavonols
 flavoprotein
 flavoproteins
 flavor
@@ -56331,6 +56344,7 @@ garbagy
 garbanzo
 garbanzos
 garbed
+garbing
 garble
 garbled
 garbler
@@ -67352,6 +67366,7 @@ illuminisms
 illuminist
 illuminists
 illusional
+illusionary
 illusionism
 illusionist
 illusionistic
@@ -69294,6 +69309,7 @@ inductor
 inductors
 inducts
 indue
+indues
 induing
 indulge
 indulged
@@ -72704,6 +72720,7 @@ isotonicities
 isotonicity
 isotope
 isotopes
+isotopic
 isotopically
 isotopies
 isotopy
@@ -77815,6 +77832,7 @@ leukemics
 leukemogeneses
 leukemogenesis
 leukemogenic
+leukemoid
 leukocyte
 leukocytic
 leukocytosis
@@ -77850,6 +77868,7 @@ levantine
 levantines
 levanting
 levants
+levator
 levatores
 levators
 levee
@@ -78755,6 +78774,7 @@ lippening
 lippens
 lipper
 lippered
+lippering
 lippers
 lippier
 lippiest
@@ -83222,6 +83242,7 @@ melaleuca
 melaleucas
 melamdim
 melamed
+melamines
 melancholia
 melancholiac
 melancholiacs
@@ -89638,6 +89659,7 @@ name
 nameable
 named
 nameless
+namelessly
 namelessness
 namelessnesses
 namely
@@ -98703,6 +98725,7 @@ overtreated
 overtreating
 overtreatment
 overtreatments
+overtreats
 overtrick
 overtricks
 overtrim
@@ -100335,6 +100358,7 @@ parchesi
 parchesis
 parching
 parchisis
+parchment
 parchments
 parclose
 parcloses
@@ -101924,6 +101948,7 @@ pennyweights
 pennywhistle
 pennywhistles
 pennywise
+pennywort
 pennyworth
 pennyworths
 pennyworts
@@ -106113,6 +106138,7 @@ poetically
 poeticalness
 poeticalnesses
 poeticism
+poeticisms
 poeticized
 poeticizes
 poeticizing
@@ -121501,6 +121527,7 @@ roadblock
 roadblocked
 roadblocking
 roadblocks
+roadeos
 roadholding
 roadholdings
 roadhouse
@@ -122970,6 +122997,7 @@ sacrum
 sacrums
 sacs
 sad
+sadden
 saddened
 saddening
 saddens
@@ -127608,6 +127636,7 @@ shaming
 shamisen
 shamisens
 shammas
+shammashim
 shammed
 shammer
 shammers
@@ -136992,6 +137021,7 @@ subatom
 subatomic
 subatoms
 subaudible
+subaudition
 subauditions
 subaural
 subaverage
@@ -138658,6 +138688,7 @@ supercooled
 supercools
 supercop
 supercops
+supercriminal
 supercriminals
 supercritical
 supercurrent
@@ -142042,6 +142073,7 @@ telekinetic
 telekinetically
 teleman
 telemark
+telemarketer
 telemarketers
 telemarketing
 telemarketings
@@ -156329,6 +156361,7 @@ wamefous
 wameful
 wamefuls
 wames
+wammus
 wammuses
 wampish
 wampished
@@ -156817,6 +156850,7 @@ waterweeds
 waterwheel
 waterwheels
 waterwork
+waterworks
 waterworn
 watery
 waterzooi
@@ -157921,6 +157955,7 @@ wholesaling
 wholesome
 wholesomely
 wholesomeness
+wholesomenesses
 wholesomer
 wholesomest
 wholism
