@@ -3403,6 +3403,7 @@ almoners
 almonries
 almonry
 almost
+alms
 almsgiver
 almsgivers
 almsgiving
@@ -8166,6 +8167,7 @@ asynchrony
 asyndeta
 asyndetic
 asyndetically
+asyndeton
 asyndetons
 at
 atabal
@@ -10909,6 +10911,7 @@ basilic
 basilica
 basilicae
 basilicas
+basilisk
 basilisks
 basils
 basin
@@ -14419,6 +14422,7 @@ blethered
 blethers
 blets
 blew
+blight
 blighted
 blighter
 blighties
@@ -18401,6 +18405,7 @@ buttress
 buttressed
 buttresses
 buttressing
+butts
 buttstock
 buttstocks
 butty
@@ -19161,6 +19166,7 @@ calpack
 calpacks
 calpacs
 calpain
+calpains
 calque
 calqued
 calques
@@ -20141,6 +20147,7 @@ carbonate
 carbonated
 carbonating
 carbonation
+carbonations
 carbonic
 carboniferous
 carbonium
@@ -24655,6 +24662,7 @@ classicality
 classically
 classicals
 classicism
+classicisms
 classicistic
 classicists
 classicize
@@ -24711,6 +24719,7 @@ claucht
 claudication
 claudications
 claught
+claughted
 claughting
 claughts
 clausal
@@ -25924,6 +25933,7 @@ coeds
 coeducation
 coeducational
 coeducationally
+coeducations
 coeffect
 coefficient
 coefficients
@@ -38506,6 +38516,7 @@ dimes
 dimeters
 dimethoate
 dimethoates
+dimethyl
 dimethyls
 dimetric
 dimidiates
@@ -44679,6 +44690,7 @@ emolument
 emoluments
 emoted
 emoter
+emotes
 emoticons
 emoting
 emotion
@@ -47990,6 +48002,7 @@ evolution
 evolutionarily
 evolutionisms
 evolutionist
+evolutionists
 evolutions
 evolvable
 evolve
@@ -50312,6 +50325,7 @@ fatigability
 fatigable
 fatigue
 fatigued
+fatigues
 fatiguing
 fatiguingly
 fating
@@ -52001,6 +52015,7 @@ fishline
 fishlines
 fishmeal
 fishmeals
+fishmonger
 fishmongers
 fishnets
 fishplates
@@ -54833,6 +54848,7 @@ freestone
 freestones
 freestyle
 freestyler
+freestylers
 freestyles
 freethinker
 freethinkers
@@ -62957,6 +62973,7 @@ hearts
 heartsease
 heartseases
 heartsick
+heartsickness
 heartsicknesses
 heartsome
 heartsomely
@@ -85495,6 +85512,7 @@ millwright
 millwrights
 milneb
 milnebs
+milord
 milords
 milpa
 mils
@@ -102857,6 +102875,7 @@ perilune
 perilunes
 perilymph
 perilymphs
+perimeter
 perimeters
 perimetries
 perimetry
@@ -107563,6 +107582,7 @@ portered
 porteress
 porteresses
 porterhouses
+portering
 porters
 portfolio
 portfolios
@@ -110454,6 +110474,7 @@ proboscis
 proboscises
 procaine
 procambia
+procambial
 procambium
 procambiums
 procarbazines
@@ -113683,6 +113704,7 @@ quint
 quinta
 quintain
 quintains
+quintal
 quintals
 quintan
 quintar
@@ -115739,6 +115761,7 @@ rechanging
 rechanneled
 rechanneling
 rechannelled
+rechannelling
 rechannels
 rechargeable
 recharged
@@ -116462,6 +116485,7 @@ redenies
 redeny
 redeploy
 redeployed
+redeploying
 redeployment
 redeployments
 redeploys
@@ -118571,6 +118595,7 @@ remoter
 remotes
 remotest
 remotion
+remotions
 remotivate
 remotivated
 remotivates
@@ -120785,6 +120810,7 @@ reunions
 reunited
 reuniter
 reunites
+reupholster
 reupholstered
 reupholstering
 reupholsters
@@ -131626,6 +131652,7 @@ smotherers
 smothering
 smothers
 smothery
+smoulder
 smouldered
 smoulders
 smudge
@@ -131652,6 +131679,7 @@ smush
 smushed
 smushing
 smut
+smutch
 smutched
 smutches
 smutchier
@@ -133269,6 +133297,7 @@ sowcars
 sowed
 sowens
 sower
+sowers
 sowing
 sown
 sows
@@ -135135,6 +135164,7 @@ stackers
 stackless
 stacks
 stackup
+stackups
 stacte
 stactes
 staddle
@@ -140845,6 +140875,7 @@ synaesthesis
 synagog
 synagogal
 synagogs
+synagogue
 synagogues
 synalepha
 synalephas
@@ -145692,6 +145723,7 @@ toot
 tooted
 tooter
 tooters
+tooth
 toothache
 toothaches
 toothbrush
@@ -151518,6 +151550,7 @@ unhanged
 unhanging
 unhangs
 unhappier
+unhappiest
 unhappily
 unhappiness
 unhappinesses
@@ -157877,6 +157910,7 @@ weeps
 weepy
 weer
 wees
+weest
 weet
 weeted
 weeting
@@ -159741,6 +159775,7 @@ woolworks
 wooly
 woomera
 woomeras
+woops
 woopsed
 woopses
 woopsing
