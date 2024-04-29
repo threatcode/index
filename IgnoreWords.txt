@@ -577,6 +577,7 @@ accursednesses
 accusable
 accusably
 accusal
+accusals
 accusant
 accusants
 accusations
@@ -9702,6 +9703,7 @@ backslapped
 backslappers
 backslapping
 backslaps
+backslash
 backslashes
 backslid
 backslidden
@@ -17641,6 +17643,7 @@ bulldog
 bulldogged
 bulldogger
 bulldoggers
+bulldogging
 bulldoggings
 bulldoze
 bulldozed
@@ -20973,6 +20976,7 @@ catclaw
 catclaws
 cate
 catecheses
+catechesis
 catechetical
 catechin
 catechins
@@ -25683,6 +25687,7 @@ cocomposer
 cocomposers
 coconspirator
 coconspirators
+coconut
 coconuts
 cocoon
 cocooned
@@ -28181,6 +28186,7 @@ congregators
 congress
 congressed
 congresses
+congressing
 congressionally
 congressman
 congressmen
@@ -30654,6 +30660,7 @@ courageous
 courageously
 courageousness
 courages
+courant
 courante
 courantes
 couranto
@@ -31585,6 +31592,7 @@ criminalized
 criminalizes
 criminalizing
 criminally
+criminals
 criminate
 criminated
 crimination
@@ -41772,6 +41780,7 @@ dreigh
 drek
 dreks
 drench
+drenched
 drencher
 drenchers
 drenches
@@ -42799,6 +42808,7 @@ dystocias
 dystonia
 dystonias
 dystonic
+dystopian
 dystopias
 dystrophic
 dystrophies
@@ -43163,6 +43173,7 @@ ecologies
 ecologists
 ecology
 econobox
+econometric
 econometrically
 econometrician
 econometrics
@@ -51534,6 +51545,7 @@ fingerboard
 fingerboards
 fingered
 fingerer
+fingerers
 fingerhold
 fingerholds
 fingering
@@ -55540,6 +55552,7 @@ furfurans
 furfures
 furibund
 furies
+furious
 furiously
 furl
 furlable
@@ -58909,6 +58922,7 @@ gonococcal
 gonococci
 gonococcus
 gonocyte
+gonocytes
 gonof
 gonofs
 gonoph
@@ -59091,6 +59105,7 @@ gospeller
 gospellers
 gospelly
 gospels
+gossamer
 gossamers
 gossamery
 gossan
@@ -61240,6 +61255,7 @@ haftarot
 haftaroth
 hafted
 hafter
+hafters
 hafting
 haftorah
 haftorahs
@@ -65355,6 +65371,7 @@ hosannahs
 hosannaing
 hosannas
 hose
+hosed
 hoselike
 hosels
 hosen
@@ -76300,6 +76317,7 @@ lamenters
 lamenting
 laments
 lamer
+lames
 lamest
 lamia
 lamiae
@@ -80531,6 +80549,7 @@ lymphatically
 lymphatics
 lymphoblast
 lymphoblastic
+lymphoblasts
 lymphocyte
 lymphocytes
 lymphocytoses
@@ -95222,6 +95241,7 @@ opsonizing
 opt
 optative
 optatively
+optatives
 opted
 optic
 optical
@@ -97794,6 +97814,7 @@ overeducates
 overeducating
 overeducation
 overeducations
+overelaborated
 overelaborates
 overelaborating
 overelaboration
@@ -102535,6 +102556,7 @@ peripety
 peripheral
 peripherally
 peripherals
+peripheries
 periphery
 periphrases
 periphrasis
@@ -104107,6 +104129,7 @@ piassaba
 piassabas
 piassava
 piassavas
+piaster
 piasters
 piastre
 piastres
@@ -106765,6 +106788,7 @@ polysulfide
 polysulfides
 polysyllabic
 polysyllable
+polysynaptic
 polysyndetons
 polytechnic
 polytechnics
@@ -107704,6 +107728,7 @@ poufed
 pouff
 pouffe
 pouffed
+pouffes
 pouffs
 pouffy
 poufs
@@ -109363,6 +109388,7 @@ pressure
 pressured
 pressureless
 pressures
+pressurise
 pressurised
 pressurises
 pressurization
@@ -115846,6 +115872,7 @@ rectifying
 rectilinear
 rectilinearly
 rectitude
+rectitudes
 rectitudinous
 recto
 rectocele
@@ -117258,6 +117285,7 @@ rehospitalized
 rehospitalizes
 rehospitalizing
 rehouse
+rehoused
 rehouses
 rehousing
 rehumanize
@@ -117317,6 +117345,7 @@ reimburses
 reimbursing
 reimmerse
 reimmersed
+reimmerses
 reimplant
 reimplantation
 reimplantations
@@ -117557,6 +117586,7 @@ reiterations
 reiterative
 reive
 reived
+reiver
 reives
 reiving
 rejacket
@@ -125079,6 +125109,7 @@ sclaff
 sclaffed
 sclaffer
 sclaffers
+sclaffing
 sclaffs
 sclera
 sclerae
@@ -146251,6 +146282,7 @@ transitionally
 transitions
 transitive
 transitiveness
+transitivity
 transitorily
 transitory
 transits
@@ -147153,6 +147185,7 @@ trinity
 trinket
 trinketer
 trinketers
+trinketing
 trinketries
 trinketry
 trinkets
@@ -150983,6 +151016,7 @@ unhats
 unhatted
 unhatting
 unhealed
+unhealthful
 unhealthier
 unhealthiest
 unhealthily
@@ -155706,6 +155740,7 @@ vocatives
 voces
 vociferant
 vociferate
+vociferated
 vociferates
 vociferation
 vociferations
