@@ -2450,6 +2450,7 @@ aid
 aide
 aided
 aider
+aiders
 aides
 aiding
 aidman
@@ -6647,6 +6648,7 @@ aquaplaners
 aquaplanes
 aquaplaning
 aquarelle
+aquarelles
 aquarellist
 aquarellists
 aquaria
@@ -9872,6 +9874,7 @@ baffle
 baffled
 bafflegab
 bafflegabs
+bafflements
 baffler
 bafflers
 baffling
@@ -11212,6 +11215,7 @@ beacon
 beaconed
 beaconing
 beacons
+bead
 beaded
 beader
 beaders
@@ -11359,6 +11363,7 @@ beauteousness
 beauteousnesses
 beautician
 beauticians
+beautification
 beautifications
 beautified
 beautifier
@@ -12710,6 +12715,7 @@ bethumping
 bethumps
 betide
 betided
+betides
 betiding
 betime
 betimes
@@ -18995,6 +19001,7 @@ calisayas
 calisthenic
 calisthenics
 calix
+calk
 calked
 calker
 calkers
@@ -23201,6 +23208,7 @@ chiropodies
 chiropodist
 chiropodists
 chiropody
+chiropractic
 chiropractics
 chiropractor
 chiropractors
@@ -29610,6 +29618,7 @@ cordlike
 cordoba
 cordon
 cordoned
+cordoning
 cordonnet
 cordonnets
 cordons
@@ -31913,6 +31922,7 @@ crosspiece
 crosspieces
 crossroad
 crossruff
+crossruffed
 crossruffing
 crossruffs
 crosstalk
@@ -35085,6 +35095,7 @@ defectively
 defectiveness
 defectivenesses
 defectives
+defector
 defectors
 defects
 defeminization
@@ -39939,6 +39950,7 @@ disseize
 disseized
 disseizee
 disseizees
+disseizes
 disseizin
 disseizing
 disseizins
@@ -53861,6 +53873,7 @@ foresightful
 foresights
 foreskin
 foreskins
+forespake
 forespeak
 forespeaking
 forespeaks
@@ -54695,6 +54708,7 @@ freewheeler
 freewheelers
 freewheeling
 freewheelingly
+freewheels
 freewill
 freewrite
 freewrites
@@ -55156,6 +55170,7 @@ fructuous
 frugal
 frugalities
 frugality
+frugally
 frugged
 frugging
 frugivore
@@ -55339,6 +55354,7 @@ fulgurate
 fulgurates
 fulgurating
 fulguration
+fulgurations
 fulgurite
 fulgurites
 fulgurous
@@ -58036,6 +58052,7 @@ glance
 glanced
 glancer
 glancers
+glances
 glancing
 glancingly
 gland
@@ -60495,6 +60512,7 @@ grutches
 grutching
 grutten
 gruyere
+gruyeres
 gryphon
 gryphons
 guacamole
@@ -74240,6 +74258,7 @@ justiciable
 justiciar
 justiciars
 justifiability
+justifiable
 justification
 justifications
 justificative
@@ -79527,6 +79546,7 @@ logarithmically
 logarithms
 logbook
 logbooks
+loge
 loges
 loggats
 logged
@@ -82613,6 +82633,7 @@ matelote
 matelots
 mater
 materfamilias
+materfamiliases
 material
 materialise
 materialised
@@ -83765,6 +83786,7 @@ merchantman
 merchantmen
 merchants
 merches
+mercies
 merciful
 mercifully
 mercifulness
@@ -92445,6 +92467,7 @@ nonlinearity
 nonlinguistic
 nonliquid
 nonliquids
+nonliteral
 nonliterary
 nonliterate
 nonliterates
@@ -98901,6 +98924,7 @@ overwearied
 overwearies
 overwearing
 overwears
+overwearying
 overweened
 overweening
 overweeningly
@@ -100284,6 +100308,7 @@ parallelograms
 paralogism
 paralogisms
 paralyse
+paralysed
 paralyses
 paralysing
 paralysis
@@ -123540,6 +123565,7 @@ saltboxes
 saltbush
 saltchuck
 saltchucks
+salted
 salter
 saltern
 salterns
@@ -128041,6 +128067,7 @@ sheenie
 sheenier
 sheenies
 sheeniest
+sheening
 sheens
 sheeny
 sheepberries
@@ -130420,6 +130447,7 @@ slanguage
 slanguages
 slank
 slant
+slanted
 slanting
 slantingly
 slants
@@ -134890,6 +134918,7 @@ stalemate
 stalemated
 stalemates
 stalemating
+staleness
 stalenesses
 staler
 stales
@@ -137668,6 +137697,7 @@ submultiples
 submunition
 submunitions
 subnasal
+subnational
 subnet
 subnetwork
 subnetworked
@@ -145927,6 +145957,7 @@ trachea
 tracheae
 tracheal
 tracheary
+tracheas
 tracheate
 tracheated
 tracheates
@@ -152724,6 +152755,7 @@ unutterably
 unvaccinated
 unvalued
 unvaried
+unvarnished
 unvarying
 unveil
 unveiled
@@ -152923,6 +152955,7 @@ upclimbed
 upclimbs
 upcoast
 upcoil
+upcoiled
 upcoiling
 upcoils
 upcoming
@@ -158876,6 +158909,7 @@ witans
 witch
 witchcrafts
 witched
+witcheries
 witchery
 witches
 witchgrass
@@ -158944,6 +158978,7 @@ witlessly
 witlessness
 witlessnesses
 witling
+witlings
 witloof
 witloofs
 witness
