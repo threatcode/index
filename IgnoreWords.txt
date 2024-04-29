@@ -8915,6 +8915,7 @@ autolytic
 autolyzate
 autolyzates
 autolyze
+autolyzed
 autolyzes
 automaker
 automakers
@@ -9295,6 +9296,7 @@ awls
 awlwort
 awlworts
 awmous
+awn
 awning
 awninged
 awnings
@@ -15221,6 +15223,7 @@ bolivia
 boliviano
 bolivianos
 bolivias
+boll
 bollard
 bollards
 bolled
@@ -18509,6 +18512,7 @@ byte
 bytes
 byway
 byways
+byword
 bywords
 bywork
 byworks
@@ -24226,6 +24230,7 @@ circumcenter
 circumcenters
 circumcircle
 circumcircles
+circumcise
 circumcised
 circumciser
 circumcisers
@@ -35792,6 +35797,7 @@ deliriousness
 deliriousnesses
 delirium
 deliriums
+delis
 delist
 delisted
 delisting
@@ -38241,6 +38247,7 @@ diffidences
 diffident
 diffidently
 diffract
+diffracted
 diffracting
 diffraction
 diffractions
@@ -47645,6 +47652,7 @@ euonymus
 euonymuses
 eupatrid
 eupatridae
+eupatrids
 eupepsia
 eupepsias
 eupepsies
@@ -52638,6 +52646,7 @@ flexural
 flexure
 flexures
 fley
+fleyed
 fleying
 fleys
 flibbertigibbet
@@ -52670,6 +52679,7 @@ flightinesses
 flighting
 flightless
 flights
+flighty
 flimflam
 flimflammed
 flimflammer
@@ -61363,6 +61373,7 @@ hackamores
 hackberries
 hackberry
 hackbut
+hackbuts
 hacked
 hackee
 hacker
@@ -62216,6 +62227,7 @@ hardballs
 hardboard
 hardboards
 hardboot
+hardboots
 hardbound
 hardbounds
 hardcase
@@ -62629,6 +62641,7 @@ havering
 haversack
 haversacks
 haves
+having
 havior
 haviors
 haviour
@@ -63956,6 +63969,7 @@ heteromorphisms
 heteronomies
 heteronomous
 heteronomy
+heteronym
 heteronyms
 heterophile
 heterophonies
@@ -64831,6 +64845,7 @@ holotype
 holotypes
 holotypic
 holp
+holpen
 hols
 holstein
 holsteins
@@ -69633,6 +69648,7 @@ inebriants
 inebriate
 inebriated
 inebriates
+inebriating
 inebriation
 inebriations
 inebrieties
@@ -73897,6 +73913,7 @@ jockettes
 jockey
 jockeyed
 jockeyish
+jockeys
 jocko
 jockos
 jockstrap
@@ -74075,6 +74092,7 @@ jouk
 jouked
 jouking
 joule
+joules
 jounce
 jounced
 jounces
@@ -75074,6 +75092,7 @@ keypad
 keypal
 keypals
 keypunch
+keypunched
 keypuncher
 keypunchers
 keypunches
@@ -83008,6 +83027,7 @@ mauts
 mauve
 mauves
 maven
+mavens
 maverick
 mavericks
 mavie
@@ -89907,6 +89927,7 @@ nabobish
 nabobism
 nabobisms
 nabobs
+nabs
 nacelle
 nacelles
 nachas
@@ -90472,6 +90493,7 @@ nebulize
 nebulized
 nebulizer
 nebulizers
+nebulizes
 nebulizing
 nebulose
 nebulosities
@@ -90885,6 +90907,7 @@ nephritises
 nephrologies
 nephrologist
 nephrologists
+nephrology
 nephron
 nephrons
 nephropathic
@@ -92942,6 +92965,7 @@ nonreading
 nonrealistic
 nonreceipt
 nonreciprocal
+nonrecognition
 nonrecognitions
 nonrecombinant
 nonrecombinants
@@ -98624,6 +98648,7 @@ overpersuades
 overpersuading
 overpersuasion
 overpert
+overplaid
 overplaided
 overplaids
 overplan
@@ -101046,6 +101071,7 @@ particularise
 particularised
 particularises
 particularising
+particularism
 particularisms
 particularist
 particularistic
@@ -105710,6 +105736,7 @@ planulate
 planuloid
 plaque
 plaques
+plash
 plashed
 plasher
 plashers
@@ -115243,6 +115270,7 @@ reapportionment
 reapportions
 reappraisal
 reappraisals
+reappraised
 reappraises
 reappraising
 reappropriate
@@ -116044,6 +116072,7 @@ reconquered
 reconquering
 reconquers
 reconquest
+reconquests
 recons
 reconsecrate
 reconsecrated
@@ -121860,6 +121889,7 @@ ripsnorters
 ripsnorting
 ripstop
 ripstops
+riptide
 riptides
 rise
 risen
@@ -122150,6 +122180,7 @@ rockweed
 rockweeds
 rockwork
 rockworks
+rocky
 rococo
 rococos
 rocs
@@ -126833,6 +126864,7 @@ selenates
 selenic
 selenide
 selenides
+seleniferous
 selenious
 selenite
 selenites
@@ -130781,6 +130813,7 @@ slate
 slated
 slatelike
 slater
+slaters
 slates
 slatey
 slather
@@ -150815,6 +150848,7 @@ underreacts
 underreport
 underreported
 underreports
+underripe
 underrun
 underrunning
 undersaturated
@@ -154923,6 +154957,7 @@ venographies
 venologies
 venology
 venomed
+venomer
 venomers
 venoming
 venomous
