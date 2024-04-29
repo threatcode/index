@@ -3447,6 +3447,7 @@ alpha
 alphabet
 alphabeted
 alphabetic
+alphabetical
 alphabetically
 alphabetization
 alphabetize
@@ -9450,6 +9451,7 @@ babbittries
 babbittry
 babbitts
 babble
+babbled
 babblement
 babbler
 babblers
@@ -25728,6 +25730,7 @@ cocultures
 cocurator
 cod
 coda
+codable
 codas
 codded
 codder
@@ -31796,6 +31799,7 @@ cronyism
 cronyisms
 crook
 crookback
+crookbacked
 crookbacks
 crooked
 crookeder
@@ -36739,6 +36743,7 @@ describable
 described
 describer
 describers
+describes
 describing
 descried
 descrier
@@ -43002,6 +43007,7 @@ eastwards
 easy
 easygoing
 easygoingness
+easygoingnesses
 eat
 eatable
 eatables
@@ -43424,6 +43430,7 @@ effaced
 effacement
 effacements
 effacer
+effaces
 effacing
 effect
 effecter
@@ -44023,6 +44030,7 @@ elites
 elitism
 elitisms
 elitist
+elitists
 elixir
 elixirs
 elk
@@ -45043,6 +45051,7 @@ endmost
 endnote
 endobiotic
 endoblast
+endoblasts
 endocardia
 endocardial
 endocarditis
@@ -45563,6 +45572,7 @@ enrapt
 enrapture
 enraptured
 enraptures
+enrapturing
 enravish
 enravished
 enravishes
@@ -49988,6 +49998,7 @@ farnesses
 faro
 farolito
 farolitos
+faros
 farouche
 farraginous
 farrago
@@ -50561,6 +50572,7 @@ fellating
 fellation
 fellations
 fellatios
+fellator
 fellators
 fellatrixes
 felled
@@ -62625,6 +62637,7 @@ headphone
 headphones
 headpieces
 headpin
+headpins
 headquarter
 headquartered
 headquartering
@@ -65715,6 +65728,7 @@ huddle
 huddler
 huddlers
 huddles
+huddling
 hue
 hued
 hueless
@@ -67889,6 +67903,7 @@ impassive
 impassively
 impassiveness
 impassivenesses
+impassivities
 impassivity
 impaste
 impasted
@@ -68287,6 +68302,7 @@ impressures
 imprest
 imprests
 imprimatur
+imprimaturs
 imprimis
 imprint
 imprinted
@@ -68489,6 +68505,7 @@ inarming
 inarms
 inarticulacies
 inarticulacy
+inarticulate
 inarticulately
 inartistic
 inattention
@@ -86219,6 +86236,7 @@ mismake
 mismakes
 mismaking
 mismanage
+mismanaged
 mismanagement
 mismanages
 mismanaging
@@ -96893,6 +96911,7 @@ outraced
 outraces
 outracing
 outrage
+outraged
 outrageous
 outrageously
 outrageousness
@@ -98182,6 +98201,7 @@ overlearnt
 overlending
 overlength
 overlengthen
+overlengthened
 overlengthening
 overlengthens
 overlengths
@@ -99559,6 +99579,7 @@ paleopathology
 paleosol
 paleosols
 paleozoic
+paleozoological
 paleozoologies
 paleozoologist
 paleozoologists
@@ -103102,6 +103123,7 @@ petrales
 petrel
 petrels
 petrifaction
+petrifactions
 petrification
 petrifications
 petrifier
@@ -109548,6 +109570,7 @@ pretexted
 pretexting
 pretexts
 pretheater
+pretold
 pretor
 pretorial
 pretorian
@@ -113882,6 +113905,7 @@ rail
 railbird
 railbirds
 railbus
+railbuses
 railbusses
 railed
 railer
@@ -120774,6 +120798,7 @@ rewins
 rewire
 rewired
 rewiring
+rewoke
 rewoken
 rewon
 reword
@@ -127764,6 +127789,7 @@ shammosim
 shammy
 shammying
 shamosim
+shamoy
 shamoyed
 shamoying
 shamoys
@@ -128018,6 +128044,7 @@ sheepshead
 sheepsheads
 sheepshearers
 sheepshearing
+sheepshearings
 sheepskin
 sheepskins
 sheepwalk
@@ -135767,6 +135794,7 @@ stillborn
 stillborns
 stilled
 stillest
+stillier
 stilliest
 stilling
 stillman
@@ -138537,6 +138565,7 @@ summon
 summonable
 summoned
 summoner
+summoning
 summons
 summonsed
 summonses
@@ -145602,6 +145631,7 @@ toters
 totes
 tother
 toting
+totipotencies
 totipotency
 totipotent
 tots
@@ -146623,6 +146653,7 @@ treacherous
 treacherously
 treacherousness
 treachery
+treacle
 treacles
 treaclier
 treacliest
@@ -149220,6 +149251,7 @@ unaccredited
 unaccrued
 unaccustomed
 unaccustomedly
+unacerbic
 unachieved
 unacidic
 unacknowledged
@@ -149972,6 +150004,7 @@ uncorked
 uncorking
 uncorks
 uncorrectable
+uncorrected
 uncorrelated
 uncorroborated
 uncorrupt
@@ -153623,6 +153656,7 @@ vaccinations
 vaccinator
 vaccinators
 vaccine
+vaccinee
 vaccinees
 vaccines
 vaccinia
@@ -156845,6 +156879,7 @@ wastries
 wastry
 wasts
 wat
+watape
 watapes
 wataps
 watch
