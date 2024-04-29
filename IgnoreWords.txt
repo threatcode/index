@@ -6453,6 +6453,7 @@ applet
 applets
 appliable
 appliance
+appliances
 applicabilities
 applicability
 applicable
@@ -9214,6 +9215,7 @@ avowable
 avowals
 avowedly
 avowers
+avowing
 avows
 avulse
 avulsed
@@ -16724,6 +16726,7 @@ brewskies
 briar
 briard
 briards
+briarroot
 briarroots
 briars
 briarwood
@@ -25978,6 +25981,7 @@ coercivities
 coercivity
 coerect
 coerected
+coerecting
 coesite
 coesites
 coetaneous
@@ -27526,6 +27530,7 @@ computerised
 computerises
 computerising
 computerist
+computerists
 computerizable
 computerization
 computerize
@@ -30373,6 +30378,7 @@ couched
 coucher
 couchers
 couches
+couchette
 couchettes
 couching
 couchings
@@ -31107,6 +31113,7 @@ cracks
 cracksman
 cracksmen
 crackup
+crackups
 cracky
 cradle
 cradled
@@ -36983,6 +36990,7 @@ desolater
 desolaters
 desolates
 desolating
+desolation
 desolations
 desolator
 desolators
@@ -53683,6 +53691,7 @@ forayers
 foraying
 forays
 forb
+forbad
 forbade
 forbare
 forbear
@@ -54072,6 +54081,7 @@ forgivenesses
 forgiver
 forgivers
 forgives
+forgiving
 forgivingly
 forgivingness
 forgivingnesses
@@ -62723,6 +62733,7 @@ headgears
 headhunt
 headhunted
 headhunter
+headhunters
 headhunting
 headier
 headiest
@@ -65679,6 +65690,7 @@ housebreak
 housebreaker
 housebreakers
 housebreaking
+housebreakings
 housebreaks
 housebroke
 housebroken
@@ -71364,6 +71376,7 @@ interlend
 interlends
 interlent
 interleukin
+interleukins
 interlibrary
 interline
 interlinear
@@ -74377,6 +74390,7 @@ justing
 justle
 justled
 justles
+justling
 justness
 justnesses
 justs
@@ -75348,6 +75362,7 @@ kinetoscopes
 kinetosome
 kinetosomes
 kinfolk
+kinfolks
 king
 kingbirds
 kingbolts
@@ -77042,6 +77057,7 @@ lathering
 lathers
 lathery
 lathes
+lathi
 lathier
 lathiest
 lathing
@@ -77560,6 +77576,7 @@ lectotype
 lectotypes
 lecture
 lectured
+lecturer
 lecturers
 lectures
 lectureship
@@ -77950,6 +77967,7 @@ leptophoses
 leptosome
 leptosomes
 leptospiral
+leptospire
 leptospires
 leptospiroses
 leptospirosis
@@ -78667,6 +78685,7 @@ limekilns
 limeless
 limelight
 limelighted
+limelights
 limen
 limens
 limerick
@@ -83622,6 +83641,7 @@ melodramatized
 melodramatizes
 melodramatizing
 melody
+meloid
 meloids
 melon
 melongene
@@ -85132,6 +85152,7 @@ migratory
 migs
 mihrab
 mihrabs
+mijnheer
 mijnheers
 mikado
 mikados
@@ -88657,6 +88678,7 @@ mucosas
 mucose
 mucosities
 mucosity
+mucous
 mucro
 mucronate
 mucrones
@@ -96978,6 +97000,7 @@ outpitching
 outpitied
 outpities
 outpity
+outpitying
 outplace
 outplaced
 outplacement
@@ -102094,6 +102117,7 @@ pelycosaurs
 pembina
 pembinas
 pemican
+pemicans
 pemmican
 pemoline
 pemphigus
@@ -108885,6 +108909,7 @@ prefinancing
 prefire
 prefired
 prefires
+prefiring
 prefix
 prefixal
 prefixes
@@ -111076,6 +111101,7 @@ proptoses
 proptosis
 propulsions
 propulsive
+propyl
 propyla
 propylaea
 propylaeum
@@ -111240,6 +111266,7 @@ prosties
 prostitute
 prostituted
 prostitutes
+prostituting
 prostitution
 prostitutions
 prostitutor
@@ -115011,6 +115038,7 @@ reaffirm
 reaffirmation
 reaffirmations
 reaffirmed
+reaffirms
 reaffix
 reaffixed
 reaffixes
@@ -116286,6 +116314,7 @@ redeem
 redeemable
 redeemed
 redeemers
+redeeming
 redeems
 redefeat
 redefeated
@@ -116923,6 +116952,7 @@ referrals
 referrer
 referrers
 referring
+refers
 reffed
 reffing
 refight
@@ -124366,6 +124396,7 @@ sasquatch
 sasquatches
 sass
 sassabies
+sassaby
 sassafras
 sassafrases
 sassed
@@ -126662,6 +126693,7 @@ seisor
 seisors
 seisure
 seisures
+seitan
 seitans
 seizable
 seize
@@ -128834,6 +128866,7 @@ shophroth
 shopkeeper
 shopkeepers
 shoplift
+shoplifted
 shoplifter
 shoplifters
 shoplifting
@@ -132466,6 +132499,7 @@ solipsistic
 solipsistically
 solipsists
 soliquid
+soliquids
 solitaire
 solitaires
 solitaries
@@ -150719,6 +150753,7 @@ undersigning
 undersigns
 undersize
 undersized
+underskirt
 underskirts
 underslung
 undersoil
