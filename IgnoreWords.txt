@@ -2535,6 +2535,7 @@ airfield
 airfields
 airflow
 airflows
+airfoil
 airframe
 airframes
 airfreight
@@ -4040,6 +4041,7 @@ amortization
 amortize
 amortized
 amortizes
+amortizing
 amosite
 amosites
 amotion
@@ -4123,6 +4125,7 @@ amplidyne
 amplidynes
 amplification
 amplifications
+amplified
 amplifier
 amplifies
 amplify
@@ -5118,6 +5121,7 @@ antagonisms
 antagonist
 antagonistic
 antagonists
+antagonize
 antagonized
 antagonizing
 antalgic
@@ -5299,6 +5303,7 @@ antiarthritics
 antiarthritis
 antiasthma
 antiatom
+antiatoms
 antiauxin
 antiauxins
 antibacklash
@@ -8182,6 +8187,7 @@ atavists
 ataxias
 ataxic
 ataxics
+ataxies
 ataxy
 ate
 atechnic
@@ -12507,6 +12513,7 @@ beryl
 beryline
 beryllium
 berylliums
+bes
 bescorch
 bescorched
 bescorches
@@ -27743,6 +27750,7 @@ concocted
 concocter
 concocting
 concoction
+concoctions
 concoctive
 concoctor
 concoctors
@@ -40687,6 +40695,7 @@ dodoisms
 dodos
 doer
 doers
+does
 doeskin
 doeskins
 doest
@@ -45059,6 +45068,7 @@ endamoebas
 endanger
 endangered
 endangering
+endangerment
 endangerments
 endangers
 endarch
@@ -48791,6 +48801,7 @@ exploded
 exploder
 exploders
 explodes
+exploding
 exploit
 exploitation
 exploitations
@@ -54097,6 +54108,7 @@ formalin
 formalins
 formalise
 formalised
+formalises
 formalising
 formalism
 formalisms
@@ -70563,6 +70575,7 @@ insetted
 insetter
 insetters
 insetting
+insheath
 insheathed
 insheathes
 insheathing
@@ -74953,6 +74966,7 @@ keyboard
 keyboarded
 keyboarder
 keyboarders
+keyboardist
 keyboardists
 keyboards
 keybutton
@@ -77826,6 +77840,7 @@ leniencies
 leniency
 lenient
 lenis
+lenite
 lenites
 lenities
 leniting
@@ -83262,6 +83277,7 @@ medievalists
 medievally
 medievals
 medigap
+medigaps
 medii
 medina
 medinas
@@ -84374,6 +84390,7 @@ methaqualone
 methaqualones
 methedrine
 methedrines
+metheglin
 metheglins
 methemoglobin
 methemoglobins
@@ -100682,6 +100699,7 @@ parfocalized
 parfocalizes
 parfocalizing
 parge
+parged
 parget
 pargeted
 pargeting
@@ -101589,6 +101607,7 @@ peaching
 peachy
 peacing
 peacoat
+peacoats
 peacock
 peacockier
 peacockiest
@@ -102916,6 +102935,7 @@ peroxids
 peroxisomal
 peroxisome
 peroxisomes
+peroxy
 perp
 perpend
 perpended
@@ -112682,6 +112702,7 @@ pyas
 pycnidia
 pycnidial
 pycnidium
+pycnogonid
 pycnogonids
 pycnometer
 pycnometers
@@ -125715,6 +125736,7 @@ scribbly
 scribe
 scribed
 scriber
+scribers
 scribes
 scribing
 scried
@@ -128650,6 +128672,7 @@ shlocky
 shlub
 shlubs
 shlump
+shlumped
 shlumping
 shlumps
 shlumpy
@@ -133644,6 +133667,7 @@ spermatozoids
 spermatozoon
 spermicidal
 spermicide
+spermicides
 spermine
 spermines
 spermiogeneses
@@ -133892,6 +133916,7 @@ spinosities
 spinosity
 spinous
 spinouts
+spins
 spinster
 spinsterhood
 spinsterhoods
@@ -136771,6 +136796,7 @@ stressed
 stresses
 stressful
 stressfully
+stressing
 stressless
 stresslessness
 stressor
@@ -137921,6 +137947,7 @@ subpopulation
 subpopulations
 subpotencies
 subpotency
+subpotent
 subprimate
 subprimates
 subprincipal
@@ -146789,6 +146816,7 @@ trashman
 trashmen
 trashy
 trass
+trasses
 trattoria
 trattorias
 trattorie
@@ -151675,6 +151703,7 @@ unlades
 unlading
 unladylike
 unlaid
+unlamented
 unlashed
 unlashes
 unlatch
@@ -152436,6 +152465,7 @@ unsegregated
 unseized
 unselected
 unselective
+unselectively
 unselfish
 unselfishly
 unselfishnesses
@@ -152949,6 +152979,7 @@ unwarlike
 unwarmed
 unwarned
 unwarped
+unwarrantable
 unwarrantably
 unwarranted
 unwary
@@ -154003,6 +154034,7 @@ valency
 valentine
 valentines
 valerate
+valerates
 valerian
 valerians
 vales
@@ -156428,6 +156460,7 @@ vum
 vying
 vyingly
 wab
+wabble
 wabbled
 wabbler
 wabblers
@@ -160528,6 +160561,7 @@ yonic
 yonis
 yonker
 yonkers
+yore
 yores
 yottabyte
 yottabytes
@@ -160617,6 +160651,7 @@ yuks
 yulan
 yulans
 yule
+yules
 yuletide
 yuletides
 yum
