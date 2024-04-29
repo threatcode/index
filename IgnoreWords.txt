@@ -3424,6 +3424,7 @@ aloha
 aloin
 aloins
 alone
+aloneness
 alonenesses
 along
 alongshore
@@ -3929,6 +3930,7 @@ amis
 amiss
 amitoses
 amitosis
+amitotic
 amitotically
 amitriptyline
 amitriptylines
@@ -5366,6 +5368,7 @@ anticlinal
 anticline
 anticlines
 anticlockwise
+anticlotting
 anticly
 anticoagulant
 anticoagulants
@@ -9712,6 +9715,7 @@ backside
 backsides
 backslap
 backslapped
+backslapper
 backslappers
 backslapping
 backslaps
@@ -12540,6 +12544,7 @@ beshamed
 beshames
 beshaming
 beshiver
+beshivered
 beshivering
 beshivers
 beshout
@@ -12991,6 +12996,7 @@ bicentenaries
 bicentenary
 bicentennial
 bicentennials
+bicentric
 bicep
 biceps
 bicepses
@@ -13324,6 +13330,7 @@ bilsted
 bilsteds
 biltong
 biltongs
+bima
 bimah
 bimahs
 bimanous
@@ -17743,6 +17750,7 @@ bullyrag
 bullyragged
 bulrush
 bulrushes
+bulwark
 bulwarked
 bulwarking
 bum
@@ -19393,6 +19401,7 @@ cancellation
 cancellations
 cancelled
 canceller
+cancellers
 cancelling
 cancellous
 cancels
@@ -22949,6 +22958,7 @@ chickens
 chickenshit
 chickenshits
 chickories
+chickory
 chickpea
 chickpeas
 chicks
@@ -26849,6 +26859,7 @@ comingle
 comingled
 comingles
 comingling
+comings
 comitia
 comitial
 comities
@@ -29352,6 +29363,7 @@ cooties
 coots
 cop
 copacetic
+copaiba
 copaibas
 copalm
 copalms
@@ -32338,6 +32350,7 @@ cubatures
 cubbies
 cubbish
 cubby
+cubbyhole
 cubbyholes
 cube
 cubeb
@@ -32584,6 +32597,7 @@ cumulation
 cumulations
 cumulative
 cumulatively
+cumulativeness
 cumuli
 cumuliform
 cumulonimbi
@@ -40392,6 +40406,7 @@ diversionary
 diversionist
 diversionists
 diversities
+diversity
 divert
 diverted
 diverter
@@ -50779,6 +50794,7 @@ feretory
 feria
 feriae
 ferial
+ferias
 ferine
 ferities
 ferity
@@ -51005,6 +51021,7 @@ fetlocks
 fetologies
 fetologist
 fetologists
+fetology
 fetoprotein
 fetoproteins
 fetor
@@ -51906,6 +51923,7 @@ fishworm
 fishworms
 fissate
 fissilities
+fissility
 fission
 fissionability
 fissionable
@@ -54934,6 +54952,7 @@ fringier
 fringy
 fripperies
 frippery
+frisbee
 frisbees
 frise
 frisee
@@ -63619,6 +63638,7 @@ hereinbelow
 hereinto
 hereof
 hereon
+heres
 heresiarch
 heresiarchs
 heresies
@@ -70308,6 +70328,7 @@ innocentest
 innocently
 innocents
 innocuousness
+innominate
 innovate
 innovated
 innovates
@@ -100935,6 +100956,7 @@ parvolin
 parvoline
 parvolins
 parvos
+parvovirus
 parvoviruses
 pas
 pascal
@@ -106577,6 +106599,7 @@ politician
 politicians
 politicise
 politicises
+politicising
 politicization
 politicizations
 politicized
@@ -107434,6 +107457,7 @@ possessives
 possessor
 possessors
 possessory
+possibilities
 possibility
 possible
 possibler
@@ -113635,6 +113659,7 @@ rabietic
 raccoons
 race
 racecourse
+raced
 racehorse
 racehorses
 racemate
@@ -118964,6 +118989,7 @@ repressurized
 repressurizes
 repressurizing
 reprice
+repriced
 reprices
 reprieval
 reprieve
@@ -123687,6 +123713,7 @@ salvagee
 salvagees
 salvager
 salvagers
+salvages
 salvaging
 salvarsan
 salvarsans
@@ -125209,6 +125236,7 @@ scilla
 scillas
 scimetar
 scimetars
+scimitar
 scimitars
 scimiter
 scimiters
@@ -128801,6 +128829,7 @@ shotgunners
 shotgunning
 shotguns
 shothole
+shotholes
 shots
 shott
 shotted
@@ -132425,6 +132454,7 @@ somatosensory
 somatostatin
 somatostatins
 somatotrophin
+somatotrophins
 somatotropin
 somatotropins
 somatotype
@@ -136250,6 +136280,7 @@ stooged
 stooges
 stooging
 stooked
+stooker
 stookers
 stooking
 stooks
@@ -143402,6 +143433,7 @@ thecae
 thecal
 thecodont
 thecodonts
+thee
 theelin
 theelins
 theelol
@@ -145120,6 +145152,7 @@ tokonoma
 tokonomas
 tola
 tolan
+tolane
 tolanes
 tolans
 tolar
@@ -148493,6 +148526,7 @@ turnkey
 turnkeys
 turnoff
 turnoffs
+turnon
 turnons
 turnouts
 turnover
@@ -156195,6 +156229,7 @@ votress
 votresses
 vouched
 vouchee
+voucher
 vouchered
 vouchering
 vouchers
