@@ -2017,6 +2017,7 @@ afire
 aflame
 aflatoxin
 aflatoxins
+afloat
 aflutter
 afoot
 afore
@@ -6878,6 +6879,7 @@ arc
 arcaded
 arcades
 arcadian
+arcadians
 arcadias
 arcading
 arcadings
@@ -7432,6 +7434,7 @@ arrows
 arrowwoods
 arrowworms
 arrowy
+arroyo
 ars
 arsenal
 arsenals
@@ -9426,6 +9429,7 @@ axletrees
 axlike
 axman
 axmen
+axolotl
 axolotls
 axon
 axonal
@@ -16402,6 +16406,7 @@ brain
 braincase
 braincases
 brainchildren
+brained
 brainiac
 brainiacs
 brainier
@@ -17774,6 +17779,7 @@ bulbously
 bulbs
 bulbul
 bulbuls
+bulge
 bulgers
 bulges
 bulghur
@@ -28865,6 +28871,7 @@ constraining
 constrains
 constraints
 constrict
+constricted
 constricting
 constriction
 constrictions
@@ -30459,6 +30466,7 @@ costarring
 costars
 costate
 coster
+costermonger
 costermongers
 costers
 costing
@@ -32715,6 +32723,7 @@ culex
 culexes
 culices
 culicine
+culinarian
 culinarians
 culinarily
 culinary
@@ -37184,6 +37193,7 @@ desilvered
 desilvering
 desilvers
 desinence
+desinences
 desinent
 desipramines
 desirabilities
@@ -38599,6 +38609,7 @@ digs
 dihedral
 dihedrals
 dihedron
+dihedrons
 dihybrids
 dihydric
 dikdik
@@ -38669,6 +38680,7 @@ dilled
 dillies
 dills
 dilly
+dillydallied
 dillydally
 dillydallying
 diltiazem
@@ -40244,6 +40256,7 @@ disruption
 disruptions
 disruptive
 disruptively
+disruptiveness
 disruptor
 disruptors
 disrupts
@@ -44793,6 +44806,7 @@ embroiled
 embroiler
 embroilers
 embroilments
+embroils
 embrown
 embrowned
 embrowning
@@ -46465,6 +46479,7 @@ enwreathing
 enzootic
 enzootics
 enzym
+enzymatic
 enzymatically
 enzyme
 enzymes
@@ -52948,6 +52963,7 @@ flextimer
 flextimers
 flextimes
 flexuose
+flexuous
 flexural
 flexure
 flexures
@@ -56997,6 +57013,7 @@ garnishing
 garnishment
 garnishments
 garniture
+garnitures
 garote
 garotes
 garotte
@@ -64706,6 +64723,7 @@ hinnied
 hinnies
 hinny
 hinnying
+hint
 hinter
 hinterland
 hinterlands
@@ -73752,6 +73770,7 @@ jalaps
 jalop
 jalopies
 jaloppies
+jalops
 jalopy
 jalousie
 jalousied
@@ -83597,6 +83616,7 @@ mayfly
 mayhap
 mayhappen
 mayhem
+maying
 mayings
 mayo
 mayonnaise
@@ -84351,6 +84371,7 @@ meningitic
 meningitides
 meningitis
 meningococcal
+meningococcic
 meningococcus
 meninx
 meniscal
@@ -85925,6 +85946,7 @@ millicuries
 millidegree
 millidegrees
 millieme
+millier
 milliers
 milligal
 milligals
@@ -87253,6 +87275,7 @@ missets
 missetting
 misshape
 misshaped
+misshapenly
 misshaper
 misshapers
 misshapes
@@ -88450,6 +88473,7 @@ montero
 monteros
 montes
 month
+monthlies
 monthlong
 monthly
 months
@@ -94482,6 +94506,7 @@ nuthatch
 nuthatches
 nuthouses
 nutlet
+nutlets
 nutlike
 nutmeat
 nutmeats
@@ -100625,6 +100650,7 @@ palpitations
 palps
 palpus
 pals
+palsgrave
 palsgraves
 palship
 palships
@@ -101159,6 +101185,7 @@ paralysis
 paralytic
 paralytically
 paralytics
+paralyzation
 paralyzations
 paralyze
 paralyzed
@@ -117317,6 +117344,7 @@ redounded
 redounds
 redout
 redouts
+redowa
 redowas
 redpoll
 redpolls
@@ -123228,6 +123256,7 @@ rosemaling
 rosemalings
 rosemary
 roseola
+roseolar
 roseolas
 roseries
 roseroots
@@ -128904,6 +128933,7 @@ shammos
 shammosim
 shammy
 shammying
+shamos
 shamosim
 shamoy
 shamoyed
@@ -137513,6 +137543,7 @@ straighteners
 straightening
 straightens
 straighter
+straightforward
 straightish
 straightjackets
 straightlaced
@@ -138858,6 +138889,7 @@ subnucleuses
 subocean
 suboceanic
 suboptic
+suboptimal
 suboptimization
 suboptimize
 suboptimized
@@ -149262,6 +149294,7 @@ tubercular
 tuberculars
 tuberculated
 tuberculin
+tuberculoid
 tuberculoses
 tuberculosis
 tuberculous
@@ -152667,6 +152700,7 @@ unitrust
 unitrusts
 univalent
 univalents
+univalve
 univalved
 univalves
 univariate
@@ -160021,6 +160055,7 @@ winier
 winiest
 wining
 winish
+wink
 winked
 winker
 winkers
