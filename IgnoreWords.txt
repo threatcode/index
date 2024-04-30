@@ -205,6 +205,7 @@ abstractness
 abstractnesses
 abstractor
 abstractors
+abstracts
 abstrict
 abstricted
 abstricting
@@ -1404,6 +1405,7 @@ admonitions
 admonitor
 admonitorily
 admonitors
+admonitory
 adnate
 adnation
 adnations
@@ -4228,6 +4230,7 @@ amylopsin
 amylopsins
 amylose
 amyloses
+amyls
 amylum
 amyotonia
 amyotonias
@@ -8652,6 +8655,7 @@ augmentative
 augmentatives
 augmented
 augmenter
+augmenters
 augmenting
 augmentor
 augmentors
@@ -10732,6 +10736,7 @@ baronial
 baronne
 baronnes
 barons
+barony
 baroque
 baroquely
 baroques
@@ -14918,6 +14923,7 @@ blurbs
 blurredly
 blurrier
 blurriest
+blurrily
 blurriness
 blurrinesses
 blurring
@@ -21712,6 +21718,7 @@ centiare
 centiares
 centigrade
 centigram
+centigrams
 centile
 centiles
 centiliter
@@ -30156,6 +30163,7 @@ corticosterones
 corticotrophins
 corticotropin
 corticotropins
+cortin
 cortinas
 cortins
 cortisol
@@ -36213,6 +36221,7 @@ demurral
 demurrals
 demurred
 demurrer
+demurring
 demurs
 demy
 demyelinating
@@ -43157,6 +43166,7 @@ earthrise
 earthrises
 earths
 earthsets
+earthshaker
 earthshakers
 earthshaking
 earthshakingly
@@ -44762,6 +44772,7 @@ emoting
 emotion
 emotional
 emotionalism
+emotionalisms
 emotionalist
 emotionalistic
 emotionalists
@@ -45260,6 +45271,7 @@ endlessnesses
 endlong
 endmost
 endnote
+endnotes
 endobiotic
 endoblast
 endoblasts
@@ -48583,6 +48595,7 @@ exigencies
 exigency
 exigent
 exigently
+exigible
 exiguities
 exiguity
 exiguous
@@ -63282,6 +63295,7 @@ hegemons
 hegemony
 hegira
 hegiras
+hegumen
 hegumene
 hegumenes
 hegumenies
@@ -67303,6 +67317,7 @@ icebreakers
 icecap
 icecapped
 icecaps
+iced
 icefall
 icefalls
 icehouse
@@ -67442,6 +67457,7 @@ ideative
 idem
 idempotent
 idempotents
+identical
 identically
 identicalness
 identicalnesses
@@ -69963,6 +69979,7 @@ infeasible
 infect
 infectant
 infecter
+infecters
 infecting
 infection
 infections
@@ -72351,6 +72368,7 @@ invective
 invectively
 invectiveness
 invectivenesses
+invectives
 inveigh
 inveighed
 inveigher
@@ -74695,6 +74713,7 @@ kaiserin
 kaiserins
 kaiserism
 kaiserisms
+kaisers
 kajeput
 kajeputs
 kakapo
@@ -80396,6 +80415,7 @@ loveable
 loveably
 lovebird
 lovebirds
+lovebug
 lovebugs
 loved
 lovefest
@@ -83480,6 +83500,7 @@ medfly
 media
 mediacies
 mediacy
+mediad
 mediaevals
 mediagenic
 medial
@@ -90216,6 +90237,7 @@ nandina
 nandinas
 nandins
 nanism
+nanisms
 nankeen
 nankeens
 nankin
@@ -96216,6 +96238,7 @@ orthochromatic
 orthoclase
 orthodontia
 orthodontic
+orthodontically
 orthodontics
 orthodontist
 orthodontists
@@ -101308,6 +101331,7 @@ partook
 partridge
 partridgeberry
 partridges
+parts
 parturient
 parturients
 parturitions
@@ -107665,6 +107689,7 @@ porgies
 poriferal
 poriferan
 poriferans
+poring
 porism
 porisms
 porked
@@ -112692,6 +112717,7 @@ puntos
 punts
 punty
 puny
+pup
 pupa
 pupae
 pupal
@@ -131399,6 +131425,7 @@ slobbering
 slobbers
 slobbery
 slobbier
+slobbiest
 slobbish
 slobby
 slobs
@@ -131716,6 +131743,7 @@ smeeking
 smeeks
 smegma
 smegmas
+smell
 smelled
 smeller
 smellers
@@ -136974,6 +137002,7 @@ straighten
 straightened
 straightener
 straighteners
+straightening
 straightens
 straighter
 straightish
@@ -140769,6 +140798,7 @@ swishier
 swishiest
 swishingly
 swishy
+swisses
 switch
 switchable
 switchback
@@ -141216,6 +141246,7 @@ syndicalists
 syndicate
 syndicated
 syndicates
+syndicating
 syndication
 syndications
 syndicator
@@ -147339,6 +147370,7 @@ trawley
 trawleys
 trawling
 trawlnet
+trawlnets
 trawls
 tray
 trayful
@@ -156757,6 +156789,7 @@ vomituses
 voodoo
 voodooed
 voodooing
+voodooism
 voodooisms
 voodooist
 voodooistic
@@ -157190,6 +157223,7 @@ waking
 wale
 waled
 walers
+waling
 walk
 walkable
 walkabout
@@ -161020,6 +161054,7 @@ yogurts
 yohimbe
 yohimbes
 yohimbine
+yohimbines
 yoicks
 yok
 yoke

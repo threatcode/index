@@ -18,3 +18,12 @@ awswordpress-brownlr4 - files - wordpress.sql - GitLab,https://gitlab.csi.miamio
 01 tables v1.1.2.sql - M4EU - GitLab,https://geusgitlab.geus.dk/m4eu/2017-ProSUM-v1.1.2/-/blob/dfd9b353c83391ec0d42c6db5bf55233cfd3c28b/09-db-m4eu/v1.1.2/DBPostgreSQL/01%2520tables%2520v1.1.2.sql
 web.mit.edu/dramashop/Dramashop_WAMP/bin/mysql/mys...,http://web.mit.edu/dramashop/Dramashop_WAMP/bin/mysql/mysql5.5.24/share/fill_help_tables.sql
 Other (PostgreSQL complete database) - Durham e-Theses,http://etheses.dur.ac.uk/14524/3/DB_all.sql%3FDDD6%2B
+migrations/000100_rename_paths_big_id.up.sql - pkgsite - Google Git,https://go.googlesource.com/pkgsite/%2B/master/migrations/000100_rename_paths_big_id.up.sql
+master · examples / Microsoft SQL Server 2012 Internals · GitLab,https://resources.oreilly.com/examples/9780735658561-files/blob/master/Chapter10.sql
+https://raw.githubusercontent.com/microsoft/sql-se...,https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/features/in-memory-database/in-memory-oltp/t-sql-scripts/clustered_columnstore_sample_queries.sql
+MigFx.RepositoryDb.Setup.sql,https://migfx.blob.core.windows.net/builds/stable/dbscripts/MigFx.RepositoryDb.Setup.sql
+CDROM/DBA/TBLSIZEC.SQL · master · examples / Oracle Scripts ...,https://resources.oreilly.com/examples/9781565924383/blob/master/CDROM/DBA/TBLSIZEC.SQL
+EntityJustWorks.SQL 1.0.0 - NuGet,https://www.nuget.org/packages/EntityJustWorks.SQL
+DatabaseBuildProcess/1PortingObjects ... - GitLab,https://git.davewentzel.com/dwentzel/sqlscripts/-/blob/master/DatabaseBuildProcess/1PortingObjects/DBA_CreateForeignKey_prc.sql%3Fref_type%3Dheads
+DBPostgreSQL - 01 tables v1.1.2.sql - GitLab,https://geusgitlab.geus.dk/m4eu/2017-ProSUM-v1.1.2/-/blob/dfd9b353c83391ec0d42c6db5bf55233cfd3c28b/09-db-m4eu/v1.1.2/DBPostgreSQL/01%2520tables%2520v1.1.2.sql
+ext_tables.sql · 33f72db39700dc0270921b08d7632690248dc1d6 ...,https://gitlab.lst.team/public-repositories/static-info-tables/-/blob/33f72db39700dc0270921b08d7632690248dc1d6/ext_tables.sql
