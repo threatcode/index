@@ -1,0 +1,10 @@
+airflow-provider-anomaly-detection/airflow_anomaly_detection ...,https://github.com/andrewm4894/airflow-provider-anomaly-detection/blob/main/airflow_anomaly_detection/example_dags/bigquery_anomaly_detection_dag/sql/preprocess.sql
+CommservSurveyQuery_248.sql - Commvault Metrics Reporting,https://edc.commvault.com/downloads/SQLScripts/CommservSurveyQuery_248.sql
+Source of ref_lrg.sql - AnomalyWeb - Peter Mac Bitbucket,https://atlassian.petermac.org.au/bitbucket/projects/AN/repos/anomalyweb/diff/Loader/src/ETL/Tables/ref_lrg.sql%3FautoSincePath%3Dfalse%26until%3Df3db85819f10281af914f60b58c8bcdbab605465%26at%3Df3db85819f1
+Source of Deidentify.sql - AnomalyApi - Peter Mac Bitbucket,https://atlassian.petermac.org.au/bitbucket/projects/AN/repos/anomalyapi/browse/PathosCore/src/SQL/Audit/Deidentify.sql%3Fat%3Da043ecacbf8cd2f345573451ce892a960b7d942f
+DATABASE.SQL | Futures Grid Trading Bot - Binance,https://www.binance.com/it/strategy/futures/grid/database.sql
+SQL.SQL | TWAP Algo Trading Bot | Binance,https://www.binance.com/en/strategy/futures/twap/sql.sql
+Dean/Bookdata-tools ... - DagsHub,https://dagshub.com/Dean/Bookdata-tools/src/16301adca17f6981a893020efcefb9cac6c44979/ol-explore.sql
+PostgreSQL: src/test/regress/sql/prepared_xacts.sql | Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/prepared_xacts.sql
+CommservSurveyQuery_250.sql - Commvault Metrics Reporting,https://edc.commvault.com/downloads/SQLScripts/HealthCheck/CommservSurveyQuery_250.sql
+suizhihao/Impala - feabfbc35c2f45c07a32d4925477ae52552b0b39 ...,https://dagshub.com/suizhihao/Impala/src/feabfbc35c2f45c07a32d4925477ae52552b0b39/tests/shell/test_file_comments.sql
