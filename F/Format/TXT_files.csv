@@ -1,0 +1,20 @@
+Todo.txt format - GitHub,https://github.com/todotxt/todo.txt
+RFC 1952: GZIP file format specification version 4.3 - IETF,https://www.ietf.org/rfc/rfc1952.txt
+printk-formats.txt,https://www.kernel.org/doc/Documentation/printk-formats.txt
+framing_format.txt - google/snappy - GitHub,https://github.com/google/snappy/blob/main/framing_format.txt
+RFC 4180 Common Format and MIME Type for CSV Files - IETF,https://www.ietf.org/rfc/rfc4180.txt
+Format String Technique,https://julianor.tripod.com/bc/NN-formats.txt
+"echo 123.4567 | awk '{printf ""%.3f\n"", $1}' 123.457 echo",https://bl831.als.lbl.gov/~gmeigs/scripting_help/printf_awk_notes.txt
+The PLY Polygon File Format,https://people.math.sc.edu/Burkardt/data/ply/ply.txt
+docs/manifest-format.txt - git-repo - Git at Google,https://gerrit.googlesource.com/git-repo/%2B/v1.3/docs/manifest-format.txt
+RFC 7495,https://www.rfc-editor.org/rfc/rfc7495.txt
+rinex_clock302.txt,https://files.igs.org/pub/data/format/rinex_clock302.txt
+git pretty format - Apple Open Source,https://opensource.apple.com/source/Git/Git-26/src/git-htmldocs/pretty-formats.txt
+xz-file-format.txt,https://tukaani.org/xz/xz-file-format.txt
+EDI format - MTNet,http://www.mtnet.info/docs/ediformat.txt
+IEEE Common Data Format,https://labs.ece.uw.edu/pstca/formats/cdf.txt
+Clock RINEX file format,https://files.igs.org/pub/data/format/rinex_clock304.txt
+Graphics Interchange Format (GIF) Specification,https://www.w3.org/Graphics/GIF/spec-gif87.txt
+RINEX format Definition - NGS NOAA,https://www.ngs.noaa.gov/CORS/RINEX211.txt
+Extended Standard Product 3 Orbit Format (SP3c),http://www.epncb.oma.be/ftp/data/format/sp3c.txt
+Bookshelf format,http://vlsicad.eecs.umich.edu/BK/ISPD06bench/BookshelfFormat.txt
