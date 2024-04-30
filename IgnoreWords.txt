@@ -1882,6 +1882,7 @@ affectations
 affectedly
 affectedness
 affectednesses
+affecter
 affecters
 affecting
 affectingly
@@ -8714,6 +8715,7 @@ auntie
 auntlier
 auntliest
 auntlike
+aunts
 aunty
 aura
 aurae
@@ -17709,6 +17711,7 @@ bugler
 buglers
 bugles
 bugleweed
+bugleweeds
 bugling
 bugloss
 buglosses
@@ -19043,6 +19046,7 @@ calcimining
 calcination
 calcinations
 calcine
+calcined
 calcines
 calcinoses
 calcite
@@ -23962,6 +23966,7 @@ chubasco
 chubascos
 chubbier
 chubbiest
+chubbily
 chubbiness
 chubbinesses
 chubby
@@ -25736,6 +25741,7 @@ cocaine
 cocaines
 cocainism
 cocainisms
+cocainization
 cocainizations
 cocainize
 cocainized
@@ -39390,6 +39396,7 @@ disconnecting
 disconnection
 disconnections
 disconnects
+disconsolate
 disconsolately
 disconsolation
 disconsolations
@@ -41332,6 +41339,7 @@ doorknobs
 doorless
 doorman
 doormat
+doormats
 doormen
 doornail
 doornails
@@ -47047,6 +47055,7 @@ erepsin
 erethic
 erethism
 erethisms
+erethitic
 erewhile
 erewhiles
 erg
@@ -48107,6 +48116,7 @@ eventuate
 eventuated
 eventuates
 eventuating
+ever
 everblooming
 everduring
 everglade
@@ -51626,6 +51636,7 @@ fiefdoms
 fiefs
 field
 fielded
+fielder
 fielders
 fieldfare
 fieldfares
@@ -55620,6 +55631,7 @@ frustum
 frustums
 frutescent
 fruticose
+fry
 fryable
 frybread
 frybreads
@@ -64778,6 +64790,7 @@ historical
 historically
 historicalness
 historicism
+historicisms
 historicist
 historicists
 historicities
@@ -66628,6 +66641,7 @@ hyaloplasm
 hyaloplasms
 hyaluronidase
 hyaluronidases
+hybrid
 hybridism
 hybridisms
 hybridist
@@ -67144,6 +67158,7 @@ hyperpolarize
 hyperpolarized
 hyperpolarizes
 hyperpolarizing
+hyperproducer
 hyperproducers
 hyperproduction
 hyperpyrexia
@@ -69049,6 +69064,7 @@ inbounds
 inbreathe
 inbreathed
 inbreathes
+inbreathing
 inbred
 inbreds
 inbreed
@@ -75273,6 +75289,7 @@ kendo
 kendos
 kenned
 kennel
+kenneled
 kenneling
 kennelled
 kennelling
@@ -88220,6 +88237,7 @@ monophyletic
 monophylies
 monophyly
 monoplane
+monoplanes
 monoploid
 monoploids
 monopod
@@ -91909,6 +91927,7 @@ niggly
 nigh
 nighed
 nigher
+nighest
 nighing
 nighness
 nighnesses
@@ -101349,6 +101368,7 @@ parings
 paris
 parises
 parish
+parishes
 parishioner
 parishioners
 parities
@@ -103424,6 +103444,7 @@ perishable
 perishables
 perished
 perishes
+perishing
 perissodactyl
 perissodactyls
 peristalses
@@ -104383,6 +104404,7 @@ phonation
 phonations
 phone
 phoned
+phonematic
 phoneme
 phonemes
 phonemic
@@ -106237,6 +106259,7 @@ plantocracies
 plantocracy
 plants
 plantsman
+plantsmen
 planula
 planulae
 planular
@@ -111025,6 +111048,7 @@ processioned
 processioning
 processions
 processors
+prochain
 prochein
 prochoice
 prochurch
@@ -114952,6 +114976,7 @@ ramifying
 ramilie
 ramilies
 ramillie
+ramillies
 ramjet
 ramjets
 rammed
@@ -128920,6 +128945,7 @@ shaver
 shavers
 shaves
 shavetail
+shavetails
 shavie
 shavies
 shaving
@@ -129595,6 +129621,7 @@ shoppers
 shoppes
 shopping
 shoppings
+shoptalk
 shopwindow
 shopwindows
 shopworn
@@ -131709,6 +131736,7 @@ slippages
 slipped
 slipper
 slippered
+slipperier
 slipperiest
 slipperiness
 slipperinesses
@@ -138182,6 +138210,7 @@ subadar
 subadars
 subadolescent
 subadolescents
+subadult
 subadults
 subaerial
 subaerially
@@ -146133,6 +146162,7 @@ toling
 toll
 tollage
 tollages
+tollbar
 tollbars
 tollbooth
 tolled
@@ -146479,6 +146509,7 @@ toponymists
 toponyms
 toponymy
 topos
+topotype
 topotypes
 topped
 topper
@@ -148898,6 +148929,7 @@ trues
 truest
 truffe
 truffes
+truffle
 truffled
 truffles
 trug
@@ -157121,6 +157153,7 @@ voltaisms
 volte
 voltes
 volti
+voltmeter
 voltmeters
 volts
 volubilities
@@ -159453,6 +159486,7 @@ wide
 wideawake
 wideawakes
 wideband
+widebodies
 widebody
 widely
 widemouthed
@@ -161194,6 +161228,7 @@ yardwork
 yardworks
 yare
 yarely
+yarer
 yarest
 yarmelke
 yarmelkes
