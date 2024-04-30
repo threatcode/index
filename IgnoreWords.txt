@@ -1666,6 +1666,7 @@ advisory
 advocacies
 advocacy
 advocate
+advocated
 advocates
 advocating
 advocation
@@ -5476,6 +5477,7 @@ antidromic
 antidromically
 antidrug
 antieconomic
+antieducational
 antiegalitarian
 antielectron
 antielite
@@ -9182,6 +9184,7 @@ avert
 avertable
 averted
 averter
+averters
 avertible
 averting
 averts
@@ -11938,6 +11941,7 @@ beggarly
 beggars
 beggarweed
 beggarweeds
+beggary
 begged
 begin
 beginner
@@ -12199,6 +12203,7 @@ bellied
 belligerence
 belligerences
 belligerencies
+belligerency
 belligerent
 belligerently
 belligerents
@@ -15004,6 +15009,7 @@ blusterers
 blustering
 blusteringly
 blusterous
+blusters
 blustery
 blype
 blypes
@@ -20697,6 +20703,7 @@ carroches
 carrom
 carromed
 carroming
+carroms
 carronade
 carronades
 carrot
@@ -25614,6 +25621,7 @@ coannex
 coannexed
 coannexes
 coannexing
+coappear
 coappeared
 coappearing
 coappears
@@ -26420,6 +26428,7 @@ coistrils
 coital
 coitally
 coition
+coitional
 coitions
 coitus
 cojoined
@@ -29791,6 +29800,7 @@ coralbells
 coralberries
 coralberry
 coralline
+corallines
 coralloid
 coralroots
 corals
@@ -39309,6 +39319,7 @@ discerns
 discharge
 dischargeable
 discharged
+dischargee
 dischargees
 discharger
 dischargers
@@ -41771,6 +41782,7 @@ downspout
 downspouts
 downstages
 downstair
+downstairs
 downstate
 downstaters
 downstates
@@ -44789,6 +44801,7 @@ embryogeny
 embryoid
 embryoids
 embryologically
+embryologies
 embryologist
 embryologists
 embryology
@@ -49057,6 +49070,7 @@ expertises
 expertism
 expertisms
 expertize
+expertizes
 expertizing
 expertly
 expertness
@@ -54352,6 +54366,7 @@ forewarn
 forewarned
 forewarning
 forewarns
+forewent
 forewing
 forewings
 forewoman
@@ -54862,6 +54877,7 @@ fraenum
 fraenums
 frag
 fragged
+fraggings
 fragile
 fragilely
 fragilities
@@ -63136,6 +63152,7 @@ headmen
 headmistress
 headmost
 headnote
+headnotes
 headphone
 headphones
 headpieces
@@ -68779,6 +68796,7 @@ impotently
 impotents
 impounded
 impounder
+impounders
 impoundment
 impoundments
 impounds
@@ -72961,6 +72979,7 @@ irones
 ironfisted
 ironhanded
 ironhearted
+ironic
 ironical
 ironically
 ironicalness
@@ -73595,6 +73614,7 @@ jackleg
 jacklegs
 jacklight
 jacklighted
+jacklighting
 jacklights
 jackplane
 jackplanes
@@ -75905,6 +75925,7 @@ kipperers
 kippering
 kippers
 kipping
+kips
 kipskin
 kipskins
 kir
@@ -79103,6 +79124,7 @@ like
 likeable
 liked
 likelier
+likeliest
 likelihood
 likelihoods
 likely
@@ -84895,6 +84917,7 @@ metatarsals
 metatarsi
 metatarsus
 metate
+metates
 metatheses
 metathesis
 metathetic
@@ -87479,6 +87502,7 @@ mitigatory
 mitis
 mitises
 mitochondria
+mitochondrial
 mitochondrion
 mitogen
 mitogenicity
@@ -87765,6 +87789,7 @@ moisteners
 moistening
 moistens
 moister
+moistest
 moistful
 moistly
 moistness
@@ -102097,6 +102122,7 @@ patronizingly
 patronly
 patrons
 patronymic
+patronymics
 patroon
 patroons
 pats
@@ -106189,6 +106215,7 @@ plaintively
 plaintiveness
 plaints
 plaister
+plaistered
 plaistering
 plaisters
 plait
@@ -110062,6 +110089,7 @@ preprimary
 preprint
 preprinted
 preprinting
+preprocess
 preprocessed
 preprocesses
 preprocessing
@@ -116338,6 +116366,7 @@ recertified
 recertifies
 recertify
 recertifying
+recess
 recessed
 recesses
 recessing
@@ -121881,6 +121910,7 @@ rhaphe
 rhaphes
 rhapsode
 rhapsodes
+rhapsodic
 rhapsodical
 rhapsodically
 rhapsodies
@@ -138324,6 +138354,7 @@ subbranch
 subbreed
 subbreeds
 subbureau
+subbureaus
 subbureaux
 subcabinet
 subcapsular
@@ -142072,6 +142103,7 @@ tackle
 tackled
 tackler
 tacklers
+tackles
 tackless
 tackling
 tacklings
@@ -151381,6 +151413,7 @@ underachieve
 underachieved
 underachiever
 underachieves
+underachieving
 underact
 underacted
 underacting
@@ -157267,6 +157300,7 @@ voluptuously
 voluptuousness
 volute
 voluted
+volutes
 volutin
 volutins
 volution
@@ -157909,6 +157943,7 @@ wapitis
 wapped
 wappenschawing
 wappenschawings
+wapping
 waps
 war
 warble
