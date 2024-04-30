@@ -2882,6 +2882,7 @@ alerting
 alertly
 alertness
 alertnesses
+ales
 aleuron
 aleurone
 aleurones
@@ -4236,6 +4237,7 @@ amyloidoses
 amyloidosis
 amyloids
 amylolytic
+amylopectin
 amylopectins
 amyloplast
 amyloplasts
@@ -4277,6 +4279,7 @@ anacolutha
 anacoluthic
 anacoluthically
 anacoluthon
+anacoluthons
 anaconda
 anacondas
 anacreontic
@@ -13382,6 +13385,7 @@ billeter
 billeters
 billeting
 billets
+billfish
 billfishes
 billfold
 billfolds
@@ -25269,6 +25273,7 @@ clonisms
 clonk
 clonking
 clons
+clonus
 clonuses
 cloot
 cloots
@@ -26916,6 +26921,7 @@ colzas
 coma
 comade
 comae
+comaker
 comakers
 comakes
 comaking
@@ -29373,6 +29379,7 @@ convertors
 converts
 convexes
 convexities
+convexity
 convexly
 conveyance
 conveyancer
@@ -30666,6 +30673,7 @@ counterblow
 counterblows
 countercampaign
 counterchange
+counterchanges
 counterchanging
 countercharge
 countercharges
@@ -34039,6 +34047,7 @@ dandifications
 dandified
 dandifies
 dandify
+dandifying
 dandily
 dandle
 dandled
@@ -34874,6 +34883,7 @@ decider
 deciders
 decides
 deciding
+decidua
 deciduae
 decidual
 deciduas
@@ -36496,6 +36506,7 @@ dentations
 dented
 denticle
 denticles
+denticulate
 denticulated
 denticulations
 dentiform
@@ -50248,6 +50259,7 @@ fantasises
 fantasising
 fantasist
 fantasists
+fantasize
 fantasized
 fantasizers
 fantasizes
@@ -50763,6 +50775,7 @@ featherheaded
 featherier
 featheriest
 featherings
+featherless
 featherlight
 featherstitch
 featherstitched
@@ -73339,6 +73352,7 @@ isooctane
 isooctanes
 isopachs
 isophotal
+isophote
 isophotes
 isopleth
 isoplethic
@@ -83051,6 +83065,7 @@ masculinities
 masculinity
 masculinization
 masculinize
+masculinized
 masculinizes
 masculinizing
 maser
@@ -88506,6 +88521,7 @@ moorfowls
 moorhen
 moorhens
 moorier
+mooriest
 mooring
 moorings
 moorish
@@ -91375,6 +91391,7 @@ nephridia
 nephridial
 nephridium
 nephrism
+nephrisms
 nephrite
 nephrites
 nephritic
@@ -93035,6 +93052,7 @@ nongraduates
 nongrammatical
 nongranular
 nongreen
+nongrowing
 nongrowth
 nonguest
 nonguests
@@ -97690,6 +97708,7 @@ outpunching
 outpupil
 outpursue
 outpursues
+outpursuing
 outpush
 outpushed
 outpushes
@@ -99789,6 +99808,7 @@ ovulation
 ovulations
 ovulatory
 ovule
+ovules
 ovum
 ow
 owe
@@ -107990,6 +108010,7 @@ popularization
 popularizations
 popularize
 popularized
+popularizer
 popularizers
 popularizes
 popularizing
@@ -120482,6 +120503,7 @@ resinous
 resiny
 resistances
 resistant
+resistants
 resisted
 resister
 resisters
@@ -124626,6 +124648,7 @@ salvoed
 salvoes
 salvoing
 salvor
+salvors
 salvos
 samadhi
 samadhis
@@ -129428,6 +129451,7 @@ shirkers
 shirking
 shirks
 shirr
+shirred
 shirring
 shirrings
 shirrs
@@ -133217,6 +133241,7 @@ solenoid
 solenoidal
 solenoids
 soleplate
+soleplates
 soleprint
 soleprints
 solerets
@@ -135585,6 +135610,7 @@ squarenesses
 squarers
 squares
 squarest
+squaring
 squarish
 squarishly
 squarishness
@@ -140333,6 +140359,7 @@ superstitious
 superstitiously
 superstock
 superstocks
+superstore
 superstores
 superstrata
 superstratum
@@ -140545,6 +140572,7 @@ surcharge
 surcharges
 surcharging
 surcingle
+surcingled
 surcingling
 surcoat
 surcoats
@@ -141220,6 +141248,7 @@ swirling
 swirlingly
 swirls
 swirly
+swish
 swished
 swisher
 swishers
@@ -144928,6 +144957,7 @@ thoric
 thorite
 thorium
 thoriums
+thorn
 thornback
 thornbacks
 thornbush
@@ -153040,6 +153070,7 @@ unpleased
 unpleasing
 unpledged
 unpliable
+unplucked
 unplug
 unplugged
 unplugging
@@ -154102,6 +154133,7 @@ upbraiding
 upbraids
 upbringing
 upbringings
+upbuild
 upbuilder
 upbuilders
 upbuilding
@@ -155679,6 +155711,7 @@ venenates
 venenating
 venene
 venenose
+venerabilities
 venerability
 venerable
 venerableness
@@ -157964,6 +157997,7 @@ warms
 warmth
 warmths
 warmup
+warmups
 warn
 warned
 warner
@@ -158288,6 +158322,7 @@ waterworn
 watery
 waterzooi
 waterzoois
+wats
 watt
 wattage
 wattages
