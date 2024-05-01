@@ -1903,6 +1903,7 @@ affectivity
 affectless
 affectlessness
 affects
+affenpinschers
 afferent
 afferently
 afferents
@@ -4307,6 +4308,7 @@ anaerobia
 anaerobic
 anaerobically
 anaerobioses
+anaerobiosis
 anaerobium
 anaesthesia
 anaesthesias
@@ -10751,6 +10753,7 @@ barmiest
 barms
 barmy
 barnacle
+barnacled
 barnacles
 barned
 barney
@@ -24888,6 +24891,7 @@ clatter
 clattered
 clatterer
 clatterers
+clattering
 clatteringly
 clatters
 clattery
@@ -27650,6 +27654,7 @@ composite
 composited
 composites
 compositing
+composition
 compositional
 compositionally
 compositor
@@ -39031,6 +39036,7 @@ diploses
 diplosis
 diplotenes
 dipnet
+dipnets
 dipnetted
 dipnetting
 dipnoan
@@ -46027,6 +46033,7 @@ enquired
 enquires
 enquiries
 enquiring
+enquiry
 enrage
 enraged
 enragedly
@@ -51814,6 +51821,7 @@ fifths
 fifties
 fiftieth
 fiftieths
+fiftyish
 fig
 figeater
 figeaters
@@ -58713,6 +58721,7 @@ gleanable
 gleaner
 gleaners
 gleaning
+gleanings
 gleans
 gleba
 glebae
@@ -60761,6 +60770,7 @@ groggeries
 groggery
 groggiest
 groggily
+grogginess
 grogginesses
 groggy
 grogram
@@ -79219,6 +79229,7 @@ lignocellulose
 lignocelluloses
 lignocellulosic
 lignosulfonate
+lignosulfonates
 ligroin
 ligroine
 ligroines
@@ -80354,6 +80365,7 @@ logier
 logiest
 logily
 login
+loginesses
 logins
 logion
 logions
@@ -82462,6 +82474,7 @@ mandarinates
 mandarinic
 mandarinism
 mandarinisms
+mandatary
 mandate
 mandates
 mandating
@@ -85708,6 +85721,7 @@ middles
 middleweights
 middling
 middlingly
+middlings
 middorsal
 middy
 midfielder
@@ -87822,6 +87836,7 @@ modernistic
 modernists
 modernities
 modernity
+modernization
 modernizations
 modernize
 modernized
@@ -90169,6 +90184,7 @@ musting
 musty
 mut
 mutabilities
+mutability
 mutable
 mutably
 mutagen
@@ -97479,6 +97495,7 @@ outfitting
 outflank
 outflanked
 outflanking
+outflanks
 outflew
 outflies
 outfloat
@@ -98571,6 +98588,7 @@ overbreeding
 overbreeds
 overbrief
 overbriefing
+overbriefs
 overbright
 overbroad
 overbrowse
@@ -101229,6 +101247,7 @@ paraffining
 paraffins
 parafoil
 parafoils
+paraform
 paraforms
 parageneses
 paragenesis
@@ -104181,6 +104200,7 @@ petrifies
 petrify
 petrifying
 petrochemistry
+petrodollar
 petrogeneses
 petrogenesis
 petrogenetic
@@ -105675,6 +105695,7 @@ pilotage
 pilotages
 piloted
 pilotfish
+pilotfishes
 pilothouse
 piloting
 pilotings
@@ -108557,6 +108578,7 @@ postformed
 postforming
 postforms
 postfracture
+postfreeze
 postgame
 postganglionic
 postglacial
@@ -108999,6 +109021,7 @@ praam
 praams
 practic
 practicability
+practicable
 practicableness
 practicably
 practical
@@ -109886,6 +109909,7 @@ prehension
 prehensions
 prehiring
 prehistorian
+prehistorians
 prehistorical
 prehistorically
 prehistory
@@ -128086,6 +128110,7 @@ sempiternally
 sempiternities
 sempiternity
 semple
+semplice
 sempre
 sempstress
 sempstresses
@@ -129649,6 +129674,7 @@ shippable
 shipped
 shippen
 shippens
+shipper
 shippers
 shipping
 shippings
@@ -132411,6 +132437,7 @@ smellers
 smellier
 smelliest
 smelling
+smells
 smelly
 smelt
 smelted
@@ -132437,6 +132464,7 @@ smidgins
 smiercases
 smilax
 smilaxes
+smile
 smiled
 smileless
 smiler
@@ -133190,6 +133218,7 @@ socialites
 socialities
 sociality
 socializations
+socialize
 socialized
 socializers
 socializes
@@ -134617,6 +134646,7 @@ spectatorial
 spectatorship
 spectatorships
 specter
+specters
 spectinomycin
 spectinomycins
 spectra
@@ -141345,6 +141375,7 @@ sweepers
 sweepier
 sweepiest
 sweeping
+sweepingly
 sweepingness
 sweepingnesses
 sweepings
@@ -154598,6 +154629,7 @@ uppitinesses
 uppity
 uppityness
 uppitynesses
+upprop
 uppropped
 uppropping
 upprops
@@ -158734,6 +158766,7 @@ waywardnesses
 wayworn
 wazoo
 we
+weak
 weaken
 weakened
 weakener
@@ -159952,6 +159985,7 @@ wildcards
 wildcat
 wildcats
 wildcatted
+wildcatters
 wildebeest
 wildebeests
 wilded
@@ -160042,6 +160076,7 @@ wilted
 wilting
 wilts
 wimble
+wimbled
 wimbles
 wimbling
 wimmin
