@@ -404,6 +404,7 @@ accessing
 accession
 accessional
 accessioned
+accessioning
 accessions
 accessorial
 accessories
@@ -1835,6 +1836,7 @@ aerosolization
 aerosolizations
 aerosolize
 aerosolized
+aerosolizes
 aerosolizing
 aerosols
 aerospace
@@ -22526,6 +22528,7 @@ chapleted
 chaplets
 chapman
 chapmen
+chappati
 chappatis
 chapped
 chappie
@@ -34823,6 +34826,7 @@ decadent
 decadently
 decadents
 decaf
+decaffeinated
 decafs
 decagon
 decagonal
@@ -46766,6 +46770,7 @@ epicureans
 epicures
 epicurism
 epicurisms
+epicuticle
 epicuticles
 epicuticular
 epicycle
@@ -47119,6 +47124,7 @@ equid
 equidistant
 equidistantly
 equids
+equilateral
 equilibrant
 equilibrants
 equilibrate
@@ -55170,6 +55176,7 @@ frankfurt
 frankfurter
 frankfurts
 frankincense
+frankincenses
 franking
 franklin
 franklinite
@@ -59254,6 +59261,7 @@ glycogeneses
 glycogenesis
 glycogenolyses
 glycogenolysis
+glycogenolytic
 glycogens
 glycol
 glycolic
@@ -62495,6 +62503,7 @@ handgrip
 handgrips
 handgun
 handguns
+handheld
 handhelds
 handhold
 handholds
@@ -63481,6 +63490,7 @@ heartening
 hearteningly
 heartens
 heartfelt
+heartfree
 hearth
 hearthrug
 hearthrugs
@@ -65386,6 +65396,7 @@ holocene
 holocrine
 holoenzyme
 holoenzymes
+hologamies
 hologamy
 hologram
 holograms
@@ -70460,6 +70471,7 @@ infeasibility
 infeasible
 infect
 infectant
+infected
 infecter
 infecters
 infecting
@@ -70483,6 +70495,7 @@ infeoffing
 infeoffs
 inferable
 inferably
+inference
 inferences
 inferential
 inferentially
@@ -75333,6 +75346,7 @@ kaon
 kaonic
 kaons
 kapas
+kapellmeister
 kapellmeisters
 kaph
 kaphs
@@ -76971,15 +76985,18 @@ lackey
 lackeying
 lackeys
 lacking
+lackluster
 lacklusters
 lacks
 laconic
 laconically
 laconisms
 lacquer
+lacquered
 lacquerer
 lacquerers
 lacquering
+lacquers
 lacquerwork
 lacquerworks
 lacquey
@@ -82759,6 +82776,7 @@ manifold
 manifolded
 manifoldly
 manifoldness
+manifoldnesses
 manifolds
 manihot
 manihots
@@ -86104,6 +86122,7 @@ militarization
 militarize
 militarized
 militarizes
+militarizing
 military
 militate
 militated
@@ -90401,6 +90420,7 @@ mutining
 mutinous
 mutinousness
 mutinousnesses
+mutiny
 mutinying
 mutism
 mutisms
@@ -94672,6 +94692,7 @@ numchuck
 numchucks
 numen
 numerable
+numerably
 numeracies
 numeracy
 numeral
@@ -95997,6 +96018,7 @@ omnipresence
 omnirange
 omniranges
 omniscience
+omnisciences
 omniscient
 omnisciently
 omnivora
@@ -96462,6 +96484,7 @@ optimized
 optimizer
 optimizes
 optimizing
+optimum
 optimums
 opting
 option
@@ -97746,6 +97769,7 @@ outgnaw
 outgnawed
 outgnawing
 outgnawn
+outgnaws
 outgo
 outgoes
 outgoing
@@ -99732,6 +99756,7 @@ overseas
 oversecretion
 oversecretions
 oversee
+overseed
 overseeded
 overseeding
 overseeds
@@ -102615,6 +102640,7 @@ paycheck
 paychecks
 payday
 paydays
+payed
 payee
 payees
 payer
@@ -109491,6 +109517,7 @@ prebirths
 prebless
 preblessed
 preblesses
+preblessing
 preboard
 preboarded
 preboarding
@@ -109703,6 +109730,7 @@ preconsciouses
 preconsonantal
 precontact
 preconvention
+preconviction
 preconvictions
 precook
 precooker
@@ -126027,6 +126055,7 @@ scaldic
 scalding
 scalds
 scale
+scaled
 scaleless
 scalelike
 scalene
@@ -129928,6 +129957,7 @@ shirtfront
 shirtfronts
 shirtier
 shirtiest
+shirting
 shirtings
 shirtmaker
 shirtmakers
@@ -136298,6 +136328,7 @@ sri
 sris
 stab
 stabbed
+stabber
 stabbers
 stabile
 stabiles
@@ -150884,6 +150915,7 @@ ultraromantic
 ultraroyalist
 ultraroyalists
 ultras
+ultrasafe
 ultrasecret
 ultrasensitive
 ultraserious
@@ -153034,6 +153066,7 @@ unimpressed
 unimpressive
 unimproved
 unincorporated
+unindexed
 unindicted
 uninfected
 uninflated
@@ -154424,6 +154457,7 @@ untiring
 untiringly
 untitled
 unto
+untogether
 untold
 untouchability
 untouchable
@@ -158930,6 +158964,7 @@ waugh
 waught
 waughted
 waughting
+waughts
 wauk
 wauked
 wauking
