@@ -3880,6 +3880,7 @@ amends
 amenities
 amenorrhea
 amenorrheas
+amenorrheic
 amens
 ament
 amentia
@@ -4394,6 +4395,7 @@ analogy
 analphabet
 analphabetic
 analphabetics
+analphabetism
 analphabetisms
 analphabets
 analysand
@@ -15689,6 +15691,7 @@ booklet
 booklets
 booklice
 booklore
+booklores
 bookmaker
 bookmakers
 bookmaking
@@ -16905,6 +16908,7 @@ brevity
 brew
 brewage
 brewages
+brewed
 brewer
 breweries
 brewers
@@ -21960,6 +21964,7 @@ centrifuged
 centrifuging
 centring
 centrings
+centriole
 centrioles
 centripetal
 centripetally
@@ -30918,6 +30923,7 @@ counterplots
 counterplotted
 counterplotting
 counterploy
+counterploys
 counterpoint
 counterpointed
 counterpointing
@@ -37797,6 +37803,7 @@ devalues
 devas
 devastate
 devastated
+devastates
 devastating
 devastatingly
 devastation
@@ -41778,6 +41785,7 @@ doubter
 doubters
 doubtful
 doubtfully
+doubtfulness
 doubtfulnesses
 doubting
 doubtingly
@@ -44705,6 +44713,7 @@ elusion
 elusions
 elusively
 elusiveness
+elusivenesses
 elusory
 elute
 eluted
@@ -48361,6 +48370,7 @@ evection
 even
 eveners
 evenest
+evenfall
 evenfalls
 evenhanded
 evenhandedly
@@ -48538,6 +48548,7 @@ exactitude
 exactitudes
 exactly
 exactness
+exactnesses
 exactors
 exacts
 exaggerate
@@ -58380,6 +58391,7 @@ gibes
 gibing
 gibingly
 giblet
+giblets
 gibson
 gibsons
 gid
@@ -59144,6 +59156,7 @@ glossed
 glosseme
 glossemes
 glosser
+glossers
 glosses
 glossier
 glossies
@@ -62128,6 +62141,7 @@ hagiographies
 hagiography
 hagiologic
 hagiological
+hagiologies
 hagiology
 hagioscope
 hagioscopes
@@ -62942,6 +62956,7 @@ harijans
 haring
 harissa
 harissas
+hark
 harked
 harken
 harkened
@@ -65539,6 +65554,7 @@ homed
 homegirl
 homegirls
 homegrown
+homeland
 homeless
 homelessness
 homelessnesses
@@ -74714,6 +74730,7 @@ johnny
 johnnycake
 johnnycakes
 johns
+johnson
 johnsongrass
 johnsongrasses
 johnsons
@@ -75765,6 +75782,7 @@ kerned
 kernel
 kerneled
 kerneling
+kernelled
 kernelling
 kernels
 kernes
@@ -77729,6 +77747,7 @@ lardon
 lardons
 lardoon
 lardoons
+lards
 lardy
 larees
 lares
@@ -90878,6 +90897,7 @@ nabis
 nabob
 naboberies
 nabobery
+nabobess
 nabobesses
 nabobish
 nabobism
@@ -90989,6 +91009,7 @@ namer
 namers
 names
 namesake
+namesakes
 nametags
 naming
 nan
@@ -94853,6 +94874,7 @@ nuncles
 nuncupative
 nunlike
 nunnation
+nunnations
 nunnery
 nunnish
 nuptial
@@ -95509,6 +95531,7 @@ ocelots
 ocher
 ochered
 ochering
+ocherous
 ochers
 ochlocracies
 ochlocracy
@@ -106191,6 +106214,7 @@ pinnacles
 pinnacling
 pinnal
 pinnate
+pinnated
 pinnately
 pinnatifid
 pinnation
@@ -107017,6 +107041,7 @@ platyfishes
 platyhelminth
 platyhelminthic
 platyhelminths
+platypi
 platypus
 platypuses
 platyrrhine
@@ -108905,6 +108930,7 @@ postexperience
 postexposure
 postface
 postfaces
+postfault
 postfeminist
 postfire
 postfix
@@ -114567,6 +114593,7 @@ quartzites
 quartzose
 quartzous
 quasars
+quash
 quashed
 quasher
 quashes
@@ -122168,6 +122195,7 @@ reverberating
 reverberation
 reverberations
 reverberative
+reverberatory
 reverbs
 revere
 revered
@@ -125148,6 +125176,7 @@ salpinges
 salpingitis
 salpingitises
 salpinx
+salps
 sals
 salsa
 salsas
@@ -134826,6 +134855,7 @@ sparges
 sparging
 sparid
 sparids
+sparing
 sparingly
 spark
 sparked
@@ -142996,6 +143026,7 @@ talcums
 tale
 talebearer
 talebearers
+talebearing
 talebearings
 taleggio
 taleggios
@@ -144095,6 +144126,7 @@ telegrammed
 telegramming
 telegrams
 telegraph
+telegraphed
 telegrapher
 telegraphers
 telegraphese
@@ -144607,6 +144639,7 @@ tepefying
 tephra
 tephras
 tephrite
+tephrites
 tephritic
 tepid
 tepidities
@@ -146405,6 +146438,7 @@ timetable
 timework
 timeworker
 timeworkers
+timeworks
 timeworn
 timid
 timider
@@ -147215,6 +147249,7 @@ tootsie
 tootsies
 tootsy
 topaz
+topazes
 topazine
 topcoat
 topcoats
