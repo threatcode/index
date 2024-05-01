@@ -8771,6 +8771,7 @@ auriculate
 auriferous
 auriform
 auris
+aurists
 aurochses
 aurora
 aurorae
@@ -14856,6 +14857,7 @@ blubbery
 blubbing
 blubs
 blucher
+bluchers
 bludge
 bludged
 bludgeon
@@ -16705,6 +16707,7 @@ breadline
 breadlines
 breadnut
 breadnuts
+breadroots
 breads
 breadstuff
 breadstuffs
@@ -27084,6 +27087,7 @@ comether
 comethers
 cometic
 comeuppance
+comeuppances
 comfiest
 comfiness
 comfinesses
@@ -30679,6 +30683,7 @@ councils
 councilwoman
 councilwomen
 counsel
+counseled
 counselee
 counselees
 counselings
@@ -31456,6 +31461,7 @@ craniofacial
 craniologies
 craniology
 craniometries
+craniometry
 craniosacral
 craniotomies
 craniotomy
@@ -35764,6 +35770,7 @@ degrade
 degradedly
 degrader
 degraders
+degrades
 degrading
 degradingly
 degranulation
@@ -39222,6 +39229,7 @@ disagree
 disagreeable
 disagreeably
 disagreed
+disagreeing
 disagreement
 disagreements
 disagrees
@@ -40925,6 +40933,7 @@ dobbin
 dobbins
 dobby
 dobie
+dobies
 dobla
 doblas
 doblon
@@ -52498,6 +52507,7 @@ fiz
 fizgig
 fizgigs
 fizz
+fizzed
 fizzer
 fizzers
 fizzes
@@ -52908,6 +52918,7 @@ fleawort
 fleaworts
 fleche
 fleches
+flechette
 flechettes
 fleck
 flecked
@@ -54677,6 +54688,7 @@ fornication
 fornicator
 fornicators
 fornices
+fornix
 forrader
 forrarder
 forrit
@@ -56110,6 +56122,7 @@ funnyman
 funnymen
 funplex
 funplexes
+funs
 fur
 furan
 furane
@@ -56524,6 +56537,7 @@ gaiting
 gal
 gala
 galabia
+galabias
 galabieh
 galabiehs
 galabiya
@@ -60456,6 +60470,7 @@ greengrocery
 greenhead
 greenheads
 greenheart
+greenhearts
 greenhorn
 greenhorns
 greenhouses
@@ -77531,6 +77546,7 @@ larrigans
 larrikin
 larrikins
 larrup
+larruped
 larruper
 larrupers
 larruping
@@ -78510,6 +78526,7 @@ leniences
 leniencies
 leniency
 lenient
+leniently
 lenis
 lenite
 lenites
@@ -82549,6 +82566,7 @@ mangiest
 mangily
 manginess
 manginesses
+mangle
 mangled
 mangler
 manglers
@@ -84517,6 +84535,7 @@ menstruations
 menstruum
 menstruums
 mensurabilities
+mensurable
 mensural
 mensuration
 mensurations
@@ -87197,6 +87216,7 @@ misorders
 misorient
 misorientation
 misorienting
+misorients
 misos
 mispackage
 mispackaged
@@ -96742,6 +96762,7 @@ ortho
 orthocenters
 orthochromatic
 orthoclase
+orthoclases
 orthodontia
 orthodontic
 orthodontically
@@ -102893,6 +102914,7 @@ pelecypods
 pelerine
 pelerines
 peles
+pelf
 pelfs
 pelican
 pelicans
@@ -110953,6 +110975,7 @@ prigging
 priggish
 priggishly
 priggishness
+priggishnesses
 priggism
 priggisms
 prigs
@@ -118384,6 +118407,7 @@ reglue
 reglued
 reglues
 regluing
+regma
 regmata
 regna
 regnal
@@ -119702,6 +119726,7 @@ reordains
 reorder
 reordered
 reordering
+reorders
 reorganization
 reorganize
 reorganized
@@ -119835,6 +119860,7 @@ repechage
 repechages
 repeg
 repegged
+repegging
 repegs
 repel
 repellant
@@ -122137,6 +122163,7 @@ rhatany
 rhea
 rheas
 rhebok
+rheboks
 rhematic
 rheme
 rhemes
@@ -126636,6 +126663,7 @@ scoundrel
 scoundrelly
 scour
 scoured
+scourer
 scourers
 scourged
 scourger
@@ -133550,6 +133578,7 @@ solidarity
 solider
 solidest
 solidi
+solidification
 solidifications
 solidified
 solidifies
@@ -138252,6 +138281,7 @@ struggle
 struggled
 struggler
 strugglers
+struggles
 struggling
 strum
 struma
@@ -143325,6 +143355,7 @@ teacart
 teacarts
 teach
 teachable
+teachableness
 teachablenesses
 teachably
 teacher
@@ -147214,6 +147245,7 @@ tousing
 tousled
 tousles
 tousling
+tout
 touter
 touters
 touting
@@ -147863,6 +147895,7 @@ translocation
 translocations
 translucence
 translucences
+translucencies
 translucency
 translucent
 translucently
@@ -149767,6 +149800,7 @@ turbinal
 turbinals
 turbinate
 turbinated
+turbinates
 turbine
 turbines
 turbit
@@ -155036,6 +155070,7 @@ urticants
 urticarial
 urticarias
 urticate
+urticated
 urticates
 urtication
 urtications
