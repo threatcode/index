@@ -739,6 +739,7 @@ achy
 acicula
 acicular
 aciculas
+aciculate
 aciculum
 aciculums
 acid
@@ -2290,6 +2291,7 @@ agisms
 agist
 agisting
 agists
+agita
 agitable
 agitas
 agitated
@@ -11835,6 +11837,7 @@ beechwoods
 beechy
 beedi
 beedies
+beef
 beefaloes
 beefalos
 beefcake
@@ -13074,6 +13077,7 @@ bible
 bibles
 bibless
 biblical
+biblically
 biblicism
 biblicisms
 biblicist
@@ -16419,6 +16423,7 @@ bragging
 braggy
 brags
 brahma
+brahmas
 braid
 braider
 braiders
@@ -22465,6 +22470,7 @@ chantey
 chanteys
 chanticleer
 chanticleers
+chanties
 chanting
 chantor
 chantors
@@ -23404,6 +23410,7 @@ chinquapins
 chins
 chinstrap
 chinstraps
+chints
 chintses
 chintz
 chintzes
@@ -25857,6 +25864,7 @@ coccidium
 coccids
 coccoid
 coccoidal
+coccoids
 coccous
 coccus
 coccygeal
@@ -27033,6 +27041,7 @@ combaters
 combating
 combative
 combatively
+combativeness
 combats
 combatted
 combatting
@@ -29109,6 +29118,7 @@ contended
 contender
 contenders
 contending
+contends
 content
 contentedly
 contentedness
@@ -35750,6 +35760,7 @@ degamis
 degas
 degases
 degassed
+degasser
 degassers
 degassing
 degauss
@@ -40515,6 +40526,7 @@ dissuasiveness
 dissyllable
 dissyllables
 dissymmetric
+dissymmetries
 distaff
 distaffs
 distain
@@ -44138,6 +44150,7 @@ eight
 eightball
 eightballs
 eighteens
+eighteenth
 eighteenths
 eightfold
 eighth
@@ -50251,6 +50264,7 @@ falls
 false
 falseface
 falsefaces
+falsehood
 falsehoods
 falsely
 falseness
@@ -53450,6 +53464,7 @@ flowers
 flowery
 flowing
 flowingly
+flowmeter
 flowmeters
 flown
 flows
@@ -56755,6 +56770,7 @@ galop
 galopade
 galopades
 galoped
+galoping
 galops
 galore
 galores
@@ -60244,6 +60260,7 @@ grappled
 grappler
 grapplers
 grapples
+grappling
 graptolite
 graptolites
 grapy
@@ -66240,6 +66257,7 @@ hotspurs
 hotted
 hotter
 hottest
+hottie
 hotties
 hotting
 hottish
@@ -67668,6 +67686,7 @@ hyracoid
 hyracoids
 hyrax
 hyraxes
+hyson
 hysons
 hyssop
 hyssops
@@ -75409,6 +75428,7 @@ kebobs
 keck
 kecked
 kecking
+keckle
 keckled
 keckles
 keckling
@@ -79535,6 +79555,7 @@ lineations
 linebacker
 linebackers
 linebacking
+linebackings
 linebred
 linebreeding
 linebreedings
@@ -88796,6 +88817,7 @@ mooted
 mooter
 mooters
 mooting
+mootness
 mootnesses
 moots
 mop
@@ -91115,6 +91137,7 @@ naughtily
 naughtinesses
 naughts
 naughty
+naumachia
 naumachiae
 naumachias
 naumachies
@@ -101443,6 +101466,7 @@ paramountcy
 paramountly
 paramounts
 paramour
+paramours
 paramylum
 paramylums
 paramyxoviruses
@@ -119967,6 +119991,7 @@ reperk
 reperked
 reperking
 reperks
+repertoire
 repertoires
 repertories
 repertory
@@ -127276,6 +127301,7 @@ seacraft
 seacrafts
 seadog
 seadogs
+seadromes
 seafarer
 seafaring
 seafarings
@@ -133544,6 +133570,7 @@ solariums
 solarization
 solarizations
 solarize
+solarized
 solarizing
 solate
 solated
@@ -138901,6 +138928,7 @@ subedit
 subedited
 subeditor
 subeditorial
+subeditors
 subedits
 subemployed
 subemployment
@@ -145172,6 +145200,7 @@ thicken
 thickened
 thickener
 thickeners
+thickening
 thickenings
 thickens
 thicker
@@ -146876,6 +146905,7 @@ toothier
 toothiest
 toothily
 toothing
+toothless
 toothlike
 toothpaste
 toothpick
@@ -147335,6 +147365,7 @@ tourneys
 tourniquet
 tourniquets
 tours
+touse
 toused
 tousing
 tousled
@@ -152852,6 +152883,7 @@ unideological
 unidimensional
 unidiomatic
 unidirectional
+uniface
 unifaces
 unifiable
 unific
@@ -156065,6 +156097,7 @@ velcros
 veld
 velds
 veldt
+veldts
 veliger
 veligers
 velites
@@ -157165,6 +157198,7 @@ virility
 virilize
 virilized
 virilizes
+virilizing
 virilocal
 virion
 virions
@@ -160542,6 +160576,7 @@ wiseacres
 wiseass
 wiseasses
 wisecrack
+wisecracked
 wisecracker
 wisecrackers
 wisecracking
@@ -162009,6 +162044,7 @@ yodh
 yodhs
 yodle
 yodled
+yodler
 yodlers
 yodles
 yods
