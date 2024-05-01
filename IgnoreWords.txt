@@ -6547,6 +6547,7 @@ apportions
 apposable
 appose
 apposed
+apposer
 apposers
 apposes
 apposing
@@ -11161,6 +11162,7 @@ batman
 batmen
 batons
 batrachian
+batrachians
 bats
 batsman
 batsmen
@@ -12196,6 +12198,7 @@ bellboys
 belle
 belled
 belleek
+belleeks
 belles
 belletrist
 belletristic
@@ -13716,6 +13719,7 @@ biopics
 biopiracies
 biopiracy
 biopirate
+biopirates
 bioplasm
 biopolymer
 biopolymers
@@ -21199,6 +21203,7 @@ catechistic
 catechists
 catechization
 catechizations
+catechize
 catechized
 catechizer
 catechizers
@@ -23217,6 +23222,7 @@ childes
 childhood
 childhoods
 childing
+childish
 childishly
 childishnesses
 childless
@@ -25392,6 +25398,7 @@ cloudscapes
 cloudy
 clough
 cloughs
+clour
 cloured
 clouring
 clours
@@ -34519,6 +34526,7 @@ deafish
 deafly
 deafness
 deafnesses
+deair
 deaired
 deairing
 deairs
@@ -36045,6 +36053,7 @@ delouses
 delousing
 delphic
 delphically
+delphinia
 delphinium
 delphiniums
 dels
@@ -36191,6 +36200,7 @@ demineralized
 demineralizer
 demineralizers
 demineralizes
+demineralizing
 demirep
 demireps
 demise
@@ -37471,6 +37481,7 @@ determinable
 determinably
 determinacies
 determinacy
+determinant
 determinantal
 determinants
 determinate
@@ -37958,6 +37969,7 @@ diagnoses
 diagnosing
 diagnosis
 diagnostic
+diagnostical
 diagnostically
 diagnostician
 diagnosticians
@@ -44484,6 +44496,7 @@ elopement
 eloper
 elopers
 elopes
+eloping
 eloquence
 eloquences
 eloquent
@@ -45001,6 +45014,7 @@ empathize
 empathized
 empathizes
 empathizing
+empathy
 empennage
 empennages
 emperies
@@ -63788,6 +63802,7 @@ hemagogs
 hemal
 hemangioma
 hemangiomas
+hemangiomata
 hematal
 hematein
 hemateins
@@ -65422,6 +65437,7 @@ homogenizations
 homogenized
 homogenizer
 homogenizers
+homogenizes
 homogenizing
 homogenous
 homogeny
@@ -84074,6 +84090,7 @@ megillahs
 megillas
 megilp
 megilph
+megilps
 megohm
 megohms
 megrim
@@ -84875,6 +84892,7 @@ metallographic
 metallographies
 metallography
 metalloid
+metalloidal
 metallophone
 metallophones
 metallurgical
@@ -88583,6 +88601,7 @@ moonward
 moonwards
 moonwort
 moony
+moor
 moorages
 moorcock
 moorcocks
@@ -90170,6 +90189,7 @@ mutuel
 mutuels
 mutular
 mutule
+mutules
 muumuus
 muzhik
 muzhiks
@@ -94635,6 +94655,7 @@ oater
 oaters
 oath
 oaths
+oatlike
 oatmeals
 oats
 oaves
@@ -97049,6 +97070,7 @@ outbegged
 outbegging
 outbegs
 outbid
+outbidden
 outbidder
 outbidders
 outbidding
@@ -100913,6 +100935,7 @@ pantisocracies
 pantisocracy
 pantisocratical
 pantisocratist
+pantisocratists
 panto
 pantoffle
 pantoffles
@@ -111928,6 +111951,7 @@ prosateurs
 prosauropod
 prosauropods
 proscenia
+proscenium
 prosceniums
 prosciutti
 prosciutto
@@ -118031,6 +118055,7 @@ refrigerators
 refront
 refronted
 refronting
+refronts
 refroze
 refrozen
 refry
@@ -122838,6 +122863,7 @@ robin
 robins
 roble
 robles
+roborant
 roborants
 robot
 robotic
@@ -124674,6 +124700,7 @@ saltshakers
 saltwater
 saltwork
 saltworks
+saltwort
 saltworts
 salty
 salubrious
@@ -125583,6 +125610,7 @@ saxony
 saxophone
 saxophones
 saxophonic
+saxophonist
 saxtuba
 saxtubas
 say
@@ -133860,6 +133888,7 @@ sostenutos
 sot
 soteriologies
 soteriology
+soth
 sotol
 sotols
 sots
@@ -134790,6 +134819,7 @@ spies
 spiff
 spiffed
 spiffier
+spiffies
 spiffiest
 spiffily
 spiffiness
@@ -138813,6 +138843,7 @@ submanagers
 submandibular
 submandibulars
 submarginal
+submarine
 submarined
 submariner
 submariners
@@ -139253,6 +139284,7 @@ subtrahend
 subtrahends
 subtreasuries
 subtreasury
+subtrend
 subtrends
 subtribe
 subtribes
@@ -142222,6 +142254,7 @@ taffarels
 tafferel
 tafferels
 taffeta
+taffetas
 taffetized
 taffia
 taffias
@@ -153858,6 +153891,7 @@ unsustainable
 unswathe
 unswathed
 unswathes
+unswayed
 unswearing
 unswears
 unsweetened
@@ -154231,6 +154265,7 @@ upbow
 upbows
 upbraid
 upbraided
+upbraider
 upbraiding
 upbraids
 upbringing
