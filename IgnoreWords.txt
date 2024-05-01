@@ -6531,6 +6531,7 @@ apply
 applying
 appoggiaturas
 appoint
+appointee
 appointees
 appointer
 appointers
@@ -16759,6 +16760,7 @@ breastplates
 breasts
 breaststroker
 breaststrokers
+breaststrokes
 breastwork
 breastworks
 breath
@@ -22857,6 +22859,7 @@ chedites
 cheechako
 cheechakos
 cheekbone
+cheekbones
 cheeked
 cheekful
 cheekfuls
@@ -24336,6 +24339,7 @@ cinquecentos
 cinquefoil
 cinquefoils
 cinques
+cion
 cions
 cioppino
 cioppinos
@@ -32584,6 +32588,7 @@ cryptorchism
 cryptorchisms
 cryptos
 cryptosporidia
+cryptosporidium
 cryptozoologies
 cryptozoologist
 cryptozoology
@@ -35744,6 +35749,7 @@ deglamorizing
 deglaze
 deglazes
 deglazing
+deglutition
 deglutitions
 degradable
 degradation
@@ -39516,6 +39522,7 @@ discordancies
 discordancy
 discordantly
 discorded
+discording
 discords
 discos
 discotheque
@@ -44592,6 +44599,7 @@ elves
 elvish
 elvishly
 elysian
+elytra
 elytron
 elytrous
 elytrum
@@ -54900,6 +54908,7 @@ foxings
 foxlike
 foxskin
 foxskins
+foxtail
 foxtails
 foxtrot
 foxtrots
@@ -67980,6 +67989,7 @@ ikats
 ikebana
 ikebanas
 ikon
+ikons
 ilea
 ileac
 ileal
@@ -68466,6 +68476,7 @@ immunogens
 immunoglobulin
 immunoglobulins
 immunologic
+immunological
 immunologies
 immunologists
 immunology
@@ -75424,6 +75435,7 @@ kelpies
 kelping
 kelps
 kelson
+kelsons
 kelt
 kelter
 kelters
@@ -75848,6 +75860,7 @@ kilohertzes
 kilojoule
 kilojoules
 kiloliter
+kiloliters
 kilolitre
 kilometers
 kilometre
@@ -75902,6 +75915,7 @@ kindergartner
 kindest
 kindhearted
 kindheartedly
+kindheartedness
 kindle
 kindled
 kindler
@@ -81195,6 +81209,7 @@ lunule
 lunules
 luny
 lupanar
+lupanars
 lupin
 lupines
 lupins
@@ -83708,6 +83723,7 @@ mayvin
 mayweed
 mazaedia
 mazaedium
+mazard
 mazards
 maze
 mazed
@@ -84252,6 +84268,7 @@ mellific
 mellifluent
 mellifluently
 mellifluous
+mellifluousness
 melling
 mellophone
 mellophones
@@ -84689,6 +84706,7 @@ meropia
 meropias
 meropic
 merozoite
+merozoites
 merrier
 merriest
 merrily
@@ -90095,6 +90113,7 @@ muskier
 muskies
 muskiest
 muskily
+muskiness
 muskinesses
 muskit
 muskits
@@ -102219,6 +102238,7 @@ patricides
 patrilineal
 patrilinies
 patriliny
+patrimonial
 patrimonies
 patrimony
 patriot
@@ -102676,6 +102696,7 @@ pedestalling
 pedestals
 pedestrian
 pedestrianism
+pedestrianisms
 pedestrians
 pediatric
 pediatrician
@@ -104268,6 +104289,7 @@ phagocyte
 phagocytes
 phagocytic
 phagocytize
+phagocytized
 phagocytizes
 phagocytizing
 phagocytosed
@@ -106069,6 +106091,7 @@ pissoirs
 pistache
 pistaches
 pistachio
+pistachios
 pistareen
 pistareens
 piste
@@ -111117,6 +111140,7 @@ privatdocents
 private
 privateer
 privateered
+privateering
 privateers
 privately
 privateness
@@ -111262,6 +111286,7 @@ processionals
 processioned
 processioning
 processions
+processor
 processors
 prochain
 prochein
@@ -111757,6 +111782,7 @@ pronephros
 pronephroses
 prong
 pronged
+pronghorn
 pronghorns
 pronging
 prongs
@@ -113156,6 +113182,7 @@ punchball
 punchballs
 punchboard
 punchboards
+punched
 puncheons
 puncher
 punchers
@@ -115968,6 +115995,7 @@ realigned
 realigning
 realignment
 realignments
+realigns
 realise
 realised
 realiser
@@ -118467,6 +118495,7 @@ rehanging
 rehangs
 rehardened
 rehardening
+rehardens
 rehash
 rehashed
 rehashes
@@ -132437,6 +132466,7 @@ smites
 smith
 smithereens
 smitheries
+smithers
 smithery
 smithies
 smiths
@@ -133957,6 +133987,7 @@ sortably
 sorted
 sorter
 sorters
+sortie
 sortied
 sortieing
 sorties
@@ -135336,6 +135367,7 @@ sponsons
 sponsored
 sponsorial
 sponsoring
+sponsors
 sponsorships
 spontaneities
 spontaneity
@@ -137173,6 +137205,7 @@ stingily
 stinginesses
 stinging
 stingingly
+stingless
 stingo
 stingos
 stingray
@@ -152488,6 +152521,7 @@ ungrudging
 ungual
 unguard
 unguarded
+unguardedly
 unguardedness
 unguarding
 unguards
@@ -158856,6 +158890,7 @@ webpages
 webs
 website
 websites
+webster
 websters
 webwork
 webworks
