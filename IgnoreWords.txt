@@ -1643,6 +1643,7 @@ advertized
 advertizement
 advertizements
 advertizes
+advertorial
 advertorials
 adverts
 advice
@@ -2186,6 +2187,7 @@ aggadahs
 aggadas
 aggadic
 aggadot
+aggadoth
 agger
 aggers
 aggie
@@ -9565,6 +9567,7 @@ babel
 babels
 babesia
 babesias
+babesioses
 babesiosis
 babiche
 babiches
@@ -11532,6 +11535,7 @@ bechalks
 bechamel
 bechamels
 bechance
+bechanced
 bechances
 bechancing
 becharmed
@@ -11874,6 +11878,7 @@ beeyards
 beezer
 beezers
 befall
+befallen
 befalling
 befalls
 befinger
@@ -16308,6 +16313,7 @@ boysenberry
 bozo
 bozos
 bra
+brabble
 brabbled
 brabblers
 brabbles
@@ -18129,6 +18135,7 @@ burgeon
 burgeoned
 burgeoning
 burgeons
+burger
 burgers
 burgess
 burgesses
@@ -18136,6 +18143,7 @@ burgh
 burghal
 burgher
 burghers
+burghs
 burglar
 burglaries
 burglarious
@@ -18652,6 +18660,7 @@ byzant
 byzantine
 byzants
 cab
+cabal
 cabala
 cabalas
 cabaletta
@@ -20143,6 +20152,7 @@ capuchin
 capuchins
 caput
 capybara
+capybaras
 car
 carabao
 carabaos
@@ -42248,6 +42258,7 @@ drifters
 driftier
 driftiest
 drifting
+driftingly
 driftpins
 drifts
 driftwoods
@@ -42424,6 +42435,7 @@ droughtier
 droughtiest
 droughtiness
 droughtinesses
+droughts
 droughty
 drouth
 drouthier
@@ -42793,6 +42805,7 @@ dumbs
 dumbstruck
 dumbwaiter
 dumbwaiters
+dumdum
 dumdums
 dumfound
 dumfounded
@@ -44636,6 +44649,7 @@ embanking
 embankments
 embanks
 embar
+embarcadero
 embargo
 embargoed
 embargoes
@@ -57398,6 +57412,7 @@ gazehound
 gazehounds
 gazelle
 gazelles
+gazer
 gazers
 gazes
 gazette
@@ -59671,6 +59686,7 @@ gormandizer
 gormandizers
 gormandizes
 gormandizing
+gormands
 gormed
 gormless
 gorp
@@ -66892,6 +66908,7 @@ hydrolysates
 hydrolyses
 hydrolysis
 hydrolyte
+hydrolytes
 hydrolytic
 hydrolytically
 hydrolyzable
@@ -70700,6 +70717,7 @@ inherencies
 inherency
 inherent
 inherently
+inheres
 inhering
 inherit
 inheritability
@@ -74683,6 +74701,7 @@ jubhahs
 jubilance
 jubilances
 jubilantly
+jubilarians
 jubilate
 jubilated
 jubilates
@@ -78080,6 +78099,7 @@ learns
 lears
 leary
 leas
+leasable
 lease
 leaseback
 leasebacks
@@ -82614,6 +82634,7 @@ manned
 mannequin
 mannequins
 mannered
+mannerism
 mannerisms
 mannerist
 manneristic
@@ -89373,6 +89394,7 @@ mucous
 mucro
 mucronate
 mucrones
+mucus
 mucuses
 mud
 mudbug
@@ -100906,6 +100928,7 @@ panjandra
 panjandrum
 panleukopenia
 panleukopenias
+panmictic
 panmixes
 panmixia
 panmixias
@@ -108445,6 +108468,7 @@ postcoital
 postcollege
 postcollegiate
 postcolonial
+postconception
 postconcert
 postconquest
 postconsonantal
@@ -111573,6 +111597,7 @@ prolate
 prolately
 prole
 proleg
+prolegomenous
 prolegs
 prolepses
 prolepsis
@@ -121687,6 +121712,7 @@ revelators
 revelatory
 reveled
 reveler
+reveling
 revelled
 reveller
 revellers
@@ -122210,6 +122236,7 @@ rhumbs
 rhus
 rhyme
 rhymed
+rhymeless
 rhymer
 rhymes
 rhymester
@@ -131634,6 +131661,7 @@ slanging
 slangs
 slanguage
 slanguages
+slangy
 slank
 slant
 slanted
@@ -132175,6 +132203,7 @@ sluing
 slum
 slumber
 slumbered
+slumberer
 slumberers
 slumbering
 slumberous
@@ -140162,6 +140191,7 @@ superconductive
 superconductor
 superconductors
 superconfident
+supercontinent
 supercontinents
 superconvenient
 supercool
@@ -147673,6 +147703,7 @@ transfixes
 transfixing
 transfixion
 transfixions
+transfixt
 transform
 transformable
 transformation
@@ -152396,6 +152427,7 @@ ungainlinesses
 ungallantly
 ungalled
 ungarbed
+ungarnished
 ungated
 ungazing
 ungenerosities
@@ -153127,6 +153159,7 @@ unmuffled
 unmuffles
 unmuffling
 unmusical
+unmuzzle
 unmuzzled
 unmuzzles
 unmuzzling
@@ -156591,6 +156624,7 @@ victresses
 victual
 victualed
 victualer
+victualers
 victualled
 victualler
 victuallers
@@ -157221,6 +157255,7 @@ vivisecting
 vivisection
 vivisectionist
 vivisectionists
+vivisector
 vivisectors
 vivisects
 vixen
