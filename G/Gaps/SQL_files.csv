@@ -7,3 +7,12 @@ reference implementation for IPv6 - MySQL Documents by Rick James,https://mysql.
 code/structure.sql · master · Pladias Public / Database ... - GitLab,https://git.sorbus.ibot.cas.cz/pladias-public/database-structure/-/blob/master/code/structure.sql
 gap-services.de/Produkt/immotion_2016.01_release/S...,http://gap-services.de/Produkt/immotion_2016.01_release/Server/immotionServer/SQLScripts/DBUmst/Update/NET_ProgListe.sql
 comp.databases.postgresql.sql - Google Groups,https://groups.google.com/g/comp.databases.postgresql.sql
+https://api.pgxn.org/src/pg_pathman/pg_pathman-1.4...,https://api.pgxn.org/src/pg_pathman/pg_pathman-1.4.14/sql/pathman_gaps.sql
+https://raw.githubusercontent.com/primegap-list-pr...,https://raw.githubusercontent.com/primegap-list-project/prime-gap-list/master/allgaps.sql
+Oracle-SQLPATH/find_gaps.sql at master - GitHub,https://github.com/ReneNyffenegger/Oracle-SQLPATH/blob/master/find_gaps.sql
+prime-gap-list/allgaps.sql at master - GitHub,https://github.com/primegap-list-project/prime-gap-list/blob/master/allgaps.sql
+https://api.pgxn.org/src/pgsql_tweaks/pgsql_tweaks...,https://api.pgxn.org/src/pgsql_tweaks/pgsql_tweaks-0.2.2/sql/aggregate_function_gab_fill.sql
+Reference implementation for IPv4,https://mysql.rjweb.org/doc.php/ipv4.sql
+http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR8/load_...,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR8/load_3xmmdr8cat.sql
+https://raw.githubusercontent.com/pedrogit/postgis...,https://raw.githubusercontent.com/pedrogit/postgisaddons/master/postgis_addons.sql
+load_3xmmdr7cat.sql - XMM-SSC,http://xmmssc.irap.omp.eu/Catalogue/3XMM-DR7/load_3xmmdr7cat.sql

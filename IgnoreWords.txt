@@ -1923,6 +1923,7 @@ affiche
 affiches
 afficionados
 affidavit
+affidavits
 affiliate
 affiliates
 affiliating
@@ -10083,6 +10084,7 @@ bahadur
 bahadurs
 baht
 bahts
+bahuvrihi
 bahuvrihis
 baidarka
 baidarkas
@@ -20849,6 +20851,7 @@ carryalls
 carryback
 carrybacks
 carryforward
+carryforwards
 carrying
 carryon
 carryons
@@ -36712,6 +36715,7 @@ densifies
 densify
 densifying
 densities
+densitometer
 densitometers
 densitometric
 densitometries
@@ -37546,6 +37550,7 @@ destination
 destinations
 destine
 destined
+destines
 destinies
 destining
 destiny
@@ -40614,6 +40619,7 @@ dissociate
 dissociated
 dissociates
 dissociating
+dissociation
 dissociations
 dissociative
 dissoluble
@@ -41394,6 +41400,7 @@ dollop
 dolloped
 dolloping
 dollops
+dolls
 dolly
 dollybird
 dollybirds
@@ -52508,6 +52515,7 @@ fireproofs
 firer
 fireroom
 firerooms
+firers
 fireship
 fireships
 fireside
@@ -57220,6 +57228,7 @@ gappier
 gappiest
 gapping
 gappy
+gaps
 gar
 garage
 garaged
@@ -57339,6 +57348,7 @@ garotter
 garotters
 garottes
 garotting
+garpike
 garpikes
 garred
 garret
@@ -57459,6 +57469,7 @@ gast
 gasted
 gaster
 gasters
+gastightness
 gastightnesses
 gasting
 gastness
@@ -57794,6 +57805,7 @@ geldings
 gelds
 gelees
 gelid
+gelidities
 gelidity
 gelidly
 gelidnesses
@@ -58533,6 +58545,7 @@ gigglers
 giggles
 gigglier
 giggliest
+giggling
 gigglingly
 giggly
 gighe
@@ -61487,6 +61500,7 @@ guffaws
 guffs
 guggle
 guggled
+guggles
 guggling
 guglet
 guglets
@@ -62588,6 +62602,7 @@ hammerkops
 hammerless
 hammerlock
 hammerlocks
+hammers
 hammertoe
 hammier
 hammily
@@ -63410,6 +63425,7 @@ hawseholes
 hawsepipes
 hawser
 hawsers
+hawses
 hawthorn
 hawthorny
 hay
@@ -68421,6 +68437,7 @@ illumined
 illumines
 illuming
 illumining
+illuminism
 illuminisms
 illuminist
 illuminists
@@ -71362,6 +71379,7 @@ inphase
 inpour
 inpoured
 inpouring
+inpourings
 inpours
 input
 inputs
@@ -73285,6 +73303,7 @@ iodid
 iodide
 iodids
 iodin
+iodinate
 iodinated
 iodinating
 iodination
@@ -79737,6 +79756,7 @@ limiteds
 limiter
 limiters
 limiting
+limitingly
 limitless
 limitlessly
 limitlessness
@@ -84926,6 +84946,7 @@ menswear
 menta
 mental
 mentalese
+mentaleses
 mentalism
 mentalisms
 mentalist
@@ -87056,12 +87077,14 @@ misbutton
 misbuttoned
 misbuttoning
 misbuttons
+miscalculate
 miscalculated
 miscalculates
 miscalculating
 miscalculation
 miscalculations
 miscall
+miscalled
 miscaller
 miscallers
 miscalling
@@ -87863,6 +87886,7 @@ misstarted
 misstarting
 misstarts
 misstated
+misstatement
 misstatements
 misstates
 misstating
@@ -93887,6 +93911,7 @@ nonmobile
 nonmodern
 nonmolecular
 nonmonetarist
+nonmonetarists
 nonmonetary
 nonmoney
 nonmonogamous
@@ -109353,6 +109378,7 @@ potlaches
 potlatch
 potlatched
 potlatches
+potlatching
 potlike
 potline
 potlines
@@ -114614,6 +114640,7 @@ qualifications
 qualified
 qualifiedly
 qualifier
+qualifiers
 qualifies
 qualify
 qualifying
@@ -116037,6 +116064,7 @@ rarefying
 rarely
 rareness
 rarenesses
+rarer
 rareripe
 rareripes
 rares
@@ -134764,6 +134792,7 @@ sous
 sousaphone
 sousaphones
 souse
+soused
 souses
 sousing
 souslik
@@ -135608,6 +135637,7 @@ spikes
 spikey
 spikier
 spikiest
+spikily
 spikiness
 spikinesses
 spiking
@@ -139783,6 +139813,7 @@ subproblem
 subproblems
 subprocess
 subprocesses
+subproduct
 subproducts
 subprofessional
 subprogram
@@ -145535,6 +145566,7 @@ therapsids
 therapy
 there
 thereabout
+thereabouts
 thereafter
 thereat
 thereby
@@ -150098,6 +150130,7 @@ tsade
 tsades
 tsadi
 tsadis
+tsar
 tsardom
 tsardoms
 tsarina
@@ -152395,6 +152428,7 @@ underbodies
 underboss
 underbosses
 underbought
+underbred
 underbrim
 underbrims
 underbrush
@@ -156477,6 +156511,7 @@ vatted
 vatting
 vatu
 vatus
+vau
 vaudeville
 vaudevilles
 vaudevillian
