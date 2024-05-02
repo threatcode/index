@@ -3136,6 +3136,7 @@ alkene
 alkenes
 alkie
 alkine
+alkoxide
 alkoxides
 alkoxy
 alkyd
@@ -11239,6 +11240,7 @@ battened
 battener
 batteners
 battening
+battens
 batter
 battered
 batterer
@@ -21984,6 +21986,7 @@ centrifugation
 centrifugations
 centrifuge
 centrifuged
+centrifuges
 centrifuging
 centring
 centrings
@@ -22764,6 +22767,7 @@ chasses
 chasseur
 chasseurs
 chassis
+chaste
 chastely
 chasten
 chastened
@@ -23167,6 +23171,7 @@ chestiest
 chestily
 chestnut
 chestnuts
+chests
 chesty
 chetah
 chetahs
@@ -23925,6 +23930,7 @@ chorusing
 chorussed
 chorusses
 chorussing
+chose
 chosen
 choses
 chott
@@ -26681,6 +26687,7 @@ coliseum
 coliseums
 colistin
 colistins
+colitic
 colitis
 colitises
 collaborate
@@ -28905,6 +28912,7 @@ consistences
 consistencies
 consistency
 consistent
+consistently
 consisting
 consistorial
 consistories
@@ -29171,6 +29179,7 @@ contemplates
 contemplation
 contemplations
 contemplative
+contemplatively
 contemplatives
 contemplator
 contemplators
@@ -29655,6 +29664,7 @@ cooking
 cookings
 cookless
 cookoff
+cookoffs
 cookout
 cookouts
 cooks
@@ -43174,6 +43184,7 @@ durned
 durning
 durns
 duroc
+durocs
 durometer
 durometers
 duros
@@ -44213,6 +44224,7 @@ eglantines
 eglatere
 eglateres
 eglomise
+ego
 egocentric
 egocentrically
 egocentricities
@@ -45803,6 +45815,7 @@ endorsers
 endorses
 endorsing
 endorsor
+endorsors
 endosarc
 endosarcs
 endoscope
@@ -53451,6 +53464,7 @@ floodlighted
 floodlighting
 floodlights
 floodplain
+floodplains
 floods
 floodtides
 floodwalls
@@ -55388,6 +55402,7 @@ freakish
 freakishly
 freakishness
 freakishnesses
+freakout
 freakouts
 freaks
 freaky
@@ -63163,6 +63178,7 @@ haruspications
 haruspices
 harvest
 harvestable
+harvested
 harvester
 harvesters
 harvesting
@@ -63623,6 +63639,7 @@ hearse
 hearsed
 hearses
 heart
+heartache
 heartaches
 heartbeats
 heartbreak
@@ -89019,6 +89036,7 @@ mools
 moon
 moonbeam
 moonbeams
+moonblind
 moonbow
 moonbows
 mooncalf
@@ -106577,6 +106595,7 @@ pisolite
 pisolith
 pisoliths
 pisolitic
+pissant
 pissants
 pisser
 pissers
@@ -107811,6 +107830,7 @@ podophylli
 podophyllin
 podophyllins
 podophyllum
+podophyllums
 pods
 podsolic
 podsolization
@@ -108356,6 +108376,7 @@ polyonymies
 polyonymous
 polyonymy
 polyp
+polyparia
 polyparies
 polyparium
 polypary
@@ -109696,6 +109717,7 @@ preadjusting
 preadjusts
 preadmission
 preadmissions
+preadmit
 preadmits
 preadmitted
 preadmitting
@@ -110656,6 +110678,7 @@ preordainment
 preordainments
 preordains
 preorder
+preordered
 preordering
 preorders
 preordination
@@ -111053,6 +111076,7 @@ prespecified
 prespecifies
 prespecify
 prespecifying
+presplit
 press
 pressboard
 pressboards
@@ -111569,6 +111593,7 @@ principe
 principi
 principia
 principium
+principle
 principled
 principles
 princock
@@ -114494,6 +114519,7 @@ quadrillionths
 quadripartite
 quadriphonic
 quadriplegia
+quadriplegias
 quadriplegic
 quadriplegics
 quadrivalent
@@ -114901,6 +114927,7 @@ quicksands
 quickset
 quicksets
 quicksilver
+quicksilvers
 quickstep
 quicksteps
 quid
@@ -117504,6 +117531,7 @@ reconverts
 reconvey
 reconveyance
 reconveyances
+reconveyed
 reconveying
 reconveys
 reconvict
@@ -129915,6 +129943,7 @@ sheepshank
 sheepshanks
 sheepshead
 sheepsheads
+sheepshearer
 sheepshearers
 sheepshearing
 sheepshearings
@@ -130647,6 +130676,7 @@ showery
 showgirl
 showgirls
 showier
+showily
 showiness
 showinesses
 showing
@@ -134917,6 +134947,7 @@ spaghettis
 spagyric
 spagyrics
 spahee
+spahees
 spahi
 spahis
 spail
@@ -151881,6 +151912,7 @@ uncaused
 unceasing
 unceasingly
 uncelebrated
+uncensored
 uncensorious
 unceremonious
 unceremoniously
@@ -156590,6 +156622,7 @@ vela
 velamen
 velamina
 velaria
+velarium
 velarization
 velarizations
 velarize
@@ -157056,6 +157089,7 @@ vertebral
 vertebras
 vertebrate
 vertebrates
+vertex
 vertexes
 vertical
 verticalities
@@ -162857,6 +162891,7 @@ zebrine
 zebrines
 zebroid
 zebu
+zebus
 zecchin
 zecchini
 zecchino
