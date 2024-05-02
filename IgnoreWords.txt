@@ -17915,6 +17915,7 @@ bulb
 bulbar
 bulbed
 bulbel
+bulbels
 bulbil
 bulbils
 bulblet
@@ -18544,6 +18545,7 @@ bustinesses
 busting
 bustle
 bustled
+bustler
 bustlers
 bustles
 bustline
@@ -25433,6 +25435,7 @@ cloches
 clock
 clocked
 clocker
+clockers
 clocking
 clocklike
 clocks
@@ -26354,6 +26357,7 @@ coequate
 coequated
 coequates
 coequating
+coerced
 coercer
 coercers
 coercible
@@ -29860,6 +29864,7 @@ copecks
 coped
 copemate
 copemates
+copen
 copens
 copepod
 copepods
@@ -37868,6 +37873,7 @@ detracted
 detracting
 detraction
 detractions
+detractive
 detractively
 detractor
 detractors
@@ -38659,6 +38665,7 @@ didappers
 diddle
 diddled
 diddler
+diddlers
 diddles
 diddley
 diddleys
@@ -39448,6 +39455,7 @@ disaccorded
 disaccording
 disaccords
 disaccustom
+disaccustomed
 disaccustoming
 disaccustoms
 disadvantage
@@ -44752,6 +44760,7 @@ elevon
 elevons
 elf
 elfin
+elfins
 elfish
 elfishly
 elflike
@@ -60865,6 +60874,7 @@ greenbelt
 greenbrier
 greenbriers
 greenbug
+greenbugs
 greened
 greener
 greeneries
@@ -64499,6 +64509,7 @@ henceforward
 henchmen
 hencoop
 hencoops
+hendecasyllabic
 hendecasyllable
 hendiadys
 hendiadyses
@@ -67461,6 +67472,7 @@ hydroponic
 hydroponically
 hydroponics
 hydropower
+hydropowers
 hydrops
 hydropses
 hydropsies
@@ -81017,6 +81029,7 @@ loid
 loided
 loiding
 loin
+loincloth
 loincloths
 loins
 loiter
@@ -88618,6 +88631,7 @@ molality
 molar
 molarities
 molarity
+molars
 molas
 molasses
 molasseses
@@ -89259,6 +89273,7 @@ moodier
 moodiest
 moodily
 moodinesses
+moods
 moody
 mooed
 mooing
@@ -99516,6 +99531,7 @@ overdo
 overdocument
 overdocumented
 overdocumenting
+overdocuments
 overdoer
 overdoers
 overdog
@@ -100369,6 +100385,8 @@ oversmoked
 oversmokes
 oversmoking
 oversoaked
+oversoaking
+oversoaks
 oversoft
 oversold
 oversoon
@@ -101898,6 +101916,7 @@ pappoose
 pappooses
 pappose
 pappous
+pappus
 pappy
 papricas
 papula
@@ -108650,6 +108669,7 @@ polynucleotides
 polynya
 polynyas
 polynyi
+polyol
 polyolefin
 polyolefins
 polyols
@@ -109768,6 +109788,7 @@ poutines
 pouting
 poutingly
 pouts
+pouty
 poverties
 poverty
 pow
@@ -110938,6 +110959,7 @@ prenotify
 prenotifying
 prenotion
 prenotions
+prenticed
 prentices
 prenticing
 prenumber
@@ -119079,6 +119101,7 @@ refunder
 refunders
 refunding
 refunds
+refurbish
 refurbisher
 refurbishers
 refurbishing
@@ -122068,6 +122091,7 @@ resurfaced
 resurfacer
 resurfacers
 resurfaces
+resurge
 resurged
 resurgence
 resurgences
@@ -130008,6 +130032,7 @@ shaming
 shamisen
 shamisens
 shammas
+shammash
 shammashim
 shammed
 shammer
@@ -133652,6 +133677,7 @@ snarf
 snarfed
 snarfing
 snarfs
+snaring
 snark
 snarkier
 snarkiest
@@ -134781,6 +134807,7 @@ sonographies
 sonography
 sonorant
 sonorants
+sonorities
 sonority
 sonorous
 sonorously
@@ -136382,6 +136409,7 @@ spoofer
 spoofers
 spoofery
 spoofs
+spoofy
 spooked
 spookeries
 spookier
@@ -142400,6 +142428,7 @@ sweepstakes
 sweepy
 sweer
 sweetbread
+sweetbreads
 sweetbriars
 sweeten
 sweetened
@@ -144270,6 +144299,7 @@ tawdriness
 tawdrinesses
 tawdry
 tawed
+tawers
 tawie
 tawing
 tawney
@@ -144804,6 +144834,7 @@ teletypewriter
 teletypewriters
 teletyping
 teleutospore
+teleutospores
 televangelism
 televangelisms
 televangelist
@@ -158174,6 +158205,7 @@ virtue
 virtueless
 virtues
 virtuosa
+virtuosas
 virtuose
 virtuosi
 virtuosity
@@ -161012,6 +161044,7 @@ widen
 widened
 widener
 wideners
+wideness
 widenesses
 widening
 widens
@@ -162254,6 +162287,7 @@ worthing
 worthlessly
 worthlessness
 worthlessnesses
+worths
 worthwhile
 worthwhileness
 worthy
@@ -162704,6 +162738,7 @@ yammer
 yammerer
 yammerers
 yammering
+yammers
 yams
 yamulka
 yamulkas
