@@ -1168,6 +1168,7 @@ additory
 addle
 addled
 addlepated
+addles
 addling
 address
 addressability
@@ -1659,6 +1660,7 @@ advice
 advices
 advisabilities
 advisable
+advisablenesses
 advisably
 advise
 advised
@@ -18922,6 +18924,7 @@ cachucha
 cachuchas
 cacique
 caciques
+caciquism
 caciquisms
 cackle
 cackled
@@ -23708,6 +23711,7 @@ chlorenchymas
 chloric
 chlorid
 chloride
+chlorides
 chloridic
 chlorids
 chlorin
@@ -28120,6 +28124,7 @@ conchology
 conchos
 conchs
 conchy
+concierge
 concierges
 conciliar
 conciliarly
@@ -29611,6 +29616,7 @@ convertiplanes
 convertor
 convertors
 converts
+convex
 convexes
 convexities
 convexity
@@ -30753,6 +30759,7 @@ cotransduces
 cotransducing
 cotransduction
 cotransductions
+cotransfer
 cotransfers
 cotransport
 cotransported
@@ -32224,6 +32231,7 @@ crista
 cristae
 cristate
 cristated
+crit
 criteria
 criterial
 criterion
@@ -35954,6 +35962,7 @@ degenerates
 degenerating
 degeneration
 degenerations
+degenerative
 degerm
 degermed
 degerming
@@ -48048,6 +48057,7 @@ ethanes
 ethanol
 ethanolamine
 ethanols
+ethene
 ethenes
 ethephons
 ether
@@ -50929,6 +50939,7 @@ fastballers
 fastballs
 fastened
 fastener
+fasteners
 fastening
 fastenings
 fastens
@@ -53523,6 +53534,7 @@ flocculants
 flocculate
 flocculates
 flocculating
+flocculation
 flocculations
 flocculator
 flocculators
@@ -55999,6 +56011,7 @@ frosting
 frostings
 frostless
 frostline
+frostnip
 frostnips
 frosts
 frostwork
@@ -59728,6 +59741,7 @@ godetias
 godets
 godfather
 godfathered
+godfathering
 godfathers
 godhead
 godheads
@@ -66780,6 +66794,7 @@ hoy
 hoya
 hoyas
 hoyden
+hoydened
 hoydening
 hoydenish
 hoydens
@@ -70195,6 +70210,7 @@ indamin
 indamine
 indamines
 indamins
+indebted
 indebtedness
 indebtednesses
 indecencies
@@ -70359,6 +70375,7 @@ indigences
 indigencies
 indigency
 indigene
+indigenes
 indigenization
 indigenizations
 indigenize
@@ -74919,6 +74936,7 @@ joannes
 job
 jobbed
 jobber
+jobberies
 jobbers
 jobbery
 jobbing
@@ -78706,6 +78724,7 @@ leavy
 leben
 lebens
 lebensraum
+lebensraums
 lebkuchen
 lech
 lechayim
@@ -81715,6 +81734,7 @@ lunches
 lunching
 lunchmeat
 lunchmeats
+lunchroom
 lunchrooms
 lunchtime
 lunchtimes
@@ -82350,6 +82370,7 @@ maestoso
 maestosos
 maestri
 maestro
+maestros
 maffia
 maffias
 maffick
@@ -83923,6 +83944,7 @@ masticate
 masticated
 masticates
 masticating
+mastication
 mastications
 masticator
 masticators
@@ -95670,6 +95692,7 @@ obstinatenesses
 obstreperously
 obstruct
 obstructed
+obstructing
 obstruction
 obstructionism
 obstructionisms
@@ -98085,6 +98108,7 @@ outechoed
 outechoes
 outechoing
 outer
+outercoat
 outercoats
 outermost
 outers
@@ -104444,6 +104468,7 @@ permanently
 permanentness
 permanentnesses
 permanents
+permanganate
 permanganates
 permeabilities
 permeability
@@ -112835,6 +112860,7 @@ prose
 prosect
 prosected
 prosecting
+prosector
 prosectors
 prosects
 prosecutable
@@ -113408,6 +113434,7 @@ pseudoalleles
 pseudoclassic
 pseudoclassics
 pseudocoel
+pseudocoelomate
 pseudocoels
 pseudocyeses
 pseudocyesis
@@ -117008,6 +117035,7 @@ reassuring
 reassuringly
 reata
 reattach
+reattached
 reattaches
 reattaching
 reattachment
@@ -123295,6 +123323,7 @@ ridiculously
 riding
 ridings
 ridley
+ridleys
 ridotto
 ridottos
 rids
@@ -135222,6 +135251,7 @@ spallable
 spallation
 spalled
 spaller
+spallers
 spalling
 spalls
 spalpeen
@@ -141804,6 +141834,7 @@ surfacer
 surfacers
 surfaces
 surfacing
+surfacings
 surfactants
 surfbird
 surfbirds
@@ -145382,6 +145413,7 @@ testaceous
 testacies
 testacy
 testae
+testament
 testamentary
 testaments
 testate
@@ -153100,6 +153132,7 @@ undimmed
 undine
 undines
 undiplomatic
+undirected
 undischarged
 undisciplined
 undisclosed
@@ -158056,6 +158089,7 @@ virl
 virls
 viroid
 viroids
+virologic
 virological
 virologically
 virologies
@@ -163317,6 +163351,7 @@ zin
 zinc
 zincate
 zincates
+zinced
 zincic
 zincifies
 zincify
