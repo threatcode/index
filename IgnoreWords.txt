@@ -1610,6 +1610,7 @@ adventuristic
 adventurists
 adventurous
 adventurously
+adventurousness
 adverb
 adverbial
 adverbially
@@ -2737,6 +2738,7 @@ alanine
 alanines
 alanins
 alans
+alant
 alants
 alanyls
 alar
@@ -14860,6 +14862,7 @@ blotter
 blotters
 blottier
 blottiest
+blotting
 blotto
 blotty
 blouse
@@ -16314,6 +16317,7 @@ bowlers
 bowless
 bowlful
 bowlike
+bowline
 bowlines
 bowling
 bowlings
@@ -16697,6 +16701,7 @@ bratwursts
 braunites
 braunschweiger
 braunschweigers
+brava
 bravado
 bravadoes
 bravados
@@ -26968,6 +26973,7 @@ colonics
 colonisation
 colonisations
 colonise
+colonised
 colonises
 colonising
 colonist
@@ -33405,6 +33411,7 @@ curveballed
 curveballing
 curveballs
 curved
+curvedly
 curves
 curvet
 curveted
@@ -44959,6 +44966,7 @@ embattling
 embay
 embayed
 embaying
+embayments
 embays
 embed
 embedded
@@ -50778,6 +50786,7 @@ farles
 farls
 farm
 farmable
+farmed
 farmer
 farmerette
 farmerettes
@@ -54557,6 +54566,7 @@ foredoes
 foredone
 foredoom
 foredoomed
+foredooming
 foreface
 forefaces
 forefather
@@ -57399,6 +57409,7 @@ garnet
 garnetiferous
 garnets
 garni
+garnierite
 garnierites
 garnish
 garnished
@@ -57946,6 +57957,7 @@ gemutlichkeits
 gen
 gendarme
 gendarmerie
+gendarmeries
 gendarmery
 gendarmes
 gender
@@ -57993,6 +58005,7 @@ generated
 generation
 generational
 generationally
+generations
 generative
 generator
 generators
@@ -74888,6 +74901,7 @@ jobbers
 jobbery
 jobbing
 jobholder
+jobholders
 jobless
 joblessness
 joblessnesses
@@ -80067,6 +80081,7 @@ lino
 linocut
 linocuts
 linoleate
+linoleates
 linoleum
 linoleums
 linotype
@@ -80789,6 +80804,7 @@ lodestars
 lodestone
 lodestones
 lodge
+lodged
 lodgement
 lodgements
 lodger
@@ -86078,6 +86094,7 @@ micromeres
 micrometeorite
 micrometeorites
 micrometeoritic
+micrometeoroid
 micrometeoroids
 micrometer
 micrometers
@@ -91606,6 +91623,7 @@ naumachiae
 naumachias
 naumachies
 naumachy
+nauplial
 nauplii
 nauplius
 nausea
@@ -98946,6 +98964,7 @@ outwardly
 outwardness
 outwardnesses
 outwarred
+outwarring
 outwars
 outwash
 outwashes
@@ -103705,6 +103724,7 @@ penitential
 penitentiaries
 penitentiary
 penitently
+penitents
 penknife
 penlight
 penlite
@@ -107675,6 +107695,7 @@ plonks
 plop
 plopped
 plopping
+plosion
 plosions
 plosive
 plosives
@@ -109668,6 +109689,7 @@ powerhouse
 powerhouses
 powering
 powerless
+powerlessly
 powerlessness
 powerlessnesses
 powers
@@ -110006,6 +110028,7 @@ prebuy
 prebuying
 prebuys
 precalculi
+precalculus
 precancel
 precanceled
 precanceling
@@ -116653,6 +116676,7 @@ read
 readability
 readable
 readableness
+readablenesses
 readably
 readapt
 readapted
@@ -120549,6 +120573,7 @@ repayable
 repaying
 repayment
 repayments
+repeal
 repealable
 repealed
 repealer
@@ -131903,6 +131928,7 @@ siruped
 sirupier
 sirupiest
 siruping
+sirups
 sirupy
 sirvente
 sirventes
@@ -133893,6 +133919,7 @@ snuffboxes
 snuffed
 snuffer
 snuffers
+snuffier
 snuffiest
 snuffing
 snuffle
@@ -143806,6 +143833,7 @@ tapiocas
 tapir
 tapirs
 tappable
+tapped
 tapper
 tappers
 tappets
@@ -143897,6 +143925,7 @@ tarpans
 tarpaper
 tarpapers
 tarpaulin
+tarpaulins
 tarpon
 tarpons
 tarps
@@ -144047,6 +144076,7 @@ tattletales
 tattling
 tattoo
 tattooed
+tattooer
 tattooing
 tattooist
 tattooists
@@ -146049,6 +146079,7 @@ thioridazines
 thiosulfate
 thiosulfates
 thiotepa
+thiotepas
 thiouracils
 thiourea
 thioureas
@@ -148555,6 +148586,7 @@ tranquilities
 tranquility
 tranquilize
 tranquilizer
+tranquilizers
 tranquilizes
 tranquilizing
 tranquiller
@@ -157629,6 +157661,7 @@ victimologists
 victimology
 victims
 victor
+victorias
 victories
 victorious
 victoriously
@@ -157876,6 +157909,7 @@ vinylic
 vinylidene
 vinylidenes
 viol
+viola
 violabilities
 violability
 violable
@@ -158418,6 +158452,7 @@ volante
 volar
 volatile
 volatileness
+volatilenesses
 volatiles
 volatilise
 volatilised
