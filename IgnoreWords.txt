@@ -2951,6 +2951,7 @@ alfresco
 alga
 algae
 algaecide
+algaroba
 algarobas
 algarrobas
 algarrobo
@@ -12950,6 +12951,7 @@ betons
 betony
 betook
 betray
+betrayal
 betrayals
 betrayed
 betrayer
@@ -13593,6 +13595,7 @@ binary
 binate
 binately
 binational
+binaural
 binaurally
 bind
 bindable
@@ -13712,6 +13715,7 @@ bioethicists
 bioethics
 biofeedbacks
 biofilm
+biofilms
 biofouler
 biofoulers
 biofouling
@@ -20516,6 +20520,7 @@ carcinosarcoma
 carcinosarcomas
 card
 cardamom
+cardamoms
 cardamon
 cardamons
 cardamum
@@ -24464,6 +24469,7 @@ cinematizing
 cinematograph
 cinematographic
 cinematographs
+cinematography
 cineol
 cineole
 cineoles
@@ -29719,6 +29725,7 @@ cook
 cookable
 cookbook
 cookbooks
+cooked
 cooker
 cookeries
 cookery
@@ -45257,6 +45264,7 @@ emes
 emeses
 emesis
 emetic
+emetically
 emetics
 emetin
 emetine
@@ -53546,6 +53554,7 @@ floccose
 flocculant
 flocculants
 flocculate
+flocculated
 flocculates
 flocculating
 flocculation
@@ -55224,6 +55233,7 @@ fourplexes
 fourragere
 fours
 fourscore
+foursome
 foursomes
 foursquare
 fourteen
@@ -58167,6 +58177,7 @@ gentlemen
 gentleness
 gentlenesses
 gentlepersons
+gentler
 gentles
 gentlest
 gentlewoman
@@ -59744,6 +59755,7 @@ goddamned
 goddamnedest
 goddamning
 goddamns
+goddams
 goddaughter
 goddaughters
 godded
@@ -62187,6 +62199,7 @@ habitant
 habitants
 habitat
 habitation
+habitations
 habitats
 habited
 habiting
@@ -67670,6 +67683,7 @@ hyperesthesias
 hyperesthetic
 hypereutectic
 hypereutectoid
+hyperexcitable
 hyperexcited
 hyperexcitement
 hyperexcretion
@@ -73101,6 +73115,7 @@ introspectional
 introspections
 introspective
 introspectively
+introspects
 introversion
 introversions
 introversive
@@ -89938,6 +89953,7 @@ mouthily
 mouthing
 mouthless
 mouthlike
+mouthpart
 mouthpiece
 mouths
 mouthwash
@@ -92393,6 +92409,7 @@ neurines
 neuritic
 neuritics
 neuritides
+neuritis
 neuritises
 neuroactive
 neuroanatomic
@@ -103158,6 +103175,7 @@ paxwax
 paxwaxes
 pay
 payable
+payables
 payably
 payback
 paybacks
@@ -109161,6 +109179,7 @@ portrait
 portraitist
 portraitists
 portraits
+portraiture
 portraitures
 portray
 portrayal
@@ -110664,6 +110683,7 @@ pregnabilities
 pregnability
 pregnable
 pregnancies
+pregnancy
 pregnant
 pregnantly
 pregnenolone
@@ -112806,6 +112826,7 @@ propoxyphenes
 propped
 propping
 propraetor
+propraetors
 propranolol
 propranolols
 propria
@@ -113882,6 +113903,7 @@ pule
 puled
 pulers
 pules
+puli
 pulicene
 pulicide
 pulik
@@ -115305,6 +115327,7 @@ quinidine
 quinidines
 quiniela
 quinielas
+quinin
 quinina
 quininas
 quinine
@@ -116820,6 +116843,7 @@ reaffirm
 reaffirmation
 reaffirmations
 reaffirmed
+reaffirming
 reaffirms
 reaffix
 reaffixed
@@ -135714,6 +135738,7 @@ spelt
 spelter
 spelters
 spelts
+speltz
 spelunk
 spelunked
 spelunker
@@ -140317,6 +140342,7 @@ substrates
 substratum
 substructural
 substructure
+substructures
 subsumable
 subsume
 subsumed
@@ -141544,6 +141570,7 @@ supersalesman
 supersalesmen
 supersaturate
 supersaturated
+supersaturates
 supersaturating
 supersaturation
 supersaur
@@ -142044,6 +142071,7 @@ survived
 surviver
 survivers
 survives
+surviving
 survivor
 survivors
 survivorship
@@ -143677,6 +143705,7 @@ tamaracks
 tamarao
 tamaraos
 tamarau
+tamaraus
 tamari
 tamarillo
 tamarin
@@ -148436,6 +148465,7 @@ trachomas
 trachyte
 trachytes
 trachytic
+tracing
 tracings
 track
 trackable
@@ -148459,6 +148489,7 @@ trackpads
 tracks
 trackside
 tracksides
+tracksuit
 tracksuits
 trackwalker
 trackwalkers
@@ -152905,6 +152936,7 @@ underkills
 underlaid
 underlain
 underlapped
+underlapping
 underlay
 underlaying
 underlayment
@@ -154443,6 +154475,7 @@ unplug
 unplugged
 unplugging
 unplugs
+unplumbed
 unpoetic
 unpointed
 unpoised
@@ -162987,6 +163020,7 @@ yodled
 yodler
 yodlers
 yodles
+yodling
 yods
 yoga
 yogas
@@ -163564,6 +163598,7 @@ zoological
 zoologically
 zoologies
 zoologist
+zoologists
 zoom
 zoomania
 zoomanias
