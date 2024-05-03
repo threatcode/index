@@ -1768,6 +1768,7 @@ aerobia
 aerobic
 aerobically
 aerobicize
+aerobicized
 aerobicizes
 aerobicizing
 aerobics
@@ -9702,6 +9703,7 @@ babysit
 babysits
 babysitting
 bacalao
+bacalaos
 bacca
 baccae
 baccalaureate
@@ -9881,6 +9883,7 @@ backpedaling
 backpedalled
 backpedalling
 backpedals
+backrest
 backrests
 backroom
 backrush
@@ -15218,6 +15221,7 @@ boastful
 boastfully
 boastfulness
 boasting
+boasts
 boat
 boatable
 boatbill
@@ -18686,6 +18690,7 @@ butters
 butterscotch
 butterscotches
 butterweed
+butterweeds
 butterwort
 butterworts
 buttery
@@ -24794,6 +24799,7 @@ citizenly
 citizenries
 citizenry
 citizens
+citizenship
 citizenships
 citola
 citolas
@@ -27175,6 +27181,7 @@ colostral
 colostrum
 colostrums
 colotomies
+colotomy
 colour
 coloured
 colourer
@@ -29033,6 +29040,7 @@ conserve
 conserved
 conservers
 conserves
+conserving
 consider
 considerables
 considerably
@@ -29903,6 +29911,7 @@ coordinate
 coordinated
 coordinately
 coordinateness
+coordinates
 coordinating
 coordination
 coordinations
@@ -30354,6 +30363,7 @@ cornices
 corniche
 corniches
 cornichons
+cornicing
 cornicle
 cornicles
 cornier
@@ -31039,6 +31049,7 @@ counterchanged
 counterchanges
 counterchanging
 countercharge
+countercharged
 countercharges
 countercharging
 countercheck
@@ -31840,6 +31851,7 @@ crassnesses
 cratch
 cratches
 crate
+crated
 crater
 cratered
 cratering
@@ -36828,6 +36840,7 @@ denervated
 denervates
 denervating
 denervation
+denervations
 denes
 dengue
 dengues
@@ -42024,6 +42037,7 @@ dots
 dotted
 dottel
 dottels
+dotter
 dotterel
 dotterels
 dotters
@@ -48889,6 +48903,7 @@ exactitudes
 exactly
 exactness
 exactnesses
+exactor
 exactors
 exacts
 exaggerate
@@ -60967,6 +60982,7 @@ grays
 grayscale
 graywacke
 graywackes
+graywater
 graywaters
 grazable
 graze
@@ -61892,6 +61908,7 @@ guilt
 guiltier
 guiltiest
 guiltily
+guiltiness
 guiltinesses
 guiltless
 guiltlessly
@@ -61994,6 +62011,7 @@ gummier
 gummiest
 gumminess
 gumminesses
+gumming
 gummites
 gummose
 gummoses
@@ -64655,6 +64673,7 @@ hemorrhoid
 hemorrhoidals
 hemorrhoids
 hemosiderin
+hemosiderins
 hemostases
 hemostasis
 hemostat
@@ -67203,6 +67222,7 @@ humid
 humidex
 humidexes
 humidification
+humidifications
 humidified
 humidifier
 humidifiers
@@ -78009,6 +78029,7 @@ lamppost
 lampposts
 lamprey
 lampreys
+lamps
 lampshade
 lampshades
 lampshell
@@ -78531,6 +78552,7 @@ latimeria
 latimerias
 latina
 latinas
+latinity
 latinization
 latinizations
 latinize
@@ -80484,6 +80506,7 @@ lipogeneses
 lipogenesis
 lipoid
 lipoidal
+lipoids
 lipolitic
 lipolyses
 lipolysis
@@ -100935,6 +100958,7 @@ overview
 overviews
 overviolent
 overvivid
+overvoltage
 overvoltages
 overvote
 overvotes
@@ -105160,6 +105184,7 @@ pervasiveness
 pervasivenesses
 perverse
 perversely
+perverseness
 perversion
 perversities
 perversity
@@ -105494,6 +105519,7 @@ pharos
 pharoses
 pharyngals
 pharyngeal
+pharynges
 pharyngitides
 pharyngitis
 pharynx
@@ -108469,6 +108495,7 @@ podsolic
 podsolization
 podsolizations
 podsols
+podzol
 podzolic
 podzolization
 podzolizations
@@ -115944,6 +115971,7 @@ raccoon
 raccoons
 race
 racecourse
+racecourses
 raced
 racehorse
 racehorses
@@ -117178,6 +117206,7 @@ readablenesses
 readably
 readapt
 readapted
+readapts
 readd
 readded
 readdict
@@ -136408,6 +136437,7 @@ spiffy
 spiffying
 spigot
 spigots
+spike
 spiked
 spikelet
 spikelets
@@ -137952,6 +137982,7 @@ starvers
 starves
 starving
 starwort
+starworts
 stases
 stash
 stashed
@@ -147632,6 +147663,7 @@ tinplates
 tinpot
 tins
 tinsel
+tinseled
 tinseling
 tinselled
 tinselling
@@ -153491,6 +153523,7 @@ underpaintings
 underpants
 underpart
 underparts
+underpass
 underpasses
 underpay
 underpaying
@@ -153756,6 +153789,7 @@ undoings
 undomestic
 undomesticated
 undone
+undotted
 undouble
 undoubled
 undoubles
@@ -154565,6 +154599,7 @@ unkenned
 unkennel
 unkenneling
 unkennelled
+unkennelling
 unkennels
 unkent
 unkept
