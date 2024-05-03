@@ -3345,6 +3345,7 @@ allophonic
 alloplasms
 allopolyploid
 allopolyploids
+allopolyploidy
 allopurinol
 allopurinols
 allosaur
@@ -5802,6 +5803,7 @@ antipoles
 antipolice
 antipolitical
 antipolitics
+antipollution
 antipollutions
 antipope
 antipopes
@@ -9839,6 +9841,7 @@ backgammon
 backgammons
 background
 backgrounded
+backgrounder
 backgrounders
 backgrounding
 backgrounds
@@ -13158,6 +13161,7 @@ biacetyls
 biali
 bialies
 bialis
+bialy
 bialys
 biannual
 biannually
@@ -16777,6 +16781,7 @@ brattling
 bratty
 bratwurst
 bratwursts
+braunite
 braunites
 braunschweiger
 braunschweigers
@@ -18224,6 +18229,7 @@ bungler
 bunglers
 bungles
 bunglesome
+bungling
 bunglingly
 bunglings
 bungs
@@ -18954,6 +18960,7 @@ cablet
 cablets
 cableway
 cableways
+cabling
 cabman
 cabob
 cabobs
@@ -24811,6 +24818,7 @@ citer
 citers
 cithara
 citharas
+cither
 cithern
 citherns
 cithers
@@ -28622,6 +28630,7 @@ confirmatory
 confirmed
 confirmedly
 confirmednesses
+confirmer
 confirmers
 confirms
 confiscable
@@ -30638,6 +30647,7 @@ corruptor
 corruptors
 cors
 corsac
+corsacs
 corsages
 corsair
 corse
@@ -35278,6 +35288,7 @@ decelerated
 decelerates
 decelerating
 deceleration
+decelerations
 decelerators
 deceleron
 decemvir
@@ -46074,6 +46085,7 @@ endocytosis
 endocytotic
 endoderm
 endodermal
+endodermis
 endodermises
 endoderms
 endodontic
@@ -48854,6 +48866,7 @@ everyone
 everyplace
 everything
 everyway
+everywoman
 everywomen
 eves
 evict
@@ -51812,6 +51825,7 @@ fencing
 fencings
 fend
 fended
+fender
 fendered
 fenderless
 fenders
@@ -52610,6 +52624,7 @@ filmstrip
 filmstrips
 filmy
 filo
+filoplume
 filoplumes
 filopodium
 filos
@@ -53138,6 +53153,7 @@ fjords
 flab
 flabbergast
 flabbergasted
+flabbergasting
 flabbier
 flabbiest
 flabbily
@@ -54256,6 +54272,7 @@ fluttery
 fluty
 fluvial
 fluviatile
+flux
 fluxes
 fluxgate
 fluxgates
@@ -56359,6 +56376,7 @@ frowzier
 frowziest
 frowzily
 frowzy
+froze
 frozen
 frozenly
 frozenness
@@ -59833,6 +59851,7 @@ glyceride
 glyceridic
 glycerin
 glycerinate
+glycerinated
 glycerinates
 glycerinating
 glycerine
@@ -82330,6 +82349,7 @@ lutenists
 luteolin
 luteolins
 luteotrophic
+luteotrophin
 luteotrophins
 luteotropic
 luteotropins
@@ -85137,6 +85157,7 @@ megahertz
 megahertzes
 megahit
 megahits
+megakaryocyte
 megakaryocytes
 megakaryocytic
 megalithic
@@ -89155,6 +89176,7 @@ momentoes
 momentos
 momentous
 momentously
+momentousness
 momentousnesses
 moments
 momentum
@@ -90959,6 +90981,7 @@ mumbling
 mumbly
 mumm
 mummed
+mummer
 mummeries
 mummers
 mummery
@@ -99098,6 +99121,7 @@ outpunches
 outpunching
 outpupil
 outpursue
+outpursued
 outpursues
 outpursuing
 outpush
@@ -106716,6 +106740,7 @@ pictorialnesses
 pictorials
 picture
 pictured
+picturephone
 picturephones
 pictures
 picturesque
@@ -110574,6 +110599,7 @@ preallotted
 preallotting
 prealter
 prealtered
+prealtering
 prealters
 preamble
 preambled
@@ -111941,6 +111967,7 @@ pressings
 pressman
 pressmark
 pressmarks
+pressmen
 pressors
 pressrooms
 pressrun
@@ -113516,6 +113543,7 @@ prosimians
 prosiness
 prosing
 prosit
+prosobranch
 prosobranchs
 prosodic
 prosodical
@@ -121110,6 +121138,7 @@ rente
 rented
 renter
 renters
+rentes
 rentier
 rentiers
 renting
@@ -122520,6 +122549,7 @@ restation
 restationed
 restationing
 restations
+restaurant
 restauranteur
 restauranteurs
 restaurants
@@ -123176,6 +123206,7 @@ reunionists
 reunions
 reunited
 reuniter
+reuniters
 reunites
 reupholster
 reupholstered
@@ -128715,6 +128746,7 @@ sea
 seabag
 seabags
 seabeach
+seabeaches
 seabed
 seabeds
 seabird
@@ -130957,6 +130989,7 @@ sheerer
 sheerest
 sheering
 sheerlegs
+sheerly
 sheerness
 sheernesses
 sheesh
@@ -142580,6 +142613,7 @@ sural
 suras
 surbase
 surbased
+surbases
 surcease
 surceased
 surceases
@@ -149575,6 +149609,7 @@ transferees
 transference
 transferences
 transferential
+transferor
 transferors
 transferrable
 transferred
