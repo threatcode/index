@@ -7356,6 +7356,7 @@ armouring
 armoury
 armpit
 armpits
+armrest
 armrests
 arms
 armsful
@@ -10255,6 +10256,7 @@ baled
 baleen
 baleens
 balefire
+balefires
 balefully
 balefulness
 balefulnesses
@@ -11389,6 +11391,7 @@ baymen
 bayonet
 bayoneted
 bayoneting
+bayonetted
 bayonetting
 bayou
 bayous
@@ -19005,6 +19008,7 @@ cacomistle
 cacomistles
 cacomixl
 cacomixle
+cacomixles
 cacomixls
 caconym
 caconymies
@@ -20756,6 +20760,7 @@ carload
 carloads
 carls
 carmagnole
+carmagnoles
 carmaker
 carmakers
 carman
@@ -42299,6 +42304,7 @@ downzoning
 dowries
 dowry
 dowsabel
+dowsabels
 dowse
 dowsed
 dowser
@@ -42444,6 +42450,7 @@ dramatic
 dramatically
 dramatics
 dramatisation
+dramatise
 dramatised
 dramatises
 dramatising
@@ -44436,6 +44443,7 @@ eggbeaters
 eggcup
 eggcups
 egged
+egger
 eggfruit
 eggfruits
 egghead
@@ -46750,6 +46758,7 @@ entia
 entice
 enticed
 enticement
+enticements
 enticer
 enticers
 entices
@@ -50752,6 +50761,7 @@ famine
 faming
 famish
 famished
+famishes
 famishing
 famishment
 famishments
@@ -53163,6 +53173,7 @@ flammables
 flammed
 flamming
 flams
+flamy
 flan
 flancard
 flancards
@@ -55848,6 +55859,7 @@ freres
 fresco
 frescoed
 frescoer
+frescoers
 frescoes
 frescoing
 frescoist
@@ -56609,6 +56621,7 @@ fungoes
 fungoid
 fungoids
 fungous
+fungus
 funguses
 funhouse
 funhouses
@@ -60357,6 +60370,7 @@ gougers
 gouges
 gouging
 goulash
+goulashes
 gourami
 gouramies
 gouramis
@@ -60438,6 +60452,7 @@ grabbled
 grabbler
 grabblers
 grabbling
+grabby
 graben
 grabens
 grabs
@@ -78785,6 +78800,7 @@ lazying
 lazzarone
 lazzaroni
 lea
+leach
 leachabilities
 leachability
 leachable
@@ -80046,6 +80062,7 @@ ligulae
 ligular
 ligulas
 ligulated
+ligule
 ligules
 liguloid
 ligure
@@ -85617,6 +85634,7 @@ mesenchymal
 mesenchyme
 mesentera
 mesenteric
+mesenteries
 mesenteron
 mesentery
 mesh
@@ -86119,6 +86137,7 @@ metricizing
 metrics
 metrifies
 metrify
+metrifying
 metring
 metrist
 metrists
@@ -86519,6 +86538,7 @@ microsporocyte
 microsporocytes
 microsporophyll
 microsporous
+microstate
 microstates
 microstructural
 microstructure
@@ -101038,6 +101058,7 @@ owlishnesses
 owllike
 owls
 own
+ownable
 owned
 owner
 owners
@@ -101502,6 +101523,7 @@ painterly
 painters
 paintier
 paintiest
+painting
 paintings
 paints
 paintwork
@@ -102211,6 +102233,7 @@ papyruses
 par
 para
 parabiosis
+parabiotic
 parabiotically
 parablasts
 parable
@@ -110365,6 +110388,7 @@ prearmed
 prearming
 prearms
 prearrange
+prearranged
 prearrangement
 prearrangements
 prearranges
@@ -120577,6 +120601,7 @@ remise
 remised
 remises
 remising
+remiss
 remissible
 remissibly
 remissions
@@ -123302,6 +123327,7 @@ rewinning
 rewins
 rewire
 rewired
+rewires
 rewiring
 rewoke
 rewoken
@@ -126113,6 +126139,7 @@ salubrity
 saluki
 salukis
 saluretic
+saluretics
 salutarily
 salutariness
 salutarinesses
@@ -130740,6 +130767,7 @@ shellfire
 shellfires
 shellfish
 shellfishery
+shellfishes
 shellier
 shelliest
 shelling
@@ -133516,6 +133544,7 @@ sloughed
 sloughier
 sloughiest
 sloughing
+sloughs
 sloughy
 sloven
 slovenlier
@@ -133603,6 +133632,7 @@ slumgums
 slumism
 slumlord
 slumlords
+slummed
 slummer
 slummers
 slummier
@@ -134727,6 +134757,7 @@ soil
 soilages
 soiled
 soiling
+soilless
 soils
 soilure
 soilures
@@ -135567,6 +135598,7 @@ souvlaki
 souvlakia
 souvlakias
 souvlakis
+sovereign
 sovereignly
 sovereigns
 sovereignty
@@ -147734,6 +147766,7 @@ titled
 titleholder
 titleholders
 titles
+titling
 titlist
 titlists
 titman
@@ -148771,6 +148804,7 @@ towmonts
 townee
 townees
 townfolk
+townhome
 townhomes
 townhouse
 townhouses
@@ -162012,6 +162046,7 @@ wirier
 wiriest
 wiriness
 wirinesses
+wiring
 wirings
 wirra
 wiry
