@@ -384,6 +384,7 @@ accepted
 acceptedly
 acceptee
 acceptees
+accepter
 accepters
 accepting
 acceptingly
@@ -794,6 +795,7 @@ aciform
 acinar
 acing
 acini
+aciniform
 acinose
 acinous
 acinus
@@ -8134,6 +8136,7 @@ assurednesses
 assureds
 assurer
 assurers
+assures
 assurgent
 assuring
 assuror
@@ -12935,6 +12938,7 @@ bethesda
 bethink
 bethinking
 bethinks
+bethorn
 bethorned
 bethorns
 bethought
@@ -25919,6 +25923,7 @@ coastline
 coastlines
 coastward
 coastwards
+coastwise
 coat
 coatdress
 coatdresses
@@ -27150,6 +27155,7 @@ colts
 coltsfoot
 coltsfoots
 colubrid
+colubrids
 colubrine
 colugo
 colugos
@@ -30463,6 +30469,7 @@ correspondency
 correspondents
 corresponding
 correspondingly
+corresponds
 corresponsive
 corrida
 corridas
@@ -31596,6 +31603,7 @@ crackdowns
 cracked
 crackerjack
 crackerjacks
+crackers
 crackhead
 crackheads
 cracking
@@ -38266,6 +38274,7 @@ diablery
 diabolic
 diabolical
 diabolically
+diabolicalness
 diabolism
 diabolisms
 diabolist
@@ -42939,6 +42948,7 @@ drynesses
 dryopithecine
 dryopithecines
 drypoint
+drypoints
 drysalter
 drysalters
 drysaltery
@@ -47370,6 +47380,7 @@ epoxidizing
 epoxied
 epoxies
 epoxy
+epoxying
 epsilon
 epsilonic
 epsilons
@@ -55185,6 +55196,7 @@ fortresslike
 forts
 fortuities
 fortuitous
+fortuitously
 fortuity
 fortunate
 fortunately
@@ -59273,6 +59285,7 @@ glibnesses
 glide
 glided
 glidepath
+glidepaths
 glider
 gliders
 glides
@@ -66284,6 +66297,7 @@ hoodooism
 hoodooisms
 hoodoos
 hoods
+hoodwink
 hoodwinked
 hoodwinkers
 hoodwinking
@@ -70054,6 +70068,7 @@ incogs
 incoherence
 incoherences
 incoherent
+incoherently
 incombustible
 incombustibles
 income
@@ -70513,6 +70528,7 @@ indigens
 indigent
 indigents
 indigested
+indigestibility
 indigestible
 indigestibles
 indigestion
@@ -71770,6 +71786,7 @@ inseparably
 insert
 inserted
 inserter
+inserters
 inserting
 insertion
 insertional
@@ -73874,6 +73891,7 @@ irreverent
 irreverently
 irreversibility
 irreversible
+irreversibly
 irrevocability
 irrevocable
 irrevocableness
@@ -74263,6 +74281,7 @@ ithyphallic
 itineracies
 itineracy
 itinerancies
+itinerancy
 itinerant
 itinerantly
 itinerants
@@ -76843,6 +76862,7 @@ kludge
 kludges
 kludgey
 kludgier
+kludgiest
 kludging
 kludgy
 kluge
@@ -96768,6 +96788,7 @@ onrush
 onrushes
 onrushing
 ons
+onscreen
 onsets
 onshore
 onside
@@ -98211,6 +98232,7 @@ outdates
 outdating
 outdazzle
 outdazzled
+outdazzles
 outdazzling
 outdebate
 outdebated
@@ -100077,6 +100099,7 @@ overlearn
 overlearned
 overlearns
 overlearnt
+overlend
 overlending
 overlength
 overlengthen
@@ -111748,6 +111771,7 @@ prevalences
 prevalent
 prevalently
 prevalents
+prevalue
 prevalued
 prevalues
 prevaluing
@@ -115219,6 +115243,7 @@ quarts
 quartz
 quartzite
 quartzites
+quartzitic
 quartzose
 quartzous
 quasars
@@ -115833,6 +115858,7 @@ rad
 radar
 radars
 radarscope
+radarscopes
 radded
 radding
 raddled
@@ -117257,6 +117283,7 @@ reassures
 reassuring
 reassuringly
 reata
+reatas
 reattach
 reattached
 reattaches
@@ -119668,6 +119695,7 @@ reimmerses
 reimplant
 reimplantation
 reimplantations
+reimplanted
 reimplants
 reimport
 reimportation
@@ -128271,6 +128299,7 @@ seadog
 seadogs
 seadromes
 seafarer
+seafarers
 seafaring
 seafarings
 seafloor
@@ -134535,6 +134564,7 @@ soilure
 soilures
 soirees
 soja
+sojas
 sojourn
 sojourned
 sojourner
@@ -139691,6 +139721,7 @@ stylographies
 stylography
 styloid
 stylolite
+stylolites
 stylopodia
 stylopodium
 stylus
@@ -150719,6 +150750,7 @@ tsadis
 tsar
 tsardom
 tsardoms
+tsarevna
 tsarina
 tsarinas
 tsarism
@@ -157640,6 +157672,7 @@ vermifuge
 vermifuges
 vermilion
 vermilioned
+vermilioning
 vermilions
 vermillion
 vermillions
@@ -158700,6 +158733,7 @@ vizir
 vizirate
 vizirates
 vizirial
+vizor
 vizored
 vizoring
 vizsla
@@ -162701,6 +162735,7 @@ wrote
 wroth
 wrothful
 wrought
+wrung
 wry
 wryer
 wryest
