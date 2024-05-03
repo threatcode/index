@@ -4,3 +4,7 @@ web.mit.edu/dramashop/Dramashop_WAMP/bin/mysql/mys...,http://web.mit.edu/dramash
 download.caltech.se/download/fluke/SQLFULL_ENU/x64...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x64/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/cxmsl78r.sql
 https://api.pgxn.org/src/powa/powa-4.1.3/powa--4.1...,https://api.pgxn.org/src/powa/powa-4.1.3/powa--4.1.1.sql
 """Fossies"" - the Fresh Open Source Software Archive",https://fossies.org/linux/misc/mariadb-10.11.5.tar.gz/mariadb-10.11.5/storage/columnstore/columnstore/utils/winport/win_setup_mysql_part1.sql
+mysql/scripts/fill_help_tables.sql at master - GitHub,https://github.com/google/mysql/blob/master/scripts/fill_help_tables.sql
+powa--4.1.3.sql - GitHub,https://github.com/powa-team/powa-archivist/blob/master/powa--4.1.3.sql
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x86/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/instmsdb.sql
+powa--4.1.2 - PGXN,https://api.pgxn.org/src/powa/powa-4.1.4/powa--4.1.2--4.1.3.sql
