@@ -3152,6 +3152,7 @@ alkanets
 alkene
 alkenes
 alkie
+alkies
 alkine
 alkoxide
 alkoxides
@@ -4919,6 +4920,7 @@ animatenesses
 animater
 animaters
 animates
+animating
 animation
 animatism
 animatisms
@@ -13847,6 +13849,7 @@ bionomists
 bionomy
 biont
 biontic
+biophilia
 biophilias
 biophysical
 biophysicists
@@ -18217,6 +18220,7 @@ bunkmates
 bunko
 bunkoed
 bunkoing
+bunkos
 bunks
 bunkums
 bunn
@@ -19764,6 +19768,7 @@ canaries
 canary
 canasta
 canastas
+cancan
 cancans
 cancel
 cancelation
@@ -31599,6 +31604,7 @@ cozey
 cozeys
 cozie
 cozied
+cozier
 coziest
 cozily
 coziness
@@ -33916,6 +33922,7 @@ cyclostyling
 cyclothymia
 cyclothymias
 cyclothymic
+cyclotomic
 cyclotron
 cyclotrons
 cyder
@@ -36621,6 +36628,7 @@ democrat
 democratic
 democratically
 democratization
+democratize
 democratized
 democratizer
 democratizers
@@ -53791,6 +53799,7 @@ flophouses
 flopover
 flopovers
 flopped
+flopper
 floppers
 floppier
 floppies
@@ -59350,6 +59359,7 @@ gleyings
 gleys
 glia
 gliadin
+gliadine
 gliadines
 gliadins
 glial
@@ -77721,6 +77731,7 @@ lading
 ladino
 ladinos
 ladle
+ladled
 ladleful
 ladlefuls
 ladler
@@ -84735,6 +84746,7 @@ meatinesses
 meatless
 meatloaf
 meatloaves
+meatmen
 meatpacking
 meatpackings
 meats
@@ -88316,6 +88328,7 @@ missionize
 missionized
 missionizer
 missionizers
+missionizes
 missionizing
 missions
 missis
@@ -93209,6 +93222,7 @@ nimbused
 nimbyness
 nimbynesses
 nimieties
+nimiety
 nimious
 nimmed
 nimming
@@ -98956,6 +98970,7 @@ outrate
 outrated
 outrates
 outrating
+outrave
 outraved
 outraves
 outraving
@@ -103389,6 +103404,7 @@ pattypan
 pattypans
 patulent
 patulous
+paty
 patzer
 patzers
 paucities
@@ -105907,6 +105923,7 @@ photocopy
 photocopying
 photocurrent
 photocurrents
+photodegradable
 photodetector
 photodetectors
 photodiodes
@@ -106303,6 +106320,7 @@ phytophagous
 phytoplankter
 phytoplankters
 phytoplankton
+phytoplanktonic
 phytoplanktons
 phytosociology
 phytosterol
@@ -107207,6 +107225,7 @@ pissant
 pissants
 pisser
 pissers
+pisses
 pissoir
 pissoirs
 pistache
@@ -110151,6 +110170,7 @@ poyous
 pozole
 pozoles
 pozzolan
+pozzolana
 pozzolanas
 pozzolanic
 pozzolans
@@ -111255,6 +111275,7 @@ premonitions
 premonitorily
 premonitory
 premoral
+premorse
 premune
 premunition
 premunitions
@@ -112251,6 +112272,7 @@ printabilities
 printability
 printable
 printed
+printer
 printeries
 printery
 printhead
@@ -115356,6 +115378,7 @@ quarrellers
 quarrelling
 quarrels
 quarrelsome
+quarrelsomeness
 quarried
 quarrier
 quarriers
@@ -119096,6 +119119,7 @@ reexposure
 reexposures
 reexpress
 reexpresses
+reexpressing
 ref
 reface
 refaced
@@ -122128,6 +122152,7 @@ resorters
 resorting
 resorts
 resought
+resound
 resounded
 resounding
 resounds
@@ -124960,6 +124985,7 @@ routh
 rouths
 routine
 routinely
+routines
 routing
 routinisms
 routinist
@@ -125079,6 +125105,7 @@ rubefacients
 rubel
 rubellas
 rubellite
+rubellites
 rubeola
 rubeolas
 rubes
@@ -137034,6 +137061,7 @@ sprees
 sprent
 sprier
 spriest
+sprig
 sprigged
 sprigger
 spriggers
@@ -138220,6 +138248,7 @@ stelae
 stelai
 stelar
 stele
+stelene
 steles
 stelic
 stella
@@ -144170,6 +144199,7 @@ tamarinds
 tamarins
 tamaris
 tamarisk
+tamarisks
 tamasha
 tamashas
 tambac
@@ -147286,6 +147316,7 @@ tidies
 tidiest
 tidily
 tidiness
+tidinesses
 tiding
 tidings
 tidy
@@ -148729,6 +148760,7 @@ touristic
 touristically
 tourists
 touristy
+tourmaline
 tourmalines
 tournament
 tournaments
@@ -149460,6 +149492,7 @@ transparency
 transparent
 transparentize
 transparentized
+transparentizes
 transparently
 transparentness
 transpersonal
@@ -158662,6 +158695,7 @@ virological
 virologically
 virologies
 virologist
+virologists
 virology
 viroses
 virosis
@@ -163819,6 +163853,7 @@ zeatins
 zebec
 zebeck
 zebecs
+zebra
 zebrafish
 zebrafishes
 zebraic
