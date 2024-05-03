@@ -8015,6 +8015,7 @@ assessable
 assessed
 assesses
 assessing
+assessment
 assessments
 assessor
 assessors
@@ -8263,6 +8264,7 @@ astronautical
 astronautically
 astronautics
 astronauts
+astronomer
 astronomers
 astronomic
 astronomical
@@ -16353,6 +16355,7 @@ bower
 bowerbird
 bowerbirds
 bowered
+boweries
 bowers
 bowery
 bowfin
@@ -18417,6 +18420,7 @@ burnisher
 burnishes
 burnishing
 burnishings
+burnoose
 burnoosed
 burnooses
 burnous
@@ -19752,6 +19756,7 @@ canalboats
 canaled
 canalicular
 canaliculi
+canaliculus
 canaling
 canalise
 canalised
@@ -24098,6 +24103,7 @@ chowsed
 chowses
 chowsing
 chowtime
+chowtimes
 chresard
 chresards
 chrestomathies
@@ -25841,6 +25847,7 @@ coadjutor
 coadjutors
 coadjutrices
 coadmire
+coadmires
 coadmit
 coadmits
 coadmitted
@@ -27026,6 +27033,7 @@ colloquiums
 colloquy
 collotype
 collotypies
+collotypy
 collude
 colluded
 colluder
@@ -27973,6 +27981,7 @@ compressional
 compressions
 compressive
 compressively
+compressor
 compressors
 comprisal
 comprisals
@@ -45474,6 +45483,7 @@ emoted
 emoter
 emoters
 emotes
+emoticon
 emoticons
 emoting
 emotion
@@ -48235,6 +48245,7 @@ ethane
 ethanes
 ethanol
 ethanolamine
+ethanolamines
 ethanols
 ethene
 ethenes
@@ -52068,6 +52079,7 @@ feudatory
 feuded
 feudists
 feuds
+feued
 feuilleton
 feuilletonism
 feuilletonisms
@@ -52371,6 +52383,7 @@ fighting
 fights
 figment
 figments
+figs
 figuline
 figulines
 figurable
@@ -53092,6 +53105,7 @@ flagellates
 flagellating
 flagellation
 flagellations
+flagellin
 flagellins
 flagellum
 flagellums
@@ -57350,6 +57364,7 @@ gambits
 gamble
 gambler
 gamblers
+gambles
 gambling
 gamboge
 gamboges
@@ -59918,6 +59933,7 @@ gobbet
 gobbets
 gobbing
 gobble
+gobbled
 gobbledegook
 gobbledegooks
 gobbledygook
@@ -67477,6 +67493,7 @@ hutzpas
 huzza
 huzzaed
 huzzah
+huzzahed
 huzzahing
 huzzahs
 huzzaing
@@ -71035,6 +71052,7 @@ infamy
 infancies
 infancy
 infant
+infanta
 infantas
 infante
 infantes
@@ -72735,6 +72753,7 @@ interlocks
 interlocutor
 interlocutors
 interlocutory
+interloop
 interlooped
 interlooping
 interloops
@@ -78189,6 +78208,7 @@ languishments
 languor
 languorous
 languorously
+languors
 langur
 laniard
 laniards
@@ -82209,6 +82229,7 @@ luteinizations
 luteinize
 luteinized
 luteinizes
+luteinizing
 luteins
 lutenist
 lutenists
@@ -99384,6 +99405,7 @@ outvotes
 outvoting
 outvying
 outwait
+outwaited
 outwaiting
 outwalk
 outwalked
@@ -108211,6 +108233,7 @@ plower
 plowers
 plowhead
 plowheads
+plowing
 plowland
 plowman
 plowmen
@@ -108395,6 +108418,7 @@ pneumatology
 pneumatolytic
 pneumatophore
 pneumatophores
+pneumococcal
 pneumococci
 pneumococcus
 pneumoconioses
@@ -118978,6 +119002,7 @@ reembroidering
 reembroiders
 reemerge
 reemergences
+reemerges
 reemerging
 reemission
 reemissions
@@ -130788,6 +130813,7 @@ sheikhdom
 sheikhdoms
 sheikhs
 sheiks
+sheila
 sheilas
 sheitan
 sheitans
@@ -132191,6 +132217,7 @@ silvered
 silverer
 silverers
 silverfish
+silverfishes
 silveriness
 silverinesses
 silvering
@@ -133309,6 +133336,7 @@ sleety
 sleeve
 sleeved
 sleevelets
+sleeves
 sleeving
 sleigh
 sleighed
@@ -138798,6 +138826,7 @@ stitch
 stitched
 stitcher
 stitcheries
+stitchers
 stitchery
 stitching
 stitchwort
@@ -142576,6 +142605,7 @@ survivalist
 survivalists
 survivals
 survivances
+survive
 survived
 surviver
 survivers
@@ -151476,6 +151506,7 @@ turn
 turnable
 turnabout
 turnabouts
+turnaround
 turnarounds
 turnbuckle
 turnbuckles
@@ -156336,6 +156367,7 @@ uproariously
 uproariousness
 uproars
 uproot
+uprootal
 uprootals
 uprooted
 uprootedness
@@ -159458,6 +159490,7 @@ vulgarize
 vulgarizer
 vulgarizers
 vulgarizing
+vulgarly
 vulgars
 vulgate
 vulgo
@@ -160020,6 +160053,7 @@ warning
 warnings
 warns
 warp
+warpage
 warpages
 warpath
 warpaths
@@ -161406,6 +161440,7 @@ whitewoods
 whitey
 whither
 whithersoever
+whitherward
 whitier
 whities
 whitiest
