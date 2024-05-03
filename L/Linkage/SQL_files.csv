@@ -7,3 +7,12 @@ Source of data_test.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/z
 Source of data_test.sql - Zabbix - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/ui/tests/selenium/data/data_test.sql%3Fat%3D4072a368f7664f89ba66192eb673df715b27edf2
 stylelinkage.jp/m-shigoto/app/Config/Schema/db_acl.sql,http://stylelinkage.jp/m-shigoto/app/Config/Schema/db_acl.sql
 Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/bfceae7dfe2d8bb3dcd37e56b541a69b9a99738c/Open-ILS/src/sql/Pg/upgrade/0197.schema.metabib.allow-multiple-insert-streams.sql
+ICNARC-to-Philips-Linkage/variable_location_in_ICCA.sql at master,https://github.com/UHBristolDataScience/ICNARC-to-Philips-Linkage/blob/master/variable_location_in_ICCA.sql
+https://reshare.ukdataservice.ac.uk/854942/8/Data_...,https://reshare.ukdataservice.ac.uk/854942/8/Data_cleaning.sql
+Source of data_test.sql - Zabbix - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/tests/data/data_test.sql%3Fat%3Dc31abc45106a2542070639c91cadd0b53c8db778
+Open-ILS/src/sql/Pg/upgrade/0720.schema ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/5e65e3026cf2165bf57b04216ccd0534f722fe03/Open-ILS/src/sql/Pg/upgrade/0720.schema.copy_loc_circ_limits.sql
+Source of data_test.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/diff/tests/data/data_test.sql%3FautoSincePath%3Dfalse%26since%3Df6fea46c6ce2713303c6b4a3631537a5e5ef5581%26until%3Dfc53554bb5ddfbc41467a426e355ad325f5f82f7%26at%3D3f38590a4eb
+https://confluence.crbs.ucsd.edu/download/attachme...,https://confluence.crbs.ucsd.edu/download/attachments/12648565/ccdb-postgres-v3.1.sql
+Source of posda_queries_data.sql - oneposda - imphub Git Manager,https://code.imphub.org/projects/PT/repos/oneposda/browse/Posda/sql/posda_queries_data.sql%3Fat%3D5e6002f1209fd585dcfdcec74153b271d573e524
+https://raw.githubusercontent.com/sonassi/magento-...,https://raw.githubusercontent.com/sonassi/magento-sample-data/1.9.0.0/magento_sample_data_for_1.9.0.0.sql
+Open-ILS/src/sql/Pg/upgrade/0410.schema ... - GitLab,https://git.gapines.org/csharp/Evergreen/-/blob/5e65e3026cf2165bf57b04216ccd0534f722fe03/Open-ILS/src/sql/Pg/upgrade/0410.schema.allow_parallel_reingest.sql
