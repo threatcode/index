@@ -698,6 +698,7 @@ achalasias
 ache
 ached
 achene
+achenes
 achenial
 aches
 achier
@@ -4572,6 +4573,7 @@ anchored
 anchoress
 anchoresses
 anchoret
+anchorets
 anchorite
 anchorites
 anchoritic
@@ -6212,6 +6214,7 @@ aphoristic
 aphoristically
 aphorists
 aphorize
+aphorized
 aphorizer
 aphorizers
 aphorizes
@@ -6389,6 +6392,7 @@ aposematic
 aposematically
 aposiopeses
 aposiopesis
+aposiopetic
 aposporic
 apospories
 aposporous
@@ -7575,6 +7579,7 @@ arteries
 arteriogram
 arteriograms
 arteriographic
+arteriographies
 arteriography
 arteriolar
 arteriole
@@ -7905,6 +7910,7 @@ asphaltic
 asphaltite
 asphaltites
 asphalts
+asphaltum
 asphaltums
 aspheric
 aspherical
@@ -9425,6 +9431,7 @@ awaked
 awaken
 awakened
 awakener
+awakeners
 awakening
 awakenings
 awakes
@@ -11949,6 +11956,7 @@ bedwarfs
 bedwarmer
 bedwarmers
 bedwetter
+bedwetters
 bee
 beebee
 beebees
@@ -38832,6 +38840,7 @@ dichroscope
 dichroscopes
 dicier
 diciest
+dicing
 dickcissel
 dickcissels
 dicked
@@ -38935,6 +38944,7 @@ didoes
 didos
 didy
 didymium
+didymous
 didynamies
 didynamy
 die
@@ -41977,6 +41987,7 @@ doomed
 doomful
 doomfully
 doomier
+doomiest
 doomily
 dooming
 dooms
@@ -45629,6 +45640,7 @@ emotionalisms
 emotionalist
 emotionalistic
 emotionalists
+emotionality
 emotionalize
 emotionalized
 emotionalizes
@@ -62906,6 +62918,7 @@ hairworks
 hairworm
 hairworms
 hairy
+haj
 hajes
 haji
 hajjes
@@ -70904,6 +70917,7 @@ indignant
 indignantly
 indignation
 indignations
+indignities
 indignity
 indignly
 indigo
@@ -82726,6 +82740,7 @@ macaroni
 macaronic
 macaronics
 macaronies
+macaronis
 macaroon
 macaroons
 macaw
@@ -84278,6 +84293,7 @@ marriageable
 marriages
 married
 marrieds
+marrier
 marriers
 marries
 marring
@@ -85027,6 +85043,7 @@ meant
 meantime
 meantimes
 meanwhile
+meanwhiles
 meany
 measled
 measles
@@ -88158,6 +88175,7 @@ misery
 mises
 misesteem
 misesteemed
+misesteeming
 misesteems
 misestimate
 misestimated
@@ -90066,6 +90084,7 @@ morbidnesses
 morbific
 morbilli
 morceau
+morceaux
 mordacities
 mordacity
 mordancies
@@ -90996,6 +91015,7 @@ multimegaton
 multimegawatt
 multimegawatts
 multimember
+multimetallic
 multimillion
 multimodal
 multimode
@@ -91694,6 +91714,7 @@ myna
 mynah
 mynahs
 mynas
+mynheer
 mynheers
 myoblast
 myoblasts
@@ -97037,6 +97058,7 @@ oleaginousness
 oleander
 oleanders
 oleandomycins
+oleaster
 oleate
 oleates
 olecranal
@@ -99107,6 +99129,7 @@ outlaw
 outlawed
 outlawing
 outlawry
+outlaws
 outlay
 outleading
 outleads
@@ -102161,6 +102184,7 @@ palmettes
 palmetto
 palmettoes
 palmettos
+palmful
 palmfuls
 palmier
 palmiest
@@ -107868,6 +107892,7 @@ plage
 plages
 plagiaries
 plagiarise
+plagiarised
 plagiarises
 plagiarising
 plagiarism
@@ -115422,6 +115447,7 @@ pyrethrum
 pyrethrums
 pyretic
 pyrex
+pyrexes
 pyrexia
 pyrexial
 pyrexias
@@ -125744,6 +125770,7 @@ ruinated
 ruinates
 ruinating
 ruinations
+ruined
 ruiner
 ruing
 ruinous
@@ -129118,6 +129145,7 @@ seasonally
 seasonals
 seasoned
 seasoner
+seasoners
 seasoning
 seasonings
 seasonless
@@ -136817,6 +136845,7 @@ sphered
 spheres
 spheric
 spherical
+spherically
 sphericities
 sphericity
 spherier
@@ -138637,6 +138666,7 @@ steals
 stealth
 stealthier
 stealthiest
+stealthily
 stealthiness
 stealthinesses
 stealths
@@ -138650,6 +138680,7 @@ steamering
 steamers
 steamfitter
 steamfitters
+steamier
 steamiest
 steamily
 steaminess
@@ -140372,6 +140403,7 @@ stumping
 stumps
 stumpy
 stums
+stun
 stung
 stunned
 stunners
@@ -145486,6 +145518,7 @@ teaseler
 teaselers
 teaseling
 teaselled
+teaseller
 teasellers
 teasels
 teaser
@@ -149216,6 +149249,7 @@ totalitarians
 totalities
 totality
 totalizator
+totalizators
 totalized
 totalizers
 totalizes
@@ -160798,6 +160832,7 @@ watchmaker
 watchmakers
 watchmaking
 watchmakings
+watchman
 watchmen
 watchout
 watchouts
