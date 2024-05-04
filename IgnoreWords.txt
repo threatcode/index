@@ -806,6 +806,7 @@ acinus
 ackee
 ackees
 acknowledge
+acknowledged
 acknowledgedly
 acknowledgement
 acknowledges
@@ -8495,6 +8496,7 @@ atonalisms
 atonalist
 atonalists
 atonalities
+atonality
 atonally
 atone
 atoneable
@@ -10771,6 +10773,7 @@ barbets
 barbette
 barbettes
 barbican
+barbicans
 barbicel
 barbicels
 barbie
@@ -18524,6 +18527,7 @@ burnies
 burningly
 burnings
 burnish
+burnished
 burnisher
 burnishes
 burnishing
@@ -19192,6 +19196,7 @@ cadency
 cadent
 cadential
 cadenza
+cadenzas
 cades
 cadets
 cadetship
@@ -21164,6 +21169,7 @@ cartoonlike
 cartoons
 cartoony
 cartop
+cartopper
 cartoppers
 cartouch
 cartouche
@@ -24170,6 +24176,7 @@ choreograph
 choreographed
 choreographer
 choreographers
+choreographic
 choreographies
 choreographing
 choreographs
@@ -27947,6 +27954,7 @@ comperes
 compering
 compete
 competed
+competences
 competencies
 competency
 competent
@@ -29416,6 +29424,7 @@ consuls
 consulship
 consulships
 consult
+consultancy
 consultant
 consultants
 consultantship
@@ -32423,6 +32432,7 @@ cricked
 cricket
 cricketed
 cricketer
+cricketers
 cricketing
 crickets
 crickey
@@ -35548,6 +35558,7 @@ decimator
 decimators
 decimeter
 decimeters
+decimetre
 decimetres
 decipher
 decipherable
@@ -52457,6 +52468,7 @@ fiberlike
 fibers
 fiberscope
 fiberscopes
+fibranne
 fibrannes
 fibreboard
 fibreboards
@@ -60834,6 +60846,7 @@ grabble
 grabbled
 grabbler
 grabblers
+grabbles
 grabbling
 grabby
 graben
@@ -61761,6 +61774,7 @@ groat
 groats
 grocer
 groceries
+grocers
 grocery
 grodier
 grodiest
@@ -70428,6 +70442,7 @@ incapacitation
 incapacitations
 incapacities
 incapacity
+incarcerate
 incarcerated
 incarcerates
 incarcerating
@@ -70584,6 +70599,7 @@ inclosed
 incloser
 inclosers
 incloses
+inclosing
 inclosure
 inclosures
 includable
@@ -75870,6 +75886,7 @@ jouals
 jouk
 jouked
 jouking
+jouks
 joule
 joules
 jounce
@@ -81243,6 +81260,7 @@ lithotripters
 lithotriptor
 lithotriptors
 litigable
+litigant
 litigants
 litigate
 litigated
@@ -85158,6 +85176,7 @@ mazed
 mazedly
 mazedness
 mazednesses
+mazelike
 mazeltov
 mazer
 mazers
@@ -90870,6 +90889,7 @@ mozo
 mozos
 mozzarella
 mozzarellas
+mozzetta
 mozzettas
 mozzette
 mridanga
@@ -95627,6 +95647,7 @@ normalize
 normalized
 normalizer
 normalizers
+normalizes
 normalizing
 normally
 normals
@@ -98172,6 +98193,7 @@ organochlorines
 organogeneses
 organogenesis
 organoleptic
+organologies
 organology
 organomercurial
 organometallic
@@ -107418,6 +107440,7 @@ pilewort
 pileworts
 pilfer
 pilferable
+pilferage
 pilferages
 pilfered
 pilferer
@@ -108263,6 +108286,7 @@ planisher
 planishers
 planishes
 planishing
+planisphere
 planispheres
 planispheric
 plank
@@ -121208,6 +121232,7 @@ relubrications
 relucent
 reluct
 reluctance
+reluctances
 reluctancies
 reluctancy
 reluctant
@@ -123024,6 +123049,7 @@ respools
 respot
 respots
 respotted
+respotting
 resprang
 respray
 resprayed
@@ -132133,6 +132159,7 @@ shoppers
 shoppes
 shopping
 shoppings
+shops
 shoptalk
 shopwindow
 shopwindows
@@ -133242,6 +133269,7 @@ sinlessness
 sinlessnesses
 sinned
 sinner
+sinners
 sinning
 sinoatrial
 sinological
@@ -135795,6 +135823,7 @@ solferino
 solferinos
 solgel
 soli
+solicit
 solicitant
 solicitants
 solicitation
@@ -142506,6 +142535,7 @@ sunscalds
 sunscreen
 sunscreening
 sunscreens
+sunseeker
 sunseekers
 sunset
 sunsets
@@ -144328,6 +144358,7 @@ synchronic
 synchronical
 synchronically
 synchronicities
+synchronicity
 synchronies
 synchronisation
 synchronise
@@ -146718,6 +146749,7 @@ teriyakis
 term
 termagant
 termagants
+termed
 termer
 termers
 terminable
@@ -146889,6 +146921,7 @@ tessellated
 tessellates
 tessellating
 tessellation
+tessellations
 tessera
 tesseract
 tesseracts
@@ -151245,6 +151278,7 @@ trilogy
 trim
 trimaran
 trimarans
+trimer
 trimeric
 trimerism
 trimerisms
@@ -156322,6 +156356,7 @@ unsatisfactory
 unsatisfied
 unsaturate
 unsaturated
+unsaturates
 unsaved
 unsavory
 unsavoury
