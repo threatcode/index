@@ -1845,6 +1845,7 @@ aerophyte
 aerophytes
 aeroplane
 aeroplanes
+aeropulse
 aeropulses
 aerosat
 aerosats
@@ -2927,6 +2928,7 @@ alerting
 alertly
 alertness
 alertnesses
+alerts
 ales
 aleuron
 aleurone
@@ -3955,6 +3957,7 @@ amiablenesses
 amiably
 amianthus
 amianthuses
+amiantus
 amiantuses
 amias
 amicabilities
@@ -7481,6 +7484,7 @@ arrearage
 arrearages
 arrears
 arrest
+arrestant
 arrestants
 arrested
 arrestee
@@ -10697,6 +10701,7 @@ baptismally
 baptisms
 baptist
 baptisteries
+baptistery
 baptistry
 baptists
 baptize
@@ -15741,6 +15746,7 @@ bonhomies
 bonhomous
 boniato
 boniatos
+bonier
 boniest
 boniface
 bonifaces
@@ -27199,6 +27205,7 @@ cologarithms
 cologne
 cologned
 colognes
+cologs
 colombard
 colon
 colone
@@ -30092,6 +30099,7 @@ copals
 coparcenaries
 coparcenary
 coparcener
+coparent
 coparented
 coparenting
 coparents
@@ -42809,6 +42817,7 @@ dreamful
 dreamfully
 dreamfulness
 dreamfulnesses
+dreamier
 dreamily
 dreaminess
 dreaminesses
@@ -53416,6 +53425,7 @@ flakily
 flakiness
 flakinesses
 flaking
+flaky
 flam
 flambe
 flambeau
@@ -60093,6 +60103,7 @@ glycosylations
 glycosyls
 glycyl
 glycyls
+glyph
 glyphic
 glyphs
 glyptic
@@ -66232,6 +66243,7 @@ holier
 holies
 holiest
 holily
+holiness
 holinesses
 holing
 holism
@@ -66535,6 +66547,7 @@ homologation
 homologations
 homologic
 homological
+homologically
 homologies
 homologize
 homologized
@@ -76819,6 +76832,7 @@ keynoters
 keynotes
 keynoting
 keypad
+keypads
 keypal
 keypals
 keypunch
@@ -84278,6 +84292,7 @@ marijuanas
 marimba
 marimbas
 marimbist
+marimbists
 marina
 marinade
 marinaded
@@ -85491,6 +85506,7 @@ megaspore
 megaspores
 megasporic
 megasporophyll
+megasporophylls
 megass
 megasse
 megasses
@@ -89126,6 +89142,7 @@ moatlike
 moats
 mob
 mobbed
+mobber
 mobbers
 mobbing
 mobbish
@@ -93136,6 +93153,7 @@ netherworld
 netherworlds
 netiquette
 netiquettes
+netizen
 netizens
 netless
 netlike
@@ -93227,6 +93245,7 @@ neurogenically
 neuroglia
 neuroglial
 neurohormonal
+neurohormone
 neurohormones
 neurohumoral
 neurohumors
@@ -102163,6 +102182,7 @@ paleobiological
 paleobiologies
 paleobiologist
 paleobiologists
+paleobiology
 paleobotanic
 paleobotanical
 paleobotanies
@@ -110912,6 +110932,7 @@ preaccused
 preaccuses
 preaccusing
 preach
+preached
 preacher
 preachers
 preaches
@@ -114086,6 +114107,7 @@ protestants
 protestation
 protestations
 protested
+protester
 protesters
 protesting
 protestor
@@ -116387,6 +116409,7 @@ quintuplicate
 quintuplicated
 quintuplicating
 quintupling
+quintuply
 quip
 quipped
 quipper
@@ -119347,6 +119370,7 @@ redlining
 redlinings
 redly
 rednecked
+rednecks
 redness
 rednesses
 redock
@@ -120582,6 +120606,7 @@ reindustrialize
 reined
 reinfect
 reinfected
+reinfection
 reinfections
 reinfects
 reinfestation
@@ -123787,6 +123812,7 @@ reversionary
 reversioner
 reversioners
 reversions
+reverso
 reversos
 revert
 revertant
@@ -124150,6 +124176,7 @@ rhinitis
 rhino
 rhinoceri
 rhinoceros
+rhinoceroses
 rhinologies
 rhinology
 rhinoplasties
@@ -125931,6 +125958,7 @@ ruinable
 ruinated
 ruinates
 ruinating
+ruination
 ruinations
 ruined
 ruiner
@@ -126938,6 +126966,7 @@ samlets
 samosa
 samosas
 samovar
+samovars
 samoyeds
 samp
 sampan
@@ -127091,6 +127120,7 @@ sanest
 sang
 sanga
 sangar
+sangaree
 sangarees
 sangars
 sangas
@@ -128863,6 +128893,7 @@ scrieving
 scrim
 scrimmage
 scrimmaged
+scrimmager
 scrimmagers
 scrimmages
 scrimmaging
@@ -132409,6 +132440,7 @@ siamese
 siameses
 sib
 sibb
+sibbs
 sibilance
 sibilances
 sibilancies
@@ -136092,6 +136124,7 @@ sordidness
 sordidnesses
 sordine
 sordines
+sordini
 sordor
 sordors
 sords
@@ -138421,6 +138454,7 @@ stakes
 staking
 stalactite
 stalactites
+stalactitic
 stalag
 stalagmite
 stalagmites
@@ -157820,6 +157854,7 @@ valerate
 valerates
 valerian
 valerians
+valeric
 vales
 valet
 valeted
