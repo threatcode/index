@@ -8,3 +8,12 @@ io.vertx.rxjava.ext.sql java code examples | Tabnine,https://www.tabnine.com/cod
 letarette.sql command - github.com/erkkah/letarette.sql - Go Packages,https://pkg.go.dev/github.com/erkkah/letarette.sql
 "writefreely/writefreely: A clean, Markdown-based publishing platform ...",https://code.as/writefreely/writefreely/src/commit/0d79057bae1dfb571ec0e7e55b04be57332da2af/schema.sql
 Source of add-person-table.sql - COVID-19 Borgerstatus - SDS ...,https://git.nspop.dk/projects/COM/repos/covid-19-borgerstatus/browse/compose/configuration/database/changesets/add-person-table.sql%3Fat%3DCR-191-improve-performance-on-views
+zed/docker-compose.sql at main · zed-industries/zed - GitHub,https://github.com/zed-industries/zed/blob/main/docker-compose.sql
+graphouse/docker/compose/init.sql at master - GitHub,https://github.com/ClickHouse/graphouse/blob/master/docker/compose/init.sql
+CockroachDB: .../compose/flyway/sql/V1__init.sql | Fossies,https://fossies.org/linux/cockroach/pkg/acceptance/compose/flyway/sql/V1__init.sql
+phpmyadmin/data/samplevideo_db.sql ... - Git OSDeC,https://git.osdec.gov.my/share/docker-compose/-/blob/915e844445eacb7f011688fa748e7a5b2654dd0a/phpmyadmin/data/samplevideo_db.sql
+…/create-db.sql · Gerrit Code Review,https://gerrit.o-ran-sc.org/r/c/nonrtric/%2B/6542/2/test/usecases/oruclosedlooprecovery/scriptversion/docker-compose-controlloop/config/db/create-db.sql
+chinook_songs.sql - GitHub,https://raw.githubusercontent.com/YugaByte/yugabyte-db/master/sample/chinook_songs.sql
+tangrun/docker-compose - Gitee,https://gitee.com/tangrunlive/docker-compose/blob/master/zipkin-mysql.sql
+non_communication.sql - gpf-iti-local-docker-compose - GitLab - IGN,https://gitlab.gpf-tech.ign.fr/geoplateforme/itineraire/gpf-iti-local-docker-compose/-/blob/main/geoplateforme/non_communication.sql
+letarette.sql command - github.com/erkkah/letarette.sql - Go Packages,https://pkg.go.dev/github.com/erkkah/letarette.sql

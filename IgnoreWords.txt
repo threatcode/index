@@ -1142,6 +1142,7 @@ adaptiveness
 adaptivenesses
 adaptivities
 adaptivity
+adaptor
 adapts
 adaxial
 add
@@ -1800,6 +1801,7 @@ aerodynamicists
 aerodynamics
 aerodyne
 aerodynes
+aeroelastic
 aeroelasticity
 aeroembolism
 aeroembolisms
@@ -2500,6 +2502,7 @@ ahistorical
 ahold
 ahorse
 ahoy
+ahs
 ahull
 ai
 aiblins
@@ -6446,6 +6449,7 @@ apostrophising
 apostrophize
 apostrophized
 apostrophizes
+apostrophizing
 apothecaries
 apothecary
 apothece
@@ -6607,6 +6611,7 @@ applicants
 application
 applications
 applicative
+applicatively
 applicator
 applicators
 applicatory
@@ -11869,6 +11874,7 @@ bedight
 bedighted
 bedights
 bedim
+bedimmed
 bedimple
 bedimples
 bedimpling
@@ -13948,6 +13954,7 @@ biopsy
 biopsying
 bioptic
 bioreactors
+bioregion
 bioregional
 bioregionalism
 bioregionalisms
@@ -23938,6 +23945,7 @@ chlorals
 chloramine
 chloramines
 chloramphenicol
+chlorate
 chlorates
 chlordan
 chlordanes
@@ -24070,6 +24078,7 @@ choleras
 choleric
 cholerically
 choleroid
+cholers
 cholestatic
 cholesteric
 cholesterol
@@ -28092,6 +28101,7 @@ comporting
 comportment
 comports
 compos
+compose
 composed
 composedly
 composedness
@@ -29522,6 +29532,7 @@ conte
 contemn
 contemned
 contemner
+contemners
 contemning
 contemnor
 contemnors
@@ -32233,6 +32244,7 @@ creditors
 credits
 creditworthy
 credo
+credos
 creds
 credulities
 credulity
@@ -43567,6 +43579,7 @@ dunam
 dunams
 dunce
 dunces
+dunches
 duncical
 duncish
 duncishly
@@ -47406,6 +47419,7 @@ ephor
 ephoral
 ephorates
 ephori
+ephors
 epiblast
 epiblastic
 epiblasts
@@ -54653,6 +54667,7 @@ foetus
 foetuses
 fog
 fogbows
+fogdog
 fogdogs
 fogey
 fogeyish
@@ -60399,6 +60414,7 @@ goitre
 goitres
 goitrogen
 goitrogenic
+goitrogenicity
 goitrogens
 goitrous
 golconda
@@ -64202,6 +64218,7 @@ hayloft
 haymaker
 haymakers
 haymow
+haymows
 hayrack
 hayrick
 hayride
@@ -66531,6 +66548,7 @@ homicidal
 homicidally
 homicide
 homicides
+homie
 homier
 homies
 homiest
@@ -76933,6 +76951,7 @@ keystroking
 keyway
 keyways
 keyword
+keywords
 khaddar
 khaddars
 khadi
@@ -86199,6 +86218,7 @@ mescluns
 mesdames
 mesdemoiselles
 meseemed
+meseems
 mesencephala
 mesencephalic
 mesenchymal
@@ -93964,6 +93984,7 @@ nitrofuran
 nitrofurans
 nitrogen
 nitrogenase
+nitrogenases
 nitrogenous
 nitrogens
 nitroglycerin
@@ -113804,6 +113825,7 @@ propellant
 propellants
 propelled
 propellent
+propellents
 propellers
 propelling
 propellor
@@ -115720,6 +115742,7 @@ pyrene
 pyrenes
 pyrenoid
 pyrenoids
+pyres
 pyrethrin
 pyrethrins
 pyrethroid
@@ -118444,6 +118467,7 @@ rebuys
 rec
 recalcitrance
 recalcitrances
+recalcitrancies
 recalcitrants
 recalculate
 recalculates
@@ -121096,6 +121120,7 @@ relegations
 relend
 relending
 relends
+relent
 relented
 relenting
 relentless
@@ -121303,6 +121328,7 @@ remarkers
 remarket
 remarketed
 remarketing
+remarkets
 remarking
 remarks
 remarque
@@ -127814,6 +127840,7 @@ savines
 saving
 savingly
 savings
+savins
 savior
 saviors
 saviour
@@ -130604,6 +130631,7 @@ septuplet
 septuplets
 septupling
 sepulcher
+sepulchered
 sepulchering
 sepulchers
 sepulchral
@@ -130624,6 +130652,7 @@ sequelae
 sequelize
 sequelized
 sequelizes
+sequelizing
 sequels
 sequence
 sequenced
@@ -135000,6 +135029,7 @@ snarky
 snarled
 snarler
 snarlier
+snarliest
 snarling
 snarls
 snarly
@@ -153004,6 +153034,7 @@ tzarina
 tzarinas
 tzarism
 tzarisms
+tzarist
 tzarists
 tzaritza
 tzaritzas
@@ -156033,6 +156064,7 @@ unpoised
 unpolarized
 unpoliced
 unpolished
+unpolite
 unpolitic
 unpolitical
 unpolled
@@ -157096,6 +157128,7 @@ upbows
 upbraid
 upbraided
 upbraider
+upbraiders
 upbraiding
 upbraids
 upbringing
@@ -157175,6 +157208,7 @@ upfront
 upgather
 upgathered
 upgathering
+upgathers
 upgaze
 upgazed
 upgazes
@@ -165025,6 +165059,7 @@ zesting
 zestless
 zests
 zeta
+zetas
 zettabyte
 zettabytes
 zeugma
