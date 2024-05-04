@@ -1288,6 +1288,7 @@ adjacences
 adjacencies
 adjacency
 adjacent
+adjacently
 adjectival
 adjectivally
 adjectively
@@ -8249,6 +8250,7 @@ astonishingly
 astonishment
 astonishments
 astony
+astonying
 astound
 astounded
 astounding
@@ -12957,6 +12959,7 @@ bestiality
 bestialize
 bestialized
 bestializes
+bestializing
 bestially
 bestiaries
 bestiary
@@ -15910,6 +15913,7 @@ bookshop
 bookstall
 bookstalls
 bookstand
+bookstands
 bookstore
 bookstores
 bookworm
@@ -21840,6 +21844,7 @@ cavalierism
 cavalierisms
 cavalierly
 cavaliers
+cavalla
 cavallas
 cavalletti
 cavallies
@@ -22066,6 +22071,7 @@ cellos
 cellphone
 cellphones
 cells
+cellular
 cellularities
 cellularity
 cellulars
@@ -29863,6 +29869,7 @@ convergencies
 convergency
 convergent
 converges
+converging
 conversable
 conversance
 conversances
@@ -35623,10 +35630,12 @@ declining
 declinists
 declivities
 declivitous
+declivity
 deco
 decoct
 decocted
 decocting
+decoction
 decoctions
 decoctive
 decocts
@@ -36967,6 +36976,7 @@ dempsters
 demulcent
 demulcents
 demulsified
+demulsifies
 demulsifying
 demultiplexer
 demultiplexers
@@ -37477,6 +37487,7 @@ depression
 depressions
 depressive
 depressively
+depressives
 depressor
 depressors
 depressurize
@@ -42183,6 +42194,7 @@ dormice
 dormie
 dormient
 dormin
+dormins
 dormitories
 dormitory
 dormouse
@@ -49441,6 +49453,7 @@ excruciating
 excruciation
 excruciations
 exculpate
+exculpated
 exculpates
 exculpating
 exculpation
@@ -64276,6 +64289,7 @@ headline
 headlined
 headliner
 headliners
+headlines
 headlock
 headlocks
 headlong
@@ -65599,6 +65613,7 @@ hibernation
 hibernations
 hibernator
 hibernators
+hibiscus
 hibiscuses
 hic
 hiccoughed
@@ -72970,6 +72985,7 @@ interdiffusion
 interdiffusions
 interdigitate
 interdigitated
+interdigitates
 interdigitating
 interdigitation
 interdistrict
@@ -80074,6 +80090,7 @@ levelheadedness
 leveling
 levelled
 leveller
+levellers
 levelling
 levelness
 levelnesses
@@ -81129,6 +81146,7 @@ litenesses
 liter
 literacies
 literacy
+literal
 literalism
 literalisms
 literalist
@@ -81665,6 +81683,7 @@ loganberry
 logania
 logans
 logaoedic
+logaoedics
 logarithm
 logarithmically
 logarithms
@@ -82370,6 +82389,7 @@ luculent
 lude
 ludes
 ludic
+ludicrous
 ludicrously
 ludicrousness
 ludicrousnesses
@@ -98493,6 +98513,7 @@ osmole
 osmoles
 osmols
 osmometer
+osmometers
 osmometric
 osmometries
 osmometry
@@ -104742,6 +104763,7 @@ peneplain
 peneplane
 peneplanes
 penes
+penetrabilities
 penetrability
 penetrable
 penetralia
@@ -108974,6 +108996,7 @@ plurals
 pluripotent
 plus
 pluses
+plush
 plusher
 plushes
 plushest
@@ -110459,6 +110482,7 @@ postmating
 postmedieval
 postmen
 postmenopausal
+postmidnight
 postmillenarian
 postmillennial
 postmistress
@@ -118115,6 +118139,7 @@ rearrangement
 rearrangements
 rearranges
 rearranging
+rearrest
 rearrested
 rearresting
 rearrests
@@ -125108,6 +125133,7 @@ rocket
 rocketed
 rocketeer
 rocketeers
+rocketer
 rocketers
 rocketing
 rocketries
@@ -129806,6 +129832,7 @@ segued
 segueing
 segues
 seguidilla
+seguidillas
 sei
 seicento
 seicentos
@@ -131484,6 +131511,7 @@ shedder
 shedders
 shedlike
 sheds
+sheen
 sheened
 sheeney
 sheeneys
@@ -133666,6 +133694,7 @@ skins
 skint
 skintight
 skioring
+skiorings
 skip
 skipjack
 skipjacks
@@ -134098,6 +134127,7 @@ sleeted
 sleetier
 sleetiest
 sleeting
+sleets
 sleety
 sleeve
 sleeved
@@ -134297,6 +134327,7 @@ slitlike
 slits
 slitted
 slitter
+slitters
 slittier
 slittiest
 slitting
@@ -143300,6 +143331,7 @@ surges
 surgical
 surgically
 surgy
+suricate
 suricates
 surimi
 surimis
@@ -154792,6 +154824,7 @@ uneducable
 uneducated
 uneffaced
 unelectable
+unelected
 unelectrified
 unembarrassed
 unembellished
@@ -156002,6 +156035,7 @@ unprinted
 unprivileged
 unprized
 unprobed
+unproblematic
 unprocessed
 unproduced
 unproductive
@@ -164831,6 +164865,7 @@ zappiest
 zapping
 zappy
 zaps
+zaptiah
 zaptiahs
 zaptieh
 zaptiehs
