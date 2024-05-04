@@ -3912,6 +3912,7 @@ amendment
 amendments
 amends
 amenities
+amenity
 amenorrhea
 amenorrheas
 amenorrheic
@@ -9871,6 +9872,7 @@ backhouses
 backing
 backings
 backland
+backlands
 backlash
 backlashed
 backlasher
@@ -12819,6 +12821,7 @@ beshivering
 beshivers
 beshout
 beshouted
+beshouting
 beshouts
 beshrew
 beshrewed
@@ -14445,6 +14448,7 @@ blameable
 blamed
 blameful
 blamefully
+blameless
 blamelessly
 blamelessness
 blamelessnesses
@@ -26557,6 +26561,7 @@ coextensive
 cofactor
 cofactors
 cofavorite
+cofavorites
 cofeature
 cofeatured
 cofeatures
@@ -32779,6 +32784,7 @@ crudest
 crudites
 crudities
 crudity
+cruds
 cruel
 crueler
 cruelest
@@ -34562,6 +34568,7 @@ danegelds
 danegelt
 danegelts
 daneweed
+daneweeds
 danewort
 daneworts
 danged
@@ -36641,6 +36648,7 @@ demeaning
 demeanor
 demeanors
 demeanour
+demeanours
 demeans
 dement
 demented
@@ -38028,6 +38036,7 @@ deterring
 detersive
 detersives
 detest
+detestable
 detestableness
 detestably
 detestation
@@ -53532,6 +53541,7 @@ flavonols
 flavoprotein
 flavoproteins
 flavor
+flavorer
 flavorers
 flavorful
 flavorfully
@@ -69010,6 +69020,7 @@ illuminism
 illuminisms
 illuminist
 illuminists
+illusion
 illusional
 illusionary
 illusionism
@@ -69353,6 +69364,7 @@ immunes
 immunise
 immunised
 immunises
+immunising
 immunities
 immunity
 immunization
@@ -72064,6 +72076,7 @@ insectile
 insectivore
 insectivores
 insectivorous
+insects
 insecure
 insecurely
 insecurenesses
@@ -73657,6 +73670,7 @@ invading
 invaginate
 invaginated
 invaginates
+invaginating
 invagination
 invaginations
 invalid
@@ -74475,6 +74489,7 @@ isoprenaline
 isoprenalines
 isoprene
 isoprenes
+isoprenoid
 isopropyl
 isopropyls
 isoproterenol
@@ -74860,6 +74875,7 @@ jampacked
 jams
 jane
 janes
+jangle
 jangler
 janglers
 jangles
@@ -98670,6 +98686,7 @@ outdaring
 outdate
 outdated
 outdatedness
+outdatednesses
 outdates
 outdating
 outdazzle
@@ -102351,6 +102368,7 @@ pannikins
 panning
 panocha
 panochas
+panoche
 panoches
 panoplied
 panoplies
@@ -108152,6 +108170,7 @@ playabilities
 playability
 playable
 playact
+playacted
 playacting
 playactings
 playactor
@@ -113174,6 +113193,7 @@ prolate
 prolately
 prole
 proleg
+prolegomena
 prolegomenous
 prolegs
 prolepses
@@ -125928,6 +125948,7 @@ ryked
 rykes
 ryking
 rynd
+rynds
 ryokan
 ryokans
 ryot
@@ -130018,6 +130039,7 @@ sensually
 sensum
 sensuosities
 sensuosity
+sensuous
 sensuously
 sensuousness
 sensuousnesses
@@ -132002,6 +132024,7 @@ shtiks
 shuck
 shucked
 shucker
+shuckers
 shucking
 shuckings
 shudder
@@ -136171,6 +136194,7 @@ spahees
 spahi
 spahis
 spail
+spait
 spaits
 spake
 spaldeen
@@ -146314,6 +146338,7 @@ terreen
 terreens
 terrella
 terrellas
+terrene
 terrenely
 terrenes
 terreplein
@@ -146923,6 +146948,7 @@ thermoelectric
 thermoelement
 thermoelements
 thermoform
+thermoformable
 thermoforming
 thermoforms
 thermogram
@@ -148126,6 +148152,7 @@ tippled
 tippler
 tipples
 tippy
+tippytoed
 tippytoeing
 tippytoes
 tips
@@ -148396,6 +148423,7 @@ toffy
 toft
 tofts
 tofu
+tofus
 tofutti
 tog
 toga
@@ -149878,6 +149906,7 @@ transliterated
 transliterates
 transliterating
 transliteration
+translocate
 translocated
 translocates
 translocating
@@ -151626,6 +151655,7 @@ tularemias
 tularemic
 tule
 tules
+tulip
 tulips
 tulipwood
 tulipwoods
@@ -151708,6 +151738,7 @@ tuna
 tunabilities
 tunability
 tunable
+tunableness
 tunablenesses
 tunably
 tunas
@@ -152881,6 +152912,7 @@ unalleviated
 unallied
 unallowed
 unalloyed
+unalluring
 unalterability
 unalterable
 unalterableness
@@ -157509,6 +157541,7 @@ valorously
 valors
 valour
 valours
+valpolicella
 valpolicellas
 valse
 valses
@@ -161600,6 +161633,7 @@ wherve
 wherves
 whether
 whets
+whetstone
 whetstones
 whetter
 whetters
@@ -164174,6 +164208,7 @@ yowlers
 yowling
 yowls
 yows
+yperite
 yperites
 ytterbia
 ytterbias
