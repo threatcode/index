@@ -8087,6 +8087,7 @@ assistance
 assistances
 assistant
 assistants
+assistantship
 assistantships
 assisters
 assisting
@@ -8126,6 +8127,7 @@ assonants
 assortative
 assortatively
 assorted
+assorter
 assorters
 assorting
 assortment
@@ -9974,6 +9976,7 @@ backstopped
 backstopping
 backstops
 backstreet
+backstreets
 backstretch
 backstretches
 backstroke
@@ -10114,6 +10117,7 @@ bagasses
 bagatelle
 bagatelles
 bagel
+bagels
 bagful
 bagfuls
 baggage
@@ -16604,6 +16608,7 @@ brags
 brahma
 brahmas
 braid
+braided
 braider
 braiders
 braiding
@@ -20786,6 +20791,7 @@ carillonning
 carillons
 carina
 carinae
+carinal
 carinas
 carinate
 carinated
@@ -39871,6 +39877,7 @@ discarder
 discarders
 discarding
 discards
+discarnate
 discase
 discased
 discases
@@ -41799,6 +41806,7 @@ domelike
 domes
 domesday
 domesdays
+domestically
 domesticate
 domesticated
 domesticates
@@ -52646,6 +52654,7 @@ filmers
 filmgoer
 filmgoers
 filmgoing
+filmi
 filmic
 filmically
 filmier
@@ -59147,6 +59156,7 @@ gingering
 gingerliness
 gingerlinesses
 gingerly
+gingerroot
 gingerroots
 gingers
 gingersnap
@@ -61414,6 +61424,7 @@ grigris
 grigs
 grill
 grillade
+grillades
 grillages
 grille
 grilled
@@ -61724,6 +61735,7 @@ groused
 grouser
 grousers
 grouses
+grousing
 grout
 grouted
 grouter
@@ -65938,6 +65950,7 @@ hocker
 hockers
 hockey
 hockeys
+hocking
 hocks
 hockshop
 hockshops
@@ -69663,6 +69676,7 @@ impetrating
 impetration
 impetrations
 impetuosities
+impetuosity
 impetuous
 impetuously
 impetuousness
@@ -70544,6 +70558,7 @@ increaser
 increasers
 increases
 increasing
+increasingly
 increate
 incredibilities
 incredibility
@@ -71184,6 +71199,7 @@ inexistent
 inexorabilities
 inexorability
 inexorable
+inexorableness
 inexorably
 inexpedience
 inexpediences
@@ -77147,6 +77163,7 @@ kitschified
 kitschifies
 kitschify
 kitschifying
+kitschy
 kitted
 kittel
 kitten
@@ -91029,6 +91046,7 @@ multisite
 multisize
 multiskilled
 multisource
+multispecies
 multispectral
 multisport
 multistage
@@ -99801,6 +99819,7 @@ overaccentuated
 overaccentuates
 overachieve
 overachieved
+overachievement
 overachiever
 overachievers
 overachieves
@@ -101654,6 +101673,7 @@ packer
 packers
 packet
 packeted
+packeting
 packets
 packhorse
 packhorses
@@ -104312,6 +104332,7 @@ pellagra
 pellagras
 pellagrin
 pellagrous
+pellet
 pelletal
 pelleted
 pelleting
@@ -106732,6 +106753,7 @@ picaresques
 picaro
 picaroon
 picarooning
+picaroons
 picaros
 picas
 picayunes
@@ -108721,6 +108743,7 @@ pneumographs
 pneumonectomies
 pneumonectomy
 pneumonias
+pneumonic
 pneumonitis
 pneumonitises
 pneumothorax
@@ -112782,6 +112805,7 @@ probationer
 probationers
 probations
 probative
+probatory
 probe
 probed
 probenecid
@@ -113176,6 +113200,7 @@ projets
 prokaryote
 prokaryotes
 prokaryotic
+prolabor
 prolactin
 prolactins
 prolamin
@@ -117906,6 +117931,7 @@ reb
 rebait
 rebaited
 rebaiting
+rebaits
 rebalance
 rebalanced
 rebalances
@@ -137022,6 +137048,7 @@ spiritualist
 spiritualistic
 spiritualists
 spiritualities
+spirituality
 spiritualize
 spiritualized
 spiritualizes
@@ -140268,6 +140295,7 @@ stultify
 stultifying
 stum
 stumble
+stumblebum
 stumblebums
 stumbled
 stumbler
@@ -143611,6 +143639,7 @@ sybarites
 sybaritic
 sybaritically
 sybaritism
+sybaritisms
 sybo
 syboes
 sycamine
@@ -145507,6 +145536,7 @@ tediously
 tediousness
 tediousnesses
 tedium
+tediums
 teds
 tee
 teed
@@ -150149,6 +150179,7 @@ traumatize
 traumatizes
 traumatizing
 travail
+travailed
 travailing
 travails
 trave
@@ -155599,6 +155630,7 @@ unquietness
 unquietnesses
 unquiets
 unquote
+unquoted
 unquotes
 unquoting
 unraised
@@ -158236,6 +158268,7 @@ ventails
 vented
 venter
 venters
+ventifact
 ventifacts
 ventilated
 ventilates
@@ -161715,6 +161748,7 @@ whingeing
 whinger
 whingers
 whinges
+whinging
 whinier
 whiniest
 whininess
@@ -163414,6 +163448,7 @@ wreathers
 wreathes
 wreathing
 wreaths
+wreathy
 wreck
 wreckage
 wreckages
