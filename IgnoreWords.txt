@@ -1787,6 +1787,7 @@ aerobrake
 aerobraked
 aerobrakes
 aerobraking
+aerodrome
 aerodromes
 aeroduct
 aeroducts
@@ -12990,6 +12991,7 @@ bet
 beta
 betaine
 betaines
+betake
 betaken
 betakes
 betaking
@@ -13569,6 +13571,7 @@ bilinguals
 bilious
 biliousness
 biliousnesses
+bilirubin
 bilirubins
 biliverdin
 biliverdins
@@ -14372,6 +14375,7 @@ blackdamps
 blacked
 blackened
 blackener
+blackening
 blackenings
 blacker
 blackest
@@ -16571,6 +16575,7 @@ brachets
 brachia
 brachial
 brachials
+brachiate
 brachiated
 brachiates
 brachiating
@@ -20600,6 +20605,7 @@ carbonara
 carbonaras
 carbonate
 carbonated
+carbonates
 carbonating
 carbonation
 carbonations
@@ -22733,6 +22739,7 @@ changeful
 changefully
 changefulness
 changefulnesses
+changeless
 changelessly
 changelessness
 changeling
@@ -23658,6 +23665,7 @@ chimb
 chimbley
 chimbleys
 chimbly
+chimbs
 chime
 chimed
 chimer
@@ -41632,6 +41640,7 @@ dodecahedra
 dodecahedron
 dodecaphonic
 dodecaphonies
+dodecaphonist
 dodecaphony
 dodge
 dodgeball
@@ -44021,6 +44030,7 @@ earthiness
 earthinesses
 earthing
 earthlier
+earthliest
 earthlight
 earthlights
 earthlike
@@ -44350,6 +44360,7 @@ ectomeres
 ectomeric
 ectomorph
 ectomorphic
+ectomorphs
 ectoparasite
 ectoparasites
 ectoparasitic
@@ -44419,6 +44430,7 @@ edged
 edgeless
 edger
 edgers
+edgeways
 edgier
 edgiest
 edgily
@@ -49001,6 +49013,7 @@ every
 everybody
 everyday
 everydayness
+everydaynesses
 everyman
 everymen
 everyone
@@ -62402,6 +62415,7 @@ gunslingings
 gunsmith
 gunsmithing
 gunsmithings
+gunsmiths
 gunstock
 gunstocks
 gunwale
@@ -68642,6 +68656,7 @@ hypoxic
 hyps
 hypsometer
 hypsometers
+hypsometric
 hyraces
 hyracoid
 hyracoids
@@ -71321,6 +71336,7 @@ inexactitude
 inexactitudes
 inexactly
 inexactness
+inexactnesses
 inexcusable
 inexcusableness
 inexcusably
@@ -80318,6 +80334,7 @@ lienal
 liens
 lienteries
 lientery
+lier
 lierne
 liernes
 liers
@@ -92599,6 +92616,7 @@ nebulas
 nebule
 nebulise
 nebulised
+nebulises
 nebulizations
 nebulize
 nebulized
@@ -95893,6 +95911,7 @@ nuder
 nudes
 nudest
 nudge
+nudged
 nudger
 nudgers
 nudges
@@ -98385,6 +98404,7 @@ osmically
 osmics
 osmious
 osmiridium
+osmiridiums
 osmium
 osmiums
 osmol
@@ -110999,6 +111019,7 @@ preaxial
 prebade
 prebake
 prebaked
+prebaking
 prebasal
 prebattle
 prebend
@@ -117703,6 +117724,7 @@ reaccelerating
 reaccent
 reaccented
 reaccenting
+reaccents
 reaccept
 reaccepted
 reaccepting
@@ -118389,6 +118411,7 @@ recency
 recensions
 recensor
 recensored
+recensoring
 recent
 recenter
 recentest
@@ -119546,6 +119569,7 @@ reels
 reembark
 reembarked
 reembarks
+reembodied
 reembodies
 reembody
 reembodying
@@ -124169,6 +124193,7 @@ rhodochrosite
 rhodochrosites
 rhododendron
 rhododendrons
+rhodolite
 rhodolites
 rhodomontade
 rhodomontades
@@ -127805,6 +127830,7 @@ scaled
 scaleless
 scalelike
 scalene
+scalepan
 scalepans
 scaler
 scalers
@@ -128327,6 +128353,7 @@ schoolroom
 schoolrooms
 schools
 schoolteachers
+schooltime
 schooltimes
 schoolwork
 schoolworks
@@ -130477,6 +130504,7 @@ seraglios
 serai
 serail
 serails
+serais
 seral
 serape
 seraph
@@ -133119,6 +133147,7 @@ sip
 sipe
 siped
 sipes
+siphon
 siphonage
 siphonages
 siphonal
@@ -147178,6 +147207,7 @@ theremin
 theremins
 thereof
 thereon
+theres
 thereto
 theretofore
 thereunder
@@ -155429,6 +155459,7 @@ unleadeds
 unleading
 unleads
 unlearn
+unlearnable
 unlearned
 unlearning
 unlearns
@@ -159425,6 +159456,7 @@ violinists
 violins
 violist
 violists
+violoncelli
 violoncellist
 violoncellists
 violoncello
@@ -159583,6 +159615,7 @@ viscount
 viscountcies
 viscountcy
 viscountess
+viscountesses
 viscounties
 viscounts
 viscounty
@@ -161691,6 +161724,7 @@ wentletraps
 wept
 were
 weregild
+weregilds
 werewolf
 werewolves
 wergeld
@@ -164828,6 +164862,7 @@ zincic
 zincifies
 zincify
 zincifying
+zincing
 zincite
 zincites
 zincked
