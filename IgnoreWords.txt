@@ -9431,6 +9431,7 @@ awarder
 awarders
 awarding
 awards
+aware
 awareness
 awarenesses
 awash
@@ -14076,6 +14077,7 @@ birdwatches
 birdwatching
 birefringence
 birefringences
+birefringent
 bireme
 biremes
 biretta
@@ -19513,6 +19515,7 @@ callus
 callused
 calluses
 calm
+calmative
 calmatives
 calmed
 calmer
@@ -23175,6 +23178,7 @@ cheering
 cheerio
 cheerlead
 cheerleader
+cheerleaders
 cheerleading
 cheerleads
 cheerled
@@ -26241,6 +26245,7 @@ cockneyism
 cockneyisms
 cockneys
 cockpits
+cockroaches
 cocks
 cockscomb
 cockscombs
@@ -34955,6 +34960,7 @@ deadlocks
 deadly
 deadman
 deadness
+deadpan
 deadpanned
 deadpanner
 deadpanners
@@ -43125,6 +43131,7 @@ dryopithecines
 drypoint
 drypoints
 drysalter
+drysalteries
 drysalters
 drysaltery
 drystone
@@ -44009,6 +44016,7 @@ eatings
 eats
 eau
 eaux
+eave
 eaved
 eaves
 eavesdropped
@@ -49377,6 +49385,7 @@ exercise
 exercised
 exerciser
 exercisers
+exercises
 exercising
 exercitation
 exercitations
@@ -49646,6 +49655,7 @@ expanded
 expander
 expanders
 expanding
+expandor
 expandors
 expanse
 expanses
@@ -65182,6 +65192,7 @@ hessonite
 hessonites
 hest
 hests
+het
 hetaera
 hetaerae
 hetaeras
@@ -68278,6 +68289,7 @@ hyphen
 hyphenate
 hyphenated
 hyphenates
+hyphenating
 hyphenation
 hyphenations
 hyphened
@@ -69098,6 +69110,7 @@ imbeciles
 imbecilities
 imbed
 imbedded
+imbedding
 imbeds
 imbibe
 imbibed
@@ -85418,6 +85431,7 @@ mellowly
 mellowness
 mellownesses
 mells
+melodeon
 melodeons
 melodia
 melodias
@@ -91682,6 +91696,7 @@ myrmecology
 myrmecophile
 myrmecophiles
 myrmecophilous
+myrmidon
 myrmidones
 myrmidons
 myrobalan
@@ -104481,6 +104496,7 @@ pennis
 pennon
 pennoncel
 pennoncels
+pennoned
 pennons
 penny
 pennycress
@@ -105712,6 +105728,7 @@ phagocytizing
 phagocytosed
 phagocytoses
 phagocytosing
+phagocytosis
 phagocytotic
 phagosomes
 phalangal
@@ -106474,6 +106491,7 @@ pht
 phthalate
 phthalates
 phthalein
+phthalic
 phthalin
 phthalins
 phthalocyanine
@@ -109343,6 +109361,7 @@ polyphones
 polyphonic
 polyphonically
 polyphonies
+polyphonous
 polyphonously
 polyphony
 polypi
@@ -109501,6 +109520,7 @@ ponderously
 ponderousness
 ponders
 ponding
+ponds
 pondweed
 pondweeds
 pone
@@ -113274,6 +113294,7 @@ promotive
 promotiveness
 promotivenesses
 prompt
+promptbook
 promptbooks
 prompted
 prompter
@@ -115480,6 +115501,7 @@ quacksalvers
 quacky
 quad
 quadded
+quadding
 quadplex
 quadplexes
 quadrangle
@@ -116993,6 +117015,7 @@ rapeseed
 rapeseeds
 raphae
 raphe
+raphes
 raphia
 raphias
 raphides
@@ -117500,6 +117523,7 @@ reactor
 reactors
 reacts
 read
+readabilities
 readability
 readable
 readableness
@@ -119001,6 +119025,7 @@ rediscussed
 rediscusses
 rediscussing
 redisplay
+redisplayed
 redisplaying
 redisplays
 redispose
@@ -124550,6 +124575,7 @@ riverwards
 riverweed
 riverweeds
 rives
+rivet
 riveted
 riveter
 riveters
@@ -124592,6 +124618,7 @@ roadkills
 roadless
 roadrunner
 roadrunners
+roads
 roadshow
 roadshows
 roadsides
@@ -134726,6 +134753,7 @@ snoozling
 snoozy
 snore
 snored
+snorer
 snorers
 snores
 snoring
@@ -139635,6 +139663,7 @@ strangleholds
 strangler
 stranglers
 strangles
+strangling
 strangulate
 strangulates
 strangulating
@@ -153581,6 +153610,7 @@ uncovered
 uncovering
 uncovers
 uncoy
+uncracked
 uncrate
 uncrated
 uncrating
@@ -155151,6 +155181,7 @@ unloveliness
 unlovelinesses
 unlovely
 unloving
+unluckier
 unluckiest
 unluckily
 unluckiness
@@ -155816,6 +155847,7 @@ unseeable
 unseemlier
 unseemliest
 unseemliness
+unseemlinesses
 unseemly
 unseen
 unsegmented
@@ -156095,6 +156127,7 @@ unsuccess
 unsuccesses
 unsuccessful
 unsuccessfully
+unsuitabilities
 unsuitable
 unsuitably
 unsuited
@@ -157540,6 +157573,7 @@ vampirish
 vampirism
 vampirisms
 vampish
+vampishly
 vamps
 vampy
 van
@@ -159779,6 +159813,7 @@ vouvray
 vouvrays
 vow
 vowed
+vowel
 vowelize
 vowelized
 vowelizes
