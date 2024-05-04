@@ -6203,6 +6203,7 @@ aphelia
 aphelian
 aphelion
 aphelions
+aphereses
 apheresis
 apheretic
 apheses
@@ -19533,6 +19534,7 @@ caliph
 caliphal
 caliphate
 caliphates
+caliphs
 calisaya
 calisayas
 calisthenic
@@ -20302,6 +20304,7 @@ capacitated
 capacitates
 capacitating
 capacitation
+capacitations
 capacities
 capacitive
 capacitor
@@ -20467,6 +20470,7 @@ capsulizing
 captain
 captaincies
 captained
+captaining
 captains
 captainship
 captainships
@@ -20481,6 +20485,7 @@ captiously
 captiousness
 captiousnesses
 captivated
+captivates
 captivation
 captivations
 captivator
@@ -37545,6 +37550,7 @@ deprogram
 deprogramed
 deprograming
 deprogrammer
+deprogrammers
 deprogramming
 deprograms
 depside
@@ -37938,6 +37944,7 @@ desorptions
 desoxy
 despair
 despaired
+despairer
 despairers
 despairingly
 despairs
@@ -44421,6 +44428,7 @@ ecotone
 ecotour
 ecotourism
 ecotourisms
+ecotourist
 ecotourists
 ecotours
 ecotype
@@ -45480,6 +45488,7 @@ embeddings
 embedment
 embedments
 embeds
+embellish
 embellished
 embellisher
 embellishers
@@ -45890,6 +45899,7 @@ employable
 employables
 employe
 employed
+employee
 employer
 employers
 employes
@@ -46669,6 +46679,7 @@ engrossments
 engs
 engulf
 engulfed
+engulfing
 engulfment
 engulfments
 enhalo
@@ -47568,6 +47579,7 @@ epigrapher
 epigraphers
 epigraphical
 epigraphies
+epigraphist
 epigraphists
 epigraphs
 epigraphy
@@ -62117,6 +62129,7 @@ grumpier
 grumpiest
 grumpily
 grumpiness
+grumpinesses
 grumping
 grumpish
 grumps
@@ -63958,6 +63971,7 @@ harrows
 harrumphed
 harrumphing
 harrumphs
+harry
 harrying
 harsh
 harshen
@@ -66432,6 +66446,7 @@ holometabolisms
 holometabolous
 holophrastic
 holophyte
+holophytes
 holothurian
 holotype
 holotypes
@@ -70757,6 +70772,7 @@ inconsistent
 inconsistently
 inconsolable
 inconsolably
+inconsonance
 inconsonances
 inconsonant
 inconspicuous
@@ -73129,6 +73145,7 @@ intergrafting
 intergrafts
 intergranular
 intergroup
+intergrowth
 intergrowths
 interim
 interims
@@ -73853,6 +73870,7 @@ intromitters
 intromitting
 intron
 introns
+introrse
 intros
 introspect
 introspected
@@ -78830,6 +78848,7 @@ lapsus
 laptop
 laptops
 lapwing
+lapwings
 lar
 larboard
 larboards
@@ -91896,6 +91915,7 @@ muzziest
 muzziness
 muzzinesses
 muzzle
+muzzled
 muzzler
 muzzlers
 muzzles
@@ -93721,6 +93741,7 @@ nidation
 nidations
 niddering
 nidderings
+nide
 nided
 nidering
 niderings
@@ -114271,6 +114292,7 @@ protended
 protending
 protends
 protensive
+protensively
 proteoglycan
 proteoglycans
 proteolyses
@@ -115024,6 +115046,7 @@ puffiest
 puffily
 puffin
 puffiness
+puffinesses
 puffing
 puffins
 puffs
@@ -116239,6 +116262,7 @@ quartette
 quartettes
 quartic
 quartics
+quartier
 quartiers
 quartile
 quartiles
@@ -122265,6 +122289,7 @@ reprimands
 reprint
 reprinted
 reprinter
+reprinters
 reprinting
 reprints
 reprisal
@@ -125936,6 +125961,7 @@ royalmasts
 royals
 royalty
 roystered
+roystering
 roysters
 rozzers
 ruana
@@ -131599,6 +131625,7 @@ sheatfish
 sheatfishes
 sheath
 sheathbill
+sheathbills
 sheathe
 sheathed
 sheather
@@ -139597,6 +139624,7 @@ stiffen
 stiffener
 stiffeners
 stiffening
+stiffer
 stiffest
 stiffie
 stiffies
@@ -145367,6 +145395,7 @@ tangolike
 tangram
 tangrams
 tangs
+tangy
 tanist
 tanistries
 tanistry
@@ -145972,6 +146001,7 @@ tearstain
 tearstained
 tearstains
 tearstrip
+tearstrips
 teary
 teas
 teasable
@@ -147015,6 +147045,7 @@ tessellations
 tessera
 tesseract
 tesseracts
+tessitura
 tessituras
 tessiture
 test
@@ -159635,6 +159666,7 @@ villains
 villainy
 villanella
 villanelle
+villanelles
 villas
 villatic
 villein
@@ -163749,6 +163781,7 @@ woollen
 woollier
 woollies
 woolliest
+woollike
 woollily
 woolliness
 woollinesses
@@ -165135,6 +165168,7 @@ zettabytes
 zeugma
 zeugmas
 zeugmatic
+zibeline
 zibelines
 zibelline
 zibellines
@@ -165265,6 +165299,7 @@ zoarial
 zoarium
 zocalo
 zocalos
+zodiac
 zodiacal
 zodiacs
 zoea
