@@ -9438,6 +9438,7 @@ aw
 awa
 await
 awaited
+awaiter
 awaiters
 awaiting
 awaits
@@ -18157,6 +18158,7 @@ bullies
 bulliest
 bulling
 bullion
+bullions
 bullish
 bullishly
 bullishness
@@ -20302,6 +20304,7 @@ capers
 capes
 capeskin
 capeskins
+capework
 capeworks
 capful
 capfuls
@@ -20912,6 +20915,7 @@ carnality
 carnallite
 carnallites
 carnally
+carnassial
 carnassials
 carnations
 carnauba
@@ -21708,6 +21712,7 @@ catsuit
 catsuits
 catsups
 cattail
+cattails
 cattalo
 cattaloes
 cattalos
@@ -23381,6 +23386,7 @@ chemurgy
 chenille
 chenilles
 chenopods
+cheongsam
 cheongsams
 cheque
 chequer
@@ -28982,6 +28988,7 @@ coniums
 conjectural
 conjecture
 conjectured
+conjecturer
 conjecturers
 conjectures
 conjecturing
@@ -35014,6 +35021,7 @@ deacon
 deaconed
 deaconess
 deaconesses
+deaconing
 deaconries
 deaconry
 deacons
@@ -42643,6 +42651,7 @@ draftspersons
 drafty
 drag
 dragee
+dragees
 dragged
 draggers
 draggier
@@ -45375,6 +45384,7 @@ embargo
 embargoed
 embargoes
 embargoing
+embark
 embarkation
 embarkations
 embarked
@@ -49694,6 +49704,7 @@ exodontists
 exodos
 exodus
 exoduses
+exoenzyme
 exoenzymes
 exoergic
 exoerythrocytic
@@ -52528,6 +52539,7 @@ fictioneering
 fictioneerings
 fictioneers
 fictionist
+fictionists
 fictionization
 fictionizations
 fictionize
@@ -52574,6 +52586,7 @@ fidgeted
 fidgeter
 fidgeters
 fidgetiness
+fidgetinesses
 fidgeting
 fidgets
 fidgety
@@ -53829,6 +53842,7 @@ fleshing
 fleshings
 fleshless
 fleshlier
+fleshliest
 fleshly
 fleshment
 fleshments
@@ -55529,6 +55543,7 @@ formulized
 formulizes
 formulizing
 formwork
+formworks
 formyl
 formyls
 fornent
@@ -72394,6 +72409,7 @@ insociable
 insociably
 insofar
 insolate
+insolated
 insolates
 insolating
 insolation
@@ -76102,6 +76118,7 @@ junctions
 junctural
 juncture
 junctures
+jungle
 jungled
 junglegyms
 junglelike
@@ -81159,6 +81176,7 @@ lither
 lithesome
 lithest
 lithia
+lithias
 lithiases
 lithiasis
 lithic
@@ -87741,6 +87759,7 @@ mining
 minings
 minion
 minions
+minipark
 miniparks
 minipill
 minipills
@@ -88747,6 +88766,7 @@ misreckons
 misrecord
 misrecorded
 misrecords
+misrefer
 misreference
 misreferences
 misreferred
@@ -91917,6 +91937,7 @@ myoinositols
 myologic
 myologies
 myologist
+myologists
 myology
 myoma
 myomata
@@ -94582,6 +94603,7 @@ nondrip
 nondriver
 nondrivers
 nondrug
+nondrying
 nondurable
 none
 nonearning
@@ -114767,6 +114789,7 @@ ptomains
 ptooey
 ptoses
 ptosis
+ptotic
 ptui
 ptyalin
 ptyalins
@@ -124997,6 +125020,7 @@ roaming
 roams
 roan
 roans
+roar
 roared
 roarer
 roarers
@@ -129160,6 +129184,7 @@ scumbles
 scumless
 scumlike
 scummed
+scummer
 scummers
 scummier
 scummiest
@@ -130540,6 +130565,7 @@ sequacious
 sequaciously
 sequacities
 sequacity
+sequel
 sequela
 sequelae
 sequelize
@@ -131550,6 +131576,7 @@ shelduck
 shelducks
 shelf
 shelfful
+shelffuls
 shelflike
 shell
 shellac
@@ -131977,6 +132004,7 @@ shod
 shodden
 shoddier
 shoddies
+shoddiest
 shoddily
 shoddiness
 shoddinesses
@@ -140150,6 +140178,7 @@ stratovolcano
 stratovolcanoes
 stratovolcanos
 stratum
+stratums
 stratus
 stravage
 stravaged
@@ -144473,6 +144502,7 @@ synths
 syntonies
 syntony
 synurae
+syph
 sypher
 syphered
 syphering
@@ -147059,6 +147089,7 @@ thalidomides
 thalli
 thallic
 thallious
+thalliums
 thalloid
 thallophyte
 thallophytes
@@ -147373,6 +147404,7 @@ thermojunctions
 thermolabile
 thermolability
 thermomagnetic
+thermometer
 thermometers
 thermometric
 thermometries
@@ -148414,6 +148446,7 @@ timocracy
 timocratic
 timocratical
 timolol
+timolols
 timorous
 timorousness
 timothies
@@ -152865,6 +152898,7 @@ tyrannized
 tyrannizer
 tyrannizers
 tyrannizes
+tyrannizing
 tyrannosaur
 tyrannosaurs
 tyrannosaurus
@@ -159922,6 +159956,7 @@ vivification
 vivifications
 vivified
 vivifier
+vivifies
 vivify
 vivifying
 vivipara
