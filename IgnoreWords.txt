@@ -668,6 +668,7 @@ acetifiers
 acetify
 acetifying
 acetin
+acetins
 acetone
 acetones
 acetonic
@@ -4180,6 +4181,7 @@ amphibrach
 amphibrachic
 amphibrachs
 amphictyonic
+amphictyonies
 amphidiploid
 amphidiploidies
 amphidiploidy
@@ -4191,6 +4193,7 @@ amphioxi
 amphioxus
 amphioxuses
 amphipathic
+amphiphile
 amphiphiles
 amphiphilic
 amphiploidies
@@ -22878,6 +22881,7 @@ chappie
 chapping
 chaps
 chapt
+chapteral
 chaptered
 chaptering
 chapters
@@ -29342,6 +29346,7 @@ conspirational
 conspirations
 conspirators
 conspired
+conspirer
 conspirers
 conspires
 constable
@@ -30190,6 +30195,7 @@ copies
 copihue
 copihues
 copilot
+copilots
 coping
 copings
 copingstone
@@ -31705,6 +31711,7 @@ cowbane
 cowbanes
 cowbell
 cowbells
+cowberries
 cowberry
 cowbind
 cowbinds
@@ -32231,6 +32238,7 @@ credentialed
 credentialing
 credentialism
 credentialisms
+credentialled
 credentialling
 credentials
 credenza
@@ -35019,6 +35027,7 @@ daylights
 daylilies
 daylit
 daylong
+daymare
 daymares
 dayroom
 dayrooms
@@ -39192,6 +39201,7 @@ diffusion
 diffusional
 diffusionism
 diffusionisms
+diffusionist
 diffusionists
 diffusions
 diffusive
@@ -44090,6 +44100,7 @@ earring
 earringed
 earrings
 earshot
+earshots
 earsplitting
 earstone
 earstones
@@ -49312,6 +49323,7 @@ exceedingly
 exceeds
 excelled
 excellence
+excellences
 excellencies
 excellent
 excellently
@@ -61329,6 +61341,7 @@ gravid
 gravida
 gravidas
 gravidity
+gravidly
 gravies
 gravimeter
 gravimeters
@@ -62758,6 +62771,7 @@ gyrfalcons
 gyri
 gyring
 gyro
+gyrocompass
 gyrocompasses
 gyrofrequencies
 gyrofrequency
@@ -69754,6 +69768,7 @@ impartialities
 impartiality
 impartially
 impartible
+imparting
 impartment
 impartments
 imparts
@@ -70981,6 +70996,7 @@ indefinableness
 indefinables
 indefinably
 indefinite
+indefinitely
 indefiniteness
 indefinites
 indehiscence
@@ -77905,6 +77921,7 @@ kronor
 kronur
 kroon
 krooni
+kroons
 krubi
 krubis
 krubut
@@ -83410,6 +83427,7 @@ mahoes
 mahoganies
 mahogany
 mahonia
+mahout
 mahouts
 mahzor
 mahzorim
@@ -84004,6 +84022,7 @@ mangling
 mango
 mangoes
 mangold
+mangolds
 mangonel
 mangonels
 mangos
@@ -84173,6 +84192,7 @@ manslayers
 mansuetude
 mansuetudes
 manta
+mantas
 manteau
 manteaux
 mantel
@@ -89084,6 +89104,7 @@ mistranscribing
 mistranslate
 mistranslated
 mistranslates
+mistranslating
 mistranslation
 mistranslations
 mistreat
@@ -93612,6 +93633,7 @@ ngultrums
 ngwee
 niacin
 niacinamide
+niacinamides
 niacins
 nialamide
 nialamides
@@ -106242,6 +106264,7 @@ phatic
 phatically
 phatter
 phattest
+pheasants
 phellem
 phellems
 phelloderm
@@ -114209,6 +114232,7 @@ protecter
 protecters
 protecting
 protectionism
+protectionisms
 protectionist
 protectionists
 protections
@@ -118496,6 +118520,7 @@ recalcitrancies
 recalcitrants
 recalculate
 recalculates
+recalculating
 recalculation
 recalculations
 recalibrate
@@ -126191,6 +126216,7 @@ rumination
 ruminations
 ruminative
 ruminatively
+ruminator
 ruminators
 rummage
 rummaged
@@ -129712,6 +129738,7 @@ secularization
 secularizations
 secularize
 secularized
+secularizer
 secularizers
 secularizes
 secularizing
@@ -133482,6 +133509,7 @@ situational
 situationally
 situations
 situp
+situps
 situs
 situses
 sitzmark
@@ -143812,6 +143840,7 @@ swatch
 swatches
 swath
 swathe
+swathed
 swather
 swathers
 swathes
@@ -148816,6 +148845,7 @@ tithers
 tithes
 tithing
 tithings
+tithonia
 tithonias
 titi
 titian
@@ -151275,6 +151305,7 @@ triglyceride
 triglycerides
 triglyph
 triglyphic
+triglyphical
 triglyphs
 trigness
 trignesses
@@ -153640,6 +153671,7 @@ unbaled
 unbales
 unbaling
 unballasted
+unban
 unbandage
 unbandaged
 unbandages
@@ -155504,6 +155536,7 @@ uninsureds
 unintegrated
 unintellectual
 unintelligent
+unintelligible
 unintelligibly
 unintended
 unintentional
@@ -158454,6 +158487,7 @@ vascularization
 vasculature
 vasculatures
 vasculitides
+vasculitis
 vasculum
 vasculums
 vase
@@ -159843,6 +159877,7 @@ virtus
 virucidal
 virucide
 virucides
+virulence
 virulences
 virulencies
 virulent
