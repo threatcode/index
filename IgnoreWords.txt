@@ -595,6 +595,7 @@ accusations
 accusative
 accusatives
 accuse
+accuser
 accusers
 accuses
 accusing
@@ -2070,6 +2071,7 @@ afoul
 afraid
 afreet
 afreets
+afresh
 afrit
 afrits
 aft
@@ -4202,6 +4204,7 @@ amphiphile
 amphiphiles
 amphiphilic
 amphiploidies
+amphiploids
 amphiploidy
 amphipod
 amphipods
@@ -5418,6 +5421,7 @@ antialcoholism
 antialien
 antiallergenic
 antianemia
+antianxiety
 antiapartheid
 antiaphrodisiac
 antiar
@@ -16728,6 +16732,7 @@ brainily
 braininess
 braininesses
 braining
+brainish
 brainless
 brainlessly
 brainlessness
@@ -19666,6 +19671,7 @@ calorizing
 calory
 calos
 calotte
+calottes
 caloyer
 caloyers
 calpac
@@ -24576,6 +24582,7 @@ churchgoing
 churchgoings
 churchianities
 churchianity
+churchier
 churchiest
 churching
 churchings
@@ -25598,6 +25605,7 @@ climactic
 climactically
 climatal
 climate
+climates
 climatic
 climatically
 climatize
@@ -35163,6 +35171,7 @@ deadlocking
 deadlocks
 deadly
 deadman
+deadmen
 deadness
 deadpan
 deadpanned
@@ -37283,6 +37292,7 @@ dentural
 denture
 dentures
 denturists
+denuclearize
 denuclearized
 denuclearizes
 denuclearizing
@@ -38304,6 +38314,7 @@ detoxified
 detoxifies
 detoxify
 detoxifying
+detoxing
 detract
 detracted
 detracting
@@ -43616,6 +43627,7 @@ dumfound
 dumfounded
 dumfounding
 dumfounds
+dumka
 dumky
 dummied
 dummies
@@ -51120,6 +51132,7 @@ faller
 fallers
 fallfish
 fallfishes
+fallibilities
 fallibility
 fallible
 falling
@@ -55973,6 +55986,7 @@ fractionators
 fractioned
 fractioning
 fractions
+fractious
 fractiously
 fractiousness
 fractiousnesses
@@ -56389,6 +56403,7 @@ fretwork
 fretworks
 friabilities
 friability
+friable
 friar
 friarbird
 friarbirds
@@ -56693,6 +56708,7 @@ frothed
 frother
 frothers
 frothier
+frothiest
 frothiness
 frothing
 froths
@@ -63352,6 +63368,7 @@ hallucinogenics
 hallucinogens
 hallucinoses
 hallucinosis
+hallux
 hallway
 hallways
 halm
@@ -69460,6 +69477,7 @@ imagistically
 imagists
 imago
 imagoes
+imagos
 imam
 imamate
 imamates
@@ -69707,6 +69725,7 @@ immortalise
 immortalised
 immortalises
 immortalising
+immortalities
 immortality
 immortalization
 immortalize
@@ -72931,6 +72950,7 @@ intendant
 intendants
 intended
 intendedly
+intendeds
 intender
 intenders
 intending
@@ -83683,6 +83703,7 @@ makeup
 makeups
 makeweight
 makeweights
+makimono
 makimonos
 making
 makings
@@ -94938,6 +94959,7 @@ nonferrous
 nonfeudal
 nonfiction
 nonfictional
+nonfictions
 nonfigurative
 nonfilamentous
 nonfilial
@@ -99197,6 +99219,7 @@ outdares
 outdaring
 outdate
 outdated
+outdatedly
 outdatedness
 outdatednesses
 outdates
@@ -112404,6 +112427,7 @@ prepuces
 prepueblo
 prepunch
 prepunches
+prepunching
 prepupa
 prepupae
 prepupas
@@ -113525,6 +113549,7 @@ prodromic
 prodrug
 prodrugs
 prods
+produce
 produced
 producer
 producers
@@ -122323,6 +122348,7 @@ reports
 repos
 reposal
 reposals
+repose
 reposed
 reposedly
 reposeful
@@ -124589,6 +124615,7 @@ rhomb
 rhombencephala
 rhombencephalon
 rhombi
+rhombic
 rhombical
 rhombohedra
 rhombohedral
@@ -129799,6 +129826,7 @@ secludedly
 secludedness
 secludednesses
 secludes
+secluding
 seclusion
 seclusively
 seclusiveness
@@ -141694,6 +141722,7 @@ submetacentric
 submetacentrics
 submicrogram
 submicron
+submicroscopic
 submillimeter
 subminiature
 subminimal
@@ -151960,6 +151989,7 @@ tropic
 tropical
 tropicalize
 tropicalized
+tropicalizes
 tropicalizing
 tropically
 tropicals
@@ -153299,6 +153329,7 @@ tzetze
 tzetzes
 tzigane
 tziganes
+tzimmes
 tzitzis
 tzitzit
 tzitzith
@@ -153984,6 +154015,7 @@ unbosoms
 unbottle
 unbottles
 unbottling
+unbought
 unbouncy
 unbound
 unbounded
@@ -154489,6 +154521,7 @@ uncrushable
 uncrushed
 unction
 unctions
+unctuous
 unctuously
 unctuousness
 unctuousnesses
@@ -158469,6 +158502,7 @@ vandalisms
 vandalistic
 vandalization
 vandalizations
+vandalize
 vandalized
 vandalizes
 vandalizing
@@ -163265,6 +163299,7 @@ windrows
 winds
 windscreen
 windscreens
+windshield
 windshields
 windsock
 windsocks
