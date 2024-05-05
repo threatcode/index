@@ -1279,6 +1279,7 @@ adieu
 adieus
 adieux
 adios
+adipic
 adipocere
 adipoceres
 adipocytes
@@ -1308,6 +1309,7 @@ adjoint
 adjoints
 adjourn
 adjourned
+adjourning
 adjournment
 adjournments
 adjourns
@@ -2288,6 +2290,7 @@ aggregatenesses
 aggregates
 aggregating
 aggregation
+aggregational
 aggregations
 aggregative
 aggregatively
@@ -11661,6 +11664,7 @@ bearwoods
 beast
 beastie
 beasties
+beastings
 beastlier
 beastliest
 beastliness
@@ -12077,6 +12081,7 @@ beelining
 been
 beep
 beeped
+beeper
 beepers
 beeps
 beerier
@@ -15366,6 +15371,7 @@ boatbuilder
 boatbuilders
 boatbuilding
 boatbuildings
+boated
 boatel
 boatels
 boater
@@ -16707,6 +16713,7 @@ braggadocio
 braggadocios
 braggart
 braggarts
+bragged
 bragger
 braggers
 braggest
@@ -20126,6 +20133,7 @@ canners
 cannery
 cannibal
 cannibalise
+cannibalised
 cannibalises
 cannibalising
 cannibalism
@@ -22757,6 +22765,7 @@ chamisa
 chamisas
 chamise
 chamiso
+chamisos
 chammied
 chammies
 chammy
@@ -23551,6 +23560,7 @@ chevelure
 chevelures
 cheveron
 cheverons
+chevied
 chevies
 cheviot
 cheviots
@@ -36372,6 +36382,7 @@ defrauder
 defrauders
 defrauding
 defrauds
+defray
 defrayable
 defrayal
 defrayals
@@ -40369,6 +40380,7 @@ discretionary
 discretions
 discriminable
 discriminably
+discriminant
 discriminants
 discriminate
 discriminated
@@ -47900,6 +47912,7 @@ epoxidizing
 epoxied
 epoxies
 epoxy
+epoxyed
 epoxying
 epsilon
 epsilonic
@@ -57558,6 +57571,7 @@ gadoids
 gadolinite
 gadolinites
 gadolinium
+gadoliniums
 gadroon
 gadrooned
 gadrooning
@@ -68820,6 +68834,7 @@ hypoderma
 hypodermal
 hypodermas
 hypodermic
+hypodermically
 hypodermics
 hypodermis
 hypodermises
@@ -78650,6 +78665,7 @@ lambing
 lambkill
 lambkills
 lambkin
+lambkins
 lamblike
 lambrequin
 lambrequins
@@ -90829,6 +90845,7 @@ mostly
 mosts
 mot
 mote
+motel
 motels
 motes
 motet
@@ -93568,6 +93585,7 @@ nettlier
 nettliest
 nettling
 nettly
+netts
 netty
 network
 networked
@@ -108038,6 +108056,7 @@ pinoles
 pinon
 pinones
 pinot
+pinots
 pinpoint
 pinpointed
 pinpointing
@@ -116428,6 +116447,7 @@ qualmy
 quamash
 quamashes
 quandang
+quandangs
 quandaries
 quandary
 quandong
@@ -119669,6 +119689,7 @@ redecorators
 reded
 rededicate
 rededicates
+rededication
 rededications
 redeem
 redeemable
@@ -124518,6 +124539,7 @@ rewaxes
 rewaxing
 rewearing
 rewears
+reweave
 reweaved
 reweaves
 reweaving
@@ -131400,6 +131422,7 @@ seventeen
 seventeens
 seventeenth
 seventeenths
+seventh
 seventhly
 sevenths
 seventies
@@ -132815,6 +132838,7 @@ shrikes
 shrill
 shrilled
 shrillest
+shrilling
 shrillness
 shrillnesses
 shrills
@@ -134790,6 +134814,7 @@ slittier
 slittiest
 slitting
 slitty
+slivered
 sliverer
 sliverers
 slivering
@@ -138962,6 +138987,7 @@ staggerbushes
 staggered
 staggerer
 staggerers
+staggering
 staggeringly
 staggers
 staggery
@@ -139012,6 +139038,7 @@ stainproof
 stains
 stair
 staircase
+staircases
 stairhead
 stairheads
 stairless
@@ -145612,6 +145639,7 @@ tamashas
 tambac
 tambacs
 tambak
+tambaks
 tambala
 tambalas
 tambour
@@ -146547,6 +146575,7 @@ tegular
 tegularly
 tegulated
 tegumen
+tegument
 teguments
 tegumina
 teiglach
@@ -147518,6 +147547,7 @@ tetrameter
 tetrameters
 tetramethyllead
 tetraploid
+tetraploidies
 tetraploids
 tetraploidy
 tetrapod
@@ -150458,6 +150488,7 @@ tract
 tractabilities
 tractability
 tractable
+tractableness
 tractablenesses
 tractably
 tractate
@@ -151852,6 +151883,7 @@ triplication
 triplications
 triplicities
 triplicity
+triplite
 triplites
 triploblastic
 triploid
@@ -159221,6 +159253,7 @@ venerates
 venerating
 veneration
 venerations
+venerator
 venerators
 venereal
 veneries
@@ -162172,6 +162205,7 @@ webfed
 webfoot
 webless
 weblike
+weblog
 weblogs
 webmaster
 webmasters
@@ -165859,6 +165893,7 @@ zucchinis
 zugzwang
 zugzwangs
 zuz
+zuzim
 zwieback
 zwiebacks
 zwitterion
