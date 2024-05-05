@@ -2303,6 +2303,7 @@ aggressed
 aggresses
 aggressing
 aggression
+aggressions
 aggressive
 aggressively
 aggressiveness
@@ -5969,6 +5970,7 @@ antisepsis
 antiseptic
 antiseptically
 antiseptics
+antisera
 antiserum
 antiserums
 antisex
@@ -9479,6 +9481,7 @@ avowable
 avowals
 avowed
 avowedly
+avower
 avowers
 avowing
 avows
@@ -11225,6 +11228,7 @@ basilects
 basilic
 basilica
 basilicae
+basilical
 basilicas
 basilisk
 basilisks
@@ -14380,6 +14384,7 @@ bitterweeds
 bittier
 bittiest
 bittiness
+bittinesses
 bitting
 bittings
 bittock
@@ -21767,6 +21772,7 @@ catgut
 catguts
 catharses
 cathartic
+cathartics
 cathead
 catheads
 cathect
@@ -23272,6 +23278,7 @@ chawing
 chaws
 chay
 chayote
+chayotes
 chays
 chazan
 chazanim
@@ -25709,6 +25716,7 @@ climaxless
 climb
 climbable
 climbdown
+climbed
 climber
 climbing
 climbs
@@ -27611,6 +27619,7 @@ combats
 combatted
 combatting
 combe
+combed
 comber
 combers
 combes
@@ -30425,6 +30434,7 @@ coprophilia
 coprophiliac
 coprophiliacs
 coprophilias
+coprophilous
 coproprietor
 coproprietors
 coprosperities
@@ -45094,6 +45104,7 @@ eisegeses
 eisegesis
 eisteddfod
 eisteddfodau
+eisteddfodic
 eisteddfods
 eiswein
 eisweins
@@ -47437,6 +47448,7 @@ entrusted
 entrusting
 entrustment
 entrustments
+entrusts
 entry
 entryway
 entryways
@@ -47824,6 +47836,7 @@ epimeres
 epimeric
 epimers
 epimysia
+epinaoi
 epinaos
 epinastic
 epinasty
@@ -50172,6 +50185,7 @@ expediential
 expediently
 expedients
 expedite
+expedited
 expediter
 expediters
 expedites
@@ -58729,6 +58743,7 @@ geckos
 gecks
 geds
 gee
+geed
 geegaw
 geegaws
 geeing
@@ -58853,6 +58868,7 @@ gemotes
 gemots
 gems
 gemsboks
+gemsbuck
 gemstone
 gemstones
 gemutlich
@@ -61465,6 +61481,7 @@ grapery
 grapes
 grapeshot
 grapevine
+grapevines
 grapey
 graph
 graphed
@@ -63399,6 +63416,7 @@ hairspring
 hairsprings
 hairstreak
 hairstreaks
+hairstyle
 hairstyles
 hairstyling
 hairstylings
@@ -64084,6 +64102,7 @@ hardies
 hardiest
 hardihoods
 hardiment
+hardiments
 hardiness
 hardinesses
 hardinggrass
@@ -78097,6 +78116,7 @@ knurls
 knurly
 knurs
 koa
+koala
 koalas
 koan
 koans
@@ -78767,6 +78787,7 @@ lallands
 lallans
 lallation
 lallations
+lalled
 lalling
 lalls
 lallygag
@@ -79320,6 +79341,7 @@ lashing
 lashings
 lashins
 lashkar
+lashkars
 lasing
 lass
 lasses
@@ -82631,6 +82653,7 @@ louvred
 louvres
 lovabilities
 lovability
+lovable
 lovableness
 lovablenesses
 lovably
@@ -83040,6 +83063,7 @@ luny
 lupanar
 lupanars
 lupin
+lupine
 lupines
 lupins
 lupous
@@ -85278,6 +85302,7 @@ matched
 matcher
 matchers
 matches
+matching
 matchless
 matchlessly
 matchlock
@@ -87253,6 +87278,7 @@ micawbers
 mice
 micell
 micella
+micellae
 micellar
 micelle
 micelles
@@ -92360,6 +92386,7 @@ mycoplasmas
 mycoplasmata
 mycorhiza
 mycorhizae
+mycorhizas
 mycorrhiza
 mycorrhizae
 mycorrhizas
@@ -97058,6 +97085,7 @@ obscured
 obscurely
 obscureness
 obscurenesses
+obscurer
 obscures
 obscurest
 obscuring
@@ -97524,6 +97552,7 @@ oersted
 oersteds
 oes
 oesophagi
+oesophagus
 oestrin
 oestrins
 oestriol
@@ -97950,6 +97979,7 @@ omnipotence
 omnipotences
 omnipotent
 omnipotently
+omnipotents
 omnipresence
 omnirange
 omniranges
@@ -114468,6 +114498,7 @@ proportionating
 proportioned
 proportioning
 proportions
+proposal
 proposals
 propose
 proposed
@@ -123111,6 +123142,7 @@ reroofs
 rerose
 reroute
 rerouted
+reroutes
 rerouting
 rerun
 rerunning
@@ -127797,6 +127829,7 @@ sandaling
 sandalled
 sandalling
 sandals
+sandalwood
 sandarac
 sandaracs
 sandbag
@@ -128189,6 +128222,7 @@ sarmentum
 sarod
 sarode
 sarodes
+sarodist
 sarodists
 sarods
 sarong
@@ -131189,6 +131223,7 @@ sepal
 sepaled
 sepaline
 sepalled
+sepaloid
 sepalous
 sepals
 separabilities
@@ -131705,6 +131740,7 @@ sexagesimals
 sexdecillion
 sexdecillions
 sexed
+sexennials
 sexes
 sexier
 sexiest
@@ -135983,6 +136019,7 @@ snowbushes
 snowcap
 snowcapped
 snowcaps
+snowcat
 snowcats
 snowdrift
 snowdrifts
@@ -139283,6 +139320,7 @@ stairstepped
 stairstepping
 stairsteps
 stairway
+stairways
 stairwell
 stairwells
 staithe
@@ -142886,6 +142924,7 @@ sughing
 sughs
 suicidally
 suicide
+suicided
 suicides
 suing
 suint
@@ -145230,6 +145269,7 @@ synonyme
 synonymes
 synonymic
 synonymical
+synonymies
 synonymist
 synonymists
 synonymity
@@ -145701,6 +145741,7 @@ tailwind
 tain
 tains
 taint
+tainted
 tainting
 taintless
 taints
@@ -147473,6 +147514,7 @@ terga
 tergal
 tergite
 tergites
+tergiversate
 tergiversated
 tergiversates
 tergiversating
@@ -149067,6 +149109,7 @@ tiercels
 tierceron
 tiercerons
 tierces
+tiered
 tiering
 tiers
 tiff
@@ -150677,6 +150720,7 @@ traceable
 traceably
 traced
 traceless
+tracer
 traceried
 traceries
 tracers
@@ -153417,6 +153461,7 @@ twayblade
 twayblades
 tweak
 tweaked
+tweakier
 tweakiest
 tweaking
 tweaks
@@ -154946,6 +154991,7 @@ uncoy
 uncracked
 uncrate
 uncrated
+uncrates
 uncrating
 uncrazy
 uncreate
@@ -157494,6 +157540,7 @@ unsuccesses
 unsuccessful
 unsuccessfully
 unsuitabilities
+unsuitability
 unsuitable
 unsuitably
 unsuited
@@ -159659,6 +159706,7 @@ verapamils
 veratria
 veratrias
 veratridine
+veratridines
 veratrin
 veratrine
 veratrines
@@ -164192,6 +164240,7 @@ woalds
 wobble
 wobbled
 wobbler
+wobblers
 wobbles
 wobblier
 wobblies
@@ -164595,6 +164644,7 @@ workmanlike
 workmanly
 workmanship
 workmanships
+workmate
 workmen
 workout
 workouts
@@ -164771,6 +164821,7 @@ wrappers
 wrapping
 wrappings
 wraps
+wrapt
 wrasse
 wrasses
 wrassle
@@ -164976,6 +165027,7 @@ wynns
 wyns
 wyte
 wyted
+wytes
 wyting
 wyvern
 wyverns
@@ -165568,6 +165620,7 @@ youngness
 youngnesses
 youngs
 youngster
+youngsters
 younker
 younkers
 youpon
