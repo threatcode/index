@@ -4016,6 +4016,7 @@ amidones
 amids
 amidship
 amidships
+amidst
 amie
 amiga
 amigas
@@ -11215,6 +11216,7 @@ basifixed
 basify
 basifying
 basil
+basilar
 basilect
 basilects
 basilic
@@ -14330,6 +14332,7 @@ bitchinesses
 bitching
 bite
 biteable
+biteplate
 biteplates
 biters
 bites
@@ -22140,6 +22143,7 @@ celeriac
 celeriacs
 celeries
 celerities
+celery
 celesta
 celestas
 celeste
@@ -22780,6 +22784,7 @@ chambers
 chambray
 chambrays
 chameleon
+chameleonic
 chameleonlike
 chamfer
 chamfered
@@ -24518,6 +24523,7 @@ chronometers
 chronometric
 chronometrical
 chronometries
+chronometry
 chronon
 chronons
 chronotherapies
@@ -25726,6 +25732,7 @@ clinical
 clinically
 clinician
 clinicians
+clinics
 clink
 clinked
 clinker
@@ -30052,6 +30059,7 @@ conversions
 converso
 conversos
 convert
+convertaplane
 convertaplanes
 converted
 converters
@@ -38434,6 +38442,7 @@ detrainments
 detrains
 detribalization
 detribalize
+detribalized
 detribalizes
 detribalizing
 detriment
@@ -40042,6 +40051,7 @@ disaffiliated
 disaffiliates
 disaffiliating
 disaffiliation
+disaffiliations
 disaffirm
 disaffirmance
 disaffirmances
@@ -48953,6 +48963,7 @@ euchromatin
 euchromatins
 euclase
 euclases
+euclidian
 eucrite
 eucrites
 eucritic
@@ -49946,6 +49957,7 @@ exobiologists
 exobiology
 exocarp
 exocarps
+exocrine
 exocrines
 exocyclic
 exocytic
@@ -68627,6 +68639,7 @@ hypercautious
 hypercharged
 hypercharges
 hypercivilized
+hypercoagulable
 hypercomplex
 hyperconscious
 hypercorrect
@@ -71510,6 +71523,7 @@ individualizes
 individualizing
 individually
 individuals
+individuate
 individuated
 individuates
 individuating
@@ -74294,6 +74308,7 @@ invalidly
 invalids
 invaluable
 invaluableness
+invaluably
 invar
 invariabilities
 invariability
@@ -78977,6 +78992,7 @@ landscaped
 landscaper
 landscapers
 landscapes
+landscaping
 landscapist
 landscapists
 landsides
@@ -86657,6 +86673,7 @@ mesocrany
 mesocyclone
 mesocyclones
 mesoderm
+mesodermal
 mesoderms
 mesoglea
 mesogleal
@@ -87248,6 +87265,7 @@ microbalances
 microbar
 microbarograph
 microbarographs
+microbars
 microbe
 microbeam
 microbes
@@ -93274,6 +93292,7 @@ needer
 needers
 needful
 needfully
+needfulness
 needfulnesses
 needfuls
 needier
@@ -102299,6 +102318,7 @@ oxygenators
 oxygenic
 oxygenize
 oxygenized
+oxygenizes
 oxygenizing
 oxygenless
 oxygenous
@@ -108911,6 +108931,7 @@ plastids
 plastique
 plastiques
 plastisol
+plastisols
 plastocyanin
 plastocyanins
 plastoquinone
@@ -110882,6 +110903,7 @@ postdate
 postdated
 postdates
 postdating
+postdeadline
 postdebate
 postdebutante
 postdelivery
@@ -111132,6 +111154,7 @@ potassium
 potassiums
 potation
 potations
+potatobug
 potatobugs
 potatoes
 potatory
@@ -119838,6 +119861,7 @@ redecorator
 redecorators
 reded
 rededicate
+rededicated
 rededicates
 rededication
 rededications
@@ -121900,6 +121924,7 @@ remeasuring
 remediabilities
 remediability
 remediable
+remedial
 remedially
 remediate
 remediated
@@ -124445,6 +124470,7 @@ revenant
 revenants
 revenge
 revenged
+revengeful
 revengefulness
 revenger
 revenges
@@ -131954,6 +131980,7 @@ shanghaiers
 shanghaiing
 shanghais
 shank
+shanked
 shanking
 shankpiece
 shankpieces
@@ -139568,6 +139595,7 @@ stationary
 stationed
 stationer
 stationeries
+stationers
 stationery
 stationing
 stationmaster
@@ -144367,6 +144395,7 @@ swarajes
 swarajism
 swarajisms
 swarajist
+swarajists
 sward
 swarded
 swarding
@@ -146463,6 +146492,7 @@ tchotchke
 tchotchkes
 tea
 teaberries
+teaberry
 teaboard
 teaboards
 teabowl
@@ -149376,6 +149406,7 @@ tire
 tired
 tireder
 tiredest
+tiredly
 tiredness
 tirednesses
 tireless
@@ -158779,6 +158810,7 @@ valiantnesses
 valiants
 validate
 validated
+validates
 validating
 validation
 validations
@@ -162903,6 +162935,7 @@ whelmed
 whelming
 whelms
 whelp
+whelped
 whelping
 whelpless
 whelps
@@ -164373,6 +164406,7 @@ woodworking
 woodworkings
 woodworks
 woodworm
+woody
 wooed
 wooer
 wooers
@@ -164510,6 +164544,7 @@ workhorse
 workhorses
 workhour
 workhours
+workhouse
 workhouses
 working
 workingmen
