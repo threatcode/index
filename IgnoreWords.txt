@@ -4047,6 +4047,7 @@ ammeters
 ammine
 ammines
 ammino
+ammo
 ammocete
 ammocetes
 ammonal
@@ -5051,6 +5052,7 @@ annals
 annas
 annates
 annatto
+annattos
 anneal
 annealed
 annealer
@@ -13067,6 +13069,7 @@ bethanks
 bethel
 bethels
 bethesda
+bethesdas
 bethink
 bethinking
 bethinks
@@ -16887,6 +16890,7 @@ brassiere
 brassieres
 brassies
 brassiest
+brassily
 brassiness
 brassinesses
 brassing
@@ -32507,6 +32511,7 @@ crewelwork
 crewelworks
 crewing
 crewman
+crewmate
 crewmates
 crewmen
 crewneck
@@ -33098,6 +33103,7 @@ cruses
 cruset
 crusets
 crush
+crushable
 crushed
 crusher
 crushers
@@ -41441,6 +41447,7 @@ disvalue
 disvalued
 disvalues
 disvaluing
+disyllabic
 disyllable
 disyllables
 disyoke
@@ -44456,6 +44463,7 @@ eclipsis
 eclipsises
 ecliptic
 ecliptics
+eclogite
 eclogites
 eclogue
 eclogues
@@ -48777,6 +48785,7 @@ ethoses
 ethoxies
 ethoxy
 ethoxyl
+ethoxyls
 eths
 ethyl
 ethylate
@@ -51757,6 +51766,7 @@ favelas
 favella
 favellas
 faveolate
+faves
 favism
 favisms
 favonian
@@ -51774,6 +51784,7 @@ favoritism
 favoritisms
 favors
 favour
+favoured
 favourer
 favourers
 favouring
@@ -53024,6 +53035,7 @@ filth
 filthiest
 filthily
 filthiness
+filthinesses
 filths
 filthy
 filtrable
@@ -59749,6 +59761,7 @@ glamourizes
 glamourizing
 glamourless
 glamours
+glams
 glance
 glanced
 glancer
@@ -59951,6 +59964,7 @@ glinty
 glioblastoma
 glioblastomas
 glioma
+gliomas
 gliomata
 glissade
 glissaded
@@ -65864,6 +65878,7 @@ hie
 hied
 hieing
 hiemal
+hierarch
 hierarchal
 hierarchic
 hierarchical
@@ -70959,6 +70974,7 @@ incorporeity
 incorpse
 incorpsed
 incorpses
+incorpsing
 incorrect
 incorrectly
 incorrectness
@@ -71360,6 +71376,7 @@ individual
 individualise
 individualised
 individualises
+individualising
 individualisms
 individualist
 individualistic
@@ -73229,6 +73246,7 @@ interfacings
 interfaculty
 interfaith
 interfamilial
+interfamily
 interfere
 interference
 interferences
@@ -74565,6 +74583,7 @@ ironmongery
 ironness
 ironnesses
 irons
+ironside
 ironsides
 ironsmith
 ironsmiths
@@ -79127,6 +79146,7 @@ lases
 lash
 lashed
 lashers
+lashes
 lashing
 lashings
 lashins
@@ -87388,6 +87408,7 @@ microwave
 microwaveable
 microwaved
 microwaves
+microwaving
 microworld
 microworlds
 micrurgies
@@ -88329,6 +88350,7 @@ misbegot
 misbegotten
 misbegun
 misbehave
+misbehaved
 misbehaver
 misbehavers
 misbehaves
@@ -88754,6 +88776,7 @@ mishear
 misheard
 mishearing
 mishears
+mishegaas
 mishegoss
 mishit
 mishits
@@ -91932,6 +91955,7 @@ muskmelons
 muskox
 muskoxen
 muskrat
+muskrats
 muskroot
 muskroots
 musks
@@ -102173,6 +102197,7 @@ ozonise
 ozonised
 ozonises
 ozonising
+ozonization
 ozonize
 ozonized
 ozonizer
@@ -109895,7 +109920,9 @@ polydisperse
 polydispersity
 polyelectrolyte
 polyembryonic
+polyembryonies
 polyembryony
+polyene
 polyenes
 polyenic
 polyester
@@ -110706,6 +110733,7 @@ poster
 posterior
 posteriorities
 posteriority
+posteriorly
 posteriors
 posterities
 posterity
@@ -112274,6 +112302,7 @@ premodify
 premodifying
 premoistened
 premoistens
+premolar
 premolars
 premold
 premolded
@@ -116467,6 +116496,7 @@ quarterly
 quartermaster
 quartermasters
 quartern
+quarterns
 quarters
 quartersawed
 quartersawn
@@ -134580,6 +134610,7 @@ slickest
 slicking
 slickly
 slickness
+slicknesses
 slickrock
 slickrocks
 slicks
@@ -147934,6 +147965,7 @@ theurgist
 theurgists
 theurgy
 thew
+thewier
 thewiest
 thews
 thewy
@@ -150805,6 +150837,7 @@ translatability
 translatable
 translate
 translated
+translates
 translating
 translation
 translational
@@ -150978,6 +151011,7 @@ trapanning
 trapans
 trapball
 trapballs
+trapdoor
 trapdoors
 trapes
 trapesed
@@ -156658,6 +156692,7 @@ unrepair
 unrepairs
 unrepeatable
 unrepentant
+unreported
 unrepresented
 unrepressed
 unrequited
