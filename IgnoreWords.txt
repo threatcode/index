@@ -6536,6 +6536,7 @@ appease
 appeased
 appeasement
 appeasements
+appeaser
 appeasers
 appeases
 appeasing
@@ -6722,6 +6723,7 @@ appressorium
 apprise
 apprised
 appriser
+apprisers
 apprises
 apprising
 apprize
@@ -14052,6 +14054,7 @@ biotype
 biotypes
 biotypic
 biovular
+bioweapon
 bioweapons
 bipack
 biparental
@@ -19242,6 +19245,7 @@ cadential
 cadenza
 cadenzas
 cades
+cadet
 cadets
 cadetship
 cadetships
@@ -19309,6 +19313,7 @@ caftans
 cage
 caged
 cageful
+cagefuls
 cagelike
 cageling
 cagelings
@@ -20760,6 +20765,7 @@ carcinogenesis
 carcinogenic
 carcinogenicity
 carcinogens
+carcinoid
 carcinoids
 carcinoma
 carcinomas
@@ -24759,6 +24765,7 @@ cinematic
 cinematically
 cinematize
 cinematized
+cinematizes
 cinematizing
 cinematograph
 cinematographic
@@ -26948,6 +26955,7 @@ coinsured
 coinsurer
 coinsurers
 coinsures
+coinsuring
 cointer
 cointerring
 cointers
@@ -28306,6 +28314,7 @@ comsymp
 comsymps
 comte
 comtes
+con
 conation
 conations
 conative
@@ -39084,6 +39093,7 @@ dictators
 dictatorship
 dictatorships
 dictier
+dictiest
 diction
 dictional
 dictionally
@@ -52443,6 +52453,7 @@ fetishes
 fetishism
 fetishist
 fetishistic
+fetishistically
 fetishists
 fetishize
 fetishized
@@ -54203,6 +54214,7 @@ flockings
 flockless
 flocks
 flocky
+flocs
 floe
 floes
 flog
@@ -61491,6 +61503,7 @@ graywaters
 grazable
 graze
 grazeable
+grazed
 grazer
 grazes
 grazier
@@ -63750,6 +63763,7 @@ hapaxes
 haphazard
 haphazardness
 haphazardnesses
+haphazardries
 haphazardry
 haphazards
 haphtara
@@ -67958,6 +67972,7 @@ hurried
 hurriedly
 hurriedness
 hurriednesses
+hurrier
 hurriers
 hurries
 hurry
@@ -77537,6 +77552,7 @@ kissed
 kisser
 kissers
 kisses
+kissing
 kissy
 kist
 kistful
@@ -82665,6 +82681,7 @@ luminances
 luminaria
 luminarias
 luminaries
+luminary
 luminesce
 luminesced
 luminescence
@@ -84372,6 +84389,7 @@ manumits
 manumitted
 manumitting
 manure
+manured
 manurer
 manurers
 manures
@@ -87541,6 +87559,7 @@ mildening
 mildens
 milder
 mildest
+mildew
 mildewing
 mildews
 mildewy
@@ -87765,6 +87784,7 @@ millraces
 millrun
 millruns
 mills
+millstone
 millstones
 millstream
 millstreams
@@ -96383,6 +96403,7 @@ nursers
 nursery
 nurseryman
 nurserymen
+nurses
 nursing
 nursings
 nursling
@@ -100159,6 +100180,7 @@ outthrob
 outthrobbed
 outthrobbing
 outthrobs
+outthrow
 outthrowing
 outthrown
 outthrows
@@ -108241,6 +108263,7 @@ pitifully
 pitifulness
 pitifulnesses
 pitiless
+pitilessly
 pitilessness
 pitilessnesses
 pitman
@@ -111606,6 +111629,7 @@ preconcerting
 preconcerts
 preconciliar
 precondition
+preconditioned
 preconditioning
 preconditions
 preconize
@@ -116635,6 +116659,7 @@ quietness
 quietnesses
 quiets
 quietude
+quietudes
 quietus
 quietuses
 quiff
@@ -122819,6 +122844,7 @@ reseals
 research
 researchable
 researched
+researcher
 researchers
 researches
 researching
@@ -128610,6 +128636,7 @@ schismatics
 schismatize
 schismatized
 schismatizes
+schismatizing
 schisms
 schist
 schistose
@@ -142046,6 +142073,7 @@ substrata
 substrate
 substrates
 substratum
+substratums
 substructural
 substructure
 substructures
@@ -143584,6 +143612,7 @@ surcharges
 surcharging
 surcingle
 surcingled
+surcingles
 surcingling
 surcoat
 surcoats
@@ -148834,6 +148863,7 @@ tinamou
 tinamous
 tincal
 tincals
+tinct
 tincted
 tincting
 tinctorial
@@ -150745,6 +150775,7 @@ transmigrate
 transmigrated
 transmigrates
 transmigrating
+transmigration
 transmigrations
 transmigrator
 transmigrators
@@ -151081,6 +151112,7 @@ trebled
 trebles
 trebling
 trebly
+trebuchet
 trebuchets
 trebucket
 trebuckets
@@ -154395,6 +154427,7 @@ unconceivable
 unconcern
 unconcerned
 unconcernedly
+unconcernedness
 unconcerns
 unconditional
 unconditionally
@@ -155116,6 +155149,7 @@ undraw
 undrawing
 undrawn
 undraws
+undreamed
 undress
 undressed
 undresses
@@ -160693,6 +160727,7 @@ vorticisms
 vorticist
 vorticists
 vorticities
+vorticity
 votable
 votaress
 votaresses
