@@ -6768,6 +6768,7 @@ approval
 approvals
 approve
 approved
+approver
 approvers
 approves
 approving
@@ -11988,6 +11989,7 @@ bedsonias
 bedsore
 bedsores
 bedspread
+bedspreads
 bedspring
 bedsprings
 bedstand
@@ -12253,6 +12255,7 @@ beguiler
 beguilers
 beguiles
 beguiling
+beguilingly
 beguine
 beguines
 begulf
@@ -30669,6 +30672,7 @@ cornifies
 cornify
 cornifying
 cornily
+corniness
 corninesses
 corning
 cornmeal
@@ -35366,6 +35370,7 @@ debearding
 debeards
 debenture
 debentures
+debilitate
 debilitated
 debilitates
 debilitating
@@ -36262,6 +36267,7 @@ deflagrated
 deflagrates
 deflagrating
 deflagration
+deflagrations
 deflate
 deflated
 deflater
@@ -55747,6 +55753,7 @@ fornicated
 fornicates
 fornicating
 fornication
+fornications
 fornicator
 fornicators
 fornices
@@ -59117,6 +59124,7 @@ germanic
 germanium
 germaniums
 germanization
+germanizations
 germanize
 germanized
 germanizes
@@ -59378,6 +59386,7 @@ giftable
 giftables
 gifted
 giftedly
+giftedness
 giftednesses
 giftee
 giftees
@@ -61324,6 +61333,7 @@ granulosis
 granum
 grape
 grapefruit
+grapefruits
 grapelike
 graperies
 grapery
@@ -69307,6 +69317,7 @@ ignitron
 ignobilities
 ignobility
 ignoble
+ignobleness
 ignoblenesses
 ignobly
 ignominies
@@ -72433,6 +72444,7 @@ inosculates
 inosculating
 inosculation
 inosculations
+inosine
 inosines
 inosite
 inosites
@@ -75205,6 +75217,7 @@ jacking
 jackknife
 jackknifed
 jackknifes
+jackknifing
 jackknives
 jackleg
 jacklegs
@@ -75425,6 +75438,7 @@ jargoons
 jarhead
 jarheads
 jarina
+jarinas
 jarl
 jarldom
 jarldoms
@@ -80353,6 +80367,7 @@ levellers
 levelling
 levelness
 levelnesses
+levels
 lever
 leverage
 leverages
@@ -82198,6 +82213,7 @@ looked
 looker
 lookers
 looking
+lookism
 lookisms
 lookists
 lookout
@@ -88960,6 +88976,7 @@ mispackaging
 mispage
 mispages
 mispaging
+mispaint
 mispainted
 mispainting
 mispaints
@@ -89444,6 +89461,7 @@ mitzvah
 mitzvahs
 mitzvoth
 mix
+mixable
 mixed
 mixedly
 mixer
@@ -93975,6 +93993,7 @@ niffering
 niffers
 niftier
 nifties
+niftiest
 niftily
 niftiness
 niftinesses
@@ -97162,6 +97181,7 @@ octangle
 octangles
 octanol
 octanols
+octans
 octantal
 octants
 octapeptide
@@ -97232,6 +97252,7 @@ odder
 oddest
 oddish
 oddities
+oddity
 oddly
 oddment
 oddments
@@ -100200,6 +100221,7 @@ outsulked
 outsulking
 outsulks
 outsung
+outswam
 outsware
 outswear
 outswearing
@@ -105874,6 +105896,7 @@ permittee
 permittees
 permitter
 permitters
+permitting
 permittivities
 permittivity
 perms
@@ -112807,6 +112830,7 @@ pressures
 pressurise
 pressurised
 pressurises
+pressurising
 pressurization
 pressurizations
 pressurize
@@ -113735,6 +113759,7 @@ profitably
 profiteer
 profiteered
 profiteering
+profiteers
 profiter
 profiterole
 profiteroles
@@ -120174,6 +120199,7 @@ reequip
 reequipment
 reequipments
 reequipped
+reequipping
 reequips
 reerect
 reerected
@@ -120352,6 +120378,7 @@ refinds
 refine
 refined
 refinements
+refiner
 refineries
 refiners
 refinery
@@ -120614,6 +120641,7 @@ refurbishment
 refurbishments
 refurnish
 refurnished
+refurnishes
 refurnishing
 refusable
 refusal
@@ -131384,6 +131412,7 @@ several
 severalfold
 severally
 severals
+severalties
 severalty
 severances
 severe
@@ -134558,6 +134587,7 @@ sleets
 sleety
 sleeve
 sleeved
+sleeveless
 sleevelets
 sleeves
 sleeving
@@ -148329,6 +148359,7 @@ threnodic
 threnodies
 threnodist
 threnodists
+threnody
 threonine
 threonines
 thresh
@@ -154926,6 +154957,7 @@ underlapping
 underlay
 underlaying
 underlayment
+underlayments
 underlays
 underlet
 underletting
@@ -155988,6 +156020,7 @@ unitive
 unitization
 unitizations
 unitize
+unitized
 unitizer
 unitizers
 unitizes
@@ -160946,6 +160979,7 @@ vulgarer
 vulgarest
 vulgarian
 vulgarians
+vulgarise
 vulgarised
 vulgarises
 vulgarising
@@ -165705,6 +165739,7 @@ zooecium
 zooey
 zoogamete
 zoogametes
+zoogenic
 zoogenies
 zoogenous
 zoogeny
