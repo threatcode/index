@@ -845,6 +845,7 @@ acorns
 acoustical
 acoustically
 acoustician
+acousticians
 acoustics
 acquaint
 acquaintance
@@ -19898,6 +19899,7 @@ camises
 camisia
 camisias
 camisole
+camisoles
 camlet
 camlets
 cammie
@@ -20425,6 +20427,7 @@ caparison
 caparisoned
 caparisoning
 caparisons
+cape
 caped
 capelan
 capelans
@@ -21879,6 +21882,7 @@ cattiness
 cattinesses
 cattishly
 cattle
+cattleman
 cattlemen
 cattleya
 cattleyas
@@ -24066,6 +24070,7 @@ chivaries
 chivariing
 chive
 chives
+chivied
 chivies
 chivvied
 chivvies
@@ -24164,6 +24169,7 @@ chockful
 chockfull
 chocking
 chocoholic
+chocoholics
 chocolate
 chocolates
 chocolatey
@@ -30503,6 +30509,7 @@ copyist
 copyists
 copyleft
 copylefts
+copyread
 copyreader
 copyreaders
 copyreading
@@ -34651,6 +34658,7 @@ daft
 dafter
 daftest
 daftness
+daftnesses
 dag
 dagga
 daggas
@@ -40848,6 +40856,7 @@ disjunctives
 disjuncts
 disjuncture
 disjunctures
+disk
 disked
 diskette
 diskettes
@@ -42920,6 +42929,7 @@ drafter
 drafters
 draftier
 draftiest
+draftily
 draftiness
 draftinesses
 draftings
@@ -50429,6 +50439,7 @@ express
 expressage
 expressages
 expressed
+expresser
 expressers
 expresses
 expressible
@@ -50635,6 +50646,7 @@ extincting
 extinction
 extinctions
 extinctive
+extincts
 extinguish
 extinguished
 extinguisher
@@ -51684,6 +51696,7 @@ fasciated
 fasciation
 fasciations
 fascicle
+fascicled
 fascicles
 fascicular
 fascicularly
@@ -54244,6 +54257,7 @@ flichtered
 flichtering
 flichters
 flick
+flickable
 flicked
 flicker
 flickered
@@ -55314,6 +55328,7 @@ footworks
 footworn
 footy
 foozle
+foozled
 foozler
 foozlers
 foozles
@@ -55642,6 +55657,7 @@ forestall
 forestalled
 forestaller
 forestallers
+forestallment
 forestallments
 forestalls
 forestation
@@ -58894,6 +58910,7 @@ gemots
 gems
 gemsboks
 gemsbuck
+gemsbucks
 gemstone
 gemstones
 gemutlich
@@ -59270,6 +59287,7 @@ gerbilles
 gerbils
 gerent
 gerents
+gerenuk
 gerenuks
 gerfalcon
 geriatric
@@ -62752,6 +62770,7 @@ gumless
 gumlike
 gumline
 gumlines
+gumma
 gummas
 gummata
 gummatous
@@ -64556,6 +64575,7 @@ haws
 hawse
 hawsehole
 hawseholes
+hawsepipe
 hawsepipes
 hawser
 hawsers
@@ -76955,6 +76975,7 @@ karst
 karstic
 karsts
 kart
+karting
 kartings
 karts
 karyogamies
@@ -77837,6 +77858,7 @@ kitchenettes
 kitchenware
 kitchenwares
 kite
+kited
 kitelike
 kiter
 kiters
@@ -81925,6 +81947,7 @@ loathes
 loathful
 loathing
 loathings
+loathly
 loathness
 loathnesses
 loathsome
@@ -84229,6 +84252,7 @@ maltiest
 maltiness
 maltinesses
 malting
+maltol
 maltols
 maltose
 maltoses
@@ -100629,6 +100653,7 @@ outwilling
 outwills
 outwind
 outwinded
+outwinding
 outwinds
 outwish
 outwished
@@ -100777,6 +100802,7 @@ overassertions
 overassertive
 overasserts
 overassessment
+overassessments
 overate
 overattention
 overattentions
@@ -103170,6 +103196,7 @@ pancreozymin
 pancreozymins
 pancytopenia
 pancytopenias
+panda
 pandani
 pandanus
 pandanuses
@@ -104576,6 +104603,7 @@ patootie
 patresfamilias
 patriarch
 patriarchal
+patriarchate
 patriarchates
 patriarchies
 patriarchs
@@ -133350,6 +133378,7 @@ sibilancy
 sibilant
 sibilantly
 sibilants
+sibilate
 sibilated
 sibilates
 sibilation
@@ -136294,6 +136323,7 @@ sociality
 socializations
 socialize
 socialized
+socializer
 socializers
 socializes
 socializing
@@ -137096,6 +137126,7 @@ sorority
 soroses
 sorosis
 sorosises
+sorptions
 sorptive
 sorrel
 sorrels
@@ -140215,6 +140246,7 @@ stethoscope
 stethoscopes
 stets
 stetson
+stetsons
 stetting
 stevedore
 stevedored
@@ -151013,6 +151045,7 @@ tramells
 tramels
 tramless
 tramline
+tramlines
 trammed
 trammel
 trammeled
@@ -162469,6 +162502,7 @@ weakon
 weakons
 weakside
 weaksides
+weal
 weald
 wealds
 weals
@@ -163161,6 +163195,7 @@ whiffets
 whiffing
 whiffle
 whiffled
+whiffler
 whifflers
 whiffles
 whiffletree

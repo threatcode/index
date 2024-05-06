@@ -1,0 +1,10 @@
+interface.txt,https://www.kernel.org/doc/Documentation/power/interface.txt
+DSCResources/DSC_DiskAccessPath/en-US ... - PowerShell Gallery,https://www.powershellgallery.com/packages/StorageDsc/5.1.0-preview0001/Content/DSCResources%255CDSC_DiskAccessPath%255Cen-US%255Cabout_DiskAccessPath.help.txt
+xl-disk-configuration.txt,https://xenbits.xen.org/docs/4.3-testing/misc/xl-disk-configuration.txt
+DSCResources/DSC_Disk/en-US/about_Disk.help.txt 5.0.2 ...,https://www.powershellgallery.com/packages/StorageDsc/5.0.2-preview0001/Content/DSCResources%255CDSC_Disk%255Cen-US%255Cabout_Disk.help.txt
+cloud-init/doc/examples/cloud-config-disk-setup.txt at master - GitHub,https://github.com/cloudsigma/cloud-init/blob/master/doc/examples/cloud-config-disk-setup.txt
+Veritas Cheat Sheet - Cuddletech,http://cuddletech.com/veritas/vxcheatsheet.txt
+System Power Management Sleep States,https://www.kernel.org/doc/Documentation/power/states.txt
+Description of the disk format,https://fms.komkon.org/MSX/Docs/Disk.txt
+Xen Guest Disk (VBD) Interface,http://xenbits.xenproject.org/docs/4.2-testing/misc/vbd-interface.txt
+synology-telegraf/mibs/SYNOLOGY-DISK-MIB.txt at master - GitHub,https://github.com/johnmccabe/synology-telegraf/blob/master/mibs/SYNOLOGY-DISK-MIB.txt
