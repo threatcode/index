@@ -883,6 +883,7 @@ acquisitor
 acquisitors
 acquit
 acquittal
+acquittals
 acquittance
 acquittances
 acquitted
@@ -2319,6 +2320,7 @@ aggressor
 aggressors
 aggrieve
 aggrieved
+aggrievedly
 aggrievement
 aggrievements
 aggrieves
@@ -5616,6 +5618,7 @@ antielites
 antielitism
 antielitisms
 antielitist
+antiemetic
 antiemetics
 antientropic
 antiepilepsy
@@ -9138,6 +9141,7 @@ autoecious
 autoeciously
 autoecisms
 autoed
+autoerotic
 autoeroticism
 autoeroticisms
 autoerotism
@@ -17729,6 +17733,7 @@ brood
 brooded
 brooder
 broodier
+broodiest
 broodily
 broodiness
 broodinesses
@@ -18948,6 +18953,7 @@ butterflied
 butterflies
 butterfly
 butterflyer
+butterflyers
 butterflying
 butterier
 butteries
@@ -19443,6 +19449,7 @@ cahows
 caid
 caids
 caiman
+caimans
 cain
 cains
 caique
@@ -26506,6 +26513,7 @@ cockapoo
 cockapoos
 cockateel
 cockateels
+cockatiel
 cockatiels
 cockatoo
 cockatoos
@@ -30583,6 +30591,7 @@ coquinas
 coquito
 coquitos
 cor
+coracle
 coracles
 coracoid
 coracoids
@@ -35404,6 +35413,7 @@ deaired
 deairing
 deairs
 deal
+dealate
 dealated
 dealates
 dealation
@@ -47725,6 +47735,7 @@ ependymas
 epentheses
 epenthesis
 epenthetic
+epergne
 epergnes
 epexegeses
 epexegesis
@@ -49350,6 +49361,7 @@ evanescence
 evanescences
 evanescent
 evanesces
+evanescing
 evangel
 evangelic
 evangelical
@@ -52347,6 +52359,7 @@ felloe
 felloes
 fellow
 fellowed
+fellowing
 fellowly
 fellowman
 fellowmen
@@ -67830,6 +67843,7 @@ housebreakings
 housebreaks
 housebroke
 housebroken
+housecarl
 housecarls
 houseclean
 housecleaned
@@ -70893,6 +70907,7 @@ inattentive
 inattentively
 inaudibilities
 inaudibility
+inaudible
 inaudibly
 inaugural
 inaugurals
@@ -74350,6 +74365,7 @@ introjection
 introjections
 introjects
 intromission
+intromissions
 intromit
 intromits
 intromitted
@@ -74599,6 +74615,7 @@ invests
 inveteracy
 inveterate
 inveterately
+inviabilities
 inviable
 inviably
 invidious
@@ -82386,6 +82403,7 @@ logomachy
 logon
 logons
 logophile
+logophiles
 logorrhea
 logorrheas
 logorrheic
@@ -91547,6 +91565,7 @@ movingly
 moviola
 mow
 mowed
+mower
 mowers
 mowing
 mowings
@@ -94772,6 +94791,7 @@ node
 nodes
 nodi
 nodical
+nodose
 nodosities
 nodosity
 nodous
@@ -103792,6 +103812,7 @@ parallaxes
 parallel
 paralleled
 parallelepiped
+parallelepipeds
 paralleling
 parallelism
 parallelisms
@@ -107052,6 +107073,7 @@ phenomenalisms
 phenomenalist
 phenomenalistic
 phenomenalists
+phenomenally
 phenomenas
 phenomenologies
 phenomenologist
@@ -107218,6 +107240,7 @@ phoebus
 phoebuses
 phoenix
 phoenixes
+phoenixlike
 phon
 phonal
 phonate
@@ -110797,6 +110820,7 @@ poolroom
 poolrooms
 pools
 poolside
+poons
 poontangs
 poop
 pooped
@@ -128680,6 +128704,7 @@ sauceboats
 saucebox
 sauceboxes
 sauced
+saucepan
 saucepans
 saucepot
 saucepots
@@ -128723,6 +128748,7 @@ saurels
 saurian
 saurians
 sauries
+saurischian
 saurischians
 sauropod
 sauropods
@@ -134967,6 +134993,7 @@ slandering
 slanderous
 slanderously
 slanderousness
+slanders
 slang
 slanged
 slangier
@@ -136963,6 +136990,7 @@ solution
 solvabilities
 solvability
 solvable
+solvate
 solvated
 solvates
 solvating
@@ -142634,6 +142662,7 @@ subring
 subrings
 subrogate
 subrogated
+subrogation
 subrogations
 subroutine
 subroutines
@@ -148426,6 +148455,7 @@ theologises
 theologising
 theologize
 theologized
+theologizer
 theologizers
 theologizes
 theologizing
@@ -153347,6 +153377,7 @@ tumesce
 tumesced
 tumescence
 tumescences
+tumescent
 tumesces
 tumescing
 tumid
@@ -156552,6 +156583,7 @@ unilateral
 unilaterally
 unilineal
 unilinear
+unilingual
 unilluminating
 unillusioned
 unilobed
@@ -156986,6 +157018,7 @@ unmesh
 unmeshed
 unmeshes
 unmet
+unmetabolized
 unmew
 unmewed
 unmewing
@@ -158008,6 +158041,7 @@ untitled
 unto
 untogether
 untold
+untorn
 untouchability
 untouchable
 untouchables
@@ -166371,6 +166405,7 @@ zirconia
 zirconias
 zirconium
 zirconiums
+zircons
 zit
 zitherist
 zitherists
