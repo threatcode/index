@@ -2457,6 +2457,7 @@ agreeabilities
 agreeability
 agreeable
 agreeableness
+agreeablenesses
 agreeably
 agreed
 agreeing
@@ -4265,6 +4266,7 @@ amplification
 amplifications
 amplified
 amplifier
+amplifiers
 amplifies
 amplify
 amplifying
@@ -5988,6 +5990,7 @@ antisexist
 antisexists
 antisexual
 antisexuality
+antiship
 antishock
 antishocks
 antishoplifting
@@ -6752,6 +6755,7 @@ apprenticed
 apprentices
 apprenticeship
 apprenticeships
+apprenticing
 appressed
 appressoria
 appressorium
@@ -6811,6 +6815,7 @@ approximations
 approximative
 apps
 appulse
+appulses
 appurtenance
 appurtenances
 appurtenant
@@ -14379,6 +14384,7 @@ bitsy
 bitt
 bitted
 bitten
+bitterbrush
 bitterbrushes
 bittered
 bitterer
@@ -15330,6 +15336,7 @@ blunderingly
 blunge
 blunged
 blunger
+blungers
 blunges
 blunging
 blunt
@@ -23280,6 +23287,7 @@ chattinesses
 chatting
 chatty
 chaufer
+chaufers
 chauffers
 chauffeur
 chauffeured
@@ -24774,6 +24782,7 @@ chymic
 chymics
 chymist
 chymists
+chymosin
 chymosins
 chymotrypsin
 chymotrypsins
@@ -27599,6 +27608,7 @@ columbites
 columbium
 columbiums
 columel
+columella
 columellae
 columellar
 columels
@@ -35933,6 +35943,7 @@ decoloring
 decolorization
 decolorizations
 decolorize
+decolorized
 decolorizers
 decolorizes
 decolorizing
@@ -43393,6 +43404,7 @@ droop
 drooped
 droopier
 droopiest
+droopily
 drooping
 droopingly
 droops
@@ -44214,6 +44226,7 @@ dyscrasias
 dyscrasic
 dyscratic
 dysenteric
+dysenteries
 dysentery
 dysfunction
 dysfunctional
@@ -44255,6 +44268,7 @@ dysphonia
 dysphonias
 dysphonic
 dysphoria
+dysphorias
 dysphoric
 dysplasias
 dysplastic
@@ -47622,6 +47636,7 @@ enwombed
 enwombing
 enwombs
 enwound
+enwrapped
 enwrapping
 enwraps
 enwreathe
@@ -47809,6 +47824,7 @@ epidermoid
 epiderms
 epidiascopes
 epididymal
+epididymides
 epididymis
 epididymitis
 epididymitises
@@ -49566,6 +49582,7 @@ exalter
 exalters
 exalting
 exalts
+exam
 examen
 examens
 examinable
@@ -63123,6 +63140,7 @@ gypped
 gypper
 gyppers
 gypping
+gyps
 gypseian
 gypseous
 gypsied
@@ -69253,6 +69271,7 @@ ibuprofen
 ibuprofens
 iceberg
 icebergs
+iceblink
 iceblinks
 iceboat
 iceboater
@@ -73357,6 +73376,7 @@ interagency
 interallelic
 interallied
 interanimation
+interanimations
 interannual
 interarch
 interarched
@@ -79187,6 +79207,7 @@ langrel
 langrels
 langridge
 langshan
+langshans
 langsyne
 langsynes
 language
@@ -87303,6 +87324,7 @@ metrifying
 metring
 metrist
 metrists
+metritis
 metritises
 metro
 metrological
@@ -106729,6 +106751,7 @@ petronel
 petronels
 petrosal
 petrous
+pets
 petsai
 petsais
 pettable
@@ -106820,6 +106843,7 @@ phagosomes
 phalangal
 phalange
 phalangeal
+phalanger
 phalangers
 phalanges
 phalansteries
@@ -109481,6 +109505,7 @@ plesiosaurs
 plessor
 plessors
 plethora
+plethoras
 plethoric
 plethysmogram
 plethysmograms
@@ -112125,6 +112150,7 @@ precompute
 precomputed
 precomputer
 precomputing
+preconceived
 preconceives
 preconceiving
 preconception
@@ -115915,6 +115941,7 @@ pummelled
 pummelling
 pummelo
 pummels
+pump
 pumped
 pumper
 pumpernickel
@@ -134013,6 +134040,7 @@ simonize
 simonized
 simonizes
 simonizing
+simony
 simoom
 simooms
 simoon
@@ -136355,6 +136383,7 @@ soapboxing
 soaped
 soaper
 soapier
+soapiest
 soapily
 soapiness
 soapinesses
@@ -138290,6 +138319,7 @@ spillway
 spillways
 spilt
 spilth
+spilths
 spin
 spinach
 spinaches
@@ -142203,6 +142233,7 @@ subgovernment
 subgrade
 subgrades
 subgraphs
+subgroup
 subgrouping
 subgroups
 subgum
@@ -142703,6 +142734,7 @@ substate
 substation
 substations
 substituent
+substituents
 substitutable
 substitute
 substituted
@@ -143264,6 +143296,7 @@ sullages
 sullen
 sullener
 sullenest
+sullenly
 sullenness
 sullennesses
 sulliable
@@ -146897,6 +146930,7 @@ teasingly
 teaspoon
 teaspoonful
 teaspoonfuls
+teaspoons
 teaspoonsful
 teat
 teataster
@@ -158595,6 +158629,7 @@ uraeus
 uraeuses
 uralite
 uralites
+uralitic
 urania
 uranias
 uranic
