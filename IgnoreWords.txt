@@ -973,6 +973,7 @@ acrylamide
 acrylamides
 acrylate
 acrylates
+acrylic
 acrylics
 acrylonitrile
 acrylonitriles
@@ -17746,6 +17747,7 @@ brooches
 brood
 brooded
 brooder
+brooders
 broodier
 broodiest
 broodily
@@ -24423,6 +24425,7 @@ chorines
 choring
 chorioallantoic
 chorioallantois
+choriocarcinoma
 chorioid
 chorioids
 chorion
@@ -28665,6 +28668,7 @@ conchal
 conchas
 conches
 conchie
+conchies
 conchoid
 conchoidal
 conchoidally
@@ -30849,6 +30853,7 @@ cornicing
 cornicle
 cornicles
 cornier
+corniest
 cornification
 cornifications
 cornified
@@ -31777,6 +31782,7 @@ coupledom
 coupledoms
 couplement
 couplements
+coupler
 couplers
 couples
 couplet
@@ -42800,6 +42806,7 @@ dovetailed
 dovetailing
 dovetails
 dovish
+dovishness
 dovishnesses
 dow
 dowable
@@ -49977,6 +49984,7 @@ exemplars
 exemplary
 exemplified
 exemplifies
+exemplify
 exemplifying
 exemplum
 exempt
@@ -54118,6 +54126,7 @@ flatland
 flatlander
 flatlanders
 flatlet
+flatlets
 flatline
 flatlined
 flatliner
@@ -56839,6 +56848,7 @@ frightens
 frightful
 frightfully
 frightfulness
+frightfulnesses
 frighting
 frights
 frigid
@@ -61209,6 +61219,7 @@ gorillas
 gorily
 gorinesses
 goring
+gorm
 gormand
 gormandise
 gormandised
@@ -66230,6 +66241,7 @@ hiddennesses
 hide
 hideaway
 hidebound
+hided
 hideless
 hideosities
 hideosity
@@ -75586,6 +75598,7 @@ jacamars
 jacana
 jacanas
 jacaranda
+jacarandas
 jacinth
 jacinthe
 jacinthes
@@ -77648,6 +77661,7 @@ kiaugh
 kiaughs
 kibbe
 kibbeh
+kibbes
 kibbi
 kibbis
 kibbitz
@@ -82254,6 +82268,7 @@ localites
 localities
 locality
 localizability
+localizable
 localization
 localizations
 localize
@@ -83597,6 +83612,7 @@ lyricist
 lyricists
 lyricize
 lyricized
+lyricizes
 lyricizing
 lyricon
 lyricons
@@ -83967,6 +83983,7 @@ magilp
 magilps
 magister
 magisterial
+magisterium
 magisteriums
 magisters
 magistracies
@@ -85267,6 +85284,7 @@ marseilles
 marses
 marsh
 marshal
+marshalcy
 marshaled
 marshaling
 marshall
@@ -85711,6 +85729,7 @@ matsutakes
 matt
 matted
 mattedly
+matter
 mattered
 mattering
 matters
@@ -88828,6 +88847,7 @@ misattributed
 misattributes
 misattributing
 misattribution
+misattributions
 misaver
 misaverred
 misaverring
@@ -90150,6 +90170,7 @@ modishly
 modishness
 modishnesses
 modiste
+modistes
 mods
 modulabilities
 modulability
@@ -90410,6 +90431,7 @@ monardas
 monas
 monasteries
 monastery
+monastic
 monastically
 monasticism
 monasticisms
@@ -92132,6 +92154,7 @@ multiskilled
 multisource
 multispecies
 multispectral
+multispeed
 multisport
 multistage
 multistate
@@ -96278,6 +96301,7 @@ nonteaching
 nontechnical
 nontemporal
 nontenured
+nonterminal
 nonterminals
 nonterminating
 nontheatrical
@@ -97724,6 +97748,7 @@ octaval
 octave
 octaves
 octavo
+octavos
 octennial
 octet
 octets
@@ -99447,6 +99472,7 @@ osteoarthritis
 osteoblast
 osteoblastic
 osteoblasts
+osteoclast
 osteoclasts
 osteocyte
 osteocytes
@@ -112765,6 +112791,7 @@ prehistorically
 prehistories
 prehistory
 preholiday
+prehominid
 prehominids
 prehuman
 prehumans
@@ -112921,6 +112948,7 @@ premie
 premier
 premiere
 premiered
+premieres
 premiering
 premierships
 premies
@@ -120955,6 +120983,7 @@ refasten
 refastened
 refastening
 refastens
+refect
 refected
 refecting
 refection
@@ -125041,6 +125070,7 @@ revibrated
 revibrates
 revibrating
 revictual
+revictualed
 revictualing
 revictualled
 revictualling
@@ -132273,6 +132303,7 @@ shacklebone
 shacklebones
 shackled
 shackler
+shacklers
 shackles
 shackling
 shacko
@@ -135533,6 +135564,7 @@ slittier
 slittiest
 slitting
 slitty
+sliver
 slivered
 sliverer
 sliverers
@@ -141960,6 +141992,7 @@ stuffier
 stuffiest
 stuffily
 stuffiness
+stuffinesses
 stuffing
 stuffings
 stuffless
@@ -148559,6 +148592,7 @@ thelitises
 them
 thematic
 thematically
+thematics
 theme
 themed
 themes
@@ -150611,6 +150645,7 @@ tooting
 tootle
 tootled
 tootler
+tootlers
 tootles
 tootling
 toots
