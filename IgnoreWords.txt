@@ -3645,6 +3645,7 @@ alters
 althaea
 althaeas
 althea
+altheas
 altho
 althorn
 althorns
@@ -8634,6 +8635,7 @@ atropisms
 att
 attaboy
 attach
+attachable
 attache
 attached
 attacher
@@ -10073,6 +10075,7 @@ backspace
 backspaced
 backspacing
 backspin
+backspins
 backsplashes
 backstab
 backstabbed
@@ -21785,6 +21788,7 @@ categorizations
 categorize
 categorized
 categorizes
+categorizing
 category
 catena
 catenae
@@ -23899,6 +23903,7 @@ chimars
 chimb
 chimbley
 chimbleys
+chimblies
 chimbly
 chimbs
 chime
@@ -24513,6 +24518,7 @@ chromatins
 chromatogram
 chromatograms
 chromatograph
+chromatographed
 chromatographer
 chromatographic
 chromatographs
@@ -26890,6 +26896,7 @@ coextended
 coextending
 coextends
 coextensive
+coextensively
 cofactor
 cofactors
 cofavorite
@@ -27217,6 +27224,7 @@ colessee
 colessees
 colessor
 colessors
+coleus
 coleuses
 colewort
 coleworts
@@ -43480,6 +43488,7 @@ dropsondes
 dropsy
 dropt
 dropworts
+drosera
 droseras
 droshkies
 droshky
@@ -45182,6 +45191,7 @@ eidolons
 eidos
 eigenmode
 eigenmodes
+eigenvalue
 eigenvalues
 eigenvectors
 eight
@@ -47447,6 +47457,7 @@ enticer
 enticers
 entices
 enticing
+enticingly
 entire
 entirely
 entireness
@@ -48674,6 +48685,7 @@ esoterically
 esotericism
 esotericisms
 esotropia
+esotropias
 esotropic
 espadrille
 espadrilles
@@ -57860,6 +57872,7 @@ gaffes
 gaffing
 gaffs
 gag
+gaga
 gagaku
 gagakus
 gage
@@ -65662,6 +65675,7 @@ henries
 henry
 henrys
 hens
+hent
 hented
 henting
 hents
@@ -68233,6 +68247,7 @@ humorousness
 humorousnesses
 humors
 humour
+humoured
 humouring
 humours
 hump
@@ -69814,6 +69829,7 @@ illusivenesses
 illusorily
 illusoriness
 illusorinesses
+illusory
 illustrate
 illustrated
 illustrates
@@ -81198,6 +81214,7 @@ lightsome
 lightsomeness
 lightsomenesses
 lighttight
+lightwave
 lightweight
 lightweights
 lightwood
@@ -84029,6 +84046,7 @@ mahoes
 mahoganies
 mahogany
 mahonia
+mahonias
 mahout
 mahouts
 mahzor
@@ -89204,6 +89222,7 @@ mishandles
 mishandling
 mishanter
 mishanters
+mishap
 mishaps
 mishear
 misheard
@@ -90960,6 +90979,7 @@ mopey
 mopiest
 mopiness
 mopinesses
+moping
 mopingly
 mopish
 mopishly
@@ -94501,6 +94521,7 @@ nightlifes
 nightlives
 nightlong
 nightly
+nightmare
 nightmarish
 nightmarishly
 nights
@@ -97636,6 +97657,7 @@ octangles
 octanol
 octanols
 octans
+octant
 octantal
 octants
 octapeptide
@@ -102083,6 +102105,7 @@ oversetting
 oversew
 oversewed
 oversewing
+oversewn
 oversews
 oversexed
 overshade
@@ -103498,6 +103521,7 @@ panini
 panino
 panjandra
 panjandrum
+panjandrums
 panleukopenia
 panleukopenias
 panmictic
@@ -109346,6 +109370,7 @@ platooning
 platoons
 plats
 platted
+platter
 platterful
 platterfuls
 platters
@@ -111677,6 +111702,7 @@ pounds
 pour
 pourable
 pourboire
+pourboires
 poured
 pourer
 pouringly
@@ -113371,6 +113397,7 @@ pressurizer
 pressurizers
 pressurizes
 pressurizing
+presswork
 pressworks
 prest
 prestamp
@@ -116296,6 +116323,7 @@ purisms
 puristically
 purists
 puritan
+puritanic
 puritanical
 puritanically
 puritanism
@@ -126589,6 +126617,7 @@ rotatores
 rotators
 rotatory
 rotavirus
+rotaviruses
 rotch
 rotche
 rotches
@@ -132023,6 +132052,7 @@ seventieth
 seventieths
 sever
 severabilities
+severability
 severable
 several
 severalfold
@@ -134275,6 +134305,7 @@ singles
 singlestick
 singlesticks
 singlet
+singleton
 singletons
 singletree
 singlets
@@ -149516,6 +149547,7 @@ tigerishness
 tigerishnesses
 tigerlike
 tigers
+tight
 tighten
 tightened
 tightener
@@ -155378,6 +155410,7 @@ uncouples
 uncoupling
 uncourageous
 uncouth
+uncouthly
 uncouthness
 uncouthnesses
 uncovenanted
@@ -156061,6 +156094,7 @@ unearned
 unearth
 unearthed
 unearthing
+unearthlier
 unearthliest
 unearthliness
 unearthlinesses
@@ -156608,6 +156642,7 @@ uniforming
 uniformitarians
 uniformities
 uniformity
+uniformness
 uniformnesses
 uniforms
 unifying
