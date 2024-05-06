@@ -1103,6 +1103,7 @@ acutenesses
 acuter
 acutes
 acutest
+acyclic
 acyclovir
 acyclovirs
 acyl
@@ -14185,6 +14186,7 @@ birdbrain
 birdbrained
 birdbrains
 birdcage
+birdcages
 birdcall
 birddog
 birddogged
@@ -14627,6 +14629,7 @@ blandest
 blandish
 blandished
 blandisher
+blandishes
 blandishing
 blandishments
 blandly
@@ -32261,6 +32264,7 @@ crappies
 crappiest
 crapping
 crappy
+craps
 crapshoot
 crapshooters
 crapshoots
@@ -38077,6 +38081,7 @@ desiccating
 desiccation
 desiccations
 desiccative
+desiccator
 desiccators
 desiderata
 desiderate
@@ -39471,6 +39476,7 @@ digastric
 digastrics
 digeneses
 digenetic
+digest
 digested
 digester
 digesters
@@ -55995,6 +56001,7 @@ fortieths
 fortification
 fortifications
 fortified
+fortifier
 fortifiers
 fortify
 fortifying
@@ -56062,6 +56069,7 @@ fossiliferous
 fossilise
 fossilising
 fossilization
+fossilizations
 fossilize
 fossilized
 fossilizes
@@ -57833,6 +57841,7 @@ gainless
 gainlier
 gainliest
 gainly
+gains
 gainsaid
 gainsay
 gainsayer
@@ -77351,6 +77360,7 @@ kerries
 kerry
 kersey
 kerseymere
+kerseymeres
 kerseys
 kerygma
 kerygmas
@@ -81415,6 +81425,7 @@ lingers
 lingier
 lingiest
 lingo
+lingoes
 lingonberries
 lingonberry
 lings
@@ -85773,6 +85784,7 @@ meadow
 meadowland
 meadowlands
 meadowlark
+meadowlarks
 meadows
 meadowsweet
 meadowsweets
@@ -86223,6 +86235,7 @@ melanges
 melanian
 melanic
 melanics
+melanin
 melanins
 melanism
 melanisms
@@ -90967,6 +90980,7 @@ moronisms
 moronities
 moronity
 morons
+morose
 morosely
 moroseness
 morosenesses
@@ -92756,6 +92770,7 @@ na
 naan
 naans
 nab
+nabbed
 nabber
 nabbers
 nabbing
@@ -93115,6 +93130,7 @@ natalities
 natality
 natantly
 natation
+natations
 natatoria
 natatorial
 natatorium
@@ -94857,6 +94873,7 @@ nonagenarian
 nonagenarians
 nonages
 nonaggression
+nonaggressions
 nonaggressive
 nonagon
 nonagonal
@@ -98582,6 +98599,7 @@ optimism
 optimisms
 optimist
 optimistic
+optimists
 optimization
 optimizations
 optimize
@@ -99258,6 +99276,7 @@ osteogeneses
 osteogenesis
 osteogenic
 osteoid
+osteoids
 osteological
 osteologies
 osteologist
@@ -99275,6 +99294,7 @@ osteopaths
 osteopathy
 osteoplastic
 osteoplasties
+osteoplasty
 osteoporoses
 osteoporosis
 osteoporotic
@@ -104070,6 +104090,7 @@ parles
 parley
 parleyed
 parleyer
+parleyers
 parleying
 parleys
 parliament
@@ -108390,6 +108411,7 @@ pinnipeds
 pinnula
 pinnulae
 pinnular
+pinnulate
 pinnule
 pinnules
 pinny
@@ -111921,6 +111943,7 @@ prebooked
 prebooking
 prebooks
 preboom
+prebreakfast
 prebudget
 prebudgets
 prebuild
@@ -116423,6 +116446,7 @@ pygmean
 pygmies
 pygmoid
 pygmy
+pygmyish
 pygmyism
 pygmyisms
 pyic
@@ -121879,6 +121903,7 @@ relaxing
 relaxins
 relay
 relayed
+relaying
 relays
 relearn
 relearned
@@ -129111,6 +129136,7 @@ scene
 sceneries
 scenery
 scenes
+sceneshifter
 sceneshifters
 scenic
 scenical
@@ -130707,6 +130733,7 @@ segnos
 segos
 segregant
 segregants
+segregate
 segregated
 segregates
 segregation
@@ -135569,6 +135596,7 @@ smasher
 smashers
 smashes
 smashing
+smashingly
 smashup
 smashups
 smatter
@@ -140635,6 +140663,7 @@ stoas
 stoat
 stoats
 stob
+stobbed
 stobbing
 stobs
 stoccado
@@ -150958,6 +150987,7 @@ trackable
 trackage
 trackages
 trackball
+trackballs
 tracked
 tracker
 trackers
@@ -153691,6 +153721,7 @@ tweeze
 tweezed
 tweezer
 tweezers
+tweezes
 tweezing
 twelfth
 twelfths
@@ -154348,6 +154379,7 @@ umm
 ump
 umped
 umping
+umpirage
 umpirages
 umpire
 umpired
@@ -156620,6 +156652,7 @@ unkempt
 unkend
 unkenned
 unkennel
+unkenneled
 unkenneling
 unkennelled
 unkennelling
@@ -157810,6 +157843,7 @@ untechnical
 untempered
 untenabilities
 untenability
+untenable
 untenably
 untenanted
 untended
@@ -164289,6 +164323,7 @@ wishes
 wishful
 wishfully
 wishfulness
+wishfulnesses
 wishing
 wishless
 wising
