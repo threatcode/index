@@ -1366,6 +1366,7 @@ adjutant
 adjutants
 adjuvant
 adman
+admass
 admasses
 admeasure
 admeasured
@@ -3003,6 +3004,7 @@ algaecide
 algaecides
 algaroba
 algarobas
+algarroba
 algarrobas
 algarrobo
 algarrobos
@@ -13469,6 +13471,7 @@ biddably
 bidden
 bidder
 bidders
+biddies
 bidding
 biddings
 biddy
@@ -27316,6 +27319,7 @@ collegiums
 collembolan
 collembolans
 collembolous
+collenchyma
 collenchymas
 collenchymatous
 collet
@@ -33923,6 +33927,7 @@ curricular
 curriculum
 curriculums
 currie
+currier
 currieries
 curriers
 curriery
@@ -39702,6 +39707,7 @@ diminishments
 diminuendo
 diminuendos
 diminution
+diminutions
 diminutive
 diminutively
 diminutiveness
@@ -46341,6 +46347,7 @@ encaustic
 encaustics
 enceinte
 enceintes
+encephala
 encephalitic
 encephalitides
 encephalitis
@@ -46386,6 +46393,7 @@ encina
 encinal
 encinas
 encipher
+enciphered
 encipherer
 encipherers
 enciphering
@@ -47382,6 +47390,7 @@ enticements
 enticer
 enticers
 entices
+enticing
 entire
 entirely
 entireness
@@ -56898,6 +56907,7 @@ frontenises
 fronter
 frontes
 frontier
+frontiers
 frontiersman
 frontiersmen
 fronting
@@ -58198,6 +58208,7 @@ ganged
 ganger
 ganging
 gangland
+ganglands
 ganglia
 ganglial
 gangliar
@@ -63352,6 +63363,7 @@ hagadic
 hagadist
 hagadists
 hagberries
+hagberry
 hagborn
 hagbush
 hagbushes
@@ -63770,6 +63782,7 @@ hammerlock
 hammerlocks
 hammers
 hammertoe
+hammertoes
 hammier
 hammily
 hamminesses
@@ -66798,6 +66811,7 @@ holm
 holmiums
 holms
 holoblastic
+holocaust
 holocausts
 holocene
 holocrine
@@ -69144,6 +69158,7 @@ hypotenuses
 hypothalami
 hypothalamic
 hypothalamus
+hypothec
 hypothecate
 hypothecated
 hypothecates
@@ -70409,6 +70424,7 @@ implement
 implementation
 implementations
 implemented
+implementer
 implementers
 implementing
 implementor
@@ -72922,6 +72938,7 @@ insolently
 insolents
 insoles
 insolubilities
+insolubility
 insolubilize
 insolubilized
 insolubilizing
@@ -85679,6 +85696,7 @@ mayapple
 mayapples
 mayas
 maybe
+maybes
 maybird
 maybirds
 maybush
@@ -86429,6 +86447,7 @@ menadione
 menadiones
 menage
 menagerie
+menageries
 menages
 menarche
 menarcheal
@@ -88559,6 +88578,7 @@ misaimed
 misaiming
 misaims
 misalign
+misaligned
 misaligning
 misalignment
 misalignments
@@ -91487,6 +91507,7 @@ muchachos
 muches
 muchly
 muchness
+muchnesses
 mucho
 mucid
 mucidities
@@ -91990,6 +92011,7 @@ mummers
 mummery
 mummichog
 mummichogs
+mummied
 mummies
 mummification
 mummifications
@@ -94889,6 +94911,7 @@ nonathletic
 nonatomic
 nonattached
 nonattachment
+nonattachments
 nonattendance
 nonattendances
 nonattender
@@ -97743,6 +97766,7 @@ officinals
 officious
 officiously
 officiousness
+officiousnesses
 offing
 offings
 offish
@@ -100462,6 +100486,7 @@ outspeak
 outspeaking
 outspeaks
 outsped
+outspeed
 outspeeded
 outspeeds
 outspell
@@ -102732,6 +102757,7 @@ paeanism
 paeanisms
 paeans
 paediatric
+paediatrician
 paediatricians
 paediatrics
 paedogeneses
@@ -106559,6 +106585,7 @@ pesters
 pesthole
 pestholes
 pesthouse
+pesthouses
 pesticides
 pestier
 pestiest
@@ -110563,6 +110590,7 @@ pompadoured
 pompadours
 pompano
 pompanos
+pompom
 pompoms
 pompon
 pompons
@@ -118094,6 +118122,7 @@ ranged
 rangeland
 rangelands
 ranger
+rangers
 ranges
 rangier
 rangiest
@@ -118743,6 +118772,7 @@ reaffixing
 reafforest
 reafforestation
 reafforested
+reafforesting
 reafforests
 reagent
 reagents
@@ -136116,6 +136146,7 @@ snorter
 snorters
 snorting
 snorts
+snot
 snots
 snottier
 snottiest
@@ -140813,6 +140844,7 @@ stooge
 stooged
 stooges
 stooging
+stook
 stooked
 stooker
 stookers
@@ -142942,6 +142974,7 @@ suctorian
 suctorians
 sudaria
 sudaries
+sudarium
 sudary
 sudation
 sudations
@@ -156768,6 +156801,7 @@ unmanaged
 unmanful
 unmanlier
 unmanliest
+unmanliness
 unmanned
 unmannered
 unmanneredly
@@ -157421,6 +157455,7 @@ unseats
 unseaworthy
 unsecured
 unseeable
+unseeded
 unseemlier
 unseemliest
 unseemliness
