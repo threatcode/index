@@ -8,3 +8,7 @@ cmsbk.sql - Login,http://cms.kcn.unima.mw:8002/moodle/downloads/cmsbk.sql
 www.omicsgroup.com/conferences/ACS/conference/spea...,http://www.omicsgroup.com/conferences/ACS/conference/speaker_ppt/15222-Speaker-ppt.sql
 translations.openemr.io/languageTranslations_utf8.sql,http://translations.openemr.io/languageTranslations_utf8.sql
 ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
+mimic-code/mimic-iii/concepts/comorbidity/elixhauser_quan.sql at ...,https://github.com/MIT-LCP/mimic-code/blob/main/mimic-iii/concepts/comorbidity/elixhauser_quan.sql
+elixhauser_ahrq_v37_no_drg.sql - GitHub,https://github.com/MIT-LCP/mimic-code/blob/main/mimic-iii/concepts/comorbidity/elixhauser_ahrq_v37_no_drg.sql
+https://raw.githubusercontent.com/openemr/openemr/...,https://raw.githubusercontent.com/openemr/openemr/aa42240771e37d41379d506e1e54d80f8e40533a/contrib/util/language_translations/currentLanguage_utf8.sql
+http://translations.openemr.io/languageTranslation...,http://translations.openemr.io/languageTranslations_utf8.sql
