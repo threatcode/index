@@ -1591,6 +1591,7 @@ adumbrate
 adumbrated
 adumbrates
 adumbrating
+adumbration
 adumbrations
 adumbrative
 adunc
@@ -3330,6 +3331,7 @@ alliterating
 alliteration
 alliterations
 alliterative
+alliteratively
 allium
 alliums
 alloantibodies
@@ -4139,6 +4141,7 @@ amok
 amoks
 amole
 among
+amongst
 amontillado
 amontillados
 amoral
@@ -7358,6 +7361,7 @@ arillode
 arillodes
 arilloid
 arils
+ariose
 ariosi
 arioso
 ariosos
@@ -8910,6 +8914,7 @@ augur
 augural
 augured
 augurer
+augurers
 auguries
 auguring
 augurs
@@ -15946,6 +15951,7 @@ boocoo
 boocoos
 boodies
 boodle
+boodled
 boodler
 boodlers
 boodling
@@ -24552,6 +24558,7 @@ chronaxie
 chronaxies
 chronaxy
 chronic
+chronically
 chronicities
 chronicity
 chronicle
@@ -25055,6 +25062,7 @@ circumspectly
 circumstance
 circumstanced
 circumstances
+circumstantial
 circumstantiate
 circumstellar
 circumvallate
@@ -25173,6 +25181,7 @@ citriculturist
 citriculturists
 citrin
 citrine
+citrines
 citrinin
 citrinins
 citrins
@@ -27927,6 +27936,7 @@ committeewoman
 committeewomen
 committing
 commix
+commixed
 commixes
 commixing
 commixt
@@ -32518,6 +32528,7 @@ cremate
 cremated
 cremates
 cremating
+cremation
 cremations
 cremator
 crematories
@@ -43667,6 +43678,7 @@ duckbill
 duckbills
 duckboard
 duckboards
+ducked
 ducker
 duckers
 duckie
@@ -48552,6 +48564,7 @@ escapers
 escapes
 escaping
 escapism
+escapisms
 escapist
 escapists
 escapologies
@@ -50648,6 +50661,7 @@ exteriorised
 exteriorises
 exteriorising
 exteriorities
+exteriorization
 exteriorize
 exteriorized
 exteriorizes
@@ -51396,6 +51410,7 @@ fallouts
 fallow
 fallowed
 fallowing
+fallowness
 fallownesses
 fallows
 falls
@@ -55049,6 +55064,7 @@ fogdog
 fogdogs
 fogey
 fogeyish
+fogeyism
 fogeyisms
 fogeys
 fogfruit
@@ -61601,6 +61617,7 @@ graphicnesses
 graphics
 graphing
 graphite
+graphites
 graphitic
 graphitizable
 graphitization
@@ -73843,10 +73860,12 @@ interoceptors
 interoffice
 interoperable
 interorbital
+interpandemic
 interparochial
 interparoxysmal
 interparticle
 interparty
+interpellate
 interpellated
 interpellates
 interpellating
@@ -87539,6 +87558,7 @@ microelectronic
 microelement
 microelements
 microevolution
+microevolutions
 microfarad
 microfarads
 microfaunae
@@ -99532,6 +99552,7 @@ outblaze
 outblazed
 outblazes
 outblazing
+outbleated
 outbleating
 outbleats
 outbless
@@ -101498,6 +101519,7 @@ overheap
 overheaped
 overheaping
 overheaps
+overhear
 overheard
 overhearing
 overhears
@@ -101860,6 +101882,7 @@ overprogrammed
 overprograms
 overpromises
 overpromoted
+overpromotes
 overpromoting
 overproof
 overproportion
@@ -106521,6 +106544,7 @@ persuasions
 persuasive
 persuasively
 persuasiveness
+pert
 pertain
 pertained
 pertaining
@@ -111887,6 +111911,7 @@ preannounce
 preannounces
 preannouncing
 preapplied
+preapplies
 preapply
 preapplying
 preapprove
@@ -112638,6 +112663,7 @@ prelaunches
 prelaunching
 prelaw
 prelect
+prelected
 prelecting
 prelection
 prelections
@@ -125622,6 +125648,7 @@ rills
 rime
 rimed
 rimer
+rimers
 rimes
 rimester
 rimesters
@@ -138927,6 +138954,7 @@ sprawly
 spray
 sprayed
 sprayer
+sprayers
 spraying
 sprays
 spread
@@ -142200,6 +142228,7 @@ suberize
 suberized
 suberizes
 suberizing
+suberose
 suberous
 subers
 subfamilies
@@ -146938,6 +146967,7 @@ teatasters
 teated
 teatime
 teatimes
+teats
 teaware
 teawares
 teazel
@@ -151823,6 +151853,7 @@ treaties
 treating
 treatise
 treatises
+treatment
 treatments
 treats
 treaty
@@ -154539,6 +154570,7 @@ unanalyzable
 unanalyzed
 unanchor
 unanchored
+unanchoring
 unanchors
 unaneled
 unanimities
@@ -154764,6 +154796,7 @@ unboiled
 unbolt
 unbolted
 unbolting
+unbolts
 unboned
 unbonnet
 unbonneted
@@ -155027,6 +155060,7 @@ unclamp
 unclamped
 unclamping
 unclamps
+unclarified
 unclarities
 unclarity
 unclasp
@@ -164957,6 +164991,7 @@ worldbeat
 worldbeats
 worldlier
 worldliest
+worldliness
 worldlinesses
 worldling
 worldlings
