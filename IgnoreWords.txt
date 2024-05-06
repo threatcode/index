@@ -1265,6 +1265,7 @@ adherer
 adherers
 adheres
 adhering
+adhesion
 adhesional
 adhesions
 adhesively
@@ -1284,6 +1285,7 @@ adios
 adipic
 adipocere
 adipoceres
+adipocyte
 adipocytes
 adipose
 adiposes
@@ -2866,6 +2868,7 @@ alcades
 alcahest
 alcahests
 alcaics
+alcaide
 alcaides
 alcalde
 alcaldes
@@ -5149,6 +5152,7 @@ annulations
 annulet
 annulets
 annuli
+annulled
 annulling
 annulment
 annulments
@@ -8576,6 +8580,7 @@ atony
 atop
 atopic
 atopies
+atopy
 atrabilious
 atrabiliousness
 atrazine
@@ -15988,6 +15993,7 @@ booklets
 booklice
 booklore
 booklores
+booklouse
 bookmaker
 bookmakers
 bookmaking
@@ -16466,6 +16472,7 @@ bountiful
 bountifully
 bountifulness
 bountifulnesses
+bounty
 bouquet
 bouquets
 bourbon
@@ -20346,6 +20353,7 @@ cantles
 canto
 canton
 cantonal
+cantoned
 cantoning
 cantonment
 cantonments
@@ -22614,6 +22622,7 @@ cesium
 cesiums
 cespitose
 cess
+cessation
 cessations
 cessed
 cesses
@@ -26326,6 +26335,7 @@ coatings
 coatis
 coatless
 coatrack
+coatracks
 coatroom
 coats
 coattail
@@ -37484,6 +37494,7 @@ deodorize
 deodorized
 deodorizer
 deodorizers
+deodorizes
 deodorizing
 deontic
 deontological
@@ -51400,6 +51411,7 @@ familiarizes
 familiarizing
 familiarly
 familiarness
+familiarnesses
 familiars
 families
 familism
@@ -52278,6 +52290,7 @@ fellowmen
 fellows
 fellowship
 fellowshiped
+fellowshiping
 fellowshipped
 fellowshipping
 fellowships
@@ -57346,6 +57359,7 @@ fungicide
 fungicides
 fungiform
 fungistat
+fungistatic
 fungistats
 fungo
 fungoes
@@ -75664,6 +75678,7 @@ jarldoms
 jarls
 jarlsberg
 jarlsbergs
+jarosite
 jarosites
 jarovize
 jarovized
@@ -75828,6 +75843,7 @@ jellybean
 jellybeans
 jellyfish
 jellyfishes
+jellylike
 jellyroll
 jellyrolls
 jelutong
@@ -76268,6 +76284,7 @@ jokier
 jokiest
 jokily
 jokiness
+joking
 jokingly
 joky
 jole
@@ -79474,6 +79491,7 @@ lateralled
 lateralling
 laterally
 laterals
+laterborn
 laterborns
 laterite
 laterites
@@ -87833,6 +87851,7 @@ mightiest
 mightily
 mightiness
 mightinesses
+mights
 mignon
 mignonette
 mignonettes
@@ -88179,6 +88198,7 @@ minacities
 minacity
 minae
 minaret
+minareted
 minarets
 minatory
 minaudieres
@@ -88381,6 +88401,7 @@ minor
 minorca
 minorcas
 minored
+minoring
 minorities
 minority
 minors
@@ -92924,6 +92945,7 @@ narcissists
 narcissus
 narcissuses
 narcist
+narcistic
 narcists
 narco
 narcolepsies
@@ -113285,6 +113307,7 @@ pretorians
 pretors
 pretournament
 pretrain
+pretraining
 pretrains
 pretravel
 pretreat
@@ -116868,6 +116891,7 @@ quartzites
 quartzitic
 quartzose
 quartzous
+quasar
 quasars
 quash
 quashed
@@ -121107,6 +121131,7 @@ regisseur
 regisseurs
 register
 registerable
+registered
 registering
 registers
 registrable
@@ -122038,6 +122063,7 @@ remarks
 remarque
 remarques
 remarriage
+remarriages
 remarried
 remarries
 remarry
@@ -127494,6 +127520,7 @@ sained
 sainfoin
 sainfoins
 saining
+sains
 saint
 saintdom
 saintdoms
@@ -129815,6 +129842,7 @@ scrimshawed
 scrimshawing
 scrimshaws
 scrips
+script
 scripted
 scripter
 scripters
@@ -131008,6 +131036,7 @@ semiological
 semiologically
 semiologies
 semiologist
+semiologists
 semiology
 semiopen
 semioses
@@ -144030,6 +144059,7 @@ suppletive
 suppletory
 suppliance
 suppliant
+suppliantly
 suppliants
 supplicant
 supplicants
@@ -147483,6 +147513,7 @@ tentative
 tentatively
 tentativeness
 tentativenesses
+tentatives
 tented
 tentered
 tenterhook
@@ -147980,6 +148011,7 @@ teugh
 teughly
 teutonize
 teutonizes
+teutonizing
 tevatron
 tevatrons
 tew
@@ -148290,6 +148322,7 @@ theriacas
 theriacs
 therian
 therians
+theriomorphic
 therm
 thermae
 thermal
@@ -148983,6 +149016,7 @@ thundering
 thunderingly
 thunderous
 thunderously
+thunders
 thundershower
 thundershowers
 thunderstone
@@ -149535,6 +149569,7 @@ tipcat
 tipcats
 tipi
 tipis
+tipless
 tipoff
 tipoffs
 tippable
