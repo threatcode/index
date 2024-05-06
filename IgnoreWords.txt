@@ -1308,6 +1308,7 @@ adjacent
 adjacently
 adjectival
 adjectivally
+adjective
 adjectively
 adjectives
 adjoin
@@ -1611,6 +1612,7 @@ advancers
 advances
 advancing
 advantage
+advantaged
 advantageous
 advantageously
 advantages
@@ -5075,6 +5077,7 @@ ankyloses
 ankylosing
 ankylosis
 ankylostomiases
+ankylostomiasis
 ankylotic
 anlace
 anlaces
@@ -13757,6 +13760,7 @@ billiards
 billie
 billies
 billing
+billings
 billingsgate
 billingsgates
 billion
@@ -19878,6 +19882,7 @@ calypsoes
 calypsonians
 calypsos
 calypter
+calypters
 calyptra
 calyptras
 calyx
@@ -27016,6 +27021,7 @@ cognized
 cognizer
 cognizers
 cognizes
+cognizing
 cognomen
 cognomens
 cognomina
@@ -36828,6 +36834,7 @@ dejection
 dejections
 dejects
 dejeuner
+dejeuners
 dekagram
 dekagrams
 dekaliter
@@ -46615,6 +46622,7 @@ encyclopedia
 encyclopedias
 encyclopedic
 encyclopedism
+encyclopedisms
 encyclopedist
 encyclopedists
 encyst
@@ -50919,6 +50927,7 @@ extravaganzas
 extravagate
 extravagated
 extravagates
+extravagating
 extravasate
 extravasates
 extravasating
@@ -61730,6 +61739,7 @@ graphitizes
 graphitizing
 grapholect
 grapholects
+graphological
 graphologies
 graphologist
 graphologists
@@ -65788,6 +65798,7 @@ heptarchs
 heptose
 heptoses
 her
+herald
 heralded
 heraldic
 heraldically
@@ -66124,6 +66135,7 @@ heterozygotes
 heth
 heths
 hetman
+hetmans
 hets
 heuch
 heuchs
@@ -72734,6 +72746,7 @@ inkpots
 inks
 inkstand
 inkstands
+inkstone
 inkstones
 inkwell
 inkwells
@@ -81639,6 +81652,7 @@ lingulae
 lingular
 lingy
 linier
+liniest
 liniment
 liniments
 linin
@@ -83543,6 +83557,7 @@ lycopenes
 lycopod
 lycopodium
 lycopodiums
+lycopods
 lycra
 lycras
 lyddite
@@ -86594,6 +86609,7 @@ membership
 memberships
 membranal
 membrane
+membranes
 membranous
 membranously
 meme
@@ -89605,6 +89621,7 @@ misraises
 misraising
 misrate
 misrated
+misrates
 misrating
 misread
 misreading
@@ -92037,6 +92054,7 @@ multiethnics
 multifaceted
 multifactor
 multifactorial
+multifamily
 multifarious
 multifid
 multifilament
@@ -97048,6 +97066,7 @@ nunneries
 nunnery
 nunnish
 nuptial
+nuptialities
 nuptiality
 nuptially
 nuptials
@@ -100240,6 +100259,7 @@ outjinx
 outjinxed
 outjinxes
 outjinxing
+outjockey
 outjockeyed
 outjockeying
 outjockeys
@@ -109974,6 +109994,7 @@ plumulose
 plumy
 plunder
 plundered
+plunderers
 plundering
 plunderous
 plunders
@@ -117988,6 +118009,7 @@ radiolucent
 radiolyses
 radiolysis
 radiolytic
+radioman
 radiomen
 radiometer
 radiometers
@@ -120566,6 +120588,7 @@ redivided
 redivides
 redividing
 redivision
+redivisions
 redivivus
 redivorce
 redivorces
@@ -125633,6 +125656,7 @@ ricercare
 ricercari
 ricercars
 rices
+rich
 richen
 richened
 richening
@@ -127618,6 +127642,7 @@ saccharine
 saccharinities
 saccharinity
 saccharins
+saccharoidal
 saccharometer
 saccharometers
 saccharomyces
@@ -128337,6 +128362,7 @@ sandbur
 sandburr
 sandburrs
 sandburs
+sandcrack
 sandcracks
 sanddab
 sanddabs
@@ -128455,6 +128481,7 @@ sanitating
 sanitation
 sanitations
 sanities
+sanitise
 sanitised
 sanitises
 sanitising
@@ -144435,6 +144462,7 @@ superweapon
 superweapons
 superwide
 superwides
+superwives
 superwoman
 superwomen
 supes
@@ -145881,6 +145909,7 @@ synthpops
 synths
 syntonies
 syntony
+synura
 synurae
 syph
 sypher
@@ -147141,6 +147170,7 @@ teacher
 teacherly
 teachers
 teaches
+teaching
 teachings
 teacup
 teacupful
@@ -148469,6 +148499,7 @@ textural
 texturally
 texture
 textureless
+textures
 texturing
 texturized
 texturizes
@@ -148607,6 +148638,7 @@ thefts
 thegn
 thegnly
 thegns
+thein
 theine
 theins
 their
@@ -150248,6 +150280,7 @@ toboggans
 toby
 toccatas
 toccate
+tocher
 tochered
 tochering
 tochers
@@ -154373,6 +154406,7 @@ tyrannosauruses
 tyrannous
 tyrannously
 tyranny
+tyrant
 tyrants
 tyre
 tyred
@@ -166759,6 +166793,7 @@ zooid
 zooidal
 zooids
 zooier
+zooiest
 zookeeper
 zookeepers
 zooks
