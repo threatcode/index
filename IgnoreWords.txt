@@ -1372,6 +1372,7 @@ adjutancy
 adjutant
 adjutants
 adjuvant
+adjuvants
 adman
 admass
 admasses
@@ -7536,6 +7537,7 @@ aroynts
 arpeggiate
 arpeggiates
 arpeggiating
+arpeggio
 arpeggios
 arpen
 arpens
@@ -15862,6 +15864,7 @@ bombshells
 bombsight
 bombsights
 bombycids
+bombycoid
 bombyx
 bombyxes
 bonaci
@@ -17720,6 +17723,7 @@ bromocriptine
 bromocriptines
 bromos
 bromouracil
+bromouracils
 bronc
 bronchi
 bronchia
@@ -32419,6 +32423,7 @@ crasser
 crassest
 crassitudes
 crassly
+crassness
 crassnesses
 cratch
 cratches
@@ -37995,6 +38000,7 @@ derats
 deratted
 deratting
 deray
+derays
 derbies
 derby
 dere
@@ -42270,6 +42276,7 @@ dogmatizing
 dognap
 dognaped
 dognaper
+dognapers
 dognaping
 dognapped
 dognapper
@@ -45652,6 +45659,7 @@ eleoptene
 eleoptenes
 elephant
 elephantiases
+elephantine
 elephants
 elevate
 elevated
@@ -51609,6 +51617,7 @@ falseworks
 falsie
 falsies
 falsifiability
+falsifiable
 falsification
 falsifications
 falsified
@@ -57347,6 +57356,7 @@ fuchsia
 fuchsias
 fuchsin
 fuchsine
+fuchsines
 fuchsins
 fuci
 fuckers
@@ -58500,6 +58510,7 @@ gannister
 gannisters
 ganof
 ganofs
+ganoid
 ganoids
 gantelope
 gantelopes
@@ -59529,6 +59540,7 @@ geoscientist
 geoscientists
 geostationary
 geostrategic
+geostrategies
 geostrategist
 geostrategy
 geostrophic
@@ -61092,6 +61104,7 @@ goldfinch
 goldfinches
 goldfish
 goldfishes
+goldsmith
 goldsmiths
 goldstone
 goldstones
@@ -66625,6 +66638,7 @@ hippieness
 hippienesses
 hippier
 hippies
+hippiest
 hippiness
 hippinesses
 hippish
@@ -67082,6 +67096,7 @@ holly
 hollyhock
 hollyhocks
 holm
+holmium
 holmiums
 holms
 holoblastic
@@ -68589,6 +68604,7 @@ hushpuppies
 hushpuppy
 husk
 husked
+husker
 huskers
 huskier
 huskies
@@ -81616,6 +81632,7 @@ limnological
 limnologies
 limnologists
 limnology
+limns
 limo
 limonene
 limonenes
@@ -82124,6 +82141,7 @@ lithologic
 lithological
 lithologically
 lithologies
+lithology
 lithophane
 lithophanes
 lithophyte
@@ -88270,6 +88288,7 @@ migrated
 migrates
 migrating
 migration
+migrational
 migrations
 migrator
 migrators
@@ -91007,6 +91026,7 @@ monoterpene
 monoterpenes
 monotheism
 monotheisms
+monotheist
 monotheistic
 monotheistical
 monotheists
@@ -93225,6 +93245,7 @@ nailset
 nailsets
 nainsook
 nainsooks
+naira
 nairas
 nairu
 nairus
@@ -107822,6 +107843,7 @@ photographer
 photographing
 photographs
 photography
+photogravure
 photogravures
 photogs
 photoinduced
@@ -109102,6 +109124,7 @@ pistareen
 pistareens
 piste
 pistes
+pistil
 pistillate
 pistils
 pistol
@@ -116635,6 +116658,7 @@ purins
 puris
 purism
 purisms
+purist
 puristically
 purists
 puritan
@@ -118329,6 +118353,7 @@ raided
 raider
 raiders
 raiding
+raids
 rail
 railbird
 railbirds
@@ -119187,6 +119212,7 @@ reaction
 reactionaries
 reactionaryism
 reactionaryisms
+reactions
 reactivate
 reactivated
 reactivates
@@ -120369,6 +120395,7 @@ recreances
 recreancies
 recreancy
 recreant
+recreants
 recreate
 recreates
 recreating
@@ -121865,6 +121892,7 @@ rehammering
 rehammers
 rehandle
 rehandled
+rehandles
 rehandling
 rehang
 rehanged
@@ -122859,6 +122887,7 @@ removes
 removing
 rems
 remudas
+remunerate
 remunerated
 remunerates
 remunerating
@@ -127285,6 +127314,7 @@ rubella
 rubellas
 rubellite
 rubellites
+rubels
 rubeola
 rubeolas
 rubes
@@ -134565,6 +134595,7 @@ simple
 simpleminded
 simplemindedly
 simpleness
+simplenesses
 simpler
 simples
 simplest
@@ -136282,6 +136313,7 @@ smokiness
 smokinesses
 smoking
 smoky
+smolder
 smoldered
 smoldering
 smolders
@@ -139914,6 +139946,7 @@ squooshed
 squooshes
 squooshier
 squooshing
+squooshy
 squush
 squushed
 squushes
@@ -145697,6 +145730,7 @@ syenitic
 syke
 sykes
 syli
+sylis
 syllabary
 syllabi
 syllabic
@@ -146845,6 +146879,7 @@ tango
 tangoed
 tangoing
 tangolike
+tangos
 tangram
 tangrams
 tangs
