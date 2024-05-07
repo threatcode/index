@@ -457,6 +457,7 @@ acclimatize
 acclimatized
 acclimatizer
 acclimatizers
+acclimatizes
 acclimatizing
 acclivities
 acclivity
@@ -4373,6 +4374,7 @@ amylose
 amyloses
 amyls
 amylum
+amylums
 amyotonia
 amyotonias
 an
@@ -7745,6 +7747,7 @@ articulators
 articulatory
 artier
 artiest
+artifact
 artifacts
 artifactual
 artifice
@@ -10312,6 +10315,7 @@ bail
 bailable
 bailed
 bailee
+bailees
 bailer
 bailers
 bailey
@@ -11942,6 +11946,7 @@ bedazzles
 bedazzling
 bedboard
 bedboards
+bedbug
 bedbugs
 bedchair
 bedchairs
@@ -17247,6 +17252,7 @@ breathy
 breccia
 breccial
 breccias
+brecciate
 brecciated
 brecciates
 brecciating
@@ -17264,6 +17270,7 @@ breechblock
 breechblocks
 breechcloth
 breechcloths
+breechclout
 breechclouts
 breeched
 breeches
@@ -22611,6 +22618,7 @@ cerebrally
 cerebrals
 cerebrate
 cerebrated
+cerebrates
 cerebrating
 cerebration
 cerebrations
@@ -22942,6 +22950,7 @@ chammying
 chamois
 chamoised
 chamoises
+chamoising
 chamoix
 chamomile
 chamomiles
@@ -24519,6 +24528,7 @@ choused
 chouser
 chousers
 chouses
+choush
 chousing
 chow
 chowchow
@@ -30277,6 +30287,7 @@ conveyed
 conveyer
 conveyers
 conveying
+conveyor
 conveyorise
 conveyorises
 conveyorising
@@ -35473,6 +35484,7 @@ deadheaded
 deadheading
 deadheads
 deadliest
+deadlift
 deadlifted
 deadlifting
 deadlifts
@@ -36188,6 +36200,7 @@ decorums
 decos
 decoupage
 decoupaged
+decoupages
 decoupaging
 decouple
 decoupled
@@ -38281,6 +38294,7 @@ desinent
 desipramines
 desirabilities
 desirability
+desirable
 desirableness
 desirablenesses
 desirables
@@ -44869,6 +44883,7 @@ ecophysiologies
 ecophysiology
 ecospecies
 ecospheres
+ecosystem
 ecosystems
 ecotage
 ecotages
@@ -44992,6 +45007,7 @@ edhs
 edibilities
 edibility
 edible
+edibleness
 edibles
 edict
 edictal
@@ -55766,6 +55782,7 @@ forefeet
 forefelt
 forefended
 forefending
+forefends
 forefinger
 forefingers
 forefront
@@ -59704,6 +59721,7 @@ getaways
 gets
 gettable
 getter
+gettered
 gettering
 getters
 getting
@@ -59838,6 +59856,7 @@ gibing
 gibingly
 giblet
 giblets
+gibs
 gibson
 gibsons
 gid
@@ -65134,6 +65153,7 @@ heartbeats
 heartbreak
 heartbreaker
 heartbreakers
+heartbreaking
 heartbreakingly
 heartbreaks
 heartbroken
@@ -68110,6 +68130,7 @@ houseleeks
 houseless
 houselessness
 houselessnesses
+houselights
 houselled
 houselling
 housels
@@ -104323,6 +104344,7 @@ parasitisms
 parasitization
 parasitizations
 parasitize
+parasitized
 parasitizes
 parasitoid
 parasitoids
@@ -104638,6 +104660,7 @@ parry
 parrying
 pars
 parsable
+parse
 parsec
 parsecs
 parsed
@@ -109806,6 +109829,7 @@ plazas
 plea
 pleached
 pleaches
+pleaching
 plead
 pleadable
 pleaded
@@ -111428,6 +111452,7 @@ porterages
 portered
 porteress
 porteresses
+porterhouse
 porterhouses
 portering
 porters
@@ -120563,6 +120588,7 @@ redbirds
 redbone
 redbones
 redbreast
+redbreasts
 redbrick
 redbricks
 redbud
@@ -120874,6 +120900,7 @@ redrills
 redrive
 redriven
 redrives
+redriving
 redroot
 redroots
 redrove
@@ -122262,6 +122289,7 @@ rejacketing
 rejackets
 reject
 rejected
+rejectee
 rejectees
 rejecter
 rejecters
@@ -125798,6 +125826,7 @@ rhythmizes
 rhythms
 rhytidome
 rhytidomes
+rhyton
 rhytons
 ria
 rial
@@ -127143,6 +127172,7 @@ roundnesses
 rounds
 roundsman
 roundsmen
+roundtable
 roundtables
 roundtrip
 roundtrips
@@ -129043,6 +129073,7 @@ sateens
 satellites
 satem
 sates
+sati
 satiable
 satiably
 satiate
@@ -130941,6 +130972,7 @@ seawalls
 seawan
 seawans
 seawant
+seawants
 seaward
 seawards
 seaware
@@ -134280,6 +134312,7 @@ sightly
 sights
 sightsaw
 sightsee
+sightseeing
 sightseen
 sightseer
 sightseers
@@ -140160,6 +140193,7 @@ stalked
 stalker
 stalkers
 stalkiest
+stalkily
 stalking
 stalkings
 stalkless
@@ -150732,6 +150766,7 @@ toluene
 toluenes
 toluic
 toluid
+toluide
 toluides
 toluidide
 toluidides
