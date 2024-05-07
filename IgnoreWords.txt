@@ -986,6 +986,7 @@ acta
 actabilities
 actability
 actable
+actin
 actinal
 actinally
 acting
@@ -2537,6 +2538,7 @@ ahis
 ahistoric
 ahistorical
 ahold
+aholds
 ahorse
 ahoy
 ahs
@@ -3727,6 +3729,7 @@ alveolar
 alveolarly
 alveolars
 alveolate
+alveoli
 alveolus
 alvine
 alway
@@ -12949,6 +12952,7 @@ berouged
 berretta
 berrettas
 berried
+berries
 berry
 berrying
 berrylike
@@ -18365,6 +18369,7 @@ bullet
 bulleted
 bulletin
 bulletined
+bulleting
 bulletproof
 bullets
 bullfighter
@@ -24887,6 +24892,7 @@ chuting
 chutist
 chutists
 chutnee
+chutnees
 chutney
 chutneys
 chutzpa
@@ -29727,6 +29733,7 @@ consternations
 constipate
 constipated
 constipates
+constipation
 constipations
 constituencies
 constituent
@@ -30584,6 +30591,7 @@ copperahs
 copperas
 copperases
 coppered
+copperhead
 copperheads
 copperplate
 copperplates
@@ -32201,6 +32209,7 @@ coying
 coyish
 coyly
 coyness
+coynesses
 coyote
 coyotes
 coyotillo
@@ -34168,6 +34177,7 @@ curtalax
 curtalaxes
 curtals
 curtate
+curter
 curtesies
 curtest
 curtesy
@@ -35448,6 +35458,7 @@ daysprings
 daystar
 daystars
 daytime
+daytimes
 daywork
 dayworker
 dayworkers
@@ -38530,6 +38541,7 @@ desultory
 detach
 detachabilities
 detachability
+detachable
 detachably
 detached
 detachedly
@@ -53861,6 +53873,7 @@ firstnesses
 firsts
 firth
 firths
+fisc
 fiscal
 fiscalist
 fiscalists
@@ -55683,6 +55696,7 @@ forages
 foraging
 foram
 foramen
+foramens
 foramina
 foraminal
 foraminifer
@@ -63742,6 +63756,7 @@ hagglers
 haggles
 haggling
 hagiarchies
+hagiarchy
 hagiographer
 hagiographers
 hagiographic
@@ -74381,6 +74396,7 @@ interstice
 interstices
 interstimulus
 interstitial
+interstitially
 interstrain
 interstrand
 interstratified
@@ -77076,6 +77092,7 @@ juncture
 junctures
 jungle
 jungled
+junglegym
 junglegyms
 junglelike
 jungles
@@ -87838,6 +87855,7 @@ miaous
 miaow
 miaowed
 miaowing
+miaows
 miasm
 miasma
 miasmal
@@ -88310,6 +88328,7 @@ midsoles
 midspace
 midspaces
 midst
+midstory
 midstream
 midstreams
 midsts
@@ -91441,6 +91460,7 @@ morganite
 morganites
 morgans
 morgen
+morgens
 morgue
 morgues
 moribund
@@ -92870,6 +92890,7 @@ mutates
 mutating
 mutation
 mutational
+mutationally
 mutations
 mutative
 mutch
@@ -94329,6 +94350,7 @@ nervate
 nervations
 nervature
 nervatures
+nerve
 nerved
 nerveless
 nervelessly
@@ -98763,6 +98785,7 @@ ontogeneses
 ontogenesis
 ontogenetically
 ontogenic
+ontogenies
 ontogeny
 ontologic
 ontological
@@ -104415,6 +104438,7 @@ parasitically
 parasiticidal
 parasiticide
 parasiticides
+parasitise
 parasitised
 parasitises
 parasitising
@@ -107930,6 +107954,7 @@ photoflood
 photofloods
 photog
 photogene
+photogenes
 photogenic
 photogenically
 photogeologic
@@ -109092,6 +109117,7 @@ piper
 piperazine
 piperazines
 piperidine
+piperine
 piperines
 piperonal
 piperonals
@@ -112689,6 +112715,7 @@ preclude
 precluded
 precludes
 precluding
+preclusion
 preclusions
 preclusive
 preclusively
@@ -118370,6 +118397,7 @@ radiotracers
 radish
 radishes
 radium
+radiums
 radius
 radiuses
 radix
@@ -124494,6 +124522,7 @@ respiring
 respiritualize
 respiritualized
 respiritualizes
+respirometers
 respirometric
 respirometries
 respirometry
@@ -126666,6 +126695,7 @@ rockabies
 rockabillies
 rockabilly
 rockable
+rockaby
 rockabye
 rockabyes
 rockaway
@@ -129254,6 +129284,7 @@ saturation
 saturations
 saturator
 saturators
+saturnalia
 saturnalian
 saturnalianly
 saturnalias
@@ -150654,6 +150685,7 @@ toadfish
 toadfishes
 toadflax
 toadflaxes
+toadied
 toadies
 toadish
 toadless
@@ -154897,6 +154929,7 @@ udder
 udders
 udo
 udometer
+udometers
 udometries
 udometry
 udon
@@ -162929,6 +162962,7 @@ ward
 warded
 warden
 wardenries
+wardenry
 wardens
 wardenship
 wardenships
@@ -163238,6 +163272,7 @@ waterbusses
 watercolor
 watercolorist
 watercolorists
+watercolors
 watercooler
 watercourse
 watercourses
