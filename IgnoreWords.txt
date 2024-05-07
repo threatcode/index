@@ -402,6 +402,7 @@ accessed
 accesses
 accessibilities
 accessibility
+accessible
 accessibly
 accessing
 accession
@@ -4961,6 +4962,7 @@ aniline
 anilines
 anilingus
 anilinguses
+anilins
 anilities
 anility
 anils
@@ -7519,8 +7521,10 @@ aromaticity
 aromatics
 aromatization
 aromatizations
+aromatize
 aromatized
 aromatizes
+aromatizing
 arose
 around
 arousable
@@ -13644,6 +13648,7 @@ bighorns
 bight
 bighted
 bighting
+bights
 bigly
 bigmouth
 bigmouthed
@@ -21971,6 +21976,7 @@ catspaw
 catspaws
 catsuit
 catsuits
+catsup
 catsups
 cattail
 cattails
@@ -25400,6 +25406,7 @@ clairvoyant
 clairvoyantly
 clairvoyants
 clam
+clamant
 clamantly
 clambake
 clambakes
@@ -36415,6 +36422,7 @@ defeater
 defeaters
 defeating
 defeatism
+defeatisms
 defeatist
 defeatists
 defeats
@@ -36988,6 +36996,7 @@ delete
 deleted
 deleterious
 deleteriously
+deleteriousness
 deletes
 deleting
 deletion
@@ -37919,6 +37928,7 @@ depredates
 depredating
 depredation
 depredations
+depredator
 depredators
 depredatory
 deprenyl
@@ -39385,6 +39395,7 @@ dichroisms
 dichroites
 dichromat
 dichromate
+dichromates
 dichromatic
 dichromatism
 dichromatisms
@@ -46306,6 +46317,7 @@ empalers
 empales
 empaling
 empanada
+empanadas
 empanel
 empaneled
 empaneling
@@ -50612,6 +50624,7 @@ explicators
 explicatory
 explicit
 explicitly
+explicitness
 explicits
 explode
 exploded
@@ -57779,6 +57792,7 @@ furosemide
 furosemides
 furred
 furrier
+furrieries
 furriers
 furriery
 furrily
@@ -60505,6 +60519,7 @@ glitzes
 glitzier
 glitziest
 glitzing
+glitzy
 gloam
 gloaming
 gloamings
@@ -70354,6 +70369,7 @@ immolating
 immolation
 immolators
 immoral
+immoralism
 immoralisms
 immoralist
 immoralists
@@ -72167,6 +72183,7 @@ inefficacy
 inefficiencies
 inefficiency
 inefficient
+inefficiently
 inefficients
 inegalitarian
 inelastic
@@ -72376,6 +72393,7 @@ inferring
 infers
 infertile
 infertilities
+infertility
 infest
 infestant
 infestants
@@ -76263,6 +76281,7 @@ jereeds
 jeremiad
 jeremiads
 jerid
+jerids
 jerked
 jerker
 jerkers
@@ -77508,6 +77527,7 @@ keeking
 keeks
 keel
 keelage
+keelages
 keelboat
 keelboats
 keeled
@@ -103269,6 +103289,7 @@ paganisms
 paganist
 paganists
 paganize
+paganized
 paganizer
 paganizers
 paganizes
@@ -107899,6 +107920,7 @@ photomaps
 photomask
 photomasks
 photomechanical
+photometer
 photometers
 photometric
 photometrically
@@ -116918,6 +116940,7 @@ putting
 putto
 putts
 putty
+puttying
 puttylike
 puttyroot
 puttyroots
@@ -120867,6 +120890,7 @@ redout
 redouts
 redowa
 redowas
+redoxes
 redpoll
 redpolls
 redraft
@@ -121649,6 +121673,7 @@ regained
 regainer
 regainers
 regaining
+regains
 regal
 regale
 regaled
@@ -122293,6 +122318,7 @@ rejectee
 rejectees
 rejecter
 rejecters
+rejecting
 rejectingly
 rejection
 rejections
@@ -122922,6 +122948,7 @@ remunerating
 remuneration
 remunerations
 remunerative
+remuneratively
 remunerator
 remunerators
 remuneratory
@@ -127499,6 +127526,7 @@ ruggers
 rugging
 ruglike
 rugola
+rugolas
 rugosa
 rugosas
 rugose
@@ -130447,6 +130475,7 @@ screes
 screw
 screwable
 screwball
+screwballs
 screwbean
 screwbeans
 screwdrivers
@@ -136570,6 +136599,7 @@ sneakiness
 sneakinesses
 sneaking
 sneakingly
+sneaks
 sneaky
 sneap
 sneaped
@@ -137049,6 +137079,7 @@ socialite
 socialites
 socialities
 sociality
+socialization
 socializations
 socialize
 socialized
@@ -140875,6 +140906,7 @@ stereochemical
 stereochemistry
 stereoed
 stereogram
+stereograms
 stereograph
 stereographic
 stereographing
@@ -151736,6 +151768,7 @@ tradesmen
 tradespeople
 trading
 tradition
+traditional
 traditionalism
 traditionalisms
 traditionalist
@@ -152541,6 +152574,7 @@ tremble
 trembled
 trembler
 tremblers
+trembles
 tremblier
 trembliest
 trembling
@@ -157773,6 +157807,7 @@ unpicking
 unpicks
 unpicturesque
 unpierced
+unpile
 unpiled
 unpiles
 unpiling
