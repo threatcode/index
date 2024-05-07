@@ -3278,6 +3278,7 @@ allegretto
 allegrettos
 allegro
 allegros
+allele
 alleles
 allelic
 allelism
@@ -19508,6 +19509,7 @@ caitiff
 caitiffs
 cajaput
 cajaputs
+cajeput
 cajeputs
 cajole
 cajolement
@@ -25476,6 +25478,7 @@ claques
 claqueur
 claqueurs
 clarence
+clarences
 claret
 clarets
 claries
@@ -27365,6 +27368,7 @@ collaterals
 collates
 collating
 collation
+collations
 collator
 collators
 colleague
@@ -28346,6 +28350,7 @@ complexest
 complexified
 complexifies
 complexify
+complexing
 complexion
 complexional
 complexioned
@@ -41087,6 +41092,7 @@ dismissal
 dismissals
 dismissed
 dismisses
+dismissing
 dismission
 dismissions
 dismissive
@@ -42143,6 +42149,7 @@ dodoes
 dodoism
 dodoisms
 dodos
+doe
 doer
 doers
 does
@@ -42264,6 +42271,7 @@ dogsleds
 dogteeth
 dogtrot
 dogtrots
+dogtrotted
 dogtrotting
 dogvane
 dogvanes
@@ -51860,6 +51868,7 @@ farmworks
 farmyard
 farmyards
 farnesol
+farnesols
 farness
 farnesses
 faro
@@ -52305,6 +52314,7 @@ fecundate
 fecundated
 fecundates
 fecundating
+fecundation
 fecundations
 fecundities
 fecundity
@@ -54950,6 +54960,7 @@ flunk
 flunked
 flunker
 flunkers
+flunkey
 flunkeys
 flunkie
 flunkies
@@ -58204,6 +58215,7 @@ galloots
 gallop
 gallopade
 gallopades
+galloped
 galloper
 gallopers
 galloping
@@ -58757,6 +58769,7 @@ gastritides
 gastritis
 gastritises
 gastrocnemii
+gastrocnemius
 gastroduodenal
 gastroenteritis
 gastrolith
@@ -59594,6 +59607,7 @@ gesellschaft
 gesellschafts
 gesneria
 gesneriad
+gesso
 gessoed
 gessoes
 gest
@@ -61215,6 +61229,7 @@ goonie
 goonier
 goonies
 goons
+goony
 goop
 goopier
 goopiest
@@ -61614,6 +61629,7 @@ grandaddy
 grandads
 grandam
 grandame
+grandames
 grandbabies
 grandbaby
 grandchild
@@ -69249,6 +69265,7 @@ hypnotists
 hypnotizability
 hypnotizable
 hypnotize
+hypnotized
 hypnotizes
 hypnotizing
 hypo
@@ -70226,6 +70243,7 @@ immingles
 immingling
 immiscibilities
 immiscibility
+immiscible
 immittance
 immittances
 immix
@@ -74058,6 +74076,7 @@ interoceptor
 interoceptors
 interoffice
 interoperable
+interoperative
 interorbital
 interpandemic
 interparochial
@@ -74129,6 +74148,7 @@ interpretive
 interpretively
 interprets
 interprovincial
+interproximal
 interpsychic
 interpupillary
 interrace
@@ -75491,6 +75511,7 @@ isoplethic
 isopleths
 isopod
 isopodan
+isopodans
 isopods
 isoprenaline
 isoprenalines
@@ -77660,6 +77681,7 @@ keyboard
 keyboarded
 keyboarder
 keyboarders
+keyboarding
 keyboardist
 keyboardists
 keyboards
@@ -84997,6 +85019,7 @@ mantelpiece
 mantelpieces
 mantels
 mantes
+mantic
 manticore
 manticores
 mantid
@@ -88156,6 +88179,7 @@ midweeks
 midwife
 midwifed
 midwiferies
+midwifery
 midwifes
 midwifing
 midwinter
@@ -101473,6 +101497,7 @@ overcut
 overcuts
 overcutting
 overdare
+overdared
 overdares
 overdaring
 overdear
@@ -107532,6 +107557,7 @@ phonemicist
 phonemicists
 phonemics
 phones
+phonetic
 phonetically
 phonetician
 phoneticians
@@ -118401,6 +118427,7 @@ ramees
 ramekin
 ramekins
 ramen
+ramenta
 ramentum
 ramequin
 ramequins
@@ -120596,6 +120623,7 @@ redialed
 redialing
 redialled
 redialling
+redials
 redias
 redictate
 redictated
@@ -120750,6 +120778,7 @@ redreamt
 redress
 redressed
 redresser
+redressers
 redresses
 redressing
 redrew
@@ -121624,6 +121653,7 @@ registry
 regius
 regive
 regiven
+regives
 regiving
 reglaze
 reglazes
@@ -127275,6 +127305,7 @@ ruddle
 ruddled
 ruddleman
 ruddlemen
+ruddles
 ruddling
 ruddock
 ruddocks
@@ -133738,6 +133769,7 @@ shrievalty
 shrieve
 shrieving
 shrifts
+shrike
 shrikes
 shrill
 shrilled
@@ -138361,6 +138393,7 @@ specks
 specs
 spectacle
 spectacled
+spectacles
 spectacular
 spectacularly
 spectaculars
@@ -143532,6 +143565,7 @@ suffering
 sufferings
 suffers
 suffice
+sufficed
 sufficer
 sufficers
 suffices
@@ -144532,6 +144566,7 @@ superstrike
 superstrikes
 superstring
 superstrings
+superstrong
 superstructural
 superstructure
 superstructures
@@ -150882,6 +150917,7 @@ toping
 topis
 topkick
 topkicks
+topknot
 topknots
 topless
 toplessness
@@ -158346,6 +158382,7 @@ unsworn
 unsymmetrical
 unsymmetrically
 unsympathetic
+unsynchronized
 unsystematic
 unsystematized
 untack
@@ -159537,6 +159574,7 @@ vacillated
 vacillating
 vacillatingly
 vacillation
+vacillations
 vacillator
 vacillators
 vacs
@@ -160905,6 +160943,7 @@ vibrant
 vibrantly
 vibraphone
 vibraphones
+vibraphonist
 vibraphonists
 vibrate
 vibrated
