@@ -10788,6 +10788,7 @@ banjos
 bank
 bankabilities
 bankability
+bankable
 bankbook
 bankbooks
 bankcard
@@ -11591,6 +11592,7 @@ batwing
 baubee
 baubees
 bauble
+baud
 baudekin
 baudekins
 baudrons
@@ -11608,6 +11610,7 @@ bausond
 bauxite
 bauxites
 bauxitic
+bawbee
 bawbees
 bawcock
 bawcocks
@@ -26558,6 +26561,7 @@ coarctations
 coarse
 coarsely
 coarsen
+coarsened
 coarsenesses
 coarsening
 coarsens
@@ -26608,6 +26612,7 @@ coatless
 coatrack
 coatracks
 coatroom
+coatrooms
 coats
 coattail
 coattails
@@ -27987,6 +27992,7 @@ comedones
 comedos
 comedown
 comedowns
+comedy
 comeliest
 comelily
 comeliness
@@ -30352,6 +30358,7 @@ convener
 conveners
 convenience
 conveniences
+conveniencies
 conveniency
 convenient
 conveniently
@@ -32832,6 +32839,7 @@ cremating
 cremation
 cremations
 cremator
+crematoria
 crematories
 crematorium
 crematoriums
@@ -34979,6 +34987,7 @@ dactyl
 dactyli
 dactylic
 dactylics
+dactylologies
 dactylology
 dactyls
 dactylus
@@ -39554,6 +39563,7 @@ dicarboxylic
 dicast
 dicastic
 dicasts
+dice
 diced
 dicentra
 dicentras
@@ -45456,6 +45466,7 @@ effulgences
 effulgent
 effulges
 effulging
+effuse
 effused
 effuses
 effusing
@@ -48241,6 +48252,7 @@ epicranium
 epicritic
 epics
 epicure
+epicurean
 epicureanism
 epicureanisms
 epicureans
@@ -50691,6 +50703,7 @@ expansionist
 expansionistic
 expansionists
 expansions
+expansive
 expansively
 expansiveness
 expansivenesses
@@ -51925,6 +51938,7 @@ falters
 falx
 fame
 famed
+fameless
 fames
 familial
 familiar
@@ -60087,6 +60101,7 @@ ghettoing
 ghettoization
 ghettoizations
 ghettoize
+ghettoized
 ghettoizes
 ghettoizing
 ghettos
@@ -62581,6 +62596,7 @@ gremmies
 gremmy
 grenade
 grenadier
+grenadiers
 grenadine
 grenadines
 grew
@@ -62986,6 +63002,7 @@ grouters
 groutier
 groutiest
 grouting
+grouts
 grouty
 grove
 groved
@@ -64438,6 +64455,7 @@ hampers
 hams
 hamster
 hamsters
+hamstring
 hamstringing
 hamstrings
 hamular
@@ -66174,6 +66192,7 @@ hemotoxins
 hemp
 hempen
 hempie
+hempier
 hempiest
 hemplike
 hemps
@@ -67169,6 +67188,7 @@ hitchhiked
 hitchhiker
 hitchhikers
 hitchhikes
+hitchhiking
 hither
 hithermost
 hitherto
@@ -74060,6 +74080,7 @@ intentions
 intently
 intentness
 intentnesses
+intents
 inter
 interabang
 interabangs
@@ -76434,6 +76455,7 @@ japingly
 japonaiserie
 japonaiseries
 japonica
+japonicas
 jar
 jardiniere
 jarful
@@ -77596,6 +77618,7 @@ kabbalisms
 kabbalist
 kabbalists
 kabeljou
+kabeljous
 kabiki
 kabikis
 kabob
@@ -89200,6 +89223,7 @@ mingled
 mingler
 minglers
 mingles
+mingling
 mingy
 miniature
 miniatures
@@ -89478,6 +89502,7 @@ misaligning
 misalignment
 misalignments
 misaligns
+misalliance
 misalliances
 misallied
 misallies
@@ -97066,6 +97091,7 @@ nonterminal
 nonterminals
 nonterminating
 nontheatrical
+nontheist
 nontheistic
 nontheists
 nontheological
@@ -116982,6 +117008,7 @@ pullulation
 pullulations
 pullup
 pullups
+pulmonary
 pulmonate
 pulmonates
 pulmonic
@@ -118012,6 +118039,7 @@ quality
 qualm
 qualmier
 qualmiest
+qualmish
 qualmishly
 qualmishness
 qualmishnesses
@@ -135534,6 +135562,7 @@ sinkage
 sinkages
 sinker
 sinkers
+sinkhole
 sinkholes
 sinking
 sinks
@@ -143364,6 +143393,7 @@ subalpine
 subaltern
 subalterns
 subapical
+subaquatic
 subaqueous
 subarachnoid
 subarachnoidal
@@ -146616,6 +146646,7 @@ syllabism
 syllabisms
 syllabize
 syllabized
+syllabizes
 syllabizing
 syllable
 syllabled
@@ -149669,6 +149700,7 @@ thalidomides
 thalli
 thallic
 thallious
+thallium
 thalliums
 thalloid
 thallophyte
@@ -154560,6 +154592,7 @@ truths
 try
 trying
 tryma
+trymata
 tryout
 tryouts
 trypanosome
@@ -159919,6 +159952,7 @@ uphove
 uphroe
 uphroes
 upkeep
+upkeeps
 upland
 uplander
 uplanders
@@ -166787,6 +166821,7 @@ wrecking
 wreckings
 wrecks
 wren
+wrench
 wrenched
 wrencher
 wrenches
