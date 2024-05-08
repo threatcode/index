@@ -7,3 +7,10 @@ org.quartz.impl.jdbcjobstore.tables_postgres.sql Maven / Gradle / Ivy,https://ja
 recipe-search2 - processing - import-csv.sql - GitLab,https://git.informatik.uni-leipzig.de/js35jisu/recipe-search2/blob/0941f71be44fbcd85f706d700a82417c63e646d4/processing/import-csv.sql
 java.lang.nosuchmethoderror org.apache.spark.sql.hive.hivecontext ...,https://juejin.cn/s/java.lang.nosuchmethoderror%2520org.apache.spark.sql.hive.hivecontext.sql
 103.12.161.248/Kulen/Kulen/kulen_db.sql,http://103.12.161.248/Kulen/Kulen/kulen_db.sql
+guava.sql - GroundWork Monitor,https://archive.gwos.com/groundwork-opensource/tags/GROUNDWORK_MONITOR_5_3_GA/monitor-os/sqldata/guava.sql
+hadoop-tutorials-examples/hbase-hive-pig/create_hbase_table.sql ...,https://github.com/romainr/hadoop-tutorials-examples/blob/master/hbase-hive-pig/create_hbase_table.sql
+Fisheye: Diff - MATP_PUBLIC/dare/src/main/resources/db/migration ...,https://crucible.marketcetera.com/browse/MATP_PUBLIC/dare/src/main/resources/db/migration/psql/V103__add_leaves_qty.sql%3Fr1%3D17a7d44cefbb935e34ad4dd3da5ea0d5a9dcf6e9%26r2%3D62fc8fb19d7e8f3b2662c93e9f4a68dd6b82f791
+MethodsCount/methods_count.sql at master - GitHub,https://github.com/dextorer/MethodsCount/blob/master/methods_count.sql
+https://archive.gwos.com/groundwork-opensource/tag...,https://archive.gwos.com/groundwork-opensource/tags/GROUNDWORK_MONITOR_5_0_4_RELEASE/monitor-osv/sqldata/bookshelf.sql
+https://raw.githubusercontent.com/Thinkful-Ed/star...,https://raw.githubusercontent.com/Thinkful-Ed/starter-postgresql/main/products.sql
+Download com.google.cloud.sql JAR files with all dependencies,https://jar-download.com/artifacts/com.google.cloud.sql%3Fp%3D2
