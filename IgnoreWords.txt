@@ -664,6 +664,7 @@ acetanilid
 acetanilide
 acetanilides
 acetanilids
+acetate
 acetated
 acetates
 acetazolamides
@@ -18631,6 +18632,7 @@ bunya
 bunyas
 buoy
 buoyage
+buoyages
 buoyance
 buoyances
 buoyancies
@@ -20895,6 +20897,7 @@ carbamoyl
 carbamoyls
 carbamyl
 carbamyls
+carbanion
 carbanions
 carbarn
 carbarns
@@ -24400,6 +24403,7 @@ chokecherry
 choked
 chokedamp
 chokedamps
+chokehold
 chokeholds
 chokers
 chokes
@@ -30760,6 +30764,7 @@ copydesk
 copyedit
 copyedited
 copyediting
+copyedits
 copygirl
 copygirls
 copyhold
@@ -34207,6 +34212,7 @@ currs
 curry
 currycomb
 currycombed
+currycombing
 currycombs
 currying
 curs
@@ -35274,6 +35280,7 @@ dareful
 darer
 darers
 dares
+daric
 darics
 daring
 daringly
@@ -39101,6 +39108,7 @@ dextrins
 dextro
 dextrorotary
 dextrorotatory
+dextrorse
 dextrose
 dextroses
 dextrous
@@ -61993,6 +62001,7 @@ granola
 granolas
 granolith
 granolithic
+granoliths
 granophyre
 granophyres
 granophyric
@@ -62356,6 +62365,7 @@ greener
 greeneries
 greenery
 greenest
+greenfield
 greenfields
 greenfinch
 greenfinches
@@ -63710,6 +63720,7 @@ habilitating
 habilitation
 habilitations
 habit
+habitabilities
 habitability
 habitable
 habitableness
@@ -65838,6 +65849,7 @@ helotism
 helotisms
 helotries
 helotry
+helots
 help
 helpable
 helped
@@ -73410,6 +73422,7 @@ insensibly
 insensitive
 insensitively
 insensitiveness
+insensitivities
 insensitivity
 insentience
 insentiences
@@ -77475,6 +77488,7 @@ kahunas
 kaiak
 kaiaks
 kaif
+kaifs
 kail
 kails
 kailyard
@@ -77844,6 +77858,7 @@ kellies
 kelly
 keloid
 keloidal
+keloids
 kelp
 kelped
 kelpie
@@ -78639,6 +78654,7 @@ knacking
 knackwurst
 knackwursts
 knap
+knapped
 knapper
 knappers
 knapping
@@ -79536,6 +79552,7 @@ lambasted
 lambastes
 lambasting
 lambasts
+lambda
 lambdas
 lambdoid
 lambed
@@ -82307,6 +82324,7 @@ lirot
 liroth
 lis
 lisente
+lisle
 lisles
 lisp
 lisped
@@ -84742,6 +84760,7 @@ makeable
 makebate
 makebates
 makefast
+makefasts
 makeover
 makeovers
 maker
@@ -85721,6 +85740,7 @@ marmosets
 marmot
 marmots
 marocains
+maroon
 marooned
 maroons
 marplot
@@ -94296,6 +94316,7 @@ neglectful
 neglectfully
 neglectfulness
 neglecting
+neglector
 neglectors
 neglects
 neglige
@@ -105696,6 +105717,7 @@ pavisses
 pavlova
 pavlovas
 pavonine
+paw
 pawed
 pawers
 pawing
@@ -106147,6 +106169,7 @@ peeves
 peeving
 peevish
 peevishness
+peevishnesses
 peewee
 peewees
 peewit
@@ -108151,6 +108174,7 @@ phosphoryl
 phosphorylases
 phosphorylate
 phosphorylated
+phosphorylates
 phosphorylating
 phosphorylation
 phosphorylative
@@ -125707,6 +125731,7 @@ revelators
 revelatory
 reveled
 reveler
+revelers
 reveling
 revelled
 reveller
@@ -127657,6 +127682,7 @@ rousers
 rousing
 rousingly
 rousseau
+roust
 roustabout
 roustabouts
 rousted
@@ -132141,6 +132167,7 @@ semilustrous
 semimat
 semimatt
 semimatte
+semimetal
 semimetallic
 semimetals
 semimicro
@@ -133807,6 +133834,7 @@ shimmery
 shimmied
 shimmies
 shimming
+shimmy
 shimmying
 shims
 shin
@@ -134380,6 +134408,7 @@ shrike
 shrikes
 shrill
 shrilled
+shriller
 shrillest
 shrilling
 shrillness
@@ -138716,6 +138745,7 @@ spahees
 spahi
 spahis
 spail
+spails
 spait
 spaits
 spake
@@ -143394,6 +143424,7 @@ subirrigated
 subirrigates
 subirrigating
 subirrigation
+subirrigations
 subitem
 subitems
 subito
@@ -147579,6 +147610,7 @@ tapioca
 tapiocas
 tapir
 tapirs
+tapises
 tappable
 tapped
 tapper
@@ -149369,6 +149401,7 @@ thallophyte
 thallophytes
 thallophytic
 thallus
+thalluses
 thalweg
 thalwegs
 than
@@ -162273,6 +162306,7 @@ vistaed
 vistaless
 visual
 visualise
+visualised
 visualises
 visualising
 visualist
@@ -162748,6 +162782,7 @@ vortical
 vortically
 vorticella
 vorticellae
+vorticellas
 vortices
 vorticism
 vorticisms
