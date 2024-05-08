@@ -1037,6 +1037,7 @@ actionably
 actioner
 actioners
 actionless
+actions
 activate
 activated
 activates
@@ -8246,6 +8247,7 @@ assimilative
 assimilator
 assimilators
 assimilatory
+assist
 assistance
 assistances
 assistant
@@ -9388,6 +9390,7 @@ autotrophy
 autotype
 autotypes
 autotypies
+autotypy
 autoworker
 autoworkers
 autoxidation
@@ -17463,6 +17466,7 @@ bricklike
 bricks
 brickwork
 brickworks
+bricky
 brickyard
 brickyards
 bricolage
@@ -34129,6 +34133,7 @@ curassow
 curassows
 curate
 curated
+curates
 curating
 curative
 curatively
@@ -40185,6 +40190,7 @@ dink
 dinked
 dinkey
 dinkeys
+dinkier
 dinkies
 dinkiest
 dinking
@@ -40565,6 +40571,7 @@ disappointedly
 disappointing
 disappointingly
 disappointment
+disappointments
 disappoints
 disapprobation
 disapprobations
@@ -46474,6 +46481,7 @@ emigrations
 emigres
 eminence
 eminencies
+eminency
 eminent
 eminently
 emir
@@ -47510,6 +47518,7 @@ enmeshments
 enmities
 enmity
 ennead
+enneadic
 enneads
 enneagon
 enneagons
@@ -53988,6 +53997,7 @@ firefanged
 firefanging
 firefangs
 firefight
+firefighters
 firefights
 fireflies
 fireflood
@@ -55556,6 +55566,7 @@ foetors
 foetus
 foetuses
 fog
+fogbow
 fogbows
 fogdog
 fogdogs
@@ -57035,6 +57046,7 @@ freedoms
 freedwoman
 freedwomen
 freeform
+freehand
 freehanded
 freehandedness
 freehearted
@@ -57606,6 +57618,7 @@ fruitier
 fruitiest
 fruitily
 fruitiness
+fruitinesses
 fruiting
 fruition
 fruitions
@@ -59961,6 +59974,7 @@ gerrymander
 gerrymandered
 gerrymanders
 gerund
+gerundial
 gerundive
 gerundives
 gerunds
@@ -60476,6 +60490,7 @@ glabrous
 glace
 glaceed
 glaces
+glacial
 glacially
 glaciate
 glaciated
@@ -65383,6 +65398,7 @@ headnote
 headnotes
 headphone
 headphones
+headpiece
 headpieces
 headpin
 headpins
@@ -76531,6 +76547,7 @@ jawlines
 jaws
 jay
 jaybird
+jaybirds
 jaygee
 jaygees
 jayhawkers
@@ -79557,6 +79574,7 @@ ladykins
 ladylike
 ladylove
 ladyloves
+ladypalm
 ladypalms
 ladyship
 ladyships
@@ -80593,6 +80611,7 @@ layerings
 layers
 layette
 layettes
+layin
 laying
 layins
 laymen
@@ -90057,6 +90076,7 @@ mislabelling
 mislabels
 mislabor
 mislabored
+mislaboring
 mislabors
 mislaid
 mislain
@@ -99554,6 +99574,7 @@ optime
 optimes
 optimisation
 optimisations
+optimise
 optimised
 optimises
 optimising
@@ -113614,6 +113635,7 @@ pregame
 pregames
 preganglionic
 pregenital
+preggers
 pregnabilities
 pregnability
 pregnable
@@ -115006,6 +115028,7 @@ proa
 proabortion
 proaction
 proactions
+proactive
 proas
 probabilism
 probabilisms
@@ -120600,6 +120623,7 @@ rechauffes
 recheat
 recheats
 rechecked
+rechecking
 recherche
 rechew
 rechewed
@@ -123777,6 +123801,7 @@ reoiled
 reoiling
 reoils
 reopen
+reopening
 reopens
 reoperate
 reoperated
@@ -125346,6 +125371,7 @@ resurveyed
 resurveying
 resurveys
 resuscitate
+resuscitated
 resuscitating
 resuscitation
 resuscitations
@@ -127580,6 +127606,7 @@ ropeway
 ropeways
 ropey
 ropier
+ropiest
 ropily
 ropiness
 ropinesses
@@ -136169,6 +136196,7 @@ slabs
 slack
 slacked
 slacken
+slackened
 slackener
 slackeners
 slackening
@@ -139106,6 +139134,7 @@ spartan
 sparteine
 sparteines
 spartina
+spartinas
 spas
 spasm
 spasmed
@@ -139853,6 +139882,7 @@ spitefullest
 spitefully
 spitefulnesses
 spitfire
+spitfires
 spiting
 spits
 spitted
@@ -142032,6 +142062,7 @@ stirk
 stirks
 stirp
 stirpes
+stirps
 stirred
 stirrer
 stirrers
@@ -143095,6 +143126,7 @@ studious
 studiously
 studiousness
 studiousnesses
+studlier
 studliest
 studly
 studs
@@ -146584,6 +146616,7 @@ syllabism
 syllabisms
 syllabize
 syllabized
+syllabizing
 syllable
 syllabled
 syllables
@@ -157744,6 +157777,7 @@ ungarbed
 ungarnished
 ungated
 ungazing
+ungelded
 ungenerosities
 ungenerosity
 ungenerous
@@ -163271,6 +163305,7 @@ wadmels
 wadmol
 wadmoll
 wadmolls
+wadmols
 wads
 wadsets
 wadsetted
