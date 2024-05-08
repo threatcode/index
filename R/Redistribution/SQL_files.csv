@@ -8,3 +8,12 @@ code/MySQL/scripts/sakila-data.sql ... - GitLab,https://gitlab.sngular.com/sngul
 08-update-yang-resources-ietf-inet-types-forward.sql - is:wip · Gerrit ...,https://gerrit.nordix.org/plugins/gitiles/onap/cps/%2B/ddedbd16185f756fd6171c6951877cedf78a647f/cps-ri/src/main/resources/changelog/db/changes/08-update-yang-resources-ietf-inet-types-forward.sql
 db2/exttrig_search.sql · 1.1.0 · Adam Mercer / python-ligo-lw · GitLab,https://git.ligo.org/adam-mercer/python-ligo-lw/-/blob/1.1.0/db2/exttrig_search.sql
 mysql-cluster-7.6.17 - Rasoul Jahanshahi - GitLab,https://git-seclab.bu.edu/rasoulj/mysql-server/-/blob/mysql-cluster-7.6.17/scripts/sys_schema/views/p_s/host_summary_by_statement_latency.sql
+https://docs.oracle.com/cd/E82085_01/160030/Enterp...,https://docs.oracle.com/cd/E82085_01/160030/EnterpriseIntegration/BDI/bdi-interface-data-contracts/ddl/Wh_Fnd_Wh_Out.sql
+sqlpp11/tests/scripts/ddl2cpp_sample_good.sql at main · rbock ...,https://github.com/rbock/sqlpp11/blob/main/tests/scripts/ddl2cpp_sample_good.sql
+Source of test-queries.sql - scheduler - Bitbucket,https://open.catalyst.harvard.edu/stash/projects/HCCRCSCHEDULER/repos/scheduler/browse/subject-data-cleaner/src/test/sql/test-queries.sql%3Fat%3D6626c85453f0410f0dedc5343977b313765d8ffd
+SpreadsheetValidateCustomSqlQueryEventArgs.Sql Property ...,https://docs.devexpress.com/OfficeFileAPI/DevExpress.Spreadsheet.SpreadsheetValidateCustomSqlQueryEventArgs.Sql%3Fv%3D19.2%26f%3Dprotectiontype
+CoCalc -- testdata_v3_1.sql,https://cocalc.com/github/freebsd/freebsd-src/blob/main/contrib/kyua/store/testdata_v3_1.sql
+Replication - Show Command Counts At Distributor.sql,https://github.com/kendalvandyke/SQL-Server-Scripts/blob/master/Replication%2520-%2520Show%2520Command%2520Counts%2520At%2520Distributor.sql
+CoCalc -- testdata_v3_3.sql,https://cocalc.com/github/freebsd/freebsd-src/blob/main/contrib/kyua/store/testdata_v3_3.sql
+mysql-server - scripts - firewall_stored_procedures.sql - GitLab,https://git-seclab.bu.edu/rasoulj/mysql-server/-/blob/7ed30a748964c009d4909cb8b4b22036ebdef239/scripts/firewall_stored_procedures.sql
+https://ocw.unican.es/pluginfile.php/1927/course/s...,https://ocw.unican.es/pluginfile.php/1927/course/section/1621/tsqlunit.sql
