@@ -4571,6 +4571,7 @@ anapests
 anaphase
 anaphases
 anaphasic
+anaphor
 anaphora
 anaphoral
 anaphoras
@@ -5578,6 +5579,7 @@ anticks
 anticlassical
 anticlerical
 anticlericals
+anticlimactic
 anticlimactical
 anticlimax
 anticlimaxes
@@ -6991,6 +6993,7 @@ arabicizations
 arabicize
 arabicized
 arabicizes
+arabicizing
 arabilities
 arability
 arabinose
@@ -8749,6 +8752,7 @@ attent
 attention
 attentional
 attentions
+attentive
 attentively
 attentiveness
 attentivenesses
@@ -9377,6 +9381,7 @@ autotroph
 autotrophic
 autotrophies
 autotrophs
+autotrophy
 autotype
 autotypes
 autotypies
@@ -17607,6 +17612,7 @@ brisances
 brisant
 brises
 brisk
+brisked
 brisker
 briskest
 brisket
@@ -29762,6 +29768,7 @@ consolidating
 consolidation
 consolidations
 consolidator
+consolidators
 consoling
 consolingly
 consols
@@ -33276,6 +33283,7 @@ crossed
 crosser
 crossers
 crosses
+crossest
 crossfires
 crosshair
 crosshairs
@@ -37192,6 +37200,7 @@ delighting
 delights
 delightsome
 delime
+delimed
 delimes
 deliming
 delimit
@@ -41694,6 +41703,7 @@ dissention
 dissentions
 dissentious
 dissents
+dissepiment
 dissepiments
 dissert
 dissertate
@@ -44263,6 +44273,7 @@ duncishly
 dunderhead
 dunderheaded
 dunderheads
+dundrearies
 dune
 duneland
 dunelands
@@ -49171,6 +49182,7 @@ estimably
 estimate
 estimated
 estimating
+estimation
 estimations
 estimative
 estimator
@@ -52738,6 +52750,7 @@ fell
 fella
 fellable
 fellah
+fellaheen
 fellahin
 fellahs
 fellas
@@ -59733,6 +59746,7 @@ geologically
 geologies
 geologist
 geologists
+geologize
 geologized
 geologizes
 geologizing
@@ -62813,6 +62827,7 @@ grosses
 grossest
 grossing
 grossly
+grossness
 grossnesses
 grossular
 grossularite
@@ -64564,6 +64579,7 @@ hangman
 hangmen
 hangnail
 hangnails
+hangnest
 hangnests
 hangout
 hangouts
@@ -65179,6 +65195,7 @@ hawkmoths
 hawknose
 hawknoses
 hawks
+hawksbill
 hawksbills
 hawkshaws
 hawkweed
@@ -68239,6 +68256,7 @@ hosing
 hospice
 hospices
 hospitable
+hospitably
 hospital
 hospitalise
 hospitalised
@@ -78375,6 +78393,7 @@ kilojoules
 kiloliter
 kiloliters
 kilolitre
+kilometer
 kilometers
 kilometre
 kilometres
@@ -88127,6 +88146,7 @@ mewl
 mewled
 mewler
 mewlers
+mewls
 mews
 mezcal
 mezcals
@@ -100220,6 +100240,7 @@ ostium
 ostler
 ostlers
 ostmark
+ostmarks
 ostomate
 ostomates
 ostomies
@@ -104081,6 +104102,7 @@ palmier
 palmiest
 palming
 palmist
+palmister
 palmisters
 palmistry
 palmists
@@ -105477,6 +105499,7 @@ pastoralism
 pastoralisms
 pastoralist
 pastoralists
+pastorally
 pastoralness
 pastoralnesses
 pastorals
@@ -119234,6 +119257,7 @@ ranges
 rangier
 rangiest
 ranginess
+ranginesses
 ranging
 rangy
 rani
@@ -121131,6 +121155,7 @@ redactions
 redactors
 redacts
 redamaged
+redamages
 redamaging
 redan
 redans
@@ -123837,6 +123862,7 @@ repayable
 repaying
 repayment
 repayments
+repays
 repeal
 repealable
 repealed
@@ -133682,6 +133708,7 @@ sheeniest
 sheening
 sheens
 sheeny
+sheep
 sheepberries
 sheepberry
 sheepcot
@@ -150033,6 +150060,7 @@ thingummy
 think
 thinkable
 thinkableness
+thinkablenesses
 thinkably
 thinker
 thinking
@@ -152558,6 +152586,7 @@ trainload
 trainloads
 trainman
 trainmen
+trains
 trainway
 trainways
 traipse
@@ -152819,6 +152848,7 @@ transient
 transiently
 transients
 transilluminate
+transistor
 transistorise
 transistorised
 transistorises
@@ -163155,6 +163185,7 @@ waddles
 waddling
 waddly
 waddy
+waddying
 wade
 wadeable
 waded
@@ -163277,6 +163308,7 @@ wahoos
 waif
 waifed
 waifing
+waifish
 waiflike
 waifs
 wail
@@ -164039,6 +164071,7 @@ wavelength
 wavelengths
 waveless
 wavelessly
+wavelet
 wavelets
 wavelike
 wavellite
@@ -164867,6 +164900,7 @@ whiles
 whiling
 whilom
 whilst
+whim
 whimbrel
 whimper
 whimpered
@@ -167958,6 +167992,7 @@ zoophilies
 zoophilous
 zoophily
 zoophobe
+zoophobes
 zoophobia
 zoophobias
 zoophyte
