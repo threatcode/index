@@ -6726,6 +6726,7 @@ appliqueing
 appliques
 apply
 applying
+appoggiatura
 appoggiaturas
 appoint
 appointee
@@ -13427,6 +13428,7 @@ biaxal
 biaxial
 biaxially
 bib
+bibasic
 bibb
 bibbed
 bibber
@@ -14318,6 +14320,7 @@ birdseed
 birdseeds
 birdseye
 birdseyes
+birdshot
 birdsong
 birdsongs
 birdwatch
@@ -16208,6 +16211,7 @@ booth
 booths
 bootie
 booties
+booting
 bootjack
 bootjacks
 bootlace
@@ -19772,6 +19776,7 @@ calibrators
 calibre
 calibres
 calices
+caliche
 caliches
 calicle
 calicles
@@ -22816,6 +22821,7 @@ cetacean
 cetaceous
 cetane
 cetanes
+cete
 cetes
 cetologies
 cetologist
@@ -28522,6 +28528,7 @@ composes
 composing
 composite
 composited
+compositely
 composites
 compositing
 composition
@@ -34364,6 +34371,7 @@ cutabilities
 cutability
 cutaneous
 cutaneously
+cutaway
 cutaways
 cutbacks
 cutbank
@@ -44110,6 +44118,7 @@ dullnesses
 dulls
 dullsville
 dullsvilles
+dully
 dulness
 dulnesses
 dulse
@@ -50092,6 +50101,7 @@ excitors
 exclaim
 exclaimed
 exclaimer
+exclaimers
 exclaiming
 exclaims
 exclamation
@@ -67881,6 +67891,7 @@ hooved
 hoover
 hoovered
 hoovers
+hooves
 hop
 hope
 hoped
@@ -79138,6 +79149,7 @@ labeler
 labelers
 labeling
 labellate
+labelled
 labeller
 labellers
 labelloid
@@ -84593,6 +84605,7 @@ maidish
 maids
 maidservant
 maidservants
+maieutic
 maigre
 maihem
 maihems
@@ -86196,6 +86209,7 @@ matted
 mattedly
 matter
 mattered
+matterful
 mattering
 matters
 mattery
@@ -88301,6 +88315,7 @@ microphyllous
 microphylls
 microphysical
 microphysically
+microphysics
 micropipet
 micropipets
 micropipette
@@ -95038,6 +95053,7 @@ nidus
 niduses
 niece
 nieces
+nielli
 niellist
 niellists
 niello
@@ -100814,6 +100830,7 @@ outlawing
 outlawry
 outlaws
 outlay
+outlays
 outleading
 outleads
 outleap
@@ -101035,6 +101052,7 @@ outrageous
 outrageously
 outrageousness
 outrages
+outraging
 outraise
 outraised
 outraises
@@ -103285,6 +103303,7 @@ oxlips
 oxo
 oxpeckers
 oxtail
+oxtails
 oxter
 oxters
 oxtongue
@@ -105238,6 +105257,7 @@ passively
 passivenesses
 passivism
 passivisms
+passivist
 passivists
 passivities
 passivity
@@ -107366,6 +107386,7 @@ perverse
 perversely
 perverseness
 perversion
+perversions
 perversities
 perversity
 perversive
@@ -109720,6 +109741,7 @@ plagiarising
 plagiarism
 plagiarisms
 plagiarist
+plagiaristic
 plagiarists
 plagiarize
 plagiarized
@@ -113985,6 +114007,7 @@ preservationist
 preservations
 preservative
 preservatives
+preserve
 preserved
 preserver
 preservers
@@ -119304,6 +119327,7 @@ ratifications
 ratified
 ratifier
 ratifiers
+ratifies
 ratify
 ratifying
 ratine
@@ -119354,6 +119378,7 @@ ratline
 ratlines
 ratlins
 rato
+ratoon
 ratooned
 ratooner
 ratooners
@@ -120959,6 +120984,7 @@ redbait
 redbaited
 redbaiter
 redbaiters
+redbaiting
 redbaits
 redbay
 redbird
@@ -122630,6 +122656,7 @@ reinvests
 reinvigorate
 reinvigorated
 reinvigorates
+reinvigorating
 reinvigoration
 reinvigorations
 reinvigorators
@@ -124512,6 +124539,7 @@ reshowered
 reshowering
 reshowers
 reshowing
+reshown
 reshows
 reshuffle
 reshuffled
@@ -133313,6 +133341,7 @@ sharecropping
 sharecrops
 shared
 shareholder
+shareholders
 sharer
 sharers
 shares
@@ -141186,6 +141215,7 @@ stegosaur
 stegosaurs
 stegosaurus
 stegosauruses
+stein
 steinbok
 steinboks
 steins
@@ -153387,6 +153417,7 @@ trifold
 trifoliate
 trifoliolate
 trifolium
+trifoliums
 triforia
 triforium
 triform
@@ -159211,6 +159242,7 @@ unveil
 unveiled
 unveiling
 unveilings
+unveils
 unveined
 unventilated
 unverbalized
@@ -159973,6 +160005,7 @@ urolith
 urolithiases
 urolithiasis
 urolithic
+uroliths
 urologic
 urological
 urologies
@@ -163094,6 +163127,7 @@ waked
 wakeful
 wakefully
 wakefulness
+wakefulnesses
 wakeless
 waken
 wakened
@@ -166368,6 +166402,7 @@ wrecker
 wreckers
 wreckful
 wrecking
+wreckings
 wrecks
 wren
 wrenched
