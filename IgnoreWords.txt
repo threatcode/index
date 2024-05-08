@@ -839,6 +839,7 @@ acnodes
 acock
 acoelomate
 acoelomates
+acoelous
 acold
 acolyte
 acolytes
@@ -12230,6 +12231,7 @@ beestings
 beeswax
 beeswaxes
 beeswing
+beeswings
 beet
 beetled
 beetler
@@ -14834,6 +14836,7 @@ blatant
 blate
 blathered
 blatherer
+blatherers
 blathering
 blathers
 blatherskite
@@ -14940,6 +14943,7 @@ blended
 blender
 blenders
 blendes
+blending
 blends
 blennies
 blennioid
@@ -27276,6 +27280,7 @@ coilabilities
 coilability
 coiled
 coiler
+coilers
 coiling
 coils
 coin
@@ -27510,6 +27515,7 @@ collectedly
 collectednesses
 collectible
 collectibles
+collecting
 collection
 collections
 collective
@@ -35449,6 +35455,7 @@ daubry
 daubs
 dauby
 daughter
+daughterless
 daughters
 daunder
 daundered
@@ -53284,6 +53291,7 @@ fibreglasses
 fibres
 fibril
 fibrilla
+fibrillae
 fibrillar
 fibrillate
 fibrillated
@@ -53547,6 +53555,7 @@ filarian
 filariases
 filariasis
 filariid
+filariids
 filatures
 filbert
 filberts
@@ -60489,6 +60498,7 @@ glamourized
 glamourizes
 glamourizing
 glamourless
+glamourous
 glamours
 glams
 glance
@@ -70913,6 +70923,7 @@ imperilment
 imperilments
 imperils
 imperious
+imperiously
 imperiousness
 imperiousnesses
 imperishability
@@ -76462,6 +76473,7 @@ jazzy
 jealous
 jealousness
 jealousy
+jean
 jeaned
 jeans
 jebel
@@ -80541,6 +80553,7 @@ leachabilities
 leachability
 leachable
 leachate
+leachates
 leached
 leacher
 leachers
@@ -83678,6 +83691,7 @@ luffa
 luffas
 luffed
 luffing
+luffs
 luftmensch
 luftmenschen
 lug
@@ -89380,6 +89394,7 @@ misanthropic
 misanthropies
 misanthropy
 misapplication
+misapplications
 misapplied
 misapplies
 misapply
@@ -92877,6 +92892,7 @@ muniments
 munis
 munition
 munitioned
+munitions
 munnion
 munnions
 muns
@@ -96779,6 +96795,7 @@ nonrotating
 nonroutine
 nonroyal
 nonrubber
+nonruling
 nonruminant
 nonruminants
 nonrural
@@ -104269,6 +104286,7 @@ panicking
 panicky
 panicle
 panicled
+panicles
 panics
 paniculate
 panicum
@@ -104486,6 +104504,7 @@ pappous
 pappus
 pappy
 papricas
+paprika
 paps
 papula
 papulae
@@ -107752,6 +107771,7 @@ phallisms
 phallist
 phallists
 phallocentric
+phallus
 phalluses
 phanerogam
 phanerogams
@@ -112351,6 +112371,7 @@ potboiler
 potboilers
 potboiling
 potboils
+potbound
 potboy
 potboys
 poteen
@@ -117067,6 +117088,7 @@ pupfishes
 pupil
 pupilage
 pupilages
+pupilar
 pupilary
 pupillage
 pupillages
@@ -119399,6 +119421,7 @@ ratemeter
 ratemeters
 ratepayer
 ratepayers
+rater
 raters
 rates
 ratfink
@@ -126216,6 +126239,7 @@ rheumier
 rheumiest
 rheums
 rheumy
+rhigolene
 rhigolenes
 rhinal
 rhinencephala
@@ -126421,6 +126445,7 @@ ricercar
 ricercare
 ricercari
 ricercars
+ricers
 rices
 rich
 richen
@@ -132906,6 +132931,7 @@ serum
 serumal
 serums
 servable
+serval
 servals
 servant
 servanthoods
@@ -134428,6 +134454,7 @@ shrewd
 shrewder
 shrewdest
 shrewdie
+shrewdies
 shrewdly
 shrewdness
 shrewdnesses
@@ -138182,6 +138209,7 @@ somnifacient
 somnifacients
 somniferous
 somnolences
+somnolent
 somnolently
 somoni
 soms
@@ -139148,6 +139176,7 @@ spectroscopy
 spectrum
 spectrums
 specula
+specular
 specularities
 specularity
 specularly
@@ -141713,6 +141742,7 @@ stigmata
 stigmatic
 stigmatically
 stigmatics
+stigmatist
 stigmatists
 stigmatization
 stigmatizations
@@ -141893,6 +141923,7 @@ stobbing
 stobs
 stoccado
 stoccados
+stoccata
 stoccatas
 stochastic
 stochastically
@@ -144166,6 +144197,7 @@ successfulness
 succession
 successional
 successionally
+successions
 successive
 successively
 successor
@@ -148001,6 +148033,7 @@ tawsed
 tawsing
 tax
 taxa
+taxable
 taxables
 taxably
 taxations
@@ -151063,6 +151096,7 @@ titanium
 titaniums
 titanous
 titans
+titbit
 titbits
 titer
 titers
@@ -166726,6 +166760,7 @@ xanthoma
 xanthomas
 xanthomata
 xanthone
+xanthones
 xanthophyll
 xanthophylls
 xanthous
