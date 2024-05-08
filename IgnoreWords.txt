@@ -5897,6 +5897,7 @@ antiphonary
 antiphonies
 antiphons
 antiphony
+antiphrases
 antiphrasis
 antipill
 antipiracy
@@ -15854,6 +15855,7 @@ bolshevizes
 bolshevizing
 bolshie
 bolshy
+bolson
 bolsons
 bolster
 bolstered
@@ -16636,6 +16638,7 @@ bourgs
 bourguignon
 bourguignonne
 bourn
+bourne
 bournes
 bourns
 bourree
@@ -21689,6 +21692,7 @@ castanets
 castaway
 castaways
 caste
+casteism
 casteisms
 castellan
 castellans
@@ -27213,6 +27217,7 @@ cohere
 cohered
 coherence
 coherences
+coherencies
 coherency
 coherently
 coherer
@@ -29838,6 +29843,7 @@ constrained
 constrainedly
 constraining
 constrains
+constraint
 constraints
 constrict
 constricted
@@ -38121,6 +38127,7 @@ depurator
 depurators
 deputable
 deputation
+deputations
 depute
 deputed
 deputes
@@ -38328,6 +38335,7 @@ descried
 descrier
 descriers
 descries
+description
 descriptive
 descriptively
 descriptiveness
@@ -56962,6 +56970,7 @@ freebooter
 freebooters
 freebooting
 freeboots
+freeborn
 freed
 freedman
 freedmen
@@ -62730,6 +62739,7 @@ grocery
 grodier
 grodiest
 grody
+grog
 groggeries
 groggery
 groggiest
@@ -66667,6 +66677,7 @@ hiddenness
 hiddennesses
 hide
 hideaway
+hideaways
 hidebound
 hided
 hideless
@@ -69119,6 +69130,7 @@ hydrometer
 hydrometers
 hydromorphic
 hydronic
+hydronically
 hydronium
 hydroniums
 hydropath
@@ -82434,6 +82446,7 @@ literality
 literalization
 literalizations
 literalized
+literalizes
 literalizing
 literally
 literalness
@@ -91321,6 +91334,7 @@ monomania
 monomaniac
 monomaniacal
 monomaniacally
+monomaniacs
 monomanias
 monomer
 monomeric
@@ -100167,6 +100181,7 @@ osteosarcomas
 osteosarcomata
 osteoses
 osteosis
+osteosises
 osteotome
 osteotomes
 osteotomies
@@ -108608,6 +108623,7 @@ physical
 physicalism
 physicalisms
 physicalist
+physicalistic
 physicalists
 physicalities
 physicality
@@ -109346,6 +109362,7 @@ pinnacle
 pinnacled
 pinnacles
 pinnacling
+pinnae
 pinnal
 pinnate
 pinnated
@@ -114302,6 +114319,7 @@ presupposed
 presupposes
 presupposing
 presupposition
+presuppositions
 presurgery
 presurvey
 presurveyed
@@ -115671,6 +115689,8 @@ proportionality
 proportionally
 proportionals
 proportionate
+proportionated
+proportionately
 proportionates
 proportionating
 proportioned
@@ -120841,6 +120861,7 @@ reconsults
 recontact
 recontacted
 recontacting
+recontacts
 recontaminate
 recontaminated
 recontaminates
@@ -132011,6 +132032,7 @@ select
 selectable
 selected
 selectee
+selectees
 selecting
 selection
 selectionist
@@ -141501,6 +141523,7 @@ stereoed
 stereogram
 stereograms
 stereograph
+stereographed
 stereographic
 stereographing
 stereographs
@@ -144650,6 +144673,7 @@ summerwood
 summerwoods
 summery
 summing
+summit
 summital
 summited
 summiteers
@@ -145216,6 +145240,7 @@ superposes
 superposing
 superposition
 superpositions
+superpower
 superpowered
 superpowerful
 superpowers
@@ -150670,6 +150695,7 @@ tierces
 tiered
 tiering
 tiers
+ties
 tiff
 tiffanies
 tiffany
@@ -150757,6 +150783,7 @@ tillermen
 tillers
 tilling
 tillite
+tillites
 tills
 tils
 tilt
@@ -151634,10 +151661,12 @@ toolmaker
 toolmakers
 toolmaking
 toolmakings
+toolroom
 toolrooms
 tools
 toolshed
 toolsheds
+toom
 toon
 toonie
 toonies
@@ -158808,6 +158837,7 @@ unruliness
 unrulinesses
 unruly
 unrumpled
+unrushed
 unrusted
 uns
 unsaddle
@@ -163796,6 +163826,7 @@ watcheye
 watcheyes
 watchful
 watchfully
+watchfulness
 watchfulnesses
 watching
 watchmaker
@@ -165312,6 +165343,7 @@ wigwam
 wigwams
 wikiup
 wikiups
+wilco
 wild
 wildcard
 wildcards
@@ -165700,6 +165732,7 @@ wiredraw
 wiredrawer
 wiredrawers
 wiredrawing
+wiredrawn
 wiredraws
 wiredrew
 wiregrass
@@ -166226,6 +166259,7 @@ wooliness
 woolinesses
 woolled
 woollen
+woollens
 woollier
 woollies
 woolliest
@@ -166339,6 +166373,7 @@ workhours
 workhouse
 workhouses
 working
+workingman
 workingmen
 workings
 workingwoman
