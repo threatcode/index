@@ -2972,6 +2972,7 @@ alegar
 alegars
 alehouse
 alehouses
+alembic
 alembics
 alencon
 alencons
@@ -4930,6 +4931,7 @@ anglicisms
 anglicization
 anglicizations
 anglicize
+anglicized
 anglicizes
 anglicizing
 angling
@@ -9561,6 +9563,7 @@ avoidance
 avoidances
 avoided
 avoider
+avoiders
 avoiding
 avoids
 avos
@@ -9683,6 +9686,7 @@ axenically
 axes
 axial
 axialities
+axiality
 axially
 axil
 axile
@@ -13656,6 +13660,7 @@ biformed
 bifunctional
 bifurcate
 bifurcated
+bifurcates
 bifurcating
 bifurcation
 bifurcations
@@ -15991,6 +15996,7 @@ boners
 bones
 boneset
 bonesets
+bonesetter
 bonesetters
 boney
 boneyard
@@ -20635,6 +20641,7 @@ caper
 capercaillie
 capercaillies
 capercailzie
+capercailzies
 capered
 caperer
 capering
@@ -23554,6 +23561,7 @@ cheapskate
 cheapskates
 cheat
 cheatable
+cheated
 cheater
 cheaters
 cheating
@@ -24098,6 +24106,7 @@ chimes
 chimichanga
 chimichangas
 chiming
+chimla
 chimlas
 chimley
 chimleys
@@ -26752,6 +26761,7 @@ cockeye
 cockeyed
 cockeyedly
 cockeyedness
+cockeyednesses
 cockeyes
 cockfight
 cockfighting
@@ -29305,6 +29315,7 @@ confounder
 confounders
 confounding
 confoundingly
+confounds
 confraternities
 confraternity
 confrere
@@ -31791,6 +31802,7 @@ counterefforts
 counterexample
 counterexamples
 counterfactual
+counterfeit
 counterfeited
 counterfeiter
 counterfeiters
@@ -34224,6 +34236,7 @@ currants
 curred
 currejong
 currejongs
+currencies
 currency
 current
 currently
@@ -38738,6 +38751,7 @@ detentists
 detents
 deter
 deterged
+detergency
 detergents
 deterger
 detergers
@@ -43227,6 +43241,7 @@ downspin
 downspins
 downspout
 downspouts
+downstage
 downstages
 downstair
 downstairs
@@ -49701,6 +49716,7 @@ eutectoid
 eutectoids
 euthanasia
 euthanasias
+euthanasic
 euthanatized
 euthanatizes
 euthanatizing
@@ -51575,6 +51591,7 @@ facsimile
 facsimileing
 facsimiles
 fact
+factful
 facticities
 facticity
 faction
@@ -54540,6 +54557,7 @@ flattery
 flatting
 flattish
 flattop
+flattops
 flatulence
 flatulences
 flatulencies
@@ -56226,6 +56244,7 @@ foretell
 foreteller
 foretellers
 foretelling
+foretells
 forethought
 forethoughtful
 forethoughts
@@ -58732,6 +58751,7 @@ gangbanger
 gangbangers
 gangbanging
 gangbangs
+gangbuster
 gangbusters
 ganged
 ganger
@@ -62318,6 +62338,7 @@ graybeard
 graybeards
 grayed
 grayer
+grayest
 grayfish
 grayfishes
 grayhound
@@ -66564,6 +66585,7 @@ heterotopic
 heterotroph
 heterotrophies
 heterotrophs
+heterotrophy
 heterotypic
 heterozygoses
 heterozygosis
@@ -70196,6 +70218,7 @@ ignites
 ignitible
 igniting
 ignition
+ignitions
 ignitors
 ignitron
 ignitrons
@@ -75156,6 +75179,7 @@ invectives
 inveigh
 inveighed
 inveigher
+inveighers
 inveighing
 inveighs
 inveigle
@@ -79789,6 +79813,7 @@ lanated
 lance
 lanced
 lancelet
+lancelets
 lanceolate
 lancer
 lancers
@@ -99496,6 +99521,7 @@ optic
 optical
 optically
 optician
+opticians
 opticist
 optics
 optima
@@ -100358,6 +100384,7 @@ ourebi
 ourebis
 ourie
 ours
+ourself
 ourselves
 ousel
 ousels
@@ -100976,6 +101003,7 @@ outlasted
 outlasting
 outlasts
 outlaugh
+outlaughed
 outlaughs
 outlaw
 outlawed
@@ -104793,6 +104821,7 @@ parapet
 parapeted
 parapets
 paraph
+paraphernalia
 paraphrasable
 paraphrased
 paraphrasers
@@ -122294,6 +122323,7 @@ regeneracy
 regenerate
 regenerated
 regenerately
+regenerateness
 regenerates
 regenerating
 regeneration
@@ -128427,6 +128457,7 @@ ryas
 rye
 ryegrass
 ryegrasses
+ryes
 ryke
 ryked
 rykes
@@ -133682,6 +133713,7 @@ sheaths
 sheave
 sheaved
 sheaves
+sheaving
 shebang
 shebangs
 shebean
@@ -139996,6 +140028,7 @@ sponsion
 sponsions
 sponson
 sponsons
+sponsor
 sponsored
 sponsorial
 sponsoring
@@ -163413,6 +163446,7 @@ waking
 wale
 waled
 walers
+walies
 waling
 walk
 walkable
@@ -164733,6 +164767,7 @@ whatsit
 whatsits
 whatsoever
 whaup
+whaups
 wheal
 wheals
 wheat
