@@ -434,6 +434,7 @@ accidents
 accidia
 accidias
 accidie
+accidies
 accipiter
 accipiters
 accipitrine
@@ -4155,6 +4156,7 @@ amniote
 amniotes
 amniotic
 amoeba
+amoebae
 amoebaean
 amoeban
 amoebas
@@ -6876,6 +6878,7 @@ apraxic
 apres
 apricot
 apricots
+apriorities
 apriority
 apron
 aproned
@@ -10283,6 +10286,7 @@ baffle
 baffled
 bafflegab
 bafflegabs
+bafflement
 bafflements
 baffler
 bafflers
@@ -12558,6 +12562,7 @@ believing
 belike
 beliquor
 beliquored
+beliquoring
 belittle
 belittled
 belittlement
@@ -12607,6 +12612,7 @@ bellowers
 bellowing
 bellows
 bellpulls
+bells
 bellwether
 bellwethers
 bellwort
@@ -17249,6 +17255,7 @@ breakfasters
 breakfasting
 breakfasts
 breakfront
+breakfronts
 breaking
 breakings
 breakneck
@@ -17863,6 +17870,7 @@ brookites
 brooklet
 brooklets
 brooklike
+brooklime
 brooklimes
 brooks
 broomball
@@ -24883,6 +24891,7 @@ chunking
 chunks
 chunky
 chunnel
+chunnels
 chunter
 chuntered
 chuntering
@@ -35880,6 +35889,7 @@ decahedron
 decahedrons
 decal
 decalcification
+decalcified
 decalcifies
 decalcify
 decalcifying
@@ -39519,6 +39529,7 @@ dichotomy
 dichroic
 dichroism
 dichroisms
+dichroite
 dichroites
 dichromat
 dichromate
@@ -40483,6 +40494,7 @@ disambiguation
 disambiguations
 disannul
 disannulled
+disannuls
 disappear
 disappearance
 disappearances
@@ -43181,6 +43193,7 @@ downstages
 downstair
 downstairs
 downstate
+downstater
 downstaters
 downstates
 downstream
@@ -73347,8 +73360,10 @@ insalubrities
 insalubrity
 insane
 insanely
+insaneness
 insanenesses
 insaner
+insanest
 insanitary
 insanitation
 insanities
@@ -74531,6 +74546,7 @@ interrupter
 interrupters
 interruptible
 interrupting
+interruption
 interruptions
 interruptive
 interruptor
@@ -78522,6 +78538,7 @@ kismetic
 kismets
 kiss
 kissable
+kissably
 kissed
 kisser
 kissers
@@ -80628,6 +80645,7 @@ leapfrog
 leapfrogged
 leapfrogging
 leapfrogs
+leaping
 leaps
 learier
 leariest
@@ -84353,6 +84371,7 @@ mad
 madam
 madame
 madames
+madams
 madcap
 madcaps
 madden
@@ -122960,6 +122979,7 @@ reliables
 reliance
 reliances
 reliant
+reliantly
 relic
 relicense
 relicenses
@@ -123698,6 +123718,7 @@ repassages
 repassed
 repasses
 repassing
+repast
 repasted
 repasting
 repasts
@@ -129318,6 +129339,7 @@ saplings
 sapodilla
 sapodillas
 sapogenin
+sapogenins
 saponaceous
 saponaceousness
 saponated
@@ -130374,6 +130396,7 @@ schmeered
 schmeering
 schmelzes
 schmo
+schmoe
 schmoes
 schmoos
 schmoose
@@ -131655,6 +131678,7 @@ sedans
 sedarim
 sedate
 sedated
+sedately
 sedateness
 sedatenesses
 sedater
@@ -132709,6 +132733,7 @@ sergeanties
 sergeants
 sergeanty
 serged
+serger
 sergers
 serges
 serging
@@ -133959,6 +133984,7 @@ shirtmaker
 shirtmakers
 shirts
 shirtsleeve
+shirtsleeved
 shirtsleeves
 shirttail
 shirttailed
@@ -135258,6 +135284,7 @@ singlet
 singleton
 singletons
 singletree
+singletrees
 singlets
 singling
 singly
@@ -137770,6 +137797,7 @@ sol
 sola
 solace
 solaced
+solacement
 solacements
 solacer
 solacers
@@ -153934,6 +153962,7 @@ trollopy
 trolls
 trolly
 trollying
+trombone
 trombones
 trombonist
 trombonists
@@ -154424,6 +154453,7 @@ tubulin
 tubulins
 tubulose
 tubulous
+tubulures
 tuchun
 tuchuns
 tuck
@@ -155397,6 +155427,7 @@ uitlanders
 ukase
 ukases
 uke
+ukelele
 ukeleles
 ukes
 ukuleles
@@ -159774,6 +159805,7 @@ upshoots
 upshot
 upshots
 upside
+upsides
 upsilon
 upsilons
 upsize
@@ -160595,6 +160627,7 @@ vanguardism
 vanguardisms
 vanguardist
 vanguards
+vanilla
 vanillas
 vanillic
 vanillin
@@ -163090,6 +163123,7 @@ waggoning
 waging
 wagon
 wagonage
+wagonages
 wagoned
 wagoner
 wagoners
@@ -163430,6 +163464,7 @@ wardrooms
 wards
 wardship
 wared
+warehouse
 warehouseman
 warehouser
 warehousers
