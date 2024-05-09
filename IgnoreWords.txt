@@ -8387,6 +8387,7 @@ astatine
 astatines
 aster
 asteria
+asterias
 asteriated
 asterisk
 asterisked
@@ -9791,6 +9792,7 @@ axonemal
 axoneme
 axonemes
 axones
+axonic
 axonometric
 axons
 axoplasm
@@ -10574,6 +10576,7 @@ balkline
 balklines
 balks
 balky
+ball
 ballad
 ballade
 balladeer
@@ -12128,6 +12131,7 @@ bedighting
 bedights
 bedim
 bedimmed
+bedimming
 bedimple
 bedimples
 bedimpling
@@ -12473,6 +12477,7 @@ begrudgers
 begrudges
 begrudging
 begrudgingly
+begs
 beguile
 beguiled
 beguilement
@@ -14789,6 +14794,7 @@ bladdery
 blade
 bladed
 bladeless
+bladelike
 blader
 bladers
 blades
@@ -25708,6 +25714,7 @@ clangour
 clangoured
 clangouring
 clangours
+clangs
 clank
 clanked
 clankier
@@ -30941,6 +30948,7 @@ copulated
 copulates
 copulating
 copulation
+copulations
 copulative
 copulatives
 copulatory
@@ -40624,6 +40632,7 @@ direction
 directional
 directionality
 directionless
+directions
 directive
 directives
 directivities
@@ -41545,6 +41554,7 @@ dismalnesses
 dismals
 dismantle
 dismantled
+dismantlement
 dismantles
 dismantling
 dismast
@@ -52845,6 +52855,7 @@ featheredges
 featheredging
 featherhead
 featherheaded
+featherheads
 featherier
 featheriest
 featherings
@@ -58263,6 +58274,7 @@ funkiness
 funkinesses
 funking
 funks
+funky
 funned
 funnel
 funneled
@@ -64810,6 +64822,7 @@ handcrafted
 handcrafting
 handcrafts
 handcraftsmen
+handcuff
 handcuffed
 handcuffing
 handcuffs
@@ -66542,6 +66555,7 @@ hendiadys
 hendiadyses
 henequen
 henequens
+henequin
 henequins
 henge
 henges
@@ -69616,6 +69630,7 @@ hydrosphere
 hydrospheres
 hydrospheric
 hydrostat
+hydrostatic
 hydrostatically
 hydrostatics
 hydrostats
@@ -86413,6 +86428,7 @@ marsupial
 marsupials
 marsupium
 mart
+martagon
 martagons
 marted
 martello
@@ -91973,6 +91989,7 @@ monorchid
 monorchidism
 monorchidisms
 monorchids
+monorhyme
 monorhymed
 monorhymes
 monos
@@ -94899,6 +94916,7 @@ needlefish
 needlefishes
 needlelike
 needlepoint
+needlepoints
 needler
 needlers
 needless
@@ -100943,6 +100961,7 @@ outachieved
 outachieves
 outachieving
 outact
+outacted
 outacting
 outacts
 outadd
@@ -105447,6 +105466,7 @@ parasitizations
 parasitize
 parasitized
 parasitizes
+parasitizing
 parasitoid
 parasitoids
 parasitologic
@@ -105847,6 +105867,7 @@ particularists
 particularities
 particularity
 particularize
+particularized
 particularizing
 particularly
 particulars
@@ -108436,6 +108457,7 @@ phalangers
 phalanges
 phalansteries
 phalanstery
+phalanx
 phalanxes
 phalarope
 phalaropes
@@ -110378,6 +110400,7 @@ pithier
 pithiest
 pithily
 pithiness
+pithinesses
 pithing
 pithless
 piths
@@ -111741,6 +111764,7 @@ polarization
 polarizations
 polarize
 polarized
+polarizer
 polarizers
 polarizes
 polarizing
@@ -113479,6 +113503,7 @@ preabsorb
 preabsorbed
 preabsorbing
 preabsorbs
+preaccuse
 preaccused
 preaccuses
 preaccusing
@@ -114505,6 +114530,7 @@ preoccupy
 preoccupying
 preop
 preopening
+preoperational
 preoperative
 preoperatively
 preops
@@ -119081,6 +119107,7 @@ quintuplet
 quintuplets
 quintuplicate
 quintuplicated
+quintuplicates
 quintuplicating
 quintupling
 quintuply
@@ -136570,6 +136597,7 @@ skewers
 skewing
 skewness
 skewnesses
+skews
 ski
 skiable
 skiagram
@@ -137865,6 +137893,7 @@ smudgy
 smug
 smugger
 smuggest
+smuggle
 smuggled
 smuggler
 smugglers
@@ -142472,6 +142501,7 @@ sternest
 sternforemost
 sternite
 sternites
+sternly
 sternmost
 sternness
 sternnesses
@@ -143912,6 +143942,7 @@ stunted
 stuntedness
 stuntednesses
 stunting
+stuntman
 stuntmen
 stunts
 stuntwoman
@@ -156619,6 +156650,7 @@ ultrararefied
 ultrarational
 ultrarealism
 ultrarealisms
+ultrarealist
 ultrarealistic
 ultrared
 ultrarefined
@@ -157216,6 +157248,7 @@ uncanceled
 uncandid
 uncandidly
 uncandled
+uncanned
 uncannier
 uncanniest
 uncannily
@@ -161914,6 +161947,7 @@ vasectomizes
 vasectomizing
 vasectomy
 vaselike
+vaseline
 vaselines
 vases
 vasiform
@@ -163006,6 +163040,7 @@ vigilante
 vigilantes
 vigilantism
 vigilantisms
+vigilantly
 vigils
 vigintillion
 vigintillions
