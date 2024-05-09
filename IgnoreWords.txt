@@ -4507,6 +4507,7 @@ analects
 analemma
 analemmas
 analemmata
+analemmatic
 analeptic
 analeptics
 analgesias
@@ -12773,6 +12774,7 @@ bemeaned
 bemeaning
 bemeans
 bemedaled
+bemedalled
 bemingle
 bemingled
 bemingles
@@ -17670,6 +17672,7 @@ brimful
 brimfull
 brimfully
 brimless
+brimmed
 brimmer
 brimmers
 brims
@@ -26943,6 +26946,7 @@ cockneyism
 cockneyisms
 cockneys
 cockpits
+cockroach
 cockroaches
 cocks
 cockscomb
@@ -31923,6 +31927,7 @@ counteracted
 counteracting
 counteraction
 counteractions
+counteractive
 counteracts
 counteragent
 counteragents
@@ -32251,6 +32256,7 @@ courtezans
 courthouse
 courthouses
 courtier
+courtiers
 courting
 courtlier
 courtliest
@@ -33317,6 +33323,7 @@ critic
 critical
 criticalities
 criticality
+critically
 criticalness
 criticalnesses
 criticaster
@@ -35545,6 +35552,7 @@ dareful
 darer
 darers
 dares
+daresay
 daric
 darics
 daring
@@ -37703,6 +37711,7 @@ demobilization
 demobilizations
 demobilize
 demobilized
+demobilizes
 demobilizing
 demobs
 democracies
@@ -37839,6 +37848,7 @@ demurely
 demureness
 demurenesses
 demurer
+demurest
 demurrage
 demurrages
 demurral
@@ -38170,6 +38180,7 @@ deperm
 depermed
 deperming
 deperms
+depersonalize
 depersonalized
 depersonalizes
 depersonalizing
@@ -49310,6 +49321,7 @@ eschalot
 eschalots
 eschar
 escharotic
+escharotics
 eschars
 eschatological
 eschatologies
@@ -51910,6 +51922,7 @@ factionally
 factions
 factious
 factiously
+factiousness
 factiousnesses
 factitious
 factitiously
@@ -57495,6 +57508,7 @@ frescos
 fresh
 freshed
 freshen
+freshened
 freshener
 fresheners
 freshening
@@ -62487,6 +62501,7 @@ granularity
 granulate
 granulated
 granulates
+granulating
 granulation
 granulations
 granulator
@@ -68124,6 +68139,7 @@ homologized
 homologizer
 homologizers
 homologizes
+homologizing
 homologous
 homologs
 homologue
@@ -77197,6 +77213,7 @@ jetton
 jettons
 jetty
 jettying
+jetway
 jetways
 jeu
 jeux
@@ -81566,6 +81583,7 @@ leisured
 leisureliness
 leisurelinesses
 leisurely
+leitmotif
 leitmotifs
 leitmotiv
 leitmotivs
@@ -83637,6 +83655,7 @@ logy
 loid
 loided
 loiding
+loids
 loin
 loincloth
 loincloths
@@ -90701,6 +90720,7 @@ mispainted
 mispainting
 mispaints
 misparse
+misparsed
 misparses
 misparsing
 mispart
@@ -92875,6 +92895,7 @@ mouthwashes
 mouthwatering
 mouthwateringly
 mouthy
+mouton
 moutonnee
 moutons
 movability
@@ -100486,6 +100507,7 @@ originals
 originate
 originated
 originating
+origination
 originations
 originative
 originatively
@@ -107467,6 +107489,7 @@ peptics
 peptid
 peptidase
 peptidases
+peptide
 peptides
 peptidic
 peptidoglycan
@@ -107772,6 +107795,7 @@ perimysium
 perinatal
 perinatally
 perineal
+perineum
 perineuria
 perineurium
 period
@@ -108709,6 +108733,7 @@ phials
 philabeg
 philabegs
 philadelphus
+philadelphuses
 philander
 philandered
 philanderer
@@ -111694,6 +111719,7 @@ pogies
 pogonia
 pogonias
 pogonip
+pogonips
 pogonophoran
 pogonophorans
 pogrom
@@ -115064,6 +115090,7 @@ prestored
 prestores
 prestoring
 prestos
+prestress
 prestressed
 prestresses
 prestressing
@@ -117652,6 +117679,7 @@ pulmonates
 pulmonic
 pulmotor
 pulmotors
+pulp
 pulpal
 pulpally
 pulped
@@ -138443,6 +138471,7 @@ snowshoe
 snowshoed
 snowshoeing
 snowshoer
+snowshoers
 snowshoes
 snowslide
 snowslides
@@ -140833,6 +140862,7 @@ spoilage
 spoilages
 spoiled
 spoiler
+spoiling
 spoils
 spoilsman
 spoilsmen
@@ -142948,6 +142978,7 @@ stockists
 stockjobber
 stockjobbers
 stockjobbing
+stockjobbings
 stockkeeper
 stockkeepers
 stockman
@@ -155542,6 +155573,7 @@ tubercle
 tubercles
 tubercular
 tuberculars
+tuberculate
 tuberculated
 tuberculin
 tuberculins
@@ -156298,6 +156330,7 @@ twitters
 twittery
 twitting
 twixt
+two
 twofer
 twofers
 twofold
@@ -166076,6 +166109,7 @@ whishts
 whisk
 whisked
 whisker
+whiskered
 whiskers
 whiskery
 whiskey
@@ -167970,6 +168004,7 @@ xerophilies
 xerophilous
 xerophthalmia
 xerophthalmic
+xerophyte
 xerophytic
 xerophytism
 xerophytisms
