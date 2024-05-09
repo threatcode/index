@@ -6083,6 +6083,7 @@ antistat
 antistate
 antistatic
 antistats
+antistick
 antistories
 antistory
 antistress
@@ -7299,6 +7300,7 @@ area
 areae
 areal
 areally
+areas
 areaway
 areaways
 areca
@@ -16388,6 +16390,7 @@ boreholes
 borer
 borers
 bores
+borescope
 borescopes
 boresome
 boric
@@ -33351,6 +33354,7 @@ crore
 crosier
 crosiers
 cross
+crossabilities
 crossability
 crossable
 crossarm
@@ -34957,6 +34961,7 @@ cytogeny
 cytokine
 cytokines
 cytokineses
+cytokinesis
 cytokinetic
 cytokinin
 cytokinins
@@ -45361,6 +45366,7 @@ edgeless
 edger
 edgers
 edgeways
+edgewise
 edgier
 edgiest
 edgily
@@ -45490,6 +45496,7 @@ effective
 effectively
 effectiveness
 effectivenesses
+effectives
 effectivities
 effectivity
 effector
@@ -54145,6 +54152,7 @@ firefanged
 firefanging
 firefangs
 firefight
+firefighter
 firefighters
 firefights
 fireflies
@@ -59940,6 +59948,7 @@ geographer
 geographers
 geographical
 geographically
+geographies
 geography
 geohydrologic
 geohydrologies
@@ -60647,6 +60656,7 @@ gizzard
 gjetost
 gjetosts
 glabella
+glabellae
 glabellar
 glabrate
 glabrescent
@@ -64093,6 +64103,7 @@ hackneys
 hacks
 hacksaw
 hacksawed
+hacksawing
 hacksawn
 hacksaws
 hackwork
@@ -67157,6 +67168,7 @@ hindrances
 hinds
 hindshank
 hindshanks
+hindsight
 hindsights
 hinge
 hinged
@@ -67527,6 +67539,7 @@ hognut
 hogs
 hogshead
 hogsheads
+hogtie
 hogtied
 hogtieing
 hogties
@@ -74711,6 +74724,7 @@ internal
 internalise
 internalised
 internalises
+internalising
 internality
 internalization
 internalize
@@ -77501,6 +77515,7 @@ judgmatic
 judgmatical
 judgmatically
 judgment
+judgmental
 judgmentally
 judgments
 judicable
@@ -82206,6 +82221,7 @@ likings
 likuta
 lilac
 lilangeni
+lilied
 lilies
 lilliput
 lilliputian
@@ -85009,6 +85025,7 @@ mahonia
 mahonias
 mahout
 mahouts
+mahuangs
 mahzor
 mahzorim
 mahzors
@@ -85534,6 +85551,7 @@ mandator
 mandatories
 mandatorily
 mandators
+mandatory
 mandible
 mandibles
 mandibular
@@ -85815,6 +85833,7 @@ mantra
 mantram
 mantrams
 mantrap
+mantraps
 mantras
 mantric
 mantua
@@ -88341,6 +88360,7 @@ methylate
 methylated
 methylates
 methylating
+methylation
 methylations
 methylator
 methylators
@@ -96644,6 +96664,7 @@ nonflammable
 nonflowering
 nonfluencies
 nonfluency
+nonfluid
 nonfluids
 nonfluorescent
 nonflying
@@ -97258,6 +97279,7 @@ nonsolution
 nonsolutions
 nonspatial
 nonspeaker
+nonspeakers
 nonspeaking
 nonspecialist
 nonspecialists
@@ -97608,6 +97630,7 @@ noshed
 nosher
 noshers
 noshes
+noshing
 nosier
 nosiest
 nosily
@@ -100548,6 +100571,7 @@ osteoma
 osteomalacia
 osteomas
 osteomata
+osteomyelitis
 osteomyelitises
 osteopath
 osteopathic
@@ -101565,6 +101589,7 @@ outrances
 outrang
 outrange
 outranged
+outranges
 outranging
 outrank
 outranked
@@ -116261,6 +116286,7 @@ prosecuted
 prosecutes
 prosecuting
 prosecution
+prosecutions
 prosecutor
 prosecutorial
 prosed
@@ -123520,6 +123546,7 @@ reliant
 reliantly
 relic
 relicense
+relicensed
 relicenses
 relicensing
 relicensure
@@ -128212,6 +128239,7 @@ roundednesses
 roundel
 roundelay
 roundelays
+roundels
 rounder
 rounders
 roundest
@@ -134893,6 +134921,7 @@ shouting
 shouts
 shove
 shoved
+shovel
 shoveled
 shoveler
 shovelers
@@ -150580,6 +150609,7 @@ thinner
 thinners
 thinness
 thinnesses
+thinnest
 thinning
 thinnish
 thins
@@ -153432,6 +153462,7 @@ transmigrators
 transmigratory
 transmissible
 transmission
+transmissions
 transmissive
 transmissivity
 transmissometer
@@ -158109,6 +158140,7 @@ unfitting
 unfix
 unfixed
 unfixes
+unfixing
 unfixt
 unflagging
 unflaggingly
@@ -159918,6 +159950,7 @@ untidinesses
 untidying
 untie
 untied
+untieing
 unties
 until
 untillable
@@ -161186,6 +161219,7 @@ validation
 validations
 validities
 validity
+validly
 validnesses
 valine
 valines
@@ -168261,6 +168295,7 @@ zeniths
 zeolite
 zeolites
 zeolitic
+zep
 zephyr
 zephyrs
 zeppelin
