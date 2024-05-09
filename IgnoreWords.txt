@@ -605,6 +605,7 @@ accusations
 accusative
 accusatives
 accuse
+accused
 accuser
 accusers
 accuses
@@ -7397,6 +7398,7 @@ argots
 arguable
 arguably
 argue
+argued
 arguer
 arguers
 argues
@@ -11469,6 +11471,7 @@ bassos
 basswood
 basswoods
 bassy
+bast
 bastardies
 bastardise
 bastardised
@@ -15285,6 +15288,7 @@ bloodthirsty
 bloodworm
 bloodworms
 bloodworts
+bloody
 bloodying
 blooie
 bloom
@@ -23770,6 +23774,7 @@ cheerleading
 cheerleads
 cheerled
 cheerless
+cheerlessly
 cheerlessness
 cheerlessnesses
 cheerly
@@ -26808,6 +26813,7 @@ coccal
 cocci
 coccic
 coccid
+coccidia
 coccidioses
 coccidiosis
 coccidium
@@ -32192,6 +32198,7 @@ couriers
 courlan
 courlans
 course
+coursed
 courser
 coursers
 courses
@@ -37095,6 +37102,7 @@ degassers
 degassing
 degauss
 degaussed
+degausser
 degaussers
 degausses
 degaussing
@@ -40117,6 +40125,7 @@ diglyceride
 diglycerides
 dignified
 dignifies
+dignify
 dignifying
 dignitaries
 dignitary
@@ -41387,6 +41396,7 @@ dishwater
 dishwaters
 dishy
 disillusioned
+disillusioning
 disillusions
 disincentive
 disincentives
@@ -47387,6 +47397,7 @@ endostea
 endosteal
 endosteally
 endosteum
+endostyle
 endostyles
 endosulfan
 endosulfans
@@ -61625,6 +61636,7 @@ godfather
 godfathered
 godfathering
 godfathers
+godforsaken
 godhead
 godheads
 godhood
@@ -67631,6 +67643,7 @@ hogback
 hogbacks
 hogfish
 hogfishes
+hogg
 hogged
 hogger
 hoggers
@@ -81323,6 +81336,7 @@ legalese
 legaleses
 legalise
 legalises
+legalising
 legalism
 legalisms
 legalist
@@ -84472,6 +84486,7 @@ lustrousnesses
 lustrum
 lustrums
 lusts
+lusty
 lusus
 lususes
 lutanist
@@ -84625,6 +84640,7 @@ lyophilises
 lyophilising
 lyophilization
 lyophilizations
+lyophilize
 lyophilized
 lyophilizer
 lyophilizers
@@ -92581,6 +92597,7 @@ motorboated
 motorboater
 motorboaters
 motorboating
+motorboatings
 motorboats
 motorbus
 motorbuses
@@ -93121,6 +93138,7 @@ multibranched
 multibuilding
 multicampus
 multicar
+multicarbon
 multicausal
 multicell
 multicelled
@@ -105567,6 +105585,7 @@ pargetted
 pargetting
 parging
 pargings
+pargo
 pargyline
 pargylines
 parhelia
@@ -108185,6 +108204,7 @@ pestle
 pestled
 pestles
 pestling
+pesto
 pestos
 pests
 pesty
@@ -108894,6 +108914,7 @@ photochemists
 photochromic
 photochromism
 photochromisms
+photocompose
 photocomposed
 photocomposer
 photocomposers
@@ -113190,6 +113211,7 @@ poundal
 poundals
 poundcake
 poundcakes
+pounded
 pounder
 pounders
 pounding
@@ -122433,6 +122455,7 @@ reestimated
 reestimates
 reestimating
 reesting
+reests
 reevaluate
 reevaluated
 reevaluates
@@ -122714,6 +122737,7 @@ reforges
 reform
 reformabilities
 reformability
+reformable
 reformat
 reformate
 reformates
@@ -127372,6 +127396,7 @@ righters
 rightest
 rightful
 rightfully
+rightfulness
 rightfulnesses
 righties
 righting
@@ -133592,6 +133617,7 @@ sericin
 sericins
 sericultural
 sericulture
+sericulturist
 sericulturists
 seriema
 seriemas
@@ -134893,6 +134919,7 @@ shlumpy
 shmaltz
 shmaltzes
 shmaltzier
+shmaltziest
 shmaltzy
 shmear
 shmears
@@ -137792,6 +137819,7 @@ smothers
 smothery
 smoulder
 smouldered
+smouldering
 smoulders
 smudge
 smudged
@@ -140017,6 +140045,7 @@ speechlessness
 speechwriter
 speechwriters
 speed
+speedball
 speedballed
 speedballing
 speedballs
@@ -144656,6 +144685,7 @@ subring
 subrings
 subrogate
 subrogated
+subrogating
 subrogation
 subrogations
 subroutine
@@ -147388,6 +147418,7 @@ symmetrize
 symmetrized
 symmetrizes
 symmetrizing
+symmetry
 sympathectomies
 sympathectomy
 sympathetic
@@ -149764,6 +149795,7 @@ tensilities
 tensility
 tensing
 tensiometer
+tensiometers
 tensiometric
 tensiometry
 tension
@@ -155835,6 +155867,7 @@ turtledoves
 turtlehead
 turtleheads
 turtleneck
+turtlenecked
 turtlenecks
 turtler
 turtles
@@ -162808,6 +162841,7 @@ viceroyships
 vices
 vichies
 vichy
+vichyssoise
 vichyssoises
 vicinage
 vicinages
@@ -163877,6 +163911,7 @@ vouchsafements
 vouchsafes
 vouchsafing
 voudon
+voudons
 voudoun
 voudouns
 voussoir
