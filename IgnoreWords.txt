@@ -2036,6 +2036,7 @@ affixial
 affixing
 affixment
 affixments
+affixture
 affixtures
 afflatus
 afflatuses
@@ -5327,6 +5328,7 @@ ansa
 ansae
 ansate
 ansated
+anserine
 anserines
 anserous
 answer
@@ -9764,6 +9766,7 @@ axioms
 axion
 axions
 axis
+axised
 axises
 axisymmetric
 axisymmetrical
@@ -11520,6 +11523,7 @@ bate
 bateau
 bateaux
 bated
+bates
 batfish
 batfishes
 batfowl
@@ -16763,6 +16767,7 @@ bousoukia
 bousoukis
 boustrophedon
 boustrophedonic
+boustrophedons
 bousy
 bout
 boutique
@@ -21854,6 +21859,7 @@ casual
 casually
 casualness
 casualnesses
+casuals
 casualties
 casualty
 casuarina
@@ -32691,6 +32697,7 @@ crankier
 crankiest
 crankily
 crankiness
+crankinesses
 cranking
 crankish
 crankle
@@ -32971,6 +32978,7 @@ creepy
 creese
 creeses
 creesh
+creeshed
 creeshes
 creeshing
 cremate
@@ -41313,6 +41321,7 @@ disgruntled
 disgruntlement
 disgruntlements
 disgruntles
+disgruntling
 disguise
 disguised
 disguisedly
@@ -46970,6 +46979,7 @@ enamelist
 enamelists
 enamelled
 enameller
+enamellers
 enamelling
 enamels
 enamelware
@@ -51927,6 +51937,7 @@ faddish
 faddishly
 faddishness
 faddishnesses
+faddism
 faddisms
 faddist
 faddists
@@ -56136,6 +56147,7 @@ footrest
 footrests
 footrope
 footropes
+foots
 footsie
 footsies
 footslog
@@ -56261,6 +56273,7 @@ ford
 fordable
 forded
 fording
+fordless
 fordo
 fordoes
 fordoing
@@ -56853,6 +56866,7 @@ forums
 forward
 forwarded
 forwarder
+forwarders
 forwardest
 forwarding
 forwardly
@@ -59741,6 +59755,7 @@ gelders
 gelding
 geldings
 gelds
+gelee
 gelees
 gelid
 gelidities
@@ -67017,6 +67032,7 @@ hexerei
 hexereis
 hexes
 hexing
+hexobarbital
 hexobarbitals
 hexokinase
 hexones
@@ -76688,6 +76704,7 @@ jagless
 jagra
 jagras
 jags
+jaguar
 jaguarondi
 jaguarondis
 jaguars
@@ -78633,6 +78650,7 @@ kheth
 kheths
 khets
 khi
+khirkah
 khis
 khoum
 khoums
@@ -83658,6 +83676,7 @@ longhouses
 longicorn
 longicorns
 longies
+longing
 longingly
 longings
 longish
@@ -85433,6 +85452,7 @@ malefactor
 malefactors
 malefic
 maleficence
+maleficences
 maleficent
 malemiut
 malemiuts
@@ -88084,6 +88104,7 @@ meshugga
 meshuggah
 meshugge
 meshuggener
+meshuggeners
 meshwork
 meshworks
 meshy
@@ -93233,6 +93254,7 @@ multimodal
 multimode
 multimolecular
 multination
+multinational
 multinationals
 multinomial
 multinomials
@@ -94129,6 +94151,7 @@ myxoedemas
 myxoid
 myxoma
 myxomas
+myxomata
 myxomatoses
 myxomatous
 myxomycete
@@ -104039,6 +104062,7 @@ oxycodones
 oxygen
 oxygenase
 oxygenases
+oxygenate
 oxygenated
 oxygenates
 oxygenating
@@ -106716,6 +106740,7 @@ pedantic
 pedantically
 pedantries
 pedantry
+pedants
 pedately
 peddle
 peddled
@@ -109852,6 +109877,7 @@ pilule
 pilules
 pilus
 pily
+pimas
 pimento
 pimentos
 pimiento
@@ -124991,6 +125017,7 @@ repugn
 repugnance
 repugnances
 repugnancies
+repugnancy
 repugnant
 repugnantly
 repugned
@@ -130112,6 +130139,7 @@ sansculottism
 sansculottisms
 sansei
 sanserif
+sanserifs
 sansevieria
 sansevierias
 santalic
@@ -132505,6 +132533,7 @@ secured
 securely
 securement
 securements
+secureness
 securenesses
 securer
 securers
@@ -135907,6 +135936,7 @@ sill
 sillabub
 sillabubs
 siller
+sillibubs
 sillier
 sillies
 silliest
@@ -136900,6 +136930,7 @@ slammers
 slamming
 slammings
 slams
+slander
 slandered
 slanderer
 slanderers
@@ -140158,6 +140189,7 @@ spermatid
 spermatids
 spermatium
 spermatocyte
+spermatocytes
 spermatogeneses
 spermatogenesis
 spermatogenic
@@ -147677,6 +147709,7 @@ synonymical
 synonymies
 synonymist
 synonymists
+synonymities
 synonymity
 synonymize
 synonymized
@@ -159928,6 +159961,7 @@ unshelled
 unshelling
 unshells
 unshift
+unshifted
 unshifting
 unshifts
 unship
@@ -167253,6 +167287,7 @@ woolshed
 woolsheds
 woolskin
 woolskins
+woolwork
 woolworks
 wooly
 woomera
