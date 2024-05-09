@@ -1213,6 +1213,7 @@ addressee
 addressees
 addresser
 addressers
+addresses
 addressing
 addressor
 addressors
@@ -5231,6 +5232,7 @@ anoas
 anodal
 anodally
 anode
+anodes
 anodic
 anodically
 anodization
@@ -6619,6 +6621,7 @@ apparent
 apparently
 apparentness
 apparentnesses
+apparition
 apparitional
 apparitions
 apparitor
@@ -7119,6 +7122,7 @@ arbutes
 arbutus
 arbutuses
 arc
+arcade
 arcaded
 arcades
 arcadian
@@ -7654,6 +7658,7 @@ arrhizal
 arrhythmia
 arrhythmias
 arrhythmic
+arriba
 arris
 arrises
 arrival
@@ -12879,6 +12884,7 @@ benignancies
 benignant
 benignantly
 benignity
+benignly
 benison
 benisons
 benjamin
@@ -15836,6 +15842,7 @@ boilerplates
 boilers
 boilersuit
 boiling
+boilingly
 boiloffs
 boilover
 boilovers
@@ -17041,6 +17048,7 @@ brainstem
 brainstems
 brainstorm
 brainstormed
+brainstormer
 brainstormers
 brainstorming
 brainstormings
@@ -20071,6 +20079,7 @@ calyculi
 calyculus
 calypso
 calypsoes
+calypsonian
 calypsonians
 calypsos
 calypter
@@ -25648,6 +25657,7 @@ clang
 clanged
 clanger
 clangers
+clanging
 clangor
 clangored
 clangoring
@@ -29776,6 +29786,7 @@ consented
 consenter
 consenters
 consenting
+consentingly
 consents
 consequence
 consequences
@@ -34410,6 +34421,7 @@ curtailer
 curtailers
 curtailing
 curtailment
+curtailments
 curtails
 curtain
 curtained
@@ -50816,6 +50828,7 @@ exotic
 exotica
 exotically
 exoticism
+exoticisms
 exoticist
 exoticists
 exoticness
@@ -53489,6 +53502,7 @@ fiancees
 fiances
 fianchetto
 fianchettoed
+fianchettoing
 fianchettos
 fiars
 fiaschi
@@ -60616,6 +60630,7 @@ girl
 girlfriend
 girlfriends
 girlhood
+girlhoods
 girlie
 girlier
 girlies
@@ -63735,6 +63750,7 @@ gunrunning
 gunrunnings
 guns
 gunsel
+gunsels
 gunship
 gunships
 gunshot
@@ -76746,6 +76762,7 @@ jaspery
 jaspilite
 jaspilites
 jassid
+jassids
 jato
 jatos
 jauk
@@ -80605,6 +80622,7 @@ lathe
 lathed
 lathered
 latherer
+latherers
 lathering
 lathers
 lathery
@@ -85071,6 +85089,7 @@ maiden
 maidenhair
 maidenhairs
 maidenhead
+maidenheads
 maidenhood
 maidenhoods
 maidenliness
@@ -89072,6 +89091,7 @@ mightily
 mightiness
 mightinesses
 mights
+mighty
 mignon
 mignonette
 mignonettes
@@ -90565,6 +90585,7 @@ mispriced
 misprices
 mispricing
 misprint
+misprinted
 misprinting
 misprisions
 misprize
@@ -107129,6 +107150,7 @@ penuckles
 penult
 penultimate
 penultimately
+penults
 penumbra
 penumbrae
 penumbral
@@ -113343,6 +113365,7 @@ preadopt
 preadopted
 preadopting
 preadopts
+preadult
 preadults
 preaged
 preagricultural
@@ -113532,6 +113555,7 @@ precharged
 precharges
 precharging
 precheck
+prechecked
 prechecking
 prechecks
 prechill
@@ -117101,6 +117125,7 @@ psychosocial
 psychosocially
 psychosomatic
 psychosomatics
+psychosurgeon
 psychosurgeons
 psychosurgery
 psychosurgical
@@ -122772,6 +122797,7 @@ regathered
 regathering
 regathers
 regatta
+regattas
 regauge
 regauged
 regauges
@@ -124355,6 +124381,7 @@ repatriates
 repatriating
 repatriation
 repatriations
+repattern
 repatterned
 repatterning
 repatterns
@@ -125497,6 +125524,7 @@ respecting
 respective
 respectively
 respectiveness
+respects
 respell
 respelled
 respelling
@@ -130977,6 +131005,7 @@ schistosome
 schistosomes
 schistosomiases
 schistosomiasis
+schistous
 schists
 schizier
 schiziest
@@ -149916,6 +149945,7 @@ tertian
 tertians
 tertiaries
 tertiary
+tervalent
 terylene
 terylenes
 tesla
@@ -150262,6 +150292,7 @@ theatricalizing
 theatrically
 theatricals
 theatrics
+thebaine
 thebaines
 thebes
 theca
@@ -153765,6 +153796,7 @@ travelled
 traveller
 travellers
 travelling
+travelog
 travelogs
 travelogue
 travelogues
@@ -156348,6 +156380,7 @@ ultrapractical
 ultraprecise
 ultraprecision
 ultrapure
+ultraquiet
 ultraradical
 ultraradicals
 ultrarapid
@@ -162747,6 +162780,7 @@ vignetting
 vignettist
 vignettists
 vigor
+vigorish
 vigorishes
 vigorous
 vigorously
@@ -162898,6 +162932,7 @@ vinyl
 vinylic
 vinylidene
 vinylidenes
+vinyls
 viol
 viola
 violabilities
