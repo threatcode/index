@@ -8760,6 +8760,7 @@ attendant
 attendants
 attended
 attendee
+attendees
 attender
 attenders
 attending
@@ -12041,6 +12042,7 @@ bedcovers
 beddable
 bedded
 bedder
+bedders
 bedding
 beddings
 bedeafen
@@ -12993,6 +12995,7 @@ bereft
 beret
 berets
 beretta
+berettas
 bergamot
 bergamots
 bergere
@@ -14323,6 +14326,7 @@ bipolarizing
 bipropellant
 bipropellants
 bipyramid
+bipyramidal
 bipyramids
 biquadratic
 biquadratics
@@ -22809,6 +22813,7 @@ ceriphs
 cerise
 cerises
 cerite
+cerites
 cerium
 ceriums
 cermet
@@ -25766,6 +25771,7 @@ classmates
 classon
 classons
 classroom
+classrooms
 classwork
 classworks
 classy
@@ -26010,6 +26016,7 @@ clickless
 clicks
 clickwrap
 client
+clientage
 clientages
 cliental
 clientele
@@ -27287,6 +27294,7 @@ coheaded
 coheading
 coheads
 coheir
+coheiress
 coheiresses
 coheirs
 cohere
@@ -27295,6 +27303,7 @@ coherence
 coherences
 coherencies
 coherency
+coherent
 coherently
 coherer
 coherers
@@ -32135,6 +32144,7 @@ courtesies
 courtesy
 courtesying
 courtezan
+courtezans
 courthouse
 courthouses
 courtier
@@ -32541,6 +32551,7 @@ craggy
 crags
 cragsman
 cragsmen
+crake
 crambe
 crambo
 cramboes
@@ -32632,6 +32643,7 @@ crapes
 craping
 crapola
 crapolas
+crapped
 crapper
 crappers
 crappie
@@ -32984,6 +32996,7 @@ cresses
 cresset
 cressets
 cressy
+crest
 crestal
 crested
 crestfallen
@@ -33195,6 +33208,7 @@ criteriums
 critic
 critical
 criticalities
+criticality
 criticalness
 criticalnesses
 criticaster
@@ -34764,6 +34778,7 @@ cyclopaedia
 cyclopaedias
 cycloparaffin
 cycloparaffins
+cyclopean
 cyclopedia
 cyclopedias
 cyclopedic
@@ -37939,6 +37954,7 @@ denunciative
 denunciatory
 deny
 denying
+denyingly
 deodand
 deodar
 deodara
@@ -48207,6 +48223,7 @@ enzymatic
 enzymatically
 enzyme
 enzymes
+enzymic
 enzymologies
 enzymologist
 enzymologists
@@ -53048,6 +53065,7 @@ fenders
 fending
 fends
 fenestrae
+fenestral
 fenestrate
 fenestrated
 fenestrations
@@ -63899,6 +63917,7 @@ gypsums
 gypsy
 gypsydom
 gypsydoms
+gypsying
 gypsyish
 gypsyism
 gypsyisms
@@ -72980,6 +72999,7 @@ infirmary
 infirmed
 infirming
 infirmities
+infirmity
 infirmly
 infirms
 infix
@@ -76023,6 +76043,7 @@ isocarboxazid
 isocarboxazids
 isocheims
 isochime
+isochimes
 isochor
 isochore
 isochores
@@ -79631,6 +79652,7 @@ lacklusters
 lacks
 laconic
 laconically
+laconism
 laconisms
 lacquer
 lacquered
@@ -80869,6 +80891,7 @@ leaderships
 leadier
 leadiest
 leading
+leadings
 leadless
 leadman
 leadoff
@@ -90424,6 +90447,7 @@ misperceptions
 misphrase
 misphrased
 misphrases
+misphrasing
 mispickel
 mispickels
 misplace
@@ -94313,6 +94337,7 @@ natively
 nativeness
 nativenesses
 natives
+nativism
 nativisms
 nativist
 nativistic
@@ -106849,6 +106874,7 @@ penitentiary
 penitently
 penitents
 penknife
+penknives
 penlight
 penlite
 penlites
@@ -107523,6 +107549,7 @@ perjuries
 perjuring
 perjurious
 perjuriously
+perjury
 perk
 perked
 perkier
@@ -114587,6 +114614,7 @@ presignaling
 presignalled
 presignalling
 presignals
+presignified
 presignifies
 presignify
 presignifying
@@ -120296,6 +120324,7 @@ realism
 realisms
 realistic
 realistically
+realists
 realities
 reality
 realizable
@@ -120373,6 +120402,7 @@ reappear
 reappearance
 reappearances
 reappeared
+reappearing
 reappears
 reapplication
 reapplications
@@ -133999,6 +134029,7 @@ shatterers
 shattering
 shatteringly
 shatterproof
+shatters
 shaugh
 shaughs
 shaul
@@ -154563,6 +154594,7 @@ trolley
 trolleybus
 trolleybuses
 trolleybusses
+trolleyed
 trolleying
 trolleys
 trollied
@@ -158787,6 +158819,7 @@ unmanful
 unmanlier
 unmanliest
 unmanliness
+unmanlinesses
 unmanned
 unmannered
 unmanneredly
@@ -158933,6 +158966,7 @@ unnilquadium
 unnoisy
 unnoted
 unnoticeable
+unnoticed
 unnourishing
 unnuanced
 unnumbered
@@ -163919,6 +163953,7 @@ walks
 walkup
 walkups
 walkway
+walkways
 walkyries
 wall
 walla
