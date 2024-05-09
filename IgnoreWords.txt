@@ -76,6 +76,7 @@ abruptions
 abruptly
 abruptness
 abruptnesses
+abs
 abscess
 abscessed
 abscesses
@@ -1072,6 +1073,7 @@ actress
 actresses
 actressy
 acts
+actual
 actualities
 actuality
 actualization
@@ -2376,6 +2378,7 @@ agists
 agita
 agitable
 agitas
+agitate
 agitated
 agitatedly
 agitates
@@ -4166,6 +4169,7 @@ amnions
 amniote
 amniotes
 amniotic
+amobarbitals
 amoeba
 amoebae
 amoebaean
@@ -4946,6 +4950,7 @@ angling
 anglings
 anglo
 anglophone
+angora
 angostura
 angosturas
 angrier
@@ -7947,6 +7952,7 @@ ascites
 ascitic
 asclepiad
 asclepiads
+ascocarp
 ascocarpic
 ascocarps
 ascogonia
@@ -11111,6 +11117,7 @@ barkeeps
 barkentine
 barkentines
 barker
+barkers
 barkier
 barkiest
 barking
@@ -19303,6 +19310,7 @@ byelaw
 byelaws
 byes
 bygone
+bygones
 bylaw
 bylaws
 byline
@@ -21885,6 +21893,7 @@ cataloger
 catalogers
 catalogic
 cataloging
+catalogs
 catalogue
 catalogued
 cataloguer
@@ -36817,6 +36826,7 @@ deferent
 deferential
 deferentially
 deferents
+deferment
 deferments
 deferrable
 deferrables
@@ -37105,6 +37115,7 @@ degradation
 degradations
 degradative
 degrade
+degraded
 degradedly
 degrader
 degraders
@@ -47928,6 +47939,7 @@ entamebae
 entamebas
 entamoeba
 entamoebae
+entamoebas
 entangle
 entangled
 entanglement
@@ -49402,6 +49414,7 @@ estheticism
 estheticisms
 esthetics
 estimable
+estimableness
 estimablenesses
 estimably
 estimate
@@ -54834,6 +54847,7 @@ flavone
 flavones
 flavonoid
 flavonoids
+flavonol
 flavonols
 flavoprotein
 flavoproteins
@@ -58196,6 +58210,7 @@ funkiness
 funkinesses
 funking
 funks
+funned
 funnel
 funneled
 funnelform
@@ -87225,6 +87240,7 @@ medii
 medina
 medinas
 mediocre
+mediocrities
 mediocrity
 meditate
 meditated
@@ -90464,6 +90480,7 @@ mislikes
 misliking
 mislit
 mislive
+mislived
 mislives
 misliving
 mislocate
@@ -93031,6 +93048,7 @@ mullen
 mullens
 muller
 mullers
+mullet
 mullets
 mulley
 mulleys
@@ -98840,6 +98858,7 @@ oceanologies
 oceanologists
 oceanology
 oceans
+ocellar
 ocellate
 ocellated
 ocelli
@@ -102187,6 +102206,7 @@ outyielded
 outyielding
 outyields
 ouzel
+ouzels
 ouzo
 ouzos
 ova
@@ -109858,6 +109878,7 @@ ping
 pinged
 pinger
 pingers
+pinging
 pingo
 pingoes
 pingos
@@ -112301,6 +112322,7 @@ poorness
 poornesses
 poortith
 poortiths
+poos
 poove
 pooves
 pop
@@ -119380,6 +119402,7 @@ radioprotection
 radioprotective
 radios
 radiosensitive
+radiosonde
 radiosondes
 radiostrontium
 radiostrontiums
@@ -119450,6 +119473,7 @@ raga
 ragamuffin
 ragamuffins
 ragas
+ragbag
 ragbags
 rage
 raged
@@ -125105,6 +125129,7 @@ rescheduling
 reschool
 reschooled
 reschooling
+reschools
 rescind
 rescinded
 rescinder
@@ -126137,6 +126162,7 @@ retool
 retooled
 retooling
 retools
+retore
 retorn
 retorsion
 retorsions
@@ -130681,6 +130707,7 @@ scaled
 scaleless
 scalelike
 scalene
+scaleni
 scalepan
 scalepans
 scaler
@@ -132010,6 +132037,7 @@ scutch
 scutched
 scutcheon
 scutcheons
+scutcher
 scutchers
 scutches
 scutching
@@ -135746,6 +135774,7 @@ silicification
 silicifications
 silicified
 silicifies
+silicify
 silicifying
 silicious
 siliciums
@@ -136446,6 +136475,7 @@ skidders
 skiddier
 skiddiest
 skidding
+skiddoo
 skiddooed
 skiddooing
 skiddoos
@@ -144388,6 +144418,7 @@ submarines
 submarining
 submarkets
 submaxillaries
+submaxillary
 submaximal
 submediant
 submediants
@@ -150372,6 +150403,7 @@ thegnly
 thegns
 thein
 theine
+theines
 theins
 their
 theirs
@@ -154092,6 +154124,7 @@ trespass
 trespassed
 trespasser
 trespassers
+trespasses
 trespassing
 tress
 tressed
@@ -162503,6 +162536,7 @@ vest
 vesta
 vestal
 vestally
+vestals
 vestas
 vested
 vestee
@@ -167069,6 +167103,7 @@ wooed
 wooer
 wooers
 woof
+woofed
 woofer
 woofers
 woofing
