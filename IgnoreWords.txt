@@ -2612,6 +2612,7 @@ aimful
 aimfully
 aiming
 aimless
+aimlessly
 aimlessness
 aimlessnesses
 aims
@@ -5583,6 +5584,7 @@ antichoice
 antichoicer
 antichoicers
 anticholesterol
+anticholinergic
 antichurch
 anticigarette
 anticipant
@@ -17441,6 +17443,7 @@ breathlessly
 breathlessness
 breaths
 breathtaking
+breathtakingly
 breathy
 breccia
 breccial
@@ -24393,6 +24396,7 @@ chirrs
 chirrup
 chirruped
 chirruping
+chirrups
 chirrupy
 chiru
 chirurgeon
@@ -25891,6 +25895,7 @@ clause
 claustra
 claustral
 claustrophobe
+claustrophobes
 claustrophobia
 claustrophobias
 claustrophobic
@@ -26021,6 +26026,7 @@ clef
 clefs
 cleft
 clefted
+clefting
 clefts
 cleidoic
 cleistogamic
@@ -27340,6 +27346,7 @@ cogito
 cogitos
 cognac
 cognacs
+cognate
 cognately
 cognates
 cognation
@@ -27829,6 +27836,7 @@ colloquium
 colloquiums
 colloquy
 collotype
+collotypes
 collotypies
 collotypy
 collude
@@ -32134,6 +32142,7 @@ counterstriking
 counterstroke
 counterstrokes
 counterstruck
+counterstyle
 counterstyles
 countersue
 countersued
@@ -33061,6 +33070,7 @@ creolise
 creolised
 creolises
 creolising
+creolization
 creolizations
 creolize
 creolized
@@ -40809,6 +40819,7 @@ disambiguation
 disambiguations
 disannul
 disannulled
+disannulling
 disannuls
 disappear
 disappearance
@@ -46871,6 +46882,7 @@ emphases
 emphasis
 emphasise
 emphasised
+emphasises
 emphasising
 emphasize
 emphasized
@@ -61172,6 +61184,7 @@ glisters
 glitch
 glitches
 glitchier
+glitchiest
 glitchy
 glitter
 glitterati
@@ -62713,6 +62726,7 @@ gravimetrically
 gravimetries
 gravimetry
 graving
+gravitas
 gravitases
 gravitate
 gravitated
@@ -66169,6 +66183,7 @@ hegumenies
 hegumenos
 hegumenoses
 hegumens
+hegumeny
 heh
 hehs
 heifer
@@ -67137,6 +67152,7 @@ hibernators
 hibiscus
 hibiscuses
 hic
+hiccough
 hiccoughed
 hiccoughing
 hiccoughs
@@ -69607,6 +69623,7 @@ hydrologically
 hydrologist
 hydrologists
 hydrology
+hydrolysate
 hydrolysates
 hydrolyses
 hydrolysis
@@ -79685,6 +79702,7 @@ kultur
 kulturs
 kumiss
 kumisses
+kummel
 kummels
 kumquat
 kumquats
@@ -84202,6 +84220,7 @@ loyal
 loyaler
 loyalest
 loyalism
+loyalisms
 loyalist
 loyalists
 loyalties
@@ -87507,6 +87526,7 @@ megakaryocytes
 megakaryocytic
 megalithic
 megaliths
+megaloblast
 megaloblastic
 megaloblasts
 megalomania
@@ -102184,6 +102204,7 @@ outstridden
 outstride
 outstrides
 outstriding
+outstrip
 outstripping
 outstrips
 outstrive
@@ -103814,6 +103835,7 @@ overt
 overtake
 overtaken
 overtakes
+overtaking
 overtalk
 overtalkative
 overtalked
@@ -104362,6 +104384,7 @@ packsaddles
 packthread
 packthreads
 packwaxes
+paclitaxel
 paclitaxels
 pacs
 paction
@@ -107777,6 +107800,7 @@ peridium
 peridot
 peridotic
 peridotite
+peridotites
 peridotitic
 perigeal
 perigean
@@ -108907,6 +108931,7 @@ phonetically
 phonetician
 phoneticians
 phonetics
+phonetist
 phonetists
 phoney
 phoneyed
@@ -112187,6 +112212,7 @@ polyhedrosis
 polyhistor
 polyhistoric
 polyhistors
+polyhydroxy
 polyimide
 polyimides
 polylysine
@@ -112844,6 +112870,7 @@ positivity
 positron
 positronium
 positroniums
+positrons
 posits
 posole
 posologic
@@ -112866,6 +112893,7 @@ possessives
 possessor
 possessors
 possessory
+posset
 possets
 possibilities
 possibility
@@ -113367,6 +113395,7 @@ pourboire
 pourboires
 poured
 pourer
+pouring
 pouringly
 pourparler
 pourparlers
@@ -113921,6 +113950,7 @@ preclusion
 preclusions
 preclusive
 preclusively
+precocial
 precocious
 precociously
 precocities
@@ -133969,6 +133999,7 @@ sestertium
 sestet
 sestets
 sestinas
+sestine
 sestines
 set
 seta
@@ -140255,6 +140286,7 @@ speedups
 speedway
 speedways
 speedwell
+speedwells
 speedy
 speel
 speeled
@@ -153114,6 +153146,7 @@ totalism
 totalisms
 totalist
 totalistic
+totalists
 totalitarian
 totalitarianism
 totalitarianize
@@ -156854,6 +156887,7 @@ umbellet
 umbellets
 umbellifer
 umbelliferous
+umbellifers
 umbellules
 umbels
 umber
@@ -164683,6 +164717,7 @@ wanton
 wantoned
 wantoner
 wantoners
+wantoning
 wantonly
 wantonness
 wantonnesses
