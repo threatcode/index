@@ -101,6 +101,7 @@ abseil
 abseiled
 abseiling
 abseils
+absences
 absent
 absented
 absentee
@@ -10176,6 +10177,7 @@ backslides
 backsliding
 backspace
 backspaced
+backspaces
 backspacing
 backspin
 backspins
@@ -14906,6 +14908,7 @@ blatancies
 blatancy
 blatant
 blate
+blather
 blathered
 blatherer
 blatherers
@@ -15321,6 +15324,7 @@ blousy
 bloviate
 bloviated
 bloviates
+bloviating
 bloviation
 bloviations
 blow
@@ -21847,6 +21851,7 @@ catachreses
 catachresis
 catachrestic
 catachrestical
+cataclysm
 cataclysmal
 cataclysmic
 cataclysmically
@@ -29147,6 +29152,7 @@ conditionally
 conditioned
 conditioner
 conditioners
+conditioning
 conditions
 condo
 condoes
@@ -40270,6 +40276,7 @@ dimpled
 dimples
 dimplier
 dimpliest
+dimpling
 dimply
 dims
 dimwit
@@ -43580,6 +43587,7 @@ drags
 dragsters
 dragstrip
 dragstrips
+drail
 drails
 drain
 drainable
@@ -50513,6 +50521,7 @@ executable
 executant
 executants
 execute
+executed
 executer
 executers
 executes
@@ -56210,6 +56219,7 @@ forebode
 foreboded
 foreboder
 foreboders
+forebodes
 forebodies
 foreboding
 forebodingly
@@ -62432,6 +62442,7 @@ graplins
 grapnel
 grapnels
 grappa
+grapple
 grappled
 grappler
 grapplers
@@ -67410,6 +67421,7 @@ hitchhiker
 hitchhikers
 hitchhikes
 hitchhiking
+hitching
 hither
 hithermost
 hitherto
@@ -77658,6 +77670,7 @@ juleps
 julienne
 julienned
 juliennes
+julienning
 jumbal
 jumbals
 jumble
@@ -82572,6 +82585,7 @@ linkers
 linking
 linkman
 linkmen
+links
 linksland
 linkslands
 linksman
@@ -86611,6 +86625,7 @@ material
 materialise
 materialised
 materialises
+materialising
 materialism
 materialisms
 materialist
@@ -88390,6 +88405,7 @@ methodizing
 methodological
 methodologies
 methodologist
+methodologists
 methods
 methotrexate
 methotrexates
@@ -101266,6 +101282,7 @@ outgivings
 outglare
 outglared
 outglares
+outglaring
 outgleam
 outgleamed
 outgleaming
@@ -102248,6 +102265,7 @@ overarm
 overarmed
 overarming
 overarms
+overarousal
 overarousals
 overarrange
 overarranged
@@ -102684,6 +102702,7 @@ overexert
 overexerted
 overexerting
 overexertion
+overexerts
 overexpand
 overexpanded
 overexpanding
@@ -106892,6 +106911,7 @@ penalizes
 penalizing
 penally
 penalties
+penalty
 penance
 penanced
 penances
@@ -110927,6 +110947,7 @@ pleiotropic
 pleiotropies
 pleiotropy
 plenaries
+plenarily
 plenary
 plench
 plenches
@@ -121471,6 +121492,7 @@ recooking
 recooks
 recopied
 recopies
+recopy
 recopying
 record
 recordable
@@ -123270,6 +123292,7 @@ reinjury
 reink
 reinked
 reinking
+reinks
 reinless
 reinnervate
 reinnervated
@@ -128037,6 +128060,7 @@ rootiness
 rootinesses
 rooting
 rootle
+rootled
 rootles
 rootless
 rootlessness
@@ -139822,6 +139846,7 @@ specters
 spectinomycin
 spectinomycins
 spectra
+spectral
 spectrally
 spectre
 spectres
@@ -139869,6 +139894,7 @@ speechified
 speechifies
 speechify
 speechifying
+speechlessly
 speechlessness
 speechwriter
 speechwriters
@@ -140520,6 +140546,7 @@ splurger
 splurgers
 splurges
 splurgier
+splurgiest
 splurging
 splurgy
 splutter
@@ -141323,6 +141350,7 @@ stabling
 stablings
 stablish
 stablished
+stablishes
 stablishing
 stablishment
 stablishments
@@ -141839,6 +141867,7 @@ statues
 statuesque
 statuesquely
 statuette
+statuettes
 stature
 statures
 status
@@ -146226,6 +146255,7 @@ supremeness
 supremenesses
 supremer
 supremes
+supremest
 supremos
 suq
 suqs
@@ -150610,6 +150640,7 @@ thiazide
 thiazides
 thiazin
 thiazine
+thiazines
 thiazins
 thiazol
 thiazole
@@ -153780,6 +153811,7 @@ traumatisms
 traumatization
 traumatizations
 traumatize
+traumatized
 traumatizes
 traumatizing
 travail
@@ -155763,6 +155795,7 @@ tutu
 tutued
 tutus
 tux
+tuxedo
 tuxedoed
 tuxedoes
 tuxedos
@@ -158497,6 +158530,7 @@ unhinges
 unhinging
 unhip
 unhirable
+unhired
 unhistorical
 unhitch
 unhitched
@@ -161096,6 +161130,7 @@ utopism
 utopisms
 utopist
 utopistic
+utopists
 utricles
 utricular
 utriculi
