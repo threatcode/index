@@ -13213,6 +13213,7 @@ beslime
 beslimed
 beslimes
 besliming
+besmear
 besmeared
 besmearer
 besmearers
@@ -21789,6 +21790,7 @@ casemate
 casemated
 casement
 casements
+caseoses
 caseous
 casern
 caserne
@@ -22672,6 +22674,7 @@ cementing
 cementite
 cementites
 cements
+cementums
 cemeteries
 cemetery
 cenacle
@@ -29448,6 +29451,7 @@ conferval
 confervas
 confess
 confessable
+confessed
 confessedly
 confesses
 confessing
@@ -33424,6 +33428,7 @@ criteria
 criterial
 criterion
 criterions
+criterium
 criteriums
 critic
 critical
@@ -35682,6 +35687,7 @@ darkened
 darkener
 darkeners
 darkening
+darkens
 darker
 darkest
 darkey
@@ -38012,6 +38018,7 @@ denaturants
 denaturation
 denaturations
 denature
+denatured
 denatures
 denaturing
 denazification
@@ -40040,6 +40047,7 @@ dicumarol
 dicumarols
 dicyclic
 dicyclies
+dicycly
 dicynodonts
 did
 didact
@@ -43010,6 +43018,7 @@ dolomitize
 dolomitized
 dolomitizes
 dolomitizing
+dolor
 doloroso
 dolorous
 dolorously
@@ -45994,6 +46003,7 @@ eigenmode
 eigenmodes
 eigenvalue
 eigenvalues
+eigenvector
 eigenvectors
 eight
 eightball
@@ -46756,6 +46766,7 @@ embraceries
 embracers
 embracery
 embracing
+embracingly
 embracive
 embrangle
 embrangled
@@ -47201,6 +47212,7 @@ encaged
 encages
 encaging
 encamp
+encamped
 encamping
 encampment
 encampments
@@ -56557,6 +56569,7 @@ foredecks
 foredid
 foredo
 foredoes
+foredoing
 foredone
 foredoom
 foredoomed
@@ -61086,6 +61099,7 @@ gladly
 gladness
 gladnesses
 gladsomely
+gladsomeness
 gladsomenesses
 gladsomer
 gladsomest
@@ -70822,6 +70836,7 @@ idlers
 idles
 idlesse
 idlesses
+idlest
 idling
 idly
 idocrases
@@ -78713,6 +78728,7 @@ kelpie
 kelpies
 kelping
 kelps
+kelpy
 kelson
 kelsons
 kelt
@@ -86771,6 +86787,7 @@ marten
 martens
 martensite
 martensites
+martensitic
 martensitically
 martial
 martially
@@ -97439,6 +97456,7 @@ nonlanguage
 nonlanguages
 nonlawyer
 nonlawyers
+nonleaded
 nonleafy
 nonleague
 nonlegal
@@ -107911,9 +107929,11 @@ percents
 percept
 perceptibility
 perceptibly
+perception
 perceptional
 perceptions
 perceptive
+perceptively
 perceptiveness
 perceptivities
 perceptivity
@@ -110647,6 +110667,7 @@ pipiest
 pipiness
 pipinesses
 pipingly
+pipings
 pipistrel
 pipistrels
 pipit
@@ -111344,6 +111365,7 @@ platitudinizing
 platitudinous
 platitudinously
 platonic
+platonically
 platonism
 platonisms
 platoon
@@ -120548,6 +120570,7 @@ rapper
 rapping
 rappini
 rapport
+rapporteur
 rapporteurs
 rapports
 rapprochement
@@ -122310,6 +122333,7 @@ recultivate
 recultivated
 recultivates
 recultivating
+recumbencies
 recumbency
 recumbent
 recuperate
@@ -123762,6 +123786,7 @@ rehearings
 rehears
 rehearsal
 rehearsals
+rehearse
 rehearsed
 rehearser
 rehearsers
@@ -125116,6 +125141,7 @@ repeatabilities
 repeatability
 repeatable
 repeated
+repeatedly
 repeater
 repeaters
 repeating
@@ -127369,6 +127395,7 @@ revotes
 revoting
 revs
 revue
+revues
 revuist
 revuists
 revulsed
@@ -132199,6 +132226,7 @@ scoters
 scotia
 scotias
 scotoma
+scotomas
 scotomata
 scotophil
 scotopia
@@ -133543,6 +133571,7 @@ semiaridities
 semiaridity
 semiautomatic
 semiautonomous
+semibald
 semibreve
 semibreves
 semicentennial
@@ -140072,6 +140101,7 @@ sourceless
 sources
 sourcing
 sourdine
+sourdines
 sourdough
 sourdoughs
 soured
@@ -144632,6 +144662,7 @@ stymieing
 stymies
 stymy
 stymying
+stypsis
 stypsises
 styptic
 styptical
@@ -146135,6 +146166,7 @@ summate
 summated
 summates
 summating
+summation
 summational
 summations
 summative
@@ -150799,6 +150831,7 @@ tessellations
 tessera
 tesseract
 tesseracts
+tesserae
 tessitura
 tessituras
 tessiture
@@ -161586,6 +161619,7 @@ upstate
 upstater
 upstaters
 upstates
+upstep
 upstepped
 upstepping
 upsteps
@@ -168757,6 +168791,7 @@ yasmak
 yasmaks
 yatagan
 yatagans
+yataghan
 yataghans
 yatter
 yattered
