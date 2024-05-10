@@ -8319,6 +8319,7 @@ assistant
 assistants
 assistantship
 assistantships
+assisted
 assisters
 assisting
 assistive
@@ -20036,6 +20037,7 @@ callee
 callees
 caller
 callers
+callet
 calligrapher
 calligraphers
 calligraphic
@@ -20084,6 +20086,7 @@ calmatives
 calmed
 calmer
 calmest
+calming
 calmingly
 calmly
 calmness
@@ -25512,6 +25515,7 @@ cirripede
 cirripedes
 cirripeds
 cirrocumuli
+cirrocumulus
 cirrose
 cirrostrati
 cirrous
@@ -37233,6 +37237,7 @@ degases
 degassed
 degasser
 degassers
+degasses
 degassing
 degauss
 degaussed
@@ -39437,6 +39442,7 @@ devotionals
 devotions
 devour
 devoured
+devourer
 devourers
 devouring
 devours
@@ -43493,6 +43499,7 @@ dovekeys
 dovekie
 dovekies
 dovelike
+doven
 dovened
 dovening
 dovens
@@ -45998,6 +46005,7 @@ either
 ejaculate
 ejaculated
 ejaculates
+ejaculating
 ejaculation
 ejaculations
 ejaculator
@@ -46881,6 +46889,7 @@ emissions
 emissive
 emissivities
 emissivity
+emits
 emittance
 emittances
 emitted
@@ -59472,6 +59481,7 @@ garnishments
 garniture
 garnitures
 garote
+garoted
 garotes
 garotte
 garotted
@@ -60487,6 +60497,7 @@ gestapo
 gestate
 gestated
 gestates
+gestation
 gestational
 gestations
 gestative
@@ -61230,6 +61241,7 @@ glegnesses
 gleization
 glen
 glengarries
+glengarry
 glenlike
 glenoid
 glens
@@ -65412,6 +65424,7 @@ hareems
 harelike
 harelips
 harem
+harems
 hares
 hariana
 harianas
@@ -66702,6 +66715,7 @@ hemophilias
 hemophilic
 hemophilics
 hemopoieses
+hemopoiesis
 hemoprotein
 hemoproteins
 hemoptyses
@@ -66823,6 +66837,7 @@ hepatomata
 hepatomegalies
 hepatomegaly
 hepatopancreas
+hepcat
 hepcats
 hepper
 heppest
@@ -69258,6 +69273,7 @@ hulkier
 hulking
 hulks
 hulky
+hull
 hullabaloo
 hullabaloos
 hulled
@@ -75141,6 +75157,7 @@ internees
 internes
 interneuron
 interneuronal
+interneurons
 internists
 internment
 internments
@@ -75505,6 +75522,7 @@ intombed
 intombs
 intonate
 intonated
+intonates
 intonating
 intonation
 intonations
@@ -83665,6 +83683,7 @@ locksmiths
 lockstep
 locksteps
 lockstitch
+lockstitched
 lockstitches
 lockstitching
 lockup
@@ -90929,6 +90948,7 @@ misordering
 misorders
 misorient
 misorientation
+misorientations
 misorienting
 misorients
 misos
@@ -91351,6 +91371,7 @@ misusers
 misuses
 misusing
 misutilization
+misutilizations
 misvalued
 misvalues
 misvaluing
@@ -91493,6 +91514,7 @@ mobbish
 mobbishly
 mobbism
 mobbisms
+mobcap
 mobcaps
 mobile
 mobiles
@@ -98655,6 +98677,7 @@ nutgrass
 nutgrasses
 nuthatch
 nuthatches
+nuthouse
 nuthouses
 nutlet
 nutlets
@@ -99090,6 +99113,7 @@ obstetrically
 obstetrician
 obstetricians
 obstinacies
+obstinacy
 obstinate
 obstinately
 obstinateness
@@ -99370,6 +99394,7 @@ octosyllables
 octothorp
 octothorps
 octroi
+octuple
 octupled
 octuples
 octuplet
@@ -105850,6 +105875,7 @@ parboils
 parbuckled
 parbuckles
 parbuckling
+parcel
 parceled
 parceling
 parcelled
@@ -114217,6 +114243,7 @@ precommitments
 precompute
 precomputed
 precomputer
+precomputes
 precomputing
 preconceived
 preconceives
@@ -134597,6 +134624,7 @@ shaken
 shakeout
 shaker
 shakers
+shakes
 shakeup
 shakeups
 shakier
@@ -134984,6 +135012,7 @@ sheeting
 sheetings
 sheetless
 sheetlike
+sheetrock
 sheetrocked
 sheetrocking
 sheetrocks
@@ -137112,6 +137141,7 @@ skimming
 skimmings
 skimo
 skimobile
+skimobiled
 skimobiles
 skimos
 skimp
@@ -138945,6 +138975,7 @@ soberer
 soberest
 sobering
 soberize
+soberized
 soberizes
 soberizing
 soberly
@@ -141845,6 +141876,7 @@ squealer
 squealers
 squealing
 squeals
+squeamish
 squeamishnesses
 squeegee
 squeegeed
@@ -157754,6 +157786,7 @@ uncap
 uncapable
 uncapitalized
 uncapped
+uncapping
 uncaps
 uncaptioned
 uncapturable
@@ -159419,6 +159452,7 @@ uninsureds
 unintegrated
 unintellectual
 unintelligent
+unintelligently
 unintelligible
 unintelligibly
 unintended
@@ -162965,6 +162999,7 @@ verbose
 verbosely
 verboseness
 verbosenesses
+verbosities
 verbosity
 verboten
 verbs
