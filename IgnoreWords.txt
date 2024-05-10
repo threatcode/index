@@ -7321,6 +7321,7 @@ arctically
 arctics
 arcuate
 arcuated
+arcuately
 arcuation
 arcuations
 arcus
@@ -11740,6 +11741,7 @@ bayberries
 bayberry
 bayed
 baying
+bayman
 baymen
 bayonet
 bayoneted
@@ -19119,6 +19121,7 @@ bushveld
 bushvelds
 bushwa
 bushwah
+bushwahs
 bushwas
 bushwhack
 bushwhacked
@@ -25840,6 +25843,7 @@ claros
 clary
 clash
 clashed
+clasher
 clashers
 clashes
 clashing
@@ -49663,6 +49667,7 @@ esuriency
 esurient
 esuriently
 et
+eta
 etagere
 etageres
 etalon
@@ -49974,6 +49979,7 @@ eulogiae
 eulogias
 eulogies
 eulogise
+eulogised
 eulogises
 eulogising
 eulogist
@@ -56127,6 +56133,7 @@ follow
 followed
 follower
 followers
+followership
 followerships
 followings
 follows
@@ -56245,6 +56252,7 @@ footgear
 footgears
 foothills
 foothold
+footholds
 footie
 footier
 footies
@@ -58858,6 +58866,7 @@ gaited
 gaiter
 gaiters
 gaiting
+gaits
 gal
 gala
 galabia
@@ -60154,6 +60163,7 @@ gentlemanliness
 gentlemen
 gentleness
 gentlenesses
+gentleperson
 gentlepersons
 gentler
 gentles
@@ -64740,6 +64750,7 @@ hall
 hallah
 hallahs
 hallal
+hallel
 hallels
 hallelujah
 hallelujahs
@@ -65171,6 +65182,7 @@ hants
 hanuman
 hanumans
 hao
+haoles
 hap
 hapaxes
 haphazard
@@ -71787,6 +71799,7 @@ impound
 impounded
 impounder
 impounders
+impounding
 impoundment
 impoundments
 impounds
@@ -78657,6 +78670,7 @@ keratomas
 keratomata
 keratoplasties
 keratoplasty
+keratose
 keratoses
 keratosis
 keratotic
@@ -80173,6 +80187,7 @@ ladyships
 laetrile
 laetriles
 laevo
+lag
 lagan
 lagans
 lagend
@@ -82301,6 +82316,7 @@ licensable
 licensed
 licensee
 licensees
+licenser
 licensers
 licenses
 licensing
@@ -85289,6 +85305,7 @@ maglev
 maglevs
 magmas
 magmata
+magmatic
 magnanimities
 magnanimity
 magnanimous
@@ -86553,6 +86570,7 @@ marqueterie
 marqueteries
 marquetries
 marquetry
+marquis
 marquisates
 marquise
 marquises
@@ -87521,6 +87539,7 @@ medick
 medicks
 medico
 medicolegal
+medicos
 medics
 medieval
 medievalism
@@ -88013,6 +88032,7 @@ menials
 meningeal
 meninges
 meningioma
+meningiomas
 meningiomata
 meningitic
 meningitides
@@ -91977,6 +91997,7 @@ monocarboxylic
 monocarp
 monocarpic
 monocarps
+monochasia
 monochasial
 monochasium
 monochord
@@ -94085,6 +94106,7 @@ muzjik
 muzjiks
 muzzier
 muzziest
+muzzily
 muzziness
 muzzinesses
 muzzle
@@ -99966,6 +99988,7 @@ ontically
 onto
 ontogeneses
 ontogenesis
+ontogenetic
 ontogenetically
 ontogenic
 ontogenies
@@ -107309,6 +107332,7 @@ penalising
 penalities
 penality
 penalizations
+penalize
 penalized
 penalizes
 penalizing
@@ -111287,6 +111311,7 @@ pleadingly
 pleadings
 pleads
 pleas
+pleasance
 pleasances
 pleasant
 pleasanter
@@ -123697,6 +123722,7 @@ reindexes
 reindexing
 reindict
 reindicted
+reindictment
 reindictments
 reindicts
 reinduce
@@ -128085,6 +128111,7 @@ riverbeds
 riverboat
 riverboats
 riverfront
+riverfronts
 riverhead
 riverheads
 riverine
@@ -128439,6 +128466,7 @@ romantics
 romaunt
 romaunts
 romeldale
+romeldales
 romeo
 romeos
 romp
@@ -134561,6 +134589,7 @@ shamisens
 shammas
 shammash
 shammashim
+shammasim
 shammed
 shammer
 shammers
@@ -138034,6 +138063,7 @@ smeared
 smearer
 smearers
 smeariest
+smearing
 smears
 smeary
 smectic
@@ -139441,6 +139471,7 @@ sonant
 sonantal
 sonantic
 sonants
+sonar
 sonarman
 sonarmen
 sonars
@@ -156866,6 +156897,7 @@ uke
 ukelele
 ukeleles
 ukes
+ukulele
 ukuleles
 ulama
 ulan
@@ -162609,6 +162641,7 @@ venders
 vendetta
 vendettas
 vendeuses
+vendibilities
 vendibility
 vendible
 vendibles
@@ -167348,6 +167381,7 @@ witloofs
 witness
 witnesser
 witnessers
+witnessing
 witney
 witneys
 wits
@@ -169252,6 +169286,7 @@ zoisites
 zombie
 zombielike
 zombification
+zombifications
 zombified
 zombifies
 zombify
