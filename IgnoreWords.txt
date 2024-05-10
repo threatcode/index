@@ -743,6 +743,7 @@ achiral
 achlorhydria
 achlorhydrias
 achlorhydric
+acholia
 acholias
 achondrite
 achondrites
@@ -2019,9 +2020,11 @@ affinely
 affines
 affinities
 affinity
+affirm
 affirmable
 affirmance
 affirmances
+affirmant
 affirmants
 affirmation
 affirmations
@@ -3684,6 +3687,7 @@ alternant
 alternants
 alternate
 alternated
+alternating
 alternations
 alternative
 alternatively
@@ -8930,6 +8934,7 @@ attritive
 attrits
 attritted
 attritting
+attune
 attuned
 attunement
 attunements
@@ -12114,6 +12119,7 @@ bedbug
 bedbugs
 bedchair
 bedchairs
+bedchamber
 bedchambers
 bedclothes
 bedcover
@@ -23402,6 +23408,7 @@ chao
 chaos
 chaoses
 chaotic
+chaotically
 chap
 chaparajos
 chaparejos
@@ -26883,6 +26890,7 @@ cobia
 cobias
 coble
 cobles
+cobnut
 cobnuts
 cobra
 cobras
@@ -33611,6 +33619,7 @@ crosser
 crossers
 crosses
 crossest
+crossfire
 crossfires
 crosshair
 crosshairs
@@ -44168,6 +44177,7 @@ driveshaft
 driveshafts
 drivetrains
 driveway
+driveways
 driving
 drivings
 drizzle
@@ -44458,6 +44468,7 @@ dubbed
 dubber
 dubbers
 dubbin
+dubbing
 dubbins
 dubieties
 dubiety
@@ -46697,6 +46708,7 @@ emblemized
 emblemizes
 emblemizing
 emblems
+embodied
 embodiers
 embodies
 embodiment
@@ -46787,6 +46799,7 @@ embrocated
 embrocates
 embrocating
 embrocation
+embrocations
 embroglio
 embroglios
 embroider
@@ -47702,6 +47715,7 @@ enervates
 enervating
 enervation
 enervator
+enervators
 enface
 enfaced
 enfaces
@@ -52479,6 +52493,7 @@ fane
 fanega
 fanegada
 fanegadas
+fanegas
 fanes
 fanfare
 fanfares
@@ -57368,6 +57383,7 @@ fragrancies
 fragrancy
 fragrant
 fragrantly
+frags
 frail
 frailer
 frailest
@@ -60401,6 +60417,7 @@ geophysicists
 geophysics
 geophyte
 geophytes
+geophytic
 geopolitical
 geopolitically
 geopolitician
@@ -66276,6 +66293,7 @@ heckles
 heckling
 hecks
 hectare
+hectares
 hectic
 hectical
 hectically
@@ -70342,6 +70360,7 @@ hyphened
 hyphenic
 hyphening
 hyphenless
+hyphens
 hypnagogic
 hypnic
 hypnogogic
@@ -84939,6 +84958,7 @@ lweis
 lyard
 lyart
 lyase
+lyases
 lycanthropies
 lycanthropy
 lycea
@@ -88164,6 +88184,7 @@ menfolks
 menhaden
 menhadens
 menhir
+menhirs
 menial
 menially
 menials
@@ -88278,6 +88299,7 @@ meperidine
 meperidines
 mephitic
 mephitis
+mephitises
 meprobamate
 meprobamates
 merc
@@ -90150,6 +90172,7 @@ minnesinger
 minnesingers
 minnies
 minnow
+minnows
 minny
 minor
 minorca
@@ -94073,6 +94096,7 @@ musics
 musing
 musingly
 musings
+musjid
 musjids
 musk
 muskegs
@@ -114789,6 +114813,7 @@ preimposing
 preinduction
 preindustrial
 preinform
+preinformed
 preinforming
 preinforms
 preinsert
@@ -116871,6 +116896,7 @@ prophethoods
 prophetic
 prophetical
 prophetically
+prophets
 prophylactic
 prophylactics
 prophylaxes
@@ -118652,6 +118678,7 @@ putrefier
 putrefiers
 putrefy
 putrefying
+putrescence
 putrescences
 putrescent
 putrescible
@@ -125921,6 +125948,7 @@ resentfully
 resentfulness
 resentfulnesses
 resenting
+resentive
 resentment
 resentments
 resents
@@ -127505,6 +127533,7 @@ rezone
 rezoned
 rezoning
 rhabdocoele
+rhabdocoeles
 rhabdom
 rhabdomal
 rhabdomancer
@@ -129441,6 +129470,7 @@ rugous
 rugs
 ruin
 ruinable
+ruinate
 ruinated
 ruinates
 ruinating
@@ -132973,6 +133003,7 @@ seborrheic
 sebum
 sebums
 sec
+secalose
 secaloses
 secant
 secantly
@@ -138104,6 +138135,7 @@ slugfests
 sluggard
 sluggardly
 sluggardness
+sluggardnesses
 slugged
 slugger
 sluggers
@@ -138365,6 +138397,7 @@ smirky
 smit
 smite
 smiter
+smiters
 smites
 smith
 smithereens
@@ -157618,6 +157651,7 @@ unassailed
 unassayed
 unassertive
 unassertively
+unassigned
 unassimilable
 unassimilated
 unassisted
@@ -167857,6 +167891,7 @@ wonted
 wontedly
 wontedness
 wontednesses
+wonting
 wonton
 wontons
 wonts
