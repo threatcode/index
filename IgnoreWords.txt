@@ -173,6 +173,7 @@ absorptivities
 absorptivity
 abstain
 abstained
+abstainer
 abstainers
 abstaining
 abstains
@@ -1719,6 +1720,7 @@ adverts
 advice
 advices
 advisabilities
+advisability
 advisable
 advisablenesses
 advisably
@@ -5564,6 +5566,7 @@ antiboycott
 antibug
 antiburglary
 antibuser
+antibusers
 antibusiness
 antibusing
 antic
@@ -9382,6 +9385,7 @@ autophagy
 autophyte
 autophytes
 autopilots
+autopolyploid
 autopolyploids
 autopolyploidy
 autopsic
@@ -11172,6 +11176,7 @@ barneys
 barnier
 barniest
 barning
+barnlike
 barns
 barnstorm
 barnstormed
@@ -25539,6 +25544,7 @@ citrals
 citrate
 citrated
 citrates
+citreous
 citric
 citriculture
 citricultures
@@ -31565,6 +31571,7 @@ corvets
 corvette
 corvettes
 corvina
+corvinas
 corvine
 cory
 corybant
@@ -33521,6 +33528,7 @@ crosshatch
 crosshatched
 crosshatches
 crosshatching
+crosshead
 crossheads
 crossing
 crossings
@@ -40560,6 +40568,7 @@ diphthongal
 diphthonged
 diphthonging
 diphthongize
+diphthongized
 diphthongizes
 diphthongizing
 diphthongs
@@ -46188,6 +46197,7 @@ elegises
 elegising
 elegist
 elegists
+elegit
 elegits
 elegize
 elegizes
@@ -57590,6 +57600,7 @@ fricandeau
 fricandeaus
 fricando
 fricandoes
+fricassee
 fricasseed
 fricasseeing
 fricassees
@@ -58809,6 +58820,7 @@ galago
 galagos
 galah
 galahs
+galangal
 galangals
 galangas
 galantine
@@ -62387,6 +62399,7 @@ gramophones
 grampa
 grampas
 gramps
+grampus
 grampuses
 grams
 gran
@@ -65817,6 +65830,7 @@ headquartering
 headquarters
 headrace
 headraces
+headrest
 headrests
 headroom
 headrooms
@@ -67260,6 +67274,7 @@ highbrowisms
 highbrows
 highbush
 highchair
+highchairs
 higher
 highest
 highfalutin
@@ -71611,6 +71626,7 @@ implosives
 imply
 implying
 impolicies
+impolicy
 impolitely
 impoliteness
 impolitenesses
@@ -73670,6 +73686,7 @@ initialnesses
 initials
 initiate
 initiated
+initiates
 initiating
 initiation
 initiations
@@ -75371,6 +75388,7 @@ intoxicant
 intoxicants
 intoxicate
 intoxicated
+intoxicatedly
 intoxicates
 intoxicating
 intoxication
@@ -86536,6 +86554,7 @@ martinets
 marting
 martingal
 martingale
+martingales
 martingals
 martini
 martinis
@@ -96190,6 +96209,7 @@ nobble
 nobbled
 nobbler
 nobblers
+nobbles
 nobbling
 nobby
 nobelium
@@ -98161,6 +98181,7 @@ nth
 nu
 nuance
 nuanced
+nuances
 nub
 nubbier
 nubbiest
@@ -100098,6 +100119,7 @@ opiumism
 opiumisms
 opiums
 opossum
+oppidan
 oppidans
 oppilant
 oppilate
@@ -101909,6 +101931,7 @@ outraging
 outraise
 outraised
 outraises
+outraising
 outran
 outrance
 outrances
@@ -114217,6 +114240,7 @@ preening
 preenrollment
 preens
 preerect
+preerected
 preerecting
 preerects
 prees
@@ -116452,6 +116476,7 @@ propellants
 propelled
 propellent
 propellents
+propeller
 propellers
 propelling
 propellor
@@ -123799,6 +123824,7 @@ rejuvenate
 rejuvenated
 rejuvenates
 rejuvenating
+rejuvenation
 rejuvenations
 rejuvenator
 rejuvenators
@@ -127524,6 +127550,7 @@ riesling
 rieslings
 riever
 rievers
+rif
 rifampicins
 rifampin
 rifampins
@@ -129594,6 +129621,7 @@ saffron
 saffrons
 safranin
 safranine
+safranines
 safranins
 safrol
 safrole
@@ -133279,6 +133307,7 @@ semiologies
 semiologist
 semiologists
 semiology
+semiopaque
 semiopen
 semioses
 semiosis
@@ -134978,6 +135007,7 @@ shipbuilder
 shipbuilders
 shipbuilding
 shipbuildings
+shipfitter
 shipfitters
 shiplap
 shiplaps
@@ -143162,6 +143192,7 @@ stonechats
 stonecrop
 stonecrops
 stonecutter
+stonecutters
 stonecutting
 stonecuttings
 stoned
@@ -145802,6 +145833,7 @@ sunburned
 sunburning
 sunburns
 sunburnt
+sunburst
 sunbursts
 sunchoke
 sunchokes
@@ -157981,6 +158013,7 @@ undercoat
 undercoated
 undercoating
 undercoatings
+undercoats
 undercook
 undercooked
 undercooking
@@ -165966,6 +165999,7 @@ whens
 whensoever
 where
 whereabout
+whereabouts
 whereas
 whereases
 whereat
@@ -166829,6 +166863,7 @@ wingding
 wingdings
 winged
 wingedly
+winger
 wingers
 wingier
 wingless
