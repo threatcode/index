@@ -3886,6 +3886,7 @@ ambiances
 ambidexterities
 ambidexterity
 ambidextrous
+ambidextrously
 ambience
 ambiences
 ambient
@@ -19750,6 +19751,7 @@ caffeines
 caffeinic
 caffeins
 caffs
+caftan
 caftaned
 caftans
 cage
@@ -21688,6 +21690,7 @@ cartload
 cartloads
 cartogram
 cartograms
+cartographer
 cartographers
 cartographic
 cartographical
@@ -24572,6 +24575,7 @@ chlorinated
 chlorinates
 chlorinating
 chlorination
+chlorinations
 chlorinator
 chlorinators
 chlorine
@@ -25014,6 +25018,7 @@ chronologically
 chronologies
 chronologist
 chronologists
+chronology
 chronometer
 chronometers
 chronometric
@@ -25993,6 +25998,7 @@ clavicle
 clavicorn
 clavicular
 clavier
+clavierist
 clavieristic
 clavierists
 claviers
@@ -33507,6 +33513,7 @@ crockpots
 crocks
 crocodile
 crocodiles
+crocodilian
 crocodilians
 crocoite
 crocoites
@@ -36106,6 +36113,7 @@ dearest
 dearie
 dearies
 dearly
+dearness
 dears
 dearth
 dearths
@@ -44629,6 +44637,7 @@ dulcimore
 dulcimores
 dulcinea
 dulcineas
+dulia
 dulias
 dull
 dullard
@@ -45915,6 +45924,7 @@ egalite
 egalites
 eger
 egers
+egest
 egesta
 egested
 egesting
@@ -47714,6 +47724,7 @@ enervated
 enervates
 enervating
 enervation
+enervations
 enervator
 enervators
 enface
@@ -51888,6 +51899,7 @@ exuvial
 exuviate
 exuviated
 exuviates
+exuviating
 exuviation
 exuviations
 exuvium
@@ -55862,6 +55874,7 @@ fluorinate
 fluorinated
 fluorinates
 fluorinating
+fluorination
 fluorinations
 fluorine
 fluorines
@@ -66183,6 +66196,7 @@ heartsore
 heartstring
 heartstrings
 heartthrob
+heartthrobs
 heartwarming
 heartwood
 heartwoods
@@ -69712,6 +69726,7 @@ huzzaing
 huzzas
 hwan
 hyacinth
+hyacinthine
 hyacinths
 hyaena
 hyaenas
@@ -76796,6 +76811,7 @@ italianated
 italianates
 italianating
 italianise
+italianised
 italianises
 italianising
 italianized
@@ -79567,6 +79583,7 @@ knavishly
 knawe
 knawel
 knawels
+knawes
 knead
 kneadable
 kneaded
@@ -80252,6 +80269,7 @@ lacteally
 lacteals
 lactean
 lacteous
+lactic
 lactiferous
 lactobacilli
 lactobacillus
@@ -82873,6 +82891,7 @@ limns
 limo
 limonene
 limonenes
+limonite
 limonites
 limonitic
 limos
@@ -86086,6 +86105,7 @@ manche
 manches
 manchet
 manchineel
+manchineels
 manciple
 manciples
 mandala
@@ -86299,6 +86319,7 @@ mannas
 manned
 mannequin
 mannequins
+manner
 mannered
 mannerism
 mannerisms
@@ -87777,6 +87798,7 @@ meetly
 meetness
 meetnesses
 meets
+meg
 mega
 megabar
 megabars
@@ -100316,6 +100338,7 @@ openhanded
 openhandedly
 openhandedness
 openhearted
+openheartedly
 openheartedness
 opening
 openings
@@ -103415,6 +103438,7 @@ overgilded
 overgilding
 overgilds
 overgilt
+overgird
 overgirded
 overgirding
 overgirds
@@ -107176,6 +107200,7 @@ pectic
 pectin
 pectinaceous
 pectinate
+pectination
 pectinations
 pectines
 pectinesterase
@@ -109204,6 +109229,7 @@ philosopher
 philosophers
 philosophes
 philosophic
+philosophical
 philosophically
 philosophies
 philosophise
@@ -110095,6 +110121,7 @@ picturephone
 picturephones
 pictures
 picturesque
+picturesquely
 picturesqueness
 picturing
 picturization
@@ -113246,6 +113273,7 @@ positiveness
 positivenesses
 positiver
 positives
+positivest
 positivisms
 positivist
 positivistic
@@ -131365,6 +131393,7 @@ sayst
 sayyid
 sayyids
 scab
+scabbard
 scabbarded
 scabbarding
 scabbards
@@ -133487,6 +133516,7 @@ selenious
 selenite
 selenites
 selenitic
+selenium
 seleniums
 selenocentric
 selenological
@@ -141565,6 +141595,7 @@ sporrans
 sport
 sported
 sporter
+sportfisherman
 sportfishermen
 sportfishings
 sportful
@@ -152945,6 +152976,7 @@ togae
 togaed
 togas
 togate
+togated
 togavirus
 togaviruses
 together
@@ -154280,6 +154312,7 @@ transactions
 transactor
 transacts
 transalpine
+transaminase
 transaminases
 transamination
 transaminations
@@ -154560,6 +154593,7 @@ transpontine
 transport
 transportable
 transportation
+transportations
 transported
 transporter
 transporting
@@ -167841,6 +167875,7 @@ womannesses
 womanpowers
 womans
 womb
+wombat
 wombats
 wombed
 wombier
