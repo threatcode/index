@@ -950,6 +950,7 @@ acrocentrics
 acrodont
 acrodonts
 acrogen
+acrogenic
 acrogens
 acrolect
 acrolects
@@ -1685,6 +1686,7 @@ adverb
 adverbial
 adverbially
 adverbials
+adverbs
 adversarial
 adversaries
 adversariness
@@ -4127,6 +4129,7 @@ amirate
 amirates
 amis
 amiss
+amities
 amitoses
 amitosis
 amitotic
@@ -19314,6 +19317,7 @@ buttery
 buttes
 butthead
 buttheads
+butties
 butting
 buttinski
 buttinskies
@@ -22070,6 +22074,7 @@ catarrhines
 catarrhs
 catastrophe
 catastrophes
+catastrophic
 catastrophism
 catastrophisms
 catastrophist
@@ -22894,6 +22899,7 @@ cephaloridine
 cephaloridines
 cephalosporin
 cephalosporins
+cephalothin
 cephalothoraces
 cephalothorax
 cephalothoraxes
@@ -37741,6 +37747,7 @@ demagnetized
 demagnetizer
 demagnetizers
 demagnetizes
+demagnetizing
 demagog
 demagoged
 demagogic
@@ -38884,6 +38891,7 @@ designator
 designators
 designatory
 designed
+designedly
 designee
 designees
 designer
@@ -46437,6 +46445,7 @@ elicited
 elicitor
 elicitors
 elicits
+elided
 elides
 elidible
 eliding
@@ -50281,6 +50290,7 @@ eutrophication
 eutrophications
 eutrophies
 eutrophy
+euxenite
 euxenites
 evacuant
 evacuants
@@ -50613,6 +50623,7 @@ exarchal
 exarchate
 exarchates
 exarchies
+exarchs
 exarchy
 exasperate
 exasperated
@@ -58853,6 +58864,7 @@ fuze
 fuzed
 fuzee
 fuzees
+fuzes
 fuzil
 fuzils
 fuzing
@@ -74060,6 +74072,7 @@ inkstone
 inkstones
 inkwell
 inkwells
+inkwood
 inkwoods
 inky
 inlace
@@ -75259,6 +75272,7 @@ intermezzos
 interminable
 interminably
 intermingle
+intermingled
 intermingles
 intermingling
 intermission
@@ -76264,6 +76278,7 @@ ionics
 ionise
 ionised
 ionises
+ionising
 ionium
 ioniums
 ionizable
@@ -84642,6 +84657,7 @@ lucifers
 lucite
 lucites
 luck
+lucked
 luckie
 luckier
 luckiest
@@ -88578,6 +88594,7 @@ meseemeth
 meseems
 mesencephala
 mesencephalic
+mesencephalon
 mesenchymal
 mesenchyme
 mesentera
@@ -97307,6 +97324,7 @@ nonentries
 nonentry
 nonenzymatic
 nonenzymic
+nonequals
 nonequilibrium
 nonequilibriums
 nonequivalence
@@ -101446,6 +101464,7 @@ otology
 otoplasties
 otoplasty
 otoscleroses
+otosclerosis
 otoscope
 otoscopes
 otoscopies
@@ -104304,6 +104323,7 @@ overtax
 overtaxation
 overtaxations
 overtaxed
+overtaxes
 overtaxing
 overteach
 overteaches
@@ -106896,6 +106916,7 @@ patriot
 patriotic
 patriotically
 patriotism
+patriotisms
 patriots
 patristic
 patristical
@@ -132962,6 +132983,7 @@ seacraft
 seacrafts
 seadog
 seadogs
+seadrome
 seadromes
 seafarer
 seafarers
@@ -137494,6 +137516,7 @@ skirred
 skirret
 skirrets
 skirring
+skirrs
 skirt
 skirted
 skirter
@@ -137774,6 +137797,7 @@ slatier
 slatiest
 slatiness
 slatinesses
+slating
 slats
 slatted
 slattern
@@ -146489,6 +146513,7 @@ sunlike
 sunlit
 sunn
 sunna
+sunnah
 sunnahs
 sunnas
 sunned
@@ -148396,6 +148421,7 @@ synchronistic
 synchronization
 synchronize
 synchronized
+synchronizer
 synchronizers
 synchronizes
 synchronizing
@@ -153036,6 +153062,7 @@ tobogganist
 tobogganists
 toboggans
 toby
+toccata
 toccatas
 toccate
 tocher
@@ -161943,6 +161970,7 @@ urase
 urases
 urate
 urates
+uratic
 urb
 urban
 urbane
@@ -162111,6 +162139,7 @@ ursids
 ursiform
 ursine
 urtext
+urtexts
 urticant
 urticants
 urticarial
@@ -162561,6 +162590,7 @@ vampers
 vampier
 vampiest
 vamping
+vampire
 vampires
 vampiric
 vampirish
@@ -165399,6 +165429,7 @@ wangling
 wangun
 wanguns
 waniest
+wanigan
 wanigans
 waning
 wanion
@@ -165595,6 +165626,7 @@ warship
 warships
 warsle
 warsled
+warsler
 warslers
 warsles
 warsling
@@ -166312,6 +166344,7 @@ weightiness
 weightinesses
 weighting
 weightless
+weightlessly
 weightlessness
 weights
 weighty
@@ -166653,6 +166686,7 @@ wheezer
 wheezers
 wheezes
 wheezier
+wheeziest
 wheezily
 wheeziness
 wheezinesses
@@ -168799,6 +168833,7 @@ xerography
 xerophile
 xerophilies
 xerophilous
+xerophily
 xerophthalmia
 xerophthalmic
 xerophyte
