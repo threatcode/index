@@ -5262,6 +5262,7 @@ anodyne
 anodynes
 anodynic
 anoint
+anointed
 anointer
 anointers
 anointing
@@ -6438,6 +6439,7 @@ apnoea
 apnoeal
 apnoeas
 apo
+apoapses
 apoapsides
 apoapsis
 apocalypse
@@ -8791,6 +8793,7 @@ attemptable
 attempted
 attempter
 attempters
+attempting
 attempts
 attend
 attendance
@@ -15248,6 +15251,7 @@ blogs
 bloke
 blokes
 blond
+blonde
 blonder
 blondes
 blondest
@@ -18431,6 +18435,7 @@ buffoonish
 buffoons
 buffos
 buffs
+buffy
 bug
 bugaboo
 bugaboos
@@ -27833,6 +27838,7 @@ colloquial
 colloquialism
 colloquialisms
 colloquialities
+colloquiality
 colloquially
 colloquials
 colloquies
@@ -33567,6 +33573,7 @@ crosswind
 crosswinds
 crosswise
 crossword
+crostini
 crostino
 crotch
 crotched
@@ -40040,6 +40047,7 @@ dieted
 dieters
 dietetic
 dietetically
+dietetics
 diether
 diethers
 dietician
@@ -42959,6 +42967,7 @@ domiciliated
 domiciliates
 domiciliating
 domiciliation
+domiciliations
 domiciling
 domicils
 dominance
@@ -50837,6 +50846,7 @@ exile
 exiled
 exiler
 exilers
+exilian
 exilic
 exiling
 eximious
@@ -51241,6 +51251,7 @@ explosion
 explosions
 explosive
 explosively
+explosiveness
 explosives
 expo
 exponent
@@ -55086,6 +55097,7 @@ fleetingnesses
 fleetly
 fleetness
 fleetnesses
+fleets
 flehmen
 flehmened
 flehmening
@@ -56288,6 +56300,7 @@ foraminal
 foraminifer
 foraminifera
 foraminiferal
+foraminiferan
 foraminiferans
 forams
 forasmuch
@@ -56785,6 +56798,7 @@ formally
 formalness
 formalnesses
 formals
+formamide
 formant
 formants
 format
@@ -58482,6 +58496,7 @@ furthermore
 furthermost
 furthers
 furthest
+furtive
 furtively
 furtiveness
 furtivenesses
@@ -58535,6 +58550,7 @@ fusionists
 fusions
 fuss
 fussbudget
+fussbudgets
 fussbudgety
 fusser
 fussers
@@ -59901,6 +59917,7 @@ gemote
 gemotes
 gemots
 gems
+gemsbok
 gemsboks
 gemsbuck
 gemsbucks
@@ -76297,6 +76314,7 @@ island
 islanded
 islander
 islanders
+islanding
 islands
 isle
 isled
@@ -85637,6 +85655,7 @@ mall
 mallard
 mallards
 malleabilities
+malleability
 malleable
 malleably
 malled
@@ -87102,6 +87121,7 @@ maxims
 maximum
 maximumly
 maximums
+maxing
 maxis
 maxixe
 maxixes
@@ -93288,6 +93308,7 @@ multibank
 multibarrel
 multibarreled
 multibillion
+multibladed
 multibranched
 multibuilding
 multicampus
@@ -97953,6 +97974,7 @@ noseguard
 noseguards
 noseless
 noselike
+nosepiece
 nosepieces
 noses
 nosewheel
@@ -98966,6 +98988,7 @@ obtunds
 obturate
 obturated
 obturating
+obturation
 obturations
 obturator
 obturators
@@ -100425,6 +100448,7 @@ ordonnance
 ordonnances
 ordos
 ordure
+ordures
 ordurous
 ore
 oread
@@ -101320,6 +101344,7 @@ outcry
 outcrying
 outcurse
 outcursed
+outcurses
 outcursing
 outcurve
 outcurves
@@ -104905,6 +104930,7 @@ palsgrave
 palsgraves
 palship
 palships
+palsies
 palsy
 palsying
 palsylike
@@ -112944,6 +112970,7 @@ postaxial
 postbag
 postbags
 postbase
+postbellum
 postbiblical
 postbourgeois
 postbox
@@ -113112,6 +113139,7 @@ postmodernisms
 postmodernist
 postmodernists
 postmortem
+postmortems
 postnasal
 postnatal
 postnatally
@@ -121942,6 +121970,7 @@ rectifiable
 rectification
 rectifications
 rectified
+rectifier
 rectifiers
 rectifies
 rectify
@@ -128429,6 +128458,7 @@ rootworms
 rooty
 ropable
 rope
+roped
 ropedancers
 ropedancing
 ropedancings
@@ -133023,6 +133053,7 @@ selachian
 selachians
 seladang
 seladangs
+selaginella
 selaginellas
 selah
 selahs
@@ -154842,6 +154873,7 @@ trilby
 trilinear
 trilingual
 trilingually
+triliteralism
 triliteralisms
 triliterals
 trilith
@@ -156878,6 +156910,7 @@ ultrasonic
 ultrasonically
 ultrasonics
 ultrasonography
+ultrasound
 ultrasounds
 ultrastructural
 ultrastructure
@@ -166604,6 +166637,7 @@ wildebeests
 wilded
 wilder
 wildered
+wildering
 wilderment
 wilderments
 wilderness
@@ -168714,6 +168748,7 @@ yummiest
 yumminess
 yumminesses
 yummy
+yup
 yupon
 yupons
 yuppie
