@@ -2,3 +2,7 @@ DB/pg_structure.sql · debian-upstream/2.4 · Pierre Neyron / oar,https://gitlab
 agentInfer/install/install.sql at master - GitHub,https://github.com/nidhhoggr/agentInfer/blob/master/install/install.sql
 hlstatsx-community-edition/sql/install.sql at master - GitHub,https://github.com/nikooo777/hlstatsx-community-edition/blob/master/sql/install.sql
 www.wbsscript.free.fr/files/tmp/test.sql,http://www.wbsscript.free.fr/files/tmp/test.sql
+hlstatsx-community-edition/sql/install.sql at master - GitHub,https://github.com/nikooo777/hlstatsx-community-edition/blob/master/sql/install.sql
+agentInfer/install/install.sql at master - GitHub,https://github.com/nidhhoggr/agentInfer/blob/master/install/install.sql
+tests/scheduler/data ... - Inria GitLab,https://gitlab.inria.fr/neyron/oar/-/blob/b939a51c9fb04fa9787fa398c807cbbf5e8fb717/tests/scheduler/data/001_advance_reservation_with_absent_resource.sql
+http://www.wbsscript.free.fr/files/tmp/test.sql,http://www.wbsscript.free.fr/files/tmp/test.sql
