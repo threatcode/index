@@ -802,6 +802,7 @@ acidnesses
 acidophil
 acidophile
 acidophiles
+acidophilic
 acidophils
 acidoses
 acidosis
@@ -7557,6 +7558,7 @@ armful
 armfuls
 armholes
 armies
+armiger
 armigeral
 armigero
 armigeros
@@ -8233,6 +8235,7 @@ assaultively
 assaultiveness
 assaults
 assay
+assayable
 assayed
 assayer
 assayers
@@ -17157,6 +17160,7 @@ brailler
 braillers
 brailles
 braillewriter
+braillewriters
 brailling
 braillist
 braillists
@@ -17164,6 +17168,7 @@ brails
 brain
 braincase
 braincases
+brainchild
 brainchildren
 brained
 brainiac
@@ -20800,6 +20805,7 @@ cants
 cantus
 canty
 canula
+canulae
 canular
 canulas
 canulate
@@ -25809,6 +25815,7 @@ claimed
 claimer
 claimers
 claiming
+claims
 clairaudience
 clairaudiences
 clairaudient
@@ -26121,6 +26128,7 @@ cleanest
 cleanhanded
 cleaning
 cleanlier
+cleanliest
 cleanliness
 cleanlinesses
 cleanly
@@ -28248,6 +28256,7 @@ comanaging
 comas
 comate
 comates
+comatic
 comatik
 comatiks
 comatose
@@ -42140,6 +42149,7 @@ disquietudes
 disquisition
 disquisitions
 disrate
+disrated
 disrates
 disrating
 disregard
@@ -47389,6 +47399,7 @@ encapsule
 encapsuled
 encapsules
 encapsuling
+encase
 encased
 encasement
 encasements
@@ -54508,6 +54519,7 @@ fincas
 finch
 finches
 find
+findable
 finder
 finders
 finding
@@ -78119,6 +78131,7 @@ jonquils
 joram
 jorams
 jordan
+jordans
 jorum
 jorums
 joseph
@@ -79021,6 +79034,7 @@ kelvin
 kelvins
 kemp
 kemps
+kempt
 ken
 kenaf
 kenafs
@@ -83399,6 +83413,7 @@ lionfishes
 lionhearted
 lionise
 lionised
+lionisers
 lionises
 lionising
 lionization
@@ -89062,6 +89077,7 @@ metamorphisms
 metamorphose
 metamorphosed
 metamorphoses
+metamorphosing
 metamorphosis
 metanalyses
 metanalysis
@@ -98716,6 +98732,7 @@ notwithstanding
 nougat
 nougats
 noumena
+noumenal
 noumenon
 noun
 nounal
@@ -99168,6 +99185,7 @@ nylon
 nymph
 nympha
 nymphae
+nymphal
 nymphalid
 nymphalids
 nymphean
@@ -109726,6 +109744,7 @@ phosphatization
 phosphatize
 phosphatized
 phosphatizes
+phosphatizing
 phosphaturia
 phosphaturias
 phosphene
@@ -113159,6 +113178,7 @@ pomes
 pomfret
 pomfrets
 pommee
+pommel
 pommeled
 pommeling
 pommelled
@@ -118804,6 +118824,7 @@ purchaser
 purchasers
 purchases
 purchasing
+purda
 purdah
 purdahs
 purdas
@@ -129608,6 +129629,7 @@ routinization
 routinizations
 routinize
 routinized
+routinizes
 routinizing
 roux
 rove
@@ -130168,6 +130190,7 @@ ruths
 rutilant
 rutile
 rutiles
+rutin
 rutins
 ruts
 rutted
@@ -135156,6 +135179,7 @@ shadowier
 shadowiest
 shadowiness
 shadowinesses
+shadowing
 shadowless
 shadowlike
 shadows
@@ -140214,6 +140238,7 @@ songbooks
 songfest
 songfests
 songful
+songfully
 songfulness
 songfulnesses
 songless
@@ -141909,6 +141934,7 @@ spongin
 sponginess
 sponginesses
 sponging
+spongins
 spongy
 sponsal
 sponsion
@@ -147654,6 +147680,7 @@ surfacings
 surfactants
 surfbird
 surfbirds
+surfboard
 surfboarded
 surfboarder
 surfboarding
@@ -150104,6 +150131,7 @@ tauts
 tav
 tavern
 taverna
+taverner
 taverners
 taverns
 tavs
@@ -153059,6 +153087,7 @@ tinglers
 tingles
 tinglier
 tingling
+tinglingly
 tingly
 tings
 tinhorn
@@ -154850,6 +154879,7 @@ transfections
 transfects
 transfer
 transferability
+transferable
 transferal
 transferases
 transferee
@@ -155244,6 +155274,7 @@ traversal
 traversals
 traverse
 traversed
+traverser
 traversers
 traverses
 traversing
@@ -162239,6 +162270,7 @@ uptilted
 uptilting
 uptilts
 uptime
+uptimes
 uptore
 uptorn
 uptoss
@@ -165165,6 +165197,7 @@ vomiting
 vomitive
 vomitives
 vomito
+vomitories
 vomitory
 vomitos
 vomitous
@@ -170231,6 +170264,7 @@ zoogloea
 zoogloeae
 zoogloeal
 zoogloeic
+zoographies
 zoography
 zooid
 zooidal
@@ -170303,6 +170337,7 @@ zootier
 zootiest
 zootomic
 zootomies
+zootomist
 zootomists
 zootomy
 zooty
