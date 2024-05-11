@@ -412,6 +412,7 @@ accesses
 accessibilities
 accessibility
 accessible
+accessibleness
 accessibly
 accessing
 accession
@@ -2241,6 +2242,7 @@ agedly
 agedness
 agednesses
 agee
+ageing
 ageings
 ageism
 ageisms
@@ -16277,6 +16279,7 @@ boogieing
 boogieman
 boogiemen
 boogies
+boogy
 boogying
 boogyman
 boogymen
@@ -16439,6 +16442,7 @@ bootlickers
 bootlicking
 bootlicks
 boots
+bootstrap
 bootstrapped
 bootstrapping
 bootstraps
@@ -19852,6 +19856,7 @@ cakewalks
 cakey
 cakier
 cakiest
+cakiness
 cakinesses
 caking
 caky
@@ -21263,6 +21268,7 @@ carcel
 carcels
 carceral
 carcinogen
+carcinogeneses
 carcinogenesis
 carcinogenic
 carcinogenicity
@@ -37093,6 +37099,7 @@ deferrals
 deferred
 deferrer
 deferrers
+deferring
 defers
 defervescence
 defervescences
@@ -44783,6 +44790,7 @@ dumpinesses
 dumping
 dumpings
 dumpish
+dumpling
 dumplings
 dumps
 dumpsite
@@ -57895,6 +57903,7 @@ fricatives
 friction
 frictional
 frictionally
+frictionless
 frictionlessly
 frictions
 fridge
@@ -66685,6 +66694,7 @@ hellfire
 hellfires
 hellgrammite
 hellgrammites
+hellhole
 hellholes
 hellhound
 hellhounds
@@ -67954,6 +67964,7 @@ hitching
 hither
 hithermost
 hitherto
+hitherward
 hitless
 hitman
 hitmen
@@ -69153,6 +69164,7 @@ hot
 hotbed
 hotbeds
 hotblood
+hotbloods
 hotbox
 hotboxes
 hotcake
@@ -75399,6 +75411,7 @@ interoperable
 interoperative
 interorbital
 interpandemic
+interparish
 interparochial
 interparoxysmal
 interparticle
@@ -78009,6 +78022,7 @@ josephs
 josh
 joshed
 josher
+joshers
 joshes
 joshing
 joshingly
@@ -78471,6 +78485,7 @@ kabbala
 kabbalah
 kabbalahs
 kabbalas
+kabbalism
 kabbalisms
 kabbalist
 kabbalists
@@ -78562,6 +78577,7 @@ kaleyards
 kalian
 kalians
 kalif
+kalifate
 kalifates
 kalifs
 kalimba
@@ -83729,6 +83745,7 @@ loamed
 loamier
 loamiest
 loaminess
+loaminesses
 loaming
 loamless
 loams
@@ -88287,6 +88304,7 @@ memorised
 memorises
 memorising
 memoriter
+memorizable
 memorization
 memorizations
 memorize
@@ -98871,6 +98889,7 @@ numina
 numinous
 numinousness
 numinousnesses
+numismatic
 numismatically
 numismatics
 numismatist
@@ -100997,6 +101016,7 @@ organzine
 organzines
 orgasm
 orgasmed
+orgasmic
 orgasms
 orgastic
 orgeat
@@ -106816,6 +106836,7 @@ pataca
 patacas
 patagia
 patagial
+patagium
 patamar
 patamars
 patch
@@ -109289,6 +109310,7 @@ phenologically
 phenologies
 phenology
 phenolphthalein
+phenols
 phenom
 phenomena
 phenomenal
@@ -116611,6 +116633,7 @@ profanenesses
 profaner
 profaners
 profanes
+profaning
 profanities
 profanity
 professed
@@ -118856,6 +118879,7 @@ pussycats
 pussyfoot
 pussyfooted
 pussyfooter
+pussyfooters
 pussyfooting
 pussyfoots
 pussytoes
@@ -124584,6 +124608,7 @@ relent
 relented
 relenting
 relentless
+relentlessly
 relentlessness
 relents
 relets
@@ -125660,6 +125685,7 @@ reprehended
 reprehending
 reprehends
 reprehensible
+reprehensibly
 reprehension
 reprehensions
 reprehensive
@@ -132865,6 +132891,7 @@ scrupulosity
 scrupulous
 scrupulously
 scrupulousness
+scrutable
 scrutineer
 scrutineers
 scrutinise
@@ -137163,6 +137190,7 @@ siphon
 siphonage
 siphonages
 siphonal
+siphoned
 siphonic
 siphoning
 siphonophore
@@ -137798,6 +137826,7 @@ slainte
 slakable
 slake
 slaked
+slaker
 slakers
 slakes
 slaking
@@ -142770,6 +142799,7 @@ stapelias
 stapes
 staph
 staphs
+staphylinid
 staphylinids
 staphylococcal
 staphylococci
@@ -144823,6 +144853,7 @@ stump
 stumpage
 stumpages
 stumped
+stumper
 stumpers
 stumpier
 stumping
@@ -148628,6 +148659,7 @@ synergisms
 synergist
 synergistic
 synergists
+synergy
 synesis
 synesises
 synesthesia
@@ -161102,6 +161134,7 @@ unsphering
 unspilled
 unspilt
 unspiritual
+unsplit
 unspoiled
 unspoilt
 unspoke
@@ -167700,6 +167733,7 @@ wingedly
 winger
 wingers
 wingier
+wingiest
 winging
 wingless
 winglessness
@@ -167878,6 +167912,7 @@ wiseliest
 wisely
 wiseness
 wisenesses
+wisenheimer
 wisenheimers
 wisent
 wisents
