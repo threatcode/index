@@ -3274,6 +3274,7 @@ alkenes
 alkie
 alkies
 alkine
+alkines
 alkoxide
 alkoxides
 alkoxy
@@ -5350,6 +5351,7 @@ anorexia
 anorexias
 anorexic
 anorexics
+anorexigenic
 anorexy
 anorthite
 anorthites
@@ -20485,6 +20487,7 @@ canalling
 canals
 canape
 canapes
+canard
 canards
 canaries
 canary
@@ -21693,6 +21696,7 @@ carrel
 carrell
 carrells
 carrels
+carriage
 carriages
 carriageway
 carriageways
@@ -27231,6 +27235,7 @@ coculture
 cocultured
 cocultures
 cocurator
+cocurators
 cocurricular
 cod
 coda
@@ -32960,6 +32965,7 @@ cranesbill
 cranesbills
 crania
 cranial
+cranially
 craniate
 craniates
 craning
@@ -33761,6 +33767,7 @@ crosscurrent
 crosscurrents
 crosscut
 crosscuts
+crosscutting
 crosscuttings
 crosse
 crossed
@@ -34309,6 +34316,7 @@ cuffing
 cuffless
 cufflink
 cufflinks
+cuffs
 cuif
 cuifs
 cuing
@@ -35881,6 +35889,7 @@ darkrooms
 darksome
 darky
 darling
+darlingly
 darlingness
 darlingnesses
 darlings
@@ -37260,6 +37269,7 @@ definientia
 definite
 definitely
 definiteness
+definitenesses
 definition
 definitional
 definitions
@@ -41058,6 +41068,7 @@ dirtinesses
 dirts
 dirty
 dirtying
+dis
 disabilities
 disability
 disable
@@ -43157,6 +43168,7 @@ dogwood
 dogwoods
 dogy
 doiled
+doilies
 doily
 doing
 doings
@@ -44544,6 +44556,7 @@ drudge
 drudged
 drudger
 drudgeries
+drudgers
 drudgery
 drudges
 drudging
@@ -53476,6 +53489,7 @@ feelingly
 feelingness
 feelingnesses
 feelings
+feels
 fees
 feet
 feetfirst
@@ -56026,6 +56040,7 @@ fluffers
 fluffier
 fluffiest
 fluffily
+fluffiness
 fluffinesses
 fluffing
 fluffs
@@ -63322,6 +63337,7 @@ greasy
 great
 greatcoat
 greatcoats
+greaten
 greatened
 greatening
 greatens
@@ -70943,6 +70959,7 @@ ibogaine
 ibogaines
 ibuprofen
 ibuprofens
+ice
 iceberg
 icebergs
 iceblink
@@ -79536,6 +79553,7 @@ killing
 killingly
 killings
 killjoy
+killjoys
 killocks
 kills
 kiln
@@ -80074,6 +80092,7 @@ knottily
 knottinesses
 knotting
 knottings
+knotty
 knotweed
 knotweeds
 knout
@@ -84321,6 +84340,7 @@ logogram
 logogrammatic
 logograms
 logograph
+logographic
 logographically
 logographs
 logogriph
@@ -100695,6 +100715,7 @@ oological
 oologies
 oologist
 oologists
+oology
 oolong
 oolongs
 oomiack
@@ -103779,6 +103800,7 @@ overexciting
 overexercise
 overexercised
 overexercises
+overexercising
 overexert
 overexerted
 overexerting
@@ -109848,6 +109870,7 @@ phonologist
 phonologists
 phonology
 phonon
+phonons
 phonos
 phonotactic
 phonotactics
@@ -112518,6 +112541,7 @@ pneumograph
 pneumographs
 pneumonectomies
 pneumonectomy
+pneumonia
 pneumonias
 pneumonic
 pneumonitis
@@ -113559,6 +113583,7 @@ populism
 populisms
 populist
 populistic
+populous
 populously
 populousness
 populousnesses
@@ -121411,6 +121436,7 @@ rattles
 rattlesnake
 rattlesnakes
 rattletrap
+rattletraps
 rattling
 rattlingly
 rattlings
@@ -131784,6 +131810,7 @@ saucier
 sauciers
 sauciest
 saucily
+sauciness
 saucinesses
 saucing
 saucy
@@ -133071,6 +133098,7 @@ screwball
 screwballs
 screwbean
 screwbeans
+screwdriver
 screwdrivers
 screwer
 screwers
@@ -135212,6 +135240,7 @@ sexist
 sexists
 sexless
 sexlessly
+sexlessnesses
 sexologic
 sexologies
 sexologist
@@ -140600,6 +140629,7 @@ sordidnesses
 sordine
 sordines
 sordini
+sordino
 sordor
 sordors
 sords
@@ -142821,6 +142851,7 @@ stab
 stabbed
 stabber
 stabbers
+stabbing
 stabile
 stabiles
 stabilise
@@ -160615,6 +160646,7 @@ unleveling
 unlevelled
 unlevelling
 unlevels
+unlevied
 unliberated
 unlicensed
 unlicked
@@ -160712,6 +160744,7 @@ unmannerliness
 unmannerly
 unmanning
 unmannish
+unmans
 unmapped
 unmarked
 unmarketable
@@ -164449,6 +164482,7 @@ victual
 victualed
 victualer
 victualers
+victualing
 victualled
 victualler
 victuallers
@@ -165930,6 +165964,7 @@ walloper
 wallopers
 walloping
 wallopings
+wallops
 wallow
 wallowed
 wallower
