@@ -2006,6 +2006,7 @@ afferently
 afferents
 affiance
 affianced
+affiances
 affiancing
 affiant
 affiants
@@ -2745,6 +2746,7 @@ airscrew
 airscrews
 airshed
 airsheds
+airship
 airships
 airshot
 airshots
@@ -5534,6 +5536,7 @@ anthropometries
 anthropometry
 anthropomorph
 anthropomorphic
+anthropomorphs
 anthropopathism
 anthropophagi
 anthropophagies
@@ -11255,6 +11258,7 @@ baronage
 baronages
 baroness
 baronet
+baronetage
 baronetages
 baronetcies
 baronetcy
@@ -11643,6 +11647,7 @@ bathyscaphs
 bathysphere
 bathyspheres
 batik
+batiked
 batiking
 batiks
 bating
@@ -16366,6 +16371,7 @@ booksellings
 bookshelf
 bookshelves
 bookshop
+bookshops
 bookstall
 bookstalls
 bookstand
@@ -22377,6 +22383,7 @@ caudillismos
 caudillo
 caudillos
 caudle
+caudles
 caught
 caul
 cauld
@@ -25606,6 +25613,7 @@ cirrocumuli
 cirrocumulus
 cirrose
 cirrostrati
+cirrostratus
 cirrous
 cirrus
 cirsoid
@@ -30178,6 +30186,7 @@ conspirational
 conspirations
 conspiratorial
 conspirators
+conspire
 conspired
 conspirer
 conspirers
@@ -33758,6 +33767,7 @@ crosswind
 crosswinds
 crosswise
 crossword
+crosswords
 crostini
 crostino
 crotch
@@ -33841,6 +33851,7 @@ cru
 cruces
 crucial
 crucially
+crucian
 crucians
 cruciate
 crucible
@@ -34554,6 +34565,7 @@ curatorial
 curators
 curatorship
 curatorships
+curb
 curbable
 curbed
 curber
@@ -52954,6 +52966,7 @@ fastballer
 fastballers
 fastballs
 fasted
+fasten
 fastened
 fastener
 fasteners
@@ -63888,6 +63901,7 @@ gruffily
 gruffing
 gruffish
 gruffly
+gruffness
 gruffnesses
 gruffs
 gruffy
@@ -69550,6 +69564,7 @@ huggers
 hugging
 hugs
 huh
+huic
 huipil
 huipiles
 huipils
@@ -69958,6 +69973,7 @@ hybridizations
 hybridize
 hybridized
 hybridizer
+hybridizers
 hybridizes
 hybridizing
 hybridoma
@@ -75830,6 +75846,7 @@ intolerantly
 intolerantness
 intomb
 intombed
+intombing
 intombs
 intonate
 intonated
@@ -76177,6 +76194,7 @@ invent
 invented
 inventer
 inventers
+inventing
 invention
 inventive
 inventively
@@ -79046,6 +79064,7 @@ keramics
 keratin
 keratinization
 keratinizations
+keratinize
 keratinizes
 keratinizing
 keratinophilic
@@ -80049,6 +80068,7 @@ kolkozes
 kolkozy
 kolo
 kolos
+komatik
 kombu
 kombus
 komondor
@@ -82716,6 +82736,7 @@ licencers
 licences
 licencing
 licensable
+license
 licensed
 licensee
 licensees
@@ -99179,6 +99200,7 @@ oak
 oaken
 oakier
 oakiest
+oaklike
 oakmoss
 oakmosses
 oaks
@@ -100702,6 +100724,7 @@ ophiology
 ophite
 ophites
 ophitic
+ophiuroid
 ophiuroids
 ophthalmia
 ophthalmias
@@ -104655,6 +104678,7 @@ overwetting
 overwhelm
 overwhelmed
 overwhelming
+overwhelmingly
 overwhelms
 overwide
 overwily
@@ -107081,6 +107105,7 @@ patisserie
 patisseries
 patissier
 patissiers
+patly
 patness
 patnesses
 patois
@@ -120939,6 +120964,7 @@ rapidest
 rapidities
 rapidity
 rapidly
+rapidness
 rapidnesses
 rapids
 rapier
@@ -122540,6 +122566,7 @@ reconstructor
 reconstructors
 reconstructs
 reconsult
+reconsulted
 reconsulting
 reconsults
 recontact
@@ -122673,6 +122700,7 @@ recrossing
 recrown
 recrowned
 recrowning
+recrowns
 recrudesce
 recrudesced
 recrudescence
@@ -122888,6 +122916,7 @@ redefies
 redefine
 redefined
 redefines
+redefining
 redefinition
 redefinitions
 redefy
@@ -135396,6 +135425,7 @@ sharpshooter
 sharpshooters
 sharpshooting
 sharpshootings
+sharpy
 shashlick
 shashlicks
 shashlik
@@ -138317,6 +138347,7 @@ slinger
 slingers
 slinging
 slingshot
+slingshots
 slink
 slinked
 slinkier
@@ -146349,6 +146380,7 @@ suffaris
 sufferable
 sufferableness
 sufferably
+sufferance
 sufferances
 suffered
 sufferer
@@ -165531,6 +165563,7 @@ waired
 wairing
 wairs
 waist
+waistband
 waistbands
 waistcoat
 waistcoated
@@ -167061,6 +167094,7 @@ whether
 whets
 whetstone
 whetstones
+whetted
 whetter
 whetters
 whew
@@ -168805,6 +168839,7 @@ wort
 worth
 worthed
 worthful
+worthier
 worthies
 worthiest
 worthily
