@@ -8,3 +8,13 @@ CMakeLists.txt - Cisco-Talos/clamav - GitHub,https://github.com/Cisco-Talos/clam
 remove.txt,https://ecs.syr.edu/faculty/Fawcett/handouts/cse687/Code/STL/iterators/INVALID/remove.txt
 https://docs.fcc.gov/public/attachments/DA-14-1852...,https://docs.fcc.gov/public/attachments/DA-14-1852A1.txt
 https://archive.epa.gov/epawaste/hazard/web/txt/ld...,https://archive.epa.gov/epawaste/hazard/web/txt/ldr-fs.txt
+GL_ARB_invalidate_subdata - Khronos Registry,https://registry.khronos.org/OpenGL/extensions/ARB/ARB_invalidate_subdata.txt
+cleancache.txt - The Linux Kernel Archives,https://www.kernel.org/doc/Documentation/vm/cleancache.txt
+draft-nottingham-http-invalidation-01.txt - IETF,https://www.ietf.org/archive/id/draft-nottingham-http-invalidation-01.txt
+Optimistic Concurrency Control,http://nil.csail.mit.edu/6.824/2015/notes/l-occ.txt
+draft-tewari-webi-wcdp-00.txt - IETF,https://www.ietf.org/archive/id/draft-tewari-webi-wcdp-00.txt
+Documentation/devicetree/bindings/iommu/dynamic_domain.txt,https://android.googlesource.com/kernel/msm/%2B/android-7.1.0_r0.2/Documentation/devicetree/bindings/iommu/dynamic_domain.txt
+scalable locks - MIT PDOS,https://pdos.csail.mit.edu/6.828/2010/lec/l-scalable-lock.txt
+RFC 7009,https://www.rfc-editor.org/rfc/rfc7009.txt
+readme.txt - IBM,https://public.dhe.ibm.com/software/websphere/appserv/support/fixes/PQ84502/readme.txt
+https://boards.law.af.mil/NAVY/BCNR/CY2019/5248-19...,https://boards.law.af.mil/NAVY/BCNR/CY2019/5248-19_Redacted.txt
