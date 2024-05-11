@@ -6403,6 +6403,7 @@ aphorizes
 aphorizing
 aphotic
 aphrodisiac
+aphrodisiacal
 aphrodisiacs
 aphrodite
 aphrodites
@@ -8556,6 +8557,7 @@ aswoon
 asyllabic
 asylum
 asylums
+asymmetric
 asymmetrical
 asymmetrically
 asymmetries
@@ -9640,6 +9642,7 @@ aviso
 avisos
 avitaminoses
 avitaminosis
+avitaminotic
 avo
 avocado
 avocadoes
@@ -10440,6 +10443,7 @@ baglike
 bagmen
 bagnio
 bagnios
+bagpipe
 bagpiped
 bagpipers
 bagpipes
@@ -16578,6 +16582,7 @@ boshboks
 boshes
 boshvark
 boshvarks
+bosk
 boskage
 boskages
 bosker
@@ -17486,6 +17491,7 @@ breastpins
 breastplate
 breastplates
 breasts
+breaststroke
 breaststroker
 breaststrokers
 breaststrokes
@@ -27154,6 +27160,7 @@ codable
 codas
 codded
 codder
+codders
 codding
 coddled
 coddler
@@ -31495,6 +31502,7 @@ corporately
 corporates
 corporation
 corporations
+corporatism
 corporatist
 corporative
 corporativism
@@ -38783,6 +38791,7 @@ descendant
 descendants
 descended
 descendent
+descendents
 descender
 descenders
 descendible
@@ -41440,6 +41449,7 @@ disembodying
 disembogue
 disembogued
 disembogues
+disemboguing
 disembowel
 disemboweled
 disemboweling
@@ -44912,6 +44922,7 @@ duralumin
 duralumins
 duramen
 duramens
+durance
 durances
 duration
 durations
@@ -47953,6 +47964,7 @@ enhaloed
 enhaloes
 enhaloing
 enhalos
+enhance
 enhanced
 enhancement
 enhancements
@@ -59100,6 +59112,7 @@ galago
 galagos
 galah
 galahs
+galanga
 galangal
 galangals
 galangas
@@ -62173,6 +62186,7 @@ gombos
 gombroon
 gombroons
 gomeral
+gomerals
 gomerel
 gomerels
 gomeril
@@ -73748,6 +73762,7 @@ informed
 informedly
 informer
 informers
+informing
 informs
 infos
 infotainment
@@ -75726,6 +75741,7 @@ intonated
 intonates
 intonating
 intonation
+intonational
 intonations
 intone
 intoned
@@ -76900,6 +76916,7 @@ issuably
 issuance
 issuances
 issuant
+issue
 issued
 issuer
 issuers
@@ -81122,6 +81139,7 @@ lasers
 lases
 lash
 lashed
+lasher
 lashers
 lashes
 lashing
@@ -85141,6 +85159,7 @@ lymphocytosis
 lymphogram
 lymphograms
 lymphogranuloma
+lymphographic
 lymphographies
 lymphography
 lymphoid
@@ -105048,6 +105067,7 @@ paiking
 paiks
 pail
 pailful
+pailfuls
 paillard
 paillards
 paillasse
@@ -105895,6 +105915,7 @@ paraesthesia
 paraesthesias
 paraffin
 paraffined
+paraffines
 paraffinic
 paraffining
 paraffins
@@ -112126,6 +112147,7 @@ plushily
 plushiness
 plushinesses
 plushly
+plushness
 plushnesses
 plushy
 plussage
@@ -120970,6 +120992,7 @@ ratiocinator
 ration
 rational
 rationales
+rationalise
 rationalised
 rationalises
 rationalising
@@ -125742,6 +125765,7 @@ reproducers
 reproduces
 reproducibility
 reproducible
+reproducibles
 reproducibly
 reproducing
 reproduction
@@ -126606,6 +126630,7 @@ restaffs
 restage
 restaged
 restages
+restaging
 restamp
 restamped
 restamping
@@ -126676,6 +126701,7 @@ restokes
 restoking
 restoral
 restorals
+restoration
 restorations
 restorative
 restoratives
@@ -127392,6 +127418,7 @@ revehent
 revel
 revelation
 revelations
+revelator
 revelators
 revelatory
 reveled
@@ -132509,6 +132536,7 @@ scouthered
 scouthering
 scouthers
 scouths
+scouting
 scoutings
 scoutmaster
 scoutmasters
@@ -136420,6 +136448,7 @@ sickie
 sickies
 sicking
 sickish
+sickishly
 sickishness
 sickishnesses
 sickle
@@ -143402,6 +143431,7 @@ stethoscopes
 stets
 stetson
 stetsons
+stetted
 stetting
 stevedore
 stevedored
@@ -144482,6 +144512,7 @@ strikeouts
 strikeover
 strikeovers
 striker
+strikers
 strikes
 striking
 strikingly
@@ -144975,6 +145006,7 @@ subadults
 subaerial
 subaerially
 subagencies
+subagency
 subagent
 subagents
 subahdar
@@ -155125,6 +155157,7 @@ treillages
 trek
 trekked
 trekker
+trekkers
 trekking
 trellised
 trellises
@@ -161029,6 +161062,7 @@ unsoiled
 unsold
 unsolder
 unsoldered
+unsoldering
 unsolders
 unsoldierly
 unsolid
@@ -167666,6 +167700,7 @@ wingedly
 winger
 wingers
 wingier
+winging
 wingless
 winglessness
 winglessnesses
