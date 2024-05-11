@@ -1100,6 +1100,7 @@ actualizing
 actually
 actuarial
 actuarially
+actuaries
 actuary
 actuate
 actuated
@@ -1300,6 +1301,7 @@ adherences
 adherend
 adherends
 adherent
+adherently
 adherents
 adherer
 adherers
@@ -2780,6 +2782,7 @@ airtightness
 airtightnesses
 airtime
 airtimes
+airting
 airts
 airward
 airwave
@@ -6480,6 +6483,7 @@ apneic
 apnoea
 apnoeal
 apnoeas
+apnoeic
 apo
 apoapses
 apoapsides
@@ -14325,6 +14329,7 @@ biometry
 biomolecular
 biomolecule
 biomolecules
+biomorph
 biomorphic
 bionic
 bionics
@@ -35636,6 +35641,7 @@ dam
 damage
 damageabilities
 damageability
+damaged
 damager
 damagers
 damages
@@ -37076,6 +37082,7 @@ defalcated
 defalcates
 defalcating
 defalcation
+defalcations
 defalcator
 defalcators
 defamation
@@ -43684,6 +43691,7 @@ doughface
 doughfaces
 doughier
 doughiest
+doughlike
 doughnut
 doughnutlike
 doughnuts
@@ -46896,6 +46904,7 @@ emblazing
 emblazon
 emblazoned
 emblazoner
+emblazoners
 emblazoning
 emblazonment
 emblazonments
@@ -51447,6 +51456,7 @@ expected
 expectedly
 expectedness
 expectednesses
+expecter
 expecters
 expecting
 expectorant
@@ -51882,6 +51892,7 @@ externalised
 externalises
 externalising
 externalism
+externalisms
 externalities
 externality
 externalization
@@ -52160,6 +52171,7 @@ eyebrows
 eyecup
 eyecups
 eyed
+eyedness
 eyednesses
 eyedropper
 eyedroppers
@@ -55606,6 +55618,7 @@ flickering
 flickeringly
 flickers
 flickery
+flicking
 flicks
 flics
 flied
@@ -71526,6 +71539,7 @@ imbeds
 imbibe
 imbibed
 imbiber
+imbibers
 imbibes
 imbibing
 imbibition
@@ -72122,6 +72136,7 @@ implanters
 implanting
 implants
 implausibility
+implausible
 implausibly
 impleaded
 impleader
@@ -83391,6 +83406,7 @@ linguae
 lingual
 lingually
 linguals
+linguica
 linguicas
 linguine
 linguines
@@ -84880,6 +84896,7 @@ loyalism
 loyalisms
 loyalist
 loyalists
+loyally
 loyalties
 loyalty
 lozenge
@@ -90298,6 +90315,7 @@ millionth
 millionths
 milliosmol
 milliosmols
+milliped
 millipede
 millipedes
 millipeds
@@ -96317,6 +96335,7 @@ neurosensory
 neuroses
 neurosis
 neurospora
+neurosporas
 neurosurgeon
 neurosurgeons
 neurosurgeries
@@ -102158,6 +102177,7 @@ outdrawn
 outdraws
 outdream
 outdreamed
+outdreaming
 outdreams
 outdreamt
 outdress
@@ -107821,6 +107841,7 @@ peekapoo
 peekapoos
 peeked
 peeking
+peel
 peelable
 peeled
 peeler
@@ -114951,6 +114972,7 @@ predeath
 predeaths
 predecease
 predeceased
+predeceases
 predeceasing
 predecessor
 predecessors
@@ -115497,6 +115519,7 @@ premodified
 premodifies
 premodify
 premodifying
+premoisten
 premoistened
 premoistens
 premolar
@@ -119277,6 +119300,7 @@ pycnoses
 pycnosis
 pycnotic
 pye
+pyelitic
 pyelitis
 pyelitises
 pyelogram
@@ -127827,6 +127851,7 @@ reversal
 reversals
 reverse
 reversed
+reversely
 reverser
 reversers
 reverses
@@ -128988,6 +129013,7 @@ roadrunners
 roads
 roadshow
 roadshows
+roadside
 roadsides
 roadstead
 roadsteads
@@ -134995,6 +135021,7 @@ servanthoods
 servantless
 servants
 serve
+served
 server
 servers
 serves
@@ -140053,6 +140080,7 @@ soldierships
 soldiery
 soldo
 sole
+solecise
 solecised
 solecises
 solecising
@@ -146583,6 +146611,7 @@ suffixions
 sufflate
 sufflated
 sufflates
+sufflating
 suffocate
 suffocated
 suffocates
@@ -148418,6 +148447,7 @@ swifter
 swifters
 swiftest
 swiftlet
+swiftlets
 swiftness
 swiftnesses
 swifts
@@ -159663,6 +159693,7 @@ undramatically
 undramatized
 undrape
 undraped
+undrapes
 undraping
 undraw
 undrawing
@@ -160534,6 +160565,7 @@ unlaced
 unlaces
 unlacing
 unlade
+unladed
 unladen
 unlades
 unlading
@@ -163054,6 +163086,7 @@ valleyed
 valleys
 valonia
 valonias
+valor
 valorise
 valorised
 valorises
@@ -166734,6 +166767,7 @@ weavers
 weaves
 weaving
 weazand
+weazands
 web
 webbed
 webbier
@@ -170332,6 +170366,7 @@ zircaloys
 zircon
 zirconia
 zirconias
+zirconic
 zirconium
 zirconiums
 zircons
