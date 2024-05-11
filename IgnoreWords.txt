@@ -15747,6 +15747,7 @@ boatlift
 boatlifted
 boatlifting
 boatlifts
+boatlike
 boatload
 boatloads
 boatman
@@ -17721,6 +17722,7 @@ brightest
 brightish
 brightly
 brightness
+brightnesses
 brights
 brightwork
 brightworks
@@ -22444,6 +22446,7 @@ caveated
 caveating
 caveator
 caveators
+caveats
 caved
 cavefish
 cavefishes
@@ -28362,6 +28365,7 @@ commemoration
 commemorations
 commemorative
 commemoratively
+commemoratives
 commemorator
 commemorators
 commence
@@ -29302,6 +29306,7 @@ concussion
 concussions
 concussive
 condemn
+condemnable
 condemnation
 condemnations
 condemnatory
@@ -31962,6 +31967,7 @@ cottons
 cottonseed
 cottonseeds
 cottontail
+cottontails
 cottonweed
 cottonweeds
 cottonwood
@@ -42220,6 +42226,7 @@ dissimilarity
 dissimilarly
 dissimilars
 dissimilate
+dissimilated
 dissimilates
 dissimilating
 dissimilation
@@ -45140,6 +45147,7 @@ dyslexia
 dyslexias
 dyslexic
 dyslexics
+dyslogistic
 dyslogistically
 dysmenorrhea
 dysmenorrheas
@@ -48396,6 +48404,7 @@ entoderm
 entodermal
 entodermic
 entoderms
+entoil
 entoiled
 entoiling
 entoils
@@ -50508,6 +50517,7 @@ evolute
 evolutes
 evolution
 evolutionarily
+evolutionism
 evolutionisms
 evolutionist
 evolutionists
@@ -51122,6 +51132,7 @@ exogenism
 exogenisms
 exogenous
 exogenously
+exogens
 exon
 exonerate
 exonerated
@@ -55998,6 +56009,7 @@ fluters
 flutes
 flutey
 flutier
+flutiest
 fluting
 flutings
 flutist
@@ -74430,6 +74442,7 @@ insister
 insisters
 insisting
 insists
+insnare
 insnared
 insnarer
 insnarers
@@ -85014,6 +85027,7 @@ luteotrophin
 luteotrophins
 luteotropic
 luteotropins
+luteous
 lutestring
 lutestrings
 lutetium
@@ -85651,6 +85665,7 @@ magnum
 magnums
 magot
 magots
+magpie
 magpies
 mags
 maguey
@@ -87628,6 +87643,7 @@ meantimes
 meanwhile
 meanwhiles
 meany
+measle
 measled
 measles
 measlier
@@ -88368,6 +88384,7 @@ mentalistic
 mentalists
 mentalities
 mentality
+mentally
 mentation
 mentee
 mentees
@@ -88763,6 +88780,7 @@ metabolic
 metabolism
 metabolisms
 metabolite
+metabolites
 metabolizable
 metabolize
 metabolized
@@ -91321,6 +91339,7 @@ misrule
 misruled
 misrules
 misruling
+miss
 missable
 missaid
 missals
@@ -91556,6 +91575,7 @@ mistuned
 mistunes
 mistuning
 mistutor
+mistutored
 mistutoring
 mistutors
 misty
@@ -92331,6 +92351,7 @@ monocytes
 monocytic
 monodic
 monodical
+monodies
 monodisperse
 monodist
 monodists
@@ -101855,6 +101876,7 @@ outearns
 outeat
 outeaten
 outeating
+outeats
 outecho
 outechoed
 outechoes
@@ -107980,6 +108002,7 @@ pepos
 pepped
 pepper
 pepperbox
+pepperboxes
 peppercorn
 peppercorns
 peppered
@@ -111957,6 +111980,7 @@ plugger
 pluggers
 plugging
 plugless
+plugola
 plugolas
 plugs
 pluguglies
@@ -112016,6 +112040,7 @@ plumpened
 plumpening
 plumpens
 plumpers
+plumpest
 plumping
 plumpish
 plumply
@@ -113227,6 +113252,7 @@ pornography
 pornos
 porns
 porny
+poromeric
 poromerics
 porose
 porosities
@@ -116505,6 +116531,7 @@ produce
 produced
 producer
 producers
+produces
 producible
 producing
 product
@@ -116757,6 +116784,7 @@ proles
 proletarian
 proletarianise
 proletarianised
+proletarianises
 proletarianize
 proletarianized
 proletarianizes
@@ -121037,6 +121065,7 @@ ravelers
 ravelin
 raveling
 ravelings
+ravelins
 ravelled
 raveller
 ravellers
@@ -121232,6 +121261,7 @@ readablenesses
 readably
 readapt
 readapted
+readapting
 readapts
 readd
 readded
@@ -121268,6 +121298,7 @@ readmit
 readmits
 readmitted
 readmitting
+readopt
 readopted
 readopting
 readopts
@@ -130455,6 +130486,7 @@ salmonellae
 salmonellas
 salmonelloses
 salmonellosis
+salmonid
 salmonids
 salmonoid
 salmons
@@ -131927,6 +131959,7 @@ scheme
 schemed
 schemer
 schemes
+scheming
 scherzando
 scherzandos
 scherzi
@@ -134580,6 +134613,7 @@ servileness
 servilenesses
 servility
 serving
+servings
 servitor
 servitors
 servitude
@@ -134932,6 +134966,7 @@ shakiness
 shakinesses
 shaking
 shako
+shakoes
 shakos
 shaky
 shale
@@ -141940,6 +141975,7 @@ sprit
 sprite
 sprites
 sprits
+spritsail
 spritsails
 spritz
 spritzed
@@ -147169,6 +147205,7 @@ supplantations
 supplanted
 supplanter
 supplanters
+supplanting
 supplants
 supple
 suppled
@@ -148673,6 +148710,7 @@ systematise
 systematised
 systematises
 systematising
+systematism
 systematisms
 systematist
 systematists
@@ -153489,6 +153527,7 @@ toothing
 toothless
 toothlike
 toothpaste
+toothpastes
 toothpick
 toothpicks
 tooths
@@ -154255,6 +154294,7 @@ traditionalize
 traditionalized
 traditionalizes
 traditionally
+traditionary
 traditions
 traditive
 traditor
@@ -159539,6 +159579,7 @@ ungraded
 ungrammatical
 ungraspable
 ungrateful
+ungratefully
 ungratefulness
 ungreased
 ungreedy
@@ -162262,6 +162303,7 @@ utopian
 utopianism
 utopianisms
 utopians
+utopias
 utopism
 utopisms
 utopist
@@ -162477,6 +162519,7 @@ valetudinary
 valgoid
 valguses
 valiance
+valiances
 valiancies
 valiancy
 valiant
@@ -167250,6 +167293,7 @@ wienerwursts
 wienie
 wienies
 wife
+wifed
 wifedom
 wifedoms
 wifehood
@@ -167968,6 +168012,7 @@ woefuller
 woefullest
 woefully
 woefulness
+woefulnesses
 woeness
 woenesses
 woes
@@ -168446,6 +168491,7 @@ worrisomeness
 worrisomenesses
 worrit
 worrited
+worriting
 worrits
 worry
 worrying
