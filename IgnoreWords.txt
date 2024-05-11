@@ -1424,6 +1424,7 @@ administrant
 administrants
 administrate
 administrated
+administrating
 administration
 administrations
 administrative
@@ -3452,6 +3453,7 @@ allophanes
 allophone
 allophones
 allophonic
+alloplasm
 alloplasms
 allopolyploid
 allopolyploids
@@ -8296,6 +8298,7 @@ asseverations
 asseverative
 assholes
 assiduities
+assiduity
 assiduous
 assiduously
 assiduousness
@@ -9604,6 +9607,7 @@ avianizing
 avians
 aviaries
 aviarist
+aviarists
 aviary
 aviate
 aviated
@@ -14928,6 +14932,7 @@ blandisher
 blandishers
 blandishes
 blandishing
+blandishment
 blandishments
 blandly
 blandness
@@ -18742,6 +18747,7 @@ bumelias
 bumf
 bumfs
 bumfuzzle
+bumfuzzled
 bumfuzzles
 bumfuzzling
 bumkin
@@ -22003,6 +22009,7 @@ catabolisms
 catabolite
 catabolites
 catabolize
+catabolized
 catabolizes
 catabolizing
 catachreses
@@ -23875,6 +23882,7 @@ cheddary
 cheddite
 cheddites
 cheder
+cheders
 chedite
 chedites
 cheechako
@@ -46052,6 +46060,7 @@ eggplants
 eggshell
 eggshells
 eggy
+egis
 egises
 eglantine
 eglantines
@@ -52213,6 +52222,7 @@ facilitate
 facilitated
 facilitates
 facilitating
+facilitation
 facilitations
 facilitative
 facilitator
@@ -56473,6 +56483,7 @@ footboards
 footboys
 footbridge
 footbridges
+footcloth
 footcloths
 footdragger
 footdraggers
@@ -58219,6 +58230,7 @@ frothier
 frothiest
 frothily
 frothiness
+frothinesses
 frothing
 froths
 frothy
@@ -60103,6 +60115,7 @@ gecko
 geckoes
 geckos
 gecks
+ged
 geds
 gee
 geed
@@ -60267,6 +60280,7 @@ generable
 general
 generalcies
 generalcy
+generalisation
 generalisations
 generalise
 generalised
@@ -61504,6 +61518,7 @@ glimmers
 glimpse
 glimpsed
 glimpser
+glimpsers
 glimpses
 glimpsing
 glims
@@ -65599,6 +65614,7 @@ hardier
 hardies
 hardiest
 hardihoods
+hardily
 hardiment
 hardiments
 hardiness
@@ -67069,6 +67085,7 @@ hepatomata
 hepatomegalies
 hepatomegaly
 hepatopancreas
+hepatotoxicity
 hepcat
 hepcats
 hepper
@@ -69314,6 +69331,7 @@ householders
 households
 househusband
 househusbands
+housekeep
 housekeeper
 housekeepers
 housekeeping
@@ -70474,6 +70492,7 @@ hypersthenic
 hyperstimulate
 hyperstimulated
 hyperstimulates
+hypersurface
 hypersurfaces
 hypertense
 hypertension
@@ -71711,6 +71730,7 @@ impala
 impalas
 impale
 impaled
+impalement
 impalements
 impaler
 impalers
@@ -72624,6 +72644,7 @@ inclasps
 inclemencies
 inclemency
 inclement
+inclemently
 inclinable
 inclination
 inclinational
@@ -77816,6 +77837,7 @@ jingoism
 jingoisms
 jingoist
 jingoistic
+jingoistically
 jingoists
 jink
 jinked
@@ -78157,6 +78179,7 @@ joylessly
 joylessness
 joylessnesses
 joyous
+joyously
 joyousness
 joypop
 joypopped
@@ -81204,6 +81227,7 @@ lassies
 lassis
 lassitude
 lassitudes
+lasso
 lassoed
 lassoer
 lassoers
@@ -84127,6 +84151,7 @@ logogram
 logogrammatic
 logograms
 logograph
+logographically
 logographs
 logogriph
 logogriphs
@@ -84485,6 +84510,7 @@ lostnesses
 lot
 lota
 lotah
+lotahs
 lotas
 loth
 lothario
@@ -101946,6 +101972,7 @@ outdresses
 outdressing
 outdrew
 outdrink
+outdrinking
 outdrinks
 outdrive
 outdriven
@@ -110837,6 +110864,7 @@ pinole
 pinoles
 pinon
 pinones
+pinons
 pinot
 pinots
 pinpoint
@@ -117890,6 +117918,7 @@ prussiates
 prussic
 pruta
 prutot
+prutoth
 pry
 pryer
 pryers
@@ -141168,6 +141197,7 @@ spendy
 spense
 spenses
 spent
+spermaceti
 spermacetis
 spermagonia
 spermagonium
@@ -143302,6 +143332,7 @@ stemson
 stemsons
 stemware
 stemwares
+stench
 stenches
 stenchful
 stenchier
@@ -143464,6 +143495,7 @@ sterilizers
 sterilizes
 sterilizing
 sterlet
+sterlets
 sterling
 sterlingly
 sterlingness
@@ -148065,6 +148097,7 @@ sweetish
 sweetishly
 sweetly
 sweetmeat
+sweetmeats
 sweetness
 sweetnesses
 sweets
@@ -160628,6 +160661,7 @@ unpolitic
 unpolitical
 unpolled
 unpolluted
+unpopular
 unpopularities
 unpopularity
 unposed
@@ -164102,6 +164136,7 @@ videodisks
 videographer
 videographers
 videographies
+videography
 videoland
 videolands
 videophile
