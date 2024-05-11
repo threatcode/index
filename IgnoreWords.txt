@@ -658,6 +658,7 @@ aces
 acescent
 acescents
 aceta
+acetabula
 acetabular
 acetabulum
 acetabulums
@@ -900,6 +901,7 @@ acquires
 acquiring
 acquisition
 acquisitions
+acquisitive
 acquisitively
 acquisitiveness
 acquisitor
@@ -2444,6 +2446,7 @@ agnatic
 agnatical
 agnation
 agnations
+agnize
 agnized
 agnizes
 agnizing
@@ -5919,6 +5922,7 @@ antineutrinos
 antineutron
 antineutrons
 anting
+antinodal
 antinode
 antinodes
 antinoise
@@ -9593,6 +9597,7 @@ averseness
 aversenesses
 aversion
 aversions
+aversive
 aversively
 aversiveness
 aversivenesses
@@ -20952,6 +20957,7 @@ capizes
 capless
 caplet
 caplets
+caplin
 caplins
 capmaker
 capmakers
@@ -28704,6 +28710,7 @@ compactness
 compactnesses
 compactor
 compactors
+compacts
 compadre
 compadres
 companied
@@ -31352,6 +31359,7 @@ corecipient
 corecipients
 cored
 coredeem
+coredeemed
 coredeeming
 coredeems
 coreign
@@ -34360,6 +34368,7 @@ culms
 culotte
 culottes
 culpa
+culpabilities
 culpability
 culpable
 culpableness
@@ -35775,6 +35784,7 @@ danios
 danishes
 dank
 danker
+dankest
 dankly
 dankness
 danknesses
@@ -52190,6 +52200,7 @@ eyespot
 eyespots
 eyestalk
 eyestalks
+eyestone
 eyestones
 eyestrain
 eyestrains
@@ -55830,6 +55841,7 @@ floras
 floreated
 florence
 florences
+florescence
 florescences
 florescent
 floret
@@ -56377,6 +56389,7 @@ folates
 fold
 foldable
 foldaway
+foldaways
 foldboat
 foldboats
 folded
@@ -65489,6 +65502,7 @@ handwringers
 handwrit
 handwrite
 handwrites
+handwriting
 handwritten
 handwrote
 handwrought
@@ -78795,6 +78809,7 @@ kanaka
 kanakas
 kanamycin
 kanamycins
+kanas
 kanban
 kanbans
 kane
@@ -81321,6 +81336,7 @@ lasciviousness
 lased
 laser
 laserdisc
+laserdiscs
 laserdisk
 laserdisks
 lasers
@@ -87544,6 +87560,7 @@ matinesses
 mating
 matings
 matins
+matless
 matrass
 matrasses
 matres
@@ -90405,6 +90422,7 @@ mineralizations
 mineralize
 mineralized
 mineralizer
+mineralizers
 mineralizes
 mineralizing
 mineralogic
@@ -92786,6 +92804,7 @@ monosaccharides
 monosome
 monosomes
 monosomic
+monosomics
 monosomies
 monosomy
 monospecific
@@ -92847,6 +92866,7 @@ monsoon
 monsoonal
 monsoons
 monster
+monstera
 monsteras
 monsters
 monstrance
@@ -93145,6 +93165,7 @@ morion
 morions
 morn
 morning
+morns
 morocco
 moroccos
 moron
@@ -104466,6 +104487,7 @@ oversmoke
 oversmoked
 oversmokes
 oversmoking
+oversoak
 oversoaked
 oversoaking
 oversoaks
@@ -111350,6 +111372,7 @@ piths
 pithy
 pitiable
 pitiableness
+pitiablenesses
 pitiably
 pitied
 pitier
@@ -118574,6 +118597,7 @@ pules
 puli
 pulicene
 pulicide
+pulicides
 pulik
 puling
 pulingly
@@ -119057,6 +119081,7 @@ purtenances
 purtier
 purtiest
 purty
+purulence
 purulences
 purulent
 purvey
@@ -120057,6 +120082,7 @@ quinin
 quinina
 quininas
 quinine
+quinines
 quinins
 quinnat
 quinnats
@@ -127212,6 +127238,7 @@ retargeted
 retargeting
 retargets
 retaste
+retasted
 retastes
 retasting
 retaught
@@ -130205,6 +130232,7 @@ rushlike
 rushy
 rusine
 rusk
+rusks
 russet
 russeting
 russetings
@@ -133944,6 +133972,7 @@ seismicity
 seismism
 seismisms
 seismograms
+seismograph
 seismographer
 seismographers
 seismographic
@@ -136530,6 +136559,7 @@ shrimps
 shrimpy
 shrine
 shrined
+shrines
 shrining
 shrink
 shrinkable
@@ -141294,6 +141324,7 @@ speechified
 speechifies
 speechify
 speechifying
+speechless
 speechlessly
 speechlessness
 speechwriter
@@ -146395,6 +146426,7 @@ succoth
 succour
 succoured
 succouring
+succours
 succuba
 succubas
 succubi
@@ -146757,6 +146789,7 @@ sultanic
 sultans
 sultrier
 sultriest
+sultrily
 sultriness
 sultrinesses
 sulu
@@ -163431,6 +163464,7 @@ vaward
 vawards
 vawntie
 vaws
+veal
 vealed
 vealer
 vealers
@@ -167614,6 +167648,7 @@ whoresons
 whoring
 whorish
 whorishly
+whorled
 whorls
 whort
 whortle
