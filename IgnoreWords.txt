@@ -8408,6 +8408,7 @@ assonances
 assonant
 assonantal
 assonants
+assort
 assortative
 assortatively
 assorted
@@ -10106,6 +10107,7 @@ bacillus
 bacitracin
 bacitracins
 back
+backache
 backaches
 backbeat
 backbeats
@@ -14308,6 +14310,7 @@ biologicals
 biologics
 biologies
 biologism
+biologisms
 biologist
 biologistic
 biologists
@@ -17632,6 +17635,7 @@ breeziness
 breezing
 breezy
 bregma
+bregmata
 bregmate
 bregmatic
 bremsstrahlung
@@ -20598,6 +20602,7 @@ candlestick
 candlesticks
 candlewick
 candlewicks
+candlewood
 candlewoods
 candling
 candor
@@ -24637,6 +24642,7 @@ chittering
 chitterlings
 chitters
 chitties
+chitty
 chivalries
 chivalrous
 chivalrously
@@ -25805,6 +25811,7 @@ civilise
 civilised
 civilises
 civilising
+civilities
 civilization
 civilizational
 civilizations
@@ -30456,6 +30463,7 @@ containing
 containment
 containments
 contains
+contaminant
 contaminants
 contaminated
 contaminates
@@ -35071,6 +35079,7 @@ cuvee
 cuvees
 cuvette
 cuvettes
+cwm
 cwms
 cyan
 cyanamid
@@ -42809,6 +42818,7 @@ diversifying
 diversionary
 diversionist
 diversionists
+diversions
 diversities
 diversity
 divert
@@ -43188,6 +43198,7 @@ dogmatists
 dogmatization
 dogmatizations
 dogmatize
+dogmatized
 dogmatizers
 dogmatizes
 dogmatizing
@@ -60719,6 +60730,7 @@ geodesic
 geodesics
 geodesies
 geodesist
+geodesists
 geodesy
 geodetic
 geodetical
@@ -61674,6 +61686,7 @@ glebeless
 glebes
 gled
 glede
+gledes
 gleds
 glee
 gleed
@@ -71549,6 +71562,7 @@ illusionism
 illusionisms
 illusionist
 illusionistic
+illusionists
 illusions
 illusive
 illusively
@@ -72689,6 +72703,7 @@ inaudible
 inaudibly
 inaugural
 inaugurals
+inaugurate
 inaugurated
 inaugurates
 inaugurating
@@ -76837,6 +76852,7 @@ irrationality
 irrationally
 irrationals
 irreal
+irrealities
 irreality
 irreclaimable
 irreclaimably
@@ -83918,6 +83934,7 @@ lithops
 lithos
 lithosol
 lithosols
+lithosphere
 lithospheres
 lithospheric
 lithotomies
@@ -88174,6 +88191,7 @@ medevaced
 medevacing
 medevacked
 medevacking
+medevacs
 medflies
 medfly
 media
@@ -92512,6 +92530,7 @@ molting
 molto
 molts
 moly
+molybdate
 molybdates
 molybdenite
 molybdenites
@@ -95770,6 +95789,7 @@ neatherds
 neatly
 neatness
 neatnesses
+neatnik
 neatniks
 neats
 neb
@@ -98505,6 +98525,7 @@ nonskier
 nonskiers
 nonslip
 nonsmoker
+nonsmokers
 nonsmoking
 nonsocial
 nonsocialist
@@ -102040,6 +102061,7 @@ outage
 outages
 outargue
 outargued
+outargues
 outask
 outasked
 outasks
@@ -102248,6 +102270,7 @@ outcropping
 outcroppings
 outcrops
 outcross
+outcrossed
 outcrosses
 outcrossing
 outcrow
@@ -111330,6 +111353,7 @@ pipeage
 piped
 pipefish
 pipefishes
+pipeful
 pipefuls
 pipeless
 pipelike
@@ -119912,6 +119936,7 @@ quantics
 quantification
 quantifications
 quantified
+quantifier
 quantifiers
 quantifies
 quantify
@@ -120519,6 +120544,7 @@ rabbins
 rabbis
 rabbit
 rabbitbrush
+rabbitbrushes
 rabbited
 rabbiter
 rabbiters
@@ -124446,6 +124472,7 @@ regrates
 regrating
 regreen
 regreened
+regreening
 regreens
 regreet
 regreeting
@@ -128533,6 +128560,7 @@ rhythmics
 rhythmist
 rhythmists
 rhythmization
+rhythmizations
 rhythmize
 rhythmized
 rhythmizes
@@ -131616,6 +131644,7 @@ saponification
 saponifications
 saponified
 saponifier
+saponifiers
 saponifies
 saponifying
 saponin
@@ -138868,6 +138897,7 @@ slogs
 sloid
 sloids
 slojd
+slojds
 sloop
 sloops
 slop
@@ -140096,6 +140126,7 @@ sodamide
 sodamides
 sodas
 sodbuster
+sodbusters
 sodded
 sodden
 soddened
@@ -145113,6 +145144,7 @@ stridulated
 stridulates
 stridulating
 stridulation
+stridulations
 stridulatory
 stridulous
 stridulously
@@ -150527,6 +150559,7 @@ tautomeric
 tautomerism
 tautomerisms
 tautomers
+tautonym
 tautonymies
 tautonyms
 tautonymy
@@ -156723,6 +156756,7 @@ tropine
 tropines
 tropism
 tropisms
+tropocollagen
 tropocollagens
 tropologic
 tropological
@@ -166698,6 +166732,7 @@ watermelons
 watermen
 waterpower
 waterpowers
+waterproof
 waterproofed
 waterproofer
 waterproofers
