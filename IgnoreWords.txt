@@ -3210,6 +3210,7 @@ alinements
 aliner
 aliners
 alines
+alining
 aliped
 alipeds
 aliphatic
@@ -3905,6 +3906,7 @@ amberies
 amberina
 amberinas
 amberjack
+amberjacks
 amberoid
 amberoids
 ambers
@@ -18033,6 +18035,7 @@ broidering
 broiders
 broidery
 broil
+broiled
 broiler
 broilers
 broiling
@@ -31753,6 +31756,7 @@ correlatives
 correlator
 correlators
 correspond
+correspondence
 correspondency
 correspondent
 correspondents
@@ -32334,6 +32338,7 @@ counterfeited
 counterfeiter
 counterfeiters
 counterfeiting
+counterfeits
 counterfire
 counterfires
 counterflow
@@ -42144,6 +42149,7 @@ dispart
 disparted
 disparting
 disparts
+dispassion
 dispassionate
 dispassionately
 dispassions
@@ -46610,6 +46616,7 @@ electrolyte
 electrolytes
 electrolytic
 electrolyze
+electrolyzed
 electrolyzes
 electrolyzing
 electromagnetic
@@ -51388,6 +51395,7 @@ exile
 exiled
 exiler
 exilers
+exiles
 exilian
 exilic
 exiling
@@ -51409,6 +51417,7 @@ existentially
 existents
 existing
 exists
+exit
 exited
 exiting
 exitless
@@ -59197,6 +59206,7 @@ fustigation
 fustigations
 fustily
 fustiness
+fustinesses
 fusty
 fusulinid
 fusulinids
@@ -62892,6 +62902,7 @@ governmentese
 governmenteses
 governments
 governor
+governorate
 governorates
 governors
 governorship
@@ -68201,6 +68212,7 @@ hippy
 hips
 hipshot
 hipster
+hipsterism
 hipsterisms
 hipsters
 hiragana
@@ -72856,6 +72868,7 @@ incapableness
 incapablenesses
 incapably
 incapacitate
+incapacitated
 incapacitates
 incapacitating
 incapacitation
@@ -74058,6 +74071,7 @@ infinities
 infinitival
 infinitive
 infinitively
+infinitives
 infinitude
 infinitudes
 infinity
@@ -75297,6 +75311,7 @@ intensely
 intenseness
 intensenesses
 intenser
+intensest
 intensification
 intensified
 intensifier
@@ -77258,6 +77273,7 @@ isomerization
 isomerizations
 isomerize
 isomerized
+isomerizes
 isomerizing
 isomerous
 isomers
@@ -79050,6 +79066,7 @@ kamik
 kamikaze
 kamikazes
 kampong
+kampongs
 kamseen
 kamseens
 kamsin
@@ -80127,6 +80144,7 @@ kluges
 kluging
 klutz
 klutzes
+klutzier
 klutziest
 klutziness
 klutzinesses
@@ -80656,6 +80674,7 @@ kymographs
 kymography
 kyphoses
 kyphosis
+kyphotic
 kyrie
 kyries
 kyte
@@ -81296,6 +81315,7 @@ landscapes
 landscaping
 landscapist
 landscapists
+landside
 landsides
 landskip
 landskips
@@ -100642,6 +100662,7 @@ oleander
 oleanders
 oleandomycins
 oleaster
+oleasters
 oleate
 oleates
 olecranal
@@ -104627,6 +104648,7 @@ overprogramming
 overprograms
 overpromise
 overpromises
+overpromising
 overpromoted
 overpromotes
 overpromoting
@@ -108501,6 +108523,7 @@ pens
 pensee
 pensees
 pensil
+pensile
 pensils
 pension
 pensionable
@@ -110030,6 +110053,7 @@ philosophies
 philosophise
 philosophises
 philosophising
+philosophize
 philosophized
 philosophizer
 philosophizers
@@ -111603,6 +111627,7 @@ pisciform
 piscina
 piscinae
 piscinal
+piscinas
 piscine
 piscivore
 piscivores
@@ -114292,6 +114317,7 @@ postindustrial
 postinfection
 posting
 postings
+postinjection
 postinoculation
 postins
 postique
@@ -114352,6 +114378,7 @@ postpone
 postponed
 postponement
 postponements
+postponers
 postpones
 postponing
 postpose
@@ -115046,6 +115073,7 @@ prebuying
 prebuys
 precalculi
 precalculus
+precalculuses
 precancel
 precanceled
 precanceling
@@ -134883,6 +134911,7 @@ senior
 seniorities
 seniority
 seniors
+seniti
 senna
 sennachies
 sennas
@@ -145588,6 +145617,7 @@ stud
 studbook
 studbooks
 studded
+studdie
 studdies
 studding
 studdings
@@ -145665,6 +145695,7 @@ stumpy
 stums
 stun
 stung
+stunk
 stunned
 stunners
 stunning
@@ -155548,6 +155579,7 @@ transform
 transformable
 transformation
 transformations
+transformative
 transformed
 transformer
 transformers
@@ -156480,6 +156512,7 @@ trigrams
 trigraph
 trigraphic
 trigraphs
+trigs
 trihalomethanes
 trihedra
 trihedral
@@ -166578,6 +166611,7 @@ wardship
 wared
 warehouse
 warehouseman
+warehousemen
 warehouser
 warehousers
 warehouses
@@ -166639,6 +166673,7 @@ warned
 warner
 warners
 warning
+warningly
 warnings
 warns
 warp
