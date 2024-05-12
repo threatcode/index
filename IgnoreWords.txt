@@ -3608,6 +3608,7 @@ almshouses
 almsmen
 almuce
 almuces
+almud
 almude
 almudes
 almuds
@@ -4389,6 +4390,7 @@ amps
 ampul
 ampule
 ampules
+ampulla
 ampullae
 ampullar
 ampullary
@@ -4961,6 +4963,7 @@ angelus
 anger
 angered
 angering
+angerless
 angerly
 angers
 angina
@@ -11527,6 +11530,7 @@ basify
 basifying
 basil
 basilar
+basilary
 basilect
 basilects
 basilic
@@ -22028,6 +22032,7 @@ cassena
 cassenas
 cassene
 cassenes
+casserole
 cassette
 cassettes
 cassia
@@ -30122,6 +30127,7 @@ connubialities
 connubiality
 connubially
 conodont
+conodonts
 conoidal
 conoids
 conominee
@@ -30339,6 +30345,7 @@ constables
 constabularies
 constabulary
 constancies
+constancy
 constant
 constantan
 constantans
@@ -31160,6 +31167,7 @@ copals
 coparcenaries
 coparcenary
 coparcener
+coparceners
 coparent
 coparented
 coparenting
@@ -44694,6 +44702,7 @@ drowning
 drowns
 drowse
 drowsed
+drowses
 drowsier
 drowsiest
 drowsily
@@ -46808,6 +46817,7 @@ eliminative
 eliminator
 eliminators
 elint
+elints
 elision
 elisions
 elite
@@ -52982,6 +52992,7 @@ fannies
 fanning
 fanny
 fanon
+fanons
 fanos
 fans
 fantabulous
@@ -53887,6 +53898,7 @@ fenestrae
 fenestral
 fenestrate
 fenestrated
+fenestration
 fenestrations
 fenland
 fenlands
@@ -62287,6 +62299,7 @@ gnarl
 gnarled
 gnarlier
 gnarliest
+gnarling
 gnarls
 gnarly
 gnarr
@@ -65593,6 +65606,7 @@ hamsters
 hamstring
 hamstringing
 hamstrings
+hamstrung
 hamular
 hamulate
 hamuli
@@ -65843,6 +65857,7 @@ hanumans
 hao
 haoles
 hap
+hapax
 hapaxes
 haphazard
 haphazardness
@@ -84171,6 +84186,7 @@ liturgisms
 liturgists
 liturgy
 livabilities
+livability
 livable
 livableness
 livablenesses
@@ -84446,6 +84462,7 @@ lockdowns
 locked
 locker
 lockers
+locket
 lockets
 locking
 lockjaw
@@ -87592,6 +87609,7 @@ maryjane
 maryjanes
 marzipan
 marzipans
+mas
 masa
 masala
 masalas
@@ -87748,6 +87766,7 @@ masterships
 mastersinger
 mastersingers
 masterstroke
+masterstrokes
 masterwork
 masterworks
 mastery
@@ -90898,6 +90917,7 @@ miniscule
 miniscules
 miniseries
 minish
+minished
 minishes
 minishing
 miniski
@@ -94863,6 +94883,7 @@ musicalise
 musicalises
 musicalising
 musicalities
+musicality
 musicalization
 musicalizations
 musicalize
@@ -102610,6 +102631,7 @@ outfast
 outfasted
 outfasting
 outfasts
+outfawn
 outfawned
 outfawning
 outfawns
@@ -103937,6 +103959,7 @@ overconfidences
 overconfident
 overconfidently
 overconscious
+overconstruct
 overconstructed
 overconstructs
 overconsume
@@ -105234,6 +105257,7 @@ overworking
 overworks
 overworn
 overwound
+overwrite
 overwrites
 overwriting
 overwritten
@@ -114679,6 +114703,7 @@ pottle
 pottles
 potto
 pottos
+potty
 potzers
 pouched
 pouches
@@ -120716,6 +120741,7 @@ quixotisms
 quixotries
 quixotry
 quiz
+quizmaster
 quizmasters
 quizzed
 quizzer
@@ -122797,6 +122823,7 @@ rechange
 rechanged
 rechanges
 rechanging
+rechannel
 rechanneled
 rechanneling
 rechannelled
@@ -125143,6 +125170,7 @@ reintroduction
 reintroductions
 reinvade
 reinvaded
+reinvades
 reinvasion
 reinvasions
 reinvent
@@ -125618,6 +125646,7 @@ remarries
 remarry
 remarrying
 remaster
+remastered
 remastering
 remasters
 rematched
@@ -129250,6 +129279,7 @@ rinse
 rinsed
 rinser
 rinsers
+rinses
 rinsing
 rinsings
 rioja
@@ -132031,6 +132061,7 @@ sardiuses
 sardonic
 sardonically
 sardonicism
+sardonyx
 sardonyxes
 saree
 sarees
@@ -135004,6 +135035,7 @@ senores
 senorita
 senoritas
 senors
+senryu
 sensa
 sensate
 sensated
@@ -137515,6 +137547,7 @@ sightlessness
 sightlessnesses
 sightlier
 sightliest
+sightline
 sightlines
 sightliness
 sightlinesses
@@ -150222,6 +150255,7 @@ talkies
 talkiest
 talkiness
 talkinesses
+talking
 talkings
 talks
 talky
@@ -170999,6 +171033,7 @@ zirconium
 zirconiums
 zircons
 zit
+zither
 zitherist
 zitherists
 zithern
