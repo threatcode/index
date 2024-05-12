@@ -2256,6 +2256,7 @@ ageings
 ageism
 ageisms
 ageist
+ageists
 ageless
 agelessly
 agelessness
@@ -8856,6 +8857,7 @@ attars
 attemper
 attempered
 attempers
+attempt
 attemptable
 attempted
 attempter
@@ -16451,6 +16453,7 @@ boons
 boor
 boorish
 boorishly
+boorishness
 boorishnesses
 boors
 boos
@@ -18677,6 +18680,7 @@ bulla
 bullace
 bullaces
 bullae
+bullate
 bullbaitings
 bullbat
 bullbats
@@ -26773,6 +26777,7 @@ clutch
 clutched
 clutches
 clutching
+clutchy
 clutter
 cluttered
 cluttering
@@ -26885,6 +26890,7 @@ coalpit
 coalpits
 coals
 coalsack
+coalsacks
 coalshed
 coalsheds
 coaly
@@ -28533,6 +28539,7 @@ commercial
 commercialise
 commercialised
 commercialises
+commercialising
 commercialism
 commercialisms
 commercialistic
@@ -30524,6 +30531,7 @@ contester
 contesters
 contesting
 contests
+context
 contextless
 contexts
 contextual
@@ -33322,6 +33330,7 @@ crenature
 crenatures
 crenel
 crenelate
+crenelated
 crenelates
 crenelating
 crenelation
@@ -34831,6 +34840,7 @@ curter
 curtesies
 curtest
 curtesy
+curtilage
 curtilages
 curtly
 curtness
@@ -45755,6 +45765,7 @@ eclamptic
 eclat
 eclats
 eclectic
+eclectically
 eclecticisms
 eclectics
 eclipse
@@ -46144,6 +46155,7 @@ effortfulnesses
 effortless
 effortlessly
 effortlessness
+efforts
 effronteries
 effrontery
 effs
@@ -54568,6 +54580,7 @@ filmy
 filo
 filoplume
 filoplumes
+filopodia
 filopodium
 filos
 filose
@@ -56670,6 +56683,7 @@ footballs
 footbaths
 footboard
 footboards
+footboy
 footboys
 footbridge
 footbridges
@@ -62064,6 +62078,7 @@ glyceraldehyde
 glyceraldehydes
 glyceric
 glyceride
+glycerides
 glyceridic
 glycerin
 glycerinate
@@ -69987,6 +70002,7 @@ huntings
 huntress
 huntresses
 huntsman
+huntsmen
 hup
 huppah
 huppahs
@@ -79014,6 +79030,7 @@ kasbahs
 kashas
 kasher
 kashered
+kashering
 kashers
 kashmir
 kashmirs
@@ -81676,6 +81693,7 @@ laughers
 laughing
 laughings
 laughingstock
+laughingstocks
 laughline
 laughlines
 laughs
@@ -83231,6 +83249,7 @@ liking
 likings
 likuta
 lilac
+lilacs
 lilangeni
 lilied
 lilies
@@ -90202,6 +90221,7 @@ mildens
 milder
 mildest
 mildew
+mildewed
 mildewing
 mildews
 mildewy
@@ -98867,6 +98887,7 @@ notability
 notable
 notableness
 notablenesses
+notables
 notably
 notal
 notarial
@@ -101514,6 +101535,7 @@ ornithischian
 ornithischians
 ornithoid
 ornithologic
+ornithological
 ornithologies
 ornithologist
 ornithologists
@@ -118618,6 +118640,7 @@ publicizes
 publicizing
 publicly
 publicness
+publicnesses
 publics
 publish
 publishable
@@ -121624,6 +121647,7 @@ ravishers
 ravishes
 ravishing
 ravishingly
+ravishment
 ravishments
 rawer
 rawest
@@ -124738,6 +124762,7 @@ reinnervated
 reinnervating
 reinnervation
 reinnervations
+reinoculate
 reinoculated
 reinoculates
 reinoculating
@@ -130190,6 +130215,7 @@ ruggedize
 ruggedized
 ruggedizes
 ruggedizing
+ruggedly
 ruggedness
 ruggednesses
 rugger
@@ -131572,6 +131598,7 @@ saponites
 sapor
 saporific
 saporous
+sapors
 sapota
 sapotas
 sapote
@@ -137337,6 +137364,7 @@ silkily
 silkiness
 silkinesses
 silking
+silklike
 silkoline
 silks
 silkweed
@@ -142337,6 +142365,7 @@ sporing
 sporocarp
 sporocarps
 sporocyst
+sporocysts
 sporogeneses
 sporogenic
 sporogenous
@@ -145865,6 +145894,7 @@ subglacial
 subgoal
 subgoals
 subgovernment
+subgovernments
 subgrade
 subgrades
 subgraph
@@ -149440,6 +149470,7 @@ tablet
 tableted
 tableting
 tabletops
+tablets
 tabletted
 tableware
 tablewares
@@ -164858,6 +164889,7 @@ vinosity
 vinous
 vinously
 vintage
+vintager
 vintagers
 vintages
 vintner
@@ -165664,6 +165696,7 @@ vowing
 vowless
 vows
 vox
+voyage
 voyaged
 voyager
 voyages
@@ -169629,6 +169662,7 @@ xiphoid
 xiphoids
 xu
 xylan
+xylans
 xylem
 xylems
 xylene
@@ -170007,6 +170041,7 @@ yieldable
 yielded
 yielder
 yielders
+yielding
 yikes
 yill
 yills
