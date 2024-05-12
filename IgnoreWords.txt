@@ -8287,10 +8287,12 @@ assentations
 assented
 assenter
 assenters
+assenting
 assentive
 assentor
 assentors
 assents
+assert
 asserted
 assertedly
 asserter
@@ -18332,6 +18334,7 @@ brusquenesses
 brusqueries
 brusquest
 brut
+brutalise
 brutalised
 brutalises
 brutalising
@@ -24823,6 +24826,7 @@ cholesteric
 cholesterol
 cholestyramine
 cholestyramines
+choline
 cholinergic
 cholinergically
 cholines
@@ -30623,6 +30627,7 @@ contraceptives
 contract
 contracted
 contractibility
+contractible
 contractile
 contractilities
 contractility
@@ -31170,6 +31175,7 @@ coppersmith
 coppersmiths
 coppery
 coppice
+coppiced
 coppices
 coppicing
 copping
@@ -31206,7 +31212,9 @@ coproducing
 coproduct
 coproduction
 coproductions
+coproducts
 coprolite
+coprolites
 coprolitic
 coprologies
 coprology
@@ -31993,6 +32001,7 @@ costarred
 costarring
 costars
 costate
+costed
 coster
 costermonger
 costermongers
@@ -32793,6 +32802,7 @@ coxalgies
 coxalgy
 coxcomb
 coxcombic
+coxcombical
 coxcombries
 coxcombry
 coxcombs
@@ -40013,6 +40023,7 @@ diamin
 diamine
 diamines
 diamins
+diamond
 diamondback
 diamondbacks
 diamonded
@@ -40832,6 +40843,7 @@ dinners
 dinnertime
 dinnertimes
 dinnerware
+dinnerwares
 dinning
 dino
 dinoflagellate
@@ -45415,6 +45427,7 @@ dystocias
 dystonia
 dystonias
 dystonic
+dystopia
 dystopian
 dystopias
 dystrophic
@@ -52532,6 +52545,7 @@ faery
 fagged
 faggier
 faggiest
+fagging
 faggoted
 faggoting
 faggotings
@@ -56933,6 +56947,7 @@ forecourt
 forecourts
 foredate
 foredated
+foredates
 foredeck
 foredecks
 foredid
@@ -57903,6 +57918,7 @@ freakout
 freakouts
 freaks
 freaky
+freckle
 freckled
 freckles
 frecklier
@@ -65494,6 +65510,7 @@ handcuff
 handcuffed
 handcuffing
 handcuffs
+handed
 handedness
 handednesses
 hander
@@ -70827,6 +70844,7 @@ hypocentral
 hypochlorite
 hypochlorites
 hypochondria
+hypochondriac
 hypochondriacal
 hypochondriacs
 hypochondrias
@@ -84480,6 +84498,7 @@ loiterers
 loitering
 loiters
 loll
+lolled
 loller
 lollers
 lollies
@@ -96515,6 +96534,7 @@ neutron
 neutronic
 neutrons
 neutrophil
+neutrophilic
 neutrophils
 neve
 never
@@ -99895,6 +99915,7 @@ obviations
 obviator
 obviators
 obvious
+obviously
 obviousness
 obviousnesses
 obvolute
@@ -108804,6 +108825,7 @@ peridotic
 peridotite
 peridotites
 peridotitic
+peridots
 perigeal
 perigean
 perigee
@@ -117505,6 +117527,7 @@ proofrooms
 proofs
 prop
 propaedeutic
+propaedeutics
 propagable
 propaganda
 propagandas
@@ -118782,6 +118805,7 @@ pulchritudes
 pulchritudinous
 pule
 puled
+puler
 pulers
 pules
 puli
@@ -119598,6 +119622,7 @@ pyromancy
 pyromania
 pyromaniac
 pyromaniacal
+pyromaniacs
 pyromanias
 pyrometallurgy
 pyrometer
@@ -119995,6 +120020,7 @@ quasars
 quash
 quashed
 quasher
+quashers
 quashes
 quashing
 quasi
@@ -124879,6 +124905,7 @@ reis
 reissue
 reissued
 reissuer
+reissuers
 reissues
 reissuing
 reitbok
@@ -125690,6 +125717,7 @@ renovative
 renovator
 renown
 renowned
+renowning
 renowns
 rent
 rentabilities
@@ -130729,6 +130757,7 @@ saddle
 saddlebag
 saddlebags
 saddlebow
+saddlebows
 saddlebred
 saddlebreds
 saddlecloth
@@ -131843,6 +131872,7 @@ satinette
 satinettes
 sating
 satinpod
+satinpods
 satins
 satinwood
 satinwoods
@@ -134889,6 +134919,7 @@ septicemias
 septicemic
 septicidal
 septicities
+septicity
 septics
 septillion
 septillions
@@ -142150,6 +142181,7 @@ splendors
 splendour
 splendours
 splendrous
+splenectomies
 splenectomize
 splenectomized
 splenectomizes
@@ -142882,6 +142914,7 @@ squegging
 squegs
 squelch
 squelched
+squelcher
 squelches
 squelchier
 squelchiest
@@ -143320,6 +143353,7 @@ standup
 stane
 staned
 stanes
+stang
 stanged
 stanging
 stangs
@@ -149395,6 +149429,7 @@ systematizers
 systematizes
 systematizing
 systemic
+systemically
 systemics
 systemization
 systemizations
