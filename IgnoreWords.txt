@@ -635,6 +635,7 @@ acedias
 aceldama
 aceldamas
 acellular
+acentric
 acephalic
 acephalous
 acequia
@@ -3320,6 +3321,7 @@ allegations
 allege
 alleged
 allegedly
+allegers
 alleges
 allegiance
 allegiances
@@ -6868,6 +6870,7 @@ apposers
 apposes
 apposing
 apposite
+appositely
 appositeness
 appositenesses
 apposition
@@ -9769,6 +9772,7 @@ awakeners
 awakening
 awakenings
 awakes
+awaking
 award
 awardable
 awarded
@@ -11436,6 +11440,7 @@ bartisans
 bartizan
 bartizans
 barware
+barwares
 barye
 baryes
 baryon
@@ -20391,6 +20396,7 @@ camera
 camerae
 cameral
 cameraman
+cameramen
 cameraperson
 camerapersons
 cameras
@@ -22076,6 +22082,7 @@ castoreum
 castors
 castrate
 castrated
+castrater
 castraters
 castrates
 castrati
@@ -24143,6 +24150,7 @@ chemosyntheses
 chemosynthesis
 chemosynthetic
 chemotactic
+chemotactically
 chemotaxes
 chemotaxis
 chemotaxonomic
@@ -29187,6 +29195,7 @@ computerphobes
 computerphobia
 computerphobias
 computerphobic
+computers
 computes
 computing
 computist
@@ -39746,6 +39755,7 @@ devisors
 devitalize
 devitalized
 devitalizes
+devitalizing
 devitrification
 devitrifies
 devitrify
@@ -41931,6 +41941,7 @@ disinclined
 disinclines
 disinclining
 disinfect
+disinfectant
 disinfected
 disinfecting
 disinfection
@@ -49615,6 +49626,7 @@ eremites
 eremitic
 eremitical
 eremitish
+eremitism
 eremitisms
 eremuri
 eremurus
@@ -66275,6 +66287,7 @@ hatmakers
 hatpin
 hatpins
 hatrack
+hatracks
 hatred
 hatreds
 hats
@@ -68064,6 +68077,7 @@ highting
 hightop
 hightops
 hights
+highway
 highwayman
 highwaymen
 highways
@@ -75909,6 +75923,7 @@ interpolators
 interpopulation
 interpose
 interposed
+interposer
 interposers
 interposes
 interposing
@@ -76516,6 +76531,7 @@ invasion
 invasions
 invasive
 invasiveness
+invasivenesses
 invected
 invective
 invectively
@@ -82439,6 +82455,7 @@ leghorns
 legibilities
 legibility
 legible
+legibly
 legion
 legionaries
 legionary
@@ -85359,6 +85376,7 @@ luminisms
 luminists
 luminosities
 luminosity
+luminous
 luminously
 luminousness
 luminousnesses
@@ -97022,6 +97040,7 @@ nightlives
 nightlong
 nightly
 nightmare
+nightmares
 nightmarish
 nightmarishly
 nights
@@ -100121,6 +100140,7 @@ occiput
 occiputs
 occlude
 occluded
+occludent
 occludes
 occluding
 occlusal
@@ -118290,6 +118310,7 @@ protoplanetary
 protoplanets
 protoplasm
 protoplasmic
+protoplasms
 protoplast
 protoplasts
 protopod
@@ -123005,6 +123026,7 @@ recommittals
 recommitted
 recommitting
 recompense
+recompensed
 recompenses
 recompensing
 recompilation
@@ -140809,6 +140831,7 @@ sometimes
 someway
 someways
 somewhat
+somewhats
 somewhen
 somewhere
 somewheres
@@ -142518,6 +142541,7 @@ splutterers
 spluttering
 splutters
 spluttery
+spode
 spodosol
 spodosols
 spodumene
@@ -145310,6 +145334,7 @@ stressors
 stretch
 stretchability
 stretchable
+stretched
 stretcher
 stretchering
 stretchers
@@ -145718,6 +145743,7 @@ stumped
 stumper
 stumpers
 stumpier
+stumpiest
 stumping
 stumps
 stumpy
@@ -145870,6 +145896,7 @@ suability
 suable
 suably
 suasion
+suasions
 suasive
 suasively
 suasiveness
@@ -148938,6 +148965,7 @@ swifters
 swiftest
 swiftlet
 swiftlets
+swiftly
 swiftness
 swiftnesses
 swifts
@@ -151623,6 +151651,7 @@ tenderizers
 tenderizes
 tenderizing
 tenderloin
+tenderloins
 tenderly
 tenderness
 tendernesses
@@ -156572,6 +156601,7 @@ triliterals
 trilith
 trilithon
 trilithons
+triliths
 trill
 trilled
 triller
@@ -160567,6 +160597,7 @@ ungainlier
 ungainliest
 ungainliness
 ungainlinesses
+ungainly
 ungallantly
 ungalled
 ungarbed
@@ -160951,6 +160982,7 @@ uniramous
 unironed
 unironic
 unironically
+unirradiated
 unirrigated
 unisex
 unisexes
@@ -166949,6 +166981,7 @@ watercourse
 watercourses
 watercraft
 watercrafts
+watercress
 watercresses
 waterdog
 waterdogs
@@ -168321,6 +168354,7 @@ wickings
 wickiup
 wickiups
 wickless
+wicks
 wickyup
 wickyups
 wicopies
@@ -170352,6 +170386,7 @@ yerk
 yerked
 yerking
 yerks
+yeses
 yeshiva
 yeshivah
 yeshivahs
