@@ -1990,6 +1990,7 @@ affaire
 affairs
 affect
 affectabilities
+affectability
 affectable
 affectation
 affectations
@@ -3862,6 +3863,7 @@ amateur
 amateurish
 amateurishly
 amateurishness
+amateurism
 amateurisms
 amateurs
 amative
@@ -5962,6 +5964,7 @@ antinome
 antinomes
 antinomian
 antinomianism
+antinomianisms
 antinomians
 antinomic
 antinomies
@@ -8529,6 +8532,7 @@ astigmatic
 astigmatics
 astigmatism
 astigmatisms
+astigmia
 astigmias
 astilbe
 astilbes
@@ -11698,6 +11702,7 @@ bathless
 bathmat
 bathmats
 batholith
+batholithic
 batholiths
 bathos
 bathoses
@@ -24371,6 +24376,7 @@ chick
 chickadee
 chickadees
 chickaree
+chickarees
 chickee
 chickees
 chicken
@@ -24541,6 +24547,7 @@ chimeric
 chimerical
 chimerically
 chimerism
+chimerisms
 chimers
 chimes
 chimichanga
@@ -27050,6 +27057,7 @@ coassumes
 coassuming
 coast
 coastal
+coastally
 coasted
 coaster
 coasters
@@ -29059,6 +29067,7 @@ complexest
 complexified
 complexifies
 complexify
+complexifying
 complexing
 complexion
 complexional
@@ -32546,6 +32555,7 @@ countersinks
 countersniper
 countersnipers
 counterspell
+counterspells
 counterspies
 counterspy
 counterstain
@@ -39611,6 +39621,7 @@ dethatches
 dethatching
 dethrone
 dethroned
+dethronement
 dethronements
 dethroner
 dethroners
@@ -43730,6 +43741,7 @@ dopers
 dopes
 dopesheet
 dopesheets
+dopester
 dopesters
 dopey
 dopeyness
@@ -45325,6 +45337,7 @@ durian
 durians
 during
 durion
+durions
 durmast
 durmasts
 durn
@@ -57706,6 +57719,7 @@ fortuned
 fortunes
 fortuning
 forty
+fortyish
 forum
 forums
 forward
@@ -58780,6 +58794,7 @@ fruitlessnesses
 fruitlet
 fruitlike
 fruits
+fruitwood
 fruitwoods
 fruity
 frumenties
@@ -66391,6 +66406,7 @@ hatchets
 hatching
 hatchings
 hatchling
+hatchlings
 hatchment
 hatchments
 hatchway
@@ -69478,6 +69494,7 @@ hormones
 hormonic
 horn
 hornbeam
+hornbeams
 hornbill
 hornbills
 hornblende
@@ -83926,6 +83943,7 @@ linotyped
 linotyper
 linotypers
 linotypes
+linotyping
 lins
 linsang
 linsangs
@@ -86142,6 +86160,7 @@ macromoles
 macronuclear
 macronuclei
 macronucleus
+macronutrient
 macronutrients
 macrophage
 macrophages
@@ -97621,6 +97640,7 @@ noma
 nomad
 nomadic
 nomadism
+nomadisms
 nomads
 nomarch
 nomarchies
@@ -100132,6 +100152,7 @@ obscurantic
 obscurantism
 obscurantisms
 obscurantist
+obscurantists
 obscurants
 obscuration
 obscurations
@@ -104823,6 +104844,7 @@ overpersuaded
 overpersuades
 overpersuading
 overpersuasion
+overpersuasions
 overpert
 overplaid
 overplaided
@@ -117605,6 +117627,7 @@ professorates
 professorial
 professorially
 professoriat
+professoriates
 professoriats
 professors
 professorship
@@ -119910,6 +119933,7 @@ putters
 putti
 puttie
 puttied
+puttier
 puttiers
 putties
 putting
@@ -127029,6 +127053,7 @@ reremice
 reremind
 rereminded
 rereminding
+rereminds
 reremouse
 rerent
 rerented
@@ -137258,6 +137283,7 @@ showcased
 showcases
 showcasing
 showdown
+showdowns
 showed
 shower
 showered
@@ -140308,6 +140334,7 @@ snoring
 snorkel
 snorkeled
 snorkeler
+snorkelers
 snorkeling
 snorkels
 snort
@@ -141687,6 +141714,7 @@ soymilks
 soys
 soyuz
 soyuzes
+sozin
 sozine
 sozines
 sozins
@@ -142114,6 +142142,7 @@ spectre
 spectres
 spectrogram
 spectrograms
+spectrograph
 spectrographic
 spectrographies
 spectrographs
@@ -142799,6 +142828,7 @@ splinting
 split
 splits
 splitter
+splitters
 splitting
 splodge
 splodged
@@ -146201,6 +146231,7 @@ suave
 suavely
 suaveness
 suavenesses
+suaver
 suavities
 suavity
 sub
@@ -153167,6 +153198,7 @@ thinkingly
 thinkingness
 thinkingnesses
 thinkings
+thinks
 thinly
 thinned
 thinner
@@ -153403,6 +153435,7 @@ threaping
 threaps
 threat
 threated
+threaten
 threatened
 threatener
 threatening
@@ -161620,6 +161653,7 @@ unmeant
 unmeasurable
 unmeasured
 unmechanized
+unmediated
 unmedicated
 unmeet
 unmeetly
@@ -169538,6 +169572,7 @@ wollastonite
 wollastonites
 wolver
 wolverine
+wolvers
 wolves
 woman
 womaned
