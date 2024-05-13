@@ -2057,6 +2057,7 @@ affirmants
 affirmation
 affirmations
 affirmative
+affirmatively
 affirmatives
 affirmed
 affirmer
@@ -6905,6 +6906,7 @@ appositional
 appositions
 appositive
 appositively
+appositives
 appraisal
 appraisals
 appraise
@@ -16247,6 +16249,7 @@ bomber
 bombers
 bombes
 bombesin
+bombesins
 bombinate
 bombinated
 bombinates
@@ -31520,6 +31523,7 @@ coralberry
 coralline
 corallines
 coralloid
+coralroot
 coralroots
 corals
 coranto
@@ -34991,6 +34995,7 @@ currencies
 currency
 current
 currently
+currentness
 currentnesses
 currents
 curricle
@@ -35397,6 +35402,7 @@ cycleways
 cyclic
 cyclical
 cyclicalities
+cyclicality
 cyclically
 cyclicals
 cyclicities
@@ -42096,6 +42102,7 @@ dishwaters
 dishy
 disillusioned
 disillusioning
+disillusionment
 disillusions
 disincentive
 disincentives
@@ -51820,6 +51827,7 @@ expatriations
 expatriatism
 expatriatisms
 expats
+expectable
 expectably
 expectance
 expectances
@@ -52623,6 +52631,7 @@ eyewink
 eyewinks
 eyewitness
 eyewitnesses
+eying
 eyne
 eyra
 eyras
@@ -53389,6 +53398,7 @@ fascicule
 fascicules
 fasciculi
 fasciculus
+fasciitis
 fasciitises
 fascinate
 fascinated
@@ -57460,6 +57470,7 @@ forestall
 forestalled
 forestaller
 forestallers
+forestalling
 forestallment
 forestallments
 forestalls
@@ -57798,6 +57809,7 @@ forts
 fortuities
 fortuitous
 fortuitously
+fortuitousness
 fortuity
 fortunate
 fortunately
@@ -60033,6 +60045,7 @@ gamopetalous
 gamp
 gamps
 gams
+gamut
 gamuts
 gamy
 gan
@@ -68387,6 +68400,7 @@ hilloes
 hilloing
 hillos
 hills
+hillside
 hillsides
 hillslope
 hillslopes
@@ -73175,6 +73189,7 @@ incarcerates
 incarcerating
 incarceration
 incarcerations
+incardination
 incardinations
 incarnadine
 incarnadined
@@ -77104,6 +77119,7 @@ ionogenic
 ionogens
 ionomers
 ionone
+ionones
 ionophore
 ionosonde
 ionosondes
@@ -88784,6 +88800,7 @@ meditativeness
 meditator
 meditators
 mediterranean
+medium
 mediumistic
 mediums
 mediumship
@@ -90261,6 +90278,7 @@ microcap
 microcapsule
 microcapsules
 microcassette
+microcassettes
 microcephalic
 microcephalics
 microcephalies
@@ -92917,6 +92935,7 @@ moiling
 moilingly
 moils
 moira
+moirai
 moire
 moires
 moist
@@ -97533,6 +97552,7 @@ niobous
 nipa
 nipas
 nipped
+nippers
 nippier
 nippiest
 nippily
@@ -98429,6 +98449,7 @@ nonfans
 nonfarm
 nonfarmer
 nonfarmers
+nonfat
 nonfatal
 nonfattening
 nonfatty
@@ -101321,6 +101342,7 @@ ongoingnesses
 onion
 onions
 onionskin
+onionskins
 oniony
 onium
 onlay
@@ -103902,6 +103924,7 @@ outwalked
 outwalking
 outwalks
 outwar
+outward
 outwardly
 outwardness
 outwardnesses
@@ -105297,6 +105320,7 @@ oversoul
 oversouls
 overspecialize
 overspecialized
+overspecializes
 overspeculate
 overspeculated
 overspeculates
@@ -110376,6 +110400,7 @@ phenetols
 phenix
 phenixes
 phenmetrazine
+phenmetrazines
 phenobarbital
 phenobarbitals
 phenobarbitone
@@ -111285,6 +111310,7 @@ piciform
 pick
 pickaback
 pickabacked
+pickabacking
 pickabacks
 pickadils
 pickaninnies
@@ -114475,6 +114501,7 @@ porringer
 porringers
 port
 portabella
+portabellas
 portabello
 portabellos
 portabilities
@@ -120501,6 +120528,7 @@ quadrumvirs
 quadruped
 quadrupedal
 quadrupeds
+quadruple
 quadrupled
 quadruples
 quadruplet
@@ -123019,6 +123047,7 @@ reboring
 reborn
 rebottle
 rebottled
+rebottles
 rebottling
 rebought
 rebound
@@ -124027,6 +124056,7 @@ redeploys
 redeposit
 redeposited
 redepositing
+redeposits
 redes
 redescend
 redescended
@@ -125523,6 +125553,7 @@ reinks
 reinless
 reinnervate
 reinnervated
+reinnervates
 reinnervating
 reinnervation
 reinnervations
@@ -125960,6 +125991,7 @@ relivable
 relive
 relives
 reliving
+relleno
 rellenos
 reload
 reloaded
@@ -134974,6 +135006,7 @@ seignior
 seigniorage
 seigniorages
 seigniories
+seigniors
 seigniory
 seignorage
 seignorages
@@ -147367,6 +147400,7 @@ subterraneous
 subterraneously
 subtest
 subtests
+subtext
 subtexts
 subtextual
 subtheme
@@ -150338,6 +150372,7 @@ tabanid
 tabanids
 tabard
 tabarded
+tabards
 tabaret
 tabarets
 tabbed
