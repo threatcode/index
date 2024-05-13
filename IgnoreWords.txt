@@ -2622,6 +2622,7 @@ aider
 aiders
 aides
 aiding
+aidless
 aidman
 aidmen
 aids
@@ -3208,6 +3209,7 @@ alignments
 aligns
 alike
 alikeness
+alikenesses
 aliment
 alimental
 alimentary
@@ -6082,6 +6084,7 @@ antiquary
 antiquate
 antiquated
 antiquates
+antiquating
 antiquation
 antiquations
 antique
@@ -14279,6 +14282,7 @@ binocularly
 binoculars
 binomial
 binomially
+binomials
 bins
 bint
 bints
@@ -14518,6 +14522,7 @@ biosynthetic
 biosystematic
 biosystematics
 biosystematist
+biosystematists
 biota
 biotas
 biotech
@@ -16530,6 +16535,7 @@ bookstore
 bookstores
 bookworm
 bookworms
+boom
 boombox
 boomboxes
 boomed
@@ -23467,6 +23473,7 @@ chalet
 chalets
 chalice
 chaliced
+chalices
 chalkboard
 chalkboards
 chalked
@@ -25894,6 +25901,7 @@ citeable
 cited
 citer
 citers
+cites
 cithara
 citharas
 cither
@@ -35542,6 +35550,7 @@ cymbaleer
 cymbaleers
 cymbaler
 cymbalers
+cymbalist
 cymbalists
 cymbalom
 cymbaloms
@@ -39755,6 +39764,7 @@ detox
 detoxed
 detoxes
 detoxicant
+detoxicants
 detoxicate
 detoxicated
 detoxicates
@@ -43506,6 +43516,7 @@ dogsledders
 dogsledding
 dogsleds
 dogteeth
+dogtooth
 dogtrot
 dogtrots
 dogtrotted
@@ -44412,6 +44423,7 @@ dragooning
 dragrope
 dragropes
 drags
+dragster
 dragsters
 dragstrip
 dragstrips
@@ -55479,6 +55491,7 @@ fixing
 fixings
 fixit
 fixities
+fixity
 fixt
 fixture
 fixtures
@@ -62787,6 +62800,7 @@ goggled
 goggler
 gogglers
 goggles
+gogglier
 goggliest
 goggling
 goggly
@@ -63012,6 +63026,7 @@ gooneys
 goonie
 goonier
 goonies
+gooniest
 goons
 goony
 goop
@@ -69684,6 +69699,7 @@ hornier
 horniest
 hornily
 horniness
+horninesses
 horning
 hornings
 hornist
@@ -71603,6 +71619,7 @@ iconicities
 iconicity
 iconoclasm
 iconoclasms
+iconoclast
 iconoclastic
 iconoclasts
 iconographers
@@ -73802,6 +73819,7 @@ indentions
 indentors
 indenture
 indentured
+indentures
 indenturing
 independence
 independences
@@ -74285,6 +74303,7 @@ inexpressible
 inexpressibly
 inexpressive
 inexpressively
+inexpugnable
 inexpugnably
 inexpungible
 inextricability
@@ -79528,6 +79547,7 @@ karateist
 karateists
 karates
 karats
+karma
 karmas
 karmic
 karn
@@ -82167,6 +82187,7 @@ lathyritic
 lati
 latices
 laticifer
+laticifers
 latifundia
 latifundio
 latifundios
@@ -82980,6 +83001,7 @@ lemonade
 lemonades
 lemongrass
 lemongrasses
+lemonish
 lemonlike
 lemons
 lemony
@@ -86496,6 +86518,7 @@ mads
 madtom
 madtoms
 maduro
+maduros
 madwoman
 madwomen
 madwort
@@ -88398,6 +88421,7 @@ mature
 matured
 maturely
 maturer
+maturers
 matures
 maturest
 maturing
@@ -88495,6 +88519,7 @@ maximal
 maximalist
 maximalists
 maximally
+maximals
 maximin
 maximins
 maximise
@@ -103843,6 +103868,7 @@ outsprung
 outstand
 outstanding
 outstandingly
+outstands
 outstare
 outstared
 outstares
@@ -105216,6 +105242,7 @@ overpumped
 overpumping
 overpumps
 overqualified
+overquick
 overran
 overrank
 overrash
@@ -112129,6 +112156,7 @@ pipier
 pipiest
 pipiness
 pipinesses
+piping
 pipingly
 pipings
 pipistrel
@@ -117086,6 +117114,7 @@ presurvey
 presurveyed
 presurveying
 presurveys
+presweeten
 presweetened
 presweetening
 presweetens
@@ -121585,6 +121614,7 @@ radioecology
 radioed
 radioelement
 radioelements
+radiogenic
 radiogram
 radiograms
 radiograph
@@ -127548,6 +127578,7 @@ resecuring
 resedas
 resee
 reseed
+reseeded
 reseeding
 reseeds
 reseeing
@@ -142694,6 +142725,7 @@ spermatogenesis
 spermatogenic
 spermatogonia
 spermatogonial
+spermatogonium
 spermatophore
 spermatophores
 spermatophyte
@@ -159459,6 +159491,7 @@ ulva
 ulvas
 um
 umami
+umamis
 umangite
 umangites
 umbel
@@ -165646,6 +165679,7 @@ vexilla
 vexillar
 vexillaries
 vexillary
+vexillate
 vexillologic
 vexillological
 vexillologist
@@ -170908,6 +170942,7 @@ xylophagous
 xylophone
 xylophones
 xylophonist
+xylophonists
 xylose
 xyloses
 xylotomies
