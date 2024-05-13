@@ -4231,6 +4231,7 @@ amnesias
 amnesic
 amnesics
 amnestic
+amnestied
 amnesties
 amnesty
 amnestying
@@ -5548,6 +5549,7 @@ anthodium
 anthological
 anthologies
 anthologist
+anthologists
 anthologize
 anthologized
 anthologizer
@@ -7593,6 +7595,7 @@ arithmetic
 arithmetical
 arithmetically
 arithmetician
+ark
 arkose
 arkoses
 arkosic
@@ -8102,6 +8105,7 @@ ascribe
 ascribed
 ascribes
 ascription
+ascriptions
 ascriptive
 ascus
 asdic
@@ -16825,8 +16829,10 @@ botcheries
 botchers
 botchery
 botches
+botchier
 botchiest
 botchily
+botching
 botchy
 botel
 botels
@@ -18829,6 +18835,7 @@ bulleted
 bulletin
 bulletined
 bulleting
+bulletins
 bulletproof
 bullets
 bullfighter
@@ -35097,6 +35104,7 @@ curtly
 curtness
 curtnesses
 curtsey
+curtseyed
 curtseying
 curtseys
 curtsied
@@ -38965,6 +38973,7 @@ depreciate
 depreciated
 depreciates
 depreciating
+depreciatingly
 depreciation
 depreciations
 depreciative
@@ -54333,6 +54342,7 @@ festally
 fester
 festered
 festering
+festers
 festinate
 festinated
 festinately
@@ -55019,6 +55029,7 @@ financiered
 financiering
 financiers
 financing
+financings
 finback
 finbacks
 finca
@@ -56017,6 +56028,7 @@ flew
 flews
 flex
 flexagon
+flexagons
 flexed
 flexes
 flexibilities
@@ -63119,6 +63131,7 @@ gospeller
 gospellers
 gospelly
 gospels
+gosports
 gossamer
 gossamers
 gossamery
@@ -64897,6 +64910,7 @@ gunfires
 gunflint
 gunflints
 gunfought
+gunite
 gunites
 gunkhole
 gunkholed
@@ -74928,6 +74942,7 @@ inlay
 inlayer
 inlayers
 inlaying
+inlays
 inlet
 inlets
 inletting
@@ -76915,6 +76930,7 @@ inventresses
 invents
 inverities
 inverity
+inverness
 invernesses
 inverse
 inversed
@@ -80371,6 +80387,7 @@ kinships
 kinsman
 kinsmen
 kinswoman
+kinswomen
 kiosk
 kiosks
 kip
@@ -84224,6 +84241,7 @@ lipolytic
 lipoma
 lipomas
 lipomata
+lipomatous
 lipophilic
 lipoprotein
 lipoproteins
@@ -88773,6 +88791,7 @@ medianly
 medians
 mediant
 mediants
+medias
 mediastina
 mediastinal
 mediastinum
@@ -95065,6 +95084,7 @@ muncher
 munchers
 munches
 munchies
+munching
 munchkin
 munchkins
 mundane
@@ -100809,6 +100829,7 @@ odea
 odeon
 odeons
 odes
+odeum
 odic
 odiferous
 odious
@@ -104779,6 +104800,7 @@ overhandled
 overhandles
 overhandling
 overhands
+overhang
 overhanging
 overhangs
 overhard
@@ -114742,6 +114764,7 @@ possibler
 possiblest
 possibly
 possum
+possums
 post
 postabortion
 postaccident
@@ -115859,6 +115882,7 @@ preconizing
 preconquest
 preconscious
 preconsciouses
+preconsciously
 preconsonantal
 preconstructed
 precontact
@@ -122848,6 +122872,7 @@ reapportionment
 reapportions
 reappraisal
 reappraisals
+reappraise
 reappraised
 reappraises
 reappraising
@@ -130983,6 +131008,7 @@ rubicund
 rubicundities
 rubicundity
 rubidic
+rubidium
 rubidiums
 rubied
 rubier
@@ -131729,6 +131755,7 @@ sagamores
 saganash
 saganashes
 sagas
+sagbut
 sagbuts
 sage
 sagebrush
@@ -132209,6 +132236,7 @@ samps
 samsara
 samsaras
 samshu
+samshus
 samurais
 sanative
 sanatoria
@@ -137146,6 +137174,7 @@ shiner
 shiners
 shines
 shingle
+shingled
 shingler
 shinglers
 shingles
@@ -150539,6 +150568,7 @@ taborine
 taborines
 taboring
 taborins
+tabors
 tabouleh
 taboulehs
 tabouli
@@ -155413,6 +155443,7 @@ topple
 toppled
 topples
 toppling
+tops
 topsail
 topsails
 topside
@@ -159368,6 +159399,7 @@ ultrarealisms
 ultrarealist
 ultrarealistic
 ultrared
+ultrareds
 ultrarefined
 ultrareliable
 ultrarich
@@ -163994,6 +164026,7 @@ urnlike
 urns
 urochord
 urochordate
+urochordates
 urochords
 urochrome
 urochromes
@@ -167946,6 +167979,7 @@ waxberry
 waxbill
 waxbills
 waxed
+waxen
 waxer
 waxers
 waxes
@@ -170537,6 +170571,7 @@ wrassles
 wrassling
 wrastle
 wrastled
+wrastles
 wrastling
 wrath
 wrathed
