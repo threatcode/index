@@ -2397,6 +2397,7 @@ aggrieving
 aggro
 aggros
 agha
+aghas
 aghast
 agile
 agilely
@@ -6587,6 +6588,7 @@ apologise
 apologised
 apologises
 apologising
+apologist
 apologists
 apologize
 apologized
@@ -7317,6 +7319,7 @@ archenteron
 archenterons
 archeologies
 archeology
+archer
 archerfish
 archerfishes
 archeries
@@ -8752,6 +8755,7 @@ atingle
 atlas
 atlases
 atlatl
+atlatls
 atma
 atman
 atmans
@@ -13373,6 +13377,7 @@ besmudges
 besmudging
 besmut
 besmuts
+besmutted
 besmutting
 besnow
 besnowed
@@ -16698,6 +16703,7 @@ borschts
 borsht
 borshts
 borstal
+borstals
 bort
 borts
 borty
@@ -19987,6 +19993,7 @@ cairngorm
 cairngorms
 cairns
 cairny
+caisson
 caissons
 caitiff
 caitiffs
@@ -24332,6 +24339,7 @@ chewiest
 chewiness
 chewinesses
 chewing
+chewink
 chewinks
 chewy
 chez
@@ -25198,6 +25206,7 @@ chroming
 chromings
 chromite
 chromites
+chromium
 chromiums
 chromize
 chromized
@@ -29798,6 +29807,7 @@ confidential
 confidentiality
 confidentially
 confidently
+confider
 confiders
 confides
 confiding
@@ -33560,6 +33570,7 @@ crepitation
 crepitations
 crepon
 crepons
+crept
 crepuscle
 crepuscles
 crepuscular
@@ -34560,6 +34571,7 @@ culices
 culicid
 culicids
 culicine
+culicines
 culinarian
 culinarians
 culinarily
@@ -35955,6 +35967,7 @@ danazol
 dance
 danceable
 danced
+dancer
 dancers
 dances
 dancing
@@ -40976,6 +40989,7 @@ dineric
 dinero
 dineros
 diners
+dines
 dinette
 dinettes
 ding
@@ -44189,6 +44203,7 @@ downwards
 downwash
 downwashes
 downwind
+downy
 downzone
 downzoned
 downzones
@@ -52829,6 +52844,7 @@ fainter
 fainters
 faintest
 fainthearted
+faintheartedly
 fainting
 faintish
 faintishness
@@ -62350,6 +62366,7 @@ gluteal
 glutei
 glutelin
 glutelins
+gluten
 glutenin
 glutenins
 glutenous
@@ -63998,6 +64015,7 @@ grinders
 grindery
 grinding
 grindingly
+grinds
 grindstone
 grindstones
 gringa
@@ -64081,6 +64099,7 @@ gritty
 grivet
 grivets
 grizzle
+grizzled
 grizzler
 grizzlers
 grizzles
@@ -78506,6 +78525,7 @@ jittering
 jitters
 jiujitsu
 jiujitsus
+jiujutsu
 jiujutsus
 jive
 jiveass
@@ -80318,6 +80338,7 @@ kitted
 kittel
 kitten
 kittened
+kittening
 kittenish
 kittenishly
 kittenishness
@@ -85326,6 +85347,7 @@ lovelessnesses
 lovelier
 lovelies
 loveliest
+lovelily
 loveliness
 lovelinesses
 lovelock
@@ -96742,6 +96764,7 @@ nervousness
 nervousnesses
 nervule
 nervules
+nervure
 nervures
 nervy
 nescience
@@ -112316,6 +112339,7 @@ plaintiffs
 plaintive
 plaintively
 plaintiveness
+plaintivenesses
 plaints
 plaister
 plaistered
@@ -114069,6 +114093,7 @@ pondered
 ponderer
 ponderers
 pondering
+ponderosa
 ponderosas
 ponderous
 ponderously
@@ -122101,6 +122126,7 @@ rationalises
 rationalising
 rationalism
 rationalisms
+rationalistic
 rationalists
 rationalities
 rationality
@@ -125593,6 +125619,7 @@ rekeyboard
 rekeyboarded
 rekeyboarding
 rekeyboards
+rekeyed
 rekeying
 rekeys
 rekindle
@@ -131874,6 +131901,7 @@ salve
 salved
 salver
 salverform
+salvers
 salves
 salvia
 salvias
@@ -138812,6 +138840,7 @@ skinflick
 skinflicks
 skinflint
 skinflints
+skinful
 skinfuls
 skinhead
 skinheads
@@ -139115,6 +139144,7 @@ slap
 slapdash
 slapdashes
 slaphappier
+slaphappiest
 slaphappy
 slapjack
 slapjacks
@@ -144070,6 +144100,7 @@ stanols
 stanza
 stanzaed
 stanzaic
+stanzas
 stapedectomies
 stapedectomy
 stapedes
@@ -147694,6 +147725,7 @@ sulfoxide
 sulfoxides
 sulfur
 sulfurate
+sulfurated
 sulfurating
 sulfured
 sulfuret
@@ -148401,6 +148433,7 @@ superphenomena
 superphenomenon
 superphosphate
 superphosphates
+superphysical
 superpimp
 superpimps
 superplane
@@ -150083,6 +150116,7 @@ synthetics
 synthpop
 synthpops
 synths
+syntonic
 syntonies
 syntony
 synura
@@ -155748,6 +155782,7 @@ trade
 tradeable
 tradecraft
 tradecrafts
+traded
 trademark
 trademarked
 trademarking
