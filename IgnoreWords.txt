@@ -8450,6 +8450,7 @@ assorters
 assorting
 assortment
 assortments
+assorts
 assuage
 assuaged
 assuagement
@@ -13045,6 +13046,7 @@ beneficent
 beneficently
 benefices
 beneficial
+beneficially
 beneficialness
 beneficiaries
 beneficiary
@@ -14899,6 +14901,7 @@ blackcocks
 blackdamp
 blackdamps
 blacked
+blacken
 blackened
 blackener
 blackening
@@ -17413,6 +17416,7 @@ brasilin
 brasilins
 brasils
 brass
+brassage
 brassages
 brassard
 brassards
@@ -17615,6 +17619,7 @@ bream
 breamed
 breaming
 breams
+breast
 breastbone
 breastbones
 breasted
@@ -19707,6 +19712,7 @@ cabinets
 cabinetwork
 cabinetworks
 cabining
+cabinmate
 cabinmates
 cabins
 cable
@@ -36767,6 +36773,7 @@ deceases
 deceasing
 decedent
 decedents
+deceit
 deceitful
 deceitfully
 deceitfulness
@@ -42046,6 +42053,7 @@ disinclines
 disinclining
 disinfect
 disinfectant
+disinfectants
 disinfected
 disinfecting
 disinfection
@@ -49289,6 +49297,7 @@ epigeic
 epigene
 epigeneses
 epigenesis
+epigenetic
 epigenetically
 epigenist
 epigenists
@@ -55047,6 +55056,7 @@ firebacks
 fireball
 fireballer
 fireballers
+fireballing
 fireballs
 firebase
 firebases
@@ -55522,6 +55532,7 @@ flamingo
 flamingoes
 flamingos
 flammabilities
+flammability
 flammable
 flammables
 flammed
@@ -73442,6 +73453,7 @@ incremental
 incrementalism
 incrementalisms
 incrementalist
+incrementalists
 incrementally
 increments
 increscent
@@ -76688,6 +76700,7 @@ invalidation
 invalidator
 invalidators
 invalided
+invaliding
 invalidism
 invalidisms
 invalidities
@@ -77832,6 +77845,7 @@ jading
 jadish
 jadishly
 jaditic
+jaeger
 jaegers
 jag
 jager
@@ -79619,6 +79633,7 @@ kentledges
 kep
 kephalin
 kephalins
+kepi
 kepis
 kepped
 keppen
@@ -89628,6 +89643,7 @@ metafictionist
 metafictionists
 metafictions
 metagalactic
+metagalaxy
 metage
 metageneses
 metagenesis
@@ -89637,6 +89653,7 @@ metages
 metal
 metalanguage
 metalanguages
+metaled
 metalhead
 metalheads
 metaling
@@ -95148,6 +95165,7 @@ must
 mustache
 mustached
 mustaches
+mustachio
 mustachios
 mustang
 mustangs
@@ -104617,6 +104635,7 @@ overimpress
 overimpressed
 overimpresses
 overimpressing
+overindulge
 overindulged
 overindulgence
 overindulgences
@@ -105635,6 +105654,7 @@ oxtails
 oxter
 oxters
 oxtongue
+oxtongues
 oxy
 oxyacetylene
 oxyacid
@@ -108687,6 +108707,7 @@ penchant
 penchants
 pencil
 penciled
+penciler
 pencilers
 penciling
 pencilings
@@ -118313,6 +118334,7 @@ prosecution
 prosecutions
 prosecutor
 prosecutorial
+prosecutors
 prosed
 proselyte
 proselyted
@@ -124090,6 +124112,7 @@ redtails
 redtop
 redtops
 redub
+redubbed
 redubbing
 redubs
 reduce
@@ -126964,6 +126987,7 @@ repumps
 repunctuation
 repunctuations
 repurchase
+repurchased
 repurchases
 repurchasing
 repurified
@@ -128047,6 +128071,7 @@ retches
 retching
 rete
 reteach
+reteaches
 reteaching
 reteam
 reteamed
@@ -132062,6 +132087,7 @@ sanguinarily
 sanguinary
 sanguine
 sanguinely
+sanguineness
 sanguinenesses
 sanguineous
 sanguines
@@ -137773,6 +137799,7 @@ sieged
 sieges
 sieging
 siemens
+sienite
 sienites
 sienna
 siennas
@@ -141710,6 +141737,7 @@ sovkhozes
 sovkhozy
 sovran
 sovranly
+sovrans
 sovranties
 sovranty
 sow
@@ -147315,6 +147343,7 @@ succeeding
 succeeds
 success
 successes
+successful
 successfully
 successfulness
 succession
@@ -150206,6 +150235,7 @@ tabouring
 tabours
 tabu
 tabued
+tabuing
 tabulable
 tabular
 tabularly
@@ -154332,6 +154362,7 @@ tirled
 tirling
 tirls
 tiro
+tiros
 tirrivee
 tirrivees
 tis
@@ -155238,6 +155269,7 @@ tortuously
 tortuousness
 tortuousnesses
 torture
+tortured
 torturer
 torturers
 tortures
@@ -156203,6 +156235,7 @@ transportation
 transportations
 transported
 transporter
+transporters
 transporting
 transports
 transposable
@@ -159940,6 +159973,7 @@ unconsumed
 unconsummated
 uncontainable
 uncontaminated
+uncontemplated
 uncontemporary
 uncontentious
 uncontested
@@ -163975,6 +164009,7 @@ vainglory
 vainly
 vainness
 vainnesses
+vair
 vairs
 vakeel
 vakeels
