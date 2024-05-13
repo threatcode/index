@@ -3247,6 +3247,7 @@ aliteracy
 aliterates
 aliunde
 alive
+aliveness
 alivenesses
 aliya
 aliyah
@@ -15883,6 +15884,7 @@ boa
 boar
 board
 boardable
+boarded
 boarder
 boarders
 boarding
@@ -26238,6 +26240,7 @@ clarinetist
 clarinetists
 clarinets
 clarinettists
+clarion
 clarioned
 clarionet
 clarionets
@@ -30100,6 +30103,7 @@ conglobe
 conglobed
 conglobes
 conglobing
+conglomerate
 conglomerated
 conglomerates
 conglomerateur
@@ -39185,6 +39189,7 @@ derisivenesses
 derisory
 derivable
 derivate
+derivates
 derivation
 derivational
 derivations
@@ -40633,6 +40638,7 @@ dictionary
 dictions
 dictum
 dictums
+dicty
 dictyosome
 dictyosomes
 dictyostele
@@ -42000,6 +42006,7 @@ disemploys
 disenable
 disenabled
 disenables
+disenabling
 disenchant
 disenchanted
 disenchanter
@@ -43548,6 +43555,7 @@ dogmatization
 dogmatizations
 dogmatize
 dogmatized
+dogmatizer
 dogmatizers
 dogmatizes
 dogmatizing
@@ -48288,6 +48296,7 @@ endopolyploidy
 endoproct
 endoprocts
 endorphins
+endorsable
 endorse
 endorsed
 endorsee
@@ -49481,6 +49490,7 @@ epigeneses
 epigenesis
 epigenetic
 epigenetically
+epigenic
 epigenist
 epigenists
 epigenous
@@ -59972,6 +59982,7 @@ gallinippers
 gallinule
 gallinules
 galliot
+galliots
 gallipot
 gallipots
 gallium
@@ -66206,6 +66217,7 @@ hankers
 hankie
 hankies
 hanking
+hanks
 hanky
 hansa
 hansas
@@ -68184,6 +68196,7 @@ heterokaryotic
 heterologous
 heterologously
 heterolyses
+heterolysis
 heteromorphic
 heteromorphism
 heteromorphisms
@@ -70120,6 +70133,7 @@ housefather
 housefathers
 houseflies
 housefly
+housefront
 housefronts
 houseful
 housefuls
@@ -73735,6 +73749,7 @@ incrusted
 incrusting
 incrusts
 incubate
+incubated
 incubates
 incubating
 incubation
@@ -80479,6 +80494,7 @@ kingsnake
 kingsnakes
 kingwood
 kingwoods
+kinin
 kinins
 kink
 kinkajou
@@ -81492,6 +81508,7 @@ lag
 lagan
 lagans
 lagend
+lagends
 lager
 lagered
 lagering
@@ -81834,6 +81851,7 @@ landmen
 landowner
 landowners
 landownership
+landownerships
 landowning
 landownings
 lands
@@ -87003,6 +87021,7 @@ malaccas
 malachite
 malachites
 malacological
+malacologies
 malacologist
 malacologists
 malacology
@@ -90888,6 +90907,7 @@ midtowns
 midwatch
 midwatches
 midway
+midways
 midweek
 midweekly
 midweeks
@@ -91234,6 +91254,7 @@ milord
 milords
 milos
 milpa
+milreis
 mils
 milt
 milted
@@ -94348,6 +94369,7 @@ motioning
 motionless
 motionlessly
 motionlessness
+motions
 motivate
 motivated
 motivates
@@ -100967,6 +100989,7 @@ oddness
 oddnesses
 odds
 oddsmaker
+oddsmakers
 ode
 odea
 odeon
@@ -108729,6 +108752,7 @@ pectinations
 pectines
 pectinesterase
 pectinesterases
+pectinous
 pectins
 pectize
 pectized
@@ -120246,6 +120270,7 @@ purportedly
 purporting
 purports
 purpose
+purposed
 purposeful
 purposefully
 purposefulness
@@ -126201,6 +126226,7 @@ reliable
 reliableness
 reliablenesses
 reliables
+reliably
 reliance
 reliances
 reliant
@@ -128968,6 +128994,7 @@ reusables
 reused
 reuses
 reusing
+reutilization
 reutilizations
 reutilize
 reutilized
@@ -133167,6 +133194,7 @@ savate
 savates
 save
 saveable
+saved
 saveloy
 saveloys
 saver
@@ -135349,6 +135377,7 @@ seismicities
 seismicity
 seismism
 seismisms
+seismogram
 seismograms
 seismograph
 seismographer
@@ -139471,6 +139500,7 @@ skydove
 skyed
 skyey
 skyhook
+skyhooks
 skyjack
 skyjackers
 skyjacking
@@ -153503,6 +153533,7 @@ theologue
 theologues
 theology
 theomachies
+theomachy
 theonomies
 theonomous
 theonomy
@@ -154290,6 +154321,7 @@ thunderbolt
 thunderbolts
 thunderclaps
 thundercloud
+thunderclouds
 thundered
 thunderer
 thunderers
@@ -157642,6 +157674,7 @@ trimnesses
 trimonthly
 trimorph
 trimorphic
+trimorphs
 trimotor
 trimotors
 trims
@@ -162828,6 +162861,7 @@ unripely
 unripened
 unripeness
 unripenesses
+unriper
 unripest
 unripped
 unripping
@@ -166734,6 +166768,7 @@ vivisectors
 vivisects
 vixen
 vixenish
+vixenly
 vixens
 vizard
 vizarded
