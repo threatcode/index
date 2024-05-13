@@ -14810,6 +14810,7 @@ bite
 biteable
 biteplate
 biteplates
+biter
 biters
 bites
 bitewing
@@ -20748,6 +20749,7 @@ candlelit
 candlenut
 candlenuts
 candlepin
+candlepins
 candlepower
 candlepowers
 candler
@@ -23992,6 +23994,7 @@ chattels
 chatter
 chatterbox
 chatterboxes
+chattered
 chatterer
 chatterers
 chattering
@@ -41159,6 +41162,7 @@ dinnerwares
 dinning
 dino
 dinoflagellate
+dinoflagellates
 dinos
 dinosaur
 dinosaurian
@@ -44354,6 +44358,7 @@ dozened
 dozening
 dozens
 dozenths
+dozer
 dozers
 dozes
 dozier
@@ -45820,6 +45825,7 @@ earful
 earfuls
 earing
 earings
+earl
 earlap
 earlaps
 earldom
@@ -47487,6 +47493,7 @@ embryo
 embryogeneses
 embryogenesis
 embryogenetic
+embryogenic
 embryogenies
 embryogeny
 embryoid
@@ -54543,6 +54550,7 @@ fewtrils
 fey
 feyer
 feyest
+feyly
 feyness
 feynesses
 fez
@@ -63739,6 +63747,7 @@ gratinee
 gratineed
 gratineeing
 gratinees
+grating
 gratingly
 gratis
 gratitude
@@ -64009,6 +64018,7 @@ greenskeepers
 greenstone
 greenstones
 greenstuff
+greenstuffs
 greensward
 greenswards
 greenth
@@ -74618,6 +74628,7 @@ informant
 informants
 informatics
 information
+informational
 informationally
 informations
 informative
@@ -95967,6 +95978,7 @@ nah
 naiad
 naiades
 naif
+naifs
 nail
 nailbiter
 nailbiters
@@ -99385,6 +99397,7 @@ nonuniversity
 nonuple
 nonuples
 nonurban
+nonurgent
 nonusable
 nonuse
 nonuser
@@ -106414,6 +106427,7 @@ palabras
 palace
 palaced
 palaces
+paladin
 paladins
 palaestra
 palaestrae
@@ -106619,6 +106633,7 @@ palmate
 palmated
 palmately
 palmation
+palmations
 palmed
 palmer
 palmers
@@ -107731,6 +107746,7 @@ parser
 parsers
 parses
 parsimonies
+parsimonious
 parsimoniously
 parsimony
 parsing
@@ -111644,6 +111660,7 @@ piddle
 piddled
 piddler
 piddlers
+piddles
 piddling
 piddly
 piddocks
@@ -118331,6 +118348,7 @@ promines
 promiscuities
 promiscuity
 promiscuous
+promiscuousness
 promise
 promised
 promisee
@@ -118344,6 +118362,7 @@ promisor
 promisors
 promissory
 promo
+promodern
 promoed
 promoing
 promontories
@@ -119881,6 +119900,7 @@ pumpkin
 pumpkinseed
 pumpkinseeds
 pumpless
+pumplike
 pumps
 pun
 puna
@@ -120232,6 +120252,7 @@ purtiest
 purty
 purulence
 purulences
+purulency
 purulent
 purvey
 purveyance
@@ -123858,6 +123879,7 @@ reconsiders
 reconsign
 reconsigning
 reconsigns
+reconsole
 reconsoled
 reconsoles
 reconsolidate
@@ -124440,6 +124462,7 @@ redonning
 redons
 redos
 redouble
+redoubled
 redoubler
 redoublers
 redoubling
@@ -130976,6 +130999,7 @@ routemen
 router
 routers
 routes
+routeway
 routeways
 routh
 rouths
@@ -131382,6 +131406,7 @@ rumply
 rumps
 rumpus
 rumpuses
+rumrunner
 rumrunners
 rums
 run
@@ -131897,6 +131922,7 @@ saggy
 sagier
 sagiest
 sagittal
+sagittally
 sagittaries
 sagittary
 sagittate
@@ -141944,6 +141970,7 @@ sorptive
 sorrel
 sorrels
 sorrier
+sorriest
 sorrily
 sorriness
 sorrinesses
@@ -148477,6 +148504,7 @@ superagent
 superagents
 superalloy
 superalloys
+superaltern
 superalterns
 superambitious
 superannuate
@@ -148515,6 +148543,7 @@ superbureaucrat
 supercabinets
 supercalender
 supercalendered
+supercalenders
 supercar
 supercargo
 supercargoes
@@ -154159,6 +154188,7 @@ thugs
 thuja
 thujas
 thulia
+thulias
 thulium
 thuliums
 thumb
@@ -155058,6 +155088,7 @@ toehold
 toeholds
 toeing
 toeless
+toenail
 toenailed
 toenailing
 toenails
@@ -155712,6 +155743,7 @@ torsade
 torsades
 torse
 torses
+torsi
 torsion
 torsional
 torsionally
@@ -159529,6 +159561,7 @@ ultrarealism
 ultrarealisms
 ultrarealist
 ultrarealistic
+ultrarealists
 ultrared
 ultrareds
 ultrarefined
@@ -159699,6 +159732,7 @@ unaccountably
 unaccounted
 unaccredited
 unaccrued
+unacculturated
 unaccustomed
 unaccustomedly
 unacerbic
@@ -168146,6 +168180,7 @@ waybills
 wayfarer
 wayfarers
 wayfaring
+wayfarings
 waygoing
 waygoings
 waylaid
