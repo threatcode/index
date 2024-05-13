@@ -1153,6 +1153,7 @@ acylated
 acylates
 acylating
 acylation
+acylations
 acyloin
 acyloins
 acyls
@@ -26678,6 +26679,7 @@ clonings
 clonism
 clonisms
 clonk
+clonked
 clonking
 clons
 clonus
@@ -40666,6 +40668,7 @@ diffusions
 diffusive
 diffusively
 diffusiveness
+diffusivenesses
 diffusivities
 diffusivity
 diffusor
@@ -42035,6 +42038,7 @@ dishrag
 dishrags
 dishtowel
 dishtowels
+dishware
 dishwares
 dishwashers
 dishwater
@@ -46902,6 +46906,7 @@ elicited
 elicitor
 elicitors
 elicits
+elide
 elided
 elides
 elidible
@@ -60435,6 +60440,7 @@ gaucher
 gaucherie
 gaucheries
 gauchest
+gaucho
 gauchos
 gaud
 gauderies
@@ -71667,6 +71673,7 @@ igging
 iggs
 igloo
 igloos
+iglu
 iglus
 ignatia
 ignatias
@@ -79337,6 +79344,7 @@ kaolins
 kaon
 kaonic
 kaons
+kapa
 kapas
 kapellmeister
 kapellmeisters
@@ -81623,6 +81631,7 @@ languorous
 languorously
 languors
 langur
+langurs
 laniard
 laniards
 laniaries
@@ -84787,6 +84796,7 @@ loggy
 logia
 logic
 logical
+logicalities
 logicality
 logically
 logicalness
@@ -86386,6 +86396,7 @@ magistrature
 magistratures
 maglev
 maglevs
+magma
 magmas
 magmata
 magmatic
@@ -94011,6 +94022,7 @@ motivate
 motivated
 motivates
 motivating
+motivation
 motivational
 motivationally
 motivations
@@ -94716,6 +94728,7 @@ multiparticle
 multipartite
 multiparty
 multipath
+multiped
 multipede
 multipedes
 multipeds
@@ -95497,6 +95510,7 @@ myrmidones
 myrmidons
 myrobalan
 myrobalans
+myrrh
 myrrhic
 myrrhs
 myrtle
@@ -97908,6 +97922,7 @@ noncandidates
 noncapital
 noncapitalist
 noncapitalists
+noncarcinogen
 noncarcinogenic
 noncarcinogens
 noncardiac
@@ -102121,6 +102136,7 @@ orthogonalize
 orthogonalized
 orthogonalizes
 orthogonalizing
+orthogonally
 orthograde
 orthographic
 orthographical
@@ -102642,6 +102658,7 @@ outby
 outbye
 outcall
 outcalls
+outcaper
 outcapered
 outcapering
 outcapers
@@ -108782,6 +108799,7 @@ peninsulas
 penises
 penitence
 penitences
+penitent
 penitential
 penitentially
 penitentiaries
@@ -109941,6 +109959,7 @@ petiolules
 petit
 petite
 petiteness
+petitenesses
 petition
 petitionary
 petitioner
@@ -116593,6 +116612,7 @@ preselling
 presells
 presence
 presences
+present
 presentability
 presentable
 presentableness
@@ -116928,6 +116948,7 @@ prettying
 prettyish
 pretype
 pretyped
+pretypes
 pretyping
 pretzel
 pretzels
@@ -117372,6 +117393,7 @@ privatisms
 privatist
 privatists
 privative
+privatively
 privatives
 privatization
 privatizations
@@ -117776,6 +117798,7 @@ prograde
 program
 programed
 programer
+programers
 programings
 programmability
 programmable
@@ -122599,6 +122622,7 @@ reappropriates
 reappropriating
 reapprove
 reapproved
+reapproves
 reapproving
 reaps
 rear
@@ -127345,6 +127369,7 @@ resettlements
 resettling
 resew
 resewed
+resewing
 resewn
 resews
 resh
@@ -129584,6 +129609,7 @@ ripen
 ripened
 ripener
 ripeners
+ripeness
 ripenesses
 ripening
 ripens
@@ -130410,6 +130436,7 @@ rotundities
 rotundity
 rotundly
 rotundness
+rotundnesses
 roturier
 roturiers
 rouble
@@ -132048,6 +132075,7 @@ sandspur
 sandspurs
 sandstone
 sandstones
+sandstorm
 sandstorms
 sandwich
 sandwiched
@@ -137597,6 +137625,7 @@ shylocking
 shylocks
 shyly
 shyness
+shynesses
 shyster
 shysters
 sial
@@ -145442,6 +145471,7 @@ straightening
 straightens
 straighter
 straightforward
+straighting
 straightish
 straightjackets
 straightlaced
@@ -147497,6 +147527,7 @@ sufficiency
 sufficient
 sufficiently
 sufficing
+suffix
 suffixal
 suffixation
 suffixations
@@ -149133,6 +149164,7 @@ swankest
 swankier
 swankiest
 swankily
+swankiness
 swankinesses
 swanking
 swanks
@@ -152286,6 +152318,7 @@ tercels
 tercentenaries
 tercentenary
 tercentennial
+tercentennials
 tercet
 tercets
 terebene
@@ -158546,6 +158579,7 @@ twinged
 twingeing
 twinges
 twinging
+twinier
 twiniest
 twinight
 twining
@@ -167197,6 +167231,7 @@ warplanes
 warpower
 warpowers
 warps
+warpwise
 warragal
 warragals
 warrant
