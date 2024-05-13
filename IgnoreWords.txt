@@ -1534,6 +1534,7 @@ adoptees
 adopter
 adopters
 adoptianism
+adoptianisms
 adopting
 adoptionism
 adoptionisms
@@ -1893,6 +1894,7 @@ aerogel
 aerogels
 aerogram
 aerogramme
+aerogrammes
 aerograms
 aerolite
 aerolites
@@ -2730,6 +2732,7 @@ airinesses
 airing
 airings
 airless
+airlessness
 airlessnesses
 airlift
 airlifted
@@ -3307,6 +3310,7 @@ alkoxy
 alkyd
 alkyds
 alkyl
+alkylate
 alkylated
 alkylates
 alkylating
@@ -8337,6 +8341,7 @@ assembler
 assemblers
 assembles
 assemblies
+assembling
 assembly
 assemblyman
 assemblymen
@@ -12952,6 +12957,7 @@ belters
 belting
 beltings
 beltless
+beltline
 beltlines
 belts
 beltway
@@ -19278,6 +19284,7 @@ burrier
 burriest
 burring
 burrito
+burritos
 burro
 burros
 burrow
@@ -19973,6 +19980,7 @@ caecally
 caecilian
 caecilians
 caecum
+caeoma
 caeomas
 caesar
 caesarean
@@ -20915,6 +20923,7 @@ canonists
 canonization
 canonizations
 canonize
+canonized
 canonizer
 canonizers
 canonizes
@@ -23409,6 +23418,7 @@ chafed
 chafer
 chafers
 chafes
+chaff
 chaffed
 chaffer
 chafferer
@@ -24664,6 +24674,7 @@ chinawares
 chinbone
 chinbones
 chincapin
+chincapins
 chinch
 chincherinchee
 chincherinchees
@@ -38332,6 +38343,7 @@ demilune
 demilunes
 demimondaine
 demimondaines
+demimonde
 demimondes
 demineralize
 demineralized
@@ -41056,6 +41068,7 @@ diminutively
 diminutiveness
 diminutives
 dimities
+dimity
 dimly
 dimmable
 dimmed
@@ -48683,6 +48696,7 @@ enological
 enologies
 enologist
 enologists
+enology
 enols
 enophiles
 enorm
@@ -52322,6 +52336,7 @@ extensor
 extensors
 extent
 extents
+extenuate
 extenuated
 extenuates
 extenuating
@@ -59570,6 +59585,7 @@ futharc
 futharcs
 futhark
 futharks
+futhorc
 futhorcs
 futhork
 futhorks
@@ -64749,6 +64765,7 @@ guerrilla
 guerrillas
 guess
 guessable
+guessed
 guesser
 guessers
 guesses
@@ -68274,6 +68291,7 @@ hexosaminidase
 hexosaminidases
 hexosan
 hexosans
+hexose
 hexoses
 hexyl
 hexylic
@@ -77366,6 +77384,7 @@ ironman
 ironmaster
 ironmasters
 ironmen
+ironmonger
 ironmongeries
 ironmongers
 ironmongery
@@ -78821,6 +78840,7 @@ john
 johnboat
 johnboats
 johnnie
+johnnies
 johnny
 johnnycake
 johnnycakes
@@ -86026,6 +86046,7 @@ lurking
 lurkingly
 lurks
 luscious
+lusciously
 lusciousness
 lusciousnesses
 lush
@@ -88551,6 +88572,7 @@ mavis
 mavises
 mavourneen
 mavourneens
+mavournin
 mavournins
 maw
 mawed
@@ -95213,6 +95235,7 @@ muniments
 munis
 munition
 munitioned
+munitioning
 munitions
 munnion
 munnions
@@ -110870,6 +110893,7 @@ phonographies
 phonographs
 phonography
 phonolite
+phonolites
 phonological
 phonologically
 phonologies
@@ -113539,6 +113563,7 @@ plutocrats
 pluton
 plutonian
 plutonic
+plutonism
 plutonisms
 plutonium
 plutoniums
@@ -117399,6 +117424,7 @@ previsit
 previsited
 previsiting
 previsits
+previsor
 previsors
 prevocalic
 prevocational
@@ -122679,6 +122705,7 @@ raya
 rayah
 rayahs
 rayas
+rayed
 raygrass
 raygrasses
 raying
@@ -125860,6 +125887,7 @@ reinterview
 reinterviewed
 reinterviewing
 reinterviews
+reintroduce
 reintroduced
 reintroduces
 reintroducing
@@ -129246,6 +129274,7 @@ rewakens
 rewakes
 rewaking
 rewan
+reward
 rewardable
 rewarded
 rewarder
@@ -130881,6 +130910,7 @@ roughed
 roughen
 roughened
 roughening
+roughens
 rougher
 roughers
 roughest
@@ -138247,6 +138277,7 @@ sideway
 sideways
 sidewinder
 sidewinders
+sidewise
 sidh
 sidhe
 siding
@@ -147439,6 +147470,7 @@ subregion
 subregional
 subregions
 subrent
+subrents
 subreption
 subreptions
 subreptitious
@@ -154662,6 +154694,7 @@ timocratical
 timolol
 timolols
 timorous
+timorously
 timorousness
 timothies
 timothy
@@ -165013,6 +165046,7 @@ vatical
 vaticide
 vaticides
 vaticinal
+vaticinate
 vaticinated
 vaticinates
 vaticinating
@@ -165863,6 +165897,7 @@ vibrancies
 vibrancy
 vibrant
 vibrantly
+vibrants
 vibraphone
 vibraphones
 vibraphonist
