@@ -3631,6 +3631,7 @@ almuds
 almug
 almugs
 alnico
+alnicos
 alodia
 alodial
 alodium
@@ -4440,6 +4441,7 @@ amucks
 amulet
 amulets
 amus
+amusable
 amuse
 amused
 amusedly
@@ -7743,6 +7745,7 @@ arpen
 arpens
 arpent
 arpents
+arquebus
 arquebuses
 arrack
 arracks
@@ -10370,6 +10373,7 @@ backspaces
 backspacing
 backspin
 backspins
+backsplash
 backsplashes
 backstab
 backstabbed
@@ -19366,6 +19370,7 @@ bushman
 bushmaster
 bushmasters
 bushmen
+bushpig
 bushpigs
 bushranger
 bushrangers
@@ -24650,6 +24655,7 @@ chinas
 chinaware
 chinawares
 chinbone
+chinbones
 chincapin
 chinch
 chincherinchee
@@ -31218,6 +31224,7 @@ cooker
 cookeries
 cookery
 cookey
+cookeys
 cookhouse
 cookhouses
 cookie
@@ -37338,6 +37345,7 @@ deductibilities
 deductibility
 deductible
 deductibles
+deducting
 deduction
 deductions
 deductive
@@ -38242,6 +38250,7 @@ demantoid
 demantoids
 demarcate
 demarcated
+demarcates
 demarcating
 demarcation
 demarcations
@@ -60785,6 +60794,7 @@ geepound
 geepounds
 gees
 geese
+geests
 geez
 geezer
 geezers
@@ -63451,6 +63461,7 @@ grandads
 grandam
 grandame
 grandames
+grandaunt
 grandaunts
 grandbabies
 grandbaby
@@ -67880,6 +67891,7 @@ heredes
 hereditament
 hereditaments
 hereditarian
+hereditarians
 hereditarily
 hereditary
 heredities
@@ -69069,6 +69081,7 @@ holophrastic
 holophyte
 holophytes
 holothurian
+holothurians
 holotype
 holotypes
 holotypic
@@ -73981,6 +73994,7 @@ indisposed
 indisposes
 indisposing
 indisposition
+indispositions
 indisputable
 indisputably
 indissociable
@@ -85132,6 +85146,7 @@ loment
 lomenta
 loments
 lomentum
+lomentums
 lone
 lonelier
 loneliest
@@ -89439,6 +89454,7 @@ mensing
 menstrua
 menstrual
 menstrually
+menstruated
 menstruates
 menstruating
 menstruation
@@ -91198,6 +91214,7 @@ minaret
 minareted
 minarets
 minatory
+minaudiere
 minaudieres
 mince
 minced
@@ -100269,6 +100286,7 @@ obeisance
 obeisances
 obeisant
 obeisantly
+obeli
 obelia
 obelias
 obeliscal
@@ -101846,6 +101864,7 @@ oppugner
 oppugners
 oppugning
 oppugns
+ops
 opsin
 opsins
 opsonic
@@ -103010,6 +103029,7 @@ outcurves
 outdance
 outdanced
 outdancing
+outdare
 outdared
 outdares
 outdaring
@@ -106363,6 +106383,7 @@ paisleys
 pajama
 pajamaed
 pajamas
+pakeha
 pakehas
 pakora
 pakoras
@@ -107037,6 +107058,7 @@ papillon
 papillons
 papillose
 papillote
+papillotes
 papism
 papisms
 papist
@@ -108370,6 +108392,7 @@ pawkier
 pawkiest
 pawkily
 pawkiness
+pawkinesses
 pawky
 pawl
 pawls
@@ -108714,6 +108737,7 @@ pedicles
 pedicular
 pediculate
 pediculates
+pediculoses
 pediculosis
 pediculous
 pedicure
@@ -110506,6 +110530,7 @@ phatic
 phatically
 phatter
 phattest
+pheasant
 pheasants
 phellem
 phellems
@@ -112260,6 +112285,7 @@ pirozhok
 pis
 piscaries
 piscary
+piscator
 piscatorial
 piscators
 piscatory
@@ -113307,6 +113333,7 @@ plowland
 plowman
 plowmen
 plows
+plowshares
 ploy
 ployed
 ploying
@@ -115529,6 +115556,7 @@ pratiques
 prats
 prattle
 prattled
+prattlers
 prattles
 prattling
 prattlingly
@@ -137194,6 +137222,7 @@ shiksa
 shiksas
 shikse
 shikseh
+shiksehs
 shikses
 shilingi
 shill
@@ -144310,6 +144339,7 @@ stalls
 stalwart
 stalwartly
 stalwartness
+stalwartnesses
 stalwarts
 stalworth
 stalworths
@@ -144705,6 +144735,7 @@ steadying
 steak
 steaks
 steal
+stealable
 stealage
 stealages
 stealer
@@ -147368,6 +147399,7 @@ subroutine
 subroutines
 subrule
 subrules
+subs
 subsale
 subsales
 subsample
@@ -163486,6 +163518,7 @@ upas
 upases
 upbear
 upbearer
+upbearers
 upbearing
 upbears
 upbeat
@@ -168663,6 +168696,7 @@ wharfed
 wharfing
 wharfinger
 wharfingers
+wharfmaster
 wharfmasters
 wharfs
 wharve
@@ -169385,6 +169419,7 @@ wildcards
 wildcat
 wildcats
 wildcatted
+wildcatter
 wildcatters
 wildcatting
 wildebeest
