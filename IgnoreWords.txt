@@ -915,6 +915,7 @@ acquisitiveness
 acquisitor
 acquisitors
 acquit
+acquits
 acquittal
 acquittals
 acquittance
@@ -16311,6 +16312,7 @@ bonefishing
 bonefishings
 bonehead
 boneheaded
+boneheadedness
 boneheads
 boneless
 bonemeal
@@ -16353,6 +16355,7 @@ bonito
 bonitoes
 bonitos
 bonk
+bonked
 bonkers
 bonking
 bonks
@@ -17719,6 +17722,7 @@ brees
 breeze
 breezeless
 breezes
+breezeway
 breezeways
 breezier
 breeziest
@@ -20572,6 +20576,7 @@ camping
 campings
 campion
 campions
+campo
 campong
 campongs
 camporee
@@ -24708,6 +24713,7 @@ chiromancer
 chiromancers
 chiromancies
 chironomid
+chironomids
 chiropodies
 chiropodist
 chiropodists
@@ -29156,6 +29162,7 @@ compline
 complines
 complins
 complot
+complotted
 complotting
 comply
 complying
@@ -60800,6 +60807,7 @@ gemological
 gemologies
 gemologist
 gemologists
+gemology
 gemot
 gemote
 gemotes
@@ -65985,6 +65993,7 @@ handwrit
 handwrite
 handwrites
 handwriting
+handwritings
 handwritten
 handwrote
 handwrought
@@ -74075,6 +74084,7 @@ inedita
 inedited
 ineducabilities
 ineducable
+ineffabilities
 ineffability
 ineffable
 ineffableness
@@ -74860,6 +74870,7 @@ inlay
 inlayer
 inlayers
 inlaying
+inlet
 inlets
 inletting
 inlier
@@ -77834,6 +77845,7 @@ jackasseries
 jackassery
 jackasses
 jackboot
+jackbooted
 jackboots
 jackdaw
 jackdaws
@@ -82180,6 +82192,7 @@ laundered
 launderer
 launderers
 launderettes
+laundering
 laundress
 laundresses
 laundrette
@@ -83042,6 +83055,7 @@ lespedeza
 lespedezas
 less
 lessee
+lessees
 lessen
 lessened
 lessening
@@ -99394,6 +99408,7 @@ nortriptylines
 nos
 nose
 nosebag
+nosebags
 noseband
 nosebands
 nosebleed
@@ -104655,6 +104670,7 @@ overgoverning
 overgoverns
 overgrade
 overgraded
+overgrades
 overgrading
 overgraze
 overgrazed
@@ -104852,6 +104868,7 @@ overloaded
 overloading
 overloads
 overlong
+overlook
 overlooked
 overlooking
 overlooks
@@ -105549,6 +105566,7 @@ overwearing
 overwears
 overweary
 overwearying
+overween
 overweened
 overweening
 overweeningly
@@ -109747,6 +109765,7 @@ perplexes
 perplexing
 perplexities
 perplexity
+perps
 perquisite
 perquisites
 perries
@@ -111048,6 +111067,7 @@ phylesis
 phylesises
 phyletic
 phyletically
+phyletics
 phylic
 phyllaries
 phyllary
@@ -111075,6 +111095,7 @@ phyllotaxis
 phyllotaxy
 phylloxera
 phylloxeras
+phylogenetic
 phylogenies
 phylogeny
 phylon
@@ -113492,6 +113513,7 @@ poikilothermic
 poikilotherms
 poilu
 poilus
+poinciana
 poincianas
 poind
 poinded
@@ -115073,6 +115095,7 @@ potto
 pottos
 potty
 potzers
+pouch
 pouched
 pouches
 pouchier
@@ -116307,6 +116330,7 @@ premeditating
 premeditation
 premeditative
 premeditator
+premeditators
 premeds
 premeet
 premeiotic
@@ -120824,6 +120848,7 @@ querulously
 querulousness
 querulousnesses
 query
+querying
 quesadilla
 quesadillas
 quest
@@ -121655,6 +121680,7 @@ rainbow
 rainbowlike
 rainbows
 raincheck
+rainchecks
 raincoat
 raincoats
 raindrop
@@ -121702,6 +121728,7 @@ raisin
 raising
 raisings
 raisins
+raisiny
 raisonne
 raita
 raitas
@@ -128985,6 +129012,7 @@ rewet
 rewets
 rewetted
 rewetting
+rewiden
 rewidened
 rewidening
 rewidens
@@ -130346,6 +130374,7 @@ rootlets
 rootlike
 rootling
 roots
+rootstalk
 rootstalks
 rootstock
 rootstocks
@@ -142945,6 +142974,7 @@ splashdown
 splashdowns
 splashed
 splasher
+splashers
 splashes
 splashier
 splashiest
@@ -165654,6 +165684,7 @@ videophones
 videos
 videotape
 videotaped
+videotapes
 videotaping
 videotex
 videotexes
@@ -167748,6 +167779,7 @@ waveoffs
 waver
 wavered
 waverer
+waverers
 wavering
 waveringly
 wavers
@@ -168441,6 +168473,7 @@ wheelchairs
 wheeled
 wheeler
 wheelers
+wheelhorse
 wheelhorses
 wheelhouse
 wheelhouses
@@ -168588,6 +168621,7 @@ whilom
 whilst
 whim
 whimbrel
+whimbrels
 whimper
 whimpered
 whimperer
@@ -169186,6 +169220,7 @@ williwaw
 williwaws
 willow
 willowed
+willower
 willowers
 willowier
 willowiest
