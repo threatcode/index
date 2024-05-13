@@ -10420,6 +10420,7 @@ backwardly
 backwardness
 backwardnesses
 backwards
+backwashed
 backwashes
 backwashing
 backwater
@@ -14446,6 +14447,7 @@ biometricians
 biometrics
 biometries
 biometry
+biomimetics
 biomolecular
 biomolecule
 biomolecules
@@ -14697,6 +14699,7 @@ birretta
 birrettas
 birring
 birrotch
+birrs
 birse
 birses
 birth
@@ -18918,6 +18921,7 @@ bullyboys
 bullying
 bullyrag
 bullyragged
+bullyrags
 bulrush
 bulrushes
 bulwark
@@ -26412,6 +26416,7 @@ clearcuts
 clearcutting
 cleared
 clearer
+clearers
 clearest
 cleareyed
 clearheaded
@@ -27704,6 +27709,7 @@ coexecutors
 coexert
 coexerted
 coexerting
+coexerts
 coexist
 coexisted
 coexistence
@@ -37598,6 +37604,7 @@ definienda
 definiendum
 definiens
 definientia
+defining
 definite
 definitely
 definiteness
@@ -42813,6 +42820,7 @@ dissonance
 dissonances
 dissonant
 dissonantly
+dissuaded
 dissuader
 dissuaders
 dissuades
@@ -47805,6 +47813,7 @@ emulsive
 emulsoid
 emulsoidal
 emulsoids
+emunctories
 emunctory
 emus
 emyd
@@ -49343,6 +49352,7 @@ epibolies
 epiboly
 epic
 epical
+epically
 epicalyces
 epicalyx
 epicalyxes
@@ -56504,6 +56514,7 @@ flued
 fluegelhorn
 fluegelhorns
 fluencies
+fluency
 fluent
 fluently
 flueric
@@ -61498,6 +61509,7 @@ ghosted
 ghostier
 ghostiest
 ghosting
+ghostings
 ghostlier
 ghostliest
 ghostlike
@@ -66901,6 +66913,7 @@ headlong
 headman
 headmaster
 headmasters
+headmastership
 headmasterships
 headmen
 headmistress
@@ -70585,6 +70598,7 @@ husbands
 hush
 hushaby
 hushed
+hushedly
 hushes
 hushful
 hushing
@@ -72630,6 +72644,7 @@ impenitent
 impenitently
 imperative
 imperatively
+imperativeness
 imperatives
 imperator
 imperatorial
@@ -76267,6 +76282,7 @@ interoffice
 interoperable
 interoperative
 interorbital
+interorgan
 interpandemic
 interparish
 interparochial
@@ -81898,6 +81914,7 @@ lap
 laparoscope
 laparoscopes
 laparoscopies
+laparoscopist
 laparoscopists
 laparoscopy
 laparotomies
@@ -82021,6 +82038,7 @@ larkier
 larkiest
 larkiness
 larkinesses
+larking
 larkish
 larks
 larksome
@@ -89761,6 +89779,7 @@ mesoblast
 mesoblasts
 mesocarp
 mesocarps
+mesocranies
 mesocrany
 mesocyclone
 mesocyclones
@@ -105057,6 +105076,7 @@ overlording
 overlords
 overlordship
 overlordships
+overloud
 overlove
 overloved
 overloving
@@ -105882,6 +105902,7 @@ owsen
 ox
 oxacillin
 oxacillins
+oxalacetate
 oxalacetates
 oxalate
 oxalated
@@ -106442,6 +106463,7 @@ paleae
 paleal
 paleface
 palefaces
+palely
 paleness
 palenesses
 paleobiologic
@@ -108402,6 +108424,7 @@ pawnage
 pawnages
 pawnbroker
 pawnbrokers
+pawnbroking
 pawnbrokings
 pawned
 pawnee
@@ -111224,6 +111247,7 @@ pht
 phthalate
 phthalates
 phthalein
+phthaleins
 phthalic
 phthalin
 phthalins
@@ -111749,6 +111773,7 @@ pignoli
 pignolia
 pignolias
 pignolis
+pignora
 pignus
 pignut
 pignuts
@@ -120961,6 +120986,7 @@ quaternions
 quaternities
 quaternity
 quatorze
+quatorzes
 quatrain
 quatrains
 quatrefoil
@@ -131923,6 +131949,7 @@ sailplane
 sailplaned
 sailplaner
 sailplaners
+sailplanes
 sailplaning
 sails
 saimin
@@ -141905,6 +141932,7 @@ soroche
 soroches
 sororal
 sororally
+sororate
 sororates
 sororities
 sorority
@@ -149978,6 +150006,7 @@ swopped
 swopping
 swops
 sword
+swordfish
 swordfishes
 swordlike
 swordman
@@ -152980,6 +153009,7 @@ tester
 testers
 testes
 testicles
+testicular
 testier
 testiest
 testified
@@ -155440,6 +155470,7 @@ toots
 tootsie
 tootsies
 tootsy
+top
 topaz
 topazes
 topazine
@@ -156045,6 +156076,7 @@ toxophily
 toxoplasma
 toxoplasmas
 toxoplasmic
+toxoplasmoses
 toxoplasmosis
 toy
 toyed
@@ -156626,6 +156658,7 @@ transmitter
 transmitters
 transmitting
 transmogrified
+transmogrifies
 transmogrify
 transmogrifying
 transmontane
@@ -157435,6 +157468,7 @@ trigraph
 trigraphic
 trigraphs
 trigs
+trihalomethane
 trihalomethanes
 trihedra
 trihedral
@@ -169927,6 +169961,7 @@ wit
 witan
 witans
 witch
+witchcraft
 witchcrafts
 witched
 witcheries
