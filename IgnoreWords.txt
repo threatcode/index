@@ -1131,6 +1131,7 @@ acuities
 acuity
 aculeate
 aculeated
+aculei
 aculeus
 acumen
 acumens
@@ -7435,6 +7436,7 @@ archive
 archived
 archives
 archiving
+archivist
 archivists
 archivolt
 archivolts
@@ -11175,6 +11177,7 @@ baps
 baptise
 baptised
 baptises
+baptisia
 baptisias
 baptising
 baptism
@@ -23203,6 +23206,7 @@ centimos
 centipede
 centipedes
 centner
+centners
 cento
 centones
 centos
@@ -26419,6 +26423,7 @@ classifying
 classily
 classiness
 classinesses
+classing
 classis
 classism
 classisms
@@ -32752,6 +32757,7 @@ countermarching
 countermeasure
 countermeasures
 countermelodies
+countermelody
 countermemo
 countermemos
 countermen
@@ -33292,6 +33298,7 @@ cozeys
 cozie
 cozied
 cozier
+cozies
 coziest
 cozily
 coziness
@@ -34346,6 +34353,7 @@ croutes
 crouton
 croutons
 crow
+crowbar
 crowbarred
 crowbarring
 crowberries
@@ -43907,6 +43915,7 @@ domesticated
 domesticates
 domesticating
 domestication
+domestications
 domesticities
 domesticity
 domestics
@@ -47138,6 +47147,7 @@ electrogeneses
 electrogenesis
 electrogenic
 electrogram
+electrograms
 electroing
 electrojets
 electrokinetic
@@ -48394,6 +48404,7 @@ endemicity
 endemics
 endemism
 endemisms
+endergonic
 enders
 endexine
 endexines
@@ -60123,6 +60134,7 @@ galactosemia
 galactosemias
 galactosemic
 galactoses
+galactosidase
 galactosidases
 galactoside
 galactosides
@@ -62283,6 +62295,7 @@ gladliest
 gladly
 gladness
 gladnesses
+gladsome
 gladsomely
 gladsomeness
 gladsomenesses
@@ -67806,6 +67819,7 @@ helldivers
 hellebores
 helled
 hellenization
+hellenizations
 hellenize
 hellenizes
 hellenizing
@@ -72983,6 +72997,7 @@ impeaches
 impeaching
 impeachment
 impeachments
+impearl
 impearled
 impearling
 impearls
@@ -77858,6 +77873,7 @@ irrelative
 irrelatively
 irrelevance
 irrelevances
+irrelevancies
 irrelevancy
 irrelevant
 irrelevantly
@@ -83454,6 +83470,7 @@ leisured
 leisureliness
 leisurelinesses
 leisurely
+leisures
 leitmotif
 leitmotifs
 leitmotiv
@@ -85135,6 +85152,7 @@ livier
 liviers
 living
 livingly
+livingness
 livingnesses
 livings
 livre
@@ -87744,6 +87762,7 @@ manats
 manche
 manches
 manchet
+manchets
 manchineel
 manchineels
 manciple
@@ -93550,6 +93569,7 @@ moffette
 moffettes
 mog
 mogged
+moggie
 moggies
 mogging
 moggy
@@ -96065,6 +96085,7 @@ mutualism
 mutualisms
 mutualist
 mutualistic
+mutualists
 mutualities
 mutuality
 mutualization
@@ -99417,6 +99438,7 @@ nonmetallic
 nonmetals
 nonmetameric
 nonmetaphorical
+nonmetric
 nonmetrical
 nonmetro
 nonmetropolitan
@@ -108033,6 +108055,7 @@ parches
 parchesi
 parchesis
 parching
+parchisi
 parchisis
 parchment
 parchments
@@ -108088,6 +108111,7 @@ parenthetically
 parenthood
 parenthoods
 parenting
+parentings
 parentless
 parents
 pareo
@@ -111102,6 +111126,7 @@ pharmacologic
 pharmacological
 pharmacologies
 pharmacologist
+pharmacologists
 pharmacology
 pharmacopeia
 pharmacopeial
@@ -118304,6 +118329,7 @@ prised
 prisere
 priseres
 prising
+prism
 prismatic
 prismatically
 prismatoid
@@ -123612,6 +123638,7 @@ reapplication
 reapplications
 reapplied
 reapplies
+reapply
 reapplying
 reappoint
 reappointed
@@ -129329,6 +129356,7 @@ retotaled
 retotaling
 retotalled
 retotalling
+retotals
 retouch
 retouched
 retoucher
@@ -132826,6 +132854,7 @@ salmons
 salol
 salols
 salometer
+salometers
 salon
 salons
 saloon
@@ -138126,6 +138155,7 @@ shirtwaist
 shirtwaists
 shirty
 shist
+shists
 shitake
 shitakes
 shitheads
@@ -144132,6 +144162,7 @@ spoliated
 spoliates
 spoliating
 spoliation
+spoliations
 spoliator
 spoliators
 spondaic
@@ -148602,6 +148633,7 @@ succulences
 succulent
 succulently
 succulents
+succumb
 succumbed
 succumbing
 succumbs
@@ -152935,6 +152967,7 @@ telefacsimile
 telefacsimiles
 telefax
 telefaxes
+telefilm
 telefilms
 telega
 telegas
@@ -162859,6 +162892,7 @@ unknowability
 unknowable
 unknowing
 unknowingly
+unknowings
 unknowledgeable
 unknown
 unknowns
@@ -165053,6 +165087,7 @@ urus
 uruses
 urushiol
 urushiols
+us
 usabilities
 usability
 usable
