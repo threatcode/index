@@ -1933,6 +1933,7 @@ aeronomers
 aeronomic
 aeronomical
 aeronomies
+aeronomist
 aeronomists
 aeronomy
 aeropauses
@@ -3190,6 +3191,7 @@ alienages
 alienate
 alienated
 alienates
+alienating
 alienation
 alienations
 alienator
@@ -11642,6 +11644,7 @@ basilic
 basilica
 basilicae
 basilical
+basilican
 basilicas
 basilisk
 basilisks
@@ -17824,6 +17827,7 @@ breezier
 breeziest
 breezily
 breeziness
+breezinesses
 breezing
 breezy
 bregma
@@ -18453,6 +18457,7 @@ brr
 brrr
 brucella
 brucellae
+brucellas
 brucelloses
 brucellosis
 brucin
@@ -22901,6 +22906,7 @@ cedarbird
 cedarbirds
 cedarn
 cedars
+cedarwood
 cedarwoods
 cedary
 cede
@@ -27062,6 +27068,7 @@ clump
 clumped
 clumpier
 clumpiest
+clumping
 clumpish
 clumplike
 clumps
@@ -28272,6 +28279,7 @@ collectables
 collectanea
 collected
 collectedly
+collectedness
 collectednesses
 collectible
 collectibles
@@ -30150,6 +30158,7 @@ congealment
 congealments
 congeals
 congee
+congeed
 congeeing
 congees
 congelation
@@ -43295,6 +43304,7 @@ diversified
 diversifier
 diversifiers
 diversifies
+diversify
 diversifying
 diversionary
 diversionist
@@ -44657,6 +44667,7 @@ dramatist
 dramatists
 dramatizable
 dramatization
+dramatizations
 dramatize
 dramatized
 dramatizes
@@ -49523,6 +49534,7 @@ ephemerid
 ephemerides
 ephemerids
 ephemeris
+ephemeron
 ephemerons
 ephod
 ephods
@@ -51335,6 +51347,7 @@ evoke
 evoked
 evoker
 evokers
+evokes
 evoking
 evolute
 evolutes
@@ -63701,6 +63714,7 @@ grandads
 grandam
 grandame
 grandames
+grandams
 grandaunt
 grandaunts
 grandbabies
@@ -68125,6 +68139,7 @@ herby
 herculean
 hercules
 herculeses
+herd
 herded
 herder
 herders
@@ -70272,6 +70287,7 @@ hotrods
 hots
 hotshot
 hotspot
+hotspots
 hotspur
 hotspurs
 hotted
@@ -72615,6 +72631,7 @@ immixed
 immixes
 immixing
 immixture
+immixtures
 immobile
 immobilism
 immobilisms
@@ -76843,6 +76860,7 @@ inti
 intifada
 intifadah
 intifadahs
+intifadas
 intifadeh
 intifadehs
 intima
@@ -85603,6 +85621,7 @@ lookup
 lookups
 loom
 loomed
+looming
 looms
 loon
 looney
@@ -92365,6 +92384,7 @@ misfeasor
 misfeasors
 misfed
 misfeed
+misfeeding
 misfeeds
 misfield
 misfielded
@@ -93346,6 +93366,7 @@ modifications
 modified
 modifier
 modifiers
+modifies
 modify
 modifying
 modillion
@@ -101231,6 +101252,7 @@ octyls
 ocular
 ocularist
 ocularists
+ocularly
 oculars
 oculi
 oculist
@@ -102655,6 +102677,7 @@ orisons
 orle
 orles
 orlon
+orlons
 orlop
 orlops
 ormer
@@ -107427,6 +107450,7 @@ paperhangers
 paperhanging
 paperhangings
 paperiness
+paperinesses
 papering
 paperless
 papermaker
@@ -121989,6 +122013,7 @@ racially
 racier
 raciest
 racily
+raciness
 racinesses
 racing
 racings
@@ -124211,6 +124236,7 @@ reconcentrate
 reconcentrated
 reconcentrates
 reconcentrating
+reconcentration
 reconception
 reconceptions
 reconcilability
@@ -128760,6 +128786,7 @@ restructuring
 restrung
 rests
 restudied
+restudies
 restudy
 restudying
 restuff
@@ -143931,6 +143958,7 @@ spontaneities
 spontaneity
 spontaneous
 spontaneously
+spontaneousness
 spontoon
 spontoons
 spoof
@@ -145114,6 +145142,7 @@ stasimon
 stasis
 stat
 statable
+statal
 statant
 state
 stateable
@@ -156510,6 +156539,7 @@ towards
 towaway
 towaways
 towboat
+towboats
 towel
 toweled
 towelette
@@ -160947,6 +160977,7 @@ uncoined
 uncollected
 uncollectible
 uncollectibles
+uncolored
 uncombative
 uncombed
 uncombined
@@ -162522,6 +162553,7 @@ universalists
 universalities
 universality
 universalize
+universalized
 universalizes
 universalizing
 universally
@@ -165373,6 +165405,7 @@ vaqueros
 var
 vara
 varactor
+varactors
 varas
 varia
 variabilities
@@ -171493,6 +171526,7 @@ wye
 wyes
 wyle
 wyled
+wyles
 wyliecoat
 wyliecoats
 wyling
@@ -172096,6 +172130,7 @@ yom
 yomim
 yon
 yond
+yonder
 yoni
 yonic
 yonis
