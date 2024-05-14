@@ -567,6 +567,7 @@ accredits
 accrete
 accreted
 accretes
+accreting
 accretion
 accretionary
 accretions
@@ -6747,6 +6748,7 @@ apparat
 apparatchik
 apparatchiki
 apparatchiks
+apparats
 apparatus
 apparatuses
 apparel
@@ -7644,6 +7646,7 @@ armet
 armets
 armful
 armfuls
+armhole
 armholes
 armies
 armiger
@@ -8583,6 +8586,7 @@ astilbes
 astir
 astomatal
 astomous
+astonied
 astonies
 astonish
 astonished
@@ -9224,6 +9228,7 @@ aunt
 aunthood
 aunthoods
 auntie
+aunties
 auntlier
 auntliest
 auntlike
@@ -14220,6 +14225,7 @@ bimas
 bimbette
 bimbettes
 bimbo
+bimboes
 bimbos
 bimensal
 bimester
@@ -21275,6 +21281,7 @@ capsulizes
 capsulizing
 captain
 captaincies
+captaincy
 captained
 captaining
 captains
@@ -21768,6 +21775,7 @@ carnallites
 carnally
 carnassial
 carnassials
+carnation
 carnations
 carnauba
 carnaubas
@@ -21856,6 +21864,7 @@ carpellate
 carpels
 carpenter
 carpentered
+carpentering
 carpenters
 carpentries
 carpentry
@@ -26245,6 +26254,7 @@ clarinet
 clarinetist
 clarinetists
 clarinets
+clarinettist
 clarinettists
 clarion
 clarioned
@@ -29101,6 +29111,7 @@ compendia
 compendious
 compendiously
 compendiousness
+compendium
 compendiums
 compends
 compensability
@@ -33141,6 +33152,7 @@ cozenage
 cozenages
 cozened
 cozener
+cozeners
 cozening
 cozens
 cozes
@@ -43410,6 +43422,7 @@ doctrinaires
 doctrinairism
 doctrinairisms
 doctrinal
+doctrinally
 doctrine
 doctrines
 docudrama
@@ -47333,6 +47346,7 @@ embarrassing
 embarrassingly
 embarrassment
 embarrassments
+embarred
 embarring
 embars
 embassage
@@ -51078,6 +51092,7 @@ evenfalls
 evenhanded
 evenhandedly
 evenhandedness
+evening
 evenings
 evenly
 evenness
@@ -52781,6 +52796,7 @@ fa
 fab
 fabaceous
 fabber
+fabbest
 fable
 fabled
 fabler
@@ -68684,6 +68700,7 @@ hipster
 hipsterism
 hipsterisms
 hipsters
+hirable
 hiragana
 hiraganas
 hircine
@@ -71902,6 +71919,7 @@ idol
 idolater
 idolaters
 idolator
+idolators
 idolatries
 idolatrous
 idolatrously
@@ -72672,6 +72690,7 @@ impeaches
 impeaching
 impeachment
 impeachments
+impearled
 impearling
 impearls
 impeccability
@@ -73526,6 +73545,7 @@ inclines
 inclining
 inclinings
 inclinometer
+inclinometers
 inclip
 inclipped
 inclipping
@@ -74289,6 +74309,7 @@ inedibly
 inedita
 inedited
 ineducabilities
+ineducability
 ineducable
 ineffabilities
 ineffability
@@ -80970,6 +80991,7 @@ kolkhosy
 kolkhoz
 kolkhozes
 kolkhoznik
+kolkhozniki
 kolkhozniks
 kolkhozy
 kolkoz
@@ -97093,6 +97115,7 @@ nerols
 nerts
 nertz
 nervate
+nervation
 nervations
 nervature
 nervatures
@@ -100417,6 +100440,7 @@ obelised
 obelises
 obelising
 obelisk
+obelisks
 obelism
 obelisms
 obelize
@@ -108861,6 +108885,7 @@ pediatricians
 pediatrics
 pediatrist
 pediatrists
+pedicab
 pedicabs
 pedicel
 pedicellate
@@ -117874,6 +117899,7 @@ privatizes
 privatizing
 privet
 privets
+privier
 privies
 priviest
 privilege
@@ -128014,6 +128040,7 @@ resinlike
 resinoid
 resinoids
 resinous
+resins
 resiny
 resist
 resistance
@@ -147125,6 +147152,7 @@ subdividing
 subdivision
 subdivisions
 subdominant
+subdominants
 subduable
 subduably
 subdual
@@ -156678,6 +156706,7 @@ transfiguration
 transfigure
 transfigured
 transfigures
+transfiguring
 transfinite
 transfix
 transfixed
@@ -159139,6 +159168,7 @@ twelfth
 twelfths
 twelve
 twelvemo
+twelvemonth
 twelvemonths
 twelvemos
 twelves
@@ -160735,6 +160765,7 @@ uncultured
 uncurable
 uncurably
 uncurb
+uncurbed
 uncurbing
 uncurbs
 uncured
@@ -161281,6 +161312,7 @@ undiscovered
 undiscussed
 undisguised
 undisguisedly
+undismayed
 undisputable
 undisputed
 undissociated
@@ -167703,6 +167735,7 @@ wangles
 wangling
 wangun
 wanguns
+wanier
 waniest
 wanigan
 wanigans
@@ -170157,6 +170190,7 @@ wite
 wited
 witenagemot
 witenagemote
+witenagemotes
 witenagemots
 wites
 with
@@ -170685,6 +170719,7 @@ workless
 worklessness
 worklessnesses
 workload
+workloads
 workman
 workmanlike
 workmanly
