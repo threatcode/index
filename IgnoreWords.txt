@@ -860,6 +860,7 @@ acmes
 acmic
 acne
 acned
+acnes
 acnode
 acnodes
 acock
@@ -5216,6 +5217,7 @@ anisometropic
 anisotropic
 anisotropically
 anisotropies
+anisotropism
 anisotropisms
 anisotropy
 ankerite
@@ -20902,6 +20904,7 @@ cannabinol
 cannabinols
 cannabins
 cannabis
+cannabises
 cannas
 canned
 cannel
@@ -21795,6 +21798,7 @@ carks
 carl
 carle
 carles
+carless
 carlin
 carline
 carlines
@@ -25517,6 +25521,7 @@ chucky
 chuddah
 chuddahs
 chuddar
+chuddars
 chudder
 chudders
 chufa
@@ -29028,6 +29033,7 @@ communicating
 communication
 communicational
 communications
+communicative
 communicatively
 communicator
 communicators
@@ -31169,6 +31175,7 @@ convene
 convened
 convener
 conveners
+convenes
 convenience
 conveniences
 conveniencies
@@ -53380,6 +53387,7 @@ familisms
 familistic
 family
 famine
+famines
 faming
 famish
 famished
@@ -53731,6 +53739,7 @@ fashionmonger
 fashionmongers
 fashions
 fashious
+fast
 fastback
 fastbacks
 fastballer
@@ -54876,6 +54885,7 @@ fibsters
 fibula
 fibulae
 fibular
+fibulas
 fice
 fices
 fiche
@@ -66463,6 +66473,7 @@ haplessly
 haplessness
 haplessnesses
 haplite
+haplites
 haploid
 haploidic
 haploidies
@@ -68797,6 +68808,7 @@ hinder
 hinderers
 hindering
 hinders
+hindgut
 hindguts
 hindmost
 hindquarter
@@ -75310,6 +75322,7 @@ inn
 innage
 innages
 innards
+innate
 innately
 innateness
 innatenesses
@@ -77294,6 +77307,7 @@ inversely
 inverses
 inversing
 inversion
+inversions
 inversive
 invert
 invertase
@@ -86888,6 +86902,7 @@ madrigalian
 madrigalist
 madrigalists
 madrigals
+madrilene
 madrilenes
 madrona
 madronas
@@ -87789,6 +87804,7 @@ manilla
 manillas
 manille
 manilles
+manioc
 manioca
 maniocas
 maniocs
@@ -92620,6 +92636,7 @@ mismating
 mismeet
 mismeeting
 mismeets
+mismet
 mismove
 mismoved
 mismoves
@@ -97582,6 +97599,7 @@ neurosurgery
 neurosurgical
 neurotic
 neurotically
+neuroticism
 neuroticisms
 neurotics
 neurotomies
@@ -102582,6 +102600,7 @@ organosol
 organosols
 organs
 organum
+organums
 organza
 organzas
 organzine
@@ -108460,6 +108479,7 @@ pastitsio
 pastitsios
 pastitso
 pastitsos
+pastless
 pastness
 pastnesses
 pastor
@@ -108843,6 +108863,7 @@ pawning
 pawnor
 pawnors
 pawns
+pawnshop
 pawnshops
 pawpaw
 pawpaws
@@ -110538,6 +110559,7 @@ perter
 pertest
 pertinacious
 pertinaciously
+pertinacities
 pertinacity
 pertinence
 pertinences
@@ -111102,6 +111124,7 @@ philatelic
 philatelically
 philatelies
 philatelist
+philatelists
 philately
 philharmonic
 philharmonics
@@ -113777,6 +113800,7 @@ plowhead
 plowheads
 plowing
 plowland
+plowlands
 plowman
 plowmen
 plows
@@ -114406,6 +114430,7 @@ pollex
 pollical
 pollices
 pollinate
+pollinated
 pollinates
 pollinating
 pollination
@@ -119099,6 +119124,7 @@ prorate
 prorated
 prorates
 prorating
+proration
 prorations
 proreform
 prorogate
@@ -125049,6 +125075,7 @@ reechy
 reed
 reedbird
 reedbirds
+reedbuck
 reedbucks
 reeded
 reedier
@@ -126122,6 +126149,7 @@ reimplant
 reimplantation
 reimplantations
 reimplanted
+reimplanting
 reimplants
 reimport
 reimportation
@@ -132319,6 +132347,7 @@ safecracking
 safecrackings
 safeguard
 safeguarded
+safeguarding
 safeguards
 safekeeping
 safekeepings
@@ -135772,6 +135801,7 @@ seismograph
 seismographer
 seismographers
 seismographic
+seismographies
 seismographs
 seismography
 seismological
@@ -147102,6 +147132,7 @@ stumbler
 stumblers
 stumbles
 stumbling
+stumblingly
 stummed
 stumming
 stump
@@ -152225,6 +152256,7 @@ taurine
 taurines
 taus
 taut
+tautaug
 tautaugs
 tauted
 tauten
@@ -153518,6 +153550,7 @@ terylenes
 tesla
 teslas
 tesselate
+tesselated
 tesselates
 tesselating
 tessellate
@@ -160881,6 +160914,7 @@ unclarity
 unclasp
 unclasped
 unclasping
+unclasps
 unclassical
 unclassifiable
 unclassified
@@ -169382,6 +169416,7 @@ wheatworm
 wheatworms
 whee
 wheedle
+wheedled
 wheedler
 wheedlers
 wheedles
