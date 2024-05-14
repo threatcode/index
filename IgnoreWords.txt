@@ -4867,6 +4867,7 @@ andantes
 andantini
 andantino
 andantinos
+andesite
 andesites
 andesitic
 andesyte
@@ -5019,6 +5020,7 @@ angelologists
 angelology
 angels
 angelus
+angeluses
 anger
 angered
 angering
@@ -19089,6 +19091,7 @@ bunchberry
 bunched
 bunches
 bunchgrass
+bunchgrasses
 bunchier
 bunchiest
 bunchily
@@ -22549,6 +22552,7 @@ categorise
 categorised
 categorises
 categorising
+categorization
 categorizations
 categorize
 categorized
@@ -23845,6 +23849,7 @@ chapatis
 chapatti
 chapattis
 chapbook
+chapbooks
 chape
 chapeau
 chapeaus
@@ -32200,6 +32205,7 @@ corrupting
 corruptionist
 corruptionists
 corruptions
+corruptive
 corruptively
 corruptly
 corruptness
@@ -36424,6 +36430,7 @@ darnedests
 darnel
 darnels
 darner
+darners
 darning
 darnings
 darns
@@ -41730,6 +41737,7 @@ disallowed
 disallowing
 disallows
 disambiguate
+disambiguated
 disambiguates
 disambiguating
 disambiguation
@@ -44906,6 +44914,7 @@ drencher
 drenchers
 drenches
 drenching
+dress
 dressage
 dressages
 dressed
@@ -47830,6 +47839,7 @@ emigrates
 emigrating
 emigration
 emigrations
+emigre
 emigres
 eminence
 eminencies
@@ -54219,6 +54229,7 @@ feeds
 feedstock
 feedstocks
 feedstuff
+feedstuffs
 feedyard
 feedyards
 feeing
@@ -57855,6 +57866,7 @@ forestallment
 forestallments
 forestalls
 forestation
+forestations
 forestay
 forestays
 forestaysail
@@ -59048,6 +59060,7 @@ frizzing
 frizzle
 frizzled
 frizzler
+frizzlers
 frizzles
 frizzlier
 frizzliest
@@ -69203,6 +69216,7 @@ hoboes
 hoboing
 hoboism
 hoboisms
+hobos
 hobs
 hock
 hocked
@@ -72641,6 +72655,7 @@ immanently
 immaterial
 immaterialism
 immaterialisms
+immaterialist
 immaterialists
 immaterialities
 immateriality
@@ -76585,6 +76600,7 @@ interment
 interments
 intermesh
 intermeshed
+intermeshes
 intermeshing
 intermetallic
 intermetallics
@@ -77782,6 +77798,7 @@ irradiances
 irradiant
 irradiate
 irradiated
+irradiates
 irradiating
 irradiation
 irradiations
@@ -84432,6 +84449,7 @@ limmers
 limn
 limned
 limner
+limners
 limnetic
 limnic
 limning
@@ -89491,6 +89509,7 @@ megahits
 megakaryocyte
 megakaryocytes
 megakaryocytic
+megalith
 megalithic
 megaliths
 megaloblast
@@ -92830,6 +92849,7 @@ misplan
 misplanned
 misplanning
 misplans
+misplant
 misplanted
 misplanting
 misplants
@@ -92951,6 +92971,7 @@ misruling
 miss
 missable
 missaid
+missal
 missals
 missay
 missaying
@@ -96180,6 +96201,7 @@ myiases
 myiasis
 mylar
 mylonite
+mylonites
 myna
 mynah
 mynahs
@@ -97717,6 +97739,7 @@ neurotomy
 neurotoxic
 neurotoxicities
 neurotoxicity
+neurotoxin
 neurotoxins
 neurotropic
 neurula
@@ -100902,6 +100925,7 @@ oblasts
 oblate
 oblately
 oblateness
+oblatenesses
 oblates
 oblation
 oblations
@@ -104194,6 +104218,7 @@ outranges
 outranging
 outrank
 outranked
+outranking
 outranks
 outrate
 outrated
@@ -111603,6 +111628,7 @@ photograms
 photograph
 photographed
 photographer
+photographic
 photographing
 photographs
 photography
@@ -119345,6 +119371,7 @@ prosimians
 prosiness
 prosing
 prosit
+proso
 prosobranch
 prosobranchs
 prosodic
@@ -121553,6 +121580,7 @@ quartiers
 quartile
 quartiles
 quarto
+quartos
 quarts
 quartz
 quartzite
@@ -128787,8 +128815,10 @@ respringing
 resprings
 resprout
 resprouted
+resprouting
 resprouts
 resprung
+ressentiment
 ressentiments
 rest
 restabilize
@@ -135836,6 +135866,7 @@ seepages
 seeped
 seepier
 seepiest
+seeping
 seeps
 seepy
 seer
@@ -145172,6 +145203,7 @@ stands
 standstill
 standstills
 standup
+standups
 stane
 staned
 stanes
@@ -149710,6 +149742,7 @@ superstructural
 superstructure
 superstructures
 superstud
+superstuds
 supersubtle
 supersubtleties
 supersubtlety
@@ -150216,6 +150249,7 @@ sustenances
 sustentation
 sustentations
 sustentative
+susurrant
 susurrate
 susurrated
 susurrates
@@ -165323,6 +165357,7 @@ valanced
 valances
 vale
 valediction
+valedictions
 valedictorian
 valedictorians
 valedictories
