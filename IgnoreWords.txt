@@ -1880,6 +1880,7 @@ aerodrome
 aerodromes
 aeroduct
 aeroducts
+aerodynamic
 aerodynamical
 aerodynamically
 aerodynamicist
@@ -1908,6 +1909,7 @@ aerologic
 aerologies
 aerology
 aeromagnetic
+aeromechanics
 aeromedical
 aeromedicine
 aeromedicines
@@ -4301,6 +4303,7 @@ amorous
 amorously
 amorousness
 amorousnesses
+amorphism
 amorphisms
 amorphous
 amorphously
@@ -8802,6 +8805,7 @@ athwartship
 athwartships
 atilt
 atingle
+atlantes
 atlas
 atlases
 atlatl
@@ -22946,6 +22950,7 @@ celibacies
 celibacy
 celibate
 celibates
+celibatic
 cell
 cella
 cellae
@@ -29501,6 +29506,7 @@ conceivable
 conceivableness
 conceivably
 conceive
+conceived
 conceiver
 conceivers
 conceives
@@ -36723,6 +36729,7 @@ debacles
 debag
 debagged
 debagging
+debags
 debar
 debark
 debarkation
@@ -36791,6 +36798,7 @@ debonairly
 debonairness
 debonairnesses
 debone
+deboned
 deboner
 deboners
 debones
@@ -43503,6 +43511,7 @@ dodgem
 dodgems
 dodger
 dodgery
+dodges
 dodgier
 dodgiest
 dodginess
@@ -54780,6 +54789,7 @@ fice
 fices
 fiche
 fiches
+fichu
 fichus
 ficin
 ficins
@@ -60829,6 +60839,7 @@ gawp
 gawped
 gawper
 gawpers
+gawps
 gawsie
 gawsy
 gayal
@@ -62164,6 +62175,7 @@ glaringness
 glaringnesses
 glary
 glasnost
+glasnosts
 glass
 glassblower
 glassblowers
@@ -64913,6 +64925,7 @@ guiders
 guides
 guideway
 guideword
+guidewords
 guiding
 guidon
 guidons
@@ -73491,6 +73504,7 @@ incentivize
 incentivized
 incentivizes
 incentivizing
+incents
 incept
 incepted
 incepting
@@ -78371,6 +78385,7 @@ japonica
 japonicas
 jar
 jardiniere
+jardinieres
 jarful
 jarfuls
 jargon
@@ -89190,6 +89205,7 @@ megabucks
 megabyte
 megabytes
 megacities
+megacity
 megacorporation
 megacycle
 megacycles
@@ -89353,6 +89369,7 @@ melanophore
 melanophores
 melanoses
 melanosis
+melanosome
 melanosomes
 melanotic
 melanous
@@ -94226,6 +94243,7 @@ morion
 morions
 morn
 morning
+mornings
 morns
 morocco
 moroccos
@@ -94316,6 +94334,7 @@ mortarboard
 mortarboards
 mortared
 mortaring
+mortarless
 mortarman
 mortars
 mortary
@@ -101786,6 +101805,7 @@ oogonia
 oogonial
 oogonium
 oogoniums
+ooh
 oohed
 oohing
 oohs
@@ -102142,6 +102162,7 @@ optioned
 optionee
 optionees
 optioning
+options
 optoelectronic
 optoelectronics
 optokinetic
@@ -107344,6 +107365,7 @@ parabolic
 parabolically
 paraboloid
 paraboloidal
+paraboloids
 parachor
 parachors
 parachute
@@ -115222,6 +115244,7 @@ postheat
 postheats
 posthemorrhagic
 posthole
+postholes
 postholiday
 postholocaust
 posthospital
@@ -124789,6 +124812,7 @@ redundantly
 reduplicate
 reduplicated
 reduplicates
+reduplicating
 reduplication
 reduplications
 reduplicative
@@ -134749,6 +134773,7 @@ scrutinizes
 scrutinizing
 scrutiny
 scry
+scrying
 scuba
 scubaed
 scubaing
@@ -138160,6 +138185,7 @@ shrivels
 shriven
 shriver
 shrivers
+shrives
 shriving
 shroff
 shroffed
@@ -144397,6 +144423,7 @@ squushed
 squushes
 squushing
 sraddha
+sraddhas
 sradha
 sradhas
 sri
@@ -154875,6 +154902,7 @@ timelines
 timeliness
 timelinesses
 timely
+timeous
 timeously
 timeout
 timeouts
@@ -155954,6 +155982,7 @@ torosity
 torot
 toroth
 torous
+torpedo
 torpedoed
 torpedoes
 torpedoing
@@ -157056,6 +157085,7 @@ transvaluations
 transvalue
 transvalued
 transvalues
+transvaluing
 transversal
 transversals
 transverse
@@ -159011,6 +159041,7 @@ turkois
 turkoises
 turks
 turmeric
+turmerics
 turmoil
 turmoiled
 turmoiling
@@ -159754,6 +159785,7 @@ ultrafast
 ultrafastidious
 ultrafiche
 ultrafiches
+ultrafiltrate
 ultrafiltrates
 ultrafiltration
 ultrafine
@@ -160913,6 +160945,7 @@ undecillion
 undecillions
 undecipherable
 undeciphered
+undecked
 undeclared
 undecomposed
 undecorated
@@ -164644,6 +164677,7 @@ uts
 utter
 utterable
 utterance
+utterances
 uttered
 utterer
 utterers
@@ -171796,6 +171830,7 @@ yohimbines
 yoicks
 yok
 yoke
+yoked
 yokefellow
 yokefellows
 yokel

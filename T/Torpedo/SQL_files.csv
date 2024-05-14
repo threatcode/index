@@ -1,0 +1,3 @@
+auth/src/main/resources/db/migration/h2/V6__insert_user ... - GitHub,https://github.com/root0109/auth/blob/master/src/main/resources/db/migration/h2/V6__insert_user.sql
+import.sql - GitHub,https://github.com/kenglxn/seam-maven-refimpl/blob/master/samples/jboss-seam/examples/dvdstore/ejb/src/main/resources/import.sql
+http://ramel.com.br/ramel_site.sql,http://ramel.com.br/ramel_site.sql
