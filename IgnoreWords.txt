@@ -159,6 +159,7 @@ absorbancy
 absorbant
 absorbants
 absorbed
+absorbencies
 absorbency
 absorbent
 absorbents
@@ -2646,6 +2647,7 @@ aids
 aiglet
 aiglets
 aigret
+aigrets
 aigrette
 aigrettes
 aiguille
@@ -8480,6 +8482,7 @@ assistive
 assistor
 assistors
 assize
+assizes
 asslike
 associate
 associated
@@ -15590,6 +15593,7 @@ bloodmobile
 bloodmobiles
 bloodred
 bloodroot
+bloodroots
 bloods
 bloodshed
 bloodsheds
@@ -18291,6 +18295,7 @@ bronchial
 bronchially
 bronchiectases
 bronchiectasis
+bronchiolar
 bronchiole
 bronchioles
 bronchitic
@@ -20974,6 +20979,7 @@ canoeable
 canoed
 canoeing
 canoeist
+canoeists
 canoer
 canoers
 canoes
@@ -25099,6 +25105,7 @@ chokingly
 choky
 chola
 cholangiogram
+cholangiograms
 cholangiography
 cholas
 cholate
@@ -31420,6 +31427,7 @@ coonskin
 coonskins
 coontie
 coonties
+coop
 cooped
 cooper
 cooperage
@@ -35749,6 +35757,7 @@ cymous
 cynic
 cynical
 cynically
+cynicism
 cynicisms
 cynics
 cynosural
@@ -37413,6 +37422,7 @@ decoying
 decoys
 decrease
 decreased
+decreases
 decreasing
 decreasingly
 decree
@@ -39348,6 +39358,7 @@ dermatogens
 dermatoglyphic
 dermatoglyphics
 dermatoid
+dermatologic
 dermatological
 dermatologies
 dermatologist
@@ -43668,6 +43679,7 @@ doggishly
 doggishness
 doggishnesses
 doggo
+doggone
 doggoned
 doggoneder
 doggonedest
@@ -43996,6 +44008,7 @@ doofuses
 doohickey
 doohickeys
 doohickies
+doolee
 doolees
 doolie
 doolies
@@ -63455,6 +63468,7 @@ gossoons
 gossypol
 gossypols
 got
+gotcha
 gotchas
 goth
 gothic
@@ -69921,6 +69935,7 @@ hooty
 hooved
 hoover
 hoovered
+hoovering
 hoovers
 hooves
 hop
@@ -73326,6 +73341,7 @@ improvement
 improvements
 improver
 improvers
+improves
 improvidence
 improvidences
 improvident
@@ -74843,6 +74859,7 @@ inflated
 inflater
 inflaters
 inflates
+inflating
 inflation
 inflationary
 inflationism
@@ -78908,6 +78925,7 @@ jews
 jezail
 jezails
 jezebel
+jezebels
 jiao
 jib
 jibb
@@ -80079,6 +80097,7 @@ keelhauled
 keelhauling
 keelhauls
 keelless
+keels
 keelson
 keelsons
 keen
@@ -81376,6 +81395,7 @@ kudos
 kudu
 kudus
 kudzu
+kue
 kues
 kufi
 kufis
@@ -85866,6 +85886,7 @@ lours
 loury
 louse
 loused
+louses
 lousewort
 louseworts
 lousier
@@ -90274,6 +90295,7 @@ metafictionist
 metafictionists
 metafictions
 metagalactic
+metagalaxies
 metagalaxy
 metage
 metageneses
@@ -91824,6 +91846,7 @@ minter
 minters
 mintier
 mintiest
+minting
 mints
 minty
 minuend
@@ -96095,6 +96118,7 @@ myofibril
 myofibrillar
 myofibrils
 myofilament
+myofilaments
 myogenic
 myoglobin
 myoglobins
@@ -100366,6 +100390,7 @@ nullification
 nullifications
 nullified
 nullifier
+nullifiers
 nullifies
 nullify
 nullifying
@@ -107206,6 +107231,7 @@ pandect
 pandects
 pandemic
 pandemics
+pandemonium
 pandemoniums
 pander
 pandered
@@ -110196,6 +110222,7 @@ periphytic
 periphyton
 periphytons
 periplasm
+periplasms
 periplast
 periplasts
 peripter
@@ -112031,6 +112058,7 @@ picotee
 picotees
 picots
 picowave
+picowaved
 picowaves
 picowaving
 picquet
@@ -112371,6 +112399,7 @@ pimentos
 pimiento
 pimientos
 pimp
+pimped
 pimpernel
 pimpernels
 pimping
@@ -127833,6 +127862,7 @@ reproves
 reproving
 reprovingly
 reprovisioned
+reprovisioning
 reprovisions
 reps
 reptant
@@ -130067,6 +130097,7 @@ ria
 rial
 rials
 rialto
+rialtos
 riant
 riantly
 rias
@@ -148437,6 +148468,7 @@ suckiest
 suckle
 suckled
 suckler
+sucklers
 suckles
 suckless
 suckling
@@ -149080,6 +149112,7 @@ superbright
 superbug
 superbugs
 superbureaucrat
+supercabinet
 supercabinets
 supercalender
 supercalendered
@@ -154788,6 +154821,7 @@ thunderbird
 thunderbirds
 thunderbolt
 thunderbolts
+thunderclap
 thunderclaps
 thundercloud
 thunderclouds
@@ -155230,6 +155264,7 @@ timolols
 timorous
 timorously
 timorousness
+timorousnesses
 timothies
 timothy
 timpani
