@@ -2695,6 +2695,7 @@ air
 airbag
 airbags
 airboat
+airboats
 airborne
 airbound
 airbrush
@@ -3166,6 +3167,7 @@ algometry
 algor
 algorism
 algorisms
+algorithm
 algorithmic
 algorithmically
 algorithms
@@ -3200,6 +3202,7 @@ alienating
 alienation
 alienations
 alienator
+alienators
 aliened
 alienee
 alienees
@@ -4276,6 +4279,7 @@ amniocentesis
 amnion
 amnionic
 amnions
+amnios
 amniote
 amniotes
 amniotic
@@ -10615,6 +10619,7 @@ baggiest
 baggily
 bagginess
 bagginesses
+bagging
 baggings
 baggy
 baghouse
@@ -15214,6 +15219,7 @@ blaster
 blasters
 blastie
 blastier
+blasties
 blastiest
 blasting
 blastings
@@ -26129,6 +26135,7 @@ civil
 civilian
 civilianization
 civilianize
+civilianized
 civilianizes
 civilianizing
 civilians
@@ -31780,6 +31787,7 @@ cordial
 cordialities
 cordiality
 cordially
+cordialness
 cordialnesses
 cordials
 cordierite
@@ -32612,6 +32620,7 @@ counsel
 counseled
 counselee
 counselees
+counseling
 counselings
 counselled
 counselling
@@ -33420,6 +33429,7 @@ crampoon
 crampoons
 cramps
 crampy
+crams
 cranberries
 cranberry
 cranch
@@ -35530,6 +35540,7 @@ cyanamids
 cyanate
 cyanates
 cyanic
+cyanid
 cyanide
 cyanided
 cyanides
@@ -35652,6 +35663,7 @@ cyclizations
 cyclize
 cyclized
 cyclizes
+cyclizine
 cyclizines
 cyclizing
 cyclo
@@ -36992,6 +37004,7 @@ decameters
 decamethoniums
 decametric
 decamp
+decamped
 decamping
 decampment
 decampments
@@ -55066,6 +55079,7 @@ fieriness
 fierinesses
 fiery
 fiesta
+fiestas
 fife
 fifed
 fifer
@@ -59097,6 +59111,7 @@ frontalities
 frontality
 frontally
 frontals
+frontcourt
 frontcourts
 fronted
 frontenis
@@ -60309,6 +60324,7 @@ gamas
 gamashes
 gamay
 gamays
+gamb
 gamba
 gambade
 gambades
@@ -63828,6 +63844,7 @@ grandnephew
 grandnephews
 grandness
 grandnesses
+grandniece
 grandnieces
 grandpa
 grandpapa
@@ -68590,6 +68607,7 @@ hexing
 hexobarbital
 hexobarbitals
 hexokinase
+hexone
 hexones
 hexosaminidase
 hexosaminidases
@@ -70376,6 +70394,7 @@ hounders
 hounding
 hounds
 hour
+hourglass
 hourglasses
 houri
 houris
@@ -72441,6 +72460,7 @@ illustrious
 illustriously
 illustriousness
 illuvia
+illuvial
 illuviate
 illuviated
 illuviates
@@ -74214,6 +74234,7 @@ indenting
 indention
 indentions
 indentors
+indents
 indenture
 indentured
 indentures
@@ -75146,6 +75167,7 @@ ingurgitate
 ingurgitated
 ingurgitates
 ingurgitating
+ingurgitations
 inhabit
 inhabitable
 inhabitancies
@@ -86509,6 +86531,7 @@ luteotrophic
 luteotrophin
 luteotrophins
 luteotropic
+luteotropin
 luteotropins
 luteous
 lutestring
@@ -91974,6 +91997,7 @@ mirk
 mirker
 mirkest
 mirkier
+mirkiest
 mirkily
 mirks
 mirky
@@ -94041,6 +94065,7 @@ monomanias
 monomer
 monomeric
 monomers
+monometallic
 monometallism
 monometallisms
 monometallist
@@ -95488,6 +95513,7 @@ multipliers
 multiplies
 multiply
 multiplying
+multipolar
 multipolarities
 multipolarity
 multipole
@@ -98496,6 +98522,7 @@ nomographs
 nomography
 nomoi
 nomologic
+nomological
 nomology
 nomos
 nomothetic
@@ -113256,6 +113283,7 @@ planetological
 planetologies
 planetologist
 planetologists
+planetology
 planets
 planetwide
 planform
@@ -126643,6 +126671,7 @@ relatives
 relativism
 relativisms
 relativist
+relativistic
 relativists
 relativities
 relativity
@@ -131343,6 +131372,7 @@ rosewoods
 roshi
 roshis
 rosier
+rosiest
 rosily
 rosin
 rosined
@@ -140449,6 +140479,7 @@ slighting
 slightingly
 slightly
 slightness
+slightnesses
 slights
 slily
 slim
@@ -143862,6 +143893,7 @@ spirometric
 spirometries
 spirometry
 spirt
+spirted
 spirting
 spirts
 spirula
@@ -168973,6 +169005,7 @@ weaklier
 weakliest
 weakliness
 weaklinesses
+weakling
 weaklings
 weakly
 weakness
@@ -170534,6 +170567,7 @@ wingmen
 wingover
 wingovers
 wings
+wingspan
 wingspans
 wingspread
 wingspreads
@@ -171814,6 +171848,7 @@ xiphisterna
 xiphisternum
 xiphoid
 xiphoids
+xis
 xu
 xylan
 xylans
