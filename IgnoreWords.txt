@@ -1288,10 +1288,12 @@ adenoma
 adenomas
 adenomata
 adenomatous
+adenoses
 adenosine
 adenosines
 adenosis
 adenoviral
+adenovirus
 adenyl
 adenyls
 adept
@@ -1848,6 +1850,7 @@ aerier
 aeries
 aeriest
 aerified
+aerifies
 aeriform
 aerify
 aerifying
@@ -6038,6 +6041,7 @@ antipathies
 antipathy
 antipersonnel
 antiperspirant
+antiperspirants
 antipesticide
 antiphlogistic
 antiphon
@@ -7863,6 +7867,7 @@ arrowroot
 arrowroots
 arrows
 arrowwoods
+arrowworm
 arrowworms
 arrowy
 arroyo
@@ -21184,6 +21189,7 @@ capitalized
 capitalizes
 capitalizing
 capitally
+capitals
 capitate
 capitated
 capitation
@@ -29983,6 +29989,7 @@ confines
 confining
 confirm
 confirmability
+confirmable
 confirmand
 confirmands
 confirmation
@@ -32736,6 +32743,7 @@ countershadings
 countershot
 countershots
 countersign
+countersigned
 countersigning
 countersigns
 countersink
@@ -35656,6 +35664,7 @@ cymbaloms
 cymbals
 cymbidia
 cymbidium
+cymbidiums
 cymbling
 cymblings
 cyme
@@ -44994,6 +45003,7 @@ dropsonde
 dropsondes
 dropsy
 dropt
+dropwort
 dropworts
 drosera
 droseras
@@ -48031,6 +48041,7 @@ encephalitic
 encephalitides
 encephalitis
 encephalitogen
+encephalitogens
 encephalogram
 encephalograms
 encephalograph
@@ -50933,6 +50944,7 @@ euphemizing
 euphenic
 euphenics
 euphonic
+euphonically
 euphonies
 euphonious
 euphoniously
@@ -51647,6 +51659,7 @@ executes
 executing
 execution
 executioner
+executions
 executive
 executor
 executorial
@@ -57838,6 +57851,7 @@ forklift
 forklifted
 forklifting
 forklifts
+forklike
 forks
 forksful
 forky
@@ -67749,6 +67763,7 @@ hemelytra
 hemelytron
 hemelytrum
 hemerocallis
+hemerocallises
 hemerythrin
 hemerythrins
 hemes
@@ -68228,6 +68243,7 @@ hetaera
 hetaerae
 hetaeras
 hetaeric
+hetaerism
 hetaerisms
 hetaira
 hetairai
@@ -74487,6 +74503,7 @@ inexpedience
 inexpediences
 inexpediencies
 inexpediency
+inexpedient
 inexpediently
 inexpensive
 inexpensively
@@ -77342,6 +77359,7 @@ inwove
 inwoven
 inwrap
 inwrapped
+inwrapping
 inwraps
 inwrought
 iodate
@@ -77769,6 +77787,7 @@ isoantigenic
 isoantigens
 isobar
 isobare
+isobares
 isobaric
 isobarism
 isobarisms
@@ -90947,6 +90966,7 @@ middlingly
 middlings
 middorsal
 middy
+midfield
 midfielder
 midfielders
 midfields
@@ -97349,6 +97369,7 @@ neurocoels
 neuroendocrine
 neurofibril
 neurofibrils
+neurofibroma
 neurofibromas
 neurofibromata
 neurogenic
@@ -104199,6 +104220,7 @@ outstudy
 outstudying
 outstunt
 outstunted
+outstunting
 outsulk
 outsulked
 outsulking
@@ -104879,6 +104901,7 @@ overeasy
 overeat
 overeaten
 overeater
+overeaters
 overeating
 overeats
 overed
@@ -105140,6 +105163,7 @@ overheated
 overheating
 overheats
 overheld
+overhigh
 overhold
 overholding
 overholds
@@ -107972,6 +107996,7 @@ parsnips
 parson
 parsonage
 parsonages
+parsonic
 parsonish
 parsons
 part
@@ -118580,6 +118605,7 @@ promines
 promiscuities
 promiscuity
 promiscuous
+promiscuously
 promiscuousness
 promise
 promised
@@ -120752,6 +120778,7 @@ pyrexic
 pyrheliometers
 pyrheliometric
 pyric
+pyridic
 pyridine
 pyridines
 pyridoxal
@@ -138770,6 +138797,7 @@ sill
 sillabub
 sillabubs
 siller
+sillers
 sillibub
 sillibubs
 sillier
@@ -145016,6 +145044,7 @@ staunchly
 staunchness
 staunchnesses
 staurolite
+staurolites
 staurolitic
 stave
 staved
@@ -152352,6 +152381,7 @@ teenier
 teeniest
 teens
 teensier
+teensiest
 teensy
 teentsier
 teentsiest
@@ -153888,6 +153918,7 @@ thermoscopes
 thermoses
 thermoset
 thermosets
+thermosetting
 thermosphere
 thermospheric
 thermostability
@@ -155100,6 +155131,7 @@ tipping
 tipple
 tippled
 tippler
+tipplers
 tipples
 tippling
 tippy
@@ -160265,6 +160297,7 @@ unbasted
 unbated
 unbear
 unbearable
+unbearably
 unbearded
 unbearing
 unbears
@@ -165848,6 +165881,7 @@ verismos
 verisms
 verist
 veristic
+verists
 veritable
 veritableness
 veritablenesses
@@ -172173,6 +172207,7 @@ zestily
 zesting
 zestless
 zests
+zesty
 zeta
 zetas
 zettabyte
