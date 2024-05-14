@@ -3724,6 +3724,7 @@ als
 alsike
 alsikes
 also
+alt
 altar
 altarpiece
 altarpieces
@@ -15953,6 +15954,7 @@ boasters
 boastful
 boastfully
 boastfulness
+boastfulnesses
 boasting
 boasts
 boat
@@ -21163,6 +21165,7 @@ capercailzie
 capercailzies
 capered
 caperer
+caperers
 capering
 capers
 capes
@@ -24959,6 +24962,7 @@ chloramphenicol
 chlorate
 chlorates
 chlordan
+chlordane
 chlordanes
 chlordans
 chlorella
@@ -31617,6 +31621,7 @@ copycats
 copycatted
 copycatting
 copydesk
+copydesks
 copyedit
 copyedited
 copyediting
@@ -32060,6 +32065,7 @@ correlatives
 correlator
 correlators
 correspond
+corresponded
 correspondence
 correspondences
 correspondency
@@ -39801,6 +39807,7 @@ deter
 deterge
 deterged
 detergency
+detergent
 detergents
 deterger
 detergers
@@ -40554,6 +40561,7 @@ diatheses
 diathesis
 diathetic
 diatom
+diatomaceous
 diatomic
 diatomite
 diatomites
@@ -63696,6 +63704,7 @@ grandkid
 grandkids
 grandma
 grandmama
+grandmamas
 grandmas
 grandmotherly
 grandmothers
@@ -69394,6 +69403,7 @@ homer
 homered
 homeric
 homering
+homeroom
 homerooms
 homers
 homes
@@ -69532,6 +69542,7 @@ homologizing
 homologous
 homologs
 homologue
+homologues
 homology
 homolyses
 homolysis
@@ -74163,6 +74174,7 @@ indigenes
 indigenization
 indigenizations
 indigenize
+indigenized
 indigenizes
 indigenizing
 indigenous
@@ -84082,6 +84094,7 @@ lignifies
 lignify
 lignifying
 lignin
+lignins
 lignite
 lignites
 lignitic
@@ -86048,6 +86061,7 @@ lullabying
 lulled
 luller
 lullers
+lulling
 lulls
 lulu
 lulus
@@ -86096,6 +86110,7 @@ luminesces
 luminiferous
 luminism
 luminisms
+luminist
 luminists
 luminosities
 luminosity
@@ -97825,6 +97840,7 @@ nighing
 nighness
 nighnesses
 nighs
+night
 nightcap
 nightcaps
 nightclothes
@@ -106563,6 +106579,7 @@ paellas
 paeon
 paesan
 paesani
+paesano
 paesanos
 paesans
 pagan
@@ -107314,6 +107331,7 @@ paparazzi
 paparazzo
 papas
 papaverine
+papaverines
 papaw
 papaws
 papaya
@@ -108366,6 +108384,7 @@ pastoralness
 pastoralnesses
 pastorals
 pastorate
+pastorates
 pastored
 pastoring
 pastorium
@@ -110302,6 +110321,7 @@ persecutive
 persecutor
 persecutors
 persecutory
+perseverance
 perseverances
 perseverate
 perseverated
@@ -110352,6 +110372,7 @@ personalistic
 personalists
 personalities
 personality
+personalization
 personalize
 personalized
 personalizes
@@ -122792,6 +122813,7 @@ ratiocination
 ratiocinations
 ratiocinative
 ratiocinator
+ratiocinators
 ration
 rational
 rationales
@@ -124145,6 +124167,7 @@ reconfiguration
 reconfigure
 reconfigured
 reconfigures
+reconfine
 reconfined
 reconfines
 reconfining
@@ -133572,6 +133595,7 @@ scabble
 scabbled
 scabbles
 scabbling
+scabby
 scabies
 scabietic
 scabiosa
@@ -134422,6 +134446,7 @@ scorcher
 scorchers
 scorches
 scorching
+scorchingly
 score
 scoreboard
 scoreboards
@@ -138220,6 +138245,7 @@ shrieval
 shrievalties
 shrievalty
 shrieve
+shrieved
 shrieving
 shrifts
 shrike
@@ -139653,6 +139679,7 @@ skirters
 skirting
 skirtings
 skirtless
+skirtlike
 skirts
 skis
 skit
@@ -144169,6 +144196,7 @@ spudded
 spudder
 spudders
 spuds
+spue
 spued
 spues
 spuing
@@ -148906,6 +148934,7 @@ supercar
 supercargo
 supercargoes
 supercargos
+supercarrier
 supercarriers
 supercars
 supercautious
@@ -149425,6 +149454,7 @@ supinated
 supinates
 supinating
 supination
+supinations
 supinator
 supinators
 supine
@@ -150764,6 +150794,7 @@ syncs
 syncytia
 syncytial
 syncytium
+syndactyl
 syndactylies
 syndactylism
 syndactylisms
@@ -151790,6 +151821,7 @@ tapioca
 tapiocas
 tapir
 tapirs
+tapis
 tapises
 tappable
 tapped
@@ -156349,6 +156381,7 @@ tourniquets
 tours
 touse
 toused
+touses
 tousing
 tousle
 tousled
@@ -162735,6 +162768,7 @@ unmuzzling
 unmyelinated
 unnail
 unnailed
+unnailing
 unnails
 unnamable
 unnameable
@@ -163836,6 +163870,7 @@ unvoiced
 unvoices
 unvoicing
 unwalled
+unwaning
 unwanted
 unwarier
 unwariest
