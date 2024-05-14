@@ -2937,6 +2937,7 @@ albedo
 albedoes
 albedos
 albeit
+albertite
 albertites
 albescent
 albicore
@@ -7689,6 +7690,7 @@ armonica
 armonicas
 armor
 armored
+armorer
 armorers
 armorial
 armorially
@@ -15204,6 +15206,7 @@ blastoderms
 blastodiscs
 blastoff
 blastoffs
+blastoma
 blastomas
 blastomata
 blastomere
@@ -16241,6 +16244,7 @@ bollix
 bollixed
 bollixes
 bollixing
+bolloxed
 bolloxes
 bolloxing
 bolls
@@ -33055,6 +33059,7 @@ cowages
 coward
 cowardice
 cowardices
+cowardliness
 cowardlinesses
 cowardly
 cowards
@@ -34688,6 +34693,7 @@ cud
 cudbear
 cudbears
 cuddie
+cuddies
 cuddle
 cuddled
 cuddler
@@ -37510,6 +37516,7 @@ deerskin
 deerskins
 deerstalker
 deerstalkers
+deerweed
 deerweeds
 deeryard
 deeryards
@@ -40300,6 +40307,7 @@ diacid
 diacidic
 diacids
 diaconal
+diaconate
 diaconates
 diacritic
 diacritical
@@ -43784,6 +43792,7 @@ domelike
 domes
 domesday
 domesdays
+domestic
 domestically
 domesticate
 domesticated
@@ -51632,6 +51641,7 @@ excursionists
 excursions
 excursive
 excursively
+excursiveness
 excursivenesses
 excursus
 excursuses
@@ -60238,6 +60248,7 @@ gamesmanships
 gamesmen
 gamesome
 gamesomely
+gamesomeness
 gamesomenesses
 gamest
 gamester
@@ -62509,6 +62520,7 @@ gloomier
 gloomiest
 gloomily
 gloominess
+gloominesses
 glooming
 gloomings
 glooms
@@ -68778,6 +68790,7 @@ hippinesses
 hippish
 hippo
 hippocampal
+hippocampi
 hippocampus
 hippocras
 hippocrases
@@ -75803,6 +75816,7 @@ insularity
 insularly
 insulars
 insulate
+insulated
 insulates
 insulating
 insulation
@@ -94521,6 +94535,7 @@ mothy
 motif
 motific
 motifs
+motile
 motiles
 motilities
 motility
@@ -95632,6 +95647,7 @@ musician
 musicianly
 musicians
 musicianship
+musicianships
 musick
 musicked
 musicking
@@ -96536,6 +96552,7 @@ natheless
 nathless
 nation
 national
+nationalise
 nationalised
 nationalises
 nationalising
@@ -97964,6 +97981,7 @@ niobites
 niobium
 niobiums
 niobous
+nip
 nipa
 nipas
 nipped
@@ -103718,6 +103736,7 @@ outliers
 outlies
 outline
 outlined
+outliner
 outliners
 outlines
 outlining
@@ -116333,6 +116352,7 @@ predatisms
 predator
 predators
 predatory
+predawn
 predawns
 predeath
 predeaths
@@ -123993,6 +124013,7 @@ recoiled
 recoiler
 recoilers
 recoiling
+recoilless
 recoils
 recoin
 recoinage
@@ -128680,6 +128701,7 @@ resurfaced
 resurfacer
 resurfacers
 resurfaces
+resurfacing
 resurge
 resurged
 resurgence
@@ -129579,6 +129601,7 @@ rewed
 rewedded
 rewedding
 reweds
+reweigh
 reweighed
 reweighing
 reweighs
@@ -141383,6 +141406,7 @@ soapsuds
 soapsudsy
 soapwort
 soapworts
+soapy
 soar
 soared
 soarer
@@ -143672,6 +143696,7 @@ splining
 splint
 splinted
 splinter
+splintered
 splintering
 splinters
 splintery
@@ -146150,6 +146175,7 @@ storminesses
 storming
 storms
 stormy
+story
 storyboard
 storyboarded
 storyboarding
@@ -147513,6 +147539,7 @@ subjugator
 subjugators
 subjunction
 subjunctions
+subjunctive
 subjunctives
 subkingdom
 subkingdoms
@@ -148382,6 +148409,7 @@ suggested
 suggester
 suggesters
 suggestibility
+suggestible
 suggesting
 suggestion
 suggestions
@@ -151651,6 +151679,7 @@ tankless
 tanklike
 tanks
 tankship
+tankships
 tannable
 tannage
 tannages
@@ -155710,6 +155739,7 @@ toner
 toners
 tones
 tonetic
+tonetically
 tonetics
 tonette
 tonettes
@@ -163036,6 +163066,7 @@ unrefrigerated
 unregenerate
 unregenerately
 unregistered
+unregulated
 unrehearsed
 unreinforced
 unrelated
@@ -166556,6 +166587,7 @@ vinculum
 vinculums
 vindaloo
 vindaloos
+vindicable
 vindicate
 vindicated
 vindicates
@@ -167380,6 +167412,7 @@ votiveness
 votives
 votress
 votresses
+vouch
 vouched
 vouchee
 voucher
@@ -171975,6 +172008,7 @@ yowe
 yowed
 yowes
 yowies
+yowing
 yowl
 yowled
 yowler
@@ -172189,6 +172223,7 @@ zeins
 zeitgeber
 zeitgebers
 zeitgeist
+zeitgeists
 zek
 zeks
 zelkova
