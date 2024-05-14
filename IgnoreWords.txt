@@ -2345,6 +2345,7 @@ agglomerates
 agglomerating
 agglomeration
 agglomerations
+agglomerative
 agglutinability
 agglutinable
 agglutinated
@@ -11602,6 +11603,7 @@ bashaw
 bashaws
 bashed
 basher
+bashers
 bashes
 bashful
 bashfully
@@ -11620,6 +11622,7 @@ basidial
 basidiomycete
 basidiomycetes
 basidiospore
+basidiospores
 basidium
 basified
 basifier
@@ -16270,6 +16273,7 @@ bolsheviks
 bolshevism
 bolshevisms
 bolshevize
+bolshevized
 bolshevizes
 bolshevizing
 bolshie
@@ -19614,6 +19618,7 @@ buttock
 buttocks
 button
 buttonball
+buttonballs
 buttonbush
 buttonbushes
 buttoned
@@ -25105,6 +25110,7 @@ cholestases
 cholestatic
 cholesteric
 cholesterol
+cholesterols
 cholestyramine
 cholestyramines
 choline
@@ -26584,6 +26590,7 @@ clericalist
 clericalists
 clerically
 clericals
+clerics
 clerids
 clerihew
 clerihews
@@ -28313,6 +28320,7 @@ colleted
 colleting
 collets
 collided
+collider
 colliders
 collides
 colliding
@@ -34577,6 +34585,7 @@ cryptological
 cryptologies
 cryptologist
 cryptologists
+cryptology
 cryptomeria
 cryptomerias
 cryptonym
@@ -39847,6 +39856,7 @@ determines
 determining
 determinism
 determinisms
+determinist
 deterministic
 determinists
 deterrabilities
@@ -44269,6 +44279,7 @@ dourly
 dourness
 dournesses
 douroucouli
+douroucoulis
 douse
 doused
 douser
@@ -55754,6 +55765,7 @@ flagellantisms
 flagellants
 flagellar
 flagellate
+flagellated
 flagellates
 flagellating
 flagellation
@@ -59690,6 +59702,7 @@ fusileers
 fusilier
 fusiliers
 fusillade
+fusilladed
 fusillades
 fusillading
 fusilli
@@ -64612,6 +64625,7 @@ groundsheet
 groundsheets
 groundskeeper
 groundskeepers
+groundsmen
 groundswell
 groundswells
 groundwater
@@ -67107,6 +67121,7 @@ headlined
 headliner
 headliners
 headlines
+headlining
 headlock
 headlocks
 headlong
@@ -78102,6 +78117,7 @@ itches
 itchier
 itchiest
 itchily
+itchiness
 itching
 itchings
 itchy
@@ -78857,6 +78873,7 @@ jigged
 jigger
 jiggered
 jiggering
+jiggers
 jiggier
 jiggiest
 jigging
@@ -79184,6 +79201,7 @@ jot
 jota
 jotas
 jots
+jotted
 jotter
 jotters
 jotting
@@ -84647,6 +84665,7 @@ liquorice
 liquorices
 liquoring
 liquorish
+liquors
 lira
 liras
 lire
@@ -95680,6 +95699,7 @@ musings
 musjid
 musjids
 musk
+muskeg
 muskegs
 muskellunge
 musket
@@ -96048,6 +96068,7 @@ myriad
 myriads
 myriapod
 myriapods
+myrica
 myricas
 myriopod
 myriopods
@@ -102485,6 +102506,7 @@ organochlorine
 organochlorines
 organogeneses
 organogenesis
+organogenetic
 organoleptic
 organologies
 organology
@@ -106654,6 +106676,7 @@ pailsful
 pain
 painch
 painches
+pained
 painful
 painfuller
 painfullest
@@ -107186,6 +107209,7 @@ panic
 panically
 panicked
 panickier
+panickiest
 panicking
 panicky
 panicle
@@ -116266,6 +116290,7 @@ preclearances
 precleared
 preclearing
 preclears
+preclinical
 preclude
 precluded
 precludes
@@ -122284,6 +122309,7 @@ raining
 rainless
 rainmakers
 rainmaking
+rainmakings
 rainout
 rainouts
 rainproof
@@ -122695,6 +122721,7 @@ rasboras
 rascal
 rascalities
 rascality
+rascally
 rascals
 rase
 rased
@@ -127158,6 +127185,7 @@ reordered
 reordering
 reorders
 reorganization
+reorganizations
 reorganize
 reorganized
 reorganizer
@@ -128872,6 +128900,7 @@ retemper
 retempered
 retempering
 retempers
+retems
 retene
 retenes
 retention
@@ -131131,6 +131160,7 @@ rotameter
 rotameters
 rotaries
 rotary
+rotas
 rotatable
 rotate
 rotated
@@ -132465,6 +132495,7 @@ salinometer
 salinometers
 saliva
 salivary
+salivas
 salivate
 salivated
 salivates
@@ -134057,6 +134088,7 @@ schizophrenics
 schizopod
 schizopods
 schizos
+schizy
 schizzier
 schizziest
 schizzy
@@ -156084,6 +156116,7 @@ torics
 torii
 torment
 tormented
+tormenter
 tormenters
 tormentil
 tormentils
@@ -167179,6 +167212,7 @@ vociferant
 vociferate
 vociferated
 vociferates
+vociferating
 vociferation
 vociferations
 vociferator
@@ -169271,6 +169305,7 @@ wheelings
 wheelless
 wheelman
 wheelmen
+wheels
 wheelsman
 wheelsmen
 wheelwork
