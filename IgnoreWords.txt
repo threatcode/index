@@ -1463,6 +1463,7 @@ admiration
 admirations
 admire
 admired
+admirers
 admires
 admiring
 admiringly
@@ -3628,6 +3629,7 @@ almsgiving
 almsgivings
 almshouse
 almshouses
+almsman
 almsmen
 almuce
 almuces
@@ -8243,6 +8245,7 @@ aspersors
 asphalt
 asphalted
 asphaltic
+asphalting
 asphaltite
 asphaltites
 asphalts
@@ -16315,6 +16318,7 @@ bombshell
 bombshells
 bombsight
 bombsights
+bombycid
 bombycids
 bombycoid
 bombyx
@@ -19802,6 +19806,7 @@ cabins
 cable
 cablecast
 cablecasted
+cablecasting
 cabled
 cablegram
 cablegrams
@@ -20837,6 +20842,7 @@ cankerous
 cankers
 cankerworm
 cankerworms
+canna
 cannabin
 cannabinoid
 cannabinoids
@@ -36886,6 +36892,7 @@ decarboxylated
 decarboxylates
 decarboxylating
 decarboxylation
+decarburization
 decarburize
 decarburized
 decarburizes
@@ -39504,6 +39511,7 @@ despair
 despaired
 despairer
 despairers
+despairing
 despairingly
 despairs
 despatch
@@ -40882,6 +40890,7 @@ digitalizing
 digitally
 digitals
 digitated
+digitately
 digitigrade
 digitization
 digitizations
@@ -41259,6 +41268,7 @@ dioxid
 dioxide
 dioxides
 dioxids
+dioxin
 dioxins
 dip
 dipeptidase
@@ -55899,6 +55909,7 @@ flattering
 flatteringly
 flatters
 flattery
+flattest
 flatting
 flattish
 flattop
@@ -60791,6 +60802,7 @@ gazer
 gazers
 gazes
 gazette
+gazetted
 gazetteer
 gazetteers
 gazettes
@@ -61118,6 +61130,7 @@ genoms
 genotype
 genotypes
 genotypic
+genotypical
 genotypically
 genre
 genres
@@ -68147,6 +68160,7 @@ heteroatoms
 heteroauxin
 heteroauxins
 heterocercal
+heterochromatic
 heterochromatin
 heteroclite
 heteroclites
@@ -70310,6 +70324,7 @@ hues
 huff
 huffed
 huffier
+huffiest
 huffily
 huffiness
 huffinesses
@@ -75114,6 +75129,7 @@ innkeepers
 innocence
 innocences
 innocencies
+innocency
 innocent
 innocenter
 innocentest
@@ -75422,6 +75438,7 @@ insnarers
 insnares
 insnaring
 insobrieties
+insobriety
 insociabilities
 insociability
 insociable
@@ -78387,6 +78404,7 @@ jawed
 jawing
 jawless
 jawlike
+jawline
 jawlines
 jaws
 jay
@@ -82744,6 +82762,7 @@ learned
 learnedly
 learnedness
 learnednesses
+learner
 learners
 learnings
 learns
@@ -92872,6 +92891,7 @@ mitochondria
 mitochondrial
 mitochondrion
 mitogen
+mitogenicities
 mitogenicity
 mitogens
 mitomycin
@@ -97187,6 +97207,7 @@ neurasthenia
 neurasthenic
 neurasthenics
 neuraxon
+neuraxons
 neurilemma
 neurilemmal
 neurilemmas
@@ -99829,6 +99850,7 @@ notum
 notwithstanding
 nougat
 nougats
+nought
 noumena
 noumenal
 noumenon
@@ -108520,6 +108542,7 @@ pawner
 pawners
 pawning
 pawnor
+pawnors
 pawns
 pawnshops
 pawpaw
@@ -109740,6 +109763,7 @@ pericarps
 perichondral
 perichondria
 perichondrium
+pericopae
 pericopal
 pericope
 pericopes
@@ -124552,6 +124576,7 @@ redoubtably
 redoubts
 redound
 redounded
+redounding
 redounds
 redout
 redouts
@@ -130459,6 +130484,7 @@ rockroses
 rocks
 rockshaft
 rockshafts
+rockslide
 rockslides
 rockweed
 rockweeds
@@ -134180,6 +134206,7 @@ score
 scoreboard
 scoreboards
 scorecard
+scorecards
 scored
 scorekeeper
 scorekeepers
@@ -141745,6 +141772,7 @@ someplace
 someplaces
 somersault
 somersaulted
+somersaulting
 somersaults
 somerset
 somerseted
@@ -150975,6 +151003,7 @@ taffies
 taffrail
 taffrails
 taffy
+tafia
 tag
 tagalong
 tagalongs
@@ -151725,6 +151754,7 @@ tastemakers
 taster
 tasters
 tastes
+tastier
 tastiest
 tastily
 tastiness
@@ -152159,6 +152189,7 @@ teemingly
 teemingness
 teems
 teen
+teenage
 teenaged
 teenager
 teenagers
@@ -154812,6 +154843,7 @@ tingler
 tinglers
 tingles
 tinglier
+tingliest
 tingling
 tinglingly
 tingly
@@ -160502,6 +160534,7 @@ uncobbled
 uncock
 uncocked
 uncocking
+uncocks
 uncodified
 uncoerced
 uncoercive
@@ -161048,6 +161081,7 @@ underreacting
 underreacts
 underreport
 underreported
+underreporting
 underreports
 underripe
 underrun
@@ -168084,6 +168118,7 @@ waterfowling
 waterfowlings
 waterfowls
 waterfront
+waterfronts
 waterhead
 waterheads
 waterhen
