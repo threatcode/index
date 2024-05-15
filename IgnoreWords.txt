@@ -244,6 +244,7 @@ absurds
 abubble
 abuilding
 abulia
+abulias
 abulic
 abundance
 abundances
@@ -2747,6 +2748,7 @@ airfreight
 airfreighted
 airfreighting
 airfreights
+airglow
 airglows
 airhead
 airheaded
@@ -16106,6 +16108,7 @@ bobbysox
 bobcat
 bobcats
 bobeche
+bobeches
 bobolink
 bobolinks
 bobs
@@ -28456,6 +28459,7 @@ collegial
 collegialities
 collegiality
 collegially
+collegian
 collegians
 collegiate
 collegiately
@@ -30902,6 +30906,7 @@ consultative
 consulted
 consulter
 consulters
+consulting
 consultive
 consultor
 consultors
@@ -31373,6 +31378,7 @@ conversazione
 conversaziones
 conversazioni
 converse
+conversed
 conversely
 converser
 conversers
@@ -41910,6 +41916,7 @@ disappoints
 disapprobation
 disapprobations
 disapproval
+disapprovals
 disapprove
 disapproved
 disapprover
@@ -42702,6 +42709,7 @@ dismals
 dismantle
 dismantled
 dismantlement
+dismantlements
 dismantles
 dismantling
 dismast
@@ -43106,6 +43114,7 @@ dissensuses
 dissent
 dissented
 dissenter
+dissenters
 dissentient
 dissentients
 dissenting
@@ -43384,6 +43393,7 @@ disturbers
 disturbing
 disturbingly
 disubstituted
+disulfate
 disulfates
 disulfid
 disulfide
@@ -49805,6 +49815,7 @@ ephod
 ephods
 ephor
 ephoral
+ephorate
 ephorates
 ephori
 ephors
@@ -52503,6 +52514,7 @@ expertises
 expertism
 expertisms
 expertize
+expertized
 expertizes
 expertizing
 expertly
@@ -63231,6 +63243,7 @@ gnawer
 gnawers
 gnawing
 gnawingly
+gnawings
 gnawn
 gnaws
 gneiss
@@ -68806,6 +68819,7 @@ heterothallisms
 heterotic
 heterotopic
 heterotroph
+heterotrophic
 heterotrophies
 heterotrophs
 heterotrophy
@@ -72793,6 +72807,7 @@ imagination
 imaginations
 imaginative
 imaginatively
+imaginativeness
 imagine
 imagined
 imaginer
@@ -73248,6 +73263,7 @@ impassivity
 impaste
 impasted
 impastes
+impasting
 impasto
 impastoed
 impastos
@@ -74264,6 +74280,7 @@ inconspicuously
 inconstancies
 inconstancy
 inconstant
+inconstantly
 inconsumable
 inconsumably
 incontestable
@@ -77008,6 +77025,7 @@ interpellators
 interpenetrate
 interpenetrated
 interpenetrates
+interperceptual
 interpermeate
 interpermeated
 interpermeates
@@ -77608,6 +77626,7 @@ inurned
 inurning
 inurnment
 inurnments
+inurns
 inutile
 inutilely
 inutilities
@@ -85957,6 +85976,7 @@ lonelily
 loneliness
 lonelinesses
 lonely
+loneness
 lonenesses
 loner
 loners
@@ -91915,6 +91935,7 @@ millesimally
 millesimals
 millet
 millets
+millhouse
 millhouses
 milliampere
 milliamperes
@@ -92736,6 +92757,7 @@ misdates
 misdating
 misdeal
 misdealer
+misdealers
 misdealing
 misdeals
 misdealt
@@ -113449,6 +113471,7 @@ pitched
 pitcher
 pitcherful
 pitcherfuls
+pitchersful
 pitches
 pitchfork
 pitchforked
@@ -118363,6 +118386,7 @@ prettied
 prettier
 pretties
 prettiest
+prettification
 prettifications
 prettified
 prettifier
@@ -118644,6 +118668,7 @@ primiparous
 primitive
 primitively
 primitiveness
+primitivenesses
 primitives
 primitivism
 primitivisms
@@ -122442,6 +122467,7 @@ quippish
 quippu
 quippus
 quippy
+quips
 quipster
 quipsters
 quipu
@@ -131878,6 +131904,7 @@ roquette
 roquettes
 rorqual
 rorquals
+rosacea
 rosaceas
 rosaceous
 rosanilin
@@ -136329,6 +136356,7 @@ seduced
 seducement
 seducements
 seducer
+seducers
 seduces
 seducible
 seducing
@@ -136867,6 +136895,7 @@ semiopen
 semioses
 semiosis
 semiotic
+semiotician
 semioticians
 semioticist
 semioticists
@@ -141872,6 +141901,7 @@ snarkiest
 snarkily
 snarks
 snarky
+snarl
 snarled
 snarler
 snarlers
@@ -143546,6 +143576,7 @@ spaces
 spaceship
 spaceships
 spacesuit
+spacesuits
 spacewalk
 spacewalked
 spacewalker
@@ -146582,6 +146613,7 @@ stickout
 stickouts
 stickpin
 stickpins
+sticks
 stickseed
 stickseeds
 sticktight
@@ -153552,6 +153584,7 @@ telecommuting
 telecoms
 teleconference
 teleconferences
+telecourse
 telecourses
 telefacsimile
 telefacsimiles
@@ -165099,6 +165132,7 @@ upchucking
 upchucks
 upclimb
 upclimbed
+upclimbing
 upclimbs
 upcoast
 upcoil
@@ -168276,6 +168310,7 @@ voiceful
 voicefulness
 voicefulnesses
 voiceless
+voicelessly
 voicelessness
 voicelessnesses
 voicemail
