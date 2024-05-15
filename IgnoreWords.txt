@@ -437,6 +437,7 @@ accessorizes
 accessorizing
 accessory
 acciaccatura
+acciaccaturas
 accidence
 accidences
 accident
@@ -7281,6 +7282,7 @@ arboretums
 arboricultural
 arboriculture
 arboricultures
+arborist
 arborists
 arborization
 arborizations
@@ -7810,6 +7812,7 @@ arraigner
 arraigners
 arraigning
 arraignment
+arraignments
 arraigns
 arrange
 arranged
@@ -8285,6 +8288,7 @@ aspersing
 aspersion
 aspersions
 aspersive
+aspersor
 aspersors
 asphalt
 asphalted
@@ -8341,6 +8345,7 @@ aspish
 asps
 asquint
 asrama
+asramas
 assagai
 assagaied
 assagaiing
@@ -12690,6 +12695,7 @@ began
 begat
 begaze
 begazed
+begazes
 begazing
 beget
 begets
@@ -14318,6 +14324,7 @@ bimillennials
 bimodal
 bimodalities
 bimodality
+bimolecular
 bimolecularly
 bimonthlies
 bimonthly
@@ -16938,6 +16945,7 @@ botanically
 botanicals
 botanicas
 botanies
+botanise
 botanised
 botanises
 botanising
@@ -17513,6 +17521,7 @@ braky
 braless
 bramble
 brambled
+brambles
 bramblier
 brambliest
 brambling
@@ -23635,6 +23644,7 @@ chalazions
 chalcedonic
 chalcedony
 chalcid
+chalcids
 chalcocite
 chalcogen
 chalcogenide
@@ -28161,6 +28171,7 @@ coinsurers
 coinsures
 coinsuring
 cointer
+cointerred
 cointerring
 cointers
 cointreau
@@ -35582,6 +35593,7 @@ cutty
 cutup
 cutups
 cutwater
+cutwaters
 cutwork
 cutworks
 cutworm
@@ -41695,6 +41707,7 @@ direly
 direness
 direnesses
 direr
+direst
 dirge
 dirgeful
 dirgelike
@@ -47344,6 +47357,7 @@ eleoptene
 eleoptenes
 elephant
 elephantiases
+elephantiasis
 elephantine
 elephants
 elevate
@@ -61830,6 +61844,7 @@ gestaltist
 gestaltists
 gestalts
 gestapo
+gestapos
 gestate
 gestated
 gestates
@@ -79291,6 +79306,7 @@ jitteriness
 jitterinesses
 jittering
 jitters
+jittery
 jiujitsu
 jiujitsus
 jiujutsu
@@ -81215,6 +81231,7 @@ knapper
 knappers
 knapping
 knaps
+knapsacks
 knapweed
 knapweeds
 knar
@@ -89480,6 +89497,7 @@ media
 mediacies
 mediacy
 mediad
+mediae
 mediaevals
 mediagenic
 medial
@@ -89538,6 +89556,7 @@ medicinable
 medicinal
 medicinally
 medicinals
+medicine
 medicined
 medicines
 medicining
@@ -91757,6 +91776,7 @@ millimho
 millimhos
 millimicron
 millimicrons
+millimolar
 millimole
 millimoles
 milline
@@ -91898,6 +91918,7 @@ minders
 mindful
 mindfully
 mindfulness
+mindfulnesses
 minding
 mindless
 mindlessly
@@ -99246,6 +99267,7 @@ nonentries
 nonentry
 nonenzymatic
 nonenzymic
+nonequal
 nonequals
 nonequilibria
 nonequilibrium
@@ -101859,6 +101881,7 @@ ogreishly
 ogreism
 ogreisms
 ogres
+ogress
 ogresses
 ogrish
 ogrishly
@@ -104193,6 +104216,7 @@ outlive
 outlived
 outliver
 outlives
+outliving
 outlook
 outlooks
 outlove
@@ -108103,6 +108127,7 @@ paraph
 paraphernalia
 paraphrasable
 paraphrased
+paraphraser
 paraphrasers
 paraphrases
 paraphrasing
@@ -122853,6 +122878,7 @@ raku
 rakus
 rale
 rales
+rallentando
 rallied
 rallier
 ralliers
@@ -135410,6 +135436,7 @@ scrummed
 scrumming
 scrumptious
 scrumptiously
+scrums
 scrunch
 scrunched
 scrunches
@@ -135629,6 +135656,7 @@ seaboards
 seaboot
 seaboots
 seaborgium
+seaborgiums
 seaborne
 seacoast
 seacoasts
@@ -136607,6 +136635,7 @@ semishrubby
 semiskilled
 semisoft
 semisolid
+semisolids
 semistiff
 semisubmersible
 semisweet
@@ -145356,6 +145385,7 @@ stalk
 stalked
 stalker
 stalkers
+stalkier
 stalkiest
 stalkily
 stalking
@@ -151911,6 +151941,7 @@ taffrail
 taffrails
 taffy
 tafia
+tafias
 tag
 tagalong
 tagalongs
@@ -156834,6 +156865,7 @@ tortoiseshell
 tortoiseshells
 tortoni
 tortonis
+tortricid
 tortricids
 tortrix
 tortrixes
@@ -164868,6 +164900,7 @@ uplift
 uplifted
 uplifter
 uplifters
+uplifting
 uplifts
 uplight
 uplighted
@@ -168936,6 +168969,7 @@ washable
 washables
 washateria
 washaterias
+washbasin
 washbasins
 washboard
 washbowl
@@ -173233,6 +173267,7 @@ zoogleas
 zoogloea
 zoogloeae
 zoogloeal
+zoogloeas
 zoogloeic
 zoographies
 zoography
