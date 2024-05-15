@@ -7,3 +7,13 @@ Guidelines for Linux package managers - SWI-Prolog,http://swi-prolog.osuosl.org/
 Package Counts - Agricultural Marketing Service - USDA,https://www.ams.usda.gov/mnreports/na_fv175.txt
 catkin CMakeLists.txt - ROS Wiki,http://wiki.ros.org/catkin/CMakeLists.txt
 MIHD,https://www.med.upenn.edu/long-lab/assets/user-content/software/MIHD.txt
+CAPCollector/packages.txt at master - GitHub,https://github.com/CAPTools/CAPCollector/blob/master/packages.txt
+OVERVIEW.TXT - platform/packages/modules/adb - Git at Google,https://android.googlesource.com/platform/packages/modules/adb/%2B/HEAD/OVERVIEW.TXT
+packages.txt - cloudposse/geodesic - GitHub,https://github.com/cloudposse/geodesic/blob/master/packages.txt
+adding-packages-carg.. - Buildroot,https://buildroot.org/downloads/manual/adding-packages-cargo.txt
+packages.rst.txt,https://docs.conda.io/projects/conda/en/latest/_sources/user-guide/concepts/packages.rst.txt
+http://slackware.osuosl.org/slackware-9.1/PACKAGES.TXT,http://slackware.osuosl.org/slackware-9.1/PACKAGES.TXT
+ecc/input/eccdata.txt - platform/packages/services/Telephony,https://android.googlesource.com/platform/packages/services/Telephony/%2B/master/ecc/input/eccdata.txt
+adding-packages-gett.. - Buildroot,http://buildroot.uclibc.org/downloads/manual/adding-packages-gettext.txt
+adding-packages-virt.. - Buildroot,http://buildroot.busybox.net/downloads/manual/adding-packages-virtual.txt
+adding-packages.txt - Buildroot,https://buildroot.org/downloads/manual/adding-packages.txt
