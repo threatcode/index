@@ -5548,6 +5548,7 @@ antependia
 antependium
 antependiums
 antepenult
+antepenultima
 antepenultimate
 antepenults
 anterior
@@ -9337,6 +9338,7 @@ ausforming
 ausforms
 auslander
 auslanders
+auspex
 auspicate
 auspicated
 auspicates
@@ -10221,6 +10223,7 @@ baccated
 bacchanal
 bacchanalia
 bacchanalian
+bacchanalians
 bacchanals
 bacchant
 bacchante
@@ -12297,6 +12300,7 @@ becoming
 becomingly
 becomings
 becoward
+becowarded
 becowarding
 becowards
 becquerel
@@ -22946,6 +22950,7 @@ ceaseless
 ceaselessly
 ceaselessness
 ceaselessnesses
+ceases
 ceasing
 cebid
 cebids
@@ -24130,6 +24135,7 @@ chatchkes
 chateau
 chateaubriand
 chateaubriands
+chateaus
 chateaux
 chatelain
 chatelaine
@@ -25488,6 +25494,7 @@ chronicities
 chronicity
 chronicle
 chronicled
+chronicler
 chroniclers
 chronicles
 chronicling
@@ -26740,6 +26747,7 @@ climatically
 climatize
 climatized
 climatizes
+climatizing
 climatological
 climatologies
 climatologist
@@ -26879,6 +26887,7 @@ clod
 cloddier
 cloddiest
 cloddish
+cloddishness
 cloddishnesses
 cloddy
 clodhopper
@@ -30217,6 +30226,7 @@ confutative
 confute
 confuted
 confuters
+confutes
 confuting
 congaed
 congaing
@@ -33392,6 +33402,7 @@ cracklier
 crackling
 cracklings
 crackly
+cracknel
 cracknels
 crackpot
 crackpots
@@ -34521,6 +34532,7 @@ crumminesses
 crummy
 crump
 crumped
+crumpet
 crumpets
 crumping
 crumple
@@ -44285,6 +44297,7 @@ dosing
 doss
 dossal
 dossals
+dossed
 dossel
 dossels
 dosser
@@ -45938,6 +45951,7 @@ dyarchic
 dyarchies
 dyarchy
 dybbuk
+dybbukim
 dybbuks
 dye
 dyeabilities
@@ -50202,6 +50216,7 @@ eradications
 eradicator
 eradicators
 eras
+erasabilities
 erasability
 erasable
 erase
@@ -52507,6 +52522,7 @@ expositor
 expositors
 expository
 exposits
+expostulate
 expostulated
 expostulates
 expostulating
@@ -55879,6 +55895,7 @@ fixate
 fixated
 fixates
 fixatif
+fixatifs
 fixating
 fixation
 fixations
@@ -62514,6 +62531,7 @@ glaziery
 glaziest
 glazily
 glaziness
+glazinesses
 glazing
 glazings
 glazy
@@ -65216,6 +65234,7 @@ guidon
 guidons
 guids
 guidwillie
+guild
 guilder
 guilders
 guildhall
@@ -71111,6 +71130,7 @@ huswifes
 huswives
 hut
 hutch
+hutched
 hutches
 hutching
 hutlike
@@ -94762,6 +94782,7 @@ mortarman
 mortars
 mortary
 mortgage
+mortgaged
 mortgagee
 mortgagees
 mortgager
@@ -96187,6 +96208,7 @@ mutton
 muttonchops
 muttonfish
 muttonfishes
+muttons
 muttony
 mutts
 mutual
@@ -96762,6 +96784,7 @@ nappes
 nappie
 nappier
 nappies
+nappiest
 nappiness
 nappinesses
 nappy
@@ -100876,6 +100899,7 @@ nymphette
 nympho
 nympholepsies
 nympholepsy
+nympholept
 nympholeptic
 nympholepts
 nymphomania
@@ -114295,6 +114319,7 @@ pluvious
 ply
 plyer
 plyers
+plying
 plyingly
 plyometric
 plyometrics
@@ -121891,6 +121916,7 @@ questers
 questing
 question
 questionable
+questionably
 questionaries
 questioned
 questioner
@@ -125440,6 +125466,7 @@ reedy
 reef
 reefable
 reefed
+reefer
 reefers
 reefier
 reefiest
@@ -134993,6 +135020,7 @@ scorpions
 scot
 scotch
 scotched
+scotching
 scoter
 scoters
 scotia
@@ -137446,6 +137474,7 @@ shabbinesses
 shabby
 shack
 shacked
+shacking
 shackle
 shacklebone
 shacklebones
@@ -139375,6 +139404,7 @@ siliquous
 silk
 silkaline
 silkalines
+silked
 silken
 silkier
 silkies
@@ -141087,6 +141117,7 @@ slype
 slypes
 smack
 smacked
+smacker
 smackers
 smacking
 smacks
@@ -142449,6 +142480,7 @@ solmization
 solmizations
 solo
 soloed
+soloing
 soloist
 soloistic
 soloists
@@ -142947,6 +142979,7 @@ soughing
 soughs
 souk
 soukous
+soukouses
 souks
 soul
 souled
@@ -147405,6 +147438,7 @@ struggling
 strum
 struma
 strumas
+strumatic
 strummed
 strummer
 strummers
@@ -168836,6 +168870,7 @@ warsler
 warslers
 warsles
 warsling
+warstle
 warstled
 warstler
 warstlers
