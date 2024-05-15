@@ -9611,6 +9611,7 @@ autonomically
 autonomies
 autonomist
 autonomists
+autonomously
 autonomy
 autonym
 autonyms
@@ -14541,6 +14542,7 @@ biology
 bioluminescence
 bioluminescent
 biolyses
+biolysis
 biolytic
 biomarker
 biomarkers
@@ -17903,6 +17905,7 @@ breeds
 breeks
 brees
 breeze
+breezed
 breezeless
 breezes
 breezeway
@@ -18630,6 +18633,7 @@ brusque
 brusquely
 brusqueness
 brusquenesses
+brusquer
 brusqueries
 brusquest
 brut
@@ -20838,6 +20842,7 @@ canalizes
 canalizing
 canalled
 canaller
+canallers
 canalling
 canals
 canape
@@ -24179,6 +24184,7 @@ chasuble
 chasubles
 chat
 chatchka
+chatchkas
 chatchke
 chatchkes
 chateau
@@ -24352,6 +24358,7 @@ chedite
 chedites
 cheechako
 cheechakos
+cheek
 cheekbone
 cheekbones
 cheeked
@@ -29628,6 +29635,7 @@ computes
 computing
 computist
 computists
+comrade
 comradeliness
 comradelinesses
 comradely
@@ -29755,6 +29763,7 @@ concerned
 concerning
 concernment
 concernments
+concerns
 concert
 concerted
 concertedly
@@ -41393,6 +41402,7 @@ dimethoates
 dimethyl
 dimethyls
 dimetric
+dimidiate
 dimidiated
 dimidiates
 dimidiating
@@ -41932,6 +41942,7 @@ disarticulating
 disassemble
 disassembled
 disassembles
+disassemblies
 disassembling
 disassembly
 disassociate
@@ -41956,6 +41967,7 @@ disband
 disbanded
 disbanding
 disbandment
+disbandments
 disbands
 disbar
 disbarment
@@ -42564,6 +42576,7 @@ disinfestation
 disinfestations
 disinfested
 disinfesting
+disinfests
 disinflation
 disinflationary
 disinflations
@@ -43789,6 +43802,7 @@ dodecahedrons
 dodecaphonic
 dodecaphonies
 dodecaphonist
+dodecaphonists
 dodecaphony
 dodge
 dodgeball
@@ -47689,6 +47703,7 @@ embankments
 embanks
 embar
 embarcadero
+embarcaderos
 embargo
 embargoed
 embargoes
@@ -50173,6 +50188,7 @@ equalises
 equalising
 equalitarian
 equalitarianism
+equalitarians
 equalities
 equality
 equalization
@@ -50330,6 +50346,7 @@ erases
 erasing
 erasion
 erasions
+erasure
 erasures
 erbium
 erbiums
@@ -56163,6 +56180,7 @@ flambeaux
 flambee
 flambeed
 flambes
+flamboyance
 flamboyances
 flamboyancies
 flamboyancy
@@ -64997,6 +65015,7 @@ groundsheet
 groundsheets
 groundskeeper
 groundskeepers
+groundsman
 groundsmen
 groundswell
 groundswells
@@ -75220,6 +75239,7 @@ inflationist
 inflationists
 inflator
 inflators
+inflect
 inflectable
 inflected
 inflecting
@@ -83071,6 +83091,7 @@ laughters
 launce
 launces
 launch
+launched
 launcher
 launchers
 launches
@@ -92147,6 +92168,7 @@ miniaturizes
 miniaturizing
 minibars
 minibike
+minibiker
 minibikers
 minibikes
 minibus
@@ -94556,6 +94578,7 @@ monotonic
 monotonically
 monotonicities
 monotonicity
+monotonies
 monotonous
 monotonously
 monotonousness
@@ -99836,6 +99859,7 @@ nonnative
 nonnatives
 nonnatural
 nonnaval
+nonnecessities
 nonnecessity
 nonnegative
 nonnegligent
@@ -119168,6 +119192,7 @@ profounds
 profs
 profundities
 profundity
+profuse
 profusely
 profuseness
 profusenesses
@@ -138869,6 +138894,7 @@ shopping
 shoppings
 shops
 shoptalk
+shoptalks
 shopwindow
 shopwindows
 shopworn
@@ -138917,6 +138943,7 @@ shorteners
 shortening
 shortenings
 shortens
+shorter
 shortest
 shortfall
 shortfalls
@@ -140165,6 +140192,7 @@ sistrums
 sit
 sitar
 sitarist
+sitarists
 sitars
 sitcom
 sitcoms
@@ -149010,6 +149038,7 @@ subtorrid
 subtotal
 subtotaled
 subtotaling
+subtotalled
 subtotalling
 subtotally
 subtotals
@@ -161563,6 +161592,7 @@ unbusy
 unbuttered
 unbutton
 unbuttoned
+unbuttoning
 unbuttons
 uncage
 uncaged
@@ -164362,6 +164392,7 @@ unsettlement
 unsettlements
 unsettles
 unsettling
+unsettlingly
 unsew
 unsewed
 unsewing
@@ -165395,6 +165426,7 @@ upstroke
 upstrokes
 upsurge
 upsurged
+upsurges
 upsurging
 upsweep
 upsweeping
@@ -166092,6 +166124,7 @@ valuableness
 valuablenesses
 valuably
 valuate
+valuated
 valuates
 valuating
 valuation
@@ -167986,6 +168019,7 @@ vitalising
 vitalism
 vitalisms
 vitalist
+vitalistic
 vitalists
 vitalities
 vitality
@@ -168586,6 +168620,7 @@ vulgarity
 vulgarization
 vulgarizations
 vulgarize
+vulgarized
 vulgarizer
 vulgarizers
 vulgarizes
