@@ -9890,6 +9890,7 @@ awakener
 awakeners
 awakening
 awakenings
+awakens
 awakes
 awaking
 award
@@ -15100,6 +15101,7 @@ blacksmithings
 blacksmiths
 blacksnake
 blacksnakes
+blacktail
 blacktails
 blackthorn
 blacktop
@@ -22204,6 +22206,7 @@ caseload
 caseloads
 casemate
 casemated
+casemates
 casement
 casements
 caseoses
@@ -29170,6 +29173,7 @@ comparability
 comparable
 comparableness
 comparably
+comparatist
 comparatists
 comparative
 comparatively
@@ -32946,6 +32950,7 @@ counts
 county
 coup
 coupe
+couped
 coupes
 couping
 couple
@@ -37515,6 +37520,7 @@ decries
 decriminalize
 decriminalized
 decriminalizes
+decriminalizing
 decrown
 decrowned
 decrowning
@@ -40013,6 +40019,7 @@ detonating
 detonation
 detonations
 detonative
+detonator
 detonators
 detour
 detoured
@@ -40824,6 +40831,7 @@ dicta
 dictate
 dictated
 dictates
+dictating
 dictation
 dictations
 dictator
@@ -41140,6 +41148,7 @@ dihedral
 dihedrals
 dihedron
 dihedrons
+dihybrid
 dihybrids
 dihydric
 dikdik
@@ -42014,6 +42023,7 @@ discommode
 discommoded
 discommodes
 discommoding
+discompose
 discomposed
 discomposes
 discomposing
@@ -47043,6 +47053,7 @@ elastomers
 elate
 elated
 elatedly
+elatedness
 elatednesses
 elater
 elaterid
@@ -49689,6 +49700,7 @@ epicyclic
 epicycloid
 epicycloidal
 epicycloids
+epidemic
 epidemical
 epidemically
 epidemicities
@@ -54779,6 +54791,7 @@ fetoproteins
 fetor
 fetors
 fetoscope
+fetoscopes
 fetoscopies
 fetoscopy
 fets
@@ -61995,6 +62008,7 @@ gigatons
 gigawatt
 gigawatts
 gigged
+gigging
 giggle
 giggled
 giggler
@@ -65048,6 +65062,7 @@ guaranies
 guaranis
 guarantee
 guaranteed
+guaranteeing
 guarantees
 guarantied
 guarantor
@@ -67584,6 +67599,7 @@ hectograph
 hectographed
 hectographing
 hectographs
+hectoliter
 hectoliters
 hectometer
 hectometers
@@ -68801,6 +68817,7 @@ highchairs
 higher
 highest
 highfalutin
+highflier
 highfliers
 highflyer
 highflyers
@@ -68924,6 +68941,7 @@ hin
 hind
 hindbrains
 hinder
+hinderer
 hinderers
 hindering
 hinders
@@ -81518,6 +81536,7 @@ kudos
 kudu
 kudus
 kudzu
+kudzus
 kue
 kues
 kufi
@@ -89805,6 +89824,7 @@ meltdown
 meltdowns
 melted
 melter
+melters
 melting
 meltingly
 melton
@@ -105315,6 +105335,7 @@ overexaggerated
 overexaggerates
 overexcite
 overexcited
+overexcites
 overexciting
 overexercise
 overexercised
@@ -125747,6 +125768,7 @@ reflooded
 reflooding
 refloods
 reflow
+reflowed
 reflower
 reflowered
 reflowering
@@ -131437,6 +131459,7 @@ rosefishes
 rosehip
 rosehips
 roselike
+roselle
 roselles
 rosemaling
 rosemalings
@@ -139330,6 +139353,7 @@ silverwares
 silverweeds
 silvery
 silvex
+silvexes
 silvical
 silvics
 silvicultural
@@ -140912,6 +140936,7 @@ slur
 slurb
 slurban
 slurbs
+slurp
 slurped
 slurping
 slurps
@@ -143294,6 +143319,7 @@ spawns
 spay
 spayed
 spaying
+spays
 spaz
 spazz
 spazzes
@@ -144805,6 +144831,7 @@ squealers
 squealing
 squeals
 squeamish
+squeamishness
 squeamishnesses
 squeegee
 squeegeed
@@ -147267,6 +147294,7 @@ strummer
 strummers
 strumming
 strumose
+strumous
 strumpets
 strums
 strung
@@ -147659,6 +147687,7 @@ subcentral
 subcentrally
 subchapter
 subchaser
+subchasers
 subchief
 subchiefs
 subclaim
@@ -151196,6 +151225,7 @@ syncretises
 syncretising
 syncretism
 syncretisms
+syncretist
 syncretistic
 syncretists
 syncretize
@@ -153067,6 +153097,7 @@ telepathy
 telephone
 telephoned
 telephoner
+telephoners
 telephones
 telephonic
 telephonically
@@ -157206,6 +157237,7 @@ trajects
 tram
 tramcar
 tramcars
+tramel
 trameled
 trameling
 tramell
@@ -159958,6 +159990,7 @@ twistable
 twisted
 twister
 twisters
+twistier
 twistiest
 twisting
 twistings
@@ -164751,6 +164784,7 @@ upscales
 upscaling
 upsend
 upsending
+upsends
 upsent
 upset
 upsets
@@ -166472,6 +166506,7 @@ vernacle
 vernacles
 vernacular
 vernacularism
+vernacularisms
 vernacularly
 vernaculars
 vernal
