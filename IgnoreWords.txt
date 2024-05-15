@@ -3615,6 +3615,7 @@ alluviums
 ally
 allying
 allyl
+allylic
 allyls
 alma
 almagest
@@ -5187,6 +5188,7 @@ animaters
 animates
 animating
 animation
+animations
 animatism
 animatisms
 animatist
@@ -8558,6 +8560,7 @@ assumability
 assumable
 assumably
 assume
+assumed
 assumedly
 assumer
 assumers
@@ -17986,6 +17989,7 @@ bride
 bridegroom
 bridegrooms
 brides
+bridesmaid
 bridesmaids
 bridewell
 bridewells
@@ -23345,6 +23349,7 @@ cephaloridines
 cephalosporin
 cephalosporins
 cephalothin
+cephalothins
 cephalothoraces
 cephalothorax
 cephalothoraxes
@@ -29758,6 +29763,7 @@ conchas
 conches
 conchie
 conchies
+concho
 conchoid
 conchoidal
 conchoidally
@@ -32934,6 +32940,7 @@ countersue
 countersued
 countersues
 countersuing
+countersuit
 countersuits
 countersunk
 countertactic
@@ -37690,6 +37697,7 @@ deets
 deewan
 deewans
 def
+deface
 defaced
 defacement
 defacements
@@ -39969,6 +39977,7 @@ detents
 deter
 deterge
 deterged
+detergencies
 detergency
 detergent
 detergents
@@ -40399,6 +40408,7 @@ dextranases
 dextrans
 dextrin
 dextrine
+dextrines
 dextrins
 dextro
 dextrorotary
@@ -46002,6 +46012,7 @@ dynamisms
 dynamist
 dynamistic
 dynamists
+dynamite
 dynamited
 dynamiter
 dynamiters
@@ -51410,6 +51421,7 @@ eventful
 eventfully
 eventfulness
 eventfulnesses
+eventide
 eventides
 eventless
 events
@@ -61534,6 +61546,7 @@ genteelnesses
 gentes
 gentians
 gentil
+gentile
 gentiles
 gentilesse
 gentilesses
@@ -61824,6 +61837,7 @@ gerontology
 gerontomorphic
 gerrymander
 gerrymandered
+gerrymandering
 gerrymanders
 gerund
 gerundial
@@ -63599,6 +63613,7 @@ goriest
 gorilla
 gorillas
 gorily
+goriness
 gorinesses
 goring
 gorm
@@ -79643,6 +79658,7 @@ jubhah
 jubhahs
 jubilance
 jubilances
+jubilant
 jubilantly
 jubilarians
 jubilate
@@ -79753,6 +79769,7 @@ juju
 jujube
 jujubes
 jujuism
+jujuisms
 jujuist
 jujuists
 jujus
@@ -83624,6 +83641,7 @@ leitmotifs
 leitmotiv
 leitmotivs
 lek
+leke
 lekked
 lekking
 leks
@@ -84125,6 +84143,7 @@ liberalises
 liberalising
 liberalism
 liberalisms
+liberalist
 liberalistic
 liberalists
 liberalities
@@ -85360,6 +85379,7 @@ loanable
 loaned
 loaner
 loaners
+loaning
 loanings
 loans
 loanshift
@@ -102883,6 +102903,7 @@ orectic
 orective
 oregano
 oreganos
+oreide
 oreides
 oreodont
 oreodonts
@@ -114914,6 +114935,7 @@ polychrome
 polychromed
 polychromes
 polychromies
+polychroming
 polychromy
 polycistronic
 polyclinic
@@ -115409,6 +115431,7 @@ poppling
 poppy
 poppycock
 poppycocks
+poppyhead
 poppyheads
 pops
 popsicle
@@ -117264,6 +117287,7 @@ preignitions
 preimplantation
 preimpose
 preimposed
+preimposes
 preimposing
 preinduction
 preindustrial
@@ -119894,6 +119918,7 @@ protoxylem
 protoxylems
 protozoa
 protozoal
+protozoan
 protozoans
 protozoic
 protozoologies
@@ -125378,6 +125403,7 @@ redresser
 redressers
 redresses
 redressing
+redressor
 redrew
 redried
 redries
@@ -130788,6 +130814,7 @@ rigorism
 rigorisms
 rigorist
 rigoristic
+rigorists
 rigorous
 rigorously
 rigorousness
@@ -135539,6 +135566,7 @@ scumbags
 scumble
 scumbled
 scumbles
+scumbling
 scumless
 scumlike
 scummed
@@ -137033,6 +137061,7 @@ sequestrums
 sequin
 sequined
 sequining
+sequinned
 sequins
 sequitur
 sequiturs
@@ -139493,6 +139522,7 @@ sillily
 sillimanite
 sillimanites
 silliness
+sillinesses
 sills
 silly
 silo
@@ -152408,6 +152438,7 @@ tantalises
 tantalising
 tantalite
 tantalites
+tantalize
 tantalized
 tantalizer
 tantalizers
@@ -158822,6 +158853,7 @@ trisemic
 trishaw
 trishaws
 triskele
+triskeles
 triskelia
 triskelion
 triskelions
@@ -160374,6 +160406,7 @@ typo
 typograph
 typographed
 typographer
+typographers
 typographic
 typographical
 typographically
@@ -160902,6 +160935,7 @@ unakite
 unakites
 unalarmed
 unalerted
+unalienable
 unalienated
 unaligned
 unalike
@@ -170785,6 +170819,7 @@ wimpy
 win
 wince
 winced
+wincer
 wincers
 winces
 wincey
