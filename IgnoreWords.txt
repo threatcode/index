@@ -389,6 +389,7 @@ accentuations
 accept
 acceptabilities
 acceptability
+acceptable
 acceptableness
 acceptably
 acceptance
@@ -727,6 +728,7 @@ acetylations
 acetylative
 acetylcholine
 acetylcholines
+acetylene
 acetylenes
 acetylenic
 acetylic
@@ -18576,6 +18578,7 @@ brumes
 brummagem
 brummagems
 brumous
+brunch
 brunched
 bruncher
 brunchers
@@ -21752,6 +21755,7 @@ cardiologist
 cardiologists
 cardiology
 cardiomyopathy
+cardiopathies
 cardiopathy
 cardiopulmonary
 cardiothoracic
@@ -23575,6 +23579,7 @@ chabuk
 chabuks
 chachka
 chachkas
+chacma
 chacmas
 chaconnes
 chad
@@ -25129,6 +25134,7 @@ chloroplast
 chloroplastic
 chloroplasts
 chloroprene
+chloroprenes
 chloroquine
 chloroquines
 chloroses
@@ -27299,6 +27305,7 @@ coalboxes
 coaled
 coaler
 coalers
+coalesce
 coalesced
 coalescence
 coalescences
@@ -32156,6 +32163,7 @@ corporativism
 corporativisms
 corporator
 corporators
+corporeal
 corporealities
 corporeality
 corporeally
@@ -33505,6 +33513,7 @@ cragsman
 cragsmen
 crake
 crambe
+crambes
 crambo
 cramboes
 crambos
@@ -40376,6 +40385,7 @@ dew
 dewan
 dewans
 dewar
+dewars
 dewater
 dewatered
 dewaterer
@@ -43298,6 +43308,7 @@ distractive
 distracts
 distrain
 distrainable
+distrained
 distrainer
 distrainers
 distraining
@@ -44902,6 +44913,7 @@ draper
 draperied
 draperies
 drapers
+drapery
 drapes
 drapey
 draping
@@ -59898,6 +59910,7 @@ furcation
 furcations
 furcraea
 furcraeas
+furcula
 furculae
 furcular
 furculum
@@ -61661,6 +61674,7 @@ genuine
 genuinely
 genuineness
 genuinenesses
+genus
 genuses
 geobotanic
 geobotanical
@@ -68734,6 +68748,7 @@ heteronomous
 heteronomy
 heteronym
 heteronyms
+heterophil
 heterophile
 heterophonies
 heterophony
@@ -70266,6 +70281,7 @@ hopes
 hophead
 hopheads
 hoping
+hopingly
 hoplite
 hoplites
 hoplitic
@@ -80278,6 +80294,7 @@ karakul
 karaoke
 karaokes
 karat
+karate
 karateist
 karateists
 karates
@@ -80622,6 +80639,7 @@ kerneled
 kerneling
 kernelled
 kernelling
+kernelly
 kernels
 kernes
 kerning
@@ -91499,6 +91517,7 @@ micrurgies
 micrurgy
 mics
 micturate
+micturated
 micturates
 micturating
 micturition
@@ -95344,6 +95363,7 @@ mouthlike
 mouthpart
 mouthparts
 mouthpiece
+mouthpieces
 mouths
 mouthwash
 mouthwashes
@@ -99950,6 +99970,7 @@ nonprogrammer
 nonprogrammers
 nonprogressive
 nonproprietary
+nonpros
 nonprossed
 nonprosses
 nonprossing
@@ -106239,6 +106260,7 @@ overreacts
 overrefined
 overrefinement
 overrefinements
+overregulate
 overregulated
 overregulates
 overregulating
@@ -111192,6 +111214,7 @@ pesthole
 pestholes
 pesthouse
 pesthouses
+pesticide
 pesticides
 pestier
 pestiest
@@ -113463,6 +113486,7 @@ pituitaries
 pituitary
 pity
 pitying
+pityingly
 pityriases
 pityriasis
 piu
@@ -124796,6 +124820,7 @@ recommendation
 recommendations
 recommendatory
 recommended
+recommender
 recommenders
 recommending
 recommends
@@ -124862,6 +124887,7 @@ recondensed
 recondenses
 recondensing
 recondite
+reconditely
 reconditeness
 reconditenesses
 recondition
@@ -130574,6 +130600,7 @@ rhizomatous
 rhizome
 rhizomes
 rhizomic
+rhizopi
 rhizoplane
 rhizoplanes
 rhizopod
@@ -131653,6 +131680,7 @@ rondelle
 rondelles
 rondels
 rondo
+rondos
 rondure
 rondures
 ronion
@@ -135024,6 +135052,7 @@ sciatic
 sciatica
 sciaticas
 sciatics
+science
 sciences
 sciential
 scientific
@@ -147049,6 +147078,7 @@ storyboarded
 storyboarding
 storyboards
 storybook
+storybooks
 storying
 storyteller
 storytellers
@@ -153632,6 +153662,7 @@ tellable
 teller
 tellers
 tellies
+telling
 tellingly
 tells
 telltale
@@ -158555,6 +158586,7 @@ triazine
 triazines
 triazins
 triazole
+triazoles
 tribade
 tribades
 tribadic
@@ -162247,6 +162279,7 @@ undermine
 undermines
 undermining
 undermost
+underneath
 undernourished
 undernutrition
 undernutritions
@@ -162447,6 +162480,7 @@ underwork
 underworked
 underworking
 underworks
+underworld
 underworlds
 underwrite
 underwriter
@@ -163123,6 +163157,7 @@ unicameral
 unicamerally
 unicellular
 unicolor
+unicorn
 unicorns
 unicycle
 unicycled
