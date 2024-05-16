@@ -3284,6 +3284,7 @@ alist
 alit
 aliteracies
 aliteracy
+aliterate
 aliterates
 aliunde
 alive
@@ -20394,6 +20395,7 @@ calctufas
 calctuff
 calctuffs
 calculable
+calculate
 calculated
 calculatedly
 calculatedness
@@ -23721,6 +23723,7 @@ chalaza
 chalazae
 chalazal
 chalazas
+chalazia
 chalazion
 chalazions
 chalcedonic
@@ -23808,6 +23811,7 @@ chamfers
 chamfrain
 chamfrains
 chamfron
+chamfrons
 chamisa
 chamisas
 chamise
@@ -25706,6 +25710,7 @@ chug
 chugalug
 chugalugged
 chugalugging
+chugalugs
 chugged
 chugger
 chuggers
@@ -28474,6 +28479,7 @@ collections
 collective
 collectively
 collectives
+collectivise
 collectivised
 collectivises
 collectivising
@@ -39645,6 +39651,7 @@ derries
 derringer
 derringers
 derrises
+derry
 dervish
 dervishes
 desacralization
@@ -49489,6 +49496,7 @@ enterostomies
 enterostomy
 enterotoxin
 enterotoxins
+enteroviral
 enterovirus
 enteroviruses
 enterprise
@@ -54346,6 +54354,7 @@ fax
 faxed
 faxes
 faxing
+fay
 fayalite
 fayalites
 fayed
@@ -63640,6 +63649,7 @@ gonad
 gonadal
 gonadectomies
 gonadectomized
+gonadectomy
 gonadial
 gonadic
 gonadotrophic
@@ -66799,6 +66809,7 @@ hands
 handsaw
 handsaws
 handsbreadth
+handsbreadths
 handsel
 handseled
 handseling
@@ -69424,6 +69435,7 @@ hispanidads
 hispanism
 hispanisms
 hispid
+hispidities
 hispidity
 hiss
 hissed
@@ -71083,6 +71095,7 @@ hullabaloo
 hullabaloos
 hulled
 huller
+hullers
 hulling
 hullo
 hulloa
@@ -75740,6 +75753,7 @@ initialisms
 initialization
 initializations
 initialize
+initialized
 initializes
 initializing
 initialled
@@ -76094,6 +76108,7 @@ inselberg
 inselberge
 inselbergs
 inseminate
+inseminated
 inseminates
 inseminating
 insemination
@@ -77897,6 +77912,7 @@ inveteracy
 inveterate
 inveterately
 inviabilities
+inviability
 inviable
 inviably
 invidious
@@ -82198,6 +82214,7 @@ laciness
 lacinesses
 lacing
 lacings
+laciniate
 laciniation
 laciniations
 lack
@@ -90606,6 +90623,7 @@ mercurous
 mercury
 mercy
 merde
+merdes
 mere
 merely
 merengue
@@ -91630,6 +91648,7 @@ micropublisher
 micropublishers
 micropublishing
 micropulsation
+micropulsations
 micropuncture
 micropunctures
 micropylar
@@ -91683,6 +91702,7 @@ microsurgical
 microswitch
 microswitches
 microtechnic
+microtechnics
 microtechnique
 microtechniques
 microtome
@@ -93821,6 +93841,7 @@ mitochondria
 mitochondrial
 mitochondrion
 mitogen
+mitogenic
 mitogenicities
 mitogenicity
 mitogens
@@ -122779,6 +122800,7 @@ quoters
 quotes
 quoth
 quotha
+quotidian
 quotidians
 quotient
 quotients
@@ -126005,6 +126027,7 @@ reefing
 reefs
 reefy
 reeject
+reejected
 reejecting
 reejects
 reek
@@ -126159,6 +126182,7 @@ reerected
 reerecting
 reerects
 rees
+reescalate
 reescalated
 reescalates
 reescalating
@@ -131008,6 +131032,7 @@ ribaldly
 ribaldries
 ribaldry
 ribalds
+riband
 ribands
 ribavirins
 ribband
@@ -137446,6 +137471,7 @@ separationists
 separations
 separatism
 separatisms
+separatist
 separatistic
 separatists
 separative
@@ -141658,6 +141684,7 @@ slumbering
 slumberous
 slumbers
 slumbery
+slumbrous
 slumgullion
 slumgullions
 slumgum
@@ -144801,6 +144828,7 @@ spiteful
 spitefuller
 spitefullest
 spitefully
+spitefulness
 spitefulnesses
 spitfire
 spitfires
@@ -145607,6 +145635,7 @@ squealers
 squealing
 squeals
 squeamish
+squeamishly
 squeamishness
 squeamishnesses
 squeegee
@@ -152929,6 +152958,7 @@ tanginess
 tanginesses
 tanging
 tangle
+tangled
 tanglement
 tanglements
 tangler
@@ -153149,6 +153179,7 @@ tarlatan
 tarlatans
 tarletan
 tarletans
+tarmac
 tarmacadam
 tarmacadams
 tarmacked
@@ -158476,6 +158507,7 @@ transposons
 transsexual
 transsexualism
 transsexualisms
+transsexuality
 transsexuals
 transshape
 transshaped
@@ -160512,6 +160544,7 @@ turnoff
 turnoffs
 turnon
 turnons
+turnout
 turnouts
 turnover
 turnovers
@@ -166375,6 +166408,7 @@ valet
 valeted
 valeting
 valets
+valetudinarians
 valetudinaries
 valetudinary
 valgoid
@@ -169641,6 +169675,7 @@ washaterias
 washbasin
 washbasins
 washboard
+washboards
 washbowl
 washbowls
 washcloth
