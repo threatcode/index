@@ -847,6 +847,7 @@ aciform
 acinar
 acing
 acini
+acinic
 aciniform
 acinose
 acinous
@@ -2366,6 +2367,7 @@ agglomerations
 agglomerative
 agglutinability
 agglutinable
+agglutinate
 agglutinated
 agglutinates
 agglutinating
@@ -17221,6 +17223,7 @@ bousy
 bout
 boutique
 boutiques
+boutiquey
 bouton
 boutonniere
 boutonnieres
@@ -18337,6 +18340,7 @@ broke
 broken
 brokenhearted
 brokenly
+brokenness
 brokennesses
 broker
 brokerage
@@ -24426,6 +24430,7 @@ cheeriness
 cheerinesses
 cheering
 cheerio
+cheerios
 cheerlead
 cheerleader
 cheerleaders
@@ -26370,6 +26375,7 @@ clammier
 clammiest
 clammily
 clamminess
+clamminesses
 clamming
 clammy
 clamor
@@ -28602,6 +28608,7 @@ collyrium
 collyriums
 collywobbles
 colobi
+coloboma
 colobomata
 colobus
 colobuses
@@ -29481,6 +29488,7 @@ compliancies
 compliancy
 compliant
 compliantly
+complicacies
 complicacy
 complicate
 complicated
@@ -32673,6 +32681,7 @@ cotransported
 cotransporting
 cotransports
 cotrustee
+cotrustees
 cots
 cotta
 cottae
@@ -35609,6 +35618,7 @@ cutaneous
 cutaneously
 cutaway
 cutaways
+cutback
 cutbacks
 cutbank
 cutbanks
@@ -37687,6 +37697,7 @@ decumbent
 decuple
 decupled
 decuples
+decupling
 decuries
 decurion
 decurions
@@ -37740,6 +37751,7 @@ deed
 deeded
 deedier
 deediest
+deeding
 deedless
 deeds
 deedy
@@ -55496,6 +55508,7 @@ filibuster
 filibustered
 filibusterer
 filibusterers
+filibustering
 filibusters
 filicide
 filicides
@@ -94106,6 +94119,7 @@ mojos
 moke
 mokes
 mol
+mola
 molal
 molalities
 molality
@@ -95099,6 +95113,7 @@ morrises
 morro
 morros
 morrow
+morrows
 mors
 morse
 morsel
@@ -95294,6 +95309,7 @@ motivative
 motivator
 motivators
 motive
+motived
 motiveless
 motivelessly
 motivic
@@ -95341,6 +95357,7 @@ motorcyclist
 motorcyclists
 motordom
 motordoms
+motored
 motoric
 motorically
 motoring
@@ -100794,6 +100811,7 @@ notwithstanding
 nougat
 nougats
 nought
+noughts
 noumena
 noumenal
 noumenon
@@ -100813,6 +100831,7 @@ nourishments
 nous
 nouses
 nouveau
+nouvelle
 nouvelles
 nova
 novaculite
@@ -103499,6 +103518,7 @@ orthodoxy
 orthoepic
 orthoepically
 orthoepies
+orthoepist
 orthoepists
 orthoepy
 orthogeneses
@@ -105187,6 +105207,7 @@ outvying
 outwait
 outwaited
 outwaiting
+outwaits
 outwalk
 outwalked
 outwalking
@@ -106390,6 +106411,7 @@ overpromise
 overpromised
 overpromises
 overpromising
+overpromote
 overpromoted
 overpromotes
 overpromoting
@@ -109332,6 +109354,7 @@ pathogenicity
 pathogenies
 pathogens
 pathogeny
+pathognomonic
 pathologic
 pathological
 pathologically
@@ -119375,6 +119398,7 @@ prognose
 prognosed
 prognoses
 prognosing
+prognosis
 prognostic
 prognosticate
 prognosticated
@@ -126395,6 +126419,7 @@ reformational
 reformations
 reformative
 reformatories
+reformatory
 reformats
 reformatted
 reformatting
@@ -126632,6 +126657,7 @@ regicidal
 regicide
 regicides
 regild
+regilded
 regilding
 regilds
 regilt
@@ -132078,6 +132104,7 @@ roseolas
 roseries
 roseroot
 roseroots
+rosery
 roses
 roseslug
 roseslugs
@@ -137557,6 +137584,7 @@ serial
 serialise
 serialised
 serialises
+serialising
 serialism
 serialisms
 serialist
@@ -146351,6 +146379,7 @@ steed
 steedlike
 steeds
 steek
+steeked
 steeking
 steeks
 steel
@@ -157102,6 +157131,7 @@ tootlers
 tootles
 tootling
 toots
+tootses
 tootsie
 tootsies
 tootsy
@@ -160812,6 +160842,7 @@ tympanies
 tympanist
 tympanists
 tympanites
+tympaniteses
 tympanitic
 tympano
 tympans
@@ -163955,6 +163986,7 @@ unmingles
 unmingling
 unmistakable
 unmistakably
+unmiter
 unmitered
 unmitering
 unmiters
@@ -165483,6 +165515,7 @@ upperclassman
 upperclassmen
 uppercut
 uppercuts
+uppercutting
 uppermost
 upperpart
 upperparts
@@ -165738,6 +165771,7 @@ uraninite
 uraninites
 uranism
 uranisms
+uranite
 uranites
 uranitic
 uranium
@@ -172077,6 +172111,7 @@ woodenly
 woodenness
 woodennesses
 woodenware
+woodenwares
 woodgrain
 woodgrains
 woodhen
