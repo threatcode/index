@@ -3791,6 +3791,7 @@ alternant
 alternants
 alternate
 alternated
+alternately
 alternating
 alternations
 alternative
@@ -15280,6 +15281,7 @@ blasphemes
 blasphemies
 blaspheming
 blasphemous
+blasphemously
 blasphemousness
 blasphemy
 blast
@@ -21566,6 +21568,7 @@ caramelizes
 caramelizing
 caramels
 carangid
+carangids
 carangoid
 carapace
 carapaced
@@ -27109,6 +27112,7 @@ clothing
 clothings
 clothlike
 cloths
+clots
 clotted
 clotting
 clotty
@@ -29685,6 +29689,7 @@ comradeliness
 comradelinesses
 comradely
 comraderies
+comradery
 comrades
 comradeship
 comradeships
@@ -30562,6 +30567,7 @@ connaturally
 connect
 connectable
 connected
+connectedly
 connectedness
 connectednesses
 connecter
@@ -35642,6 +35648,7 @@ cutey
 cuteys
 cutgrass
 cutgrasses
+cuticle
 cuticles
 cuticula
 cuticulae
@@ -43445,6 +43452,7 @@ disturber
 disturbers
 disturbing
 disturbingly
+disturbs
 disubstituted
 disulfate
 disulfates
@@ -46619,6 +46627,7 @@ eclat
 eclats
 eclectic
 eclectically
+eclecticism
 eclecticisms
 eclectics
 eclipse
@@ -48749,6 +48758,7 @@ endomorphisms
 endomorphs
 endomorphy
 endonuclease
+endonucleases
 endonucleolytic
 endoparasite
 endoparasites
@@ -59144,6 +59154,7 @@ frescoers
 frescoes
 frescoing
 frescoist
+frescoists
 frescos
 fresh
 freshed
@@ -60471,6 +60482,7 @@ galavanted
 galavanting
 galavants
 galax
+galaxes
 galaxies
 galaxy
 galbanum
@@ -70332,6 +70344,7 @@ hookiest
 hooking
 hookless
 hooklet
+hooklets
 hooklike
 hooknose
 hooknosed
@@ -74253,6 +74266,7 @@ inclosing
 inclosure
 inclosures
 includable
+include
 included
 includes
 includible
@@ -75571,6 +75585,7 @@ inground
 ingroup
 ingroups
 ingrowing
+ingrown
 ingrownness
 ingrownnesses
 ingrowth
@@ -77658,6 +77673,7 @@ intuit
 intuitable
 intuited
 intuiting
+intuition
 intuitional
 intuitionism
 intuitionisms
@@ -80950,6 +80966,7 @@ kheths
 khets
 khi
 khirkah
+khirkahs
 khis
 khoum
 khoums
@@ -83715,6 +83732,7 @@ leftish
 leftism
 leftisms
 leftist
+leftists
 leftmost
 leftover
 leftovers
@@ -89295,6 +89313,7 @@ materials
 materiel
 materiels
 maternal
+maternally
 maternities
 maternity
 maters
@@ -94746,6 +94765,7 @@ monsteras
 monsters
 monstrance
 monstrances
+monstrosities
 monstrosity
 monstrous
 monstrously
@@ -94806,6 +94826,7 @@ mooed
 mooing
 mool
 moola
+moolah
 moolahs
 moolas
 mooleys
@@ -97158,6 +97179,7 @@ nappiness
 nappinesses
 nappy
 naprapathies
+naprapathy
 naproxen
 naproxens
 naps
@@ -98453,6 +98475,7 @@ nibbler
 nibblers
 nibbles
 nibbling
+niblick
 niblicks
 niblike
 nibs
@@ -102078,6 +102101,7 @@ oestrone
 oestrones
 oestrous
 oestrum
+oestrums
 oestrus
 oestruses
 oeuvre
@@ -120714,6 +120738,7 @@ psycholinguist
 psycholinguists
 psychologic
 psychological
+psychologically
 psychologies
 psychologise
 psychologised
@@ -123182,6 +123207,7 @@ railbirds
 railbus
 railbuses
 railbusses
+railcar
 railed
 railer
 railers
@@ -133792,6 +133818,7 @@ sanctimony
 sanction
 sanctionable
 sanctioned
+sanctioning
 sanctions
 sanctities
 sanctity
@@ -137264,6 +137291,7 @@ sensing
 sensitisation
 sensitisations
 sensitise
+sensitises
 sensitising
 sensitive
 sensitively
@@ -137834,6 +137862,7 @@ setting
 settings
 settle
 settleable
+settled
 settlement
 settlements
 settler
@@ -152117,6 +152146,7 @@ syntagms
 syntax
 syntaxes
 synth
+syntheses
 synthesis
 synthesist
 synthesists
@@ -162165,6 +162195,7 @@ unconfusing
 uncongenial
 uncongeniality
 unconjugated
+unconnected
 unconquerable
 unconquerably
 unconquered
@@ -163170,6 +163201,7 @@ unfoiled
 unfold
 unfolded
 unfolder
+unfolders
 unfolding
 unfoldment
 unfoldments
@@ -163934,6 +163966,7 @@ unmarred
 unmarried
 unmarrieds
 unmasculine
+unmask
 unmasked
 unmasker
 unmaskers
@@ -166448,6 +166481,7 @@ vanadic
 vanadium
 vanadiums
 vanadous
+vanaspati
 vanaspatis
 vanda
 vandal
@@ -172643,6 +172677,7 @@ wristwatch
 wristwatches
 wristy
 writ
+writable
 write
 writeable
 writer
