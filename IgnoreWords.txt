@@ -4198,6 +4198,7 @@ amidases
 amide
 amides
 amidic
+amidin
 amidine
 amidines
 amidins
@@ -6818,6 +6819,7 @@ apparatuses
 apparel
 appareled
 appareling
+apparelled
 apparelling
 apparels
 apparent
@@ -9961,6 +9963,7 @@ aweary
 aweather
 awed
 awee
+aweigh
 aweing
 aweless
 awes
@@ -11596,6 +11599,7 @@ barricadoing
 barricados
 barrier
 barriers
+barring
 barrio
 barrios
 barrister
@@ -22888,6 +22892,7 @@ causalgia
 causalgias
 causalgic
 causalities
+causality
 causally
 causals
 causation
@@ -23921,6 +23926,7 @@ changelessness
 changeling
 changelings
 changeover
+changeovers
 changer
 changers
 changes
@@ -33922,6 +33928,7 @@ credulously
 credulousness
 credulousnesses
 creed
+creedal
 creeds
 creek
 creeks
@@ -40960,6 +40967,7 @@ dichasial
 dichasium
 dichlorobenzene
 dichloroethane
+dichloroethanes
 dichlorvos
 dichlorvoses
 dichogamies
@@ -52193,6 +52201,7 @@ exercising
 exercitation
 exercitations
 exercycle
+exercycles
 exergonic
 exergual
 exergue
@@ -52284,6 +52293,7 @@ exhumations
 exhume
 exhumed
 exhumer
+exhumers
 exhumes
 exhuming
 exigence
@@ -53045,6 +53055,7 @@ extrabold
 extrabolds
 extracellular
 extracellularly
+extracorporeal
 extracranial
 extract
 extractability
@@ -61205,6 +61216,7 @@ gast
 gasted
 gaster
 gasters
+gastight
 gastightness
 gastightnesses
 gasting
@@ -67739,6 +67751,7 @@ headwaiter
 headwaiters
 headwater
 headwaters
+headway
 headways
 headwind
 headwinds
@@ -72594,6 +72607,7 @@ ideologic
 ideological
 ideologically
 ideologies
+ideologist
 ideologists
 ideologize
 ideologizes
@@ -72652,6 +72666,7 @@ idlesses
 idlest
 idling
 idly
+idocrase
 idocrases
 idol
 idolater
@@ -73998,6 +74013,7 @@ inadvisability
 inadvisable
 inalienability
 inalienable
+inalienably
 inalterability
 inalterable
 inalterableness
@@ -83534,6 +83550,7 @@ leading
 leadings
 leadless
 leadman
+leadmen
 leadoff
 leadoffs
 leadplant
@@ -84988,6 +85005,7 @@ limning
 limnologic
 limnological
 limnologies
+limnologist
 limnologists
 limnology
 limns
@@ -87642,6 +87660,7 @@ magilp
 magilps
 magister
 magisterial
+magisterially
 magisterium
 magisteriums
 magisters
@@ -93295,6 +93314,7 @@ mislearnt
 misled
 mislie
 mislies
+mislight
 mislighted
 mislighting
 mislights
@@ -98090,6 +98110,7 @@ nephron
 nephrons
 nephropathic
 nephropathies
+nephropathy
 nephroses
 nephrosis
 nephrostome
@@ -100870,6 +100891,7 @@ noteworthily
 noteworthiness
 noteworthy
 nother
+nothing
 nothingness
 nothingnesses
 nothings
@@ -105993,6 +106015,7 @@ overfar
 overfast
 overfastidious
 overfat
+overfatigue
 overfatigued
 overfatigues
 overfavor
@@ -127552,6 +127575,7 @@ relearned
 relearning
 relearns
 relearnt
+releasable
 release
 released
 releaser
@@ -129809,6 +129833,7 @@ restuff
 restuffed
 restuffing
 restuffs
+restyle
 restyled
 restyles
 restyling
@@ -131396,6 +131421,7 @@ rillets
 rillettes
 rilling
 rills
+rim
 rime
 rimed
 rimer
@@ -135494,6 +135520,7 @@ scissures
 sciurid
 sciurids
 sciurine
+sciurines
 sciuroid
 sclaff
 sclaffed
@@ -136470,6 +136497,7 @@ secludednesses
 secludes
 secluding
 seclusion
+seclusive
 seclusively
 seclusiveness
 secobarbital
@@ -141444,6 +141472,7 @@ slimmer
 slimmers
 slimmest
 slimming
+slimnastics
 slimness
 slimnesses
 slimpsier
@@ -153116,6 +153145,7 @@ tantrum
 tantrums
 tanuki
 tanukis
+tanyard
 tanyards
 tanzanite
 tanzanites
@@ -160805,6 +160835,7 @@ tweedier
 tweediest
 tweediness
 tweedinesses
+tweedle
 tweedled
 tweedles
 tweedling
@@ -162250,6 +162281,7 @@ uncock
 uncocked
 uncocking
 uncocks
+uncoded
 uncodified
 uncoerced
 uncoercive
@@ -167721,6 +167753,7 @@ vexed
 vexedly
 vexedness
 vexednesses
+vexer
 vexers
 vexes
 vexil
@@ -170197,6 +170230,7 @@ weaponized
 weaponizing
 weaponless
 weaponries
+weaponry
 weapons
 wear
 wearabilities
@@ -173032,6 +173066,7 @@ xylograph
 xylographer
 xylographers
 xylographic
+xylographical
 xylographies
 xylographing
 xylographs
