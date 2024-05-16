@@ -1950,6 +1950,7 @@ aeronomies
 aeronomist
 aeronomists
 aeronomy
+aeropause
 aeropauses
 aerophobe
 aerophobes
@@ -3386,6 +3387,7 @@ allegations
 allege
 alleged
 allegedly
+alleger
 allegers
 alleges
 allegiance
@@ -22697,6 +22699,7 @@ catered
 caterer
 caterers
 cateress
+cateresses
 catering
 caterpillar
 caterpillars
@@ -23695,6 +23698,7 @@ chairing
 chairlift
 chairman
 chairmaned
+chairmaning
 chairmanned
 chairmanning
 chairmans
@@ -24974,6 +24978,7 @@ chionodoxa
 chionodoxas
 chip
 chipboard
+chipboards
 chipmuck
 chipmucks
 chipmunk
@@ -34514,6 +34519,7 @@ croupiers
 croupily
 croupous
 croups
+croupy
 crouse
 crousely
 croustade
@@ -34781,6 +34787,7 @@ cryoprobes
 cryoprotectant
 cryoprotectants
 cryoscope
+cryoscopes
 cryoscopic
 cryoscopies
 cryoscopy
@@ -36223,6 +36230,7 @@ daffy
 daft
 dafter
 daftest
+daftly
 daftness
 daftnesses
 dag
@@ -40601,6 +40609,7 @@ diabolisms
 diabolist
 diabolists
 diabolize
+diabolized
 diabolizes
 diabolizing
 diabolo
@@ -45425,6 +45434,7 @@ drownded
 drownding
 drownds
 drowned
+drowner
 drowners
 drowning
 drowns
@@ -45562,6 +45572,7 @@ drywalling
 drywalls
 drywell
 drywells
+duad
 duads
 dual
 dualism
@@ -55555,6 +55566,7 @@ filliped
 filliping
 fillips
 fillister
+fillisters
 fillo
 fillos
 fills
@@ -61553,6 +61565,7 @@ gemlike
 gemma
 gemmae
 gemmate
+gemmated
 gemmates
 gemmating
 gemmation
@@ -64115,6 +64128,7 @@ grainier
 grainiest
 graininess
 graininesses
+graining
 grainless
 grains
 grainy
@@ -70756,6 +70770,7 @@ hoteldoms
 hoteliers
 hotelman
 hotelmen
+hotels
 hotfoot
 hotfooted
 hotfooting
@@ -70860,6 +70875,7 @@ housekeep
 housekeeper
 housekeepers
 housekeeping
+housekeepings
 housekeeps
 housekept
 housel
@@ -77973,6 +77989,7 @@ involucres
 involucrum
 involuntarily
 involuntariness
+involuntary
 involute
 involuted
 involutes
@@ -83262,6 +83279,7 @@ laurel
 laureled
 laureling
 laurelled
+laurelling
 laurels
 lauwine
 lauwines
@@ -85455,6 +85473,7 @@ lithographing
 lithographs
 lithography
 lithoid
+lithoidal
 lithoing
 lithologic
 lithological
@@ -95902,6 +95921,7 @@ mullocky
 mulls
 multiage
 multiagency
+multiarmed
 multiatom
 multiauthor
 multiaxial
@@ -96077,6 +96097,7 @@ multipolarities
 multipolarity
 multipole
 multipoles
+multiport
 multipotential
 multipower
 multiproblem
@@ -97013,6 +97034,7 @@ nags
 nah
 naiad
 naiades
+naiads
 naif
 naifs
 nail
@@ -109129,6 +109151,7 @@ passe
 passed
 passee
 passel
+passels
 passementerie
 passementeries
 passenger
@@ -111661,6 +111684,7 @@ phagocytoses
 phagocytosing
 phagocytosis
 phagocytotic
+phagosome
 phagosomes
 phalangal
 phalange
@@ -112187,6 +112211,7 @@ photobiologists
 photobiology
 photocathode
 photocathodes
+photocell
 photocells
 photochemical
 photochemically
@@ -112808,6 +112833,7 @@ picomole
 picomoles
 picornavirus
 picornaviruses
+picosecond
 picoseconds
 picot
 picoted
@@ -124083,6 +124109,7 @@ reacquires
 reacquiring
 reacquisition
 reacquisitions
+react
 reactance
 reactances
 reactant
@@ -126522,6 +126549,7 @@ refreshened
 refreshening
 refresher
 refreshers
+refreshes
 refreshing
 refreshingly
 refreshment
@@ -130233,6 +130261,7 @@ retroversion
 retroversions
 retroviral
 retrovirus
+retroviruses
 retry
 retrying
 rets
@@ -130391,6 +130420,7 @@ revenged
 revengeful
 revengefulness
 revenger
+revengers
 revenges
 revenging
 revenual
@@ -142047,6 +142077,7 @@ snaked
 snakefish
 snakefishes
 snakehead
+snakeheads
 snakelike
 snakepit
 snakepits
@@ -146892,6 +146923,7 @@ stigmatized
 stigmatizes
 stigmatizing
 stilbene
+stilbenes
 stilbestrol
 stilbestrols
 stilbite
@@ -147244,6 +147276,7 @@ stonefishes
 stoneflies
 stonefly
 stonemason
+stonemasonries
 stonemasonry
 stonemasons
 stoner
@@ -166106,6 +166139,7 @@ utilisers
 utilises
 utilising
 utilitarian
+utilitarianism
 utilitarianisms
 utilitarians
 utilities
@@ -169461,6 +169495,7 @@ warerooms
 wares
 warfare
 warfares
+warfarin
 warhead
 warheads
 warhorse
