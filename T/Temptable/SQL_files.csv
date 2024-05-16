@@ -7,3 +7,12 @@ examples/database/dbcheck.sql - Bacula - Fossies,https://fossies.org/linux/bacul
 org.dspace.storage.rdbms.xmlworkflow.postgres.v6.0__DS ...,https://jar-download.com/artifacts/org.dspace/dspace-api/6.0-rc2/source-code/org/dspace/storage/rdbms/xmlworkflow/postgres/v6.0__DS-2701_data_workflow_migration.sql
 "preparations.sql · master · Morcinek, Peter / timetable · GitLab",https://git.th-wildau.de/morcinek/timetable/-/blob/master/preparations.sql
 opengauss-bot - Gogs,https://git.osiicn.com/opengauss-bot/openGauss/src/f06f268f5c59901360fc7b22b994a004779b81d5/src/test/regress/sql/upsert_prepare.sql
+PowerUpSQL/templates/tsql/readfile_BulkInsert.sql at master - GitHub,https://github.com/NetSPI/PowerUpSQL/blob/master/templates/tsql/readfile_BulkInsert.sql
+sql-server-toolbox/sessions and requests - old temp table.sql at ...,https://github.com/SparkhoundSQL/sql-server-toolbox/blob/master/sessions%2520and%2520requests%2520-%2520old%2520temp%2520table.sql
+create_sync_temp_tables.sql - mozsearch - Searchfox,https://searchfox.org/mozilla-central/source/third_party/rust/webext-storage/sql/create_sync_temp_tables.sql
+gerrit1_import/link_accounts.sql - gerrit - Git at Google,https://gerrit.googlesource.com/gerrit/%2B/v2.0.7/gerrit1_import/link_accounts.sql
+inner_loop_block.sql - Oracle,https://download.oracle.com/otn_hosted_doc/timesten/1121/quickstart/sample_code/plsql/inner_loop_block.sql
+https://raw.githubusercontent.com/searceinc/RStool...,https://raw.githubusercontent.com/searceinc/RStoolKit/master/health-check.sql
+Interpret SQL file - am.net,https://am.net/lib/tools/Programming/SQL/SQLDOM_core_persist_927.sql
+examples/database/dbcheck.sql - Bacula - Fossies,https://fossies.org/linux/bacula/examples/database/dbcheck.sql
+PostgreSQL: src/test/regress/sql/plancache.sql - Fossies,https://fossies.org/linux/postgresql/src/test/regress/sql/plancache.sql
