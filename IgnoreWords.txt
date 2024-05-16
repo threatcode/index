@@ -3518,6 +3518,7 @@ allometries
 allometry
 allomorph
 allomorphic
+allomorphism
 allomorphisms
 allomorphs
 allonge
@@ -3892,6 +3893,7 @@ amalgamated
 amalgamates
 amalgamating
 amalgamation
+amalgamations
 amalgamator
 amalgamators
 amalgams
@@ -8034,6 +8036,7 @@ artifact
 artifacts
 artifactual
 artifice
+artificer
 artificers
 artifices
 artificial
@@ -8897,6 +8900,7 @@ atomies
 atomise
 atomised
 atomiser
+atomisers
 atomises
 atomising
 atomism
@@ -19839,6 +19843,7 @@ bwana
 bwanas
 by
 bycatch
+bycatches
 bye
 byelaw
 byelaws
@@ -23531,6 +23536,7 @@ certified
 certifier
 certifiers
 certifies
+certify
 certifying
 certiorari
 certioraris
@@ -27830,6 +27836,7 @@ codifies
 codify
 codifying
 coding
+codirect
 codirected
 codirecting
 codirection
@@ -29303,6 +29310,7 @@ compares
 comparing
 comparison
 compart
+comparted
 comparting
 compartment
 compartmental
@@ -31724,6 +31732,7 @@ copolymerizing
 copolymers
 copout
 copouts
+copped
 copper
 copperah
 copperahs
@@ -36133,6 +36142,7 @@ dacha
 dachas
 dachshund
 dachshunds
+dacite
 dacites
 dacker
 dackered
@@ -37195,6 +37205,7 @@ decapitation
 decapitator
 decapitators
 decapod
+decapodal
 decapodan
 decapodans
 decapodous
@@ -37302,6 +37313,7 @@ decentralizing
 decentre
 decentred
 decentres
+decentring
 deception
 deceptional
 deceptions
@@ -41110,6 +41122,7 @@ dietaries
 dietarily
 dietary
 dieted
+dieter
 dieters
 dietetic
 dietetically
@@ -47981,6 +47994,7 @@ embryogenies
 embryogeny
 embryoid
 embryoids
+embryological
 embryologically
 embryologies
 embryologist
@@ -54461,6 +54475,7 @@ federative
 federatively
 federator
 federators
+fedex
 fedexed
 fedexes
 fedexing
@@ -58375,6 +58390,7 @@ formicary
 formicas
 formidabilities
 formidability
+formidable
 formidableness
 formidably
 forming
@@ -79875,6 +79891,7 @@ juba
 jubas
 jubbah
 jubbahs
+jube
 jubes
 jubhah
 jubhahs
@@ -84985,6 +85002,7 @@ linecuts
 lined
 lineless
 linelike
+lineman
 linemen
 linen
 linens
@@ -87369,6 +87387,7 @@ macrural
 macruran
 macrurans
 macrurous
+macs
 macula
 maculae
 macular
@@ -93463,6 +93482,7 @@ missets
 missetting
 misshape
 misshaped
+misshapen
 misshapenly
 misshaper
 misshapers
@@ -94116,6 +94136,7 @@ moldwarp
 moldwarps
 moldy
 mole
+molecular
 molecularly
 molecule
 molecules
@@ -96449,6 +96470,7 @@ musteline
 muster
 mustered
 mustering
+musth
 musths
 mustier
 mustiest
@@ -101669,6 +101691,7 @@ obtundity
 obtunds
 obturate
 obturated
+obturates
 obturating
 obturation
 obturations
@@ -102365,6 +102388,7 @@ oligomer
 oligomeric
 oligomerization
 oligomers
+oligonucleotide
 oligophagies
 oligophagous
 oligophagy
@@ -103162,6 +103186,7 @@ ordinals
 ordinance
 ordinances
 ordinand
+ordinands
 ordinarier
 ordinaries
 ordinarily
@@ -108550,6 +108575,7 @@ parboil
 parboiled
 parboiling
 parboils
+parbuckle
 parbuckled
 parbuckles
 parbuckling
@@ -117117,6 +117143,7 @@ precleaned
 precleaning
 precleans
 preclear
+preclearance
 preclearances
 precleared
 preclearing
@@ -126043,6 +126070,7 @@ reentrances
 reentrant
 reentrants
 reentries
+reentry
 reequip
 reequipment
 reequipments
@@ -133397,6 +133425,7 @@ salesgirls
 salesladies
 saleslady
 salesman
+salesmanship
 salesmanships
 salesmen
 salespeople
@@ -139100,6 +139129,7 @@ shorthorns
 shortia
 shortias
 shortie
+shorties
 shorting
 shortish
 shortlist
@@ -139553,6 +139583,7 @@ sickrooms
 sicks
 sics
 siddur
+siddurim
 siddurs
 side
 sidearm
@@ -142537,6 +142568,7 @@ soccage
 soccages
 soccer
 soccers
+sociabilities
 sociability
 sociable
 sociableness
@@ -146876,6 +146908,7 @@ stings
 stingy
 stink
 stinkard
+stinkards
 stinkbug
 stinkbugs
 stinker
@@ -154993,6 +155026,7 @@ theonomous
 theonomy
 theophanic
 theophanies
+theophany
 theophylline
 theophyllines
 theorbo
@@ -158864,6 +158898,7 @@ tribuneships
 tributaries
 tributary
 tribute
+tributes
 tricarboxylic
 trice
 triced
