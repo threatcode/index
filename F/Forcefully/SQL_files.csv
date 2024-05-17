@@ -7,3 +7,8 @@ etc/sql/asterisk_defaults.sql ... - GitLab - businesscom.cz,https://web.gitlab.b
 fbctf - database - countries.sql - NPU,https://git.npu.world/npu-public/fbctf/-/blob/cb3fd3a5babfd5ad8a6eaccaf538baafa9a3867c/database/countries.sql
 https://madata.bib.uni-mannheim.de/238/4/clinton.sql,https://madata.bib.uni-mannheim.de/238/4/clinton.sql
 ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
+mysql-token-cleanup.sql - GitHub,https://github.com/wso2/carbon-identity-framework/blob/master/features/identity-core/org.wso2.carbon.identity.core.server.feature/resources/dbscripts/stored-procedures/mysql/token-cleanup/mysql-token-cleanup.sql
+oracle-token-cleanup.sql - GitHub,https://github.com/wso2/carbon-identity-framework/blob/master/features/identity-core/org.wso2.carbon.identity.core.server.feature/resources/dbscripts/stored-procedures/oracle/token-cleanup/oracle-token-cleanup.sql
+http://download.caltech.se/download/fluke/SQLFULL_...,http://download.caltech.se/download/fluke/SQLFULL_ENU/x86/Setup/sql_engine_core_inst_msi/PFiles/SqlServr/MSSQL.X/MSSQL/Install/instmsdb.sql
+https://madata.bib.uni-mannheim.de/238/4/clinton.sql,https://madata.bib.uni-mannheim.de/238/4/clinton.sql
+http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql,http://ch.lepage.free.fr/vieux_site/tcm/127.0.0.1.sql
