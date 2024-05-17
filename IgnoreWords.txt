@@ -20361,6 +20361,7 @@ cajaputs
 cajeput
 cajeputs
 cajole
+cajoled
 cajolement
 cajolements
 cajoler
@@ -23028,6 +23029,7 @@ cautionary
 cautioned
 cautioner
 cautioners
+cautioning
 cautions
 cautious
 cautiously
@@ -26467,6 +26469,7 @@ clads
 clafouti
 clafoutis
 clag
+clagged
 clagging
 clags
 claim
@@ -28963,6 +28966,7 @@ colzas
 coma
 comade
 comae
+comake
 comaker
 comakers
 comakes
@@ -33932,6 +33936,7 @@ crayfish
 crayfishes
 crayon
 crayoned
+crayoner
 crayoners
 crayoning
 crayonist
@@ -37852,6 +37857,7 @@ decrement
 decremental
 decrements
 decrepit
+decrepitate
 decrepitated
 decrepitates
 decrepitating
@@ -38837,6 +38843,7 @@ demagogies
 demagoging
 demagogs
 demagogue
+demagogued
 demagoguery
 demagogues
 demagoguing
@@ -42542,6 +42549,7 @@ discrepancies
 discrepancy
 discrepant
 discrepantly
+discrete
 discretely
 discreteness
 discretenesses
@@ -42829,6 +42837,7 @@ dishwashers
 dishwater
 dishwaters
 dishy
+disillusion
 disillusioned
 disillusioning
 disillusionment
@@ -44207,6 +44216,7 @@ doglike
 dogmas
 dogmata
 dogmatic
+dogmatically
 dogmaticalness
 dogmatics
 dogmatism
@@ -65796,6 +65806,7 @@ guggles
 guggling
 guglet
 guglets
+guid
 guidable
 guidance
 guidances
@@ -84647,6 +84658,7 @@ leukemogenesis
 leukemogenic
 leukemoid
 leukocyte
+leukocytes
 leukocytic
 leukocytosis
 leukodystrophy
@@ -87125,6 +87137,7 @@ luckiness
 luckinesses
 lucking
 luckless
+lucks
 lucky
 lucrative
 lucratively
@@ -88501,6 +88514,7 @@ malleably
 malled
 mallee
 mallees
+mallei
 mallemuck
 mallemucks
 malleolar
@@ -94014,6 +94028,7 @@ missileers
 missileman
 missilemen
 missileries
+missilery
 missiles
 missilries
 missilry
@@ -98638,6 +98653,7 @@ nettable
 netted
 netter
 netters
+nettier
 nettiest
 netting
 nettings
@@ -99587,6 +99603,7 @@ nominalistic
 nominalists
 nominally
 nominals
+nominate
 nominated
 nominates
 nominating
@@ -102051,6 +102068,7 @@ obligor
 obligors
 oblique
 obliqued
+obliquely
 obliqueness
 obliquenesses
 obliques
@@ -107195,6 +107213,7 @@ oversoaking
 oversoaks
 oversoft
 oversold
+oversolicitous
 oversoon
 oversoul
 oversouls
@@ -111075,6 +111094,7 @@ penuchles
 penuckle
 penuckles
 penult
+penultimas
 penultimate
 penultimately
 penults
@@ -112533,6 +112553,7 @@ philosophical
 philosophically
 philosophies
 philosophise
+philosophised
 philosophises
 philosophising
 philosophize
@@ -125623,6 +125644,7 @@ reclothes
 reclothing
 recluse
 recluses
+reclusion
 reclusions
 reclusive
 reclusively
@@ -130797,6 +130819,7 @@ retread
 retreaded
 retreading
 retreads
+retreat
 retreatant
 retreatants
 retreated
@@ -134276,6 +134299,7 @@ salmonellosis
 salmonid
 salmonids
 salmonoid
+salmonoids
 salmons
 salol
 salols
@@ -137088,6 +137112,7 @@ secludednesses
 secludes
 secluding
 seclusion
+seclusions
 seclusive
 seclusively
 seclusiveness
@@ -138561,6 +138586,7 @@ sestertia
 sestertium
 sestet
 sestets
+sestina
 sestinas
 sestine
 sestines
@@ -139066,6 +139092,7 @@ sharewares
 sharia
 shariah
 shariahs
+sharias
 sharif
 sharifian
 sharifs
@@ -139264,6 +139291,7 @@ sheerlegs
 sheerly
 sheerness
 sheernesses
+sheers
 sheesh
 sheet
 sheeted
@@ -141190,6 +141218,7 @@ sitten
 sitter
 sitters
 sitting
+sittings
 situate
 situated
 situates
@@ -145144,6 +145173,7 @@ spermatozoans
 spermatozoid
 spermatozoids
 spermatozoon
+spermic
 spermicidal
 spermicide
 spermicides
@@ -146372,6 +146402,7 @@ squegs
 squelch
 squelched
 squelcher
+squelchers
 squelches
 squelchier
 squelchiest
@@ -156539,6 +156570,7 @@ thriftily
 thriftiness
 thriftinesses
 thriftless
+thriftlessly
 thriftlessness
 thrifts
 thrifty
@@ -159863,6 +159895,7 @@ trichomonad
 trichomonads
 trichomonal
 trichomoniases
+trichomoniasis
 trichopteran
 trichopterans
 trichoses
@@ -160521,6 +160554,7 @@ tropics
 tropin
 tropine
 tropines
+tropins
 tropism
 tropisms
 tropistic
@@ -170456,6 +170490,7 @@ warpwise
 warragal
 warragals
 warrant
+warrantable
 warrantableness
 warrantably
 warranted
