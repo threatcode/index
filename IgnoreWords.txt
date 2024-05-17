@@ -3450,6 +3450,7 @@ allergenic
 allergenicities
 allergenicity
 allergens
+allergic
 allergies
 allergin
 allergins
@@ -6375,6 +6376,7 @@ antivirus
 antiviruses
 antivitamin
 antivitamins
+antivivisection
 antiwar
 antiweed
 antiwelfare
@@ -7678,6 +7680,7 @@ arietta
 ariettas
 ariette
 ariettes
+aright
 aril
 ariled
 arillate
@@ -11635,6 +11638,7 @@ barrets
 barrette
 barricade
 barricaded
+barricades
 barricading
 barricado
 barricadoed
@@ -21183,6 +21187,7 @@ cannoned
 cannoneer
 cannoneers
 cannoning
+cannonries
 cannonry
 cannons
 cannot
@@ -22663,6 +22668,7 @@ cataplasms
 cataplexies
 cataplexy
 catapult
+catapulted
 catapulting
 catapults
 cataract
@@ -22683,6 +22689,7 @@ catastrophist
 catastrophists
 catatonia
 catatonias
+catatonic
 catatonically
 catatonics
 catawba
@@ -26839,6 +26846,7 @@ cleating
 cleats
 cleavable
 cleavage
+cleavages
 cleave
 cleaved
 cleaver
@@ -28569,6 +28577,7 @@ collate
 collated
 collateral
 collateralities
+collaterality
 collateralize
 collateralized
 collateralizes
@@ -37221,6 +37230,7 @@ debarments
 debarred
 debarring
 debars
+debase
 debased
 debasement
 debasements
@@ -40251,6 +40261,7 @@ detainee
 detainees
 detainer
 detainers
+detaining
 detainment
 detainments
 detains
@@ -43641,6 +43652,7 @@ distributive
 distributively
 distributivity
 distributor
+distributors
 district
 districted
 districting
@@ -45295,6 +45307,7 @@ dread
 dreaded
 dreadful
 dreadfully
+dreadfulness
 dreadfulnesses
 dreadfuls
 dreading
@@ -46937,6 +46950,7 @@ ecraseurs
 ecru
 ecrus
 ecstasy
+ecstatic
 ecstatically
 ecstatics
 ectases
@@ -51753,6 +51767,7 @@ evaginated
 evaginates
 evaginating
 evagination
+evaginations
 evaluable
 evaluate
 evaluated
@@ -56183,6 +56198,7 @@ firestones
 firestorm
 firestorms
 firethorn
+firethorns
 firetrap
 firetraps
 firetruck
@@ -63501,6 +63517,7 @@ glutamines
 glutaraldehydes
 glutathione
 glutathiones
+glute
 gluteal
 glutei
 glutelin
@@ -69100,6 +69117,7 @@ herried
 herries
 herring
 herringbone
+herringboned
 herringbones
 herringboning
 herrings
@@ -76131,6 +76149,7 @@ injure
 injured
 injurer
 injurers
+injures
 injuries
 injuring
 injurious
@@ -78908,6 +78927,7 @@ isoglosses
 isoglossic
 isogon
 isogonal
+isogonals
 isogone
 isogones
 isogonic
@@ -93353,6 +93373,7 @@ misdeeds
 misdeemed
 misdeeming
 misdeems
+misdefine
 misdefined
 misdefines
 misdefining
@@ -94866,6 +94887,7 @@ mongrelizes
 mongrelizing
 mongrelly
 mongrels
+mongst
 monicker
 monickers
 monie
@@ -103173,6 +103195,7 @@ ontogenies
 ontogeny
 ontologic
 ontological
+ontologically
 ontologies
 ontologist
 ontologists
@@ -106799,6 +106822,7 @@ overmilk
 overmilked
 overmilking
 overmilks
+overmine
 overmined
 overmines
 overmining
@@ -111763,6 +111787,7 @@ persecutive
 persecutor
 persecutors
 persecutory
+perses
 perseverance
 perseverances
 perseverate
@@ -112899,6 +112924,7 @@ photophobias
 photophobic
 photophore
 photophores
+photopia
 photopias
 photopic
 photoplay
@@ -126233,6 +126259,7 @@ redemptory
 redenied
 redenies
 redeny
+redenying
 redeploy
 redeployed
 redeploying
@@ -129556,6 +129583,7 @@ rerepeats
 rereview
 rereviewed
 rereviewing
+rereviews
 rereward
 rerewards
 rerig
@@ -136430,6 +136458,7 @@ screech
 screeched
 screecher
 screechers
+screeches
 screechier
 screechiest
 screeching
@@ -137252,6 +137281,7 @@ seduction
 seductions
 seductive
 seductively
+seductiveness
 seductivenesses
 seductress
 seductresses
@@ -152113,6 +152143,7 @@ swearer
 swearers
 swearing
 swearword
+swearwords
 sweat
 sweatband
 sweatbands
@@ -155821,6 +155852,7 @@ theism
 theisms
 theist
 theistic
+theistical
 theistically
 theists
 thelitis
@@ -161121,6 +161153,7 @@ tungs
 tungstate
 tungstates
 tungsten
+tungstens
 tungstic
 tungstite
 tungstites
@@ -161317,6 +161350,7 @@ turnout
 turnouts
 turnover
 turnovers
+turnpike
 turnpikes
 turns
 turnsole
@@ -174765,6 +174799,7 @@ zoisites
 zombi
 zombie
 zombielike
+zombies
 zombification
 zombifications
 zombified
