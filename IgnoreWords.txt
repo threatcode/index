@@ -4819,6 +4819,7 @@ anathematized
 anathematizes
 anathematizing
 anatomic
+anatomical
 anatomically
 anatomies
 anatomise
@@ -9433,6 +9434,7 @@ auspice
 auspices
 auspicious
 auspiciously
+auspiciousness
 austenite
 austenites
 austenitic
@@ -12716,6 +12718,7 @@ beeswaxes
 beeswing
 beeswings
 beet
+beetle
 beetled
 beetler
 beetlers
@@ -17900,6 +17903,7 @@ breadline
 breadlines
 breadnut
 breadnuts
+breadroot
 breadroots
 breads
 breadstuff
@@ -30208,6 +30212,7 @@ condolence
 condolences
 condolent
 condoler
+condolers
 condoles
 condoling
 condom
@@ -31737,6 +31742,7 @@ cookbooks
 cooked
 cooker
 cookeries
+cookers
 cookery
 cookey
 cookeys
@@ -32333,6 +32339,7 @@ cornpones
 cornrow
 cornrowed
 cornrowing
+cornrows
 corns
 cornstalk
 cornstalks
@@ -32358,6 +32365,7 @@ corollary
 corollas
 corollate
 coromandel
+coromandels
 corona
 coronach
 coronachs
@@ -32547,6 +32555,7 @@ corruptibility
 corruptible
 corruptibly
 corrupting
+corruption
 corruptionist
 corruptionists
 corruptions
@@ -33800,6 +33809,7 @@ cranched
 cranches
 cranching
 crane
+craned
 cranes
 cranesbill
 cranesbills
@@ -37681,6 +37691,7 @@ declares
 declaring
 declass
 declasse
+declassed
 declasses
 declassified
 declassify
@@ -40631,6 +40642,7 @@ devised
 devisee
 devisees
 deviser
+devisers
 devises
 devising
 devisor
@@ -47494,6 +47506,7 @@ ejections
 ejective
 ejectives
 ejectment
+ejectments
 ejector
 ejects
 eke
@@ -53213,6 +53226,7 @@ exteriorised
 exteriorises
 exteriorising
 exteriorities
+exteriority
 exteriorization
 exteriorize
 exteriorized
@@ -56348,6 +56362,7 @@ fishmonger
 fishmongers
 fishnet
 fishnets
+fishplate
 fishplates
 fishpole
 fishpoles
@@ -58240,6 +58255,7 @@ forbodes
 forboding
 forbore
 forborne
+forbs
 forby
 forbye
 force
@@ -58621,6 +58637,7 @@ forgetful
 forgetfully
 forgetfulness
 forgetfulnesses
+forgetive
 forgets
 forgettable
 forgetter
@@ -62644,6 +62661,7 @@ giftwrapped
 giftwrapping
 giftwraps
 gig
+giga
 gigabit
 gigabyte
 gigabytes
@@ -68857,6 +68875,7 @@ hempweed
 hempweeds
 hempy
 hems
+hemstitch
 hemstitched
 hemstitcher
 hemstitchers
@@ -69977,6 +69996,7 @@ hobblebush
 hobblebushes
 hobbled
 hobbledehoy
+hobbledehoys
 hobbler
 hobblers
 hobbles
@@ -70238,6 +70258,7 @@ holograph
 holographed
 holographer
 holographers
+holographic
 holographically
 holographies
 holographing
@@ -89885,6 +89906,7 @@ matriarchal
 matriarchate
 matriarchates
 matriarchies
+matriarchs
 matriarchy
 matrices
 matricidal
@@ -90388,6 +90410,7 @@ medicament
 medicamentous
 medicaments
 medicant
+medicants
 medicare
 medicares
 medicate
@@ -105516,6 +105539,7 @@ outrushes
 outrushing
 outs
 outsaid
+outsail
 outsailed
 outsailing
 outsails
@@ -119829,6 +119853,7 @@ proboscidean
 proboscideans
 proboscides
 proboscidian
+proboscidians
 proboscis
 proboscises
 procaine
@@ -127343,6 +127368,7 @@ refunders
 refunding
 refunds
 refurbish
+refurbished
 refurbisher
 refurbishers
 refurbishes
@@ -136244,6 +136270,7 @@ sclerodermas
 sclerodermata
 scleroid
 scleroma
+scleromas
 scleromata
 sclerometer
 sclerometers
@@ -136687,6 +136714,7 @@ scriving
 scrods
 scrofula
 scrofulas
+scrofulous
 scroggier
 scroggiest
 scroggy
@@ -140564,6 +140592,7 @@ sidespin
 sidespins
 sidesplitting
 sidesplittingly
+sidestep
 sidestepped
 sidestepper
 sidesteppers
@@ -143913,6 +143942,7 @@ soliloquize
 soliloquized
 soliloquizer
 soliloquizers
+soliloquizing
 soliloquy
 solion
 solions
@@ -150716,6 +150746,7 @@ sulliable
 sullied
 sullies
 sully
+sullying
 sulpha
 sulphas
 sulphate
@@ -154314,6 +154345,7 @@ tauts
 tav
 tavern
 taverna
+tavernas
 taverner
 taverners
 taverns
@@ -159960,6 +159992,7 @@ trichina
 trichinae
 trichinal
 trichinas
+trichinize
 trichinized
 trichinizes
 trichinizing
@@ -167437,6 +167470,7 @@ valses
 valuable
 valuableness
 valuablenesses
+valuables
 valuably
 valuate
 valuated
@@ -171859,6 +171893,7 @@ whimsy
 whin
 whinchat
 whinchats
+whine
 whined
 whiner
 whiners
