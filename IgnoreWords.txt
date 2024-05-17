@@ -5233,6 +5233,7 @@ animatism
 animatisms
 animatist
 animatists
+animato
 animator
 animators
 animatronic
@@ -10607,6 +10608,7 @@ bactericide
 bactericides
 bacterin
 bacterins
+bacteriocin
 bacteriocins
 bacteriologic
 bacteriological
@@ -15857,6 +15859,7 @@ blowfishes
 blowflies
 blowfly
 blowgun
+blowguns
 blowhard
 blowhards
 blowhole
@@ -17721,6 +17724,7 @@ brashy
 brasier
 brasiers
 brasil
+brasilein
 brasileins
 brasilin
 brasilins
@@ -19610,6 +19614,7 @@ burying
 bus
 busbar
 busbars
+busbies
 busboy
 busboys
 busby
@@ -37745,6 +37750,7 @@ decongestions
 decongestive
 decongests
 deconsecrate
+deconsecrated
 deconsecrates
 deconsecrating
 deconsecration
@@ -41260,6 +41266,7 @@ didoes
 didos
 didy
 didymium
+didymiums
 didymous
 didynamies
 didynamy
@@ -53078,6 +53085,7 @@ extemporaneity
 extemporaneous
 extemporarily
 extemporary
+extempore
 extemporise
 extemporised
 extemporises
@@ -53299,6 +53307,7 @@ extrapolations
 extrapolative
 extrapolator
 extrapolators
+extrapyramidal
 extras
 extrasensory
 extrasystole
@@ -53772,6 +53781,7 @@ fahlbands
 faience
 faiences
 failed
+failing
 failings
 faille
 failles
@@ -55627,6 +55637,7 @@ fiendish
 fiendishly
 fiendishness
 fiendishnesses
+fiends
 fierce
 fiercely
 fierceness
@@ -58598,6 +58609,7 @@ forky
 forlorn
 forlorner
 forlornest
+forlornly
 forlornness
 forlornnesses
 form
@@ -68641,6 +68653,7 @@ hemialgias
 hemic
 hemicellulose
 hemicelluloses
+hemichordate
 hemichordates
 hemicycle
 hemicycles
@@ -75054,6 +75067,7 @@ indicatory
 indices
 indicia
 indicias
+indicium
 indiciums
 indict
 indictable
@@ -82455,7 +82469,9 @@ labia
 labial
 labialities
 labiality
+labialization
 labializations
+labialize
 labialized
 labializes
 labializing
@@ -83110,6 +83126,7 @@ langrages
 langrel
 langrels
 langridge
+langridges
 langshan
 langshans
 langsyne
@@ -92110,6 +92127,7 @@ microvolt
 microvolts
 microwatt
 microwatts
+microwavable
 microwave
 microwaveable
 microwaved
@@ -93361,6 +93379,7 @@ misdividing
 misdivision
 misdivisions
 misdo
+misdoer
 misdoers
 misdoes
 misdoing
@@ -94654,6 +94673,7 @@ mollycoddled
 mollycoddler
 mollycoddlers
 mollycoddles
+mollycoddling
 mollymawk
 mollymawks
 moloch
@@ -98956,6 +98976,7 @@ nicked
 nickel
 nickeled
 nickelic
+nickeliferous
 nickeling
 nickelling
 nickelodeon
@@ -116245,6 +116266,7 @@ pontil
 pontils
 pontine
 ponton
+pontonier
 pontoniers
 pontons
 pontoon
@@ -122877,6 +122899,7 @@ quayages
 quaylike
 quays
 quayside
+qubit
 qubits
 qubyte
 qubytes
@@ -126580,6 +126603,7 @@ reelected
 reelecting
 reelection
 reelections
+reelects
 reeled
 reeler
 reelers
@@ -131192,6 +131216,7 @@ revolters
 revoltingly
 revolts
 revolute
+revolution
 revolutionaries
 revolutionarily
 revolutionary
@@ -133991,6 +134016,7 @@ sailboardings
 sailboards
 sailboat
 sailboater
+sailboaters
 sailboating
 sailboatings
 sailboats
@@ -145025,6 +145051,7 @@ spendy
 spense
 spenses
 spent
+sperm
 spermaceti
 spermacetis
 spermagonia
@@ -145207,6 +145234,7 @@ spiers
 spies
 spiff
 spiffed
+spiffied
 spiffier
 spiffies
 spiffiest
@@ -150209,6 +150237,7 @@ sucres
 sucrose
 sucroses
 suction
+suctional
 suctioned
 suctioning
 suctions
@@ -150542,6 +150571,7 @@ sultriest
 sultrily
 sultriness
 sultrinesses
+sultry
 sulu
 sulus
 sum
@@ -154850,6 +154880,7 @@ temps
 tempt
 temptable
 temptation
+temptations
 tempted
 tempter
 tempters
@@ -158910,6 +158941,7 @@ transcend
 transcended
 transcendence
 transcendences
+transcendencies
 transcendency
 transcendent
 transcendental
@@ -168479,6 +168511,7 @@ vibriosis
 vibrissa
 vibrissae
 vibrissal
+vibronic
 viburnum
 viburnums
 vicar
@@ -169277,6 +169310,7 @@ vizir
 vizirate
 vizirates
 vizirial
+vizirs
 vizor
 vizored
 vizoring
@@ -173235,6 +173269,7 @@ workup
 workups
 workweek
 workweeks
+workwoman
 workwomen
 world
 worldbeat
