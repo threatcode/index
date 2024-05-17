@@ -2142,6 +2142,7 @@ affording
 affords
 afforest
 afforestation
+afforestations
 afforested
 afforesting
 afforests
@@ -11061,6 +11062,7 @@ bandaged
 bandager
 bandagers
 bandages
+bandaging
 bandaid
 bandana
 bandanas
@@ -17778,6 +17780,7 @@ bravery
 braves
 bravest
 bravi
+braving
 bravo
 bravoed
 bravoes
@@ -25967,6 +25970,7 @@ cig
 cigar
 cigaret
 cigarets
+cigarette
 cigarettes
 cigarillo
 cigarillos
@@ -30216,6 +30220,7 @@ conepatls
 cones
 coney
 coneys
+confab
 confabbed
 confabbing
 confabs
@@ -34030,6 +34035,7 @@ creepage
 creepages
 creeped
 creeper
+creepers
 creepie
 creepier
 creepies
@@ -34895,6 +34901,7 @@ cryoprobe
 cryoprobes
 cryoprotectant
 cryoprotectants
+cryoprotective
 cryoscope
 cryoscopes
 cryoscopic
@@ -43140,6 +43147,7 @@ dispositions
 dispositive
 dispossess
 dispossessed
+dispossesses
 dispossession
 dispossessions
 dispossessor
@@ -51589,6 +51597,7 @@ eupnea
 eupneas
 eupneic
 eupnoea
+eupnoeas
 eupnoeic
 eureka
 eurhythmic
@@ -58459,6 +58468,7 @@ forfeit
 forfeitable
 forfeited
 forfeiter
+forfeiters
 forfeiting
 forfeits
 forfeiture
@@ -71825,6 +71835,7 @@ hydrographies
 hydroid
 hydroids
 hydrokinetic
+hydrolase
 hydrolases
 hydrologic
 hydrological
@@ -71861,6 +71872,7 @@ hydrometeor
 hydrometeors
 hydrometer
 hydrometers
+hydrometric
 hydromorphic
 hydronic
 hydronically
@@ -78040,6 +78052,7 @@ invalidated
 invalidates
 invalidating
 invalidation
+invalidations
 invalidator
 invalidators
 invalided
@@ -81775,6 +81788,7 @@ kleptomaniacs
 kleptomanias
 kleptos
 klezmer
+klezmers
 klezmorim
 klick
 klicks
@@ -86435,6 +86449,7 @@ longbow
 longbowman
 longbowmen
 longbows
+longcloths
 longe
 longed
 longeing
@@ -91935,6 +91950,7 @@ micropore
 micropores
 microporosities
 microporosity
+microporous
 microprism
 microprobe
 microprobes
@@ -112311,6 +112327,7 @@ philanderers
 philandering
 philanders
 philanthropic
+philanthropical
 philanthropies
 philanthropist
 philanthropists
@@ -113323,6 +113340,7 @@ piecing
 piecings
 piecrust
 piecrusts
+pied
 piedfort
 piedforts
 piedmont
@@ -120001,6 +120019,7 @@ prolific
 prolificacies
 prolificacy
 prolifically
+prolificities
 prolificity
 prolificness
 prolificnesses
@@ -121846,6 +121865,7 @@ purgation
 purgations
 purgative
 purgatives
+purgatorial
 purgatories
 purgatory
 purge
@@ -123250,6 +123270,7 @@ rabble
 rabbled
 rabblement
 rabblements
+rabbler
 rabblers
 rabbles
 rabbling
@@ -124591,6 +124612,7 @@ readdress
 readdressed
 readdresses
 readdressing
+readds
 reader
 readerly
 readers
@@ -126385,6 +126407,7 @@ redye
 redyed
 redyeing
 redyes
+ree
 reearn
 reearned
 reearning
@@ -126984,6 +127007,7 @@ refrangibleness
 refreeze
 refreezes
 refreezing
+refresh
 refreshed
 refreshen
 refreshened
@@ -127268,6 +127292,7 @@ regreened
 regreening
 regreens
 regreet
+regreeted
 regreeting
 regreets
 regress
@@ -129994,6 +130019,7 @@ responsibility
 responsible
 responsibleness
 responsibly
+responsions
 responsive
 responsively
 responsiveness
@@ -133280,6 +133306,7 @@ rummager
 rummagers
 rummages
 rummaging
+rummer
 rummers
 rummest
 rummier
@@ -136919,6 +136946,7 @@ secretes
 secretest
 secretin
 secreting
+secretins
 secretion
 secretionary
 secretions
@@ -137655,6 +137683,7 @@ semitonally
 semitone
 semitones
 semitonic
+semitonically
 semitrailer
 semitrailers
 semitranslucent
@@ -142963,6 +142992,7 @@ snowcats
 snowdrift
 snowdrifts
 snowdrop
+snowdrops
 snowed
 snowfall
 snowfalls
@@ -145274,6 +145304,7 @@ spirituals
 spiritualties
 spiritualty
 spirituel
+spirituelle
 spirituous
 spirochaetes
 spirochetal
@@ -146485,6 +146516,7 @@ stalled
 stallholder
 stallholders
 stalling
+stallion
 stallions
 stalls
 stalwart
@@ -152696,6 +152728,7 @@ synonymously
 synonyms
 synonymy
 synopses
+synopsis
 synopsize
 synopsized
 synopsizes
@@ -166893,6 +166926,7 @@ vagi
 vagile
 vagilities
 vagility
+vaginae
 vaginal
 vaginally
 vaginate
@@ -169730,6 +169764,7 @@ waggoned
 waggoner
 waggoners
 waggoning
+waggons
 waging
 wagon
 wagonage
