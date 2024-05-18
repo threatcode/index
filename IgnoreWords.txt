@@ -473,6 +473,7 @@ acclimates
 acclimating
 acclimation
 acclimations
+acclimatise
 acclimatised
 acclimatises
 acclimatising
@@ -5356,6 +5357,7 @@ annexationist
 annexationists
 annexations
 annexe
+annexed
 annexes
 annexing
 annihilate
@@ -5675,6 +5677,7 @@ anthozoan
 anthozoans
 anthozoic
 anthracene
+anthracenes
 anthraces
 anthracite
 anthracites
@@ -8109,6 +8112,7 @@ artillerists
 artillery
 artilleryman
 artillerymen
+artily
 artiness
 artinesses
 artiodactyl
@@ -10607,6 +10611,7 @@ backwardly
 backwardness
 backwardnesses
 backwards
+backwash
 backwashed
 backwashes
 backwashing
@@ -11117,6 +11122,7 @@ bandeaux
 banded
 banderilla
 banderillas
+banderillero
 banderilleros
 banderol
 banderole
@@ -14888,6 +14894,7 @@ birdbrains
 birdcage
 birdcages
 birdcall
+birdcalls
 birddog
 birddogged
 birddogging
@@ -16425,6 +16432,7 @@ boilersuit
 boilersuits
 boiling
 boilingly
+boiloff
 boiloffs
 boilover
 boilovers
@@ -20862,6 +20870,7 @@ camel
 camelback
 camelbacks
 cameleer
+cameleers
 camelhair
 camelia
 camelias
@@ -22986,6 +22995,7 @@ cattily
 cattiness
 cattinesses
 catting
+cattish
 cattishly
 cattle
 cattleman
@@ -24651,6 +24661,7 @@ cheesiest
 cheesily
 cheesiness
 cheesinesses
+cheesing
 cheesy
 cheetah
 cheetahs
@@ -37972,6 +37983,7 @@ decrepitations
 decrepitly
 decrepitude
 decrepitudes
+decrescendo
 decrescendos
 decrescent
 decretal
@@ -39373,6 +39385,7 @@ denotation
 denotations
 denotative
 denote
+denoted
 denotement
 denotements
 denotes
@@ -58464,6 +58477,7 @@ foredone
 foredoom
 foredoomed
 foredooming
+foredooms
 foreface
 forefaces
 forefather
@@ -61190,6 +61204,7 @@ gambrels
 gambs
 gambusia
 gambusias
+game
 gamecock
 gamecocks
 gamed
@@ -74904,6 +74919,7 @@ incommutable
 incommutably
 incompact
 incomparability
+incomparable
 incomparably
 incompatibility
 incompatible
@@ -94046,6 +94062,7 @@ misogamic
 misogamies
 misogamist
 misogamists
+misogamy
 misogynic
 misogynies
 misogynist
@@ -94378,6 +94395,7 @@ missuses
 missy
 mist
 mistakable
+mistake
 mistaken
 mistakenly
 mistaker
@@ -96792,6 +96810,7 @@ multimegawatt
 multimegawatts
 multimember
 multimetallic
+multimillennial
 multimillion
 multimodal
 multimode
@@ -102484,6 +102503,7 @@ obstetrical
 obstetrically
 obstetrician
 obstetricians
+obstetrics
 obstinacies
 obstinacy
 obstinate
@@ -104454,6 +104474,7 @@ oscilloscopes
 oscilloscopic
 oscine
 oscines
+oscinine
 oscitance
 oscitances
 oscitancies
@@ -110815,6 +110836,7 @@ peddleries
 peddlers
 peddlery
 peddles
+peddling
 pederast
 pederastic
 pederasties
@@ -112194,6 +112216,7 @@ perspectival
 perspective
 perspectively
 perspectives
+perspex
 perspexes
 perspicacious
 perspicaciously
@@ -113732,6 +113755,7 @@ picot
 picoted
 picotee
 picotees
+picoting
 picots
 picowave
 picowaved
@@ -116600,6 +116624,7 @@ ponderosas
 ponderous
 ponderously
 ponderousness
+ponderousnesses
 ponders
 ponding
 ponds
@@ -117031,6 +117056,7 @@ positroniums
 positrons
 posits
 posole
+posoles
 posologic
 posologies
 posology
@@ -119277,6 +119303,7 @@ presidiums
 presift
 presifted
 presifting
+presifts
 presignal
 presignaled
 presignaling
@@ -122607,6 +122634,7 @@ putrefactive
 putrefied
 putrefier
 putrefiers
+putrefies
 putrefy
 putrefying
 putrescence
@@ -147980,6 +148008,7 @@ stey
 sthenia
 sthenias
 sthenic
+stibial
 stibine
 stibines
 stibium
@@ -152090,6 +152119,7 @@ surfacers
 surfaces
 surfacing
 surfacings
+surfactant
 surfactants
 surfbird
 surfbirds
@@ -154276,6 +154306,7 @@ taper
 tapered
 taperer
 taperers
+tapering
 tapers
 taperstick
 tapersticks
@@ -158933,6 +158964,7 @@ tousled
 tousles
 tousling
 tout
+touted
 touter
 touters
 touting
@@ -159957,6 +159989,7 @@ treadles
 treadless
 treadling
 treadmill
+treadmills
 treads
 treason
 treasonable
@@ -162423,6 +162456,7 @@ ugliness
 uglinesses
 ugly
 ugsome
+uh
 uhlan
 uhlans
 uintahite
@@ -167673,6 +167707,7 @@ vakil
 valance
 valanced
 valances
+valancing
 vale
 valediction
 valedictions
