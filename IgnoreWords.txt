@@ -6389,6 +6389,7 @@ antitypes
 antityphoid
 antitypic
 antiulcer
+antiunion
 antiuniversity
 antiurban
 antivenin
@@ -7314,6 +7315,7 @@ arb
 arbalest
 arbalests
 arbalist
+arbalists
 arbelest
 arbelests
 arbiter
@@ -17530,6 +17532,7 @@ boycotters
 boycotting
 boycotts
 boyfriend
+boyfriends
 boyhood
 boyhoods
 boyish
@@ -17996,6 +17999,7 @@ breaking
 breakings
 breakneck
 breakout
+breakouts
 breaks
 breakthrough
 breakthroughs
@@ -19331,6 +19335,7 @@ bumpers
 bumph
 bumphs
 bumpier
+bumpiest
 bumpily
 bumpiness
 bumpinesses
@@ -19456,6 +19461,7 @@ buppies
 buppy
 buprestid
 buprestids
+buqsha
 buqshas
 bur
 bura
@@ -23464,6 +23470,7 @@ centas
 centaur
 centaurea
 centaureas
+centauric
 centauries
 centaurs
 centaury
@@ -23861,6 +23868,7 @@ chaffed
 chaffer
 chafferer
 chafferers
+chaffering
 chaffier
 chaffiest
 chaffinch
@@ -27006,6 +27014,7 @@ clericalists
 clerically
 clericals
 clerics
+clerid
 clerids
 clerihew
 clerihews
@@ -30707,6 +30716,7 @@ congress
 congressed
 congresses
 congressing
+congressional
 congressionally
 congressman
 congressmen
@@ -41115,6 +41125,7 @@ diamagnet
 diamagnetic
 diamagnetism
 diamagnetisms
+diamagnets
 diamante
 diamantes
 diameter
@@ -44525,6 +44536,7 @@ doltishnesses
 dolts
 dom
 domain
+domaine
 domaines
 domains
 domal
@@ -46387,6 +46399,7 @@ duration
 durations
 durative
 duratives
+durbar
 durbars
 dure
 dured
@@ -47724,6 +47737,7 @@ elatives
 elbow
 elbowed
 elbowing
+elbowroom
 elbowrooms
 elbows
 eld
@@ -48018,6 +48032,7 @@ elixirs
 elk
 elkhound
 elkhounds
+elks
 ell
 ellipse
 ellipses
@@ -55119,6 +55134,7 @@ fellatios
 fellator
 fellators
 fellatrices
+fellatrix
 fellatrixes
 felled
 feller
@@ -56541,6 +56557,7 @@ fishwife
 fishwives
 fishworm
 fishworms
+fishy
 fissate
 fissile
 fissilities
@@ -65495,6 +65512,7 @@ grippy
 grips
 gripsack
 gripsacks
+gript
 gripy
 grisaille
 grisailles
@@ -68766,6 +68784,7 @@ heliozoans
 heliozoic
 helipad
 helipads
+heliport
 heliports
 helistop
 helistops
@@ -74649,6 +74668,7 @@ inapproachable
 inappropriate
 inappropriately
 inapt
+inaptitude
 inaptitudes
 inaptly
 inaptness
@@ -81176,6 +81196,7 @@ kapoks
 kappa
 kappas
 kaput
+kaputt
 karabiner
 karabiners
 karakul
@@ -88923,6 +88944,7 @@ mamelukes
 mamey
 mameyes
 mameys
+mamie
 mamies
 mamluk
 mamluks
@@ -92107,6 +92129,7 @@ mezereon
 mezereons
 mezereum
 mezereums
+mezes
 mezquit
 mezquite
 mezquites
@@ -94814,6 +94837,7 @@ modellers
 modelling
 models
 modem
+modemed
 modeming
 modems
 moderate
@@ -94873,6 +94897,7 @@ modicum
 modicums
 modifiabilities
 modifiability
+modifiable
 modification
 modifications
 modified
@@ -114157,6 +114182,7 @@ pillowy
 pills
 pilocarpine
 pilocarpines
+pilonidal
 pilose
 pilosities
 pilosity
@@ -114310,6 +114336,7 @@ pinions
 pinite
 pinites
 pinitol
+pinitols
 pink
 pinked
 pinken
@@ -114789,6 +114816,7 @@ pizzazz
 pizzazzes
 pizzazzy
 pizzelle
+pizzelles
 pizzeria
 pizzerias
 pizzicati
@@ -120387,6 +120415,7 @@ profanes
 profaning
 profanities
 profanity
+profess
 professed
 professedly
 professes
@@ -123411,6 +123440,7 @@ quayages
 quaylike
 quays
 quayside
+quaysides
 qubit
 qubits
 qubyte
@@ -127773,6 +127803,7 @@ regalia
 regaling
 regalities
 regality
+regally
 regalness
 regalnesses
 regard
@@ -137663,6 +137694,7 @@ secretly
 secretor
 secretories
 secretors
+secretory
 secrets
 secs
 sect
@@ -147447,6 +147479,7 @@ starchy
 stardom
 stardoms
 stardust
+stardusts
 stare
 stared
 starer
@@ -148723,6 +148756,7 @@ storksbills
 storm
 stormbound
 stormed
+stormier
 stormiest
 stormily
 storminess
@@ -150885,6 +150919,7 @@ sudatoria
 sudatories
 sudatorium
 sudatoriums
+sudatory
 sudd
 sudden
 suddenly
