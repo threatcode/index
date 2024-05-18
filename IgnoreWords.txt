@@ -7002,6 +7002,7 @@ applicators
 applicatory
 applied
 applier
+appliers
 applies
 applique
 appliqued
@@ -11683,6 +11684,7 @@ barretries
 barretry
 barrets
 barrette
+barrettes
 barricade
 barricaded
 barricades
@@ -12421,6 +12423,7 @@ beckoning
 beckons
 becks
 beclamor
+beclamored
 beclamoring
 beclamors
 beclasp
@@ -13738,6 +13741,7 @@ bestowed
 bestower
 bestowers
 bestowing
+bestows
 bestrew
 bestrewed
 bestrewing
@@ -18401,6 +18405,7 @@ brittleness
 brittlenesses
 brittler
 brittles
+brittlest
 brittling
 brittly
 britts
@@ -21882,6 +21887,7 @@ carboxylations
 carboxylic
 carboxyls
 carboy
+carboyed
 carboys
 carbs
 carbuncle
@@ -23869,6 +23875,7 @@ chaffer
 chafferer
 chafferers
 chaffering
+chaffers
 chaffier
 chaffiest
 chaffinch
@@ -28483,6 +28490,7 @@ coinage
 coinages
 coincide
 coincided
+coincidence
 coincidences
 coincident
 coincidental
@@ -31780,6 +31788,7 @@ convivialities
 conviviality
 convivially
 convocation
+convocational
 convocations
 convoke
 convoked
@@ -37640,6 +37649,7 @@ decelerations
 decelerator
 decelerators
 deceleron
+decelerons
 decemvir
 decemviral
 decemvirate
@@ -39876,6 +39886,7 @@ derailed
 derailing
 derailleur
 derailleurs
+derailment
 derailments
 derails
 derange
@@ -40933,6 +40944,7 @@ dhaks
 dhal
 dhals
 dharma
+dharmas
 dharmic
 dharna
 dharnas
@@ -42411,6 +42423,7 @@ disaster
 disasters
 disastrous
 disastrously
+disavow
 disavowable
 disavowal
 disavowals
@@ -66076,6 +66089,7 @@ guided
 guideless
 guideline
 guidelines
+guidepost
 guideposts
 guider
 guiders
@@ -66759,6 +66773,7 @@ haematics
 haematin
 haematins
 haematite
+haematites
 haemic
 haemin
 haemins
@@ -68014,6 +68029,7 @@ hauliers
 hauling
 haulm
 haulmier
+haulmiest
 haulms
 haulmy
 hauls
@@ -83667,6 +83683,7 @@ lardoon
 lardoons
 lards
 lardy
+laree
 larees
 lares
 largando
@@ -87217,6 +87234,7 @@ loudmouths
 loudness
 loudnesses
 loudspeaker
+loudspeakers
 lough
 loughs
 louie
@@ -88178,6 +88196,7 @@ macrocyclic
 macrocyst
 macrocysts
 macrocyte
+macrocytes
 macrocytic
 macrocytoses
 macrocytosis
@@ -88372,6 +88391,7 @@ maggot
 maggots
 maggoty
 magi
+magians
 magic
 magical
 magically
@@ -94440,6 +94460,7 @@ misspacing
 misspeak
 misspeaking
 misspeaks
+misspell
 misspelled
 misspelling
 misspellings
@@ -95103,6 +95124,7 @@ moloch
 molochs
 mols
 molt
+molted
 molten
 moltenly
 molter
@@ -116977,6 +116999,7 @@ porked
 porker
 porkier
 porkies
+porkiest
 porkiness
 porkinesses
 porking
@@ -120010,6 +120033,7 @@ principles
 princock
 princocks
 princox
+princoxes
 prink
 prinked
 prinker
@@ -121512,6 +121536,7 @@ proves
 provide
 provided
 providence
+providences
 provident
 providential
 providentially
@@ -124942,6 +124967,7 @@ rationalises
 rationalising
 rationalism
 rationalisms
+rationalist
 rationalistic
 rationalists
 rationalities
@@ -125654,6 +125680,7 @@ rebalances
 rebalancing
 rebaptism
 rebaptisms
+rebaptize
 rebaptized
 rebaptizes
 rebaptizing
@@ -135017,6 +135044,7 @@ samisens
 samite
 samites
 samizdat
+samizdats
 samlet
 samlets
 samosa
@@ -135284,6 +135312,7 @@ santero
 santeros
 santimi
 santims
+santimu
 santir
 santirs
 santo
@@ -145686,6 +145715,7 @@ spendier
 spendiest
 spending
 spends
+spendthrift
 spendthrifts
 spendy
 spense
@@ -147213,6 +147243,7 @@ stagnantly
 stagnate
 stagnated
 stagnates
+stagnating
 stagnation
 stagnations
 stags
@@ -158345,6 +158376,7 @@ tolerant
 tolerantly
 tolerate
 tolerated
+tolerates
 tolerating
 toleration
 tolerations
@@ -160235,6 +160267,7 @@ trekked
 trekker
 trekkers
 trekking
+trellis
 trellised
 trellises
 trellising
@@ -164147,6 +164180,7 @@ underlying
 underlyingly
 undermanned
 undermine
+undermined
 undermines
 undermining
 undermost
@@ -174142,6 +174176,7 @@ worthy
 worts
 wos
 wost
+wot
 wots
 wotted
 wotting
