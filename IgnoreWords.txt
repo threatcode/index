@@ -626,6 +626,7 @@ accusal
 accusals
 accusant
 accusants
+accusation
 accusations
 accusative
 accusatives
@@ -12389,6 +12390,7 @@ bechances
 bechancing
 becharmed
 becharming
+becharms
 beck
 becked
 becket
@@ -15936,6 +15938,7 @@ blowtubes
 blowup
 blowups
 blowy
+blowzed
 blowzier
 blowziest
 blowzily
@@ -26960,6 +26963,7 @@ clerestories
 clerestory
 clergy
 clergyman
+clergymen
 clergywoman
 clergywomen
 cleric
@@ -37475,6 +37479,7 @@ decalogues
 decals
 decameter
 decameters
+decamethonium
 decamethoniums
 decametric
 decamp
@@ -39252,6 +39257,7 @@ denars
 denary
 denationalize
 denationalized
+denationalizes
 denationalizing
 denaturalize
 denaturalized
@@ -44857,6 +44863,7 @@ dottles
 dottrel
 dottrels
 dotty
+doty
 double
 doubled
 doubleheader
@@ -46414,6 +46421,7 @@ dutiful
 dutifully
 dutifulness
 dutifulnesses
+duty
 duumvir
 duumvirate
 duumvirates
@@ -49805,6 +49813,7 @@ entelechies
 entelechy
 entellus
 entelluses
+entente
 ententes
 enter
 entera
@@ -59275,6 +59284,7 @@ frailness
 frailnesses
 frails
 frailties
+frailty
 fraise
 fraises
 fraktur
@@ -61802,6 +61812,7 @@ gavials
 gavot
 gavots
 gavotte
+gavotted
 gavottes
 gavotting
 gawk
@@ -77119,6 +77130,7 @@ intellectualize
 intellectually
 intellectuals
 intelligence
+intelligencer
 intelligencers
 intelligences
 intelligent
@@ -79295,6 +79307,7 @@ italianise
 italianised
 italianises
 italianising
+italianize
 italianized
 italianizes
 italianizing
@@ -80232,6 +80245,7 @@ jockette
 jockettes
 jockey
 jockeyed
+jockeying
 jockeyish
 jockeys
 jocko
@@ -83415,6 +83429,7 @@ lannerets
 lanners
 lanolin
 lanoline
+lanolines
 lanose
 lanosities
 lanosity
@@ -88951,6 +88966,7 @@ mandril
 mandrill
 mandrills
 mandrils
+manducate
 manducates
 manducating
 mane
@@ -90785,6 +90801,7 @@ melaleuca
 melaleucas
 melamdim
 melamed
+melamine
 melamines
 melancholia
 melancholiac
@@ -91637,6 +91654,7 @@ metallographies
 metallography
 metalloid
 metalloidal
+metalloids
 metallophone
 metallophones
 metallurgical
@@ -91837,6 +91855,7 @@ methodological
 methodologies
 methodologist
 methodologists
+methodology
 methods
 methotrexate
 methotrexates
@@ -95502,6 +95521,7 @@ monstrousnesses
 montadale
 montadales
 montage
+montaged
 montages
 montaging
 montagnard
@@ -98197,6 +98217,7 @@ nauplius
 nausea
 nauseant
 nauseants
+nauseas
 nauseate
 nauseated
 nauseates
@@ -98296,6 +98317,7 @@ neaten
 neatened
 neatening
 neatens
+neater
 neatest
 neath
 neatherd
@@ -111855,6 +111877,7 @@ perithecial
 perithecium
 periti
 peritonea
+peritoneal
 peritoneally
 peritoneum
 peritoneums
@@ -127957,6 +127980,7 @@ reidentify
 reidentifying
 reif
 reification
+reifications
 reified
 reifier
 reifiers
@@ -130103,6 +130127,7 @@ resentments
 resents
 reserpine
 reserpines
+reservable
 reservation
 reservationist
 reservationists
@@ -134274,6 +134299,7 @@ sadly
 sadness
 sadnesses
 sadomasochism
+sadomasochisms
 sadomasochist
 sadomasochistic
 sadomasochists
@@ -134923,6 +134949,7 @@ sandlotter
 sandlotters
 sandman
 sandmen
+sandpainting
 sandpaintings
 sandpaper
 sandpapered
@@ -139756,6 +139783,7 @@ shewers
 shewing
 shewn
 shews
+shh
 shiatsu
 shiatsus
 shiatzu
@@ -142625,6 +142653,7 @@ slothfulnesses
 sloths
 slots
 slotted
+slotter
 slotters
 slotting
 slouch
@@ -143590,6 +143619,7 @@ snowslide
 snowslides
 snowstorm
 snowstorms
+snowsuit
 snowsuits
 snowy
 snub
@@ -144969,6 +144999,7 @@ spaits
 spake
 spaldeen
 spaldeens
+spale
 spales
 spallable
 spallation
@@ -158329,6 +158360,7 @@ toolholder
 toolholders
 toolhouse
 toolhouses
+tooling
 toolings
 toolless
 toolmaker
@@ -162688,6 +162720,7 @@ unacceptability
 unacceptable
 unacceptably
 unaccepted
+unacclimated
 unacclimatized
 unaccommodated
 unaccommodating
@@ -164058,6 +164091,7 @@ underutilized
 underutilizes
 underutilizing
 undervaluations
+undervalue
 undervalued
 undervalues
 undervaluing
@@ -165833,6 +165867,7 @@ unrusted
 uns
 unsaddle
 unsaddled
+unsaddles
 unsaddling
 unsafe
 unsafeties
