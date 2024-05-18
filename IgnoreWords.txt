@@ -3584,6 +3584,7 @@ allotetraploids
 allotetraploidy
 allotment
 allotments
+allotrope
 allotropes
 allotropic
 allotropies
@@ -13078,6 +13079,7 @@ belier
 beliers
 belies
 believabilities
+believability
 believable
 believably
 believe
@@ -19591,6 +19593,7 @@ burnings
 burnish
 burnished
 burnisher
+burnishers
 burnishes
 burnishing
 burnishings
@@ -27514,6 +27517,7 @@ coachwork
 coachworks
 coact
 coacted
+coacting
 coaction
 coactions
 coactive
@@ -27676,6 +27680,7 @@ coater
 coaters
 coati
 coatimundi
+coatimundis
 coating
 coatings
 coatis
@@ -35068,6 +35073,7 @@ cryptanalysts
 cryptanalytic
 cryptanalytical
 cryptarithm
+cryptarithms
 cryptic
 cryptical
 cryptically
@@ -36551,6 +36557,7 @@ daikon
 daikons
 dailies
 dailiness
+dailinesses
 daily
 dailyness
 dailynesses
@@ -37504,6 +37511,7 @@ decapitated
 decapitates
 decapitating
 decapitation
+decapitations
 decapitator
 decapitators
 decapod
@@ -39019,6 +39027,7 @@ demeriting
 demerits
 demersal
 demes
+demesne
 demesnes
 demeton
 demetons
@@ -41399,6 +41408,7 @@ didjeridus
 dido
 didoes
 didos
+didst
 didy
 didymium
 didymiums
@@ -48493,6 +48503,7 @@ emissions
 emissive
 emissivities
 emissivity
+emit
 emits
 emittance
 emittances
@@ -50657,6 +50668,7 @@ equalitarians
 equalities
 equality
 equalization
+equalizations
 equalize
 equalized
 equalizer
@@ -62295,6 +62307,7 @@ geochemistry
 geochemists
 geochronologic
 geochronologies
+geochronologist
 geochronology
 geocorona
 geocoronae
@@ -67579,6 +67592,7 @@ hardpacks
 hardpan
 hardpans
 hards
+hardscrabble
 hardset
 hardship
 hardships
@@ -71413,6 +71427,7 @@ houseless
 houselessness
 houselessnesses
 houselights
+houseling
 houselled
 houselling
 housels
@@ -76630,6 +76645,7 @@ inscroll
 inscrolled
 inscrolling
 inscrolls
+inscrutability
 inscrutable
 inscrutableness
 inscrutably
@@ -82032,6 +82048,7 @@ kitbags
 kitchen
 kitchenet
 kitchenets
+kitchenette
 kitchenettes
 kitchenware
 kitchenwares
@@ -94576,6 +94593,7 @@ mixable
 mixed
 mixedly
 mixer
+mixers
 mixes
 mixible
 mixing
@@ -96310,6 +96328,7 @@ mouthers
 mouthfeel
 mouthfeels
 mouthful
+mouthfuls
 mouthier
 mouthiest
 mouthily
@@ -96329,6 +96348,7 @@ mouthy
 mouton
 moutonnee
 moutons
+movabilities
 movability
 movable
 movableness
@@ -96355,6 +96375,7 @@ moviedoms
 moviegoer
 moviegoers
 moviegoing
+moviegoings
 moviemaker
 moviemakers
 moviemaking
@@ -97097,6 +97118,7 @@ murrha
 murrhas
 murrhine
 murries
+murrine
 murrs
 murry
 murther
@@ -103743,6 +103765,7 @@ oppilated
 oppilates
 oppilating
 opponencies
+opponency
 opponent
 opponents
 opportune
@@ -104756,6 +104779,7 @@ outargues
 outarguing
 outask
 outasked
+outasking
 outasks
 outate
 outback
@@ -126741,6 +126765,7 @@ redivisions
 redivivus
 redivorce
 redivorces
+redivorcing
 redleg
 redlegs
 redline
@@ -127513,6 +127538,7 @@ refreshed
 refreshen
 refreshened
 refreshening
+refreshens
 refresher
 refreshers
 refreshes
@@ -137370,6 +137396,7 @@ seatbelt
 seatbelts
 seated
 seater
+seaters
 seating
 seatings
 seatless
@@ -137595,6 +137622,7 @@ sedation
 sedations
 sedative
 sedatives
+sedentary
 seder
 seders
 sederunt
@@ -143728,6 +143756,7 @@ sobbed
 sobber
 sobbers
 sobbing
+sobbingly
 sobeit
 sober
 sobered
@@ -143978,6 +144007,7 @@ sojourners
 sojourning
 sojourns
 soke
+sokeman
 sokemen
 sokes
 sokol
@@ -146164,6 +146194,7 @@ spontoons
 spoof
 spoofed
 spoofer
+spooferies
 spoofers
 spoofery
 spoofs
@@ -148306,6 +148337,7 @@ stocktakings
 stocky
 stockyard
 stockyards
+stodge
 stodged
 stodges
 stodgier
@@ -155217,6 +155249,7 @@ tellingly
 tells
 telltale
 telltales
+tellurian
 tellurians
 telluric
 telluride
@@ -171504,6 +171537,7 @@ weatherproofs
 weathers
 weatherworn
 weave
+weaved
 weaver
 weaverbird
 weaverbirds
@@ -172579,6 +172613,7 @@ widow
 widowbird
 widowbirds
 widowed
+widower
 widowered
 widowerhood
 widowerhoods
