@@ -4425,6 +4425,7 @@ amphibian
 amphibians
 amphibious
 amphibiously
+amphibiousness
 amphibole
 amphiboles
 amphibolies
@@ -8345,6 +8346,7 @@ aspen
 aspens
 asper
 asperate
+asperated
 asperates
 asperating
 asperges
@@ -11789,6 +11791,7 @@ basification
 basifications
 basified
 basifier
+basifiers
 basifies
 basifixed
 basify
@@ -17545,6 +17548,7 @@ brachiating
 brachiation
 brachiations
 brachiator
+brachiators
 brachiopod
 brachiopods
 brachium
@@ -18990,6 +18994,7 @@ budgeteer
 budgeteers
 budgeter
 budgeters
+budgeting
 budgets
 budgie
 budgies
@@ -20621,6 +20626,7 @@ calipees
 caliper
 calipered
 calipering
+calipers
 caliph
 caliphal
 caliphate
@@ -30062,6 +30068,7 @@ concessive
 concessively
 conch
 concha
+conchae
 conchal
 conchas
 conches
@@ -43715,6 +43722,7 @@ distractible
 distracting
 distractingly
 distraction
+distractions
 distractive
 distracts
 distrain
@@ -44955,6 +44963,7 @@ dove
 dovecot
 dovecote
 dovecotes
+dovecots
 dovekey
 dovekeys
 dovekie
@@ -49468,12 +49477,14 @@ enisling
 enjambed
 enjambement
 enjambements
+enjambment
 enjambments
 enjoin
 enjoinder
 enjoinders
 enjoined
 enjoiner
+enjoiners
 enjoining
 enjoins
 enjoy
@@ -53937,6 +53948,7 @@ faience
 faiences
 failed
 failing
+failingly
 failings
 faille
 failles
@@ -56292,6 +56304,7 @@ firehouses
 fireless
 firelight
 firelights
+firelit
 firelock
 firelocks
 fireman
@@ -63498,6 +63511,7 @@ glorifier
 glorifiers
 glorifies
 glorify
+glorifying
 gloriole
 glorioles
 glorious
@@ -67934,6 +67948,7 @@ havered
 haverel
 haverels
 havering
+havers
 haversack
 haversacks
 haves
@@ -69618,6 +69633,7 @@ hieratic
 hieratically
 hierodule
 hierodules
+hieroglyph
 hieroglyphic
 hieroglyphical
 hieroglyphics
@@ -72864,6 +72880,7 @@ iambic
 iambics
 iambs
 iambus
+iambuses
 iatric
 iatrical
 iatrogenic
@@ -80958,6 +80975,7 @@ kalifates
 kalifs
 kalimba
 kalimbas
+kaliph
 kaliphate
 kaliphates
 kaliphs
@@ -81870,6 +81888,7 @@ kinetosomes
 kinfolk
 kinfolks
 king
+kingbird
 kingbirds
 kingbolt
 kingbolts
@@ -86020,6 +86039,7 @@ literalities
 literality
 literalization
 literalizations
+literalize
 literalized
 literalizes
 literalizing
@@ -87326,6 +87346,7 @@ lucubrating
 lucubration
 lucubrations
 luculent
+luculently
 lude
 ludes
 ludic
@@ -87672,6 +87693,7 @@ luteotropic
 luteotropin
 luteotropins
 luteous
+lutes
 lutestring
 lutestrings
 lutetium
@@ -89264,6 +89286,7 @@ maquettes
 maqui
 maquila
 maquiladora
+maquiladoras
 maquilas
 maquillage
 maquillages
@@ -94963,6 +94986,7 @@ momes
 momi
 momism
 momisms
+momma
 mommas
 mommies
 moms
@@ -102044,6 +102068,7 @@ nymphet
 nymphetic
 nymphets
 nymphette
+nymphettes
 nympho
 nympholepsies
 nympholepsy
@@ -103954,6 +103979,7 @@ orchils
 orchis
 orchises
 orchitic
+orchitis
 orchitises
 orcin
 orcinol
@@ -124897,6 +124923,7 @@ rawins
 rawinsonde
 rawinsondes
 rawish
+rawly
 rawness
 rawnesses
 raws
@@ -130716,6 +130743,7 @@ resumption
 resumptions
 resupinate
 resupine
+resupplied
 resupplies
 resupply
 resupplying
@@ -133383,6 +133411,7 @@ rousters
 rousting
 rousts
 rout
+route
 routed
 routeman
 routemen
@@ -137289,6 +137318,7 @@ seasickness
 seasicknesses
 seaside
 seasides
+season
 seasonable
 seasonableness
 seasonably
@@ -140193,6 +140223,7 @@ shorn
 short
 shortage
 shortages
+shortbread
 shortbreads
 shortcake
 shortcakes
@@ -142779,6 +142810,7 @@ smallest
 smallholder
 smallholders
 smallholding
+smallholdings
 smallish
 smallmouth
 smallmouths
@@ -143332,6 +143364,7 @@ sniperscopes
 snipes
 sniping
 snipped
+snipper
 snippersnapper
 snippersnappers
 snippet
@@ -148734,6 +148767,7 @@ stratocumulus
 stratosphere
 stratospheres
 stratospheric
+stratous
 stratovolcano
 stratovolcanoes
 stratovolcanos
@@ -152270,6 +152304,7 @@ sutlers
 sutra
 sutta
 suttas
+suttee
 suttees
 sutural
 suturally
