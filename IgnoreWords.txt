@@ -628,6 +628,7 @@ accusants
 accusations
 accusative
 accusatives
+accusatory
 accuse
 accused
 accuser
@@ -2933,6 +2934,7 @@ alanins
 alans
 alant
 alants
+alanyl
 alanyls
 alar
 alarm
@@ -6186,6 +6188,7 @@ antipyrines
 antiquarian
 antiquarianism
 antiquarianisms
+antiquarians
 antiquaries
 antiquark
 antiquarks
@@ -11551,6 +11554,7 @@ barographic
 barographs
 barometer
 barometers
+barometric
 barometrically
 barometries
 barometry
@@ -11770,6 +11774,7 @@ basidia
 basidial
 basidiomycete
 basidiomycetes
+basidiomycetous
 basidiospore
 basidiospores
 basidium
@@ -21911,6 +21916,7 @@ cardinally
 cardinals
 cardinalship
 cardinalships
+carding
 cardings
 cardio
 cardiogenic
@@ -31862,6 +31868,7 @@ coordinations
 coordinative
 coordinator
 coordinators
+coos
 coot
 cooters
 cootie
@@ -34970,6 +34977,7 @@ crybaby
 crying
 cryingly
 cryobank
+cryobanks
 cryobiological
 cryobiologies
 cryobiologist
@@ -35592,6 +35600,7 @@ curiously
 curiousness
 curiousnesses
 curite
+curites
 curium
 curiums
 curl
@@ -36829,6 +36838,7 @@ darkness
 darknesses
 darkroom
 darkrooms
+darks
 darksome
 darky
 darling
@@ -40605,6 +40615,7 @@ deverbals
 deverbative
 deverbatives
 devest
+devested
 devesting
 devests
 deviance
@@ -44328,6 +44339,7 @@ doing
 doings
 doit
 doited
+doits
 dojo
 dojos
 dol
@@ -49530,6 +49542,7 @@ enologist
 enologists
 enology
 enols
+enophile
 enophiles
 enorm
 enormities
@@ -53813,6 +53826,7 @@ faculae
 facular
 facultative
 facultatively
+faculties
 faculty
 fad
 fadable
@@ -56397,6 +56411,7 @@ fishtailing
 fishtails
 fishway
 fishways
+fishwife
 fishwives
 fishworm
 fishworms
@@ -60625,6 +60640,7 @@ futurist
 futuristic
 futuristically
 futuristics
+futurists
 futurities
 futurity
 futurological
@@ -67649,6 +67665,7 @@ harrower
 harrowers
 harrowing
 harrows
+harrumph
 harrumphed
 harrumphing
 harrumphs
@@ -77019,6 +77036,7 @@ integrations
 integrative
 integrator
 integrators
+integrities
 integrity
 integument
 integumentary
@@ -77495,6 +77513,7 @@ intermarried
 intermarries
 intermarry
 intermarrying
+intermat
 intermats
 intermatted
 intermatting
@@ -81765,6 +81784,7 @@ kinema
 kinemas
 kinematic
 kinematical
+kinematically
 kinematics
 kines
 kinescope
@@ -88262,6 +88282,7 @@ maguey
 magueys
 magus
 maharaja
+maharajah
 maharajahs
 maharajas
 maharanee
@@ -110819,6 +110840,7 @@ pegbox
 pegboxes
 pegged
 pegging
+peglegged
 pegless
 peglike
 pegmatite
@@ -117863,6 +117885,7 @@ preceding
 precensor
 precensored
 precensoring
+precensors
 precent
 precented
 precenting
@@ -117950,6 +117973,7 @@ precipitousness
 precis
 precise
 precised
+precisely
 preciseness
 precisenesses
 preciser
@@ -128722,6 +128746,7 @@ remonetize
 remonetized
 remonetizes
 remonetizing
+remonstrance
 remonstrances
 remonstrant
 remonstrantly
@@ -139563,6 +139588,7 @@ shelvy
 shenanigan
 shenanigans
 shend
+shending
 shends
 shent
 sheol
@@ -140286,6 +140312,7 @@ shrews
 shri
 shriek
 shrieker
+shriekers
 shriekier
 shriekiest
 shrieking
@@ -159335,6 +159362,7 @@ transgenic
 transgress
 transgressed
 transgresses
+transgressing
 transgression
 transgressions
 transgressive
@@ -162612,6 +162640,7 @@ unaltered
 unamassed
 unamazed
 unambiguous
+unambiguously
 unambitious
 unambivalent
 unambivalently
@@ -162777,6 +162806,7 @@ unbars
 unbased
 unbasted
 unbated
+unbathed
 unbear
 unbearable
 unbearably
@@ -166020,6 +166050,7 @@ unstops
 unstrained
 unstrap
 unstrapped
+unstrapping
 unstraps
 unstratified
 unstress
@@ -166700,6 +166731,7 @@ upraisers
 upraises
 upraising
 uprate
+uprated
 uprates
 uprating
 upreach
@@ -173047,6 +173079,7 @@ withhold
 withholder
 withholders
 withholding
+withholds
 withier
 withies
 withiest
@@ -174472,6 +174505,7 @@ yirring
 yirrs
 yirth
 yirths
+ylem
 ylems
 yo
 yob
@@ -175264,6 +175298,7 @@ zymolyses
 zymolysis
 zymolytic
 zymometer
+zymometers
 zymosan
 zymosans
 zymoses
