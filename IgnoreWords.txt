@@ -1272,6 +1272,7 @@ addressing
 addressor
 addressors
 addrest
+adds
 adduce
 adduced
 adducent
@@ -8934,6 +8935,7 @@ athirst
 athlete
 athletes
 athletic
+athletically
 athleticism
 athleticisms
 athletics
@@ -9830,6 +9832,7 @@ avariciousness
 avascular
 avascularities
 avascularity
+avast
 avatar
 avatars
 ave
@@ -13995,6 +13998,7 @@ bias
 biased
 biasedly
 biases
+biasing
 biasness
 biasnesses
 biassed
@@ -26847,6 +26851,7 @@ clavierists
 claviers
 claviform
 clavus
+claw
 clawback
 clawbacks
 clawed
@@ -32446,6 +32451,7 @@ cornute
 cornuted
 cornuto
 cornutos
+corny
 corodies
 corody
 corolla
@@ -32721,6 +32727,7 @@ corvet
 corvets
 corvette
 corvettes
+corvids
 corvina
 corvinas
 corvine
@@ -37620,6 +37627,7 @@ decelerates
 decelerating
 deceleration
 decelerations
+decelerator
 decelerators
 deceleron
 decemvir
@@ -45460,6 +45468,7 @@ drawnworks
 drawplate
 drawplates
 draws
+drawshave
 drawshaves
 drawstring
 drawstrings
@@ -47326,6 +47335,7 @@ eelier
 eeliest
 eellike
 eelpout
+eelpouts
 eels
 eelworm
 eelworms
@@ -51001,6 +51011,7 @@ eroticism
 eroticisms
 eroticist
 eroticists
+eroticization
 eroticizations
 eroticize
 eroticized
@@ -52547,8 +52558,10 @@ executes
 executing
 execution
 executioner
+executioners
 executions
 executive
+executives
 executor
 executorial
 executors
@@ -54088,6 +54101,7 @@ faitours
 fajita
 fajitas
 fake
+faked
 fakeer
 fakeers
 faker
@@ -72393,6 +72407,7 @@ hymnist
 hymnists
 hymnless
 hymnlike
+hymnodies
 hymnodist
 hymnodists
 hymnody
@@ -74543,6 +74558,7 @@ impurenesses
 impurer
 impurest
 impurities
+impurity
 imputabilities
 imputability
 imputable
@@ -75107,6 +75123,7 @@ increasingly
 increate
 incredibilities
 incredibility
+incredible
 incredibleness
 incredibly
 incredulities
@@ -79913,6 +79930,7 @@ jazzmen
 jazzy
 jealous
 jealousies
+jealously
 jealousness
 jealousnesses
 jealousy
@@ -98035,6 +98053,7 @@ napoleon
 napoleons
 nappa
 nappas
+nappe
 napped
 napper
 nappers
@@ -102880,6 +102899,7 @@ ocularly
 oculars
 oculi
 oculist
+oculists
 oculomotor
 oculus
 od
@@ -110037,6 +110057,7 @@ paschals
 pase
 paseo
 paseos
+pases
 pash
 pasha
 pashadom
@@ -110689,6 +110710,7 @@ peacocked
 peacockier
 peacockiest
 peacocking
+peacockish
 peacocks
 peacocky
 peafowl
@@ -120012,6 +120034,7 @@ prise
 prised
 prisere
 priseres
+prises
 prising
 prism
 prismatic
@@ -123006,6 +123029,7 @@ pyxis
 qabala
 qabalah
 qabalahs
+qabalas
 qadi
 qadis
 qaid
@@ -124880,6 +124904,7 @@ ratiocinator
 ratiocinators
 ration
 rational
+rationale
 rationales
 rationalise
 rationalised
@@ -133138,6 +133163,7 @@ roofline
 rooflines
 roofs
 rooftop
+rooftops
 rooftree
 rooftrees
 rook
@@ -148859,6 +148885,7 @@ strander
 stranders
 stranding
 strandline
+strandlines
 strands
 strang
 strange
@@ -148880,6 +148907,7 @@ stranglers
 strangles
 strangling
 strangulate
+strangulated
 strangulates
 strangulating
 strangulation
@@ -158179,6 +158207,7 @@ tofts
 tofu
 tofus
 tofutti
+tofuttis
 tog
 toga
 togae
@@ -159254,6 +159283,7 @@ tracheophyte
 tracheophytes
 tracheostomies
 tracheostomy
+tracheotomies
 tracheotomy
 trachle
 trachled
@@ -163390,6 +163420,7 @@ unceded
 uncelebrated
 uncensored
 uncensorious
+uncensured
 unceremonious
 unceremoniously
 uncertain
@@ -166101,6 +166132,7 @@ unseams
 unsearchable
 unsearchably
 unseared
+unseasonable
 unseasonably
 unseasoned
 unseat
@@ -167678,6 +167710,7 @@ vacantnesses
 vacatable
 vacate
 vacated
+vacates
 vacating
 vacation
 vacationed
@@ -168216,6 +168249,7 @@ vary
 varying
 varyingly
 vas
+vasa
 vasal
 vascula
 vascular
@@ -171400,6 +171434,7 @@ wattage
 wattages
 wattape
 wattapes
+watter
 wattest
 watthour
 watthours
