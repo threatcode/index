@@ -9944,6 +9944,7 @@ avocet
 avocets
 avodire
 avodires
+avoid
 avoidable
 avoidably
 avoidance
@@ -11783,6 +11784,7 @@ basidiomycetous
 basidiospore
 basidiospores
 basidium
+basification
 basifications
 basified
 basifier
@@ -32285,6 +32287,7 @@ cormlike
 cormoid
 cormorant
 cormorants
+cormous
 corms
 corn
 cornball
@@ -32621,6 +32624,7 @@ corseting
 corsetries
 corsetry
 corsets
+corslet
 corslets
 cortege
 corteges
@@ -38763,6 +38767,7 @@ delicate
 delicately
 delicates
 delicatessen
+delicatessens
 delicious
 deliciously
 deliciousness
@@ -39866,6 +39871,7 @@ derivers
 derives
 deriving
 derm
+derma
 dermabrasion
 dermabrasions
 dermal
@@ -46721,6 +46727,7 @@ earthlings
 earthly
 earthman
 earthmen
+earthmover
 earthmovers
 earthmoving
 earthmovings
@@ -47408,6 +47415,7 @@ eggcup
 eggcups
 egged
 egger
+eggers
 eggfruit
 eggfruits
 egghead
@@ -49970,6 +49978,7 @@ entreaty
 entrechat
 entrechats
 entrecote
+entree
 entrees
 entremets
 entrench
@@ -52228,6 +52237,7 @@ exception
 exceptionable
 exceptionably
 exceptional
+exceptionalism
 exceptionalisms
 exceptionality
 exceptionally
@@ -52976,6 +52986,7 @@ expiries
 expiring
 expiry
 explain
+explainable
 explained
 explainer
 explainers
@@ -54262,6 +54273,7 @@ fantastico
 fantasticoes
 fantastics
 fantasts
+fantasy
 fantasying
 fantasyland
 fantasylands
@@ -57577,6 +57589,7 @@ fluidly
 fluidness
 fluidnesses
 fluidram
+fluidrams
 fluids
 fluish
 fluke
@@ -66803,6 +66816,7 @@ hairy
 haj
 hajes
 haji
+hajis
 hajj
 hajjes
 hajji
@@ -77246,6 +77260,7 @@ intercompares
 intercomparing
 intercomparison
 intercoms
+interconnect
 interconnected
 interconnecting
 interconnection
@@ -77616,6 +77631,7 @@ internalizing
 internally
 internals
 internationally
+internationals
 interne
 internecine
 interned
@@ -84187,6 +84203,7 @@ leash
 leashed
 leashes
 leashing
+leasing
 leasings
 least
 leasts
@@ -85925,6 +85942,7 @@ lisle
 lisles
 lisp
 lisped
+lisper
 lispers
 lisping
 lispingly
@@ -97196,6 +97214,7 @@ musteline
 muster
 mustered
 mustering
+musters
 musth
 musths
 mustier
@@ -103251,6 +103270,7 @@ omnipotently
 omnipotents
 omnipresence
 omnipresences
+omnipresent
 omnirange
 omniranges
 omniscience
@@ -119155,6 +119175,7 @@ presiders
 presides
 presidia
 presidial
+presidiary
 presiding
 presidio
 presidios
@@ -122074,6 +122095,7 @@ punctuation
 punctuations
 punctuator
 punctuators
+puncture
 punctured
 punctures
 puncturing
@@ -122633,6 +122655,7 @@ pyranose
 pyranoses
 pyranoside
 pyranosides
+pyrans
 pyrargyrite
 pyrargyrites
 pyre
@@ -127959,6 +127982,7 @@ reincur
 reincurred
 reincurring
 reincurs
+reindeer
 reindeers
 reindex
 reindexed
@@ -142446,6 +142470,7 @@ slipway
 slipways
 slit
 slither
+slithered
 slithering
 slithers
 slithery
@@ -145991,6 +146016,7 @@ spokesmanship
 spokesmanships
 spokesmen
 spokespeople
+spokesperson
 spokespersons
 spokeswoman
 spokeswomen
@@ -149597,6 +149623,7 @@ subcults
 subcultural
 subculturally
 subculture
+subcultured
 subcultures
 subculturing
 subcurative
@@ -151395,6 +151422,7 @@ superhype
 superhyped
 superhypes
 superhyping
+superimposable
 superimpose
 superimposed
 superimposes
@@ -153311,6 +153339,7 @@ system
 systematic
 systematically
 systematicness
+systematics
 systematise
 systematised
 systematises
@@ -158319,6 +158348,7 @@ tophe
 tophes
 tophi
 tophs
+tophus
 topi
 topiaries
 topiary
@@ -159197,6 +159227,7 @@ tramp
 tramped
 tramper
 trampers
+trampier
 trampiest
 tramping
 trampish
@@ -159796,6 +159827,7 @@ treadless
 treadling
 treadmill
 treads
+treason
 treasonable
 treasonably
 treasonous
@@ -159840,6 +159872,7 @@ trecento
 trecentos
 treddle
 treddled
+treddles
 treddling
 tredecillion
 tredecillions
@@ -160771,6 +160804,7 @@ trooping
 troops
 troopship
 troopships
+troostite
 troostites
 trooz
 trop
@@ -168734,6 +168768,7 @@ vestings
 vestless
 vestlike
 vestment
+vestmental
 vestments
 vestral
 vestries
