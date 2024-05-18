@@ -486,6 +486,7 @@ acclimatizing
 acclivities
 acclivity
 acclivous
+accolade
 accoladed
 accolades
 accolading
@@ -1191,6 +1192,7 @@ adamancies
 adamancy
 adamant
 adamantine
+adamantly
 adamants
 adamsite
 adamsites
@@ -1394,6 +1396,7 @@ adjourning
 adjournment
 adjournments
 adjourns
+adjudge
 adjudged
 adjudges
 adjudging
@@ -5684,6 +5687,7 @@ anthropic
 anthropical
 anthropocentric
 anthropogenic
+anthropoid
 anthropoids
 anthropological
 anthropologies
@@ -11223,6 +11227,7 @@ banknotes
 bankroll
 bankrolled
 bankroller
+bankrollers
 bankrolling
 bankrolls
 bankrupt
@@ -16678,6 +16683,7 @@ bonnier
 bonniest
 bonnily
 bonniness
+bonninesses
 bonnock
 bonnocks
 bonny
@@ -20264,6 +20270,7 @@ caddy
 caddying
 cade
 cadelle
+cadelles
 cadence
 cadenced
 cadences
@@ -27793,6 +27800,7 @@ cochleae
 cochlear
 cochleas
 cochleate
+cocinera
 cocineras
 cockade
 cockaded
@@ -28020,6 +28028,7 @@ codicillary
 codicils
 codicological
 codicologies
+codicology
 codifiabilities
 codifiability
 codification
@@ -32233,6 +32242,7 @@ corers
 cores
 coresearcher
 coresearchers
+coresident
 coresidential
 coresidents
 corespondent
@@ -33798,6 +33808,7 @@ crags
 cragsman
 cragsmen
 crake
+cram
 crambe
 crambes
 crambo
@@ -38102,6 +38113,7 @@ defangs
 defat
 defats
 defatted
+defatting
 default
 defaulted
 defaulter
@@ -50665,6 +50677,7 @@ equine
 equinely
 equines
 equinities
+equinity
 equinoctial
 equinoctials
 equinox
@@ -64417,6 +64430,7 @@ graal
 graals
 grab
 grabbable
+grabbed
 grabber
 grabbers
 grabbier
@@ -66856,6 +66870,7 @@ halfbacks
 halfbeak
 halfbeaks
 halfhearted
+halfheartedly
 halfheartedness
 halflives
 halfness
@@ -68070,6 +68085,7 @@ headlamp
 headlamps
 headland
 headlands
+headless
 headlessness
 headlight
 headlights
@@ -73661,6 +73677,7 @@ immolated
 immolates
 immolating
 immolation
+immolator
 immolators
 immoral
 immoralism
@@ -74712,6 +74729,7 @@ incisivenesses
 incisor
 incisors
 incisory
+incisure
 incisures
 incitable
 incitant
@@ -75909,6 +75927,7 @@ influential
 influentially
 influentials
 influents
+influenza
 influenzal
 influenzas
 influx
@@ -84220,6 +84239,7 @@ lecheries
 lechering
 lecherous
 lecherously
+lecherousness
 lecherousnesses
 lechers
 lechery
@@ -87373,6 +87393,7 @@ luminescence
 luminescences
 luminescent
 luminesces
+luminescing
 luminiferous
 luminism
 luminisms
@@ -88897,6 +88918,7 @@ manfulnesses
 manga
 mangabey
 mangabeys
+mangabies
 mangaby
 manganate
 manganates
@@ -92431,6 +92453,7 @@ midstream
 midstreams
 midsts
 midsummer
+midsummers
 midterm
 midterms
 midtown
@@ -92624,6 +92647,7 @@ milkless
 milkmaid
 milkmaids
 milkman
+milkmen
 milks
 milkshake
 milkshakes
@@ -96306,6 +96330,7 @@ mucilage
 mucilages
 mucilaginous
 mucilaginously
+mucin
 mucinogen
 mucinogens
 mucinoid
@@ -109386,6 +109411,7 @@ parcloses
 pard
 pardah
 pardahs
+pardee
 pardi
 pardie
 pardine
@@ -113342,6 +113368,7 @@ physician
 physicist
 physicists
 physicked
+physicking
 physicochemical
 physics
 physiognomic
@@ -117959,6 +117986,7 @@ precipitated
 precipitately
 precipitates
 precipitating
+precipitation
 precipitations
 precipitative
 precipitator
@@ -119348,6 +119376,7 @@ pretorians
 pretors
 pretournament
 pretrain
+pretrained
 pretraining
 pretrains
 pretravel
@@ -124284,6 +124313,7 @@ ramtilla
 ramtillas
 ramtils
 ramulose
+ramulous
 ramus
 ran
 rance
@@ -124917,6 +124947,7 @@ reach
 reachable
 reached
 reacher
+reachers
 reaches
 reaching
 reacquaint
@@ -130325,6 +130356,7 @@ respading
 respeak
 respeaking
 respeaks
+respecified
 respecifies
 respecify
 respecifying
@@ -147328,6 +147360,7 @@ staved
 staves
 stavesacre
 stavesacres
+staving
 stavudine
 stavudines
 staw
@@ -173105,6 +173138,7 @@ witlings
 witloof
 witloofs
 witness
+witnessed
 witnesser
 witnessers
 witnessing
@@ -173794,6 +173828,7 @@ wrathiest
 wrathily
 wrathing
 wraths
+wrathy
 wreak
 wreaked
 wreaker
