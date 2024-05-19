@@ -2063,6 +2063,7 @@ affectional
 affectionate
 affectionately
 affectionless
+affections
 affective
 affectively
 affectivities
@@ -9835,6 +9836,7 @@ auxins
 auxotroph
 auxotrophic
 auxotrophies
+auxotrophs
 auxotrophy
 ava
 avadavat
@@ -20207,6 +20209,7 @@ cable
 cablecast
 cablecasted
 cablecasting
+cablecasts
 cabled
 cablegram
 cablegrams
@@ -23164,6 +23167,7 @@ cauterizations
 cauterize
 cauterized
 cauterizes
+cauterizing
 cautery
 caution
 cautionary
@@ -39080,6 +39084,7 @@ demagoging
 demagogs
 demagogue
 demagogued
+demagogueries
 demagoguery
 demagogues
 demagoguing
@@ -44472,6 +44477,7 @@ doglegged
 doglegging
 doglegs
 doglike
+dogma
 dogmas
 dogmata
 dogmatic
@@ -52263,6 +52269,7 @@ evite
 evited
 evites
 eviting
+evocable
 evocation
 evocations
 evocative
@@ -54379,6 +54386,7 @@ fanaticism
 fanaticisms
 fanaticize
 fanaticized
+fanaticizes
 fanaticizing
 fanatics
 fancied
@@ -55472,6 +55480,7 @@ ferrate
 ferrates
 ferredoxin
 ferredoxins
+ferrel
 ferreled
 ferreling
 ferrelled
@@ -57680,6 +57689,7 @@ flounce
 flounced
 flounces
 flouncier
+flounciest
 flouncing
 flouncings
 flouncy
@@ -65075,6 +65085,7 @@ graplins
 grapnel
 grapnels
 grappa
+grappas
 grapple
 grappled
 grappler
@@ -65710,6 +65721,7 @@ grody
 grog
 groggeries
 groggery
+groggier
 groggiest
 groggily
 grogginess
@@ -66102,6 +66114,7 @@ guaranteed
 guaranteeing
 guarantees
 guarantied
+guaranties
 guarantor
 guarantors
 guaranty
@@ -66475,6 +66488,7 @@ gurgling
 gurnard
 gurnards
 gurnet
+gurnets
 gurney
 gurneys
 gurries
@@ -77957,6 +77971,7 @@ interneuron
 interneuronal
 interneurons
 interning
+internist
 internists
 internment
 internments
@@ -84357,6 +84372,7 @@ lazaretto
 lazarettos
 lazars
 laze
+lazed
 lazes
 lazied
 lazier
@@ -89213,6 +89229,7 @@ managers
 managership
 managerships
 manages
+managing
 manakin
 manakins
 manana
@@ -89362,6 +89379,7 @@ mania
 maniac
 maniacal
 maniacally
+maniacs
 manias
 manic
 manically
@@ -95649,6 +95667,7 @@ monographed
 monographic
 monographing
 monographs
+monogynies
 monogynous
 monogyny
 monohull
@@ -96138,6 +96157,7 @@ moresque
 moresques
 morgan
 morganatic
+morganatically
 morganite
 morganites
 morgans
@@ -109638,6 +109658,7 @@ parallelism
 parallelisms
 parallelled
 parallelling
+parallelogram
 parallelograms
 parallels
 paralogism
@@ -115428,6 +115449,7 @@ plateaus
 plateaux
 plated
 plateful
+platefuls
 plateglass
 platelet
 platelets
@@ -119442,6 +119464,7 @@ preputial
 prequalified
 prequalifies
 prequalify
+prequalifying
 prequel
 prequels
 prerace
@@ -131487,6 +131510,7 @@ retired
 retiredly
 retiredness
 retirednesses
+retiree
 retirees
 retirement
 retirements
@@ -131918,6 +131942,7 @@ reverses
 reversibilities
 reversibility
 reversible
+reversibles
 reversibly
 reversing
 reversion
@@ -136017,6 +136042,7 @@ saury
 sausage
 sausages
 saute
+sauted
 sauteed
 sauteing
 sauterne
@@ -137915,6 +137941,7 @@ seclusions
 seclusive
 seclusively
 seclusiveness
+seclusivenesses
 secobarbital
 secobarbitals
 seconal
@@ -138112,6 +138139,7 @@ seductiveness
 seductivenesses
 seductress
 seductresses
+sedulities
 sedulity
 sedulous
 sedulously
@@ -138212,6 +138240,7 @@ segetal
 seggar
 seggars
 segment
+segmental
 segmentally
 segmentary
 segmentation
@@ -142236,6 +142265,7 @@ skewback
 skewbacks
 skewbald
 skewbalds
+skewed
 skewer
 skewered
 skewering
@@ -142852,6 +142882,7 @@ sleights
 slender
 slenderer
 slenderest
+slenderize
 slenderized
 slenderizes
 slenderizing
@@ -144514,6 +144545,7 @@ solating
 solation
 solations
 solatium
+sold
 soldan
 soldans
 solder
@@ -146753,6 +146785,7 @@ sporrans
 sport
 sported
 sporter
+sporters
 sportfisherman
 sportfishermen
 sportfishing
@@ -154275,6 +154308,7 @@ tailback
 tailbacks
 tailboard
 tailboards
+tailbone
 tailbones
 tailcoat
 tailcoated
@@ -174978,6 +175012,7 @@ yanked
 yanking
 yanks
 yanqui
+yanquis
 yantra
 yantras
 yap
