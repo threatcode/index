@@ -1093,6 +1093,7 @@ activates
 activating
 activation
 activations
+activator
 activators
 active
 actively
@@ -1492,6 +1493,7 @@ admiration
 admirations
 admire
 admired
+admirer
 admirers
 admires
 admiring
@@ -3512,6 +3514,7 @@ alloantibodies
 alloantibody
 alloantigen
 alloantigens
+allobar
 allobars
 allocable
 allocatable
@@ -9154,6 +9157,7 @@ attestants
 attestation
 attestations
 attested
+attester
 attesters
 attesting
 attestor
@@ -18301,6 +18305,7 @@ brilliantine
 brilliantines
 brilliantly
 brilliants
+brillo
 brillos
 brills
 brim
@@ -22940,6 +22945,7 @@ cathected
 cathectic
 cathecting
 cathects
+cathedra
 cathedrae
 cathedral
 cathedrals
@@ -37103,6 +37109,7 @@ dauphins
 daut
 dauted
 dautie
+dauties
 dauting
 dauts
 daven
@@ -37176,6 +37183,7 @@ daymares
 dayroom
 dayrooms
 days
+dayside
 daysides
 daysman
 daysmen
@@ -43623,6 +43631,7 @@ disserts
 disserve
 disserved
 disserves
+disservice
 disserviceable
 disservices
 disserving
@@ -48364,6 +48373,7 @@ emboldens
 embolectomies
 embolectomy
 emboli
+embolic
 embolies
 embolism
 embolismic
@@ -59290,6 +59300,7 @@ foxhunters
 foxhunting
 foxhuntings
 foxhunts
+foxier
 foxiest
 foxily
 foxiness
@@ -61056,6 +61067,7 @@ galantine
 galantines
 galas
 galatea
+galateas
 galavant
 galavanted
 galavanting
@@ -64718,6 +64730,7 @@ grafting
 grafts
 grahams
 grail
+grails
 grain
 grained
 grainer
@@ -65221,6 +65234,7 @@ greaves
 grebe
 grebes
 grecianize
+grecianized
 grecianizes
 grecianizing
 grecize
@@ -70746,6 +70760,7 @@ homographic
 homographs
 homoiotherm
 homoiothermic
+homoiotherms
 homoiousian
 homoiousians
 homolog
@@ -71677,6 +71692,7 @@ hubrises
 hubristic
 hubs
 huck
+huckaback
 huckabacks
 huckle
 huckleberries
@@ -74056,6 +74072,7 @@ impassabilities
 impassability
 impassable
 impassableness
+impassably
 impasse
 impasses
 impassibility
@@ -81574,6 +81591,7 @@ kerflooey
 kerfs
 kerfuffle
 kerfuffles
+kermes
 kermess
 kermesse
 kermesses
@@ -93891,6 +93909,7 @@ misenrol
 misenroll
 misenrolled
 misenrolling
+misenrolls
 misenrols
 misenter
 misentered
@@ -110066,6 +110085,7 @@ partitioner
 partitioners
 partitioning
 partitionist
+partitionists
 partitions
 partitive
 partitively
@@ -115812,6 +115832,7 @@ plumulose
 plumy
 plunder
 plundered
+plunderer
 plunderers
 plundering
 plunderous
@@ -119191,6 +119212,7 @@ preppy
 preprandial
 prepreg
 prepregs
+preprepared
 prepresidential
 prepress
 preprice
@@ -119395,6 +119417,7 @@ presentimental
 presentiments
 presenting
 presentism
+presentisms
 presentist
 presently
 presentment
@@ -121194,6 +121217,7 @@ prosily
 prosimian
 prosimians
 prosiness
+prosinesses
 prosing
 prosit
 proso
@@ -130079,6 +130103,7 @@ requiescat
 requiescats
 requin
 requins
+require
 required
 requirement
 requirements
@@ -130316,6 +130341,7 @@ reseen
 resees
 resegregate
 resegregated
+resegregates
 resegregating
 resegregation
 resegregations
@@ -133404,6 +133430,7 @@ roselle
 roselles
 rosemaling
 rosemalings
+rosemaries
 rosemary
 roseola
 roseolar
@@ -139220,6 +139247,7 @@ settlers
 settles
 settling
 settlings
+settlor
 settlors
 setts
 setulose
@@ -140863,6 +140891,7 @@ shute
 shuted
 shutes
 shuteye
+shuteyes
 shuting
 shutoff
 shutoffs
@@ -142988,6 +143017,7 @@ sluggard
 sluggardly
 sluggardness
 sluggardnesses
+sluggards
 slugged
 slugger
 sluggers
@@ -150564,6 +150594,7 @@ subshrubs
 subside
 subsided
 subsidence
+subsidences
 subsider
 subsiders
 subsides
@@ -151155,6 +151186,7 @@ sukkah
 sukkahs
 sukkot
 sukkoth
+suks
 sulcal
 sulcate
 sulcated
@@ -156421,6 +156453,7 @@ thalloid
 thallophyte
 thallophytes
 thallophytic
+thallous
 thallus
 thalluses
 thalweg
@@ -168739,6 +168772,7 @@ venin
 venine
 venines
 venins
+venipuncture
 venipunctures
 venire
 venireman
@@ -175338,6 +175372,7 @@ zecchins
 zechin
 zechins
 zed
+zedoaries
 zedoary
 zeds
 zee
