@@ -4920,6 +4920,7 @@ ancient
 ancienter
 ancientest
 anciently
+ancientness
 ancientries
 ancientry
 ancients
@@ -7704,6 +7705,7 @@ argumentations
 argumentative
 argumentatively
 argumentive
+arguments
 argumentum
 argus
 arguses
@@ -9857,6 +9859,7 @@ avalanche
 avalanched
 avalanches
 avalanching
+avant
 avarice
 avarices
 avaricious
@@ -9868,6 +9871,7 @@ avascularity
 avast
 avatar
 avatars
+avaunt
 ave
 avellan
 avellane
@@ -13122,6 +13126,7 @@ beleapt
 belemnite
 belemnites
 belfried
+belfries
 belfry
 belga
 belgas
@@ -14912,6 +14917,7 @@ bipinnately
 biplane
 biplanes
 bipod
+bipods
 bipolar
 bipolarities
 bipolarity
@@ -18091,6 +18097,7 @@ breathiness
 breathinesses
 breathing
 breathings
+breathless
 breathlessly
 breathlessness
 breaths
@@ -20167,6 +20174,7 @@ cabbageworm
 cabbageworms
 cabbagey
 cabbaging
+cabbagy
 cabbala
 cabbalah
 cabbalahs
@@ -23449,6 +23457,7 @@ cellulitises
 celluloid
 celluloids
 cellulolytic
+cellulose
 celluloses
 cellulosic
 cellulosics
@@ -27852,6 +27861,7 @@ cobble
 cobbled
 cobbler
 cobbles
+cobblestone
 cobblestoned
 cobblestones
 cobbling
@@ -42341,6 +42351,7 @@ dirigibles
 dirigisme
 dirigismes
 dirigiste
+diriment
 dirk
 dirked
 dirking
@@ -45222,6 +45233,7 @@ downhauls
 downhearted
 downheartedly
 downheartedness
+downhill
 downhiller
 downhillers
 downhills
@@ -46813,6 +46825,7 @@ dystrophic
 dystrophies
 dystrophy
 dysuria
+dysurias
 dysuric
 dyvour
 dyvours
@@ -47636,6 +47649,7 @@ eggnog
 eggnogs
 eggplant
 eggplants
+eggs
 eggshell
 eggshells
 eggy
@@ -49969,6 +49983,7 @@ enswathing
 entablature
 entablatures
 entail
+entailed
 entailer
 entailers
 entailing
@@ -56919,6 +56934,7 @@ flambeaus
 flambeaux
 flambee
 flambeed
+flambeing
 flambes
 flamboyance
 flamboyances
@@ -57280,6 +57296,7 @@ fleeter
 fleetest
 fleeting
 fleetingly
+fleetingness
 fleetingnesses
 fleetly
 fleetness
@@ -59700,6 +59717,7 @@ freedwomen
 freeform
 freehand
 freehanded
+freehandedly
 freehandedness
 freehearted
 freeheartedly
@@ -68905,6 +68923,7 @@ helicoptering
 helicopters
 helicopting
 helicopts
+helictite
 helictites
 helilift
 helilifted
@@ -77496,6 +77515,7 @@ intensivenesses
 intensives
 intent
 intention
+intentional
 intentionality
 intentionally
 intentions
@@ -82166,6 +82186,7 @@ kindlers
 kindles
 kindless
 kindlessly
+kindlier
 kindliest
 kindliness
 kindlinesses
@@ -82536,6 +82557,7 @@ knells
 knelt
 knesset
 knessets
+knew
 knickerbocker
 knickerbockers
 knickers
@@ -83710,6 +83732,7 @@ languette
 languettes
 languid
 languidly
+languidness
 languidnesses
 languish
 languished
@@ -84176,6 +84199,7 @@ lauder
 lauders
 lauding
 lauds
+laugh
 laughable
 laughableness
 laughablenesses
@@ -104702,6 +104726,7 @@ orphan
 orphanage
 orphanages
 orphaned
+orphanhood
 orphanhoods
 orphaning
 orphans
@@ -112018,6 +112043,7 @@ perdured
 perdures
 perduring
 perdus
+perdy
 pere
 perea
 peregrin
@@ -113124,6 +113150,7 @@ phenobarbital
 phenobarbitals
 phenobarbitone
 phenobarbitones
+phenocopies
 phenocopy
 phenocryst
 phenocrystic
@@ -116645,6 +116672,7 @@ poly
 polyacrylamide
 polyacrylamides
 polyalcohol
+polyalcohols
 polyamide
 polyamides
 polyamine
@@ -137170,6 +137198,7 @@ scottie
 scotties
 scoundrel
 scoundrelly
+scoundrels
 scour
 scoured
 scourer
@@ -140419,6 +140448,7 @@ shindigs
 shindy
 shindys
 shine
+shined
 shiner
 shiners
 shines
@@ -146123,6 +146153,7 @@ spherical
 spherically
 sphericities
 sphericity
+spherics
 spherier
 spheriest
 sphering
@@ -147914,6 +147945,7 @@ stash
 stashed
 stashes
 stashing
+stasima
 stasimon
 stasis
 stat
@@ -167950,6 +167982,7 @@ urped
 urping
 urps
 ursa
+ursae
 ursid
 ursids
 ursiform
@@ -172127,6 +172160,7 @@ weatherboarding
 weatherboards
 weathercast
 weathercaster
+weathercasters
 weathercasts
 weathercock
 weathercocks
@@ -174040,6 +174074,7 @@ wolfhounds
 wolfing
 wolfish
 wolfishly
+wolfishness
 wolfishnesses
 wolflike
 wolfram
