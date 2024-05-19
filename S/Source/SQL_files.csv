@@ -1,0 +1,10 @@
+source - GitHub,https://github.com/akka/akka-projection/tree/master/examples/src/test/resources/create-table-oracle.sql
+http://xmmssc.irap.omp.eu/Catalogue/4XMM-DR13/load...,http://xmmssc.irap.omp.eu/Catalogue/4XMM-DR13/load_4xmmdr13cat_slim.sql
+Source of V0.1__Create_initial_relations.sql - libera_utils - Bitbucket,https://lasp.colorado.edu/nucleus/projects/LIBSDC/repos/libera_utils/browse/database/migrations/V0.1__Create_initial_relations.sql%3Fat%3D01052239be59d124cb7fe74415f371c72eaefaa9
+Source of races.sql - MIC-gamedev - BUT FCS Edu Bitbucket,https://devtools.wi.pb.edu.pl/bitbucket/users/wi107958/repos/mic-gamedev/browse/sql-inserts/races.sql%3Fat%3DcharacterIdUser
+Source of drop_tables.sql - IO6-Garden - Bitbucket - AGH,https://agile.fis.agh.edu.pl/bitbucket/users/0smeda/repos/io6-garden/browse/Backend/config/drop_tables.sql%3Fat%3Dff53629c430fd33163b46fa3f744732897ace09f
+https://raw.githubusercontent.com/Azure-Samples/Sy...,https://raw.githubusercontent.com/Azure-Samples/Synapse/master/SQL/Samples/LdwSample/SampleDB.sql
+Source of all.sql - oneposda - imphub Git Manager,https://code.imphub.org/projects/PT/repos/oneposda/browse/database/all.sql%3Fat%3D2588473e0781455f7dd1e15edcda04f2df9bdcd6
+Source of double.sql - ZABBIX GIT,https://git.zabbix.com/projects/ZBX/repos/zabbix/browse/database/mysql/option-patches/double.sql%3Fat%3Drefs%252Fheads%252Frelease%252F6.4
+Source of ddl.sql - CS-24-330-capstone - VCU Bitbucket,https://scm.vcu.edu/projects/EFD/repos/cs-24-330-capstone/browse/oldsrc/src/ddl.sql%3Fat%3Db7aec6a98d23a254f6fef22bf062a1079e2b8a46
+migratus.migration.sql - cljdoc,https://cljdoc.org/d/migratus/migratus/1.5.0/api/migratus.migration.sql
