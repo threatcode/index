@@ -3541,6 +3541,7 @@ allodial
 allodium
 allods
 allogamies
+allogamous
 allogamy
 allogeneic
 allogenic
@@ -3897,6 +3898,7 @@ aluminiums
 aluminize
 aluminized
 aluminizes
+aluminizing
 aluminosilicate
 aluminous
 alumins
@@ -18219,6 +18221,7 @@ brickier
 brickiest
 bricking
 brickkiln
+brickkilns
 bricklayer
 bricklayers
 bricklaying
@@ -19934,6 +19937,7 @@ butterballs
 butterbur
 butterburs
 buttercup
+buttercups
 buttered
 butterfat
 butterfats
@@ -20030,6 +20034,7 @@ butyrin
 butyrins
 butyrophenone
 butyrophenones
+butyrous
 butyryl
 butyryls
 buxom
@@ -20827,6 +20832,7 @@ calory
 calos
 calotte
 calottes
+calotype
 calotypes
 caloyer
 caloyers
@@ -22136,6 +22142,7 @@ caricatured
 caricatures
 caricaturing
 caricaturist
+caricaturists
 carices
 caried
 caries
@@ -24552,6 +24559,7 @@ chauffeuring
 chauffeurs
 chaulmoogra
 chaulmoogras
+chaunt
 chaunted
 chaunter
 chaunters
@@ -24642,6 +24650,7 @@ checklisted
 checklisting
 checklists
 checkmark
+checkmarked
 checkmarking
 checkmarks
 checkmate
@@ -25594,6 +25603,7 @@ chomper
 chompers
 chomping
 chomps
+chon
 chondriosome
 chondriosomes
 chondrite
@@ -27174,6 +27184,7 @@ climes
 clinal
 clinally
 clinch
+clinched
 clincher
 clinchers
 clinches
@@ -29420,6 +29431,7 @@ commingling
 comminute
 comminutes
 comminuting
+comminution
 comminutions
 commiserate
 commiserated
@@ -40590,6 +40602,7 @@ determinatives
 determinator
 determinators
 determine
+determined
 determinedly
 determinedness
 determiner
@@ -44984,6 +44997,7 @@ dossiers
 dossil
 dossils
 dossing
+dost
 dot
 dotage
 dotages
@@ -52497,6 +52511,7 @@ excipient
 excipients
 exciple
 exciples
+excisable
 excise
 excised
 exciseman
@@ -58337,6 +58352,7 @@ fonts
 food
 foodie
 foodies
+foodless
 foodlessness
 foodlessnesses
 foods
@@ -58523,6 +58539,7 @@ foraminous
 forams
 forasmuch
 foray
+forayed
 forayer
 forayers
 foraying
@@ -76523,6 +76540,7 @@ inheritrix
 inherits
 inhesion
 inhesions
+inhibin
 inhibins
 inhibit
 inhibited
@@ -86253,6 +86271,7 @@ liquefies
 liquefy
 liquefying
 liquescent
+liqueur
 liqueurs
 liquid
 liquidambar
@@ -86517,6 +86536,7 @@ liturgiologists
 liturgiology
 liturgism
 liturgisms
+liturgist
 liturgists
 liturgy
 livabilities
@@ -101237,6 +101257,7 @@ nonpaid
 nonpapal
 nonpapist
 nonpapists
+nonpar
 nonparallel
 nonparametric
 nonparasitic
@@ -101829,6 +101850,7 @@ northwesters
 northwests
 northwestward
 northwestwards
+nortriptyline
 nortriptylines
 nos
 nose
@@ -104113,6 +104135,7 @@ opiumism
 opiumisms
 opiums
 opossum
+opossums
 oppidan
 oppidans
 oppilant
@@ -106897,6 +106920,7 @@ overcropping
 overcrops
 overcrowd
 overcrowded
+overcrowding
 overcrowds
 overcultivation
 overcure
@@ -108998,6 +109022,7 @@ pallidnesses
 pallier
 palliest
 palling
+pallium
 palliums
 pallor
 pallors
@@ -115561,6 +115586,7 @@ playdown
 played
 player
 players
+playfellow
 playfellows
 playfield
 playfields
@@ -116456,6 +116482,7 @@ poleward
 poleyn
 poleyns
 police
+policed
 policeman
 policemen
 policer
@@ -129254,6 +129281,7 @@ reminding
 reminds
 reminisce
 reminisced
+reminiscence
 reminiscences
 reminiscent
 reminiscential
@@ -129446,6 +129474,7 @@ renaturing
 rencontre
 rencontres
 rencounter
+rencountered
 rencountering
 rencounters
 rend
@@ -143631,6 +143660,7 @@ smugness
 smugnesses
 smush
 smushed
+smushes
 smushing
 smut
 smutch
@@ -148286,6 +148316,7 @@ stentors
 stents
 step
 stepbrother
+stepbrothers
 stepchild
 stepchildren
 stepdame
@@ -155018,6 +155049,7 @@ tasseling
 tasselled
 tasselling
 tassels
+tasses
 tasset
 tassets
 tassie
@@ -159158,6 +159190,7 @@ toreutics
 tori
 toric
 torics
+tories
 torii
 torment
 tormented
@@ -160301,6 +160334,7 @@ transudate
 transudates
 transudation
 transudations
+transude
 transuded
 transuding
 transuranic
@@ -164680,6 +164714,7 @@ underutilize
 underutilized
 underutilizes
 underutilizing
+undervaluation
 undervaluations
 undervalue
 undervalued
