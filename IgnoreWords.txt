@@ -1353,6 +1353,7 @@ adhering
 adhesion
 adhesional
 adhesions
+adhesive
 adhesively
 adhesiveness
 adhesivenesses
@@ -3066,6 +3067,7 @@ alcohols
 alcove
 alcoved
 alcoves
+alcyonarian
 alcyonarians
 aldehyde
 aldehydes
@@ -6934,6 +6936,7 @@ appellee
 appellees
 appellor
 appellors
+appels
 append
 appendages
 appendant
@@ -10794,6 +10797,7 @@ baggy
 baghouse
 baghouses
 baglike
+bagman
 bagmen
 bagnio
 bagnios
@@ -17003,6 +17007,7 @@ boppers
 bopping
 bops
 bora
+boraces
 boracic
 boracite
 boracites
@@ -22371,6 +22376,7 @@ carronade
 carronades
 carrot
 carrotier
+carrotiest
 carrotin
 carrotins
 carrots
@@ -23706,6 +23712,7 @@ cercarians
 cercarias
 cerci
 cercis
+cercises
 cercus
 cere
 cereal
@@ -23726,6 +23733,7 @@ cerebrations
 cerebric
 cerebroside
 cerebrosides
+cerebrospinal
 cerebrovascular
 cerebrum
 cerebrums
@@ -38405,6 +38413,7 @@ defilement
 defilements
 defiler
 defilers
+defiles
 defiling
 definable
 definably
@@ -39876,6 +39885,7 @@ depressives
 depressor
 depressors
 depressurize
+depressurized
 depressurizes
 depressurizing
 deprival
@@ -45683,6 +45693,7 @@ dribs
 dried
 driegh
 drier
+driers
 dries
 driest
 drift
@@ -53384,6 +53395,7 @@ exscinded
 exscinding
 exscinds
 exsecant
+exsecants
 exsect
 exsected
 exsecting
@@ -65087,6 +65099,7 @@ grat
 grate
 grated
 grateful
+gratefuller
 gratefullest
 gratefully
 gratefulness
@@ -65412,6 +65425,7 @@ greets
 gregarine
 gregarines
 gregarious
+gregariously
 gregariousness
 grego
 gregos
@@ -67533,6 +67547,7 @@ handy
 handyman
 handymen
 handyperson
+handypersons
 hang
 hangable
 hangar
@@ -68339,6 +68354,7 @@ headland
 headlands
 headless
 headlessness
+headlessnesses
 headlight
 headlights
 headline
@@ -69152,6 +69168,7 @@ hemophilic
 hemophilics
 hemopoieses
 hemopoiesis
+hemopoietic
 hemoprotein
 hemoproteins
 hemoptyses
@@ -70642,6 +70659,7 @@ homebrews
 homebuilt
 homecomer
 homecomers
+homecoming
 homecomings
 homed
 homegirl
@@ -75957,6 +75975,7 @@ inexpugnably
 inexpungible
 inextricability
 inextricable
+inextricably
 infall
 infallibilities
 infallibility
@@ -84266,6 +84285,7 @@ laxest
 laxities
 laxity
 laxly
+laxness
 laxnesses
 lay
 layabout
@@ -84285,6 +84305,7 @@ layettes
 layin
 laying
 layins
+layman
 laymen
 layoff
 layoffs
@@ -87195,6 +87216,7 @@ lope
 loped
 loper
 lopers
+lopes
 lophophore
 lophophores
 loping
@@ -88601,6 +88623,7 @@ magnificently
 magnifico
 magnificoes
 magnificos
+magnified
 magnifier
 magnifiers
 magnifies
@@ -89320,6 +89343,7 @@ manicurists
 manifest
 manifestant
 manifestants
+manifestation
 manifestations
 manifested
 manifester
@@ -99029,6 +99053,7 @@ nepetas
 nepheline
 nephelines
 nephelinic
+nephelinite
 nephelinites
 nephelinitic
 nephelite
@@ -106447,6 +106472,7 @@ ouzels
 ouzo
 ouzos
 ova
+oval
 ovalbumin
 ovalbumins
 ovalities
@@ -115855,6 +115881,7 @@ plumage
 plumaged
 plumages
 plumate
+plumb
 plumbable
 plumbagos
 plumbed
@@ -120608,6 +120635,7 @@ proffered
 profferer
 profferers
 proffering
+proffers
 proficiencies
 proficiency
 proficient
@@ -137119,6 +137147,7 @@ scramjets
 scrammed
 scramming
 scrams
+scrannel
 scrannels
 scrap
 scrapbook
@@ -148119,6 +148148,7 @@ stencil
 stenciled
 stenciler
 stencilers
+stenciling
 stencilled
 stenciller
 stencillers
@@ -151968,6 +151998,7 @@ superintendency
 superintendent
 superintendents
 superintending
+superintends
 superintensity
 superior
 superiorities
@@ -167631,6 +167662,7 @@ urbanistically
 urbanists
 urbanite
 urbanites
+urbanities
 urbanity
 urbanization
 urbanizations
@@ -168859,6 +168891,7 @@ venenated
 venenates
 venenating
 venene
+venenes
 venenose
 venerabilities
 venerability
@@ -170280,6 +170313,7 @@ vizierate
 vizierates
 vizierial
 viziers
+viziership
 vizierships
 vizir
 vizirate
@@ -171292,6 +171326,7 @@ wares
 warfare
 warfares
 warfarin
+warfarins
 warhead
 warheads
 warhorse
