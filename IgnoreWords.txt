@@ -618,6 +618,7 @@ accuracy
 accurate
 accurately
 accurateness
+accuratenesses
 accursed
 accursedly
 accursedness
@@ -5137,6 +5138,7 @@ angiospermous
 angiosperms
 angiotensin
 angiotensins
+angle
 angled
 anglepod
 anglepods
@@ -5917,6 +5919,7 @@ antieconomic
 antieducational
 antiegalitarian
 antielectron
+antielectrons
 antielite
 antielites
 antielitism
@@ -17037,6 +17040,7 @@ boranes
 boras
 borate
 borated
+borates
 borating
 borax
 boraxes
@@ -30269,6 +30273,7 @@ conclusionary
 conclusions
 conclusive
 conclusively
+conclusiveness
 conclusory
 concoct
 concocted
@@ -30612,6 +30617,7 @@ confirming
 confirms
 confiscable
 confiscatable
+confiscate
 confiscated
 confiscates
 confiscating
@@ -45644,6 +45650,7 @@ dreamfully
 dreamfulness
 dreamfulnesses
 dreamier
+dreamiest
 dreamily
 dreaminess
 dreaminesses
@@ -54589,6 +54596,7 @@ farcical
 farcicalities
 farcicality
 farcically
+farcie
 farcies
 farcing
 farcy
@@ -59134,6 +59142,7 @@ formularization
 formularize
 formularized
 formularizer
+formularizers
 formularizes
 formularizing
 formulary
@@ -60808,6 +60817,7 @@ furrier
 furrieries
 furriers
 furriery
+furriest
 furrily
 furriner
 furriners
@@ -64969,6 +64979,7 @@ grandiosity
 grandioso
 grandkid
 grandkids
+grandly
 grandma
 grandmama
 grandmamas
@@ -69459,6 +69470,7 @@ here
 hereabout
 hereabouts
 hereafter
+hereafters
 hereat
 hereaway
 hereaways
@@ -71967,6 +71979,7 @@ humanizations
 humanize
 humanized
 humanizers
+humanizes
 humanizing
 humankind
 humanlike
@@ -72053,6 +72066,7 @@ hummock
 hummocked
 hummocks
 hummocky
+hummus
 hummuses
 humongous
 humor
@@ -82890,6 +82904,7 @@ kreutzers
 kreuzer
 kreuzers
 krewe
+krewes
 krill
 krills
 krimmer
@@ -87564,6 +87579,7 @@ lovemaker
 lovemakers
 lovemaking
 lovemakings
+lover
 loverly
 lovers
 loves
@@ -104268,6 +104284,7 @@ optically
 optician
 opticians
 opticist
+opticists
 optics
 optima
 optimal
@@ -105916,6 +105933,7 @@ outorganized
 outorganizes
 outorganizing
 outpace
+outpaced
 outpaces
 outpacing
 outpaint
@@ -113228,6 +113246,7 @@ phenylephrine
 phenylephrines
 phenylic
 phenylketonuria
+phenylketonuric
 phenyls
 phenylthiourea
 phenylthioureas
@@ -113749,6 +113768,7 @@ photosetters
 photosetting
 photosphere
 photospheres
+photospheric
 photostat
 photostated
 photostatic
@@ -115676,6 +115696,7 @@ playoffs
 playpen
 playpens
 playroom
+playrooms
 plays
 playsuit
 playsuits
@@ -115784,6 +115805,7 @@ pleiads
 pleinairism
 pleinairisms
 pleinairist
+pleinairists
 pleiocene
 pleiotaxies
 pleiotaxy
@@ -116708,6 +116730,7 @@ polyantha
 polyanthas
 polyanthi
 polyanthus
+polyanthuses
 polyatomic
 polybasic
 polybrid
@@ -119284,6 +119307,7 @@ premium
 premiums
 premix
 premixed
+premixes
 premixing
 premixt
 premodern
@@ -129951,6 +129975,7 @@ replacers
 replaces
 replacing
 replan
+replanned
 replanning
 replans
 replant
@@ -134874,6 +134899,7 @@ safari
 safaried
 safariing
 safaris
+safe
 safecracker
 safecracking
 safecrackings
@@ -134888,6 +134914,7 @@ safelights
 safely
 safeness
 safenesses
+safer
 safes
 safest
 safetied
@@ -139099,6 +139126,7 @@ separatistic
 separatists
 separative
 separator
+separators
 sepia
 sepias
 sepic
@@ -144002,6 +144030,7 @@ snippetiest
 snippets
 snippety
 snippier
+snippiest
 snippily
 snipping
 snippy
@@ -149100,6 +149129,7 @@ stoopballs
 stooped
 stooper
 stoopers
+stooping
 stoops
 stop
 stopbank
@@ -152932,6 +152962,7 @@ suspensively
 suspensor
 suspensories
 suspensors
+suspensory
 suspicion
 suspicioned
 suspicioning
@@ -154144,6 +154175,7 @@ tabernacling
 tabernacular
 tabers
 tabes
+tabetic
 tabetics
 tabid
 tabla
@@ -156180,6 +156212,7 @@ tensing
 tensiometer
 tensiometers
 tensiometric
+tensiometries
 tensiometry
 tension
 tensional
@@ -168370,6 +168403,7 @@ valet
 valeted
 valeting
 valets
+valetudinarian
 valetudinarians
 valetudinaries
 valetudinary
@@ -172171,6 +172205,7 @@ wearingly
 wearish
 wearisome
 wearisomely
+wearisomeness
 wearisomenesses
 wearproof
 wears
