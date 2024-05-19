@@ -705,6 +705,7 @@ acetanilids
 acetate
 acetated
 acetates
+acetazolamide
 acetazolamides
 acetic
 acetification
@@ -6855,6 +6856,7 @@ apothem
 apothems
 apotheoses
 apotheosis
+apotheosize
 apotheosized
 apotheosizes
 apotheosizing
@@ -20924,6 +20926,7 @@ camelbacks
 cameleer
 cameleers
 camelhair
+camelhairs
 camelia
 camelias
 camelid
@@ -22437,6 +22440,7 @@ carton
 cartoned
 cartoning
 cartons
+cartoon
 cartooned
 cartooning
 cartoonings
@@ -24079,6 +24083,7 @@ champacas
 champacs
 champagne
 champagnes
+champaign
 champaigns
 champak
 champaks
@@ -25901,6 +25906,7 @@ chrysalids
 chrysalis
 chrysalises
 chrysanthemum
+chrysanthemums
 chrysarobin
 chrysarobins
 chrysoberyl
@@ -44347,6 +44353,7 @@ dodgem
 dodgems
 dodger
 dodgeries
+dodgers
 dodgery
 dodges
 dodgier
@@ -49172,6 +49179,7 @@ endemism
 endemisms
 ender
 endergonic
+endermic
 enders
 endexine
 endexines
@@ -51520,6 +51528,7 @@ estrogens
 estrone
 estrones
 estrous
+estrual
 estrum
 estrums
 estrus
@@ -57646,6 +57655,7 @@ flotsams
 flounce
 flounced
 flounces
+flouncier
 flouncing
 flouncings
 flouncy
@@ -58613,6 +58623,7 @@ foredooms
 foreface
 forefaces
 forefather
+forefathers
 forefeel
 forefeeling
 forefeels
@@ -60748,6 +60759,7 @@ furtive
 furtively
 furtiveness
 furtivenesses
+furuncle
 furuncles
 furunculoses
 furunculosis
@@ -62910,6 +62922,7 @@ giddy
 giddyap
 giddying
 giddyup
+gids
 gie
 gied
 gieing
@@ -63181,6 +63194,7 @@ girth
 girthed
 girthing
 girths
+girting
 girts
 gisarme
 gisarmes
@@ -65732,6 +65746,7 @@ grossulars
 grosz
 grosze
 groszy
+grot
 grotesque
 grotesquely
 grotesqueness
@@ -71037,6 +71052,7 @@ hoodoos
 hoods
 hoodwink
 hoodwinked
+hoodwinker
 hoodwinkers
 hoodwinking
 hoodwinks
@@ -76143,6 +76159,7 @@ inflationism
 inflationisms
 inflationist
 inflationists
+inflations
 inflator
 inflators
 inflect
@@ -78846,6 +78863,7 @@ iodids
 iodin
 iodinate
 iodinated
+iodinates
 iodinating
 iodination
 iodinations
@@ -81469,6 +81487,7 @@ keelhaul
 keelhauled
 keelhauling
 keelhauls
+keeling
 keelless
 keels
 keelson
@@ -86142,6 +86161,7 @@ lippinesses
 lipping
 lippings
 lippy
+lipread
 lipreader
 lipreaders
 lipreading
@@ -87912,6 +87932,7 @@ lusus
 lususes
 lutanist
 lutanists
+lute
 lutea
 lutecium
 luteciums
@@ -88870,6 +88891,7 @@ malaroma
 malaromas
 malars
 malate
+malates
 malathion
 malathions
 malcontented
@@ -94378,6 +94400,7 @@ misprint
 misprinted
 misprinting
 misprints
+misprision
 misprisions
 misprize
 misprized
@@ -109244,6 +109267,7 @@ panther
 panthers
 pantie
 panties
+pantihose
 pantile
 pantiled
 pantiles
@@ -109520,6 +109544,7 @@ parainfluenza
 parainfluenzas
 parajournalism
 parajournalisms
+parakeet
 parakeets
 parakite
 parakites
@@ -117639,6 +117664,7 @@ postvaccinal
 postvaccination
 postvagotomy
 postvasectomy
+postvocalic
 postwar
 postweaning
 postworkshop
@@ -121565,6 +121591,7 @@ prototypical
 prototypically
 prototyping
 protoxid
+protoxide
 protoxides
 protoxids
 protoxylem
@@ -122318,6 +122345,7 @@ pulls
 pullulate
 pullulated
 pullulates
+pullulating
 pullulation
 pullulations
 pullup
@@ -132417,6 +132445,7 @@ richer
 riches
 richest
 richly
+richness
 richnesses
 richweed
 richweeds
@@ -149527,6 +149556,7 @@ strongest
 stronghold
 strongholds
 strongish
+strongly
 strongman
 strongmen
 strongyl
@@ -149662,6 +149692,7 @@ stuccoers
 stuccoes
 stuccoing
 stuccos
+stuccowork
 stuccoworks
 stuck
 stud
@@ -154771,6 +154802,7 @@ tarpaulins
 tarpon
 tarpons
 tarps
+tarradiddle
 tarradiddles
 tarragon
 tarragons
@@ -159230,6 +159262,7 @@ touchholes
 touchier
 touchiest
 touchily
+touchiness
 touchinesses
 touching
 touchingly
@@ -169943,6 +169976,7 @@ virtuosa
 virtuosas
 virtuose
 virtuosi
+virtuosities
 virtuosity
 virtuoso
 virtuosos
@@ -174449,6 +174483,7 @@ wren
 wrench
 wrenched
 wrencher
+wrenchers
 wrenches
 wrenching
 wrenchingly
