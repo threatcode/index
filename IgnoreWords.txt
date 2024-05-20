@@ -3393,6 +3393,7 @@ alkines
 alkoxide
 alkoxides
 alkoxy
+alky
 alkyd
 alkyds
 alkyl
@@ -3406,6 +3407,7 @@ alkylic
 alkyls
 alkyne
 alkynes
+all
 allanite
 allanites
 allantoic
@@ -5954,6 +5956,7 @@ antiestrogen
 antiestrogens
 antievolution
 antifamily
+antifascism
 antifascisms
 antifascist
 antifascists
@@ -6347,6 +6350,7 @@ antishoplifting
 antiskid
 antislavery
 antisleep
+antislip
 antismog
 antismoke
 antismoker
@@ -12254,6 +12258,7 @@ beachcombers
 beachcombing
 beachcombs
 beached
+beaches
 beachfront
 beachfronts
 beachgoer
@@ -17722,6 +17727,7 @@ bracteole
 bracteoles
 bractless
 bractlet
+bractlets
 bracts
 brad
 bradawl
@@ -18593,6 +18599,7 @@ brochure
 brochures
 brock
 brockage
+brockages
 brocket
 brockets
 brocks
@@ -24459,6 +24466,7 @@ charily
 chariness
 charinesses
 charing
+chariot
 charioted
 charioteer
 charioteers
@@ -27523,6 +27531,7 @@ clothes
 clotheshorse
 clotheshorses
 clothesline
+clotheslined
 clotheslines
 clotheslining
 clothespin
@@ -28960,6 +28969,7 @@ collet
 colleted
 colleting
 collets
+collide
 collided
 collider
 colliders
@@ -29772,6 +29782,7 @@ comparers
 compares
 comparing
 comparison
+comparisons
 compart
 comparted
 comparting
@@ -46311,6 +46322,7 @@ dubnium
 dubniums
 dubonnet
 dubonnets
+dubs
 ducal
 ducally
 ducat
@@ -57803,6 +57815,7 @@ floodlight
 floodlighted
 floodlighting
 floodlights
+floodlit
 floodplain
 floodplains
 floods
@@ -66816,6 +66829,7 @@ gustation
 gustations
 gustative
 gustatorily
+gustatory
 gusted
 gustier
 gustiest
@@ -68099,6 +68113,7 @@ hardheads
 hardier
 hardies
 hardiest
+hardihood
 hardihoods
 hardily
 hardiment
@@ -71829,6 +71844,7 @@ hosteling
 hostelled
 hosteller
 hostellers
+hostelling
 hostelries
 hostelry
 hostels
@@ -79982,6 +79998,7 @@ itchier
 itchiest
 itchily
 itchiness
+itchinesses
 itching
 itchings
 itchy
@@ -95099,6 +95116,7 @@ misstart
 misstarted
 misstarting
 misstarts
+misstate
 misstated
 misstatement
 misstatements
@@ -106157,6 +106175,7 @@ outhowls
 outhumor
 outhumored
 outhumoring
+outhumors
 outhunt
 outhunted
 outhunting
@@ -106611,6 +106630,7 @@ outsee
 outseeing
 outseen
 outsees
+outsell
 outselling
 outsert
 outserts
@@ -107641,6 +107661,7 @@ overflight
 overflights
 overflood
 overflooded
+overflooding
 overfloods
 overflow
 overflowed
@@ -112463,6 +112484,7 @@ percolators
 percuss
 percussed
 percusses
+percussing
 percussion
 percussionist
 percussionists
@@ -112667,6 +112689,7 @@ perikaryon
 peril
 periled
 periling
+perilla
 perillas
 perilled
 perilling
@@ -116508,6 +116531,7 @@ plummer
 plummest
 plummet
 plummeted
+plummeting
 plummets
 plummier
 plummiest
@@ -118473,6 +118497,7 @@ poulterers
 poulters
 poultice
 poulticed
+poultices
 poulticing
 poultries
 poultry
@@ -118660,6 +118685,7 @@ praising
 prajna
 prajnas
 praline
+pralines
 pralltriller
 pralltrillers
 pram
@@ -137952,6 +137978,7 @@ screwbean
 screwbeans
 screwdriver
 screwdrivers
+screwed
 screwer
 screwers
 screwier
@@ -145809,6 +145836,7 @@ sorrows
 sorry
 sort
 sorta
+sortable
 sortably
 sorted
 sorter
@@ -148976,6 +149004,7 @@ stepsons
 stepstool
 stepstools
 steradian
+steradians
 stercoraceous
 sterculia
 stere
@@ -153563,6 +153592,7 @@ susurruses
 sutler
 sutlers
 sutra
+sutras
 sutta
 suttas
 suttee
@@ -158407,6 +158437,7 @@ thunders
 thundershower
 thundershowers
 thunderstone
+thunderstones
 thunderstorm
 thunderstorms
 thunderstricken
@@ -166780,6 +166811,7 @@ unpaid
 unpainful
 unpainted
 unpaired
+unpalatability
 unpalatable
 unparalleled
 unparasitized
@@ -168430,6 +168462,7 @@ upwards
 upwell
 upwelled
 upwelling
+upwellings
 upwells
 upwind
 upwinds
@@ -171130,6 +171163,7 @@ vivification
 vivifications
 vivified
 vivifier
+vivifiers
 vivifies
 vivify
 vivifying
@@ -172836,6 +172870,7 @@ weaselly
 weasels
 weasely
 weason
+weasons
 weather
 weatherability
 weatherboard
