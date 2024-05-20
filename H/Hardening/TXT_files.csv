@@ -26,3 +26,12 @@ Linux Kernel sysctl documentation,https://www.kernel.org/doc/Documentation/sysct
 28422_00601_00031.txt - UFDC Image Array 2,https://ufdcimages.uflib.ufl.edu/UF/00/02/84/22/00601/28422_00601_00031.txt
 Documentation/sysctl/net.txt - kernel/arm64 - Git at Google,https://android.googlesource.com/kernel/arm64/%2B/android-easel-intel-linux-4.7-oreo-m2/Documentation/sysctl/net.txt
 12BIBLIOGRAFIA.pdf.txt - Tesis Doctorals en Xarxa,https://www.tdx.cat/bitstream/10803/6036/16/12BIBLIOGRAFIA.pdf.txt
+toxcore/docs/Hardening.txt at master - GitHub,https://github.com/irungentoo/ProjectTox-Core/blob/master/docs/Hardening.txt
+ansible-collection-hardening/requirements.txt at master - GitHub,https://github.com/dev-sec/ansible-collection-hardening/blob/master/requirements.txt
+tuning-2-cheap-hardening.txt - Linux From Scratch!,https://www.linuxfromscratch.org/~ken/tuning/tuning-2-cheap-hardening.txt
+hardened-virtualization.txt « txt - proj/hardened-docs.git ... - Gentoo,https://gitweb.gentoo.org/proj/hardened-docs.git/tree/txt/hardened-virtualization.txt
+Slackware System Hardening - Gopher Proxy,https://gopherproxy.meulie.net/sdf.org/0/users/dentonj/system-hardening-13.1.txt
+RedHatLinux80HardeningNotes.txt - DePaul University,https://wdat.is.depaul.edu/is/_downloads/RedHatLinux80HardeningNotes.txt
+hardening and tempering,https://www.cs.cmu.edu/~alf/en/hocksteel.txt
+Hardening SSH - tinyapps.org,https://tinyapps.org/docs/ssh_osx_and_sshfs.txt
+Kernel Hardening Rules - CCNA HUB,https://www.ccnahub.com/wp-content/uploads/2016/03/kernel-hardening-rules.txt
