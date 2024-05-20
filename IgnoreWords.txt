@@ -6489,6 +6489,7 @@ anxiolytics
 anxious
 anxiously
 anxiousness
+anxiousnesses
 any
 anybodies
 anybody
@@ -15711,6 +15712,7 @@ blinder
 blinders
 blindest
 blindfish
+blindfishes
 blindfold
 blindfolded
 blindfolding
@@ -17423,6 +17425,7 @@ bourride
 bourrides
 bourse
 bourses
+boursin
 boursins
 bourtree
 bourtrees
@@ -19318,6 +19321,7 @@ bullmastiff
 bullmastiffs
 bullneck
 bullnecked
+bullnecks
 bullnose
 bullnoses
 bullock
@@ -24029,6 +24033,7 @@ chalcedony
 chalcid
 chalcids
 chalcocite
+chalcocites
 chalcogen
 chalcogenide
 chalcogenides
@@ -38172,6 +38177,7 @@ decrown
 decrowned
 decrowning
 decrowns
+decry
 decrying
 decrypt
 decrypted
@@ -39728,6 +39734,7 @@ departmentally
 departments
 departs
 departure
+departures
 depauperate
 depend
 dependabilities
@@ -40702,6 +40709,7 @@ deticking
 deticks
 detinue
 detinues
+detonabilities
 detonability
 detonable
 detonatable
@@ -42081,6 +42089,7 @@ dingey
 dingeys
 dinghies
 dinghy
+dingier
 dingies
 dingiest
 dingily
@@ -50201,6 +50210,7 @@ entomology
 entomophagous
 entomophilies
 entomophilous
+entomophily
 entophyte
 entophytes
 entopic
@@ -73334,6 +73344,7 @@ ichors
 ichs
 ichthyic
 ichthyofauna
+ichthyofaunae
 ichthyofaunal
 ichthyofaunas
 ichthyoid
@@ -73344,6 +73355,7 @@ ichthyologists
 ichthyology
 ichthyophagous
 ichthyosaur
+ichthyosaurian
 ichthyosaurians
 ichthyosaurs
 icicle
@@ -80963,6 +80975,7 @@ jubilance
 jubilances
 jubilant
 jubilantly
+jubilarian
 jubilarians
 jubilate
 jubilated
@@ -81679,6 +81692,7 @@ keened
 keener
 keeners
 keenest
+keening
 keenly
 keenness
 keennesses
@@ -97196,6 +97210,7 @@ multiconductor
 multicopy
 multicounty
 multicourse
+multicultural
 multicurie
 multicurrency
 multiday
@@ -99383,6 +99398,8 @@ nestor
 nestors
 nests
 net
+nether
+nethermost
 netherworld
 netherworlds
 netiquette
@@ -102470,6 +102487,7 @@ nunnations
 nunneries
 nunnery
 nunnish
+nuns
 nuptial
 nuptialities
 nuptiality
@@ -105068,6 +105086,7 @@ ostensoria
 ostensories
 ostensorium
 ostensory
+ostentation
 ostentations
 ostentatious
 ostentatiously
@@ -109323,6 +109342,7 @@ pancreatectomy
 pancreatic
 pancreatin
 pancreatins
+pancreatitides
 pancreatitis
 pancreozymin
 pancreozymins
@@ -113362,6 +113382,7 @@ philhellenisms
 philhellenist
 philhellenists
 philibeg
+philibegs
 philippic
 philippics
 philistia
@@ -115061,6 +115082,7 @@ pissants
 pisser
 pissers
 pisses
+pissing
 pissoir
 pissoirs
 pistache
@@ -116490,6 +116512,7 @@ pointedness
 pointednesses
 pointelle
 pointelles
+pointer
 pointers
 pointes
 pointier
@@ -121225,6 +121248,7 @@ promulgator
 promulgators
 promulge
 promulged
+promulges
 promulging
 pronate
 pronated
@@ -133717,6 +133741,7 @@ roose
 roosed
 rooser
 roosers
+rooses
 roosing
 roost
 roosted
@@ -146582,6 +146607,7 @@ spiritedness
 spiritednesses
 spiriting
 spiritism
+spiritisms
 spiritist
 spiritistic
 spiritists
@@ -150301,6 +150327,7 @@ subagencies
 subagency
 subagent
 subagents
+subah
 subahdar
 subahdars
 subahs
@@ -151368,6 +151395,7 @@ successionally
 successions
 successive
 successively
+successiveness
 successor
 successors
 succinate
@@ -155529,6 +155557,7 @@ teardrops
 teared
 tearer
 tearers
+tearful
 tearfully
 tearfulness
 tearfulnesses
@@ -160171,6 +160200,7 @@ tranquilest
 tranquilities
 tranquility
 tranquilize
+tranquilized
 tranquilizer
 tranquilizers
 tranquilizes
@@ -168036,6 +168066,7 @@ urediospores
 uredium
 uredo
 uredos
+uredospore
 uredospores
 ureic
 ureide
@@ -168143,6 +168174,7 @@ uropygial
 uropygium
 uropygiums
 uroscopic
+uroscopies
 uroscopy
 urostyle
 urostyles
@@ -169659,6 +169691,7 @@ vesical
 vesicant
 vesicants
 vesicate
+vesicated
 vesicates
 vesicating
 vesicle
@@ -173579,6 +173612,7 @@ wildwood
 wildwoods
 wile
 wiled
+wiles
 wilful
 wilfully
 wilier
@@ -175002,6 +175036,7 @@ wurzel
 wurzels
 wushu
 wuss
+wusses
 wussier
 wussies
 wussiest
