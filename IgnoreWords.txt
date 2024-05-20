@@ -2415,6 +2415,7 @@ aggrandise
 aggrandised
 aggrandises
 aggrandising
+aggrandize
 aggrandized
 aggrandizement
 aggrandizements
@@ -7399,6 +7400,7 @@ arborization
 arborizations
 arborize
 arborized
+arborizes
 arborizing
 arborous
 arbors
@@ -10641,6 +10643,7 @@ backstopped
 backstopping
 backstops
 backstories
+backstory
 backstreet
 backstreets
 backstretch
@@ -12829,6 +12832,7 @@ befall
 befallen
 befalling
 befalls
+befell
 befinger
 befingered
 befingering
@@ -21935,6 +21939,7 @@ carbonless
 carbonnade
 carbonnades
 carbonous
+carbons
 carbonyl
 carbonylation
 carbonylations
@@ -22657,6 +22662,7 @@ cassenas
 cassene
 cassenes
 casserole
+casseroles
 cassette
 cassettes
 cassia
@@ -26841,6 +26847,7 @@ clasped
 clasper
 claspers
 clasping
+clasps
 claspt
 class
 classable
@@ -39657,6 +39664,7 @@ deny
 denying
 denyingly
 deodand
+deodands
 deodar
 deodara
 deodaras
@@ -40148,6 +40156,7 @@ desalinations
 desalinator
 desalinators
 desalinization
+desalinizations
 desalinize
 desalinized
 desalinizes
@@ -44818,6 +44827,7 @@ donuts
 donzel
 donzels
 doobie
+doobies
 doodad
 doodads
 doodies
@@ -47379,6 +47389,7 @@ edemata
 edematose
 edematous
 edenic
+edentate
 edentates
 edentulous
 edge
@@ -50549,6 +50560,7 @@ epicuticle
 epicuticles
 epicuticular
 epicycle
+epicycles
 epicyclic
 epicycloid
 epicycloidal
@@ -50574,6 +50586,7 @@ epidermis
 epidermises
 epidermoid
 epiderms
+epidiascope
 epidiascopes
 epididymal
 epididymides
@@ -50806,6 +50819,7 @@ epithets
 epitome
 epitomes
 epitomic
+epitomical
 epitomise
 epitomised
 epitomises
@@ -56039,6 +56053,7 @@ fiduciaries
 fiduciary
 fie
 fief
+fiefdom
 fiefdoms
 fiefs
 field
@@ -58708,6 +58723,7 @@ forecourts
 foredate
 foredated
 foredates
+foredating
 foredeck
 foredecks
 foredid
@@ -59479,6 +59495,7 @@ fracted
 fracti
 fraction
 fractional
+fractionalize
 fractionalized
 fractionalizes
 fractionalizing
@@ -64998,6 +65015,7 @@ grandma
 grandmama
 grandmamas
 grandmas
+grandmother
 grandmotherly
 grandmothers
 grandnephew
@@ -70601,6 +70619,7 @@ holdbacks
 holddown
 holddowns
 holden
+holder
 holders
 holdfast
 holdfasts
@@ -77690,6 +77709,7 @@ intercorrelate
 intercorrelated
 intercorrelates
 intercortical
+intercostal
 intercostals
 intercountry
 intercounty
@@ -80316,6 +80336,7 @@ jerids
 jerked
 jerker
 jerkers
+jerkier
 jerkies
 jerkiest
 jerkily
@@ -83822,6 +83843,7 @@ lanners
 lanolin
 lanoline
 lanolines
+lanolins
 lanose
 lanosities
 lanosity
@@ -109325,6 +109347,7 @@ panduras
 pandurate
 pandy
 pandying
+pane
 paned
 panegyric
 panegyrical
@@ -114861,6 +114884,7 @@ pipal
 pipals
 pipe
 pipeage
+pipeages
 piped
 pipefish
 pipefishes
@@ -122945,6 +122969,7 @@ puris
 purism
 purisms
 purist
+puristic
 puristically
 purists
 puritan
@@ -123334,6 +123359,7 @@ pyridoxamines
 pyridoxin
 pyridoxine
 pyridoxines
+pyridoxins
 pyriform
 pyrimethamine
 pyrimethamines
@@ -125191,6 +125217,7 @@ rarebits
 rared
 rarefaction
 rarefactional
+rarefactions
 rarefied
 rarefier
 rarefiers
@@ -127521,6 +127548,7 @@ reedifying
 reedily
 reediness
 reedinesses
+reeding
 reedings
 reedit
 reedited
@@ -128402,6 +128430,7 @@ regressivities
 regressivity
 regressor
 regressors
+regret
 regretful
 regretfully
 regretfulness
@@ -132358,6 +132387,7 @@ rewrote
 rewrought
 rex
 rexes
+rexine
 rexines
 reynards
 rezero
@@ -132623,6 +132653,7 @@ ribaldry
 ribalds
 riband
 ribands
+ribavirin
 ribavirins
 ribband
 ribbands
@@ -142199,6 +142230,7 @@ sitarists
 sitars
 sitcom
 sitcoms
+site
 sited
 sites
 sith
@@ -144835,6 +144867,7 @@ soliloquize
 soliloquized
 soliloquizer
 soliloquizers
+soliloquizes
 soliloquizing
 soliloquy
 solion
@@ -154243,6 +154276,7 @@ tabletop
 tabletops
 tablets
 tabletted
+tabletting
 tableware
 tablewares
 tabling
@@ -170309,6 +170343,7 @@ viruses
 viruslike
 virusoid
 virusoids
+vis
 visa
 visaed
 visage
