@@ -3198,6 +3198,7 @@ algid
 algidities
 algidity
 algidness
+algidnesses
 algin
 alginate
 alginates
@@ -4628,6 +4629,7 @@ anabatic
 anabioses
 anabiosis
 anabiotic
+anableps
 anablepses
 anabolic
 anabolism
@@ -5689,6 +5691,7 @@ anthocyanins
 anthocyans
 anthodia
 anthodium
+anthoid
 anthological
 anthologies
 anthologist
@@ -11061,6 +11064,7 @@ ballies
 balling
 ballista
 ballistae
+ballistic
 ballistically
 ballistics
 ballon
@@ -18603,6 +18607,7 @@ brokerages
 brokered
 brokering
 brokerings
+brokers
 broking
 brokings
 brollies
@@ -21130,6 +21135,7 @@ campuses
 campusing
 campy
 campylobacter
+campylobacters
 campylotropous
 cams
 camshaft
@@ -23788,6 +23794,7 @@ cereal
 cereals
 cerebella
 cerebellar
+cerebellum
 cerebellums
 cerebra
 cerebral
@@ -27705,6 +27712,7 @@ coadjutors
 coadjutrices
 coadjutrix
 coadmire
+coadmired
 coadmires
 coadmiring
 coadmit
@@ -34431,6 +34439,7 @@ crenelations
 creneled
 crenellated
 crenellation
+crenellations
 crenelle
 crenelled
 crenelles
@@ -40011,6 +40020,7 @@ depriving
 deprogram
 deprogramed
 deprograming
+deprogrammed
 deprogrammer
 deprogrammers
 deprogramming
@@ -41339,6 +41349,7 @@ diandrous
 dianthus
 diapason
 diapasons
+diapause
 diapaused
 diapauses
 diapausing
@@ -47480,6 +47491,7 @@ edibilities
 edibility
 edible
 edibleness
+ediblenesses
 edibles
 edict
 edictal
@@ -48485,6 +48497,7 @@ embattling
 embay
 embayed
 embaying
+embayment
 embayments
 embays
 embed
@@ -49311,6 +49324,7 @@ endarchies
 endarchy
 endarterectomy
 endash
+endashes
 endbrain
 endbrains
 endear
@@ -54947,6 +54961,7 @@ fathomlessly
 fathomlessness
 fathoms
 fatidic
+fatidical
 fatigabilities
 fatigability
 fatigable
@@ -56725,6 +56740,7 @@ firmed
 firmer
 firmers
 firmest
+firming
 firmly
 firmness
 firmnesses
@@ -58828,6 +58844,7 @@ forefending
 forefends
 forefinger
 forefingers
+forefoot
 forefront
 forefronts
 foregather
@@ -74994,6 +75011,7 @@ inadequateness
 inadmissibility
 inadmissible
 inadmissibly
+inadvertence
 inadvertences
 inadvertencies
 inadvertency
@@ -77167,6 +77185,7 @@ inseminates
 inseminating
 insemination
 inseminations
+inseminator
 inseminators
 insensate
 insensately
@@ -87623,6 +87642,7 @@ loti
 lotic
 lotion
 lotions
+lotos
 lotoses
 lots
 lotte
@@ -87764,6 +87784,7 @@ lovesickness
 lovesicknesses
 lovesome
 lovevine
+lovevines
 loving
 lovingly
 lovingness
@@ -105515,6 +105536,7 @@ outbragged
 outbragging
 outbrags
 outbrave
+outbraved
 outbraves
 outbraving
 outbrawl
@@ -109658,6 +109680,7 @@ pantheism
 pantheisms
 pantheist
 pantheistic
+pantheistical
 pantheistically
 pantheists
 pantheon
@@ -111116,6 +111139,7 @@ pauperism
 pauperisms
 pauperize
 pauperized
+pauperizes
 pauperizing
 paupers
 paupiette
@@ -120084,6 +120108,7 @@ pressure
 pressured
 pressureless
 pressures
+pressuring
 pressurise
 pressurised
 pressurises
@@ -123288,6 +123313,7 @@ pus
 puses
 push
 pushball
+pushballs
 pushcart
 pushcarts
 pushchair
@@ -125311,6 +125337,7 @@ ransackers
 ransacking
 ransacks
 ransom
+ransomed
 ransomer
 ransomers
 ransoming
@@ -135717,6 +135744,7 @@ samsara
 samsaras
 samshu
 samshus
+samurai
 samurais
 sanative
 sanatoria
@@ -137351,6 +137379,7 @@ scleras
 sclereid
 sclereids
 sclerenchyma
+sclerenchymas
 sclerite
 sclerites
 scleritic
@@ -139890,6 +139919,7 @@ severally
 severals
 severalties
 severalty
+severance
 severances
 severe
 severed
@@ -139951,6 +139981,7 @@ sexist
 sexists
 sexless
 sexlessly
+sexlessness
 sexlessnesses
 sexologic
 sexologies
@@ -164935,6 +164966,7 @@ underlain
 underlap
 underlapped
 underlapping
+underlaps
 underlay
 underlaying
 underlayment
@@ -171009,6 +171041,7 @@ voiceovers
 voiceprint
 voiceprints
 voicer
+voicers
 voices
 voicing
 voicings
@@ -176037,6 +176070,7 @@ zagged
 zagging
 zags
 zaibatsu
+zaikai
 zaikais
 zaire
 zaires
@@ -176387,6 +176421,7 @@ zonary
 zonate
 zonated
 zonation
+zonations
 zone
 zoned
 zoneless
