@@ -1411,6 +1411,7 @@ adjudges
 adjudging
 adjudicate
 adjudicated
+adjudicates
 adjudicating
 adjudication
 adjudications
@@ -5514,6 +5515,7 @@ anopheline
 anophelines
 anopia
 anopias
+anopsia
 anopsias
 anorak
 anoraks
@@ -11526,6 +11528,7 @@ barflies
 barfly
 barfs
 bargain
+bargained
 bargainer
 bargainers
 bargaining
@@ -15929,6 +15932,7 @@ blooming
 bloomless
 blooms
 bloomy
+bloop
 blooped
 blooper
 bloopers
@@ -23509,6 +23513,7 @@ cementers
 cementing
 cementite
 cementites
+cementitious
 cements
 cementums
 cemeteries
@@ -25541,6 +25546,7 @@ chocked
 chockful
 chockfull
 chocking
+chocks
 chocoholic
 chocoholics
 chocolate
@@ -29445,6 +29451,7 @@ commercialises
 commercialising
 commercialism
 commercialisms
+commercialist
 commercialistic
 commercialists
 commercialities
@@ -30739,6 +30746,7 @@ confuted
 confuters
 confutes
 confuting
+conga
 congaed
 congaing
 congas
@@ -30905,6 +30913,7 @@ conjoint
 conjointly
 conjugal
 conjugalities
+conjugality
 conjugally
 conjugant
 conjugants
@@ -31262,6 +31271,7 @@ constellatory
 consternate
 consternated
 consternates
+consternating
 consternation
 consternations
 constipate
@@ -35497,6 +35507,7 @@ culmed
 culminant
 culminate
 culminated
+culminates
 culminating
 culmination
 culminations
@@ -43519,6 +43530,7 @@ displuming
 disport
 disported
 disporting
+disportment
 disportments
 disports
 disposabilities
@@ -44442,6 +44454,7 @@ dodecaphonists
 dodecaphony
 dodge
 dodgeball
+dodgeballs
 dodged
 dodgem
 dodgems
@@ -48882,6 +48895,7 @@ employers
 employes
 employing
 employment
+employments
 employs
 empoison
 empoisoned
@@ -54095,6 +54109,7 @@ facility
 facing
 facings
 facsimile
+facsimiled
 facsimileing
 facsimiles
 fact
@@ -55309,6 +55324,7 @@ felicitous
 felicitously
 felicitousness
 felicity
+felid
 felids
 feline
 felinely
@@ -68377,6 +68393,7 @@ hawser
 hawsers
 hawses
 hawthorn
+hawthorns
 hawthorny
 hay
 haycock
@@ -69443,6 +69460,7 @@ hepatomata
 hepatomegalies
 hepatomegaly
 hepatopancreas
+hepatotoxic
 hepatotoxicity
 hepcat
 hepcats
@@ -70568,6 +70586,7 @@ hoggers
 hogget
 hoggets
 hogging
+hoggish
 hoggishly
 hoggishness
 hoggishnesses
@@ -72870,6 +72889,7 @@ hyperlinks
 hyperlipemia
 hyperlipemias
 hyperlipemic
+hyperlipidemia
 hyperlipidemias
 hypermania
 hypermanias
@@ -72922,6 +72942,7 @@ hyperplane
 hyperplanes
 hyperplasia
 hyperplasias
+hyperplastic
 hyperploid
 hyperploidies
 hyperploids
@@ -86074,6 +86095,7 @@ limps
 limpsey
 limpsier
 limpsiest
+limpsy
 limuli
 limuloid
 limuloids
@@ -90284,6 +90306,7 @@ masquers
 masques
 mass
 massa
+massacre
 massacred
 massacrer
 massacrers
@@ -105374,6 +105397,7 @@ outblushes
 outblushing
 outboard
 outboards
+outboast
 outboasted
 outboasting
 outboasts
@@ -112321,6 +112345,7 @@ pericyclic
 periderm
 periderms
 peridia
+peridial
 peridium
 peridot
 peridotic
@@ -122366,6 +122391,7 @@ psychosomatic
 psychosomatics
 psychosurgeon
 psychosurgeons
+psychosurgeries
 psychosurgery
 psychosurgical
 psychosyntheses
@@ -125718,6 +125744,7 @@ reacted
 reacting
 reaction
 reactionaries
+reactionary
 reactionaryism
 reactionaryisms
 reactions
@@ -130761,6 +130788,7 @@ resegregating
 resegregation
 resegregations
 reseize
+reseized
 reseizes
 reseizing
 reseizure
@@ -135939,6 +135967,7 @@ sarcastically
 sarcenet
 sarcenets
 sarcina
+sarcinae
 sarcinas
 sarcocarp
 sarcocarps
@@ -151835,6 +151864,7 @@ summarised
 summarises
 summarising
 summarist
+summarists
 summarizable
 summarization
 summarizations
@@ -157220,6 +157250,7 @@ therewith
 therewithal
 theriac
 theriaca
+theriacal
 theriacas
 theriacs
 therian
@@ -168507,6 +168538,7 @@ vairs
 vakeel
 vakeels
 vakil
+vakils
 valance
 valanced
 valances
@@ -169516,6 +169548,7 @@ verifiable
 verifiableness
 verification
 verifications
+verified
 verifier
 verifiers
 verifies
@@ -170575,6 +170608,7 @@ vitiations
 vitiator
 vitiators
 viticultural
+viticulturally
 viticulture
 viticultures
 viticulturist
@@ -176018,6 +176052,7 @@ zig
 zigged
 zigging
 ziggurat
+ziggurats
 zigs
 zigzag
 zigzagged
