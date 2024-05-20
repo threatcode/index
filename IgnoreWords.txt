@@ -2488,6 +2488,7 @@ agiotages
 agism
 agisms
 agist
+agisted
 agisting
 agists
 agita
@@ -3671,6 +3672,7 @@ allusiveness
 allusivenesses
 alluvia
 alluvial
+alluvials
 alluvion
 alluvions
 alluvium
@@ -10880,6 +10882,7 @@ bailiff
 bailiffs
 bailiffship
 bailiffships
+bailing
 bailiwick
 bailiwicks
 bailment
@@ -13222,6 +13225,7 @@ bellicose
 bellicosities
 bellicosity
 bellied
+bellies
 belligerence
 belligerences
 belligerencies
@@ -16723,6 +16727,7 @@ bond
 bondable
 bondage
 bondages
+bonded
 bonder
 bonders
 bondholder
@@ -22797,6 +22802,7 @@ casualties
 casualty
 casuarina
 casuarinas
+casuist
 casuistic
 casuistical
 casuistries
@@ -36267,6 +36273,7 @@ cyanoacrylate
 cyanoacrylates
 cyanobacteria
 cyanobacterium
+cyanocobalamin
 cyanocobalamine
 cyanocobalamins
 cyanoethylate
@@ -43690,6 +43697,7 @@ disquieting
 disquietingly
 disquietly
 disquiets
+disquietude
 disquietudes
 disquisition
 disquisitions
@@ -57270,6 +57278,7 @@ flatbread
 flatbreads
 flatcap
 flatcaps
+flatcar
 flatcars
 flatfeet
 flatfish
@@ -57551,6 +57560,7 @@ flexibility
 flexible
 flexibly
 flexile
+flexing
 flexion
 flexional
 flexions
@@ -61992,6 +62002,7 @@ garrulousnesses
 gars
 garter
 gartered
+gartering
 garters
 garth
 garths
@@ -68302,6 +68313,7 @@ hashes
 hashhead
 hashheads
 hashing
+hashish
 hashishes
 haslet
 haslets
@@ -73960,6 +73972,7 @@ illuminate
 illuminated
 illuminates
 illuminati
+illuminating
 illuminatingly
 illumination
 illuminations
@@ -74646,6 +74659,7 @@ impersonated
 impersonates
 impersonating
 impersonation
+impersonations
 impersonator
 impersonators
 impertinence
@@ -80238,6 +80252,7 @@ jambeau
 jambeaux
 jambed
 jambes
+jambing
 jamboree
 jamborees
 jambs
@@ -83757,6 +83772,7 @@ lambert
 lamberts
 lambie
 lambier
+lambies
 lambiest
 lambing
 lambkill
@@ -88870,6 +88886,7 @@ madronas
 madrone
 madrones
 madrono
+madronos
 mads
 madtom
 madtoms
@@ -89210,6 +89227,7 @@ majestic
 majestically
 majesties
 majesty
+majolica
 majolicas
 major
 majordomo
@@ -90485,6 +90503,7 @@ masks
 masochism
 masochisms
 masochist
+masochistic
 masochistically
 masochists
 mason
@@ -91146,6 +91165,7 @@ meatinesses
 meatless
 meatloaf
 meatloaves
+meatman
 meatmen
 meatpacking
 meatpackings
@@ -93609,6 +93629,7 @@ milord
 milords
 milos
 milpa
+milpas
 milreis
 mils
 milt
@@ -110855,6 +110876,7 @@ passivation
 passivations
 passive
 passively
+passiveness
 passivenesses
 passives
 passivism
@@ -111047,6 +111069,7 @@ paternally
 paternities
 paternity
 paternoster
+paternosters
 paters
 path
 pathbreaking
@@ -117284,6 +117307,7 @@ polyped
 polypeds
 polypeptide
 polypeptides
+polypeptidic
 polypetalous
 polyphagia
 polyphagias
@@ -119695,6 +119719,7 @@ premodify
 premodifying
 premoisten
 premoistened
+premoistening
 premoistens
 premolar
 premolars
@@ -124159,6 +124184,7 @@ quarto
 quartos
 quarts
 quartz
+quartzes
 quartzite
 quartzites
 quartzitic
@@ -148404,6 +148430,7 @@ starers
 stares
 starets
 starfish
+starfishes
 starflower
 starflowers
 starfruit
@@ -153190,6 +153217,7 @@ surceased
 surceases
 surceasing
 surcharge
+surcharged
 surcharges
 surcharging
 surcingle
@@ -156858,6 +156886,7 @@ tercentenaries
 tercentenary
 tercentennial
 tercentennials
+terces
 tercet
 tercets
 terebene
@@ -158102,6 +158131,7 @@ threated
 threaten
 threatened
 threatener
+threateners
 threatening
 threateningly
 threatens
@@ -160137,6 +160167,7 @@ towaway
 towaways
 towboat
 towboats
+towed
 towel
 toweled
 towelette
@@ -163361,6 +163392,7 @@ twoonies
 twopence
 twopences
 twopenny
+twos
 twosome
 twosomes
 twyer
@@ -165079,6 +165111,7 @@ undergarments
 undergird
 undergirded
 undergirding
+undergirds
 undergirt
 underglaze
 underglazes
@@ -167382,6 +167415,7 @@ unspeakable
 unspeakably
 unspeaking
 unspeaks
+unspecialized
 unspecifiable
 unspecific
 unspecified
@@ -170641,6 +170675,7 @@ vintager
 vintagers
 vintages
 vintner
+vintners
 viny
 vinyl
 vinylic
