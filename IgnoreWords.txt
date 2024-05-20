@@ -2781,6 +2781,7 @@ airfields
 airflow
 airflows
 airfoil
+airfoils
 airframe
 airframes
 airfreight
@@ -16805,6 +16806,7 @@ boniest
 boniface
 bonifaces
 boniness
+boninesses
 boning
 bonita
 bonitas
@@ -20840,6 +20842,7 @@ callees
 caller
 callers
 callet
+callets
 calligrapher
 calligraphers
 calligraphic
@@ -23298,6 +23301,7 @@ cavalla
 cavallas
 cavalletti
 cavallies
+cavally
 cavalries
 cavalry
 cavalryman
@@ -28207,6 +28211,7 @@ cocultivations
 coculture
 cocultured
 cocultures
+coculturing
 cocurator
 cocurators
 cocurricular
@@ -28388,6 +28393,7 @@ coenocyte
 coenocytes
 coenocytic
 coenosarc
+coenosarcs
 coenure
 coenures
 coenuri
@@ -35165,6 +35171,7 @@ cruller
 crullers
 crumb
 crumbed
+crumber
 crumbers
 crumbier
 crumbiest
@@ -47620,6 +47627,7 @@ educates
 educating
 education
 educational
+educationalist
 educationalists
 educationally
 educationese
@@ -50617,6 +50625,7 @@ epeiric
 epeirogenic
 epeirogenically
 epeirogenies
+epeirogeny
 ependyma
 ependymas
 epentheses
@@ -55336,6 +55345,7 @@ federalist
 federalists
 federalization
 federalizations
+federalize
 federalized
 federalizes
 federalizing
@@ -62179,6 +62189,7 @@ gastrulate
 gastrulated
 gastrulates
 gastrulating
+gastrulation
 gastrulations
 gasts
 gasworks
@@ -63269,6 +63280,7 @@ giftwraps
 gig
 giga
 gigabit
+gigabits
 gigabyte
 gigabytes
 gigacycle
@@ -75389,6 +75401,7 @@ incident
 incidental
 incidentally
 incidentals
+incidents
 incinerate
 incinerated
 incinerates
@@ -76822,6 +76835,7 @@ ingurgitate
 ingurgitated
 ingurgitates
 ingurgitating
+ingurgitation
 ingurgitations
 inhabit
 inhabitable
@@ -77520,6 +77534,7 @@ inspissators
 instabilities
 instability
 instable
+instal
 install
 installation
 installations
@@ -88537,6 +88552,7 @@ lymphoblastic
 lymphoblasts
 lymphocyte
 lymphocytes
+lymphocytic
 lymphocytoses
 lymphocytosis
 lymphogram
@@ -91265,6 +91281,7 @@ medalling
 medallion
 medallions
 medallist
+medallists
 medals
 meddle
 meddled
@@ -92359,6 +92376,7 @@ metabolites
 metabolizable
 metabolize
 metabolized
+metabolizes
 metabolizing
 metacarpal
 metacarpals
@@ -93989,6 +94007,7 @@ minutiae
 minutial
 minuting
 minx
+minxes
 minyan
 minyanim
 minyans
@@ -94018,6 +94037,7 @@ mirages
 mirandize
 mirandized
 mirandizes
+mirandizing
 mire
 mired
 mirepoix
@@ -104659,6 +104679,7 @@ ops
 opsin
 opsins
 opsonic
+opsonified
 opsonifies
 opsonify
 opsonifying
@@ -111199,6 +111220,7 @@ patness
 patnesses
 patois
 patootie
+patooties
 patresfamilias
 patriarch
 patriarchal
@@ -115165,6 +115187,7 @@ pinnatifid
 pinnation
 pinnations
 pinned
+pinner
 pinners
 pinnies
 pinning
@@ -119206,6 +119229,7 @@ predawn
 predawns
 predeath
 predeaths
+predebate
 predecease
 predeceased
 predeceases
@@ -145015,6 +145039,7 @@ sociosexual
 sock
 sockdolager
 sockdolagers
+sockdologer
 sockdologers
 socked
 socket
@@ -145427,6 +145452,7 @@ solus
 solute
 solutes
 solution
+solutions
 solvabilities
 solvability
 solvable
@@ -147081,6 +147107,7 @@ spiritualty
 spirituel
 spirituelle
 spirituous
+spirochaete
 spirochaetes
 spirochetal
 spirochete
@@ -150972,6 +150999,7 @@ subdebs
 subdebutante
 subdebutantes
 subdecision
+subdecisions
 subdepartment
 subdepartments
 subdepot
@@ -153167,6 +153195,7 @@ suppletions
 suppletive
 suppletory
 suppliance
+suppliances
 suppliant
 suppliantly
 suppliants
@@ -156320,6 +156349,7 @@ teleconference
 teleconferences
 telecourse
 telecourses
+teledu
 teledus
 telefacsimile
 telefacsimiles
@@ -164305,6 +164335,7 @@ unbased
 unbasted
 unbated
 unbathed
+unbe
 unbear
 unbearable
 unbearably
@@ -165033,6 +165064,7 @@ under
 underachieve
 underachieved
 underachiever
+underachievers
 underachieves
 underachieving
 underact
@@ -165638,6 +165670,7 @@ unedited
 uneducable
 uneducated
 uneffaced
+unelaborate
 unelectable
 unelected
 unelectrified
@@ -168821,6 +168854,7 @@ utopisms
 utopist
 utopistic
 utopists
+utricle
 utricles
 utricular
 utriculi
@@ -169213,6 +169247,7 @@ vanguard
 vanguardism
 vanguardisms
 vanguardist
+vanguardists
 vanguards
 vanilla
 vanillas
