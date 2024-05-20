@@ -1637,6 +1637,7 @@ adscripts
 adsorb
 adsorbable
 adsorbate
+adsorbates
 adsorbed
 adsorbent
 adsorbents
@@ -4018,6 +4019,7 @@ ambages
 ambagious
 ambari
 ambaries
+ambaris
 ambary
 ambassador
 ambassadorial
@@ -4926,6 +4928,7 @@ ancienter
 ancientest
 anciently
 ancientness
+ancientnesses
 ancientries
 ancientry
 ancients
@@ -10444,6 +10447,7 @@ backbites
 backbiting
 backbitings
 backbitten
+backblock
 backblocks
 backboard
 backboards
@@ -19294,6 +19298,7 @@ bulletining
 bulletins
 bulletproof
 bullets
+bullfight
 bullfighter
 bullfighters
 bullfighting
@@ -27892,6 +27897,7 @@ cobbiest
 cobble
 cobbled
 cobbler
+cobblers
 cobbles
 cobblestone
 cobblestoned
@@ -34096,6 +34102,7 @@ crankpin
 cranks
 crankshaft
 crankshafts
+cranky
 crannied
 crannies
 crannog
@@ -37961,6 +37968,7 @@ declasse
 declassed
 declasses
 declassified
+declassifies
 declassify
 declassifying
 declassing
@@ -38137,6 +38145,7 @@ decouple
 decoupled
 decoupler
 decouplers
+decoupling
 decoy
 decoyed
 decoyer
@@ -39902,6 +39911,7 @@ depositional
 depositions
 depositor
 depositories
+depositors
 depository
 deposits
 depot
@@ -42966,6 +42976,7 @@ disemboweling
 disembowelled
 disembowelling
 disembowelment
+disembowelments
 disembowels
 disemploy
 disemployed
@@ -46523,6 +46534,7 @@ duomi
 duomo
 duomos
 duopolies
+duopolistic
 duopoly
 duopsonies
 duopsony
@@ -68072,6 +68084,7 @@ harp
 harped
 harper
 harpers
+harpies
 harpin
 harping
 harpings
@@ -68437,6 +68450,7 @@ hazard
 hazarded
 hazarder
 hazarders
+hazarding
 hazardous
 hazardously
 hazardousness
@@ -70718,6 +70732,7 @@ holler
 hollered
 hollering
 hollers
+hollies
 hollo
 holloa
 holloaed
@@ -71304,6 +71319,7 @@ hooper
 hoopers
 hooping
 hoopla
+hooplas
 hoopless
 hooplike
 hoopoe
@@ -75338,6 +75354,7 @@ incomputably
 inconceivable
 inconceivably
 inconcinnities
+inconcinnity
 inconclusive
 inconclusively
 incondite
@@ -75912,6 +75929,7 @@ indowing
 indows
 indoxyl
 indoxyls
+indraft
 indrafts
 indraught
 indraughts
@@ -77963,6 +77981,7 @@ interlarded
 interlarding
 interlards
 interlay
+interlayer
 interlayered
 interlayering
 interlayers
@@ -81767,6 +81786,7 @@ keitloas
 kelep
 keleps
 kelim
+kelims
 kellies
 kelly
 keloid
@@ -83143,6 +83163,7 @@ kyphotic
 kyrie
 kyries
 kyte
+kytes
 kythe
 kythed
 kythes
@@ -87264,6 +87285,7 @@ longbow
 longbowman
 longbowmen
 longbows
+longcloth
 longcloths
 longe
 longed
@@ -90599,6 +90621,7 @@ matsahs
 matsutake
 matsutakes
 matt
+matte
 matted
 mattedly
 matter
@@ -101574,6 +101597,7 @@ nonrepayable
 nonreproductive
 nonresidence
 nonresidences
+nonresidencies
 nonresidency
 nonresident
 nonresidential
@@ -104691,6 +104715,7 @@ organometallic
 organometallics
 organon
 organons
+organophosphate
 organosol
 organosols
 organs
@@ -111608,6 +111633,7 @@ pelitic
 pellagra
 pellagras
 pellagrin
+pellagrins
 pellagrous
 pellet
 pelletal
@@ -125969,6 +125995,7 @@ reappointment
 reappointments
 reappoints
 reapportion
+reapportioned
 reapportioning
 reapportionment
 reapportions
@@ -143314,6 +143341,7 @@ slipstream
 slipstreamed
 slipstreaming
 slipstreams
+slipt
 slipup
 slipups
 slipware
@@ -146226,6 +146254,7 @@ speleologist
 speleologists
 speleology
 spell
+spellbind
 spellbinder
 spellbinders
 spellbinding
@@ -150841,6 +150870,7 @@ submariner
 submariners
 submarines
 submarining
+submarket
 submarkets
 submaxillaries
 submaxillary
@@ -156065,6 +156095,7 @@ tellurides
 tellurion
 tellurions
 tellurite
+tellurites
 tellurium
 telluriums
 tellurize
@@ -165112,6 +165143,7 @@ undrawing
 undrawn
 undraws
 undreamed
+undreamt
 undress
 undressed
 undresses
@@ -169123,6 +169155,7 @@ vegetable
 vegetables
 vegetably
 vegetal
+vegetally
 vegetant
 vegetarian
 vegetarianism
@@ -169382,6 +169415,7 @@ ventilate
 ventilated
 ventilates
 ventilating
+ventilation
 ventilations
 ventilator
 ventilators
@@ -170972,6 +171006,7 @@ volunteerisms
 volunteers
 voluptuaries
 voluptuary
+voluptuous
 voluptuously
 voluptuousness
 volute
