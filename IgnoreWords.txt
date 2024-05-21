@@ -1799,6 +1799,7 @@ advices
 advisabilities
 advisability
 advisable
+advisableness
 advisablenesses
 advisably
 advise
@@ -2145,6 +2146,7 @@ afflicted
 afflicter
 afflicters
 afflicting
+affliction
 afflictions
 afflictive
 afflicts
@@ -7491,6 +7493,7 @@ archaisms
 archaist
 archaistic
 archaists
+archaize
 archaized
 archaizer
 archaizers
@@ -16502,6 +16505,7 @@ bogeymen
 bogeys
 bogged
 boggier
+boggiest
 bogginess
 bogginesses
 bogging
@@ -23763,6 +23767,7 @@ centums
 centuple
 centupled
 centuples
+centupling
 centurial
 centuries
 centurion
@@ -27012,6 +27017,7 @@ claughting
 claughts
 clausal
 clause
+clauses
 claustra
 claustral
 claustrophobe
@@ -37101,6 +37107,7 @@ daphnes
 daphnia
 daphnias
 dapped
+dapper
 dapperer
 dapperest
 dapperly
@@ -42968,6 +42975,7 @@ discourses
 discoursing
 discourteous
 discourteously
+discourtesies
 discourtesy
 discover
 discoverable
@@ -49341,6 +49349,7 @@ encrust
 encrustation
 encrustations
 encrusted
+encrusting
 encrusts
 encrypt
 encrypted
@@ -69284,6 +69293,7 @@ hellcat
 hellcats
 helldiver
 helldivers
+hellebore
 hellebores
 helled
 hellenization
@@ -71162,6 +71172,7 @@ hominizations
 hominize
 hominized
 hominizes
+hominizing
 hominoid
 hominoids
 hominy
@@ -76472,6 +76483,7 @@ infeoff
 infeoffed
 infeoffing
 infeoffs
+infer
 inferable
 inferably
 inference
@@ -89989,6 +90001,7 @@ mantelets
 mantelpiece
 mantelpieces
 mantels
+mantelshelf
 mantelshelves
 mantes
 mantic
@@ -90311,6 +90324,7 @@ markswoman
 markswomen
 markup
 markups
+marl
 marled
 marlier
 marliest
@@ -94008,6 +94022,7 @@ minutial
 minuting
 minx
 minxes
+minxish
 minyan
 minyanim
 minyans
@@ -105114,6 +105129,7 @@ ormer
 ormers
 ormolu
 ormolus
+ornament
 ornamental
 ornamentally
 ornamentals
@@ -107024,6 +107040,7 @@ outwork
 outworked
 outworker
 outworkers
+outworking
 outworks
 outworn
 outwrestle
@@ -115853,6 +115870,7 @@ planked
 planking
 plankings
 planks
+plankter
 plankters
 plankton
 planktonic
@@ -116528,6 +116546,7 @@ plumberies
 plumbers
 plumbery
 plumbic
+plumbing
 plumbings
 plumbism
 plumbisms
@@ -120954,6 +120973,7 @@ privacies
 privacy
 privatdocent
 privatdocents
+privatdozent
 private
 privateer
 privateered
@@ -121401,6 +121421,7 @@ program
 programed
 programer
 programers
+programing
 programings
 programmability
 programmable
@@ -126175,6 +126196,7 @@ readerships
 readied
 readier
 readies
+readiest
 readily
 readiness
 readinesses
@@ -126393,6 +126415,7 @@ rearms
 rearousal
 rearousals
 rearouse
+rearoused
 rearouses
 rearousing
 rearrange
@@ -127215,6 +127238,7 @@ reconfirm
 reconfirmation
 reconfirmations
 reconfirmed
+reconfirming
 reconfirms
 reconnaissance
 reconnaissances
@@ -128902,6 +128926,7 @@ regretted
 regretter
 regretters
 regretting
+regrew
 regrind
 regrinding
 regrinds
@@ -138709,6 +138734,7 @@ secularism
 secularisms
 secularist
 secularistic
+secularists
 secularities
 secularity
 secularization
@@ -142126,6 +142152,7 @@ signa
 signage
 signages
 signal
+signaled
 signaler
 signalers
 signaling
@@ -151477,6 +151504,7 @@ subring
 subrings
 subrogate
 subrogated
+subrogates
 subrogating
 subrogation
 subrogations
@@ -154211,6 +154239,7 @@ sycophants
 sycoses
 sycosis
 syenite
+syenites
 syenitic
 syke
 sykes
@@ -156401,6 +156430,7 @@ telemetrically
 telemetry
 telencephala
 telencephalic
+telencephalon
 teleologic
 teleological
 teleologically
@@ -157912,6 +157942,7 @@ thickish
 thickly
 thickness
 thicknesses
+thickset
 thicksets
 thief
 thieve
@@ -161548,6 +161579,7 @@ tribally
 tribals
 tribasic
 tribe
+tribes
 tribesman
 tribesmen
 tribespeople
@@ -165942,6 +165974,7 @@ unfunded
 unfunny
 unfurl
 unfurled
+unfurling
 unfurls
 unfurnished
 unfused
@@ -169857,6 +169890,7 @@ venographies
 venography
 venologies
 venology
+venom
 venomed
 venomer
 venomers
@@ -171661,6 +171695,7 @@ vulcanites
 vulcanizate
 vulcanizates
 vulcanization
+vulcanizations
 vulcanize
 vulcanized
 vulcanizer
