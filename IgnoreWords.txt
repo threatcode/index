@@ -3856,6 +3856,7 @@ alternate
 alternated
 alternately
 alternating
+alternation
 alternations
 alternative
 alternatively
@@ -6992,6 +6993,7 @@ appellor
 appellors
 appels
 append
+appendage
 appendages
 appendant
 appendants
@@ -9190,6 +9192,7 @@ attar
 attars
 attemper
 attempered
+attempering
 attempers
 attempt
 attemptable
@@ -19772,6 +19775,7 @@ burls
 burly
 burn
 burnable
+burnables
 burned
 burner
 burners
@@ -39980,6 +39984,7 @@ deplored
 deplorer
 deplorers
 deplores
+deploring
 deploringly
 deploy
 deployable
@@ -42923,6 +42928,7 @@ discomfortable
 discomforted
 discomforting
 discomforts
+discommend
 discommended
 discommending
 discommends
@@ -47516,6 +47522,7 @@ ecraseur
 ecraseurs
 ecru
 ecrus
+ecstasies
 ecstasy
 ecstatic
 ecstatically
@@ -55613,6 +55620,7 @@ felstones
 felt
 felted
 felting
+feltings
 feltlike
 felts
 felucca
@@ -65932,6 +65940,7 @@ grigs
 grill
 grillade
 grillades
+grillage
 grillages
 grille
 grilled
@@ -69270,6 +69279,7 @@ held
 heldentenor
 heldentenors
 heliac
+heliacal
 heliacally
 heliast
 heliasts
@@ -77030,6 +77040,7 @@ inimically
 inimitable
 inimitableness
 inimitably
+inion
 inions
 iniquities
 iniquitous
@@ -83505,6 +83516,7 @@ labdanum
 labdanums
 label
 labelable
+labeled
 labeler
 labelers
 labeling
@@ -84647,6 +84659,7 @@ lattin
 lattins
 latu
 lauan
+lauans
 laud
 laudable
 laudableness
@@ -85689,6 +85702,7 @@ leukemoid
 leukocyte
 leukocytes
 leukocytic
+leukocytoses
 leukocytosis
 leukodystrophy
 leukoma
@@ -87109,6 +87123,7 @@ livyer
 livyers
 lixivia
 lixivial
+lixiviate
 lixiviated
 lixiviates
 lixiviating
@@ -87872,6 +87887,7 @@ losel
 losels
 loser
 losers
+loses
 losing
 losingly
 losings
@@ -88385,6 +88401,7 @@ lungans
 lunge
 lunged
 lungee
+lungees
 lunger
 lungers
 lunges
@@ -100633,6 +100650,7 @@ nizam
 nizamate
 nizamates
 nizams
+no
 nob
 nobbier
 nobbiest
@@ -103369,6 +103387,7 @@ obsecrated
 obsecrates
 obsecrating
 obsequies
+obsequious
 obsequiously
 obsequiousness
 obsequy
@@ -104895,6 +104914,7 @@ oralist
 oralists
 oralities
 orality
+orally
 orals
 orang
 orange
@@ -106760,6 +106780,7 @@ outseen
 outsees
 outsell
 outselling
+outsells
 outsert
 outserts
 outserve
@@ -109489,6 +109510,7 @@ palea
 paleae
 paleal
 paleate
+paled
 paleface
 palefaces
 palely
@@ -120953,6 +120975,7 @@ primped
 primping
 primps
 primrose
+primroses
 prims
 primsie
 primula
@@ -130158,6 +130181,7 @@ remotivation
 remotivations
 remoulade
 remoulades
+remount
 remounted
 remounting
 remounts
@@ -132028,6 +132052,7 @@ resupplied
 resupplies
 resupply
 resupplying
+resurface
 resurfaced
 resurfacer
 resurfacers
@@ -132254,6 +132279,7 @@ retile
 retiled
 retiles
 retiling
+retime
 retimed
 retimes
 retiming
@@ -132574,6 +132600,7 @@ reusabilities
 reusability
 reusable
 reusables
+reuse
 reused
 reuses
 reusing
@@ -137007,6 +137034,7 @@ sayers
 sayest
 sayid
 sayids
+saying
 sayings
 sayonara
 sayonaras
@@ -140573,6 +140601,7 @@ shahs
 shaird
 shairds
 shairn
+shairns
 shaitan
 shaitans
 shakable
@@ -143399,6 +143428,7 @@ skyjacking
 skyjackings
 skyjacks
 skylark
+skylarked
 skylarker
 skylarkers
 skylarking
@@ -146236,6 +146266,7 @@ southwests
 southwestward
 southwestwards
 souvenir
+souvenirs
 souvlaki
 souvlakia
 souvlakias
@@ -151103,6 +151134,7 @@ subcode
 subcodes
 subcollection
 subcollections
+subcollege
 subcollegiate
 subcolonies
 subcolony
@@ -166927,6 +166959,7 @@ unmodish
 unmold
 unmolded
 unmolding
+unmolds
 unmolested
 unmolten
 unmonitored
@@ -171606,6 +171639,7 @@ volcanologist
 volcanologists
 volcanology
 volcanos
+vole
 voled
 voleries
 volery
@@ -175741,6 +175775,7 @@ writes
 writhe
 writhed
 writhen
+writher
 writhers
 writhes
 writhing
