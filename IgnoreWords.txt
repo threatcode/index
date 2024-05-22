@@ -2843,6 +2843,7 @@ airport
 airports
 airpost
 airposts
+airpower
 airpowers
 airproof
 airproofed
@@ -7286,6 +7287,7 @@ aquaculturists
 aquae
 aquafarm
 aquafarmed
+aquafarming
 aquafarms
 aqualung
 aqualungs
@@ -14863,6 +14865,7 @@ biometricians
 biometrics
 biometries
 biometry
+biomimetic
 biomimetics
 biomolecular
 biomolecule
@@ -26802,6 +26805,7 @@ cladism
 cladisms
 cladist
 cladistic
+cladistically
 cladistics
 cladists
 cladoceran
@@ -29975,6 +29979,7 @@ complaisances
 complaisant
 complaisantly
 compleat
+complect
 complected
 complecting
 complects
@@ -30305,6 +30310,7 @@ concentered
 concentering
 concenters
 concentrate
+concentrated
 concentratedly
 concentrates
 concentrating
@@ -37520,6 +37526,7 @@ deacidification
 deacidified
 deacidifies
 deacidify
+deacidifying
 deacon
 deaconed
 deaconess
@@ -40308,6 +40315,7 @@ derivatizes
 derivatizing
 derive
 derived
+deriver
 derivers
 derives
 deriving
@@ -40429,6 +40437,7 @@ descrier
 descriers
 descries
 description
+descriptions
 descriptive
 descriptively
 descriptiveness
@@ -58409,6 +58418,7 @@ flyer
 flyers
 flying
 flyings
+flyleaf
 flyleaves
 flyless
 flyman
@@ -59445,6 +59455,7 @@ formate
 formates
 formation
 formations
+formative
 formatively
 formatives
 formats
@@ -70909,6 +70920,7 @@ hodden
 hoddens
 hoddin
 hoddins
+hodgepodge
 hodgepodges
 hodoscope
 hodoscopes
@@ -73804,6 +73816,7 @@ id
 idea
 ideal
 idealess
+idealise
 idealised
 idealises
 idealising
@@ -74211,6 +74224,7 @@ illustration
 illustrational
 illustrations
 illustrative
+illustrator
 illustrators
 illustrious
 illustriously
@@ -75276,6 +75290,7 @@ in
 inabilities
 inability
 inaccessibility
+inaccessibly
 inaccuracies
 inaccuracy
 inaccurate
@@ -78103,6 +78118,7 @@ interchain
 interchange
 interchangeable
 interchangeably
+interchanged
 interchanger
 interchangers
 interchanges
@@ -82041,6 +82057,7 @@ kayaker
 kayakers
 kayaking
 kayakings
+kayaks
 kayles
 kayo
 kayoed
@@ -82618,6 +82635,7 @@ killingly
 killings
 killjoy
 killjoys
+killock
 killocks
 kills
 kiln
@@ -97940,6 +97958,7 @@ multivitamins
 multivoltine
 multiwall
 multiwarhead
+multiwavelength
 multiyear
 multure
 multures
@@ -103724,6 +103743,7 @@ oceanographical
 oceanographies
 oceanography
 oceanologies
+oceanologist
 oceanologists
 oceanology
 oceans
@@ -105656,6 +105676,7 @@ osteoids
 osteological
 osteologies
 osteologist
+osteologists
 osteology
 osteoma
 osteomalacia
@@ -113649,6 +113670,7 @@ pettifoggery
 pettifogging
 pettifoggings
 pettifogs
+pettily
 pettiness
 pettinesses
 petting
@@ -114965,6 +114987,7 @@ piddlers
 piddles
 piddling
 piddly
+piddock
 piddocks
 pidgin
 pidginization
@@ -116625,6 +116648,7 @@ plicately
 plication
 plications
 plicature
+plicatures
 plie
 plied
 plier
@@ -128093,6 +128117,7 @@ redlines
 redlining
 redlinings
 redly
+redneck
 rednecked
 rednecks
 redness
@@ -131386,6 +131411,7 @@ rescindment
 rescindments
 rescinds
 rescission
+rescissions
 rescissory
 rescore
 rescored
@@ -132406,6 +132432,7 @@ retinene
 retinenes
 retines
 retinite
+retinites
 retinitides
 retinitis
 retinitises
@@ -137137,6 +137164,7 @@ saxophone
 saxophones
 saxophonic
 saxophonist
+saxophonists
 saxtuba
 saxtubas
 say
@@ -140963,6 +140991,7 @@ shashlicks
 shashlik
 shashliks
 shaslik
+shasliks
 shat
 shatter
 shattered
@@ -161990,6 +162019,7 @@ trichoses
 trichosis
 trichothecene
 trichothecenes
+trichotomies
 trichotomous
 trichotomously
 trichotomy
@@ -162184,6 +162214,7 @@ trilby
 trilinear
 trilingual
 trilingually
+triliteral
 triliteralism
 triliteralisms
 triliterals
@@ -170838,6 +170869,7 @@ vicegerency
 vicegerent
 vicegerents
 viceless
+vicenary
 vicennial
 viceregal
 viceregally
@@ -170865,6 +170897,7 @@ viciously
 viciousness
 viciousnesses
 vicissitude
+vicissitudes
 vicissitudinous
 vicomte
 vicomtes
@@ -172934,6 +172967,7 @@ watercolorist
 watercolorists
 watercolors
 watercooler
+watercoolers
 watercourse
 watercourses
 watercraft
@@ -176130,6 +176164,7 @@ xylitols
 xylocarp
 xylocarps
 xylograph
+xylographed
 xylographer
 xylographers
 xylographic
