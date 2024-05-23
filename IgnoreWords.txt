@@ -1238,6 +1238,7 @@ addable
 addax
 addaxes
 addedly
+addend
 addenda
 addends
 addendum
@@ -8314,6 +8315,7 @@ ascents
 ascertain
 ascertainable
 ascertained
+ascertaining
 ascertainment
 ascertainments
 ascertains
@@ -21521,6 +21523,7 @@ canonise
 canonised
 canonises
 canonising
+canonist
 canonists
 canonization
 canonizations
@@ -22117,6 +22120,7 @@ carburetting
 carburettor
 carburettors
 carburise
+carburised
 carburises
 carburising
 carburization
@@ -23130,6 +23134,7 @@ catfaces
 catfacing
 catfacings
 catfall
+catfalls
 catfight
 catfights
 catfish
@@ -25508,6 +25513,7 @@ chiropterans
 chiropters
 chiros
 chirp
+chirped
 chirper
 chirpers
 chirpier
@@ -27237,6 +27243,7 @@ cleidoic
 cleistogamic
 cleistogamies
 cleistogamous
+cleistogamously
 cleistogamy
 clematis
 clematises
@@ -29327,6 +29334,7 @@ colubrine
 colugo
 colugos
 columbaria
+columbaries
 columbarium
 columbary
 columbic
@@ -30906,6 +30914,7 @@ confutations
 confutative
 confute
 confuted
+confuter
 confuters
 confutes
 confuting
@@ -34590,6 +34599,7 @@ crenelating
 crenelation
 crenelations
 creneled
+creneling
 crenellated
 crenellation
 crenellations
@@ -36723,6 +36733,7 @@ cytogenetically
 cytogeneticist
 cytogeneticists
 cytogenetics
+cytogenies
 cytogeny
 cytokine
 cytokines
@@ -44477,6 +44488,7 @@ diviner
 diviners
 divines
 divinest
+diving
 divining
 divinise
 divinised
@@ -45735,6 +45747,7 @@ draftiest
 draftily
 draftiness
 draftinesses
+drafting
 draftings
 drafts
 draftsman
@@ -47293,6 +47306,7 @@ earthshines
 earthstar
 earthstars
 earthward
+earthwards
 earthwork
 earthworks
 earthworm
@@ -49997,6 +50011,7 @@ engulfed
 engulfing
 engulfment
 engulfments
+engulfs
 enhalo
 enhaloed
 enhaloes
@@ -61816,6 +61831,7 @@ gambe
 gambes
 gambeson
 gambesons
+gambia
 gambias
 gambier
 gambiers
@@ -62476,6 +62492,7 @@ gavelkind
 gavelkinds
 gavelled
 gavelling
+gavelock
 gavelocks
 gavels
 gavial
@@ -65219,6 +65236,7 @@ gracilenesses
 graciles
 gracilis
 gracilities
+gracility
 gracing
 gracioso
 graciosos
@@ -70999,6 +71017,7 @@ hogmenays
 hognose
 hognoses
 hognut
+hognuts
 hogs
 hogshead
 hogsheads
@@ -74881,6 +74900,7 @@ imperiousness
 imperiousnesses
 imperishability
 imperishable
+imperishables
 imperishably
 imperium
 imperiums
@@ -78137,6 +78157,7 @@ intercell
 intercellular
 intercensal
 intercept
+intercepted
 intercepter
 intercepters
 intercepting
@@ -79097,6 +79118,7 @@ introgressant
 introgressants
 introgression
 introgressions
+introgressive
 introit
 introits
 introject
@@ -79305,6 +79327,7 @@ inventer
 inventers
 inventing
 invention
+inventions
 inventive
 inventively
 inventiveness
@@ -80837,6 +80860,7 @@ jeremiad
 jeremiads
 jerid
 jerids
+jerk
 jerked
 jerker
 jerkers
@@ -89008,6 +89032,7 @@ machismos
 macho
 machoism
 machoisms
+machos
 machree
 machrees
 machs
@@ -92988,6 +93013,7 @@ metricized
 metricizes
 metricizing
 metrics
+metrified
 metrifies
 metrify
 metrifying
@@ -94086,6 +94112,7 @@ miniaturize
 miniaturized
 miniaturizes
 miniaturizing
+minibar
 minibars
 minibike
 minibiker
@@ -95708,6 +95735,7 @@ mobilises
 mobilising
 mobilities
 mobility
+mobilization
 mobilizations
 mobilize
 mobilized
@@ -96079,6 +96107,7 @@ momisms
 momma
 mommas
 mommies
+mommy
 moms
 momser
 momsers
@@ -96453,6 +96482,7 @@ mononuclear
 mononuclears
 mononucleate
 mononucleated
+mononucleoses
 mononucleosis
 mononucleotide
 mononucleotides
@@ -99189,6 +99219,7 @@ nastiest
 nastily
 nastiness
 nastinesses
+nasturtium
 nasturtiums
 nasty
 natal
@@ -99380,6 +99411,7 @@ nawabs
 nay
 nays
 naysaid
+naysay
 naysayer
 naysayers
 naysaying
@@ -100909,6 +100941,7 @@ noily
 noir
 noirish
 noirs
+noise
 noised
 noiseless
 noiselessly
@@ -102527,6 +102560,7 @@ norlands
 norm
 normal
 normalcies
+normalcy
 normalise
 normalised
 normalises
@@ -103364,6 +103398,7 @@ obfuscate
 obfuscated
 obfuscates
 obfuscating
+obfuscation
 obfuscations
 obfuscatory
 obi
@@ -106377,6 +106412,7 @@ outgambles
 outgambling
 outgas
 outgassed
+outgasses
 outgassing
 outgave
 outgaze
@@ -123422,6 +123458,7 @@ pulques
 puls
 pulsant
 pulsar
+pulsars
 pulsate
 pulsated
 pulsates
@@ -124082,6 +124119,7 @@ pyloric
 pylorus
 pyloruses
 pyoderma
+pyodermas
 pyodermic
 pyogenic
 pyoid
@@ -130963,6 +131001,7 @@ repolarization
 repolarizations
 repolarize
 repolarized
+repolarizes
 repolarizing
 repolish
 repolished
@@ -132414,6 +132453,7 @@ retentivities
 retentivity
 retest
 retested
+retestified
 retestifies
 retestify
 retestifying
@@ -132579,6 +132619,7 @@ retracked
 retracking
 retracks
 retract
+retractable
 retracted
 retractile
 retractilities
@@ -138064,6 +138105,7 @@ scold
 scolded
 scolder
 scolders
+scolding
 scoldings
 scolds
 scoleces
@@ -139994,6 +140036,7 @@ sensualizations
 sensualize
 sensualized
 sensualizes
+sensualizing
 sensually
 sensum
 sensuosities
@@ -140872,6 +140915,7 @@ shamans
 shamas
 shamble
 shambled
+shambles
 shambling
 shambolic
 shame
@@ -143245,6 +143289,7 @@ skanks
 skanky
 skas
 skat
+skate
 skateboard
 skateboarder
 skateboarders
@@ -143967,6 +144012,7 @@ sleigh
 sleighed
 sleigher
 sleighers
+sleighing
 sleighs
 sleight
 sleights
@@ -144204,6 +144250,7 @@ sloganeered
 sloganeering
 sloganeers
 sloganize
+sloganized
 sloganizes
 sloganizing
 slogans
@@ -144939,6 +144986,7 @@ snick
 snicked
 snicker
 snickered
+snickerer
 snickerers
 snickering
 snickers
@@ -145841,6 +145889,7 @@ solstice
 solstices
 solstitial
 solubilise
+solubilised
 solubilises
 solubilising
 solubilities
@@ -175219,6 +175268,7 @@ witness
 witnessed
 witnesser
 witnessers
+witnesses
 witnessing
 witney
 witneys
