@@ -167,6 +167,7 @@ absorbents
 absorber
 absorbers
 absorbing
+absorbingly
 absorbs
 absorptance
 absorptances
@@ -12210,6 +12211,7 @@ batwing
 baubee
 baubees
 bauble
+baubles
 baud
 baudekin
 baudekins
@@ -14195,6 +14197,7 @@ bibliographer
 bibliographers
 bibliographic
 bibliographical
+bibliographies
 bibliography
 bibliolater
 bibliolaters
@@ -17619,6 +17622,7 @@ bowings
 bowknot
 bowknots
 bowl
+bowlder
 bowlders
 bowled
 bowleg
@@ -28122,6 +28126,7 @@ coccids
 coccoid
 coccoidal
 coccoids
+coccolith
 coccoliths
 coccous
 coccus
@@ -28664,6 +28669,7 @@ cognomen
 cognomens
 cognomina
 cognominal
+cognoscente
 cognoscenti
 cognoscible
 cognovit
@@ -28985,6 +28991,7 @@ collards
 collared
 collaret
 collarets
+collaring
 collarless
 collars
 collate
@@ -29238,6 +29245,7 @@ colonnades
 colons
 colonus
 colony
+colophon
 colophonies
 colophons
 colophony
@@ -30732,6 +30740,7 @@ confederating
 confederation
 confederations
 confederative
+confer
 conferee
 conferees
 conference
@@ -34220,6 +34229,7 @@ crags
 cragsman
 cragsmen
 crake
+crakes
 cram
 crambe
 crambes
@@ -34742,6 +34752,7 @@ crewnecks
 crews
 crib
 cribbage
+cribbages
 cribbed
 cribber
 cribbers
@@ -36016,6 +36027,7 @@ curers
 cures
 curet
 curets
+curettage
 curettages
 curette
 curetted
@@ -48626,6 +48638,7 @@ elute
 eluted
 elutes
 eluting
+elution
 elutions
 elutriate
 elutriated
@@ -64006,6 +64019,7 @@ gleams
 gleamy
 glean
 gleanable
+gleaned
 gleaner
 gleaners
 gleaning
@@ -67620,6 +67634,7 @@ hairpiece
 hairpieces
 hairpin
 hairpins
+hairs
 hairsbreadth
 hairsbreadths
 hairsplitter
@@ -73268,6 +73283,7 @@ hypercapnic
 hypercatabolism
 hypercatalectic
 hypercatalexes
+hypercatalexis
 hypercautious
 hypercharge
 hypercharged
@@ -80214,6 +80230,7 @@ isothere
 isotheres
 isotherm
 isothermal
+isothermally
 isotherms
 isotone
 isotones
@@ -86239,6 +86256,7 @@ licht
 lichted
 lichting
 lichtly
+lichts
 licit
 licitly
 licitness
@@ -90430,6 +90448,7 @@ marauds
 maravedi
 maravedis
 marbelize
+marbelized
 marbelizes
 marbelizing
 marble
@@ -90498,6 +90517,7 @@ margays
 marge
 margent
 margented
+margenting
 margents
 marges
 margin
@@ -109460,6 +109480,7 @@ packeting
 packets
 packhorse
 packhorses
+packing
 packinghouse
 packinghouses
 packings
@@ -112026,6 +112047,7 @@ peckerwoods
 peckier
 peckiest
 pecking
+peckish
 peckishly
 pecks
 pecky
@@ -112284,6 +112306,7 @@ peglegged
 pegless
 peglike
 pegmatite
+pegmatites
 pegmatitic
 pegs
 peh
@@ -119371,6 +119394,7 @@ prebooked
 prebooking
 prebooks
 preboom
+prebought
 prebound
 prebreakfast
 prebudget
@@ -120744,6 +120768,7 @@ pressman
 pressmark
 pressmarks
 pressmen
+pressor
 pressors
 pressroom
 pressrooms
@@ -127389,6 +127414,7 @@ recirculates
 recirculating
 recirculation
 recirculations
+recision
 recisions
 recit
 recitalist
@@ -128568,6 +128594,7 @@ reenacted
 reenacting
 reenactment
 reenactments
+reenactor
 reenactors
 reenacts
 reencounter
@@ -129643,6 +129670,7 @@ reinforced
 reinforcement
 reinforcements
 reinforcer
+reinforcers
 reinforces
 reinforcing
 reinform
@@ -133487,6 +133515,7 @@ rhizobium
 rhizoctonia
 rhizoctonias
 rhizoid
+rhizoidal
 rhizoids
 rhizoma
 rhizomata
@@ -134063,6 +134092,7 @@ ripens
 riper
 ripes
 ripest
+ripieni
 ripieno
 ripienos
 riping
@@ -142580,6 +142610,7 @@ sieving
 sifaka
 sifakas
 siffleur
+siffleurs
 sift
 sifted
 sifter
@@ -144805,6 +144836,7 @@ smooths
 smoothy
 smorgasbord
 smorgasbords
+smote
 smother
 smothered
 smotherer
@@ -144861,6 +144893,7 @@ smutting
 smutty
 snack
 snacked
+snacker
 snackers
 snacking
 snacks
@@ -154933,6 +154966,7 @@ symphonious
 symphoniously
 symphonist
 symphonists
+symphony
 symphyseal
 symphyses
 symphysial
@@ -172077,6 +172111,7 @@ voluntarily
 voluntariness
 voluntarinesses
 voluntarism
+voluntarisms
 voluntarist
 voluntaristic
 voluntarists
