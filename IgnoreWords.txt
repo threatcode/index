@@ -502,6 +502,7 @@ accommodates
 accommodating
 accommodatingly
 accommodation
+accommodational
 accommodations
 accommodative
 accommodator
@@ -2161,6 +2162,7 @@ afflicting
 affliction
 afflictions
 afflictive
+afflictively
 afflicts
 affluence
 affluences
@@ -4033,6 +4035,7 @@ amaurotic
 amaze
 amazed
 amazedly
+amazement
 amazements
 amazes
 amazing
@@ -7342,6 +7345,7 @@ aqueduct
 aqueducts
 aqueous
 aqueously
+aquiculture
 aquicultures
 aquifer
 aquiferous
@@ -9485,6 +9489,7 @@ augurs
 augury
 august
 auguster
+augustest
 augustly
 augustness
 augustnesses
@@ -12545,6 +12550,7 @@ bechance
 bechanced
 bechances
 bechancing
+becharm
 becharmed
 becharming
 becharms
@@ -46691,6 +46697,7 @@ dulnesses
 dulse
 dulses
 duly
+duma
 dumas
 dumb
 dumbbell
@@ -47424,6 +47431,7 @@ eaux
 eave
 eaved
 eaves
+eavesdrop
 eavesdropped
 eavesdropper
 eavesdroppers
@@ -47755,6 +47763,7 @@ edged
 edgeless
 edger
 edgers
+edges
 edgeways
 edgewise
 edgier
@@ -56625,6 +56634,7 @@ filiated
 filiates
 filiating
 filiation
+filiations
 filibeg
 filibegs
 filibuster
@@ -62695,6 +62705,7 @@ geepound
 geepounds
 gees
 geese
+geest
 geests
 geez
 geezer
@@ -63427,6 +63438,7 @@ ghostlinesses
 ghostly
 ghosts
 ghostwrite
+ghostwriter
 ghostwriters
 ghostwrites
 ghostwriting
@@ -69660,6 +69672,7 @@ hemacytometers
 hemagglutinate
 hemagglutinated
 hemagglutinates
+hemagglutinin
 hemagglutinins
 hemagog
 hemagogs
@@ -70264,6 +70277,7 @@ heterogeneous
 heterogeneously
 heterogenies
 heterogenous
+heterogeny
 heterogonic
 heterogonies
 heterogony
@@ -70848,6 +70862,7 @@ histiocytic
 histochemical
 histochemically
 histochemistry
+histogen
 histogeneses
 histogenesis
 histogenetic
@@ -73889,6 +73904,7 @@ icicles
 icier
 iciest
 icily
+iciness
 icinesses
 icing
 icings
@@ -79079,6 +79095,7 @@ intoxication
 intoxications
 intracardiac
 intracardial
+intracardially
 intracellular
 intracellularly
 intracerebral
@@ -86374,6 +86391,7 @@ lifelikeness
 lifelikenesses
 lifeline
 lifelines
+lifelong
 lifemanship
 lifemanships
 lifer
@@ -90763,6 +90781,7 @@ marry
 marrying
 mars
 marsala
+marsalas
 marse
 marseille
 marseilles
@@ -91667,6 +91686,7 @@ mediacies
 mediacy
 mediad
 mediae
+mediaeval
 mediaevals
 mediagenic
 medial
@@ -92890,6 +92910,7 @@ metasomatisms
 metastabilities
 metastability
 metastable
+metastably
 metastases
 metastasis
 metastasize
@@ -94647,6 +94668,7 @@ miscaptioned
 miscaptioning
 miscaptions
 miscarriage
+miscarriages
 miscarried
 miscarries
 miscarry
@@ -99126,6 +99148,7 @@ nanotesla
 nanoteslas
 nanotube
 nanotubes
+nanowatt
 nanowatts
 nans
 naoi
@@ -104694,6 +104717,7 @@ oneness
 onenesses
 onerier
 oneriest
+onerous
 onerously
 onerousness
 onerousnesses
@@ -110716,6 +110740,7 @@ paranoias
 paranoic
 paranoically
 paranoics
+paranoid
 paranoidal
 paranoids
 paranormal
@@ -111591,6 +111616,7 @@ paternity
 paternoster
 paternosters
 paters
+pates
 path
 pathbreaking
 pathetic
@@ -131937,6 +131963,7 @@ resinified
 resinifies
 resinify
 resinifying
+resining
 resinlike
 resinoid
 resinoids
@@ -140471,6 +140498,7 @@ serialisms
 serialist
 serialists
 serialization
+serializations
 serialize
 serialized
 serializes
@@ -144724,6 +144752,7 @@ smearcases
 smeared
 smearer
 smearers
+smearier
 smeariest
 smearing
 smears
@@ -146908,6 +146937,7 @@ sparely
 spareness
 sparenesses
 sparer
+sparerib
 spareribs
 sparers
 spares
@@ -148666,6 +148696,7 @@ squinting
 squintingly
 squints
 squinty
+squirarchies
 squirarchy
 squire
 squirearchies
@@ -149814,6 +149845,7 @@ stewing
 stewpan
 stewpans
 stews
+stewy
 stey
 sthenia
 sthenias
@@ -151417,6 +151449,7 @@ suavely
 suaveness
 suavenesses
 suaver
+suavest
 suavities
 suavity
 sub
@@ -154359,6 +154392,7 @@ swamping
 swampish
 swampland
 swamplands
+swamps
 swampy
 swamy
 swan
@@ -158586,6 +158620,7 @@ thieves
 thieving
 thievish
 thievishly
+thievishness
 thievishnesses
 thigh
 thighbone
