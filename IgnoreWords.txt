@@ -10204,6 +10204,7 @@ awnings
 awnless
 awns
 awny
+awoke
 awoken
 awol
 awols
@@ -15102,6 +15103,7 @@ birdlimes
 birdliming
 birdman
 birdmen
+birds
 birdseed
 birdseeds
 birdseye
@@ -23860,6 +23862,7 @@ century
 ceorl
 ceorlish
 ceorls
+cep
 cepe
 cepes
 cephalad
@@ -24422,6 +24425,7 @@ chant
 chantable
 chantage
 chantages
+chanted
 chanter
 chanterelle
 chanterelles
@@ -30937,6 +30941,7 @@ confusedness
 confusednesses
 confuses
 confusing
+confusingly
 confusion
 confusional
 confusions
@@ -37148,6 +37153,7 @@ damping
 dampings
 dampish
 damply
+dampness
 dampnesses
 damps
 dams
@@ -45271,6 +45277,7 @@ doppelganger
 doppelgangers
 dopy
 dor
+dorado
 dorados
 dorbeetle
 dorbeetles
@@ -48732,6 +48739,7 @@ embalms
 embank
 embanked
 embanking
+embankment
 embankments
 embanks
 embar
@@ -53050,6 +53058,7 @@ excoriations
 excrement
 excremental
 excrementitious
+excrements
 excrescence
 excrescences
 excrescencies
@@ -54329,6 +54338,7 @@ eyeshots
 eyesight
 eyesights
 eyesome
+eyesore
 eyesores
 eyespot
 eyespots
@@ -63298,6 +63308,7 @@ gestapos
 gestate
 gestated
 gestates
+gestating
 gestation
 gestational
 gestations
@@ -70413,6 +70424,7 @@ heydeys
 hi
 hiatal
 hiatus
+hiatuses
 hibachi
 hibachis
 hibakusha
@@ -73647,6 +73659,7 @@ hypokalemia
 hypokalemias
 hypokalemic
 hypolimnia
+hypolimnion
 hypomagnesemia
 hypomagnesemias
 hypomania
@@ -82809,6 +82822,7 @@ kilometer
 kilometers
 kilometre
 kilometres
+kilomole
 kilomoles
 kiloparsec
 kiloparsecs
@@ -82840,6 +82854,7 @@ kimchee
 kimchees
 kimchi
 kimchis
+kimono
 kimonoed
 kimonos
 kin
@@ -88823,6 +88838,7 @@ luv
 luvs
 lux
 luxate
+luxated
 luxates
 luxating
 luxation
@@ -90537,6 +90553,7 @@ margents
 marges
 margin
 marginal
+marginalia
 marginalities
 marginality
 marginalization
@@ -93675,6 +93692,7 @@ midsoles
 midspace
 midspaces
 midst
+midstories
 midstory
 midstream
 midstreams
@@ -100956,6 +100974,7 @@ nocking
 nocks
 noctambulist
 noctambulists
+noctiluca
 noctilucas
 noctuid
 noctuids
@@ -102149,6 +102168,7 @@ nonpersistent
 nonperson
 nonpersonal
 nonpersons
+nonpetroleum
 nonphilosopher
 nonphilosophers
 nonphonemic
@@ -104552,6 +104572,7 @@ omega
 omegas
 omelet
 omelets
+omelette
 omelettes
 omen
 omened
@@ -107452,6 +107473,7 @@ outyelled
 outyelling
 outyells
 outyelp
+outyelped
 outyelping
 outyelps
 outyield
@@ -117688,6 +117710,7 @@ polyclinic
 polyclinics
 polyclonal
 polycot
+polycots
 polycrystal
 polycrystalline
 polycrystals
@@ -122994,6 +123017,7 @@ prussiate
 prussiates
 prussic
 pruta
+prutah
 prutot
 prutoth
 pry
@@ -124194,6 +124218,7 @@ pyelonephritis
 pyemia
 pyemias
 pyemic
+pyes
 pygidia
 pygidial
 pygidium
@@ -126035,6 +126060,7 @@ ranking
 rankings
 rankish
 rankle
+rankled
 rankles
 rankless
 rankling
@@ -128323,6 +128349,7 @@ rednecked
 rednecks
 redness
 rednesses
+redo
 redock
 redocked
 redocking
@@ -142826,6 +142853,7 @@ silicifies
 silicify
 silicifying
 silicious
+silicium
 siliciums
 silicle
 silicles
@@ -153170,6 +153198,7 @@ superabsorbent
 superabsorbents
 superabundance
 superabundances
+superabundant
 superabundantly
 superachiever
 superachievers
@@ -154659,6 +154688,7 @@ swipples
 swirl
 swirled
 swirlier
+swirliest
 swirling
 swirlingly
 swirls
@@ -165255,6 +165285,7 @@ unchaining
 unchains
 unchair
 unchaired
+unchairing
 unchairs
 unchallengeable
 unchallenged
@@ -172127,6 +172158,7 @@ volubility
 voluble
 volubleness
 volublenesses
+volubly
 volume
 volumed
 volumes
@@ -174983,6 +175015,7 @@ windflaws
 windflower
 windflowers
 windgall
+windgalls
 windhover
 windhovers
 windier
@@ -176508,6 +176541,7 @@ yah
 yahoo
 yahooism
 yahooisms
+yahoos
 yahrzeit
 yahrzeits
 yaird
@@ -177165,6 +177199,7 @@ zeatin
 zeatins
 zebec
 zebeck
+zebecks
 zebecs
 zebra
 zebrafish
