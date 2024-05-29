@@ -1242,6 +1242,7 @@ add
 addable
 addax
 addaxes
+added
 addedly
 addend
 addenda
@@ -10116,6 +10117,7 @@ avouchments
 avow
 avowable
 avowably
+avowal
 avowals
 avowed
 avowedly
@@ -15356,6 +15358,7 @@ biyearly
 biz
 bizarre
 bizarrely
+bizarreness
 bizarrenesses
 bizarrerie
 bizarreries
@@ -18621,6 +18624,7 @@ broached
 broacher
 broachers
 broaches
+broaching
 broad
 broadax
 broadaxe
@@ -24055,6 +24059,7 @@ cervixes
 cesarean
 cesareans
 cesarian
+cesarians
 cesium
 cesiums
 cespitose
@@ -25975,6 +25980,7 @@ chouser
 chousers
 chouses
 choush
+choushes
 chousing
 chow
 chowchow
@@ -33111,6 +33117,7 @@ corvinas
 corvine
 cory
 corybant
+corybantes
 corybantic
 corybants
 corydalis
@@ -46042,6 +46049,7 @@ dreams
 dreamt
 dreamtime
 dreamtimes
+dreamworld
 dreamworlds
 dreamy
 drear
@@ -52338,6 +52346,7 @@ eugenicist
 eugenicists
 eugenics
 eugenist
+eugenists
 eugenol
 eugenols
 eugeosynclinal
@@ -58950,6 +58959,7 @@ footled
 footler
 footlers
 footles
+footless
 footlessly
 footlessness
 footlessnesses
@@ -64716,6 +64726,7 @@ gobies
 gobioid
 gobioids
 goblet
+goblets
 goblin
 goblins
 gobo
@@ -68863,6 +68874,7 @@ hawkey
 hawkeyed
 hawkeys
 hawkie
+hawkies
 hawkings
 hawkish
 hawkishly
@@ -78692,6 +78704,7 @@ internalizes
 internalizing
 internally
 internals
+international
 internationally
 internationals
 interne
@@ -80016,6 +80029,7 @@ irritations
 irritative
 irritator
 irritators
+irrotational
 irrupt
 irrupted
 irrupting
@@ -83795,6 +83809,7 @@ labellate
 labelled
 labeller
 labellers
+labelling
 labelloid
 labellum
 labels
@@ -86589,6 +86604,7 @@ lilliput
 lilliputian
 lilliputians
 lilliputs
+lilo
 lilos
 lilt
 lilted
@@ -89217,6 +89233,7 @@ macrogamete
 macrogametes
 macroglobulin
 macroglobulins
+macromere
 macromeres
 macromole
 macromolecular
@@ -95481,6 +95498,7 @@ misshaper
 misshapers
 misshapes
 misshaping
+misshod
 missies
 missile
 missileer
@@ -95716,6 +95734,7 @@ misuses
 misusing
 misutilization
 misutilizations
+misvalue
 misvalued
 misvalues
 misvaluing
@@ -107734,6 +107753,7 @@ overbrowsing
 overbrutal
 overbuild
 overbuilding
+overbuilds
 overbuilt
 overburden
 overburdened
@@ -109488,6 +109508,7 @@ pacer
 pacers
 paces
 pacesetter
+pacesetters
 pacesetting
 pacey
 pacha
@@ -113054,6 +113075,7 @@ pereiopods
 peremptorily
 peremptoriness
 peremptory
+perennate
 perennated
 perennates
 perennating
@@ -116549,6 +116571,7 @@ platform
 platforms
 platier
 platies
+platiest
 platina
 platinas
 plating
@@ -123019,6 +123042,7 @@ prudent
 prudential
 prudentially
 prudently
+pruderies
 prudery
 prudes
 prudish
@@ -124779,6 +124803,7 @@ quart
 quartan
 quartans
 quarte
+quarter
 quarterage
 quarterages
 quarterback
@@ -126252,6 +126277,7 @@ rarifying
 raring
 rarities
 rarity
+ras
 rasbora
 rasboras
 rascal
@@ -137399,6 +137425,7 @@ savourer
 savourers
 savourier
 savouries
+savouriest
 savouring
 savours
 savoury
@@ -143547,6 +143574,7 @@ skeleton
 skeletonic
 skeletonise
 skeletonised
+skeletonises
 skeletonising
 skeletonize
 skeletonized
@@ -146331,6 +146359,7 @@ sonority
 sonorous
 sonorously
 sonorousness
+sonorousnesses
 sonovox
 sonovoxes
 sons
@@ -161255,6 +161284,7 @@ traditionalized
 traditionalizes
 traditionally
 traditionary
+traditionless
 traditions
 traditive
 traditor
@@ -165752,6 +165782,7 @@ uncustomarily
 uncustomary
 uncut
 uncute
+uncynical
 uncynically
 undamaged
 undamped
@@ -168627,6 +168658,7 @@ unusually
 unusualness
 unusualnesses
 unutilized
+unutterable
 unutterably
 unvaccinated
 unvalued
@@ -169755,6 +169787,7 @@ vagility
 vaginae
 vaginal
 vaginally
+vaginas
 vaginate
 vaginated
 vaginismus
@@ -175563,6 +175596,7 @@ wizening
 wizens
 wizes
 wizzen
+wizzens
 wizzes
 wo
 woad
@@ -175948,6 +175982,7 @@ wordsmitheries
 wordsmithery
 wordsmiths
 wordy
+wore
 work
 workabilities
 workability
