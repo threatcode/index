@@ -5678,6 +5678,7 @@ anteing
 antelope
 antelopes
 antemortem
+antenatal
 antenatally
 antenna
 antennae
@@ -7174,6 +7175,7 @@ appreciatively
 appreciator
 appreciators
 appreciatory
+apprehend
 apprehended
 apprehending
 apprehends
@@ -14917,6 +14919,7 @@ bionomists
 bionomy
 biont
 biontic
+bionts
 biophilia
 biophilias
 biophysical
@@ -16689,6 +16692,7 @@ boletuses
 bolide
 bolides
 bolivar
+bolivares
 bolivia
 boliviano
 bolivianos
@@ -18475,6 +18479,7 @@ brigandine
 brigandines
 brigands
 brigantine
+brigantines
 bright
 brighten
 brightened
@@ -21455,6 +21460,7 @@ canistel
 canistels
 canister
 canisters
+canities
 canker
 cankered
 cankering
@@ -22853,6 +22859,7 @@ cassina
 cassinas
 cassine
 cassines
+cassingle
 cassingles
 cassino
 cassinos
@@ -24429,6 +24436,7 @@ channeled
 channeler
 channelers
 channeling
+channelization
 channelizations
 channelize
 channelized
@@ -26630,6 +26638,7 @@ circumlocution
 circumlocutions
 circumlocutory
 circumlunar
+circumnavigate
 circumnavigated
 circumnavigates
 circumnavigator
@@ -27389,6 +27398,7 @@ cliffier
 cliffiest
 clifflike
 cliffs
+cliffy
 clift
 clifts
 climacteric
@@ -37143,6 +37153,7 @@ dammers
 damming
 dammit
 damnable
+damnableness
 damnablenesses
 damnably
 damnation
@@ -42065,6 +42076,7 @@ diffractometric
 diffractometry
 diffracts
 diffs
+diffuse
 diffused
 diffusely
 diffuseness
@@ -49007,6 +49019,7 @@ embroiled
 embroiler
 embroilers
 embroiling
+embroilment
 embroilments
 embroils
 embrown
@@ -52846,6 +52859,7 @@ exacters
 exactest
 exacting
 exactingly
+exactingness
 exactingnesses
 exaction
 exactions
@@ -61563,6 +61577,7 @@ gabbler
 gabblers
 gabbles
 gabbling
+gabbro
 gabbroic
 gabbroid
 gabbros
@@ -66009,6 +66024,7 @@ greenfly
 greengage
 greengages
 greengrocer
+greengroceries
 greengrocers
 greengrocery
 greenhead
@@ -69821,6 +69837,7 @@ hemipter
 hemipteran
 hemipterans
 hemipterous
+hemipters
 hemisphere
 hemispheres
 hemispheric
@@ -76261,6 +76278,7 @@ indenters
 indenting
 indention
 indentions
+indentor
 indentors
 indents
 indenture
@@ -94541,6 +94559,7 @@ mirthfulness
 mirthfulnesses
 mirthless
 mirthlessly
+mirths
 miry
 mirza
 mirzas
@@ -96467,6 +96486,7 @@ monitoring
 monitors
 monitorship
 monitorships
+monitory
 monk
 monkeries
 monkery
@@ -97012,6 +97032,7 @@ mopers
 mopery
 mopes
 mopey
+mopier
 mopiest
 mopiness
 mopinesses
@@ -102020,6 +102041,7 @@ noninvolved
 noninvolvement
 noninvolvements
 nonionic
+nonionizing
 noniron
 nonirradiated
 nonirrigated
@@ -104385,6 +104407,7 @@ offprinted
 offprinting
 offprints
 offramp
+offramps
 offs
 offscouring
 offscourings
@@ -104849,6 +104872,7 @@ onsets
 onshore
 onside
 onslaught
+onslaughts
 onstage
 onstream
 ontic
@@ -115009,6 +115033,7 @@ physiologic
 physiological
 physiologically
 physiologies
+physiologist
 physiologists
 physiology
 physiopathology
@@ -122386,6 +122411,7 @@ properness
 propernesses
 propers
 propertied
+properties
 property
 propertyless
 prophage
@@ -129051,6 +129077,7 @@ refiring
 refit
 refits
 refitted
+refitting
 refix
 refixed
 refixes
@@ -140932,6 +140959,7 @@ sewing
 sewings
 sewn
 sews
+sex
 sexagenarian
 sexagenarians
 sexagesimal
@@ -147413,6 +147441,7 @@ speerings
 speers
 speil
 speiled
+speiling
 speils
 speir
 speired
@@ -148514,6 +148543,7 @@ spud
 spudded
 spudder
 spudders
+spudding
 spuds
 spue
 spued
@@ -160956,6 +160986,7 @@ totter
 tottered
 totterer
 totterers
+tottering
 totteringly
 totters
 tottery
@@ -161020,6 +161051,7 @@ toupee
 toupees
 tour
 touraco
+touracos
 tourbillion
 tourbillions
 tourbillon
@@ -161736,6 +161768,7 @@ transitions
 transitive
 transitively
 transitiveness
+transitivities
 transitivity
 transitorily
 transitoriness
@@ -168725,6 +168758,7 @@ unusualnesses
 unutilized
 unutterable
 unutterably
+unuttered
 unvaccinated
 unvalued
 unvaried
@@ -170178,6 +170212,7 @@ vaporishness
 vaporishnesses
 vaporising
 vaporizable
+vaporization
 vaporizations
 vaporize
 vaporized
@@ -170261,6 +170296,7 @@ varieties
 variety
 variform
 variola
+variolar
 variolas
 variolate
 variolated
@@ -171232,6 +171268,7 @@ vexingly
 vext
 via
 viabilities
+viability
 viable
 viably
 viaduct
