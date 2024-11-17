@@ -386,6 +386,7 @@ accentless
 accentor
 accentors
 accents
+accentual
 accentually
 accentuate
 accentuated
@@ -2999,6 +3000,7 @@ alaruming
 alarums
 alary
 alas
+alaska
 alaskas
 alastor
 alastors
@@ -3873,6 +3875,7 @@ alternants
 alternate
 alternated
 alternately
+alternates
 alternating
 alternation
 alternations
@@ -9842,6 +9845,7 @@ autonomically
 autonomies
 autonomist
 autonomists
+autonomous
 autonomously
 autonomy
 autonym
@@ -16693,6 +16697,7 @@ bolide
 bolides
 bolivar
 bolivares
+bolivars
 bolivia
 boliviano
 bolivianos
@@ -18657,6 +18662,7 @@ broadcloths
 broaden
 broadened
 broadener
+broadeners
 broadening
 broadens
 broader
@@ -32689,6 +32695,7 @@ corelates
 corelating
 coreless
 coreligionist
+coreligionists
 coremia
 coremium
 coreopsis
@@ -33197,6 +33204,7 @@ cosigner
 cosigners
 cosigning
 cosigns
+cosily
 cosine
 cosines
 cosiness
@@ -36968,6 +36976,7 @@ daff
 daffed
 daffier
 daffiest
+daffily
 daffiness
 daffinesses
 daffing
@@ -45822,6 +45831,7 @@ drabnesses
 drabs
 dracaena
 dracaenas
+dracena
 dracenas
 drachm
 drachma
@@ -48405,6 +48415,7 @@ electrodialysis
 electrodialytic
 electrodynamic
 electrodynamics
+electroed
 electrofishing
 electrofishings
 electroform
@@ -49309,6 +49320,7 @@ empowering
 empowerment
 empowerments
 empowers
+empress
 empressement
 empressements
 empresses
@@ -52906,6 +52918,7 @@ examinations
 examine
 examined
 examinee
+examinees
 examiner
 examiners
 examines
@@ -70287,6 +70300,7 @@ hesitations
 hesitator
 hesitators
 hesperidia
+hesperidin
 hesperidins
 hesperidium
 hessian
@@ -71969,6 +71983,7 @@ hopsacking
 hopsackings
 hopsacks
 hopscotch
+hopscotched
 hopscotches
 hopscotching
 hoptoad
@@ -75831,6 +75846,7 @@ incisures
 incitable
 incitant
 incitants
+incitation
 incitations
 incite
 incited
@@ -79923,6 +79939,7 @@ ironwomen
 ironwood
 ironwoods
 ironwork
+ironworker
 ironworkers
 ironworks
 irony
@@ -84802,6 +84819,7 @@ lascars
 lascivious
 lasciviously
 lasciviousness
+lase
 lased
 laser
 laserdisc
@@ -87042,6 +87060,7 @@ lionizations
 lionize
 lionized
 lionizer
+lionizers
 lionizes
 lionizing
 lionlike
@@ -106296,6 +106315,7 @@ outbreaks
 outbred
 outbreed
 outbreeding
+outbreedings
 outbreeds
 outbribe
 outbribed
@@ -118175,6 +118195,7 @@ poncho
 ponchoed
 ponchos
 poncing
+pond
 ponded
 ponder
 ponderable
@@ -123933,6 +123954,7 @@ punster
 punsters
 punt
 punted
+punter
 punters
 punties
 punting
@@ -132519,6 +132541,7 @@ restring
 restringing
 restrings
 restrive
+restriven
 restrives
 restriving
 restroom
@@ -140189,6 +140212,7 @@ senatorships
 send
 sendable
 sendal
+sendals
 sended
 sender
 senders
@@ -142686,6 +142710,7 @@ sicklinesses
 sickling
 sickly
 sicklying
+sickness
 sicknesses
 sicko
 sickos
@@ -143560,6 +143585,7 @@ sixtyish
 sizable
 sizableness
 sizablenesses
+sizably
 sizar
 sizars
 sizarship
@@ -144958,6 +144984,7 @@ smirching
 smirk
 smirked
 smirker
+smirkers
 smirkier
 smirkiest
 smirkily
@@ -151927,6 +151954,7 @@ subgenres
 subgenus
 subgenuses
 subglacial
+subglacially
 subgoal
 subgoals
 subgovernment
@@ -153218,6 +153246,7 @@ sumptuary
 sumptuous
 sumptuously
 sumptuousness
+sumptuousnesses
 sumpweed
 sumpweeds
 sums
@@ -156761,6 +156790,7 @@ tawpies
 taws
 tawse
 tawsed
+tawses
 tawsing
 tax
 taxa
@@ -159494,6 +159524,7 @@ tide
 tided
 tideland
 tidelands
+tideless
 tidelike
 tidemark
 tidemarks
@@ -162217,6 +162248,7 @@ trekked
 trekker
 trekkers
 trekking
+treks
 trellis
 trellised
 trellises
@@ -167973,6 +168005,7 @@ unrecoverable
 unrecovered
 unrecyclable
 unredeemable
+unredeemed
 unredressed
 unreel
 unreeled
@@ -175113,6 +175146,7 @@ willer
 willers
 willet
 willets
+willful
 willfully
 willfulness
 willfulnesses
@@ -177223,6 +177257,7 @@ yow
 yowe
 yowed
 yowes
+yowie
 yowies
 yowing
 yowl
