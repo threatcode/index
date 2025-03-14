@@ -5715,6 +5715,7 @@ anteverts
 anthelia
 anthelices
 anthelion
+anthelions
 anthelix
 anthelixes
 anthelmintic
@@ -13298,6 +13299,7 @@ belladonna
 belladonnas
 bellbird
 bellbirds
+bellboy
 bellboys
 belle
 belled
@@ -14365,6 +14367,7 @@ bidialectal
 bidialectalism
 bidialectalisms
 biding
+bidirectional
 bidirectionally
 bidis
 bidonville
@@ -19194,6 +19197,7 @@ bucking
 buckish
 buckle
 buckled
+buckler
 bucklered
 bucklering
 bucklers
@@ -19987,6 +19991,7 @@ bushiest
 bushily
 bushiness
 bushinesses
+bushing
 bushings
 bushland
 bushlands
@@ -22305,6 +22310,7 @@ carefullest
 carefully
 carefulness
 carefulnesses
+caregiver
 caregivers
 caregiving
 caregivings
@@ -23350,6 +23356,7 @@ cauline
 caulis
 caulk
 caulked
+caulker
 caulkers
 caulking
 caulkings
@@ -26842,6 +26849,7 @@ civilised
 civilises
 civilising
 civilities
+civility
 civilization
 civilizational
 civilizations
@@ -27183,6 +27191,7 @@ clavichordist
 clavichordists
 clavichords
 clavicle
+clavicles
 clavicorn
 clavicular
 clavier
@@ -28770,6 +28779,7 @@ cohesive
 cohesively
 cohesiveness
 cohesivenesses
+coho
 cohobate
 cohobated
 cohobates
@@ -29767,6 +29777,7 @@ commixture
 commixtures
 commode
 commodes
+commodification
 commodified
 commodifies
 commodify
@@ -34370,6 +34381,7 @@ crankling
 crankly
 crankous
 crankpin
+crankpins
 cranks
 crankshaft
 crankshafts
@@ -42357,6 +42369,7 @@ dimerizing
 dimerous
 dimers
 dimes
+dimeter
 dimeters
 dimethoate
 dimethoates
@@ -50096,6 +50109,7 @@ englut
 engluts
 englutted
 englutting
+engorge
 engorged
 engorgement
 engorgements
@@ -52558,6 +52572,7 @@ eurytherm
 eurythermal
 eurythermic
 eurythermous
+eurytherms
 eurythmic
 eurythmics
 eurythmies
@@ -56790,6 +56805,7 @@ filmlands
 filmless
 filmlike
 filmmaker
+filmmakers
 filmmaking
 filmmakings
 filmographies
@@ -65827,6 +65843,7 @@ gratineeing
 gratinees
 grating
 gratingly
+gratings
 gratins
 gratis
 gratitude
@@ -68947,6 +68964,7 @@ hawkeyed
 hawkeys
 hawkie
 hawkies
+hawking
 hawkings
 hawkish
 hawkishly
@@ -70474,6 +70492,7 @@ hexadecimals
 hexades
 hexadic
 hexads
+hexagon
 hexagonal
 hexagonally
 hexagons
@@ -72471,6 +72490,7 @@ housewiferies
 housewifery
 housewifey
 housewives
+housework
 houseworks
 housing
 housings
@@ -75543,6 +75563,7 @@ in
 inabilities
 inability
 inaccessibility
+inaccessible
 inaccessibly
 inaccuracies
 inaccuracy
@@ -91133,6 +91154,7 @@ massing
 massive
 massively
 massiveness
+massivenesses
 massless
 massy
 mast
@@ -91886,6 +91908,7 @@ medicos
 medics
 medieval
 medievalism
+medievalisms
 medievalist
 medievalists
 medievally
@@ -92517,6 +92540,7 @@ mephitis
 mephitises
 meprobamate
 meprobamates
+merbromin
 merbromins
 merc
 mercantile
@@ -101451,6 +101475,7 @@ nonbotanists
 nonbrand
 nonbreakable
 nonbreathing
+nonbreeder
 nonbreeders
 nonbreeding
 nonbroadcast
@@ -105675,6 +105700,7 @@ originally
 originals
 originate
 originated
+originates
 originating
 origination
 originations
@@ -111862,6 +111888,7 @@ patriates
 patriating
 patrician
 patricians
+patriciate
 patriciates
 patricidal
 patricide
@@ -119049,6 +119076,7 @@ poteen
 poteens
 potence
 potences
+potencies
 potency
 potent
 potentate
@@ -127659,6 +127687,7 @@ recirculations
 recision
 recisions
 recit
+recital
 recitalist
 recitalists
 recitals
@@ -133544,6 +133573,7 @@ rewarding
 rewardingly
 rewards
 rewarm
+rewarmed
 rewarming
 rewarms
 rewash
@@ -134311,6 +134341,7 @@ rinsed
 rinser
 rinsers
 rinses
+rinsible
 rinsing
 rinsings
 rioja
@@ -143182,6 +143213,7 @@ silversmithings
 silversmiths
 silverware
 silverwares
+silverweed
 silverweeds
 silvery
 silvex
@@ -143638,6 +143670,7 @@ sizzler
 sizzlers
 sizzles
 sizzling
+sjambok
 sjamboked
 sjamboking
 sjamboks
@@ -145413,6 +145446,7 @@ sniggled
 sniggler
 snigglers
 sniggles
+sniggling
 sniglet
 sniglets
 snip
@@ -171113,6 +171147,7 @@ vernissages
 vernix
 vernixes
 veronica
+veronicas
 verruca
 verrucae
 verrucas
