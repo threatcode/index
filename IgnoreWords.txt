@@ -5411,6 +5411,7 @@ anlas
 anlases
 anna
 annal
+annalist
 annalistic
 annalists
 annals
@@ -19533,6 +19534,7 @@ bullwhip
 bullwhipped
 bullwhipping
 bullwhips
+bully
 bullyboy
 bullyboys
 bullying
@@ -24655,6 +24657,7 @@ charlatanisms
 charlatanries
 charlatanry
 charlatans
+charley
 charleys
 charlie
 charlies
@@ -37607,6 +37610,7 @@ daydreamed
 daydreamer
 daydreamers
 daydreaming
+daydreamlike
 daydreams
 daydreamt
 daydreamy
@@ -46475,6 +46479,7 @@ drugmaker
 drugmakers
 drugs
 drugstore
+drugstores
 druid
 druidess
 druidesses
@@ -47876,6 +47881,7 @@ edificial
 edified
 edifier
 edifiers
+edifies
 edify
 edifying
 edile
@@ -47887,6 +47893,7 @@ editing
 edition
 editions
 editor
+editorial
 editorialist
 editorialists
 editorialize
@@ -49888,6 +49895,7 @@ endoskeletons
 endosmos
 endosmoses
 endosome
+endosomes
 endosperm
 endosperms
 endospore
@@ -53593,6 +53601,7 @@ exotoxins
 exotropia
 exotropias
 exotropic
+expand
 expandabilities
 expandability
 expandable
@@ -66607,6 +66616,7 @@ groveler
 grovelers
 groveless
 groveling
+grovelingly
 grovelled
 groveller
 grovellers
@@ -72780,6 +72790,7 @@ humiliation
 humiliations
 humilities
 humility
+humiture
 humitures
 hummable
 hummed
@@ -76185,6 +76196,7 @@ incubuses
 incudal
 incudate
 incudes
+inculcate
 inculcated
 inculcates
 inculcating
@@ -79131,6 +79143,7 @@ intestacies
 intestacy
 intestate
 intestates
+intestinal
 intestinally
 intestine
 intestines
@@ -80421,6 +80434,7 @@ isothermally
 isotherms
 isotone
 isotones
+isotonic
 isotonically
 isotonicities
 isotonicity
@@ -85911,6 +85925,7 @@ lenity
 leno
 lenos
 lens
+lense
 lensed
 lenses
 lensing
@@ -94303,6 +94318,7 @@ minae
 minaret
 minareted
 minarets
+minas
 minatory
 minaudiere
 minaudieres
@@ -94803,6 +94819,7 @@ misbiassing
 misbill
 misbilled
 misbilling
+misbills
 misbind
 misbinding
 misbinds
@@ -102499,6 +102516,7 @@ nonresidential
 nonresidents
 nonresistance
 nonresistances
+nonresistant
 nonresistants
 nonresonant
 nonrespondent
@@ -104154,6 +104172,7 @@ ochered
 ochering
 ocherous
 ochers
+ochery
 ochlocracies
 ochlocracy
 ochlocrat
@@ -107321,6 +107340,7 @@ outshouted
 outshouting
 outshouts
 outside
+outsider
 outsiderness
 outsidernesses
 outsiders
@@ -129803,6 +129823,7 @@ reheeling
 reheels
 rehem
 rehemmed
+rehemming
 rehems
 rehinge
 rehinged
@@ -134114,6 +134135,7 @@ ridicules
 ridiculing
 ridiculous
 ridiculously
+ridiculousness
 riding
 ridings
 ridley
@@ -140774,6 +140796,7 @@ serigrapher
 serigraphers
 serigraphies
 serigraphs
+serigraphy
 serin
 serine
 serines
@@ -143164,6 +143187,7 @@ silkinesses
 silking
 silklike
 silkoline
+silkolines
 silks
 silkweed
 silkweeds
@@ -147215,6 +147239,7 @@ sparked
 sparker
 sparkers
 sparkier
+sparkiest
 sparkily
 sparking
 sparkish
@@ -147854,6 +147879,7 @@ spillable
 spillage
 spillages
 spilled
+spiller
 spillers
 spillikin
 spillikins
@@ -148059,6 +148085,7 @@ spitefullest
 spitefully
 spitefulness
 spitefulnesses
+spites
 spitfire
 spitfires
 spiting
@@ -148377,6 +148404,7 @@ sporogonia
 sporogonic
 sporogonies
 sporogonium
+sporogony
 sporoid
 sporophore
 sporophores
@@ -148505,6 +148533,7 @@ sprained
 spraining
 sprains
 sprang
+sprangs
 sprat
 sprats
 sprattle
@@ -153008,6 +153037,7 @@ suffragettes
 suffragist
 suffragists
 suffuse
+suffused
 suffuses
 suffusing
 suffusion
@@ -154075,6 +154105,7 @@ supervirtuosi
 supervirtuoso
 supervirtuosos
 supervise
+supervised
 supervises
 supervising
 supervision
@@ -157058,6 +157089,7 @@ teaseling
 teaselled
 teaseller
 teasellers
+teaselling
 teasels
 teaser
 teasers
@@ -168599,6 +168631,7 @@ unsteeled
 unsteeling
 unsteels
 unstemmed
+unstep
 unstepped
 unstepping
 unsteps
@@ -172267,6 +172300,7 @@ vivisection
 vivisectional
 vivisectionist
 vivisectionists
+vivisections
 vivisector
 vivisectors
 vivisects
@@ -173327,6 +173361,7 @@ warisons
 wark
 warked
 warking
+warks
 warless
 warlike
 warlock
